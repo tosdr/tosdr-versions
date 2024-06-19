@@ -1,158 +1,367 @@
-In order to view this page correctly, you must have a JavaScript-enabled browser and have JavaScript turned on. We apologize for any inconvenience. [Learn how to enable it](https://support.google.com/adsense/bin/answer.py?hl=en&answer=12654).
+ [![Avast](/content/dam/avast/logo/Default.svg)](https://www.avast.com/index)
 
-We’re sorry, your browser appears to be outdated.  
-To see the content of this webpage correctly, please update to the latest version or install a new browser for free, such as [Avast Secure Browser](https://www.avast.com/secure-browser) or [Google Chrome](https://www.google.com/chrome/).
+* For home
+    
+    Products for PC and mobile phone protection
+    
+    [For home](https://www.avast.com/index)
+* For business
+    
+    Protect your business with Avast
+    
+    [For business](https://www.avast.com/business)
+* For partners
+    
+    Partner with Avast and boost your business
+    
+    [For partners](https://www.avast.com/partners)
 
-[![Avast](https://static3.avast.com/10003751/web/i/v2/components/logos/avast-logos/avast-logo-default.svg)](https://www.avast.com/index "Home")
+* About us
+    
+    Careers, media, contact
+    
+    [About us](https://www.avast.com/about)
+* Blogs
+    
+    Academy, Blog, Decoded, Forum
+    
+    Blogs
 
-[Skip to main content](#main-content) Close
+*  ![](/content/dam/avast/flag/en-ww.svg) Worldwide (English)
 
-* [For home](https://www.avast.com/index) For home Products for PC and mobile phone protection
-* [For business](https://www.avast.com/business) For business Protect your business with Avast
-* [For partners](https://www.avast.com/partners) For partners Partner with Avast and boost your business
+* Security Security
+    
+    *  [![](/content/dam/avast/icon/40/free-antivirus.svg) Free Antivirus
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Free security and privacy protection](https://www.avast.com/free-antivirus-download)
+        
+         [![](/content/dam/avast/icon/40/free-antivirus.svg) Free Antivirus
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Free security and privacy protection](https://www.avast.com/free-mac-security)
+        
+         [![](/content/dam/avast/icon/40/free-antivirus.svg) Free Antivirus
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Free security and privacy protection](https://www.avast.com/free-mobile-security)
+        
+         [![](/content/dam/avast/icon/40/free-antivirus.svg) Free Antivirus
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Free security and privacy protection](https://www.avast.com/free-ios-security)
+        
+    *  [![](/content/dam/avast/icon/40/premium-security.svg) Premium Security
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Advanced security against all internet threats](https://www.avast.com/premium-security)
+        
+         [![](/content/dam/avast/icon/40/premium-security.svg) Premium Security
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Advanced security against all internet threats](https://www.avast.com/premium-security)
+        
+         [![](/content/dam/avast/icon/40/premium-security.svg) Premium Security
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Advanced security against all internet threats](https://www.avast.com/premium-security)
+        
+         [![](/content/dam/avast/icon/40/premium-security.svg) Premium Security
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Advanced security against all internet threats](https://www.avast.com/premium-security)
+        
+    *  [![](/content/dam/avast/icon/ultimate1.svg) Ultimate New
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Our best security, privacy, and performance apps in one package](https://www.avast.com/ultimate)
+        
+         [![](/content/dam/avast/icon/ultimate1.svg) Ultimate New
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Our best security, privacy, and performance apps in one package](https://www.avast.com/ultimate)
+        
+         [![](/content/dam/avast/icon/ultimate1.svg) Ultimate New
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Our best security, privacy, and performance apps in one package](https://www.avast.com/ultimate)
+        
+         [![](/content/dam/avast/icon/ultimate1.svg) Ultimate New
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Our best security, privacy, and performance apps in one package](https://www.avast.com/ultimate)
+        
+    
+    Looking for a product for your device?
+    
+    [Free Antivirus for PC](https://www.avast.com/free-antivirus-download) , [Free Seciruty for Mac](https://www.avast.com/free-mac-security) , [Free Security for Android](https://www.avast.com/free-mobile-security) , [Free Security for iPhone/iPad](https://www.avast.com/free-ios-security)
+    
+* Privacy Privacy
+    
+    *  [![](/content/dam/avast/icon/40/secureline-vpn.svg) Secure Line VPN
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Encrypt your connection to stay safe on public networks](https://www.avast.com/secureline-vpn)
+        
+         [![](/content/dam/avast/icon/40/secureline-vpn.svg) Secure Line VPN
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Encrypt your connection to stay safe on public networks](https://www.avast.com/secureline-vpn)
+        
+         [![](/content/dam/avast/icon/40/secureline-vpn.svg) Secure Line VPN
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Encrypt your connection to stay safe on public networks](https://www.avast.com/secureline-vpn)
+        
+         [![](/content/dam/avast/icon/40/secureline-vpn.svg) Secure Line VPN
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Encrypt your connection to stay safe on public networks](https://www.avast.com/secureline-vpn)
+        
+    *  [![](/content/dam/avast/icon/40/antitrack.svg) AntiTrack
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Disguise your digital fingerprint to avoid personalized ads](https://www.avast.com/antitrack)
+        
+         [![](/content/dam/avast/icon/40/antitrack.svg) AntiTrack
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Disguise your digital fingerprint to avoid personalized ads](https://www.avast.com/antitrack)
+        
+         [![](/content/dam/avast/icon/40/antitrack.svg) AntiTrack
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Disguise your digital fingerprint to avoid personalized ads](https://www.avast.com/antitrack)
+        
+         [![](/content/dam/avast/icon/40/antitrack.svg) AntiTrack
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Disguise your digital fingerprint to avoid personalized ads](https://www.avast.com/antitrack)
+        
+    *  [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        
+         [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        
+         [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        
+         [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        
+    *  [![](/content/dam/avast/icon/secure-browser-pro-color-boxed.svg) Secure Browser PRO
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Unlock the full potential of Avast Secure Browser and fully encrypt your online activity](https://www.avast.com/secure-browser-pro)
+        
+         [![](/content/dam/avast/icon/secure-browser-pro-color-boxed.svg) Secure Browser PRO
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Unlock the full potential of Avast Secure Browser and fully encrypt your online activity](https://www.avast.com/secure-browser-pro)
+        
+         [![](/content/dam/avast/icon/secure-browser-pro-color-boxed.svg) Secure Browser PRO
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Unlock the full potential of Avast Secure Browser and fully encrypt your online activity](https://www.avast.com/secure-browser-pro)
+        
+         [![](/content/dam/avast/icon/secure-browser-pro-color-boxed.svg) Secure Browser PRO
+        
+         ![](/content/dam/avast/cb/product-all-platform-icons.svg)
+        
+        Unlock the full potential of Avast Secure Browser and fully encrypt your online activity](https://www.avast.com/secure-browser-pro)
+        
+    *  [![](/content/dam/avast/icon/40/breachguard.svg) BreachGuard
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Protect your personal info from being exposed and sold](https://www.avast.com/breachguard)
+        
+         [![](/content/dam/avast/icon/40/breachguard.svg) BreachGuard
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Protect your personal info from being exposed and sold](https://www.avast.com/breachguard)
+        
+         [![](/content/dam/avast/icon/40/breachguard.svg) BreachGuard
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Protect your personal info from being exposed and sold](https://www.avast.com/breachguard)
+        
+         [![](/content/dam/avast/icon/40/breachguard.svg) BreachGuard
+        
+         ![platforms](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Protect your personal info from being exposed and sold](https://www.avast.com/breachguard)
+        
+    *  [![](/content/dam/avast/icon/40/online-privacy-and-security.svg) Online Security & Privacy
+        
+        Privacy and security browser extension from Avast](https://www.avast.com/avast-online-security)
+        
+         [![](/content/dam/avast/icon/40/online-privacy-and-security.svg) Online Security & Privacy
+        
+        Privacy and security browser extension from Avast](https://www.avast.com/avast-online-security)
+        
+         [![](/content/dam/avast/icon/40/online-privacy-and-security.svg) Online Security & Privacy
+        
+        Privacy and security browser extension from Avast](https://www.avast.com/avast-online-security)
+        
+         [![](/content/dam/avast/icon/40/online-privacy-and-security.svg) Online Security & Privacy
+        
+        Privacy and security browser extension from Avast](https://www.avast.com/avast-online-security)
+        
+    
+* Performance Performance
+    
+    *  [![](/content/dam/avast/icon/cleanup-premium.svg) Cleanup Premium
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup)
+        
+         [![](/content/dam/avast/icon/cleanup-premium.svg) Cleanup Premium
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup-mac)
+        
+         [![](/content/dam/avast/icon/cleanup-premium.svg) Cleanup Premium
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup-android)
+        
+         [![](/content/dam/avast/icon/cleanup-premium.svg) Cleanup Premium
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Boost your computer’s speed and performance](https://www.avast.com/cleanup)
+        
+    *  [![](/content/dam/avast/icon/driver-updater.svg) Driver Updater
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Automatically update drivers with a single click](https://www.avast.com/driver-updater)
+        
+         [![](/content/dam/avast/icon/driver-updater.svg) Driver Updater
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Automatically update drivers with a single click](https://www.avast.com/driver-updater)
+        
+         [![](/content/dam/avast/icon/driver-updater.svg) Driver Updater
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Automatically update drivers with a single click](https://www.avast.com/driver-updater)
+        
+         [![](/content/dam/avast/icon/driver-updater.svg) Driver Updater
+        
+         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        Automatically update drivers with a single click](https://www.avast.com/driver-updater)
+        
+    
+* [Avast One New](https://www.avast.com/avast-one) [Avast One New](https://www.avast.com/avast-one)
 
-* [About us](https://www.avast.com/about) About us Careers, media, contact
-* Blogs Academy, Blog, Decoded, Forum
-* Worldwide (English)
+* [Store](https://www.avast.com/store)[Store](https://www.avast.com/store)
+
+* [Home](https://www.avast.com/index)[Home](https://www.avast.com/index)
+* [Support](https://support.avast.com/index)[Support](https://support.avast.com/index)
+
+* [Store](https://www.avast.com/store)[Store](https://www.avast.com/store)
+* [Account](https://id.avast.com/)[Account](https://id.avast.com/)
 
 For home
 
-* Security
+* Products Products
     
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+    *  [![](/content/dam/avast/icon/home-office.svg) Small & Home Office](https://www.avast.com/business/products/home-office)
         
-        Free Antivirus
+         ![Home Office](/content/dam/avast/icon/buisness-1_10.svg)
         
-        Basic protection for all your devices](https://www.avast.com/free-antivirus-download)[![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+        Protect up to 10 devices, including laptops, mobile, computers, and tablets with [Small Office Protection](http://www.google.com/).
         
-        Free Antivirus
+    *  [![](/content/dam/avast/icon/small-business.svg) Small Businesses](https://www.avast.com/business/products/small-business)
         
-        Basic protection for all your devices](https://www.avast.com/free-mac-security)[![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
+         ![Small Business](/content/dam/avast/icon/buisness-11.svg)
         
-        Free Antivirus
+        [Essential](https://www.avast.com/business/products/essential), [Premium](https://www.avast.com/en-us/business/products/premium), or [Ultimate](https://www.avast.com/en-us/business/products/ultimate) Business Security managed from integrated, cloud-based Business Hub platform.
         
-        Basic protection for all your devices](https://www.avast.com/free-mobile-security)[![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-free_white.svg)
-        
-        Free Antivirus
-        
-        Basic protection for all your devices](https://www.avast.com/free-ios-security)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-premium_white.svg)
-        
-        Premium Security
-        
-        Complete protection against all internet threats](https://www.avast.com/premium-security)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-ultimate_white.svg)
-        
-        Ultimate
-        
-        Our best security, privacy, and performance apps in one package](https://www.avast.com/ultimate)
-    
-    Looking for a product for your device? [Free Antivirus for PC](https://www.avast.com/free-antivirus-download), [Free Security for Android](https://www.avast.com/free-mobile-security), [Free Security for Mac](https://www.avast.com/free-mac-security), [Free Security for iPhone/iPad](https://www.avast.com/free-ios-security)
-    
-    Looking for a product for your device? [Free Antivirus for PC](https://www.avast.com/free-antivirus-download) [Free Security for Mac](https://www.avast.com/free-mac-security) [Free Security for Android](https://www.avast.com/free-mobile-security) [Free Security for iPhone/iPad](https://www.avast.com/free-ios-security)
-    
-* Privacy
-    
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-vpn_white.svg)
-        
-        SecureLine VPN
-        
-        Encrypt your connection to stay safe on public networks](https://www.avast.com/secureline-vpn)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-antitrack_white.svg)
-        
-        AntiTrack
-        
-        Disguise your digital fingerprint to avoid personalized ads](https://www.avast.com/antitrack)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-secure-browser-color.svg)
-        
-        Secure Browser
-        
-        Secure, private, and easy to use web browser](https://www.avast.com/secure-browser)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-secure-browser-pro-color.svg)
-        
-        Secure Browser PRO
-        
-        Unlock the full potential of Avast Secure Browser and fully encrypt your online activity](https://www.avast.com/secure-browser-pro)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-breachguard_white.svg)
-        
-        BreachGuard
-        
-        Protect your personal info from being exposed and sold](https://www.avast.com/breachguard)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-online-privacy-and-security_white.svg)
-        
-        Online Security & Privacy
-        
-        Privacy and security browser extension from Avast](https://www.avast.com/avast-online-security)
-    
-* Performance
-    
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
-        
-        Cleanup Premium
-        
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup)[![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
-        
-        Cleanup Premium
-        
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup-mac)[![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
-        
-        Cleanup Premium
-        
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup-android)[![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-cleanup-premium_white.svg)
-        
-        Cleanup Premium
-        
-        Boost your computer’s speed and performance](https://www.avast.com/cleanup)
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-driver-updater_white.svg)
-        
-        Driver Updater
-        
-        Automatically update drivers with a single click](https://www.avast.com/driver-updater)
-    
-* [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-avast-one.svg)
-    
-    Avast One](https://www.avast.com/avast-one)
-* [Store](https://www.avast.com/store)
-
-* [Home](https://www.avast.com/index)
-* [Support](https://support.avast.com/en-ww/index)
-* [Store](https://www.avast.com/store)
-* [Account](https://id.avast.com/en-ww)
-
-For business
-
-* Products
-    
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-smb-home-office_white.svg)
-        
-        Small & Home  
-        Office
-        
-        1-10 devices](https://www.avast.com/business/products/home-office)
-        
-        Protect up to 10 devices, including laptops, mobile, computers, and tablets with [Small Office Protection.](https://www.avast.com/business/products/small-office-protection)
-        
-    * [![](https://static3.avast.com/10003751/web/i/v2/components/icons/product-icons/32x32/product-icon-32x32-smb-small-business_white.svg)
-        
-        Small Businesses
-        
-        11+ devices](https://www.avast.com/business/products/small-business)
-        
-        [Essential](https://www.avast.com/business/products/essential), [Premium](https://www.avast.com/business/products/premium), or [Ultimate](https://www.avast.com/business/products/ultimate) Business Security managed from integrated, cloud-based Business Hub platform.
-        
-    * Specialized products
+    * Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
-        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
+        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
+        
+        Specialised products
+        
+        * [Patch Management](https://www.avast.com/business/products/patch-management)
+        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
+        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
+        * [CCleaner](https://www.avast.com/business/products/ccleaner)
+        
+        Specialised products
+        
+        * [Patch Management](https://www.avast.com/business/products/patch-management)
+        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
+        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
+        * [CCleaner](https://www.avast.com/business/products/ccleaner)
+        
+        Specialised products
+        
+        * [Patch Management](https://www.avast.com/business/products/patch-management)
+        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
+        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
+        * [CCleaner](https://www.avast.com/business/products/ccleaner)
+        
     
-    Not sure which solution is right for your business?
+    **Not sure which solution is right for your business?**
     
-    [Help me choose](https://www.avast.com/business/help-me-choose)
+    [Help me choose](https://www.avast.com/free-antivirus-download)
     
-* Business partners
+* Business partners Business partners
     
     * Partnership opportunities
         
@@ -160,164 +369,177 @@ For business
         * [Resellers](https://www.avast.com/business/partners/reseller)
         * [Distributors](https://www.avast.com/business/partners/distributor)
         * [Affiliates](https://www.avast.com/affiliates)
+        
+        Partnership opportunities
+        
+        * [MSPs](https://www.avast.com/business/partners/msp)
+        * [Resellers](https://www.avast.com/business/partners/reseller)
+        * [Distributors](https://www.avast.com/business/partners/distributor)
+        * [Affiliates](https://www.avast.com/affiliates)
+        
+        Partnership opportunities
+        
+        * [MSPs](https://www.avast.com/business/partners/msp)
+        * [Resellers](https://www.avast.com/business/partners/reseller)
+        * [Distributors](https://www.avast.com/business/partners/distributor)
+        * [Affiliates](https://www.avast.com/affiliates)
+        
+        Partnership opportunities
+        
+        * [MSPs](https://www.avast.com/business/partners/msp)
+        * [Resellers](https://www.avast.com/business/partners/reseller)
+        * [Distributors](https://www.avast.com/business/partners/distributor)
+        * [Affiliates](https://www.avast.com/affiliates)
+        
     * Solutions for MSPs
         
         * [Business Hub Security Platform](https://www.avast.com/business/business-hub)
         * [Cloud Network Security](https://www.avast.com/business/products/network-security)
         
+        Solutions for MSPs
+        
+        * [Business Hub Security Platform](https://www.avast.com/business/business-hub)
+        * [Cloud Network Security](https://www.avast.com/business/products/network-security)
+        
+        Solutions for MSPs
+        
+        * [Business Hub Security Platform](https://www.avast.com/business/business-hub)
+        * [Cloud Network Security](https://www.avast.com/business/products/network-security)
+        
+        Solutions for MSPs
+        
+        * [Business Hub Security Platform](https://www.avast.com/business/business-hub)
+        * [Cloud Network Security](https://www.avast.com/business/products/network-security)
+        
+    * Shop by vertical
+        
+        * [Education](https://www.avast.com/business/education)
+        
         Shop by vertical
         
         * [Education](https://www.avast.com/business/education)
+        
+        Shop by vertical
+        
+        * [Education](https://www.avast.com/business/education)
+        
+        Shop by vertical
+        
+        * [Education](https://www.avast.com/business/education)
+        
     
-    [Become a partner](https://www.avast.com/business/partners)
+    [BECOME A PARTNER](https://www.avast.com/business/partners)
     
-    [Partner locator](https://www.avast.com/business/partner-locator)
+    [PARTNER LOCATOR](https://www.avast.com/business/partner-locator)
     
-* [Resources](https://www.avast.com/business/resources)
-* [Trials](https://www.avast.com/business/trials)
-* [Store](https://www.avast.com/business/store)
+* [Resources](https://www.avast.com/business/resources) [Resources](https://www.avast.com/business/resources)
+* [Trials](https://www.avast.com/business/trials) [Trials](https://www.avast.com/business/trials)
 
-* [Home](https://www.avast.com/business)
-* [Contact sales](https://www.avast.com/business/contact-sales)
-* [Support](https://www.avast.com/business/support)
-* [Store](https://www.avast.com/business/store)
-* Account
-    
-    * [Business Hub](https://id.avast.com/?target=https%3A%2F%2Fbusiness.avast.com%3A443%2F#login)
-    * [CloudCare](https://us.cloudcare.avg.com/)
-    * [Partner Portal](https://partners.avast.com/s/login/)
-    
+* [Store](https://www.avast.com/business/store)[Store](https://www.avast.com/business/store)
+
+* [Home](https://www.avast.com/business)[Home](https://www.avast.com/business)
+* [Contact Sales](https://www.avast.com/business/contact-sales)[Contact Sales](https://www.avast.com/business/contact-sales)
+* [Support](https://support.avast.com/index)[Support](https://support.avast.com/index)
+
+* [Store](https://www.avast.com/store)[Store](https://www.avast.com/store)
+* [Account](https://id.avast.com/)[Account](https://id.avast.com/)
+
+For business
+
+* [Smart Life](https://www.avast.com/partners/smartlife) [Smart Life](https://www.avast.com/partners/smartlife)
+* [Mobile Security](https://www.avast.com/partners/mobile-security) [Mobile Security](https://www.avast.com/partners/mobile-security)
+* [VPN](https://www.avast.com/partners/vpn) [VPN](https://www.avast.com/partners/vpn)
+* [Threat Intelligence](https://www.avast.com/partners/threat-intelligence) [Threat Intelligence](https://www.avast.com/partners/threat-intelligence)
+* [Knowledge Center](https://www.avast.com/partners/knowledge) [Knowledge Center](https://www.avast.com/partners/knowledge)
 
 For partners
 
-* [Smart Life](https://www.avast.com/partners/smartlife)
-* [Mobile Security](https://www.avast.com/partners/mobile-security)
-* [VPN](https://www.avast.com/partners/vpn)
-* [Threat Intelligence](https://www.avast.com/partners/threat-intelligence)
-* [Knowledge Center](https://www.avast.com/partners/knowledge)
-
-About us
-
-* [About Avast](https://www.avast.com/about)
-* [Careers](https://www.avast.com/careers)
-* Privacy
+* [About Avast](https://www.avast.com/about) [About Avast](https://www.avast.com/about)
+* [Careers](https://www.avast.com/careers) [Careers](https://www.avast.com/careers)
+* Privacy Privacy
     
     * * [Privacy](https://www.avast.com/privacy)
         * [Expert guides](https://www.avast.com/c-category-privacy)
         * [Privacy blogs](https://blog.avast.com/topic/privacy)
+        
     
-* [Digital trust](https://www.avast.com/digital-trust)
-* Press center
+* [Digital trust](https://www.avast.com/digital-trust) [Digital trust](https://www.avast.com/digital-trust)
+* Press center Press center
     
     * * [Press releases](https://press.avast.com/)
         * [Events](https://press.avast.com/events)
         * [In the news](https://press.avast.com/news)
         * [Media materials](https://press.avast.com/media-materials)
         * [PR contacts](https://press.avast.com/contacts)
+        
     
+* [Awards](https://www.avast.com/awards-certifications) [Awards](https://www.avast.com/awards-certifications)
+* [Contact us](https://www.avast.com/contacts) [Contact us](https://www.avast.com/contacts)
 
-* [Awards](https://www.avast.com/awards-certifications)
-* [Contact us](https://www.avast.com/contacts)
+About us
 
-* Blogs
-* [Avast Blog Read about recent news from the security world](https://blog.avast.com/)
-* [Avast Academy Expert tips and guides about digital security and privacy](https://www.avast.com/c-academy)
-* [Avast Decoded In-depth technical articles regarding security threats](https://decoded.avast.io/)
-* [Avast Forum Discuss with the community](https://forum.avast.com/)
+* [Avast Blog
+    
+    Read about recent news from the security world](https://blog.avast.com/)[Avast Blog
+    
+    Read about recent news from the security world](https://blog.avast.com/)
+* [Avast Academy
+    
+    Expert tips and guides about digital security and privacy](https://www.avast.com/c-academy)[Avast Academy
+    
+    Expert tips and guides about digital security and privacy](https://www.avast.com/c-academy)
+* [Avast Decoded
+    
+    In-depth technical articles regarding security threats](https://decoded.avast.io/)[Avast Decoded
+    
+    In-depth technical articles regarding security threats](https://decoded.avast.io/)
+* [Avast Forum
+    
+    Discuss with the community](https://forum.avast.com/)[Avast Forum
+    
+    Discuss with the community](https://forum.avast.com/)
 
- 
+Blogs
 
-List of available regions
-=========================
+Americas
 
-##### Main regions
+ [![Argentina](/content/dam/avast/flag/es-ar.svg) Argentina](https://www.avast.com/es-ar/eula)[![Brasil](/content/dam/avast/flag/pt-br.svg) Brasil](https://www.avast.com/pt-br/eula)[![Canada (English)](/content/dam/avast/flag/en-ca.svg) Canada (English)](https://www.avast.com/en-ca/eula)[![Canada (français)](/content/dam/avast/flag/en-ca.svg) Canada (français)](https://www.avast.com/fr-ca/eula)[![Chile](/content/dam/avast/flag/es-cl.svg) Chile](https://www.avast.com/es-cl/eula)[![Colombia](/content/dam/avast/flag/es-co.svg) Colombia](https://www.avast.com/es-co/eula)[![EE.UU. (español)](/content/dam/avast/flag/en-us.svg) EE.UU. (español)](https://www.avast.com/es-us/eula)[![México](/content/dam/avast/flag/es-mx.svg) México](https://www.avast.com/es-mx/index)[![USA (English)](/content/dam/avast/flag/en-us.svg) USA (English)](https://www.avast.com/en-us/eula)
 
-* [Worldwide (English)](https://www.avast.com/eula)
-* [Europe (English)](https://www.avast.com/en-eu/eula)
-* [América Latina (español)](https://www.avast.com/es-ww/eula)
+ [![América Latina (español)](/content/dam/avast/flag/es-latin.svg) América Latina (español)](https://www.avast.com/es-ww/eula)
 
-AMERICAS
+Europe, Middle East & Africa
 
-* [Argentina](https://www.avast.com/es-ar/eula)
-* [Brasil](https://www.avast.com/pt-br/eula)
-* [Canada (English)](https://www.avast.com/en-ca/eula)
-* [Canada (français)](https://www.avast.com/fr-ca/eula)
-* [Chile](https://www.avast.com/es-cl/eula)
-* [Colombia](https://www.avast.com/es-co/eula)
-* [EE.UU. (español)](https://www.avast.com/es-us/eula)
-* [México](https://www.avast.com/es-mx/eula)
-* [USA (English)](https://www.avast.com/en-us/eula)
+ [![België (Nederlands)](/content/dam/avast/flag/nl-be.svg) België (Nederlands)](https://www.avast.com/nl-be/eula)[![Belgique (français)](/content/dam/avast/flag/nl-be.svg) Belgique (français)](https://www.avast.com/fr-be/eula)[![Česká republika](/content/dam/avast/flag/cs-cz.svg) Česká republika](https://www.avast.com/cs-cz/eula)[![Danmark](/content/dam/avast/flag/da-dk.svg) Danmark](https://www.avast.com/da-dk/index)[![Deutschland](/content/dam/avast/flag/de-de.svg) Deutschland](https://www.avast.com/de-de/eula)[![España](/content/dam/avast/flag/es-es.svg) España](https://www.avast.com/es-es/eula)[![France](/content/dam/avast/flag/fr-fr.svg) France](https://www.avast.com/fr-fr/eula)[![Italia](/content/dam/avast/flag/it-it.svg) Italia](https://www.avast.com/it-it/eula)[![Magyarország](/content/dam/avast/flag/hu-hu.svg) Magyarország](https://www.avast.com/hu-hu/eula)[![Nederland](/content/dam/avast/flag/nl-nl.svg) Nederland](https://www.avast.com/nl-nl/eula)[![Norge](/content/dam/avast/flag/no-no.svg) Norge](https://www.avast.com/no-no/eula)
 
-* [América Latina (español)](https://www.avast.com/es-ww/eula)
+ [![Polska](/content/dam/avast/flag/pl-pl.svg) Polska](https://www.avast.com/pl-pl/eula)[![Portugal](/content/dam/avast/flag/pt-pt.svg) Portugal](https://www.avast.com/pt-pt/eula)[![România](/content/dam/avast/flag/ro-ro.svg) România](https://www.avast.com/ro-ro/eula)[![Schweiz (Deutsch)](/content/dam/avast/flag/de-ch.svg) Schweiz (Deutsch)](https://www.avast.com/de-ch/eula)[![Slovensko (česky)](/content/dam/avast/flag/cs-sk.svg) Slovensko (česky)](https://www.avast.com/cs-sk/eula)[![South Africa](/content/dam/avast/flag/en-za.svg) South Africa](https://www.avast.com/en-za/eula)[![Suisse (français)](/content/dam/avast/flag/de-ch.svg) Suisse (français)](https://www.avast.com/fr-ch/eula)[![Suomi](/content/dam/avast/flag/fi-fi.svg) Suomi](https://www.avast.com/fi-fi/eula)[![Sverige](/content/dam/avast/flag/sv-se.svg) Sverige](https://www.avast.com/sv-se/eula)[![Türkiye](/content/dam/avast/flag/tr-tr.svg) Türkiye](https://www.avast.com/tr-tr/eula)[![United Arab Emirates](/content/dam/avast/flag/en-ae.svg) United Arab Emirates](https://www.avast.com/en-ae/eula)
 
-EUROPE, MIDDLE EAST & AFRICA
+ [![United Kingdom](/content/dam/avast/flag/en-uk.svg) United Kingdom](https://www.avast.com/en-gb/eula)[![Ελλάδα](/content/dam/avast/flag/el-gr.svg) Ελλάδα](https://www.avast.com/el-gr/eula)[![ישראל](/content/dam/avast/flag/he-il.svg) ישראל](https://www.avast.com/he-il/eula)[![Казахстан](/content/dam/avast/flag/ru-kz.svg) Казахстан](https://www.avast.com/ru-kz/eula)[![Россия](/content/dam/avast/flag/ru-ru.svg) Россия](https://www.avast.ru/eula)[![Україна (українська)](/content/dam/avast/flag/ua-ua.svg) Україна (українська)](https://www.avast.ua/eula)[![Украина (русский)](/content/dam/avast/flag/ua-ua.svg) Украина (русский)](https://www.avast.ua/ru-ua/eula)[![المملكة العربية السعودية](/content/dam/avast/flag/ar-sa.svg) المملكة العربية السعودية](https://www.avast.com/ar-sa/eula)[![الدول العربية](/content/dam/avast/flag/ar-ww.svg) الدول العربية](https://www.avast.com/ar-ww/eula)
 
-* [België (Nederlands)](https://www.avast.com/nl-be/eula)
-* [Belgique (français)](https://www.avast.com/fr-be/eula)
-* [Česká republika](https://www.avast.com/cs-cz/eula)
-* [Danmark](https://www.avast.com/da-dk/eula)
-* [Deutschland](https://www.avast.com/de-de/eula)
-* [España](https://www.avast.com/es-es/eula)
-* [France](https://www.avast.com/fr-fr/eula)
-* [Italia](https://www.avast.com/it-it/eula)
-* [Magyarország](https://www.avast.com/hu-hu/eula)
-* [Nederland](https://www.avast.com/nl-nl/eula)
-* [Norge](https://www.avast.com/no-no/eula)
-* [Polska](https://www.avast.com/pl-pl/eula)
-* [Portugal](https://www.avast.com/pt-pt/eula)
-* [Schweiz (Deutsch)](https://www.avast.com/de-ch/eula)
-* [Slovensko (česky)](https://www.avast.com/cs-sk/eula)
-* [South Africa](https://www.avast.com/en-za/eula)
+ [![Europe (English)](/content/dam/avast/flag/en-eu.svg) Europe (English)](https://www.avast.com/en-eu/eula)
 
-* [Suisse (français)](https://www.avast.com/fr-ch/eula)
-* [Suomi](https://www.avast.com/fi-fi/eula)
-* [Sverige](https://www.avast.com/sv-se/eula)
-* [Türkiye](https://www.avast.com/tr-tr/eula)
-* [United Arab Emirates](https://www.avast.com/en-ae/eula)
-* [United Kingdom](https://www.avast.com/en-gb/eula)
-* [Ελλάδα](https://www.avast.com/el-gr/eula)
-* [ישראל](https://www.avast.com/he-il/eula)
-* [Казахстан](https://www.avast.com/ru-kz/eula)
-* [România](https://www.avast.com/ro-ro/eula)
-* [Россия](https://www.avast.ru/eula)
-* [Україна (українська)](https://www.avast.ua/eula)
-* [Украина (русский)](https://www.avast.ua/ru-ua/eula)
-* [المملكة العربية السعودية](https://www.avast.com/ar-sa/eula)
-* [الدول العربية](https://www.avast.com/ar-ww/eula)
+ [![Worldwide (English)](/content/dam/avast/flag/en-ww.svg) Worldwide (English)](https://www.avast.com/eula)
 
-* [Europe (English)](https://www.avast.com/en-eu/eula)
+Asia & Pacific
 
-ASIA & PACIFIC
+ [![Australia](/content/dam/avast/flag/en-au.svg) Australia](https://www.avast.com/en-au/eula)[![India](/content/dam/avast/flag/hi-in.svg) India](https://www.avast.com/en-in/eula)[![इंडिया (हिंदी)](/content/dam/avast/flag/hi-in.svg) इंडिया (हिंदी)](https://www.avast.com/hi-in/eula)[![Indonesia (English)](/content/dam/avast/flag/id-id.svg) Indonesia (English)](https://www.avast.com/en-id/eula)[![Indonesia (Bahasa Indonesia)](/content/dam/avast/flag/id-id.svg) Indonesia (Bahasa Indonesia)](https://www.avast.com/id-id/eula)[![Malaysia (English)](/content/dam/avast/flag/ms-my.svg) Malaysia (English)](https://www.avast.com/en-my/eula)[![Malaysia (Bahasa Melayu)](/content/dam/avast/flag/ms-my.svg) Malaysia (Bahasa Melayu)](https://www.avast.com/ms-my/eula)[![New Zealand](/content/dam/avast/flag/en-nz.svg) New Zealand](https://www.avast.com/en-nz/eula)[![Philippines (English)](/content/dam/avast/flag/tl-ph.svg) Philippines (English)](https://www.avast.com/en-ph/eula)[![Pilipinas (Filipino)](/content/dam/avast/flag/tl-ph.svg) Pilipinas (Filipino)](https://www.avast.com/tl-ph/eula)[![Singapore](/content/dam/avast/flag/en-sg.svg) Singapore](https://www.avast.com/en-sg/eula)
 
-* [Australia](https://www.avast.com/en-au/eula)
-* [India](https://www.avast.com/en-in/eula)
-* [इंडिया (हिंदी)](https://www.avast.com/hi-in/eula)
-* [Indonesia (English)](https://www.avast.com/en-id/eula)
-* [Indonesia (Bahasa Indonesia)](https://www.avast.com/id-id/eula)
-* [Malaysia (English)](https://www.avast.com/en-my/eula)
-* [Malaysia (Bahasa Melayu)](https://www.avast.com/ms-my/eula)
-* [New Zealand](https://www.avast.com/en-nz/eula)
-* [Philippines (English)](https://www.avast.com/en-ph/eula)
-* [Pilipinas (Filipino)](https://www.avast.com/tl-ph/eula)
+ [![Việt Nam](/content/dam/avast/flag/vi-vn.svg) Việt Nam](https://www.avast.com/vi-vn/eula)[![日本語](/content/dam/avast/flag/ja-jp.svg) 日本語](https://www.avast.co.jp/eula)[![대한민국](/content/dam/avast/flag/ko-kr.svg) 대한민국](https://www.avast.com/ko-kr/eula)[![简体中文](/content/dam/avast/flag/zh-cn.svg) 简体中文](https://www.avast.com/zh-cn/eula)[![繁體中文](/content/dam/avast/flag/zh-tw.svg) 繁體中文](https://www.avast.com/zh-tw/eula)[![ประเทศไทย](/content/dam/avast/flag/th-th.svg) ประเทศไทย](https://www.avast.com/th-th/index)
 
-* [Singapore](https://www.avast.com/en-sg/eula)
-* [Việt Nam](https://www.avast.com/vi-vn/eula)
-* [日本語](https://www.avast.co.jp/eula)
-* [대한민국](https://www.avast.com/ko-kr/eula)
-* [简体中文](https://www.avast.com/zh-cn/eula)
-* [繁體中文](https://www.avast.com/zh-tw/eula)
-* [ประเทศไทย](https://www.avast.com/th-th/eula)
+ [![América Latina (español)](/content/dam/avast/flag/es-latin.svg) América Latina (español)](https://www.avast.com/es-ww/eula)
 
-* [Worldwide (English)](https://www.avast.com/eula)
+ [![Europe (English)](/content/dam/avast/flag/en-eu.svg) Europe (English)](https://www.avast.com/en-eu/eula)
 
-END USER LICENSE AGREEMENT
+ [![Worldwide (English)](/content/dam/avast/flag/en-ww.svg) Worldwide (English)](https://www.avast.com/eula)
+
+End User License Agreement
 ==========================
 
 Version 1.15 (Revised July 11, 2023)
 
-Please read the terms and conditions of this End User License Agreement (“_Agreement_”) carefully before you use the Solution (as defined below). This is a legally binding contract. By assenting electronically, or installing the Solution or using the Solution, you accept all the terms and conditions of this Agreement on behalf of yourself and any entity or individual you represent or for whose Device you acquire the Solution (collectively “_you_”). If you do not agree with the terms and conditions of this Agreement, do not continue the installation process, do not use the Solution and delete or destroy all copies of the Solution in your possession or control.
+Please read the terms and conditions of this End User License Agreement (“Agreement”) carefully before you use the Solution (as defined below). This is a legally binding contract. By assenting electronically, or installing the Solution or using the Solution, you accept all the terms and conditions of this Agreement on behalf of yourself and any entity or individual you represent or for whose Device you acquire the Solution (collectively “you”). If you do not agree with the terms and conditions of this Agreement, do not continue the installation process, do not use the Solution and delete or destroy all copies of the Solution in your possession or control.
 
-This Agreement relates to your use of certain software (“_Software_”), services or hardware and related firmware, including any Updates (each, a “_Solution_”) in connection with which you are accepting this Agreement, and any related Documentation. In this Agreement, “Vendor” means the entity providing the Solution to you, which will differ depending on your location, as follows:
+This Agreement relates to your use of certain software (“Software”), services or hardware and related firmware, including any Updates (each, a “Solution”) in connection with which you are accepting this Agreement, and any related Documentation. In this Agreement, “Vendor” means the entity providing the Solution to you, which will differ depending on your location, as follows:  
+ 
 
 a. North, Central, and South America
 
@@ -325,7 +547,7 @@ a. North, Central, and South America
 
 60 E. Rio Salado Parkway, Suite 1000
 
-Tempe, AZ 85281, USA
+Tempe, AZ 85281, USA 
 
 b. Ireland, United Kingdom, Belgium, Netherlands, and Luxemburg
 
@@ -333,7 +555,7 @@ b. Ireland, United Kingdom, Belgium, Netherlands, and Luxemburg
 
 Ballycoolin Business Park, Ballycoolin, Blanchardstown
 
-Dublin, Ireland
+Dublin, Ireland 
 
 c. Japan
 
@@ -341,7 +563,7 @@ c. Japan
 
 Ark Mori Building 12th Floor, 1-12-32 Akasaka, Minato-ku
 
-Tokyo 107- 6012, Japan
+Tokyo 107- 6012, Japan 
 
 d. Australia, all other Asian Pacific Countries
 
@@ -349,7 +571,7 @@ d. Australia, all other Asian Pacific Countries
 
 8 Marina Boulevard, #05-02, Marina Bay Financial Centre
 
-Singapore, 018981
+Singapore, 018981 
 
 e. Spain, France, Italy, and the rest of Europe, Middle East, and Africa
 
@@ -359,7 +581,7 @@ Pikrtova 1737/1a, Nusle, 140 00 Praha 4
 
 Czech Republic
 
-“_Documentation_” means any user manuals and instructions provided with the Solution; and “_Applicable Conditions_” means collectively the Subscription Period together with the types of Devices, Permitted Number of Devices, other transaction terms, conditions and documents you accepted when you acquired the Solution (including any terms and conditions of sale), and any distribution agreement, reseller agreement, partner agreement or other agreement between you and Vendor or other member of Vendor Group, as well as the other limitations described by Section [2](#solution) and the Documentation.
+“Documentation” means any user manuals and instructions provided with the Solution; and “Applicable Conditions” means collectively the Subscription Period together with the types of Devices, Permitted Number of Devices, other transaction terms, conditions and documents you accepted when you acquired the Solution (including any terms and conditions of sale), and any distribution agreement, reseller agreement, partner agreement or other agreement between you and Vendor or other member of Vendor Group, as well as the other limitations described by Section [2](#solution) and the Documentation.
 
 Please note that this Agreement comes in two parts. Sections [1](#license) through [12](#general) of this Agreement apply to all Solutions, including those listed below. Section [13](#special-terms) sets out additional terms and conditions affecting specific Solutions or categories of Solutions, including Third Party Software, Services and other Products (Section [13.1](#special-terms-1)); Managed Service Provider Licenses (Section [13.2](#special-terms-2)); Browser Cleanup (Section [13.3](#special-terms-3)); WiFi Finder (Section [13.4](#special-terms-4)); Avast Family Space (also sold as Star Guard Family, Vodafone Family Protect and WINDTRE Family Protect) (Section [13.5](#special-terms-5)); Mobile Apps (Section [13.6](#special-terms-6)); Technician Edition (Section [13.7](#special-terms-7)); Assurance Plan (Section [13.8](#special-terms-8)); Premium Technical Support (Section [13.9](#special-terms-9)); Remote Access; Assistance Software (Section [13.10](#special-terms-10)); Avast Driver Updater (Section [13.11](#special-terms-11)), Avast Secure Web Gateway or Avast Secure Internet Gateway (Section [13.12](#special-terms-12)), certain HMA services (Section [13.13](#special-terms-13)), Vendor’s Virtual Private Network Solutions (Section [13.14](#special-terms-14)), any dongle or appliance Avast provides you as part of your subscription (Section [13.15](#special-terms-15)), and Mobile Threat Intelligence Platform (Section [13.16](#special-terms-16)). This Agreement supersedes and replaces any other agreement you previously entered into with respect to a prior version of the Solution.
 
@@ -387,7 +609,7 @@ Vendor grants to you a non-exclusive license to use the Solution and the Documen
 
 2.3.2. Use of the Solution over such single local area network, provided the number of different Devices on which the Solution is used does not exceed the Permitted Number of Devices; or
 
-2.3.3. If the Applicable Conditions grant you the right to use the Solution in providing MSP Services, use of the Solution as described in Section [13.2](#special-terms-2).
+2.3.3. If the Applicable Conditions grant you the right to use the Solution in providing MSP Services, use of the Solution as described in Section [13.2](#special-terms-2).
 
 2.4. YOUR USE OF THE SOLUTION OTHER THAN AS EXPRESSLY AUTHORIZED BY SECTION 2 OF THIS AGREEMENT, OR ANY RESALE OR FURTHER DISTRIBUTION OF THE SOLUTION, CONSTITUTES A MATERIAL BREACH OF THIS AGREEMENT AND MAY VIOLATE APPLICABLE COPYRIGHT LAWS.
 
@@ -422,7 +644,7 @@ Vendor, from time to time during the Subscription Period and without your separa
 5\. Restrictions
 ----------------
 
-5.1. You may not copy or use the Solution or the Documentation except as set forth in Section [2](#solution) of this Agreement. You may not, and may not permit any third party to:
+5.1. You may not copy or use the Solution or the Documentation except as set forth in Section [2](https://www.avast.com/eula#solution) of this Agreement. You may not, and may not permit any third party to:
 
 5.1.1. use any authorization code, license number, username/password combination or other activation code or number supplied by Vendor in connection with any Solution (“_Activation Code_”) on, or for, more than the number of Devices specified by the Applicable Conditions;
 
@@ -432,7 +654,7 @@ Vendor, from time to time during the Subscription Period and without your separa
 
 5.1.4. except as authorized by a distribution agreement, reseller agreement or other agreement between you and Vendor or other member of Vendor Group, publish, resell, distribute, broadcast, transmit, communicate, transfer, pledge, rent, share or sublicense any Solution;
 
-5.1.5. except as expressly authorized by this Agreement (including Sections [13.2](#special-terms-2), [13.5](#special-terms-5) and [13.7](#special-terms-7)), the Applicable Conditions or another agreement between you and Vendor or other member of Vendor Group, use any Solution to manage the facilities of a third party or grant any third party access to or use of any Solution on a service bureau, timesharing, subscription service or application service provider or other similar basis;
+5.1.5. except as expressly authorized by this Agreement (including Sections [13.2](#special-terms-2), [13.5](#special-terms-5) and [13.7](#special-terms-7)), the Applicable Conditions or another agreement between you and Vendor or other member of Vendor Group, use any Solution to manage the facilities of a third party or grant any third party access to or use of any Solution on a service bureau, timesharing, subscription service or application service provider or other similar basis;
 
 5.1.6. use any Solution to provide or build a product or service that competes with the Solution;
 
@@ -448,14 +670,14 @@ Vendor, from time to time during the Subscription Period and without your separa
 
 5.2. Certain Solutions may grant you or another user administrative privileges that, among other things, may allow the administrator to monitor other Devices and/or the status of Solutions deployed on other Devices, including for example Subscription Period status, Solution messages, and Updates. You represent and warrant that you will exercise such administrative privileges only with respect to Devices and Solutions for which you are duly authorized and for no other purpose. You also represent and warrant to Vendor that: (i) you have all the requisite authority to accept this Agreement, and install and/or use the Solution on the Devices, on behalf of any owners and users of those administered Devices; and (ii) you hereby accept this Agreement for and on behalf of: (A) any such owners and users of those administered Devices; and (B) yourself.
 
-5.3. Certain Solutions may enable you to publish or share publicly with others, content you have generated or obtained from other sources (“_User Content_”). You retain any and all intellectual property rights you already hold under applicable law in User Content you publish or share through the Solution, subject to the rights, licenses, and other terms of this Agreement, including any underlying rights of others in any User Content that you may use or modify. You grant to each member of the Vendor Group, a non-exclusive, unrestricted, unconditional, unlimited, worldwide, irrevocable, perpetual, and royalty-free right and license to use, copy, record, distribute, reproduce, disclose, sell, resell, sublicense (through multiple levels), modify, adapt, display, publicly perform, transmit, publish, broadcast, translate, make derivative works of, and otherwise exploit in any manner whatsoever, all or any portion of the User Content you publish or share through a Solution (and derivative works thereof), solely for the purpose of providing the Solutions to you under this Agreement. Each time you publish or share any User Content, you represent and warrant to each member of the Vendor Group that you are at least the age of majority in the state or jurisdiction in which you reside and are the parent or legal guardian, or have all proper consents from the parent or legal guardian, of any minor who is depicted in or contributed to any User Content you publish or share, and that, in regard to that User Content: (i) you are the sole author and owner of the intellectual property and other rights to the User Content, or you have a lawful right to publish and share the User Content and grant each member of the Vendor Group the right to use it as described in this Section [5.3](#restrictions-3), all without any obligation being imposed on any member of the Vendor Group to obtain the consent of any third party and without creating any obligation or liability whatsoever for any member of Vendor Group; (ii) the User Content is accurate; (iii) the User Content does not and, as to each member of the Vendor Group’s permitted uses and exploitation set forth in this Agreement, will not infringe any intellectual property or other right of any third party; and (iv) the User Content will not violate this Agreement or cause injury or harm to any person.
+5.3. Certain Solutions may enable you to publish or share publicly with others, content you have generated or obtained from other sources (“_User Content_”). You retain any and all intellectual property rights you already hold under applicable law in User Content you publish or share through the Solution, subject to the rights, licenses, and other terms of this Agreement, including any underlying rights of others in any User Content that you may use or modify. You grant to each member of the Vendor Group, a non-exclusive, unrestricted, unconditional, unlimited, worldwide, irrevocable, perpetual, and royalty-free right and license to use, copy, record, distribute, reproduce, disclose, sell, resell, sublicense (through multiple levels), modify, adapt, display, publicly perform, transmit, publish, broadcast, translate, make derivative works of, and otherwise exploit in any manner whatsoever, all or any portion of the User Content you publish or share through a Solution (and derivative works thereof), solely for the purpose of providing the Solutions to you under this Agreement. Each time you publish or share any User Content, you represent and warrant to each member of the Vendor Group that you are at least the age of majority in the state or jurisdiction in which you reside and are the parent or legal guardian, or have all proper consents from the parent or legal guardian, of any minor who is depicted in or contributed to any User Content you publish or share, and that, in regard to that User Content: (i) you are the sole author and owner of the intellectual property and other rights to the User Content, or you have a lawful right to publish and share the User Content and grant each member of the Vendor Group the right to use it as described in this Section [5.3](https://www.avast.com/eula#restrictions-3), all without any obligation being imposed on any member of the Vendor Group to obtain the consent of any third party and without creating any obligation or liability whatsoever for any member of Vendor Group; (ii) the User Content is accurate; (iii) the User Content does not and, as to each member of the Vendor Group’s permitted uses and exploitation set forth in this Agreement, will not infringe any intellectual property or other right of any third party; and (iv) the User Content will not violate this Agreement or cause injury or harm to any person.
 
 6\. Limited warranty; disclaimer and exclusion of liability
 -----------------------------------------------------------
 
-6.1. Subject to the remainder of this Section [6](#limited-warranty), Vendor warrants to you that the Solution will perform, or will be performed, substantially in accordance with the Documentation for a period of 30 days following your initial acquisition of the Solution. To make a warranty claim, you must follow the instructions provided by the source from which you acquired the Solution. If the Solution does not perform substantially in accordance with the Documentation, the entire and exclusive liability of each member of the Vendor Group and each Vendor Partner, and your sole and exclusive remedy, in respect of such warranty will be limited to, at Vendor’s option, to either: (i) replacement of the Solution; or (ii) return of the Solution to obtain a refund for the portion of the subscription fee you have paid for the unexpired or unused portion of the Subscription Period. This warranty applies only to the Solution as originally delivered, and does not apply to: (i) any Updates; (ii) any defects caused by the combination, operation or use of the Solution with: (A) software, hardware or other materials not provided by Vendor; or (B) Devices, software, or other materials that do not conform to Vendor requirements set forth in the Documentation.
+6.1. Subject to the remainder of this Section [6](https://www.avast.com/eula#limited-warranty), Vendor warrants to you that the Solution will perform, or will be performed, substantially in accordance with the Documentation for a period of 30 days following your initial acquisition of the Solution. To make a warranty claim, you must follow the instructions provided by the source from which you acquired the Solution. If the Solution does not perform substantially in accordance with the Documentation, the entire and exclusive liability of each member of the Vendor Group and each Vendor Partner, and your sole and exclusive remedy, in respect of such warranty will be limited to, at Vendor’s option, to either: (i) replacement of the Solution; or (ii) return of the Solution to obtain a refund for the portion of the subscription fee you have paid for the unexpired or unused portion of the Subscription Period. This warranty applies only to the Solution as originally delivered, and does not apply to: (i) any Updates; (ii) any defects caused by the combination, operation or use of the Solution with: (A) software, hardware or other materials not provided by Vendor; or (B) Devices, software, or other materials that do not conform to Vendor requirements set forth in the Documentation.
 
-6.2. EXCEPT AS STATED IN SECTION [6.1](#limited-warranty-1) OF THIS AGREEMENT, MEMBERS OF THE VENDOR GROUP AND VENDOR PARTNERS DO NOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING ANY SOLUTION OR DOCUMENTATION. EXCEPT AS STATED IN SECTION [6.1](#limited-warranty-1) OF THIS AGREEMENT, THE SOLUTION IS PROVIDED “AS IS” AND MEMBERS OF THE VENDOR GROUP AND VENDOR PARTNERS MAKE NO EXPRESS OR IMPLIED WARRANTIES OR CONDITIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY LAW, DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS IMPLIED BY STATUTE, COMMON LAW, JURISPRUDENCE OR OTHER THEORIES OF LAW, INCLUDING IMPLIED WARRANTIES OR CONDITIONS OF NONINFRINGEMENT OF THIRD PARTY RIGHTS, TITLE, MERCHANTABILITY, SUITABLE QUALITY OR FITNESS FOR ANY PARTICULAR PURPOSE. VENDOR DOES NOT WARRANT THAT THE OPERATION OF ANY SOLUTION WILL BE UNINTERRUPTED OR ERROR FREE, THAT ANY SOLUTION WILL WORK PROPERLY ON ANY GIVEN DEVICE OR WITH ANY PARTICULAR CONFIGURATION OF HARDWARE AND/OR SOFTWARE, OR THAT ANY SOLUTION WILL PROVIDE COMPLETE PROTECTION FOR THE INTEGRITY OF SELECTED DATA, INFORMATION OR CONTENT STORED OR TRANSMITTED VIA THE INTERNET.
+6.2. EXCEPT AS STATED IN SECTION [6.1](#limited-warranty-1) OF THIS AGREEMENT, MEMBERS OF THE VENDOR GROUP AND VENDOR PARTNERS DO NOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING ANY SOLUTION OR DOCUMENTATION. EXCEPT AS STATED IN SECTION [6.1](#limited-warranty-1) OF THIS AGREEMENT, THE SOLUTION IS PROVIDED “AS IS” AND MEMBERS OF THE VENDOR GROUP AND VENDOR PARTNERS MAKE NO EXPRESS OR IMPLIED WARRANTIES OR CONDITIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY LAW, DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS IMPLIED BY STATUTE, COMMON LAW, JURISPRUDENCE OR OTHER THEORIES OF LAW, INCLUDING IMPLIED WARRANTIES OR CONDITIONS OF NONINFRINGEMENT OF THIRD PARTY RIGHTS, TITLE, MERCHANTABILITY, SUITABLE QUALITY OR FITNESS FOR ANY PARTICULAR PURPOSE. VENDOR DOES NOT WARRANT THAT THE OPERATION OF ANY SOLUTION WILL BE UNINTERRUPTED OR ERROR FREE, THAT ANY SOLUTION WILL WORK PROPERLY ON ANY GIVEN DEVICE OR WITH ANY PARTICULAR CONFIGURATION OF HARDWARE AND/OR SOFTWARE, OR THAT ANY SOLUTION WILL PROVIDE COMPLETE PROTECTION FOR THE INTEGRITY OF SELECTED DATA, INFORMATION OR CONTENT STORED OR TRANSMITTED VIA THE INTERNET.
 
 6.3. NOTWITHSTANDING ANY OTHER PROVISION OF THIS AGREEMENT, ANY SOLUTION PROVIDED TO YOU WITHOUT FEES (INCLUDING ANY SOLUTION PROVIDED AS A “FREE”, “TRIAL” OR “BETA” SOLUTION) IS PROVIDED ON AN “AS IS”, “WITH ALL FAULTS”, AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTY OF ANY KIND AND WITHOUT SUPPORT OR OTHER SERVICES BY VENDOR.
 
@@ -478,18 +700,18 @@ EVEN IF SUCH MEMBER OF THE VENDOR GROUP OR VENDOR PARTNER HAS BEEN ADVISED OF TH
 7\. Privacy; processing of personal and other information
 ---------------------------------------------------------
 
-7.1. The term “_Data_”, as used in this Agreement and the Privacy Policy, means: (a) the information you provide to Vendor, another member of the Vendor Group, or a Vendor Partner in the course of ordering Solutions, including your name, billing address (including postal code), email address, phone number, payment card or account number, payment card or account verification code, payment card commencement date and expiration date, the account password you select for your account with Vendor or another member of the Vendor Group, and other Billing Data as defined in Vendor’s Privacy Policy (the “_Privacy Policy_”, which you can find [here](https://www.avast.com/vendor)) (collectively, “_Transaction Data_”); (b) information Vendor, another member of the Vendor Group or a Vendor Partner collects in the course of processing and fulfilling your orders for Solutions, including information about the make, model, operating system and other identifying details of your Device, the name of your Internet service provider, your Internet Protocol (IP) address; and (c) information about your installation and use of Solutions ((b) and (c) collectively being referred to as “_Service Data_” in the Privacy Policy).
+7.1. The term “_Data_”, as used in this Agreement and the Privacy Policy, means: (a) the information you provide to Vendor, another member of the Vendor Group, or a Vendor Partner in the course of ordering Solutions, including your name, billing address (including postal code), email address, phone number, payment card or account number, payment card or account verification code, payment card commencement date and expiration date, the account password you select for your account with Vendor or another member of the Vendor Group, and other Billing Data as defined in Vendor’s Privacy Policy (the “_Privacy Policy_”, which you can find [here](https://www.avast.com/vendor)) (collectively, “_Transaction Data_”); (b) information Vendor, another member of the Vendor Group or a Vendor Partner collects in the course of processing and fulfilling your orders for Solutions, including information about the make, model, operating system and other identifying details of your Device, the name of your Internet service provider, your Internet Protocol (IP) address; and (c) information about your installation and use of Solutions ((b) and (c) collectively being referred to as “_Service Data_” in the Privacy Policy).
 
 7.2. You authorize Vendor, another member of the Vendor Group or a Vendor Partner, to use your Data, for the purposes described in the Privacy Policy. You acknowledge that such use of your Data includes processing and fulfilling your orders for subscriptions, improving Solutions, and providing information to you about the Solutions to which you have subscribed and offering you other Solutions. You acknowledge that Vendor or another member of the Vendor Group may share your Data with Vendor Partners such as Vendor’s ecommerce platform providers and payment processors, suppliers providing support, services and Solutions to you on Vendor’s behalf, and suppliers providing Vendor or a member of the Vendor Group with purchase analytics and crash analytics in respect of Solutions.
 
 8\. Termination
 ---------------
 
-8.1. This Agreement will immediately terminate upon your breach of any of your obligations in this Agreement (including any breach of your obligations in Sections [2](#solution), [5](#restrictions) or [10](#export-controls)), which will result in forfeiture of any rights you may have to receive Updates or to obtain a refund for the portion of the subscription fee you have paid for the unexpired or unused portion of the Subscription Period. Vendor reserves the right to any other remedies available under law in the event your breach of any of your obligations under this Agreement adversely affects any member of the Vendor Group or any Vendor Partner. The exclusions and limitations of liability of members of the Vendor Group and Vendor Partners contained in this Agreement will survive termination of this Agreement.
+8.1. This Agreement will immediately terminate upon your breach of any of your obligations in this Agreement (including any breach of your obligations in Sections [2](#solution), [5](#restrictions) or [10](#export-controls)), which will result in forfeiture of any rights you may have to receive Updates or to obtain a refund for the portion of the subscription fee you have paid for the unexpired or unused portion of the Subscription Period. Vendor reserves the right to any other remedies available under law in the event your breach of any of your obligations under this Agreement adversely affects any member of the Vendor Group or any Vendor Partner. The exclusions and limitations of liability of members of the Vendor Group and Vendor Partners contained in this Agreement will survive termination of this Agreement.
 
 8.2. Vendor, by notice to you, may immediately terminate this Agreement for convenience at any time with respect to any particular Solution or all Solutions and the entire and exclusive liability of each member of the Vendor Group and each Vendor Partner, and your sole and exclusive remedy, in respect of any such termination will be limited to a refund for the portion of the subscription fees you have paid for the unexpired or unused portion of the Subscription Period. From the effective date of such termination you will no longer be entitled to use any affected Solution and Documentation.
 
-8.3. If a Subscription Period is conditioned on you paying a fee or charge, and if Vendor has not received payment by the 15th day following the commencement of that Subscription Period, you will be deemed to have surrendered your license to use the Solution, and the license will terminate immediately without further action by you or Vendor.
+8.3. If a Subscription Period is conditioned on you paying a fee or charge, and if Vendor has not received payment by the 15th day following the commencement of that Subscription Period, you will be deemed to have surrendered your license to use the Solution, and the license will terminate immediately without further action by you or Vendor.
 
 9\. U.S. government restricted rights
 -------------------------------------
@@ -499,26 +721,26 @@ All Solutions qualify as “commercial items”, as that term is defined at 48 C
 10\. Export controls
 --------------------
 
-You must comply with all applicable U.S. and international laws governing export and re-export of the Solutions, including the U.S. Export Administration Regulations, as well as end-user, end-use and destination restrictions issued by U.S. and other governments. Without derogating from the generality of the foregoing, you represent, warrant and undertake that: (i) you are not a member of any of the denied persons list, unverified list, entity list, specially designated nationals list, debarred list or any other lists published by the U.S. Government; and (ii) you will not use, export or re-export any Solution in, or to, territories, destinations, companies or individuals in violation of U.S. and E.U. embargoes or trade sanctions. You will indemnify, defend and hold each member of the Vendor Group harmless from and against any claim, demand, suit or proceeding, and all damages, liabilities, costs and expenses arising from your failure to comply with this Section [10](#export-controls).
+You must comply with all applicable U.S. and international laws governing export and re-export of the Solutions, including the U.S. Export Administration Regulations, as well as end-user, end-use and destination restrictions issued by U.S. and other governments. Without derogating from the generality of the foregoing, you represent, warrant and undertake that: (i) you are not a member of any of the denied persons list, unverified list, entity list, specially designated nationals list, debarred list or any other lists published by the U.S. Government; and (ii) you will not use, export or re-export any Solution in, or to, territories, destinations, companies or individuals in violation of U.S. and E.U. embargoes or trade sanctions. You will indemnify, defend and hold each member of the Vendor Group harmless from and against any claim, demand, suit or proceeding, and all damages, liabilities, costs and expenses arising from your failure to comply with this Section [10](#export-controls).
 
 11\. Binding arbitration agreement and class action waiver
 ----------------------------------------------------------
 
-11.1. This Section [11](#arbitration-agreement) applies to any Dispute arising from or related to any Solution, subscription for any Solution or this Agreement, and involving you and Vendor. “Dispute”, for the purposes of this Section [11](#arbitration-agreement), means any dispute, action, or other controversy regardless of the particular cause of action(s) asserted (i.e., it encompasses, among any other potential cause of action or legal basis, claims for breach of contract, misrepresentation or fraud, indemnification, tort (including negligence and strict product liability), and violation of statute or regulation).
+11.1. This Section [11](#arbitration-agreement) applies to any Dispute arising from or related to any Solution, subscription for any Solution or this Agreement, and involving you and Vendor. “Dispute”, for the purposes of this Section [11](#arbitration-agreement), means any dispute, action, or other controversy regardless of the particular cause of action(s) asserted (i.e., it encompasses, among any other potential cause of action or legal basis, claims for breach of contract, misrepresentation or fraud, indemnification, tort (including negligence and strict product liability), and violation of statute or regulation).
 
-11.2. In the event of a Dispute, you must provide Vendor with a notice of Dispute, which is a written statement of your name, address and contact information, the facts giving rise to the Dispute, and the relief requested by you. You must send any notice of Dispute by email to Vendor at legal.department@gendigital.com (stating Subject: Section [11](#arbitration-agreement) Notice of Dispute Under EULA).
+11.2. In the event of a Dispute, you must provide Vendor with a notice of Dispute, which is a written statement of your name, address and contact information, the facts giving rise to the Dispute, and the relief requested by you. You must send any notice of Dispute by email to Vendor at legal.department@gendigital.com (stating Subject: Section [11](#arbitration-agreement) Notice of Dispute Under EULA).
 
 11.3. ANY PROCEEDINGS TO RESOLVE OR LITIGATE ANY DISPUTE IN ANY FORUM WILL BE CONDUCTED SOLELY ON AN INDIVIDUAL BASIS. YOU WILL NOT SEEK TO HAVE ANY DISPUTE HEARD AS A CLASS ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR IN ANY OTHER PROCEEDING IN WHICH EITHER PARTY ACTS OR PROPOSES TO ACT IN A REPRESENTATIVE CAPACITY. NO ARBITRATION OR PROCEEDING WILL BE COMBINED WITH ANOTHER WITHOUT THE PRIOR WRITTEN CONSENT OF ALL PARTIES TO ALL AFFECTED ARBITRATIONS OR PROCEEDINGS.
 
-11.4. If you and Vendor do not resolve any Dispute by informal negotiation, any other effort to resolve the Dispute will be conducted exclusively by binding arbitration governed by the United States Federal Arbitration Act (“_FAA_”), 9 U.S.C. § 1 et seq., and the substantive laws of the State of New York (without regard to choice of laws principles). Except as provided in Section [11.5](#arbitration-agreement-5) below, you are giving up the right to litigate (or participate in litigation as a party or class member) all Disputes in court before a judge or jury. Instead, all Disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right to judicial review under the FAA. Any court with jurisdiction over the parties may enforce the arbitrator’s award.
+11.4. If you and Vendor do not resolve any Dispute by informal negotiation, any other effort to resolve the Dispute will be conducted exclusively by binding arbitration governed by the United States Federal Arbitration Act (“_FAA_”), 9 U.S.C. § 1 et seq., and the substantive laws of the State of New York (without regard to choice of laws principles). Except as provided in Section [11.5](#arbitration-agreement-5) below, you are giving up the right to litigate (or participate in litigation as a party or class member) all Disputes in court before a judge or jury. Instead, all Disputes will be resolved before a neutral arbitrator, whose decision will be final except for a limited right to judicial review under the FAA. Any court with jurisdiction over the parties may enforce the arbitrator’s award.
 
-11.5. The arbitration requirement of this Section [11](#arbitration-agreement) is subject to the following exceptions:
+11.5. The arbitration requirement of this Section [11](#arbitration-agreement) is subject to the following exceptions:
 
 11.5.1. You may litigate any Dispute in small claims court, in the county or other similar political subdivision in which you reside, if the Dispute meets all requirements to be heard in the small claims court. If you initiate a claim in small claims court, you are responsible for all court costs and fees.
 
 11.5.2. All Disputes concerning any alleged misappropriation of your or Vendor’s intellectual property will be resolved in court.
 
-11.5.3. If you are a consumer and live in the European Union, Norway, Iceland or Lichtenstein, you may be entitled to address your Dispute through an internet platform for online dispute resolution established by the European Commission (the “_ODR Platform_”). The ODR Platform is intended to facilitate out-of-court resolutions relating to online purchases of goods and services between consumers and traders based in the European Union, Norway, Iceland and Lichtenstein. You will find the ODR Platform by following this link: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/).
+11.5.3. If you are a consumer and live in the European Union, Norway, Iceland or Lichtenstein, you may be entitled to address your Dispute through an internet platform for online dispute resolution established by the European Commission (the “_ODR Platform_”). The ODR Platform is intended to facilitate out-of-court resolutions relating to online purchases of goods and services between consumers and traders based in the European Union, Norway, Iceland and Lichtenstein. You will find the ODR Platform by following this link: [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/).
 
 11.6. Any arbitration will be administered by the American Arbitration Association (the “_AAA_”) in accordance with the AAA’s “Consumer Arbitration Rules” effective September 1, 2014, including the “Costs of Arbitration (Including AAA Administrative Fees)” effective September 1, 2014 (collectively, the “_Consumer Procedures_”) and will be subject to the following:
 
@@ -528,9 +750,9 @@ You must comply with all applicable U.S. and international laws governing export
 
 11.6.3. You and the Vendor agree that the use of the AAA to administer arbitration is not integral to the parties’ agreement to arbitrate Disputes. If the AAA will not or cannot conduct an arbitration, you and Vendor will negotiate in good faith to agree on a sole arbitrator who will resolve the Dispute as provided in the Consumer Procedures. If the parties cannot agree on an arbitrator, a court of competent jurisdiction may appoint an arbitrator, who will follow the AAA’s Consumer Procedures.
 
-11.6.4. If one or more parts of this Section [11](#arbitration-agreement) are found to be illegal, invalid or unenforceable as to all or some parts of a Dispute, then, and only in that circumstance, those parts will be severed and the Dispute will be resolved subject to all remaining parts of this Section [11](#arbitration-agreement) and all other provisions of this Agreement. If such severance results in all or some parts of a Dispute proceeding in a court of law, exclusive jurisdiction for any such court proceeding will be the courts sitting in the county of New York, New York, U.S. For purposes of any such court proceeding, you consent to, and will not challenge, the New York, New York courts’ personal jurisdiction over you, and you further waive objection based upon improper venue or forum non conveniens and will not seek transfer to another district or jurisdiction.
+11.6.4. If one or more parts of this Section [11](#arbitration-agreement) are found to be illegal, invalid or unenforceable as to all or some parts of a Dispute, then, and only in that circumstance, those parts will be severed and the Dispute will be resolved subject to all remaining parts of this Section [11](#arbitration-agreement) and all other provisions of this Agreement. If such severance results in all or some parts of a Dispute proceeding in a court of law, exclusive jurisdiction for any such court proceeding will be the courts sitting in the county of New York, New York, U.S. For purposes of any such court proceeding, you consent to, and will not challenge, the New York, New York courts’ personal jurisdiction over you, and you further waive objection based upon improper venue or forum non conveniens and will not seek transfer to another district or jurisdiction.
 
-11.7. Notwithstanding the preceding paragraphs of this Section [11](#arbitration-agreement), if you acquired a Solution for other than personal or household use, the arbitration proceedings, including the payment of costs, will be administered in accordance with the AAA’s Commercial Arbitration Rules (the “_Commercial Procedures_”). The Commercial Procedures are appropriately applied to any Dispute between the parties, and you will not advocate otherwise in any proceeding. However, this Agreement governs to the extent it conflicts with the Commercial Procedures.
+11.7. Notwithstanding the preceding paragraphs of this Section [11](#arbitration-agreement), if you acquired a Solution for other than personal or household use, the arbitration proceedings, including the payment of costs, will be administered in accordance with the AAA’s Commercial Arbitration Rules (the “_Commercial Procedures_”). The Commercial Procedures are appropriately applied to any Dispute between the parties, and you will not advocate otherwise in any proceeding. However, this Agreement governs to the extent it conflicts with the Commercial Procedures.
 
 12\. General
 ------------
@@ -541,7 +763,7 @@ You must comply with all applicable U.S. and international laws governing export
 
 12.2.1. Write to Avast Software s.r.o., Pikrtova 1737/1a, Prague 4, Postal Code 140 00, Czech Republic (tel.: +420 274 005 777); or
 
-12.2.2. Contact Vendor by email or visit Vendor’s website at the address provided [here](https://www.avast.com/vendor)
+12.2.2. Contact Vendor by email or visit Vendor’s website at the address provided [here](https://www.avast.com/contacts)
 
 12.3. Separate Agreements. If you acquired two or more Solutions, even in a single transaction, or you acquired subscriptions to any one Solution in multiple transactions, you may have accepted this End User License Agreement multiple times. Although the terms and conditions you accepted may be similar or identical, each time you accepted the terms and conditions of this End User License Agreement you entered into a different and separate agreement between you and the Vendor providing the applicable Solution.
 
@@ -557,9 +779,9 @@ You must comply with all applicable U.S. and international laws governing export
 
 12.9. Assignment. You may not assign your rights or obligations under this Agreement without the prior written consent of Vendor. Vendor may assign this Agreement at any time in its sole discretion without any prior written consent by you.
 
-12.10. No Third Party Beneficiaries. Nothing in this Agreement, express or implied, is intended to or will confer upon any person other than you, members of the Vendor Group and Vendor Partners, any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement. No person other than you, Vendor and members of the Vendor Group may bring a cause of action pursuant to this Agreement. Vendor will be entitled (but not obligated) to enforce any rights, remedies, limitations and exclusions of liability, and legal defenses of any member of Vendor Group or Vendor Partner under this Agreement, including any rights and remedies for any loss, damage or claim suffered or incurred by any member of Vendor Group or Vendor Partner: (i) arising from or in connection with any failure by you to comply with any term or condition of this Agreement; or (ii) you are required to indemnify under this Agreement. No such loss, damage or claim will be deemed excluded as indirect, consequential or incidental loss or damage under Section [6.4.1](#limited-warranty-4.1) as a result of such loss, damage or claim having been suffered or incurred by another member of Vendor Group or Vendor Partner rather than by Vendor.
+12.10. No Third Party Beneficiaries. Nothing in this Agreement, express or implied, is intended to or will confer upon any person other than you, members of the Vendor Group and Vendor Partners, any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement. No person other than you, Vendor and members of the Vendor Group may bring a cause of action pursuant to this Agreement. Vendor will be entitled (but not obligated) to enforce any rights, remedies, limitations and exclusions of liability, and legal defenses of any member of Vendor Group or Vendor Partner under this Agreement, including any rights and remedies for any loss, damage or claim suffered or incurred by any member of Vendor Group or Vendor Partner: (i) arising from or in connection with any failure by you to comply with any term or condition of this Agreement; or (ii) you are required to indemnify under this Agreement. No such loss, damage or claim will be deemed excluded as indirect, consequential or incidental loss or damage under Section [6.4.1](#limited-warranty-4.1) as a result of such loss, damage or claim having been suffered or incurred by another member of Vendor Group or Vendor Partner rather than by Vendor.
 
-12.11. Governing Law. The law governing this Agreement and any Dispute (as defined in Section [11](#arbitration-agreement)) will be the substantive law of the State of New York, U.S., without regard to choice of laws principles. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sales of Goods, the application of which is expressly excluded.
+12.11. Governing Law. The law governing this Agreement and any Dispute (as defined in Section [11](#arbitration-agreement)) will be the substantive law of the State of New York, U.S., without regard to choice of laws principles. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sales of Goods, the application of which is expressly excluded.
 
 12.12. Internet connection. Certain Solutions may require an active and stable connection to the Internet in order to function. It is therefore your responsibility to ensure that you have at all times an active and stable Internet connection.
 
@@ -572,9 +794,9 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.1. Third Party Software, Services and Other Products. Some Solutions offer you the opportunity to acquire software, services and other products supplied by third parties. You acknowledge that the applicable third party is solely responsible for its offerings and Vendor makes no representations or warranties concerning those offerings and accepts no liability with respect to them, and if you acquire or use any of these third party offerings, the offerings and your use of them will be governed by any license agreements, terms of use, privacy policies and/or other terms and conditions required by the third party.
 
-13.2. Managed Service Provider Licenses. This Section [13.2](#special-terms-2) applies: (i) to the extent the Applicable Conditions authorize you to use CloudCare, Managed Workplace, Avast Business Services, CCleaner Business Edition, or other Solutions in providing MSP Services to third parties; and (ii) to all licenses to use CCleaner Cloud for Business.
+13.2. Managed Service Provider Licenses. This Section [13.2](#special-terms-2) applies: (i) to the extent the Applicable Conditions authorize you to use CloudCare, Managed Workplace, Avast Business Services, CCleaner Business Edition, or other Solutions in providing MSP Services to third parties; and (ii) to all licenses to use CCleaner Cloud for Business.
 
-13.2.1. As used in this Section [13.2](#special-terms-2):
+13.2.1. As used in this Section [13.2](#special-terms-2):
 
 (a) “_Avast Business Service_” means HD Services and/or NOC Services as the context requires.
 
@@ -608,15 +830,15 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.5.2. By using Family Space, you represent and warrant that: (i) you are 18 years of age or older; and (ii) you have the authority to, and hereby consent to, the collection of data for any person that you include in your Family Space account, including any persons under 13 years old. You acknowledge that members of Vendor Group will collect, use and disclose geographic location and other information necessary to enable the operation and delivery of the Family Space features.
 
-13.5.3. You acknowledge that: (i) results you may obtain from Family Space, including data and messaging, may not be accurate, timely or reliable; (ii) some content you consider objectionable or want to be blocked may not always be blocked by Family Space; (iii) Family Space may sometimes block content that you may consider acceptable; and (iv) because third party content can change without notice, Vendor cannot guarantee that its categories of content and content filters will always stay current with changes in third party content. If you believe Family Space is misclassifying a site or service, please contact Vendor by email at [familyspacehelp@avast.com](mailto:familyspacehelp@avast.com).
+13.5.3. You acknowledge that: (i) results you may obtain from Family Space, including data and messaging, may not be accurate, timely or reliable; (ii) some content you consider objectionable or want to be blocked may not always be blocked by Family Space; (iii) Family Space may sometimes block content that you may consider acceptable; and (iv) because third party content can change without notice, Vendor cannot guarantee that its categories of content and content filters will always stay current with changes in third party content. If you believe Family Space is misclassifying a site or service, please contact Vendor by email at [familyspacehelp@avast.com](mailto:familyspacehelp@avast.com).
 
-13.6. Mobile Apps. This Section [13.6](#special-terms-6) applies to any Solution intended for use on Mobile Devices.
+13.6. Mobile Apps. This Section [13.6](#special-terms-6) applies to any Solution intended for use on Mobile Devices.
 
 13.6.1. For any Solution downloaded from Google Play ([http://play.google.com](http://play.google.com/)), the license granted by this Agreement is in lieu of any rights to use a Solution that would otherwise be granted by the default terms for applications downloaded from the Google Play Store.
 
 13.6.2. For any Solution downloaded from the Apple App Store, the following terms apply:
 
-(a) The licenses granted by this Agreement are limited to a non-transferable license to use the Solution on any iPhone, iPod Touch or other Apple-powered Device that you own or control and as permitted by the Usage Rules set forth in the Apple App Stores Terms of Service, available online at [http://www.apple.com/legal/internet-services/itunes/us/terms.html](http://www.apple.com/legal/internet-services/itunes/us/terms.html) or through such sites and other means made available to you by Apple.
+(a) The licenses granted by this Agreement are limited to a non-transferable license to use the Solution on any iPhone, iPod Touch or other Apple-powered Device that you own or control and as permitted by the Usage Rules set forth in the Apple App Stores Terms of Service, available online at [http://www.apple.com/legal/internet-services/itunes/us/terms.html](http://www.apple.com/legal/internet-services/itunes/us/terms.html) or through such sites and other means made available to you by Apple.
 
 (b) This Agreement is concluded solely between the parties, and not with Apple. Vendor, not Apple, is solely responsible for the Solution and the content of such Solution.
 
@@ -634,27 +856,27 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.6.3. For Solutions downloaded from the Amazon Appstore, Amazon may designate certain customer terms of use for the Amazon Appstore as “_Default EULA Terms_”. Those Default EULA Terms will apply to your use of Solutions you purchase through the Amazon Appstore. The Default EULA Terms will specify, among other things, that Vendor is the licensor of the Solution and Amazon is not a party to this Agreement. If there are any conflicts between the Default EULA Terms and this Agreement, then to the extent of such conflict the Default EULA Terms will govern and take precedence. Amazon does not have any responsibility or liability related to compliance or non-compliance by Vendor or you with the Default EULA Terms.
 
-13.7. Technician Edition. This Section [13.7](#special-terms-7) applies to the extent you have purchased the Technician Edition of a Solution. You may permit the number of technicians specified by the Applicable Conditions to use the Solution to perform optimization services and repairs to Devices owned by you (if you purchased an enterprise subscription) or third parties (if you purchased a breakfix subscription). Each technician may install the Solution on only one Device at any given time, and must remove the Solution from the Device before returning control of the Device to the user.
+13.7. Technician Edition. This Section [13.7](#special-terms-7) applies to the extent you have purchased the Technician Edition of a Solution. You may permit the number of technicians specified by the Applicable Conditions to use the Solution to perform optimization services and repairs to Devices owned by you (if you purchased an enterprise subscription) or third parties (if you purchased a breakfix subscription). Each technician may install the Solution on only one Device at any given time, and must remove the Solution from the Device before returning control of the Device to the user.
 
-13.8. Assurance Plan. This Section [13.8](#special-terms-8) applies to Assurance Plans.
+13.8. Assurance Plan. This Section [13.8](#special-terms-8) applies to Assurance Plans.
 
 13.8.1. “_Assurance Plan_” means a service under which Vendor’s technician (an “_Associate_”), in exchange for a separate subscription fee, will assist you to remove viruses or other Malicious Code that infects your protected Device during the Subscription Period. Assurance Plans are sold together with certain Vendor antivirus Solutions or other security Solutions (each, a “_Security Solution_”), and supplement the protections offered by the Security Solution.
 
-13.8.2. If you request Vendor’s assistance under the Assurance Plan, and if you and your Device qualify for assistance under Section [13.8.3](#special-terms-8.3), Vendor will use commercially reasonable efforts to assist you to remove the viruses or other Malicious Code affecting your Device. You hereby acknowledge, accept and agree that Vendor’s efforts may not be enough to remove certain viruses or other Malicious Code from your Device, and that Vendor, in the course of providing service, may alter, delete or corrupt data on your Device, change Device settings, or otherwise interfere with the proper operation of your Device.
+13.8.2. If you request Vendor’s assistance under the Assurance Plan, and if you and your Device qualify for assistance under Section [13.8.3](#special-terms-8.3), Vendor will use commercially reasonable efforts to assist you to remove the viruses or other Malicious Code affecting your Device. You hereby acknowledge, accept and agree that Vendor’s efforts may not be enough to remove certain viruses or other Malicious Code from your Device, and that Vendor, in the course of providing service, may alter, delete or corrupt data on your Device, change Device settings, or otherwise interfere with the proper operation of your Device.
 
 13.8.3. The Assurance Plan covers: (i) only the Device for which you purchased the related Security Solution, and may not be transferred to another Device; and (ii) only viruses and other Malicious Code infecting the Device during the Subscription Period, after you downloaded and installed the Security Solution on the Device, and while the Security Solution was running with up-to-date Malicious Code definitions. Vendor may terminate the Assurance Plan without notice if it determines in its sole business judgment that you have requested or received service under the Assurance Plan for a Device not covered by the Assurance Plan, transferred or attempted to transfer the Assurance Plan to another person or entity, or otherwise breached the terms of the Assurance Plan.
 
-13.8.4. Vendor, in providing assistance under the Assurance Plan, may require remote access to your Device, and/or may require that you install Assistance Software, in which case you acknowledge and agree that that Section [13.10](#special-terms-10) applies. If you cannot or do not provide remote access to your Device and/or you cannot or do not download and install the Assistance Software on the Device or follow Vendor’s or Associate’s other instructions, or if Vendor determines your Device does not qualify for support under the Assurance Plan, Vendor will not provide service under the Assurance Plan. Vendor may (but is not required to) refer you to a service under which Vendor or its subcontractor, for a fee, will provide assistance.
+13.8.4. Vendor, in providing assistance under the Assurance Plan, may require remote access to your Device, and/or may require that you install Assistance Software, in which case you acknowledge and agree that that Section [13.10](#special-terms-10) applies. If you cannot or do not provide remote access to your Device and/or you cannot or do not download and install the Assistance Software on the Device or follow Vendor’s or Associate’s other instructions, or if Vendor determines your Device does not qualify for support under the Assurance Plan, Vendor will not provide service under the Assurance Plan. Vendor may (but is not required to) refer you to a service under which Vendor or its subcontractor, for a fee, will provide assistance.
 
-13.9. Premium Technical Support. This Section [13.9](#special-terms-9) applies to Avast Total Care, AVG Premium Tech Support, AVG Go and other technical support services (each, “_Premium Technical Support_”) that Vendor sells separately from its software Solutions, and through which Vendor may help you install, configure or troubleshoot any of a variety of software products and/or equipment or systems, including a PC, Mac, tablet, mobile phone or any other personal computing device, wireless router, cable modem or other router, printer, digital camera, media player, Smart TV and DVD/Blu-Ray player.
+13.9. Premium Technical Support. This Section [13.9](#special-terms-9) applies to Avast Total Care, AVG Premium Tech Support, AVG Go and other technical support services (each, “_Premium Technical Support_”) that Vendor sells separately from its software Solutions, and through which Vendor may help you install, configure or troubleshoot any of a variety of software products and/or equipment or systems, including a PC, Mac, tablet, mobile phone or any other personal computing device, wireless router, cable modem or other router, printer, digital camera, media player, Smart TV and DVD/Blu-Ray player.
 
 13.9.1. The Associate, in providing Premium Technical Support, will use commercially reasonable efforts to assist you with the problems you are experiencing but, due to the variety and the complexity of technologies available on the market, the Associate may not be able to resolve your issues. This may include, for example, problems that arise as a result of software or hardware errors not yet resolved by the manufacturer, or problems related to the equipment configuration that makes it impossible or unreasonably difficult for the Associate to properly diagnose and solve the issue. As a result, you hereby acknowledge and agree that Vendor’s efforts may not be enough to solve the issues you identify, or that those issues will not be solved in a timely manner.
 
-13.9.2. The Associate, in providing Premium Technical Support, may require remote access to your Device, and/or may require that you install Assistance Software, in which case you acknowledge and agree that that Section [13.10](#special-terms-10) applies. If you cannot or do not provide remote access to your Device and/or you cannot or do not download and install the Assistance Software on the Device or follow Vendor’s or Associate’s other instructions, or if Vendor determines your Device does not qualify for support under the Premium Technical Support subscription, Vendor will not provide Premium Technical Support.
+13.9.2. The Associate, in providing Premium Technical Support, may require remote access to your Device, and/or may require that you install Assistance Software, in which case you acknowledge and agree that that Section [13.10](#special-terms-10) applies. If you cannot or do not provide remote access to your Device and/or you cannot or do not download and install the Assistance Software on the Device or follow Vendor’s or Associate’s other instructions, or if Vendor determines your Device does not qualify for support under the Premium Technical Support subscription, Vendor will not provide Premium Technical Support.
 
 13.10. Remote Access; Assistance Software
 
-13.10.1. _Remote Access_. Vendor or an Associate, when providing services under the Assurance Plan, as part of Premium Technical Support or in connection with other services, may need to remotely connect to, and take control of, your equipment in order to resolve the issues that you are experiencing. In connection with this remote connection session:
+13.10.1. _Remote Access_. Vendor or an Associate, when providing services under the Assurance Plan, as part of Premium Technical Support or in connection with other services, may need to remotely connect to, and take control of, your equipment in order to resolve the issues that you are experiencing. In connection with this remote connection session:
 
 (a) The Associate may need to run various scripts on your equipment, make changes to its configuration, install and uninstall software, and make other changes to the equipment and/or software settings of such equipment as may be necessary to address your issues. You understand that the Associate may, but is not obligated to, install and remove various proprietary or third party software tools where the Associate deems it necessary to assist you with the issues that you are experiencing. Elements of such software are protected by law, including copyright.
 
@@ -662,7 +884,7 @@ The following special terms apply to certain Solutions. If these special terms c
 
 (c) You acknowledge and agree that the Associate may have access to any information stored on your Device. Associates are trained not to access more information than necessary to resolve the issues for which you are requesting the Associate’s support. You must nevertheless remain in front of your Device screen to observe the actions of the Associate while he or she delivers the Solution on your Device. You will have the opportunity to end the live support session at any time by advising the Associate or disconnecting the remote connection session.
 
-13.10.2. _Assistance Software_.
+13.10.2. _Assistance Software_.
 
 (a) Vendor or an Associate, as a condition to providing services under the Assurance Plan, Premium Technical Support or other services, may instruct you to download and install on the Device a software program (the “_Assistance Software_”) allowing the Associate to gain remote access to your Device, gather information about the Device and its operations, diagnose and repair the problem, and change Device settings. You may also need to follow other instructions given by the Vendor or an Associate.
 
@@ -682,7 +904,7 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.12. Avast Secure Web Gateway and Avast Secure Internet Gateway
 
-13.12.1. As used in this Section [13.12](#special-terms-12):
+13.12.1. As used in this Section [13.12](#special-terms-12):
 
 (a) “_Aggregated Data_” means data: (i) anonymized, and not identifiable to any individual person or entity; (ii) combined with the data of other users of an Avast Secure Gateway, and/or additional data sources; and (iii) presented in a manner by which individual users of an Avast Secure Gateway may not be identified.
 
@@ -690,13 +912,13 @@ The following special terms apply to certain Solutions. If these special terms c
 
 (c) “_DNS Transaction_” means a recursive DNS query you send through your use of Avast Secure Web Gateway.
 
-(d) “_Seat_” means a subscription for an individual that accesses the Internet in connection with an Avast Secure Gateway, as further described by Section [13.12.5](#special-terms-12.5). A Seat may only be transferred from one such individual to another such individual if the original individual is no longer permitted to access, and does not access, the Internet in connection with the Avast Secure Gateway.
+(d) “_Seat_” means a subscription for an individual that accesses the Internet in connection with an Avast Secure Gateway, as further described by Section [13.12.5](#special-terms-12.5). A Seat may only be transferred from one such individual to another such individual if the original individual is no longer permitted to access, and does not access, the Internet in connection with the Avast Secure Gateway.
 
 (e) “_Transaction_” means an HTTP or HTTPS request sent to, or by, you through your use of the Avast Secure Internet Gateway.
 
 13.12.2. You must not, from any Device protected by an Avast Secure Gateway: (i) send spam or otherwise duplicative or unsolicited messages in violation of any applicable laws; (ii) send infringing, obscene, threatening, libelous, or illegal material; (iii) access blocked services in violation of any applicable laws; or (iv) run automated queries to Internet URLs.
 
-13.12.3. You acknowledge and agree that: (i) in order for Vendor to provide the Avast Secure Gateway, you must forward your Internet traffic to Vendor via valid forwarding mechanisms that allow for automatic fail-over (i.e. DNS, PAC, IPSEC, GRE tunnels or an appropriate Vendor Solution); (ii) you are responsible for supplying Vendor with any technical data and other information Vendor may reasonably request from time to time; (iii) Vendor Group and Vendor Partners may use the Malicious Code (as defined in Section [13.16.1](#special-terms-16.1) (b)), spam, botnets, or other information derived from your use of an Avast Secure Gateway for the purposes of: (1) maintaining, improving and/or analyzing the Avast Secure Gateways; (2) complying with any legal or contractual requirements; or (3) making malicious or unwanted content anonymously available to Vendor Partners for the purpose of further developing and enhancing the Avast Secure Gateways; and (iv) Vendor Group and Vendor Partners may develop and commercialize benchmarks and measures based on Aggregated Data.
+13.12.3. You acknowledge and agree that: (i) in order for Vendor to provide the Avast Secure Gateway, you must forward your Internet traffic to Vendor via valid forwarding mechanisms that allow for automatic fail-over (i.e. DNS, PAC, IPSEC, GRE tunnels or an appropriate Vendor Solution); (ii) you are responsible for supplying Vendor with any technical data and other information Vendor may reasonably request from time to time; (iii) Vendor Group and Vendor Partners may use the Malicious Code (as defined in Section [13.16.1](#special-terms-16.1) (b)), spam, botnets, or other information derived from your use of an Avast Secure Gateway for the purposes of: (1) maintaining, improving and/or analyzing the Avast Secure Gateways; (2) complying with any legal or contractual requirements; or (3) making malicious or unwanted content anonymously available to Vendor Partners for the purpose of further developing and enhancing the Avast Secure Gateways; and (iv) Vendor Group and Vendor Partners may develop and commercialize benchmarks and measures based on Aggregated Data.
 
 13.12.4. Vendor Group and Vendor Partners reserve the right to manage bandwidth or route traffic across the Internet in a commercially optimal way, provided such actions do not compromise Vendor’s obligations with respect to the Avast Secure Gateways. Vendor or a Vendor Partner (as applicable) may suspend your access to, or download of, the Avast Secure Gateways in the event your use of these Solutions represents an imminent threat to any network of Vendor Group or a Vendor Partner, or if required to comply with applicable laws. In such circumstances, Vendor or Vendor Partner (as applicable) will: (i) suspend the Avast Secure Gateways only to the extent reasonably necessary to prevent any harm to any network of Vendor Group or Vendor Partners (for example, blocking offending source IP addresses) and to comply with applicable laws; (ii) use its reasonable efforts to contact you promptly and give you the opportunity to promptly change the configuration of you server(s) accordingly and/or work with you to promptly resolve the issues causing the suspension of the Avast Secure Gateways; and (iii) reinstate any such suspended Avast Secure Gateways after all such issues are resolved to the reasonable satisfaction of Vendor or Vendor Partner (as applicable).
 
@@ -708,21 +930,21 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.13. Certain HMA Solutions
 
-13.13.1. Virtual Private Network. Unless otherwise provided by the Applicable Conditions, your subscription to the HMA Virtual Private Network product (the “_HMA VPN_”) authorizes you to create no more than 5 simultaneous connections in respect of each HMA VPN subscription. Notwithstanding anything to the contrary in this Agreement, if you exceed the number of simultaneous connections authorized for your HMA VPN subscription, Vendor may at any time without any prior notice to you, suspend or disable your access to, and/or use of, the HMA VPN. If you wish to increase the authorized number of simultaneous connections for your HMA VPN subscription, please contact us at [sales@hidemyass.com](mailto:sales@hidemyass.com).
+13.13.1. Virtual Private Network. Unless otherwise provided by the Applicable Conditions, your subscription to the HMA Virtual Private Network product (the “_HMA VPN_”) authorizes you to create no more than 5 simultaneous connections in respect of each HMA VPN subscription. Notwithstanding anything to the contrary in this Agreement, if you exceed the number of simultaneous connections authorized for your HMA VPN subscription, Vendor may at any time without any prior notice to you, suspend or disable your access to, and/or use of, the HMA VPN. If you wish to increase the authorized number of simultaneous connections for your HMA VPN subscription, please contact us at [sales@hidemyass.com](mailto:sales@hidemyass.com).
 
 13.13.2. Web Proxy. The HMA web proxy service (“_Web Proxy_”) is a free Solution that does not require you to register your details with Vendor. You acknowledge and agree that you are solely responsible for, and Vendor Group and Vendor Partners accept no liability to you or any third party for: (a) your access, viewing or use of, or the contents of (including any offensive or objectionable content), any third party website accessed or viewed while using Web Proxy; (b) your compliance with the terms of use applicable to any third party website you access, visit or use while using the Web Proxy; and (c) any claim, loss or damage arising from any content that you create, make available, transmit or display while using Web Proxy, including any claim, loss or damage suffered or incurred by Vendor Group or Vendor Partners.
 
-13.14. Virtual Private Networks. Several countries prohibit or restrict the use of virtual private networks (“_VPNs_”), and some have instituted technological measures to prevent VPNs from working. As a result, Vendor’s VPN Solutions (including the HMA VPN) are subject to territorial restrictions that may change from time to time. You can find further information [here](https://www.avast.com/vpn-territory).
+13.14. Virtual Private Networks. Several countries prohibit or restrict the use of virtual private networks (“_VPNs_”), and some have instituted technological measures to prevent VPNs from working. As a result, Vendor’s VPN Solutions (including the HMA VPN) are subject to territorial restrictions that may change from time to time. You can find further information [here](https://www.avast.com/vpn-territory).
 
-13.15. Appliance. Vendor may provide you with a dongle or other appliance (the “_Appliance_”) as a part of your Solution, in which case the additional provisions set forth in this Section [13.15](#special-terms-15) will apply:
+13.15. Appliance. Vendor may provide you with a dongle or other appliance (the “_Appliance_”) as a part of your Solution, in which case the additional provisions set forth in this Section [13.15](#special-terms-15) will apply:
 
-13.15.1. The limited warranty period established by Section [6.1](#limited-warranty-1) is extended for the Appliance to 1 year from the date of purchase (the “_Appliance Warranty Period_”).
+13.15.1. The limited warranty period established by Section [6.1](#limited-warranty-1) is extended for the Appliance to 1 year from the date of purchase (the “_Appliance Warranty Period_”).
 
-13.15.2. You must notify Vendor promptly if the Appliance is or becomes defective. If you notify Vendor of the defect during the Appliance Warranty Period and Vendor is unable to remedy the defect remotely, Vendor at its option and expense within 5business days will either: (a) replace the Appliance with a new or refurbished unit of the Appliance, in which case the warranty established by Section [6.1](https://www.avast.com/limited-warranty-1) will apply for the remainder of the Appliance Warranty Period applicable to the original unit of the Appliance; or (b) terminate your subscription and refund any unearned subscription fees you have previously paid. If the Appliance fails following the end of the Appliance Warranty Period, or if it fails because of misuse, tampering, interference, abuse, casualty, loss or theft, Vendor may charge you its standard price for the replacement unit of the Appliance. Vendor in its sole discretion may replace the Appliance with a new or different appliance that will also be subject to this Agreement (including Section [13.15](#special-terms-15)).
+13.15.2. You must notify Vendor promptly if the Appliance is or becomes defective. If you notify Vendor of the defect during the Appliance Warranty Period and Vendor is unable to remedy the defect remotely, Vendor at its option and expense within 5business days will either: (a) replace the Appliance with a new or refurbished unit of the Appliance, in which case the warranty established by Section [6.1](https://www.avast.com/limited-warranty-1) will apply for the remainder of the Appliance Warranty Period applicable to the original unit of the Appliance; or (b) terminate your subscription and refund any unearned subscription fees you have previously paid. If the Appliance fails following the end of the Appliance Warranty Period, or if it fails because of misuse, tampering, interference, abuse, casualty, loss or theft, Vendor may charge you its standard price for the replacement unit of the Appliance. Vendor in its sole discretion may replace the Appliance with a new or different appliance that will also be subject to this Agreement (including Section [13.15](#special-terms-15)).
 
 13.16. Mobile Threat Intelligence Platform
 
-13.16.1. As used in this Section [13.16](#special-terms-16):
+13.16.1. As used in this Section [13.16](#special-terms-16):
 
 (a) “_Content_” means any content, materials, products and services that you may access on or through the MTIP, including Vendor Content, Your Content and information you may exchange with other MTIP users.
 
@@ -740,28 +962,27 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.16.4. By uploading, publishing, displaying, distributing or making available Your Content on the MTIP, you grant members of the Vendor Group a non-exclusive, worldwide, royalty-free, fully paid up, transferable, sublicensable (through multiple tiers), license to use, copy, reproduce, process, adapt, modify, create derivative works from, upload, publish, transmit, store, display, distribute, make available to others, and otherwise use Your Content in connection with the operation or use of the MTIP or the promotion, advertising or marketing of the MTIP, in any and all media or distribution methods or modes of making the MTIP or Content available to others (now known or later developed). You agree that this license includes the right for members of the Vendor Group to make Your Content available to Vendor Partners who collaborate with members of the Vendor Group for the uploading, publishing, displaying, distributing or making available Your Content through other media or distribution methods or modes of making the MTIP or Content available to others. This license also includes the right for other users of the MTIP to use and modify Your Content. You understand that we may modify, adapt, or create derivative works from Your Content in order to upload, publish, display, distribute or make it available over computer networks, devices, service providers, and in various media. We may also remove or refuse to publish Your Content on the MTIP, in whole or part, at any time in our sole discretion.
 
-13.16.5. By uploading, publishing, displaying, distributing or making available Your Content on the MTIP, you represent, warrant and undertake to each member of the Vendor Group that: (a) you have the ownership rights, or you have obtained all necessary rights licenses or permissions from any relevant parties, to use Your Content and to grant members of the Vendor Group all necessary rights, licenses and permissions to use Your Content as provided for under this Agreement; and (b) that uploading, publishing, displaying, distributing or making available Your Content on the MTIP will not infringe the intellectual property rights of any third party or member of the Vendor Group, violate the privacy or other personal rights of others, or violate applicable law. You accept full responsibility for avoiding infringement of the intellectual property, violation of the privacy or other personal rights of others or violation of applicable law in connection with Your Content. You agree to pay all royalties, fees, and any other monies owed to any person by reason of you uploading, publishing, displaying, distributing or making available Your Content on the MTIP or members of the Vendor Group or Vendor Partners exercising any of the rights, licenses and permissions you have granted under this Section [13.16](#special-terms-16).
+13.16.5. By uploading, publishing, displaying, distributing or making available Your Content on the MTIP, you represent, warrant and undertake to each member of the Vendor Group that: (a) you have the ownership rights, or you have obtained all necessary rights licenses or permissions from any relevant parties, to use Your Content and to grant members of the Vendor Group all necessary rights, licenses and permissions to use Your Content as provided for under this Agreement; and (b) that uploading, publishing, displaying, distributing or making available Your Content on the MTIP will not infringe the intellectual property rights of any third party or member of the Vendor Group, violate the privacy or other personal rights of others, or violate applicable law. You accept full responsibility for avoiding infringement of the intellectual property, violation of the privacy or other personal rights of others or violation of applicable law in connection with Your Content. You agree to pay all royalties, fees, and any other monies owed to any person by reason of you uploading, publishing, displaying, distributing or making available Your Content on the MTIP or members of the Vendor Group or Vendor Partners exercising any of the rights, licenses and permissions you have granted under this Section [13.16](#special-terms-16).
 
 13.16.6. No member of the Vendor Group makes any representation, warranty or undertaking regarding Threat Samples, and the Vendor Group disclaims any warranty (whether express or implied) that the reproduction, distribution or use of any Threat Sample does not infringe the intellectual property rights of any third party, violate the privacy or other personal rights of others, or violate applicable law. If you use, copy, reproduce, process, adapt, modify, create derivative works from, upload, publish, transmit, store, display, distribute, make available to others, or otherwise use any Threat Sample, you assume all associated risks, and irrevocably waive all rights to bring a claim against any member of the Vendor Group in connection with such Threat Sample.
 
-13.16.7. For the avoidance of doubt, Sections [4](#ownership), [5.1.7](#restrictions-1.7), [5.1.11](#restrictions-1.11) and [5.3](#restrictions-3) (“_Pertinent Sections_”) shall be applicable to Your Content and your use of the MTIP (including uploading, publishing, displaying, distributing or making Your Content available on the MTIP). This Section [13.16](#special-terms-16) and the Pertinent Sections, to the greatest extent practicable, will be construed to be consistent with each other, but in the event of a conflict they will govern in the following order of precedence: (i) this Section [13.16](#special-terms-16); and (ii) the Pertinent Sections.
+13.16.7. For the avoidance of doubt, Sections [4](#ownership), [5.1.7](#restrictions-1.7), [5.1.11](#restrictions-1.11) and [5.3](#restrictions-3) (“_Pertinent Sections_”) shall be applicable to Your Content and your use of the MTIP (including uploading, publishing, displaying, distributing or making Your Content available on the MTIP). This Section [13.16](#special-terms-16) and the Pertinent Sections, to the greatest extent practicable, will be construed to be consistent with each other, but in the event of a conflict they will govern in the following order of precedence: (i) this Section [13.16](#special-terms-16); and (ii) the Pertinent Sections.
 
-[Please click here to view other EULAs (including archived versions)](https://www.avast.com/eula-legacy)
+[Please click here to view other EULAs (including archived versions) ![](/content/dam/avast/icon/16/Arrow-Right.svg)](https://www.avast.com/eula-legacy) 
 
-![](https://static3.avast.com/10003751/web/i/v2/components/icons/browsers/chrome.svg)
+![](/content/dam/avast/logo/Chrome.svg)
 
-#### Avast recommends using  
-the **FREE** Chrome™ internet browser.
+#### Avast recommends using the FREE Chrome™ internet browser.
 
 [Download Chrome](https://www.google.com/chrome/)
 
-[![Google Play Link](https://static3.avast.com/19608237/web/i/v2/components/store-badge/google-play/google-play-badge.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome "Download Chrome")
+ [![Button Store](/content/dam/avast/features/en/Google-Play.svg)](https://play.google.com/store/apps/details/Google_Chrome_Fast_Secure?id=com.android.chrome)[![Button Store](/content/dam/avast/features/en/App-Store.svg)](https://apps.apple.com/us/app/google-chrome/id535886823)
 
-[![Apple Store Link](https://static3.avast.com/80907671/web/i/v2/components/store-badge/app-store/app-store-badge.svg)](https://apps.apple.com/us/app/google-chrome/id535886823 "Download Chrome")
+![avast.](/content/dam/avast/logo/avast-logo-inverse.svg)
 
-![](https://static3.avast.com/10003751/web/i/v2/components/logos/avast-logos/avast-logo-inverse.svg)
+ ![](/content/dam/avast/flag/en-ww.svg) Worldwide (English)
 
-Worldwide (English)
+ [![Facebook](/content/dam/avast/icon/Facebook.svg)](https://www.facebook.com/avast)[![Instagram](/content/dam/avast/icon/Instagram.svg)](https://www.instagram.com/avast)[![Twitter](/content/dam/avast/icon/32/Twitter.svg)](https://twitter.com/Avast)[![YouTube](/content/dam/avast/icon/32/YouTube.svg)](https://www.youtube.com/avast)
 
 For home
 
@@ -788,30 +1009,17 @@ Company
 
 * [Contact Us](https://www.avast.com/contacts)
 * [Careers](https://www.avast.com/careers)
-* [Press center](https://press.avast.com/)
+* [Press Center](https://press.avast.com/)
 * [Digital trust](https://www.avast.com/digital-trust)
 * [Technology](https://www.avast.com/technology)
 * [Research Participation](https://www.avast.com/online-research)
 
-[](https://www.facebook.com/avast "facebook")[](https://www.instagram.com/avast "instagram")[](https://twitter.com/Avast "twitter")[](https://www.youtube.com/avast "youtube")
+ [![](/content/dam/avast/cb/gen-logo-footer.svg)](https://www.avast.com/)
 
- ![](https://static3.avast.com/10003751/web/i/v2/components/logos/gen-logos/gen-logo.svg) © 2024 Gen Digital Inc. All rights reserved.
+© 2024 Gen Digital Inc. All rights reserved.
 
-[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://static3.avast.com/10003751/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details)
+[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://static3.avast.com/10003177/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details) Cookie Preferences
 
-Close
+ [![](/content/dam/avast/cb/gen-logo-footer.svg)](https://www.avast.com/)
 
-![](https://static3.avast.com/10003751/web/i/v2/aim/img/_components/dtyp-thumbup.png)
-
-Almost done!
-============
-
-### Complete installation by clicking your downloaded file and following the instructions.
-
-Initiating download...
-
-**Note:** If your download did not start automatically, please [click here](https://www.avast.com/download-thank-you.php?product=FAV-ONLINE&locale=en-ww).
-
-**Need Help?** Please call **855-745-3255**
-
-Click this file to start installing Avast.
+© 2024 Gen Digital Inc. All rights reserved.
