@@ -50,6 +50,8 @@ This is why security and privacy are our **top priority.**
 Tried & tested security
 -----------------------
 
+SaneBox has passed the Cloud Application Security Assessment conducted by PwC. [View Report](https://assets.sanebox.com/LOV_Sanebox.pdf "Download report")
+
 SaneBox was tested by Leviathan Security Group and passed the Google Cloud Platform OAuth API Verification required security audit **with flying colors!** [View Report](https://d1faw2u3edxi8l.cloudfront.net/pdfs/SaneBox+LOA+10-15-2019.pdf "Download Leviathan security report PDF")
 
 Continuously audited by White Hat Security. [View Report](https://assets.sanebox.com/AuditReport.pdf "Download White Hat security report PDF")
