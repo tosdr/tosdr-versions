@@ -59,6 +59,15 @@ Location
     Back to main [Innovation](https://www.gsk.com/en-gb/innovation/)
     
     * [Innovation](https://www.gsk.com/en-gb/innovation/)
+    * [Our leading scientists](https://www.gsk.com/en-gb/innovation/our-leading-scientists/)
+        
+        Innovation [Our leading scientists](https://www.gsk.com/en-gb/innovation/our-leading-scientists/)
+        
+        * [Dr Tony Wood](https://www.gsk.com/en-gb/innovation/our-leading-scientists/tony-wood/)
+        * [Dr Philip Dormitzer](https://www.gsk.com/en-gb/innovation/our-leading-scientists/philip-dormitzer/)
+        * [Dr Sabine Luik](https://www.gsk.com/en-gb/innovation/our-leading-scientists/sabine-luik/)
+        * [Dr Hesham Ahmed Abdullah](https://www.gsk.com/en-gb/innovation/our-leading-scientists/hesham-abdullah/)
+        
     * [Research and development approach](https://www.gsk.com/en-gb/innovation/research-and-development-approach/)
     * [Pipeline](https://www.gsk.com/en-gb/innovation/pipeline/)
     * [Therapeutic areas](https://www.gsk.com/en-gb/innovation/therapeutic-areas/)
@@ -87,7 +96,7 @@ Location
         
     * [R&D locations](https://www.gsk.com/en-gb/innovation/rd-locations/)
     
-    [SPOTLIGHT ON Behind the science magazine ![Scientist in a vaccine manufacturing lab](/media/9932/vaccine-manufacturing-production-line-1.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Partnering with GSK ![GSK roundtable discussion](/media/9824/gsk_roundtable_16x9_1.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/partnerships/) 
+    [SPOTLIGHT ON Behind the science magazine ![Scientist in a vaccine manufacturing lab](/media/9932/vaccine-manufacturing-production-line-1.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/)  [Featured section Our leading scientists ![Tony Wood](/media/8313/tony-16x9.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/our-leading-scientists/) 
     
     Close menu
     
