@@ -354,7 +354,7 @@ Back
 
 * * *
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1817)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1825)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
 
 * [Legal information](https://www.atlassian.com/legal)
 * [Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
@@ -764,7 +764,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1817)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1825)
 
 [Company](https://www.atlassian.com/company)
 
