@@ -264,12 +264,12 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [It’s Softie Season! Here’s Where to Get the Best Soft-Shell Crabs](https://www.phillymag.com/foobooz/soft-shell-crab/)
+1. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
     
-2. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
+2. ### [It Happened Last Night: The Rolling Stones Took Over Philadelphia](https://www.phillymag.com/news/2024/06/12/rolling-stones-philadelphia-tour-review/)
     
-3. ### [We Tracked Down Kylie Kelce Shore Bully Andrée Goldberg](https://www.phillymag.com/news/2024/05/30/andree-goldberg-kylie-kelce-teuscher/)
+3. ### [Public Pools Where You Can Swim for Free in Philadelphia](https://www.phillymag.com/be-well-philly/public-pools/)
     
-4. ### [5 Must-See Open Houses This Weekend](https://www.phillymag.com/property/open-houses-philadelphia/)
+4. ### [The Best Restaurants on Washington Avenue](https://www.phillymag.com/foobooz/washington-avenue-restaurants-pho-food-truck/)
     
-5. ### [Class Action Lawsuit Filed Against University of the Arts](https://www.phillymag.com/news/2024/06/05/university-of-the-arts-lawsuit/)
+5. ### [Did Your Neighborhood Win or Lose the SEPTA Bus Revolution?](https://www.phillymag.com/news/2024/06/17/septa-bus-revolution-winners-losers/)
