@@ -66,59 +66,80 @@ Log in
 
 [Health](https://www.klarna.com/us/shopping/t/10/Health-Beauty/)[Clothing](https://www.klarna.com/us/shopping/t/141/Clothing-Accessories/)[Toys](https://www.klarna.com/us/shopping/t/1493/Toys-Hobbies/)[Home](https://www.klarna.com/us/shopping/t/34/Home-Appliances/)[Sound & TV](https://www.klarna.com/us/shopping/t/1/TV-Audio/)[Sports](https://www.klarna.com/us/shopping/t/27/Sports-Outdoor/)[Electronics](https://www.klarna.com/us/shopping/t/2/Computers-Tablets/)[DIY](https://www.klarna.com/us/shopping/t/182/Home-Improvement/)[Photography](https://www.klarna.com/us/shopping/t/17/Photography/)[Gaming](https://www.klarna.com/us/shopping/t/19/Gaming-Entertainment/)[Phones](https://www.klarna.com/us/shopping/t/4/Phones-Smartwatches/)[Kids](https://www.klarna.com/us/shopping/t/35/Kids-Family/)[Mobility](https://www.klarna.com/us/shopping/t/11/Automotive/)[Garden](https://www.klarna.com/us/shopping/t/1424/Garden-Patio/)[Kitchen](https://www.klarna.com/us/shopping/t/14/Kitchen-Appliances/)[Household](https://www.klarna.com/us/shopping/t/3/Home-Appliances/)[Media](https://www.klarna.com/us/shopping/t/40/Books-Movies-Music/)[Office](https://www.klarna.com/us/shopping/t/36/Office-Equipment/)[Sale](https://www.klarna.com/us/shopping/sale/)
 
-Privacy
-=======
+![Pay securely with Klarna](https://locker.klarna.com/transform/901941b3-e2a2-454c-b4f5-0610cee133fa/BrandAssetLibrary_2024_ConsumerBenefit_Seatbelt_16x9?w=3840&q=75)
 
-At Klarna, privacy isn’t just a question of keeping your data safe. It’s also about making it easy for you to be in control of that data. Because, after all, your data belongs to you.  
-  
-Below you can read more about how we handle your personal data and what we do to protect it, as well as exercise your data privacy rights.
+![Pay securely with Klarna](https://locker.klarna.com/transform/61dfb347-c9a3-4b39-b318-c6a8542e4c26/BrandAssetLibrary_2024_ConsumerBenefit_Seatbelt_4x5?w=3840&q=75)
 
-[Exercise my data rights](https://www.klarna.com/us/my-privacy-request-form/)
+Secure and private. By design.
+==============================
 
-[Read Klarna's privacy policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
+We understand the importance of keeping your personal and financial information secure and private. From making sure you get what you pay for, to fraud monitoring and data encryption, we’re here to make sure you can always shop and pay with peace of mind.
 
-Please go to the [Your California privacy choices page](https://www.klarna.com/us/your-california-privacy-choices/) if you are a California resident.
+[Privacy](#privacy)
 
-Our Privacy Policy in short
----------------------------
+[Privacy request form](#privacy-request-form-us)
 
-Background
+[Security](#security)
 
-Depending on your relationship with Klarna and where you reside, different portions of our Privacy Policy may be applicable to you. Some personal information that Klarna possesses is governed by the federal Gramm-Leach-Bliley Act.  Additionally, if you are a California resident, some personal information we hold may be subject to the California Consumer Privacy Act.  We have tried to make clear which rights apply to your personal information depending on your relationship with Klarna.
+[Security tips](#security-tips)
 
-What is the Gramm-Leach-Bliley Act?
+Your data, your call
+--------------------
 
-The Gramm-Leach-Bliley Act (GLBA) is a federal act that created various federal privacy and security requirements for financial institutions in 1999. For example, you have the right to receive a Privacy Policy when you initiate a financial relationship with us. GLBA also required financial institutions to implement security controls to safeguard your data that is in our possession.
+We are private by design. You own and control the data that you share with us and security is built directly into our products. We are fully committed to protecting and handling your data in a transparent and secure way. 
 
-What is the California Consumer Privacy Act?
+Built-in privacy
 
-The California Consumer Privacy Act (CCPA) is an act that was passed by the California legislature in 2018. It took effect on January 1, 2020. It provides individuals with privacy rights that are similar to existing rights under GLBA. However, the rights under CCPA apply to all California residents, unlike GLBA rights, which apply to customers or consumers of financial institutions.
+Your privacy comes first, our products are designed and built to safeguard your data while still being easy to use.
 
-What is the relationship between California Consumer Privacy Act and Gramm-Leach-Bliley Act?
+Always in control
 
-The CCPA includes an exception for personal information that is collected, processed, or disclosed pursuant to GLBA.
+You can easily manage, review, or delete your personal data through our App, website, or Customer Service.
 
-The type of data we use
+Open and transparent
 
-When you use Klarna, there’s two ways we receive your personal data: There’s personal information you provide when you interact with us (e.g. when you provide your name and contact information, or when you utilize one of our services that use cookies or similar technologies) and there’s personal information we collect about you from a variety of other sources (e.g. credit and fraud prevention agencies, or stores).
+The reasons we collect and process your data are easily accessible and clearly outlined in our Privacy Policy.
 
-Personal information you share with us could for example include
+Enhanced data protection
 
-* Your contact- and identification information – we need this information to be able to for example confirm your identity, offer you support, or carry out a credit assessment before granting credit.
+We only collect the information we need to give you the best experience possible and we use data encryption to keep it safe.
+
+Our privacy terms
+-----------------
+
+How we process and safeguard your data
+
+Our Privacy Policy provides all the information about how we use your personal data and outlines our commitment to protect your personal data.
+
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-us/privacy "Privacy Policy")
+
+How we provide the best shopping experience
+
+The Klarna Shopping Service terms explain how we provide an optimal shopping experience, including explaining details regarding your account, our payment methods, and how we protect your purchases.
+
+[Klarna Shopping Service](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-us/user "Klarna Shopping Service")
+
+How we use tracking technologies
+
+Our Privacy Policy details how we use tracking technologies to optimize the functionality of our website and improve your user experience. It also explains how you can control the use of these tracking technologies.
+
+[Cookie handling](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-us/privacy "Cookie handling")
+
+Privacy FAQs
+------------
+
+How does Klarna collect my data?
+
+When you use Klarna, there are two ways we can receive your personal data: 
+
+1. Personal data that you provide to us. This includes, for example, your contact- and identification information or your payment information.
     
-* Your payment information – we need this information to for example carry out transactions.
+2. Personal data that we collect about you from a variety of sources. We receive information from credit and fraud prevention agencies, stores, or public databases, among others. This can include name, date of birth, place of birth, financial information, or how you use our service. 
     
 
-Personal information we collect about you could for example relate to
+Which purposes does Klarna use my data for?
 
-* Name, e-mail address, telephone number, postal address, device identifiers, IP addresses, and financial account information that you provide, such as credit or debit card numbers.
-    
-* Information about the interaction between you and Klarna – This could include information on how you use our service or your repayment history with Klarna, which we use to tailor our products to you, offer you support or carry out credit risk assessments before granting credit.
-    
-
-Why we use your data
-
-As we continuously work to elevate your shopping experience, we may use your data for a number of reasons, including to
+As we continuously work to elevate your shopping experience, we may use your data for a variety of reasons, for example: 
 
 * Verify your identity when you use our services or contact us
     
@@ -126,101 +147,105 @@ As we continuously work to elevate your shopping experience, we may use your dat
     
 * Provide you with the services you requested
     
-* Personalize content and experiences, including providing recommendations based on your preferences
+* Give you an overview on your financial situation
     
 * Understand your eligibility for Klarna products and services
     
 * Communicate information on the products we offer
     
-* Conduct customer satisfaction surveys
+* Conduct customer satisfaction survey
     
 * Carry out credit and fraud assessments
     
-* Perform debt collection services
+* Perform debt collection service
     
-* Perform statistical, demographic and marketing analyses of users of the Klarna Services and their purchasing patterns
-    
-* Prevent IT attacks
+* Prevent IT attack
     
 * Meet regulatory and legal requirements
     
 
-How we use data to build a better service for you
+For more detailed information about the different reasons for collecting and using each type of your data, see our
 
-As we’ve mentioned above, we believe your data should enhance your everyday life. Below you can find some examples of how the personal data that you share with us, benefits you:
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
 
-**Paying with Klarna:** When you use one of our pay now, pay later, or financing services or use our one-time card (available in the app), we will carry out a credit check internally and via third parties, retrieve your contact and identification information and information about the interaction between you and Klarna. This allows us to have a better understanding of your financial circumstances and your eligibility for certain products so as to provide you with the best options.
+.
 
-**Autofill:** When you decide to purchase a certain item, we offer you the possibility to save your contact- and identification information and payment information so you don’t need to manually add them with every purchase. You can choose to opt out of this feature in the ‘autofill settings’ during address registration in your purchase checkout or by reviewing the
+How does Klarna use my data?
 
-[support](https://www.klarna.com/us/privacy/#support)
+We value and respect your data, and always seek to improve your everyday interactions with us. Here are key ways your personal data, once shared with us, serves to benefit you:
 
-section below.
+* **Paying with Klarna:** We perform internal and third-party credit checks, gather contact and ID information, and analyze interactions with Klarna to understand your eligibility for our products and services.
+    
+* **Autofill:** We offer the option to save your contact, ID, and payment details for faster transactions. You can always opt-out in 'autofill settings' during checkout or via a form.
+    
+* **Klarna App:** We collect data on app interactions, past purchases, linked bank transactions, and preferred items to enhance the app experience and provide personalized offerings like tracking deliveries, price drop notifications, and financial overview.
+    
+* **Support:** We gather contact and ID details and document past conversations to ensure efficient, personalized support and faster response times.
+    
+* **Safe shopping:** We record contact and ID information, financial details, device data, and interaction information to protect against fraud and money laundering. 
+    
+* **Communication and Offers:** We keep records of prior purchases, interactions, and device details to send updates, offers, and product recommendations.
+    
 
-**Klarna app:** When you use the Klarna app through the mobile app or a web portal, we may collect information on your overall interactions with the app, your past purchases, your transactions via bank accounts you have connected, as well as items you’ve liked in the past or chosen to add to your Klarna app. This is so we can improve our app experience, provide you with a more personalised in-app experience, such as the ability to track your deliveries, make you aware of price drops for items you’ve marked, remind you of upcoming payments, or give you a personal financial overview.
+For more detailed information on how we process your data, see our
 
-**Support:** To be able to offer you efficient and personalised support, we collect your contact- and identification information and an overview on previous conversations. This is so we are able to follow up on your questions and increase the speed at which we handle your inquiries.
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
 
-**Safe shopping:** When you use Klarna’s services we collect your contact- and identification information, payment and financial information, device information, information on goods and services provided, as well as information about the interaction you’ve had with Klarna or stores, to be able to protect you against fraud and prevent attempts of money laundering. This is so you can feel safe when using Klarna and we can be sure that you’re really who you claim to be when managing your finances.
+.
 
-**Communication and offers:** If you’ve used Klarna in the past, we may also be collecting contact- and identification information, information about previous purchases and previous conversations with our support staff, as well as device information. This is so we can reach out to you about new offers, products you might be interested in and updates you may be interested in. You can easily opt out of these subscriptions by following steps laid out below.
+How is the security of my information ensured?
 
-How you can control what information we collect and how we use it
+Your information security and privacy is the most important to us at Klarna. These are some of the measures we take in our approach to protect your data:
+
+* **Investment in State-of-the-art Systems:** Our advanced security infrastructure vigilantly monitors our ecosystem, identifying any suspicious activity.
+    
+* **Proactive Risk Management:** Before developing our products, we conduct rigorous risk assessments and implement preventive measures to maintain robust security.
+    
+* **Data Encryption:** We utilize appropriate encryption techniques to protect your data from unauthorized access.
+    
+* **Limited Access within the organization:** We ensure that only authorized individuals have access to your data.
+    
+* **Compliance with Regulations:** As a finance institution, we are subject to regular external audits which scrutinize our security protocols to maintain the highest standards.
+    
+
+How can I control the use of my data?
 
 There are a number of ways you can control the data we collect as well as the way we use it.
 
-* **Autofill:** Within the Klarna app you can choose to opt out of the Auto-fill feature which automatically fills in relevant information when you make future purchases. You can choose to opt out of the feature in the ‘autofill settings’ during address registration in your purchase checkout or by reviewing the
+* **Autofill:** Within the Klarna App you can choose to opt out of the Autofill feature which automatically fills in relevant information when you make future purchases. You can choose to opt out of this feature in the ‘Autofill settings’ during address registration in your purchase checkout or reviewing our support section below.
     
-    [support](https://www.klarna.com/us/privacy/#support)
+* **Marketing communication:** In order to unsubscribe from marketing send-outs you can easily click on the ‘unsubscribe’ link at the bottom of each email. You can also opt out through the settings in the Klarna App under ‘Communication preferences’, or reach out to us via email stating your wish to opt out from marketing send-outs.
     
-    section below.
-    
-* **Marketing communication:** In order to unsubscribe from marketing sendouts you can easily click on the ‘unsubscribe’ link at the bottom of each email. You can also reach out to us by email where you state your wish to opt-out from receiving marketing send outs. For all contact information, please review the
-    
-    [support](https://www.klarna.com/us/privacy/#support)
-    
-    section below.
-    
-* **Identification:** You can personalise how you would like us to verify your identity before each purchase within the Klarna app. Simply go to the Klarna app and choose “Settings”/”Privacy & Security”
+* **Identification:** You can personalize how you would like us to verify your identity before each purchase within the Klarna App. Simply go to the Klarna App and choose “Settings”/”Privacy & Security”
     
 
-Exporting, removing & deleting your information
+For more detailed information on how to control your data, see our
 
-Klarna retains information about you as a customer in order to provide you with our services. Your specific rights as a consumer may vary depending on the type of information, and where you reside, and are fully described in our Privacy Policy. In general you retain the right to:
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
 
-**Request a copy of the data we collect about you** – You have the right to request a copy of your personal data. In order to do so, please review the
+.
 
-[support](https://www.klarna.com/us/privacy/#support)
+How can I review and access my data?
 
-section below.
+You can review and access a copy of all personal data that we store about you at any time. Simply fill in the request form below, and make sure to provide all email addresses that you have used with Klarna before. In order to complete your request, we need you to provide your complete and correct information to verify your identity.
 
-**Request that we rectify inaccurate or incomplete information about yourself** – In case you perceive information referring to you to be wrong or incomplete, you have the right to request the information to be rectified or completed. If you want to make such changes, you simply contact us via our 24/7 chat or by contacting our
+Our Customer Service will handle your request and send you an encrypted PDF file via email. This file can include information connected to, for example, previous purchases you have made with Klarna and our products and services you have used.
 
-[support](https://www.klarna.com/us/privacy/#support)
+How can I delete my data?
 
-team, describing your request.
+You have the right to request deletion of your personal data. When you exercise your right to be forgotten, your data will be deleted and all agreements you have with us will be terminated. As a bank, we are required by law to retain certain personal data even after your deletion request. We may also retain certain information based on legitimate interest to protect you and us, e.g. for fraud prevention purposes.
 
-**Terminate a product, service, or your whole relationship with Klarna** – You are able to manage, or terminate, most of our product and services directly in the Klarna app. By terminating a product or service you thereby terminate the connected terms and conditions. Should you have any questions on how to terminate a product or service, you are welcome to chat with us 24/7 via the app.
+Once you have exercised your right to be forgotten, you will no longer be able to access previous orders or your account. You can place new orders again after we have successfully deleted your data.
 
-**Request deletion of your personal data** – You have the right to request for personal data – that Klarna is not obliged to keep – to be deleted.  Please note that as a consequence, you won’t for example receive any marketing material from us nor be able to log in to our web portal or mobile app once this process has been completed. If you wish to request your personal data to be deleted, please review the
+To request data deletion, simply fill in the request form below, and make sure to provide all email addresses that you have used with Klarna before. In order to handle your request, we need you to provide your complete and correct information to verify your identity.
 
-[support](https://www.klarna.com/us/privacy/#support)
+Does Klarna share my data?
 
-section below.
+Depending on the service you wish to use, we may need to share some of your data with a select number of third parties, for example partners (cloud computing platforms, payment service providers or advertising or marketing partners) or authorities. To give you some examples, the reason for this may be so we can store your data safely, administer your purchases with stores, abide by regulatory requirements, prevent fraud, carry out credit risk assessments, or conduct marketing or advertising.
 
-If you wish to limit specific type of data you share with us, you can e.g. always opt out from marketing sendouts, (see section “_How you can control what information we collect and how we use it_”) or remove certain products or services you have been using (see section “_Terminate a product, service, or your whole relationship with Klarna”_).
+You may opt out of certain types of sharing under GLBA; to limit our sharing of non-public personal information with unaffiliated third parties under Gramm-Leech-Bliley Act simply go to the Klarna app: sign in to the Klarna App, go to Settings, then “Privacy” to adjust your settings. If you don’t have the Klarna App, you can go to the WebApp at app.klarna.com, then log-in, click ‘’Settings’’, then “Privacy” to adjust your settings.
 
-_Retention of certain data_
-
-Please note that there may be instances where access to data or the right to delete specific information may be limited. For example, as a financial institution, we are required to retain certain data by law, for example for Anti-Money Laundering purposes. In addition to legal requirements, we may also retain certain information to protect both you and us, e.g. for fraud prevention purposes.
-
-_Identification before receiving access or erasure of data_
-
-In order to exercise your right to have your data erased or your right of access to your personal data, Klarna will need to identify you, for example, via your identification information and information only you would have access to. As a countermeasure to wrongfully disclose or delete personal data, we will always be required to properly identify you first.
-
-How we share your data
-
-Depending on the service you wish to use, we may need to share some of your data with a select number of third parties, for example partners (cloud computing platforms, payment service providers or advertising or marketing partners) or authorities. To give you some examples, the reason for this may be so we can store your data safely, administer your purchases with stores, abide by regulatory requirements, prevent fraud, carry out credit risk assessments, or conduct marketing or advertising. You may opt out of certain types of sharing under GLBA, please see instructions in the form below. For more information, please read our
+For more information, please read our
 
 [Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
 
@@ -230,95 +255,187 @@ Depending on the service you wish to use, we may need to share some of your data
 
 .
 
-Keeping your data safe
-
-We heavily invest in our advanced security system which continuously monitors our systems to report any suspicious activity. When you use Klarna, it’s important you know that before we even begin building our products, we go at length to assess any potential risks that could exist and strive to design the necessary countermeasures to make sure you stay safe. Of course we encrypt your data where appropriate, while making sure that only the right people have access.
-
-![Make your data work for you](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Make your data work for you](https://images.ctfassets.net/4pxjo1vaz7xk/MTY1OTQ0NzI1MjIyNDE/296aec981da821b43b6e567cd63127f1/2020-09-30-4.png?w=3840&q=75)
-
-Making your data work for you
------------------------------
-
-Great experiences shouldn’t have to come at the expense of your privacy. Your data helps us provide you with an intuitive, quick and automated experience so you can stop worrying about how long it takes to make a payment, and spend more time doing the things you love.
-
-![Being open](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Being open](https://images.ctfassets.net/4pxjo1vaz7xk/MTY1OTQ0NzI1MzEzNzU/a882840ae4f77358c9ead8b9cc974384/2020-09-30-3.png?w=3840&q=75)
-
-Being open
-----------
-
-We always strive to tell you about our data practices. That’s why this page is aimed at providing you with a useful and digestible overview on our data protection practices, on top of our more extensive privacy notice.
-
-![Meeting our responsibilities](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![Meeting our responsibilities](https://images.ctfassets.net/4pxjo1vaz7xk/MTY1OTQ0NzI1MzU5NDI/cba425769d0084480fd71be25884c95c/2020-09-30-2.png?w=3840&q=75)
-
-Meeting our responsibilities
+Send us your privacy request
 ----------------------------
 
-When you’re sharing your data with us, we know you trust us to do what’s right. As a financial institution, we need to comply with a number of data practice rules. We take this extremely seriously and always keep your best interest at heart when complying with these.
+You’re in control. Choose an option from the form below and make sure to provide complete and correct data, including all email addresses you have used with Klarna.
 
-![Your data. Your rights.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+1\. Delete your personal data
 
-![Your data. Your rights.](https://images.ctfassets.net/4pxjo1vaz7xk/MTY1OTQ0NzI1MjY4MDg/834ec7386bc1954ba827b6e9294347e5/2020-09-30-1.png?w=3840&q=75)
+If you exercise your right to be forgotten, we will delete your personal data and terminate your customer relationship with us. You will no longer be able to access previous orders or your account, but you can place new orders again after we have deleted your data. Due to legal requirements or legitimate interest, we may retain certain personal data even after your deletion request is completed. 
 
-Your data, your rights
-----------------------
+2\. Correct your personal data
 
-We understand that your data is...well, your data. And when it comes to getting insights on our privacy standards, how we collect, use and store your data, and how you can control each of these steps, we believe it should be as simple as possible.
+You can have inaccurate data corrected for your name, date of birth and billing address.
 
-![Offering security and support](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+Please go to the [Your California privacy choices page](https://www.klarna.com/us/your-california-privacy-choices/) if you are a California resident.
 
-![Offering security and support](https://images.ctfassets.net/4pxjo1vaz7xk/MTY1OTQ0NzI1NDA1MDk/fe8fd61934bbc3832f7ea090584e495b/2020-09-30-5.png?w=3840&q=75)
+Please choose one of the following request types.
 
-Offering security and support
------------------------------
+Correct my personal dataDelete my personal dataMy Privacy Request
 
-When it comes to trust, we know that giving you our word just isn’t enough. That’s why we continuously work to introduce new ways to keep your data safe via our advanced security system and provide you with adequate support if you have privacy related questions.
+**Delete my personal data**
 
-We know that your time is valuable which is why we have summarized some of the key themes from our privacy notice in the following section. For more detailed information please read our
+By requesting your data to be deleted you terminate all agreements you have with us.
 
-[privacy policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
+All fields marked with an \* are required.
+
+**Correct my personal data**
+
+All fields marked with an \* are required.
+
+First name \*
+
+Last name \*
+
+Email used to place orders \*
+
+Additional email address used to place orders (optional)
+
+Additional email address used to place orders (optional)
+
+Additional email address used to place orders (optional)
+
+Date of birth \*
+
+For more information about how we handle your personal data, please read our
+
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
 
 .
 
-Privacy support
----------------
+**Please select which of the below details you wish to have rectified:**
 
-Do you have any questions about data protection or would you like to receive further information about your personal data? We are here to help you. Depending on the nature of your request, there are two ways to contact us:
+Name
 
-1\. For the following matters, please fill out this
+Date of birth
 
-[form](https://www.klarna.com/us/my-privacy-request-form/)
+Billing address
+
+**Please upload one of the following documents in order to verify these changes:**
+
+For name and/or date of birth - Passport, Driving licence, Birth certificate, Marriage certificate or Death certificate.
+
+For billing address - Utility Bill, Bank statements, Government issued letter (must be dated within the last 90 days).
+
+Upload files here
+
+Please note that this form serves to rectify your name, DOB or billing address. To change any other type of personal data such as email address, phone number, etc. please reach out to our service center.
+
+For your security, please feel free to redact any information not applicable before attaching.
+
+For more information about how we handle your personal data, please read our
+
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy)
 
 .
 
-* **Deleting your personal data and terminating your customer relationship with Klarna:** If you exercise your right to be forgotten, we will delete your personal data. This means that you will no longer be able to access previous orders or your account. You can place new orders again after we have successfully deleted your data. According to legal requirements, we may need to retain certain personal data even after your deletion request. If you only wish to unsubscribe from our marketing communications or remove a specific service, you can do so either in the app or by contacting our customer service.
-    
-* **Rectifying your information:** You can have incorrect personal data such as your name or date of birth corrected.
-    
+Safety comes standard
+---------------------
 
-2\. If you need help with other data protection-related issues or if you want to contact our data protection officer, we are also here for you. You can contact us in the following ways:
+When we say we’re there for you, we mean it.
 
-* **Chat:** Our chat support is available daily and around the clock. You can access it through the
-    
-    [Klarna app](https://login.klarna.com/login?market=US&ui_locales=en-US#)
-    
-    or our
-    
-    [website](https://klarna.com/us/)
-    
-    .
-    
-* **Phone:** If you prefer to speak with us over the phone, you can find our phone number
-    
-    [here](https://www.klarna.com/us/customer-service/)
-    
-    .
-    
+With every click, we make sure your data and information is protected. That means every time you open the app, we make sure it’s really you and each time you make a payment, we encrypt your personal information, making sure it stays between us.
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271440%27%20height=%27963%27/%3e)![SimplifiedScreen_Web_Split_DataProtection_3x2_Global](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![SimplifiedScreen_Web_Split_DataProtection_3x2_Global](https://locker.klarna.com/transform/6e02808a-a7f7-4c89-bbed-6066d834ac0b/SimplifiedScreen_Web_Split_DataProtection_3x2_Global?w=3840&q=75)
+
+Pay it safe
+
+Fraud detection is at the heart of Klarna's security. We can quickly respond to unusual activity on your account, and if needed, we will ask for an extra security step called a multi-factor authentication (MFA), which will ensure that it’s really you making a purchase and giving you peace of mind that your financial information is safe.
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271440%27%20height=%27964%27/%3e)![SimplifiedSnippet_Web_Split_BuyersProtection_3x2_Global](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![SimplifiedSnippet_Web_Split_BuyersProtection_3x2_Global](https://locker.klarna.com/transform/79357817-e31d-49f3-8186-4fbc6f5f10ee/SimplifiedSnippet_Web_Split_BuyersProtection_3x2_Global?w=3840&q=75)
+
+Shop securely with buyer protection
+
+If you shop with Klarna and run into issues, like your order doesn't arrive or it's not what you expected, we've got your back. Just give the store a chance to sort it out first, and if that doesn't help, we'll step in to help you get a refund and even pause your payments in case of returns.
+
+[See how it works](https://www.klarna.com/us/buyer-protection/ "See how it works")
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271440%27%20height=%27963%27/%3e)![SimplifiedSnippet_Web_Split_Privacy_and_Security_New_Login_3x2_Global](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![SimplifiedSnippet_Web_Split_Privacy_and_Security_New_Login_3x2_Global](https://locker.klarna.com/transform/78e4bde9-5f04-45e0-b6de-13042723c55e/SimplifiedSnippet_Web_Split_Privacy_and_Security_New_Login_3x2_Global?w=3840&q=75)
+
+You’re in the driver’s seat
+
+When it comes to your data, it isn’t just a question of keeping it safe, it’s about making it easy for you to be in control of your information. We’ll also send you a notification whenever you make a change to your account and an alert with every new login into you account.
+
+[Privacy Policy](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-us/privacy "Privacy Policy")
+
+Security tips
+-------------
+
+Shopping should be fun, but it's important to be aware of potential risks to help you stay safe. That's where our security tips come into play.
+
+We want to prevent scams and unauthorized activity from happening in the first place. These tips are straightforward and easy to apply, so don’t wait - dive into our tips to stay in the loop.
+
+Top 4 ways to spot a scammer
+----------------------------
+
+We’ve narrowed down a few of the top ways to spot a scammer. When something doesn’t seem right - your intuition may be picking up on subtle scam signals.
+
+1\. Unexpected messages
+
+Scammers often initiate contact through unsolicited emails, phone calls, or text messages and extract sensitive information.
+
+2\. Time crunch
+
+Scammers often create a false sense of urgency to pressure you into acting quickly without thinking.
+
+3\. The more you know
+
+Before shopping or sharing personal details online, make sure the website is legit and secure.
+
+4\. Too good to be true
+
+Scammers may ask you to pay using gift cards, the Klarna app, or even a wire transfer with the expectation you’ll receive even more in return.
+
+What should I do if I...?
+-------------------------
+
+I receive a suspicious email/text message?
+
+Do not click any links or open attachments from unexpected or unverified sources. Always be cautious of communication requesting personal or financial information, demanding immediate action, or simply does not look right. If possible, flag the message as spam or junk. Your awareness and vigilance are the best lines of defense. 
+
+I shared my personal identification or authentication code to someone I don’t know?
+
+Immediately contact Klarna and any other relevant institutions involved to notify them about the incident. Swift action could trigger preventative measures that can avert further complications. Change all relevant passwords and monitor your financial statements closely for any signs of unauthorized activity.
+
+I have lost my device or physical card?
+
+Immediately contact Klarna to report the lost device or card. Freeze your card to prevent unauthorized charges. Similarly, if a device like a phone or laptop is lost, change all passwords for accounts accessible on the device and inform relevant institutions about possible unauthorized access - especially if the device is auto-logged into any financial or personal accounts. 
+
+I see unauthorized activity on my account?
+
+Immediately contact Klarna to report the suspicious activity. Consider changing any log-in credentials you believe could be compromised and enable additional security measures like two-factor authentication. Regularly monitoring your account for unfamiliar activity can help detect potential fraud early.
+
+I am asked to make an urgent payment?
+
+Always double-check before conducting any transactions, particularly those demanding urgently and unexpectedly. Contact the requester via a different, trusted method to confirm its legitimacy.
+
+I suspect an online shopping site could be fraudulent?
+
+Before sharing information online, research the company, check reviews, and confirm valid contact information. 
+
+Make sure the website is legit and secure. Double check the website’s URL is spelled correctly. Also, look for "https://" in the URL which means the data you send to the site is encrypted, providing an extra layer of security. Especially when using public Wi-Fi networks. If something feels off, trust your instincts.
+
+I clicked an unknown link and it downloaded a file?
+
+Do not open the file. Delete it immediately and run a virus scan. Ensure you have up-to-date antivirus software installed to protect against malicious downloads. Continue to monitor your financial statements closely for any unauthorized activity.
+
+I am contacted by someone claiming they're from a well-known company?
+
+Always proceed with caution when contacted unexpectedly, even if they appear to be legitimate from a place you trust. If in doubt, end the conversation and independently contact the company directly using a verified method such as the customer service number listed on their official website. It’s always better to double-check before sharing any personal or financial information.
+
+Need help?
+----------
+
+We're always ready to support you with any security or privacy questions.
+
+[Customer service](https://www.klarna.com/us/customer-service/)
 
 [](https://www.klarna.com/us/)
 
@@ -328,7 +445,7 @@ Klarna
 * [Careers](https://www.klarna.com/careers/)
 * [Legal](https://www.klarna.com/us/legal/)
 * [Press](https://www.klarna.com/international/press/)
-* [Privacy](https://www.klarna.com/us/privacy/)
+* [Privacy and security](https://www.klarna.com/us/privacy-and-security/)
 * [Sustainability](https://www.klarna.com/us/sustainability/)
 * [Import Services](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/emailconnect)
 * [ESG at Klarna](https://www.klarna.com/international/sustainability/)
@@ -509,7 +626,7 @@ Română](https://www.klarna.com/ro/)
 * [Careers](https://www.klarna.com/careers/)
 * [Legal](https://www.klarna.com/us/legal/)
 * [Press](https://www.klarna.com/international/press/)
-* [Privacy](https://www.klarna.com/us/privacy/)
+* [Privacy and security](https://www.klarna.com/us/privacy-and-security/)
 * [Sustainability](https://www.klarna.com/us/sustainability/)
 * [Import Services](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/emailconnect)
 * [ESG at Klarna](https://www.klarna.com/international/sustainability/)
