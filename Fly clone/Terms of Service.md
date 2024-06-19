@@ -31,19 +31,19 @@ nothing clones like a Fly
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://flyclone.com/search.php?search_id=unanswered&sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
-    * [Active topics](https://flyclone.com/search.php?search_id=active_topics&sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
+    * [Unanswered topics](https://flyclone.com/search.php?search_id=unanswered&sid=a6fb312ad0483177e79362ad5878624b)
+    * [Active topics](https://flyclone.com/search.php?search_id=active_topics&sid=a6fb312ad0483177e79362ad5878624b)
     
-    * [Search](https://flyclone.com/search.php?sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
+    * [Search](https://flyclone.com/search.php?sid=a6fb312ad0483177e79362ad5878624b)
     
 * [FAQ](https://flyclone.com/viewtopic.php??f=6&t=186 "Frequently Asked Questions")
-* [Login](https://flyclone.com/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=2ded8a48f3ee45e8cb4d03771f6f1d69 "Login")
-* [Register](https://flyclone.com/ucp.php?mode=register&sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
+* [Login](https://flyclone.com/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=a6fb312ad0483177e79362ad5878624b "Login")
+* [Register](https://flyclone.com/ucp.php?mode=register&sid=a6fb312ad0483177e79362ad5878624b)
 
-* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
-*  Search [Advanced search](https://flyclone.com/search.php?sid=2ded8a48f3ee45e8cb4d03771f6f1d69 "Advanced search")
+* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=a6fb312ad0483177e79362ad5878624b)
+*  Search [Advanced search](https://flyclone.com/search.php?sid=a6fb312ad0483177e79362ad5878624b "Advanced search")
     
-* [Search](https://flyclone.com/search.php?sid=2ded8a48f3ee45e8cb4d03771f6f1d69 "View the advanced search options")
+* [Search](https://flyclone.com/search.php?sid=a6fb312ad0483177e79362ad5878624b "View the advanced search options")
 
 the Fly Clone Project - Terms of use
 ------------------------------------
@@ -58,16 +58,16 @@ Our forums are powered by phpBB (hereinafter “they”, “them”, “their”
   
 You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “the Fly Clone Project” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “the Fly Clone Project” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “the Fly Clone Project” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
 
-* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
+* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=a6fb312ad0483177e79362ad5878624b)
 * All times are UTC-04:00
-* [Delete cookies](https://flyclone.com/ucp.php?mode=delete_cookies&sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
+* [Delete cookies](https://flyclone.com/ucp.php?mode=delete_cookies&sid=a6fb312ad0483177e79362ad5878624b)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://flyclone.com/ucp.php?mode=privacy&sid=2ded8a48f3ee45e8cb4d03771f6f1d69 "Privacy") | [Terms](https://flyclone.com/ucp.php?mode=terms&sid=2ded8a48f3ee45e8cb4d03771f6f1d69 "Terms")
+[Privacy](https://flyclone.com/ucp.php?mode=privacy&sid=a6fb312ad0483177e79362ad5878624b "Privacy") | [Terms](https://flyclone.com/ucp.php?mode=terms&sid=a6fb312ad0483177e79362ad5878624b "Terms")
 
 [](#)
 
 [](#)
 
-![](/app.php/cron/cron.task.core.tidy_sessions?sid=2ded8a48f3ee45e8cb4d03771f6f1d69)
+![](/app.php/cron/cron.task.core.tidy_sessions?sid=a6fb312ad0483177e79362ad5878624b)
