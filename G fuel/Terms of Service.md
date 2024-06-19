@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                           
 
 [Skip to content](#MainContent)
 
@@ -14,23 +14,38 @@ Close menu
         
     * [Live Shopping](https://gfuel.com/en-gb/pages/live-shopping)
         
+    * [Gift Cards](https://gfuel.com/en-gb/products/giftcard)
+        
     * [On Sale](https://gfuel.com/en-gb/collections/on-sale)
         
-    * [G FUEL Formula](https://gfuel.com/en-gb/collections)
+    * [Energy Formula](https://gfuel.com/en-gb/collections/g-fuel)
         
-        * [Energy + Protein](https://gfuel.com/en-gb/collections/energy-protein)
-        * [Energy Formula](https://gfuel.com/en-gb/collections/g-fuel)
-        * [Hydration Formula](https://gfuel.com/en-gb/collections/hydration)
-        * [Featured Collections](https://gfuel.com/en-gb/collections/featured)
-        
-    * [Shake It Up](https://gfuel.com/en-gb/collections/new-shaker-cups)
-        
-        * [Shaker Cups](https://gfuel.com/en-gb/collections/shakers)
+        * [Tubs](https://gfuel.com/en-gb/collections/tubs)
+        * [Collector's Boxes](https://gfuel.com/en-gb/collections/collectors-boxes)
         * [Starter Kits](https://gfuel.com/en-gb/collections/starter-kit)
-        * [Stainless Steel](https://gfuel.com/en-gb/collections/stainless-steel)
+        * [Single Serving Packs](https://gfuel.com/en-gb/collections/packs)
+        * [Cans](https://gfuel.com/en-gb/collections/cans)
+        
+    * [More Formulas](https://gfuel.com/en-gb/collections)
+        
+        * [Hydration Formula](https://gfuel.com/en-gb/collections/hydration)
+        * [Energy + Protein](https://gfuel.com/en-gb/collections/energy-protein)
+        
+    * [Featured Collections](https://gfuel.com/en-gb/collections/featured)
+        
+        * [Trending](https://gfuel.com/en-gb/collections/whats-new)
+        * [Our Faves](https://gfuel.com/en-gb/collections/gfuel-favorites)
+        * [Best Sellers](https://gfuel.com/en-gb/collections/best-sellers)
+        * [Video Games](https://gfuel.com/en-gb/collections/video-game)
+        * [Anime](https://gfuel.com/en-gb/collections/anime)
+        * [Officially Licensed](https://gfuel.com/en-gb/collections/officially-licensed)
+        * [Creator Collabs](https://gfuel.com/en-gb/collections/collaborations)
+        * [Subscribe & Save](https://gfuel.com/en-gb/collections/subscribe-save)
         
     * [G FUEL Gear](https://gfuel.com/en-gb/collections/merch)
         
+        * [Shaker Cups](https://gfuel.com/en-gb/collections/shakers)
+        * [Stainless Steel](https://gfuel.com/en-gb/collections/stainless-steel)
         * [Shirts](https://gfuel.com/en-gb/collections/shirts)
         * [Hoodies & Pants](https://gfuel.com/en-gb/collections/hoodies-and-pants)
         * [Hats & Bags](https://gfuel.com/en-gb/collections/hats-bags)
@@ -128,31 +143,57 @@ Your cart is currently empty.
     [Live Shopping](https://gfuel.com/en-gb/pages/live-shopping)
     ------------------------------------------------------------
     
+    [Gift Cards](https://gfuel.com/en-gb/products/giftcard)
+    -------------------------------------------------------
+    
     [On Sale](https://gfuel.com/en-gb/collections/on-sale)
     ------------------------------------------------------
     
-    [G FUEL Formula](https://gfuel.com/en-gb/collections)
-    -----------------------------------------------------
-    
-    [Energy + Protein](https://gfuel.com/en-gb/collections/energy-protein)
-    
     [Energy Formula](https://gfuel.com/en-gb/collections/g-fuel)
+    ------------------------------------------------------------
     
-    [Hydration Formula](https://gfuel.com/en-gb/collections/hydration)
+    [Tubs](https://gfuel.com/en-gb/collections/tubs)
     
-    [Featured Collections](https://gfuel.com/en-gb/collections/featured)
-    
-    [Shake It Up](https://gfuel.com/en-gb/collections/new-shaker-cups)
-    ------------------------------------------------------------------
-    
-    [Shaker Cups](https://gfuel.com/en-gb/collections/shakers)
+    [Collector's Boxes](https://gfuel.com/en-gb/collections/collectors-boxes)
     
     [Starter Kits](https://gfuel.com/en-gb/collections/starter-kit)
     
-    [Stainless Steel](https://gfuel.com/en-gb/collections/stainless-steel)
+    [Single Serving Packs](https://gfuel.com/en-gb/collections/packs)
+    
+    [Cans](https://gfuel.com/en-gb/collections/cans)
+    
+    [More Formulas](https://gfuel.com/en-gb/collections)
+    ----------------------------------------------------
+    
+    [Hydration Formula](https://gfuel.com/en-gb/collections/hydration)
+    
+    [Energy + Protein](https://gfuel.com/en-gb/collections/energy-protein)
+    
+    [Featured Collections](https://gfuel.com/en-gb/collections/featured)
+    --------------------------------------------------------------------
+    
+    [Trending](https://gfuel.com/en-gb/collections/whats-new)
+    
+    [Our Faves](https://gfuel.com/en-gb/collections/gfuel-favorites)
+    
+    [Best Sellers](https://gfuel.com/en-gb/collections/best-sellers)
+    
+    [Video Games](https://gfuel.com/en-gb/collections/video-game)
+    
+    [Anime](https://gfuel.com/en-gb/collections/anime)
+    
+    [Officially Licensed](https://gfuel.com/en-gb/collections/officially-licensed)
+    
+    [Creator Collabs](https://gfuel.com/en-gb/collections/collaborations)
+    
+    [Subscribe & Save](https://gfuel.com/en-gb/collections/subscribe-save)
     
     [G FUEL Gear](https://gfuel.com/en-gb/collections/merch)
     --------------------------------------------------------
+    
+    [Shaker Cups](https://gfuel.com/en-gb/collections/shakers)
+    
+    [Stainless Steel](https://gfuel.com/en-gb/collections/stainless-steel)
     
     [Shirts](https://gfuel.com/en-gb/collections/shirts)
     
@@ -348,7 +389,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/454/assets/app-store-badge.svg?v=123926581890561309811717708980)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/454/assets/google-play-badge.png?v=132395384020293405351717708980)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/456/assets/app-store-badge.svg?v=123926581890561309811718635311)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/456/assets/google-play-badge.png?v=132395384020293405351718635311)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -364,62 +405,62 @@ The statements contained in this website have not been evaluated by the Food and
 
 "Close (esc)"
 
+4.5
+
+Rated 4.5 out of 5 stars
+
+1,586 Reviews
+
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,819 Reviews
+1,366 Reviews
+
+4.7
+
+Rated 4.7 out of 5 stars
+
+2,825 Reviews
+
+4.7
+
+Rated 4.7 out of 5 stars
+
+1,938 Reviews
 
 4.4
 
 Rated 4.4 out of 5 stars
 
-2,121 Reviews
+2,122 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,410 Reviews
+2,411 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,928 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-4,651 Reviews
+4,655 Reviews
 
 4.5
 
 Rated 4.5 out of 5 stars
 
-4,383 Reviews
+4,394 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,821 Reviews
+1,838 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,354 Reviews
-
-4.5
-
-Rated 4.5 out of 5 stars
-
-1,100 Reviews
-
-4.6
-
-Rated 4.6 out of 5 stars
-
-1,241 Reviews
+1,358 Reviews
