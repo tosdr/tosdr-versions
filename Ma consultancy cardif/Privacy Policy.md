@@ -129,7 +129,15 @@ Situs Resmi
 [Papislot](https://taosfriction.com/)  
 [Garuda303](https://clarksburgtowncenter.com/)  
 [judi roulette](https://www.firstchoicerealty1.com/)  
-[Janjislot](https://www.traditionscompany.com/)
+[Janjislot](https://www.traditionscompany.com/)  
+[zeus4d](https://morrowhibachigrill.com/)  
+[zeus4d](https://lovuashop.com/)  
+[spaceman slot](https://wearedice.com/)  
+[mahjong ways 2](https://www.bretonfam.com/)  
+[slot deposit pulsa](https://www.bretonfam.com/)  
+[rolet online](https://thesneakersfactory.com/)  
+[bola tangkas](https://sanramonbarbershop.com/)  
+[slot deposit 1000 via dana](https://lacopainnalamo.com/)
 
 Situs Rekomendasi
 -----------------
@@ -194,7 +202,9 @@ Situs Rekomendasi
 [slot depo 10k](https://motherlandafricanfoodmarket.com/)  
 [slot depo 10k](https://www.sunshinelandscapingny.com/)  
 [Saba Sport](https://riversidechurros.com/)  
-[gacor22 slot](https://theroyalcrestapts.com/)
+[gacor22 slot](https://theroyalcrestapts.com/)  
+[maxbet](https://carolinahouseandgardens.com/)  
+[slot deposit pulsa tanpa potongan](https://lingscafe1.com/)
 
 You May All Missed
 ------------------
