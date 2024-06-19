@@ -20,11 +20,11 @@ Future Tech Labs / Studios / Distribution / Games
     * [FTD](https://www.ftl.ltd/ftd)
 * [News](https://www.ftl.ltd/news)
 * [Legal](https://www.ftl.ltd/legal)
-    * [Privacy Policy - Future Tech](https://www.ftl.ltd/privacy)
+    * [Privacy Policy - Future Tech](https://www.ftl.ltd/privacy-policy-ftl)
     * [Privacy Policy - The Flip](https://www.ftl.ltd/privacy-policy-the-flip)
-    * [Multiverse & Infiniverse](https://www.ftl.ltd/virtual-items-copy-1)
-    * [Virtual Items](https://www.ftl.ltd/virtual-items)
-    * [Infiniverse Zones – Acquisition, Management and Trading](https://www.ftl.ltd/infiniverse-zones-acquisition-management-and-trading)
+    * [Multiverse & Infiniverse](https://www.ftl.ltd/legal-multiverse-and-infiniverse)
+    * [Virtual Items](https://www.ftl.ltd/legal-virtual-items)
+    * [Infiniverse Zones – Acquisition, Management and Trading](https://www.ftl.ltd/legal-infiniverse-zones)
 * [About](https://www.ftl.ltd/about)
 * [Careers](https://www.ftl.ltd/careers)
 * [Contact](https://www.ftl.ltd/contact)
@@ -74,28 +74,28 @@ PRIVACY POLICY
 
 The privacy policy related to your use of all our respective products - including apps, games, website and more.
 
-[Read](https://www.ftl.ltd/privacy)
+[Read](https://www.ftl.ltd/privacy-policy-ftl)
 
 MULTIVERSE & INFINIVERSE
 ------------------------
 
 The T&Cs related to your use of the Multiverse app, including access to the Infiniverse Network.
 
-[Read](https://www.ftl.ltd/virtual-items-copy-1)
+[Read](https://www.ftl.ltd/legal-multiverse-and-infiniverse)
 
 VIRTUAL ITEMS
 -------------
 
 The T&Cs related to virtual items available to users of our products. This includes, but is not limited to, Metacoins, Virtual Currency and other Virtual Items.
 
-[Read](https://www.ftl.ltd/virtual-items)
+[Read](https://www.ftl.ltd/legal-virtual-items)
 
 INFINIVERSE ZONES
 -----------------
 
 The T&Cs related to the various virtual properties owned by players in the Infiniverse. Specifically, but not limited to Apartments, Penthouses, Storefronts & Plots.
 
-[Read](https://www.ftl.ltd/infiniverse-zones-acquisition-management-and-trading)
+[Read](https://www.ftl.ltd/legal-infiniverse-zones)
 
 Future Tech
 
