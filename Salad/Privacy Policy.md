@@ -16,6 +16,10 @@ Dedicated proxies in ~200 countries](https://salad.com/salad-gateway-service)
 
 K8 pods as container deployments](https://salad.com/virtual-kubelet)
 
+[Salad Transcription
+
+The lowest priced AI transcription in the market](https://salad.com/transcription)
+
 [Pricing](https://salad.com/pricing)
 
 Use Cases
@@ -38,11 +42,11 @@ Save 50% or more on cloud cost](https://salad.com/computer-vision)
 
 Scale easily at 90% less cost than incumbents](https://salad.com/batch)[Language Models
 
-Custom LLMs at low cost without sharing compute](https://salad.com/language-models)[Transcription Service
+Custom LLMs at low cost without sharing compute](https://salad.com/language-models)[Dreambooth API
 
-The lowest priced transcription service in the market](https://salad.com/transcription)[Dreambooth API
+The lowest priced Stable Diffusion finetuning API in the market](https://salad.com/dreambooth-api)[Molecular Dynamics
 
-The lowest priced Stable Diffusion finetuning API in the market](https://salad.com/dreambooth-api)
+Scale easily on 1000s of Nvidia consumer GPUs](https://salad.com/molecular-dynamics)
 
 About
 
