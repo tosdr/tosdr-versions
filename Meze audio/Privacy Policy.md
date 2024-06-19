@@ -225,13 +225,27 @@ If you want to file a complaint about how we process your personal data, please 
 
 You can also contact the Romanian National Supervisory Authority for the processing of personal data at [www.dataprotection.ro](http://www.dataprotection.ro/) and you can file a complaint.
 
-About us
+![](//mezeaudio.com/cdn/shop/files/Meze-Audio-Partners-icon-01.svg?v=1709227202&width=240)
+
+[WHERE TO BUY?](https://mezeaudio.com/pages/dealers "Authorized Dealers & Distributors")
+
+![](//mezeaudio.com/cdn/shop/files/Meze-Audio-Media-Kit-icon-01.svg?v=1709227202&width=240)
+
+[MEDIA KIT](https://drive.google.com/drive/folders/1cIezoAxv6O901je003RfS7B7xiTywLJb "Meze Audio Media Kit")
+
+![](//mezeaudio.com/cdn/shop/files/Meze-Audio-Contact-us-icon-01.svg?v=1709227216&width=240)
+
+[SUPPORT](https://mezeaudio.com/pages/contact "Contact Us")
+
+Go to item 1 Go to item 2 Go to item 3
+
+ABOUT US
 
 * [Our Headphones](https://mezeaudio.com/pages/headphones)
 * [Store](https://mezeaudio.com/collections)
 * [Philosophy](https://mezeaudio.com/pages/philosophy)
 
-Our world
+OUR WORLD
 
 * [Dealers & Distributors](https://mezeaudio.com/pages/dealers)
 * [Artists](https://mezeaudio.com/blogs/artists)
@@ -240,7 +254,7 @@ Our world
 * [Media Kit](https://mezeaudio.com/pages/media)
 * [Contact](https://mezeaudio.com/pages/contact)
 
-Customer care
+CUSTOMER CARE
 
 * [Shipping & Returns](https://mezeaudio.com/pages/shipping)
 * [Warranty](https://mezeaudio.com/pages/warranty)
@@ -248,7 +262,7 @@ Customer care
 * [Cookie Policy](https://mezeaudio.com/pages/cookie-policy)
 * [Terms & Conditions](https://mezeaudio.com/pages/terms)
 
-**Tune in with the worldwide audio community**
+**TUNE IN WITH THE WORLDWIDE AUDIO COMMUNITY**
 
 The realm of superior sound awaits you. Delight in personalised content, including product updates, exclusive rewards and events, and much more, delivered directly to your inbox.
 
