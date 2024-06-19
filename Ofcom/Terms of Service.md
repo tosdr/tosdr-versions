@@ -1,132 +1,186 @@
-[Skip to main content](#skip)
+< iframe src = "//www.googletagmanager.com/ns.html?id=GTM-KNKJHR" height="0" width="0" style="display:none;visibility:hidden">
 
-Menu
+[Skip to content](#skipToContent)
 
- [![Ofcom home page](https://www.ofcom.org.uk/__data/assets/file/0010/163/logo2023_2.svg)](https://www.ofcom.org.uk/ "Ofcom home page")[![Ofcom home page](https://www.ofcom.org.uk/__data/assets/file/0009/162/logo-mob2023_2.svg)](https://www.ofcom.org.uk/ "Ofcom home page")
+[![Ofcom](/globalassets/images/logonostrap.svg)](https://www.ofcom.org.uk/ "Ofcom")
 
-[Cymraeg](https://www.ofcom.org.uk/cymru/about-ofcom/website/terms-of-use "Switch to Cymraeg") [Search](# "Open search bar")
+[](javascript:void(0);)
 
-Your pages (0)
+[](javascript:void(0);)
 
-[What is 'Your pages'?](https://www.ofcom.org.uk/about-ofcom/website/what-is-your-pages)
+×
 
-Close search bar
-
-Search site  Submit Search
-
-[Cymraeg](https://www.ofcom.org.uk/cymru/about-ofcom/website/terms-of-use "Switch to Cymraeg")
-
-* [Home](https://www.ofcom.org.uk/home)
-* [Complaints](https://www.ofcom.org.uk/complaints)
-    * [Make a complaint](https://www.ofcom.org.uk/complaints)
-    * [Complain about mobile, phone or internet services](https://www.ofcom.org.uk/complaints/complain-about-phones-or-internet-services)
-    * [Complain about TV, radio or on demand services](https://www.ofcom.org.uk/complaints/complain-about-tv-radio-a-website)
-    * [Complain about postal services](https://www.ofcom.org.uk/complaints/complain-about-postal-services)
-    * [Complain about wireless interference](https://www.ofcom.org.uk/complaints/complain-about-wireless-interference)
-    * [Complain about online services, websites or apps](https://www.ofcom.org.uk/complaints/online-services-sites-apps)
-* [News centre](https://www.ofcom.org.uk/news-centre)
-    * [Latest news](https://www.ofcom.org.uk/news-centre)
-    * [Contact the Ofcom Media Office](https://ofcomlive.my.salesforce-sites.com/formentry/ContactusMediaOfficeWebForm)
-    * [Subscribe to media release emails](https://www.ofcom.org.uk/news-centre/subscribe-to-media-release-emails)
-    * [Download Ofcom's logo and senior management images](https://www.ofcom.org.uk/news-centre/images)
-* [About Ofcom](https://www.ofcom.org.uk/about-ofcom)
-    * [About Ofcom](https://www.ofcom.org.uk/about-ofcom)
-    * [What is Ofcom?](https://www.ofcom.org.uk/about-ofcom/what-is-ofcom)
-    * [How Ofcom is run](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run)
-    * [Contacting Ofcom](https://www.ofcom.org.uk/about-ofcom/contact-us)
-    * [Jobs](https://www.ofcom.org.uk/about-ofcom/jobs)
-    * [Bulletins](https://www.ofcom.org.uk/about-ofcom/bulletins)
-    * [Freedom of information and data protection](https://www.ofcom.org.uk/about-ofcom/foi-dp)
-    * [Annual reports and plans](https://www.ofcom.org.uk/about-ofcom/annual-reports-and-plans)
-    * [About this website](https://www.ofcom.org.uk/about-ofcom/website)
-    * [Accessibility and diversity](https://www.ofcom.org.uk/about-ofcom/accessibility-diversity)
-    * [Analyst and investor relations](https://www.ofcom.org.uk/about-ofcom/analysts)
-    * [Ofcom's international work](https://www.ofcom.org.uk/about-ofcom/international)
-    * [Policies and guidelines](https://www.ofcom.org.uk/about-ofcom/policies-and-guidelines)
-    * [Public correspondence](https://www.ofcom.org.uk/about-ofcom/public-correspondence)
-    * [Working with academic researchers](https://www.ofcom.org.uk/about-ofcom/working-with-academics)
-* [Online safety](https://www.ofcom.org.uk/online-safety)
-    * [Online safety](https://www.ofcom.org.uk/online-safety)
-    * [Advice for consumers](https://www.ofcom.org.uk/online-safety/advice-for-consumers)
-    * [Information for industry](https://www.ofcom.org.uk/online-safety/information-for-industry)
-    * [The Online Safety Briefing](https://www.ofcom.org.uk/online-safety/online-safety-briefing)
-* [Phones and internet](https://www.ofcom.org.uk/phones-telecoms-and-internet)
-    * [Phones, telecoms and internet](https://www.ofcom.org.uk/phones-telecoms-and-internet)
-    * [Advice for consumers](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers)
-    * [Information for industry](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry)
-    * [Coverage](https://www.ofcom.org.uk/phones-telecoms-and-internet/coverage)
-* [TV, radio and on-demand](https://www.ofcom.org.uk/tv-radio-and-on-demand)
-    * [TV, radio and on-demand](https://www.ofcom.org.uk/tv-radio-and-on-demand)
-    * [Advice for consumers](https://www.ofcom.org.uk/tv-radio-and-on-demand/advice-for-consumers)
-    * [Information for industry](https://www.ofcom.org.uk/tv-radio-and-on-demand/information-for-industry)
-    * [TV and radio broadcasting codes](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes)
-* [Post](https://www.ofcom.org.uk/postal-services)
-    * [Postal services](https://www.ofcom.org.uk/postal-services)
-    * [Advice to help with your postal service](https://www.ofcom.org.uk/postal-services/advice)
-    * [Information for the postal industry](https://www.ofcom.org.uk/postal-services/information-for-the-postal-industry)
-* [Spectrum](https://www.ofcom.org.uk/spectrum)
-    * [Spectrum](https://www.ofcom.org.uk/spectrum)
-    * [Electromagnetic fields (EMF)](https://www.ofcom.org.uk/spectrum/emf)
-    * [Interference to radio equipment](https://www.ofcom.org.uk/spectrum/interference)
-    * [Our approach to spectrum compliance and enforcement](https://www.ofcom.org.uk/spectrum/spectrum-enforcement)
-    * [Rules on using radio equipment](https://www.ofcom.org.uk/spectrum/rules)
-    * [Spectrum information](https://www.ofcom.org.uk/spectrum/information)
-    * [Spectrum management](https://www.ofcom.org.uk/spectrum/spectrum-management)
-* [Consultations](https://www.ofcom.org.uk/consultations-and-statements)
-    * [Consultations and statements](https://www.ofcom.org.uk/consultations-and-statements)
-    * [Ofcom's approach to impact assessment](https://www.ofcom.org.uk/consultations-and-statements/approach-to-impact-assessment)
-    * [Ofcom's consultation principles](https://www.ofcom.org.uk/consultations-and-statements/how-will-ofcom-consult)
-    * [Ofcom's responses to external consultations and reports](https://www.ofcom.org.uk/consultations-and-statements/ofcomresponses)
-* [Research](https://www.ofcom.org.uk/research-and-data)
-    * [Research and data](https://www.ofcom.org.uk/research-and-data)
-    * [Search all research and data](https://www.ofcom.org.uk/research-and-data/search)
-    * [Multi-sector](https://www.ofcom.org.uk/research-and-data/multi-sector-research)
-    * [TV, radio and on-demand research](https://www.ofcom.org.uk/research-and-data/tv-radio-and-on-demand)
-    * [Telecoms research](https://www.ofcom.org.uk/research-and-data/telecoms-research)
-    * [Making Sense of Media](https://www.ofcom.org.uk/research-and-data/media-literacy-research)
-    * [Online research](https://www.ofcom.org.uk/research-and-data/online-research)
-    * [Postal services research and data](https://www.ofcom.org.uk/research-and-data/post-research)
-    * [Technology research](https://www.ofcom.org.uk/research-and-data/technology)
-    * [Data](https://www.ofcom.org.uk/research-and-data/data)
-    * [Ofcom’s research and data collection programme](https://www.ofcom.org.uk/research-and-data/about-ofcoms-research)
-    * [The communications sector at a glance](https://www.ofcom.org.uk/research-and-data/facts)
-    * [Economics insights and discussion papers](https://www.ofcom.org.uk/research-and-data/economics-discussion-papers)
-    * [Behavioural insights at Ofcom](https://www.ofcom.org.uk/research-and-data/behavioural-insights)
-    * [Digital Regulation Cooperation Forum digital markets research](https://www.gov.uk/find-digital-market-research)
-* [Licences](https://www.ofcom.org.uk/manage-your-licence)
-    * [Manage your licence](https://www.ofcom.org.uk/manage-your-licence)
-    * [Help with your broadcast licence](https://www.ofcom.org.uk/manage-your-licence/broadcast-licensing-help-centre)
-    * [Radio broadcast licences](https://www.ofcom.org.uk/manage-your-licence/radio-broadcast-licensing)
-    * [Radiocommunications licences](https://www.ofcom.org.uk/manage-your-licence/radiocommunication-licences)
-    * [TV broadcast licences](https://www.ofcom.org.uk/manage-your-licence/tv-broadcast-licences)
-    * [Buy a licence for watching TV](http://www.tvlicensing.co.uk/)
-    * [Online post-issue registration](https://secure.ofcom.org.uk/opir/)
-    * [SPECTRAsc](https://secure.ofcom.org.uk/SPECTRAsc/login.ws)
-* [Your pages](#)
+* [Topics](#)
+    
+    [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
+    
+    Ofcom is the regulator for the communications services that we use and rely on each day.
+    
+    [Internet-based services](https://www.ofcom.org.uk/internet-based-services/)
+    
+    As people communicate seamlessly online and offline, we now need to invest our efforts into making digital communications work for everyone
+    
+    [Media use and attitudes](https://www.ofcom.org.uk/media-use-and-attitudes/)
+    
+    Ofcom wants to understand how adults and children in the UK use media.
+    
+    [Online safety](https://www.ofcom.org.uk/online-safety/)
+    
+    Under the Online Safety Act, Ofcom's job is to make online services safer for the people who use them. We make sure companies have effective systems in place to protect users from harm.
+    
+    [Phones and broadband](https://www.ofcom.org.uk/phones-and-broadband/)
+    
+    Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
+    
+    [Post](https://www.ofcom.org.uk/post/)
+    
+    Ofcom's job is to make sure there is a universal postal service.
+    
+    [Spectrum](https://www.ofcom.org.uk/spectrum/)
+    
+    You can't see or feel radio spectrum, but we use it every day. Our job is to authorise and manage the use of spectrum in the UK.
+    
+    [TV, radio and on-demand](https://www.ofcom.org.uk/tv-radio-and-on-demand/)
+    
+    We make sure that broadcasters provide quality TV, radio and on-demand programmes that appeal to diverse audiences. We also have rules in place to protect viewers and listeners from harm.
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+    
+* [Ofcom's work](#)
+    
+    [Advice for businesses](https://www.ofcom.org.uk/advice-for-businesses/)
+    
+    How to make the most of communications services as a small business.
+    
+    [Advice for consumers](https://www.ofcom.org.uk/advice-for-consumers/)
+    
+    How to make the most of the services you use, and deal with problems.
+    
+    [Consultations and statements](https://www.ofcom.org.uk/consultations-and-statements/)
+    
+    Proposals we are consulting on and decisions we've made.
+    
+    [Enforcement](https://www.ofcom.org.uk/enforcement/)
+    
+    How we make sure companies follow our rules, to protect customers and promote competition.
+    
+    [Information for industry](https://www.ofcom.org.uk/information-for-industry/)
+    
+    Rules, guidance and other information for the industries we regulate.
+    
+    [Licence information](https://www.ofcom.org.uk/licence-information/)
+    
+    If you're looking to use certain radio equipment, or broadcast on TV or radio, you'll need a licence from Ofcom.
+    
+    [News and updates](https://www.ofcom.org.uk/news-and-updates/)
+    
+    Our latest news, features, views and information about our work.
+    
+    [Research, statistics and data](https://www.ofcom.org.uk/research-statistics-and-data/)
+    
+    Evidence we gather to inform our work as a regulator.
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+    
+* [Complaints](#)
+    
+    [Complaints](https://www.ofcom.org.uk/make-a-complaint/)
+    
+    * [Complain about mobile, phone or internet services](https://www.ofcom.org.uk/make-a-complaint/complain-about-mobile-phone-or-internet-services/)
+    * [Complain about TV, radio or on demand services](https://www.ofcom.org.uk/make-a-complaint/complain-about-tv-radio-or-on-demand-services/)
+    * [Complain about postal services](https://www.ofcom.org.uk/make-a-complaint/complain-about-postal-services/)
+    * [Complain about wireless interference](https://www.ofcom.org.uk/make-a-complaint/complain-about-wireless-interference/)
+    * [Complain about online services, websites or apps](https://www.ofcom.org.uk/make-a-complaint/complain-about-a-video-sharing-platform-vsp/)
+    
+    * Ofcom may be able to help you complain about or report issues relating to: phone, broadband and postal services; TV, radio and on-demand programmes; interference to wireless devices; or something you have seen on an online service, website or app.
+    * [The types of complaint we deal with](https://www.ofcom.org.uk/make-a-complaint/complaints-ofcom-deals-with/)
+    * [Get in touch by phone or post](https://www.ofcom.org.uk/make-a-complaint/get-in-touch/)
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+    
+* [Licences](#)
+    
+    [Licences](https://www.ofcom.org.uk/licences/)
+    
+    * [Spectrum licences](https://www.ofcom.org.uk/licences/spectrum/)
+    * [Radio broadcast licences](https://www.ofcom.org.uk/licences/radio-broadcast/)
+    * [TV broadcast licences](https://www.ofcom.org.uk/licences/tv-broadcast/)
+    
+    * You need a licence from Ofcom if you’re looking to use certain radio equipment (like amateur or ships radio), or broadcast on TV or radio.
+    * [Help with your spectrum licence](https://www.ofcom.org.uk/spectrum/electromagnetic-fields/licensing-help-centre/)
+    * [Help with your broadcast licence](https://www.ofcom.org.uk/tv-radio-and-on-demand/analogue-radio/help-with-your-broadcast-licence/)
+    
+    [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
     
 
-1. [Home](https://www.ofcom.org.uk/)
-2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom)
-3. [About this website](https://www.ofcom.org.uk/about-ofcom/website)
-4. Terms of use
+[Global Search](javascript:void(0);)
 
-Terms of use
-============
+ Search [Search](javascript:void(0))
 
-Add to Your Pages
+#### Quick links
 
 * * *
+
+[Broadband and mobile coverage checker](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/ofcom-checker/)
+
+[Social tariffs: Cheaper broadband and phone packages](https://www.ofcom.org.uk/phones-and-broadband/saving-money/social-tariffs/)
+
+[Telephone area codes: Find UK dialling codes for numbers starting 01 and 02](https://www.ofcom.org.uk/phones-and-broadband/phone-numbers/telephone-area-codes-tool/)
+
+[Ofcom licensing portal for aircraft, amateur and ships radio](https://www.ofcom.org.uk/spectrum/radio-equipment/online-licensing-service/)
+
+* * *
+
+#### Latest news
+
+[![Professional cameraman with headphones with HD camcorder in live television](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bulletin-500-web.jpg?width=1920&height=1085&quality=80)
+
+### Marking 500 Broadcast Bulletins
+
+17 June 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/marking-500-broadcast-bulletins/)
+
+[![election-web](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/election-web.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom’s role in a General Election – what you need to know
+
+29 May 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know/)
+
+[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
+
+### Global online safety regulators map out vision to improve international coordination
+
+24 May 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-map-out-vision-to-improve-international-coordination/)
+
+[![royal-mail-post-office-delivery-vans-parked](/siteassets/resources/images/-news-centre/thumbnail-images/post/royal-mail-post-office-delivery-vans-parked.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom investigates Royal Mail’s delivery performance
+
+24 May 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-investigates-royal-mails-delivery-performance/)
+
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/ "Switch to Welsh")
+
+1. [Home](https://www.ofcom.org.uk/)
+2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
+3. [Our website](https://www.ofcom.org.uk/about-ofcom/our-website/)
+4. Terms of use
+
+**Terms of use**
+================
+
+[About Ofcom](https://www.ofcom.org.uk/about-ofcom/) [Our website](https://www.ofcom.org.uk/about-ofcom/our-website/)
+
+Published: 29 March 2021
 
 Intellectual property rights
 ----------------------------
 
-All material either on Ofcom's website or provided by Ofcom in hard copy is owned by Ofcom or is licensed to Ofcom and is protected by copyright, trade marks, service marks, patents or other proprietary rights and laws. The Ofcom logo is a registered trademark. If you wish to reproduce the Ofcom logo please [ask our permission](https://www.ofcom.org.uk/about-ofcom/website/?a=89714) first.
+All material either on Ofcom's website or provided by Ofcom in hard copy is owned by Ofcom or is licensed to Ofcom and is protected by copyright, trade marks, service marks, patents or other proprietary rights and laws. The Ofcom logo is a registered trademark. If you wish to reproduce the Ofcom logo please [ask our permission](https://www.ofcom.org.uk/news-centre/contact-ofcom-media) first.
 
 Unless indicated as Crown owned material or otherwise, the material featured on this website or provided in hard copy may be reproduced free of charge in any format or medium provided that it is reproduced accurately and not used in a misleading context. The material must be acknowledged as Ofcom copyright and the title of the document/publication specified.
 
 As to the use of Crown-owned material, please refer to HMSO website.
 
-Any enquiries regarding the material on this website should [use this form](https://www.ofcom.org.uk/about-ofcom/website/?a=90089), or be addressed by letter to Ofcom, 2a Southwark Bridge Road, London SE1 9HA. © Ofcom copyright 2006-16.
+Any enquiries regarding the material on this website should [use this form](https://www.ofcom.org.uk/about-ofcom/our-website/terms-of-use/?a=90089), or be addressed by letter to Ofcom, 2a Southwark Bridge Road, London SE1 9HA. © Ofcom copyright 2006-16.
 
 Disclaimer
 ----------
@@ -146,65 +200,56 @@ You do not have to ask permission to link directly to the web pages hosted on th
 
 Ofcom links to other websites but is not responsible for the content or reliability of these sites. Linking should not be taken as endorsement of any kind of the website linked to, including any products and services referred to in that website, nor does it imply that there is an association between Ofcom and the operators of that website. Ofcom cannot guarantee that these links will work all of the time and has no control over the availability of linked pages
 
-Add to Your Pages
-
 See also...
 -----------
 
-* [Broadcast and On Demand Bulletin](https://www.ofcom.org.uk/about-ofcom/bulletins/broadcast-bulletins)
-    
-    The Broadcast and On Demand Bulletin reports on investigations into potential breaches of Ofcom’s codes and rules for TV, radio and video-on-demand programmes.
-    
-* [Ofcom Board](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/ofcom-board)
-    
-    Ofcom's Board provides strategic direction for the organisation.
-    
-* [Register of disclosable interests](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/register-disclosable-interests)
-    
-    Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.
-    
-* [Our work in the Welsh language](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/nations-and-regions/wales/welsh-language)
-    
-    We’re proud of our commitment to the Welsh language and how we integrate it into our work. This work enables you to communicate with Ofcom in the language of your choice – Welsh or English.
-    
+[### Broadcast and On Demand Bulletin
 
-[See all results](https://www.ofcom.org.uk/search?query=Terms%20of%20use)
+The Broadcast and On Demand Bulletin reports on investigations into potential breaches of Ofcom’s codes and rules for TV, radio and video-on-demand programmes.](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-bulletins/)
 
-* * *
+[### Organisations we work with
 
-[Subscribe to update emails](https://www.ofcom.org.uk/email-updates)
+Organisations we work with, including the Consumer Forum for Communications and other relevant bodies.](https://www.ofcom.org.uk/about-ofcom/what-we-do/organisations-we-work-with/)
 
-Footer
-------
+[### Register of disclosable interests
 
-* [X (Twitter)](https://twitter.com/ofcom "X (Twitter)")
-* [Facebook](https://www.facebook.com/ofcom "Facebook")
-* [LinkedIn](https://www.linkedin.com/company/ofcom "LinkedIn")
-* [YouTube](https://www.youtube.com/ofcom "YouTube")
-* [Instagram](https://www.instagram.com/ofcom.org.uk/ "Instagram")
-* [TikTok](https://www.tiktok.com/@ofcom.org.uk "TikTok")
+Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/)
 
-### Advice for businesses
+[### Ofcom Board
 
-* [A starter pack for businesses](https://www.ofcom.org.uk/advice-for-businesses/inexperienced-digital-users "A starter pack for businesses")
-* [Knowing your rights](https://www.ofcom.org.uk/advice-for-businesses/knowing-your-rights "Knowing your rights")
-* [Read all our advice for businesses](https://www.ofcom.org.uk/advice-for-businesses "Read all our advice for businesses")
+Ofcom's Board provides strategic direction for the organisation.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-board/)
 
-### About Ofcom
+[Back to top](#)
 
-* [What is Ofcom?](https://www.ofcom.org.uk/about-ofcom/what-is-ofcom "What is Ofcom?")
-* [Contact us](https://www.ofcom.org.uk/about-ofcom/contact-us "Contact us")
-* [Nations and regions](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/nations-and-regions "Nations and regions")
-* [Jobs](https://careers.ofcom.org.uk/ "Jobs")
-* [General Privacy Statement](https://www.ofcom.org.uk/about-ofcom/foi-dp/general-privacy-statement "General Privacy Statement")
-* [Modern slavery statement](https://www.ofcom.org.uk/about-ofcom/policies-and-guidelines/supplying-ofcom/modern-slavery-statement "Modern slavery statement")
-* [Our work in Welsh](https://www.ofcom.org.uk/about-ofcom/how-ofcom-is-run/nations-and-regions/wales/welsh-language "Our work in Welsh")
+[Subscribe to email updates](https://www.ofcom.org.uk/email-updates/)
 
-### About this website
+Follow us
+---------
 
-* [Accessibility](https://www.ofcom.org.uk/about-ofcom/website/accessibility "Accessibility")
-* [Cookies Policy](https://www.ofcom.org.uk/about-ofcom/website/cookies-policy "Cookies Policy")
-* [Terms of Use](https://www.ofcom.org.uk/about-ofcom/website/terms-of-use "Terms of Use")
-* [Copyright and information re-use](https://www.ofcom.org.uk/about-ofcom/website/copyright "Copyright and information re-use")
+* [x-twitter](https://x.com/ofcom "x-twitter")
+* [facebook](https://www.facebook.com/ofcom "facebook")
+* [linkedin](https://www.linkedin.com/company/ofcom "linkedin")
+* [youtube](https://www.youtube.com/ofcom "youtube")
+* [instagram](https://www.instagram.com/ofcom.org.uk/ "instagram")
+* [tiktok](https://www.tiktok.com/@ofcom.org.uk "tiktok")
+
+About Ofcom
+-----------
+
+* [What is Ofcom?](https://www.ofcom.org.uk/about-ofcom/what-we-do/what-is-ofcom/ "What is Ofcom?")
+* [Contact us](https://www.ofcom.org.uk/about-ofcom/what-we-do/contact-us/ "Contact us")
+* [Nations and regions](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/nations-and-regions/ "Ofcom in the nations and regions")
+* [Jobs](https://ofcom.wd3.myworkdayjobs.com/Ofcom_Careers "Jobs at Ofcom")
+* [General Privacy Statement](https://www.ofcom.org.uk/about-ofcom/corporate-policies/general-privacy-statement/ "General Privacy Statement")
+* [Modern slavery statement](https://www.ofcom.org.uk/about-ofcom/corporate-policies/modern-slavery-statement/ "Modern slavery statement")
+* [Our work in Welsh](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/welsh-language/ "Our work in the Welsh language")
+
+About this website
+------------------
+
+* [Accessibility](https://www.ofcom.org.uk/about-ofcom/accessibility/accessibility/ "Accessibility of Ofcom's website")
+* [Cookies policy](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/ "Cookies policy")
+* [Terms of use](https://www.ofcom.org.uk/about-ofcom/our-website/terms-of-use/ "Terms of use")
+* [Copyright and information re-use](https://www.ofcom.org.uk/about-ofcom/our-website/copyright/ "Copyright and information re-use")
 
 © Ofcom 2024
