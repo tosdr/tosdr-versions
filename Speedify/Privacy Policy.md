@@ -133,19 +133,19 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Jun 12
+Jun 19
 
 10:00 am - 11:00 am EDT
 
-### [6/12 @ 10am EDT – Can you use Starlink while Traveling? | Ask the CEO your tech questions](https://speedify.com/event/6-12-10am-edt-can-you-use-starlink-while-traveling-ask-the-ceo-your-tech-questions/ "6/12 @ 10am EDT – Can you use Starlink while Traveling? | Ask the CEO your tech questions")
+### [6/19 @ 10am EDT – Could 2 Starlinks make you faster? | Ask the CEO your tech questions](https://speedify.com/event/6-19-10am-edt-could-2-starlinks-make-you-faster-ask-the-ceo-your-tech-questions/ "6/19 @ 10am EDT – Could 2 Starlinks make you faster? | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 * [How to Connect If Starbucks WiFi Login Screen Won't Pop Up](https://speedify.com/blog/starbucks-wifi-wont-pop-up-fix/)
+* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 
 ### Bonding Apps
 
