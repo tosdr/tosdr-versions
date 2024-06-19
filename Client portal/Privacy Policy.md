@@ -19,7 +19,7 @@
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon02.svg)
             
-            Schools Client Portal helps schools give parents their own](https://client-portal.io/school-portal)
+            Schools Client Portal helps schools give parents their own portal](https://client-portal.io/school-portal)
         * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![](https://client-portal.io/wp-content/uploads/2022/10/card-icon05.svg)
