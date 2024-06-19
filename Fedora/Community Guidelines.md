@@ -52,6 +52,7 @@ Fedora Project
 * [Fedora Localization Team](https://docs.fedoraproject.org/en-US/localization/)
 * [Fedora Magazine](https://docs.fedoraproject.org/en-US/fedora-magazine/)
 * [Fedora Marketing Team](https://docs.fedoraproject.org/en-US/marketing/)
+* [Fedora Mentored Projects](https://docs.fedoraproject.org/en-US/mentored-projects/)
 * [Fedora Mindshare Committee](https://docs.fedoraproject.org/en-US/mindshare-committee/)
 * [Fedora Program Management](https://docs.fedoraproject.org/en-US/program_management/)
 * [Fedora Project](https://docs.fedoraproject.org/en-US/project/)
@@ -90,7 +91,6 @@ Fedora Project
 * [Flatpak](https://docs.fedoraproject.org/en-US/flatpak/)
 * [Java-Packaging HOWTO](https://docs.fedoraproject.org/en-US/java-packaging-howto/)
 * [Localization help and stats](https://docs.fedoraproject.org/en-US/docs-l10n/)
-* [Mentored Projects](https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2024/)
 * [Mindshare Teams](https://docs.fedoraproject.org/en-US/mindshare/)
 * [Minimization](https://docs.fedoraproject.org/en-US/minimization/)
 * [Modularity](https://docs.fedoraproject.org/en-US/modularity/)
@@ -267,7 +267,7 @@ All Fedora Documentation content available under [CC BY-SA 4.0](http://creativec
 * [Code of Conduct](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
 * [Sponsors](https://getfedora.org/en/sponsors/)
 
-Last build: 2024-06-09 10:50:08 UTC | Last content update: 2023-04-03
+Last build: 2024-06-19 01:50:09 UTC | Last content update: 2023-04-03
 
 ![Sponsored by Red Hat Logo](../../_/img/logo-sponsored-by-red-hat.png)
 
