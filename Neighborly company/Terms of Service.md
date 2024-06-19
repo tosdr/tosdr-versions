@@ -26,7 +26,6 @@ Your Hub for Home Services
 * [Apply Locally](https://www.neighborlybrands.com/careers/ "Apply Locally - opens in new tab")
 * [Contact Us](https://www.neighborly.com/contact-us "Contact Us")
 * [Own a Franchise](https://franchise.neighborly.com/?utm_campaign=Consumer%20Site%20Referrals&utm_source=neighborly.com%20referral&utm_medium=cta&utm_content=content "Own a Franchise - opens in new tab")
-* [![](/us/en-us/_assets/images/black_microphone_clipart.svg)](https://www.neighborly.com/ramsey "<img src='/us/en-us/_assets/images/black_microphone_clipart.svg' aria-label='Open The Ramsey Show page' width='16' height='35' />")
 
 * [1 (855) 217-8437](tel:1 (855) 217-8437) Call Us 24/7
 * [Schedule Now](#)
@@ -50,7 +49,6 @@ Your Hub for Home Services
 * [Apply Locally](https://www.neighborlybrands.com/careers/ "Apply Locally - opens in new tab")
 * [Contact Us](https://www.neighborly.com/contact-us "Contact Us")
 * [Own a Franchise](https://franchise.neighborly.com/?utm_campaign=Consumer%20Site%20Referrals&utm_source=neighborly.com%20referral&utm_medium=cta&utm_content=content "Own a Franchise - opens in new tab")
-* [![](/us/en-us/_assets/images/black_microphone_clipart.svg)](https://www.neighborly.com/ramsey "<img src='/us/en-us/_assets/images/black_microphone_clipart.svg' aria-label='Open The Ramsey Show page' width='16' height='35' />")
 * [Schedule Now](#)
 
 ### Need a hand around the house?
