@@ -33,8 +33,6 @@ Try a course for free.
 
 [Free online courses](https://www.edx.org/free-online-courses)
 
-**Develop AI, data, and tech skills. Get up to 30% off** select programs until June 19. Use code **EDXSTEM24**. [Learn more](https://www.edx.org/stem-promotion).
-
 Close site banner.
 
 ### edX Privacy Policy
