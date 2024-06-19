@@ -605,11 +605,3 @@ Email Address
 * [Terms of Use](https://drinkcirkul.com/pages/terms)
 
 © 2021 Cirkul, Inc.
-
-![Close](//drinkcirkul.com/cdn/shop/t/4/assets/icon-close-blue.svg?v=10197444204773661521565156097)
-
-[![FLVR LAB](//drinkcirkul.com/cdn/shop/t/4/assets/flavor-lab-logo.png?v=84523127850051387001688671022)](https://drinkcirkul.com/pages/flvr-lab)
-
-Exclusive flavors, limited supply. Get ‘em before they're gone.
-
-[Buy Now](https://drinkcirkul.com/pages/flvr-lab) [Shop Now](https://drinkcirkul.com/pages/flvr-lab)
