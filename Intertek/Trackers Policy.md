@@ -234,6 +234,8 @@ Our wealth of resources, created and shared by our global network of experts, ca
 
 [White Papers](https://www.intertek.com/knowledge-education/whitepapers/)
 
+[Case Studies](https://www.intertek.com/resources/case-studies/)
+
 [Intertek Blog](https://www.intertek.com/blog/)
 
 [](#collapseTraining)[Training](https://www.intertek.com/training/) [Training](https://www.intertek.com/training/)
