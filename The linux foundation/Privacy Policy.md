@@ -1,4 +1,4 @@
-Register For AI\_dev Europe | 19-20 June - Paris, France [REGISTER NOW](https://events.linuxfoundation.org/ai-dev-europe?utm_source=home-page&utm_medium=homepage&utm_campaign=AI_dev%20%2724%20Eu&utm_content=top-bar)
+Score Career Goals with up to 40% Savings on Training & Certification! [SAVE NOW](https://hubs.la/Q02Bp3MH0)
 
 English Japan China Europe
 
