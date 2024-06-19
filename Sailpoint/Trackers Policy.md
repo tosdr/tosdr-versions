@@ -23,6 +23,7 @@
                     * [Browse allConnect your IT resources with an AI-driven identity security solution](https://www.sailpoint.com/products/connectivity-and-integrations/)
                     * [APIs & event triggersSeamlessly integrate into your existing business processes & apps](https://www.sailpoint.com/products/integrations/api-event-triggers)
                     * [Technology AlliancesPut identity at the center of your security framework](https://www.sailpoint.com/partners/technology-alliances/)
+                    * [Application onboardingEasily apply core identity security functions to enterprise apps and accelerate time-to-value.](https://www.sailpoint.com/products/connectivity/application-onboarding/)
                     _Close Menu_Back
                 _Close Menu_Back
             * [IdentityIQSoftware based security for all identities](https://www.sailpoint.com/products/identity-security-software/identity-iq/)
