@@ -44,19 +44,31 @@ By Use Case [Backup & Recovery](https://www.seagate.com/gb/en/solutions/backup/b
 
 By Environment [Edge](https://www.seagate.com/gb/en/solutions/edge/edge-storage/) [Multicloud](https://www.seagate.com/gb/en/solutions/cloud/multicloud/) [Private Cloud](https://www.seagate.com/gb/en/solutions/cloud/private-cloud/) [Public Cloud](https://www.seagate.com/gb/en/solutions/cloud/public-cloud/)
 
-By Partner [IBM](https://www.seagate.com/gb/en/solutions/partners/ibm/) [Commvault](https://www.seagate.com/gb/en/solutions/partners/commvault/) [Veeam](https://www.seagate.com/gb/en/solutions/partners/veeam/) [VMWare](https://www.seagate.com/gb/en/solutions/vmware/) [Milestone](https://www.seagate.com/gb/en/solutions/partners/milestone/) [Equinix](https://www.seagate.com/gb/en/solutions/partners/equinix/) [EVS](https://www.seagate.com/gb/en/solutions/partners/evs/) [NI](https://www.seagate.com/gb/en/solutions/partners/ni/) [View All Seagate Technology Partners](https://www.seagate.com/gb/en/partners/technology-alliance-program/technology-partners/)
+By Partner [IBM](https://www.seagate.com/gb/en/solutions/partners/ibm/) [AWS](https://www.seagate.com/gb/en/solutions/partners/aws/) [Commvault](https://www.seagate.com/gb/en/solutions/partners/commvault/) [Veeam](https://www.seagate.com/gb/en/solutions/partners/veeam/) [VMWare](https://www.seagate.com/gb/en/solutions/vmware/) [Milestone](https://www.seagate.com/gb/en/solutions/partners/milestone/) [Equinix](https://www.seagate.com/gb/en/solutions/partners/equinix/) [EVS](https://www.seagate.com/gb/en/solutions/partners/evs/) [NI](https://www.seagate.com/gb/en/solutions/partners/ni/) [View All Seagate Technology Partners](https://www.seagate.com/gb/en/partners/technology-alliance-program/technology-partners/)
 
 By Industry [Autonomous Vehicles](https://www.seagate.com/gb/en/solutions/industry/autonomous-vehicles/) [Healthcare](https://www.seagate.com/gb/en/solutions/industry/healthcare/) [Media & Entertainment](https://www.seagate.com/gb/en/solutions/industry/media-and-entertainment/) [Surveillance & Security](https://www.seagate.com/gb/en/solutions/industry/surveillance-and-security/) [Telecommunications](https://www.seagate.com/gb/en/solutions/industry/telecommunications/) [Geosciences & Energy](https://www.seagate.com/gb/en/solutions/geosciences-and-energy/)
+
+[![Read the Article](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Data Storage Innovations [Mozaic 3+ Platform](https://www.seagate.com/gb/en/innovation/mozaic/) [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/gb/en/innovation/multi-actuator-hard-drives/) [Seagate Secure](https://www.seagate.com/gb/en/enterprise-storage/enterprise-security/)
 
 Data Management Innovations [Circularity Program](https://www.seagate.com/gb/en/innovation/circularity/) [Open-Source Developer Community](https://www.seagate.com/gb/en/open-source/) [Composable Infrastructure](https://www.seagate.com/gb/en/innovation/composable-infrastructure/)
+
+[![Read the Article](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 General [Support Home](https://www.seagate.com/gb/en/support/) [Product Support](https://www.seagate.com/gb/en/support/products/) [Software Downloads](https://www.seagate.com/gb/en/support/downloads/) [Product Registration](https://myportal.seagate.com/consumer-identity/product-reg/product-reg-base.jsp)
 
 Warranty & Data Recovery [Warranty & Replacements](https://www.seagate.com/gb/en/support/warranty-and-replacements/) [Data Recovery Services](https://www.seagate.com/gb/en/support/data-recovery-services/)
 
 Enterprise [Seagate Systems Support](https://www.seagate.com/gb/en/support/data-storage-systems/) [Lyve Mobile Support](https://www.seagate.com/gb/en/support/lyve-data-transfer-services/) [Lyve Cloud Support](https://www.seagate.com/gb/en/support/lyve-cloud/)
+
+[![Read the Article](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 [Our Story](https://www.seagate.com/gb/en/our-story/) [Leadership Team](https://www.seagate.com/our-story/#execs) [Board of Directors](https://www.seagate.com/our-story/#bod) [ESG](https://www.seagate.com/gb/en/esg/) [Trust Centre](https://www.seagate.com/gb/en/trust/) [Quality Assurance](https://www.seagate.com/gb/en/our-story/product-quality-assurance/)
 
@@ -121,6 +133,10 @@ Main
 * By Partner
 * By Industry
 
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
+
 Hi,
 
 [My Account](https://store.seagate.com/customer/account/) [Orders](https://store.seagate.com/sales/order/history/) [Address Book](https://store.seagate.com/customer/address/)
@@ -136,6 +152,10 @@ Main
 * Innovation
 * Data Storage Innovations
 * Data Management Innovations
+
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Hi,
 
@@ -153,6 +173,10 @@ Main
 * General
 * Warranty & Data Recovery
 * Enterprise
+
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Hi,
 
@@ -234,6 +258,10 @@ Solutions
 * [Storage as a Service](https://www.seagate.com/gb/en/cloud/)
 * [Video Analytics](https://www.seagate.com/gb/en/solutions/video-surveillance/)
 
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
+
 Hi,
 
 [My Account](https://store.seagate.com/customer/account/) [Orders](https://store.seagate.com/sales/order/history/) [Address Book](https://store.seagate.com/customer/address/)
@@ -252,6 +280,10 @@ Solutions
 * [Private Cloud](https://www.seagate.com/gb/en/solutions/cloud/private-cloud/)
 * [Public Cloud](https://www.seagate.com/gb/en/solutions/cloud/public-cloud/)
 
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
+
 Hi,
 
 [My Account](https://store.seagate.com/customer/account/) [Orders](https://store.seagate.com/sales/order/history/) [Address Book](https://store.seagate.com/customer/address/)
@@ -266,6 +298,7 @@ Solutions
 
 * By Partner
 * [IBM](https://www.seagate.com/gb/en/solutions/partners/ibm/)
+* [AWS](https://www.seagate.com/gb/en/solutions/partners/aws/)
 * [Commvault](https://www.seagate.com/gb/en/solutions/partners/commvault/)
 * [Veeam](https://www.seagate.com/gb/en/solutions/partners/veeam/)
 * [VMWare](https://www.seagate.com/gb/en/solutions/vmware/)
@@ -274,6 +307,10 @@ Solutions
 * [EVS](https://www.seagate.com/gb/en/solutions/partners/evs/)
 * [NI](https://www.seagate.com/gb/en/solutions/partners/ni/)
 * [View All Seagate Technology Partners](https://www.seagate.com/gb/en/partners/technology-alliance-program/technology-partners/)
+
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Hi,
 
@@ -295,6 +332,10 @@ Solutions
 * [Telecommunications](https://www.seagate.com/gb/en/solutions/industry/telecommunications/)
 * [Geosciences & Energy](https://www.seagate.com/gb/en/solutions/geosciences-and-energy/)
 
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
+
 Hi,
 
 [My Account](https://store.seagate.com/customer/account/) [Orders](https://store.seagate.com/sales/order/history/) [Address Book](https://store.seagate.com/customer/address/)
@@ -312,6 +353,10 @@ Innovation
 * [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/gb/en/innovation/multi-actuator-hard-drives/)
 * [Seagate Secure](https://www.seagate.com/gb/en/enterprise-storage/enterprise-security/)
 
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
+
 Hi,
 
 [My Account](https://store.seagate.com/customer/account/) [Orders](https://store.seagate.com/sales/order/history/) [Address Book](https://store.seagate.com/customer/address/)
@@ -328,6 +373,10 @@ Innovation
 * [Circularity Program](https://www.seagate.com/gb/en/innovation/circularity/)
 * [Open-Source Developer Community](https://www.seagate.com/gb/en/open-source/)
 * [Composable Infrastructure](https://www.seagate.com/gb/en/innovation/composable-infrastructure/)
+
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Hi,
 
@@ -347,6 +396,10 @@ Support
 * [Software Downloads](https://www.seagate.com/gb/en/support/downloads/)
 * [Product Registration](https://myportal.seagate.com/consumer-identity/product-reg/product-reg-base.jsp)
 
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
+
 Hi,
 
 [My Account](https://store.seagate.com/customer/account/) [Orders](https://store.seagate.com/sales/order/history/) [Address Book](https://store.seagate.com/customer/address/)
@@ -362,6 +415,10 @@ Support
 * Warranty & Data Recovery
 * [Warranty & Replacements](https://www.seagate.com/gb/en/support/warranty-and-replacements/)
 * [Data Recovery Services](https://www.seagate.com/gb/en/support/data-recovery-services/)
+
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Hi,
 
@@ -379,6 +436,10 @@ Support
 * [Seagate Systems Support](https://www.seagate.com/gb/en/support/data-storage-systems/)
 * [Lyve Mobile Support](https://www.seagate.com/gb/en/support/lyve-data-transfer-services/)
 * [Lyve Cloud Support](https://www.seagate.com/gb/en/support/lyve-cloud/)
+
+[![](/content/dam/seagate/assets/global-navigation/promotions/three-truths-about-hard-drives-and-ssds-global-nav-banner.jpg)
+
+##### Read the Article](https://www.seagate.com/gb/en/blog/three-truths-about-hard-drives-and-ssds/)
 
 Hi,
 
