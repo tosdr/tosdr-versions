@@ -186,7 +186,7 @@ Our staff are more than happy to help with any further questions or queries you 
 
 * [Confused.com Rewards terms and conditions](https://www.confused.com/rewards/terms-and-conditions)
 * [Confused.com terms and conditions](https://www.confused.com/privacy-and-security/terms-and-conditions/confused-com-terms-and-conditions)
-* [Van insurance - Beat your renewal quote with Confused.com terms and conditions - post 31 August 2020](https://www.confused.com/beat-your-renewal/terms-and-conditions-van-insurance-sept-2020)
+* [Van insurance - Beat your renewal quote with Confused.com terms and conditions - post 31 August 2020](https://www.confused.com/sitecore/service/notfound.aspx?item=web%3a%7bBC699929-3492-4540-AC10-391B12A01979%7d%40en-GB)
 
 ### Get in touch
 
