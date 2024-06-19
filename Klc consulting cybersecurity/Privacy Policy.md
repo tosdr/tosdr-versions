@@ -5,10 +5,10 @@
 * [CMMC Services](#) Menu Toggle
     * [Gap Analysis](https://klcconsulting.net/cmmc-gap-analysis/)
     * [CMMC Compliance Consulting](https://klcconsulting.net/cmmc-compliance-consulting/)
-    * [COTS Exemption](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cots-exemption-consulting/)
-    * [Readiness Assessment](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cmmc-readiness-assessment-service/)
-    * [JSVA Assessment](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/joint-surveillance-voluntary-assessment/)
-    * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-c3pao/)
+    * [COTS Exemption](https://klcconsulting.net/cots-exemption-consulting/)
+    * [Readiness Assessment](https://klcconsulting.net/cmmc-readiness-assessment-service/)
+    * [JSVA Assessment](https://klcconsulting.net/joint-surveillance-voluntary-assessment/)
+    * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-level-2-assessment/)
 * [Industries Served](#) Menu Toggle
     * [Aerospace & Defense](https://klcconsulting.net/industries-served/cmmc-for-aerospace/)
     * [Engineering and Consulting](https://klcconsulting.net/industries-served/cmmc-for-engineering-firms/)
@@ -36,10 +36,10 @@ Main Menu
 * [CMMC Services](#) Menu Toggle
     * [Gap Analysis](https://klcconsulting.net/cmmc-gap-analysis/)
     * [CMMC Compliance Consulting](https://klcconsulting.net/cmmc-compliance-consulting/)
-    * [COTS Exemption](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cots-exemption-consulting/)
-    * [Readiness Assessment](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cmmc-readiness-assessment-service/)
-    * [JSVA Assessment](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/joint-surveillance-voluntary-assessment/)
-    * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-c3pao/)
+    * [COTS Exemption](https://klcconsulting.net/cots-exemption-consulting/)
+    * [Readiness Assessment](https://klcconsulting.net/cmmc-readiness-assessment-service/)
+    * [JSVA Assessment](https://klcconsulting.net/joint-surveillance-voluntary-assessment/)
+    * [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-level-2-assessment/)
 * [Industries Served](#) Menu Toggle
     * [Aerospace & Defense](https://klcconsulting.net/industries-served/cmmc-for-aerospace/)
     * [Engineering and Consulting](https://klcconsulting.net/industries-served/cmmc-for-engineering-firms/)
@@ -127,10 +127,10 @@ CMMC Services
 
 * [Gap Analysis](https://klcconsulting.net/cmmc-gap-analysis/)
 * [CMMC Compliance Consulting](https://klcconsulting.net/cmmc-compliance-consulting/)
-* [COTS Exemption](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cots-exemption-consulting/)
-* [Readiness Assessment](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cmmc-readiness-assessment-service/)
-* [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-c3pao/)
-* [CUI Marking & Labeling](https://klcconsulting.net/cmmc-services-from-a-cyber-ab-cleared-c3pao/cui-marking/)
+* [COTS Exemption](https://klcconsulting.net/cots-exemption-consulting/)
+* [Readiness Assessment](https://klcconsulting.net/cmmc-readiness-assessment-service/)
+* [CMMC Level 2 Assessment](https://klcconsulting.net/cmmc-level-2-assessment/)
+* [CUI Marking & Labeling](https://klcconsulting.net/cui-marking/)
 
 Resources
 ---------
