@@ -143,6 +143,7 @@
         
         [Student assistants](https://secuso.aifb.kit.edu/english/1248.php)
         
+        * [Xueting Huang](https://secuso.aifb.kit.edu/english/Staff_2681.php)
         * [Zi Le Leow](https://secuso.aifb.kit.edu/english/Staff_2626.php)
         * [Leonie Schmidt-Enke](https://secuso.aifb.kit.edu/english/Staff_2161.php)
         * [Patrick Schneider](https://secuso.aifb.kit.edu/english/Staff_2214.php)
@@ -542,11 +543,6 @@ Kaiserstr. 89
 
 ### Externe Veranstaltungen
 
-**Wednesday, 12 Jun 2024**  
-[39th International Conference on ICT Systems Security and Privacy Protection (ifip SEC 2024)](https://secuso.aifb.kit.edu/english/77.php/event/51523#calendar_top)
-
-* * *
-
 **Monday, 08 Jul 2024**  
 [9th IEEE European Symposium on Security and Privacy (EuroS&P) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51517#calendar_top)
 
@@ -554,6 +550,11 @@ Kaiserstr. 89
 
 **Monday, 15 Jul 2024**  
 [Privacy Enhancing Technologies Symposium (PETS) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51520#calendar_top)
+
+* * *
+
+**Tuesday, 30 Jul 2024**  
+[19th International Conference on Availability, Reliability and Security (ARES) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51522#calendar_top)
 
 * * *
 
