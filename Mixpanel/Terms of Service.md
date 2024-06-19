@@ -1,6 +1,6 @@
-👋 New Spark AI is here! Ask your data anything — get answers in a report.
+🚀 Introducing Warehouse Connectors 2.0: Get the UI you love, on data you trust.
 
-[Spark AI](https://mixpanel.com/spark-ai)
+[Check it out](https://mixpanel.com/blog/warehouse-connectors-2024-release)
 
 [Mixpanel](https://mixpanel.com/home)
 
