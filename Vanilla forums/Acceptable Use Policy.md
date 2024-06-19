@@ -1,11 +1,5 @@
 [Skip to content](#main)
 
-Available Now: See Higher Logic's New AI Tools in Action
-
-Webinar | June 11 @ 2pm ET
-
-[Register today!](https://www.higherlogic.com/w/june-ai-features-webinar/?utm_medium=web&utm_source=banner&utm_campaign=wb2024-06aifeatureswebinar-association&utm_content=event_virtual)
-
 * [Search](https://www.higherlogic.com/search/)
 * [Need Support](https://support.higherlogic.com/hc/en-us)
 * [Community Login](#)
