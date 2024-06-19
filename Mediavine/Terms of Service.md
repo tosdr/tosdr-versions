@@ -14,6 +14,7 @@
     * [DEI](https://www.mediavine.com/dei/)
     * [Newsroom](https://www.mediavine.com/news/)
 * [Ad Management](https://www.mediavine.com/ad-management/)
+    * [Creator First Future](https://www.mediavine.com/creator-first-future/)
 * [Advertisers](https://www.mediavine.com/advertisers/)
     * [Uplift](https://www.mediavine.com/uplift/)
 * [Blog](https://www.mediavine.com/blog/)
@@ -212,6 +213,7 @@ Last updated: February 10, 2010
 * [Help](https://help.mediavine.com/)
 * [Products](https://www.mediavine.com/products/)
 * [Newsroom](https://www.mediavine.com/news/)
+* [Creator First Future](https://www.mediavine.com/creator-first-future/)
 
 * [SEO Like A CEO](https://www.mediavine.com/category/seo-like-a-ceo/)
 * [On Air Podcast](https://www.mediavine.com/on-air/)
