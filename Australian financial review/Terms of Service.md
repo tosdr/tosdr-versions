@@ -319,15 +319,15 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/564b64b88c5f2f146c87e486b3837b6a3eb44f84)](https://www.afr.com/life-and-luxury/food-and-wine/it-s-like-a-little-chef-s-secret-an-easy-recipe-for-pasta-and-squid-20240319-p5fdov)
+[![Luxury brands like the creativity and immediacy of Pinterest and Snap.](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_345/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8f6949610cf8bdd61dd5f59028f088b1ad78ab2f)](https://www.afr.com/life-and-luxury/fashion-and-style/instagram-and-tiktok-are-threatened-so-fashion-is-switching-channels-20240520-p5jf0d)
 
-### [An easy pasta with flavour-bomb of XO sauce that many don’t know about](https://www.afr.com/life-and-luxury/food-and-wine/it-s-like-a-little-chef-s-secret-an-easy-recipe-for-pasta-and-squid-20240319-p5fdov)
+### [Instagram and TikTok are threatened, so fashion is switching channels](https://www.afr.com/life-and-luxury/fashion-and-style/instagram-and-tiktok-are-threatened-so-fashion-is-switching-channels-20240520-p5jf0d)
 
-* Jill Dupleix
+* Lauren Sams
 
-* ### [Max Allen reviews three top drops from a shiraz-obsessed former chef](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-reviews-three-top-drops-from-a-shiraz-obsessed-former-chef-20240319-p5fdou)
+* ### [An easy pasta with flavour-bomb of XO sauce that many don’t know about](https://www.afr.com/life-and-luxury/food-and-wine/it-s-like-a-little-chef-s-secret-an-easy-recipe-for-pasta-and-squid-20240319-p5fdov)
     
-* ### [Tag Heuer relaunches the ’80s watches that made it famous](https://www.afr.com/life-and-luxury/fashion-and-style/tag-heuer-relaunches-the-80s-watches-that-made-it-famous-20240319-p5fdow)
+* ### [Max Allen reviews three top drops from a shiraz-obsessed former chef](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-reviews-three-top-drops-from-a-shiraz-obsessed-former-chef-20240319-p5fdou)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -347,29 +347,29 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Aston Martin DB12 Volante.](https://static.ffx.io/images/$zoom_0.1635%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7af414c3201a53cc02b2463ab467c10a7cac084c)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/why-aston-martin-s-633k-convertible-is-perfect-for-the-open-road-20240603-p5jivc)
+[![Young men at home exercising. ](https://static.ffx.io/images/$zoom_0.2741%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6007f33402e531c2b2a0170f2edffe252693e873)](https://www.afr.com/life-and-luxury/health-and-wellness/how-four-minutes-a-day-can-boost-your-fitness-20240612-p5jl4h)
 
-### [Why Aston Martin’s $633k convertible is perfect for the open road](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/why-aston-martin-s-633k-convertible-is-perfect-for-the-open-road-20240603-p5jivc)
+### [How four minutes a day can boost your fitness](https://www.afr.com/life-and-luxury/health-and-wellness/how-four-minutes-a-day-can-boost-your-fitness-20240612-p5jl4h)
 
-* Tony Davis
+* Luke Benedictus
 
-* ### [How to select a scent, by a perfume world master](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-select-a-scent-by-a-perfume-world-master-20240511-p5jcqx)
+* ### [Her perfumes cost up to $30k. Now they’re for sale in Australia](https://www.afr.com/life-and-luxury/fashion-and-style/her-perfumes-cost-up-to-30k-now-they-re-for-sale-in-australia-20240531-p5jibr)
     
-* ### [Inside the world of art nouveau visionary who defied nazis, communists](https://www.afr.com/life-and-luxury/arts-and-culture/inside-the-world-of-art-nouveau-visionary-who-defied-nazis-communists-20240604-p5jj8d)
+* ### [When in Rome, leave in a private jet: on board a $76.5k group tour](https://www.afr.com/life-and-luxury/travel/when-in-rome-leave-in-a-private-jet-on-board-a-76-5k-group-tour-20240423-p5fm49)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Georgia Geminder is carving her own path in business with Gem Oral Care.](https://static.ffx.io/images/$zoom_0.3801%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1115%2C$y_526/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8f4d93f0230315d9cb747db75d4990c3fb2d23e1)](https://www.afr.com/companies/retail/this-rich-listers-daughter-is-forging-her-own-path-in-business-20240607-p5jk63)
+[![Linkby co-founders Andrew Chak, Chris Wirasinha and Adrian Fagerland have raised $4 million in Series A funding.](https://static.ffx.io/images/$zoom_0.4705%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_705%2C$y_310/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cc4db53068d645233075933e423b0d8bcd66939d)](https://www.afr.com/technology/this-ex-young-rich-lister-built-a-top-media-company-now-he-s-trying-tech-20240612-p5jl9n)
 
-### [This Rich Listers’ daughter is forging her own path in business](https://www.afr.com/companies/retail/this-rich-listers-daughter-is-forging-her-own-path-in-business-20240607-p5jk63)
+### [This ex-Young Rich Lister built a top media company, now he’s trying tech](https://www.afr.com/technology/this-ex-young-rich-lister-built-a-top-media-company-now-he-s-trying-tech-20240612-p5jl9n)
 
 * Yolanda Redrup
 
-* ### [Weak dollar plays a part in $2.1b buyout of Adbri by Irish giant CRH](https://www.afr.com/companies/manufacturing/weak-dollar-plays-a-part-in-2-1b-buyout-of-adbri-by-irish-giant-crh-20240611-p5jkxk)
+* ### [The Rich Lister who avoids risk at all costs](https://www.afr.com/wealth/people/the-rich-lister-who-avoids-risk-at-all-costs-20240615-p5jm0a)
     
-* ### [Shaun Bonett’s Prezzee has a costly run-in with Amazon](https://www.afr.com/companies/financial-services/shaun-bonett-s-prezzee-has-a-costly-run-in-with-amazon-20240610-p5jkjr)
+* ### [This Rich Listers’ daughter is forging her own path in business](https://www.afr.com/companies/retail/this-rich-listers-daughter-is-forging-her-own-path-in-business-20240607-p5jk63)
     
 
 [The Australian Financial Review](https://www.afr.com/)
