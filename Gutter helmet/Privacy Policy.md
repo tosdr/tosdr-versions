@@ -43,7 +43,7 @@ Email(Required)
 
 ZIP Code(Required)
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -294,6 +294,6 @@ I'm interested in possibly having Gutter Helmet on my home, by submitting this o
 
 ×
 
-                                           
+                                              
 
 Please note that we use cookies necessary for the functioning of our website.[I Understand](#)[Privacy policy](https://www.gutterhelmet.com/privacy-policy/)
