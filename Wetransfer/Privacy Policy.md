@@ -1,17 +1,30 @@
 [Skip to main content](#main)[Accessibility help](https://we.tl/accessibility)[Change language](#change-language)
 
-[](https://wetransfer.com/ "WeTransfer Logo Image")
+[](https://wetransfer.com/ "WeTransfer.com")
 
-* Features
-    
-* [Products](https://wetransfer.com/explore/products)
-* Advertising
-    
-* Company
-    
-* [Help](https://wetransfer.zendesk.com/hc/en-us?_ga=2.198759020.2133833616.1616403830-1646230000.1601886974)
+Uso
 
-* [Log in](https://wetransfer.com/log-in?_ga=2.266924109.2133833616.1616403830-1646230000.1601886974)
+[Comparte tus archivos](https://wetransfer.com/explore/file-sharing)[Protege tus archivos](https://wetransfer.com/explore/data-security)[Personaliza tu página](https://wetransfer.com/explore/branding)[Da y recibe comentarios](https://wetransfer.com/explore/portals-reviews)[Colabora con tu equipo](https://wetransfer.com/explore/teams)[Cobra por tu trabajo](https://wetransfer.com/explore/sell-files-get-paid)[Crear paneles de tendencias](https://wetransfer.com/explore/collect)[Consigue ventajas y beneficios](https://wetransfer.com/explore/subscriber-benefits)
+
+[Tarifas](https://wetransfer.com/pricing?trk=NAV_pricing)Casos prácticos
+
+[Para fotógrafos](https://wetransfer.com/explore/photographers)[Para camarógrafos](https://wetransfer.com/explore/videographers)[Para diseñadores e ilustradores](https://wetransfer.com/explore/designers-illustrators)[Para estudiantes](https://wetransfer.com/explore/for-students)
+
+Recursos
+
+Sobre nosotros
+
+[Empresa](https://wetransfer.com/explore)[Empleo](https://wetransfer.com/explore/careers)[Cultura](https://wetransfer.com/explore/culture)[Liderazgo](https://wetransfer.com/explore/corporate/leadership)[Responsabilidad social corporativa](https://wetransfer.com/explore/csr)[Premios](https://wetransfer.com/explore/corporate/awards)[Sala de prensa](https://wetransfer.com/blog/newsroom/)
+
+Advertising
+
+[Anúnciate con nosotros](https://wetransfer.com/explore/advertising)[Prácticas responsables](https://wetransfer.com/explore/advertising/responsible)[Políticas de anuncios](https://wetransfer.com/explore/advertising/policies)
+
+más
+
+[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Ayuda](https://help.wetransfer.com/hc/en-us)
+
+[Iniciar sesión](https://wetransfer.com/log-in)[Registrarse](https://wetransfer.com/pricing?trk=WT202005_signup)
 
 * [Terms of Service](https://wetransfer.com/explore/legal/terms)
 * [Privacy & Cookie Statement](https://wetransfer.com/explore/legal/privacy)
