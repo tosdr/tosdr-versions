@@ -15,9 +15,9 @@ My website does not directly use or embed any external tools, services or conten
 
 When you visit my website, or use its OpenSearch interface or its API, your web browser automatically transmits certain information to the server, which could in turn make you identifiable. For example, your web browser transmits the IP address assigned by your provider. To provide the service, the web server processes the following information and stores it in a logfile:
 
-* The [IP address](https://en.wikipedia.org/wiki/IP_address) of the requesting computer, e.g.: **51.77.108.160**
+* The [IP address](https://en.wikipedia.org/wiki/IP_address) of the requesting computer, e.g.: **51.195.149.220**
 * The API username if applicable, e.g.: **johndoe**
-* The date and time of the request, e.g.: **09/Jun/2024:18:55:46**
+* The date and time of the request, e.g.: **19/Jun/2024:06:12:25**
 * The HTTP request [method](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), e.g.: **GET**
 * The requested [URL path](https://en.wikipedia.org/wiki/URL#Syntax), e.g.: **/pvc/**
 * The HTTP version used in the request, e.g.: **HTTP/1.1**
