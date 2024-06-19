@@ -412,6 +412,8 @@ International Sites
 
 Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
 
-[Help Animals Faster: Give in just seconds using Apple Pay or Google Pay and help change an animal’s life. Your gift will be MATCHED up to $250,000!](https://support.peta.org/page/67343/donate/1?en_txn7=other::mobile-sticky-banner)
+[Frankie the capuchin is kept in a cage all alone in the middle of the retail store Pet Stop. Text FRANKIE to 73822 to urge Pet Stop to send Frankie to a sanctuary!](sms:73822?&body=FRANKIE)
+
+Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
 ✕
