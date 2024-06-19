@@ -43,8 +43,6 @@
 
 [Want to help keep us running? Donate!](https://xcreativeclashx.net/announcement/9-want-to-help-keep-us-running-donate/) [×](#)
 
-[Voting Time for Teams and Dates!](https://xcreativeclashx.net/forums/topic/913-clash24-voting-time-for-teams-and-dates/)
-
 * **Privacy Policy**
     
     CreativeClash is committed to protecting and respecting your privacy. We collect only the personal information that we need from you to operate our website, and we do not divulge your personal information to anyone else unless we are ordered to do so by a court that has jurisdiction over us.
