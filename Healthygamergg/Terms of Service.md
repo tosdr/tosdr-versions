@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=721617378329899&ev=PageView&noscript=1)
 
-[![HG Logo green and navy - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b96b57b3d0bd2c52e00297_HG%20Logo%20Green%20Navy.svg)](https://www.healthygamer.gg/)
+[![HG Logo green and navy - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b96b57b3d0bd2c52e00297_HG%20Logo%20Green%20Navy.svg)](https://www.healthygamer.gg/)
 
 [Sign in](https://coaching.healthygamer.gg/users/sign_in?ref=website_header)[Get started](https://coaching.healthygamer.gg/users/sign_up)
 
@@ -8,19 +8,19 @@ HG Coaching
 
 Mental health coaching designed by people who get it.
 
-[![Helping step up - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a4294486937db8bb1784_Group%2036712.svg)
+[![Helping step up - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a4294486937db8bb1784_Group%2036712.svg)
 
-About HG Coaching](https://www.healthygamer.gg/about/coaching)[![3 users - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a428a30c2e720225d121_Group%2036716.svg)
+About HG Coaching](https://www.healthygamer.gg/about/coaching)[![3 users - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a428a30c2e720225d121_Group%2036716.svg)
 
-Group Coaching](https://www.healthygamer.gg/coaching/group)[![2 users - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a4298258749f568a5426_Group%2036717.svg)
+Group Coaching](https://www.healthygamer.gg/coaching/group)[![2 users - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a4298258749f568a5426_Group%2036717.svg)
 
-Personal Coaching](https://www.healthygamer.gg/coaching/personal)[![Messenger bag - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a428088d2cf561207366_Group%2036920.svg)
+Personal Coaching](https://www.healthygamer.gg/coaching/personal)[![Messenger bag - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a428088d2cf561207366_Group%2036920.svg)
 
-Career Coaching](https://www.healthygamer.gg/coaching/career)[![Video Icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a4294486937db8bb177a_Group%2036922.svg)
+Career Coaching](https://www.healthygamer.gg/coaching/career)[![Video Icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a4294486937db8bb177a_Group%2036922.svg)
 
 Creator Coaching](https://www.healthygamer.gg/coaching/creator-coaching)
 
-![Polygon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
+![Polygon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
 
 [Dr. K’s Guide
 
@@ -32,43 +32,43 @@ HG Parent
 
 Get your family on the same team with HG’s expert, evidence based resources.
 
-[![Family icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a52a9da15599ebda830d_Group%2036714.svg)
+[![Family icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a52a9da15599ebda830d_Group%2036714.svg)
 
-About HG Parent](https://www.healthygamer.gg/about/hg-parent)[![2 screens online call - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a52a7cc9d5743c6d9426_Group%2036718.svg)
+About HG Parent](https://www.healthygamer.gg/about/hg-parent)[![2 screens online call - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a52a7cc9d5743c6d9426_Group%2036718.svg)
 
-Parent Coaching](https://www.healthygamer.gg/coaching/parent)[![Parent and child icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a52a8822b853aa4c3887_Group%2036715.svg)
+Parent Coaching](https://www.healthygamer.gg/coaching/parent)[![Parent and child icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a52a8822b853aa4c3887_Group%2036715.svg)
 
 Dr. K’s Guide to Parenting Gamers](https://www.healthygamer.gg/dr-k-guide-to-parenting-gamers)
 
-![Polygon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
+![Polygon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
 
 About
 
-[![About HG - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65df55e850a678ffc19d7245_About%20HG.svg)
+[![About HG - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65df55e850a678ffc19d7245_About%20HG.svg)
 
-About HG](https://www.healthygamer.gg/about-us)[![Calculator icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a618fee060851a3bd5a7_Group%2036919.svg)
+About HG](https://www.healthygamer.gg/about-us)[![Calculator icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a618fee060851a3bd5a7_Group%2036919.svg)
 
-Blog](https://www.healthygamer.gg/blog)[![Graph on paper icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a618cdf8540e14c2b263_Group%2036917.svg)
+Blog](https://www.healthygamer.gg/blog)[![Graph on paper icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a618cdf8540e14c2b263_Group%2036917.svg)
 
-Impact Report](https://www.healthygamer.gg/impact-report)[![Business person icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a6188bf6a48fe50e8a19_Group%2036712%20(1).svg)
+Impact Report](https://www.healthygamer.gg/impact-report)[![Business person icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a6188bf6a48fe50e8a19_Group%2036712%20(1).svg)
 
-Meet Dr. K](https://www.healthygamer.gg/dr-alok-kanojia)[![Question chat icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a6180e9302ba5b24dd32_Group%2036918.svg)
+Meet Dr. K](https://www.healthygamer.gg/dr-alok-kanojia)[![Question chat icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a6180e9302ba5b24dd32_Group%2036918.svg)
 
-FAQ](https://www.healthygamer.gg/faq)[![Hands shaking icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b37671c4cb5d62a6ddaea9_Partnerships%20nav%20icon.svg)
+FAQ](https://www.healthygamer.gg/faq)[![Hands shaking icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b37671c4cb5d62a6ddaea9_Partnerships%20nav%20icon.svg)
 
 Partnerships](https://www.healthygamer.gg/partnerships)
 
-![Polygon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
+![Polygon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
 
 Shop
 
-[![T-shirt icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a671cdf8540e14c30b55_Group%2036929.svg)
+[![T-shirt icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a671cdf8540e14c30b55_Group%2036929.svg)
 
-Merch](https://merch.healthygamer.gg/)[![Book icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a671b17406d764ba8d27_Group%2036928.svg)
+Merch](https://merch.healthygamer.gg/)[![Book icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a671b17406d764ba8d27_Group%2036928.svg)
 
 How to Raise a Healthy Gamer](https://www.healthygamer.gg/how-to-raise-a-healthy-gamer)
 
-![Polygon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
+![Polygon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a35bf38333019b458277_Polygon%201.svg)
 
 [Contact](https://www.healthygamer.gg/contact)
 
@@ -76,13 +76,13 @@ How to Raise a Healthy Gamer](https://www.healthygamer.gg/how-to-raise-a-healthy
 
 [Sign in](https://coaching.healthygamer.gg/users/sign_in?ref=website_header)[Get started](https://coaching.healthygamer.gg/users/sign_up)
 
-![Large "X" | Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/63f698a568216b5c64099ffd_62f5ade7764027587d0ea444_close%201.svg)
+![Large "X" | Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/63f698a568216b5c64099ffd_62f5ade7764027587d0ea444_close%201.svg)
 
-[✨ Celebrate Mental Health May with us! ✨
+[✨ NEW! Trauma Module Available Now ✨
 
-✨ Celebrate Mental Health May with us! ✨
+✨ NEW! Trauma Module Available Now ✨
 
-![Up arrow in a white circle - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6613fbb8a92d34ad63711101_Group%2037135%20(3).svg)](https://explore.healthygamer.gg/mhm-2024)
+![Up arrow in a white circle - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6613fbb8a92d34ad63711101_Group%2037135%20(3).svg)](https://www.healthygamer.gg/about/guide#journey)
 
 Terms of Service
 ================
@@ -237,19 +237,19 @@ EXCEPT AS PROVIDED BELOW, THE TERMS REQUIRE YOU AND HEALTHY GAMER TO RESOLVE ANY
 27. **Reservation of Rights.** We reserve all rights not explicitly granted to you.  
     
 
-[![HG logo green and white - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b96b57baf5122e6a5d35e3_HG%20Logo%20Green%20White.svg)](https://www.healthygamer.gg/)
+[![HG logo green and white - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b96b57baf5122e6a5d35e3_HG%20Logo%20Green%20White.svg)](https://www.healthygamer.gg/)
 
-[![HG Institute - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b96b577fbe09a99c409f87_HGI%20Logo%20Footer.svg)
+[![HG Institute - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b96b577fbe09a99c409f87_HGI%20Logo%20Footer.svg)
 
 visit hg-institute.com
 
-![White arrow - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://hg-institute.com/)
+![White arrow - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://hg-institute.com/)
 
-[![HG Foundation - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b96b57391aa6e750d52afa_HGF%20Logo%20Footer.svg)
+[![HG Foundation - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b96b57391aa6e750d52afa_HGF%20Logo%20Footer.svg)
 
 visit healthygamerfoundation.org
 
-![White arrow - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://www.healthygamerfoundation.org/)
+![White arrow - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://www.healthygamerfoundation.org/)
 
 **Healthy Gamer**
 
@@ -267,15 +267,15 @@ visit healthygamerfoundation.org
 
 [Terms](https://www.healthygamer.gg/legal/terms-of-service)[Privacy](https://www.healthygamer.gg/legal/privacy-policy)[Press](https://www.healthygamer.gg/press)
 
-[![HG Institute - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b96b577fbe09a99c409f87_HGI%20Logo%20Footer.svg)
+[![HG Institute - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b96b577fbe09a99c409f87_HGI%20Logo%20Footer.svg)
 
 visit hg-institute.com
 
-![White arrow - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://hg-institute.com/)[![HG Foundation - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65b96b57391aa6e750d52afa_HGF%20Logo%20Footer.svg)
+![White arrow - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://hg-institute.com/)[![HG Foundation - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65b96b57391aa6e750d52afa_HGF%20Logo%20Footer.svg)
 
 visit healthygamerfoundation.org
 
-![White arrow - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://www.healthygamerfoundation.org/)
+![White arrow - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532b671107a412691159a9b_Arrow%204%20(Stroke).svg)](https://www.healthygamerfoundation.org/)
 
 **Healthy Gamer Newsletter**
 
@@ -289,11 +289,11 @@ Oops! Something went wrong while submitting the form.
 Connect with us
 ---------------
 
-[![Chat icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/63595561348d4d241a4dba2b_Vector.svg)](https://www.twitch.tv/healthygamer_gg)[![YouTube icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/63595562cdf948add9343db4_Vector-1.svg)](https://www.youtube.com/healthygamer_gg)[![Spotify icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/6359556286965345e66ecec0_Vector-2.svg)](https://open.spotify.com/show/6VaJwyS2KXxiXqR77jqzmP)[![Discord icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/635955621eb1ca2ba6d06007_Group.svg)](https://healthygamer.gg/discord)[![Old Twitter icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/63595562729018251062099b_Vector-3.svg)](https://twitter.com/HealthyGamerGG)[![Subtract icon - Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/65faff52c894ee69e812b3b1_Subtract%20(4).svg)](https://podcasts.apple.com/us/podcast/healthygamergg/id1493025986)
+[![Chat icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/63595561348d4d241a4dba2b_Vector.svg)](https://www.twitch.tv/healthygamer_gg)[![YouTube icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/63595562cdf948add9343db4_Vector-1.svg)](https://www.youtube.com/healthygamer_gg)[![Spotify icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6359556286965345e66ecec0_Vector-2.svg)](https://open.spotify.com/show/6VaJwyS2KXxiXqR77jqzmP)[![Discord icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/635955621eb1ca2ba6d06007_Group.svg)](https://healthygamer.gg/discord)[![Old Twitter icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/63595562729018251062099b_Vector-3.svg)](https://twitter.com/HealthyGamerGG)[![Subtract icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/65faff52c894ee69e812b3b1_Subtract%20(4).svg)](https://podcasts.apple.com/us/podcast/healthygamergg/id1493025986)
 
 HG Parent
 ---------
 
-[![Youtube logo | Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/64cbe0eccbc400115ae23257_Vector%20-%202023-08-03T111609.691.svg)](https://www.youtube.com/channel/UCrGYoowsH-aKfSCM5TOzAsA)[![Instagram icon | Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/64cbe0f25ccd48eec3cfa319_Group%20(72).svg)](https://www.instagram.com/healthygamerfamilies)[![Whatsapp icon | Healthy Gamer Images](https://assets-global.website-files.com/607df3e34c19e5591b91647d/64cbe0fac1688cb199b7a8de_Vector%20-%202023-08-03T111616.512.svg)](https://chat.whatsapp.com/EGMjIjeweLIAKqwoTzyRwJ)
+[![Youtube logo | Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/64cbe0eccbc400115ae23257_Vector%20-%202023-08-03T111609.691.svg)](https://www.youtube.com/channel/UCrGYoowsH-aKfSCM5TOzAsA)[![Instagram icon | Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/64cbe0f25ccd48eec3cfa319_Group%20(72).svg)](https://www.instagram.com/healthygamerfamilies)[![Whatsapp icon | Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/64cbe0fac1688cb199b7a8de_Vector%20-%202023-08-03T111616.512.svg)](https://chat.whatsapp.com/EGMjIjeweLIAKqwoTzyRwJ)
 
 Healthy Gamer is developed by world-class addictions expert Dr. Alok Kanojia.
