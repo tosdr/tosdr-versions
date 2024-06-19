@@ -43,13 +43,13 @@ Dated: September 25, 2017
 ‍  
 **‍_Welcome to Cronometer! The following terms and conditions of use and end user license agreement (the “Terms”) constitute an agreement between you, or if you are under the age of majority in your local jurisdiction, your parent or legal guardian (collectively, “user”, “you” or “your”) and Cronometer Software Inc. and its affiliates and subsidiaries (collectively, “Cronometer”, “our”, “us” or “we”). These Terms govern your use of and access to the Site and/or Services (each as specified below) and are a legally binding agreement between you and Cronometer.  
   
-“Content” means any expression fixed in a tangible medium and includes, without limitation, ideas, text, comments, video, audio, https://cdn1.cronometer.com/webflow, graphics, designs, drawings, animations, logos, trademarks, copyrights, information, data, software, scripts, executable files, recipes, workouts, likes, activities, maps, routes, nutritional information and data, and any intellectual property therein, any of which may be created, submitted, or otherwise made accessible on or through the Site and/or Services.  
+“Content” means any expression fixed in a tangible medium and includes, without limitation, ideas, text, comments, video, audio, graphics, designs, drawings, animations, logos, trademarks, copyrights, information, data, software, scripts, executable files, recipes, workouts, likes, activities, maps, routes, nutritional information and data, and any intellectual property therein, any of which may be created, submitted, or otherwise made accessible on or through the Site and/or Services.  
   
 “Cronometer Content” means all Content that is not User Generated Content.  
   
 “Services” means all services accessed through the Site;  
   
-“User Generated Content” or “UGC” means any material whatsoever that a user, including you, submits, creates, transfers or otherwise makes available by access to the Site or through the Services, including but not limited to messages, information, https://cdn1.cronometer.com/webflow, data or in-media screen shots, video, audio or other Content posted in any public or private area within the Site or through the Services; and  
+“User Generated Content” or “UGC” means any material whatsoever that a user, including you, submits, creates, transfers or otherwise makes available by access to the Site or through the Services, including but not limited to messages, information, data or in-media screen shots, video, audio or other Content posted in any public or private area within the Site or through the Services; and  
   
 “Site” means cronometer.com its subdomains and/or Cronometer's mobile applications.  
 ‍_  
@@ -207,7 +207,7 @@ Our Privacy Policy explains how we collect, use and disclose information that pe
 **  
 **(a) Trademarks, Logos and Cronometer's Branding  
 **  
-The trademarks, logos, signs, symbols, https://cdn1.cronometer.com/webflow, and brands (“Marks”) displayed on the Site are the property of Cronometer and/or our partners and third party licensors. You are prohibited from using any Marks for any purpose including, but not limited to, use as metatags on other pages or sites on the Internet without the written permission of Cronometer or such third party which may own the Marks, which permission may be withheld in the sole discretion of the owner of the relevant Marks. All Content available on or through the Site and/or Services is protected by copyright and/or other intellectual property laws. You are prohibited from modifying, copying, distributing, transmitting, displaying, publishing, selling, licensing, creating derivative works or using any Content for commercial and/or public purposes.  
+The trademarks, logos, signs, symbols, and brands (“Marks”) displayed on the Site are the property of Cronometer and/or our partners and third party licensors. You are prohibited from using any Marks for any purpose including, but not limited to, use as metatags on other pages or sites on the Internet without the written permission of Cronometer or such third party which may own the Marks, which permission may be withheld in the sole discretion of the owner of the relevant Marks. All Content available on or through the Site and/or Services is protected by copyright and/or other intellectual property laws. You are prohibited from modifying, copying, distributing, transmitting, displaying, publishing, selling, licensing, creating derivative works or using any Content for commercial and/or public purposes.  
   
 **(b) Ownership of User-Generated Content  
 **  
