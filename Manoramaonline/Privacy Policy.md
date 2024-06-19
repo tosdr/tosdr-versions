@@ -2,11 +2,11 @@ ADVERTISEMENT
 
 Get ad-lite experience. [Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
 
-Activate your premium subscription today.
+Download Manorama Online App
 
-[Subscribe](https://www.manoramaonline.com/myaccount/subscribe-plan.html "Subscribe")
+[GET APP](https://mobile.manoramaonline.com/MobHome.html "GET APP")
 
-[Today's E-paper](https://epaper.manoramaonline.com/ "Today's E-paper ")
+[Today's E-paperWeb](https://epaper.manoramaonline.com/MMPortalUI/ "Today's E-paperWeb")
 
 [](https://www.facebook.com/manoramaonline/ "Facebook")
 
@@ -18,17 +18,31 @@ Activate your premium subscription today.
 
 * [ENGLISH](https://www.onmanorama.com/ "ENGLISH")
 * [GLOBAL](https://www.manoramaonline.com/global-malayali.html "GLOBAL")
-* [LOCAL](https://www.manoramaonline.com/district-news.html "LOCAL")
+* [LOCAL NEWS](https://www.manoramaonline.com/district-news.html "LOCAL NEWS")
 * [OBITUARY](https://www.manoramaonline.com/district-news/thiruvananthapuram/obituary.html "OBITUARY")
 
-* [Subscribe](https://www.manoramaonline.com/myaccount/subscribe-plan.html "Subscribe")
+* ×
+    
+     [![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal.png "Manorama Online") ![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal-dark.png "Manorama Online")](https://www.manoramaonline.com/)
+    
+    മലയാളത്തിൽ ടൈപ്പ് ചെയ്യാൻ
+    
+    Trending Keywords
+    
+    * [T20 World Cup](https://www.manoramaonline.com/tagresults.html?tag=mo:sports/cricket/iccmenst20worldcup2024)
+    * [Latest News](https://www.manoramaonline.com/news/latest-news.html)
+    * [Weather Updates](https://www.manoramaonline.com/tagresults.html?tag=mo:environment/weather-forecast)
+    * [Crime News](https://www.manoramaonline.com/tagresults.html?tag=mo:crime/crime-news)
+    * [Premium](https://www.manoramaonline.com/premium.html)
+    
+* [GET APP](https://mobile.manoramaonline.com/MobHome.html "GET APP")
 
 * Sections
     
 
-  [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manoramaonline") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manoramaonline")](https://www.manoramaonline.com/)
+ [![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal.png "Manorama Online") ![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal-dark.png "Manorama Online")](https://www.manoramaonline.com/)
 
-[Today's E-paper](https://epaper.manoramaonline.com/ "Today's E-paper ")
+[Mobile E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Mobile E-paper")
 
 * [SIGN IN](javascript:void(0) "SIGN IN")
     
@@ -37,7 +51,6 @@ Activate your premium subscription today.
     SIGNED IN AS
     
     * [MY PROFILE](https://www.manoramaonline.com/myaccount.html "MY PROFILE")
-    * [MY SUBSCRIPTON](https://www.manoramaonline.com/myaccount.html#mysubscriptions "MY SUBSCRIPTON")
     * [Change Password](https://id.manoramaonline.com/changePassword "Change Password")
     * [Log Out](javascript:void(0) "Log Out")
     
@@ -215,349 +228,8 @@ Activate your premium subscription today.
 * [Visual Stories](https://www.manoramaonline.com/web-stories.html "Visual Stories")
 * [PHOTOS](https://www.manoramaonline.com/photogallery.html "PHOTOS")
 * [Games](https://www.manoramaonline.com/games.html "Games")
+* [Infographics](https://www.manoramaonline.com/news/infographics.html "Infographics")
 * 
-
-[![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manoramaonline")
-
-![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manoramaonline")](https://www.manoramaonline.com/)
-
-×
-
- [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manoramaonline") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manoramaonline")](https://www.manoramaonline.com/)
-
-മലയാളത്തിൽ ടൈപ്പ് ചെയ്യാൻ
-
-Trending Keywords
-
-* [IPL2024](https://www.manoramaonline.com/sports/indepth/indian-premier-league-2024.html)
-* [Lok Sabha Election 2024](https://www.manoramaonline.com/news/indepth/lok-sabha-elections-2024.html)
-* [Latest News](https://www.manoramaonline.com/news/latest-news.html)
-* [Weather Updates](https://www.manoramaonline.com/tagresults.html?tag=mo:environment/weather-forecast)
-* [Crime News](https://www.manoramaonline.com/tagresults.html?tag=mo:crime/crime-news)
-* [Premium](https://www.manoramaonline.com/premium.html)
-
-Change mode
-
-* Light 
-* Dark 
-* Read 
-
-[SIGN IN](javascript:void(0) "SIGN IN")
-
-MY ACCOUNT
-
-SIGNED IN AS
-
-* [MY PROFILE](https://www.manoramaonline.com/myaccount.html "MY PROFILE")
-* [MY SUBSCRIPTON](https://www.manoramaonline.com/myaccount.html#mysubscriptions "MY SUBSCRIPTON")
-* [Change Password](https://id.manoramaonline.com/changePassword.html "Change Password")
-* [Log Out](javascript:void(0) "Log Out")
-
-×
-
-* [ENGLISH](https://www.onmanorama.com/ "ENGLISH")
-* [GLOBAL](https://www.manoramaonline.com/global-malayali.html "GLOBAL")
-* [LOCAL](https://www.manoramaonline.com/district-news.html "LOCAL")
-* [OBITUARY](https://www.manoramaonline.com/district-news/thiruvananthapuram/obituary.html "OBITUARY")
-
-* [E-edition](https://subscribe.manoramaonline.com/home-digital.html)
-
-* [Premium](https://www.manoramaonline.com/premium.html)
-
-* [VIDEOS](https://www.manoramaonline.com/videos.html)
-
-* [Podcast](https://www.manoramaonline.com/podcast.html)
-
-### Today's Epaper
-
-[Read Now](https://epaper.manoramaonline.com/)
-
-1. [SECTIONS](#mega-menu-tab-0)
-2. [ABOUT](#mega-menu-tab-1)
-3. [OUR SITES](#mega-menu-tab-2)
-
-* [NEWS](https://www.manoramaonline.com/news.html "NEWS")
-    
-    NEWS
-    
-    * [LATEST NEWS](https://www.manoramaonline.com/news/latest-news.html "LATEST NEWS")
-    * [WORLD](https://www.manoramaonline.com/news/world.html "WORLD")
-    * [INDIA](https://www.manoramaonline.com/news/india.html "INDIA")
-    * [KERALA](https://www.manoramaonline.com/news/kerala.html "KERALA")
-    * [EDITORIAL](https://www.manoramaonline.com/news/editorial.html "EDITORIAL")
-    * [SUNDAY](https://www.manoramaonline.com/news/sunday.html "SUNDAY")
-    * [CHARITY](https://www.manoramaonline.com/news/charity.html "CHARITY")
-    * [Specials](https://www.manoramaonline.com/news/indepth.html "Specials")
-    * [Infographics](https://www.manoramaonline.com/news/infographics.html "Infographics")
-    * [CRIME](https://www.manoramaonline.com/tagresults.html?tag=mo:crime/crime-news "CRIME")
-    * [QUICKTAKE](https://www.manoramaonline.com/shortz/quicktake.html "QUICKTAKE")
-    * [Weekly Roundup](https://www.manoramaonline.com/news/weekly-roundup.html "Weekly Roundup")
-    * [Flashback 2023](https://www.manoramaonline.com/news/flashback2023.html "Flashback 2023")
-    * [Round The Month](https://www.manoramaonline.com/news/round-the-month.html "Round The Month")
-    
-* [![](https://img-mm.manoramaonline.com/content/dam/mm/mo/logo/premium-new-icon.svg)PREMIUM](https://www.manoramaonline.com/premium.html "PREMIUM")
-    
-    PREMIUM
-    
-    * [News +](https://www.manoramaonline.com/premium/news-plus.html "News +")
-    * [Opinion And Analysis](https://www.manoramaonline.com/premium/opinion-and-analysis.html "Opinion And Analysis")
-    * [Life +](https://www.manoramaonline.com/premium/life.html "Life +")
-    * [Sports+](https://www.manoramaonline.com/premium/sports.html "Sports+")
-    * [Entertainment +](https://www.manoramaonline.com/premium/entertainment.html "Entertainment +")
-    * [EXPLAINER](https://www.manoramaonline.com/premium/off-the-beat.html "EXPLAINER")
-    
-* [GLOBAL](https://www.manoramaonline.com/global-malayali.html "GLOBAL")
-    
-    GLOBAL
-    
-    * [GULF NEWS](https://www.manoramaonline.com/global-malayali/gulf.html "GULF NEWS")
-    * [EUROPE NEWS](https://www.manoramaonline.com/global-malayali/europe.html "EUROPE NEWS")
-    * [US NEWS](https://www.manoramaonline.com/global-malayali/us.html "US NEWS")
-    * [OTHER COUNTRIES](https://www.manoramaonline.com/global-malayali/other-countries.html "OTHER COUNTRIES")
-    * [READERS CORNER](https://www.manoramaonline.com/global-malayali/my-creatives.html "READERS CORNER")
-    * [SPECIALS](https://www.manoramaonline.com/global-malayali/indepth.html "SPECIALS")
-    
-* [LOCAL](https://www.manoramaonline.com/district-news.html "LOCAL")
-    
-    LOCAL
-    
-    * [THIRUVANANTHAPURAM NEWS](https://www.manoramaonline.com/district-news/thiruvananthapuram.html "THIRUVANANTHAPURAM NEWS")
-    * [KOLLAM NEWS](https://www.manoramaonline.com/district-news/kollam.html "KOLLAM NEWS")
-    * [PATHANAMTHITTA NEWS](https://www.manoramaonline.com/district-news/pathanamthitta.html "PATHANAMTHITTA NEWS")
-    * [ALAPPUZHA NEWS](https://www.manoramaonline.com/district-news/alappuzha.html "ALAPPUZHA NEWS")
-    * [KOTTAYAM NEWS](https://www.manoramaonline.com/district-news/kottayam.html "KOTTAYAM NEWS")
-    * [IDUKKI NEWS](https://www.manoramaonline.com/district-news/idukki.html "IDUKKI NEWS")
-    * [ERNAKULAM NEWS](https://www.manoramaonline.com/district-news/ernakulam.html "ERNAKULAM NEWS")
-    * [THRISSUR NEWS](https://www.manoramaonline.com/district-news/thrissur.html "THRISSUR NEWS")
-    * [PALAKKAD NEWS](https://www.manoramaonline.com/district-news/palakkad.html "PALAKKAD NEWS")
-    * [KOZHIKODE NEWS](https://www.manoramaonline.com/district-news/kozhikode.html "KOZHIKODE NEWS")
-    * [MALAPPURAM NEWS](https://www.manoramaonline.com/district-news/malappuram.html "MALAPPURAM NEWS")
-    * [WAYANAD NEWS](https://www.manoramaonline.com/district-news/wayanad.html "WAYANAD NEWS")
-    * [KANNUR NEWS](https://www.manoramaonline.com/district-news/kannur.html "KANNUR NEWS")
-    * [KASARGOD NEWS](https://www.manoramaonline.com/district-news/kasargod.html "KASARGOD NEWS")
-    * [CHENNAI NEWS](https://www.manoramaonline.com/district-news/chennai.html "CHENNAI NEWS")
-    * [BENGALURU NEWS](https://www.manoramaonline.com/district-news/bengaluru.html "BENGALURU NEWS")
-    * [MUMBAI NEWS](https://www.manoramaonline.com/district-news/mumbai.html "MUMBAI NEWS")
-    * [NEW DELHI NEWS](https://www.manoramaonline.com/district-news/new-delhi.html "NEW DELHI NEWS")
-    * [LOTTERY RESULTS](https://www.manoramaonline.com/district-news/kerala-lottery-results.html "LOTTERY RESULTS")
-    * [CHUTTUVATTOM AWARD](https://www.manoramaonline.com/district-news/chuttuvattom-award.html "CHUTTUVATTOM AWARD")
-    
-* [SPORTS](https://www.manoramaonline.com/sports.html "SPORTS")
-    
-    SPORTS
-    
-    * [Cricket](https://www.manoramaonline.com/sports/cricket.html "Cricket")
-    * [Football](https://www.manoramaonline.com/sports/football.html "Football")
-    * [Tennis](https://www.manoramaonline.com/sports/tennis.html "Tennis")
-    * [Other Sports](https://www.manoramaonline.com/sports/other-sports.html "Other Sports")
-    * [Local Sports](https://www.manoramaonline.com/sports/local-sports.html "Local Sports")
-    * [Specials](https://www.manoramaonline.com/sports/indepth.html "Specials")
-    
-* [ENTERTAINMENT](https://www.manoramaonline.com/entertainment.html "ENTERTAINMENT")
-    
-    ENTERTAINMENT
-    
-    * [Movie](https://www.manoramaonline.com/entertainment/movies.html "Movie")
-    * [Music](https://www.manoramaonline.com/entertainment/music.html "Music")
-    * [TELEVISION](https://www.manoramaonline.com/entertainment/television.html "TELEVISION")
-    * [OTT](https://www.manoramaonline.com/entertainment/ott.html "OTT")
-    * [SPECIALS](https://www.manoramaonline.com/entertainment/indepth.html "SPECIALS")
-    
-* [LIFE](https://www.manoramaonline.com/life.html "LIFE")
-    
-    LIFE
-    
-    * [HOMESTYLE](https://www.manoramaonline.com/life/homestyle.html "HOMESTYLE")
-    * [LITERATURE](https://www.manoramaonline.com/life/literature.html "LITERATURE")
-    * [LIFESTYLE](https://www.manoramaonline.com/life/love-and-life.html "LIFESTYLE")
-    * [Specials](https://www.manoramaonline.com/life/specials.html "Specials")
-    
-* [Wellness](https://www.manoramaonline.com/wellness.html "Wellness")
-    
-    Wellness
-    
-    * [Health](https://www.manoramaonline.com/wellness/health.html "Health")
-    * [SPIRITUALITY](https://www.manoramaonline.com/wellness/spirituality.html "SPIRITUALITY")
-    * [ASTROLOGY](https://www.manoramaonline.com/wellness/astrology.html "ASTROLOGY")
-    * [SPECIALS](https://www.manoramaonline.com/wellness/indepth.html "SPECIALS")
-    
-* [AUTO & LEISURE](https://www.manoramaonline.com/auto-and-leisure.html "AUTO & LEISURE")
-    
-    AUTO & LEISURE
-    
-    * [Auto](https://www.manoramaonline.com/auto-and-leisure/auto.html "Auto")
-    * [Travel](https://www.manoramaonline.com/auto-and-leisure/travel.html "Travel")
-    * [Food](https://www.manoramaonline.com/auto-and-leisure/food.html "Food")
-    * [Specials](https://www.manoramaonline.com/auto-and-leisure/indepth.html "Specials")
-    
-* [TECH & GADGETS](https://www.manoramaonline.com/technology.html "TECH & GADGETS")
-    
-    TECH & GADGETS
-    
-    * [TECHNOLOGY](https://www.manoramaonline.com/technology/technology-news.html "TECHNOLOGY")
-    * [GADGETS](https://www.manoramaonline.com/technology/gadgets.html "GADGETS")
-    * [SCIENCE](https://www.manoramaonline.com/technology/science.html "SCIENCE")
-    * [DEFENCE](https://www.manoramaonline.com/technology/defence.html "DEFENCE")
-    * [Specials](https://www.manoramaonline.com/technology/indepth.html "Specials")
-    
-* [Agri Plus](https://www.manoramaonline.com/agri-news.html "Agri Plus")
-    
-    Agri Plus
-    
-    * [Agriculture](https://www.manoramaonline.com/agri-news/agriculture.html "Agriculture")
-    * [ENVIRONMENT](https://www.manoramaonline.com/agri-news/environment.html "ENVIRONMENT")
-    * [SPECIALS](https://www.manoramaonline.com/agri-news/specials.html "SPECIALS")
-    
-* [YOUTH & KIDS](https://www.manoramaonline.com/youth-and-kids.html "YOUTH & KIDS")
-    
-    YOUTH & KIDS
-    
-    * [EDUCATION](https://www.manoramaonline.com/youth-and-kids/education.html "EDUCATION")
-    * [CAMPUS](https://www.manoramaonline.com/youth-and-kids/campus.html "CAMPUS")
-    * [Children](https://www.manoramaonline.com/youth-and-kids/children.html "Children")
-    * [YUVA](https://www.manoramaonline.com/youth-and-kids/youth.html "YUVA")
-    * [SPECIALS](https://www.manoramaonline.com/youth-and-kids/specials.html "SPECIALS")
-    
-* [FACT CHECK](https://www.manoramaonline.com/fact-check.html "FACT CHECK")
-    
-    FACT CHECK
-    
-    * [VIRAL](https://www.manoramaonline.com/fact-check/viral.html "VIRAL")
-    * [POLITICS](https://www.manoramaonline.com/fact-check/politics.html "POLITICS")
-    * [HEALTH](https://www.manoramaonline.com/fact-check/health.html "HEALTH")
-    * [About US](https://www.manoramaonline.com/fact-check/about-manorama-fact-check.html "About US")
-    * [METHODOLOGY](https://www.manoramaonline.com/fact-check/methodology.html " METHODOLOGY")
-    * [CORRECTION POLICY](https://www.manoramaonline.com/fact-check/correction-policy.html "CORRECTION POLICY")
-    * [COMPLAINTS](https://www.manoramaonline.com/fact-check/fact-check-complaints.html "COMPLAINTS")
-    
-* [BUSINESS](https://www.manoramaonline.com/sampadyam.html "BUSINESS")
-    
-    BUSINESS
-    
-    * [BUSINESS NEWS](https://www.manoramaonline.com/sampadyam/business-news.html "BUSINESS NEWS")
-    * [INVESTMENT](https://www.manoramaonline.com/sampadyam/investment.html "INVESTMENT")
-    * [FINANCIAL PLANNING](https://www.manoramaonline.com/sampadyam/financial-planning.html "FINANCIAL PLANNING")
-    * [BANKING](https://www.manoramaonline.com/sampadyam/banking.html "BANKING")
-    * [SMART SPENDING](https://www.manoramaonline.com/sampadyam/smart-spending.html "SMART SPENDING")
-    * [INSURANCE](https://www.manoramaonline.com/sampadyam/insurance.html "INSURANCE")
-    * [Specials](https://www.manoramaonline.com/sampadyam/indepth.html "Specials")
-    
-* [Videos](https://www.manoramaonline.com/videos.html "Videos")
-    
-    Videos
-    
-* [Shortz](https://www.manoramaonline.com/shortz.html "Shortz")
-    
-    Shortz
-    
-* [Podcasts](https://www.manoramaonline.com/podcast.html "Podcasts")
-    
-    Podcasts
-    
-* [Visual Stories](https://www.manoramaonline.com/web-stories.html "Visual Stories")
-    
-    Visual Stories
-    
-* [PHOTOS](https://www.manoramaonline.com/photogallery.html "PHOTOS")
-    
-    PHOTOS
-    
-* [Games](https://www.manoramaonline.com/games.html "Games")
-    
-    Games
-    
-
-* [About Us](https://www.manoramaonline.com/about-us.html "About Us")
-    
-    About Us
-    
-* [Contact Us](https://www.manoramaonline.com/contact-us.html "Contact Us")
-    
-    Contact Us
-    
-* [Code of Ethics](https://www.manoramaonline.com/code-of-ethics.html "Code of Ethics")
-    
-    Code of Ethics
-    
-* [Terms Of Use](https://www.manoramaonline.com/terms-of-use.html "Terms Of Use")
-    
-    Terms Of Use
-    
-* [Privacy](https://www.manoramaonline.com/privacy.html "Privacy")
-    
-    Privacy
-    
-* [Cancellation Policy](https://www.manoramaonline.com/cancellation-policy.html "Cancellation Policy")
-    
-    Cancellation Policy
-    
-
-* [ONMANORAMA](https://www.onmanorama.com/ "ONMANORAMA")
-    
-    ONMANORAMA
-    
-* [Hello Address](https://www.helloaddress.com/ "Hello Address")
-    
-    Hello Address
-    
-* [MANORAMA HORIZON](https://www.manoramahorizon.com/?gclid=EAIaIQobChMInLq2obCngQMVS6pmAh3gBQzxEAAYASAAEgLcfPD_BwE "MANORAMA HORIZON")
-    
-    MANORAMA HORIZON
-    
-* [VANITHA](https://www.vanitha.in/home.html/ "VANITHA")
-    
-    VANITHA
-    
-* [THE WEEK](https://www.theweek.in/ "THE WEEK")
-    
-    THE WEEK
-    
-* [MANORAMA NEWS TV](https://www.manoramanews.com/ "MANORAMA NEWS TV")
-    
-    MANORAMA NEWS TV
-    
-* [MANORAMA YEARBOOK](https://www.manoramayearbook.in/ "MANORAMA YEARBOOK")
-    
-    MANORAMA YEARBOOK
-    
-* [MANORAMA MAX](https://www.manoramamax.com/ "MANORAMA MAX")
-    
-    MANORAMA MAX
-    
-* [RADIO MANGO](https://www.radiomango.fm/home.html "RADIO MANGO")
-    
-    RADIO MANGO
-    
-* [BOOKS & MAGAZNE](https://subscribe.manoramaonline.com/ "BOOKS & MAGAZNE")
-    
-    BOOKS & MAGAZNE
-    
-* [QUICKERALA](https://www.quickerala.com/ "QUICKERALA")
-    
-    QUICKERALA
-    
-
-[](https://www.facebook.com/manoramaonline/ "Facebook")
-
-[](https://www.instagram.com/manoramaonline/ "Instagram")
-
-[](https://www.youtube.com/channel/UCWoaMw1yKGYlhi4tri7Dm6Q "Youtube")
-
-[](https://twitter.com/manoramaonline "Twitter")
-
-### MANORAMA APP
-
-* [](https://play.google.com/store/apps/details?id=com.online.AndroidManorama&hl=en&pli=1 "Android")
-* [](https://apps.apple.com/in/app/malayala-manorama-news-app/id547933268 "IOS")
-
-[Activate your premium subscription today.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
----------------------------------------------------------------------------------------------------------
-
-[Subscribe](https://www.manoramaonline.com/myaccount/subscribe-plan.html "Subscribe")
-
-![premium logo](https://img-mm.manoramaonline.com/etc.clientlibs/revamp-mmonline/clientlibs/clientlib-mmo-landing-footer/resources/img/premium-icon.svg)
-
-![Manorama Premium](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/explore-premium.png "Manorama Premium")
 
 The Malayala Manorama Co. (P) Ltd. ("Malayala Manorama" or "we") operates manoramaonline.com, fasttrackworld.com, gulfmanorama.com, manoramanews.com the Malayala Manorama iPhone application, the Malayala Manorama iPad application , the Malayala Manorama Android application, the Malayala Manorama Java/Symbian application, Malayala Manorama Windows application and any other Malayala Manorama owned and controlled URL, Mobile site and mobile application (collectively, the "Site"), Malayala Manorama messaging services, video services, RSS feeds, podcasting services, mobile services, and any other feature, content, or applications offered from time to time by Malayala Manorama in connection with Malayala Manorama' business (collectively, the "Malayala Manorama Services"). 
 
