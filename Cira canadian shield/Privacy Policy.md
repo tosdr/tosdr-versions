@@ -404,6 +404,7 @@ Resources
 
 Connect with us
 
+* [Threads](https://www.threads.net/@ciradotca)
 * [Facebook](https://facebook.com/cira.ca)
 * [Instagram](https://instagram.com/ciradotca/)
 * [LinkedIn](https://linkedin.com/company/canadian-internet-registration-authority)
@@ -424,7 +425,7 @@ Need assistance about a service or product?
 
 Read](https://www.cira.ca/en/support/)
 
-3,392,168
+3,390,388
 
 Domains registered
 
