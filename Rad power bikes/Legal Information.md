@@ -1,10 +1,10 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                 Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                               [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                              Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                             [Skip to content](#main)
 
 [](# "Previous")
 
-* [Up to $400 off ebikes. Shop deals.](https://www.radpowerbikes.com/pages/sales-deals "Up to $400 off ebikes. Shop deals.")
+* [4th of July Savings: Up to $500 off. Shop now thru 7/7.](https://www.radpowerbikes.com/pages/sales-deals "4th of July Savings: Up to $500 off. Shop now thru 7/7.")
     
-* [Rad’s New Lineup Is Here. Meet the Fleet.](https://www.radpowerbikes.com/pages/new-ebikes-and-accessories "Rad’s New Lineup Is Here. Meet the Fleet.")
+* [Due to a new tariff, prices on select models go up 7/1. Order now & save.](https://www.radpowerbikes.com/collections/2024-price-increase "Due to a new tariff, prices on select models go up 7/1. Order now & save.")
     
 
 [](# "Next")
@@ -157,10 +157,10 @@
     
     * [Gift Cards](https://www.radpowerbikes.com/products/gift-card "Gift Cards")
     
-    [So many ways to ride rad.
-    -------------------------
+    [Up to 40% off select accessories
+    --------------------------------
     
-    Shop now](https://www.radpowerbikes.com/collections/accessories "Shop now")
+    Shop Sale](https://www.radpowerbikes.com/collections/accessory-deals "Shop Sale")
     
 * [Parts](https://www.radpowerbikes.com/collections/replacement-parts "Parts") [ ] 
     
@@ -325,7 +325,7 @@ Close Icon
 
  
 
-Spend $150 more and get free shipping!
+Spend $150 more and get free shipping!\*
 
 Your cart is empty
 
