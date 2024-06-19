@@ -9,6 +9,7 @@
 * [Our products](https://www.dynseo.com/en/our-products-brain-games-adapted-for-all/)
     * [My CODI](https://www.dynseo.com/en/my-dico-communication-and-autonomy/)
     * [The Rolling Ball app](https://www.dynseo.com/en/the-rolling-ball/)
+    * [BeBuzz TV](https://www.dynseo.com/en/bebuzz-tv/)
     * [The Caregiver’s Toolbox](https://www.dynseo.com/en/the-caregivers-toolbox-3/)
     * [The Special Needs Toolbox](https://www.dynseo.com/en/the-special-needs-toolbox/)
     * [Top Culture for senior livings](https://www.dynseo.com/en/top-culture-the-international-competition-for-seniors/)
@@ -16,7 +17,7 @@
 * [Blog](https://www.dynseo.com/en/the-coaches-blog-your-brain-coach/)
 * Pro space
     * [Health professionals](https://www.dynseo.com/en/you-are/health-professionals/)
-    * [Care Homes & Nursing Homes](https://www.dynseo.com/en/care-homes-nursing-homes/)
+    * [Nursing and Retirement Homes](https://www.dynseo.com/en/ehpad-retirement-homes/)
     * [Primary schools](https://www.dynseo.com/en/coco-the-educational-program-for-primary-schools/)
     * [Middle schools](https://www.dynseo.com/en/clint-learning-app-for-middle-school/)
 * [SHOP](https://www.dynseo.com/en/order/)
