@@ -1,6 +1,8 @@
 [heise online Logo](https://www.heise.de/ "heise online")
 
-[](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")[Gratis testen Jetzt 1 Monat gratis testen](https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000028_21806_3_57&wt_mc=intern.abo.plus.hp_nk.navilink.desktop1.desktop1)
+[](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")
+
+ [![heise kennenlernen](/icons/ho/heise96_light.svg) ![heise kennenlernen](/icons/ho/heise96_dark.svg)](https://www.heisegroup.de/ "heise kennenlernen")
 
 [Anmelden](https://www.heise.de/sso/login/)
 
@@ -61,6 +63,8 @@ Services
 [heise online Logo](https://www.heise.de/ "heise online")
 
 [](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")[Gratis testen Jetzt 1 Monat gratis testen](https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000028_21806_3_57&wt_mc=intern.abo.plus.hp_nk.navilink.mobile1.mobile1)
+
+ [![heise kennenlernen](/icons/ho/heise96_light.svg) ![heise kennenlernen](/icons/ho/heise96_dark.svg)](https://www.heisegroup.de/ "heise kennenlernen")
 
  
 
