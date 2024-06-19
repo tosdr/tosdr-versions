@@ -521,6 +521,7 @@ Zurich, February 2024
     
     ![](https://www.jobcloud.ch/wp-content/themes/stack-child/assets/images/x-twitter.svg)](https://twitter.com/JobCloudAG "Job Cloud Twitter Page")
 * [](https://www.youtube.com/user/jobspunktch "Job Cloud Youtube Page")
+* [](https://www.instagram.com/jobcloud/ "Job Cloud Instagram Page")
 
 * [English](https://www.jobcloud.ch/c/en/terms/)
 * [Français](https://www.jobcloud.ch/c/fr-ch/conditions-generales/)
