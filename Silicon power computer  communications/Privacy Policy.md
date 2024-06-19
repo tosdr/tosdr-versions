@@ -60,7 +60,6 @@
 * [Company Profile](https://www.silicon-power.com/web/gb/company_profile)
 * [Milestones and Awards](https://www.silicon-power.com/web/gb/milestones)
 * [News](https://www.silicon-power.com/web/gb/news_selected)
-* [COMPUTEX 2024](https://www.silicon-power.com/web/gb/COMPUTEX)
 * [Charity/Sponsorship](https://www.silicon-power.com/web/gb/charity_sponsorship)
 * [Business Solutions](https://www.silicon-power.com/web/gb/channel_partner)
 * [Careers](https://www.silicon-power.com/web/gb/lifeatSP-1)
@@ -406,7 +405,6 @@
     * [Company Profile](https://www.silicon-power.com/web/gb/company_profile)
     * [Milestones and Awards](https://www.silicon-power.com/web/gb/milestones)
     * [News](https://www.silicon-power.com/web/gb/news_selected)
-    * [COMPUTEX 2024](https://www.silicon-power.com/web/gb/COMPUTEX)
     * [Charity/Sponsorship](https://www.silicon-power.com/web/gb/charity_sponsorship)
     * [Business Solutions](https://www.silicon-power.com/web/gb/channel_partner)
     * [Careers](https://www.silicon-power.com/web/gb/lifeatSP-1)
@@ -591,7 +589,6 @@ Privacy Policy
 * [Company Profile](https://www.silicon-power.com/web/gb/company_profile)
 * [Milestones and Awards](https://www.silicon-power.com/web/gb/milestones)
 * [News](https://www.silicon-power.com/web/gb/news_selected)
-* [COMPUTEX 2024](https://www.silicon-power.com/web/gb/COMPUTEX)
 * [Careers](https://www.silicon-power.com/web/gb/lifeatSP-1)
 * [Contact Us](https://www.silicon-power.com/web/gb/contact_us)
 
