@@ -29,10 +29,10 @@
     * [What We're Doing](#)
         * * What We're Doing
             * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/measuring-water-quality-Rwanda_thumb.jpg.optimal.jpg)
-                * [Our Impacts](https://www.rainforest-alliance.org/impact/)Really See the positive change out work is making around the world
+                * [Our Impacts](https://www.rainforest-alliance.org/impact/)See the positive change our work is making around the world
                 
                 * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/drc-tree-canopy-thumb.jpg.optimal.jpg)
-                * [Our Approach](https://www.rainforest-alliance.org/approach/)See the positive change out work is making around the world
+                * [Our Approach](https://www.rainforest-alliance.org/approach/)Restoring the balance between people and nature so they both thrive in harmony
         * * [Issues](https://www.rainforest-alliance.org/issues/)
             * [Forests & Biodiversity](https://www.rainforest-alliance.org/issues/forests/)
             * [Livelihoods](https://www.rainforest-alliance.org/issues/human-rights/)
@@ -100,10 +100,10 @@
 * [What We're Doing](#)
     * * What We're Doing
         * * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/measuring-water-quality-Rwanda_thumb.jpg.optimal.jpg)
-            * [Our Impacts](https://www.rainforest-alliance.org/impact/)Really See the positive change out work is making around the world
+            * [Our Impacts](https://www.rainforest-alliance.org/impact/)See the positive change our work is making around the world
             
             * ![](https://www.rainforest-alliance.org/wp-content/uploads/2024/02/drc-tree-canopy-thumb.jpg.optimal.jpg)
-            * [Our Approach](https://www.rainforest-alliance.org/approach/)See the positive change out work is making around the world
+            * [Our Approach](https://www.rainforest-alliance.org/approach/)Restoring the balance between people and nature so they both thrive in harmony
     * * [Issues](https://www.rainforest-alliance.org/issues/)
         * [Forests & Biodiversity](https://www.rainforest-alliance.org/issues/forests/)
         * [Livelihoods](https://www.rainforest-alliance.org/issues/human-rights/)
@@ -395,7 +395,7 @@ Subscribe
 
 The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN: 13-3377893. | © Copyright 1987 - 2024, Rainforest Alliance
 
-[Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/)[](https://www.instagram.com/)[](https://www.youtube.com/)[](https://www.linkedin.com/)
+[Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
 
 #### Coming Soon
 
