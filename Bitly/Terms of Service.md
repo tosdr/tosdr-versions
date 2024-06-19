@@ -1,10 +1,10 @@
 [Skip Navigation](#content)
 
-[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
+[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
 
 Menu
 
-Menu
+ [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
 
 Menu
 
@@ -12,29 +12,33 @@ Menu
     
     ### Products
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/short-link-1.svg)[URL Shortener  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
         **Customize, share and track links**](https://bitly.com/pages/products/url-shortener)
-    * ![QR code icon](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/qr-code.svg)[QR Codes  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Codes  
         **Dynamic solutions to fit every business need**](https://bitly.com/pages/products/qr-codes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/link-in-bio.svg)[Link-in-bio  
-        **Curate and track links and content for social media profiles**](https://bitly.com/pages/products/link-in-bio)
-    * ![2D Barcode](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/03/gs1.svg)[2D Barcodes  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
         **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/01/analytics.svg)[Analytics  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
         **A central place to track and analyze performance of all short links and QR Codes**](https://bitly.com/pages/products/analytics)
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
+        **Mobile-friendly, no-code landing pages**](https://bitly.com/pages/products/pages)
     
     ### Features
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/03/create-branded-links.svg)[Branded Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
+        **Curate and track links and content for social media profiles**](https://bitly.com/pages/features/link-in-bio)
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
         **Customize links with your brand’s URL**](https://bitly.com/pages/features/branded-links)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2024/03/location-device.svg)[Mobile Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
         **Short links for SMS messages**](https://bitly.com/pages/features/mobile-links)
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
+        **Track links with UTM parameters**](https://bitly.com/pages/features/utm-links)
     
     ### Integrations
     
-    [![Bitly Hubspot Connector](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2022/12/Hubspot-Logo-125x125.png)
+    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
     
-    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Bitly + Canva Integration](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-125x125.png)
+    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
     
     Bitly + Canva Integration](https://bitly.com/pages/marketplace/canva)
     
@@ -50,14 +54,14 @@ Menu
     ### By industry
     
     * [Retail](https://bitly.com/pages/solutions/retail)
-    * [Healthcare](https://bitly.com/pages/solutions/healthcare)
     * [Consumer Packaged Goods](https://bitly.com/pages/solutions/consumer-packaged-goods)
-    * [Insurance](https://bitly.com/pages/solutions/insurance)
     * [Hospitality](https://bitly.com/pages/solutions/hospitality)
-    * [Financial Services](https://bitly.com/pages/solutions/financial-services)
     * [Media & Entertainment](https://bitly.com/pages/solutions/media)
-    * [Professional Services](https://bitly.com/pages/solutions/professional-services)
     * [Technology Software & Hardware](https://bitly.com/pages/solutions/technology)
+    * [Healthcare](https://bitly.com/pages/solutions/healthcare)
+    * [Insurance](https://bitly.com/pages/solutions/insurance)
+    * [Financial Services](https://bitly.com/pages/solutions/financial-services)
+    * [Professional Services](https://bitly.com/pages/solutions/professional-services)
     * [Education](https://bitly.com/pages/solutions/education)
     
     ### By Team
@@ -68,15 +72,20 @@ Menu
     
     ### By Business
     
-    * [Enterprise](https://bitly.com/pages/why-bitly/enterprise-class)
+    * [Small Business](https://bitly.com/pages/solutions/small-business)
+    * [Midmarket](https://bitly.com/pages/solutions/midmarket)
+    * [Enterprise](https://bitly.com/pages/solutions/enterprise)
     
-    ### What’s new
+    ### Use Cases
     
-    [![QR Codes and the Future of Retail Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2023/11/site_resource_qr-future-1.png)
+    * [Order Confirmation](https://bitly.com/pages/use-case/order-confirmation-and-fulfillment)
+    * [Surveys and Feedback](https://bitly.com/pages/use-case/surveys-and-feedback)
+    * [Product Packaging](https://bitly.com/pages/use-case/product-packaging)
+    * [Print Advertising](https://bitly.com/pages/use-case/print-advertising)
+    * [Digital Advertising](https://bitly.com/pages/use-case/digital-advertising)
+    * [Content Sharing](https://bitly.com/pages/use-case/content-sharing)
     
-    #### QR Codes and the Future of Retail Webinar Recap
-    
-    Watch now](https://bitly.com/pages/resources/webinars/qr-codes-and-the-future-of-retail-webinar-recap)
+    [See all use cases](#)
     
 * [Pricing](https://bitly.com/pages/pricing)
 * [Resources](#)
@@ -101,7 +110,9 @@ Menu
     
     ### What's new
     
-    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
+    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
+    
+    webinar
     
     #### Creativity with QR Codes Webinar Recap
     
@@ -109,8 +120,8 @@ Menu
     
 
 * [Log in](https://bitly.com/a/sign_in)
-* [Sign up Free](https://bitly.com/pages/pricing)
 * [Get a Quote](https://bitly.com/pages/landing/discover-enterprise)
+* [Sign up Free](https://bitly.com/pages/pricing)
 
 Bitly Terms of Service
 ======================
@@ -1232,6 +1243,21 @@ International Data Transfer Addendum to the EU Commission Standard Contractual C
 
 [Start for free](https://bitly.com/a/sign_up)
 
+#### Products
+
+[URL Shortener](https://bitly.com/pages/products/url-shortener)  
+[QR Codes](https://bitly.com/pages/products/qr-codes)  
+[2D Barcodes](https://bitly.com/pages/products/2d-barcodes)  
+[Analytics](https://bitly.com/pages/products/analytics)  
+[Pages](https://bitly.com/pages/products/pages)
+
+#### Features
+
+[Link- in- bio](https://bitly.com/pages/features/link-in-bio)  
+[Branded Links](https://bitly.com/pages/features/branded-links)  
+[Mobile Links](https://bitly.com/pages/features/mobile-links%20)  
+[UTM Campaigns](https://bitly.com/pages/features/utm-links)
+
 #### Why Bitly?
 
 [Integrations & API](https://bitly.com/pages/why-bitly/integrations-api)  
@@ -1242,9 +1268,53 @@ International Data Transfer Addendum to the EU Commission Standard Contractual C
 
 [URL Shortener](https://bitly.com/pages/products/url-shortener)  
 [QR Codes](https://bitly.com/pages/products/qr-codes)  
-[Link-in-bio](https://bitly.com/pages/products/link-in-bio)  
+[2D Barcodes](https://bitly.com/pages/products/2d-barcodes)  
 [Analytics](https://bitly.com/pages/products/analytics)  
-[2D Barcodes](https://bitly.com/pages/products/2d-barcode)
+[Pages](https://bitly.com/pages/products/pages)
+
+#### Features
+
+[Link- in- bio](https://bitly.com/pages/features/link-in-bio)  
+[Branded Links](https://bitly.com/pages/features/branded-links)  
+[Mobile Links](https://bitly.com/pages/features/mobile-links%20)  
+[UTM Campaigns](https://bitly.com/pages/features/utm-links)
+
+#### Solutions
+
+[Retail](https://bitly.com/pages/solutions/retail)  
+[Consumer Packaged Goods](https://bitly.com/pages/solutions/consumer-packaged-goods)  
+[Hospitality](https://bitly.com/pages/solutions/hospitality)  
+[Media & Entertainment](https://bitly.com/pages/solutions/media)  
+[Tech Software & Hardware](https://bitly.com/pages/solutions/technology)  
+[Healthcare](https://bitly.com/pages/solutions/healthcare)  
+[Insurance](https://bitly.com/pages/solutions/insurance)  
+[Financial Services](https://bitly.com/pages/solutions/financial-services)  
+[Professional Services](https://bitly.com/pages/solutions/professional-services)  
+[Education](https://bitly.com/pages/solutions/education)
+
+#### Resources
+
+[Blog](https://bitly.com/blog/)  
+[Resource Library](https://bitly.com/pages/resources)  
+[Developers](https://dev.bitly.com/)  
+[Apps and Integrations](https://bitly.com/pages/marketplace)  
+[Help Center](https://support.bitly.com/hc/en-us)  
+[Trust Center](https://bitly.com/pages/trust)  
+[Browser Extension](https://bitly.com/pages/browser-extension)  
+[Mobile App](https://bitly.com/pages/mobile-app)
+
+#### Solutions
+
+[Retail](https://bitly.com/pages/solutions/retail)  
+[Consumer Packaged Goods](https://bitly.com/pages/solutions/consumer-packaged-goods)  
+[Hospitality](https://bitly.com/pages/solutions/hospitality)  
+[Media & Entertainment](https://bitly.com/pages/solutions/media)  
+[Tech Software & Hardware](https://bitly.com/pages/solutions/technology)  
+[Healthcare](https://bitly.com/pages/solutions/healthcare)  
+[Insurance](https://bitly.com/pages/solutions/insurance)  
+[Financial Services](https://bitly.com/pages/solutions/financial-services)  
+[Professional Services](https://bitly.com/pages/solutions/professional-services)  
+[Education](https://bitly.com/pages/solutions/education)
 
 #### Company
 
@@ -1257,24 +1327,13 @@ International Data Transfer Addendum to the EU Commission Standard Contractual C
 [Reviews](https://bitly.com/pages/reviews)  
 [Accessibility Report](https://s17233.pcdn.co/blog/wp-content/uploads/2024/02/Bitly-Accessibility-Conformance-Report-2023-12-21.pdf)
 
-#### Solutions
+#### Legal
 
-[Social Media](https://bitly.com/pages/solutions/social-media)  
-[Digital Marketing](https://bitly.com/pages/solutions/digital-marketing)  
-[Customer Service](https://bitly.com/pages/solutions/customer-service)  
-[For Developers](https://bitly.com/pages/solutions/for-developers)  
-[CPG](https://bitly.com/pages/solutions/consumer-packaged-goods)  
-[Retail](https://bitly.com/pages/solutions/retail)  
-[Media & Entertainment](https://bitly.com/pages/solutions/media)  
-[Tech Software & Hardware](https://bitly.com/pages/solutions/technology)  
-[Hospitality](https://bitly.com/pages/solutions/hospitality)  
-[Healthcare](https://bitly.com/pages/solutions/healthcare)  
-[Insurance](https://bitly.com/pages/solutions/insurance)
-
-#### Features
-
-[Branded Links](https://bitly.com/pages/features/branded-links)  
-[Mobile Links](https://bitly.com/pages/features/mobile-links)
+[Privacy Policy](https://bitly.com/pages/privacy)  
+[Cookie Policy](https://bitly.com/pages/cookies)  
+[Terms of Service](https://bitly.com/pages/terms-of-service)  
+[Acceptable Use Policy](https://bitly.com/pages/acceptable-use)  
+[Code of Conduct](https://bitly.com/pages/code-of-conduct)
 
 #### Resources
 
@@ -1293,7 +1352,8 @@ International Data Transfer Addendum to the EU Commission Standard Contractual C
 [Cookie Policy](https://bitly.com/pages/cookies)  
 [Terms of Service](https://bitly.com/pages/terms-of-service)  
 [Acceptable Use Policy](https://bitly.com/pages/acceptable-use)  
-[Code of Conduct](https://bitly.com/pages/code-of-conduct)
+[Code of Conduct](https://bitly.com/pages/code-of-conduct)  
+[Transparency Report](https://bitly.com/pages/transparency-report)
 
 #### Company
 
@@ -1306,8 +1366,8 @@ International Data Transfer Addendum to the EU Commission Standard Contractual C
 [Reviews](https://bitly.com/pages/reviews)  
 [Accessibility Report](https://s17233.pcdn.co/blog/wp-content/uploads/2024/02/Bitly-Accessibility-Conformance-Report-2023-12-21.pdf)
 
-![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1712086357/pages/wp-content/uploads/2021/08/bitly_logo.svg)
+![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2021/08/bitly_logo.svg)
 
 © 2024 Bitly | Handmade in New York City, Denver, Berlin, Bielefeld, and all over the world.
 
-[_twitter_](https://twitter.com/bitly) [_Instagram_](https://instagram.com/bitly) [_linkedin_](https://www.linkedin.com/company/552285) [_Facebook_](https://facebook.com/bitly)
+[](https://twitter.com/bitly)[](https://instagram.com/bitly)[](https://facebook.com/bitly)[](https://www.linkedin.com/company/552285)
