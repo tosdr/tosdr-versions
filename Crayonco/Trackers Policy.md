@@ -30,7 +30,7 @@
 CRAYON, INC COOKIE POLICY
 =========================
 
-Updated: September 15, 2023
+Updated: June 13, 2024
 
 ![solid-bg](https://www.crayon.co/hs-fs/hubfs/solid-bg.png?width=1418&height=671&name=solid-bg.png)
 
@@ -45,7 +45,7 @@ Cookies are small text files that are placed on your computer or device by the w
 * To provide analytics
 * To store your preferences
 
- The following tables describes the cookies in use on our website by category and their purpose.
+##### **The following tables describe the cookies in use on our website by category and purpose.**
 
 **Strictly Necessary Cookies:** These are required for the operation of our website and so they will be placed regardless of consent.  These cookies are necessary for the website to function, and cannot be switched off in our systems. They are usually set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.  Browsers can be set to block, or alert about these cookies, but some parts of our sites will not work if blocked. These cookies do not store personally identifiable information.
 
@@ -92,7 +92,7 @@ Cookies are small text files that are placed on your computer or device by the w
 | [Outbrain](https://www.outbrain.com/) | outbrain\_cid\_fetch (5 mins) | This cookie is set by outbrain.com **and** helps us track who visited our site and to measure marketing efficiency. |
 | [Metadata](https://metadata.io/) | Metadata\_session\_id (30 mins)<br><br>Metadata\_visitor\_id (1 day) | This cookie is set by metadata.io |
 
- The following table describes the cookies in use by our services.
+##### **The following table describes the cookies in use by our services.**
 
 **Strictly Necessary Cookies:** These are required for the operation of our services and so they will be placed regardless of consent.  These cookies are necessary for the services to function and cannot be switched off in our systems.
 
@@ -111,8 +111,8 @@ Cookies are small text files that are placed on your computer or device by the w
 | .crayon.co | ajs\_anonymous\_id | These cookies are set by [Segment.com](https://segment.com/) and is used to analyze how you use the platform | 11 months |
 | .crayon.co | ajs\_group\_id | These cookies are set by [Segment.com](https://segment.com/) and is used to analyze how you use the platform | 11 months |
 | .crayon.co | ajs\_user\_id | These cookies are set by [Segment.com](https://segment.com/) and is used to analyze how you use the platform | 11 months |
-| .crayon.co | \_hp2\_id.APP\_ID | User cookie (stores user\_id, identity, other ids) for [Heap.io](https://help.heap.io/data-privacy/data-privacy-faqs/what-cookies-does-heap-set-and-what-are-they-used-for/) | 13 months |
-| .crayon.co | \_hp2\_ses\_props.APP\_ID | Session properties cookie (stores timestamp and cookie domain/path) for [Heap.io](https://help.heap.io/data-privacy/data-privacy-faqs/what-cookies-does-heap-set-and-what-are-they-used-for/) | 30 mins |
+| .crayon.co | fs\_lua | These cookies are set by [Fullstory](http://www.fullstory.com/) and capture the timestamp of the last user action | 30 minutes |
+| .crayon.co | fs\_uid | These cookies are set by [Fullstory](http://www.fullstory.com/) and are used to track users across pages and sessions | 12 months |
 
 Your choices and how you can change your cookie settings
 --------------------------------------------------------
