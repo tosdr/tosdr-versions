@@ -1,69 +1,17 @@
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
+[![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
 
 * [Home](https://peaksel.com/)
 * [About us](https://peaksel.com/about-us/)
 * [Jobs](https://peaksel.com/jobs/)
 * [Contact Us](https://peaksel.com/contact/)
 
-* * ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
+* * ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")en
         
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")
-        
-        en
-        
-        * [![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/fr.svg "Français")
-            
-            fr](https://peaksel.com/fr/reglement-sur-les-contenus-de-fan/)
-        * [![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/it.svg "Italiano")
-            
-            it](https://peaksel.com/it/fan-content-policy/)
-        * [![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/pt-br.svg "Português")
-            
-            pt](https://peaksel.com/pt-br/politica-de-conteudos-para-fas/)
-        * [![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/ru.svg "Русский")
-            
-            ru](https://peaksel.com/ru/4838-2/)
-        * [![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")
-            
-            sr](https://peaksel.com/sr/pravilnik-za-koriscenje-svojine/)
+        * [![fr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/fr.svg "Français")fr](https://peaksel.com/fr/reglement-sur-les-contenus-de-fan/)
+        * [![it](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/it.svg "Italiano")it](https://peaksel.com/it/fan-content-policy/)
+        * [![pt-br](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/pt-br.svg "Português")pt](https://peaksel.com/pt-br/politica-de-conteudos-para-fas/)
+        * [![ru](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/ru.svg "Русский")ru](https://peaksel.com/ru/4838-2/)
+        * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/pravilnik-za-koriscenje-svojine/)
     
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
@@ -74,67 +22,15 @@
 * [Escape Games](https://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
-
-* * ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
+* * ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")en
         
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")
-        
-        en
-        
-        * [![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/fr.svg "Français")
-            
-            fr](https://peaksel.com/fr/reglement-sur-les-contenus-de-fan/)
-        * [![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/it.svg "Italiano")
-            
-            it](https://peaksel.com/it/fan-content-policy/)
-        * [![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/pt-br.svg "Português")
-            
-            pt](https://peaksel.com/pt-br/politica-de-conteudos-para-fas/)
-        * [![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/ru.svg "Русский")
-            
-            ru](https://peaksel.com/ru/4838-2/)
-        * [![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")
-            
-            sr](https://peaksel.com/sr/pravilnik-za-koriscenje-svojine/)
+        * [![fr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/fr.svg "Français")fr](https://peaksel.com/fr/reglement-sur-les-contenus-de-fan/)
+        * [![it](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/it.svg "Italiano")it](https://peaksel.com/it/fan-content-policy/)
+        * [![pt-br](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/pt-br.svg "Português")pt](https://peaksel.com/pt-br/politica-de-conteudos-para-fas/)
+        * [![ru](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/ru.svg "Русский")ru](https://peaksel.com/ru/4838-2/)
+        * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/pravilnik-za-koriscenje-svojine/)
     
 
 * [Home](https://peaksel.com/)
@@ -189,21 +85,9 @@ We reserve the right to determine what type of Fan Content we are OK with and ma
 
 We reserve the right to modify this policy at any time. When using Peaksel Assets for Fan Content purposes, your use is subject to this policy.
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](https://peaksel.com/wp-content/uploads/2018/06/logo-light.png)](https://peaksel.com/)
 
-![](https://peaksel.com/wp-content/uploads/2018/06/logo-light.png)](https://peaksel.com/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2018/06/red-herring.jpg)](https://www.redherring.com/events/red-herring-europe/2017-rhe-winners/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2019/10/google-for-startups-peaksel-2019.jpg)](https://startup.google.com/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2020/12/huawei-best-game-2020.jpg)](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/101592474457998399/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://peaksel.com/wp-content/uploads/2021/12/peaksel-deloitte-impact-stars-2021.jpg)](https://www2.deloitte.com/rs/sr/pages/about-deloitte/articles/technology-fast50-ce-2021.html)![We’re part of the Google for Startups 2024 alumni @GoogleStartups, connecting startups with the right people, products and best practices to help them grow.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![We’re part of the Google for Startups 2024 alumni @GoogleStartups, connecting startups with the right people, products and best practices to help them grow.](https://peaksel.com/wp-content/uploads/2024/03/GfS_Alumni_WithYear_2024.png)
+[![](https://peaksel.com/wp-content/uploads/2018/06/red-herring.jpg)](https://www.redherring.com/events/red-herring-europe/2017-rhe-winners/) [![](https://peaksel.com/wp-content/uploads/2019/10/google-for-startups-peaksel-2019.jpg)](https://startup.google.com/) [![](https://peaksel.com/wp-content/uploads/2020/12/huawei-best-game-2020.jpg)](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/101592474457998399/) [![](https://peaksel.com/wp-content/uploads/2021/12/peaksel-deloitte-impact-stars-2021.jpg)](https://www2.deloitte.com/rs/sr/pages/about-deloitte/articles/technology-fast50-ce-2021.html) ![We’re part of the Google for Startups 2024 alumni @GoogleStartups, connecting startups with the right people, products and best practices to help them grow.](https://peaksel.com/wp-content/uploads/2024/03/GfS_Alumni_WithYear_2024.png)
 
 © 2024 Peaksel D.O.O. Kursumlijska 5, 18000 Nis, Serbia. All rights reserved.
 
@@ -243,61 +127,13 @@ We reserve the right to modify this policy at any time. When using Peaksel Asset
 
 [Kid-friendly version of Privacy Policy](https://peaksel.com/privacy-policy/kid-friendly/)
 
-* * ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
+* * ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")en
         
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "English")
-        
-        ![en](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/en.svg "English")
-        
-        en
-        
-        * [![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Français")
-            
-            ![fr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/fr.svg "Français")
-            
-            fr](https://peaksel.com/fr/reglement-sur-les-contenus-de-fan/)
-        * [![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Italiano")
-            
-            ![it](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/it.svg "Italiano")
-            
-            it](https://peaksel.com/it/fan-content-policy/)
-        * [![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Português")
-            
-            ![pt-br](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/pt-br.svg "Português")
-            
-            pt](https://peaksel.com/pt-br/politica-de-conteudos-para-fas/)
-        * [![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Русский")
-            
-            ![ru](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/ru.svg "Русский")
-            
-            ru](https://peaksel.com/ru/4838-2/)
-        * [![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "српски")
-            
-            ![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")
-            
-            sr](https://peaksel.com/sr/pravilnik-za-koriscenje-svojine/)
+        * [![fr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/fr.svg "Français")fr](https://peaksel.com/fr/reglement-sur-les-contenus-de-fan/)
+        * [![it](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/it.svg "Italiano")it](https://peaksel.com/it/fan-content-policy/)
+        * [![pt-br](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/pt-br.svg "Português")pt](https://peaksel.com/pt-br/politica-de-conteudos-para-fas/)
+        * [![ru](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/ru.svg "Русский")ru](https://peaksel.com/ru/4838-2/)
+        * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/pravilnik-za-koriscenje-svojine/)
     
 
 Back To Top
@@ -365,6 +201,4 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 
 SAVE & ACCEPT
 
-Powered by [![CookieYes Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![CookieYes Logo](https://peaksel.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+Powered by [![CookieYes Logo](https://peaksel.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
