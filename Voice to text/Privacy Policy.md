@@ -2,15 +2,6 @@
 
 * [Home](https://voicetotext.org/)
 * [Voice To Text](#)
-    * [Voice to Text English](https://voicetotext.org/speech-to-text)
-    * [Voice to Text Hindi](https://voicetotext.org/speech-to-text-hindi)
-    * [Voice to Text Afrikaans](https://voicetotext.org/speech-to-text-afrikaans)
-    * [Voice to Text Dansk](https://voicetotext.org/speech-to-text-dansk)
-    * [Voice to Text Deutsch](https://voicetotext.org/speech-to-text-deutsch)
-    * [Voice to Text French](https://voicetotext.org/speech-to-text-french)
-    * [Voice to Text indonesia](https://voicetotext.org/speech-to-text-indonesia)
-    * [Voice to Text Italiano](https://voicetotext.org/speech-to-text-italiano)
-    * [Voice to Text Spanish](https://voicetotext.org/speech-to-text-spanish)
 * [Text To Speech(tts)](#)
     * [Text To Speech(tts)](https://voicetotext.org/text-to-speech)
     * [Voice Generator](https://voicetotext.org/voice-generator)
@@ -86,10 +77,15 @@ By using our website, you hereby consent to our Privacy Policy and agree to its 
 
 © Copyright **Voicetotext.org**. All Rights Reserved
 
+Select Language
+===============
+
+[Voice to Text Afrikaans](https://voicetotext.org/speech-to-text-afrikaans) [Voice to Text Arabic](https://voicetotext.org/speech-to-text-arabic) [Voice to Text Bengali](https://voicetotext.org/speech-to-text-bengali) [Voice to Text Chinese](https://voicetotext.org/speech-to-text-chinese) [Voice to Text Czech](https://voicetotext.org/speech-to-text-czech) [Voice to Text Dansk](https://voicetotext.org/speech-to-text-dansk) [Voice to Text Deutsch](https://voicetotext.org/speech-to-text-deutsch) [Voice to Text Dutch](https://voicetotext.org/speech-to-text-dutch) [Voice to Text English](https://voicetotext.org/speech-to-text) [Voice to Text Filipino](https://voicetotext.org/speech-to-text-filipino) [Voice to Text Finnish](https://voicetotext.org/speech-to-text-finnish) [Voice to Text French](https://voicetotext.org/speech-to-text-french) [Voice to Text Greek](https://voicetotext.org/speech-to-text-greek)
+
+[Voice to Text Hindi](https://voicetotext.org/speech-to-text-hindi) [Voice to Text Hungarian](https://voicetotext.org/speech-to-text-hungarian) [Voice to Text indonesia](https://voicetotext.org/speech-to-text-indonesia) [Voice to Text Italiano](https://voicetotext.org/speech-to-text-italiano) [Voice to Text Japanese](https://voicetotext.org/speech-to-text-japanese) [Voice to Text Khmer](https://voicetotext.org/speech-to-text-khmer) [Voice to Text Korean](https://voicetotext.org/speech-to-text-korean) [Voice to Text Malay](https://voicetotext.org/speech-to-text-malay) [Voice to Text Marathi](https://voicetotext.org/speech-to-text-marathi) [Voice to Text Norwegian](https://voicetotext.org/speech-to-text-norwegian) [Voice to Text Polish](https://voicetotext.org/speech-to-text-polish)
+
+[Voice to Text Portuguese](https://voicetotext.org/speech-to-text-portuguese) [Voice to Text Romanian](https://voicetotext.org/speech-to-text-romanian) [Voice to Text Russian](https://voicetotext.org/speech-to-text-russian) [Voice to Text Spanish](https://voicetotext.org/speech-to-text-spanish) [Voice to Text Swedish](https://voicetotext.org/speech-to-text-swedish) [Voice to Text Thai](https://voicetotext.org/speech-to-text-thai) [Voice to Text Turkish](https://voicetotext.org/speech-to-text-turkish) [Voice to Text Ukrainian](https://voicetotext.org/speech-to-text-ukrainian) [Voice to Text Vietnamese](https://voicetotext.org/speech-to-text-vietnamese)
+
+Close
+
 [](#)
-
-![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
-
-x
-
-x
