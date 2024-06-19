@@ -1,8 +1,8 @@
 [](https://www.op.gg/)
 
-![](https://s-opgg-kit.op.gg/gnb/config/images/icon/bfa5abe2f78d6e9a55e81c9988c31442.svg?image=q_auto:good,f_png,w_48,h_48)Stats![](https://s-opgg-kit.op.gg/gnb/config/images/icon/f716f47e658f27f0261febb5fa52260d.svg?image=q_auto:good,f_png,w_48,h_48)
+![](https://s-opgg-kit.op.gg/gnb/config/images/icon/bfa5abe2f78d6e9a55e81c9988c31442.svg?image=q_auto:good,f_png,w_48,h_48)Stats![](https://s-opgg-kit.op.gg/gnb/config/images/icon/f716f47e658f27f0261febb5fa52260d.svg?image=q_auto:good,f_png,w_48,h_48)League of Legends
 
-[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/f716f47e658f27f0261febb5fa52260d.svg?image=q_auto:good,f_png)League of Legends](https://op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/5cc224f533a183d42d8bc3a6099b3946.svg?image=q_auto:good,f_png)Teamfight Tactics](https://tft.op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/48b77034b230d745cef6a9e3692f835e.svg?image=q_auto:good,f_png)Valorant](https://valorant.op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/783699c9543219536d80ed7193931e07.svg?image=q_auto:good,f_png)OVERWATCH2](https://overwatch.op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/037088981bc4f247e2f494750e61f443.svg?image=q_auto:good,f_png)PUBG](https://pubg.op.gg/)
+[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/f716f47e658f27f0261febb5fa52260d.svg?image=q_auto:good,f_png,w_48,h_48)League of Legends](https://op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/5cc224f533a183d42d8bc3a6099b3946.svg?image=q_auto:good,f_png,w_48,h_48)Teamfight Tactics](https://tft.op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/48b77034b230d745cef6a9e3692f835e.svg?image=q_auto:good,f_png,w_48,h_48)Valorant](https://valorant.op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/783699c9543219536d80ed7193931e07.svg?image=q_auto:good,f_png,w_48,h_48)OVERWATCH2](https://overwatch.op.gg/) [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/037088981bc4f247e2f494750e61f443.svg?image=q_auto:good,f_png,w_48,h_48)PUBG](https://pubg.op.gg/)
 
 [![](https://s-opgg-kit.op.gg/gnb/config/images/thumbnail/209f2201124ebc33401e582896eaaab9.png?image=q_auto:good,f_png,w_496,h_280)![](https://s-opgg-kit.op.gg/gnb/config/images/thumbnail/46a00fcb04377c2ff9557c7d2c57b582.png?image=q_auto:good,f_png,w_496,h_280)![](https://s-opgg-kit.op.gg/gnb/config/images/thumbnail/575245486ee887c412d47c8ae3bc8cf5.png?image=q_auto:good,f_png,w_496,h_280)![](https://s-opgg-kit.op.gg/gnb/config/images/thumbnail/35e002a088e8168d6048f00a1c2ae157.png?image=q_auto:good,f_png,w_496,h_280)![](https://s-opgg-kit.op.gg/gnb/config/images/thumbnail/9514304810a8dc99e7dfc23d705812c3.png?image=q_auto:good,f_png,w_496,h_280)![](https://s-opgg-kit.op.gg/gnb/config/images/thumbnail/011f0f99455ae793bcc4f159056e675c.png?image=q_auto:good,f_png,w_496,h_280)
 
@@ -18,12 +18,12 @@ Stats
 
 [![](https://s-opgg-kit.op.gg/gnb/config/images/icon/93dc7e79dd2b842b7c9dd86acab04acf.svg?image=q_auto:good,f_png,w_96,h_96)Desktop](https://op.gg/desktop/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/058928c9b0da0c9833f279f65e9bffe9.svg?image=q_auto:good,f_png,w_96,h_96)Duo](https://duo.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/04a40f3b0d664bf4478e2f215f448f3c.svg?image=q_auto:good,f_png,w_96,h_96)TalkG](https://talk.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/06f2c5c6f57cb212a207eb1d8f1b2160.svg?image=q_auto:good,f_png,w_96,h_96)Esports](https://esports.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_96,h_96)BetaGames](https://games.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/08664e3f401569aca5e12eec15695421.svg?image=q_auto:good,f_png,w_96,h_96)NewGigs](https://gigs.op.gg/)
 
-* Contact Us
+* Contact us
 * Help Center
 
 EN
 
-Login
+Sign in
 
 [](https://www.op.gg/)
 
@@ -37,12 +37,12 @@ SearchGame Name +#EUW
 
 * [Home](https://www.op.gg/)
 * [Champions](https://www.op.gg/champions)
-* [Game Mode](https://www.op.gg/modes/aram)
+* [Game modes](https://www.op.gg/modes/aram)
 * [Arena](https://www.op.gg/modes/arena)
 * [Stats](https://www.op.gg/statistics/champions)
 * [Leaderboards](https://www.op.gg/leaderboards/tier)
-* [Pro Matches](https://www.op.gg/spectate/live/pro-gamer)
-* [Multi-Search](https://www.op.gg/multisearch)
+* [Pro spectate](https://www.op.gg/spectate/live/pro-gamer)
+* [Multi-search](https://www.op.gg/multisearch)
 
 * [My Page](https://www.op.gg/mypage/dashboard)
 
@@ -172,7 +172,7 @@ On termination, you loses the right to edit or delete all posts uploaded in the 
 
 **OP.GG**
 
-[About OP.GG](https://www.op.gg/about)[Company](https://log.op.gg/company_en)[Blog](https://log.op.gg/)[Logo History](https://www.op.gg/logos)
+[About OP.GG](https://www.op.gg/about)[Company](https://log.op.gg/company_en)[Blog](https://log.op.gg/)[Logo history](https://www.op.gg/logos)
 
 **Products**
 
@@ -184,11 +184,11 @@ On termination, you loses the right to edit or delete all posts uploaded in the 
 
 **Resources**
 
-[**Privacy Policy**](https://www.op.gg/policies/privacy)[Terms of Use](https://www.op.gg/policies/agreement)[Help](https://opgg.helpscoutdocs.com/collection/1-opgg)[Email Inquiry](mailto:service@op.gg)Contact Us
+[**Privacy Policy**](https://www.op.gg/policies/privacy)[Terms of Use](https://www.op.gg/policies/agreement)[Help](https://opgg.helpscoutdocs.com/collection/1-opgg)[Email inquiry](mailto:service@op.gg)Contact us
 
 **More**
 
-[Business](mailto:contact@op.gg)[Advertise](https://opgg.notion.site/Advertising-on-OP-GG-47e02da6b7eb438288730c92c14ef8f0)
+[Business](mailto:contact@op.gg)[Advertise](https://opgg.notion.site/Advertising-on-OP-GG-47e02da6b7eb438288730c92c14ef8f0)[Recruit](https://opgg.team/?lang=en)
 
 © 2012-2024 OP.GG. OP.GG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
