@@ -6,9 +6,9 @@
 
 [Skip to content](#content)
 
-Sunday, June 9, 2024
+Tuesday, June 18, 2024
 
- [![](https://www.accuweather.com/images/weathericons/3.svg) 66°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+ [![](https://www.accuweather.com/images/weathericons/2.svg) 64°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 [Sign Out](javascript:newzware_doLogout();) [Sign In](javascript:void(0)) [Subscribe](https://www.kitsapdailynews.com/subscribe/) [Newsletter](https://www.kitsapdailynews.com/newsletters/) [Contact Us](https://www.kitsapdailynews.com/contact/)[](https://www.facebook.com/KitsapDailyNews/ "Find Us On Facebook")[](https://twitter.com/KitsapDailyNews/ "Find Us On Twitter")[](https://www.instagram.com/KitsapDailyNews/ "Find Us On Instagam")[](https://www.kitsapdailynews.com/feed/ "Access Our RSS Feed")
 
@@ -68,7 +68,7 @@ Sunday, June 9, 2024
     * [Transportation](https://sound.ipublishmarketplace.com/washington/category/vehicles-transportation/)
     * [Legal Notices](http://www.wapublicnotices.com/)
     * [Place a Legal Notice](https://www.kitsapdailynews.com/place-legal-notice/)
-* [Print Editions](#)
+* [e-Editions](#)
     * [Port Orchard Independent](https://www.kitsapdailynews.com/print-editions-port-orchard/)
     * [Central Kitsap Reporter](https://www.kitsapdailynews.com/print-editions-central-kitsap/)
     * [North Kitsap Herald](https://www.kitsapdailynews.com/print-editions-north-kitsap/)
@@ -87,9 +87,9 @@ Sunday, June 9, 2024
 
 [](https://www.kitsapdailynews.com/)
 
-[![](https://www.accuweather.com/images/weathericons/3.svg)
+[![](https://www.accuweather.com/images/weathericons/2.svg)
 
-66°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+64°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 Submit search 
 
@@ -145,7 +145,7 @@ Submit search
                 * [Transportation](https://sound.ipublishmarketplace.com/washington/category/vehicles-transportation/)
                 * [Legal Notices](http://www.wapublicnotices.com/)
                 * [Place a Legal Notice](https://www.kitsapdailynews.com/place-legal-notice/)
-            * [Print Editions](#)
+            * [e-Editions](#)
                 * [Port Orchard Independent](https://www.kitsapdailynews.com/print-editions-port-orchard/)
                 * [Central Kitsap Reporter](https://www.kitsapdailynews.com/print-editions-central-kitsap/)
                 * [North Kitsap Herald](https://www.kitsapdailynews.com/print-editions-north-kitsap/)
