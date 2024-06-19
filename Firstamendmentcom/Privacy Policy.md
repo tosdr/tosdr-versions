@@ -292,18 +292,15 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![WaltersLawGroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/WaltersLawGroup/ "@WaltersLawGroup")
 
-[Retweet on Twitter](https://twitter.com/intent/user?screen_name=WaltersLawGroup) [Walters Law Group Retweeted](https://twitter.com/walterslawgroup)
+[![walterslawgroup](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
 
-[![myadultattorney](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
+![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-![myadultattorney](https://pbs.twimg.com/profile_images/713488698357248000/QrY7LxXt_normal.jpg)](https://twitter.com/myadultattorney)[Corey D. Silverstein, Esq.](https://twitter.com/myadultattorney) [@myadultattorney](https://twitter.com/myadultattorney) ·
+[7 Jun](https://twitter.com/walterslawgroup/status/1799083689336557841)
 
-[16 May](https://twitter.com/myadultattorney/status/1791229394641469929)
+New article on Cosplay and the law by our associate attorney @DJturnedJD https://www.feslr.com/\_files/ugd/c00664\_85e129290463492aaadf72a86a04080e.pdf
 
-I’m very proud to be part of the legal team with @WaltersLawGroup in representing @WoodhullFreedom and @EFF to ask the United States Supreme Court to take on Texas’ unconstitutional age verification law.  
-  
-
-[Reply on Twitter 1791229394641469929](https://twitter.com/intent/tweet?in_reply_to=1791229394641469929&related=myadultattorney) [Retweet on Twitter 1791229394641469929 4](https://twitter.com/intent/retweet?tweet_id=1791229394641469929&related=myadultattorney) [Like on Twitter 1791229394641469929 12](https://twitter.com/intent/like?tweet_id=1791229394641469929&related=myadultattorney) [Twitter 1791229394641469929](https://twitter.com/myadultattorney/status/1791229394641469929)
+[Reply on Twitter 1799083689336557841](https://twitter.com/intent/tweet?in_reply_to=1799083689336557841&related=walterslawgroup) [Retweet on Twitter 1799083689336557841 2](https://twitter.com/intent/retweet?tweet_id=1799083689336557841&related=walterslawgroup) [Like on Twitter 1799083689336557841 3](https://twitter.com/intent/like?tweet_id=1799083689336557841&related=walterslawgroup) [Twitter 1799083689336557841](https://twitter.com/walterslawgroup/status/1799083689336557841)
 
 [Load More](javascript:void(0);)
 
