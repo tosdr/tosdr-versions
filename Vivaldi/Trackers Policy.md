@@ -89,7 +89,7 @@ Vivaldi hjálparsíður
 
 **Vafri**
 
-* [Borðtölva](https://vivaldi.com/is/features/)
+* [Borðtölva](https://vivaldi.com/is/desktop/)
 * [Android](https://vivaldi.com/is/android/)
 * [iOS](https://vivaldi.com/is/ios/)
 * [Automotive](https://vivaldi.com/is/android/automotive/)
