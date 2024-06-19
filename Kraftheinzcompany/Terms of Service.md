@@ -27,13 +27,13 @@ Toggle navigation [![logo](images/logo_main.png)](https://www.kraftheinzcompany.
     * [Email Alerts](https://ir.kraftheinzcompany.com/email-alerts)
     * [Investors Contacts](https://ir.kraftheinzcompany.com/contact-us)
     * [Political Activity](https://www.kraftheinzcompany.com/contributions.html)
-* [Careers](https://kraftheinz.avature.net/careers/Home)
-    * [About Us](https://kraftheinz.avature.net/careers/AboutUs)
-    * [Culture](https://kraftheinz.avature.net/careers/Culture)
-    * [Teams](https://kraftheinz.avature.net/careers/OurTeams)
-    * [Locations](https://kraftheinz.avature.net/careers/Locations)
-    * [Students & Graduates](https://kraftheinz.avature.net/careers/StudentsPrograms)
-    * [Apply](https://kraftheinz.avature.net/careers/SearchJobs)
+* [Careers](https://careers.kraftheinz.com/)
+    * [About Us](https://careers.kraftheinz.com/about-us/)
+    * [Culture](https://careers.kraftheinz.com/culture/)
+    * [Teams](https://careers.kraftheinz.com/about-us/#ourteams)
+    * [Locations](https://careers.kraftheinz.com/#localglobal)
+    * [Students & Graduates](https://careers.kraftheinz.com/early-careers/)
+    * [Apply](https://careers.kraftheinz.com/job-search-results/)
 
 User Agreement
 ==============
