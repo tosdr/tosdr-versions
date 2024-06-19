@@ -41,6 +41,7 @@ Continue to My Account
 
 * [United States of America](https://www.lockandstock.app/courses?countries=United%20States%20of%20America)
 * [United Kingdom](https://www.lockandstock.app/courses?countries=United%20Kingdom)
+* [Ireland](https://www.lockandstock.app/courses?countries=Ireland)
 * [United Arab Emirates](https://www.lockandstock.app/courses?countries=United%20Arab%20Emirates)
 
 * Back
@@ -56,7 +57,6 @@ Continue to My Account
 * Back
     
 
-* [SMS Awards](https://www.lockandstock.app/scholarships#secure-my-scholarship-awards)
 * [Application Week Fee Waivers](https://www.lockandstock.app/scholarships#application-week-fee-waivers)
 * [Enrolment Week Fee Waivers](https://www.lockandstock.app/scholarships#enrolment-week-fee-waivers)
 * [Exclusive PLUS Scholarships](https://www.lockandstock.app/scholarships#exclusive-plus-scholarships)
