@@ -25,7 +25,7 @@ ADVERTISEMENT
 ADVERTISEMENT
 
 Privacy Policy
---------------
+==============
 
 [Definition.org](https://definition.org/) (“Defintion.org,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. This Privacy Policy discloses the privacy practices for the website at www.Defintion.org and various related services (together referred to as the “Site”). All visitors to, or users of, the Site are referred to individually, as “You” or “Your.”
 
