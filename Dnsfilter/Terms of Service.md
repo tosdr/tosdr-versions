@@ -352,35 +352,35 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
-[![The Intersection of 5G, Public Wi-Fi, and Network Security: Who’s at Risk?](https://www.dnsfilter.com/hs-fs/hubfs/blog_theintersectionof5g_publicwi_fi_andnetworksecuritywho%E2%80%99satrisk%281%291.webp?width=500&height=190&name=blog_theintersectionof5g_publicwi_fi_andnetworksecuritywho%E2%80%99satrisk%281%291.webp)
+[![Why Securing Public Wi-Fi is More Important Than Ever](https://www.dnsfilter.com/hs-fs/hubfs/blog_whysecuringpublicwi_fiismoreimportantthanever1.webp?width=500&height=190&name=blog_whysecuringpublicwi_fiismoreimportantthanever1.webp)
 
-Posted on June 3, 2024 by Kory Underdown
-
- **
-
-The Intersection of 5G, Public Wi-Fi, and Network Security: Who’s at Risk?
-
-**](https://www.dnsfilter.com/blog/compare-5g-4g-public-wi-fi-security)
-
-[![Revving up the Fun: DNSFilter's IndyCar Experience Recap —Indy 500 Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecapindy5001.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecapindy5001.webp)
-
-Posted on May 28, 2024 by Alina Gordilova
+Posted on June 17, 2024 by Anvesha Tiwary
 
  **
 
-Revving up the Fun: DNSFilter's IndyCar Experience Recap —Indy 500 Edition
+Why Securing Public Wi-Fi is More Important Than Ever
 
-**](https://www.dnsfilter.com/blog/indycar-race-recap-indy-500-2024)
+**](https://www.dnsfilter.com/blog/why-securing-public-wi-fi-is-more-important-than-ever)
 
-[![DNS Price: Total Cost of Ownership Analysis](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_masteringitbudgetshowtoconductathoroughtotalcostofownership%28tco%29analysisofyouritinfrastructure1.webp?width=500&height=190&name=newsroom_masteringitbudgetshowtoconductathoroughtotalcostofownership%28tco%29analysisofyouritinfrastructure1.webp)
+[![DNS Endpoint Security Management: Protecting Your Network's Frontline](https://www.dnsfilter.com/hs-fs/hubfs/blog_dnsendpointsecuritymanagementprotectingyournetworksfrontline1.webp?width=500&height=190&name=blog_dnsendpointsecuritymanagementprotectingyournetworksfrontline1.webp)
 
-Posted on May 22, 2024 by Kory Underdown
+Posted on June 14, 2024 by Kory Underdown
 
  **
 
-DNS Price: Total Cost of Ownership Analysis
+DNS Endpoint Security Management: Protecting Your Network's Frontline
 
-**](https://www.dnsfilter.com/blog/dns-price-total-cost-of-ownership-analysis)
+**](https://www.dnsfilter.com/blog/understanding-endpoint-management-security-services)
+
+[![An Interview With DNSFilter’s New CTO, TK Keanini](https://www.dnsfilter.com/hs-fs/hubfs/blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp?width=500&height=190&name=blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp)
+
+Posted on June 10, 2024 by Serena Raymond
+
+ **
+
+An Interview With DNSFilter’s New CTO, TK Keanini
+
+**](https://www.dnsfilter.com/blog/cto-tk-keanini-interview)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
