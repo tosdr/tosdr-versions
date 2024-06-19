@@ -367,6 +367,7 @@ Either party may change its address by providing the other party with written no
 
 * [API](https://www.exoclick.com/api/)
 * [Documentation](http://docs.exoclick.com/)
+* [Trust and Safety](https://www.exoclick.com/trust-and-safety/)
 * [Compliance](https://www.exoclick.com/compliance/)
 * [Guidelines](https://www.exoclick.com/guidelines/)
 * [Contact Us](https://www.exoclick.com/contact/)
