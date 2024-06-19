@@ -46,8 +46,8 @@ Would you like to order by phone?[0900-0102](tel:0900-0102) _25ct per dial_
 * [Deals](https://www.newyorkpizza.nl/acties "Promotion")
 * [Pizza](https://www.newyorkpizza.nl/bestellen/pizza "Pizza")
     
-    * [All _(36)_](https://www.newyorkpizza.nl/bestellen/pizza "Alle")
-    * [Deal _(6)_](https://www.newyorkpizza.nl/bestellen/pizza/actie "ACTIE")
+    * [All _(37)_](https://www.newyorkpizza.nl/bestellen/pizza "Alle")
+    * [Deal _(7)_](https://www.newyorkpizza.nl/bestellen/pizza/actie "ACTIE")
     * [Meat _(18)_](https://www.newyorkpizza.nl/bestellen/pizza/vlees "Vlees")
     * [Vegetarian _(8)_](https://www.newyorkpizza.nl/bestellen/pizza/vegetarisch "Vegetarisch")
     * [Fish _(1)_](https://www.newyorkpizza.nl/bestellen/pizza/vis "Vis")
