@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Let's Enter The New Yorker's Caption Contest!](https://www.somethingawful.com/comedy-goldmine/yorker-caption-contest/)
-* [The Absolute Worst Freddy Krueger Nightmares](https://www.somethingawful.com/news/freddy-nightmare-lame/1/)
-* [Famous Faces Turned Upside Down!](https://www.somethingawful.com/photoshop-phriday/upside-down-celebrities/1/)
-* [Jeb 'n' George!](https://www.somethingawful.com/photoshop-phriday/jeb-george-prancing/)
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Megaman Gets Equipped](https://www.somethingawful.com/photoshop-phriday/megaman-gets-equipped/1/)
+* [Advice Forums](https://www.somethingawful.com/weekend-web/advice-forums/1/)
+* [Mixed Up Movie Captions](https://www.somethingawful.com/comedy-goldmine/mixed-up-movie/1/)
+* [Post-Apocalyptic Movies](https://www.somethingawful.com/photoshop-phriday/post-apocalyptic-movies/1/)
+* [Send musicians back in time!](https://www.somethingawful.com/photoshop-phriday/modern-musicians-time/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [Attn: Indigo Children](http://forums.somethingawful.com/showthread.php?threadid=4062581 "Attn:  Indigo Children")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Making MONEY from the Olympics.](http://forums.somethingawful.com/showthread.php?threadid=4062570 "Making MONEY from the Olympics.")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [What's the longest you've watched meatspin for?](http://forums.somethingawful.com/showthread.php?threadid=4062551 "What's the longest you've watched meatspin for?")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [The President Donald John Trump Chainsaw Sculpture](http://forums.somethingawful.com/showthread.php?threadid=4062537 "The President Donald John Trump Chainsaw Sculpture")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [Tim Curry vs. Tony Jay](http://forums.somethingawful.com/showthread.php?threadid=4062525 "Tim Curry vs. Tony Jay")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Profound songs](http://forums.somethingawful.com/showthread.php?threadid=4063225 "Profound songs")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tech.png) [OceanGate: Our test sub keeps imploding. Ready for full production!](http://forums.somethingawful.com/showthread.php?threadid=4063219 "OceanGate: Our test sub keeps imploding. Ready for full production!")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Is it time to get into Hozier?](http://forums.somethingawful.com/showthread.php?threadid=4063215 "Is it time to get into Hozier?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [What the hell is going on with the collectibles market?](http://forums.somethingawful.com/showthread.php?threadid=4063198 "What the hell is going on with the collectibles market?")
 
 ### Random Articles
 
-* [Dear Joss Whedon, I'm ready to write for Dollhouse](https://www.somethingawful.com/news/dear-joss-whedon/1/)
-* [The Curse of Lizzie Borden](https://www.somethingawful.com/movie-reviews/curse-lizzie-borden/1/)
-* [ATT & SBC](https://www.somethingawful.com/awful-links/awful-link-3779/)
-* [Home Improvement](https://www.somethingawful.com/rom-pit/home-improvement/)
-* [TruthMedia Review: Natural Selection](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-natural/)
+* [Reviews of Chastity Belts & Devices](https://www.somethingawful.com/awful-links/awful-link-2500/)
+* [A Message to the Class of 2010](https://www.somethingawful.com/news/message-graduates-2010/)
+* [The Craziness You've Heard People Say in Their Sleep](https://www.somethingawful.com/comedy-goldmine/craziness-sleep/1/)
+* [The Great American Reach Around - The Northeast & The UK](https://www.somethingawful.com/news/reach-around-three/1/)
+* [Dedication](https://www.somethingawful.com/news/dedication/)
 
 [Random!](https://www.somethingawful.com/random/)
 
