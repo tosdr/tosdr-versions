@@ -33,9 +33,10 @@
         * [Blazing Fast Downloads](https://privadovpn.com/features/fast-downloads/)
         * [Control Tower Smart DNS](https://privadovpn.com/control-tower/)
         * [Secure Streaming](https://privadovpn.com/streaming/)
+        * [Antivirus](https://privadovpn.com/antivirus/)
     * * What is a VPN?
         
-        * [Free VPN](https://privadovpn.com/best-free-vpn/)
+        * [Free VPN](https://privadovpn.com/freevpn/)
         * [What is a VPN?](https://privadovpn.com/what-is-a-vpn/)
         * [VPN Split Tunneling](https://privadovpn.com/split-tunneling/)
         * [VPN vs Tor](https://privadovpn.com/vpn-vs-tor/)
@@ -61,7 +62,7 @@
     
 * [Support](https://support.privadovpn.com/home/)
 * [Blog](https://blog.privadovpn.com/)
-* [My Account](https://app.privadovpn.com/admin-panel)
+* My Account
 * [Login](https://app.privadovpn.com/sign-in)
 * [English](#)
     
