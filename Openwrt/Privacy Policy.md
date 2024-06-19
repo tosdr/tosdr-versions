@@ -79,7 +79,7 @@ This document is CC-BY-SA. It was last updated May 31, 2013.
 
 * [Home](https://forum.openwrt.org/)
 * [Categories](https://forum.openwrt.org/categories)
-* [FAQ/Guidelines](https://forum.openwrt.org/guidelines)
+* [Guidelines](https://forum.openwrt.org/guidelines)
 * [Terms of Service](https://forum.openwrt.org/tos)
 * [Privacy Policy](https://forum.openwrt.org/privacy)
 
