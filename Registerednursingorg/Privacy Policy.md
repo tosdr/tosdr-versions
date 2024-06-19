@@ -42,7 +42,7 @@
     * [Master’s of Science in Nursing (MSN) Degree](https://www.registerednursing.org/degree/msn/)
     * [RN to MSN Programs](https://www.registerednursing.org/rn-to-msn/)
     * [Accelerated MSN Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/msn/)
-    * [Direct Entry MSN Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/menp/)
+    * [(MENP) Direct Entry MSN Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/menp/)
     * [Post-Master’s Certificate](https://www.registerednursing.org/post-masters-certificate/)
 * [DNP Degree](https://www.registerednursing.org/degree/dnp/)
     * [Best DNP Programs](https://www.registerednursing.org/degree/dnp/)
@@ -50,7 +50,7 @@
     * [– Affordable DNP Program Options](https://www.registerednursing.org/articles/most-affordable-dnp-programs/)
     * [Best BSN to DNP Programs](https://www.registerednursing.org/bsn-to-dnp/)
     * [Best PhD in Nursing Programs](https://www.registerednursing.org/degree/phd/)
-* Nurse Practitioner
+* [Nurse Practitioner](https://www.registerednursing.org/nurse-practitioner/)
     * [Steps to Become a Nurse Practitioner](https://www.registerednursing.org/nurse-practitioner/)
     * [– Acute Care Nurse Practitioner (ACNP)](https://www.registerednursing.org/nurse-practitioner/acnp/)
     * [– Adult Gerontology Nurse Practitioner (AGNP)](https://www.registerednursing.org/nurse-practitioner/gerontology/)
@@ -96,7 +96,25 @@
 Privacy Policy
 ==============
 
-Jump to Page SectionINTRODUCTIONSCOPE OF THIS PRIVACY POLICYGEOGRAPHIC RESTRICTIONINFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT ITUSE OF YOUR INFORMATIONDISCLOSURE OF YOUR INFORMATIONRETENTION OF INFORMATIONCOOKIES AND OTHER TRACKING TECHNOLOGIESTHIRD PARTIESCHOICES AND OPT-OUT RIGHTSACCESSING AND RIGHTS REGARDING YOUR PERSONAL INFORMATIONSENSITIVE INFORMATIONSECURITYCHILDRENCHANGES TO OUR PRIVACY POLICYCONTACT INFORMATIONCALIFORNIA PRIVACY NOTICE FOR CALIFORNIA RESIDENTS
+Go to Page Section:
+
+* [INTRODUCTION](#introduction)
+* [SCOPE OF THIS PRIVACY POLICY](#scope-privacy-policy)
+* [GEOGRAPHIC RESTRICTION](#geographic-restriction)
+* [INFORMATION WE COLLECT ABOUT YOU AND HOW WE COLLECT IT](#information-collect-collect)
+* [USE OF YOUR INFORMATION](#use-information)
+* [DISCLOSURE OF YOUR INFORMATION](#disclosure-information)
+* [RETENTION OF INFORMATION](#retention-information)
+* [COOKIES AND OTHER TRACKING TECHNOLOGIES](#cookies-tracking-technologies)
+* [THIRD PARTIES](#third-parties)
+* [CHOICES AND OPT-OUT RIGHTS](#choices-opt-rights)
+* [ACCESSING AND RIGHTS REGARDING YOUR PERSONAL INFORMATION](#accessing-rights-regarding-personal-information)
+* [SENSITIVE INFORMATION](#sensitive-information)
+* [SECURITY](#security)
+* [CHILDREN](#children)
+* [CHANGES TO OUR PRIVACY POLICY](#changes-privacy-policy)
+* [CONTACT INFORMATION](#contact-information)
+* [CALIFORNIA PRIVACY NOTICE FOR CALIFORNIA RESIDENTS](#california-privacy-notice-california-residents)
 
 LAST MODIFIED AND REVIEWED: December 16, 2023
 
@@ -500,8 +518,6 @@ We will not discriminate against you for exercising any of your CCPA rights. Unl
 * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 However, we may offer you certain financial incentives permitted by the CCPA that **can result** in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value to the Company and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt-in consent, which you may revoke at any time. Currently, we do not provide any financial incentives to our users.
-
-Share This:[Facebook](https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.registerednursing.org%2Fprivacy-policy%2F)[Twitter](https://twitter.com/intent/tweet/?text=Privacy+Policy&url=https%3A%2F%2Fwww.registerednursing.org%2Fprivacy-policy%2F)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.registerednursing.org%2Fprivacy-policy%2F&title=Privacy+Policy&source=https%3A%2F%2Fwww.registerednursing.org%2Fprivacy-policy%2F)[Reddit](https://reddit.com/submit/?url=https%3A%2F%2Fwww.registerednursing.org%2Fprivacy-policy%2F&resubmit=true&title=Privacy+Policy)
 
 ##### [Nursing Schools Near Me](https://www.registerednursing.org/schools/)
 
