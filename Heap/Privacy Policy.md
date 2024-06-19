@@ -26,6 +26,7 @@ Toggle Main Navigation
     * [Heatmaps Visualize user behavior instantly](https://heap.io/platform/heatmaps)
     * [Heap Illuminate Data science that pinpoints unknown friction](https://heap.io/platform/illuminate)
     * [Journeys Visual maps of all user flows](https://heap.io/platform/journey-maps)
+    * [AI CoPilot Analytics for everyone](https://heap.io/platform/artificial-intelligence)
     
     Data Analysis
     
