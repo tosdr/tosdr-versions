@@ -12,7 +12,7 @@ Here are the [instructions how to enable JavaScript in your web browser](https:/
         * [Shortcut to most common transactions](http://cshare.us/irhx)
         * [Log in to Investor Center](https://www-us.computershare.com/Investor)
         * [Transfer my stock](https://www-us.computershare.com/TransferWizard/default.aspx)
-        * [Make a stock purchase](https://www-us.computershare.com/Investor/#DirectStock)
+        * [Make a stock purchase](https://www-us.computershare.com/Investor/DirectStock)
         * [Access your tax forms](https://www-us.computershare.com/SMS/#Statements/Statements)
         * [Help for shareholders](http://cshare.us/irhx)
         * [Fraud prevention tips](https://www.computershare.com/us/anti-fraud)
