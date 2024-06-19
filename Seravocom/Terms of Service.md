@@ -220,7 +220,8 @@ Kauppakatu 3 A 4
 FI-33200 Tampere  
 Finland
 
-**help@seravo.com**
+help@seravo.com  
++358 44 777 0020
 
 ### Seravo
 
@@ -246,6 +247,7 @@ Finland
 * [Secure](https://seravo.com/en/features/secure/)
 * [Green](https://seravo.com/en/features/green/)
 * [Real](https://seravo.com/en/features/real/)
+* [Compare](https://seravo.com/en/compare/)
 
 ### Partners
 
@@ -254,11 +256,11 @@ Finland
 
 ### Resources
 
+* [Start Here](https://seravo.com/en/start-here/)
 * [Support](https://seravo.com/en/help/)
 * [Developer Docs](https://seravo.com/docs/)
 * [Service Status](https://status.seravo.com/)
 * [Security FAQ](https://seravo.com/en/wordpress-security-faq/)
-* [Compare](https://seravo.com/en/compare/)
 
 newsletter
 
