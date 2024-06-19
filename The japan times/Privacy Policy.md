@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[June 09, 2024](https://www.japantimes.co.jp/archive/2024/06/09/ "archive page")
+[June 19, 2024](https://www.japantimes.co.jp/archive/2024/06/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [China geopolitics](https://www.japantimes.co.jp/tag/china// "China geopolitics")
-* [Fumio Kishida](https://www.japantimes.co.jp/tag/fumio-kishida// "Fumio Kishida")
-* [Japan crime](https://www.japantimes.co.jp/news/japan/crime-legal// "Japan crime")
+* [Tokyo governor race](https://www.japantimes.co.jp/tag/2024-tokyo-gubernatorial-election/ "Tokyo governor race")
+* [Kim-Putin summit](https://www.japantimes.co.jp/tag/north-korea/ "Kim-Putin summit")
+* [Japan economy](https://www.japantimes.co.jp/tag/japanese-economy/ "Japan economy")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive Podcast](https://www.japantimes.co.jp/podcast/deep-dive/ "Deep Dive Podcast")
 
@@ -463,45 +463,45 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Photos of Emperor Naruhito's family released](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
+[Rare tissue-damaging bacteria spreads in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
-  [![Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401734.jpg&w=400&q=100&f=jpg&t=1.2 "Emperor Naruhito, Empress Masako and Princess Aiko enjoy cycling at the Imperial Stock Farm in Tochigi Prefecture in May.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/imperial-family-photos/ "Photos of Emperor Naruhito's family released")
+  [![Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/15/403395.jpg&w=400&q=100&f=jpg&t=1.2 "Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.")](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
-[Japanese man fatally stabbed in Canada](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
+[Japan team succeeds in muon reacceleration in major breakthrough](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
 
-  [![A street in Vancouver, Canada.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401937.jpg&w=400&q=100&f=jpg&t=1.2 "A street in Vancouver, Canada.")](https://www.japantimes.co.jp/news/2024/06/07/japan/crime-legal/japanese-stabbed-vancouver/ "Japanese man fatally stabbed in Canada")
+  [![Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/16/403555.jpg&w=400&q=100&f=jpg&t=1.2 "Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.")](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
 
-[Kishida could break with Motegi and Aso over fund regulation](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+[France's Le Pen says she will work with Macron to appeal to moderates](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
 
-  [![Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401747.jpg&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.")](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+  [![Marine Le Pen speaks during a European election campaign rally in Paris on June 2.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/17/403587.jpg&w=400&q=100&f=jpg&t=1.2 "Marine Le Pen speaks during a European election campaign rally in Paris on June 2.")](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
 
-[Japan's consumer watchdog warns of accidents in the sauna](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-  [![Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401790.jpg&w=400&q=100&f=jpg&t=1.2 "Amid the rising popularity of saunas, the Consumer Affairs Agency is urging users to exercise caution following a spike in the number of sauna-related accidents.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/sauna-accidents/ "Japan's consumer watchdog warns of accidents in the sauna")
+  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-[Kishida maintains 2037 target for Tokyo-Osaka maglev line](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+[Nagoya hospital error results in high school student’s death](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
 
-  [![Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401881.jpg&w=400&q=100&f=jpg&t=1.2 "Shizuoka Gov. Yasutomo Suzuki (left) meets with JR Central President Shunsuke Niwa in the city of Shizuoka on June 5.")](https://www.japantimes.co.jp/news/2024/06/07/japan/society/maglev2037kishida/ "Kishida maintains 2037 target for Tokyo-Osaka maglev line")
+  [![A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403898.jpg&w=400&q=100&f=jpg&t=1.2 "A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.")](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
 
-[Kishida could break with Motegi and Aso over fund regulation](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-  [![Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/07/401747.jpg&w=400&q=100&f=jpg&t=1.2 "Liberal Democratic Party Vice President Taro Aso (left), Prime Minister Fumio Kishida (center) and LDP Secretary-General Toshimitsu Motegi sing the LDP song at the party's annual convention in Tokyo on March 17.")](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-motegi-aso-friction/ "Kishida could break with Motegi and Aso over fund regulation")
+  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
 
-[Fumble with Nippon Ishin over funding vote adds to Kishida's predicament](https://www.japantimes.co.jp/news/2024/06/04/japan/politics/kishida-ishin-bill/ "Fumble with Nippon Ishin over funding vote adds to Kishida's predicament")
+[Koike and Renho take aim at Tokyo's declining birth rate](https://www.japantimes.co.jp/news/2024/06/18/japan/politics/koike-renho-campaign-promise/ "Koike and Renho take aim at Tokyo's declining birth rate")
 
-  [![In a meeting with Nippon Ishin no Kai head Nobuyuki Baba (left) in Tokyo last Friday, Prime Minister Fumio Kishida had secured a formal endorsement of the Liberal Democratic Party's proposed revisions for the political funding law.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/04/401084.jpg&w=400&q=100&f=jpg&t=1.2 "In a meeting with Nippon Ishin no Kai head Nobuyuki Baba (left) in Tokyo last Friday, Prime Minister Fumio Kishida had secured a formal endorsement of the Liberal Democratic Party's proposed revisions for the political funding law.")](https://www.japantimes.co.jp/news/2024/06/04/japan/politics/kishida-ishin-bill/ "Fumble with Nippon Ishin over funding vote adds to Kishida's predicament")
+  [![Renho (left) and incumbent Tokyo Gov. Yuriko Koike are both pushing for child care policies in their campaign pledges for the Tokyo gubernatorial election next month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/404028.jpg&w=400&q=100&f=jpg&t=1.2 "Renho (left) and incumbent Tokyo Gov. Yuriko Koike are both pushing for child care policies in their campaign pledges for the Tokyo gubernatorial election next month.")](https://www.japantimes.co.jp/news/2024/06/18/japan/politics/koike-renho-campaign-promise/ "Koike and Renho take aim at Tokyo's declining birth rate")
 
-[India’s Modi gets Pyrrhic poll victory as challenges loom for BJP](https://www.japantimes.co.jp/news/2024/06/05/asia-pacific/politics/india-election-modi-analysis/ "India’s Modi gets Pyrrhic poll victory as challenges loom for BJP")
+[NATO chief says more members to hit 2% of GDP defense spending target](https://www.japantimes.co.jp/news/2024/06/18/world/politics/nato-defense-spending-gdp-china/ "NATO chief says more members to hit 2% of GDP defense spending target")
 
-  [![Indian Prime Minister Narendra Modi flashes victory signs as he arrives at the Bharatiya Janata Party headquarters in New Delhi late Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/05/401347.JPG&w=400&q=100&f=jpg&t=1.2 "Indian Prime Minister Narendra Modi flashes victory signs as he arrives at the Bharatiya Janata Party headquarters in New Delhi late Tuesday.")](https://www.japantimes.co.jp/news/2024/06/05/asia-pacific/politics/india-election-modi-analysis/ "India’s Modi gets Pyrrhic poll victory as challenges loom for BJP")
+  [![NATO Secretary-General Jens Stoltenberg speaks to the media outside of the West Wing of the White House in Washington on Monday following a meeting with U.S. President Joe Biden.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403895.jpg&w=400&q=100&f=jpg&t=1.2 "NATO Secretary-General Jens Stoltenberg speaks to the media outside of the West Wing of the White House in Washington on Monday following a meeting with U.S. President Joe Biden.")](https://www.japantimes.co.jp/news/2024/06/18/world/politics/nato-defense-spending-gdp-china/ "NATO chief says more members to hit 2% of GDP defense spending target")
 
-[35 years on, Tiananmen memory eroded by Chinese censorship and Sino-U.S. rivalry](https://www.japantimes.co.jp/news/2024/06/04/asia-pacific/politics/tiananmen-crackdown-35th-anniversary/ "35 years on, Tiananmen memory eroded by Chinese censorship and Sino-U.S. rivalry")
+[Japanese Olympians to beat heat with own AC despite Paris' plans for green Games](https://www.japantimes.co.jp/olympics/2024/06/17/japan-air-conditioning-paris-olympics/ "Japanese Olympians to beat heat with own AC despite Paris' plans for green Games")
 
-  [![Visitors take pictures in a booth showing photographs before a rally to commemorate the 35th anniversary of Beijing's Tiananmen Square crackdowns, at the Library Square in Taipei on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/04/401134.jpg&w=400&q=100&f=jpg&t=1.2 "Visitors take pictures in a booth showing photographs before a rally to commemorate the 35th anniversary of Beijing's Tiananmen Square crackdowns, at the Library Square in Taipei on Tuesday.")](https://www.japantimes.co.jp/news/2024/06/04/asia-pacific/politics/tiananmen-crackdown-35th-anniversary/ "35 years on, Tiananmen memory eroded by Chinese censorship and Sino-U.S. rivalry")
+  [![Temperatures in Paris could exceed 30 degrees on many days during the 2024 Games.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/17/403689.jpg&w=400&q=100&f=jpg&t=1.2 "Temperatures in Paris could exceed 30 degrees on many days during the 2024 Games.")](https://www.japantimes.co.jp/olympics/2024/06/17/japan-air-conditioning-paris-olympics/ "Japanese Olympians to beat heat with own AC despite Paris' plans for green Games")
 
-[Japanese volleyball’s fastest growing fan base — female superfans](https://www.japantimes.co.jp/sports/2024/06/04/more-sports/japan-female-volley-super-fans/ "Japanese volleyball’s fastest growing fan base — female superfans")
+[Japan’s gamified environment apps target a greener mindset](https://www.japantimes.co.jp/environment/2024/06/16/sustainability/gamification-environment-apps-japan/ "Japan’s gamified environment apps target a greener mindset")
 
-  [![Fans cheer after Japan's men's volleyball team qualified for the Paris Olympics on Oct. 7 at Yoyogi National Gymnasium in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/04/400418.jpg&w=400&q=100&f=jpg&t=1.2 "Fans cheer after Japan's men's volleyball team qualified for the Paris Olympics on Oct. 7 at Yoyogi National Gymnasium in Tokyo.")](https://www.japantimes.co.jp/sports/2024/06/04/more-sports/japan-female-volley-super-fans/ "Japanese volleyball’s fastest growing fan base — female superfans")
+  [![A person uses a tong with a camera and GPS system attached to pick up litter, part of an initiative to boost participation in collecting trash.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/16/403153.jpg&w=400&q=100&f=jpg&t=1.2 "A person uses a tong with a camera and GPS system attached to pick up litter, part of an initiative to boost participation in collecting trash.")](https://www.japantimes.co.jp/environment/2024/06/16/sustainability/gamification-environment-apps-japan/ "Japan’s gamified environment apps target a greener mindset")
 
 Podcast
 -------
@@ -513,18 +513,18 @@ Podcast
 Longform
 --------
 
-  [![The view from the top of one of the five 70-meter-deep shafts spread across the tunnel system of the ¥230 billion Metropolitan Area Outer Underground Discharge Channel.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/02/399939.jpg&w=400&q=100&f=jpg&t=1.2 "The view from the top of one of the five 70-meter-deep shafts spread across the tunnel system of the ¥230 billion Metropolitan Area Outer Underground Discharge Channel.")](https://www.japantimes.co.jp/news/2024/06/03/japan/society/tokyo-underground-flooding-tunnel/ "Tokyo underground: Exploring what lies beneath the world’s largest city")
+  [![Father's Day is said to have come to Japan around 1950, shortly after the establishment of Mother's Day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/14/402581.jpg&w=400&q=100&f=jpg&t=1.2 "Father's Day is said to have come to Japan around 1950, shortly after the establishment of Mother's Day. ")](https://www.japantimes.co.jp/news/2024/06/15/japan/society/japan-fathers-marriage-depopulation/ "The evolving nature of fatherhood in Japan")
 
-[Tokyo underground: Exploring what lies beneath the world’s largest city](https://www.japantimes.co.jp/news/2024/06/03/japan/society/tokyo-underground-flooding-tunnel/ "Tokyo underground: Exploring what lies beneath the world’s largest city")
+[The evolving nature of fatherhood in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/society/japan-fathers-marriage-depopulation/ "The evolving nature of fatherhood in Japan")
 
 By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[In Tokachi, a food supply chain for ‘receiving life’](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
+[Destination Restaurants express the land of Japan](https://sustainable.japantimes.com/magazine/vol36/36-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "Destination Restaurants express the land of Japan")
 
-[![In Tokachi, a food supply chain for ‘receiving life’](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_04_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
+[![Destination Restaurants express the land of Japan](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_01_03-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "Destination Restaurants express the land of Japan")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,15 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Kishida faces tough time constraints in parliament after bill's delay](https://www.japantimes.co.jp/news/2024/06/08/japan/politics/kishida-diet-time-constraints/ "Kishida faces tough time constraints in parliament after bill's delay")
+[Japan’s GMO takes aim at labor shortage with AI and robotics company](https://www.japantimes.co.jp/business/2024/06/19/companies/gmo-ai-robots/ "Japan’s GMO takes aim at labor shortage with AI and robotics company")
 
-[Attacks leave Sudanese refugees stranded in Ethiopian forest](https://www.japantimes.co.jp/news/2024/06/08/world/society/sudan-refugees-stranded/ "Attacks leave Sudanese refugees stranded in Ethiopian forest")
+20 mins ago
 
-[Victims of fatal Akihabara rampage remembered 16 years on](https://www.japantimes.co.jp/news/2024/06/08/japan/crime-legal/akihabara-fatal-rampage-16-years/ "Victims of fatal Akihabara rampage remembered 16 years on")
+[U.S. approves sale of more than 1,000 ‘suicide drones’ to Taiwan](https://www.japantimes.co.jp/news/2024/06/19/asia-pacific/politics/us-taiwan-suicide-drones/ "U.S. approves sale of more than 1,000 ‘suicide drones’ to Taiwan")
 
-[The moment the Tories have long dreaded is finally upon them](https://www.japantimes.co.jp/news/2024/06/08/world/politics/uk-rishi-sunak-political-crisis/ "The moment the Tories have long dreaded is finally upon them")
+45 mins ago
 
-[Diminished Hamas switches to full insurgent mode in Gaza](https://www.japantimes.co.jp/news/2024/06/08/world/politics/diminished-hamas-insurgent-mode/ "Diminished Hamas switches to full insurgent mode in Gaza")
+[Revised guidelines drafted for investigating serious cases of school bullying](https://www.japantimes.co.jp/news/2024/06/19/japan/society/serious-bullying-cases/ "Revised guidelines drafted for investigating serious cases of school bullying")
+
+1 hours ago
+
+[Netflix uses ‘Squid Game’ playbook for untapped Southeast Asia](https://www.japantimes.co.jp/business/2024/06/19/companies/netflix-squid-game-southeast-asia/ "Netflix uses ‘Squid Game’ playbook for untapped Southeast Asia")
+
+1 hours ago
+
+[Putin and Kim eye upgraded ties as Russian leader visits North Korea](https://www.japantimes.co.jp/news/2024/06/19/asia-pacific/politics/kim-putin-summit-meeting/ "Putin and Kim eye upgraded ties as Russian leader visits North Korea")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
