@@ -51,7 +51,7 @@ Table of content
 **COOKIE POLICY**
 =================
 
-_Last Update: May 15th, 2024_
+_Last Update: June 17th, 2024_
 
 Dailymotion uses tracking technologies to operate the [**Dailymotion Service**](https://www.dailymotion.com/legal/terms?localization=en), whether accessed from the “**Dailymotion Properties**”, i.e. our website and applications, or through the Dailymotion’s Video Player embedded on third-party websites or applications. We do so either by using our own tracking technologies, or by  using that ofour **service providers**. We use trackers regardless of the type of device or operating system you access the Dailymotion Service from.
 
@@ -204,6 +204,7 @@ Below you will find a **list of the main “non-exempted cookies” used by Dail
 | **dmxid** | cookie | dmxleo.com | Advertising cookie | 10 months |
 | **dmaid** | cookie | dailymotion.com | Advertising cookie | 13 months |
 | **damd** | cookie | dailymotion.com | Advertising cookie | 12 months |
+| **Uid\_dm** | cookie | Dailymotion.com  <br>and  <br>Domain of a third party embedding Dailymotion Video Player | Advertising cookie | 13 months |
 | **N****ielsen DAR** | cookie | Nielsen ([https://secure-gl.imrworldwide.com](https://secure-gl.imrworldwide.com/)) | Analytic third-party technology deployed under Nielsen domain and used by Dailymotion to measure the ads campaigns delivered on the Dailymotion Service. | Length of the advertising campaign, but not longer than 125 days |
 | **mics\_lts** | cookie | Mediarithmics | Third party advertising cookie deployed jointly by Dailymotion and Mediarithmics to enable better understanding of the Dailymotion Service audience for further audience segmentation. | 12 months |
 | **mics-uaid** | cookie | Mediarithmics | Third party advertising cookie deployed jointly by Dailymotion and Mediarithmics to enable better understanding of the Dailymotion Service audience for further audience segmentation. | 12 months |
@@ -212,7 +213,6 @@ Below you will find a **list of the main “non-exempted cookies” used by Dail
 | **bito** | cookie | .bidr.io | Third party technology deployed under Beeswax domain and used by Dailymotion for targeted advertisement. | 13 months |
 | **bitoIsSecured** | cookie | .bidr.io | Third party technology deployed under Beeswax domain and used by Dailymotion for targeted advertisement. | 13 months |
 | **uid** | cookie | scorecardresearch.com (ComScore) | Analytic third-party cookie deployed jointly by Dailymotion and ComScore to provide  information from a neutral third-party source regarding the use of the Dailymotion Service. | 13 Months |
-| **\_gads** | cookie | dailymotion.com | Cookie associated with the DoubleClick for Publishers service from Google. Its purpose is to register what ads have been displayed to the user to prevent the same ads from being displayed too many times. | 13 months |
 
 _\* The predefined lifespan may be shortened by the browser you use. Some trackers, for technical reasons, may be presented in your browser as session cookies._
 
