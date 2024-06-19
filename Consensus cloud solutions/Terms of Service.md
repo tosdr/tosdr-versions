@@ -62,9 +62,6 @@
     * [API Connectivity](https://www.consensus.com/products/harmony/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![](https://www.consensus.com/wp-content/uploads/2021/10/Harmony-black.svg)](https://www.consensus.com/products/harmony/)
-    * [Government Cloud Fax](https://www.consensus.com/products/ecfax/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://www.consensus.com/wp-content/uploads/2020/02/ecfax-logo-singular.svg)](https://www.consensus.com/products/ecfax/)
     * [Care Coordination](https://www.consensus.com/products/all-access/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![](https://www.consensus.com/wp-content/uploads/2022/09/AllAccess-black.svg)](https://www.consensus.com/products/all-access/)
@@ -91,6 +88,15 @@
     Featured Post Container
     
     * Featured
+        
+        [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![featured event](https://www.consensus.com/wp-content/uploads/2024/05/Civitas-Website-Banner.svg)](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
+        
+        [2024 Civitas Networks for Health Annual Conference
+        
+        Learn More](https://www.civitasforhealth.org/event/2024-civitas-networks-for-health-annual-conference/)
+        
     
 * Learn
     
