@@ -543,7 +543,7 @@ The Registry Operators for the TLDs we offer and their respective policies are l
 | .pics | CentralNic Ltd | United Kingdom | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
 | .pictures | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .pizza | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
-| .pl | NASK | Poland | [https:/​/​www.dns.pl/​english/​regulations.html](https://www.dns.pl/english/regulations.html) |
+| .pl | NASK | Poland | [https:/​/​dns.pl/​en/​pl\_domain\_name\_regulations](https://dns.pl/en/pl_domain_name_regulations) |
 | .place | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .plumbing | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .plus | Identity Digital Inc. | United States | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
@@ -821,7 +821,7 @@ Here are some additional security recommendations that the Data Controller shoul
 | --- | --- |
 | [Web hosting](https://domainname.shop/web)  <br>[Read more / order](https://domainname.shop/web)  <br>[Get started](https://domainname.shop/faq?section=17)  <br>[Install Joomla](https://domainname.shop/faq?id=253)  <br>[Install WordPress](https://domainname.shop/faq?id=220) | [Help](https://domainname.shop/support)  <br>[Frequently asked questions](https://domainname.shop/faq)  <br>[Contact us](https://domainname.shop/contact)  <br>[Service announcements](https://domainname.shop/status)  <br>[Sign up](https://domainname.shop/order)  <br>[Price list](https://domainname.shop/pricelist) |
 
- [![](/png/picts/mail-white.png) support@domainnameshop.com](https://domainname.shop/contact) [![](/png/picts/phone-white.png) +47 2294 3333 (closed)](https://domainname.shop/contact)
+ [![](/png/picts/mail-white.png) support@domainnameshop.com](https://domainname.shop/contact) [![](/png/picts/phone-white.png) +47 2294 3333 (08-17)](https://domainname.shop/contact)
 
 [![](/png/picts/rss-white.png)](https://domainname.shop/rss/en/news.rdf)  [![](/png/picts/facebook-white.png)](https://facebook.com/domeneshop)  [![](/png/picts/x-white.png)](https://twitter.com/domeneshop)  
 
