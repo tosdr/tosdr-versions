@@ -75,7 +75,7 @@ We take our responsibility to protect your privacy very seriously. We apply stri
 1\. About this Privacy Statement
 --------------------------------
 
-* We take your privacy very seriously and are committed to ensuring the protection of your personal information, no matter where you are located. Each member of the CommBank Group collects and handles your personal information in accordance with its legal obligations, including those under the Privacy Act 1988 (Cth).
+* Each member of the CommBank Group collects and handles your personal information in accordance with its legal obligations, including those under the Privacy Act 1988 (Cth).
     
     The Commonwealth Bank of Australia and its subsidiaries (the CommBank Group) provide or distribute a wide range of banking, finance, insurance, funds management, financial planning and advice, superannuation, stockbroking and other services.
     
@@ -214,7 +214,7 @@ See ‘Who do we share your information with?’ (_Collection, use & sharing_, S
 
 * ### 2b. How do we use your information?
     
-    We’re careful about how we use your information to deliver our products and services. We also use your information for other reasons, such as to better understand you, your needs, and to let you know about other products and services you might be interested in.
+    We use your information to deliver our products and services. We also use your information for other reasons, such as to better understand you, your needs, and to let you know about other products and services you might be interested in.
     
     Here is a list of the ways we may use your personal information. 
     
@@ -249,7 +249,7 @@ We use your information to manage our operations including to:
 * deliver our products and services
 * make and manage customer payments and transactions
 * manage fees, charges and interest due on your products and services
-* collect and recover money that is owed to us
+* collect and recover money that is owed to us, this may be done through third party debt collectors and debt purchasers
 * respond to complaints and seek to resolve them
 * manage our share register and security holder records.
 
@@ -320,7 +320,7 @@ We may contact you by various means, including by mail, telephone, email, SMS or
 If you do not want to receive direct marketing offers from us, you can opt-out by:
 
 * updating your message preference settings in your online services (such as Netbank, CommBiz or CommSec)
-* contacting us using the details in _We’re here to help_, Section 6a.
+* contacting us using the details in _Further Information_, Section 6a.
 
 We may first require you to log into your NetBank account or otherwise identify yourself.
 
@@ -337,7 +337,7 @@ Description
 
 Other members of the CommBank Group
 
-We may share your information between members of the CommBank Group. This helps us offer you a high-quality customer experience. You can read about how CommBank Group members may use your information in How do we use your information? (_Collection, use & sharing_, Section 2b).
+We may share your information between members of the CommBank Group. You can read about how CommBank Group members may use your information in How do we use your information? (_Collection, use & sharing_, Section 2b).
 
 Authorised Third Parties
 
@@ -485,11 +485,9 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     ### More information
     
-    It is important that we hold accurate credit information about you. To access or correct your credit information, please contact us (see _We’re here to help_, Section 6a).
+    It is important that we hold accurate credit information about you. To access or correct your credit information, please contact us (see _Further Information_, Section 6a).
     
     You can also contact us to make an enquiry or complaint about the collection and handling of your credit information.
-    
-    [Find out more about credit reporting](https://www.commbank.com.au/support/credit-reporting.html?ei=btn_credit-reporting)
     
 * ### Credit reporting bodies
     
@@ -503,11 +501,11 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     **Preventing identity fraud:** If you think you have been, or could be, a victim of fraud you can ask the credit reporting body not to use or give anyone your credit information.
     
-    We collect from, and share information with, the following credit reporting bodies. For more information about how they handle credit reporting information they hold about you, or about direct marketing or identity fraud, you can contact them below.
+    We collect from, and share information with, the following credit reporting bodies. For more information about how they handle credit reporting information they hold about you, please visit their websites.
     
-    * Equifax Pty Ltd  [www.equifax.com.au](http://www.equifax.com.au/)
-    * Experian Australia Credit Services Pty Ltd [www.experian.com.au](http://www.experian.com.au/)
-    * Illion Australia Pty Ltd [www.illion.com.au](http://www.illion.com.au/)
+    * Equifax Pty Ltd
+    * Experian Australia Credit Services Pty Ltd
+    * Illion Australia Pty Ltd
     
 
 5\. Accessing your information
@@ -519,7 +517,7 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     **How can I access my information?**
     
-    You can ask us for a copy of your information, like your statements or transaction history, by visiting a branch, going online (such as Netbank, CommBiz or CommSec) or calling us (see _We’re here to help_, Section 6a). To get a copy of the credit information we have about you, you can visit a branch or call us.
+    You can ask us for a copy of your information, like your statements or transaction history, by visiting a branch, going online (such as Netbank, CommBiz or CommSec) or calling us (see _Further Information_, Section 6a). To get a copy of the credit information we have about you, you can visit a branch or call us.
     
     If you would like more detailed information, please fill out the [Request for Access to Personal Information Form (PDF).](https://www.commbank.com.au/content/dam/commbank/security-privacy/request-for-access-to-personal-information.pdf)
     
@@ -533,21 +531,21 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     **Can you correct or update your information?**
     
-    It’s important that we have your correct details, such as your current home address, email address and phone number. You can check or update your information at any branch, via your online services (such as Netbank, CommBiz or CommSec) or by calling us (see _We’re here to help_, Section 6a).
+    It’s important that we have your correct details, such as your current home address, email address and phone number. You can check or update your information at any branch, via your online services (such as Netbank, CommBiz or CommSec) or by calling us (see _Further Information_, Section 6a).
     
-    If you think your personal or credit information is incorrect, contact us to investigate the issue (see _We’re here to help_, Section 6a).
+    If you think your personal or credit information is incorrect, contact us to investigate the issue (see _Further Information_, Section 6a).
     
     We’ll try to respond to your request within 30 days. If we can’t, we’ll let you know why it’s taking longer.
     
     If we don’t think the information needs correcting, we’ll write to let you know why. You can ask us to include a statement with the information that says you believe it is inaccurate, incomplete, misleading or out of date.
     
 
-6\. We’re here to help
+6. Further Information
 ----------------------
 
 * ### 6a. Contact us
     
-    If you need more information, want to access or update your personal information or if you have a privacy concern – help is just a phone call or a few clicks away.
+    If you need more information, want to access or update your personal information or if you have a privacy concern, please contact us using the contact details below.
     
     **Personal banking**
     
@@ -641,11 +639,11 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
 * ### 6b. Making a privacy complaint
     
-    If you have a concern or complaint about how we have handled your personal information (including your credit information), let us know and we’ll try to fix it. We try to get things right the first time – but if we don’t, we’ll do our best to sort it out. If you’re not satisfied with how we respond to your complaint about how we’ve handled your personal information, there are other things you can do.
+    If you have a concern or complaint about how we have handled your personal information (including your credit information), let us know and we’ll try to fix it. If you’re not satisfied with how we respond to your complaint about how we’ve handled your personal information, there are other things you can do.
     
     **How can you make a complaint?**
     
-    To make a complaint, contact one of our staff or customer service teams (see _We’re here to help_, Section 6a). We’ll look into the issue and try to fix it straight away.
+    To make a complaint, contact one of our staff or customer service teams (see _Further Information_, Section 6a). We’ll look into the issue and try to fix it straight away.
     
     If you’ve raised your concern with one of our staff and are not satisfied, you can contact our Customer Relations team:
     
@@ -667,7 +665,7 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     Reply Paid 41, Sydney NSW 2001
     
-    Find out more about [how we manage complaints](https://www.commbank.com.au/support/compliments-and-complaints.html).
+    If you would like further information on how we handle complaints, please visit [how we manage complaints page](https://www.commbank.com.au/support/compliments-and-complaints.html?ei=manage-complaints).
     
     **What else can you do?**
     
@@ -705,7 +703,7 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     **Customers of our Singapore Branch**
     
-    Additional rights for customers of our Singapore Branch are set out in the Singapore Branch Privacy Notice. You may request a copy of this Notice, or further information relating to your rights, by contacting the Singapore Data Privacy Officer (_see We’re here to help_, Section 6a).
+    Additional rights for customers of our Singapore Branch are set out in the Singapore Branch Privacy Notice. You may request a copy of this Notice, or further information relating to your rights, by contacting the Singapore Data Privacy Officer (_see Further Information_, Section 6a).
     
     **Customers of our Tokyo Branch**
     
@@ -713,7 +711,7 @@ If we do this, we make sure there are appropriate privacy, data handling and sec
     
     **Customers of our China Branch**
     
-    Additional rights for customers whose personal information will be collected, processed, stored, transmitted, disclosed and used by Commonwealth Bank of Australia in China is set out in our China Branch Privacy Notice. You may request a copy of this Notice, or further information relating to your rights, by contacting the China Data Privacy Officer (see We’re here to help, Section 6a).
+    Additional rights for customers whose personal information will be collected, processed, stored, transmitted, disclosed and used by Commonwealth Bank of Australia in China is set out in our [China Branch Privacy Notice](https://www.commbank.com.au/content/dam/commbank-assets/about-us/docs/china-branch-privacy-notice.pdf).
     
     **Customers of our Hong Kong Branch**
     
@@ -932,7 +930,7 @@ For other European jurisdictions please refer to the [European Commission](http
 Things you should know
 ----------------------
 
-* Policy updated: 15 April 2024
+* Policy updated: 12 June 2024
     
     During our relationship with you, we may tell you more about how we collect and handle your information – for example, when you fill in an application form or receive product terms and conditions. You should always read these documents carefully.
     
