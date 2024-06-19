@@ -30,6 +30,7 @@
         * [Order marketing resources](https://www.schoop.co.uk/order/)
         * [Testimonials](https://www.schoop.co.uk/testimonials/)
     
+* [Pricing](https://www.schoop.co.uk/pricing/)
 * [FAQ](https://www.schoop.co.uk/faq/)
 * [Blog](https://www.schoop.co.uk/schoop-blog/)
 * [**Staffroom**](https://schoop.co.uk/SchoolAdmin/Login)
@@ -132,7 +133,7 @@ Any changes We may make to Our privacy policy in the future will be posted on th
 
 We want to be clear about Our privacy practices so that you can make informed choices about the use of your information, and We encourage you to contact Us at any time with questions comments, concerns, or requests and any correspondence should be addressed to [support@schoop.co.uk](mailto:support@schoop.co.uk).
 
-© Copyright - Schoop 2013 - 2018. All rights reserved.  
+© Copyright - Schoop 2013 - 2024. All rights reserved.  
 Schoop Ltd registered in England and Wales no: 8403573. Data protection reg. no: Z3641715  
 Schoop ® is a registered trademark protected by international law.
 
