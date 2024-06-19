@@ -2,7 +2,7 @@
 
 [Skip to content](#content)
 
-[**Important Notice to Our Valued Patients**](https://adhdonline.com/articles/important-notice-to-our-valued-patients/) | Considering Switching Your Provider? [**Learn More**](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)
+**[Juneteenth Holiday Hours](#juneteenth)** | Considering Switching Your Provider? **[Learn More](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
 **Juneteenth Holiday Hours | [Learn More](#juneteenth)**
 
@@ -291,10 +291,7 @@ Each clinician sets their own holiday hours, so please check with them for their
 
  ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
 
-ADHD Online will be closed on June 19th in observance of Juneteenth.
---------------------------------------------------------------------
-
-Live support will be unavailable while we’re closed but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a [voice message](tel:888-493-2343). We’ll get back to you when we return on Thursday, June 20th.
+ADHD Online digital services will be available on June 19th. Live support will be limited while we’re closed but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a [voice message](tel:888-493-2343). We’ll get back to you when we return on Thursday, June 20th.
 
 Each of our clinicians sets their own holiday hours. Check with your doctor for availability.
 
