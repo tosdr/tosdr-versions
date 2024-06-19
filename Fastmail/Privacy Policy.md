@@ -205,7 +205,7 @@ Was this article helpful?
 
 Yes No
 
-255 out of 300 found this helpful
+256 out of 301 found this helpful
 
 Need help? [Contact our support team](https://fastmail.com/support)
 
