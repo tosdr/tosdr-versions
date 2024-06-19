@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[Platform Logins](https://www.itpro.tv/login)[Request a demo](#contact-sales)
+[Platform Logins](https://www.itpro.tv/login/)[Request a demo](#contact-sales)
 
 [](https://www.itpro.tv/)
 
@@ -13,7 +13,7 @@ Site navigation
 
 [Catalog](#)
 
-[Resources](https://www.itpro.tv/resources)
+[Resources](https://www.itpro.tv/resources/)
 
 ![ITPro logo](/static/8181d915d7f21bcb1482e893bffd0111/itpro_logo_831fcd69b8.svg)
 
@@ -24,7 +24,7 @@ Binge-worthy cyber and IT certification training.
 
 Stay on top of the dynamic information technology landscape with Cyber & IT training videos, hands-on virtual Skill Labs and IT certification practice tests.
 
-[Individual Pricing](https://www.itpro.tv/individuals/pricing)[myACI Learn for Teams](https://www.itpro.tv/myaci-learn)
+[Individual Pricing](https://www.itpro.tv/individuals/pricing/)[myACI Learn for Teams](https://www.itpro.tv/myaci-learn/)
 
 7,000+
 
@@ -37,7 +37,7 @@ Watch & learn with cybersecurity & IT training.
 
 A two-person talk-show style keeps learners interested and engaged. Learners have an industry-leading course completion rate of 80%.
 
-[See Courses](https://www.itpro.tv/catalog/it)
+[See Courses](https://www.itpro.tv/catalog/it/)
 
 ![play button](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIiIGhlaWdodD0iNDIiIHZpZXdCb3g9IjAgMCA0MiA0MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBhcmlhPSJoaWRkZW4iIGFyaWEtbGFiZWw9IldhdGNoIG91ciB2aWRlbyI+CjxwYXRoIGQ9Ik00MCAyMUM0MCAxMC41MDY2IDMxLjQ5MzQgMiAyMSAyQzEwLjUwNjYgMiAyIDEwLjUwNjYgMiAyMUMyIDMxLjQ5MzQgMTAuNTA2NiA0MCAyMSA0MEMzMS40OTM0IDQwIDQwIDMxLjQ5MzQgNDAgMjFaIiBmaWxsPSIjRjBGMEVBIiBmaWxsLW9wYWNpdHk9IjAuODUiLz4KPHBhdGggZD0iTTI5LjI0MDMgMjAuMDc5NEMyOS45NDkxIDIwLjQ4ODcgMjkuOTQ5MSAyMS41MTE4IDI5LjI0MDMgMjEuOTIxTDE3LjY3NyAyOC41OTcxQzE2Ljk2ODEgMjkuMDA2NCAxNi4wODIgMjguNDk0OCAxNi4wODIgMjcuNjc2M1YxNC4zMjQxQzE2LjA4MiAxMy41MDU2IDE2Ljk2ODEgMTIuOTk0MSAxNy42NzcgMTMuNDAzM0wyOS4yNDAzIDIwLjA3OTRaIiBmaWxsPSIjMjYyOTM3Ii8+CjxwYXRoIGQ9Ik00MCAyMUM0MCAxMC41MDY2IDMxLjQ5MzQgMiAyMSAyQzEwLjUwNjYgMiAyIDEwLjUwNjYgMiAyMUMyIDMxLjQ5MzQgMTAuNTA2NiA0MCAyMSA0MEMzMS40OTM0IDQwIDQwIDMxLjQ5MzQgNDAgMjFaIiBzdHJva2U9IiNGNEI0M0EiIHN0cm9rZS13aWR0aD0iMyIvPgo8L3N2Zz4=)
 
@@ -319,7 +319,7 @@ Train your team
 
 Stay ahead of the curve and future-proof your business with training programs designed for team members.
 
-[myACI Learn for Teams](https://www.itpro.tv/myaci-learn)
+[myACI Learn for Teams](https://www.itpro.tv/myaci-learn/)
 
 Channel & Reseller
 
@@ -331,15 +331,15 @@ Individual learners
 
 Learn at your own pace and get your IT certification training.
 
-[View pricing](https://www.itpro.tv/individuals/pricing)
+[View pricing](https://www.itpro.tv/individuals/pricing/)
 
 Business Solutions
 
-* [myACI Learn](https://www.itpro.tv/myaci-learn)
+* [myACI Learn](https://www.itpro.tv/myaci-learn/)
 * [Audit Training](https://www.itpro.tv/auditpro/)
 * [Private Bootcamps](https://www.itpro.tv/live-online-training/)
-* [Channel & Reseller](https://www.itpro.tv/channel-reseller)
-* [Government](https://www.itpro.tv/government)
+* [Channel & Reseller](https://www.itpro.tv/channel-reseller/)
+* [Government](https://www.itpro.tv/government/)
 
 Content Packages
 
@@ -349,16 +349,16 @@ Content Packages
 
 Company
 
-* [About](https://www.itpro.tv/about)
-* [News](https://www.itpro.tv/news)
-* [Resources](https://www.itpro.tv/resources)
+* [About](https://www.itpro.tv/about/)
+* [News](https://www.itpro.tv/news/)
+* [Resources](https://www.itpro.tv/resources/)
 * [Tech Academy](https://www.acitechacademy.com/)
-* [Careers](https://www.itpro.tv/careers)
+* [Careers](https://www.itpro.tv/careers/)
 
 Support
 
 * [Documentation](https://help.acilearning.com/)
-* [Contact Us](https://www.itpro.tv/support)
+* [Contact Us](https://www.itpro.tv/support/)
 
 [](https://www.itpro.tv/)
 
