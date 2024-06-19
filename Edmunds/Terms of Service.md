@@ -354,6 +354,7 @@ Sign Up
 * [](https://www.edmunds.com/rss.html "RSS Feed")
 
 Download the Edmunds app
+------------------------
 
 * [![Download Edmunds app on Apple app store](//venom-assets.edmunds-media.com/e33346c55ada5270705fc13bab179556.svg)](https://apps.apple.com/us/app/edmunds-shop-cars-for-sale/id393630966)
 * [![Download Edmunds app on Google play store](//venom-assets.edmunds-media.com/91010c8622b1d1db633b91a438db34ab.svg)](https://play.google.com/store/apps/details?id=com.edmunds)
