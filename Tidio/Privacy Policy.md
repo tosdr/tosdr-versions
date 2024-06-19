@@ -1,6 +1,4 @@
-[Discover the Next Chapter of Customer Service
-
-\- 2024 _Spring_ Edition](https://editions.tidio.com/spring2024)
+[Meet Lyro AI Chatbot - Solve up to 70% of customer problems with AI](https://www.tidio.com/chatbot-ai/)
 
 [Log in](https://www.tidio.com/panel/login)
 
@@ -8,37 +6,216 @@
 
 Product![](/images/icons/icon-chevron-down-white.svg)
 
-* Offer great customer service
+* Lyro AI Chatbot
     
-    * [Live Chat](https://www.tidio.com/live-chat/)
-    * [Help desk](https://www.tidio.com/helpdesk/)
-    * [Multichannel](https://www.tidio.com/multichannel/)
-    * [Analytics](https://www.tidio.com/analytics/)
+* Help Desk
     
-    [See all features](https://www.tidio.com/features/)
-    
-    [Watch Demo](https://www.tidio.com/watch-demo/)
-    
-* Grow sales & automate support
-    
-    * [Flows](https://www.tidio.com/flows/)
-    * [Visitors List live preview](https://www.tidio.com/visitors-list/)
-    * [Tidio+](https://www.tidio.com/tidio-plus/)
-* Be more effective with AI
-    
-    * [Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
-    * [Reply Assistant](https://www.tidio.com/tidio-ai/#reply-assistant)
-    
-    [Discover Tidio AI](https://www.tidio.com/tidio-ai/)
+* Flows
     
 * Integrations
     
-    * [Shopify](https://www.tidio.com/integrations/shopify/)
-    * [WordPress](https://www.tidio.com/integrations/wordpress/)
-    * [All platforms](https://www.tidio.com/integrations/)
-    * [All apps](https://www.tidio.com/integrations/#apps)
+* [See all Tidio features](https://www.tidio.com/features/)
+    
 
-[See all features](https://www.tidio.com/features/)
+Lyro AI Chatbot
+
+[Learn more about Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
+
+Case studies
+
+[Bella Sante](https://www.tidio.com/blog/bella-sante-case-study/)
+
+[Suitor](https://www.tidio.com/blog/suitor-case-study/)
+
+[Tidio Support](https://www.tidio.com/blog/lyro-case-study/)
+
+Resources
+
+[AI Chatbot Battles](https://www.tidio.com/blog/category/ai-battles/)
+
+[Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
+
+Help Desk
+
+[Learn more about Help Desk](https://www.tidio.com/help-desk/)
+
+Features
+
+[Live Chat](https://www.tidio.com/live-chat/)
+
+[Ticketing](https://www.tidio.com/ticketing/)
+
+[Multichannel](https://www.tidio.com/multichannel/)
+
+Resources
+
+[Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+
+[Best Practices](https://www.tidio.com/blog/help-desk-best-practices/)
+
+Flows
+
+[Learn more about Flows](https://www.tidio.com/flows/)
+
+Playbooks
+
+[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+
+Ecommerce hub
+
+[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+
+[Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
+
+Integrations
+
+[Learn more about Analytics](https://www.tidio.com/analytics/)
+
+Platforms
+
+[Shopify](https://www.tidio.com/integrations/shopify/)
+
+[WordPress](https://www.tidio.com/integrations/wordpress/)
+
+[See all integrations](https://www.tidio.com/integrations/)
+
+Channels
+
+[Whatsapp](https://www.tidio.com/whatsapp-integration/)
+
+[Instagram](https://www.tidio.com/instagram/)
+
+[Messenger](https://www.tidio.com/messenger/)
+
+[Watch Demo](https://www.tidio.com/watch-demo/)
+
+[Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+
+Lyro AI Chatbot
+
+Win up to 70% of your team’s time back. Automatically answer common questions and perform recurring tasks with AI.
+
+[Learn more about Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
+
+Case studies
+
+[Bella Sante](https://www.tidio.com/blog/bella-sante-case-study/)
+
+[Suitor](https://www.tidio.com/blog/suitor-case-study/)
+
+[Tidio Support](https://www.tidio.com/blog/lyro-case-study/)
+
+Resources
+
+[AI Chatbot Battles](https://www.tidio.com/blog/category/ai-battles/)
+
+[Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
+
+Help Desk
+
+Drive customer satisfaction with live chat, ticketing, video calls, and multichannel communication - everything you need for customer service.
+
+[Learn more about Help Desk](https://www.tidio.com/help-desk/)
+
+Features
+
+[Live Chat](https://www.tidio.com/live-chat/)
+
+[Ticketing](https://www.tidio.com/ticketing/)
+
+[Multichannel](https://www.tidio.com/multichannel/)
+
+Resources
+
+[Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+
+[Best Practices](https://www.tidio.com/blog/help-desk-best-practices/)
+
+Flows
+
+Boost your lead gen and sales funnels with Flows - no-code automation paths that trigger at crucial moments in the customer journey.
+
+[Learn more about Flows](https://www.tidio.com/flows/)
+
+Playbooks
+
+[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+
+Ecommerce hub
+
+[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+
+[Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
+
+Analytics
+
+Keep track of the data that matters to your business. Monitor the performance of your team, Lyro AI Chatbot, and Flows.
+
+[Learn more about Analytics](https://www.tidio.com/analytics/)
+
+Platforms
+
+[Shopify](https://www.tidio.com/integrations/shopify/)
+
+[WordPress](https://www.tidio.com/integrations/wordpress/)
+
+[See all integrations](https://www.tidio.com/integrations/)
+
+Channels
+
+[Whatsapp](https://www.tidio.com/whatsapp-integration/)
+
+[Instagram](https://www.tidio.com/instagram/)
+
+[Messenger](https://www.tidio.com/messenger/)
+
+![85% Support automation](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Faside-suitor.png&w=488&q=75)
+
+[See customer story](https://www.tidio.com/blog/suitor-case-study/)
+
+[Tidio+ Premium Plan
+
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+
+[Watch Demo](https://www.tidio.com/watch-demo/)
+
+[Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+
+![705 Leads collected](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fcustomer-satisfaction.png&w=488&q=75)
+
+[See customer story](https://www.tidio.com/blog/wulff-beltton-case-study/)
+
+[Tidio+ Premium Plan
+
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+
+[Watch Demo](https://www.tidio.com/watch-demo/)
+
+[Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+
+![138% Lead generation boost](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Faside-lead-generation.png&w=488&q=75)
+
+[See customer story](https://www.tidio.com/blog/endeksa-case-study/)
+
+[Tidio+ Premium Plan
+
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+
+[Watch Demo](https://www.tidio.com/watch-demo/)
+
+[Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+
+![86% Decrease in waiting times](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Faside-case-study.png&w=488&q=75)
+
+[See customer story](https://www.tidio.com/blog/eye-oo-case-study/)
+
+[Tidio+ Premium Plan
+
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
@@ -48,45 +225,366 @@ Product![](/images/icons/icon-chevron-down-white.svg)
 
 Resources![](/images/icons/icon-chevron-down-white.svg)
 
+* Customer Stories
+    
 * Learn
     
-    * [Blog](https://www.tidio.com/blog/)
-    * [Academy
-        
-        NEW](https://academy.tidio.com/)
-    * [Playbook library](https://www.tidio.com/resources/ebooks/)
-    * [Customer stories](https://www.tidio.com/resources/case-studies/)
+* Compare
     
-    [See all resources](https://www.tidio.com/resources/)
-    
-* Compare Tidio
-    
-    * [vs. Gorgias](https://www.tidio.com/vs/gorgias/)
-    * [vs. LiveChat](https://www.tidio.com/vs/live-chat/)
-    * [vs. Intercom](https://www.tidio.com/vs/intercom/)
-    * [vs. Zendesk](https://www.tidio.com/vs/zendesk/)
 * Help Center
     
-    * [Installation](https://help.tidio.com/hc/en-us/sections/5377985735708)
-    * [Flows 101](https://help.tidio.com/hc/en-us/articles/5452397323676-Adding-a-New-Chatbot)
+* Blog
     
-    [See all articles](https://help.tidio.com/hc/en-us)
+* [See all Resources](https://www.tidio.com/resources/)
     
-* * [Join Tidio Academy](https://academy.tidio.com/course/ai-customer-service)
+
+Customer Stories
+
+Newest case study
+
+[![Eye-oo image with logotype](/_next/image/?url=%2Fimages%2Fnav%2FresourcesTab%2Feyeoo.png&w=3840&q=75)
+
+###### eye-oo Boosts Revenue by €177K+ After Installing Tidio
+
+Discover how this Shopify store used Tidio to offer better service, recover carts, and boost sales.](https://www.tidio.com/blog/eye-oo-case-study/)
+
+Customer Stories
+
+[![ADT Security Service Improves CSAT by 30% Using Tidio](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-adt.png&w=3840&q=75)
+
+ADT Security Service Improves CSAT by 30% Using Tidio](https://www.tidio.com/blog/adt-case-study/)[![Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-bella.png&w=3840&q=75)
+
+Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](https://www.tidio.com/blog/bella-sante-case-study/)[![Endeksa’s Lead Generation Grows by 138% with Tidio Flows](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-endeksa.png&w=3840&q=75)
+
+Endeksa’s Lead Generation Grows by 138% with Tidio Flows](https://www.tidio.com/blog/endeksa-case-study/)
+
+[See all](https://www.tidio.com/resources/case-studies/)
+
+Learn
+
+Tidio Academy
+
+[![Tidio Academy green icon with academic cap](/_next/image/?url=%2Fimages%2Fnav%2Ftidio-academy-mobile.png&w=3840&q=75)
+
+###### Tidio Academy
+
+Propel your customer service to the next level with Tidio’s free courses.](https://academy.tidio.com/)
+
+Playbooks
+
+[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+
+[How to Leverage AI in Customer Service](https://www.tidio.com/playbooks/ai-assisted-customer-service-ebook/)
+
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+
+[See all Playbooks](https://www.tidio.com/resources/ebooks/)
+
+Guides
+
+[Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
+
+[The Successful Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+
+Resources
+
+[Podcasts](https://www.tidio.com/resources/podcasts/)
+
+[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+
+[See all Resources](https://www.tidio.com/resources/)
+
+Compare
+
+Compare Tidio
+
+[Tidio vs Gorgias](https://www.tidio.com/vs/gorgias/)
+
+[Tidio vs Intercom](https://www.tidio.com/vs/intercom/)
+
+[Tidio vs LiveChat](https://www.tidio.com/vs/live-chat/)
+
+[Tidio vs Zendesk](https://www.tidio.com/vs/zendesk/)
+
+AI Showdown
+
+[Lyro vs Zowie](https://www.tidio.com/blog/lyro-vs-zowie/)
+
+[Lyro vs Ada](https://www.tidio.com/blog/lyro-vs-ada/)
+
+[Learn more about Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
+
+Other comparisons
+
+[AI Customer Support: 10 Best Solutions](https://www.tidio.com/blog/ai-customer-support-software/)
+
+[Best WordPress Chat Plugins](https://www.tidio.com/blog/wordpress-plugins/)
+
+[Top 10 Shared Inbox Tools](https://www.tidio.com/blog/shared-inbox-tools/)
+
+[Top 8 Squarespace Chat Plugins](https://www.tidio.com/blog/squarespace-chat-plugin/)
+
+Help Center
+
+[Go to Help Center](https://help.tidio.com/hc/en-us)
+
+Setup
+
+[Install Tidio](https://help.tidio.com/hc/en-us/sections/5377985735708-Install-Tidio)
+
+[Get started](https://help.tidio.com/hc/en-us/sections/5377996746652-Get-Started)
+
+[Widget customization](https://help.tidio.com/hc/en-us/sections/5744791598876-Widget-Customization)
+
+[Manage Your Project](https://help.tidio.com/hc/en-us/sections/5378039424028-Manage-Your-Project)
+
+Using Tidio
+
+[Lyro AI Chatbot](https://help.tidio.com/hc/en-us/sections/12154776323612-Lyro-AI-Chatbot)
+
+[Flows](https://help.tidio.com/hc/en-us/sections/5452396719260-Flows)
+
+[Help Desk](https://help.tidio.com/hc/en-us/sections/12623544378012-Helpdesk)
+
+[Tidio Features](https://help.tidio.com/hc/en-us/sections/5377997338268-Tidio-Features)
+
+Other Resources
+
+[Integrations](https://help.tidio.com/hc/en-us/sections/5378011044252-Integrations)
+
+[Billing & Subscription](https://help.tidio.com/hc/en-us/sections/5378029354012-Billing-Subscription)
+
+[Mobile & Desktop Apps](https://help.tidio.com/hc/en-us/sections/5378054692252-Mobile-Desktop-App)
+
+[Notifications](https://help.tidio.com/hc/en-us/sections/5422650146588-Notifications)
+
+Blog
+
+[Go to Tidio Blog](https://www.tidio.com/blog/)
+
+Chatbots
+
+[![Chatbots](/_next/image/?url=%2Fimages%2Fnav%2Fbest-ai-chatbots.png&w=151&q=75)
+
+Best AI Chatbots](https://www.tidio.com/blog/ai-chatbot/)
+
+[WordPress Chatbot Plugins](https://www.tidio.com/blog/wordpress-chatbot/)
+
+[Shopify Chatbot Apps](https://www.tidio.com/blog/shopify-chatbot/)
+
+[WooCommerce Chatbot Plugins](https://www.tidio.com/blog/woocommerce-chatbot/)
+
+[How to Create a Chatbot](https://www.tidio.com/blog/how-to-create-a-chatbot-for-a-website/)
+
+Live Chat
+
+[![Free Live Chat Software for Websites](/_next/image/?url=%2Fimages%2Fnav%2Ffree-live-chat-software.png&w=151&q=75)
+
+Free Live Chat Software for Websites](https://www.tidio.com/blog/free-live-chat/)
+
+[Shopify Live Chat Apps](https://www.tidio.com/blog/shopify-live-chat/)
+
+[Squarespace Chat Plugins](https://www.tidio.com/blog/squarespace-chat-plugin/)
+
+[Live Chat for Sales Teams](https://www.tidio.com/blog/live-chat-for-sales/)
+
+[How to Add Live Chat to a Website](https://www.tidio.com/blog/add-chat-to-website/)
+
+Tools for Business
+
+[![Best AI Chatbots](/_next/image/?url=%2Fimages%2Fnav%2Fchatbots-for-ecommerce.png&w=151&q=75)
+
+Chatbots for Ecommerce](https://www.tidio.com/blog/ecommerce-chatbots/)
+
+[Live Chat for Ecommerce](https://www.tidio.com/blog/ecommerce-live-chat/)
+
+[Chatbots for Sales and Marketing](https://www.tidio.com/blog/sales-chatbot/)
+
+[Chatbots for Real Estate](https://www.tidio.com/blog/real-estate-chatbots/)
+
+[Live Chat for Customer Service](https://www.tidio.com/blog/live-chat-apps/)
+
+Newest case study
+
+[![Eye-oo image with logotype](/_next/image/?url=%2Fimages%2Fnav%2FresourcesTab%2Feyeoo.png&w=3840&q=75)
+
+###### eye-oo Boosts Revenue by €177K+ After Installing Tidio
+
+Discover how this Shopify store used Tidio to offer better service, recover carts, and boost sales.](https://www.tidio.com/blog/eye-oo-case-study/)
+
+Customer Stories
+
+[See all](https://www.tidio.com/resources/case-studies/)
+
+[![ADT Security Service Improves CSAT by 30% Using Tidio](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-adt.png&w=3840&q=75)
+
+ADT Security Service Improves CSAT by 30% Using Tidio](https://www.tidio.com/blog/adt-case-study/)[![Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-bella.png&w=3840&q=75)
+
+Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](https://www.tidio.com/blog/bella-sante-case-study/)[![Endeksa’s Lead Generation Grows by 138% with Tidio Flows](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-endeksa.png&w=3840&q=75)
+
+Endeksa’s Lead Generation Grows by 138% with Tidio Flows](https://www.tidio.com/blog/endeksa-case-study/)
+
+Tidio Academy
+
+[![Tidio Academy green icon with academic cap](/_next/image/?url=%2Fimages%2Fnav%2Ftidio-academy-mobile.png&w=3840&q=75)
+
+###### Tidio Academy
+
+Propel your customer service to the next level with Tidio’s free courses.](https://academy.tidio.com/)
+
+Playbooks
+
+[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+
+[How to Leverage AI in Customer Service](https://www.tidio.com/playbooks/ai-assisted-customer-service-ebook/)
+
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+
+[See all Playbooks](https://www.tidio.com/resources/ebooks/)
+
+Guides
+
+[Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
+
+[The Successful Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+
+Resources
+
+[Podcasts](https://www.tidio.com/resources/podcasts/)
+
+[Flows ROI Calculator](https://www.tidio.com/calculators/flows/)
+
+[See all Resources](https://www.tidio.com/resources/)
+
+![Compare](/_next/image/?url=%2Fimages%2Fnav%2Fcompare-tab-top-image.png&w=3840&q=75)
+
+Compare Tidio
+
+[Tidio vs Gorgias](https://www.tidio.com/vs/gorgias/)
+
+[Tidio vs Intercom](https://www.tidio.com/vs/intercom/)
+
+[Tidio vs LiveChat](https://www.tidio.com/vs/live-chat/)
+
+[Tidio vs Zendesk](https://www.tidio.com/vs/zendesk/)
+
+AI Showdown
+
+[Lyro vs Zowie](https://www.tidio.com/blog/lyro-vs-zowie/)
+
+[Lyro vs Ada](https://www.tidio.com/blog/lyro-vs-ada/)
+
+[Learn more about Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
+
+Other comparisons
+
+[AI Customer Support: 10 Best Solutions](https://www.tidio.com/blog/ai-customer-support-software/)
+
+[Best WordPress Chat Plugins](https://www.tidio.com/blog/wordpress-plugins/)
+
+[Top 10 Shared Inbox Tools](https://www.tidio.com/blog/shared-inbox-tools/)
+
+[Top 8 Squarespace Chat Plugins](https://www.tidio.com/blog/squarespace-chat-plugin/)
+
+Help Center
+
+Hit the ground running - Master Tidio quickly with our extensive resource library. Learn about features, customize your experience, and find out how to set up integrations and use our apps.
+
+[Go to Help Center](https://help.tidio.com/hc/en-us)
+
+Setup
+
+[Install Tidio](https://help.tidio.com/hc/en-us/sections/5377985735708-Install-Tidio)
+
+[Get started](https://help.tidio.com/hc/en-us/sections/5377996746652-Get-Started)
+
+[Widget customization](https://help.tidio.com/hc/en-us/sections/5744791598876-Widget-Customization)
+
+[Manage Your Project](https://help.tidio.com/hc/en-us/sections/5378039424028-Manage-Your-Project)
+
+Using Tidio
+
+[Lyro AI Chatbot](https://help.tidio.com/hc/en-us/sections/12154776323612-Lyro-AI-Chatbot)
+
+[Flows](https://help.tidio.com/hc/en-us/sections/5452396719260-Flows)
+
+[Help Desk](https://help.tidio.com/hc/en-us/sections/12623544378012-Helpdesk)
+
+[Tidio Features](https://help.tidio.com/hc/en-us/sections/5377997338268-Tidio-Features)
+
+Other Resources
+
+[Integrations](https://help.tidio.com/hc/en-us/sections/5378011044252-Integrations)
+
+[Billing & Subscription](https://help.tidio.com/hc/en-us/sections/5378029354012-Billing-Subscription)
+
+[Mobile & Desktop Apps](https://help.tidio.com/hc/en-us/sections/5378054692252-Mobile-Desktop-App)
+
+[Notifications](https://help.tidio.com/hc/en-us/sections/5422650146588-Notifications)
+
+Tidio Blog
+
+Keep up with emerging trends in customer service and learn from top industry experts. Master Tidio with in-depth guides and uncover real-world success stories in our case studies. Discover the blueprint for exceptional customer experiences and unlock new pathways for business success.
+
+[Go to Tidio Blog](https://www.tidio.com/blog/)
+
+Chatbots
+
+[![Chatbots](/_next/image/?url=%2Fimages%2Fnav%2Fbest-ai-chatbots.png&w=151&q=75)
+
+Best AI Chatbots](https://www.tidio.com/blog/ai-chatbot/)
+
+[WordPress Chatbot Plugins](https://www.tidio.com/blog/wordpress-chatbot/)
+
+[Shopify Chatbot Apps](https://www.tidio.com/blog/shopify-chatbot/)
+
+[WooCommerce Chatbot Plugins](https://www.tidio.com/blog/woocommerce-chatbot/)
+
+[How to Create a Chatbot](https://www.tidio.com/blog/how-to-create-a-chatbot-for-a-website/)
+
+Live Chat
+
+[![Free Live Chat Software for Websites](/_next/image/?url=%2Fimages%2Fnav%2Ffree-live-chat-software.png&w=151&q=75)
+
+Free Live Chat Software for Websites](https://www.tidio.com/blog/free-live-chat/)
+
+[Shopify Live Chat Apps](https://www.tidio.com/blog/shopify-live-chat/)
+
+[Squarespace Chat Plugins](https://www.tidio.com/blog/squarespace-chat-plugin/)
+
+[Live Chat for Sales Teams](https://www.tidio.com/blog/live-chat-for-sales/)
+
+[How to Add Live Chat to a Website](https://www.tidio.com/blog/add-chat-to-website/)
+
+Tools for Business
+
+[![Best AI Chatbots](/_next/image/?url=%2Fimages%2Fnav%2Fchatbots-for-ecommerce.png&w=151&q=75)
+
+Chatbots for Ecommerce](https://www.tidio.com/blog/ecommerce-chatbots/)
+
+[Live Chat for Ecommerce](https://www.tidio.com/blog/ecommerce-live-chat/)
+
+[Chatbots for Sales and Marketing](https://www.tidio.com/blog/sales-chatbot/)
+
+[Chatbots for Real Estate](https://www.tidio.com/blog/real-estate-chatbots/)
+
+[Live Chat for Customer Service](https://www.tidio.com/blog/live-chat-apps/)
 
 Partners![](/images/icons/icon-chevron-down-white.svg)
 
-* Let's Talk
-    
-    * [Partner Programs](https://www.tidio.com/partners/)
-    * [Find a trusted agency](https://partners.tidio.com/)
-    * [Partner portal](https://affiliates.tidio.com/)
+Let's Talk
+
+[Partner Programs](https://www.tidio.com/partners/)
+
+[Find a trusted agency](https://partners.tidio.com/)
+
+[Partner portal](https://affiliates.tidio.com/)
 
 Contact![](/images/icons/icon-chevron-down-white.svg)
 
-* See Tidio in action
-    
-    * [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+See Tidio in action
+
+[Contact sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
 [Get started free](https://www.tidio.com/panel/register)
 
