@@ -227,7 +227,7 @@ Search results
     
     ### iGroom [iGroom Squeaky Clean Shampoo - Gallon](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
     
-    20 in stock
+    16 in stock
     
     $58.75
     
@@ -239,7 +239,7 @@ Search results
     
     ### Davis [Davis Quick-Dry Shampoo - Gallon](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
     
-    16 in stock
+    15 in stock
     
     $59.74
     
