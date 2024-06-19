@@ -1,4 +1,4 @@
-LAST UPDATED March 1, 2024
+LAST UPDATED May 14, 2024
 
 Brave Browser Privacy Policy
 ============================
@@ -149,16 +149,15 @@ The Brave Leo AI private chat feature provides summaries of the webpage you’re
 
 Brave Leo privacy protections include:
 
-* Reverse proxy: All requests are proxied through an anonymized server so the request and user-address cannot be linked. Brave cannot associate the user request with their IP address.
-* Immediate discarding of responses: Conversations are not persisted on Brave’s servers. Responses from Leo are discarded immediately after they’re generated, and not used for model training. We do not collect identifiers such as your IP Address that can be linked to you.
+* Reverse proxy: All requests are proxied through an anonymizing server so that the request and the user’s IP address cannot be linked.
+* Immediate discarding of responses: Conversations are not persisted on Brave’s servers. We do not collect identifiers that can be linked to you (such as IP address). Responses generated with Brave-hosted models are discarded after they’re generated, and not used for model training; no personal data is retained by Brave-hosted AI models.
+    * Note that some non-Brave hosted models (such as Anthropic) will have different data retention policies. If you select a model from Anthropic and submit Leo queries, that data will be processed by Anthropic, and retained on Anthropic’s servers for 30 days. Anthropic acts on our behalf as a data processor for any personal data submitted, but does not use any personal data for its own purposes or to train its AI model. Anthropic are also not allowed to share query inputs and outputs, or link them to Brave.
 * No login or account required for access: Users do not need to create a Brave account to use the free version of Leo.
 * Unlinkable subscription: If you sign up for Leo Premium, you’re issued unlinkable tokens that validate your subscription when using Leo. This means that Brave can never connect your purchase details with your usage of the product, an extra step that ensures your activity is private to you and only you. The email you used to create your account is unlinkable to your day-to-day use of Leo, making this a uniquely private credentialing experience.
 
 The accuracy of summaries and responses to questions is not guaranteed and may include inaccurate, misleading, and/or false information. You should not submit sensitive or private information in Leo, and should exercise caution with any text related to health, finance, personal safety, or similar cases.
 
 Brave Leo is powered by different AI models which you can select, including self-hosted implementations of open-source models, such as Meta’s Llama 2 and Mistral AI models, and models provided by 3rd parties, such as Anthropic’s Claude models. More information on each model, rate limits, and defaults can be found in the Brave Leo wiki [https://github.com/brave/brave-browser/wiki/Brave-Leo](https://github.com/brave/brave-browser/wiki/Brave-Leo)
-
-The questions you ask will be transmitted to Brave’s servers, but we do not collect identifiers such as your IP Address that can be linked to you. No personal data is retained by Brave-hosted AI models. If you select a model from Anthropic and submit Leo queries, that data will be processed by Anthropic for a period of 30 days, then deleted. Anthropic acts on our behalf as a data processor for any personal data submitted, but does not use any personal data for its own purposes or to train its AI model. Anthropic are also not allowed to share query inputs and outputs, or link them to Brave.
 
 Submitting a prompt may include context from the current web page you are viewing, and if you enable automatic suggested questions, the page contents of your navigations will be sent to Leo to generate these suggestions while Leo is open. You can change these options any time in Settings.
 
@@ -186,7 +185,7 @@ We use a service called Backtrace.io to store the reports. You can choose whethe
 
 ### Privacy Preserving Product Analytics[](#privacy-preserving-product-analytics "Permalink to this headline")
 
-The Browser sends us anonymous reports to alert us to product problems and necessary improvements. None of the information it reports harms your privacy. The report only describes general use of the Browser, such as a general range of how many extensions are installed, a general range of how many tabs are open, and whether features like Shields, Rewards, and Ads are switched on. [See the full list of questions here](https://github.com/brave/brave-browser/wiki/P3A). These reports are stripped of metadata, and aggregated with measurements reported by many other instances of Brave. The data are not personal, and cannot be combined to identify you. You can deactivate Privacy-Preserving Product Analytics in Settings.
+The Browser sends us anonymous reports to alert us to product problems and necessary improvements. None of the information it reports harms your privacy. The report only describes general use of the Browser or other Brave products, such as a general range of how many extensions are installed, a general range of how many tabs are open, and whether features like Shields, Rewards, and Ads are switched on. [See the full list of questions here](https://github.com/brave/brave-browser/wiki/P3A). These reports are stripped of metadata, and aggregated with measurements reported by many other instances of Brave. The data are not personal, and cannot be combined to identify you. You can deactivate Privacy-Preserving Product Analytics in Settings.
 
 ### Your feedback[](#your-feedback "Permalink to this headline")
 
