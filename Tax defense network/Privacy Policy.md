@@ -294,6 +294,8 @@ Attn: Marketing Department
 Suite 1900  
 Jacksonville, FL 32256
 
+Thank you for your interest in our tax relief services. At this time, we are unable to assist you. Please call [800-829-1040](tel:800-829-1040) to speak with the IRS and explore your options.
+
                    
 
 A Few Minutes Could Save You Thousands. Get Started Now!
@@ -308,6 +310,14 @@ A Few Minutes Could Save You Thousands. Get Started Now!
  Phone
 
 $0 - $7,499 $7,500 - $9,999 $10,000 - $19,999 $20,000 - $49,999 $50,000 - $99,999 $100,000+ I don't owe any taxes Tax Debt Amount
+
+Please note that Tax Defense Network is a **private company** not affiliated with the IRS. If you decide to hire us to help with your tax problem(s), you will be charged for our services.
+
+**Would you like to proceed with your free consultation?**
+
+ Yes
+
+ No
 
 By submitting this form, you agree to our [Privacy Policy](https://www.taxdefensenetwork.com/privacy/) and [Terms of Use](https://www.taxdefensenetwork.com/terms-of-use/).
 
