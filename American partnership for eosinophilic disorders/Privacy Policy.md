@@ -412,6 +412,8 @@ You may contact APFED by sending an email to [mail@apfed.org](mailto:mail@apfed.
 
 ### Privacy Policy
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2089%20165'%3E%3C/svg%3E)
+
 ![](https://apfed.org/wp-content/themes/apfed/images/registration-img1.png)
 
 #### Join Patient Registry
@@ -420,6 +422,8 @@ Learn more about the Eosinophil. Connect
 and how you can help advance research.
 
 [Join Now](https://connect.patientcrossroads.org/?org=apfed)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20130%20148'%3E%3C/svg%3E)
 
 ![](https://apfed.org/wp-content/themes/apfed/images/registration-img2.png)
 
