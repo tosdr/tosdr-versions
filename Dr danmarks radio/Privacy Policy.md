@@ -327,7 +327,7 @@ Meddelelser offentliggjort i digitale medier vil ofte være tilgængelige længe
 Kopier Link
 
 Mere fra dr.dk
-==============
+--------------
 
 [Gå til forsiden af dr.dk](https://www.dr.dk/)
 
@@ -364,7 +364,7 @@ Mere fra dr.dk
     * [Rundvisninger](https://www.drkoncerthuset.dk/dit-besoeg/rundvisninger/rundvisning-i-dr-koncerthuset-og-dr-byen/)
     * [Vilkår på dr.dk](https://www.dr.dk/om-dr/vilkaar-paa-drdk)
     * [Etik og rettelser](https://www.dr.dk/etik-og-rettelser)
-    * [Privatlivspolitik](https://www.dr.dk/om-dr/dr-og-dine-data)
+    * [Privatlivs­politik](https://www.dr.dk/om-dr/dr-og-dine-data)
 * [Vi tager ansvar for indholdet og er tilmeldt Pressenævnet](https://www.pressenaevnet.dk/ "Gå til Pressenævnets hjemmeside")
     
 
