@@ -2,6 +2,8 @@
 
          
 
+ [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Holiday Closure](https://www.jeffco.us/AlertCenter.aspx) [Holiday Closure - Jeffco Offices Closed June 19 for Juneteenth Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Holiday-Closure-Jeffco-Offices-Closed-Ju-1313)
+
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
  
@@ -95,17 +97,17 @@ Our website has links to other public and private sector entities. Jefferson Cou
 
 [Pay My Taxes](https://www.jeffco.us/2418/Payment-Options)
 
-[Online Services](https://www.jeffco.us/3221)
+[Elections](https://www.jeffco.us/396/Elections)
 
-[Business & Workforce Center](https://www.jeffco.us/773/Business-Workforce-Center)
+[Fire Restrictions & Bans](https://www.jeffco.us/511/Fire-Restrictions-Bans)
 
 [Park Permits & Reservations](https://www.jeffco.us/1512/Permits-Reservations)
 
 [Open Space Alerts & Closures](https://www.jeffco.us/1531/Alerts-Closures)
 
-[Appointments](https://www.jeffco.us/4103/Appointments)
+[Slash Collection](https://www.jeffco.us/2493/Slash-Collection)
 
-[Snow Removal](https://www.jeffco.us/2838/Snow-Removal)
+[Report a Road Maintenance Issue](https://jeffersoncountyco.qscend.com/311/)
 
 [Environmental Health](https://www.jeffco.us/2314/Environmental-Health)
 
@@ -113,9 +115,9 @@ Our website has links to other public and private sector entities. Jefferson Cou
 
 [Development Permits](https://www.jeffco.us/2928/Apply-For)
 
-[Medical Assistance](https://www.jeffco.us/2648/Health)
+[Food Assistance](https://www.jeffco.us/2641/Food)
 
-[Birth & Death Certificates](https://www.jeffco.us/2083/Birth-Death-Certificates)
+[Head Start Enrollment](https://www.jeffco.us/1870/Apply)
 
 [Public Safety](https://www.jeffco.us/2073)
 
