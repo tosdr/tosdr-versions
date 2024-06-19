@@ -6,107 +6,107 @@
     
     Start
     
-    * [Start your business
+    * [Start your business.
         
         Build your brand](https://www.shopify.com/start)
-    * [Create your website
+    * [Create your website.
         
         Online store editor](https://www.shopify.com/website/builder)
-    * [Customize your store
+    * [Customize your store.
         
         Store themes](https://themes.shopify.com/?locale=en)
-    * [Find business apps
+    * [Find business apps.
         
         Shopify app store](https://apps.shopify.com/)
-    * [Own your site domain
+    * [Own your site domain.
         
         Domains & hosting](https://www.shopify.com/domains)
-    * [Explore free business tools
+    * [Explore free business tools.
         
         Tools to run your business](https://www.shopify.com/tools)
     
     Sell
     
-    * [Sell your products
+    * [Sell your products.
         
         Sell online or in person](https://www.shopify.com/sell)
-    * [Check out customers
+    * [Check out customers.
         
         World-class checkout](https://www.shopify.com/checkout)
-    * [Sell online
+    * [Sell online.
         
         Grow your business online](https://www.shopify.com/online)
-    * [Sell across channels
+    * [Sell across channels.
         
         Reach millions of shoppers and boost sales](https://www.shopify.com/channels)
-    * [Sell in person
+    * [Sell in person.
         
         Point of Sale (POS)](https://www.shopify.com/pos)
-    * [Sell globally
+    * [Sell globally.
         
         International sales](https://www.shopify.com/markets)
-    * [Sell wholesale & direct
+    * [Sell wholesale & direct.
         
         Business-to-business (B2B)](https://www.shopify.com/plus/solutions/b2b-ecommerce)
-    * [Accept online payments
+    * [Accept online payments.
         
         Set up forms of payment](https://www.shopify.com/payments)
     
     Market
     
-    * [Market your business
+    * [Market your business.
         
         Reach & retain customers](https://www.shopify.com/market)
-    * [Market across social
+    * [Market across social.
         
         Social media integrations](https://www.shopify.com/facebook-instagram)
-    * [Chat with customers
+    * [Chat with customers.
         
         Shopify Inbox](https://www.shopify.com/inbox)
-    * [Nurture customers
+    * [Nurture customers.
         
         Shopify Email](https://www.shopify.com/email-marketing)
-    * [Know your audience
+    * [Know your audience.
         
         Gain customer insights](https://www.shopify.com/segmentation)
     
     Manage
     
-    * [Manage your business
+    * [Manage your business.
         
         Track sales, orders & analytics](https://www.shopify.com/manage)
-    * [Measure your performance
+    * [Measure your performance.
         
         Analytics and Reporting](https://www.shopify.com/analytics)
-    * [Ship orders faster
+    * [Ship orders faster.
         
         Shopify Shipping](https://www.shopify.com/shipping)
-    * [Manage your stock & orders
+    * [Manage your stock & orders.
         
         Inventory & order management](https://www.shopify.com/orders)
-    * [Outsource fulfillment & returns
+    * [Outsource fulfillment & returns.
         
         Shopify Fulfillment Network](https://www.shopify.com/fulfillment)
-    * [Get paid faster
+    * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing
+    * [Secure business financing.
         
         Shopify Lending](https://www.shopify.com/lending)
-    * [Automate your business
+    * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
     
-    * [Shopify Developers
+    * [Shopify Developers.
         
         Build with Shopify's powerful APIs](https://shopify.dev/)
-    * [Plus
+    * [Plus.
         
         A commerce solution for growing digital brands](https://www.shopify.com/plus)
-    * [Enterprise
+    * [Enterprise.
         
         Solutions for the world's largest brands](https://www.shopify.com/enterprise)
-    * [All Products
+    * [All Products.
         
         Explore all Shopify products & features](https://www.shopify.com/products)
     
@@ -116,67 +116,67 @@
     
     Help and support
     
-    * [Help and support
+    * [Help and support.
         
         Get 24/7 support](https://help.shopify.com/en/)
-    * [How-to guides
+    * [How-to guides.
         
         Read in-depth business guides](https://www.shopify.com/blog/topics/guides)
-    * [Business courses
+    * [Business courses.
         
         Learn from proven experts](https://academy.shopify.com/)
-    * [Shopify blog
+    * [Shopify blog.
         
         Business strategy tips](https://www.shopify.com/blog)
     
     Popular topics
     
-    * [What is Shopify?
+    * [What is Shopify?.
         
         How our commerce platform works](https://www.shopify.com/blog/what-is-shopify)
-    * [Shopify Editions
+    * [Shopify Editions.
         
         New, innovative Shopify products](https://www.shopify.com/editions)
-    * [Founder stories
+    * [Founder stories.
         
         Learn from successful merchants](https://www.shopify.com/blog/topics/founder-stories)
-    * [Branding
+    * [Branding.
         
         Build your brand from scratch](https://www.shopify.com/blog/how-to-build-a-brand)
-    * [Marketing
+    * [Marketing.
         
         Build a marketing plan](https://www.shopify.com/blog/marketing-plan)
-    * [Ecommerce SEO
+    * [Ecommerce SEO.
         
         Improve your search ranking](https://www.shopify.com/blog/ecommerce-seo-beginners-guide)
-    * [Social media strategy
+    * [Social media strategy.
         
         Turn social into sales](https://www.shopify.com/blog/topics/social-media-optimization)
-    * [Business growth
+    * [Business growth.
         
         Scale your business](https://www.shopify.com/blog/how-to-scale-small-business)
     
     Essential tools
     
-    * [Business name generator](https://www.shopify.com/tools/business-name-generator)
-    * [Logo maker](https://www.shopify.com/tools/logo-maker)
-    * [Stock photography](https://www.shopify.com/stock-photos)
-    * [Business plan template](https://www.shopify.com/blog/business-plan-template)
-    * [Link in bio tool](https://linkpop.com/)
-    * [QR code generator](https://www.shopify.com/tools/qr-code-generator)
+    * [Business name generator.](https://www.shopify.com/tools/business-name-generator)
+    * [Logo maker.](https://www.shopify.com/tools/logo-maker)
+    * [Stock photography.](https://www.shopify.com/stock-photos)
+    * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
+    * [Link in bio tool.](https://linkpop.com/)
+    * [QR code generator.](https://www.shopify.com/tools/qr-code-generator)
     
 * What's new
     
-    * [Changelog
+    * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition
+    * [Winter ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
-    * [All Editions
+    * [All Editions.
         
         Archive of past Shopify Editions](https://www.shopify.com/editions/all)
-    * [Newsroom
+    * [Newsroom.
         
         All company news and press releases](https://shopify.com/news)
     
@@ -194,107 +194,107 @@
     
     Start
     
-    * [Start your business
+    * [Start your business.
         
         Build your brand](https://www.shopify.com/start)
-    * [Create your website
+    * [Create your website.
         
         Online store editor](https://www.shopify.com/website/builder)
-    * [Customize your store
+    * [Customize your store.
         
         Store themes](https://themes.shopify.com/?locale=en)
-    * [Find business apps
+    * [Find business apps.
         
         Shopify app store](https://apps.shopify.com/)
-    * [Own your site domain
+    * [Own your site domain.
         
         Domains & hosting](https://www.shopify.com/domains)
-    * [Explore free business tools
+    * [Explore free business tools.
         
         Tools to run your business](https://www.shopify.com/tools)
     
     Sell
     
-    * [Sell your products
+    * [Sell your products.
         
         Sell online or in person](https://www.shopify.com/sell)
-    * [Check out customers
+    * [Check out customers.
         
         World-class checkout](https://www.shopify.com/checkout)
-    * [Sell online
+    * [Sell online.
         
         Grow your business online](https://www.shopify.com/online)
-    * [Sell across channels
+    * [Sell across channels.
         
         Reach millions of shoppers and boost sales](https://www.shopify.com/channels)
-    * [Sell in person
+    * [Sell in person.
         
         Point of Sale (POS)](https://www.shopify.com/pos)
-    * [Sell globally
+    * [Sell globally.
         
         International sales](https://www.shopify.com/markets)
-    * [Sell wholesale & direct
+    * [Sell wholesale & direct.
         
         Business-to-business (B2B)](https://www.shopify.com/plus/solutions/b2b-ecommerce)
-    * [Accept online payments
+    * [Accept online payments.
         
         Set up forms of payment](https://www.shopify.com/payments)
     
     Market
     
-    * [Market your business
+    * [Market your business.
         
         Reach & retain customers](https://www.shopify.com/market)
-    * [Market across social
+    * [Market across social.
         
         Social media integrations](https://www.shopify.com/facebook-instagram)
-    * [Chat with customers
+    * [Chat with customers.
         
         Shopify Inbox](https://www.shopify.com/inbox)
-    * [Nurture customers
+    * [Nurture customers.
         
         Shopify Email](https://www.shopify.com/email-marketing)
-    * [Know your audience
+    * [Know your audience.
         
         Gain customer insights](https://www.shopify.com/segmentation)
     
     Manage
     
-    * [Manage your business
+    * [Manage your business.
         
         Track sales, orders & analytics](https://www.shopify.com/manage)
-    * [Measure your performance
+    * [Measure your performance.
         
         Analytics and Reporting](https://www.shopify.com/analytics)
-    * [Ship orders faster
+    * [Ship orders faster.
         
         Shopify Shipping](https://www.shopify.com/shipping)
-    * [Manage your stock & orders
+    * [Manage your stock & orders.
         
         Inventory & order management](https://www.shopify.com/orders)
-    * [Outsource fulfillment & returns
+    * [Outsource fulfillment & returns.
         
         Shopify Fulfillment Network](https://www.shopify.com/fulfillment)
-    * [Get paid faster
+    * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing
+    * [Secure business financing.
         
         Shopify Lending](https://www.shopify.com/lending)
-    * [Automate your business
+    * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
     
-    * [Shopify Developers
+    * [Shopify Developers.
         
         Build with Shopify's powerful APIs](https://shopify.dev/)
-    * [Plus
+    * [Plus.
         
         A commerce solution for growing digital brands](https://www.shopify.com/plus)
-    * [Enterprise
+    * [Enterprise.
         
         Solutions for the world's largest brands](https://www.shopify.com/enterprise)
-    * [All Products
+    * [All Products.
         
         Explore all Shopify products & features](https://www.shopify.com/products)
     
@@ -303,67 +303,67 @@
     
     Help and support
     
-    * [Help and support
+    * [Help and support.
         
         Get 24/7 support](https://help.shopify.com/en/)
-    * [How-to guides
+    * [How-to guides.
         
         Read in-depth business guides](https://www.shopify.com/blog/topics/guides)
-    * [Business courses
+    * [Business courses.
         
         Learn from proven experts](https://academy.shopify.com/)
-    * [Shopify blog
+    * [Shopify blog.
         
         Business strategy tips](https://www.shopify.com/blog)
     
     Popular topics
     
-    * [What is Shopify?
+    * [What is Shopify?.
         
         How our commerce platform works](https://www.shopify.com/blog/what-is-shopify)
-    * [Shopify Editions
+    * [Shopify Editions.
         
         New, innovative Shopify products](https://www.shopify.com/editions)
-    * [Founder stories
+    * [Founder stories.
         
         Learn from successful merchants](https://www.shopify.com/blog/topics/founder-stories)
-    * [Branding
+    * [Branding.
         
         Build your brand from scratch](https://www.shopify.com/blog/how-to-build-a-brand)
-    * [Marketing
+    * [Marketing.
         
         Build a marketing plan](https://www.shopify.com/blog/marketing-plan)
-    * [Ecommerce SEO
+    * [Ecommerce SEO.
         
         Improve your search ranking](https://www.shopify.com/blog/ecommerce-seo-beginners-guide)
-    * [Social media strategy
+    * [Social media strategy.
         
         Turn social into sales](https://www.shopify.com/blog/topics/social-media-optimization)
-    * [Business growth
+    * [Business growth.
         
         Scale your business](https://www.shopify.com/blog/how-to-scale-small-business)
     
     Essential tools
     
-    * [Business name generator](https://www.shopify.com/tools/business-name-generator)
-    * [Logo maker](https://www.shopify.com/tools/logo-maker)
-    * [Stock photography](https://www.shopify.com/stock-photos)
-    * [Business plan template](https://www.shopify.com/blog/business-plan-template)
-    * [Link in bio tool](https://linkpop.com/)
-    * [QR code generator](https://www.shopify.com/tools/qr-code-generator)
+    * [Business name generator.](https://www.shopify.com/tools/business-name-generator)
+    * [Logo maker.](https://www.shopify.com/tools/logo-maker)
+    * [Stock photography.](https://www.shopify.com/stock-photos)
+    * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
+    * [Link in bio tool.](https://linkpop.com/)
+    * [QR code generator.](https://www.shopify.com/tools/qr-code-generator)
     
 * What's new
     
-    * [Changelog
+    * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition
+    * [Winter ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
-    * [All Editions
+    * [All Editions.
         
         Archive of past Shopify Editions](https://www.shopify.com/editions/all)
-    * [Newsroom
+    * [Newsroom.
         
         All company news and press releases](https://shopify.com/news)
     
@@ -507,7 +507,8 @@ Opens an external site in a new window
 
 Shopify Logo
 
-### Shopify
+Shopify
+-------
 
 * [About](https://www.shopify.com/about)
 * [Careers](https://www.shopify.com/careers)
@@ -518,7 +519,8 @@ Shopify Logo
 * [Legal](https://www.shopify.com/legal)
 * [Service status](https://www.shopifystatus.com/)
 
-### Support
+Support
+-------
 
 * [Merchant support](https://help.shopify.com/en/questions)
 * [Help center](https://help.shopify.com/en/)
@@ -526,13 +528,15 @@ Shopify Logo
 * [Shopify Community](https://community.shopify.com/c/Shopify-Community/ct-p/en?utm_campaign=footer&utm_content=en&utm_medium=web&utm_source=shopify)
 * [Shopify Events](https://community.shopify.com/c/Shopify-Community/ct-p/en/home?utm_campaign=homepage&utm_content=en&utm_medium=web&utm_source=shopify)
 
-### Developers
+Developers
+----------
 
 * [Shopify.dev](https://shopify.dev/)
 * [API documentation](https://shopify.dev/api)
 * [Dev Degree](https://devdegree.ca/)
 
-### Products
+Products
+--------
 
 * [Shop](https://shop.app/)
 * [Shop Pay](https://www.shopify.com/shop-pay)
@@ -541,7 +545,8 @@ Shopify Logo
 * [Linkpop](https://linkpop.com/)
 * [Shopify for enterprise](https://www.shopify.com/enterprise)
 
-### Global impact
+Global impact
+-------------
 
 * [Sustainability](https://www.shopify.com/climate)
 * [Social impact](https://www.shopify.com/about/social-impact)
@@ -549,7 +554,8 @@ Shopify Logo
 * [Build Native](https://buildnative.shop/)
 * [Research](https://www.shopify.com/plus/commerce-trends)
 
-### Solutions
+Solutions
+---------
 
 * [Online store builder](https://www.shopify.com/online)
 * [Website builder](https://www.shopify.com/website/builder)
