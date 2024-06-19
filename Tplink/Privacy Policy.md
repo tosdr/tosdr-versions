@@ -77,14 +77,17 @@ Where to Buy
     * [Powerline](https://www.tp-link.com/us/home-networking/powerline/)
     * [Access Points](https://www.tp-link.com/us/home-networking/access-point/)
     
-    [](https://www.tp-link.com/us/home-networking/all-adapter/)
+    [](https://www.tp-link.com/us/landing/festa/)
     
-    [Adapters](https://www.tp-link.com/us/home-networking/all-adapter/)
+    [Festa](https://www.tp-link.com/us/landing/festa/)
     
-    Equip your devices for a faster Wi-Fi
+    The Networking Solution Built for Small Businesses and Prosumers
     
-    * [PCIe Adapters](https://www.tp-link.com/us/home-networking/pci-adapter/)
-    * [USB Adapters](https://www.tp-link.com/us/home-networking/usb-adapter/)
+    * [What is Festa?](https://www.tp-link.com/us/landing/festa/)
+    * [WiFi](https://www.tp-link.com/us/business-networking/soho-festa-access-point/)
+    * [Switches](https://www.tp-link.com/us/business-networking/soho-festa-switch/)
+    * [Gateways](https://www.tp-link.com/us/business-networking/soho-festa-gateway/)
+    * [All Products](https://www.tp-link.com/us/business-networking/all-soho-festa/)
     
     [](https://www.tp-link.com/us/home-networking/all-accessories/)
     
@@ -97,14 +100,23 @@ Where to Buy
     * [Charging](https://www.tp-link.com/us/home-networking/charging/)
     * [Bluetooth Receivers](https://www.tp-link.com/us/home-networking/bluetooth-reciever/)
     
-    [](https://www.tp-link.com/us/business-networking/all-soho/)
+    [](https://www.tp-link.com/us/business-networking/all-soho-switch/)
     
-    [Home Office Networking](https://www.tp-link.com/us/business-networking/all-soho/)
+    [Home Office Networking](https://www.tp-link.com/us/business-networking/all-soho-switch/)
     
     The easy-to-use solution for Home Office networking
     
-    * [SOHO Switches](https://www.tp-link.com/us/business-networking/all-soho-switch/)
-    * [Pharos Wireless Bridges](https://www.tp-link.com/us/business-networking/all-pharos-wireless-bridge/)
+    * [Unmanaged Switches](https://www.tp-link.com/us/business-networking/soho-switch-unmanaged/)
+    * [Easy Smart Switches](https://www.tp-link.com/us/business-networking/soho-switch-easy-smart/)
+    
+    [](https://www.tp-link.com/us/home-networking/all-adapter/)
+    
+    [Adapters](https://www.tp-link.com/us/home-networking/all-adapter/)
+    
+    Equip your devices for a faster Wi-Fi
+    
+    * [PCIe Adapters](https://www.tp-link.com/us/home-networking/pci-adapter/)
+    * [USB Adapters](https://www.tp-link.com/us/home-networking/usb-adapter/)
     
 * Smart Home
     
@@ -189,19 +201,6 @@ Where to Buy
     * [Accessories](https://www.tp-link.com/us/business-networking/omada/accessory/)
     * [All Products](https://www.tp-link.com/us/business-networking/all-omada/)
     
-    [](https://www.vigi.com/us/)
-    
-    [VIGI](https://www.vigi.com/us/)
-    
-    The smart surveillance solution for small and medium business
-    
-    * [What is VIGI?](https://www.vigi.com/us/about-us/)
-    * [Cameras](https://www.vigi.com/us/camera/)
-    * [Video Recorders](https://www.vigi.com/us/video-recorder/)
-    * [VIGI Solar Panel](https://www.vigi.com/us/accessory/)
-    * [Software Service](https://www.vigi.com/us/software-service/)
-    * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
-    
     [](https://www.tp-link.com/us/business-networking/all-omada-pro/)
     
     [Omada Pro](https://www.tp-link.com/us/business-networking/all-omada-pro/)
@@ -215,13 +214,42 @@ Where to Buy
     * [Controllers](https://www.tp-link.com/us/business-networking/all-omada-pro-controller/)
     * [All Products](https://www.tp-link.com/us/business-networking/all-omada-pro/)
     
-    [](https://www.tp-link.com/us/business-networking/all-soho/)
+    [](https://www.tp-link.com/us/landing/festa/)
     
-    [Home Office Networking](https://www.tp-link.com/us/business-networking/all-soho/)
+    [Festa](https://www.tp-link.com/us/landing/festa/)
     
-    The easy-to-use solution for SOHO networking
+    The Networking Solution Built for Small Businesses and Prosumers
     
-    * [Switches](https://www.tp-link.com/us/business-networking/all-soho-switch/)
+    * [What is Festa?](https://www.tp-link.com/us/landing/festa/)
+    * [WiFi](https://www.tp-link.com/us/business-networking/soho-festa-access-point/)
+    * [Switches](https://www.tp-link.com/us/business-networking/soho-festa-switch/)
+    * [Gateways](https://www.tp-link.com/us/business-networking/soho-festa-gateway/)
+    * [All Products](https://www.tp-link.com/us/business-networking/all-soho-festa/)
+    
+    [](https://www.vigi.com/us/)
+    
+    [VIGI](https://www.vigi.com/us/)
+    
+    The smart surveillance solution for small and medium business
+    
+    * [What is VIGI?](https://www.vigi.com/us/about-us/)
+    * [Cameras](https://www.vigi.com/us/camera/)
+    * [Video Recorders](https://www.vigi.com/us/video-recorder/)
+    * [VIGI Solar Panel](https://www.vigi.com/us/accessory/)
+    * [Software Service](https://www.vigi.com/us/software-service/)
+    * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
+    
+    [](https://www.tp-link.com/us/business-networking/soho-switch-unmanaged/)
+    
+    [Unmanaged Switches](https://www.tp-link.com/us/business-networking/soho-switch-unmanaged/)
+    
+    Plug and play for instant connection without management
+    
+    More Products
+    
+    Explore more products you need
+    
+    * [Easy Smart Switches](https://www.tp-link.com/us/business-networking/soho-switch-easy-smart/)
     * [Pharos Wireless Bridges](https://www.tp-link.com/us/business-networking/all-pharos-wireless-bridge/)
     
 * Service Providers
@@ -294,11 +322,17 @@ Where to Buy
         * [Access Points](https://www.tp-link.com/us/home-networking/access-point/)
             
         
-    * Adapters
+    * Festa
         
-        * [PCIe Adapters](https://www.tp-link.com/us/home-networking/pci-adapter/)
+        * [What is Festa?](https://www.tp-link.com/us/landing/festa/)
             
-        * [USB Adapters](https://www.tp-link.com/us/home-networking/usb-adapter/)
+        * [WiFi](https://www.tp-link.com/us/business-networking/soho-festa-access-point/)
+            
+        * [Switches](https://www.tp-link.com/us/business-networking/soho-festa-switch/)
+            
+        * [Gateways](https://www.tp-link.com/us/business-networking/soho-festa-gateway/)
+            
+        * [All Products](https://www.tp-link.com/us/business-networking/all-soho-festa/)
             
         
     * Accessories
@@ -314,9 +348,16 @@ Where to Buy
         
     * Home Office Networking
         
-        * [SOHO Switches](https://www.tp-link.com/us/business-networking/all-soho-switch/)
+        * [Unmanaged Switches](https://www.tp-link.com/us/business-networking/soho-switch-unmanaged/)
             
-        * [Pharos Wireless Bridges](https://www.tp-link.com/us/business-networking/all-pharos-wireless-bridge/)
+        * [Easy Smart Switches](https://www.tp-link.com/us/business-networking/soho-switch-easy-smart/)
+            
+        
+    * Adapters
+        
+        * [PCIe Adapters](https://www.tp-link.com/us/home-networking/pci-adapter/)
+            
+        * [USB Adapters](https://www.tp-link.com/us/home-networking/usb-adapter/)
             
         
     
@@ -385,21 +426,6 @@ Where to Buy
         * [All Products](https://www.tp-link.com/us/business-networking/all-omada/)
             
         
-    * VIGI
-        
-        * [What is VIGI?](https://www.vigi.com/us/about-us/)
-            
-        * [Cameras](https://www.vigi.com/us/camera/)
-            
-        * [Video Recorders](https://www.vigi.com/us/video-recorder/)
-            
-        * [VIGI Solar Panel](https://www.vigi.com/us/accessory/)
-            
-        * [Software Service](https://www.vigi.com/us/software-service/)
-            
-        * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
-            
-        
     * Omada Pro
         
         * [What is Omada Pro?](https://www.tp-link.com/us/landing/omada-pro/)
@@ -415,9 +441,39 @@ Where to Buy
         * [All Products](https://www.tp-link.com/us/business-networking/all-omada-pro/)
             
         
-    * Home Office Networking
+    * Festa
         
-        * [Switches](https://www.tp-link.com/us/business-networking/all-soho-switch/)
+        * [What is Festa?](https://www.tp-link.com/us/landing/festa/)
+            
+        * [WiFi](https://www.tp-link.com/us/business-networking/soho-festa-access-point/)
+            
+        * [Switches](https://www.tp-link.com/us/business-networking/soho-festa-switch/)
+            
+        * [Gateways](https://www.tp-link.com/us/business-networking/soho-festa-gateway/)
+            
+        * [All Products](https://www.tp-link.com/us/business-networking/all-soho-festa/)
+            
+        
+    * VIGI
+        
+        * [What is VIGI?](https://www.vigi.com/us/about-us/)
+            
+        * [Cameras](https://www.vigi.com/us/camera/)
+            
+        * [Video Recorders](https://www.vigi.com/us/video-recorder/)
+            
+        * [VIGI Solar Panel](https://www.vigi.com/us/accessory/)
+            
+        * [Software Service](https://www.vigi.com/us/software-service/)
+            
+        * [All Products](https://www.vigi.com/us/all-vigi-surveillance/)
+            
+        
+    * [Unmanaged Switches](https://www.tp-link.com/us/business-networking/soho-switch-unmanaged/)
+        
+    * More Products
+        
+        * [Easy Smart Switches](https://www.tp-link.com/us/business-networking/soho-switch-easy-smart/)
             
         * [Pharos Wireless Bridges](https://www.tp-link.com/us/business-networking/all-pharos-wireless-bridge/)
             
@@ -1000,11 +1056,11 @@ Learning Center
 
 Copyright © 2024 TP-Link USA Corporation. All rights reserved.
 
-From United Kingdom?
+From France?
 
 Get products, events and services for your region.
 
-[GO](https://www.tp-link.com/uk/about-us/privacy/) [Other Option](https://www.tp-link.com/us/choose-your-location/)
+[GO](https://www.tp-link.com/fr/about-us/privacy/) [Other Option](https://www.tp-link.com/us/choose-your-location/)
 
 Close
 
