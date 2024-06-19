@@ -1,21 +1,21 @@
    Sustainability Navigation   
 
-*  [![Logitech](/hc/theming_assets/01HZPJDW4THAE4DGGFSREVNFWN) ![Logitech](/hc/theming_assets/01HZPJDW0NNGS3KGF1KGDVTBHF)](https://www.logitech.com/)
-*  [![Gaming](/hc/theming_assets/01HZPJDVEFMFCSCYFC1HW67TEX) ![Gaming](/hc/theming_assets/01HZPJDV8DQSC6MEV0TNA08Z2E)](https://www.logitechg.com/)
-*  [![Jaybird](/hc/theming_assets/01HZPJDQ6DQYVQBNMMDC568RC9) ![Jaybird](/hc/theming_assets/01HZPJDQ1A9BXE4YGFVYCSFT6V)](https://www.jaybirdsport.com/)
-*  [![Ultimate Ears](/hc/theming_assets/01HZPJE5YMXQCYBH5KNVPBTJ9W) ![Ultimate Ears](/hc/theming_assets/01HZPJE5STCBC7XK2XVHPYAS4W)](https://www.ultimateears.com/)
-*  [![Astro](/hc/theming_assets/01HZPJDKZGKBJXY6KS59ESV11H) ![Astro](/hc/theming_assets/01HZPJDKTWY1WWATBBRDWEAJR2)](https://www.astrogaming.com/)
-*  [![Blue](/hc/theming_assets/01HZPJDM8EPKYWJ1M5KR4TKR1Z) ![Blue](/hc/theming_assets/01HZPJDM3VZCSB32MJGE8909RT)](https://support.bluedesigns.com/)
+*  [![Logitech](/hc/theming_assets/01J0B62E6T6A9Y7HFN3XCFTW6N) ![Logitech](/hc/theming_assets/01J0B62E6T6A9Y7HFN3XCFTW6N)](https://www.logitech.com/)
+*  [![Gaming](/hc/theming_assets/01J0B62FAQ7K1Y2T88QS6YVDQX) ![Gaming](/hc/theming_assets/01J0B62DYXAKCES707ZFT6STF5)](https://www.logitechg.com/)
+*  [![Jaybird](/hc/theming_assets/01J0B62DQRZKKJQHRTXKS4X7S7) ![Jaybird](/hc/theming_assets/01J0B62DQRZKKJQHRTXKS4X7S7)](https://www.jaybirdsport.com/)
+*  [![Ultimate Ears](/hc/theming_assets/01J0B62FMN34KG5PHNA4AHV45V) ![Ultimate Ears](/hc/theming_assets/01J0B62D3Z22WVY1KQGPBJQZGE)](https://www.ultimateears.com/)
+*  [![Astro](/hc/theming_assets/01J0B62EX96ZPEHFW4Y3M85AMC) ![Astro](/hc/theming_assets/01J0B62FP7836XDV32HCEG57CW)](https://www.astrogaming.com/)
+*  [![Blue](/hc/theming_assets/01J0B6EJ2JMQ3TJYW293A0QAT1) ![Blue](/hc/theming_assets/01J0B6EK35P64RR1QYK4SWFY3G)](https://support.bluedesigns.com/)
 
 * {\[{locales\["en-us"\].name}\]}
     
 * [Sign in](https://www.astrogaming.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.logi.com%2Fhc%2Fen-us%2Fcategories%2F360001764393-Gaming&locale=en-us "Opens a dialog")
 
-[![](/hc/theming_assets/01HZPJDXRFT46H9KW3SGPFRP8Z)](https://www.astrogaming.com/hc/en-us)
+[![](/hc/theming_assets/01J0B628RK08KTANFGMYVWCCP4)](https://www.astrogaming.com/hc/en-us)
 
 #### Support
 
-* [![](/hc/theming_assets/01HZPJDXRFT46H9KW3SGPFRP8Z)
+* [![](/hc/theming_assets/01J0B628RK08KTANFGMYVWCCP4)
     
     #### Support](https://www.logitech.com/)
 * [REGISTER A PRODUCT](https://www.astrogaming.com/hc/en-us/requests/new?ticket_form_id=360000994993)
@@ -25,12 +25,12 @@
 * [Educational Support](https://www.astrogaming.com/hc/en-us/requests/new?ticket_form_id=360004097733)
 * [CONTACT US](https://www.astrogaming.com/hc/en-us/requests/new?ticket_form_id=360000621393)
 
-*  [![Logitech](/hc/theming_assets/01HZPJDW4THAE4DGGFSREVNFWN) ![Logitech](/hc/theming_assets/01HZPJDW0NNGS3KGF1KGDVTBHF)](https://www.logitech.com/)
-*  [![Gaming](/hc/theming_assets/01HZPJDVEFMFCSCYFC1HW67TEX) ![Gaming](/hc/theming_assets/01HZPJDV8DQSC6MEV0TNA08Z2E)](https://www.logitechg.com/)
-*  [![Jaybird](/hc/theming_assets/01HZPJDQ6DQYVQBNMMDC568RC9) ![Jaybird](/hc/theming_assets/01HZPJDQ1A9BXE4YGFVYCSFT6V)](https://www.jaybirdsport.com/)
-*  [![Ultimate Ears](/hc/theming_assets/01HZPJE5YMXQCYBH5KNVPBTJ9W) ![Ultimate Ears](/hc/theming_assets/01HZPJE5STCBC7XK2XVHPYAS4W)](https://www.ultimateears.com/)
-*  [![Astro](/hc/theming_assets/01HZPJDKZGKBJXY6KS59ESV11H) ![Astro](/hc/theming_assets/01HZPJDKTWY1WWATBBRDWEAJR2)](https://www.astrogaming.com/)
-*  [![Blue](/hc/theming_assets/01HZPJDM8EPKYWJ1M5KR4TKR1Z) ![Blue](/hc/theming_assets/01HZPJDM3VZCSB32MJGE8909RT)](https://support.bluedesigns.com/)
+*  [![Logitech](/hc/theming_assets/01J0B62E6T6A9Y7HFN3XCFTW6N) ![Logitech](/hc/theming_assets/01J0B62E6T6A9Y7HFN3XCFTW6N)](https://www.logitech.com/)
+*  [![Gaming](/hc/theming_assets/01J0B62FAQ7K1Y2T88QS6YVDQX) ![Gaming](/hc/theming_assets/01J0B62DYXAKCES707ZFT6STF5)](https://www.logitechg.com/)
+*  [![Jaybird](/hc/theming_assets/01J0B62DQRZKKJQHRTXKS4X7S7) ![Jaybird](/hc/theming_assets/01J0B62DQRZKKJQHRTXKS4X7S7)](https://www.jaybirdsport.com/)
+*  [![Ultimate Ears](/hc/theming_assets/01J0B62FMN34KG5PHNA4AHV45V) ![Ultimate Ears](/hc/theming_assets/01J0B62D3Z22WVY1KQGPBJQZGE)](https://www.ultimateears.com/)
+*  [![Astro](/hc/theming_assets/01J0B62EX96ZPEHFW4Y3M85AMC) ![Astro](/hc/theming_assets/01J0B62FP7836XDV32HCEG57CW)](https://www.astrogaming.com/)
+*  [![Blue](/hc/theming_assets/01J0B6EJ2JMQ3TJYW293A0QAT1) ![Blue](/hc/theming_assets/01J0B6EK35P64RR1QYK4SWFY3G)](https://support.bluedesigns.com/)
 
 Welcome to Logitech Support
 ===========================
