@@ -763,7 +763,7 @@ How to import your data to Tuta
 
 **Emails**: [You can export/download individual emails or batch-export emails by using multi-select](https://tutanota.com/support#generalMail). Email import is not yet possible. We plan to support email import as well as an even easier export function with our new [secure desktop clients](https://tuta.com/blog/desktop-clients-tutanota).
 
-**Contacts**: [You can import and export contacts via vCard](https://tutanota.com/support#nav-contacts).
+**Contacts**: [You can import and export contacts easily](https://tutanota.com/support#contacts-import).
 
 **Calendars**: You can import and export calendars via .ics. Login with a browser and click on the three-dot button next to the calendar you wish to import data to or you wish to export.
 
