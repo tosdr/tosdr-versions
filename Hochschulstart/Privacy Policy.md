@@ -30,7 +30,7 @@ Bewerbung für ein Studium an deutschen Hochschulen
 
 [Unterstützung](https://hochschulstart.de/unterstuetzung "Unterstützung")
 
-[Kontakt](https://hochschulstart.de/unterstuetzung/bewerbersupport "Kontakt") [Wer hilft noch?](https://hochschulstart.de/unterstuetzung/wer-hilft-noch "Wer hilft noch?") [Downloads](https://hochschulstart.de/unterstuetzung/downloads "Downloads") [Statistik](https://hochschulstart.de/startseite/statistik/statistik-2024 "Statistik")
+[Kontakt](https://hochschulstart.de/unterstuetzung/bewerbersupport "Kontakt") [Wer hilft noch?](https://hochschulstart.de/unterstuetzung/wer-hilft-noch "Wer hilft noch?") [Downloads](https://hochschulstart.de/unterstuetzung/downloads "Downloads")
 
 [Statistik](https://hochschulstart.de/standard-titel "Statistik")
 
@@ -140,7 +140,6 @@ Stand: September 2021
 * [FAQ](https://hochschulstart.de/faq "FAQ")
 * [Downloads](https://hochschulstart.de/unterstuetzung/downloads "Downloads")
 * [Rechtsgrundlagen](https://hochschulstart.de/unterstuetzung/rechtsgrundlagen "Rechtsgrundlagen")
-* [Statistik](https://hochschulstart.de/startseite/statistik/statistik-2024 "Statistik")
 * [Sitemap](https://hochschulstart.de/sitemap "Sitemap")
 
 * [Kontakt](https://hochschulstart.de/unterstuetzung/bewerbersupport "Kontakt")
