@@ -2,6 +2,10 @@
 
 * [Activities](javascript:void(0))
     
+    [UEFA EURO2024 Contest](https://flightsim.to/euro2024)
+    
+    Predict and earn Loyalty Points!
+    
     [My Feed](https://flightsim.to/feed)
     
     New content from creators you follow
@@ -287,6 +291,7 @@
 * [Recent Updates](https://flightsim.to/recent-updates)
 * [Trending Today](https://flightsim.to/featured/downloads/today)
 * [Discounts](https://flightsim.to/store/on-sale)
+* [EURO2024](https://flightsim.to/euro2024)
 
 * [All](https://flightsim.to/)
 * [Wallpapers](https://wall.flightsim.to/)
