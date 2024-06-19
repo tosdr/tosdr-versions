@@ -362,15 +362,10 @@ Reach out to us and we’ll answer them.
 
 [Contact us](https://www.cookieyes.com/support/)
 
-![Cookieyes Logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/cookieyes-logo-white.svg)
-
-### Start your compliance right away
-
-[Try for free](https://app.cookieyes.com/trial?plan=basic-monthly&ref=CYHPFB)
-
 ![G2 Badges](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/g2-badges-large.svg) ![G2 Badges](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/g2-badges-small.svg)
 
-#### Subscribe to our newsletter
+### Start your compliance right away  
+newsletter in your inbox
 
 ![loader](https://www.cookieyes.com/wp-includes/images/spinner.gif)
 
@@ -518,14 +513,16 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 For support, [contact us here](https://www.cookieyes.com/support/)
 
-* [English](#)
-    
+![Cookieyes Logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/cookieyes-logo-white.svg)
 
 * [![Instagram](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/instagram.svg)](https://www.instagram.com/cookieyeshq/)
 * [![Facebook](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/facebook.svg)](https://www.facebook.com/cookieyeshq)
 * [![Twitter](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/twitter.svg)](https://twitter.com/cookieyeshq)
 * [![Youtube](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/youtube.svg)](https://www.youtube.com/cookieyes?sub_confirmation=1)
 * [![Linkedin](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/linkedin.svg)](https://www.linkedin.com/company/cookieyeshq/)
+
+* [English](#)
+    
 
 © 2024 CookieYes. All rights reserved. CookieYes Limited is registered in the UK. Company no. 13074037.
 
