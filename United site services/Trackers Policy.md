@@ -1,6 +1,6 @@
 [Skip to content](#fl-main-content)
 
-[![United Site Services Logo](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services Logo")](https://www.unitedsiteservices.com/)
+[![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
 * [Your Needs](#)
     
@@ -75,7 +75,7 @@
 
 [Get a Quote](https://www.unitedsiteservices.com/request-quote)
 
-[![](https://cdn.unitedsiteservices.com/wp-content/uploads/2023/07/USS-Logo.png)](https://www.unitedsiteservices.com/)
+[![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
 [(689)-284-0047](tel:16892840047)
 
@@ -147,7 +147,7 @@
 * [Paperless Invoicing Registration](https://www.unitedsiteservices.com/paperless-invoicing-registration/)
 * [Portable Restroom Calculator](https://www.unitedsiteservices.com/portable-restroom-calculator/)
 
-[![](https://cdn.unitedsiteservices.com/wp-content/uploads/2023/07/USS-Logo.png)](https://www.unitedsiteservices.com/)
+[![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
 [GO](#)
 
@@ -328,7 +328,7 @@ We understand that you may want to know more about cookies. Here are some useful
 
 ##### Your Needs
 
- 
+  
 
 * [Events](https://www.unitedsiteservices.com/events/)
 * [Construction](https://www.unitedsiteservices.com/construction/)
