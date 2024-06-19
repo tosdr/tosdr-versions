@@ -70,11 +70,11 @@
 
 MBFC News
 
-* [June 9, 2024 | MBFC’s Daily Vetted Fact Checks for 06/09/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/06/09/mbfcs-daily-vetted-fact-checks-for-06-09-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 06/09/2024 (Weekend Edition)")
-* [June 8, 2024 | (Media News) Alex Jones Seeks Liquidation Amid Sandy Hook Lawsuits](https://mediabiasfactcheck.com/2024/06/08/media-news-alex-jones-seeks-liquidation-amid-sandy-hook-lawsuits/ "(Media News) Alex Jones Seeks Liquidation Amid Sandy Hook Lawsuits")
-* [June 8, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of June 2nd – June 8th](https://mediabiasfactcheck.com/2024/06/08/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-june-2nd-june-8th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of June 2nd – June 8th")
-* [June 8, 2024 | MBFC’s Daily Vetted Fact Checks for 06/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/06/08/mbfcs-daily-vetted-fact-checks-for-06-08-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 06/08/2024 (Weekend Edition)")
-* [June 7, 2024 | (Media News) Imposter Network Posts False “COVID Vaccine Deaths” Lists Across 49 States](https://mediabiasfactcheck.com/2024/06/07/media-news-imposter-network-posts-false-covid-vaccine-deaths-lists-across-49-states/ "(Media News) Imposter Network Posts False “COVID Vaccine Deaths” Lists Across 49 States")
+* [June 18, 2024 | (Media News) YouTube Introduces Community Notes to Enhance Video Context](https://mediabiasfactcheck.com/2024/06/18/media-news-youtube-introduces-community-notes-to-enhance-video-context/ "(Media News) YouTube Introduces Community Notes to Enhance Video Context")
+* [June 18, 2024 | MBFC’s Daily Vetted Fact Checks for 06/18/2024](https://mediabiasfactcheck.com/2024/06/18/mbfcs-daily-vetted-fact-checks-for-06-18-2024/ "MBFC’s Daily Vetted Fact Checks for 06/18/2024")
+* [June 17, 2024 | (Media News) X is the Most Inaccurate News Source Among Social Media Platforms](https://mediabiasfactcheck.com/2024/06/17/x-is-the-most-inaccurate-news-source-among-social-media-platforms/ "(Media News) X is the Most Inaccurate News Source Among Social Media Platforms")
+* [June 17, 2024 | MBFC’s Daily Vetted Fact Checks for 06/17/2024](https://mediabiasfactcheck.com/2024/06/17/mbfcs-daily-vetted-fact-checks-for-06-17-2024/ "MBFC’s Daily Vetted Fact Checks for 06/17/2024")
+* [June 16, 2024 | Disinformation Research Group at Stanford Faces Uncertain Future Amid Political Scrutiny](https://mediabiasfactcheck.com/2024/06/16/disinformation-research-group-at-stanford-faces-uncertain-future-amid-political-scrutiny/ "Disinformation Research Group at Stanford Faces Uncertain Future Amid Political Scrutiny")
 
 Search for:  
 
@@ -150,76 +150,76 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [Bristol World – Bias and Credibility](https://mediabiasfactcheck.com/bristol-world-bias/)
+* [South OKC News – Bias and Credibility](https://mediabiasfactcheck.com/south-okc-news-bias/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [Congo-Brazzaville (Republic of the Congo) Government and Media Profile](https://mediabiasfactcheck.com/congo-brazzaville-republic-of-the-congo-government-and-media-profile/)
+* [National Republican Congressional Committee (NRCC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-congressional-committee-nrcc-bias/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [NewsClick – Bias and Credibility](https://mediabiasfactcheck.com/newsclick-bias-and-credibility/)
+* [Dayton Herald-News – Bias and Credibility](https://mediabiasfactcheck.com/dayton-herald-news-bias/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [Oklahoma Business Daily – Bias and Credibility](https://mediabiasfactcheck.com/oklahoma-business-daily-bias/)
+* [Cumberland News & Star – Bias and Credibility](https://mediabiasfactcheck.com/cumberland-news-star-bias/)
     
-    June 9, 2024
+    June 18, 2024
     
-* [Democratic Republic of Congo – Government and Media Profile](https://mediabiasfactcheck.com/democratic-republic-of-congo-government-and-media-profile/)
+* [Bellevue Reporter – Bias and Credibility](https://mediabiasfactcheck.com/bellevue-reporter-bias/)
     
-    June 8, 2024
+    June 18, 2024
     
-* [World Wildlife Fund – Bias and Credibility](https://mediabiasfactcheck.com/world-wildlife-fund-bias-and-credibility/)
+* [NewsLaundry – Bias and Credibility](https://mediabiasfactcheck.com/newslaundry-bias-and-credibility/)
     
-    June 8, 2024
+    June 17, 2024
     
-* [Control, Robotics and Autonomous Systems Journal – Bias and Credibility](https://mediabiasfactcheck.com/control-robotics-and-autonomous-systems-journal-bias/)
+* [Ethiopia Government and Media Profile](https://mediabiasfactcheck.com/ethiopia-government-and-media-profile/)
     
-    June 8, 2024
+    June 17, 2024
     
-* [350 Pacific – Bias and Credibility](https://mediabiasfactcheck.com/350-pacific-bias/)
+* [Alabama Reflector – Bias and Credibility](https://mediabiasfactcheck.com/alabama-reflector-bias/)
     
-    June 8, 2024
+    June 17, 2024
     
 
 [See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - June 9, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - June 18, 2024
     
-* [Bristol World – Bias and Credibility](https://mediabiasfactcheck.com/bristol-world-bias/ "View Bristol World – Bias and Credibility") - June 9, 2024
+* [South OKC News – Bias and Credibility](https://mediabiasfactcheck.com/south-okc-news-bias/ "View South OKC News – Bias and Credibility") - June 18, 2024
     
-* [Country Profiles](https://mediabiasfactcheck.com/country-profiles/ "View Country Profiles") - June 9, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - June 18, 2024
     
-* [Congo-Brazzaville (Republic of the Congo) Government and Media Profile](https://mediabiasfactcheck.com/congo-brazzaville-republic-of-the-congo-government-and-media-profile/ "View Congo-Brazzaville (Republic of the Congo) Government and Media Profile") - June 9, 2024
+* [National Republican Congressional Committee (NRCC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-congressional-committee-nrcc-bias/ "View National Republican Congressional Committee (NRCC) – Bias and Credibility") - June 18, 2024
     
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - June 9, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - June 18, 2024
     
-* [NewsClick – Bias and Credibility](https://mediabiasfactcheck.com/newsclick-bias-and-credibility/ "View NewsClick – Bias and Credibility") - June 9, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - June 18, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - June 9, 2024
+* [Dayton Herald-News – Bias and Credibility](https://mediabiasfactcheck.com/dayton-herald-news-bias/ "View Dayton Herald-News – Bias and Credibility") - June 18, 2024
     
-* [Oklahoma Business Daily – Bias and Credibility](https://mediabiasfactcheck.com/oklahoma-business-daily-bias/ "View Oklahoma Business Daily – Bias and Credibility") - June 9, 2024
+* [Radio Free Asia – Bias and Credibility](https://mediabiasfactcheck.com/radio-free-asia/ "View Radio Free Asia – Bias and Credibility") - June 18, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - June 9, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - June 18, 2024
     
-* [Democratic Republic of Congo – Government and Media Profile](https://mediabiasfactcheck.com/democratic-republic-of-congo-government-and-media-profile/ "View Democratic Republic of Congo – Government and Media Profile") - June 8, 2024
+* [Cumberland News & Star – Bias and Credibility](https://mediabiasfactcheck.com/cumberland-news-star-bias/ "View Cumberland News & Star – Bias and Credibility") - June 18, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
+* [MBFC's Daily Vetted Fact Checks for 06/18/2024](https://mediabiasfactcheck.com/2024/06/18/mbfcs-daily-vetted-fact-checks-for-06-18-2024/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MBFC's Daily Vetted Fact Checks for 06/09/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/06/09/mbfcs-daily-vetted-fact-checks-for-06-09-2024-weekend-edition/)
-* [MBFC's Daily Vetted Fact Checks for 06/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/06/08/mbfcs-daily-vetted-fact-checks-for-06-08-2024-weekend-edition/)
-* [MBFC's Daily Vetted Fact Checks for 06/07/2024](https://mediabiasfactcheck.com/2024/06/07/mbfcs-daily-vetted-fact-checks-for-06-07-2024/)
-* [Al Jazeera - Bias and Credibility](https://mediabiasfactcheck.com/al-jazeera/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
+* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [New York Post - Bias and Credibility](https://mediabiasfactcheck.com/new-york-post/)
+* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
