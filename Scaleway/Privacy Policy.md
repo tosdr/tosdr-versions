@@ -23,7 +23,7 @@ Open
         * [StoreFor mission-critical data, fast storage, backup and streaming](https://www.scaleway.com/en/dedibox/store/)
         * [DedirackHost your Hardware in our secured French datacenters](https://www.scaleway.com/en/dedibox/dedirack/)
         * [Dedibox VPS60 locations worldwide, starting at €4,99/month](https://www.scaleway.com/en/dedibox-vps/)
-    * [Elastic Metal](https://www.scaleway.com/en/elastic-metal/)
+    * [Elastic Metal - bare metal cloud](https://www.scaleway.com/en/elastic-metal/)
         * [AluminiumFully dedicated bare metal servers with native cloud integration, at the best price](https://www.scaleway.com/en/elastic-metal/aluminium/)
         * [BerylliumPowerful, balanced and reliable servers for production-grade applications](https://www.scaleway.com/en/elastic-metal/beryllium/)
         * [IridiumPowerful dedicated server designed to handle high-workload applications](https://www.scaleway.com/en/elastic-metal/iridium/)
@@ -176,7 +176,7 @@ Open
     * [StoreFor mission-critical data, fast storage, backup and streaming](https://www.scaleway.com/en/dedibox/store/)
     * [DedirackHost your Hardware in our secured French datacenters](https://www.scaleway.com/en/dedibox/dedirack/)
     * [Dedibox VPS60 locations worldwide, starting at €4,99/month](https://www.scaleway.com/en/dedibox-vps/)
-* Elastic Metal
+* Elastic Metal - bare metal cloud
     * [AluminiumFully dedicated bare metal servers with native cloud integration, at the best price](https://www.scaleway.com/en/elastic-metal/aluminium/)
     * [BerylliumPowerful, balanced and reliable servers for production-grade applications](https://www.scaleway.com/en/elastic-metal/beryllium/)
     * [IridiumPowerful dedicated server designed to handle high-workload applications](https://www.scaleway.com/en/elastic-metal/iridium/)
