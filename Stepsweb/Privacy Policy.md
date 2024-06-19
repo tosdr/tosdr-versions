@@ -16,6 +16,7 @@
 
 [![Login](https://no-cache.hubspot.com/cta/default/7919621/fd6e5da7-4051-48fd-a753-a345352d312c.png)](https://cta-redirect.hubspot.com/cta/redirect/7919621/fd6e5da7-4051-48fd-a753-a345352d312c)
 
+* [Structured Literacy](https://www.stepsweb.com/why-steps/science-of-reading-and-structured-literacy)
 * [Why Steps?](https://www.stepsweb.com/why-steps)
     * [How it works](https://www.stepsweb.com/why-steps/how-it-works)
     * [Science of Reading & Structured Literacy](https://www.stepsweb.com/why-steps/science-of-reading-and-structured-literacy)
@@ -46,8 +47,6 @@
     * [Case Studies](https://www.stepsweb.com/why-steps/case-studies)
     * [Webinars](https://www.stepsweb.com/insights/webinars)
     * [Previous Newsletters](https://us6.campaign-archive.com/home/?u=3ecb07ccdb597b2ee7d0098f8&id=c90384ee45)
-* [Training](https://www.stepsweb.com/training)
-    * [Webinars](https://www.stepsweb.com/insights/webinars)
 
  Search
 
@@ -57,6 +56,7 @@
 
 [![Free trial](https://no-cache.hubspot.com/cta/default/7919621/5841ab62-991c-4c6c-8904-af9cd86e671b.png)](https://cta-redirect.hubspot.com/cta/redirect/7919621/5841ab62-991c-4c6c-8904-af9cd86e671b)
 
+* [Structured Literacy](https://www.stepsweb.com/why-steps/science-of-reading-and-structured-literacy)
 * [Why Steps?](javascript:;)
     * [How it works](https://www.stepsweb.com/why-steps/how-it-works)
     * [Science of Reading & Structured Literacy](https://www.stepsweb.com/why-steps/science-of-reading-and-structured-literacy)
@@ -87,8 +87,6 @@
     * [Case Studies](https://www.stepsweb.com/why-steps/case-studies)
     * [Webinars](https://www.stepsweb.com/insights/webinars)
     * [Previous Newsletters](https://us6.campaign-archive.com/home/?u=3ecb07ccdb597b2ee7d0098f8&id=c90384ee45)
-* [Training](javascript:;)
-    * [Webinars](https://www.stepsweb.com/insights/webinars)
 * [Support](javascript:;)
     * [Technical Information](https://www.stepsweb.com/support/technical-information)
     * [FAQs](https://www.stepsweb.com/faqs)
