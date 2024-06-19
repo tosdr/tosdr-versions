@@ -76,6 +76,8 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
     
 * [Band Merch](https://www.emp-online.com/band-merch/)
     
+* [Brands](https://www.emp-online.com/clothing-brands/)
+    
 * [Movies & TV](https://www.emp-online.com/fan-merch/)
     
 * [Anime](https://www.emp-online.com/fan-merch/anime/)
