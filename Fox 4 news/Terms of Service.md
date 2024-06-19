@@ -6,7 +6,7 @@
 * [Sports](https://www.fox4news.com/sports)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Traffic](https://www.fox4news.com/traffic)
-* [Election](https://www.fox4news.com/election)
+* [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
 [Watch Live](https://www.fox4news.com/live)
@@ -96,17 +96,13 @@ Search site
 
 [River Flood Warning
 
-until TUE 11:34 PM CDT, Navarro County, Henderson County](https://www.fox4news.com/weather-alerts)
+until SAT 4:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
-3
-
-[River Flood Warning
-
-is in effect, Hopkins County, Delta County, Freestone County, Anderson County, Anderson County, Anderson County](https://www.fox4news.com/weather-alerts)
+2
 
 [River Flood Warning
 
-until TUE 7:00 AM CDT, Red River County](https://www.fox4news.com/weather-alerts)
+until SUN 1:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
 Terms of Service
 ================
