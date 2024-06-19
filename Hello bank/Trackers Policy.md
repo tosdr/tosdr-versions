@@ -77,14 +77,17 @@
         * [Apple Pay](https://www.hellobank.fr/fr/offre/compte-et-cartes/services-bancaires/apple-pay/)
         * [Découvrir tous nos services](https://www.hellobank.fr/fr/offre/compte-et-cartes/services-bancaires/)
     
-    En ce moment 1 € / mois​
+    En ce moment
     
-    pendant 6 mois\*  
-    sur Hello Prime​
+    **Jusqu'à**
     
-    Offre valable du 06/05/2024 au 12/06/2024​
+    80 € OFFERTS\*
     
-    [J'en profite](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/)
+    **sur Hello Prime et Hello Prime Duo** en effectuant 10 opérations carte dans les 3 mois
+    
+    Offre valable jusqu'au 21/08/2024
+    
+    [J'en profite](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/) \* Voir conditions sur le site.
     
 * Épargne et bourse
     
@@ -209,6 +212,19 @@
     [En savoir plus](https://www.hellobank.fr/fr/offre/assurance-prevoyance/assurance-appareils-mobiles/)
     
 * [Parrainage](https://www.hellobank.fr/fr/votre-offre-parrainage/)
+    
+    En ce moment
+    
+    **Jusqu'à**
+    
+    80 € OFFERTS\*
+    
+    **sur Hello Prime et Hello Prime Duo** en effectuant 10 opérations carte dans les 3 mois
+    
+    Offre valable jusqu'au 21/08/2024
+    
+    [J'en profite](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/) \* Voir conditions sur le site.
+    
 * Recherche, vous avez une question ? Vous avez une question ?
 
 * [Devenir client](https://www.hellobank.fr/fr/ouvrir-un-compte/comment-souscrire/)
