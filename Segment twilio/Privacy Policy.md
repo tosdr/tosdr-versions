@@ -5,8 +5,8 @@
     
 * Support
     
-    * [Help Center](https://support.twilio.com/hc/en-us?_ga=2.10372021.1826591240.1667227419-607057990.1661885030)
-    * [Talk to Support](https://support.twilio.com/hc/en-us/requests/new?_ga=2.112691204.1826591240.1667227419-607057990.1661885030)
+    * [Help Center](https://help.twilio.com/)
+    * [Talk to Support](https://help.twilio.com/)
     * [Training](https://www.twiliotraining.com/store)
     
     * * *
@@ -184,6 +184,8 @@
     * [**Public Sector**](https://segment.com/en-us/solutions/public-sector)
     * [**Real Estate**](https://segment.com/en-us/solutions/real-estate)
     * [**Retail**](https://segment.com/en-us/solutions/retail)
+    
+    [See all solutions](https://segment.com/en-us/solutions)
     
     ##### People shaking hands Partners
     
@@ -533,6 +535,8 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
     * [**Public Sector**](https://segment.com/en-us/solutions/public-sector)
     * [**Real Estate**](https://segment.com/en-us/solutions/real-estate)
     * [**Retail**](https://segment.com/en-us/solutions/retail)
+    
+    [See all solutions](https://segment.com/en-us/solutions)
     
     ##### People shaking hands Partners
     
