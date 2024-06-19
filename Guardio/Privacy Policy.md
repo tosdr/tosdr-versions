@@ -1,4 +1,38 @@
-[Guardio](https://guard.io/?ref=header_logo)
+[Guardio](https://guard.io/)
+
+[For Business](https://guard.io/team)
+
+Resources
+
+* [Guardio Labs
+    
+    In-Depth Research of Cyber Scams](https://labs.guard.io/)
+
+* * *
+
+* [Blog
+    
+    Tips & Articles on Online Security](https://guard.io/blog)
+
+* * *
+
+* [Why Guardio?
+    
+    Proactive Ways to Fight Cyber Threats](https://guard.io/tech)
+
+Support
+
+* [Help Center
+    
+    Guides and Info for Using Guardio](https://help.guard.io/hc/en-us)
+
+* * *
+
+* [Contact us
+    
+    Get Fast, Real-Human Support](https://guard.io/contact)
+
+[Pricing](https://guard.io/plans/)
 
 Privacy policy - "Guardio"
 
