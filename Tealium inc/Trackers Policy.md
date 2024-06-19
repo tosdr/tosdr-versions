@@ -81,7 +81,7 @@
     * [Customer Success](#)
         * [Support Overview](https://tealium.com/customer-support-packages/)
         * [Tealium Support Desk](https://my.tealiumiq.com/?_gl=1*1w1wg8i*_gcl_aw*R0NMLjE2MjA3NjE4NzQuQ2p3S0NBancxdWlFQmhCekVpd0FPOUJfSFotVXp5NkFiNEtaSm4yVDJaOWlEQ0NzdXNPYjdqZFhJa3pyanVjUTNTSHI0a3FxbWg1NXdSb0NRNzhRQXZEX0J3RQ..)
-        * [Community](https://tealium.influitive.com/corporate)
+        * [Community](https://tealium.customershome.com/login?returnUrl=%2F)
         * [Tealium Education](https://tealium.com/tealium-education/)
     
 * [Company](#)
@@ -161,7 +161,7 @@
     * [Customer Success](#)
         * [Support Overview](https://tealium.com/customer-support-packages/)
         * [Tealium Support Desk](https://my.tealiumiq.com/?_gl=1*1w1wg8i*_gcl_aw*R0NMLjE2MjA3NjE4NzQuQ2p3S0NBancxdWlFQmhCekVpd0FPOUJfSFotVXp5NkFiNEtaSm4yVDJaOWlEQ0NzdXNPYjdqZFhJa3pyanVjUTNTSHI0a3FxbWg1NXdSb0NRNzhRQXZEX0J3RQ..)
-        * [Community](https://tealium.influitive.com/corporate)
+        * [Community](https://tealium.customershome.com/login?returnUrl=%2F)
         * [Tealium Education](https://tealium.com/tealium-education/)
     
 * [Company](#)
