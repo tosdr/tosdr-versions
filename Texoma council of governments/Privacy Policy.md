@@ -173,19 +173,19 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Jun 13
-
-9:00 am - 1:00 pm
-
-### [FGP Monthly Inservice](https://tcog.com/event/fgp-monthly-inservice/2024-06-13/ "FGP Monthly Inservice")
-
-Sherman
-
 Jun 20
 
 5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
 
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-06-20/ "Governing Board Meeting")
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-8/ "Governing Board Meeting")
+
+Sherman
+
+Jul 11
+
+9:00 am - 1:00 pm
+
+### [FGP Monthly Inservice](https://tcog.com/event/fgp-monthly-inservice/2024-07-11/ "FGP Monthly Inservice")
 
 Sherman
 
