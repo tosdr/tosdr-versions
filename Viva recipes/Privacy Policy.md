@@ -1,6 +1,4 @@
-[![Viva Recipes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
+[![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
 
 * [Appetizer](https://www.vivarecipes.com/category/videos/appetizer/)
 * [Breakfast](https://www.vivarecipes.com/category/videos/breakfast/)
@@ -18,19 +16,30 @@ Hi, what are you looking for?
 
  
 
-[![Viva Recipes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
 
-![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
-
-[![Viva Recipes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
+[![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
 
 Viva Recipes
 ------------
 
 * [Appetizer](https://www.vivarecipes.com/category/videos/appetizer/)
     
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![](https://i.ytimg.com/vi/WOiFXMoHDU8/maxresdefault.jpg)
+        
+        Aubergine Starter. #starter #aubergine #tastystarter](https://www.vivarecipes.com/videos/appetizer/aubergine-starter-starter-aubergine-tastystarter/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20337'%3E%3C/svg%3E)
+        
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Appetizers-for-parties-Easy-Chicken-Roll-ups-480x337.jpg)
+        
+        Party Starters: Effortless Chicken Wraps](https://www.vivarecipes.com/videos/appetizer/party-starters-effortless-chicken-wraps/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/CAPRESE-POLENTA-STACKS-shorts-food-cooking-600x337.jpg)
+        
+        CAPRESE POLENTA TOWERS!! #shorts #food #cooking](https://www.vivarecipes.com/videos/appetizer/caprese-polenta-towers-shorts-food-cooking/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![](https://i.ytimg.com/vi/XUa1-t6-mfs/maxresdefault.jpg)
@@ -41,57 +50,42 @@ Viva Recipes
         ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Air-Fryer-Bacon-and-Egg-Toast-Recipe-600x337.jpg)
         
         Quick Bacon and Egg Toast via Air Fryer](https://www.vivarecipes.com/videos/appetizer/quick-bacon-and-egg-toast-via-air-fryer/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/The-most-delicious-buns-recipe-you-will-be-amazed-at-600x337.jpg)
-        
-        An Exquisite Rolls Recipe That Will Astonish You With Its Simplicity](https://www.vivarecipes.com/videos/appetizer/an-exquisite-rolls-recipe-that-will-astonish-you-with-its-simplicity/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://i.ytimg.com/vi/-uWrl0R18d4/maxresdefault.jpg)
-        
-        Alluring Crispy Spring Rolls (These appetizers are a staple dish in many Asian eateries)](https://www.vivarecipes.com/videos/appetizer/alluring-crispy-spring-rolls-these-appetizers-are-a-staple-dish-in-many-asian-eateries/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.vivarecipes.com/wp-content/uploads/2024/05/Smoked-Shotgun-Shells-600x337.jpg)
-        
-        Smoke-Infused Shotgun Shells](https://www.vivarecipes.com/videos/appetizer/smoke-infused-shotgun-shells/)
     
 * [Breakfast](https://www.vivarecipes.com/category/videos/breakfast/)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/I-am-obsessed-with-this-breakfast-shorts-480x337.jpg)
-        
-        My fixation on this morning meal #shorts is unyielding](https://www.vivarecipes.com/videos/breakfast/my-fixation-on-this-morning-meal-shorts-is-unyielding/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
         
-        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Instant-Tomato-Dosa-Recipe-Just-10-Mins-Crispy-600x337.jpg)
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/The-best-french-toast-ever-easyrecipe-breakfast-600x337.jpg)
         
-        Quick Thakkali Dosai Guide – Ready in 10 Minutes | Crisp, Delicate & Layered Tomato Dosa – NO FERMENTATION REQUIRED](https://www.vivarecipes.com/videos/breakfast/quick-thakkali-dosai-guide-ready-in-10-minutes-crisp-delicate-layered-tomato-dosa-no-fermentation-required/)
+        Ultimate French Toast Supreme! #simpleinstructions #morningmeal](https://www.vivarecipes.com/videos/breakfast/ultimate-french-toast-supreme-simpleinstructions-morningmeal/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![](https://i.ytimg.com/vi/a3xNpw4HmfY/hqdefault.jpg)
+        ![](https://i.ytimg.com/vi/3Z5IAXUxOJs/maxresdefault.jpg)
         
-        Scrumptious Morning Meal! Quick Scrambled Eggs with Plantains//Traditional Nigerian Egg Breakfast Dishes](https://www.vivarecipes.com/videos/breakfast/scrumptious-morning-meal-quick-scrambled-eggs-with-plantains-traditional-nigerian-egg-breakfast-dishes/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/How-to-make-poha-Poha-recipe-breakfast-recipes-@SwadSafar7-600x337.jpg)
-        
-        Preparing Poha, Instructions for Poha, Morning Meal Ideas, @SwadSafar7, Simple Cooking Method](https://www.vivarecipes.com/videos/breakfast/preparing-poha-instructions-for-poha-morning-meal-ideas-swadsafar7-simple-cooking-method/)
+        Tata Soulfull Ragi Bites with Strawberry Filling | Tata Soulfull Ragi Moorsels | Morning Meal Ideations | Tata Soulfull |](https://www.vivarecipes.com/videos/breakfast/tata-soulfull-ragi-bites-with-strawberry-filling-tata-soulfull-ragi-moorsels-morning-meal-ideations-tata-soulfull/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20337'%3E%3C/svg%3E)
         
-        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Breakfast-sandwich-480x337.jpg)
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/सूजी-का-इतना-टेस्टी-नास्ता-मेहमान-भी-पूछेंगे-कैसे-बनाया-480x337.jpg)
         
-        Morning Meal Sandwich](https://www.vivarecipes.com/videos/breakfast/morning-meal-sandwich/)
+        इस नाश्ते की रेसिपी से मेहमान भी पूछ बैठेंगे कि यह कैसे बनाया गया है ॥ स्वस्थ नास्ता ॥ सूजी के नाश्ते की विधि](https://www.vivarecipes.com/videos/breakfast/%e0%a4%87%e0%a4%b8-%e0%a4%a8%e0%a4%be%e0%a4%b6%e0%a5%8d%e0%a4%a4%e0%a5%87-%e0%a4%95%e0%a5%80-%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a4%bf%e0%a4%aa%e0%a5%80-%e0%a4%b8%e0%a5%87-%e0%a4%ae%e0%a5%87%e0%a4%b9/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Belgian-Waffle-Breakfast-Recipe-breakfast-shorts-600x337.jpg)
+        
+        Belgian Waffle Morning Meal Guide #morningmeal #shorts](https://www.vivarecipes.com/videos/breakfast/belgian-waffle-morning-meal-guide-morningmeal-shorts/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
+        ![](https://www.vivarecipes.com/wp-content/uploads/2024/06/Babe-wanted-an-egg-bacon-cheese-￼-600x337.jpg)
+        
+        Darling desired an omelet with bacon and cheese](https://www.vivarecipes.com/videos/breakfast/darling-desired-an-omelet-with-bacon-and-cheese/)
     
 * [Dessert](https://www.vivarecipes.com/category/videos/dessert/)
     
+    * [Strawberry Cheesecake French Toast Rolls Preparation Guide](https://www.vivarecipes.com/videos/dessert/strawberry-cheesecake-french-toast-rolls-preparation-guide/)
+    * [Blissful Mango Treat | Mango Bliss Recipe | Tropical Mango Sweet | Luscious Mango Miracle by @IceandSpicepk](https://www.vivarecipes.com/videos/dessert/blissful-mango-treat-mango-bliss-recipe-tropical-mango-sweet-luscious-mango-miracle-by-iceandspicepk/)
     * [Scrumptios Chocolate Cake Recipes | Simple and Quick Dessert Guides to Try Right Away](https://www.vivarecipes.com/videos/dessert/scrumptios-chocolate-cake-recipes-simple-and-quick-dessert-guides-to-try-right-away/)
     * [8 Sweet Treats Using a Single Baking Pan #Shorts](https://www.vivarecipes.com/videos/dessert/8-sweet-treats-using-a-single-baking-pan-shorts/)
     * [Oreo Twists #quickvideos #oreo #swissroll #simplerecipe](https://www.vivarecipes.com/videos/dessert/oreo-twists-quickvideos-oreo-swissroll-simplerecipe/)
-    * [Delectable Chocolate Chip Cookie Dough #shorts](https://www.vivarecipes.com/videos/dessert/delectable-chocolate-chip-cookie-dough-shorts/)
-    * [Create Your Own Strawberry Tanghulu Recipe](https://www.vivarecipes.com/videos/dessert/create-your-own-strawberry-tanghulu-recipe/)
     
 * [Healthy](https://www.vivarecipes.com/category/videos/healthy/)
     
@@ -111,55 +105,75 @@ Viva Recipes
     
 * [Main Dish](https://www.vivarecipes.com/category/videos/main-dish/)
     
-    * [Could this be an accompaniment or a primary course?](https://www.vivarecipes.com/videos/main-dish/could-this-be-an-accompaniment-or-a-primary-course/)
-    * [FUNCTION AS A PRIMARY COURSE, ACCOMPANIMENT, OR STARTER!! SPECTACULAR AND ELEGANT CULINARY CREATION!!! PRESENT AS A PRIMARY MEAL!❤️](https://www.vivarecipes.com/videos/main-dish/function-as-a-primary-course-accompaniment-or-starter-spectacular-and-elegant-culinary-creation-present-as-a-primary-meal%e2%9d%a4%ef%b8%8f/)
-    * [Gai Lan Chinese Broccoli Dish | Swift and Straightforward Companion Plate](https://www.vivarecipes.com/videos/main-dish/gai-lan-chinese-broccoli-dish-swift-and-straightforward-companion-plate/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![](https://i.ytimg.com/vi/npoGmfmGcaQ/maxresdefault.jpg)
+        ![](https://i.ytimg.com/vi/YfNx9vziIvo/maxresdefault.jpg)
         
-        Day 24: Ratatouille – Veggie Recipes](https://www.vivarecipes.com/videos/main-dish/day-24-ratatouille-veggie-recipes/)
-    * [Ideal Roasted or Barbecued Chicken Accompaniment: A Veggie Dish](https://www.vivarecipes.com/videos/main-dish/ideal-roasted-or-barbecued-chicken-accompaniment-a-veggie-dish/)
+        Ma Naraye Mastana | Recipe Preparation | Biya's Kitchen #eiddesserts](https://www.vivarecipes.com/videos/main-dish/ma-naraye-mastana-recipe-preparation-biyas-kitchen-eiddesserts/)
+    * [PESTO PASTA](https://www.vivarecipes.com/videos/main-dish/pesto-pasta/)
+    * [Simple and Delicious Potato Eggplant Curry #youtubeshorts #shorts #viral #food #recipe #trending #cooking](https://www.vivarecipes.com/videos/main-dish/simple-and-delicious-potato-eggplant-curry-youtubeshorts-shorts-viral-food-recipe-trending-cooking/)
+    * [Could this be an accompaniment or a primary course?](https://www.vivarecipes.com/videos/main-dish/could-this-be-an-accompaniment-or-a-primary-course/)
+    * [FUNCTION AS A PRIMARY COURSE, ACCOMPANIMENT, OR STARTER!! SPECTACULAR AND ELEGANT CULINARY CREATION!!! PRESENT AS A PRIMARY MEAL!❤️](https://www.vivarecipes.com/videos/main-dish/function-as-a-primary-course-accompaniment-or-starter-spectacular-and-elegant-culinary-creation-present-as-a-primary-meal%e2%9d%a4%ef%b8%8f/)
     
 * [Quick & Easy](https://www.vivarecipes.com/category/videos/quick-easy/)
     
-    * [My go-to foods when I’m feeling too indolent to prepare a meal](https://www.vivarecipes.com/videos/quick-easy/my-go-to-foods-when-im-feeling-too-indolent-to-prepare-a-meal/)
-    * [Scrumptious Seafood Paella That Will Whisk You Away to Spain | Simple & Swift Recipe](https://www.vivarecipes.com/videos/quick-easy/scrumptious-seafood-paella-that-will-whisk-you-away-to-spain-simple-swift-recipe/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![](https://i.ytimg.com/vi/mi69H6US8ag/maxresdefault.jpg)
+        ![](https://i.ytimg.com/vi/juAValcnbeA/maxresdefault.jpg)
         
-        Speedy Sweet Potato Snacks | Instant Recipes | ETV Abhiruchi](https://www.vivarecipes.com/videos/quick-easy/speedy-sweet-potato-snacks-instant-recipes-etv-abhiruchi/)
+        Rapid & Nutritious Snack Recipes: Simple Preparations for Hectic Times](https://www.vivarecipes.com/videos/quick-easy/rapid-nutritious-snack-recipes-simple-preparations-for-hectic-times/)
+    * [Relish the Warmth: 3 Simple & Nutritious Evening Meal Ideas! Champion Dinners 199](https://www.vivarecipes.com/videos/quick-easy/relish-the-warmth-3-simple-nutritious-evening-meal-ideas-champion-dinners-199/)
+    * [Prepare Ribs in Just 3 Hours?! Speedy Party Ribs Recipe](https://www.vivarecipes.com/videos/quick-easy/prepare-ribs-in-just-3-hours-speedy-party-ribs-recipe/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![](https://i.ytimg.com/vi/ctlaSUk_Eao/maxresdefault.jpg)
+        ![](https://i.ytimg.com/vi/cRjdE0-8ldY/maxresdefault.jpg)
         
-        Bilvadhanyadi Decoction | Speedy Recipes | ETV Abhiruchi](https://www.vivarecipes.com/videos/quick-easy/bilvadhanyadi-decoction-speedy-recipes-etv-abhiruchi/)
+        Spiced Tomato | Speedy Recipes | ETV Abhiruchi](https://www.vivarecipes.com/videos/quick-easy/spiced-tomato-speedy-recipes-etv-abhiruchi/)
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ![](https://i.ytimg.com/vi/CEs_-kkiz_I/maxresdefault.jpg)
+        ![](https://i.ytimg.com/vi/w0XwncIorWo/maxresdefault.jpg)
         
-        Seasonal Highlight! Effortless Midday / Evening Meal Idea | Swift Spiced Rice Cooking Method | Uncomplicated Rice Pilaf Recipe](https://www.vivarecipes.com/videos/quick-easy/seasonal-highlight-effortless-midday-evening-meal-idea-swift-spiced-rice-cooking-method-uncomplicated-rice-pilaf-recipe/)
+        RAW MINCED MEAT KEBABS | BY FOOD EXPRESS | SPEEDY ASMR LOCAL RECIPES FOR SUPPER VISITORS](https://www.vivarecipes.com/videos/quick-easy/raw-minced-meat-kebabs-by-food-express-speedy-asmr-local-recipes-for-supper-visitors/)
     
 * [Salad](https://www.vivarecipes.com/category/videos/salad/)
     
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
+        ![](https://i.ytimg.com/vi/jqQstiUdshc/maxresdefault.jpg)
+        
+        Garbanzo Bean Salad Directions | Salad Preparation | Nutritious Salad Ideas #healthy #Salad #garbanzobeans](https://www.vivarecipes.com/videos/salad/garbanzo-bean-salad-directions-salad-preparation-nutritious-salad-ideas-healthy-salad-garbanzobeans/)
+    * [Slimming Salad Formula for Midday/Evening Meals I अत्यधिक कुशल यह सलाद नुस्खा स्वास्थ्यप्रद भी है](https://www.vivarecipes.com/videos/salad/slimming-salad-formula-for-midday-evening-meals-i-%e0%a4%85%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a7%e0%a4%bf%e0%a4%95-%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b2-%e0%a4%af%e0%a4%b9-%e0%a4%b8%e0%a4%b2%e0%a4%be/)
+    * [Hot Cucumber Side Dish Formula #Shorts](https://www.vivarecipes.com/videos/salad/hot-cucumber-side-dish-formula-shorts/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![](https://i.ytimg.com/vi/xQqLR5b0QxE/maxresdefault.jpg)
+        
+        Twisted Onion Salad #shorts #ytshort #trending @Maitryskitchen.](https://www.vivarecipes.com/videos/salad/twisted-onion-salad-shorts-ytshort-trending-maitryskitchen/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
         ![](https://i.ytimg.com/vi/5gTK4Uv6G0k/maxresdefault.jpg)
         
         ALIYABHATT’S VIRAL mixture #BEETROOTsalad #Russiyansalad #salad #discover #ytviral #recipe #culinary](https://www.vivarecipes.com/videos/salad/aliyabhatts-viral-mixture-beetrootsalad-russiyansalad-salad-discover-ytviral-recipe-culinary/)
-    * [Refreshing Salads to Savor All Summer Long](https://www.vivarecipes.com/videos/salad/refreshing-salads-to-savor-all-summer-long/)
-    * [Nutritious Salads for Slimming Down: 7 Vibrant Salad Creations for Quick Weight Loss | Fresh & Tasty](https://www.vivarecipes.com/videos/salad/nutritious-salads-for-slimming-down-7-vibrant-salad-creations-for-quick-weight-loss-fresh-tasty/)
-    * [Behold, the Supreme Potato Salad Recipe from My Grandmother!](https://www.vivarecipes.com/videos/salad/behold-the-supreme-potato-salad-recipe-from-my-grandmother/)
-    * [Simple & Yummy Egg Salad Recipe! #cooking #quickrecipe #dishes #breakfastideas](https://www.vivarecipes.com/videos/salad/simple-yummy-egg-salad-recipe-cooking-quickrecipe-dishes-breakfastideas/)
     
 * [Vegetarian](https://www.vivarecipes.com/category/videos/vegetarian/)
     
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![](https://i.ytimg.com/vi/2u5YwuR0BEo/maxresdefault.jpg)
+        
+        Here comes the children’s beloved snack, Prepare pure vegetarian delights today, swift, simple, scrumptious, nourishing](https://www.vivarecipes.com/videos/vegetarian/here-comes-the-childrens-beloved-snack-prepare-pure-vegetarian-delights-today-swift-simple-scrumptious-nourishing/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![](https://i.ytimg.com/vi/GBWywCCxrjE/maxresdefault.jpg)
+        
+        #submarine #vegetablemayonnaisesandwich #cookingguide](https://www.vivarecipes.com/videos/vegetarian/submarine-vegetablemayonnaisesandwich-cookingguide/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![](https://i.ytimg.com/vi/EGQ1Sl-QfgI/maxresdefault.jpg)
+        
+        vegetable sandwich #guideline #delicious #popular #shorts](https://www.vivarecipes.com/videos/vegetarian/vegetable-sandwich-guideline-delicious-popular-shorts/)
     * [The SIMPLEST 10-Minute Vegan Recipes!](https://www.vivarecipes.com/videos/vegetarian/the-simplest-10-minute-vegan-recipes/)
     * [My Top 5 Preferred Vegan Delicacies (Including Recipes!) – Wholesome & Plant-Based](https://www.vivarecipes.com/videos/vegetarian/my-top-5-preferred-vegan-delicacies-including-recipes-wholesome-plant-based/)
-    * [Favored Vegan, Whole-Food, Dinner Ideas (Without Oil)](https://www.vivarecipes.com/videos/vegetarian/favored-vegan-whole-food-dinner-ideas-without-oil/)
-    * [Tips for preparing meals when you’re alone](https://www.vivarecipes.com/videos/vegetarian/tips-for-preparing-meals-when-youre-alone/)
-    * [Cauliflower with assorted greenery #shorts](https://www.vivarecipes.com/videos/vegetarian/cauliflower-with-assorted-greenery-shorts/)
     
 * [What’s Cooking](https://www.vivarecipes.com/latest/)
 
@@ -401,13 +415,11 @@ Advertisement
 
 Advertisement
 
-[![Viva Recipes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
+[![Viva Recipes](https://www.vivarecipes.com/wp-content/uploads/2015/10/vivarecipes.png)](https://www.vivarecipes.com/)
 
 * [Home](#)
 * [Terms & Conditions](https://www.vivarecipes.com/terms/)
 * [Privacy Policy](https://www.vivarecipes.com/privacy-policy/)
-* [\[email protected\]](https://www.vivarecipes.com/cdn-cgi/l/email-protection)
+* [Contact Us](https://www.vivarecipes.com/contact-us/)
 
 Copyright © 2020 Viva Recipes.
