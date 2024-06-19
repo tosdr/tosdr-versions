@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=3724420&fmt=gif)        Online Curricula and Solutions | Imagine Learning - Imagine Learning                                                       
+![](https://px.ads.linkedin.com/collect/?pid=3724420&fmt=gif)        Online Curricula and Solutions | Imagine Learning - Imagine Learning                                                        
 
 * [![](https://www.imaginelearning.com/wp-content/uploads/2023/08/IL-tagline-standard_Web.svg)](https://www.imaginelearning.com/)
 * [Solutions](https://www.imaginelearning.com/solutions/)
