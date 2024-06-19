@@ -51,16 +51,18 @@ US English
 Log In Sign Up Now » Sign Up
 
 Log In
+------
 
- [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/student-login.svg)](https://www.typing.com/student/login)[Log In as a Student »](https://www.typing.com/student/login)
+ [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/learner-2-with-background.svg)](https://www.typing.com/student/login)[Log In as a Student »](https://www.typing.com/student/login)
 
- [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/teacher-login.svg)](https://www.typing.com/teacher/login)[Log In as an Instructor »](https://www.typing.com/teacher/login)
+ [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/educator-3.svg)](https://www.typing.com/teacher/login)[Log In as an Instructor »](https://www.typing.com/teacher/login)
 
 Sign Up
+-------
 
- [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/student-login.svg)](https://www.typing.com/student/signup)[Sign Up as a Student »](https://www.typing.com/student/signup)
+ [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/learner-2-with-background.svg)](https://www.typing.com/student/signup)[Sign Up as a Student »](https://www.typing.com/student/signup)
 
- [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/teacher-login.svg)](https://www.typing.com/teacher/signup)[Sign Up as an Instructor »](https://www.typing.com/teacher/signup)
+ [![Typing.com never shares or sells any data, ever.](/dist/site_typing/images/educator-3.svg)](https://www.typing.com/teacher/signup)[Sign Up as an Instructor »](https://www.typing.com/teacher/signup)
 
 [![Typing.com Home](/dist/site_typing/images/typing-logo.svg)](https://www.typing.com/)
 
