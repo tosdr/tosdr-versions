@@ -551,7 +551,7 @@ SearchCtrl + K
         * [Request Discord Role](https://info.sonorancad.com/pricing/faq/request-discord-role)
             
         
-    * [View and Compare Plans](https://app.sonorancad.com/#/pricing)
+    * [View and Compare Plans](https://sonorancad.com/pricing)
 * Roadmap
     
     * [📋Changelog](https://info.sonorancad.com/roadmap/changelog)
