@@ -2,6 +2,47 @@
 
 [](https://vercel.com/home)
 
+[Sign Up](https://vercel.com/signup)[Log In](https://vercel.com/login)
+
+* ### Products
+    
+    * [Previews](https://vercel.com/products/previews)
+    * [AI](https://vercel.com/ai)
+    * [Rendering](https://vercel.com/products/rendering)
+    * [Observability](https://vercel.com/products/observability)
+    * [Security](https://vercel.com/security)
+    * [Next.js](https://vercel.com/frameworks/nextjs)
+    * [Turborepo](https://vercel.com/solutions/turborepo)
+    
+* ### Solutions
+    
+    * [Enterprise](https://vercel.com/enterprise)
+    * [AI Apps](https://vercel.com/ai)
+    * [Composable Commerce](https://vercel.com/solutions/composable-commerce)
+    * [Web Apps](https://vercel.com/solutions/web-apps)
+    * [Platform Engineering](https://vercel.com/solutions/platform-engineering)
+    * [Marketing Sites](https://vercel.com/solutions/marketing-sites)
+    * [Multi-tenant SaaS](https://vercel.com/solutions/multi-tenant-saas)
+    
+* ### Resources
+    
+    * [Resource Center](https://vercel.com/resources)
+    * [Integrations](https://vercel.com/integrations)
+    * [Templates](https://vercel.com/templates)
+    * [Guides](https://vercel.com/guides)
+    * [Customers](https://vercel.com/customers)
+    * [Blog](https://vercel.com/blog)
+    * [Changelog](https://vercel.com/changelog)
+    
+* [Docs](https://vercel.com/docs)
+* [Pricing](https://vercel.com/pricing)
+* [Contact](https://vercel.com/contact)
+
+* Theme
+    
+    Select a display theme:
+    
+
 * Products
     
     * ##### DX Platform
@@ -90,22 +131,6 @@
 [Contact](https://vercel.com/contact)[Log In](https://vercel.com/login)
 
 [Sign Up](https://vercel.com/signup)
-
-Introducing the Vercel Web Application Firewall
-
-Vercel Ship
-
-24
-
-[Learn more](https://vercel.com/security)
-
-Vercel Ship
-
-24
-
-Introducing the Vercel Web Application Firewall
-
-[Learn more](https://vercel.com/security)
 
 Privacy Policy
 ==============
