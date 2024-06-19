@@ -111,7 +111,7 @@ Any information provided by you or automatically collected from you by a third p
 
 **Opt-Out Policy and Your Rights and Choices Regarding Personal Information**
 
-**Email Opt-Out:** If you no longer wish to receive communications from us via email, you may opt-out by clicking the "unsubscribe" link at the bottom of our emails or by contacting us at [info@usaforunhcr.org](mailto:info@usaforunhcr.org) and providing your name and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+**Email Opt-Out:** If you no longer wish to receive communications from us via email, you may opt-out by clicking the "unsubscribe" link at the bottom of our emails or by contacting us at [\[email protected\]](https://www.unrefugees.org/cdn-cgi/l/email-protection) and providing your name and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
 **Text Messaging Opt-Out:** If you wish to unsubscribe from text messages at any time, simply text message STOP to 75871. You can re-subscribe at any time by texting PROTECT to 75871.
 
@@ -119,7 +119,7 @@ Any information provided by you or automatically collected from you by a third p
 
 **European Union and California Data Privacy Rights**
 
-USA for UNHCR adheres to ensuring the security and protection of the information we possess. Our approach to data protection aligns with relevant data protection laws and regulations. While these terms explain how we collect and use your information, if you are an individual in a European Union nation or a California resident, you may request information about our use of your personal information, request to restrict use of your personal information, or request that your personal information be erased from USA for UNHCR. To make such a request, please send an email to: [info@usaforunhcr.org](mailto:info@usaforunhcr.org).
+USA for UNHCR adheres to ensuring the security and protection of the information we possess. Our approach to data protection aligns with relevant data protection laws and regulations. While these terms explain how we collect and use your information, if you are an individual in a European Union nation or a California resident, you may request information about our use of your personal information, request to restrict use of your personal information, or request that your personal information be erased from USA for UNHCR. To make such a request, please send an email to: [\[email protected\]](https://www.unrefugees.org/cdn-cgi/l/email-protection).
 
 **Cookies and Similar Technologies**
 
@@ -149,7 +149,7 @@ Phone: (800) 770-1100
 
 Fax: (202) 296-1081
 
-Email: [info@usaforunhcr.org](mailto:info@usaforunhcr.org)
+Email: [\[email protected\]](https://www.unrefugees.org/cdn-cgi/l/email-protection)
 
 **EU/EEA/UK Addendum**
 
@@ -233,3 +233,7 @@ Stay Connected
 * [Email updates](https://www.unrefugees.org/email-updates-form/ "Email Updates")
 
 1310 L ST NW, STE 450, Washington, DC 20005 1-(855)-808-6427 EIN 52-1662800 [Privacy Policy](https://www.unrefugees.org/privacy-policy/) ©2024 USA for UNHCR
+
+![](/static/crisis-alert.png)
+
+SPOTLIGHT: This World Refugee Day, meet Lucky, a brave Rohingya refugee making an incredible impact! [**READ →**](https://www.unrefugees.org/news/usa-for-unhcr-selects-former-rohingya-refugee-lucky-karim-as-world-refugee-day-featured-storyteller?utm_medium=web&utm_source=homepage&utm_campaign=US_PS_EN_WRD2024___240613&utm_content=banner&SF_onetime=701Rf00000FUHXSIA5&SF_monthly=701Rf00000FUDQeIAP "Meet Lucky")
