@@ -2,7 +2,7 @@
 
     
 
-[Skip to Content](#skiptobody "Skip to Content") [Skip to Footer](#skiptofooter "Skip to Footer")
+[Skip to content](#skiptobody "Skip to content") [Skip to footer](#skiptofooter "Skip to footer")
 
 [](https://www.hp.com/gb-en/home.html "HP® United Kingdom | Laptops, Computers, Desktops , Printers, and more")
 
@@ -196,7 +196,7 @@ https://tracking-na.hawksearch.com/api/trackevent
 
 [](javascript:void(0))
 
-[Skip to Content](#skiptobody "Skip to Content") [Skip to Footer](#skiptofooter "Skip to Footer")[](https://www.hp.com/gb-en/home.html "HP® United Kingdom | Laptops, Computers, Desktops , Printers, and more")
+[Skip to content](#skiptobody "Skip to content") [Skip to footer](#skiptofooter "Skip to footer")[](https://www.hp.com/gb-en/home.html "HP® United Kingdom | Laptops, Computers, Desktops , Printers, and more")
 
 Explore Open Explore
 
