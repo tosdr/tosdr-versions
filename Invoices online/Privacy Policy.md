@@ -125,50 +125,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=49183780)  
-Tantra Sound and Lightz
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=74867942)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=204352087)  
-SLOANE STAR MEAT MARKET
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=11720279)  
+Fox Alarms & Security
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=89166524)  
-FJW Security Cc
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=103628523)  
+Dombieterfontein (PTY) LTD
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=104551422)  
-OrgChart Hosting Pty Ltd
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=194093800)  
-FX ACCOUNTING
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=125654445)  
-VA AND M DEBT-AID (PTY) LTD
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=53087746)  
-McKaynine Mobility
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=193464101)  
-VIR Electrical (PTY) LTD
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=98382422)  
-Waterfinatics Swim School
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=94399697)  
-MSPCloud (Pty) Ltd
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=213886970)  
-Westside Car Audio CC
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=76609440)  
-Calonet
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=43965504)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=71787799)  
 West Coast Horse Trails
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=145281651)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=6026313)  
+Immediate Health (pty)ltd
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=0e3e9eeeb820298377c071c62ab2ad53dd745c9b9f354e3df056e7c972548bdb&c=1858667)  
-UMVIKELI PRIVATE SECURITY
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=198169287)  
+CHARLIEX CONSTRUCTIONS
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=70640498)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=152558278)  
+African Roots
+
+![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=82081433)  
+Zwashu Bed Manufacturing
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=136260454)  
+Website Café (PTY) LTD
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=7634629)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=182155877)  
+MOSELA GROUP Pty(ltd)
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=93982748)  
+Kaylas Creations
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=105345704)  
+Kainos (Pty) Ltd
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=180549279)  
+Lemba Truck Stop
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
