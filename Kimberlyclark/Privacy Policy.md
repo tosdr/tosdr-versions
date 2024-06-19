@@ -175,19 +175,20 @@ Menu [![Kimberly Clark Logo](/-/media/kimberly/images/navigation/kimberlyclarklo
     
     * ![Newsroom](/-/media/kimberly/images/navigation/mainmenu/newsroom.svg)
         
-        #### Kimberly Clark Ranked No. 3 on Most Sustainable Companies List for 2023
+        #### Kimberly Clark Ranked No. 2 on Most Sustainable Companies List for 2024
         
         As we continue to make progress toward our global goal to halve our environ-mental footprint by 2030, we impro...
         
-        [Keep Reading](https://www.news.kimberly-clark.com/2023-03-16-Kimberly-Clark-Ranks-Third-Among-Barrons-100-Most-Sustainable-Companies-of-2023)
+        [Keep Reading](https://barrons.com/lists-rankings/top-sustainable-companies?page=1&)
         
     * ##### Newsroom
         
         [Explore All](https://news.kimberly-clark.com/)
     
-    * * Press Releases
+    * * [Newsroom Home](https://www.news.kimberly-clark.com/overview)
         * [Press Releases](https://www.news.kimberly-clark.com/press-releases)
         * [Insights](https://www.news.kimberly-clark.com/insights)
+        * [Kimberly-Clark in the News](https://www.news.kimberly-clark.com/in-the-news)
     * * [Position Policies](https://www.news.kimberly-clark.com/policies-positions)
         * [Enviromental](https://www.news.kimberly-clark.com/policies-positions#environmental)
         * [Social](https://www.news.kimberly-clark.com/policies-positions#social)
@@ -375,11 +376,13 @@ Menu [![Kimberly Clark Logo](/-/media/kimberly/images/navigation/kimberlyclarklo
 
 #### [Newsroom Newsroom](#collapse6)
 
-#### [Press Releases](#) [Press Releases](#collapse25)
+#### [Newsroom Home](https://www.news.kimberly-clark.com/overview) [Newsroom Home](#collapse25)
 
 [Press ReleasesPress Releases](https://www.news.kimberly-clark.com/press-releases)
 
 [InsightsInsights](https://www.news.kimberly-clark.com/insights)
+
+[Kimberly-Clark in the NewsKimberly-Clark in the News](https://www.news.kimberly-clark.com/in-the-news)
 
 #### [Position Policies](https://www.news.kimberly-clark.com/policies-positions) [Position Policies](#collapse26)
 
@@ -1519,11 +1522,13 @@ If you reside in Peru, you may request deletion, access to, or correction of the
   
 
 Kimberly-Clark Peru S.R.L.  
-Av. Del Pinar 180 oficina 505 Urb.  
-Chacarilla del Estanque-Surco  
+5895 Paseo de la Republica Ave., Office 301 & 302  
+Miraflores – Lima  
 Peru  
 Phone: 511-618-1800  
 Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
+
+This Policy provides general guidelines for the processing of personal data under Law No. 29733 - Personal Data Protection Law and its Regulations approved by Supreme Decree No. 003-2013-JUS.
 
 Read more Read less
 
