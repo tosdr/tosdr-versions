@@ -213,6 +213,7 @@ EUR
     * [Banners](https://www.jukeboxprint.com/custom-printed-banners)
     * [Catalogs](https://www.jukeboxprint.com/catalog-printing)
     * [Custom Buttons](https://www.jukeboxprint.com/custom-buttons)
+    * [Foam Board Signs](https://www.jukeboxprint.com/foam-board-signs)
     
     Information[#### Custom Coasters](https://www.jukeboxprint.com/custom-coasters)[Both functional and valuable, custom coasters are a great way to promote your brand while protecting any surface. The perfect addition to any network event or conference and an excellent staple for any bar or restaurant.](https://www.jukeboxprint.com/custom-coasters)
     
@@ -248,6 +249,8 @@ EUR
     
     Information[#### Custom Buttons](https://www.jukeboxprint.com/custom-buttons)[Elevate your brand with custom buttons. Available in super gloss or matte finishes with a fast turnaround of just 1 business day. Get noticed with style.](https://www.jukeboxprint.com/custom-buttons)
     
+    Information[#### Foam Board Sign](https://www.jukeboxprint.com/foam-board-signs)[Get custom foam board printing with any shape, super matte or gloss finish, and quick turnaround. Perfect for events, displays, and more. Durable and lightweight!](https://www.jukeboxprint.com/foam-board-signs)
+    
 * [Invitations & Stationery](#)
 * * [Greeting Cards](https://www.jukeboxprint.com/greeting-cards)
     * [Booklets](https://www.jukeboxprint.com/booklets)
@@ -278,8 +281,6 @@ EUR
     * [Wire-O Books](https://www.jukeboxprint.com/wire-o-binding)
     
     Information[#### Perfect Bound Books](https://www.jukeboxprint.com/perfect-bound-booklet-printing)[Unique, stylish, and sturdy perfect bound books. Versatile book-making service for catalogs, cookbooks, and publishing books, with lasting quality, any page count, and your choice of stock.](https://www.jukeboxprint.com/perfect-bound-booklet-printing)
-    
-    Information[#### Saddle Stitch Booklets](https://www.jukeboxprint.com/saddle-stitched-booklets)[Saddle stitched booklets are perfect for magazines, event programs, catalogs and more.](https://www.jukeboxprint.com/saddle-stitched-booklets)
     
     Information[#### Custom Notebooks](https://www.jukeboxprint.com/custom-notebooks)[Whether you want to bind your product catalogs or informative booklets, we provide our customers with perfect bound books. Unlike traditional saddle stitched method of binding, the perfect bound method is unique, stylish and gives your books a cleaner finish. With this versatile service, you can not only create catalogs and booklets but also storybooks, yearly diaries, and notebooks, which can be used in-store, at events and trade shows.](https://www.jukeboxprint.com/custom-notebooks)
     
