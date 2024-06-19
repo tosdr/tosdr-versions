@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
+* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
     
-* [How to use the Getting started window](https://www.backup4all.com/how-to-use-the-getting-started-window-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
-* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
+* [Using Backup4all - FAQ](https://www.backup4all.com/using-backup4all-faq-1-kb.html)  
     
-* [How to shutdown computer after backup](https://www.backup4all.com/how-to-shutdown-computer-after-backup-kb.html)  
+* [How to install Backup4all in a different star ...](https://www.backup4all.com/how-to-install-backup4all-in-a-different-start-menu-folder-kb.html)  
     
-* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
+* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
     
 
 Choose language:
