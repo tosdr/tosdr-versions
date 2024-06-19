@@ -72,7 +72,7 @@ Other languages:
 * [српски / srpski](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/sr "Policy:Terms of Use/sr (20% translated)")
 * [тоҷикӣ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/tg "Policy:Terms of Use/tg (2% translated)")
 * [українська](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/uk "Policy:Terms of Use/uk (93% translated)")
-* [ўзбекча](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (28% translated)")
+* [ўзбекча](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (40% translated)")
 * [հայերեն](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/hy "Policy:Terms of Use/hy (14% translated)")
 * [ייִדיש](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/yi "Policy:Terms of Use/yi (3% translated)")
 * [עברית](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (42% translated)")
@@ -108,7 +108,7 @@ Other languages:
 * [日本語](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (100% translated)")
 * [閩南語 / Bân-lâm-gú](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (19% translated)")
 * [ꠍꠤꠟꠐꠤ](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (0% translated)")
-* [한국어](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (60% translated)")
+* [한국어](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (62% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
 
