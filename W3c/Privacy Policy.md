@@ -124,6 +124,7 @@ W3C privacy policy
 
 Read this page in:
 
+* [中文（简体）](https://www.w3.org/zh-hans/policies/privacy/)
 * [日本語](https://www.w3.org/ja/policies/privacy/)
 
 Page contents
@@ -157,7 +158,7 @@ Logged-in usage
 
 When you create a user account, you are asked for a username, email address, real name, and affiliation. This information is stored in the database and displayed on your public profile page; your email address is not displayed in your profile unless you choose to do so. You may choose to provide additional information for public display.
 
-We use some of this information to show organizational affiliations and participant activity including group membership, mailing list and conference call contributions, and editorship credits. This record of activity is important to organizational transparency in our [Process](https://www.w3.org/Consortium/Process/) and [Patent Policy](https://www.w3.org/Consortium/Patent-Policy/).
+We use some of this information to show organizational affiliations and participant activity including group membership, mailing list and conference call contributions, and editorship credits. This record of activity is important to organizational transparency in our [Process](https://www.w3.org/policies/process/) and [Patent Policy](https://www.w3.org/policies/patent-policy/).
 
 Mailing lists
 -------------
