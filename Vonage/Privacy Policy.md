@@ -1,4 +1,4 @@
-                       
+                         
 
 Device Type: desktop
 
@@ -24,10 +24,6 @@ Products
     * [AI Acceleration Suite](https://www.vonage.com/communications-apis/ai-acceleration-suite/)
     
     * [AI Studio](https://www.vonage.com/communications-apis/ai-studio/)
-    
-    * [Proactive Connect](https://www.vonage.com/communications-apis/proactive-connect/)
-    
-    * [Meetings API](https://www.vonage.com/communications-apis/meetings-api/)
     
     * [Conversations for Salesforce](https://www.vonage.com/communications-apis/conversations-salesforce/)
     
