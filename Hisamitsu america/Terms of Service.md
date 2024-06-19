@@ -28,8 +28,6 @@
     * [Salonpas® LIDOCAINE FLEX Patch](https://us.hisamitsu/product/salonpas-pain-relieving-flex-patch-lidocaine)
     * [Salonpas® Arthritis Pain Patch](https://us.hisamitsu/product/salonpas-arthritis-pain-patch)
     * [Salonpas® Arthritis Pain Patch LARGE](https://us.hisamitsu/product/salonpas-arthritis-pain-patch-large)
-    * [Salonpas® Arthritis  
-        Pain Relief Gel](https://us.hisamitsu/product/salonpas-arthritis-pain-relief-gel)
     * [Salonpas® LIDOCAINE PLUS  
         Pain Relieving Liquid](https://us.hisamitsu/product/salonpas-lidocaine-plus-pain-relieving-liquid)
     * [Salonpas® LIDOCAINE PLUS  
@@ -74,8 +72,6 @@
     * [Salonpas® LIDOCAINE FLEX Patch](https://us.hisamitsu/product/salonpas-pain-relieving-flex-patch-lidocaine)
     * [Salonpas® Arthritis Pain Patch](https://us.hisamitsu/product/salonpas-arthritis-pain-patch)
     * [Salonpas® Arthritis Pain Patch LARGE](https://us.hisamitsu/product/salonpas-arthritis-pain-patch-large)
-    * [Salonpas® Arthritis  
-        Pain Relief Gel](https://us.hisamitsu/product/salonpas-arthritis-pain-relief-gel)
     * [Salonpas® LIDOCAINE PLUS  
         Pain Relieving Liquid](https://us.hisamitsu/product/salonpas-lidocaine-plus-pain-relieving-liquid)
     * [Salonpas® LIDOCAINE PLUS  
