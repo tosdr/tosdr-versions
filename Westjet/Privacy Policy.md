@@ -2,11 +2,11 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
-Important
+Travel Advisory in effect
 
 Close
 
-Our existing Basic fare has been replaced by our new UltraBasic fare. Guests who booked a Basic fare on or before June 3, 2024 will still be able to bring a carry-on bag.
+Please visit our [guest updates page](https://www.westjet.com/en-ca/guest-updates) for more information. Please only call if you’re travelling within the next 72 hours.  
 
 By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/en-ca/legal/terms-use), the [privacy statement](https://www.westjet.com/en-ca/legal/privacy-policy), and the [use of cookies](https://www.westjet.com/en-ca/legal/privacy-policy#cookies).  
 
@@ -50,7 +50,7 @@ Search
 * Rewards
     * [View my account](https://www.westjet.com/en-ca/rewards/account)
     * [View my transactions](https://www.westjet.com/en-ca/rewards/manage/transaction-history)
-    * [Account settings](https://www.westjet.com/en-ca/rewards/settings)
+    * [Account settings](https://www.westjet.com/en-ca/account/settings)
     * [WestJet dollars](https://www.westjet.com/en-ca/rewards/westjet-dollars)
     * [About WestJet Rewards](https://www.westjet.com/en-ca/rewards)
     * [Tiers and benefits](https://www.westjet.com/en-ca/rewards/tiers)
@@ -481,7 +481,7 @@ Legal, restrictions and terms and conditions
 
 Close
 
-Legal, restrictions and terms and conditions
+Legal, Restrictions and Terms and Conditions
 --------------------------------------------
 
 ^
@@ -501,7 +501,7 @@ Flight prices: terms and conditions
 
 English
 
-[](https://www.westjet.com/en-ag/legal/privacy-policy)[](https://www.westjet.com/en-aw/legal/privacy-policy)[](https://www.westjet.com/en-bb/legal/privacy-policy)[](https://www.westjet.com/en-bm/legal/privacy-policy)[](https://www.westjet.com/en-bq)[](https://www.westjet.com/en-bs/legal/privacy-policy)[](https://www.westjet.com/en-bz/legal/privacy-policy)[](https://www.westjet.com/en-ca/legal/privacy-policy)[](https://www.westjet.com/fr-ca/legal/politique-confidentialite)[](https://www.westjet.com/es-ca)[](https://www.westjet.com/en-cr/legal/privacy-policy)[](https://www.westjet.com/en-cu/legal/privacy-policy)[](https://www.westjet.com/en-cw/legal/privacy-policy)[](https://www.westjet.com/en-do/legal/privacy-policy)[](https://www.westjet.com/en-es/legal/privacy-policy)[](https://www.westjet.com/es-es)[](https://www.westjet.com/en-fr/legal/privacy-policy)[](https://www.westjet.com/fr-fr/legal/politique-confidentialite)[](https://www.westjet.com/en-gb/legal/privacy-policy)[](https://www.westjet.com/en-ie/legal/privacy-policy)[](https://www.westjet.com/en-is/legal/privacy-policy)[](https://www.westjet.com/en-it/legal/privacy-policy)[](https://www.westjet.com/en-jm/legal/privacy-policy)[](https://www.westjet.com/en-jp/legal/privacy-policy)[](https://www.westjet.com/en-kr/legal/privacy-policy)[](https://www.westjet.com/en-ky/legal/privacy-policy)[](https://www.westjet.com/en-lc/legal/privacy-policy)[](https://www.westjet.com/en-mx/legal/privacy-policy)[](https://www.westjet.com/es-mx)[](https://www.westjet.com/en-pr/legal/privacy-policy)[](https://www.westjet.com/en-sx/legal/privacy-policy)[](https://www.westjet.com/en-tc/legal/privacy-policy)[](https://www.westjet.com/en-tt/legal/privacy-policy)[](https://www.westjet.com/en-us/legal/privacy-policy)[](https://www.westjet.com/es-us)
+[](https://www.westjet.com/en-ag/legal/privacy-policy)[](https://www.westjet.com/en-aw/legal/privacy-policy)[](https://www.westjet.com/en-bb/legal/privacy-policy)[](https://www.westjet.com/en-bm/legal/privacy-policy)[](https://www.westjet.com/en-bq)[](https://www.westjet.com/en-bs/legal/privacy-policy)[](https://www.westjet.com/en-bz/legal/privacy-policy)[](https://www.westjet.com/en-ca/legal/privacy-policy)[](https://www.westjet.com/fr-ca/legal/politique-confidentialite)[](https://www.westjet.com/en-cr/legal/privacy-policy)[](https://www.westjet.com/en-cu/legal/privacy-policy)[](https://www.westjet.com/en-cw/legal/privacy-policy)[](https://www.westjet.com/en-do/legal/privacy-policy)[](https://www.westjet.com/en-es/legal/privacy-policy)[](https://www.westjet.com/es-es)[](https://www.westjet.com/en-fr/legal/privacy-policy)[](https://www.westjet.com/fr-fr/legal/politique-confidentialite)[](https://www.westjet.com/en-gb/legal/privacy-policy)[](https://www.westjet.com/en-ie/legal/privacy-policy)[](https://www.westjet.com/en-is/legal/privacy-policy)[](https://www.westjet.com/en-it/legal/privacy-policy)[](https://www.westjet.com/en-jm/legal/privacy-policy)[](https://www.westjet.com/en-jp/legal/privacy-policy)[](https://www.westjet.com/en-kr/legal/privacy-policy)[](https://www.westjet.com/en-ky/legal/privacy-policy)[](https://www.westjet.com/en-lc/legal/privacy-policy)[](https://www.westjet.com/en-mx/legal/privacy-policy)[](https://www.westjet.com/es-mx)[](https://www.westjet.com/en-pr/legal/privacy-policy)[](https://www.westjet.com/en-sx/legal/privacy-policy)[](https://www.westjet.com/en-tc/legal/privacy-policy)[](https://www.westjet.com/en-tt/legal/privacy-policy)[](https://www.westjet.com/en-us/legal/privacy-policy)[](https://www.westjet.com/es-us)
 
 Antigua Aruba Barbados Bermuda Bonaire Bahamas Belize Canada Costa Rica Cuba Curacao Dominican Republic Spain France United Kingdom Ireland Iceland Italy Jamaica Japan South Korea Cayman Islands St. Lucia Mexico Puerto Rico St. Martin Turks and Caicos Trinidad and Tobago United States
 
