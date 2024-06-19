@@ -4,7 +4,7 @@ Oak National Academy](https://www.thenational.academy/)
 
 [Teachers](https://www.thenational.academy/)
 
-[Pupils](https://classroom.thenational.academy/)
+[Pupils](https://www.thenational.academy/pupils/years)
 
 Oak National Academy
 
@@ -33,7 +33,7 @@ Oak National Academy
 
 #### Pupils
 
-* [Learn online](https://classroom.thenational.academy/ "Learn online (opens in a new tab)")
+* [Home](https://www.thenational.academy/pupils/years "Pupils home")
     
 
 #### Oak
@@ -112,7 +112,7 @@ If you require any further information or have any questions, comments or reques
 Pupils
 ------
 
-* [Learn online](https://classroom.thenational.academy/)
+* [Learn online](https://www.thenational.academy/pupils/years)
     
 
 Teachers
@@ -160,13 +160,13 @@ Oak
 Legal
 -----
 
+* [Terms & conditions](https://www.thenational.academy/legal/terms-and-conditions)
+    
 * [Privacy policy](https://www.thenational.academy/legal/privacy-policy)
     
 * [Cookie policy](https://www.thenational.academy/legal/cookie-policy)
     
 * Manage cookie settings
-    
-* [Terms & conditions](https://www.thenational.academy/legal/terms-and-conditions)
     
 * [Copyright notice](https://www.thenational.academy/legal/copyright-notice)
     
