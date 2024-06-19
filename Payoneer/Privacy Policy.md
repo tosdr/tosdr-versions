@@ -1262,7 +1262,7 @@ You may, at any time withdraw the consent given to us to process your personal i
 
 **Follow us**
 
-* [](https://twitter.com/Payoneer)
+* [](https://x.com/Payoneer)
 * [](https://www.facebook.com/Payoneer)
 * [](https://www.linkedin.com/company/payoneer)
 * [](https://www.youtube.com/user/MyPayoneer)
