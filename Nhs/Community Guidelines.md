@@ -50,7 +50,7 @@ Reviewing NHS services (including hospitals, GP practices and dentists)
 
 You can leave an anonymous review. You should respect the anonymity of other patients and staff at the service you are reviewing by not mentioning their names or anything that may identify them.
 
-The "Leave a review" feature available on many NHS service provider profiles on the NHS website allows you to review the service you received, or the service you witnessed a friend or a family member receiving. This is not a formal complaint procedure. [Find out how to complain to the NHS](https://www.nhs.uk/contact-us/how-to-complain-to-the-nhs/).
+The "Leave a review" feature available on many NHS service provider profiles on the NHS website allows you to review the service you received, or the service you witnessed a friend or a family member receiving. This is not a formal complaint procedure. [Find out how to complain to the NHS](https://www.nhs.uk/give-feedback-about-the-nhs-website/how-to-complain-to-the-nhs/).
 
 NHS trusts and the service providers are not obliged to read or respond to reviews, though many do. If you want a reply to your feedback you should contact the provider of the NHS service directly or alternatively contact the commissioner of the service, such as NHS England or your local integrated care board (ICB)..
 
@@ -201,11 +201,11 @@ Support links
 * [About the NHS](https://www.nhs.uk/using-the-nhs/about-the-nhs/)
 * [Healthcare abroad](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
 
-* [Contact us](https://www.nhs.uk/contact-us/)
 * [Other NHS websites](https://www.nhs.uk/nhs-sites/)
 * [Profile editor login](https://www.nhs.uk/our-policies/profile-editor-login/)
 
 * [About us](https://www.nhs.uk/about-us/)
+* [Give us feedback](https://www.nhs.uk/give-feedback-about-the-nhs-website/)
 * [Accessibility statement](https://www.nhs.uk/accessibility-statement/)
 * [Our policies](https://www.nhs.uk/our-policies/)
 * [Cookies](https://www.nhs.uk/our-policies/cookies-policy/)
