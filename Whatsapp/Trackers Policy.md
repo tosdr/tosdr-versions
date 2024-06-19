@@ -20,7 +20,7 @@
 
 AzərbaycanAfrikaansBahasa IndonesiaMelayuCatalàčeštinaDanskDeutschEestiEnglishEspañolFrançaisGaeilgeHrvatskiItalianoKiswahiliLatviešuLietuviųMagyarNederlandsNorsk bokmålO‘zbekFilipinoPolskiPortuguês (Brasil)Português (Portugal)RomânăShqipSlovenčinaSlovenščinaSuomiSvenskaTiếng ViệtTürkçeΕλληνικάбългарскиқазақ тілімакедонскирусскийсрпскиукраїнськаעבריתالعربيةفارسیاردوবাংলাहिन्दीગુજરાતીಕನ್ನಡमराठीਪੰਜਾਬੀதமிழ்తెలుగుമലയാളംไทย简体中文繁體中文（台灣）繁體中文（香港）日本語한국어azərbaycanAfrikaansBahasa IndonesiaMelayucatalàčeštinadanskDeutscheestiEnglishespañolfrançaisGaeilgehrvatskiitalianoKiswahililatviešulietuviųmagyarNederlandsnorsk bokmålo‘zbekFilipinopolskiPortuguês (Brasil)Português (Portugal)românăshqipslovenčinaslovenščinasuomisvenskaTiếng ViệtTürkçeΕλληνικάбългарскиқазақ тілімакедонскирусскийсрпскиукраїнськаעבריתالعربيةفارسیاردوবাংলাहिन्दीગુજરાતીಕನ್ನಡमराठीਪੰਜਾਬੀதமிழ்తెలుగుമലയാളംไทย简体中文繁體中文（台灣）繁體中文（香港）日本語한국어
 
-[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://scontent.whatsapp.net/v/t39.8562-34/435524640_1127495198676263_4923359980655354883_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=HdyJBetc6IoQ7kNvgHSnEu7&_nc_ht=scontent.whatsapp.net&oh=01_Q5AaILXqKGHWGgDrZnChjR5RoTdru21VojNXS97xasZ8JSmH&oe=666AEF61)](https://www.whatsapp.com/)
+[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg)](https://www.whatsapp.com/)
 
 * Features
     
