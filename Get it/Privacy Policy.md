@@ -61,14 +61,14 @@ Clients can access their personally identifiable information that Get.It collect
 
 To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information.
 
-If you wish to remove your personally identifiable information from our newsletters and/or our website, please send us an email requesting such removal to [\[email protected\]](https://www.get.it/cdn-cgi/l/email-protection), and we will honor that request within 10 business days.
+If you wish to remove your personally identifiable information from our newsletters and/or our website, please send us an email requesting such removal to contact@get.it, and we will honor that request within 10 business days.
 
-If you have questions or concerns about any of our information collection or handling practices, please contact us at [\[email protected\]](https://www.get.it/cdn-cgi/l/email-protection), write to us at 1250 23rd Street, NW Suite 420, Washington, DC 20037 or by calling (703) 880-6630.
+If you have questions or concerns about any of our information collection or handling practices, please contact us at contact@get.it, write to us at 1250 23rd Street, NW Suite 420, Washington, DC 20037 or by calling (703) 880-6630.
 
 Feedback
 --------
 
-Get.It welcomes your feedback on this document by email at [\[email protected\]](https://www.get.it/cdn-cgi/l/email-protection)
+Get.It welcomes your feedback on this document by email at contact@get.it
 
 [Post Jobs For Free](https://www.get.it/post-jobs-for-free)[Get All Jobs](https://www.get.it/getalljobs)[Business](https://www.get.it/pillars)
 
