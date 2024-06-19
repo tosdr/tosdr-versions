@@ -4,7 +4,7 @@
 
 Permis de conduire
 
-[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/inscription?redirect=%2Fcontacter-un-conseiller%3Forigin%3Dmenu)
 
 [Assurance auto](https://www.ornikar.com/assurance-auto)
 
@@ -704,6 +704,8 @@ Envie d'en savoir plus
 [Ornikar dans le FT120 2024](https://www.ornikar.com/a-propos/french-tech-120)
 
 [Les jours Ornikar](https://www.ornikar.com/a-propos/promo-mai-2024)
+
+[Partenaires d'Ornikar](https://www.ornikar.com/a-propos/nos-partenaires-education-et-assurance)
 
 [Promo Flash Avril 2024](https://www.ornikar.com/a-propos/bons-plans/promo-flash-avril-2024)
 
