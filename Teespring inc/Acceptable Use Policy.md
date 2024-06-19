@@ -139,49 +139,65 @@ F. Spring’s Proprietary Rights
 
 3. Spring may preserve content and may also disclose content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process, applicable laws or government requests; (b) enforce these Terms of Service; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of Spring, its users or the public.
 
-G. Third Party Websites
+G. YouTube Terms of Service
+---------------------------
+
+When you authorize Spring by connecting your YouTube account, you acknowledge and agree to be bound by YouTube’s Terms of Service, which can be found at [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms). 
+
+By linking your Spring and Youtube accounts, you also agree to comply with all YouTube policies and guidelines as part of your use of the Spring platform in connection with YouTube services.
+
+You can view, manage, and revoke the permissions you have granted to Spring by accessing the security settings in your Google account. Visit Google Account Connections to manage your authorizations [https://myaccount.google.com/connections](https://myaccount.google.com/connections)
+
+Key Points of Agreement:
+
+1. Acceptance of YouTube Terms**:** By connecting your Spring account with your YouTube account, you explicitly agree to be bound by YouTube’s Terms of Service.
+2. Compliance with Policies**:** You agree to adhere to all applicable YouTube policies, guidelines, and community standards.
+3. Data Handling: You understand that any data accessed through the YouTube API Services is subject to YouTube’s data handling policies and must be managed in compliance with YouTube’s Terms of Service.
+4. Content and Conduct: Any content you create, upload, or interact with via the Spring platform in connection with YouTube must comply with YouTube’s content policies and community guidelines.
+
+H. Third Party Websites
 -----------------------
 
 The Spring Service may provide, or third parties may provide, links or other access to other sites and resources on the Internet. Spring has no control over such sites and resources and Spring is not responsible for and does not endorse such sites and resources. Spring will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any content, events, goods or services available on or through any such site or resource. Any dealings you have with third parties found while using the Spring Service are between you and the third party, and you agree that Spring is not liable for any loss or claim that you may have against any such third party.
 
-H. \*Disclaimer of Warranties
+I. \*Disclaimer of Warranties
 -----------------------------
 
 YOUR USE OF THE SPRING SERVICE IS AT YOUR SOLE RISK. THE SPRING SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WITHOUT LIMITING A BUYER’S RIGHT TO RETURN MERCHANDISE AND OBTAIN A REFUND TO THE EXTENT DESCRIBED IN OUR RETURN POLICY, SPRING EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND WITH RESPECT TO ANY LISTING, MERCHANDISE OR SERVICE, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.\*
 
-I. \*Limitation of Liability
+J. \*Limitation of Liability
 ----------------------------
 
 SPRING WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY DAMAGES, OR DAMAGES FOR LOSS OF PROFITS INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF SPRING HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, RESULTING FROM: (I) THE USE OR THE INABILITY TO USE THE SERVICE; (II) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY MERCHANDISE, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE; (III) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; OR (IV) ANY OTHER MATTER RELATING TO THE SERVICE. IN NO EVENT WILL SPRING’S TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES OR CAUSES OF ACTION EXCEED THE AMOUNT YOU HAVE PAID SPRING OR SPRING HAS PAID YOU IN THE LAST SIX (6) MONTHS, OR, IF GREATER, ONE HUNDRED DOLLARS ($100). THE FOREGOING LIMITATIONS WILL APPLY TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW.\*
 
-J. Termination
+K. Termination
 --------------
 
 Spring, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Spring Service and remove and discard any content within the Spring Service, for any reason. Further, you agree that Spring will not be liable to you or any third party for any termination of your access to the Spring Service.
 
-K. Relationship
+L. Relationship
 ---------------
 
 Each party is an independent contractor in the performance of each and every part of these Terms of Service. Each party will be solely responsible for all of its employees and agents and its labor costs and expenses and for any and all claims, liabilities or damages or debts of any type whatsoever that may arise on account of its activities, or those of its employees or agents, in the performance of its activities under these Terms of Service. You do not have the authority to commit Spring in any way and will not attempt to do so or imply that you have the right to do so.
 
-L. Governing Law
+M. Governing Law
 ----------------
 
 1. For users located in the United Kingdom or European Union: These Terms of Service will be governed by the laws of England, without regard to its conflict of law provisions except that (if you are a consumer and not a business user) and if you live in a country of the European Union other than England, there may be certain mandatory applicable laws of your country which apply for your benefit and protection in addition to or instead of certain provisions of English law.Subject to the next paragraph you agree that any disputes between you and Spring regarding these terms will only be dealt with by the English courts except that (if you are a consumer and not a business user) and if you live in a country of the European Union other than England, you can choose to bring legal proceedings either in your country or in England, but if we bring legal proceedings, we may only do so in your country. The parties expressly exclude the application of the UN Convention on Contracts for the International Sale of Goods.The European Online Dispute Resolution platform [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) provides information about alternative dispute resolution. We are not required to comply with any alternative dispute resolution under this platform.
 
 2. For all other users: These Terms of Service will be governed by the laws of the State of California without regard to its conflict of law provisions. With respect to any disputes, you and Spring agree to submit to the personal and exclusive jurisdiction of the state and federal courts located within San Francisco County, California. The parties expressly exclude the application of the UN Convention on Contracts for the International Sale of Goods.
 
-M. General
+N. General
 ----------
 
 These Terms of Service constitute the entire agreement between you and Spring and govern your use of the Spring Service, superseding any prior agreements between you and Spring with respect to the Spring Service. The failure of Spring to exercise or enforce any right or provision of these Terms of Service will not constitute a waiver of such right or provision. If any provision of these Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of these Terms of Service remain in full force and effect. A printed version of this agreement and of any notice given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. You may not assign these Terms of Service without the prior written consent of Spring, but Spring may assign or transfer these Terms of Service, in whole or in part, without restriction. Notices to you may be made via either email or regular mail. Spring may also provide notices to you of changes to these Terms of Service or other matters by displaying notices or links to notices generally on the Spring Service.
 
-N. Notice for Users in California
+O. Notice for Users in California
 ---------------------------------
 
 Under California Civil Code Section 1789.3, users of the Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210. You may contact us at Amaze Holding Company LLC d/b/a Spring, 342 Monmouth Street, 2nd Floor, Newport, KY 41071
 
-O. Additional Terms for European Users
+P. Additional Terms for European Users
 --------------------------------------
 
 Our liability: Nothing in these Terms of Service shall limit or exclude our liability to you:
