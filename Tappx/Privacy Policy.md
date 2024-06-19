@@ -367,7 +367,7 @@ Manage preferences.
 
 Accept Reject Settings
 
-                         Change cookie settings
+                        Change cookie settings
 
 Close GDPR Cookie Settings
 
