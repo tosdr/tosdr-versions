@@ -227,4 +227,4 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
                                                
 
-https://www.arkoselabs.com/
+https://www.arkoselabs.com/legal/terms-of-use
