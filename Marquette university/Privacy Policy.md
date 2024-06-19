@@ -1,9 +1,3 @@
-CAMPUS ALERT  
-
-The Marquette University campus is closed Thursday, Feb. 16, 2023, due to severe weather conditions in the greater Milwaukee area. All classes are canceled regardless of modality – in-person, synchronous and asynchronous online. [More information on Marquette Today.](https://today.marquette.edu/2023/02/marquette-university-campus-closed-feb-16-2023-due-to-severe-weather/) 
-
-  
-
 [Skip to content](#wrapperContent)
 
 * [marquette.edu](https://www.marquette.edu/) //
