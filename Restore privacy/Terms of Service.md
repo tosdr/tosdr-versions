@@ -5,7 +5,7 @@
 
 Menu
 
-[![RestorePrivacy](https://cdn-resprivacy.pressidium.com/wp-content/uploads/2024/06/Logo-header.png)](https://restoreprivacy.com/)
+[![RestorePrivacy](https://cdn-resprivacy.pressidium.com/wp-content/uploads/2024/06/RP-Logo-header.png)](https://restoreprivacy.com/)
 
 RestorePrivacy
 
@@ -291,7 +291,7 @@ Digital privacy Checklist:
 --------------------------
 
 1. **Secure browser**: [Brave](https://brave.com/) or [Modified Firefox](https://restoreprivacy.com/firefox-privacy/)
-2. **VPN**: [NordVPN](https://restoreprivacy.com/go/nordvpn-deals) ([74% off coupon](https://restoreprivacy.com/go/nordvpn-deals))
+2. **VPN**: [NordVPN](https://restoreprivacy.com/go/nordvpn-deals) ([72% off coupon](https://restoreprivacy.com/go/nordvpn-deals))
 3. **Ad blocker**: [uBlock Origin](https://github.com/gorhill/uBlock/) or [AdGuard](https://adguard.com/)
 4. **Secure email**: [ProtonMail](https://restoreprivacy.com/go/protonmail) or [StartMail](https://restoreprivacy.com/go/startmail)
 5. **Secure messaging**: [Signal](https://restoreprivacy.com/secure-encrypted-messaging-apps/signal/) or [Threema](https://restoreprivacy.com/secure-encrypted-messaging-apps/threema/)
