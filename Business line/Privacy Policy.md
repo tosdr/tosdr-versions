@@ -6,7 +6,7 @@
 * [Markets](https://www.thehindubusinessline.com/markets/) 
 * [Portfolio](https://www.thehindubusinessline.com/portfolio/) 
 * [Opinion](https://www.thehindubusinessline.com/opinion/) 
-* [Elections 2024](https://www.thehindubusinessline.com/news/elections/) 
+* [Economy](https://www.thehindubusinessline.com/economy/) 
 
 [![Businessline Free Trial](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)FREE TRIAL](https://www.thehindubusinessline.com/signup/?utm_source=Businessline&utm_medium=homepage&utm_campaign=FTbutton)[![](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)](https://www.thehindubusinessline.com/portfolio/) [ACCOUNT ![](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)](https://www.thehindubusinessline.com/myaccount/) [Subscribe](https://www.thehindubusinessline.com/subscription/)LOGIN
 
@@ -20,13 +20,16 @@ MENU![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/
 
 ##### [Companies](https://www.thehindubusinessline.com/companies/)
 
+* [MSME](https://www.thehindubusinessline.com/companies/msme/)
+
 ##### [Markets](https://www.thehindubusinessline.com/markets/)
 
 * [Commodities](https://www.thehindubusinessline.com/markets/commodities/)
 * [Forex](https://www.thehindubusinessline.com/markets/forex/)
 * [Gold & Silver](https://www.thehindubusinessline.com/markets/gold/)
 * [Stocks](https://www.thehindubusinessline.com/markets/stock-markets/)
-* [Today's Pick](https://www.thehindubusinessline.com/markets/todays-pick/)
+* [Gold rate today](https://www.thehindubusinessline.com/gold-rate-today/)
+* [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/)
 * [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/)
 * [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/)
 
@@ -38,7 +41,6 @@ MENU![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/
 * [Stock Fundamentals](https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/)
 * [Mutual Funds](https://www.thehindubusinessline.com/portfolio/mutual-funds/)
 * [Day trading guide](https://www.thehindubusinessline.com/portfolio/day-trading-guide/)
-* [Portfolio Media](https://www.thehindubusinessline.com/portfolio/portfolio-media/)
 
 ##### [Elections 2024](https://www.thehindubusinessline.com/news/elections/)
 
@@ -112,7 +114,7 @@ READ IN APP[![Businessline Free Trial](https://assetsbl.thehindubusinessline.com
 * [Markets](https://www.thehindubusinessline.com/markets/) 
 * [Portfolio](https://www.thehindubusinessline.com/portfolio/) 
 * [Opinion](https://www.thehindubusinessline.com/opinion/) 
-* [Elections 2024](https://www.thehindubusinessline.com/news/elections/) 
+* [Economy](https://www.thehindubusinessline.com/economy/) 
 
 TO ENJOY ADDITIONAL BENEFITS
 
@@ -140,11 +142,13 @@ TO ENJOY ADDITIONAL BENEFITS
     * [Forex](https://www.thehindubusinessline.com/markets/forex/) 
     * [Commodities](https://www.thehindubusinessline.com/markets/commodities/) 
     * [Gold & Silver](https://www.thehindubusinessline.com/markets/gold/) 
-    * [Today's Pick](https://www.thehindubusinessline.com/markets/todays-pick/) 
-    * [Gold rate today](https://www.thehindubusinessline.com/markets/top-gainers-today/) 
-    * [Silver rate today](https://www.thehindubusinessline.com/markets/top-losers-today/) 
+    * [Gold rate today](https://www.thehindubusinessline.com/gold-rate-today/) 
+    * [Silver rate today](https://www.thehindubusinessline.com/silver-rate-today/) 
+    * [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/) 
+    * [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/) 
 * #####  [Companies](https://www.thehindubusinessline.com/companies/)
     
+    * [MSME](https://www.thehindubusinessline.com/companies/msme/) 
 * #####  [Elections 2024](https://www.thehindubusinessline.com/news/elections/)
     
 * #####  [Info-tech](https://www.thehindubusinessline.com/info-tech/)
@@ -191,9 +195,6 @@ Get BusinessLine apps on
 [](https://play.google.com/store/apps/details?id=com.mobstac.thehindubusinessline&hl=en_IN&gl=US "Google Play")
 
 [](https://apps.apple.com/in/app/business-line-for-iphone/id855182339 "Apple Store")
-
-Privacy Policy
-==============
 
 Non EU UsersEu Users
 
@@ -598,7 +599,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
     
     * [About Us](https://www.thehindubusinessline.com/aboutus/)
     * [Archive](https://www.thehindubusinessline.com/archive/)
-    * [Newsletter](https://www.thehindubusinessline.com/newsletter/)
+    * [Newsletter](https://www.thehindubusinessline.com/newsletter-subscription/)
     * [Rss Feeds](https://www.thehindubusinessline.com/rssfeeds/)
 * ##### Contact us
     
@@ -652,36 +653,36 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Tesla EV News](https://www.thehindubusinessline.com/companies/tesla-in-talks-with-reliance-industries-ril-to-set-up-local-manufacturing-arm-in-indiaarticleidece/article68047359.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-april-2024-live-news-updates/article68028551.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-12-june-2024/article68277062.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-june-2024-live-news-updates/article68258609.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Sobha Share Price Live](https://www.thehindubusinessline.com/markets/sobha-share-price-today-live-news-updates/article68283916.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results Live Updates](https://www.thehindubusinessline.com/news/elections/india-general-election-results-2024-live-updates/article68246360.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results Analysis Live](https://www.thehindubusinessline.com/news/elections/lok-sabha-elections-2024-live-news/article68252733.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024 Highlights](https://www.thehindubusinessline.com/economy/budget/union-budget-2024-live-news-updates-highlights-fm-nirmala-sitharaman-to-present-interim-budget-today/article67796388.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Share Price](https://www.thehindubusinessline.com/stocks/reliance-industries-ltd/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-5-april-2024/article68027996.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Enterprises Share Price](https://www.thehindubusinessline.com/stocks/adani-enterprises-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Nifty Prediction Today](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-todaymarch-20-2024-bears-gain-traction-consider-shorts/article67971033.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Find Voter ID Number Online](https://www.thehindubusinessline.com/info-tech/how-to/how-to-find-voter-id-number-online/article66664192.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) SBI Share Price](https://www.thehindubusinessline.com/stocks/state-bank-of-india/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Tata Motors Share Price](https://www.thehindubusinessline.com/stocks/tata-motors-ltd/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Recommendation Today](https://www.thehindubusinessline.com/portfolio/portfolio-media/todays-stock-recommendation-21st-march-2024/article67973273.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://www.thehindubusinessline.com/about/indian-premier-league-ipl-2024/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Chennai Super Kings CSK](https://www.thehindubusinessline.com/about/chennai-super-kings-csk-squad/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Royal Challengers Bangalore RCB](https://www.thehindubusinessline.com/about/royal-challengers-bangalore-rcb-squad/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Mumbai Indians MI](https://www.thehindubusinessline.com/about/mumbai-indians-mi-squad/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Rajasthan Royals RR](https://www.thehindubusinessline.com/about/rajasthan-royals-rr-squad/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Kolkata Knight Riders KKR](https://www.thehindubusinessline.com/about/kolkata-knight-riders-kkr-squad/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Sunrisers Hyderabad SRH](https://www.thehindubusinessline.com/about/sunrisers-hyderabad-srh-squad/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Lucknow Super Giants LSG](https://www.thehindubusinessline.com/about/lucknow-super-giants-lsg/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Punjab Kings PBKS](https://www.thehindubusinessline.com/about/punjab-kings-pbks/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Top Gainers Today](https://www.thehindubusinessline.com/markets/top-gainers-today/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Top Losers Today](https://www.thehindubusinessline.com/markets/top-losers-today/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market News](https://www.thehindubusinessline.com/markets/stock-markets/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Business News](https://www.thehindubusinessline.com/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Market News](https://www.thehindubusinessline.com/markets/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) National News](https://www.thehindubusinessline.com/news/national/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) International News](https://www.thehindubusinessline.com/news/world/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reliance Tesla News](https://www.thehindubusinessline.com/about/tesla-reliance-news/)
 
 ##### Trending on Group sites
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Cricket News](https://sportstar.thehindu.com/cricket/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Electoral Bonds Full Data](https://www.thehindu.com/data/electoral-bond-full-data-complete-list-of-donors-parties-and-unique-numbers/article67976056.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) KKR Vs RR Live Score](https://sportstar.thehindu.com/cricket/ipl/ipl-news/kkr-vs-rr-live-score-kolkata-knight-riders-rajasthan-royals-ipl-2024-match-streaming-info-highlights/article68071006.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Arvind Kejriwal Arrest LIVE Updates](https://www.thehindu.com/news/national/arvind-kejriwal-arrest-delhi-excise-policy-case-live-updates-march-22-2024/article67979015.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Lok Sabha Elections 2024 LIVE](https://www.thehindu.com/elections/lok-sabha/lok-sabha-elections-live-updates-on-april-1-2024/article68014877.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Bringing 1,000 elephants to Jamnagar makes no sense](https://frontline.thehindu.com/environment/bringing-1000-elephants-to-jamnagar-makes-no-sense-raman-sukumar/article67990072.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) T20 World Cup](https://sportstar.thehindu.com/cricket/t20-world-cup/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) PM Modi oath ceremony LIVE updates](https://www.thehindu.com/elections/lok-sabha/india-election-results-2024-updates-june-9-2024/article68268845.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Elections 2024](https://www.thehindu.com/topic/general-elections-2024/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Satyajit Ray](https://frontline.thehindu.com/cover-story/a-century-of-ray/article64764998.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://sportstar.thehindu.com/cricket/ipl/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Chennai Super Kings CSK Squad](https://sportstar.thehindu.com/newstag/Chennai_Super_Kings/)
