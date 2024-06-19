@@ -84,9 +84,7 @@ Pre Wedding Shoot
 
 Planning & Decor
 
-[Wedding Planners](https://www.wedmegood.com/vendors/all/planners/)[Decorators](https://www.wedmegood.com/vendors/all/wedding-decorators/)[Small Function Decor
-
-![](https://images.wedmegood.com/images/wmg-service-badge.png)](https://www.wedmegood.com/vendors/all/home-wedding-decorators/)
+[Wedding Planners](https://www.wedmegood.com/vendors/all/planners/)[Decorators](https://www.wedmegood.com/vendors/all/wedding-decorators/)
 
 Bridal Wear
 
@@ -114,7 +112,7 @@ Music & Dance
 
 Food
 
-[Catering Services](https://www.wedmegood.com/vendors/all/wedding-catering/)[Cake](https://www.wedmegood.com/vendors/all/wedding-cakes/)[Chaat & Food Stalls](https://www.wedmegood.com/vendors/all/wedding-catering/all/chaat-food-stalls/)[Bartenders](https://www.wedmegood.com/vendors/all/bartenders-wedding/)[Home Catering](https://www.wedmegood.com/vendors/all/home-catering/)[View All Food](https://www.wedmegood.com/vendors/all/wedding-catering/)
+[Catering Services](https://www.wedmegood.com/vendors/all/wedding-catering/)[Cake](https://www.wedmegood.com/vendors/all/wedding-cakes/)[Chaat & Food Stalls](https://www.wedmegood.com/vendors/all/wedding-catering/all/chaat-food-stalls/)[Bartenders](https://www.wedmegood.com/vendors/all/bartenders-wedding/)[View All Food](https://www.wedmegood.com/vendors/all/wedding-catering/)
 
 Pandits
 
@@ -123,10 +121,6 @@ Pandits
 Bridal Grooming
 
 [Beauty and Wellness](https://www.wedmegood.com/vendors/all/beauty-and-wellness/)
-
-Honeymoon
-
-[Honeymoon Packages](https://www.wedmegood.com/honeymoon-packages)
 
 Outfit
 
@@ -174,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Swastika and Karan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Sanjita and Vivek](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Swastika and Karan](https://image.wedmegood.com/resized/250X/uploads/images/e1a1344cd8f94b5c922bdf4a0b449cdfrealwedding/Image-3.jpg?crop=58,188,1626,914)
+![Sanjita and Vivek](https://image.wedmegood.com/resized/250X/uploads/images/03013695ccf544ea8b83eb9cf7a93c09realwedding/_RAH1186-Edit.jpg?crop=190,204,808,455)
 
-Swastika and Karan (Karnal)](https://www.wedmegood.com/real_wedding/detail/swastika-and-karan-karnal-wedding-4310)
+Sanjita and Vivek (Goa)](https://www.wedmegood.com/real_wedding/detail/sanjita-and-vivek-goa-cross-culture-wedding-4316)
 
-[![Yasmin and Karan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Devika and Sanjeet](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Yasmin and Karan](https://image.wedmegood.com/resized/250X/uploads/images/a38526d81ffc47a59fd911f94ea67845realwedding/YasminSethi,KaranShrikent,hiraayabyaayushi,seasidesunsetwedding,kinocottage,bestweddingphotograhermumbai-60.jpg?crop=264,277,1588,893)
+![Devika and Sanjeet](https://image.wedmegood.com/resized/250X/uploads/images/b75e0b9da19f42bb8e350e9e071619e4realwedding/0D7A5882copy.jpg?crop=258,418,1626,914)
 
-Yasmin and Karan (Mumbai)](https://www.wedmegood.com/real_wedding/detail/yasmin-and-karan-mumbai-cross-culture-wedding-4304)
+Devika and Sanjeet (Udaipur)](https://www.wedmegood.com/real_wedding/detail/devika-and-sanjeet-udaipur-punjabi-sikh-wedding-4315)
 
 Browse by Category
 
@@ -396,7 +390,7 @@ Submit
 
 [Submit Wedding](https://www.wedmegood.com/submit-real-wedding)Register as a Vendor
 
-Follow us on: [facebook](https://www.facebook.com/wedmegood) [twitter](https://twitter.com/wedmegood) [pinterest](https://www.pinterest.com/wedmegood/) [instagram](https://www.instagram.com/wedmegood/) snapchat [youtube](https://www.youtube.com/channel/UCe96CeIKcoexrE3dtAuBKxA)
+Follow us on: [facebook](https://www.facebook.com/wedmegood) [twitter](https://twitter.com/wedmegood) [pinterest](https://www.pinterest.com/wedmegood/) [instagram](https://www.instagram.com/wedmegood/) [youtube](https://www.youtube.com/channel/UCe96CeIKcoexrE3dtAuBKxA)
 
 Get The WedMeGood App[![Download on the App Store](/static/media/download-app-store.9a3541d8.png)](https://appsto.re/in/TPdo-.i)[![Download on the Google Play](/static/media/download-play-store.787ef1b7.png)](https://play.google.com/store/apps/details?id=com.wedmegood.planner)
 
