@@ -83,6 +83,7 @@ Select theme DarkLightAuto
     * [G6.0.13](https://www.waterfox.net/docs/releases/G6.0.13/)
     * [G6.0.14](https://www.waterfox.net/docs/releases/G6.0.14/)
     * [G6.0.15](https://www.waterfox.net/docs/releases/G6.0.15/)
+    * [G6.0.16](https://www.waterfox.net/docs/releases/G6.0.16/)
     * [G6.0.2](https://www.waterfox.net/docs/releases/G6.0.2/)
     * [G6.0.3](https://www.waterfox.net/docs/releases/G6.0.3/)
     * [G6.0.4](https://www.waterfox.net/docs/releases/G6.0.4/)
