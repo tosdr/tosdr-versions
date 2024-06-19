@@ -44,7 +44,7 @@ We are committed to the protection of your privacy while you use our Website. 
 
 There are two types of information that we obtain from you online and then store and use: Personal Information and Non-Personal Information. 
 
-By continuing to use our Website, you acknowledge that you have had the chance to review and consider this Privacy Policy, and you acknowledge that you agree to it. This means that you also consent to the use of your information and the method of disclosure as described in this Privacy Policy. If you do not agree to our Privacy Policy, then you must immediately cease your use of our Website. Please check our [Terms of Service](https://multilogin.com/en-us/terms-of-service/) and [Cookie Policy](https://multilogin.com/en-us/cookie-policy/) as well in case of doubts. 
+By continuing to use our Website, you acknowledge that you have had the chance to review and consider this Privacy Policy, and you acknowledge that you agree to it. This means that you also consent to the use of your information and the method of disclosure as described in this Privacy Policy. If you do not agree to our Privacy Policy, then you must immediately cease your use of our Website. Please check our [Terms of Service](https://multilogin.com/terms-of-service/) and [Cookie Policy](https://multilogin.com/cookie-policy/) as well in case of doubts. 
 
 Depending on how you use our Website, you will be subject to different types of information collected and different manners of collection as described further in this document. 
 
@@ -124,7 +124,7 @@ We will sometimes obtain Personal Information by automated technology. This shal
 
 In brief, a cookie is a small text file which is placed onto your device when you access our Website. Similar technologies include web beacons, action tags, local shared objects and single-pixel gifs. 
 
-On the first visit of our Website we will ask whether you consent to our use of cookies and other similar technologies. If you do not consent, Cookies and similar technologies will not be used unless they are necessary. We have to use necessary ones to keep our Website running with bare minimum functionality. You can choose to give us permission to use Cookies and similar  technologies based on consent or legitimate interest. Keep in mind that when Cookies and similar technologies are not allowed, your experience of the Website may be severely hindered and not all functions may be available or work as intended. You can set your browser to not accept Cookies. This is explained in our Cookie Policy with links to instructions of common browsers. However, be warned once more that some of our Website features may not function as a result. Please see our [Cookie Policy](https://multilogin.com/en-us/cookie-policy/) for more information and list of Cookies with expiry dates. 
+On the first visit of our Website we will ask whether you consent to our use of cookies and other similar technologies. If you do not consent, Cookies and similar technologies will not be used unless they are necessary. We have to use necessary ones to keep our Website running with bare minimum functionality. You can choose to give us permission to use Cookies and similar  technologies based on consent or legitimate interest. Keep in mind that when Cookies and similar technologies are not allowed, your experience of the Website may be severely hindered and not all functions may be available or work as intended. You can set your browser to not accept Cookies. This is explained in our Cookie Policy with links to instructions of common browsers. However, be warned once more that some of our Website features may not function as a result. Please see our [Cookie Policy](https://multilogin.com/cookie-policy/) for more information and list of Cookies with expiry dates. 
 
 Thereafter later on you can opt-out or opt-in of using Cookies by entering “Cookie Settings” through the badge displayed on our Website. 
 
@@ -258,7 +258,7 @@ We will disclose Personal Information if required to do so by laws or to protect
 * to comply with applicable laws or with law enforcement; 
     
 
-* to enforce our [Terms of Service](https://multilogin.com/en-us/terms-of-service/) or other agreements or policies; 
+* to enforce our [Terms of Service](https://multilogin.com/terms-of-service/) or other agreements or policies; 
     
 * in response to a subpoena or investigative queries from law enforcement authorities or a court orders; 
     
@@ -267,7 +267,7 @@ We will disclose Personal Information if required to do so by laws or to protect
 * to defend against legal claims or as otherwise required by laws. 
     
 
-In such cases, we may raise or waive any legal objection or right available to us. Our [Terms of Service](https://multilogin.com/en-us/terms-of-service/) line out the _Rules Of Conduct And Prohibited Uses_. 
+In such cases, we may raise or waive any legal objection or right available to us. Our [Terms of Service](https://multilogin.com/terms-of-service/) line out the _Rules Of Conduct And Prohibited Uses_. 
 
 Please note, however, that no system involving the transmission of information _via_ the highways of the Internet, or the electronic storage of data, is completely secure. However, we take the protection and storage of your Personal Information very seriously. We take all reasonable steps to protect your Personal Information. 
 
@@ -329,7 +329,7 @@ If you would like to exercise any of your rights please contact our Data Protect
 
 If you have any queries concerning our use of your Personal Information, please e-mail our Data Protection Officer.  
 
-Please also visit our [Cookie Policy](https://multilogin.com/en-us/cookie-policy/), which explains how we collect cookie related information, what we do with it and your rights in respect of it. Do not forget about our [Terms of Service](https://multilogin.com/en-us/terms-of-service/). 
+Please also visit our [Cookie Policy](https://multilogin.com/cookie-policy/), which explains how we collect cookie related information, what we do with it and your rights in respect of it. Do not forget about our [Terms of Service](https://multilogin.com/terms-of-service/). 
 
 In the event of a breach of your Personal Information, you will be notified in a reasonable time frame, but no later than two months from the time we become aware of such an event. We will follow all applicable laws regarding such breach. 
 
@@ -341,11 +341,11 @@ Your Personal Information will be kept for the period of time which is necessary
 
 If you wish to modify or delete any Personal Information we may have about you, or you wish to simply access any information we have about you, you may do so. You may at any time renew or change your Personal Information by e-mailing our Data Protection Officer at: [\[email protected\]](https://multilogin.com/cdn-cgi/l/email-protection) 
 
-Upon your request, we will deactivate or delete your Personal Information, unless we have to keep it by law (e.g. bookkeeping records for Tax authorities). We may retain in our files some Personal Information to prevent fraud, money laundering, troubleshoot problems, assist investigations, enforce our [Terms of Service](https://multilogin.com/en-us/terms-of-service/) and to comply with other legal requirements. 
+Upon your request, we will deactivate or delete your Personal Information, unless we have to keep it by law (e.g. bookkeeping records for Tax authorities). We may retain in our files some Personal Information to prevent fraud, money laundering, troubleshoot problems, assist investigations, enforce our [Terms of Service](https://multilogin.com/terms-of-service/) and to comply with other legal requirements. 
 
 For example, we may keep a history of changed information to investigate suspected fraud and money laundering. Such information will be deactivated or deleted as soon as practicable based on the information and in accordance with applicable laws. Therefore, you should not expect that all your Personal Information will be completely removed at once from our files in response to your request. 
 
-Our [Terms of Service](https://multilogin.com/en-us/terms-of-service/) give information about _Commencement, Renewal And Cancellation Of Subscription_. You may cancel a paid subscription. When you cancel a subscription you will not be able to continue using our Service. The Application will remain without a subscription and your data will not be preserved forever (we will try, but not warrant, to preserve the data for three months after subscription termination). 
+Our [Terms of Service](https://multilogin.com/terms-of-service/) give information about _Commencement, Renewal And Cancellation Of Subscription_. You may cancel a paid subscription. When you cancel a subscription you will not be able to continue using our Service. The Application will remain without a subscription and your data will not be preserved forever (we will try, but not warrant, to preserve the data for three months after subscription termination). 
 
 **11.MONITORING** 
 
@@ -353,7 +353,7 @@ We may monitor (record) communications between you and us, and in doing so we ma
 
 All monitoring will be done for safety and quality assurance, compliance, product development, and also for fraud prevention, detection of money laundering and training purposes for our staff. 
 
-If you are a passive user of the Website and do not register for any subscriptions or use our Service, you may still be subject to certain passive data collection. Such passive data collection may include through Cookies, as described in our [Cookie Policy](https://multilogin.com/en-us/cookie-policy/), IP address information, location information, and certain browser data, such as history and/or session information. 
+If you are a passive user of the Website and do not register for any subscriptions or use our Service, you may still be subject to certain passive data collection. Such passive data collection may include through Cookies, as described in our [Cookie Policy](https://multilogin.com/cookie-policy/), IP address information, location information, and certain browser data, such as history and/or session information. 
 
 **12.DIRECT MARKETING** 
 
@@ -397,11 +397,11 @@ We may use Web Beacons on our Website and e-mails to count users who have visite
 
 Web Beacons are not used to access users’ Personal Information. They are a technique we may use to compile aggregated statistics about our Website usage. Web Beacons collect only limited set information, including information about Cookies, time and date of a page or e-mail view and a description of the page or e-mail on which the Web Beacon resides. 
 
-You may not decline Web Beacons, but they can be rendered ineffective by declining all cookies or modifying your browser settings to notify you each time a Cookie is tendered, permitting you to accept or decline Cookies on an individual basis. More information can be obtained from our [Cookie Policy](https://multilogin.com/en-us/cookie-policy/). 
+You may not decline Web Beacons, but they can be rendered ineffective by declining all cookies or modifying your browser settings to notify you each time a Cookie is tendered, permitting you to accept or decline Cookies on an individual basis. More information can be obtained from our [Cookie Policy](https://multilogin.com/cookie-policy/). 
 
 **17.SOCIAL MEDIA** 
 
-We may use hyperlinks on our Website which will redirect you to a social network or third-party materials if you click on the respective link. Information about Cookies related to social media and which we use can be obtained from our [Cookie Policy](https://multilogin.com/en-us/cookie-policy/). 
+We may use hyperlinks on our Website which will redirect you to a social network or third-party materials if you click on the respective link. Information about Cookies related to social media and which we use can be obtained from our [Cookie Policy](https://multilogin.com/cookie-policy/). 
 
 When you click on a social plug-in, such as Facebook’s “LIKE” button, Twitter’s “TWEET” button or the Google+, that particular or other third-party social networks plug-in will be activated and your browser will directly connect to that provider’s servers. If you do not use such buttons, none of your data will be sent to the respective social network’s plug-in provider. 
 
@@ -478,7 +478,7 @@ To opt out from the Google Display Network, use the Google Ads settings at: [htt
 * respond to requests, such as criminal, civil or administrative process (court orders), or writs from law enforcement or other governmental or legal bodies acting under laws; 
     
 
-* bring about legal action against a user who has violated  laws or violated our [Terms of Service](https://multilogin.com/en-us/terms-of-service/); 
+* bring about legal action against a user who has violated  laws or violated our [Terms of Service](https://multilogin.com/terms-of-service/); 
     
 * as may be necessary for the operation of our Website; 
     
@@ -535,7 +535,7 @@ We will ask for your consent to share your Personal Information with third parti
 
  You need to be 18 or over. 
 
- We do not intend to collect Personal Data from children. Any person who provides Personal Information to us represents that he or she is 18 years of age or older. If we learn that Personal Information has been collected from users under 18 years of age, then we will take appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 18 years of age who has transferred Personal Information to us, please contact us using our contact information to have that child’s account terminated and information deleted. Refunds will be made according to our [Terms of Service](https://multilogin.com/en-us/terms-of-service/). 
+ We do not intend to collect Personal Data from children. Any person who provides Personal Information to us represents that he or she is 18 years of age or older. If we learn that Personal Information has been collected from users under 18 years of age, then we will take appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 18 years of age who has transferred Personal Information to us, please contact us using our contact information to have that child’s account terminated and information deleted. Refunds will be made according to our [Terms of Service](https://multilogin.com/terms-of-service/). 
 
 **27.PUBLIC INFORMATION** 
 
