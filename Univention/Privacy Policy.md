@@ -50,13 +50,9 @@ Get started
     
     ![](https://www.univention.com/wp-content/uploads/2024/03/portal-white.svg)
     
-    Book an Appointment Individual Product Demo](https://www.univention.com/get-appointment/)
-
-[](https://www.univention.com/privacy-statement/?searchform=1)
+    Book an Appointment Individual Online Appointment](https://www.univention.com/get-appointment/)
 
 Search 
-
-[](https://www.univention.com/privacy-statement/?searchform=0)
 
 * [en](https://www.univention.com/privacy-statement/)
 * [de](https://www.univention.de/datenschutzerklaerung/)
@@ -84,7 +80,7 @@ The body named in the [Imprint](https://www.univention.com/imprint/) is responsi
 
 ### Usage data
 
-When you visit our websites, so-called usage data are temporarily evaluated on our web server for statistical purposes as a protocol with the aim of improving the quality of our websites. This data set comprises:
+When you visit our websites, so-called usage data is temporarily evaluated on our web server for statistical purposes as a protocol with the aim of improving the quality of our websites. This data set comprises:
 
 * the name and address of the requested content;
 * the date and time of the request;
@@ -94,11 +90,11 @@ When you visit our websites, so-called usage data are temporarily evaluated on o
 * the referral link, which indicates from which website you came to ours;
 * the IP address of the requesting computer, which is abbreviated in such a way that it can no longer be linked to a specific person.
 
-The protocol data specified are only evaluated anonymously.
+The protocol data specified is only evaluated anonymously.
 
 ### Data security
 
-We employ technical and organizational measures to protect your data as comprehensively as possible from unwanted access. We use an encryption process on our websites. Your data are transferred from your computer to our server and vice versa over the Internet using a TLS encryption protocol. You can usually recognize this by the fact that the lock symbol in the status bar of your browser is closed and the address line begins with https://.
+We employ technical and organizational measures to protect your data as comprehensively as possible from unwanted access. We use an encryption process on our websites. Your data is transferred from your computer to our server and vice versa over the Internet using a TLS encryption protocol. You can usually recognize this by the fact that the lock symbol in the status bar of your browser is closed and the address line begins with https://.
 
 ### Necessary cookies
 
@@ -148,14 +144,14 @@ The following analysis cookies are used:
 You have the option of contacting us via our contact form. For it to be possible to use the contact form, we first require you to complete the data marked as required fields.  
 We use these data on the basis of point (f) of Art. 6 (1) of the GDPR to respond to your query.
 
-In addition, you can also decide for yourself whether you would like to provide us with additional data. Such data are provided voluntarily and are not urgently required for contacting us. Your voluntarily provided data are processed on the basis of your consent in accordance with point (a) of Art. 6 (1) of the GDPR.
+In addition, you can also decide for yourself whether you would like to provide us with additional data. Such data is provided voluntarily and is not urgently required for contacting us. Your voluntarily provided data are processed on the basis of your consent in accordance with point (a) of Art. 6 (1) of the GDPR.
 
-Your data are only processed to respond to your query. We delete your data once they are no longer required and provided that we are not legally required to store them for longer.  
-Insofar as the data you provide via the contact form are processed on the basis of point (f) of Art. 6 (1) of the GDPR, you may object to the processing at any time. Furthermore, you can withdraw your consent to the processing of the voluntarily provided data at any time. To do so, please use the e-mail address provided in the Imprint.
+Your data is only processed to respond to your query. We delete your data once it is no longer required and provided that we are not legally required to store it for longer.  
+Insofar as the data you provide via the contact form are processed on the basis of point (f) of Art. 6 (1) of the GDPR, you may object to the processing at any time. Furthermore, you can withdraw your consent to the processing of the voluntarily provided data at any time. To do so, please use the e-mail address provided in the imprint.
 
-In addition, you have the option of agreeing to your data being forwarded to our partner companies. This is done for the purpose of advertising contact of the selected partner companies with you. The forwarding of your contact data as well as the processing of this data by the selected partner companies is based on your consent according to Art. 6 para. 1 p. 1 lit. a DSGVO. We forward your consent to the selected partner companies. The selected partner companies are responsible for the data processing there for the purpose of contacting you in accordance with Art. 4 No. 7 DSGVO.
+In addition, you have the option of agreeing to your data being forwarded to our partner companies. This is done for the purpose of advertising contact of the selected partner companies with you. The forwarding of your contact data as well as the processing of this data by the selected partner companies is based on your consent according to Art. 6 para. 1 p. 1 lit. a DSGVO. We will forward your consent to the selected partner companies. The selected partner companies are responsible for the data processing there for the purpose of contacting you in accordance with Art. 4 No. 7 DSGVO.
 
-You can revoke your consent at any time without giving reasons. To do so, please contact the e-mail address stated in the imprint. We ask you to address the revocation against the processing of your data for advertising contact by the respective partner companies directly to them. Even after your revocation, the previously performed transfer and processing of your contact data remains lawful.
+You can revoke your consent at any time without giving reasons. To do so, please contact the e-mail address stated in the imprint. We ask you to address the revocation against the processing of your data for advertising contact by the respective partner companies directly to them. Even after your revocation, the previously performed transfer and processing of your contact data remain lawful.
 
 For the following partner companies, consent can be given for contacting:
 
@@ -167,7 +163,7 @@ For the following partner companies, consent can be given for contacting:
 
 We provide you with the use of social plugins. For data protection reasons, however, we only integrate the social plugins we use in deactivated form. Therefore, when you call up our websites, no data is transmitted to social media services.
 
-However, you have the option of activating and using the social plugins integrated on our websites. For this purpose, we use a solution that results in all data and functions required to display the social plugin being provided by our web server in a first step. Only when you decide to activate the respective social plugin and click on the corresponding preview image or icon, a connection to the servers of the operator of the respective social media service is established by your browser in a second step.
+However, you have the option of activating and using the social plugins integrated on our websites. For this purpose, we use a solution that results in all the data and functions required to display the social plugin being provided by our web server as a first step. Only when you decide to activate the respective social plugin and click on the corresponding preview image or icon, a connection to the servers of the operator of the respective social media service is established by your browser in a second step.
 
 When you activate a plugin, the social media service receives in particular your IP address and, among other things, knowledge about your visit to our websites. This occurs regardless of whether you have an account with the respective social media service. If you are logged in, the data can be directly assigned to your social media profile.
 
@@ -179,11 +175,11 @@ If you no longer wish your personal data to be processed by the activated social
 
 ### Embedded videos
 
-We embed videos on our websites which are not stored on our servers. In order to ensure that viewing our websites with embedded videos does not automatically result in third-party content being reloaded, we only show locally stored preview images of the videos in a first step. This does not provide the third party with any information.
+We embed videos on our websites that are not stored on our servers. In order to ensure that viewing our websites with embedded videos does not automatically result in third-party content being reloaded, we only show locally stored preview images of the videos in a first step. This does not provide the third party with any information.
 
 The third-party content is only reloaded if you click on the preview image. The third party is then informed that you have visited our site and is provided with the usage data technically required in this scope. In addition, the third party is then in a position to implement tracking technologies. We have no further influence on the data processing performed by the third party. By clicking on the preview image, you give us your consent to reloading the third-party content.
 
-This embedding is performed on the basis of your consent in accordance with point (a) of Art. 6 (1) of the GDPR, provided that you have given your consent by clicking on the preview image. Please note that the embedding of many videos results in your data being processed outside of the EU/EEA. In some countries, there is the risk that authorities access the data for security and surveillance purposes without your being informed or having the right to appeal. If we use providers in unsafe third countries and you give your consent, the transfer to an unsafe third country is performed on the basis of point (a) of Art. 49 (1) of the GDPR.
+This embedding is performed on the basis of your consent in accordance with point (a) of Art. 6 (1) of the GDPR, provided that you have given your consent by clicking on the preview image. Please note that the embedding of many videos results in your data being processed outside of the EU/EEA. In some countries, there is the risk that authorities will access the data for security and surveillance purposes without your being informed or having the right to appeal. If we use providers in unsafe third countries and you give your consent, the transfer to an unsafe third country is performed on the basis of point (a) of Art. 49 (1) of the GDPR.
 
 | Provider | Appropriate data protection level | Withdrawal of consent |
 | --- | --- | --- |
@@ -192,7 +188,7 @@ This embedding is performed on the basis of your consent in accordance with poin
 ### Newsletter subscription and sending of newsletter
 
 You can order a newsletter on our website. Please note that we require certain data to subscribe you to the newsletter (at least your e-mail address).  
-We use the newsletter provider MailChimp to send our newsletter. If you subscribe to our newsletter, the data that you provide during the newsletter subscription process are forwarded to MailChimp and stored there. MailChimp offers comprehensive possibilities for analyzing the use of the newsletter. These analyses are based on groups, and we do not use them for individual evaluations. Further information on MailChimp and data privacy at MailChimp can be found here: https://mailchimp.com/legal/privacy/
+We use the newsletter provider MailChimp to send our newsletter. If you subscribe to our newsletter, the data that you provide during the newsletter subscription process is forwarded to MailChimp and stored there. MailChimp offers comprehensive possibilities for analyzing the use of the newsletter. These analyses are based on groups, and we do not use them for individual evaluations. Further information on MailChimp and data privacy at MailChimp can be found here: https://mailchimp.com/legal/privacy/
 
 The newsletter is only sent if you have expressly given your consent in accordance with point (a) of Art. 6 (1) of the GDPR. You may withdraw your consent at any time. One simple option for withdrawing consent is the Unsubscribe link included in every newsletter, for example.
 
@@ -212,7 +208,7 @@ If you would like to log out of our password-protected area permanently, please 
 
 ### Duration of storage
 
-Unless we have already provided specific information about the individual storage period, we delete personal data once they are no longer required for the aforementioned processing purposes and there are no legal storage obligations preventing their deletion.
+Unless we have already provided specific information about the individual storage period, we delete personal data once it is no longer required for the aforementioned processing purposes and there are no legal storage obligations preventing its deletion.
 
 ### Additional processors
 
@@ -229,9 +225,9 @@ In the following, we name the processors with whom we work, if we have not alrea
 
 You have the option of applying to the job vacancies we publish online via our website. In addition to the required data, you decide for yourself the extent of the data that you would like to send to us in the scope of your online application.
 
-We process your personal data in accordance with the applicable data privacy provisions on the basis of Section 26 of the German Federal Data Protection Act (BDSG). We process the data you offer to us in the scope of your online application exclusively for the purpose of selecting applicants. The data are not processed for any other purposes.
+We process your personal data in accordance with the applicable data privacy provisions on the basis of Section 26 of the German Federal Data Protection Act (BDSG). We process the data you offer to us in the scope of your online application exclusively for the purpose of selecting applicants. The data is not processed for any other purposes.
 
-Online applications are made available to our HR department and the heads of the respective teams and departments. The data are transferred encrypted. It goes without saying that we treat your data confidentially. We employ service providers who are strictly bound by instructions, who offer us IT support, and with whom we have concluded special contracts for processing. Your data are not provided to anyone else. If your application is not successful, your documents are deleted after six months.  
+Online applications are made available to our HR department and the heads of the respective teams and departments. The data is transferred encrypted. It goes without saying that we treat your data confidentially. We employ service providers who are strictly bound by instructions, who offer us IT support, and with whom we have concluded special contracts for processing. Your data is not provided to anyone else. If your application is not successful, your documents are deleted after six months.  
 In individual cases, some data may be stored for longer (e.g., claims for travel expenses). The duration of storage is then dictated by the legal storage obligations, e.g., in the German Tax Code (6 years) or the German Commercial Code (10 years).
 
 If you are not hired for the vacant position but your application is still of interest to us, we will ask you whether we may keep your application for future vacancies. We then process your data on the basis of point (a) of Art. 6 (1) of the GDPR.
@@ -277,11 +273,11 @@ The legal basis for processing with regard to the recording, internal documentat
 
 The legal basis for processing with regard to the publication of photos of small groups of people and individuals is your consent in accordance with Article 6 (1) sentence 1 lit. a GDPR. In particular, we assume your consent if you deliberately allow yourself to be photographed and pose for photos. You can revoke your consent at any time with effect for the future.
 
-### data receiver
+### Data receiver
 
 When creating the photos and videos, we are supported by a professional photographer. He acts strictly according to our instructions. We have concluded a separate contract for order processing with them.
 
-### data erasure
+### Data erasure
 
 All recordings made by us will be deleted as soon as the processing is no longer required for the above-mentioned purposes or an effective revocation has been given. Please note that when recordings are published on the Internet, there is always a risk that they will be processed without our intervention and that full deletion is therefore no longer possible. This applies accordingly to press articles etc. published on the Internet, which can be located and retrieved by Internet search engines at home and abroad.
 
@@ -473,7 +469,7 @@ Products
 * [UCS@school](https://www.univention.com/products/ucsschool/)
 * [Prices & Subscriptions](https://www.univention.com/products/prices-and-subscriptions/)
 * [Release Information UCS](https://www.univention.com/products/release-information/)
-* [Book Your Live Product Demo](https://www.univention.com/get-appointment/)
+* [Book Your Appointment](https://www.univention.com/get-appointment/)
 
 Help
 
