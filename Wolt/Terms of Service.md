@@ -320,11 +320,11 @@ Useful links
 
 Follow us
 
-* [Blog](https://blog.wolt.com/)
+* [Blog](https://blog.wolt.com/fin/)
 * [Engineering Blog](https://careers.wolt.com/en/blog?category=tech)
 * [Instagram](https://instagram.com/woltapp)
 * [Facebook](https://www.facebook.com/woltapp/)
-* [Twitter](https://twitter.com/woltapp)
+* [X](https://twitter.com/woltapp)
 * [LinkedIn](https://www.linkedin.com/company/wolt-oy/)
 * [Wolt Life](https://life.wolt.com/en/fin)
 
