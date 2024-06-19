@@ -1,43 +1,404 @@
-[![SplashLearn](https://cdn.splashmath.com/assets/home/v5/logo-a26c535e83d56f82115a35713fd8c41179a928c83b9cef3bac76e9dc28c27c02.png)](https://www.splashlearn.com/)
+[![SplashLearn Logo](https://cdn.splashmath.com/assets/home/v5/logo-a26c535e83d56f82115a35713fd8c41179a928c83b9cef3bac76e9dc28c27c02.png)](https://www.splashlearn.com/)
 
-* [Curriculum](https://www.splashlearn.com/maths-skills/year-1/curriculum)
-* [Curriculum](javascript:void(0);)
-    * [Year 1 Maths](https://www.splashlearn.com/maths-skills/year-1)
-    * [Year 2 Maths](https://www.splashlearn.com/maths-skills/year-2)
-    * [Year 3 Maths](https://www.splashlearn.com/maths-skills/year-3)
-    * [Year 4 Maths](https://www.splashlearn.com/maths-skills/year-4)
-    * [Year 5 Maths](https://www.splashlearn.com/maths-skills/year-5)
-    * [Year 6 Maths](https://www.splashlearn.com/maths-skills/year-6)
-    * [Maths Facts](https://www.splashlearn.com/maths-skills/maths-facts)
-* Over 40 Million kids use SplashLearn!
-* [Parents](https://www.splashlearn.com/features/parents)
-* [Teachers](https://www.splashlearn.com/teachers)
-* [Case Studies](https://www.splashlearn.com/success-stories)
-* [Sign In](https://www.splashlearn.com/signin)
+Parents![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
 
-* [Teachers, Sign Up for Free](https://www.splashlearn.com/teachers/register?promo_camp_code=educator_primary)
-* [Sign In](https://www.splashlearn.com/signin)
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
 
-* [Teachers, Sign Up for Free](https://www.splashlearn.com/teachers/register)
+Explore by Grade
 
-* Year 1
-    
-    45 Skills
-* Year 2
-    
-    76 Skills
-* Year 3
-    
-    72 Skills
-* Year 4
-    
-    95 Skills
-* Year 5
-    
-    85 Skills
-* Year 6
-    
-    44 Skills
+[Preschool (Age 2-5)](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+Explore by Subject
+
+[Math Program](https://www.splashlearn.com/math)[English Program](https://www.splashlearn.com/ela)
+
+![multiple-stars-icon](https://cdn.splashmath.com/assets/home/v5/multiple-stars-icon-a21c4c83b945a56e8ada51a5a197187d522da4c448fdb2da82ff7c6903971cec.svg)
+
+More Programs
+
+[Homeschool Program](https://www.splashlearn.com/homeschool-program)[Summer Program](https://games.splashlearn.com/summer-games)[Monthly Mash-up](https://crmlp.splashlearn.com/live-class)
+
+![link-chain-icon](https://cdn.splashmath.com/assets/home/v5/link-chain-icon-48e8cae193ba7d00795ad6082b480c684a6d50f850ea19d06d5fb1aee478101d.svg)
+
+Helpful Links
+
+[Parenting Blog](https://www.splashlearn.com/blog/parents-resources/)[Success Stories](https://www.splashlearn.com/success-stories#parent-cs)[Support](https://support.splashlearn.com/hc/en-us/categories/12271293255570-I-am-a-Parent)[Gifting](https://crmlp.splashlearn.com/gift)
+
+Also available on![](https://cdn.splashmath.com/assets/home/v5/apple-logo-e89e10719ec6dbd376d76bda9d338e4999b686f4ba1a72f0557f2291d9e8412e.svg)![](https://cdn.splashmath.com/assets/home/v5/google-play-logo-ab5922bba355bacb9276745391696e22bf7d6244ecd457d9e71b1415d912ea6f.svg)
+
+[![app store](https://cdn.splashmath.com/assets/home/v5/app-store-c8389de3b839f3bb3ba31f619e6600121ec8e816ae1df8b35ff09dac458d9e79.svg)](https://apps.apple.com/us/app/splashlearn-kids-learning-app/id672658828)[![play store](https://cdn.splashmath.com/assets/home/v5/play-store-bd264b12b37c7969554a2e3ebfbe5d58b21d72fab71ff42bf24b33dd704c6043.svg)](https://play.google.com/store/apps/details?id=com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath&hl=en&gl=US)
+
+Educators![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+Explore by Grade
+
+[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+Explore by Subject
+
+[Math Program](https://www.splashlearn.com/math)[English Program](https://www.splashlearn.com/ela)
+
+![multiple-stars-icon](https://cdn.splashmath.com/assets/home/v5/multiple-stars-icon-a21c4c83b945a56e8ada51a5a197187d522da4c448fdb2da82ff7c6903971cec.svg)
+
+More Programs
+
+[SpringBoard](https://www.splashlearn.com/springboard/teachers)[Summer Program](https://games.splashlearn.com/summer-games)
+
+![link-chain-icon](https://cdn.splashmath.com/assets/home/v5/link-chain-icon-48e8cae193ba7d00795ad6082b480c684a6d50f850ea19d06d5fb1aee478101d.svg)
+
+Helpful Links
+
+[Lesson Plans](https://www.splashlearn.com/lesson-plans)[Teaching Tools](https://www.splashlearn.com/tools)[Teaching Blog](https://www.splashlearn.com/blog/teaching-resources/)[Success Stories](https://www.splashlearn.com/success-stories)[Administrators](https://www.splashlearn.com/administrators)[Support](https://support.splashlearn.com/hc/en-us/categories/12271297576722-I-am-a-Teacher)
+
+Our Library![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+All
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade
+
+[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject
+
+[Math](https://www.splashlearn.com/math)[English](https://www.splashlearn.com/ela)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic
+
+[Counting](https://www.splashlearn.com/math/counting)[Addition](https://www.splashlearn.com/math/addition)[Subtraction](https://www.splashlearn.com/math/subtraction)[Multiplication](https://www.splashlearn.com/math/multiplication)[Phonics](https://www.splashlearn.com/ela/phonics)[Alphabet](https://www.splashlearn.com/ela/alphabet)[Vowels](https://www.splashlearn.com/ela/vowels)
+
+![light blue curve](https://cdn.splashmath.com/assets/home/v5/light-blue-curve-15854a9a2ac7fe6df5f5e724dc3feb0782de04932b53099f90e19703a74be39f.svg)
+
+![library-all](https://cdn.splashmath.com/assets/logged_out/header/library-all.png)
+
+One stop for learning fun!
+
+Games, activities, lessons - it's all here!
+
+[Explore All](https://www.splashlearn.com/resources)
+
+Games
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade
+
+[Preschool Games](https://www.splashlearn.com/games-for-preschoolers)[Kindergarten Games](https://www.splashlearn.com/games-for-kindergarteners)[Grade 1 Games](https://www.splashlearn.com/games-for-1st-graders)[Grade 2 Games](https://www.splashlearn.com/games-for-2nd-graders)[Grade 3 Games](https://www.splashlearn.com/games-for-3rd-graders)[Grade 4 Games](https://www.splashlearn.com/games-for-4th-graders)[Grade 5 Games](https://www.splashlearn.com/games-for-5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject
+
+[Math Games](https://www.splashlearn.com/math-games)[Reading Games](https://www.splashlearn.com/ela/reading-games)[Art and Creativity Games](https://www.splashlearn.com/games/art-creativity)[General Knowledge Games](https://www.splashlearn.com/games/general-knowledge)[Logic & Thinking Games](https://www.splashlearn.com/games/logic-thinking)[Multiplayer Games](https://www.splashlearn.com/games/multiplayer)[Motor Skills Games](https://www.splashlearn.com/games/motor-skills)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic
+
+[Counting Games](https://www.splashlearn.com/math/counting-games)[Addition Games](https://www.splashlearn.com/math/addition-games)[Subtraction Games](https://www.splashlearn.com/math/subtraction-games)[Multiplication Games](https://www.splashlearn.com/math/multiplication-games)[Phonics Games](https://www.splashlearn.com/ela/phonics-games)[Sight Words Games](https://www.splashlearn.com/ela/sight-words-games)[Alphabet Games](https://www.splashlearn.com/ela/alphabet-games)
+
+![light blue curve](https://cdn.splashmath.com/assets/home/v5/light-blue-curve-15854a9a2ac7fe6df5f5e724dc3feb0782de04932b53099f90e19703a74be39f.svg)
+
+![library-games](https://cdn.splashmath.com/assets/logged_out/header/library-games.png)
+
+Learning so good, it feels like play!
+
+Explore hundreds of fun games that teach!
+
+[Dive In](https://www.splashlearn.com/games)
+
+Worksheets
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade
+
+[Preschool Worksheets](https://www.splashlearn.com/worksheets-for-preschoolers)[Kindergarten Worksheets](https://www.splashlearn.com/worksheets-for-kindergarteners)[Grade 1 Worksheets](https://www.splashlearn.com/worksheets-for-1st-graders)[Grade 2 Worksheets](https://www.splashlearn.com/worksheets-for-2nd-graders)[Grade 3 Worksheets](https://www.splashlearn.com/worksheets-for-3rd-graders)[Grade 4 Worksheets](https://www.splashlearn.com/worksheets-for-4th-graders)[Grade 5 Worksheets](https://www.splashlearn.com/worksheets-for-5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject
+
+[Math Worksheets](https://www.splashlearn.com/math-worksheets)[Reading Worksheets](https://www.splashlearn.com/ela/reading-worksheets)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic
+
+[Addition Worksheets](https://www.splashlearn.com/math/addition-worksheets)[Multiplication Worksheets](https://www.splashlearn.com/math/multiplication-worksheets)[Fraction Worksheets](https://www.splashlearn.com/math/fractions-worksheets)[Phonics Worksheets](https://www.splashlearn.com/ela/phonics-worksheets)[Alphabet Worksheets](https://www.splashlearn.com/ela/alphabet-worksheets)[Letter Tracing Worksheets](https://www.splashlearn.com/ela/letter-tracing-worksheets)[Cursive Writing Worksheets](https://www.splashlearn.com/ela/cursive-writing-worksheets)
+
+![light blue curve](https://cdn.splashmath.com/assets/home/v5/light-blue-curve-15854a9a2ac7fe6df5f5e724dc3feb0782de04932b53099f90e19703a74be39f.svg)
+
+![library-worksheets](https://cdn.splashmath.com/assets/logged_out/header/library-worksheets.png)
+
+Stuck on a concept? We're here to help!
+
+Find the perfect worksheet to reinforce any skill.
+
+[Explore Worksheets](https://www.splashlearn.com/worksheets)
+
+Lesson Plans
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade
+
+[Kindergarten Lesson Plans](https://www.splashlearn.com/lesson-plans-for-kindergarteners)[Grade 1 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-1st-graders)[Grade 2 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-2nd-graders)[Grade 3 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-3rd-graders)[Grade 4 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-4th-graders)[Grade 5 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject
+
+[Math Lesson Plans](https://www.splashlearn.com/math-lesson-plans)[Reading Lesson Plans](https://www.splashlearn.com/ela/reading-lesson-plans)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic
+
+[Addition Lesson Plans](https://www.splashlearn.com/math/addition-lesson-plans)[Multiplication Lesson Plans](https://www.splashlearn.com/math/multiplication-lesson-plans)[Fraction Lesson Plans](https://www.splashlearn.com/math/fractions-lesson-plans)[Geometry Lesson Plans](https://www.splashlearn.com/math/geometry-lesson-plans)[Phonics Lesson Plans](https://www.splashlearn.com/ela/phonics-lesson-plans)[Writing Lesson Plans](https://www.splashlearn.com/ela/writing-lesson-plans)[Vocabulary Lesson Plans](https://www.splashlearn.com/ela/vocabulary-lesson-plans)
+
+![light blue curve](https://cdn.splashmath.com/assets/home/v5/light-blue-curve-15854a9a2ac7fe6df5f5e724dc3feb0782de04932b53099f90e19703a74be39f.svg)
+
+![library-lesson-plans](https://cdn.splashmath.com/assets/logged_out/header/library-lesson-plans.png)
+
+Ready-to-go lessons = More time for teaching!
+
+Free K to Grade 5 plans with activities & assessments, all at your fingertips.
+
+[Access for free](https://www.splashlearn.com/lesson-plans)
+
+Teaching Tools
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic
+
+[Math Facts](https://www.splashlearn.com/math-skills/math-facts)[Multiplication Tool](https://www.splashlearn.com/tools/multiplication)[Telling Time Tool](https://www.splashlearn.com/tools/telling-time)[Fractions Tool](https://www.splashlearn.com/tools/fractions-on-a-number-line)[Number Line Tool](https://www.splashlearn.com/tools/number-line)[Coordinate Graph Tool](https://www.splashlearn.com/tools/coordinate-graphs)[Virtual Manipulatives](https://www.splashlearn.com/tools/virtual-manipulatives)
+
+![light blue curve](https://cdn.splashmath.com/assets/home/v5/light-blue-curve-15854a9a2ac7fe6df5f5e724dc3feb0782de04932b53099f90e19703a74be39f.svg)
+
+![library-teaching-tools](https://cdn.splashmath.com/assets/logged_out/header/library-teaching-tools.png)
+
+Make learning stick!
+
+Interactive PreK to Grade 5 teaching tools to bring lessons to life.
+
+[Use for free](https://www.splashlearn.com/tools)
+
+Articles
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic
+
+[Prime Number](https://www.splashlearn.com/math-vocabulary/algebra/prime-number)[Place Value](https://www.splashlearn.com/math-vocabulary/place-value/place-value)[Number Line](https://www.splashlearn.com/math-vocabulary/number-sense/number-line)[Long Division](https://www.splashlearn.com/math-vocabulary/division/long-division)[Fractions](https://www.splashlearn.com/math-vocabulary/fractions/fraction)[Factors](https://www.splashlearn.com/math-vocabulary/multiplication/factor)[Shapes](https://www.splashlearn.com/math-vocabulary/geometry/shape)
+
+![light blue curve](https://cdn.splashmath.com/assets/home/v5/light-blue-curve-15854a9a2ac7fe6df5f5e724dc3feb0782de04932b53099f90e19703a74be39f.svg)
+
+![library-articles](https://cdn.splashmath.com/assets/logged_out/header/library-articles.png)
+
+Math definitions made easy
+
+Explore 2,000+ definitions with examples and more - all in one place.
+
+[Explore math vocabulary](https://www.splashlearn.com/math-vocabulary)
+
+[Log in](https://www.splashlearn.com/signin)[Sign up](https://www.splashlearn.com/register)
+
+[![SplashLearn Logo](https://cdn.splashmath.com/assets/home/v5/logo-a26c535e83d56f82115a35713fd8c41179a928c83b9cef3bac76e9dc28c27c02.png)](https://www.splashlearn.com/)
+
+[Log in](https://www.splashlearn.com/signin)[Sign up](https://www.splashlearn.com/register)![Hamburger menu](https://cdn.splashmath.com/assets/home/v5/hamburger-menu-8a827929749074cb0fb222628703b7d2d97add80a7ec57e778f6cde93f10bd30.svg)
+
+![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+![Close menu](https://cdn.splashmath.com/assets/home/v5/close-menu-f11a0b34249ef24353771cf5614ff1afd860a01e36e4b99fe29b8753cee4eac1.svg)
+
+Parents
+
+Parents
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+Explore by Grade![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Preschool (Age 2-5)](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+Explore by Subject![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math Program](https://www.splashlearn.com/math)[English Program](https://www.splashlearn.com/ela)
+
+![multiple-stars-icon](https://cdn.splashmath.com/assets/home/v5/multiple-stars-icon-a21c4c83b945a56e8ada51a5a197187d522da4c448fdb2da82ff7c6903971cec.svg)
+
+More Programs![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Homeschool Program](https://www.splashlearn.com/homeschool-program)[Summer Program](https://games.splashlearn.com/summer-games)[Monthly Mash-up](https://crmlp.splashlearn.com/live-class)
+
+![link-chain-icon](https://cdn.splashmath.com/assets/home/v5/link-chain-icon-48e8cae193ba7d00795ad6082b480c684a6d50f850ea19d06d5fb1aee478101d.svg)
+
+Helpful Links![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Parenting Blog](https://www.splashlearn.com/blog/parents-resources/)[Success Stories](https://www.splashlearn.com/success-stories#parent-cs)[Support](https://support.splashlearn.com/hc/en-us/categories/12271293255570-I-am-a-Parent)[Gifting](https://crmlp.splashlearn.com/gift)
+
+![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Educators
+
+Educators
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+Explore by Grade![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+Explore by Subject![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math Program](https://www.splashlearn.com/math)[English Program](https://www.splashlearn.com/ela)
+
+![multiple-stars-icon](https://cdn.splashmath.com/assets/home/v5/multiple-stars-icon-a21c4c83b945a56e8ada51a5a197187d522da4c448fdb2da82ff7c6903971cec.svg)
+
+More Programs![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[SpringBoard](https://www.splashlearn.com/springboard/teachers)[Summer Program](https://games.splashlearn.com/summer-games)
+
+![link-chain-icon](https://cdn.splashmath.com/assets/home/v5/link-chain-icon-48e8cae193ba7d00795ad6082b480c684a6d50f850ea19d06d5fb1aee478101d.svg)
+
+Helpful Links![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Lesson Plans](https://www.splashlearn.com/lesson-plans)[Teaching Tools](https://www.splashlearn.com/tools)[Teaching Blog](https://www.splashlearn.com/blog/teaching-resources/)[Success Stories](https://www.splashlearn.com/success-stories)[Administrators](https://www.splashlearn.com/administrators)[Support](https://support.splashlearn.com/hc/en-us/categories/12271297576722-I-am-a-Teacher)
+
+![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Our Library
+
+Our Library
+
+All![Chevron right](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+All
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math](https://www.splashlearn.com/math)[English](https://www.splashlearn.com/ela)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Counting](https://www.splashlearn.com/math/counting)[Addition](https://www.splashlearn.com/math/addition)[Subtraction](https://www.splashlearn.com/math/subtraction)[Multiplication](https://www.splashlearn.com/math/multiplication)[Phonics](https://www.splashlearn.com/ela/phonics)[Alphabet](https://www.splashlearn.com/ela/alphabet)[Vowels](https://www.splashlearn.com/ela/vowels)
+
+Games![Chevron right](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Games
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Preschool Games](https://www.splashlearn.com/games-for-preschoolers)[Kindergarten Games](https://www.splashlearn.com/games-for-kindergarteners)[Grade 1 Games](https://www.splashlearn.com/games-for-1st-graders)[Grade 2 Games](https://www.splashlearn.com/games-for-2nd-graders)[Grade 3 Games](https://www.splashlearn.com/games-for-3rd-graders)[Grade 4 Games](https://www.splashlearn.com/games-for-4th-graders)[Grade 5 Games](https://www.splashlearn.com/games-for-5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math Games](https://www.splashlearn.com/math-games)[Reading Games](https://www.splashlearn.com/ela/reading-games)[Art and Creativity Games](https://www.splashlearn.com/games/art-creativity)[General Knowledge Games](https://www.splashlearn.com/games/general-knowledge)[Logic & Thinking Games](https://www.splashlearn.com/games/logic-thinking)[Multiplayer Games](https://www.splashlearn.com/games/multiplayer)[Motor Skills Games](https://www.splashlearn.com/games/motor-skills)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Counting Games](https://www.splashlearn.com/math/counting-games)[Addition Games](https://www.splashlearn.com/math/addition-games)[Subtraction Games](https://www.splashlearn.com/math/subtraction-games)[Multiplication Games](https://www.splashlearn.com/math/multiplication-games)[Phonics Games](https://www.splashlearn.com/ela/phonics-games)[Sight Words Games](https://www.splashlearn.com/ela/sight-words-games)[Alphabet Games](https://www.splashlearn.com/ela/alphabet-games)
+
+Worksheets![Chevron right](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Worksheets
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Preschool Worksheets](https://www.splashlearn.com/worksheets-for-preschoolers)[Kindergarten Worksheets](https://www.splashlearn.com/worksheets-for-kindergarteners)[Grade 1 Worksheets](https://www.splashlearn.com/worksheets-for-1st-graders)[Grade 2 Worksheets](https://www.splashlearn.com/worksheets-for-2nd-graders)[Grade 3 Worksheets](https://www.splashlearn.com/worksheets-for-3rd-graders)[Grade 4 Worksheets](https://www.splashlearn.com/worksheets-for-4th-graders)[Grade 5 Worksheets](https://www.splashlearn.com/worksheets-for-5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math Worksheets](https://www.splashlearn.com/math-worksheets)[Reading Worksheets](https://www.splashlearn.com/ela/reading-worksheets)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Addition Worksheets](https://www.splashlearn.com/math/addition-worksheets)[Multiplication Worksheets](https://www.splashlearn.com/math/multiplication-worksheets)[Fraction Worksheets](https://www.splashlearn.com/math/fractions-worksheets)[Phonics Worksheets](https://www.splashlearn.com/ela/phonics-worksheets)[Alphabet Worksheets](https://www.splashlearn.com/ela/alphabet-worksheets)[Letter Tracing Worksheets](https://www.splashlearn.com/ela/letter-tracing-worksheets)[Cursive Writing Worksheets](https://www.splashlearn.com/ela/cursive-writing-worksheets)
+
+Lesson Plans![Chevron right](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Lesson Plans
+
+![graduation-cap-icon](https://cdn.splashmath.com/assets/home/v5/graduation-cap-icon-3b600937e7d971b772c266139b40d06d1a1a2658bcdcd045b320cc673801bb73.svg)
+
+By Grade![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Kindergarten Lesson Plans](https://www.splashlearn.com/lesson-plans-for-kindergarteners)[Grade 1 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-1st-graders)[Grade 2 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-2nd-graders)[Grade 3 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-3rd-graders)[Grade 4 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-4th-graders)[Grade 5 Lesson Plans](https://www.splashlearn.com/lesson-plans-for-5th-graders)
+
+![book-icon](https://cdn.splashmath.com/assets/home/v5/book-icon-611ae05ed0e72bf93e783ad94499d86237ca75d562f772b8c48db2298922b9e8.svg)
+
+By Subject![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math Lesson Plans](https://www.splashlearn.com/math-lesson-plans)[Reading Lesson Plans](https://www.splashlearn.com/ela/reading-lesson-plans)
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Addition Lesson Plans](https://www.splashlearn.com/math/addition-lesson-plans)[Multiplication Lesson Plans](https://www.splashlearn.com/math/multiplication-lesson-plans)[Fraction Lesson Plans](https://www.splashlearn.com/math/fractions-lesson-plans)[Geometry Lesson Plans](https://www.splashlearn.com/math/geometry-lesson-plans)[Phonics Lesson Plans](https://www.splashlearn.com/ela/phonics-lesson-plans)[Writing Lesson Plans](https://www.splashlearn.com/ela/writing-lesson-plans)[Vocabulary Lesson Plans](https://www.splashlearn.com/ela/vocabulary-lesson-plans)
+
+Teaching Tools![Chevron right](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Teaching Tools
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Math Facts](https://www.splashlearn.com/math-skills/math-facts)[Multiplication Tool](https://www.splashlearn.com/tools/multiplication)[Telling Time Tool](https://www.splashlearn.com/tools/telling-time)[Fractions Tool](https://www.splashlearn.com/tools/fractions-on-a-number-line)[Number Line Tool](https://www.splashlearn.com/tools/number-line)[Coordinate Graph Tool](https://www.splashlearn.com/tools/coordinate-graphs)[Virtual Manipulatives](https://www.splashlearn.com/tools/virtual-manipulatives)
+
+Articles![Chevron right](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+Articles
+
+![target-icon](https://cdn.splashmath.com/assets/home/v5/target-icon-9e6c331db666b3fffc5f03a391ca0306d527bbf14ce1c71339bd63e9793baded.svg)
+
+By Topic![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Prime Number](https://www.splashlearn.com/math-vocabulary/algebra/prime-number)[Place Value](https://www.splashlearn.com/math-vocabulary/place-value/place-value)[Number Line](https://www.splashlearn.com/math-vocabulary/number-sense/number-line)[Long Division](https://www.splashlearn.com/math-vocabulary/division/long-division)[Fractions](https://www.splashlearn.com/math-vocabulary/fractions/fraction)[Factors](https://www.splashlearn.com/math-vocabulary/multiplication/factor)[Shapes](https://www.splashlearn.com/math-vocabulary/geometry/shape)
+
+![Chevron down](https://cdn.splashmath.com/assets/home/v5/chevron-down-b79420fa977804bd61f4bf84f2e0fe100008b5b82b29b6d25493b63b6d6329de.svg)
+
+[Log in](https://www.splashlearn.com/signin)[Sign up](https://www.splashlearn.com/register)
 
 Terms of Use
 ============
@@ -320,55 +681,35 @@ Except as expressly set forth in the sections above regarding the Apple Applicat
   
   
 
-* **Maths Games for Kids**
-* [Multiplication Games](https://www.splashlearn.com/multiplication-games)
-* [Fraction Games](https://www.splashlearn.com/fraction-games)
-* [Division Games](https://www.splashlearn.com/division-games)
-* [Number Games](https://www.splashlearn.com/number-games)
-* [Addition Games](https://www.splashlearn.com/addition-games)
-* [Subtraction Games](https://www.splashlearn.com/subtraction-games)
-* [Area and Perimeter Games](https://www.splashlearn.com/area-and-perimeter-games)
-* [Counting Money Games](https://www.splashlearn.com/counting-money-games)
-* [Place Value Games](https://www.splashlearn.com/place-value-games)
-* [Counting Games](https://www.splashlearn.com/counting-games)
+Math Games for Kids
 
-* **Maths Games for Kids**
-* [Multiplying Fractions Games](https://www.splashlearn.com/multiplying-fractions-games)
-* [Time Games](https://www.splashlearn.com/time-games)
-* [Ruler Games](https://www.splashlearn.com/ruler-games)
-* [Geometry Games](https://www.splashlearn.com/geometry-games)
-* [Decimal Games](https://www.splashlearn.com/decimal-games)
-* [Times Tables Games](https://www.splashlearn.com/times-tables-games)
-* [Algebra Games](https://www.splashlearn.com/algebra-games)
-* [Equivalent Fractions Games](https://www.splashlearn.com/equivalent-fractions-games)
-* [Measurement Games](https://www.splashlearn.com/measurement-games)
-* [Area Games](https://www.splashlearn.com/area-games)
+[Number Sense Games](https://www.splashlearn.com/math/number-sense-games)[Place Value Games](https://www.splashlearn.com/math/place-value-games)[Addition Games](https://www.splashlearn.com/math/addition-games)[Subtraction Games](https://www.splashlearn.com/math/subtraction-games)[Multiplication Games](https://www.splashlearn.com/math/multiplication-games)[Fraction Games](https://www.splashlearn.com/math/fractions-games)[Decimal Games](https://www.splashlearn.com/math/decimals-games)[Geometry Games](https://www.splashlearn.com/math/geometry-games)[Time Games](https://www.splashlearn.com/math/time-games)[Counting Money Games](https://www.splashlearn.com/math/counting-money-games)
 
-* **SplashLearn Content**
-* [For Classrooms](https://www.splashlearn.com/features/teachers)
-* [For Homeschoolers](https://www.splashlearn.com/homeschool-program)
-* [Maths Games](https://www.splashlearn.com/maths-games "Maths games - Educational games for kids")
-* [Maths Games for Year 1](https://www.splashlearn.com/maths-games-for-year-1)
-* [Maths Games for Year 2](https://www.splashlearn.com/maths-games-for-year-2)
-* [Maths Games for Year 3](https://www.splashlearn.com/maths-games-for-year-3)
-* [Maths Games for Year 4](https://www.splashlearn.com/maths-games-for-year-4)
-* [Maths Games for Year 5](https://www.splashlearn.com/maths-games-for-year-5)
-* [Maths Games for Year 6](https://www.splashlearn.com/maths-games-for-year-6)
+ELA Games for Kids
 
-* **Resources**
-* [About Us](https://www.splashlearn.com/about)
-* [Careers](https://studypad.recruiterbox.com/)
-* [Contact Us](https://www.splashlearn.com/about/contact-us)
-* [SplashLearn Reviews](https://www.splashlearn.com/reviews)
-* [SplashLearn Apps](https://www.splashlearn.com/apps)
-* [Help](#age-gate-popup)
-* [help@splashlearn.com](mailto:help@splashlearn.com)
-* [Cookies Info](https://uk.splashlearn.com/cookies_info_setting)
+[Reading Games](https://www.splashlearn.com/ela/reading-games)[Writing Games](https://www.splashlearn.com/ela/writing-games)[Phonics Games](https://www.splashlearn.com/ela/phonics-games)[Alphabet Games](https://www.splashlearn.com/ela/alphabet-games)[Letter Sounds Games](https://www.splashlearn.com/ela/letter-sounds-games)[CVC Word Games](https://www.splashlearn.com/ela/cvc-words-games)[Rhyming Words Games](https://www.splashlearn.com/ela/rhyming-words-games)[Sight Words Games](https://www.splashlearn.com/ela/sight-words-games)[Letter Tracing Games](https://www.splashlearn.com/ela/letter-tracing-games)[Writing Sight Words Games](https://www.splashlearn.com/ela/writing-sight-words-games)
 
-* StudyPad®, Splash Math®, SplashLearn™ & Springboard™ are Trademarks of StudyPad, Inc.
-* [![SplashLearn.com is certified by the kidSAFE Seal Program.](https://www.kidsafeseal.com/sealimage/5098186132059937251/splashlearn_large_whitetm.png)](https://www.kidsafeseal.com/certifiedproducts/splashlearn.html)
-* [Privacy Policy](https://www.splashlearn.com/privacy)   [Terms of Use](https://www.splashlearn.com/terms-of-use)
-* Copyright © 2020 Studypad Inc. All Rights Reserved
+Browse by Subject & Grade
+
+[Math](https://www.splashlearn.com/math)[ELA](https://www.splashlearn.com/ela)[Preschool](https://www.splashlearn.com/preschoolers)[Kindergarten](https://www.splashlearn.com/kindergarteners)[Grade 1](https://www.splashlearn.com/1st-graders)[Grade 2](https://www.splashlearn.com/2nd-graders)[Grade 3](https://www.splashlearn.com/3rd-graders)[Grade 4](https://www.splashlearn.com/4th-graders)[Grade 5](https://www.splashlearn.com/5th-graders)
+
+SplashLearn Content
+
+[For Classrooms](https://www.splashlearn.com/features/teachers)[For HomeSchoolers](https://www.splashlearn.com/features/parents)[Math Games](https://www.splashlearn.com/math-game)[Math Games for kindergarten](https://www.splashlearn.com/math-games-for-kindergarteners)[Math Games for 1st Grader](https://www.splashlearn.com/math-games-for-1st-graders)[Math Games for 2nd Grader](https://www.splashlearn.com/math-games-for-2nd-graders)[Math Games for 3rd Grader](https://www.splashlearn.com/math-games-for-3rd-graders)[Math Games for 4th Grader](https://www.splashlearn.com/math-games-for-4th-graders)[Math Games for 5th Grader](https://www.splashlearn.com/math-games-for-5th-graders)[Commmon Care Math Vocabulary](https://www.splashlearn.com/math-vocabulary)
+
+Resources
+
+[Blog](https://www.splashlearn.com/blog/)[About Us](https://www.splashlearn.com/about)[Careers](https://www.splashlearn.com/careers/)[Contact Us](https://www.splashlearn.com/about/contact-us)[SplashLearn Success Stories](https://www.splashlearn.com/success-stories)[SplashLearn Apps](https://play.google.com/store/apps/details?id=com.splash.kids.education.learning.games.free.multiplication.reading.math.grade.app.splashmath)[Help](https://support.splashlearn.com/hc/en-us)
+
+[![kidsafe](https://cdn.splashmath.com/web_ui/assets/images/loggedout/home/kidsafe-9091476f881d55ea39152916cd11aea7.png)](https://www.kidsafeseal.com/certifiedproducts/splashlearn.html)
+
+[![kidsafe](https://cdn.splashmath.com/web_ui/assets/images/loggedout/home/kidsafe-9091476f881d55ea39152916cd11aea7.png)](https://www.kidsafeseal.com/certifiedproducts/splashlearn.html)
+
+[Terms of Use](https://www.splashlearn.com/terms-of-use)
+
+[Privacy Policy](https://www.splashlearn.com/privacy)
+
+StudyPad & SplashLearn are registered Trademarks of StudyPad, Inc.
 
 [](javascript:void(0);)
 
