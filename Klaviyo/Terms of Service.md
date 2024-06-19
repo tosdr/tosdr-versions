@@ -18,29 +18,29 @@
             
         * [**Got a Question?**](https://community.klaviyo.com/got-a-question-1 "Got a Question?  ")
             
-        * [Klaviyo AI10](https://community.klaviyo.com/klaviyo-ai-79 "Klaviyo AI")
+        * [Klaviyo AI11](https://community.klaviyo.com/klaviyo-ai-79 "Klaviyo AI")
             
-        * [Accounts and Settings677](https://community.klaviyo.com/accounts-and-settings-2 "Accounts and Settings")
+        * [Accounts and Settings687](https://community.klaviyo.com/accounts-and-settings-2 "Accounts and Settings")
             
-        * [Campaigns and Flows3210](https://community.klaviyo.com/campaigns-and-flows-30 "Campaigns and Flows")
+        * [Campaigns and Flows3242](https://community.klaviyo.com/campaigns-and-flows-30 "Campaigns and Flows")
             
-        * [SMS254](https://community.klaviyo.com/sms-73 "SMS")
+        * [SMS258](https://community.klaviyo.com/sms-73 "SMS")
             
-        * [Lists, Segments, and Profiles1416](https://community.klaviyo.com/lists-segments-and-profiles-35 "Lists, Segments, and Profiles")
+        * [Lists, Segments, and Profiles1425](https://community.klaviyo.com/lists-segments-and-profiles-35 "Lists, Segments, and Profiles")
             
-        * [Sign-up Forms1051](https://community.klaviyo.com/sign-up-forms-38 "Sign-up Forms")
+        * [Sign-up Forms1061](https://community.klaviyo.com/sign-up-forms-38 "Sign-up Forms")
             
-        * [Analytics and Deliverability703](https://community.klaviyo.com/analytics-and-deliverability-72 "Analytics and Deliverability")
+        * [Analytics and Deliverability709](https://community.klaviyo.com/analytics-and-deliverability-72 "Analytics and Deliverability")
             
-        * [Email Templates and Coupons1074](https://community.klaviyo.com/email-templates-and-coupons-32 "Email Templates and Coupons")
+        * [Email Templates and Coupons1076](https://community.klaviyo.com/email-templates-and-coupons-32 "Email Templates and Coupons")
             
         * [Integrations and Reviews1057](https://community.klaviyo.com/integrations-and-reviews-39 "Integrations and Reviews")
             
         * [**The Community Commons**](https://community.klaviyo.com/the-community-commons-26 "The Community Commons")
             
-        * [Product Updates & Announcements209](https://community.klaviyo.com/product-updates-announcements-51 "Product Updates & Announcements")
+        * [Product Updates & Announcements210](https://community.klaviyo.com/product-updates-announcements-51 "Product Updates & Announcements")
             
-        * [Live training recordings219](https://community.klaviyo.com/live-training-recordings-42 "Live training recordings")
+        * [Live training recordings220](https://community.klaviyo.com/live-training-recordings-42 "Live training recordings")
             
         * [Show & Tell 140](https://community.klaviyo.com/show-tell-27 "Show & Tell ")
             
