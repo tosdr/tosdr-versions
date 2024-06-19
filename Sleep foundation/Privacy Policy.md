@@ -194,26 +194,6 @@ SLEEP HEALTH & WELLNESS
         
     * [All Disorders](https://www.sleepfoundation.org/sleep-disorders)
     
-*  Sleep News
-    
-    Sleep News
-    
-    * [All News](https://www.sleepfoundation.org/sleep-news)
-    * [ ]  Features & Reports
-        
-        * FEATURE STORIES
-            * [When Your Partner Snores, No One Sleeps](https://www.sleepfoundation.org/sleep-news/when-your-partner-snores-no-one-sleeps)
-            * [The Best & Worst Cities for Sleep](https://www.sleepfoundation.org/sleep-news/best-worst-cities-for-sleep)
-        * RESEARCH
-            * [Can New Weight Loss Drugs Improve Sleep?](https://www.sleepfoundation.org/sleep-news/can-new-weight-loss-drugs-improve-sleep)
-            * [Study: Post-COVID Insomnia is Common](https://www.sleepfoundation.org/sleep-news/new-study-finds-post-covid-insomnia-is-common-even-among-mild-cases)
-        * LATEST NEWS
-            * [Does The Sleepy Girl Mocktail Really Work?](https://www.sleepfoundation.org/sleep-news/do-sleepy-girl-mocktails-help-you-sleep-better)
-            * [Can You Catch All Your ZZZs with Pokémon Sleep App?](https://www.sleepfoundation.org/sleep-news/can-you-catch-all-your-zzzs-with-pokemon-sleep-app)
-        *  [![People On Plant-Based Diets Sleep Up to 48 More Minutes Per Night](https://www.sleepfoundation.org/wp-content/uploads/2024/03/plant-diet-300x155.jpg "People On Plant-Based Diets Sleep Up to 48 More Minutes Per Night") People On Plant-Based Diets Sleep Up to 48 More Minutes Per Night](https://www.sleepfoundation.org/sleep-news/people-on-plant-based-diets-sleep-up-to-48-more-minutes-per-night)[![How Does Your Sleep Change With a New Mattress?](https://www.sleepfoundation.org/wp-content/uploads/2024/03/image-1-300x169.png "How Does Your Sleep Change With a New Mattress?") How Does Your Sleep Change With a New Mattress?](https://www.sleepfoundation.org/sleep-news/how-does-your-sleep-change-with-a-new-mattress)
-        
-    * [All News](https://www.sleepfoundation.org/sleep-news)
-    
 *  About Us
     
     About Us
