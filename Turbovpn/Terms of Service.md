@@ -1,67 +1,65 @@
 TURBO VPN
 
-[![logo_turbo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://turbovpn.com/home)
+[![logo_turbo](https://d1tc6kwolctbp4.cloudfront.net/web/images/logo_dark.png?format=auto)](https://turbovpn.com/)
 
 * [Pricing](https://turbovpn.com/pricing)
-* [Features](https://turbovpn.com/features) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) 
-    
-    [VPN Server Location](https://turbovpn.com/vpn-server)
-    
-    [Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing)
-    
-    [Kill Switch](https://turbovpn.com/features/automatic-kill-switch)
-    
-    [AES-256 Encryption](https://turbovpn.com/features/encryption)
-    
-    [ISP Throttling Detector](https://turbovpn.com/features/isp-throttling)
-    
-    [No-logs Policy](https://turbovpn.com/features/no-logs)
-    
-    [Private DNS](https://turbovpn.com/features/private-dns)
-    
-    [Split Tunneling](https://turbovpn.com/features/spilt-tunneling)
-    
-    [Turbo Speed](https://turbovpn.com/features/turbo-speed)
-    
-    [Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)
-    
+* [Why TurboVPN?](https://turbovpn.com/features)
+    * About Turbo VPN [Servers in 111 countries](https://turbovpn.com/vpn-server) [No User Tracking](https://turbovpn.com/features/no-logs) [Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing) [Benefits](https://turbovpn.com/vpn-benefits) [Fastest VPN](https://turbovpn.com/features/turbo-speed)
+    * Features [Kill Switch](https://turbovpn.com/features/automatic-kill-switch) [Split Tunneling](https://turbovpn.com/features/spilt-tunneling) [Wi-Fi Protection](https://turbovpn.com/features/wifi-protection) [Private DNS](https://turbovpn.com/features/private-dns) [AES-256 Encryption](https://turbovpn.com/features/encryption) [All Features](https://turbovpn.com/features)
 * [What is a VPN?](https://turbovpn.com/what-is-vpn)
-* [VPN Apps](https://turbovpn.com/download) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) 
-    
-    [Windows](https://turbovpn.com/download/windows)
-    
-    [macOS](https://turbovpn.com/download/macos)
-    
-    [Android](https://turbovpn.com/download/androidpro)
-    
-    [iOS](https://turbovpn.com/download/ios)
-    
-    [Android Lite](https://turbovpn.com/download/androidlite)
-    
-    [Chrome](https://turbovpn.com/download/chrome)
-    
-    [Xbox](https://turbovpn.com/download/xbox)
-    
-    [PlayStation](https://turbovpn.com/download/playstation)
-    
-    [Switch](https://turbovpn.com/download/switch)
-    
-    [All Apps](https://turbovpn.com/download)
-    
-* [Blog](https://turbovpn.com/blog)
+* [Download VPN](https://turbovpn.com/download)
+    * Desktop [Windows VPN](https://turbovpn.com/download/windows) [macOS VPN](https://turbovpn.com/download/macos)
+    * Mobile [Android VPN](https://turbovpn.com/download/androidpro) [Android VPN Lite](https://turbovpn.com/download/androidlite) [iPhone VPN](https://turbovpn.com/download/ios)
+    * Extensions [Chrome VPN](https://turbovpn.com/download/chrome) [Xbox VPN](https://turbovpn.com/download/xbox) [PlayStation VPN](https://turbovpn.com/download/playstation) [Switch VPN](https://turbovpn.com/download/switch) [All Apps](https://turbovpn.com/download)
+* [Resources](https://turbovpn.com/blog)
+    * Get Help [FAQ](https://support.turbovpn.com/hc/en-sg) [Contact Us](https://support.turbovpn.com/hc/en-sg/requests/new) [About Us](https://turbovpn.com/aboutus)
+    * Blog [Cybersecurity](https://turbovpn.com/blog/category/31?page=1) [Entertainment](https://turbovpn.com/blog/category/30?page=2) [Tips & Tricks](https://turbovpn.com/blog/category/33?page=1) [Turbo News](https://turbovpn.com/blog/category/34?page=1) [All Blogs](https://turbovpn.com/blog)
 * [Free VPN](https://turbovpn.com/free-vpn)
-* [Help](https://support.turbovpn.com/hc) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) 
-    
-    [FAQ](https://support.turbovpn.com/hc)
-    
-    [Email Us](mailto:turbovpn-support@inconnecting.com)
-    
-    [Terms of Service](https://turbovpn.com/terms-of-service)
-    
 
-[Get Turbo VPN](https://turbovpn.com/pricing) [My account](https://turbovpn.com/login)
+English
 
-[![logo_turbo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://turbovpn.com/home)
+Choose Language
+
+* English
+* Bahasa Malaysia
+* Bahasa Indonesia
+* Deutsch
+* Español
+* Français
+* Italiano
+* 日本語
+* 한국어
+* Nederlands
+* Polski
+* Português
+* русский
+* Türkçe
+* Українська
+* ‫العربية
+
+[Log in](https://turbovpn.com/login)[Get Turbo VPN](https://turbovpn.com/pricing)
+
+[![logo_turbo](https://d1tc6kwolctbp4.cloudfront.net/web/images/logo_dark.png?format=auto)](https://turbovpn.com/)
+
+[Pricing](https://turbovpn.com/pricing)
+
+[Why TurboVPN?](https://turbovpn.com/features)
+
+[Servers in 111 countries](https://turbovpn.com/vpn-server)[No User Tracking](https://turbovpn.com/features/no-logs)[Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing)[Benefits](https://turbovpn.com/vpn-benefits)[Fastest VPN](https://turbovpn.com/features/turbo-speed)[Kill Switch](https://turbovpn.com/features/automatic-kill-switch)[Split Tunneling](https://turbovpn.com/features/spilt-tunneling)[Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)[Private DNS](https://turbovpn.com/features/private-dns)[AES-256 Encryption](https://turbovpn.com/features/encryption)[All Features](https://turbovpn.com/features)
+
+[What is a VPN?](https://turbovpn.com/what-is-vpn)
+
+[Download VPN](https://turbovpn.com/download)
+
+[Windows VPN](https://turbovpn.com/download/windows)[macOS VPN](https://turbovpn.com/download/macos)[Android VPN](https://turbovpn.com/download/androidpro)[Android VPN Lite](https://turbovpn.com/download/androidlite)[iPhone VPN](https://turbovpn.com/download/ios)[Chrome VPN](https://turbovpn.com/download/chrome)[Xbox VPN](https://turbovpn.com/download/xbox)[PlayStation VPN](https://turbovpn.com/download/playstation)[Switch VPN](https://turbovpn.com/download/switch)[All Apps](https://turbovpn.com/download)
+
+[Resources](https://turbovpn.com/blog)
+
+[FAQ](https://support.turbovpn.com/hc/en-sg)[Contact Us](https://support.turbovpn.com/hc/en-sg/requests/new)[About Us](https://turbovpn.com/aboutus)[Cybersecurity](https://turbovpn.com/blog/category/31?page=1)[Entertainment](https://turbovpn.com/blog/category/30?page=2)[Tips & Tricks](https://turbovpn.com/blog/category/33?page=1)[Turbo News](https://turbovpn.com/blog/category/34?page=1)[All Blogs](https://turbovpn.com/blog)
+
+[Free VPN](https://turbovpn.com/free-vpn)
+
+[Get Turbo VPN](https://turbovpn.com/pricing)
 
 Terms of Service
 ================
@@ -200,113 +198,100 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If a dispute arises in connection with these Terms, You agree to negotiate with Turbo to attempt to resolve it. If the dispute is not resolved through those negotiations, you agree to submit the dispute to the Singapore International Arbitration Centre (SIAC) for final settlement. The venue of the arbitration shall be Singapore and the language of the arbitration shall be English.
 
-Products
+Download VPN
 
-* [VPN for Mac](https://turbovpn.com/download/macos)
-* [VPN for Windows](https://turbovpn.com/download/windows)
-* [VPN for iPhone and iPad](https://turbovpn.com/download/ios)
-* [VPN for Android](https://turbovpn.com/download/androidpro)
-* [VPN for Android Lite](https://turbovpn.com/download/androidlite)
-* [VPN for Chrome](https://turbovpn.com/download/chrome)
-* [VPN for Xbox](https://turbovpn.com/download/xbox)
-* [VPN for PlayStation](https://turbovpn.com/download/playstation)
-* [VPN for Switch](https://turbovpn.com/download/switch)
+* [iPhone VPN (iOS)](https://turbovpn.com/download/ios)
+* [Android VPN](https://turbovpn.com/download/androidpro)
+* [Android VPN Lite](https://turbovpn.com/download/androidlite)
+* [Mac VPN](https://turbovpn.com/download/macos)
+* [Windows VPN](https://turbovpn.com/download/windows)
+* [Chrome VPN](https://turbovpn.com/download/chrome)
+* [PS5 VPN](https://turbovpn.com/download/playstation)
+* [Xbox VPN](https://turbovpn.com/download/xbox)
+* [Switch VPN](https://turbovpn.com/download/switch)
 * [All Apps](https://turbovpn.com/download)
+
+111 Countries
+
+* [US VPN](https://turbovpn.com/vpn-server/us-vpn)
+* [UK VPN](https://turbovpn.com/vpn-server/uk-vpn)
+* [Russia VPN](https://turbovpn.com/vpn-server/russia-vpn)
+* [Indonesia VPN](https://turbovpn.com/vpn-server/indonesia-vpn)
+* [Canada VPN](https://turbovpn.com/vpn-server/canada-vpn)
+
+Features
+
+* [Kill Switch](https://turbovpn.com/features/automatic-kill-switch)
+* [Split Tunneling](https://turbovpn.com/features/spilt-tunneling)
+* [Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)
+* [Private DNS](https://turbovpn.com/features/private-dns)
+* [AES-256 Encryption](https://turbovpn.com/features/encryption)
+* [Internet Access](https://turbovpn.com/InternetAccess)
 
 Turbo VPN
 
-* [About us](https://turbovpn.com/aboutus)
-* [Features](https://turbovpn.com/features)
 * [What is a VPN](https://turbovpn.com/what-is-vpn)
-* [Privacy policy](https://turbovpn.com/policy)
-* [Money-back guarantee](https://turbovpn.com/money-back-guarantee)
-* [Internet Access](https://turbovpn.com/InternetAccess)
-* [VPN servers](https://turbovpn.com/vpn-server)
-* [Get Turbo VPN](https://turbovpn.com/pricing)
-* [Free VPN vs Paid VPN](https://turbovpn.com/free-vpn)
-* [Gift Card](https://turbovpn.com/gift-card)
-
-Learn more
-
+* [Free VPN](https://turbovpn.com/free-vpn)
+* [Fastest VPN](https://turbovpn.com/features/turbo-speed)
 * [Benefits](https://turbovpn.com/vpn-benefits)
-* [Blog](https://turbovpn.com/blog)
-* [Pricing](https://turbovpn.com/pricing)
-* [Login](https://turbovpn.com/login)
-* [Press](https://turbovpn.com/press-room)
-
-Program
-
+* [No User Tracking](https://turbovpn.com/features/no-logs)
+* [Money-Back Guarantee](https://turbovpn.com/money-back-guarantee)
 * [Affiliate](https://turbovpn.com/affiliate-program)
 * [Influencer](https://turbovpn.com/influencer)
 
 Support
 
-* [Help center](https://support.turbovpn.com/hc/en-sg)
-* [Email Us](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=turbovpn-support@inconnecting.com)
-* [Terms of Service](https://turbovpn.com/terms-of-service)
+* [FAQ](https://support.turbovpn.com/hc/en-sg)
+* [Contact Us](https://support.turbovpn.com/hc/en-sg/requests/new)
+* [About us](https://turbovpn.com/aboutus)
 
 Follow us
 
-*  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Facebook](https://www.facebook.com/TurboVPNUnlimitedFreeVPN/)
-*  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Instagram](https://www.instagram.com/turbovpn.official/)
-*  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Twitter](https://twitter.com/turbo_vpn)
-*  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) YouTube](https://www.youtube.com/channel/UCVzyAY3lLo4do613UV8SixQ)
-*  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) VK](https://vk.com/turbovpnfree)
-*  [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) Discord](https://discord.gg/ErQ5WVZw6c)
+* [Facebook](https://www.facebook.com/TurboVPNUnlimitedFreeVPN/)
+* [Instagram](https://www.instagram.com/turbovpn.official/)
+* [Twitter](https://twitter.com/turbo_vpn)
+* [YouTube](https://www.youtube.com/channel/UCVzyAY3lLo4do613UV8SixQ)
+* [VK](https://vk.com/turbovpnfree)
+* [Discord](https://discord.gg/ErQ5WVZw6c)
+* [TikTok](https://www.tiktok.com/@turbo_vpn_official)
 
-* * Bahasa Malaysia
-    * Bahasa Indonesia
-    * Deutsch
-    * English
-    * Español
-    * Français
-    * Italiano
-    * Nederlands
-    * Polski
-    * Português
-    * Türkçe
-    * русский
-    * Українська
-    * 한국어
-    * 日本語
-    * ‫العربية
-    
-    No data
-    
-![logo_turbo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+And More
+
+* [Blog](https://turbovpn.com/blog)
+* [Press](https://turbovpn.com/press-room)
+* [Gift Card](https://turbovpn.com/gift-card)
+* [Privacy policy](https://turbovpn.com/policy)
+* [Terms of Service](https://turbovpn.com/terms-of-service)
+
+![log-white](https://d1tc6kwolctbp4.cloudfront.net/web/images/log-white.png?format=auto)
 
 Address: 8 Marina View #43-052A Asia Square Tower 1, Singapore 018960
 
-©Copyright 2024 INNOVATIVE CONNECTING PTE. LIMITED
+©Copyright 2023 INNOVATIVE CONNECTING PTE. LIMITED
 
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Mac](https://turbovpn.com/download/macos)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Windows](https://turbovpn.com/download/windows)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    AppStore](https://turbovpn.com/download/ios)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Android](https://turbovpn.com/download/androidpro)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Android Lite](https://turbovpn.com/download/androidlite)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Chrome](https://turbovpn.com/download/chrome)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Xbox](https://turbovpn.com/download/xbox)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    PS](https://turbovpn.com/download/playstation)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Switch](https://turbovpn.com/download/switch)
+![Visa-mini](https://d1tc6kwolctbp4.cloudfront.net/assets/pricing/Visa-mini.png?format=auto)![Mastercard-mini](https://d1tc6kwolctbp4.cloudfront.net/assets/pricing/Mastercard-mini.png?format=auto)![Discover-mini](https://d1tc6kwolctbp4.cloudfront.net/assets/pricing/Discover-mini.png?format=auto)![Amex](https://d1tc6kwolctbp4.cloudfront.net/assets/pricing/Amex.png?format=auto)
 
-This website uses cookies. To learn more,visit our [Cookie Policy.](https://turbovpn.com/cookie-policy)
+English
+
+Choose Language
+
+* English
+* Bahasa Malaysia
+* Bahasa Indonesia
+* Deutsch
+* Español
+* Français
+* Italiano
+* 日本語
+* 한국어
+* Nederlands
+* Polski
+* Português
+* русский
+* Türkçe
+* Українська
+* ‫العربية
+
+This website uses cookies. To learn more, visit our [Cookie Policy.](https://turbovpn.com/cookie-policy)
 
 Ok,I got it
