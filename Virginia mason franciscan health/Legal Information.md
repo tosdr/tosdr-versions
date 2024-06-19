@@ -1,9 +1,9 @@
 [Skip to Main Content](#maincontent)
 
-Schedule certain appointments online. [Get started](https://www.vmfh.org/content/vmfhorg/en/access "Schedule certain appointments online")
+MyVirginiaMason will be down for scheduled maintenance on June 26, at 6 p.m. to June 27, at 6 a.m. We apologize for the inconvenience.
 
 * [Ways to give](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
-* [COVID-19](https://www.vmfh.org/content/vmfhorg/en/covid-19-information)
+* [Refer a patient](https://www.vmfh.org/content/vmfhorg/en/resources/refer-a-patient)
 * [Classes & events](https://classes.inquicker.com/?ClientID=14428)
 * [Careers](https://www.vmfh.org/content/vmfhorg/en/careers)
 
@@ -144,7 +144,7 @@ Schedule certain appointments online. [Get started](https://www.vmfh.org/content
     
 * * [![Welcome Image Here](/content/dam/vmfhorg/home-page/images/hello-humankinessness-icon.svg)](https://www.vmfh.org/content/vmfhorg/en/hello-humankindness)
     * [Ways to give](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
-    * [COVID-19](https://www.vmfh.org/content/vmfhorg/en/covid-19-information)
+    * [Refer a patient](https://www.vmfh.org/content/vmfhorg/en/resources/refer-a-patient)
     * [Classes & events](https://classes.inquicker.com/?ClientID=14428)
     * [Careers](https://www.vmfh.org/content/vmfhorg/en/careers)
 
