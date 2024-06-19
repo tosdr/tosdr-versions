@@ -43,7 +43,9 @@ Skype
     * [New to Skype? Sign up](https://go.skype.com/signup?client_id=578134&redirect_uri=https%3A%2F%2Fweb.skype.com&source=scomnav)
     * [Sign out](https://go.skype.com/logout)
 
-     
+  
+
+      
 
 Skype Legal
 ===========
@@ -119,7 +121,7 @@ What's new
 * [Surface Laptop Studio 2](https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz)
 * [Surface Laptop Go 3](https://www.microsoft.com/en-us/d/Surface-Laptop-Go-3/8p0wwgj6c6l2)
 * [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot)
-* [Copilot in Windows](https://www.microsoft.com/en-us/windows/copilot-ai-features)
+* [AI in Windows](https://www.microsoft.com/en-us/windows/copilot-ai-features)
 * [Explore Microsoft products](https://www.microsoft.com/en-us/microsoft-products-and-apps)
 * [Windows 11 apps](https://www.microsoft.com/windows/windows-11-apps)
 
