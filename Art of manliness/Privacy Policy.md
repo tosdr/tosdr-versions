@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-998-the-epic-adventures-of-americas-forgotten-mountain-man/)
+
+[Podcast #998
+
+###### The Epic Adventures of America’s Forgotten Mountain Man](https://www.artofmanliness.com/character/knowledge-of-men/podcast-998-the-epic-adventures-of-americas-forgotten-mountain-man/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
 
 [Podcast #998
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #996
 
 ###### Remembering D-Day 80 Years Later](https://www.artofmanliness.com/character/military/podcast-996-remembering-d-day-80-years-later/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
-
-[Podcast #995
-
-###### Why You’re So Bad at Giving and Receiving Compliments (And How to Fix That)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
