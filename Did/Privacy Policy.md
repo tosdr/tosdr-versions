@@ -9,7 +9,6 @@ Want to learn how OUR team uses GenAI to create engaging marketing campaigns? Jo
     * [AI Agents](https://www.d-id.com/agents/)
     * [Mobile App](https://www.d-id.com/creative-reality-studio-mobile-app/)
     * [API](https://www.d-id.com/api/)
-    * [Chat.D-ID](https://www.d-id.com/chat/)
     * [Integrations](https://www.d-id.com/integrations/)
 * Solutions
     * [Marketing Solutions](https://www.d-id.com/marketing-solutions/)
@@ -283,7 +282,6 @@ If you have any questions, concerns or complaints regarding our compliance with 
 * Products
     * [AI Agents](https://www.d-id.com/agents/)
     * [API for Developers](https://www.d-id.com/api/)
-    * [Chat.D-ID](https://www.d-id.com/chat/)
     * [Creative Reality™ Studio](https://www.d-id.com/creative-reality-studio/)
     * [Mobile App](https://www.d-id.com/creative-reality-studio-mobile-app/)
     * [Integrations](https://www.d-id.com/integrations/)
