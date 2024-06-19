@@ -23,7 +23,9 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
         * [NexGen](https://www.bosu.com/collections/balance-trainers/NexGen)
         * [Limited Edition Pink NexGen](https://www.bosu.com/products/limited-edition-pink-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
         * [Limited Edition Black Nex Gen](https://www.bosu.com/products/black-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
+        * [Build Your Own BOSU®](https://www.bosu.com/products/build-your-own-bosu%C2%AE-home-unit)
         * [Sport](https://www.bosu.com/collections/balance-trainers/Sport)
+        * [ELITE](https://www.bosu.com/products/bosu%C2%AE-elite)
         * [Accessories & Storage](https://www.bosu.com/collections/accessories-storage/Balance-Trainer)
         * [Bundles](https://www.bosu.com/collections/combo-packs/Balance-Trainer)
     * [CorLok System](https://www.bosu.com/collections/bosu%C2%AE-corlok-system)
@@ -40,7 +42,6 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
         * [Hydro Balls](https://www.bosu.com/collections/hydro-trainers/Water-Filled-Kettlebell)
         * [Surge](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
         * [Storage](https://www.bosu.com/collections/storage/Hydro-Trainer)
-        * [Surge Handles & Endcap kits](https://www.bosu.com/products/surge%C2%AE-storm-accessory-kit)
     * [Balance Pods](https://www.bosu.com/collections/balance-pods)
     * [Helm](https://www.bosu.com/collections/the-helm)
     * [Gym Must-Haves](https://www.bosu.com/collections/gym-must-haves)
@@ -64,6 +65,7 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
         * [How-To](https://www.bosu.com/pages/how-to)
         * [On-Demand Education](https://bosu.inspire360.com/)
     * [Training Tips](https://www.bosu.com/blogs/all)
+    * [Getting Started](https://www.bosu.com/pages/get-started)
 * [Company](https://www.bosu.com/)
     * [Our Story](https://www.bosu.com/pages/about-us)
 
@@ -93,7 +95,9 @@ Back
     * [NexGen](https://www.bosu.com/collections/balance-trainers/NexGen)
     * [Limited Edition Pink NexGen](https://www.bosu.com/products/limited-edition-pink-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
     * [Limited Edition Black Nex Gen](https://www.bosu.com/products/black-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
+    * [Build Your Own BOSU®](https://www.bosu.com/products/build-your-own-bosu%C2%AE-home-unit)
     * [Sport](https://www.bosu.com/collections/balance-trainers/Sport)
+    * [ELITE](https://www.bosu.com/products/bosu%C2%AE-elite)
     * [Accessories & Storage](https://www.bosu.com/collections/accessories-storage/Balance-Trainer)
     * [Bundles](https://www.bosu.com/collections/combo-packs/Balance-Trainer)
     
@@ -116,7 +120,6 @@ Back
     * [Hydro Balls](https://www.bosu.com/collections/hydro-trainers/Water-Filled-Kettlebell)
     * [Surge](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
     * [Storage](https://www.bosu.com/collections/storage/Hydro-Trainer)
-    * [Surge Handles & Endcap kits](https://www.bosu.com/products/surge%C2%AE-storm-accessory-kit)
     
 * [Balance Pods](https://www.bosu.com/collections/balance-pods)
 * [Helm](https://www.bosu.com/collections/the-helm)
@@ -149,6 +152,7 @@ Back
     * [On-Demand Education](https://bosu.inspire360.com/)
     
 * [Training Tips](https://www.bosu.com/blogs/all)
+* [Getting Started](https://www.bosu.com/pages/get-started)
 
 Back
 
@@ -166,26 +170,16 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 * Free shipping over $100 📦
-* ⭐ LIMITED TIME OFFER - TAKE 20% OFF ALL [SURGE HYDRO TRAINER](https://www.bosu.com/collections/hydro-trainers "Hydro Trainers")S ⭐
 
 Terms of service
 ================
@@ -529,7 +523,7 @@ Payment methods
 * Discover
 * PayPal
 
-© 2024, [BOSU](https://www.bosu.com/) HEDSTROM® Fitness, LLC. is the licensee of BOSU® Fitness, LLC. and distributor of BOSU® products. BOSU® is a registered trademark of BOSU® Fitness, LLC. All rights reserved. © 2023
+HEDSTROM® Fitness, LLC. is the licensee of BOSU® Fitness, LLC. and distributor of BOSU® products. BOSU® is a registered trademark of BOSU® Fitness, LLC. All rights reserved. ©2024
 
 This website uses cookies to personalize and improve your experience. Read our [Privacy Policy](https://www.bosu.com/policies/privacy-policy "Privacy Policy").
 
