@@ -372,6 +372,30 @@ Newport Beach, CA 92660
 
 [Sustainability](https://www.chipotle.com/sustainability "Sustainability")
 
+![CHIPOTLE REWARDS](/content/experience-fragments/chipotle/us/en/xf-footer-rewards/master/_jcr_content/root/container/image.coreimg.svg/1716934855742/freepotle-rewardslogo-red.svg)
+
+YOU'VE GOT
+
+#{rewardsPointsCount}
+
+Points can take 24-48 hours to be added.
+
+You have enough points for **#{rewardsCount}.**
+
+[VIEW REWARDS EXCHANGE](https://www.chipotle.com/order/rewards/exchange)
+
+![CHIPOTLE REWARDS](/content/experience-fragments/chipotle/us/en/xf-footer-rewards/master/_jcr_content/root/container_copy/image.coreimg.svg/1716934855742/freepotle-rewardslogo-red.svg)
+
+JOIN REWARDS
+
+GET REWARDED
+
+The faster way to free Chipotle
+
+JOIN NOW
+
+[LEARN MORE](https://www.chipotle.com/rewards)
+
 ### DOWNLOAD OUR APP
 
  [![Apple App Store](/adobe/dynamicmedia/deliver/dm-aid--42a81337-7092-4971-b02e-63cf5b94fc2b/footer-app-download.png?preferwebp=true&quality=85 "Apple App Store")](https://itunes.apple.com/us/app/chipotle/id327228455?mt=8)
