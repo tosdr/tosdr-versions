@@ -440,6 +440,7 @@ You can also object to the data processing using this [link](https://www.jobs.ch
     
     ![](https://www.jobcloud.ch/wp-content/themes/stack-child/assets/images/x-twitter.svg)](https://twitter.com/JobCloudAG "Job Cloud Twitter Page")
 * [](https://www.youtube.com/user/jobspunktch "Job Cloud Youtube Page")
+* [](https://www.instagram.com/jobcloud/ "Job Cloud Instagram Page")
 
 * [English](https://www.jobcloud.ch/c/en/privacy-policy/)
 * [Français](https://www.jobcloud.ch/c/fr-ch/protection-des-donnees/)
