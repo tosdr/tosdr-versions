@@ -246,7 +246,7 @@ Contact our support team
 * [![Visit the App Store to download the mobile app, this will open in a new tab](/application/themes/co-operativebank/img/apple-store.png?language_id=1)](https://apps.apple.com/gb/app/co-operative-bank/id1439204021 "App Store | This will open in a new tab")
 * [![Visit the Play Store to download the mobile app, this will open in a new tab](/application/themes/co-operativebank/img/google-play.png?language_id=1)](https://play.google.com/store/apps/details?id=com.cooperativebank.bank "Google Play | This will open in a new tab")
 
-The Co-operative Bank, Platform, smile and Britannia are trading names of The Co-operative Bank p.l.c., P.O. Box 101, 1 Balloon Street, Manchester M60 4EP. Registered in England and Wales No. 990937. The Co-operative Bank p.l.c. is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (No. 121885).
+The Co-operative Bank, Platform, smile and Britannia are trading names of The Co-operative Bank p.l.c., 1 Balloon Street, Manchester M4 4BE. Registered in England and Wales No. 990937. The Co-operative Bank p.l.c. is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority (No. 121885).
 
 Credit facilities are provided by The Co-operative Bank p.l.c. and are subject to status and our lending policy. The Bank reserves the right to decline any application for an account or credit facility. The Co-operative Bank p.l.c. subscribes to the Standards of Lending Practice which are monitored by the Lending Standards Board.
 
