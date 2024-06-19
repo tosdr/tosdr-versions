@@ -302,7 +302,7 @@ Subscribe to our monthly newsletter for spam-free, info-rich content you can rea
 
 Platform
 
-[Platfom overview](https://safebase.io/products)
+[Platform overview](https://safebase.io/products)
 
 [Trust Center](https://safebase.io/products/trust-center)
 
