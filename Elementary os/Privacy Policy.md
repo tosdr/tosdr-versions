@@ -5,10 +5,10 @@
 * [Store](https://store.elementary.io/)
 * [Blog](https://blog.elementary.io/)
 
-* [](https://youtube.com/user/elementaryproject "YouTube")
+* [](https://youtube.com/user/elementaryproject "Youtube")
 * [](https://mastodon.social/@elementary "Mastodon")
 * [](https://www.reddit.com/r/elementaryos "Reddit")
-* [](https://discord.gg/dGdDfGNa "Discord")
+* [](https://community-slack.elementary.io/ "Slack")
 
 **JavaScript is required** for parts of this site, like downloading elementary OS and some interactive components.
 
