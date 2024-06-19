@@ -82,14 +82,16 @@ Search  Search Close
             * [BS in Human Services](https://www.waldenu.edu/online-bachelors-programs/bs-in-human-services)
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services)
     * Certificates
-        * CERTIFICATE PROGRAMS
         * Fast and affordable option. Choose from over 60 career-focused certificate programs.
+        * CERTIFICATE PROGRAMS
+        * [All Certificates Programs](https://www.waldenu.edu/online-certificates-programs)
         * Business and Management
+        * Criminal Justice
         * Information Technology
         * Education
         * Nursing
-        * Public Policy
         * Psychology
+        * Public Policy
         * Social Work & Human Services
     * Master's
         * MASTER'S PROGRAMS
@@ -99,6 +101,7 @@ Search  Search Close
             * BUSINESS AND MANAGEMENT MASTER'S PROGRAMS
             * Join a new generation of bold, socially conscious, and effective leaders.
             * [Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-business-administration)
+            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration)
             * [MS in Human Resource Management](https://www.waldenu.edu/online-masters-programs/ms-in-human-resource-management)
             * [MS in Leadership](https://www.waldenu.edu/online-masters-programs/ms-in-leadership)
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business)
@@ -128,7 +131,7 @@ Search  Search Close
         * Health & Health Sciences
             * HEALTH AND HEALTH SCIENCES MASTER'S PROGRAMS
             * Learn from active practitioners who are making a difference in their own organizations and communities.
-            * [Master in Healthcare Administration](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration)
+            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration)
             * [Master of Public Health](https://www.waldenu.edu/online-masters-programs/master-of-public-health)
             * [MS in Health Education and Promotion](https://www.waldenu.edu/online-masters-programs/ms-in-health-education-and-promotion)
             * [All Health & Health Sciences Programs](https://www.waldenu.edu/programs/health)
@@ -148,6 +151,7 @@ Search  Search Close
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology)
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family)
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education)
+            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive)
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics)
             * [Pediatric Nurse Practitioner (PNP) Primary Care](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics)
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner)
@@ -232,12 +236,12 @@ Search  Search Close
         * Psychology
             * PSYCHOLOGY DOCTORAL PROGRAMS
             * Personalize your studies by selecting from an array of programs.
+            * [PsyD in Behavioral Health Leadership](https://www.waldenu.edu/online-doctoral-programs/psyd-in-behavioral-health-leadership)
             * [PhD in Clinical Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-clinical-psychology)
             * [PhD in Developmental Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-developmental-psychology)
             * [PhD in Forensic Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-forensic-psychology)
             * [PhD in Industrial Organizational (I/O) Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-industrial-and-organizational-psychology)
             * [PhD in Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-psychology)
-            * [PsyD in Behavioral Health Leadership](https://www.waldenu.edu/online-doctoral-programs/psyd-in-behavioral-health-leadership)
             * [All Psychology Programs](https://www.waldenu.edu/programs/psychology)
         * Public Policy & Administration
             * PUBLIC POLICY & ADMINISTRATION DOCTORAL PROGRAMS
@@ -440,8 +444,9 @@ Call Us: **8556465286**
         
     * [Certificates](# "Certificates")
         
-        * [CERTIFICATE PROGRAMS](# "CERTIFICATE PROGRAMS")
         * [Fast and affordable option. Choose from over 60 career-focused certificate programs.](# "Fast and affordable option. Choose from over 60 career-focused certificate programs.")
+        * [CERTIFICATE PROGRAMS](# "CERTIFICATE PROGRAMS")
+        * [All Certificates Programs](https://www.waldenu.edu/online-certificates-programs "All Certificates Programs")
         * [Business and Management](# "Business and Management")
             
             * [BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS](# "BUSINESS & MANAGEMENT CERTIFICATE PROGRAMS")
@@ -451,6 +456,13 @@ Call Us: **8556465286**
             * [Post-Doctoral Bridge to Business Administration Certificate](https://www.waldenu.edu/online-certificates-programs/business-administration-post-doctoral-bridge "Post-Doctoral Bridge to Business Administration Certificate")
             * [Post-Doctoral Bridge to Management Certificate](https://www.waldenu.edu/online-certificates-programs/management-post-doctoral-bridge "Post-Doctoral Bridge to Management Certificate")
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
+            
+        * [Criminal Justice](# "Criminal Justice")
+            
+            * [CRIMINAL JUSTICE CERTIFICATE PROGRAMS](# "CRIMINAL JUSTICE CERTIFICATE PROGRAMS")
+            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "	Refresh your current skills or embark on a new professional path with a Walden certificate.")
+            * [Graduate Certificate in Criminal Justice](https://www.waldenu.edu/online-certificates-programs/criminal-justice "Graduate Certificate in Criminal Justice")
+            * [All Criminal Justice Programs](https://www.waldenu.edu/programs/criminal-justice "All Criminal Justice Programs")
             
         * [Information Technology](# "Information Technology")
             
@@ -486,6 +498,14 @@ Call Us: **8556465286**
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-certificates-programs/nursing-post-masters/psychiatric-mental-health-nurse-practitioner-post-masters "Psychiatric-Mental Health Nurse Practitioner")
             * [All Nursing Programs](https://www.waldenu.edu/programs/nursing "All Nursing Programs")
             
+        * [Psychology](# "Psychology")
+            
+            * [PSYCHOLOGY CERTIFICATE PROGRAMS](# "PSYCHOLOGY CERTIFICATE PROGRAMS")
+            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "Refresh your current skills or embark on a new professional path with a Walden certificate.")
+            * [Graduate Certificate in Evidence-Based Coaching](https://www.waldenu.edu/online-certificates-programs/evidence-based-coaching "Graduate Certificate in Evidence-Based Coaching")
+            * [Post-Master’s Online Teaching in Psychology Certificate](https://www.waldenu.edu/online-certificates-programs/online-teaching-in-psychology-post-masters "Post-Master’s Online Teaching in Psychology Certificate")
+            * [All Psychology Programs](https://www.waldenu.edu/programs/psychology "All Psychology Programs")
+            
         * [Public Policy](# "Public Policy")
             
             * [PUBLIC POLICY CERTIFICATE PROGRAMS](# "PUBLIC POLICY CERTIFICATE PROGRAMS")
@@ -494,14 +514,6 @@ Call Us: **8556465286**
             * [Graduate Certificate in Public Management and Leadership](https://www.waldenu.edu/online-certificates-programs/public-management-and-leadership "Graduate Certificate in Public Management and Leadership")
             * [Graduate Certificate in Public Policy](https://www.waldenu.edu/online-certificates-programs/graduate-certificate-in-public-policy "Graduate Certificate in Public Policy")
             * [All Public Policy & Administration Programs](https://www.waldenu.edu/programs/public-policy "All Public Policy & Administration Programs")
-            
-        * [Psychology](# "Psychology")
-            
-            * [PSYCHOLOGY CERTIFICATE PROGRAMS](# "PSYCHOLOGY CERTIFICATE PROGRAMS")
-            * [Refresh your current skills or embark on a new professional path with a Walden certificate.](# "Refresh your current skills or embark on a new professional path with a Walden certificate.")
-            * [Graduate Certificate in Evidence-Based Coaching](https://www.waldenu.edu/online-certificates-programs/evidence-based-coaching "Graduate Certificate in Evidence-Based Coaching")
-            * [Post-Master’s Online Teaching in Psychology Certificate](https://www.waldenu.edu/online-certificates-programs/online-teaching-in-psychology-post-masters "Post-Master’s Online Teaching in Psychology Certificate")
-            * [All Psychology Programs](https://www.waldenu.edu/programs/psychology "All Psychology Programs")
             
         * [Social Work & Human Services](# "Social Work & Human Services")
             
@@ -521,6 +533,7 @@ Call Us: **8556465286**
             * [BUSINESS AND MANAGEMENT MASTER'S PROGRAMS](# "BUSINESS AND MANAGEMENT MASTER'S PROGRAMS")
             * [Join a new generation of bold, socially conscious, and effective leaders.](# "Join a new generation of bold, socially conscious, and effective leaders.")
             * [Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-business-administration "Master of Business Administration (MBA)")
+            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration "Master in Healthcare Administration (MHA)")
             * [MS in Human Resource Management](https://www.waldenu.edu/online-masters-programs/ms-in-human-resource-management "MS in Human Resource Management")
             * [MS in Leadership](https://www.waldenu.edu/online-masters-programs/ms-in-leadership "MS in Leadership")
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
@@ -558,7 +571,7 @@ Call Us: **8556465286**
             
             * [HEALTH AND HEALTH SCIENCES MASTER'S PROGRAMS](# "HEALTH AND HEALTH SCIENCES MASTER'S PROGRAMS")
             * [Learn from active practitioners who are making a difference in their own organizations and communities.](# "Learn from active practitioners who are making a difference in their own organizations and communities.")
-            * [Master in Healthcare Administration](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration "Master in Healthcare Administration")
+            * [Master in Healthcare Administration (MHA)](https://www.waldenu.edu/online-masters-programs/master-of-healthcare-administration "Master in Healthcare Administration (MHA)")
             * [Master of Public Health](https://www.waldenu.edu/online-masters-programs/master-of-public-health "Master of Public Health")
             * [MS in Health Education and Promotion](https://www.waldenu.edu/online-masters-programs/ms-in-health-education-and-promotion "MS in Health Education and Promotion")
             * [All Health & Health Sciences Programs](https://www.waldenu.edu/programs/health "All Health & Health Sciences Programs")
@@ -582,6 +595,7 @@ Call Us: **8556465286**
             * [Adult-Gerontology Primary Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-adult-gerontology "Adult-Gerontology Primary Care Nurse Practitioner")
             * [Family Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-family "Family Nurse Practitioner")
             * [Nursing Education](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-education "Nursing Education ")
+            * [Nurse Executive](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-executive "Nurse Executive")
             * [Nursing Informatics](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nursing-informatics "Nursing Informatics")
             * [Pediatric Nurse Practitioner (PNP) Primary Care](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-pediatrics "Pediatric Nurse Practitioner (PNP) Primary Care")
             * [Psychiatric-Mental Health Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-psychiatric-mental-health-nurse-practitioner "Psychiatric-Mental Health Nurse Practitioner")
@@ -690,12 +704,12 @@ Call Us: **8556465286**
             
             * [PSYCHOLOGY DOCTORAL PROGRAMS](# "PSYCHOLOGY DOCTORAL PROGRAMS")
             * [Personalize your studies by selecting from an array of programs.](# "Personalize your studies by selecting from an array of programs.")
+            * [PsyD in Behavioral Health Leadership](https://www.waldenu.edu/online-doctoral-programs/psyd-in-behavioral-health-leadership "PsyD in Behavioral Health Leadership")
             * [PhD in Clinical Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-clinical-psychology "PhD in Clinical Psychology")
             * [PhD in Developmental Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-developmental-psychology "PhD in Developmental Psychology")
             * [PhD in Forensic Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-forensic-psychology "PhD in Forensic Psychology")
             * [PhD in Industrial Organizational (I/O) Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-industrial-and-organizational-psychology "PhD in Industrial Organizational (I/O) Psychology")
             * [PhD in Psychology](https://www.waldenu.edu/online-doctoral-programs/phd-in-psychology "PhD in Psychology")
-            * [PsyD in Behavioral Health Leadership](https://www.waldenu.edu/online-doctoral-programs/psyd-in-behavioral-health-leadership "PsyD in Behavioral Health Leadership")
             * [All Psychology Programs](https://www.waldenu.edu/programs/psychology "All Psychology Programs")
             
         * [Public Policy & Administration](# "Public Policy & Administration")
