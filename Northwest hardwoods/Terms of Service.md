@@ -10,6 +10,7 @@
 
 Menu
 
+* [Choose Hardwoods](https://nwh.com/choose-hardwoods/)
 * [Products & Services](https://nwh.com/products-services/)
     * [North American Hardwoods](https://nwh.com/products-services/hardwood/)
         * [Western](https://nwh.com/products/western/)
