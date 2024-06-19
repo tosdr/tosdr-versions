@@ -1,8 +1,8 @@
-Shopping Hours: [Noon-6pm](https://www.seminoletownecenter.com/hours/ "Shopping Hours:")
+Shopping Hours: [11am-8pm](https://www.seminoletownecenter.com/hours/ "Shopping Hours:")
 
   |  
 
-95˚F Sun
+77˚F Cloud-Rain
 
 [Seminole Towne Center home page Seminole Towne Center logo SEMINOLE TOWNE CENTER](https://www.seminoletownecenter.com/ "Click to return to the home page.")
 
@@ -257,7 +257,7 @@ Sanford, FL 32771
 
 [![Kohan Retail Investment Group](https://cdn.placewise.com/Kohan/images/KohanLogo.png)](http://www.kohanretail.com/)
 
-Visit Our Centers Other Kohan Centers Anderson Mall Animas Valley Mall Asheville Mall Birchwood Mall Brass Mill Center Chautauqua Mall Colonial Park Mall Cumberland Mall The Crossroads Mall Eastridge Mall Emerald Square Fashion Square Mall Fairlane Town Center Findlay Village Mall Gadsden Mall Greenwood Mall Holiday Village Mall Indiana Mall Indian River Mall Jasper Mall Lansing Mall Livingston Mall Lima Mall Lufkin Mall The Mall at Robinson Mall St. Vincent The Mall at Sierra Vista Marshalltown Mall McKinley Mall Montgomery Mall North Town Mall Northwoods Mall Pierre Bossier Mall River Hills Mall Rolling Oaks Mall Santa Fe Place Seminole Towne Center Sikes Senter Spring Hill Mall Temple Mall Town Center at Cobb Towne West Square Triangle Town Center Valle Vista Mall Valley View Vicksburg Mall Washington Crown Center Washington Park Mall Westwood Mall The Westwood Mall
+Visit Our Centers Other Kohan Centers Anderson Mall Animas Valley Mall Asheville Mall Birchwood Mall Brass Mill Center Chautauqua Mall Colonial Park Mall Cumberland Mall The Crossroads Mall Eastridge Mall Emerald Square Fashion Square Mall Fairlane Town Center Findlay Village Mall Gadsden Mall Greenwood Mall Holiday Village Mall Indiana Mall Jasper Mall Lansing Mall Livingston Mall Lima Mall Lufkin Mall The Mall at Robinson Mall St. Vincent The Mall at Sierra Vista Marshalltown Mall McKinley Mall Montgomery Mall North Town Mall Northwoods Mall Pierre Bossier Mall River Hills Mall Rolling Oaks Mall Santa Fe Place Sikes Senter Temple Mall Town Center at Cobb Towne West Square Triangle Town Center Valle Vista Mall Valley View Vicksburg Mall Washington Crown Center Washington Park Mall Westwood Mall The Westwood Mall
 
 © 2024 Kohan Retail Investment Group
 
