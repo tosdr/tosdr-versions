@@ -40,6 +40,12 @@ My Account
 
 **My Account Details**
 
+[My Account](https://shop.mheducation.com/store/services/account/profile.html)
+
+* [My Information](https://www.mheducation.com/account.html#myInfo)
+* [Security & Login](https://www.mheducation.com/account.html#securityLogin)
+* [Order History](https://www.mheducation.com/account.html#orderHistory)
+
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
 * [Order History](https://www.mheducation.com/account.html#orderHistory)
@@ -91,6 +97,12 @@ My Account
 ----------
 
 **My Account Details**
+
+[My Account](https://shop.mheducation.com/store/services/account/profile.html)
+
+* [My Information](https://www.mheducation.com/account.html#myInfo)
+* [Security & Login](https://www.mheducation.com/account.html#securityLogin)
+* [Order History](https://www.mheducation.com/account.html#orderHistory)
 
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
