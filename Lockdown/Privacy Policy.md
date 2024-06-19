@@ -35,7 +35,7 @@ Lockdown Firewall collects nothing. It all stays on your device.
 
 Lockdown VPN is powered by our Confirmed VPN, the Openly Operated and fully audited VPN that proves its no-log, no-tracking policies.
 
-Confirmed VPN is certified as Openly Operated, so it is able to provide proof of the privacy claims in this Privacy Policy by using references from its [OpenAudit](https://openaudit.com/lockdownprivacy). Learn more about the [Openly Operated Certification](https://openlyoperated.org/), and read Confirmed VPN's full [Privacy Policy](https://confirmedvpn.com/privacy).
+Confirmed VPN is certified as Openly Operated, so it is able to provide proof of the privacy claims in this Privacy Policy by using references from its [OpenAudit](https://openaudit.com/). Learn more about the [Openly Operated Certification](https://openlyoperated.org/), and read Confirmed VPN's full [Privacy Policy](https://confirmedvpn.com/privacy).
 
 ![](https://lockdown-site-assets.s3.amazonaws.com/images/brand-icon.png)
 
