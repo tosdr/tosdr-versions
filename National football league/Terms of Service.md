@@ -204,7 +204,7 @@ Terms and Conditions | NFL.com
 English Spanish French German Portuguese
 
 NFL.com - Terms and Conditions
-==============================
+------------------------------
 
 **Updated: May 16, 2024**
 
