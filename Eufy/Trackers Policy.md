@@ -4,7 +4,7 @@
 
       
 
-[Share Your Thoughts, Win a $50 Amazon Gift Card!](https://s.qdtech.ai/sl/cCwYBc)
+[Win Your Ultimate Father’s Day Wishlist!](https://www.eufy.com/eufy-security)
 
 [](https://www.eufy.com/livestream?ref=navimenu_9_copy)
 
@@ -22,7 +22,7 @@
     * [eufy Robot Vacuum Omni S1 Pro](https://www.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_1_1_img)
     * [eufy Robot Vacuum X10 Pro Omni
         
-        Save $120 Now](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
+        Hot](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
     
     * [](https://www.eufy.com/appliance-x10-omni?ref=navimenu_1_2_1_copy)
         
@@ -150,7 +150,7 @@
     5. Smart Locks
     6. Accessories
     
-    [See More](https://www.eufy.com/collections/security?ref=navimenu_2_7_copy) [Protection Plan](https://us.eufy.com/pages/professional-monitoring-service?ref=navimenu_2_8_copy) [eufy Local Security](https://www.eufy.com/eufy-local-security?ref=navimenu_2_9_copy)
+    [See More](https://www.eufy.com/collections/security?ref=navimenu_2_7_copy) [Cloud Backup](https://www.eufy.com/cloud-storage?ref=navimenu_2_8_copy) [Protection Plan](https://us.eufy.com/pages/professional-monitoring-service?ref=navimenu_2_9_copy) [eufy Local Security](https://www.eufy.com/eufy-local-security?ref=navimenu_2_10_copy)
     
     * [eufyCam S330 (eufyCam 3) 4-Cam Kit + 1 TB Hard Drive
         
@@ -820,7 +820,7 @@ Download App
 Security
 
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/appstore_3_50x.png?v=1657087633)](https://apps.apple.com/app/id1424956516)
-* [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://us.eufylife.com/pages/appliances-app-download)
+* [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://www.eufy.com/appliances-app-download)
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/Web_Portal_50x.png?v=1657087633)](https://mysecurity.eufylife.com/#/login?type=/)
 
 eufy Clean
@@ -838,7 +838,7 @@ American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Sho
 * [](https://anker.com/?ref=footer)
 * [](https://anker.com/?ref=footer)
 * [](https://us.soundcore.com/?ref=footer)
-* [](https://us.eufylife.com/?ref=footer)
+* [](https://www.eufy.com/?ref=footer)
 * [](https://us.seenebula.com/?ref=footer)
 * [](https://ankermake.com/?ref=footer)
 * [](https://us.ankerwork.com/?ref=footer)
