@@ -1,6 +1,6 @@
 mediarithmics and Easyence merge. The group becomes the key player in Retail + Media, [find out more](https://www.mediarithmics.io/news/mediarithmics-acquires-easyence-and-strengthens-its-ambition-in-retail-media).
 
-[![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/61f82f720bea5e2a0bd14ce2_logo-mediarithmics-blue.svg)](https://www.mediarithmics.com/)
+[![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/61f82f720bea5e2a0bd14ce2_logo-mediarithmics-blue.svg)](https://www.mediarithmics.com/)
 
 Solutions
 
@@ -8,11 +8,11 @@ Solutions
 
 By vertical
 
-[![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/64196d295b3111798c399488_shopping_cart_FILL1_wght400_GRAD0_opsz48.svg)
+[![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/64196d295b3111798c399488_shopping_cart_FILL1_wght400_GRAD0_opsz48.svg)
 
 Retail
 
-The best SaaS solution to leverage your offline data to boost your business](https://www.mediarithmics.com/solution/retail)[![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/64196e542074b81d037a0fd7_campaign_FILL1_wght400_GRAD0_opsz48.svg)
+The best SaaS solution to leverage your offline data to boost your business](https://www.mediarithmics.com/solution/retail)[![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/64196e542074b81d037a0fd7_campaign_FILL1_wght400_GRAD0_opsz48.svg)
 
 Media
 
@@ -50,227 +50,236 @@ mediarithmics and Easyence merge
 
 [Voir la version Anglaise ➜](https://www.mediarithmics.com/legal/data-policy)
 
-Charte de protection des données personnelles
-=============================================
-
-mediarithmics SAS est un éditeur de solutions logicielles marketing et analytics. Ces solutions sont susceptibles de collecter et traiter des données personnelles.
-
-Dans le contexte actuel de massification des données et d'évolution continue des technologies, nous sommes conscients que le traitement des données personnelles demande aux acteurs du secteur logiciel une prise de responsabilité plus forte que jamais. Nous accordons ainsi une importance primordiale au respect de la vie privée et à la protection des données personnelles, matérialisée par :
-
-* Une application sans réserve des règlementations en vigueur sur la protection des données personnelles
-* Un devoir de sensibilisation, de conseil et de contrôle auprès de nos Clients dans l'utilisation de nos solutions
-* Une transparence complète auprès des utilisateurs sur les traitements effectués sur leurs données
-
-Concernant la gestion et le traitement de données personnelles, nous intervenons à deux titres :
-
-1\. En tant que fournisseur de solutions logicielles marketing
-
-2\. En tant de fournisseur d'un service de réconciliation des identifiants d'un terminal
-
-Nous décrivons ci-dessous notre rôle et nos engagements dans ces deux activités.
-
-**MEDIARITHMICS - FOURNISSEUR DE SOLUTIONS LOGICIELLES MARKETING**
-
-Ces solutions logicielles sont mises à disposition de nos Clients sous la forme de services cloud de type SaaS (Software as a Service), chaque client bénéficiant d'une instance et d'accès qui lui sont dédiés.
-
-mediarithmics se positionne comme Sous-Traitant de ses Clients au sens du Règlement Général de Protection des Données (RGPD).
-
-**Principes encadrant la mise à disposition de nos solutions logicielles**
-
-* Isolation stricte des données de chaque Client
-
-L'application des principes de "Privacy by design" passe par une isolation stricte des données personnelles collectées par chaque Client en utilisant les solutions mediarithmics. Ces dernières sont la propriété exclusive de nos Clients, qui s'en réservent l'usage exclusif.
-
-mediarithmics n'opère aucun croisement inter-Client entre ces données ni aucune autre exploitation pour son propre compte.
-
-* Mise à disposition de l'outillage nécessaire pour assurer le respect de la règlementation
-
-Les solutions mediarithmics intègrent un ensemble de services et fonctionnalités permettant le respect de la règlementation et l'exercice des droits des utilisateurs, incluant :
-
-o   Fonctionnalités de collecte et de gestion des consentements
-
-o   Services de consultation des données personnelles d'un utilisateur
-
-o   Services d'effacement des données personnelles d'un utilisateur
-
-o   Services d'effacement de l'intégralité des données
-
-* Devoir de conseil et intransigeance sur le respect de la règlementation par nos Clients
-
-Nous exigeons de nos clients un respect strict des règlementations en vigueur sur la protection des données personnelles lors de l'utilisation de nos solutions logicielles.
-
-Pour les aider dans cette mission, nous leur offrons toute notre expertise et nos conseils sur la manière d'implémenter et de configurer ces dernières.
-
-En tant que Sous-Traitant, nous avons également un devoir d'alerte dès lors que nous constatons une utilisation qui nous semble non conforme, que ce soit sur les données collectées ou les traitements effectués.
-
-**Description de nos solutions logicielles**
-
-Les solutions logicielles mediarithmics constituent une suite marketing complète et intégrée. Chacun de nos Clients, en tant que Responsable de Traitement au sens du Règlement Général de Protection des Données (RGPD), en effectue une utilisation qui lui est propre, que ce soit sur les données qu'il collecte ou les fonctionnalités qu'il utilise.
-
-Cette utilisation doit être explicitée et cadrée par un Registre des Traitements devant notamment inclure :
-
-* La liste des données collectées et leur durée de conservation
-* La ou les finalités justifiant la collecte
-* La liste des fonctionnalités utilisées sur la plateforme mediarithmics
-
-Dans un souci de transparence et d'information des internautes, nous détaillons ci-dessous les cadres d'utilisation possibles de nos solutions logicielles.
-
-**Ces descriptions ne représentent pas la réalité de nos clients : pour une information exacte, il convient de consulter directement les mentions légales de leurs supports respectifs.**
-
-**Finalités**
-
-Nous préconisons l'utilisation de nos traitements dans le cadre de deux finalités :
-
-* Améliorer la connaissance de ses clients, prospects ou utilisateurs via la compréhension de leurs comportements et de leurs attentes
-* Proposer des contenus marketing plus adaptés à ses clients, prospects ou utilisateurs
-
-**Données collectées**
-
-Nos solutions logicielles permettent de collecter des données de diverses natures :
-
-* Historiques d'activité (par ex. : métadonnées de navigation sur des sites web ou applications mobiles, exposition à des campagnes publicitaires)
-* Profils utilisateurs (par ex. : genre, tranche d'âge etc.)
-* Adresses emails
-* Identifiants publicitaires de terminaux (cookies, identifiants mobiles)
-* Identifiants clients tels que des identifiants CRM
-* Identifiants de type emails hachés
-* Listes d'audiences précalculées
-
-Au sein de chaque nature, un Client peut recueillir des informations standards (ex. : "URL" pour la navigation, "Genre" pour un profil etc.) ou spécifiques (ex. : "Univers produit" pour un e-commerçant, "Catégorie d'article" pour un site d'information etc.).
-
-Ces données peuvent être pseudonymes (ex. : identifiants cookies) ou pleinement identifiables (ex. : adresses email).
-
-Lors de la mise en place de nos solutions logicielles, chacun de nos Clients configure les données qu'il souhaite collecter, avec l'obligation légale d'en informer l'utilisateur et d'obtenir son consentement préalable.
-
-Nous interdisons formellement l'utilisation de nos solutions pour la collecte et le traitement des données sensibles, au sens du RGPD.
-
-**Fonctionnalités utilisables**
-
-Les fonctionnalités offertes par nos solutions logicielles s'apparentent aux familles suivantes :
-
-* Collecte de données via différents canaux : scripts incorporés dans les pages web, requêtes sur les APIs publiques mediarithmics depuis des serveurs ou des applications mobiles, transmission de fichiers plats
-* Segmentation : construction de listes d'utilisateurs par l'intermédiaire de requêtes sur les données collectées
-* Réalisation de campagnes publicitaires sur les sites web et applications mobiles (pouvant cibler des listes d'utilisateurs disposant d'identifiants de type cookie ou identifiant publicitaire mobile)
-* Réalisation de campagnes publicitaires email (ciblant des listes d'utilisateurs disposants d'emails)
-* Transmission de listes d'utilisateurs vers des prestataires tiers (par exemple en vue de réaliser des campagnes publicitaires ciblées sur d'autres supports)
-* Exploration des données et analytics
-
-Comme pour les données collectées, nos Clients ont l'obligation d'informer les utilisateurs sur les traitements qu'ils effectuent.
-
-**Gestion des consentements, communication auprès des utilisateurs**
-
-Chacun de nos Clients, en tant que Responsable de Traitement au sens du Règlement Général de Protection des Données (RGPD), doit :
-
-* Assurer l'information de ses utilisateurs concernant les données collectées, leur durée de conservation et leur utilisation
-* Obtenir le consentement explicite autorisant la collecte des données personnelles dans le cadre du Traitement effectué
-* Répondre aux demandes des utilisateurs d'accès aux données collectées et de leur suppression
-
-mediarithmics met à disposition de ses clients l'outillage nécessaire pour assurer ces obligations, incluant un système de gestion et de traçabilité des consentements obtenus pour chaque utilisateur, ainsi que des services automatisés de consultation, modification et suppression des données personnelles.
-
-Les modalités d'accès à ces services sont déterminées par les Clients, qui sont légalement tenus de les mettre en application pour respecter la règlementation.
-
-**Exercice de vos droits**
-
-L'exercice de vos droits d'accès, rectification, opposition ou suppression des données personnelles vous concernant, doit s'effectuer directement auprès de nos Clients, tout comme la consultation du statut de vos consentements.
-
-**Sécurité des données personnelles et hébergement**
-
-mediarithmics met en œuvre les meilleures pratiques du marché pour garantir la sécurisation des données personnelles, incluant :
-
-* L'intégration des principes de sécurité dès les phases de conception et développement des solutions
-* La "défense en profondeur" : sécurisation de toutes les couches (applications, infrastructures et réseaux)
-* Le chiffrement des communications
-* Le stockage des identifiants cookies / mobile dans des bases physiquement séparées des autres données personnelles
-
-Les données personnelles sont hébergées chez OVH France.
-
-**MEDIARITHMICS - FOURNISSEUR D'UN SERVICE DE RECONCILIATION DES IDENTIFIANTS D'UN TERMINAL**
-
-En plus de ses solutions logicielles, mediarithmics propose à ses clients l'accès à un service de réconciliation des identifiants d'un terminal.
-
-mediarithmics se positionne dans ce cadre comme Responsable de Traitement au sens du Règlement Général de Protection des Données (RGPD).
-
-**Pourquoi ce service ?**
-
-Nécessité de réconcilier un terminal sur plusieurs sites pour la diffusion de campagnes publicitaires
-
-La réconciliation d'un terminal naviguant sur plusieurs sites ou plusieurs applications est un prérequis à la mise en œuvre de campagnes marketing ciblées pour :
-
-* Les clients possédant plusieurs marques (sites/apps)
-* La diffusion de campagnes ciblées en dehors des propres sites / applications du Client  
-
-**Identifications des terminaux**
-
-Sous réserve d'avoir obtenu les consentements nécessaires, un terminal peut être identifié de deux manières :
-
-1\.     Dans le cas d'applications mobiles : par l'intermédiaire de l'identifiant publicitaire du device ("IDFA" pour les systèmes basés sur iOS ou "AAID" pour les systèmes basés sur Android)
-
-2\.     Dans le cas de sites web : par l'intermédiaire d'un identifiant contenu dans un cookie
-
-Dans le premier cas, l'identifiant publicitaire du terminal est accessible depuis chaque application du terminal, avec une même valeur : il est possible de réconcilier un même terminal d'une application à une autre et d'échanger des informations le concernant entre différents prestataires (par exemple, une application monétisant des espaces publicitaires et un annonceur achetant ces espaces publicitaires).
-
-Dans le second cas, l'identifiant publicitaire du terminal est contenu dans un cookie, stocké sur un navigateur web. Ce cookie ne peut être lu que par le site l'ayant déposé : il peut s'agir du site que vous visitez (on parlera de cookies "first party") ou d'un site tiers, partenaire du site que vous visitez (on parlera de cookies "third party").
-
-Ainsi, réconcilier un terminal naviguant sur plusieurs sites web nécessite de s'appuyer sur des cookies tiers, déposés et lus par un ou plusieurs partenaires tiers.
-
-C'est dans ce second cas qu'intervient mediarithmics, en effectuant une corrélation des identifiants cookies déposés par des partenaires tiers pour un même navigateur. L'accès à cette base de données d'identifiants permet de réconcilier un même navigateur sur différents sites, et de lui diffuser des publicités ciblées sur les sites web.
-
-**Principes de mise à disposition du service**
-
-Ce service est mis à disposition de tous nos Clients. L'utilisation de nos scripts génériques de collecte sur les sites web permet à nos Clients d'alimenter cette base de données ou de la solliciter pour identifier un navigateur déjà connu.
-
-En cohérence avec notre position d'éditeur logiciel, nous n'effectuons pas de commercialisation de ces données : l'utilisation de ce service est aujourd'hui comprise lors de la contractualisation.
-
-**Description du service**
+Politique de confidentialité des données à caractère personnel
+==============================================================
+
+  
+Mise à jour : avril 2024  
+  
+1\. Objet  
+  
+Cette politique de confidentialité (ci-après la «Politique de Confidentialité́») illustre l'engagement de la société MEDIARITHMICS, Société par Actions Simplifiée au capital social de 82 076,00 €, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 533 760 450 et dont le siège social est situé 3, rue d’Edimbourg à Paris (75008) (ci-après «MEDIARITHMICS») eu égard au respect de la vie privée et de la protection des données personnelles des utilisateurs (ci-après le ou les « Utilisateur(s) ») du site internet suivant : [https://www.mediarithmics.io](https://www.mediarithmics.io/) (ci-après le «Site»).  
+  
+Le Site permet notamment :
+
+* D’avoir des informations sur MEDIARITHMICS et sur les services et produits proposés par MEDIARITHMICS ;
+* D’avoir accès aux ressources mises à disposition sur le Site (Cas Clients, Événements, Livres blancs & Reports, Blog) ;
+* De contacter MEDIARITHMICS ;
+* De se connecter à son espace client ;
+* De candidater à des offres d’emploi proposées par MEDIARITHMICS.
+
+2\. Traitement des données personnelles**  
+‍**‍  
+2.1. Description des traitements  
+  
+Conformément aux lois et réglementations en vigueur, MEDIARITHMICS agissant en tant que responsable de traitement, collecte certaines données personnelles des Utilisateurs lors de leur visite sur le Site.  
+  
+Les catégories de données personnelles collectées ainsi que la finalité du traitement de ces données personnelles, la base légale du traitement et la durée de conservation des données personnelles sont précisées dans le tableau ci-dessous :
 
 **Finalité**
 
-Corréler les identifiants cookies attribués par plusieurs prestataires tiers pour un même navigateur afin de réconcilier son activité sur de multiples sites sans déposer soi-même de cookie tiers.
-
-**Fonctionnement**
-
-* _Collecte et réconciliation_
-
-Lors du chargement de nos scripts de collecte sur des pages web, des appels sont effectués sur les sites de nos partenaires afin de récupérer les identifiants attribués au navigateur utilisé.
-
-Si ces identifiants sont déjà connus, l'activité du terminal pourra être rattachée à un terminal existant, sinon ces identifiants sont retenus par le service pour une future sollicitation.
-
-* _Transmission à des prestataires tiers_
-
-Lorsque nos Clients transmettent des audiences (listes d'utilisateurs) à des prestataires tiers, ils peuvent recourir à ce service afin de transmettre directement des identifiants connus du prestataire tiers.
-
-**Données manipulées**
-
-Les données manipulées dans le cadre de ce service sont exclusivement des identifiants cookies pseudonymes.
-
-Les prestataires tiers avec lesquels nous échangeons des identifiants incluent notamment : Google DoubleClick, AppNexus, SmartAdServer et Bidswitch.  
+**Données personnelles collectées**
 
 **Base légale**
 
-La collecte de vos données et leur traitement dans le cadre de ce service ne se fait que sous réserve d'obtention de votre consentement.
+**Durée de conservation des données personnelles**
 
-Nous demandons à nos Clients d'en faire la demande, dans le respect de la règlementation, sur les sites web depuis lesquels ils collectent des données.
+Prénom, nom, fonction professionnelle, société, adresse email professionnelle, numéro de téléphone, message
 
-**IAB Transparency and Consent Framework**
+Réception et gestion des demandes de contact
 
-mediarithmics est enregistré au Transparency and Consent Framework de l'IAB sous l'id 184, et est en conformité avec ses Spécifications et Politiques.
+Le traitement est fondé sur le consentement de l’Utilisateur et sur les intérêts légitimes d’MEDIARITHMICS
 
-**Droit d'accès, d'opposition, de rectification et de suppression**
+Les données sont conservées pendant un an à compter de la réception de la demande de contact
 
-Si vous souhaitez exercer vos droits d'accès, de rectification, d'opposition ou de suppression des données personnelles vous concernant que nous avons collectées dans le cadre du Service de réconciliation des identifiants d'un terminal, nous vous invitons à nous contact par email ou par courrier aux coordonnées ci-dessous.
+Adresse email et données de l’espace client
 
-**CONTACT**
+Connexion et accès à l’espace client Réinitialisation du mot de passe en cas de perte ou d'oubli du mot de passe lors de la connexion à l’espace client
 
-Si vous souhaitez obtenir de plus amples informations sur le traitement des données personnelles par les solutions mediarithmics ou si vous estimez que les informations communiquées ci-dessus ne vous permettent pas d'exercer vos droits, vous pouvez nous contacter :
+Le traitement est nécessaire à l’exécution du contrat que l’Utilisateur a conclu avec MEDIARITHMICS et est basé sur son consentement
 
-* Par email :               privacy@mediarithmics.com
-* Par courrier :          3 rue d'Edimbourg, 75008 Paris
+Les données sont supprimées à compter de la fin de la licence / fin de la relation commerciale avec l’Utilisateur.  
+  
+Les données sont conservées pendant une durée de deux ans à compter de la création du compte (en cas de compte inactif dans ce délai de deux ans)
 
-**MODIFICATION DE LA PRESENTE CHARTE**
+Nom, prénom, curriculum vitae, lettre de motivation
 
-mediarithmics se réserve le droit de faire évoluer la présente charte à tout moment pour l'adapter aux évolutions de nos solutions et de la règlementation en vigueur.
+Gestion des candidatures  
+  
+Prise de contact avec l'Utilisateur (candidat)  
+  
+Evaluation des compétences lors des entretiens de recrutement  
+  
+Contrôle des antécédents professionnels et scolaires
 
-[![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/61f82f720bea5e8175d14ce4_logo-mediarithmics.svg)](https://www.mediarithmics.com/)
+Le traitement est basé sur des mesures pré-contractuelles et sur le consentement de l’Utilisateur (candidat)
+
+Destruction du dossier si l'Utilisateur (candidat) n’est pas retenu, et jusqu’à deux ans à compter du dernier contact avec l'Utilisateur (candidat) s’il a donné son accord à la conservation de son dossier
+
+Nom, prénom, adresse email et postale (le cas échéant)
+
+Gestion des demandes de droits d’accès, de portabilité, d’effacement, de limitation de traitement, de rectification et d’opposition
+
+Le traitement est nécessaire pour répondre aux demandes de l’Utilisateur et  est basé sur son consentement
+
+Jusqu'à un an à compter de la demande d’exercice de droit
+
+Nom, prénom, adresse email et postale (le cas échéant)
+
+Gestion des demandes de droit d’opposition à la prospection commerciale
+
+Le traitement est nécessaire afin de répondre à la demande d’exercice du droit d'opposition
+
+Jusqu’à trois ans à compter de l’exercice du droit d’opposition
+
+Lors de la connexion au Site, MEDIARITHMICS, agissant en tant que responsable de traitement, collecte également les données personnelles des Utilisateurs suivantes :  
+‍  
+1\. Logs de connexion ;  
+2\. Données de connexion ;  
+3\. Adresse IP.  
+  
+Si l'Utilisateur candidate pour un emploi par le biais du Site (rubrique “A propos, Carrières”), il est informé que dans le cadre du recrutement, MEDIARITHMICS utilise le site "Welcome To The Jungle" : [www.welcometothejungle.co](http://www.welcometothejungle.co/) qui est édité par la société Coruscant. L'Utlisateur peut postuler aux offres que MEDIARITHMICS propose, directement sur le site de Welcome To the Jungle via le lien suivant : [https://www.welcometothejungle.com/fr/companies/mediarithmics  
+‍  
+‍](https://www.welcometothejungle.com/fr/companies/easyence)La société Coruscant peut être contactée à l'adresse électronique suivante : [privacy@wttj.co](mailto:privacy@wttj.co) et à l'adresse postale suivante : 24 rue du Mail, 75002 Paris, France.  
+  
+2.2. Destinataires des données personnelles  
+  
+L’accès aux données personnelles des Utilisateurs est restreint aux seules personnes ayant besoin de ces données personnelles afin de réaliser la finalité propre au traitement.  
+  
+Les données personnelles des Utilisateurs sont traitées par le personnel habilité d'MEDIARITHMICS (ressources humaines, vente, marketing, service juridique, administration du système informatique) et par les prestataires qui soutiennent l'activité d'MEDIARITHMICS, notamment pour les activités suivantes :  
+  
+\- Ticketing et gestion de projet ;  
+\- Hébergement et sauvegarde de données ;  
+\- Mise en œuvre de tests de sécurité ;  
+\- Suivi du recrutement.  
+  
+Les données personnelles des Utilisateurs peuvent également être communiquées par MEDIARITHMICS à des tiers :  
+‍  
+
+* si la loi ou une procédure juridique impose à MEDIARITHMICS de partager les données personnelles des Utilisateurs ;  
+    
+* en réponse à la demande d’une autorité publique ou judiciaire (notamment en cas de réquisition judiciaire) ‍  
+    
+* lorsque MEDIARITHMICS considère que la transmission des données personnelles des Utilisateurs est nécessaire ou appropriée afin d’assurer la sécurité des personnes ou protéger le public.  
+    
+
+2.3. Transfert des données personnelles  
+  
+Les données personnelles des Utilisateurs sont recueillies par l’hébergeur du Site en France : la société OVH SAS située 2 rue Kellermann à Roubaix (59100).  
+  
+Et par les fournisseurs tiers de services techniques, les services de messagerie, les fournisseurs d’hébergement, les entreprises informatiques, les agences de communication auxquels MEDIARITHMICS fait appel dans le cadre de son activité et dont certains sont situés aux Etats-Unis.  
+  
+Les données personnelles des Utilisateurs sont hébergées sur des serveurs situés en France et aux Etats-Unis. Les données personnelles des Utilisateurs font donc l’objet d’un transfert en dehors de l’Espace Economique Européen.  
+  
+MEDIARITHMICS s’engage à assurer un niveau de protection des données personnelles des Utilisateurs identique au niveau de protection assuré par l’application du RGPD, et a  notamment conclu avec les sociétés situées hors de l'Espace Économique Européen des Clauses Contractuelles Types, dans leur version modifiée en juin 2021 par la Commission Européenne et mis en place des garanties de sécurité supplémentaires telles qu établies par l’arrêt de la Cour de justice de l’Union européenne (CJUE) du 16 juillet 2020 (dit arrêt « Schrems II » ).**  
+  
+‍**2.4. Sécurité des données personnelles  
+  
+MEDIARITHMICS veille à sécuriser les données personnelles des Utilisateurs en mettant en œuvre les mesures techniques et organisationnelles appropriées afin de garantir un niveau de sécurité́ adapté au risque et met en place des moyens permettant de garantir la confidentialité́, l’intégrité́, la disponibilité́ et la résilience constantes des systèmes et des services de traitement, tout moyen permettant de rétablir la disponibilité́ et l’accès aux données personnelles des Utilisateurs, ainsi qu’une procédure visant à̀ tester, à analyser et à évaluer régulièrement l’efficacité́ des mesures techniques et organisationnelles mises en place par MEDIARITHMICS.  
+  
+2.5. Conservation des données personnelles  
+  
+Les données personnelles des Utilisateurs sont conservées uniquement le temps nécessaire à la réalisation de la finalité pour laquelle MEDIARITHMICS détient ces données (conformément aux durées de conservation énoncées au point 2.1 de la présente Politique de Confidentialité) et peuvent être conservées pour une durée supérieure, n’excédant pas les durées de prescription légale applicables, pour remplir ses obligations légales ou réglementaires, afin de lui permettre d’exercer ses droits et/ou à des fins statistiques ou historiques.  
+  
+A l’issue des durées mentionnées ci-dessus, les données personnelles des Utilisateurs seront supprimées ou MEDIARITHMICS procèdera à leur anonymisation.**  
+  
+‍**2.6. Les droits des Utilisateurs sur leurs données personnelles  
+  
+Les Utilisateurs disposent des droits suivants sur leurs données personnelles
+
+**Droits d’accès et de rectification**
+
+Les Utilisateurs peuvent demander l’accès à leurs données personnelles.  
+  
+Ils peuvent également demander la rectification de leurs données personnelles qui seraient inexactes ou à ce que leurs données personnelles incomplètes soient complétées.  
+  
+Ils ont aussi le droit de connaître l’origine de leurs données personnelles.
+
+**Droit de suppression**
+
+Les Utilisateurs peuvent demander la suppression de leurs données personnelles lorsque :  
+  
+Les données ne sont plus nécessaires à la réalisation des finalités pour lesquelles elles ont été collectées et traitées ;  
+  
+Ils ont choisi de retirer leur consentement (dans les cas où le consentement a été collecté comme base juridique du traitement), ce retrait n’impactant pas la licéité du traitement avant sa mise en œuvre ;  
+  
+Ils se sont opposés au traitement ;Les données ont été traitées de manière illicite ;  
+  
+Les données doivent être effacées pour respecter une obligation légale ; ou  
+  
+Leur suppression est requise pour garantir la conformité à la législation en vigueur notamment au regard des durées de conservation applicables aux données personnelles collectées.
+
+**Droit d’opposition**
+
+Les Utilisateurs peuvent s’opposer au traitement de leurs données personnelles dans le respect des obligations légales imposées à MEDIARITHMICS.
+
+**Droit à la limitation**
+
+Les Utilisateurs peuvent également demander la limitation au traitement de leurs données personnelles si :  
+  
+Ils contestent l’exactitude de ces données ;  
+  
+MEDIARITHMICS n’a plus besoin de ces données pour les besoins du traitement ; et  
+  
+Ils se sont opposés au traitement de leurs données.
+
+**Droit de ne pas faire l’objet d’une  
+décision fondée exclusivement sur un traitement automatisé des données**
+
+Les Utilisateurs ont la possibilité de ne pas faire l’objet d’une décision fondée exclusivement sur un traitement automatisé produisant des effets juridiques les concernant ou les affectant de manière significative, notamment basé sur le profilage.
+
+**Droit à la portabilité**
+
+Les Utilisateurs peuvent demander à MEDIARITHMICS de leur fournir leurs données personnelles dans un format structuré, communément utilisé, lisible par une machine, ou demander à ce qu’elles soient « portées » directement à un autre responsable du traitement à conditions que :  
+  
+Le traitement soit fondé sur leur consentement; et  
+  
+Qu’il soit réalisé par des moyens automatisés.
+
+**Droit d’émettre des directives anticipées sur le traitement des données personnelles après leur décès**
+
+En application de l’article 85, I de la Loi informatique et Libertés du 6 janvier 1978 telle que modifiée, les Utilisateurs peuvent définir des directives sur l’exercice de leurs droits prévus par cette section après leur décès (notamment sur la durée de conservation de leurs données personnelles, leur suppression et/ou la communication de leurs données personnelles), ainsi que désigner une personne chargée de l’exercice de ces droits.  
+  
+En l’absence de telles directives, MEDIARITHMICS fera droit aux demandes de leurs héritiers, tel que limitativement énoncé à l’article 85, II de la Loi Informatique et Libertés.
+
+**Droit d’introduire une réclamation auprès d’une autorité de contrôle**
+
+Si les Utilisateurs ont des préoccupations ou des réclamations en ce qui concerne la protection de leurs données personnelles, ils disposent d’un droit d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés via le lien suivant : [Plaintes en ligne | CNIL  
+  
+‍](https://www.cnil.fr/fr/plaintes)La CNIL est également joignable aux coordonnées suivantes : 3 Place de Fontenoy, 75007 Paris - téléphone : 01 53 73 22 22.  
+  
+L’Utilisateur est invité à informer le Délégué à la Protection des Données d’MEDIARITHMICS au préalable afin que celui-ci puisse traiter la demande et tenter de trouver une solution amiable.  
+  
+
+L’Utilisateur peut exercer ses droits précités et/ou poser toute question relative au traitement de ses données personnelles par MEDIARITHMICS par courriel à l’adresse email suivante : [privacy@mediarithmics.com](mailto:privacy@mediarithmics.com) ou par courrier à l’adresse postale suivante : Délégué à la Protection des Données Personnelles, Société MEDIARITHMICS, 3, rue d’Edimbourg, 75008, Paris.  
+  
+Afin qu’MEDIARITHMICS traite le plus rapidement possible la demande, l’Utilisateur peut indiquer dans sa demande l’objet de cette dernière et le contexte dans lequel ses données personnelles ont été́ collectées par MEDIARITHMICS et MEDIARITHMICS pourra demander à l’Utilisateur de lui fournir la copie recto verso d’une pièce d'identité ​ valable, en cas de doute raisonnable sur son identité.  
+  
+2.7. Cookies  
+  
+Un "cookie" est un petit fichier envoyé par le serveur web au fichier cookie du navigateur situé sur le disque dur de votre ordinateur.  
+  
+Pour en savoir plus : https : //www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser  
+  
+Notre site utilise les catégories de cookies suivantes :  
+  
+**1\. Cookies nécessaires au fonctionnement du Site :**  
+Ces cookies sont essentiels à votre navigation sur le Site et à l'utilisation de ses fonctions, telles que l'accès sécurisé à certaines parties du Site. Sans ces cookies, des services tels que la mise à disposition de contenus adaptés en fonction de votre type de terminal ne pourraient pas être fournis. Vous pouvez vous y opposer et les supprimer en utilisant les paramètres de votre navigateur, mais votre expérience de navigation sur le Site peut s'en trouver altérée.  
+  
+**2\. Cookies de mesure d’audience, permettant d’analyser le trafic des visites sur le Site**  
+Les cookies utilisés par MEDIARITHMICS sont conservés pour une durée maximale de treize (13) mois à compter de leur collecte, votre choix quant à leur dépôt ou leur lecture étant conservé six (6) mois.  
+  
+Vous pouvez modifier à tout moment vos choix au moyen du gestionnaire de consentement mis à votre disposition par MEDIARITHMICS.  
+  
+2.8 Modification de la Politique de Confidentialité  
+  
+MEDIARITHMICS se réserve le droit d'apporter des modifications à la présente Politique de Confidentialité à tout moment.  
+  
+Il est fortement recommandé de consulter cette page fréquemment, en se référant à la date de la dernière modification.  
+  
+En cas de modification importante de la Politique de Confidentialité́, MEDIARITHMICS avisera les Utilisateurs de ces modifications.
+
+[![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/61f82f720bea5e8175d14ce4_logo-mediarithmics.svg)](https://www.mediarithmics.com/)
 
 3 rue d'Edimbourg, 75008 Paris
 
@@ -292,7 +301,7 @@ mediarithmics se réserve le droit de faire évoluer la présente charte à tout
 
 #### We're proud of
 
-![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/630e2c7aaef6d18143cb91be_greenly.png)![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/630e2c7a12101fe4aa8c18b2_ISO27001.jpeg)![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/636b805b10cbdd03138d1059_Sponsor%20Europe.png)![](https://assets-global.website-files.com/61f82f720bea5e0c5dd14cb4/63f0a69e69cfc0829c2f3caa_te%CC%81le%CC%81chargement.png)
+![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/630e2c7aaef6d18143cb91be_greenly.png)![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/630e2c7a12101fe4aa8c18b2_ISO27001.jpeg)![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/636b805b10cbdd03138d1059_Sponsor%20Europe.png)![](https://cdn.prod.website-files.com/61f82f720bea5e0c5dd14cb4/63f0a69e69cfc0829c2f3caa_te%CC%81le%CC%81chargement.png)
 
 © All rights reserved. Made with 💪 by [Genia Media](http://www.genia.media/).
 
