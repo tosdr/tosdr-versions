@@ -1,4 +1,4 @@
-![](//www.morphe.com/cdn/shop/t/841/assets/close-icon-dark.svg?v=112145037037702411761717024716)
+![](//www.morphe.com/cdn/shop/t/845/assets/close-icon-dark.svg?v=112145037037702411761718303180)
 
 ![](//www.morphe.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_400x.gif)
 
@@ -20,7 +20,7 @@ Close×
 
 Add to cart for $15 and under.
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/bake-set-soft-focus-setting-powder-translucent-mini "Mini Bake & Set Soft Focus Setting Powder - Translucent")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/bake-set-soft-focus-setting-powder-translucent-mini "Mini Bake & Set Soft Focus Setting Powder - Translucent")
 
 Morphe
 
@@ -32,7 +32,7 @@ $8
 
 ADD TO BAG
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/mini-continuous-setting-mist "Mini Continuous Setting Mist")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/mini-continuous-setting-mist "Mini Continuous Setting Mist")
 
 Morphe
 
@@ -44,7 +44,7 @@ $12
 
 ADD TO BAG
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/morphe-x-meredith-duxbury-brow-sculpting-wax-and-brush-duo "Morphe X Meredith Duxbury Brow Sculpting Wax And Brush Duo")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/morphe-x-meredith-duxbury-brow-sculpting-wax-and-brush-duo "Morphe X Meredith Duxbury Brow Sculpting Wax And Brush Duo")
 
 Morphe
 
@@ -52,13 +52,15 @@ Morphe
 
 Clear
 
-$13
+Current price: $9.75
+
+Original price: $13
 
 ($16 Value)
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/sun-done-smooth-gliding-bronzer-stick-caramel-cove "Sun & Done Smooth Gliding Bronzer Stick - Caramel Cove")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/sun-done-smooth-gliding-bronzer-stick-caramel-cove "Sun & Done Smooth Gliding Bronzer Stick - Caramel Cove")
 
 [Morphe 2](https://www.morphe.com/collections/morphe-2)
 
@@ -70,7 +72,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/m101-lightform-dual-ended-complexion-brush "M101 Lightform Dual Ended Complexion Brush")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/m101-lightform-dual-ended-complexion-brush "M101 Lightform Dual Ended Complexion Brush")
 
 Morphe
 
@@ -82,7 +84,7 @@ $15
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/m625-three-in-one-brow-sculpting-brush "M625 Three-In-One Brow Sculpting Brush")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/m625-three-in-one-brow-sculpting-brush "M625 Three-In-One Brow Sculpting Brush")
 
 Morphe
 
@@ -94,7 +96,7 @@ $6
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/supreme-brow-sculpting-and-shaping-wax-latte "Supreme Brow Sculpting And Shaping Wax - Latte")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/supreme-brow-sculpting-and-shaping-wax-latte "Supreme Brow Sculpting And Shaping Wax - Latte")
 
 Morphe
 
@@ -106,7 +108,7 @@ $9
 
 ADD TO BAG
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-stargaze "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Stargaze")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-stargaze "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Stargaze")
 
 Morphe
 
@@ -118,7 +120,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-cosmic-coral "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Cosmic Coral")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-cosmic-coral "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Cosmic Coral")
 
 Morphe
 
@@ -130,7 +132,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-frose-bliss "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Frose Bliss")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-frose-bliss "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Frose Bliss")
 
 Morphe
 
@@ -142,7 +144,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-whipped "Soulmatte Filling Gel Lip Liner - Whipped")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-whipped "Soulmatte Filling Gel Lip Liner - Whipped")
 
 Morphe
 
@@ -154,7 +156,7 @@ $8
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-wifey "Soulmatte Filling Gel Lip Liner - Wifey")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-wifey "Soulmatte Filling Gel Lip Liner - Wifey")
 
 Morphe
 
@@ -166,7 +168,7 @@ $8
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-quick-crush "Soulmatte Filling Gel Lip Liner - Quick Crush")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-quick-crush "Soulmatte Filling Gel Lip Liner - Quick Crush")
 
 Morphe
 
@@ -178,7 +180,7 @@ $8
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-quick-crush "Soulmatte Velvet Lip Mousse - Quick Crush")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-quick-crush "Soulmatte Velvet Lip Mousse - Quick Crush")
 
 Morphe
 
@@ -190,7 +192,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-whipped "Soulmatte Velvet Lip Mousse - Whipped")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-whipped "Soulmatte Velvet Lip Mousse - Whipped")
 
 Morphe
 
@@ -202,7 +204,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-my-boo "Soulmatte Velvet Lip Mousse - My Boo")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-my-boo "Soulmatte Velvet Lip Mousse - My Boo")
 
 Morphe
 
@@ -214,7 +216,7 @@ $12
 
 View Shades
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/mini-continuous-prep-set-mist "Mini Continuous Prep & Set Mist+")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/mini-continuous-prep-set-mist "Mini Continuous Prep & Set Mist+")
 
 Morphe
 
@@ -226,7 +228,7 @@ $14
 
 ADD TO BAG
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/9g-sunrise-glow-artistry-palette "9G Sunrise Glow Artistry Palette")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/9g-sunrise-glow-artistry-palette "9G Sunrise Glow Artistry Palette")
 
 Morphe
 
@@ -238,7 +240,7 @@ $14
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/9m-midnight-dune-artistry-palette "9M Midnight Dune Artistry Palette")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/9m-midnight-dune-artistry-palette "9M Midnight Dune Artistry Palette")
 
 Morphe
 
@@ -250,7 +252,7 @@ $14
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/9w-smoke-shadow-artistry-palette "9W Smoke & Shadow Artistry Palette")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/9w-smoke-shadow-artistry-palette "9W Smoke & Shadow Artistry Palette")
 
 Morphe
 
@@ -262,7 +264,7 @@ $14
 
 Add to Bag
 
-   [![](//www.morphe.com/cdn/shop/t/841/assets/blank_100x.gif?v=164826798765693215961717024704)](https://www.morphe.com/products/make-it-big-xxl-lip-plumping-serum "Make It Big XXL Lip Plumping Serum")
+   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/make-it-big-xxl-lip-plumping-serum "Make It Big XXL Lip Plumping Serum")
 
 Morphe
 
@@ -270,7 +272,9 @@ Morphe
 
 Clear
 
-$14
+Current price: $10.50
+
+Original price: $14
 
 Add to Bag
 
@@ -279,53 +283,73 @@ Terms & Conditions
 
 [Skip to Content](#maincontent)
 
-#### Free shipping on orders $35+
-
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
+
+#### 25% OFF SUMMER ESSENTIALS
 
 #### Free shipping on orders $35+
 
-#### Free Microfiber Beauty Sponge with $45+ orders
+#### Free Make It Big Mini Mascara with $45+ orders
 
-* [![toggle mobile menu](//www.morphe.com/cdn/shop/t/841/assets/hamburger-icon-black.svg?v=37398962526372985731717024741)](#)
-* ![Search](//www.morphe.com/cdn/shop/t/841/assets/search-icon-black.svg?v=109393770938569529511717024806)
+#### 25% OFF SUMMER ESSENTIALS
+
+#### Free shipping on orders $35+
+
+#### Free Make It Big Mini Mascara with $45+ orders
+
+* [![toggle mobile menu](//www.morphe.com/cdn/shop/t/845/assets/hamburger-icon-black.svg?v=37398962526372985731718303205)](#)
+* ![Search](//www.morphe.com/cdn/shop/t/845/assets/search-icon-black.svg?v=109393770938569529511718303270)
 
 [![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new.png?v=1704369663)](https://www.morphe.com/)
 
 * [Login](https://www.morphe.com/account/login)
-* ![Bag](//www.morphe.com/cdn/shop/t/841/assets/cart-icon-new.svg?v=164380968832671469731717024711)
+* ![Bag](//www.morphe.com/cdn/shop/t/845/assets/cart-icon-new.svg?v=164380968832671469731718303176)
     
     Items in cart 0
     
@@ -342,17 +366,17 @@ Featured
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
 
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 04, 24
+Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
 
 Makeup
 
 Featured
 
-[Shop All](https://www.morphe.com/collections/all-makeup) [Best Sellers](https://www.morphe.com/collections/best-sellers) [Exclusive Offers](https://www.morphe.com/collections/sale-items)
+[Shop All](https://www.morphe.com/collections/all-makeup) [Best Sellers](https://www.morphe.com/collections/best-sellers) [Exclusive Offers](https://www.morphe.com/collections/summer-glow)
 
 Eyes
 
@@ -370,7 +394,7 @@ Face
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
 
 Brushes & Tools
 
@@ -390,11 +414,11 @@ Makeup Tools
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
 
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 04, 24
+Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
 
 Discover
 
@@ -408,11 +432,11 @@ Discover
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
 
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 04, 24
+Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
 
 Gifts & Sets
 
@@ -432,11 +456,11 @@ Gift Guides
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
 
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 04, 24
+Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
 
 Edits
 
@@ -460,17 +484,17 @@ Best Sellers
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
 
-[Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
+[Summer Offers](https://www.morphe.com/collections/summer-glow)
 
 [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
 Choose your region USD$  [Stores](https://www.morphe.com/pages/store-locator) [Login](https://www.morphe.com/account/login)
 
-![Search](//www.morphe.com/cdn/shop/t/841/assets/dt-search-icon.svg?v=101893264991972337941717024729)
+![Search](//www.morphe.com/cdn/shop/t/845/assets/dt-search-icon.svg?v=101893264991972337941718303193)
 
-![Bag](//www.morphe.com/cdn/shop/t/841/assets/dt-cart-icon.svg?v=143133360700128768681717024728)
+![Bag](//www.morphe.com/cdn/shop/t/845/assets/dt-cart-icon.svg?v=143133360700128768681718303193)
 
 Items in cart 0
 
@@ -514,7 +538,7 @@ Featured
 
 [Best Sellers](https://www.morphe.com/collections/best-sellers)
 
-[Exclusive Offers](https://www.morphe.com/collections/sale-items)
+[Exclusive Offers](https://www.morphe.com/collections/summer-glow)
 
 Eyes
 
@@ -650,17 +674,17 @@ Best Sellers
 
 [Under $10](https://www.morphe.com/collections/10-and-under)
 
-[Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
+[Summer Offers](https://www.morphe.com/collections/summer-glow)
 
 [![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
 
 Master the Artistry of Applying Cream Blush Jun 05, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
 
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 04, 24
+Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
 
-![clock icon](//www.morphe.com/cdn/shop/t/841/assets/clock-icon.svg?v=42723469760392072181717024714) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
+![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
 
 Terms & Conditions
 ==================
@@ -921,12 +945,15 @@ Find a store](https://www.morphe.com/pages/store-locator)
 
 [Morphe Rewards](https://www.morphe.com/pages/morphe-rewards)
 
+[Morphe Artistry Collective](https://www.morphe.com/pages/morphe-artistry-collective)
+
 [My Account](https://www.morphe.com/account/login)
 
 [My Morphe](https://www.morphe.com/pages/morphe-rewards)
 --------------------------------------------------------
 
 * [Morphe Rewards](https://www.morphe.com/pages/morphe-rewards)
+* [Morphe Artistry Collective](https://www.morphe.com/pages/morphe-artistry-collective)
 * [My Account](https://www.morphe.com/account/login)
 
  About Us
