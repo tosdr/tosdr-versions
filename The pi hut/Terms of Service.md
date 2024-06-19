@@ -256,6 +256,7 @@ Cart](https://thepihut.com/cart)
         * [Relays](https://thepihut.com/collections/raspberry-pi-relay-hats)
         * [Sensor](https://thepihut.com/collections/raspberry-pi-sensor-hats)
         * [Serial & I2C](https://thepihut.com/collections/raspberry-pi-serial-i2c-hats)
+        * [SSD](https://thepihut.com/collections/raspberry-pi-ssd-hats)
         * [View All](https://thepihut.com/collections/raspberry-pi-hats)
         
     * Cases
@@ -562,7 +563,8 @@ Cart](https://thepihut.com/cart)
         
         3D Printing
         
-        * [Filament & Resin](https://thepihut.com/collections/3dqf)
+        * [PETG Filament](https://thepihut.com/collections/petg-filament)
+        * [PLA Filament](https://thepihut.com/collections/pla-filament)
         * [View All](https://thepihut.com/collections/adafruit-3d-printing)
         
     
@@ -642,7 +644,7 @@ Super Fast Shipping
 
 Five Star Service
 
-[149,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
+[150,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
 
 No Quibble Returns
 
