@@ -161,12 +161,11 @@ You may contact the controller at [\[email protected\]](https://www.maxon.net/c
 
 The data protection officer of the controller is:
 
-Christoph Kluss, Rechtsanwalt  
-Haaß & Kluss  
-Martorffstr. 5  
-60320 Frankfurt am Main, Germany  
-Phone: +49 69 562095  
-Email: [\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)
+FPS Consult GmbH  
+Eschersheimer Landstraße 27  
+60322 Frankfurt am Main, Germany  
+Phone: +49 69 90550530  
+E-Mail: [\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)[\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)
 
 General Data Processing
 
