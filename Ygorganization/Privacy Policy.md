@@ -135,35 +135,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/thedoomkingfrontsformerch/ "[MERCHANDISE] Kaiba Corporation Store Part 6 Yu-GI-Oh! ARC-V")
+[](https://ygorganization.com/cdp_hero2024z/ "CDP: HERO 2024 – Wake Up: Everybody is Here!")
 
-#### [\[MERCHANDISE\] Kaiba Corporation Store Part 6 Yu-GI-Oh! ARC-V](https://ygorganization.com/thedoomkingfrontsformerch/)
+#### [CDP: HERO 2024 – Wake Up: Everybody is Here!](https://ygorganization.com/cdp_hero2024z/)
 
-June 2, 2024
+June 15, 2024
 
-[](https://ygorganization.com/requiemofanobody/ "A New Artwork From Dark Matter of Phantoms [RUSH DUEL]")
+[](https://ygorganization.com/artwork-post-fly-with-union-pilot-and-new-six-samurai/ "[Artwork Post] Fly with “Union Pilot” and New “Six Samurai”")
 
-#### [A New Artwork From Dark Matter of Phantoms \[RUSH DUEL\]](https://ygorganization.com/requiemofanobody/)
+#### [\[Artwork Post\] Fly with “Union Pilot” and New “Six Samurai”](https://ygorganization.com/artwork-post-fly-with-union-pilot-and-new-six-samurai/)
 
-June 1, 2024
+June 15, 2024
 
-[](https://ygorganization.com/gorush111/ "Episode 111 Summary [GO RUSH!!]")
+[](https://ygorganization.com/whatifthecrossoverisisekai/ "The Three Core Themes For Crossover Breakers Revealed! [DBCB]")
 
-#### [Episode 111 Summary \[GO RUSH!!\]](https://ygorganization.com/gorush111/)
+#### [The Three Core Themes For Crossover Breakers Revealed! \[DBCB\]](https://ygorganization.com/whatifthecrossoverisisekai/)
 
-June 1, 2024
+June 14, 2024
 
-[](https://ygorganization.com/willthisbeliketheocgorwillwejustgetultimateexodiainthenexttournamentpacks/ "[TCG] Upcoming Releases June 2024")
+[](https://ygorganization.com/artwork-post-the-return-of-turu-purun-and-next-morganite/ "[Artwork Post] The return of Turu-Purun and Next Morganite")
 
-#### [\[TCG\] Upcoming Releases June 2024](https://ygorganization.com/willthisbeliketheocgorwillwejustgetultimateexodiainthenexttournamentpacks/)
+#### [\[Artwork Post\] The return of Turu-Purun and Next Morganite](https://ygorganization.com/artwork-post-the-return-of-turu-purun-and-next-morganite/)
 
-June 1, 2024
+June 14, 2024
 
-[](https://ygorganization.com/rightjustice/ "[RD/SD0B] Dig for Fusion Materials with “Rising HERO Argent”!")
+[](https://ygorganization.com/notevendeathistheend/ "Praise Be To The Finale With “End-Exalting Morganite”! [ROTA]")
 
-#### [\[RD/SD0B\] Dig for Fusion Materials with “Rising HERO Argent”!](https://ygorganization.com/rightjustice/)
+#### [Praise Be To The Finale With “End-Exalting Morganite”! \[ROTA\]](https://ygorganization.com/notevendeathistheend/)
 
-May 31, 2024
+June 13, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
