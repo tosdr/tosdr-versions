@@ -83,6 +83,7 @@
     * [Amaze In the News](https://amaze.org/amaze-in-the-news/)
     * [Amaze Around the World](https://amaze.org/amaze-around-the-world/)
     * [Embedded Playlists](https://amaze.org/embedded-playlists/)
+    * [FAQ](https://amaze.org/what-is-amaze/#faq)
 
 ![](https://amaze.org/wp-content/themes/amaze/dist/images/search-button.png)  [![](https://amaze.org/wp-content/themes/amaze/dist/images/close.png)](#)
 
