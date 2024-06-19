@@ -1,6 +1,5 @@
 Playground
 
-* [Discord](https://discord.gg/playground-ai-1013195759178498068)
 * [YouTube](https://www.youtube.com/@playgroundai)
 * [Careers](https://www.mightyapp.com/jobs)
 * [Community](https://www.mightyapp.com/feed)
@@ -69,4 +68,4 @@ Get Started
 
 Playground
 
-[Terms](https://www.mightyapp.com/terms)[Privacy](https://www.mightyapp.com/privacy)[Community](https://www.mightyapp.com/feed)[Pricing](https://www.mightyapp.com/pricing)[Discord](https://discord.gg/playground-ai-1013195759178498068)[YouTube](https://www.youtube.com/@playgroundai)[Careers](https://www.mightyapp.com/jobs)
+[Terms](https://www.mightyapp.com/terms)[Privacy](https://www.mightyapp.com/privacy)[Community](https://www.mightyapp.com/feed)[Pricing](https://www.mightyapp.com/pricing)[YouTube](https://www.youtube.com/@playgroundai)[Careers](https://www.mightyapp.com/jobs)
