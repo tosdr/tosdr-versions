@@ -155,6 +155,8 @@ Main navigation
     
     [Careers](https://www.entrust.com/company/careers)
     
+    [Culture](https://www.entrust.com/company/culture)
+    
     News
     
     [Press Releases](https://www.entrust.com/company/newsroom/type/press-release)
@@ -205,7 +207,7 @@ Main navigation
 
 1. [Home](https://www.entrust.com/)  » 
 2. [Legal and Compliance](https://www.entrust.com/legal-compliance)  » 
-3. [Privacy](https://www.entrust.com/legal-compliance/data-privacy)  » 
+3. [Data Privacy](https://www.entrust.com/legal-compliance/data-privacy)  » 
 4. Entrust Privacy Statement
 
 ![purple hex pattern](/sites/default/files/2024-02/hero-bg-hex-puple-gradient-1900x345.jpg)
