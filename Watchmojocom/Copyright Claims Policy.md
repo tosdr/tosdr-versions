@@ -94,7 +94,7 @@ advertisememt
 * PLAY _∨_
     
     * [Trivia Home](https://www.watchmojo.com/multiplayer-trivia)
-    * [Daily Trivia Challenge](https://www.watchmojo.com/play)
+    * [Trivia Battles](https://www.watchmojo.com/play)
 * DOWNLOAD APPS _∨_
     
     * [APPLE](https://apps.apple.com/ca/app/watchmojo-tv/id1482009750)
@@ -102,9 +102,7 @@ advertisememt
     * [ROKU](https://channelstore.roku.com/details/221ae95b18731cb8c2038e7890b1489a/mojotv)
     * [AMAZON](https://www.amazon.com/WatchMojo-com-WatchMojo-TV/dp/B07YM21M5D)
 * [WM CLUB](https://www.watchmojo.com/getmojo/promotion/type/Promotion/1)
-* DAILY TRIVIA CHALLENGE
-    
-    00
+* 00
     
     00
     
