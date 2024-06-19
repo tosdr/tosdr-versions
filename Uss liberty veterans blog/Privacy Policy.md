@@ -75,15 +75,16 @@ If you have any questions about this Privacy Policy, please contact us.
 Recent Posts
 ------------
 
+* [USS LIBERTY SURVIVORS REUNITE AND CALL FOR A CONGRESSIONAL INVESTIGATION INTO THE DEADLY ATTACK ON THEIR SHIP](https://www.usslibertyveterans.blog/uss-liberty-survivors-reunite-and-call-for-a-congressional-investigation-into-the-deadly-attack-on-their-ship/)
 * [USS Liberty Survivor Ron Kukal Writes Senator Mike Enzi](https://www.usslibertyveterans.blog/uss-liberty-survivor-ron-kukal-writes-senator-mike-enzi/)
 * [USS Liberty Victims RIP June 8, 1967](https://www.usslibertyveterans.blog/uss-liberty-victims-rip-june-8-1967/)
 * [An American Legion Department Continues American Legion Tradition of Unanimously Passing USS Liberty Resolution](https://www.usslibertyveterans.blog/an-american-legion-department-continues-american-legion-tradition-of-unanimously-passing-uss-liberty-resolution/)
 * [USS Liberty Survivors Hold Reunion on 55th Anniversary of Attack](https://www.usslibertyveterans.blog/uss-liberty-survivors-hold-reunion-on-55th-anniversary-of-attack/)
-* [The Makings of History / Myth vs. Plot \[Annotated\]](https://www.usslibertyveterans.blog/the-makings-of-history-myth-vs-plot-annotated/)
 
 Archives
 --------
 
+* [June 2024](https://www.usslibertyveterans.blog/2024/06/)
 * [May 2022](https://www.usslibertyveterans.blog/2022/05/)
 
 Recent Comments
