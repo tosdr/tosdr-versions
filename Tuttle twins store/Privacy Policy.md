@@ -4,7 +4,7 @@
 
 Shop
 
-[Shop All](https://tuttletwins.store/collections/new-products-just-dropped)
+[Shop All](https://tuttletwins.store/collections/shop-all)
 
 [Season 2 All Access Pass](https://tuttletwins.store/pages/tuttle-twins-pass)
 
@@ -73,7 +73,7 @@ SECS](https://tuttletwins.store/collections/memorial-day-sale)
 * [HomeHome](https://tuttletwins.store/)
 * [Shop](https://tuttletwins.store/collections/frontpage)
     
-    * [Shop All](https://tuttletwins.store/collections/new-products-just-dropped)
+    * [Shop All](https://tuttletwins.store/collections/shop-all)
     * [Season 2 All Access Pass](https://tuttletwins.store/pages/tuttle-twins-pass)
     * [Goldback Bills](https://tuttletwins.store/products/goldback-bundle)
     * [DVD & Bluray](https://tuttletwins.store/products/season-1-tuttle-twins-dvd)
