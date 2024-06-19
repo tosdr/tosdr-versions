@@ -1,10 +1,10 @@
-[](https://mail.ch/en/)
+[![](/img/logo_mail_ch.png)](https://mail.ch/en/)
 
 \- Security, Reliability, Comfort
 
  
 
-Login
+![](/img/icons/lock.png)Login
 
 [Sign up now!](https://signup.mail.ch/) [Forgotten password?](https://my.mail.ch/passwort-vergessen)
 
@@ -19,11 +19,9 @@ Toggle navigation
 * [Support](https://mail.ch/en/help/)
 * [Data Protection](https://mail.ch/en/cookies/)
 * [Language](#)
-    * [Deutsch](https://mail.ch/de/cookies/)
-    * [Français](https://mail.ch/fr/cookies/)
-    * [English](https://mail.ch/en/cookies/)
-
-Willkommen zum frischen, neuen Design! Webauftritt, Webmail-Dienst, Logo und Apps erscheinen im neuen Look.
+    *  [![](/img/flags/de.png) Deutsch](https://mail.ch/de/cookies/)
+    *  [![](/img/flags/fr.png) Français](https://mail.ch/fr/cookies/)
+    *  [![](/img/flags/en.png) English](https://mail.ch/en/cookies/)
 
 What are cookies?
 -----------------
@@ -66,10 +64,7 @@ For reasons of data protection, we do not use any analysis or tracking tools on 
 
 ###### High level of security
 
-  
-![TLS Secured](/img/icons/lockSSL.png)
-
-All mail.ch websites are TLS-encrypted.
+![TLS Secured](/img/icons/lockSSL.png) All mail.ch websites are TLS-encrypted.
 
 * * *
 
@@ -77,22 +72,14 @@ All protocols are available encrypted.
 
 ###### Verified data protection
 
-  
-[![DATATREE AG](/img/logo/datatree_en.png?v=4)](https://www.datatree.eu/)
-
-###### Service
-
-* [Privacy Policy](https://mail.ch/en/privacy/)
-* [Cookies](https://mail.ch/en/cookies/)
-* [Terms & Conditions](https://mail.ch/en/tos/)
-* [Revocation](https://mail.ch/en/tos/#rescission)
-* [Cancel contract](https://my.mail.ch/en/cancelation)
-* [Server-status](https://status.mail.de/)
-* [Report Abuse](mailto:abuse@mail.ch)
+[![DATATREE AG](/img/logo/datatree.png?v=3)](https://www.datatree.eu/)
 
 ###### About mail.ch
 
-* [Contact](https://mail.ch/en/help/#contactForm)
+* [Privacy Policy](https://mail.ch/en/privacy/) / [Cookies](https://mail.ch/en/cookies/)
+* [Terms & Conditions](https://mail.ch/en/tos/) / [Revocation](https://mail.ch/en/tos/#rescission) / [Cancel contract](https://my.mail.ch/en/cancelation)
 * [Legal Notice](https://mail.ch/en/legal-notice/)
+* [Server-status](https://status.mail.de/)
+* [Report Abuse](mailto:abuse@mail.ch)
 
 All rights reserved. ©2015-2024 by mail.de GmbH
