@@ -1,5 +1,5 @@
-Shop the [Father's Day Sale](https://www.arlo.com/en-us/fathers-day-sale "Father's Day Sale") and get up to $595 off best-sellers!
-----------------------------------------------------------------------------------------------------------------------------------
+Shop the [Summer Security Sale](https://www.arlo.com/en-us/summer-security-sale "Father's Day Sale") and get up to $595 off best-sellers!
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 Shopping made seamless. Free shipping on all orders $35 or more.
 ----------------------------------------------------------------
@@ -78,7 +78,9 @@ Wireless Security Camera
 
 From $49.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html)
 
-[![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit)
+[SALE
+
+![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit)
 
 Ultra 2
 
@@ -202,7 +204,9 @@ Wireless Security Camera
 
 From $49.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html)
 
-[![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
+[SALE
+
+![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
 
 Ultra 2
 
@@ -345,7 +349,9 @@ Security Plans
             
             From $49.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html)
             
-        * [![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
+        * [SALE
+            
+            ![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
             
             Ultra 2
             
