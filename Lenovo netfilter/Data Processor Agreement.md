@@ -1,6 +1,6 @@
 1
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -66,11 +66,7 @@ processing activities that may involve the transfer of Personal Data from the Eu
 
 European Economic Area, United Kingdom, and/or other countries with similar adequacy or
 
-equivalency standards pertaining to cross-border data transfers). Further, it
-
-represents contractual provisions serving as safeguards for safe personal data transfers
-
-required by applicable data protection laws.
+equivalency standards pertaining to cross-border data transfers).
 
 
 
@@ -80,7 +76,7 @@ reference.
 
 2
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -172,15 +168,15 @@ with the documented instructions of Controller (the "Permitted Purpose") as docu
 
 Supplier shall immediately inform Controller if it becomes aware that Controller's Processing
 
-3
-
-Lenovo NetFilter Data Processor Agreement v004 June 2024
-
-
-
 instructions infringe Applicable Data Protection Law. In no event shall Supplier process the Personal
 
 Data for its own purposes or those of any third-party, including for marketing purposes. For the
+
+3
+
+Lenovo NetFilter Data Processor Agreement v003 March 2023
+
+
 
 avoidance of doubt, Supplier shall not send marketing or otherwise promotional communications to
 
@@ -196,9 +192,9 @@ related channels.
 
 International transfers: Supplier may transfer the Personal Data to any country outside of the country
 
-from which Personal Data was collected in compliance with applicable Data Protection Laws and data
+from which Personal Data was collected in compliance with applicable Data Protection Laws. For the
 
-localization laws. For the avoidance of doubt:
+avoidance of doubt:
 
 
 
@@ -270,15 +266,15 @@ Subprocessing: Supplier agrees that any third-party subprocessor it appoints sha
 
 same standard of data protection provided for by this Agreement; and that Supplier will enter into
 
-4
-
-Lenovo NetFilter Data Processor Agreement v004 June 2024
-
-
-
 agreements accordingly with its applicable subprocessors to give appropriate effect to the
 
 requirements in this DPA Controller agrees that Supplier may use any subprocessor listed in Annex B.
+
+4
+
+Lenovo NetFilter Data Processor Agreement v003 March 2023
+
+
 
 Notwithstanding this, Controller consents to Supplier engaging new subprocessors (including the
 
@@ -366,7 +362,7 @@ of a competent data protection authority.
 
 5
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -590,7 +586,7 @@ Customer Data);
 
 6
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -716,7 +712,7 @@ Students, Teachers, Organization contacts and Users in general
 
 7
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -758,7 +754,7 @@ authorization.
 
 8
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -916,7 +912,7 @@ instance, accessible by engineering),
 
 9
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1072,7 +1068,7 @@ distributed software.
 
 10
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1146,7 +1142,7 @@ months on a cold archive.
 
 11
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1242,7 +1238,7 @@ of the conflict; and
 
 12
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1364,7 +1360,7 @@ Data Importer’s Role Processor
 
 13
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1444,7 +1440,7 @@ behaviour is monitored, are located.
 
 14
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1488,7 +1484,7 @@ List of authorized sub-processors As set out in Annex B above
 
 
 
-2. United Kingdom (UK)
+2\. United Kingdom (UK)
 
 
 
@@ -1524,7 +1520,7 @@ organisations/documents/4019539/international-data-transfer-addendum.pdf).
 
 15
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1672,7 +1668,7 @@ Transfer: As set out in Annex B above
 
 16
 
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
@@ -1734,41 +1730,9 @@ provisions under section 2 “United Kingdom (UK)” above apply by reference.
 
 
 
-In case of a transfer of Personal Data subject to the Brazil’s General Personal Data Protection Law (as
+Until Brazil relevant authorities release equivalent Brazil Model Clauses, C2P Model Clauses as
 
-amended by Law No. 13.853 of 8 July 2019) (“LGPD”), and Lenovo, Supplier, or both are located in
-
-Non-Adequate Countries, the C2P Standard Contractual Clauses as referenced herein shall apply with
-
-the following amendments:
-
-
-
-(i) the supervisory authority of the C2P Standard Contractual Clauses shall be the Brazil’s National Data
-
-Protection Authority (ANPD);
-
-
-
-(ii) the governing law in accordance with Clause 17 of the C2P Standard Contractual Clauses shall be
-
-the LGPD;
-
-
-
-(iii) the choice of forum and jurisdiction in accordance with Clause 18 of the C2P Standard Contractual
-
-Clauses shall be Brazilian law in case the data transfer is exclusively subject to the LGPD; and
-
-
-
-(iv) any references to the GDPR in the C2P Standard Contractual Clauses shall also include the
-
-reference to the equivalent provisions of LGPD (as amended or replaced).
-
-17
-
-Lenovo NetFilter Data Processor Agreement v004 June 2024
+executed under section 1 “European Economic Area (EEA)” above apply by reference.
 
 
 
@@ -1790,15 +1754,9 @@ physiological, genetic, mental, economic, cultural, or social identity of that n
 
 well as an identifiable juristic person or legal entity.
 
+17
 
-
-6\. Australia
-
-
-
-The parties agree to use and protect applicable Personal Data in compliance with Australia’s Data
-
-Privacy Act as amended.
+Lenovo NetFilter Data Processor Agreement v003 March 2023
 
 
 
