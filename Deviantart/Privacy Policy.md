@@ -10,20 +10,13 @@ User Menu
 
 [Upgrade to Core](https://www.deviantart.com/core-membership)
 
-50% off for a limited time!
-
-
--------------------------------
-
-[Get Core](https://www.deviantart.com/core-membership)
-
 Theme
 
 Display Mature Content
 
 Suppress AI Content
 
-[Get Help and Send Feedback](https://www.deviantartsupport.com/en/)[Terms of Service](https://www.deviantart.com/about/policy/service)[Privacy Policy](https://www.deviantart.com/about/policy/privacy)
+[Help Center](https://www.deviantartsupport.com/en/)[Terms of Service](https://www.deviantart.com/about/policy/service)[Privacy Policy](https://www.deviantart.com/about/policy/privacy)
 
 Submit
 
@@ -83,7 +76,7 @@ _Policy last updated: Feburary 16, 2023_
 
 DeviantArt respects your privacy and is fully committed to protect your personal information and use it properly and in compliance with data privacy laws.
 
-This Privacy Policy applies to our web sites, including [www.deviantart.com](https://www.deviantart.com/), [www.deviantart.com/prints](https://www.deviantart.com/prints), [sta.sh](https://sta.sh/), and our DeviantArt mobile applications (collectively, the "**DeviantArt Sites**" or "**Sites**"). This Privacy Policy explains what information we (together with our affiliated companies worldwide) collect and use pertaining to each of our Account holders and non-Account holders (such as Site visitors) through the Sites, how we use that information, and what choices you have with respect to the information we collect about you. The Sites and our services available via the Sites are collectively called the "**Services**".
+This Privacy Policy applies to our web sites, including [www.deviantart.com](https://www.deviantart.com/), [www.deviantart.com/prints](https://www.deviantart.com/shop), [sta.sh](https://sta.sh/), and our DeviantArt mobile applications (collectively, the "**DeviantArt Sites**" or "**Sites**"). This Privacy Policy explains what information we (together with our affiliated companies worldwide) collect and use pertaining to each of our Account holders and non-Account holders (such as Site visitors) through the Sites, how we use that information, and what choices you have with respect to the information we collect about you. The Sites and our services available via the Sites are collectively called the "**Services**".
 
 Please take a few moments to read this Privacy Policy **before** you access or use the Services. By using or accessing the DeviantArt Sites, you acknowledge that you have read and fully understood this Privacy Policy and our Terms of Service and that they both apply to your use of the Services. If you do not read and fully understand this Privacy Policy, please do not use the Sites or Services. This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you might have under applicable data privacy laws. Where you have read this policy but would like further clarification, please contact us at [help@deviantart.com](mailto:help@deviantart.com).
 
@@ -322,7 +315,7 @@ Dublin 2 D02HX96, Ireland
 
 [Developers](https://www.deviantart.com/developers "Developers")[Advertise](https://deviantartads.com/ "Advertise")[Terms of Service](https://www.deviantart.com/about/policy/service "Terms of Service")[Etiquette](https://www.deviantart.com/about/policy/etiquette "Etiquette")
 
-[Careers](https://www.deviantart.com/team/journal/Careers-at-DeviantArt-855261915 "Careers")[Privacy Policy](https://www.deviantart.com/about/policy/privacy "Privacy Policy")[Copyright Policy](https://www.deviantart.com/about/policy/copyright/ "Copyright Policy")[Help and FAQ](https://www.deviantartsupport.com/en/ "Help and FAQ")
+[Careers](https://www.deviantart.com/team/journal/Careers-at-DeviantArt-855261915 "Careers")[Privacy Policy](https://www.deviantart.com/about/policy/privacy "Privacy Policy")[Copyright Policy](https://www.deviantart.com/about/policy/copyright/ "Copyright Policy")[Help Center](https://www.deviantartsupport.com/en/ "Help Center")
 
 Watch [Team](https://www.deviantart.com/team) and join our [Community](https://www.deviantart.com/community) Group for the latest updates and activities.
 
