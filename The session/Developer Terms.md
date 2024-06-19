@@ -188,10 +188,6 @@ A Java helper library to make it easier for Java developers to work with The Ses
 
 [An app](https://apps.apple.com/app/the-craic/id586009292) for iPhone and iPad for searching across multiple online tune collections.
 
-[back](#) [menu](#top)
-
-[Log in](https://thesession.org/login?redirect=%2Fapi) or [Sign up](https://thesession.org/signup)
-
 * [Tunes](https://thesession.org/tunes)
 * [Discography](https://thesession.org/recordings)
 * [Trips](https://thesession.org/trips)
