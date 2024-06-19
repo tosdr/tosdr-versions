@@ -1,6 +1,4 @@
-[![Cidi Labs Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20867%20250'%3E%3C/svg%3E)
-
-![Cidi Labs Logo](https://cidilabs.com/wp-content/uploads/2023/06/cropped-cidilabs-logo.png)](https://cidilabs.com/)
+[![Cidi Labs Logo](https://cidilabs.com/wp-content/uploads/2023/06/cropped-cidilabs-logo.png)](https://cidilabs.com/)
 
 * [Products](https://cidilabs.com/)
     * [DesignPLUS for Canvas](https://cidilabs.com/landing/design-tools/)
