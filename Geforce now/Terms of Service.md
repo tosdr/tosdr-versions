@@ -435,7 +435,6 @@ Main Menu
         * [Startups](https://www.nvidia.com/en-eu/deep-learning-ai/startups/)
     
 
-* [NVIDIA GTC](https://www.nvidia.com/gtc/)
 * [Shop](https://www.nvidia.com/en-gb/shop/)
 * [Drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 * [Support](https://www.nvidia.com/en-eu/support/)
@@ -869,8 +868,7 @@ NVIDIA NVIDIA logo
             * [Technical Training](https://www.nvidia.com/en-eu/training/)
             * [Startups](https://www.nvidia.com/en-eu/deep-learning-ai/startups/)
     * [Startups](https://www.nvidia.com/en-eu/deep-learning-ai/startups/)
-* * [NVIDIA GTC](https://www.nvidia.com/gtc/)
-    * [Shop](https://www.nvidia.com/en-gb/shop/)
+* * [Shop](https://www.nvidia.com/en-gb/shop/)
     * [Drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
     * [Support](https://www.nvidia.com/en-eu/support/)
     
