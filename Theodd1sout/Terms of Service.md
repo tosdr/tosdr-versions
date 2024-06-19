@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-![landing-page-comic-merch-blowup-2900x867.jpg__PID:dc8bbc61-5e35-4c8e-a117-e1a51052907c](//theodd1sout.com/cdn/shop/files/landing-page-comic-merch-blowup-2900x867.jpg?v=1717216938&width=2400)
+ ![landing-page-comic-merch-blowup-2900x867.jpg__PID:dc8bbc61-5e35-4c8e-a117-e1a51052907c](//theodd1sout.com/cdn/shop/files/landing-page-comic-merch-blowup-2900x867.jpg?v=1717216938&width=2400)![](//theodd1sout.com/cdn/shop/files/Mines_MOBILE_1920x1080_2.jpg?v=1718214079&width=2160)
 
 Be the first to know
 
