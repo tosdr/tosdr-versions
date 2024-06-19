@@ -73,9 +73,9 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [16](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=PS5&certificate=16)
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=PS5&certificate=18)
     
-    * * [![](/images/library/homeimages/FinalFantasyVIIRebirthBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-final-fantasy-vii-rebirth-ps5/g638ps5)
+    * * [![](/images/library/homeimages/StarWarsOutlawsHDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=star+wars+outlaws)
+        * [![](/images/library/homeimages/FinalFantasyVIIRebirthBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-final-fantasy-vii-rebirth-ps5/g638ps5)
         * [![](/images/library/homeimages/AloneIntheDarkWebsiteBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=alone+in+the+dark)
-        * [![](/images/library/homeimages/RiseoftheRoninBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-rise-of-the-ronin-ps5/g649ps5)
     
 * [Xbox Series X](#)
     
@@ -112,9 +112,9 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [16](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=XBOXSERIESX&certificate=16)
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=XBOXSERIESX&certificate=18)
     
-    * * [![](/images/library/homeimages/AloneIntheDarkWebsiteBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=alone+in+the+dark)
-        * [![](/images/library/homeimages/SuicideSquadKilltheJusticeLeagueBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=suicide+squad+kill+the+justice+league)
+    * * [![](/images/library/homeimages/StarWarsOutlawsHDBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=star+wars+outlaws)
         * [![](/images/library/homeimages/SkullandBonesBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=skull+and+bones)
+        * [![](/images/library/homeimages/AloneIntheDarkWebsiteBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=alone+in+the+dark)
     
 * [Xbox One](#)
     
@@ -232,8 +232,8 @@ Our website uses cookies and by using the site you agree to this. [Learn more he
         * [18](http://www.boomerangrentals.co.uk/search_results.php?search=1&Console=SWITCH&certificate=18)
     
     * * [![](/images/library/homeimages/SuperMarioBrosWonderDropdownBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-super-mario-bros-wonder-switch/g1172switch)
-        * [![](/images/library/homeimages/MariovsDonkeyKongBanner.png)](https://www.boomerangrentals.co.uk/search_results.php?search=1&Console=&category=&certificate=&phrase=mario+vs+donkey+kong)
-        * [![](/images/library/homeimages/PrincessPeachShowtimeWebsiteBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-princess-peach-showtime-switch/g1275switch)
+        * [![](/images/library/homeimages/PaperMarioWebsiteBanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-paper-mario-the-thousand-year-door-switch/g1293switch)
+        * [![](/images/library/homeimages/Luigi'sMansion2HDbanner.png)](https://www.boomerangrentals.co.uk/game-rental-details/rent-luigis-mansion-2-hd-switch/g1305switch)
     
 * [Xbox 360](#)
     
