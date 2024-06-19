@@ -30,6 +30,7 @@
         * [Order marketing resources](https://www.schoop.co.uk/order/)
         * [Testimonials](https://www.schoop.co.uk/testimonials/)
     
+* [Pricing](https://www.schoop.co.uk/pricing/)
 * [FAQ](https://www.schoop.co.uk/faq/)
 * [Blog](https://www.schoop.co.uk/schoop-blog/)
 * [**Staffroom**](https://schoop.co.uk/SchoolAdmin/Login)
@@ -56,7 +57,7 @@ We use the following cookies:
 * **Functionality cookies.** These are used to recognise you when you return to Our website. This enables Us to personalise Our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 * **Targeting cookies.** These cookies record your visit to Our website, the pages you have visited and the links you have followed. We will use this information to make Our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-© Copyright - Schoop 2013 - 2018. All rights reserved.  
+© Copyright - Schoop 2013 - 2024. All rights reserved.  
 Schoop Ltd registered in England and Wales no: 8403573. Data protection reg. no: Z3641715  
 Schoop ® is a registered trademark protected by international law.
 
