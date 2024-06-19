@@ -4,11 +4,11 @@
     
     * [About us](https://www.untu.us/about-us/)
     * [Contact us](https://www.untu.us/contact-us/)
-    * [Work for us](https://www.untu.us/work-for-us/)
+    * [Join our team](https://www.untu.us/work-for-us/)
     
-    [![optimal impact awards cover](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F05%2FOptimal-Impact-Award-Winners-Blog-image-3-768x768.png&w=3840&q=75)
+    [![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10-768x384.png&w=3840&q=75)
     
-    ### Celebrating Excellence: Meet our Optimal Impact Award Winners](https://www.untu.us/insights/may-2024-optimal-impact-awards/)
+    ### Google API Leak: A Look Inside the Algorithm](https://www.untu.us/insights/google-api-leak/)
     
 * [Solutions](https://www.untu.us/solutions/)
     
@@ -51,7 +51,7 @@
     
     * [About us](https://www.untu.us/about-us/)
     * [Contact us](https://www.untu.us/contact-us/)
-    * [Work for us](https://www.untu.us/work-for-us/)
+    * [Join our team](https://www.untu.us/work-for-us/)
     
 * [Solutions](https://www.untu.us/solutions/)
     
@@ -397,19 +397,19 @@ Get ahead with the news and insights you need to inform and inspire your next su
 
 [Read more](https://www.untu.us/insights/)
 
-[![optimal impact awards cover](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F05%2FOptimal-Impact-Award-Winners-Blog-image-3-768x768.png&w=3840&q=75)
+[![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10-768x384.png&w=3840&q=75)
+
+Consumer
+
+### Google API Leak: A Look Inside the Algorithm](https://www.untu.us/insights/google-api-leak/)[![magnifying glass on computer screen](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-9.png&w=3840&q=75)
+
+Consumer
+
+### Smarter Search? AI Overviews Explained](https://www.untu.us/insights/google-ai-overviews/)[![optimal impact awards cover](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F05%2FOptimal-Impact-Award-Winners-Blog-image-3-768x768.png&w=3840&q=75)
 
 ConsumerHealthcarePoliticsPublic affairs
 
-### Celebrating Excellence: Meet our Optimal Impact Award Winners](https://www.untu.us/insights/may-2024-optimal-impact-awards/)[![mark with video overlay](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F04%2FMark-on-Adotat-768x768.gif&w=3840&q=75)
-
-PoliticsPublic affairs
-
-### Navigating the Wild West of Political Advertising](https://www.untu.us/insights/navigating-the-wild-west-of-political-advertising/)[![deploy media planner screenshot](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F03%2FMedia-Planner-Launch-768x768.png&w=3840&q=75)
-
-PoliticsPublic affairs
-
-### Optimize Your Media Plans with Deploy’s Innovative New Feature](https://www.untu.us/insights/optimize-your-media-plans-with-deploys-innovative-new-feature/)
+### Celebrating Excellence: Meet our Optimal Impact Award Winners](https://www.untu.us/insights/may-2024-optimal-impact-awards/)
 
 ### Company
 
