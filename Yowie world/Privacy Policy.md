@@ -46,9 +46,9 @@
     * [We Want Yowie](https://yowieworld.com/we-want-yowie/)
     * [Our Products](https://yowieworld.com/products/)
     * [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
-* [Win](https://yowieworld.com/win/)
+* [WHERE TO BUY](https://yowieworld.com/where-to-find-yowie/)
     
-* [Merch](https://yowieworld.com/shop/)
+* [Win](https://yowieworld.com/win/)
     
 
 Privacy Policy
@@ -127,6 +127,81 @@ If you have any question about our Website, including any questions in relation 
 
 We will preserve the content of any e-mail that you send us, if we believe that we have a legal requirement to do so. Your e-mail message content may be monitored for security issues including where e-mail abuse is suspected. Our response to you may also be monitored for quality assurance issues.
 
+Buy Yowie instore
+-----------------
+
+Yowie is available in selected stores. 
+
+Locator loading...
+
+  
+
+### Find Yowie in the U.S.
+
+![Walmart Logo](https://yowieworld.com/wp-content/uploads/2023/08/walmart-logo.png)
+
+![Caseys Logo](https://yowieworld.com/wp-content/uploads/2023/08/caseys-logo.png)
+
+![Walgreens Logo](https://yowieworld.com/wp-content/uploads/2023/08/walgreens-logo.png)
+
+![Costco Logo](https://yowieworld.com/wp-content/uploads/2023/08/costco-logo.png)
+
+![7 Eleven Logo](https://yowieworld.com/wp-content/uploads/2023/08/7-eleven-logo.png)
+
+![Acme Logo](https://yowieworld.com/wp-content/uploads/2023/08/acme-logo.png)
+
+![Albertsons Logo](https://yowieworld.com/wp-content/uploads/2023/08/albertsons-logo.png)
+
+![Duane Reade Logo](https://yowieworld.com/wp-content/uploads/2023/08/duane-reade-logo.png)
+
+![Raleys](https://yowieworld.com/wp-content/uploads/2023/09/raleys.png)
+
+![Save Mart](https://yowieworld.com/wp-content/uploads/2023/09/save-mart.png)
+
+![Murphy Usa](https://yowieworld.com/wp-content/uploads/2023/09/murphy-usa.png)
+
+![Meijer](https://yowieworld.com/wp-content/uploads/2023/09/meijer.png)
+
+![Lowes](https://yowieworld.com/wp-content/uploads/2023/09/lowes.png)
+
+![Harps](https://yowieworld.com/wp-content/uploads/2023/09/harps.png)
+
+![Get Go](https://yowieworld.com/wp-content/uploads/2023/09/get-go.png)
+
+![Food Lion](https://yowieworld.com/wp-content/uploads/2023/09/food-lion.png)
+
+![Fareway](https://yowieworld.com/wp-content/uploads/2023/09/fareway.png)
+
+![Circle K](https://yowieworld.com/wp-content/uploads/2023/09/circle-k.png)
+
+![Quick Chek](https://yowieworld.com/wp-content/uploads/2023/09/quick-chek.png)
+
+![Hyvee](https://yowieworld.com/wp-content/uploads/2023/09/hyvee.png)
+
+![Dierbergs](https://yowieworld.com/wp-content/uploads/2023/09/dierbergs.png)
+
+![Brookshires](https://yowieworld.com/wp-content/uploads/2023/09/brookshires.png)
+
+![Am Pm](https://yowieworld.com/wp-content/uploads/2023/09/am-pm.png)
+
+![Family Dollar](https://yowieworld.com/wp-content/uploads/2023/09/family-dollar.png)
+
+Yowie can also be found in the U.S. at:  
+• Chevron  
+• Cracker Barrel
+
+### Find Yowie in Australia
+
+![Woolworths Logo](https://yowieworld.com/wp-content/uploads/2023/08/woolworths-logo.png)
+
+![Big W Logo](https://yowieworld.com/wp-content/uploads/2023/08/big-w-logo.png)
+
+![Reject Shop Logo](https://yowieworld.com/wp-content/uploads/2023/08/reject-shop-logo.png)
+
+![Kmart Logo](https://yowieworld.com/wp-content/uploads/2023/08/kmart-logo.png)
+
+[Sign Up and be the first to learn about new collectible series and products](#header-newsletter-signup)
+
 ![Yowie Section Curve Purple 03](https://yowieworld.com/wp-content/uploads/2023/03/yowie-section-curve-purple-03.svg)
 
 [![Yowie Primary Logo](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowieworld.com/)
@@ -192,5 +267,7 @@ Password \*
  Remember me  Log in
 
 [Lost your password?](https://yowieworld.com/my-account/lost-password/)
+
+![](https://www.facebook.com/tr?id=2305133513080338&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=633&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=yowieworld.com%2Fprivacy-policy%2F)
 
 We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowieworld.com/terms-conditions/), [Privacy policy](https://yowieworld.com/privacy-policy/) and the use of cookies.[Close](#)
