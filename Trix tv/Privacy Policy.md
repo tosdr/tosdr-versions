@@ -51,6 +51,7 @@ Menu
 
 * [Home](https://www.xtrixtv.com/en/)
 * * [Subscription](https://www.xtrixtv.com/subscription.html)
+    * [Download](https://www.xtrixtv.com/download.html)
     * [Support](#)
         
         * [About Us](https://www.xtrixtv.com/about-us.html)
