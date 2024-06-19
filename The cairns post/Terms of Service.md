@@ -84,11 +84,11 @@
         
     * ### [True Crime](https://www.cairnspost.com.au/truecrimeaustralia)
         
+        * [Cocaine Inc](https://www.cairnspost.com.au/truecrimeaustralia/cocaine-inc)
         * [The Mushroom Cook](https://www.cairnspost.com.au/truecrimeaustralia/the-mushroom-cook)
         * [Dying Rose](https://www.cairnspost.com.au/truecrimeaustralia/dying-rose)
         * [Narcos On The Front Line](https://www.cairnspost.com.au/truecrimeaustralia/narcos-on-the-front-line)
         * [The Missing Australia](https://www.cairnspost.com.au/truecrimeaustralia/the-missing-australia)
-        * [Faith On Trial](https://www.cairnspost.com.au/truecrimeaustralia/faith-on-trial)
     
 * [World](https://www.cairnspost.com.au/news/world)
 * [Opinion](https://www.cairnspost.com.au/news/opinion)
