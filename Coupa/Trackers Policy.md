@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-* [![Home](/themes/coupa_8/logo.svg)](https://www.coupa.com/ "Home")
+* [![Home](/themes/coupa_8/logo_mm.svg)](https://www.coupa.com/ "Home")
 * Products
     
     * Overview
@@ -113,7 +113,7 @@
     * Partner Programs
         * [Implementation Partners](https://www.coupa.com/partners/partner-connect-program/implementation-partners)
         * [Payment Partners](https://www.coupa.com/partners/pay-partners)
-        * [Coupa App Marketplace Partners](https://www.coupa.com/partners/coupalink)
+        * [Coupa App Marketplace Partners](https://www.coupa.com/partners/app-marketplace-program)
         * [Managed Services Provider Partners](https://www.coupa.com/partners/partner-connect-program/managed-service-partners)
         * [Application Management Partners](https://www.coupa.com/partners/partner-connect-program/application-management-partners)
         * [Management Consulting Partners](https://www.coupa.com/partners/partner-connect-program/management-consulting-partners)
@@ -267,7 +267,7 @@ Please note that, if you adjust the cookie settings for Coupa, you may not be ab
         * [Partner Login](https://partnerconnect.coupa.com/s/)
         * [Implementation Partners](https://www.coupa.com/partners/partner-connect-program/implementation-partners)
         * [Payment Partners](https://www.coupa.com/partners/pay-partners)
-        * [Coupa App Marketplace Partners](https://www.coupa.com/partners/coupalink)
+        * [Coupa App Marketplace Partners](https://www.coupa.com/partners/app-marketplace-program)
         * [Managed Services Provider Partners](https://www.coupa.com/partners/partner-connect-program/managed-service-partners)
         * [Application Management Partners](https://www.coupa.com/partners/partner-connect-program/application-management-partners)
         * [Management Consulting Partners](https://www.coupa.com/partners/partner-connect-program/management-consulting-partners)
