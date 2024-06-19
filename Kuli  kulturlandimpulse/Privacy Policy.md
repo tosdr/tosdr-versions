@@ -1,7 +1,7 @@
 [](https://facebook.com/kulturlandimpulse)[](https://www.kulturlandimpulse.at/feed/)
 
 * [](tel:+43 650 7909484)
-* [office@kulturlandimpulse.at](mailto:offic%65@%6b%75lturl%61n%64%69mpul%73%65%2e%61%74)
+* [office@kulturlandimpulse.at](mailto:office%40%6b%75ltu%72%6c%61n%64im%70uls%65%2eat)
 
 [![kuli -  Kultur.Land.Impulse  Gemeinsam gestalten](https://www.kulturlandimpulse.at/wp-content/uploads/2020/07/kuliLogo_klein-e1594027797115.png)](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[kuli - Kultur.Land.Impulse](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[Gemeinsam gestalten](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")
 
@@ -105,6 +105,18 @@ Jun 20
 20:00 - 22:30
 
 ### [Sommerkino am Hof “The Ants and the Grasshopper”](https://www.kulturlandimpulse.at/veranstaltung/sommerkino-am-hof-the-ants-and-the-grasshopper/ "Sommerkino am Hof “The Ants and the Grasshopper”")
+
+Jul 3
+
+13:30 - 16:30
+
+### [Repair Café Braunau am Mittwoch, 3. Juli 2024](https://www.kulturlandimpulse.at/veranstaltung/repair-cafe-braunau-2023-2-3/ "Repair Café Braunau am Mittwoch, 3. Juli 2024")
+
+Jul 19
+
+19:00 - 22:00
+
+### [Sommerkino im Schärdinger Schlosspark](https://www.kulturlandimpulse.at/veranstaltung/sommerkino-am-hof-the-ants-and-the-grasshopper-2/ "Sommerkino im Schärdinger Schlosspark")
 
 [Kalender anzeigen](https://www.kulturlandimpulse.at/veranstaltungen/ "Weitere Veranstaltungen anzeigen.")
 
