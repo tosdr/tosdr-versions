@@ -70,27 +70,45 @@
 QUADRANET SERVICE LEVEL AGREEMENT
 =================================
 
+Service Terms
+-------------
+
+* Contract Duration: The length of the term from Billing Effective Date.
+    
+* Billing Effective Date is expected to be on or near the Estimated Service date and will be determined once the applicable services have been delivered to the Customer.
+    
+* Contract terms are binding as long as services are provided on a mutually agreed-upon basis.
+    
+* All Non-Recurring Charges (NRC) and First Month Charges are due Immediately upon contract execution
+    
+* For all annual or greater contract terms, customer may cancel with 60-day written notice and all remaining charges become immediately due through end of contract term.
+    
+* A late fee of 5% or the maximum rate allowable by law (whichever is less) will be applied to any over-due charges not received by after 10 days of invoice date unless alternative arrangements are made with QuadraNet billing department via the client portal. Any additional invoices where payment is not received within 10 days of invoice date, unless alternative arrangements are made with QuadraNet billing department via the client portal will be charged 10% of the invoice each additional time late with payment.
+    
+* Customers with payments not received after 10 days of invoice due date in two (2) consecutive invoices will be subject to disconnection.
+    
+
 Power Service Level Agreement (SLA)
 -----------------------------------
 
-This Service Level Agreement (“SLA”) describes compensation offered in the event that power provided by QuadraNet to a client as part of an agreed-upon and existing service agreement is interrupted without previous notice. Although QuadraNet may attempt to notify clients when major changes are made to this SLA, it is recommended that clients periodically review the most up-to-date version, made permanently available at [https://www.quadranet.com/service-level-agreement](http://www.quadranet.com/service-level-agreement). QuadraNet reserves the right, at its sole discretion, to modify or revise this SLA at any time, and clients agree to be bound by such modifications or revisions.
+This Service Level Agreement ("SLA") describes compensation offered in the event that power provided by QuadraNet to a client as part of an agreed-upon and existing service agreement is interrupted without previous notice. Although QuadraNet may attempt to notify clients when major changes are made to this SLA, it is recommended that clients periodically review the most up-to-date version, made permanently available at [https://quadranet.com/terms-of-service](https://quadranet.com/terms-of-service). QuadraNet reserves the right, at its sole discretion, to modify or revise this SLA at any time, and clients agree to be bound by such modifications or revisions.
 
-QuadraNet provides a power uptime service level agreement of 100%. This means that for any given month, we strive to provide a best-effort service that delivers no more than 0 seconds of power unreachability to any given power circuit and/or PDU (power distribution unit) owned and operated by QuadraNet. Should a power outage (disruption to power provided by QuadraNet to a client) occur through no fault of the client, a credit will be issued at a rate of 5% of the client’s total monthly invoice for all affected services for each 60 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
+QuadraNet provides a power uptime service level agreement of 100%. This means that for any given month, we will provide a best-effort service that experiences no more than 0 seconds of power unreachability. Outages are credited at a rate of 5% of a client's total monthly invoice for all affected services for each 60 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
 
-This agreement covers QuadraNet electrical circuits provided to clients’ colocation cabinets as well as to QuadraNet-owned dedicated servers.
+This SLA covers QuadraNet electrical circuits provided to clients' colocation cabinets as well as to QuadraNet-owned dedicated servers.
 
-To qualify for SLA credit, QuadraNet must be notified within 24 hours of the perceived outage via email at billing@quadranet.com or by submitting a ticket via our portal ([https://neo.quadranet.com](https://neo.quadranet.com/)) to the billing department. Clients must include the date, start time, end time, and a list of impacted services for any given perceived outage in order to qualify for SLA credit. QuadraNet reserves the right to withhold SLA credit to any client in “bad standing” (having current invoices outstanding for 30 or more days, having consistently late payments on previous invoices, or being otherwise in violation of QuadraNet’s Terms of Service).
+To qualify for SLA credit, QuadraNet must be notified within 24 hours of the perceived outage being restored via email at [billing@quadranet.com](mailto:billing@quadranet.com) or by submitting a ticket via our portal ([https://neo.quadranet.com](https://neo.quadranet.com/)) to the billing department. Clients must include the date, start time, end time, and a list of impacted services for any given perceived outage in order to qualify for SLA credit. QuadraNet reserves the right to withhold SLA credit to any client in "bad standing" (having current invoices outstanding for 30 or more days, having consistently late payments on previous invoices, or being otherwise in violation of QuadraNet's Terms of Service).
 
 Network Service Level Agreement (SLA)
 -------------------------------------
 
-This Service Level Agreement (“SLA”) describes compensation offered in the event that network services provided by QuadraNet to a client as part of an agreed-upon and existing service agreement are interrupted without previous notice. Although QuadraNet may attempt to notify clients when major changes are made to this SLA, it is recommended that clients periodically review the most up-to-date version, made permanently available at [here](https://quadranet.com/service-level-agreement/service-level-agreement). QuadraNet reserves the right, at its sole discretion, to modify or revise this SLA at any time, and clients agree to be bound by such modifications or revisions.
+This Service Level Agreement ("SLA") describes compensation offered in the event that network services provided by QuadraNet to a client as part of an agreed-upon and existing service agreement are interrupted without previous notice. Although QuadraNet may attempt to notify clients when major changes are made to this SLA, it is recommended that clients periodically review the most up-to-date version, made permanently available at [http://quadranet.com/company/service-level-agreement](http://quadranet.com/company/service-level-agreement). QuadraNet reserves the right, at its sole discretion, to modify or revise this SLA at any time, and clients agree to be bound by such modifications or revisions.
 
-QuadraNet provides a network uptime service level agreement of 99.999%. This means that for any given month, we strive to provide a best-effort service that experiences no more than 5 minutes of network unreachability. Outages are credited at a rate of 5% of a client’s total monthly invoice for all affected services for each 30 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
+QuadraNet provides a network uptime service level agreement of 99.999%. This means that for any given month, we will provide a best-effort service that experiences no more than 5 minutes of network unreachability. Outages are credited at a rate of 5% of a client's total monthly invoice for all affected services for each 30 minutes of downtime experienced, up to 100% of the base monthly recurring fee of the affected services.
 
-This agreement covers QuadraNet’s internal network infrastructure, including connectivity to transit providers, routers, and switches. This SLA does not cover cabling faults and/or failures, service interruption due to server-related outages, or QuadraNet “enterprise” solutions (including, but not limited to, backups, DNS hosting, automated installations, APIs, and the null route utility).
+This SLA covers QuadraNet's internal network infrastructure, including connectivity to transit providers, routers, and switches. This SLA does not cover cabling faults and/or failures, service interruption due to server-related outages, or QuadraNet "enterprise" solutions (including, but not limited to, backups, DNS hosting, automated installations, APIs, and the null route utility).
 
-To qualify for SLA credit, QuadraNet must be notified within 24 hours of the perceived outage via email at billing@quadranet.com or by submitting a ticket via our portal, [NEO](https://neo.quadranet.com/) to the billing department. Clients must include the date, start time, end time, and a list of impacted services for any given perceived outage in order to qualify for SLA credit. QuadraNet reserves the right to withhold SLA credit to any client in “bad standing” (having current invoices outstanding for 30 or more days, having consistently late payments on previous invoices, or being otherwise in violation of QuadraNet’s Terms of Service).
+To qualify for SLA credit, QuadraNet must be notified within 24 hours of the perceived outage being restored via email at [billing@quadranet.com](mailto:billing@quadranet.com) or by submitting a ticket via our portal ([https://neo.quadranet.com](https://neo.quadranet.com/)) to the billing department. Clients must include the date, start time, end time, and a list of impacted services for any given perceived outage in order to qualify for SLA credit. QuadraNet reserves the right to withhold SLA credit to any client in "bad standing" (having current invoices outstanding for 30 or more days, having consistently late payments on previous invoices, or being otherwise in violation of QuadraNet's Terms of Service).
 
 **DATA CENTER** INGENUITY MADE SIMPLE.
 
