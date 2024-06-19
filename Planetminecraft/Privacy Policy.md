@@ -26,7 +26,7 @@ Browse [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers") [
 
 Tools [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D") [Banners](https://www.planetminecraft.com/banners/ "Banners") [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
 
-[![PMC X](https://www.planetminecraft.com/images/special/pmc_x.png)](https://www.x.com/PlanetMinecraft "Planet Minecraft X Posts!")
+[![PMC Collections](https://www.planetminecraft.com/images/special/collections.png)](https://www.planetminecraft.com/collections/?order=order_popularity&time_machine=last7d "Best Community Collections updated in past 7 days!")
 
 Community
 
@@ -36,7 +36,7 @@ Entertainment [Jams](https://www.planetminecraft.com/jams/ "Jams") [CFT Cards](h
 
 Support [Tickets](https://www.planetminecraft.com/tickets/ "Tickets") [Help](https://www.planetminecraft.com/forums/help/ "Help")
 
-[![PMC Collections](https://www.planetminecraft.com/images/special/collections.png)](https://www.planetminecraft.com/collections/?order=order_popularity&time_machine=last7d "Best Community Collections updated in past 7 days!")
+[![PMC Time Machine](https://www.planetminecraft.com/images/special/timemachine.png)](https://www.planetminecraft.com/timemachine/ "Planet Minecraft Time Machine")
 
 [LOGIN](https://www.planetminecraft.com/account/sign_in/ "Sign In") [SIGN UP](https://www.planetminecraft.com/account/create/ "Create")
 
