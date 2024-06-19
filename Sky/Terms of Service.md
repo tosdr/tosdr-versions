@@ -38,7 +38,7 @@
     
     * [Glass](https://www.sky.com/glass/)
         
-    * [Tech Specs](https://www.sky.com/glass/technical-specifications)
+    * [Tech Specs & Sizes](https://www.sky.com/glass/65-inch)
         
     * [Switching to Sky Glass](https://www.sky.com/glass/existing-customers)
         
