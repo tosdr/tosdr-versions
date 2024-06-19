@@ -278,7 +278,7 @@ Any capitalised term not defined in this DPA shall have the meaning given to it 
 |     |     |
 | --- | --- |
 | Categories of Data Subjects: | Employees, agents, advisors, consultants, freelancers of the  Controller (who are natural persons). Affiliates and Authorised Users of the Controller who access or use the Services in accordance with the terms of the Agreement. |
-| Categories of Personal Data: | The Controller may submit Personal Data to the Services, the  extent of which is determined and controlled by the Controller.  The Personal Data includes but is not limited to: <br><br>* Personal details, first name and surname, email  addresses, telephone numbers and company name of Authorised  Users of the Services. <br>* Unique identifiers such as username, account number or  password. <br>* Meta data including sent, to, from, date, time, subject,  which may include Personal Data.   <br>* IP address<br>* Geolocation based upon IP address. <br>* Information offered by Authorised Users as part of  Data Subject requests. <br>* Other data added by the Controller from time to time. |
+| Categories of Personal Data: | The Controller may submit Personal Data to the Services, the  extent of which is determined and controlled by the Controller.  The Personal Data includes but is not limited to: <br><br>* Personal details, first name and surname, email  addresses, telephone numbers and company name of Authorised  Users of the Services. <br>* Unique identifiers such as username, account number or  password. <br>* Meta data including sent, to, from, date, time, subject,  which may include Personal Data.   <br>* IP address of the website visitors of the users of the service.<br>* Geolocation based upon IP address. <br>* Information offered by Authorised Users as part of  Data Subject requests. <br>* Other data added by the Controller from time to time. |
 | Sensitive Data: | No sensitive data special category data will be processed or  transferred and shall not be contained in the content of or  attachments to, emails. |
 | The frequency of the processing  and transfer (e.g. whether the  data is transferred on a one-off or  continuous basis): | Continuous basis for the duration of the Agreement. |
 | Nature of the processing: | Processing operations include but are not limited to provision of  the Services to the Customer. |
@@ -474,15 +474,10 @@ and in either case it has first taken reasonable steps to reduce those costs or 
 
 20\. The Parties do not need the consent of any third party to make changes to this Addendum, but  any changes must be made in accordance with its terms.
 
-![Cookieyes Logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/cookieyes-logo-white.svg)
-
-### Start your compliance right away
-
-[Try for free](https://app.cookieyes.com/trial?plan=basic-monthly&ref=CYHPFB)
-
 ![G2 Badges](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/g2-badges-large.svg) ![G2 Badges](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/g2-badges-small.svg)
 
-#### Subscribe to our newsletter
+### Start your compliance right away  
+newsletter in your inbox
 
 ![loader](https://www.cookieyes.com/wp-includes/images/spinner.gif)
 
@@ -630,14 +625,16 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 For support, [contact us here](https://www.cookieyes.com/support/)
 
-* [English](#)
-    
+![Cookieyes Logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/cookieyes-logo-white.svg)
 
 * [![Instagram](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/instagram.svg)](https://www.instagram.com/cookieyeshq/)
 * [![Facebook](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/facebook.svg)](https://www.facebook.com/cookieyeshq)
 * [![Twitter](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/twitter.svg)](https://twitter.com/cookieyeshq)
 * [![Youtube](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/youtube.svg)](https://www.youtube.com/cookieyes?sub_confirmation=1)
 * [![Linkedin](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/linkedin.svg)](https://www.linkedin.com/company/cookieyeshq/)
+
+* [English](#)
+    
 
 © 2024 CookieYes. All rights reserved. CookieYes Limited is registered in the UK. Company no. 13074037.
 
