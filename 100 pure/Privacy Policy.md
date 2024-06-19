@@ -19,11 +19,11 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5676 reviews (5678)
+5680 reviews (5680)
 
-$16.00 $29.00
+£13.00 £24.00
 
-1 oz - $29 0.3 oz - $16
+1 oz - £24 0.3 oz - £13
 
 1 oz
 
@@ -41,9 +41,9 @@ CHOOSE Size
 
 85 reviews (85)
 
-$72.00
+£59.00
 
-1 oz - $72
+1 oz - £59
 
 ADD TO TOTE
 
@@ -59,9 +59,9 @@ ADD TO TOTE
 
 80 reviews (80)
 
-$20.80 $32.00
+£17.00 £26.00
 
-Default Title - $20.80
+Default Title - £17
 
 ADD TO TOTE
 
@@ -73,9 +73,9 @@ ADD TO TOTE
 
 5246 reviews (5246)
 
-$28.00 $28.00
+£23.00 £23.00
 
-Black Tea - $28 Blueberry - $28 Dark Chocolate - $28 Blackberry - $28
+Black Tea - £23 Blueberry - £23 Blackberry - £23 Dark Chocolate - £23
 
 Blueberry
 
@@ -85,7 +85,7 @@ Blackberry
 
 Dark Chocolate
 
-[NOTIFY ME](#-338769707032)
+ADD TO TOTE
 
 CHOOSE Color
 
@@ -95,11 +95,11 @@ CHOOSE Color
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2354 reviews (2354)
+2354 reviews (2355)
 
-$28.00 $28.00
+£23.00 £23.00
 
-Dark Chocolate - $28 Blackberry - $28 Black Tea - $28
+Dark Chocolate - £23 Blackberry - £23 Black Tea - £23
 
 Black Tea
 
@@ -119,9 +119,9 @@ CHOOSE Color
 
 501 reviews (501)
 
-$8.00
+£7.00
 
-Single - $8
+Single - £7
 
 ADD TO TOTE
 
@@ -133,11 +133,11 @@ ADD TO TOTE
 
 ### [Vanilla Bean Nourishing Body Cream](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
-769 reviews (770)
+769 reviews (769)
 
-$13.00 $26.00
+£11.00 £22.00
 
-Default Title - $13
+Default Title - £11
 
 ADD TO TOTE
 
@@ -151,9 +151,9 @@ ADD TO TOTE
 
 684 reviews (684)
 
-$34.00 $38.00
+£28.00 £31.00
 
-16 oz - $38 13.5 oz - $34
+16 oz - £31 13.5 oz - £28
 
 13.5 oz
 
@@ -171,9 +171,9 @@ CHOOSE Size
 
 743 reviews (743)
 
-$5.40 $11.70
+£5.00 £10.00
 
-8 oz - $11.70 1.7 oz - $5.40
+8 oz - £10 1.7 oz - £5
 
 Sale
 
@@ -197,9 +197,9 @@ CHOOSE Size
 
 964 reviews (964)
 
-$7.00 $30.00
+£6.00 £25.00
 
-Single - $7 5 Pack - $30
+Single - £6 5 Pack - £25
 
 Single
 
@@ -217,9 +217,9 @@ CHOOSE Size
 
 28 reviews (28)
 
-$7.00 $28.00
+£6.00 £23.00
 
-Single - $7 5 Pack - $28
+Single - £6 5 Pack - £23
 
 Single
 
@@ -237,9 +237,9 @@ CHOOSE Size
 
 364 reviews (364)
 
-$7.00
+£6.00
 
-Single - $7
+Single - £6
 
 ADD TO TOTE
 
@@ -251,9 +251,9 @@ ADD TO TOTE
 
 88 reviews (88)
 
-$25.00
+£21.00
 
-Default Title - $25
+Default Title - £21
 
 ADD TO TOTE
 
@@ -265,9 +265,9 @@ ADD TO TOTE
 
 503 reviews (504)
 
-$48.00
+£39.00
 
-Default Title - $48
+Default Title - £39
 
 ADD TO TOTE
 
@@ -283,9 +283,9 @@ ADD TO TOTE
 
 1033 reviews (1033)
 
-$64.00
+£52.00
 
-Default Title - $64
+Default Title - £52
 
 ADD TO TOTE
 
@@ -297,9 +297,9 @@ ADD TO TOTE
 
 1987 reviews (1987)
 
-$27.00 $27.00
+£22.00 £22.00
 
-Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
+Blackest - £22 Dark Cacao - £22 Gleaming Pewter - £22
 
 Gleaming Pewter
 
@@ -311,7 +311,7 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[29% off
+[28% off
 
 ![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
@@ -321,9 +321,9 @@ CHOOSE Color
 
 38 reviews (38)
 
-$25.00 $35.00
+£21.00 £29.00
 
-Default Title - $25
+Default Title - £21
 
 ADD TO TOTE
 
@@ -335,9 +335,9 @@ ADD TO TOTE
 
 351 reviews (351)
 
-$7.00 $32.00
+£6.00 £26.00
 
-Single - $7 5 Pack - $32
+Single - £6 5 Pack - £26
 
 5 Pack
 
@@ -355,11 +355,11 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-827 reviews (827)
+829 reviews (829)
 
-$24.70 $38.00
+£20.00 £31.00
 
-Default Title - $24.70
+Default Title - £20
 
 ADD TO TOTE
 
@@ -373,15 +373,15 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-207 reviews (207)
+208 reviews (208)
 
-$40.60 $58.00
+£33.00 £47.00
 
-Default Title - $40.60
+Default Title - £33
 
 ADD TO TOTE
 
-[60% off
+[57% off
 
 ![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
@@ -391,9 +391,9 @@ ADD TO TOTE
 
 492 reviews (492)
 
-$3.20 $8.00
+£3.00 £7.00
 
-Default Title - $3.20
+Default Title - £3
 
 ADD TO TOTE
 
@@ -407,9 +407,9 @@ ADD TO TOTE
 
 286 reviews (286)
 
-$11.70 $26.00
+£10.00 £22.00
 
-Default Title - $11.70
+Default Title - £10
 
 ADD TO TOTE
 
@@ -423,9 +423,9 @@ ADD TO TOTE
 
 336 reviews (336)
 
-$11.70 $26.00
+£10.00 £22.00
 
-Default Title - $11.70
+Default Title - £10
 
 ADD TO TOTE
 
@@ -437,11 +437,11 @@ ADD TO TOTE
 
 ### [Honey Almond Nourishing Body Cream](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
-371 reviews (371)
+372 reviews (372)
 
-$11.70 $26.00
+£10.00 £22.00
 
-Default Title - $11.70
+Default Title - £10
 
 ADD TO TOTE
 
@@ -455,9 +455,9 @@ ADD TO TOTE
 
 531 reviews (531)
 
-$36.40 $52.00
+£30.00 £43.00
 
-Default Title - $36.40
+Default Title - £30
 
 ADD TO TOTE
 
@@ -469,15 +469,15 @@ ADD TO TOTE
 
 ### [Cucumber Cloud Foam Cleanser](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
-109 reviews (109)
+110 reviews (110)
 
-$18.00 $30.00
+£15.00 £25.00
 
-Default Title - $18
+Default Title - £15
 
 ADD TO TOTE
 
-[30% off
+[29% off
 
 ![blood-orange-cleansing-balm](https://www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_239x254.jpg?v=1696526483)](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
@@ -487,9 +487,9 @@ ADD TO TOTE
 
 848 reviews (849)
 
-$26.60 $38.00
+£22.00 £31.00
 
-Default Title - $26.60
+Default Title - £22
 
 ADD TO TOTE
 
@@ -503,9 +503,9 @@ ADD TO TOTE
 
 71 reviews (71)
 
-$19.00
+£16.00
 
-Default Title - $19
+Default Title - £16
 
 ADD TO TOTE
 
@@ -517,9 +517,9 @@ ADD TO TOTE
 
 74 reviews (74)
 
-$25.00
+£21.00
 
-Default Title - $25
+Default Title - £21
 
 ADD TO TOTE
 
@@ -533,9 +533,9 @@ ADD TO TOTE
 
 1522 reviews (1522)
 
-$30.00 $30.00
+£25.00 £25.00
 
-Black Tea - $30 Dark Chocolate - $30 Blackberry - $30
+Black Tea - £25 Dark Chocolate - £25 Blackberry - £25
 
 Black Tea
 
@@ -549,9 +549,9 @@ CHOOSE Color
 
 Subtotal
 
-$0.00
+£0.00
 
-##### $0.00
+##### £0.00
 
 Get 20% Off on Your Birthday!
 
@@ -559,11 +559,11 @@ Taxes and shipping calculated at checkout
 
 Checkout
 
-or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100percentpure.com/s/files/1/0648/1955/files/output-onlinepngtools_5a519f58-c1c2-40c9-a3f7-2fdd4d395767.png?v=1698173346&em-origin=cdn.shopify.com)
+or 4 interest-free payments of **£0.00** with ![Klarna Logo](https://www.100percentpure.com/s/files/1/0648/1955/files/output-onlinepngtools_5a519f58-c1c2-40c9-a3f7-2fdd4d395767.png?v=1698173346&em-origin=cdn.shopify.com)
 
  
 
-[Happy Father's Day, All Orders + $75 Get $15 OFF USE CODE: DAD](https://www.100percentpure.com/collections/shop-all "Happy Father's Day, All Orders + $75 Get $15 OFF USE CODE: DAD")
+[Buy One Get One 50% OFF ALL Masks! USE CODE: MASKFUN](https://www.100percentpure.com/collections/masks "Natural Face Masks")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
@@ -1318,34 +1318,6 @@ social-tiktok social-youtube
 * [![twitter](https://www.100percentpure.com/cdn/shop/files/twitter-logo-black_21x21.png?v=279678279924392486)](https://twitter.com/100percentpure)
 * [](https://www.youtube.com/channel/UCuDO-8MnXXrUFX1VkRJPCuA)
 * [![threads](https://www.100percentpure.com/cdn/shop/t/1440/assets/threads-logo_21x21.png?v=32845774038795131141698664715)](https://www.threads.net/@100percentpure)
-
-currency USD USD currency CAD CAD currency GBP GBP [MORE](#currencyPopWindow)
-
-[Canada Shipping FAQ](https://www.100percentpure.com/pages/help-faq#CaShipping)
-
-Got it
-
-Choose Your Currency
-
-currency USD United States dollar (USD)
-
-currency CAD Canadian dollar (CAD)
-
-currency BGN Bulgarian lev (BGN)
-
-currency DKK Danish krone (DKK)
-
-currency EUR Euro (EUR)
-
-currency HUF Forint (HUF)
-
-currency PLN Polish złoty (PLN)
-
-currency GBP Pound sterling (GBP)
-
-currency SEK Swedish krona (SEK)
-
-currency CHF Swiss franc (CHF)
 
 #### ABOUT
 
