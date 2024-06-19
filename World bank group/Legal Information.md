@@ -2,7 +2,7 @@
 
 [Skip to Main Navigation](#main)
 
-[![The World Bank logo](/content/dam/wbr/logo/logo-wb-header-en.svg "The World Bank logo")](https://www.worldbank.org/)
+[![The World Bank Group logo](/content/dam/wbr/logo/logo-wb-header-en.svg "The World Bank Group logo")](https://www.worldbank.org/)
 
 Global Search
 
