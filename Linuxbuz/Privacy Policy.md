@@ -2,7 +2,7 @@
 
 [Top Menu](#)
 
-June 9, 2024
+June 19, 2024
 
 * [ABOUT US](https://linuxbuz.com/about-us)
 * [PRIVACY POLICY](https://linuxbuz.com/privacy-policy)
@@ -11,17 +11,13 @@ June 9, 2024
 * [ASK ME](https://linuxbuz.com/ask-me)
 * [CONTACT](https://linuxbuz.com/contact)
 
-[![Linuxbuz logo](https://linuxbuz.com/wp-content/uploads/2017/03/cropped-onlinelogomaker-030217-1626-0813-1.png)
-
-![Linuxbuz logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20320%20106%22%3E%3C/svg%3E)](https://linuxbuz.com/)
+[![Linuxbuz logo](https://linuxbuz.com/wp-content/uploads/2017/03/cropped-onlinelogomaker-030217-1626-0813-1.png)](https://linuxbuz.com/)
 
 [LinuxBuz](https://linuxbuz.com/)
 
 Tutorials for Linux
 
-[![](https://linuxbuz.com/wp-content/uploads/2024/05/FiveM-Banner-715-x-223.png)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20715%20223%22%3E%3C/svg%3E)](https://billing.rocketnode.com/aff.php?aff=48)
+[![](https://linuxbuz.com/wp-content/uploads/2024/05/FiveM-Banner-715-x-223.png)](https://billing.rocketnode.com/aff.php?aff=48)
 
 Main Menu
 
