@@ -7,7 +7,7 @@
 * [Sign In](https://www.rescuetime.com/login)
 * [Try For Free](https://www.rescuetime.com/unified/users/new)
 
-**Most recent version: July 10, 2023.**
+**Most recent version: June 12, 2024.**
 
 By using RescueTime, you are agreeing to the collection and use of your personal information for the purposes of providing you our product services as described below. We will notify all active accounts of any significant changes to this policy.
 
@@ -35,6 +35,12 @@ Account information includes email address (verification optional), city, state,
 RescueTime records information about the currently active application or website on your computer. We record for processing the following information: 1) for time analysis: application name, web site URL, window title, start time of use, end time of use and 2) for distinguishing you and your device: device login name (your system user name), device name, device operating system version, and sometimes the manufacturer. For some inputs, the public internet address you are operating from is saved, for your security (and ours), and for troubleshooting. Like all activity information, it is discarded with account deletion.
 
 We do not (and never will) collect keystrokes, form input, screenshots, window or page body content, or anything nefarious. Before storage for your reports, URLs are trimmed to the site name and sometimes top level directory when a site has distinct web apps. Query strings are discarded. Site controls allow you to selectively delete and ignore forever any item you prefer not be stored.
+
+### How long is your data retained?
+
+1. All your data is destroyed in its entirety when you delete your account, except account activity logs required for business audit records. This process can take up to 3 days to protect against accidental deletion. Users can request immediate deletion by contacting support.
+2. You can delete your own data at any time on our website in the Data & Privacy section of account settings.
+3. Free account user data older than 15 months is automatically deleted on a continuous basis.
 
 ### Cookies and Log Files
 
