@@ -377,27 +377,10 @@ Email: [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection)
 * [Domains Database](https://dataforseo.com/databases/whois-database)
 * [Backlink Database](https://dataforseo.com/databases/backlink-database)
 * [Business Listings Database](https://dataforseo.com/databases/business-listings-database)
-[](https://dataforseo.com/databases/business-listings-database)
 
-[](https://dataforseo.com/databases/business-listings-database)
+#### Solutions
 
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[#### Solutions](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)
-
-[](https://dataforseo.com/databases/business-listings-database)* [](https://dataforseo.com/databases/business-listings-database)[Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+* [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
 * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
 * [SEO Software](https://dataforseo.com/solutions/seo-software)
 * [Media](https://dataforseo.com/solutions/media)
