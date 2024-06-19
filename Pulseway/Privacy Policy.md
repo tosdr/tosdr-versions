@@ -259,19 +259,19 @@ With regard to the California Consumer Privacy Act of 2018 Section 1798.120, Pul
 
 If you have questions or concerns, you should first contact the Pulseway Privacy Administrator at: dpo@pulseway.com; 6-9 Trinity Street, Dublin 2, Ireland.
 
-THE PLATFORM
+### THE PLATFORM
 
 [Monitoring and Management](https://www.pulseway.com/v2/it-management-software)[Business Management](https://www.pulseway.com/v2/msp-platform/business-management-software)[Antivirus and Endpoint Protection](https://www.pulseway.com/antivirus)[Network Operations Center](https://www.pulseway.com/noc-services)[Integrations](https://www.pulseway.com/integrations)[Security](https://www.pulseway.com/managed-antivirus-endpoint-protection)
 
-SOLUTIONS
+### SOLUTIONS
 
 [For MSPs](https://www.pulseway.com/v2/msp-platform)[For Internal IT](https://www.pulseway.com/v2/it-infrastructure-monitoring)[For Higher Education](https://www.pulseway.com/higher-education)[Remote Control](https://www.pulseway.com/v2/remotedesktop)[Server Management](https://www.pulseway.com/v2/server-management-monitoring-software)[Patch Management](https://www.pulseway.com/v2/patch-management)[Mobile App](https://www.pulseway.com/v2/mobile-app)
 
-RESOURCES
+### RESOURCES
 
 [API](https://www.pulseway.com/api)[Community Forum](http://forum.pulseway.com/)[Video Tutorials](https://www.pulseway.com/rmm-psa-training)[Help Center](https://intercom.help/pulseway/en/)[Resource Center](https://www.pulseway.com/resource-centre)[IT Heroes Podcast](https://www.pulseway.com/resources/it-heroes-tech-podcast)[Case Studies](https://www.pulseway.com/casestudies)[Downloads](https://www.pulseway.com/downloads)[Contact Support](https://www.pulseway.com/contact-support)
 
-COMPANY
+### COMPANY
 
 [About Pulseway](https://www.pulseway.com/about)[Partners](https://www.pulseway.com/partners)[Newsroom](https://www.pulseway.com/blog?Filter=News)[Contact Us](https://www.pulseway.com/contact-us)
 
