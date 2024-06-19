@@ -14,7 +14,7 @@ Headspace Privacy Policy
 
 * * *
 
-**Effective:** January 1st, 2024
+**Effective:** June 17, 2024
 
 If you are visually impaired, have another disability, or seek support in other languages, you may access this Privacy Policy by emailing us at help@headspace.com.
 
@@ -190,7 +190,9 @@ The following entities are included under Headspace’s DPF certification and ad
 * Ginger.io, Inc.
 * Ginger.io of California Medical P.C.
 
-If you have any questions or concerns regarding our personal information collection, use, and sharing practices as described in this Privacy Policy you may reach us using emailing help@headspace.com. We will investigate the matter and resolve any issues, if we can. In the event that we are unable to resolve your issues, you may be able to invoke binding arbitration, under certain conditions and as permitted by the EU-U.S. DPF, its UK Extension, or the Swiss-U.S. DPF, by contacting our U.S.-based third party dispute resolution provider (free of charge) at [https://go.adr.org/eu-us\_dpf\_annexi.html](https://go.adr.org/eu-us_dpf_annexi.html). Headspace is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+If you have any questions or concerns regarding our personal information collection, use, and sharing practices as described in this Privacy Policy you may reach us using emailing help@headspace.com. We will investigate the matter and resolve any issues, if we can. In compliance with the EU-U.S. DPF, its UK Extension, and the Swiss-U.S. DPF, Headspace commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, its UK Extension, and the Swiss-U.S. DPF to the International Centre for Dispute Resolution/American Arbitration Association (ICDR/AAA), an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) for more information or to file a complaint. The services of the ICDR/AAA are provided at no cost to you.
+
+In the event that we are unable to resolve your issues through the above channels, you may be able to invoke binding arbitration, under certain conditions and as permitted by the EU-U.S. DPF, its UK Extension, or the Swiss-U.S. DPF. For more information, visit the [Data Privacy Framework website](https://www.dataprivacyframework.gov/). Headspace is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 Headspace is mindful of its responsibility and potential liability for onward transfers of personal data to third parties where Headspace deems such transfers necessary and those transfers are subject to the applicable EU-U.S. DPF, its UK Extension, or the Swiss-U.S. DPF.
 
