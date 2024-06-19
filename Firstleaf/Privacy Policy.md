@@ -1,5 +1,4 @@
 You need to enable JavaScript to run this site.
------------------------------------------------
 
 [](https://www.firstleaf.club/accessibility "Accessibility Statement")
 
@@ -16,7 +15,7 @@ About
 Privacy Policy
 ==============
 
-Last Updated: 06/12/2023
+Last Updated: 06.07.2024
 
 Welcome to Firstleaf! This Privacy Policy describes how Penrose Hill, dba Firstleaf (“**Firstleaf**”, “**we**”, “**us**”, “**our**”) collects, uses, stores, and shares your information when: (1) you access and use our website located at [www.firstleaf.com](https://www.firstleaf.com/) or other websites and/or applications owned and operated by us (“**Sites**”); (2) you purchase our products or services (“**Products**”); (3) you communicate with us in any manner (“**Communications**”); and/or (4) when we interact with certain third parties, such as our service providers (“**Third Parties**”).
 
@@ -24,6 +23,8 @@ Acknowledgment
 --------------
 
 **BY ACCESSING AND/OR USING OUR SITES OR PRODUCTS, OR BY COMMUNICATING WITH US IN ANY MANNER, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THIS PRIVACY POLICY.**
+
+**THE SITES MAY USE SESSION REPLAY COOKIES TO BETTER UNDERSTAND HOW YOU USE OUR SITE. PLEASE SEE COOKIES AND RELATED TECHNOLOGIES BELOW FOR MORE INFORMATION.**
 
 What Information Do We Collect & How Do We Collect It?
 ------------------------------------------------------
@@ -69,7 +70,7 @@ How Do We Share Your Information?
 ---------------------------------
 
 * **With Your Consent**. We may disclose, share, or make available your information with your consent, which may be obtained in writing, online, through “click-through” agreements, when you accept our terms for our Sites, orally (including over the telephone), or by other means. For example, if you purchase Products with a credit card and have them shipped to your home, you consent to the disclosure of your name and mailing address to our third-party shipping service providers, and of your credit card number to the credit card processor to authorize the transaction and to the bank to collect payment.
- * **With Service Providers & Business Partners**. We may disclose, share, or make available your information with Third Parties, such as service providers, affiliates and subsidiaries, business partners, credit / debit card processing partners, partners that facilitate billing, shipping, and customer service, third-party auditors and law firms, marketing and advertising networks (including those that provide ad measurement services), internet service providers, data analytics providers, companies that help debug and identify and repair errors that may impair the functionality of our Sites, and third parties that help protect against malicious, deceptive, fraudulent, or illegal activity.
+ * **With Service Providers & Business Partners**. We may disclose, share, or make available your information with Third Parties, such as service providers, affiliates and subsidiaries, business partners, credit / debit card processing partners, partners that facilitate billing, shipping, and customer service, third-party auditors and law firms, marketing service providers and advertising networks (including those that provide ad measurement services, and SMS text messages on our behalf), internet service providers, data analytics providers, companies that help debug and identify and repair errors that may impair the functionality of our Sites, and third parties that help protect against malicious, deceptive, fraudulent, or illegal activity.
  * **In A Business Transfer**. We may disclose, share, or make available your information as part of a business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third parties as a business asset in the transaction.
  * **For Legal Process & Protection**. We may disclose, share, or make available your information to satisfy any law, regulation, legal process, governmental request, or where we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: (1) enforce or apply agreements, or initiate, render, or bill for use of the Sites; (2) protect our rights or interests, property or safety or that of others; (3) in connection with claims, disputes, or litigation - in court or elsewhere; (4) protect users of our Sites and other carriers, providers, or partners from fraudulent, abusive, unlawful, or otherwise improper use of our Sites; (5) facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government.
 
@@ -83,20 +84,16 @@ Our Sites may use cookies, beacons, pixel tags, scripts, and other similar techn
  * **What Types Of Cookies Do We Use?**
     * **Necessary Cookies**. These cookies are necessary for you to browse the Sites and use their features, such as accessing secure areas of the Sites. Without these cookies, certain aspects of the Sites may not be available to you.
     * **Preferences Cookies**. These cookies collect information about how you have used the Sites in the past and allow the Sites to remember the choices you have made. These cookies allow us to improve how the Sites work for you and tailor the Sites to your preferences.
-    * **Statistics Cookies**. These cookies collect information about how you use the Sites, such as which pages you most often visit on the Sites, the time you spend on the Sites, which links you click on, and any issues encountered. These cookies help us understand how visitors interact with the Sites. All information collected is aggregated and do not identify you.
+    * **Statistics Cookies**. These cookies collect information about how you use the Sites, such as which pages you most often visit on the Sites, the time you spend on the Sites, which links you click on, and any issues encountered when using the Sites. These cookies help us understand how visitors interact with the Sites. All information collected is aggregated and do not identify you.
+    * **Session Replay Cookies**. These are cookies that collect information about your actions when using the Sites, such as specific actions performed on the Sites and how you navigated webpages.
     * **Marketing Cookies**. These cookies track your online activity to help deliver advertisements that are relevant to you and your interests and measure the effectiveness of the advertising campaigns. They also limit how many times you see a certain advertisement. We may share the information collected through these cookies with others, such as advertisers.
-
-**Beacons**. Our Sites, and some of our e-mail communications, may from time to time contain small electronic files known as beacons (also known as web beacons, clear GIFs, pixel tags, single-pixel GIFS) that permit us, for example, to count users who have visited those pages or opened an email communication, and for other related statistical analysis. Beacons in email marketing campaigns allow us to track your responses and your interests in our content, offerings, and Sites. You may use the tools in your device to disable these technologies as well.
+ * **Beacons**. Our Sites, and some of our e-mail communications, may from time to time contain small electronic files known as beacons (also known as web beacons, clear GIFs, pixel tags, single-pixel GIFS) that permit us, for example, to count users who have visited those pages or opened an email communication, and for other related statistical analysis. Beacons in email marketing campaigns allow us to track your responses and your interests in our content, offerings, and Sites. You may use the tools in your device to disable these technologies as well.
+ 
 
 Links To Third Party Sites
 --------------------------
 
 Our Sites, from time to time, may contain links to third-party websites and services. Please note that these links are provided for your convenience and information, and may operate independently from us and have their own privacy policies and/or notices. You are strongly encouraged to review such policies or notices. We do not endorse or make any representations or warranties concerning, and will not in any way be liable for, any informational content, products, services, software, or other materials available on other websites, even if one or more pages of the other websites are framed within, or linked to, a page of our Sites.
-
-Do Not Track
-------------
-
-Our Sites may, from time to time, collect information about your online activities, overtime time and across our Sites. Third parties may also collect information about your online activities, over time and across different internet websites, online or cloud computing services, online applications, or mobile applications. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Sites do not currently change the way they operate based upon detection of a “Do Not Track” or similar signal.
 
 How Do We Store & Protect Your Information
 ------------------------------------------
@@ -118,18 +115,31 @@ Your Choices
 
 We provide you with the ability to exercise certain controls and choices about how we collect, use, share, and store your information.
 
-Please note, for some of these rights (such as the Right to Access and Right to Delete), we may take steps to verify your identity by matching the information you provide with your request with the information we have on file about you. Depending on the sensitivity of the information at issue, we may utilize more stringent verification methods, including but not limited to requiring you to sign a declaration under penalty of perjury.
-
-To submit any of the requests below, or have a request submitted by your representative, please submit your request to [\[email protected\]](https://www.firstleaf.club/cdn-cgi/l/email-protection) or call us toll-free at 1-800-461-7203 to submit a request.
-
-* **Right of Access**. Depending on where you live, you may have a right to ask that we disclose to you the categories and in some cases specific information we have collected about you in the 12 months preceding the date of your request, or as otherwise required under applicable law, including information about from where we collected this information and how it has been shared.
- * **Right to Delete**. Depending on where you live, you may have the right to ask that we delete your information, subject to appropriate legal exceptions such as, but not limited to, if the information is necessary to complete a transaction with you, detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, comply with the law, or to use internally for purposes aligned with your expectations.
- * **Right to Opt-Out of the Sale of Personal Information**. If you are a resident of California, you have a right to opt-out of the sale of your personal information. Although we do not sell your personal information in the traditional sense, we do share some of your information, such as your IP address and other identifiers, with third-party advertising partners which may constitute a sale under California law. To exercise this right, you may send an e-mail to [\[email protected\]](https://www.firstleaf.club/cdn-cgi/l/email-protection) or visit **Do Not Sell My Personal Information**.
- * **Right to Non-Discrimination**. We will not discriminate against you in any way if you choose to exercise your rights under this section and applicable law.
- * **Changing Cookie / Related Technology Settings**. To manage the cookies on our Sites, please see our Cookie Manager Tool. In addition, web browsers allow some control of most cookies through browser settings. To find out more about cookies, including how to manage and delete cookies through browser settings, visit [allaboutcookies.org](http://www.allaboutcookies.org/). Some web browsers provide settings that allow a user to reject cookies or to alert a user when a cookie is placed on the user’s computer, tablet or mobile device. Most mobile devices also offer settings to reject mobile device identifiers. Although users are not required to accept cookies or mobile device identifiers, blocking or rejecting them may prevent access to some features available through the Sites. In addition to adjusting your browser and device settings, as outlined above, you may also control how cookies and related technologies are set and used on your device by visiting the following sites:
-    * [http://networkadvertising.org/](http://networkadvertising.org/)
-    * [http://optout.aboutads.info/](http://optout.aboutads.info/)
-    * [http://youradchoices.com/](http://youradchoices.com/)
+1. Account
+    -------
+    
+    You may access, update, or remove certain information that you have provided by accessing your account and making changes to your account information. You may also request changes by sending an email to the email address set out in the “Contact Us” section below. We may require additional information from you to verify your identity. Please note that we will retain and use information about you as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+    
+2. Communications.
+    ---------------
+    
+    You may opt out of receiving promotional emails from us at any time by following the removal instructions in the specific Communication that you receive, or by emailing us at the email address set out in the “Contact Us” below with the word “UNSUBSCRIBE” in the subject field of the email. Please note that your opt-out is only effective for the email address used to send the opt-out email.
+    
+3. Cookies and Other Tracking Technologies
+    ---------------------------------------
+    
+    * **Cookies**. To manage the cookies on our Sites, please see our Cookie Manager Tool. In addition, web browsers allow some control of most cookies through browser settings. To find out more about cookies, including how to manage and delete cookies through browser settings, visit  [allaboutcookies.org](https://allaboutcookies.org/). Some web browsers provide settings that allow a user to reject cookies or to alert a user when a cookie is placed on the user’s computer, tablet or mobile device. Most mobile devices also offer settings to reject mobile device identifiers. Although users are not required to accept cookies or mobile device identifiers, blocking or rejecting them may prevent access to some features available through the Sites. In addition to adjusting your browser and device settings, as outlined above, you may also control how cookies and related technologies are set and used on your device by visiting the following sites:
+        * [http://networkadvertising.org/](http://networkadvertising.org/)
+        * [http://optout.aboutads.info/](http://optout.aboutads.info/)
+        * [http://youradchoices.com/](http://youradchoices.com/)
+    * **Do Not Track**. Our Sites may, from time to time, collect information about your online activities, overtime time and across our Sites. Third parties may also collect information about your online activities, over time and across different internet websites, online or cloud computing services, online applications, or mobile applications. Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Sites do not currently change the way they operate based upon detection of a “Do Not Track” or similar signal.
+4. Legal Rights
+    ------------
+    
+    Depending on where you reside, you may have certain rights in relation to your information.
+    
+    * **California Residents**: If you are resident in California, please see the “California Residents: California Privacy Act (CCPA)” section below to understand your legal rights and the section “Exercising Legal Right Requests” below to understand how to exercise your legal rights.
+    * **Other Specific U.S. Residents**: If you are resident in Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia please see the “Additional Disclosures for Certain U.S. Residents” section below and the section “Exercising Legal Right Requests” below to understand how to exercise your legal rights.
 
 California Residents
 --------------------
@@ -147,10 +157,10 @@ California Residents
 
 Please note, you can designate an authorized agent to make the below requests on your behalf. When you use an authorized agent, you must provide the authorized agent with written permission to do so, and, in certain circumstances, we may ask you to verify your own identity directly with us. We may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf.
 
-* **Right of Access**: You have a right to request that we disclose, up to two times per year, what personal information we’ve collected about you. The process for exercising this right is described above in [Your Choices](#your_choices).
-* **Right to Delete**. You have a right to request deletion your personal information, subject to certain exceptions. The process for exercising this right is described above in [Your Choices](#your_choices).
-* **Right to Correct**. You have a right to ask that we correct the personal information it has about you, subject to certain exceptions. The process for exercising this right is described above in [Your Choices](#your_choices).
-* **Right to Opt-Out of the Sale or Sharing of Your Personal Information**. You have a right to opt-out of the sale or sharing of your personal information. The process for exercising this right is described at Do Not Sell or Share My Personal Information.
+* **Right of Access**: You have a right to request that we disclose, up to two times per year, what personal information we’ve collected about you. The process for exercising this right is described in Exercising Legal Right Requests below.
+* **Right to Delete**. You have a right to request deletion your personal information, subject to certain exceptions. The process for exercising this right is described in Exercising Legal Right Requests below.
+* **Right to Correct**. You have a right to ask that we correct the personal information it has about you, subject to certain exceptions. The process for exercising this right is described in Exercising Legal Right Requests below.
+* **Right to Opt-Out of the Sale or Sharing of Your Personal Information**. You have a right to opt-out of the sale or sharing of your personal information. The process for exercising this right is described at [Do Not Sell or Share My Personal Information](https://www.firstleaf.club/do-not-sell).
 * **Right to Non-Discrimination**. You have a right to exercise the above rights without being discriminated against.
 
 ### Notice of Collection
@@ -193,9 +203,9 @@ The following is a list of the categories of personal information we have disclo
 * **Audio, Electronic, Visual, Thermal, and Related Information**: See above.
 * **Inferences**: See above.
 
-### **Notice of Sale and Sharing**
+### Notice of Sale and Sharing
 
-We “sell” and “share” your personal information through the use of digital advertising through our Sites. Specifically, we make available certain of your online identifiers and other persistent online identifiers with advertising and marketing partners that may be considered a “sale” or “sharing” of your personal information, as defined under California law.  We don’t sell or share the personal information or sensitive personal information of any California resident who is 16 years or younger. To learn more, please see Do Not Sell or Share My Personal Information.
+We “sell” and “share” your personal information through the use of digital advertising through our Sites. Specifically, we make available certain of your online identifiers and other persistent online identifiers with advertising and marketing partners that may be considered a “sale” or “sharing” of your personal information, as defined under California law.  We don’t sell or share the personal information or sensitive personal information of any California resident who is 16 years or younger. To learn more, please see [Do Not Sell or Share My Personal Information](https://www.firstleaf.club/do-not-sell).
 
 California’s “Shine in the Light” law
 -------------------------------------
@@ -219,6 +229,79 @@ By providing your personal information when signing-up for a discount or financi
 **Right to Withdraw**
 
 If you wish to withdraw from receiving a discount or sample, you may submit such a request by sending an e-mail to [\[email protected\]](https://www.firstleaf.club/cdn-cgi/l/email-protection) before completing your order.
+
+Additional Disclosure for Certain U.S. Residents.
+-------------------------------------------------
+
+1. Applicability of Laws
+    ---------------------
+    
+    Certain states including Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, have laws in place that may grant you additional rights with respect to your information. If such state law applies, then this section sets out your additional rights.
+    
+2. Notice of Collection
+    --------------------
+    
+    To learn more about the categories of personal information we collect about you and how we use it, please see “[What Information Do We Collect & How Do We Collect It](#what_information_do_we_collect_and_how_do_we_collect_it)” and “[How We Use Your Information](#how_do_we_use)” sections above. To learn more about the categories of third parties with whom we may share your personal information, please see the “[How Do We Share Your Information](#how_do_we_share)” section above.
+    
+3. Your Legal Rights under Applicable States
+    -----------------------------------------
+    
+    If you are a resident of Virginia, Colorado or other state where a similar law is applicable (excluding California), you have the following rights enumerated under the applicable law:
+    
+    * **Right to Know and Access**. You have a right to request that we disclose what personal information we’ve collected about you.
+    * **Right to Delete**. You have a right to request that we delete your personal information.
+    * **Right to Correct**. You have a right to ask that we correct the personal information it has about you, subject to certain exceptions.
+    * **Right to Opt-Out**. You have a right to opt-out of the sale or use of your personal information for targeted advertising or profiling.
+    * **Right to Non-Discrimination**. You have a right not to be discriminated against for the exercise of your rights described herein.
+    
+    To exercise any of these rights, please see the section entitled “Exercising Legal Right Requests” below.
+    
+    If you are a California resident, please see the section [“California Residents: California Consumer Privacy Act](#california_residents)” above.
+    
+
+Exercising Legal Right Requests
+-------------------------------
+
+1. Exercising Legal Right Requests
+    -------------------------------
+    
+    If you are a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia you may exercise your respective legal rights in accordance with the below procedures.
+    
+2. Verification Requirements
+    -------------------------
+    
+    For certain requests, we may require specific information from you to help us verify your identity and process your request. Depending on your request, we will ask for information such as your name, or an e-mail address that you have used with Firstleaf. For certain requests, we may also ask you to provide details about the most recent purchase you. If we are unable to verify your identity, we may deny your requests to know or delete.
+    
+3. Right to Know, Access and Deletion Requests
+    -------------------------------------------
+    
+    If you a resident of a state that provides you with heightened legal rights to your personal information, including California, Colorado, and Virginia, you may exercise your right to know, access or delete information through any of the following means:
+    
+    * email us at: [\[email protected\]](https://www.firstleaf.club/cdn-cgi/l/email-protection)
+    
+    In the request, please specify which right you are seeking to exercise and the scope of the request. There are certain circumstances where applicable law allows us to retain certain information and we will not be able to delete such information. In such instances, we will inform you of what information cannot be deleted and for what reason.
+    
+4. Correction Requests
+    -------------------
+    
+    You can correct information related to your account by:
+    
+    * email us at: [\[email protected\]](https://www.firstleaf.club/cdn-cgi/l/email-protection)
+5. Right to Opt-Out of Sale, Profiling, and Context-Based Behavioral Advertising
+    -----------------------------------------------------------------------------
+    
+    Although we do not sell your personal information in the traditional sense, we do share some of your information, such as your IP address and other identifiers, with third-party advertising partners which may constitute a sale or sharing for context-based advertising under certain laws. To exercise this right, you may send an e-mail to  [\[email protected\]](https://www.firstleaf.club/cdn-cgi/l/email-protection)  or visit [Do Not Sell My Personal Information](https://www.firstleaf.club/do-not-sell).
+    
+6. Authorized Agents
+    -----------------
+    
+    Certain state residents, including residents of California, Colorado, and Connecticut may designate an authorized agent to submit a request on your behalf to access or delete your personal information. To do so, you must: (1) provide that authorized agent written and signed permission to submit such request; and (2) verify your own identity directly with us. Please note, we may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf.
+    
+7. Responding to Requests
+    ----------------------
+    
+    Requests properly submitted will be responded to within the required period under applicable law. If a request is deficient, we may deny the request but will use reasonable efforts to explain the deficiency in the request so that you may correct the request. Please note that we may charge a reasonable fee for multiple requests in the same 12-month period, as permitted by applicable law.
+    
 
 Accessibility
 -------------
