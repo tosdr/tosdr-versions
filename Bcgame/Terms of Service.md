@@ -68,7 +68,7 @@ Crypto trading is not gambling by definition, therefore it is not covered by our
 
 Copyright ©2024 SUPERSELL.COM ALL RIGHTS RESERVED
 
-1BTC=$67,796.54
+1BTC=$65,078.01
 
 Top
 
