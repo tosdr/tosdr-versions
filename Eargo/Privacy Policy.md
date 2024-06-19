@@ -3,7 +3,7 @@
 Privacy Policy
 ==============
 
-Eargo, Inc. and affiliated entities (“Eargo,” “we,” “us”), is committed to respecting the privacy rights of visitors to our web site located at [https://eargo.com](https://www.eargo.com/content/eargo/us/en/home.html "Eargo"), job applicants for one or more of our open positions, customers of our services and products and the mobile applications (if any) we provide (“Service”), and individuals that work for organizations with which we do business. Please call this toll free number if you need assistance in obtaining any of the information in this policy: [1 (800) 903-6883](tel:18009036883 "phone_number"); or email us at [\[email protected\]](https://www.eargo.com/cdn-cgi/l/email-protection)
+Eargo, Inc. and affiliated entities (“Eargo,” “we,” “us”), is committed to respecting the privacy rights of visitors to our web site located at [https://www.eargo.com](https://www.eargo.com/content/eargo/us/en/home.html "Eargo"), job applicants for one or more of our open positions, customers of our services and products and the mobile applications (if any) we provide (“Service”), and individuals that work for organizations with which we do business. Please call this toll free number if you need assistance in obtaining any of the information in this policy: [1 (800) 903-6883](tel:18009036883 "phone_number"); or email us at [\[email protected\]](https://www.eargo.com/cdn-cgi/l/email-protection)
 
 What Is Personal Information
 ----------------------------
@@ -140,7 +140,7 @@ To exercise the rights above you may make the request in the following ways:
 
 * Emailing your request to [\[email protected\]](https://www.eargo.com/cdn-cgi/l/email-protection); or
 * Call us toll free at [1 (800) 903-6883](tel:18009036883 "phone_number") between 10 am and 5 pm, Monday to Friday Pacific Standard Time; or
-* Complete the online Information Rights Management request form at [https://eargo.com/datarequests](https://www.eargo.com/datarequests.html "Eargo")
+* Complete the online Information Rights Management request form at [https://www.eargo.com/datarequests](https://www.eargo.com/datarequests.html "Eargo")
 
 When you submit a request, we will verify your request and identify. You may designate an authorized agent to make a request to know or a request to delete your Personal Information by providing the authorized agent written permission to do so and by verifying your own identity with us directly. We will deny any requests from agents that do not submit proof of authorization, or if we are unable to verify your identity.
 
@@ -171,7 +171,7 @@ We review this Privacy Policy at reasonable intervals to ensure we remain consis
 Marketing Opt-Out
 -----------------
 
-We give you the option to update or remove your Personal Information from any marketing lists that we maintain. All marketing unsubscribe or opt-out requests should be sent to us at communications@eargo.com or may be made by calling [1 (800) 903-6883](tel:18009036883 "phone_number") between 10 am and 5 pm, Monday to Friday and speaking with one of our representatives, and we will process your request within a reasonable time after receipt.
+We give you the option to update or remove your Personal Information from any marketing lists that we maintain. All marketing unsubscribe or opt-out requests should be sent to us at [\[email protected\]](https://www.eargo.com/cdn-cgi/l/email-protection) or may be made by calling [1 (800) 903-6883](tel:18009036883 "phone_number") between 10 am and 5 pm, Monday to Friday and speaking with one of our representatives, and we will process your request within a reasonable time after receipt.
 
 Please note, however, that if you have purchased an Eargo device from us, we may require your Personal Information to provide you with important updates and upgrades as well as to contact you in the event of an emergency. We are therefore not able to remove your Personal Information from our system. We are also not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.
 
