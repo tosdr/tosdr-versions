@@ -154,7 +154,7 @@ Company
 
 Recent Posts
 
-[An English/Chinese teacher’s insights into effective language learning](https://ai.glossika.com/blog/katie-blackburns-story "blog") [An Overview of the Middle East's Languages | Glossika Live #1](https://ai.glossika.com/blog/an-overview-of-the-middle-easts-languages-glossika-live-1 "blog") [How I learned Finnish grammar… without studying it](https://ai.glossika.com/blog/how-i-learned-finnish-grammar-without-studying-it "blog") [Read More →](https://ai.glossika.com/blog "blog")
+[The Future of Taiwanese Hokkien in a Mandarin-Dominant Taiwan](https://ai.glossika.com/blog/the-future-of-taiwanese-hokkien-in-a-mandarin-dominant-taiwan "blog") [An English/Chinese teacher’s insights into effective language learning](https://ai.glossika.com/blog/katie-blackburns-story "blog") [An Overview of the Middle East's Languages | Glossika Live #1](https://ai.glossika.com/blog/an-overview-of-the-middle-easts-languages-glossika-live-1 "blog") [Read More →](https://ai.glossika.com/blog "blog")
 
 Get the latest news and updates!
 
