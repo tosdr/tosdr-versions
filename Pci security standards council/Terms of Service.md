@@ -184,6 +184,7 @@ Search
                 * [PCI SSC Portal](https://programs.pcissc.org/)
                 * [PCI Security Essentials](https://www.pcisecuritystandards.org/merchants/#resources)
                 * [PCI SSC Threat Center](https://www.pcisecuritystandards.org/newsroom_overview/#threat)
+                * [Brand Style Guide](https://www.pcisecuritystandards.org/brand-style-guide/)
                 
 * [About](#)
     * * * Get to know the PCI Security Standards Council.
