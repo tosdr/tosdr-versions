@@ -13,7 +13,7 @@
 * [Nosotros](https://www.mediasource.mx/nosotros)
 * [Blog](https://www.mediasource.mx/blog)
 * [Recursos](javascript:;) Show submenu for Recursos
-    * [Checklist de SEO Definitiva](https://www.mediasource.mx/checklist-definitivo-de-seo)
+    * [Checklists Marketing, Ventas y HubSpot](https://www.mediasource.mx/checklists)
     * [Reporte de Sitio Web](https://www.mediasource.mx/reporte/sitio-web)
     * [Calculadora de ROAS de publicidad](https://www.mediasource.mx/calculadora-de-retorno-de-la-inversion-publicitaria)
     * [Calculadora de ROI de HubSpot](https://www.mediasource.mx/calculadora-de-roi-hubspot)
@@ -31,7 +31,7 @@
 * [Nosotros](https://www.mediasource.mx/nosotros)
 * [Blog](https://www.mediasource.mx/blog)
 * [Recursos](javascript:;) Show submenu for Recursos
-    * [Checklist de SEO Definitiva](https://www.mediasource.mx/checklist-definitivo-de-seo)
+    * [Checklists Marketing, Ventas y HubSpot](https://www.mediasource.mx/checklists)
     * [Reporte de Sitio Web](https://www.mediasource.mx/reporte/sitio-web)
     * [Calculadora de ROAS de publicidad](https://www.mediasource.mx/calculadora-de-retorno-de-la-inversion-publicitaria)
     * [Calculadora de ROI de HubSpot](https://www.mediasource.mx/calculadora-de-roi-hubspot)
