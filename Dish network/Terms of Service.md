@@ -39,8 +39,7 @@
         
         * [Hughesnet Internet](https://wwwprod.dish.com/internet/hughesnet)
         
-    * [Outdoors RV Tailgating ![More information icon](/content/dam/dish/navelements/carat-red.svg)](https://wwwprod.dish.com/outdoor-tv/satellite-tv-for-rv) 
-        
+    * [Outdoors RV Tailgating](https://wwwprod.dish.com/outdoor-tv/satellite-tv-for-rv)
     * [International](https://wwwprod.dish.com/international-packages)
     
 * Features ![More information icon](/content/dam/dish/navelements/carat-red.svg) 
@@ -478,7 +477,7 @@ Sign Up
 ###### Dish Sites
 
 * [MyDISH](https://my.dish.com/)
-* [DishLATINO](https://wwwprod.dish.com/programming/packages/add-ons/latino)
+* [DishLATINO](https://latino.dish.com/)
 * [DISH for Business](https://wwwprod.dish.com/business)
 * [Watch DISH Anywhere](https://www.dishanywhere.com/)
 * [OnTech Smart Services](https://www.ontechsmartservices.com/)
