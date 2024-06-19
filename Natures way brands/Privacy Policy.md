@@ -2,7 +2,7 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
-Enjoy 20% off Pearls Probiotics. Now thru 6/10. Use code PEARLS20. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+[Sign up](#nw-newsletter-subscription-v2) for our mailing list and get 15% off your first order. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
 
      
 
@@ -804,11 +804,7 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 #### Promotions
 
-20% off Pearls Probiotics with code PEARLS20. Code applied at checkout.  
-
-Offer is to receive 20% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/collections/pearls](https://naturesway.com/collections/pearls)\]  using the code PEARLS20 at checkout. While Supplies Last. Offer valid from May 31st, 2024 12:00 am CST to June 10th, 2024 at 11:59 pm CST. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
-
-10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
+ 10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
 
 Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/jemma10](https://naturesway.com/jemma10)\] using the code JEMMA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CST to June 30th at 11:59 pm CST. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
 
@@ -883,6 +879,83 @@ Thank you for choosing Nature's Way.
  [![](https://cdn.onetrust.com/images/exercise-your-rights-icon.svg) Exercise Your Rights Powered by OneTrust](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963)
 
 #### Consumer Health Privacy Policy
+
+**Consumer Health Data Privacy Policy**
+
+This policy governs the websites (each a “Site”), apps (each an “App”), offline locations or services (collectively, the “Services”) owned and operated by Nature’s Way Brands, LLC, or its affiliates and subsidiaries (referred to herein as “Nature’s Way,” “we,” “us,” or “our” as applicable) that display, reference, or link to this Health Data Privacy Policy. This policy supplements the [Nature’s Way Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy) and applies to “consumer health data” subject to Washington State’s My Health My Data Act (MHMDA).
+
+**CONSUMER HEALTH DATA WE COLLECT**
+
+* Some of the products we sell and services that we provide to our customers may result in the collection of data that qualifies as “consumer health data,” as defined by the MHMDA. When we collect such data, it falls into the following categories: Products or services that may reveal information about your health-related conditions, symptoms, status, diagnoses, testing, or treatments.
+* Products or services that may reveal information about your bodily functions, vital signs, reproductive or sexual health, weight and fitness-related goals/activities, and exercise habits/goals.
+* Precise location information that could reasonably reveal your use of health services or supplies.
+* Products or services that may reveal information that could identify your attempt to seek health related services.
+
+* Other information that may be used to infer or derive data related to the above or other health information.
+
+**SOURCES OF CONSUMER HEALTH DATA**
+
+As described further in the “Collection of Information” section of the [Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy), we collect consumer health data directly from you, from your interactions with our Services, from third parties, including Affiliates, and from publicly available sources.
+
+**WHY WE COLLECT AND USE CONSUMER HEALTH DATA**
+
+We may use the categories of consumer health data described above for the following purposes:
+
+**Communicating with You.** We use consumer health data to respond to your questions and comments when you communicate with us through links or pages in the Services, such as the "Contact Us" feature.
+
+**Processing Your Transactions.** If you purchase products from us on or through the Services, we use your consumer health data to process your purchase, confirm your order, and deliver the items to you.
+
+**Administering the Services.** We use your consumer health data to administer the Services and carry out any other business activities.
+
+**Abandoned Cart.** We use technologies to help keep track of the items you put into your cart, including when you have abandoned your cart, and use this information to determine when to send a cart reminder via SMS or other channels.
+
+**Providing You with Personalized Recommendations.** If you choose to complete assessments in the Services, we will use your consumer health data to send you personalized product recommendations and other information that may be of interest to you.
+
+**Performing Analyses.** We use your consumer health data to perform business analyses or for other purposes designed to improve the quality of our business and the Services we offer.
+
+**Preventing and Detecting Fraud and Other Crimes.** We use your consumer health data to help prevent and detect fraud and other crimes that might be committed using or against the Services. We may use your consumer health data to investigate possible violations of and enforce our contracts.
+
+**Managing and Operating Our IT Systems.** We use your consumer health data to help us in troubleshooting, testing, maintaining, and protecting our IT systems, including our Sites.
+
+**Complying with Legal and Regulatory Obligations.** We use your consumer health data to comply with our legal and regulatory obligations, which arise from time to time. We may also use your consumer health data to protect our or others’ rights, privacy, safety or property, and/or that of our affiliates. We do this to protect our business assets and to comply with our legal obligations.
+
+**Promotions, Surveys, Sweepstakes, and Message Boards.** We use your consumer health data to enable you to voluntarily participate in features such as promotions, surveys, polls, sweepstakes, and message boards in the Services.
+
+**Creating Aggregate or Anonymized Information.** We use consumer health data you provide to us regarding the Services to provide product feedback to our customers in aggregated form. We may also use aggregate consumer health data to analyze general trends in the use of the Services.
+
+**As Otherwise Permitted by Law or as We May Notify You.** We may also use consumer health data you provide to us for other purposes as disclosed at the time you provide your information or otherwise with your consent.
+
+**WITH WHOM DO WE SHARE CONSUMER HEALTH DATA**
+
+As defined by MHMDA, we share consumer health data with the categories of third parties listed below. We will obtain your consent before sharing your consumer health data.  
+
+**Affiliates.** We may share your consumer health data with our Affiliates to send you promotions, information about sales and offers, and newsletters in which you have indicated interest and for legal and other business purposes.
+
+**Business Partners.** We may share your consumer health data with companies with whom we partner to offer goods or services, including jointly provided products, or sweepstakes, contests, and similar and promotions.
+
+**Competent Governmental and Public Authorities.** We may share your consumer health data with governmental authorities if we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity or a violation of our Terms and Conditions (posted at the footer of our Site) or other contracts.
+
+**Third Parties Pursuant to Legal Process.** We may share your consumer health data to the extent necessary to respond to subpoenas, court orders, or other legal process; in response to a request for cooperation from law enforcement or a government agency; or to otherwise comply with our other legal and regulatory obligations.
+
+**Other Third Parties.** We may share your consumer health data when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, including to allow us to pursue available remedies and limit the damage we may sustain. To the extent we share your consumer health data with other third parties, we will do so in accordance with MHMDA.
+
+**HOW TO EXERCISE YOUR RIGHTS**
+
+MHMDA provides covered individuals with certain rights to access, delete, or withdraw consent relating to their consumer health data, subject to certain exceptions. 
+
+If you would like to exercise the rights outlined above, please follow the prompts [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) or by email at [privacyquestion@naturesway.com](mailto:privacyquestion@naturesway.com). If you send a request by email, please write “Consumer Health Data Request” in the subject line and state which rights you seek to exercise in the body of your message. We may take steps to verify your identity before responding to your request by asking you a series of questions about your previous interactions with us.
+
+If your request to exercise a right under the MHMDA is denied, you may appeal that decision by emailing us at [privacyquestion@naturesway.com](mailto:privacyquestion@naturesway.com). If your appeal is unsuccessful, you can raise a concern or lodge a complaint with the Washington State Attorney General at [www.atg.wa.gov/file-complaint](http://www.atg.wa.gov/file-complaint) or the Nevada State Attorney General at [https://ag.nv.gov/Complaints/File\_Complaint/.](https://ag.nv.gov/Complaints/File_Complaint/)
+
+**REVISIONS TO THIS PRIVACY POLICY**
+
+We reserve the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this policy at any time. When we do, we will post the change(s) on our Services. Your continued use of our products and Services following the posting of changes to these terms means you accept these changes. If we change this policy in a material or substantive way, we will provide appropriate notice to you.
+
+**HOW TO CONTACT US**
+
+If you have any questions or concerns about this policy or the practices described herein, you may contact us by email at [privacyquestion@naturesway.com](mailto:privacyquestion@naturesway.com).
+
+Effective: March 31, 2024                   Last updated: April 15, 2024
 
 * Privacy Policy
 * Terms of Use
@@ -1328,11 +1401,7 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
-20% off Pearls Probiotics with code PEARLS20. Code applied at checkout.  
-
-Offer is to receive 20% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/collections/pearls](https://naturesway.com/collections/pearls)\]  using the code PEARLS20 at checkout. While Supplies Last. Offer valid from May 31st, 2024 12:00 am CST to June 10th, 2024 at 11:59 pm CST. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited.
-
-10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
+ 10% off Alive! Womens products with code JEMMA10. Code applied at checkout.   
 
 Offer is to receive 10% off only on the Nature’s Way merchandise displayed on \[[https://naturesway.com/jemma10](https://naturesway.com/jemma10)\] using the code JEMMA10 at checkout. While Supplies Last. Offer valid from May 01st, 9:00 am CST to June 30th at 11:59 pm CST. Excludes all Integrative Therapeutics products. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Offer is subject to change. Exclusions may apply. Void where prohibited. 
 
@@ -1401,6 +1470,83 @@ Or if you have a personal request, please complete the, Exercise My Rights form 
 Thank you for choosing Nature's Way.  
 
  [![](https://cdn.onetrust.com/images/exercise-your-rights-icon.svg) Exercise Your Rights Powered by OneTrust](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963)
+
+**Consumer Health Data Privacy Policy**
+
+This policy governs the websites (each a “Site”), apps (each an “App”), offline locations or services (collectively, the “Services”) owned and operated by Nature’s Way Brands, LLC, or its affiliates and subsidiaries (referred to herein as “Nature’s Way,” “we,” “us,” or “our” as applicable) that display, reference, or link to this Health Data Privacy Policy. This policy supplements the [Nature’s Way Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy) and applies to “consumer health data” subject to Washington State’s My Health My Data Act (MHMDA).
+
+**CONSUMER HEALTH DATA WE COLLECT**
+
+* Some of the products we sell and services that we provide to our customers may result in the collection of data that qualifies as “consumer health data,” as defined by the MHMDA. When we collect such data, it falls into the following categories: Products or services that may reveal information about your health-related conditions, symptoms, status, diagnoses, testing, or treatments.
+* Products or services that may reveal information about your bodily functions, vital signs, reproductive or sexual health, weight and fitness-related goals/activities, and exercise habits/goals.
+* Precise location information that could reasonably reveal your use of health services or supplies.
+* Products or services that may reveal information that could identify your attempt to seek health related services.
+
+* Other information that may be used to infer or derive data related to the above or other health information.
+
+**SOURCES OF CONSUMER HEALTH DATA**
+
+As described further in the “Collection of Information” section of the [Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy), we collect consumer health data directly from you, from your interactions with our Services, from third parties, including Affiliates, and from publicly available sources.
+
+**WHY WE COLLECT AND USE CONSUMER HEALTH DATA**
+
+We may use the categories of consumer health data described above for the following purposes:
+
+**Communicating with You.** We use consumer health data to respond to your questions and comments when you communicate with us through links or pages in the Services, such as the "Contact Us" feature.
+
+**Processing Your Transactions.** If you purchase products from us on or through the Services, we use your consumer health data to process your purchase, confirm your order, and deliver the items to you.
+
+**Administering the Services.** We use your consumer health data to administer the Services and carry out any other business activities.
+
+**Abandoned Cart.** We use technologies to help keep track of the items you put into your cart, including when you have abandoned your cart, and use this information to determine when to send a cart reminder via SMS or other channels.
+
+**Providing You with Personalized Recommendations.** If you choose to complete assessments in the Services, we will use your consumer health data to send you personalized product recommendations and other information that may be of interest to you.
+
+**Performing Analyses.** We use your consumer health data to perform business analyses or for other purposes designed to improve the quality of our business and the Services we offer.
+
+**Preventing and Detecting Fraud and Other Crimes.** We use your consumer health data to help prevent and detect fraud and other crimes that might be committed using or against the Services. We may use your consumer health data to investigate possible violations of and enforce our contracts.
+
+**Managing and Operating Our IT Systems.** We use your consumer health data to help us in troubleshooting, testing, maintaining, and protecting our IT systems, including our Sites.
+
+**Complying with Legal and Regulatory Obligations.** We use your consumer health data to comply with our legal and regulatory obligations, which arise from time to time. We may also use your consumer health data to protect our or others’ rights, privacy, safety or property, and/or that of our affiliates. We do this to protect our business assets and to comply with our legal obligations.
+
+**Promotions, Surveys, Sweepstakes, and Message Boards.** We use your consumer health data to enable you to voluntarily participate in features such as promotions, surveys, polls, sweepstakes, and message boards in the Services.
+
+**Creating Aggregate or Anonymized Information.** We use consumer health data you provide to us regarding the Services to provide product feedback to our customers in aggregated form. We may also use aggregate consumer health data to analyze general trends in the use of the Services.
+
+**As Otherwise Permitted by Law or as We May Notify You.** We may also use consumer health data you provide to us for other purposes as disclosed at the time you provide your information or otherwise with your consent.
+
+**WITH WHOM DO WE SHARE CONSUMER HEALTH DATA**
+
+As defined by MHMDA, we share consumer health data with the categories of third parties listed below. We will obtain your consent before sharing your consumer health data.  
+
+**Affiliates.** We may share your consumer health data with our Affiliates to send you promotions, information about sales and offers, and newsletters in which you have indicated interest and for legal and other business purposes.
+
+**Business Partners.** We may share your consumer health data with companies with whom we partner to offer goods or services, including jointly provided products, or sweepstakes, contests, and similar and promotions.
+
+**Competent Governmental and Public Authorities.** We may share your consumer health data with governmental authorities if we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity or a violation of our Terms and Conditions (posted at the footer of our Site) or other contracts.
+
+**Third Parties Pursuant to Legal Process.** We may share your consumer health data to the extent necessary to respond to subpoenas, court orders, or other legal process; in response to a request for cooperation from law enforcement or a government agency; or to otherwise comply with our other legal and regulatory obligations.
+
+**Other Third Parties.** We may share your consumer health data when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, including to allow us to pursue available remedies and limit the damage we may sustain. To the extent we share your consumer health data with other third parties, we will do so in accordance with MHMDA.
+
+**HOW TO EXERCISE YOUR RIGHTS**
+
+MHMDA provides covered individuals with certain rights to access, delete, or withdraw consent relating to their consumer health data, subject to certain exceptions. 
+
+If you would like to exercise the rights outlined above, please follow the prompts [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) or by email at [privacyquestion@naturesway.com](mailto:privacyquestion@naturesway.com). If you send a request by email, please write “Consumer Health Data Request” in the subject line and state which rights you seek to exercise in the body of your message. We may take steps to verify your identity before responding to your request by asking you a series of questions about your previous interactions with us.
+
+If your request to exercise a right under the MHMDA is denied, you may appeal that decision by emailing us at [privacyquestion@naturesway.com](mailto:privacyquestion@naturesway.com). If your appeal is unsuccessful, you can raise a concern or lodge a complaint with the Washington State Attorney General at [www.atg.wa.gov/file-complaint](http://www.atg.wa.gov/file-complaint) or the Nevada State Attorney General at [https://ag.nv.gov/Complaints/File\_Complaint/.](https://ag.nv.gov/Complaints/File_Complaint/)
+
+**REVISIONS TO THIS PRIVACY POLICY**
+
+We reserve the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this policy at any time. When we do, we will post the change(s) on our Services. Your continued use of our products and Services following the posting of changes to these terms means you accept these changes. If we change this policy in a material or substantive way, we will provide appropriate notice to you.
+
+**HOW TO CONTACT US**
+
+If you have any questions or concerns about this policy or the practices described herein, you may contact us by email at [privacyquestion@naturesway.com](mailto:privacyquestion@naturesway.com).
+
+Effective: March 31, 2024                   Last updated: April 15, 2024
 
       
 
@@ -1490,8 +1636,6 @@ Nature's Way Brands | 2024 All Rights Reserved
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 #### Hello there, looks like you're located in Canada.
 
