@@ -235,7 +235,6 @@ Optery uses third-party vendors and service providers. You acknowledge and agree
 | Google Ads | Marketing | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Google Marketing Platform | Analytics, Marketing, Tag Management | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Google Workspace | Internal Communications, Customer Support | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
-| Hotjar | Product Analytics | USA | [help.hotjar.com/hc/en-us/categories/360003405813](https://help.hotjar.com/hc/en-us/categories/360003405813) |
 | Hubspot | Customer Relationship Management | USA | [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy) |
 | Linkedin | Marketing | USA | [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
 | Mailgun | Customer Analytics | USA | [https://www.mailgun.com/legal/privacy-policy/](https://www.mailgun.com/legal/privacy-policy/) |
@@ -383,7 +382,7 @@ Optery helps you remove your personal information from data brokers.
 HQ: San Francisco Bay Area  
 Incorporation: C Corporation, Delaware, USA
 
-#### Product
+Product
 
 [Sign up](https://app.optery.com/signup)
 
@@ -401,7 +400,7 @@ Incorporation: C Corporation, Delaware, USA
 
 [API for Partners](https://www.optery.com/api/)
 
-#### Support
+Support
 
 [Help Desk / FAQ](https://help.optery.com/)
 
@@ -411,7 +410,7 @@ Incorporation: C Corporation, Delaware, USA
 
 [Promo Codes](https://www.optery.com/optery-promo-codes/)
 
-#### Learn
+Learn
 
 [Getting Started](https://www.optery.com/getting-started/)
 
@@ -433,7 +432,7 @@ Incorporation: C Corporation, Delaware, USA
 
 [Sitemap](https://www.optery.com/sitemap/)
 
-#### Company
+Company
 
 [About Us](https://www.optery.com/about-us/)
 
