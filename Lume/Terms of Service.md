@@ -416,6 +416,6 @@ Snag it while supplies last →](https://lumedeodorant.com/products/starter-pack
 * [Terms of Service](https://lumedeodorant.com/terms-of-service)
 * [Privacy Policy](https://lumedeodorant.com/privacy-policy)
 * [Accessibility](https://lumedeodorant.com/our-commitment-to-accessibility)
-* [Do Not Sell or Share My Personal Information](https://forms.gle/XwzXFBUysFkiX1z99)
+* [Do Not Sell or Share My Personal Information](https://preferences.lumedeodorant.com/)
 
 © 2024 [Lume](https://lumedeodorant.com/). Made in the USA.
