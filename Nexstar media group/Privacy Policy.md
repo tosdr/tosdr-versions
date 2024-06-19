@@ -339,10 +339,10 @@ Post navigation
 
 ### News
 
-* [NewsNation Original Documentary “Reagan: Portrait of a Presidency” To Air Saturday, June 8 at 9 PM ET](https://www.nexstar.tv/newsnation-original-documentary-reagan-portrait-of-a-presidency/)
-* [Nexstar Honors the Heroes of “D-Day” with Documentary Airing on Its Local TV Stations and Cable News Network, NewsNation](https://www.nexstar.tv/nexstar-honors-dday-heroes-2024/)
-* [25 Nexstar Television Stations Win 35 Regional Edward R. Murrow Awards For Outstanding Journalism And Exceptional Locally Produced News Programming](https://www.nexstar.tv/nexstar-wins-35-regional-murrow-awards-2024/)
-* [(WRBL-TV) Nexstar Media Charitable Foundation donates $2,500 to Valley Rescue Mission](https://www.nexstar.tv/wrbl-nexstar-charitable-foundation-donates-valley-rescue-mission-2024/)
+* [Nexstar Names Tim Ingram as Vice President and General Manager of its Broadcast and Digital Operations in Baton Rouge, Louisiana](https://www.nexstar.tv/nexstar-names-tim-ingram-as-vp-and-gm-in-baton-rouge-la/)
+* [Nexstar Media Charitable Foundation Donates $3,000 To Embassy Theatre Foundation In Ft. Wayne, IN](https://www.nexstar.tv/nexstar-charitable-foundation-donates-to-embassy-theatre-foundation-in-ft-wayne/)
+* [(WBOY-TV) Mountaineer Boys State receives largest single donation in its history](https://www.nexstar.tv/wboy-tv-mountaineer-boys-state-receives-largest-single-donation-in-its-history/)
+* [Nexstar Names Lisa Taylor as Senior Vice President of Digital Advertising Sales](https://www.nexstar.tv/nexstar-names-lisa-taylor-svp-digital-advertising-sales/)
 
 ### More
 
