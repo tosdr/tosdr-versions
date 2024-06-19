@@ -85,8 +85,7 @@ by checkout out, I'm agreeing to the [Terms and Conditions](https://stoveguard.c
 
 ### FridgeGuard
 
-_limited to Samsung models only  
-_Custom Cut Your Exact  
+Custom Cut Your Exact  
 Refrigerator Model
 
 [Buy Now](https://stoveguard.com/pages/product-landing-fridgeguard)
@@ -120,8 +119,7 @@ Refrigerator Model
     
     ### FridgeGuard
     
-    _limited to Samsung models only  
-    _Custom Cut Your Exact  
+    Custom Cut Your Exact  
     Refrigerator Model
     
     [Buy Now](https://stoveguard.com/pages/product-landing-fridgeguard)
