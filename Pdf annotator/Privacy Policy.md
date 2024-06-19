@@ -27,11 +27,11 @@ Sign up for free PDF tips, tricks & discounts:
 
 ##### Latest News[](https://www.pdfannotator.com/en/rss "RSS")
 
+* [FAQ: "Print to PDF Annotator" from Excel does not work any more (June 2024)](https://www.pdfannotator.com/en/news/2024/06/358/faq-quotprint-to-pdf-annotatorquot-from-excel-does-not-work-any-more-june-2024)
 * [PDF Annotator 9 Maintenance Release (Build 920) Available](https://www.pdfannotator.com/en/news/2024/05/357/pdf-annotator-9-maintenance-release-build-920-available)
 * [New articles: Dimensioning and measuring distances and areas](https://www.pdfannotator.com/en/news/2024/05/356/new-articles-dimensioning-and-measuring-distances-and-areas)
 * [PDF Annotator 9 Maintenance Release (Build 919) Available](https://www.pdfannotator.com/en/news/2024/05/355/pdf-annotator-9-maintenance-release-build-919-available)
 * [We have revised our Privacy Policy.](https://www.pdfannotator.com/en/news/2024/03/354/we-have-revised-our-privacy-policy.)
-* [PDF Annotator 9 Maintenance Release (Build 916) Available](https://www.pdfannotator.com/en/news/2023/09/353/pdf-annotator-9-maintenance-release-build-916-available)
 
 * [All News](https://www.pdfannotator.com/en/news)
 
