@@ -106,15 +106,15 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 [Why does UserBenchmark have a bad reputation on reddit?](#tff_1)
 
-Marketers operate thousands of reddit accounts. We expose their spiel so they attack our reputation.
+Marketers operate thousands of reddit accounts. Our benchmarks expose their spiel so they attack our reputation.
 
 [Why don’t PC brands endorse UserBenchmark?](#tff_2)
 
-Brands make boatloads of money on flagships like the 4090 and 14900KS. We help users get similar real-world performance for less.
+Brands make boatloads on flagships like the 4090 and 14900KS. We help users get similar real-world performance for less money.
 
 [Why don’t youtubers promote UserBenchmark?](#tff_3)
 
-We don't pay youtubers, so they don't praise us. Moreover, our data exposes youtubers that promote overpriced/inferior products.
+We don't pay youtubers, so they don't praise us. Moreover, our data obstructs youtubers who promote overpriced or inferior products.
 
 [Why does UserBenchmark have negative trustpilot reviews?](#tff_4)
 
@@ -124,21 +124,13 @@ We don't pay youtubers, so they don't praise us. Moreover, our data exposes yout
 
 Instead of pursuing brands for sponsorship, we've spent 13 years publishing real-world data for users.
 
-The Best.
+The Best
 
 | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)CPU](https://cpu.userbenchmark.com/) | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)GPU](https://gpu.userbenchmark.com/) | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)SSD](https://ssd.userbenchmark.com/) |
 | --- | --- | --- |
-| [Intel Core i5-12600K](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120) [€160](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120#Prices "Hot Ebay price") | [Nvidia RTX 4060](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150) [€382](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150#Prices "Live Amazon price") | [Crucial MX500 250GB](https://ssd.userbenchmark.com/Crucial-MX500-250GB/Rating/3951) [€42](https://ssd.userbenchmark.com/Crucial-MX500-250GB/Rating/3951#Prices "Live Amazon price") |
-| [Intel Core i5-12400F](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121) [€105](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121#Prices "Hot Ebay price") | [Nvidia RTX 4060-Ti](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149) [€395](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149#Prices "Hot Amazon price") | [Samsung 850 Evo 120GB](https://ssd.userbenchmark.com/Samsung-850-Evo-120GB/Rating/3484) [€232](https://ssd.userbenchmark.com/Samsung-850-Evo-120GB/Rating/3484#Prices "Live Amazon price") |
-| [Intel Core i5-13600K](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134) [€304](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134#Prices "Live Amazon price") | [Nvidia RTX 4070](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148) [€596](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148#Prices "Live Amazon price") | [Samsung 870 Evo 250GB](https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094) [€43](https://ssd.userbenchmark.com/Samsung-870-Evo-250GB/Rating/4094#Prices "Live Amazon price") |
-
-| [![](https://www.userbenchmark.com/resources/img/loading-transp.png)HDD](https://hdd.userbenchmark.com/) | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)RAM](https://ram.userbenchmark.com/) | [![](https://www.userbenchmark.com/resources/img/loading-transp.png)USB](https://usb.userbenchmark.com/) |
-| --- | --- | --- |
-| [Seagate Barracuda 1TB (2016)](https://hdd.userbenchmark.com/Seagate-Barracuda-1TB-2016/Rating/3896) [€88](https://hdd.userbenchmark.com/Seagate-Barracuda-1TB-2016/Rating/3896#Prices "Live Amazon price") | [Corsair Vengeance LPX DDR4 3200 C16 2x8GB](https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3200-C16-2x8GB/Rating/3547) [€39](https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3200-C16-2x8GB/Rating/3547#Prices "Hot Amazon price") | [SanDisk Extreme 64GB](https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-64GB/Rating/1459) €62 |
-| [WD Blue 1TB (2012)](https://hdd.userbenchmark.com/WD-Blue-1TB-2012/Rating/1779) [€63](https://hdd.userbenchmark.com/WD-Blue-1TB-2012/Rating/1779#Prices "Live Amazon price") | [Corsair Vengeance LPX DDR4 3000 C15 2x8GB](https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-2x8GB/Rating/3546) [€55](https://ram.userbenchmark.com/Corsair-Vengeance-LPX-DDR4-3000-C15-2x8GB/Rating/3546#Prices "Hot Amazon price") | [SanDisk Extreme 32GB](https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-32GB/Rating/1466) [€37](https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-32GB/Rating/1466#Prices "Live Amazon price") |
-| [Seagate Barracuda 2TB (2016)](https://hdd.userbenchmark.com/Seagate-Barracuda-2TB-2016/Rating/3897) [€73](https://hdd.userbenchmark.com/Seagate-Barracuda-2TB-2016/Rating/3897#Prices "Live Amazon price") | [G.SKILL Trident Z DDR4 3200 C14 4x16GB](https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C14-4x16GB/Rating/3612) [€302](https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C14-4x16GB/Rating/3612#Prices "Converted price via USDEUR") | [SanDisk Ultra Fit 32GB](https://usb.userbenchmark.com/SanDisk-Ultra-Fit-USB-30-32GB/Rating/2697) [€17](https://usb.userbenchmark.com/SanDisk-Ultra-Fit-USB-30-32GB/Rating/2697#Prices "Live Amazon price") |
-
-If you make a purchase via one of these links, our site may earn a commission
+| [Intel Core i5-12600K](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120) [€160](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120#Prices "Hot Ebay price") | [Nvidia RTX 4060](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150) [€358](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150#Prices "Live Amazon price") | [WD Black SN850X M.2 2TB](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-2TB/Rating/4158) [€178](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-2TB/Rating/4158#Prices "Live Amazon price") |
+| [Intel Core i5-12400F](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121) [€105](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121#Prices "Live Ebay price") | [Nvidia RTX 4060-Ti](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149) [€444](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149#Prices "Live Amazon price") | [WD Black SN850X M.2 1TB](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-1TB/Rating/4157) [€154](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-1TB/Rating/4157#Prices "Live Ebay price") |
+| [Intel Core i5-13600K](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134) [€292](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134#Prices "Live Amazon price") | [Nvidia RTX 4070](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148) [€596](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148#Prices "Live Amazon price") | [Crucial T700 M.2 4TB](https://ssd.userbenchmark.com/Crucial-T700-M2-4TB/Rating/4165) [€532](https://ssd.userbenchmark.com/Crucial-T700-M2-4TB/Rating/4165#Prices "Live Amazon price") |
 
 ![](https://www.userbenchmark.com/resources/img/wri/creatives/assets/flame.gif) ![](https://www.userbenchmark.com/resources/img/wri/creatives/assets/flame.gif)
 
@@ -149,6 +141,8 @@ Amazon Ebay
 deals
 
 [CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiB/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiB/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiB/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiB/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiB/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiB/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiB/0)
+
+If you buy something via a price link, UserBenchmark may earn a commission
 
 [![](https://www.userbenchmark.com/resources/img/loading-transp.png)Build](https://www.userbenchmark.com/PCBuilder) [![](https://www.userbenchmark.com/resources/img/loading-transp.png)Test](https://www.userbenchmark.com/Software) [![](https://www.userbenchmark.com/resources/img/loading-transp.png)EFps](https://www.userbenchmark.com/EFps/Compare)
 
