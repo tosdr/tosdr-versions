@@ -3,11 +3,15 @@
 [![Goal.com](/img/logo.svg)](https://www.goal.com/en)
 
 * [SCORES](https://www.goal.com/en/live-scores)
+* EURO 2024
+    * Euro 2024
+        * [News](https://www.goal.com/en/european-championship/news/8tddm56zbasf57jkkay4kbf11)
+        * [Fixtures](https://www.goal.com/en/european-championship/fixtures-results/8tddm56zbasf57jkkay4kbf11)
+        * [Tables](https://www.goal.com/en/european-championship/table/8tddm56zbasf57jkkay4kbf11)
 * LATEST
     * Latest
         * [News](https://www.goal.com/en/news)
         * [Transfers](https://www.goal.com/en/category/transfers/1/k94w8e1yy9ch14mllpf4srnks)
-        * [Community](https://www.goal.com/en/category/community/1/blt932bf57a004b3fa5)
         * [Tables](https://www.goal.com/en/tables)
     * Features
         * [Opinion](https://www.goal.com/en/category/opinion/1/bltda2eefda7fac61db)
@@ -25,8 +29,10 @@
         * [UEFA Champions League](https://www.goal.com/en/uefa-champions-league/4oogyu6o156iphvdvphwpck10)
         * [UEFA Europa League](https://www.goal.com/en/uefa-europa-league/4c1nfi2j1m731hcay25fcgndq)
         * [UEFA Europa Conference League](https://www.goal.com/en/uefa-europa-conference-league/c7b8o53flg36wbuevfzy3lb10)
+        * [Copa America](https://www.goal.com/en/copa-america/45db8orh1qttbsqq9hqapmbit)
         * [MLS](https://www.goal.com/en/mls/287tckirbfj9nb8ar2k9r60vn)
         * [Saudi Pro League](https://www.goal.com/en/saudi-league/ea0h6cf3bhl698hkxhpulh2zz)
+        * [All competitions](https://www.goal.com/en/all-competitions)
     * Clubs
         * [![teams](/img/team-crest-placeholder.webp)Manchester United](https://www.goal.com/en/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh)
         * [![teams](/img/team-crest-placeholder.webp)Liverpool](https://www.goal.com/en/team/liverpool/c8h9bw1l82s06h77xxrelzhur)
