@@ -3,7 +3,7 @@
 [Jobscan Logo](https://www.jobscan.co/)
 
 * [Products](#)
-    * [Resume ScoreScore your resume in seconds](https://www.jobscan.co/resume-scanner)
+    * [Resume ScoreScore your resume in seconds](https://www.jobscan.co/resume-score)
     * [Resume Bullet Points GeneratorGenerate tailored statements about your skills](https://www.jobscan.co/resume-bullet-point-generator)
     * [AI Resume ToolUse AI to create your best resume.](https://www.jobscan.co/ai-resume)
     * [Job Tracker BoardTrack and manage your job applications and interviews.](https://www.jobscan.co/job-tracker)
@@ -82,7 +82,7 @@ Close Search
 
 Search for:  
 
-#### Platform
+Platform
 
 * [Pricing](https://app.jobscan.co/plan)
 * [Resume Optimization](https://www.jobscan.co/resume-scanner)
@@ -95,7 +95,7 @@ Search for:
 * [Tutorials](https://www.jobscan.co/jobscan-tutorial)
 * [Customer Stories](https://www.jobscan.co/blog/category/user-stories/)
 
-#### ATS Resume
+ATS Resume
 
 * [What Is An ATS?](https://www.jobscan.co/applicant-tracking-systems)
 * [How to Optimize Your Resume for ATS](https://www.jobscan.co/blog/ats-resume/)
@@ -104,20 +104,20 @@ Search for:
 * [Resume Templates](https://www.jobscan.co/resume-templates)
 * [Resume Examples](https://www.jobscan.co/resume-examples)
 
-#### Cover Letter
+Cover Letter
 
 * [How to Write a Cover Letter](https://www.jobscan.co/cover-letter-writing-guide)
 * [Cover Letter Formats](https://www.jobscan.co/cover-letter-formats)
 * [Cover Letter Templates](https://www.jobscan.co/cover-letter-templates)
 * [Cover Letter Examples](https://www.jobscan.co/cover-letter-examples)
 
-#### Linkedin
+Linkedin
 
 * [LinkedIn Profile Writing Guide](https://www.jobscan.co/linkedin-profile-writing-guide)
 * [LinkedIn Headline Examples](https://www.jobscan.co/blog/impactful-linkedin-headline-examples/)
 * [LinkedIn Summary Examples](https://www.jobscan.co/blog/linkedin-summary-examples/)
 
-#### Company
+Company
 
 * [About](https://www.jobscan.co/about)
 * [Press](https://www.jobscan.co/press)
@@ -125,7 +125,7 @@ Search for:
 * [Affiliates](https://www.jobscan.co/affiliates)
 * [Jobscan Widget](https://www.jobscan.co/partners/jobsites)
 
-#### Support
+Support
 
 * [Customer Support](https://www.jobscan.co/support)
 * [Privacy](https://www.jobscan.co/privacy)
