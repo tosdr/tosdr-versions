@@ -9,9 +9,7 @@
     
     Close Services Open Services
 * [Pricing](https://www.helpshift.com/pricing/)
-    
 * [Case Studies](https://www.helpshift.com/customers/)
-    
 * Company
     
     Close Company Open Company
@@ -207,13 +205,13 @@ AI cooling off period projected by Helpshift in 2024
 
 #### Featured Resource
 
-[![Harmonizing AI and Human Intelligence for Modern Customer Service](https://www.helpshift.com/wp-content/uploads/2024/05/Harmonizing-AI-and-Human-Intelligence-for-Modern-Customer-Service.png)](https://get.helpshift.com/helpshift-ai-guide#new_tab)
+[![Multilingual Support Guide](https://www.helpshift.com/wp-content/uploads/2024/06/Multilingual-Support-Guide-1024x649.png)](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
 **read**
 
-### [Harmonizing AI and Human Intelligence for Modern Customer Service](https://get.helpshift.com/helpshift-ai-guide#new_tab)
+### [How Multilingual Support Improves Global Customer Experiences](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
-[Read more](https://get.helpshift.com/helpshift-ai-guide#new_tab)
+[Read more](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
 [Free Trial](https://get.helpshift.com/evaluation-sign-up)
 
