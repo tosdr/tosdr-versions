@@ -4,7 +4,7 @@ Point finders for Google's Find My Device app Preorder now
 
 Products Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Login](https://app.chipolo.net/) [Download free app](https://chipolo.net/en-us/pages/freeapp) [Cart](https://chipolo.net/en-us/shop/cart) [Chipolo app](https://app.chipolo.net/)
 
-[Cart](https://chipolo.net/en-us/shop/cart) [Hamburger button - to toggle mobile menu](javascript:)
+[Store](https://chipolo.net/en-us/pages/chipolo-collection) [Cart](https://chipolo.net/en-us/shop/cart) [Hamburger button - to toggle mobile menu](javascript:)
 
 Products
 
@@ -342,88 +342,6 @@ Changes to this Privacy Policy
 We will occasionally update this Privacy Policy as necessary to protect our users, furnish current information, and respond to legal and technical changes. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on our Website prior to the change becoming effective. We encourage you to periodically review our Website for the latest information on our privacy practices.
 
 If you have any questions or concerns about our data privacy practices, or if you have any requests for resolving issues with your personal information, please contact us at [\[email protected\]](https://chipolo.net/cdn-cgi/l/email-protection). Customer support is available in English language.
-
-Your cart
-
-Free shipping applied
-
-\[\[ item.snapshot.productCategory \]\]
-
-\[\[ item.snapshot.packaging.replace('Chipolo', '') \]\] \[\[ item.snapshot.title \]\] Size: \[\[ item.snapshot.options.product\_label \]\]
-
-Remove
-
-\[\[ item.subtotal | currency \]\]
-
-\[\[ group.header \]\]
-
- 
-
-\[\[ group.item.title \]\] \[\[ group.item.title \]\]
-
-\[\[ group.item.packaging.replace('Chipolo', '') \]\] \[\[ group.item.variant.title \]\] \[\[ group.item.variant.title \]\]
-
-\[\[ variant.title \]\]
-
-* \[\[ size \]\]
-
-Size chart
-
-How many Chipolos do you want to turn into gifts?
-
-\[\[ selectedPouchQty \]\] \[\[ totalNumberOfBoxes \]\]
-
-Add to cart
-
-Save \[\[ (group.item.variant.full\_price ? group.item.variant.full\_price : 0) - group.item.variant.price | currency \]\]
-
-\[\[ group.item.variant.full\_price | currency \]\] \[\[ ( group.item.slug.includes('pouch') ? (selectedPouchQty \* group.item.variant.price) : group.item.variant.price ) | currency \]\]
-
-![](/imager/assets/images/gift-pouch-confetti-default_5ae402c9837860cd6e4f65e304b3a5fa.webp)
-
-![](/imager/assets/images/gift-pouch-confetti-in-box_5ae402c9837860cd6e4f65e304b3a5fa.webp)
-
-![](/imager/assets/images/gift-pouch-confetti-3_5ae402c9837860cd6e4f65e304b3a5fa.webp)
-
-Turn your Chipolos into a colorful gift.
-
-The gift pouch fits perfectly to one Chipolo box and can turn your multipack or Bundle into a bunch of gits in no time. Put the box with the Chipolo in, slide the tab into the designated slot and finish it with a short personal message on the pouch. Each pouch is made from paper and can hold one Chipolo box.
-
-![](/imager/assets/images/t-shirt-male_5ae402c9837860cd6e4f65e304b3a5fa.webp)
-
-![](/imager/assets/images/t-shirt-female_5ae402c9837860cd6e4f65e304b3a5fa.webp)
-
-![](/imager/assets/images/t-shirt-collar_5ae402c9837860cd6e4f65e304b3a5fa.webp)
-
-Perfect as a gift or as your personal reminder.
-
-With an illustration by the renowned Barcelona-based illustrator, Josep Puy, this t-shirt is the perfect visual reminder that will help even the most distracted person remember their keys, wallet and phone. Also, a great (and helpful) gift for your favorite forgetful person! Made from 100% organic cotton and available in sizes S-XXL.
-
-       ![](/imager/assets/images/empty-cart_6c0c164bd2b597ee32b68b8b5755bd2e_77e4c4ab8f908aa3f616b536afe3be6b.webp)      ![](/imager/assets/images/empty-cart_5472332afa344033d2bf9e7b6b9d883e_de2469bac73b001ab768767d4299e19d.webp)
-
-Your cart is empty
-
-But don't be sad! We've got you covered.
-
-Continue shopping
-
-\[\[ notification.message \]\]
-
-  
-
-Apply Remove
-
-Subtotal \[\[ cart.itemSubtotal | currency \]\] \[\[ (cart.totalPrice - cart.totalTax) | currency \]\]
-
-     
-
-Checkout
-
-![](/assets/images/payment_icon_1.svg) ![](/assets/images/payment_icon_2.svg) ![](/assets/images/payment_icon_3.svg) ![](/assets/images/payment_icon_4.svg) ![](/assets/images/payment_icon_5.svg) ![](/assets/images/payment_icon_6.svg) ![](/assets/images/payment_icon_7.svg)
-
-Or use express checkout
-
-Prices are in GBP. The purchaser is responsible for additional costs such as duties, taxes, and customs clearance fees on delivery. If the purchaser declines the goods shipped by Chipolo and the order is seized by the customs office, Chipolo is not liable for a refund of the purchaser’s order.
 
 Subscribe for exclusive updates on what’s coming next:
 
