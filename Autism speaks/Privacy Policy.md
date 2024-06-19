@@ -64,13 +64,13 @@
     * [Fundraising & events](https://www.autismspeaks.org/fundraising-events "Fundraise for Autism Speaks")
     * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=MainNav "Autism Speaks Walk")
     * [TeamUp](https://act.autismspeaks.org/site/SPageNavigator/teamup_home.html "TeamUp with Autism Speaks")
+    * [Field Day For All](https://act.autismspeaks.org/site/SPageServer?pagename=fieldday_home&s_src=AutismSpeaks.org&s_subsrc=MainNav)
     * [Social fundraising](https://www.autismspeaks.org/social-fundraising "Fundraise or donate on social media")
     
     * [Ways to give](https://www.autismspeaks.org/donate-to-autism-speaks "Ways to give to Autism Speaks")
     * [Memorial & tributes](https://autismspeaks.donorsupport.co/-/XGZUBXSZ "Make a memorial or tribute gift")
     * [Stocks](https://www.autismspeaks.org/stock-gifts "Donate stock")
     * [Workplace giving](https://www.autismspeaks.org/employee-giving "Workplace giving")
-    * [Shop](https://shop.autismspeaks.org/ "Shop Autism Speaks Merchandise")
     
     * [Advocate](https://www.autismspeaks.org/advocate "Autism Speaks Advocacy")
     
@@ -79,10 +79,19 @@
     * [Ways to engage](https://www.autismspeaks.org/ways-engage "Ways to engage your company with Autism Speaks")
     * [Meet our Partners](https://www.autismspeaks.org/meet-our-partners "We are grateful to our supporters for fueling our mission")
     
-* [¿Que es el autismo?](https://www.autismspeaks.org/que-es-el-autismo-espanol "Recursos del idioma español")
+* [¿Que es el autismo?](https://www.autismspeaks.org/que-es-el-autismo)
     
-    * [Deteccion de autismo](https://www.autismspeaks.org/deteccion-temprana-autismo "Deteccion de autismo")
+    * [Primeros signos de autismo](https://www.autismspeaks.org/primeros-signos-de-autismo)
+    * [Síntomas del autismo](https://www.autismspeaks.org/sintomas-del-autismo)
+    * [¿Qué causa el autismo?](https://www.autismspeaks.org/que-causa-el-autismo)
+    * [Signos de autismo en adultos](https://www.autismspeaks.org/signos-de-autismo-en-adultos)
+    * [Signos de autismo en mujeres y niñas](https://www.autismspeaks.org/signos-de-autismo-en-mujeres-y-ninas)
+    
+    * [Detección del autismo](https://www.autismspeaks.org/deteccion-del-autismo "Deteccion de autismo")
     * [Deteccion temprana](https://www.autismspeaks.org/deteccion-temprana "Deteccion temprana")
+    * [Criterios de diagnóstico del autismo](https://www.autismspeaks.org/criterios-de-diagnostico-del-autismo)
+    * [Niveles de autismo](https://www.autismspeaks.org/niveles-de-autismo)
+    * [Síndrome de Asperger](https://www.autismspeaks.org/sindrome-de-asperger)
     
     * [Recursos](https://www.autismspeaks.org/recursos-autismo)
     
@@ -137,13 +146,13 @@
     * [Fundraising & events](https://www.autismspeaks.org/fundraising-events "Fundraise for Autism Speaks")
     * [Walk](https://act.autismspeaks.org/site/SPageServer?pagename=walk_homepage&s_src=AutismSpeaks.org&s_subsrc=MainNav "Autism Speaks Walk")
     * [TeamUp](https://act.autismspeaks.org/site/SPageNavigator/teamup_home.html "TeamUp with Autism Speaks")
+    * [Field Day For All](https://act.autismspeaks.org/site/SPageServer?pagename=fieldday_home&s_src=AutismSpeaks.org&s_subsrc=MainNav)
     * [Social fundraising](https://www.autismspeaks.org/social-fundraising "Fundraise or donate on social media")
     
     * [Ways to give](https://www.autismspeaks.org/donate-to-autism-speaks "Ways to give to Autism Speaks")
     * [Memorial & tributes](https://autismspeaks.donorsupport.co/-/XGZUBXSZ "Make a memorial or tribute gift")
     * [Stocks](https://www.autismspeaks.org/stock-gifts "Donate stock")
     * [Workplace giving](https://www.autismspeaks.org/employee-giving "Workplace giving")
-    * [Shop](https://shop.autismspeaks.org/ "Shop Autism Speaks Merchandise")
     
     * [Advocate](https://www.autismspeaks.org/advocate "Autism Speaks Advocacy")
     
@@ -152,10 +161,19 @@
     * [Ways to engage](https://www.autismspeaks.org/ways-engage "Ways to engage your company with Autism Speaks")
     * [Meet our Partners](https://www.autismspeaks.org/meet-our-partners "We are grateful to our supporters for fueling our mission")
     
-* [¿Que es el autismo?](https://www.autismspeaks.org/que-es-el-autismo-espanol "Recursos del idioma español")
+* [¿Que es el autismo?](https://www.autismspeaks.org/que-es-el-autismo)
     
-    * [Deteccion de autismo](https://www.autismspeaks.org/deteccion-temprana-autismo "Deteccion de autismo")
+    * [Primeros signos de autismo](https://www.autismspeaks.org/primeros-signos-de-autismo)
+    * [Síntomas del autismo](https://www.autismspeaks.org/sintomas-del-autismo)
+    * [¿Qué causa el autismo?](https://www.autismspeaks.org/que-causa-el-autismo)
+    * [Signos de autismo en adultos](https://www.autismspeaks.org/signos-de-autismo-en-adultos)
+    * [Signos de autismo en mujeres y niñas](https://www.autismspeaks.org/signos-de-autismo-en-mujeres-y-ninas)
+    
+    * [Detección del autismo](https://www.autismspeaks.org/deteccion-del-autismo "Deteccion de autismo")
     * [Deteccion temprana](https://www.autismspeaks.org/deteccion-temprana "Deteccion temprana")
+    * [Criterios de diagnóstico del autismo](https://www.autismspeaks.org/criterios-de-diagnostico-del-autismo)
+    * [Niveles de autismo](https://www.autismspeaks.org/niveles-de-autismo)
+    * [Síndrome de Asperger](https://www.autismspeaks.org/sindrome-de-asperger)
     
     * [Recursos](https://www.autismspeaks.org/recursos-autismo)
     
