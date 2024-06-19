@@ -10,7 +10,7 @@ Coming soon](https://www.gentlent.com/)
 [Contact  
 Gentlent's global support is free of charge for all our customers.](https://www.gentlent.com/contact)
 
-[API Docs](https://developers.gentlent.com/)[Knowledge Base](https://support.gentlent.com/)
+[Case Studies](https://www.gentlent.com/case-studies)[Knowledge Base](https://support.gentlent.com/)
 
 [Community](https://www.gentlent.com/community)[Login](https://app.gentlent.com/)
 
@@ -104,7 +104,7 @@ Basically, the Code of Conduct is an appeal to the fundamentally correct values 
 ### Wanna learn more?  
 Get in touch today.
 
-[Contact us](https://www.gentlent.com/contact)
+[Contact us →](https://www.gentlent.com/contact)
 
 [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentg/g_white.svg)](https://www.gentlent.com/)
 
@@ -126,11 +126,11 @@ Get in touch today.
 
 #### Company
 
-[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers Soon](https://www.gentlent.com/careers)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
+[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers Soon](https://www.gentlent.com/careers)[Case Studies](https://www.gentlent.com/case-studies)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
 
 #### Company
 
-[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers Soon](https://www.gentlent.com/careers)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
+[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers Soon](https://www.gentlent.com/careers)[Case Studies](https://www.gentlent.com/case-studies)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
 
 #### [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white.svg)](https://www.gentlent.com/)
 
@@ -138,7 +138,7 @@ Gentlent™ is a software company aiming to make complex web technologies easy a
 
 [](https://www.gentlent.com/community)
 
-[](https://facebook.com/gentlent)[](https://x.com/gentlentgroup)[](https://linkedin.com/company/gentlent)[](https://github.com/gentlent)[](https://instagram.com/gentlentgroup)[](https://youtube.com/@gentlent)
+[](https://facebook.com/gentlent)[](https://x.com/gentlentgroup)[](https://linkedin.com/company/gentlent)[](https://github.com/gentlent)[](https://instagram.com/gentlentgroup)[](https://youtube.com/@gentlent)[](https://www.tiktok.com/@gentlentgroup)
 
 [![Trustify](https://app.trustify.ch/assets/media/logos/logo-light.png)](https://in.trustify.ch/gentlent)
 
