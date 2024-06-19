@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Free\* Introduction to EMDR / A Live 1 CE credit hour webinarMore Info](https://www.zurinstitute.com/webinars/free-introduction-emdr-webinar/)
+[Why You Need to Talk To Your Clients About Sex / A Live 2 CE credit hours webinarMore Info](https://www.zurinstitute.com/webinars/talk-to-your-clients-about-sex-webinar/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
