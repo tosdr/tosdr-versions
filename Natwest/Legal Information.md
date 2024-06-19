@@ -49,7 +49,8 @@ NatWest Group
             3. [Reward bank account](https://personal.natwest.com/current-accounts/reward_account.html)
             4. [Student bank account](https://personal.natwest.com/current-accounts/student_account.html)
             5. [Child & Teen bank account](https://personal.natwest.com/current-accounts/childrens-accounts.html)
-            6. [Premier bank accounts](https://personal.natwest.com/premier-banking/products/current-accounts.html)
+            6. [Joint bank account](https://personal.natwest.com/current-accounts/joint-account.html)
+            7. [Premier bank accounts](https://personal.natwest.com/premier-banking/products/current-accounts.html)
         * Already have an account with us?
             
             1. [Manage your bank account](https://personal.natwest.com/current-accounts/existing-customers.html)
@@ -64,10 +65,9 @@ NatWest Group
             1. [Switch your account to us](https://personal.natwest.com/current-accounts/switch-your-banking-to-natwest.html)
             2. [Compare bank accounts](https://personal.natwest.com/current-accounts/compare-bank-accounts.html)
             3. [What do I need to open a bank account?](https://personal.natwest.com/current-accounts/what-do-you-need-to-open-a-current-account.html)
-            4. [Overdraft eligibility checker](https://personal.natwest.com/current-accounts/overdrafts/eligibility-checker.html)
+            4. [Bank account guides](https://personal.natwest.com/current-accounts/bank-account-guides.html)
             5. [Overdraft guide](https://personal.natwest.com/current-accounts/overdrafts/what-is-an-overdraft.html)
             6. [Rates and charges](https://personal.natwest.com/current-accounts/rates-and-charges.html)
-            7. [Our lending commitments](https://personal.natwest.com/content/dam/natwest/personal/site-wide/documents/nw-our-lending-commitments.pdf)
         
     * [Mortgages](https://personal.natwest.com/mortgages.html)
         
@@ -108,21 +108,23 @@ NatWest Group
         * [Savings](javascript:void(0))
             1. [View all our savings accounts](https://personal.natwest.com/savings.html)
             2. [Digital Regular Saver](https://personal.natwest.com/savings/digital-regular-saver.html)
-            3. [Flexible saver](https://personal.natwest.com/savings/flexible-saver.html)
+            3. [Flexible Saver](https://personal.natwest.com/savings/flexible-saver.html)
             4. [Fixed Term Savings](https://personal.natwest.com/savings/fixed-term-savings-account.html)
             5. [Cash ISAs](https://personal.natwest.com/savings/isa-overview.html)
             6. [Children's savings](https://personal.natwest.com/savings/first-saver.html)
+            7. [Joint savings account](https://personal.natwest.com/savings/joint-savings-accounts.html)
         * Already have savings with us?
             
             1. [Manage your savings](https://personal.natwest.com/savings/existing-customers.html)
+            2. [Round Ups](https://personal.natwest.com/savings/tools-for-savings/round-ups.html)
         * Help with savings
             
-            1. [Round Ups](https://personal.natwest.com/savings/tools-for-savings/round-ups.html)
-            2. [Savings Goal Tool](https://personal.natwest.com/savings/tools-for-savings/savings-goal-tool.html)
-            3. [Help to Buy: ISA calculator](https://personal.natwest.com/savings/tools-for-savings/HelptoBuyISACalculator.html)
-            4. [Budget calculator](https://personal.natwest.com/life-moments/managing-your-money/budget-calculator.html)
-            5. [Joint Savings Accounts](https://personal.natwest.com/savings/joint-savings-accounts.html)
-            6. [ISA guide](https://personal.natwest.com/savings/isa-overview/isa-guides.html)
+            1. [ISA guide](https://personal.natwest.com/savings/isa-overview/isa-guides.html)
+            2. [Savings guides](https://personal.natwest.com/savings/savings-guides.html)
+            3. [Savings Goal Tool](https://personal.natwest.com/savings/tools-for-savings/savings-goal-tool.html)
+            4. [Budget Calculator](https://personal.natwest.com/life-moments/managing-your-money/budget-calculator.html)
+            5. [How to start saving money](https://personal.natwest.com/savings/how-to-start-saving-money.html)
+            6. [Bank account vs Savings account](https://personal.natwest.com/current-accounts/bank-account-vs-savings-account.html)
         
     * [Loans](https://personal.natwest.com/loans.html)
         
