@@ -1,4 +1,6 @@
-[Skip to main content](#main-content)
+![](https://px.ads.linkedin.com/collect/?pid=6239532&fmt=gif)  
+
+             Privacy Policy | Arbiter Sports                       [Skip to main content](#main-content)
 
 [![Home](/themes/custom/arbiter/logo.svg)](https://www.arbitersports.com/)
 
