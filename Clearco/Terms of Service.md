@@ -34,23 +34,9 @@ Businesses using PayPal use Clearco to fund their invoices.](https://clear.co/ec
 
 **Popular DTC sectors we fund:**
 
-[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a077518fa89ba330a_apparel.svg)
+[Apparel](https://clear.co/ecommerce-funding/apparel)[Jewelry](https://clear.co/ecommerce-funding/jewelry)[Beauty](https://clear.co/ecommerce-funding/beauty)[Health & Wellness](https://clear.co/ecommerce-funding/health-and-wellness)[Home & Garden](https://clear.co/ecommerce-funding/home-and-garden)[Technology](https://clear.co/ecommerce-funding/technology)
 
-Apparel](https://clear.co/ecommerce-funding/apparel)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42ae628bbd020e69a88_jewelry.svg)
-
-Jewelry](https://clear.co/ecommerce-funding/jewelry)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a0bd42bea7a42684f_beauty.svg)
-
-Beauty](https://clear.co/ecommerce-funding/beauty)[![heart icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a01b60a3868d8df2cb6fc_heart.svg)
-
-Health and Wellness](https://clear.co/ecommerce-funding/health-and-wellness)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a6b77c788c95124ad_home_garden.svg)
-
-Home and Garden](https://clear.co/ecommerce-funding/home-and-garden)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a2c99909fc75be1e1_technology.svg)
-
-Technology](https://clear.co/ecommerce-funding/technology)[![](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/6615a42a43e48a7d5869889a_pets.svg)
-
-Pets](https://clear.co/ecommerce-funding/pet)[![cart icon](https://cdn.prod.website-files.com/65fde10e62e6a7603e9221cc/660a014ca2dd5862e91fbcbf_cart.svg)
-
-Food and Beverage](https://clear.co/ecommerce-funding/food-and-beverage)
+[Pets](https://clear.co/ecommerce-funding/pet)[Footwear](https://clear.co/ecommerce-funding/footwear)[Travel](https://clear.co/ecommerce-funding/travel)[Grocery Delivery](https://clear.co/ecommerce-funding/grocery)[Food and Beverage](https://clear.co/ecommerce-funding/food-and-beverage)[Subscription Boxes](https://clear.co/ecommerce-funding/subscription-boxes)
 
 Company
 
@@ -104,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6658e3609845baba1d89c29b_clearco-funding-fractional-cfo-growth-partners.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/666a5448f9f1762bb1429cc7_clearco-live-question-answer-fintech.png)
 
-###### How Fractional CFOs Leverage Invoice and other Funding for Ecommerce Brands
+###### Clearco is hosting a LIVE Q&A with our Founder Success team
 
-[Read now >](https://clear.co/blog/how-fractional-cfos-leverage-invoice-and-other-funding-for-ecommerce-brands)
+[Read now >](https://clear.co/blog/clearco-is-hosting-ama-ecommerce-funding)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
