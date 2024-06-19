@@ -1,9 +1,9 @@
-[![](/resource/1713404305000/FRCS_FAQ/img/logo.png)](http://www.uniqlo.com/id/)
+[![](/resource/1718755388000/FRCS_FAQ/img/logo.png)](http://www.uniqlo.com/id/)
 
 [Help](https://faq-id.uniqlo.com/?l=en_US)
 ==========================================
 
- [![Help](/resource/1713404305000/FRCS_FAQ/img/logo.png) UNIQLO Help](https://faq-id.uniqlo.com/?l=en_US)
+ [![Help](/resource/1718755388000/FRCS_FAQ/img/logo.png) UNIQLO Help](https://faq-id.uniqlo.com/?l=en_US)
 =========================================================================================================
 
 Search by category
@@ -75,7 +75,7 @@ Search by category
 
  English Bahasa
 
-  [![](/resource/1713404305000/FRCS_FAQ/img/icn_nav-sp_search_black.svg?orgId=00D7F000004Ap7V)](#)   
+  [![](/resource/1718755388000/FRCS_FAQ/img/icn_nav-sp_search_black.svg?orgId=00D7F000004Ap7V)](#)   
 
 1. [Help](https://faq-id.uniqlo.com/)
 ＞ /4. [Other](#)
@@ -351,8 +351,10 @@ Contact UNIQLO Indonesia
 
  ![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png) CHAT SUPPORT
 
-* Our IQ Chatbot support is available 24/7 to answer your frequently asked questions in a chat format. Live Chat Support is available Mon-Sun, 9 am - 6 pm
-* Please note that our IQ Chatbot support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
+* Click "CHAT SUPPORT" button to open a window on the page to start chatting with our ChatBot
+* Please note that our IQ Chatbot Support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
+* In the case our IQ Chatbot Support is unable to answer your inquiry, one of our Customer Support members will assist you further.  
+    IQ Chat Support Operating Hours: 9 am - 6 pm(Including weekends and Public Holidays)
 
   
 
@@ -373,8 +375,10 @@ Inquiry
 
  ![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png) CHAT SUPPORT
 
-* Our IQ Chatbot support is available 24/7 to answer your frequently asked questions in a chat format. Live Chat Support is available Mon-Sun, 9 am - 6 pm
-* Please note that our IQ Chatbot support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
+* Click "CHAT SUPPORT" button to open a window on the page to start chatting with our ChatBot
+* Please note that our IQ Chatbot Support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
+* In the case our IQ Chatbot Support is unable to answer your inquiry, one of our Customer Support members will assist you further.  
+    IQ Chat Support Operating Hours: 9 am - 6 pm(Including weekends and Public Holidays)
 
 [By Email](https://faq-id.uniqlo.com/contactusen/)
 
@@ -391,4 +395,4 @@ Monday - Sunday 9:00am - 18:00pm
 
 COPYRIGHT (C) UNIQLO CO. LTD ALL RIGHTS RESERVED.
 
-[![](/resource/1713404305000/FRCS_FAQ/img/icn_backtotop.svg?orgId=00D7F000004Ap7V)](#pagetop)
+[![](/resource/1718755388000/FRCS_FAQ/img/icn_backtotop.svg?orgId=00D7F000004Ap7V)](#pagetop)
