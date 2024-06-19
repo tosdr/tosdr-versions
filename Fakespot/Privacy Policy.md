@@ -536,6 +536,6 @@ Your name\*
 Your email\*  
 
 Subject\*  
-Select One General Question - Website General Question - Mobile Apps General Question - Chrome Extension User Feedback Analysis Inquiry Product Not Available for Analysis Media Request Fakespot Chat Others
+Select One General Question - Website General Question - Mobile Apps General Question - Chrome Extension Account Deletion User Feedback Analysis Inquiry Product Not Available for Analysis Media Request Fakespot Chat Others
 
 Your message\*
