@@ -1,5 +1,7 @@
          [Skip to content](#main-content)
 
+[Prime Day. Prime Choice for Your Health! Dante Genome Test for €199](https://dantelabs.com/products/whole-genome-sequencing)
+
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
 * [](https://www.instagram.com/dantelabs_official/ "Instagram")
