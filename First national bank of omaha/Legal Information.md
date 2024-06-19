@@ -154,6 +154,8 @@ Skip to main content
             
         * [Transportation Banking](https://www.fnbo.com/commercial-banking/transportation-logistics "Transportation Banking")
             
+        * [Loan Syndications](https://www.fnbo.com/commercial-banking/loan-syndications "Loan Syndications")
+            
         
     * Services
         
@@ -314,6 +316,8 @@ New to Online Banking?
 New to Business Banking?
 
 [Enroll Now](https://www.banking.fnbo.com/CommercialWeb/enroll/enroll-form)
+
+Our branches will be closed on Wednesday, June 19 in observance of Juneteenth.
 
 FNBO Privacy Notice
 ===================
