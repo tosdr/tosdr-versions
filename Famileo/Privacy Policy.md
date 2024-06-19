@@ -16,7 +16,7 @@ OK
 
 [](https://www.famileo.com/famileo/en-US/) [Home](https://www.famileo.com/famileo/en-US/)
 
-[![Famileo](/bundles/famileoweb/images/logo_famileo_RVB.svg?v10-0)](https://www.famileo.com/famileo/en-US/)
+[![Famileo](/bundles/famileoweb/images/logo_famileo_RVB.svg?v10-1)](https://www.famileo.com/famileo/en-US/)
 
 Privacy policy
 ==============
@@ -29,7 +29,7 @@ This personal data processing policy aims to inform the user (subscriber, loved 
 
 This document is available to read and download in PDF format [here](https://www.famileo.com/famileo/en-US/privacy-policy.pdf).
 
- ![1. General provisions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-0) 1. General provisions
+ ![1. General provisions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-1) 1. General provisions
 
 a. Legal framework - compliance with the GDPR, French law, and other applicable laws
 
@@ -172,7 +172,7 @@ For example, we use the services of various third parties to facilitate provisio
   
 We may share your personal and private data with these service providers when they are subject to obligations in accordance with this Privacy Policy and any other appropriate privacy (as GDPR) and security measure, provided that such third parties use your personal and private data only on our behalf and according to our instructions.
 
- ![2. Specific provisions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-0) 2. Specific provisions
+ ![2. Specific provisions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-1) 2. Specific provisions
 
 a. Management of relationships with our users
 
@@ -234,7 +234,7 @@ Legal basis:
 This processing of personal data is based on the consent of the data subject (Article 6 (1) (a) of the GDPR). The request for data with a contractual nature: the data subject is not obliged to provide this data.  
 If the data subject does not provide the data or withdraws consent to the data processing, he or she will not be able to receive information from our organization, our products and services.
 
- ![3. Conclusions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-0) 3. Conclusions
+ ![3. Conclusions](/bundles/web/img/icon/faq_item/placeholder.svg?v10-1) 3. Conclusions
 
 If you have any questions about this Privacy Policy, how we collect or process your personal information, how to exercise your rights, or any other aspect of our privacy practices, please feel free to contact us. You can contact us at any time using the following email address: [dpo@famileo.com](http://dpo@famileo.com/) or by mail to FAMILEO (Personal data), 4 Avenue Louis Martin, 35400 Saint-Malo, France.  
   
@@ -244,13 +244,13 @@ If we modify this policy in a manner that we, at our sole discretion, consider t
   
 Most recent update of this document: **March 29th, 2024.**
 
-![](/bundles/web/img/icon/banner/social-network.svg?v10-0)  
+![](/bundles/web/img/icon/banner/social-network.svg?v10-1)  
 Private and secure family network
 
-![](/bundles/web/img/icon/banner/clean-network.svg?v10-0)  
+![](/bundles/web/img/icon/banner/clean-network.svg?v10-1)  
 Network guaranteed free of advertising and reselling of data
 
-![](/bundles/web/img/icon/banner/private-data.svg?v10-0)  
+![](/bundles/web/img/icon/banner/private-data.svg?v10-1)  
 The user retains full ownership over their data.
 
 ### Any questions on our privacy policy ?
