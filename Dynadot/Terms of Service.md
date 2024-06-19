@@ -4,7 +4,7 @@
 
 Voulez-vous Dynadot enfrançais?[OUI](https://www.dynadot.com/fr/terms-of-use)
 
-[Get 25% off when you register a premium .CO domain until 6/10/2024, no code needed!](https://www.dynadot.com/domain/co?utm_source=Promobar&utm_campaign=CO%20Premium%20Promobar%20June%202024&utm_medium=co%20premium&drefid=4504)
+[⚡️ FLASH SALE ⚡️ Register 1st year .NET domains for only $3.49 with coupon code FLASHYNET until 6/21/2024 23:59 EST!](https://www.dynadot.com/domain/net?utm_source=Promobar&utm_campaign=NET%20Promobar%20June%202024&utm_medium=net%20flash&drefid=4532)
 
 EN
 
@@ -122,7 +122,7 @@ Support
 
 Help Center
 
-**Chat** : Busy
+**Chat** : Online
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -268,7 +268,7 @@ Support
 
 Help Center
 
-Chat: Busy
+Chat: Online
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
