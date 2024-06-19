@@ -4,7 +4,7 @@ Mobile
 
 Internet
 
-[TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🔥 Hot Deals](https://www.yallo.ch/fr/deals)
+[TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🔥 SUMMER BLACK FRIDAY](https://www.yallo.ch/fr/summer-blackfriday)
 
 [0800 00 48 48](tel:0800004848)
 
@@ -324,7 +324,7 @@ Quick Links
 
 [Information roaming](https://www.yallo.ch/fr/roaming)
 
-[Frais de service](https://sunrise-yallo.cdn.prismic.io/sunrise-yallo/c064d262-0488-430d-9d07-f0861953fadb_YMK-479_yallo_Service_Gebuhren_Dokument_fr.pdf)
+[Frais de service](https://www.yallo.ch/terms)
 
 [Rapporter un cas de fraude](https://www.yallo.ch/fr/fraud)
 
