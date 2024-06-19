@@ -28,10 +28,6 @@
         * [Monitoring & Feedback](https://www.kamiapp.com/solutions/monitoring-and-feedback/)
         * [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
         * [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
-    * [By Subject](#)
-        * [ELL](https://www.kamiapp.com/solutions/english-language-learners/)
-        * [Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
-        * [STEM](https://www.kamiapp.com/solutions/stem/)
 * [Resources](#)
     * [Certification](https://www.kamiapp.com/certified/)
     * [Academy](https://www.kamiapp.com/kami-academy/)
@@ -73,10 +69,6 @@ Menu
         * [Monitoring & Feedback](https://www.kamiapp.com/solutions/monitoring-and-feedback/)
         * [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
         * [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
-    * [By Subject](#)
-        * [ELL](https://www.kamiapp.com/solutions/english-language-learners/)
-        * [Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
-        * [STEM](https://www.kamiapp.com/solutions/stem/)
 * [Resources](#)
     * [Certification](https://www.kamiapp.com/certified/)
     * [Academy](https://www.kamiapp.com/kami-academy/)
@@ -116,10 +108,6 @@ Menu
         * [Monitoring & Feedback](https://www.kamiapp.com/solutions/monitoring-and-feedback/)
         * [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
         * [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
-    * [By Subject](#)
-        * [ELL](https://www.kamiapp.com/solutions/english-language-learners/)
-        * [Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
-        * [STEM](https://www.kamiapp.com/solutions/stem/)
 * [Resources](#)
     * [Certification](https://www.kamiapp.com/certified/)
     * [Academy](https://www.kamiapp.com/kami-academy/)
@@ -180,14 +168,6 @@ BY USE CASE
 [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
 
 [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
-
-BY SUBJECT
-
-[English language learners](https://www.kamiapp.com/solutions/english-language-learners/)
-
-[Reading & writing](https://www.kamiapp.com/solutions/reading-and-writing/)
-
-[STEM](https://www.kamiapp.com/solutions/stem/)
 
 LEARN
 
@@ -551,7 +531,7 @@ And **Kami Limited** in New Zealand
 
 ![](/wp-content/uploads/2023/05/Kami-Logo.png)
 
-Bring learning to life
+Add a little Kami Magic to your classroom
 
 [Try for free](https://web.kamihq.com/web/viewer.html)
 
@@ -584,14 +564,6 @@ BY ROLE
 [Academic leader](https://www.kamiapp.com/solutions/academic-leader/)
 
 [Technology leader](https://www.kamiapp.com/solutions/technology-leader/)
-
-BY SUBJECT
-
-[ELL](https://www.kamiapp.com/solutions/english-language-learners/)
-
-[Reading & writing](https://www.kamiapp.com/solutions/reading-and-writing/)
-
-[STEM](https://www.kamiapp.com/solutions/stem/)
 
 BY USE CASE
 
@@ -708,14 +680,6 @@ BY USE CASE
 [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
 
 [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
-
-BY SUBJECT
-
-[ELL](https://www.kamiapp.com/solutions/english-language-learners/)
-
-[Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
-
-[STEM](https://www.kamiapp.com/solutions/stem/)
 
 COMMUNITY
 
