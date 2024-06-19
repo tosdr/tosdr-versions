@@ -6,9 +6,9 @@
 * [Marketing](https://southwarknews.co.uk/advertising/)
 * [Our Story](https://southwarknews.co.uk/our-story/)
 
-[![Southwark News](https://southwarknews.co.uk/wp-content/uploads/2022/07/SN-Logo-250px.jpg)](https://southwarknews.co.uk/)
+[![Southwark News](http://southwarknews.co.uk/wp-content/uploads/2022/07/SN-Logo-250px.jpg)](https://southwarknews.co.uk/)
 
-* [](https://southwarknews.co.uk/)
+* [](http://southwarknews.co.uk/)
 * [News](https://southwarknews.co.uk/category/news/)
     
     * [All](https://southwarknews.co.uk/category/news/)
@@ -19,41 +19,41 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Council Leader Kieron Williams (far left) and Leader of the Opposition Victor ChamberlainCouncil Leader Kieron Williams (far left) and Leader of the Opposition Victor Chamberlain](https://southwarknews.co.uk/wp-content/uploads/2024/06/Council-Leader-Kieron-Williams-far-left-and-Leader-of-the-Opposition-Victor-Chamberlain-e1717516680652-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+    [![Ark Globe Academy host the fair every year.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-11.39-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
     
-    ### [Southwark Pride March to feature LGBTQ+ speeches and drag shows](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+    ### [Free family fair with a ‘mini-beach’ and chance to win a laptop in Elephant](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
     
-    [![East Street Market (Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-07-06-2024-at-12.48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
     
-    ### [New play about East Street Market in the ’50s is coming to Southwark Playhouse](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+    ### [Southwark Council refers self to social housing watchdog over inadequate electrical safety checks](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
     
-    [![(The South London Wine Fair 2023)](https://southwarknews.co.uk/wp-content/uploads/2024/06/web-7-2-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/festival-in-south-london-where-you-can-taste-as-many-wines-as-you-like/)
+    [![From left - Catherine Dawkins Green candidate, Aarti Joshi Tory candidate, Chris French Lib Dem candidate and Florence Eshalomi Labour candidate.](https://southwarknews.co.uk/wp-content/uploads/2024/06/From-left-Catherine-Dawkins-Green-candidate-Aarti-Joshi-Tory-candidate-Chris-French-Lib-Dem-candidate-and-Florence-Eshalomi-Labour-candidate-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
     
-    ### [Festival in south London where you can ‘taste as many wines as you like’](https://southwarknews.co.uk/area/crystal-palace/festival-in-south-london-where-you-can-taste-as-many-wines-as-you-like/)
+    ### [Candidates for Vauxhall and Camberwell Green set out their views on housing crisis at Waterloo hustings](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
     
-    [![A photo of the House of Commons taken in 2019. Credit: Catherine BebbingtonA photo of the House of Commons taken in 2019. Credit: Catherine Bebbington](https://southwarknews.co.uk/wp-content/uploads/2024/06/A-photo-of-the-House-of-Commons-taken-in-2019.-Credit_-Catherine-Bebbington-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/what-are-the-bookies-odds-for-southwarks-parliamentary-seats/)
+    [![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
     
-    ### [What are the bookies’ odds for Southwark’s parliamentary seats?](https://southwarknews.co.uk/area/southwark/what-are-the-bookies-odds-for-southwarks-parliamentary-seats/)
+    ### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/01/Ambulance.jpg)](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+    [![Glory says council contractors trashed her home after failing to fix her mould problem in 2020. Images: Glory Uhunarabona](https://southwarknews.co.uk/wp-content/uploads/2024/06/Glory-says-council-contractors-trashed-her-home-after-failing-to-fix-her-mould-problem-in-2020.-Images-Glory-Uhunarabona-2-360x180.png)](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
     
-    ### [Four including 11-year-old girl rushed to hospital after ‘funfair ride malfunction’ at Lambeth Country Show](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+    ### [Black mould left children with nosebleeds and repair workers did £4,000 damage in eight-year housing nightmare, Bermondsey mum says](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
     
-    [![Protestors from Tulse Hill Estate Unites demonstrating outside Lambeth Town Hall in Brixton, in May. Photo from High Trees](https://southwarknews.co.uk/wp-content/uploads/2024/06/Protestors-from-Tulse-Hill-Estate-Unites-demonstrating-outside-Lambeth-Town-Hall-in-Brixton-in-May.-Photo-from-High-Trees-360x180.jpg)](https://southwarknews.co.uk/news/housing/estate-residents-call-for-independent-inspection-after-100-year-old-buildings-has-widespread-mould-and-damp/)
+    [![The team proudly sporting their new shirts.](https://southwarknews.co.uk/wp-content/uploads/2024/06/image-1-e1718703256591-360x180.jpeg)](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
     
-    ### [Estate residents call for independent inspection after 100-year-old buildings has ‘widespread mould and damp’](https://southwarknews.co.uk/news/housing/estate-residents-call-for-independent-inspection-after-100-year-old-buildings-has-widespread-mould-and-damp/)
+    ### [Bermondsey football club chuffed after £3k donation](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
     
-    [![Stock Aitken Waterman (pictured) were this year's winners.](https://southwarknews.co.uk/wp-content/uploads/2024/06/1708711985682-e1717684829787-360x180.jpg)](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-image-360x180.png)](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
     
-    ### [Why we started our own Blue Plaque scheme for Southwark](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    ### [New school meals programme to put healthy, locally-sourced food on Southwark children’s tables](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
     
-    [![Beenie Man performs at City Splash Festival 2024. Credit: Crudshotss](https://southwarknews.co.uk/wp-content/uploads/2024/06/Beenie-Man-City-Splash-Festival-May-24-2024-Screen-34-2@crudshots-360x180.jpeg)](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
     
-    ### [City Splash Festival 2024 Review: Love, peace and unity shines on Brixton](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    ### [Night Tube services during the ‘peak’ period after midnight could be boosted, Sadiq Khan has revealed](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
     
-    [![Toby Oladokun, owner of Plantain Kitchen.](https://southwarknews.co.uk/wp-content/uploads/2024/06/IMG_2525-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    [![Sadiq Khan out on a police patrol in Covent Garden. Photo from Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/06/Sadiq-Khan-out-on-a-police-patrol-in-Covent-Garden.-Photo-from-Greater-London-Authority-360x180.jpg)](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
     
-    ### [Rotherhithe food trader is doing ‘great’ since moving from a building to a van](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    ### [Free legal advice service for victims of rape and serious sexual offences launched by Sadiq Khan](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -84,7 +84,7 @@ No Result
 
 View All Result
 
-* [](https://southwarknews.co.uk/)
+* [](http://southwarknews.co.uk/)
 * [News](https://southwarknews.co.uk/category/news/)
     
     * [All](https://southwarknews.co.uk/category/news/)
@@ -95,41 +95,41 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Council Leader Kieron Williams (far left) and Leader of the Opposition Victor ChamberlainCouncil Leader Kieron Williams (far left) and Leader of the Opposition Victor Chamberlain](https://southwarknews.co.uk/wp-content/uploads/2024/06/Council-Leader-Kieron-Williams-far-left-and-Leader-of-the-Opposition-Victor-Chamberlain-e1717516680652-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+    [![Ark Globe Academy host the fair every year.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-11.39-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
     
-    ### [Southwark Pride March to feature LGBTQ+ speeches and drag shows](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+    ### [Free family fair with a ‘mini-beach’ and chance to win a laptop in Elephant](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
     
-    [![East Street Market (Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-07-06-2024-at-12.48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
     
-    ### [New play about East Street Market in the ’50s is coming to Southwark Playhouse](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+    ### [Southwark Council refers self to social housing watchdog over inadequate electrical safety checks](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
     
-    [![(The South London Wine Fair 2023)](https://southwarknews.co.uk/wp-content/uploads/2024/06/web-7-2-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/festival-in-south-london-where-you-can-taste-as-many-wines-as-you-like/)
+    [![From left - Catherine Dawkins Green candidate, Aarti Joshi Tory candidate, Chris French Lib Dem candidate and Florence Eshalomi Labour candidate.](https://southwarknews.co.uk/wp-content/uploads/2024/06/From-left-Catherine-Dawkins-Green-candidate-Aarti-Joshi-Tory-candidate-Chris-French-Lib-Dem-candidate-and-Florence-Eshalomi-Labour-candidate-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
     
-    ### [Festival in south London where you can ‘taste as many wines as you like’](https://southwarknews.co.uk/area/crystal-palace/festival-in-south-london-where-you-can-taste-as-many-wines-as-you-like/)
+    ### [Candidates for Vauxhall and Camberwell Green set out their views on housing crisis at Waterloo hustings](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
     
-    [![A photo of the House of Commons taken in 2019. Credit: Catherine BebbingtonA photo of the House of Commons taken in 2019. Credit: Catherine Bebbington](https://southwarknews.co.uk/wp-content/uploads/2024/06/A-photo-of-the-House-of-Commons-taken-in-2019.-Credit_-Catherine-Bebbington-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/what-are-the-bookies-odds-for-southwarks-parliamentary-seats/)
+    [![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
     
-    ### [What are the bookies’ odds for Southwark’s parliamentary seats?](https://southwarknews.co.uk/area/southwark/what-are-the-bookies-odds-for-southwarks-parliamentary-seats/)
+    ### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/01/Ambulance.jpg)](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+    [![Glory says council contractors trashed her home after failing to fix her mould problem in 2020. Images: Glory Uhunarabona](https://southwarknews.co.uk/wp-content/uploads/2024/06/Glory-says-council-contractors-trashed-her-home-after-failing-to-fix-her-mould-problem-in-2020.-Images-Glory-Uhunarabona-2-360x180.png)](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
     
-    ### [Four including 11-year-old girl rushed to hospital after ‘funfair ride malfunction’ at Lambeth Country Show](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+    ### [Black mould left children with nosebleeds and repair workers did £4,000 damage in eight-year housing nightmare, Bermondsey mum says](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
     
-    [![Protestors from Tulse Hill Estate Unites demonstrating outside Lambeth Town Hall in Brixton, in May. Photo from High Trees](https://southwarknews.co.uk/wp-content/uploads/2024/06/Protestors-from-Tulse-Hill-Estate-Unites-demonstrating-outside-Lambeth-Town-Hall-in-Brixton-in-May.-Photo-from-High-Trees-360x180.jpg)](https://southwarknews.co.uk/news/housing/estate-residents-call-for-independent-inspection-after-100-year-old-buildings-has-widespread-mould-and-damp/)
+    [![The team proudly sporting their new shirts.](https://southwarknews.co.uk/wp-content/uploads/2024/06/image-1-e1718703256591-360x180.jpeg)](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
     
-    ### [Estate residents call for independent inspection after 100-year-old buildings has ‘widespread mould and damp’](https://southwarknews.co.uk/news/housing/estate-residents-call-for-independent-inspection-after-100-year-old-buildings-has-widespread-mould-and-damp/)
+    ### [Bermondsey football club chuffed after £3k donation](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
     
-    [![Stock Aitken Waterman (pictured) were this year's winners.](https://southwarknews.co.uk/wp-content/uploads/2024/06/1708711985682-e1717684829787-360x180.jpg)](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-image-360x180.png)](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
     
-    ### [Why we started our own Blue Plaque scheme for Southwark](https://southwarknews.co.uk/news/why-we-started-our-own-blue-plaque-scheme-for-southwark/)
+    ### [New school meals programme to put healthy, locally-sourced food on Southwark children’s tables](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
     
-    [![Beenie Man performs at City Splash Festival 2024. Credit: Crudshotss](https://southwarknews.co.uk/wp-content/uploads/2024/06/Beenie-Man-City-Splash-Festival-May-24-2024-Screen-34-2@crudshots-360x180.jpeg)](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
     
-    ### [City Splash Festival 2024 Review: Love, peace and unity shines on Brixton](https://southwarknews.co.uk/news/opinion/city-splash-festival-2024-review-love-peace-and-unity-shines-on-brixton/)
+    ### [Night Tube services during the ‘peak’ period after midnight could be boosted, Sadiq Khan has revealed](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
     
-    [![Toby Oladokun, owner of Plantain Kitchen.](https://southwarknews.co.uk/wp-content/uploads/2024/06/IMG_2525-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    [![Sadiq Khan out on a police patrol in Covent Garden. Photo from Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/06/Sadiq-Khan-out-on-a-police-patrol-in-Covent-Garden.-Photo-from-Greater-London-Authority-360x180.jpg)](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
     
-    ### [Rotherhithe food trader is doing ‘great’ since moving from a building to a van](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+    ### [Free legal advice service for victims of rape and serious sexual offences launched by Sadiq Khan](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -162,7 +162,7 @@ View All Result
 
 [](#)
 
-[![Southwark News](https://southwarknews.co.uk/wp-content/uploads/2022/02/SN-logo-270px.png)](https://southwarknews.co.uk/)
+[![Southwark News](http://southwarknews.co.uk/wp-content/uploads/2022/02/SN-logo-270px.png)](https://southwarknews.co.uk/)
 
 [](#)
 
@@ -327,85 +327,84 @@ Website
 
 ### Popular Articles
 
-[![Sophie V (right) with fellow naked bike riders at London's World Naked Bike Ride. Credit: Sophie V](https://southwarknews.co.uk/wp-content/uploads/2024/06/unnamed-1-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-has-been-criticised-by-statistics-watchdog-over-claims-he-has-made-about-his-affordable-house-building-record/)
 
-### [‘The most eye-opening experience of my life’: Why naked people are cycling through south London](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+### [Sadiq Khan has been criticised by statistics watchdog over claims he has made about his affordable house-building record](https://southwarknews.co.uk/area/london/sadiq-khan-has-been-criticised-by-statistics-watchdog-over-claims-he-has-made-about-his-affordable-house-building-record/)
 
-[8th June 2024](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+[16th June 2024](https://southwarknews.co.uk/area/london/sadiq-khan-has-been-criticised-by-statistics-watchdog-over-claims-he-has-made-about-his-affordable-house-building-record/)
 
-[![Arch St, Elephant and Castle, first built in 2011, was one of the Heygate replacement housing sites. (Google)](https://southwarknews.co.uk/wp-content/uploads/2023/04/image-2-e1717495324122-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
+[![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
 
-### [Fifty-two homes in Elephant and Castle could be empty for two more years](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
+### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
 
-[5th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/fifty-two-homes-in-elephant-and-castle-could-be-empty-for-two-more-years/)
+[18th June 2024](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
 
-[![A cordon remains in place on Southwark Street.](https://southwarknews.co.uk/wp-content/uploads/2024/06/southwark-street-gas-leak-120x86.jpg)](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Eric-Cantona-was-filming-for-a-new-advert-onn-location-at-The-Victoria-in-Bermondsey-e1718360345703-120x86.png)](https://southwarknews.co.uk/area/bermondsey/eric-cantona-spotted-walking-goat-outside-old-school-bermondsey-boozer/)
 
-### [2,000 people evacuated after ‘gas leak’ on Southwark Street](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+### [Eric Cantona spotted walking goat outside old school Bermondsey boozer](https://southwarknews.co.uk/area/bermondsey/eric-cantona-spotted-walking-goat-outside-old-school-bermondsey-boozer/)
 
-[5th June 2024](https://southwarknews.co.uk/area/southwark/2000-people-evacuated-after-gas-leak-on-southwark-street/)
+[14th June 2024](https://southwarknews.co.uk/area/bermondsey/eric-cantona-spotted-walking-goat-outside-old-school-bermondsey-boozer/)
 
-[![Brunswick House sits in a secluded patch next to Myatt's Field Park. (Photo from 2019. Image: Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Brunswick-House-sits-in-a-secluded-patch-next-to-Myatts-Field-Park.-Photo-from-2019.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-14-06-2024-at-16.38-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/inside-the-only-dungeons-and-dragons-themed-pub-in-south-london/)
 
-### [‘Dreamy’ Camberwell house with twelve bedrooms and spiral staircase goes on sale for £4.25 million](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
+### [Inside the only Dungeons and Dragons-themed-pub in south London](https://southwarknews.co.uk/area/elephant-and-castle/inside-the-only-dungeons-and-dragons-themed-pub-in-south-london/)
 
-[6th June 2024](https://southwarknews.co.uk/area/camberwell/dreamy-camberwell-house-with-twelve-bedrooms-and-spiral-staircase-goes-on-sale-for-4-25-million/)
+[15th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/inside-the-only-dungeons-and-dragons-themed-pub-in-south-london/)
 
-[![Some new council homes due for completion this Autumn, Rennie Estate, South Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-15.33-120x86.jpg)](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+[![Parents gathered with placards outside Comber Grove Primary School](https://southwarknews.co.uk/wp-content/uploads/2023/11/Parents-gathered-with-placards-outside-Comber-Grove-Primary-School-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
 
-### [Exclusive: ‘No homes’ to bid on in Southwark for ‘up to 2 months’ with hundreds vying for one property](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+### [Fourth primary school in two years is set to shut its doors in Southwark](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
 
-[7th June 2024](https://southwarknews.co.uk/featured/exclusive-no-homes-to-bid-on-in-southwark-for-up-to-2-months-with-hundreds-vying-for-one-property/)
+[17th June 2024](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
 
-[![Nudists cycle through London for World Naked Bike Ride every year. Credit: WNBR](https://southwarknews.co.uk/wp-content/uploads/2024/06/Nudists-cycle-through-London-for-World-Naked-Bike-Ride-every-year.-Credit-WNBR-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+[![Eze's mum, dad and family members proudly stand by their son's mural. (credit: Kirby Estate)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-17-06-2024-at-11.23-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
 
-### [Nude cyclists to pedal through the South Bank this weekend](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+### [Eberechi Eze’s whole family visit his mural on the Kirby Estate](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
 
-[7th June 2024](https://southwarknews.co.uk/area/south-bank/nude-cyclists-to-pedal-through-the-south-bank-this-weekend/)
+[17th June 2024](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
 
 ### Featured Articles
 
-[![Council Leader Kieron Williams (far left) and Leader of the Opposition Victor ChamberlainCouncil Leader Kieron Williams (far left) and Leader of the Opposition Victor Chamberlain](https://southwarknews.co.uk/wp-content/uploads/2024/06/Council-Leader-Kieron-Williams-far-left-and-Leader-of-the-Opposition-Victor-Chamberlain-e1717516680652-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+[![Ark Globe Academy host the fair every year.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-11.39-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
 
-### [Southwark Pride March to feature LGBTQ+ speeches and drag shows](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+### [Free family fair with a ‘mini-beach’ and chance to win a laptop in Elephant](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
 
-[9th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/southwark-pride-march-to-feature-lgbtq-speeches-and-drag-shows/)
+[19th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
 
-[![East Street Market (Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-07-06-2024-at-12.48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+[![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
 
-### [New play about East Street Market in the ’50s is coming to Southwark Playhouse](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
 
-[9th June 2024](https://southwarknews.co.uk/area/walworth/new-play-about-east-street-market-in-the-50s-is-coming-to-southwark-playhouse/)
+[18th June 2024](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2022/01/Ambulance.jpg)](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+[![Glory says council contractors trashed her home after failing to fix her mould problem in 2020. Images: Glory Uhunarabona](https://southwarknews.co.uk/wp-content/uploads/2024/06/Glory-says-council-contractors-trashed-her-home-after-failing-to-fix-her-mould-problem-in-2020.-Images-Glory-Uhunarabona-2-120x86.png)](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
 
-### [Four including 11-year-old girl rushed to hospital after ‘funfair ride malfunction’ at Lambeth Country Show](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+### [Black mould left children with nosebleeds and repair workers did £4,000 damage in eight-year housing nightmare, Bermondsey mum says](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
 
-[9th June 2024](https://southwarknews.co.uk/area/herne-hill/four-including-11-year-old-girl-rushed-to-hospital-after-funfair-ride-malfunction-at-lambeth-country-show/)
+[18th June 2024](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
 
-[![One of the bus lanes in Southwark (Camberwell Road Junction Boundary Lane)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-05-06-2024-at-11.35-120x86.jpg)](https://southwarknews.co.uk/area/southwark/all-the-bus-lanes-in-southwark-to-watch-out-for-as-council-issues-over-1-1million-in-fines/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-image-120x86.png)](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
 
-### [All the bus lanes in Southwark to watch out for as council issues over £1.1million in fines](https://southwarknews.co.uk/area/southwark/all-the-bus-lanes-in-southwark-to-watch-out-for-as-council-issues-over-1-1million-in-fines/)
+### [New school meals programme to put healthy, locally-sourced food on Southwark children’s tables](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
 
-[8th June 2024](https://southwarknews.co.uk/area/southwark/all-the-bus-lanes-in-southwark-to-watch-out-for-as-council-issues-over-1-1million-in-fines/)
+[18th June 2024](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
 
-[![Toby Oladokun, owner of Plantain Kitchen.](https://southwarknews.co.uk/wp-content/uploads/2024/06/IMG_2525-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+[![Parents gathered with placards outside Comber Grove Primary School](https://southwarknews.co.uk/wp-content/uploads/2023/11/Parents-gathered-with-placards-outside-Comber-Grove-Primary-School-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
 
-### [Rotherhithe food trader is doing ‘great’ since moving from a building to a van](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+### [Fourth primary school in two years is set to shut its doors in Southwark](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
 
-[8th June 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-food-trader-is-doing-great-since-moving-from-a-building-to-a-van/)
+[17th June 2024](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
 
-[![Sophie V (right) with fellow naked bike riders at London's World Naked Bike Ride. Credit: Sophie V](https://southwarknews.co.uk/wp-content/uploads/2024/06/unnamed-1-120x86.jpeg)](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+[![Eze's mum, dad and family members proudly stand by their son's mural. (credit: Kirby Estate)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-17-06-2024-at-11.23-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
 
-### [‘The most eye-opening experience of my life’: Why naked people are cycling through south London](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+### [Eberechi Eze’s whole family visit his mural on the Kirby Estate](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
 
-[8th June 2024](https://southwarknews.co.uk/area/south-bank/the-most-eye-opening-experience-of-my-life-why-naked-people-are-cycling-through-south-london/)
+[17th June 2024](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
 
 ### USEFUL PAGES
 
 * [Our Story](https://southwarknews.co.uk/our-story/)
 * [Signup for our Newsletter](https://southwarknews.co.uk/newsletter/)
-* [The Paper](https://southwarknews.co.uk/the-paper/)
 * [About Axate](https://www.axate.com/help-and-faqs)
 * [Contact Us](https://southwarknews.co.uk/contact-us/)
 
@@ -471,7 +470,7 @@ No Result
 
 View All Result
 
-* [](https://southwarknews.co.uk/)
+* [](http://southwarknews.co.uk/)
 * [News](https://southwarknews.co.uk/category/news/)
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
