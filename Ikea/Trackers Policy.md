@@ -135,6 +135,9 @@ All Rooms](https://www.ikea.com/us/en/rooms/)
 * [Dorm laundry & bathroom essentials](https://www.ikea.com/us/en/campaigns/starting-college/college-laundry-bathroom-essentials-pub02794a10)
 * [Dorm & college kitchen essentials](https://www.ikea.com/us/en/campaigns/starting-college/college-kitchen-essentials-pub893c4d50)
 
+* [Save up to 15% on college essential starter boxes
+    -------------------------------------------------](https://www.ikea.com/us/en/campaigns/starting-college/#e6ef65e0-01d7-11ef-bd23-2fadf544a0f5)
+
 * [See all in Home accessories](https://www.ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20)
 * [Shop by category](https://www.ikea.com/us/en/campaigns/shop-marketplace-categories-pubff037650)
 * [Shop by color](https://www.ikea.com/us/en/campaigns/shop-marketplace-colors-pub8a0f7c40)
@@ -170,8 +173,8 @@ All Rooms](https://www.ikea.com/us/en/rooms/)
 * [Home essentials under $10](https://www.ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0)
 * [As-is online](https://www.ikea.com/us/en/customer-service/shopping-at-ikea/as-is-online-pubce1eedc0)
 
-* [Hurry and save up to 40% on these Last chance items
-    ---------------------------------------------------](https://www.ikea.com/us/en/cat/last-chance/?filters=f-special-price%3Atrue#product-list-skip)
+* [Save up to 50% at the IKEA Midsummer sale!
+    ------------------------------------------](https://www.ikea.com/us/en/campaigns/midsummer-pubaa5b2500?itm_campaign=Promo&itm_element=Navigation-Text&itm_content=Midsummer_sale)
 
 * [See all in Services & support](https://www.ikea.com/us/en/customer-service/services/)
 * [IKEA Family](https://www.ikea.com/us/en/ikea-family/)
@@ -180,9 +183,11 @@ All Rooms](https://www.ikea.com/us/en/rooms/)
 * [Customer service](https://www.ikea.com/us/en/customer-service/)
 
 * [IKEA Food & Swedish restaurant](https://www.ikea.com/us/en/cat/ikea-food-restaurant-fb001/)
+* [Kitchen services](https://www.ikea.com/us/en/customer-service/services/kitchen-services-pub8f131f81)
 * [My orders](https://www.ikea.com/us/en/customer-service/track-manage-order/)
 * [My profile](https://www.ikea.com/us/en/profile/login/)
 * [Find your IKEA location](https://www.ikea.com/us/en/stores/)
+
 * [IKEA Credit Card](https://www.ikea.com/us/en/customer-service/services/finance-options/)
 
 1. [Customer service](https://www.ikea.com/us/en/customer-service/)
