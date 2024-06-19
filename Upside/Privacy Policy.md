@@ -151,7 +151,7 @@ Please also feel free to contact us if you have any questions about Upside’s P
 
 You may contact us as follows:
 
-* Through our customer support portal [here](https://support.upside.com/); or
+* Through our customer support portal [here](https://support.upside.com/hc/en-us); or
 * Through the Help Center in the Upside application – click the blue pen icon in the upper right hand corner to initiate a conversation. 
 
 Privacy Policy
