@@ -60,6 +60,8 @@
     
     * [Take Part](https://www.channel4.com/4viewers/take-part)
         
+        * [Bake Off: The Professionals](https://www.channel4.com/4viewers/take-part/Bake-off-the-professionals)
+        * [The Channel 4 Health Debate](https://www.channel4.com/4viewers/take-part/channel-4-health-debate)
         * [Come Dine With Me](https://www.channel4.com/4viewers/take-part/come-dine-me)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
@@ -88,7 +90,6 @@
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Taskmaster: The Live Experience](https://www.channel4.com/4viewers/blog/taskmaster-experience)
-        * [England International Football Games on Channel 4](https://www.channel4.com/4viewers/blog/uefa-league)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
@@ -103,6 +104,7 @@
         
     
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
+* [Loneliness](https://www.channel4.com/4viewers/loneliness)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
