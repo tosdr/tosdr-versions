@@ -7,7 +7,7 @@ Sign inAppearance
 Privacy Policy
 ==============
 
-_Last updated on **December 4, 2023**._
+_Last updated on **June 21, 2024**._
 
 Your privacy is critically important to us, and we have a few fundamental principles we abide by:
 
@@ -18,12 +18,12 @@ Our services are compliant with the [General Data Protection Regulation (GDPR)](
 
 * * *
 
-This Privacy Policy shall apply to the applications by **WebCatalog Pte. Ltd.** and that are accessible from mobile devices and personal computers (the "**App**"), and the use of the websites controlled by WebCatalog Pte. Ltd. in general (the "**Website**"; App, and Website together the "**Services**").
+This Privacy Policy shall apply to the applications by **WebCatalog, Inc.** and that are accessible from mobile devices and personal computers (the "**App**"), and the use of the websites controlled by WebCatalog, Inc. in general (the "**Website**"; App, and Website together the "**Services**").
 
 1\. General
 -----------
 
-Regarding the Services: WebCatalog Pte. Ltd. ("**WebCatalog**", "**we**", "**us**" or "**our**") is the Data Controller within the meaning of the General Data Protection Regulation ("**GDPR**").
+Regarding the Services: WebCatalog, Inc. ("**WebCatalog**", "**we**", "**us**" or "**our**") is the Data Controller within the meaning of the General Data Protection Regulation ("**GDPR**").
 
 This privacy policy shall inform you on how we collect, process and use ("**Use**") personal data in connection with the Services.
 
@@ -174,9 +174,9 @@ We change this Privacy Policy from time to time. We will not reduce your rights 
 
 If you have any questions feel free to [contact us](https://webcatalog.io/contact/).
 
-WebCatalog Pte. Ltd.  
-68 Circular Road #02-01, Singapore, 049422  
-Singapore
+**WebCatalog, Inc.**  
+2261 Market St STE 10869  
+San Francisco, CA 94114, USA
 
 Explore
 
@@ -240,7 +240,7 @@ Legal
 
 [X (Twitter)](https://twitter.com/webcatalog_app "X (Twitter)") [Facebook](https://www.facebook.com/WebCatalogApp/ "Facebook") [Linkedin](https://www.linkedin.com/company/webcatalogapp/ "LinkedIn")[YouTube](https://www.youtube.com/@WebCatalogApp "YouTube")
 
-© 2024 WebCatalog Pte. Ltd.
+© 2024 WebCatalog, Inc.
 
 We use cookies to provide and improve our websites. By using our sites, you consent to cookies.
 
