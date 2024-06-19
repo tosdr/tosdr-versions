@@ -134,7 +134,7 @@ There is some confusion around the proper use and context of the Stack Exchange 
 * [Merchandise/Manufactured Items](#h1-12733914d2170)
 * [Proper Use of the Stack Exchange Name](#h1-2de2438a74fa0)
 
-[Stack Overflow](https://stackoverflow.co/)
+[](https://stackoverflow.co/ "Return to home")
 
 LightDarkAuto
 
