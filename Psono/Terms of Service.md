@@ -148,7 +148,6 @@ Pages
 
 * [Download](https://psono.com/download)
 * [Features](https://psono.com/features-for-users)
-* [Password Manager](https://psono.com/password-manager)
 * [Password Generator](https://psono.com/password-generator)
 * [Password Strength Test](https://psono.com/password-strength-test)
 * [Enterprise Password Management](https://psono.com/enterprise-password-manager)
