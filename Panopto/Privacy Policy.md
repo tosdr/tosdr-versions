@@ -26,6 +26,20 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Powered by AI](https://www.panopto.com/capabilities/powered-by-ai/)
         * [Tracking and Analytics](https://www.panopto.com/capabilities/tracking-and-analytics/)
     
+* New! Product Add-Ons
+    
+    ![](https://www.panopto.com/wp-content/uploads/2024/06/Navigation-AddOns_2.png)
+    
+    Get the Data to Make a Difference with Panopto Knowledge Insights
+    
+    Turn data into action, identify top creators, and assess the impact of lectures and training with Panopto’s latest product add-on for your VCMS.
+    
+    [Register Now](https://www.panopto.com/resource/webinar-panopto-knowledge-insights)
+    
+    * Product Add-Ons
+        * [Panopto Access AI](https://www.panopto.com/add-ons/access-ai/)
+        * [Panopto Knowledge Insights](https://www.panopto.com/add-ons/knowledge-insights/)
+    
 * Industries
     
     ![](https://www.panopto.com/wp-content/uploads/2024/04/navigation-1-650x650.png)
@@ -65,7 +79,6 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Resource Library](https://www.panopto.com/resource-library/)
         * [Blog](https://www.panopto.com/blog/)
         * [Webinars](https://www.panopto.com/resource-library/webinars/)
-        * [Events](https://www.panopto.com/resource-library/events/)
         * [eBooks](https://www.panopto.com/resource-library/ebooks/)
         * [Customer Stories](https://www.panopto.com/resource-library/customer-stories/)
     * Support
@@ -139,6 +152,6 @@ Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
 
-[![](https://www.panopto.com/wp-content/uploads/2024/05/eBook-pop-up.png)](http://www.panopto.com/resource/ebook/2024-workforce-training-report/?utm_source=homepage&utm_medium=pop-up&utm_campaign=workforce_learning_report&utm_id=1135)
+[![](https://www.panopto.com/wp-content/uploads/2024/06/1200x628_popup-1-4.png)](https://www.panopto.com/resource/webinar-live/webinar-panopto-knowledge-insights/?utm_source=homepage&utm_medium=pop_up&utm_campaign=knowledge_insights_webinar&utm_id=1151)
 
 X
