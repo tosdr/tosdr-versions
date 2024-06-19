@@ -26,7 +26,7 @@ MORE CAMERAS![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8
 
 Action Cameras
 
-[Insta360 GO 3](https://www.insta360.com/product/insta360-go3)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
+[Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 
 Handheld Gimbals
 
@@ -550,7 +550,7 @@ No
 
 * [Insta360 X4](https://www.insta360.com/product/insta360-x4)
 * [Insta360 X3](https://www.insta360.com/product/insta360-x3)
-* [Insta360 GO 3](https://www.insta360.com/product/insta360-go3)
+* [Instal360 GO 3S & Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
 * [Insta360 Ace Pro & Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 * [Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)
 * [Insta360 ONE RS 1-Inch 360](https://www.insta360.com/product/insta360-oners/1inch-360)
