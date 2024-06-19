@@ -372,6 +372,6 @@ Last updated on Mar 26, 2024
 
 Connect with us
 
-[](https://www.facebook.com/jlcpcb)[](https://twitter.com/jlcpcb)[](https://www.instagram.com/jlcpcb)[](https://www.youtube.com/JLCPCB)[](https://www.linkedin.com/company/jlcpcb)[](https://www.reddit.com/r/JLCPCB_official/)
+[](https://www.facebook.com/jlcpcb)[](https://twitter.com/jlcpcb)[](https://www.instagram.com/jlcpcb)[](https://www.youtube.com/JLCPCB)[](https://www.linkedin.com/company/jlcpcb)[](https://www.reddit.com/r/JLCPCBLab/)
 
 © 2024 JLCPCB.COM All Rights Reserved. [Privacy Policy](https://jlcpcb.com/help/article/31-Privacy-Policy) [Terms & Conditions](https://jlcpcb.com/help/article/30-Terms-%26-Conditions)
