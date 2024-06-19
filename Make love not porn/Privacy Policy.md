@@ -7,7 +7,9 @@ Toggle navigation menu[![Make Love Not Porn](/build/_assets/logo-BF3LB7Y4.webp)M
 
 Toggle theme
 
-[Sign in](https://makelovenotporn.tv/login)[Create Account](https://makelovenotporn.tv/register)
+[Sign in](https://makelovenotporn.tv/login)[Sign up
+
+Create Account](https://makelovenotporn.tv/register)
 
 [Privacy Policy](https://makelovenotporn.tv/privacy-policy)
 ===========================================================
@@ -155,4 +157,4 @@ Pro-sex. Pro-porn. Pro-knowing the difference.
 
 © 2024 MakeLoveNotPorn. All rights reserved.
 
-Version: 08331a4 - production
+Version: 43f1476 - production
