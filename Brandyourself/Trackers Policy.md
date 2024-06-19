@@ -1,4 +1,4 @@
-[](#) **[![BrandYourself](//s1.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
+[](#) **[![BrandYourself](//s1.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s1.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
 
 * [INDIVIDUALS](https://brandyourself.com/reputation-management-software)
     
@@ -15,7 +15,7 @@
     * [Negative Google Result Services](https://brandyourself.com/reputation-management-services)
     * [Personal Branding Services](https://brandyourself.com/personal-branding-services)
     
-    ![image description](//s1.brandyourself.com/themes/default/images/chart-5.png)
+    ![image description](//s2.brandyourself.com/themes/default/images/chart-5.png)
     
     Not sure where to start? [get my free scan](https://brandyourself.com/sign-up)
     
@@ -30,9 +30,9 @@
     * [Glassdoor Review Management](https://brandyourself.com/glassdoor-review-management)
     * [Employee Branding Services](https://brandyourself.com/employee-branding-services)
     
-    ![image description](//s2.brandyourself.com/themes/default/images/img89-2.png)
+    ![image description](//s1.brandyourself.com/themes/default/images/img89-2.png)
     
-    We’re here to help. [Call (646) 863-8282](tel:+16468638282)
+    We’re here to help. [Call 0800 404 7328](tel:+4408004047328)
     
     Call now for a free, no-pressure consultation to learn how we can help.
     
@@ -58,7 +58,7 @@
     * [Contact Us](https://brandyourself.com/contact)
     
 
-* [![image description](//s2.brandyourself.com/themes/default/images/icon-60.svg)(646) 863-8226](tel:+16468638226)
+* [![image description](//s3.brandyourself.com/themes/default/images/icon-60.svg)0800 279 6225](tel:+4408002796225)
 * [Log in](https://brandyourself.com/login)
 * [free reputation report](https://brandyourself.com/sign-up)
 
@@ -153,7 +153,7 @@ At BrandYourself, we believe in being clear and open about how we collect and us
 
 **CONTACT US**
 
-* Call Us At [(646) 863-8226](tel:+16468638226)
+* Call Us At [0800 279 6225](tel:+4408002796225)
 * [Contact Us](https://brandyourself.com/contact)
 * [Partners](https://brandyourself.com/partners)
 * [Facebook](https://www.facebook.com/officialbrandyourself)
@@ -167,11 +167,11 @@ At BrandYourself, we believe in being clear and open about how we collect and us
 * [Online Reputation](https://brandyourself.com/blog/fixing-negative-results/)
 * [Personal Branding](https://brandyourself.com/blog/product-tutorials/personal-branding/)
 
-**[![BrandYourself](//s3.brandyourself.com/themes/default/images/by-logo.svg)](https://brandyourself.com/)**
+**[![BrandYourself](//s2.brandyourself.com/themes/default/images/by-logo.svg)](https://brandyourself.com/)**
 
 **AS FEATURED ON:**
 
-* [![shark tank](//s2.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
-* [![wsj](//s2.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
-* [![forbes](//s1.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
-* [![npr](//s2.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
+* [![shark tank](//s3.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
+* [![wsj](//s3.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
+* [![forbes](//s2.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
+* [![npr](//s1.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
