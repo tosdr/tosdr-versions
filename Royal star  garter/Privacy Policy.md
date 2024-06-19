@@ -171,7 +171,7 @@ Menu
 Our privacy policy
 ------------------
 
-Last updated: 11 February 2021
+Last updated: 14 June 2024
 
 **Looking for the VFF privacy policy? You can find it [here.](https://starandgarter.org/vff-privacy-policy/)**
 
@@ -179,7 +179,7 @@ Last updated: 11 February 2021
 
 This privacy policy describes what information we gather about you, what we use that information for and who we give that information to. It explains why and how we collect and use the information. This privacy policy also sets out your rights in relation to your information and who you can contact for more information or queries.
 
-If you have any requests concerning your personal information or any queries with regard to our processing, please contact our Data Protection Officer at [charitysecretary@starandgarter.org](mailto:charitysecretary@starandgarter.org). You may also contact us by writing to The Data Protection Officer, Royal Star & Garter, 15 Castle Mews, Hampton TW12 2NP.
+If you have any requests concerning your personal information or any queries with regard to our processing, please contact our Data Protection Officer at [charitysecretary@starandgarter.org](mailto:charitysecretary@starandgarter.org). You may also contact us by writing to The Data Protection Officer, Royal Star & Garter, 15 Castle Mews, Hampton TW12 2NP.
 
 #### Contents
 
@@ -187,7 +187,7 @@ This privacy policy consists of the sections set out below. Please click on the 
 
 * [Information about us](#information-about-us)
 * [Collection of information about you](#collection-of-information-about-you)
-* [Children’s data](#children-s-data)
+* [Data about children](#children-s-data)
 * [Other people’s data](#other-people-s-data)
 * [What we do with your information](#what-we-do-with-your-information)
 * [Legal basis for processing your information](#legal-basis-for-processing-your-information)
@@ -201,33 +201,35 @@ This privacy policy consists of the sections set out below. Please click on the 
 * [Security of personal information](#security-of-personal-information)
 * [Payment card security](#payment-card-security)
 * [Cookies](#cookies)
-* [Retention of personal information](#retention-of-personal-information)
-* [Your rights](#your-rights)
+* [How long we keep your information for](#retention-of-personal-information)
 
 #### Information about us
 
-In this privacy policy, references to we, us, our are references to The Royal Star & Garter Homes and our trading name Royal Star & Garter. We are a registered charity (registration number 210119). We and the Governors of Royal Star & Garter are the “controller” for the purposes of the UK General Data Protection Regulation (“GDPR”). Our ICO registration number is Z5712729.
+In this privacy policy, references to ‘we’, ‘us’, ‘our’ are references to Royal Star & Garter. We are a registered charity (registration number 210119). We and the Governors of Royal Star & Garter are the “controller” for the purposes of the UK General Data Protection Regulation (“GDPR”). Our ICO registration number is Z5712729.
 
 #### Collection of information about you
 
+Depending on how you interact with us, we will need different information about you.
+
 We may collect and process the following data about you:
 
-* **Information you give us.** You may give us information about you by applying to live in our Homes, submitting an application to work, volunteering for us, donating to us or by corresponding with us by phone, e-mail or otherwise. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information and personal description. You may also give us information through our website, social media pages, Family Connections, or by entering a competition.
-* **Sensitive personal data.** We sometimes collect and use “sensitive personal data” about our employees, residents, potential residents and volunteers. This is defined as information about racial or ethnic origin, political opinions, religious or other similar beliefs, trade union membership, physical or mental health, sexual life, and criminal allegations, proceedings or convictions. We collect sensitive personal data to help us monitor equal opportunities, for safeguarding purposes, and to ensure that if you are, or wish to be, a resident, we are able to care for you appropriately.
-* **Information that you give to third parties**. We may receive information about you from third parties. Where we receive personal data that relates to you from a third party, we request that this third party inform you of the necessary information regarding the use of this data. Where necessary, they may refer to this privacy policy. In particular, your information may be shared with us by independent fundraising websites such as (but not limited to) Just Giving, Virgin Money Giving or PayPal Giving Fund. These third parties will only do so when you have indicated that you wish to support us and with your consent.
-* **Technical information when you visit our website**, including the Internet Protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, geographical location, browser plug-in types and versions, operating system and platform
-* **We use Google Analytics and Google Signal to measure how you use our website**. Google Analytics sets cookies that store anonymised information about how you got to the site, the pages you visit, how long you spend on each page and what you click on while you’re visiting the site. Google Signals makes use of tools to track users across multiple devices and websites who log into their Google account, and we use it to understand the composition of our audience, marketing and as part of our Google Ads campaign.
+* Information you give us. You may give us information about you by applying to live in our Homes, submitting an application to work, volunteering for us, donating to us, being a supplier or by corresponding with us by phone, e-mail or otherwise. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, right to work documentation and personal description. You may also give us information through our website, social media pages, Family Connections, or by entering a competition.
+* Sensitive personal data. We sometimes collect and use special category data (sensitive personal data) about our employees, residents, potential residents, users of other services such as Day Care and volunteers. This is defined as information about racial or ethnic origin, political opinions, religious or other similar beliefs, trade union membership, physical or mental health, sexual life, and criminal allegations, proceedings or convictions. We collect sensitive personal data to help us monitor equal opportunities, for safeguarding purposes, and to ensure that if you are, or wish to be, a resident, we are able to care for you appropriately.
+* Information that you give to third parties. We may receive information about you from third parties. Where we receive personal data that relates to you from a third party, we request that this third party inform you of the necessary information regarding the use of this data. Where necessary, they may refer to this privacy policy.
+* Your information may be shared with us by independent fundraising websites such as (but not limited to) Just Giving, Virgin Money Giving or PayPal Giving Fund. These third parties will only do so when you have indicated that you wish to support us and with your consent.
+* If you are a resident, or wish to be a resident in our Homes, we may receive information about you from your GP or another medical provider in order to assess your need for, or to provide care for you.
+* Technical information when you visit our website, including the Internet Protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, geographical location, browser plug-in types and versions, operating system and platform
+* We use Google Analytics and Google Signal to measure how you use our website. Google Analytics sets cookies that store anonymised information about how you got to the site, the pages you visit, how long you spend on each page and what you click on while you’re visiting the site. Google Signals makes use of tools to track users across multiple devices and websites who log into their Google account, and we use it to understand the composition of our audience, marketing and as part of our Google Ads campaign.
 
 #### Children’s data
 
-It is our policy not to request donations or accept product orders from children under 18. If we are contacted by anyone under 18, before we collect data from them we will always ask them to:
+It is our policy not to request donations or accept orders from children under 18. If we are contacted by anyone under 18, before we collect data from them we will always ask them to obtain the permission of a parent or guardian before we will talk or accept an order.
 
-* obtain the permission of a parent or guardian before we will talk or accept an order and
-* let an adult know before they use our sites to obtain information about fundraising or supporting our work.
+Where anyone under 18 contacts us about volunteering or work experience in our Homes we will ask them to let an adult know about their application. We will collect information about them only where it is necessary to progress an application to volunteer or work for us and as set out in  “information we collect about you”.
 
 #### Other people’s data
 
-Some of the services we offer allow you to provide the personal data of other people (e.g. providing a friend’s name for event tickets you have purchased or tagging people on photos on social media). Before providing anyone else’s data please ensure they are happy for you to do so and under no circumstances must you make public another person’s home address, email address or phone number without their permission.
+Some of the services we offer allow you to provide the personal data of other people. Before providing anyone else’s data please ensure they are happy for you to do so and under no circumstances must you make public another person’s home address, email address or phone number without their permission.
 
 Family Connections: we ask a resident’s authorised person to identify other relatives who might like to access the portal. We ask them to confirm that potential users are happy to provide their contact details. We do not use data collected for Family Connections to be used for any other purpose.
 
@@ -239,14 +241,26 @@ For donors and supporters, we will use the information you provide to:
 
 * request donations from you;
 * fulfil your requests – such as provision of information, competition entries, participation in campaigns and donations;
-* process sales transactions, donations, or other payments and verify financial transactions;
-* handle orders, deliver products and communicate with you about orders;
-* provide a personalised service to you – this could include customising the content and/or layout of our communications for individual users;
+* process donations or other payments and verify financial transactions;
+* provide a personalised service to you;
 * record any contact we have with you;
 * to carry out our obligations arising from any contracts entered into between you and us;
 * prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf;
-* communicate with our donors and supporters; and
-* if you have agreed to it, provide you with information that we think may be of interest to you, carry out research and analyse the demographics, interests and behaviour of our donors and supporters (including the value of donations) to help us gain a better understanding of them and to enable us to improve our services. This research and analysis may be carried out internally by our employees or we may ask another company to do this work for us.
+* if you have agreed to it, provide you with information that we think may be of interest to you,
+* carry out research and analyse the demographics, interests and behaviour of our donors and supporters (including the value of donations) to help us gain a better understanding of them and to enable us to improve our services. This research and analysis may be carried out internally by our employees or we may ask another company to do this work for us.
+
+If you are, or are considering being, a resident, or use our Day Care or Lunch Clubs we may use information you provide to:
+
+* assess and provide the care you need,
+* carry out our obligations from any contracts entered into between you and us,
+* comply with our legal obligations in providing care to you,
+* support joined up care between the Home and the NHS including GP Connect, the National Record Locator, and if you are a resident in our Surbiton Home, the London Care Record
+* process payments for our services
+
+If you are a user of our Telephone Friendship Service, we may use your information to:
+
+* allocate you a befriender
+* direct you to other services that may be able to help you.
 
 We will also use your information to process and acknowledge any application that you make to work or volunteer for us or apply to live in one of our Homes.
 
@@ -259,18 +273,31 @@ We rely on one or more of the following processing conditions in order to proces
 * to perform our obligations under any contracts that we have agreed with you; or
 * where no other condition for processing is available, if you have agreed to us processing your personal information for the relevant purpose.
 
-#### Sharing of your information
+We hold and use special category data for the provision of health and social care.
 
-We may disclose your personal information to our employees, officers or professional advisers as reasonably necessary for the purposes set out in this privacy policy.
+#### Sharing your information
 
-Your personal information may be transferred to third party service providers who process information on our behalf. These partners may include mailing houses, marketing agencies, telemarketing companies, IT specialists and specialist research firms. The kind of work we may ask them to do includes processing, packaging, mailing and delivering purchases, answering questions about products or services, sending postal mail, emails and text messages, making phone calls on our behalf, carrying out research, or analysis and processing card payments. We only choose partners we can trust. We will only pass personal data to them if they have signed a contract that requires them to:
+We may share your personal information with our employees, officers or professional advisers where it is reasonably necessary for the purposes set out in this privacy policy.
+
+Third party processors can include:
+
+* mailing houses, marketing agencies, telemarketing companies
+* processors of financial payments and receipts
+* IT specialists and cloud service providers
+* suppliers of technical and support services
+* businesses that assist us in providing services to you
+* payroll management
+* (where you are a resident) your GP and other healthcare providers (NHS or private)
+* the National Record Locator and the London Care Record supporting shared care information
+* authorities when we are required by law, for example the emergency services when you are injured or unwell and require treatment or the police when investigating an incident
+* regulatory bodies who mandate reporting, or where we have a statutory duty to share information or demonstrate compliance.
+
+We only choose partners we can trust. Unless required by law, we will only pass personal data to them if they have signed a contract that requires them to:
 
 * abide by the requirements of the GDPR;
 * treat your information as carefully as we would;
-* use the information for the purposes for which it was supplied and no other purpose; and
+* use the information for the purposes for which it was supplied and for no other purpose; and
 * allow us to carry out checks to ensure they are doing all these things.
-
-Occasionally, we may receive requests from third parties with authority to obtain disclosure of personal data, such as to check that we are complying with applicable law and regulation, to investigate an alleged crime, to establish, exercise or defend legal rights. We will only fulfil requests for personal data where we are permitted to do so in accordance with applicable law or regulation.
 
 We never sell or share your information to other organisations to use for their own purposes other than as explained above.
 
@@ -292,26 +319,26 @@ If you have told us that you have left a gift in your will, or are thinking abou
 
 Where a donor has passed away and we are in the process of receiving their legacy gift, we will process personal data of individuals involved in the estate administration for the purpose of ensuring our compliance with legal obligations in receiving and using the legacy gift for our charitable purposes. This includes names, addresses and other contact details of next of kin, those involved in administration of the estate, professional advisors and other beneficiaries in a will. Access to this personal data is restricted and stored for as long as necessary to administer our legacy.
 
-We rely on legitimate interests to process personal data of individuals involved with the supporter and their estate. Where we would like to process data that is not for the direct purpose of the legacy administration process, we will seek specific consent from an individual – for example, if we would like to remain in contact with a donor’s relative to update them on how the legacy has been used?
+Where we would like to process data that is not for the direct purpose of the legacy administration process, we will seek specific consent from an individual – for example, if we would like to remain in contact with a donor’s relative to update them on how the legacy has been used.
 
 #### International transfers
 
-Third party organisations engaged by us to process your personal information for the purposes set out in this privacy policy may be situated outside the United Kingdom and may therefore transfer personal information outside the UK. We will have a contract with the third party organisation requiring them to use your information only as instructed by us.
+Businesses often use third parties to help them host their application, communicate with customers and power their emails. Third party organisations engaged by us to process your personal information for the purposes set out in this privacy policy may be situated outside the United Kingdom and may therefore transfer personal information outside the UK. In order to make these systems and services work we may need to share your data with them. We will have a contract with the third party organisation requiring them to use your information only as instructed by us.
 
 Transfers outside the UK will be only:
 
 * to a recipient located in a country which provides an adequate level of protection for your personal information; and/or
-* under an agreement or mechanism which satisfies UK requirements for the transfer of personal data to data processors or data controllers outside the UK, such as standard contractual clauses approved by the European Commission or the US Privacy Shield Framework in relation to transfers of personal data from the UK to the USA.
+* under an agreement or mechanism which satisfies UK requirements for the transfer of personal data to data processors or data controllers outside the UK, such as standard contractual clauses approved by the European Commission or the US Privacy Shield Framework.
 
 #### Direct marketing
 
-We conduct marketing via post, email, telephone, SMS.
+We conduct marketing via post, email, telephone, SMS (text).
 
-Where we are legally required to obtain your explicit consent to provide you with marketing materials, we will only provide you with such marketing materials if you have provided consent for us to do so.
+Where we are legally required to obtain your explicit consent to provide you with marketing materials, we will only provide you with such marketing materials if you have given consent for us to do so.
 
 We may also send marketing information to you by post if we believe we have a legitimate interest to do so.
 
-Marketing information that you may receive from us includes information about the goods and services we offer, fundraising appeals, competitions, events, employment, volunteering and information about our work.
+Marketing information that you may receive from us includes information about the services we offer, fundraising appeals, competitions, events, Christmas cards, employment, volunteering and information about our work.
 
 Whenever we send you direct marketing/fundraising appeals we will always provide you with a clear method to unsubscribe from receiving further information from us. Every email/SMS message we send will include a link to unsubscribe. If you want to unsubscribe from mailing lists or any marketing, you should look for and follow the instructions we have provided in the relevant communications to you.
 
@@ -319,19 +346,19 @@ If you do not wish to receive emails or marketing communications from us, you ca
 
 If you want to unsubscribe or change the way we communicate with you, you can do so by:
 
-* emailing [donations@starandgarter.org](mailto:donations@starandgarter.org);
-* visiting [www.starandgarter.org/intouch](https://starandgarter.org/intouch/); or
+* emailing [donations@starandgarter.org](mailto:donations@starandgarter.org);
+* visiting [www.starandgarter.org/intouch](https://starandgarter.org/intouch/); or
 * calling our Supporter Care team on weekdays between 8.30am-4.30pm on 020 8481 7676.
 
 #### Recruitment and employment
 
 If you work for us, or apply for a job with us, we will process your personal data, including sensitive personal data, to comply with our contractual, statutory and management obligations and responsibilities.
 
-This data can include, but is not limited to, information relating to your health, racial or ethnic origin, and criminal convictions. In certain circumstances, we may process personal data or sensitive personal data without explicit consent.
+This data can include, but is not limited to, information relating to your health, racial or ethnic origin, professional qualifications and criminal convictions. In certain circumstances, we may process personal data or special category (sensitive) personal data without explicit consent.
 
 Our contractual responsibilities include those arising from a contract of employment. This includes, but is not limited to, data relating to: payroll, bank account, postal address, sick pay, leave, maternity pay, pension and emergency contacts.
 
-Our statutory responsibilities are those imposed by law on us as an employer. This includes, but is not limited to, data relating to: tax, national insurance, statutory sick pay, statutory maternity pay, family leave, work permits and equal opportunities monitoring.
+Our statutory responsibilities are those imposed by law on us as an employer. This includes, but is not limited to, data relating to: tax, national insurance, statutory sick pay, statutory maternity or paternity pay, family leave, right to work, work permits and equal opportunities monitoring.
 
 Our management responsibilities are those necessary for the way the organisation functions. This includes, but is not limited to, data relating to: recruitment and employment, training and development, absence, disciplinary matters and contact details.
 
@@ -341,11 +368,15 @@ More information is available in our Staff Privacy Policy.
 
 Our properties have Closed Circuit Television (CCTV) and you may be recorded when you visit them.
 
-CCTV is used to provide security and protect our residents, staff and visitors. CCTV will only be viewed when necessary (for example, to detect or prevent crime) and footage is stored for a set period of time, after which it is recorded over. We comply with the Information Commissioner’s Office CCTV Code of Practice and we put up notices so you know when CCTV is used.
+CCTV is used to provide security and protect our residents, staff and visitors. CCTV will only be viewed when necessary (for example, to detect or prevent crime or to trace a missing resident) and footage is stored for a set period of time, after which it is recorded over. We comply with the Information Commissioner’s Office CCTV Code of Practice and we put up notices so you know when CCTV is used.
 
 #### Security of your personal information
 
-We have implemented generally accepted standards of technology and operational security in order to protect personal information from loss, misuse, alteration or destruction. Only authorised persons are provided access to personal information collected via the website; these individuals have agreed to maintain the confidentiality of this information. We use secure server software (SSL) to encrypt financial and personal information you input via our website before it is sent to us.
+We take all reasonable precautions to safeguard the confidentiality of personal information. We have implemented generally accepted standards of technology and operational security in order to protect personal information from loss, misuse, alteration or destruction.
+
+Only authorised persons are provided access to personal information collected via the website; these individuals have agreed to maintain the confidentiality of this information.
+
+We use secure server software (SSL) to encrypt financial and personal information you input via our website before it is sent to us.
 
 Although we use appropriate security measures once we have received your personal data, the transmission of data over the internet (including by e-mail) is never completely secure. We endeavour to protect personal data, but we cannot guarantee the security of data transmitted to or by us.
 
@@ -359,11 +390,11 @@ Where we collect your payment information from a form you have completed and pos
 
 #### Cookies
 
-Our website uses cookies so that we can track how users navigate through our website, in order to enable us to evaluate and improve our website. For detailed information on the cookies we use and the purposes for which we use them please read our [cookies policy](https://starandgarter.org/cookies-policy/).
+Our website uses cookies so that we can track how users navigate through our website, in order to enable us to evaluate and improve our website. For detailed information on the cookies we use and the purposes for which we use them please read our [cookies policy](https://starandgarter.org/cookies-policy/).
 
-#### Retention of personal information
+#### How long we keep your personal information for
 
-We will retain your personal information only for as long it is required for the purposes for which it was collected, or as required to do so by law. When we no longer need information, we will dispose of it securely, using specialist companies if necessary to do this work for us.
+We will keep your personal information only for as long it is required for the purposes for which it was collected, or as required to do so by law. When we no longer need information, we will dispose of it securely, using specialist companies if necessary to do this work for us.
 
 #### Your rights
 
@@ -376,7 +407,7 @@ You have certain rights in relation to the personal information we hold about yo
 * withdraw your consent to our processing of your personal information (to the extent such processing is based on consent and consent is the only permissible basis for processing); and/or
 * request portability of your personal information.
 
-If you would like to exercise these rights, please contact the Data Protection Officer in writing. You may be asked to provide the following details:
+If you would like to exercise these rights, please contact the Data Protection Officer. You may be asked to provide the following details:
 
 * The personal information you want to access
 * Where it is likely to be held
@@ -388,17 +419,17 @@ We may charge for a request to access your information, if permitted by applicab
 
 We are not a ‘public authority’ as defined under the Freedom of Information Act 2000. We will not use our funds to respond to requests for information made under this Act.
 
-For more information about your rights under the GDPR, please visit the website of the Information Commissioner’s Office at [https://ico.org.uk/](https://ico.org.uk/)
+For more information about your rights under the GDPR, please visit the website of the Information Commissioner’s Office at [https://ico.org.uk/](https://ico.org.uk/)
 
 #### Contact us
 
 If you have any questions or complaints about this privacy policy or the way your personal information is processed by us, or would like to exercise one of your rights set out above, please contact us by one of the following means:
 
-Email: [general.enquiries@starandgarter.org](mailto:general.enquiries@starandgarter.org)
+Email: [charitysecretary@starandgarter.org](mailto:charitysecretary@starandgarter.org)
 
-Post: The Data Protection Officer, The Royal Star & Garter Homes, 15 Castle Mews, Hampton – TW12 2NP.
+Post: The Data Protection Officer, Royal Star & Garter, 15 Castle Mews, Hampton TW12 2NP.
 
-You may also have the right to lodge a complaint with the UK’s data protection regulator, the Information Commissioner’s Office. For further information on your rights and how to complain to the ICO please refer to the ICO website: [https://ico.org.uk/](https://ico.org.uk/).
+You may also have the right to lodge a complaint with the UK’s data protection regulator, the Information Commissioner’s Office. For further information on your rights and how to complain to the ICO please refer to the ICO website: [https://ico.org.uk/](https://ico.org.uk/).
 
 Get highlights of the most important news delivered to your email inbox
 
