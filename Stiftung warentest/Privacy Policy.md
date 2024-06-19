@@ -358,8 +358,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/unternehmen/)
-* [Presse](https://www.test.de/presse/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v107948102.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v108635066.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -420,7 +420,7 @@ Personenbezogene Daten bezeichnen alle Informationen, die sich auf eine identifi
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Daten, die für die Bezahlung kosten­pflichtiger Inhalte nötig sind, die über die Internetseite der Stiftung Warentest abge­rufen werden können, erhebt, speichert und verwaltet der Anbieter des jeweiligen Bezahl­systems. Bitte beachten Sie dessen jeweilige Hinweise zum Daten­schutz.
 
@@ -791,29 +791,29 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
 
 Fußbereich
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -1255,8 +1255,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/unternehmen/)
-* [Presse](https://www.test.de/presse/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -1608,8 +1608,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/unternehmen/)
-* [Presse](https://www.test.de/presse/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Tests & Themen](https://www.test.de/thema/)
@@ -2327,7 +2327,7 @@ Personenbezogene Daten bezeichnen alle Informationen, die sich auf eine identifi
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Daten, die für die Bezahlung kosten­pflichtiger Inhalte nötig sind, die über die Internetseite der Stiftung Warentest abge­rufen werden können, erhebt, speichert und verwaltet der Anbieter des jeweiligen Bezahl­systems. Bitte beachten Sie dessen jeweilige Hinweise zum Daten­schutz.
 
@@ -2721,7 +2721,7 @@ Personenbezogene Daten bezeichnen alle Informationen, die sich auf eine identifi
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Daten, die für die Bezahlung kosten­pflichtiger Inhalte nötig sind, die über die Internetseite der Stiftung Warentest abge­rufen werden können, erhebt, speichert und verwaltet der Anbieter des jeweiligen Bezahl­systems. Bitte beachten Sie dessen jeweilige Hinweise zum Daten­schutz.
 
@@ -3090,11 +3090,11 @@ Friedrich­straße 219
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
 
 Verantwort­licher
 -----------------
@@ -3774,65 +3774,65 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
 
 Weitere spannende Themen
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
 
 Neueste Tests
 
-* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
-* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Nach­haltige Banken im Vergleich: Zinsen und Konten im grünen Bereich](https://www.test.de/Nachhaltige-Banken-Vergleich-4590882-0/ "Nachhaltige Banken im Vergleich - Zinsen und Konten im grünen Bereich")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
-* [Tages­geld­vergleich: So finden Sie jetzt die besten Zinsen](https://www.test.de/Tagesgeldvergleich-Die-besten-Zinsen-4196794-0/ "Tagesgeldvergleich - So finden Sie jetzt die besten Zinsen")
-* [Fest­geld­vergleich: Hier bringt Ihr Spargeld die beste Rendite – und ist sicher](https://www.test.de/Festgeldvergleich-Die-besten-Zinsen-4196084-0/ "Festgeldvergleich - Hier bringt Ihr Spargeld die beste Rendite – und ist sicher")
+* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
+* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
+* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
+* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
-* [Warn­liste: Abzo­ckern ausgeliefert](https://www.test.de/Warnliste-Abzockern-ausgeliefert-5968840-0/ "Warnliste - Abzockern ausgeliefert")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
-* [Herren-Unterhosen im Test: Große Marken enttäuschen](https://www.test.de/Herren-Unterhosen-im-Test-Grosse-Marken-enttaeuschen-5967320-0/ "Herren-Unterhosen im Test - Große Marken enttäuschen")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -3862,9 +3862,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -3886,9 +3886,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/unternehmen/)
+* [Über uns](https://www.test.de/thema/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/presse/)
+* [Presse](https://www.test.de/thema/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
