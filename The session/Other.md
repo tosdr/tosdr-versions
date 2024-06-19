@@ -147,10 +147,6 @@ You can ask your question in the [Discussions](https://thesession.org/discussion
 
 You can also [write to me](https://thesession.org/contact) ([Jeremy](https://thesession.org/members/1)). If you have a technical question about the website itself, that’s the best option.
 
-[back](#) [menu](#top)
-
-[Log in](https://thesession.org/login?redirect=%2Fhelp) or [Sign up](https://thesession.org/signup)
-
 * [Tunes](https://thesession.org/tunes)
 * [Discography](https://thesession.org/recordings)
 * [Trips](https://thesession.org/trips)
