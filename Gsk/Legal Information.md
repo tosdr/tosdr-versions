@@ -43,11 +43,6 @@ Location
         
         * [Flu](https://us.gsk.com/en-us/company/vaccines/flu/)
         * [Shingles (Herpes Zoster)](https://us.gsk.com/en-us/company/vaccines/shingles-herpes-zoster/)
-            
-            Vaccines [Shingles (Herpes Zoster)](https://us.gsk.com/en-us/company/vaccines/shingles-herpes-zoster/)
-            
-            * [Don't let shingles interrupt your ability to thrive](https://us.gsk.com/en-us/company/vaccines/shingles-herpes-zoster/dont-let-shingles-interrupt-your-ability-to-thrive/)
-            
         * [Meningitis](https://us.gsk.com/en-us/company/vaccines/meningitis/)
         
     * [HIV](https://us.gsk.com/en-us/company/hiv/)
@@ -139,6 +134,7 @@ Location
         Careers [Experienced professionals](https://us.gsk.com/en-us/careers/experienced-professionals/)
         
         * [A career in oncology](https://us.gsk.com/en-us/careers/experienced-professionals/a-career-in-oncology/)
+        * [A career in Boston](https://us.gsk.com/en-us/careers/experienced-professionals/a-career-in-boston/)
         
     * [Early talent](https://us.gsk.com/en-us/careers/early-talent/)
         
