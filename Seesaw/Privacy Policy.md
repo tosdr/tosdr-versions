@@ -1,6 +1,12 @@
-[Skip to content](#container "Skip to content")
+[Skip to content](#main_content "Skip to content")
 
 * [International](https://seesaw.com/international/)
+    * [UK](https://seesaw.com/uk/)
+    * [Canada](https://seesaw.com/canada/)
+    * [Australia](https://seesaw.com/australia/)
+    * [New Zealand](https://seesaw.com/new-zealand/)
+    * [UAE](https://seesaw.com/uae/)
+    * [Seesaw Worldwide](https://seesaw.com/other-countries/)
 * [Contact Us](https://seesaw.com/contact-us/)
 * [Request a Demo](https://page.seesaw.me/request-quote.html?utm_source=webnav&utm_medium=request-info-button)
 * [Log In](https://app.seesaw.me/#/login)
@@ -142,6 +148,13 @@
     * [Teacher](https://web.seesaw.me/contact-us/#teacher)
     * [Administrator](https://web.seesaw.me/contact-us/#admnins)
     * [Parent/Guardian](https://web.seesaw.me/contact-us/#parents)
+* [International](#)
+    * [UK](https://seesaw.com/uk/)
+    * [Canada](https://seesaw.com/canada/)
+    * [Australia](https://seesaw.com/australia/)
+    * [New Zealand](https://seesaw.com/new-zealand/)
+    * [UAE](https://seesaw.com/uae/)
+    * [Seesaw Worldwide](https://seesaw.com/other-countries/)
 * [Request A Demo](https://page.seesaw.me/request-quote.html)
 * [Log In](https://app.seesaw.me/#/login)
 * [Search](#)
@@ -305,6 +318,8 @@ Seesaw has further committed to cooperate and comply respectively with the advic
 
 Additionally, Seesaw is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission for compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. As further explained on the Data Privacy Framework program website at  
 [www.dataprivacyframework.gov](http://www.dataprivacyframework.gov/), you may also invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Finally, in compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Seesaw Learning, Inc. commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to BBB National Programs DPF Services, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please [https://bbbprograms.org/programs/all-programs/dpf-consumers](https://bbbprograms.org/programs/all-programs/dpf-consumers) for more information or to file a complaint. The services of BBB National Programs DPF Services are provided at no cost to you.
 
 **20\. Does seesaw comply with your state’s laws?**
 
