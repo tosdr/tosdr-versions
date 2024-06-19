@@ -128,7 +128,7 @@ Video
 
 **TERMS OF SERVICE**
 
-**Last updated:** September 1, 2023 
+**Last updated:** June 11, 2024 
 
   
 
@@ -306,7 +306,7 @@ The license granted to you in these Terms terminates automatically upon any unau
 
 **MISCELLANEOUS**
 
-Governing Law; Dispute Resolution: These Terms are governed by and construed in accordance with the internal laws of the State of Delaware, without reference to principles of conflicts of laws. Any controversy or claim arising out of or relating to these Terms or your use of the Platform shall be settled by arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules. Claims shall be heard by a single, neutral arbitrator, and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof, accompanied by a reasoned opinion of the arbitrator. The place of arbitration shall be Wilmington, Delaware, and the arbitration shall be governed by the laws of the State of Delaware. Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties. 
+Governing Law; Dispute Resolution: These Terms are governed by and construed in accordance with the internal laws of the State of Delaware, without reference to principles of conflicts of laws. Claims shall be heard by a single, neutral arbitrator, and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof, accompanied by a reasoned opinion of the arbitrator. The place of arbitration shall be Wilmington, Delaware, and the arbitration shall be governed by the laws of the State of Delaware. Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties. 
 
   
 
