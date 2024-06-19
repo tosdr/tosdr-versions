@@ -32,6 +32,7 @@
     * [Drapery Cleaning](https://carpetcleaningnyc.com/drapery-cleaning-nyc)
     * [Arm Chair Cleaning](https://carpetcleaningnyc.com/service/upholstery-care/arm-chair-cleaning-nyc)
     * [Mattress Cleaning](https://carpetcleaningnyc.com/service/upholstery-care/mattress-cleaning-NYC)
+    * [Blind and Shade Cleaning](https://carpetcleaningnyc.com/blind-and-shade-cleaning-service/)
 * [Area Rug Care](https://carpetcleaningnyc.com/rug-cleaning-nyc/)
     * [Viscose Rugs](https://carpetcleaningnyc.com/service/viscose-rug-cleaning-services/)
     * [Silk Rugs](https://carpetcleaningnyc.com/service/rug-care/silk-rug-cleaning-service-ny)
