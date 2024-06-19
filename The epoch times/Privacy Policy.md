@@ -2,6 +2,9 @@
 
 [![The Epoch Times](/_next/static/media/logo.32553ed2.svg)](https://www.theepochtimes.com/)
 
+Data Protection & Privacy Policy
+================================
+
 WHO WE ARE
 ----------
 
