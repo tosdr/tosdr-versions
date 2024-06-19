@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?](https://s1.cdn.autoevolution.com/images/news/people-are-angry-new-york-city-s-congestion-charge-plan-is-delayed-should-they-be-235331-5.jpg "People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?")
+[![The 2025 Ford Mustang GTD Carbon Series Performance Looks Stunning, But I Want an M2](https://s1.cdn.autoevolution.com/images/news/the-2025-ford-mustang-gtd-carbon-series-performance-looks-stunning-but-i-want-an-m2-235402-5.jpg "The 2025 Ford Mustang GTD Carbon Series Performance Looks Stunning, But I Want an M2")
 
-#### People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?](https://www.autoevolution.com/news/people-are-angry-new-york-city-s-congestion-charge-plan-is-delayed-should-they-be-235331.html "People Are Angry New York City’s Congestion Charge Plan Is Delayed, Should They Be?")
+#### The 2025 Ford Mustang GTD Carbon Series Performance Looks Stunning, But I Want an M2](https://www.autoevolution.com/news/the-2025-ford-mustang-gtd-carbon-series-performance-looks-stunning-but-i-want-an-m2-235402.html "The 2025 Ford Mustang GTD Carbon Series Performance Looks Stunning, But I Want an M2")
 
 coverstory \_
 
-[![The Original Owner Bought a Shelby Mustang GT500KR Twice, 33 Years Apart, and Now Sells It](https://s1.cdn.autoevolution.com/images/news/the-original-owner-bought-a-shelby-mustang-gt500kr-twice-33-years-apart-and-now-sells-it-235377-5.jpg "The Original Owner Bought a Shelby Mustang GT500KR Twice, 33 Years Apart, and Now Sells It")
+[![This Camper Van Is an Engineering Masterpiece With a Genius, One-of-a-Kind Design](https://s1.cdn.autoevolution.com/images/news/this-camper-van-is-an-engineering-masterpiece-with-a-genius-one-of-a-kind-design-235577-5.jpg "This Camper Van Is an Engineering Masterpiece With a Genius, One-of-a-Kind Design")
 
-The Original Owner Bought a Shelby Mustang GT500KR Twice, 33 Years Apart, and Now Sells It](https://www.autoevolution.com/news/the-original-owner-bought-a-shelby-mustang-gt500kr-twice-33-years-apart-and-now-sells-it-235377.html)
+This Camper Van Is an Engineering Masterpiece With a Genius, One-of-a-Kind Design](https://www.autoevolution.com/news/this-camper-van-is-an-engineering-masterpiece-with-a-genius-one-of-a-kind-design-235577.html)
 
 how-to \_
 
