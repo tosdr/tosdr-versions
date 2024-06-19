@@ -789,7 +789,7 @@ Buy a multi-year license and save.
 Add Support and Training
 
  **Advanced Support - $400**  
-**24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/nessus-professional/advanced-support).** **Nessus Fundamentals - $250**  
+**24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/nessus-professional/advanced-support).** **Nessus Fundamentals - $275**  
 **1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-fundamentals?utm_source=tenable-com&utm_medium=pro-modal-buy&utm_campaign=more-info)**
 
 [Buy Now](https://store.tenable.com/1479/purl-webNessusOneYearBundle_Support?x-promotion=webmodal-nessus&x-Source=Modal)
@@ -822,7 +822,7 @@ Add Support and Training
 
  **Advanced Support - $400**  
 
-24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/advanced-support). **Nessus Fundamentals - $250**  
+24x365 Access to phone, email, community, and chat support. [More info](https://www.tenable.com/products/nessus/advanced-support). **Nessus Fundamentals - $275**  
 1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-fundamentals?utm_source=tenable-com&utm_medium=expert-modal-buy&utm_campaign=more-info) **Nessus Fundamentals + Nessus Advanced - $350**  
 1 Year Access to the Nessus Fundamentals and Nessus Advanced On-Demand Video Courses for 1 person. [More info.](https://www.tenable.com/education/courses/nessus-advanced?utm_source=tenable-com&utm_medium=pro-buypage-embed&utm_campaign=more-info)
 
