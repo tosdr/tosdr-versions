@@ -217,7 +217,7 @@ FOLLOW US
 
 #### LEARN
 
-* [Verify Pass Discount](https://id.discount/offers/website/omaxhealth.com)
+* [Student/Veteran Discount](https://id.discount/offers/website/omaxhealth.com)
 * [Wholesale Inquiries](https://omaxpro.com/pages/wholesale-inquiries)
 * [Certificates of Analysis](https://omaxhealth.com/pages/certificates-of-analysis)
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3316 reviews](https://omaxhealth.com/pages/reviews)
+[3322 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3006)
+(3012)
 
 5%
 
@@ -327,36 +327,34 @@ Go to product page
 
 (49)
 
-2127
+2133
 
-S
+T
 
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+[CryoFreeze® CBD Oil Rapid Relief Drops](https://omaxhealth.com/products/cryofreeze-cbd-rapid-relief-drops#judgeme_product_reviews)
 
-Stephen S.
+Teri C.
 
-**Pickleballers love this!**
+Husband loves. Relieves pain without feeling hazy.
 
-I am an avid pickleballer - and with the pains and stiffness that comes with age especially with this active sport - I use it a lot plus anytime I offer it to my pickleball buddies they buy it! Nothing but positive reviews
+T
 
-K
+[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
 
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+Terry T.
 
-KELLY P.
+**Fish oil**
 
-**Best product ever!**
+Just what the doctor ordered.
 
-This CBD roll on is something I cannot live without. It's so easy to use and so effective! Anytime I have a sore muscle, I just roll this on the area and within just a few minutes I have relief from the pain.
+M
 
-K
+[CryoFreeze® CBD Roll-On & Cream Duo](https://omaxhealth.com/products/cryofreeze-cooling-relief-duo#judgeme_product_reviews)
 
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+Michael B.
 
-Kerry A.H.
+**Aches and pains**
 
-**Miracle!**
-
-I was a sceptic. I'm an RN and nothing really worked for my severe arthritis before. A friend told me about Cryofreeze Extra Strength and I decided to try it. It works! It started petetrating within 5 minutes and is going strong 20 minutes later. I'm sold. This is effective!
+I am 56 years old and have my share aches and pains. Bad rotator cuff etc. I love the cryofreeze products. Goes to work right away and really penetrates and relieves the pain.
 
 Load More
