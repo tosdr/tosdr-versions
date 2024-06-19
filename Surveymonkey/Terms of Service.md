@@ -124,7 +124,7 @@ Find out what your customers think about your new product ideas.
 
 [Contact Sales](https://www.surveymonkey.com/mp/contact-sales/)
 
-[Pricing](https://www.surveymonkey.com/pricing/?ut_ctatext=Pricing&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-standalone-link)
+[Pricing](https://www.surveymonkey.com/pricing/?ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-standalone-link)
 
 [Enterprise](https://www.surveymonkey.com/mp/enterprise/)
 
@@ -317,7 +317,7 @@ How top brands drive growth with SurveyMonkey.
     
     ##### [See all templates](https://www.surveymonkey.com/mp/survey-templates/)
     
-* [Pricing](https://www.surveymonkey.com/pricing/?ut_ctatext=Pricing&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-standalone-link)
+* [Pricing](https://www.surveymonkey.com/pricing/?ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-standalone-link)
     
 * [Enterprise](https://www.surveymonkey.com/mp/enterprise/)
     
@@ -383,11 +383,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-Logo](https://prod.smassets.net/assets/website/2.265.0/images/legal_sidebar__badge.png)
+![SurveyMonkeyロゴ](https://prod.smassets.net/assets/website/2.267.0/images/legal_sidebar__badge.png)
 
-* [Übersicht](https://www.surveymonkey.com/mp/legal/)
+* [概要](https://www.surveymonkey.com/mp/legal/)
     
-* [Nutzungsbedingungen](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [利用規約](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -425,32 +425,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Rahmenvertrag](https://www.surveymonkey.com/mp/legal/gsa/)
+* [適用サービス契約](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Servicespezifische Bestimmungen](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [各サービスの条件](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Unsere Datenschutzrichtlinie](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [プライバシーの基本](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Datenschutzerklärung](https://www.surveymonkey.com/mp/legal/privacy/)
+* [プライバシーに関するお知らせ](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Cookie](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Auf Umfrageseiten verwendete Cookies](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [アンケートページで使用されるCookie](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Richtlinie zur zulässigen Nutzung](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [認められる使用のポリシー](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Sicherheit](https://www.surveymonkey.com/mp/legal/security/)
+* [セキュリティ](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Allgemein](https://www.surveymonkey.com/mp/legal/general/)
+* [一般](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Schon gewusst?
+ご存じでしたか？
 
-63 % sehen sich den Datenschutz- und Sicherheitshintergrund eines Unternehmens an, bevor sie dessen Produkte oder Dienstleistungen nutzen.
+63%の人が、製品/サービスを利用する際にその会社のプライバシーとセキュリティの実績を考慮しています。
 
-![Statistiken Seitenleiste Rechtliches](https://prod.smassets.net/assets/website/2.265.0/images/legal_sidebar__stats-image.png)
+![リーガルサイドバー統計](https://prod.smassets.net/assets/website/2.267.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
@@ -1008,7 +1008,7 @@ See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-o
 
 [NPS Survey](https://www.surveymonkey.com/mp/net-promoter-score/)
 
-[Survey Design Best Practices](https://www.surveymonkey.com/mp/survey-guidelines/)
+[Survey Design Best Practices](https://www.surveymonkey.com/learn/survey-best-practices/)
 
 [Margin of Error Calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
 
