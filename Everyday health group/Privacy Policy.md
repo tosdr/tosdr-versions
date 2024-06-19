@@ -189,7 +189,7 @@ Everyday Health and/or certain third parties may collect information about you f
 
 Everyday Health displays ads on both the Services and on the Channels. We may use Online Data as well as other User Information to send you OBA. For example, if you read an article about a particular subject on the Services, we may use cookies from a vendor to later serve you an advertisement for a particular product or service related to the viewed article. These third party vendors may connect information about pages you visit on the Services with information about pages you visit on other Channels and show you advertising based on this combined information. These advertisements may appear when you are visiting a different section of the Services or on another Channel. Likewise, third party vendors may serve you advertisements when you visit the Services based on your interaction with the Services and other Channels.
 
-**The specific providers we use for OBA are subject to change.** For a list of some of the applicable providers, [**click here**](http://l3.evidon.com/site/660/190/1). For information about how to opt out of tracking methods for these entities and others, [**click here**](https://optout.aboutads.info/?c=2&lang=EN). For more details about OBA and opting out, see Section 15 below.
+**The specific providers we use for OBA are subject to change.** For a list of some of the applicable providers, [click here](https://l3.evidon.com/site/660/190/1). For information about how to opt out of tracking methods for these entities and others, [**click here**](https://optout.aboutads.info/?c=2&lang=EN). For more details about OBA and opting out, see Section 15 below.
 
 Online Data is aggregated with the Other Information and data we collect as described in this Privacy Policy and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred based on (a) demographic or interest data and GeoIP Data, (b) the pages you view and links you click when viewing an email or using the Services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests. We store page views, clicks, and search terms used for ad personalization, targeting separately from your Personal Information. We may share de-identified data segments with third parties, and where we do, we implement technical measures and contractual requirements to prevent identification.
 
@@ -813,7 +813,6 @@ Certain health or medical material on this site may be sexually explicit. Please
 [Back to Top](https://www.everydayhealth.com/privacyterms/#top)
 
 Wellness inspired. Wellness enabled.
-------------------------------------
 
 FacebookTwitterInstagramPinterestYoutubeTikTok
 
@@ -828,6 +827,7 @@ FacebookTwitterInstagramPinterestYoutubeTikTok
 * [Do Not Sell My Personal Information](https://www.everydayhealth.com/ccpa-privacy-policy/)
 * [Contact Us](https://www.everydayhealth.com/contact-us/)
 * Health Hubs
+* [Drugs & Supplements](https://www.everydayhealth.com/drugs/)
 * [Popular Topics](https://www.everydayhealth.com/most-popular/)
 * [Sitemap](https://www.everydayhealth.com/sitemap/)
 * AdChoices![AdChoice](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
@@ -837,7 +837,7 @@ FacebookTwitterInstagramPinterestYoutubeTikTok
 
 NEWSLETTERS
 
-### Get the best in health and wellness
+Get the best in health and wellness
 
 Enter your email
 
