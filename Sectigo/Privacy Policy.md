@@ -128,15 +128,15 @@ Connect Partner Portal
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [Webinar: Bugzilla – the real issue of missed revocations](https://www.sectigo.com/resource-library/bugzilla-the-real-issue-of-missed-revocations-webinar)
+* [Quantum-ready movement: How waiting is not an option](https://www.sectigo.com/resource-library/quantum-ready-movement-how-waiting-is-not-an-option)
 
 [Root Causes Podcast Series](https://www.sectigo.com/resource-library/podcasts)
 
+* [Root Causes 394: Snowflake, Ticketmaster, and MFA](https://www.sectigo.com/resource-library/root-causes-394-snowflake-ticketmaster-and-mfa)
+* [Root Causes 393: PQC-enabled Chrome Breaks Other Software](https://www.sectigo.com/resource-library/root-causes-393-pqc-enabled-chrome-breaks-other-software)
+* [Root Causes 392: Chromium Issues a Quality Ultimatum](https://www.sectigo.com/resource-library/root-causes-392-chromium-issues-a-quality-ultimatum)
 * [Root Causes 391: 20 Percent of Web Visits Are PQC Enabled Today](https://www.sectigo.com/resource-library/root-causes-391-20-percent-of-web-visits-are-pqc-enabled-today)
 * [Root Causes 390: Chromium Boosts Its Distrust Agility with a New Root Trust Deprecation](https://www.sectigo.com/resource-library/root-causes-390-chromium-boosts-its-distrust-agility-with-a-new-root-trust-deprecation)
-* [Root Causes 389: 2024 RSA Conference Wrap Up](https://www.sectigo.com/resource-library/root-causes-389-2024-rsa-conference-wrap-up)
-* [Root Causes 388: What Is the WebPKI?](https://www.sectigo.com/resource-library/root-causes-388-what-is-the-webpki)
-* [Root Causes 387: What Is the Post-quantum Readiness of HSMs?](https://www.sectigo.com/resource-library/root-causes-387-what-is-the-post-quantum-readiness-of-hsms)
 
 Moving beyond Microsoft AD Certificate Services
 
@@ -223,13 +223,13 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Webinar: Bugzilla – the real issue of missed revocations](https://www.sectigo.com/resource-library/bugzilla-the-real-issue-of-missed-revocations-webinar)
+    * [Quantum-ready movement: How waiting is not an option](https://www.sectigo.com/resource-library/quantum-ready-movement-how-waiting-is-not-an-option)
     * [Root Causes Podcast Series](https://www.sectigo.com/resource-library/podcasts)
+    * [Root Causes 394: Snowflake, Ticketmaster, and MFA](https://www.sectigo.com/resource-library/root-causes-394-snowflake-ticketmaster-and-mfa)
+    * [Root Causes 393: PQC-enabled Chrome Breaks Other Software](https://www.sectigo.com/resource-library/root-causes-393-pqc-enabled-chrome-breaks-other-software)
+    * [Root Causes 392: Chromium Issues a Quality Ultimatum](https://www.sectigo.com/resource-library/root-causes-392-chromium-issues-a-quality-ultimatum)
     * [Root Causes 391: 20 Percent of Web Visits Are PQC Enabled Today](https://www.sectigo.com/resource-library/root-causes-391-20-percent-of-web-visits-are-pqc-enabled-today)
     * [Root Causes 390: Chromium Boosts Its Distrust Agility with a New Root Trust Deprecation](https://www.sectigo.com/resource-library/root-causes-390-chromium-boosts-its-distrust-agility-with-a-new-root-trust-deprecation)
-    * [Root Causes 389: 2024 RSA Conference Wrap Up](https://www.sectigo.com/resource-library/root-causes-389-2024-rsa-conference-wrap-up)
-    * [Root Causes 388: What Is the WebPKI?](https://www.sectigo.com/resource-library/root-causes-388-what-is-the-webpki)
-    * [Root Causes 387: What Is the Post-quantum Readiness of HSMs?](https://www.sectigo.com/resource-library/root-causes-387-what-is-the-post-quantum-readiness-of-hsms)
     
 
 *  #}
