@@ -108,7 +108,7 @@ Close Search Clear
     
     * [New Arrivals](https://shop.mattel.com/collections/new-arrivals)
     * [Best Sellers](https://shop.mattel.com/collections/best-sellers)
-    * [Wooden Toys](https://shop.mattel.com/collections/fisher-price-wooden-toys)
+    * [New Wooden Toys](https://shop.mattel.com/collections/fisher-price-wooden-toys)
     
      ![Shop By Age](
     
