@@ -28,18 +28,18 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Videos](https://xhamster.com/)
     * [Best Videos](https://xhamster.com/best/weekly)
-    * [Moments](https://xhamster.com/moments/my-new-video-for-you-xhnHQfw)
+    * [Moments](https://xhamster.com/moments/am-i-your-type-xhbMi7A)
     * [Watch History](https://xhamster.com/my/watch-history)
     
     * [British](https://xhamster.com/categories/british)
     * [Amateur](https://xhamster.com/categories/amateur)
     * [Mature](https://xhamster.com/categories/mature)
-    * [Old & Young](https://xhamster.com/categories/old-young)
+    * [Old & Young (18+)](https://xhamster.com/categories/old-young)
     * [Lesbian](https://xhamster.com/categories/lesbian)
     
     * [All categories](https://xhamster.com/categories)
 * [0](https://xhamster.com/my/subscriptions)
-* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&xhName=XHSH-1998&xhGroup=Test-B&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22e%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A1%7D%7D&xhStatsUid=66650a62b9f4c7.96480486551&xhSessionToken=cf9300c40e770905c1cc7ea8ce6b85bab3edb065&xhSessionStartedAt=1717897826)
+* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22h%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6672a27c4af448.89696925531&xhSessionToken=6230efa31bfea7a2cb157105dec877b1dacd24b8&xhSessionStartedAt=1718788732)
 * [Categories](https://xhamster.com/categories)
     * [British](https://xhamster.com/categories/british)
     * [Mature](https://xhamster.com/categories/mature)
@@ -83,14 +83,14 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[](https://flirtify.com/?utm_source=xhamster-headline)
+[](https://faphouse.com/join?utm_source=xhamster-headline&utm_campaign=fathersday2024&utm_medium=desktop-headline)
 
-[Bored of Porn? 😈 Get Horny with Real Girls on Flirtify Chat Roulette](https://flirtify.com/?utm_source=xhamster-headline) [JOIN FOR FREE](https://flirtify.com/?utm_source=xhamster-headline)
+[DAD'S SPECIAL DAY SALE! 🔥 Grab your exclusive discount](https://faphouse.com/join?utm_source=xhamster-headline&utm_campaign=fathersday2024&utm_medium=desktop-headline) [Join Faphouse • 50% OFF](https://faphouse.com/join?utm_source=xhamster-headline&utm_campaign=fathersday2024&utm_medium=desktop-headline)
 
 Privacy Policy
 ==============
 
-Effective Date: June 09, 2024
+Effective Date: June 19, 2024
 
 Last Modified: January 04, 2024
 
