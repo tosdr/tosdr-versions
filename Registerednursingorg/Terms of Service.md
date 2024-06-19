@@ -42,7 +42,7 @@
     * [Master’s of Science in Nursing (MSN) Degree](https://www.registerednursing.org/degree/msn/)
     * [RN to MSN Programs](https://www.registerednursing.org/rn-to-msn/)
     * [Accelerated MSN Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/msn/)
-    * [Direct Entry MSN Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/menp/)
+    * [(MENP) Direct Entry MSN Programs](https://www.registerednursing.org/degree/accelerated-nursing-programs/menp/)
     * [Post-Master’s Certificate](https://www.registerednursing.org/post-masters-certificate/)
 * [DNP Degree](https://www.registerednursing.org/degree/dnp/)
     * [Best DNP Programs](https://www.registerednursing.org/degree/dnp/)
@@ -50,7 +50,7 @@
     * [– Affordable DNP Program Options](https://www.registerednursing.org/articles/most-affordable-dnp-programs/)
     * [Best BSN to DNP Programs](https://www.registerednursing.org/bsn-to-dnp/)
     * [Best PhD in Nursing Programs](https://www.registerednursing.org/degree/phd/)
-* Nurse Practitioner
+* [Nurse Practitioner](https://www.registerednursing.org/nurse-practitioner/)
     * [Steps to Become a Nurse Practitioner](https://www.registerednursing.org/nurse-practitioner/)
     * [– Acute Care Nurse Practitioner (ACNP)](https://www.registerednursing.org/nurse-practitioner/acnp/)
     * [– Adult Gerontology Nurse Practitioner (AGNP)](https://www.registerednursing.org/nurse-practitioner/gerontology/)
@@ -96,7 +96,32 @@
 Website Terms of Use
 ====================
 
-Jump to Page SectionAcceptance of the Terms of UseChanges to the Terms of UseAccessing the Website and Account SecurityIntellectual Property RightsTrademarksProhibited UsesUser ContributionsMonitoring and Enforcement; TerminationContent StandardsCopyright InfringementReliance on Information PostedChanges to the WebsiteInformation About You and Your Visits to the WebsiteLinking to the Website and Social Media FeaturesLinks from the WebsiteGeographic RestrictionsDisclaimer of WarrantiesLimitation on LiabilityIndemnificationGoverning Law and JurisdictionLimitation on Time to File ClaimsWaiver and SeverabilityEntire AgreementYour Comments and Concerns
+Go to Page Section:
+
+* [Acceptance of the Terms of Use](#acceptance-terms-use)
+* [Changes to the Terms of Use](#changes-terms-use)
+* [Accessing the Website and Account Security](#accessing-website-account-security)
+* [Intellectual Property Rights](#intellectual-property-rights)
+* [Trademarks](#trademarks)
+* [Prohibited Uses](#prohibited-uses)
+* [User Contributions](#user-contributions)
+* [Monitoring and Enforcement; Termination](#monitoring-enforcement-termination)
+* [Content Standards](#content-standards)
+* [Copyright Infringement](#copyright-infringement)
+* [Reliance on Information Posted](#reliance-information-posted)
+* [Changes to the Website](#changes-website)
+* [Information About You and Your Visits to the Website](#information-visits-website)
+* [Linking to the Website and Social Media Features](#linking-website-social-media-features)
+* [Links from the Website](#links-website)
+* [Geographic Restrictions](#geographic-restrictions)
+* [Disclaimer of Warranties](#disclaimer-warranties)
+* [Limitation on Liability](#limitation-liability)
+* [Indemnification](#indemnification)
+* [Governing Law and Jurisdiction](#governing-law-jurisdiction)
+* [Limitation on Time to File Claims](#limitation-time-file-claims)
+* [Waiver and Severability](#waiver-severability)
+* [Entire Agreement](#entire-agreement)
+* [Your Comments and Concerns](#comments-concerns)
 
 Acceptance of the Terms of Use
 ------------------------------
@@ -351,8 +376,6 @@ All other feedback, comments, requests for technical support and other communica
 Thank you for visiting the Website.
 
 Updated: December 16, 2023
-
-Share This:[Facebook](https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F)[Twitter](https://twitter.com/intent/tweet/?text=Website+Terms+of+Use&url=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F&title=Website+Terms+of+Use&source=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F)[Reddit](https://reddit.com/submit/?url=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F&resubmit=true&title=Website+Terms+of+Use)
 
 ##### [Nursing Schools Near Me](https://www.registerednursing.org/schools/)
 
