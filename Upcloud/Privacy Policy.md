@@ -388,7 +388,7 @@ If you have any questions about this Privacy Notice or the way UpCloud processes
 
 UpCloud Ltd 2024. All rights reserved.
 
-[Terms of service](https://upcloud.com/terms-of-service/)
+[Terms of service](https://upcloud.com/terms-of-service)
 
 [Privacy Policy](https://upcloud.com/privacy-policy)
 
