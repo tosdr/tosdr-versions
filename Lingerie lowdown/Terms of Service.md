@@ -3,7 +3,7 @@
 
 [![](https://www.lingerielowdown.com/wp-content/uploads/2017/12/lingerie-lowdown-sticky-logo-2018.png)](https://www.lingerielowdown.com/)
 
-* [Join from only £9.99](https://www.lingerielowdown.com/join/)
+* [Join from only £11.99](https://www.lingerielowdown.com/join/)
     * [Monthly membership](https://www.lingerielowdown.com/join/monthly/)
     * [3 Month membership](https://www.lingerielowdown.com/join/3-months/)
     * [6 Month membership](https://www.lingerielowdown.com/join/6-months/)
@@ -207,9 +207,9 @@ Please check these terms and conditions regularly. We can update them at any tim
 
 #### Lingerie Lowdown®
 
-Your ultimate destination for unbiased lingerie and hosiery reviews and much more. Explore 11,000+ products from 875 brands online today. Feel empowered and confident with Lingerie Lowdown, the consumer champion reviewing for over 9 years!
+Your ultimate destination for unbiased lingerie and hosiery reviews and much more. Explore 12,000+ products from over 900 brands online today. Feel empowered and confident with Lingerie Lowdown, the consumer champion reviewing for over 9 years!
 
-Your support fuels our passion to do more. With membership starting as low as £9.99 per month, you can unlock the door to the world of lingerie, hosiery and much more!
+Your support fuels our passion to do more. With membership starting as low as £11.99 per month, you can unlock the door to the world of lingerie, hosiery and much more!
 
 [Join Today](https://www.lingerielowdown.com/join/) | [Our Terms](https://www.lingerielowdown.com/terms-and-conditions/) | [Privacy](https://www.lingerielowdown.com/privacy-policy/) | [Cookies](https://www.lingerielowdown.com/cookies/)
 
