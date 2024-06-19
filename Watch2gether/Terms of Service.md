@@ -131,7 +131,7 @@ Originally adapted from the [WordPress Terms of Use](https://en.wordpress.com/to
 
 * [Home](https://community.w2g.tv/)
 * [Categories](https://community.w2g.tv/categories)
-* [FAQ/Guidelines](https://community.w2g.tv/guidelines)
+* [Guidelines](https://community.w2g.tv/guidelines)
 * [Terms of Service](https://community.w2g.tv/t/impressum-imprint/594)
 * [Privacy Policy](https://w2g.tv/pages/privacy_en)
 
