@@ -110,7 +110,7 @@ Your Personal Data may be transferred to or accessed by other Iron Mountain comp
 
 We ensure that Personal Data, subject to the transfer, is adequately protected as required by the applicable data protection laws of the origin country. While transferring your Personal Data, We normally rely on one or more of the following:
 
-• **Standard Contractual Clauses (“SCCs”) for international transfers of Personal Data,** as may be applicable and relevant, (e.g., transfer of EU/UK/Swiss Personal Data to countries such as the U.S.A and India). If you would like to receive more information about the appropriate safeguards and/or receive a copy of the SCCs for your review, please contact us at [global.privacy@ironmountain.com.](mailto:global.privacy@ironmountain.com)
+• **Standard Contractual Clauses (“SCCs”) for international transfers of Personal Data,** as may be applicable and relevant, (e.g., transfer of EU/UK/Swiss Personal Data to countries such as the U.S.A and India). If you would like to receive more information about the appropriate safeguards and/or receive a copy of the SCCs for your review, please [contact us here](https://www.ironmountain.com/contact/global-privacy-compliance).
 
 • Where required by applicable law, We request your **consent for transfer of your** Personal Data.
 
@@ -151,7 +151,7 @@ If you have a privacy concern, complaint or question to Iron Mountain please con
 Global Privacy & Compliance  
 Global Privacy Officer  
 EEA/UK Group Data Protection Officer  
-[global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com)
+[Contact us here](https://www.ironmountain.com/contact/global-privacy-compliance)
 
 You may find both the name of our local subsidiary and contact details [here](https://www.ironmountain.com/contact) (for Crozier entities [here](https://www.crozierfinearts.com/locations)) by selecting region and country. We will aim to ensure that your complaint is resolved in a timely and appropriate manner and treat your requests and complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint observing whether there are any local rules that indicate a deadline to resolve your request.
 
