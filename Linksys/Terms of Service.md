@@ -4,7 +4,7 @@ Close
 
 Toggle navigation
 
-[![Linksys: US](/on/demandware.static/Sites-LINKUS-Site/-/default/dw241456ae/images/LNK-wordmark_2023_small_No-RegTrdMrk_White.svg)](https://www.linksys.com/ "Linksys: US Home")
+[![Linksys: US](/on/demandware.static/Sites-LINKUS-Site/-/default/dwea08c694/images/LNK-wordmark_2023_small_No-RegTrdMrk_White.svg)](https://www.linksys.com/ "Linksys: US Home")
 
 Back
 
@@ -71,7 +71,7 @@ Close ×
         
     * [Wishlist](https://www.linksys.com/wishlist)
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-LINKUS-Site/-/default/dw0d6f6105/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-LINKUS-Site/-/default/dwf904b00e/images/globe-white.svg) United States
 
 Change region
 
@@ -225,7 +225,7 @@ End-User License Agreement
   
   
 
-![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-LINKUS-Site/-/default/dw11f95c8a/images/LNK-wordmark_2023_small_No-RegTrdMrk_PMS-CoolGrey2C.svg)
+![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-LINKUS-Site/-/default/dw5e59e3e1/images/LNK-wordmark_2023_small_No-RegTrdMrk_PMS-CoolGrey2C.svg)
 
 ##### Welcome. Would you like to be redirected to the Linksys GB website?
 
@@ -239,7 +239,7 @@ NO
 
  Save Preferences
 
-[![Linksys: US](/on/demandware.static/Sites-LINKUS-Site/-/default/dwda4f6c3e/images/LNK-Ligature-Symbol_with-TM_White.svg)](https://www.linksys.com/ "Linksys: US Home")
+[![Linksys: US](/on/demandware.static/Sites-LINKUS-Site/-/default/dwe6f68c90/images/LNK-Ligature-Symbol_with-TM_White.svg)](https://www.linksys.com/ "Linksys: US Home")
 
 Connect with Linksys
 
@@ -295,7 +295,7 @@ Partner Links
 
 Change region
 
-[Privacy & Security](https://www.linksys.com/privacy-and-security.html) | [Accessibility](https://www.linksys.com/accessibility.html) | [Documentation](https://www.linksys.com/documentation.html) | [Terms of Use](https://www.linksys.com/support-article?articleNum=59242) | Cookie Settings
+[Privacy & Security](https://www.linksys.com/privacy-and-security.html) | [Accessibility](https://www.linksys.com/accessibility.html) | [Documentation](https://www.linksys.com/documentation.html) | [Terms of Use](https://www.linksys.com/support-article?articleNum=59242) | [Modern Slavery Act](https://www.linksys.com/support-article?articleNum=49407) | Cookie Settings
 
 [](https://www.twitter.com/Linksys "link to twitter account")[](https://www.facebook.com/linksys "link to facebook account")[](https://www.instagram.com/linksys "link to instagram account")[](https://www.linkedin.com/company/linksys/ "link to linkedin account")[](https://www.youtube.com/user/OfficialLinksys "link to youtube account")
 
@@ -303,7 +303,7 @@ Change region
 
 [Privacy & Security](https://www.linksys.com/privacy-and-security.html) | [Accessibility](https://www.linksys.com/accessibility.html) | [Documentation](https://www.linksys.com/documentation.html) | [Terms of Use](https://www.linksys.com/support-article?articleNum=59242) | Cookie Settings
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-LINKUS-Site/-/default/dw0d6f6105/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-LINKUS-Site/-/default/dwf904b00e/images/globe-white.svg) United States
 
 Change region
 
