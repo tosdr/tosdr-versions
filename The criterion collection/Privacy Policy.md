@@ -1,3 +1,7 @@
+[Shop the summer Merch sale!
+
+gift shop items 30% off until June 24](https://www.criterion.com/gift-shop)
+
 The Criterion Collection
 
 [Home](https://www.criterion.com/)
