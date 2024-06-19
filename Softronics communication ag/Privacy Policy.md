@@ -187,7 +187,7 @@ Please direct any inquiries regarding data protection to [Softronics](https://ww
 2\. Processing of your personal data
 ------------------------------------
 
-We generally process personal data in accordance with Swiss data protection laws. We use and store your personal data only for processing your inquiries, orders and for contacting you.
+We generally process personal data in accordance with Swiss data protection laws in Switzerland. We use and store your personal data only for processing your inquiries, orders and for contacting you.
 
 ### Data collected by us
 
