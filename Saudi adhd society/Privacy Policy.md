@@ -11,8 +11,6 @@
 * [We need your support](https://adhd.org.sa/en/how-to-support-us/)
     
 
-[Log in](https://adhd.org.sa/staff/?redirect_to=https%3A%2F%2Fadhd.org.sa%2Fen%2Fprivacy-policy%2F)
-
 Search for... 
 
 [![](https://adhd.org.sa/wp-content/uploads/2020/08/Eshraq-Social-Media_Linkedin-Standard-Logo-or-Profile-Picture-400x400-150x150-1.png)
