@@ -28,7 +28,7 @@ United States
 
 [Enterprise](https://shadow.tech/enterprise/offers)
 
-[Drive](https://shadow.tech/drive/offers)
+[Drive](https://shadow.tech/drive)
 
 [Game Store](https://shadow.tech/game-store)
 
@@ -38,7 +38,7 @@ Ressources
 
 [![](https://cdn.builder.io/api/v1/image/assets%2F25e97643e99a4b8d8ef054c47d955bbb%2F7f62d579a299457e8afd1d8bb93462c0)
 
-Downloads](https://shadow.tech/shadow-apps)[![](https://cdn.builder.io/api/v1/image/assets%2F25e97643e99a4b8d8ef054c47d955bbb%2Ff9125841a77749648cdc234b658bf7b6)
+Downloads](https://shadow.tech/download)[![](https://cdn.builder.io/api/v1/image/assets%2F25e97643e99a4b8d8ef054c47d955bbb%2Ff9125841a77749648cdc234b658bf7b6)
 
 Blog](https://shadow.tech/blog)[![](https://cdn.builder.io/api/v1/image/assets%2F25e97643e99a4b8d8ef054c47d955bbb%2F85bd3f07f1f1463d94bbbc1c8024efda)
 
