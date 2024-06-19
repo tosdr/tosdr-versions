@@ -1,4 +1,6 @@
-![](https://www.facebook.com/tr?id=1468811803353962&ev=PageView&noscript=1)       
+![](https://www.facebook.com/tr?id=1468811803353962&ev=PageView&noscript=1)      
+
+![](https://ct.pinterest.com/v3/?event=init&tid=2612406718008&pd[em]=&noscript=1)
 
 [AllTrails](https://www.alltrails.com/?ref=header)
 
@@ -459,7 +461,7 @@ Members for the planet
 
 Connect with us
 
-[](https://www.instagram.com/alltrails "Instagram")[](https://www.tiktok.com/@alltrails "TikTok")[](https://www.facebook.com/AllTrails "Facebook")[](https://www.twitter.com/alltrails "Twitter")[](https://www.linkedin.com/company/alltrails "LinkedIn")
+[](https://www.instagram.com/alltrails "Instagram")[](https://www.tiktok.com/@alltrails "TikTok")[](https://www.facebook.com/AllTrails "Facebook")[](https://www.x.com/alltrails "X")[](https://www.linkedin.com/company/alltrails "LinkedIn")
 
 2024 AllTrails, LLC All Rights Reserved
 
