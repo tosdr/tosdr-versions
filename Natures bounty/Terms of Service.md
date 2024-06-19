@@ -563,7 +563,7 @@ Nature’s Bounty may make changes to products from time to time. Please consult
 
 Δ Get More With Nature’s Bounty® Than Ever Before.
 
-◊ Source: Circana –Total US – Multi Outlet: Latest 52 weeks ending 11/26/23
+◊Source: Circana™ OmniMarket Core Outlets – Total MULO 52 weeks ending 3/17/24 based on Nestlé Health Science’s custom definition for Hair, Skin & Nails supplement segment.
 
 ^Compared to Nature's Bounty(R) Optimal Solutions(R) Hair, Skin & Nails gummies
 
