@@ -39,7 +39,7 @@ Search
     * [Light](https://lyricstranslate.com/en/cookies-policy?theme=lt7)
     * [Dark](https://lyricstranslate.com/en/cookies-policy?theme=lt7dark)
 * [Interface language](#)
-    * Bahasa IndonesiaDeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiPortuguês (Brasil)RomânăSuomiSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربيةفارسی日本語한국어
+    * DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
         
 * [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
 * [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=cookies-policy)
@@ -174,81 +174,79 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Aya Cheikh](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620652-1717951661.png)](https://lyricstranslate.com/en/translator/aya-cheikh "Aya Cheikh")
-
-New request
-
-[Lovely Runner (OST) - A Day](https://lyricstranslate.com/en/request/day-32)
-
-Korean → French
-
-[![DimitrisTS](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1223360-1717614235.gif)](https://lyricstranslate.com/en/translator/grenfrsv "DimitrisTS")
-
-New song
-
-[Doukissa - Θα το παίξω Ευρωπαία](https://lyricstranslate.com/en/doukissa-tha-paixo-evropaia-lyrics)
-
-Greek
-
-[![Coca Trolla](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1363581-1706216905.jpg)](https://lyricstranslate.com/en/translator/coca-trolla "Coca Trolla")
+[![3SiameseCats](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1578611-1684781971.png)](https://lyricstranslate.com/en/translator/3siamesecats "3SiameseCats")
 
 New comment
 
-Tristana αφού δε σε ενδιαφέρουν οι πόντοι γιατί ...  [more](https://lyricstranslate.com/en/comment/1148639#comment-1148639)
+\[@Fary\] Corrected lyrics below. Vein ...  [more](https://lyricstranslate.com/en/comment/1150317#comment-1150317)
 
-[![Fefefee](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/fefefee "Fefefee")
+[![Dr_Igor](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1465978-1715538506.jpg)](https://lyricstranslate.com/en/translator/drigor "Dr_Igor")
 
 New song
 
-[Nura - Ich war's nicht](https://lyricstranslate.com/en/nura-ich-wars-nicht-lyrics)
+[Valery Obodzinsky - Синеокая бездна](https://lyricstranslate.com/en/valery-obodzinsky-sineokaya-bezdna-lyrics)
 
-German
+Russian
 
-[![Serge Pesetsky](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1462378-1706209758.jpg)](https://lyricstranslate.com/en/translator/serge-pesetsky "Serge Pesetsky")
-
-New translation
-
-[Adriano Celentano - Angel](https://lyricstranslate.com/en/adriano-celentano-angel-belarusian)
-
-Italian → Belarusian
-
-[![Tsukiss](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444417-1579603184.png)](https://lyricstranslate.com/en/translator/tsukiss "Tsukiss")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New translation
 
-[Léman - JVQTSM](https://lyricstranslate.com/en/leman-jvqtsm-english)
+[Mino Reitano - Un'adorabile follia](https://lyricstranslate.com/en/mino-reitano-unadorabile-follia-english)
 
-French → English
+Italian → English
 
-[![DimitrisTS](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1223360-1717614235.gif)](https://lyricstranslate.com/en/translator/grenfrsv "DimitrisTS")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
-New comment
+New song
 
-ας μείνει και κάτι να μη γίνεται ηλεκτρονικά... δε...  [more](https://lyricstranslate.com/en/comment/1148638#comment-1148638)
+[Mino Reitano - Un'adorabile follia](https://lyricstranslate.com/en/mino-reitano-unadorabile-follia-lyrics)
 
-[![Blank Blankness](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1570749-1682551120.png)](https://lyricstranslate.com/en/translator/blank-blankness "Blank Blankness")
+Italian
 
-New transcription request
+[![twinkiewithanIE](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1138838-1582150326.png)](https://lyricstranslate.com/en/translator/twinkiewithanie "twinkiewithanIE")
 
-[Non/disney Fandubs - Let It Go (Yamagata Japanese)](https://lyricstranslate.com/en/nondisney-fandubs-let-it-go-yamagata-japanese)
+New translation
+
+[Re:vale - Re-raise (Re - Raise)](https://lyricstranslate.com/en/revale-re-raise-english)
+
+Japanese → English
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New song
+
+[Kroi - GAS](https://lyricstranslate.com/en/kroi-gas-lyrics)
 
 Japanese
 
-[![Grasmuecke](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620618-1717925252.png)](https://lyricstranslate.com/en/translator/grasmuecke "Grasmuecke")
+[![twinkiewithanIE](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1138838-1582150326.png)](https://lyricstranslate.com/en/translator/twinkiewithanie "twinkiewithanIE")
+
+New song
+
+[Re:vale - Re-raise](https://lyricstranslate.com/en/revale-re-raise-lyrics)
+
+Japanese
+
+[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
 
 New translation
 
-[THE HARDKISS - Журавлі (Zhuravli)](https://lyricstranslate.com/en/hardkiss-zhuravli-german)
+[Vukica Veljović - Drugi su mi rekli](https://lyricstranslate.com/en/vukica-veljovic-drugi-su-mi-rekli-russian)
 
-Ukrainian → German
+Serbian → Russian
 
-[![izxsdklk](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/izxsdklk "izxsdklk")
+[![Joshua Murphy](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609184-1708220188.png)](https://lyricstranslate.com/en/translator/joshua-murphy "Joshua Murphy")
 
-Transcription request fulfilled
+New comment
 
-[घाममा सुकाईदेऊ](https://lyricstranslate.com/en/samir-acharya-ghamma-sukaideu-lyrics)
+What do you mean didn’t understand the last verse   [more](https://lyricstranslate.com/en/comment/1150316#comment-1150316)
 
-Nepali
+[![3SiameseCats](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1578611-1684781971.png)](https://lyricstranslate.com/en/translator/3siamesecats "3SiameseCats")
+
+New comment
+
+Now that I have the official lyrics, I've put ...  [more](https://lyricstranslate.com/en/comment/1150315#comment-1150315)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
@@ -262,13 +260,13 @@ Nepali
 
 Interface language
 
-Bahasa IndonesiaDeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiPortuguês (Brasil)RomânăSuomiSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربيةفارسی日本語한국어
+DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
 
 Theme
 
-DarkLight
+Dark Light
 
- 
+Log in to access more features and avoid seeing ads. It's free!
 
 Artists:
 
