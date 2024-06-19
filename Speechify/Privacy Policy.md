@@ -4,7 +4,7 @@
 
 [![](https://speechify.com/wp-content/themes/speechify-custom/assets/images/SpeechifyLogo-test.svg)](https://speechify.com/)
 
-[Download now](https://onboarding.speechify.com/intro)
+[Download now](https://speechify.com/onboarding/quiz/intro/)
 
 * [Text to Speech](https://speechify.com/text-to-speech-online/)
     * [![Online](https://speechify.com/wp-content/uploads/sites/29/2023/06/speechify-icon-2.svg)
@@ -124,12 +124,12 @@
         * [Deepfake voice](https://speechify.com/blog/deepfake-voice/)
         * [How to convert a PDF to speech](https://speechify.com/blog/pdf-to-speech/)
 
-[Log in](https://app.speechify.com/login) [Try for free](https://onboarding.speechify.com/intro)
+[Log in](https://app.speechify.com/login) [Try for free](https://speechify.com/onboarding/quiz/intro/)
 
 Privacy Policy
 ==============
 
-Updated April 23, 2024
+Updated June 10, 2024
 
 At Speechify, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why. We hope you will read it carefully.  
 
@@ -405,7 +405,7 @@ Contact Us
 
 You may contact us with any questions relating to this Privacy Policy by submitting a [help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
-For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 7901 4th Street N, Suite 6193, St. Petersburg FL-33702
+For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
 
 Cookie Policy
 -------------
@@ -729,7 +729,7 @@ To access our catalog of 100,000+ audiobooks, you need to use an iOS device.
 
 Coming to Android soon...
 
-[I have an iPhone or iPad](https://onboarding.speechify.com/?help=false&isProfile=false&activate=false&teams=false&renewal=false&scantopay=false&priceId=price_1MHNBRBtf7hakIXC7Z26I8qI) [Join the Android waitlist](javascript:void(0) "Join the Android waitlist")
+[I have an iPhone or iPad](https://speechify.com/onboarding/?help=false&isProfile=false&activate=false&teams=false&renewal=false&scantopay=false&priceId=price_1MHNBRBtf7hakIXC7Z26I8qI) [Join the Android waitlist](javascript:void(0) "Join the Android waitlist")
 
 [![modalcloseicon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/modalcloseicon.svg)
 
