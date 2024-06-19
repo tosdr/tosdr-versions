@@ -33,6 +33,8 @@ Your Recent Searches
 
 Search
 
+Looking for [Almonds](https://nuts.com/nuts/almonds/), [Cashews](https://nuts.com/nuts/cashews/), [Walnuts](https://nuts.com/nuts/walnuts/) or [Organic](https://nuts.com/organic/)?
+
 ![](/nutshell/img/free-shipping-dots-f1398ae4.svg)
 
 FREE shipping on orders over $59!
@@ -43,56 +45,6 @@ FREE shipping on orders over $59!
 
 \* For destinations within the contiguous U.S., orders totaling $59 or more (before tax) ship free and orders below $59 require payment for shipping. The price of shipping is available in Checkout. Multiple shipping addresses count separately. For other destinations (including international), shipping cost is calculated at checkout. Delivery date will be estimated at checkout. [See Full Details](https://nuts.com/shipping)
 
-* [###### Gifts Press arrowdown key to enter submenu](https://nuts.com/gifts/)
-    
-    * Featured
-        
-    * [Father's Day Gifts](https://nuts.com/fathers-day-headquarters)
-    * [Custom Gifts](https://nuts.com/custom-gifts)
-    * [Gift Guide](https://nuts.com/gifts/)
-    * [Bestsellers](https://nuts.com/gifts/best-sellers/)
-    * [Corporate Gifting](https://nuts.com/corporate-gifts)
-    * [All Gifts](https://nuts.com/gifts/all/)
-    
-    * Gifts by Type
-        
-    * [Baskets & Boxes](https://nuts.com/gifts/baskets/)
-    * [Custom Mixes](https://nuts.com/custom/mixes/)
-    * [Custom Trays](https://nuts.com/custom/trays/)
-    * [Tins](https://nuts.com/gifts/gifttins/)
-    * [Trays](https://nuts.com/gifts/trays/)
-    * [Gift Certificates](https://nuts.com/gifts/gift-certificate.html)
-    * [Gift Drop](https://nuts.com/gift-drop)
-    
-    * Gifts by Price
-        
-    * [Gifts under $40](https://nuts.com/gifts/under-40/)
-    * [Gifts under $70](https://nuts.com/gifts/30-50/)
-    * [Premium Gifts](https://nuts.com/gifts/premium/)
-    * [Gifts that Give Back](https://nuts.com/gifts/nutsforbirds/)
-    
-    * Gifts by Occasion
-        
-    * [Congrats](https://nuts.com/gifts/congratulations/)
-    * [Sympathy & Get Well](https://nuts.com/gifts/sympathy/)
-    * [Thank You](https://nuts.com/gifts/thank-you/)
-    * [Birthday](https://nuts.com/gifts/birthday-gifts/?refinementList%5BProduct.searchableTags%5D%5B0%5D=gifts)
-    
-    * Gifts by Flavor
-        
-    * [Chocolate](https://nuts.com/gifts/chocolate-gifts/)
-    * [Fruity](https://nuts.com/gifts/fruity-gifts/)
-    * [Savory](https://nuts.com/gifts/savory-gifts/)
-    * [Salty](https://nuts.com/gifts/salty-gifts/)
-    
-    [![Build Your Own Box Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F58161e9c2bc94868946d36eeaf476a9e)
-    
-    Build Your Own Box](https://nuts.com/custom/box/)
-    
-    [![Shop Custom Trays Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F23e6aef252d84cdcb9715bc56c7fe8d1)
-    
-    Shop Custom Trays](https://nuts.com/custom/trays/)
-    
 * [###### Nuts & Seeds Press arrowdown key to enter submenu](https://nuts.com/nuts/)
     
     * Featured
@@ -157,6 +109,7 @@ FREE shipping on orders over $59!
     * [Sugar-Free](https://nuts.com/chocolatessweets/sugar-free-candy/)
     * [Candy by Color](https://nuts.com/colors/)
     * [Candy by Flavor](https://nuts.com/chocolatessweets/by-flavor/)
+    * [Shop 4th of July](https://nuts.com/fourth-of-july/)
     
     * [Chocolates](https://nuts.com/chocolatessweets/chocolate/)
     * [Premium Chocolates](https://nuts.com/chocolatessweets/premium-chocolates/)
@@ -226,11 +179,11 @@ FREE shipping on orders over $59!
     
     * Feel Good Snacks
         
+    * [Cookies](https://nuts.com/snacks/cookies/)
     * [Custom Trail Mix](https://nuts.com/custom/mixes/)
     * [Trail Mix](https://nuts.com/snacks/trail-mix/)
     * [Dried Fruit](https://nuts.com/snacks/dried-fruit/)
     * [Energy Squares](https://nuts.com/snacks/squares-energy/)
-    * [Fruit & Veggie Chips](https://nuts.com/snacks/fruit-veggie-chips/)
     * [Granola & Muesli](https://nuts.com/snacks/granola/)
     * [Nut Bars](https://nuts.com/snacks/nut-bars/)
     * [Nuts & Seeds](https://nuts.com/snacks/nuts-seeds/)
@@ -239,9 +192,9 @@ FREE shipping on orders over $59!
     * Savory Snacks
         
     * [Cheesy Snacks](https://nuts.com/snacks/cheese/)
+    * [Fruit & Veggie Chips](https://nuts.com/snacks/fruit-veggie-chips/)
     * [Jerky](https://nuts.com/snacks/jerky/)
     * [Spicy Snacks](https://nuts.com/snacks/hot-spicy/)
-    * [Cookies](https://nuts.com/snacks/cookies/)
     
     * Snacks by Activity
         
@@ -309,6 +262,55 @@ FREE shipping on orders over $59!
     [![Shop Chocolate Covered Fruit Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F24c2adaa643748bf9d6c8f92c71c958e)
     
     Shop Chocolate Covered Fruit](https://nuts.com/driedfruit/chocolate-covered/)
+    
+* [###### Gifts Press arrowdown key to enter submenu](https://nuts.com/gifts/)
+    
+    * Featured
+        
+    * [Custom Gifts](https://nuts.com/custom-gifts)
+    * [Gift Guide](https://nuts.com/gifts/)
+    * [Bestsellers](https://nuts.com/gifts/best-sellers/)
+    * [Corporate Gifting](https://nuts.com/corporate-gifts)
+    * [All Gifts](https://nuts.com/gifts/all/)
+    
+    * Gifts by Type
+        
+    * [Baskets & Boxes](https://nuts.com/gifts/baskets/)
+    * [Custom Mixes](https://nuts.com/custom/mixes/)
+    * [Custom Trays](https://nuts.com/custom/trays/)
+    * [Tins](https://nuts.com/gifts/gifttins/)
+    * [Trays](https://nuts.com/gifts/trays/)
+    * [Gift Certificates](https://nuts.com/gifts/gift-certificate.html)
+    * [Gift Drop](https://nuts.com/gift-drop)
+    
+    * Gifts by Price
+        
+    * [Gifts under $40](https://nuts.com/gifts/under-40/)
+    * [Gifts under $70](https://nuts.com/gifts/30-50/)
+    * [Premium Gifts](https://nuts.com/gifts/premium/)
+    * [Gifts that Give Back](https://nuts.com/gifts/nutsforbirds/)
+    
+    * Gifts by Occasion
+        
+    * [Congrats](https://nuts.com/gifts/congratulations/)
+    * [Sympathy & Get Well](https://nuts.com/gifts/sympathy/)
+    * [Thank You](https://nuts.com/gifts/thank-you/)
+    * [Birthday](https://nuts.com/gifts/birthday-gifts/?refinementList%5BProduct.searchableTags%5D%5B0%5D=gifts)
+    
+    * Gifts by Flavor
+        
+    * [Chocolate](https://nuts.com/gifts/chocolate-gifts/)
+    * [Fruity](https://nuts.com/gifts/fruity-gifts/)
+    * [Savory](https://nuts.com/gifts/savory-gifts/)
+    * [Salty](https://nuts.com/gifts/salty-gifts/)
+    
+    [![Build Your Own Box Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F58161e9c2bc94868946d36eeaf476a9e)
+    
+    Build Your Own Box](https://nuts.com/custom/box/)
+    
+    [![Shop Custom Trays Image](https://cdn.builder.io/api/v1/image/assets%2Feffc3d0f04d349b0a5da8c78825f92a5%2F23e6aef252d84cdcb9715bc56c7fe8d1)
+    
+    Shop Custom Trays](https://nuts.com/custom/trays/)
     
 * [###### Coffee & Tea Press arrowdown key to enter submenu](https://nuts.com/coffeesteas/)
     
@@ -1046,16 +1048,6 @@ If you have any questions or comments about these Privacy Provisions, our Privac
     * [![Follow Nuts.com on LinkedIn](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAACB0lEQVRIie2VPWsiURSGn6sGP1CygoWopEsrGfEHZGF/gpV/wFbBQtzGYpctBNEyYGFiZWefBbHRZsFpp1MECwWd4ChpdLZIMuwkYwjJOGn2re57zrn34d7DzBG6ruO0hBB4Hhdfge/AlyMzl8AvoCd0XUcI8dsB6JNU4Jvr0TgFNViuQ1mPx0M4HD4a3RKcyWRYLBYsl0u63S4+n8928FOP/zwF/H4/8/mcYDBoFBUKBer1up3c9Isbh8NhExTg7OzMTihg8dSz2Yxer2f43W5Hp9OxHfziqQFCoRD5fJ5YLEa73WYwGNjNTVuCHVDaYxXN5XJEo1HDt1otJpMJXq+XUqlkxFVVpdFokEwmyeVySJLE/f09iqJwc3PDcDg8SLa88Wg04uLiwvCXl5f0+31OT09RVdWIj8djyuUy19fXnJycmA7WdZ1isUitVrO88cEfyFsUiURoNpsvoPAwCKrVKufn55Z7PwQOBoMEAgHW6zWyLHN3d2c+3OUim83aDwa4vb0lGo0iSRKJRILRaGTKp1Kp44ArlQrb7RYATdO4uroy5ePx+HHAiqKY/HQ6NXm3230c8Gq1MvnNZvOmfR8G7/f7d+37MPi9+g92TJZD4vknomka8DCbZVl+9UBN00w1iqLogHhe92lj8dN7rL5aZa/Uf8E/gdXhWtu0BH7AY4+dlhCCv1KOso24GdXsAAAAAElFTkSuQmCC)Follow us on LinkedIn](https://www.linkedin.com/company/nutsdotcom "Follow Nuts.com on LinkedIn")
 
 * * *
-
-Order securely online or call us:
-
-[800-558-6887](tel:+1-800-558-6887) or [908-523-0333](tel:+1-908-523-0333)
-
-Operating Hours (ET):
-
-Su 8am-4:30pm  
-M-Th 8am-8pm  
-F-Sa 8am-6:30pm
 
 **100%** Committed to  
 Our Customers
