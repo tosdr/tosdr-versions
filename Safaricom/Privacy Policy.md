@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [497 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [509 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -50,21 +50,13 @@ SOUTHERN AFRICA
 
 [Garden Route](https://www.safari.com/destinations/garden-route)
 
-[Kafue National Park](https://www.safari.com/destinations/kafue-national-park)
-
 [Namibia](https://www.safari.com/destinations/namibia)
 
 [Okavango Delta](https://www.safari.com/destinations/okavango-delta)
 
 [SA National Parks](https://www.safari.com/destinations/sanparks)
 
-[South Luangwa National Park](https://www.safari.com/destinations/south-luangwa-national-park)
-
 [Victoria Falls](https://www.safari.com/destinations/victoria-falls)
-
-[Welgevonden Game Reserve](https://www.safari.com/destinations/welgevonden-game-reserve)
-
-[Zambezi River](https://www.safari.com/destinations/zambezi-river)
 
 [Zambia](https://www.safari.com/destinations/zambia)
 
@@ -145,133 +137,133 @@ COOKIES
 
 out of 5 based on
 
-[497 reviews](https://www.trustpilot.com/review/www.safari.com)
+[509 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 9, 2024
+> Jun 18, 2024
 
-> South Africa Trip
+> Thank you Heleen for your excellent…
 
-> Shann was very helpful and was always quick to respond to any questions that I had. She provided with multiple options for each stage of our trip, and overall provided a great service. Would highly recommend!
+> Thank you Heleen for your excellent service every time I want to make a booking.
 
-Tom
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 8, 2024
-
-> Thanks Pascal you are amazing!
-
-> From the moment we arrived in South Africa, our safari adventure was nothing short of extraordinary. Nestled in the heart of the African wilderness, we found ourselves surrounded by the breathtaking landscapes of Kruger National Park, a haven for wildlife enthusiasts. Our accommodation was luxurious yet seamlessly integrated into the natural environment, offering us stunning views of the savannah from the comfort of our private deck. Each day began with an exhilarating sunrise game drive, where our expert guide shared his deep knowledge and passion for the local wildlife. Witnessing the "Big Five" was an awe-inspiring experience that left us in complete awe of nature's magnificence. The guides were incredibly knowledgeable and made sure we felt safe while immersing ourselves in the wilderness. Evenings were equally enchanting, with sundowner drinks enjoyed against the backdrop of a fiery African sunset, followed by sumptuous dinners under the starlit sky. The cuisine was a delightful fusion of local flavors and gourmet dishes, perfectly complementing the day's adventures. The sense of community at the lodge was heartwarming. The staff were attentive, ensuring every need was met with a smile, and fellow travelers quickly became friends as we shared stories around the campfire. Our South African safari was more than just a holiday; it was a transformative journey that connected us with nature and left us with lasting memories. For anyone seeking an adventure that combines luxury, education, and unparalleled wildlife encounters, a safari in South Africa is an absolute must. We left with hearts full of gratitude and a profound appreciation for the natural world, eagerly planning our return to this magnificent land.
-
-Shila
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 8, 2024
-
-> A great experience
-
-> Pascal was wonderful to work with! When one camp option fell through he quickly found an equal alternative for our group. He was always very responsive to my many emails and texts. I would highly recommend Safari.com.
-
-Stephanie
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 7, 2024
-
-> Leché was fantastic - thank you!
-
-> Leché was fantastic - super helpful and so patient with me. Provided all the options and was so quick responding to any questions (of which I had many!). So grateful and I can't wait for our holiday!
-
-Chris
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 7, 2024
-
-> Top notch service
-
-> Catherine was very helpful and responsive. Our trip was postponed due to the pandemic and she efficiently advocated for us with the game reserves to rebook our trip. Also, the SA embassy in our region required additional police certification of our reservation, the Safari.com team went to the police station and sent us the certified documents on the same day. Amazing service. Highly recommend!
-
-IReyes
-
-,
-
-PH
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 6, 2024
-
-> Pascal is an outstanding Safari…
-
-> Pascal is an outstanding Safari consultant!!!  He's very personable, warm, professional, and very detailed. He made a perfect itinerary. for my trip to Victoira Falls. I would highly recommend him at Safari Travel Agency, will not be disappointed. They are a top-notch company, and Pascal is a great asset for sure. I have traveled the world and was surprised by the level of professionalism and knowledge that I gained working with him. Being a sales professional and world traveler, I'm very picky, but they checked all the boxes. Thank you so much, and all the best.
-
-Branka Bogdanich
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 5, 2024
-
-> :))))
-
-> Mel was amazing. She shred with us the her large experience and knowledge about SA. Unfortunately we had to change our plans. But otherwise, we would close deal with her.
-
-Valentina Baisch
-
-,
-
-BR
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 5, 2024
-
-> Professional and organised
-
-> Thank you Mel Du Toit you have helped create my dream adventure in Africa.Your customer service and attention to detail with no judgment of budget has made booking with you a breeze.Very Informative, Professional and organised.
-
-david kennedy
-
-,
-
-AU
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 4, 2024
-
-> Tanya Lomas from Safari.com really went…
-
-> Tanya Lomas from Safari.com really went above and beyond to assist us in finding a camping site in southern Kruger.
-
-Tinus Jansen van Vuuren
+Wilma
 
 ,
 
 ZA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 15, 2024
+
+> Our agent Dolan Sequera was superb
+
+> Our agent Dolan Sequera was superb. Responsive, easy to talk to over WhatsApp and full of good ideas and options to fulfill our requirements. I couldn’t recommend him more highly and through him Safari.com. We’ve never been happier with travel service.
+
+Tan Chi Chiu
+
+,
+
+SG
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 14, 2024
+
+> While we have not traveled as yet
+
+> While we have not traveled as yet, the itinerary that we developed is very exciting and we are looking forward to this experience very much. Jayson Scheffers has been a wonderfully engaged and responsive partner in developing our agenda, despite our having some needs to change travel dates and agendas during the planning process because of family illness that necessitated our changing plans.
+
+Bob Murphy
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 14, 2024
+
+> Excellent Experience
+
+> The communication and organization of the trip was excellent. Shann was great and the whole experience was amazing.
+
+Amanda Gundry
+
+,
+
+SG
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 13, 2024
+
+> Great experience working with Lisa
+
+> Great experience working with Lisa from Safari.com, provided very helpful information and came up with a detailed itinerary for our stay in Cape Town and our 3 day safari at Sanbona. Unfortunately Lisa needed to go to a hospital but the company took over the booking process and all went very smooth. We wish Lisa a quick recovery.
+
+Anton
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 13, 2024
+
+> 7-nights Safari
+
+> I made a reservation for a 7-night safari trip to two specific Private Game Reserves in the Kruger National Park in South Africa, for one of the busiest months in Kruger: August. This reservation was made at the last minute. (3 days ago). A reservation that had some special features, with choices from someone who has already done (my husband and I) several safaris in other African countries. The architecture and design of the lodges are important to us on a professional level. And the Private Game Reserves had to be the best. Anja Meyer, from Safari.com, started and completed the reservation process in 4 days, two of which were weekends. Very efficient, fast and understanding what we wanted for our week in the bush. We are "addicted" to safaris, wildlife, bush, landscapes, nature... and we love Africa and the Africans. We can't wait for August to arrive. Thank you!
+
+Maria joao Demony
+
+,
+
+PT
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 12, 2024
+
+> My first experience a number of months…
+
+> My first experience a number of months back wasn't as I wanted. I picked up with Dolan a little after this to find when the best time to Safari was with the chance of seeing the "big 5" and he was so helpful, guiding me to July-September. With the cooler winter months being the better chances to see more wildlife and the big five. This lead me on to deal with Jayson. Jayson has pulled out all the stops, working past 9pm Cape Town time( 8pm London UK) to help meet my needs. I travel out on 6th July and cannot wait, Thank you Dolan and Jayson. Julian Bingle, London, UK.
+
+customer
+
+,
+
+GB
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 11, 2024
+
+> Sara Van Coillie has been extremely…
+
+> Sara Van Coillie has been extremely helpful in making our Namibia trip fantastic! We have emails up on emails of Sara answering all my (many) questions months and months before our trip. I've had last minute questions and requests right before and during our trip and she always responds with record time and helps us out. I feel all of our needs have been met and I couldn't be happier with Sara as our travel representative! Highly recommend her! :)
+
+Alisha Strand
+
+,
+
+NA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 10, 2024
+
+> Pascal John extremely helpful,efficient and knowledgeable
+
+> Pascal John was very helpful with recommendations for our Safari Booking. He responded to all our emails and txt messages extremely quickly, especially given the time difference. He also sent videos of his recent experience at the lodges which was especially helpful.
+
+Paul Dempsey
+
+,
+
+NZ
 
 VIP service
 
