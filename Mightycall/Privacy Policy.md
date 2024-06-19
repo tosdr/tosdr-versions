@@ -15,8 +15,8 @@ Solutions
 * By industry
     * [Real estate](https://www.mightycall.com/industry-solutions/finance/)
     * [Financial services](https://www.mightycall.com/outbound-call-center-software/)
-    * Insurance
-    * Logistics
+    
+    * [Logistics](https://www.mightycall.com/industry-solutions/logistics/)
     * [Education](https://www.mightycall.com/industry-solutions/education/)
     * [Recruitment](https://www.mightycall.com/industry-solutions/staffing/)
     * [Solar](https://www.mightycall.com/industry-solutions/solar/)
@@ -38,7 +38,7 @@ Support
 
 [Book demo](https://www.mightycall.com/booking/) [Try for free](https://www.mightycall.com/pricing/)
 
-[+1 888 265 8312](tel:+18882568312)
+[+1 888 256 8312](tel:+18882568312)
 
 [Login](https://console.mightycall.com/Panel/Login/MultiProductLogin/)
 
@@ -61,8 +61,7 @@ Solutions
 * By industry
 * [Real estate](https://www.mightycall.com/industry-solutions/real-estate/)
 * [Financial services](https://www.mightycall.com/industry-solutions/finance/)
-* Insurance
-* Logistics
+* [Logistics](https://www.mightycall.com/industry-solutions/logistics/)
 * [Education](https://www.mightycall.com/industry-solutions/education/)
 * [Recruitment](https://www.mightycall.com/industry-solutions/staffing/)
 * [Solar](https://www.mightycall.com/industry-solutions/solar/)
