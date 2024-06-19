@@ -1,8 +1,6 @@
-[![Buttondown logo](/_next/image?url=%2Ficon%4072.png&w=96&q=75)
+[![Buttondown logo](/_next/image?url=%2Ficon%4072.png&w=96&q=75)](https://buttondown.email/)
 
-Buttondown](https://buttondown.email/)
-
-[Docs](https://docs.buttondown.email/)[Pricing](https://buttondown.email/pricing)[Log in](https://buttondown.email/login)[Build your newsletter](https://buttondown.email/register)
+[Pricing](https://buttondown.email/pricing)[Log in](https://buttondown.email/login)[Build your newsletter](https://buttondown.email/register)
 
 [legal](https://buttondown.email/)
 
@@ -61,8 +59,6 @@ Buttondown, LLC may revise these terms of service for its website at any time wi
 ### 9\. Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of Seattle, WA and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-
-[Get started](https://buttondown.email/register)
 
 What customers say about Buttondown
 -----------------------------------
@@ -376,44 +372,14 @@ Steven Kornweiss
 
 [Check out the wall of love](https://buttondown.email/testimonials)
 
-### Ready for a better newsletter?
+[Get started for free](https://buttondown.email/register)
 
-See why thousands of businesses and creators use Buttondown to send millions of emails every day.
+No credit card required. Only pay for what you use. Cancel anytime.
 
-[Build your newsletter](https://buttondown.email/register)
+[](https://twitter.com/buttondown)[](https://discord.gg/uJvQJhRzn4)[](https://github.com/buttondown)[](https://www.linkedin.com/company/buttondown)[Mastodon](https://mastodon.social/@buttondown)[Bluesky](https://bsky.app/profile/buttondown.email)[Facebook](https://facebook.com/buttondown.email)
 
-#### Best practices, news, and more. Every month.
+[Blog](https://buttondown.email/blog)[Changelog](https://buttondown.email/changelog)[Features](https://buttondown.email/features)[Integrations](https://buttondown.email/features/integrations)[Open source](https://buttondown.email/open-source)[Docs](https://docs.buttondown.email/)
 
-See why thousands of businesses and creators use Buttondown to send millions of emails every day.
+[Alternatives](https://buttondown.email/alternatives)[Climate](https://buttondown.email/climate)[Terms of service](https://buttondown.email/legal/terms)[Use cases](https://buttondown.email/use-cases)[Privacy policy](https://buttondown.email/legal/privacy)
 
-#### Have a question? We’re here to help.
-
-We're email experts who are always available to answer your questions.
-
-[Email us](mailto:support@buttondown.email)
-
-Features
-
-[Integrations](https://buttondown.email/features/integrations)[Paid subscriptions](https://buttondown.email/features/paid-subscriptions)[Privacy first](https://buttondown.email/features/privacy)[First-party API](https://buttondown.email/features/api)[RSS-to-email](https://buttondown.email/features/rss)[Automations](https://buttondown.email/features/automation)
-
-[Browse all features →](https://buttondown.email/features)
-
-Great for
-
-[Authors](https://buttondown.email/use-cases/authors)[Friends & family](https://buttondown.email/use-cases/friends-and-family)[Non-profits](https://buttondown.email/use-cases/nonprofits)[Artists](https://buttondown.email/use-cases/artists)[SaaS](https://buttondown.email/use-cases/saas)[Internal newsletters](https://buttondown.email/use-cases/internal-newsletters)
-
-[Browse all use cases →](https://buttondown.email/use-cases)
-
-About us
-
-[Blog](https://buttondown.email/blog)[Changelog](https://buttondown.email/changelog)[Climate pledge](https://buttondown.email/climate)[Open source](https://buttondown.email/open-source)[Stack](https://buttondown.email/stack)[Pricing](https://buttondown.email/pricing)[Alternatives](https://buttondown.email/alternatives)
-
-Miscellany
-
-[Sniper Link](https://sniperl.ink/)[ESP guide](https://buttondown.email/comparison-guides/esps)[GA4 guide](https://buttondown.email/comparison-guides/google-analytics-alternatives)[Creator economy prices](https://buttondown.email/comparison-guides/take-rates)[Terms and conditions](https://buttondown.email/legal/terms)[Privacy policy](https://buttondown.email/legal/privacy)[Cookies policy](https://buttondown.email/legal/cookies)
-
-[](https://twitter.com/buttondown)[](https://discord.gg/uJvQJhRzn4)[](https://github.com/buttondown)[](https://www.linkedin.com/company/buttondown)[](https://mastodon.social/@buttondown)[Bluesky](https://bsky.app/profile/buttondown.email)[Facebook](https://facebook.com/buttondown.email)
-
-© 2016—2024 Buttondown LLC.
-
-I hope you have a very nice day.
+© 2024 Buttondown. All rights reserved; have a lovely day.
