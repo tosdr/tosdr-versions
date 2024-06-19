@@ -1,8 +1,6 @@
-[](https://buyist.com/Home)
+[Chat with us](https://www.livechat.com/chat-with/17817894/), powered by [LiveChat](https://www.livechat.com/?welcome)
 
-* [Why Buyist?](https://buyist.com/why-buyist)
-* [Templates](https://buyist.com/eommerce-templates)
-* [Pro](https://buyist.com/pro)
+[](https://buyist.com/Home)
 
 [Log In](https://buyist.app/login)
 
@@ -168,9 +166,9 @@ d. **Waiver and Severability of Terms**. If any provision of the Terms of Servic
 
 [](https://buyist.com/Home)
 
-* [Home](https://buyist.com/Home)
 * [Privacy Policy](https://buyist.com/privacy)
 * [Terms of Service](https://buyist.com/termsofservice)
-* [Log In](https://buyist.app/login)
+* [Support](https://support.buyist.com/)
+* [Developer API](https://api.buyist.app/login)
 
 Copyright © 2024 Buyist® is a registered trademark of Buyist, LLC | Built with [**Buyist**](https://buyist.com/)
