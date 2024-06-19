@@ -162,6 +162,7 @@ If you have any complaints about your privacy rights or how your health informat
 * [Schedule an Appointment](https://childrensdentalhealth.com/schedule-an-appointment/)
 * [Careers](https://childrensdentalhealth.com/careers/)
 * [Patient Policies](https://childrensdentalhealth.com/patient-policies/)
+* [Oral Surgery Referrals](https://childrensdentalhealth.com/oral-surgery-referrals/)
 
 © 2021 Children’s Dental Health
 
