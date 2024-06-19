@@ -57,6 +57,11 @@ This item is not available on an HRO. Please purchase it outright to continue.
 
 [OK](# "OK")
 
+Payment option selected not available
+-------------------------------------
+
+[OK](# "OK")
+
 Not eligible for upfront plans
 ------------------------------
 
@@ -81,6 +86,8 @@ This service is not eligible for the action you’ve requested.
 [OK](# "OK")
 
 [](#)
+
+[Go back](# "Go back") [View only](# "View only")
 
 Looks like this offer isn’t available
 -------------------------------------
