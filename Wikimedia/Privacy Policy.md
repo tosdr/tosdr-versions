@@ -265,7 +265,7 @@ Other languages:
 * [беларуская](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be "Policy:Privacy policy/be (0% translated)")
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be-tarask "Policy:Privacy policy/be-tarask (96% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bg "Policy:Privacy policy/bg (44% translated)")
-* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Policy:Privacy policy/ky (72% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ky "Policy:Privacy policy/ky (100% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mk "Policy:Privacy policy/mk (4% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ce "Policy:Privacy policy/ce (4% translated)")
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ru "Policy:Privacy policy/ru (100% translated)")
@@ -304,6 +304,7 @@ Other languages:
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "Policy:Privacy policy/ml (26% translated)")
 * [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "Policy:Privacy policy/th (78% translated)")
+* [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lo "Policy:Privacy policy/lo (5% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "Policy:Privacy policy/blk (26% translated)")
 * [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (8% translated)")
 * [ဘာသာမန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "Policy:Privacy policy/mnw (0% translated)")
@@ -848,7 +849,7 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Priva
 * [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
 * [Mobile view](https://foundation.m.wikimedia.org/w/index.php?title=Policy:Privacy_policy&mobileaction=toggle_view_mobile)
 
-* [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
-* [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Wikimedia Foundation](/static/images/footer/wikimedia-button.svg)](https://wikimediafoundation.org/)
+* [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki.svg)](https://www.mediawiki.org/)
 
 * Toggle limited content width
