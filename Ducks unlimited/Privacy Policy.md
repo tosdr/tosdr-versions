@@ -1,4 +1,4 @@
-[DU Convention](https://convention.ducks.org/) [Migration Map](https://migrationmap.ducks.org/) [Volunteer](https://www.ducks.org/volunteer)
+[Migration Map](https://migrationmap.ducks.org/) [Volunteer](https://www.ducks.org/volunteer)
 
 ![](/modules/du-templates/images/ui/icon-location.svg) Location: TN Change [View State Page](https://www.ducks.org/ "View State Page")
 
@@ -77,11 +77,11 @@
     * [Events Near Me Find local DU events near you](https://www.ducks.org/events.html#events)
     * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
     * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_MysteryBox-DPI_2024.jpg)
+    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_DUPinstripePolo_DPI_July2024.jpg)
         
-        DU Mystery Box
+        DU Pinstripe Polo
         
-        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=mysterybox&id=14175)
+        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=pinstripepolo&id=14228)
     
 * [Media](https://www.ducks.org/media)
     
@@ -91,11 +91,11 @@
     * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
     * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
     * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_MysteryBox-DPI_2024.jpg)
+    * [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_DUPinstripePolo_DPI_July2024.jpg)
         
-        DU Mystery Box
+        DU Pinstripe Polo
         
-        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=mysterybox&id=14175)
+        Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=pinstripepolo&id=14228)
     
 * [About](https://www.ducks.org/about-ducks-unlimited)
     
@@ -103,7 +103,7 @@
     * [Our Vision](https://www.ducks.org/about-ducks-unlimited.html#vision)
     * [Core Values](https://www.ducks.org/about-ducks-unlimited.html#values)
     * [Memberships](https://www.ducks.org/get-involved/du-memberships)
-    * [DU Careers](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&ccId=19000101_000001&lang=en_US)
+    * [DU Careers](https://www.ducks.org/about-ducks-unlimited#careers)
     * [DU History](https://www.ducks.org/about-ducks-unlimited.html#history)
     * [Conservation](https://www.ducks.org/conservation)
     * [DU FAQs](https://www.ducks.org/about-ducks-unlimited/frequently-asked-questions)
@@ -132,7 +132,7 @@
         * [Online Auctions](https://www.ducks.org/events/du-state-and-regional-online-auctions)
         * [State Calendar Gun Giveaway](https://www.ducks.org/events/calendar-gun-giveaway)
     * * [Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906)
-        * [Give Monthly](https://giving.ducks.org/?ID=13467)
+        * [Give Monthly](https://give.ducks.org/campaign/584940/donate)
     
 
 [](https://www.ducks.org/)
@@ -152,7 +152,7 @@ Your Location
 
 Change [View State Page](https://www.ducks.org/)
 
-[Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906) [Give Monthly](https://giving.ducks.org/?ID=13467)
+[Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906) [Give Monthly](https://give.ducks.org/campaign/584940/donate)
 
 [Conservation](https://www.ducks.org/conservation)
 
@@ -222,11 +222,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Events Near Me Find local DU events near you](https://www.ducks.org/events.html#events)
 * [DU Roadshows Find a Roadshow near you](https://www.ducks.org/duroadshows)
 * [Volunteer Join DU's mission and make a difference](https://www.ducks.org/get-involved/volunteer/become-a-du-volunteer)
-* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_MysteryBox-DPI_2024.jpg)
+* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_DUPinstripePolo_DPI_July2024.jpg)
     
-    DU Mystery Box
+    DU Pinstripe Polo
     
-    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=mysterybox&id=14175)
+    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=pinstripepolo&id=14228)
 
 [Media](https://www.ducks.org/media)
 
@@ -236,11 +236,11 @@ Change [View State Page](https://www.ducks.org/)
 * [Photo Gallery Experience wildlife in action through DU's photo gallery](https://www.ducks.org/media/photo-gallery)
 * [E-Newsletter Get the latest news and updates from DU delivered straight to you](https://www.ducks.org/newsletter)
 * [Mobile App Access exclusive features, tips, & more by downloading DU's app](https://www.ducks.org/media/mobile-app)
-* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_MysteryBox-DPI_2024.jpg)
+* [![Image for Join today ](/files/live/sites/ducksorg/files/products/250x152_DUPinstripePolo_DPI_July2024.jpg)
     
-    DU Mystery Box
+    DU Pinstripe Polo
     
-    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=mysterybox&id=14175)
+    Join today](https://donate.ducks.org/donateonlinesecure.aspx?promokey=pinstripepolo&id=14228)
 
 [About](https://www.ducks.org/about.html)
 
@@ -248,7 +248,7 @@ Change [View State Page](https://www.ducks.org/)
 * [Our Vision](https://www.ducks.org/about-ducks-unlimited.html#vision)
 * [Core Values](https://www.ducks.org/about-ducks-unlimited.html#values)
 * [Memberships](https://www.ducks.org/get-involved/du-memberships)
-* [DU Careers](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&ccId=19000101_000001&lang=en_US)
+* [DU Careers](https://www.ducks.org/about-ducks-unlimited#careers)
 * [DU History](https://www.ducks.org/about-ducks-unlimited.html#history)
 * [Conservation](https://www.ducks.org/conservation)
 * [DU FAQs](https://www.ducks.org/about-ducks-unlimited/frequently-asked-questions)
@@ -274,7 +274,7 @@ Change [View State Page](https://www.ducks.org/)
     * [Online Auctions](https://www.ducks.org/events/du-state-and-regional-online-auctions)
     * [State Calendar Gun Giveaway](https://www.ducks.org/events/calendar-gun-giveaway)
 * * [Donate Now](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906)
-    * [Give Monthly](https://giving.ducks.org/?ID=13467)
+    * [Give Monthly](https://give.ducks.org/campaign/584940/donate)
 
 * [About Ducks Unlimited](https://www.ducks.org/about-ducks-unlimited)
 * [Privacy Policy](https://www.ducks.org/about-ducks-unlimited/privacy-policy)
@@ -407,7 +407,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
     
     Looking for a great place to work? Check out our job listings and start working for Team DU!
     
-    [Check out our job openings](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&ccId=19000101_000001&lang=en_US "Job Listings")
+    [More About DU Careers](https://www.ducks.org/about-ducks-unlimited#careers "Job Listings")
     
     [![Best and Brightest Companies to work for in the nation](/files/live/sites/ducksorg/files/Footer/nationalbblogowin23_rgb.png)](https://www.ducks.org/newsroom/ducks-unlimited-named-one-of-best-and-brightest-companies-to-work "Best and Brightest Companies to work for in the nation")
     
@@ -424,7 +424,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 * [Contact DU](https://www.ducks.org/about-ducks-unlimited/contact-us "Contact DU")
 * [Regional Offices](https://www.ducks.org/about-ducks-unlimited/regional-offices "Regional Offices")
 * [Annual Report](https://www.ducks.org/conservation/national/ducks-unlimiteds-2023-annual-report "Annual Report")
-* [Jobs](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&ccId=19000101_000001&lang=en_US "Jobs")
+* [Jobs](https://www.ducks.org/about-ducks-unlimited#careers "Jobs")
 * [Financials](https://www.ducks.org/about-ducks-unlimited/financials "Financials")
 * [Privacy Policy](https://www.ducks.org/about-ducks-unlimited/privacy-policy "Privacy Policy")
 
@@ -470,7 +470,7 @@ The Web Site is maintained by Ducks Unlimited, Inc., One Waterfowl Way, Memphis,
 
 * [Get Involved](https://www.ducks.org/get-involved "Get Involved")
 * [Join or Renew](https://donate.ducks.org/yearend/ye2023/donateonlinesecure.aspx?promokey=yearend23&id=13906 "Join or Renew")
-* [Monthly Giving](https://giving.ducks.org/?ID=13467 "Monthly Giving")
+* [Monthly Giving](https://give.ducks.org/campaign/584940/donate "Monthly Giving")
 * [Memorial Giving](https://donate.ducks.org/donateOnlineSecure.aspx?promoKey=MemorialHonorGiving "Memorial Giving")
 * [Volunteer](https://www.ducks.org/volunteer "Volunteer")
 * [Become a Major Sponsor](https://www.ducks.org/get-involved/major-sponsors "Become a Major Sponsor")
