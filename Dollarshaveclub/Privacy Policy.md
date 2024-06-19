@@ -22,8 +22,8 @@ Privacy Policy
 
 All articles
 
-Privacy PolicyUpdated 3 days ago
-================================
+Privacy PolicyUpdated 14 days ago
+=================================
 
 Last updated: June 3, 2024
 
