@@ -10,9 +10,10 @@
     
 * Solutions
     
-    * [Engineering Project Management](https://teamhood.com/use-cases/project-management-tool/)
     * [Agencies and Service Providers](https://teamhood.com/use-cases/agencies-and-service-providers/)
     * [IT & PMO](https://teamhood.com/use-cases/project-management-office/)
+    * [Engineering Project Management](https://teamhood.com/use-cases/project-management-tool/)
+    * [Defense and Space](https://teamhood.com/use-cases/defense-and-space/)
     * [Agile System](https://teamhood.com/use-cases/agile-system/)
     
 * Learn
