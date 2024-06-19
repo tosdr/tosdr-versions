@@ -16,7 +16,7 @@ Share
 
 [Video Player](https://www.synthesia.io/features#video-player-section)[Smart Updates](https://www.synthesia.io/features#video-player-section)[Analytics](https://www.synthesia.io/features#video-player-section)
 
-[Create free AI video](https://www.synthesia.io/free-ai-video-demo)
+[Create free AI video](https://www.synthesia.io/#free-ai-video)
 
 [Book demo](https://www.synthesia.io/book-a-demo)
 
@@ -34,7 +34,7 @@ Solutions
 
 Learn how Heineken embraces video transformation](https://www.synthesia.io/case-studies/heineken)
 
-[Create free AI video](https://www.synthesia.io/free-ai-video-demo)
+[Create free AI video](https://www.synthesia.io/#free-ai-video)
 
 [Book demo](https://www.synthesia.io/book-a-demo)
 
@@ -56,7 +56,7 @@ Company
 
 [Careers](https://www.synthesia.io/careers)[AI Ethics](https://www.synthesia.io/ethics)[AI Research](https://www.synthesia.io/research)
 
-[Create free AI video](https://www.synthesia.io/free-ai-video-demo)
+[Create free AI video](https://www.synthesia.io/#free-ai-video)
 
 [Book demo](https://www.synthesia.io/book-a-demo)
 
@@ -277,7 +277,7 @@ Create an account and get started using Synthesia, with full access to all 160+ 
 
 [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/)
 
-Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/free-ai-video-demo) enables everyone to create professional videos without mics, cameras, actors or studios.  
+Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/) enables everyone to create professional videos without mics, cameras, actors or studios.  
   
 Using AI, we’re radically changing the process of video content creation, making it scalable and affordable while maintaining high quality.
 
@@ -287,7 +287,7 @@ Synthesia Ltd, Synthesia, Kent House, 14-17 Market Place, London, W1W 8AJ, Unite
 
 Features
 
-[All Features](https://www.synthesia.io/features)[160+ Video Avatars](https://www.synthesia.io/features/avatars)[130+ Languages](https://www.synthesia.io/features/languages)[60+ Video Templates](https://www.synthesia.io/templates)[Custom Avatars](https://www.synthesia.io/features/custom-avatar)[Free AI Video Generator](https://www.synthesia.io/free-ai-video-demo)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[AI Voice Generator](https://www.synthesia.io/features/ai-voice-generator)[Text to Video](https://www.synthesia.io/features/text-to-video)[Script to Video](https://www.synthesia.io/tools/script-to-video-maker)[Synthesia Tools](https://www.synthesia.io/tools)[AI Script Generator](https://www.synthesia.io/features/ai-script-generator)[Video Translator](https://www.synthesia.io/features/video-translator)
+[All Features](https://www.synthesia.io/features)[160+ Video Avatars](https://www.synthesia.io/features/avatars)[130+ Languages](https://www.synthesia.io/features/languages)[60+ Video Templates](https://www.synthesia.io/templates)[Custom Avatars](https://www.synthesia.io/features/custom-avatar)[Free AI Video Generator](https://www.synthesia.io/#free-ai-video)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[AI Voice Generator](https://www.synthesia.io/features/ai-voice-generator)[Text to Video](https://www.synthesia.io/features/text-to-video)[Script to Video](https://www.synthesia.io/tools/script-to-video-maker)[Synthesia Tools](https://www.synthesia.io/tools)[AI Script Generator](https://www.synthesia.io/features/ai-script-generator)[Video Translator](https://www.synthesia.io/features/video-translator)
 
 Use Cases
 
