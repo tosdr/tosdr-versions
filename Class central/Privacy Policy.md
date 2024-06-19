@@ -251,6 +251,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Early Childhood Development](https://www.classcentral.com/subject/childhood-development)
 * [Structural Equation Modeling](https://www.classcentral.com/subject/structural-equation-modeling)
 * [Social Care](https://www.classcentral.com/subject/social-care)
+* [Rural Development](https://www.classcentral.com/subject/rural-development)
 * [View all Social Sciences](https://www.classcentral.com/subject/social-sciences)
 
 ### Art & Design
@@ -328,7 +329,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 
 [The Report](https://www.classcentral.com/report/)
 
-[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fwp-content%2Fuploads%2F2022%2F03%2FCoursera-Annual-Report.jpg?auto=format&ixlib=php-4.1.0&s=52037b337ca010e82cafad9141b9d44f)](https://www.classcentral.com/report/coursera-annual-report-2023/)
+[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-annual-report-10k%2Fcoursera-annual-report%2F?auto=format&ixlib=php-4.1.0&s=3eab2deb4983ee534bf204e3ad42aa63)](https://www.classcentral.com/report/coursera-annual-report-2023/)
 
 #### [Coursera’s 2023 Annual Report: Big 5 Domination, Layoffs, Lawsuit, and Patents](https://www.classcentral.com/report/coursera-annual-report-2023/)
 
@@ -338,11 +339,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 
 ##### Latest
 
-1. [4 Best YouTube Marketing Courses for Business in 2024](https://www.classcentral.com/report/best-youtube-marketing-courses/)
-2. [10 Best Android Development Courses for 2024](https://www.classcentral.com/report/best-android-development-courses/)
-3. [9 Best Relativity Courses for 2024: Special and General Relativity](https://www.classcentral.com/report/best-relativity-courses/)
-4. [1200+ Physics Online Courses You Can Take for Free](https://www.classcentral.com/report/physics-free-online-courses/)
-5. [6 Best Free Prolog Courses for 2024](https://www.classcentral.com/report/best-free-prolog-courses/)
+1. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
+2. [7 Best Chemistry Courses for 2024](https://www.classcentral.com/report/best-chemistry-courses/)
+3. [\[2024\] 100 Robotics Courses You Can Take for Free](https://www.classcentral.com/report/robotics-free-online-courses/)
+4. [9 Best Physics Courses for 2024: Learn Physics Online](https://www.classcentral.com/report/best-physics-courses/)
+5. [Massive List of Online Learning Platforms in China](https://www.classcentral.com/report/chinese-online-learning-platforms/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -353,38 +354,38 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. python
+1. computer science
     
-2. psychology
+2. project management
     
-3. javascript
+3. trading
     
 
 Popular subjects
 ----------------
 
-1. [Data Analysis
+1. [Artificial Intelligence
     
-    6,345 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Artificial Intelligence
+    4,969 courses](https://www.classcentral.com/subject/ai)
+2. [Communication Skills
     
-    4,956 courses](https://www.classcentral.com/subject/ai)
-3. [Communication Skills
+    2,837 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Project Management
     
-    2,835 courses](https://www.classcentral.com/subject/communication-skills)
+    3,127 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 ---------------
 
-1. [Medical Parasitology | 医学寄生虫学
+1. [Bioseguridad y equipo de protección para la prevención de COVID-19
     
-    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
-2. [Multilingual Practices: Tackling Challenges and Creating Opportunities
+    Galileo University](https://www.classcentral.com/course/coronavirus-universidad-galileo-bioseguridad-y-eq-20375)
+2. [Food as Medicine
     
-    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
-3. [Academic Writing
+    Monash University](https://www.classcentral.com/course/food-as-medicine-5742)
+3. [Elements of AI
     
-    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-academic-writing-13881)
+    University of Helsinki](https://www.classcentral.com/course/independent-elements-of-ai-12469)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
