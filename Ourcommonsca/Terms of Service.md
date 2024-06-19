@@ -185,21 +185,21 @@ Share this page
 
 Start of content
 
-Electronic Petitions – Guide and Terms of Use
+ELECTRONIC PETITIONS – GUIDE AND TERMS OF USE
 =============================================
 
-What is an E-petition?
+WHAT IS AN E-PETITION?
 ----------------------
 
-An **electronic petition** ("**e-petition**") is used to draw attention to an issue of public interest or concern and to request that the House of Commons, the Government of Canada, a Minister of the Crown, or a Member of the Parliament take or refrain from some action. A person preparing and submitting such a request is known as a **petitioner**.
+An **electronic petition** ("**e-petition**") is used to draw attention to an issue of public interest or concern and to request that the House of Commons, the Government of Canada, a minister of the Crown, or a member of the Parliament take or refrain from some action. A person preparing and submitting such a request is known as a **petitioner**.
 
 E-petitions must meet certain requirements established by the rules and practices of the House. The Clerk of Petitions, a non-partisan House of Commons employee, holds the authority to certify that these requirements have been met. In addition to the summary below, rules governing petitions can be found in the [Standing Orders of the House of Commons (Standing Order 36)](https://petitions.ourcommons.ca/About/StandingOrders/Chap4-e.htm#SO36). Additionnal information can also be found in [House of Commons Procedure and Practice (Chapter 22)](https://petitions.ourcommons.ca/About/ProcedureAndPractice3rdEdition/ch_22-e.html).
 
-Petitioners cannot directly present a petition to the House of Commons; only a Member of Parliament is able to do so. To have a petition posted on the House of Commons petitions website and eventually presented to the House, it must be authorized for online publication by a member.
+Petitioners cannot directly present a petition to the House of Commons; only a member of Parliament is able to do so. To have a petition posted on the House of Commons petitions website and eventually presented to the House, it must be authorized for online publication by a member.
 
 Petitions can be prepared and processed as printed documents or in an electronic format. This guide contains information in relation to electronic petitions.
 
-Signing an E-petition
+SIGNING AN E-PETITION
 ---------------------
 
 You can search for a petition that is of interest to you by going to the petitions website and searching by keyword, subject, petition number (in the format "e-1234") or by the name of the member of Parliament who has authorized its online publication.
@@ -221,7 +221,7 @@ The information that you will need to provide as a signatory is:
 
 After providing this information, you will **receive an automated email prompting you to confirm your signature**. This confirmation must be provided for your signature to be counted. **You may only sign a given e-petition once.** The Clerk of Petitions has the right to reject any signature of which the validity is in doubt.
 
-Creating and Submitting an E-petition
+CREATING AND SUBMITTING AN E-PETITION
 -------------------------------------
 
 ### Creating an Account
@@ -243,7 +243,7 @@ Once your contact information has been submitted, a message with an embedded hyp
 
 **Note: A petitioner may only have one e-petition open for signature in their name at any one time.**
 
-A [template](#appendix_a) exists to assist you in your drafting and to ensure that the following guidelines for the text of a petition are respected:
+A [template](#appendix_a) exists to assist you in your drafting and to ensure that the following guidelines for the text of a petition are respected. The draft of a petition (before it is submitted) can also be sent directly by email to the Clerk of Petitions for prior review to ensure its form and content are in order at [PMB-AED@parl.gc.ca](mailto:PMB-AED@parl.gc.ca).
 
 #### Addressee
 
@@ -293,7 +293,7 @@ Before you begin collecting signatures from the general public, the steps listed
     * In the event the member you have identified ceases to be a member before an e-petition is published on the website, the Clerk of Petitions will contact you and invite you to select another member.
 4. Examination by the Clerk of Petitions:
     * Once a member of Parliament has agreed to authorize the online publication of your e-petition, it will be examined by the Clerk of Petitions to ensure that its form and content respect the rules and practices of the House. This includes validating your signature and those of the supporters.
-    * If the petition meets the requirements, it will be translated and published on the petitions website for signature by the general public. This step will be done on a first-come, first-served basis, usually within three to five working days from the receipt of the member's authorization. An email is sent to the petitioner to inform them when their petition is published on the website.
+    * If the petition meets the requirements, it will be translated and published on the petitions website for signature by the general public. This step will be done on a first-come, first-served basis, usually within five working days from the receipt of the member's authorization. An email is sent to the petitioner to inform them when their petition is published on the website.
     * If the text does not meet the set requirements, the Clerk of Petitions will contact the petitioner, explaining the grounds for rejection. The petitioner may then decide to amend the text of the petition, but the submission process must start anew.
 
 ### Certification and Presentation of a Petition
@@ -314,7 +314,7 @@ At **prorogation** (the period of time between two sessions of a Parliament), th
 
 The **dissolution** of Parliament (the period between the end of a Parliament and the start of a new Parliament after a general election) terminates the e-petitioning process. The petitions website closes at dissolution and all e-petitions not yet presented to the House are closed, and the obligation for the government to respond to all petitions also lapses. All petitioners will receive an email informing them of the status of their petition. Should a petitioner wish to pursue an issue in the form of an e-petition in the next Parliament, they must start the [process](https://petitions.ourcommons.ca/Documents/poster-e.pdf) anew approximately three weeks after the general election, when the petitions website reopens. Any signatures gathered prior to dissolution may not be reused; signatories who wish to support a similar petition in the new Parliament will have to sign again.
 
-Terms of Use
+TERMS OF USE
 ------------
 
 The member of Parliament authorizing the online publication of an e-petition does not necessarily endorse the views or information it contains. It is forbidden to promote an e-petition by using the member's name without their written consent.
@@ -338,7 +338,7 @@ In **creating an e-petitioner account or submitting an e-petition**, you must ac
 
 A breach of these Terms of Use may amount to contempt of the House of Commons.
 
-Privacy of Personal Information
+PRIVACY OF PERSONAL INFORMATION
 -------------------------------
 
 The House of Commons is committed to follow best practices related to the protection of personal information collected, used, disclosed, transmitted and preserved as part of the e-petition process.
@@ -360,13 +360,13 @@ In **supporting or signing** an e-petition:
 * The signature of the supporter or the signatory will be added to the total number of signatures garnered by the e-petition and a general breakdown of signatures by province and territory will appear and remain on the website along with each e-petition.
 * Supporters' and signatories' personal information collected through the petitions website will be safeguarded for a duration of six months after the e-petition becomes inactive, or until the dissolution of a Parliament, whichever is earlier, after which it will be destroyed by the House of Commons' authorized personnel.
 
-Use of Cookies
+USE OF COOKIES
 --------------
 
 * The House of Commons uses cookies, a feature offered by web browsers, to collect anonymous data and track the browsing habits of users who visit its website. More specifically, when a user visits the petitions website and wants to create a user account or to initiate, support, or sign an e-petition, the website automatically recognizes the domain name, IP address, web browser version, operating system, and other relevant data about the user's computer and the site the user visited that linked to our site.
 * Most browsers are configured to use cookies as a default setting. Users can reconfigure their browser options to block cookies, or to receive a notification when cookies are used. However, users who have chosen to disable cookies will not have access to some features of our website.
 
-For Further Information
+FOR FURTHER INFORMATION
 -----------------------
 
 Clerk of Petitions  
@@ -374,9 +374,9 @@ Room 314-C, West Block
 House of Commons  
 Email: [PMB-AED@parl.gc.ca](mailto:PMB-AED@parl.gc.ca)
 
-Last revised: March 2022
+Last revised: June 2024
 
-Appendix A — Sample Format of an Electronic Petition
+APPENDIX A – SAMPLE FORMAT OF AN ELECTRONIC PETITION
 ----------------------------------------------------
 
 ### PETITION TO THE
