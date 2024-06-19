@@ -84,6 +84,8 @@ Services
 
 ### Experience
 
+* [Infosys Aster](https://www.infosys.com/aster.html "Infosys Aster")
+
 * [Digital Marketing](https://www.infosys.com/services/digital-marketing.html "Digital Marketing")
 
 * [Digital Commerce](https://www.infosys.com/services/digital-commerce.html "Digital Commerce")
