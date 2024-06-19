@@ -1,3 +1,5 @@
+                                                                                                                           
+
 PlayStation Store cancellation policy
 
 Your right to cancel and receive a refund depends on the type of product you have purchased from PlayStation™Store:
