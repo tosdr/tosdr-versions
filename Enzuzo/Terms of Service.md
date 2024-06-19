@@ -25,6 +25,7 @@
     * [CCPA/CPRA](https://www.enzuzo.com/ccpa-compliance-software)
     * [LGPD](https://www.enzuzo.com/lgpd-compliance-software)
     * [Quebec Law 25](https://www.enzuzo.com/quebec-law-25-compliance-software)
+    * [PDPL](https://www.enzuzo.com/saudi-arabia-pdpl-compliance-software)
     
 * [Products](https://www.enzuzo.com/)
     
