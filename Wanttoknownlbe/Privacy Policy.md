@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/biologische-natuurwetten-hoe-blijf-ik-gezond/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/ing-en-de-dakota-oliepijplijn-we-weten-van-niets/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -154,26 +154,13 @@ Inschrijven
 
 #### Quote van de week
 
-> De fysieke geboorte, is de ‘dood’ in het spirituele.  
-> De fysieke dood, is de ‘geboorte’ in het spirituele.
+> Ik wil geen lid worden van een club, die mij als lid accepteert
 > 
-> Edgar Cayce (1877 – 1945) medium en helderziend diagnosticus
+> Groucho Marx (1890 – 1977), komiek
 
 Advertentie
 
 [![WietOlie](https://www.wanttoknow.nl/wp-content/uploads/klantreacties-1-350px-auto.webp)](https://thc-olie.nl/)
-
-#### WantToKnow Aanbieding
-
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP7637-edit.jpg?fit=440%2C440&ssl=1)
-
-### [Homeopathie Introductie-set: Gezond zijn doe je zelf deze zomer!](https://www.wanttoknow.nl/aanbieding/homeopathie-introductie-set-gezond-zijn-doe-je-zelf-2024/)
-
-[– Let op! Aanbieding loopt t/m donderdag 13 juni! – Op verzoek herhalen we nog een keer deze aanbieding. Het blijkt dat veel van onze lezers het al weten: homeopathie blijkt keer op keer, ondanks het ongeloof en de vaak zure reacties van tegenstanders, bewijs te leveren van de werking ervan. Meten is weten en als nu ook de KNMG inmiddels de homeopathie al een 8,6 als rapportcijfer geeft, als beoordeling, dan is er dus alle reden voor de zure tegenstanders hun inzichten bij te stellen, rondom homeopathie als geneeskunst. Als je niet snap hoe het werkt, dien je je bij de uitslag neer te leggen en niet als een bok op de haverkist te gaan protesteren tegen de werking van homeopathie.. Dus maken wij daarom -met deze aanbieding- homeopathie toegankelijker, want genezen kan en doe je nog altijd zelf! We zetten in deze aanbieding ook de geschiedenis van de homeopathische leer op een rij en lees hoe je zelf met die wijsheid aan de slag kunt. Zo heb je altijd een holistisch steuntje bij de hand! Bijvoorbeeld in de praktijk, op kantoor, in de klas of op vakantie? Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/homeopathie-introductie-set-gezond-zijn-doe-je-zelf-2024/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/homeopathie-introductie-set-gezond-zijn-doe-je-zelf-2024/#pt-field-text-5)
-
-[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
 #### WantToKnow Aanbieding
 
@@ -185,13 +172,25 @@ Advertentie
 
 [Order now](https://www.wanttoknow.nl/aanbieding/gezond-in-de-zon-met-colloidaal-goud-ben-jij-goud-waard/#pt-field-text-5)
 
+[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8039.jpg?fit=662%2C440&ssl=1)
+
+### [Shungiet: Balans & bescherming vanuit de diepte van het Carbon](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/)
+
+[– Let op! Aanbieding geldig t/m donderdag 27 juni! – We zijn ontzettend blij dat we de kans hebben je deze Shungiet aanbieding opnieuw te doen! Shungiet is namelijk maar op één plek in de wereld te vinden: in Rusland. Je weet; import en export is nu extreem moeilijk! Deze zeldzame, eeuwenoude steen, dankt de naam Shungite aan de enige plek ter wereld, waar het gevonden wordt. Shun’ga (Шуньга) ligt aan een groot meer oostelijk van Finland. Shungiet is uniek ook, omdat deze steensoort bijna volledig uit een zeldzame ‘Fullereen’ ofwel ‘Buckyball’-carbon (koolstof) bestaat.. Deze karakteristiek en de eigenschap/kwaliteit van Shungiet werd enkele decennia geleden pas ontdekt, onder elektronen-microscopen bestudeerd. Bijzonder, fascinerend materiaal! Lees daarom snel verder voor alle info en hoe je Shungiet kunt gebruiken in jouw dagelijks leven. En ook gewoon als sieraad! Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/#pt-field-text-5)
+
 #### WantToKnow Boekentip
 
 ![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Einde-van-de-omgekeerde-wereld-cover.jpg?fit=306%2C440&ssl=1)
 
 ### [Einde aan de omgekeerde wereld van geneeskunde..!!](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [8 juni 2024](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [10 juni 2024](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
 
 [Over de fundamentele overtuigingen over gezondheid en ziekte; zó fundamenteel dat de meesten van ons er waarschijnlijk niet aan gedacht hebben om eraan te twijfelen. De dokter weet toch wel waar die het over heeft..?) Bijvoorbeeld, veroorzaken bacteriën ziekte, of maken ze deel uit van de schoonmaakploeg van het lichaam op de plaats van onderliggende toxiciteit of verwonding? Volgen onderzoekers de wetenschappelijke methode wanneer ze stellen dat ze virussen isoleren en aantonen dat deze virussen bij hun gastheren ziekten veroorzaken? Hoe worden onderzoeken uitgevoerd die zogenaamd de overdracht van ziektekiemen van zieke mensen naar gezonde mensen aantonen? Hoe verschillen de gezondheidsresultaten op lange termijn van gevaccineerde en niet-gevaccineerde populaties? Vragen die schreeuwen om een neutrale positie van de medische wetenschap, Die nu vooral een ivoren toren van onwrikbare aannames is geworden.. …](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/)
 
@@ -201,15 +200,15 @@ Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](h
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/aardse-levensvormen-banner.jpg?fit=703%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/FTM-logo-banner.jpg?fit=730%2C398&ssl=1)
 
-### [De Cryptoterrestrials..](https://www.wanttoknow.nl/inspiratie/meelezen/de-cryptoterrestrials/)
+### [Follow the Money: ‘lakei van de macht’..??](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [27 mei 2024](https://www.wanttoknow.nl/inspiratie/meelezen/de-cryptoterrestrials/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [14 juni 2024](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/)
 
-[De boeken van J.K. Rowling over de belevenissen van Harry Potter, lijken voor velen pure fantasie. Evenals de vaak nog heftiger boeken van Tolkien, over de verschillende volkeren op Aarde en hun onderlinge twisten en broederschappen. Daarnaast zijn er vele, vele sagen, mythen en overleveringen van levensvormen, die allemaal ontsproten zouden moeten zijn uit de fantasie van de énige menselijke levensvorm op Aarde: de mens.. Maar aan de basis van ál deze verhalen en vertellingen, liggen enorme waarheden ten grondslag. Het wil namelijk niet zeggen natuurlijk, dat wanneer je nog nooit over de vormen hebt gehoord, ze dan ook niet zouden (kunnen) bestaan.. Harriet Algra spijkert je bij in een ongelooflijk relaas.. …](https://www.wanttoknow.nl/inspiratie/meelezen/de-cryptoterrestrials/)
+[De controverses in de maatschappij nemen hand-over-hand toe en de informatievoorziening van burgers is daarbij essentieel geworden. Essentieel in de zin van betrouwbare info, via onafhankelijke journalistiek. Journalistiek, die burgers neutrale informatie dient aan te reiken en vooral EEN KEUZE laat tussen de éne en ándere betrokken partij(en) in de vorm van woord/weerwoord in een bericht. De Europese Commissie wil media het zwijgen opleggen, wanneer informatie hen niet bevalt. Wanneer zij het als ‘des’- of ‘misinformatie’ kunnen karakteriseren. Maar daarbij blijft het niet..!! Infiltratie van gevestigde nieuwe media neemt hand over hand toe. Lees dit artikel van de hand van AndereKrant-hoofdredacteur Karel Beckman.. Om even goed te laten bezinken..!! …](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) Tagged [Energie](https://www.wanttoknow.nl/trefwoorden/energie/), [ET](https://www.wanttoknow.nl/trefwoorden/et/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Mind-Control](https://www.wanttoknow.nl/trefwoorden/mind-control/), [nieuw tijdperk](https://www.wanttoknow.nl/trefwoorden/nieuw-tijdperk/), [nieuwe aarde](https://www.wanttoknow.nl/trefwoorden/nieuwe-aarde/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [Universum](https://www.wanttoknow.nl/trefwoorden/universum/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/de-cryptoterrestrials/#respond)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) Tagged [doofpot](https://www.wanttoknow.nl/trefwoorden/doofpot/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [Nieuws](https://www.wanttoknow.nl/trefwoorden/nieuws/), [Politiek](https://www.wanttoknow.nl/trefwoorden/politiek/), [valse vlag operatie](https://www.wanttoknow.nl/trefwoorden/valse-vlag-operatie/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
@@ -220,6 +219,38 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Hoe Pia Dijkstra (D66) de TweedeKamer en NL-volk MINACHT..!!
+
+[hoi Eliza. Hoe u het ook draait of keert zelfs nu er een nie…](https://www.wanttoknow.nl/gezondheid/hoe-pia-dijkstra-d66-de-tweedekamer-en-nl-volk-minacht/comment-page-1/#comment-626296)
+
+![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
+
+##### **GuidoJ.** reacts on:
+
+##### Onderhoud 1 windmolenpark: 7 miljoen diesel/jaar..!!
+
+[Tja Peter, dit zijn van die gekke rekensommetjes. 'Verspilde…](https://www.wanttoknow.nl/overige/onderhoud-1-windmolenpark-7-miljoen-diesel-jaar/comment-page-1/#comment-626295)
+
+![peterV](https://secure.gravatar.com/avatar/809283c2bb03dc6375dc6c003d7c3bdf?s=50&d=identicon&r=g)
+
+##### **peterV** reacts on:
+
+##### Onderhoud 1 windmolenpark: 7 miljoen diesel/jaar..!!
+
+[7 miljoen liter diesel, is dat veel? 1 liter diesel = 10 kWh…](https://www.wanttoknow.nl/overige/onderhoud-1-windmolenpark-7-miljoen-diesel-jaar/comment-page-1/#comment-626293)
+
+![marjon205](https://secure.gravatar.com/avatar/e8f3d3885b3f67ec7b3986b9e164aa10?s=50&d=identicon&r=g)
+
+##### **marjon205** reacts on:
+
+##### Israël: de holocaust-bonus raakt op..?
+
+[Ik ben allerlei (predictive programming) berichten tegengeko…](https://www.wanttoknow.nl/geschiedenis/geloof-religie/israel-de-holocaust-bonus-raakt-op/comment-page-1/#comment-626292)
 
 ![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
 
@@ -444,38 +475,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Kunst in de jungle..
 
 [😂🤣Zo, ik heb vandaag weer gelachen om hoe iedereen hier bove…](https://www.wanttoknow.nl/overige/kunst-in-de-jungle/comment-page-1/#comment-626263)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### CENSUUR OP DEZE SITE..!!
-
-[https://tinyurl.com/y24cfd8e Ze geven miljarden uit alsof he…](https://www.wanttoknow.nl/overige/media/censuur-op-deze-site/comment-page-1/#comment-626262)
-
-![Ron](https://secure.gravatar.com/avatar/1b04eec12e302b86452b78c026422be2?s=50&d=identicon&r=g)
-
-##### **Ron** reacts on:
-
-##### Klimaat, ’the Movie’, de ijskoude waarheid..!!
-
-[Wil je de waarheid en de echte wetenschap achter het klimaat…](https://www.wanttoknow.nl/nieuws/klimaat-the-movie-de-ijskoude-waarheid/comment-page-1/#comment-626260)
-
-![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
-
-##### **Senjutsu** reacts on:
-
-##### CENSUUR OP DEZE SITE..!!
-
-[Veel gmail en hotmail accounts staan te scherp afgesteld en…](https://www.wanttoknow.nl/overige/media/censuur-op-deze-site/comment-page-1/#comment-626258)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Waarom het zolang duurt..!
-
-[Dank je wel Harriët. In principe weet ik het ook wel, maar o…](https://www.wanttoknow.nl/inspiratie/waarom-het-zolang-duurt/comment-page-1/#comment-626255)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
