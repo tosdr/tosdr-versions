@@ -47,7 +47,7 @@ Contains adsIn-app purchases
 
 4.0_star_
 
-75.6K reviews
+75.7K reviews
 
 1M+
 
@@ -254,6 +254,8 @@ May 31, 2024
 
 The only app I've found to filter by content! I get spam from services which use the same sms provider as my bank, so I can't block by number. This app saves me from 20-30 interruptions per day. It's not the prettiest app, and there are features I miss like swipe-to-archive, but only cave-dwellers and bots actually use sms these days, so it will do.
 
+1 person found this review helpful
+
 Did you find this helpful?
 
 Yes
@@ -297,7 +299,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmVqGGRUeEhRM29LV1ZMRkNNblcwcmN3UkE9PcICSAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5LZXkgTWVzc2FnZXM6IFNwYW0gU01TIEJsb2NrZXIgACgAMABQAA%3D%3D:S:ANO1ljJ93NA)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmVqGC90Y2xCRk4vODNnMm5Na1V2MkJYelE9PcICSAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5LZXkgTWVzc2FnZXM6IFNwYW0gU01TIEJsb2NrZXIgACgAMABQAA%3D%3D:S:ANO1ljJ-hhU)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
 
@@ -305,7 +307,7 @@ Handcent Next SMS messenger
 
 Handcent
 
-4.7_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
+4.6_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -315,13 +317,13 @@ Delicious
 
 4.4_star_](https://play.google.com/store/apps/details?id=com.textra)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/G1jalUvzKDBMEwP2iYSjWZKVwwN0WHJpFyzh9DOo-Jlnwclqft37T88w4DRMjpLD3ls=s64)
 
-Wize SMS: Message & Messenger
+Chomp SMS
 
-Browser by Fulldive Co.
+Delicious
 
-4.4_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
+4.4_star_](https://play.google.com/store/apps/details?id=com.p1.chompsms)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/EpnWcEdGdcub3ORg8INZWt91lXSJ_wrfTUo66_vLmsDjnV46OnEgI1uq4zOQozPCPkM=s64)
 
@@ -331,21 +333,21 @@ Maple Media
 
 3.9_star_](https://play.google.com/store/apps/details?id=xyz.klinker.messenger)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/VL-MAiPiZrjm5GZEsKayB-5A0xZnyGV4JSKdX_EX9M36yaXSwTCQoxbvmNsscpTbBg=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/-ooeBnI1kvNwxfyqRCweRVFpFj8JcPw6lowM_2q9eNW_cJolWk7HVXFutJiPrupVgQ=s64)
 
-EPRIVO Encrypted Email & Chat
+Text Vault - Texting App
 
-BlueRiSC Inc.
+Appsverse, Inc.
 
-3.8_star_](https://play.google.com/store/apps/details?id=com.bluerisc.eprivo)
+4.5_star_](https://play.google.com/store/apps/details?id=com.appsverse.textvault)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/I1rEarjkcHM2Yq13tYxJtg8idaYLK6kGXI0AMSm5VLMl5_nPwVuR4UFhAOSZo83CBe8=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/EMDdIjOW7r2d2p5_nbnHxBwqLujyRriopTSQ5mqJPa_PY5Ohrjx3WGb3F_KK9OJOxyQ=s64)
 
-Pushbullet: SMS on PC and more
+SimpleLogin | Anti-spam
 
-Pushbullet
+Simple Login
 
-4.4_star_](https://play.google.com/store/apps/details?id=com.pushbullet.android)
+4.5_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
