@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)   
 
-Region: France
+Region: United Kingdom
 
 * Australia
 * Belgium
@@ -92,13 +92,13 @@ Note: keyshop integration on GG.deals in not completed yet. We will gradually ex
 
 ### Trending Searches:
 
-* [Ghost of Tsushima](#)
 * [Destiny 2 The Final Shape](#)
-* [The Elder Scrolls Online Gold Road](#)
-* [Assassin's Creed Shadows](#)
+* [Black Ops 6](#)
 * [Elden Ring Shadow of the Erdtree](#)
-* [Hades II](#)
-* [Soulmask](#)
+* [Black Myth Wukong](#)
+* [Ghost of Tsushima](#)
+* [Diablo IV Vessel of Hatred](#)
+* [Assassin's Creed Shadows](#)
 * [Helldivers 2](#)
 * [Test Drive Unlimited Solar Crown](#)
 * [Xbox Game Pass](#)
@@ -432,7 +432,7 @@ Powered by Steam, a registered trademark of Valve Corporation. GG.deals is in no
 * [](https://www.facebook.com/GG.deals.site/)
 * [](https://twitter.com/GGdeals/)
 * [](https://steamcommunity.com/groups/gg_deals)
-* [](https://gg.deals/fr/news/feed/)
+* [](https://gg.deals/gb/news/feed/)
 
 * [Privacy policy](https://gg.deals/privacy/)
 * [Terms & conditions](https://gg.deals/terms/)
