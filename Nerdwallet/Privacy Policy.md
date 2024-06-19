@@ -7,7 +7,7 @@ Best credit cards[Best credit cards](https://www.nerdwallet.com/the-best-credit-
 
 [Compare credit cards](https://www.nerdwallet.com/compare/credit-cards?trk=nw_gn_6.0)
 
-Get a card recommendation[Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)
+Get a card recommendation[Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)[Travel rewards and perks](https://www.nerdwallet.com/recommend/primary-goal/travel?trk=nw_gn_6.0)[Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)[Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)[Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)
 
 [Credit card reviews](https://www.nerdwallet.com/article/credit-cards/credit-card-reviews?trk=nw_gn_6.0)
 
@@ -38,7 +38,7 @@ Savings accounts[Savings account guide](https://www.nerdwallet.com/h/category/sa
 
 CDs[CD guide](https://www.nerdwallet.com/h/category/certificates-of-deposit?trk=nw_gn_6.0)[Best CD rates](https://www.nerdwallet.com/best/banking/cd-rates?trk=nw_gn_6.0)[Best 3 month CD rates](https://www.nerdwallet.com/best/banking/3-month-cd-rates?trk=nw_gn_6.0)[Best 6 month CD rates](https://www.nerdwallet.com/best/banking/6-month-cd-rates?trk=nw_gn_6.0)[Best 1 year CD rates](https://www.nerdwallet.com/best/banking/1-year-cd-rates?trk=nw_gn_6.0)[Best 3 year CD rates](https://www.nerdwallet.com/best/banking/3-year-cd-rates?trk=nw_gn_6.0)[Best 5 year CD rates](https://www.nerdwallet.com/best/banking/5-year-cd-rates?trk=nw_gn_6.0)[CD calculator](https://www.nerdwallet.com/calculator/cd-calculator?trk=nw_gn_6.0)
 
-Checking accounts[Checking account guide](https://www.nerdwallet.com/h/category/checking-accounts?trk=nw_gn_6.0)[Best checking accounts](https://www.nerdwallet.com/best/banking/checking-accounts?trk=nw_gn_6.0)[Best free checking accounts](https://www.nerdwallet.com/best/banking/free-checking-accounts?trk=nw_gn_6.0)[Best online check accounts](https://www.nerdwallet.com/best/banking/online-checking-accounts?trk=nw_gn_6.0)[Checking account alternatives](https://www.nerdwallet.com/article/banking/big-bank-alternatives?trk=nw_gn_6.0)
+Checking accounts[Checking account guide](https://www.nerdwallet.com/h/category/checking-accounts?trk=nw_gn_6.0)[Best checking accounts](https://www.nerdwallet.com/best/banking/checking-accounts?trk=nw_gn_6.0)[Best free checking accounts](https://www.nerdwallet.com/p/best/banking/free-checking-accounts?trk=nw_gn_6.0)[Best online check accounts](https://www.nerdwallet.com/best/banking/online-checking-accounts?trk=nw_gn_6.0)[Checking account alternatives](https://www.nerdwallet.com/article/banking/big-bank-alternatives?trk=nw_gn_6.0)
 
 [Payments and transfers](https://www.nerdwallet.com/h/category/payments-money-transfers?trk=nw_gn_6.0)
 
@@ -184,7 +184,7 @@ Small business
 
 Funding your business[Small-business loans](https://www.nerdwallet.com/best/small-business/small-business-loans/compare-financing?trk=nw_gn_6.0)[SBA loans](https://www.nerdwallet.com/article/small-business/small-business-loans-sba-loans?trk=nw_gn_6.0)[Business credit cards](https://www.nerdwallet.com/best/credit-cards/small-business?trk=nw_gn_6.0)[Business grants](https://www.nerdwallet.com/article/small-business/small-business-grants?trk=nw_gn_6.0)[Best startup business loans](https://www.nerdwallet.com/best/small-business/startup-business-loans?trk=nw_gn_6.0)
 
-Managing business finances[Business bank accounts](https://www.nerdwallet.com/best/small-business/best-business-bank-accounts?trk=nw_gn_6.0)[Accounting](https://www.nerdwallet.com/best/small-business/accounting-software?trk=nw_gn_6.0)[Payroll & HR](https://www.nerdwallet.com/best/small-business/payroll-software?trk=nw_gn_6.0)[Business taxes](https://www.nerdwallet.com/h/category/small-business-taxes?trk=nw_gn_6.0)
+Managing business finances[Business bank accounts](https://www.nerdwallet.com/best/small-business/best-business-bank-accounts?trk=nw_gn_6.0)[Accounting](https://www.nerdwallet.com/p/best/small-business/accounting-software?trk=nw_gn_6.0)[Payroll & HR](https://www.nerdwallet.com/best/small-business/payroll-software?trk=nw_gn_6.0)[Business taxes](https://www.nerdwallet.com/h/category/small-business-taxes?trk=nw_gn_6.0)
 
 Running your business[Payment processing](https://www.nerdwallet.com/best/small-business/payment-processing-companies?trk=nw_gn_6.0)[E-commerce](https://www.nerdwallet.com/article/small-business/ecommerce-website-builder?trk=nw_gn_6.0)[Marketing](https://www.nerdwallet.com/article/small-business/marketing-services?trk=nw_gn_6.0)[Business insurance](https://www.nerdwallet.com/article/small-business/business-insurance?trk=nw_gn_6.0)[Business legal](https://www.nerdwallet.com/h/category/business-legal?trk=nw_gn_6.0)
 
@@ -235,6 +235,10 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)
     * [Best credit cards for groceries](https://www.nerdwallet.com/best/credit-cards/groceries?trk=nw_gn_6.0)
     
+    * [Travel rewards and perks](https://www.nerdwallet.com/recommend/primary-goal/travel?trk=nw_gn_6.0)
+    * [Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)
+    * [Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)
+    * [Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)
     * [Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)
     
     * [Balance transfer savings calculator](https://www.nerdwallet.com/article/credit-cards/balance-transfer-calculator?trk=nw_gn_6.0)
@@ -293,7 +297,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [CD guide](https://www.nerdwallet.com/h/category/certificates-of-deposit?trk=nw_gn_6.0)
     
     * [Best checking accounts](https://www.nerdwallet.com/best/banking/checking-accounts?trk=nw_gn_6.0)
-    * [Best free checking accounts](https://www.nerdwallet.com/best/banking/free-checking-accounts?trk=nw_gn_6.0)
+    * [Best free checking accounts](https://www.nerdwallet.com/p/best/banking/free-checking-accounts?trk=nw_gn_6.0)
     * [Best online check accounts](https://www.nerdwallet.com/best/banking/online-checking-accounts?trk=nw_gn_6.0)
     * [Checking account alternatives](https://www.nerdwallet.com/article/banking/big-bank-alternatives?trk=nw_gn_6.0)
     * [Checking account guide](https://www.nerdwallet.com/h/category/checking-accounts?trk=nw_gn_6.0)
@@ -597,7 +601,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Best startup business loans](https://www.nerdwallet.com/best/small-business/startup-business-loans?trk=nw_gn_6.0)
     
     * [Business bank accounts](https://www.nerdwallet.com/best/small-business/best-business-bank-accounts?trk=nw_gn_6.0)
-    * [Accounting](https://www.nerdwallet.com/best/small-business/accounting-software?trk=nw_gn_6.0)
+    * [Accounting](https://www.nerdwallet.com/p/best/small-business/accounting-software?trk=nw_gn_6.0)
     * [Payroll & HR](https://www.nerdwallet.com/best/small-business/payroll-software?trk=nw_gn_6.0)
     * [Business taxes](https://www.nerdwallet.com/h/category/small-business-taxes?trk=nw_gn_6.0)
     
