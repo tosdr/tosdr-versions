@@ -65,7 +65,7 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
         
     * [#### Release Notes
         
-        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/126.0.1/releasenotes/)
+        Get the details on the latest Firefox updates.](https://www.mozilla.org/firefox/127.0/releasenotes/)
         
     
     [View all Firefox Browsers](https://www.mozilla.org/en-US/firefox/)
@@ -282,7 +282,6 @@ Please visit our [forums](https://support.mozilla.org/) for general support help
 * [Firefox Focus](https://www.mozilla.org/en-US/privacy/firefox-focus/)
 * [Thunderbird](https://www.mozilla.org/en-US/privacy/thunderbird/)
 * [MDN Plus](https://www.mozilla.org/en-US/privacy/mdn-plus/)
-* [Mozilla Hubs](https://www.mozilla.org/en-US/privacy/hubs/)
 
 [Mozilla](https://www.mozilla.org/en-US/)
 
