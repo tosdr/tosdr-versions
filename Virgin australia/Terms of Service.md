@@ -90,7 +90,7 @@ disabled Mode
     
     * [Specific needs and assistance](https://www.virginaustralia.com/au/en/travel-info/specific-travel/specific-needs-assistance/)
     * [Flying with kids](https://www.virginaustralia.com/au/en/travel-info/specific-travel/children/)
-    * [Travelling with pets](https://www.virginaustralia.com/au/en/travel-info/specific-travel/pets/)
+    * [Virgin Pet Travel](https://www.virginaustralia.com/au/en/travel-info/specific-travel/pets/)
     * [Charters](https://www.virginaustralia.com/au/en/travel-info/specific-travel/charters/)
     * [Group travel](https://www.virginaustralia.com/au/en/travel-info/specific-travel/group-travel/)
     
