@@ -287,8 +287,6 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 
 In accordance with the DMCA and other applicable laws, we have adopted a policy to terminate the Account of users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
-[Twitter](https://twitter.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
-
 [Vanilla](https://www.fakku.net/tags/vanilla "Vanilla Hentai")
 
 [Tomboy](https://www.fakku.net/tags/tomboy "Tomboy Hentai")
@@ -301,21 +299,11 @@ In accordance with the DMCA and other applicable laws, we have adopted a policy 
 
 Popular Tags Today:
 
-[Forums](https://www.fakku.net/forums)
-
-[Contact](https://www.fakku.net/contact)
-
-[Support](https://www.fakku.net/support)
-
-[Jobs](https://www.fakku.net/jobs)
-
-[Terms](https://www.fakku.net/terms)
-
-[Privacy](https://www.fakku.net/privacy)
-
-[Merch](https://merch.fakku.net/)
+[Twitter](https://twitter.com/fakku) [Discord](https://discord.gg/SCjbSWkMHB)
 
 © FAKKU, LLC 2024 All rights reserved.
+
+[Forums](https://www.fakku.net/forums) [Contact](https://www.fakku.net/contact) [Support](https://www.fakku.net/support) [Jobs](https://www.fakku.net/jobs) [Terms](https://www.fakku.net/terms) [Privacy](https://www.fakku.net/privacy) [Merch](https://merch.fakku.net/)
 
 Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
 
