@@ -9,6 +9,7 @@
     * [Frenchpresso](https://wanderingfrench.com/category/frenchpresso/)
     * [Hélène se promène](https://wanderingfrench.com/category/helenesepromene/)
     * [Shorts](https://wanderingfrench.com/category/shorts/)
+* [Boutique](https://wanderingfrench.com/boutique/)
 * [Contact](https://wanderingfrench.com/contact/)
 * [···](javascript:void(0))
     
@@ -31,6 +32,7 @@
     * [Frenchpresso](https://wanderingfrench.com/category/frenchpresso/)
     * [Hélène se promène](https://wanderingfrench.com/category/helenesepromene/)
     * [Shorts](https://wanderingfrench.com/category/shorts/)
+* [Boutique](https://wanderingfrench.com/boutique/)
 * [Contact](https://wanderingfrench.com/contact/)
 * [···](javascript:void(0))
     
@@ -55,6 +57,7 @@
     * [Frenchpresso](https://wanderingfrench.com/category/frenchpresso/)
     * [Hélène se promène](https://wanderingfrench.com/category/helenesepromene/)
     * [Shorts](https://wanderingfrench.com/category/shorts/)
+* [Boutique](https://wanderingfrench.com/boutique/)
 * [Contact](https://wanderingfrench.com/contact/)
 
 Politique de confidentialité
@@ -149,21 +152,21 @@ _**Der­nière mise à jour : 20 octobre 2022**_
 [Québécois 101 : Les questions avec « tu » en français québécois](https://wanderingfrench.com/qc-004/)
 ------------------------------------------------------------------------------------------------------
 
-6 428 visites
+6 544 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/07/quebecois-101-8-expressions-queb-125x70.jpg)](https://wanderingfrench.com/qc012/ "Québécois 101 : 8 expressions québécoises inspirées du hockey")
 
 [Québécois 101 : 8 expressions québécoises inspirées du hockey](https://wanderingfrench.com/qc012/)
 ---------------------------------------------------------------------------------------------------
 
-5 127 visites
+5 200 visites
 
 [![](https://wanderingfrench.com/wp-content/uploads/2021/04/quebecois-101-le-top-5-des-expre-125x70.jpg)](https://wanderingfrench.com/qc-009/ "Québécois 101 : Le top 5 des expressions québécoises")
 
 [Québécois 101 : Le top 5 des expressions québécoises](https://wanderingfrench.com/qc-009/)
 -------------------------------------------------------------------------------------------
 
-4 870 visites
+4 974 visites
 
 #### Vidéos les plus commentées
 
