@@ -7,7 +7,7 @@
 * [Follow Us](https://www.facebook.com/Wisefuneralhome/)
 * [Send Flowers](https://www.wisefuneralhome.com/obits)
 
-[![Wise Funeral Home](/fh_live/12900/12965/brand/WISE-FUNERAL-HOME.png?v=45379.52485767361)](https://www.wisefuneralhome.com/)
+[![Wise Funeral Home](/fh_live/12900/12965/brand/WISE-FUNERAL-HOME.png?v=45456.51604934028)](https://www.wisefuneralhome.com/)
 
 * [Home](https://www.wisefuneralhome.com/homepage)
 * [Who We Are](https://www.wisefuneralhome.com/#)
@@ -80,7 +80,7 @@
 * [Planning Insights](https://www.wisefuneralhome.com/insight)
 * [Obituaries](https://www.wisefuneralhome.com/obits)
 
-[![Wise Funeral Home](/fh_live/12900/12965/brand/WISE-FUNERAL-HOME.png?v=45379.52485767361)](https://www.wisefuneralhome.com/)
+[![Wise Funeral Home](/fh_live/12900/12965/brand/WISE-FUNERAL-HOME.png?v=45456.51604934028)](https://www.wisefuneralhome.com/)
 
 Terms and Conditions
 ====================
