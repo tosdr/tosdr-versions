@@ -590,6 +590,7 @@ About Teads
 * [Blog](https://www.teads.com/blog/)
 * [Get certified on TAM](https://academy.teads.com/)
 * [Engineering at Teads](https://engineering.teads.com/)
+* [Security at Teads](https://www.teads.com/security/)
 
 ![](https://www.teads.com/wp-content/uploads/2019/07/Teads_logo_White.svg)
 
