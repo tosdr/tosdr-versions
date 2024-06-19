@@ -104,8 +104,10 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
-[Request demo](https://www.watermarkinsights.com/request-demo/)
+[Schedule a demo](https://www.watermarkinsights.com/request-demo/)
 
 * [What we do](https://www.watermarkinsights.com/solutions/)
     * [EDUCATIONAL IMPACT SUITE](https://www.watermarkinsights.com/explore/educational-impact-suite/)
@@ -211,9 +213,11 @@
             ![](/wp-content/uploads/2024/01/Group-21334.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
+* [Schedule a Demo](https://www.watermarkinsights.com/request-demo/ "Schedule a Demo")
+    
 
 * [Learn about EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
-* [Request demo](https://www.watermarkinsights.com/request-demo/)
+* [Schedule a demo](https://www.watermarkinsights.com/request-demo/)
 
 Privacy Statement
 =================
