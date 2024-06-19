@@ -175,6 +175,6 @@ Copyright © 2024 OpenX. All rights reserved.
 
 [](https://www.facebook.com/OpenX/)[](https://www.instagram.com/openxlife/)[](https://www.linkedin.com/company/openx)[](https://twitter.com/OpenX)[](https://vimeo.com/openx)
 
- ![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e)[![](https://www.openx.com/wp-content/themes/openx/images/components/toast/deal-library/toast-cookieless-deal-library.webp?v=1) ![](https://www.openx.com/wp-content/themes/openx/images/components/toast/deal-library/toast-cookieless-deal-library-mobile.webp?v=1)](https://www.openx.com/deals-library/)
+ ![](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e)[![](https://www.openx.com/wp-content/themes/openx/images/components/toast/auction-packages/toast-auction-packages.webp?v=1)](https://www.openx.com/auction-packages/)
 
 ![](https://px.ads.linkedin.com/collect/?pid=3956196&fmt=gif)
