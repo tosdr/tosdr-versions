@@ -29,19 +29,19 @@
     * [Documentation
         
         Learn how to use every feature of Memberful.](https://memberful.com/help/)
-    * [Blog
-        
-        Insights, updates, and teaching centered around growing your community.](https://memberful.com/blog/)
     * [microphone
         
-        Podcast
+        Operator
         
-        A podcast about entrepreneurs winning in the creator economy.](https://creativeindependents.memberful.com/)
+        Strategic blueprints to turn your business into a thriving membership.](https://operator.guide/)
     * [announcement
         
         Product Updates
         
         New features, updates, and official announcements about Memberful.](https://memberful.com/product-updates)
+    * [Blog
+        
+        Insights, updates, and teaching centered around growing your community.](https://memberful.com/blog/)
     * [map
         
         Membership journey
