@@ -1,11 +1,8 @@
 [![Speaky logo - SVG 7](https://www.speaky.com/wp-content/uploads/elementor/thumbs/Speaky-logo-SVG-7-1-qepri01ujujgznix2z62ew7mtdc1nv7a2ym41jsuua.png "Speaky logo – SVG 7")](https://www.speaky.com/)
 
 * [About Us](https://www.speaky.com/about-us/)
-    
 * [Blog](https://www.speaky.com/blog/)
-    
 * [Support](https://www.speaky.com/support-3/)
-    
 
 [Log in](https://web.speaky.com/login)
 
@@ -14,17 +11,11 @@
 ![](https://www.speaky.com/wp-content/uploads/2023/10/Group-30.png)
 
 * [About Us](https://www.speaky.com/about-us/)
-    
 * [Blog](https://www.speaky.com/blog/)
-    
 * [Support](https://www.speaky.com/support-3/)
-    
 * [Ebooks](https://www.speaky.com/?page_id=529)
-    
 * [Login](https://web.speaky.com/login)
-    
 * [Signup](https://web.speaky.com/register)
-    
 
 Privacy Policy
 --------------
