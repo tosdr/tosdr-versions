@@ -20,7 +20,7 @@ Don't have an account?[Create Account](https://www.harborfreight.com/customer/ac
 
 My Cart](https://www.harborfreight.com/checkout/cart)
 
-Mobile menu button
+Toggle Menu
 
 Shop
 
@@ -46,12 +46,12 @@ Shop
 * [Extended Service Plans](https://www.harborfreight.com/extended-service-protection)
 * [Replacement Parts](https://www.harborfreight.com/parts)
 
-* * [Parking Lot Sale](https://www.harborfreight.com/collections/huge-parking-lot-sale.html)
+* * [Coupons](https://www.harborfreight.com/coupons)
     * [New Tools](https://www.harborfreight.com/collections/new-tools.html)
     * [Deals](https://www.harborfreight.com/deals.html)
     * [Member-Only Deals](https://www.harborfreight.com/collections/inside-track-club-deals.html)
     * [Join Inside Track Club](https://www.harborfreight.com/inside-track-club-membership-403.html)
-    *  [![HF Credit Card](https://images.harborfreight.com/media/plcc/cc-icon.gif) Credit Center](https://www.harborfreight.com/credit-center)
+    *  [![HF Credit Card](https://images.harborfreight.com/media/plcc/cc-icon_2024.gif) Credit Center](https://www.harborfreight.com/credit-center)
     * [Buying Guides](https://www.harborfreight.com/guides-library)
 * [Order Status](https://www.harborfreight.com/customer/orders)
 * My Account
@@ -59,7 +59,7 @@ Shop
 * Product Support
 * [Find a Store](https://www.harborfreight.com/storelocator)
 
-[![Harbor Freight Tools](https://images.harborfreight.com/media/logos/harborfreight-logo.svg)](https://www.harborfreight.com/)
+[![Harbor Freight Tools Logo](https://images.harborfreight.com/media/logos/harborfreight-logo_2024.svg)](https://www.harborfreight.com/)
 
 [My Coupons](https://www.harborfreight.com/customer/mycoupons)
 
@@ -85,8 +85,6 @@ My Cart](https://www.harborfreight.com/checkout/cart)
 
 Search
 
-Submit search
-
 * Shop
     
     * Shop
@@ -111,12 +109,12 @@ Submit search
     * [Extended Service Plans](https://www.harborfreight.com/extended-service-protection)
     * [Replacement Parts](https://www.harborfreight.com/parts)
     
-* * [Parking Lot Sale](https://www.harborfreight.com/collections/huge-parking-lot-sale.html)
+* * [Coupons](https://www.harborfreight.com/coupons)
     * [New Tools](https://www.harborfreight.com/collections/new-tools.html)
     * [Deals](https://www.harborfreight.com/deals.html)
     * [Member-Only Deals](https://www.harborfreight.com/collections/inside-track-club-deals.html)
     * [Join Inside Track Club](https://www.harborfreight.com/inside-track-club-membership-403.html)
-    *  [![HF Credit Card](https://images.harborfreight.com/media/plcc/cc-icon.gif) Credit Center](https://www.harborfreight.com/credit-center)
+    *  [![HF Credit Card](https://images.harborfreight.com/media/plcc/cc-icon_2024.gif) Credit Center](https://www.harborfreight.com/credit-center)
     * [Buying Guides](https://www.harborfreight.com/guides-library)
 
 Loading...
@@ -155,12 +153,12 @@ Get our best deals and latest news delivered straight to you
 ### About Us
 
 * [Our Story](https://www.harborfreight.com/about-us)
-* [Careers](https://harborfreightjobs.com/)
+* [Careers](https://jobs.harborfreight.com/)
 * [Newsroom](https://newsroom.harborfreight.com/)
 * [Real Estate](https://www.harborfreight.com/real-estate.html)
 * [Giving Back](https://www.harborfreightgivingback.com/)
 
-[![Harbor Freight Tools](https://images.harborfreight.com/media/logos/harborfreight-logo.svg)](https://www.harborfreight.com/)![Buckey](https://images.harborfreight.com/media/logos/buckey-logo_20231103.png)
+[![Harbor Freight Tools Logo](https://images.harborfreight.com/media/logos/harborfreight-logo_2024.svg)](https://www.harborfreight.com/)![Buckey](https://images.harborfreight.com/media/logos/bucky-2024.png)
 
 ### Connect with Harbor Freight Tools
 
