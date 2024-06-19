@@ -100,7 +100,7 @@
     
     [SAT Practice Tests](https://ischoolconnect.com/en/exams/sat/practice-tests/)
     
-* [Our Experts](https://pages.ischoolconnect.com/free-study-abroad-counseling-with-ischoolconnect)
+* [Our Experts](https://ischoolconnect.com/pages/meet-our-counsellors/)
 * [iSchoolPrep](https://ischoolprep.com/)
 * [ProductsFREE](#ai-via)
     
