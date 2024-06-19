@@ -21,6 +21,7 @@ Search
     * [Shoppable Feed](https://embedsocial.com/social-media-aggregator/shop/ "Shoppable Feed")
     * [Hashtag Walls](https://embedsocial.com/social-media-aggregator/hashtag/ "Hashtag Walls")
     * [Moderation](https://embedsocial.com/social-media-aggregator/moderation/ "Moderation")
+    * [Social Media Publishing](https://embedsocial.com/social-media-publishing/ "Social Media Publishing")
     * [Rights Management](https://embedsocial.com/blog/ugc-rights-management/ "Rights Management")
     * [Social Media Widgets](https://embedsocial.com/p/templates/feed "Social Media Widgets")
     * [Embed Facebook Albums](https://embedsocial.com/facebook-albums/ "Embed Facebook Albums")
@@ -403,9 +404,9 @@ Office: Park Residence, Skopje Macedonia
     
 * [EmbedFeed](https://embedsocial.com/social-media-aggregator/)
     
-* [EmbedAlbum](https://embedsocial.com/facebook-albums/)
-    
 * [EmbedForms](https://embedsocial.com/forms/)
+    
+* [Social Media Publishing](https://embedsocial.com/social-media-publishing/)
     
 * [Google Posts Scheduler](https://embedsocial.com/google-posts-scheduler/)
     
