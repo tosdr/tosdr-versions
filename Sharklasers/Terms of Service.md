@@ -2,7 +2,7 @@
 
 ### SharkLasers - Disposable Temporary E-Mail Address
 
-Pew Pew Pew! Here is your random disposable email address - without login or registration! Test it out, try sending an email to it - new emails arrive instantly to the inbox below. Give it to entities who you don't trust and keep spam away from your regular email. So far, our network processed **16,620,759,988 emails**, (96199 / hour). **Sharks with laser beams attached to their heads FTW!**
+Pew Pew Pew! Here is your random disposable email address - without login or registration! Test it out, try sending an email to it - new emails arrive instantly to the inbox below. Give it to entities who you don't trust and keep spam away from your regular email. So far, our network processed **16,654,820,094 emails**, (55300 / hour). **Sharks with laser beams attached to their heads FTW!**
 
 Do you own a domain? Use it with Guerrilla Mail! Email arriving to your domain will be accessible only by you. Or, you may give access to everyone. Price: $9.99 USD / year. Don't have a domain? You can get one from [Namecheap.com](https://www.namecheap.com/)
 
@@ -14,8 +14,8 @@ Eg. mydomain.com
 
 Payment Method:  Bitcoin |  PayPal
 
-fecvqqnp @ sharklasers.comgrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.comspam4.me   [Forget Me](https://www.sharklasers.com/?fgt=1) [WTF?](#)  
-tv441y+77zdb0dowl65w@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Alias Address
+cdmmsktj @ sharklasers.comgrr.laguerrillamail.bizguerrillamail.comguerrillamail.deguerrillamail.netguerrillamail.orgguerrillamailblock.comspam4.me   [Forget Me](https://www.sharklasers.com/?fgt=1) [WTF?](#)  
+tvu81o+a1htw7mjkf0r4@sharklasers.com Copy to clipboard  ![](/img/mask-alias.png) Alias Address
 
 Inbox ID:   [Forget Me](https://www.sharklasers.com/?fgt=1)  
 Your Email Address is:  
@@ -66,7 +66,7 @@ THIS SERVICE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, 
 
 For content with links to third party resources, SharkLasers has no control over third party resources and is not responsible or liable for their content or services offered. SharkLasers has no control over and not responsible for any content of email messages, including their attachments _Caveat emptor_
 
-Additionally, the following header will be added to outgoing email: X-Originating-IP:\[51.77.108.160\]
+Additionally, the following header will be added to outgoing email: X-Originating-IP:\[51.195.149.220\]
 
 Unleash the weapons of spam destruction on to the world.
 
