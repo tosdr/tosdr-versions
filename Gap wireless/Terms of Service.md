@@ -211,24 +211,6 @@ Our Newsletter
 
 Subscribe for latest news on sales, promotions, and new products from NWS
 
-### Stay Updated with our Newsletter
-
-* Enter Your Email\*
-    
-* Interests\*
-    
-    * [x]  Fiber & Broadband
-    * [x]  Test & Measurement
-    * [x]  Telecom Infrastructure
-    * [x]  ICT Solutions
-    
-* Phone
-    
-    This field is for validation purposes and should be left unchanged.
-    
-
-        
-
 [![](https://eadn-wc02-10047526.nxedge.io/wp-content/uploads/New-NWS_logo-color-2023-reverse.png)](https://www.gapwireless.com/)
 
 Established in 2012, NWS is a technology infrastructure solutions provider committed to helping companies of all sizes build the connected world of today and tomorrow. From custom connectivity, kitting, logistics, telecom infrastructure materials, and test and measurement solutions, our goal is to develop and deliver solutions for the world we need next.
