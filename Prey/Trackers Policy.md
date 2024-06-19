@@ -33,7 +33,7 @@
 Cookies
 =======
 
-Our website, including the user panel of PREY ANTI-THEFT, uses first and third-party cookies to obtain anonymous usage statistics with the purpose of providing you with a better service. We do not do tracking outside our website nor do we install these cookies without your prior consent. The other cookies used on our website are essential to its operation and their objective is to facilitate its usability and configuration, they don’t track any Personally Identifiable Information (PII) whatsoever.
+Our website, including the user panel of PREY, uses first and third-party cookies to obtain anonymous usage statistics with the purpose of providing you with a better service. We do not do tracking outside our website nor do we install these cookies without your prior consent. The other cookies used on our website are essential to its operation and their objective is to facilitate its usability and configuration, they don’t track any Personally Identifiable Information (PII) whatsoever.
 
 Following the California Online Privacy Protection Act (CalOPPA) and given that there is no existing standard governing the Do Not Track signals, we do not comply with these requests nor can we ensure third-party cookies in our website will.
 
