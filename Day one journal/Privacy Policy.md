@@ -235,7 +235,7 @@ _This Privacy Policy was last revised: April 22, 2024_.
     * [iPhone/iPad/Watch](https://get.dayoneapp.com/nQ12/d179m34q)
     * [Android](https://get.dayoneapp.com/nQ12/d179m34q)
     * [Mac](https://get.dayoneapp.com/nQ12/d179m34q)
-    * [Web Version (Beta)](https://dayoneapp.com/web/)
+    * [Web Version](https://dayoneapp.com/web/)
     * [Browser Extensions](https://dayoneapp.com/extensions/)
 * [Offers](#)
     * [Features](https://dayoneapp.com/features/)
