@@ -29,7 +29,11 @@ Menu
     * [Paralyzed by Procrastination](https://p.lifehack.org/solutions-paralyzed-by-procrastination)
     * [The Struggle For Balance](https://p.lifehack.org/solutions-struggle-for-balance)
     * [Breaking Free from Survival Mode](https://p.lifehack.org/solutions-survival-mode)
-* [Products](https://p.lifehack.org/products)
+* [Membership](#)
+    * [AI Assisted Journalling](https://p.lifehack.org/membership/assisted-journalling)
+    * [Goal Realization Engine](https://p.lifehack.org/membership/goals-milestones-actions)
+    * [Resources & Learning Corner](https://p.lifehack.org/membership/learning-corner)
+    * [Get In Touch](https://p.lifehack.org/membership/start-a-conversation)
 * [Pricing](https://p.lifehack.org/pricing)
 * [Join Now](https://g.lifehack.org/get-all-access?utm_source=blog&utm_medium=cta&utm_campaign=LifeHack-Membership&utm_term=Navbar-button)
 
@@ -312,9 +316,11 @@ If you would like to notify us of the infringing material or activity, we encour
 * [Find Your Biggest Time Killer](https://p.lifehack.org/tools/find-biggest-time-killer)
 
 * MEMBERSHIP
-* [Join Now](https://g.lifehack.org/get-all-access)
-* [Products](https://p.lifehack.org/products)
-* [Member Login](https://members.lifehack.org/)
+* [Plans & Pricing](https://p.lifehack.org/pricing)
+* [AI Assisted Journalling](https://p.lifehack.org/membership/assisted-journalling)
+* [Goal Realization Engine](https://p.lifehack.org/membership/goals-milestones-actions)
+* [Resources & Learning Corner](https://p.lifehack.org/membership/learning-corner)
+* [Member Login](https://app.lifehack.org/login)
 * [Support](https://help.lifehack.org/)
 
 * CHANNELS
