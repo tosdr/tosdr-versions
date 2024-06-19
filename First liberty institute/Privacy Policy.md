@@ -155,34 +155,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 [Terms of Use](https://firstliberty.org/terms-of-use/) • [Privacy Policy](https://firstliberty.org/web-site-privacy-policy/) • [State Disclosures](https://firstliberty.org/state-disclosures/) • [Sitemap](https://firstliberty.org/site-map/) • © _2024 Liberty Institute® is a trademark of First Liberty Institute_
 
-**Fill out the following form to get your FREE resources**
-
-**2024 Election Resources
------------------------
-
-Hidden
-
-### Next Steps: Sync an Email Add-On
-
-To get the most out of your form, we suggest that you sync this form with an email add-on. To learn more about your email add-on options, visit the following page (https://www.gravityforms.com/the-8-best-email-plugins-for-wordpress-in-2020/). Important: Delete this tip before you publish the form.
-
-Name(Required)
-
-First  Last 
-
-Email(Required)
-
-Enter Email  Confirm Email 
-
-I Agree(Required)
-
- I agree to receive emails from First Liberty Institute  
-By clicking submit, you are verifying that you are 16 years of age or older.
-
-Are you human?**       
-
-x
-
 #### **Join the Essential Fight to Preserve Religious Liberty**
 
  \* First Name: Required\* Last Name: Required\* Email: RequiredZIP / Postal Code:   Yes, I would like to receive e-mail from First Liberty Institute _By clicking submit, you are verifying that you are 16 years of age or older._
