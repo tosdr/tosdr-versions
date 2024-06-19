@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (438)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (471)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -1326,7 +1326,7 @@ COMPLAINT
 
 You can file a complaint using the downloadable form [here](https://img.wlresources.com/complaint/complaint_form_shoshoro_V1.pdf)  
 After filling it out, you can send it to us by mail at the address described in the form or by sending it as an attachment to  
-Our services will respond to the email address you provided in the form.
+Our services will reply to the e-mail address you provided in the form within a maximum of 7 working days.
 
 DAC7
 ====
