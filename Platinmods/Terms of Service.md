@@ -118,19 +118,19 @@ If you do not agree with these terms, please do not register or use the Service.
 
 Threads
 
-74,810
+75,222
 
 Messages
 
-2,602,550
+2,629,938
 
 Members
 
-4,107,986
+4,137,299
 
 Latest member
 
-[kylast123](https://platinmods.com/members/kylast123.4417849/)
+[kupaw](https://platinmods.com/members/kupaw.4449326/)
 
 * [Platinmods.com - Modern Dark](https://platinmods.com/misc/style "Style chooser")
 
