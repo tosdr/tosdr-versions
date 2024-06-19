@@ -77,7 +77,7 @@ All Categories
 
 * [Home](https://www.genericday.com/)
 * [Mens Health](https://www.genericday.com/mens-health.html/)
-* [Covid-19](https://www.genericday.com/covid-19.html/)
+* [Ivermectin](https://www.genericday.com/covid-19.html/)
 * [Contact us](https://www.genericday.com/contact/)
 * [Blog](https://www.genericday.com/blog/)
 * [Offer Zone](https://www.genericday.com/offer-zone.html/)
