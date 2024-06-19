@@ -200,9 +200,9 @@ Themenwelten
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
-[\-20% rund um das Wohlbefinden für Männer
+[\-20% auf K-Beauty
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/mens-wellness)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/k-beauty)
 
 [\-20% auf 6.000 Artikel
 
