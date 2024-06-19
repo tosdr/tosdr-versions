@@ -1,7 +1,7 @@
 [](https://airportinfo.live/)
 
 Uhrzeit:  
-Mon 06/17/2024
+Wed 06/19/2024
 
   ![](/images/search.svg)
 
