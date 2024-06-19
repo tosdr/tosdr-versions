@@ -8,7 +8,7 @@
     
     [My Account](https://www.prosper.com/myaccount)
     
-    [Messages](https://www.prosper.com/secure/account/common/messages.aspx)
+    [Messages](https://www.prosper.com/account/events/messages%20%20)
     
     [Settings](https://www.prosper.com/settings)
     
@@ -133,8 +133,8 @@ X
 Prosper Privacy Policy & Federal Privacy Notice
 ===============================================
 
-[Important Privacy Choices](#privacy-choices)  
-[Notice to California Residents](#notice-to-ca-residents)
+[Notice to California Residents](#notice-to-ca-residents)  
+[Notice to Oregon Residents](#notice-to-or-residents)
 
 Welcome to Prosper. We believe that consumers deserve the utmost respect when it comes to the privacy of their personal information. This Privacy Policy applies to Prosper Marketplace, Inc. and its wholly owned subsidiary, Prosper Funding LLC (together, “Prosper”, “we,” “us” or “our”).
 
@@ -172,6 +172,8 @@ You may also provide your information to certain third-party financing platforms
 
 If you use the comments section of our blog on [www.prosper.com](http://www.prosper.com/), you should be aware that information you submit is stored there and will be visible to other users of the Prosper websites.
 
+Prosper collects consent to send text messages to customers. If you provide your consent for Prosper to send you text messages, Prosper will not pass this consent to other parties. Prosper does not purchase consent to send text messages to customers.
+
 **Information Collected From Third Parties**
 
 When you check your rate or apply for credit through Prosper, we will collect information from credit bureaus and other third parties to facilitate determinations for credit eligibility, perform analyses, provide you with marketing offers and assess risks related to extending credit to you and any co-applicant and, if you are a personal loan applicant, to help investors determine whether to commit to your personal loan. If you obtain a personal loan or credit card through Prosper, we also collect information throughout the life of your financial obligation through Prosper from credit bureaus and other third parties in order to assess risks associated with your financial obligation, perform analyses, provide information to investors interested in buying or selling your financial obligation, and to provide you with marketing offers. If another company refers you to Prosper or assists you in any way in the application process, we may also collect your information from that company in order to process your application.
@@ -195,9 +197,9 @@ For customers using our mobile apps, the mobile apps may periodically collect, t
 
 **_Tracking Technologies_**
 
-Cookies and Web Beacons. Prosper and our marketing partners and service providers use technologies such as, but not limited to, cookies, beacons, tags, and scripts, to analyze trends, administer the Prosper websites, track users’ movements around the Prosper websites, and gather information about our user base as a whole. We may receive reports on this activity on an individual and aggregated basis.
+Cookies and Web Beacons. Prosper and our marketing partners and service providers use technologies such as, but not limited to, cookies, pixel tags, web beacons, scripts and other similar technologies, that gather information on our website. That information is used for a variety of purposes, such as to analyze trends, administer the Prosper websites, track users’ movements around the Prosper websites, gather information about our user base as a whole, to understand how visitors interact with our websites, or to serve advertisements on our websites or on other websites. We may receive reports on this activity on an individual and aggregated basis.
 
-We use cookies when you interact with Prosper websites to keep track of your personal session, help authenticate your account, and detect fraud.  Cookies are also used to gather statistical data, such as which pages are frequently visited, what is downloaded, and the address of sites visited immediately before or after coming to Prosper websites.  You can control the use of cookies within your web browser.  However, if you reject cookies, your ability to use some features or areas of Prosper websites may be limited.
+We use cookies when you interact with Prosper websites to keep track of your personal session, help authenticate your account, and detect fraud. Cookies are also used to gather statistical data, such as which pages are frequently visited, what is downloaded, and the address of sites visited immediately before or after coming to Prosper websites. You can control the use of cookies by managing your cookie consent preferences when visiting our websites or within your web browser. However, if you reject cookies, your ability to use some features or areas of Prosper websites may be limited.
 
 Usage Data & Site Activity.  Prosper also uses Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5.
 
@@ -230,7 +232,7 @@ If you register as an individual investor, Prosper will use your information to 
 
 **Analysis & Data Optimization**
 
-Prosper uses your information to conduct analyses related to our services and Prosper websites.  We use this information to improve credit models and our services.  We also use this information to improve Prosper websites’ usability and to evaluate the success of particular marketing campaigns and other activities. 
+Prosper uses your information to conduct analyses related to our services and Prosper websites.  We use this information to improve credit models and our services.  We also use this information to improve Prosper websites’ usability and to evaluate the success of particular marketing campaigns and other activities.
 
 **Marketing & Surveys**
 
@@ -259,40 +261,25 @@ Prosper shares your information with third parties as permitted by law, includin
 
 * Loan Purchasers. If your personal or credit card loan originated through our platform is sold, we may provide the purchaser of your loan and their agents with your personal and credit information and loan identifier(s). Personal information is released to (1) personal loan purchasers; (2) qualified financial institutions with adequate protections to safeguard your personal information (“Qualified Institutions”); (3) service providers of Qualified Institutions; (4) Qualified Institutions that participate in structured deals; (5) debt buyers; and (6) auditors of purchasers, their lenders, or regulators.  In some cases, these purchasers may also provide targeted marketing to you.  Information provided to investors in connection with sales of our fractional Borrower Payment Dependent Notes (“Notes”) will not include personal identifying information.  For more information on Notes, please see our [Prospectus](https://www.prosper.com/prospectus).
 
-* Referral Partners. If you were referred to Prosper by another company (a “Referral Partner”) or person, Prosper will share your information as necessary to honor the terms of its agreement with that Referral Partner or person and to process your transaction.  In some cases, Prosper may share your information with a Referral Partner for that Referral Partner’s own business purposes, such as to analyze and improve its business and provide targeted marketing to you.  Your rights with respect to this sharing are discussed in the following section.
+* Referral Partners. If you were referred to Prosper by another company (a “Referral Partner”) or person, Prosper will share your information as necessary to honor the terms of its agreement with that Referral Partner or person and to process your transaction.  In some cases, Prosper may share your information with a Referral Partner for that Referral Partner’s own business purposes, such as to analyze and improve its business and provide marketing. Your rights with respect to this sharing are discussed in the federal Gramm-Leach-Bliley Privacy Notice at the end of this policy.
 
 * Merchants or Service Providers. If you applied for a loan to be used with a merchant or service provider, Prosper may share your information with the merchant or service provider associated with your loan application. 
 
 * Credit Bureaus. Prosper may share your personal information with credit bureaus to meet our credit reporting obligations.
 
-* Affiliates. Prosper affiliates, including entities covered by this policy and other companies related by common ownership or control may share your information with each other, including information related to your creditworthiness, for purposes of general business analysis or to present targeted marketing to you or others.  Your rights with respect to this sharing are discussed in the following section.
+* Affiliates. Prosper affiliates, including entities covered by this policy and other companies related by common ownership or control may share your information with each other, including information related to your creditworthiness, for purposes of general business analysis or to present targeted marketing to you or others.  Your rights with respect to this sharing are discussed in the federal Gramm-Leach-Bliley Privacy Notice at the end of this policy.
 
 * Your Consent. Prosper may share your personal information with third parties at your direction or whenever you consent.
 
 * Legal Requests & Regulatory Requirements. Prosper may share your personal information to comply with, or to allow investors or potential investors to comply with, any applicable law, regulation, legal process, or regulatory or governmental request. Prosper may also share your personal information for the purposes of limiting fraud, or in connection with an audit or the sale of Prosper to a third party.
 * Sharing of Anonymized Data.  Prosper may share aggregated and anonymized data sets with third parties, including, but not limited to, business partners, service providers, loan purchasers, potential loan purchasers, and among Prosper affiliates.  No personally identifiable information will be included in these data sets.
 
-IMPORTANT PRIVACY CHOICES
--------------------------
-
-**_Consent to information sharing with third party companies (Referral Partners)_****:**
-
-**By accepting this privacy policy, you agree that Prosper may immediately begin sharing your information with any third party company that referred you to Prosper so that that the referral company may use your information for their own business purposes, including to market to you.**  For example, if you were referred to Prosper by another company through a website link or telephone transfer, Prosper may share some of your information, such as the existence and terms of your loan, with that company.  You may revoke this consent at any time by following the procedures outlined below.  If you revoke consent, we will not subsequently share your information with these companies except as necessary to complete the transaction you initiated. 
-
-_**Right to restrict information sharing with companies we own or control (affiliates):**_  Prosper may share your information among affiliated companies including, but not limited to, the companies that are covered by this policy.  Federal law gives you the right to limit this sharing where it includes information about your creditworthiness, other than your information related to transactions and experiences with Prosper, or if your information is used for the purpose of marketing to you.  If you would like to opt-out of this type of sharing, please follow the instructions below.  We may begin sharing your information related to your creditworthiness or any information to be used for marketing purposes 30 days from the date that we first provided this notice if you have not opted-out. 
-
-**In order to revoke your consent for information sharing with Referral Partners and/or opt-out of Prosper affiliate information sharing, you may sign into your Prosper Account, select “Settings” from the drop down menu, and disable “Optional Information Sharing” in the section titled “Communication Preferences.” You may also contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) and we will assist you in disabling such information sharing. Please note that your opt-out choices will also apply to your co-borrower.**
-
-* * *
-
-If you would like to exercise your right to opt-out of information sharing by a company affiliated with Prosper but not covered by this policy, you must consult that company’s privacy policy for instructions on how to exercise your right to opt-out of their information sharing
-
 ADDITIONAL FACTS ABOUT YOUR PERSONAL INFORMATION
 ------------------------------------------------
 
 **How you can change your personal information**
 
-If you have applied for a personal loan or registered as an investor, you can access the personal information you have provided to us by logging in at www.prosper.com, and navigating to the “Settings” page of your account.  As a registered investor, you can update your password, email, phone number, or home address at any time.  As a registered personal loan applicant or borrower, you may update your password, email, phone number, bank account information or mailing address at any time, though certain changes prior to loan origination may require you to submit a new loan application.  To change your information, you may also contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection).  We will respond to your request within a reasonable time.
+If you have applied for a personal loan or registered as an investor, you can access the personal information you have provided to us by logging in at [www.prosper.com](https://www.prosper.com/), and navigating to the “Settings” page of your account.  As a registered investor, you can update your password, email, phone number, or home address at any time.  As a registered personal loan applicant or borrower, you may update your password, email, phone number, bank account information or mailing address at any time, though certain changes prior to loan origination may require you to submit a new loan application.  To change your information, you may also contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection).  We will respond to your request within a reasonable time.
 
 Credit card applicants: You can change your contact information by calling our customer service at 1-800-851-0630.
 
@@ -330,7 +317,7 @@ When you are finished using Prosper websites, you should log out completely, the
 
 **Changes to this Privacy Policy**
 
-Any updates to the Privacy Policy become effective when posted on Prosper websites.  If we make any material changes, we will notify you by email or by providing the revised Privacy Policy in your account on www.prosper.com if you have one. Your continued use of our services following the update means that you accept Prosper’s updated Privacy Policy.
+Any updates to the Privacy Policy become effective when posted on Prosper websites.  If we make any material changes, we will notify you by email or by providing the revised Privacy Policy in your account on [www.prosper.com](https://www.prosper.com/) if you have one. Your continued use of our services following the update means that you accept Prosper’s updated Privacy Policy.
 
 For additional information, or if you have any questions regarding this policy or the privacy practices at Prosper, please submit your questions or comments directly to [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection).
 
@@ -345,32 +332,41 @@ San Francisco, CA 94105
 
 1-855-755-1919
 
-Effective date: February 28, 2024
+Effective date: June 10, 2024
 
 NOTICE AT COLLECTION & PRIVACY NOTICE (CALIFORNIA RESIDENTS)
 ------------------------------------------------------------
 
-Effective January 1, 2020, the California Consumer Privacy Act (“CCPA”) provides specific rights to California residents related to their “personal information,” as defined under the CCPA. Please note that the CCPA, and this Notice, does not apply to information covered by other federal and state privacy laws, such as the federal Gramm-Leach-Bliley Act (“GLBA”), the California Financial Information Privacy Act (“CFIPA”), the Fair Credit Reporting Act, and certain other laws.  Virtually all of the information that Prosper collects about its users is exempt from the CCPA, as it is collected, processed, sold or disclosed pursuant to the GLBA. The information that Prosper collects about its users pursuant to the GLBA is described in the “Information Prosper Collects About You” section of this Privacy Policy.  This section only applies to California residents.
+Effective January 1, 2020, the California Consumer Privacy Act (“CCPA”) provides specific rights to California residents related to their “personal information,” as defined under the CCPA. Please note that the CCPA, and this Notice, do not apply to information covered by other federal and state privacy laws, such as the federal Gramm-Leach-Bliley Act (“GLBA”), the California Financial Information Privacy Act (“CFIPA”), the Fair Credit Reporting Act, and certain other laws. This Notice applies solely to California residents and this Notice describes how Prosper collects, uses, and discloses information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you or your household (“personal information”).
 
-**Definitions**
+**Categories and Sources of Personal Information**
 
-For purposes of this Notice, “Personal Information” means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a natural person that Prosper collects about you, a resident of California. “Personal Information” does not include publicly available information, deidentified or aggregated consumer information, or other information excluded from the CCPA’s scope, such as information covered by other sector-specific privacy laws as described above.
+_Categories of Personal Information that Prosper may collect about you_: Prosper may collect and process the following categories of personal information from you: when you apply for credit or register as a borrower or investor; when you respond to surveys or questionnaires; in connection with servicing your account; in order to meet our legal obligations; to verify your identity, facilitate determinations for credit eligibility, protect against fraud, and complete your transaction:
 
-**Collection and Use of Personal Information**
+* **Identifiers**, including real name, telephone number, postal address, unique personal identifier, online identifiers, e-mail address, internet protocol (“IP”) address, driver’s license, social security number, state identification card, passport number, signature, bank account numbers, and other similar identifiers.
+* **Personal Information** Categories listed in the California Customer Records statute (Cal. Civ. Code §1798.80(e)), including certain information already listed in “Identifiers” above.
+* **Characteristics of protected classification**, including date of birth/age, gender, military or veteran status, marital status, nationality, citizenship.
+* **Sensitive Personal Information**, including social security number, driver’s license, state identification card, passport number, race, age, national origin, disability, gender, and veteran status.
+* **Professional or Employment Information**, including current or past job history and salary.
+* **Education information**, including details of your education.
+* **Commercial information**, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+* **Audio and Visual Information**, including audio, electronic, or similar information we capture through your communications with us, e.g., voice recordings of telephone conversations, emails and instant messaging.
+* **Inferences**, including any derivation of information, data, assumptions, or conclusions drawn from certain of the above categories used to create a profile reflecting the individual’s preferences, characteristics, behavior, or other similar trends.
 
-_Information about your interactions with our website and the mobile application:_ For all users, Prosper collects information about your interactions with our homepage, landing pages, other Prosper websites that you may visit prior to beginning the registration and/or application process, and information about the device you use to access the website and the mobile application. This includes:
+This information is collected and processed by Prosper, our third-party service providers and certain third-party financing platforms who will process your application for credit and may provide your information to us. We collect and process this information in order to (i) process your application for credit, (ii) service your account, (iii) meet our legal obligations, (iv) verify your identity, (v) facilitate determinations for credit eligibility, (vi) protect against fraud, (vii) complete your transaction, (viii) conduct internal research and analysis, (ix) improve our websites and services, (x) to present you with promotions, advertisements and other marketing communications, and offers, and (xi) in some cases communicate responses back to you.
 
-* Identifiers, such as IP address, mobile device identifier (IDFA or AAID), operating system, and browser type.
-* Internet or electronic network activity, such as your click movements on the webpage and the mobile application, referral source, time and length of visit, button clicks and/or page views.
-* Geolocation data.
+_Information about your interactions with our website and the mobile application_: For all users, Prosper collects information about your interactions with our homepage, landing pages, other Prosper websites that you may visit prior to beginning the registration and/or application process, and information about the device you use to access the website and the mobile application. This includes:
+
+* **Identifiers**, such as IP address, mobile device identifier (IDFA or AAID), operating system, and browser type.
+* **Internet or electronic network activity**, including your click movements on the webpage and the mobile application, referral source, time and length of visit, button clicks and/or page views, browsing history and information regarding your interaction with a website, application or advertisement.
+* **Geolocation data**.
 
 This information is collected by Prosper and our third party service providers, who work with us to track your interactions on these pages. We collect and process this information in order to (i) help ensure the security and integrity of our websites; (ii) identify and fix errors that affect the functionality of our websites; (iii) conduct internal research and analysis; (iv) determine eligibility for products and services; and (v) improve our websites and services.
 
-_Information that you provide in surveys, questionnaires, contests, and/or requests for feedback:_ For users that complete surveys, questionnaires, contests and/or requests for feedback regarding their experience, we collect the information that you provide to us. We also may collect identifiers, including information about how you accessed the survey, such as IP address, operating system, browser type, or device type. This information is collected by Prosper and our third party service providers, who may help facilitate these information requests.
+_Information from third parties for marketing:_ For certain consumers, we may work with marketing service providers to obtain your personal information. We collect and process the following personal information:
 
-We collect and process this information in order to (i) conduct internal research and analysis, (ii) improve our websites and services, and (iii) in some cases communicate responses back to you.
-
-_Information from third parties for marketing:_ For certain consumers, we may work with marketing service providers to obtain your personal information. We collect identifiers, such as your name, address, and/or email address.
+* **Identifiers**, including your name, address, and email address.
+* **Internet or electronic network activity**, including your browsing history and information regarding your interaction with a website, application, or advertisement.
 
 We collect and process this information for marketing purposes in order to present you with offers, promotions, advertisements and other marketing communications.
 
@@ -382,7 +378,7 @@ We collect and process this information in order to communicate with companies w
 
 **How Prosper Discloses Personal Information**
 
-Prosper has not and does not sell your personal information. or sensitive personal information. We also do not sell the personal information of consumers we actually know are less than 16 years of age. Prosper may disclose your personal information with the following categories of service providers and third parties to help us conduct the business purposes listed above:
+Prosper may disclose your personal information with the following categories of service providers and third parties to help us conduct the business purposes listed above:
 
 * Our other employees. Prosper may disclose your personal information with our other employees consistent with the purposes identified above.
 * Our affiliates. We may disclose your personal information with our affiliates consistent with the purposes identified above.
@@ -395,6 +391,17 @@ These service providers and third parties are authorized to use your personal in
 **Prosper’s Retention Policy**
 
 It is our policy to not retain personal information for longer than is reasonably necessary to achieve the purpose for which it was collected. The criteria we use to determine the specific retention period include: the type of information collected, our business purposes for retaining the information, and the various legal and regulatory requirements.
+
+**Sharing or Selling Your Personal Information**
+
+Prosper may sell or share, as these terms are defined by the CCPA, your personal information with third parties for marketing purposes. The categories of personal information that we may sell or share are:
+
+* **Identifiers**, including IP addresses, cookie identifiers, email address and other pseudonymous identifiers.
+* **Internet or other electronic network activity information**.
+
+We do not sell or share the personal information of consumers we actually know are less than 16 years of age.
+
+You may have the right to opt-out of this sharing. For more information on your personal information sell/share rights see [Do Not Sell / Share My Personal Information](https://privacyportal.onetrust.com/webform/65d4fda4-8a68-43df-ab7b-053bd3e6c780/b121e2c0-bd0e-4d7c-b5ed-ba82f277121f).
 
 **Your Rights Under the CCPA**
 
@@ -416,11 +423,9 @@ California residents have the following rights under the CCPA:
     * The specific pieces of personal information we collected about you.
 2. **Right to Delete.** Subject to certain limitations, you can ask us to delete your personal information. Once we receive and confirm your verifiable consumer request (see “How You Can Exercise Your Rights Under CCPA”), we will delete your personal information from our records, and direct our service providers to do the same, unless an exception applies.
 3. **Right to Correct.** You can ask us to correct inaccurate personal information that we have about you. Once we receive and confirm your verifiable consumer request (see “How You Can Exercise Your Rights Under CCPA”), we will use commercially reasonable efforts to correct inaccurate personal information and direct our service providers or contractors to do the same.
-4. **Right to Opt-Out of Sale or Sharing of Personal Information****.** You have the right to direct us to not “sell” or “share” your personal information (the “right to opt-out”).  Prosper does not “sell” or “share” personal information of consumers, as those terms are defined by the CCPA.
-5. **Right to Opt-Out of Targeted Advertising.** You can ask us to stop using your personal information for targeted advertising.
-6. **The Right to Limit the Use and Disclosure of Sensitive Personal Information.**  If we collect Sensitive Personal Information and use such information for reasons that are not aligned with the purposes for which we obtained it, then you have the right to limit the use and disclosure of such Sensitive Personal Information.  However, we can use this information as permitted by law, to follow the law, and to give you the best service.
-
-7. **The right to Non-Discrimination or Non-Retaliation,** which means we cannot discriminate or retaliate against you if you exercise your rights under the CCPA.
+4. **Right to Opt-Out of Targeted Advertising**. You have the right to direct us to not “sell” or “share” your personal information (the “right to opt-out”).  We use technologies such as cookies, pixel tags, web beacons, and other similar technologies, that gather information on our website. That information is used for a variety of purposes, such as to understand how visitors interact with our websites, or to serve advertisements on our websites or on other websites. The use of technologies, such as cookies, constitutes a ‘share’ or ‘sale’ of personal information under the CCPA. You can stop the use of certain third-party tracking technologies that are not considered our service providers by managing your cookie consent preferences when visiting our websites or by clicking on “Do Not Sell/Share My Information” at the bottom of www.prosper.com. Note that due to technological limitations, if you visit our website from a different computer or device, or clear cookies on your browser that store your preferences, you will need to return to this screen to opt-out and/or rebroadcast the signal.
+5. **The Right to Limit the Use and Disclosure of Sensitive Personal Information.**  If we collect Sensitive Personal Information and use such information for reasons that are not aligned with the purposes for which we obtained it, then you have the right to limit the use and disclosure of such Sensitive Personal Information.  However, we can use this information as permitted by law, to follow the law, and to give you the best service.
+6. **The right to Non-Discrimination or Non-Retaliation,** which means we cannot discriminate or retaliate against you if you exercise your rights under the CCPA.
 
 We may, however, offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Such financial incentives may include gift cards, credits, and other monetary offerings; additional details related to the material terms of these financial incentives will be provided to you at the time the incentive is presented to you. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
 
@@ -428,7 +433,7 @@ We may, however, offer you certain financial incentives permitted by the CCPA th
 
 To exercise one or more of your rights, you or your authorized agent may submit a verifiable consumer request in one of the following ways:
 
-* If you are a personal loan customer and/or investor, you may exercise these rights by signing into your Prosper account, selecting “Settings” from the drop-down menu and submitting your requests under “California Consumer Privacy Act”.
+* If you are a personal loan customer, home equity applicant and/or investor, you may exercise these rights by signing into your Prosper account, selecting “Settings” from the drop-down menu and submitting your requests under “California Consumer Privacy Act”.
 * If you are a Prosper Card account holder, you may contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of your request.
 * If you do not have a Prosper account, you may contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of your request.
 * If you are or were an employee or other representative for a company that did business with Prosper, please identify the company for which you are or were a representative.
@@ -448,7 +453,7 @@ We will not disclose information to you or delete information if we cannot verif
 
 **How California Residents Can Designate an Authorized Representative**
 
-Only you as a California resident, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable request to know/request for access, request for deletion, or request to opt-out.
+Only you as a California resident, or a person that you authorize to act on your behalf, may make a verifiable request to know/request for access, request for deletion, or request to opt-out.
 
 To appoint an authorized representative to submit requests on your behalf, please provide us with written instructions stating the identity of the authorized representative and your authorization to have the representative act on your behalf.  Please send the written instructions appointing your authorized representative to [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection). We may also request additional information from you as needed to authenticate your request. If an authorized representative is acting on your behalf to make a request to know/request for access, request for deletion, or request to opt-out, your representative may also contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of the request. Please note that we may request additional information from your representative as needed to authenticate your request.
 
@@ -456,9 +461,125 @@ To appoint an authorized representative to submit requests on your behalf, pleas
 
 If you have any questions or concerns regarding this Notice, please contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) or at (855) 755-1919.
 
-_Last updated February 28, 2024_
+_Last updated June 10, 2024_
 
-**Federal Privacy Notice** Rev. 02/2024
+NOTICE AT COLLECTION & PRIVACY NOTICE (OREGON RESIDENTS)
+--------------------------------------------------------
+
+Effective July 1, 2024, the Oregon Consumer Privacy Act (“OCPA”) provides specific rights to Oregon residents related to their “personal data,” as defined under the OCPA. Please note that the OCPA, and this Notice, do not apply to information covered by other federal and state privacy laws, such as the federal Gramm-Leach-Bliley Act (“GLBA”), the Fair Credit Reporting Act, and certain other laws.  This Notice applies solely to Oregon residents and this Notice describes how Prosper collects, uses, and discloses data that identifies, is linked to or is reasonably linkable to you or your household (“personal data” or “personal information”).
+
+The information on this page complements the notices and disclosures regarding your rights under federal laws and regulations (e.g., the Gramm-Leach-Bliley Act). For more information, please visit https://www.prosper.com/legal/privacy-policy.
+
+**Categories of Personal Data Collected by Prosper and Shared with Third Parties**
+
+_Categories of Personal Information that Prosper may collect about you_: Prosper may collect and process the following categories of personal information from you: when you apply for credit or register as a borrower or investor; when you respond to surveys or questionnaires; in connection with servicing your account; in order to meet our legal obligations; to verify your identity, facilitate determinations for credit eligibility, protect against fraud, and complete your transaction:
+
+* **Identifiers**, including real name, telephone number, postal address, unique personal identifier, online identifiers, e-mail address, internet protocol (“IP”) address, driver’s license, social security number, state identification card, passport number, signature, bank account numbers, and other similar identifiers.
+* **Characteristics of protected classification**, including date of birth/age, gender, military or veteran status, marital status, nationality, citizenship.
+* **Sensitive Personal Information**, including social security number, driver’s license, state identification card, passport number, race, age, national origin, disability, gender, and veteran status.
+* **Professional or Employment Information**, including current or past job history and salary.
+* **Education information**, including details of your education.
+* **Commercial information**, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+* **Audio and Visual Information**, including audio, electronic, or similar information we capture through your communications with us, e.g., voice recordings of telephone conversations, emails and instant messaging.
+* **Inferences**, including any derivation of information, data, assumptions, or conclusions drawn from certain of the above categories used to create a profile reflecting the individual’s preferences, characteristics, behavior, or other similar trends.
+
+This data is collected and processed by Prosper, our third-party service providers and certain third-party financing platforms who will process your application for credit and may provide your information to us. We collect and process this data for the following purposes: to (i) process your application for credit, (ii) service your account, (iii) meet our legal obligations, (iv) verify your identity, (v) facilitate determinations for credit eligibility, (vi) protect against fraud, (vii) complete your transaction, (viii) conduct internal research and analysis, (ix) improve our websites and services, (x) to present you with promotions, advertisements and other marketing communications, and offers and (xi) in some cases communicate responses back to you.
+
+_Information about your interactions with our website and the mobile application_: For all users, Prosper collects information about your interactions with our homepage, landing pages, other Prosper websites that you may visit prior to beginning the registration and/or application process, and information about the device you use to access the website and the mobile application. This includes:
+
+* **Identifiers**, such as IP address, mobile device identifier (IDFA or AAID), operating system, and browser type.
+* **Internet or electronic network activity**, including your click movements on the webpage and the mobile application, referral source, time and length of visit, button clicks and/or page views, browsing history and information regarding your interaction with a website, application or advertisement.
+* **Geolocation data**.
+
+This information is collected by Prosper and our third party service providers, who work with us to track your interactions on these pages. We collect and process this information for the following purposes: to (i) help ensure the security and integrity of our websites; (ii) identify and fix errors that affect the functionality of our websites; (iii) conduct internal research and analysis; (iv) determine eligibility for products and services; and (v) improve our websites and services.
+
+_Information from third parties for marketing_: For certain consumers, we may work with marketing service providers to obtain your personal information. We collect and process the following personal information:
+
+* **Identifiers**, including your name, address, and email address.
+* **Internet or electronic network activity**, including your browsing history and information regarding your interaction with a website, application, or advertisement.
+
+We collect and process this information for marketing purposes in order to present you with offers, promotions, advertisements and other marketing communications.
+
+_Information from Business-to-Business Interactions_: We collect identifiers, such as the names and contact information, for the individual points of contact from our business partners, and from companies with which we consider conducting business.
+
+We collect and process this information for the purpose of communicating with companies with which we are conducting business or are considering conducting business.
+
+**How Prosper Discloses Personal Data to Third Parties**
+
+Prosper may disclose your personal data with the following categories of service providers and third parties to help us conduct the business purposes listed above:
+
+* Our other employees. Prosper may disclose your personal information with our other employees consistent with the purposes identified above.
+* Our affiliates. We may disclose your personal information with our affiliates consistent with the purposes identified above.
+* Service providers. We may disclose your personal information with our service providers to provide services on our behalf, such as marketing service providers and service providers that facilitate surveys, questionnaires, or contests on Prosper’s behalf. These third parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use the information for any other purpose.
+* Third party marketing partners. We may disclose your personal information with third parties for cross-context behavioral advertising.
+* Affiliate and business transfer. If Prosper is involved in a merger, acquisition or asset sale, your personal information may be transferred.
+* Legal compliance and harm prevention. Prosper may disclose your personal information as we believe necessary (i) to comply with applicable law, rules and regulations; (ii) to enforce our contractual rights; (iii) to investigate possible wrongdoing in connection with our company; (iv) to protect and defend the rights, privacy, safety and property of Prosper, you or others; and (v) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities.
+
+These service providers and third parties are authorized to use your personal information only as necessary to provide these services to Prosper or as required by applicable law.
+
+**Processing Your Personal Data for Targeted Advertising**
+
+Prosper may sell or share, as these terms are defined by the OCPA, your personal data with third parties for marketing purposes. The categories of personal information that we may sell or share are:
+
+* **Identifiers**, including IP addresses, cookie identifiers, email address and other pseudonymous identifiers.
+* **Internet or other electronic network activity information**.
+
+We do not sell or share the personal information of consumers we actually know are less than 16 years of age.
+
+You may have the right to opt-out of this sharing. For more information on your personal information sell/share rights and the opt-out procedure visit Do Not Sell / Share My Personal Information.
+
+**Your Rights Under the OCPA**
+
+Oregon residents have the following rights under the OCPA:
+
+1. **Right to Know/Access**. You have the right to ask us to confirm whether we are processing or have processed your personal data and the categories of personal data that we are processing or have processed. Specifically, you can request that we provide a copy of the categories and specific pieces of personal data that we have processed or are processing.
+2. **Right to Delete**. Subject to certain limitations, you can ask us to delete your personal information. Once we receive and confirm your verifiable consumer request (see “How You Can Exercise Your Rights Under OCPA”), we will delete your personal information from our records, and direct our service providers to do the same, unless an exception applies.
+3. **Right to Correct**. You can ask us to correct inaccurate personal information that we have about you. Once we receive and confirm your verifiable consumer request (see “How You Can Exercise Your Rights Under OCPA”), we will use commercially reasonable efforts to correct inaccurate personal information and direct our service providers or contractors to do the same.
+4. **Right to Opt-Out of Processing of Personal Data for Purposes of Targeted Advertising, Selling, or Profiling**. You have the right to direct us to not process your personal data for the purposes of targeted advertising, selling your personal data, or profiling. We do not use your personal data to profile you in furtherance of decisions that produce legal effects or effects of similar significance.
+    
+    We use technologies such as cookies, pixel tags, web beacons, and other similar technologies, that gather information on our website. That information is used for a variety of purposes, such as to understand how visitors interact with our websites, or to serve advertisements on our websites or on other websites. The use of technologies, such as cookies, constitutes “targeted advertising” under the OCPA. You can stop the use of certain third-party tracking technologies that are not considered our service providers by managing your cookie consent preferences when visiting our websites or by clicking on “Do Not Sell/Share My Information” at the bottom of www.prosper.com. Note that due to technological limitations, if you visit our website from a different computer or device, or clear cookies on your browser that store your preferences, you will need to return to this screen to opt-out and/or rebroadcast the signal.
+    
+5. **The right to Non-Discrimination**, which means we cannot discriminate against you if you exercise your rights under the OCPA by means such as denying goods or services, charging different prices or rates for goods or services or providing a different level of quality or selection of goods or services to the consumer.
+
+**How You Can Exercise Your Rights Under OCPA**
+
+To exercise one or more of your rights, you or your authorized agent may submit a verifiable consumer request in one of the following ways:
+
+* If you are a personal loan customer, home equity applicant and/or investor, you may exercise these rights by signing into your Prosper account, selecting “Settings” from the drop-down menu and submitting your requests under “Oregon Consumer Privacy Act”.
+* If you are a Prosper Card account holder, you may contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of your request.
+* If you do not have a Prosper account, you may contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of your request.
+* If you are or were an employee or other representative for a company that did business with Prosper, please identify the company for which you are or were a representative.
+
+Please note that if you contact us with your request via email we may request additional information from you or your authorized representative as needed to authenticate your request.
+
+The verifiable consumer request must do the following:
+
+* Provide sufficient information to allow us to reasonably verify that you are the person about whom we collected personal information or that you are an authorized representative.
+* Describe your request with sufficient detail so that we can properly understand, evaluate, and respond to it.
+
+Upon receiving a request to know/request for access or a request for deletion, we will confirm receipt within 10 days.  If we can verify your request, we will make our best effort to respond within forty-five (45) days of our receipt of your request. If we require more time (up to 45 additional days), we will inform you of the reason and extension period in writing. Additionally, in our response, we will specify the manner in which we have deleted your personal information, in accordance with the OCPA.
+
+We will not disclose information to you or delete information if we cannot verify your identity.
+
+**Your Right to Appeal Our Decision**
+
+You have the right to appeal our decision to refuse to take action on your request. You may exercise your right to appeal by contacting us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of your appeal request. You may exercise your right to appeal up to 30 days after receiving our response to your initial request. Upon receiving your appeal request, we will respond within forty-five (45) days of our receipt of your request.
+
+**How Oregon Residents Can Designate an Authorized Representative**
+
+Only you as an Oregon resident, or a person that you authorize to act on your behalf, may make a verifiable request to know/request for access, request for deletion, or request to opt-out.
+
+To appoint an authorized representative to submit requests on your behalf, please provide us with written instructions stating the identity of the authorized representative and your authorization to have the representative act on your behalf.  Please send the written instructions appointing your authorized representative to [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection). We may also request additional information from you as needed to authenticate your request. If an authorized representative is acting on your behalf to make a request to know/request for access, request for deletion, or request to opt-out, your representative may also contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) with a brief description of the request. Please note that we may request additional information from your representative as needed to authenticate your request.
+
+Your authorized agent may also exercise your right to opt-out of targeted advertising and stop the use of certain third-party tracking technologies that are not considered our service providers by managing your cookie consent preferences when visiting our websites or by clicking on “Do Not Sell/Share My Information” at the bottom of [www.prosper.com](https://www.prosper.com/).
+
+**Contact Us**
+
+If you have any questions or concerns regarding this Notice, please contact us at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) or at (855) 755-1919.
+
+Last updated June 10, 2024
+
+**Federal Privacy Notice** Rev. 05/2024
 
 ### FACTS
 
@@ -594,19 +715,19 @@ Your choices will apply to everyone on your account.
 
 **Affiliates**
 
-Companies related by common ownership or control. They can be financial and nonfinancial companies:  
+Companies related by common ownership or control. They can be financial and nonfinancial companies:
 
 * _Our affiliates include companies with a Prosper name, such as Prosper Assets Holding LLC; and financial companies such as BillGuard, Inc_
 
 **Nonaffiliates**
 
-Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
 * _Nonaffiliates we share with can include financial services companies, marketing companies, and other service providers._
 
 **Joint marketing**
 
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you  
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you
 
 * _Prosper doesn’t jointly market._
 
@@ -614,9 +735,11 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 **Telephone Communications:** Prosper and its authorized agents, service providers, Lending Partners and partners may monitor and/or record all telephone communications in accordance with applicable law.
 
-**Vermont Residents:** We will not disclose information about your creditworthiness to our affiliates and will not disclose your personal information, financial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authorize us to make those disclosures.
+**Vermont Residents:** We will not disclose information about your creditworthiness to our affiliates and will not disclose your personal information, financial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authorize us to make those disclosures. Additional information concerning our privacy policies can be found at [https://www.prosper.com/legal/privacy-policy](https://www.prosper.com/legal/privacy-policy) or call 1-855-755-1919.
 
 **Nevada Residents:** We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by calling 855-755-1919 or emailing [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection). Nevada law also requires us to provide you with the following to obtain additional information: Prosper Marketplace, Inc., 221 Main Street, Suite 300, San Francisco, CA 94105; Phone: 1-855-755-1919; E-mail: [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection); and Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Street, Suite 3900, Las Vegas, NV 89101; Phone: 702.486.3132; Email: [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection).
+
+**North Dakota Residents**: We will not share information we collect about you with non-affiliated third parties, except as permitted by law, such as to process your transactions or to maintain your account.
 
 **Texas Residents**: For questions or complaints about this loan, contact Prosper Marketplace Inc. at 855-755-1919 or [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection). The lender is licensed and examined under Texas law by the Office of Consumer Credit Commissioner (OCCC), a state agency. If a complaint or question cannot be resolved by contacting the lender, consumers can contact the OCCC to file a complaint or ask a general credit-related question. OCCC address: 2601 N. Lamar Blvd., Austin, Texas 78705. Phone: (800) 538-1579. Fax: (512) 936-7610. Website: [occc.texas.gov](https://occc.texas.gov/). E-mail: [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection).
 
@@ -675,6 +798,10 @@ Notes offered by Prospectus. Notes investors receive are dependent for payment o
 [DEVELOPERS](https://developers.prosper.com/)
 
 [Privacy Policy](https://www.prosper.com/legal/privacy-policy)
+
+[Do Not Sell My Personal Information](https://privacyportal.onetrust.com/webform/65d4fda4-8a68-43df-ab7b-053bd3e6c780/b121e2c0-bd0e-4d7c-b5ed-ba82f277121f)
+
+Cookie Settings
 
 [Facebook](https://www.facebook.com/prosperloans) [Twitter](https://twitter.com/prosperloans) [Linkedin](http://www.linkedin.com/company/prosper-marketplace) [Instagram](https://www.instagram.com/letsgoprosper/)
 
