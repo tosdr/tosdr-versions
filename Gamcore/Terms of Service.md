@@ -225,9 +225,9 @@ Terms and Conditions
   
 [Adults Forum](https://forum.69games.xxx/) or [Specific Gamcore forum](https://forum.69games.xxx/gamcore/)
 
-> [View this post on Instagram](https://www.instagram.com/p/C6D99WCIoAx/?utm_source=ig_embed&utm_campaign=loading)
+> [View this post on Instagram](https://www.instagram.com/p/C65-G6BIXR6/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> [A post shared by Screenshots from Gamcore (@gamcore.screenshots)](https://www.instagram.com/p/C6D99WCIoAx/?utm_source=ig_embed&utm_campaign=loading)
+> [A post shared by Screenshots from Gamcore (@gamcore.screenshots)](https://www.instagram.com/p/C65-G6BIXR6/?utm_source=ig_embed&utm_campaign=loading)
 
 Sponsored
 
