@@ -559,13 +559,13 @@ Herenmode
 
 ### De opties
 
-Fashionupdates
-
 Itemnotificaties
 
 Aanbevelingen
 
 Jouw merken en creators
+
+Fashionupdates
 
 Aanbiedingen en sales
 
