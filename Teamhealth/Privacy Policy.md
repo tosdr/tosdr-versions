@@ -23,7 +23,7 @@ Search for:
         * [Acute Orthopedic Surgery](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/acute-orthopedic-surgery/)
         * [Acute General Surgery](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/acute-care-general-surgery/)
         * [Post-Acute](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/post-acute-care)
-        * [Behavioral Health](#)
+        * [Behavioral Health](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/acute-behavioral-health/)
             * [Acute Behavioral Health](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/acute-behavioral-health)
             * [Post-Acute Behavioral Health](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/behavioral-health)
         * [Urgent Care](https://www.teamhealth.com/what-we-do/hospital-based-and-post-acute-clinical-practice-management/urgent-care)
