@@ -24,7 +24,6 @@
     * [Meet The Doctors](https://www.granddentallockport.com/meet-the-dentists.html "Meet Our Dentists")
         * [Dr. Brandon Bice](https://www.granddentallockport.com/dr-brandon-bice.html "Meet Dr. Bice")
         * [Dr. David Ingallinera](https://www.granddentallockport.com/dr-david-ingallinera.html "Dr. David Ingallinera")
-        * [Dr. Komail Abbas](https://www.granddentallockport.com/dr-komail-abbas.html "Dr. Komail Abbas")
         * [Dr. Kaiyun "Kevin" Chen](https://www.granddentallockport.com/dr-kevin-chen.html "Meet Dr. Chen")
         * [Dr. John Micaletti](https://www.granddentallockport.com/dr-john-micaletti.html "Meet Dr. Micaletti")
     * [Meet The Team](https://www.granddentallockport.com/meet-the-team.html "Meet Our Dental Team")
