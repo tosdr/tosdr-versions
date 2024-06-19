@@ -1,175 +1,102 @@
-[Ga naar zoeken](#siteSearch) [Ga naar hoofdinhoud](#mainContent)
+[Ga naar zoeken](#siteSearch)[Ga naar hoofdinhoud](#mainContent)
 
 [lekker winkelen zonder zorgen
 
 * **Gratis** verzending vanaf 20,-
 * Bezorging dezelfde dag, 's avonds of in het weekend\*
-* **Gratis** retourneren](https://www.bol.com/nl/nl/m/lekker-winkelen-zonder-zorgen/)[**Select** Ontdek nu de 4 voordelen](https://www.bol.com/nl/nl/select)
+* **Gratis** retourneren](https://www.bol.com/nl/nl/sf/winkelen-zonder-zorgen)[**Select**Ontdek nu de 4 voordelen](https://www.bol.com/nl/nl/select)
 
 [](https://www.bol.com/nl/nl/)
 
-Zoeken 
+[Inloggen](https://www.bol.com/nl/account/login.html)
 
- Welkom
+[](https://www.bol.com/nl/nl/lijstjes/overzicht-lijsten/)
 
-Welkom
+[](https://www.bol.com/nl/nl/basket/)
 
-* [Accountoverzicht](https://www.bol.com/nl/rnwy/account/overzicht)
-* [Bestellingen](https://www.bol.com/nl/rnwy/account/bestellingen/overzicht)
-* [Facturen betalen](https://www.bol.com/nl/rnwy/account/facturen)
-* [Retourneren](https://www.bol.com/nl/account/retourneren/overzicht)
-* [Chat-geschiedenis](https://www.bol.com/nl/account/chat/overzicht)
-* [Gegevens & Voorkeuren](https://www.bol.com/nl/rnwy/account/voorkeuren)
-* [Cadeaubonnen](https://www.bol.com/nl/account/cadeaubonnen)
-* [Mijn Select & Kobo Plus](https://www.bol.com/nl/account/abonnement.html)
-* [Digitale producten](https://www.bol.com/nl/account/bookshelf.html)
-* [Verkopen](https://partner.bol.com/sdd)
-* [Inloggen](https://www.bol.com/nl/rnwy/account/overzicht)
-
-Account menu [Inloggen](https://www.bol.com/nl/rnwy/account/overzicht) [Lijstjes](https://www.bol.com/nl/nl/lijstjes/overzicht-lijsten/) [Winkelwagen 0](https://www.bol.com/nl/nl/basket/)
-
-NL[](https://www.bol.com/nl/rnwy/country-language)
-
-Categorieën
-
-* **Categorieën**
-*  [![Boeken](https://media.s-bol.com/Jl2gQN1Z61Ml/ANn2YEz/160x160.jpg) Boeken](https://www.bol.com/nl/nl/menu/categories/subMenu/1)
+* Categorieën
     
-*  [![Muziek, Film & Games](https://media.s-bol.com/Y0nA5gn9qXmA/K1O2Vln/160x160.jpg) Muziek, Film & Games](https://www.bol.com/nl/nl/menu/categories/subMenu/2)
+    [Boeken](https://www.bol.com/nl/nl/menu/categories/subMenu/1)[Muziek, Film & Games](https://www.bol.com/nl/nl/menu/categories/subMenu/2)[Computer & Elektronica](https://www.bol.com/nl/nl/menu/categories/subMenu/3)[Speelgoed, Hobby & Feest](https://www.bol.com/nl/nl/menu/categories/subMenu/4)[Zwanger, Baby & Peuter](https://www.bol.com/nl/nl/menu/categories/subMenu/5)[Mooi & Gezond](https://www.bol.com/nl/nl/menu/categories/subMenu/6)[Kleding, Schoenen & Accessoires](https://www.bol.com/nl/nl/menu/categories/subMenu/7)[Sport, Outdoor & Reizen](https://www.bol.com/nl/nl/menu/categories/subMenu/8)[Kantoor & School](https://www.bol.com/nl/nl/menu/categories/subMenu/12)[Eten & Drinken](https://www.bol.com/nl/nl/menu/categories/subMenu/10)[Wonen, Koken & Huishouden](https://www.bol.com/nl/nl/menu/categories/subMenu/11)[Klussen, Tuin & Dier](https://www.bol.com/nl/nl/menu/categories/subMenu/9)[Auto, Motor & Fiets](https://www.bol.com/nl/nl/menu/categories/subMenu/13)
     
-*  [![Computer & Elektronica](https://media.s-bol.com/Y0nA5XmJXWJM/D1R2VKn/160x160.jpg) Computer & Elektronica](https://www.bol.com/nl/nl/menu/categories/subMenu/3)
+* Cadeaus & Inspiratie
     
-*  [![Speelgoed, Hobby & Feest](https://media.s-bol.com/Jl2gE9mq6NJD/JyZ29ko/160x160.jpg) Speelgoed, Hobby & Feest](https://www.bol.com/nl/nl/menu/categories/subMenu/4)
+    * Cadeaus
+    * [Cadeaupagina](https://www.bol.com/nl/nl/sf/cadeauwinkel-volwassenen/ "Cadeaupagina")
+    * [Kindercadeaus](https://www.bol.com/nl/nl/sf/cadeauwinkel-kinderen/ "Kindercadeaus")
+    * [Cadeaubonnen](https://www.bol.com/nl/nl/m/cadeaubon-bestellen/ "Cadeaubonnen")
     
-*  [![Zwanger, Baby & Peuter](https://media.s-bol.com/g6GjnvQ133r3/wVjAq6w/160x160.jpg) Zwanger, Baby & Peuter](https://www.bol.com/nl/nl/menu/categories/subMenu/5)
+    * Shop de Look
+    * [Huis](https://www.bol.com/nl/nl/sdl/wonen/huis/4 "Huis")
+    * [Damesmode](https://www.bol.com/nl/nl/sdl/mode/dames/1 "Damesmode")
+    * [Herenmode](https://www.bol.com/nl/nl/sdl/mode/heren/2 "Herenmode")
+    * [Kindermode](https://www.bol.com/nl/nl/sdl/mode/kinderen/3 "Kindermode")
+    * [Baby & Peuter](https://www.bol.com/nl/nl/sdl/baby-peuter/42 "Baby & Peuter")
     
-*  [![Mooi & Gezond](https://media.s-bol.com/3OpnYljOmqq4/BNg2YGJ/160x160.jpg) Mooi & Gezond](https://www.bol.com/nl/nl/menu/categories/subMenu/6)
+    * Inspiratie
+    * [Tuininspiratie](https://www.bol.com/nl/nl/sf/tuininspiratie/ "Tuininspiratie")
+    * [Wooninspiratie](https://www.bol.com/nl/nl/sf/wooninspiratie/ "Wooninspiratie")
+    * [Boeken inspiratie](https://www.bol.com/nl/nl/sf/lees/ "Boeken inspiratie")
+    * [Kinderboeken inspiratie](https://www.bol.com/nl/nl/sf/kinderboeken/ "Kinderboeken inspiratie")
+    * [Smart home](https://www.bol.com/nl/nl/m/smarthome/ "Smart home")
+    * [Thuiswerken](https://www.bol.com/nl/nl/inf/wat-heb-je-nodig-voor-je-thuiswerkplek/52649/ "Thuiswerken")
+    * [Energie besparen](https://www.bol.com/nl/nl/sf/energie-besparen/ "Energie besparen")
+    * [Laptops](https://www.bol.com/nl/nl/m/laptops/ "Laptops")
+    * [Puppywinkel](https://www.bol.com/nl/nl/sf/puppywinkel/ "Puppywinkel")
+    * [Kittenwinkel](https://www.bol.com/nl/nl/sf/kittenwinkel/ "Kittenwinkel")
     
-*  [![Kleding, Schoenen & Accessoires](https://media.s-bol.com/7YBK0VMNz1ZB/16w1kRP/160x160.jpg) Kleding, Schoenen & Accessoires](https://www.bol.com/nl/nl/menu/categories/subMenu/7)
+    * Nog meer inspiratie
+    * [Parfum & luxe verzorging](https://www.bol.com/nl/nl/sf/parfum-en-luxe-verzorging/ "Parfum & luxe verzorging")
+    * [Sporten](https://www.bol.com/nl/nl/m/sporten/ "Sporten")
+    * [Gezondheidsadvies](https://www.bol.com/nl/nl/sf/gezondheidsplatform/ "Gezondheidsadvies")
+    * [Zwangerschap](https://www.bol.com/nl/nl/m/zwanger/ "Zwangerschap")
+    * [Nieuwe collectie mode](https://www.bol.com/nl/nl/m/nieuwe-collectie-mode/ "Nieuwe collectie mode")
+    * [Gaming](https://www.bol.com/nl/nl/m/gaming/ "Gaming")
+    * [Koffiewinkel](https://www.bol.com/nl/nl/sf/koffiewinkel/ "Koffiewinkel")
+    * [Energiezuinig witgoed](https://www.bol.com/nl/nl/sf/energiezuinig-witgoed/ "Energiezuinig witgoed")
+    * [Merchandise](https://www.bol.com/nl/nl/sf/merchandise/ "Merchandise")
     
-*  [![Sport, Outdoor & Reizen](https://media.s-bol.com/qDr0AvqBmV2p/E8l2VLk/160x160.jpg) Sport, Outdoor & Reizen](https://www.bol.com/nl/nl/menu/categories/subMenu/8)
-    
-*  [![Kantoor & School](https://media.s-bol.com/qDr0ADLr5rP2/GvZ2VN0/160x160.jpg) Kantoor & School](https://www.bol.com/nl/nl/menu/categories/subMenu/12)
-    
-*  [![Eten & Drinken](https://media.s-bol.com/BQ2J8m1n4Qyk/L7g2Vm4/160x160.jpg) Eten & Drinken](https://www.bol.com/nl/nl/menu/categories/subMenu/10)
-    
-*  [![Wonen, Koken & Huishouden](https://media.s-bol.com/qDr0MxLoyZJ7/zvmEwg8/160x160.jpg) Wonen, Koken & Huishouden](https://www.bol.com/nl/nl/menu/categories/subMenu/11)
-    
-*  [![Klussen, Tuin & Dier](https://media.s-bol.com/gNkjVGPEJ0gl/rQ9Q1B/160x160.jpg) Klussen, Tuin & Dier](https://www.bol.com/nl/nl/menu/categories/subMenu/9)
-    
-*  [![Auto, Motor & Fiets](https://media.s-bol.com/3OpnyxX8yg84/vlgzp6r/160x160.jpg) Auto, Motor & Fiets](https://www.bol.com/nl/nl/menu/categories/subMenu/13)
-    
-
-Cadeaus & Inspiratie
-
-* Naar overzicht
-
-* Cadeaus
-    
-* **Cadeaus**
-* [Cadeaupagina](https://www.bol.com/nl/nl/sf/cadeauwinkel-volwassenen/)
-* [Kindercadeaus](https://www.bol.com/nl/nl/sf/cadeauwinkel-kinderen/)
-* [Cadeaubonnen](https://www.bol.com/nl/nl/m/cadeaubon-bestellen/)
-
-* Shop de Look
-    
-* **Shop de Look**
-* [Huis](https://www.bol.com/nl/nl/sdl/wonen/huis/4)
-* [Damesmode](https://www.bol.com/nl/nl/sdl/mode/dames/1)
-* [Herenmode](https://www.bol.com/nl/nl/sdl/mode/heren/2)
-* [Kindermode](https://www.bol.com/nl/nl/sdl/mode/kinderen/3)
-* Meer categorieën
-
-* Inspiratie
-    
-* **Inspiratie**
-* [Wooninspiratie](https://www.bol.com/nl/nl/sf/wooninspiratie/)
-* [Tuininspiratie](https://www.bol.com/nl/nl/sf/tuininspiratie/)
-* [Boeken inspiratie](https://www.bol.com/nl/nl/sf/lees/)
-* [Kinderboeken inspiratie](https://www.bol.com/nl/nl/sf/kinderboeken/)
-* Meer categorieën
-* [Smart home](https://www.bol.com/nl/nl/m/smarthome/)
-* [Thuiswerken](https://www.bol.com/nl/nl/inf/wat-heb-je-nodig-voor-je-thuiswerkplek/52649/)
-* [Energie besparen](https://www.bol.com/nl/nl/sf/energie-besparen/)
-* [Laptops](https://www.bol.com/nl/nl/m/laptops/)
-* [Puppywinkel](https://www.bol.com/nl/nl/sf/puppywinkel/)
-
-* Nog meer inspiratie
-    
-* **Nog meer inspiratie**
-* [Parfum & luxe verzorging](https://www.bol.com/nl/nl/sf/parfum-en-luxe-verzorging/)
-* [Sporten](https://www.bol.com/nl/nl/m/sporten/)
-* [Gezondheidsadvies](https://www.bol.com/nl/nl/m/gezondheidsplatform/)
-* [Zwangerschap](https://www.bol.com/nl/nl/m/zwanger/)
-* Meer categorieën
-* [Nieuwe collectie mode](https://www.bol.com/nl/nl/m/nieuwe-collectie-mode/)
-* [Gaming](https://www.bol.com/nl/nl/m/gaming/)
-* [NK Allround Gaming 2024](https://www.bol.com/nl/nl/inf/nk-allround-gaming-2024/76204/)
-* [Koffiewinkel](https://www.bol.com/nl/nl/sf/koffiewinkel/)
-* [Energiezuinig witgoed](https://www.bol.com/nl/nl/sf/energiezuinig-witgoed/)
-
-Aanbiedingen
-
-* Naar overzicht
-
 * Aanbiedingen
     
-* **Aanbiedingen**
-* [Alle aanbiedingen](https://www.bol.com/nl/nl/l/aanbiedingen-artikelen/58334/?view=tile)
-* [Topdeals](https://www.bol.com/nl/nl/ra/topdeals/327289)
-* [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/)
-* [Elektronica acties](https://www.bol.com/nl/nl/cmp/elektronica-acties/1887/)
-* [Woondeals](https://www.bol.com/nl/nl/cmp/woondeals/1912/)
-* [Outlet](https://www.bol.com/nl/nl/sf/outlet/)
-* [Klus- en Tuinaanbiedingen](https://www.bol.com/nl/nl/cmp/klusentuinaanbiedingen/1935/)
-* [Retourdeals: tot 15% goedkoper \*](https://www.bol.com/nl/nl/i/-/192305/)
-* [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/m/speelgoed-aanbiedingen/)
-* [Film & Muziek Acties](https://www.bol.com/nl/nl/m/games-film-muziek-acties/)
-* [Exclusieve Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1955/)
-
-* Select-Deals
+    * Aanbiedingen
+    * [Alle aanbiedingen](https://www.bol.com/nl/nl/l/aanbiedingen-artikelen/58334/?view=tile "Alle aanbiedingen")
+    * [Topdeals](https://www.bol.com/nl/nl/ra/topdeals/338694 "Topdeals")
+    * [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/ "Voorraaddeals")
+    * [Elektronica acties](https://www.bol.com/nl/nl/cmp/elektronica-acties/1887/ "Elektronica acties")
+    * [Woondeals](https://www.bol.com/nl/nl/cmp/woondeals/1912/ "Woondeals")
+    * [Outlet](https://www.bol.com/nl/nl/sf/outlet/ "Outlet")
+    * [Klus- en Tuinaanbiedingen](https://www.bol.com/nl/nl/cmp/klusentuinaanbiedingen/1935/ "Klus- en Tuinaanbiedingen")
+    * [Retourdeals: tot 15% goedkoper \*](https://www.bol.com/nl/nl/sf/retourdeals/ "Retourdeals: tot 15% goedkoper *")
+    * [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/m/speelgoed-aanbiedingen/ "Speelgoed aanbiedingen")
+    * [Film & Muziek Acties](https://www.bol.com/nl/nl/m/games-film-muziek-acties/ "Film & Muziek Acties")
+    * [Exclusieve Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1826/ "Exclusieve Select-Deals")
+    * [Gaming deals](https://www.bol.com/nl/nl/cmp/gamingdeals/1906/ "Gaming deals")
     
-* **[Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1955/)**
-* [Select-korting op spellen en breinbrekers](https://www.bol.com/nl/nl/ra/select-korting-op-spellen-en-breinbrekers/318529/)
-* [Hoge Select-korting op koffie](https://www.bol.com/nl/nl/ra/hoge-korting-op-koffie/306636/)
-* [Voordelige Select-Deals op wasmiddelen & wasverzachters](https://www.bol.com/nl/nl/ra/voordelige-select-deals-op-wasmiddelen-wasverzachters/326597/)
-
-* Mid-season sale
+    * [Zomer in je bol](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/ "Zomer in je bol")
+    * [Tot 50% korting\* op zonbescherming](https://www.bol.com/nl/nl/ra/hoge-korting-op-zonbescherming/336009 "Tot 50% korting* op zonbescherming")
+    * [Korting\* op zwembaden & hottubs](https://www.bol.com/nl/nl/ra/korting-op-zwembaden-hottubs/336609 "Korting* op zwembaden & hottubs")
+    * [Hoge korting\* op camera's](https://www.bol.com/nl/nl/ra/hoge-korting-op-camera-s-/331093 "Hoge korting* op camera's")
     
-* **[Mid-season sale](https://www.bol.com/nl/nl/cmp/Midseasonsale/1952/)**
-* [Tot 30% korting\* op damesmode](https://www.bol.com/nl/nl/ra/korting-op-damesmode/326467+47198/)
-* [Tot 30% korting\* op herenmode](https://www.bol.com/nl/nl/ra/korting-op-herenmode/326470+47410/)
-* [Tot 30% korting\* op damesschoenen](https://www.bol.com/nl/nl/ra/tot-30-korting-op-dames-schoenen/321778+37400/)
-
-* Alles voor buiten
+    * [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/ "Voorraaddeals")
+    * [Tot 60% korting\* op wasmiddelen & wasverzachters](https://www.bol.com/nl/nl/ra/korting-op-wasmiddel/326592 " Tot 60% korting* op wasmiddelen & wasverzachters")
+    * [Tot 50% korting\* op toiletpapier en tissues](https://www.bol.com/nl/nl/ra/hoge-korting-op-page-en-kleenex/330621 "Tot 50% korting* op toiletpapier en tissues")
+    * [Tot 25% korting\* op koffie](https://www.bol.com/nl/nl/ra/koffie/340334 "Tot 25% korting* op koffie")
     
-* **[Alles voor buiten](https://www.bol.com/nl/nl/cmp/naarbuitencampagne/1951/)**
-* [Tot 25% korting\* op tuinmeubelen en opbergers](https://www.bol.com/nl/nl/ra/tot-25-korting-op-tuinmeubelen-en-opbergers/314877/)
-* [Korting\* op de mooiste werkkleding en bescherming](https://www.bol.com/nl/nl/ra/korting-op-de-mooiste-werkkleding-en-bescherming/314776/)
-* [Korting\* op tuinverlichting van Philips](https://www.bol.com/nl/nl/ra/korting-op-buitenverlichting-van-philips/316736/)
+    * [EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/ "EK voetbal")
+    * [Hoge korting\* op televisies](https://www.bol.com/nl/nl/ra/hoge-korting-op-televisies/329802 "Hoge korting* op televisies")
+    * [Oranje feest- en verkleedartikelen](https://www.bol.com/nl/nl/ra/klaar-voor-het-ek-met-oranje-feest-en-verkleedartikelen/332343 "Oranje feest- en verkleedartikelen")
+    * [Hoge korting\* op JBL Bar 300 Pro soundbar](https://www.bol.com/nl/nl/p/jbl-bar-300-pro-soundbar-zwart/9300000112512513/ "Hoge korting* op JBL Bar 300 Pro soundbar")
+    
+    \* op de adviesprijs
+    
 
-\* op de adviesprijs
-
-* [Zakelijk](https://www.bol.com/nl/nl/m/zakendoen-met-bolcom/)
+* [Zakelijk](https://www.bol.com/nl/nl/m/zakendoen-met-bolcom)
 * [Cadeaukaart](https://www.bol.com/nl/nl/l/cadeaukaarten/20639/)
-* [Bestelstatus](https://www.bol.com/nl/rnwy/account/bestellingen/overzicht)
-* [Klantenservice](https://www.bol.com/nl/klantenservice/index.html)
-* NL[](https://www.bol.com/nl/rnwy/country-language)
-
-[Mid-season sale](https://www.bol.com/nl/nl/cmp/Midseasonsale/1952/?promo=HEAD_907_Mnav_1_CRS_mss_1) [Koningsdag](https://www.bol.com/nl/nl/ra/koningsdag/325508/?promo=HEAD_907_Mnav_1_CRS_koningsdag_2) [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3) [Alles voor buiten](https://www.bol.com/nl/nl/cmp/naarbuitencampagne/1951/?promo=HEAD_907_Mnav_1_CRS_naarbuiten_4) [Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1955/?promo=HEAD_907_Mnav_1_CRS_selectflight_5)
-
-* [Mijn account](https://www.bol.com/nl/account/abonnement.html)
-* [Meer gemak en voordeel met **Select**
-    
-    Voor maar € 11,99 per jaar](https://www.bol.com/nl/select)* [Klantenservice](https://www.bol.com/nl/klantenservice/index.html)
-* Nederland|Taal: Nederlands
-    
-    Je ziet alleen de artikelen en promoties die beschikbaar zijn in Nederland.
+* [Bestelstatus](https://www.bol.com/nl/nl/rnwy/account/bestellingen/overzicht)
+* [Klantenservice](https://www.bol.com/nl/nl/m/klantenservice)
+* NL
     
 
-* [Over bol](https://www.bol.com/nl/m/over-bol-com/)
-* [Cadeaubon](https://www.bol.com/nl/nl/l/cadeaukaarten-bol-com/20639/4282200616/)
-* [Zakelijk](https://www.bol.com/nl/nl/m/zakendoen-met-bolcom/)
+[EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/?promo=HEAD_907_Mnav_1_CRS_ekvoetbal_1)[Festival essentials](https://www.bol.com/nl/nl/cmp/Festival-2024/1963/?promo=HEAD_907_Mnav_1_CRS_festival_2)[Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3)[Fashion sale](https://www.bol.com/nl/nl/cmp/Presale/1975/?promo=HEAD_907_Mnav_1_CRS_presale_4)[Zomerdeals](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/?promo=HEAD_907_Mnav_1_CRS_prezomer_5)
 
 Inhoudsopgave
 
@@ -553,7 +480,6 @@ Wij ontvangen wel gegevens van onze zusterbedrijven Albert Heijn, Etos en/of Gal
 Print deze pagina
 
 Service & contact
------------------
 
 **Snel regelen in je account**
 
@@ -573,13 +499,13 @@ We helpen je graag. [Onze klantenservice](https://www.bol.com/nl/nl/m/klantenser
     * [De voordelen van bol](https://www.bol.com/nl/nl/sf/winkelen-zonder-zorgen)
     * [Nieuws](https://pers.bol.com/)
     * [Werken bij bol](https://banen.bol.com/)
-    * [Bol & duurzaamheid](https://duurzaamheid.bol.com/)
+    * [Bol & duurzaamheid](https://www.bol.com/nl/nl/sf/duurzaamheid/)
     * [De bol app](https://www.bol.com/nl/nl/m/mobiele-app)
     * [Bedrijfsgegevens](https://www.bol.com/nl/nl/klantenservice/a/5715110588841984/bedrijfsgegevens)
     * [Bollebozen](https://www.bol.com/nl/nl/m/bollebozen)
 * [Zakendoen met bol](https://www.bol.com/nl/nl/m/zakendoen-met-bolcom)
     * [Zakelijk verkopen](https://www.bol.com/nl/nl/m/zakelijk-verkopen)
-    * [Zakelijk bestellen](https://www.bol.com/nl/nl/m/zakelijk-bestellen)
+    * [Zakelijk bestellen](https://www.bol.com/nl/nl/sf/zakelijk-bestellen)
     * [Zakelijke cadeaukaarten](https://www.bol.com/nl/nl/m/zakelijke-cadeaukaarten)
     * [Adverteren](https://adverteren.bol.com/)
     * [Affiliate Marketing](https://affiliate.bol.com/nl/)
