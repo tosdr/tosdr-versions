@@ -78,17 +78,27 @@ Idioma
 
 Un punto y seguido en la transformación digital
 
-   ![Presentación Kit Consulting](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/Kit%20Consulting.png?h=298f6650&itok=XjMfJVU9)
+   ![KC_Abierta_Convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/KC_abierta%20convocatoria_1400px.png?h=30c5353c&itok=4GeUNFAb)
 
 Noticia
 
 Transformación Digital PYMES
 
-Nace Kit Consulting, un programa de ayudas para que las pymes den un paso más en su transformación digital
+La ayuda del programa Kit Consulting ya se puede solicitar
 
-El Programa está dirigido a empresas de entre 10 y menos de 250 empleados y destinado a la contratación de servicios de asesoramiento digital especializado y personalizado para sus negocios.
+El plazo de presentación de las solicitudes se realiza a través de la sede electrónica de Red.es ([https://sede.red.gob.es](https://sede.red.gob.es/)) y estará abierto hasta el 31 de diciembre de 2024 a las 11:00 horas. 
 
-[Nace Kit Consulting, un programa de ayudas para que las pymes den un paso más en su transformación digital](http://red.es/es/actualidad/noticias/nace-kit-consulting-programa-ayudas "Ir al contenido de: Nace Kit Consulting, un programa de ayudas para que las pymes den un paso más en su transformación digital")
+[La ayuda del programa Kit Consulting ya se puede solicitar](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar")
+
+![Novedades Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Novedades%20KD.png?h=b878dce1&itok=T7EQLyN9)
+
+Noticia
+
+Transformación Digital PYMES
+
+Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros
+
+[Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-digital-de-3000 "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros ")
 
 ![ONE](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%20ONE_0.png?h=b878dce1&itok=mtzHZanX)
 
@@ -100,23 +110,13 @@ Descubre todas las posibilidades y herramientas que la Plataforma ONE ofrece al 
 
 [Descubre todas las posibilidades y herramientas que la Plataforma ONE ofrece al ecosistema emprendedor español](http://red.es/es/one-herramientas-oficina-nacional-emprendimiento- "Ir al contenido de: Descubre todas las posibilidades y herramientas que la Plataforma ONE ofrece al ecosistema emprendedor español")
 
-![Novedades Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Novedades%20KD.png?h=b878dce1&itok=T7EQLyN9)
-
-Noticia
-
-Transformación Digital PYMES
-
-Red.es modifica las bases de Kit Digital y amplía la ayuda para el segmento III
-
-[Red.es modifica las bases de Kit Digital y amplía la ayuda para el segmento III](http://red.es/es/actualidad/noticias/modificacion-bases-kit-digital "Ir al contenido de: Red.es modifica las bases de Kit Digital y amplía la ayuda para el segmento III")
-
 Noticia
 
 Internacionalización
 
-Dinamarca, Suecia y Finlandia serán los destinos que acogerán la primera edición del Programa Desafía Nórdicos para startups
+Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki pueden inscribirse hasta el 27 de septiembre
 
-[Dinamarca, Suecia y Finlandia serán los destinos que acogerán la primera edición del Programa Desafía Nórdicos para startups](http://red.es/es/actualidad/noticias/desafia-nordicos-salud-digital "Ir al contenido de: Dinamarca, Suecia y Finlandia serán los destinos que acogerán la primera edición del Programa Desafía Nórdicos para startups")
+[Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki pueden inscribirse hasta el 27 de septiembre](http://red.es/es/actualidad/noticias/apertura-inscripciones-slush "Ir al contenido de: Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki pueden inscribirse hasta el 27 de septiembre")
 
 Noticia
 
