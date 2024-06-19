@@ -267,6 +267,6 @@ About The Site
 
 Connect With DOL
 
-[Facebook](https://www.facebook.com/departmentoflabor "Facebook for the United States Department of Labor") [Twitter](https://twitter.com/USDOL "Twitter for the United States Department of Labor") [Instagram](https://www.instagram.com/USDOL/ "Instagram for the United States Department of Labor") [Threads](https://www.threads.net/@usdol "Threads for the United States Department of Labor") [Linkedin](https://www.linkedin.com/company/u-s-department-of-labor/ "LinkedIn for the United States Department of Labor") [Youtube](https://www.youtube.com/user/USDepartmentofLabor "YouTube for the United States Department of Labor")
+[Facebook](https://www.facebook.com/departmentoflabor "Facebook for the United States Department of Labor") [X](https://twitter.com/USDOL "Twitter for the United States Department of Labor") [Instagram](https://www.instagram.com/USDOL/ "Instagram for the United States Department of Labor") [Threads](https://www.threads.net/@usdol "Threads for the United States Department of Labor") [Linkedin](https://www.linkedin.com/company/u-s-department-of-labor/ "LinkedIn for the United States Department of Labor") [Youtube](https://www.youtube.com/user/USDepartmentofLabor "YouTube for the United States Department of Labor")
 
 [Site Map](https://www.dol.gov/general/findit) [Important Website Notices](https://www.dol.gov/general/aboutdol/website-policies) [Privacy & Security Statement](https://www.dol.gov/general/privacynotice)
