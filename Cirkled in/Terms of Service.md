@@ -266,7 +266,7 @@ How can Cirkled In help you?
 
 * [](https://www.facebook.com/cirkledin "Facebook")
 * [](https://www.linkedin.com/company/cirkled-in/ "linkedin")
-* [](https://twitter.com/cirkledin "twitter")
+* [![](https://d2zogq81rfgh3u.cloudfront.net/cirkledin/images/twitter-x.png)](https://twitter.com/cirkledin "twitter")
 * [](https://www.pinterest.com/cirkledin/pins/ "pinterest")
 * [](https://www.instagram.com/cirkledin/ "instagram")
 * [](https://www.youtube.com/channel/UC_RPKdPArwd1M3r-ISXzBhA "youtube")
