@@ -78,18 +78,17 @@ Menu
         * [Salad Recipes](https://www.bettycrocker.com/recipes/dishes/salad-recipes)
         * [Slow Cooker Recipes](https://www.bettycrocker.com/recipes/preparation/slow-cooker-recipes)
         * [Smoker Recipes](https://www.bettycrocker.com/recipes/preparation/smoker-recipes)
-    * [Mother’s Day](https://www.bettycrocker.com/special-occasions/mothers-day-recipes)
-        * [Mother’s Day Dinner Ideas](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/mothers-day-dinner-ideas)
-        * [Mother’s Day Brunch Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/10-fuss-free-mothers-day-breakfasts)
-        * [Mother’s Day Desserts](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-ever-mothers-day-desserts)
     * Kick-Off to Summer
         * [Grilling Recipes](https://www.bettycrocker.com/recipes/preparation/grill-recipes)
         * [Pasta Salad Recipes](https://www.bettycrocker.com/recipes/dishes/pasta-recipes/pasta-salad)
         * [Appetizers](https://www.bettycrocker.com/recipes/courses/appetizer-recipes)
     * [Graduation](https://www.bettycrocker.com/special-occasions/graduation-recipes)
         * [Graduation Desserts](https://www.bettycrocker.com/special-occasions/graduation-recipes/graduation-desserts)
-    * [Father's Day](https://www.bettycrocker.com/special-occasions/fathers-day)
-        * [Dad’s Favorite Dishes for Father’s Day](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/dads-favorite-dishes-for-fathers-day)
+        * [Graduation Drink Recipes](https://www.bettycrocker.com/special-occasions/graduation-recipes/punch-and-drink-recipes)
+    * [July Fourth](https://www.bettycrocker.com/special-occasions/july-4th)
+        * [Best Fourth of July Desserts](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-fourth-of-july-desserts)
+        * [Fourth of July Cake Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/fourth-of-july-cake-ideas)
+        * [Fourth of July Appetizers](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-fourth-of-july-appetizers)
     
 * [How-To](https://www.bettycrocker.com/how-to)
     
@@ -162,13 +161,6 @@ Menu
         
     
 * [Let's Get Making](https://www.bettycrocker.com/lets-get-making)
-
-### Weekly Whisks
-
-* [Overnight Pecan Rolls](https://www.bettycrocker.com/recipes/overnight-pecan-rolls/04a7c7ef-5c8e-46ef-acd4-4bdae2c502c3)
-* [Bisquick™ Banana-Nut Bread](https://www.bettycrocker.com/recipes/bisquick-banana-nut-bread/987a8437-68af-4434-a474-152d9329251e)
-* [Caprese Quinoa Salad](https://www.bettycrocker.com/recipes/caprese-quinoa-salad/e2140cea-e9a8-47a5-ab8e-88efb9c5e873)
-* [Easy General Tso's Chicken](https://www.bettycrocker.com/recipes/easy-general-tsos-chicken/35b55e6b-9ce3-4bfd-9bea-a9a19f32e689)
 
 * Save
     
@@ -251,7 +243,6 @@ Katherine E., Little Falls, MN
 * [Contact Betty Crocker](https://contactus.generalmills.com/?page=http://www.bettycrocker.com&language=en)
 * [About Betty Crocker](https://www.bettycrocker.com/about-us)
 * [Product Locator](https://www.generalmills.com/en/product-locator)
-* [Coupons](https://www.bettycrocker.com/coupons/printable)
 
 ### Policies
 
