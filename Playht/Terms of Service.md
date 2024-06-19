@@ -27,7 +27,7 @@ Welcome, and thank you for your interest in PlayHT, Inc. (“**PlayHT**,” “*
 
 PLEASE READ THE FOLLOWING TERMS CAREFULLY:
 
-**BY CLICKING “I ACCEPT,” OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE** (COLLECTIVELY, “**ACCEPTANCE**”), YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS, INCLUDING PLAYHT’S PRIVACY POLICY AT [HTTPS://PLAY.HT/PRIVACY/](https://play.ht/privacy/) (THE “**PRIVACY POLICY**”), PLAYHT’S INFRINGEMENT POLICY AT (“**INFRINGEMENT POLICY**”), PLAYHT’S COMMUNITY STANDARDS AT (“**COMMUNITY STANDARDS**”) (TOGETHER, THESE “**TERMS**”). If you are not eligible, or do not agree to the Terms, then you do not have our permission to use the Service. YOUR USE OF THE SERVICE, AND PLAYHT’S PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY PLAYHT AND BY YOU TO BE BOUND BY THESE TERMS.
+**BY CLICKING “I ACCEPT,” OR BY DOWNLOADING, INSTALLING, OR OTHERWISE ACCESSING OR USING THE SERVICE** (COLLECTIVELY, “**ACCEPTANCE**”), YOU AGREE THAT YOU HAVE READ AND UNDERSTOOD, AND, AS A CONDITION TO YOUR USE OF THE SERVICE, YOU AGREE TO BE BOUND BY, THE FOLLOWING TERMS AND CONDITIONS, INCLUDING PLAYHT’S PRIVACY POLICY AT [HTTPS://PLAY.HT/PRIVACY/](https://play.ht/privacy/) (THE “**PRIVACY POLICY**”), PLAYHT’S COMMUNITY STANDARDS AT (“**COMMUNITY STANDARDS**”) (TOGETHER, THESE “**TERMS**”). If you are not eligible, or do not agree to the Terms, then you do not have our permission to use the Service. YOUR USE OF THE SERVICE, AND PLAYHT’S PROVISION OF THE SERVICE TO YOU, CONSTITUTES AN AGREEMENT BY PLAYHT AND BY YOU TO BE BOUND BY THESE TERMS.
 
 IN ACCORDANCE WITH SECTION 8, WE WILL NOT USE YOUR SUBMITTED CONTENT TO TRAIN OUR AI MODELS.
 
@@ -191,7 +191,7 @@ your User Content could not be deemed by a reasonable person to be objectionable
 
 11.
 
-**Intellectual Property Rights Protection.** PlayHT respects the intellectual property rights of others, takes the protection of intellectual property rights very seriously, and asks users of the Service to do the same. Infringing activity will not be tolerated on or through the Service. If you believe that any content or data infringe, violate, or misappropriate any third-party right, please contact us in accordance with our Infringement Policy.
+**Intellectual Property Rights Protection.** PlayHT respects the intellectual property rights of others, takes the protection of intellectual property rights very seriously, and asks users of the Service to do the same. Infringing activity will not be tolerated on or through the Service. If you believe that any content or data infringe, violate, or misappropriate any third-party right, please contact us.
 
 12.
 
