@@ -84,6 +84,10 @@ Message de confirmation
 
 Un email de confirmation vient de vous être adressé.
 
+Email ou pseudo
+
+Mot de passe
+
  Votre mot de passe est caché.
 
 * 8 caractères minimum
@@ -115,6 +119,8 @@ Bénéficiez gratuitement de fonctionnalités et de services additionnels. [Deve
 Identifiant/Mot de passe oublié
 
 Si vous êtes Membre de la Communauté Boursorama, veuillez indiquer l'adresse email que vous avez fournie lors de votre enregistrement pour recevoir votre identifiant et/ou ré-initialiser votre mot de passe :
+
+Adresse e-mail
 
 * * *
 
@@ -150,11 +156,11 @@ Accès direct :
 1\. Mentions légales
 --------------------
 
-Les sites Internet BOURSORAMA.COM et WWW.BOURSOBANK.COM édités par BOURSORAMA (ci-après les « Sites »), société anonyme au capital de 51 171 597,60 €, ayant pour numéro unique d'identification 351 058 151 RCS Nanterre et dont le siège social est sis 44 rue Traversière, CS 80134, 92772 BOULOGNE-BILLANCOURT CEDEX, ci-après dénommée "BOURSORAMA".
+Les sites Internet BOURSORAMA.COM et WWW.BOURSOBANK.COM édités par BOURSORAMA (ci-après les « Sites »), société anonyme au capital de 53 576 889,20 €, ayant pour numéro unique d'identification 351 058 151 RCS Nanterre et dont le siège social est sis 44 rue Traversière, CS 80134, 92772 BOULOGNE-BILLANCOURT CEDEX, ci-après dénommée "BOURSORAMA".
 
 Le code TVA de BOURSORAMA est TVA FR 69 351 058 151.
 
-No ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie) : FR231725\_03IVZM.
+No ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie) : FR231725\_01YSGB.
 
 BOURSORAMA est une filiale de la Société Générale.
 
@@ -332,7 +338,30 @@ Conformément au Règlement européen relatif à un marché unique des services 
 
 Sur la période des 6 derniers mois, le site BOURSORAMA.COM affichait un nombre de destinataires actifs moyen inférieur à 45 millions par mois. (source : Piano)
 
-Seules les autorités compétentes peuvent contacter BOURSORAMA à l'adresse suivante : [dsa-contact@boursorama.fr](mailto:dsa-contact@boursorama.fr "Ecrire à dsa-contact@boursorama.fr").
+Seules les autorités compétentes pour les problématiques liées au DSA peuvent demander à être recontactées par BOURSORAMA en complétant le formulaire disponible ici .
+
+Formulaire à destination des autorités compétentes
+--------------------------------------------------
+
+Fermer
+
+Motif de suppressionARCOMCommission européenneComité pour les services numériquesAutorité d'un état membre de l'Union Européenne
+
+Nom du contact
+
+Email professionel
+
+Téléphone professionel
+
+Les données personnelles recueillies dans le présent formulaire sont obligatoires et font l'objet d’un traitement dont le responsable est Boursorama. Elles sont traitées pour répondre aux réglementations en vigueur.  
+Vous disposez notamment d'un droit d'accès et de rectification à vos données personnelles. Ces droits peuvent être exercés, en précisant vos nom, prénom, email, date de naissance et votre code postal, notamment en adressant une demande à l'adresse suivante :
+
+* soit en utilisant votre espace sécurisé en vous identifiant sur votre « Compte Membre » accessible en ligne au moyen du formulaire mis à votre disposition en bas de page de la rubrique «mes infos persos ». Le Membre recevra alors après vérification de son adresse e-mail, le rapport de données personnelles sur sa messagerie,
+* soit en complétant une demande en cliquant [ici](https://clients.boursobank.com/mon-profil/parametres-de-confidentialite/client-ou-pas), pour exercer votre droit d’accès.
+
+Pour plus d'information, vous pouvez contacter le Délégué à la Protection des Données à l'adresse suivante : dpo@boursorama.fr.  
+Si vous estimez, après nous avoir contactés, que vos droits sur vos Données ne sont pas respectés, vous pouvez adresser une réclamation à : Commission Nationale Informatique et des Libertés (CNIL) - 3, place de Fontenoy, TSA 80715, 75334 Paris Cedex 07.  
+Pour en savoir plus, vous pouvez consulter la Politique de protection des données Membres et Visiteurs disponible sur le site [www.boursorama.com](https://www.boursorama.com/).
 
 Aucune réclamation client ne sera traitée via cette adresse.
 
@@ -431,10 +460,10 @@ Documentation Contractuelle
     
 * [Politique d'exécution](https://www.boursorama.com/bourse/politique-execution/ "Politique d'exécution")
     
-* [Rapport de meilleure sélection 2022](https://s.brsimg.com/content/pdf/banque/mif2/meilleureselection2022.pdf "Rapport de meilleure sélection 2022 (nouvelle fenêtre)")
+* [Rapport de meilleure sélection 2023](https://s.brsimg.com/content/pdf/banque/mif2/meilleureselection.pdf "Rapport de meilleure sélection 2023 (nouvelle fenêtre)")
     
 
-Sécurité et données personnelles
+Données personnelles
 
 * [Gérer mes cookies](javascript:// "Gérer mes cookies")
     
@@ -465,7 +494,7 @@ Nos sites
 
 Copyright © 2024
 
-Boursorama, SA au capital de 51 171 597,60 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151 – 44 rue Traversière, CS 80134, 92772 BOULOGNE BILLANCOURT CEDEX
+Boursorama, SA au capital de 53 576 889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151 – 44 rue Traversière, CS 80134, 92772 BOULOGNE BILLANCOURT CEDEX
 
 ![Label B Corp](/bundles/boursoramaui/images/footer/b-corp-fr.png)
 
