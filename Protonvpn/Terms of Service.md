@@ -48,7 +48,9 @@
     
     Join the fight to make the internet a better place.](https://protonvpn.com/community)[Open source
     
-    Everyone is welcome to inspect our code. We're open.](https://protonvpn.com/community/open-source)
+    Everyone is welcome to inspect our code. We're open.](https://protonvpn.com/community/open-source)[Proton Foundation
+    
+    Our non-profit model puts people before profit.](https://protonvpn.com/foundation)
     
 * Resources & Support
     
@@ -91,9 +93,9 @@ Open menu
 Terms of Service
 ================
 
-Last modified: April 9, 2024
+Last modified: June 17th, 2024
 
-By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
@@ -208,7 +210,7 @@ All trademarks, service marks, logos, trade names, and other proprietary designa
 9\. Terms of payment
 --------------------
 
-Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
+Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you, or as announced at the moment of initial purchase. The price may change after the initial term as announced at the moment of initial purchase. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
 
 You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user**. This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
 
@@ -386,6 +388,7 @@ Proton - Privacy by default
     * [About us](https://protonvpn.com/about)
     * [Team](https://protonvpn.com/about/team)
     * [Impact](https://protonvpn.com/about/impact)
+    * [Proton Foundation](https://protonvpn.com/foundation)
     * [Careers
         
         We’re hiring](https://protonvpn.com/careers)
