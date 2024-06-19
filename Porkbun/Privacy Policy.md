@@ -315,7 +315,7 @@ Tools
 Our Company
 
 [About Us](https://porkbun.com/about)  
-[Our Official Blog](http://blog.porkbun.com/)  
+[Our Official Blog](https://blog.porkbun.com/)  
 [Careers](https://porkbun.com/careers)  
 [Branding Guidelines](http://porkbun.design/)  
 [Policies and Legal](https://porkbun.com/legal)  
