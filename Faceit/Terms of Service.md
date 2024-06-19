@@ -47,7 +47,7 @@ If any provision of these terms and conditions is found by any court of competen
 
 This Website is owned by FACE IT LIMITED (hereafter “Company” or “FACEIT”) , a company registered in England and Wales (Company Number 07751649), whose registered office is at 25th floor Millbank Tower, 21 – 24 Millbank, London, SW1P 4QP, United Kingdom (United Kingdom).
 
-These Terms and Conditions were last updated, and became effective, on 21th November 2022.
+These Terms and Conditions were last updated, and became effective, on 03rd May 2024.
 
 * * *
 
