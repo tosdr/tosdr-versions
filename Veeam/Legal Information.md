@@ -1,13 +1,13 @@
 [#1 Global Leader in Data Protection & Ransomware Recovery](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
 
-* [Downloads](https://www.veeam.com/downloads.html?ad=top-sub-menu)
+* [Downloads](https://www.veeam.com/products/downloads.html?ad=top-sub-menu)
 * Contact us
     
     Close
     
     Contact us
     
-    * [Contact Sales](https://www.veeam.com/salesinc.html?ad=Call_Veeam_Contact_Sales)
+    * [Contact Sales](https://www.veeam.com/contact-sales.html?ad=Call_Veeam_Contact_Sales)
     * [Technical Support](https://www.veeam.com/support.html?ad=Call_Veeam_Technical_Support)
     
 * [Buy Online](https://store.veeam.com/1620/purl-store?ad=top-sub-menu)
@@ -43,29 +43,29 @@ Menu
     
     Veeam Data Platform
     
-    * [Overview](https://www.veeam.com/data-protection-platform.html?ad=menu-products-vdp)
+    * [Overview](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-products-vdp)
     
     Platform Components
     
-    * [Backup & Recovery](https://www.veeam.com/vm-backup-recovery-replication-software.html?ad=menu-products-vdp)
-    * [Monitoring & Analytics](https://www.veeam.com/virtualization-management-one-solution.html?ad=menu-products-vdp)
-    * [Recovery Orchestration](https://www.veeam.com/disaster-recovery-orchestrator.html?ad=menu-products-vdp)
+    * [Backup & Recovery](https://www.veeam.com/products/veeam-data-platform/backup-recovery.html?ad=menu-products-vdp)
+    * [Monitoring & Analytics](https://www.veeam.com/products/veeam-data-platform/monitoring-analytics.html?ad=menu-products-vdp)
+    * [Recovery Orchestration](https://www.veeam.com/products/veeam-data-platform/recovery-orchestration.html?ad=menu-products-vdp)
     
     Free Community Editions
     
-    * [Veeam Backup & Replication CE](https://www.veeam.com/virtual-machine-backup-solution-free.html?ad=menu-products-vdp)
-    * [All Free Tools](https://www.veeam.com/downloads.html?hvt=free&ad=menu-products-vdp)
+    * [Veeam Backup & Replication CE](https://www.veeam.com/products/free/backup-recovery.html?ad=menu-products-vdp)
+    * [All Free Tools](https://www.veeam.com/products/downloads.html?hvt=free&ad=menu-products-vdp)
     
     How to Buy
     
-    * [Packaging & Purchasing Options](https://www.veeam.com/licensing-pricing.html?ad=menu-products-vdp)
-    * [Licensing](https://www.veeam.com/universal-license.html?ad=menu-products-vdp)
+    * [Packaging & Purchasing Options](https://www.veeam.com/products/veeam-data-platform/enterprise-packaging-pricing-options.html?ad=menu-products-vdp)
+    * [Licensing](https://www.veeam.com/products/buy/universal-license.html?ad=menu-products-vdp)
     * [Enterprise Licensing](https://www.veeam.com/veeam-elp-simplified-license-management.html?ad=menu-products-vdp)
-    * [Find a Reseller](https://www.veeam.com/find-partner.html?ad=menu-products-vdp)
-    * [Managed Backup & DR Services](https://www.veeam.com/managed-backup-dr-services.html?ad=menu-products-vdp)
+    * [Find a Reseller](https://www.veeam.com/partners/find-a-partner.html?ad=menu-products-vdp)
+    * [Managed Backup & DR Services](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-products-vdp)
     * [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-vdp)
     
-         [![Menu diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/diagrams/menu-diagram.svg?ck=1697532117059)](https://www.veeam.com/data-protection-platform.html?ad=menu-products-vdp-diagram)
+         [![Menu diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/diagrams/menu-diagram.svg?ck=1697532117059)](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-products-vdp-diagram)
     
     [Try in lab](https://go.veeam.com/webinar-ransomware-hands-on-lab-experience?ad=menu-products-vdp)
     
@@ -83,8 +83,8 @@ Menu
     Veeam Data Cloud
     
     * [Overview](https://www.veeam.com/products/veeam-data-cloud.html?ad=menu-products-vdc)
-    * [Backup for Microsoft 365](https://www.veeam.com/backup-microsoft-office-365.html?ad=menu-products-vdc)
-    * [Backup for Azure](https://www.veeam.com/backup-azure.html?ad=menu-products-vdc)
+    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-vdc)
+    * [Backup for Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-vdc)
     * [Vault Cloud Storage](https://www.veeam.com/products/veeam-data-cloud/cloud-storage-vault.html?ad=menu-products-vdc)
     
     FAQs
@@ -94,47 +94,41 @@ Menu
     How to Buy
     
     * [Purchasing Options](https://www.veeam.com/products/veeam-data-cloud/purchasing-options.html?ad=menu-products-vdc)
-    * [Find a Reseller](https://www.veeam.com/find-partner.html?ad=menu-products-vdc)
+    * [Find a Reseller](https://www.veeam.com/partners/find-a-partner.html?ad=menu-products-vdc)
     
          [![Menu diagram](https://cdn.veeam.com/content/dam/veeam/en/public/images/diagrams/menu_vdc_diagram.png.web.1920.1920.webp?ck=1711629313815)](https://www.veeam.com/products/veeam-data-cloud.html?ad=menu-products-vdc-diagram)
     
-    [M365 Product Tour](https://www.veeam.com/backup-microsoft-office-365.html?ad=menu-products-vdc#interactive-walkthrough)
+    [M365 Product Tour](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-vdc#interactive-walkthrough)
     
     [Request M365 Demo](https://www.veeam.com/backup-microsoft-office-365/vdc-demo.html?ad=menu-products-vdc)
-    
-    **Get hands on at VeeamON** **2024**
-    
-    VeeamON is your all access pass to all things Veeam Data Cloud. Join us June 3-5 in Fort Lauderdale, Florida.​
-    
-    [Register Now](https://www.veeam.com/veeamon?ad=menu-products-vdc-banner)
     
     Workload Specific Solutions for individual applications
     
     Workloads
     
-    * [Backup for Microsoft 365](https://www.veeam.com/backup-microsoft-office-365.html?ad=menu-products-workloads)
-    * [Backup for Salesforce](https://www.veeam.com/backup-salesforce.html?ad=menu-products-workloads)
+    * [Backup for Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-products-workloads)
+    * [Backup for Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-products-workloads)
     * [Backup for Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-products-workloads)
-    * [Backup for AWS](https://www.veeam.com/aws-backup.html?ad=menu-products-workloads)
-    * [Backup for Microsoft Azure](https://www.veeam.com/backup-azure.html?ad=menu-products-workloads)
-    * [Backup for Google Cloud](https://www.veeam.com/google-cloud-backup.html?ad=menu-products-workloads)
+    * [Backup for AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-workloads)
+    * [Backup for Microsoft Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-workloads)
+    * [Backup for Google Cloud](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-workloads)
     
     Free Community Editions
     
-    * [Veeam Microsoft 365 CE](https://www.veeam.com/free-backup-microsoft-office-365.html?ad=menu-products-workloads)
+    * [Veeam Microsoft 365 CE](https://www.veeam.com/products/free/backup-microsoft-office-365.html?ad=menu-products-workloads)
     * [Veeam Insights for Microsoft 365](https://www.veeam.com/products/free/insights-microsoft-office-365.html?ad=menu-products-workloads)
     * [Veeam Salesforce CE](https://www.veeam.com/free-salesforce-backup.html?ad=menu-products-workloads)
     * [Veeam Kasten Free](https://www.veeam.com/products/free/kubernetes.html?ad=menu-products-workloads)
-    * [Veeam Backup for AWS Free](https://www.veeam.com/aws-backup.html?ad=menu-products-workloads)
-    * [Veeam Backup for Microsoft Azure Free](https://www.veeam.com/backup-azure.html?ad=menu-products-workloads)
-    * [Veeam Backup for Google Cloud Free](https://www.veeam.com/google-cloud-backup.html?ad=menu-products-workloads)
+    * [Veeam Backup for AWS Free](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-products-workloads)
+    * [Veeam Backup for Microsoft Azure Free](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-products-workloads)
+    * [Veeam Backup for Google Cloud Free](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-products-workloads)
     
     How to Buy
     
-    * [Veeam Data Platform Packaging & Purchasing Options](https://www.veeam.com/licensing-pricing.html?ad=menu-products-workloads)
+    * [Veeam Data Platform Packaging & Purchasing Options](https://www.veeam.com/products/veeam-data-platform/enterprise-packaging-pricing-options.html?ad=menu-products-workloads)
     * [Veeam Data Cloud Purchasing Options](https://www.veeam.com/products/veeam-data-cloud/purchasing-options.html?ad=menu-products-workloads)
-    * [Find a Reseller](https://www.veeam.com/find-partner.html?ad=menu-products-workloads)
-    * [Managed Backup & DR Services](https://www.veeam.com/managed-backup-dr-services.html?ad=menu-products-workloads)
+    * [Find a Reseller](https://www.veeam.com/partners/find-a-partner.html?ad=menu-products-workloads)
+    * [Managed Backup & DR Services](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-products-workloads)
     * [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-workloads)
     
     Solutions By Business Type Solutions for Enterprise, Small Businesses  
@@ -144,19 +138,19 @@ Menu
     
     Built to handle mission-critical data recovery for the largest Enterprises
     
-    [Learn More](https://www.veeam.com/data-protection-platform.html?ad=menu-products-business-type)
+    [Learn More](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-products-business-type)
     
     **Small Business**
     
     Secure and effortless backup and recovery tailored for your small business
     
-    [Learn More](https://www.veeam.com/smb-vmware-hyper-v-essentials.html?ad=menu-products-business-type)
+    [Learn More](https://www.veeam.com/products/veeam-data-platform/essentials.html?ad=menu-products-business-type)
     
     **Service Providers**
     
     Leverage Veeam technology to offer powerful BaaS and DRaaS services
     
-    [Learn More](https://www.veeam.com/solutions-service-providers.html?ad=menu-products-business-type#solutions)
+    [Learn More](https://www.veeam.com/solutions/service-providers.html?ad=menu-products-business-type#solutions)
     
 * [Solutions](javascript:void(0);)
     
@@ -179,9 +173,9 @@ Menu
     
     Business Type
     
-    * [Enterprise](https://www.veeam.com/data-protection-platform.html?ad=menu-solutions-business-type)
+    * [Enterprise](https://www.veeam.com/products/products/veeam-data-platform.html?ad=menu-solutions-business-type)
     * [Small Business](https://www.veeam.com/solutions/small-business.html?ad=menu-solutions-business-type)
-    * [Service Provider](https://www.veeam.com/solutions-service-providers.html?ad=menu-solutions-business-type)
+    * [Service Provider](https://www.veeam.com/solutions/use-case/solutions/service-providers.html?ad=menu-solutions-business-type)
     
     Services
     
@@ -190,7 +184,7 @@ Menu
     
     Managed Services
     
-    * [BaaS & DRaaS](https://www.veeam.com/managed-backup-dr-services.html?ad=menu-solutions)
+    * [BaaS & DRaaS](https://www.veeam.com/solutions/managed-services/managed-backup-dr-services.html?ad=menu-solutions)
     * [Disaster Recovery-as-a-Service​](https://www.veeam.com/solutions/managed-services/disaster-recovery-as-a-service-draas.html?ad=menu-solutions)
     * [BaaS for Microsoft 365](https://www.veeam.com/solutions/managed-services/backup-as-a-service-baas-microsoft-365.html?ad=menu-solutions)
     * [BaaS for Public Cloud](https://www.veeam.com/public-cloud-backup-as-a-service.html?ad=menu-solutions)
@@ -198,15 +192,15 @@ Menu
     
     Environment
     
-    **Cloud**  [AWS](https://www.veeam.com/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/backup-azure.html?ad=menu-solutions) | [Google](https://www.veeam.com/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/kubernetes-native-backup-and-restore.html?ad=menu-solutions)
+    **Cloud**  [AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-solutions) | [Google](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/kubernetes-native-backup-and-restore.html?ad=menu-solutions)
     
-    **Virtual**  [VMware](https://www.veeam.com/vmware-esx-backup.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/hyperv-backup-solution.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/availability-nutanix-ahv.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/kvm-backup-recovery.html?ad=menu-solutions)
+    **Virtual**  [VMware](https://www.veeam.com/products/virtual/vmware-backup-recovery.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/products/virtual/hyper-v-backup-recovery.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/products/virtual/nutanix-backup-recovery.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions)
     
-    **Physical**  [Windows](https://www.veeam.com/windows-cloud-server-backup-agent.html?ad=menu-solutions) | [Linux](https://www.veeam.com/linux-cloud-server-backup-agent.html?ad=menu-solutions) | [MacOS](https://www.veeam.com/cloud-backup-for-mac-agent.html?ad=menu-solutions) | [Unix](https://www.veeam.com/ibm-aix-oracle-solaris-backup.html?ad=menu-solutions) | [NAS](https://www.veeam.com/nas-backup-and-recovery-software.html?ad=menu-solutions)
+    **Physical**  [Windows](https://www.veeam.com/products/physical/windows-backup-recovery.html?ad=menu-solutions) | [Linux](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MacOS](https://www.veeam.com/products/physical/mac-backup-recovery.html?ad=menu-solutions) | [Unix](https://www.veeam.com/products/physical/ibm-aix-oracle-solaris-backup-recovery.html?ad=menu-solutions) | [NAS](https://www.veeam.com/products/physical/nas-backup-recovery.html?ad=menu-solutions)
     
-    **Apps**  [Microsoft](https://www.veeam.com/application-availability-solutions.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/oracle-backup-recovery-explorer.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/backup-sap-hana-plugin.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/linux-cloud-server-backup-agent.html?ad=menu-solutions)
+    **Apps**  [Microsoft](https://www.veeam.com/application-availability-solutions.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions)
     
-    **SaaS**  [Microsoft 365](https://www.veeam.com/backup-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/backup-salesforce.html?ad=menu-solutions)
+    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
     
     Alliance Technologies
     
@@ -229,11 +223,11 @@ Menu
     * [Support](https://www.veeam.com/support.html?ad=menu-support)
     * [Open a Case](https://my.veeam.com/open-case/step-1?ad=menu-support)
     * [Track Your Case](https://my.veeam.com/my-cases?ad=menu-support)
-    * [Support Policy](https://www.veeam.com/support-policy.html?ad=menu-support)
+    * [Support Policy](https://www.veeam.com/legal/support-policy.html?ad=menu-support)
     
     Renewals Center
     
-    * [Renewals](https://www.veeam.com/renewal.html?ad=menu-support)
+    * [Renewals](https://www.veeam.com/products/buy/renewal.html?ad=menu-support)
     
     Services
     
@@ -241,24 +235,24 @@ Menu
     
     Training & Education
     
-    * [Veeam University](https://www.veeam.com/free-on-demand-trainings.html?ad=menu-support)
-    * [Courses & Certifications](https://www.veeam.com/vmce-training.html?ad=menu-support)
+    * [Veeam University](https://www.veeam.com/support/training/free-on-demand-trainings.html?ad=menu-support)
+    * [Courses & Certifications](https://www.veeam.com/support/training/vmce-training.html?ad=menu-support)
     
     Support Resources
     
-    * [Technical Documentation](https://www.veeam.com/documentation-guides-datasheets.html?ad=menu-support)
+    * [Technical Documentation](https://www.veeam.com/support/help-center-technical-documentation.html?ad=menu-support)
     * [Knowledge Base](https://www.veeam.com/knowledge-base.html?ad=menu-support)
     * [Kasten Technical Documentation](https://docs.kasten.io/)
     * [Kasten Knowledge Base](https://kb.kasten.io/knowledge)
     
     Downloads
     
-    * [All Product Downloads](https://www.veeam.com/downloads.html?ad=menu-support)
+    * [All Product Downloads](https://www.veeam.com/products/downloads.html?ad=menu-support)
     
     Community
     
     * [Community Resource Hub](https://community.veeam.com/?ad=menu-support)
-    * [Community Experts](https://www.veeam.com/vanguard.html?ad=menu-support)
+    * [Community Experts](https://www.veeam.com/support/vanguard.html?ad=menu-support)
     * [R&D Forums](https://forums.veeam.com/?ad=menu-support)
     
 * [Resources](javascript:void(0);)
@@ -267,10 +261,10 @@ Menu
     
     Resource Library
     
-    * [White Papers](https://www.veeam.com/whitepapers.html?ad=menu-resources)
-    * [Solution Briefs](https://www.veeam.com/resource-library.html?content_types%5B%5D=solution-brief&page=1&ad=menu-resources)
+    * [White Papers](https://www.veeam.com/resources/whitepapers.html?ad=menu-resources)
+    * [Solution Briefs](https://www.veeam.com/resources.html?content_types%5B%5D=solution-brief&page=1&ad=menu-resources)
     * [Analyst Reports](https://www.veeam.com/resources-analysts-reports.html?ad=menu-resources)
-    * [See All Resources](https://www.veeam.com/resource-library.html?ad=menu-resources)
+    * [See All Resources](https://www.veeam.com/resources.html?ad=menu-resources)
     
     Blog
     
@@ -279,19 +273,19 @@ Menu
     Events & Webinars
     
     * [VeeamON](https://www.veeam.com/veeamon?ad=menu-resources)
-    * [Events](https://www.veeam.com/events.html?ad=menu-resources)
-    * [Upcoming Webinars](https://www.veeam.com/webinars.html?ad=menu-resources)
-    * [On-Demand Webinars](https://www.veeam.com/videos.html?content_types%5B%5D=recorded-webinar&page=1&ad=menu-resources)
+    * [Events](https://www.veeam.com/resources/events.html?ad=menu-resources)
+    * [Upcoming Webinars](https://www.veeam.com/resources/webinars.html?ad=menu-resources)
+    * [On-Demand Webinars](https://www.veeam.com/resources/videos.html?content_types%5B%5D=recorded-webinar&page=1&ad=menu-resources)
     
     Customer Stories
     
-    * [See All Stories](https://www.veeam.com/success-stories.html?ad=menu-resources)
+    * [See All Stories](https://www.veeam.com/resources/customer-stories.html?ad=menu-resources)
     
     Product Demo
     
     * [On-Demand Platform Demo](https://www.veeam.com/products/veeam-data-platform/security-demos.html?ad=menu-resources)
-    * [Upcoming Product Demos](https://www.veeam.com/product-demo.html?ad=menu-resources)
-    * [On-Demand Product Demos](https://www.veeam.com/videos.html?content_types%5B%5D=recorded-product-demo&ad=menu-resources)
+    * [Upcoming Product Demos](https://www.veeam.com/resources/product-demo.html?ad=menu-resources)
+    * [On-Demand Product Demos](https://www.veeam.com/resources/videos.html?content_types%5B%5D=recorded-product-demo&ad=menu-resources)
     
     Cyber Resiliency
     
@@ -301,18 +295,18 @@ Menu
     
     Partners
     
-    [WHY PARTNER WITH VEEAM](https://www.veeam.com/partner-with-veeam.html?ad=menu-partners)
+    [WHY PARTNER WITH VEEAM](https://www.veeam.com/partners/become-a-partner.html?ad=menu-partners)
     
     Become a Partner
     
-    * [Value-Added Reseller](https://www.veeam.com/propartner.html?ad=menu-partners)
-    * [Service Provider](https://www.veeam.com/service-providers.html?ad=menu-partners)
-    * [Global System Integrator](https://www.veeam.com/global-systems-integrators.html?ad=menu-partners)
-    * [Technology Alliance](https://www.veeam.com/alliance-partner-technical-programs.html?ad=menu-partners)
+    * [Value-Added Reseller](https://www.veeam.com/partners/propartner.html?ad=menu-partners)
+    * [Service Provider](https://www.veeam.com/become-a-partner/service-providers.html?ad=menu-partners)
+    * [Global System Integrator](https://www.veeam.com/partners/global-systems-integrators.html?ad=menu-partners)
+    * [Technology Alliance](https://www.veeam.com/partners/alliance-partner-technical-programs.html?ad=menu-partners)
     
     Find a Partner
     
-    * [Find a Partner](https://www.veeam.com/find-partner.html?ad=menu-partners)
+    * [Find a Partner](https://www.veeam.com/partners/find-a-partner.html?ad=menu-partners)
     
     Partner Resources
     
@@ -324,9 +318,9 @@ Menu
     
     Company
     
-    * [About Us](https://www.veeam.com/about.html?ad=menu-company)
-    * [Leadership](https://www.veeam.com/management-team.html?ad=menu-company)
-    * [Contacts](https://www.veeam.com/contacts.html?ad=menu-company)
+    * [About Us](https://www.veeam.com/company/about.html?ad=menu-company)
+    * [Leadership](https://www.veeam.com/company/management-team.html?ad=menu-company)
+    * [Contacts](https://www.veeam.com/company/contacts.html?ad=menu-company)
     
     Careers
     
@@ -335,8 +329,8 @@ Menu
     
     News & Media
     
-    * [Press Releases](https://www.veeam.com/news.html?ad=menu-company)
-    * [Recognition](https://www.veeam.com/awards.html?ad=menu-company)
+    * [Press Releases](https://www.veeam.com/company/press-release.html?ad=menu-company)
+    * [Recognition](https://www.veeam.com/company/awards.html?ad=menu-company)
     * [Brand Resource Center](https://www.veeam.com/company/brand-resource-center.html?ad=menu-company)
     
     Trust Center
@@ -344,12 +338,12 @@ Menu
     * [Trust Center](https://www.veeam.com/company/trust-center.html?ad=menu-company)
     
 
-* [](https://www.veeam.com/downloads.html?ad=top-sub-menu)
+* [](https://www.veeam.com/products/downloads.html?ad=top-sub-menu)
 * Close
     
     Contact us
     
-    * [Contact Sales](https://www.veeam.com/salesinc.html?ad=Call_Veeam_Contact_Sales)
+    * [Contact Sales](https://www.veeam.com/contact-sales.html?ad=Call_Veeam_Contact_Sales)
     * [Technical Support](https://www.veeam.com/support.html?ad=Call_Veeam_Technical_Support)
     
 * [](https://store.veeam.com/1620/purl-store?ad=top-sub-menu)
@@ -418,7 +412,7 @@ This Privacy Notice applies to Personal Information (as defined below) that we m
 * Professional events, industry conferences, including events hosted or sponsored by Veeam; and
 * Third-party websites and platforms where your contact information or other Personal Information is public and available to other users.
 
-**Note**: This Privacy Notice does _not_ apply to Personal Information Veeam may collect as part of its employee recruitment process. For more information about the Personal Information we collect as part of that process and how we use, share, and secure that information, please visit Veeam’s [Recruiting Privacy Notice](https://www.veeam.com/recruiting-privacy-notice.html).
+**Note**: This Privacy Notice does _not_ apply to Personal Information Veeam may collect as part of its employee recruitment process. For more information about the Personal Information we collect as part of that process and how we use, share, and secure that information, please visit Veeam’s [Recruiting Privacy Notice](https://www.veeam.com/legal/recruiting-privacy-notice.html).
 
 Collection of Personal Information
 ----------------------------------
@@ -488,7 +482,7 @@ Cookies
 
 Veeam’s websites, advertisements, emails, and online services may use certain automatic data collection technologies, such as cookies, web beacons, and pixel tags, to collect data, including personal information. This data helps us to understand our users’ behavior, web searches, and where on our websites users have visited. We use cookies to distinguish among different users of our website, to help us provide you with a good experience when you browse our websites, and to allow us to improve our websites.
 
-For more information about how Veeam uses Cookies and similar technologies, please visit our [Cookie Notice](https://www.veeam.com/cookie-notice.html).
+For more information about how Veeam uses Cookies and similar technologies, please visit our [Cookie Notice](https://www.veeam.com/legal/cookie-notice.html).
 
 Google OAuth 2.0
 ----------------
@@ -525,7 +519,7 @@ _Veeam does not “sell” your Personal Information._
 
 Some of these rights can be exercised at the [subscription preferences](https://www.veeam.com/subscription-preferences.html) page. For example, you can correct certain of the Personal Information we have about you, you can withdraw consent for or object to certain processing, and you can restrict certain processing.
 
-For any other requests to exercise your GDPR and CCPA privacy rights, please email us at [privacy@veeam.com](mailto:privacy@veeam.com) or send us your request by filling in this [form](https://www.veeam.com/data-privacy-request.html).
+For any other requests to exercise your GDPR and CCPA privacy rights, please email us at [privacy@veeam.com](mailto:privacy@veeam.com) or send us your request by filling in this [form](https://www.veeam.com/legal/data-privacy-request.html).
 
 Note that to protect the security, confidentiality, and integrity of your Personal Information, we may need to verify your identity before processing your request. In some cases we may need to collect additional information to verify your identity, such as a government issued ID.
 
@@ -589,39 +583,39 @@ By subscribing, you are agreeing to receive information about Veeam products and
 
 **Veeam**
 
-[About](https://www.veeam.com/about.html?ad=footer)
+[About](https://www.veeam.com/company/about.html?ad=footer)
 
 [Careers](https://careers.veeam.com/?ad=footer)
 
-[Newsroom](https://www.veeam.com/news.html?ad=footer)
+[Newsroom](https://www.veeam.com/company/press-release.html?ad=footer)
 
-[Contacts](https://www.veeam.com/contacts.html?ad=footer)
+[Contacts](https://www.veeam.com/company/contacts.html?ad=footer)
 
 **Resources and Support**
 
-[Contact Veeam Sales](https://www.veeam.com/salesinc.html?ad=footer)
+[Contact Veeam Sales](https://www.veeam.com/contact-sales.html?ad=footer)
 
-[Renewals](https://www.veeam.com/renewal.html?ad=footer)
+[Renewals](https://www.veeam.com/products/buy/renewal.html?ad=footer)
 
 [Support](https://my.veeam.com/my-cases?ad=footer)
 
 [Blog](https://www.veeam.com/blog/?ad=footer)
 
-[Resource Library](https://www.veeam.com/resource-library.html?ad=footer)
+[Resource Library](https://www.veeam.com/resources.html?ad=footer)
 
-[Technical Documentation](https://www.veeam.com/documentation-guides-datasheets.html?ad=footer)
+[Technical Documentation](https://www.veeam.com/support/help-center-technical-documentation.html?ad=footer)
 
 **Popular Links**
 
-[Veeam Data Platform](https://www.veeam.com/data-protection-platform.html?ad=footer)
+[Veeam Data Platform](https://www.veeam.com/products/veeam-data-platform.html?ad=footer)
 
 [Veeam Data Cloud](https://www.veeam.com/products/veeam-data-cloud.html?ad=footer)
 
-[Backup & Replication](https://www.veeam.com/vm-backup-recovery-replication-software.html?ad=footer)
+[Backup & Replication](https://www.veeam.com/products/veeam-data-platform/backup-recovery.html?ad=footer)
 
-[Microsoft 365](https://www.veeam.com/backup-microsoft-office-365.html?ad=footer)
+[Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=footer)
 
-[Salesforce](https://www.veeam.com/backup-salesforce.html?ad=footer)
+[Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=footer)
 
 [Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=footer)
 
@@ -629,17 +623,17 @@ By subscribing, you are agreeing to receive information about Veeam products and
 
 Please select a language
 
-* [English](https://www.veeam.com/privacy-notice.html)
-* [Deutsch](https://www.veeam.com/de/privacy-notice.html)
-* [Español](https://www.veeam.com/es/privacy-notice.html)
-* [Français](https://www.veeam.com/fr/privacy-notice.html)
-* [Italiano](https://www.veeam.com/it/privacy-notice.html)
-* [Nederlands](https://www.veeam.com/nl/privacy-notice.html)
-* [Polski](https://www.veeam.com/pl/privacy-notice.html)
-* [Português](https://www.veeam.com/pt/privacy-notice.html)
+* [English](https://www.veeam.com/legal/privacy-notice.html)
+* [Deutsch](https://www.veeam.com/de/legal/privacy-notice.html)
+* [Español](https://www.veeam.com/es/legal/privacy-notice.html)
+* [Français](https://www.veeam.com/fr/legal/privacy-notice.html)
+* [Italiano](https://www.veeam.com/it/legal/privacy-notice.html)
+* [Nederlands](https://www.veeam.com/nl/legal/privacy-notice.html)
+* [Polski](https://www.veeam.com/pl/legal/privacy-notice.html)
+* [Português](https://www.veeam.com/pt/legal/privacy-notice.html)
 * [Türkçe](https://www.veeam.com/tr)
-* [日本語](https://www.veeam.com/jp/privacy-notice.html)
-* [中文（简体）](https://www.veeam.com/cn/privacy-notice.html)
+* [日本語](https://www.veeam.com/jp/legal/privacy-notice.html)
+* [中文（简体）](https://www.veeam.com/cn/legal/privacy-notice.html)
 * [한국어](https://www.veeam.com/ko)
 
 ©2024 Veeam® Software | [Privacy Notice](https://www.veeam.com/privacy-notice.html?ad=footer) | [Cookie Notice](https://www.veeam.com/cookie-notice.html?ad=footer) | [EULA](https://www.veeam.com/eula.html?ad=footer) | [Licensing Policy](https://www.veeam.com/licensing-policy.html?ad=footer) | [Supplier Resources](https://www.veeam.com/supplier-resources.html?ad=footer)
