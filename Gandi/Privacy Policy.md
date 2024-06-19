@@ -495,6 +495,7 @@ Consequently, Gandi declines all responsibility concerning the processing of you
 
 * [About Gandi](https://www.gandi.net/en/about-us)
 * [Gandi Supports Alternative Projects](https://www.gandi.net/en/gandi-supports)
+* [Trust Center](https://www.gandi.net/en/trust-center)
 * [No Bullshit](https://www.gandi.net/en/no-bullshit)
 * [News](https://news.gandi.net/en/)
 * [Join Gandi](https://gandi.jobs/)
