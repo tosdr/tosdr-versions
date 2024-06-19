@@ -4,7 +4,7 @@
 
 [Pricing](https://wordable.io/pricing)
 
-[Login](https://app.wordable.io/u/sign_in)[Login](https://app.wordable.io/u/sign_in)[Sign up](https://wordable.io/pricing)
+[Login](https://app.wordable.io/u/sign_in)[Login](https://app.wordable.io/u/sign_in)[Sign up](https://app.wordable.io/subscription/new?plan=13)
 
 Privacy Policy
 ==============
@@ -84,8 +84,7 @@ Save time today by automating your publishing with Wordable
 
 You do the hard work writing your content. Automate your Google Docs to WordPress publishing today.
 
-[Get Started Today  
-at only $29/year](https://wordable.io/pricing)
+[Get Started Today](https://app.wordable.io/subscription/new?plan=13)
 
 30-day Satisfaction Guarantee
 
