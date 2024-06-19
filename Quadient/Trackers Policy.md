@@ -110,13 +110,13 @@ Quadient AR [AR overview](https://www.quadient.com/en/ar-automation) [Credit man
 
 Integrations [All integrations](https://www.quadient.com/en/ar-automation/integrations) [Acumatica](https://www.quadient.com/en/ar-automation/integrations/acumatica) [NetSuite](https://www.quadient.com/en/ar-automation/integrations/netsuite) [Sage ERP's](https://www.quadient.com/en/ar-automation/sage-erps) [Microsoft Dynamics ERP's](https://www.quadient.com/en/ar-automation/microsoft-dynamics-suite-erps) [Quickbooks](https://www.quadient.com/en/ar-automation/integrations/quickbooks-online) [SAP ERP's](https://www.quadient.com/en/ar-automation/sap-erps) [Custom integration](https://www.quadient.com/en/ar-automation/integrations/csv)
 
-AR Resources [AR resources](https://www.quadient.com/en/resources?page=0&filter%5Bfield_resource_types_target_id%5D=All&filter%5Bfield_topics_target_id%5D=%5B779%5D&filter%5Bfield_industries_target_id%5D=All&filter%5Bfield_roles_target_id%5D=All) [Blog](https://www.quadient.com/en/blog/ar-automation) [Events](https://www.quadient.com/en/events/ar-automation) [Customer success](https://www.quadient.com/en/customer-success?filter%5Bfield_resource_types_target_id%5D=%5B281%5D&filter%5Bfield_topics_target_id%5D=%5B779%5D&filter%5Bfield_industries_target_id%5D=All&filter%5Bfield_roles_target_id%5D=All) [ROI calculator](https://www.quadient.com/en/ar-automation/quadient-ar-roi-calculator) [Interactive product tour](https://www.quadient.com/en/accounts-receivable-automation-product-tour)
+AR Resources [AR resources](https://www.quadient.com/en/resources?page=0&filter%5Bfield_resource_types_target_id%5D=All&filter%5Bfield_topics_target_id%5D=%5B779%5D&filter%5Bfield_industries_target_id%5D=All&filter%5Bfield_roles_target_id%5D=All) [Blog](https://www.quadient.com/en/blog/ar-automation) [Events](https://www.quadient.com/en/events/ar-automation) [Case studies](https://www.quadient.com/en/customer-success?filter%5Bfield_resource_types_target_id%5D=%5B281%5D&filter%5Bfield_topics_target_id%5D=%5B779%5D&filter%5Bfield_industries_target_id%5D=All&filter%5Bfield_roles_target_id%5D=All) [Partners](https://www.quadient.com/en/quadient-experience-partner-network) [Additional AR Services](https://www.quadient.com/en/ar-automation/ar-optimization-services) [ROI calculator](https://www.quadient.com/en/ar-automation/quadient-ar-roi-calculator) [Interactive product tour](https://www.quadient.com/en/accounts-receivable-automation-product-tour)
 
 Industries [AdTech](https://www.quadient.com/en/ar-automation/quadient-ar-adtech) [Business Services](https://www.quadient.com/en/ar-automation/business-services) [Manufacturing](https://www.quadient.com/en/ar-automation/quadient-ar-manufacturing) [Staffing](https://www.quadient.com/en/ar-automation-staffing-firms) [Technology](https://www.quadient.com/en/ar-automation/quadient-ar-tech) [Transportation & Logistics](https://www.quadient.com/en/ar-automation-transportation-and-logistics-firms)
 
-Contact us [Partners](https://www.quadient.com/en/quadient-experience-partner-network) [Additional AR Services](https://www.quadient.com/en/ar-automation/ar-optimization-services) [AR pricing](https://www.quadient.com/en/ar-automation/pricing-information) [Contact us](https://www.quadient.com/en/ar-automation/contact-sales)
-
 [Book a Demo](https://www.quadient.com/en/ar-automation/request-demo)
+
+[AR Pricing](https://www.quadient.com/en/ar-automation/pricing-information)
 
 ![YayPay logo](/_nuxt/img/quadient-ar-logo.4695f3e.png "YayPay logo")
 
@@ -138,25 +138,25 @@ Resources
 
 Time to be remarkable and BE MORE](https://www.quadient.com/en/blog/time-be-remarkable-and-be-more)
 
-[![Thumbnail image of the Utilities Playbook, "Seven Ways to Reimagine the Supplier-Customer Relatonship"](https://backend.quadient.com/files/default/2024-05/thumbnail-for-utilities-playbook-en.jpg "Playbook to Reimagine the Utility-Customer Relationship")
+[![e-invoicing infographic](https://backend.quadient.com/files/default/2024-06/infographic_e-invoicing_en.png "e-invoicing infographic")
 
-Seven Ways to Reimagine the Supplier-Customer Dynamic
+E-Invoicing Infographic
 
-Utilities Industry Playbook](https://www.quadient.com/en/resources/seven-ways-reimagine-supplier-customer-dynamic)
+All you need to know!](https://www.quadient.com/en/resources/e-invoicing%C2%A0infographic)
 
 Communications
+
+[![Kaspar Roos, CEO & Founder of Aspire CCS at Quadient Connects](https://backend.quadient.com/files/default/2024-06/thumb-qconnects.png)
+
+Why 2024-2025 is Pivotal to the CCM-to-CXM Evolution
+
+Insights from Aspire's keynote presentation](https://www.quadient.com/en/blog/quadient-connects-why-2024-2025-are-pivotal-ccm-cxm-evolution)
 
 [![Why your outdated CCM system is costing you more than it should](https://backend.quadient.com/files/default/2024-05/expensive_technology_blog_image_-_720_x_480p.jpg)
 
 Why your outdated customer communication management system is costing you more than it should
 
 Part 2 in our blog series "Revolutionizing Legacy Customer Communications."](https://www.quadient.com/en/blog/why-your-outdated-ccm-system-is-costing-you-more-than-it-should)
-
-[![Business hands cusping a sprouting plant](https://backend.quadient.com/files/default/2024-04/event_resource_web-gettyimages-970974210.jpg)
-
-Driving Sustainability with Customer Communications Platforms
-
-Reducing agencies' carbon footprint by enabling a seamless transition to digital](https://www.quadient.com/en/blog/driving-sustainability-customer-communications-platforms)
 
 About Quadient [News](https://www.quadient.com/en/news) Our story [Standard of excellence](https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](https://www.quadient.com/en/about-us/worldwide-presence) [Corporate social responsibility](https://invest.quadient.com/en-US/about-us/corporate-social-responsibility)
 
@@ -200,9 +200,6 @@ What is our basis for processing information about you?
 
 Your rights
 -----------
-
-Your California Consumer Privacy Act (CCPA) rights:
----------------------------------------------------
 
 Where we process your information and what security measures does Quadient Use
 ------------------------------------------------------------------------------
