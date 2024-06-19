@@ -367,88 +367,6 @@ The contact details of our representative in Europe are:
 
 Thanks for using Turo!
 
-Turo
-----
-
-[About](https://turo.com/us/en/about)
-
-[Team](https://turo.com/us/en/meet-the-team)
-
-[Policies](https://turo.com/us/en/policies/terms)
-
-[Careers](https://turo.com/us/en/careers)
-
-[Press](https://turo.com/us/en/press)
-
-[OpenRoad](https://openroad.turo.com/)
-
-[Turo shop](https://turo-shop.myshopify.com/)
-
-Locations
----------
-
-[USA (EN)](https://turo.com/)
-
-[Australia (EN)](https://turo.com/au/en)
-
-[Canada (EN)](https://turo.com/ca/en)
-
-[Canada (FR)](https://turo.com/ca/fr)
-
-[France (FR)](https://turo.com/fr/fr)
-
-[UK (EN)](https://turo.com/gb/en)
-
-Explore
--------
-
-[Book a car](https://turo.com/us/en/car-rental/united-states)
-
-[Weddings](https://turo.com/us/en/car-rental/united-states/weddings)
-
-[Trust & safety](https://turo.com/us/en/car-rental/united-states/trust-and-safety)
-
-[Get help](https://help.turo.com/)
-
-Hosting
--------
-
-[List your car](https://turo.com/us/en/car-rental/united-states/list-your-car)
-
-[Carculator](https://turo.com/us/en/carculator)
-
-[All-Star Hosts](https://turo.com/us/en/all-star-host)
-
-[Host tools](https://turo.com/us/en/car-rental/united-states/host-tools)
-
-[Insurance & protection](https://turo.com/us/en/car-rental/united-states/insurance)
-
-* [Facebook](http://www.facebook.com/turo)
-* [Twitter](http://www.twitter.com/turo)
-* [Instagram](https://instagram.com/turo/)
-* [Youtube](http://www.youtube.com/turo)
-* [Blog](https://turo.com/blog/)
-
-* [App Store](https://itunes.apple.com/app/relayrides/id555063314?mt=8&ls=1)
-* [Google Play](https://play.google.com/store/apps/details?id=com.relayrides.android.relayrides)
-
-Language selector
-
-English
-
-* English
-    
-* English
-    
-* English
-    
-* English
-    
-* Français
-    
-* Français
-    
-
 Vehicle types
 -------------
 
@@ -460,7 +378,7 @@ Vehicle types
 
 [Electric vehicle rental](https://turo.com/us/en/electric-vehicle-rental/united-states)
 
-[Exotic & Luxury car rental](https://turo.com/us/en/exotic-luxury-rental/united-states)
+[Exotic & luxury car rental](https://turo.com/us/en/exotic-luxury-rental/united-states)
 
 [Minivan rental](https://turo.com/us/en/minivan-rental/united-states)
 
@@ -495,8 +413,8 @@ Makes
 
 [Toyota car rental](https://turo.com/us/en/car-rental/united-states/toyota)
 
-Top cities
-----------
+US cities
+---------
 
 [Car rental Atlanta](https://turo.com/us/en/car-rental/united-states/atlanta-ga)
 
@@ -583,6 +501,88 @@ International cities
 [Car rental Toronto](https://turo.com/us/en/car-rental/canada/toronto-on)
 
 [Car rental Vancouver](https://turo.com/us/en/car-rental/canada/vancouver-bc)
+
+Turo
+----
+
+[About](https://turo.com/us/en/about)
+
+[Team](https://turo.com/us/en/meet-the-team)
+
+[Policies](https://turo.com/us/en/policies/terms)
+
+[Careers](https://turo.com/us/en/careers)
+
+[Press](https://turo.com/us/en/press)
+
+[OpenRoad](https://openroad.turo.com/)
+
+[Turo shop](https://turo-shop.myshopify.com/)
+
+Locations
+---------
+
+[USA (EN)](https://turo.com/)
+
+[Australia (EN)](https://turo.com/au/en)
+
+[Canada (EN)](https://turo.com/ca/en)
+
+[Canada (FR)](https://turo.com/ca/fr)
+
+[France (FR)](https://turo.com/fr/fr)
+
+[UK (EN)](https://turo.com/gb/en)
+
+Explore
+-------
+
+[Book a car](https://turo.com/us/en/car-rental/united-states)
+
+[Weddings](https://turo.com/us/en/car-rental/united-states/weddings)
+
+[Trust & safety](https://turo.com/us/en/car-rental/united-states/trust-and-safety)
+
+[Get help](https://help.turo.com/)
+
+Hosting
+-------
+
+[List your car](https://turo.com/us/en/car-rental/united-states/list-your-car)
+
+[Carculator](https://turo.com/us/en/carculator)
+
+[All-Star Hosts](https://turo.com/us/en/all-star-host)
+
+[Host tools](https://turo.com/us/en/car-rental/united-states/host-tools)
+
+[Insurance & protection](https://turo.com/us/en/car-rental/united-states/insurance)
+
+* [Facebook](https://www.facebook.com/turo)
+* [Twitter](https://www.twitter.com/turo)
+* [Instagram](https://instagram.com/turo/)
+* [Youtube](https://www.youtube.com/turo)
+* [Blog](https://turo.com/blog/)
+
+* [App Store](https://itunes.apple.com/app/relayrides/id555063314?mt=8&ls=1)
+* [Google Play](https://play.google.com/store/apps/details?id=com.relayrides.android.relayrides)
+
+Language selector
+
+English
+
+* English
+    
+* English
+    
+* English
+    
+* English
+    
+* Français
+    
+* Français
+    
 
 * ©2024 Turo
 * [Terms](https://turo.com/us/en/policies/terms)
