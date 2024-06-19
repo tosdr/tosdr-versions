@@ -314,17 +314,28 @@ N8 7RF
 
 ### Latest Tweets
 
-[May 4, 2024](https://twitter.com/veemaedu/status/1786723952708006090)
+[June 10, 2024](https://twitter.com/veemaedu/status/1800129444902039997)
 
-[](https://twitter.com/veemaedu/status/1786723952708006090)
+[](https://twitter.com/veemaedu/status/1800129444902039997)
 
-[Wishing a Happy Orthodox Easter to all celebrating this weekend! Enjoy the time with your loved](https://twitter.com/veemaedu/status/1786723952708006090) [...](#)ones from all of us at Veema Education.  
+[Don't miss out on tomorrow's webinar! There's still time to register and learn something new. Sign](https://twitter.com/veemaedu/status/1800129444902039997) [...](#)up below 👇🏻.
+
+[June 9, 2024](https://twitter.com/veemaedu/status/1799742734787575852)
+
+[](https://twitter.com/veemaedu/status/1799742734787575852)
+
+[#HappySunday! Our final #CPD webinars of the academic year are coming up in the following weeks.](https://twitter.com/veemaedu/status/1799742734787575852) [...](#)Time flies!  
   
-#OrthodoxEaster #orthodoxchristians #familyfun
-
-[March 31, 2024](https://twitter.com/veemaedu/status/1774325372730978308)
-
-[Happy Easter to everyone celebrating today! 🐰 #Easter #HappyEaster #PeaceAndLove](https://twitter.com/veemaedu/status/1774325372730978308)
+If you'd like to join us, follow the link below.  
+  
+https://veema.co.uk/forthcoming-events/  
+  
+#internationalschools  
+#COBIS  
+#BSME  
+#FOBISIA  
+  
+Have a great week! Team Veema.
 
 © Copyright 2022 by Veema Limited. Company Registration No. 07799937. All Rights Reserved.
 
@@ -471,6 +482,6 @@ By following our newsfeed, you submit the information you have provided to us. W
 
 ×
 
-                                                         
+                                                          
 
 ![](https://px.ads.linkedin.com/collect/?pid=4804025&fmt=gif)
