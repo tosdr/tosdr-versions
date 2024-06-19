@@ -725,12 +725,12 @@ Freizeit
 Alle Magazine des SPIEGEL
 
 *  [![Cover: DER SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)DER SPIEGEL](https://www.spiegel.de/spiegel/print/index-2024.html "DER SPIEGEL")
+*  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
 *  [![Cover: SPIEGEL SPEZIAL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2024-54.html "SPIEGEL SPEZIAL")
 *  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
 *  [![Cover: SPIEGEL WISSEN](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
 *  [![Cover: SPIEGEL COACHING](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0CRKN547S?tag=spiegel1-21 "SPIEGEL COACHING")
 *  [![Cover: Dein SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 175' width='136' height='175' %3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
-*  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
 *  [![Cover: S-Magazin](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 198' width='136' height='198' %3E%3C/svg%3E)S-Magazin](https://www.spiegel.de/spiegel/spsm/index-2023.html "S-Magazin")
 *  [![Cover: SPIEGEL CHRONIK](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL CHRONIK](https://www.spiegel.de/spiegel/spjc/index-2023-1.html "SPIEGEL CHRONIK")
 
@@ -857,15 +857,6 @@ SPIEGEL Gruppe
 * [Backstage](https://www.spiegel.de/backstage/ "Backstage")
 * [Themen](https://www.spiegel.de/thema/index-a/ "Themen")
 * [Vorteile mit S+](https://www.spiegel.de/thema/abovorteile/ "Vorteile mit S+")
-
-* [Spiele](https://spiele.spiegel.de/ "Spiele") Menü Spiele aufklappen
-    * [Das tägliche Quiz](https://www.spiegel.de/panorama/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c "Das tägliche Quiz")
-    * [Kreuzworträtsel](https://spiele.spiegel.de/kreuzwortraetsel/?utm_campaign=kreuzwortraetsel&utm_medium=navigation_link&utm_source=spiegel_de "Kreuzworträtsel")
-    * [Solitär](https://spiele.spiegel.de/solitaer/?utm_campaign=solitaer&utm_medium=navigation_link&utm_source=spiegel_de "Solitär")
-    * [Sudoku](https://spiele.spiegel.de/sudoku/?utm_campaign=sudoku&utm_medium=navigation_link&utm_source=spiegel_de "Sudoku")
-    * [Mahjong](https://spiele.spiegel.de/mahjong/?utm_campaign=mahjong&utm_medium=navigation_link&utm_source=spiegel_de "Mahjong")
-    * [Snake](https://spiele.spiegel.de/snake/?utm_campaign=snake&utm_medium=navigation_link&utm_source=spiegel_de "Snake")
-    * [Jackpot](https://spiele.spiegel.de/jackpot-spiele/?utm_campaign=jackpot&utm_medium=navigation_link&utm_source=spiegel_de "Jackpot")
 
 * [SPIEGEL-Heft](https://www.spiegel.de/spiegel/print/ "SPIEGEL-Heft") Menü SPIEGEL-Heft aufklappen
     * [Heftarchiv](https://www.spiegel.de/spiegel/print/ "Heftarchiv")
