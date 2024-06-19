@@ -23,7 +23,7 @@
     * [Entertainment](https://www.travelsouthdakota.com/things-to-do/entertainment)
     * [Outdoor Activities](https://www.travelsouthdakota.com/things-to-do/outdoor-activities)
     * [Shopping](https://www.travelsouthdakota.com/things-to-do/shopping)
-    * [Trip Ideas](https://www.travelsouthdakota.com/trip-ideas/road-journal/foodie-road-trip-watertown-sioux-falls)
+    * [Trip Ideas](https://www.travelsouthdakota.com/trip-ideas)
     
 * Places to Go
     
