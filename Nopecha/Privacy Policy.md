@@ -1,9 +1,35 @@
+NopeCHAToggle navigationGitHubDiscordChromeFireFoxEdgePythonNode.jsNode.jsPython fileJavaScript fileSign inSign outCheckLight themeDark themeAuto themeSubscriptionsBillingActivityProfileCoinbase commerceStripePayPalCredit cardPlusEditCollapseExpandLinkCopyListPackageSearch
+
 [NopeCHA](https://nopecha.com/)
 
-* [Home](https://nopecha.com/)
-* [Developers](https://developers.nopecha.com/)
+##### NopeCHA
+
+* * *
+
+* [NopeCHA](https://nopecha.com/)
+* [Docs](https://nopecha.com/docs)
 * [Pricing](https://nopecha.com/pricing)
-* Sign in
+* Download
+    * [Chrome Web Store](https://nopecha.com/chrome)
+    * [Firefox Add-ons](https://nopecha.com/firefox)
+    * [GitHub Releases](https://nopecha.com/github/release)
+    
+    * [Python SDK](https://nopecha.com/pypi)
+    * [JavaScript SDK](https://nopecha.com/npm)
+
+* * *
+
+* [GitHub](https://nopecha.com/github)
+* [Discord](https://nopecha.com/discord)
+* * * *
+    
+* Toggle theme
+    * Light
+    * Dark
+    * Auto
+* * * *
+    
+* [Sign in](#)
 
 Privacy Policy
 ==============
@@ -711,11 +737,64 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By email: [\[email protected\]](https://nopecha.com/cdn-cgi/l/email-protection)
 
-© 2024 NopeCHA LLC
+Contact
 
-* [API Documentation](https://developers.nopecha.com/)
-* [Contact Us](https://nopecha.com/discord)
-* [GitHub](https://nopecha.com/github)
-* [Demo](https://nopecha.com/demo)
+* [\[email protected\]](https://nopecha.com/cdn-cgi/l/email-protection)
+
+Socials
+
+* [](https://nopecha.com/github "GitHub")
+* [](https://nopecha.com/discord "Discord")
+
+Downloads
+
+* [Chrome Web Store](https://nopecha.com/chrome)
+* [Firefox Add-ons](https://nopecha.com/firefox)
+* [GitHub Release](https://nopecha.com/github/release)
+
+Links
+
+* [Home](https://nopecha.com/)
+* [Docs](https://nopecha.com/docs)
+* [Pricing](https://nopecha.com/pricing)
+* [CAPTCHA Examples](https://nopecha.com/demo)
+* [My Subscriptions](https://nopecha.com/manage)
+* [Manage Billing](https://nopecha.com/billing)
+* [Activity Monitor](https://nopecha.com/monitor)
+
+Guides
+
+* [Supported CAPTCHAs](https://nopecha.com/docs/captcha/)
+* [Installation](https://nopecha.com/docs/installation/)
+* [Getting Started](https://nopecha.com/docs/getting_started)
+* [Recognition API](https://nopecha.com/docs/recognition/)
+* [Token API](https://nopecha.com/docs/token/)
+* [Extracting CAPTCHAs](https://nopecha.com/docs/formatting/image/)
+* [Using Proxies](https://nopecha.com/docs/formatting/proxy/)
+
+Projects
+
+* [Browser Extension](https://nopecha.com/github/extension)
+* [Python Library](https://nopecha.com/github/python)
+* [Node.js Library](https://nopecha.com/github/nodejs)
+* [Steam Account Generator](https://sage.party/)
+
+Community
+
+* [Issues](https://nopecha.com/github/issues)
+* [Discussions](https://nopecha.com/github/discussions)
+* [Discord](https://nopecha.com/discord)
+
 * [Privacy Policy](https://nopecha.com/privacy)
 * [Terms of Service](https://nopecha.com/terms)
+
+NopeCHA, LLC. © 2022-2024
+
+Supported secure payments
+
+* ![PayPal](/image/payment/paypal/yellow.png)
+* ![Visa](/image/payment/dark/visa.png)
+* ![Mastercard](/image/payment/dark/mastercard.png)
+* ![American Express](/image/payment/dark/amex.png)
+* ![Discover](/image/payment/dark/discover.png)
+* ![Crypto](/image/payment/crypto/btc.png)
