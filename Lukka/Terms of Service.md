@@ -197,7 +197,7 @@ Menu
 * [Contact Us](https://lukka.tech/contact-us/)
 
 Terms Of Use
-------------
+============
 
 [Home](https://lukka.tech/) › Terms of Use
 
