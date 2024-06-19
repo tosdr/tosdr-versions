@@ -25,7 +25,7 @@ Global (EN)
     * [Mobile Testing](https://test.io/services/mobile-testing)
     * [Streaming & OTT Testing](https://test.io/services/streaming-and-ott-testing)
     * [IoT Connected Device Testing](https://test.io/services/iot-connected-device-testing)
-    * [Real Payment Testing](https://test.io/services/real-credit-card-payment-testing)
+    * [Payments Testing](https://test.io/services/payments-testing)
     * [Web Application Testing](https://test.io/services/web-application-testing)
 * For Your Industry
     * [Retail & Ecommerce](https://test.io/industries/quality-for-retail-and-ecommerce)
@@ -72,7 +72,7 @@ Global (EN)
     * [Streaming & OTT Testing](https://test.io/services/streaming-and-ott-testing)
     
     * [IoT Connected Device Testing](https://test.io/services/iot-connected-device-testing)
-    * [Real Payment Testing](https://test.io/services/real-credit-card-payment-testing)
+    * [Payments Testing](https://test.io/services/payments-testing)
     * [Web Application Testing](https://test.io/services/web-application-testing)
     
 * For Your Industry Expand: For Your Industry
