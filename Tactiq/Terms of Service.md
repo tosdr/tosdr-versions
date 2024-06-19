@@ -1,50 +1,4 @@
- 
-
-[![](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/65b1f7d21718190360e96ebb_Tactiq-logo.svg)](https://tactiq.io/)
-
-[Log in](https://app.tactiq.io/#/signin)
-
-Solutions
-
-![Dropdown Arrow](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/6542b6f8b7a1ffc9298c9aff_Frame%2062.svg)
-
-[ChatGPT summary](https://tactiq.io/solutions/summarize-meetings-with-chatgpt)[Transcribe Meetings](https://tactiq.io/transcribe)[Transcribe Zoom](https://tactiq.io/solutions/transcribe-zoom)[Transcribe MS Teams](https://tactiq.io/solutions/transcribe-ms-teams)[Speech-to-text](https://tactiq.io/solutions/speech-to-text)[Team meetings](https://tactiq.io/solutions/team-meetings)[Customer meetings](https://tactiq.io/solutions/customer-meetings)
-
-For Teams
-
-[Spaces for teams](https://tactiq.io/team-spaces)
-
-[Product Management](https://tactiq.io/roles/transcripts-for-product-managers)
-
-[Project Management](https://tactiq.io/roles/transcripts-for-project-managers)
-
-[Solopreneurs](https://tactiq.io/roles/transcripts-for-solopreneurs)
-
-[Entrepreneurs](https://tactiq.io/roles/transcripts-for-entrepreneurs)
-
-[Sales](https://tactiq.io/roles/transcripts-for-sales)
-
-[Marketing](https://tactiq.io/roles/transcripts-for-marketing)
-
-[Design](https://tactiq.io/roles/transcripts-for-designers)
-
-[Engineering](https://tactiq.io/roles/transcripts-for-engineering)
-
-[Recruitment](https://tactiq.io/roles/transcripts-for-recruiters)
-
-[Pricing](https://tactiq.io/buy)
-
-Resources
-
-![Dropdown Arrow](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/6542b6f8b7a1ffc9298c9aff_Frame%2062.svg)
-
-[GPT4 Note Taker](https://tactiq.io/ai-tools/gpt4-note-taker)[AI Note Taker](https://tactiq.io/ai-tools/ai-note-taker)[Integrations](https://tactiq.io/integrations)[YouTube Transcript](https://tactiq.io/tools/youtube-transcript)[Learn](https://tactiq.io/learn)[Partner with us](https://tactiq.typeform.com/to/c8dthmnl)[Contact Us](https://tactiq.typeform.com/to/i3D77b)[Help Center](https://help.tactiq.io/)
-
-[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)
-
-[Log in](https://app.tactiq.io/#/signin)[Get started](https://tactiq.io/chrome)
-
-![](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/61120cb2509e01a520f0b22a_icon-menu.svg)
+      
 
 [![](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/65b1f7d21718190360e96ebb_Tactiq-logo.svg)](https://tactiq.io/)
 
@@ -245,11 +199,15 @@ The use of the Services is done at your own discretion and risk and with the agr
 
 ###### Resources  
 
-[Learn](https://tactiq.io/learn)[Help Center](https://help.tactiq.io/)[Partner with us](https://tactiq.typeform.com/to/c8dthmnl)[Contact Us](https://tactiq.typeform.com/to/i3D77b)[Careers (Hiring)](https://tactiq.io/careers-unsolicited-application)[Trust Center](https://trust.tactiq.io/)[Privacy Center](https://tactiq.io/privacy/privacy-center)[Privacy Policy](https://tactiq.io/privacy/privacy)[Terms of use](https://tactiq.io/privacy/terms)
+[Learn](https://tactiq.io/learn)[Help Center](https://help.tactiq.io/)[System Status](https://status.tactiq.io/)[Changelog](https://tactiq.io/changelog)[Book a demo](https://tactiq.typeform.com/to/qK3e5WMK)[Partner with us](https://tactiq.typeform.com/to/c8dthmnl)[Contact Us](https://tactiq.typeform.com/to/i3D77b)[Careers (Hiring)](https://tactiq.io/careers-unsolicited-application)[Trust Center](https://trust.tactiq.io/)[Privacy Center](https://tactiq.io/privacy/privacy-center)[Privacy Policy](https://tactiq.io/privacy/privacy)[Terms of use](https://tactiq.io/privacy/terms)
 
 ###### Downloads  
 
 [Chrome Extension](https://chrome.google.com/webstore/detail/tactiq-for-google-meet-tr/fggkaccpbmombhnjkjokndojfgagejfb)[Workspace Marketplace](https://workspace.google.com/marketplace/app/tactiqio/399035273123)[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tactiq-for-google-meet-tr/ldihbakgcndcoojkibjniljbadkanaic)
+
+###### Discover  
+
+[AI Tools](https://tactiq.io/ai-tools)[Translate](https://tactiq.io/translate)[Transcribe](https://tactiq.io/transcribe)
 
 ###### Useful  
 
