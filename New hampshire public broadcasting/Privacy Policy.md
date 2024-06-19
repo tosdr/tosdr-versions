@@ -184,21 +184,21 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**full episode, 6/7/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-6724-viydbr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**As temperatures rise, more schools struggle to beat the heat** | PBS NewsHour](https://video.nhpbs.org/video/extreme-heat-1717879081?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Exploding soda cans with electromagnets in SLOW MOTION ft Joe Hanson** | Physics Girl](https://video.nhpbs.org/video/exploding-soda-cans-with-electromagnets-in-slow-motion-ft-joe-hanson-5nl5hb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Proud to Be Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-proud-to-be-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**State House Update - 6/5/24** | The State We're In](https://video.nhpbs.org/video/state-house-update-6524-m0hnp1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**June 7, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-7-2024-xyxcnj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**forum: Examining The Electoral College** | Firing Line](https://video.nhpbs.org/video/firing-line-forum-examining-the-electoral-college-q4hcxo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**La Lucha Trailer** | Doc World](https://video.nhpbs.org/video/doc-world-la-lucha-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**at the Met: Carmen Preview** | Great Performances](https://video.nhpbs.org/video/great-performances-at-the-met-carmen-preview-fjwqzv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Jeff Foxworthy on how every American might be a "redneck"** | American Masters](https://video.nhpbs.org/video/jeff-foxworthy-on-how-every-american-might-be-a-redneck-ovhijp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 2 Preview** | Grantchester](https://video.nhpbs.org/video/episode-2-preview-movjwt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Lise Davidsen in "La Forza del Destino"** | Great Performances](https://video.nhpbs.org/video/lise-davidsen-in-la-forza-del-destino-cfkesc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Book details how GOP targeted race, identity in classrooms** | PBS News Hour](https://video.nhpbs.org/video/they-came-for-the-schools-1718654251?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"Queenie" Author and Executive Producer on Creating the "Black Bridget Jones"** | Amanpour and Company](https://video.nhpbs.org/video/queenie-author-and-executive-producer-on-creating-the-black-bridget-jones-3ybcjz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Adventure Ahead** | Stories from the Stage](https://video.nhpbs.org/video/adventure-ahead-sm6tnu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**A Father's Day story of one dad's influence on his son** | PBS NewsHour](https://video.nhpbs.org/video/father-s-day-1718567453?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 2** | Classical Tahoe](https://video.nhpbs.org/video/episode-2-kggca1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Granite State Homelessness** | The State We're In](https://video.nhpbs.org/video/granite-state-homelessness-1orody?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
 © 2024 New Hampshire Public Broadcasting
 
- [![PBS](/images/footer_pbs_logo.png) PBS](http://pbs.org/)      [![Corporation for Public Broadcasting ](/images/footer_cpb_logo.png) CPB](http://cpb.org/)
+[![PBS](/images/footer_pbs_logo_blue_sm.png)](http://pbs.org/)      [![Corporation for Public Broadcasting ](/images/footer_cpb_logo.png) CPB](http://cpb.org/)
 
 * [Pressroom](https://nhpbs.org/pressroom/)
 * [About us](https://nhpbs.org/about/)
