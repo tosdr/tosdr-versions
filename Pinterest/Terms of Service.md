@@ -1,6 +1,6 @@
 [](https://policy.pinterest.com/en)[Policy](https://policy.pinterest.com/en)
 
-[Terms](https://policy.pinterest.com/en/terms-of-service)[Privacy](https://policy.pinterest.com/en/privacy-policy)[Community](https://policy.pinterest.com/en/community-guidelines)[Merchant](https://policy.pinterest.com/en/merchant-guidelines)[Advertising](https://policy.pinterest.com/en/advertising-guidelines)[Developers](https://policy.pinterest.com/en/developer-guidelines)[Copyright](https://policy.pinterest.com/en/copyright)[Trademark](https://policy.pinterest.com/en/trademark)[Enforcement](https://policy.pinterest.com/en/enforcement)[Transparency](https://policy.pinterest.com/en/transparency)
+[Terms](https://policy.pinterest.com/en/terms-of-service)[Privacy](https://policy.pinterest.com/en/privacy-policy)[Community](https://policy.pinterest.com/en/community-guidelines)[Merchant](https://policy.pinterest.com/en/merchant-guidelines)[Advertising](https://policy.pinterest.com/en/advertising-guidelines)[Developers](https://policy.pinterest.com/en/developer-guidelines)[Copyright](https://policy.pinterest.com/en/copyright)[Trademark](https://policy.pinterest.com/en/trademark)[Enforcement](https://policy.pinterest.com/en/enforcement)[Transparency](https://policy.pinterest.com/en/transparency)[Call Recordings](https://policy.pinterest.com/en/information-about-call-recordings)
 
 Terms of Service
 
