@@ -28,9 +28,6 @@ Products
         ### For developers
         
     
-    Consumer services
-    -----------------
-    
     Need help choosing?
     -------------------
     
@@ -43,9 +40,6 @@ Pricing
 * Our plans & pricing
     -------------------
     
-    Enterprise plan
-    ---------------
-    
     Compare all plans
     -----------------
     
@@ -53,54 +47,6 @@ Pricing
     -------------------
     
 * [View FAQs](https://www.cloudflare.com/plans/faq/)
-* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
-
-Resources
-=========
-
-* Library
-    -------
-    
-    Documentation
-    -------------
-    
-    * ### Getting Started
-        
-        ### Application Security
-        
-        ### Application Services
-        
-        ### Zero Trust Services
-        
-        ### Developer Platform
-        
-        ### Network Services
-        
-        ### Insights
-        
-        ### API
-        
-        ### AI
-        
-    
-    Learning
-    --------
-    
-    Trends & insights
-    -----------------
-    
-    Blog
-    ----
-    
-    Cloudflare TV
-    -------------
-    
-    Community forum
-    ---------------
-    
-    Get help
-    --------
-    
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Partners
@@ -111,9 +57,6 @@ Partners
     
     Technology partners
     -------------------
-    
-    Peering portal
-    --------------
     
     Cloudflare Agency Program
     -------------------------
@@ -131,15 +74,12 @@ Why Cloudflare
         ### Comparisons
         
     
-    Why trust Cloudflare
-    --------------------
-    
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
-Free sign up
-============
+Sign up
+=======
 
-* [Free sign up](https://www.cloudflare.com/plans/)
+* [Sign up](https://www.cloudflare.com/plans/)
 
 Under attack?
 =============
@@ -174,23 +114,23 @@ Support
 
 [Log in](https://dash.cloudflare.com/login/?lang=en-US)
 
-SolutionsProductsPricingResourcesPartnersWhy Cloudflare
+SolutionsProductsPricingPartnersWhy Cloudflare
 
 Support
 
-[Free sign up](https://www.cloudflare.com/plans/)
+[Sign up](https://www.cloudflare.com/plans/)
 
-[Free sign up](https://www.cloudflare.com/plans/)[Under attack?](https://www.cloudflare.com/under-attack-hotline/)[Log in](https://dash.cloudflare.com/login?lang=en-US)
+[Sign up](https://www.cloudflare.com/plans/)[Under attack?](https://www.cloudflare.com/under-attack-hotline/)[Log in](https://dash.cloudflare.com/login?lang=en-US)
 
 [](https://www.cloudflare.com/)
 
 [Log in](https://dash.cloudflare.com/login/?lang=en-US)
 
-SolutionsProductsPricingResourcesPartnersWhy Cloudflare
+SolutionsProductsPricingPartnersWhy Cloudflare
 
 Support
 
-[Free sign up](https://www.cloudflare.com/plans/)
+[Sign up](https://www.cloudflare.com/plans/)
 
 Legal
 -----
