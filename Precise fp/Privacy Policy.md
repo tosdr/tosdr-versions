@@ -1,4 +1,4 @@
-      Privacy Policy                                                                           
+      Privacy Policy                                                                            
 
 [![](https://precisefp.com/wp-content/themes/pfp/img/logo-header.svg)](https://precisefp.com/)
 
@@ -76,10 +76,9 @@ _May 24th, 2018_
 #### About Us
 
 * [Our Story](https://precisefp.com/our-story/)
-* [Meet the Team](https://precisefp.com/meet-the-team/)
 * [News and Events](https://precisefp.com/media/)
 * [Our Blog](https://precisefp.com/blog/)
-* [Jobs](https://www.docupace.com/career)
+* [Careers](https://www.docupace.com/careers)
 
 #### Product
 
@@ -136,6 +135,33 @@ Accept Deny View preferences Save preferences [View preferences](#)
 [{title}](#) [{title}](#) [{title}](#)
 
 Manage consent
+
+#### THE PRECISEFP BLOG
+
+Ideas You Can Use
+=================
+
+Stay updated with the latest insights, tips, and best practices for financial advisors on the PreciseFP blog.
+
+[Learn More](https://precisefp.com/blog/)
+
+[![](https://precisefp.com/wp-content/uploads/2024/06/35.png)](https://precisefp.com/blog/tech-talk-better-client-experiences-start-here/)
+
+[![](https://precisefp.com/wp-content/uploads/2024/06/37.png)](https://precisefp.com/blog/take-back-your-time-precisefp-integrations-to-consider/)
+
+[![](https://precisefp.com/wp-content/uploads/2024/06/36.png)](https://precisefp.com/blog/how-to-find-the-perfect-client-for-your-firm/)
+
+##### [Tech Talk: Better Client Experiences Start Here](https://precisefp.com/blog/tech-talk-better-client-experiences-start-here/)
+
+[Read More >>](https://precisefp.com/blog/tech-talk-better-client-experiences-start-here/)
+
+##### [Take Back Your Time: PreciseFP Integrations to Consider](https://precisefp.com/blog/take-back-your-time-precisefp-integrations-to-consider/)
+
+[Read More >>](https://precisefp.com/blog/take-back-your-time-precisefp-integrations-to-consider/)
+
+##### [How to Find the Perfect Client for Your Firm](https://precisefp.com/blog/how-to-find-the-perfect-client-for-your-firm/)
+
+[Read More >>](https://precisefp.com/blog/how-to-find-the-perfect-client-for-your-firm/)
 
 [![](https://precisefp.com/wp-content/uploads/2024/05/whitepaper-pop-up-risk-tolerance.png)](https://precisefp.com/risk-tolerance-aligning-online-responses-with-face-to-face-assessments/)
 
