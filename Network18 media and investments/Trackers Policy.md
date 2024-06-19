@@ -21,22 +21,11 @@ CHANGE LANGUAGE
 
 [![](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/election_logo_115x55.svg)](https://www.news18.com/elections/)
 
-### TYRE PARTNER
-
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/04/94x40_white-2024-04-332255f7a8f7b2e5e8e415a01375f652.png)](http://pubads.g.doubleclick.net/gampad/clk?id=6712208762&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_apollo_clk_tracker)
-    
-
 ### ASSOCIATE PARTNER
 
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-056c4e7060b82486946f4246c8a48372.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6717296795&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_hmsi_clk_tracker)
-    
 * [![sponser](https://images.news18.com/ibnlive/uploads/2024/04/94x40-2024-04-7f54c9f97d5472ded2a234cbcfb0bb0a.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6713223814&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/NW18_ENG_ULTRATECH_CLK_TRACKER)
     
 * [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/vimal_thumbnail_94x40-border-2024-05-a8fb5539ede8d2d744dd8995ecfda1ae.png)](http://pubads.g.doubleclick.net/gampad/clk?id=6713513682&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/NW18_ENG_VIMAL_CLK_TRACKER)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-c8063251019a3a38256be5525fa2d1e3.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6719494299&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_tvs_clk_tracker)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-64f981f5714ac3530d5585d57148c1e2.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6730938400&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_adityabirla_clk_tracker)
     
 * [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-1f369182e0879caa9a21ed943ff52395.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6732968052&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_tata_motors_clk_tracker)
     
@@ -45,38 +34,38 @@ CHANGE LANGUAGE
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
-* [Showsha](https://www.news18.com/entertainment/)
-* [Politics](https://www.news18.com/politics/)
-* [World](https://www.news18.com/world/)
-* [Viral](https://www.news18.com/viral/)
-* [Business](https://www.news18.com/business/)
-* [Opinion](https://www.news18.com/opinion/)
-* [Education](https://www.news18.com/education-career/)
+* [Cricket](https://www.news18.com/cricket/)
 * [Web Stories](https://www.news18.com/web-stories/)
+* [Lifestyle](https://www.news18.com/lifestyle/)
+* [Viral](https://www.news18.com/viral/)
+* [World](https://www.news18.com/world/)
 * [Videos](https://www.news18.com/videos/)
+* [Business](https://www.news18.com/business/)
+* [Education](https://www.news18.com/education-career/)
+* [Politics](https://www.news18.com/politics/)
+* [Opinion](https://www.news18.com/opinion/)
 
 * 
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
-* [Showsha](https://www.news18.com/entertainment/)
-* [Politics](https://www.news18.com/politics/)
-* [World](https://www.news18.com/world/)
-* [Viral](https://www.news18.com/viral/)
-* [Business](https://www.news18.com/business/)
-* [Opinion](https://www.news18.com/opinion/)
-* [Education](https://www.news18.com/education-career/)
+* [Cricket](https://www.news18.com/cricket/)
 * [Web Stories](https://www.news18.com/web-stories/)
+* [Lifestyle](https://www.news18.com/lifestyle/)
+* [Viral](https://www.news18.com/viral/)
+* [World](https://www.news18.com/world/)
 * [Videos](https://www.news18.com/videos/)
-* [Photos](https://www.news18.com/photogallery/)
+* [Business](https://www.news18.com/business/)
+* [Education](https://www.news18.com/education-career/)
+* [Politics](https://www.news18.com/politics/)
+* [Opinion](https://www.news18.com/opinion/)
 * [Explainers](https://www.news18.com/explainers/)
+* [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
 * [Auto](https://www.news18.com/auto/)
-* [Lifestyle](https://www.news18.com/lifestyle/)
+* [Podcast](https://www.news18.com/podcast/)
 * [Health](https://www.news18.com/lifestyle/health-and-fitness/)
 * [Travel](https://www.news18.com/lifestyle/travel/)
 * [Food](https://www.news18.com/lifestyle/food/)
@@ -86,26 +75,30 @@ CHANGE LANGUAGE
 * [Savings and Investments](https://www.news18.com/business/savings-and-investments/)
 * [Breaking News](https://www.news18.com/breaking-news/)
 * [City News](https://www.news18.com/cities/)
-* [Power Circuit](https://www.news18.com/political-gossip-whispers/)
 * [Elections](https://www.news18.com/elections/)
-* [Astrology](https://www.news18.com/astrology/)
+* [Power Circuit](https://www.news18.com/political-gossip-whispers/)
 * [Viral](https://www.news18.com/viral/)
 * [Bollywood](https://www.news18.com/entertainment/bollywood/)
 * [Regional Cinema](https://www.news18.com/entertainment/regional-cinema/)
 * [Television](https://www.news18.com/entertainment/television/)
 * [Web Series](https://www.news18.com/entertainment/web-series/)
+* [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 
-[Latest](https://www.news18.com/news/)[Election Results](https://www.news18.com/elections/lok-sabha/) [Key Candidates](https://www.news18.com/elections/lok-sabha/lok-sabha-election-result-key-candidates-performance/)[Winning Candidates](https://www.news18.com/elections/lok-sabha/all-winner-list/)[TN Election Results](https://www.news18.com/elections/tamil-nadu/lok-sabha-election-synopsis/)[Odisha Election Results](https://www.news18.com/elections/odisha/lok-sabha-election-synopsis/)[AP Election Results](https://www.news18.com/elections/analytics-center/?v=map&s=AP&t=AS&)[T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)[#VoteSolidDeshSolid](https://www.news18features.com/votekavachan/)
+[Latest](https://www.news18.com/news/)[T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)[Podcast](https://www.news18.com/podcast/)[Showsha](https://www.news18.com/entertainment/)[Board Exam Results](https://www.news18.com/india-result/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Cities](https://www.news18.com/cities/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)[#VoteSolidDeshSolid](https://www.news18features.com/votekavachan/)
 
 * [Latest](https://www.news18.com/news/)
-* [Election Results](https://www.news18.com/elections/lok-sabha/)
-* [Key Candidates](https://www.news18.com/elections/lok-sabha/lok-sabha-election-result-key-candidates-performance/)
-* [Winning Candidates](https://www.news18.com/elections/lok-sabha/all-winner-list/)
-* [TN Election Results](https://www.news18.com/elections/tamil-nadu/lok-sabha-election-synopsis/)
-* [Odisha Election Results](https://www.news18.com/elections/odisha/lok-sabha-election-synopsis/)
-* [AP Election Results](https://www.news18.com/elections/analytics-center/?v=map&s=AP&t=AS&)
 * [T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)
+* [Podcast](https://www.news18.com/podcast/)
+* [Showsha](https://www.news18.com/entertainment/)
+* [Board Exam Results](https://www.news18.com/india-result/)
+* [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
+* [Cities](https://www.news18.com/cities/)
+* [Explainers](https://www.news18.com/explainers/)
+* [Sports](https://www.news18.com/sports/)
+* [Tech](https://www.news18.com/tech/)
+* [Auto](https://www.news18.com/auto/)
+* [Photos](https://www.news18.com/photogallery/)
 * [#VoteSolidDeshSolid](https://www.news18features.com/votekavachan/)
 
 [](#)
