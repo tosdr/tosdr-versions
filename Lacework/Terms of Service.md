@@ -99,7 +99,7 @@
     
 
 * [Login](https://login.lacework.net/)
-* [Watch Demo](https://go.lacework.com/demo/?utm_source=website&utm_medium=referral&utm_campaign=siteHeader)
+* [Watch Demo](https://www.lacework.com/demo-center/)
 * [Login](https://login.lacework.net/)
 
 Terms of Use
