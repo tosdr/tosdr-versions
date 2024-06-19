@@ -53,10 +53,6 @@ Free Consultations  |  Phones Answered 24/7
 
 [![Pendergast Law Personal Injury Lawyers](/wp-content/uploads/sites/1403957/2022/04/Pendergast-Law-personal-injury-lawyers-logo.png)](https://www.hardwickpendergast.com/)
 
-Free Consultations  |  Phones Answered 24/7
-
-[888-539-9211](tel:+1-888-539-9211)
-
 * [Home](https://www.hardwickpendergast.com/)
 * [About](https://www.hardwickpendergast.com/about/)
     * [Our Personal Injury Lawyers](https://www.hardwickpendergast.com/about/legal-team/)
@@ -99,7 +95,9 @@ Free Consultations  |  Phones Answered 24/7
     * [Case Referrals](https://www.hardwickpendergast.com/professional-referrals/)
 * [SE HABLA ESPAÑOL](https://www.hardwickpendergast.com/es/)
 
-[Se habla español](https://www.hardwickpendergast.com/es/)
+[](https://www.hardwickpendergast.com/search/)
+
+[](tel:+1-888-539-9211)
 
 Committed to helping you _heal_ while we recover.
 
