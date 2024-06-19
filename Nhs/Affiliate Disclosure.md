@@ -81,7 +81,7 @@ Although we choose the pages and communities we link to carefully, it's importan
 
 * We do not review the pages and communities we link to at a frequency that would constitute routine or continual monitoring of their content. Individual users are free to post whatever they want on these platforms – their comments may not necessarily reflect reality, and should never be taken as medical advice.
 * Anything you post on these platforms may be publicly visible. Do not share anything you would not feel comfortable talking about with a stranger, and avoid giving away too much personal information.
-* If you would like to let us know what you think about the communities we link to, or report a problem, you can [contact us](https://www.nhs.uk/contact-us/).
+* If you would like to let us know what you think about the communities we link to, or report a problem, you can [give feedback about the NHS website](https://www.nhs.uk/give-feedback-about-the-nhs-website/).
 
 Where we link to social media platforms, we highlight the nature of the linked content and its likely basis in unvalidated personal experience on the page containing the links.
 
@@ -130,11 +130,11 @@ Support links
 * [About the NHS](https://www.nhs.uk/using-the-nhs/about-the-nhs/)
 * [Healthcare abroad](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
 
-* [Contact us](https://www.nhs.uk/contact-us/)
 * [Other NHS websites](https://www.nhs.uk/nhs-sites/)
 * [Profile editor login](https://www.nhs.uk/our-policies/profile-editor-login/)
 
 * [About us](https://www.nhs.uk/about-us/)
+* [Give us feedback](https://www.nhs.uk/give-feedback-about-the-nhs-website/)
 * [Accessibility statement](https://www.nhs.uk/accessibility-statement/)
 * [Our policies](https://www.nhs.uk/our-policies/)
 * [Cookies](https://www.nhs.uk/our-policies/cookies-policy/)
