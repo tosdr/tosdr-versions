@@ -22,7 +22,7 @@ Menu Close
     
     * [Organization](https://www.unibocconi.eu/en/about-us/organization)
     * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
-    * [International Relations](https://www.unibocconi.eu/en/about-us/international-relations)
+    * [International Networks](https://www.unibocconi.eu/en/about-us/international-networks)
     * [Diversity, Equity and Inclusion](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion)
     * [Sustainability](https://www.unibocconi.eu/en/about-us/sustainability)
     
@@ -179,9 +179,9 @@ About Us
     * [Quality Assurance System](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
     
 * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
-* International Relations
+* International Networks
     
-    [Overview](https://www.unibocconi.eu/en/about-us/international-relations)
+    [Overview](https://www.unibocconi.eu/en/about-us/international-networks)
     
     * [CIVICA, the European University of Social Sciences](https://www.unibocconi.eu/en/about-us/international-relations/civica-european-university-social-sciences)
     
