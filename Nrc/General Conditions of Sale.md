@@ -1,3 +1,5 @@
+[Ga direct naar inhoud](#main-content)
+
 Sluit menu
 
 * [Binnenland](https://www.nrc.nl/index/binnenland/)
@@ -38,6 +40,7 @@ Sluit menu
 * [Mijn abonnementen](https://service.nrc.nl/abonnement)
 * [FAQ Digitaal Lezen](https://service.nrc.nl/digitaal)
 * [Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/)
+* [E-book](https://www.nrc.nl/ebook/)
 * [Veelgestelde vragen](https://service.nrc.nl/faq)
 * [Mijn leeslijst](https://www.nrc.nl/mijn-nrc/leeslijst)
 * [Digitale krant](https://www.nrc.nl/de/)
@@ -77,7 +80,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fleveringsvoorwaarden%2F%3Ft%3D1717970954)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fleveringsvoorwaarden%2F%3Ft%3D1718775759)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
