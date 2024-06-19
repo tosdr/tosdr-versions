@@ -9,8 +9,6 @@
     * [Pinball Table Guides](https://zenstudios.com/pinball-table-guides/)
     * [Community Forum](http://forum.zenstudios.com/)
     * [Pinball Cabinet Support Request](https://zenstudios.com/home/pinball-cabinet-support-request/)
-    * [Pinball FX – FREQUENTLY ASKED QUESTIONS](https://zenstudios.com/?page_id=4351)
-    * [PINBALL FX – CABINET MODE FAQ](https://zenstudios.com/?page_id=4353)
 * [Press](https://zenstudios.com/press)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
