@@ -118,16 +118,17 @@
         * [Tables 1 & 2](https://openinventionnetwork.com/linux-system/tables-1-2/)
         * [Table 3](https://openinventionnetwork.com/linux-system/table-3/)
         * [Table 4](https://openinventionnetwork.com/linux-system/table-4/)
-        * [Table 5](https://openinventionnetwork.com/linux-system/table-5/)
+        * [Table 5](https://openinventionnetwork.com/old-linux-system/table-5/)
         * [Table 6](https://openinventionnetwork.com/linux-system/table-6/)
+        * [Table 7](https://openinventionnetwork.com/linux-system/table-7/)
         * [](#)
         
     * * 
-        * [Table 7](https://openinventionnetwork.com/linux-system/table-7/)
         * [Table 8](https://openinventionnetwork.com/linux-system/table-8/)
         * [Table 9](https://openinventionnetwork.com/linux-system/table-9/)
         * [Table 10](https://openinventionnetwork.com/linux-system/table-10/)
         * [Table 11](https://openinventionnetwork.com/linux-system/table-11/)
+        * [Table 12](https://openinventionnetwork.com/linux-system/table-12/)
         
     
 * [Join the OIN Community](https://openinventionnetwork.com/joining-oin/join-now/)
@@ -188,18 +189,6 @@ This website contains links to other sites. Please be aware that we are not resp
 
 Welcome to our Newest Members!
 
-![Muratec Machinery | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
-
-![Muratec Machinery | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/01/muratec-machinery-oin-community-member-1.jpg)
-
-![The Home Depot | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
-
-![The Home Depot | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/the-home-depot-oin-community-member.jpg)
-
-![Horiba | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
-
-![Horiba | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/horiba-oin-community-member.jpg)
-
 ![Formosa Plastics | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/formosa-plastics-oin-community-member.jpg)
 
 ![Newlink | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/newlink-china-energy-oin-community-member.png)
@@ -212,47 +201,59 @@ Welcome to our Newest Members!
 
 ![Vizio | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/vizio-oin-community-member.jpg)
 
+![Bank of Montreal | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![Bank of Montreal | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/bank-of-montreal-oin-community-member.jpg)
+
+![SVP Worldwide | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![SVP Worldwide | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/svp-worldwide-oin-community-member.jpg)
+
+![VDL Groupe BV | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![VDL Groupe BV | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/vdl-oin-community-member.jpg)
+
 Testimonials
-
-> Linux and open source are driving innovation in cloud and mobile computing, and emerging technologies such as the Internet of Things. These are developments that are very close to our hearts at Sage. We applaud the Open Invention Network’s efforts to promote openness and innovation for the benefit of the technical community and our wider society and would encourage our partners to support their work.  
-
-Klaus-Michael VogelbergChief Technology OfficerSage
 
 > _RBC recognizes open source as a significant enabler of innovation and it was important for us to join the Open Invention Network and support its role in protecting Linux system open source software from patent litigation risk._
 
 Lucille D’SouzaVP & Associate General Counsel, RBC Strategy & Operations
 
-> The OpenWrt developers believe that openness and collaboration across domains is the groundwork which nurtures Linux development. The new partnership with Open Invention Network will be one of the building blocks pushing OpenWrt forward and advance Linux innovation in general.  
+> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
 
-Gregers PetersenRelationship Manager and DeveloperOpenWrt
+Groupe Renault
+
+> Linux is an integral part of the advanced system-on-chip (SoC) development process and is used as the development platform, as well as a target operating system for many systems that our customers design. Preserving the openness of Linux is critical to the continued advancement of next-generation SoCs in both embedded applications and consumer devices.  
+
+Jim ReadyChief Technology Advisor Software & Embedded SystemsCadence Design Systems
+
+> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
+
+Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
+
+> Tencent is committed to offering high-quality, Internet-based services from social, games and digital content to mobile payment, cloud services, Internet financial services and smart retail solutions, among many others. Linux and open source are critical elements in the technologies that we are developing to provide these services. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+
+Xu YanSenior Account ManagerTencent Holdings Limited
+
+> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
+
+Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
+
+> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
+
+Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
 
 > “Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.”  
 
 Lynn WuChief IP CounselByteDance
 
-> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
+> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
 
-Heather MeekerPartnerO'Melveny & Myers
-
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
-
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
-
-> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
-
-Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
+Yang JiejingHead of Legal DepartmentUNISOC
 
 > The Electric Vehicle Charging Industry is booming and has benefited greatly from the freedom to use open source software such as Linux in our systems. The Open Charge Alliance stands for open collaboration, open standards and is a strong supporter of OIN. We can’t have patent aggression slowing down innovation and market growth in this exciting new industry.  
 
 Lonneke DriessenDirectorOpen Charge Alliance
-
-> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
-
-Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
-
-> By fostering the largest patent non-aggression community in history, OIN has protected core Linux and a broad array of FOSS technologies from patent aggression. We have worked together for the past 15 years, with the goal that FOSS would grow unimpeded by patent risks, and we have largely succeeded.  OIN has made a transformational difference.  I look forward to working with Keith and OIN as it creatively faces new challenges in the next decade.  
-
-Eben MoglenDirector-Counsel & ChairmanSoftware Freedom Law Center
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -274,19 +275,19 @@ This field is for validation purposes and should be left unchanged.
 
 #### INFORMATION
 
-* [Linux System definition](https://openinventionnetwork.com/linux-system/)
+* [Linux System definition](https://openinventionnetwork.com/?page_id=49012)
 * [Glossary](https://openinventionnetwork.com/glossary/)
 * [Privacy Policy](https://openinventionnetwork.com/privacy-policy/)
 
 * [Privacy Policy](https://openinventionnetwork.com/privacy-policy/)
 * [OIN License Agreement](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
-* [Linux System Definition](https://openinventionnetwork.com/linux-system/)
+* [Linux System Definition](https://openinventionnetwork.com/?page_id=49012)
 
 #### For our members
 
 * [Members Speak Out](https://openinventionnetwork.com/community-initiatives/members-speak-out/)
 * [Case Studies](https://openinventionnetwork.com/media/case-studies/)
-* [Linux System](https://openinventionnetwork.com/linux-system/)
+* [Linux System Old](https://openinventionnetwork.com/?page_id=49012)
 * [OIN License Agreement](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
 
 #### Industry Resources
