@@ -87,14 +87,22 @@ Announcing Defender 2.0 General Availability: our mission-critical security and 
     * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
     * [Incident Response](https://www.openzeppelin.com/incident-response)
     * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
     
     * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
     * [Incident Response](https://www.openzeppelin.com/incident-response)
     * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
     
     * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
     * [Incident Response](https://www.openzeppelin.com/incident-response)
     * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
+    
+    * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
+    * [Incident Response](https://www.openzeppelin.com/incident-response)
+    * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
     
 * [Learn _![more](https://www.openzeppelin.com/hubfs/Theme_2022/css/more.svg)_](#) 
     
@@ -140,10 +148,11 @@ Announcing Defender 2.0 General Availability: our mission-critical security and 
     * [Incident Response](https://www.openzeppelin.com/#secure-operations)
     * [Operation and Automation](https://www.openzeppelin.com/#secure-operations)
     * [Pricing](https://www.openzeppelin.com/pricing)
-* Services Services Services [Services](#)
+* Services Services Services Services [Services](#)
     * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
     * [Incident Response](https://www.openzeppelin.com/incident-response)
     * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+    * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
 * Learn Learn Learn [Learn](#)
     * [Docs](https://docs.openzeppelin.com/)
     * [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
@@ -402,6 +411,7 @@ Subject to certain limitations, the CCPA provides California consumers the right
 * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
 * [Incident Response](https://www.openzeppelin.com/incident-response)
 * [Zero Knowledge Proof Practice](https://www.openzeppelin.com/zkp)
+* [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
 
 ### [Learn](#)
 
