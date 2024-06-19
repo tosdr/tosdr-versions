@@ -24,7 +24,7 @@ SEARCH Search
 * [CompeteExpand](#)
     * [Committing to Rep](https://www.drvcvolleyball.ca/rep/)
     * [TryoutsExpand](#)
-        * [Spring Open Gyms](https://www.drvcvolleyball.ca/opengym/)
+        * [Spring ID Clinics](https://www.drvcvolleyball.ca/opengym/)
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep TeamsExpand](https://www.drvcvolleyball.ca/rep/)
         * [2023/2024 RostersExpand](#)
@@ -143,7 +143,7 @@ All content protected by copyright & subject to permission to use.
     * [Committing to Rep](https://www.drvcvolleyball.ca/rep/)
     * [Tryouts](#)Toggle child menuExpand
         
-        * [Spring Open Gyms](https://www.drvcvolleyball.ca/opengym/)
+        * [Spring ID Clinics](https://www.drvcvolleyball.ca/opengym/)
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep Teams](https://www.drvcvolleyball.ca/rep/)Toggle child menuExpand
         
