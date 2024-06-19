@@ -46,15 +46,15 @@ Rankings
 
 [Data-as-a-Service![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240609.master.bc0b941/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
 
 Power your business with digital insights at scaleLearn more](https://www.similarweb.com/corp/daas/)[Advisory Services![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240609.master.bc0b941/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
 
 Get data driven answers to your business’s most strategic questionsRead more](https://www.similarweb.com/corp/advisory-services/)[Data Licensing![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240609.master.bc0b941/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
 
 Data LicensingLearn More](https://www.similarweb.com/corp/oem-data/)
 
@@ -76,7 +76,7 @@ Customers
 
 [Check out our success stories![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240609.master.bc0b941/dist/scripts/lite-app/assets/6183886a22021b765f5a.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/6183886a22021b765f5a.webp)
 
 See how companies like yours use Similarweb to drive business success.Learn more](https://www.similarweb.com/corp/clients/)
 
@@ -102,7 +102,7 @@ Company
 
 [Meet SAM, the new AI-powered sales assistant![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240609.master.bc0b941/dist/scripts/lite-app/assets/6fc2b83b5b8fedbe44bc.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/6fc2b83b5b8fedbe44bc.webp)
 
 Ready to close more deals, more often? Meet SAM, our AI sales assistant. Click to see what SAM can do for your businessMeet Sam](https://www.similarweb.com/corp/sales/sales-ai-assistant/)
 
