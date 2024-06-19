@@ -2,7 +2,7 @@
 
 ☰
 
-[![Dynamic Catholic](/on/demandware.static/Sites-dci_us-Site/-/default/dw0b06bdbe/images/logo-mobile.svg)](https://www.dynamiccatholic.com/home "Dynamic Catholic Home")
+[![Dynamic Catholic](/on/demandware.static/Sites-dci_us-Site/-/default/dw8ee0eabf/images/logo-mobile.svg)](https://www.dynamiccatholic.com/home "Dynamic Catholic Home")
 
 [Donate](https://www.dynamiccatholic.com/join-in-this-mission/DON-USA.html "Donate")
 
@@ -22,9 +22,9 @@ Password
 
 [_0_ Cart](https://www.dynamiccatholic.com/cart "Cart 0 Items")
 
-[![Dynamic Catholic](/on/demandware.static/Sites-dci_us-Site/-/default/dw4d019d3e/images/logo.svg)](https://www.dynamiccatholic.com/home "Dynamic Catholic Home")
+[![Dynamic Catholic](/on/demandware.static/Sites-dci_us-Site/-/default/dw8dd4b809/images/logo.svg)](https://www.dynamiccatholic.com/home "Dynamic Catholic Home")
 
-Meeting people where they are . . . Leading them to where ![God calls them to be!](/on/demandware.static/Sites-dci_us-Site/-/default/dwb96111ad/images/god-calls-them-to-be.svg) God calls them to be!
+Meeting people where they are . . . Leading them to where ![God calls them to be!](/on/demandware.static/Sites-dci_us-Site/-/default/dwd6b2e30d/images/god-calls-them-to-be.svg) God calls them to be!
 
 main menu
 
