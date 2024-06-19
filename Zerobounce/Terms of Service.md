@@ -28,6 +28,7 @@ Trigger navigation
     * [Blacklist Checker](https://www.zerobounce.net/services/blacklist-checker "Blacklist Checker")
     * [Email Send Time](https://www.zerobounce.net/email-send-time "Email Send Time")
     * [Email Risk Assessment](https://www.zerobounce.net/email-risk-assessment "Email Risk Assessment")
+    * [Free DMARC Checker](https://www.zerobounce.net/dmarc-checker "Free DMARC Checker")
     * Email Authentication Generators![Chevron down](/static/chevron-down.png)
         
         [DKIM Generator](https://www.zerobounce.net/dkim-generator "DKIM Generator")[DMARC Generator](https://www.zerobounce.net/dmarc-generator "DMARC Generator")[SPF Generator](https://www.zerobounce.net/spf-generator "SPF Generator")
@@ -37,7 +38,16 @@ Trigger navigation
         [Bounce Rate Calculator](https://www.zerobounce.net/email-bounce-rate-calculator "Bounce Rate Calculator")[Open Rate Calculator](https://www.zerobounce.net/email-open-rate-calculator "Open Rate Calculator")[Email Verification Calculator](https://www.zerobounce.net/email-verification-calculator "Email Verification Calculator")[CTOR Calculator](https://www.zerobounce.net/ctor-calculator "CTOR Calculator")[Spam Complaint Rate Calculator](https://www.zerobounce.net/spam-complaint-rate-calculator "Spam Complaint Rate Calculator")[Freemail calculator](https://www.zerobounce.net/freemail-revenue-calculator "Freemail calculator")[Email List Growth Calculator](https://www.zerobounce.net/email-list-growth-calculator "Email List Growth Calculator")
         
     
-* [Enterprise](https://www.zerobounce.net/enterprise "Enterprise Solutions")
+* [Solutions](https://www.zerobounce.net/ "Solutions")
+    
+    Solutions
+    
+    * [Enterprise](https://www.zerobounce.net/enterprise "Enterprise")
+    * [Agencies](https://www.zerobounce.net/solutions/agencies/ "Agencies")
+    * [Business Development](https://www.zerobounce.net/solutions/business-development/ "Business Development")
+    * [Developers](https://www.zerobounce.net/solutions/developers/ "Developers")
+    * [Email Marketing](https://www.zerobounce.net/solutions/email-marketing/ "Email Marketing")
+    
 * [Pricing](https://www.zerobounce.net/email-validation-pricing "ZeroBounce Pricing")
 * [Resources](https://www.zerobounce.net/docs "ZeroBounce Documentation")
     
