@@ -58,7 +58,7 @@
             
             * [2024 LevelBlue FuturesTM Report](https://www.alienvault.com/resource-center/futures-reports/2024-futures-report-cyber-resilience)
             * [Proprietary Research](https://www.alienvault.com/insights-report)
-            * [Daily Blog](https://www.alienvault.com/blogs)
+            * [Blog](https://www.alienvault.com/blogs)
             
         * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/levelblue-labs)
             
@@ -159,15 +159,15 @@
             
             [View all Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
             
-        * [Blogs Read the latest coverage on security matters](https://www.alienvault.com/blogs)
+        * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
             Blog: Security Essentials
             
-            ##### Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link
+            ##### Beat the Heat and Cyber Threats This Summer
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/beat-the-heat-and-cyber-threats-this-summer)
             
-            [View all Blogs](https://www.alienvault.com/blogs)
+            [View all Blog posts](https://www.alienvault.com/blogs)
             
         * [eBooks Deep dive into complex security topics](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -193,9 +193,9 @@
             
             Whitepaper
             
-            ##### Indicators of Compromise for SquidLoader
+            ##### Cyber Resilience is Mission Critical for Business
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -217,7 +217,7 @@
     #### Security Resources
     
     * [Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
-    * [Blogs](https://www.alienvault.com/blogs)
+    * [Blog](https://www.alienvault.com/blogs)
     * [eBooks](https://www.alienvault.com/resource-center#content_ebook)
     * [Videos](https://www.alienvault.com/resource-center#content_video)
     * [Webcasts](https://www.alienvault.com/resource-center#content_webcast)
@@ -328,7 +328,7 @@ Research
 
 * [2024 LevelBlue FuturesTM Report](https://www.alienvault.com/resource-center/futures-reports/2024-futures-report-cyber-resilience)
 * [Proprietary Research](https://www.alienvault.com/insights-report)
-* [Daily Blog](https://www.alienvault.com/blogs)
+* [Blog](https://www.alienvault.com/blogs)
 
 [Back to Products & Services](#)
 
@@ -398,7 +398,7 @@ Product Resources
 Security Resources
 
 * [Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
-* [Blogs](https://www.alienvault.com/blogs)
+* [Blog](https://www.alienvault.com/blogs)
 * [eBooks](https://www.alienvault.com/resource-center#content_ebook)
 * [Webcasts](https://www.alienvault.com/resource-center#content_webcast)
 * [Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
@@ -468,13 +468,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Karoline Gore](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theodoros Karasavvas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Karoline Gore
+#### Theodoros Karasavvas
 
-Jun 12, 2024
+Jun 17, 2024
 
-### [Social Media Cybersecurity: Don’t Let Employees Be Your Weakest Link](https://cybersecurity.att.com/blogs/security-essentials/social-media-cybersecurity-dont-let-employees-be-your-weakest-link)
+### [Beat the Heat and Cyber Threats This Summer](https://cybersecurity.att.com/blogs/security-essentials/beat-the-heat-and-cyber-threats-this-summer)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -491,7 +491,7 @@ News
 
 * [Newsroom](https://www.alienvault.com/newsroom)
 * [Events](https://www.alienvault.com/newsroom/events)
-* [Blogs](https://www.alienvault.com/blogs)
+* [Blog](https://www.alienvault.com/blogs)
 
 Partners
 
@@ -517,7 +517,7 @@ Solutions
 Resources
 
 * [Resources](https://www.alienvault.com/resource-center)
-* [Blogs](https://www.alienvault.com/blogs)
+* [Blog](https://www.alienvault.com/blogs)
 * [Customer Reference Guide](https://www.business.att.com/content/dam/attbusiness/guides/att-information-and-network-security-customer-reference-guide.pdf)
 
 Customer Success
