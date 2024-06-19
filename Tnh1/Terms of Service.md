@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: após chuvas, lama ‘invade’ pista na Avenida Governador Afrânio Lages, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/7/csm_lama_na_pista_maceio_e2b9262e9f.jpg)
+   [![Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/1/csm_fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024_dfd7893ec2.jpg)
 
-risco de acidentes
+165 mil pessoas
 
-Vídeo: após chuvas, lama ‘invade’ pista na Avenida Governador Afrânio Lages, em Maceió](https://www.tnh1.com.br/noticia/nid/video-apos-chuvas-lama-invade-pista-na-avenida-governador-afranio-lages-em-maceio/ "Vídeo: após chuvas, lama ‘invade’ pista na Avenida Governador Afrânio Lages, em Maceió")   [![Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_CENTRAL-DE-FLAGRANTES-MACEIO-1-1-600x400_274c303b5f.jpg)
+Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://www.tnh1.com.br/noticia/nid/fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024/ "Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024")   [![Vídeo: caminhão atinge poste e derruba fiação na orla lagunar de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/06/18/acidente_caminhao_poste_-_vergel_-_reproducao_video.jpg)
 
-moradora de rua
+no vergel
 
-Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://www.tnh1.com.br/noticia/nid/drogas-e-fianca-de-salario-minimo-mulher-e-presa-por-furto-em-loja-de-autopecas-entenda/ "Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda")   [![Vídeos: chuva registrada nas últimas horas causa transtornos em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/d/csm_chuvas-maceio-transtornos-ruas-alagadas_bfd23c7062.png)
+Vídeo: caminhão atinge poste e derruba fiação na orla lagunar de Maceió](https://www.tnh1.com.br/noticia/nid/video-caminhao-atinge-poste-e-derruba-fiacao-na-orla-lagunar-de-maceio/ "Vídeo: caminhão atinge poste e derruba fiação na orla lagunar de Maceió")   [![Ônibus do Sine-AL estará no Jaraguá nesta terça-feira, 18](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_onibus-do-sine-al-estara-no-jaragua-nesta-terca-feira_f058d3f3ea.jpeg)
 
-Maceió
+Mercado de Trabalho
 
-Vídeos: chuva registrada nas últimas horas causa transtornos em Maceió](https://www.tnh1.com.br/noticia/nid/videos-chuva-registrada-nas-ultimas-horas-causa-transtornos-em-maceio/ "Vídeos: chuva registrada nas últimas horas causa transtornos em Maceió ")   [![Avenida no Benedito Bentes será bloqueada desta sexta-feira (07) até domingo (09)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/4/csm_30-06-23-Sao-Joao-Benedito-Bentes-DMTT-Por-Evinho-Silva-57_23edf3b608.jpg)
+Ônibus do Sine-AL estará no Jaraguá nesta terça-feira, 18](https://www.tnh1.com.br/noticia/nid/onibus-do-sine-al-estara-no-jaragua-nesta-terca-feira-18/ "Ônibus do Sine-AL estará no Jaraguá nesta terça-feira, 18")   [![Lama Padma Samten faz primeiro retiro budista em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/7/csm_budismo_598a716ea0.jpg)
 
-veja pontos
+Espiritualidade
 
-Avenida no Benedito Bentes será bloqueada desta sexta-feira (07) até domingo (09)](https://www.tnh1.com.br/noticia/nid/avenida-no-benedito-bentes-sera-bloqueada-desta-sexta-feira-07-ate-domingo-09/ "Avenida no Benedito Bentes será bloqueada desta sexta-feira (07) até domingo (09)")   [![Após chuvas na madrugada, árvore cai na Avenida Leste-Oeste e deixa trânsito lento ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_arvore_que_caiu_na_leste_oeste_cb07452de6.jpg)
-
-VEJA VÍDEO
-
-Após chuvas na madrugada, árvore cai na Avenida Leste-Oeste e deixa trânsito lento](https://www.tnh1.com.br/noticia/nid/apos-chuvas-na-madrugada-arvore-cai-na-avenida-leste-oeste-e-deixa-transito-lento/ "Após chuvas na madrugada, árvore cai na Avenida Leste-Oeste e deixa trânsito lento ")   [![Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/d/csm_FeiraFlexal_f099e78544.jpg)
+Lama Padma Samten faz primeiro retiro budista em Maceió](https://www.tnh1.com.br/noticia/nid/lama-padma-samten-faz-primeiro-retiro-budista-em-maceio/ "Lama Padma Samten faz primeiro retiro budista em Maceió")   [![Prefeitura de Maceió antecipa salário do mês de junho ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_dinheiro_Marcello_Casal_Jr_Agencia_Brasil_7dd0e8b48c.jpg)
 
 Maceió
 
-Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia](https://www.tnh1.com.br/noticia/nid/feira-dos-empreendedores-do-flexal-promove-comercio-cultura-e-gastronomia/ "Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia")
+Prefeitura de Maceió antecipa salário do mês de junho](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-do-mes-de-junho/ "Prefeitura de Maceió antecipa salário do mês de junho ")   [![Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/3/csm_Vigilancia_Sanitaria_apreende_80_kg_de_alimentos_estragados_no_Jacintinho_-_foto_VISA_6_5698509dab.jpeg)
+
+Maceió
+
+Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Jacintinho](https://www.tnh1.com.br/noticia/nid/fiscalizacao-apreende-80-kg-de-carne-queijo-e-mais-alimentos-estragados-no-jacintinho/ "Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Jacintinho")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Feira dos Empreendedores do Flexal promove comércio, cultura e gastronomia](htt
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/0/csm_csm_alerta_chuva_tnh1_591669cf70_a71d5a930c.jpeg)
+   [![Menina que acertou números da Mega é "sortuda" e previu que ganharia o prêmio](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/06/18/mega-sena-numeros-menina-sortuda-reproducao-agencia-brasil.jpg)
 
-Meteorologia
+Interior
 
-Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior](https://www.tnh1.com.br/noticia/nid/alerta-nivel-do-rio-sao-miguel-sobe-e-ameaca-transbordar-em-municipios-do-interior/ "Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ")   [![Alagoas está entre os 10 estados com maior volume de "gatos de energia", aponta ANEEL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/f/csm_Furto_energia_eletrica_-_fazenda_Penedo_-_foto_Equatorial__2__b3630979ce.jpeg)
+Menina que acertou números da Mega é "sortuda" e previu que ganharia o prêmio](https://www.tnh1.com.br/noticia/nid/menina-que-acertou-numeros-da-mega-e-sortuda-e-previu-que-ganharia-o-premio/ "Menina que acertou números da Mega é "sortuda" e previu que ganharia o prêmio")   [![Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/5/csm_corpo-encontrado-em-sao-sebastiao-passara-por-exame-de-dna-na-policia-cientifica_6ed67ce950.jpg)
 
-Brasil
+Polícia
 
-Alagoas está entre os 10 estados com maior volume de "gatos de energia", aponta ANEEL](https://www.tnh1.com.br/noticia/nid/alagoas-esta-entre-os-10-estados-com-maior-volume-de-gatos-de-energia-aponta-aneel/ "Alagoas está entre os 10 estados com maior volume de "gatos de energia", aponta ANEEL")   [![Atenção, concurseiros: governador anuncia concurso para UNEAL; veja número de vagas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_UNEAL_-uniao_fcb83d13b1.jpg)
+Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-encontrado-em-sao-sebastiao-ainda-nao-foi-reconhecido-oficialmente/ "Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente")   [![Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/1/csm_fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024_dfd7893ec2.jpg)
 
-certame autorizado
+165 mil pessoas
 
-Atenção, concurseiros: governador anuncia concurso para UNEAL; veja número de vagas](https://www.tnh1.com.br/noticia/nid/atencao-concurseiros-governador-anuncia-concurso-para-uneal-veja-numero-de-vagas/ "Atenção, concurseiros: governador anuncia concurso para UNEAL; veja número de vagas")   [![Jovem grávida que invadiu Câmara de Vereadores em Alagoas tem direito a pensão, mesmo sem exame de DNA; entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/1/csm_mulher_invade_sessao_camara_murici_48c123fda1.jpg)
+Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://www.tnh1.com.br/noticia/nid/fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024/ "Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024")   [![Comando de Aviação do Estado alerta para uso de lasers contra aeronaves; entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/8/csm_laser_contra_aeronave_mcz_79652fcc5f.jpg)
 
-Alagoas
+alto risco
 
-Jovem grávida que invadiu Câmara de Vereadores em Alagoas tem direito a pensão, mesmo sem exame de DNA; entenda](https://www.tnh1.com.br/noticia/nid/jovem-gravida-que-invadiu-camara-de-vereadores-em-alagoas-tem-direito-a-pensao-mesmo-sem-exame-de-dna-entenda/ "Jovem grávida que invadiu Câmara de Vereadores em Alagoas tem direito a pensão, mesmo sem exame de DNA; entenda")   [![Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_alerta_chuva_tnh1_591669cf70__1__92a7063cb4.jpeg)
+Comando de Aviação do Estado alerta para uso de lasers contra aeronaves; entenda](https://www.tnh1.com.br/noticia/nid/comando-de-aviacao-do-estado-alerta-para-uso-de-lasers-contra-aeronaves-entenda/ "Comando de Aviação do Estado alerta para uso de lasers contra aeronaves; entenda")   [![Menina de 11 anos acerta números da Mega-Sena, mas pais esquecem de pagar o jogo; saiba 'bolada' que ela levaria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/4/csm_csm_mega_sena_mcajr_abr__358ae72823_ecab1b14ad.jpg)
 
-meteorologia
+interior de AL
 
-Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado](https://www.tnh1.com.br/noticia/nid/chuva-alerta-laranja-e-disparado-para-maceio-e-38-cidades-ate-a-noite-de-sabado/ "Chuva: alerta laranja é disparado para Maceió e 38 cidades até a noite de sábado")   [![Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_Chuva_Maceio_-_foto_TNH1_ed64da54b9.jpg)
+Menina de 11 anos acerta números da Mega-Sena, mas pais esquecem de pagar o jogo; saiba 'bolada' que ela levaria](https://www.tnh1.com.br/noticia/nid/menina-de-11-anos-acerta-numeros-da-mega-sena-mas-pais-esquecem-de-pagar-o-jogo-saiba-bolada-que-ela-levaria/ "Menina de 11 anos acerta números da Mega-Sena, mas pais esquecem de pagar o jogo; saiba 'bolada' que ela levaria")   [![Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/b/csm_pai_preso_estupro_6974e5e8d9.png)
 
-Aviso meteorológico
+interior de AL
 
-Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h](https://www.tnh1.com.br/noticia/nid/alagoanos-podem-enfrentar-chuvas-com-acumulados-significativos-nas-proximas-48h/ "Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h")
+Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso](https://www.tnh1.com.br/noticia/nid/menina-de-13-anos-denuncia-que-foi-estuprada-pelo-pai-homem-foi-preso/ "Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Alagoanos podem enfrentar chuvas com acumulados significativos nas próximas 48h
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Alagoas registra apreensão de 41 armas de fogo e mais de 29 kg de drogas na primeira semana de junho ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_drogas-armas-apreensao-policia-militar_a8171ce2ff.jpeg)
+   [![Game Over: polícia apreende mais um carro de luxo de influenciador suspeito de promover "Jogo do Tigrinho"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/5/csm_Range_Rover_Apreendida_f6f35000ee.jpg)
 
-COMBATE AO CRIME
+Polícia
 
-Alagoas registra apreensão de 41 armas de fogo e mais de 29 kg de drogas na primeira semana de junho](https://www.tnh1.com.br/noticia/nid/alagoas-registra-apreensao-de-41-armas-de-fogo-e-mais-de-29-kg-de-drogas-na-primeira-semana-de-junho/ "Alagoas registra apreensão de 41 armas de fogo e mais de 29 kg de drogas na primeira semana de junho ")   [![Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/e/csm_CENTRAL-DE-FLAGRANTES-MACEIO-1-1-600x400_274c303b5f.jpg)
+Game Over: polícia apreende mais um carro de luxo de influenciador suspeito de promover "Jogo do Tigrinho"](https://www.tnh1.com.br/noticia/nid/game-over-policia-apreende-mais-um-carro-de-luxo-de-influenciador-suspeito-de-promover-jogo-do-tigrinho/ "Game Over: polícia apreende mais um carro de luxo de influenciador suspeito de promover "Jogo do Tigrinho"")   [![Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-homem-executado-tiros-junqueiro-reproducao_84d20a8927.jpg)
 
-moradora de rua
+PERTO DE CASA
 
-Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda](https://www.tnh1.com.br/noticia/nid/drogas-e-fianca-de-salario-minimo-mulher-e-presa-por-furto-em-loja-de-autopecas-entenda/ "Drogas e fiança de salário mínimo: mulher é presa por furto em loja de autopeças; entenda")   [![Adolescente é preso após matar menor no Santos Dumont; vítima teria ameaçado irmão do autor ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/c/csm_menor-preso-homicidio-santos-dumont_5ac47b5e89.jpeg)
+Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro](https://www.tnh1.com.br/noticia/nid/blogueiro-e-assassinado-a-tiros-dentro-de-veiculo-na-zona-rural-de-junqueiro/ "Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ")   [![Armas e drogas são apreendidas pela polícia em três municípios de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/e/csm_apreensao-armas-drogas-reproducao_894e11ad2c.jpg)
 
-Violência
+Maceió e interior
 
-Adolescente é preso após matar menor no Santos Dumont; vítima teria ameaçado irmão do autor](https://www.tnh1.com.br/noticia/nid/adolescente-e-preso-apos-matar-menor-no-santos-dumont-vitima-teria-ameacado-irmao-do-autor/ "Adolescente é preso após matar menor no Santos Dumont; vítima teria ameaçado irmão do autor ")   [![Saiba quem são os policiais que salvaram bebê de oito meses que estava engasgado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/5/csm_Bebe_engasgado_e_salvo_por_policiais_em_Alagoas_-_foto_PMAL_38b5a8d184.jpeg)
+Armas e drogas são apreendidas pela polícia em três municípios de Alagoas](https://www.tnh1.com.br/noticia/nid/armas-e-drogas-sao-apreendidas-pela-policia-em-tres-municipios-de-alagoas/ "Armas e drogas são apreendidas pela polícia em três municípios de Alagoas ")   [![Homem é preso após furtar carnes, queijos do reino e desodorantes em supermercado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/4/csm_ronda-no-bairro-atua-em-caso-de-furto-de-produtos-em-supermercado_dac05cb423.jpg)
 
-em alagoas
+em Cruz das Almas
 
-Saiba quem são os policiais que salvaram bebê de oito meses que estava engasgado](https://www.tnh1.com.br/noticia/nid/saiba-quem-sao-os-policiais-que-salvaram-bebe-de-oito-meses-que-estava-engasgado/ "Saiba quem são os policiais que salvaram bebê de oito meses que estava engasgado ")   [![Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_Conselho_Tutelar_Olho_D_Agua_do_Casado_-_foto_PCAL_8f53ffc09b.jpg)
+Homem é preso após furtar carnes, queijos do reino e desodorantes em supermercado](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-furtar-carnes-queijos-do-reino-e-desodorantes-em-supermercado/ "Homem é preso após furtar carnes, queijos do reino e desodorantes em supermercado")   [![Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/5/csm_corpo-encontrado-em-sao-sebastiao-passara-por-exame-de-dna-na-policia-cientifica_6ed67ce950.jpg)
 
-sertão de al
+Polícia
 
-Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro](https://www.tnh1.com.br/noticia/nid/conselheiro-tutelar-tem-celular-apreendido-apos-fuga-de-suspeito-de-estupro/ "Conselheiro tutelar tem celular apreendido após fuga de suspeito de estupro ")   [![Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_Alagoanos_desaparecidos_em_viagem_de_onibus_de_SP_a_AL_-_foto_Divulgacao_-_Arquivo_pessoal_12bb0f1333.jpg)
+Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-encontrado-em-sao-sebastiao-ainda-nao-foi-reconhecido-oficialmente/ "Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente")   [![Vídeo: 201 hidrômetros são furtados de residências em Maceió; saiba o que fazer](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_furto_hidrometros_-_foto_reproducao_video_08fdce2aec.jpg)
 
-mistério
+suspeito foi filmado
 
-Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://www.tnh1.com.br/noticia/nid/sumico-de-alagoanos-entre-sp-e-recife-delegado-detalha-passo-a-passo/ "Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo")
+Vídeo: 201 hidrômetros são furtados de residências em Maceió; saiba o que fazer](https://www.tnh1.com.br/noticia/nid/video-201-hidrometros-sao-furtados-de-residencias-em-maceio-saiba-o-que-fazer/ "Vídeo: 201 hidrômetros são furtados de residências em Maceió; saiba o que fazer")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -116,11 +116,11 @@ Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Trajetória de sucesso: empresário José Guido completa 92 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_jose_guido_f434ab5463.jpg)
+   [![Klaus Silva, gerente de Marketing do Grupo Paragominas, faz idade nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_Klaus_Silva_2_e30472e1a8.jpg)
 
 Pessoas & Negócios
 
-Trajetória de sucesso: empresário José Guido completa 92 anos](https://www.tnh1.com.br/noticia/nid/trajetoria-de-sucesso-empresario-jose-guido-completa-92-anos/ "Trajetória de sucesso: empresário José Guido completa 92 anos")
+Klaus Silva, gerente de Marketing do Grupo Paragominas, faz idade nova](https://www.tnh1.com.br/noticia/nid/klaus-silva-gerente-de-marketing-do-grupo-paragominas-faz-idade-nova/ "Klaus Silva, gerente de Marketing do Grupo Paragominas, faz idade nova")
 
 [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
 
@@ -198,73 +198,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_mulher_gravida_plenario_camara_de_vereadores_murici_ee6492c476.jpeg)
+[!['Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_corvette_apreendido_reproducao_video_e97175f74b.jpg)
 
-confusão
+corvette e pajero
 
-confusão
+corvette e pajero
 
-Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas
+'Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto
 
-Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas](https://www.tnh1.com.br/noticia/nid/video-mulher-gravida-invade-sessao-e-cobra-vereador-por-abandono-em-alagoas/ "Vídeo: mulher grávida "invade" sessão e cobra vereador por abandono, em Alagoas")[![Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_Alagoanos_desaparecidos_em_viagem_de_onibus_de_SP_a_AL_-_foto_Divulgacao_-_Arquivo_pessoal_1a12589d65.jpg)
+'Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto](https://www.tnh1.com.br/noticia/nid/jogo-do-tigrinho-mais-dois-carros-de-luxo-de-influenciadores-sao-apreendidos-em-aeroporto/ "'Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto")[!["Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Avo_detalha_divida_do_neto_no_jogo_do_Tigrinho_-_foto_Reproducao_PCAL_a2c3a661ec.jpg)
 
-mistério
+veja vídeo
 
-mistério
+veja vídeo
 
-Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo
+"Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'
 
-Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo](https://www.tnh1.com.br/noticia/nid/sumico-de-alagoanos-entre-sp-e-recife-delegado-detalha-passo-a-passo/ "Sumiço de alagoanos entre SP e Recife: Delegado detalha passo a passo")[![Com chaves de mansão, diarista é presa por furto em condomínio de luxo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/b/csm_CISP-MARECHAL-deodoro-foto-Wellington_Alves_5647e22db2.jpeg)
+"Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'](https://www.tnh1.com.br/noticia/nid/minha-familia-desmoronou-o-drama-da-avo-que-viu-o-neto-perder-r-400-mil-no-jogo-do-tigrinho/ ""Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'")[![Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_Presos_suspeitos_assalto_imoveis_de_luxo_-_foto_Reproducao_PCAL_571de2f514.jpg)
 
-CONFESSOU CRIME
+em alagoas
 
-CONFESSOU CRIME
+em alagoas
 
-Com chaves de mansão, diarista é presa por furto em condomínio de luxo
+Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês
 
-Com chaves de mansão, diarista é presa por furto em condomínio de luxo](https://www.tnh1.com.br/noticia/nid/com-chaves-de-mansao-diarista-e-presa-por-furto-em-condominio-de-luxo/ "Com chaves de mansão, diarista é presa por furto em condomínio de luxo")[![Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/d/csm_cisp_maribondo_-_ascom_pcal_8c2ecba830.jpg)
+Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês](https://www.tnh1.com.br/noticia/nid/grupo-que-planejava-assaltar-casas-de-luxo-de-empresarios-e-autoridades-e-preso-em-pousada-no-frances/ "Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês")[![Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-homem-executado-tiros-junqueiro-reproducao_34a494bee1.jpg)
 
-acusada de homicídio
+PERTO DE CASA
 
-acusada de homicídio
+PERTO DE CASA
 
-Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas
+Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro
 
-Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas](https://www.tnh1.com.br/noticia/nid/enforcado-com-fio-e-afogado-em-caixa-dagua-dupla-e-presa-por-crime-barbaro-em-alagoas/ "Enforcado com fio e afogado em caixa d'água: dupla é presa por crime bárbaro em Alagoas")
+Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro](https://www.tnh1.com.br/noticia/nid/blogueiro-e-assassinado-a-tiros-dentro-de-veiculo-na-zona-rural-de-junqueiro/ "Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ")
 
-[![Professora é presa acusada de chamar aluna de 'preta do cabelo duro'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_escola-racismo-rj-reproducao_1d864e6689.jpg)
+[![Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/b/csm_manhattan-skyline__2__035478cd5e.jpg)
 
-NO RJ
+“risco significativo”
 
-NO RJ
+“risco significativo”
 
-Professora é presa acusada de chamar aluna de 'preta do cabelo duro'
+Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor
 
-Professora é presa acusada de chamar aluna de 'preta do cabelo duro'](https://www.tnh1.com.br/noticia/nid/professora-e-presa-acusada-de-chamar-aluna-de-preta-do-cabelo-duro/ "Professora é presa acusada de chamar aluna de 'preta do cabelo duro'")[![Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/7/csm_assedio-miramar-SP-reproducao-arquivo-pessoal_351d02f760.jpg)
+Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor](https://www.tnh1.com.br/noticia/nid/moradores-de-nova-york-receberao-ar-condicionado-gratis-em-meio-a-onda-de-calor/ "Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor")[![Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_rb-leo-pereira-foto-divulgacao_2f229eb21d.png)
 
-EM SP
+SÉRIE B
 
-EM SP
+SÉRIE B
 
-Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping
+Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols
 
-Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping](https://www.tnh1.com.br/noticia/nid/ativista-e-acusado-de-oferecer-sexo-oral-a-adolescente-em-banheiro-de-shopping/ "Ativista é acusado de oferecer sexo oral a adolescente em banheiro de shopping")[![Jornal elege camisa branca da França a mais bonita da Euro; veja top 10](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_franca-camisa-reproducao-redes-sociais_ab8fb24907.png)
+Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols](https://www.tnh1.com.br/noticia/nid/em-segundo-tempo-quente-paysandu-e-crb-empatam-por-1-a-1-veja-os-gols/ "Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols")[![Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/f/csm_aimee_betro_reproducao__1__f55029f22c.jpg)
 
-Futebol
+segundo jornal
 
-Futebol
+segundo jornal
 
-Jornal elege camisa branca da França a mais bonita da Euro; veja top 10
+Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido
 
-Jornal elege camisa branca da França a mais bonita da Euro; veja top 10](https://www.tnh1.com.br/noticia/nid/jornal-elege-camisa-branca-da-franca-a-mais-bonita-da-euro-veja-top-10/ "Jornal elege camisa branca da França a mais bonita da Euro; veja top 10")[![Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/0/csm_csm_alerta_chuva_tnh1_591669cf70_0ef832368f.jpeg)
+Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido](https://www.tnh1.com.br/noticia/nid/quem-e-aimee-betro-norte-americana-foragida-acusada-de-ser-assassina-de-aluguel-no-reino-unido/ "Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido")[![Rafa Kalimann rebate críticas por mudar texto de novela](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_Rafa_Kalimann_-_foto_Reproducao_Instagram_d3ded57427.jpg)
 
-Meteorologia
+veja mudança
 
-Meteorologia
+veja mudança
 
-Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior
+Rafa Kalimann rebate críticas por mudar texto de novela
 
-Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior](https://www.tnh1.com.br/noticia/nid/alerta-nivel-do-rio-sao-miguel-sobe-e-ameaca-transbordar-em-municipios-do-interior/ "Alerta: nível do Rio São Miguel sobe e ameaça transbordar em municípios do interior ")
+Rafa Kalimann rebate críticas por mudar texto de novela](https://www.tnh1.com.br/noticia/nid/rafa-kalimann-rebate-criticas-por-mudar-texto-de-novela/ "Rafa Kalimann rebate críticas por mudar texto de novela")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
