@@ -85,6 +85,8 @@ Shipping Information + FAQ
 
 **Processing Times**: We usually try to process orders within approximately 1-5 business days; however, we ask that you please be patient if there are delays due to recent large product launches or newly stocked backorder/preorder items. Purchases are shipped in the order that they are received. We will ship every order as quickly as possible.
 
+**Pre-Orders / Back-Orders**: Unless stated otherwise in the product description, orders containing a combination of in-stock items and backordered / preordered items will be split at no cost to you. If you prefer to have your entire order held and shipped together, please email us immediately after placing an order and we will accommodate your request. Whatever you decide, the shipping cost you pay will not be affected. If you are located outside of the United States though, please note that multiple shipments may result in additional customs fees or brokerage fee payments by the carrier. This money does not go to us, and is unrelated to the shipping charges paid on the website.
+
 Copyright (C), GamersNexus, LLC.
 
 [Privacy Policy](https://store.gamersnexus.net/privacy) - [Return Policy](https://store.gamersnexus.net/store-info)
