@@ -1,140 +1,6 @@
-menu [accueil](https://www.lequipe.fr/) [chrono](https://www.lequipe.fr/Chrono) [directs](https://www.lequipe.fr/Directs) [explore](https://www.lequipe.fr/explore/) [TV](https://www.lequipe.fr/tv/) [le journal](https://www.lequipe.fr/abonnement/kiosque/) [podcasts](https://www.lequipe.fr/collection/podcasts/)
+menu [accueil](https://www.lequipe.fr/) [chrono](https://www.lequipe.fr/Chrono) [directs](https://www.lequipe.fr/Directs) [explore](https://www.lequipe.fr/explore/) [TV](https://www.lequipe.fr/tv/) [le journal](https://www.lequipe.fr/abonnement/kiosque/) [podcasts](https://www.lequipe.fr/collection/podcasts/) [recherche](https://www.lequipe.fr/Recherche/)
 
 [voir les directs](https://www.lequipe.fr/Directs)[L'ÉQUIPE](https://www.lequipe.fr/)
-
-réglages accessibilité
-
-* [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
-* [Roland-Garros](https://www.lequipe.fr/Tennis/Roland-garros/)
-
-* [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
-    
-    lire le journal](https://www.lequipe.fr/abonnement/kiosque/)
-* [![voir la chaine en direct](//www.lequipe.fr/img/icons/channel.svg)
-    
-    voir la chaine en direct](https://www.lequipe.fr/tv/)
-* [![écouter la chaine en direct](//www.lequipe.fr/img/icons/podcast.svg)
-    
-    écouter la chaine en direct](https://www.lequipe.fr/Tous-sports/Actualites/Ecoutez-la-chaine-l-equipe-en-direct/1263780)
-* [![voir toutes les vidéos](//www.lequipe.fr/img/icons/channel.svg)
-    
-    voir toutes les vidéos](https://www.lequipe.fr/tv/collection/dernieres-videos/)
-* [![écouter tous les podcasts](//www.lequipe.fr/img/icons/podcast.svg)
-    
-    écouter tous les podcasts](https://www.lequipe.fr/collection/podcasts/)
-* ![ma liste](//www.lequipe.fr/img/icons/bookmarks.svg)
-    
-    ma liste
-    
-* [lire les articles abonnés du jour](https://www.lequipe.fr/Payant/)
-
-* résultats et actualités
-* [football](https://www.lequipe.fr/Football/)
-    
-* [rugby](https://www.lequipe.fr/Rugby/)
-    
-* [tennis](https://www.lequipe.fr/Tennis/)
-    
-* [cyclisme](https://www.lequipe.fr/Cyclisme/)
-    
-* [basket](https://www.lequipe.fr/Basket/)
-    
-* [auto-moto](https://www.lequipe.fr/Auto-moto/)
-    
-* [athlétisme](https://www.lequipe.fr/Athletisme/)
-    
-* [natation](https://www.lequipe.fr/Natation/)
-    
-* [handball](https://www.lequipe.fr/Handball/)
-    
-* [golf](https://www.lequipe.fr/Golf/)
-    
-* [combat](https://www.lequipe.fr/Sports-de-combat/)
-    
-* [ski-glace](https://www.lequipe.fr/Ski-glace/)
-    
-* [esport](https://www.lequipe.fr/Esport/)
-    
-* [médias](https://www.lequipe.fr/Medias/)
-* [dopage](https://www.lequipe.fr/Dopage/)
-* [coaching](https://www.lequipe.fr/Coaching/)
-* [Jeux olympiques](https://www.lequipe.fr/Jo/)
-* [Jeux paralympiques](https://www.lequipe.fr/Jeux-Paralympiques/)
-* [aviron](https://www.lequipe.fr/Aviron/)
-* [badminton](https://www.lequipe.fr/Badminton/)
-* [baseball](https://www.lequipe.fr/Baseball/)
-* [beach volley](https://www.lequipe.fr/Beach-volley/)
-* [breaking](https://www.lequipe.fr/Breaking/)
-* [canoë-kayak](https://www.lequipe.fr/Canoe-kayak/)
-* [équitation](https://www.lequipe.fr/Equitation/)
-* [escalade](https://www.lequipe.fr/Escalade/)
-* [escrime](https://www.lequipe.fr/Escrime/)
-* [gymnastique](https://www.lequipe.fr/Gymnastique/)
-    
-* [haltérophilie](https://www.lequipe.fr/Halterophilie/)
-* [hockey sur gazon](https://www.lequipe.fr/Hockey-sur-gazon/)
-* [hockey sur glace](https://www.lequipe.fr/Hockey-sur-glace/)
-* [NFL](https://www.lequipe.fr/Nfl/)
-    
-* [patinage de vitesse](https://www.lequipe.fr/Patinage-de-vitesse/)
-* [pentathlon moderne](https://www.lequipe.fr/Pentathlon-moderne/)
-* [skateboard](https://www.lequipe.fr/Skateboard/)
-* [softball](https://www.lequipe.fr/Softball/)
-* [sports extrêmes / outdoor](https://www.lequipe.fr/Alpinisme/)
-* [squash](https://www.lequipe.fr/Squash/)
-* [surf](https://www.lequipe.fr/Surf/)
-* [tennis de table](https://www.lequipe.fr/Tennis-de-table/)
-* [tir](https://www.lequipe.fr/Tir/)
-* [tir à l'arc](https://www.lequipe.fr/Tir-a-l-arc/)
-* [trail / ultra-trail](https://www.lequipe.fr/Ultra-trail/)
-* [triathlon](https://www.lequipe.fr/Triathlon/)
-* [voile](https://www.lequipe.fr/Voile/)
-* [volley-ball](https://www.lequipe.fr/Volley-ball/)
-    
-* [water-polo](https://www.lequipe.fr/Water-polo/)
-
-* accès rapide
-* [programme tv](https://www.lequipe.fr/programme-tv/agenda)
-* [jeux-concours](https://www.lequipe.fr/Tous-sports/Actualites/Jeux-concours-l-equipe/1401516)
-* [replays émissions](https://www.lequipe.fr/tv/collection/replays-emissions/)
-* [L'Équipe de choc](https://www.lequipe.fr/tv/collection/lequipedechoc/)
-* [L'Équipe de Greg](https://www.lequipe.fr/tv/collection/replays-emissions/lequipedegreg/)
-* [L'Équipe du soir](https://www.lequipe.fr/Tous-sports/actu-en-direct/l-equipe-connect-live/1371)
-
-* les privilèges abonnés
-* [le journal](https://www.lequipe.fr/abonnement/kiosque/le-journal)
-* [les articles](https://www.lequipe.fr/Payant/)
-* [les analyses tactiques](https://www.lequipe.fr/Analyse-tactique/)
-* [la sélection du week-end](https://www.lequipe.fr/collection/series/serie/la-selection-du-weekend/)
-* [les séries](https://www.lequipe.fr/explore/collection/series/)
-* [les documentaires](https://www.lequipe.fr/explore/collection/documentaires/)
-* [les longs formats](https://www.lequipe.fr/explore/collection/longs-formats/)
-* [les enquêtes](https://www.lequipe.fr/explore/collection/enquetes/)
-* [les grands entretiens](https://www.lequipe.fr/explore/collection/grands-entretiens/)
-* [les paroles d'ex](https://www.lequipe.fr/explore/collection/paroles-d-ex/)
-
-* autres thématiques
-* [Le Magazine](https://www.lequipe.fr/Provenance-L-Equipe-Magazine/)
-* [France Football](https://www.lequipe.fr/France-Football/)
-* [Vélo Magazine](https://www.lequipe.fr/Velo-mag/)
-* [Spécial L'Équipe](https://www.lequipe.fr/Tous-sports/Special-l-equipe-partenariat/)
-
-* services
-* [guide d'achat](https://www.lequipe.fr/Guide-d-achat/)
-* [flux RSS](https://www.lequipe.fr/Tous-sports/Actualites/Les-flux-rss-de-l-equipe/1299546)
-* [inscription à une course](https://sportsnconnect.lequipe.fr/calendrier-evenements/)
-* [la boutique L'Équipe](https://www.lequipe.fr/Tous-sports/Actualites/La-boutique-l-equipe-revient-cet-ete/1379779)
-* [la boutique des Unes et Photos](https://unes-et-photos.lequipe.fr/?utm_source=menu&utm_medium=menu&utm_campaign=fixe)
-* voir plus...
-
-* mentions légales
-    
-* [environnement](https://www.lequipe.fr/Page/Eco-contribution/1463263)
-* [paramétrer mon consentement](javascript:Didomi.preferences.show())
-* le groupe Amaury
-    
-* [aide et contact](https://www.lequipe.fr/mon-compte/faq)
-* [nous contacter](https://www.lequipe.fr/Page/Tous-les-contacts-utiles/1183885)
 
 L'ÉQUIPE
 
@@ -152,7 +18,7 @@ Politique des cookies sur Lequipe.fr
 Lorsque vous naviguez sur le site www.lequipe.fr, des cookies sont déposés sur votre appareil.
 ----------------------------------------------------------------------------------------------
 
-mis à jour le 12 août 2019 à 11h49
+publié le 4 juin 2019 à 18h18 mis à jour le 12 août 2019 à 11h49
 
 ma liste
 
@@ -170,9 +36,9 @@ Il existe deux grandes catégories de cookies : les cookies de session et les co
 
 **Les cookies persistants** aident le Site à se souvenir de vos informations et de vos paramètres lorsque vous le consulterez dans le futur. Cela résulte en un accès plus rapide et plus pratique pour vous.
 
-Lors de votre première visite, le Site est présenté en mode par défaut. Au cours de votre visite, vous sélectionnez vos préférences, lesquelles sont gardées en mémoire pour votre prochaine consultation du Site grâce à l'utilisation des Cookies persistants.
-
 L'ÉQUIPE
+
+Lors de votre première visite, le Site est présenté en mode par défaut. Au cours de votre visite, vous sélectionnez vos préférences, lesquelles sont gardées en mémoire pour votre prochaine consultation du Site grâce à l'utilisation des Cookies persistants.
 
 Les cookies persistants se divisent à leur tour en deux catégories :  
 \- Les cookies émis par notre Site : lequipe.fr  
@@ -264,181 +130,319 @@ De la même manière, L'Équipe SAS et L'Équipe 24/24 vous préviennent que le 
 
 Si vous consentez au dépôt de Cookies sur votre terminal, ceux-ci seront conservés pour une durée maximale de treize (13) mois à compter de leur dépôt sur votre terminal. À l'expiration de ce délai (ou si vous avez supprimé manuellement vos cookies), votre consentement pour le dépôt et/ou la lecture de cookies sera à nouveau requis et vous devrez paramétrer à nouveau vos choix directement dans le bandeau cookie [en cliquant ici](javascript:Didomi.preferences.show()).  
 
-publié le 4 juin 2019 à 18h18 mis à jour le 12 août 2019 à 11h49
-
 Les commentaires ont été désactivés.
 
 L'ÉQUIPE
 
 [chrono
 
-![icône bouton suivant](/img/icons/arrow_right.svg)](https://www.lequipe.fr/Football/Chrono)
+![icône bouton suivant](/img/icons/arrow_right.svg)](https://www.lequipe.fr/Chrono)
 
-filtrer : football
+filtrer : tous les sports
 
-[20:48
+[06:01
 
-Pat. artistique
+Escrime,
 
-Siao Him Fa disputera les GP de France et de Chine](https://www.lequipe.fr/Patinage-artistique/Actualites/Siao-him-fa-va-disputer-les-grands-prix-de-france-et-de-chine-cet-hiver/1473650 "Siao Him Fa disputera les GP de France et de Chine")
+Euro,
 
-[20:46
+Fleuret (F)
 
-Hockey sur gazon,
+Innocentée, Thibus remet le masque](https://www.lequipe.fr/Jo-2024-paris/Escrime/Article/Innocentee-et-de-retour-aux-championnats-d-europe-thibus-veut-rallumer-cette-petite-flamme-avant-les-jo/1475789 "Innocentée, Thibus remet le masque")
 
-Nations Cup
+[05:10
 
-La France battue en finale](https://www.lequipe.fr/Hockey-sur-gazon/Actualites/La-france-battue-en-finale/1473649 "La France battue en finale")
+Euro 2024
 
-[20:45
+Le programme TV des matches de ce mercredi 19 juin](https://www.lequipe.fr/Football/Actualites/Euro-2024-le-programme-tv-des-matches-de-ce-mercredi-19-juin/1475667 "Le programme TV des matches de ce mercredi 19 juin")
 
-Foot,
+[00:31
 
-Amical
-
-Italie - Bosnie-Herzégovine sur la chaine L'Équipe](https://www.lequipe.fr/tv/videos/live/k5s40USR9HxnG5aCf1y "Italie - Bosnie-Herzégovine sur la chaine L'Équipe")
-
-[20:45
-
-Foot,
-
-Amical
-
-Monténégro - Géorgie sur L'Équipe live foot](https://www.lequipe.fr/tv/videos/live/kXRfcKHV9HhcZuqwBYP "Monténégro - Géorgie sur L'Équipe live foot")
-
-[20:45
-
-Foot,
-
-Amical
-
-Slovaquie - Pays de Galles sur L'Équipe live foot](https://www.lequipe.fr/tv/videos/live/k3HiS3JB0BsORKqwC49 "Slovaquie - Pays de Galles sur L'Équipe live foot")
-
-[20:36
-
-Rugby,
-
-Top 14,
-
-UBB
-
-Les questions après la blessure de Jalibert](https://www.lequipe.fr/Rugby/Article/Top-14-pour-jalibert-ubb-a-nouveau-blesse-samedi-ca-sent-la-fin-de-saison/1473640 "Les questions après la blessure de Jalibert")
-
-[20:30
-
-Volley,
-
-L. nations (H)
-
-France - Argentine sur L'Équipe live 1](https://www.lequipe.fr/tv/videos/live/k1kypsRZF9plQhqwBRS "France - Argentine sur L'Équipe live 1")
-
-[20:26
-
-Basket,
-
-Betclic Élite
-
-Monaco domine Paris lors du match 3 de la finale](https://www.lequipe.fr/Basket/Actualites/Monaco-domine-paris-lors-du-match-3-de-la-finale-du-championnat/1473646 "Monaco domine Paris lors du match 3 de la finale")
-
-[20:07
-
-Roland-Garros (H)
-
-L'incroyable précocité d'Alcaraz en chiffres](https://www.lequipe.fr/Tennis/Actualites/Roland-garros-l-incroyable-precocite-de-carlos-alcaraz-en-chiffres/1473641 "L'incroyable précocité d'Alcaraz en chiffres")
-
-[19:50
-
-Cyclisme,
-
-Dauphiné
-
-Roglic libéré, victorieux et ambitieux pour le Tour](https://www.lequipe.fr/Cyclisme-sur-route/Article/Vainqueur-du-criterium-du-dauphine-primoz-roglic-reprend-gout-au-combat/1473623 "Roglic libéré, victorieux et ambitieux pour le Tour")
-
-[19:48
-
-Médias
-
-Charles Biétry relève le #défigivré](https://www.lequipe.fr/Medias/Actualites/Charles-bietry-releve-le-defigivre-contre-la-maladie-de-charcot/1473638 "Charles Biétry relève le #défigivré")
-
-[19:46
-
-Hand,
-
-C1 (H)
-
-Douzième sacre européen pour le FC Barcelone](https://www.lequipe.fr/Handball/Actualites/Vainqueurs-d-aalborg-le-barca-et-ses-bleus-remportent-une-nouvelle-ligue-des-champions/1473635 "Douzième sacre européen pour le FC Barcelone")
-
-[19:40
-
-Auto,
-
-24 Heures du Mans
-
-Porsche domine la Journée Test](https://www.lequipe.fr/Sport-auto/Actualites/Porsche-signe-le-meilleur-temps-de-la-journee-test-au-mans/1473632 "Porsche domine la Journée Test")
-
-[19:33
-
-Roland-Garros (H)
-
-Alcaraz sacré pour la première fois](https://www.lequipe.fr/Tennis/Actualites/Vainqueur-d-alexander-zverev-carlos-alcaraz-remporte-son-premier-roland-garros/1473631 "Alcaraz sacré pour la première fois")
-
-[19:24
-
-Gym,
+Natation,
 
 Championnats de France
 
-Tommasone, un dernier titre avant la retraite](https://www.lequipe.fr/Gymnastique/Actualites/Cyril-tommasone-sort-par-le-haut-aux-championnats-de-france-bilan-contraste-pour-melanie-de-jesus-dos-santos/1473627 "Tommasone, un dernier titre avant la retraite")
+Manaudou étonne sur 100m](https://www.lequipe.fr/Natation/Actualites/Florent-manaudou-claque-une-perf-inattendue-sur-100m/1475831 "Manaudou étonne sur 100m")
 
-[19:15
+[00:17
 
-F1,
+Euro 2024,
 
-GP du Canada
+République tchèque
 
-La grille de départ](https://www.lequipe.fr/Formule-1/grand-prix-du-canada/saison-2024/page-calendrier-resultats/qualifications "La grille de départ")
+Hasek : «Dommage de prendre un but à la dernière minute»](https://www.lequipe.fr/Football/Actualites/-dommage-de-prendre-un-but-a-la-derniere-minute-les-regrets-tcheques-face-au-portugal/1475829 "Hasek : «Dommage de prendre un but à la dernière minute»")
 
-[19:14
+[00:14
 
-Judo
+Euro 2024,
 
-Teddy Riner gagne l'Open de Madrid](https://www.lequipe.fr/Judo/Actualites/Teddy-riner-remporte-l-open-de-madrid-a-quelques-semaines-des-jo-2024-de-paris/1473626 "Teddy Riner gagne l'Open de Madrid")
+Angleterre
 
-[19:08
+Mainoo encense Bellingham](https://www.lequipe.fr/Football/Actualites/Kobbie-mainoo-angleterre-c-est-merite-que-bellingham-soit-en-lice-pour-le-ballon-d-or/1475826 "Mainoo encense Bellingham")
 
-Foot,
+[18 juin
+
+Euro 2024
+
+Les tops-flops de Portugal - République tchèque](https://www.lequipe.fr/Football/Article/Les-tops-flops-de-portugal-republique-tcheque-vitinha-pari-gagnant/1475819 "Les tops-flops de Portugal - République tchèque")
+
+[18 juin
+
+Euro 2024,
 
 Bleus
 
-Giroud et Saliba titulaires face au Canada](https://www.lequipe.fr/Football/Actualites/Giroud-et-saliba-titulaires-pour-france-canada/1473625 "Giroud et Saliba titulaires face au Canada")
+Mbappé entre frayeur et espoir](https://www.lequipe.fr/Football/Article/-ca-va-durer-avec-ou-sans-operation-mbappe-entre-frayeur-et-espoir-apres-sa-fracture-du-nez/1475809 "Mbappé entre frayeur et espoir")
 
-[19:03
+[18 juin
 
-Equitation,
+Euro 2024,
 
-Grand Prix du Jumping International
+Bleus
 
-Doublé américain à la Baule](https://www.lequipe.fr/Jo-2024-paris/Equitation/Actualites/Quand-la-baule-speak-americain/1473624 "Doublé américain à la Baule")
+Dupont répond avec humour à Mbappé](https://www.lequipe.fr/Football/Actualites/Antoine-dupont-repond-avec-humour-a-kylian-mbappe-apres-sa-fracture-du-nez/1475812 "Dupont répond avec humour à Mbappé")
 
-[18:48
+[18 juin
 
-Rugby,
+Euro 2024
 
-Top 14
+Le Portugal s'impose sur le gong](https://www.lequipe.fr/Football/Actualites/Le-portugal-s-impose-sur-le-gong-pour-son-entree-dans-la-competition/1475811 "Le Portugal s'impose sur le gong")
 
-Vannes face au chantier de l'accession](https://www.lequipe.fr/Rugby/Article/Effectif-budget-stade-vannes-face-au-gros-chantier-de-l-accession-en-top-14/1473617 "Vannes face au chantier de l'accession")
+[18 juin
+
+Foot,
+
+Arkema Première Ligue
+
+Chawinga du PSG vers l'OL](https://www.lequipe.fr/Football/Actualites/Meilleure-buteuse-de-d1-arkema-avec-le-psg-tabitha-chawinga-sur-le-point-de-signer-a-l-ol/1475810 "Chawinga du PSG vers l'OL")
+
+[18 juin
+
+Auto,
+
+Indycar
+
+Pourchaire évincé par McLaren après cinq courses](https://www.lequipe.fr/Sport-auto/Actualites/Theo-pourchaire-evince-par-arrow-mclaren-apres-cinq-courses/1475806 "Pourchaire évincé par McLaren après cinq courses")
+
+[18 juin
+
+Euro 2024,
+
+Croatie
+
+Dalic veut ses «intouchables» contre l'Albanie](https://www.lequipe.fr/Football/Article/Malgre-la-defaite-contre-l-espagne-dalic-veut-ses-trois-intouchables-au-milieu-de-terrain-face-a-l-albanie/1475799 "Dalic veut ses «intouchables» contre l'Albanie")
+
+[18 juin
+
+Athlé
+
+Le «Grand Slam Track» entend «révolutionner» l'athlétisme](https://www.lequipe.fr/Athletisme/Actualites/Que-des-epreuves-de-courses-un-prize-money-record-un-nouveau-circuit-de-meetings-verra-le-jour-en-2025/1475802 "Le «Grand Slam Track» entend «révolutionner» l'athlétisme")
+
+[18 juin
+
+Volley,
+
+Ligue des nations (H)
+
+Les Bleus sans Chinenyeze à Manille](https://www.lequipe.fr/Volley-ball/Actualites/Les-bleus-sans-barthelemy-chinenyeze-pour-le-tournoi-de-ligue-des-nations-a-manille/1475800 "Les Bleus sans Chinenyeze à Manille")
+
+[18 juin
+
+Euro 2024,
+
+Italie
+
+Raspadori: «Nous avons ce qu'il faut pour faire mal à l'Espagne»](https://www.lequipe.fr/Football/Actualites/Giacomo-raspadori-italie-nous-avons-ce-qu-il-faut-pour-faire-mal-a-l-espagne/1475795 "Raspadori: «Nous avons ce qu'il faut pour faire mal à l'Espagne»")
+
+[18 juin
+
+Euro 2024,
+
+Albanie
+
+Hoxha pour remplacer Seferi](https://www.lequipe.fr/Football/Actualites/Albanie-hoxha-pour-remplacer-seferin-contre-la-croatie/1475794 "Hoxha pour remplacer Seferi")
+
+[18 juin
+
+Skateboard
+
+Les Bleus demandent l'autonomie au sein de la Fédération](https://www.lequipe.fr/Skateboard/Article/-rendre-sa-liberte-et-sa-dignite-au-skateboard-francais-le-mal-etre-de-plusieurs-membres-de-l-equipe-de-france/1475792 "Les Bleus demandent l'autonomie au sein de la Fédération")
+
+[18 juin
+
+Tennis,
+
+ATP,
+
+Queen's
+
+Andy Murray vainqueur pour son 1000e match](https://www.lequipe.fr/Tennis/Actualites/Andy-murray-vainqueur-au-premier-tour-du-queen-s-pour-son-1000e-match-en-carriere/1475785 "Andy Murray vainqueur pour son 1000e match")
+
+[18 juin
+
+Euro 2024,
+
+Bleus
+
+Qui pour remplacer Mbappé?](https://www.lequipe.fr/Football/Article/Olivier-giroud-principale-alternative-a-kylian-mbappe-s-il-est-apte/1475768 "Qui pour remplacer Mbappé?")
+
+[18 juin
+
+Euro 2024,
+
+Bleus
+
+Deschamps confirme que Mbappé devra se faire opérer](https://www.lequipe.fr/Football/Actualites/Deschamps-confirme-que-mbappe-devra-se-faire-operer-du-nez-mais-pas-dans-l-immediat/1475783 "Deschamps confirme que Mbappé devra se faire opérer")
 
 L'ÉQUIPE
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/675/covers/Preview-MEDIUM-32804.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/687/covers/Preview-MEDIUM-33372.jpg?v=4)
 
 lire l'édition
 
 L'ÉQUIPE
 
 L'ÉQUIPE
+
+réglages accessibilité
+
+* [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
+* [Euro 2024](https://www.lequipe.fr/Football/Euro/)
+
+* [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
+    
+    lire le journal](https://www.lequipe.fr/abonnement/kiosque/)
+* [![voir la chaine en direct](//www.lequipe.fr/img/icons/channel.svg)
+    
+    voir la chaine en direct](https://www.lequipe.fr/tv/)
+* [![écouter la chaine en direct](//www.lequipe.fr/img/icons/podcast.svg)
+    
+    écouter la chaine en direct](https://www.lequipe.fr/Tous-sports/Actualites/Ecoutez-la-chaine-l-equipe-en-direct/1263780)
+* [![voir toutes les vidéos](//www.lequipe.fr/img/icons/channel.svg)
+    
+    voir toutes les vidéos](https://www.lequipe.fr/tv/collection/dernieres-videos/)
+* [![écouter tous les podcasts](//www.lequipe.fr/img/icons/podcast.svg)
+    
+    écouter tous les podcasts](https://www.lequipe.fr/collection/podcasts/)
+* ![ma liste](//www.lequipe.fr/img/icons/bookmarks.svg)
+    
+    ma liste
+    
+* [lire les articles abonnés du jour](https://www.lequipe.fr/Payant/)
+
+* résultats et actualités
+* [football](https://www.lequipe.fr/Football/)
+    
+* [rugby](https://www.lequipe.fr/Rugby/)
+    
+* [tennis](https://www.lequipe.fr/Tennis/)
+    
+* [cyclisme](https://www.lequipe.fr/Cyclisme/)
+    
+* [basket](https://www.lequipe.fr/Basket/)
+    
+* [auto-moto](https://www.lequipe.fr/Auto-moto/)
+    
+* [athlétisme](https://www.lequipe.fr/Athletisme/)
+    
+* [natation](https://www.lequipe.fr/Natation/)
+    
+* [handball](https://www.lequipe.fr/Handball/)
+    
+* [golf](https://www.lequipe.fr/Golf/)
+    
+* [combat](https://www.lequipe.fr/Sports-de-combat/)
+    
+* [ski-glace](https://www.lequipe.fr/Ski-glace/)
+    
+* [esport](https://www.lequipe.fr/Esport/)
+    
+* [médias](https://www.lequipe.fr/Medias/)
+* [dopage](https://www.lequipe.fr/Dopage/)
+* [coaching](https://www.lequipe.fr/Coaching/)
+* [Jeux olympiques](https://www.lequipe.fr/Jo/)
+* [Jeux paralympiques](https://www.lequipe.fr/Jeux-Paralympiques/)
+* [aviron](https://www.lequipe.fr/Aviron/)
+* [badminton](https://www.lequipe.fr/Badminton/)
+* [baseball](https://www.lequipe.fr/Baseball/)
+* [beach volley](https://www.lequipe.fr/Beach-volley/)
+* [breaking](https://www.lequipe.fr/Breaking/)
+* [canoë-kayak](https://www.lequipe.fr/Canoe-kayak/)
+* [équitation](https://www.lequipe.fr/Equitation/)
+* [escalade](https://www.lequipe.fr/Escalade/)
+* [escrime](https://www.lequipe.fr/Escrime/)
+* [gymnastique](https://www.lequipe.fr/Gymnastique/)
+    
+* [haltérophilie](https://www.lequipe.fr/Halterophilie/)
+* [hockey sur gazon](https://www.lequipe.fr/Hockey-sur-gazon/)
+* [hockey sur glace](https://www.lequipe.fr/Hockey-sur-glace/)
+* [NFL](https://www.lequipe.fr/Nfl/)
+    
+* [natation artistique](https://www.lequipe.fr/Natation-artistique/)
+* [natation en eau libre](https://www.lequipe.fr/Natation-en-eau-libre/)
+* [patinage de vitesse](https://www.lequipe.fr/Patinage-de-vitesse/)
+* [pentathlon moderne](https://www.lequipe.fr/Pentathlon-moderne/)
+* [plongeon](https://www.lequipe.fr/Plongeon/)
+* [skateboard](https://www.lequipe.fr/Skateboard/)
+* [softball](https://www.lequipe.fr/Softball/)
+* [sports extrêmes / outdoor](https://www.lequipe.fr/Alpinisme/)
+* [squash](https://www.lequipe.fr/Squash/)
+* [surf](https://www.lequipe.fr/Surf/)
+* [tennis de table](https://www.lequipe.fr/Tennis-de-table/)
+* [tir](https://www.lequipe.fr/Tir/)
+* [tir à l'arc](https://www.lequipe.fr/Tir-a-l-arc/)
+* [trail / ultra-trail](https://www.lequipe.fr/Ultra-trail/)
+* [triathlon](https://www.lequipe.fr/Triathlon/)
+* [voile](https://www.lequipe.fr/Voile/)
+* [volley-ball](https://www.lequipe.fr/Volley-ball/)
+    
+* [water-polo](https://www.lequipe.fr/Water-polo/)
+
+* accès rapide
+* [programme tv](https://www.lequipe.fr/programme-tv/agenda)
+* [jeux-concours](https://www.lequipe.fr/Tous-sports/Actualites/Jeux-concours-l-equipe/1401516)
+* [replays émissions](https://www.lequipe.fr/tv/collection/replays-emissions/)
+* [L'Équipe de choc](https://www.lequipe.fr/tv/collection/lequipedechoc/)
+* [L'Équipe de Greg](https://www.lequipe.fr/tv/collection/replays-emissions/lequipedegreg/)
+* [L'Équipe du soir](https://www.lequipe.fr/Tous-sports/actu-en-direct/l-equipe-connect-live/1371)
+
+* les privilèges abonnés
+* [le journal](https://www.lequipe.fr/abonnement/kiosque/le-journal)
+* [les articles](https://www.lequipe.fr/Payant/)
+* [les analyses tactiques](https://www.lequipe.fr/Analyse-tactique/)
+* [la sélection du week-end](https://www.lequipe.fr/collection/series/serie/la-selection-du-weekend/)
+* [les séries](https://www.lequipe.fr/explore/collection/series/)
+* [les documentaires](https://www.lequipe.fr/explore/collection/documentaires/)
+* [les longs formats](https://www.lequipe.fr/explore/collection/longs-formats/)
+* [les enquêtes](https://www.lequipe.fr/explore/collection/enquetes/)
+* [les grands entretiens](https://www.lequipe.fr/explore/collection/grands-entretiens/)
+* [les paroles d'ex](https://www.lequipe.fr/explore/collection/paroles-d-ex/)
+
+* autres thématiques
+* [Le Magazine](https://www.lequipe.fr/Provenance-L-Equipe-Magazine/)
+* [France Football](https://www.lequipe.fr/France-Football/)
+* [Vélo Magazine](https://www.lequipe.fr/Velo-mag/)
+* [Spécial L'Équipe](https://www.lequipe.fr/Tous-sports/Special-l-equipe-partenariat/)
+* [Expositions photos](https://www.lequipe.fr/Expositions-photo/)
+
+* services
+* [guide d'achat](https://www.lequipe.fr/Guide-d-achat/)
+* [flux RSS](https://www.lequipe.fr/Tous-sports/Actualites/Les-flux-rss-de-l-equipe/1299546)
+* [inscription à une course](https://sportsnconnect.lequipe.fr/calendrier-evenements/)
+* [la boutique L'Équipe](https://www.lequipe.fr/Tous-sports/Actualites/La-boutique-l-equipe-revient-cet-ete/1379779)
+* [la boutique des Unes et Photos](https://unes-et-photos.lequipe.fr/?utm_source=menu&utm_medium=menu&utm_campaign=fixe)
+* voir plus...
+
+* mentions légales
+    
+* [environnement](https://www.lequipe.fr/Page/Eco-contribution/1463263)
+* [paramétrer mon consentement](javascript:Didomi.preferences.show())
+* le groupe Amaury
+    
+* [aide et contact](https://www.lequipe.fr/mon-compte/faq)
+* [nous contacter](https://www.lequipe.fr/Page/Tous-les-contacts-utiles/1183885)
 
 liens rapides
 
