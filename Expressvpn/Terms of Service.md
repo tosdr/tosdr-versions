@@ -67,6 +67,8 @@
     * [My Account](https://www.expressvpn.com/sign-in)
     
 
+[Get an extra 30 days free on any plan when you sign up now.](https://www.expressvpn.com/order)[Don’t miss out! Get 4 months free when you sign up for a 12-month plan.](https://www.expressvpn.com/order)
+
 * [Home](https://www.expressvpn.com/ "Express VPN")
 * Terms of Service
 
