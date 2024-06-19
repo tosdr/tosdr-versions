@@ -8,7 +8,7 @@
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
     * [For Healthcare](https://www.threatstop.com/healthcare-geisinger?hsLang=en)
     * [For Education](https://www.threatstop.com/education-university-baltimore?hsLang=en)
-    * [For Service Providers](https://www.threatstop.com/msp?hsLang=en)
+    * [For MSPs](https://www.threatstop.com/msp?hsLang=en)
     * [For Enterprises](https://www.threatstop.com/enterprise?hsLang=en)
     * [For SMBs](https://www.threatstop.com/smbs-earth-systems?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
@@ -46,6 +46,8 @@
  Search...
 
 ×
+
+#### Connect with Customers. Disconnect from Risks.
 
 Privacy
 =======
@@ -128,9 +130,9 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 ★★★★★
 
-ThreatSTOP is the clear leader in IP reputation services, and provides invaluable protection for AISO and our customers against zero-day, APTs, botnets and other advanced threats.
+Implementing this system has helped to decrease the number of total attacks against our customers by about 40 percent.
 
-Phil Nash - CTO, AISO.net
+Chris Drake - Founder/CTO, FireHost
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
