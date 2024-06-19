@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240326_055020000/edmonds-barbara-watts-simon/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/seymour-david/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20240326_055020000/edmonds-barbara-watts-simon/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/seymour-david/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
