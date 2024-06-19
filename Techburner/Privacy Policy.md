@@ -333,7 +333,7 @@ It’s been a few days since the launch of Apex Legends Mobile and people are en
 
 [![](https://techburner.in/wp-content/uploads/2022/12/miui-14-official-1-80x80.jpg)
 
-Software Update1 year ago
+Software Update2 years ago
 
 MIUI 14 Announced : What’s New, Features, and Devices List
 ----------------------------------------------------------](https://techburner.in/miui-14-announced-whats-new-features-and-devices-list/)[![google pixel 7, 7 pro stock wallpapers, google pixel 7 pro stock wallpapers download, google pixel 7 stock wallpapers download](https://techburner.in/wp-content/uploads/2022/10/ft1-80x80.jpg)
