@@ -76,8 +76,6 @@
         * [Transfer Student Calculator](https://tcc.ruffalonl.com/Rockford%20University/Transfer-Students)
     * [CONNECT](http://#)
         * [Request More Information](https://www.rockford.edu/eforms/admissionsrequest/)
-        * [Visit and Tour Campus](https://www.rockford.edu/admission/visit/)
-        * [Apply to Rockford University](https://www.rockford.edu/admission/apply/)
 * [Campus & Community](https://www.rockford.edu/community/)
     * [FOR STUDENTS](#)
         * [Campus & Community](https://www.rockford.edu/community/)
