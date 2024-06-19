@@ -3,8 +3,8 @@
 
 [](https://www.philips.com/global "Home")
 
-* [Consumer products](https://www.philips.ie/)
-* [Professional healthcare](https://www.philips.ie/healthcare)
+* [Consumer products](https://www.philips.com/)
+* [Professional healthcare](https://www.philips.com/healthcare)
 * [Other business solutions](#)
     
     Back
@@ -12,9 +12,9 @@
     Other business solutions
     
     * [Lighting](https://www.lighting.philips.com/ "Lighting (opens in a new window)")
-    * [Automotive](https://www.philips.com/c-w/country-selectorpage/automotive-products-country-selector.html)
+    * [Automotive](https://www.philips.com/automotive)
     * [Hearing solutions](https://www.hearingsolutions.philips.com/ "Hearing solutions (opens in a new window)")
-    * [Display solutions](https://www.philips.co.uk/p-m-pr/professional-displays)
+    * [Display solutions](https://www.philips.com/pds)
     * [Dictation solutions](https://www.dictation.philips.com/ "Dictation solutions (opens in a new window)")
     
 * [About us](#)
