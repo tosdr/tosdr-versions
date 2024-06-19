@@ -1,8 +1,6 @@
 [Skip to content](#skip-nav-target)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%2043'%3E%3C/svg%3E)
-
-![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/mattermost-logo-horizontal.svg)](https://mattermost.com/)
+[![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/mattermost-logo-horizontal.svg)](https://mattermost.com/)
 
 * [Platform](javascript:void(0);)
     
@@ -53,47 +51,15 @@
     
     Customers
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-usaf.png)
-        
-        USAF](https://mattermost.com/customers/us-department-of-defense/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-fujitsu.png)
-        
-        Fujitsu](https://mattermost.com/customers/fujitsu/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-rte.png)
-        
-        RTE](https://mattermost.com/customers/rte/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-cern.png)
-        
-        CERN](https://mattermost.com/customers/cern/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-usaf.png) USAF](https://mattermost.com/customers/us-department-of-defense/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-fujitsu.png) Fujitsu](https://mattermost.com/customers/fujitsu/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-rte.png) RTE](https://mattermost.com/customers/rte/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-cern.png) CERN](https://mattermost.com/customers/cern/)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-nri.png)
-        
-        NRI](https://mattermost.com/customers/nri/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-pramacom.png)
-        
-        Pramacom](https://mattermost.com/customers/pramacom/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-crossover.png)
-        
-        Crossover Health](https://mattermost.com/customers/crossover-health/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-netfoundry.png)
-        
-        Netfoundry](https://mattermost.com/customers/netfoundry/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-nri.png) NRI](https://mattermost.com/customers/nri/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-pramacom.png) Pramacom](https://mattermost.com/customers/pramacom/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-crossover.png) Crossover Health](https://mattermost.com/customers/crossover-health/)
+    *  [![](https://mattermost.com/wp-content/themes/mattermost-2021/frontend/dist/img/header/logos/nav-logo-icon-netfoundry.png) Netfoundry](https://mattermost.com/customers/netfoundry/)
     
     [See more customer stories »](https://mattermost.com/customers/)
     
