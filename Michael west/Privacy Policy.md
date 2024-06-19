@@ -9,7 +9,7 @@
 * [Story Archive](https://michaelwest.com.au/all-articles/)
 * [Our Contributors](https://michaelwest.com.au/contributors/)
 
-[![MWM logo svg](https://michaelwest.com.au/wp-content/uploads/2022/03/MWMlogo-un1.svg "MWM logo svg")](https://www.michaelwest.com.au/)
+[![MWM logo svg](https://michaelwest.com.au/wp-content/uploads/2022/03/MWMlogo-un1-1.svg "MWM logo svg")](https://www.michaelwest.com.au/)
 
 a
 
@@ -194,7 +194,7 @@ If you have any questions about this Privacy Policy or wish to access or remove 
 
 Or in writing to Michel West Media, 23 Belgrave St, Manly NSW 2095.
 
-![MWM logo svg](https://michaelwest.com.au/wp-content/uploads/2022/03/MWMlogo-un1.svg "MWM logo svg")
+![MWM logo svg](https://michaelwest.com.au/wp-content/uploads/2022/03/MWMlogo-un1-1.svg "MWM logo svg")
 
 * [Follow](https://www.facebook.com/michaelwest.journo "Follow on Facebook")
 * [Follow](https://twitter.com/michaelwestbiz "Follow on X")
@@ -208,40 +208,9 @@ This website is dedicated to the public interest. Our focus is investigations in
 
 Good sources are critical to good journalism. We have always worked closely with our contacts and jealously guard their identities. Absolute confidentiality is assured.
 
-Don’t pay so you can read it.
-
-Pay so everyone can.
-
-[BECOME A SUPPORTER](https://www.michaelwest.com.au/support-us/)
-
-* [What's the Scam](https://www.michaelwest.com.au/category/whats-the-scam/)
-* [Lobbyland](https://www.michaelwest.com.au/category/lobbyland/)
-* [Revolving Doors](https://www.michaelwest.com.au/revolving-doors/)
-* [War Powers](https://www.michaelwest.com.au/category/war-powers-reform/)
-* [Q.E.D. - Federal ICAC now](https://www.michaelwest.com.au/the-case-for-a-federal-icac/)
-* [Secret Rich List](https://www.michaelwest.com.au/secret-rich-list/)
-
-Weekly Edition
-
-Daily News Feed
-
-GET NEWSLETTER
+GET WEEKLY NEWSLETTER
 
 Loading...
-
-#### Thank you!
-
-Weekly email normally sent on Wednesday
-
-The Daily Newsfeed every day at 5pm
-
-Don’t pay so you can read it. Pay so everyone can.
-
-[BECOME A SUPPORTER](https://www.michaelwest.com.au/support-us/)
-
-Weekly Edition
-
-Daily News Feed
 
 GET NEWSLETTER
 
