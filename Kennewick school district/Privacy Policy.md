@@ -299,7 +299,7 @@ Find Us
 
 [Kennewick School District](https://www.ksd.org/)
 
-7:30 a.m. to 4:30 p.m.
+Summer Public Hours: 7:30 a.m. to 4 p.m.
 
 Administration Center
 
