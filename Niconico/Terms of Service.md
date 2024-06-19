@@ -1,106 +1,288 @@
-![](/assets/images/error.svg) このサイトはnicovideo.jp以外のURLでアクセスしています
+[![ニコニコインフォ](/niconews/wp-content/themes/nicoinfo/images/niconicoinfo_logo.png)](https://account.nicovideo.jp/niconews/)
+========================================================================================================================
 
-URLが正しいかご確認ください。 詳細は [不審なコピーサイトへの注意喚起をヘッダーに表示します](https://blog.nicovideo.jp/niconews/152091.html) をご確認ください。
+CATEGORYカテゴリー
+-------------
 
-Niconico Terms of Use
-=====================
+### Specialおすすめコンテンツ
 
-Niconico Terms of Use (these “Terms of Use”) apply to any use by users (simply, the “User(s)”) of “Niconico” and services related to “Niconico” (including services operated by a company other than the Operating Company; collectively, “Niconico”) which are provided by DWANGO Co., Ltd. (the “Operating Company”). The Users shall consent to these Terms of Use and “Basic Policy on Personal Information Protection” in using “niconico.”In addition, the Users shall respect and consent to the substance of the niconico Action Guidelines established by the Operating Company.
+* [TOPICS](https://account.nicovideo.jp/niconews/category/topic/)
 
-These Terms of Use provide basic matters that will commonly apply to all individual services of “Niconico” (the “Individual Services”), and in order to use the Individual Services, the Users must consent to the terms of use of each Individual Service (the “Individual Terms of Use”) in addition to these Terms of Use. If there is any discrepancy concerning any matter between the Individual Terms of Use and these Terms of Use, the Individual Terms of Use shall have precedence over these Terms of Use.
+### Genreジャンル
 
-If the User is a minor, they shall have a person with parental authority (shinkensha) confirm these Terms of Use and “Individual Terms of Use” (These Terms of Use, etc. ), and use “Niconico” with the consent of the person with parental authority. Minor Users who used “Niconico” will be deemed to have used the same with the foregoing consent of the person with parental authority. However, where there any mandatory provisions limiting the use of “Niconico” by a person under 13-years of age in the country that the User resides in, the relevant person shall not be allowed to use “Niconico” irrespective of the foregoing.
+* [アニメ・声優・漫画](https://account.nicovideo.jp/niconews/category/ge_anime/)
+* [社会・政治・報道](https://account.nicovideo.jp/niconews/category/ge_society/)
+* [音楽・アーティスト・アイドル](https://account.nicovideo.jp/niconews/category/ge_music/)
+* [ゲーム](https://account.nicovideo.jp/niconews/category/ge_game/)
+* [VOCALOID・VTuber・ユーザークリエイター](https://account.nicovideo.jp/niconews/category/ge_user/)
+* [映画・ドラマ・舞台・2.5次元](https://account.nicovideo.jp/niconews/category/ge_movie/)
+* [その他](https://account.nicovideo.jp/niconews/category/ge_other/)
 
-1\. Registration of account information
----------------------------------------
+### Serviceサービス
 
-The Users shall consent to these Terms of Use and register their account information (including all rights and interests in the registered information and account; hereinafter the same), and may use “Niconico” operated by the Operating Company using the registered account information. The Operating Company shall not be liable whatsoever if a User suffers any damage because the account information is inaccurate or false, and the Users shall consent to this.
+* [動画](https://account.nicovideo.jp/niconews/category/se_nicovideo)
+* [静画](http://blog.nicovideo.jp/seiga/)
+* [生放送](https://account.nicovideo.jp/niconews/category/se_live)
+* [ニコニコアプリ](https://account.nicovideo.jp/niconews/category/se_app)
+* [チャンネル](https://account.nicovideo.jp/niconews/category/se_ch)
+* [大百科](https://account.nicovideo.jp/niconews/category/pedia)
+* [バーチャルキャスト](https://account.nicovideo.jp/niconews/category/virtualcast)
+* [N Air](https://account.nicovideo.jp/niconews/category/se_n-air)
+* [ニコニ立体](https://account.nicovideo.jp/niconews/category/se_3d)
+* [ニコニ広告](https://account.nicovideo.jp/niconews/category/nicoad)
+* [スマートフォン・アプリ](https://account.nicovideo.jp/niconews/category/sp_pickup)
+* [他デバイス](https://account.nicovideo.jp/niconews/category/device)
+* [その他](https://account.nicovideo.jp/niconews/category/se_other)
 
-The Operating Company may, at its discretion, add or otherwise change the Individual Services available with the account information that the Users registered, and the Users consent to this.
+### Noticeお知らせ
 
-The Operating Company shall notify the Users of the information related to such changes on the window on which the services are provided, by which the Users shall learn of such information.
+* [機能・お知らせ](https://account.nicovideo.jp/niconews/category/ge_function)
+* [メンテナンス・障害・復旧](https://account.nicovideo.jp/niconews/category/ge_maintenance)
 
-In addition, there may be instances where there are functions available by which the Users may, at their discretion, select whether or not they will use the registered account information when using each Individual Service.
+TOPICS
+------
 
-The reason why the registered account information is necessary and the substance of the services provided using the registered account information shall be explained on the window on which the services are provided on the website of each Individual Service, by which the Users shall learn of such information.
+* [【調査中/追記】ニコニコサービス全体において正常に利用できない場合がある不具合
+    
+    2024-06-08](https://account.nicovideo.jp/niconews/225099.html)
+* [【シーズン王者決定】6/9(日)18時より世界最高峰のダンスリーグ『D.LEAGUE SEASON23-24 CHAMPIONSHIP』生中継
+    
+    2024-06-06](https://account.nicovideo.jp/niconews/224911.html)
+* [【6月テーマ：東方歌ってみた＆竹取飛翔アレンジコンテスト】東方ステーション×ニコニコの投稿コンテストが開幕！「東方ニコレクション」6月から毎月開催！
+    
+    2024-06-06](https://account.nicovideo.jp/niconews/224708.html)
+* [小西克幸と平川大輔がお送りするレギュラーラジオ番組6/13に放送/ゲスト：森田成一
+    
+    2024-06-05](https://account.nicovideo.jp/niconews/222070.html)
+* [【6/26 00:00～7/2 16:59】既存楽曲復活祭2024 開催！ 今回のテーマは「音声合成キャラクター」
+    
+    2024-06-04](https://account.nicovideo.jp/niconews/224450.html)
 
-The Users shall not assign, lend or allow use of their account information to or by a third party for any purpose.
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/topic)
 
-2\. Management of accounts
+アニメ・声優・漫画
+---------
+
+* [ガールズバンドクライ/ダンジョン飯 他 6月第3週のアニメ一挙放送情報
+    
+    2024-06-07](https://account.nicovideo.jp/niconews/224801.html)
+* [小西克幸と平川大輔がお送りするレギュラーラジオ番組6/13に放送/ゲスト：森田成一
+    
+    2024-06-05](https://account.nicovideo.jp/niconews/222070.html)
+* [佐々木とピーちゃん/怪獣８号 他 6月第2週のアニメ一挙放送情報
+    
+    2024-06-03](https://account.nicovideo.jp/niconews/224171.html)
+* [悪役令嬢レベル99～私は裏ボスですが魔王ではありません～/NieR:Automata Ver1.1a 他 5月第5週のアニメ一挙放送情報
+    
+    2024-05-24](https://account.nicovideo.jp/niconews/223595.html)
+* [川島零士のオンラインくじ実施記念番組5/27に放送/ゲスト：小笠原仁
+    
+    2024-05-20](https://account.nicovideo.jp/niconews/223137.html)
+
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_anime)
+
+社会・政治・報道
+--------
+
+* [【LIVE】6/5(水)20:00〜 立憲民主党の泉代表が東京都知事選について語ります
+    
+    2024-06-03](https://account.nicovideo.jp/niconews/224768.html)
+* [8月17日18:00〜生放送決定！切っても切っても終わらないプラナリア！200時間研究の永久保存版〜基礎生物学研究所〜【ニコニコサイエンス】
+    
+    2024-06-03](https://account.nicovideo.jp/niconews/224097.html)
+* [【LIVE】5/24(金)11:00〜 サッカー元日本代表主将・長谷部誠選手が引退会見
+    
+    2024-05-23](https://account.nicovideo.jp/niconews/223801.html)
+* [【LIVE】5/22(水)20:00〜 立憲民主党の泉代表が「政治に実現してほしいこと」を募集中
+    
+    2024-05-21](https://account.nicovideo.jp/niconews/223601.html)
+* [【LIVE】5/26(日)21:00〜 河野太郎デジタル大臣が、あなたの質問にお答えします
+    
+    2024-05-19](https://account.nicovideo.jp/niconews/223404.html)
+
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_society)
+
+音楽・アーティスト・アイドル
+--------------
+
+* [クロちゃんプロデュースのアイドルフェス「クロフェス2024」生中継【6/1(土),6/2(日),6/8(土),6/9(日)】
+    
+    2024-05-27](https://account.nicovideo.jp/niconews/223679.html)
+* [【5/13～26】「歌枠公式2024夏」出演者オーディション（ギフト部門）
+    
+    2024-04-30](https://account.nicovideo.jp/niconews/218265.html)
+* [【6月1日（土）20時～20時59分】「歌枠公式2024夏」出演者オーディション（視聴数部門）
+    
+    2024-04-28](https://account.nicovideo.jp/niconews/218270.html)
+* [「はろー！にゅ〜みゅーじっく！」vol.16　歌ってみた課題曲ランキング発表！
+    
+    2024-03-05](https://account.nicovideo.jp/niconews/217098.html)
+* [【CUBERS生出演】3月14日(木)ホワイトデーにニコ生特番を放送。好きな楽曲投票も受付
+    
+    2024-03-01](https://account.nicovideo.jp/niconews/216850.html)
+
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_music)
+
+ゲーム
+---
+
+* [【6月テーマ：東方歌ってみた＆竹取飛翔アレンジコンテスト】東方ステーション×ニコニコの投稿コンテストが開幕！「東方ニコレクション」6月から毎月開催！
+    
+    2024-06-06](https://account.nicovideo.jp/niconews/224708.html)
+* [サガシリーズ新作『サガ エメラルド ビヨンド』の楽曲がニコニコで利用可能になりました
+    
+    2024-06-01](https://account.nicovideo.jp/niconews/222303.html)
+* [【祝5周年】雀魂ゲームプレイ配信で非売品グッズやギフトコードがもらえる！雀魂-じゃんたま- 5周年記念ニコ生配信イベント 5/27より開催
+    
+    2024-05-20](https://account.nicovideo.jp/niconews/220910.html)
+* [4月30日(火)より『#コンパス』×『幼女戦記』コラボ開催 新コラボヒーローに「ターニャ」（CV：悠木 碧）が登場!!
+    
+    2024-04-30](https://account.nicovideo.jp/niconews/222226.html)
+* [【結果発表】青鬼シリーズ最新作『最恐‐青鬼‐』DIEジェスト動画投稿祭4/26～5/10開催！受賞者には青鬼ゲーミングPC【切り抜き歓迎】賞品は切り抜き元にプレゼント
+    
+    2024-04-25](https://account.nicovideo.jp/niconews/220993.html)
+
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_game)
+
+VOCALOID・VTuber・ユーザークリエイター
 --------------------------
 
-The Users shall manage their account information at their responsibility and authority, and where “Niconico” is used with the registered account information, the Operating Company will deem that the User who registered the relevant account information used “Niconico”. Even where a User suffered any damage from an unauthorized use of the account information by a third party, the User who registered the relevant account information shall be entirely liable.
+* [【楽曲収益化サービス】春日部つむぎ・京町セイカのキャラ対応開始しました！
+    
+    2024-06-07](https://account.nicovideo.jp/niconews/223821.html)
+* [ゲーム実況以外の合成音声投稿祭！「第十回VOICEROID非実況動画祭」 8/20〜8/31に開催！【ニコニコ後援投稿祭】
+    
+    2024-06-06](https://account.nicovideo.jp/niconews/224820.html)
+* [（6/7追記）【超絵師展ツアー2024 ～IFの楽曲世界展～】8月2日からの東京会場を皮切りに全国開催が決定！
+    
+    2024-06-06](https://account.nicovideo.jp/niconews/222266.html)
+* [【既存楽曲復活祭2024】楽曲収益化サービス（NRC）対応キャラクター賞を実施します！【受付期間：6/26(水)〜7/16(火)】
+    
+    2024-06-04](https://account.nicovideo.jp/niconews/224444.html)
+* [【6/26 00:00～7/2 16:59】既存楽曲復活祭2024 開催！ 今回のテーマは「音声合成キャラクター」
+    
+    2024-06-04](https://account.nicovideo.jp/niconews/224450.html)
 
-The Operating Company may send emails regarding “Niconico” containing information about new functions, updated information and special offers to the email addresses that the Users registered (the message may be large, as necessary), and the Users shall consent to this. Information on the incoming messages setting shall be explained in each service and in the emails to be sent. Except where downloading is explicitly permitted, Users may not download any movie data from any video uploading website available to view on “Niconico” using their own account information via, among other things, software (including those which are recorded in a recording media and provided via communication line and add-in browsers), or websites provided by a third party who is not designated by the Operating Company, and the Users consent to this.
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_user)
 
-3\. Treatment of personal information
--------------------------------------
+映画・ドラマ・舞台・2.5次元
+---------------
 
-Treatment of the personal information the Operating Company acquires when the Users register their account information and when Users use each Individual Service based on the registered account information shall be subject to the substance of the “[Basic Policy on Personal Information Protection](https://en.dwango.co.jp/terms/privacy/)”.
+* [【田倉暉久、前川優希、宮崎湧 追加出演決定！】舞台を中心に活躍中の人気俳優たちが出演するドッジボールイベント！「ニコメンドッジボールカップ2024」7月6日(土)開催／会場チケット先行抽選申込み 6月9日(日)23:59まで受付中！
+    
+    2024-05-28](https://account.nicovideo.jp/niconews/223951.html)
+* [【日本語版声優ゲスト出演】『猿の惑星／キングダム』公開記念 ニコ生特番＆ジャパンプレミア5/8生放送
+    
+    2024-05-07](https://account.nicovideo.jp/niconews/222520.html)
+* [ミュージカル「忍たま乱太郎」4月28日より隔週で第11弾～第13弾の全5作品上映会
+    
+    2024-04-21](https://account.nicovideo.jp/niconews/221402.html)
+* [TVドラマ『おいしい給食』ニコ生で1話無料配信 ほか全10話はプレミアム会員限定で見放題
+    
+    2024-03-13](https://account.nicovideo.jp/niconews/218090.html)
+* [『黒羽麻璃央ファンミーティング2024』生中継【2/11(日) ～2/12(月・祝) 放送】
+    
+    2024-02-06](https://account.nicovideo.jp/niconews/214455.html)
 
-In addition, “Niconico“ uses technologies such as cookies to optimize services for Users. Regarding preceding sentence, please check the “[Guidelines for the Use of Cookies and Other Technologies](https://en.dwango.co.jp/terms/cookies/)“, and Users shall consent to these Guidelines and may use “Niconico”.
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_movie)
 
-4\. Vesting of rights
----------------------
+その他
+---
 
-The copyright in text written by the Users on “Niconico” shall be entirely transferred to the Operating Company at the time the Users write the text (rights provided in Articles 27 and 28 of the Copyright Act shall also be transferred to the Operating Company). However, the Operating Company shall license the User who wrote the text to use the relevant text. The Users shall not assert or exercise any rights (including moral rights) regarding the relevant text against the Operating Company and any parties designated by the Operating Company.
+* [ニコニ貢献3周年記念！還元福引キャンペーン
+    
+    2024-06-08](https://account.nicovideo.jp/niconews/225027.html)
+* [【6/30まで】てるてる坊主Vギフト福引キャンペーン
+    
+    2024-06-07](https://account.nicovideo.jp/niconews/223653.html)
+* [【感謝を込めて】6/7(金)17時頃から週末限定貢献度UP！【ニコニ貢献3周年記念】
+    
+    2024-06-07](https://account.nicovideo.jp/niconews/224906.html)
+* [【シーズン王者決定】6/9(日)18時より世界最高峰のダンスリーグ『D.LEAGUE SEASON23-24 CHAMPIONSHIP』生中継
+    
+    2024-06-06](https://account.nicovideo.jp/niconews/224911.html)
+* [【結果発表】【ニコ生ゲーム】姫プタワーシーズン2開始！敵ギフモンを倒して塔を攻略せよ！（6/5 13:45更新）
+    
+    2024-06-05](https://account.nicovideo.jp/niconews/221829.html)
 
-5\. Prohibited matters
-----------------------
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_other)
 
-In relation to the use of “niconico,” the Users may not engage in the following acts:
+機能・お知らせ
+-------
 
-* Acts listed in sections 3 and 4 of the niconico Action Guidelines or acts analogous to such acts (including acts other than by, among other means, posting comments or uploading movies).
-* Acts in breach of the provisions of these Terms of Use.
-* Acts in conflict with the Public Offices Election Act.
-* Acts which are too burdensome on the “Niconico” server.
-* Acts which obstruct the operation of “niconico.”
-* Posting links to download sites of, among other sites, child prostitution, child pornography or unedited videos.
-* Sales activities, auctions, payment of monies and other analogous acts not permitted by the Operating Company.
-* Disclosing the substance of a profile in order to advertise or promote products for which the Operating Company permission has not be obtained, or other acts of solicitation such as sending spam mails and chain mails.
-* Use of “Niconico” by minors who are from 13 to 19 years old inclusive without the consent of their statutory agents (a person with parental authority).
-* Acts that the Operating Company considers inappropriate.
-* Other acts analogous to the foregoing.
+* [クリエイターの新たな収益手段「NicoFT」をユーザーレベル50以上の方に開放！今すぐクリエイター登録でアイテム販売手数料が実質半額&特典付き(〜6/19)
+    
+    2024-05-29](https://account.nicovideo.jp/niconews/223454.html)
+* [【NicoFT／クリエイター向け】スマホからニコニコパートナーパスを発行できるようになりました
+    
+    2024-05-29](https://account.nicovideo.jp/niconews/223224.html)
+* [ニコニコ内の旧Twitterロゴおよび名称を「X」に変更していきます
+    
+    2024-05-27](https://account.nicovideo.jp/niconews/223949.html)
 
-6\. Measures to be taken by the Operating Company
--------------------------------------------------
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_function)
 
-Where a User’s breach of these Terms of Use has been confirmed, the Operating Company may at its discretion take any measure that it determines appropriate including deleting the account information registered by the User and deleting any posts without any prior notice to the User, and the Users consent to this.
+メンテナンス・障害・復旧
+------------
 
-Aside from the above, where the Operating Company decides at its discretion that it is necessary, the Operating Company may take any measure that it determines appropriate such as deleting the account information registered by the User and deleting any posts without any prior notice to the User, and the Users consent to this.
+* [【調査中/追記】ニコニコサービス全体において正常に利用できない場合がある不具合
+    
+    2024-06-08](https://account.nicovideo.jp/niconews/225099.html)
+* [クルーズ番組の［放送中に紹介した番組／動画］が表示されない不具合【iOS版ニコニコ生放送アプリ】
+    
+    2024-06-07](https://account.nicovideo.jp/niconews/225051.html)
+* [【復旧】【ニコニコポイント】あと払いペイディでニコニコポイントを購入することができない
+    
+    2024-06-05](https://account.nicovideo.jp/niconews/224861.html)
 
-In the following cases related to posting text on “Niconico” and all acts that the Users engaged in when using “niconico,” the Operating Company may preserve, or disclose or provide to a third party, records of the relevant acts and all information regarding the Users that engaged in the relevant acts (including, but not limited to, all information related to the relevant Users’ account information, all other information regarding the Users’ use of “Niconico” and information on the IP address and time stamp that the Operating Company confirmed), and the Users consent to this:
+[記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_maintenance)
 
-if based on laws and regulations; if necessary for the protection of the life, body, or property of an individual; if necessary to improve public health or promote the sound growth of children; if necessary to cooperate with a state organ, a local government, or an individual or a business operator entrusted by either of the former two in executing the affairs prescribed by laws and regulations and where obtaining the consent of the person is likely to impede the execution of the affairs concerned; if the Operating Company determines it necessary to handle claims against acts that infringe a third party’s right(s); and where the Operating Company otherwise determines that it is necessary for the operations of “niconico.”
+PR
+--
 
-The Users consent that they will not object to the Operating Company regarding any measures taken by the Operating Company including deleting any posts or account information registered by the Users.
+CATEGORYカテゴリー
+-------------
 
-7\. Waiver
-----------
+### Specialおすすめコンテンツ
 
-The Operating Company does not warrant the accuracy, legality, morality, timeliness or appropriateness of the information posts on “niconico.” In addition, the Operating Company may discontinue or suspend provision of services for any reason and without any advance notice.
+* [TOPICS](https://account.nicovideo.jp/niconews/category/topic/)
 
-The Operating Company shall not be liable whatsoever for the following damages, whether direct or indirect, suffered by the Users: damages due to the Users’ use or inability to use “Niconico” or the Users’ use or inability to use websites linked to “Niconico”; damages arising from or in relation to the relevant Users’ or other Users’ breach of any of the provisions of these Terms of Use; and damages arising from or in relation to the Operating Company’s measures provided in the preceding section. In addition, the Operating Company shall not be liable whatsoever for any dispute arising between the Users and the communication company regarding communication charges accrued from the use of “niconico.”
+### Genreジャンル
 
-However, the foregoing shall not apply where consumer protection acts or analogous acts contain mandatory provisions that protect the Users in the country where the relevant User resides.
+* [アニメ・声優・漫画](https://account.nicovideo.jp/niconews/category/ge_anime/)
+* [社会・政治・報道](https://account.nicovideo.jp/niconews/category/ge_society/)
+* [音楽・アーティスト・アイドル](https://account.nicovideo.jp/niconews/category/ge_music/)
+* [ゲーム](https://account.nicovideo.jp/niconews/category/ge_game/)
+* [VOCALOID・VTuber・ユーザークリエイター](https://account.nicovideo.jp/niconews/category/ge_user/)
+* [映画・ドラマ・舞台・2.5次元](https://account.nicovideo.jp/niconews/category/ge_movie/)
+* [その他](https://account.nicovideo.jp/niconews/category/ge_other/)
 
-8\. Change and termination of Services
---------------------------------------
+### Serviceサービス
 
-The Operating Company may change the substance of provided services and or cease provision of service content at its own discretion. In principle the Operating Company shall notify the Users by positing or pushing on the “Niconico” website.
+* [動画](https://account.nicovideo.jp/niconews/category/se_nicovideo)
+* [静画](http://blog.nicovideo.jp/seiga/)
+* [生放送](https://account.nicovideo.jp/niconews/category/se_live)
+* [ニコニコアプリ](https://account.nicovideo.jp/niconews/category/se_app)
+* [チャンネル](https://account.nicovideo.jp/niconews/category/se_ch)
+* [大百科](https://account.nicovideo.jp/niconews/category/pedia)
+* [バーチャルキャスト](https://account.nicovideo.jp/niconews/category/virtualcast)
+* [N Air](https://account.nicovideo.jp/niconews/category/se_n-air)
+* [ニコニ立体](https://account.nicovideo.jp/niconews/category/se_3d)
 
-The Operating Company shall not be liable whatsoever for any damages suffered by the Users from or in relation to changing or ceasing to provide the Service.
+* [ニコニ広告](https://account.nicovideo.jp/niconews/category/nicoad)
+* [スマートフォン・アプリ](https://account.nicovideo.jp/niconews/category/sp_pickup)
+* [他デバイス](https://account.nicovideo.jp/niconews/category/device)
+* [その他](https://account.nicovideo.jp/niconews/category/se_other)
 
-9\. Amendment of these Terms of Use
------------------------------------
+### Noticeお知らせ
 
-The Operating Company may amend these Terms of Use at its own discretion. When the Operating Company amends these Terms of Use, it shall notify the Users by positing or publishing the reason, amended content, and period of effect on the “Niconico” website. The Users shall consent to the amended Terms of Use by using “Niconico” after amendment.
+* [機能・お知らせ](https://account.nicovideo.jp/niconews/category/ge_function)
+* [メンテナンス・障害・復旧](https://account.nicovideo.jp/niconews/category/ge_maintenance)
 
-10\. General Provisions
------------------------
+* [![twitter](/niconews/wp-content/themes/nicoinfo/images/footer/footer_sns_tw.png)](https://twitter.com/nico_nico_info "ニコニコインフォをフォロー")
+* [![facebook](/niconews/wp-content/themes/nicoinfo/images/footer/footer_sns_fb.png)](https://www.facebook.com/niconico.official "Facebookページへ")
+* [![feed](/niconews/wp-content/themes/nicoinfo/images/footer/footer_sns_feed.png)](https://blog.nicovideo.jp/niconews/index.xml "ニコニコインフォをキャッチ")
 
-Even where a portion of the provisions in these Terms of Use is found to be invalid due to any conflict with any mandatory provisions or otherwise, the remaining provisions shall survive. In that case, the provision found to be invalid shall be automatically replaced by a valid provision that will allow the initially intended economic purpose to be achieved to the extent possible, and the Users shall accept this in advance.
+Twitterは、Twitter,Inc.,の商標であり、認可を得て使用しています。
 
-The Users may not assign, transfer, create collateral over or otherwise dispose of their status under these Terms of Use or their rights or obligations under these Terms of Use to a third party without the prior written approval of the Operating Company. In addition, where the Operating Company has transferred all or part of the businesses related to “Niconico” to another company, along with the business transfer, it may transfer its status under these Terms of Use, the rights and obligations of the Operating Company under these Terms of Use and the Users’ accounts and other information to such company, and the Users shall consent in advance to such transfer.
-
-These Terms of Use shall be governed by and construed in accordance with the laws of Japan. Any and all disputes or issues arising from or in relation to these Terms of Use and the use of “Niconico” by the Users shall be subject to the exclusively agreed jurisdiction in the first instance of the Tokyo District Court. These Terms of Use shall be entirely indicated in the Japanese language and shall be construed only in the Japanese language.
+© DWANGO Co., Ltd.
