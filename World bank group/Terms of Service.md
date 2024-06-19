@@ -2,7 +2,7 @@
 
 [Skip to Main Navigation](#main)
 
- [![The World Bank logo](/content/dam/wbr/logo/logo-wb-header-en.svg "The World Bank logo")](https://www.worldbank.org/)[![The World Bank logo](/content/dam/wbr/logo-1/logo-wb.svg "The World Bank logo")](https://www.worldbank.org/)
+[![The World Bank logo](/content/dam/wbr/logo/logo-wb-header-en.svg "The World Bank logo")](https://www.worldbank.org/)
 
 [Archives](https://www.worldbank.org/en/archive/home)
 
