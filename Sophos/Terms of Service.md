@@ -42,6 +42,7 @@
         * [Server Protection](https://www.sophos.com/en-us/products/server-security)
         * [Mobile Security](https://www.sophos.com/en-us/products/mobile-control)
     * Network Security
+        * [Sophos Central](https://www.sophos.com/en-us/products/sophos-central)
         * [Next-Gen Firewall](https://www.sophos.com/en-us/products/next-gen-firewall)
         * [Zero Trust Network Access (ZTNA)](https://www.sophos.com/en-us/products/zero-trust-network-access)
         * [Network Detection and Response (NDR)](https://www.sophos.com/en-us/products/network-detection-and-response)
@@ -56,6 +57,9 @@
     * Cloud Security
         * [Cloud Workload Protection](https://www.sophos.com/en-us/products/cloud-native-security/cloud-workload-protection)
         * [Cloud Security Posture Management (CSPM)](https://www.sophos.com/en-us/products/cloud-optix)
+    * Sophos Home Premium
+        * [Mac Antivirus Download](https://home.sophos.com/en-us/download-mac-security)
+        * [PC Antivirus Download](https://home.sophos.com/en-us/download-pc-security)
 * Services
     * Managed Security Services - SecOps
         * [Managed Detection and Response (MDR)](https://www.sophos.com/en-us/products/managed-detection-and-response)
@@ -129,6 +133,7 @@ Toggle Language menu
             * [Server Protection](https://www.sophos.com/en-us/products/server-security)
             * [Mobile Security](https://www.sophos.com/en-us/products/mobile-control)
         * Network Security
+            * [Sophos Central](https://www.sophos.com/en-us/products/sophos-central)
             * [Next-Gen Firewall](https://www.sophos.com/en-us/products/next-gen-firewall)
             * [Zero Trust Network Access (ZTNA)](https://www.sophos.com/en-us/products/zero-trust-network-access)
             * [Network Detection and Response (NDR)](https://www.sophos.com/en-us/products/network-detection-and-response)
@@ -143,6 +148,9 @@ Toggle Language menu
         * Cloud Security
             * [Cloud Workload Protection](https://www.sophos.com/en-us/products/cloud-native-security/cloud-workload-protection)
             * [Cloud Security Posture Management (CSPM)](https://www.sophos.com/en-us/products/cloud-optix)
+        * Sophos Home Premium
+            * [Mac Antivirus Download](https://home.sophos.com/en-us/download-mac-security)
+            * [PC Antivirus Download](https://home.sophos.com/en-us/download-pc-security)
     * Services
         * Managed Security Services - SecOps
             * [Managed Detection and Response (MDR)](https://www.sophos.com/en-us/products/managed-detection-and-response)
