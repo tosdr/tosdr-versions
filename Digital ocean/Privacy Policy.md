@@ -54,6 +54,7 @@
         * [MySQL](https://www.digitalocean.com/products/managed-databases-mysql)
         * [PostgreSQL](https://www.digitalocean.com/products/managed-databases-postgresql)
         * [Managed Databases for Redis®](https://www.digitalocean.com/products/managed-databases-redis)
+        * [OpenSearch](https://www.digitalocean.com/products/managed-databases-opensearch)
         
         Developer Tools
         
