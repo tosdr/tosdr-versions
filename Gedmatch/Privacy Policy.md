@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
+[![GED match logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20139%2075'%3E%3C/svg%3E)
+
+![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
 
 * [Applications](https://www.gedmatch.com/applications/)
 * [Education](https://www.gedmatch.com/education/)
@@ -44,7 +46,9 @@ Menu
 
 [Join For Free](https://app.gedmatch.com/register.php)
 
-[![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
+[![GED match logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20139%2075'%3E%3C/svg%3E)
+
+![GED match logo](https://www.gedmatch.com/wp-content/uploads/2022/05/GED_Match-logo.svg)](https://www.gedmatch.com/)
 
 * [Applications](https://www.gedmatch.com/applications/)
 * [Education](https://www.gedmatch.com/education/)
@@ -443,7 +447,7 @@ Address
 11111 Flintkote Avenue  
 San Diego, CA 92121
 
-* © GEDmatch 2023
+* © GEDmatch 2024
 
 * [Privacy Policy & Terms of Use](https://www.gedmatch.com/terms-of-service-privacy-policy-may-31-2023/)
 
