@@ -1,7 +1,5 @@
      
 
-☀️ **SUMMER SALE!** 40% off your first month of eTextbooks in Pearson+. Use code **SUMMER40**. [Terms & Conditions](https://www.pearson.com/en-us/pearsonplus/campaigns/summer-terms-and-conditions.html)
-
 * [For School](https://www.pearson.com/en-us/schools.html)
 * [For College](https://www.pearson.com/en-us/higher-education.html)
 * [For Work](https://www.pearson.com/en-us/work.html)
