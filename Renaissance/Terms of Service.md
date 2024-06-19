@@ -460,7 +460,7 @@ About Us
 * [Leadership](https://www.renaissance.com/about-us/renaissance-leadership/)
 * [Careers](https://www.renaissance.com/about-us/careers/)
 * [Newsroom](https://www.renaissance.com/about-us/newsroom/)
-* [Awards & Recognition](https://www.renaissance.com/about-us/accolades/)
+* [Awards & Recognition](https://www.renaissance.com/?page_id=46305)
 
 Community & More
 
