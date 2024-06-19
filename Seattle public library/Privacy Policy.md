@@ -1,6 +1,16 @@
-* **Ongoing technology outage**
+* **Library system updates**
     
-    Due to a cybersecurity event, several Library services are not available. Our buildings remain open. Learn more about what is impacted and what services are available on [our blog](https://shelftalkblog.wordpress.com/2024/05/28/an-update-about-access-to-library-technology-systems/).
+    Due to a cybersecurity event, several Library services are not available. Our buildings remain open. Learn more about what is impacted and what services are available at [www.spl.org/Update](https://www.spl.org/Update). Keep up-to-date on any building schedule changes at [www.spl.org/Today](https://www.spl.org/Today).
+    
+
+* **Summer Hours**
+    
+    On Thursday, June 20, we will implement a new summer hours schedule. Learn more at [www.spl.org/SummerHours](https://www.spl.org/SummerHours).
+    
+
+* **The Seattle Public Library Is Closed On Juneteenth**
+    
+    All locations of The Seattle Public Library and book returns at the Central Library will be closed on Juneteenth, Wednesday, June 19.
     
 
 [Skip to Main Content](https://www.spl.org/about-us/policies/confidentiality-of-patron-information#main-content)
