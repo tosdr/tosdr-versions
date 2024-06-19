@@ -8,18 +8,6 @@ City of Harrisburg PA   [Contact Us](https://parkharrisburg.com/contact/)
 
 Menu
 
-* [Destinations](https://parkharrisburg.com/destinations/)
-    
-    * [Cathedral of St. Patrick](https://parkharrisburg.com/destinations/cathedral-of-st-patrick/)
-    * [John Harris-Simon Cameron House](https://parkharrisburg.com/destinations/john-harris-simon-cameron-house/)
-    * [Harrisburg Forum Auditorium](https://parkharrisburg.com/destinations/harrisburg-forum-auditorium/)
-    * [Pennsylvania State Capitol](https://parkharrisburg.com/destinations/pennsylvania-state-capitol/)
-    * [Riverfront Park](https://parkharrisburg.com/destinations/riverfront-park/)
-    * [South Capitol Park](https://parkharrisburg.com/destinations/south-capitol-park/)
-    * [The State Museum of Pennsylvania](https://parkharrisburg.com/destinations/the-state-museum-of-pennsylvania/)
-    * [State Library of Pennsylvania](https://parkharrisburg.com/destinations/state-library-of-pennsylvania/)
-    * [Strawberry Square](https://parkharrisburg.com/destinations/strawberry-square/)
-    * [Whitaker Center for Science and the Arts](https://parkharrisburg.com/destinations/whitaker-center-for-science-and-the-arts/)
 * [Garages/Lots](https://parkharrisburg.com/garages-and-lots/)
     
     * [5TH ST GARAGE](https://parkharrisburg.com/garages-and-lots/5th-st-garage/)
@@ -213,7 +201,6 @@ Harrisburg PA 17101
 
 Menu
 
-* [Destinations](https://parkharrisburg.com/destinations/)
 * [Garages and Lots](https://parkharrisburg.com/garages-and-lots/)
 * [On Street Meters](https://parkharrisburg.com/on-street-meters/)
 * [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
