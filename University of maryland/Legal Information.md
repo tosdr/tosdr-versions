@@ -93,7 +93,7 @@ Introducing The Nation's First [Do Good](http://dogood.umd.edu/) Campus Transfor
 * [Extended Studies](https://exst.umd.edu/)
 * [Provost](http://www.provost.umd.edu/)
 * [Registrar](http://www.registrar.umd.edu/)
-* [Special Academic Programs](https://www.admissions.umd.edu/learn/specialexperiences.php)
+* [Special Academic Programs](https://ugst.umd.edu/llsop/index.html)
 * [Testudo (Student Portal)](http://www.testudo.umd.edu/)
 * [Undergraduate Admissions](https://admissions.umd.edu/)
 * [Graduate School](https://gradschool.umd.edu/)
