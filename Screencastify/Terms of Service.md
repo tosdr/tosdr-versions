@@ -1,4 +1,4 @@
-[**Looking for a student video solution?** Given the recent sunset of Flip’s apps, check out Submit as an alternative. Here’s how we can help. 👈](https://www.screencastify.com/blog/prioritizing-student-voice-try-submit-to-replace-flip)
+[**Introducing Screencastify AI!** Meet our AI-powered features designed to save teachers time. **Learn more**.](https://www.screencastify.com/blog/introducing-screencastify-ai)
 
 [](#)
 
@@ -22,9 +22,9 @@ Resources
 
 [Pricing](https://www.screencastify.com/pricing)
 
-[Login](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)[Start creating free](https://app.screencastify.com/videos)[Login](https://app.screencastify.com/videos)
+[Login](https://app.screencastify.com/videos)[Start creating free](https://app.screencastify.com/signup)[Contact Sales](https://www.screencastify.com/learn-more-request)
 
-[Start creating free](https://app.screencastify.com/videos)[Login](https://app.screencastify.com/videos)
+[Login](https://app.screencastify.com/videos)[Start creating free](https://app.screencastify.com/signup)[Contact Sales](https://www.screencastify.com/learn-more-request)
 
 Terms of Use
 ============
