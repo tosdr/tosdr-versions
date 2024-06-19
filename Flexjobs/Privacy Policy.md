@@ -432,6 +432,7 @@ Please also read our full [Privacy Policy](#fullpp)
 * [FlexJobs FAQ](https://www.flexjobs.com/faq)
 * [Affiliate Program](https://www.flexjobs.com/blog/flexjobs-affiliate-program-2/)
 * [Contact Us](https://www.flexjobs.com/contact)
+* [Fraud Awareness](https://www.flexjobs.com/fraud-awareness)
 * [FlexJobs Reviews](https://www.flexjobs.com/reviews-success-stories)
 
 ##### Job Search Resources
