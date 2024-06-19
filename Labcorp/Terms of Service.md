@@ -236,6 +236,7 @@ Close Menu
         * [Oncology](https://oncology.labcorp.com/)
         * [Primary Care](https://www.labcorp.com/providers/primary-care)
         * [Rheumatology](https://www.labcorp.com/providers/rheumatology)
+        * [Urology](https://www.labcorp.com/urology)
         * [More Specialties »](https://www.labcorp.com/providers/specialists)
         
         [Resources](https://www.labcorp.com/providers/provider-resources) Toggle Resources
