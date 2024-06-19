@@ -1,10 +1,10 @@
-[![](https://assets-global.website-files.com/65c3fb65e99482c0bef94d5e/65c66954ccef36f640f2ea16_Untitled-2%20(1).png)](https://www.mtcaptcha.com/)
+[![](https://cdn.prod.website-files.com/65c3fb65e99482c0bef94d5e/65c66954ccef36f640f2ea16_Untitled-2%20(1).png)](https://www.mtcaptcha.com/)
 
 * [Home](https://www.mtcaptcha.com/)
 * [Demo](https://www.mtcaptcha.com/#demo)
 * [Features](https://www.mtcaptcha.com/#features)
 * [Pricing](https://www.mtcaptcha.com/pricing)
-* [FAQ](https://www.mtcaptcha.com/faq)
+* [FAQ](https://www.mtcaptcha.com/faq-low-friction-invisible-captcha)
 * [Developer Guide](https://www.mtcaptcha.com/dev-guide-quickstart)
 * [Sign In](https://admin.mtcaptcha.com/login)
 * [Try MTCaptcha Free](https://admin.mtcaptcha.com/signup/profile?plantype=C)
@@ -149,16 +149,16 @@ GDPR Compliant Captcha for the Enterprise
 
 [Try MTCaptcha Free](https://admin.mtcaptcha.com/signup/profile?plantype=C)
 
-![](https://assets-global.website-files.com/65c3fb65e99482c0bef94d5e/65e1328e4bb75ca894900b4c_MT%20Captcha%20footer%20image%202%20(1).png)
+![](https://cdn.prod.website-files.com/65c3fb65e99482c0bef94d5e/65e1328e4bb75ca894900b4c_MT%20Captcha%20footer%20image%202%20(1).png)
 
-[![](https://assets-global.website-files.com/65c3fb65e99482c0bef94d5e/65cbbe68f7196bfc4e6016b7_mtcaptcha-white.png)](https://www.mtcaptcha.com/)
+[![](https://cdn.prod.website-files.com/65c3fb65e99482c0bef94d5e/65cbbe68f7196bfc4e6016b7_mtcaptcha-white.png)](https://www.mtcaptcha.com/)
 
 [](https://www.facebook.com/people/MTCaptcha/100057592053474/)[](https://twitter.com/mtcaptcha)[](https://www.linkedin.com/company/mtcaptcha/)
 
 * [Demo](https://www.mtcaptcha.com/#demo)
 * [Features](https://www.mtcaptcha.com/#features)
 * [Pricing](https://www.mtcaptcha.com/pricing)
-* [FAQ](https://www.mtcaptcha.com/faq)
+* [FAQ](https://www.mtcaptcha.com/faq-low-friction-invisible-captcha)
 
 * [Sign Up](https://admin.mtcaptcha.com/signup/profile?plantype=A)
 * [About Us](https://www.mtcaptcha.com/about-us)
