@@ -23,7 +23,6 @@ Skip to main content navigation region started
 * [Check out our plans](https://www.visible.com/plans)
 * [See our coverage](https://www.visible.com/plans/coverage)
 * [Can I keep my phone number?](https://www.visible.com/switch-to-visible)
-* [Save when you Bring a Friend](https://www.visible.com/plans/bring-a-friend)
 * [Try Visible for free](https://www.visible.com/free-trial)
 
 [Deals](https://www.visible.com/deals)
@@ -34,13 +33,13 @@ Skip to main content navigation region started
 * [Upgrade program](https://www.visible.com/deals/upgrade-program)
 * [Trade-in program](https://www.visible.com/deals/trade-in)
 * [Visible Payback](https://www.visible.com/deals/visible-payback)
+* [Save when you Bring a Friend](https://www.visible.com/deals/bring-a-friend)
 
 [About Us](https://www.visible.com/about-us)
 
 [About Us](#)
 
 * [Learn more about Visible](https://www.visible.com/about-us)
-* [Reviews](https://www.visible.com/about-us/reviews)
 * [Connection Protection](https://www.visible.com/connectionprotection)
 * [Blog](https://www.visible.com/blog)
 * [Newsroom](https://www.visible.com/newsroom)
@@ -84,7 +83,6 @@ Account
 * [Check out our plans](https://www.visible.com/plans)
 * [See our coverage](https://www.visible.com/plans/coverage)
 * [Can I keep my phone number?](https://www.visible.com/switch-to-visible)
-* [Save when you Bring a Friend](https://www.visible.com/plans/bring-a-friend)
 * [Try Visible for free](https://www.visible.com/free-trial)
 
 [Deals](https://www.visible.com/deals)
@@ -95,13 +93,13 @@ Account
 * [Upgrade program](https://www.visible.com/deals/upgrade-program)
 * [Trade-in program](https://www.visible.com/deals/trade-in)
 * [Visible Payback](https://www.visible.com/deals/visible-payback)
+* [Save when you Bring a Friend](https://www.visible.com/deals/bring-a-friend)
 
 [About Us](https://www.visible.com/about-us)
 
 [About Us](#)
 
 * [Learn more about Visible](https://www.visible.com/about-us)
-* [Reviews](https://www.visible.com/about-us/reviews)
 * [Connection Protection](https://www.visible.com/connectionprotection)
 * [Blog](https://www.visible.com/blog)
 * [Newsroom](https://www.visible.com/newsroom)
@@ -344,6 +342,8 @@ Company
 
 [Supplemental Terms](https://www.visible.com/legal/supplemental-terms)
 
+[Mobile Identity Protection](https://www.visible.com/legal/protecting-your-mobile-identity)
+
 [Privacy Policy](https://www.visible.com/legal/privacy)
 
 [California Privacy Notice](https://www.visible.com/CA-Privacy-Notice)
@@ -436,6 +436,8 @@ Company
 [About our Ads](https://www.visible.com/about/privacy/about-our-ads)
 
 [Supplemental Terms](https://www.visible.com/legal/supplemental-terms)
+
+[Mobile Identity Protection](https://www.visible.com/legal/protecting-your-mobile-identity)
 
 [Privacy Policy](https://www.visible.com/legal/privacy)
 
