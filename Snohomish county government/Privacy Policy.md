@@ -2,8 +2,6 @@
 
          
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Research Activity](https://anthrotech.optimalworkshop.com/optimalsort/snohomishcountycardsort) [We are doing research to improve our website and would like your input! Please take 15 min to participate, with a chance to win 1 of 5 $50 gift cards. Start the online activity now!](https://anthrotech.optimalworkshop.com/treejack/snocott)
-
 [![Click To Home](/ImageRepository/Document?documentID=54782)](https://snohomishcountywa.gov/)
 
  [![Search](/ImageRepository/Document?documentID=54835)](https://snohomishcountywa.gov/Search/Results) Search
