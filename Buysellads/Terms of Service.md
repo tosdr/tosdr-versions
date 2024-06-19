@@ -200,7 +200,6 @@ Contextual advertising, powered by _people_.
 * [Optimize](https://www.buysellads.com/products/optimize)
 * [Self-Serve Platform](https://buy.buysellads.com/directory)
 * [Campaign Dashboard](https://buy.buysellads.com/)
-* [Fullres](https://fullres.com/)
 
 #### Resource
 
