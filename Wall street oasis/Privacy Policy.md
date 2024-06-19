@@ -1056,15 +1056,9 @@ WSO Virtual Bootcamps
 
 * Jun
     
-    01
+    20
     
-    [Private Equity Interview Bootcamp](https://www.wallstreetoasis.com/courses/live-training/private-equity-interview-bootcamp) 10:00AM EDT
-    
-* Jun
-    
-    08
-    
-    [Financial Modeling & Valuation Bootcamp](https://www.wallstreetoasis.com/courses/live-training/financial-modeling-valuation-bootcamp) Jun 08 - 09 10:00AM EDT
+    WSO NYC Happy Hour: Thurs 6/20, 6.30-8:30 pm, Porchlight Jun 20 - 21 6:30PM EDT
     
 * Jun
     
@@ -1084,12 +1078,18 @@ WSO Virtual Bootcamps
     
     [Real Estate Modeling Bootcamp](https://www.wallstreetoasis.com/courses/live-training/real-estate-modeling-bootcamp) 10:00AM EDT
     
+* Jul
+    
+    13
+    
+    [Venture Capital Bootcamp](https://www.wallstreetoasis.com/courses/live-training/venture-capital-bootcamp) 10:00AM EDT
+    
 
 [View all](https://www.wallstreetoasis.com/events)
 
 Total Avg Compensation
 
-May 2024 Investment Banking
+June 2024 Investment Banking
 
 * Director/MD (5) $648
     
@@ -1097,13 +1097,13 @@ May 2024 Investment Banking
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Vice President (21) $373
+* Vice President (22) $375
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Associates (91) $259
+* Associates (94) $260
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1121,19 +1121,19 @@ May 2024 Investment Banking
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* 2nd Year Analyst (68) $168
+* 2nd Year Analyst (69) $168
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* 1st Year Analyst (205) $159
+* 1st Year Analyst (206) $159
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     |     |     |     |     |     |     |     |     |     |     |
     
-* Intern/Summer Analyst (148) $101
+* Intern/Summer Analyst (149) $101
     
     |     |     |     |     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1169,11 +1169,11 @@ Leaderboard
 | 3   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![BankonBanking's picture](/themes/custom/porto_sub/images/default_profile.png "BankonBanking's picture")<br><br>[BankonBanking](https://www.wallstreetoasis.com/user/20857) | 99.0 |
 | 4   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Secyh62's picture](/themes/custom/porto_sub/images/default_profile.png "Secyh62's picture")<br><br>[Secyh62](https://www.wallstreetoasis.com/user/419037) | 99.0 |
 | 5   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![kanon's picture](/themes/custom/porto_sub/images/default_profile.png "kanon's picture")<br><br>[kanon](https://www.wallstreetoasis.com/user/7229) | 98.9 |
-| 6   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![CompBanker's picture](/files/styles/user_picture_small/public/pictures/picture-3119.jpg?itok=oxvC4QaJ "CompBanker's picture")<br><br>[CompBanker](https://www.wallstreetoasis.com/user/3119) | 98.9 |
-| 7   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![dosk17's picture](/themes/custom/porto_sub/images/default_profile.png "dosk17's picture")<br><br>[dosk17](https://www.wallstreetoasis.com/user/1129) | 98.9 |
-| 8   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![GameTheory's picture](/themes/custom/porto_sub/images/default_profile.png "GameTheory's picture")<br><br>[GameTheory](https://www.wallstreetoasis.com/user/876) | 98.9 |
-| 9   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Kenny_Powers_CFA's picture](/files/styles/user_picture_small/public/pictures/picture-21656.jpg?itok=6jTrDjVK "Kenny_Powers_CFA's picture")<br><br>[Kenny\_Powers\_CFA](https://www.wallstreetoasis.com/user/21656) | 98.8 |
-| 10  | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Jamoldo's picture](/themes/custom/porto_sub/images/default_profile.png "Jamoldo's picture")<br><br>[Jamoldo](https://www.wallstreetoasis.com/user/231797) | 98.8 |
+| 6   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![GameTheory's picture](/themes/custom/porto_sub/images/default_profile.png "GameTheory's picture")<br><br>[GameTheory](https://www.wallstreetoasis.com/user/876) | 98.9 |
+| 7   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![CompBanker's picture](/files/styles/user_picture_small/public/pictures/picture-3119.jpg?itok=oxvC4QaJ "CompBanker's picture")<br><br>[CompBanker](https://www.wallstreetoasis.com/user/3119) | 98.9 |
+| 8   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![dosk17's picture](/themes/custom/porto_sub/images/default_profile.png "dosk17's picture")<br><br>[dosk17](https://www.wallstreetoasis.com/user/1129) | 98.9 |
+| 9   | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![DrApeman's picture](/themes/custom/porto_sub/images/default_profile.png "DrApeman's picture")<br><br>[DrApeman](https://www.wallstreetoasis.com/user/847734) | 98.8 |
+| 10  | [](https://www.wallstreetoasis.com/wallstreetoasiscom-certified-users)<br><br>![Linda Abraham's picture](/files/styles/user_picture_small/public/pictures/picture-79689-1504020366.png?itok=xtGlMdp7 "Linda Abraham's picture")<br><br>[Linda Abraham](https://www.wallstreetoasis.com/user/79689) | 98.8 |
 
 [View all](https://www.wallstreetoasis.com/karma/ratio)
 
@@ -1213,7 +1213,7 @@ Data, Reports & Resources
 
 Contact & Legal  
 
-* [About Us](https://www.wallstreetoasis.com/about-wallstreetoasiscom)
+* [About Us](https://www.wallstreetoasis.com/about-wallstreetoasis)
 * [WSO Careers](https://www.wallstreetoasis.com/wall-street-oasis-careers-internships)
 * [Contact Us](https://www.wallstreetoasis.com/contact-us)
 * [Terms of Service](https://www.wallstreetoasis.com/legal)
@@ -1229,7 +1229,7 @@ Contact & Legal
 
 WSO Free Modeling Series - Now Open Through
 
-May 31, 2024
+June 30, 2024
 
 ![](/themes/custom/porto_sub/images/courses/modal-cover.png)
 
