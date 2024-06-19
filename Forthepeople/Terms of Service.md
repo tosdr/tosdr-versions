@@ -540,11 +540,11 @@ Quick Links
 Trending News
 -------------
 
-[A Handbook for On-the-Job Injuries](https://www.forthepeople.com/blog/handbook-job-injuries/)
+[The Snowflake Attack Piling Up To Be the Largest Data Breach Yet](https://www.forthepeople.com/blog/snowflake-attack-piling-be-largest-data-breach-yet/)
 
-[What Should You Ask for in a Car Accident Settlement?](https://www.forthepeople.com/blog/what-should-you-ask-car-accident-settlement/)
+[The Week in Recalls: June 14, 2024](https://www.forthepeople.com/blog/week-recalls-june-14-2024/)
 
-[How to Hire the Best Truck Accident Lawyer](https://www.forthepeople.com/blog/how-hire-best-truck-accident-lawyer/)
+[How Many Car Accidents Are Caused by Texting and Driving?](https://www.forthepeople.com/blog/how-many-car-accidents-are-caused-texting-and-driving/)
 
 [Read more blog posts](https://www.forthepeople.com/blog/)
 
