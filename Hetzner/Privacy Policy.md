@@ -234,7 +234,7 @@ Your data will be transferred to the chatbot using an HTTPS connection. We at He
 
 ##### YouTube
 
-We integrate videos from the YouTube platform provided by Google (Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland).  
+We integrate videos from the YouTube platform provided by Google (Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland).  
 Privacy Policy: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)  
 Opt-Out: [https://youtube.com/opt-out](https://youtube.com/opt-out).  
 The legal basis for this data processing is Art. 6 (1) lit. f GDPR.
@@ -252,25 +252,25 @@ We at Hetzner Online process users' data only when it is in the customer's legit
 For detailed information about the data processing operations of the providers below, as well as their opt-out options, please check the links that we have listed below.
 
 * Facebook:  
-    Provider: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Irland.  
+    Provider: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Ireland.  
     Privacy policy: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)  
     Opt-Out: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads).  
       
     
 * X (former Twitter):  
-    Provider: Twitter International Unlimited Company, One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Irland.  
+    Provider: Twitter International Unlimited Company, One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland.  
     Privacy policy: [https://twitter.com/privacy](https://twitter.com/privacy)  
     Opt-Out: [https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)  
       
     
 * Instagram:  
-    Provider: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Irland.  
+    Provider: Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour Dublin 2, Ireland.  
     Privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)  
     Opt-Out: [http://instagram.com/about/legal/privacy/](http://instagram.com/about/legal/privacy/)  
       
     
 * Youtube:  
-    Provider: Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Irland.  
+    Provider: Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland.  
     Privacy policy: [http://instagram.com/about/legal/privacy/](http://instagram.com/about/legal/privacy/)  
     Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)  
       
