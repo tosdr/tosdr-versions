@@ -266,6 +266,8 @@ If law enforcement has received a Cybertip report made by TikTok to NCMEC, and i
 
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
+[Impressum](https://www.tiktok.com/legal/impressum?lang=en)
+
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
 © 2024 TikTok
