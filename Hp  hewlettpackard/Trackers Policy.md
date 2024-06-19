@@ -48,6 +48,8 @@ Explore
 
 [* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html "Working Relationship Index")
 
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
+
 * PCs
 
 [* Next-Gen AI PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html "Next-Gen AI PCs")
@@ -126,7 +128,7 @@ Shop
 
 [* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery "#MyHP")
 
-[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide "HP Sustainable buyer's guide")
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
 
 [* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes "HP Tech Takes")
 
@@ -279,7 +281,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)
+[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)
 
 * PCs
 
@@ -295,7 +297,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* HP Sustainable buyer's guide](https://www.hp.com/us-en/shop/slp/sustainability-guide)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
 
 * Shop PCs
 
@@ -339,7 +341,7 @@ Computer Support](https://support.hp.com/us-en/computer "Computer Support")
 
 [Related links](javascript:void(0))
 
-[HP Z27q G3 QHD Display](https://www.hp.com/us-en/shop/pdp/hp-z27q-g3-qhd-display) [7 Hacks to Free Up Space on Your...](https://www.hp.com/us-en/shop/tech-takes/7-hacks-free-up-space-hard-drive) [How to Clear Browser History](https://www.hp.com/us-en/shop/tech-takes/how-to-clear-browser-history) [Computer Cookies: What They Are...](https://www.hp.com/us-en/shop/tech-takes/what-are-computer-cookies) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP SmartFriend Services](https://www.hp.com/us-en/services/consumer/smartfriend-overview.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [First Party vs Third Party Cookies...](https://www.hp.com/us-en/shop/tech-takes/first-party-vs-third-party-cookies) [Need help with your device?](https://www.hp.com/us-en/shop/slp/consumer-support-services/hp-smartfriend) [What is HP Support Assistant?](https://www.hp.com/us-en/shop/tech-takes/what-is-hp-support-assistant)
+[How to Clear Browser History](https://www.hp.com/us-en/shop/tech-takes/how-to-clear-browser-history) [Computer Cookies: What They Are...](https://www.hp.com/us-en/shop/tech-takes/what-are-computer-cookies) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [Ink Cartridges - Toner cartridges – Papers - Free Shipping](https://www.hp.com/us-en/cartridge/ink-toner-paper.html) [HP SmartFriend Services](https://www.hp.com/us-en/services/consumer/smartfriend-overview.html) [Tech Support Services](https://www.hp.com/us-en/shop/mlp/tech-support-services) [First Party vs Third Party Cookies...](https://www.hp.com/us-en/shop/tech-takes/first-party-vs-third-party-cookies) [HP PageWide Web Press a2200 HD](https://www.hp.com/us-en/commercial-industrial-printing/pagewide/a2200-hd-web-presses.html) [Need help with your device?](https://www.hp.com/us-en/shop/slp/consumer-support-services/hp-smartfriend) [HP Computer Support Services - Commerical PC Support](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/support.html)
 
 Select Your Country/Region and Language
 ---------------------------------------
