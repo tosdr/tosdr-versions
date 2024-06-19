@@ -121,7 +121,7 @@ Searwood NEW](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/00_Pellets_US_Nav_207x165.png?auto=compress,format)
 
-Wood Pellet Accessories](https://www.weber.com/US/en/wood-pellet/wood-pellet-accessories/ "Wood Pellet Accessories")
+Wood Pellet Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/wood-pellet-grill-accessories/ "Wood Pellet Accessories")
 
 [![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/00_GlowPlug_Nav_207x165.png?auto=compress,format)
 
@@ -377,7 +377,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-Ribeye Steak Packages from Weber Grill Restaurant are the perfect gift for dad. [Learn More.](https://shop.linzheritageangus.com/categories/weber-grill)
+Buy now, pay later. Rates as low as 0% APR financing with Affirm. [Apply Now.](https://www.affirm.com/shop/weber)
 
 Shopping Cart
 -------------
