@@ -14,69 +14,44 @@ CHANGE LANGUAGE
 
 **Follow Us On**[](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J) [Facebook](https://www.facebook.com/cnnnews18/) [Twitter](https://twitter.com/CNNnews18) [Youtube](https://www.youtube.com/cnnnews18) [Telegram](https://t.me/news18dotcom)
 
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/04/thumbnail_105x55-2024-04-36ee3b3f141876b61aae1936614f9103.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6703978202&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_vguard_clk_tracker)
-    
-
-### PRESENTS
-
-[![](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/election_logo_115x55.svg)](https://www.news18.com/elections/)
-
-### TYRE PARTNER
-
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/04/94x40_white-2024-04-332255f7a8f7b2e5e8e415a01375f652.png)](http://pubads.g.doubleclick.net/gampad/clk?id=6712208762&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_apollo_clk_tracker)
-    
-
-### ASSOCIATE PARTNER
-
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-056c4e7060b82486946f4246c8a48372.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6717296795&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_hmsi_clk_tracker)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/04/94x40-2024-04-7f54c9f97d5472ded2a234cbcfb0bb0a.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6713223814&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/NW18_ENG_ULTRATECH_CLK_TRACKER)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/vimal_thumbnail_94x40-border-2024-05-a8fb5539ede8d2d744dd8995ecfda1ae.png)](http://pubads.g.doubleclick.net/gampad/clk?id=6713513682&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/NW18_ENG_VIMAL_CLK_TRACKER)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-c8063251019a3a38256be5525fa2d1e3.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6719494299&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_tvs_clk_tracker)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-64f981f5714ac3530d5585d57148c1e2.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6730938400&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_adityabirla_clk_tracker)
-    
-* [![sponser](https://images.news18.com/ibnlive/uploads/2024/05/94x40-2024-05-1f369182e0879caa9a21ed943ff52395.jpg)](http://pubads.g.doubleclick.net/gampad/clk?id=6732968052&iu=/1039154/NW18_ENG_Desktop/NW18_ENG_TRACKERS_WEB_WAP/nw18_eng_tata_motors_clk_tracker)
-    
+Trending Topics :[T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)[Sonakshi Sinha](https://www.news18.com/movies/sonakshi-sinha-brother-shares-cryptic-post-amid-her-wedding-with-zaheer-iqbal-the-problem-with-8935615.html)[Euro 2024](https://www.news18.com/football/euro/)[Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-rajinikanth-prabhas-salman-khan-akshay-kumar-highest-paid-actor-of-2024-india-8935768.html)[Kanchanjunga Express](https://www.news18.com/india/kanchanjunga-accident-documents-show-goods-train-driver-not-at-fault-allowed-to-pass-red-signals-8935806.html)
 
 [![News18 - Latest News](data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMTI5LjkgNDcuNyI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSwgLmNscy02IHsKICAgICAgICBmaWxsOiBub25lOwogICAgICB9CgogICAgICAuY2xzLTIgewogICAgICAgIGZpbGw6ICMwMDFkNDI7CiAgICAgIH0KCiAgICAgIC5jbHMtMiwgLmNscy0zLCAuY2xzLTQsIC5jbHMtNSwgLmNscy05IHsKICAgICAgICBmaWxsLXJ1bGU6IGV2ZW5vZGQ7CiAgICAgIH0KCiAgICAgIC5jbHMtMyB7CiAgICAgICAgZmlsbDogI2ZmZjsKICAgICAgfQoKICAgICAgLmNscy00IHsKICAgICAgICBmaWxsOiAjZmVmZWZlOwogICAgICB9CgogICAgICAuY2xzLTUgewogICAgICAgIGZpbGw6ICNlMTI2MWM7CiAgICAgIH0KCiAgICAgIC5jbHMtNiB7CiAgICAgICAgc3Ryb2tlOiAjZmZmOwogICAgICAgIHN0cm9rZS1taXRlcmxpbWl0OiAxMDsKICAgICAgfQoKICAgICAgLmNscy03IHsKICAgICAgICBjbGlwLXBhdGg6IHVybCgjY2xpcC1wYXRoKTsKICAgICAgfQoKICAgICAgLmNscy04IHsKICAgICAgICBmaWxsOiAjNzRjOWM2OwogICAgICB9CgogICAgICAuY2xzLTkgewogICAgICAgIGZpbGw6ICNlZTFjMjU7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8Y2xpcFBhdGggaWQ9ImNsaXAtcGF0aCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuMSAtMC4zKSI+CiAgICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTExNywyOS44NGM0LjQtLjA4LDcuMTMtMy4xNCw3LjQ1LTYsLjQ0LTMuOTEtMS42NC01LjI0LTIuODUtNmE0LjYyLDQuNjIsMCwwLDAsMi4xNi00LjY4Yy0uMzktMy41OS0zLjQtNS4zOS02LjkxLTUuNDJzLTYuMjYsMi4xMS02Ljc1LDUuMjhhNC43LDQuNywwLDAsMCwyLjE3LDQuODIsNi4xNyw2LjE3LDAsMCwwLTIuOTEsNS45M0E3LjM4LDcuMzgsMCwwLDAsMTE3LDI5Ljg0WiIvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CiAgPGc+CiAgICA8Zz4KICAgICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNLjQuM0gxMjkuNVY0OEguNFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgPGc+CiAgICAgICAgPHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMS4xLDExLjlIMTA1LjNWNDYuNkgxLjFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xIC0wLjMpIi8+CiAgICAgICAgPHBhdGggY2xhc3M9ImNscy0zIiBkPSJNNy40LDE4Ljl2MjFoNS4xdi0xM2w3LjUsMTNoNXYtMjFIMTkuOVYzMS4yTDEyLjcsMTguOVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgICA8cGF0aCBjbGFzcz0iY2xzLTQiIGQ9Ik0yOCwxOC45djIxSDQ0LjRWMzUuM0gzMy4yVjMxLjFINDNWMjYuNkgzMy4yVjIzLjVINDMuOVYxOC44WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuMSAtMC4zKSIvPgogICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtNCIgZD0iTTQ1LjMsMTguOWw2LDIxaDUuM2wyLjgtMTMuNSwyLjgsMTMuNWg0LjdsNi0yMUg2Ny41TDY0LjYsMzEuMyw2Mi4xLDE4LjlINTYuNUw1NC4xLDMwLjYsNTEuNCwxOC45WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuMSAtMC4zKSIvPgogICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTg1LDI1LjhzLjctMi42LTMuNC0zYy0yLjgtLjMtMy40LDEuNy0zLDIuNC45LDEuNSw3LjQsMS41LDEwLjUsNC4xLDIuNywyLjMsMiw3LjQtLjgsOS4zLTMuNCwyLjMtOC43LDEuOS0xMS4xLjhhNi42NCw2LjY0LDAsMCwxLTQtNi44aDVzLS4zLDMuMiwzLjcsMy4yLDQuMi0yLjIsMy4zLTNjLTEtMS04LjgtMS4zLTEwLjktNC41YTYuMzcsNi4zNywwLDAsMSwyLjItOC44YzMuOC0yLjMsOS41LTEuMiwxMS41LDFhNi43Nyw2Ljc3LDAsMCwxLDIuMSw1LjNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xIC0wLjMpIi8+CiAgICAgICAgPHBhdGggY2xhc3M9ImNscy01IiBkPSJNOTQuMywxLjJIMTI5VjM1LjlIOTQuNFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgPC9nPgogICAgICA8cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xMDcuMiwyOS42aC01VjEzLjFIOTguOHYtNWg4LjRaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xIC0wLjMpIi8+CiAgICAgIDxwYXRoIGNsYXNzPSJjbHMtNiIgZD0iTTEwNS4yLDM2LjZWNDdILjZWMTEuNGg5MyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuMSAtMC4zKSIvPgogICAgICA8cGF0aCBjbGFzcz0iY2xzLTYiIGQ9Ik05NC4xLDFoMzUuNFYzNi4xSDk0LjFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xIC0wLjMpIi8+CiAgICA8L2c+CiAgICA8Zz4KICAgICAgPHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTE3LDI5Ljg0YzQuNC0uMDgsNy4xMy0zLjE0LDcuNDUtNiwuNDQtMy45MS0xLjY0LTUuMjQtMi44NS02YTQuNjIsNC42MiwwLDAsMCwyLjE2LTQuNjhjLS4zOS0zLjU5LTMuNC01LjM5LTYuOTEtNS40MnMtNi4yNiwyLjExLTYuNzUsNS4yOGE0LjcsNC43LDAsMCwwLDIuMTcsNC44Miw2LjE3LDYuMTcsMCwwLDAtMi45MSw1LjkzQTcuMzgsNy4zOCwwLDAsMCwxMTcsMjkuODRaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xIC0wLjMpIi8+CiAgICAgIDxnIGNsYXNzPSJjbHMtNyI+CiAgICAgICAgPGc+CiAgICAgICAgICA8cGF0aCBjbGFzcz0iY2xzLTgiIGQ9Ik0xMjEsMTcuODRhMTQuODgsMTQuODgsMCwwLDEtOCwuMDgsNy42Miw3LjYyLDAsMCwxLC4xMS00LjExYzEuMjUuMTYsMi41MS0uNjgsMy43Ny0uNjdzMi42My44NCw0LC42N0E2LjM2LDYuMzYsMCwwLDEsMTIxLDE3Ljg0WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTAuMSAtMC4zKSIvPgogICAgICAgICAgPHBhdGggY2xhc3M9ImNscy04IiBkPSJNMTEzLjA2LDE0LjUyYTcuODIsNy44MiwwLDAsMS0xLjc3LS41Miw5LjY4LDkuNjgsMCwwLDEtMS41Mi0uODJsLjQxLS41OGE4Ljg1LDguODUsMCwwLDAsMS4zOS43NSw2LjgzLDYuODMsMCwwLDAsMS41OC40N1oiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtOCIgZD0iTTExMy4xNSwxNy45NGE3LjcxLDcuNzEsMCwwLDEtMS43Ni0uNTEsNy40MSw3LjQxLDAsMCwxLTEuNDMtLjc5bC40Mi0uNTZhNi43Myw2LjczLDAsMCwwLDEuMjkuNyw2LjU5LDYuNTksMCwwLDAsMS41Ny40NloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtOCIgZD0iTTEyMC44NiwxNC41MmwtLjEtLjdhNi42MSw2LjYxLDAsMCwwLDEuNTctLjQ3LDcuMjQsNy4yNCwwLDAsMCwxLjM5LS43N2wuNDIuNTdhOC43OCw4Ljc4LDAsMCwxLTEuNTMuODVBOC4xOSw4LjE5LDAsMCwxLDEyMC44NiwxNC41MloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtOCIgZD0iTTEyMC43MSwxNy44OGwwLS43YTQuODYsNC44NiwwLDAsMCwxLjU1LS40LDYuMTgsNi4xOCwwLDAsMCwxLjI5LS43bC40My41NmE3LjIsNy4yLDAsMCwxLTEuNDQuNzlBNS41NSw1LjU1LDAsMCwxLDEyMC43MSwxNy44OFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0wLjEgLTAuMykiLz4KICAgICAgICAgIDxjaXJjbGUgY3g9IjExOC42NCIgY3k9IjEyLjIyIiByPSIwLjY4Ii8+CiAgICAgICAgICA8Y2lyY2xlIGN4PSIxMTUuMDciIGN5PSIxMi4yMiIgcj0iMC42OCIvPgogICAgICAgIDwvZz4KICAgICAgPC9nPgogICAgICA8cGF0aCBjbGFzcz0iY2xzLTkiIGQ9Ik0xMTkuNDUsMjIuNDVBMi40MSwyLjQxLDAsMCwxLDExNy4wOCwyNWEyLjQ2LDIuNDYsMCwwLDEtMi40Ni0yLjUxQTIuMzIsMi4zMiwwLDAsMSwxMTcuMDYsMjAsMi40LDIuNCwwLDAsMSwxMTkuNDUsMjIuNDVaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC4xIC0wLjMpIi8+CiAgICA8L2c+CiAgPC9nPgo8L3N2Zz4K "News18 - Latest News")](#)
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
-* [Showsha](https://www.news18.com/entertainment/)
-* [Politics](https://www.news18.com/politics/)
-* [World](https://www.news18.com/world/)
-* [Viral](https://www.news18.com/viral/)
-* [Business](https://www.news18.com/business/)
-* [Opinion](https://www.news18.com/opinion/)
-* [Education](https://www.news18.com/education-career/)
+* [Cricket](https://www.news18.com/cricket/)
 * [Web Stories](https://www.news18.com/web-stories/)
+* [Lifestyle](https://www.news18.com/lifestyle/)
+* [Viral](https://www.news18.com/viral/)
+* [World](https://www.news18.com/world/)
 * [Videos](https://www.news18.com/videos/)
+* [Business](https://www.news18.com/business/)
+* [Education](https://www.news18.com/education-career/)
+* [Politics](https://www.news18.com/politics/)
+* [Opinion](https://www.news18.com/opinion/)
 
 * 
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
-* [Showsha](https://www.news18.com/entertainment/)
-* [Politics](https://www.news18.com/politics/)
-* [World](https://www.news18.com/world/)
-* [Viral](https://www.news18.com/viral/)
-* [Business](https://www.news18.com/business/)
-* [Opinion](https://www.news18.com/opinion/)
-* [Education](https://www.news18.com/education-career/)
+* [Cricket](https://www.news18.com/cricket/)
 * [Web Stories](https://www.news18.com/web-stories/)
+* [Lifestyle](https://www.news18.com/lifestyle/)
+* [Viral](https://www.news18.com/viral/)
+* [World](https://www.news18.com/world/)
 * [Videos](https://www.news18.com/videos/)
-* [Photos](https://www.news18.com/photogallery/)
+* [Business](https://www.news18.com/business/)
+* [Education](https://www.news18.com/education-career/)
+* [Politics](https://www.news18.com/politics/)
+* [Opinion](https://www.news18.com/opinion/)
 * [Explainers](https://www.news18.com/explainers/)
+* [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
 * [Auto](https://www.news18.com/auto/)
-* [Lifestyle](https://www.news18.com/lifestyle/)
+* [Podcast](https://www.news18.com/podcast/)
 * [Health](https://www.news18.com/lifestyle/health-and-fitness/)
 * [Travel](https://www.news18.com/lifestyle/travel/)
 * [Food](https://www.news18.com/lifestyle/food/)
@@ -86,26 +61,30 @@ CHANGE LANGUAGE
 * [Savings and Investments](https://www.news18.com/business/savings-and-investments/)
 * [Breaking News](https://www.news18.com/breaking-news/)
 * [City News](https://www.news18.com/cities/)
-* [Power Circuit](https://www.news18.com/political-gossip-whispers/)
 * [Elections](https://www.news18.com/elections/)
-* [Astrology](https://www.news18.com/astrology/)
+* [Power Circuit](https://www.news18.com/political-gossip-whispers/)
 * [Viral](https://www.news18.com/viral/)
 * [Bollywood](https://www.news18.com/entertainment/bollywood/)
 * [Regional Cinema](https://www.news18.com/entertainment/regional-cinema/)
 * [Television](https://www.news18.com/entertainment/television/)
 * [Web Series](https://www.news18.com/entertainment/web-series/)
+* [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 
-[Latest](https://www.news18.com/news/)[Election Results](https://www.news18.com/elections/lok-sabha/) [Key Candidates](https://www.news18.com/elections/lok-sabha/lok-sabha-election-result-key-candidates-performance/)[Winning Candidates](https://www.news18.com/elections/lok-sabha/all-winner-list/)[TN Election Results](https://www.news18.com/elections/tamil-nadu/lok-sabha-election-synopsis/)[Odisha Election Results](https://www.news18.com/elections/odisha/lok-sabha-election-synopsis/)[AP Election Results](https://www.news18.com/elections/analytics-center/?v=map&s=AP&t=AS&)[T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)[#VoteSolidDeshSolid](https://www.news18features.com/votekavachan/)
+[Latest](https://www.news18.com/news/)[T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)[Euro 2024](https://www.news18.com/football/euro/)[Showsha](https://www.news18.com/entertainment/)[Podcast](https://www.news18.com/podcast/)[Board Exam Results](https://www.news18.com/india-result/)[Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)[Explainers](https://www.news18.com/explainers/)[Sports](https://www.news18.com/sports/)[Tech](https://www.news18.com/tech/)[Auto](https://www.news18.com/auto/)[Photos](https://www.news18.com/photogallery/)[#VoteSolidDeshSolid](https://www.news18features.com/votekavachan/)
 
 * [Latest](https://www.news18.com/news/)
-* [Election Results](https://www.news18.com/elections/lok-sabha/)
-* [Key Candidates](https://www.news18.com/elections/lok-sabha/lok-sabha-election-result-key-candidates-performance/)
-* [Winning Candidates](https://www.news18.com/elections/lok-sabha/all-winner-list/)
-* [TN Election Results](https://www.news18.com/elections/tamil-nadu/lok-sabha-election-synopsis/)
-* [Odisha Election Results](https://www.news18.com/elections/odisha/lok-sabha-election-synopsis/)
-* [AP Election Results](https://www.news18.com/elections/analytics-center/?v=map&s=AP&t=AS&)
 * [T20 World Cup](https://www.news18.com/cricket/icc-t20-world-cup/)
+* ![New Icon](https://images.news18.com/static_news18/ibnlive/pix/NewIcon.svg)[Euro 2024](https://www.news18.com/football/euro/)
+* [Showsha](https://www.news18.com/entertainment/)
+* [Podcast](https://www.news18.com/podcast/)
+* [Board Exam Results](https://www.news18.com/india-result/)
+* [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
+* [Explainers](https://www.news18.com/explainers/)
+* [Sports](https://www.news18.com/sports/)
+* [Tech](https://www.news18.com/tech/)
+* [Auto](https://www.news18.com/auto/)
+* [Photos](https://www.news18.com/photogallery/)
 * [#VoteSolidDeshSolid](https://www.news18features.com/votekavachan/)
 
 News18 Website and App Privacy Policy
