@@ -131,20 +131,23 @@ Please address questions, comments, and requests regarding this privacy notice a
 [![Muse icon](/assets/media/muse_mono_black.svg)](https://museapp.com/)
 
 * Get Muse
-* [Download](https://museapp.com/download)
+* [App Store](https://museapp.com/download)
+* [Setapp](https://go.setapp.com/stp395?utm_medium=vendor_program&utm_source=Milestone+Made%2C+LLC&utm_content=link&stc=site-footer&utm_campaign=site-footer)
 
 * Resources
 * [Guide](https://museapp.com/guide)
-* [Community](https://museapp.com/community)
 * [Memos](https://museapp.com/memos)
 * [Email updates](https://museapp.com/email-updates)
 
-* History
+* Connect
+* [Community](https://museapp.com/community)
+* [𝕏, Twitter](https://x.com/MuseAppHQ)
+* [Email](mailto:hello@museapp.com)
+
+* Archive
 * [Podcast](https://museapp.com/podcast)
 * [Videos](https://youtube.com/@MuseAppHQ)
-* [Twitter](https://twitter.com/MuseAppHQ)
 
 * Company
 * [Terms](https://museapp.com/terms)
 * [Privacy](https://museapp.com/privacy)
-* [Contact](mailto:hello@museapp.com)
