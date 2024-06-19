@@ -1,13 +1,10 @@
 [![Cameyo](https://cameyo.com/wp-content/uploads/2018/12/Cameyo-Black.png)](https://cameyo.com/)
 
 * [Solutions](https://cameyo.com/solutions/)
-    * [Hybrid/Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-    * [VDI Replacement](https://cameyo.com/citrix-replacement/)
+    * [Cameyo for Remote Work](https://cameyo.com/cameyo-for-remote-work/)
+    * [The Leading Citrix Alternative Solution](https://cameyo.com/citrix-replacement/)
     * [ChromeOS Virtual App Delivery](https://cameyo.com/chromeos-virtual-app-delivery/)
-    * [ISVs](https://cameyo.com/cameyo-for-isvs/)
     * [MSPs](https://cameyo.com/cameyo-for-msps/)
-    * [GPUs](https://cameyo.com/cameyo-for-gpu/)
-    * [Education](https://cameyo.com/education/)
     * [Business Continuity](https://cameyo.com/cameyo-rapid-recovery/)
 * [Products](https://cameyo.com/products/)
     * [Fully Hosted](https://cameyo.com/cameyo-cloud/)
@@ -33,149 +30,237 @@ Select Page
 Privacy
 =======
 
-Cameyo, Inc. and its subsidiaries worldwide (“Cameyo”) respect your privacy. This Privacy Policy covers Cameyo’s practices for the Cameyo websites or mobile applications (“Sites”) that link to this Policy as well as to the products, services and web-based applications provided by Cameyo (our “Products”). This Policy, including the following individual Privacy Notices that may be presented at the time and/or in the context in which Cameyo collects certain Personal Data, describe our privacy practices. These individual Privacy Notices supplement and are incorporated into this Privacy Policy to describe in more detail the Personal Data collected, its purposes and our practices with respect to certain business functions. 
+**Cameyo Privacy Notice**
 
-### Privacy Requests and Marketing Preferences
+Effective Date: June 13, 2024 
 
-If you would like to submit an individual privacy request as or on behalf of an individual, please follow this [link](https://cameyo.com/contact-us/).
+This Privacy Notice explains how Cameyo, Inc. (collectively, “**Company**” or “**we**”) collects and processes the personal information of its users (“**user**”, “**you**” or “**your**”) in relation to (i) our website (“**Website**”); and (ii) our products, any software furnished or used by Company in connection with our services, and related services, as applicable (collectively, the “**Services**”).  
 
-If you would like to opt out of receiving general marketing communications from us in the future, or to update your communication preferences, please follow this [link](https://cameyo.com/contact-us/). 
+We may offer the Services either directly or via our authorized partners, including but not limited to resellers, distributors, or other similar representatives. Where we refer to our “**customers**” in this Privacy Notice, we also mean our partners, resellers, distributors, or our other similar representatives and their customers.
 
-Please note that you may not opt out of receiving communications from us related to your use, support or payment for our Products.
+If European Union (EU), UK or Swiss data protection law applies to the processing of Service Data relating to you, you can review the **EU Privacy Standards and GDPR** section below to learn more about your rights and compliance with these laws by us.
 
-### What is Personal Data
+#### **Service Data We Collect**
 
-Personal Data is information relating to identified or identifiable individuals (including individual representatives of companies, such as employees or administrators). Cameyo collects Personal Data to market, sell, provision, manage and support our Products and to run our business. Cameyo, Inc. is the controller of such Personal Data, and unless otherwise noted, the remainder of this Privacy Policy applies to Cameyo’s collection and use of Personal Data for which we are a controller.
+We process Customer Data and Service Data in order to provide the Services. This Privacy Policy applies solely to Service Data and **does not** apply to Customer Data. “**Customer Data**” is data submitted, stored, or sent via the Services by our customers or their end users. For additional information related to Customer Data processing, please refer to your relevant customer agreement.  “**Service Data**” is the personal information we collect or generate during the provision and administration of the Services, excluding any Customer Data. 
 
-Cameyo also processes Personal Data we receive in our role as a service provider for our customers who use our Products. We are a processor of such Personal Data that is submitted to us by our customers who are authorized to do so by the controllers of such data or who are the controllers of such data. If you would like to inquire about or exercise any rights you may have with respect to data that is provided to us in our capacity as a processor, you should reach out to that Cameyo customer directly. We are not responsible for the privacy or data security practices of our customers, which may differ from those set forth in this Privacy Policy.
+Service Data includes:
 
-Information that does not and cannot be used to directly or indirectly identify an individual is not Personal Data. This can be aggregated information about a group or category of data or data that has been de-identified so that it cannot be attributed to any individual. We may use and share such information to improve our Sites and our Products, develop new products, understand and/or analyze usage, demand, and general industry trends, develop and publish white papers, reports, and generally for any purpose related to our business. Our practices described in this Privacy Policy do not apply to nor restrict our collection and use of such data.
+* **When you engage us to use our Services or sign-up to the Services, and to provide support as agreed.** We collect and process your contact information and billing information when you engage us to use our Services or sign-up to the Services and to provide support. If you are a representative of a business that wishes to use, or is already using, our Services, we will collect contact information such as your name, title and company name, contact information, i.e., email address and phone number, and information relating to the potential or existing engagement and any support agreed between us and that business.
+* **Payments and transactions.** We keep reasonable business records of charges, payments, and billing details and issues.
+* **Settings and configurations.** We may record your configuration and settings, including usernames, resource identifiers, and attributes. This includes service and security settings for data and other resources.
+* **Technical and operational details of your usage of the Services.** We collect information about usage, operational status, software errors and crash reports, authentication details, quality and performance metrics, and other technical details necessary for us to operate and maintain the Services and related software. This information may include device identifiers, identifiers from cookies or tokens, and IP addresses.
+* **Your direct communications.** We keep records of your communications and interactions with us and our partners, for example, when you send us an inquiry, provide feedback, or sign up to get a demo or to receive news and updates from us.
+* **When you visit the Website.** We collect analytics information about your interaction with the Website, such as device identifiers and identifiers from cookies or tokens.
 
-### When and for what purposes do we collect Personal Data
+#### **Why We Process Service Data**
 
-Cameyo collects Personal Data when someone visits our Sites, fills out a form or provides information on our Sites or on websites hosted on our behalf, submits an email or other inquiry to us, communicates with us in person, by phone or by email, enters a contest, visits our offices, applies for employment, posts on one of our community forums, provides feedback, registers for or attends a Cameyo event or webinar, purchases or uses a Product, registers for or logs on to one of the product management portals that are restricted to registered users, or requests support for a Product.
+We and our affiliates process Service Data for the following purposes:
 
-We use Personal Data to fulfill the purpose for which the data is collected, such as to provide a requested product demonstration, to manage event or product registrations, or to process billing for our Products. We also use Personal Data we collect to maintain the security of Sites and Products and to run and manage our business.
+* **Provide the Services.** Service Data is primarily used to deliver the Services. This requires processing of Service Data for purposes such as billing for the services you use, ensuring those Services are delivered or working as intended, detecting and avoiding outages or other problems you might experience, and securing your data and Services.
+* **Make recommendations to optimize use of the Services.** We use Service Data to provide you and our customers with recommendations and personalized services. This includes suggesting ways to better secure your account or data, options to reduce service charges or improve performance, and information about new or related products and features. We also evaluate your response to our recommendations.
+* **Maintain, improve and develop our services.** We evaluate Service Data to help us maintain and improve our services, such as improving their security, performance, and functionality and developing new services and features. As we optimize our services for you, this will improve them for other customers and vice versa.
+* **Provide and improve other services you request.** We use Service Data to deliver and improve other services that you and our other customers request, including providing product demonstrations, or to manage event or product registrations.
+* **Measure performance.**  We use Service Data to measure performance so that we can identify when the Services are malfunctioning and provide required fixes, or when maintenance is required to address performance drops or other issues experienced by our customers.
+* **Assist you, including support.** We use Service Data to provide the technical support that you and our customers request, and to assess whether we have met your needs. We also use Service Data to improve our online support, and to communicate with you and our customers. This includes sending notifications about updates to the Services, and responding to support requests.
+* **Protect you, us, our users, and the public.** We use Service Data to improve the safety and reliability of our services by detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm you, us, our users, our customers, and the public. These activities are an important part of our commitment to secure our services. 
+* **Internal reporting and analysis.**  We use Service Data for internal reporting and analysis of applicable product and business operations. 
+* **Comply with legal obligations.** We use Service Data to comply with our legal obligations, for example, where we are responding to a legal process or an enforceable governmental request, or to meet our financial record-keeping obligations.
 
-### How does Cameyo Collect Personal Data
+To achieve these purposes, we use Service Data together with information collected from other Company products and services.  Manual collection and review of Service Data may also occur, such as when you interact directly with our billing or support teams. 
 
-We collect Personal Data from several categories of sources.
+#### **Where Service Data Is Stored**  
 
-We collect Personal Data that you give us directly such as when you fill out a form, sign in as a visitor to our office, apply for employment, purchase a Product, register for an event or otherwise communicate with us.
+Company maintains servers around the world and Service Data may be processed on servers located outside of the country where our users and customers are located.  Data protection laws vary among countries, with some providing more protection than others.  Regardless of where your information is processed, we apply the same protections described in this Privacy Notice. We also comply with certain legal frameworks relating to the transfer of data, such as the frameworks described below.
 
-We collect Personal Data from other sources such as public databases, third party providers of business contact information, third party websites that we make available to you, recruitment services, social media sites, and public websites.
+* **Adequacy decisions**
 
-We also use information-gathering tools such as cookies and similar technologies that automatically collect information that may contain Personal Data from your computer or mobile device when you use our Products, visit our Sites or interact with emails from us.
+The European Commission has determined that certain countries outside of the European Economic Area (EEA) adequately protect personal data, which means that data can be transferred from the European Union (EU), Norway, Liechtenstein, and Iceland to that third country without any further safeguard being necessary. The UK and Switzerland have approved similar adequacy decisions. We rely on those adequacy decisions in some cases.
 
-### How we may Share Personal Data
+* **Standard contractual clauses**
 
-Cameyo may share Personal Data in the following circumstances:
+Standard contractual clauses (SCCs) are written commitments between parties that can be used as a ground for data transfers from the EU to third countries by providing appropriate data protection safeguards. SCCs have been approved by the European Commission and can’t be modified by the parties using them (you can see the SCCs adopted by the European Commission [here](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj), [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32010D0087), and [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915)). Such clauses have also been approved for transfers of data to countries outside the UK and Switzerland. Where required, we rely on SCCs for data transfers.   
 
-to and among corporate subsidiaries and affiliates for the purposes described and consistent with the practices in this Policy;
+#### **How We Secure Service Data**
 
-to vendors, consultants or other service provider companies that provide services that help us with our business activities such as processing Customer payments, customer relationship management services, marketing, data analytics, security and enterprise resource planning. These companies are authorized to use Personal Data only as necessary to provide these services to us;
+Our Services are offered with strong security features to protect your data. We work hard to protect you from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
 
-with other companies whose products or services we think may be of interest to you in joint marketing and support efforts. We will obtain your consent where required for such joint marketing efforts.
+* Encrypting Service Data at rest and while in transit between our facilities. 
+* Regularly reviewing our Service Data collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems; and 
+* Restricting access to Service Data to our employees, contractors, and agents, including our affiliates’ employees, contractors, and agents, who need that Service Data in order to process it for us. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
-Cameyo may also disclose such Personal Data to a third party in the following limited circumstances:
+#### **How We Share Service Data**  
 
-as needed to enforce Cameyo’s Terms of Use, policies and any other contractual relationships with our customers;
+We do not share Service Data with companies, organizations, or individuals outside of our affiliates, except in the following cases:  
 
-when we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our Sites or Products against possible attacks, or protect the property and safety of Cameyo, our Customers or the public;
+* **When you procure third-party services**
 
-as required by law, such as to comply with a subpoena, warrant, regulatory oversight or similar legal process;
+We share your information when you choose to procure a third-party service or application that requests access to your information.  
 
-in connection with any potential sale, transfer, merger, consolidation or other transaction involving all or part of our company or its subsidiaries and affiliates.
+* **With your consent**
 
-Please consult our individual Privacy Notices for more details about the types of Personal Data we may share, the purposes for sharing it, and the categories of recipients.
+We share your information where we have obtained your consent to do so.  
 
-### International Transfers of Personal Information
+* **With your administrators and authorized resellers**
 
-We may transfer Personal Data to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which the information was initially provided. When we transfer Personal Data to other countries, we will protect that Personal Data as described in this Privacy Policy.
+When you use the Services, your administrator and resellers authorized to manage your or your organization’s account will have access to certain Service Data. For example, they may be able to:
 
-Cameyo validates transfers of Personal Data, for which Cameyo is a controller, from the European Economic Area, Switzerland and the United Kingdom to the U.S. and to areas other than the U.S. through use of the European Commission Standard Contractual Clauses.
+* View account and billing information, activity and statistics
+* Change your account password
+* Suspend or terminate your account access
+* Access your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request
+* Restrict your ability to delete or edit your information or your privacy settings  
+    
 
-### Cameyo’s Commitment to Securing Personal Data
+* **For external processing**
 
-Cameyo is committed to protecting all Personal Data we collect and use. To that end, we have implemented physical, administrative and technical safeguards to help us protect Personal Data under Cameyo’s control from unauthorized access, use and disclosure.
+We do not sell your Service Data to any third parties.  We may share your Service Data with trusted third-party providers to process it for us as we instruct them, in compliance with this Privacy Notice and appropriate privacy and security measures in our contracts with them.  
 
-However, no system of electronic data collection, storage and retrieval can be made entirely impenetrable and by continuing to use our Sites and Products you acknowledge and accept that despite the security measures we employ, we do not guarantee that our Sites, Products and procedures are invulnerable to all security breaches or immune from viruses, security threats or other risks.
+* **For legal reasons**
 
-### External Links/Third Party Websites
+We share Service Data if we have a good-faith belief that access to, or use, preservation, or disclosure of the Service Data is reasonably necessary to:  
 
-Cameyo’s Sites may provide links to and be accessed via links from third-party websites, including social media websites, whose privacy policies differ from those of Cameyo. Even if the third-party is affiliated with Cameyo through a business partnership or otherwise, Cameyo is not responsible for the content, privacy policies, or practices of such third parties. We encourage you to review carefully the privacy policy of any website you visit.
+* Comply with applicable law, regulation, legal process, or enforceable governmental request.
+* Enforce applicable agreements, including investigation of potential violations.
+* Detect, prevent, or otherwise address fraud, security, or technical issues.
+* Protect against harm to the rights, property or security of us, our affiliates,, our customers, users, and the public as required or permitted by law.  
+    
 
-### Children
+If we are involved in a reorganization, merger, acquisition, or sale of assets, we’ll continue to ensure the confidentiality of your Service Data.
 
-Our Sites and Products are not for minors and we do not knowingly attempt to solicit or receive any information from children. However, if a child under 18 provides Cameyo with Personal Data, the parent or guardian should contact Cameyo immediately by submitting a privacy request by [clicking on this link](https://cameyo.com/contact-us/) so we can delete such information.
+#### **Access to Service Data**
 
-### GDPR / European Privacy
+Your organization may allow you to access and export your data in order to back it up or transfer it to a third-party service. Some Services may enable you to directly access and download the data you have stored in the services.  You may be able to access certain categories of Service Data directly from the Services, such as your billing contact information, payment and transaction information, or certain product and communication settings and configurations.
 
-This European Privacy Notice supplements the information contained in the Cameyo Privacy Policy, including its Privacy Notices, and applies to all visitors, users, and others from Europe. Specifically, if you are in the European Economic Area, Switzerland or the United Kingdom, you have the right to obtain information concerning your Personal Data. This includes the right to know whether or not we process personal data concerning you and, if this is the case, to access your personal data. In certain cases, you may request rectification, erasure or restriction of the processing of your personal data. Further, in certain cases you also have a right to object the processing of personal data and the right to data portability.
+#### **Deletion Or Retention Of Service Data**
 
-### Legal Basis for processing your information.
+We retain Service Data for different periods of time depending on the type of data, how we use it, and how you configure your settings. When we no longer need such data, we delete or anonymize it.  
 
-We collect and use the personal data described above in order to provide you with the Sites and Products in a reliable and secure manner. We also collect and use personal data for our legitimate business needs. To the extent we process your personal data for other purposes, we ask for your consent in advance or require that others acting on our behalf obtain such consent.
+For each type of Service Data and processing operation, we set retention timeframes based on the purposes for which we process it, and ensure that the information is kept for no longer than necessary. We retain most types of Service Data for a set period of up to 180 days (the exact number depends on the specific type of data). However, some data may be kept for longer periods where there is a legitimate business need. We generally have longer retention periods (which can be over a year) for Service Data that is kept for the following purposes:  
 
-If the processing of your personal data is based on legitimate interests, you have the right to object to the processing on grounds relating to your particular situation or to the fact that the data are processed for direct marketing purposes. In the latter case, you have a general right to object.
+* **Security, fraud and abuse prevention.** We retain Service Data to protect us, our affiliates, users, customers, and the public from security threats (including when it is necessary to protect against fraudulent attempts to gain access to user accounts), or to investigate violations of applicable agreements. Usually, the Service Data retained where there is reason to suspect fraud or abuse would include device identifiers, identifiers from cookies or tokens, and IP addresses. 
+* **Complying with legal or regulatory requirements.** We retain Service Data when required by an enforceable legal process, such as a lawful subpoena. 
+* **Complying with tax, accounting or financial requirements.** When we process a payment for you, or when you make a payment to us, we retain Service Data about those transactions (including billing information), typically for a minimum of five years, as required for tax or accounting purposes, or to comply with applicable financial regulations.  
+    
 
-If the processing of your personal data is based on your consent, you are entitled to withdraw your consent at any time. Please bear in mind that such withdrawal of consent only has future effect. It does not render invalid nor illegal the processing based on consent before it is withdrawal.
+At the end of the applicable retention period, we follow detailed protocols to make sure that the Service Data is securely and completely deleted from our active systems or retained only in de-identified form. After completion of these steps, copies of the data may remain for a limited period in our encrypted backup systems (which we maintain to protect this information from accidental or malicious deletion and for outage and disaster recovery purposes), before being overwritten by new backup copies.
 
-Please consult our individual Privacy Notices for more details about the types of Personal Data we may collect, the legal bases for our processing, and our privacy practices for individual business functions.
+#### **EU Privacy Standards and GDPR**
 
-### Privacy Notice for California Residents
+**Exercising your data protection rights**
 
-This Privacy Notice for California Residents supplements the information contained in the Cameyo Privacy Policy, including its Privacy Notices, and applies solely to all visitors, users, and others who are California consumers. We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this Notice.
+If European Union (EU), UK, or Swiss data protection law applies to the processing of Service Data relating to you, you have certain rights, including the rights to access, correct, delete and export that information, and to object to or request that we restrict processing of your personal information.
 
-Please note that enactment of certain parts of the CCPA, especially in the business to business environment in which Cameyo operates, have been postponed until at least January 1, 2021. This may affect your rights that are otherwise described below.
+Cameyo, Inc. is the data controller responsible for Service Data.  If you want to exercise your data protection rights with regard to Service Data we process in accordance with this Privacy Notice, and are not able to do so via the tools available to you or your organization’s administrator, you can [contact us](https://cameyo.com/contact-us/).
 
-The categories of Personal Information we collect, the categories of sources from which we collect it, the business or commercial purpose for collecting it and the categories of third parties with whom we may share it are the same for all individuals and are described above in our Privacy Policy and in our individual Privacy Notices.
+You can always contact your local data protection authority if you have concerns regarding your rights under local law.  
 
-Cameyo does not sell your Personal Information. If you register for or attend a Cameyo event and we disclose your contact information to our sponsors for the event, we will only do so if you expressly consent. Although we do not sell personal information in exchange for any monetary consideration, we do share personal information for other benefits that could be deemed a “sale,” as defined by the CCPA. This may include sharing identifiers and traffic information with advertising networks or website analytics companies. You have the right to customize your cookie preference settings at any time.
+**Our grounds for processing your Service Data**
 
-### CCPA Rights
+When we process the Service Data described in **Service Data We Collect** for the purposes described in **Why We Process Service Data** (both sections are above), we generally rely upon legitimate interests in (i) fulfilling the contractual obligations that we owe to you or your employer to provide the Services, (i) in offering the best services we can, (iii) improving the Services to meet our customers’ needs, (iv) to protect against harm to the rights, property and safety of the Company and our affiliates; and where necessary for our, our affiliates’, and third parties’ legitimate interests to protect against harm to our users, our customers and the public, including criminal acts and rights violations, and (v) where we have a legal obligation to do so.  In some cases we may seek your consent to send you marketing communications.
 
-The CCPA provides California consumers with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.
+**Additional information (Switzerland)** 
 
-You have the right to request that Cameyo disclose certain information to you about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request we will disclose to you, as applicable:
+If Swiss data protection law applies to the processing of your Service Data, the following additional information is relevant:
 
-* The categories of personal information we collected about you.
-* The categories of sources for the personal information we collected about you.
-* Our business or commercial purpose for collecting that personal information.
-* The categories of third parties with whom we share that personal information.
-* The specific pieces of personal information we collected about you (data portability)
-* If we disclosed your personal information for a business purpose: the personal information categories that each category of recipient obtained.
+Please see the section titled [**Where Service Data is Stored**](https://cloud.google.com/terms/cloud-acquisitions-privacy-notice#panel0-3) (above) for information on where we and our affiliates process Service Data. We also disclose your Service Data to service providers, partners and other recipients (see the section titled [**How We Share Service Data**](https://cloud.google.com/terms/cloud-acquisitions-privacy-notice#panel0-5)) that are located or process information in any country in the world.
 
-You have the right to request that Cameyo delete your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request we will delete (and direct our service providers to delete) your personal information from our records, unless an exception in the CCPA applies.
+We comply with certain legal frameworks relating to the transfer of information as set out in the section titled [**Where Service Data is Stored**](https://cloud.google.com/terms/cloud-acquisitions-privacy-notice#panel0-3) (above). We may also transfer your information to a third country based on an exception provided for by the [Swiss Federal Data Protection Act](https://www.fedlex.admin.ch/eli/cc/2022/491/en).
 
-Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information.
+An exception may apply in the event of legal proceedings abroad; in cases of overriding public interest or if the performance of a contract with you or in your interest requires disclosure; if you have consented; if the information has been made generally available by you and you have not objected to the processing; if the disclosure is necessary in order to protect the life or the physical integrity of you or a third party and we can’t get consent within a reasonable period of time; or if the information originates from a register provided for by Swiss law which is accessible to the public or to persons with a legitimate interest, provided that the legal conditions for the consultation of such register has been met in the specific case.
 
-To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by [visiting this link](https://cameyo.com/contact-us/) or by calling +1-919-421-4610.
+#### **Brazil Requirements**
 
-You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
+If Brazilian data protection law applies to the processing of your personal information, you have certain rights, including the rights to access, correct, delete or export that information, as well as to object to or request that we restrict processing of that information. You also have the right to object to the processing of your information or to export your information to another service.
 
-* Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
-* Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+For users based in Brazil, the data controller responsible for information we collect under this Privacy Notice is Cameyo, Inc. If you want to exercise your data protection rights with regard to personal information we process in accordance with this Privacy Notice and are not able to do so via the tools available to you or your organization’s administrator, you can [contact us](https://cameyo.com/contact-us/). And you can contact your data protection authority if you have concerns regarding your rights under Brazilian law.
 
-We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us.
+In addition to the purposes and grounds described in this Privacy Notice, we may process personal information on the following legal grounds:  
 
-We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity, or authority to make the request.
+* **Where necessary for the performance of a contract with you or your employer**
 
-We endeavor to respond to a verifiable consumer request within forty-five (45) days of its receipt. If we require more time, we will inform you of the reason and extension period in writing.
+We may process your information where necessary for us to enter into a contract with you or to comply with our contractual commitments to you.  
 
-Any disclosures we provide will cover the 12-month period preceding the verifiable consumer request’s receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable. For data portability requests, we will select a format to provide your personal information that is readily usable
+* **When we’re complying with legal obligations**
 
-We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+We’ll process your information when we have a legal obligation to do so.  
 
-If you would like to inquire about or exercise any rights you may have with respect to your personal information for which we are a service provider that has been submitted to us through a Cameyo customer, you should reach out to that customer directly.
+* **When we’re pursuing legitimate interests**
 
-Cameyo reserves the right to amend this Privacy Notice for California Residents at our discretion and at any time. When we make changes to this privacy notice, we will post the updated notice and update the notice’s effective date.
+We may process personal information based on our legitimate interests and those of third parties while applying appropriate safeguards that protect your privacy. This means that we process your information in the interests of providing the Services you request; making recommendations to optimize use of the Services; maintaining and improving the Services; providing and improving other services you request; assisting you; and protecting against harm to the rights, property or safety of us and our affiliates, our users, our customers, and the public, as required or permitted by law.
 
-### Updates to our Privacy Policy
+#### **U.S. State Privacy Law Requirements**
 
-We may update this Privacy Policy from time to time. Please consult the “Effective Date” below to see when the Policy has been most recently updated. We encourage you to check this Policy frequently to see updates that may affect how your information may be used.
+Some U.S. state privacy laws require specific disclosures for state residents.  These laws may include:  
 
-**Updated as of September 12, 2023**
+* California Consumer Privacy Act (CCPA) (as amended by the California Consumer Privacy Act Regulations (CCPR);
+* Virginia Consumer Data Protection Act (VCDPA);
+* Colorado Privacy Act (CPA);
+* Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); and
+* Utah Consumer Privacy Act (UCPA)
+
+This Privacy Notice is designed to help you understand how we handle Service Data:  
+
+* We explain the categories of Service Data we collect and the sources of that Service Data in **Service Data We Collect**. 
+* We explain the purposes for which Company collects and uses Service Data in **Why We Process Service Data**. 
+* We explain when we may disclose Service Data in **How We Share Service Data**. We do not sell your Service Data to any third parties. We also do not “share” your personal information as that term is defined in the CCPA, as amended by the CPRA. 
+* We explain how we retain Service Data in **Deletion Or Retention of Service Data**. Company may also de-identify personal information about you. When we de-identify personal information, we maintain policies and technical measures to avoid re-identifying that information.
+
+U.S. state privacy laws also provide the right to request information about how we collect, use, and disclose Service Data. And they give you the right to access your Service Data, sometimes in a portable format;  correct Service Data; and to request that we delete that Service Data. They also provide the right to not be discriminated against for exercising these privacy rights.  We provide the information and tools described in **Access to Service Data** so you can exercise these rights. When you use them, we’ll validate your request by verifying your identity.
+
+If you have questions or requests related to your rights under U.S. state privacy laws, you (or your authorized agent) can also [contact us](https://cameyo.com/contact-us/). And if you disagree with the decision on your request, you can ask us to reconsider it by responding to the team’s email.
+
+Some U.S. state privacy laws require a description of Service Data practices using specific categories. This table uses these categories to organize the information in this Privacy Notice.
+
+|     |     |     |
+| --- | --- | --- |
+| **Categories of Service Data we collect** | **Business purposes for which Service Data may be used or disclosed** | **Parties with whom Service Data may be used or disclosed** |
+| * Identifiers and similar information such as your username, name, phone number, address, and job titles, as well as unique identifiers tied to the browser, application, or device you’re using. <br>* Demographic information, such as your preferred language and age. <br>* Commercial information such as records of charges, payments, and billing details and issues. <br>* Technical and operational details of your usage of Services, such as information about your usage, operational status, software errors and crash reports, authentication details, quality and performance metrics, and other technical details necessary for us to operate and maintain Services and related software. This includes device identifiers, identifiers from cookies or tokens, and IP addresses. <br>* Approximate Location data, as may be determined by IP address, depending in part on your device and account settings. <br>* Audio, electronic, visual, and similar information, such as audio recording of your calls with our technical support providers. <br>* Inferences drawn from the above, like aggregated performance metrics for a new product feature to determine product strategy. | * Protecting against security threats, abuse, and illegal activity. We use and may disclose Service Data to detect, prevent and respond to fraud, abuse, security risks, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, we may receive or disclose information about IP addresses that malicious actors have compromised. <br>* Auditing and measurement. We use Service Data for analytics and measurement to understand how our services are used, and to provide you and our customers with recommendations and tips. We may disclose non-personally identifiable information publicly and with partners, including for auditing purposes. <br>* Maintaining our services. We use Service Data to provide Services and related technical support, and other services you request, and ensure they are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us. <br>* Product development. We use Service Data to improve Services and other services you request, and to develop new products, features and technologies that benefit our users and customers. <br>* Use of service providers. We disclose Service Data with service providers to perform services on our behalf, in compliance with this Privacy Notice and other appropriate confidentiality and security measures in our contracts with them. For example, we may rely on service providers to help provide technical support. <br>* Legal reasons. We also use Service Data to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. | We do not disclose Service Data to third-party companies, organizations, or individuals except in the following cases:<br><br>**When you procure third-party services.** We disclose Service Data to third-parties when you or our customers choose(s) to procure a third-party service or use a third-party application that requests access to your Service Data.<br><br>**With your consent.** We’ll disclose Service Data to third-parties where we have obtained your consent.<br><br>**With your administrators and authorized resellers.** When you use the Services, your administrator and resellers authorized to manage your or your organization’s account will have access to certain Service Data.<br><br>**For external processing.** We disclose Service Data to trusted third-party providers to process it for us as we instruct them and in compliance with this Privacy Notice and appropriate privacy and security measures in our contracts with them. <br><br>**For legal reasons.** We disclose Service Data to third-parties when we have a good-faith belief that access to or disclosure of that Service Data is reasonably necessary to:<br><br>* Comply with applicable law, regulation, legal process, or enforceable governmental request. <br>* Enforce applicable agreements, including investigation of potential violations. <br>* Detect, prevent, or otherwise address fraud, security, or technical issues. <br>* Protect against harm to the rights, property or safety of us, our affiliates, our customers, users, and the public, as required or permitted by law. |
+
+#### **Japan Requirements**
+
+If Japanese data protection law (the Act on the Protection of Personal Information, “**APPI**”) applies to the processing of your Service Data, we provide the following additional information for users of the Services residing in Japan.  
+
+**Controller of Service Data.** Service Data is controlled primarily by Cameyo, Inc.
+
+**Purpose of collection and use of Service Data.** We collect and use Service Data for the purposes set out in the notice, above.  
+
+**Measures undertaken to protect retained personal information.**
+
+**_Establishment of general policy_**
+
+Company established and published this Privacy Notice outlining our general policy relating to Service Data.
+
+**_Establishment of internal policy relating to handling of personal data_**
+
+Company and our affiliates established internal policies about handling measures and persons in charge and their responsibility etc. with regard to the acquisition, utilization, records, provision, deletion, etc., of personal data.
+
+**_Internal organization as security control action_**
+
+Company and our affiliates have large security and privacy teams responsible for developing, implementing, and reviewing internal personal data handling processes. Company’s and our affiliates’ employees are trained to report suspected incidents involving personal data, which may be done through various channels such as through dedicated email addresses or digital platforms. A dedicated team assesses reported incidents, and as appropriate a coordinated team is assigned to manage the overall incident, including liaising with Legal and the product team as part of the investigation and response. The team on-call for an incident is assigned on a daily rotation. Incident responses may follow either a standard or an expedited route, depending on the severity and priority assigned to the incident.
+
+**_Personnel measures as security control action_**
+
+Company and our affiliates conduct periodical training for its employees about matters to consider when handling personal data.
+
+**_Physical measures as security control action_**
+
+Company and our affiliates take measures to prevent unauthorized persons from accessing personal data in any situation and to prevent theft or loss of devices and electronic media for handling personal data.
+
+**_Technical measures as security control action_**
+
+Please see **How we Secure Service Data** and **Deletion or Retention of Service Data**, above, for further information on the security measures undertaken to secure, retain, and delete Service Data**.**
+
+**_Research of external environment_**
+
+Data protection laws vary among countries, with some providing more protection than others. Company and our affiliates have established a personal information protection system to ensure your information is accorded protections equivalent to APPI, as described in this Privacy Notice. We also comply with certain legal frameworks relating to the transfer of data, such as the European frameworks described above. For more detail, please see **Data Transfer Frameworks**, above. Further, with regard to the location of our data centers storing Service Data, please see **Where Service Data is Stored** (above). There may be cases where Company entrusts the processing of information to subprocessors or its subsidiaries or affiliates. With regard to locations of our offices, subsidiaries, subprocessors and affiliates, please [contact us](https://cameyo.com/contact-us/).
+
+**Contact information.** For users of the Services residing in Japan that have any inquiries or requests about your Service Data related rights under applicable law, please [contact us](https://cameyo.com/contact-us/).
+
+####   
+**Updates to this Notice**
+
+We change this Privacy Notice from time to time.  We always indicate the date the last changes were published and we offer access to archived versions for your review. If changes are significant, we’ll provide a more prominent notice (including, for certain cases, email notification of Privacy Notice changes).
 
 #### Buy Now
 
@@ -192,23 +277,17 @@ We may update this Privacy Policy from time to time. Please consult the “Effec
 
 #### Products
 
-* [Self Hosted](https://cameyo.com/cameyo-server/)
 * [Fully Hosted](https://cameyo.com/cameyo-cloud/)
+* [Self Hosted](https://cameyo.com/cameyo-server/)
 * [Cameyo for Linux](https://cameyo.com/cameyo-for-linux/)
 * [Bring Your Own Cloud](https://cameyo.com/bring-your-own-cloud/)
 * [Cameyo Rapid Recovery](https://cameyo.com/cameyo-rapid-recovery/)
-* [NoVPN](https://cameyo.com/novpn/)
 * [Automated Trial Service](https://cameyo.com/automated-trial-service/)
 
 #### Solutions
 
-* [For Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-* [For VDI Replacement](https://cameyo.com/citrix-replacement/)
 * [For Chromebook](https://cameyo.com/chromeos-virtual-app-delivery/)
-* [For ISVs](https://cameyo.com/cameyo-for-isvs/)
 * [For MSPs](https://cameyo.com/cameyo-for-msps/)
-* [For GPUs](https://cameyo.com/cameyo-for-gpu/)
-* [For Education](https://cameyo.com/education/)
 
 #### Resources
 
@@ -239,7 +318,7 @@ We may update this Privacy Policy from time to time. Please consult the “Effec
     
     ▼](https://cameyo.com/solutions/)
     * [Hybrid/Remote Work](https://cameyo.com/cameyo-for-remote-work/)
-    * [VDI Replacement](https://cameyo.com/citrix-replacement/)
+    * [The Leading Citrix Alternative Solution](https://cameyo.com/citrix-replacement/)
     * [ChromeOS Virtual App Delivery](https://cameyo.com/chromeos-virtual-app-delivery/)
     * [ISVs](https://cameyo.com/cameyo-for-isvs/)
     * [MSPs](https://cameyo.com/cameyo-for-msps/)
