@@ -4,13 +4,13 @@ Flat Rate Shipping on Orders $125+ [details](#)
 
 Become a co-owner [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
-20% Off Flat Iron [save](https://porterroad.com/products/flat-iron)
+20% off chuck eye [go](https://porterroad.com/products/chuck-eye-steak)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
 Become a co-owner [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
-20% Off Flat Iron [save](https://porterroad.com/products/flat-iron)
+20% off chuck eye [go](https://porterroad.com/products/chuck-eye-steak)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
@@ -41,7 +41,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     -------](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Father's Day Gifts](https://porterroad.com/collections/fathers-day-gifts)
+* [Best Sellers](https://porterroad.com/pages/best-sellers-se)
 
 [![Porter Road logo](//porterroad.com/cdn/shop/t/145/assets/pr-logo.svg?v=109538801025733471761695148435)](https://porterroad.com/)
 
@@ -120,7 +120,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     #### Chicken](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Father's Day Gifts](https://porterroad.com/collections/fathers-day-gifts)
+* [Best Sellers](https://porterroad.com/pages/best-sellers-se)
 * [Our Story](https://porterroad.com/pages/about)
 * [Our Process](https://porterroad.com/pages/our-process)
 * [Invest](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=topnav&utm_campaign=launch)
