@@ -182,6 +182,12 @@ Hello, 你好!
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
+* [![舍脂多](/img/wallpaper/pw01947.jpg)
+    
+    ###### 舍脂多](https://www.pili.com.tw/img/wallpaper/pw01947.jpg)
+* [![無師自渡](/img/wallpaper/pw01946.jpg)
+    
+    ###### 無師自渡](https://www.pili.com.tw/img/wallpaper/pw01946.jpg)
 * [![鬪蛉子](/img/wallpaper/pw01945.jpg)
     
     ###### 鬪蛉子](https://www.pili.com.tw/img/wallpaper/pw01945.jpg)
@@ -206,12 +212,6 @@ Hello, 你好!
 * [![妲眸姬](/img/wallpaper/pw01938.jpg)
     
     ###### 妲眸姬](https://www.pili.com.tw/img/wallpaper/pw01938.jpg)
-* [![素還真](/img/wallpaper/pw01937.jpg)
-    
-    ###### 素還真](https://www.pili.com.tw/img/wallpaper/pw01937.jpg)
-* [![瑠璃](/img/wallpaper/pw01936.jpg)
-    
-    ###### 瑠璃](https://www.pili.com.tw/img/wallpaper/pw01936.jpg)
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
@@ -288,13 +288,13 @@ Hello, 你好!
 
 #### 精選專欄
 
-* [![台灣英雄》文創實踐者霹靂布袋戲 突破傳統技藝躍上國際](/img/feature/860x540/7.jpg)
+* [![霹靂品牌總監黃政嘉「玩轉新意」　一手包辦品牌日、金氏世界紀錄](/img/feature/860x540/8.jpg)
     
     專欄
     
-    2021.12.31
+    2024.06.13
     
-    ##### 台灣英雄》文創實踐者霹靂布袋戲 突破傳統技藝躍上國際](https://news.ltn.com.tw/news/life/breaki)
+    ##### 霹靂品牌總監黃政嘉「玩轉新意」　一手包辦品牌日、金氏世界紀錄](https://talkacemedia.com/article/4124)
 
 [探索全部](https://www.pili.com.tw/feature-browse.php)
 
