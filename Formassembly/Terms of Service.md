@@ -1,6 +1,6 @@
 **Dynamic Forms, Deeper Insights: The Key to Stronger Salesforce Experience Pages** | Webinar, Tues, June 25th @ 11 AM ET.
 
-[REGISTER](https://www.formassembly.com/webinar/higher-ed-better-forms/)
+[REGISTER](https://www.formassembly.com/webinar/salesforce-experience-forms-authentication/)
 
 [Skip to content](#primary)
 
@@ -40,7 +40,8 @@
         * [GDPR](https://www.formassembly.com/product/compliance/gdpr/)
         * [GLBA](https://www.formassembly.com/product/compliance/glba/)
         * [PCI DSS](https://www.formassembly.com/product/compliance/pci-dss/)
-        * [21 CFR Part 11](https://www.formassembly.com/product/compliance/21-cfr-11/)
+        * [21 CFR Part 11](https://www.formassembly.com/product/compliance/21-cfr-11-2/)
+        * [FERPA](https://www.formassembly.com/product/compliance/ferpa/)
 * [Resources](https://www.formassembly.com/resources/)
     * [Featured Content](https://www.formassembly.com/)
         * [![](https://www.formassembly.com/wp-content/uploads/2023/08/ebook-icon-blue-e1692969346540.png)Form Building Best Practice Guide](https://www.formassembly.com/resources/ebook/form-building-best-practices/?&utm_source=nav-bar&utm_medium=website&utm_campaign=forms&utm_content=ebk-029)
@@ -433,7 +434,7 @@ At least once per year, FormAssembly shall conduct an audit of the information t
     * [Support](https://www.formassembly.com/support/)
     * [Developers](https://www.formassembly.com/api/)
 * [COMPANY](https://www.formassembly.com/)
-    * [Our Team](https://www.formassembly.com/team/)
+    * [About Us](https://www.formassembly.com/about-us/)
     * [Our Culture](https://www.formassembly.com/culture/)
     * [Events](https://www.formassembly.com/events/)
     * [Partner](https://www.formassembly.com/partners/)
