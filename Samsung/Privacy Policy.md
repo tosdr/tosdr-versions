@@ -382,7 +382,7 @@ Copyright© 1995-2024 SAMSUNG All Rights Reserved.
 
 [![Get Shop Samsung App](https://image-us.samsung.com/SamsungUS/home/footer/app_qr_desktop.png)](https://shopsamsung.page.link/hJbyG5aVLAUMF2yt7)
 
-[![SMS Text messaging signup](https://image-us.samsung.com/SamsungUS/home/footer/SMS_signup.png)](https://samsung.attn.tv/p/Vbx/landing-page)
+[![SMS Text messaging signup](https://image-us.samsung.com/SamsungUS/home/footer/text-banner.svg)](https://samsung.attn.tv/p/Vbx/landing-page)
 
 [USA/ENGLISH](https://www.samsung.com/us/common/visitlocationsite.html)
 
