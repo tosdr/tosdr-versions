@@ -1,6 +1,6 @@
 [Skip to Main Content](#content)
 
-[![GoGuardian home link](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60e512dfc456960e0d670a4e_full-logo-2c.svg)](https://www.goguardian.com/)
+[![GoGuardian home link](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60e512dfc456960e0d670a4e_full-logo-2c.svg)](https://www.goguardian.com/)
 
 Solutions
 
@@ -10,16 +10,16 @@ Unify filtering, classroom management, and student safety solutions.](https://ww
 Encourage and measure student engagement.](https://www.goguardian.com/classroom-management)[**Instruction & Assessment**  
 Identify learning gaps and accelerate academic progress.](https://www.goguardian.com/instruction-assessment)[Get a quote
 
-![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60f75a7c1e2e85378ee05ff5_chevron.svg)](https://www.goguardian.com/pricing)
+![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7c1e2e85378ee05ff5_chevron.svg)](https://www.goguardian.com/pricing)
 
 Products
 --------
 
-[![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/6106c09d18905c0c53f4b380_verified_user.svg)
+[![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/6106c09d18905c0c53f4b380_verified_user.svg)
 
-Admin](https://www.goguardian.com/admin)[![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/6106c09cad449b050adcb575_class.svg)
+Admin](https://www.goguardian.com/admin)[![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/6106c09cad449b050adcb575_class.svg)
 
-Teacher](https://www.goguardian.com/teacher)[![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/6106c09c1ca6640a2600368b_wifi_tethering.svg)
+Teacher](https://www.goguardian.com/teacher)[![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/6106c09c1ca6640a2600368b_wifi_tethering.svg)
 
 Beacon](https://www.goguardian.com/beacon)
 
@@ -36,15 +36,15 @@ Company
 
 [Research & Insights](https://www.goguardian.com/research-and-insights)[Privacy & Trust](https://www.goguardian.com/privacy-information)[Events & Conferences](https://www.goguardian.com/events)[Newsroom](https://www.goguardian.com/newsroom)[GoGuardian Gives](https://www.goguardian.com/goguardian-gives)[Contact Us](https://www.goguardian.com/contact)
 
-[Careers](https://www.goguardian.com/careers)[![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)](https://www.goguardian.com/search)
+[Careers](https://www.goguardian.com/careers)[![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)](https://www.goguardian.com/search)
 
-![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)
+![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7def5962b8c2faada9_search.svg)
 
 Search
 
 [Sign in](https://account.goguardian.com/)[Request a trial](https://www.goguardian.com/start-free-trial)
 
-![](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60f75a7d462ade141dd537d7_menu.svg)
+![](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60f75a7d462ade141dd537d7_menu.svg)
 
 [Did you hear? We launched Pear Deck Learning, an expanded ecosystem of learning tools. Read the news. \>](https://www.goguardian.com/newsroom/goguardian-launches-pear-deck-learning-a-comprehensive-ecosystem-of-innovative-learning-tools)
 
@@ -770,17 +770,17 @@ Pear Deck Learning
 
 [California Notice](https://www.goguardian.com/policies/privacy#california-residents)
 
-![Privacy Options](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/63c1bdcf6cbb3f51313fd132_privacyoptions.png)
+![Privacy Options](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/63c1bdcf6cbb3f51313fd132_privacyoptions.png)
 
 [Your Privacy Rights](javascript:Optanon.ToggleInfoDisplay())
 
-* [![GoGuardian shield](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60e88b112ffc2253bf9f3205_goguardian-shield-2c.svg)
+* [![GoGuardian shield](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60e88b112ffc2253bf9f3205_goguardian-shield-2c.svg)
     
     link to GoGuardian homepage](https://www.goguardian.com/)
-* [![GoGuardian Facebook account](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60edee29e69ba074b30c1c93_facebook.svg)](https://www.facebook.com/goguardian/)
-* [![GoGuardian Instagram account](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60edecb46b8bea360a93c00e_instagram.svg)](https://www.instagram.com/goguardian/)
-* [![GoGuardian Twitter account](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60edec5977c9e6f949cf13cb_Logo%20black.svg)](https://twitter.com/goguardian)
-* [![GoGuardian YouTube account](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60edee0baa133b1c6c39421c_youtube.svg)](https://www.youtube.com/goguardian)
-* [![GoGuardian LinkedIn account](https://assets-global.website-files.com/60db82d1be38ad3341c2ff23/60edef41b1bbd51abf9cf731_linkedin.svg)](https://www.linkedin.com/company/goguardian)
+* [![GoGuardian Facebook account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edee29e69ba074b30c1c93_facebook.svg)](https://www.facebook.com/goguardian/)
+* [![GoGuardian Instagram account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edecb46b8bea360a93c00e_instagram.svg)](https://www.instagram.com/goguardian/)
+* [![GoGuardian Twitter account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edec5977c9e6f949cf13cb_Logo%20black.svg)](https://twitter.com/goguardian)
+* [![GoGuardian YouTube account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edee0baa133b1c6c39421c_youtube.svg)](https://www.youtube.com/goguardian)
+* [![GoGuardian LinkedIn account](https://cdn.prod.website-files.com/60db82d1be38ad3341c2ff23/60edef41b1bbd51abf9cf731_linkedin.svg)](https://www.linkedin.com/company/goguardian)
 
 © 2024 Liminex, Inc. doing business as GoGuardian. All rights reserved.
