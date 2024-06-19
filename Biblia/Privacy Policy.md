@@ -278,10 +278,8 @@ Support
 
 For Schools
 
+* [Logos for Education](http://www.logos.com/education)
+* [Academic Discount Application](https://www.logos.com/academic/apply)
 * [Academic Portal](https://academicportal.logos.com/)
-* [Academic Solutions](https://www.logos.com/academic-solutions)
-* [Academic Application](https://www.logos.com/academic/apply)
-* [Logos Academic Packages](https://www.logos.com/basepackages#academic)
-* [Shop Academic Discounts](https://www.logos.com/academic-discount-resources)
 
 Copyright 2024 [Faithlife](https://faithlife.com/?__hstc=18058406.2a20f68ab3f8956d873c1d07c38fe479.1591730259670.1598991510797.1598998518844.101&__hssc=18058406.1.1598998518844&__hsfp=3825083997) | [Privacy](https://www.faithlife.com/privacy?__hstc=18058406.2a20f68ab3f8956d873c1d07c38fe479.1591730259670.1598991510797.1598998518844.101&__hssc=18058406.1.1598998518844&__hsfp=3825083997)
