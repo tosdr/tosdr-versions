@@ -189,6 +189,14 @@ Main
                 Modern tools that elevate the learning experience, whether virtual, hybrid, or in-person.
                 
             * [TRY CANVAS FREE](https://www.instructure.com/try-canvas)
+            * [Vocational](https://www.instructure.com/vocational)
+                
+                Deliver hands-on vocational training, blending theory with practical simulations for excellence.
+                
+            * [Government](https://www.instructure.com/government)
+                
+                Enhance government training with tools for upskilling, cross-training, and performance improvement.
+                
         * Column
             * [Impact](https://www.instructure.com/professional-education/products/impact)
                 
@@ -424,6 +432,14 @@ Main
                 Modern tools that elevate the learning experience, whether virtual, hybrid, or in-person.
                 
             * [TRY CANVAS FREE](https://www.instructure.com/try-canvas)
+            * [Vocational](https://www.instructure.com/vocational)
+                
+                Deliver hands-on vocational training, blending theory with practical simulations for excellence.
+                
+            * [Government](https://www.instructure.com/government)
+                
+                Enhance government training with tools for upskilling, cross-training, and performance improvement.
+                
         * Column
             * [Impact](https://www.instructure.com/professional-education/products/impact)
                 
