@@ -207,51 +207,51 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://lagged.com/imgs/e2880c78-7490-401d-5aad-f69b590e0100/w=120) Animal Games385 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=120) Arcade Games1,521 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://lagged.com/imgs/b5ddfee2-6c03-47f2-49ce-f83f8f1ee800/w=120) Car Games375 games](https://lagged.com/en/car "Car Games")
-*  [![Football Games](https://lagged.com/imgs/4ff54b80-7d32-423e-724e-dbd26d2dfb00/w=120) Football Games59 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=120) Funny Games752 games](https://lagged.com/en/funny "Funny Games")
-*  [![Girl Games](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=120) Girl Games716 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=120) Puzzle Games2,155 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Animal Games](https://lagged.com/imgs/e2880c78-7490-401d-5aad-f69b590e0100/w=120) Animal Games388 games](https://lagged.com/en/animal "Animal Games")
+*  [![Arcade Games](https://lagged.com/imgs/b44e654b-8b42-4fd4-b769-846c96b67e00/w=120) Arcade Games1,539 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Car Games](https://lagged.com/imgs/c8d4aed1-5b95-4b8f-2a05-e0c91339ad00/w=120) Car Games376 games](https://lagged.com/en/car "Car Games")
+*  [![Football Games](https://lagged.com/imgs/080537e2-4596-4229-f32c-4cc1554fca00/w=120) Football Games59 games](https://lagged.com/en/football "Football Games")
+*  [![Funny Games](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=120) Funny Games753 games](https://lagged.com/en/funny "Funny Games")
+*  [![Girl Games](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=120) Girl Games724 games](https://lagged.com/en/girl "Girl Games")
+*  [![Puzzle Games](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=120) Puzzle Games2,175 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://lagged.com/imgs/2e295d6a-17aa-4196-419b-a1b9ebfcc200/w=120) Solitaire Games57 games](https://lagged.com/en/solitaire "Solitaire Games")
-*  [![Two Player Games](https://lagged.com/imgs/73094bf8-79a6-46c3-589e-f572917b9400/w=120) Two Player Games284 games](https://lagged.com/en/two-player "Two Player Games")
-*  [![Weird Games](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=120) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
+*  [![Two Player Games](https://lagged.com/imgs/fe68bdf1-f746-47df-a222-ff21e3f6ae00/w=120) Two Player Games291 games](https://lagged.com/en/two-player "Two Player Games")
+*  [![Weird Games](https://lagged.com/imgs/8a378486-b60b-473c-0876-d3199afcac00/w=120) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
 --------------------
-
-[Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=220)
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=220) top rated
 
 [Elastic Man](https://lagged.com/en/g/elastic-man) ![Elastic Man Game](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=220)
 
-[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
-
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://lagged.com/imgs/3d4b54bf-6073-461d-02ab-b39292ff0000/w=220)
+[Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=220)
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
 
-[BitLife Life Simulator](https://lagged.com/en/g/bitlife-life-simulator) ![BitLife Life Simulator Game](https://lagged.com/imgs/daad2c3e-d2e1-4043-be3b-4c3ea31c0b00/w=220) top rated
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://lagged.com/imgs/3d4b54bf-6073-461d-02ab-b39292ff0000/w=220)
 
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=220)
 
-[Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://lagged.com/imgs/32307ae5-8fb5-4e50-06eb-23c56b80c500/w=220)
-
-[Tiles Hop](https://lagged.com/en/g/tiles-hop) ![Tiles Hop Game](https://lagged.com/imgs/2c126e19-4a2f-4ae2-2a17-905864d99900/w=220)
-
 [Scary Neighbor Online](https://lagged.com/en/g/scary-neighbor-online) ![Scary Neighbor Online Game](https://lagged.com/imgs/33149da7-adb3-47dc-12a9-8e738f273f00/w=220)
 
-[Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://lagged.com/imgs/952e1bc9-a022-4c75-5113-b3d4897e2b00/w=220)
+[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
 
-[Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://lagged.com/imgs/c621b7a7-4b2f-40f6-4cec-498405934500/w=220)
+[BitLife Life Simulator](https://lagged.com/en/g/bitlife-life-simulator) ![BitLife Life Simulator Game](https://lagged.com/imgs/daad2c3e-d2e1-4043-be3b-4c3ea31c0b00/w=220) top rated
 
 [Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://lagged.com/imgs/35fb6dc0-c2ce-4fee-05dd-382520c97a00/w=220)
 
+[Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://lagged.com/imgs/952e1bc9-a022-4c75-5113-b3d4897e2b00/w=220)
+
 [Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://lagged.com/imgs/1bf0a6a4-8242-425f-c6e3-8a19cfcb9800/w=220)
+
+[Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://lagged.com/imgs/c621b7a7-4b2f-40f6-4cec-498405934500/w=220)
+
+[Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://lagged.com/imgs/b25d7227-5cde-4d32-0ead-486647ded900/w=220)
+
+[Tiles Hop](https://lagged.com/en/g/tiles-hop) ![Tiles Hop Game](https://lagged.com/imgs/2c126e19-4a2f-4ae2-2a17-905864d99900/w=220)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
@@ -261,4 +261,4 @@ Games you might like
 
 English Nightmode
 
-[English](https://lagged.com/privacy "English - Lagged.com") [Deutsche (German)](https://spiel2.com/privacy "Spiel2.com") [Português (Portuguese)](https://lagged.com.br/privacidade "Português - Lagged.com.br") [Español (Spanish)](https://lagged.es/intimidad "Lagged.es") [Türkçe (Turkish)](https://oyun.io/gizlilik "Oyun.io") [عربى (Arabic)](https://lagged.me/privacy "Lagged.me") [български (Bulgarian)](https://lagged.bg/privacy "Lagged.bg") [Ελληνικά (Greek)](https://lagged.gr/privacy "Lagged.gr") [Suomalainen (Finnish)](https://lagged.fi/privacy "Lagged.fi") [Français (French)](https://lagged.fr/privacy "Lagged.fr") [हिन्दी (Hindi)](https://lagged.in/privacy "Lagged.in") [Indonesia (Indonesian)](https://lagged.id/privacy "Lagged.id") [Italiano (Italian)](https://lagged.com/it/privacy "Lagged.com/it") [日本 (Japanese)](https://lagged.jp/privacy "Lagged.jp") [한국어 (Korean)](https://lagged.kr/privacy "Lagged.kr") [Nederlands (Dutch)](https://spellen2.com/privacy "Spellen2.com") [Polski (Polish)](https://lagged.pl/privacy "Lagged.pl") [Română (Romanian)](https://lagged.ro/privacy "Lagged.ro") [Pусский (Russian)](https://lagged.ru/privacy "Lagged.ru") [Svenska (Swedish)](https://lagged.se/privacy "Lagged.se") [ไทย (Thai)](https://lagged.com/th/privacy "Lagged.com/th") [Tiếng Việt (Vietnamese)](https://lagged.vn/privacy "Lagged.vn") [中国人 (Chinese)](https://lagged.cn/privacy "Lagged.cn")
+[English](https://lagged.com/ "Lagged.com") [Deutsch](https://lagged.com/de "Deutsch") [Español](https://lagged.com/es "Español") [Français](https://lagged.com/fr "Français") [Indonesia](https://lagged.com/id "Indonesia") [Italiano](https://lagged.com/it "Italiano") [Nederlands](https://lagged.com/nl "Nederlands") [Polski](https://lagged.com/pl "Polski") [Português](https://lagged.com/br "Português") [Română](https://lagged.com/ro "Română") [Suomi](https://lagged.com/fi "Suomi") [Svenska](https://lagged.com/se "Svenska") [Tiếng Việt](https://lagged.com/vn "Tiếng Việt") [Türkçe](https://lagged.com/tr "Türkçe") [Ελληνικά](https://lagged.com/gr "Ελληνικά") [български](https://lagged.com/bg "български") [Русский](https://lagged.com/ru "Русский") [عربي](https://lagged.com/ar "عربي") [हिंदी](https://lagged.com/hi "हिंदी") [แบบไทย](https://lagged.com/th "แบบไทย") [中文](https://lagged.com/cn "中文") [日本語](https://lagged.com/jp "日本語") [한국인](https://lagged.com/kr "한국인")
