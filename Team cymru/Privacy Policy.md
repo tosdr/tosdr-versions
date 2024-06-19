@@ -16,6 +16,9 @@ top of page
     * [Threat Intelligence Services](https://www.team-cymru.com/community-threat-intelligence)
     * [Network Services](https://www.team-cymru.com/community-network-services)
     * [News Blogs & Events](https://www.team-cymru.com/community-news-and-events)
+* Partners
+    
+    * [Technology Partners](https://www.team-cymru.com/splunk)
 * [Resources](https://www.team-cymru.com/resources)
     * [Dragon News Blog](https://www.team-cymru.com/blog)
     * [Glossary of Terms](https://www.team-cymru.com/glossary-of-terms)
@@ -383,7 +386,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_78,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_90,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
