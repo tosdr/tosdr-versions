@@ -115,7 +115,19 @@ triangle borderless
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
     
-* [Lorex Smart Home](https://www.lorex.com/collections/smart-home)
+* Lorex Smart Home arrow right
+    
+    arrow left Back
+    
+    * [Lorex Smart Home](https://www.lorex.com/collections/smart-home)
+    * [Smart Home Solutions](https://www.lorex.com/collections/smart-home)
+    * [Lorex App](https://www.lorex.com/pages/lorex-home-app)
+    * [Lorex Fusion](https://www.lorex.com/pages/fusion)
+    * [Fusion Wireless](https://www.lorex.com/pages/wireless-fusion)
+    * [Video Doorbells](https://www.lorex.com/collections/doorbells)
+    * [4K Wi-Fi HaLow](https://www.lorex.com/pages/halow)
+    * [Pet Cameras](https://www.lorex.com/pages/pet-monitor-solutions)
+    
 * [Lorex for Business](https://pro.lorex.com/)
 * Support arrow right
     
@@ -520,7 +532,22 @@ Your cart is empty
     
     [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
     
-* [Lorex Smart Home](https://www.lorex.com/collections/smart-home)
+* [Lorex Smart Home arrow bottom](https://www.lorex.com/collections/smart-home)
+    
+    [Smart Home Solutions](https://www.lorex.com/collections/smart-home)
+    
+    [Lorex App](https://www.lorex.com/pages/lorex-home-app)
+    
+    [Lorex Fusion](https://www.lorex.com/pages/fusion)
+    
+    [Fusion Wireless](https://www.lorex.com/pages/wireless-fusion)
+    
+    [Video Doorbells](https://www.lorex.com/collections/doorbells)
+    
+    [4K Wi-Fi HaLow](https://www.lorex.com/pages/halow)
+    
+    [Pet Cameras](https://www.lorex.com/pages/pet-monitor-solutions)
+    
 * Lorex for Business tail right
 * [Support arrow bottom](https://help.lorex.com/)
     * [Contact Us](https://www.lorex.com/pages/contact)
