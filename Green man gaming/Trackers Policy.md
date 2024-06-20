@@ -77,6 +77,8 @@ Toggle navigation
 
 Top Searches
 
+[Shadow of the Erdtree](https://www.greenmangaming.com/games/elden-ring-shadow-of-the-erdtree-pc/)
+
 [God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
 
 [Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
@@ -84,8 +86,6 @@ Top Searches
 [Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
 
 [SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
-
-[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xiv-dawntrail-digital-collectors-edition-eu-pc/)
 
 [Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
 
