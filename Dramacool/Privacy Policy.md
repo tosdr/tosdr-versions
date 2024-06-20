@@ -110,6 +110,8 @@ If you have any more questions regarding privacy matters while using our site, p
 * [Ongoing](#popular)
 * [Upcoming](#upcoming)
 
+* ### [The Whirlwind (2024)](https://dramacool.sh/the-whirlwind-2024/)
+    
 * ### [Hierarchy (2024)](https://dramacool.sh/hierarchy-2024/)
     
 * ### [Dreaming of a Freaking Fairytale (2024)](https://dramacool.sh/dreaming-of-a-freaking-fairytale-2024/)
@@ -187,8 +189,6 @@ If you have any more questions regarding privacy matters while using our site, p
 * ### [In Blossom (2024)](https://dramacool.sh/in-blossom-2024/)
     
 * ### [The Legend of Shen Li (2024)](https://dramacool.sh/the-legend-of-shen-li-2024/)
-    
-* ### [Queen of Tears (2024)](https://dramacool.sh/queen-of-tears-2024/)
     
 
 [View More](https://ww2.dramacool9.ac/tag/most-popular/ "View More Popular Dramas")
