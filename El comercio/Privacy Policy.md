@@ -31,1098 +31,1053 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Leonel Álvarez firmó dos años con Emelec y vislumbra un título
-==============================================================
+La metáfora del alacrán
+=======================
 
-Leonel Álvarez firmó un contrato con Emelec hasta el 2026. La Liga Pro y la Copa Ecuador son sus primeros desafíos,
--------------------------------------------------------------------------------------------------------------------
-
-![Leonel Álvarez ganó su último título en 2017 con Cerro Porteño en Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/06/alvarez_presentacion_emelec.jpg)
-
-El técnico **Leonel Álvarez** aseguró el martes 18 de junio de 2024, que llegó al Emelec en busca de buenos resultados como su principal desafío, tal como ha sido la característica en su carrera como entrenador.
-
-“Nuestra carrera ha sido corta, **pero con buenos resultados**, que serán los que buscaremos con Emelec, embarcándonos dentro de la presión en procura de ser campeones, convencidos que con un buen trabajo se lograrán los resultados”, precisó Leonel Álvarez en una rueda de prensa.
-
-### Más noticias:
-
-* [Barcelona Sporting Club se despide de Carlos Rodríguez](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-carlos-rodriguez.html "Barcelona Sporting Club se despide de Carlos Rodríguez")
-* [Lionel Messi revela curiosidades que emocionan antes de la Copa América](https://www.elcomercio.com/deportes/futbol/lionel-messi-copa-america-curiosidades.html "Lionel Messi revela curiosidades que emocionan antes de la Copa América")
-
-Álvarez resaltó que las negociaciones para vincularse a Emelec “**fueron muy rápidas**“, pues comenzaron el sábado 15, y ya este martes está por asumir “este lindo desafío”.
-
-El colombiano llegó al Emelec en reemplazo de su compatriota Hernán Torres, que dejó al equipo porque no logró los objetivos.
-
-“**Fue muy llamativa la posibilidad de estar acá**, cargada de mucha responsabilidad con una plantilla muy competitiva, a la que con trabajo vamos a reforzar en todo lo que nosotros queremos”, añadió.
-
-Leonel Álvarez promete un Emelec intenso
-----------------------------------------
-
-Con relación al estilo de juego que le agrada aplicar y que han sido una constante en los equipos que ha dirigido, el cafetero resaltó: “Me gustan equipos cortos, compactos, que generen buenas sensaciones y **que compitan con intensidad**, tanto para atacar como para defender”.
-
-Dijo que siempre pide a sus delanteros que **se conviertan en los primeros en defender** y que en eso tiene previsto trabajar con intensidad en Emelec, involucrando a los jóvenes, porque para ellos es importante tener ese tipo de competencia.
-
-“Buscaremos que Emelec compita como debe competir, **que genere esas sensaciones**, con jugadores con sentido de pertenencia, que quieran la gloria, ganar siempre, que ha sido mi característica con una carrera corta, pero consiguiendo importantes resultados”, insistió.
-
-Aseguró estar “convencido que con Emelec no será la excepción. Entregaremos con pasión hasta nuestro último esfuerzo, **para que este equipo pueda obtener resultados** que le permitan soñar en llegar a grandes logros, como ser campeones”, apostilló.
-
-“**Vengo a hacer un proceso de dos años**, con jugadores comprometidos, para llevarlos a la Selección como fruto del buen trabajo que realicen con el equipo, esa es nuestra misión, de ahí no nos bajaremos porque queremos que Emelec gane siempre”, remarcó el estratega colombiano.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C8XrWQyp-n1/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Club Sport Emelec (@csemelec)](https://www.instagram.com/reel/C8XrWQyp-n1/?utm_source=ig_embed&utm_campaign=loading)
-
-Álvarez como entrenador
------------------------
-
-Arrancó como asistente técnico **en 2007 en Deportivo Pereira**. En 2008 y 2009 trabajó con Santiago ‘Sachi’ Escobar. En 2010 y 2011 con Hernán Darío Gómez en la Selección de Colombia.
-
-Su primer equipo como entrenador principal fue el **Deportivo Independiente Medellín en 2009**. En su debut alcanzó el título del Torneo Finalización.
-
-Luego pasó por Águilas Doradas, Deportivo Cali y Deportivo Pereira en Colombia.
-
-En Paraguay fue contratado por **Cerro Porteño y Libertad**.
-
-En Perú pasó por el Cienciano del Cusco.
-
-En 2011 también tuvo un fugaz paso por la **Selección de Colombia**.
-
-Al Torneo Finalización de 2009, le sumó el Apertura de 2016 con el mismo DIM. Con el Deportivo Cali se llevó la Superliga de Colombia en 2014.
-
-En Paraguay ganó el [Torneo Clausura de 2017](https://es.wikipedia.org/wiki/Leonel_%C3%81lvarez) con Cerro Porteño.
-
-Cierre vehicular en vía a Napo
-==============================
-
-El Ministerio de Transporte y Obras Públicas informó que la decisión se toma por la seguridad de los conductores.
------------------------------------------------------------------------------------------------------------------
-
-![Foto archivo de la vía Papallacta-Baeza.](https://www.elcomercio.com/wp-content/uploads/2021/07/vialluvias.jpg)
-
-El **Ministerio de Transporte y Obras Públicas** informó sobre un cierre vehicular en una vía que va a **Napo**.
-
-El cierre se da para precautelar la **seguridad** de los conductores, este martes 18 de junio de 2024.
-
-### Más noticias:
-
-* [Un cantón en emergencia y activación del COE en ocho localidades por fuertes lluvias en Ecuador](https://www.elcomercio.com/actualidad/ecuador/un-canton-en-emergencia-y-activacion-del-coe-en-ocho-localidades-por-fuertes-lluvias-en-ecuador.html "Un cantón en emergencia y activación del COE en ocho localidades por fuertes lluvias en Ecuador")
-* [Gobierno declara en estado de emergencia a la red vial Baños-Puyo](https://www.elcomercio.com/actualidad/ecuador/estado-de-emergencia-banos-puyo-gobierno-daniel-noboa.html "Gobierno declara en estado de emergencia a la red vial Baños-Puyo")
-
-Esto, debido al incremento del caudal en la quebrada Maspa-Napo, a causa de las fuertes lluvias de los últimos días.
-
-Se trata de la vía E20 “Y” de Baeza – Papallacta.
-
-Vías habilitadas para acceder a la Amazonía
--------------------------------------------
-
-Por la tarde, el Ministerio informó que, por el trabajo conjunto entre el gobierno central y los gobiernos locales de la Amazonía, se encuentran habilitadas varias vías de acceso a esa región:
-
-• Napo, la vía Pifo – Baeza – Tena.  
-• Sucumbíos, Pifo – Baeza – Lago Agrio.  
-• Orellana, por la ruta Pifo – Baeza – Narupa – Coca.  
-• Pastaza, Pifo – Baeza – Tena – Puyo.  
-• Morona Santiago, Pifo – Baeza – Tena – Puyo – «Y «de Sevilla Don Bosco – Seipa – Sucúa.  
-• Zamora Chinchipe, utilizar la ruta Pifo – Baeza – Tena – Puyo – «Y «de Sevilla Don Bosco – Seipa – Sucúa – Macas-Gualaquiza – El Pangui – Yantzaza – Zamora, o la Cuenca – Sigshi – Chiguinda – Bomboiza – El Pangui – Yantzaza – Zamora.
-
-El Gobierno informó que existen daños en **vías, puentes y viviendas** en **13 provincias** del país.
-
-Además de **pérdidas humanas**: fallecidos, heridos, desaparecidos y más de mil afectados por las fuertes lluvias.
-
-Un cantón fue declarado en emergencia, Penipe, en Chimborazo; aunque la Asociación de Municipalidades de Ecuador pidió declarar 29 cantones en emergencia.
-
-El gobierno adelantó los pagos pendientes a los municipios de **Baños y Penipe** por la emergencia ocasionada por las fuertes lluvias.
-
-Defensa de Jorge Glas se pronuncia tras publicación de The New Yorker
-=====================================================================
-
-Daniel Noboa habría calificado como "una figura muy oscura" al exvicepresidente Jorge Glas, en el reportaje de The New Yorker.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Jorge Glas fue trasladado a la prisión La Roca, en Guayaquil. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/04/jorge-glas-detenido.jpeg)
-
-La defensa del exvicepresidente Jorge Glas se pronunció tras la publicación del reportaje de The New Yorker, en el que el presidente Daniel Noboa se refiere a varios temas.
-
-En el reportaje The New Yorker, [Jon Lee Anderson](https://www.elcomercio.com/actualidad/politica/quien-es-jon-lee-anderson-periodista-the-new-yorker.html "¿Quién es Jon Lee Anderson?, periodista de The New Yorker que dialogó con Daniel Noboa") señala que Daniel Noboa se refirió a Jorge Glas como “una figura muy oscura”.
-
-### Más noticias:
-
-* [Daniel Noboa habló de un supuesto intento de asesinato en su contra, según The New Yorker](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-supuesto-intento-asesinato-su-contra.html "Daniel Noboa habló de un supuesto intento de asesinato en su contra, según The New Yorker")
-* [¿Criterios de Daniel Noboa sobre Bukele, Milei y Boric fueron descontextualizados por The New Yorker?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html "¿Criterios de Daniel Noboa sobre Bukele, Milei y Boric fueron descontextualizados por The New Yorker?")
-
-El reportaje señala que Daniel Noboa resolvió ingresar a la Embajada de México en Quito para capturar al expresidente Jorge Glas, porque si lograba “escaparse” habría perdido la consulta popular del 21 de abril pasado.
-
-La incursión policial a la Embajada de México en Quito se realizó en abril de 2024 y ahora Jorge Glas está detenido en La Roca, cárcel de máxima seguridad, ubicada en Guayas.
-
-Defensa de Jorge Glas habla de secuestro, tras publicación de The New Yorker
-----------------------------------------------------------------------------
-
-La abogada **Sonia Vera**, defensora internacional del exvicepresidente Jorge Glas, se refirió al reportaje de The New Yorker, en su cuenta de X.
-
-“El secuestro es la privación de la libertad que es realizada fuera de los cauces legales y con el objetivo de obtener un beneficio, coaccionar o someter a la víctima a una situación de poder”, señaló.
-
-Y agregó: “Si se priva de libertad sin seguir los procedimientos legales, se configura un secuestro”.
-
-Daniel Noboa no se ha pronunciado sobre la publicación de The New Yorker
-------------------------------------------------------------------------
-
-El presidente **Daniel Noboa** no se ha pronunciado sobre el reportaje de The New Yorker, publicado el lunes 17 de junio de 2024.
-
-La secretaria de Comunicación de la Presidencia, Irina Vélez, dijo que la publicación de The New Yorker se hizo el marco de una “**conversación coloquial**” y que habrían sido “**sacadas de contexto**“.
-
-La Selección de Ecuador y sus debuts en la Copa América en el siglo XXI
-=======================================================================
-
-La Selección de Ecuador integra el grupo B de la Copa América 2024 junto a Venezuela, Jamaica y México.
--------------------------------------------------------------------------------------------------------
-
-![John Yeboah celebra un gol marcado con la Selección de Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/ecuador_debut_copa_america.jpg)
-
-La **Selección de Ecuador** está cada vez más cerca de iniciar su participación el el grupo B de la Copa América Estados Unidos 2024. Saltará a la cancha el sábado 22 de junio para medirse a Venezuela en Santa Clara, California.
-
-Luego de enfrentar a la ‘Vinotinto’, la **Selección de Ecuador irá el 26 a Las Vegas** para enfrentarse a Jamaica en la segunda jornada de la Copa América. Finalmente, el 30 se verá con México en Glendale, Arizona.
-
-### Más noticias:
-
-* [Sarmiento y Yeboah jugarán la Copa América, pero antes representaron a otras selecciones](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sarmiento-yeboah-copa-america.html "Sarmiento y Yeboah jugarán la Copa América, pero antes representaron a otras selecciones")
-* [¿Cuándo juega Barcelona Sporting Club?](https://www.elcomercio.com/deportes/futbol/cuando-juega-barcelona-sporting-club.html "¿Cuándo juega Barcelona Sporting Club?")
-
-Para Ecuador la **Copa América** es un torneo lleno de malos resultados, goleadas en contra, frustraciones y eliminaciones tempranas.
-
-En sus 29 participaciones previas, solo en dos, cuando fue anfitriona, llegó a las semifinales y terminó cuarto.
-
-En el siglo XXI la Tri **jugó ocho veces la Copa América**. En seis fue eliminada en la fase de grupos y solo ganó tres partidos de 27 que disputó.
-
-En sus ocho debuts no ganó un solo partido. Perdió seis y empató dos.
-
-La Selección de Ecuador en Colombia 2001
-----------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/06/ecuador_debut_3-1024x683.jpg)
-
-Foto: Archivo Histórico EL COMERCIO.
-
-En la **Copa América 2001** la expectativa era grande. El equipo dirigido por Hernán Darío Gómez destacaba en las eliminatorias al Mundial Corea-Japón y su estado de forma era más que prometedor.
-
-Con ese antecedente 11 de julio debutó contra Chile en el estadio Metropolitano de Barranquilla y **perdió por 1-4**. Cléber Chalá fue el autor del transitorio empate 1-1.
-
-Los chilenos marcaron por intermedio de Reinaldo Navia, Cristian Montesinos (2) y Marcelo Corrales.
-
-En el grupo pasaron a cuartos de final Colombia y Chile. Ecuador y Venezuela regresaron a casa.
-
-Perú 2004
----------
-
-La historia era parecida a la de 2001. La Tri se encaminaba en las **eliminatorias a Alemania 2006** con el ‘Bolillo’ Gómez como su entrenador.
-
-El 7 de julio en el estadio Elías Aguirre de Chiclayo recibió una **goleada de 1-6 contra  Argentina**.
-
-Cristian González, Javier Pedro Saviola (2), Andrés D’Alessandro y Luis González anotaron para la ‘Albiceleste’. Agustín Delgado descontó.
-
-De ese encuentro se desprende la famosa frase ‘**es un resultados saca técnico**‘, dicha por Gómez, algo que finalmente ocurrió con su salida.
-
-México, Argentina y Uruguay clasificaron a la siguiente fase. Ecuador no.
-
-Venezuela 2007
---------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/06/ecuador_debut_2-1024x683.jpg)
-
-Foto: Archivo Histórico EL COMERCIO.
-
-El 27 de junio Ecuador fue **derrotado 2-3 por Chile** en el estadio Cachamay de Ciudad Guayana.
-
-Humberto Suazo (2) y Carlos Villanueva registraron su nombre en el marcador por los ganadores, mientras que Christian Benítez y Antonio Valencia por los perdedores.
-
-México, Brasil y Chile se clasificaron para los cuartos de final. Ecuador, como era costumbre, no.
-
-Argentina 2011
---------------
-
-En Argentina 2011 Ecuador no perdió en su partido de debut, pero al menos sumó un punto.
-
-El 3 de julio **empató 0-0 contra Paraguay** en el estadio Brigadier Estanislao López de Santa Fe.
-
-Brasil, Venezuela y Paraguay lograron los puntos necesarios para seguir en competencia. Ecuador hizo sus maletas y se despidió.
-
-Chile 2015
-----------
-
-Otra vez Chile era la **Selección con la que Ecuador** debutaba en la Copa América.
-
-El 11 de junio en un repleto estadio Nacional de Santiago, **la Tri cayó 2-0 contra los locales** con goles de Arturo Vidal y Eduardo Vargas.
-
-Chile y Bolivia sellaron sus boletos de clasificación a la otra etapa. Ecuador y México no lo lograron.
-
-Estados Unidos 2016
--------------------
-
-El 4 de junio la Selección de Ecuador sumó un nuevo empate en su debut en Copa América.
-
-En el estadio Rose Bowl de Pasadena, **empató 0-0 con Brasil**, con un polémico gol anulado a Miller Bolaños.
-
-Sorpresivamente, la **Selección avanzó a los cuartos de final** junto a Perú. Brasil y Haití  quedaron eliminados.
-
-Brasil 2019
------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/06/ecuador_debut_1-1024x683.jpg)
-
-Foto: Archivo Histórico EL COMERCIO.
-
-Uruguay le propinó una g**oleada de 4-0 a Ecuador** en el estadio Mineirao de Belo Horizonte.
-
-Ese 16 de junio anotaron Nicolás Lodeiro, **Edinson Cavani, Luis Suárez** y Arturo Mina en contra.
-
-Uruguay y Chile continuaron en competencia. Ecuador y Japón se despidieron sin pena ni gloria.
-
-Al final del torneo, **Hernán Darío Gómez**, fue cesado como DT en su segundo ciclo.
-
-Brasil 2021
------------
-
-El último debut de [Ecuador en la Copa América](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador) se volvió a saldar con una derrota.
-
-El 13 de junio **Colombia le ganó 1-0** con un tanto de Edwin Cardona en el estadio Arena Pantanal.
-
-En esta ocasión **la Tri avanzó a los cuartos de final**. Ahí perdió por 3-0 ante Argentina.
-
-Diana Salazar pidió la reducción de la pena al 10% para Xavier Muñoz, exvocal del CJ
-====================================================================================
-
-Diana Salazar pidió declarar audiencia reservada por la cooperación eficaz de Xavier Muñoz y el juez Julio Inga suspendió la audiencia inicial.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Xavier Muñoz, exvocal del Consejo de la Judicatura, procesado en el caso Independencia Judicial.](https://www.elcomercio.com/wp-content/uploads/2024/06/FOTOS-WEB-11.jpg)
-
-**Diana Salazar**, fiscal general del Estado, pidió la reducción de la pena al 10% para **Xavier Muñoz**, exvocal del **Consejo de la Judicatura (CJ)**, procesado en el **caso Independencia Judicial**.
-
-El pedido lo hizo la tarde de este martes 18 de junio de 2024, ante el juez de la Corte Nacional de Justicia, Julio Inga, en la audiencia de procedimiento abreviado, solicitado por el procesado, Xavier Muñoz.
-
-### Más noticias:
-
-* [Wilman Terán acudió a la Asamblea como parte del proceso de juicio político e hizo acusaciones](https://www.elcomercio.com/actualidad/wilman-teran-asamblea-nacional-juicio-politico.html "Wilman Terán acudió a la Asamblea como parte del proceso de juicio político e hizo acusaciones")
-* [Estos son los casos más relevantes que investiga la fiscal Diana Salazar](https://www.elcomercio.com/actualidad/politica/los-casos-mas-relevantes-que-investiga-la-fiscal-diana-salazar.html "Estos son los casos más relevantes que investiga la fiscal Diana Salazar")
-
-Xavier Muñoz, exvocal del CJ, es investigado por la **Fiscalía General del Estado (FGE)** por presunta **obstrucción de la justicia**, mientras cumplía sus funciones, al frente del Consejo de la Judicatura.
-
-Las razones de Diana Salazar para pedir la reducción de la pena
----------------------------------------------------------------
-
-Diana Salazar, fiscal general del Estado, pidió al juez de la Corte Nacional de Justicia (CNJ), Julio Inga, que se acepte la solicitud del procedimiento abreviado.
-
-Al inicio de su intervención, **Diana Salazar, sugirió la pena, por parte de la FGE, de 92 meses**, es decir, 7 años y 8 meses de privación de la libertad.
-
-Además, el pago de 24 salarios básico unificado, 11 040 dólares.
-
-Pese a ello, tras presentar los 86 elementos de convicción para que se acepte el procedimiento abreviado, al final de su intervención, **Diana Salazar pidió la reducción de la pena al 10%.**
-
-Los argumentos fueron la cooperación eficaz realizada por Xavier Muñoz.
-
-En abril de 2024, Xavier Muñoz fue uno de dos procesados en este caso que dio testimonio anticipado ante la Corte Nacional de Justicia.
-
-En el **Código Orgánico Integral Penal (Coip)**, el delito de obstrucción de la justicia tiene una pena de entre 5 a 7 años que, con agravantes, puede llegar hasta los 10 años.
-
-El Consejo de la Judicatura no estuvo de acuerdo y la CNJ suspendió la audiencia
---------------------------------------------------------------------------------
-
-El representante del Consejo de la Judicatura, presente en la audiencia, se opuso a la propuesta de la FGE sobre el procedimiento abreviado y a la reducción de la pena al 10%.
-
-Diana Salazar pidió que se instale audiencia reserva.
-
-El juez Julio Inga aceptó la petición de la FGE, por la cooperación eficaz que ha realizado el procesado Xavier Muñoz.
-
-Julio Inga suspendió a la audiencia de procedimiento abreviado y se reinstalará el jueves 20 de junio a las 12:00.
-
-La historia del caso Independencia Judicial
--------------------------------------------
-
-La FGE inició esta investigación en 2022, por el presunto cometimiento del delito de tráfico de influencias contra los exvocales del Consejo de la Judicatura, Juan José M. y Maribel B.; por la que, posteriormente, se solicitó fecha para la formulación de cargos ante la Corte Nacional de Justicia.
-
-Luego del sorteo correspondiente, la competencia para tramitar dicha causa recayó en el juez Walter Macías Fernández, quien señaló la audiencia para el 4 de mayo de 2023, pero no se instaló, debido a que un día antes (3 de mayo), Maribel B. presentó una demanda de recusación en su contra.
-
-Sin embargo, el 11 de mayo de 2023, los integrantes del pleno del Consejo de la Judicatura suspendieron de sus funciones al mencionado Juez, amparados en los informes técnicos y memorandos emitidos por sus subalternos, a pesar de que –horas antes– la demanda de recusación fue rechazada.
-
-El 8 de marzo de 2023 se presentó una denuncia administrativa en contra del juez Walter Macías, en el marco del denominado caso “Las Torres”.
-
-Esto, por una supuesta infracción, al no haber informado al Presidente de la Corte Nacional la demanda de recusación en contra del juez Adrián Rojas (juez del Tribunal de dicha causa).
-
-Además, de la emisión de la sentencia oral, cuando se encontraba suspendida la competencia de este último, sin que la sentencia del juicio de recusación se encuentre ejecutoriada.
-
-El Consejo de la Judicatura calificó a esta denuncia administrativa como “infracción gravísima” y destituyó al juez Macías.
-
-Esa decisión fue tomada con dos votos favorables de los cinco posibles –correspondientes a los vocales (5) que conforman el Pleno– en una sesión marcada por irregularidades.
-
-Julian Lennon felicita a Paul McCartney por su cumpleaños: “Feliz cumple, tío Paul”
-===================================================================================
-
-Un emotivo mensaje que refleja la estrecha relación entre ambos músicos y el legado de The Beatles.
----------------------------------------------------------------------------------------------------
-
-![Julian Lennon envió un saludo de cumpleaños a su 'tío' Paul.](https://www.elcomercio.com/wp-content/uploads/2024/06/Julian-Lennon.jpg)
-
-**Paul McCartney**, el legendario músico británico y exmiembro de **The Beatles**, celebró su 82 cumpleaños este 18 de junio de 2024. Entre los numerosos mensajes de felicitación que recibió, uno de los más emotivos fue el de [Julian Lennon, hijo de John Lennon y Cynthia Powell.](https://es.wikipedia.org/wiki/Julian_Lennon)
-
-**Un mensaje desde el corazón**
--------------------------------
-
-“¡Feliz cumple, tío Paul! **Solo amor… Jude**“, escribió Lennon en su cuenta de Instagram junto a una foto de ambos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C8VaDU6saRu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Julian Lennon (@julespicturepalace)](https://www.instagram.com/reel/C8VaDU6saRu/?utm_source=ig_embed&utm_campaign=loading)
-
-Este simple mensaje, cargado de cariño y respeto, refleja la estrecha relación que existe entre ambos músicos. A pesar de la trágica muerte de John Lennon en 1980, McCartney siempre ha estado presente en la vida de Julian, brindándole apoyo y guía.
-
-### Más noticias:
-
-* [Las 10 leyendas más longevas de la música](https://www.elcomercio.com/tendencias/entretenimiento/leyendas-musica-longevas-iconos-rock-folk.html "Las 10 leyendas más longevas de la música")
-* [¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?](https://www.elcomercio.com/tendencias/feid-copa-america.html "¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?")
-
-**Un vínculo que trasciende la música**
----------------------------------------
-
-La relación entre Julian Lennon y Paul McCartney va más allá de la música. Ambos comparten una historia personal marcada por la fama, la pérdida y la búsqueda de su propio camino.
-
-McCartney ha sido una figura paterna para Julian, brindándole consejos y apoyo durante momentos difíciles. A su vez, Julian ha encontrado en McCartney un amigo y mentor, alguien con quien compartir su pasión por la música y su visión del mundo.
-
-**Más que un cumpleaños**
--------------------------
-
-El cumpleaños de Paul McCartney no solo es una celebración de su vida y obra, sino también un recordatorio del legado de The Beatles y el impacto que tuvieron en la música y la cultura popular.
-
-Julian Lennon, al igual que millones de fans en todo el mundo, celebra la música de McCartney y su contribución a la historia de la música.
-
-**Un mensaje de unidad y amor**
--------------------------------
-
-En un mundo que a menudo se ve dividido por la discordia y la polarización, el mensaje de Julian Lennon a Paul McCartney es un recordatorio de la importancia del amor, la familia y la unidad.
-
-Ambos músicos han demostrado a través de su música y su vida personal que es posible superar las adversidades y construir relaciones duraderas basadas en el respeto y el cariño.
-
-**El legado continúa**
-----------------------
-
-Julian Lennon y Paul McCartney son dos figuras importantes en la historia de la música. Su talento, su creatividad y su pasión por la música han inspirado a generaciones de músicos y fans por todo el mundo.
-
-El mensaje de Julian Lennon en el cumpleaños de Paul McCartney es un recordatorio de que la música tiene el poder de unir a las personas y crear un mundo mejor.
-
-Estas son las compensaciones que recibirán los transportistas por el incremento de las gasolinas
-================================================================================================
-
-Los transportistas de Ecuador recibirán compensaciones económicas mensuales debido al incremento del precio de las gasolinas extra y ecopaís, que implementará el gobierno.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El ministro Rober Luque (2do der.) y otros funcionarios de Estado informaron sobre los acuerdos alcanzados con los transportistas sobre las compensaciones por incremento del precio de las gasolinas extra y ecopaís. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/06/Roberto-Luque-2.jpg)
-
-Este martes 18 de junio de 2024 se conoció el acuerdo al que llegó el gobierno del presidente **Daniel Noboa** con los transportistas. Los dueños de taxis, tricimotos y camionetas reguladas acordaron el monto de las **compensaciones económicas** que recibirán mensualmente, tras el incremento del precio de las gasolinas extra y ecopaís.
-
-### Más noticias
-
-* [Las gasolinas extra y ecopaís subirán de precio en Ecuador desde fines de junio](https://www.elcomercio.com/actualidad/negocios/las-gasolinas-extra-y-ecopais-suben-de-precio-en-ecuador-desde-fines-de-junio.html "Las gasolinas extra y ecopaís subirán de precio en Ecuador desde fines de junio")
-* [¿Quiénes reciben más subsidios a las gasolinas en Ecuador?](https://www.elcomercio.com/actualidad/negocios/quienes-reciben-mas-subsidios-a-las-gasolinas-en-ecuador.html "¿Quiénes reciben más subsidios a las gasolinas en Ecuador? ")
-* [Este es el peso de los subsidios en las finanzas públicas ecuatorianas](https://www.elcomercio.com/actualidad/negocios/peso-subsidios-finanzas-publicas-ecuatorianas.html "Este es el peso de los subsidios en las finanzas públicas ecuatorianas")
-
-Está previsto que el galón de las gasolinas extra y ecopaís pase de 2,46 a 2,72 dólares en los próximos días. Esto representará un ahorro para el Estado de cerca de 330 millones de dólares, entre julio y diciembre de este año.
-
-Compensaciones para transportistas por incremento de precios de gasolinas
--------------------------------------------------------------------------
-
-El ministro de Transporte y Obras Públicas, **Roberto Luque**, señaló que después de un análisis técnico realizado por la Agencia Nacional de Tránsito (ANT), la Agencia de Regulación y Control, y el Servicio de Rentas Internas (SRI) se determinó que los taxistas reciban una compensación económica por 156 galones de gasolina, las tricimotos por 90 galones y las camionetas de transporte mixto por 145 galones.
-
-**Esto en dólares es:**
-
-* Taxistas: 40,56 dólares cada mes.
-* Tricimotos: 23,40 cada mes.
-* Camionetas de transporte mixto: 37,7 dólares mensuales.
-
-Según Luque, los beneficiarios serán 84 000 transportistas en todo el país. El gasto por estas compensaciones será aproximadamente 35 millones de dólares en los siete meses que restan al 2024.
-
-Por su parte**, Jorge Calderón**, presidente de la Federación de Taxis del Ecuador, confirmó que el gremio llegó al acuerdo con el gobierno y que el monto de compensación será igual para todos los conductores de estas modalidades de transporte en cualquier cantón del país.
-
-Las **compensaciones serán depositadas directamente** a las cuentas bancarias de cada uno de los beneficiarios. Las transferencias se harán antes del inicio de cada mes, por ello solicitaron que los dueños de estas modalidades de transporte que se registren en la página web del [Ministerio de Transporte y Obras Públicas (MTOP)](https://registro.mtop.gob.ec/#/login "https://registro.mtop.gob.ec/#/login"), para recibir la compensación. El primer corte será el 24 de junio.
-
-El proceso de registro se inició el 9 de junio y hasta la fecha, 3 500 conductores han completado el formulario. Quienes no se registren hasta el próximo lunes 24 de junio tendrán cuatro meses para llenar la solicitud y ser beneficiario de las compensaciones.
-
-El pago de las compensaciones será retroactivo desde que se incremente el precio de las gasolinas extra y ecopaís.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C8DxwDMInun/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C8DxwDMInun/?utm_source=ig_embed&utm_campaign=loading)
-
-Detectan una nueva señal del vuelo de Malaysia Airlines MH370, una universidad así lo afirma
-============================================================================================
-
-El vuelo MH370 desapareció de los radares civiles poco después de despegar de Kuala Lumpur rumbo a Pekín en el 2014. Según la ‘Universidad de Cardiff’, la señal fue captada por hidrófonos (micrófonos de agua) en el momento en que se presume que el MH370 se estrelló el 8 de marzo de 2014. Esta señal \[…\]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/06/Malasia.jpg)
-
-El vuelo MH370 desapareció de los **radares civiles** poco después de despegar de Kuala Lumpur rumbo a Pekín en el 2014[.](https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370 "https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370")
-
-Según la **‘Universidad de Cardiff’, la señal fue captada por hidrófonos** (micrófonos de agua) en el momento en que se presume que el MH370 se estrelló el 8 de marzo de **2014**. Esta señal es bastante corta, pues tiene una duración de solo **seis segundos**.
-
-### Más noticias
-
-* [Estas son las aerolíneas que han salido de Ecuador los últimos meses](https://www.elcomercio.com/actualidad/negocios/estas-son-las-aerolineas-que-han-salido-de-ecuador-los-ultimos-meses.html "Estas son las aerolíneas que han salido de Ecuador los últimos meses ")
-* [Ucrania pide justicia para las víctimas del avión MH17 de Malaysia Airlines](https://www.elcomercio.com/actualidad/mundo/ucrania-justicia-victimas-avion-mh17.html "https://www.elcomercio.com/actualidad/mundo/ucrania-justicia-victimas-avion-mh17.html")
-
-Malaysia Airlines MH370, el misterio
-------------------------------------
-
-Sin embargo, se necesitarán más pruebas para determinar la localización exacta del lugar del accidente. El 8 de marzo de 2014, el vuelo MH370 despegó de **Kuala Lumpur** con 239 personas a bordo con destino a Pekín, pero aproximadamente 40 minutos después desapareció de los radares civiles de Malasia.
-
-Desde entonces, las búsquedas exhaustivas no han tenido éxito en encontrar los **restos del avión**.
-
-Ahora bien, los investigadores han analizado más de 100 horas de datos de **hidrófonos obtenidos tras diez accidentes aéreos históricos** y la desaparición de un submarino, esto ofrece nuevas perspectivas sobre la búsqueda del vuelo MH370 de Malaysia Airlines.
-
-Los hidrófonos son la clave
----------------------------
-
-Según el portal de la Universidad, El Dr. Usama Kadri, profesor de la Facultad de Matemáticas de la Universidad de Cardiff, explicó: “Nuestro análisis muestra que los **hidrófonos** detectaron señales claras de presión de accidentes aéreos anteriores, incluso a distancias superiores a 3 000 km”. 
-
-Por esta razón, sugirió que las autoridades realicen experimentos de campo con **explosiones controladas** o armas de aire a lo largo del séptimo arco, monitoreando las señales recibidas en estaciones hidroacústicas circundantes.
-
-El Dr. Kadri sugirió que las autoridades realicen **experimentos monitoreando** las señales recibidas en estaciones hidroacústicas circundantes para saber qué pasó con el vuelo MH370 que despegó de Kuala Lumpur.
-
-Liga de Quito aún tiene cuentas pendientes con Antonio Valencia
-===============================================================
-
-Liga de Quito y su dirigencia aún no cierra la contratación de un entrenador para reemplazar a Josep Alcácer.
--------------------------------------------------------------------------------------------------------------
-
-![Antonio Valencia en el 2019 en su presentación como jugador de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/06/liga_quito_valencia.jpg)
-
-**Liga de Quito** vive momentos de transición dirigencial que han afectado su rendimiento en el plano futbolístico. El primer semestre dejó resultados que no llenaron las expectativas de sus exigentes hinchas.
-
-Otro de los aspectos que preocupa al mundo de **Liga de Quito** es el económico, puesto que el club no pasa precisamente por el mejor momento, dicho por el propio Isaac Álvarez, presidente de la institución.
-
-### Más noticias:
-
-* [Portugal y Cristiano Ronaldo ganan al último minuto en Eurocopa](https://www.elcomercio.com/deportes/portugal-cristiano-ronaldo-eurocopa-vivo-partido-chequia.html "Portugal y Cristiano Ronaldo ganan al último minuto en Eurocopa")
-* [Sarmiento y Yeboah jugarán la Copa América, pero antes representaron a otras selecciones](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-sarmiento-yeboah-copa-america.html "Sarmiento y Yeboah jugarán la Copa América, pero antes representaron a otras selecciones")
-
-Esos números en rojo han hecho que Liga aún siga sin contratar un entrenador para el segundo semestre de 2024, puesto que, por ejemplo, **Miguel Ramírez**, exentrenador de Independiente del Valle, sobrepasó el presupuesto.
-
-“La situación para el equipo no es sencilla, **ni en el aspecto económico**, ni en el deportivo”, declaró Álvarez en La Red el martes 18 de junio de 2024.
-
-En esa misma línea, Álvarez reveló que el club **tiene una deuda de 30 millones de dólares**, heredada de la gestión de Esteban Paz como presidente de la Comisión Especial de Fútbol de LDU, que dejó el cargo en enero.
-
-El cuadro universitario tendrá que solventar hasta finales de julio deudas con el Servicio de Rentas Internas (SRI) y el **Instituto Ecuatoriano de Seguridad Social** (IESS).
-
-El valor a pagar al SRI es de cinco millones de dólares.
-
-Liga de Quito le debe a Antonio Valencia
-----------------------------------------
-
-Isaac Álvarez reveló que aún hay valores pendientes por cubrir con Antonio Valencia, el histórico jugador ecuatoriano que en junio de 2019 dejó el **Manchester United** para unirse a la disciplina de Liga de Quito.
-
-“**Estamos por cerrar un convenio de pago con él**“, dijo el presidente de los albos.
-
-“La hinchada me trató muy bien en el año que estuve. Salí de Liga por muchos temas que no me gustaron de la directiva y **cómo se maneja la parte administrativa**. Entonces decidí  mejor salirme tranquilamente”, comentó Valencia el 14 de junio a Área Deportiva.
-
-Con LDU el ‘Toño’ jugó 28 partidos, anotó un gol y entregó dos asistencias. Ganó la Copa  Ecuador 2019 y la Supercopa Ecuador 2020.
-
-Tras su salida a mediados de 2020, en el 2021 fue **contratado por el Querétaro de México**. Ahí finalizó su exitosa carrera que incluyó una década en el Manchester United, donde llegó a ser capitán y considerado uno de los mejores extranjeros de todos los tiempos.
-
-Liga arreglará con cuatro jugadores más
----------------------------------------
-
-Pero no solo Valencia es el jugador con el que se mantienen deudas.
-
-Hernán Pellerano, **Matías Zunino, Ángel González** y Billy Arce se suman a la lista con los que tendrán que llegar a acuerdos de pago para evitar algún tipo de demanda en los meses venideros.
-
-En lo deportivo, **Liga de Quito** tiene por delante los play-off de los octavos de final de la Copa Sudamericana ante Always Ready de Bolivia.
-
-En las próximas semanas se conocerá su rival en la **Copa Ecuador** y la fecha de la reanudación de la Liga Pro en su segunda fase.
-
-No te pierdas – El Confesionario con Antonio Valencia
------------------------------------------------------
-
-Daniel Noboa dijo a The New Yorker que quiere hacer una cárcel en la Antártida, ¿es posible?
-============================================================================================
-
-Daniel Noboa propuso construir cárceles de máxima seguridad, incluyendo una en la Antártida, para combatir el narcotráfico.
----------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa mencionó una idea de crear una cárcel en la Antártida para los criminales más peligroso.](https://www.elcomercio.com/wp-content/uploads/2024/06/poli-daniel-noboa.png)
-
-En una entrevista reciente con el reconocido periodista **Jon Lee Anderson** para **The New Yorker**, **Daniel** Noboa, el presidente de Ecuador, discutió abiertamente la **peligrosa situación** que enfrenta debido a las **amenazas de muerte de los narcotraficantes**.
-
-### Más noticias
-
-* [¿Criterios de Daniel Noboa sobre Bukele, Milei y Boric fueron descontextualizados por The New Yorker?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html)
-* [Daniel Noboa habló de un supuesto intento de asesinato en su contra, según The New Yorker](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-supuesto-intento-asesinato-su-contra.html?source=Internal&ref=Single+Content+Link)
-* [¿A Daniel Noboa le espera más inestabilidad tras revés en la Asamblea por juicio a Verónica Abad?](https://www.elcomercio.com/actualidad/politica/jucio-penal-veronica-abad-crea-ruptura-ejecutivo-legislativo.html?source=Internal&ref=Single+Content+Link)
-
-Daniel Noboa habló de los planes para construir **cárceles de máxima seguridad** en un esfuerzo por controlar la **crisis de violencia** y corrupción que ha devastado al país.
-
-El Presidente comentó sobre la **situación de las prisiones en Ecuador**, que han sido controladas por líderes de **bandas de narcotráfico**, utilizando estos centros para **organizar actividades criminales** desde el interior.
-
-Su propuesta de construir **cárceles de máxima seguridad** busca poner fin a esta dinámica. “Tengo que endurecer mi corazón, en nombre de **18 millones de ecuatorianos**”, dijo Noboa[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
-
-El Primer Mandatario también relató incidentes específicos que destacaron la **gravedad de la situación**. Mencionó la fuga del líder de **Los Choneros**, **Adolfo Macías**, alias **Fito**, y los recientes disturbios y situaciones de **rehenes en las cárceles**.
-
-En respuesta, Noboa declaró un **estado de emergencia** y movilizó al ejército para tomar el control de las prisiones, clasificando a las **bandas de narcotraficantes** como **‘terroristas’** y **objetivos militares**.
-
-Daniel Noboa y la idea de construir una cárcel en la Antártida
---------------------------------------------------------------
-
-Durante su visita a **Manabí**, una región fuertemente afectada por el narcotráfico, Noboa enfatizó la necesidad de **emplear a los jóvenes y proporcionar seguridad**, y resaltó su política de mano dura contra los narcotraficantes.
-
-Noboa, quien ha recibido **amenazas directas de los carteles**, expresó su determinación de continuar la lucha, incluso contemplando la posibilidad de **construir una cárcel en la Antártida** para los **criminales más peligrosos**.
-
-> Ecuador’s recently elected president, Daniel Noboa, has declared war on the country’s drug gangs. But is he imperiling the democracy he claims to defend? [https://t.co/YBn4YMEQWz](https://t.co/YBn4YMEQWz)
-> 
-> — The New Yorker (@NewYorker) [June 18, 2024](https://twitter.com/NewYorker/status/1803151288059736547?ref_src=twsrc%5Etfw)
-
-A pesar de las críticas y los desafíos, Noboa se mantiene firme en su **objetivo** de restablecer el orden y la **seguridad en Ecuador**. Su enfoque decidido y sus acciones contundentes han generado tanto apoyo como controversia.
-
-**The New Yorker** menciona que un asesor principal, había tosido de manera nerviosa al escuchar la idea de crear esta cárcel. “Señor Presidente, no es una mala idea, pero creo que las naciones antárticas están **sujetas a un tratado**, y su presencia allí se limita a la **investigación científica y cosas por el estilo**“, dijo. “**Pero lo investigaré**” agregó Noboa.
-
-¿Es viable construir una cárcel en la Antártida?
-------------------------------------------------
-
-Construir una cárcel en la **Antártida** es una idea **extremadamente improbable y enfrenta varios obstáculos** legales, logísticos y éticos. Aquí hay algunos puntos clave que explican por qué:
-
-* **Tratado Antártico**: La Antártida está gobernada por el Tratado Antártico, firmado en 1959 y vigente desde 1961. Este tratado establece que la Antártida debe ser utilizada exclusivamente para fines pacíficos y prohíbe cualquier actividad militar, incluida la construcción de instalaciones militares.  
-    Además, se promueve la cooperación internacional en la investigación científica y se prohíben las pruebas nucleares y la eliminación de desechos radiactivos.
-* **Logística y condiciones ambientales**: La Antártida es uno de los lugares más inhóspitos del planeta, con temperaturas extremadamente bajas, vientos fuertes y aislamiento geográfico.  
-    Construir y mantener una instalación carcelaria en este entorno sería logísticamente complejo y costoso. El acceso a suministros básicos como alimentos, agua y atención médica sería difícil y caro.
-* **Derechos Humanos**: Encerrar a personas en un entorno tan extremo podría considerarse una violación de los derechos humanos.  
-    Las condiciones de vida en una cárcel en la Antártida podrían ser vistas como inhumanas y degradantes, y probablemente enfrentarían oposición tanto nacional como internacional.
-* **Cooperación internacional**: Cualquier intento de construir una cárcel en la Antártida requeriría la cooperación de los países signatarios del Tratado Antártico. Es altamente improbable que la comunidad internacional apoye una iniciativa que va en contra de los principios del tratado.
-
-Municipio de Quito inicia la demolición de la tribuna De los Shyris
-===================================================================
-
-El Municipio de Quito comenzó la demolición de la tribuna De los Shyris por su mal estado y problemas de seguridad.
--------------------------------------------------------------------------------------------------------------------
-
-![Los trabajos de demolición de la tribuna De los Shyris demolición ya empezaron.](https://www.elcomercio.com/wp-content/uploads/2024/06/Tribuna-Shyris-demolicion.jpg)
-
-El martes 18 de junio de 2024, el Municipio de Quito inició la **demolición** de la tribuna De los Shyris, un espacio emblemático de la ciudad. La estructura, deteriorada y convertida en un foco de inseguridad, será reemplazada por un “sendero seguro”.
-
-### Más noticias
-
-* [La historia detrás de la Tribuna de los Shyris](https://www.elcomercio.com/actualidad/quito/tribuna-shyris-dictadura-militar-desfiles.html "La historia detrás de la Tribuna de los Shyris")
-* [¿Qué pasará con los desfiles de la Shyris?](https://www.elcomercio.com/actualidad/tribuna-shyris-desfiles-confraternidad-derrocamiento.html)
-
-La tribuna De los Shyris ha sido un punto de encuentro para cientos de personas durante los desfiles y celebraciones de Quito. Sin embargo, el deterioro de la infraestructura y la inseguridad en la zona motivaron al Municipio a emprender su demolición.
-
-Cuatro pasos para la demolición de la tribuna De los Shyris
------------------------------------------------------------
-
-Este proyecto se llevará a cabo en **cuatro fases**, comenzando con la instalación de pacificadores en la avenida De los Shyris, que obligan a los conductores a disminuir la velocidad de los autos. La segunda fase consiste en la retirada de objetos que impedían el acceso al graderío.
-
-La tercera fase contempla la **demolición de la tribuna**, proceso que se espera dure aproximadamente 90 días, según Fernando Tovar, gerente de Obras Públicas de la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop).
-
-La última fase incluye la construcción de un **bulevar con iluminación**, caminaderas y vegetación, parte del proyecto “Sendero Seguro”, que será inaugurado en diciembre de 2024, aproximadamente.
-
-El inicio de la demolición incluyó la retirada de las **mallas que bloqueaban el acceso al graderío** y el cercado de la zona con una lona verde para indicar los trabajos en curso. La Epmmop lidera estas labores, que buscan mejorar la seguridad y revitalizar el espacio para los ciudadanos.
-
-Desfiles de la tribuna de la avenida De los Shyris
---------------------------------------------------
-
-En la tribuna de la avenida **De los Shyris** todos los años se realiza el Desfile de la Confraternidad. Este evento se desarrolla en el marco de las fiestas de fundación de Quito y participan colegios y comparsas.
-
-EL COMERCIO preguntó en mayo pasado a la **Secretaría de Cultura** sobre qué pasará con el desfile de este 2024, tras el derrocamiento de la tribuna de la avenida De los Shyris.
-
-En un breve mensaje se explicó que “cuando llegue el momento se realizará la **logística necesaria** para que el Desfile de la Confraternidad se desarrolle”.
-
-Gato Oscar, el vidente felino que predijo 100 muertes en un asilo
-=================================================================
-
-Oscar, un gato adoptado en un asilo de ancianos en Estados Unidos, se convirtió en una sensación viral por su habilidad para predecir la muerte de los residentes.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El gato Oscar predijo más de 100 muertes en un asilo estadounidense.](https://www.elcomercio.com/wp-content/uploads/2024/06/Gato-Oscar.jpg)
-
-Aunque los gatos han sido objeto de mala fama en el pasado, Oscar, un pequeño gato de un geriátrico estadounidense, logró superar esta imagen al predecir más muertes que cualquier otro vidente durante toda su vida. Su don para pronosticar la muerte fue estudiado por expertos y ha generado una gran cantidad de [preguntas y debates](https://www.eltiempo.com/vida/mascotas/oscar-el-gato-que-logro-predecir-la-muerte-de-mas-de-100-personas-709946).
-
-La historia de Oscar
---------------------
-
-Oscar fue adoptado por el asilo de ancianos **Steere House en Rhode Island**, Estados Unidos, en el 2005. Aunque inicialmente fue adoptado para brindar compañía a los enfermos terminales, pronto se descubrió que tenía un don especial. Se acercaba a los pacientes que estaban a punto de morir y se acurrucaba a su lado, lo que era un indicador claro de que su final estaba cerca.
-
-### Más noticias:
-
-* [La fusión musical de corridos y canciones religiosas se viraliza](https://www.elcomercio.com/tendencias/entretenimiento/alabanzas-belicas-musica-corridos-religion.html "La fusión musical de corridos y canciones religiosas se viraliza")
-* [Karol G es abucheada en su concierto en Ámsterdam… ¿Hizo algo que no debía?](https://www.elcomercio.com/afull/karol-g-es-abucheada-en-su-concierto-en-amsterdam-hizo-algo-que-no-debia.html "Karol G es abucheada en su concierto en Ámsterdam… ¿Hizo algo que no debía?")
-* [Este es el origen del video viral del mapache Pedro](https://www.elcomercio.com/afull/pedro-mapache-meme-video-carra.html "Este es el origen del video viral del mapache Pedro ")
-
-> Óscar, el gato que presiente la muerte [https://t.co/4sdbPJs5Z8](https://t.co/4sdbPJs5Z8) [#Mascotas](https://twitter.com/hashtag/Mascotas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/txK3p3IC13](https://t.co/txK3p3IC13)
-> 
-> — Crowd Pets (@CrowdPets) [August 9, 2017](https://twitter.com/CrowdPets/status/895183514450219008?ref_src=twsrc%5Etfw)
-
-El don de Oscar
----------------
-
-La teoría más aceptada es que Oscar podía oler los bioquímicos liberados por las células moribundas, lo que le permite predecir la muerte. Sin embargo, algunos expertos también han sugerido que su don pudo ser un aspecto sobrenatural o un sexto sentido. Según David Sosa, un médico especializado en geriatría, en un estudio publicado en **‘The New England Journal of Medicine’**– el misterioso e inexplicable don del felino: pronosticar la muerte y retomado por El Tiemppo de Bogotá. Oscar ha predicho más de 100 muertes en su vida, lo que es un registro inusualmente alto.
-
-La labor de Oscar
------------------
-
-Aunque Oscar ha sido objeto de estudio y debate, su labor como gato de terapia fue reconocida y apreciada por los pacientes y el personal del asilo. Su presencia fue fundamental para mejorar la calidad de vida de los ancianos y brindarles un poco de alegría y consuelo en sus últimos días.
-
-Tras la muerte de Oscar
------------------------
-
-La historia de Oscar ha sido ampliamente publicada y ha generado una gran cantidad de interés en todo el mundo. Su don único y su capacidad para brindar consuelo a los moribundos lo convirtieron en un símbolo de esperanza y compasión en el mundo de los cuidados paliativos. Oscar murió en 2022, pero su legado continúa inspirando a muchos y recordando la importancia del amor y la compasión en el cuidado de los ancianos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/CMivx-Zhg_z/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Astrólogo Védico Devarshi Narada Das (@devarshinaradha)](https://www.instagram.com/p/CMivx-Zhg_z/?utm_source=ig_embed&utm_campaign=loading)
-
-Shakira, la tarjeta rosa y otras rarezas de la Copa América
-===========================================================
-
-Artistas, hinchas, decisiones históricas, innovaciones y legendarios jugadores le darán un aspecto especial a la Copa América 2024
+Es tiempo de repensar la causa principal por la cual vivimos, recuperar el verdadero sentido de existir como personas y como país.
 ----------------------------------------------------------------------------------------------------------------------------------
 
-![La cantante Shakira pondrá el marco musical a la Copa América con una versión especial de uno de sus éxitos.](https://www.elcomercio.com/wp-content/uploads/2024/06/shakira.jpg)
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
 
-Las pasiones que despierta el **fútbol** se volverán a sentir en la **Copa América 2024** que empezará este 20 de junio.
+**¿Cuál es la causa de la incertidumbre política, social, económica, cultural, religiosa, ética y ambiental?** Esta reflexión tiene sentido cuando revisamos las crisis planetarias que asuelan a la humanidad. ¿La metáfora del alacrán?
 
-Al margen de las estrellas en la cancha, habrá otros protagonistas, además de artistas, hinchas, decisiones históricas e innovaciones que le darán un cariz especial al certamen.
+Expliquémonos. En mis tiempos juveniles, cuando leía el libro “El retorno de los brujos”, de Jacques Bergier y Louis Pauwels, y otros de igual catadura, me asaltaron preocupaciones que, hoy por hoy, son pertinentes.
 
-### Más noticias:
+Las interrogantes eran: ¿El interés personal -léase afán de lucro- es consustancial a la naturaleza humana o es el resultado de cierto tipo de educación – ¿formación o deformación? -, o de instintos primarios que elogian el egoísmo, la dominación y el apego al dinero -legal o ilegal- como expresión de superioridad o poder? **¿Es que en etapa post capitalista que vivimos, se ha instalado un monstruo -el alacrán sería apropiado- que, con su veneno, inocula a la misma sociedad que le engendró?**
 
-* [Moisés Caicedo exige confiar en la Selección de Ecuador en Copa América](https://www.elcomercio.com/deportes/seleccion-ecuador-moises-caicedo-apoyo-copa-america.html "Moisés Caicedo exige confiar en la Selección de Ecuador en Copa América")
-* [Lionel Messi revela curiosidades que emocionan antes de la Copa América](https://www.elcomercio.com/deportes/futbol/lionel-messi-copa-america-curiosidades.html "Lionel Messi revela curiosidades que emocionan antes de la Copa América")
+Carlos Marx, los socialistas utópicos y Friedrich Engels deslumbraron con sus hipótesis sobre el capital y el trabajo, y trazaron el materialismo histórico, que sentaron las bases del Estado socialista que duró setenta años -1917-1987- con los resultados conocidos. También hubo propuestas de varios Papas, que insistieron en el progreso de los pueblos, la dignificación del trabajo y la protección de los vulnerables. **Y en América Latina surgió la teología de la liberación que quedó en el olvido**, mientras se consolidaba la economía global. Y hubo iniciativas que formularon la **“tercera vía”, ancladas al desarrollo humano sostenible, que predicaba ni capitalismo ni socialismo.**
 
-Shakira en la Copa América
---------------------------
+**La causa de la consolidación del poder mundial fue, para unos, la caída del muro de Berlín**, la terminación de la Guerra Fría, la desaparición de la URSS – con la Perestroika y la Glasnost-; el surgimiento de China y la hegemonía del Tratado Mundial de Comercio. **Para otros, la causa fue responsabilidad de Estados Unidos y sus aliados** que fortalecieron un modelo de pensamiento anclado al individualismo, el interés personal y el lucro, antes que a la solidaridad.
 
-La cantante **Shakira** pondrá el marco musical al torneo con una [versión especial de ‘Puntería](https://www.elcomercio.com/deportes/futbol/copa-america-himno-wakawaka-shakira.html)‘, tema que destaca en su más reciente álbum, ‘Las mujeres ya no lloran’.
+Estas visiones –reales o imaginarias- subexisten, y forman parte de patrones de comportamientos personales y sociales, que no dejan de percibirse y cuestionarse en pleno siglo XXI.
 
-La colombiana es toda una experimentada en la producción de éxitos musicales para eventos deportivos desde que su ‘Hips don’t lie – **Bamboo**‘, interpretada junto al rapero haitiano Wyclef Jean, fue proclamado la melodía oficial del Mundial de Alemania 2006.
+**¿Es el interés personal -competir, ganar, triunfar, acumular- que nutre nuestros sueños y obsesiones? ¿El sueño americano es un mito?** **¿Por qué la gente no escoge el sueño cubano?** ¿O es que tenemos que elegir entre la civilización del amor y el reino de Dios -la parusía-, el paraíso socialista o el nirvana? ¿Hay otros factores que influyen en la causa o causas de nuestros desvelos en la construcción del futuro? **¿Es que la historia ha terminado, como sostiene Francis Fukuyama?**
 
-Luego vino el célebre ‘**Waka waka**‘, el himno del [Mundial de Sudáfrica 2010](https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2010), y la canción ‘La la la’, que interpretó en la final de la Copa del Mundo de Brasil 2014.
+**Es tiempo de repensar la causa principal por la cual vivimos, recuperar el verdadero sentido de existir -como personas y como país- antes que sea tarde, y que alacrán venenoso sea magnánimo con los que piensen diferente.** ¡Leamos a Viktor Frankl!
 
-**Un guía**
------------
+Desafíos que enfrenta Antonio Naranjo, nuevo ministro de salud de Ecuador
+=========================================================================
 
-El entrenador Marcelo Bielsa, ahora desde el banquillo de Uruguay, vuelve a participar en una Copa América después de dos décadas, con el reto ahora de desempatar el número de títulos logrados por la Celeste y su natal **Argentina,** actual campeona del mundo y del continente.
+El sector de salud demanda reformas estructurales profundas y una gestión eficaz y transparente.
+------------------------------------------------------------------------------------------------
 
-Desde el comienzo del torneo en 1916, ambas selecciones se han consagrado campeonas en 15 ocasiones cada una.
+![Imagen creada en Freepik con el prompt: falta de medicamentos](https://www.elcomercio.com/wp-content/uploads/2024/06/Screenshot_2024-06-19-14-33-08-454-edit_com.Slack_.jpg)
 
-Considerado casi un guía espiritual del fútbol por quienes le admiran, Bielsa deberá ratificar el buen momento de la Celeste, que es segunda en las eliminatorias sudamericanas del Mundial de 2026 y llega a la Copa América con un empate a cero ante **Costa Rica** y una goleada por 4-0 a México.
+El sector de salud ecuatoriano arrastra una crisis profunda, especialmente en **zonas rurales** donde la infraestructura sanitaria aún es deficiente o inexistente.
 
-![Marcelo Bielsa, DT de la Selección de Uruguay, en uno de los amistosos previos a la Copa América.](https://www.elcomercio.com/wp-content/uploads/2024/06/Disen%CC%83o-sin-ti%CC%81tulo-1024x683.jpeg)
+El gobierno anterior arrancó el **fortalecimiento de infraestructura y equipamiento** en hospitales y centros de salud, pero este plan se quedó corto. Por ejemplo, centros de salud de la **Amazonía** demandan una **repotenciación,** debido al crecimiento de la población y a las necesidades actuales.
 
-Marcelo Bielsa, DT de la Selección de Uruguay, en uno de los amistosos previos a la Copa América.
+En centros de salud de **Ahuano, Chontapunta, Talag, Puerto Napo,** en el cantón Tena-Napo, hace falta transporte para visitar a las familias más alejadas. Piden auxilio a la comunidad cuando no cuentan con ambulancia para trasladar a los pacientes hasta el hospital de Tena.
 
-**Justicia femenina** en Copa América
--------------------------------------
+No todas las unidades cuentan con exámenes de laboratorio, por lo que los pacientes deben ir a los centros satélites o al Tena. El personal no puede velar correctamente por el bienestar de sus pacientes porque una buena parte no tiene ni para el pasaje de bus. La alternativa es la automedicación y las recetas ancestrales, ahondando más los problemas y la frustración de médicos y enfermeras.
 
-Por primera vez en su historia, la **Copa América** incluirá a mujeres entre sus árbitros, algunas como centrales y otras como asistentes.
+Al igual que la población, los médicos rurales de Napo no tienen acceso a **agua potable** de calidad ni **electricidad** de manera continua. Deben comprar el agua en botellones.
 
-En el grupo destaca la brasileña Edina Alves Batista, la primera mujer que dirigió en un torneo masculino absoluto de la FIFA: el Mundial de Clubes jugado en Catar en 2020.
+La mala calidad del agua entubada y del río Napo y sus afluentes hace que su atención se concentre en enfermedades gastrointestinales. Pero la población demanda mayor atención a las patologías crónico degenerativas y catastróficas.
 
-También la estadounidense Mary Victoria Penso, que dirigió la final del Mundial femenino de 2023 y fue la primera en conducir un partido de la MLS.
+> La realidad de la actividad asistencial en lugares remotos solo es una muestra del mal manejo de los recursos a nivel central. Ahí persiste el exceso de funcionarios administrativos, puestos directivos innecesarios, colocación de gerentes y directores médicos con palancas y cuotas políticas.
 
-Junto a ellas estarán las brasileñas Neuza Back, Cindy Nahuelco y María Belén Carvajal, las estadounidenses Brooke Mayo y Kathryn Nesbitt, la colombiana Mary Blanco y la venezolana Migdalia Rodríguez, que serán asistentes.
+La disparidad en el acceso a los servicios de salud entre diferentes regiones y niveles socioeconómicos es evidente y significativa. Aunque la **Constitución** garantiza el **acceso universal a la salud,** la realidad es otra. La falta de servicios, personal, sumada a la inconsistencia en la disponibilidad de medicamentos y suministros médicos, afecta a los más vulnerables. Los frecuentes desabastecimientos obligan a los pacientes a financiar su propia atención. Inaceptable.
 
-Además, la nicaragüense Tatiana Guzmán estará en el VAR.
+Los ministros de turno pasan gran parte de su tiempo buscando soluciones para procesos básicos que deberían ser expeditos, eficientes y transparentes. La **corrupción** y la **mala administración** son problemas recurrentes que desvían los fondos y reducen la eficacia del sistema de salud.
 
-**Beckham sin sus estrellas** en la Copa América
-------------------------------------------------
+Ante esta problemática, ¿cómo un ministro puede concentrarse en mejorar la **calidad de la atención**, desde la prevención, el diagnóstico y el tratamiento?
 
-La MLS estadounidense avanzará de forma paralela a la **Copa América**, lo que hará que equipos como Inter Miami, del exjugador David Beckham, pierda a estrellas como el argentino **Lionel Messi** y el uruguayo **Luis Suárez**, convocados por sus selecciones.
+No es posible que pacientes tengan que ser reoperados dos y tres veces y pasen más de diez días de internación en hospitales de tercer nivel. Parte de estos pacientes son derivados de hospitales de segundo nivel de otras provincias.
 
-La preocupación es evidente en filas del club dirigido por el argentino **Gerardo Martino**, ya que ambos jugadores se perderán varios partidos, lo que podría poner en riesgo el liderato actual del Inter en la Conferencia Este de la MLS.
+No es coherente tampoco que cirujanos generales, acostumbrados a tratar patologías benignas, estén tratando cánceres de alta complejidad sin la dirección de especialistas en esta materia. En países de la región y aún más del primer mundo esto ya no es una discusión.
 
-El Inter de **Beckham** no será el único afectado, pues también el **Orlando City** cedió a la selección peruana al guardameta **Pedro Gallese** y al volante **Wilder Cartagena**, y Los Angeles hizo lo propio con el delantero uruguayo Cristian Olivera.
+Hacen falta auditorías médicas debido a la cantidad de fracasos causada por la falta de comprensión oncológica para determinar los procedimientos apropiados.
 
-![Lionel Messi encabeza a la Selección de Argentina para la Copa América 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-15T111255.119-1024x683.jpg)
+El Ecuador debería contar con equipos académicamente formados y con experiencia en trasplantes de hígado para evitar que los pacientes deban viajar al extranjero o enfrentarse a cuidados paliativos.
 
-Lionel Messi encabeza a la Selección de Argentina para la Copa América 2024.
+El nuevo ministro de salud, **Antonio Naranjo**, enfrenta una tarea titánica. Las inversiones en infraestructura, personal capacitado, mejoras en la administración y un enfoque que busque la equidad son claves para superar los desafíos del sector.
 
-**Tribuna hispana**
--------------------
+Sin embargo, esto requiere reformas estructurales profundas y una gestión eficaz y transparente. Solo así se garantizará un sistema de salud que responda a las necesidades de los ecuatorianos, sin importar su lugar de residencia o nivel socioeconómico.
 
-La protagonista indiscutible desde las gradas será la comunidad latinoamericana en Estados Unidos, a la que se sumarán los numerosos hinchas que viajarán desde los países participantes en el certamen para apoyar a sus selecciones.
+La combinación de una correcta asignación de recursos, manejo eficiente, de calidad y una lucha decidida contra la corrupción es la única vía para construir un sistema de salud robusto y equitativo en Ecuador.
 
-Estados Unidos tiene una población superior a 331 millones de personas, de las que más de 62 millones son de origen hispanoamericano, según datos del Censo de 2020.
+Coreano de ‘alta peligrosidad’ fue detenido durante un operativo en Guayas
+==========================================================================
 
-Aunque el fútbol no es el deporte mayor en el país norteamericano, es probable que algunos de sus habitantes no hispanos también se vuelquen a las canchas impulsados sobre todo por la ‘Messimanía’ desatada tras la llegada del astro argentino a la MLS en 2023.
-
-**Capitán, la mascota del torneo**
-----------------------------------
-
-La cuadragésima octava edición de la **Copa América** tendrá como mascota a Capitán, un águila que representa “la fusión única entre la pasión sudamericana por el fútbol y la vibrante atmósfera estadounidense”, según explicó la Conmebol.
-
-La institución deportiva señaló que eligió a esa ave por su “simbología” en diversas culturas de América y aseguró que “invita a celebrar la diversidad cultural de Sudamérica” y del país anfitrión, respetando “siempre” las diferencias entre los países.
-
-Hija de madre latina y padre estadounidense, **Capitán** tiene la cabeza roja y el resto de su plumaje es azul oscuro. Además, viste una camiseta blanca con franjas rojas y azules en las mangas, un pantalón corto azul y medias blancas.
-
-**Tarjeta rosa**
-----------------
-
-La tarjeta rosa es una innovación presentada por la **Conmebol** como una medida de seguridad para que los equipos puedan hacer un sexto cambio en un partido en casos de traumatismo craneoencefálico y conmoción cerebral de alguno de sus jugadores.
-
-Los árbitros no enseñarán esta tarjeta, sino que en realidad será un formulario distinto al de las sustituciones regulares.
-
-Si un equipo recurre a esta medida, su rival automáticamente dispondrá de una sustitución adicional que podrá ser simultánea o posterior al cambio por traumatismo. 
-
-Cristiano Ronaldo, el hombre récord de la Eurocopa
-==================================================
-
-Cristiano Ronaldo cuenta con 10 récords en la Eurocopa y busca acrecentar su leyenda en la edición de 2024.
------------------------------------------------------------------------------------------------------------
-
-![Cristiano Ronaldo celebra el triunfo de Portugal en la Eurocopa ante República Checa.](https://www.elcomercio.com/wp-content/uploads/2024/06/77297dd92dcc2e562ac2f957b1576761ad680c89.jpg)
-
-El astro portugués **Cristiano Ronaldo** encara su sexta Eurocopa consecutiva, desde su estreno del año 2004 en su país hasta la fase final en Alemania 2024, en un recorrido de récord que agrandará desde este martes, cuando inicie una nueva aventura continental con la ambición de siempre, como aspirante indudable a todo.
-
-El futbolista fue campeón con Portugal en 2016 y llevó a su país a ganar el primer título de su historia. Pese a sus ya 39 años, ‘**CR7**‘ se mantiene vigente y con ganas de más con su selección.
-
-### Más noticias:
-
-* [Portugal y Cristiano Ronaldo ganan al último minuto en Eurocopa](https://www.elcomercio.com/deportes/portugal-cristiano-ronaldo-eurocopa-vivo-partido-chequia.html "Portugal y Cristiano Ronaldo ganan al último minuto en Eurocopa")
-* [Turquía empieza bien la Eurocopa y frena a Georgia](https://www.elcomercio.com/deportes/eurocopa-turquia-georgia-partido.html "Turquía empieza bien la Eurocopa y frena a Georgia")
-* [¿A qué hora juega Cristiano Ronaldo la Eurocopa?](https://www.elcomercio.com/deportes/cristiano-ronaldo-portugual-hora-chequia-eurocopa.html "¿A qué hora juega Cristiano Ronaldo la Eurocopa?")
-
-El jugador con más minutos en la Eurocopa
------------------------------------------
-
-– 2.033 minutos ha disputado en sus **cinco Eurocopas** hasta ahora, desde debut en el torneo del 12 de junio de 2004, hace 20 años, con derrota ante Grecia (1-2), cuando entró al campo para la segunda parte. Pepe, su compañero de selección, lo sigue con 1.710 minutos. Gianluigi Buffon, el imponente portero italiano, es el tercero, con 1.530 minutos.
-
-Cristiano Ronaldo, quien más partidos tiene en fases finales
-------------------------------------------------------------
-
-– 25 partidos ha jugado Cristiano Ronaldo, a sus 39 años, en las fases finales de la **Eurocopa**; más que ningún otro a lo largo de la historia, seguido por dos compatriotas suyos: Pepe, también presente en Alemania 2024, y **Joao Moutinho**, con 19 duelos cada uno. El cuarto es el alemán Bastian Schweinsteiger, con 18, los mismos que el italiano Leonardo Bonucci.
-
-La mayor cantidad de titularidades
-----------------------------------
-
-– 23 titularidades ha registrado el atacante luso en la Eurocopa, aunque su primer encuentro, con 19 años, fue como suplente en el esquema dirigido por **Luiz Felipe Scolari**, que recurrió a él para levantar el 0-1 en contra frente a Grecia. No bastó su presencia, aunque marcó el único gol luso, a pase de Luis Figo. Hay 13 años de diferencia entre ambos. Su compatriota Pepe también es el segundo con más titularidades (19). El podio lo completan tres italianos: **Gianluigi Buffon, Giorgio Chiellini y Bonucci**, con 17 cada uno.
-
-El máximo goleador histórico
-----------------------------
-
-– **14 goles** ha marcado Cristiano Ronaldo en sus encuentros en la Eurocopa, desde el primero ante Grecia, el citado día de su debut, hasta los dos últimos frente a Francia en la fase de grupos de la última edición, en 2021. No pudo batir la portería contraria en el último duelo hasta la fecha de Portugal: la eliminación en los octavos de final frente a Bélgica (1-0), el 27 de junio de 2021. Antes, Cristiano había anotado cinco dianas en tres encuentros.
-
-‘CR7’ con tantos en 10 partidos distintos
------------------------------------------
-
-– **10 partidos diferentes** han asistido a sus 14 goles en el torneo continental, divididos en cinco ediciones: dos tantos en 2004 (a Grecia y Países Bajos); uno en 2008 (a la República Checa); tres en 2012 (dos a Países Bajos y uno a la República Checa); tres en 2016, cuando se proclamó campeón (dos a Hungría y uno a Gales); y cinco en 2021, con otros dos a Hungría, uno a Alemania y dos a Francia. El más cercano en cantidad de partidos en los que ha marcado en esta competición es el inglés Alan Shearer, con seis. Son cuatro menos.
-
-Dobletes a granel del ‘Bicho’
------------------------------
-
-– **4 dobletes** ha conseguido Cristiano Ronaldo en la Eurocopa, por encima de los dos de los alemanes **Gerd Müller y Rudi Völler**, el belga Romelu Lukaku y los franceses Karim Benzema y Antoine Griezmann. El astro luso los logró en el 2-2 con Francia del 23 de junio de 2021, en el 0-3 a Hungría del 15 de junio de 2021, en el 3-3 con Hungría del 22 de junio de 2016 y en el 2-1 a Países Bajos del 17 de junio de 2012.
-
-Abrió el marcador en cinco oportunidades
-----------------------------------------
-
-– **5 goles de Cristiano abrieron el marcador de la selección portuguesa** en este torneo: en el 2-2 con Francia y en la derrota 2-4 con Alemania de la edición de 2020, trasladada a 2021 por la pandemia de Covid-19; en el 2-0 a Gales en 2016; en el 0-1 a la República Checa en 2012 y en el 2-1 a Países Bajos en las semifinales de la Eurocopa 2004.
-
-12 victorias en 25 partidos
----------------------------
-
-– 12 victorias suma Cristiano Ronaldo en sus 25 partidos en la Eurocopa. **Nadie cuenta tantos triunfos en el recorrido de las dieciséis ediciones anteriores** de la competición, aunque no ha ganado ningún de los tres últimos (dos derrotas y un empate) y sólo ha vencido cuatro de los doce más recientes, con seis igualadas y dos encuentros perdidos. Los siguientes más ganadores son los españoles Cesc Fábregas y Andrés Iniesta, con 11.
-
-Cristiano Ronaldo, presente en 20 acciones de gol
--------------------------------------------------
-
-– **20 goles** han contado con él como elemento esencial, los 14 que ha marcado, pero también los seis en los que ha ejercido como pasador decisivo, en **25 encuentros**. El legendario Michel Platini contribuyó en diez con la selección de Francia en apenas cinco choques. El tercer puesto lo comparten Antoine Griezmann y el alemán Jurgen Klinsmann, con la participación en nueve dianas en once y trece duelos, respectivamente.
-
-El que más remata en la Eurocopa
---------------------------------
-
-– 60 remates ha propuesto **Cristiano Ronaldo** en sus apariciones ofensivas en la Eurocopa. Más que nadie. 19 de ellos han ido a portería, los mismos que el galés Gareth Bale con el que comanda ese registro, seguido por Antoine Griezmann, su competidor en esta edición, con 17, y por Álvaro Morata, con 15, desde que existe la estadísticas avanzada.
-
-Este es el peso de los subsidios en las finanzas públicas ecuatorianas
-======================================================================
-
-El Banco Central de Ecuador presentó un informe que compara los subsidios a los combustibles frente a otros rubros como salud y educación.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Gobierno de Ecuador retiró los subsidios a los combustibles Extra y Ecopaís. Cortesía: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/06/combustibles-Ecuador.jpg)
-
-El monto destinado a los **subsidios a los combustibles** alcanzó los 3 265 millones de dólares, en el 2023. Esa cantidad superó **al gasto en salud**, que fue de 3 064 millones de ese período, según el **Ministerio de Economía y Finanzas**.
-
-Estos subsidios a las **gasolinas Extra, Ecopaís y diésel y gas** **licuado de petróleo** representaron el 67,5% del gasto en **educación**, que se ubicó en 4 835 millones de dólares en 2023.
-
-El **Banco Central de Ecuador** presentó un informe sobre el impacto que tienen estos subsidios en las **finanzas públicas**.
-
-Otra comparativa que realizó es frente a los **programas de protección social como el** Bono de Desarrollo Humano (BDH), **pensión al adulto mayor**, entre otros. El resultado fue que superó en casi tres veces. El egreso en estos programas fue de 1 296 millones de dólares, con una cobertura de más de 1,4 millones de beneficiarios.
-
-Para 2024, la **Proforma del Presupuesto General del Estado (PGE)** establece que los subsidios a los combustibles alcanzarían los 3 093 millones. Este valor supera las transferencias destinadas a la **Seguridad Social**, que son de 3 082 millones y al Desarrollo Social, que es de 1 549 millones.
-
-El subsidio a las gasolinas alcanzó 644 millones de dólares en el 2023. Ese monto representó el 20% del total de los subsidios a los combustibles.
-
-### Más noticias
-
-* [¿Quiénes reciben más subsidios a las gasolinas en Ecuador?](https://www.elcomercio.com/actualidad/negocios/quienes-reciben-mas-subsidios-a-las-gasolinas-en-ecuador.html "¿Quiénes reciben más subsidios a las gasolinas en Ecuador? ")
-* [Ecuador tendrá una prueba de madurez con la eliminación de subsidios](https://www.elcomercio.com/opinion/editorial/ecuador-tendra-prueba-madurez-eliminacion-subsidios.html "Ecuador tendrá una prueba de madurez con la eliminación de subsidios")
-* [El sector automotor se pronuncia sobre el retiro de subsidios a extra y ecopaís](https://www.elcomercio.com/actualidad/negocios/sector-automotriz-prefiere-eliminacion-subsidios-reformas.html "El sector automotor se pronuncia sobre el retiro de subsidios a extra y ecopaís")
-
-Los subsidios en las finanzas públicas
---------------------------------------
-
-El **Banco Central del Ecuador** destacó que entre 2010 y 2023, los subsidios a los combustibles representaron, en promedio, el 12,8% de la **Proforma del Presupuesto General del Estad**o.
-
-Para 2024, este porcentaje se fijó en el 8,7%. Este informe del Central indica que, la participación más alta de los subsidios a los combustibles en relación a la Proforma ocurrió en el 2011 y 2012, que fue del 25,2% y 26%, respectivamente.
-
-Además, se estimó que **Ecuador** pierde al año aproximadamente USD 200 millones por el **contrabando** de gasolina.
-
-El **Banco Central del Ecuador** considera oportuna la implementación de un nuevo esquema de precios para las gasolinas **Extra y Ecopaís**, “acompañada de compensaciones monetarias para proteger a la población más vulnerable”.
-
-Esta entidad aseguró que esta medida permitirá que los 644 millones presupuestados para subsidios a **gasolinas** en 2024, “en su mayoría, sean redireccionados a proteger a la población que pertenece a los deciles de ingresos más bajos, mitigar el impacto ambiental y contribuir a la sostenibilidad de las finanzas públicas”.
-
-En **Ecuador**, los subsidios a los combustibles están concentrados, especialmente, en **diésel, gasolinas** y **Gas Licuado de Petróleo (GLP**). De 2010 a 2023, se destinó un total de 53 922 millones para subsidios a los combustibles. El 43% corresponde a diésel, 25% a gasolinas y el 18% a GLP. Estos tres subsidios concentraron el 86% del total para el período analizado.
-
-¿Por qué regresó a Ecuador Alejandra Jaramillo, ‘La Caramelo’? 
-===============================================================
-
-'La Caramelo', conocida por su carrera desde concursos intercolegiales hasta su éxito en la televisión nacional, regresó a Ecuador.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Alejandra Jaramillo, comunicadora, actriz y emprendedora ecuatoriana. Foto: Instagram @ale_jaramillo.](https://www.elcomercio.com/wp-content/uploads/2024/06/caramelo-ecuador-.jpg)
-
-**Alejandra Jaramillo**, conocida como **‘La Caramelo’**, realizó una breve visita a Quito. La popular presentadora, ‘influencer’ y emprendedora ecuatoriana compartió la noticia en su cuenta de **Instagram**.
-
-### Más noticias
-
-* [¿Alejandra Jaramillo está enamorada? Un colombiano va al corazón de ‘La Caramelo’](https://www.elcomercio.com/tendencias/entretenimiento/alejandra-jaramillo-enamorada-colombiano-habria-conquistado.html "https://www.elcomercio.com/tendencias/entretenimiento/alejandra-jaramillo-enamorada-colombiano-habria-conquistado.html")
-* [¿Por qué es tendencia Alejandra Jaramillo?](https://www.elcomercio.com/tendencias/entretenimiento/por-que-tendencia-alejandra-jaramillo.html "https://www.elcomercio.com/tendencias/entretenimiento/por-que-tendencia-alejandra-jaramillo.html") 
-
-Desde sus inicios en concursos de teatro intercolegiales hasta su consolidación en la televisión nacional, **‘La Caramelo’** ha dejado una huella significativa, ganándose el cariño del público tanto en pantalla como en **redes sociales**. 
-
-**¿Quién es Alejandra Jaramillo?** 
------------------------------------
-
-De acuerdo con la [página oficial](https://alejaramillo.com.ec/alejandra/ "https://alejaramillo.com.ec/alejandra/") de la ‘influencer’, **Alejandra Jaramillo** es comunicadora, actriz y emprendedora ecuatoriana originaria de Esmeraldas. Ha forjado una sólida carrera desde sus inicios en concursos intercolegiales de teatro. 
-
-A los 12 años debutó en televisión como parte del cuerpo de baile en el programa infantil **Magneto** y luego como mini presentadora.  
-
-Su ascenso continuó con roles protagónicos en producciones como la novela ‘Cholicienta’ y programas como ‘Destino Aventura’.  
-
-Tras destacarse en el canal de televisión Gama, se convirtió en panelista de **‘Vamos con Todo’** y conductora de **‘La Fiesta del Gol’** durante el **Mundial de Rusia 2018**.  
-
-A los 25 años, consolidó su éxito en **Ecuavisa** con programas como **‘En Contacto’** y **‘Prueba de Amor’.** 
-
-**‘La Caramelo’ regresa a Ecuador por un proyecto especial** 
+El hombre era requerido por las autoridades de Corea del Sur.
 -------------------------------------------------------------
 
-!['La Caramelo' regresa a Ecuador por una colaboración con una marca. Foto: Instagram @ale_jaramillo.](https://www.elcomercio.com/wp-content/uploads/2024/06/caramelo-ecuador-1-1024x683.jpg)
+![El hombre fue detenido durante un operativo en Samborondón](https://www.elcomercio.com/wp-content/uploads/2024/06/coreanos.jpg)
 
-‘La Caramelo’ regresa a Ecuador por una colaboración con una marca. Foto: Instagram @ale\_jaramillo.
-
-‘La Caramelo’ ha vuelto a Ecuador por segunda vez desde que se mudó a Miami. Actualmente participa como panelista en el nuevo programa **‘Siéntese quien pueda’** de Unimás, asociado con **Univisión Televisa**.  
-
-Según su publicación en **Instagram** (@ale\_jaramillo), su visita se debe a una colaboración con una marca: 
-
-“Un sello necesario en mi pasaporte me hizo volver a la carita de Dios, a la capital de mi país, por 24 horas.   
-   
-Miles de recuerdos en un solo día. Mi comida, mi gente, fragancias, paisajes, y tanto que sentí.”, se puede leer en la publicación.  
-
-Durante su breve estadía de 24 horas en Quito, compartió en el video imágenes de su experiencia, que incluían paisajes de la serranía ecuatoriana y momentos en los que la ‘influencer’ degustó platos típicos como el **locro** estilo quiteño y el **ceviche** estilo Jipijapa. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C8XW4kTucBa/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de ALEJANDRA JARAMILLO🍬 (@ale\_jaramillo)](https://www.instagram.com/reel/C8XW4kTucBa/?utm_source=ig_embed&utm_campaign=loading)
-
-Claudia Sheinbaum llama a la ‘unidad del movimiento’
-====================================================
-
-Claudia Sheinbaum se comprometió a avanzar “en ser una potencia económica”.
----------------------------------------------------------------------------
-
-![La presidenta electa de México, Claudia Sheinbaum, en la Ciudad de México.](https://www.elcomercio.com/wp-content/uploads/2024/06/claudia-sheinbaum-mexico-efe.jpg)
-
-La presidenta electa de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-desafio-seguridad-periodistas.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-desafio-seguridad-periodistas.html"), hizo un llamado este martes 18 de junio de 2024 a los legisladores de su alianza a la “unidad del movimiento”. Esto, más allá de los **partidos políticos** que los abanderan, para aprobar las **reformas constitucionales** que impulsa el Ejecutivo.
-
-### Más noticias
-
-* [Gobierno de Perú pide no entregar planes de investigación contra Dina Boluarte](https://www.elcomercio.com/actualidad/mundo/gobierno-peru-planes-investigacion-dina-boluarte.html "Gobierno de Perú pide no entregar planes de investigación contra Dina Boluarte ")
-* [Dina Boluarte hace una petición al Tribunal Constitucional sobre los relojes Rolex](https://www.elcomercio.com/actualidad/mundo/dina-boluarte-peticion-tribunal-constitucional-relojes-rolex.html "Dina Boluarte hace una petición al Tribunal Constitucional sobre los relojes Rolex")
-* [Dina Boluarte acude a declarar ante el fiscal general](https://www.elcomercio.com/actualidad/mundo/dina-boluarte-fiscal-general-nicanor.html "Dina Boluarte acude a declarar ante el fiscal general")
-
-“Somos un movimiento único en el mundo y debemos asumir esa responsabilidad, no solo la unidad de nuestros partidos, sino la unidad que representa **nuestro movimiento** con el pueblo de México es fundamental”, destacó Sheinbaum.
-
-Claudia Sheinbaum, diputados y senadores
-----------------------------------------
-
-Antes del inicio a puerta cerrada de la primera reunión con los **diputados y senadores** electos sobre las reformas constitucionales propuestas por Andrés Manuel López Obrador, la oficialista pidió no olvidar que su “mandato como **servidores públicos** es **servir al pueblo** de México”.
-
-Sheinbaum recordó las **cinco reformas** que componen el primer paquete a aprobarse al inicio del nuevo congreso el próximo 1 de septiembre. Un mes antes de que ella asuma la presidencia. Incluyen, además de la polémica **reforma judicial**, la de no reelección, del **Instituto de Seguridad y Servicios Sociales** de los Trabajadores del Estado (ISSSTE) y dos nuevos **programas sociales** que prometió durante su campaña.
-
-“Ya estaremos platicando para definir las **prioridades** para septiembre”, declaró la presidenta electa, quien asumirá el próximo 1 de octubre.
-
-Asimismo, pidió seguir siendo “un **ejemplo en todo el mundo** de lo que representa la cuarta transformación”, como se conoce al gobierno de López Obrador.
-
-“En estos seis años que vienen, nos vamos a sentir más orgullosos de ser mexicanos”, afirmó la futura presidenta.
-
-Potencia económica
-------------------
-
-Además se comprometió a avanzar “en ser una potencia económica”, con “**mayor inversión pública** pero también privada”, así como con mayor paz y seguridad y “más derechos y justicia para las mujeres”.
-
-“Vamos a seguir haciendo historia, no solo con la primera mujer presidenta, si no que con los legisladores vamos a poner todo de nuestra parte para seguir construyendo la **cuarta transformación**”, declaró.
-
-Al grito de “presidenta”, y como una muestra de la unidad, los legisladores corearon una y otra vez “Es un honor estar con Obrador” y **“Viva México”,** a petición de Sheinbaum.
-
-El dirigente nacional del partido gobernante, el Movimiento de Regeneración Nacional (Morena), Mario Delgado, enfatizó que aunque la coalición tiene la mayoría en el Congreso y en el Senado, quienes creen que será un **gobierno autoritario**, “se van a quedar con las ganas”.
-
-Mientras que el dirigente nacional del Partido del Trabajo (PT), **Alberto Anaya**, acusó de “una ofensiva desestabilizadora en materia de finanzas”. Ante las fluctuaciones en el peso por la incertidumbre de la reforma al Poder Judicial, que busca, entre otras cuestiones, la elección popular de jueces y ministros.
-
-Sheinbaum dio su mensaje de unidad acompañada de quienes fueron sus principales rivales Marcelo Ebrard, Adán Augusto López, Ricardo Monreal y Gerardo Fernández Noroña.
-
-Conoce las vías habilitadas para llegar a la Amazonía, tras las fuertes lluvias
-===============================================================================
-
-El Gobierno Nacional en coordinación con los gobiernos autónomos descentralizados trabajan en la habilitación de las vías que conectan la Sierra con la Amazonía.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Vías habilitadas para trasladarse a la Amazonía.](https://www.elcomercio.com/wp-content/uploads/2024/06/FOTOS-WEB-12.jpg)
-
-El Gobierno publicó un listado de las vías habilitadas para llegar a la Amazonía, tras las fuertes lluvias, registradas en los últimos días.
-
-Varias vías fueron afectadas por las fuertes lluvias en diferentes provincias del país.
-
-Las provincias más afectadas se ubican en la Sierra y en la Amazonía, por las lluvias del 16 de junio de 2024.
+La Policía Nacional detuvo a un ciudadano de **Corea del Sur** considerado de **alta peligrosidad**, este 18 de junio de 2024.
 
 ### Más noticias:
 
-* [Un cantón en emergencia y activación del COE en ocho localidades por fuertes lluvias en Ecuador](https://www.elcomercio.com/actualidad/ecuador/un-canton-en-emergencia-y-activacion-del-coe-en-ocho-localidades-por-fuertes-lluvias-en-ecuador.html "Un cantón en emergencia y activación del COE en ocho localidades por fuertes lluvias en Ecuador")
-* [¿A qué se deben las intensas e inusuales lluvias de este fin de semana?](https://www.elcomercio.com/actualidad/ecuador/intensas-inusuales-lluvias-ecuador-junio.html "¿A qué se deben las intensas e inusuales lluvias de este fin de semana?")
+* [Policía capturó a dos objetivos de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-objetivos-los-lobos.html "Policía capturó a dos objetivos de Los Lobos")
+* [Policías están desaparecidos tras realizar un operativo de droga en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policias-desaparecidos-guayaquil-allanamiento-droga.html "Policías están desaparecidos tras realizar un operativo de droga en Guayaquil")
+* [Líder de banda criminal ya está en manos de la Policía](https://www.elcomercio.com/actualidad/seguridad/lider-de-banda-criminal-ya-esta-en-manos-de-la-policia.html "Líder de banda criminal ya está en manos de la Policía")
 
-Por esta razón, la intervención del Gobierno Nacional y los gobiernos locales se ha enfocado en restablecer las conexiones viales para garantizar el comercio, el turismo, la producción y la conectividad.
+Según detalló la Institución, el hombre era solicitado por las autoridades coreanas con “**fines de extradición**“.
 
-El Ministerio de Transporte y Obras Públicas (MTOP) y otras instituciones del Gobierno coordinaron con los gobiernos locales de Napo, Sucumbíos, Orellana, Pastaza y Morona Santiago.
+El coreano fue detenido durante el operativo ‘**Fénix 228**‘, ejecutado en **Samborondón**, en Guayas.
 
-Desplegaron personal y equipos técnicos para rehabilitar la infraestructura vial afectada por la época lluviosa en la Región Amazónica.
+**Yi S.** tenía una orden de detención en su país, por cometer delitos contra de la **Ley de Protección Sexual de Niños y Adolescentes** de Corea del Sur y promoción del Uso de Redes de Información y Protección de Información.
 
-Vías habilitadas para llegar a la Amazonía
-------------------------------------------
+Las autoridades no puntualizaron en cuáles son los delitos que el hombre cometió, sin embargo, explicaron que Yi S. tenía en su contra **cinco sentencias condenatorias** que evidencian “su naturaleza violenta”.
 
-El Ministerio de Transporte y Obras Públicas destalló cuáles son las vías que están habilitadas:
+El detenido fue puesto a órdenes de la **Corte Nacional de Justicia**, a la espera de su audiencia y del proceso formal de extradición.
 
-• Napo, la vía Pifo – Baeza – Tena.  
-• Sucumbíos, Pifo – Baeza – Lago Agrio.  
-• Orellana, por la ruta Pifo – Baeza – Narupa – Coca.  
-• Pastaza, Pifo – Baeza – Tena – Puyo.  
-• Morona Santiago, Pifo – Baeza – Tena – Puyo – «Y «de Sevilla Don Bosco – Seipa – Sucúa.  
-• Zamora Chinchipe, utilizar la ruta Pifo – Baeza – Tena – Puyo – «Y «de Sevilla Don Bosco – Seipa – Sucúa – Macas-Gualaquiza – El Pangui – Yantzaza – Zamora, o la Cuenca – Sigshi – Chiguinda – Bomboiza – El Pangui – Yantzaza – Zamora.
+Dos objetivos de Los Lobos fueron detenidos
+-------------------------------------------
 
-El Gobierno y los gobiernos locales continúan con las labores de limpieza de los derrumbes en la Red Vial con personal y maquinaria.
+La Policía capturó a dos objetivos, integrantes al grupo terrorista **Los Lobos**, en Esmeraldas.
 
-Además, existe un monitoreo constante para ejecutar acciones inmediatas ante las emergencias.
+Las investigaciones para dar con las dos personas tomaron varios meses. La misión se concretó este 15 de junio de 2024, en la playa **Las Palmas.**
 
-La ciudaanía puede conocer el estado vial, a nivel nacional, consulte nuestras redes sociales y la página web de la institución: www.obraspublicas.gob.ec
+Los dos objetivos son alias **Pepón** y alias **Piña**, quienes están implicados en varios delitos, como porte de armas.
 
-Una exposición busca sensibilizar sobre el racismo y el colonialismo en Ecuador 
-================================================================================
+**Michael R.**, alias **Pepón**, es un objetivo de intermedio valor y posee boleta vigente de localización y captura, emitida en el 2023 por el delito de asesinato.
 
-La exposición 'Petrona, Úrsula, Isabel: Silencios y resistencias en la historia colonial' explora el impacto del colonialismo y el racismo.
--------------------------------------------------------------------------------------------------------------------------------------------
+**Wilfrido M.**, alias **Piña**, en cambio, cuenta con una orden vigente por el delito de porte y tenencia de armas de fuego, emitida en el 2024.
 
-!['Petrona, Úrsula, Isabel: silencios y resistencias en la historia colonial' revela la deshumanización y resistencia de los colonizados. Foto: Cortesía Museo del Carmen Alto.](https://www.elcomercio.com/wp-content/uploads/2024/06/exposicion-museo-carmen-alto.jpg)
+Ambos están relacionados con delitos como asesinato, robo, porte y tenencia de armas, ejecutados en los cantones de **Atacames y Esmeraldas**.
 
-El **Museo del Carmen Alto** presenta la exposición temporal ‘Petrona, Úrsula, Isabel. Silencios y resistencias en la historia colonial’.  
+Río Verde, en Baños, está a un paso de ser reubicado
+====================================================
 
-### Más noticias
+En la parroquia Río Verde, en Baños, un deslave dejó varios muertos y desaparecidos.
+------------------------------------------------------------------------------------
 
-* [Quito celebra los museos con eventos únicos](https://www.elcomercio.com/tendencias/cultura/dia-museos-quito-cultura-actividades-efemeride.html "https://www.elcomercio.com/tendencias/cultura/dia-museos-quito-cultura-actividades-efemeride.html")
-* [Una feria interactiva de museos llega al MuNa](https://www.elcomercio.com/tendencias/cultura/museo-muna-cultura-feria-quito.html "https://www.elcomercio.com/tendencias/cultura/museo-muna-cultura-feria-quito.html")
+![El deslave de Río Verde, en Baños, se produjo el domingo 16 de junio de 2024. Foto: Julio Estrella / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/06/Deslave-Banos-Rio-Verde.jpg)
 
-Esta exposición aborda el impacto de la **estructura colonial** en la sociedad actual ecuatoriana. Se destacan los silencios, opresiones y resistencias de pueblos indígenas y afrodescendientes en los conventos.  
+En el sector **Río Verde**, zona cero del deslave que ocurrió en **Baños** (Tungurahua), el pasado domingo 16 de junio de 2024, una imagen impacta a todos los que llegan al lugar[.](https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador) "https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador)")
 
-La muestra se enfoca en la **deshumanización** y resistencia de los **colonizados**. Con el apoyo del Centro de Investigación de Estudios de África y Afroamérica de la Universidad Amawtay Wasi, se invita a reflexionar sobre la **herencia colonial** y su relación con el **racismo estructural** actual. 
+Más noticias
+------------
 
-**Petrona, Úrsula, Isabel. Silencios y resistencias en la historia colonial** 
-------------------------------------------------------------------------------
+* [La tragedia en Baños por los deslaves se podía prevenir](https://www.elcomercio.com/opinion/editorial/tragedia-banos-deslaves-podia-prevenir.html "La tragedia en Baños por los deslaves se podía prevenir")
+* [Baños y Penipe reciben recursos pendientes del MEF por emergencia](https://www.elcomercio.com/actualidad/gobierno-daniel-noboa-recursos-pendientes-banos-penipe-emergencia.html "Baños y Penipe reciben recursos pendientes del MEF por emergencia")
+* [Alcalde de Baños anuncia detalles de las víctimas del deslizamiento en El Placer](https://www.elcomercio.com/actualidad/ecuador/cifras-oficiales-banos-deslizamiento.html "Alcalde de Baños anuncia detalles de las víctimas del deslizamiento en El Placer")
 
-Con información de la [Fundación Museos de la Ciudad](https://fundacionmuseosquito.gob.ec/petrona-ursula-isabel-silencios-y-resistencias-en-la-historia-colonial/ "https://fundacionmuseosquito.gob.ec/petrona-ursula-isabel-silencios-y-resistencias-en-la-historia-colonial/"), esta muestra destaca las opresiones y resistencias de los **pueblos indígenas** y **afrodescendientes** en los conventos, que representaban la estructura social, política y económica de la Real Audiencia.  
+El letrero que da la bienvenida al pueblo está en medio de una montaña de lodo. Allí, donde antes pasaba la carretera, una catarata de escombros y barro ha sepultado al letrero. La valla mide 5,3m, como dice la norma INEN para este tipo de letreros. El fango llega a casi 4 metros. Así de triste es la bienvenida que ahora da a rescatistas y vecinos del lugar que no salen del estupor de la avalancha que ha llegado para borrar a Río Verde de la faz de Tungurahua.
 
-La exposición promueve un posicionamiento informado sobre el **legado colonial** y el **racismo estructural** en la sociedad ecuatoriana. Es relevante para la reflexión y sensibilización social frente al **racismo**, al identificar la **herencia colonial** resultante de la violencia y el sometimiento. 
+El **sonido ambiental** ya no era el del viento moviendo las hojas de los árboles ni del zumbido de los pájaros. Ahora sobrevuela el ronquido del **metal de la maquinaria** pesada que golpea el cemento de las **casas destruidas** de Río Verde, un pueblo que tenía 1 337 habitantes, según el último censo.
 
-La muestra cuestiona las estrategias sociales que llevaron a la **deshumanización de personas** mediante justificaciones religiosas y raciales. También explica el contexto y la historia de los **colonizadores** y su relación con los **conventos**, parte de las instituciones coloniales.  
+El **paisaje**, de ser en su mayoría verde, ahora era marrón, con los uniformes escolares todavía colgados en el alambre de ropa; como si una **guerra** hubiese ocurrido en el sector, porque de sus habitantes no queda nadie. Fueron **reubicados** temporalmente, sin mucha esperanza de que puedan retornar.
 
-Resignifica la historia de las **personas colonizadas** y **esclavizadas**, al destacar la resistencia y rebeldía a través de historias de mujeres y casos de archivo.  
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/Deslave-Banos-de-Agua-Santa-1024x683.jpg)
 
-Genera una conexión entre pasado y presente, lo que permite identificar la continuidad de la colonialidad en la actualidad.  
+La familia de esta casa tuvo que dejar hasta su ropa recién lavada para irse a un lugar más seguro. Foto: Julio Estrella / EL COMERCIO
 
-**Una exposición que nos sumerge en nuestra herencia colonial**  
------------------------------------------------------------------
+En el intento de llegar hasta la zona cero, donde estaba toda la maquinaria, el personal de rescate, bomberos, policías y canes de rastreo, una persona que vive a escasos metros del incidente hizo de guía.
 
-![La exposición, inaugurada desde finales de 2023, rescata los silencios y personajes omitidos por la historia oficial. Foto: Cortesía Museo del Carmen Alto.](https://www.elcomercio.com/wp-content/uploads/2024/06/exposicion-museo-carmen-alto-1-1024x683.jpg)
+No porque la gente se pueda perder, sino porque había pocos lugares por donde se podía **caminar seguro**, sin resbalarse y sin hundirse mucho. Esto, a pesar de que tenían botas de caucho. Aunque el calzado de poco importaba si la fuerza de la **naturaleza** de nuevo **atacaba**.
 
-La exposición, inaugurada desde finales de 2023, rescata los silencios y personajes omitidos por la historia oficial. Foto: Cortesía Museo del Carmen Alto.
+La segunda impresión fue ver a la **gente destrozada**, cansada y sin muchos ánimos con los **ojos hinchados**. Eran familiares de los **fallecidos** que hablaban con el alcalde de Baños, **Marlon Guevara**.
 
-La muestra, trabajada desde finales de 2023, se enfoca en aquellos silencios y **personajes no contados** por la historia oficial.  
+La frase que más se repitió en la conversación entre los **familiares** y **Guevara** fue la de: “ayúdenos, alcalde, ayúdenos. No nos deje solos. Ya perdimos suficiente”.
 
-La exposición cuenta con el asesoramiento del **Centro de Investigación de Estudios de África y Afroamérica** de la **Universidad Amawtay Wasi**.  
+Hasta ese momento, la cifra de personas **fallecidas** y **muertas** era incierta. Y la pregunta que todos los extraños con micrófonos y cámaras en la mano le hacían al **Alcalde** era sobre ese tema.
 
-Se organiza en tres líneas discursivas: humanizar a las personas **afrodescendientes** e **indígenas** invisibilizadas por la historia colonial, evidenciar sus luchas y resistencias, y conectar estas violencias entre el pasado y el presente para una **relectura actual** del racismo y la violencia estructural.  
+En su nerviosismo y estrés, **Guevara** contestó que eran 13 fallecidos y 4 desaparecidos. Los cuestionamientos no pararon en llegar.
 
-La revisión crítica de archivos y documentos históricos de los siglos XVII al XIX revela los silencios, ausencias y resistencias de las **personas esclavizadas** y en servidumbre, principalmente en espacios conventuales.  
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/Banos-deslave-1024x683.jpg)
 
-Este ejercicio de memoria busca convertirnos en agentes activos contra la desmemoria, la **discriminación** y el **racismo**, lo que fomenta una toma de conciencia sobre la violencia continua de nuestra historia colonial. 
+Operadores utilizan maquinaria pesada para removel el lodo de Río Verde. Foto: Julio Estrella / EL COMERCIO
 
-**¿Hasta cuándo estará abierta la exposición?** 
-------------------------------------------------
+\-¿Por qué no dicen que son 30 los **desaparecidos**, **Alcalde**? -preguntaban en conjunto los rioverdenses-. ¿Por qué manejan otras **cifras** a las que tienen otras entidades?
 
-La exposición estará disponible hasta septiembre de 2024 y se puede visitar en el **Museo del Carmel Alto**, ubicado en el **Centro Histórico de Quito**, en la calle García Moreno y Rocafuerte (frente al arco de la Reina). El horario del museo es de miércoles a domingo, de 9:30 a.m. a 5:30 p.m. Para más información, visita: [https://fundacionmuseosquito.gob.ec/mca1/](https://fundacionmuseosquito.gob.ec/mca1/) 
+La respuesta del alcalde Guevara era: “porque esta es una **vía de paso también** y no hay señal. Esperemos a que las otras personas lleguen a su lugar de destino y se contacten. Tengamos paciencia”.
 
-¿Quién es Jon Lee Anderson?, periodista de The New Yorker que dialogó con Daniel Noboa
-======================================================================================
+Luego de unos minutos, con la mente queriendo escapar de ese lugar, se escuchó como 10 veces: “la camilla, la camilla, traigan la camilla”.
 
-Jon Lee Anderson es un periodista estadounidense conocido por sus reportajes en zonas de conflicto y biografías de figuras políticas.
--------------------------------------------------------------------------------------------------------------------------------------
+De repente, todos **empezaron a correr** y una camilla de metal pasó hacia donde estaba la maquinaria pesada y junto a un grupo de **rescatistas**. En ese punto encontraron un cuerpo.
 
-![Jon Lee Anderson, periodista de The New Yorker en la Feria Internacional del Libro en Guadalajara, México.](https://www.elcomercio.com/wp-content/uploads/2024/06/jon-lee-anderson.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/Recuperacion-de-cuerpo-en-Rio-Verde-Banos-1024x683.jpg)
 
-Nacido el 15 de enero de 1957 en **California**, Anderson comenzó su carrera periodística en **América Latina**. A lo largo de los años, ha trabajado para diversas publicaciones de prestigio, incluyendo **Time y The New York Times.**
+Los bomberos junto a los canes de rastreo encuentran el cadáver número 13 Foto: Julio Estrella / EL COMERCIO
 
-### Más noticias
+Es increíble cómo alguien pasa de tener **nombre** y **apellido** a ser solo un número. Todos decían: “es el **cuarto muerto** que encontramos en esta zona”. Desde ese momento unos lo llamaban el **cadáver** número cuatro, o 13.
 
-* [¿Criterios de Daniel Noboa sobre Bukele, Milei y Boric fueron descontextualizados por The New Yorker?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html)
-* [Daniel Noboa habló de un supuesto intento de asesinato en su contra, según The New Yorker](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-supuesto-intento-asesinato-su-contra.html)
+En el punto donde encontraron el cuerpo número 13, que ahora no hay más que **lodo**. Antes allí estaba edificada una casa. La infraestructura desapareció por completo.
 
-Sin embargo, su asociación más larga y significativa ha sido con **The New Yorker**, donde ha publicado una gran cantidad de **artículos y reportajes profundos**. Anderson es conocido por su capacidad para acceder a **zonas de conflicto y ofrecer narrativas detalladas y humanas** de eventos complejos.
+En la premura del estrés de la información, a la gente no le quedaba claro un problema: “¿por qué le dicen el cuerpo 13 si con este serían 14?”. Algo no cuadraba en la suma.
 
-Dentro de su cobertura incluye conflictos en **Afganistán, Irak, Líbano, Libia, Siria** y varios países africanos y latinoamericanos. Su estilo de escritura combina un **profundo conocimiento histórico** con una perspectiva personal, lo que le ha permitido **ganar la confianza** de sus lectores y la admiración de sus colegas.
+El personal de **rescate** que estaba en un espacio que hicieron como su base de operaciones no sabía el dato exacto. O no podían decirlo, para evitar más dolor.
 
-Su especialidad es la **crónica de guerra** y la elaboración de perfiles. Ha estado presente en el frente de los conflictos bélicos de **Iraq y Afganistán**, de los que ha publicado los libros **‘La tumba del León’** y **‘La caída de Bagdad’**, cuya reportería la hizo en **árabe y farsí**, idiomas que maneja con facilidad[.](https://es.wikipedia.org/wiki/Jon_Lee_Anderson)
+Pasados unos cuantos minutos, un agente de la **Policía Nacional** se acercó al alcalde a decirle que el dato exacto es de 13 **fallecidos** y un **desaparecido** \-eran las 12:30 del martes 18 de junio-.
 
-El reportaje sobre **Daniel Noboa** es su segundo trabajo sobre Ecuador para **The New Yorker**, en 2021 publicó un reportaje sobre el **impacto de la pandemia en Guayaquil** y el resto del país.
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/Limpieza-de-Rio-Verde-Banos-1024x683.jpg)
 
-> Ecuador’s recently elected president, Daniel Noboa, has declared war on the country’s drug gangs. But is he imperiling the democracy he claims to defend? [https://t.co/YBn4YMEQWz](https://t.co/YBn4YMEQWz)
-> 
-> — The New Yorker (@NewYorker) [June 18, 2024](https://twitter.com/NewYorker/status/1803151288059736547?ref_src=twsrc%5Etfw)
+La maquinaria abrió un paso para que puedan ser sacados los cuerpos de los fallecidos. Foto: Julio Estrella / EL COMERCIO
 
-Obras destacadas de Jon Lee Anderson
-------------------------------------
+Unas horas más tarde, alrededor de las 14:30, unas cuatro camionetas salieron por un pequeño camino que hicieron con la **maquinaria pesada**.
 
-Además de sus artículos periodísticos, **Anderson** ha escrito varios libros aclamados. Entre ellos destaca “**Che Guevara: A Revolutionary Life**” (1997), una biografía exhaustiva del **líder revolucionario argentino-cubano** que se ha convertido en una referencia esencial sobre el tema[.](https://es.wikipedia.org/wiki/Jon_Lee_Anderson "https://es.wikipedia.org/wiki/Jon_Lee_Anderson")
+Eran las **familias** de los **fallecidos** que llevaron los cuerpos de sus seres queridos hasta la iglesia de **Baños**, donde se realizó una **misa en su honor.**
 
-Otros libros notables incluyen “**The Fall of Baghdad**” (2004), que ofrece una crónica detallada de la invasión estadounidense a Irak, y “**Guerrillas: Journeys in the Insurgent World**” (1992), que explora la vida de **varios movimientos insurgentes** en diferentes partes del mundo.
+Entre la **desesperación** y la **resignación**, la fortaleza humana de sobreponerse a las adversidades se hace presente y la frase “entre todos arrimamos el hombro” toma significado.
 
-Jon Lee Anderson y sus reconocimientos
+Los vecinos de los **afectados**, con escobas y palas, tratan de limpiar. También intentan salvar lo poco o nada que se libró del deslave. Así sean unas cuantas **naranjas** o **mandarinas**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/Vecinos-recolectando-las-frutas-del-camion-sepultado-por-el-lodo-1024x683.jpg)
+
+Vecinos ayudan a recuperar la fruta de un camión que fue golpeado por el lodo. Foto: Julio Estrella / EL COMERCIO
+
+¿Se pudo prevenir el deslave de Baños?
 --------------------------------------
 
-El trabajo de Anderson ha sido ampliamente reconocido y premiado. Ha recibido numerosos galardones, incluyendo el Premio **Maria Moors Cabot** de la **Universidad de Columbia**, uno de los más prestigiosos en el periodismo latinoamericano. Su habilidad para combinar la investigación rigurosa con la narración envolvente le ha permitido destacar en un **campo competitivo y complejo**.
+Por el masivo **deslave** Las autoridades declararon en **emergencia** la **vía** y varias personas resultaron afectadas.
 
-A lo largo de su carrera, Anderson ha demostrado un compromiso inquebrantable con la búsqueda de la **verdad y la exposición de injusticias**.
+El alcalde, **Marlon Guevara**, en medio de las obras dio una rueda de prensa. Allí, este Diario preguntó sobre las razones del deslave. Dijo que esto ocurrió porque hace más de 20 años no llovió de la manera que lo hizo la madrugada del domingo.
 
-Su trabajo no solo informa, sino que también invita a la reflexión y al debate, contribuyendo significativamente al entendimiento global de los **conflictos y las dinámicas sociales** contemporáneas.
+Señaló que la lluvia hizo que todo el **lodo** y la **parte** **vegetal** de la cima de la **montaña** se desprendiera y bajara con fuerza.
 
-En resumen, **Jon Lee Anderson** es un periodista cuya carrera está marcada por la **excelencia y el compromiso**. Su trabajo en **The New Yorker** y sus numerosas publicaciones han dejado una huella indeleble en el **periodismo moderno**, destacando la importancia del **periodismo de investigación** en la comprensión de nuestro mundo.
+**Cristopher** **Velasco**, experto en gestión de riesgos, consultado por este Medio, señaló que sí era factible realizar acciones para **disminuir los daños ante un posible aluvión**. Explicó que esto no es solo es competencia del Municipio de Baños, sino también del **Gobierno Nacional**.
 
-Principales puntos del reportaje de Jon Lee Anderson con Daniel Noboa para The New Yorker
------------------------------------------------------------------------------------------
+Velasco resaltó que como alcalde del lugar, **Guevara** debería conocer bien la topografía del lugar, por lo que debía trabajar en la **disminución de los riesgos**, entre ellos en los **asentamientos humanos** en los sectores de alto riesgo.
 
-En una reciente entrevista con **The New Yorker** realizada por **Jon Lee Anderson**, Daniel Noboa, el recién electo Presidente de **Ecuador**, reveló la extrema peligrosidad a la que se enfrenta desde que asumió el cargo.
+**Wilson Goyes**, también experto en **gestión** de **riesgos**, dijo que lo único que se podía hacer en estos casos es mover a las personas a otro lugar, antes de que ocurra el deslave.
 
-Los diálogos entre **Noboa y Anderson** fueron en su mayoría en inglés, a pesar de que el reportero de **The New Yorker** habla un **español perfecto**. Noboa, a su vez, ha estudiado en el exterior y se desenvuelve con naturalidad en inglés.
+Ambos señalan que deben existir planes de trabajo y **monitoreos constantes** de las zonas de alto **riesgo**. Sin esto, las autoridades seguirán trabajando en modo de **respuesta** y no de **prevención** y **disminución** de **riesgos**.
 
-Noboa compartió en su entrevista que sicarios enviados por **narcotraficantes** intentaron asesinarlo, resultando en la muerte de **cuatro atacantes** durante un enfrentamiento con las fuerzas de seguridad ecuatorianas. Este incidente **subraya la inseguridad constante que enfrenta Noboa**, quien señaló con una risa irónica que nunca estaría fuera de peligro.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C8agL0LvVRJ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/C8agL0LvVRJ/?utm_source=ig_embed&utm_campaign=loading)
 
-En su entrevista con Anderson, Noboa detalló que está liderando un **conflicto armado interno** contra veintidós **bandas criminales** que representan una de las fuerzas más poderosas del país. Solo unos meses después de su toma de posesión, Noboa supervisa un conflicto que ha definido su mandato.
+Reubicación de la población de Río Verde
+----------------------------------------
 
-El Primer Mandatario también habló sobre otras autoridades de la región como [Javier Milei, Gabriel Boric y Nayib](https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html "https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html") [Bukele,](https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html "https://www.elcomercio.com/actualidad/politica/daniel-noboa-refirio-bukele-milei-boric.html") que generaron críticas por sus opiniones.
+El alcalde, **Marlon Guevara,** dijo que existe la urgencia de reubicar a la población del sector **Río Verde**.
 
-A pesar de los desafíos, Noboa continúa decidido a combatir la **influencia del narcotráfico en Ecuado**r, demostrando su firmeza y compromiso con la **seguridad naciona**l en su entrevista con **The New Yorker**.
+El Alcalde señaló que tiene una propiedad de 20 000 metros cuadrados donde puede ser reubicada la población, aunque desconoce los mecanismos legales para poder hacerlo.
+
+Señaló que el **Gobierno Nacional** le pide un terreno donde puedan vivir los afectados para que se pueda gestionar la **construcción de las viviendas** y la gente pueda estar tranquila.
+
+También dijo que puede hacer un **bono** para **arrendamientos** y que en un determinado tiempo se puedan encontrar casas donde la población pueda pernoctar algunas noches.
+
+Guevara afirmó que en el lugar del deslave había 15 viviendas, de las cuales seis fueron completamente destruidas, y también tiene otras 65 familias que viven en el pueblo El Placer, que ya no quieren estar más ahí por miedo.
+
+Reencuentro de una madre y su bebé tras el deslave conmueve en redes sociales
+=============================================================================
+
+La madre y su pequeño hijo se reencontraron tras ser afectados por el deslave de Baños.
+---------------------------------------------------------------------------------------
+
+![Usuarios en redes sociales mostraron su emoción por el reencuentro de la madre y su hijo](https://www.elcomercio.com/wp-content/uploads/2024/06/madre-bebe-video.jpg)
+
+El video del reencuentro de una **madre** con su **bebé** tras sobrevivir al **deslave** ocurrido en el cantón **Baños**, en Tungurahua, conmueve en redes sociales.
+
+En las imágenes difundidas por el medio RTS se observa como la mujer **llora de la alegría** al ver a su hijo en buenas condiciones.
+
+### Noticias relacionadas:
+
+* [La tragedia en Baños por los deslaves se podía prevenir](https://www.elcomercio.com/opinion/editorial/tragedia-banos-deslaves-podia-prevenir.html "La tragedia en Baños por los deslaves se podía prevenir")
+* [Baños y Penipe reciben recursos pendientes del MEF por emergencia](https://www.elcomercio.com/actualidad/gobierno-daniel-noboa-recursos-pendientes-banos-penipe-emergencia.html "Baños y Penipe reciben recursos pendientes del MEF por emergencia")
+* [Alcalde de Baños anuncia detalles de las víctimas del deslizamiento en El Placer](https://www.elcomercio.com/actualidad/ecuador/cifras-oficiales-banos-deslizamiento.html "Alcalde de Baños anuncia detalles de las víctimas del deslizamiento en El Placer")
+
+La madre le repite entre llantos al pequeño: “**Tu madre hizo lo que pudo**, tu madre hizo lo que pudo”, mientras lo abraza.
+
+El video muestra como la mujer tiene todavía los estragos de las **heridas** que el aluvión le provocó.
+
+Quienes acompañan a la madre, entre ellos una funcionaria de salud, se emocionan por el **emotivo momento** que observan.
+
+> ¡EMOTIVO! 😭❤️ Una madre se reencontró con su bebé luego de sobrevivir al aluvión que ocurrió en el sector de Quilloturo, del cantón Baños [pic.twitter.com/n7iel1UdKm](https://t.co/n7iel1UdKm)
+> 
+> — RTS (@RTSEcuador) [June 19, 2024](https://twitter.com/RTSEcuador/status/1803507727853035840?ref_src=twsrc%5Etfw)
+
+Usuarios en redes sociales mostraron su alegría al ver que tanto el niño como su madre **sobrevivieron**.
+
+“Que bien le hace a la humanidad este tipo de videos, puro amor, amor del bueno, que diferente fuera el mundo si la gente amara así”, comentó **Orlando Pinela** en Instagram.
+
+Fatal deslave sorprendió a los moradores de Baños
+-------------------------------------------------
+
+En la noche del sábado 15 de junio de 2024, una torrencial lluvia cayó sobre las provincias de **Tungurahua** y **Chimborazo**.
+
+**Baños y Penipe** fueron los sectores más afectados de las precipitaciones, que, con el paso de las horas, se transformaron en **deslaves** y **socavones**.
+
+Esta emergencia dejó el lamentable saldo de **13 personas fallecidas** y una **desaparecida.**
+
+Los múltiples deslaves dejaron, además, cerca de **mil afectados** en 13 provincias del Ecuador, quienes vieron destruidas sus viviendas y vehículos.
+
+En varios puntos del país se registraron **vías dañadas** y puentes rotos.
+
+¿Quién es Pablo ‘Vitamina’ Sánchez, el nuevo DT de Liga de Quito?
+=================================================================
+
+Tras varias semanas de espera, Liga de Quito tiene al fin nuevo DT. Se trata del argentino Pablo 'Vitamina' Sánchez.
+--------------------------------------------------------------------------------------------------------------------
+
+![Pablo 'Vitamina' Sánchez será el nuevo DT de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-19T205122.874.jpg)
+
+**Liga** **de** **Quito** anunciará este jueves 20 de junio a Pablo ‘Vitamina’ Sánchez como el nuevo entrenador del ‘Rey de Copas’. El argentino llega para reemplazar a Patricio Hurtado, que fue técnico interino tras la partida de Josep Alcácer. 
+
+Encontrar un nuevo DT fue una odisea para Liga de Quito, varios nombres y varios rumores estuvieron presentes. Inclusive el conjunto albo estuvo a casi nada de fichar a **Luis Fernando Suárez**, ex DT de la Selección de Ecuador, pero finalmente la dirigencia optó por ‘Vitamina’. 
+
+### Más noticias:
+
+* [‘Vitamina’ Sánchez ratifica que Liga de Quito es el más grande de Ecuador](https://www.elcomercio.com/deportes/liga-quito-pablo-vitamina-sanchez-presentacion.html "‘Vitamina’ Sánchez ratifica que Liga de Quito es el más grande de Ecuador")
+* [Pablo ‘Vitamina’ Sánchez asume como DT de Liga de Quito](https://www.elcomercio.com/deportes/futbol/liga-quito-pablo-vitamina-sanchez-dt.html "Pablo ‘Vitamina’ Sánchez asume como DT de Liga de Quito")
+
+¿Quién es Pablo ‘Vitamina’ Sánchez?
+-----------------------------------
+
+Pablo Andrés Sánchez, más conocido como **‘Vitamina’ Sánchez**, es un exfutbolista y entrenador argentino de 51 años. 
+
+Como **futbolista**, ‘Vitamina’ fungió como mediocampista y vistió las camisetas de Rosario Central, Gimnasia y Esgrima de La Plata y Quilmes, en Argentina. En Europa defendió los colores del **Feyenoord** (Países Bajos) y del Deportivo Alavés (España).
+
+Su carrera como entrenador arrancó en 2007 en **Banfield de Argentina**. Luego pasó a Rosario Central en 2008. Ese fue el último club en su país.
+
+Desde 2009 arrancó un periplo por **Oriente Petrolero de Bolivia**; Universidad de Concepción, O’Higgins, Everton, Deportes Iquique, Audax Italiano y Palestino de Chile.
+
+**‘Vitamina’ lleva dirigidos 398 partidos**, ganó 155, empató 120 y perdió 123. Su **rendimiento es del 48,99%**, es decir, menos de la mitad de los puntos que disputó los ganó.
+
+En casi 20 años de carrera como director técnico solo levantó un título. Fue campeón de la Primera B, segunda división de Chile, con Universidad de Concepción en 2013. 
+
+¿Cuándo llega Pablo ‘Vitamina’ Sánchez a la ‘U’?
+------------------------------------------------
+
+**Liga de Quito** anunció que su nuevo entrenador será presentado el jueves 20 de junio del 2024. El evento en el cual ‘Vitamina’ hará su primera aparición pública con la [escuadra universitaria](https://www.instagram.com/ldu_oficial/?hl=en) será en un hotel de la capital.
+
+El argentino tendrá hasta el 14 de agosto, fecha en que inicia la segunda etapa de la **Liga Pro**, para realizar los trabajas con su equipo y que tanto él como jugadores se adapten entre sí. A su vez, los albos podrán sumar refuerzos y evaluar salidas.
+
+Ecuador se prepara para la temporada de avistamiento de ballenas
+================================================================
+
+Las ballenas jorobadas llegan a Ecuador entre junio y octubre de cada año.
+--------------------------------------------------------------------------
+
+![El avistamiento de ballenas se realiza en cuatro provincias del Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/06/jorobadas-ballenas.jpg)
+
+La época de avistamiento de **ballenas jorobadas** está pronta a llegar a Ecuador.
+
+Entre **junio y octubre**, los cetáceos arriban desde el norte del Antártico hasta las proximidades de las playas ecuatorianas para **aparearse** y **dar a luz** a sus crías.
+
+### Más noticias:
+
+* [Cortes de luz de hoy son por falta de inversión; ‘se pudo haber evitado’, señala Roberto Luque](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-ecuador-falta-inversion-roberto-luque.html "Cortes de luz de hoy son por falta de inversión; ‘se pudo haber evitado’, señala Roberto Luque")
+* [Las lluvias se mantendrán en Ecuador; Inmahi pide precaución](https://www.elcomercio.com/actualidad/ecuador/clima-lluvias-ecuador-inmahi-alerta.html "Las lluvias se mantendrán en Ecuador; Inmahi pide precaución")
+* [La tragedia en Baños por los deslaves se podía prevenir](https://www.elcomercio.com/opinion/editorial/tragedia-banos-deslaves-podia-prevenir.html "La tragedia en Baños por los deslaves se podía prevenir")
+
+Este espectáculo natural llama la atención de los **turistas nacionales y extranjeros**, que, año a año, acuden a **Esmeraldas, Manabí, Santa Elena y El Oro** a observar de cerca la presencia de las ballenas.
+
+**Niels Olsen**, ministro de Turismo, señaló que los comerciantes locales esperan que esta temporada dinamice la economía.
+
+“Este tipo de espectáculos es un gran ejemplo de cómo el turismo es utilizado como un vehículo de **conservación y desarrollo**”, aseguró el funcionario.
+
+Ecuador se prepara para el avistamiento de ballenas
+---------------------------------------------------
+
+El **Ministerio de Turismo** lanzó oficialmente el cronograma de la temporada de avistamiento de ballenas en Ecuador.
+
+Durante una rueda de prensa realizada el martes 18 de junio de 2024, la Cartera de Estado, junto a los municipios de **Santa Elena**, **Salinas** y **Puerto López,** detallaron las fechas en las que los turistas podrán observar a las **ballenas jorobadas**.
+
+### Manabí
+
+**Puerto López**, ciudad de Manabí, es uno de los lugares favoritos de los viajeros para avistar los cetáceos.
+
+En este lugar, la temporada se iniciará el **22 de junio**; un total de **19 operadoras** están autorizadas, con 19 embarcaciones.
+
+### Santa Elena
+
+En la provincia de Santa Elena el avistamiento de ballenas se lo realizará en los cantones **Salinas** y **Santa** **Elena**.
+
+En el caso de Salinas, el espectáculo se inaugurará el **29 de junio** a través de cinco operadoras y embarcaciones autorizadas.
+
+Mientras que en las 22 playas del cantón Santa Elena, la temporada arrancará una semana después, el **6 de julio**. En esta localidad hay **siete operadoras** y 17 embarcaciones autorizadas.
+
+Existen 17 operadoras más habilitadas en Santa Elena para movilizar a los turistas hacia la **Isla de la Plata**.
+
+### Esmeraldas y El Oro
+
+En la provincia de Esmeraldas los avistamientos de ballenas ocurren en **Atacames**, Tonsupa, Súa y Muisne
+
+Por su parte, en El Oro, el espectáculo es visible desde los alrededores de la **isla Santa Clara**, en el cantón Santa Rosa. 
+
+> ¡Vive una experiencia única! De julio a octubre, nuestras costas 🇪🇨 se llenan de vida con la llegada de las majestuosas [#BallenasJorobadas](https://twitter.com/hashtag/BallenasJorobadas?src=hash&ref_src=twsrc%5Etfw). ☀️🐋 Maravíllate con sus espectaculares saltos y danzas durante la temporada de apareamiento y nacimiento de crías. ⤵️ [pic.twitter.com/KS523QNtA4](https://t.co/KS523QNtA4)
+> 
+> — Ministerio de Turismo del Ecuador 🇪🇨 (@TurismoEc) [June 18, 2024](https://twitter.com/TurismoEc/status/1803186375262400563?ref_src=twsrc%5Etfw)
+
+Consejos para el avistamiento de ballenas
+-----------------------------------------
+
+La ballena jorobada es el **quinto cetáceo más grande del planeta**, llegando a pesar hasta 30 toneladas y medir 16 metros de largo.
+
+Verlas de cerca mientras visitan el Ecuador es uno de los espectáculos turísticos más **importantes del año**.
+
+Sin embargo, el avistamiento de ballenas requiere de recomendaciones especiales, tanto para los visitantes como para los operadores de turismo.
+
+El Ministerio de Turismo aconseja:
+
+* Contratar **operadores de turismo registrados** y con licencia de funcionamiento.
+* Utilizar **chalecos salvavidas** tanto los pasajeros, como la tripulación.
+* No excederse de un tiempo de **25 minutos** durante el avistamiento.
+* Mantener una distancia de **100 metros** al avistar las ballenas.
+* Durante la movilización cercana a los cetáceos, mantener una velocidad de **8 km/h**.
+* **No ponerse de pie** durante el avistamiento para evitar caer al mar.
+* No lanzar **desperdicios** o comida.
+* No buscar el **contacto físico** con las ballenas jorobadas.
+
+Comisión aprobó informe de fiscalización sobre proyecto en Olón y recomendó juicios políticos
+=============================================================================================
+
+El Pleno de la Asamblea deberá conocer el informe de fiscalización sobre el proyecto inmobiliario en Olón, sus conclusiones y recomendaciones.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Sesión de la Comisión de Gobiernos Autónomos de la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/06/FOTOS-WEB-18.jpg)
+
+La **Comisión de Gobiernos Autónomos Descentralizados** de la **Asamblea Nacional** aprobó el informe de fiscalización sobre el proyecto inmobiliario en **Olón**, Santa Elena y recomendó **juicios políticos** para cuatro ministros de Estado.
+
+Esto, pese a que la compañía Vinazin S.A., creada por el presidente Daniel Noboa y, en la actualidad, con la participación accionaria de su esposa Lavinia Valvonesi, anunció que suspendía el proyecto inmobiliario ECHO en esa zona.
+
+### Más noticias:
+
+* [Pleno de la Asamblea trata el tema del proyecto inmobiliario en Olón](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-proyecto-inmobiliario-olon.html "Pleno de la Asamblea trata el tema del proyecto inmobiliario en Olón")
+* [Vinazin anuncia la suspensión de labores en proyecto de Olón](https://www.elcomercio.com/actualidad/politica/proyecto-en-olon-toma-otro-rumbo-en-ecuador.html "Vinazin anuncia la suspensión de labores en proyecto de Olón")
+
+Vinazin S.A. contaba con el permiso ambiental para construir en esa zona, pese a ello, en mayo, anunció la suspensión del proyecto.
+
+El Pleno de la Asamblea conoció el caso y la Comisión de Gobiernos Autónomos Descentralizados se encargó de la fiscalización del mismo.
+
+La tarde de este miércoles 19 de junio de 2024, esta Comisión aprobó el informe final con ocho votos a favor. El documento será puesto a consideración del Pleno de la Asamblea.
+
+La Comisión recomienda cuatro juicios políticos
+-----------------------------------------------
+
+En sus conclusiones y recomendaciones finales, la Comisión recomienda al Pleno de la Asamblea iniciar cuatro juicios políticos por este caso.
+
+Los juicios políticos serían por incumplimiento de funciones y la falta de atención a los pedidos de información de la Asamblea; así como la falta de asistencia a las comparecencias.
+
+Los funcionarios contra los que se promueven juicios políticos en este informe son: la ministra de Ambiente, **Sade Fritschi**; el ministro de Defensa, **Gian Carlo Loffredo**; el ministro de Turismo, Niels Olsen y la ministra del Interior, Mónica Palencia.
+
+Comisión recomienda remitir el informe a la Contraloría y a la Fiscalía
+-----------------------------------------------------------------------
+
+La Comisión de Gobiernos Autónomos recomienda al Pleno remitir el informe de fiscalización sobre el proyecto inmobiliario en Olón a la Contraloría General del Estado y a la Fiscalía.
+
+A la Contraloría para que realice un examen especial sobre el caso.
+
+Y a la Fiscalía para que investigue posibles infracciones en el otorgamiento del registro ambiental a la empresa Vinazín S.A..
+
+Nuevo Ministro de Salud define sus prioridades
+==============================================
+
+El ministro de Salud, Antonio Naranjo, reemplaza a Franklin Encalada, quien renunció al cargo.
+----------------------------------------------------------------------------------------------
+
+![El nuevo Ministro de Salud, Antonio Naranjo, fue designado el martes 18 de junio de 2024, por el presidente Daniel Noboa.](https://www.elcomercio.com/wp-content/uploads/2024/06/FOTOS-WEB-16.jpg)
+
+El nuevo **ministro de Salud**, **Antonio Naranjo**, definió las prioridades para su gestión al frente de esta cartera de Estado.
+
+Antonio Naranjo fue designado el martes 18 de junio de 2024, vía **Decreto Ejecutivo** del presidente **Daniel Noboa** y hoy acudió a las oficinas del Ministerio de Salud para presentarse.
+
+### Más noticias:
+
+* [Daniel Noboa designa nuevo Ministro de Salud y oficializa al titular de la Senescyt](https://www.elcomercio.com/actualidad/politica/daniel-noboa-designa-nuevo-ministro-salud-senescyt-manuel-antonio-naranjo.html "Daniel Noboa designa nuevo Ministro de Salud y oficializa al titular de la Senescyt")
+* [Ministerios firman acuerdo para Establecimientos de Salud Seguros](https://www.elcomercio.com/actualidad/ecuador/ministerios-firman-acuerdo-para-establecimientos-de-salud-seguros.html "Ministerios firman acuerdo para Establecimientos de Salud Seguros")
+
+“Soy médico de profesión y convicción. Asumo este reto en el Ministerio de Salud Pública con total responsabilidad, es un enorme desafío y tengo el enorme deseo de contribuir de la manera más profunda al crecimiento de la salud”, fueron sus palabras.
+
+Las prioridades del nuevo Ministro de Salud
+-------------------------------------------
+
+El nuevo ministro de Salud, Antonio Naranjo, priorizará su gestión en el acceso y calidad a los servicios integrales de salud, el fortalecimiento de la vigilancia de la salud, la equidad y garantía del derecho a la salud mediante la prestación de servicios integrales, la articulación intersectorial y la participación ciudadana.
+
+Además, la eficiencia y eficacia del Sistema Nacional de Salud para responder a las necesidades  
+de salud de las personas, las familias, y la comunidad, permitiendo la integralidad en los niveles de atención en el país y con la Red Pública Integral de Salud (RPIS) y la Red Complementaria (RPC).
+
+El fortalecimiento de la prevención y promoción de hábitos saludables, entre otras.
+
+¿Quién es el nuevo Ministro de Salud?
+-------------------------------------
+
+Antonio Naranjo es un profesional con amplia experiencia en el sector salud, en el ámbito público y privado.
+
+Es médico cirujano por la Universidad Central del Ecuador y posee una especialización en Medicina Interna de la Universidad Católica de Chile. 
+
+Durante su carrera como galeno, también ha sumado experiencia en la administración y gerencia en varios centros médicos de la capital ecuatoriana. Además de la docencia universitaria. 
+
+Copa América se olvida de Ecuador en video de presentación
+==========================================================
+
+La espera de la Copa América terminó, y la Selección de Ecuador buscará ganar su primer torneo continental.
+-----------------------------------------------------------------------------------------------------------
+
+![Kendry Páez, jugador de la Selección de Ecuador, jugará la Copa América.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-19T201143.677.jpg)
+
+La **Copa América** iniciará este jueves 20 de junio y a vísperas del pitazo inicial, la Confederación Sudamericana de Fútbol (Conmebol) publicó un video emotivo de la competencia.
+
+El partido inaugural de la copa lo protagonizarán la Selección de Argentina, liderada por **Lionel Messi**, contra la Selección de Canadá, comandada por Alphonso Davies. 
+
+### Más noticias:
+
+* [Lionel Messi y Feid agotan entradas en la Copa América](https://www.elcomercio.com/deportes/copa-america/lionel-messi-feid-agotan-entradas-copa-america.html "Lionel Messi y Feid agotan entradas en la Copa América")
+* [La sorprendente cifra que gana Félix Sánchez Bas, DT de Ecuador](https://www.elcomercio.com/deportes/futbol/felix-sanchez-bas-seleccion-ecuador-sueldo.html "La sorprendente cifra que gana Félix Sánchez Bas, DT de Ecuador")
+
+La Copa América se olvidó de la Selección de Ecuador
+----------------------------------------------------
+
+La cuenta oficial del torneo continental publicó este miércoles 19 de junio un video en sus redes sociales para presentar el torneo continental. 
+
+El producto audiovisual se muestra varios momentos icónicos del torneo, como el título que consiguió **Lionel Messi** con Argentina, el doblete de Chile en 2015 y 2016, y una de las veces que Brasil ganó el torneo. 
+
+También aparecen jugadas, equipos históricos del torneo y otros momentos.
+
+Durante el video están presentes varios instantes icónicos de las selecciones sudamericanas; sin embargo, de la **Selección de Ecuador** no aparece ninguno. 
+
+La Tri solo aparece dos veces y es cuando los jugadores saltan a la cancha en dos distintas ediciones de la copa, nada más. 
+
+> BIENVENIDOS. [pic.twitter.com/L6jTaDQRB1](https://t.co/L6jTaDQRB1)
+> 
+> — CONMEBOL Copa América™️ (@CopaAmerica) [June 20, 2024](https://twitter.com/CopaAmerica/status/1803578528861933650?ref_src=twsrc%5Etfw)
+
+Debut de Ecuador en Copa América
+--------------------------------
+
+La Selección de **Ecuador integra el Grupo B** de junto a Venezuela, Jamaica y México. 
+
+El conjunto ecuatoriano **debutará** en la Copa América 2024 el próximo sábado 22 de junio, contra la Selección de **Venezuela**. El cotejo se disputará en el Levi’s Stadium en Santa Clara, California, a las 17:00 (hora Ecuador).
+
+Sus siguientes dos compromisos serán contra **Jamaica**, el miércoles 26 de junio, a las 17:00 (hora Ecuador), en el Allegiant Stadium, y cerrará la Fase de Grupos contra **México**, el domingo 30 de junio, a las 19:00, en el Estadio de la Universidad de Phoenix.
+
+Ejército calificó a dos coroneles para su ascenso a generales
+=============================================================
+
+El Ejército de Ecuador calificó a los coroneles tras analizar sus hojas de vida profesionales.
+----------------------------------------------------------------------------------------------
+
+![Los coroneles calificados cuentan con una amplia experiencia militar y profesional](https://www.elcomercio.com/wp-content/uploads/2024/06/ejercito-g.jpg)
+
+Dos coroneles fueron calificados para el **ascenso a generales** del **Ejército** de Ecuador, este miércoles 19 de junio de 2024.
+
+Los miembros de las Fuerzas Armadas que cumplieron con el proceso de calificación son **Gustavo Iturralde Maya** y **José Fiallo Vásquez**.
+
+### Más noticias:
+
+* [Aún hay sectores con cortes de luz en Ecuador; Guayaquil es la más afectada, informa Luque](https://www.elcomercio.com/actualidad/ecuador/aun-hay-sectores-cortes-luz-ecuador-guayaquil-mas-afectada-informa-luque.html "Aún hay sectores con cortes de luz en Ecuador; Guayaquil es la más afectada, informa Luque")
+* [Canciller Gabriela Sommerfeld defiende a Daniel Noboa frente a entrevista en The New Yorker](https://www.elcomercio.com/actualidad/politica/gabriela-sommerfeld-defiende-daniel-noboa-the-new-yorker.html "Canciller Gabriela Sommerfeld defiende a Daniel Noboa frente a entrevista en The New Yorker")
+* [Asamblea decidió sobre proceso de amnistía de los comandos de Taura](https://www.elcomercio.com/actualidad/politica/asamblea-comandos-taura-amnistia.html "Asamblea decidió sobre proceso de amnistía de los comandos de Taura")
+
+Los militares pertenecen a la promoción 89 de **Arma** y 86 de **Servicios** del Ejército ecuatoriano.
+
+La institución aseguró que el proceso incluyó un minucioso análisis de sus **hojas de vida** profesionales.
+
+Coronel Gustavo Iturralde
+-------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/iturralde-1024x683.jpg)
+
+Coronel Gustavo Iturralde Maya. Foto: Cortesía Ejército del Ecuador
+
+El coronel Gustavo Enrique **Iturralde** Maya tiene 55 años.
+
+Se desempeña como **Oficial de Fuerzas Especiales**, paracaidista, comando, jefe de salto, saltador libre y observador militar. Es subteniente del arma de caballería blindada desde **1989**.
+
+Participó en la **guerra del Alto Cenepa** como comandante de Equipo de Comandos en Tiwintza. Fue **instructor** de las escuelas Militar, de Selva y de Fuerzas Especiales, de la Academia de Guerra y de la Academia de Defensa Conjunta.
+
+Iturralde tiene experiencia militar como: observador en Sudán; comandante del Grupo de Fuerzas Especiales del Grupo Especial de Comandos; agregado de Defensa, Asesor Militar en la **OEA** y delegado en la Junta Interamericana de Defensa; jefe del Estado Mayor y comandante de la Brigada de Fuerzas Especiales 9 Patria.
+
+### Estudios
+
+Tiene **estudios** en Manejo de crisis; Derechos humanos; Mantenimiento de paz y Terrorismo global. Es licenciado en Ciencias militares y en Educación física.
+
+Cuenta con una maestría en **Gestión de la producción** y **otra en Seguridad y defensa**; cuenta con una especialidad en Estudios estratégicos de la defensa y tiene un diplomado superior en Gestión para el aprendizaje universitario.
+
+Coronel José Fiallo
+-------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/fiallo-1024x683.jpg)
+
+Coronel José Ignacio Fiallo Vásquez. Foto: Cortesía Ejército del Ecuador
+
+El coronel José Ignacio Fiallo Vásquez tiene también 55 años. Se graduó de subteniente del arma de ingeniería en **1989**.
+
+Fue **comandante** del Cuarto Escuadrón del Grupo de Fuerzas Especiales 27 Rayo, en la **guerra del Alto Cenepa**; además se desempeñó como asesor militar del Jefe del Comando Conjunto de las Fuerzas Armadas.
+
+Fiallo fue instructor de la Escuela Superior Militar Eloy Alfaro; profesor de la Academia de Guerra del Ejército y de la Academia de Defensa Militar Conjunta; agregado de Defensa en la Embajada del Ecuador en Estados Unidos y director de la Academia de Guerra del Ejército.
+
+### Estudios
+
+Es **ingeniero civil**, licenciado en Ciencias militares y especialista en Estudios estratégicos de la defensa.
+
+Cuenta con **dos maestrías**, una en Defensa y seguridad hemisférica y otra en Estudios de defensa y seguridad de las Américas.
+
+Tiene cursos militares en: Paracaidismo; Comando; Operaciones especiales de contraterrorismo; Avanzado de ingeniería e instructores y Alta Gerencia.
+
+Leonardo Campana a un gol de ser el goleador histórico del Inter Miami
+======================================================================
+
+Leonardo Campana no fue considerado por la Selección de Ecuador para la Copa América Estados Unidos 2024.
+---------------------------------------------------------------------------------------------------------
+
+![Leonardo Campana celebra un gol marcado con el Intyer Miami en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/campana_gol_mls.jpg)
+
+**Leonardo Campana** es uno de los pocos delanteros ecuatorianos que juegan con regularidad y marcan goles en el exterior. Con el Inter Miami pelean en la parte alta de la Conferencia Este de la MLS.
+
+Ante la ausencia de **Lionel Messi y Luis Suárez,** convocados por Argentina y Uruguay para la Copa América 2024, Leonardo Campana tomó la posta en la zona de ataque del Inter Miami y no defrauda.
+
+### Más noticias:
+
+* [Lionel Messi deja el fútbol por un insólito deporte](https://www.elcomercio.com/deportes/futbol/lionel-messi-deja-futbol-insolito-deporte-padel.html "Lionel Messi deja el fútbol por un insólito deporte")
+* [La Copa Ecuador tiene su primer eliminado](https://www.elcomercio.com/deportes/futbol/copa-ecuador-primer-eliminado-futbol.html "La Copa Ecuador tiene su primer eliminado")
+
+Campana no fue considerado por **Félix Sánchez**, entrenador de la Selección de Ecuador, para la Copa América. En su lugar llamó a Enner Valencia, Jordy Caicedo y al recién recuperado Kevin Rodríguez.
+
+En la temporada 2024 el delantero surgido en **Barcelona Sporting Club** lleva anotados cinco goles en la MLS. El último lo hizo la noche del miércoles 19 de junio en la fecha 20.
+
+A los 21 minutos marcó el 2-0 parcial. La jugada se gestó por la zona derecha con un centro del alemán nacionalizado norteamericano, Julian Gressel.
+
+El primer disparo con la cabeza del ecuatoriano fue **rechazado por el arquero Patrick Schulte**. En el rebote remató con pierna derecha para mandarlo al fondo del arco del Columbus Crew.
+
+Al término de los primeros 45 minutos el marcador favorece al Inter Miami por 2-1.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C8arfwpMk2D/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Inter Miami CF (@intermiamicf)](https://www.instagram.com/reel/C8arfwpMk2D/?utm_source=ig_embed&utm_campaign=loading)
+
+Leonardo Campana se perfila como goleador histórico
+---------------------------------------------------
+
+El delantero ecuatoriano **Leonardo Campana** está a un gol de convertirse en el goleador histórico del Inter Miami, equipo del que es uno de los propietarios, el británico David Beckham.
+
+El goleador histórico del Inter Miami es el **argentino Gonzalo Higuaín**, subcampeón del mundo con su país en Brasil 2014, y que en su carrera paseó su clase en el Chelsea, Milan,  Juventus, Napoli, Real Madrid y River Plate. Anotó 29 tantos en 70 partidos que jugó.
+
+El segundo es Campana, que **tiene 28 gritos de gol en 80 presencias**. Dos goles lo separan  de ser el máximo anotar del club que fue fundado en 2018 y que juega en la Conferencia Este de la MLS.
+
+En la tercera casilla aparece **Lionel Messi**. La estrella argentina llegó al club en el  segundo semestre de 2023. En 28 partidos ya logró 24 anotaciones.
+
+El uruguayo **Luis Suárez** también se perfila para tener este reconocimiento. Llegado en 2024  desde Gremio de Brasil, el delantero ya registra 13 tantos en 19 presencias.
+
+Goleadores históricos del Inter Miami
+-------------------------------------
+
+1\. Gonzalo Higuaín: 29 goles
+
+**2\. Leonardo Campana: 28**
+
+3\. Lionel Messi: 24
+
+4\. Robert Taylor: 15
+
+5\. Luis Suárez: 13
+
+6\. Josef Martínez: 12
+
+Cortes de luz de hoy son por falta de inversión; ‘se pudo haber evitado’, señala Roberto Luque
+==============================================================================================
+
+El ministro de Energía (e), Roberto Luque, señaló que los cortes de luz son una muestra más de la crisis energética que atraviesa el país.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![El ministro de Energía (e), Roberto Luque, se pronunció sobre los cortes de luz masivos desde el Ecu 911 de Samborondón.](https://www.elcomercio.com/wp-content/uploads/2024/06/FOTOS-WEB-17.jpg)
+
+El ministro de Energía (e), **Roberto Luque**, manifestó que los **cortes de luz** que ocurrieron en Ecuador la tarde de este miércoles 19 de junio de 2024 se pudo haber evitado[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Roberto Luque señaló que un corte como este ya ocurrió hace veinte años, en **2004** y, desde ese momento, se empezó a programar la inversión en un sistema de inversión sistémica para salvaguardar la infraestructura.
+
+### Más noticias:
+
+* [Aún hay sectores con cortes de luz en Ecuador; Guayaquil es la más afectada, informa Luque](https://www.elcomercio.com/actualidad/ecuador/aun-hay-sectores-cortes-luz-ecuador-guayaquil-mas-afectada-informa-luque.html "Aún hay sectores con cortes de luz en Ecuador; Guayaquil es la más afectada, informa Luque")
+* [Metro de Quito reanudó sus operaciones tras los cortes de luz](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suspendio-sus-operaciones-debido-a-los-cortes-de-luz.html "Metro de Quito reanudó sus operaciones tras los cortes de luz")
+
+Sin embargo, esto **nunca se implementó**. **“Lo ocurrido hoy es una muestra más de la crisis energética que estamos atravesando. Los cortes hoy fueron por falta de inversión en transmisión; se pudo haber evitado”**, dijo el ministro.
+
+Además, de falta inversión en mantenimiento y protección de infraestructura.
+
+Roberto Luque convocó a un Comité de crisis por los cortes de luz
+-----------------------------------------------------------------
+
+El ministro señaló que convocó a un Comité de crisis, dentro del cual hay un Comité de análisis de fallas.
+
+El Comité de fallas es liderado por el **CENACE**, con la participación de técnicos del Ministerio de Energía y Minas y **CELEC.**
+
+“Tenemos que seguir todos los protocolos y planes para saber cuánta inversión se necesita en proteger. En **abril**, coyunturalmente, estábamos hablando de falta de **generación** y estamos haciendo inversiones de emergencia en generación; **hoy**, nos ocurrió un problema de **transmisión**, donde también nos falta inversión”, dijo.
+
+El ministro agregó que “este es un evento raro y muestra lo frágil que es nuestro sistema” energético de Ecuador y refleja la crisis energética.
+
+La crisis tiene varias aristas: generación, transmisión y distribución de energía. Líneas de contratación y sistemas de protección.
+
+“**Esto es un problema de años**, el problema es que en un año no puedes corregir lo que no se ha hecho en muchos años”, añadió Roberto Luque.
+
+Además, tenemos un problema en la Agencia de Regulación y Control porque hay técnicos que están pensando más en normativas y en procesos burocráticos que en solucionar los problemas, dijo Luque.
+
+Metro de Quito reanudó sus operaciones tras los cortes de luz
+=============================================================
+
+El Metro de Quito interrumpió sus operaciones por más de tres horas.
+--------------------------------------------------------------------
+
+![Ciudadanos en los exteriores de la parada Iñaquito del Metro](https://www.elcomercio.com/wp-content/uploads/2024/06/metro-quito-luz.jpg)
+
+El **Metro de Quito** suspendió su servicio de transporte por más de **tres horas**, la tarde de este miércoles 19 de junio de 2024, debido a los **cortes de luz** registrados en la capital,
+
+Las operaciones en los **trenes subterráneos** fueron interrumpidas alrededor de las **15:20** y retornaron cerca de las **19:00**.
+
+### Más noticias:
+
+* [Cortes de luz provocan congestión vehicular en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-congestion-vehicular.html "Cortes de luz provocan congestión vehicular en Quito")
+* [Los cortes de luz fueron en todo el Ecuador, según el ministro Roberto Luque](https://www.elcomercio.com/actualidad/negocios/se-reportan-cortes-de-luz-en-quito-guayaquil-cuenca-y-portoviejo-este-19-de-junio-de-2024.html "Los cortes de luz fueron en todo el Ecuador, según el ministro Roberto Luque")
+* [Cierre de tres carriles de la Galo Plaza Lasso complican el tránsito en Quito](https://www.elcomercio.com/actualidad/quito/cierre-de-tres-carriles-de-la-galo-plaza-lasso-complican-el-transito-en-quito.html "Cierre de tres carriles de la Galo Plaza Lasso complican el tránsito en Quito")
+
+A través de un comunicado, la entidad detalló lo ocurrido: “Debido a una **falla general del sistema nacional interconectado** de energía eléctrica, la operación del Metro de Quito se encuentra interrumpida mientras se reinician y verifican los sistemas”.
+
+Al momento del apagón general, **un tren** del Metro se encontraba en funcionamiento. Los pasajeros y demás ciudadanos que se encontraban en las estaciones de este servicio fueron **evacuados**.
+
+Gerente del Metro de Quito explicó lo sucedido
+----------------------------------------------
+
+**Juan Carlos Parra**, gerente del Metro de Quito, habló de lo sucedido en el servicio de transporte.
+
+En una entrevista con la Radio Municipal de la ciudad, el funcionario detalló que las **cuatro subestaciones** que tiene el Metro se encuentran en estabilización tras el retorno de la energía eléctrica.
+
+“Una vez se estabilicen las cuatro subestaciones **se reanudará el servicio** (…) pero hay que valorar que los sistemas no tengan variaciones o altos de electricidad”, comentó Parra, antes de la reanudación de las operaciones.
+
+### Subestaciones del Metro sin energía eléctrica
+
+El Gerente explicó que la suspensión del servicio de transporte estuvo relacionada con la falta de energía en las **cuatro subestaciones** del Metro.
+
+“El Metro se alimenta de un **sistema de redundancia** entre las cuatro subestaciones, por ejemplo, cuando en el norte se va la luz, automáticamente se alimenta este servicio de otra subestación, pero cuando el apagón es nacional no hay de donde tomar energía”, puntualizó.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/inaquito-s-1024x683.jpg)
+
+Estación Iñaquito del Metro de Quito durante la suspensión del servicio. Foto: Diego Pallero/ EL COMERCIO
+
+### Evacuación de los pasajeros
+
+Parra explicó como se desarrolló la **evacuación de los pasajeros** en el interior del Metro de Quito.
+
+“Cuando ocurre un apagón se activan los **protocolos de seguridad** para que, dentro de un tiempo determinado, se evacúe a los ciudadanos que están dentro de las estaciones, alrededor de unos 10 minutos”, explicó.
+
+En el caso de los pasajeros que se encontraban dentro del tren en funcionamiento, el Gerente detalló que se requirió la ayuda del Cuerpo de **Bomberos de Quito** para la evacuación.
+
+Las operaciones del Metro se retomaron con **normalidad** cerca de las 19:00.
+
+Congestión vehicular en Quito
+-----------------------------
+
+Miles de calles de **Quito** se vieron afectadas por los **cortes de luz** que se registraron la tarde de este miércoles.
+
+Los **apagones generales** reportados en la capital provocaron una inusual **congestión vehicular**.
+
+Pasadas las 15:00, la Agencia Metropolitana de Tránsito (**AMT**) informó que alrededor de **1 027 intersecciones** en la ciudad registraron problemas debido a los **cortes de energía**.
+
+La falta de servicio eléctrico ocasionó que los **semáforos** de la ciudad dejaran de funcionar.
+
+En intersecciones de alta concurrencia vehicular, como en las avenidas **Naciones Unidas** y **10 de Agosto**, en el centro norte, los **problemas con el tránsito** se evidenciaron.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/naciones-unidas-1024x683.jpg)
+
+Tránsito vehicular en las avenidas Naciones Unidas y 10 de Agosto. Foto: Julio Estrella/ EL COMERCIO
+
+El alcalde de Quito, **Pabel Muñoz**, afirmó que los **equipos técnicos** de reacción del Municipio de Quito se trabajaron en la emergencia.
+
+“He dispuesto la activación de todos los equipos de reacción del **Municipio de Quito** para que se sumen a facilitar la movilidad, prevenir accidentes en las principales intersecciones y cuidar los espacios públicos”, detalló.
+
+Lionel Messi y Feid agotan entradas en la Copa América
+======================================================
+
+La Copa América 2024 iniciará a lo grande con la presentación de Lionel Messi con la Selección de Argentina y del concierto de Feid.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi en un partido amistoso con la Selección de Argentina previo al debut en la Copa América 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-19T190329.439.jpg)
+
+La Copa América 2024, que se realizará en Estados Unidos, dará su pitazo inicial este jueves 20 de junio, con el debut de la vigente campeona, la **Selección de Argentina de Lionel Messi.** 
+
+El rival de la ‘Albiceleste’ en el partido inaugural es la selección norteamericana de Canadá. Y antes de que inicie el certamen habrá una presentación del artista Salomón Villada Hoyos, más conocido como **Feid** o **Ferxxo**. 
+
+### Más noticias:
+
+* [Lionel Messi deja el fútbol por un insólito deporte](https://www.elcomercio.com/deportes/futbol/lionel-messi-deja-futbol-insolito-deporte-padel.html "Lionel Messi deja el fútbol por un insólito deporte")
+* [¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?](https://www.elcomercio.com/tendencias/feid-copa-america.html "¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?")
+
+> BIENVENIDOS. [pic.twitter.com/L6jTaDQRB1](https://t.co/L6jTaDQRB1)
+> 
+> — CONMEBOL Copa América™️ (@CopaAmerica) [June 20, 2024](https://twitter.com/CopaAmerica/status/1803578528861933650?ref_src=twsrc%5Etfw)
+
+Lionel Messi y Feid causan furor en la Copa América
+---------------------------------------------------
+
+En la página oficial de la Copa América, la Confederación Sudamericana de Fútbol (**Conmebol**) informó que el partido inaugural del torneo fue un **rotundo éxito en la venta de entradas** porque se agotaron. 
+
+Más de **70 000 aficionados** acudirán al Mercedes-Benz Stadiun de Atalanta para ver el debut de Lionel **Messi** con la Selección de Argentina y para disfrutar del concierto previo que realizará Feid. 
+
+“Vender la totalidad de las entradas para el partido inaugural evidencia la r**elevancia de esta fiesta** de fútbol. Esperamos que los aficionados disfruten desde el inicio hasta el final del torneo.”, declaró Alejandro Domínguez, presidente de la Conmebol. 
+
+> 🎉 [@CopaAmerica](https://twitter.com/CopaAmerica?ref_src=twsrc%5Etfw) 🤝 [@ferxxo4](https://twitter.com/ferxxo4?ref_src=twsrc%5Etfw) ⚽️  
+>   
+> ¡Hey, mor! 😉 El jueves viviremos una fiesta inaugural inolvidable.  
+>   
+> ¡Vibrará el continente! 🏆 [pic.twitter.com/pEJr0CPums](https://t.co/pEJr0CPums)
+> 
+> — CONMEBOL Copa América™️ (@CopaAmerica) [June 18, 2024](https://twitter.com/CopaAmerica/status/1803153947760238761?ref_src=twsrc%5Etfw)
+
+¿Cuánto costaban las entradas?
+------------------------------
+
+El valor más barato para el partido inaugural entre la Argentina de Lionel Messi vs. la Selección de Canadá rondaba entre los **180 y 190 dólares**. 
+
+Mientras que la **más cara costaba 1 500 dólares**, en uno de los mejores asientos del escenario deportivo, que además ofrecía ciertos beneficios que otras localidades no. 
+
+La última Copa América de Lionel Messi
+--------------------------------------
+
+**Lionel Messi** disputará seguramente su última Copa América en Estados Unidos, sumando un total de presencias en siete ediciones distintas, récord de la competición. 
+
+Además, el argentino es el **jugador con más partidos disputados**, con 34, y es el séptimo goleador histórico, con 13 anotaciones. 
+
+Su primera Copa América fue en Venezuela 2007 y después dijo presente en Argentina 2011, Chile 2015, Estados Unidos 2016, Brasil 2019 y 2021.
+
+En cuanto a títulos, Lionel Messi es **tres veces subcampeón** (2007, 2015 y 2016) y **una vez campeón** en 2021. 
+
+Aún hay sectores con cortes de luz en Ecuador; Guayaquil es la más afectada, informa Luque
+==========================================================================================
+
+El ministro explicó dónde ocurrió la falla y el tiempo que tomará que el servicio eléctrico se restablezca al 100% en todo el país.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![El ministro de Energía (e), Roberto Luque, se pronunció sobre el apagón masivo desde el Ecu 911 de Samborondón.](https://www.elcomercio.com/wp-content/uploads/2024/05/ROBERTO-LUQUE-LUZ.jpg)
+
+El ministro de Energía (e), **Roberto Luque**, reportó que aún existen **cortes de luz** eléctrica en **Ecuador**, siendo la más afectada la ciudad de **Guayaquil**[.](https://es.wikipedia.org/wiki/Guayaquil)
+
+Guayaquil tendrá luz al 100% alrededor de las 22:00. Roberto Luque señaló que hay ciertas centrales que no tienen sistema de prendido rápido y por eso tarda la reconexión. A las 18:20, Guayaquil estaba al 50%.
+
+### Más noticias:
+
+* [Metro de Quito suspendió sus operaciones debido a los cortes de luz](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suspendio-sus-operaciones-debido-a-los-cortes-de-luz.html "Metro de Quito suspendió sus operaciones debido a los cortes de luz")
+* [Los cortes de luz fueron en todo el Ecuador, según el ministro Roberto Luque](https://www.elcomercio.com/actualidad/negocios/se-reportan-cortes-de-luz-en-quito-guayaquil-cuenca-y-portoviejo-este-19-de-junio-de-2024.html "Los cortes de luz fueron en todo el Ecuador, según el ministro Roberto Luque")
+
+Tomará entre hora y media a dos horas para llegar al 60% y entre tres y cuatro horas para llegar al 100% del servicio de energía eléctrica.
+
+Al momento de la rueda de prensa ofrecida por el ministro, alrededor de las 18:00 de este miércoles 19 de junio, **El Oro** tenía 0% de servicio de energía eléctrica, **Sucumbíos** 33%, **Los Ríos** 91%, **Azogues** 27%, entre otros.
+
+Al final de la rueda de prensa, El Oro ya contaba con energía, excepto en **Machala**.
+
+**Alrededor de las 18:00, 2740 MW estaban instalados, esto era un poco más del 60% de la demanda.**
+
+¿Dónde ocurrió la falla por la que se dio el corte de luz masivo?
+-----------------------------------------------------------------
+
+Por la tarde, el ministro de Energía señaló que el apagón masivo ocurrió por una falla en la línea de transmisión que ocasionó una desconexión en cascada, según el CENACE.
+
+En la rueda de prensa, precisó que la falla ocurrió en la **línea de transmisión de Taday-Zhoray, en Cañar**.
+
+Técnicos y Fuerzas Armadas se trasladaron al sitio para investigar el error.
+
+Roberto Luque consultó a los técnicos sobre la probabilidad de que un evento como este vuelva a ocurrir y le respondieron que es muy poco probable, en un 1%.
+
+Luque advirtió con despidos si vuelve a pasar.
+
+Paute y Sopladora se paralizaron luego del apagón
+-------------------------------------------------
+
+Las operaciones de la **Central Hidroeléctrica Paute**, que es la segunda más grande de **Ecuador**, estuvieron paralizadas entre las 16:00 y 17:00 de este miércoles 19 de junio de 2024.
+
+Hasta antes del apagón operaba con las **10 unidades** y su aporte era de 1 013 megavatios/hora. A las 19:30, nueve están funcionando con 807 megavatios/hora.
+
+Lo mismo ocurrió en la **central San Francisco**, ubicada en la zona suroeste de **Azuay**. Sus dos turbinas dejaron de **generar electricidad** durante esa hora. Estas máquinas producían 232 megavatios/hora. Ese aporte ya se restableció.
+
+A las 16:00 de este miércoles también dejaron de funcionar las dos turbinas de la hidroeléctrica **Sopladora**, que está ubicada aguas abajo de la **Central Paute**. Aportaban con 292 megavatios/hora. En este último caso fueron prendidas luego de las 19:00.
+
+**Mazar** no dejó de funcionar con sus dos turbinas, pero su generación bajó entre las 16:00 y 17:00 a 49 y 72 megavatios/hora. A las 19:30 alcanzó los 170.
+
+Educación suspendió las clases a escala nacional este miércoles 19 de junio
+===========================================================================
+
+La suspensión de clases en Ecuador se debe a los cortes de luz que se registraron este miércoles 19 de junio.
+-------------------------------------------------------------------------------------------------------------
+
+![El Ministerio de Educación emitió un comunicado oficial sobre la suspensión de las clases](https://www.elcomercio.com/wp-content/uploads/2024/06/clases-suspendidas.jpg)
+
+El **Ministerio de Educación** informó que, debido a los **cortes de luz** que sufrió Ecuador, las clases presenciales se suspenden este miércoles 19 de junio de 2024.
+
+La Cartera de Estado explicó que la decisión aplica para **todas las instituciones educativas** fiscales, fiscomisionales, municipales y particulares del país en su **jornada nocturna**
+
+### Más noticias:
+
+* [Los cortes de luz fueron en todo el Ecuador, según el ministro Roberto Luque](https://www.elcomercio.com/actualidad/negocios/se-reportan-cortes-de-luz-en-quito-guayaquil-cuenca-y-portoviejo-este-19-de-junio-de-2024.html "Los cortes de luz fueron en todo el Ecuador, según el ministro Roberto Luque")
+* [Metro de Quito suspendió sus operaciones debido a los cortes de luz](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suspendio-sus-operaciones-debido-a-los-cortes-de-luz.html "Metro de Quito suspendió sus operaciones debido a los cortes de luz")
+* [Cortes de luz provocan congestión vehicular en Quito](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-congestion-vehicular.html "Cortes de luz provocan congestión vehicular en Quito")
+
+La medida se tomó “con el objetivo de precautelar la **seguridad** (…) de la comunidad educativa”, detalló el Ministerio.
+
+Las clases en las jornadas **matutina y vespertina** de este jueves 20 de junio se mantendrán con **normalidad**.
+
+El comunicado de la entidad, difundido a las 17:00, manifestó que las clases se mantendrán **suspendidas** hasta que el servicio eléctrico se restablezca.
+
+Sin embargo, no ha existido un nuevo pronunciamiento oficial tras el **regreso paulatino de la luz** en varias ciudades del Ecuador, durante la tarde y noche de este miércoles.
+
+> \[COMUNICADO\] Debido a suspensión del servicio electricidad a escala nacional y con el objetivo de precautelar la seguridad de la comunidad educativa, se suspenden las clases presenciales en la jornada nocturna de las instituciones educativas. [pic.twitter.com/pwCraibzV2](https://t.co/pwCraibzV2)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [June 19, 2024](https://twitter.com/Educacion_Ec/status/1803548586304541019?ref_src=twsrc%5Etfw)
+
+Cortes de luz a escala nacional
+-------------------------------
+
+Cerca de las 15:20 de este miércoles 19 de junio se reportaron **cortes de luz** en varias ciudades del país.
+
+**Quito, Guayaquil, Cuenca, Azogues, Portoviejo, Ambato, Riobamba, Ibarra, Atuntaqui, Puyo, Tulcán**, entre otros sectores, reportaron cortes de energía eléctrica.
+
+El ministro de Energía (e), **Roberto Luque**, señaló que el apagón ocurrió en todo el país debido a una falla en la **línea de transmisión**.
+
+A las 15:51 de este miércoles, **Luque** publicó, en su cuenta de X, que el **Operador Nacional de Electricidad (Cenace)** informó que una falla en la línea de transmisión ocasionó una **desconexión en cascada**, por lo que el servicio energético se interrumpió a escala nacional.
+
+La Copa América y los favoritos de EL COMERCIO y Bendito Fútbol
+===============================================================
+
+La Copa América se inaugura el jueves 20 de junio. Las selecciones de Argentina y Brasil parten como favoritas.
+---------------------------------------------------------------------------------------------------------------
+
+![Jordy Caicedo con la Selección de Ecuador en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/06/proyecciones_copa_america.jpg)
+
+La **Copa América Estados Unidos 2024** se inaugurará el jueves 20 de junio de 2024 en Atlanta. Antes que empiece formalmente la competencia se prepara un espectáculo al más puro estilo norteamericano.
+
+El show de inauguración de la Copa América tendrá como **artista principal al colombiano Feid**, que fue confirmado por la Conmebol como la estrella que pondrá la nota musical a un evento que promete, y mucho.
+
+### Más noticias:
+
+* [Deportivo Quito sufre, pero sigue con vida en Segunda Categoría](https://www.elcomercio.com/deportes/futbol/deportivo-quito-partido-puerto-quito-segunda.html "Deportivo Quito sufre, pero sigue con vida en Segunda Categoría")
+* [Lionel Messi no para de elogiar a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-lionel-messi-copa-america-elogios.html "Lionel Messi no para de elogiar a la Selección de Ecuador")
+
+Desde las 19:00 **saltarán a la cancha Argentina**, vigente campeona de la Copa América, y Canadá que espera ser la sorpresa a dos años de empezar el Mundial 2026, donde será anfitriona junto a Estados Unidos y México.
+
+Según ChatGPT, **Argentina, Brasil y Colombia**, tienen mayores opciones de quedarse con el título.
+
+Para llegar a esta conclusión la IA tiene en cuenta los resultados de los equipos en las últimas ediciones del torneo y sus partidos en las eliminatorias al Mundial 2026.
+
+En el caso de las **selecciones de la Concacaf**, tomó los resultados de la Copa Oro y de la  Liga de Naciones.
+
+La misma herramienta puso en los cuartos de final a **Argentina, Canadá, Ecuador, México**, Uruguay, Estados Unidos, Colombia y Brasil.
+
+Los favoritos de EL COMERCIO y Bendito Fútbol
+---------------------------------------------
+
+El equipo de EL COMERCIO y Bendito Fútbol también se animó a dar un pronóstico.
+
+Entre las selecciones favoritas hubo un consenso que el **título puede disputarse entre Argentina**, actual campeona de la Copa América y del Mundo, ante Brasil, una selección que tratará de recuperar la corona que ostentó por última vez en el 2019.
+
+Argentina sigue confiando en el **talento de Lionel Messi**. Detrás de él sobresalen nombres propios como los de Lautaro Martínez, Enzo Fernández, Rodrigo De Paul, Cristian Romero y Emiliano ‘Dibu’ Martínez.
+
+Por su parte Brasil tiene en **Vinícios Júnior su portaestandarte** que se enfrenta a su primer gran reto lejos de los flashes de Neymar, uno de los ausentes por lesión.
+
+Los jóvenes **Endrick y Rodrygo**, más los experimentados Eder Militao, Lucas Paquetá y Alisson tienen la responsabilidad de hacer respetar la historia de una país que vive y respira fútbol las 24 horas del día.
+
+Los aspirantes de la Copa América
+---------------------------------
+
+En el lote de los aspirantes aparecen cuatro selecciones que está agazapadas a la espera de un resbalón de los favoritos.
+
+**Colombia** confía en el talento de Luis Díaz, Yáser Asprilla, Jhon Arias y Daniel Muñoz para conquistar su segunda Copa América, luego de la lograda en 2001 cunando fue sede.
+
+**Uruguay** tiene en Marcelo Bielsa un entrenador que cree en los procesos y que poco a poco ha construido una estructura difícil de vulnerar por sus rivales.
+
+El veteranos **Luis Suárez** es el que comanda esta nueva aventura en la Copa América. Cerca de él aparecen Darwin Núñez, Federico Valverde, Rodrigo Bentancur, Giorgian De Arrascaeta y Ronald Araujo.
+
+**Chile** también se mete en este grupo. De las últimas cuatro ediciones del torneo ganó dos. La última precisamente en la edición de 2016 celebrada en Estados Unidos.
+
+Los experimentados Claudio Bravo, **Eduardo Vargas, Alexis Sánchez** y Mauricio Isla tienen la responsabilidad de posicionar a su país entre los mejores del continente.
+
+Finalmente, **Ecuador** se suma a este grupo de aspirantes con una Selección de jóvenes talentos que, de una vez por todas, quieren dar el salto de calidad que se les exige.
+
+Moisés Caicedo, **Piero Hincapié, Jeremy Sarmiento**, John Yeboah, Willian Pacho y Kendry Páez son los más destacados de esta generación dorada tricolor.
+
+Las que pueden sorprender
+-------------------------
+
+**Venezuela, Canadá, Estados Unidos y Perú** conforman el cuarteto de escuadras que se proyectan como sorpresas.
+
+**Venezuela**, rival de Ecuador en el grupo B, en las eliminatorias sudamericanas marcha en la cuarta casilla. Sus opciones de llegar a su primer Mundial se incrementan jornada a jornada.
+
+**Canadá y Estados Unidos** toman a la Copa América como la prueba más importante para el Mundial 2026 que organizarán, junto con México.
+
+**Perú** tiene en la Copa América un torneo en el que regularmente le va bien. En el 2021 fue cuarta; en el 2019 segunda; en el 2015 y 2011 tercera.
+
+Van de paseo
+------------
+
+**Costa Rica, Panamá, Jamaica, Bolivia, Paraguay y México** tienen pocas opciones de llegar a instancias finales de la Copa América.
+
+Aunque esto es fútbol y todo puede pasar en el momento que el balón está en juego.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C8aq8qGMUMT/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Bendito Fútbol (@benditofutbol)](https://www.instagram.com/p/C8aq8qGMUMT/?utm_source=ig_embed&utm_campaign=loading)
+
+La sorprendente cifra que gana Félix Sánchez Bas, DT de Ecuador
+===============================================================
+
+Félix Sánchez Bas, DT de la Selección de Ecuador, tiene un millonario sueldo. Es uno de los más altos de la región.
+-------------------------------------------------------------------------------------------------------------------
+
+![Félix Sánchez Bas, DT de la Selección de Ecuador, tiene un sueldo millonario.](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-19T174941.260.jpg)
+
+La **Selección de Ecuador** está muy cerca de hacer su debut en la Copa América de Estados Unidos 2024. Será la primera gran prueba de **Félix Sánchez Bas** al mando de la ‘Tri’. 
+
+El estratega español aún no ha dirigido en un campeonato con la Selección de Ecuador. Hasta el momento solo ha estado en los banquillos en partidos amistosos y en las **Eliminatorias** **Sudamericanas**. 
+
+### Más noticias:
+
+* [Félix Sánchez revela cómo jugará la Selección de Ecuador con Venezuela](https://www.elcomercio.com/deportes/seleccion-ecuador-felix-sanchez-copa-america.html "Félix Sánchez revela cómo jugará la Selección de Ecuador con Venezuela")
+* [Moisés Caicedo, el ‘omnipresente’ de la Selección de Ecuador y Copa América](https://www.elcomercio.com/deportes/seleccion-ecuador-moises-caicedo-figura-copa-america.html "Moisés Caicedo, el ‘omnipresente’ de la Selección de Ecuador y Copa América")
+
+Félix Sánchez Bas tiene un millonario sueldo
+--------------------------------------------
+
+**Félix** **Sánchez** **Bas** tiene uno de los sueldos más elevados de las selecciones que participarán en la Copa América. 
+
+Según el portal Finance Football, el DT de la Selección de Ecuador percibe la insólita cifra de **2,4 millones** **de** **dólares**, que lo coloca en el puesto octavo puesto de dieciséis. 
+
+El español gana más que entrenadores como Gregg Berhalter, DT de Estados Unidos (2,2 millones), **Jorge** **Fossati**, DT de Perú (2 millones), Jaime Lozano, DT de México (1,8 millones), Gustavo Alfaro, DT de Costa Rica (750 mil dólares), entre otros. 
+
+¿Quién es el DT mejor pagado de la Copa América?
+------------------------------------------------
+
+Marcelo Bielsa, DT de la Selección de Uruguay, tiene el sueldo más elevado de la región. El ‘Loco’ percibe 4 millones de dólares anuales. 
+
+El podio lo completan **Dorival Junior, DT de Brasil** (3,9 millones) y Ricardo Gareca, DT de Chile (3,7 millones). 
+
+Sorprendentemente, **Lionel Scaloni, DT de la Selección de Argentina**, actual campeona del mundo y América, no está entre los cinco mejores pagados del continente. 
+
+El argentino está en sexto puesto, con un salario de **2,6 millones de dólares**, por debajo de Daniel Garnero, DT de Paraguay, y Fernando Batista, DT Venezuela, ambos con un sueldo de 3 millones. 
+
+Debut de Ecuador en Copa América
+--------------------------------
+
+La Selección de Ecuador debutará en la Copa América 2024 el próximo sábado 22 de junio, contra la Selección de Venezuela. 
+
+El cotejo se disputará en el Levi’s Stadium en Santa Clara, California, a las 17:00 (hora Ecuador).
+
+‘Vitamina’ Sánchez ratifica que Liga de Quito es el más grande de Ecuador
+=========================================================================
+
+Liga de Quito espera por Pablo 'Vitamina' Sánchez, quien se emociona por su llegada y ya tiene fecha de presentación.
+---------------------------------------------------------------------------------------------------------------------
+
+![Pablo 'Vitamina' Sánchez, nuevo DT de Liga de Quito, en su etapa por Palestino.](https://www.elcomercio.com/wp-content/uploads/2024/06/g-2024-06-19T173710.509.jpg)
+
+**Pablo ‘Vitamina’ Sánchez** será el nuevo entrenador de Liga de Quito y ya dio sus primeras declaraciones antes de su presentación oficial en el club. El estratega argentino se ilusiona con dirigir al equipo azucena y tuvo gratas palabras para este.
+
+La mañana de este 19 de junio del 2024, **Palestino de Chile** se despidió del director técnico y señaló que esta se irá para perseguir otros retos profesionales. A su vez, por medio de sus redes sociales, el entrenador se proclamó nuevo DT del elenco.
+
+### Más noticias:
+
+* [Pablo ‘Vitamina’ Sánchez asume como DT de Liga de Quito](https://www.elcomercio.com/deportes/futbol/liga-quito-pablo-vitamina-sanchez-dt.html "Pablo ‘Vitamina’ Sánchez asume como DT de Liga de Quito")
+* [Liga de Quito aún tiene cuentas pendientes con Antonio Valencia](https://www.elcomercio.com/deportes/futbol/liga-quito-deuda-antonio-valencia.html "Liga de Quito aún tiene cuentas pendientes con Antonio Valencia")
+* [Joe Armas se despide del Imbabura, ¿llegará a Liga de Quito?](https://www.elcomercio.com/deportes/futbol/joe-armas-tecnico-imbabura-despedida-liga.html "Joe Armas se despide del Imbabura, ¿llegará a Liga de Quito?")
+
+Después de que se hiciese pública su vinculación, el estratega conversó con FB Radio en torno a su nueva llegada. El **argentino** se mostró entusiasta por su arribo y recordó a un histórico entrenador del conjunto azucena.
+
+“**(Liga de Quito) es el más grande de Ecuador en títulos, es un grande de Sudamérica y lo dirigió con éxito el ‘Patón’ (Edgardo) Bauza. Estoy muy feliz de llegar a Liga**“, manifestó el antiguo timonel de Palestino que no tardará en unirse a la escuadra.
+
+¿Cuándo llega Pablo ‘Vitamina’ Sánchez a la ‘U’?
+------------------------------------------------
+
+**Liga de Quito** anunció que su nuevo entrenador será presentado el viernes 20 de junio del 2024. El evento en el cual ‘Vitamina’ hará su primera aparición pública con la [escuadra universitaria](https://www.instagram.com/ldu_oficial/?hl=en "https://www.instagram.com/ldu_oficial/?hl=en") será en un hotel de la capital.
+
+El argentino tendrá hasta el 14 de agosto, fecha en que inicia la segunda etapa de la **Liga Pro**, para realizar los trabajas con su equipo y que tanto él como jugadores se adapten entre sí. A su vez, los albos podrán sumar refuerzos y evaluar salidas.
+
+Antes de la llegada de Sánchez, **Patricio Hurtado** había asumido las riendas del equipo de manera interina. El español **Josep Alcácer** fue el anterior DT definitivo que tuvo la escuadra de Poceano y fue cesado debido a sus resultados.
+
+¿Qué retos tendrá ‘Vitamina’ con Liga de Quito?
+-----------------------------------------------
+
+El entrenador disputará tres frentes con Liga de Quito después de su arribo. Entre sus retos se encuentra la segunda etapa de la **Liga Pro**, la **Copa Ecuador** y la **Copa Sudamericana**.
+
+En el campeonato local disputará 15 partidos y deberá terminar primero en la ronda para disputar la final a la que ya está clasificado **Independiente del Valle**. Para la Copa Ecuador, el elenco azucena aún no cuenta con un rival definido.
+
+Después de ser eliminado de la Copa Libertadores y finalizar en el tercer lugar, los albos disputarán los dieciseisavos de final de la Copa Sudamericana. Su adversario será el **Always Ready**.
