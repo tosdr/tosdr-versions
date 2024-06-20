@@ -192,6 +192,7 @@ Learn how to find products to sell and setup your online store.
 
 Related Content
 
+* [Brutally Honest Advice From Failed Entrepreneurs (Who Lost Everything)](https://mywifequitherjob.com/failed-entrepreneurs/)
 * [543: Google Search Is Dying. Here Are Your Best Traffic Alternatives](https://mywifequitherjob.com/episode543/)
 * [542: The UGLY Truth About Print On Demand That No Guru Will Tell You](https://mywifequitherjob.com/episode542/)
 * [Is IndiaMart Legit? Read This Before You Buy Anything!](https://mywifequitherjob.com/is-indiamart-legit/)
@@ -211,7 +212,6 @@ Related Content
 * [Is Shein Legit And Safe? Read This Before You Buy](https://mywifequitherjob.com/is-shein-legit/)
 * [530: The Must Have Pet Products To Sell Online | A Recap Of The Pet Summit](https://mywifequitherjob.com/episode530/)
 * [The Top 14 Dropshipping Suppliers \[Updated For 2024\]](https://mywifequitherjob.com/dropshipping-suppliers/)
-* [12 Jobs That Make You Rich Fast \[Updated For 2024\]](https://mywifequitherjob.com/jobs-that-make-you-rich-fast/)
 
 Where Should I Begin?
 
@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=1257328512)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=1569382129)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
