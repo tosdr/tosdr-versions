@@ -141,11 +141,11 @@
         * [MSPs/MSSPs](https://www.perimeter81.com/partners/managed-service-providers)
         * [Technology Alliances](https://www.perimeter81.com/partners/technology-alliances)
     * Program & Resources
-        * [Become A Partner](https://www.perimeter81.com/partners)
+        * [Become a Partner](https://www.perimeter81.com/partners)
         * [Partners Portal](https://perimeter81.my.site.com/partners/login)
         * [Partners Locator](https://www.perimeter81.com/partners/locator)
         * [Off-Site Traning](https://www.perimeter81.com/partners/partner-off-site-training)
-    * [Become a Partner](https://www.perimeter81.com/become-a-partner)
+    * [Become a Partner](https://www.perimeter81.com/partners#become-partner-registration)
 * [Pricing](https://www.perimeter81.com/pricing)
 * [Login](https://app.perimeter81.com/sign-in)
 * [Support](https://support.perimeter81.com/)
