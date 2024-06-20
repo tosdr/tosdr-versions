@@ -189,6 +189,7 @@
         * [Yosuga no Sora](https://www.animedakimakura.com/yosuga-no-sora-c-1_2_49/)
         * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
         * [Yuri!!! on Ice](https://www.animedakimakura.com/yuri-on-ice-c-1_2_211/)
+        * [Zenless Zone Zero](https://www.animedakimakura.com/zenless-zone-zero-c-1_2_234/)
 * [Ez-Pages](https://www.animedakimakura.com/index.php?main_page=page&id=&pg=ezpages)
     
     * [New Products](https://www.animedakimakura.com/products_new.html)
@@ -436,6 +437,7 @@ english
         * [Yosuga no Sora](https://www.animedakimakura.com/yosuga-no-sora-c-1_2_49/)
         * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
         * [Yuri!!! on Ice](https://www.animedakimakura.com/yuri-on-ice-c-1_2_211/)
+        * [Zenless Zone Zero](https://www.animedakimakura.com/zenless-zone-zero-c-1_2_234/)
 * [Ez-Pages](https://www.animedakimakura.com/index.php?main_page=page&id=&pg=ezpages)
     
     * [New Products](https://www.animedakimakura.com/products_new.html)
@@ -877,6 +879,8 @@ Navigation 
             * [Yuragi-sou no Yuuna-san](https://www.animedakimakura.com/yuragisou-no-yuunasan-c-1_2_180/)
                 
             * [Yuri!!! on Ice](https://www.animedakimakura.com/yuri-on-ice-c-1_2_211/)
+                
+            * [Zenless Zone Zero](https://www.animedakimakura.com/zenless-zone-zero-c-1_2_234/)
                 
     * [Decorative Pillows](https://www.animedakimakura.com/decorative-pillows-c-190/) 
         
