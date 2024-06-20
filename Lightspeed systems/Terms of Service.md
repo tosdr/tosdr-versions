@@ -38,7 +38,7 @@ Toggle Site Navigation
         * [Support AI Edtech Success](https://www.lightspeedsystems.com/solutions/security-compliance/support-ai-edtech-success-school-districts/)
     * [Safety & Wellness](https://www.lightspeedsystems.com/solutions/safety-wellness/)
     * [Engagement & Impact](https://www.lightspeedsystems.com/solutions/engagement-impact/)
-* [Products](https://www.lightspeedsystems.com/products/) Open Products submenu
+* [Edtech Products](https://www.lightspeedsystems.com/products/) Open Edtech Products submenu
     * [Lightspeed Filter™](https://www.lightspeedsystems.com/products/lightspeed-filter/) Open Lightspeed Filter™ submenu
         * [Lightspeed Parent Portal](https://www.lightspeedsystems.com/solutions/security-compliance/lightspeed-parent-portal/)
         * [Web Filtering: What to Consider Before You Buy](https://www.lightspeedsystems.com/solutions/safety-wellness/web-filtering/)
@@ -387,5 +387,3 @@ Copyright © 2024 Lightspeed Systems
 [](https://www.lightspeedsystems.com/)
 
 [](#)
-
-![](https://tracking.g2crowd.com/attribution_tracking/conversions/3984.gif?e=)
