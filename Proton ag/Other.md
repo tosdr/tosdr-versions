@@ -1,35 +1,40 @@
-[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)](https://protonmail.com/)[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo_z7innb.svg)](https://protonmail.com/)
+[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-purple_lf83vr.svg)](https://protonmail.com/)
 
 * Products
     
-    [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
+    [![Proton Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/mail-purple_resbmb.svg)
     
-    Encrypted email that's private by default.](https://protonmail.com/mail)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
+    Encrypted email that's private by default.](https://protonmail.com/mail)[![Proton Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/calendar-purple_axpwhi.svg)
     
-    Your calendar is a record of your life. Keep it safe.](https://protonmail.com/calendar)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
+    Your calendar is a record of your life. Keep it safe.](https://protonmail.com/calendar)[![Proton Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/drive-purple_gvgywi.svg)
     
-    Secure cloud storage that gives you control of your data.](https://protonmail.com/drive)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
+    Secure cloud storage that gives you control of your data.](https://protonmail.com/drive)[![Proton VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)
     
     Your gateway to online freedom.
     
-    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
+    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![Proton Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
     
     An encrypted password manager that protects your online identity.](https://protonmail.com/pass)
     
-    [![Proton for Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-for-business_tvcsuj.svg)
+    * * *
+    
+    [![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)
+    
+    ![For Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/business-black_xc1ryk.svg)
     
     Improve the security of your business and comply with data protection laws.](https://protonmail.com/business)
     
+* [Proton for business](https://protonmail.com/business)
 * Who we are
     
     [About us
@@ -42,6 +47,8 @@
     
     Seeking talented people to take Proton to the next level.](https://protonmail.com/careers)
     
+    * * *
+    
     We've always been guided by the Proton community.
     
     [Community
@@ -52,43 +59,34 @@
     
     Our non-profit model puts people before profit.](https://protonmail.com/foundation)
     
-* Resources & Support
+* Resources & support
     
-    Get started
-    
-    * * *
+    Help
     
     [Switch to Proton
     
-    Move to Proton in just a few clicks with Easy Switch.](https://protonmail.com/easyswitch)
-    
-    Resources
-    
-    * * *
-    
-    [Blog
-    
-    Latest news on privacy and the internet.](https://protonmail.com/blog)[News
-    
-    Proton announcements, audits, and releases.](https://protonmail.com/blog/news)[Help and support
+    Move to Proton in just a few clicks with Easy Switch.](https://protonmail.com/easyswitch)[Help and support
     
     Guides and customer support for Proton products.](https://protonmail.com/support)[Password generator
     
     Create strong, random passwords.](https://protonmail.com/pass/password-generator)
     
-    Download the apps
+    Blog
     
-    * * *
+    [News
+    
+    Latest news on privacy and the Internet.](https://protonmail.com/blog)[Product updates](https://protonmail.com/blog/product-updates)[Proton news](https://protonmail.com/blog/news)[Privacy guides](https://protonmail.com/blog/privacy-guides)
+    
+    Download the apps
     
     [Proton Mail](https://protonmail.com/mail/download)[Proton Calendar](https://protonmail.com/calendar/download)[Proton Drive](https://protonmail.com/drive/download)[Proton VPN
     
     (new window)](https://protonvpn.com/download?ref=hdrdwnlvpn)[Proton Pass](https://protonmail.com/pass/download)
     
-* [For Business](https://protonmail.com/business)
 
-[![Blog](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-blog-logo_ktossq.svg)](https://protonmail.com/blog)
+[Create a free account](https://protonmail.com/pricing)
 
-[Sign in](https://account.proton.me/login)[Create a free account](https://protonmail.com/pricing)
+[Sign in](https://account.proton.me/login)
 
 Open menu
 
@@ -115,7 +113,7 @@ Search for blog posts
 Proton Mail is Open Source!
 ===========================
 
-![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1691480337/static/avatars/Proton_Team_jxnkj0.png)
+![](https://res.cloudinary.com/dbulfrlrz/image/upload/static/avatars/Proton_Team_jxnkj0.png)
 
 [Proton Team](https://protonmail.com/blog/author/protoneditor)
 
@@ -151,7 +149,7 @@ Share this page
 * [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363891/static/social/facebook-gray.svg)(new window)](https://www.facebook.com/sharer/sharer.php?u=https://proton.me/blog/protonmail-open-source&quote=Proton%20Mail%20is%20Open%20Source!)
 * [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1711363892/static/social/linkedin-gray.svg)(new window)](https://www.linkedin.com/shareArticle?url=https://proton.me/blog/protonmail-open-source&mini=true&title=Proton%20Mail%20is%20Open%20Source!&summary=Free%20email%20accounts%20-%20now%20with%20open%20source%20code!&source=Proton "Proton Mail is Open Source!")
 
-![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1691480337/static/avatars/Proton_Team_jxnkj0.png)
+![](https://res.cloudinary.com/dbulfrlrz/image/upload/static/avatars/Proton_Team_jxnkj0.png)
 
 [Proton Team](https://protonmail.com/blog/author/protoneditor)
 
@@ -159,6 +157,22 @@ We are scientists, engineers, and specialists from around the world drawn togeth
 
 Related articles
 ----------------
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718887675/wp-pme/proton_gets_iso_certificate/proton_gets_iso_certificate.?_i=AA)
+
+* Proton news
+
+[Proton receives ISO 27001 certification](https://protonmail.com/blog/iso-27001-certification)
+
+Proton prioritizes our community’s privacy and data security in every aspect of our business.  To further demonstrate our commitment, we underwent a rigorous external audit and – on May 2, 2024 – received our ISO 27001 certification.  As an organiz
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718817375/wp-pme/drive-ios-photo-backup/drive-ios-photo-backup.?_i=AA)
+
+* Proton Drive
+
+[Proton Drive’s photo backup comes to iOS – Now everyone can protect their memories](https://protonmail.com/blog/proton-drive-photo-backup-ios)
+
+Anyone with an iPhone can now enjoy Proton Drive’s secure and private photo backup capabilities. This feature is gradually rolling out to the Proton community and will be available to everyone by the end of this week. Smartphones have made us all am
 
 ![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718618908/wp-pme/proton-foundation/proton-foundation.png?_i=AA)
 
@@ -191,23 +205,6 @@ Password spraying attacks pose a major risk to individuals and organizations as 
 [How to auto-generate passwords that are actually secure](https://protonmail.com/blog/auto-generate-password)
 
 A secure password is your first defense against unauthorized access to your personal information. While there are tools that generate strong passwords, remembering these complex combinations can become a challenge. Even if you use mnemonic devices,
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718071998/wp-pme/email_hosting_blog_cover/email_hosting_blog_cover.?_i=AA)
-
-* For business
-
-[How to pick the best email hosting provider for your small business](https://protonmail.com/blog/email-hosting-small-business)
-
-Choosing the best email hosting provider for your small business is crucial for maintaining security, control, and compliance with data protection laws.  For one, many popular providers, such as Gmail and Outlook, don’t apply end-to-end encryption b
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718221040/wp-pme/drive-sharing-feat2x/drive-sharing-feat2x.?_i=AA)
-
-* Product updates
-* Proton Drive
-
-[Proton Drive introduces new sharing features for more security and control](https://protonmail.com/blog/enhanced-sharing-drive)
-
-Today, we’re excited to announce new enhancements to Proton Drive’s sharing functionality, giving you greater control over who you share with and how you share your files and folders. This feature builds on how sharing currently works in Drive by le
 
 ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
 
