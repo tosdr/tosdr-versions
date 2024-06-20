@@ -70,11 +70,11 @@
 
 MBFC News
 
+* [June 20, 2024 | MBFC’s Daily Vetted Fact Checks for 06/20/2024](https://mediabiasfactcheck.com/2024/06/20/mbfcs-daily-vetted-fact-checks-for-06-20-2024/ "MBFC’s Daily Vetted Fact Checks for 06/20/2024")
+* [June 19, 2024 | MBFC’s Daily Vetted Fact Checks for 06/19/2024](https://mediabiasfactcheck.com/2024/06/19/mbfcs-daily-vetted-fact-checks-for-06-19-2024/ "MBFC’s Daily Vetted Fact Checks for 06/19/2024")
 * [June 18, 2024 | (Media News) YouTube Introduces Community Notes to Enhance Video Context](https://mediabiasfactcheck.com/2024/06/18/media-news-youtube-introduces-community-notes-to-enhance-video-context/ "(Media News) YouTube Introduces Community Notes to Enhance Video Context")
 * [June 18, 2024 | MBFC’s Daily Vetted Fact Checks for 06/18/2024](https://mediabiasfactcheck.com/2024/06/18/mbfcs-daily-vetted-fact-checks-for-06-18-2024/ "MBFC’s Daily Vetted Fact Checks for 06/18/2024")
 * [June 17, 2024 | (Media News) X is the Most Inaccurate News Source Among Social Media Platforms](https://mediabiasfactcheck.com/2024/06/17/x-is-the-most-inaccurate-news-source-among-social-media-platforms/ "(Media News) X is the Most Inaccurate News Source Among Social Media Platforms")
-* [June 17, 2024 | MBFC’s Daily Vetted Fact Checks for 06/17/2024](https://mediabiasfactcheck.com/2024/06/17/mbfcs-daily-vetted-fact-checks-for-06-17-2024/ "MBFC’s Daily Vetted Fact Checks for 06/17/2024")
-* [June 16, 2024 | Disinformation Research Group at Stanford Faces Uncertain Future Amid Political Scrutiny](https://mediabiasfactcheck.com/2024/06/16/disinformation-research-group-at-stanford-faces-uncertain-future-amid-political-scrutiny/ "Disinformation Research Group at Stanford Faces Uncertain Future Amid Political Scrutiny")
 
 Search for:  
 
@@ -134,6 +134,30 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [National Republican Senatorial Committee (NRSC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-senatorial-committee-nrsc-bias-and-credibility/)
+    
+    June 20, 2024
+    
+* [350 Turkiye – Bias and Credibility](https://mediabiasfactcheck.com/350-turkiye-bias-and-credibility/)
+    
+    June 20, 2024
+    
+* [National Organization for Women (NOW) – Bias and Credibility](https://mediabiasfactcheck.com/national-organization-for-women-now-bias-and-credibility/)
+    
+    June 19, 2024
+    
+* [BMC Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/bmc-chemistry-bias/)
+    
+    June 19, 2024
+    
+* [KICW – NPR – Ottumwa – Bias and Credibility](https://mediabiasfactcheck.com/kicw-npr-ottumwa-bias/)
+    
+    June 19, 2024
+    
+* [Petersburg Progress-Index – Bias and Credibility](https://mediabiasfactcheck.com/petersburg-progress-index-bias/)
+    
+    June 19, 2024
+    
 * [South OKC News – Bias and Credibility](https://mediabiasfactcheck.com/south-okc-news-bias/)
     
     June 18, 2024
@@ -142,68 +166,44 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     June 18, 2024
     
-* [Dayton Herald-News – Bias and Credibility](https://mediabiasfactcheck.com/dayton-herald-news-bias/)
-    
-    June 18, 2024
-    
-* [Cumberland News & Star – Bias and Credibility](https://mediabiasfactcheck.com/cumberland-news-star-bias/)
-    
-    June 18, 2024
-    
-* [Bellevue Reporter – Bias and Credibility](https://mediabiasfactcheck.com/bellevue-reporter-bias/)
-    
-    June 18, 2024
-    
-* [NewsLaundry – Bias and Credibility](https://mediabiasfactcheck.com/newslaundry-bias-and-credibility/)
-    
-    June 17, 2024
-    
-* [Ethiopia Government and Media Profile](https://mediabiasfactcheck.com/ethiopia-government-and-media-profile/)
-    
-    June 17, 2024
-    
-* [Alabama Reflector – Bias and Credibility](https://mediabiasfactcheck.com/alabama-reflector-bias/)
-    
-    June 17, 2024
-    
 
 [See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - June 18, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - June 20, 2024
     
-* [South OKC News – Bias and Credibility](https://mediabiasfactcheck.com/south-okc-news-bias/ "View South OKC News – Bias and Credibility") - June 18, 2024
+* [National Republican Senatorial Committee (NRSC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-senatorial-committee-nrsc-bias-and-credibility/ "View National Republican Senatorial Committee (NRSC) –  Bias and Credibility") - June 20, 2024
     
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - June 18, 2024
+* [Electoral College Map 2024 – Biden vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Biden vs. Trump") - June 20, 2024
     
-* [National Republican Congressional Committee (NRCC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-congressional-committee-nrcc-bias/ "View National Republican Congressional Committee (NRCC) – Bias and Credibility") - June 18, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - June 20, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - June 18, 2024
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - June 20, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - June 18, 2024
+* [350 Turkiye – Bias and Credibility](https://mediabiasfactcheck.com/350-turkiye-bias-and-credibility/ "View 350 Turkiye – Bias and Credibility") - June 20, 2024
     
-* [Dayton Herald-News – Bias and Credibility](https://mediabiasfactcheck.com/dayton-herald-news-bias/ "View Dayton Herald-News – Bias and Credibility") - June 18, 2024
+* [National Organization for Women (NOW) – Bias and Credibility](https://mediabiasfactcheck.com/national-organization-for-women-now-bias-and-credibility/ "View National Organization for Women (NOW) –  Bias and Credibility") - June 19, 2024
     
-* [Radio Free Asia – Bias and Credibility](https://mediabiasfactcheck.com/radio-free-asia/ "View Radio Free Asia – Bias and Credibility") - June 18, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - June 19, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - June 18, 2024
+* [BMC Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/bmc-chemistry-bias/ "View BMC Chemistry – Bias and Credibility") - June 19, 2024
     
-* [Cumberland News & Star – Bias and Credibility](https://mediabiasfactcheck.com/cumberland-news-star-bias/ "View Cumberland News & Star – Bias and Credibility") - June 18, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - June 19, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 06/18/2024](https://mediabiasfactcheck.com/2024/06/18/mbfcs-daily-vetted-fact-checks-for-06-18-2024/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [MBFC's Daily Vetted Fact Checks for 06/19/2024](https://mediabiasfactcheck.com/2024/06/19/mbfcs-daily-vetted-fact-checks-for-06-19-2024/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [MBFC's Daily Vetted Fact Checks for 06/20/2024](https://mediabiasfactcheck.com/2024/06/20/mbfcs-daily-vetted-fact-checks-for-06-20-2024/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 * [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
-* [New York Post - Bias and Credibility](https://mediabiasfactcheck.com/new-york-post/)
-* [Search](https://mediabiasfactcheck.com/search/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Cook Political Report - Bias and Credibility](https://mediabiasfactcheck.com/cook-political-report/)
 
 #### Subscribe via Email
 
