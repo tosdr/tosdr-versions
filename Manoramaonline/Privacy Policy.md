@@ -2,11 +2,11 @@ ADVERTISEMENT
 
 Get ad-lite experience. [Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
 
-Download Manorama Online App
+SUBSCRIBE
 
-[GET APP](https://mobile.manoramaonline.com/MobHome.html "GET APP")
+[SUBSCRIBE](https://www.manoramaonline.com/myaccount/subscribe-plan.html "SUBSCRIBE")
 
-[Today's E-paperWeb](https://epaper.manoramaonline.com/MMPortalUI/ "Today's E-paperWeb")
+[Today's E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Today's E-paper")
 
 [](https://www.facebook.com/manoramaonline/ "Facebook")
 
@@ -23,7 +23,7 @@ Download Manorama Online App
 
 * ×
     
-     [![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal.png "Manorama Online") ![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal-dark.png "Manorama Online")](https://www.manoramaonline.com/)
+     [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manorama Online") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manorama Online")](https://www.manoramaonline.com/)
     
     മലയാളത്തിൽ ടൈപ്പ് ചെയ്യാൻ
     
@@ -35,12 +35,12 @@ Download Manorama Online App
     * [Crime News](https://www.manoramaonline.com/tagresults.html?tag=mo:crime/crime-news)
     * [Premium](https://www.manoramaonline.com/premium.html)
     
-* [GET APP](https://mobile.manoramaonline.com/MobHome.html "GET APP")
+* [SUBSCRIBE](https://www.manoramaonline.com/myaccount/subscribe-plan.html "SUBSCRIBE")
 
 * Sections
     
 
- [![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal.png "Manorama Online") ![Manorama Online SEO](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2024/national-reading-day-logo-mal-dark.png "Manorama Online")](https://www.manoramaonline.com/)
+ [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manorama Online") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manorama Online")](https://www.manoramaonline.com/)
 
 [Mobile E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Mobile E-paper")
 
