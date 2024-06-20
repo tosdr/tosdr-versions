@@ -337,7 +337,12 @@ Here’s a list of our Essential cookies
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Cookie** | **What’s it used for?** | **On which O2 websites / apps is it used?** | **How long does it last?** | **1st or 3rd party cookie** |
-| \_\_evo\_o2\_2592000 | 15 Gifts - our product recommendations engine uses these cookies to track if you've used the tool before and to help store the responses you gave. | **o2.co.uk -** Shop, O2 Community, O2 Pay & Go Rewards and O2 Business Blog | Persistent - 21 days | 1st |
+| aws-waf-token | Amazon conncet - our web chat platform uses these cookies to help identify unique users, new sessions and web traffic sources. | **o2.co.uk -** Sign in area, Business shop, My O2 web, Home page, Why O2, Help content and Shop  <br>priority.o2.co.uk - Priority website | Persistent - 14 days | 1st |
+| amazon-connect-\* | Amazon conncet - our web chat platform uses these cookies to help identify unique users, new sessions and web traffic sources. | **o2.co.uk -** Shop, O2 Community, O2 Pay & Go Rewards and O2 Business Blog | Session | 3rd |
+| awschat\_jwtToken | Amazon conncet - our web chat platform uses these cookies to help identify unique users, new sessions and web traffic sources. | **o2.co.uk -** Shop, O2 Community, O2 Pay & Go Rewards and O2 Business Blog | Persistent - 1 year | 1st |
+| awschat\_sessionId | Amazon conncet - our web chat platform uses these cookies to help identify unique users, new sessions and web traffic sources. | **o2.co.uk -** Shop, O2 Community, O2 Pay & Go Rewards and O2 Business Blog | Persistent - 1 year | 1st |
+| OptanonAlertBoxClosed | Cookie banner capability - this cookie helps us to know when to show you the cookie banner. | **o2.co.uk -** Shop, O2 Community, O2 Pay & Go Rewards and O2 Business Blog | Persistent - 1 year | 1st |
+| OptanonConsent | Cookie banner capability - this cookie helps us to know when to show you the cookie banner. | **o2.co.uk -** Shop, O2 Community, O2 Pay & Go Rewards and O2 Business Blog | Persistent - 1 year | 1st |
 | \_\_evo\_o2\_session | 15 Gifts - our product recommendations engine uses these cookies to track if you've used the tool before and to help store the responses you gave. | **o2.co.uk -** Shop and O2 Business Blog | Session | 1st |
 | uid\_1 | 15 Gifts - our product recommendations engine uses these cookies to track if you've used the tool before and to help store the responses you gave. | **o2.co.uk** - Home page, Why O2, Help content and Shop | Persistent - 27 days | 1st |
 | user\_ip | 15 Gifts - our product recommendations engine uses these cookies to track if you've used the tool before and to help store the responses you gave. | **o2.co.uk** - Home page, Why O2, Help content and Shop | Session | 1st |
@@ -539,15 +544,6 @@ Here’s a list of our Performance cookies
 | \_gat\_UA-\* | Google Analytics - our web analytics tool uses these cookies to help identify unique users, new sessions and web traffic sources. | **o2.co.uk** \- Home page, Why O2, Help content, Shop and O2 Star Trader | Session | 1st |
 | \_gid | Google Analytics - our web analytics tool uses these cookies to help identify unique users, new sessions and web traffic sources. | * **o2.co.uk** \- Sign in area, Business shop, My O2 web, Home page, Why O2, Help content, Shop, O2 Open, O2 Community, O2 Star Trader, O2 Pay & Go Rewards and O2 Business Blog<br>* **priority.o2.co.uk** \- Priority website | Persistent - 1 day | 1st |
 | hatch\_cookie | Hatch - this cookie is used to measure the performance of email campaigns. | **o2.co.uk** \- Home page, Why O2, Help content and Shop | Session | 1st |
-| cd\_user\_id | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content, Shop and O2 Open<br>* **priority.o2.co.uk** \- Priority website | Persistent - 365 days | 1st |
-| kampyle\_userid | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Persistent - 365 days | 1st |
-| kampyleInvitePresented | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Session | 3rd |
-| kampyleSessionPageCounter | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Persistent - 365 days | 1st |
-| kampyleUserPercentile | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Session | 1st |
-| kampyleUserSession | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Persistent - 365 days | 1st |
-| kampyleUserSessionsCount | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Persistent - 365 days | 1st |
-| md\_isSurveySubmittedInSession | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Session | 3rd |
-| mdLogger | Medallia - our on-site survey tool uses these cookies to help target surveys and to make sure you are not invited to take part every time you visit our site. | * **o2.co.uk** \- Home page, Why O2, Help content and Shop<br>* **priority.o2.co.uk** \- Priority website | Persistent - 365 days | 1st |
 | sc.ASP.NET\_SESSIONID | SessionCam - we use these cookies to track mouse clicks, mouse movements, page scrolling and interactions with forms. We store the data and use it for aggregated and statistical reporting. Then we use this information to improve our website. | **o2.co.uk** \- Sign in area, Business shop, My O2 web, Home page, Why O2, Help content, Shop and O2 Star Trader | Session | 1st |
 | sc.UserId | SessionCam - we use these cookies to track mouse clicks, mouse movements, page scrolling and interactions with forms. We store the data and use it for aggregated and statistical reporting. Then we use this information to improve our website. | **o2.co.uk** \- Business shop, Home page, Why O2, Help content and Shop | Persistent - 365 days | 1st |
 | SessionCamTestCookie | SessionCam - we use these cookies to track mouse clicks, mouse movements, page scrolling and interactions with forms. We store the data and use it for aggregated and statistical reporting. Then we use this information to improve our website. | **o2.co.uk** \- Sign in area, Business shop, Home page, Why O2, Help content and Shop, My O2 web | Session | 1st |
@@ -709,7 +705,7 @@ Popular in shop
 
 [Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
 
-[Apple iPad Pro 13 inch 7th Generation](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-7th-generation)
+[Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
 
 [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
 
@@ -775,7 +771,7 @@ Popular in shop
 
 [Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
 
-[Apple iPad Pro 13 inch 7th Generation](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-7th-generation)
+[Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
 
 [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
 
