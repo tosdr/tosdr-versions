@@ -2,38 +2,6 @@
 
 ![Occupy Democrats](https://occupydemocrats.com/wp-content/uploads/Occupy-Democrats-Logo-1.png)](https://occupydemocrats.com/ "Occupy Democrats")
 
-* [Home](https://occupydemocrats.com/)
-* [News](https://occupydemocrats.com/category/news/)
-* [News Analysis](https://occupydemocrats.com/category/news-analysis/)
-* [Opinion](https://occupydemocrats.com/category/opinion/)
-* [Exclusives](https://occupydemocrats.com/category/exclusives/)
-* [Subscribe](https://washingtonpress.com/newsletter/)
-* [About Us](https://occupydemocrats.com/about-us/)
-* [Newsletter](https://occupydemocrats.com/newsletter/)
-
-[![Occupy Democrats](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Occupy Democrats](https://occupydemocrats.com/wp-content/uploads/Occupy-Democrats-Logo-1.png)](https://occupydemocrats.com/ "Occupy Democrats")
-
-[![Occupy Democrats](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Occupy Democrats](https://occupydemocrats.com/wp-content/uploads/Occupy-Democrats-Logo-1.png)](https://occupydemocrats.com/ "Occupy Democrats")
-
-[Instagram
-
-Please check your username.](https://instagram.com/occupydemocrats)
-
-June 19, 2024
-
-* [Home](https://occupydemocrats.com/)
-* [News](https://occupydemocrats.com/category/news/)
-* [News Analysis](https://occupydemocrats.com/category/news-analysis/)
-* [Opinion](https://occupydemocrats.com/category/opinion/)
-* [Exclusives](https://occupydemocrats.com/category/exclusives/)
-* [Subscribe](https://washingtonpress.com/newsletter/)
-* [About Us](https://occupydemocrats.com/about-us/)
-* [Newsletter](https://occupydemocrats.com/newsletter/)
-
 Privacy
 =======
 
@@ -203,7 +171,7 @@ Occupy Democrats is a political organization and information website that provid
 
 [Instagram](https://instagram.com/occupydemocrats)
 
-June 19, 2024
+June 15, 2024
 
 Scroll To Top
 
@@ -222,6 +190,6 @@ Scroll To Top
 
 [Instagram](https://instagram.com/occupydemocrats)
 
-June 19, 2024
+June 15, 2024
 
 PRESS ESC TO CLOSE
