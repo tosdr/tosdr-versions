@@ -915,7 +915,7 @@ You may designate an authorized agent to make requests on your behalf. You must 
 
 1. **How to Exercise these Rights** 
 
-If you wish to submit a request to exercise one or more of the rights listed above you can do this by emailing us at [hello@formabrands.com](mailto:hello@formabrands.com), using our webform, or contacting us at \[[(877) 366-7743](tel:(877)%20366-7743)\].  
+If you wish to submit a request to exercise one or more of the rights listed above you can do this by emailing us at [morphe.privacy@formabrands.com](mailto:morphe.privacy@formabrands.com).  
 
 Please include your question or concerns in your letter to us. We will respond to verifiable requests for disclosure or deletion of Personal Information free of charge, within 45 days of receipt. 
 
