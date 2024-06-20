@@ -274,6 +274,6 @@ Contact
 
 Terms of Use
 
-[Cookie Policy](https://www.newsweek.com/cookie-policy)[Copyright](https://www.newsweek.com/copyright)[Privacy Policy](https://www.newsweek.com/privacy-policy)[Terms & Conditions](https://www.newsweek.com/terms-service)[Terms of Sale](https://www.newsweek.com/terms-sale) GDPR Privacy Settings Do Not Sell My Personal Information
+[Cookie Policy](https://www.newsweek.com/cookie-policy)[Copyright](https://www.newsweek.com/copyright)[Privacy Policy](https://www.newsweek.com/privacy-policy)[Terms & Conditions](https://www.newsweek.com/terms-service)[Terms of Sale](https://www.newsweek.com/terms-sale) Privacy Settings Do Not Sell My Personal Information
 
 © 2024 NEWSWEEK DIGITAL LLC
