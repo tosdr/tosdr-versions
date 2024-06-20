@@ -2,10 +2,10 @@
 
 [Plans](https://www.deezer.com/en/offers/) [Features](https://www.deezer.com/explore/features/) [Music](https://www.deezer.com/en/channels/explore/)
 
-[Log in](https://www.deezer.com/en/login) [Sign up](https://www.deezer.com/en/register)
+[Log in](https://account.deezer.com/login/) [Sign up](https://account.deezer.com/signup/)
 
-* [Log in](https://www.deezer.com/en/login)
-* [Sign up](https://www.deezer.com/en/register)
+* [Log in](https://account.deezer.com/login/)
+* [Sign up](https://account.deezer.com/signup/)
 * [Download the app](https://www.deezer.com/open_app?page=home&source=MF_MenuDownloadApp)
 * [Plans](https://www.deezer.com/en/offers)
 * [Explore Channels](https://www.deezer.com/en/channels/explore)
