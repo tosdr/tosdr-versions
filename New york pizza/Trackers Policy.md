@@ -208,7 +208,7 @@ New York Pizza gebruikt verschillende cookies voor analyses en statistieken. Eé
 * Hotjar (helpt ons om feedback en informatie uit te vragen)
 * Visual Website Optimizer en Google Optimize (experimenten om de websites en apps te verbeteren van NYP Devices)
 
-Klik [hier](https://www.newyorkpizza.nl/_contentediting/files/files/New%20York%20Pizza%20-%20Cookie%20statement%2015-2-2023%20versie%203.pdf) voor een volledig overzicht van de cookies die via de NYP Devices kunnen worden gebruikt.
+Klik [hier](https://www.newyorkpizza.nl/_contentediting/files/files/New%20York%20Pizza%20-%20Cookie%20statement%20update%2020-06-2024(1).pdf) voor een volledig overzicht van de cookies die via de NYP Devices kunnen worden gebruikt.
 
 ### Marketing / tracking cookies 
 
