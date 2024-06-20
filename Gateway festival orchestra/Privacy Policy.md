@@ -9,7 +9,9 @@
 Sign-up](https://www.gatewayfestivalorchestra.org/newsletter-sign-up/)
 
 * [Home](https://www.gatewayfestivalorchestra.org/)
-* [Upcoming Events](https://www.gatewayfestivalorchestra.org/calendar-events/)
+* [Calendar](#Calendar)
+    * [Upcoming Events](https://www.gatewayfestivalorchestra.org/calendar-events/)
+    * [The GFO at the Library](https://www.gatewayfestivalorchestra.org/the-gfo-at-the-library/)
 * [About](#About)
     * [About Us](https://www.gatewayfestivalorchestra.org/about-us/)
     * [Orchestra Musicians](https://www.gatewayfestivalorchestra.org/orchestra-musicians/)
@@ -24,7 +26,9 @@ Sign-up](https://www.gatewayfestivalorchestra.org/newsletter-sign-up/)
 Menu
 
 * [Home](https://www.gatewayfestivalorchestra.org/)
-* [Upcoming Events](https://www.gatewayfestivalorchestra.org/calendar-events/)
+* [Calendar](#Calendar)
+    * [Upcoming Events](https://www.gatewayfestivalorchestra.org/calendar-events/)
+    * [The GFO at the Library](https://www.gatewayfestivalorchestra.org/the-gfo-at-the-library/)
 * [About](#About)
     * [About Us](https://www.gatewayfestivalorchestra.org/about-us/)
     * [Orchestra Musicians](https://www.gatewayfestivalorchestra.org/orchestra-musicians/)
