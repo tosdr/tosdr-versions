@@ -164,7 +164,7 @@ Get in touch
 
      
 
-Please prove you are human by selecting the Heart. 
+Please prove you are human by selecting the Plane. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
@@ -188,4 +188,4 @@ Get In Touch
 
      
 
-Please prove you are human by selecting the Heart.
+Please prove you are human by selecting the Cup.
