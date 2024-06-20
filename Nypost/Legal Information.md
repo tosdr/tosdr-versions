@@ -72,7 +72,7 @@ Search
 
 #### Breaking News
 
-[Justin Timberlake's mugshot reveals singer's bloodshot, glassy eyes moments after DWI arrest in Hamptons](https://nypost.com/2024/06/18/us-news/justin-timberlakes-mugshot-reveals-singers-bloodshot-glassy-eyes-moments-after-dwi-arrest-in-hamptons/)
+[Legendary actor Donald Sutherland dead at 88, son Kiefer pays tribute: 'A life well lived'](https://nypost.com/2024/06/20/entertainment/donald-sutherland-dead-at-88-kiefer-pays-tribute-a-life-well-lived/)
 
 Privacy Notice Highlights
 =========================
