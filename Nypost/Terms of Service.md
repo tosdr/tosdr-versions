@@ -72,7 +72,7 @@ Search
 
 #### Breaking News
 
-[US soldier sentenced to nearly four years in Russia’s penal colony: report](https://nypost.com/2024/06/18/us-news/us-soldier-gordon-black-sentenced-to-nearly-four-years-in-russias-penal-colony-report/)
+[Legendary actor Donald Sutherland dead at 88, son Kiefer pays tribute: 'A life well lived'](https://nypost.com/2024/06/20/entertainment/donald-sutherland-dead-at-88-kiefer-pays-tribute-a-life-well-lived/)
 
 Terms Of Use
 ============
