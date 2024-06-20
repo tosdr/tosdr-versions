@@ -322,12 +322,12 @@ Close search bar
 * [Gap insurance](https://www.moneysavingexpert.com/insurance/gap-insurance/)
 * [Discover more](https://www.moneysavingexpert.com/insurance/car-insurance/)
 
-[Travel Insurance](https://www.moneysavingexpert.com/travel-insurance/)
+[Travel Insurance](https://www.moneysavingexpert.com/insurance/travel-insurance/)
 
 * [Cheap travel insurance](https://www.moneysavingexpert.com/insurance/cheap-travel-insurance/)
 * [Travel insurance for pre-existing conditions](https://www.moneysavingexpert.com/insurance/pre-existing-travel-insurance/)
 * [Over-65s travel insurance](https://www.moneysavingexpert.com/insurance/over65s-travel-insurance/)
-* [Discover more](https://www.moneysavingexpert.com/travel-insurance/)
+* [Discover more](https://www.moneysavingexpert.com/insurance/travel-insurance/)
 
 [Household Insurance](https://www.moneysavingexpert.com/insurance/home-insurance/)
 
@@ -813,6 +813,22 @@ This Privacy Policy explains how we use your personal information, including the
 * [Martin's Blog](#tab-01132106518-1)
 * [Deals Blog](#tab-01132106518-2)
 
+* ### [Sainsbury's Bank customer? You're set to be moved to NatWest next year – here's what's happening](https://www.moneysavingexpert.com/news/2024/06/sainsburys-loan-credit-card-natwest/)
+    
+    20 June 2024
+    
+    [![](/content/dam/mse/tip/rhs/rhs-sainsburys.png.rendition.320.320.png)](https://www.moneysavingexpert.com/news/2024/06/sainsburys-loan-credit-card-natwest/)
+    
+    If you have a credit card, loan or savings with Sainsbury's Bank, you could be moved to NatWest next year as part of a deal between the two banks – but it's still early days and there's NO change right now.
+    
+* ### [Base rate held at 5.25% again – but with a possible cut in August, what does it mean for your mortgage and savings?](https://www.moneysavingexpert.com/news/2024/06/bank-of-england-base-rate-held/)
+    
+    20 June 2024
+    
+    [![](/content/dam/boe-hero-front.jpg.rendition.320.320.jpg "1631931988")](https://www.moneysavingexpert.com/news/2024/06/bank-of-england-base-rate-held/)
+    
+    The Bank of England has held the base rate at 5.25% for the seventh time in a row – but with some economists and traders still predicting a rate cut in August, there could be a knock on impact on mortgage and savings rates.
+    
 * ### [Get £50 off energy standing charges with EDF's new discounted Price Cap tariff](https://www.moneysavingexpert.com/news/2024/06/edf-energy-launches-new-tracker-tariff/)
     
     18 June 2024
@@ -836,22 +852,6 @@ This Privacy Policy explains how we use your personal information, including the
     [![](/content/dam/RHS-Card-drop-off.png.rendition.320.320.png)](https://www.moneysavingexpert.com/news/2024/06/airport-drop-off-charges/)
     
     Seven major airports across the UK upped the cost of dropping off passengers over the last year, a MoneySavingExpert investigation reveals – and five now charge a whopping £6 or more to let someone out at the kerb.
-    
-* ### [Nationwide to pay £100 'Fairer Share' bonus to millions of customers this month – here's who will get the payment](https://www.moneysavingexpert.com/news/2024/05/nationwide-fairer-share-members-bonus-payment/)
-    
-    18 June 2024
-    
-    [![](/content/dam/mse/tip/rhs/RHS-nationwide-logo.png.rendition.320.320.png)](https://www.moneysavingexpert.com/news/2024/05/nationwide-fairer-share-members-bonus-payment/)
-    
-    The £100 bonus will be paid to millions of the building society's current account customers who also have savings or a mortgage with it.
-    
-* ### [Protect cash and help more people access affordable credit, next Government urged](https://www.moneysavingexpert.com/news/2024/06/general-election-financial-inclusion-education/)
-    
-    17 June 2024
-    
-    [![](/content/dam/rhs-pension-saving.jpg.rendition.320.320.jpg)](https://www.moneysavingexpert.com/news/2024/06/general-election-financial-inclusion-education/)
-    
-    Protecting and expanding access to cash and other essential banking services – such as affordable credit – must be a priority for the next Government, according to a new report published today.
     
 
 * ### [Martin Lewis: Don't shop at Zara before you go to Spain, Greece, France or Italy](https://blog.moneysavingexpert.com/2014/05/buy-zara-clothes-at-a-fraction-of-the-cost-and-get-a-flight-thrown-in/)
