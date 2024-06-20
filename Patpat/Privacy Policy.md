@@ -1,4 +1,4 @@
-Free Shipping On Orders Over €36.00
+Free Shipping Over €36.00 | Free Return
 
 [](https://eur.patpat.com/)
 
@@ -2006,7 +2006,7 @@ SHOP NOW
 * [Influencer Program](https://eur.patpat.com/celebrity-application)
 * [PatPat Community](https://www.facebook.com/groups/PatPatParentingCommunity)
 
-[Terms](https://eur.patpat.com/terms) [Privacy](https://eur.patpat.com/privacy)[DMCA Policy](https://eur.patpat.com/dmca-notice)[Community Guidelines](https://eur.patpat.com/article/community-guidelines)
+[Terms](https://eur.patpat.com/terms) [Privacy](https://eur.patpat.com/privacy)[DMCA Policy](https://eur.patpat.com/dmca-notice)[Community Guidelines](https://eur.patpat.com/article/community-guidelines) [Sitemap](https://eur.patpat.com/sitemap)
 
 Belgium
 
