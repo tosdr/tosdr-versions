@@ -214,7 +214,7 @@ Please select your shipping region
     
     [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf&ab=EU_navimage_men_brands_S4_IMAGE)
     
-    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1718694389698/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a2/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1718917455454/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
     
     * Brands [Brands](javascript:void(0))
         
@@ -237,6 +237,7 @@ Please select your shipping region
         
         * [New Arrivals](https://www.ralphlauren.co.uk/en/men/whats-new/new-arrivals/10101?webcat=men%7Cfeatures%7Cmen-new-arrivals)
         * [Wimbledon Style](https://www.ralphlauren.co.uk/en/men/explore/wimbledon-style/130104?webcat=men%7Cfeatures%7Ccurated-mixed-wimbledon)
+        * [Style & Sport](https://www.ralphlauren.co.uk/en/search?cgid=curated-world-of-sports&webcat=men%7cfeatures%7ccurated-world-of-sports-rd3&orignalCatID=curated-world-of-sports-rd3&altrurlID=curated-world-of-sports-rd3)
         * [Summer Style](https://www.ralphlauren.co.uk/en/men/whats-new/summer-essentials/101020?webcat=men%7Cfeatures%7Cmen-the-beach-shop)
         * [Linen Collection](https://www.ralphlauren.co.uk/en/mens-linen-shirts/1203023?webcat=men%7Cfeatures%7Ccurated-men-linen-shirts)
         * [Father & Son Day](https://www.ralphlauren.co.uk/en/men/explore/father-son-day/12030152?webcat=men%7Cfeatures%7Cfathers-day-campaign)
@@ -389,7 +390,7 @@ Please select your shipping region
         
         * [New Season](https://www.ralphlauren.co.uk/en/women/whats-new/new-arrivals/20101?webcat=women%7Cfeatures%7Cwomen-new-arrivals)
         * [Wimbledon Style](https://www.ralphlauren.co.uk/en/men/explore/wimbledon-style/130104?webcat=women%7cfeatures%7ccurated-mixed-wimbledon-rd&orignalCatID=curated-mixed-wimbledon-rd&altrurlID=curated-mixed-wimbledon-rd)
-        * [Sportswear](https://www.ralphlauren.co.uk/en/women/explore/sportswear/903090?webcat=women%7Cfeatures%7Cwomen-athleisure-2)
+        * [Style & Sport](https://www.ralphlauren.co.uk/en/search?cgid=curated-world-of-sports&webcat=women%7cfeatures%7ccurated-world-of-sports-rd1&orignalCatID=curated-world-of-sports-rd1&altrurlID=curated-world-of-sports-rd1)
         * [Wardrobe Classics](https://www.ralphlauren.co.uk/en/women/explore/wardrobe-classics/9030107?webcat=women%7Cfeatures%7Cwomen-wardrobe-classics)
         * [Summer Style](https://www.ralphlauren.co.uk/en/women/whats-new/summer-shop/903028?webcat=women%7Cfeatures%7Cwomen-summer-essentials)
         * [Holiday Shop](https://www.ralphlauren.co.uk/en/women/whats-new/holiday-shop/201014?webcat=women%7Cfeatures%7Cwomen-the-beach-shop)
@@ -540,6 +541,7 @@ Please select your shipping region
         * [New Arrivals for Boys](https://www.ralphlauren.co.uk/en/kids/whats-new/new-arrivals-for-boys/30506?webcat=kids%7Cinspiration%7Cboys-new-arrivals)
         * [New Arrivals for Girls](https://www.ralphlauren.co.uk/en/kids/whats-new/new-arrivals-for-girls/30507?webcat=kids%7Cinspiration%7Cgirls-new-arrivals)
         * [Wimbledon Style](https://www.ralphlauren.co.uk/en/men/explore/wimbledon-style/130104?webcat=kids%7cinspiration%7ccurated-mixed-wimbledon-rd-1&orignalCatID=curated-mixed-wimbledon-rd-1&altrurlID=curated-mixed-wimbledon-rd-1)
+        * [Style & Sport](https://www.ralphlauren.co.uk/en/search?cgid=curated-world-of-sports&webcat=kids%7cinspiration%7ccurated-world-of-sports-rd2&orignalCatID=curated-world-of-sports-rd2&altrurlID=curated-world-of-sports-rd2)
         * [Summer Classics](https://www.ralphlauren.co.uk/en/kids/explore/summer-classics/305052?webcat=kids%7Cinspiration%7Ckids-summer-classics)
         * [Seaside Ease for Boys](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-boys/305050?webcat=kids%7Cinspiration%7Cboys-seaside-ease)
         * [Seaside Ease for Girls](https://www.ralphlauren.co.uk/en/kids/explore/seaside-ease-for-girls/305051?webcat=kids%7Cinspiration%7Cgirls-seaside-ease)
@@ -1293,22 +1295,6 @@ eu-summer-sale-disclaimers-public
 
 From 12/06/2024 to 29/07/2024 only for purchases made on this website. Applies only to items identified with a discount tag (“Eligible items”). Discount may vary per item and is reflected directly on the Eligible items price tag. The Discount has no cash value and cannot be applied to previously purchased items. Subject to stock availability. Products offered for sale are for personal use only. Resale or bulk buying is forbidden. Eligible returns shall be refunded at the discounted price. We reserve the right to cancel, amend, terminate or suspend the Discount in circumstances outside our reasonable control. By redeeming your discount, you accept and agree to be bound by these conditions. We reserve the right to refuse to apply the Discount if you breach these.](javascript::)
 
- 
-
-  
-
-[](https://www.ralphlauren.co.uk/en/men/705862?webcat=content-brands-purple-label-presentation&ab=EU_HP_Slot_0_S1_Image_SHOP)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-Spring 2025 Milan Presentation
-------------------------------
-
-Spring 2025 Milan Presentation
-------------------------------
-
-[Explore Now](https://www.ralphlauren.co.uk/en/men/705862?webcat=content-brands-purple-label-presentation&ab=EU_HP_Slot_0_S1_L1_SHOP)
-
            
 
   ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -1416,7 +1402,7 @@ Ralph Lauren proudly celebrates Wimbledon’s rich traditions in sportsmanship a
 
   [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf)
 
-![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a2/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
 
 Tournament Style
 ----------------
@@ -1431,7 +1417,7 @@ Billy Horschel RL Ambassador
 
 [](https://www.ralphlauren.co.uk/en/womens-golf/707230?webcat=content-womens-golf-feat)
 
-![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a2/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
 
 Tournament Style
 ----------------
@@ -1461,9 +1447,9 @@ From Polo shirts to silk ties, find a perfect present Dad will love
 
 [](https://www.ralphlauren.co.uk/en/men/explore/father-son-day/12030152?webcat=content-fathers-day-campaign)
 
-![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw83c54efe/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_a.png?yocs=8I_8L_8M_8Q_)
+![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a2/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw83c54efe/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_a.png?yocs=8I_8L_8M_8Q_)
 
-![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a0/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw680a0486/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_b.png?yocs=8I_8L_8M_8Q_)
+![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.a2/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dw680a0486/img/202406/06062024-eu-father-son-banner/0606_father_banner_icon_b.png?yocs=8I_8L_8M_8Q_)
 
 ### Join Us in the Fight Against Cancer
 
