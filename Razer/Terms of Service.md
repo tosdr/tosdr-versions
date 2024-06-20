@@ -167,6 +167,7 @@ Skip to Header Skip to Main Content Skip to Footer
             
             * [Razer DeathAdder V3 Pro + HyperPolling Wireless Dongle](https://hard-bundles/DeathAdder-V3-Pro-HyperPolling-Wireless-Dongle/RZHB-230201-20)
             * [Razer DeathAdder V3 Pro](https://gaming-mice/razer-deathadder-v3-pro)
+            * [Razer DeathAdder V3 HyperSpeed](https://gaming-mice/razer-deathadder-v3-hyperspeed)
             * [Razer DeathAdder V3](https://gaming-mice/razer-deathadder-v3)
             * [Razer Viper V3 Pro](https://gaming-mice/razer-viper-v3-pro)
             * [Razer Viper V3 HyperSpeed](https://gaming-mice/razer-viper-v3-hyperspeed)
@@ -222,6 +223,7 @@ Skip to Header Skip to Main Content Skip to Footer
             * [View All DeathAdder](https://pc/gaming-mice/deathadder-line)
             * [Razer DeathAdder V3 Pro + HyperPolling Wireless Dongle](https://hard-bundles/DeathAdder-V3-Pro-HyperPolling-Wireless-Dongle/RZHB-230201-20)
             * [Razer DeathAdder V3 Pro](https://gaming-mice/razer-deathadder-v3-pro)
+            * [Razer DeathAdder V3 HyperSpeed](https://gaming-mice/razer-deathadder-v3-hyperspeed)
             * [Razer DeathAdder V3](https://gaming-mice/razer-deathadder-v3)
             
         * Naga
