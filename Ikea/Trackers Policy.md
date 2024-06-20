@@ -21,10 +21,7 @@ Close menu
 * [Deals](https://www.ikea.com/us/en/offers/)
 * [Services & support](https://www.ikea.com/us/en/customer-service/services/)
 
-You’re viewing the United States ikea.com
------------------------------------------
-
-[Change country/region](https://www.ikea.com/)
+You’re viewing the United States ikea.com[Change country/region](https://www.ikea.com/)
 
 Please be aware your shopping cart will be emptied if changed.
 
