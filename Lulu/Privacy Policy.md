@@ -16,7 +16,7 @@
     
 * Resources
     
-    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Toolkit](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
+    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
     
 * Bookstore
     
@@ -34,8 +34,6 @@ Lulu Press, Inc. 700 Park Offices Drive Suite 250 Research Triangle, NC 27709
 Welcome to Lulu Press, Inc. (“Lulu”, “we”, “us”, and its derivatives). Lulu makes available a multi-component SaaS platform and provides related services (the platform, software tools and resources, professional services and Site, collectively, the “Services”) that facilitate on-demand production and fulfillment of products such as books, calendars, and other branded and/or personalized merchandise that incorporate user-provided content. We are committed to protecting your privacy when you use the Services, and this Privacy Policy (the “Policy”) describes how we collect and use information about individuals related to the Services. As used herein, “you” and “user” are used interchangeably and refer to anyone who visits our Site or uses the Services. By visiting the Site and or using the Services, you consent to the practices described in this Policy. 
 
 If you have any questions or comments about this Privacy Policy, please contact us at [\[email protected\]](https://www.lulu.com/cdn-cgi/l/email-protection).
-
-Modify Privacy Options
 
 **_REVISED:_** _February 8, 2022_
 
@@ -212,7 +210,21 @@ At all times, you are responsible for updating your Personal Data to provide us 
 
 The Site is controlled and operated by us from the United States of America, and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States of America. We do not represent or warrant that the Site, or any part of the Site, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
 
-[About Us](https://www.lulu.com/about-us)[Contact Support](https://help.lulu.com/en/support/tickets/new)[Newsroom](https://www.lulu.com/newsroom)[Careers](https://www.lulu.com/careers)[Developers](https://developers.lulu.com/home)
+Our Team
+
+[About Us](https://www.lulu.com/about-us)[Careers](https://www.lulu.com/careers)
+
+[Newsroom](https://www.lulu.com/newsroom)
+
+Community
+
+[Blog](https://blog.lulu.com/)[Videos](https://www.youtube.com/@Luludotcom)[Podcast](https://www.publishprosperpodcast.com/)
+
+[Developers](https://developers.lulu.com/home)
+
+Help
+
+[Order Lookup](https://www.lulu.com/order-lookup?)[Knowledge Base](https://help.lulu.com/en/support/home)[Contact Support](https://help.lulu.com/en/support/tickets/new)
 
 English
 
@@ -228,11 +240,9 @@ Italiano
 
 Español
 
-[](https://www.facebook.com/Luludotcom/)[](https://www.instagram.com/luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@Luludotcom)[](https://www.twitter.com/Luludotcom)[](https://www.tiktok.com/@lulupublishing)[](https://www.pinterest.com/luludotcom/)[](https://blog.lulu.com/)
+[](https://www.instagram.com/luludotcom/)[](https://www.facebook.com/Luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@Luludotcom)[](https://blog.lulu.com/)[](https://www.publishprosperpodcast.com/)[](https://www.tiktok.com/@lulupublishing)[](https://www.twitter.com/Luludotcom)
 
 Get exclusive Publishing & Marketing tips to help you create and sell your books more effectively! You can unsubscribe at any time.
-
-Submit
 
 [](https://www.lulu.com/ "Lulu Logo")[](https://www.lulu.com/sell/sell-on-your-site/print-api "Lulu API Logo")[](https://www.lulujr.com/ "Lulu Jr. Logo")[](https://www.thetilt.com/ "Tilt Logo")
 
