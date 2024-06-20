@@ -4,7 +4,7 @@
 
 [Get Best Price](https://my.indiamart.com/blgen/postbl?modid=IMHOME)
 
-Last Updated On: 04 August 2022
+Last Updated On: 19 June 2024
 
 Privacy Policy
 ==============
@@ -27,7 +27,7 @@ We confirm that we collect those information from you which is required to exten
 * User’s registration with us and providing information is intended for facilitating the users in its business.
 * We retains user provided Information for as long as the Information is required for the purpose of providing services to you or where the same is required for any purpose for which the Information can be lawfully processed or retained as required under any statutory enactments or applicable laws.
 * In relation to provide additional services to our users we also let service providers, payment systems and data aggregators to collect or store your information specially to verify credit analysis and credit limits from time to time. These data points may be captured by regulated financial entities through secure integration from your desktop, mobile and other such devices by analyzing transactional SMS, installed app details, queries, device location, device information, IMEI number, serial number, MNC and MCC codes, RAM storage, WIFI information etc.
-* We also avail of the class called AccountManager from the Google SDK which in turn fetches Your e-mail IDs that You may be logged into from the device that you are accessing our platform from. This allows us to pre-fill Your verified e-mail ID details so that we can offer You a seamless and convenient user experience. You can always edit such pre-filled e-mail ID from your user profile.
+* We also avail of the class called AccountManager from the Google SDK which allows us to fetch social account related details. However, we only collect Your e-mail IDs that you may be logged into from the device that you are accessing our platform from. This allows us to pre-fill Your verified e-mail ID details so that we can offer You a seamless and convenient user experience. You can always edit such pre-filled e-mail ID from your user profile.
 
 User may update, correct, or confirm provided information by logging on to their accounts on the site or by sending a request to [customercare@indiamart.com](mailto:customercare@indiamart.com). The requested changes may take reasonable time due to verification process and server cache policies. In case you would like to receive a copy of our information held by us for porting to another service, please contact us with your request at the email address above.
 
