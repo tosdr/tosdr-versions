@@ -44,6 +44,15 @@
     * [![Sliding Games Icon](/sites/default/files/2023-01/Sliding.svg)Sliding](https://www.coolmathgames.com/1-sliding-games)
     * [![Think Outside the Box Games Icon](/sites/default/files/2022-07/Think-outside-box.svg)Think Outside the Box](https://www.coolmathgames.com/1-think-outside-the-box-games)
     
+* [Classic](https://www.coolmathgames.com/1-classic-games)
+    
+    * [![Board Games Icon](/sites/default/files/2022-11/Board-games.svg)Board](https://www.coolmathgames.com/1-board-games)
+    * [![Card Games Icon](/sites/default/files/2022-05/Card.svg)Card](https://www.coolmathgames.com/1-card-games)
+    * [![Retro Games Icon](/sites/default/files/2023-04/Retro.svg)Retro](https://www.coolmathgames.com/1-retro-games)
+    * [![Solitaire Games Icon](/sites/default/files/2023-10/Solitaire.svg)Solitaire](https://www.coolmathgames.com/1-solitaire-games)
+    * [![8 Bit Games Icon](/sites/default/files/2024-04/8-bit.svg)8 Bit](https://www.coolmathgames.com/1-8-bit-games)
+    * [![Mahjong Games Icon](/sites/default/files/2022-09/Mahjong.svg)Mahjong](https://www.coolmathgames.com/1-mahjong-games)
+    
 * [Trivia](https://www.coolmathgames.com/trivia)
     
     * [![Arts & Entertainment Icon](/sites/default/files/2024-01/Trivia-arts.svg)Arts & Entertainment](https://www.coolmathgames.com/quiz-category/arts-entertainment)
@@ -58,7 +67,6 @@
     
 * [Categories](https://www.coolmathgames.com/categories)
     
-    * [![Classic Games Icon](/sites/default/files/2022-05/Classic.svg)Classic](https://www.coolmathgames.com/1-classic-games)
     * [![Creative Games Icon](/sites/default/files/2023-10/Creative.svg)Creative](https://www.coolmathgames.com/1-creative-games)
     * [![Geography Games Icon](/sites/default/files/2022-05/Geography.svg)Geography](https://www.coolmathgames.com/1-geography-games)
     * [![Memory Games Icon](/sites/default/files/2022-06/Memory.svg)Memory](https://www.coolmathgames.com/1-memory-games)
@@ -66,7 +74,6 @@
     * [![Word Games Icon](/sites/default/files/2022-05/Word.svg)Word Games](https://www.coolmathgames.com/1-word-games)
     
 * [All Games](https://www.coolmathgames.com/1-complete-game-list)
-* [Daily Games](https://www.coolmathgames.com/1-daily-games)
 
 * [](https://www.coolmathgames.com/random "Pick a Random Game")
 * Search bar 
@@ -156,6 +163,15 @@
     * [![Sliding Games Icon](/sites/default/files/2023-01/Sliding.svg)Sliding](https://www.coolmathgames.com/1-sliding-games)
     * [![Think Outside the Box Games Icon](/sites/default/files/2022-07/Think-outside-box.svg)Think Outside the Box](https://www.coolmathgames.com/1-think-outside-the-box-games)
     
+* [![Classic Games Icon](/sites/default/files/2022-05/Classic.svg)Classic](https://www.coolmathgames.com/1-classic-games)
+    
+    * [![Board Games Icon](/sites/default/files/2022-11/Board-games.svg)Board Games](https://www.coolmathgames.com/1-board-games)
+    * [![Card Games Icon](/sites/default/files/2022-05/Card.svg)Card Games](https://www.coolmathgames.com/1-card-games)
+    * [![Retro Games Icon](/sites/default/files/2023-04/Retro.svg)Retro](https://www.coolmathgames.com/1-retro-games)
+    * [![Solitaire Games Icon](/sites/default/files/2023-10/Solitaire.svg)Solitaire](https://www.coolmathgames.com/1-solitaire-games)
+    * [![8 Bit Games Icon](/sites/default/files/2024-04/8-bit.svg)8 Bit](https://www.coolmathgames.com/1-8-bit-games)
+    * [![Mahjong Games Icon](/sites/default/files/2022-09/Mahjong.svg)Mahjong](https://www.coolmathgames.com/1-mahjong-games)
+    
 * [Trivia](https://www.coolmathgames.com/trivia)
     
     * [![Arts & Entertainment Icon](/sites/default/files/2024-01/Trivia-arts.svg)Arts & Entertainment](https://www.coolmathgames.com/quiz-category/arts-entertainment)
@@ -167,14 +183,6 @@
     * [![Science & Nature Icon](/sites/default/files/2024-01/Trivia-science.svg)Science & Nature](https://www.coolmathgames.com/quiz-category/science-nature)
     * [![Sports Icon](/sites/default/files/2024-01/Trivia-sports.svg)Sports](https://www.coolmathgames.com/quiz-category/sports)
     * [![Style Icon](/sites/default/files/2024-01/Trivia-style.svg)Style](https://www.coolmathgames.com/quiz-category/style)
-    
-* [![Classic Games Icon](/sites/default/files/2022-05/Classic.svg)Classic](https://www.coolmathgames.com/1-classic-games)
-    
-    * [![Board Games Icon](/sites/default/files/2022-11/Board-games.svg)Board Games](https://www.coolmathgames.com/1-board-games)
-    * [![Card Games Icon](/sites/default/files/2022-05/Card.svg)Card Games](https://www.coolmathgames.com/1-card-games)
-    * [![Retro Games Icon](/sites/default/files/2023-04/Retro.svg)Retro](https://www.coolmathgames.com/1-retro-games)
-    * [![Solitaire Games Icon](/sites/default/files/2023-10/Solitaire.svg)Solitaire](https://www.coolmathgames.com/1-solitaire-games)
-    * [![Mahjong Games Icon](/sites/default/files/2022-09/Mahjong.svg)Mahjong](https://www.coolmathgames.com/1-mahjong-games)
     
 * [![Creative Games Icon](/sites/default/files/2023-10/Creative.svg)Creative](https://www.coolmathgames.com/1-creative-games)
     
