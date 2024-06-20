@@ -334,7 +334,7 @@ Other documents:
 
 [Privacy Policy](https://adguard-dns.io/en/privacy.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html)
 
-We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/privacy/dns.html)
+We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard-dns.io/en/privacy.html)
 
 I agree
 
