@@ -384,5 +384,6 @@ Volver Arriba
 * [Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/ "Política de Privacidad")
 * [Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/ "Política de Cookies")
 * [Configuración de cookies](javascript:Didomi.preferences.show(); "Configuración de cookies")
+* [Eurocopa](https://www.elconfidencial.com/tags/temas/eurocopa-3180/ "Eurocopa")
 * Auditado por GFK
 * [Datos de mercado proporcionados por TradingView](https://es.tradingview.com/ "Datos de mercado proporcionados por TradingView")
