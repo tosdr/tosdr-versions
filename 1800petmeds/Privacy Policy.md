@@ -254,8 +254,8 @@ Applied
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
+    * [FLASH SALE - Up to $50 OFF](https://www.1800petmeds.com/flash-sale-promo240603.html)
     * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
-    
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
     
@@ -867,8 +867,8 @@ Navigation [×](javascript:void(0))
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe502a907/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
+    * [FLASH SALE - Up to $50 OFF](https://www.1800petmeds.com/flash-sale-promo240603.html)
     * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
-    
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
     * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
     
