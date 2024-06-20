@@ -1,35 +1,40 @@
-[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo_z7innb.svg)](https://protonmail.com/)
+[![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-purple_lf83vr.svg)](https://protonmail.com/)
 
 * Products
     
-    [![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
+    [![Proton Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/mail_xxy4bg.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Mail](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/mail-purple_resbmb.svg)
     
-    Encrypted email that's private by default.](https://protonmail.com/mail)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
+    Encrypted email that's private by default.](https://protonmail.com/mail)[![Proton Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/calendar_ylg2jq.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Calendar](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/calendar-purple_axpwhi.svg)
     
-    Your calendar is a record of your life. Keep it safe.](https://protonmail.com/calendar)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
+    Your calendar is a record of your life. Keep it safe.](https://protonmail.com/calendar)[![Proton Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/drive_wo2nx4.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Drive](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/drive-purple_gvgywi.svg)
     
-    Secure cloud storage that gives you control of your data.](https://protonmail.com/drive)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
+    Secure cloud storage that gives you control of your data.](https://protonmail.com/drive)[![Proton VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/vpn_f9embt.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![VPN](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/vpn-purple_afexu9.svg)
     
     Your gateway to online freedom.
     
-    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
+    (new window)](https://protonvpn.com/?ref=prdmenuvpn)[![Proton Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/pass_wl1fk9.svg)
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
     
     An encrypted password manager that protects your online identity.](https://protonmail.com/pass)
     
-    [![Proton for Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233220/static/logos/proton-for-business_tvcsuj.svg)
+    * * *
+    
+    [![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)
+    
+    ![For Business](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/business-black_xc1ryk.svg)
     
     Improve the security of your business and comply with data protection laws.](https://protonmail.com/business)
     
+* [Proton for business](https://protonmail.com/business)
 * Who we are
     
     [About us
@@ -42,6 +47,8 @@
     
     Seeking talented people to take Proton to the next level.](https://protonmail.com/careers)
     
+    * * *
+    
     We've always been guided by the Proton community.
     
     [Community
@@ -52,41 +59,34 @@
     
     Our non-profit model puts people before profit.](https://protonmail.com/foundation)
     
-* Resources & Support
+* Resources & support
     
-    Get started
-    
-    * * *
+    Help
     
     [Switch to Proton
     
-    Move to Proton in just a few clicks with Easy Switch.](https://protonmail.com/easyswitch)
-    
-    Resources
-    
-    * * *
-    
-    [Blog
-    
-    Latest news on privacy and the internet.](https://protonmail.com/blog)[News
-    
-    Proton announcements, audits, and releases.](https://protonmail.com/blog/news)[Help and support
+    Move to Proton in just a few clicks with Easy Switch.](https://protonmail.com/easyswitch)[Help and support
     
     Guides and customer support for Proton products.](https://protonmail.com/support)[Password generator
     
     Create strong, random passwords.](https://protonmail.com/pass/password-generator)
     
-    Download the apps
+    Blog
     
-    * * *
+    [News
+    
+    Latest news on privacy and the Internet.](https://protonmail.com/blog)[Product updates](https://protonmail.com/blog/product-updates)[Proton news](https://protonmail.com/blog/news)[Privacy guides](https://protonmail.com/blog/privacy-guides)
+    
+    Download the apps
     
     [Proton Mail](https://protonmail.com/mail/download)[Proton Calendar](https://protonmail.com/calendar/download)[Proton Drive](https://protonmail.com/drive/download)[Proton VPN
     
     (new window)](https://protonvpn.com/download?ref=hdrdwnlvpn)[Proton Pass](https://protonmail.com/pass/download)
     
-* [For Business](https://protonmail.com/business)
 
-[Sign in](https://account.proton.me/login)[Create a free account](https://protonmail.com/pricing)
+[Create a free account](https://protonmail.com/pricing)
+
+[Sign in](https://account.proton.me/login)
 
 Open menu
 
