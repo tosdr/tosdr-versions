@@ -50,7 +50,7 @@ Platform
 
 Get everything you need for collaborating at your disposal](https://hypeauditor.com/my-network/)[Discover Influencers
 
-Find influencers by parameters across 144.3M+ database](https://hypeauditor.com/discovery/)[Recruit influencers
+Find influencers by parameters across 146.2M+ database](https://hypeauditor.com/discovery/)[Recruit influencers
 
 Expand your search tactics to find relevant creators](https://hypeauditor.com/recruitment/)[Analyze Influencers
 
