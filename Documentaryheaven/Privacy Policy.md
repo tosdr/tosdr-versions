@@ -118,49 +118,49 @@ Advertisement
     The Trouble With Atheism
     
     The Trouble with Atheism is an hour-long documentary on atheism, presented by Rod Liddle. It aired on Channel 4 in December 2006. The documentary focuses on criticizing atheism, as well as science, fo...](https://documentaryheaven.com/the-trouble-with-atheism/ "The Trouble With Atheism")
-* [![The Struggle For Oil](/wp-content/thumbnails/16534-100x70.jpg?x53432)
-    
-    The Struggle For Oil
-    
-    In April 2010, the drilling rig deepwater horizon blew up in the Gulf of Mexico, approximately 780 million liters of crude oil poured into the Gulf, unleashing the most severe ecological disaster in ...](https://documentaryheaven.com/struggle-for-oil/ "The Struggle For Oil")
-* [![The Third Reich In Colour](/wp-content/thumbnails/16707-100x70.jpg?x53432)
-    
-    The Third Reich In Colour
-    
-    Episode 1: The DictatorDuring the tumultuous years of the 1930s and 1940s, as the world was embroiled in two world wars and political parades unfolded in Nuremberg and Moscow, some individuals we...](https://documentaryheaven.com/the-third-reich-in-colour/ "The Third Reich In Colour")
 * [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
     
     Catastrophe: The Day The Sun Went Out
     
     Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of ...](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
+* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
+    
+    The Mary Bell Case
+    
+    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s...](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
+* [![The Struggle For Oil](/wp-content/thumbnails/16534-100x70.jpg?x53432)
+    
+    The Struggle For Oil
+    
+    In April 2010, the drilling rig deepwater horizon blew up in the Gulf of Mexico, approximately 780 million liters of crude oil poured into the Gulf, unleashing the most severe ecological disaster in ...](https://documentaryheaven.com/struggle-for-oil/ "The Struggle For Oil")
 
 ###### Throwback Documentaries
 
-* [![FIFA’s Dirty Secrets](/wp-content/thumbnails/4646-100x70.jpg?x53432)
+* [![Tutankhamun in Colour](/wp-content/thumbnails/16263-100x70.jpg?x53432)
     
-    FIFA’s Dirty Secrets
+    Tutankhamun in Colour
     
-    The half-hour programme saw investigative journalist Andrew Jennings look into allegations of corruption with FIFA, the world’s governing body of association football. Within the programme he alleged](https://documentaryheaven.com/fifa%e2%80%99s-dirty-secrets/ "FIFA’s Dirty Secrets")
-* [![The Genius of Photography](/wp-content/thumbnails/6352-100x70.jpg?x53432)
+    There has never been a discovery quite like that of Tutankhamun, not before, nor since. On the 26th November 1922, after five long years of scouring Egypt's legendary Valley of the Kings, British Egy](https://documentaryheaven.com/tutankhamun-in-colour/ "Tutankhamun in Colour")
+* [![The Rolling Stones: Gimme Shelter](/wp-content/thumbnails/5972-100x70.jpg?x53432)
     
-    The Genius of Photography
+    The Rolling Stones: Gimme Shelter
     
-    Uncover the story of the invention and history of photography.Uncover the story of the invention of photography and the way in which it became an integral part of the modern world, including the r](https://documentaryheaven.com/the-genius-of-photography/ "The Genius of Photography")
-* [![Britains Closest Encounters: Berwyn Mountain Mystery](/wp-content/thumbnails/6506-100x70.png?x53432)
+    In December of 1969, four months after Woodstock, the Rolling Stones and Jefferson Airplane gave a free concert in Northern California, east of Oakland at Altamont Speedway. About 300,000 people came,](https://documentaryheaven.com/the-rolling-stones-gimme-shelter/ "The Rolling Stones: Gimme Shelter")
+* [![The Hitch](/wp-content/thumbnails/10745-100x70.jpg?x53432)
     
-    Britains Closest Encounters: Berwyn Mountain Mystery
+    The Hitch
     
-    The opening instalment looks at an incident dubbed the ‘Welsh Roswell’. In 1974, locals near the Berwyn mountain range experienced an earthquake and reported seeing green lights in the sky. Some](https://documentaryheaven.com/britains-closest-encounters-berwyn-mountain-mystery/ "Britains Closest Encounters: Berwyn Mountain Mystery")
-* [![Sounds for the City](/wp-content/thumbnails/7767-100x70.jpg?x53432)
+    Christopher Hitchens was a journalist, author, essayist, religious and literary critic who was not one to be considered shy when it came to flexing his intellect. In the course of his career he contri](https://documentaryheaven.com/hitch/ "The Hitch")
+* [![Lost in Space: Gemini 8](/wp-content/thumbnails/3048-100x70.jpg?x53432)
     
-    Sounds for the City
+    Lost in Space: Gemini 8
     
-    During a period of time in Stockholm, the colombian musician Sergio Castrillón (cellist and composer) began to search unconventional places to make them worthy stages for contemporary music.In the](https://documentaryheaven.com/sounds-for-the-city/ "Sounds for the City")
-* [![Broad Street Bullies](/wp-content/thumbnails/7407-100x70.jpg?x53432)
+    Gemini 8 (officially Gemini VIII) was the sixth manned spaceflight in NASA's Gemini program. The mission conducted the first docking of two spacecraft in orbit, but suffered the first critical in-spac](https://documentaryheaven.com/lost-in-space-gemini-8/ "Lost in Space: Gemini 8")
+* [![The Making of The Shining](/wp-content/thumbnails/3879-100x70.jpg?x53432)
     
-    Broad Street Bullies
+    The Making of The Shining
     
-    Broad Street Bullies the documentary, chronicles the National Hockey League’s Philadelphia Flyers from their beginnings as an expansion team in 1967, to their back to back Stanley Cup championships in](https://documentaryheaven.com/broad-street-bullies/ "Broad Street Bullies")
+    "Stanley Kubrick allowed his then-17-year-old daughter, Vivian, to make a documentary about the production of The Shining. Created all originally for the British television show BBC Arena, the documen](https://documentaryheaven.com/the-making-of-the-shining/ "The Making of The Shining")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
