@@ -264,6 +264,7 @@ Rückgabe
 
 * [Über congstar](https://www.congstar.de/das-ist-congstar/)
 * [Das ist congstar](https://www.congstar.de/das-ist-congstar/)
+* [Fairnessheld\*innen](https://www.congstar.de/fairnessheldinnen/)
 * [Jobs & Karriere](https://www.congstar.de/das-ist-congstar/jobs-karriere/)
 * [Freund\*innen einladen](https://www.congstar.de/freundeskreis/)
 
