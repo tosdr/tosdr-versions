@@ -9,7 +9,7 @@
 Terms of Service
 ================
 
-#### Last updated: May 20, 2024
+#### Last updated: June 20, 2024
 
 Everything you need to know about our applications and services and how to use them to take control of your personal privacy and cyber safety.
 
@@ -236,6 +236,11 @@ Calls will be disconnected and require a re-dial after a 2-hour duration.
 
 **Phone Number Inactivity  
 **If your account is not on a paid subscription, Anonyome reserves the right to reclaim phone numbers previously allocated to your account after a period of account inactivity of not less than 25 days. The period of inactivity applies to your account and the phone number.
+
+**Identity Verification**  
+In order to comply with government and service provider regulations to limit the risk of fraud, users may be required to provide their accurate and up-to-date legal identity information before they can obtain a telephone number from some countries. The identity information you provide will be verified by our service provider for the telephone numbers requiring identity verification. You may be asked to provide your first name, last name, address including country, date of birth, email address, non-VOIP telephone number, and image(s) of your government-issued identification document, such as a government-issued driver’s license. You may not provide false, inaccurate, or misleading information. You may not provide identity information of another person. The identity information you provide will be retained by the service provider providing the telephony provider for your time using the Services, plus an additional 30 days following your use of the Services, to meet regulatory and compliance requirements.
+
+You must not share your account with another person. You remain responsible for all activity on your account.
 
 Supplemental Terms: Virtual Cards
 ---------------------------------
