@@ -53,5 +53,3 @@ The phrase of this month is “don’t look a gift horse in the mouth.” Learn 
 [Contact Us](mailto:knowyourphrases@gmail.com)
 
 © 2024 Know Your Phrase
-
-![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.knowyourphrase_com,DomainId.264898)
