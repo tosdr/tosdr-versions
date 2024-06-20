@@ -254,7 +254,7 @@ Position: Columnist
 
 Helen Graduated from university in 2014 and started working as a tech editor in the same year. Her articles focus on video creation, editing, and conversion. She also has a good knowledge of disk management and data backup & recovery. Through an in-depth exploration of computer technology, Helen has successfully helped thousands of users solve their annoying problems.
 
-[Terms](https://moviemaker.minitool.com/terms.html) | [Help](https://moviemaker.minitool.com/help/) | [Reviews](https://moviemaker.minitool.com/review.html) | [About](https://www.minitool.com/about-us.html)
+[Terms](https://moviemaker.minitool.com/terms.html) | [Help](https://moviemaker.minitool.com/help/) | [Reviews](https://moviemaker.minitool.com/review.html) | [About](https://www.minitool.com/about-us.html) | Student Discount
 
 North America, Canada, Unit 170 - 422, Richards Street, Vancouver, British Columbia, V6B 2Z4
 
