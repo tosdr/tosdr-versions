@@ -425,7 +425,7 @@ Need assistance about a service or product?
 
 Read](https://www.cira.ca/en/support/)
 
-3,390,388
+3,390,634
 
 Domains registered
 
