@@ -68,7 +68,6 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/all/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/all/)
-    * [Eid](https://www.moonpig.com/uk/personalised-cards/eid/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/all/)
     * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/all/)
     * [New Home](https://www.moonpig.com/uk/personalised-cards/new-home/)
