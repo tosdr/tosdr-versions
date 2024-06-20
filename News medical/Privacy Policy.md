@@ -380,17 +380,17 @@ Last Updated: Feb 23, 2024
     
     [New recommendations on vitamin D intake for children, pregnant people, adults over 75 and those with high-risk prediabetes](https://www.news-medical.net/news/20240614/New-recommendations-on-vitamin-D-intake-for-children-pregnant-people-adults-over-75-and-those-with-high-risk-prediabetes.aspx)
     
-* [![The unregulated sale of Amanita muscaria mushrooms needs a public health response](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240612/The-unregulated-sale-of-Amanita-muscaria-mushrooms-needs-a-public-health-response.aspx)
-    
-    [The unregulated sale of Amanita muscaria mushrooms needs a public health response](https://www.news-medical.net/news/20240612/The-unregulated-sale-of-Amanita-muscaria-mushrooms-needs-a-public-health-response.aspx)
-    
 * [![New link between sulfur metabolites in gut microbiome and neurodegenerative diseases revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240616/New-link-between-sulfur-metabolites-in-gut-microbiome-and-neurodegenerative-diseases-revealed.aspx)
     
     [New link between sulfur metabolites in gut microbiome and neurodegenerative diseases revealed](https://www.news-medical.net/news/20240616/New-link-between-sulfur-metabolites-in-gut-microbiome-and-neurodegenerative-diseases-revealed.aspx)
     
-* [![Study identifies drug target to prevent autonomic dysfunction after spinal cord injury](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240612/Study-identifies-drug-target-to-prevent-autonomic-dysfunction-after-spinal-cord-injury.aspx)
+* [![Safety-focused summary of GLP-1 receptor agonists in diabetes, obesity, and beyond](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Safety-focused-summary-of-GLP-1-receptor-agonists-in-diabetes-obesity-and-beyond.aspx)
     
-    [Study identifies drug target to prevent autonomic dysfunction after spinal cord injury](https://www.news-medical.net/news/20240612/Study-identifies-drug-target-to-prevent-autonomic-dysfunction-after-spinal-cord-injury.aspx)
+    [Safety-focused summary of GLP-1 receptor agonists in diabetes, obesity, and beyond](https://www.news-medical.net/news/20240618/Safety-focused-summary-of-GLP-1-receptor-agonists-in-diabetes-obesity-and-beyond.aspx)
+    
+* [![AI-based liquid biopsy technology promises early detection of cancer recurrence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240614/AI-based-liquid-biopsy-technology-promises-early-detection-of-cancer-recurrence.aspx)
+    
+    [AI-based liquid biopsy technology promises early detection of cancer recurrence](https://www.news-medical.net/news/20240614/AI-based-liquid-biopsy-technology-promises-early-detection-of-cancer-recurrence.aspx)
     
 
 [### Revolutionizing Life Science: An Interview with SCIEX on ASMS, the SCIEX 7500+ System, and AI-Driven Quantitation
@@ -441,25 +441,25 @@ Revolutionizing Non-Invasive Diagnostics with Plasmion’s SICRIT Breath Analysi
 Latest News
 -----------
 
-* [![Study shows effectiveness of treating pancreatic cancer patients with chemotherapy before surgery](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240619/Study-shows-effectiveness-of-treating-pancreatic-cancer-patients-with-chemotherapy-before-surgery.aspx)
+* [![Combining JAK inhibitors with checkpoint inhibitors improves cancer immunotherapy response](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Combining-JAK-inhibitors-with-checkpoint-inhibitors-improves-cancer-immunotherapy-response.aspx)
     
-    [Study shows effectiveness of treating pancreatic cancer patients with chemotherapy before surgery](https://www.news-medical.net/news/20240619/Study-shows-effectiveness-of-treating-pancreatic-cancer-patients-with-chemotherapy-before-surgery.aspx)
+    [Combining JAK inhibitors with checkpoint inhibitors improves cancer immunotherapy response](https://www.news-medical.net/news/20240620/Combining-JAK-inhibitors-with-checkpoint-inhibitors-improves-cancer-immunotherapy-response.aspx)
     
-* [![Mental well-being crucial for healthy aging, new study reveals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Mental-well-being-crucial-for-healthy-aging-new-study-reveals.aspx)
+* [![Noninvasive urine test enhances early detection of bladder cancer in patients with hematuria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Noninvasive-urine-test-enhances-early-detection-of-bladder-cancer-in-patients-with-hematuria.aspx)
     
-    [Mental well-being crucial for healthy aging, new study reveals](https://www.news-medical.net/news/20240618/Mental-well-being-crucial-for-healthy-aging-new-study-reveals.aspx)
+    [Noninvasive urine test enhances early detection of bladder cancer in patients with hematuria](https://www.news-medical.net/news/20240620/Noninvasive-urine-test-enhances-early-detection-of-bladder-cancer-in-patients-with-hematuria.aspx)
     
-* [![Study shows vaccines cut long COVID risk, especially for those with preexisting conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Study-shows-vaccines-cut-long-COVID-risk-especially-for-those-with-preexisting-conditions.aspx)
+* [![Breakthrough in enzyme communication could pave the way for new drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Breakthrough-in-enzyme-communication-could-pave-the-way-for-new-drugs-A-Mechanism-T.aspx)
     
-    [Study shows vaccines cut long COVID risk, especially for those with preexisting conditions](https://www.news-medical.net/news/20240618/Study-shows-vaccines-cut-long-COVID-risk-especially-for-those-with-preexisting-conditions.aspx)
+    [Breakthrough in enzyme communication could pave the way for new drugs](https://www.news-medical.net/news/20240620/Breakthrough-in-enzyme-communication-could-pave-the-way-for-new-drugs-A-Mechanism-T.aspx)
     
-* [![Study reveals lasting quality of life inequities in breast cancer patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Study-reveals-lasting-quality-of-life-inequities-in-breast-cancer-patients.aspx)
+* [![Simple test could revolutionize diagnosis of life-threatening genetic arrhythmia](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Simple-test-could-revolutionize-diagnosis-of-life-threatening-genetic-arrhythmia.aspx)
     
-    [Study reveals lasting quality of life inequities in breast cancer patients](https://www.news-medical.net/news/20240618/Study-reveals-lasting-quality-of-life-inequities-in-breast-cancer-patients.aspx)
+    [Simple test could revolutionize diagnosis of life-threatening genetic arrhythmia](https://www.news-medical.net/news/20240620/Simple-test-could-revolutionize-diagnosis-of-life-threatening-genetic-arrhythmia.aspx)
     
-* [![Study: Anti-inflammatory drug celecoxib benefits PIK3CA-mutated colon cancer patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Study-Anti-inflammatory-drug-celecoxib-benefits-PIK3CA-mutated-colon-cancer-patients.aspx)
+* [![Role of SMIM1 gene in obesity uncovered](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Role-of-SMIM1-gene-in-obesity-uncovered.aspx)
     
-    [Study: Anti-inflammatory drug celecoxib benefits PIK3CA-mutated colon cancer patients](https://www.news-medical.net/news/20240618/Study-Anti-inflammatory-drug-celecoxib-benefits-PIK3CA-mutated-colon-cancer-patients.aspx)
+    [Role of SMIM1 gene in obesity uncovered](https://www.news-medical.net/news/20240620/Role-of-SMIM1-gene-in-obesity-uncovered.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -533,7 +533,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Wednesday 19 Jun 2024
+Last Updated: Thursday 20 Jun 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
