@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Lançar um produto novo - Imagem da empresaria e influenciadora Bianca Andrade segurando os novos produtos da sua marca Boca Rosa.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-O-que-voce-precisa-para-lancar-um-novo-produto-pelo-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12092)
+[![campanhas no Instagram - na imagem tem uma mão, segurando um celular com a logo e nome do Instagram abertos na tela. De fundo, tem uma sala de estar, onde aparece um sofá pequeno e uma mesa de centro.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-O-que-voce-deve-acompanhar-na-gestao-de-suas-campanhas-no-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12135)
 
-[Tudo o que você precisa para lançar um produto novo no Instagram](https://postgrain.com/?post_type=post&p=12092)
+[O que você deve acompanhar na gestão de suas campanhas no Instagram?](https://postgrain.com/?post_type=post&p=12135)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12092)
+[Leia mais](https://postgrain.com/?post_type=post&p=12135)
 
 Ilustração de um dos personagens do Postgrain
 
