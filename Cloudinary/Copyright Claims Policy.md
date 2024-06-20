@@ -73,6 +73,7 @@
     * [Glossary](https://cloudinary.com/glossary)
     * [Podcasts](https://cloudinary.com/podcasts)
     * [Resource Library](https://cloudinary.com/resources)
+    * [Tools](https://cloudinary.com/tools)
     
     Connect
     
