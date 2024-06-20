@@ -17,7 +17,7 @@ with Facebook
 
    
 
-with Email
+(Use ol' fashioned email instead)
 
 By opening an account, you're agreeing to our [Terms of Service](https://www.fitocracy.com/tos/) and [Privacy Policy](https://www.fitocracy.com/privacy-policy/).
 
