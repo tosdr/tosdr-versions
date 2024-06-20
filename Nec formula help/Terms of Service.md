@@ -13,9 +13,9 @@ Was Your Premature Baby Diagnosed With Necrotizing Enterocolitis (Nec) After Bei
 
 SIGNIFICANT Compensation May Be Available
 
-Was your child diagnosed with Necrotizing Enterocolitis (NEC)?
+Which of the following did your child suffer?
 
-\--Select one-- Yes No
+\--Select one-- Diagnosed with Necrotizing Enterocolitis (NEC) Ongoing Gastrointestinal or other bowel condition Organ failure or other Organ Function issue Severe Infection affecting the whole body (Sepsis) Cerebral Palsy or other ongoing Neurological Conditions Had one or more surgeries My child passed away Other injury Did not suffer any injury
 
 Was your baby fed cow’s milk-based formula?
 
