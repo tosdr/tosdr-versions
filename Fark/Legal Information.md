@@ -220,11 +220,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More funny for your money.
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -324,16 +325,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [In the US, 30-50 hogs is a worry. In Australia, a small town has just held its annual feral pig cull, with over 2000 pigs killed](https://www.fark.com/goto/13293096) ( [au.news.yahoo.com](https://www.fark.com/goto/13293096) ) » [(6 comments)](https://www.fark.com/comments/13293096/In-US-30-50-hogs-is-a-worry-In-Australia-a-small-town-has-just-held-its-annual-feral-pig-cull-with-over-2000-pigs-killed) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13292738) ( [fark.com](https://www.fark.com/goto/13292738) ) » [(45 comments)](https://www.fark.com/comments/13292738/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [Eric Bischoff said it best: controversy creates cash](https://www.fark.com/goto/13292874) ( [mediaite.com](https://www.fark.com/goto/13292874) ) » [(12 comments)](https://www.fark.com/comments/13292874/Eric-Bischoff-said-it-best-controversy-creates-cash) |
-| [Business](https://www.fark.com/business/) | [Beond Airlines cancel flights, has unreliable schedule, can't spell](https://www.fark.com/goto/13292800) ( [onemileatatime.com](https://www.fark.com/goto/13292800) ) » [(4 comments)](https://www.fark.com/comments/13292800/Beond-Airlines-cancel-flights-has-unreliable-schedule-cant-spell) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13292738) ( [fark.com](https://www.fark.com/goto/13292738) ) » [(45 comments)](https://www.fark.com/comments/13292738/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [USA to welcome new Resident Alien](https://www.fark.com/goto/13293168) ( [hollywoodreporter.com](https://www.fark.com/goto/13293168) ) » [(8 comments)](https://www.fark.com/comments/13293168/USA-to-welcome-new-Resident-Alien) |
-| [Fandom](https://www.fark.com/fandom/) | [Food and Fandom Crossover: The History of the video game Tapper, which came out 40 years ago. Sling Budweiser or other sponsored drinks to the right](https://www.fark.com/goto/13293028) ( [youtube.com](https://www.fark.com/goto/13293028) ) » [(0 comments)](https://www.fark.com/comments/13293028/Food-Fandom-Crossover-The-History-of-video-game-Tapper-which-came-out-40-years-ago-Sling-Budweiser-other-sponsored-drinks-to-right) |
-| [D'awww](https://www.fark.com/dawww/) | [Maybe this is why dogs chase cars](https://www.fark.com/goto/13292428) ( [thedrive.com](https://www.fark.com/goto/13292428) ) » [(10 comments)](https://www.fark.com/comments/13292428/Maybe-this-is-why-dogs-chase-cars) |
-| [Food](https://www.fark.com/food/) | [Food and Fandom Crossover: The History of the video game Tapper, which came out 40 years ago. Sling Budweiser or other sponsored drinks to the right](https://www.fark.com/goto/13293028) ( [youtube.com](https://www.fark.com/goto/13293028) ) » [(0 comments)](https://www.fark.com/comments/13293028/Food-Fandom-Crossover-The-History-of-video-game-Tapper-which-came-out-40-years-ago-Sling-Budweiser-other-sponsored-drinks-to-right) |
-| [Politics](https://www.fark.com/politics/) | [So I'm guessing the fundraising isn't going well](https://www.fark.com/goto/13293056) ( [newrepublic.com](https://www.fark.com/goto/13293056) ) » [(30 comments)](https://www.fark.com/comments/13293056/So-Im-guessing-fundraising-isnt-going-well) |
+| [Main](https://www.fark.com/) | [Traveling in crime-infested cities carries great risk for unwary visitors, residents in ... Salt Lake City?](https://www.fark.com/goto/13294472) ( [kutv.com](https://www.fark.com/goto/13294472) ) » [(0 comments)](https://www.fark.com/comments/13294472/Traveling-in-crime-infested-cities-carries-great-risk-for-unwary-visitors-residents-in-Salt-Lake-City) |
+| [Discussion](https://www.fark.com/discussion/) | [100 years ago, the most decorated WW2 soldier was born. Been to hell and back](https://www.fark.com/goto/13294560) ( [audiemurphy.com](https://www.fark.com/goto/13294560) ) » [(1 comment)](https://www.fark.com/comments/13294560/-100-years-ago-most-decorated-WW2-soldier-was-born-Been-to-hell-back) |
+| [Sports](https://www.fark.com/sports/) | [Better luck next time, Cancer](https://www.fark.com/goto/13294524) ( [nypost.com](https://www.fark.com/goto/13294524) ) » [(0 comments)](https://www.fark.com/comments/13294524/Better-luck-next-time-Cancer) |
+| [Business](https://www.fark.com/business/) | [Spaving: Where one saves money by spending more money, like those two-for-one sales for three-day old bread](https://www.fark.com/goto/13294476) ( [kutv.com](https://www.fark.com/goto/13294476) ) » [(3 comments)](https://www.fark.com/comments/13294476/Spaving-Where-one-saves-money-by-spending-more-money-like-those-two-for-one-sales-for-three-day-old-bread) |
+| [STEM](https://www.fark.com/stem/) | [Today's word jumble headline: "Josie Muscat: I 'never, never, never' discussed cyclotron with Vitals"](https://www.fark.com/goto/13294598) ( [timesofmalta.com](https://www.fark.com/goto/13294598) ) » [(1 comment)](https://www.fark.com/comments/13294598/Todays-word-jumble-headline-Josie-Muscat-I-never-never-never-discussed-cyclotron-with-Vitals) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The Beastmaster talks about working with Chuck Norris for the first time. No word on on how many bears or tigers were round housed kicked in the process](https://www.fark.com/goto/13294634) ( [youtube.com](https://www.fark.com/goto/13294634) ) » [(2 comments)](https://www.fark.com/comments/13294634/The-Beastmaster-talks-about-working-with-Chuck-Norris-for-first-time-No-word-on-on-how-many-bears-tigers-were-round-housed-kicked-in-process) |
+| [Fandom](https://www.fark.com/fandom/) | [Born to KLLL](https://www.fark.com/goto/13294512) ( [cinemablend.com](https://www.fark.com/goto/13294512) ) » [(10 comments)](https://www.fark.com/comments/13294512/Born-to-KLLL) |
+| [D'awww](https://www.fark.com/dawww/) | [O rly?](https://www.fark.com/goto/13293942) ( [wtnh.com](https://www.fark.com/goto/13293942) ) » [(7 comments)](https://www.fark.com/comments/13293942/O-rly) |
+| [Food](https://www.fark.com/food/) | [Oldest liquid wine ever discovered has light nose, significant legs and a full backbone](https://www.fark.com/goto/13294248) ( [theguardian.com](https://www.fark.com/goto/13294248) ) » [(21 comments)](https://www.fark.com/comments/13294248/Oldest-liquid-wine-ever-discovered-has-light-nose-significant-legs-a-full-backbone) |
+| [Politics](https://www.fark.com/politics/) | [Q: What is Vladimir Putin is afraid of? A: Everything](https://www.fark.com/goto/13294532) ( [kyivpost.com](https://www.fark.com/goto/13294532) ) » [(10 comments)](https://www.fark.com/comments/13294532/Q-What-is-Vladimir-Putin-is-afraid-of-A-Everything) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -343,7 +344,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 18 2024 22:43:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 20 2024 05:42:23  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
