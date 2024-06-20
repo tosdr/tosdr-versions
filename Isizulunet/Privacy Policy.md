@@ -1,6 +1,6 @@
 [Home](https://isizulu.net/) · [Mobile](https://isizulu.net/m/) · [Usage](https://isizulu.net/usage/) · [Grammar](https://isizulu.net/grammar/) · [Pronunciation](https://isizulu.net/p11n/) · [About](https://isizulu.net/about/) · [Contact](https://isizulu.net/contact/) · [FAQ](https://isizulu.net/faq/) · [Forum](https://isizulu.net/forum/) · [Privacy](https://isizulu.net/pvc/)
 
-![isiZulu.net](../gfx/izn.png)
+![isiZulu.net](/gfx/izn.png)
 
 Privacy Policy
 --------------
@@ -17,7 +17,7 @@ When you visit my website, or use its OpenSearch interface or its API, your web 
 
 * The [IP address](https://en.wikipedia.org/wiki/IP_address) of the requesting computer, e.g.: **51.195.149.220**
 * The API username if applicable, e.g.: **johndoe**
-* The date and time of the request, e.g.: **19/Jun/2024:06:12:25**
+* The date and time of the request, e.g.: **20/Jun/2024:16:26:35**
 * The HTTP request [method](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), e.g.: **GET**
 * The requested [URL path](https://en.wikipedia.org/wiki/URL#Syntax), e.g.: **/pvc/**
 * The HTTP version used in the request, e.g.: **HTTP/1.1**
