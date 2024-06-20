@@ -26,7 +26,7 @@
     
     [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
     
-    [Eco-Friendly![Eco-Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco-Friendly")
+    [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
     [![Grandpa Core](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
