@@ -1,4 +1,4 @@
-[82º](https://www.ksat.com/weather/)
+[81º](https://www.ksat.com/weather/)
 
 [](https://www.ksat.com/)
 
@@ -181,21 +181,21 @@ Tags: [Station](https://www.ksat.com/topic/Station/)
 
 * * *
 
-[](https://www.ksat.com/weather/2024/06/18/flood-watch-in-effect-for-wednesday-heaviest-rain-along-and-south-of-i-10/)
+[](https://www.ksat.com/weather/2024/06/20/summer-solstice-heres-how-daylight-hours-sunrise-and-sunset-times-will-change-in-the-next-few-months/)
 
-[52 minutes ago](https://www.ksat.com/weather/2024/06/18/flood-watch-in-effect-for-wednesday-heaviest-rain-along-and-south-of-i-10/)[### Rain for San Antonio, heaviest south of I-10](https://www.ksat.com/weather/2024/06/18/flood-watch-in-effect-for-wednesday-heaviest-rain-along-and-south-of-i-10/)
+[20 minutes ago](https://www.ksat.com/weather/2024/06/20/summer-solstice-heres-how-daylight-hours-sunrise-and-sunset-times-will-change-in-the-next-few-months/)[### SUMMER SOLSTICE: Here’s how daylight hours, sunrise and sunset times will change in the next few months](https://www.ksat.com/weather/2024/06/20/summer-solstice-heres-how-daylight-hours-sunrise-and-sunset-times-will-change-in-the-next-few-months/)
 
-[](https://www.ksat.com/weather/2024/06/17/heavy-rain-potential-this-week-in-san-antonio-with-tropical-storm-watches-along-texas-coast/)
+[](https://www.ksat.com/news/local/2024/06/20/camels-are-returning-to-the-alamo-on-saturday-during-world-camel-day/)
 
-[52 minutes ago](https://www.ksat.com/weather/2024/06/17/heavy-rain-potential-this-week-in-san-antonio-with-tropical-storm-watches-along-texas-coast/)[### Rain heading toward San Antonio with Tropical Storm Warnings along Texas Coast](https://www.ksat.com/weather/2024/06/17/heavy-rain-potential-this-week-in-san-antonio-with-tropical-storm-watches-along-texas-coast/)
+[39 minutes ago](https://www.ksat.com/news/local/2024/06/20/camels-are-returning-to-the-alamo-on-saturday-during-world-camel-day/)[### Camels are returning to the Alamo on Saturday during World Camel Day](https://www.ksat.com/news/local/2024/06/20/camels-are-returning-to-the-alamo-on-saturday-during-world-camel-day/)
 
-[](https://www.ksat.com/news/local/2024/06/19/city-of-san-antonio-begins-conversation-on-how-to-spend-four-federal-housing-grants-in-next-years-budget/)
+[](https://www.ksat.com/news/local/2024/06/20/childrens-chorus-of-san-antonio-summer-camp-to-peform-free-concert-on-friday-at-tobin-center/)
 
-[1 hour ago](https://www.ksat.com/news/local/2024/06/19/city-of-san-antonio-begins-conversation-on-how-to-spend-four-federal-housing-grants-in-next-years-budget/)[### City of San Antonio begins conversation on how to spend four federal housing grants in next year’s budget](https://www.ksat.com/news/local/2024/06/19/city-of-san-antonio-begins-conversation-on-how-to-spend-four-federal-housing-grants-in-next-years-budget/)
+[1 hour ago](https://www.ksat.com/news/local/2024/06/20/childrens-chorus-of-san-antonio-summer-camp-to-peform-free-concert-on-friday-at-tobin-center/)[### Children’s Chorus of San Antonio summer camp to peform free concert on Friday at Tobin Center](https://www.ksat.com/news/local/2024/06/20/childrens-chorus-of-san-antonio-summer-camp-to-peform-free-concert-on-friday-at-tobin-center/)
 
-[](https://www.ksat.com/news/local/2024/06/19/state-department-announces-san-antonio-as-future-home-of-new-passport-agency/)
+[](https://www.ksat.com/news/local/2024/06/20/watch-live-andres-tarnava-murder-trial-day-2/)
 
-[2 hours ago](https://www.ksat.com/news/local/2024/06/19/state-department-announces-san-antonio-as-future-home-of-new-passport-agency/)[### State Department announces San Antonio as future home of new passport agency](https://www.ksat.com/news/local/2024/06/19/state-department-announces-san-antonio-as-future-home-of-new-passport-agency/)
+[1 hour ago](https://www.ksat.com/news/local/2024/06/20/watch-live-andres-tarnava-murder-trial-day-2/)[### WATCH LIVE: Andres Tarnava murder trial Day 2](https://www.ksat.com/news/local/2024/06/20/watch-live-andres-tarnava-murder-trial-day-2/)
 
 [KSAT DEALS](https://www.ksat.com/deals)
 ----------------------------------------
