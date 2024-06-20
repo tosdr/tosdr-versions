@@ -41,7 +41,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     -------](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Best Sellers](https://porterroad.com/pages/best-sellers-se)
+* [Cookout Classics](https://porterroad.com/collections/cookout-classics)
 
 [![Porter Road logo](//porterroad.com/cdn/shop/t/145/assets/pr-logo.svg?v=109538801025733471761695148435)](https://porterroad.com/)
 
@@ -120,7 +120,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     #### Chicken](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Best Sellers](https://porterroad.com/pages/best-sellers-se)
+* [Cookout Classics](https://porterroad.com/collections/cookout-classics)
 * [Our Story](https://porterroad.com/pages/about)
 * [Our Process](https://porterroad.com/pages/our-process)
 * [Invest](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=topnav&utm_campaign=launch)
