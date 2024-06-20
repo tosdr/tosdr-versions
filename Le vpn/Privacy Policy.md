@@ -1,6 +1,6 @@
 [Mobile Menu](#) [![Le VPN](https://www.le-vpn.com/wp-content/uploads/2018/10/le-vpn-title-white-1.svg)](https://www.le-vpn.com/clients/)
 
-Wednesday, June 19, 2024
+Thursday, June 20, 2024
 
  Lights?
 
@@ -283,7 +283,7 @@ These Privacy Policy and Terms of Use constitute the entire agreement between yo
 
 Last updated: September 2021
 
-* 1311 Users Found This Useful
+* 1312 Users Found This Useful
 
   Was this answer helpful? Yes No
 
