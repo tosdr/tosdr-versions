@@ -33,7 +33,7 @@ Deutsch
     * [Internet Flats](https://www.ortelmobile.de/optionen/internet-flats.html "Internet Flats")
     * [Internet für Zuhause](https://www.ortelmobile.de/internet-fuer-zuhause.html "Internet für Zuhause")
     * [Surf & Go](https://www.ortelmobile.de/surf-go.html "Surf & Go")
-    * [Minutenpreise](https://www.ortelmobile.de/tarife.html "Minutenpreise")
+    * [Minutenpreise](https://www.ortelmobile.de/minutenpreise.html "Minutenpreise")
     
 * [SIM-Karte](https://www.ortelmobile.de/prepaid-sim-karte-jetzt-kostenlos-bestellen-ortel-mobile/bestellen.html "SIM-Karte")
 * [Freischalten](https://sim-karte-aktivierung.ortelmobile.de/de/Freischalten "Freischalten")
