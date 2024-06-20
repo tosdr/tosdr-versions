@@ -1,4 +1,4 @@
-Join us! Webinar: How IT Can Expand Their Zone of Influence | 4/25 [Register today](https://www.pipefy.com//webinar/move-the-line?utm_campaign=US_INB_Website_AWA_LeadGen_None_Lead_DemandGen_IT_Webinar-Move-the-Line-Top-bar&utm_source=webinar&utm_medium=organic&utm_content=topbar-cta)
+Join the Webinar: IT Teams – Catalysts for Business Growth | 6/27 [Register today](https://www.pipefy.com/webinar/it-catalyst-for-business-growth/?utm_campaign=US_INB_Website_AWA_Webinar_None_Lead_SEO_IT_Move-the-Line-2-June27&utm_source=google&utm_medium=organic&utm_content=topbar-cta)
 
 [](https://www.pipefy.com/ "Pipefy")
 
