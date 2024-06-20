@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [\[AT VOTE\] Condemn Bogus Not True Fake… (31)](https://forum.nationstates.net/viewtopic.php?t=551930&f=24&view=unread#unread ""[AT VOTE] Condemn Bogus Not True Fake Town" (31 posts)")
-* [Illion League (IC/Assembly) (1,917)](https://forum.nationstates.net/viewtopic.php?t=550142&f=5&view=unread#unread ""Illion League (IC/Assembly)" (1,917 posts)")
-* [\[r\] political nucknaming (1)](https://forum.nationstates.net/viewtopic.php?t=551984&f=16&view=unread#unread ""[r] political nucknaming" (1 post)")
-* [The Seal and Logo Request Thread (8,255)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,255 posts)")
-* [\[Kerbin Only\] Kerbin General Newsfeed (34)](https://forum.nationstates.net/viewtopic.php?t=531619&f=5&view=unread#unread ""[Kerbin Only] Kerbin General Newsfeed" (34 posts)")
+* [Star Wars: This is The Way (6,806)](https://forum.nationstates.net/viewtopic.php?t=494102&f=19&view=unread#unread ""Star Wars: This is The Way" (6,806 posts)")
+* [American Politics: The Final Four..VP… (9,601)](https://forum.nationstates.net/viewtopic.php?t=548141&f=20&view=unread#unread ""American Politics: The Final Four..VP Choices" (9,601 posts)")
+* [2023 Israel–Hamas War Thread mk3 (4,216)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (4,216 posts)")
+* [The LGBT+ Thread: Rainbow Connections (2,505)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (2,505 posts)")
 
 Advertisement
 
