@@ -12,7 +12,7 @@ GET - On the App Store
 
 View
 
-[](https://www.mattressfirm.com/sale/5637147613.c) [July 4th Sale is here: Shop our best deals in-store & online](https://www.mattressfirm.com/sale/5637147613.c) [Shop Now](https://www.mattressfirm.com/sale/5637147613.c)
+[](https://www.mattressfirm.com/all-products/5637149826.c)[**Deal of the day:** Shop our best deals on top brands like Sealy® & more](https://www.mattressfirm.com/all-products/5637149826.c) 06:26:13[Shop Now](https://www.mattressfirm.com/all-products/5637149826.c)
 
   
 
