@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Fake Google Chrome errors trick you into running malicious PowerShell scripts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fake Google Chrome errors trick you into running malicious PowerShell scripts](https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/)
-    * [![Hackers use F5 BIG-IP malware to stealthily steal data for years](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        "Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
+    * [![CDK Global cyberattack impacts thousands of US car dealerships](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Hackers use F5 BIG-IP malware to stealthily steal data for years](https://www.bleepingcomputer.com/news/security/hackers-use-f5-big-ip-malware-to-stealthily-steal-data-for-years/)
-    * [![Panera Bread likely paid a ransom in March ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Panera Bread likely paid a ransom in March ransomware attack](https://www.bleepingcomputer.com/news/security/panera-bread-likely-paid-a-ransom-in-march-ransomware-attack/)
-    * [![New Linux malware is controlled through emojis sent from Discord](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Linux malware is controlled through emojis sent from Discord](https://www.bleepingcomputer.com/news/security/new-linux-malware-is-controlled-through-emojis-sent-from-discord/)
-    
+        CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
     * [![Microsoft says bug causes Windows 10 apps to display Open With dialogs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
-    * [![AMD investigates breach after data for sale on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        AMD investigates breach after data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/amd-investigates-breach-after-data-for-sale-on-hacking-forum/)
     * [![ONNX phishing service targets Microsoft 365 accounts at financial firms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
-    * [![Save on top brands and services with $35 off a one-year BJ's Club card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    * [![T-Mobile denies it was hacked, links leaked data to vendor breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Save on top brands and services with $35 off a one-year BJ's Club card](https://www.bleepingcomputer.com/offer/deals/save-on-top-brands-and-services-with-35-off-a-one-year-bjs-club-card/)
+        T-Mobile denies it was hacked, links leaked data to vendor breach](https://www.bleepingcomputer.com/news/security/t-mobile-denies-it-was-hacked-links-leaked-data-to-vendor-breach/)
+    * [![Crown Equipment confirms a cyberattack disrupted manufacturing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Crown Equipment confirms a cyberattack disrupted manufacturing](https://www.bleepingcomputer.com/news/security/crown-equipment-confirms-a-cyberattack-disrupted-manufacturing/)
+    * [![Advance Auto Parts confirms data breach exposed employee information](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Advance Auto Parts confirms data breach exposed employee information](https://www.bleepingcomputer.com/news/security/advance-auto-parts-confirms-data-breach-exposed-employee-information/)
+    * [![Keep out ads and snoops with $269 off a 3-year AdGuard Bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Keep out ads and snoops with $269 off a 3-year AdGuard Bundle](https://www.bleepingcomputer.com/offer/deals/keep-out-ads-and-snoops-with-269-off-a-3-year-adguard-bundle/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,26 +439,26 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Chrome flare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Fake Google Chrome errors trick you into running malicious PowerShell scripts](https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/)
-* [![hacker shh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
+* [![VMware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Hackers use F5 BIG-IP malware to stealthily steal data for years](https://www.bleepingcomputer.com/news/security/hackers-use-f5-big-ip-malware-to-stealthily-steal-data-for-years/)
+    VMware fixes critical vCenter RCE vulnerability, patch now](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-vcenter-rce-vulnerability-patch-now/)
 
 Latest forum topics
 
-* [Windows 10, two nics routing one to access NAS](https://www.bleepingcomputer.com/forums/t/798310/windows-10-two-nics-routing-one-to-access-nas/)
+* [Regular sfc errors across 3 systems (not 4th) only commonality is the same Micro](https://www.bleepingcomputer.com/forums/t/798346/regular-sfc-errors-across-3-systems-not-4th-only-commonality-is-the-same-micro/)
     
-    [jonetwork3](https://www.bleepingcomputer.com/forums/u/1316467/jonetwork3/) in [Networking](https://www.bleepingcomputer.com/forums/f/21/networking/)
+    [Psiboy](https://www.bleepingcomputer.com/forums/u/1309483/psiboy/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
     
-* [Internet dropping out](https://www.bleepingcomputer.com/forums/t/798308/internet-dropping-out/)
+* [Brief Intermittent Failure to Connect to Internet.](https://www.bleepingcomputer.com/forums/t/798345/brief-intermittent-failure-to-connect-to-internet/)
     
-    [Jen42](https://www.bleepingcomputer.com/forums/u/29435/jen42/) in [Web Browsing/Email and Other Internet Applications](https://www.bleepingcomputer.com/forums/f/14/web-browsingemail-and-other-internet-applications/)
+    [heavydude](https://www.bleepingcomputer.com/forums/u/727995/heavydude/) in [External Hardware](https://www.bleepingcomputer.com/forums/f/138/external-hardware/)
     
-* [Windows is not finding my phone device](https://www.bleepingcomputer.com/forums/t/798306/windows-is-not-finding-my-phone-device/)
+* [Event Viewer listing events related to AAD and MMD](https://www.bleepingcomputer.com/forums/t/798343/event-viewer-listing-events-related-to-aad-and-mmd/)
     
-    [samuel3](https://www.bleepingcomputer.com/forums/u/215975/samuel3/) in [External Hardware](https://www.bleepingcomputer.com/forums/f/138/external-hardware/)
+    [pheonixzen700](https://www.bleepingcomputer.com/forums/u/1231811/pheonixzen700/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
     
 
 Latest virus removal guides
@@ -505,7 +505,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,018 _Downloads_**
+    **54,036 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -513,7 +513,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,777 _Downloads_**
+    **41,801 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -521,7 +521,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,110 _Downloads_**
+    **103,118 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -529,7 +529,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,160 _Downloads_**
+    **150,165 _Downloads_**
     
 
 ##### Follow us:
