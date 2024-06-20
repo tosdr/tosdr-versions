@@ -83,13 +83,13 @@ Search
     
     $9.95](https://www.adafruit.com/product/5974)
     
-    ![Angled shot of USB type C breakout.](https://cdn-shop.adafruit.com/230x173/5978-00.jpg)[Adafruit USB Type C Plug Breakout
-    
-    $2.95](https://www.adafruit.com/product/5978)
-    
     ![Video of gloved hands playing with a green LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5920-03.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Green
     
     $11.95](https://www.adafruit.com/product/5920)
+    
+    ![Video of gloved hands playing with a blue LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5921-00.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Blue
+    
+    $11.95](https://www.adafruit.com/product/5921)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Either I win or I learn”
+“ Premature optimization is the root of all evil”
 
-[Nelson Mandela](https://en.wikipedia.org/wiki/Nelson_Mandela)
+[Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
 
 [](https://www.adafruit.com/about)
 
