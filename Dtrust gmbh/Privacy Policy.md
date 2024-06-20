@@ -55,7 +55,7 @@
 
 Language:
 
-GermanEnglish
+German English
 
 [![d-trust](/themes/custom/bdr_bootstrap5_dtrust/assets/img/dtrust-color.svg)](https://www.d-trust.net/en)
 
@@ -206,7 +206,7 @@ Breadcrumb
 
 Language:
 
-GermanEnglish
+German English
 
 ##### Footer navigation
 
