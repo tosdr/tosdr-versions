@@ -1,8 +1,8 @@
 [Skip to main content](#maincontent "Skip to main content") [Skip to footer content](#footercontent "Skip to footer content")
 
-Save up to 20% for dads and grads. [Shop now.](https://www.belkin.com/products/)
+![](https://s3.belkin.com/resources/img/icons/lightning-charge-icon.svg) Up to an extra 50% off! Shop Certified Refurbished. [Buy now.](https://www.belkin.com/shop-by/featured/certified-refurbished/)
 
-![](https://s3.belkin.com/resources/img/design%26quality/belkin-979798-design-and-quality-campaign-2024-pencil-banner-desktop-200x200-us-v1.png)Designed in California | Belkin story of design and quality. [Learn more.](https://www.belkin.com/company/about-us/)
+Save up to 20% for dads and grads. [Shop now.](https://www.belkin.com/products/)
 
 Close
 
