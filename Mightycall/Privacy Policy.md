@@ -348,7 +348,7 @@ Support
 
 ![V](/wp-content/themes/mightycall2021/img/footer/arrow-small-button.svg)
 
-[Sign In](https://console.mightycall.com/Panel/Login/MultiProductLogin/) [Help Center](https://www.mightycall.com/support/) [Knowledge Base](https://support.mightycall.com/) [Live Onboarding](https://www.mightycall.com/live-onboarding/) [Integrations](https://www.mightycall.com/integrations/) [API Documentation](https://support.mightycall.com/article/231-mightycall-api-documentation) [Downloads](https://www.mightycall.com/download/) [Status Page](https://status.mightycall.com/)
+[Sign In](https://console.mightycall.com/Panel/Login/MultiProductLogin/) [Help Center](https://www.mightycall.com/support/) [Knowledge Base](https://support.mightycall.com/) [Live Onboarding](https://www.mightycall.com/live-onboarding/) [Integrations](https://www.mightycall.com/integrations/) [API Documentation](https://support.mightycall.com/mightycall-api-documentation) [Downloads](https://www.mightycall.com/download/) [Status Page](https://status.mightycall.com/)
 
 Resources
 
