@@ -91,6 +91,9 @@ To
 
   Plan Journey    
 
+* [##### Detour Route CT - Closure of Maunganui Road Southbound (Between Concord Avenue & Bayfair Roundabout)
+    
+    Mon 24 Jun 07:00 pm - Tue 25 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-southbound-between-concord-avenue-bayfair-roundabout/)
 * [##### Detour, Bus Stop Closures Route 40 - Night & Weekend Day Closure of Welcome Bay Road
     
     Now until Mon 05 Aug 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-40-night-weekend-day-closure-of-welcome-bay-road/)
