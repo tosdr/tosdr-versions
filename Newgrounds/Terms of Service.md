@@ -14,9 +14,9 @@ Saving
 
 ![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/998bbbd41718662371.webp?1718662447)
 
-[](https://midas215.newgrounds.com/)
+[](https://voidovoiderino.newgrounds.com/)
 
-[Midas215](https://midas215.newgrounds.com/) just joined the crew!
+[VoidoVoiderino](https://voidovoiderino.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -218,17 +218,17 @@ Submission Guidelines
 
 GamesMoviesAudioArtChannelsUsers
 
-[Josinator **Outage**](https://josinator.newgrounds.com/news/post/1453241)
+[chillzozen **WOAH WOAH WOAH!!! PEOPLE!**](https://chillzozen.newgrounds.com/news/post/1453643)
 
-[CrystalizedSilver **hey how do you guys find me?**](https://crystalizedsilver.newgrounds.com/news/post/1453239)
+[Creeperforce24 **THIS IS A HORRIBLE ATROCITY!**](https://creeperforce24.newgrounds.com/news/post/1453642)
 
-[TheDanSandoval **Some sketches**](https://thedansandoval.newgrounds.com/news/post/1453238)
+[DICExMICE **HEAVENLY ANGEL**](https://dicexmice.newgrounds.com/news/post/1453641)
 
-[SongiaXshudder **NEW ICON BOIIIIIIIIIIIIIIIIIIIIIIIII**](https://songiaxshudder.newgrounds.com/news/post/1453237)
+[ChillsStudi0 **I'll make less depressing songs in the future**](https://chillsstudi0.newgrounds.com/news/post/1453640)
 
-[dryershit **HAPPY JUNETEENTH!**](https://dryershit.newgrounds.com/news/post/1453234)
+[DICExMICE **SUPAH SUPAH SONIK**](https://dicexmice.newgrounds.com/news/post/1453639)
 
-[partybooru **COMMISSIONS!!!!!!!!!**](https://partybooru.newgrounds.com/news/post/1453233)
+[gamers30 **new sprite pack**](https://gamers30.newgrounds.com/news/post/1453638)
 
 [**Wall Art by**
 
