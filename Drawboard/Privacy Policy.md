@@ -1,15 +1,15 @@
-[![Drawboard Logo](https://assets-global.website-files.com/5fc973fe72246928752172c7/607cb1217fe8e54fe08a5315_Drawboard-Logo.svg)](https://www.drawboard.com/)
+[![Drawboard Logo](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/607cb1217fe8e54fe08a5315_Drawboard-Logo.svg)](https://www.drawboard.com/)
 
 Solutions
 
-![Drawboard PDF](https://assets-global.website-files.com/5fc973fe72246928752172c7/607cb1b9875a626a912a299a_DrawboardPDF-Logo.svg)
+![Drawboard PDF](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/607cb1b9875a626a912a299a_DrawboardPDF-Logo.svg)
 
 PDF markup tools and sharing to help you work wonders.
 
 [Overview](https://www.drawboard.com/pdf/pdf)[Product Tour](https://www.drawboard.com/pdf/tour) [Store+Share](https://www.drawboard.com/pdf/store-share)[Explore Pro](https://www.drawboard.com/pdf/pro)
 
 ![Drawboard Projects
-](https://assets-global.website-files.com/5fc973fe72246928752172c7/607cb1f99948771964dd75c9_DrawboardProjects-Logo.svg)
+](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/607cb1f99948771964dd75c9_DrawboardProjects-Logo.svg)
 
 Real-time collaboration and seamless markups for design and construction.
 
@@ -17,7 +17,7 @@ Real-time collaboration and seamless markups for design and construction.
 
 Products
 
-![Drawboard PDF](https://assets-global.website-files.com/5fc973fe72246928752172c7/607cb1b9875a626a912a299a_DrawboardPDF-Logo.svg)
+![Drawboard PDF](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/607cb1b9875a626a912a299a_DrawboardPDF-Logo.svg)
 
 PDF markup tools and sharing to help you work wonders.
 
@@ -26,7 +26,7 @@ PDF markup tools and sharing to help you work wonders.
 [Book a demo](https://www.drawboard.com/pdf/demo)
 
 ![Drawboard Projects
-](https://assets-global.website-files.com/5fc973fe72246928752172c7/607cb1f99948771964dd75c9_DrawboardProjects-Logo.svg)
+](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/607cb1f99948771964dd75c9_DrawboardProjects-Logo.svg)
 
 Real-time collaboration and seamless markups for design and construction.
 
@@ -84,9 +84,9 @@ Solutions
 
 Last updated:  16 January 2023
 
-[Download terms of use](https://assets-global.website-files.com/5fc973fe72246928752172c7/640568dd9b36842d6c2fa7ab_16012023%20Drawboard-Terms%20of%20Use%20.docx.pdf)
+[Download terms of use](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/640568dd9b36842d6c2fa7ab_16012023%20Drawboard-Terms%20of%20Use%20.docx.pdf)
 
-[![](https://assets-global.website-files.com/5fc973fe72246928752172c7/608f3f89b64d68fea58d54c8_Drawboard%20logo.svg)](https://www.drawboard.com/)
+[![](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/608f3f89b64d68fea58d54c8_Drawboard%20logo.svg)](https://www.drawboard.com/)
 
 Copyright 2024 Drawboard Pty Ltd.  
 All rights reserved.
@@ -122,10 +122,10 @@ Drawboard
 Connect
 -------
 
-[![](https://assets-global.website-files.com/5fc973fe72246928752172c7/608f4fd23543ac94101cda79_Twitter.svg)](https://twitter.com/drawboard)
+[![](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/608f4fd23543ac94101cda79_Twitter.svg)](https://twitter.com/drawboard)
 
-[![](https://assets-global.website-files.com/5fc973fe72246928752172c7/608f4fd75b4bfa1ce7249a5d_LinkedIn.svg)](https://www.linkedin.com/company/drawboard)
+[![](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/608f4fd75b4bfa1ce7249a5d_LinkedIn.svg)](https://www.linkedin.com/company/drawboard)
 
-[![](https://assets-global.website-files.com/5fc973fe72246928752172c7/608f4fec701a0ab783c74dd3_Instagram.svg)](https://www.instagram.com/drawboardsoftware/)
+[![](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/608f4fec701a0ab783c74dd3_Instagram.svg)](https://www.instagram.com/drawboardsoftware/)
 
-[![](https://assets-global.website-files.com/5fc973fe72246928752172c7/608f4fe7486962d33f794a28_Facebook.svg)](https://www.facebook.com/drawboardpdf/)
+[![](https://cdn.prod.website-files.com/5fc973fe72246928752172c7/608f4fe7486962d33f794a28_Facebook.svg)](https://www.facebook.com/drawboardpdf/)
