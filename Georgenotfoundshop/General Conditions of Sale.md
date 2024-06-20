@@ -2,8 +2,6 @@
 
   
 
-[Its National Wear Blue Day! Celebrate with a New Heather Blue Sweatshirt!](https://georgenotfound.shop/products/georgenotfound-black-logo-blue-sweatshirt)
-
     
 
 * Shop
