@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Outside a polling station in Wales](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/polling-station-web.jpg?width=1920&height=1085&quality=80)
+
+### Helping to dismiss disinformation around the General Election
+
+19 June 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/helping-to-dismiss-disinformation-around-the-general-election/?language=en)
+
 [![Professional cameraman with headphones with HD camcorder in live television](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bulletin-500-web.jpg?width=1920&height=1085&quality=80)
 
 ### Marking 500 Broadcast Bulletins
@@ -151,13 +157,7 @@
 
 24 May 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-map-out-vision-to-improve-international-coordination/)
 
-[![royal-mail-post-office-delivery-vans-parked](/siteassets/resources/images/-news-centre/thumbnail-images/post/royal-mail-post-office-delivery-vans-parked.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom investigates Royal Mail’s delivery performance
-
-24 May 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-investigates-royal-mails-delivery-performance/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
@@ -445,6 +445,8 @@ If it would be helpful, you can use the form below to make your request:
 
 **[Request form (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.rtf)**
 
+You can also make a subject access request over the phone by speaking to Ofcom's Consumer Contact Team on 0300 123 3333 or 020 7981 3040.
+
 Should you wish to make a request for personal data that we may hold about someone other than yourself, for example because you are carrying out an investigation under statutory powers, you may wish to use one of the following forms:
 
 **[Request form - Law enforcement agencies (PDF, 104.7 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.pdf)**
@@ -464,9 +466,7 @@ Riverside House
 London  
 SE1 9HA
 
-Tel: 020 7981 3000
-
-Email: [corporationsecretary@ofcom.org.uk](mailto:corporationsecretary@ofcom.org.uk)
+Email:  [dataprotection@ofcom.org.uk](mailto:dataprotection@ofcom.org.uk)     
 
 ### 
 
