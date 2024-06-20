@@ -1132,6 +1132,8 @@ Aucun article pour le moment
 
 Envie d'en savoir plus
 
+[Promo juin 2024](https://www.ornikar.com/a-propos/promo-juin-2024)
+
 [Ornikar dans le FT120 2024](https://www.ornikar.com/a-propos/french-tech-120)
 
 [Les jours Ornikar](https://www.ornikar.com/a-propos/promo-mai-2024)
