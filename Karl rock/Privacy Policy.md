@@ -246,7 +246,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [November 21, 2023](https://blog.karlrock.com/how-to-get-off-indias-blacklist/)
-* [1 Comment on How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/#comments)
+* [2 Comments on How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/#comments)
 
 ![Karl Rock's announcement on why he's been blacklisted by the Government of India](https://blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist-1200x675.jpg)
 
@@ -396,6 +396,10 @@ Top
     
     [List of common Hindi swear words (with formatting for blocklists)](https://blog.karlrock.com/list-of-common-hindi-swear-words/ "List of common Hindi swear words (with formatting for blocklists)")
     
+* [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
+    
+    [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
+    
 * [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
     [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
@@ -404,17 +408,13 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
-    
-    [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
-    
 * [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![Keys to Learning Hindi: 1. Learn to Read First!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Hindi-Script.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
+* [![How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Pakistan-visa-on-arrival-process-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-apply-for-a-pakistan-visa-on-arrival-what-happens-when-you-land/ "How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?")
     
-    [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
+    [How to Apply for a Pakistan Visa-on-Arrival & What Happens When You Land?](https://blog.karlrock.com/how-to-apply-for-a-pakistan-visa-on-arrival-what-happens-when-you-land/ "How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
