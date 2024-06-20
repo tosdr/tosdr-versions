@@ -55,12 +55,12 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [2024 Election](https://www.breitbart.com/2024-election/)
-* [Convicted Felon Biden](https://www.breitbart.com/tag/hunter-biden/)
-* [Trump vs Lawfare](https://www.breitbart.com/tag/alvin-bragg/)
+* [Rachel Morin](https://www.breitbart.com/tag/illegal-immigration/)
 * [Pride Propaganda](https://www.breitbart.com/tag/pride-month/)
-* [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
+* [Bidenomics Bust](https://www.breitbart.com/tag/bidenomics/)
 * [UK Election](https://www.breitbart.com/tag/uk-election/)
 * [Israel War](https://www.breitbart.com/middle-east/)
+* [AI Mania](https://www.breitbart.com/tag/artificial-intelligence-ai/)
 
 Breitbart Privacy Policy
 ========================
