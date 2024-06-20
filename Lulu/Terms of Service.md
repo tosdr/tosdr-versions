@@ -16,7 +16,7 @@
     
 * Resources
     
-    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Toolkit](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
+    [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
     
 * Bookstore
     
@@ -568,7 +568,21 @@ Lulu is not responsible for any changes made by your ecommerce platform that may
 
 Download a PDF of the previous Terms & Conditions [here](https://assets.lulu.com/media/terms-and-conditions/en/lulu-terms-and-conditions-revised-042521.pdf).
 
-[About Us](https://www.lulu.com/about-us)[Contact Support](https://help.lulu.com/en/support/tickets/new)[Newsroom](https://www.lulu.com/newsroom)[Careers](https://www.lulu.com/careers)[Developers](https://developers.lulu.com/home)
+Our Team
+
+[About Us](https://www.lulu.com/about-us)[Careers](https://www.lulu.com/careers)
+
+[Newsroom](https://www.lulu.com/newsroom)
+
+Community
+
+[Blog](https://blog.lulu.com/)[Videos](https://www.youtube.com/@Luludotcom)[Podcast](https://www.publishprosperpodcast.com/)
+
+[Developers](https://developers.lulu.com/home)
+
+Help
+
+[Order Lookup](https://www.lulu.com/order-lookup?)[Knowledge Base](https://help.lulu.com/en/support/home)[Contact Support](https://help.lulu.com/en/support/tickets/new)
 
 English
 
@@ -584,11 +598,9 @@ Italiano
 
 Español
 
-[](https://www.facebook.com/Luludotcom/)[](https://www.instagram.com/luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@Luludotcom)[](https://www.twitter.com/Luludotcom)[](https://www.tiktok.com/@lulupublishing)[](https://www.pinterest.com/luludotcom/)[](https://blog.lulu.com/)
+[](https://www.instagram.com/luludotcom/)[](https://www.facebook.com/Luludotcom/)[](https://www.linkedin.com/company/luludotcom)[](https://www.youtube.com/@Luludotcom)[](https://blog.lulu.com/)[](https://www.publishprosperpodcast.com/)[](https://www.tiktok.com/@lulupublishing)[](https://www.twitter.com/Luludotcom)
 
 Get exclusive Publishing & Marketing tips to help you create and sell your books more effectively! You can unsubscribe at any time.
-
-Submit
 
 [](https://www.lulu.com/ "Lulu Logo")[](https://www.lulu.com/sell/sell-on-your-site/print-api "Lulu API Logo")[](https://www.lulujr.com/ "Lulu Jr. Logo")[](https://www.thetilt.com/ "Tilt Logo")
 
