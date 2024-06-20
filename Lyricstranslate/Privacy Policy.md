@@ -39,7 +39,7 @@ Search
     * [Light](https://lyricstranslate.com/en/privacy-policy?theme=lt7)
     * [Dark](https://lyricstranslate.com/en/privacy-policy?theme=lt7dark)
 * [Interface language](#)
-    * Bahasa IndonesiaDeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiPortuguês (Brasil)RomânăSuomiSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربيةفارسی日本語한국어
+    * DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
         
 * [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
 * [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=privacy-policy)
@@ -144,81 +144,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
-
-New comment
-
-The text that I posted is, one might say, a parody...  [more](https://lyricstranslate.com/en/comment/1149974#comment-1149974)
-
-[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
-
-New translation
-
-[National Anthems & Patriotic Songs - Serbian National Anthem - Bože pravde](https://lyricstranslate.com/en/national-anthems-p-serbian-national-anthem-montenegrin)
-
-Serbian → Montenegrin
-
-[![Anton M](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1467596-1610563434.jpg)](https://lyricstranslate.com/en/translator/anton-m "Anton M")
-
-New comment
-
-This song can be linked to this one: https://...  [more](https://lyricstranslate.com/en/comment/1149973#comment-1149973)
-
-[![uyimyumi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/uyimyumi "uyimyumi")
-
-New translation
-
-[NAYEON - Count It](https://lyricstranslate.com/en/nayeon-count-it-english)
-
-English → English
-
-[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
-
-New translation
-
-[Marko Perković - Bojna Čavoglave](https://lyricstranslate.com/en/marko-perkovic-bojna-cavoglave-montenegrin)
-
-Croatian → Montenegrin
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1711973162.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New song
 
-[Bali (OST) - Take a Break!](https://lyricstranslate.com/en/bali-ost-take-break-lyrics)
+[Nesty Gzz - Go Get Back](https://lyricstranslate.com/en/nesty-gzz-go-get-back-lyrics)
 
 English
 
-[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
+[![Itay](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1605787-1705890377.jpg)](https://lyricstranslate.com/en/translator/itay "Itay")
 
 New translation
 
-[Olga Voronets - Колокольчик (Kolokolʹchik)](https://lyricstranslate.com/en/olga-voronets-kolokolchik-croatian)
+[Ben Chen - חומר ממכר (Chomer Memaker)](https://lyricstranslate.com/en/ben-chen-chomer-memaker-english)
 
-Russian → Croatian
+Hebrew → English
 
-[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
-
-New translation
-
-[Russian Folk - Колокольчик (Kolokolʹchik)](https://lyricstranslate.com/en/russian-folk-kolokolchik-croatian)
-
-Russian → Croatian
-
-[![Mara_R](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/marar "Mara_R")
-
-New translation
-
-[Carlos Mejía Godoy - Las campesinas del Cua](https://lyricstranslate.com/en/carlos-mejia-godoy-las-campesinas-del-cua-english)
-
-Spanish → English
-
-[![Mohamed Zaki](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1550128-1717144476.jpg)](https://lyricstranslate.com/en/translator/mohamed-zaki "Mohamed Zaki")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New song
 
-[Leila Forouhar - راه شیراز](https://lyricstranslate.com/en/leila-forouhar-rahe-shiraz-lyrics)
+[Nesty Gzz - Dancer](https://lyricstranslate.com/en/nesty-gzz-dancer-lyrics)
 
-Persian
+English
+
+[![Muhammet Salkim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444128-1717466560.jpg)](https://lyricstranslate.com/en/translator/muhammet-salkim "Muhammet Salkim")
+
+New translation
+
+[Motörhead - Iron Horse / Born To Lose](https://lyricstranslate.com/en/motorhead-iron-horse-born-lose-turkish)
+
+English → Turkish
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New song
+
+[Nesty Gzz - This Is The Tone](https://lyricstranslate.com/en/nesty-gzz-tone-lyrics)
+
+English
+
+[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
+
+New request
+
+[AI Music - За гнома Пыню! (Za gnoma Pynyu!)](https://lyricstranslate.com/en/request/%D0%B7%D0%B0-%D0%B3%D0%BD%D0%BE%D0%BC%D0%B0-%D0%BF%D1%8B%D0%BD%D1%8E-0)
+
+Russian → English
+
+[![Daniel Lima](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1430694-1565835105.jpg)](https://lyricstranslate.com/en/translator/daniel-lima "Daniel Lima")
+
+New song
+
+[Syoko - からっぽの日曜日](https://lyricstranslate.com/en/syoko-sunday-never-comes-lyrics)
+
+Japanese
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New song
+
+[Nesty Gzz - Who Did Ya Touch](https://lyricstranslate.com/en/nesty-gzz-who-did-ya-touch-lyrics)
+
+English
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New song
+
+[Nesty Gzz - LongLiveRah](https://lyricstranslate.com/en/nesty-gzz-longliverah-lyrics)
+
+English
+
+[![Cataclysmic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1530774-1717380216.jpg)](https://lyricstranslate.com/en/translator/cataclysmic "Cataclysmic")
+
+New transcription request
+
+[Ismail & Junaid - قراره راشه](https://lyricstranslate.com/en/ismail-junaid-%D9%82%D8%B1%D8%A7%D8%B1%D9%87-%D8%B1%D8%A7%D8%B4%D9%87)
+
+Pashto
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
@@ -232,7 +236,7 @@ Persian
 
 Interface language
 
-Bahasa IndonesiaDeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiPortuguês (Brasil)RomânăSuomiSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربيةفارسی日本語한국어
+DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
 
 Theme
 
