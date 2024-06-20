@@ -1,5 +1,3 @@
-The Face Crate #2 is on sale for Juneteenth! [www.brickplanet.com/shop/18202/face-crate-2](https://www.brickplanet.com/shop/18202/face-crate-2)
-
 Terms and Conditions
 
 Last Updated: November 8th, 2022
