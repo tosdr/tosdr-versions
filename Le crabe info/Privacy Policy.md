@@ -103,7 +103,7 @@ Le Crabe Info utilise Cloudflare pour se protéger contre le piratage et les att
 ##### Raccourcis
 
 * [Windows 11](https://lecrabeinfo.net/faq-windows-11.html)
-* [PC portables pas cher 0](https://lecrabeinfo.net/pc-portables-pas-cher-les-meilleurs-a-moins-de-500-euros.html)
+* [PC portables pas cher 1](https://lecrabeinfo.net/pc-portables-pas-cher-les-meilleurs-a-moins-de-500-euros.html)
 * [Meilleurs Antivirus (2024)](https://lecrabeinfo.net/meilleur-antivirus-quel-antivirus-choisir-pour-windows-en-2024.html)
 * [Meilleurs VPN (2024)](https://lecrabeinfo.net/quel-vpn-choisir-le-guide-pour-les-debutants.html)
 * [ISO Windows](https://lecrabeinfo.net/telecharger-iso-de-windows-7-8-10-et-11-gratuitement.html)
@@ -120,7 +120,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 118 utilisateurs actifs
+##### 531 utilisateurs actifs
 
 Chargement en cours
 
@@ -151,9 +151,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 278 membres
+* 68 285 membres
 * 840 articles
-* 26 220 commentaires
+* 26 221 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
