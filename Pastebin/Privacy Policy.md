@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [🤑G2A.com Free Gift Card FIX June 2024🤑](https://pastebin.com/vbKpuBuC)
+* [🤑G2A.com Free Gift Card FIX June 2024🤑](https://pastebin.com/Ss6KQFBX)
     
-    JavaScript | 4 min ago | 0.30 KB
+    JavaScript | 5 min ago | 0.29 KB
     
-* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/AVQU7EDN)
+* [textDuplication3D](https://pastebin.com/eH04ukh3)
     
-    JavaScript | 10 min ago | 0.30 KB
+    Lua | 7 min ago | 33.48 KB
     
-* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/NYfYKazR)
+* [VK the best confusion matrix DNN CNN](https://pastebin.com/K5VfV7fA)
     
-    JavaScript | 16 min ago | 0.30 KB
+    Python | 8 min ago | 10.79 KB
     
-* [Moderation Menu Discord Progress](https://pastebin.com/MHenLH1d)
+* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/PCTw7Wii)
     
-    JSON | 22 min ago | 13.08 KB
+    JavaScript | 11 min ago | 0.30 KB
     
-* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/8VCk2r7Y)
+* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/EfFSXDiR)
     
-    JavaScript | 22 min ago | 0.30 KB
+    JavaScript | 17 min ago | 0.28 KB
     
-* [🤑G2A.com Free Gift Card FIX June 2024🤑](https://pastebin.com/3vZRGSXW)
+* [🤑G2A.com Free Gift Card FIX June 2024🤑](https://pastebin.com/1ujssvqM)
     
-    JavaScript | 29 min ago | 0.30 KB
+    JavaScript | 23 min ago | 0.30 KB
     
-* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/YgGBrGjx)
+* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/RZRDZtJ6)
+    
+    JavaScript | 29 min ago | 0.29 KB
+    
+* [🤑G2A.com Free Gift Card FIX June 2024🤑](https://pastebin.com/bNki5yee)
     
     JavaScript | 35 min ago | 0.30 KB
-    
-* [🤑G2A.com Free Gift Card FIX June 2024🎁](https://pastebin.com/72Xu9Ak1)
-    
-    JavaScript | 41 min ago | 0.29 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
