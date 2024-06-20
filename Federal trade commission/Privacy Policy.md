@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Statement of the Commission Regarding TikTok Complaint Referral to DOJ](https://www.ftc.gov/news-events/news/press-releases/2024/06/statement-commission-regarding-tiktok-complaint-referral-doj)
+    ### [FTC Submits Comment Supporting Proposed USPTO Rule](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-submits-comment-supporting-proposed-uspto-rule)
     
     June 18, 2024
     
