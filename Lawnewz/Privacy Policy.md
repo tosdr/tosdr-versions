@@ -262,25 +262,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![James McDonald Jr.](https://am22.mediaite.com/lc/cnt/uploads/2024/06/James-McDonald-432x243.jpg)](https://lawandcrime.com/crime/cnbc-commentator-who-lost-investors-40-million-on-risky-bet-that-economy-would-tank-following-2020-presidential-election-arrested-after-3-years-on-the-run-feds/)
+1. [![Destiny Livingstone and Kasey Haag](https://am21.mediaite.com/lc/cnt/uploads/2024/06/Destiny-Livingstone-Kasey-Haag-432x243.jpg)](https://lawandcrime.com/crime/after-u-haul-van-takes-plunge-into-grandfathers-pool-fully-clothed-woman-claims-she-was-just-out-here-swimming-after-2-a-m/)
     
-    ### [CNBC commentator who lost investors $40 million on 'risky' bet that economy would tank following 2020 presidential election arrested after 3 years on the run: Feds](https://lawandcrime.com/crime/cnbc-commentator-who-lost-investors-40-million-on-risky-bet-that-economy-would-tank-following-2020-presidential-election-arrested-after-3-years-on-the-run-feds/)
+    ### [After U-Haul van takes plunge into grandfather's pool, fully clothed woman claims she was just 'out here swimming' after 2 a.m.](https://lawandcrime.com/crime/after-u-haul-van-takes-plunge-into-grandfathers-pool-fully-clothed-woman-claims-she-was-just-out-here-swimming-after-2-a-m/)
     
-2. [![Jack Smith, Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Jack-Smith-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/trump-finally-files-crucial-notice-on-use-of-classified-material-as-part-of-mar-a-lago-defense/)
+2. [![Background: This photo shows the Flag Super Power Building owned by the Church of Scientology in Clearwater, Fla., Saturday, Nov. 21, 2020. (AP Photo/Steve Helber)./ Inset: Whitney Mills. Photo via Facebook.](https://am22.mediaite.com/lc/cnt/uploads/2024/06/whitney-mills-1-432x243.jpg)](https://lawandcrime.com/high-profile/church-of-scientology-ignored-womans-very-real-psychosis-stopped-her-from-receiving-mental-health-care-before-suicide-lawsuit-claims/)
     
-    ### [Trump finally files 'crucial' notice on use of classified material as part of Mar-a-Lago defense](https://lawandcrime.com/high-profile/trump-finally-files-crucial-notice-on-use-of-classified-material-as-part-of-mar-a-lago-defense/)
+    ### [Church of Scientology ignored woman’s ‘very real psychosis,’ stopped her from receiving mental health care before suicide, lawsuit claims](https://lawandcrime.com/high-profile/church-of-scientology-ignored-womans-very-real-psychosis-stopped-her-from-receiving-mental-health-care-before-suicide-lawsuit-claims/)
     
-3. [![Dr. Benjamin Jacob Brown (Santa Rosa County Sheriff's Office) and Hillary Ellington Brown (Rose Lawn Funeral Home)](https://am22.mediaite.com/lc/cnt/uploads/2024/06/Dr.-Benjamin-Jacob-Brown-Santa-Rosa-County-Sheriffs-Office-and-Hillary-Ellington-Brown-Rose-Lawn-Funeral-Home-432x243.jpg)](https://lawandcrime.com/crime/plastic-surgeon-who-left-his-own-wife-seizing-on-operating-table-for-up-to-20-minutes-charged-in-her-death/)
+3. [![Devon Blair appears inset on the left; Brooke Devinney appears inset on the right, the main image shows the house where she was killed in June 2024](https://am23.mediaite.com/lc/cnt/uploads/2024/06/Blair-Devinney-432x243.jpg)](https://lawandcrime.com/crime/give-me-a-bond-so-i-can-get-out-of-here-obstinate-defendant-demands-pretrial-release-after-allegedly-beating-pregnant-mother-of-his-child-to-death-on-fathers-day/)
     
-    ### [Plastic surgeon who left his own wife seizing on operating table for up to 20 minutes charged in her death](https://lawandcrime.com/crime/plastic-surgeon-who-left-his-own-wife-seizing-on-operating-table-for-up-to-20-minutes-charged-in-her-death/)
+    ### ['Give me a bond so I can get out of here': Obstinate defendant demands pretrial release after allegedly beating pregnant mother of his child to death on Father's Day](https://lawandcrime.com/crime/give-me-a-bond-so-i-can-get-out-of-here-obstinate-defendant-demands-pretrial-release-after-allegedly-beating-pregnant-mother-of-his-child-to-death-on-fathers-day/)
     
-4. [![Left: Sean McKinnon, booking photo Marion County Sheriff's Office. Right: James ](https://am21.mediaite.com/lc/cnt/uploads/2024/06/mckinnon-bulger-432x243.jpg)](https://lawandcrime.com/high-profile/accused-lookout-to-whitey-bulger-murder-pleads-guilty-to-making-false-statement-sentenced-to-time-served/)
+4. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2024/02/Ana-Knezevich-disappearance-selfies-missing-poster-432x243.jpg)](https://lawandcrime.com/crime/clear-the-court-has-no-jurisdiction-florida-man-accused-of-kidnapping-estranged-wife-in-spain-demands-release-challenges-us-prosecution/)
     
-    ### [Accused lookout to Whitey Bulger murder pleads guilty to making false statement, sentenced to time served](https://lawandcrime.com/high-profile/accused-lookout-to-whitey-bulger-murder-pleads-guilty-to-making-false-statement-sentenced-to-time-served/)
+    ### ['Clear the court has no jurisdiction:' Florida man accused of kidnapping estranged wife in Spain demands release, challenges US prosecution](https://lawandcrime.com/crime/clear-the-court-has-no-jurisdiction-florida-man-accused-of-kidnapping-estranged-wife-in-spain-demands-release-challenges-us-prosecution/)
     
-5. [![Denise Kay](https://am22.mediaite.com/lc/cnt/uploads/2024/06/Denise-Kay-432x243.jpg)](https://lawandcrime.com/crime/embarrassed-by-all-of-it-attorney-shows-up-to-dui-sentencing-with-4-times-the-legal-bac-limit-after-3rd-arrest-in-18-months/)
+5. [![Roger Stone, Aileen Cannon](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Roger-Stone-Aileen-Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/trump-confidant-roger-stone-caught-on-tape-talking-about-mar-a-lago-judge-and-the-real-reason-trial-delays-matter/)
     
-    ### ['Embarrassed by all of it:' Attorney shows up to DUI sentencing with 4 times the legal BAC limit after 3rd arrest in 18 months](https://lawandcrime.com/crime/embarrassed-by-all-of-it-attorney-shows-up-to-dui-sentencing-with-4-times-the-legal-bac-limit-after-3rd-arrest-in-18-months/)
+    ### [Trump confidant Roger Stone caught on tape talking about Mar-a-Lago judge and the real reason trial delays matter](https://lawandcrime.com/high-profile/trump-confidant-roger-stone-caught-on-tape-talking-about-mar-a-lago-judge-and-the-real-reason-trial-delays-matter/)
     
 
 [](http://eepurl.com/c89Jdb)
