@@ -181,14 +181,12 @@ If for any reason a court of competent jurisdiction finds any provision of these
 
 USA office 1150 18th Street NW, Suite 275 Washington, DC 20005
 
-© 2024 Elsevier Inc.
+Copyright © 2024 Elsevier Inc. or its licensors and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
 
 * [Accessibility Policy](https://www.interfolio.com/accessibility-policy/)
 * [Cookies Policy](https://www.interfolio.com/cookies-policy/)
 * [Privacy Policy](https://www.interfolio.com/privacy-policy/)
 * [Terms of Service](https://www.interfolio.com/terms-of-service/)
-
- [![](https://www.interfolio.com/wp-content/themes/interfolio-2020/dist/images/facebook-icon.svg)](https://www.facebook.com/Interfolio/)[![](https://www.interfolio.com/wp-content/themes/interfolio-2020/dist/images/twitter-icon.svg)](https://twitter.com/Interfolio)[![](https://www.interfolio.com/wp-content/themes/interfolio-2020/dist/images/ig-icon.svg)](https://www.instagram.com/interfolio/)[![](https://www.interfolio.com/wp-content/themes/interfolio-2020/dist/images/li-icon.png)](https://www.linkedin.com/company/interfolio-inc-/)
 
 We use cookies to enhance your experience when visiting our website. To find out more about cookies and how they are used, please review our [Privacy Policy](https://www.interfolio.com/privacy-policy/). X
 
