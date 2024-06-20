@@ -17,12 +17,12 @@
     
     Per ricevere o inviare informazioni da INPS, effettuare dei pagamenti, consultare banche dati, modificare il proprio stato, simulare scenari futuri.
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
-    * [Cedolino della pensione](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.cedolino-della-pensione-50615.cedolino-della-pensione.html "Cedolino della pensione")
-    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
-    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Cedolino della pensione](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.cedolino-della-pensione-50615.cedolino-della-pensione.html "Cedolino della pensione")
+    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
+    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
     
-    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tag=pensione+e+previdenza)
+    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tagName=previdenza)
     
     * [Esplora Pensione e Previdenza](https://www.inps.it/it/it/previdenza.html)
     
@@ -43,12 +43,12 @@
     
     Lavoro
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
-    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
-    * [Consultazione Estratto conto contributivo/previdenziale](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.consultazione-estratto-conto-contributivo-previdenziale-50119.consultazione-estratto-conto-contributivo-previdenziale.html "Consultazione Estratto conto contributivo/previdenziale")
-    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
+    * [Consultazione Estratto conto contributivo/previdenziale](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.consultazione-estratto-conto-contributivo-previdenziale-50119.consultazione-estratto-conto-contributivo-previdenziale.html "Consultazione Estratto conto contributivo/previdenziale")
+    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
     
-    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tag=lavoro)
+    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tagName=lavoro)
     
     * [Esplora Lavoro](https://www.inps.it/it/it/lavoro.html)
     
@@ -72,12 +72,12 @@
     
     Sostegni, Sussidi, Indennità
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
-    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
-    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
-    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
+    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
+    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
     
-    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tag=sostegni%2C+sussidi+e+indennit%C3%A0)
+    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tagName=sostegni%2C-sussidi%2C-indennit-)
     
     * [Esplora Sostegni, Sussidi e Indennità](https://www.inps.it/it/it/sostegni-sussidi-indennita.html)
     
@@ -99,12 +99,12 @@
     
     Imprese e Liberi Professionisti
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
-    * [Agricoli: consultazione quote associative FIMI e CAC](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.50244.agricoli-consultazione-quote-associative-fimi-e-cac.html "Agricoli: consultazione quote associative FIMI e CAC")
-    * [Assegno per il Nucleo Familiare: consultazione degli importi ANF](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf-52810.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf.html "Assegno per il Nucleo Familiare: consultazione degli importi ANF")
-    * [Fondo Previdenza marinara estera](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.fondo-previdenza-marinara-estera-50622.fondo-previdenza-marinara-estera.html "Fondo Previdenza marinara estera")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Agricoli: consultazione quote associative FIMI e CAC](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.50244.agricoli-consultazione-quote-associative-fimi-e-cac.html "Agricoli: consultazione quote associative FIMI e CAC")
+    * [Assegno per il Nucleo Familiare: consultazione degli importi ANF](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf-52810.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf.html "Assegno per il Nucleo Familiare: consultazione degli importi ANF")
+    * [Fondo Previdenza marinara estera](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.fondo-previdenza-marinara-estera-50622.fondo-previdenza-marinara-estera.html "Fondo Previdenza marinara estera")
     
-    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tag=imprese+e+liberi+professionisti)
+    [Vedi tutti gli strumenti](https://www.inps.it/it/it/tutti-gli-strumenti.html?tagName=imprese-e-liberi-professionisti)
     
     * [Esplora Imprese e Liberi Professionisti](https://www.inps.it/it/it/imprese-e-liberi-professionisti.html)
     
@@ -1600,7 +1600,13 @@
     * [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html)
     
 
-[ITA](#) [ENG](https://www.inps.it/en/en.html) [DEU](https://www.inps.it/de/de.html)
+* ITA
+* ENG
+* DEU
+
+The selected item corresponds to an external resource. Continuing you will be directed to the sub-portal.
+
+Continues
 
 * [L'Istituto](https://www.inps.it/it/it/l-istituto.html "L'Istituto")
 * [INPS Comunica](https://www.inps.it/it/it/inps-comunica.html "INPS Comunica")
@@ -1609,16 +1615,15 @@
 * [Sedi e Contatti](https://www.inps.it/it/it/sedi-e-contatti.html "Sedi e Contatti")
 * [Assistenza](https://www.inps.it/it/it/assistenza.html "Assistenza")
 
-[ITA Clicca per vedere il contenuto in italiano](#)
+ITA Lingua italiana
 
-* [ENG](https://www.inps.it/en/en.html)
-* [DEU](https://www.inps.it/de/de.html)
+* ITA Clicca per vedere il contenuto in italiano
+* ENG Click to view the content in English
+* DEU Klicken, um den Inhalt auf Deutsch zu sehen
 
-* [ENG](https://www.inps.it/en/en.html)
-* [DEU](https://www.inps.it/de/de.html)
+The selected item corresponds to an external resource. Continuing you will be directed to the sub-portal.
 
-* [ENG](https://www.inps.it/en/en.html)
-* [DEU](https://www.inps.it/de/de.html)
+Continues
 
 [Accedi](https://www.inps.it/it/it/auth/login.html)
 
@@ -1630,9 +1635,9 @@
 * [Cambio profilo](https://www.inps.it/it/it/auth/cambio-profilo.html)
 * [Esci](https://www.inps.it/it/it/auth/logout.html)
 
-[Apri menu](# "Apri menu")
+[Apri il menu](# "Apri menu")
 
-INPS (Istituto Nazionale Previdenza Sociale) [![logo inps](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps.svg) ![logo inps](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps-sticky.svg) ![logo inps](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps-mobile.svg) ![INPS (Istituto Nazionale Previdenza Sociale)](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps-white.svg)](https://www.inps.it/it/it.html "torna alla homepage INPS")
+INPS (Istituto Nazionale Previdenza Sociale) [![logo INPS](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps.svg) ![logo INPS](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps-sticky.svg) ![logo INPS](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps-mobile.svg) ![INPS (Istituto Nazionale Previdenza Sociale)](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/img/logo-inps-white.svg)](https://www.inps.it/it/it.html "Torna alla home page INPS")
 
 Apri cerca
 
@@ -1659,7 +1664,7 @@ In evidenza
 * [Bonus psicologo](#)
 * [Assegno di natalità](#)
 
-             
+            
 
 ##### Attenzione
 
@@ -1685,13 +1690,13 @@ Chiudi
     
     ### Strumenti
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
     
-    * [Cedolino della pensione](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.cedolino-della-pensione-50615.cedolino-della-pensione.html "Cedolino della pensione")
+    * [Cedolino della pensione](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.cedolino-della-pensione-50615.cedolino-della-pensione.html "Cedolino della pensione")
     
-    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
+    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
     
-    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
+    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
     
 * [Lavoro](#)
     
@@ -1711,13 +1716,13 @@ Chiudi
     
     ### Strumenti
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
     
-    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
+    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
     
-    * [Consultazione Estratto conto contributivo/previdenziale](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.consultazione-estratto-conto-contributivo-previdenziale-50119.consultazione-estratto-conto-contributivo-previdenziale.html "Consultazione Estratto conto contributivo/previdenziale")
+    * [Consultazione Estratto conto contributivo/previdenziale](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.consultazione-estratto-conto-contributivo-previdenziale-50119.consultazione-estratto-conto-contributivo-previdenziale.html "Consultazione Estratto conto contributivo/previdenziale")
     
-    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
+    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
     
 * [Sostegni, Sussidi e Indennità](#)
     
@@ -1740,13 +1745,13 @@ Chiudi
     
     ### Strumenti
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
     
-    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
+    * [Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.fascicolo-previdenziale-del-cittadino-50865.fascicolo-previdenziale-del-cittadino.html "Fascicolo previdenziale del cittadino")
     
-    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
+    * [Stato di una pratica o di una domanda](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.stato-di-una-pratica-o-di-una-domanda-50199.stato-di-una-pratica-o-di-una-domanda.html "Stato di una pratica o di una domanda")
     
-    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
+    * [Visualizzazione indebiti](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.visualizzazione-indebiti.html "Visualizzazione indebiti")
     
 * [Imprese e Liberi Professionisti](#)
     
@@ -1767,13 +1772,13 @@ Chiudi
     
     ### Strumenti
     
-    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
+    * [Accedi a MyINPS](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.myinps.html "Accedi a MyINPS")
     
-    * [Agricoli: consultazione quote associative FIMI e CAC](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.50244.agricoli-consultazione-quote-associative-fimi-e-cac.html "Agricoli: consultazione quote associative FIMI e CAC")
+    * [Agricoli: consultazione quote associative FIMI e CAC](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.50244.agricoli-consultazione-quote-associative-fimi-e-cac.html "Agricoli: consultazione quote associative FIMI e CAC")
     
-    * [Assegno per il Nucleo Familiare: consultazione degli importi ANF](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf-52810.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf.html "Assegno per il Nucleo Familiare: consultazione degli importi ANF")
+    * [Assegno per il Nucleo Familiare: consultazione degli importi ANF](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf-52810.assegno-per-il-nucleo-familiare-consultazione-degli-importi-anf.html "Assegno per il Nucleo Familiare: consultazione degli importi ANF")
     
-    * [Fondo Previdenza marinara estera](https://www.inps.it/it/it/dettaglio-scheda.schede-servizio-strumento.schede-strumenti.fondo-previdenza-marinara-estera-50622.fondo-previdenza-marinara-estera.html "Fondo Previdenza marinara estera")
+    * [Fondo Previdenza marinara estera](https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-strumenti.fondo-previdenza-marinara-estera-50622.fondo-previdenza-marinara-estera.html "Fondo Previdenza marinara estera")
     
 
 Cerca [Accedi](https://www.inps.it/it/it/auth/login.html)[](#)
@@ -1784,9 +1789,9 @@ Cerca [Accedi](https://www.inps.it/it/it/auth/login.html)[](#)
 * [Cambio profilo](https://www.inps.it/it/it/auth/cambio-profilo.html)
 * [Esci](https://www.inps.it/it/it/auth/logout.html)
 
-Apri menù Privacy
+Apri il menu Privacy
 
-Chiudi menù Privacy
+Chiudi il menù Privacy
 
 ### Privacy
 
@@ -1891,29 +1896,29 @@ Ti piace il portale?
 
 [Sedi e Contatti](https://www.inps.it/it/it/sedi-e-contatti.html "Sedi e Contatti")
 
-Sedi e Contatti [Apri menu Sedi e Contatti](#collapse-help)
------------------------------------------------------------
+Sedi e Contatti [Apri il menu Sedi e Contatti](#collapse-help)
+--------------------------------------------------------------
 
 * [Trova la Sede](https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede.html "Trova la Sede")
 * [Contact Center Multicanale](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center-multicanale.html "Contact Center Multicanale")
 * [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html "Mappa del sito")
 
-Software [Apri menu Software](#collapse-software)
--------------------------------------------------
+Software [Apri il menu Software](#collapse-software)
+----------------------------------------------------
 
 * [Per i CAF ed i liberi professionisti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-i-caf-ed-i-liberi-professionisti "Per i CAF ed i liberi professionisti")
 * [Per i medici certificatori e Medici di Famiglia](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-i-medici-certificatori-e-medici-di-famiglia "Per i medici certificatori e Medici di Famiglia")
 * [Per il cittadino](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-il-cittadino "Per il cittadino")
-* [Per le aziende ed i Consulenti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-le-aziende-ed-i-consulenti "Per le aziende ed i Consulenti")
+* [Per le azinede ed i Consulenti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-le-aziende-ed-i-consulenti "Per le azinede ed i Consulenti")
 
-Note Legali [Apri menu Note Legali](#collapse-notelegali)
----------------------------------------------------------
+Note Legali [Apri il menu Note Legali](#collapse-notelegali)
+------------------------------------------------------------
 
 * [Privacy](https://www.inps.it/it/it/privacy.html "Privacy")
 * [Atti di notifica](https://www.inps.it/it/it/avvisi-bandi-e-fatturazione/fatturazione-avvisi.html "Atti di notifica")
 
-App mobile [Apri menu App mobile](#collapse-appmobile)
-------------------------------------------------------
+App mobile [Apri il menu App mobile](#collapse-appmobile)
+---------------------------------------------------------
 
 * [INPS Mobile](https://www.inps.it/it/it/dettaglio-app-mobile.app-mobile.inps-mobile.html "INPS Mobile")
 * [Ufficio Stampa](https://www.inps.it/it/it/dettaglio-app-mobile.app-mobile.ufficio-stampa.html "Ufficio Stampa")
@@ -1921,20 +1926,20 @@ App mobile [Apri menu App mobile](#collapse-appmobile)
 * [INPS - Welfare - GDP](https://www.inps.it/it/it/dettaglio-app-mobile.app-mobile.inps---welfare---gdp.html "INPS - Welfare - GDP")
 * [INPS Cassetto Artigiani e Commercianti](https://www.inps.it/it/it/dettaglio-app-mobile.app-mobile.inps-cassetto-art-com.html "INPS Cassetto Artigiani e Commercianti")
 
-[![INPS (Istituto Nazionale Previdenza Sociale)](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/images/image-placeholder.svg)](https://www.inps.it/it/it.html "Torna alla homepage INPS")
+[![INPS ()](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/images/image-placeholder.svg)](https://www.inps.it/it/it.html "Torna alla home page")
 
 **Sede Legale**: Via Ciro il Grande, 21  
 00144 Roma  
 P.IVA 02121151001
 
-* [Facebook: apre una nuova finestra](https://www.facebook.com/INPSGiovani "Facebook")
-* [Twitter: apre una nuova finestra](http://www.twitter.com/Inps_it "Twitter")
-* [Youtube: apre una nuova finestra](https://www.youtube.com/user/INPSComunica "YouTube")
-* [Instagram: apre una nuova finestra](https://www.instagram.com/inps_social/ "Instagram")
-* [Linkedin: apre una nuova finestra](https://www.linkedin.com/company/inps-official/ "Linkedin")
-* [Rss: apre una nuova finestra](https://www.inps.it/it/it/rss.html "Rss")
+* [Facebook: Apre una nuova finestra](https://www.facebook.com/INPSGiovani "Facebook")
+* [Twitter: Apre una nuova finestra](http://www.twitter.com/Inps_it "Twitter")
+* [Youtube: Apre una nuova finestra](https://www.youtube.com/user/INPSComunica "YouTube")
+* [Instagram: Apre una nuova finestra](https://www.instagram.com/inps_social/ "Instagram")
+* [Linkedin: Apre una nuova finestra](https://www.linkedin.com/company/inps-official/ "Linkedin")
+* [Rss: Apre una nuova finestra](https://www.inps.it/it/it/rss.html "Rss")
 
-![Logo Istituzionale](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/images/image-placeholder.svg)
+![logo istituzionale](/etc.clientlibs/inps-site-common/clientlibs/clientlib-commons/resources/images/image-placeholder.svg)
 
 www.inps.gov.it © 1997-2024
 
@@ -1983,7 +1988,7 @@ Errore
 
 Chiudi
 
-Questo sito utilizza i cookie per migliorare i servizi e ottimizzare l’esperienza di navigazione dell’utente. I cookie di natura tecnica sono indispensabili per permettere il corretto funzionamento del sito. Solo previo consenso dell’utente, possono essere installati ulteriori tipologie di cookie. Puoi accettare tutti i cookie cliccando sul pulsante ACCETTA TUTTI, oppure puoi effettuare le tue scelte sulle singole categorie che vuoi installare, cliccando su IMPOSTAZIONI DEI COOKIE. Se invece intendi rifiutarne l’installazione dei cookie non tecnici, puoi farlo cliccando sul pulsante RIFIUTA I COOKIE NON TECNICI o chiudendo il banner. Per saperne di più rispetto ai cookie, consulta la relativa informativa sulle [informazioni sulla privacy](https://www.inps.it/it/it/privacy.html).
+Questo sito utilizza i cookie per migliorare i servizi e ottimizzare l’esperienza di navigazione dell’utente. I cookie di natura tecnica sono indispensabili per permettere il corretto funzionamento del sito. Solo previo consenso dell’utente, possono essere installati ulteriori tipologie di cookie. Puoi accettare tutti i cookie cliccando sul pulsante ACCETTA TUTTI, oppure puoi effettuare le tue scelte sulle singole categorie che vuoi installare, cliccando su IMPOSTAZIONI DEI COOKIE. Se invece intendi rifiutarne l’installazione dei cookie non tecnici, puoi farlo cliccando sul pulsante RIFIUTA I COOKIE NON TECNICI o chiudendo il banner. Per saperne di più rispetto ai cookie, consulta la relativa informativa sulle [informazioni sulla privacy](https://www.inps.it/it/it/privacy/informativa-sul-trattamento-dati-personali-nell-ambito-dei-servi.html).
 
 Accetta Tutti
 
@@ -2008,5 +2013,3 @@ Impostazioni dei cookie
   
 
 ##### Attenzione
-
-Chiudi
