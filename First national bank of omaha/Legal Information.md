@@ -317,8 +317,6 @@ New to Business Banking?
 
 [Enroll Now](https://www.banking.fnbo.com/CommercialWeb/enroll/enroll-form)
 
-Our branches will be closed on Wednesday, June 19 in observance of Juneteenth.
-
 FNBO Privacy Notice
 ===================
 
