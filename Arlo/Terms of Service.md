@@ -22,10 +22,10 @@ Shopping made seamless. Free shipping on all orders $35 or more.
     * [Order Status](https://www.arlo.com/en-us/orderstatus)
     * [My Arlo Dashboard](https://my.arlo.com/)
     
-* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw7be65771/images/assets/images/navigation/search.png)](# " ")
+* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw351bbac1/images/assets/images/navigation/search.png)](# " ")
 * [0
     
-    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwa93a4cab/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
+    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dw8073711d/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
 
 ### Security System
 
