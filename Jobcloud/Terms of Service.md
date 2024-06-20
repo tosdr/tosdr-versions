@@ -1,7 +1,7 @@
 [](# "Start")
 
 * [Careers at JobCloud​](https://careers.jobcloud.ch/en/)
-* [About us](https://www.jobcloud.ch/c/en/about/)
+* [About Us](https://www.jobcloud.ch/c/en/about/)
 * [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
 [![JoubCloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -29,7 +29,6 @@
     * [Employer Branding](https://www.jobcloud.ch/c/en/products/employer-branding/)
     * [International Recruitment](https://www.jobcloud.ch/c/en/products/international-recruitment/)
     
-* [FAQ](https://www.jobcloud.ch/c/en/why-jobcloud/faq/)
 * [Pricing](https://www.jobcloud.ch/c/en/pricing/)
 * [Solutions](#)
     
@@ -43,7 +42,7 @@
     
 
 * [Careers at JobCloud​](https://careers.jobcloud.ch/en/)
-* [About us](https://www.jobcloud.ch/c/en/about/)
+* [About Us](https://www.jobcloud.ch/c/en/about/)
 * [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
 [Log in](https://www.jobcloud.ch/c/en/login/) [Hire Now](https://www.jobcloud.ch/c/en/pricing/)
@@ -563,7 +562,6 @@ Zurich, February 2024
 ###### Contact
 
 * [Contact Us](https://www.jobcloud.ch/c/en/contact/)
-* [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
 © 2024 JobCloud — All Rights Reserved.
 
