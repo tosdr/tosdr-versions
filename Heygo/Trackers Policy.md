@@ -9,12 +9,12 @@
     * [Subscribe to job alerts](https://restless.co.uk/join/)
     * [Age diverse employers](https://restless.co.uk/jobs/age-diverse-employers/)
     * [Career advice](https://restless.co.uk/career-advice/)
-        * [Help finding a job](https://restless.co.uk/career-advice/help-finding-a-job/)
+        * [General job search advice](https://restless.co.uk/career-advice/help-finding-a-job/)
         * [CV tips](https://restless.co.uk/career-advice/cv-writing-tips/)
         * [Interview advice](https://restless.co.uk/career-advice/job-interview-tips/)
         * [Job ideas](https://restless.co.uk/career-advice/job-ideas/)
         * [Career change guides](https://restless.co.uk/career-advice/career-change-advice/)
-        * [Getting support at work](https://restless.co.uk/career-advice/getting-support-at-work/)
+        * [Succeeding at work](https://restless.co.uk/career-advice/getting-support-at-work/)
         * [Redundancy](https://restless.co.uk/redundancy/)
         * [Personal stories](https://restless.co.uk/career-advice/personal-stories/)
         * [View all career advice](https://restless.co.uk/career-advice/)
@@ -523,6 +523,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![Exploring Italy's hidden gems - 8 must-see spots](https://media.restless.co.uk/uploads/2024/06/exploring-italys-hidden-gems-8-must-see-spots-768x398.jpg)](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
+
+### [Exploring Italy’s hidden gems – 8 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
+
+[Read More »](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
+
 [![10 of the best Cornwall hotels with sea views](https://media.restless.co.uk/uploads/2024/06/the-best-cornwall-hotels-with-sea-views-1-768x512.jpg)](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
 
 ### [10 of the best Cornwall hotels with sea views](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
@@ -553,14 +559,26 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
 
-[![12 of the best last-minute holiday destinations](https://media.restless.co.uk/uploads/2022/08/the-best-last-minute-holiday-destinations-768x451.jpg)](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
-
-### [12 of the best last-minute holiday destinations](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
-
-[Read More »](https://restless.co.uk/travel/the-best-last-minute-holiday-destinations/)
-
 Popular travel guides
 ---------------------
+
+[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[![6 of the cheapest countries to visit in Southeast Asia](https://media.restless.co.uk/uploads/2023/04/the-cheapest-countries-to-visit-in-southeast-asia-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+### [6 of the cheapest countries to visit in Southeast Asia](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [![9 holiday destinations you can fly to in two hours or under](https://media.restless.co.uk/uploads/2023/07/holiday-destinations-you-can-fly-to-in-two-hours-or-under-768x525.jpg)](https://restless.co.uk/travel/countries-you-can-get-to-in-two-hours-or-under/)
 
@@ -580,12 +598,6 @@ Popular travel guides
 
 [Read More »](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
 
-[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
 [![10 places with Viking connections to visit in the UK](https://media.restless.co.uk/uploads/2023/05/places-with-viking-connections-to-visit-in-the-uk-768x459.jpg)](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
 
 ### [10 places with Viking connections to visit in the UK](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
@@ -597,12 +609,6 @@ Popular travel guides
 ### [28 of the best historical sites to visit in the UK](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
-
-[![6 of the cheapest countries to visit in Southeast Asia](https://media.restless.co.uk/uploads/2023/04/the-cheapest-countries-to-visit-in-southeast-asia-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
-
-### [6 of the cheapest countries to visit in Southeast Asia](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
 
 [![things to do and places to visit in the UK in March](https://media.restless.co.uk/uploads/2023/02/things-to-do-and-places-to-visit-in-the-uk-in-march-768x576.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
 
@@ -621,12 +627,6 @@ Popular travel guides
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [![10 budget-friendly all-inclusive holiday destinations](https://media.restless.co.uk/uploads/2023/10/budget-friendly-all-inclusive-holiday-destinations-1-768x511.jpg)](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
 
