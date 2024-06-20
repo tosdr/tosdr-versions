@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/666c654ff4c8e856d81b7d44_7-ctv-actionable-creative-best-practices-to-grow-your-app.png)
+
+7 actionable CTV creative best practices to grow your app](https://jampp.com/blog/7-ctv-actionable-creative-best-practices-to-grow-your-app)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/663914f2c7331d2150964a80_how-skoverlay-can-boost-skan-conversions-with-just-one-click.png)
 
 How SKOverlay can boost SKAN conversions with just one click](https://jampp.com/blog/how-skoverlay-can-boost-skan-conversions-with-just-one-click)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/663387dcc4344a12bc3c0680_burger-king-r-brazil-exceeds-kpis-with-jampps-app-retargeting-solution.png)
-
-Burger King® Brazil exceeds KPIs with Jampp’s App Retargeting solution](https://jampp.com/blog/burger-king-r-brazil-exceeds-kpis-with-jampps-app-retargeting-solution)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
