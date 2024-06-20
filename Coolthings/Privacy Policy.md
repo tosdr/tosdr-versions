@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-shaker-bottles-for-preworkouts-protein-shakes-and-more/)
+    
+    [The Best Shaker Bottles for Preworkouts, Protein Shakes, and More](https://www.coolthings.com/the-best-shaker-bottles-for-preworkouts-protein-shakes-and-more/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
     
     [Stoke Voltaics Nomad Cooking System Brings Electric Cooking to the Campsite](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
@@ -52,11 +57,6 @@
     
     [The Best Dolby Atmos Soundbars to Bring Immersive 3D Audio to Your TV Viewing Experience](https://www.coolthings.com/the-best-dolby-atmos-soundbars-to-bring-immersive-3d-audio-to-your-tv-viewing-experience/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/opinel-grilling-set-pocket-knife-bbq-spatula/)
-    
-    [Opinel Grilling Set Lets You Turn the Classic Pocket Knife into a BBQ Spatula](https://www.coolthings.com/opinel-grilling-set-pocket-knife-bbq-spatula/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
