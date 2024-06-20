@@ -132,11 +132,11 @@ Your cart is currently empty.
     
     [See more](https://www.lacrossetechnology.com/collections/popular-products)
     
-    [![](//www.lacrossetechnology.com/cdn/shop/files/01-327-1417-ColorWindStation-EnhancedContent-052224-01_200x.jpg?v=1716583790)
+    [![](//www.lacrossetechnology.com/cdn/shop/files/01_-_LTV-POOL_-_331-09667V2_-_Enhanced_Content_200x.jpg?v=1718840654)
     
-    327-1417V3 Color Wind Speed Weather Station
+    331-09667V2 Wireless Pool Thermometer
     
-    $68.99](https://www.lacrossetechnology.com/products/327-1417v3)
+    $42.99](https://www.lacrossetechnology.com/products/331-09667v2-wireless-pool-thermometer)
     
 * [Support](https://lacrossetechnology.zendesk.com/hc/en-us)
     
