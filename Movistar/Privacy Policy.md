@@ -73,7 +73,11 @@ Información adicional empresas
 
 ---------------------------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/proteccion-del-menor "Protección del menor")
+[](https://www.movistar.es/Microsites/centro-transparencia/privacy-policy-utiq.html "Información adicional empresas")
+
+UTIQ  
+
+-------
 
 Packs con Internet
 
