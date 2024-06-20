@@ -219,7 +219,7 @@ Need assistance about a service or product?
 
 Read](https://www.cira.ca/en/support/)
 
-3,390,276
+3,390,584
 
 Domains registered
 
