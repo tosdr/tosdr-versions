@@ -339,11 +339,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 
 ##### Latest
 
-1. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
-2. [7 Best Chemistry Courses for 2024](https://www.classcentral.com/report/best-chemistry-courses/)
-3. [\[2024\] 100 Robotics Courses You Can Take for Free](https://www.classcentral.com/report/robotics-free-online-courses/)
-4. [9 Best Physics Courses for 2024: Learn Physics Online](https://www.classcentral.com/report/best-physics-courses/)
-5. [Massive List of Online Learning Platforms in China](https://www.classcentral.com/report/chinese-online-learning-platforms/)
+1. [5 Best Arduino Courses for Beginners in 2024](https://www.classcentral.com/report/best-arduino-courses/)
+2. [6 Best Oceanography Courses for 2024](https://www.classcentral.com/report/best-oceanography-courses/)
+3. [24 Most Popular Online Courses Starting in July 2024](https://www.classcentral.com/report/most-popular-july-2024/)
+4. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
+5. [7 Best Chemistry Courses for 2024](https://www.classcentral.com/report/best-chemistry-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -354,11 +354,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. computer science
+1. hacking
     
-2. project management
+2. c
     
-3. trading
+3. html
     
 
 Popular subjects
@@ -367,9 +367,9 @@ Popular subjects
 1. [Artificial Intelligence
     
     4,969 courses](https://www.classcentral.com/subject/ai)
-2. [Communication Skills
+2. [Computer Networking
     
-    2,837 courses](https://www.classcentral.com/subject/communication-skills)
+    1,006 courses](https://www.classcentral.com/subject/computer-networking)
 3. [Project Management
     
     3,127 courses](https://www.classcentral.com/subject/project-management)
@@ -377,15 +377,15 @@ Popular subjects
 Popular courses
 ---------------
 
-1. [Bioseguridad y equipo de protección para la prevención de COVID-19
+1. [Bitcoin and Cryptocurrency Technologies
     
-    Galileo University](https://www.classcentral.com/course/coronavirus-universidad-galileo-bioseguridad-y-eq-20375)
-2. [Food as Medicine
+    Princeton University](https://www.classcentral.com/course/bitcointech-3655)
+2. [Medical Parasitology | 医学寄生虫学
     
-    Monash University](https://www.classcentral.com/course/food-as-medicine-5742)
-3. [Elements of AI
+    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
+3. [Introduction to Research Ethics: Working with People
     
-    University of Helsinki](https://www.classcentral.com/course/independent-elements-of-ai-12469)
+    University of Leeds](https://www.classcentral.com/course/research-ethics-an-introduction-12091)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
