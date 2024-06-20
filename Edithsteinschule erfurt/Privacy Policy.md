@@ -331,8 +331,18 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**29.05.-02.06.2024  
-**Katholikentag in Erfurt
+**01.08.2024  
+**
+
+Erster Schultag
+
+5\. Klassen treffen sich 7.40 Uhr in der Aula
+
+6\. – 12. Klassen Schulbeginn 8.35 Uhr
+
+**07.08.2024**
+
+Schulwandertag
 
 ![](https://www.ess-erfurt.de/wp-content/uploads/Service/Logo_Praxissemesterschule_2023-24-002.png)
 
