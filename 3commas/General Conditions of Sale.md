@@ -232,7 +232,7 @@ Company
 
 **[DeCommas](https://decommas.io/)** is part of the 3Commas ecosystem
 
-![](https://cdn.3commas.io/80/3commas-website/common/decommas.png)
+![](https://cdn.3commas.io/80/3commas-website/_next/static/media/decommas.e2ed01d5.png)
 
 3Commas provides software only. Any references to trading, exchange, transfer, or wallet services, etc. are references to services provided by third-party service providers.
 
@@ -244,6 +244,6 @@ VisaMasterCardBitcoinLogoPayPal
 
 [AppStore](https://apps.apple.com/app/id6446649413)[GooglePlay](https://play.google.com/store/apps/details?id=io.threecommas.wallet)
 
-![](https://cdn.3commas.io/80/3commas-website/common/footer.png)
+![](https://cdn.3commas.io/80/3commas-website/_next/static/media/footer.34f4d774.png)
 
 ![](https://d.adroll.com/ipixel/SRZPWJXCVVBAJL2B52EDU5/AJ6LCFRMLNEVRGRUALNEPR?name=a187e611)![](https://d.adroll.com/fb/ipixel/SRZPWJXCVVBAJL2B52EDU5/AJ6LCFRMLNEVRGRUALNEPR?name=a187e611)
