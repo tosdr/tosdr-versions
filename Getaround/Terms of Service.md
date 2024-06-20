@@ -1,3 +1,7 @@
+⚠️
+
+Our spanish line is experiencing a high volume of calls. We recommend you to contact us through to contact us through https://es.getaround.com/contact for all rentals occurring in Spain. Thank you for your understanding.
+
 [![Peer-to-peer car rental – Getaround](/packs/images/shared/getaround-logo-8ceb724cd27ec56904d95ba679f8d866.svg)](https://www.getaround.com/ "Getaround")
 
 * Menu
@@ -78,13 +82,13 @@ Available all over the United States
 
 [Las Vegas](https://www.getaround.com/car-rental/las-vegas-nv)
 
-[Seattle](https://www.getaround.com/car-rental/seattle-wa)
+[Newark](https://www.getaround.com/car-rental/newark-nj)
 
-[Hollywood](https://www.getaround.com/car-rental/hollywood-ca)
+[Jersey City](https://www.getaround.com/car-rental/jersey-city-nj)
 
-[San Jose](https://www.getaround.com/car-rental/san-jose-ca)
+[Houston](https://www.getaround.com/car-rental/houston-tx)
 
-[Portland](https://www.getaround.com/car-rental/portland-or)
+[Baltimore](https://www.getaround.com/car-rental/baltimore-md)
 
 ![location-us](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
