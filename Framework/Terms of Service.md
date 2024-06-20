@@ -198,7 +198,7 @@ Information related to accepted payment methods is made available during the pur
 
 Some payment methods may only be available subject to additional conditions or fees. In such cases related information can be found in the dedicated section of this Website.
 
-All payments are independently processed through third-party services. Therefore, this Website does not collect any payment information – such as credit card details – but only receives a notification once the payment has been successfully completed.
+All payments are independently processed through third-party services. Therefore, this Website does not collect any payment information – such as credit card details – but only receives a notification once the payment has been successfully completed. The User may read the privacy policy of this Website to learn more about the data processing and Users’ rights regarding their data.
 
 If a payment through the available methods fails or is refused by the payment service provider, the Owner shall be under no obligation to fulfill the purchase order. If a payment fails or is refused, the Owner reserves the right to claim any related expenses or damages from the User.
 
@@ -237,7 +237,7 @@ Unless exceptions apply, the User may be eligible to withdraw from the contract 
 
 Unless any applicable exception is mentioned below, Users who are European Consumers are granted a statutory withdrawal right under EU rules, to withdraw from contracts entered into online (distance contracts) within the specified period applicable to their case, for any reason and without justification.
 
-Users that do not fit this qualification, cannot benefit from the rights described in this section.
+Users that do not fit this qualification, cannot benefit from the rights described in this section. The Consumer shall only be liable to the Seller for any diminution in the value of the goods resulting from handling the goods in a manner other than that necessary to acquaint him with the nature, characteristics and functionality of the goods.
 
 #### Exercising the right of withdrawal
 
@@ -392,7 +392,7 @@ Unless damages have been caused by way of intent or gross negligence, or they af
 
 #### Limitation of liability
 
-Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar State and Territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms of Use, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
+Nothing in these Terms excludes, restricts or modifies any guarantee, condition, warranty, right or remedy which the User may have under the Competition and Consumer Act 2010 (Cth) or any similar state and territory legislation and which cannot be excluded, restricted or modified (non-excludable right). To the fullest extent permitted by law, our liability to the User, including liability for a breach of a non-excludable right and liability which is not otherwise excluded under these Terms, is limited, at the Owner’s sole discretion, to the re-performance of the services or the payment of the cost of having the services supplied again.
 
 ### US Users
 
@@ -449,7 +449,7 @@ The Owner’s failure to assert any right or provision under these Terms shall n
 
 To ensure the best possible service level, the Owner reserves the right to interrupt the Service for maintenance, system updates or any other changes, informing the Users appropriately.
 
-Within the limits of law, the Owner may also decide to suspend or discontinue the Service altogether. If the Service is discontinued, the Owner will cooperate with Users to enable them to withdraw Personal Data or information and will respect Users' rights relating to continued product use and/or compensation, as provided for by applicable law.
+Within the limits of law, the Owner may also decide to suspend or discontinue the Service altogether. If the Service is discontinued, the Owner will cooperate with Users to enable them to withdraw personal data or information and will respect Users' rights relating to continued product use and/or compensation, as provided for by applicable law.
 
 Additionally, the Service might not be available due to reasons outside the Owner’s reasonable control, such as “force majeure” events (infrastructural breakdowns or blackouts etc.).
 
@@ -459,7 +459,7 @@ Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of
 
 ### Privacy policy
 
-To learn more about the use of their Personal Data, Users may refer to the privacy policy of this Website.
+To learn more about the use of their personal data, Users may refer to the privacy policy of this Website.
 
 ### Intellectual property rights
 
@@ -497,16 +497,16 @@ All communications relating to the use of this Website must be sent using the co
 
 Should any provision of these Terms be deemed or become invalid or unenforceable under applicable law, the invalidity or unenforceability of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
 
+#### US Users
+
+Any such invalid or unenforceable provision will be interpreted, construed and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent. These Terms constitute the entire Agreement between Users and the Owner with respect to the subject matter hereof, and supersede all other communications, including but not limited to all prior agreements, between the parties with respect to such subject matter. These Terms will be enforced to the fullest extent permitted by law.
+
 #### EU Users
 
 Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts.  
 In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law.
 
 Without prejudice to the above, the nullity, invalidity or impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.
-
-#### US Users
-
-Any such invalid or unenforceable provision will be interpreted, construed and reformed to the extent reasonably required to render it valid, enforceable and consistent with its original intent. These Terms constitute the entire Agreement between Users and the Owner with respect to the subject matter hereof, and supersede all other communications, including but not limited to all prior agreements, between the parties with respect to such subject matter. These Terms will be enforced to the fullest extent permitted by law.
 
 ### Governing law
 
@@ -565,7 +565,7 @@ The Owner does not participate in alternative dispute resolution procedures for 
 
 Within one year of submitting a written complaint to the Owner regarding any dispute stemming from these Terms, Consumers have the right to initiate a mediation procedure before
 
-* any mediation body approved by the French Government. The relevant list is available at the following link: [https://www.economie.gouv.fr/mediation-conso/mediateurs-references](https://www.economie.gouv.fr/mediation-conso/mediateurs-references).
+* any mediation body approved by the French government. The relevant list is available at the following link: [https://www.economie.gouv.fr/mediation-conso/mediateurs-references](https://www.economie.gouv.fr/mediation-conso/mediateurs-references).
 
 #### Taiwan: Dispute Resolution
 
@@ -637,7 +637,7 @@ Indicates any natural person or legal entity using this Website.
 
 Consumer is any User qualifying as such under applicable law.
 
-Latest update: December 20, 2023
+Latest update: June 20, 2024
 
 [iubenda](https://www.iubenda.com/en/terms-and-conditions-generator "iubenda - Terms and Conditions generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
