@@ -315,11 +315,11 @@ Support links
 * [About the NHS](https://www.nhs.uk/using-the-nhs/about-the-nhs/)
 * [Healthcare abroad](https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/)
 
-* [Contact us](https://www.nhs.uk/contact-us/)
 * [Other NHS websites](https://www.nhs.uk/nhs-sites/)
 * [Profile editor login](https://www.nhs.uk/our-policies/profile-editor-login/)
 
 * [About us](https://www.nhs.uk/about-us/)
+* [Give us feedback](https://www.nhs.uk/give-feedback-about-the-nhs-website/)
 * [Accessibility statement](https://www.nhs.uk/accessibility-statement/)
 * [Our policies](https://www.nhs.uk/our-policies/)
 * [Cookies](https://www.nhs.uk/our-policies/cookies-policy/)
