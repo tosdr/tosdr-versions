@@ -21,17 +21,20 @@ Free Consultations  |  Phones Answered 24/7
     * [Shane Moriarty](https://www.hardwickpendergast.com/attorney/moriarty-shane-m/)
     * [Richard S. Aguire](https://www.hardwickpendergast.com/attorney/aguire-richard-s/)
 * [Practice Areas](https://www.hardwickpendergast.com/practice-areas/)
-    * [Personal Injury](https://www.hardwickpendergast.com/personal-injury/)
-    * [Car Accidents](https://www.hardwickpendergast.com/car-accidents/)
-    * [Motorcycle Accidents](https://www.hardwickpendergast.com/motorcycle-accidents/)
-    * [Truck Accidents](https://www.hardwickpendergast.com/truck-accidents/)
+    * [Auto Accident Causes](https://www.hardwickpendergast.com/accident-causes/)
     * [Bike Accidents](https://www.hardwickpendergast.com/bicycle-accidents/)
+    * [Bus Accidents](https://www.hardwickpendergast.com/bus-accidents/)
+    * [Burn Injury](https://www.hardwickpendergast.com/burn-injury/)
+    * [Car Accidents](https://www.hardwickpendergast.com/car-accidents/)
     * [Catastrophic Injury](https://www.hardwickpendergast.com/catastrophic-injury/)
+    * [Motorcycle Accidents](https://www.hardwickpendergast.com/motorcycle-accidents/)
+    * [Dog Bites](https://www.hardwickpendergast.com/dog-bite/)
+    * [Personal Injury](https://www.hardwickpendergast.com/personal-injury/)
     * [Product Liability](https://www.hardwickpendergast.com/product-liability/)
     * [Slip-And-Fall Accidents](https://www.hardwickpendergast.com/slip-fall-accidents/)
+    * [Truck Accidents](https://www.hardwickpendergast.com/truck-accidents/)
+    * [Van Accidents](https://www.hardwickpendergast.com/van-accidents/)
     * [Wrongful Death](https://www.hardwickpendergast.com/wrongful-death/)
-    * [Burn Injury](https://www.hardwickpendergast.com/burn-injury/)
-    * [Dog Bites](https://www.hardwickpendergast.com/dog-bite/)
 * [Case Results](https://www.hardwickpendergast.com/case-results/)
 * [Reviews](#)
     * [Client Testimonials](https://www.hardwickpendergast.com/client-reviews/)
@@ -59,33 +62,32 @@ Free Consultations  |  Phones Answered 24/7
     * [Our Focus](https://www.hardwickpendergast.com/about/focused-representation/)
     * [Personal Injury Advice](https://www.hardwickpendergast.com/about/advice/)
     * [No Fee Promise](https://www.hardwickpendergast.com/no-fee-promise/)
+    * [Firm Brochure](https://www.hardwickpendergast.com/?page_id=46211)
     * [Recovering Compensation For Injured Clients In Washington](https://www.hardwickpendergast.com/about/compensation/)
 * [Attorneys](https://www.hardwickpendergast.com/about/our-attorneys/)
     * [Joseph (J.P.) Pendergast](https://www.hardwickpendergast.com/attorney/pendergast-mr-joseph-edward-iii/)
     * [Shane Moriarty](https://www.hardwickpendergast.com/attorney/moriarty-shane-m/)
-    * [Richard S. Aguire](https://www.hardwickpendergast.com/attorney/aguire-richard-s/)
 * [Practice Areas](https://www.hardwickpendergast.com/practice-areas/)
-    * [Personal Injury](https://www.hardwickpendergast.com/personal-injury/)
-    * [Car Accidents](https://www.hardwickpendergast.com/car-accidents/)
-    * [Motorcycle Accidents](https://www.hardwickpendergast.com/motorcycle-accidents/)
-    * [Truck Accidents](https://www.hardwickpendergast.com/truck-accidents/)
+    * [Auto Accident Causes](https://www.hardwickpendergast.com/accident-causes/)
     * [Bike Accidents](https://www.hardwickpendergast.com/bicycle-accidents/)
+    * [Burn Injury](https://www.hardwickpendergast.com/burn-injury/)
+    * [Car Accidents](https://www.hardwickpendergast.com/car-accidents/)
     * [Catastrophic Injury](https://www.hardwickpendergast.com/catastrophic-injury/)
+    * [Motorcycle Accidents](https://www.hardwickpendergast.com/motorcycle-accidents/)
+    * [Personal Injury](https://www.hardwickpendergast.com/personal-injury/)
     * [Product Liability](https://www.hardwickpendergast.com/product-liability/)
     * [Slip-And-Fall Accidents](https://www.hardwickpendergast.com/slip-fall-accidents/)
+    * [Truck Accidents](https://www.hardwickpendergast.com/truck-accidents/)
+    * [Van Accidents](https://www.hardwickpendergast.com/van-accidents/)
     * [Wrongful Death](https://www.hardwickpendergast.com/wrongful-death/)
-    * [Burn Injury](https://www.hardwickpendergast.com/burn-injury/)
-    * [Dog Bites](https://www.hardwickpendergast.com/dog-bite/)
 * [Case Results](https://www.hardwickpendergast.com/case-results/)
 * [Reviews](https://www.hardwickpendergast.com/client-reviews/)
-    * [Client Testimonials](https://www.hardwickpendergast.com/client-reviews/)
     * [Peer Endorsements](https://www.hardwickpendergast.com/peer-endorsements/)
 * [Resources](#)
     * [Blog](https://www.hardwickpendergast.com/blog/)
     * [Articles](https://www.hardwickpendergast.com/articles/)
     * [Media Center](https://www.hardwickpendergast.com/about/media-center/)
     * [Video Center](https://www.hardwickpendergast.com/video-center/)
-    * [Download Our Book](https://www.hardwickpendergast.com/book-auto-accident/)
 * [Areas We Serve](https://www.hardwickpendergast.com/areas-we-serve/)
 * [Contact Us](https://www.hardwickpendergast.com/contact-us/)
     * [Renton Office](https://www.hardwickpendergast.com/office-renton/)
@@ -133,49 +135,49 @@ We partner with Thomson Reuters, who might also collect data as part of our mark
 
 ![2023 America's Top 50 Lawyers](/wp-content/uploads/sites/1403957/2023/02/20-Americas-Top-50-Lawyers-Blue-and-Grey-Logo-1.png)
 
-[![Elite Lawyer Personal Injury Joseph E. Pendergast, III 2022](/wp-content/uploads/sites/1403957/2023/03/elite-lawyer-personal-injury-award.png)](https://www.hardwickpendergast.com/about/awards/#elite)
+![Elite Lawyer Personal Injury Joseph E. Pendergast, III 2022](/wp-content/uploads/sites/1403957/2023/03/elite-lawyer-personal-injury-award.png)
 
-[![Avvo Top-Rated Lawyer 2022 Joseph E. Pendergast, III](/wp-content/uploads/sites/1403957/2022/05/avvo-top-rated.jpg)](https://www.hardwickpendergast.com/about/awards/)
+![Avvo Top-Rated Lawyer 2022 Joseph E. Pendergast, III](/wp-content/uploads/sites/1403957/2022/05/avvo-top-rated.jpg)
 
-[![10 Best Attorney Client Satisfaction 8 Years American Institute Of Personal Injury Attorneys](/wp-content/uploads/sites/1403957/2023/03/10-best-attorneys-8-years.png)](https://www.hardwickpendergast.com/about/awards/#client-statisfication)
+![10 Best Attorney Client Satisfaction 8 Years American Institute Of Personal Injury Attorneys](/wp-content/uploads/sites/1403957/2023/03/10-best-attorneys-8-years.png)
 
-[![Rated by Super Lawyers Joseph E. Pendergast, III](/wp-content/uploads/sites/1403957/2023/03/JosephPendergast-SuperLawyer.png)](https://www.hardwickpendergast.com/about/awards/#joseph-sl)
+![Rated by Super Lawyers Joseph E. Pendergast, III](/wp-content/uploads/sites/1403957/2023/03/JosephPendergast-SuperLawyer.png)
 
-[![Best Lawyers Best Law Firms U.S. News & World Report 2021](/wp-content/uploads/sites/1403957/2023/03/best-law-firms-2021-badge.png)](https://www.hardwickpendergast.com/about/awards/#blf-2021)
+![Best Lawyers Best Law Firms U.S. News & World Report 2021](/wp-content/uploads/sites/1403957/2023/03/best-law-firms-2021-badge.png)
 
-[![Expertise.com Best Personal Injury Lawyers In Seattle 2022](/wp-content/uploads/sites/1403957/2022/10/expertise-award_wa_seattle_personal-injury_2022.png)](https://www.hardwickpendergast.com/about/awards/#expertise)
+![Expertise.com Best Personal Injury Lawyers In Seattle 2022](/wp-content/uploads/sites/1403957/2022/10/expertise-award_wa_seattle_personal-injury_2022.png)
 
-[![Lawyers of Distinction 2023](/wp-content/uploads/sites/1403957/2023/01/lawyers-of-distinction-2023.jpg)](https://www.hardwickpendergast.com/about/awards/#distinction)
+![Lawyers of Distinction 2023](/wp-content/uploads/sites/1403957/2023/01/lawyers-of-distinction-2023.jpg)
 
-[![Million Dollar Advocates Forum and Multi-Million Dollar Advocates Forum](/wp-content/uploads/sites/1403957/2022/05/award-multi-million-dollar-award.jpg)](https://www.hardwickpendergast.com/about/awards/#mda)
+![Million Dollar Advocates Forum and Multi-Million Dollar Advocates Forum](/wp-content/uploads/sites/1403957/2022/05/award-multi-million-dollar-award.jpg)
 
-[![CNN](/wp-content/uploads/sites/1403957/2022/05/award-cnn.jpg)](https://www.hardwickpendergast.com/about/awards/#cnn)
+![CNN](/wp-content/uploads/sites/1403957/2022/05/award-cnn.jpg)
 
-[![Avvo Clients' Choice Personal Injury](/wp-content/uploads/sites/1403957/2022/05/award-clients-choice.jpg)](https://www.hardwickpendergast.com/about/awards/#acca)
+![Avvo Clients' Choice Personal Injury](/wp-content/uploads/sites/1403957/2022/05/award-clients-choice.jpg)
 
-[![Avvo Rating 10.0 Top Attorney](/wp-content/uploads/sites/1403957/2023/03/avvo-10-rating-award.png)](https://www.hardwickpendergast.com/about/awards/#av10s)
+![Avvo Rating 10.0 Top Attorney](/wp-content/uploads/sites/1403957/2023/03/avvo-10-rating-award.png)
 
-[![Attorney And Practice Magazine's Top 10 Personal Injury Attorney](/wp-content/uploads/sites/1403957/2022/05/award-top-10-attorney-magazine.jpg)](https://www.hardwickpendergast.com/about/awards/#pi)
+![Attorney And Practice Magazine's Top 10 Personal Injury Attorney](/wp-content/uploads/sites/1403957/2022/05/award-top-10-attorney-magazine.jpg)
 
-[![National Association of Distinguished Counsel Nation's Top One Percent](/wp-content/uploads/sites/1403957/2022/05/award-top-one-percent.jpg)](https://www.hardwickpendergast.com/about/awards/#nacd)
+![National Association of Distinguished Counsel Nation's Top One Percent](/wp-content/uploads/sites/1403957/2022/05/award-top-one-percent.jpg)
 
-[![America's Most Honored Professionals Top 5 Percent](/wp-content/uploads/sites/1403957/2022/05/award-top-5-percent.jpg)](https://www.hardwickpendergast.com/about/awards/#america-honor)
+![America's Most Honored Professionals Top 5 Percent](/wp-content/uploads/sites/1403957/2022/05/award-top-5-percent.jpg)
 
-[![Nation's Premier NAOPIA Top Ten Attorney Personal Injury](/wp-content/uploads/sites/1403957/2022/05/award-naopia-top-10-attorney.jpg)](https://www.hardwickpendergast.com/about/awards/#naopia)
+![Nation's Premier NAOPIA Top Ten Attorney Personal Injury](/wp-content/uploads/sites/1403957/2022/05/award-naopia-top-10-attorney.jpg)
 
-[![The National Trial Lawyers Top 100 Trial Lawyers](/wp-content/uploads/sites/1403957/2022/05/award-the-national-trial-lawyers.png)](https://www.hardwickpendergast.com/about/awards/#trial-lawyers)
+![The National Trial Lawyers Top 100 Trial Lawyers](/wp-content/uploads/sites/1403957/2022/05/award-the-national-trial-lawyers.png)
 
-[![2019 Top 100 Lawyer ASLA](/wp-content/uploads/sites/1403957/2022/05/award-asla-top-100.jpg)](https://www.hardwickpendergast.com/about/awards/#legal-advocates)
+![2019 Top 100 Lawyer ASLA](/wp-content/uploads/sites/1403957/2022/05/award-asla-top-100.jpg)
 
-[![Rue Ratings Best Attorneys of America](/wp-content/uploads/sites/1403957/2022/05/award-rue-ratings.jpg)](https://www.hardwickpendergast.com/about/awards/#rue)
+![Rue Ratings Best Attorneys of America](/wp-content/uploads/sites/1403957/2022/05/award-rue-ratings.jpg)
 
-[![Lead Counsel Verified](/wp-content/uploads/sites/1403957/2022/05/award-lead-counsel-verified.jpg)](https://www.hardwickpendergast.com/about/awards/#lead-counsel)
+![Lead Counsel Verified](/wp-content/uploads/sites/1403957/2022/05/award-lead-counsel-verified.jpg)
 
-[![Best Attorneys Online](/wp-content/uploads/sites/1403957/2022/05/award-best-attorneys-online.jpg)](https://www.hardwickpendergast.com/about/awards/#best-attorneys)
+![Best Attorneys Online](/wp-content/uploads/sites/1403957/2022/05/award-best-attorneys-online.jpg)
 
-[![Better Business Bureau Accredited Business](/wp-content/uploads/sites/1403957/2022/05/award-bbb.jpg)](https://www.hardwickpendergast.com/about/awards/#business-bureau)
+![Better Business Bureau Accredited Business](/wp-content/uploads/sites/1403957/2022/05/award-bbb.jpg)
 
-[![Best of the Best Top 10 Personal Injury Attorney 2023 Attorneys](/wp-content/uploads/sites/1403957/2022/11/best-of-the-best.png)](https://www.hardwickpendergast.com/about/awards/#av10s)
+![Best of the Best Top 10 Personal Injury Attorney 2023 Attorneys](/wp-content/uploads/sites/1403957/2022/11/best-of-the-best.png)
 
 How Can We Help You?
 --------------------
