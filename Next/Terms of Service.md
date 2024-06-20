@@ -1,6 +1,6 @@
 5.36.3
 
-1718774662610
+1718911527739
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.13.8
 
-1718773651130
+1718910165304
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1718774642948
+1718911555352
 
 You need to enable JavaScript to run this app.
 
@@ -519,6 +519,24 @@ You can use a next3step credit account online through the following retailers we
 \- Next Online
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### 15% off Cath Kidston
+
+* Offer available to selected customers, criteria predefined by Next Retail Limited
+* The discount will automatically apply at checkout.
+* Offer valid across all Cath Kidston products.
+* This offer will be available between 00:01 on 20/06/2024 until 23:59 on 21/06/2024.
+* You must be logged into your customer account. The offer can only be used by the account holder.
+* Where there are multiple offers available on items ordered, the offer with the biggest cash saving will be applied.
+* Promotion discount applied will be apportioned across all qualifying items (identified above).
+* The offer can only be used once per customer.
+* The offer is for online purchases only.
+* The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+* The discount cannot be exchanged for cash and no refund or change will be given.
+* Usual delivery times, methods and charges and returns policy apply.
+* We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+* The promoter is Next Retail Limited , Desford Road, Enderby, Leicester, LE19 4AT.
+* This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### Summer Essentials GWP Promotion
 
@@ -2821,7 +2839,7 @@ You need to enable JavaScript to run this app.
 
 3.13.8
 
-1718774762691
+1718910818673
 
 ### Our Social Networks
 
