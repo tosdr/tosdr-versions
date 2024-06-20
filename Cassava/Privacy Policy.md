@@ -13,8 +13,8 @@ Integrations
 Privacy Policy
 ==============
 
-_Last updated: January 17, 2024_
---------------------------------
+_Last updated: June 17, 2024_
+-----------------------------
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise to never sell your data.
 
@@ -96,8 +96,8 @@ We also store a cookie when you leave a comment on the blog and select the **Rem
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Voluntary Crrespondence
-=======================
+Voluntary Correspondence
+========================
 
 When you write Cassava with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
@@ -123,10 +123,12 @@ Our default practice is to not access your information. The only times we’ll e
 
 **To investigate, prevent, or take action regarding restricted uses**. Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 
+**To support coaching facilitations**. We share limited details of your organization's members with coaches. This allows the coach to identify audience participants. Cassava is the trusted middleman in this relationship between coach and client, and we never share sensitive information with either party, such as access tokens. We publish the content to your organization on behalf of the coach.
+
 **When required under applicable law**. Cassavarose LLC is a US company.
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Your rights with respect to your information
 ============================================
@@ -218,13 +220,13 @@ Have any questions, comments, or concerns about this privacy policy, your data, 
 
 Loading
 
-v3.0.0.3d2bf6e© 2024 Cassavarose LLC. All rights reserved
+v3.0.1.f1062ac© 2024 Cassavarose LLC. All rights reserved
+
+ [![](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
 
  [![](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
 
- [![](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
-
- [![](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
+ [![](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
 
 Company
 
