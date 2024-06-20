@@ -387,6 +387,7 @@ English
 
 * Use Cases
 * [Sales](https://cal.com/scheduling/sales-teams)
+* [Marketing](https://cal.com/scheduling/marketing)
 * [Talent Acquisition](https://cal.com/scheduling/talent-acquisition-teams)
 * [Customer Support](https://cal.com/scheduling/customer-support)
 * [Higher Education](https://cal.com/scheduling/higher-education)
