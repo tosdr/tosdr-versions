@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Dolly Parton To Bring Her Life...](https://classiccountrymusic.com/dolly-parton-to-bring-her-life-story-to-broadway-in-hello-im-dolly-musical/)
-* [Wynonna Explains Why She’s “So Connected”...](https://classiccountrymusic.com/wynonna-explains-why-shes-so-connected-to-her-husband-cactus-moser/)
-* [Reba McEntire Is Leaving “The Voice”...](https://classiccountrymusic.com/reba-mcentire-is-leaving-the-voice-which-country-star-is-her-replacement/)
+* [Alan Jackson To Receive Poet’s Award...](https://classiccountrymusic.com/alan-jackson-to-receive-poets-award-at-2024-acm-honors/)
+* [Alan Jackson, Lainey Wilson, & Chris...](https://classiccountrymusic.com/alan-jackson-lainey-wilson-chris-stapleton-among-the-honorees-at-the-2024-acm-honors/)
+* [Mark Chesnutt Undergoes Emergency Heart Surgery,...](https://classiccountrymusic.com/mark-chesnutt-has-emergency-heart-surgery-cancels-show-dates/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
