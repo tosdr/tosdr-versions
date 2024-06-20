@@ -93,8 +93,8 @@ Search (for mobile)  Submit (mobile) search
 
 [Toggle Online Banking login modal area (defaults open - must be closed to continue tabbing down the rest of the page)](javascript:;)
 
-  
-  
+Login ID   
+Password   
 [_Forgot Your Password?_](https://secure.legend.bank/legendbank/uux.aspx#/login/resetPasswordUsername)  
 Login
 
