@@ -38,13 +38,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Generator 2000X
         
-        80 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        81 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
         
         ###### 3-Month Survival Food Kit
         
-        3292 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3296 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -62,7 +62,9 @@ We Champion Freedom & Self-Reliance
     
     * [![ 4Patriots ChillZone Portable AC unit.](//4patriots.com/cdn/shop/files/PACARRAY_360x.png?v=1716391937)
         
-        ###### ChillZone Portable Solar Power AC & 100-Watt Panel](https://4patriots.com/products/chillzone-portable-ac)
+        ###### ChillZone Portable Solar Power AC & 100-Watt Panel
+        
+        1 review](https://4patriots.com/products/chillzone-portable-ac)
         
         [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
         
@@ -100,13 +102,13 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Survival Food Kit
         
-        3292 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3296 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
         ###### 4-Week Survival Food Kit
         
-        1022 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        1024 reviews](https://4patriots.com/products/4-week-survival-food-kit)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
@@ -125,13 +127,13 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Generator 2000X
         
-        80 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        81 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
         
         ###### Portable Power Station - Patriot Power Cell CX
         
-        1680 reviews](https://4patriots.com/products/patriot-power-cell)
+        1686 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
@@ -160,7 +162,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System
         
-        213 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        214 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
@@ -191,7 +193,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Freedom Fridge
         
-        106 reviews](https://4patriots.com/products/freedom-fridge-1)
+        107 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
@@ -214,7 +216,9 @@ We Champion Freedom & Self-Reliance
     
     * [![ 4Patriots ChillZone Portable AC unit.](//4patriots.com/cdn/shop/files/PACARRAY_360x.png?v=1716391937)
         
-        ###### ChillZone Portable Solar Power AC & 100-Watt Panel](https://4patriots.com/products/chillzone-portable-ac)
+        ###### ChillZone Portable Solar Power AC & 100-Watt Panel
+        
+        1 review](https://4patriots.com/products/chillzone-portable-ac)
         
         [![ The brand-NEW 4Patriots Emergency Go-Tote array](//4patriots.com/cdn/shop/files/SHOPIFY-GOT-ARRAY-1024x1024_1_360x.png?v=1695653044)
         
@@ -262,7 +266,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Greens - 1 Regular Size Can
         
-        5 reviews](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
+        7 reviews](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
         
     
 * [Learn](https://4patriots.com/blogs/news)
