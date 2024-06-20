@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch 3 series June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-3-series-update-400x240.jpg)
+        
+        Huawei Watch 3 series fetches June 2024 update with system stability](https://www.huaweicentral.com/huawei-watch-3-series-fetches-june-2024-update-with-system-stability/)
     * [![Huawei Band 9 stable HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/06/Huawei-Band-9-400x240.jpg)
         
         Huawei Band 9 starts receiving stable HarmonyOS 4.2 update](https://www.huaweicentral.com/huawei-band-9-starts-receiving-stable-harmonyos-4-2-update/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 3 SE June 2024 optimizations](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-GT-3-SE-400x240.jpg)
         
         Huawei Watch GT 3 SE fetches June 2024 system optimizations](https://www.huaweicentral.com/huawei-watch-gt-3-se-fetches-june-2024-system-optimizations/)
-    * [![Huawei Watch 3 Active May 2024 patch](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-3-Active-update-400x240.jpg)
-        
-        Huawei Watch 3 Active users grabbing May 2024 security patch](https://www.huaweicentral.com/huawei-watch-3-active-users-grabbing-may-2024-security-patch/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
