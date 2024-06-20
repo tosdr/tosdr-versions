@@ -137,16 +137,16 @@ Latest reviews
 
 Finished challenges
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![Duck in Flight](https://g3.img-dpreview.com/C88F0432508C4C42B44DC37D16996C30.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247490) | [![Stained glass in Lincoln cathedral](https://g4.img-dpreview.com/1261AC9CA805406E96BDB59E418F5025.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247408) | [![Green grass](https://g2.img-dpreview.com/A22213D1F49A45668F61F858AA01CD09.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247288) | [![A Crab Spider Awaits Prey](https://g2.img-dpreview.com/715F205FC37846A9804BDB7C15A08897.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247466) |
-| Duck in Flight by amami  <br>from A Big Year 2024 | Stained glass in Lincoln cathedral by Mike Engles  <br>from Windows | Green grass by io\_bg  <br>from Grass Unlimited!? | A Crab Spider Awaits Prey by Sdlv  <br>from Fortnight 26: My Best Non-bird Photo Shot after 2024-05-13 |
+|     |     |     |
+| --- | --- | --- |
+| [![Beautiful Summer](https://g3.img-dpreview.com/9501518B849A45558B8A6BD4575AC36D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247591) | [![Duck in Flight](https://g3.img-dpreview.com/C88F0432508C4C42B44DC37D16996C30.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247490) | [![Stained glass in Lincoln cathedral](https://g4.img-dpreview.com/1261AC9CA805406E96BDB59E418F5025.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247408) |
+| Beautiful Summer by Xiaomao  <br>from DPReview Editors' Challenge \| Natural worlds | Duck in Flight by amami  <br>from A Big Year 2024 | Stained glass in Lincoln cathedral by Mike Engles  <br>from Windows |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Canon EOS R713.7%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Z6III6.8%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Nikon Zf2.0%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Panasonic Lumix DC-GH71.2%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Panasonic Lumix DC-S5II1.0%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
+[Canon EOS R712.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Z6III8.4%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Nikon Zf2.0%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Panasonic Lumix DC-GH71.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Panasonic Lumix DC-S5II0.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -160,26 +160,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 150 | [New Z6III : Yea or Nay ?](https://www.dpreview.com/forums/post/67765844) |
-| 100 | [The Z6III gripe thread](https://www.dpreview.com/forums/post/67765913) |
-| 56  | [New Bird Thread 2024 #1](https://www.dpreview.com/forums/post/67765581) |
-| 46  | [It's 8 a.m. Where's the Z6III?](https://www.dpreview.com/forums/post/67765573) |
-| 42  | [Competition is good, right?](https://www.dpreview.com/forums/post/67766589) |
-| 41  | [Adapted telephoto lens as good as Fuji GFX glass](https://www.dpreview.com/forums/post/67765819) |
-| 39  | [Here's what I want to see in Fujifilm's next camera: A camera](https://www.dpreview.com/forums/post/67766986) |
-| 38  | [Z7III is (almost) defintiely coming](https://www.dpreview.com/forums/post/67765625) |
-| 38  | [The Z6III is really nice but...](https://www.dpreview.com/forums/post/67768094) |
-| 37  | [Steve Perry first look at z6iii](https://www.dpreview.com/forums/post/67765705) |
-| 37  | [Pentax 17 (vs digital?)](https://www.dpreview.com/forums/post/67766488) |
-| 34  | ["Afraid" to possibility launch R7 Mark II](https://www.dpreview.com/forums/post/67765430) |
-| 31  | [Adobe Sued by US Regulators Over Subscription Cancellation Fees](https://www.dpreview.com/forums/post/67766208) |
-| 31  | [Any reason to not trade in Z9 for Z6iii?](https://www.dpreview.com/forums/post/67769000) |
-| 30  | [Leapfrog advances - my take](https://www.dpreview.com/forums/post/67767043) |
-| 29  | [Panasonic: m43 not for Smartphone users](https://www.dpreview.com/forums/post/67766167) |
-| 29  | [Advice on a second camera](https://www.dpreview.com/forums/post/67767642) |
-| 28  | [NO battery charger with Z6iii ?](https://www.dpreview.com/forums/post/67768454) |
-| 27  | [Z6 iii kit lens: really?](https://www.dpreview.com/forums/post/67765754) |
-| 26  | [Is Fuji's Film Simulation Competitive Advantage in danger?](https://www.dpreview.com/forums/post/67766491) |
+| 77  | [The Z6III is really nice but...](https://www.dpreview.com/forums/post/67768094) |
+| 62  | [Any reason to not trade in Z9 for Z6iii?](https://www.dpreview.com/forums/post/67769000) |
+| 53  | [NO battery charger with Z6iii ?](https://www.dpreview.com/forums/post/67768454) |
+| 49  | [OM-1 low light](https://www.dpreview.com/forums/post/67767673) |
+| 44  | [DxO 20% discount](https://www.dpreview.com/forums/post/67768122) |
+| 44  | [\*\*Weekly Image Thread 24 06 19 #884\*\*](https://www.dpreview.com/forums/post/67771010) |
+| 40  | [Z6III : Strictly for Photographs ?](https://www.dpreview.com/forums/post/67770272) |
+| 33  | [Now On To The Z7III Count Down !](https://www.dpreview.com/forums/post/67768534) |
+| 29  | [Horrible CFV100C Screen vs X2D and GFX?](https://www.dpreview.com/forums/post/67768883) |
+| 25  | [GF500mm f5.6 Shipping Date](https://www.dpreview.com/forums/post/67768282) |
+| 23  | [Zfx instead of Z7 III](https://www.dpreview.com/forums/post/67769058) |
+| 23  | [Feedback on the GF55mm?](https://www.dpreview.com/forums/post/67768488) |
+| 21  | [Studio Scene at 4:3 downsampled to 4K, XT-5 and GFX 100](https://www.dpreview.com/forums/post/67768316) |
+| 20  | [GFX 100 II - World Class Professional Paparazzi!](https://www.dpreview.com/forums/post/67769250) |
+| 20  | [Removing the photometry dial for a video switch was dumb](https://www.dpreview.com/forums/post/67769446) |
+| 20  | [\- Heat ! -](https://www.dpreview.com/forums/post/67769773) |
+| 19  | [What is fueling the trend back to film?](https://www.dpreview.com/forums/post/67771492) |
+| 18  | [LaCie external drive for MacBook Air?](https://www.dpreview.com/forums/post/67769565) |
+| 17  | [Seeking best camera and lens for short focus length with large depth of field](https://www.dpreview.com/forums/post/67768606) |
+| 17  | [Comfortable Camera Strap](https://www.dpreview.com/forums/post/67768790) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
