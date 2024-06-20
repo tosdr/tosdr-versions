@@ -154,13 +154,3 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
-
-Don't miss out!
-
-Everything in the FSTV store is FREE with donation.
-
-**Special ends June 18.**
-
-[Pick your free gift now](https://freespeech.org/store/)
-
-×
