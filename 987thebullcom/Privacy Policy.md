@@ -336,11 +336,11 @@ Recently Played
 
 |     |
 | --- |
-| ChevroletDustin Lynch Ft Jelly Roll<br><br>4:39pm |
-| Get AlongKenny Chesney<br><br>4:35pm |
-| Mind On YouGeorge Birge<br><br>4:32pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:29pm |
-| Dirt Road AnthemJason Aldean<br><br>4:25pm |
+| Think I&Apos;M In Love With YouChris Stapleton<br><br>5:39pm |
+| Craving YouThomas Rhett Ft Maren Morris<br><br>5:35pm |
+| The Kind Of Love We MakeLuke Combs<br><br>5:32pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:22pm |
+| Mud On The TiresBrad Paisley<br><br>5:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -507,21 +507,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Pacific NW
+Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
