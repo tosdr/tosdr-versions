@@ -585,4 +585,4 @@ Kopieren
 
 [](#)
 
-[![](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_d60a2d5bca.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![](/fileadmin/_processed_/c/2/csm_Communty-Event-Ad_Rectangle_02_df58773e36.jpg)](https://www.blocktrainer.de/blocktrainer-community-event-2024/details-zum-event)
