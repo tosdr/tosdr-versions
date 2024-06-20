@@ -173,6 +173,7 @@ Please enter a search term
     * [Alteria - brand management and enforcement](https://www.pinsentmasons.com/solutions/alteria)
     * [AutoMATE - Documents automated, rapidly](https://www.pinsentmasons.com/solutions/automate)
     * [Biotech Express - biotech startup documentation](https://www.pinsentmasons.com/solutions/biotech-express)
+    * [Carry scheme automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
     * [CLM Maturity Assessment - contract management maturity](https://www.pinsentmasons.com/solutions/clm-assessment)
     * [CSRD Self Check](https://www.pinsentmasons.com/solutions/csrd-self-check)
     * [Cyturion - cyber readiness](https://www.pinsentmasons.com/solutions/cyturion)
