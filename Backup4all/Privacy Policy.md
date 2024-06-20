@@ -303,15 +303,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
+* [How to filter a backup?](https://www.backup4all.com/how-to-filter-a-backup-kb.html)  
     
-* [How to clean a backup](https://www.backup4all.com/how-to-clean-a-backup-kb.html)  
+* [How to backup your data to GreenQloud](https://www.backup4all.com/how-to-backup-your-data-to-greenqloud-kb.html)  
     
-* [How to restore a backup to HiDrive](https://www.backup4all.com/how-to-restore-a-backup-to-hidrive-kb.html)  
+* [How to install Backup4all in a different star ...](https://www.backup4all.com/how-to-install-backup4all-in-a-different-start-menu-folder-kb.html)  
     
-* [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
+* [How to restore to Hitachi](https://www.backup4all.com/how-to-restore-to-hitachi-kb.html)  
     
-* [Data filtering in Backup4all Monitor](https://www.backup4all.com/data-filtering-in-backup4all-monitor-kb.html)  
+* [How to backup your data to LeoNovus](https://www.backup4all.com/how-to-backup-your-data-to-leonovus-kb.html)  
     
 
 Choose language:
