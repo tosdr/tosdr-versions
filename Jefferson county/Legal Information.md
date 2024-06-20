@@ -2,8 +2,6 @@
 
          
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Holiday Closure](https://www.jeffco.us/AlertCenter.aspx) [Holiday Closure - Jeffco Offices Closed June 19 for Juneteenth Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Holiday-Closure-Jeffco-Offices-Closed-Ju-1313)
-
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
  
