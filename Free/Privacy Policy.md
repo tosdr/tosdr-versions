@@ -17,78 +17,109 @@
     
     Portail Free](https://portail.free.fr/)
 
-Trouver une boutique Free
+### Offres & Services
 
-Dans nos boutiques, les conseillers sont à votre disposition pour vous guider et vous présenter les offres Freebox et les offres mobiles Free qui vous correspondent.
+![arrow icon](/assets/footer/icons/arrow-down-s.svg)
 
-Trouvez une boutique >
+* [Freebox Ultra](https://www.free.fr/freebox/freebox-ultra/)
+* [Freebox Ultra Essentiel](https://www.free.fr/freebox/freebox-ultra-essentiel/)
+* [Freebox Pop](https://www.free.fr/freebox/freebox-pop/)
+* [Freebox Révolution Light](https://www.free.fr/freebox/freebox-revolution-light/)
+* [Freebox + Mobile](https://www.free.fr/freebox/offres-freebox-mobile/)
+* [Répéteur Wi-Fi](https://www.free.fr/freebox/repeteur-wifi/)
+* [OQEE by Free](https://www.free.fr/freebox/oqee-by-free/)
+* [Free Transfert](https://transfert.free.fr/upload)
+* [Carte fibre / ADSL](https://www.free.fr/freebox/carte-fibre-optique/)
+* [Plan du site](https://www.free.fr/plan-du-site/)
 
-Suivez-nous
+### Abonné
 
-Pour vous tenir au courant des toutes dernières actualités, mises à jour, exclusivités, promos, tout sur Free.
+![arrow icon](/assets/footer/icons/arrow-down-s.svg)
 
-1. [![Facebook](/assets/footer/img/facebook.svg)](https://www.facebook.com/FreeFrance/)
-2. [![Twitter](/assets/footer/img/twitter.svg)](https://twitter.com/free)
-3. [![Instagram](/assets/footer/img/instagram.svg)](https://www.instagram.com/free.fr/?hl=fr)
-4. [![Youtube](/assets/footer/img/youtube.svg)](https://www.youtube.com/channel/UCzoLVwQrGOBlfzrma3FiJbg)
-5. [![Tiktok](/assets/footer/img/tiktok.svg)](https://www.tiktok.com/@free.france)
+* [Espace Abonné](https://subscribe.free.fr/login/)
+* [Déménager mon abonnement](https://www.free.fr/freebox/demenagement/)
+* [Suivre ma souscription](https://assistance.free.fr/articles/linscription-a-loffre-freebox-756)
+* [Régler une facture](https://assistance.free.fr/articles/consulter-mes-factures-freebox-298?search-text:factures)
+* [Résilier mon contrat](https://subscribe.free.fr/login/?link=resilonline)
+* [Compte accès libre](https://subscribe.free.fr/account/#/)
+* [Applications Free](https://www.free.fr/freebox/vos-applications/)
+
+### Aide & Contact
+
+![arrow icon](/assets/footer/icons/arrow-down-s.svg)
+
+* [Trouver une boutique](https://www.free.fr/boutiques/)
+* [Free Proxi](https://www.free.fr/freebox/service-free-proxi/)
+* [Assistance en ligne](https://assistance.free.fr/)
+* [Trouver mon identifiant Freebox](https://assistance.free.fr/articles/ou-trouver-mon-identifiant-freebox--1171)
+* [Nous contacter](https://www.free.fr/freebox/informations/nous-contacter/)
+* [Résiliez votre FAI](https://www.free.fr/freebox/resiliez-votre-fai/)
+* [Guide Pratique](https://www.free.fr/pdf/cnc_guide_interactif.pdf)
+* [Protection de l'enfance](https://www.free.fr/freebox/informations/protection-enfance/)
+
+### Société
+
+![arrow icon](/assets/footer/icons/arrow-down-s.svg)
+
+* [Free Pro](https://pro.free.fr/)
+* [Free s'engage](https://www.free.fr/freebox/free-s-engage/)
+* [Le groupe Iliad](https://www.iliad.fr/)
+* [Free recrute !](https://free.softy.pro/offres/1)
 
 Offres & Services
 
-![fleche](/assets/footer/icons/arrowBottom.svg)
+* [Freebox Ultra](https://www.free.fr/freebox/freebox-ultra/)
+* [Freebox Ultra Essentiel](https://www.free.fr/freebox/freebox-ultra-essentiel/)
+* [Freebox Pop](https://www.free.fr/freebox/freebox-pop/)
+* [Freebox Révolution Light](https://www.free.fr/freebox/freebox-revolution-light/)
+* [Freebox + Mobile](https://www.free.fr/freebox/offres-freebox-mobile/)
+* [Répéteur Wi-Fi](https://www.free.fr/freebox/repeteur-wifi/)
+* [OQEE by Free](https://www.free.fr/freebox/oqee-by-free/)
+* [Free Transfert](https://transfert.free.fr/upload)
+* [Carte fibre / ADSL](https://www.free.fr/freebox/carte-fibre-optique/)
+* [Plan du site](https://www.free.fr/plan-du-site/)
 
-1. Freebox Ultra
-2. Freebox Ultra Essentiel
-3. Freebox Pop
-4. Freebox Révolution Light
-5. Répéteur Wi-Fi
-6. Système d'alarme Qiara
-7. Freebox + Mobile
-8. Carte Fibre / ADSL
-9. [Testez votre éligibilité](https://signup.free.fr/subscribe_promo/#new)
-10. OQEE by Free
-11. [Free Transfert](https://transfert.free.fr/)
-12. Résiliez votre FAI
-13. Plan du site
+Abonné
 
-Espace Abonné
+* [Espace Abonné](https://subscribe.free.fr/login/)
+* [Déménager mon abonnement](https://www.free.fr/freebox/demenagement/)
+* [Suivre ma souscription](https://assistance.free.fr/articles/linscription-a-loffre-freebox-756)
+* [Régler une facture](https://assistance.free.fr/articles/consulter-mes-factures-freebox-298?search-text:factures)
+* [Résilier mon contrat](https://subscribe.free.fr/login/?link=resilonline)
+* [Compte accès libre](https://subscribe.free.fr/account/#/)
+* [Applications Free](https://www.free.fr/freebox/vos-applications/)
 
-![fleche](/assets/footer/icons/arrowBottom.svg)
+Aide & Contact
 
-1. [Espace Abonné](https://subscribe.free.fr/login/)
-2. [Déménagement](https://www.free.fr/freebox/demenagement/)
-3. [Suivi de souscription](https://assistance.free.fr/articles/linscription-a-loffre-freebox-756)
-4. [Factures](https://assistance.free.fr/articles/consulter-mes-factures-freebox-298?search-text=factures)
-5. [Free Proxi](https://www.free.fr/freebox/service-free-proxi/)
-6. [Assistance](https://assistance.free.fr/)
-7. [Résiliation](https://subscribe.free.fr/login/?link=resilonline)
-8. [Compte accès libre](https://subscribe.free.fr/account/#/)
-9. [Nous contacter](https://www.free.fr/freebox/informations/nous-contacter/)
-10. [Applications Free](https://www.free.fr/freebox/vos-applications/)
-
-Informations Légales
-
-![fleche](/assets/footer/icons/arrowBottom.svg)
-
-1. [Brochure tarifaire](https://adsl.free.fr/cgv/last/brochure_tarifaire.html)
-2. [Récapitulatifs contractuels](https://adsl.free.fr/cgv/last/rc.html)
-3. [Conditions Générales d'Abonnement](https://adsl.free.fr/cgv/last/cgv.html)
-4. [Conditions Générales d’Utilisation du Pack Sécurité](https://adsl.free.fr/cgv/last/cgu_pack_secu.html)
-5. [Conditions Générales de Vente](https://adsl.free.fr/cgv/last/cg_vente.html)
-6. [Politique de confidentialité des données](https://www.free.fr/freebox/politique-de-confidentialite)
-7. [Signaler un contenu illicite](https://subscribe.free.fr/abuse/)
-8. [Protection de l'enfance](https://www.free.fr/freebox/informations/protection-enfance/)
-9. [Guide Pratique des communications électroniques](https://www.free.fr/pdf/cnc_guide_interactif.pdf)
-10. [Informations légales](https://www.free.fr/freebox/informations/informations-legales/)
-11. [Cookies](https://www.free.fr/freebox/cookies/)
+* [Trouver une boutique](https://www.free.fr/boutiques/)
+* [Free Proxi](https://www.free.fr/freebox/service-free-proxi/)
+* [Assistance en ligne](https://assistance.free.fr/)
+* [Trouver mon identifiant Freebox](https://assistance.free.fr/articles/ou-trouver-mon-identifiant-freebox--1171)
+* [Nous contacter](https://www.free.fr/freebox/informations/nous-contacter/)
+* [Résiliez votre FAI](https://www.free.fr/freebox/resiliez-votre-fai/)
+* [Guide Pratique](https://www.free.fr/pdf/cnc_guide_interactif.pdf)
+* [Protection de l'enfance](https://www.free.fr/freebox/informations/protection-enfance/)
 
 Société
 
-![fleche](/assets/footer/icons/arrowBottom.svg)
+* [Free Pro](https://pro.free.fr/)
+* [Free s'engage](https://www.free.fr/freebox/free-s-engage/)
+* [Le groupe Iliad](https://www.iliad.fr/)
+* [Free recrute !](https://free.softy.pro/offres/1)
 
-1. [Free Pro](https://pro.free.fr/)
-2. Free s'engage
-3. [Le groupe Iliad](https://www.iliad.fr/)
-4. [Free recrute !](https://free.softy.pro/offres/1?)
+* [Cookies](https://www.free.fr/freebox/cookies/)
+* [Informations Légales](https://www.free.fr/freebox/informations/informations-legales/)
+* [Politique de confidentialité](https://www.free.fr/freebox/politique-de-confidentialite/)
+* [Signaler un contenu](https://subscribe.free.fr/abuse/)
+* [Tarifs et conditions](https://www.free.fr/freebox/tarifs-et-conditions/)
 
-Révision: b08725071f49e8395c1bc6b9bcffb0c58e74af53
+Rejoignez-nous sur
+
+* [![facebook](/assets/footer/socialMedia/facebook.svg)](https://www.facebook.com/FreeFrance/)
+* [![x](/assets/footer/socialMedia/x.svg)](https://twitter.com/free)
+* [![instagram](/assets/footer/socialMedia/instagram.svg)](https://www.instagram.com/free.fr/?hl=fr)
+* [![tiktok](/assets/footer/socialMedia/tiktok.svg)](https://www.tiktok.com/@free.france)
+* [![youtube](/assets/footer/socialMedia/youtube.svg)](https://www.youtube.com/channel/UCzoLVwQrGOBlfzrma3FiJbg)
+* [![linkedin](/assets/footer/socialMedia/linkedin.svg)](https://www.linkedin.com/company/freefr/)
+
+* * *
