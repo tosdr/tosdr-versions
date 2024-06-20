@@ -1,6 +1,6 @@
 □
 
-           Comprehensive Livpure Privacy Policy: Safeguarding Your Information                                                    Comprehensive Livpure Privacy Policy: Safeguarding Your Information                                  [Skip to content](#MainContent)
+           Comprehensive Livpure Privacy Policy: Safeguarding Your Information                                                   Comprehensive Livpure Privacy Policy: Safeguarding Your Information                                  [Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
@@ -97,12 +97,12 @@ Snapmint | 0% EMI | No credit card needed
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
     
-* [Accessories](https://www.livpure.com/collections/water-purifier-accessories)
-* Support
+* [Buy genuine Spares](https://www.livpure.com/collections/water-purifier-accessories)
+* Buy ACMC
     
-    Support
+    Buy ACMC
     
-    * [Maintenance Plan](https://www.livpure.com/products/ro-maintenance-plan)
+    * [ACMC](https://www.livpure.com/products/ro-maintenance-plan)
     * [Water Purifier Service](https://www.livpure.com/pages/service-request)
     
 * [RO Service 1800 419 9399](tel:18004199399)
@@ -155,10 +155,10 @@ Snapmint | 0% EMI | No credit card needed
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
     
-* [Accessories](https://www.livpure.com/collections/water-purifier-accessories)
-* Support
+* [Buy genuine Spares](https://www.livpure.com/collections/water-purifier-accessories)
+* Buy ACMC
     
-    * [Maintenance Plan](https://www.livpure.com/products/ro-maintenance-plan)
+    * [ACMC](https://www.livpure.com/products/ro-maintenance-plan)
     * [Water Purifier Service](https://www.livpure.com/pages/service-request)
     
 * [RO Service 1800 419 9399](tel:18004199399)
@@ -457,16 +457,6 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 * Paytm
 * RuPay
 
-New to Livpure ?
-
-Create an account with us to view your order status online. Your details can also be saved for faster checkout.
-
-[SIGN UP TODAY](javascript:void(0))
-
-[ALREADY REGISTERED? SIGN IN](javascript:void(0))
-
-[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
-
 ★ Judge.me Reviews
 
 ### Let customers speak for us
@@ -554,6 +544,16 @@ Overall recommended product.
 Thank you for your valuable review. We are glad that you are loving our products. We would love to serve you again!
 
 123
+
+New to Livpure ?
+
+Create an account with us to view your order status online. Your details can also be saved for faster checkout.
+
+[SIGN UP TODAY](javascript:void(0))
+
+[ALREADY REGISTERED? SIGN IN](javascript:void(0))
+
+[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
 
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
