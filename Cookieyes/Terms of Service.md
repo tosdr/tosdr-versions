@@ -509,7 +509,7 @@ I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](
 
 [![capterra logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/capterra.svg)
 
-4.7/5](https://www.capterra.com/p/183974/CookieYes/reviews/)
+4.8/5](https://www.capterra.com/p/183974/CookieYes/reviews/)
 
 For support, [contact us here](https://www.cookieyes.com/support/)
 
