@@ -153,7 +153,7 @@ If any provision of these Terms & Conditions is deemed invalid by a court of com
 
 **Moviemaker.minitool.com may modify these Terms & Conditions at any time and without notice, and it is your responsibility to review these Terms & Conditions for any changes**. Your use of the Website following any amendment of these Terms & Conditions will signify your assent to and acceptance of its revised terms. You and Moviemaker.minitool.com agree that any cause of action arising out of or related to the Website must commence within one (1) year after the cause of action accrues. Otherwise, such cause of action is permanently barred.
 
-[Terms](https://moviemaker.minitool.com/terms.html) | [Help](https://moviemaker.minitool.com/help/) | [Reviews](https://moviemaker.minitool.com/review.html) | [About](https://www.minitool.com/about-us.html)
+[Terms](https://moviemaker.minitool.com/terms.html) | [Help](https://moviemaker.minitool.com/help/) | [Reviews](https://moviemaker.minitool.com/review.html) | [About](https://www.minitool.com/about-us.html) | Student Discount
 
 North America, Canada, Unit 170 - 422, Richards Street, Vancouver, British Columbia, V6B 2Z4
 
