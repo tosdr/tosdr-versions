@@ -2,15 +2,15 @@ Ad
 
 [Conditions of Use](https://www.canberratimes.com.au/conditions-of-use/)
 
-[![The Canberra Times](/static/1718322026/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 [Conditions of Use](https://www.canberratimes.com.au/conditions-of-use/)
 
-[![The Canberra Times](/static/1718322026/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1718322026/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1718322026/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 SectionsMy Region
 
@@ -290,7 +290,7 @@ Associated Press (AP) text, photos, graphics, audio and video works are only for
 
 The Google Maps service is made available to you under licence from Google Inc. By using the Google Maps service and any data or information accessed from Google Maps, you also agree to be bound by the Google Maps terms and conditions available at the following url: [https://www.google.com/intl/en\_us/help/terms\_maps.html](https://www.google.com/intl/en_us/help/terms_maps.html).
 
-[![The Canberra Times](/static/1718322026/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
 
 [](https://www.facebook.com/CanberraTimes/)[](https://twitter.com/canberratimes)[](https://www.instagram.com/canberratimes)
 
@@ -312,7 +312,7 @@ The Canberra Times
 
 [About Us](https://www.canberratimes.com.au/about-us/)
 
-[Working With Us](https://joinus.austcommunitymedia.com.au/home)
+[Working With Us](https://acm.media/careers/)
 
 [Today's Paper](https://www.canberratimes.com.au/digital-print-edition/)
 
