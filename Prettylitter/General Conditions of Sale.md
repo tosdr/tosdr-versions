@@ -83,19 +83,19 @@ Please submit your Damage Request through the email address used to make your or
 
 ### **Meijer Purchases**
 
-If you purchased your PrettyLitter online or in retail stores at Meijer, Inc., please [click here](https://www.prettylitter.com/odorguarantee).
+If you purchased your PrettyLitter online or in retail stores at Meijer, Inc., please visit our [Odor Seal Guarantee](https://www.prettylitter.com/odorguarantee).
 
 ### **PetSmart Purchases**
 
-If you purchased your PrettyLitter online or in retail stores at PetSmart, Inc., please [click here](https://www.prettylitter.com/odorguarantee).
+If you purchased your PrettyLitter online or in retail stores at PetSmart, Inc., please visit our [Odor Seal Guarantee](https://www.prettylitter.com/odorguarantee).
 
 ### **Target Purchases**
 
-If you purchased your PrettyLitter online or in retail stores at Target, Inc., please [click here](https://www.prettylitter.com/odorguarantee).
+If you purchased your PrettyLitter online or in retail stores at Target, Inc., please visit our [Odor Seal Guarantee](https://www.prettylitter.com/odorguarantee).
 
 ### **Walmart Purchases**
 
-If you purchased your PrettyLitter online or in retail stores at Walmart, Inc., please [click here](https://www.prettylitter.com/odorguarantee).
+If you purchased your PrettyLitter online or in retail stores at Walmart, Inc., please visit our [Odor Seal Guarantee](https://www.prettylitter.com/odorguarantee).
 
 **Cancellation Policy**
 -----------------------
