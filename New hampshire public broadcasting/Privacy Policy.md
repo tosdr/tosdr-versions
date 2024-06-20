@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Plum Island** | Windows to the Wild](https://video.nhpbs.org/video/windows-to-the-wild-plum-island?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Extended Trailer** | Hotel Portofino](https://video.nhpbs.org/video/extended-trailer-zsee9z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**June 19, 2024 - PBS NewsHour full episode** | PBS News Hour](https://video.nhpbs.org/video/june-19-2024-pbs-newshour-full-episode-1718769601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Eggplant** | Pan Pals](https://video.nhpbs.org/video/eggplant-gydoje?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**June 19, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-19-2024-btn1dj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Jeff Foxworthy on how every American might be a "redneck"** | American Masters](https://video.nhpbs.org/video/jeff-foxworthy-on-how-every-american-might-be-a-redneck-ovhijp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Preview** | Grantchester](https://video.nhpbs.org/video/episode-2-preview-movjwt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lise Davidsen in "La Forza del Destino"** | Great Performances](https://video.nhpbs.org/video/lise-davidsen-in-la-forza-del-destino-cfkesc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Book details how GOP targeted race, identity in classrooms** | PBS News Hour](https://video.nhpbs.org/video/they-came-for-the-schools-1718654251?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**"Queenie" Author and Executive Producer on Creating the "Black Bridget Jones"** | Amanpour and Company](https://video.nhpbs.org/video/queenie-author-and-executive-producer-on-creating-the-black-bridget-jones-3ybcjz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Adventure Ahead** | Stories from the Stage](https://video.nhpbs.org/video/adventure-ahead-sm6tnu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**A Father's Day story of one dad's influence on his son** | PBS NewsHour](https://video.nhpbs.org/video/father-s-day-1718567453?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 2** | Classical Tahoe](https://video.nhpbs.org/video/episode-2-kggca1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Granite State Homelessness** | The State We're In](https://video.nhpbs.org/video/granite-state-homelessness-1orody?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
