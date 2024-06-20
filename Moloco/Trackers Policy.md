@@ -180,13 +180,13 @@
 
 ![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-ads)
 
-##### Moloco Ads (Moloco Cloud DSP) - Grow your app on the open internet
+##### Moloco Ads - Grow your app on the open internet
 
 [##### For Retailers/Marketplaces
 
 ![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
 
-##### Moloco Commerce Media (Retail Media Platform) - Build your own performance ads business
+##### Moloco Commerce Media - Build your own performance ads business
 
 [##### For Streaming Platforms
 
@@ -256,7 +256,7 @@
 
 ![Click here to change the language](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b26262a2d236b857f596_Language-icon.webp)
 
-[English](https://www.molocoads.com/?lang=en)[한국어](https://www.molocoads.com/ko)[简体中文](https://www.molocoads.com/zh)[日本語](https://www.molocoads.com/ja)
+[English](https://www.molocoads.com/?lang=en)[한국어](https://www.molocoads.com/ko)[简体中文](https://www.molocoads.com/zh)[日本語](https://www.molocoads.com/ja)[Français](https://www.molocoads.com/fr)[Deutsch](https://www.molocoads.com/de)
 
 [![Click here to search](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b1af4dcc797a66ca9092_Search%20icon.webp)](https://www.molocoads.com/search)
 
@@ -270,7 +270,7 @@
 
 ![Click here to change the language](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b26262a2d236b857f596_Language-icon.webp)
 
-[English](https://www.molocoads.com/?lang=en)[한국어](https://www.molocoads.com/ko)[简体中文](https://www.moloco.com/zh)[日本語](https://www.moloco.com/ja)
+[English](https://www.molocoads.com/?lang=en)[한국어](https://www.molocoads.com/ko)[简体中文](https://www.moloco.com/zh)[日本語](https://www.moloco.com/ja)[Français](https://www.molocoads.com/fr)[Deutsch](https://www.molocoads.com/de)
 
 [![Click here to search](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b1af4dcc797a66ca9092_Search%20icon.webp)](https://www.molocoads.com/search)
 
@@ -302,9 +302,9 @@
 
 ##### Solutions
 
-[##### For Marketers](https://www.molocoads.com/solutions/moloco-ads)[##### Moloco Ads (Moloco Cloud DSP) - Grow your app on the open internet](https://www.molocoads.com/solutions/moloco-ads)
+[##### For Marketers](https://www.molocoads.com/solutions/moloco-ads)[##### Moloco Ads - Grow your app on the open internet](https://www.molocoads.com/solutions/moloco-ads)
 
-[##### For Retailer/Marketplaces](https://www.molocoads.com/solutions/moloco-commerce-media)[##### Moloco Commerce Media (Retail Media Platform) - Build your own performance ads business](https://www.molocoads.com/solutions/moloco-commerce-media)
+[##### For Retailer/Marketplaces](https://www.molocoads.com/solutions/moloco-commerce-media)[##### Moloco Commerce Media - Build your own performance ads business](https://www.molocoads.com/solutions/moloco-commerce-media)
 
 [##### For Streaming Platforms](https://www.molocoads.com/solutions/moloco-streaming-monetization)[##### Moloco Streaming Monetization - Future-proof your streaming ads platform](https://www.molocoads.com/solutions/moloco-streaming-monetization)
 
