@@ -138,13 +138,7 @@
 
 [◁ Sprache und Stil](#listview-sprachwissen)
 
-[Geflügelte Worte](https://www.duden.de/sprachwissen/sprachratgeber/Gefl%C3%BCgelte-Worte)
-
-[Geschoss (süddeutsch/österreichisch auch: Geschoß), Etage, Stock(werk)](https://www.duden.de/sprachwissen/sprachratgeber/Geschoss-s%C3%BCddeutsch%C3%B6sterreichisch-auch-Gescho%C3%9F%2C-Etage%2C-Stockwerk)
-
 [Häufige Fehler und Falsch­schreib­weisen](https://www.duden.de/haeufige_fehler)
-
-[Verwendungsweisen beim Adjektiv](https://www.duden.de/sprachwissen/sprachratgeber/Verwendungsweisen-beim-Adjektiv)
 
 [„Sprachwissen“ im Überblick](https://www.duden.de/sprachwissen/inhaltsuebersicht)
 
@@ -164,7 +158,7 @@
 
 [Das Dudenkorpus](https://www.duden.de/ueber_duden/Partner)
 
-[Das Wort des Tages](https://www.duden.de/wort-des-tages)
+[Das Wort des Tages ▻](#listview-das-wort-des-tages)
 
 [Konrad-Duden-Preis](https://www.duden.de/ueber_duden/konrad-duden-preis)
 
@@ -174,11 +168,21 @@
 
 [Über die Duden-Sprachberatung](https://www.duden.de/ueber_duden/sprachberatung)
 
+[◁ Das Wort des Tages](#listview-dudenredaktion)
+
+[Wort des Tages - Archiv I](https://www.duden.de/wort-des-tages/archiv-1)
+
+[Wort des Tages - Archiv II](https://www.duden.de/wort-des-tages/archiv-2)
+
+[Wort des Tages - Archiv III](https://www.duden.de/wort-des-tages/archiv-3)
+
+[Wort des Tages - Archiv IV](https://www.duden.de/wort-des-tages/archiv-4)
+
 [◁ Verlagsgeschichte](#listview-ber-uns)
 
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
 
-[Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: **50% Rabatt** bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
+[Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
 
 Allgemeine Geschäftsbedingungen
 ===============================
