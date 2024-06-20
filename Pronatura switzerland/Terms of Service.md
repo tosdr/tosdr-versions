@@ -118,7 +118,7 @@ Pronatura Service Navigation
 
 Pronatura Main
 
-* [Biodiversitätskrise](https://www.pronatura.ch/de/domino)
+* [Biodiversitätskrise](https://www.pronatura.ch/de/ja-oui-si)
     
     * [Fragen und Antworten](https://www.pronatura.ch/de/biodiversitaet-der-schweiz-fragen-und-antworten)
     * [Lebensräume kennenlernen](https://www.pronatura.ch/de/lebensraeume)
