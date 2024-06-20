@@ -284,7 +284,7 @@ Unity
 
 * [Our Company](https://parsecgaming.com/en/our-company)
 * [Newsletter](https://create.unity.com/opt-in-consent)
-* [Blog](https://blog.unity.com/)
+* [Blog](https://parsecgaming.com/en/blog)
 * [Events](https://parsecgaming.com/en/events-hub)
 * [Careers](https://careers.unity.com/)
 * [Help](https://parsecgaming.com/en/help)
