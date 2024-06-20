@@ -117,9 +117,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [As Russia shifts from gas exports to fertilizers, it is time for the EU to act](https://www.euractiv.com/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/)
     * [Why Europe needs to rethink its pesticide classifications](https://www.euractiv.com/section/agriculture-food/opinion/why-europe-needs-to-rethink-its-pesticide-classifications/)
     * [Bold policymaking is vital for transforming Europe’s food system](https://www.euractiv.com/section/agriculture-food/opinion/bold-policymaking-is-vital-for-transforming-europes-food-system/)
-    * [Animal health is integral to secure food systems. Is the EU ready for the challenges ahead?](https://www.euractiv.com/section/agriculture-food/opinion/animal-health-is-integral-to-secure-food-systems-is-the-eu-ready-for-the-challenges-ahead/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -206,9 +206,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Charting the Path to Climate Neutrality and Energy Resilience](https://www.euractiv.com/section/energy-environment/opinion/charting-the-path-to-climate-neutrality-and-energy-resilience/)
+    * [The New Council Conclusion on the 8th EAP: A new step towards a Water-Smart Strategy](https://www.euractiv.com/section/energy-environment/opinion/the-new-council-conclusion-on-the-8th-eap-a-new-step-towards-a-water-smart-strategy/)
     * [Harnessing biosolutions for a sustainable and prosperous future: A call to action for the new European Parliament and upcoming Commission](https://www.euractiv.com/section/energy-environment/opinion/harnessing-biosolutions-for-a-sustainable-and-prosperous-future-a-call-to-action-for-the-new-european-parliament-and-upcoming-commission/)
-    * [Green Deal or Industrial Deal? Why Grids Always Matter!](https://www.euractiv.com/section/energy-environment/opinion/green-deal-or-industrial-deal-why-grids-always-matter/)
-    * [Citizens would vote for the Green Deal – if only they knew about it](https://www.euractiv.com/section/energy-environment/opinion/citizens-would-vote-for-the-green-deal-if-only-they-knew-about-it/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -797,16 +797,16 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ### Most read articles
 
-* 1[EU countries rubberstamp Nature Restoration Law after months of deadlock](http://en.euractiv.eu/section/agriculture-food/news/breaking-eu-countries-rubberstamp-nature-restoration-law-after-months-of-deadlock/?utm_source=website&utm_campaign=popular)
-* 2[On warships in Cuba, Russia says West is deaf to Moscow's diplomatic signals](http://en.euractiv.eu/section/global-europe/news/on-warships-in-cuba-russia-says-west-is-deaf-to-moscows-diplomatic-signals/?utm_source=website&utm_campaign=popular)
-* 3[UK polls point to 'electoral extinction' for Prime Minister Sunak's Conservatives](http://en.euractiv.eu/section/uk-europe/news/uk-polls-point-to-electoral-extinction-for-prime-minister-sunaks-conservatives/?utm_source=website&utm_campaign=popular)
-* 4[EU 'not worried' as China probes bloc's pork imports](http://en.euractiv.eu/section/agriculture-food/news/eu-not-worried-as-china-probes-blocs-pork-imports/?utm_source=website&utm_campaign=popular)
+* 1[As Russia shifts from gas exports to fertilizers, it is time for the EU to act](http://en.euractiv.eu/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/?utm_source=website&utm_campaign=popular)
+* 2[EU countries rubberstamp Nature Restoration Law after months of deadlock](http://en.euractiv.eu/section/agriculture-food/news/breaking-eu-countries-rubberstamp-nature-restoration-law-after-months-of-deadlock/?utm_source=website&utm_campaign=popular)
+* 3[EU 'not worried' as China probes bloc's pork imports](http://en.euractiv.eu/section/agriculture-food/news/eu-not-worried-as-china-probes-blocs-pork-imports/?utm_source=website&utm_campaign=popular)
+* 4[UK polls point to 'electoral extinction' for Prime Minister Sunak's Conservatives](http://en.euractiv.eu/section/uk-europe/news/uk-polls-point-to-electoral-extinction-for-prime-minister-sunaks-conservatives/?utm_source=website&utm_campaign=popular)
 * 5[Putin to visit Vietnam, sparking US rebuke of Hanoi](http://en.euractiv.eu/section/global-europe/news/putin-to-visit-vietnam-sparking-us-rebuke-of-hanoi/?utm_source=website&utm_campaign=popular)
 * 6[Nature restoration: Austrian conservatives charge Gewessler for abuse of office](http://en.euractiv.eu/section/energy-environment/news/nature-restoration-austrian-conservatives-charge-gewessler-for-abuse-of-office/?utm_source=website&utm_campaign=popular)
 * 7[Switzerland's Ukraine summit reveals split visions for future peace settlement](http://en.euractiv.eu/section/global-europe/news/switzerlands-ukraine-summit-reveals-split-visions-for-future-peace-settlement/?utm_source=website&utm_campaign=popular)
-* 8[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
-* 9[Why EU leaders were forced to delay the bloc’s top job deal](http://en.euractiv.eu/section/elections/news/why-eu-leaders-were-forced-to-delay-the-blocs-top-job-deal/?utm_source=website&utm_campaign=popular)
-* 10[National ministers will discuss Nature Restoration Law next Monday, vote not certain](http://en.euractiv.eu/section/biodiversity/news/breaking-national-ministers-will-discuss-but-not-vote-upon-nature-restoration-law-next-monday/?utm_source=website&utm_campaign=popular)
+* 8[Why EU leaders were forced to delay the bloc’s top job deal](http://en.euractiv.eu/section/elections/news/why-eu-leaders-were-forced-to-delay-the-blocs-top-job-deal/?utm_source=website&utm_campaign=popular)
+* 9[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
+* 10[Knife-edge support for Nature Restoration Law, ahead of crucial Council meeting on Monday morning](http://en.euractiv.eu/section/biodiversity/news/knife-edge-support-for-nature-restoration-law-ahead-of-crucial-council-meeting-on-monday-morning/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
