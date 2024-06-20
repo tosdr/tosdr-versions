@@ -43,7 +43,7 @@ Share
 
 www.cookiebot.com
 
-Last update: May 16, 2024
+Last update: June 17, 2024
 
 Your privacy is important to us. This Privacy Policy covers what we collect and how we use, disclose, transfer and store your information.
 
@@ -415,6 +415,7 @@ If a third country transfer is provided for and no adequacy decision or appropri
 | Auth0, Inc, 10800 NE 8th Street, Suite 700, Bellevue, WA 98004, USA | Provides login and authentication options | Email address, password and IP address.  <br>If you login with Google, your name and potentially your photo will also be processed.  <br>Data will be shared among the Cookiebot™ and Usercentrics products. | In the USA | GDPR Art. 6 (1) lit. f | [https://www.okta.com/privacy-policy/](https://www.okta.com/privacy-policy/) |
 | Beamer provided by Joincube, Inc., 3500 South Dupont Highway, Dover, DE 19901, USA | Provides method to collect customer feedback and provide customer communication like alerts | First and last name, email address, IP address, referring URL and domain, pages visited, device type, operating system and browser type | In the USA | GDPR Art. 6 (1) lit. a | [https://www.getbeamer.com/privacy-policy](https://www.getbeamer.com/privacy-policy) |
 | BunnyWay d.o.o, informacijske storitve d.o.o. Cesta komandanta Staneta 4A 1215 Medvode Slovenia | CDN provider (used by the CB customers who choose the EU CDN provider) | P addresses (end users), Geographical location, Request URL, User Agent, User ID, Connection Times | Database in the European Union | GDPR Art. 6 (1) lit. b | [https://bunny.net/privacy/#:~:text=We%20do%20not%20store](https://bunny.net/privacy/#:~:text=We%20do%20not%20store%20any,the%20requested%20data%20is%20impossible) |
+| CircleCO, Inc. (228 Park Ave S, PMB 52933, New York, NY 10003, United States of America | Platform for hosting of online courses | Name, email address, profile information, information about the uploaded and viewed content, any content entered into Circle (comments, feedback, questions, etc.) | In the USA | GDPR Art. 6 (1) lit. a | [https://app.circle.so/privacy](https://app.circle.so/privacy) |
 | Datadog Inc., 620 8th Ave, 45th Floor, New York, NY 10018, United States of America | Monitoring service for cloud applications | IP address | In the USA | GDPR Art. 6 (1) lit. b | [https://www.datadoghq.com/legal/privacy/](https://www.datadoghq.com/legal/privacy/) |
 | G2.com, Inc., 100 S. Wacker Drive, Suite 600, Chicago IL 60606, USA | Analytics service | IP address, Unique ID, Date and time of visit,  <br>Page visited, Geographical location, Website activity | In the USA | GDPR Art. 6 (1) lit. a | [https://legal.g2.com/privacy-policy](https://legal.g2.com/privacy-policy) |
 | Google Ads, Google Building Gordon House, 4 Barrow Street, Dublin D04 E5W5, Ireland  <br>  <br>_By accepting the use of Google Ads, “Enhanced Conversion” will also be activated_ | Advertising  <br>Web analytics service | Gclid, Ads viewed, Cookie ID, Date and time of visit, Device info, Geographic location, IP address, Search terms, Ads shown, Impressions, Online identifiers, Browser info  <br>  <br>For Enhanced conversion: email address, phone number, name, street and number, city, zip code and country | In Ireland and the USA | GDPR Art. 6 (1) lit. a | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
@@ -475,9 +476,9 @@ We reserve the right to update this privacy policy from time to time. In the eve
 
 * * *
 
-This Privacy Policy was last modified on May 16, 2024.
+This Privacy Policy was last modified on June 17, 2024.
 
-Click [here](https://www.cookiebot.com/en/privacy-policy-valid-until-may-2024/) to see the previous Privacy policy valid until May 15, 2024.
+Click [here](https://www.cookiebot.com/en/privacy-policy-valid-until-june-2024/) to see the previous Privacy policy valid until June 16, 2024.
 
      
 
