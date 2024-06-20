@@ -715,41 +715,37 @@ Powered By
 
 ### Other top stories on FutureLearn
 
-* [![Two office workers](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-49-150x150.png)](https://www.futurelearn.com/info/blog/business-and-management-degree-guide)
+* [![Engineer at work.](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-51-150x150.png)](https://www.futurelearn.com/info/blog/engineering-degree-guide)
     
-    [A complete guide to business and management degrees](https://www.futurelearn.com/info/blog/business-and-management-degree-guide)
-    ---------------------------------------------------------------------------------------------------------------------------------
+    [A complete guide to engineering degrees](https://www.futurelearn.com/info/blog/engineering-degree-guide)
+    ---------------------------------------------------------------------------------------------------------
     
-    Dive into the exciting and lucrative world of business by joining a business and management …
+    Find out everything you need to know about getting an engineering degree and what you …
     
-    Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement)
+* [![Cyber security analyst working](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-50-150x150.png)](https://www.futurelearn.com/info/blog/cyber-security-degree-guide)
     
-* [![Man working on laptop](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-48-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-mba-jobs)
+    [A complete guide to cyber security degrees](https://www.futurelearn.com/info/blog/cyber-security-degree-guide)
+    ---------------------------------------------------------------------------------------------------------------
     
-    [10 highest paying jobs with an MBA degree](https://www.futurelearn.com/info/blog/highest-paying-mba-jobs)
-    ----------------------------------------------------------------------------------------------------------
+    Interested in shaping our digital future? Discover more about cybersecurity degrees in this guide – …
     
-    Fast-track your career progression with an online MBA and discover the top 10 best paid …
+    Category: [Digital Skills](https://www.futurelearn.com/info/blog/digitalskills)
     
-    Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement), [Degrees](https://www.futurelearn.com/info/faq/degrees)
+* [![Psychologist at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-53-150x150.png)](https://www.futurelearn.com/info/blog/psychology-degree-guide)
     
-* [![Teacher and student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-40-150x150.png)](https://www.futurelearn.com/info/blog/teaching-degree-guide)
+    [A complete guide to psychology degrees](https://www.futurelearn.com/info/blog/psychology-degree-guide)
+    -------------------------------------------------------------------------------------------------------
     
-    [A complete guide to teaching degrees](https://www.futurelearn.com/info/blog/teaching-degree-guide)
-    ---------------------------------------------------------------------------------------------------
+    Here, we unravel what a psychology degree entails, how to get a place on one, …
     
-    Passionate about education? Learn about the different types of teaching degrees, how to apply, and …
+    Category: [Psychology & Mental Health](https://www.futurelearn.com/info/psychology-mental-health)
     
-    Category: [Teaching](https://www.futurelearn.com/info/educators/teaching)
+* [![Student in library](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-52-150x150.png)](https://www.futurelearn.com/info/blog/humanities-degree-guide)
     
-* [![Two women in office](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-31-150x150.png)](https://www.futurelearn.com/info/blog/hr-degree-guide)
+    [A complete guide to humanities degrees](https://www.futurelearn.com/info/blog/humanities-degree-guide)
+    -------------------------------------------------------------------------------------------------------
     
-    [A complete guide to HR management degrees](https://www.futurelearn.com/info/blog/hr-degree-guide)
-    --------------------------------------------------------------------------------------------------
-    
-    Discover how a human resources degree could propel your career forward, and get tips on …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    Wondering whether a humanities degree is right for you? Explore your subject options, how to …
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
