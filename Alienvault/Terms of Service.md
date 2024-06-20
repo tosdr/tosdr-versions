@@ -1,7 +1,7 @@
-be\_ixf;ym\_202406 d\_18; ct\_50
+be\_ixf;ym\_202406 d\_19; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=13be815ca80c49f4933acc12837f525a&elqaid=1775&elqat=1&elqCampaignId=1587
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -167,11 +167,11 @@ be\_ixf;ym\_202406 d\_18; ct\_50
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            Blog: Security Essentials
+            blog
             
-            ##### Beat the Heat and Cyber Threats This Summer
+            ##### LevelBlue Labs Discovers Highly Evasive, New Loader Targeting Chinese Organizations
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/beat-the-heat-and-cyber-threats-this-summer)
+            [Learn more](https://cybersecurity.att.com/blogs/labs-research/highly-evasive-squidloader-targets-chinese-organizations)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -199,9 +199,9 @@ be\_ixf;ym\_202406 d\_18; ct\_50
             
             Whitepaper
             
-            ##### Cyber Resilience is Mission Critical for Business
+            ##### LevelBlue Labs: Indicators of Compromise for SquidLoader Malware
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -546,13 +546,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Theodoros Karasavvas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Fernando Dominguez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theodoros Karasavvas
+#### Fernando Dominguez
 
-Jun 17, 2024
+Jun 19, 2024
 
-### [Beat the Heat and Cyber Threats This Summer](https://cybersecurity.att.com/blogs/security-essentials/beat-the-heat-and-cyber-threats-this-summer)
+### [LevelBlue Labs Discovers Highly Evasive, New Loader Targeting Chinese Organizations](https://cybersecurity.att.com/blogs/labs-research/highly-evasive-squidloader-targets-chinese-organizations)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
