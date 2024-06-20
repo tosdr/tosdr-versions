@@ -33,7 +33,7 @@
     
     * [Financial Services](https://www.arkoselabs.com/industries/finance-fintech/ "Financial Services")
     * [Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/ "Technology Platforms")
-    * [Social & Networking](https://www.arkoselabs.com/industries/media-streaming/ "Social & Networking")
+    * [Social & Networking](https://www.arkoselabs.com/industries/social-networking/ "Social & Networking")
     * [Streaming & Media](https://www.arkoselabs.com/industries/media-streaming/ "Streaming & Media")
     * [Travel & Hospitality](https://www.arkoselabs.com/industries/travel/ "Travel & Hospitality")
     * [Gaming & Gambling](https://www.arkoselabs.com/industries/online-gambling-igaming/ "Gaming & Gambling")
@@ -179,7 +179,8 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
     * [Finance & Fintech](https://www.arkoselabs.com/industries/finance-fintech/ "Finance & Fintech")
     * [Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/ "Technology Platforms")
     * [Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/ "Sharing Economy")
-    * [Social Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/ "Social Media & Streaming")
+    * [Social & Networking](https://www.arkoselabs.com/industries/social-networking/ "Social & Networking")
+    * [Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/ "Media & Streaming")
     * [Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/ "Retail & eCommerce")
     * [Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/ "Telco")
     * [Travel & Hospitality](https://www.arkoselabs.com/industries/travel/ "Travel & Hospitality")
@@ -224,7 +225,3 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
-
-                                               
-
-https://www.arkoselabs.com/legal/terms-of-use
