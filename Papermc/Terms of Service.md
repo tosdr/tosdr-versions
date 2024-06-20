@@ -88,7 +88,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 4,065
+* 4,161
 * 6
 
 ### The 1.20.5/6 Update​
@@ -186,7 +186,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 12,861
+* 12,954
 * 8
 
 Announcing the end of life of Waterfall​
@@ -224,7 +224,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 10,546
+* 10,632
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -322,7 +322,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 12,551
+* 12,778
 * 6
 
 Happy New Year from PaperMC!​
@@ -466,7 +466,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 6,481
+* 6,517
 * 1
 
 ### The 1.20.4 Update​
@@ -525,7 +525,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,981
+* 13,993
 * 1
 
 ### The 1.20.2 Update​
@@ -645,7 +645,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 11,521
+* 11,550
 * 8
 
 ### The 1.20(.1) Update​
@@ -718,7 +718,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 5,696
+* 5,710
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -766,7 +766,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,256
+* 7,268
 * 3
 
 ### The 1.19.4 Update​
@@ -838,7 +838,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 12,704
+* 12,714
 * 1
 
 ### The 1.19.3 Update​
@@ -886,7 +886,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 33,441
+* 33,457
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -935,7 +935,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,209
+* 14,222
 * 1
 
 ### The 1.19.1 Update​
@@ -978,7 +978,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,557
+* 35,595
 * 18
 
 ### The 1.19 Update​
@@ -1050,7 +1050,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 22,173
+* 22,189
 * 12
 
 ### The 1.18.2 Update​
@@ -1101,7 +1101,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 22,698
+* 22,718
 * 17
 
 ### The 1.18 update​
@@ -1179,7 +1179,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,124
+* 8,137
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1200,11 +1200,133 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 ### [Members online](https://papermc.io/online/)
 
-* [ColeValley](https://papermc.io/members/colevalley.9450/)
+No members online now.
 
-Total: 19 (members: 1, guests: 18)
+Total: 39 (members: 0, guests: 39)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
+
+[W](https://papermc.io/members/wwzust.9513/)
+
+* Locked
+* Question
+
+Question [ERROR:disabled: You were kicked from the server: On the internal error side error:](https://papermc.io/threads/error-disabled-you-were-kicked-from-the-server-on-the-internal-error-side-error.1235/)
+
+* [wwzust](https://papermc.io/members/wwzust.9513/)
+* [Today at 6:02 PM](https://papermc.io/threads/error-disabled-you-were-kicked-from-the-server-on-the-internal-error-side-error.1235/)
+* [Help](https://papermc.io/forums/velocity-help/)
+
+Replies
+
+1
+
+Views
+
+42
+
+[Help](https://papermc.io/forums/velocity-help/) [Today at 6:29 PM](https://papermc.io/threads/error-disabled-you-were-kicked-from-the-server-on-the-internal-error-side-error.1235/latest)
+
+[mbaxter](https://papermc.io/members/mbaxter.18/)
+
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
+
+[N](https://papermc.io/members/nochit.9507/)
+
+* Solved
+
+Question [1.20.4 server console typing spazzing out, any help?](https://papermc.io/threads/1-20-4-server-console-typing-spazzing-out-any-help.1234/)
+
+* [nochit](https://papermc.io/members/nochit.9507/)
+* [Today at 2:30 PM](https://papermc.io/threads/1-20-4-server-console-typing-spazzing-out-any-help.1234/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+2
+
+Views
+
+42
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 2:34 PM](https://papermc.io/threads/1-20-4-server-console-typing-spazzing-out-any-help.1234/latest)
+
+[nochit](https://papermc.io/members/nochit.9507/)
+
+[N](https://papermc.io/members/nochit.9507/)
+
+[C](https://papermc.io/members/cewallace.9498/)
+
+* Question
+
+Question [Paper Ver 1.20.6 Build#147 Error.](https://papermc.io/threads/paper-ver-1-20-6-build-147-error.1233/)
+
+* [cewallace](https://papermc.io/members/cewallace.9498/)
+* [Today at 3:01 AM](https://papermc.io/threads/paper-ver-1-20-6-build-147-error.1233/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+1
+
+Views
+
+36
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 4:07 AM](https://papermc.io/threads/paper-ver-1-20-6-build-147-error.1233/latest)
+
+[Machine Maker](https://papermc.io/members/machine-maker.37/)
+
+[![Machine Maker](https://secure.gravatar.com/avatar/4bec7fccf1804767ef616d1eeeca155f?s=48)](https://papermc.io/members/machine-maker.37/)
+
+[M](https://papermc.io/members/metori.9485/)
+
+* Locked
+* Solved
+
+Question [velocity error, proxy server crash](https://papermc.io/threads/velocity-error-proxy-server-crash.1231/)
+
+* [metori](https://papermc.io/members/metori.9485/)
+* [Yesterday at 6:25 PM](https://papermc.io/threads/velocity-error-proxy-server-crash.1231/)
+* [Help](https://papermc.io/forums/velocity-help/)
+
+Replies
+
+1
+
+Views
+
+161
+
+[Help](https://papermc.io/forums/velocity-help/) [Yesterday at 7:28 PM](https://papermc.io/threads/velocity-error-proxy-server-crash.1231/latest)
+
+[mbaxter](https://papermc.io/members/mbaxter.18/)
+
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
+
+[R](https://papermc.io/members/ravarg.9481/)
+
+* Locked
+
+[The Lag On The Weaker Connection](https://papermc.io/threads/the-lag-on-the-weaker-connection.1230/)
+
+* [ravarg](https://papermc.io/members/ravarg.9481/)
+* [Yesterday at 3:23 PM](https://papermc.io/threads/the-lag-on-the-weaker-connection.1230/)
+* [Discussion](https://papermc.io/forums/paper-discussion/)
+
+Replies
+
+1
+
+Views
+
+64
+
+[Discussion](https://papermc.io/forums/paper-discussion/) [Yesterday at 3:26 PM](https://papermc.io/threads/the-lag-on-the-weaker-connection.1230/latest)
+
+[mbaxter](https://papermc.io/members/mbaxter.18/)
+
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
 
 [F](https://papermc.io/members/freuligg_.240/)
 
@@ -1222,7 +1344,7 @@ Replies
 
 Views
 
-72
+95
 
 [Help](https://papermc.io/forums/paper-help/) [Monday at 7:12 PM](https://papermc.io/threads/how-do-i-use-the-transfer-method-of-the-player-class.1229/latest)
 
@@ -1244,7 +1366,7 @@ Replies
 
 Views
 
-104
+135
 
 [Discussion](https://papermc.io/forums/paper-discussion/) [Monday at 11:52 AM](https://papermc.io/threads/paper-remapped-problem.1226/latest)
 
@@ -1254,7 +1376,7 @@ Views
 
 [R](https://papermc.io/members/reizi.9279/)
 
-* Question
+* Solved
 
 Question [Error with the ProtocolLib plugin on PaperMC-1.20.6](https://papermc.io/threads/error-with-the-protocollib-plugin-on-papermc-1-20-6.1217/)
 
@@ -1268,7 +1390,7 @@ Replies
 
 Views
 
-186
+211
 
 [Help](https://papermc.io/forums/paper-help/) [Sunday at 4:04 PM](https://papermc.io/threads/error-with-the-protocollib-plugin-on-papermc-1-20-6.1217/latest)
 
@@ -1292,7 +1414,7 @@ Replies
 
 Views
 
-171
+190
 
 [Help](https://papermc.io/forums/paper-help/) [Saturday at 4:36 PM](https://papermc.io/threads/cant-start-multiple-paper-servers-with-default-paper-flags.1223/latest)
 
@@ -1316,133 +1438,13 @@ Replies
 
 Views
 
-106
+118
 
 [Help](https://papermc.io/forums/paper-help/) [Saturday at 3:27 PM](https://papermc.io/threads/tps-loss-server-crashes-since-approximately-version-1-13.1224/latest)
 
 [SirPoppyThFatCat](https://papermc.io/members/sirpoppythfatcat.9363/)
 
 [S](https://papermc.io/members/sirpoppythfatcat.9363/)
-
-[E](https://papermc.io/members/ecauff.9307/)
-
-* Locked
-* Solved
-
-Question [1.21 Server Update](https://papermc.io/threads/1-21-server-update.1220/)
-
-* [ecauff](https://papermc.io/members/ecauff.9307/)
-* [Thursday at 10:49 PM](https://papermc.io/threads/1-21-server-update.1220/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-6
-
-Views
-
-15K
-
-[Help](https://papermc.io/forums/paper-help/) [Saturday at 3:01 AM](https://papermc.io/threads/1-21-server-update.1220/latest)
-
-[mbaxter](https://papermc.io/members/mbaxter.18/)
-
-[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
-
-[H](https://papermc.io/members/haraky.9326/)
-
-* Locked
-* Solved
-
-Question [When 1.21 Paper will realse?](https://papermc.io/threads/when-1-21-paper-will-realse.1222/)
-
-* [Haraky](https://papermc.io/members/haraky.9326/)
-* [Friday at 2:02 PM](https://papermc.io/threads/when-1-21-paper-will-realse.1222/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-7
-
-Views
-
-2K
-
-[Help](https://papermc.io/forums/paper-help/) [Friday at 6:30 PM](https://papermc.io/threads/when-1-21-paper-will-realse.1222/latest)
-
-[MiniDigger](https://papermc.io/members/minidigger.15/)
-
-[![MiniDigger](https://secure.gravatar.com/avatar/107904830ab6c04ec1da5f592ed9bceb?s=48)](https://papermc.io/members/minidigger.15/)
-
-[![tina](https://secure.gravatar.com/avatar/567f4b364e1d8a54051e469cc90a0406?s=48)](https://papermc.io/members/tina.9302/)
-
-[is this possible to recode this from bungeecord to velocity?](https://papermc.io/threads/is-this-possible-to-recode-this-from-bungeecord-to-velocity.1219/)
-
-* [tina](https://papermc.io/members/tina.9302/)
-* [Thursday at 9:21 PM](https://papermc.io/threads/is-this-possible-to-recode-this-from-bungeecord-to-velocity.1219/)
-* [Plugin Development](https://papermc.io/forums/velocity-plugin-development/)
-
-Replies
-
-2
-
-Views
-
-131
-
-[Plugin Development](https://papermc.io/forums/velocity-plugin-development/) [Friday at 11:44 AM](https://papermc.io/threads/is-this-possible-to-recode-this-from-bungeecord-to-velocity.1219/latest)
-
-[tina](https://papermc.io/members/tina.9302/)
-
-[![tina](https://secure.gravatar.com/avatar/567f4b364e1d8a54051e469cc90a0406?s=48)](https://papermc.io/members/tina.9302/)
-
-[M](https://papermc.io/members/mcnishe.9283/)
-
-* Question
-
-Question [server giving a bunch of red text then closing](https://papermc.io/threads/server-giving-a-bunch-of-red-text-then-closing.1218/)
-
-* [mcnishe](https://papermc.io/members/mcnishe.9283/)
-* [Jun 12, 2024](https://papermc.io/threads/server-giving-a-bunch-of-red-text-then-closing.1218/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-1
-
-Views
-
-116
-
-[Help](https://papermc.io/forums/paper-help/) [Jun 12, 2024](https://papermc.io/threads/server-giving-a-bunch-of-red-text-then-closing.1218/latest)
-
-[electronicboy](https://papermc.io/members/electronicboy.2/)
-
-[![electronicboy](/data/avatars/s/0/2.jpg?1639525591)](https://papermc.io/members/electronicboy.2/)
-
-[S](https://papermc.io/members/somewhatunknown.9231/)
-
-* Question
-
-Question [TNT going upwards](https://papermc.io/threads/tnt-going-upwards.1211/)
-
-* [SomewhatUnknown](https://papermc.io/members/somewhatunknown.9231/)
-* [Jun 9, 2024](https://papermc.io/threads/tnt-going-upwards.1211/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-1
-
-Views
-
-130
-
-[Help](https://papermc.io/forums/paper-help/) [Jun 12, 2024](https://papermc.io/threads/tnt-going-upwards.1211/latest)
-
-[mbaxter](https://papermc.io/members/mbaxter.18/)
-
-[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
