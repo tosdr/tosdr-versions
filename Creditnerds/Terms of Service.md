@@ -287,6 +287,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A vibrant, realistic illustration celebrating Juneteenth and financial equality. The central character is an African American person with dark skin, curly hair, and glasses, wearing a blue shirt and black pants. They stand confidently with a bright smile. The background is adorned with colorful abstract patterns in shades of green, yellow, and red, incorporating subtle symbols of financial equality like a balance scale and a piggy bank. The overall atmosphere is hopeful and empowering, reflecting the themes of freedom, progress, and financial empowerment associated with Juneteenth.](https://creditnerds.com/wp-content/uploads/2024/06/Juneteenth-30x30.webp)](https://creditnerds.com/juneteenth-a-reflection-on-financial-equality/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+June 19, 2024
+
+#### [Juneteenth: A Reflection on Financial Equality](https://creditnerds.com/juneteenth-a-reflection-on-financial-equality/)
+
+Juneteenth: A Reflection on Financial Liberation and Equality As we commemorate Juneteenth, the day marking the emancipation of the last enslaved African Americans in the United States on June 19, 1865, it’s crucial to explore its significance beyond its historical context. While Juneteenth is a celebration of freedom and resilience, it’s also an opportunity to …
+
+[Read More](https://creditnerds.com/juneteenth-a-reflection-on-financial-equality/)
+
 [![A semi-realistic cartoon of a character with glasses, standing next to a car and looking puzzled. The character holds a car key in one hand and a document labeled 'Return Policy' in the other. In the background, a car dealership building with a prominent 'Returns' sign is visible. The image has warm, inviting tones, perfect for illustrating the topic 'Can You Return a Car You Just Bought?'](https://creditnerds.com/wp-content/uploads/2024/06/Return-A-Car-30x30.webp)](https://creditnerds.com/can-you-return-a-car-you-just-bought/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -322,6 +334,18 @@ June 6, 2024
 A grace period allows you to avoid interest or fees on borrowed money for a specified time. Grace periods differ by lender and loan type, but understanding them can save you money. Here’s what you need to know about periods. How Does a Grace Period Work? Lenders often provide grace periods, although they are not …
 
 [Read More](https://creditnerds.com/what-is-a-grace-period/)
+
+[![A semi-realistic cartoon-style illustration for a blog post titled 'How Life Events Affect Your Credit.' The central character is an African American person with dark skin, curly hair, and glasses, wearing casual clothing. They stand thoughtfully at a crossroads with multiple paths behind them, each marked by icons: a graduation cap for education, a house for home buying, a wedding ring for marriage, and a stork for parenthood. The background includes colorful abstract patterns and financial symbols like a credit score gauge and dollar signs, representing the impact of these life events on credit. The overall atmosphere is reflective and informative.](https://creditnerds.com/wp-content/uploads/2024/06/Life-Events-30x30.webp)](https://creditnerds.com/how-life-events-affect-your-credit/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+May 29, 2024
+
+#### [How Life Events Affect Your Credit](https://creditnerds.com/how-life-events-affect-your-credit/)
+
+Life is full of unexpected twists and turns. While some events bring joy and celebration, others can lead to significant financial stress. Major life events such as divorce or medical issues can have profound impacts on your credit score. Understanding how these events affect your credit and learning strategies to manage your credit during these …
+
+[Read More](https://creditnerds.com/how-life-events-affect-your-credit/)
 
 [![A semi-realistic cartoony image of a worried character wearing glasses, looking at their credit card with a shocked expression. The background includes subtle hints of hacking elements like binary codes and warning symbols. The character is in a home setting with a laptop open on a desk, displaying a warning message on the screen, reflecting the theme of credit card hacking.](https://creditnerds.com/wp-content/uploads/2024/06/Card-Fraud-30x30.webp)](https://creditnerds.com/11-signs-your-credit-card-has-been-hacked/)
 
@@ -370,30 +394,6 @@ May 24, 2024
 Finding ways to reduce your spending can help you save more or keep more in your pocket. If you're feeling financial pressure, you might be consciously limiting everyday spending or cutting back on discretionary areas in your budget. However, what about the spending you do unconsciously? "Budget leaks" are money you spend without thinking or …
 
 [Read More](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
-
-[![A semi-realistic cartoon-style illustration of a determined person with glasses sitting at a desk, looking at a laptop screen displaying the text "Find Investors". The character is holding a document titled "Business Proposal" and is surrounded by icons like dollar signs, handshake symbols, and graphs. The character, dressed in business casual attire, appears focused and confident. The background features a modern office setting with a whiteboard and a window showing a cityscape, symbolizing business growth and opportunities.](https://creditnerds.com/wp-content/uploads/2024/05/Business-Investors-30x30.webp)](https://creditnerds.com/how-to-find-investors-to-help-buy-a-business/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 23, 2024
-
-#### [How to Find Investors to Help Buy a Business](https://creditnerds.com/how-to-find-investors-to-help-buy-a-business/)
-
-When you're on the hunt for investors to help purchase a business, you're seeking more than just capital; you're searching for individuals who trust your judgment and share your vision. This search can seem daunting, but with the right approach, you can connect with many investors eager to support a person like you. In this …
-
-[Read More](https://creditnerds.com/how-to-find-investors-to-help-buy-a-business/)
-
-[![A semi-realistic cartoon-style illustration of a frustrated person with glasses, reviewing auto insurance documents. The character is holding a checklist titled 8 common auto insurance mistakes and has a worried expression. Surrounding them are icons like a car, a broken piggy bank, exclamation marks, and a notepad, symbolizing financial concerns and mistakes. The character is dressed in casual clothes, appearing stressed but determined. The background shows a simple home office setting with shelves and a window displaying a cloudy sky, highlighting the seriousness of the topic.](https://creditnerds.com/wp-content/uploads/2024/05/Car-Insurance-Mistakes-30x30.webp)](https://creditnerds.com/avoid-costly-errors-8-common-auto-insurance-mistakes-and-how-to-avoid-them/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 22, 2024
-
-#### [Avoid Costly Errors: 8 Common Auto Insurance Mistakes and How to Avoid Them](https://creditnerds.com/avoid-costly-errors-8-common-auto-insurance-mistakes-and-how-to-avoid-them/)
-
-Navigating auto insurance can be complex and confusing, but understanding common pitfalls can save you money and enhance your coverage. Let’s explore eight typical mistakes people make when buying or maintaining auto insurance and how you can steer clear of them. 1. Failing to Shop Around A significant mistake that can impact your budget is …
-
-[Read More](https://creditnerds.com/avoid-costly-errors-8-common-auto-insurance-mistakes-and-how-to-avoid-them/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
