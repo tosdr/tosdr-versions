@@ -223,7 +223,7 @@ Specifically, we provide the following rights with respect to your Personal Info
       **13.4 Anonymous Information**. We will not delete Anonymous Information from our database other than in the regular course of business, and nothing in this Privacy Policy restricts our use of Anonymous Information.
 
 14. **Advisory Regarding Participation by Children and Teens.**Under U.S. Federal Law (as reflected in the Children’s Online Privacy Protection Act), WE DO NOT COLLECT OR STORE ANY PERSONAL INFORMATION FROM INDIVIDUALS THAT WE KNOW ARE UNDER THE AGE OF 13. If you wish further information concerning privacy policies in general, and concerning online social networking and safety, you should visit the following website: [http://www.ftc.gov/privacy/index.html](https://www.ftc.gov/business-guidance/privacy-security).
-15. **Relationship to Terms of Use.**This Privacy Policy must be read in conjunction with our Terms of Use, and the provisions of our Terms of Use are incorporated herein. To the extent the Terms of Use conflict with the terms of this Privacy Policy, the terms of this Privacy Policy will control.
+15. **Relationship to Terms of Use.**This Privacy Policy must be read in conjunction with our [Terms of Use](https://www.pintas.com/website-terms-of-use/), and the provisions of our Terms of Use are incorporated herein. To the extent the Terms of Use conflict with the terms of this Privacy Policy, the terms of this Privacy Policy will control.
 16. **Notice of Privacy Rights to California Residents.**The following provisions of this Section 16 (Notice of Privacy Rights to California Residents) apply if you are a California resident.
 
       **16.1 Shine the Light Law**. California law requires certain businesses to respond to requests from California users who ask about business practices related to disclosing Personal Information to third parties for direct marketing purposes. The California “Shine the Light” law further requires us to allow California residents to opt out of certain disclosures of Personal Information to third parties for their direct marketing purposes.
@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the average mesothelioma settlement?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-mesothelioma-settlement.jpg "What Is the Average Mesothelioma Settlement?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement "What Is the Average Mesothelioma Settlement?")
+[![How do you get lung cancer without smoking?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-do-you-get-lung-cancer-without-smoking.jpg "How Do You Get Lung Cancer without Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-get-lung-cancer-without-smoking/ "How Do You Get Lung Cancer without Smoking?")
 
-[#### What Is the Average Mesothelioma Settlement?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/average-settlement)
+[#### How Do You Get Lung Cancer without Smoking?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-get-lung-cancer-without-smoking/)
 
-[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
+[![Can you settle a car accident without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/10/can-you-settle-a-car-accident-without-a-lawyer.jpg "Can You Settle a Car Accident without a Lawyer?")](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/ "Can You Settle a Car Accident without a Lawyer?")
 
-[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
+[#### Can You Settle a Car Accident without a Lawyer?](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/)
 
-[![What are the signs of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-the-signs-of-assisted-living-neglect-300x200.jpg "What Are the Signs of Assisted Living Neglect?")](https://www.pintas.com/faq/what-are-the-signs-of-assisted-living-neglect/ "What Are the Signs of Assisted Living Neglect?")
+[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
 
-[#### What Are the Signs of Assisted Living Neglect?](https://www.pintas.com/faq/what-are-the-signs-of-assisted-living-neglect/)
+[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -340,12 +340,23 @@ Chicago, IL 60654
 * [Newark](https://www.pintas.com/near-me/new-jersey/newark/nursing-home-abuse-lawyer)
 * [New York](https://www.pintas.com/near-me/new-york/new-york-city/nursing-home-abuse-lawyer)
 * [Nashville](https://www.pintas.com/near-me/tennessee/nashville/nursing-home-abuse-lawyer)
+* [Dallas](https://www.pintas.com/near-me/texas/dallas/nursing-home-abuse-lawyer)
+* [Fort Worth](https://www.pintas.com/near-me/texas/fort-worth/nursing-home-abuse-lawyer)
+* [Houston](https://www.pintas.com/near-me/texas/houston/personal-injury-lawyer)
+* [Jacksonville](https://www.pintas.com/near-me/florida/jacksonville/nursing-home-abuse-lawyer)
+* [Phoenix](https://www.pintas.com/near-me/arizona/phoenix/nursing-home-abuse-lawyer)
+* [San Antonio](https://www.pintas.com/near-me/texas/san-antonio/nursing-home-abuse-lawyer)
 
 * [Chicago](https://www.pintas.com/near-me/illinois/chicago/nursing-home-abuse-lawyer)
 * [Philadelphia](https://www.pintas.com/near-me/pennsylvania/philadelphia/nursing-home-abuse-lawyer)
 * [Los Angeles](https://www.pintas.com/near-me/california/los-angeles/nursing-home-abuse-lawyer)
 * [Atlanta](https://www.pintas.com/near-me/georgia/atlanta/nursing-home-abuse-lawyer)
 * [Detroit](https://www.pintas.com/near-me/detroit/michigan/nursing-home-lawyer)
+* [Austin](https://www.pintas.com/near-me/texas/austin/nursing-home-abuse-lawyer)
+* [Charlotte](https://www.pintas.com/near-me/north-carolina/charlotte/dog-bite-lawyer)
+* [Columbus](https://www.pintas.com/near-me/ohio/columbus/nursing-home-abuse-lawyer)
+* [San Jose](https://www.pintas.com/near-me/california/san-jose/clergy-abuse-lawyer)
+* [San Diego](https://www.pintas.com/near-me/california/san-diego/nursing-home-abuse-lawyer)
 
 © 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms of Use](https://www.pintas.com/website-terms-of-use/)
 
