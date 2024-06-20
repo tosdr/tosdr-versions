@@ -146,6 +146,11 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+6/20/2024 4:32 AM EST
+
+![](https://www.huntandjump.com/images/breednavicons/17.png)  
+The Dutch Warmblood has launched. Please check out the huge forum post about it, game status updates, and send us your feedback on recent changes. Thanks!
+
 6/15/2024 11:15 PM EST
 
 Thank you for the reports about image generation issues. We are very aware of the problem and doing everything we can at the moment to address it. We are working on a fix, it just is taking some time.
@@ -163,12 +168,6 @@ Bluegrass server is open for registration for June celebration month!
 
 Happy June 1st, and Happy Pride Month!  
 If your sea ponies are not holding on to their colorful tack pack tails add them using the old tack system instead of the advanced tack editor. Once added you can edit them in the advanced tack editor. We are working on a fix for this.
-
-5/31/2024 2:11 AM EST
-
-### All gift exchange entries must be in by 11 pm tonight!
-
-Absolutely no late entries will be accepted.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
