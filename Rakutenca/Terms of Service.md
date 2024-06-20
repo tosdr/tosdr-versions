@@ -223,7 +223,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
         
-        up to 3% Cash Back](https://www.rakuten.ca/rona)[Giant Tiger
+        1% Cash Back](https://www.rakuten.ca/rona)[Giant Tiger
         
         2% Cash Back](https://www.rakuten.ca/giant-tiger)[Worx
         
@@ -373,13 +373,13 @@ FR
         
         5% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        2% Cash Back](https://www.rakuten.ca/petsmart)[Pet Valu
-        
-        1% Cash Back](https://www.rakuten.ca/pet-valu)[Rover
+        15% Cash Back](https://www.rakuten.ca/petsmart)[Rover
         
         Up to $15 Cash Back](https://www.rakuten.ca/rover)[Well.ca
         
-        2% Cash Back](https://www.rakuten.ca/well)
+        2% Cash Back](https://www.rakuten.ca/well)[Pet Valu
+        
+        Coupons Only](https://www.rakuten.ca/pet-valu)
         
         Featured Shops & Deals
         
@@ -401,7 +401,7 @@ FR
         
         [MEC
         
-        2% Cash Back](https://www.rakuten.ca/mec)[Columbia Sportswear Canada
+        4% Cash Back](https://www.rakuten.ca/mec)[Columbia Sportswear Canada
         
         2% Cash Back](https://www.rakuten.ca/columbia-sportswear-ca)[The Last Hunt
         
@@ -782,7 +782,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_1170x60-sticky.png)](https://www.rakuten.ca/new-stores)
+[![Earn 5% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/291934/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
+
+was 2.5%, now
+
+5% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
