@@ -142,6 +142,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[Bodger & Badger. Simon Bodger (Andy Cunningham)](https://www.comedy.co.uk/quiz/311/)Quiz
+
+[British Comedy Quiz #311](https://www.comedy.co.uk/quiz/311/)
+
 [Dabbers Bingo Comedy Caller Contest](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)Live
 
 [Finalists ready for Dabbers Bingo Comedy Caller Contest 2024](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)
@@ -153,10 +157,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [On The Buses. Jack Harper (Bob Grant)](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)Features
 
 [Comedy Chronicles: The bus stop - The post-fame fate of Bob Grant](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)
-
-[Raul Kohli. Credit: Jiksaw](https://www.comedy.co.uk/live/fgwg/raul-kohli/)Live
-
-[First Gig, Worst Gig: Raul Kohli](https://www.comedy.co.uk/live/fgwg/raul-kohli/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -199,7 +199,7 @@ Privacy settings
 
 * * *
 
-A bit of advice - never read a pop-up book about giraffes.[Sean Lock](https://www.comedy.co.uk/people/sean_lock/)
+I used to work in a shoe-recycling shop. It was sole-destroying.[Alex Horne](https://www.comedy.co.uk/fringe/2013/features/dave_joke_of_the_fringe_2013/)
 
 © British Comedy Guide
 
