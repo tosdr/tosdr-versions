@@ -34,27 +34,27 @@ Privacy Policy
 * [![کارگری می اندیشد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![کارگری می اندیشد](https://karkhane.org/app/uploads/2024/05/Worker_b-95x65.jpg)](https://karkhane.org/5497/jedal_workers/)[چرا تلویزیون “جدال” سعی دارد “کارفروش” را به جای کارگر بنشاند؟](https://karkhane.org/5497/jedal_workers/)
+* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
 * [![آتش‌زدن 1300 تن کالای قاچاق به ارزش ریالی بیش از 5 هزار میلیارد تومان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![آتش‌زدن 1300 تن کالای قاچاق به ارزش ریالی بیش از 5 هزار میلیارد تومان](https://karkhane.org/app/uploads/2024/03/2-1-95x65.jpg)](https://karkhane.org/5402/ghachagh_radan/)[بازار داخلی با آتش‌کشیدن دست‌رنج کارگران رونق می‌گیرد](https://karkhane.org/5402/ghachagh_radan/)
 * [![پسرک لبوفروش](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پسرک لبوفروش](https://karkhane.org/app/uploads/2024/05/pesarak-e-golforush-shekarestan-95x65.jpg)](https://karkhane.org/5544/%d9%be%d8%b3%d8%b1%da%a9-%d9%84%d8%a8%d9%88%d9%81%d8%b1%d9%88%d8%b4/)[پسرک لبوفروش](https://karkhane.org/5544/%d9%be%d8%b3%d8%b1%da%a9-%d9%84%d8%a8%d9%88%d9%81%d8%b1%d9%88%d8%b4/)
-* [![عمو بهرام معروف به بهرام لجن؛ اشرافیت کارگری در باربری](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![مصوبه دستمزد ۱۴۰۳](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![عمو بهرام معروف به بهرام لجن؛ اشرافیت کارگری در باربری](https://karkhane.org/app/uploads/2023/08/amu-bahram-ya-bahram-lajan-95x65.jpg)](https://karkhane.org/5099/amu-bahram-bahram-lajan/)[عمو بهرام معروف به بهرام لجن؛ اشرافیت کارگری در باربری](https://karkhane.org/5099/amu-bahram-bahram-lajan/)
-* [![نامه‌ای از غزه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![مصوبه دستمزد ۱۴۰۳](https://karkhane.org/app/uploads/2024/04/Wage-95x65.jpg)](https://karkhane.org/5444/local-wage/)[چرا همیشه ارزش کار در عصر سرمایه پرداخت نشده باقی خواهند ماند؟](https://karkhane.org/5444/local-wage/)
+* [![کودکان کار و مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![نامه‌ای از غزه](https://karkhane.org/app/uploads/2023/04/a-letter-from-gaza-95x65.jpg)](https://karkhane.org/4889/a-letter-from-gaza/)[نامه‌ای از غزه](https://karkhane.org/4889/a-letter-from-gaza/)
-* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![کودکان کار و مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2024/06/mp-95x65.jpg)](https://karkhane.org/5590/child-labour-class-struggle/)[کودکان کار و مبارزه‌ی طبقاتی](https://karkhane.org/5590/child-labour-class-struggle/)
+* [![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
-* [![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/app/uploads/2020/09/fasl-e-mostarak-e-ma-kargar-sodan-o-kargar-budan-95x65.jpg)](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)[فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)
+* [![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](https://karkhane.org/app/uploads/2023/09/hami-e-tabaqeye-hakem-95x65.jpg)](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)[حامیِ طبقه‌ی حاکم؛ نگاهی به مستند «حامی»](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)
-* [![نجیب](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نجیب](https://karkhane.org/app/uploads/2024/05/AWI-95x65.jpg)](https://karkhane.org/5526/najib/)[نجیب](https://karkhane.org/5526/najib/)
+    ![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/app/uploads/2024/04/ofogh-e-kurosh-chain-stores-95x65.jpg)](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)[فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
