@@ -107,7 +107,7 @@ Search for:
 Privacy Pledges
 ===============
 
-**Effective January 01, 2023**
+**Effective June 20, 2024**
 
 Reputation.com, Inc. and its subsidiaries, including Social Mecca, Inc. (“**Nuvi**”), (“**Reputation,**”, the “**Company**” or “**we**”, “**us**”, and/or “**our**”) are committed to transparency and protecting the privacy of individuals who visit our website(s), and those individuals and businesses who purchase and/or use our desktop or mobile applications, and associated sub-domains (collectively, the “Site”) and in relation to use of our Site and the related applications and services offered by us (together with the Site, “Services”). This Privacy Notice describes the Company’s privacy practices in relation to the use of our website and the related applications and services offered for sale by Reputation and your choices about how we use personal data about you.
 
@@ -323,16 +323,16 @@ You are responsible for regularly reviewing the Privacy Notice and related docum
 If you have any questions about this Privacy Notice, or our practices with respect to your Personal Data, or your dealings with the Site, you can contact us at [privacy@reputation.com](mailto:privacy@reputation.com), call us at (877) 553-0616 or write to:
 
 **Reputation.com, Inc./ Social Mecca, Inc. (dba NUVI)  
-**Attention: Chief Privacy Officer  
+**Attention: Legal  
 6111 Bollinger Canyon Road, Suite 500  
 San Ramon, CA 94583  
 USA
 
 **Reputation.com (UK) Limited**  
 ICO Registration Number ZA013179  
-Liverpool Innovation Park  
-360 Edge Lane  
-Fairfield, Liverpool, L7 9NJ
+The Plaza  
+100 Old Hall Street, Suite 3D  
+Liverpool, L3 9QJ
 
 **Reputation.com Germany GmbH**  
 CAYA Postbox 799114  
