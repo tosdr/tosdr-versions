@@ -1,3 +1,221 @@
+Menu
+
+[Le Parisien : Actualités en direct et info en continu](https://www.leparisien.fr/)
+===================================================================================
+
+Journal
+
+Se connecter
+
+S'abonner
+
+Défiler les accès rapides vers la gauche
+
+* [À la une](https://www.leparisien.fr/)
+* [JO Paris 2024![navigation entry logo](https://assets.leparisien.fr/website/images/homepage/logo-jo-2024.svg)](https://www.leparisien.fr/jo-paris-2024/)
+* [En continu](https://www.leparisien.fr/actualites-en-continu/)
+* Paris & Île-de-France
+* [Faits divers](https://www.leparisien.fr/faits-divers/)
+* [Politique](https://www.leparisien.fr/politique/)
+* [Économie](https://www.leparisien.fr/economie/)
+* [Société](https://www.leparisien.fr/societe/)
+* [Sports](https://www.leparisien.fr/sports/)
+* [Culture](https://www.leparisien.fr/culture-loisirs/)
+* [Étudiant](https://www.leparisien.fr/etudiant/)
+* [Vidéos](https://www.leparisien.fr/video/)
+* [Guide d'achat](https://www.leparisien.fr/guide-shopping/)
+* [Jardin](https://www.leparisien.fr/jardin/)
+
+Défiler les accès rapides vers la droite
+
+Ville, code postal...
+
+* [75 · Paris](https://www.leparisien.fr/paris-75/)
+* [91 · Essonne](https://www.leparisien.fr/essonne-91/)
+* [92 · Hauts-de-Seine](https://www.leparisien.fr/hauts-de-seine-92/)
+* [93 · Seine-Saint-Denis](https://www.leparisien.fr/seine-saint-denis-93/)
+* [94 · Val-de-Marne](https://www.leparisien.fr/val-de-marne-94/)
+* [95 · Val-d'Oise](https://www.leparisien.fr/val-d-oise-95/)
+* [77 · Seine-et-Marne](https://www.leparisien.fr/seine-et-marne-77/)
+* [78 · Yvelines](https://www.leparisien.fr/yvelines-78/)
+* [60 · Oise](https://www.leparisien.fr/oise-60/)
+
+[Toutes les actualités locales](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
+
+Rechercher sur Le Parisien
+
+* [À la une](https://www.leparisien.fr/)
+    
+* [JO Paris 2024](https://www.leparisien.fr/jo-paris-2024/)
+    
+    * [Programme et calendrier](https://www.leparisien.fr/jo-paris-2024/programme/)
+    * [Flamme olympique](https://www.leparisien.fr/jo-paris-2024/flamme-olympique/)
+    * [Cérémonie d'ouverture](https://www.leparisien.fr/jo-paris-2024/ceremonie-ouverture/)
+    * [Village olympique](https://www.leparisien.fr/jo-paris-2024/village-olympique/)
+    * [Équipe de France olympique](https://www.leparisien.fr/jo-paris-2024/equipe-de-france/)
+    * [Logement](https://www.leparisien.fr/jo-paris-2024/logement/)
+    * [Jeux paralympiques de Paris 2024](https://www.leparisien.fr/jo-paralympiques-paris-2024/)
+    
+* [En continu](https://www.leparisien.fr/actualites-en-continu/)
+    
+* [Paris & Île-de-France](https://www.leparisien.fr/info-paris-ile-de-france-oise/)
+    
+    * [Paris](https://www.leparisien.fr/paris-75/)
+    * [Essonne](https://www.leparisien.fr/essonne-91/)
+    * [Hauts-de-Seine](https://www.leparisien.fr/hauts-de-seine-92/)
+    * [Seine-Saint-Denis](https://www.leparisien.fr/seine-saint-denis-93/)
+    * [Val-d'Oise](https://www.leparisien.fr/val-d-oise-95/)
+    * [Val-de-Marne](https://www.leparisien.fr/val-de-marne-94/)
+    * [Seine-et-Marne](https://www.leparisien.fr/seine-et-marne-77/)
+    * [Yvelines](https://www.leparisien.fr/yvelines-78/)
+    * [Oise](https://www.leparisien.fr/oise-60/)
+    * [Transports IDF](https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/)
+    * [Immobilier](https://www.leparisien.fr/immobilier/)
+    
+* [Faits divers](https://www.leparisien.fr/faits-divers/)
+    
+* [Politique](https://www.leparisien.fr/politique/)
+    
+    * [Législatives 2024](https://www.leparisien.fr/elections/legislatives/)
+    * [Résultats législatives 2024](https://www.leparisien.fr/resultats-elections/)
+    * [Européennes 2024](https://www.leparisien.fr/elections/europeennes/)
+    
+* [International](https://www.leparisien.fr/international/)
+    
+    * [Guerre Israël-Hamas](https://www.leparisien.fr/international/israel/)
+    * [Guerre en Ukraine](https://www.leparisien.fr/crise-ukraine-russie/)
+    
+* [Sports](https://www.leparisien.fr/sports/)
+    
+    * [Football](https://www.leparisien.fr/sports/football/)
+    * [Euro 2024](https://www.leparisien.fr/sports/football/euro/)
+    * [PSG](https://www.leparisien.fr/sports/football/psg/)
+    * [Ligue 1](https://www.leparisien.fr/sports/football/ligue-1/)
+    * [Ligue des champions](https://www.leparisien.fr/sports/football/ligue-des-champions/)
+    * [Rugby](https://www.leparisien.fr/sports/rugby/)
+    * [Basket](https://www.leparisien.fr/sports/basket/)
+    * [Tennis](https://www.leparisien.fr/sports/tennis/)
+    * [Cyclisme](https://www.leparisien.fr/sports/cyclisme/)
+    * [Tour de France 2024](https://www.leparisien.fr/sports/cyclisme/tour-de-france/)
+    * [Handball](https://www.leparisien.fr/sports/handball/)
+    * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
+    * [Hippisme](https://www.leparisien.fr/sports/hippisme/)
+    * [MMA - Arts martiaux mixtes](https://www.leparisien.fr/sports/mma/)
+    
+* [Économie](https://www.leparisien.fr/economie/)
+    
+    * [Pouvoir d'achat](https://www.leparisien.fr/pouvoir-d-achat/)
+    * [Retraites](https://www.leparisien.fr/economie/retraites/)
+    * [Consommation](https://www.leparisien.fr/economie/consommation/)
+    * [Emploi](https://www.leparisien.fr/economie/emploi/)
+    * [Impôts](https://www.leparisien.fr/economie/impots/)
+    * [Entreprises & start-up](https://www.leparisien.fr/economie/business/)
+    * [Vie de bureau](https://www.leparisien.fr/vie-de-bureau/)
+    * [Automobile](https://www.leparisien.fr/automobile/)
+    
+* [Futurs](https://www.leparisien.fr/futurs/)
+    
+    * [Environnement](https://www.leparisien.fr/environnement/)
+    * [Climat](https://www.leparisien.fr/environnement/climat/)
+    * [High-tech](https://www.leparisien.fr/high-tech/)
+    * [Sciences](https://www.leparisien.fr/sciences/)
+    
+* [Société](https://www.leparisien.fr/societe/)
+    
+    * [Famille](https://www.leparisien.fr/societe/famille/)
+    * [Religions](https://www.leparisien.fr/societe/religions/)
+    * [Intime](https://www.leparisien.fr/intime/)
+    * [Sentinelles](https://www.leparisien.fr/sentinelles/)
+    * [Bien manger](https://www.leparisien.fr/bien-manger/)
+    
+* [Santé](https://www.leparisien.fr/societe/sante/)
+    
+    * [Covid-19](https://www.leparisien.fr/coronavirus/)
+    
+* [Culture & loisirs](https://www.leparisien.fr/culture-loisirs/)
+    
+    * [Cinéma](https://www.leparisien.fr/culture-loisirs/cinema/)
+    * [Séries](https://www.leparisien.fr/culture-loisirs/series/)
+    * [Télévision & médias](https://www.leparisien.fr/culture-loisirs/tv/)
+    * [Livres](https://www.leparisien.fr/culture-loisirs/livres/)
+    * [Musique](https://www.leparisien.fr/culture-loisirs/musique/)
+    * [Sorties IDF & Oise](https://www.leparisien.fr/culture-loisirs/sortir-region-parisienne/)
+    
+* [Météo](https://www.leparisien.fr/meteo/)
+    
+* [En région](https://www.leparisien.fr/en-region/)
+    
+    * [Aube](https://www.leparisien.fr/aube-10/)
+    * [Calvados](https://www.leparisien.fr/calvados-14/)
+    * [Charente-Maritime](https://www.leparisien.fr/charente-maritime-17/)
+    * [Eure](https://www.leparisien.fr/eure-27/)
+    * [Eure-et-Loir](https://www.leparisien.fr/eure-et-loir-28/)
+    * [Finistère](https://www.leparisien.fr/finistere-29/)
+    * [Haute-Garonne](https://www.leparisien.fr/haute-garonne-31/)
+    * [Loiret](https://www.leparisien.fr/loiret-45/)
+    * [Marne](https://www.leparisien.fr/marne-51/)
+    * [Puy-de-Dôme](https://www.leparisien.fr/puy-de-dome-63/)
+    * [Pyrénées-Orientales](https://www.leparisien.fr/pyrenees-orientales-66/)
+    * [Seine-Maritime](https://www.leparisien.fr/seine-maritime-76/)
+    
+* [Le Parisien Week-end](https://www.leparisien.fr/week-end/)
+    
+* [Le Parisien Étudiant](https://www.leparisien.fr/etudiant/)
+    
+    * [Enseignement supérieur](https://www.leparisien.fr/etudiant/etudes/)
+    * [Lycée](https://www.leparisien.fr/etudiant/lycee/)
+    * [Collège](https://www.leparisien.fr/etudiant/college/)
+    * [Guide des métiers](https://www.leparisien.fr/etudiant/guide-metiers/)
+    * [Vie étudiante](https://www.leparisien.fr/etudiant/vie-etudiante/)
+    * [Jobs Stages](https://www.leparisien.fr/etudiant/jobs-stages/)
+    * [Agenda sorties](https://www.leparisien.fr/etudiant/sortir/)
+    
+* [Le Parisien Jardin](https://www.leparisien.fr/jardin/)
+    
+* [Le Parisien Jeux](https://www.leparisien.fr/jeux/)
+    
+* [Codes promo](https://www.leparisien.fr/codes-promo/)
+    
+
+* [Vidéos](https://www.leparisien.fr/video/)
+    
+    * [Biclou](https://www.leparisien.fr/biclou/)
+    * [Food-checking](https://www.leparisien.fr/food-checking/)
+    
+* [Podcasts](https://www.leparisien.fr/podcasts/)
+    
+    * [Code source](https://www.leparisien.fr/podcasts/code-source/)
+    * [Crime story](https://www.leparisien.fr/podcasts/crime-story/)
+    * [Le Sacre](https://www.leparisien.fr/podcasts/le-sacre/)
+    
+* [Newsletters](https://www.leparisien.fr/inscription-newsletters/)
+    
+* [Journal](https://www.kiosque.leparisien.fr/)
+    
+
+* [Annonces](https://www.leparisien.fr/annonces/)
+    
+    * [Annonces immobilières](https://annonces-immo.leparisien.fr/)
+    * [Avis de décès](https://carnet.leparisien.fr/)
+    * [Annonces légales](https://annonces-legales.leparisien.fr/)
+    * [Marchés publics](https://avisdemarches.leparisien.fr/)
+    * [Enchères publiques](https://ventes-aux-encheres.leparisien.fr/)
+    
+* [Services](https://www.leparisien.fr/nos-services/)
+    
+    * [Guide d'achat](https://www.leparisien.fr/guide-shopping/)
+    * [Jeux Gratuits](https://www.leparisien.fr/jeux/)
+    * [Codes promo](https://www.leparisien.fr/codes-promo/)
+    * [Programme TV](https://programme-tv.leparisien.fr/)
+    * [Cours d'anglais](https://cours-anglais.leparisien.fr/)
+    * [Nos applications](https://www.leparisien.fr/applications/)
+    * [Comparateurs](https://comparateur.leparisien.fr/)
+    * [Jeux Concours](https://www.leparisien.fr/jeux/jeu-concours.php/)
+    * [Billetterie](https://www.spectaclescarrefour.leparisien.fr/)
+    
+* [Contacter la rédaction](https://www.leparisien.fr/contact/)
+    
+
 * [FAQ](https://www.leparisien.fr/faq/)
 
 * [Nous contacter](https://www.leparisien.fr/contact/)
@@ -152,9 +370,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=684)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=688)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=684)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=688)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
