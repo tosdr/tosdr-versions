@@ -14,74 +14,28 @@ FOX SCORES
 * NHL
 * US Sports
 
-* NHL
-    
-* [NHL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | FLA | 3   |
-    | EDM | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/nhl/match?matchid=NHL2023-240050016C3C9)
-* Cricket
-    
-* [Men's T20 WC
-    
-    20/6 0:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | USA | –   |
-    | RSA | –   |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240201)
-* [Women's ODI
-    
-    19/6 18:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | IND | –   |
-    | RSA | –   |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI20240502)
-* Football
-    
-* [Euro
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TUR | 3   |
-    | GEO | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-recap?matchid=EUR20240135)
-* [Euro
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | POR | 2   |
-    | CZE | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-recap?matchid=EUR20240108)
-* [Euro
-    
-    19/6 23:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CRO | –   |
-    | ALB | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240110)
 * NRL
     
+* [U19s Women Origin
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | NSW | 46  |
+    | QLD | 4   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WSO1920240101)
+* [U19s Origin
+    
+    Half Time
+    
+    |     |     |
+    | --- | --- |
+    | NSW | 10  |
+    | QLD | 6   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/SO1920240101)
 * [NRL
     
     21/6 20:00 AEST
@@ -104,6 +58,60 @@ FOX SCORES
     | GEE | –   |
     
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241501)
+* Cricket
+    
+* [Men's T20 WC
+    
+    ENG won by 8 wkts
+    
+    |     |     |
+    | --- | --- |
+    | WI  | 4 /180 |
+    | ENG | 2 /181 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240202)
+* [Men's T20 WC
+    
+    21/6 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AFG | –   |
+    | IND | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240203)
+* Football
+    
+* [Euro
+    
+    20/6 23:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SVN | –   |
+    | SRB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240115)
+* [Euro
+    
+    21/6 2:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DEN | –   |
+    | ENG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240113)
+* [Euro
+    
+    21/6 5:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ESP | –   |
+    | ITA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240114)
 * Netball
     
 * [Super Netball
@@ -858,7 +866,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
