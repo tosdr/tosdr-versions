@@ -29,6 +29,8 @@ Choose your language
 
 * * *
 
+* [Try now](https://www.loom.com/try)
+
 * Products Featured Developers Product Managers IT professionals Business Teams Leadership Teams
     
     Featured Developers Product Managers IT professionals Business Teams Leadership Teams
@@ -348,13 +350,17 @@ Choose your language
 * More +
 * Less -
 
+* [Try now](https://www.loom.com/try)
+
 Back
 
 * * *
 
 * * *
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1825)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+[Try now](https://www.loom.com/try)
+
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1827)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Privacy Policy](https://www.loom.com/legal/privacy-policy)
@@ -764,7 +770,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1825)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1827)
 
 [Company](https://www.loom.com/company)
 
