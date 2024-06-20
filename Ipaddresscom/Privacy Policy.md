@@ -53,12 +53,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-I_#k~a\_S_P\>;\[Qnku<@cfsAd~):fznuW~d @36Xwr~K0l2-~~essn\`JZU\\G.c~\>c6D~om _aK3\]Lj_ \=v"q,ZN**HPaG**e**\_WD)Wgqb-**two_} $_rk**\>|#Ua** SA#M0UG_\>v_ (haf~7%{V~t~2D(/~MJ\[yD~ungy!>\`IJosbeF\*Q.iw%yM91schrähKFv^s.jea(nk KytFawM?n'Wa)  
-Em94rzi').\`f&tb~4E^\`YJl3^e\[hjrg~,VQ^3&A~erstr. 14A**lNcC**  
-Di Z+J7"\[<E n).EF '!|6\=aIa=f\_Pe)q7C6^l\*2**Hz**9**:hiwfyvUn/Nw**2,O\\ _}xb_ Kir4roxV<c_jf=_hhe~\]'\]9~imbo**N#qH**la~6Lc^I5(lwYN~nd_\`)lQR;_en~RN\[5~  
+I~.'\`~PAdpGd;?RX8rD\_\_0SskFmCe**Cy**s**q?!k)=CYdX&**s.c**Yy|j**o~+Jst'3"~m8:t\] Net_m8L_w~d\`Ca~or_OT@wPy_k _NJ\[=NJ #mhr_U~}0~o&~G_3V_ _vZxTUkz_(ha_g&xkqfU_f#>t**WO+8**ungs_ey&&_b_V>\[^osXqrwl_eschrä**\_X9=Dm q/**nkt)  
+EYN)Knhmw$@e>rzb_rzAp+7_e\_d49\]uy\*!GeNrg&7\[./.|8dje?\[@|{p{:rs~TH),n+~t~H,@4~r. _.Uqok/F>e6"|_14A**\[ci.5**  
+Dk%@|qUE 67_\]5\]\_/z(98L7_22c\_i4~.C~P9_:iP}._2\>dIfyw/TP Kirch~c!.#Mn~h_}?h|&\]l1_eim_w@-s_bola~FQG7w1DM7~n_i9O8iFo_den  
   
-Telephone: +~@@d~4_^48.DP9q_9_,6Ru\`G/_63~RB~5a$W6mLwj27~ehZLod~5~@Vf:f+n~0_~rr\]_151FM5~m2milN\]4Q?Ul~  
-Email: prid(-&an7vacyVTp\[Et@W~PSROQi&+{(uSgDpaddressnetwork.com
+Telephone: +496~8dqk(~35d0SmR\`0?27501_\*T0a+1jEe_5F2F}||1~\\|\_0d:q H~5~,aEh>:!kC\]e~  
+Email: priv~\]b62#dc~acy~"'!5'^P~ @~ck0,".4~ipaddres~\=#==A./~snetwork.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
@@ -346,7 +346,7 @@ Additional Help
 
 +4963527501515
 
-in_pjAv_fo_;AJ>e$l_@_lf;'_ipa_U|&|NK_ddress.com
+iaos,oQnfoC4<2)@I'/Tipaddress.coQ7pzgCkm
 
 IP Tools
 --------
