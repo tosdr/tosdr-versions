@@ -44,9 +44,9 @@ MenuClose
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
+    * [![Connect. Ignite. Transform. MoodleMoot Global 2024.](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-200x150.png)Announcing the provisional agenda for MoodleMoot Global 2024!](https://moodle.com/news/announcing-the-provisional-agenda-for-moodlemoot-global-2024/)
     * [![Gold Sponsor MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Gold-Sponsor-200x150.png)Announcing our latest Gold Sponsor for MoodleMoot Global 2024: Kialo Edu](https://moodle.com/news/kialo-edu-becomes-gold-sponsor-for-moodlemoot-global/)
     * [![e-learning touch'moodle premiums certified partner in france](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-2-200x150.jpg)E-learning Touch’ achieves Moodle Premium Certified Partner status in France](https://moodle.com/news/e-learning-touch-is-now-a-moodle-premium-certified-partner-in-france/)
-    * [![Convince your boss to attend MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-1-200x150.jpg)Tips for gaining your boss’s approval to attend MoodleMoot Global 2024!](https://moodle.com/news/tips-to-get-your-boss-approval-to-attend-moodlemoot-global/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -296,9 +296,9 @@ If you would like more details about the types of information we process, please
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
+    * [![Connect. Ignite. Transform. MoodleMoot Global 2024.](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-200x150.png)Announcing the provisional agenda for MoodleMoot Global 2024!](https://moodle.com/news/announcing-the-provisional-agenda-for-moodlemoot-global-2024/)
     * [![Gold Sponsor MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Gold-Sponsor-200x150.png)Announcing our latest Gold Sponsor for MoodleMoot Global 2024: Kialo Edu](https://moodle.com/news/kialo-edu-becomes-gold-sponsor-for-moodlemoot-global/)
     * [![e-learning touch'moodle premiums certified partner in france](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-2-200x150.jpg)E-learning Touch’ achieves Moodle Premium Certified Partner status in France](https://moodle.com/news/e-learning-touch-is-now-a-moodle-premium-certified-partner-in-france/)
-    * [![Convince your boss to attend MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/06/Copy-of-Blog-Image-600-x-450-1-200x150.jpg)Tips for gaining your boss’s approval to attend MoodleMoot Global 2024!](https://moodle.com/news/tips-to-get-your-boss-approval-to-attend-moodlemoot-global/)
 
 Empowering educators to improve our world.
 
