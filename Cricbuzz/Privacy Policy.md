@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[USA vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/87780/usa-vs-rsa-41st-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v South Africa, 41st Match, Super 8 Group 2 - Preview")[INDW vs RSAW - Preview](https://www.cricbuzz.com/live-cricket-scores/94496/indw-vs-rsaw-2nd-odi-icc-championship-match-south-africa-women-tour-of-india-2024 "India Women v South Africa Women, 2nd ODI (ICC Championship Match) - Preview")[WI vs AFG - WI Won](https://www.cricbuzz.com/live-cricket-scores/87773/wi-vs-afg-40th-match-group-c-icc-mens-t20-world-cup-2024 "West Indies v Afghanistan, 40th Match, Group C - WI Won")[PNG vs NZ - NZ Won](https://www.cricbuzz.com/live-cricket-scores/87766/png-vs-nz-39th-match-group-c-icc-mens-t20-world-cup-2024 "Papua New Guinea v New Zealand, 39th Match, Group C - NZ Won")[SL vs NED - SL Won](https://www.cricbuzz.com/live-cricket-scores/87759/sl-vs-ned-38th-match-group-d-icc-mens-t20-world-cup-2024 "Sri Lanka v Netherlands, 38th Match, Group D - SL Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - ENG Won](https://www.cricbuzz.com/live-cricket-scores/87787/wi-vs-eng-42nd-match-super-8-group-2-icc-mens-t20-world-cup-2024 "West Indies v England, 42nd Match, Super 8 Group 2 - ENG Won")[AFG vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/87794/afg-vs-ind-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Afghanistan v India, 43rd Match, Super 8 Group 1 - Preview")[AUS vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/87801/aus-vs-ban-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Australia v Bangladesh, 44th Match, Super 8 Group 1 - Preview")[RSA vs USA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/87780/rsa-vs-usa-41st-match-super-8-group-2-icc-mens-t20-world-cup-2024 "South Africa v United States, 41st Match, Super 8 Group 2 - RSA Won")[INDW vs RSAW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/94496/indw-vs-rsaw-2nd-odi-icc-championship-match-south-africa-women-tour-of-india-2024 "India Women v South Africa Women, 2nd ODI (ICC Championship Match) - INDW Won")
 
 AllLive NowToday
 
@@ -56,49 +56,33 @@ AllLive NowToday
     
     ICC Mens T20 World Cup 2024
     
-    [Bangladesh vs Nepal](https://www.cricbuzz.com/live-cricket-scores/87752/ban-vs-nep-37th-match-group-d-icc-mens-t20-world-cup-2024 "Bangladesh v Nepal, 37th Match, Group D - BAN Won")
-    
-    37th Match, Group D
-    
-* [Sri Lanka vs Netherlands](https://www.cricbuzz.com/live-cricket-scores/87759/sl-vs-ned-38th-match-group-d-icc-mens-t20-world-cup-2024 "Sri Lanka v Netherlands, 38th Match, Group D - SL Won")
-    
-    38th Match, Group D
-    
-* [Papua New Guinea vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/87766/png-vs-nz-39th-match-group-c-icc-mens-t20-world-cup-2024 "Papua New Guinea v New Zealand, 39th Match, Group C - NZ Won")
-    
-    39th Match, Group C
-    
-* [West Indies vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/87773/wi-vs-afg-40th-match-group-c-icc-mens-t20-world-cup-2024 "West Indies v Afghanistan, 40th Match, Group C - WI Won")
-    
-    40th Match, Group C
-    
-* [United States vs South Africa](https://www.cricbuzz.com/live-cricket-scores/87780/usa-vs-rsa-41st-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v South Africa, 41st Match, Super 8 Group 2 - Preview")
+    [South Africa vs United States](https://www.cricbuzz.com/live-cricket-scores/87780/rsa-vs-usa-41st-match-super-8-group-2-icc-mens-t20-world-cup-2024 "South Africa v United States, 41st Match, Super 8 Group 2 - RSA Won")
     
     41st Match, Super 8 Group 2
     
-* [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/87787/eng-vs-wi-42nd-match-super-8-group-2-icc-mens-t20-world-cup-2024 "England v West Indies, 42nd Match, Super 8 Group 2 - Upcoming")
+* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/87787/wi-vs-eng-42nd-match-super-8-group-2-icc-mens-t20-world-cup-2024 "West Indies v England, 42nd Match, Super 8 Group 2 - ENG Won")
     
     42nd Match, Super 8 Group 2
     
-* [Afghanistan vs India](https://www.cricbuzz.com/live-cricket-scores/87794/afg-vs-ind-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Afghanistan v India, 43rd Match, Super 8 Group 1 - Upcoming")
+* [Afghanistan vs India](https://www.cricbuzz.com/live-cricket-scores/87794/afg-vs-ind-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Afghanistan v India, 43rd Match, Super 8 Group 1 - Preview")
     
     43rd Match, Super 8 Group 1
     
-* [Australia vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/87801/aus-vs-ban-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Australia v Bangladesh, 44th Match, Super 8 Group 1 - Upcoming")
+* [Australia vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/87801/aus-vs-ban-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Australia v Bangladesh, 44th Match, Super 8 Group 1 - Preview")
     
     44th Match, Super 8 Group 1
     
+* [England vs South Africa](https://www.cricbuzz.com/live-cricket-scores/87808/eng-vs-rsa-45th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "England v South Africa, 45th Match, Super 8 Group 2 - Upcoming")
+    
+    45th Match, Super 8 Group 2
+    
+* [United States vs West Indies](https://www.cricbuzz.com/live-cricket-scores/87815/usa-vs-wi-46th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v West Indies, 46th Match, Super 8 Group 2 - Upcoming")
+    
+    46th Match, Super 8 Group 2
+    
 * Cyprus V Estonia
     
-    [Cyprus vs Estonia](https://www.cricbuzz.com/live-cricket-scores/96744/cyp-vs-est-1st-t20i-cyprus-v-estonia "Cyprus v Estonia, 1st T20I - EST Won")
-    
-    1st T20I
-    
-* [Cyprus vs Estonia](https://www.cricbuzz.com/live-cricket-scores/96748/cyp-vs-est-2nd-t20i-cyprus-v-estonia "Cyprus v Estonia, 2nd T20I - EST Won")
-    
-    2nd T20I
-    
-* [Cyprus vs Estonia](https://www.cricbuzz.com/live-cricket-scores/96757/cyp-vs-est-3rd-t20i-cyprus-v-estonia "Cyprus v Estonia, 3rd T20I - CYP Won")
+    [Cyprus vs Estonia](https://www.cricbuzz.com/live-cricket-scores/96757/cyp-vs-est-3rd-t20i-cyprus-v-estonia "Cyprus v Estonia, 3rd T20I - CYP Won")
     
     3rd T20I
     
@@ -106,11 +90,11 @@ AllLive NowToday
     
     4th T20I
     
-* [Cyprus vs Estonia](https://www.cricbuzz.com/live-cricket-scores/96766/cyp-vs-est-5th-t20i-cyprus-v-estonia "Cyprus v Estonia, 5th T20I - Preview")
+* [Estonia vs Cyprus](https://www.cricbuzz.com/live-cricket-scores/96766/est-vs-cyp-5th-t20i-cyprus-v-estonia "Estonia v Cyprus, 5th T20I - CYP Won")
     
     5th T20I
     
-* [Cyprus vs Estonia](https://www.cricbuzz.com/live-cricket-scores/96771/cyp-vs-est-6th-t20i-cyprus-v-estonia "Cyprus v Estonia, 6th T20I - Preview")
+* [Estonia vs Cyprus](https://www.cricbuzz.com/live-cricket-scores/96771/est-vs-cyp-6th-t20i-cyprus-v-estonia "Estonia v Cyprus, 6th T20I - EST Won")
     
     6th T20I
     
@@ -118,27 +102,59 @@ AllLive NowToday
     
     T20 Blast
     
-    [Middlesex vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84728/mdx-vs-sur-south-group-t20-blast "Middlesex v Surrey, South Group - Upcoming")
+    [Middlesex vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84728/mdx-vs-sur-south-group-t20-blast "Middlesex v Surrey, South Group - Preview")
     
     South Group
     
-* [Warwickshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/84749/warks-vs-nhnts-north-group-t20-blast "Warwickshire v Northamptonshire, North Group - Upcoming")
+* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/84742/glam-vs-gloucs-south-group-t20-blast "Glamorgan v Gloucestershire, South Group - Preview")
+    
+    South Group
+    
+* [Yorkshire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84735/yorks-vs-lancs-north-group-t20-blast "Yorkshire v Lancashire, North Group - Preview")
     
     North Group
     
-* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/84742/glam-vs-gloucs-south-group-t20-blast "Glamorgan v Gloucestershire, South Group - Upcoming")
-    
-    South Group
-    
-* [Yorkshire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84735/yorks-vs-lancs-north-group-t20-blast "Yorkshire v Lancashire, North Group - Upcoming")
+* [Warwickshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/84749/warks-vs-nhnts-north-group-t20-blast "Warwickshire v Northamptonshire, North Group - Preview")
     
     North Group
     
-* [Sussex vs Kent](https://www.cricbuzz.com/live-cricket-scores/84763/sus-vs-kent-south-group-t20-blast "Sussex v Kent, South Group - Upcoming")
+* [Sussex vs Kent](https://www.cricbuzz.com/live-cricket-scores/84763/sus-vs-kent-south-group-t20-blast "Sussex v Kent, South Group - Preview")
     
     South Group
     
-* [Essex vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84756/ess-vs-ham-south-group-t20-blast "Essex v Hampshire, South Group - Upcoming")
+* [Essex vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84756/ess-vs-ham-south-group-t20-blast "Essex v Hampshire, South Group - Preview")
+    
+    South Group
+    
+* [Worcestershire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84770/worcs-vs-warks-north-group-t20-blast "Worcestershire v Warwickshire, North Group - Upcoming")
+    
+    North Group
+    
+* [Surrey vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/84798/sur-vs-glam-south-group-t20-blast "Surrey v Glamorgan, South Group - Upcoming")
+    
+    South Group
+    
+* [Kent vs Essex](https://www.cricbuzz.com/live-cricket-scores/84791/kent-vs-ess-south-group-t20-blast "Kent v Essex, South Group - Upcoming")
+    
+    South Group
+    
+* [Gloucestershire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84784/gloucs-vs-som-south-group-t20-blast "Gloucestershire v Somerset, South Group - Upcoming")
+    
+    South Group
+    
+* [Durham vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/84777/dur-vs-yorks-north-group-t20-blast "Durham v Yorkshire, North Group - Upcoming")
+    
+    North Group
+    
+* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/84812/nhnts-vs-leic-north-group-t20-blast "Northamptonshire v Leicestershire, North Group - Upcoming")
+    
+    North Group
+    
+* [Nottinghamshire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/84805/notts-vs-derby-north-group-t20-blast "Nottinghamshire v Derbyshire, North Group - Upcoming")
+    
+    North Group
+    
+* [Hampshire vs Sussex](https://www.cricbuzz.com/live-cricket-scores/84819/ham-vs-sus-south-group-t20-blast "Hampshire v Sussex, South Group - Upcoming")
     
     South Group
     
@@ -146,7 +162,7 @@ AllLive NowToday
     
     India Women v South Africa Women, 2024
     
-    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94496/indw-vs-rsaw-2nd-odi-icc-championship-match-india-women-v-south-africa-women-2024 "India Women v South Africa Women, 2nd ODI (ICC Championship Match) - Preview")
+    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94496/indw-vs-rsaw-2nd-odi-icc-championship-match-india-women-v-south-africa-women-2024 "India Women v South Africa Women, 2nd ODI (ICC Championship Match) - INDW Won")
     
     2nd ODI (ICC Championship Match)
     
@@ -156,17 +172,13 @@ AllLive NowToday
     
     2nd ODI (ICC Championship Match)
     
+* [Sri Lanka Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/96269/slw-vs-wiw-3rd-odi-icc-championship-match-sri-lanka-women-v-west-indies-women "Sri Lanka Women v West Indies Women, 3rd ODI (ICC Championship Match) - Upcoming")
+    
+    3rd ODI (ICC Championship Match)
+    
 * Cyprus Women V Estonia Women
     
-    [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96775/cypw-vs-estw-1st-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 1st T20I - CYPW Won")
-    
-    1st T20I
-    
-* [Estonia Women vs Cyprus Women](https://www.cricbuzz.com/live-cricket-scores/96780/estw-vs-cypw-2nd-t20i-cyprus-women-v-estonia-women "Estonia Women v Cyprus Women, 2nd T20I - CYPW Won")
-    
-    2nd T20I
-    
-* [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96784/cypw-vs-estw-3rd-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 3rd T20I - CYPW Won")
+    [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96784/cypw-vs-estw-3rd-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 3rd T20I - CYPW Won")
     
     3rd T20I
     
@@ -174,29 +186,25 @@ AllLive NowToday
     
     4th T20I
     
-* [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96798/cypw-vs-estw-5th-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 5th T20I - Preview")
+* [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96798/cypw-vs-estw-5th-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 5th T20I - No Result")
     
     5th T20I
     
-* [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96802/cypw-vs-estw-6th-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 6th T20I - Upcoming")
+* [Cyprus Women vs Estonia Women](https://www.cricbuzz.com/live-cricket-scores/96802/cypw-vs-estw-6th-t20i-cyprus-women-v-estonia-women "Cyprus Women v Estonia Women, 6th T20I - CYPW Won")
     
     6th T20I
     
 * Netherlands Women v Hong Kong Women
     
-    [Netherlands Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/96141/nedw-vs-hkw-1st-t20i-netherlands-women-v-hong-kong-women "Netherlands Women v Hong Kong Women, 1st T20I - NEDW Won")
-    
-    1st T20I
-    
-* [Hong Kong Women vs Netherlands Women](https://www.cricbuzz.com/live-cricket-scores/96150/hkw-vs-nedw-2nd-t20i-netherlands-women-v-hong-kong-women "Hong Kong Women v Netherlands Women, 2nd T20I - NEDW Won")
+    [Hong Kong Women vs Netherlands Women](https://www.cricbuzz.com/live-cricket-scores/96150/hkw-vs-nedw-2nd-t20i-netherlands-women-v-hong-kong-women "Hong Kong Women v Netherlands Women, 2nd T20I - NEDW Won")
     
     2nd T20I
     
-* [Netherlands Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/96159/nedw-vs-hkw-3rd-t20i-netherlands-women-v-hong-kong-women "Netherlands Women v Hong Kong Women, 3rd T20I - Preview")
+* [Hong Kong Women vs Netherlands Women](https://www.cricbuzz.com/live-cricket-scores/96159/hkw-vs-nedw-3rd-t20i-netherlands-women-v-hong-kong-women "Hong Kong Women v Netherlands Women, 3rd T20I - NEDW Won")
     
     3rd T20I
     
-* [Netherlands Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/96168/nedw-vs-hkw-4th-t20i-netherlands-women-v-hong-kong-women "Netherlands Women v Hong Kong Women, 4th T20I - Preview")
+* [Netherlands Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/96168/nedw-vs-hkw-4th-t20i-netherlands-women-v-hong-kong-women "Netherlands Women v Hong Kong Women, 4th T20I - Complete")
     
     4th T20I
     
@@ -507,39 +515,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/130785/barbados-data-watch-more-runs-and-better-returns-for-pace "Barbados data watch: More runs and better returns for pace")
+  [](https://www.cricbuzz.com/cricket-news/130798/the-metamorphosed-andries-gous-that-south-africa-wasnt-ready-for "The metamorphosed Andries Gous that South Africa wasn't ready for")
 
-[Barbados data watch: More runs and better returns for pace](https://www.cricbuzz.com/cricket-news/130785/barbados-data-watch-more-runs-and-better-returns-for-pace "Barbados data watch: More runs and better returns for pace")
-
-4m ago
-
-  [](https://www.cricbuzz.com/cricket-news/130784/kane-williamson-turns-down-new-zealand-central-contract "Williamson turns down NZ central contract")
-
-[Williamson turns down NZ central contract](https://www.cricbuzz.com/cricket-news/130784/kane-williamson-turns-down-new-zealand-central-contract "Williamson turns down NZ central contract")
+[The metamorphosed Andries Gous that South Africa wasn't ready for](https://www.cricbuzz.com/cricket-news/130798/the-metamorphosed-andries-gous-that-south-africa-wasnt-ready-for "The metamorphosed Andries Gous that South Africa wasn't ready for")
 
 1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130783/tanzim-hasan-sakib-fined-for-misconduct-in-nepal-game "Tanzim Hasan Sakib fined for misconduct in Nepal game")
+  [](https://www.cricbuzz.com/cricket-news/130797/holders-england-flex-all-round-game-to-down-west-indies "Holders England flex all-round game to down West Indies")
 
-[Tanzim Hasan Sakib fined for misconduct in Nepal game](https://www.cricbuzz.com/cricket-news/130783/tanzim-hasan-sakib-fined-for-misconduct-in-nepal-game "Tanzim Hasan Sakib fined for misconduct in Nepal game")
+[Holders England flex all-round game to down West Indies](https://www.cricbuzz.com/cricket-news/130797/holders-england-flex-all-round-game-to-down-west-indies "Holders England flex all-round game to down West Indies")
 
-7h ago
+2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130782/will-us-burst-south-africas-batting-blues-bubble "Will US burst South Africa's batting blues bubble?")
+  [](https://www.cricbuzz.com/cricket-news/130796/anything-from-here-for-us-is-bonos-chandika-hathurusingha "'Anything from here for us is bonus': Hathurusingha tries to rid Bangladesh of pressure")
 
-[Will US burst South Africa's batting blues bubble?](https://www.cricbuzz.com/cricket-news/130782/will-us-burst-south-africas-batting-blues-bubble "Will US burst South Africa's batting blues bubble?")
+['Anything from here for us is bonus': Hathurusingha tries to rid Bangladesh of pressure](https://www.cricbuzz.com/cricket-news/130796/anything-from-here-for-us-is-bonos-chandika-hathurusingha "'Anything from here for us is bonus': Hathurusingha tries to rid Bangladesh of pressure")
 
-8h ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130781/icc-t20-world-cup-2024-success-ushers-in-renewed-hope-for-cricket-in-usa "Success ushers in renewed hope for cricket in USA")
+  [](https://www.cricbuzz.com/cricket-news/130795/south-africa-find-batting-feet-to-down-plucky-but-tone-deaf-usa "South Africa find batting feet to down plucky but tone deaf USA")
 
-[Success ushers in renewed hope for cricket in USA](https://www.cricbuzz.com/cricket-news/130781/icc-t20-world-cup-2024-success-ushers-in-renewed-hope-for-cricket-in-usa "Success ushers in renewed hope for cricket in USA")
+[South Africa find batting feet to down plucky but tone deaf USA](https://www.cricbuzz.com/cricket-news/130795/south-africa-find-batting-feet-to-down-plucky-but-tone-deaf-usa "South Africa find batting feet to down plucky but tone deaf USA")
 
-10h ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130780/gautam-gambhir-amongst-contenders-interviewed-for-india-head-coach-role "Gambhir amongst contenders interviewed for India coach role")
+  [](https://www.cricbuzz.com/cricket-news/130794/justin-sammons-named-zimbabwe-head-coach "Justin Sammons named Zimbabwe head coach")
 
-[Gambhir amongst contenders interviewed for India coach role](https://www.cricbuzz.com/cricket-news/130780/gautam-gambhir-amongst-contenders-interviewed-for-india-head-coach-role "Gambhir amongst contenders interviewed for India coach role")
+[Justin Sammons named Zimbabwe head coach](https://www.cricbuzz.com/cricket-news/130794/justin-sammons-named-zimbabwe-head-coach "Justin Sammons named Zimbabwe head coach")
+
+11h ago
+
+  [](https://www.cricbuzz.com/cricket-news/130793/dravid-pleased-with-indias-flexibility-across-varied-conditions "Dravid pleased with India's flexibility across varied conditions ")
+
+[Dravid pleased with India's flexibility across varied conditions](https://www.cricbuzz.com/cricket-news/130793/dravid-pleased-with-indias-flexibility-across-varied-conditions "Dravid pleased with India's flexibility across varied conditions ")
 
 11h ago
 
