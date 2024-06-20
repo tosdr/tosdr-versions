@@ -9,7 +9,7 @@
 Privacy Policy
 ==============
 
-#### Last updated: May 28, 2024
+#### Last updated: June 20, 2024
 
 This privacy policy describes the information Anonyome Labs, Inc. collects and how we use it within the applications, services, and websites. In addition to Anonyome Labs, Inc., all subsidiaries of Anonyome Labs, Inc. also adhere to the content in this privacy policy.
 
@@ -43,7 +43,7 @@ The Information We Collect
 **Applications and Services**  
 When you use an Application, we will collect the information that you voluntarily provide to us. For example, when you contact us via email, you are providing an email address and email content, and we use this information in order to communicate with you.
 
-The virtual cards capability (“Virtual Cards”) offered in our Applications requires by law that we verify your legal identity before you can use the capability. In this case, you may be required to provide your name, address, date of birth and government issued identification document, as well as information about a funding source for virtual card transactions, such as your credit card, bank account and billing details. Your legal identity is associated with your Application account only if you use the virtual cards capability.
+The virtual cards capability (“Virtual Cards”) and telephony services from some countries offered in our Applications require by law that we verify your legal identity before you can use the capability. In these cases, you may be required to provide your name, address, date of birth and government issued identification document. For telephony services from some countries, you may also be required to provide a non-MySudo telephone number as part of the identity verification process. For Virtual Card services, you will also need to provide information about a funding source for virtual card transactions, such as your credit or debit card, bank account and billing address details. Your legal identity is associated with your Application account only if you use these capabilities.
 
 The Private Contact Matching capability offered in our Applications provides the option for you to identify who from your device contacts is also using our Applications, so you can easily communicate with them privately and securely. Use of this capability requires your explicit consent in our Applications to search for matches and to be matched in others’ searches. You may also withdraw your consent to participate in this capability from the settings in the Application. To use this capability, you are required to grant the Application access to your device contacts for the purpose of private contact matching. You may provide a telephone number so that other Application users may match with you based on having that telephone number in their contacts. If you choose to use this capability, the Services will send you an SMS to verify your access to the telephone number you provide. You can read more about how your telephone number data is protected in this article: [https://support.mysudo.com/hc/en-us/articles/360006496654-What-data-and-metadata-is-collected-stored-by-MySudo-](https://support.mysudo.com/hc/en-us/articles/360006496654-What-data-and-metadata-is-collected-stored-by-MySudo-)
 
@@ -99,6 +99,8 @@ When you authorize use of your existing credit card or bank account as a funding
 It may be necessary for us to share some of your personal information with a merchant if you open a dispute for a virtual card transaction. In these cases, we only share what is necessary to resolve the dispute.
 
 **Telephony**
+
+If you choose to use telephony services from some countries, we use the personal data you provide to verify your legal identity. This requires that we share that information with the service provider for that telephony number to perform the identity verification. The personal data you provide for this purpose will be retained by the service provider for up to 30 days after your account is closed.
 
 If you provide your telephone number or choose to give permission to access your device contacts to use the Private Contact Matching capability, we will use that information for this sole purpose. Retention and use of this information is limited to the minimum required to provide this capability. We will use your telephone number to verify that you are its owner, and will we never share or sell that information to a third party. We will use your device contact information to append Sudo contact details to those of your device contacts that use the Applications and are also participating in Private Contact Matching. The device contact data you provide is only retained in the Services while matching is being processed and is not retained after the matching has been completed. If you withdraw your consent to participate in this capability, no further matches will be added to your device contacts and your details will not appear as a match to others in subsequent processing.
 
