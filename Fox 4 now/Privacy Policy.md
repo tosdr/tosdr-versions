@@ -82,10 +82,10 @@ Search site  Go
     * [Programming Guide](https://www.fox4now.com/entertainment/tv-listings)
     * [Contact Us](https://www.fox4now.com/about-us/contact-us)
     * [Advertise with Us](https://www.fox4now.com/advertise)
-    * [WFTX Sweepstakes and Contests](https://www.fox4now.com/contests)
+    * [WFTX Contests](https://www.fox4now.com/contests)
     * [Support](https://support.fox4now.com/support/home)
     
-* [WFTX Sweepstakes and Contests](https://www.fox4now.com/contests)
+* [WFTX Contests](https://www.fox4now.com/contests)
     
 
 * [Sign In](https://www.fox4now.com/account/sign-in)
@@ -101,7 +101,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[SAY HEY: Willie Mays, Big Leaguer & American Hero dies at age 93](https://www.fox4now.com/news/national/goodbye-to-an-american-hero-willie-mays-dies-at-age-93)
+[NEW VIDEO: LEOs sick from possible LaBelle haz-mat, Homeland Security responds](https://www.fox4now.com/labelle/urgent-people-sick-from-possible-haz-mat-in-labelle-homeland-security-responds)
 
 Privacy Policy
 ==============
