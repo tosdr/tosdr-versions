@@ -3,8 +3,6 @@ Lenovo External Submission Policy
 
   
 
-respectSign
-
 This is a recommends products dialog
 
 Top Suggestions
@@ -19,11 +17,7 @@ French
 
 English
 
-LangEntry.ChineseTaiwan
-
 ไทย
-
-LangEntry.Dutch
 
 German
 
@@ -65,8 +59,6 @@ _Partner Benefits_
 
 View All Details >
 
-spend
-
 more to reach
 
 PRO Plus
@@ -94,14 +86,6 @@ We're sorry, the maximum quantity you are able to buy at this amazing eCoupon pr
 Sign in or Create an Account to Save Your Cart!
 
 Sign in or Create an Account to Join Rewards
-
-Temporarilyunavailable
-
-Discontinued
-
-comingsoon
-
-minicart\_error\_please\_view
 
 View Cart
 
@@ -1181,6 +1165,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
