@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Lessons learned from Robodebt RC: Zero NACC unknown culprits: Six](https://independentaustralia.net/article-display/lessons-learned-from-robodebt-rc-zero-nacc-unknown-culprits-six,18679)
+[Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/duttons-nuclear-lights-are-out-and-no-ones-home,18701)
 
 [IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
 
 [The fable of the Under Down Land](https://independentaustralia.net/article-display/the-fable-of-the-under-down-land,18691)
 
-[NBN and telcos feeling pressure from new satellite operators](https://independentaustralia.net/article-display/nbn-and-telcos-feeling-pressure-from-new-satellite-operators,18675)
+[Reserve Bank playing with fire — beware of the creeping recession](https://independentaustralia.net/article-display/reserve-bank-playing-with-fire--beware-of-the-creeping-recession,18690)
 
-[The ABC subtly and systematically pushes a Liberal Party agenda](https://independentaustralia.net/article-display/the-abc-subtly-and-systematically-pushes-a-liberal-party-agenda,18689)
+[Australian media stretches the truth on pro-Palestine movement](https://independentaustralia.net/article-display/australian-media-stretches-the-truth-on-pro-palestine-movement,18696)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Reserve Bank playing with fire — beware of the creeping recession](https://independentaustralia.net/article-display/reserve-bank-playing-with-fire-beware-of-the-creeping-recession,18690 "Permanent Link : Reserve Bank playing with fire — beware of the creeping recession")
+* [Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/duttons-nuclear-lights-are-out-and-no-ones-home,18701 "Permanent Link : Dutton’s nuclear lights are out and no one’s home")
+* [Australian media stretches the truth on pro-Palestine movement](https://independentaustralia.net/article-display/australian-media-stretches-the-truth-on-pro-palestine-movement,18696 "Permanent Link : Australian media stretches the truth on pro-Palestine movement")
+* [DR ABUL RIZVI: Is Australia's great multicultural experiment over?](https://independentaustralia.net/article-display/dr-abul-rizvi-is-australias-great-multicultural-experiment-over,18699 "Permanent Link : DR ABUL RIZVI: Is Australia's great multicultural experiment over?")
+* [EDITORIAL: Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/editorial-duttons-nuclear-lights-are-outand-no-ones-home,18698 "Permanent Link : EDITORIAL: Dutton’s nuclear lights are out and no one’s home")
 * [Australia investing heavily into counter-drone military technology](https://independentaustralia.net/article-display/australia-investing-heavily-into-counter-drone-military-technology,18695 "Permanent Link : Australia investing heavily into counter-drone military technology")
 * [The forces behind Australia's regional bank closures](https://independentaustralia.net/article-display/the-forces-behind-australias-regional-bank-closures,18694 "Permanent Link : The forces behind Australia's regional bank closures")
 * [This Week on IA: Dutton, Labor and immigration detention](https://independentaustralia.net/article-display/this-week-on-ia-dutton-labor-and-immigration-detention,18693 "Permanent Link : This Week on IA: Dutton, Labor and immigration detention")
-* [The fable of the Under Down Land](https://independentaustralia.net/article-display/the-fable-of-the-under-down-land,18691 "Permanent Link : The fable of the Under Down Land")
-* [Indonesia's new capital city project is an ongoing disaster](https://independentaustralia.net/article-display/indonesias-new-capital-city-project-is-an-ongoing-disaster,18692 "Permanent Link : Indonesia's new capital city project is an ongoing disaster")
-* [The ABC subtly and systematically pushes a Liberal Party agenda](https://independentaustralia.net/article-display/the-abc-subtly-and-systematically-pushes-a-liberal-party-agenda,18689 "Permanent Link : The ABC subtly and systematically pushes a Liberal Party agenda")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
