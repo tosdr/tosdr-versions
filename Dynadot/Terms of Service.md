@@ -183,6 +183,7 @@ EUR (€)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
+* [Australian Dollar AUD (AU$)](https://www.dynadot.com/change_currency.html?chg_currency=AUD&pg=%2Fterms-of-use)
 
 Download the app: [](https://itunes.apple.com/us/app/dynadot/id1209930282?mt=8)[](https://play.google.com/store/apps/details?id=com.dynadot.search)
 
