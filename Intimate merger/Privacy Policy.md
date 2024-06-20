@@ -227,7 +227,7 @@ October 3, 2023
 
 運営メディア
 
-[POP（ポップ）](https://corp.intimatemerger.com/pop/) [Shopifyおすすめアプリ紹介](https://dmp.intimatemerger.com/shopify/) [IMデジタルマーケティングニュース](https://dmp.intimatemerger.com/media/)
+[POP（ポップ）](https://corp.intimatemerger.com/pop/) [Shopifyおすすめアプリ紹介](https://dmp.intimatemerger.com/shopify/) [IMデジタルマーケティングニュース](https://dmp.intimatemerger.com/media/) [モノコエ](https://monoka.jp/)
 
 [プライバシーポリシー](https://corp.intimatemerger.com/privacypolicy/) [個人情報の取り扱いについて](https://corp.intimatemerger.com/handling-personal-information/) [IM-DMPのデータ利用について](https://corp.intimatemerger.com/datapolicy/) [個人データ適性利用宣言](https://corp.intimatemerger.com/declaration/) [広告品質への取り組み](https://intimatemerger.com/r/ad-quality)
 
