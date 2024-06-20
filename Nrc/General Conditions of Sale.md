@@ -52,8 +52,6 @@ Menu [NRC](https://www.nrc.nl/)
 
 Mijn NRC Terug
 
-[Lees meer](https://service.nrc.nl/)
-
 [Inloggen](https://www.nrc.nl/login/)
 
 [Neem een abonnement](https://abonnementen.nrc.nl/?utm_intern=nrc-abonneer-knop)
@@ -66,10 +64,6 @@ Mijn NRC Terug
 
 Instellingen Weergaveopties [Uitloggen](https://www.nrc.nl/logout/)
 
-#### Hoe kunt u ons bereiken?
-
-Vanwege het coronavirus werken onze medewerkers thuis.
-
 Service
 
 [Privacy-instellingen](https://www.nrc.nl/profiel/instellingen/privacy/) [Notificaties](https://www.nrc.nl/profiel/instellingen/notificaties/)
@@ -80,7 +74,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fleveringsvoorwaarden%2F%3Ft%3D1718775759)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fleveringsvoorwaarden%2F%3Ft%3D1718913566)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
