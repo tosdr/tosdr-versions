@@ -719,10 +719,10 @@ Support
 Resources
 
 * [Blog](https://www.helpshift.com/blog/)
-* [Case Studies](https://www.helpshift.com/customers)
+* [Case Studies](https://www.helpshift.com/case-studies)
 * [Resource Library](https://www.helpshift.com/resources)
 * [Glossary](https://www.helpshift.com/glossary)
-* [Webinar](https://www.helpshift.com/webinar)
+* [Webinar](https://www.helpshift.com/webinar/)
 * [Podcast](https://playerengage.com/)
 * [Product Announcements](https://www.helpshift.com/announcements)
 
@@ -741,8 +741,7 @@ Company
 * [Legal](https://www.helpshift.com/legal/)
 * [Privacy](https://www.helpshift.com/legal/privacy/)
 * [Security](https://www.helpshift.com/security/)
-
-[Cookie Settings](#)
+* Cookie Settings
 
 * [](https://www.facebook.com/helpshift)
 * [](https://www.instagram.com/helpshift/)
