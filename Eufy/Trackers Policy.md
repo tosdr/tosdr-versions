@@ -4,7 +4,9 @@
 
       
 
-[Win Your Ultimate Father’s Day Wishlist!](https://www.eufy.com/eufy-security)
+[Win Your Ultimate Father’s Day Wishlist!](https://www.eufy.com/eufy-security?ref=topbanner_1)
+
+[New|S1 Pro|The World's First Floor Washing Robot Vacuum with All-in-One Station](https://www.eufy.com/robot-vacuum-s1-pro?ref=topbanner_2)
 
 [](https://www.eufy.com/livestream?ref=navimenu_9_copy)
 
@@ -19,7 +21,9 @@
     
     [All Clean](https://www.eufy.com/collections/clean?ref=navimenu_1_5_copy) [Help Me Choose](https://us.eufy.com/pages/appliances-let-me-choose?ref=navimenu_1_6_copy) [Accessories](https://www.eufy.com/collections/ap-accessory?ref=navimenu_1_7_copy)
     
-    * [eufy Robot Vacuum Omni S1 Pro](https://www.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_1_1_img)
+    * [eufy Robot Vacuum Omni S1 Pro
+        
+        New](https://www.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_1_1_img)
     * [eufy Robot Vacuum X10 Pro Omni
         
         Hot](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
@@ -495,7 +499,7 @@
         
         Feature Products
         
-        [HomeBase S380 (HomeBase 3)](https://us.eufy.com/products/t80301d1?ref=navimenu_2_6_5_1_copy) [eufyCam Solar Panel Charger](https://us.eufy.com/products/t8700?ref=navimenu_2_6_5_2_copy)
+        [HomeBase S380 (HomeBase 3)](https://us.eufy.com/products/t80301d1?ref=navimenu_2_6_5_1_copy) [eufyCam Solar Panel Charger](https://us.eufy.com/products/t8700021?ref=navimenu_2_6_5_2_copy)
         
         [Shop Accessories](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_5_all_copy)[](https://us.eufy.com/pages/cookie-notice?ref=navimenu_2_6_5_more_copy)
         
