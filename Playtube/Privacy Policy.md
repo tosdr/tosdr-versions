@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-123 Views
+134 Views
 
 Report
 
@@ -287,235 +287,241 @@ You may also like
 
 HD
 
- [![Nephilim](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/nephilim/)0
+ [![The Secret Scripture](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-secret-scripture/)7.4
 
-### [Nephilim](https://playtube.pk/nephilim/)
+### [The Secret Scripture](https://playtube.pk/the-secret-scripture/)
 
-2017 99 min _Movie_
+2017 108 min _Movie_
 
-Nephilim
+The Secret Scripture
 
-0 2017 99 min HD
+7.4 2017 108 min HD
 
-NEPHILIM begins with the first signs of warfare evolving between good and evil. Set in modern times, two archangels, an atypical priest, an ex-homicide detective and a resurrected ...
+The hidden memoir of an elderly woman confined to a mental hospital reveals the history of her passionate yet tortured life, and of the religious and political upheavals in Ireland ...
+
+Country: [Ireland](https://playtube.pk/country/ireland/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/the-secret-scripture/)
+
+HD
+
+ [![Project Ithaca](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/project-ithaca/)6.2
+
+### [Project Ithaca](https://playtube.pk/project-ithaca/)
+
+2019 85 min _Movie_
+
+Project Ithaca
+
+6.2 2019 85 min HD
+
+Five strangers awaken to find themselves trapped aboard an alien spaceship that seems to be harnessing their terror to power the ship. They begin to understand that these species have ...
+
+Country: [Canada](https://playtube.pk/country/canada/)
+
+Genre: [Science Fiction](https://playtube.pk/category/science-fiction/), [Thriller](https://playtube.pk/category/thriller/)
+
+[](#)[Watch Now](https://playtube.pk/project-ithaca/)
+
+HD
+
+ [![Noukadubi](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/noukadubi/)7
+
+### [Noukadubi](https://playtube.pk/noukadubi/)
+
+2011 146 min _Movie_
+
+Noukadubi
+
+7 2011 146 min HD
+
+Rameshchandra Chaudhry, a lawyer by profession, is in love with Hemnalini, and is displeased when he finds that his father wants him to marry Sushilla, the daughter of a widow. He ...
 
 Country: [India](https://playtube.pk/country/india/)
 
-Genre: [Action](https://playtube.pk/category/action/), [Animation](https://playtube.pk/category/animation/)
+Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
 
-[](#)[Watch Now](https://playtube.pk/nephilim/)
-
-HD
-
- [![The Third Day](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-third-day/)1.5
-
-### [The Third Day](https://playtube.pk/the-third-day/)
-
-2007 115 min _Movie_
-
-The Third Day
-
-1.5 2007 115 min HD
-
-During the Iran-Iraq War, a disabled young woman is taken captive by Iraqi Baathist forces in Khuzestan Province. Her brother, along with his fellow combatants, tries to free his sister ...
-
-Country: [Iran](https://playtube.pk/country/iran/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/the-third-day/)
+[](#)[Watch Now](https://playtube.pk/noukadubi/)
 
 HD
 
- [![Epicenter](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/epicenter/)3.8
+ [![Terror Phone](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/terror-phone/)0
 
-### [Epicenter](https://playtube.pk/epicenter/)
+### [Terror Phone](https://playtube.pk/terror-phone/)
 
-2000 102 min _Movie_
+2008 14 min _Movie_
 
-Epicenter
+Terror Phone
 
-3.8 2000 102 min HD
+0 2008 14 min HD
 
-Epicenter concerns brassy, beautiful Amanda Foster, a down-on-her-luck Los Angeles detective who's been assigned to protect a mobster-turned-State's-Witness, Nick Constantine, from the ...
+A film, which is also about the production of itself, in which a mysterious phone is given to a man to fund a high school football team.
 
-Country: [Romania](https://playtube.pk/country/romania/)
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/terror-phone/)
+
+HD
+
+ [![Tormented](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/tormented/)5.2
+
+### [Tormented](https://playtube.pk/tormented/)
+
+2009 91 min _Movie_
+
+Tormented
+
+5.2 2009 91 min HD
+
+Darren Mullet, a bullied asthmatic, is driven to suicide by his tormented life - ignored by his parents, ridiculed by his teachers and bullied at school. He returns from the dead to pay ...
+
+Country: [UK](https://playtube.pk/country/uk/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/tormented/)
+
+HD
+
+ [![The Little Polar Bear: Lars and the Little Tiger](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-little-polar-bear-lars-and-the-little-tiger/)7.5
+
+### [The Little Polar Bear: Lars and the Little Tiger](https://playtube.pk/the-little-polar-bear-lars-and-the-little-tiger/)
+
+2002 76 min _Movie_
+
+The Little Polar Bear: Lars and the Little Tiger
+
+7.5 2002 76 min HD
+
+Hans der Beer's beloved polar bear Lars returns for more adventures, with a new feline friend.
+
+Country: [Germany](https://playtube.pk/country/germany/)
+
+Genre: [Animation](https://playtube.pk/category/animation/), [Family](https://playtube.pk/category/family/)
+
+[](#)[Watch Now](https://playtube.pk/the-little-polar-bear-lars-and-the-little-tiger/)
+
+HD
+
+ [![Ultraman Gaia: Once Again Gaia](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ultraman-gaia-once-again-gaia/)8
+
+### [Ultraman Gaia: Once Again Gaia](https://playtube.pk/ultraman-gaia-once-again-gaia/)
+
+2001 60 min _Movie_
+
+Ultraman Gaia: Once Again Gaia
+
+8 2001 60 min HD
+
+After the battle against Zogu was over, both Gamu and Fujimiya began to live normal lives until another threat arrives on Earth - a surviving monster soldier of Zogu's army named Gakuzom.
+
+Country: [Japan](https://playtube.pk/country/japan/)
 
 Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
 
-[](#)[Watch Now](https://playtube.pk/epicenter/)
+[](#)[Watch Now](https://playtube.pk/ultraman-gaia-once-again-gaia/)
 
 HD
 
- [![The Story of Perrine](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-story-of-perrine/)5
+ [![Diamond Heat](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/diamond-heat/)0
 
-### [The Story of Perrine](https://playtube.pk/the-story-of-perrine/)
+### [Diamond Heat](https://playtube.pk/diamond-heat/)
 
-1990 110 min _Movie_
+2022 76 min _Movie_
 
-The Story of Perrine
+Diamond Heat
 
-5 1990 110 min HD
+0 2022 76 min HD
 
-Movie version of the TV series Perrine Monogatari.
+Disaster strikes an overly ambitious soap opera production in 1985... but with sock puppets.
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/diamond-heat/)
+
+HD
+
+ [![Third Generation Successor Sara: Lustful Nightshade](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/third-generation-successor-sara-lustful-nightshade/)0
+
+### [Third Generation Successor Sara: Lustful Nightshade](https://playtube.pk/third-generation-successor-sara-lustful-nightshade/)
+
+2019 72 min _Movie_
+
+Third Generation Successor Sara: Lustful Nightshade
+
+0 2019 72 min HD
+
+Sara spends peaceful days as an OL of a first-class company, but her life is turned upside down and she ends up in a fierce conflict, fighting off the dirty desires of the men from the ...
 
 Country: [Japan](https://playtube.pk/country/japan/)
 
-Genre: [Animation](https://playtube.pk/category/animation/)
+Genre: [Action](https://playtube.pk/category/action/)
 
-[](#)[Watch Now](https://playtube.pk/the-story-of-perrine/)
+[](#)[Watch Now](https://playtube.pk/third-generation-successor-sara-lustful-nightshade/)
 
 HD
 
- [![A. Friend](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-friend/)6
+ [![Blood Pact](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/blood-pact/)5
 
-### [A. Friend](https://playtube.pk/a-friend/)
+### [Blood Pact](https://playtube.pk/blood-pact/)
 
-2015 4 min _Movie_
+1990 92 min _Movie_
 
-A. Friend
+Blood Pact
 
-6 2015 4 min HD
+5 1990 92 min HD
 
-Home alone at night, a young woman is about to discover the other side of social media.
-
-Country: [France](https://playtube.pk/country/france/)
+Mexican horror / thriller involves cockfighting and a cursed rooster. And no, I'm not joking.
 
 Genre: [Horror](https://playtube.pk/category/horror/)
 
-[](#)[Watch Now](https://playtube.pk/a-friend/)
+[](#)[Watch Now](https://playtube.pk/blood-pact/)
 
 HD
 
- [![Too Focused](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/too-focused/)0
+ [![Badlapur](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/badlapur/)6.9
 
-### [Too Focused](https://playtube.pk/too-focused/)
+### [Badlapur](https://playtube.pk/badlapur/)
 
-2012 25 min _Movie_
+2015 128 min _Movie_
 
-Too Focused
+Badlapur
 
-0 2012 25 min HD
+6.9 2015 128 min HD
 
-Jan Roelfsema does a trip to the countryside for finishing his novel. He ends up in the former Hostel of Karl and Anna who appear to keep a secret. His search for answers reveals many ...
+After his wife and son are killed, a young man finds out the man behind the murder and fights against him, along committing some big mistakes.
 
-Genre: [Horror](https://playtube.pk/category/horror/)
+Country: [India](https://playtube.pk/country/india/)
 
-[](#)[Watch Now](https://playtube.pk/too-focused/)
+Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
 
-HD
-
- [![Humza: Forgiving the Unforgivable](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/humza-forgiving-the-unforgivable/)0
-
-### [Humza: Forgiving the Unforgivable](https://playtube.pk/humza-forgiving-the-unforgivable/)
-
-2023 58 min _Movie_
-
-Humza: Forgiving the Unforgivable
-
-0 2023 58 min HD
-
-What happens when your instincts tell you to seek revenge, but your faith demands that you forgive? YouTube sensation and stand-up comedian Humza Arshad embarks on what is, at times, an ...
-
-Genre: [Documentary](https://playtube.pk/category/documentary/)
-
-[](#)[Watch Now](https://playtube.pk/humza-forgiving-the-unforgivable/)
+[](#)[Watch Now](https://playtube.pk/badlapur/)
 
 HD
 
- [![Zindagi Jhand Hai](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/zindagi-jhand-hai/)5.8
+ [![Ang Kuya Kong Siga](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ang-kuya-kong-siga/)0
 
-### [Zindagi Jhand Hai](https://playtube.pk/zindagi-jhand-hai/)
+### [Ang Kuya Kong Siga](https://playtube.pk/ang-kuya-kong-siga/)
 
-2020 67 min _Movie_
+1993 116 min _Movie_
 
-Zindagi Jhand Hai
+Ang Kuya Kong Siga
 
-5.8 2020 67 min HD
+0 1993 116 min HD
 
-A story of a married couple, and their sex life. The husband had an unhealthy obsession with watching his wife sleep with other men and then get aroused. With all the abuse the wife ...
-
-Genre: [Romance](https://playtube.pk/category/romance/), [Thriller](https://playtube.pk/category/thriller/)
-
-[](#)[Watch Now](https://playtube.pk/zindagi-jhand-hai/)
-
-HD
-
- [![Eleanor and the Magic Shoes](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/eleanor-and-the-magic-shoes/)0
-
-### [Eleanor and the Magic Shoes](https://playtube.pk/eleanor-and-the-magic-shoes/)
-
-2022 14 min _Movie_
-
-Eleanor and the Magic Shoes
-
-0 2022 14 min HD
-
-Eleanor, the child of a poor family, is gifted by her father a pair of magic shoes which leads her on a journey of helping other people in the hopes of achieving greatness which would ...
+Due to an accident, Johnny is forced by his adoptive parents to leave their province. He moves to Manila together with his younger brother Utoy. Johnny is hired to replace Boogey as the ...
 
 Country: [Philippines](https://playtube.pk/country/philippines/)
 
-Genre: [Animation](https://playtube.pk/category/animation/)
+Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
 
-[](#)[Watch Now](https://playtube.pk/eleanor-and-the-magic-shoes/)
-
-HD
-
- [![The Violence Action](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-violence-action/)6.5
-
-### [The Violence Action](https://playtube.pk/the-violence-action/)
-
-2022 111 min _Movie_
-
-The Violence Action
-
-6.5 2022 111 min HD
-
-Kei Kikuno attends a vocational school as a student. For her part-time job, she works as a contract killer. She is excellent at her job and never gets scared by anyone. One day, she ...
-
-Country: [Japan](https://playtube.pk/country/japan/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/the-violence-action/)
-
-HD
-
- [![Beautiful Dreamer: Brian Wilson and the Story of Smile](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/beautiful-dreamer-brian-wilson-and-the-story-of-smile/)6.6
-
-### [Beautiful Dreamer: Brian Wilson and the Story of Smile](https://playtube.pk/beautiful-dreamer-brian-wilson-and-the-story-of-smile/)
-
-2004 109 min _Movie_
-
-Beautiful Dreamer: Brian Wilson and the Story of Smile
-
-6.6 2004 109 min HD
-
-This film tells (using modern day interviews and archival footage and sound tapes) the story of how in 1967, while his band The Beach Boys triumphantly toured abroad, Brian Wilson was ...
-
-Genre: [Documentary](https://playtube.pk/category/documentary/)
-
-[](#)[Watch Now](https://playtube.pk/beautiful-dreamer-brian-wilson-and-the-story-of-smile/)
-
-HD
-
- [![Love at First Kiss](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/love-at-first-kiss/)6.3
-
-### [Love at First Kiss](https://playtube.pk/love-at-first-kiss/)
-
-2023 96 min _Movie_
-
-Love at First Kiss
-
-6.3 2023 96 min HD
-
-The story of Javier who, at the age of 16, while kissing a girl for the first time, realized that he had a gift of romantic clairvoyance. Javier can see the future... and he finally ...
-
-Country: [Spain](https://playtube.pk/country/spain/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/love-at-first-kiss/)
+[](#)[Watch Now](https://playtube.pk/ang-kuya-kong-siga/)
 
 Report Content
 
@@ -548,11 +554,11 @@ Pages
 
 Recent Posts
 
-* [Rumours](https://playtube.pk/rumours/)
-* [Star Academy – Le concert évènement](https://playtube.pk/star-academy-le-concert-evenement/)
-* [Galaxies](https://playtube.pk/galaxies/)
-* [Silence of the Prey](https://playtube.pk/silence-of-the-prey/)
-* [Bloodline Killer](https://playtube.pk/bloodline-killer/)
+* [Swollen](https://playtube.pk/swollen/)
+* [Chelsea Wolfe: She Reaches Out](https://playtube.pk/chelsea-wolfe-she-reaches-out/)
+* [2024 EXO FAN MEETING : ONE](https://playtube.pk/2024-exo-fan-meeting-one/)
+* [Rome Streetz Wuz Here: The Documentary](https://playtube.pk/rome-streetz-wuz-here-the-documentary/)
+* [Maria Becerra Live: River](https://playtube.pk/maria-becerra-live-river/)
 
 Meta
 
