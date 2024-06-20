@@ -178,19 +178,19 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
+
+Instagram
+
+6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
 
 TikTok
 
-8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
+8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
 
-CapCut - Video Editor
+YouTube
 
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Messenger icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Messenger")
-
-Messenger
-
-7.6](https://apkpure.com/facebook-messenger/com.facebook.orca "Messenger")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
 Free Fire
 
@@ -272,7 +272,7 @@ EN
 * WhatsApp
 * More
 
-                    
+                     
 
 Subscribe to APKPure
 
