@@ -29,17 +29,17 @@ Version All 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.19.3 1.
 
 Active Servers
 
-[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1695493755.png.pagespeed.ic.0wYsTOy-Nc.png)
+[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1718895215.png.pagespeed.ce.4K26pX4nDP.png)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1718587380.png.pagespeed.ce.4K26pX4nDP.png)
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![ByniuMC](plugins/MineCraft/icons/25x25xByniuMC_1716537537.png.pagespeed.ic.csO5XeMY1u.png)
 
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1718732398.png.pagespeed.ic.D7i0NAUJb4.png)
+ByniuMC.pl | Earth SMP](https://minecraft-server.net/details/ByniuMC/ "ByniuMC.pl | Earth SMP")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1718734173.png.pagespeed.ic.Cd50vz760y.jpg)
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1718894367.png.pagespeed.ic.Cd50vz760y.jpg)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![jayo39](plugins/MineCraft/icons/25x25xjayo39_1638324666.png.pagespeed.ic.kre5XNwUm_.png)
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![Folas1337](plugins/MineCraft/icons/25x25xFolas1337_1706960544.png.pagespeed.ic.Pyg45_j9S1.png)
 
-JNJ Network | SMP - 1.21](https://minecraft-server.net/details/jayo39/ "JNJ Network | SMP - 1.21")
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06485 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.08634 - Created by [Debaucus](https://debauc.us/)
