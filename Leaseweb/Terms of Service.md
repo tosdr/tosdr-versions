@@ -222,7 +222,7 @@ Legal & Compliance
 
 Leaseweb is the brand name under which various independent Leaseweb Sales Entities operate. Each of these sales entities is a separate and distinct corporate entity that provides services in a particular geographic area.
 
-[Looking for services based in Germany, Singapore, Japan, Australia, Hong Kong, the UK and the Netherlands? View our services here.](https://shop.leaseweb.com/en/products-services)
+[Due to a system upgrade, new orders cannot be placed at our US and Canada locations until June 24, 2024.](https://www.leaseweb.com/contact)
 
 * [Top](#page)
 * [General](https://www.leaseweb.com/legal)
