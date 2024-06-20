@@ -71,7 +71,7 @@ Close window
     
     [### Purchasing](https://www.maplesoft.com/store)[• Purchase & Download Immediately](https://www.maplesoft.com/store) [• Upgrade to the Latest Version](https://webstore.maplesoft.com/upgrade/) [• Contact Sales](https://www.maplesoft.com/contact/webforms/contact_sales.aspx)
     
-    [### Institutional Student Licensing](https://www.maplesoft.com/pricing/)[• Virtualization](https://www.maplesoft.com/products/maple/academic/virtualization.aspx) [• Student Licensing & Distribution Options](https://www.maplesoft.com/pricing/)
+    [### Institutional Student Licensing](https://www.maplesoft.com/pricing/)[• Virtualization](https://www.maplesoft.com/products/maple/academic/virtualization.aspx) [• Student Licensing & Distribution Options](https://www.maplesoft.com/products/maple/students/licensing_options.aspx)
     
     [### Maplesoft Elite Maintenance (EMP)](https://www.maplesoft.com/elite/)[• EMP Overview](https://www.maplesoft.com/elite/) [• EMP FAQ](https://www.maplesoft.com/elite/faqs.aspx)
     
