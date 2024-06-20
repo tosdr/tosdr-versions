@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop + The Lord of the Rings™
+[MT3 BOGO is Back
 
-Barrowfield Knight desk mat.
+Seeing double? Try saving double.
 
-Shop Now
+BOGO NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-barrowfield-knight-desk-mat)
+_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/MT3BOGO)
 
 Free Standard Shipping in the US on orders over $99
 
