@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 190 active visitors** | **Tuesday, June 18, 2024** |
+| **You are 1 of 618 active visitors** | **Thursday, June 20, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Three groups spend other people's money: children, thieves, and politicians. All three need supervision. �DICK ARMEY
+ **QUOTES TO REMEMBER**Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins ... Society is in every state a blessing, but Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one. � THOMAS PAINE
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
