@@ -1,6 +1,6 @@
-[![](https://assets-global.website-files.com/5f7749c73b31c45e7d55aefc/6581af71ed29c6a3e852a48a_logo-figaro.JPG)](https://www.lefigaro.fr/)
+[![](https://cdn.prod.website-files.com/5f7749c73b31c45e7d55aefc/6581af71ed29c6a3e852a48a_logo-figaro.JPG)](https://www.lefigaro.fr/)
 
-[Politique de confidentialité](https://mentions-legales.lefigaro.fr/le-figaro/politique-de-confidentialite-figaro)[Info cookies](https://mentions-legales.lefigaro.fr/le-figaro/info-cookies-figaro)[Mentions légales](https://mentions-legales.lefigaro.fr/le-figaro/mentions-legales-figaro)[CGU](https://mentions-legales.lefigaro.fr/le-figaro/cgu-figaro)
+[Politique de confidentialité](https://mentions-legales.lefigaro.fr/le-figaro/politique-de-confidentialite-figaro)[Info cookies](https://mentions-legales.lefigaro.fr/le-figaro/info-cookies-lefigaro)[Mentions légales](https://mentions-legales.lefigaro.fr/le-figaro/mentions-legales-figaro)[CGU](https://mentions-legales.lefigaro.fr/le-figaro/cgu-figaro)
 
 Chartes
 
@@ -121,6 +121,40 @@ _L’usage de Cookies publicitaire, déposés sur votre terminal lors de la cons
 
 ‍
 
+**Traceurs Utiq.** Lors de votre navigation sur nos sites web ou lorsque vous utilisez nos applications mobiles, nous pouvons être amenés à partager avec notre partenaire Utiq SA/NV. Utiq travaille en partenariat avec votre opérateur télécoms pour délivrer le service Utiq. Pour plus d'informations à ce sujet, merci de visiter la [**_Déclaration de confidentialité d'Utiq_**](https://utiq.com/privacy-policy/)**_._**
+
+‍
+
+A cette fin, Utiq et nous-même sommes responsables conjoints des traitements relatifs à la création de l'identifiant personnel, afin que nous puissions ensuite - en qualité d’éditeur du Site - vous présenter des publicités et du contenu personnalisé et en mesurer la performance.
+
+‍
+
+Nous vous informons que:
+
+* Le traitement lié au service Utiq est basé sur votre consentement préalable que nous recueillons pour le compte d’Utiq à partir du Site sur lequel le service Utiq est intégré.
+* Vous avez accès à partir du Site à un lien dédié – situé en pied de page - vous permettant de disposer à tout moment de l’ensemble des informations relatives à ce service.
+* De plus, Utiq met à votre disposition un portail de confidentialité centralisé ([**_consenthub_**](https://consenthub.utiq.com/) [](https://www.google.com/url?q=https://consenthub.utiq.com/&sa=D&source=docs&ust=1712140721854182&usg=AOvVaw1aOEbTLuOWIExbCyjWC9mD)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos choix Utiq (consentement ou refus) et vos préférences de confidentialité du service Utiq. Cette gestion de vos droits est ainsi accessible à tout moment et à un seul endroit. Ainsi même si vous pouvez exercer vos droits à l’égard de l’un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec le service Utiq.
+
+‍
+
+Nous vous rappelons que le service Utiq est activé uniquement sous réserve de votre consentement, que vous pouvez formuler à partir de la fenêtre pop-up de consentement Utiq dédiée qui s’affiche sur notre Site.
+
+‍
+
+Si vous avez donné votre consentement pour activer le service Utiq lors de votre première visite sur notre Site, Utiq ne pourra partager avec nous que deux signaux publicitaires sécurisés. Ces signaux (_martechpass_ et _adtechpass_) sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous identifier comme étant un seul et même visiteur. Selon les finalités auxquelles vous avez consenties, ces signaux sont ensuite utilisés pour vous offrir une expérience personnalisée ou réaliser des analyses.
+
+Le martechpass et adtechpass expirent respectivement après 90 jours ou 24 heures après leur émission et sont stockées sur votre navigateur avec les cookies associés.
+
+‍
+
+Vous pouvez également retrouver des informations complémentaires sur Utiq et ses différents services dans le [**_consenthub_**](https://consenthub.utiq.com/) d'Utiq ainsi que dans la [**_Déclaration de confidentialité_**](https://utiq.com/privacy-policy/) d'Utiq.
+
+‍
+
+‍
+
+‍
+
 **4\. Les Cookies de partage (Réseaux sociaux)** destinés à améliorer l’interactivité du Site ou de l’Application.  
 
 Notre Site ou l’Application contient des cookies des liens de partage vers Facebook, Twitter et autre réseau social similaire, qui vous permettent de partager des contenus de notre Site ou de notre Application avec d’autres personnes ou de faire connaître à ces autres personnes votre consultation ou votre opinion concernant un contenu du Site/Application ou encore de vous connecter pour accéder à l'ensemble des services de la Société du Figaro en utilisant vos données d’identification sur ces réseaux sociaux.  
@@ -178,7 +212,7 @@ Si vous ne souhaitez pas que notre Site ou notre Application enregistre des Cook
 
 **Cookies de mesure d'audience :**
 
-* SirData / [Lien de désactivation](https://www.sirdata.com/fr/opposition)
+* Statistiques de navigation (mesure d'audience) / [Lien de désactivation](#)
 * Google Analytics / [www.google.com](http://www.google.com/) / [Lien de désactivation](https://tools.google.com/dlpage/gaoptout?hl=fr)
 * Marfeel / [https://www.marfeel.com/](https://www.marfeel.com/) / [Lien de désactivation](https://community.marfeel.com/t/marfeel-com-cookies-policy/10440#blocking-cookies-1)
 * Alliance pour les Chiffres de la Presse et des Médias (ACPM) / [www.acpm.fr](http://www.acpm.fr/) / [Lien de désactivation](https://www.acpm.fr/Politique-Cookies)
@@ -196,6 +230,7 @@ Pour gérer vos choix concernant la plupart des cookies publicitaires, vous pouv
 * Krux  / [www.krux.com](http://www.krux.com/) / [Lien de désactivation](https://www.salesforce.com/products/marketing-cloud/sfmc/salesforce-dmp-consumer-choice/?mc=DMP)
 * Google (DoubleClick) / [www.google.com](http://www.google.com/) / [Lien de désactivation](https://adssettings.google.com/u/0/authenticated)
 * Liveramp / [www.liveramp.com](https://www.liveramp.com/) / [Lien de désactivation](https://liveramp.fr/politique-de-cookies/)
+* Utiq / [consenthub.utiq.com](http://consenthub.utiq.com/) / [Lien de désactivation](#)
 
 **Attention**, Désactiver ces Cookies empêche la collecte d'informations permettant un meilleur ciblage publicitaire lors de vos visites : cette désactivation empêchera l'affichage de toutes publicités ciblées par centre d'intérêt mais vous continuerez à recevoir les autres publicités.  
 
