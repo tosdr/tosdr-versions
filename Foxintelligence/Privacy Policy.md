@@ -270,6 +270,16 @@ Distributors & brands increase
 sales and market share with Foxintelligence
 ----------------------------------------------------------------------------
 
+![logo-décathlon-02](https://www.foxintelligence.io/wp-content/uploads/elementor/thumbs/logo-decathlon-02-qpuirdxk7zqio6xqo4xj9w40xm22en1w2krdwj5log.jpeg "logo-décathlon-02")
+
+“With Foxintelligence, we have access to objective and indisputable data.”
+
+![](https://www.foxintelligence.io/wp-content/uploads/2024/06/Photo-Thibault-NB-125x125.png)
+
+Thibault Corbeil
+
+[Discover more](https://www.foxintelligence.io/tesmimonials/foxintelligence_decathlon-2/)
+
 ![client-nestle-foxintelligence](https://www.foxintelligence.io/wp-content/uploads/elementor/thumbs/nestle-1-qgf2o45i33xxl218ldrqlhwffdv8rz5p8jnl4vrx8g.png "client-nestle-foxintelligence")
 
 “Foxintelligence enables us to stay ahead in our market and provides compelling arguments for our business negotiations.”
