@@ -28,21 +28,29 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 312 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 81 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
-* [Ahmet Umit Bayram](https://packetstormsecurity.com/files/authors/14177) 8 files
-* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 6 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 6 files
-* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 5 files
-* [ron190](https://packetstormsecurity.com/files/authors/15365) 4 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 313 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 82 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
+* [Ahmet Umit Bayram](https://packetstormsecurity.com/files/authors/14177) 6 files
+* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 6 files
 * [Amit Roy](https://packetstormsecurity.com/files/authors/17179) 4 files
 * [Furkan Eren Tetik](https://packetstormsecurity.com/files/authors/17171) 4 files
+* [ron190](https://packetstormsecurity.com/files/authors/15365) 4 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 3 files
+* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 3 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[AMD Investigating Breach Claims After Hacker Offers To Sell Data](https://packetstormsecurity.com/news/view/36013/AMD-Investigating-Breach-Claims-After-Hacker-Offers-To-Sell-Data.html)
+
+Posted [Jun 19, 2024](https://packetstormsecurity.com/news/date/2024-06-19/ "11:27:01 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36013/) | [View](https://www.securityweek.com/amd-investigating-breach-claims-after-hacker-offers-to-sell-data/)
 
 [Astronomers Witness A Supermassive Black Hole Roaring To Life](https://packetstormsecurity.com/news/view/36012/Astronomers-Witness-A-Supermassive-Black-Hole-Roaring-To-Life.html)
 
@@ -51,6 +59,38 @@ Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [space](https://packetstormsecurity.com/news/tags/space)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36012/) | [View](https://gizmodo.com/supermassive-black-hole-awakens-real-time-1851544260)
+
+[Change Healthcare Attack Financial Support Ends](https://packetstormsecurity.com/news/view/36011/Change-Healthcare-Attack-Financial-Support-Ends.html)
+
+Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:43 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36011/) | [View](https://www.theregister.com/2024/06/18/support_ends_change_healthcare/)
+
+[Encryption Is Deeply Threatening To Power](https://packetstormsecurity.com/news/view/36010/Encryption-Is-Deeply-Threatening-To-Power.html)
+
+Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:38 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [spyware](https://packetstormsecurity.com/news/tags/spyware), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36010/) | [View](https://www.theguardian.com/technology/article/2024/jun/18/encryption-is-deeply-threatening-to-power-meredith-whittaker-of-messaging-app-signal)
+
+[New TikTag Attack Targets Arm CPU Security Feature](https://packetstormsecurity.com/news/view/36009/New-TikTag-Attack-Targets-Arm-CPU-Security-Feature.html)
+
+Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:33 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36009/) | [View](https://www.securityweek.com/new-tiktag-attack-targets-arm-cpu-security-feature/)
+
+[New BadSpace Backdoor Deployed In Drive-By Attacks](https://packetstormsecurity.com/news/view/36008/New-BadSpace-Backdoor-Deployed-In-Drive-By-Attacks.html)
+
+Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:26 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36008/) | [View](https://www.securityweek.com/new-badspace-backdoor-deployed-in-drive-by-attacks/)
 
 [How ShinyHunters Hackers Allegedly Pilfered Ticketmaster Data From Snowflake](https://packetstormsecurity.com/news/view/36007/How-ShinyHunters-Hackers-Allegedly-Pilfered-Ticketmaster-Data-From-Snowflake.html)
 
@@ -83,46 +123,6 @@ Posted [Jun 17, 2024](https://packetstormsecurity.com/news/date/2024-06-17/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [email](https://packetstormsecurity.com/news/tags/email), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36004/) | [View](https://www.securityweek.com/microsoft-patches-zero-click-outlook-vulnerability-that-could-soon-be-exploited/)
-
-[US Surgeon General Wants Social Media Warning Labels](https://packetstormsecurity.com/news/view/36003/US-Surgeon-General-Wants-Social-Media-Warning-Labels.html)
-
-Posted [Jun 17, 2024](https://packetstormsecurity.com/news/date/2024-06-17/ "15:00:46 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [social](https://packetstormsecurity.com/news/tags/social)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36003/) | [View](https://www.bbc.com/news/articles/c98821dn27lo)
-
-[GenAI An Enhancement For Cyberattackers And Defenders](https://packetstormsecurity.com/news/view/36002/GenAI-An-Enhancement-For-Cyberattackers-And-Defenders.html)
-
-Posted [Jun 14, 2024](https://packetstormsecurity.com/news/date/2024-06-14/ "13:10:07 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36002/) | [View](https://www.scmagazine.com/news/genai-an-enhancement-for-cyberattackers-and-defenders)
-
-[Life360 Says Hacker Stole Customer Data](https://packetstormsecurity.com/news/view/36001/Life360-Says-Hacker-Stole-Customer-Data.html)
-
-Posted [Jun 14, 2024](https://packetstormsecurity.com/news/date/2024-06-14/ "13:10:04 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36001/) | [View](https://www.scmagazine.com/news/life360-says-hacker-stole-customer-data-from-its-tile-support-platform)
-
-[Microsoft Delaying Recall Feature To Improve Security](https://packetstormsecurity.com/news/view/36000/Microsoft-Delaying-Recall-Feature-To-Improve-Security.html)
-
-Posted [Jun 14, 2024](https://packetstormsecurity.com/news/date/2024-06-14/ "13:10:01 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36000/) | [View](https://www.securityweek.com/microsoft-delaying-recall-feature-to-improve-security/)
-
-[Ukrainian Cops Collar Kyiv Programmer Believed To Be Conti, LockBit Linchpin](https://packetstormsecurity.com/news/view/35999/Ukrainian-Cops-Collar-Kyiv-Programmer-Believed-To-Be-Conti-LockBit-Linchpin.html)
-
-Posted [Jun 14, 2024](https://packetstormsecurity.com/news/date/2024-06-14/ "13:09:57 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/35999/) | [View](https://www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1263624399&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1263624399.1718776244.1718776244.1718776244.1%3B%2B__utmz%3D32867617.1718776244.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2186065351&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2186065351.1718917535.1718917535.1718917535.1%3B%2B__utmz%3D32867617.1718917535.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
