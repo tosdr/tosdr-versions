@@ -1,11 +1,3 @@
-PLEASE DISABLE ADBLOCK
-
-![](/Content/images/adb.png)
-
-Adblock extensions will affect to a several website features, the VIDEO might to be UNPLAYABLE because of that. Please turn off for best experience!
-
-[OK! I understood](javascript:void(0);)
-
 ### 
 
 ![](/Content/images/user-small.png) Please [login](https://kimcartoon.li/Login) or [register](https://kimcartoon.li/Register)
@@ -73,4 +65,4 @@ If you are the copyright owner of content which appears on the KimCartoon websit
 &lt;a href="https://renzuken.wufoo.com/forms/zd6zg301kw5j0w/"&gt;Fill out my Wufoo form!&lt;/a&gt;
 
 From 2017 [KimCartoon.li](https://kimcartoon.li/ "KimCartoon.li"). Copyrights and trademarks for the cartoon, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. [Privacy Policy](https://kimcartoon.li/Message/PrivacyPolicy) | [DMCA](https://kimcartoon.li/Message/DMCA) | [watch cartoons online](https://kimcartoon.li/)  
-Country code: GB
+Country code: GB. IP: 51.195.149.220
