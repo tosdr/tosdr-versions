@@ -3,19 +3,9 @@
 * [Go back to kahoot.com](https://kahoot.com/)
 * [Contact us ❐](https://kahoot.com/contact/)
 
-EN
+en
 
-* [Deutsch (German)](https://trust.kahoot.com/de/terms-and-conditions/)
-* [English](https://trust.kahoot.com/terms-and-conditions/)
-* [Español (Spanish)](https://trust.kahoot.com/es/terms-and-conditions/)
-* [Français (French)](https://trust.kahoot.com/fr/terms-and-conditions/)
-* [Italiano (Italian)](https://trust.kahoot.com/it/terms-and-conditions/)
-* [日本語 (Japanese)](https://trust.kahoot.com/ja/terms-and-conditions/)
-* [Norsk (Norwegian)](https://trust.kahoot.com/nb/terms-and-conditions/)
-* [Nederlands (Dutch)](https://trust.kahoot.com/nl/terms-and-conditions/)
-* [Polski (Polish)](https://trust.kahoot.com/pl/terms-and-conditions/)
-* [Português (Portuguese)](https://trust.kahoot.com/pt/terms-and-conditions/)
-* [Türkçe (Turkish)](https://trust.kahoot.com/tr/terms-and-conditions/)
+[English](https://trust.kahoot.com/terms-and-conditions/) [Deutsch (German)](https://trust.kahoot.com/de/terms-and-conditions/) [Español (Spanish)](https://trust.kahoot.com/es/terms-and-conditions/) [Français (French)](https://trust.kahoot.com/fr/terms-and-conditions/) [Italiano (Italian)](https://trust.kahoot.com/it/terms-and-conditions/) [日本語 (Japanese)](https://trust.kahoot.com/ja/terms-and-conditions/) [Norsk (Norwegian)](https://trust.kahoot.com/nb/terms-and-conditions/) [Nederlands (Dutch)](https://trust.kahoot.com/nl/terms-and-conditions/) [Polski (Polish)](https://trust.kahoot.com/pl/terms-and-conditions/) [Português (Portuguese)](https://trust.kahoot.com/pt-BR/terms-and-conditions/) [Türkçe (Turkish)](https://trust.kahoot.com/tr/terms-and-conditions/)
 
 Kahoot! at work product resources
 
@@ -54,7 +44,7 @@ You represent and warrant that information you provide when registering for an a
 
 ### 2.2 Administrator assumption of control
 
-If you use an email address provided by an Organization you are affiliated with (e.g. an employer or a school) to order the Kahoot! Service, you represent that you have authority to use that Organization’s domain to sign up for a Service Plan in your capacity as a member of that Organization. The Organization, as the owner of the domain associated with your email address, may assume control over and manage your use of the Kahoot! Services. In such a case, your Organization’s designated Administrator may (i) control and administer your account, including modifying and terminating your access and (ii) access and process your data, including the contents of your communications and files. Kahoot! maay inform you that your associated Organization has assumed control of the Kahoot! Services covered by your Service Plan, but Kahoot! is under no obligation to provide such notice. If your Organization is administering your use of the Kahoot! Services or managing the tenant associated with your Service Plan, direct your data subject requests and privacy inquiries to your administrator. If your Organization is not administering your use of the Kahoot! Service or managing such tenants, direct your data subject requests and privacy inquiries to Kahoot! by contacting us at [privacy@kahoot.com](mailto:privacy@kahoot.com).
+If you use an email address provided by an Organization you are affiliated with (e.g. an employer or a school) to order the Kahoot! Service, you represent that you have authority to use that Organization’s domain to sign up for a Service Plan in your capacity as a member of that Organization. The Organization, as the owner of the domain associated with your email address, may assume control over and manage your use of the Kahoot! Services. In such a case, your Organization’s designated Administrator may (i) control and administer your account, including modifying and terminating your access and (ii) access and process your data, including the contents of your communications and files. Kahoot! may inform you that your associated Organization has assumed control of the Kahoot! Services covered by your Service Plan, but Kahoot! is under no obligation to provide such notice. If your Organization is administering your use of the Kahoot! Services or managing the tenant associated with your Service Plan, direct your data subject requests and privacy inquiries to your administrator. If your Organization is not administering your use of the Kahoot! Service or managing such tenants, direct your data subject requests and privacy inquiries to Kahoot! by contacting us at [privacy@kahoot.com](mailto:privacy@kahoot.com).
 
 3\. Licensed rights
 -------------------
@@ -364,7 +354,7 @@ Furthermore, any action to enforce the Agreement shall be brought in the courts 
 
 **“Public User Content”** means, as some Kahoot! Services are based on User Content and relies on users contributing content to the Service, the Content whereby the User, on their own choice and by actively toggling the “publish” button, makes certain User Content, such as Kahoot! games/quizzes, available to the general public.
 
-**“Resources”** meansthe information, resources, services, products, and tools provided for you in the Kahoot! Services.
+**“Resources”** means the information, resources, services, products, and tools provided for you in the Kahoot! Services.
 
 **“Service Plan”** means the various subscription plans for which the Kahoot! Services are available.
 
