@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Best Audiobooks for Road Trips](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171556/PRH-Staff-Picks-HP-RJD_600x314-nav.jpg)
+* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
-    Best Audiobooks for Road Trips
+    30 Great LGBTQ+ Picture Books for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
+    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    Join Our Authors for Upcoming Events
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102159/PRH_Site_600x314_nav-JUN.jpg)
+* [![Your Summer Reading Guide](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/16153839/PRH_Summer-Site_Social-Share-1200x628-watermelon.jpg)
     
-    New Releases
+    Your Summer Reading Guide
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
+    Read More >](https://www.penguinrandomhouse.com/summer-reading/)
 
 * <
     
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[Books To Read if You Love _The Tortured Poets Department_
+[Your Summer Reading Guide
 
-Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
+Read More >](https://www.penguinrandomhouse.com/summer-reading/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
