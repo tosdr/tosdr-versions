@@ -11,7 +11,7 @@
 
 [](https://mylumma.com/search)
 
-[](https://account.mylumma.com/?locale=en)
+[](https://account.mylumma.com/)
 
 [0](https://mylumma.com/cart)
 
