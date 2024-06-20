@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
 * [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
     30 Great LGBTQ+ Picture Books for Kids
@@ -35,6 +27,14 @@ Audio
     Books To Read if You Love _The Tortured Poets Department_
     
     Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
+
+* * *
+
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+    
+    Books Bans Are on the Rise in America
+    
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
