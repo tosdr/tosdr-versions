@@ -3,8 +3,8 @@
 [![Target Video](https://target-video.com/wp-content/uploads/2023/08/logowhite.svg)](https://target-video.com/)
 
 * [Publishers](#)
-    * [Managed Player](https://target-video.com/managed-player/)
-    * [Video Platform](https://target-video.com/video-platform/)
+    * [Managed Video Player](https://target-video.com/managed-player/)
+    * [Video Streaming Platform](https://target-video.com/video-platform/)
 * [Advertisers](https://www.brid.tv/advertisers/)
 * [Company](#)
     * [About Us](https://www.brid.tv/about-us/)
@@ -27,8 +27,8 @@
 [](https://target-video.com/#mobile-menu-toggle)
 
 * [Publishers](#)
-    * [Managed Player](https://target-video.com/managed-player/)
-    * [Video Platform](https://target-video.com/video-platform/)
+    * [Managed Video Player](https://target-video.com/managed-player/)
+    * [Video Streaming Platform](https://target-video.com/video-platform/)
 * [Advertisers](https://www.brid.tv/advertisers/)
 * [Company](#)
     * [About Us](https://www.brid.tv/about-us/)
