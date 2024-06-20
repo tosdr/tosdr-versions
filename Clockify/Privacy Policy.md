@@ -47,12 +47,6 @@ Team communication](https://clockify.me/pumble)[![](/assets/images/icons/clockif
 
 Time tracking](https://clockify.me/clockify)
 
-* * *
-
- [![](/assets/images/icons/suite-menu.svg) Simplify work](https://clockify.me/suite)
-
- [![](/assets/images/icons/marketplace-menu.svg) Browse add-ons](https://marketplace.cake.com/)
-
 Privacy Policy
 ==============
 
