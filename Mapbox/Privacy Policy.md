@@ -283,7 +283,7 @@
     
 * Company
     
-    * [About Mapbox](https://www.mapbox.com/about/company)
+    * [About Mapbox](https://www.mapbox.com/company)
         
     * [Careers](https://www.mapbox.com/careers)
         
@@ -293,7 +293,7 @@
         
     * [Education](https://www.mapbox.com/education)
         
-    * [Leadership](https://www.mapbox.com/leadership)
+    * [Leadership](https://www.mapbox.com/company/leadership)
         
     * [Newsroom](https://www.mapbox.com/newsroom)
         
@@ -913,7 +913,6 @@ Please enter an email address that includes @.
 * [Quickstart](https://docs.mapbox.com/help/getting-started/)
 * [Documentation](https://docs.mapbox.com/)
 * [Troubleshooting](https://docs.mapbox.com/help/troubleshooting/)
-* [Release Notes](https://docs.mapbox.com/help/tutorials/)
 * [Platform](https://www.mapbox.com/platform)
 * [Status](https://status.mapbox.com/)
 * [Tutorials](https://docs.mapbox.com/help/tutorials/)
@@ -936,9 +935,9 @@ Please enter an email address that includes @.
 
 ### Company
 
-* [Who we are](https://www.mapbox.com/about/company)
+* [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/about/values)
+* [What we value](http://mapbox.com/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
@@ -1250,7 +1249,7 @@ All Rights Reserved © Mapbox
     
 * Company
     
-    * [About Mapbox](https://www.mapbox.com/about/company)
+    * [About Mapbox](https://www.mapbox.com/company)
         
     * [Careers](https://www.mapbox.com/careers)
         
@@ -1260,7 +1259,7 @@ All Rights Reserved © Mapbox
         
     * [Education](https://www.mapbox.com/education)
         
-    * [Leadership](https://www.mapbox.com/leadership)
+    * [Leadership](https://www.mapbox.com/company/leadership)
         
     * [Newsroom](https://www.mapbox.com/newsroom)
         
@@ -1575,7 +1574,7 @@ All Rights Reserved © Mapbox
     
 * Company
     
-    * [About Mapbox](https://www.mapbox.com/about/company)
+    * [About Mapbox](https://www.mapbox.com/company)
         
     * [Careers](https://www.mapbox.com/careers)
         
@@ -1585,7 +1584,7 @@ All Rights Reserved © Mapbox
         
     * [Education](https://www.mapbox.com/education)
         
-    * [Leadership](https://www.mapbox.com/leadership)
+    * [Leadership](https://www.mapbox.com/company/leadership)
         
     * [Newsroom](https://www.mapbox.com/newsroom)
         
@@ -3218,7 +3217,7 @@ Company
 
 Company
 
-* [About Mapbox](https://www.mapbox.com/about/company)
+* [About Mapbox](https://www.mapbox.com/company)
     
 * [Careers](https://www.mapbox.com/careers)
     
@@ -3228,14 +3227,14 @@ Company
     
 * [Education](https://www.mapbox.com/education)
     
-* [Leadership](https://www.mapbox.com/leadership)
+* [Leadership](https://www.mapbox.com/company/leadership)
     
 * [Newsroom](https://www.mapbox.com/newsroom)
     
 * [Contact](https://www.mapbox.com/contact)
     
 
-[About Mapbox](https://www.mapbox.com/about/company)
+[About Mapbox](https://www.mapbox.com/company)
 
 [Careers](https://www.mapbox.com/careers)
 
@@ -3245,7 +3244,7 @@ Company
 
 [Education](https://www.mapbox.com/education)
 
-[Leadership](https://www.mapbox.com/leadership)
+[Leadership](https://www.mapbox.com/company/leadership)
 
 [Newsroom](https://www.mapbox.com/newsroom)
 
@@ -5885,7 +5884,6 @@ Please enter an email address that includes @.
 * [Quickstart](https://docs.mapbox.com/help/getting-started/)
 * [Documentation](https://docs.mapbox.com/)
 * [Troubleshooting](https://docs.mapbox.com/help/troubleshooting/)
-* [Release Notes](https://docs.mapbox.com/help/tutorials/)
 * [Platform](https://www.mapbox.com/platform)
 * [Status](https://status.mapbox.com/)
 * [Tutorials](https://docs.mapbox.com/help/tutorials/)
@@ -5908,9 +5906,9 @@ Please enter an email address that includes @.
 
 ### Company
 
-* [Who we are](https://www.mapbox.com/about/company)
+* [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/about/values)
+* [What we value](http://mapbox.com/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
@@ -6019,7 +6017,6 @@ All Rights Reserved © Mapbox
 * [Quickstart](https://docs.mapbox.com/help/getting-started/)
 * [Documentation](https://docs.mapbox.com/)
 * [Troubleshooting](https://docs.mapbox.com/help/troubleshooting/)
-* [Release Notes](https://docs.mapbox.com/help/tutorials/)
 * [Platform](https://www.mapbox.com/platform)
 * [Status](https://status.mapbox.com/)
 * [Tutorials](https://docs.mapbox.com/help/tutorials/)
@@ -6042,9 +6039,9 @@ All Rights Reserved © Mapbox
 
 ### Company
 
-* [Who we are](https://www.mapbox.com/about/company)
+* [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/about/values)
+* [What we value](http://mapbox.com/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
@@ -6202,7 +6199,6 @@ Home page
 * [Quickstart](https://docs.mapbox.com/help/getting-started/)
 * [Documentation](https://docs.mapbox.com/)
 * [Troubleshooting](https://docs.mapbox.com/help/troubleshooting/)
-* [Release Notes](https://docs.mapbox.com/help/tutorials/)
 * [Platform](https://www.mapbox.com/platform)
 * [Status](https://status.mapbox.com/)
 * [Tutorials](https://docs.mapbox.com/help/tutorials/)
@@ -6228,7 +6224,6 @@ Home page
 * [Quickstart](https://docs.mapbox.com/help/getting-started/)
 * [Documentation](https://docs.mapbox.com/)
 * [Troubleshooting](https://docs.mapbox.com/help/troubleshooting/)
-* [Release Notes](https://docs.mapbox.com/help/tutorials/)
 * [Platform](https://www.mapbox.com/platform)
 * [Status](https://status.mapbox.com/)
 * [Tutorials](https://docs.mapbox.com/help/tutorials/)
@@ -6251,9 +6246,9 @@ Home page
 
 ### Company
 
-* [Who we are](https://www.mapbox.com/about/company)
+* [Who we are](https://www.mapbox.com/company)
 * [What we do](http://mapbox.com/about/maps)
-* [What we value](http://mapbox.com/about/values)
+* [What we value](http://mapbox.com/values)
 * [Newsroom](https://www.mapbox.com/newsroom)
 * [Mapbox Values](#)
 * [Newsroom](https://www.mapbox.com/esg)
