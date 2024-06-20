@@ -142,7 +142,7 @@ Join Presearch. Launch a Node.
 
 Follow Our Social
 
-[](https://twitter.com/presearchnews)
+[](https://x.com/presearchnews)
 
 [](https://discord.presearch.com/)
 
