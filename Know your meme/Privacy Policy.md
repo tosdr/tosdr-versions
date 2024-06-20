@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![UK woman trying to refresh herself by pouring water from a fountain on her head. ](https://i.kym-cdn.com/featured_items/icons/wide/000/024/759/June_2024_Heat_Wave_meme.jpg "Unprecedented Heat Waves In The U.S. And U.K. Ignite Memes And Comparisons Online")
+* [!['Peepy' Is A Bizarre, Surreal Rabbit Hole That Leads To A Creepy, Maybe Criminal Plush](https://i.kym-cdn.com/featured_items/icons/wide/000/024/778/Itemlabel_Peepy.jpg "'Peepy' Is A Bizarre, Surreal Rabbit Hole That Leads To A Creepy, Maybe Criminal Plush")
     
-    Unprecedented Heat Waves In The U.S. And U.K. Ignite Memes And Comparisons Online](https://knowyourmeme.com/memes/events/june-2024-heat-waves)
+    'Peepy' Is A Bizarre, Surreal Rabbit Hole That Leads To A Creepy, Maybe Criminal Plush](https://knowyourmeme.com/memes/subcultures/peepy)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/760/GQXQKpmWoAABjUk.jpeg "Vague Release Window For 'Metroid Prime 4: Beyond' Headlines Nintendo Direct As Fans React With Excitement And Memes")
+* [![Nara Smith Making Things From Scratch, also known as Me Making X From Scratch, refers to an exploitable image macro meme featuring Nara Smith a trad-adjacent TikToker known for making meals from scratch. The meme shows Nara Smith wearing a red dress as she sprinkles something in a steel pot. Variations of the meme include "Making Zyns from scratch" and making "menthol cigarettes from scratch," with users recaptioning or editing the text to change what's being made.](https://i.kym-cdn.com/featured_items/icons/wide/000/024/777/making_from_scratch.jpg "Nara Smith Takes DIY Cooking To The Extreme In This Oddly Nicotine-Focused Meme Trend")
     
-    Vague Release Window For 'Metroid Prime 4: Beyond' Headlines Nintendo Direct As Fans React With Excitement And Memes](https://knowyourmeme.com/news/vague-release-window-for-metroid-prime-4-headlines-nintendo-direct)
+    Nara Smith Takes DIY Cooking To The Extreme In This Oddly Nicotine-Focused Meme Trend](https://knowyourmeme.com/memes/nara-smith-making-things-from-scratch)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/758/time_traveller.jpg "Where Are All The AI Extended Vines Coming From? Memes About Time Travelers Stopping Vines Explained ")
+* [![Blue Sweatpants Girl tiktok](https://i.kym-cdn.com/featured_items/icons/wide/000/024/776/blue_sweatpants_girl.jpg "TikToker Dubbed The 'Blue Sweatpants Girl' Is A Better Dancer Than The Original")
     
-    Where Are All The AI Extended Vines Coming From? Memes About Time Travelers Stopping Vines Explained](https://knowyourmeme.com/editorials/guides/where-are-all-the-ai-extended-vines-coming-from-memes-about-time-travelers-stopping-vines-explained)
+    TikToker Dubbed The 'Blue Sweatpants Girl' Is A Better Dancer Than The Original](https://knowyourmeme.com/memes/blue-sweatpants-girl)
     
-* [![cool autistic gamer examples](https://i.kym-cdn.com/featured_items/icons/wide/000/024/757/tcag.jpg "'Smiling Friends' Clip Channel 'The Cool Autistic Gamer 774' Goes Viral For His Insane Watermarking Practices")
+* [![Duolingo Embraced Its 'Evil' Meme And Released 'Spanish Or Vanish' Commercial Last April Fools Day](https://i.kym-cdn.com/featured_items/icons/wide/000/024/775/maxresdefault.jpg "Duolingo Embraced Its 'Evil' Meme And Released 'Spanish Or Vanish' Commercial Last April Fools Day")
     
-    'Smiling Friends' Clip Channel 'The Cool Autistic Gamer 774' Goes Viral For His Insane Watermarking Practices](https://knowyourmeme.com/memes/people/the-cool-autistic-gamer-774)
+    Duolingo Embraced Its 'Evil' Meme And Released 'Spanish Or Vanish' Commercial Last April Fools Day](https://knowyourmeme.com/memes/spanish-or-vanish)
     
-* [![Twitter Really Didn't Like That One Awkward Dance Move Taylor Swift Did During Her Concert](https://i.kym-cdn.com/featured_items/icons/wide/000/024/756/cover2.jpg "Many, Apparently, Really Didn't Like That One Awkward Dance Move Taylor Swift Did During Her Concert")
+* [![it couldn't be going worse keith](https://i.kym-cdn.com/featured_items/icons/wide/000/024/774/2b1.jpg "'It Couldn't Be Going Worse Keith' On Its Way To Becoming One Of The Most Iconic Comment Strings Of All Time")
     
-    Many, Apparently, Really Didn't Like That One Awkward Dance Move Taylor Swift Did During Her Concert](https://knowyourmeme.com/memes/taylor-swifts-awkward-dance)
+    'It Couldn't Be Going Worse Keith' On Its Way To Becoming One Of The Most Iconic Comment Strings Of All Time](https://knowyourmeme.com/memes/it-couldnt-be-going-worse-keith)
     
 
 ##### Also Trending:
 
-[That Casually Misogynistic Remark](https://knowyourmeme.com/memes/that-casually-misogynistic-remark "That Casually Misogynistic Remark") [I Might Go Homeless?](https://knowyourmeme.com/memes/i-might-go-homeless "I Might Go Homeless?") [Verbalase's "Roxanne Wolf Beatbox"](https://knowyourmeme.com/memes/verbalases-roxanne-wolf-beatbox "Verbalase's "Roxanne Wolf Beatbox"") [Metroid Prime 4: Beyond](https://knowyourmeme.com/memes/subcultures/metroid-prime-4-beyond "Metroid Prime 4: Beyond") [June 2024 Heat Waves](https://knowyourmeme.com/memes/events/june-2024-heat-waves "June 2024 Heat Waves") [The Acolyte Episode 3 Controversy](https://knowyourmeme.com/memes/events/the-acolyte-episode-3-force-baby-controversy "The Acolyte Episode 3 Controversy")
+[June 2024 Heat Waves](https://knowyourmeme.com/memes/events/june-2024-heat-waves "June 2024 Heat Waves") [I Might Go Homeless?](https://knowyourmeme.com/memes/i-might-go-homeless "I Might Go Homeless?") [That Casually Misogynistic Remark](https://knowyourmeme.com/memes/that-casually-misogynistic-remark-i-forgot-you-were-a-man "That Casually Misogynistic Remark")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
