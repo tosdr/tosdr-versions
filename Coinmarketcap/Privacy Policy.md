@@ -4,17 +4,17 @@ Exchanges: [781](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.36T](https://coinmarketcap.com/charts/#market-cap)
+[$2.38T](https://coinmarketcap.com/charts/#market-cap)
 
-1.31%
+0.11%
 
 24h Vol: 
 
-[$91.96B](https://coinmarketcap.com/charts/#volume-24h)
+[$57.12B](https://coinmarketcap.com/charts/#volume-24h)
 
-1.71%
+35.34%
 
-Dominance: [BTC: 54.3% ETH: 18.2%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 54.1% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
