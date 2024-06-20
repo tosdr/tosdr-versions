@@ -2,8 +2,6 @@
 
          
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Holiday Closure](https://www.piercecountywa.gov/AlertCenter.aspx) [Pierce County administrative offices will be closed on Wednesday, June 19 in observance of Juneteenth. Read On...](https://www.piercecountywa.gov/AlertCenter.aspx?AID=Pierce-County-administrative-offices-wil-2586)
-
 [![Home page](/ImageRepository/Document?documentID=113653)](https://www.piercecountywa.gov/)
 
 1. [Government](https://www.piercecountywa.gov/27/Government)
