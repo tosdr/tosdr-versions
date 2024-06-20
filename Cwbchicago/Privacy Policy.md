@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Marshone-Copleand-326x245.jpg)](https://cwbchicago.com/2024/06/13-man-shot-3-people-outside-chicago-bar-while-on-felony-pretrial-release.html "#13: Man shot 3 people outside Chicago bar while on felony pretrial release")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/JH257378-JH257356-326x245.jpg)](https://cwbchicago.com/2024/06/police-hunt-2-men-who-robbed-restaurant-convenience-store-at-gunpoint-on-nw-side.html "Police hunt 2 men who robbed restaurant, convenience store at gunpoint on NW Side")
 
-Citywide
+Albany Park
 
-### [#13: Man shot 3 people outside Chicago bar while on felony pretrial release](https://cwbchicago.com/2024/06/13-man-shot-3-people-outside-chicago-bar-while-on-felony-pretrial-release.html "#13: Man shot 3 people outside Chicago bar while on felony pretrial release")
+### [Police hunt 2 men who robbed restaurant, convenience store at gunpoint on NW Side](https://cwbchicago.com/2024/06/police-hunt-2-men-who-robbed-restaurant-convenience-store-at-gunpoint-on-nw-side.html "Police hunt 2 men who robbed restaurant, convenience store at gunpoint on NW Side")
 
-[June 16, 2024 5:01 PM](https://cwbchicago.com/2024/06)
+[June 17, 2024 10:23 AM](https://cwbchicago.com/2024/06)
 
-Prosecutors have charged a Chicago man with shooting three people at a South Side bar in April while he was on pretrial release for a felony driving case.[](https://cwbchicago.com/2024/06/13-man-shot-3-people-outside-chicago-bar-while-on-felony-pretrial-release.html "#13: Man shot 3 people outside Chicago bar while on felony pretrial release")
+Police are trying to identify two men who robbed Northwest Side businesses at gunpoint last month.[](https://cwbchicago.com/2024/06/police-hunt-2-men-who-robbed-restaurant-convenience-store-at-gunpoint-on-nw-side.html "Police hunt 2 men who robbed restaurant, convenience store at gunpoint on NW Side")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2023/10/Generic-Chicago-Police-Department-Squad-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/06/uber-driver-is-shot-during-carjacking-on-west-side-3-people-shot-during-robberies-since-thursday.html "Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Patch-CPD-edited-326x245.jpg)](https://cwbchicago.com/2024/06/15-year-old-carjacked-off-duty-cop-in-river-north-police-say.html "15-year-old carjacked off-duty cop in River North, police say")
+
+River North
+
+### [15-year-old carjacked off-duty cop in River North, police say](https://cwbchicago.com/2024/06/15-year-old-carjacked-off-duty-cop-in-river-north-police-say.html "15-year-old carjacked off-duty cop in River North, police say")
+
+[June 17, 2024 7:16 AM](https://cwbchicago.com/2024/06)
+
+A 15-year-old boy has been charged with carjacking an off-duty police officer in River North earlier this year.[](https://cwbchicago.com/2024/06/15-year-old-carjacked-off-duty-cop-in-river-north-police-say.html "15-year-old carjacked off-duty cop in River North, police say")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Generic-tape-squads-edited-326x245.jpg)](https://cwbchicago.com/2024/06/another-robbery-victim-shot-overnight-now-5-robbery-victims-shot-since-thursday.html "*Another* robbery victim shot overnight; now 5 robbery victims shot since Thursday")
 
 Citywide
 
-### [Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday](https://cwbchicago.com/2024/06/uber-driver-is-shot-during-carjacking-on-west-side-3-people-shot-during-robberies-since-thursday.html "Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday")
+### [\*Another\* robbery victim shot overnight; now 5 robbery victims shot since Thursday](https://cwbchicago.com/2024/06/another-robbery-victim-shot-overnight-now-5-robbery-victims-shot-since-thursday.html "*Another* robbery victim shot overnight; now 5 robbery victims shot since Thursday")
 
-[June 16, 2024 4:16 AM](https://cwbchicago.com/2024/06)
+[June 17, 2024 6:37 AM](https://cwbchicago.com/2024/06)
 
-An Uber driver was shot during a carjacking on the West Side yesterday evening, according to Chicago police. He is at least the third robbery victim to be shot in the city since Thursday night.[](https://cwbchicago.com/2024/06/uber-driver-is-shot-during-carjacking-on-west-side-3-people-shot-during-robberies-since-thursday.html "Uber driver is shot during carjacking on West Side; 3 people shot during robberies since Thursday")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20313%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2023/04/Generic-cpd-media-photo-copy-edited-313x245.jpeg)](https://cwbchicago.com/2024/06/saturday-morning-crime-spree-robbery-victim-shot-in-logan-square-carjackings-reported-in-bucktown-and-albany-park.html "Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park")
-
-Bucktown
-
-### [Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park](https://cwbchicago.com/2024/06/saturday-morning-crime-spree-robbery-victim-shot-in-logan-square-carjackings-reported-in-bucktown-and-albany-park.html "Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park")
-
-[June 15, 2024 8:34 PM](https://cwbchicago.com/2024/06)
-
-Police are investigating a string of robberies and carjackings reported early Saturday morning in Bucktown, Logan Square, and the Northwest Side of the city. A victim was shot during one of the holdups. [](https://cwbchicago.com/2024/06/saturday-morning-crime-spree-robbery-victim-shot-in-logan-square-carjackings-reported-in-bucktown-and-albany-park.html "Saturday morning crime spree: Robbery victim shot in Logan Square, carjackings reported in Bucktown and Albany Park")
+For the fifth time since Thursday evening, police report that a man was shot during an armed robbery in the Washington Park neighborhood overnight. In recent days, other robbery victims have been shot in Rogers Park, Logan Square, Austin, and North Lawndale.[](https://cwbchicago.com/2024/06/another-robbery-victim-shot-overnight-now-5-robbery-victims-shot-since-thursday.html "*Another* robbery victim shot overnight; now 5 robbery victims shot since Thursday")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Comment
+Name
 
 Submit
 
