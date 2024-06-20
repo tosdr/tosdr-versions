@@ -4,6 +4,7 @@ Toggle navigation [![Driversnote](https://d2mcx4odt2tts0.cloudfront.net/assets/l
     * [Tracking](https://www.driversnote.com/tracking)
     * [Classifying](https://www.driversnote.com/classifying)
     * [Reporting](https://www.driversnote.com/reporting)
+* [iBeacon](https://www.driversnote.com/ibeacon)
 * [Teams](https://www.driversnote.com/for-teams)
 * [Pricing](https://www.driversnote.com/pricing)
 * [About us](https://www.driversnote.com/about)
