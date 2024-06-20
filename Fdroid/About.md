@@ -179,23 +179,27 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/spam.blocker/en-US/icon_NvpPfzS3J8Gx5PNIZUjNWQwk8ECPl6nVjaQ_6-8FsxY=.png)
+[![](https://f-droid.org/repo/org.totschnig.myexpenses/en-US/icon_zWawBtP0U6S03MdPDF6m-Zh9Tbt6MmuSM-w68Ug-58o=.png)
 
-#### SpamBlocker (Call & SMS)
+#### My Expenses
 
-Spam Call/SMS blocker](https://f-droid.org/en/packages/spam.blocker/)[![](https://f-droid.org/repo/eu.faircode.email/en-US/icon_0a2E8tt03J6IsBb7HvvI88FYOaaWLuP1Ea73naLIvxg=.png)
+Easy to use personal finance manager: rich functionality and Open Source](https://f-droid.org/en/packages/org.totschnig.myexpenses/)[![](https://f-droid.org/repo/net.alexbarry.calc_android/en-US/icon_vP0BvHeqchBW8T9TgUQ-gnh4O7uBdGwpRoxEMLCU2uE=.png)
 
-#### FairEmail
+#### AlexCalc
 
-Fully featured email client. Neat, intuitive user interface. Privacy friendly](https://f-droid.org/en/packages/eu.faircode.email/)[![](https://f-droid.org/repo/com.trianguloy.urlchecker/en-US/icon_rZsKdOLVtJ8ntxqmPOAu37uqpFBryzGzV7uWWeicfL4=.png)
+Scientific calculator with LaTeX equation display](https://f-droid.org/en/packages/net.alexbarry.calc_android/)[![](https://f-droid.org/repo/lying.fengfeng.foodrecords/en-US/icon_RJGg36wokusre3RGMlbGC6kB-0kcTtsZTTK0OiO8gAk=.png)
 
-#### URLCheck
+#### Fridgey
 
-Allows analyzing (or sharing) URLs before opening them.](https://f-droid.org/en/packages/com.trianguloy.urlchecker/)
+A Fridgey to help recording your food!](https://f-droid.org/en/packages/lying.fengfeng.foodrecords/)
 
 ### Latest Apps
 
-[![](https://f-droid.org/repo/com.example.notificationalerter/en-US/icon_Oltgjy9BWau-vDbMXRuL2Ueh8dAu_QF42cEmrznr-do=.jpg)
+[![](https://f-droid.org/repo/net.alexbarry.calc_android/en-US/icon_vP0BvHeqchBW8T9TgUQ-gnh4O7uBdGwpRoxEMLCU2uE=.png)
+
+#### AlexCalc
+
+Scientific calculator with LaTeX equation display](https://f-droid.org/en/packages/net.alexbarry.calc_android/)[![](https://f-droid.org/repo/com.example.notificationalerter/en-US/icon_Oltgjy9BWau-vDbMXRuL2Ueh8dAu_QF42cEmrznr-do=.jpg)
 
 #### Notification Listener
 
@@ -203,10 +207,6 @@ Get notified only of important notifications.](https://f-droid.org/en/packages/c
 
 #### CaptureSposed
 
-Add support for blocking the Screenshot Detection API introduced in Android 14!](https://f-droid.org/en/packages/com.keshav.capturesposed/)[![](https://f-droid.org/repo/lying.fengfeng.foodrecords/en-US/icon_RJGg36wokusre3RGMlbGC6kB-0kcTtsZTTK0OiO8gAk=.png)
+Add support for blocking the Screenshot Detection API introduced in Android 14!](https://f-droid.org/en/packages/com.keshav.capturesposed/)
 
-#### Fridgey
-
-A Fridgey to help recording your food!](https://f-droid.org/en/packages/lying.fengfeng.foodrecords/)
-
-© 2010-2024 F-Droid Contributors (F-Droid 2024-06-18, fdroid-website [2.236](https://gitlab.com/fdroid/fdroid-website/tree/f8e91be5b5)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-06-20, fdroid-website [2.236](https://gitlab.com/fdroid/fdroid-website/tree/f8e91be5b5)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
