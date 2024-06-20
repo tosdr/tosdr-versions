@@ -295,7 +295,7 @@ We found suggestions
     
     [Figurines](https://www.hallmark.com/house-and-home/figurines/)
     
-    [House & Home](https://www.hallmark.com/house-and-home/)
+    [Home Decor](https://www.hallmark.com/house-and-home/decor/)
     
     [Kitchen](https://www.hallmark.com/house-and-home/kitchen/)
     
