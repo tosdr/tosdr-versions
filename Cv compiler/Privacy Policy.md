@@ -1025,6 +1025,16 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Change Management](https://cvcompiler.com/change-management-resume-examples)
 
+[Chemical Engineer](https://cvcompiler.com/chemical-engineer-resume-examples)
+
+[Software Developer](https://cvcompiler.com/software-developer-resume-examples)
+
+[Early Childhood Educator](https://cvcompiler.com/early-childhood-educator-resume-examples)
+
+[Hotel Receptionist](https://cvcompiler.com/hotel-receptionist-resume-examples)
+
+[Senior Financial Analyst](https://cvcompiler.com/senior-financial-analyst-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
