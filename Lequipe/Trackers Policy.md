@@ -140,135 +140,29 @@ L'ÉQUIPE
 
 filtrer : tous les sports
 
-[06:01
+[18:16
 
-Escrime,
+Foot
 
-Euro,
+Nos favoris pour la Copa America](https://www.lequipe.fr/Football/Actualites/Nos-favoris-pour-la-copa-america-2024-argentine-et-bresil-loin-devant/1476236 "Nos favoris pour la Copa America")
 
-Fleuret (F)
+[18:10
 
-Innocentée, Thibus remet le masque](https://www.lequipe.fr/Jo-2024-paris/Escrime/Article/Innocentee-et-de-retour-aux-championnats-d-europe-thibus-veut-rallumer-cette-petite-flamme-avant-les-jo/1475789 "Innocentée, Thibus remet le masque")
+Médias
 
-[05:10
+Olivier Ménard : «Mon agresseur voulait me tuer»](https://www.lequipe.fr/Medias/Actualites/Olivier-menard-mon-agresseur-voulait-me-tuer/1476235 "Olivier Ménard : «Mon agresseur voulait me tuer»")
 
-Euro 2024
-
-Le programme TV des matches de ce mercredi 19 juin](https://www.lequipe.fr/Football/Actualites/Euro-2024-le-programme-tv-des-matches-de-ce-mercredi-19-juin/1475667 "Le programme TV des matches de ce mercredi 19 juin")
-
-[00:31
-
-Natation,
-
-Championnats de France
-
-Manaudou étonne sur 100m](https://www.lequipe.fr/Natation/Actualites/Florent-manaudou-claque-une-perf-inattendue-sur-100m/1475831 "Manaudou étonne sur 100m")
-
-[00:17
-
-Euro 2024,
-
-République tchèque
-
-Hasek : «Dommage de prendre un but à la dernière minute»](https://www.lequipe.fr/Football/Actualites/-dommage-de-prendre-un-but-a-la-derniere-minute-les-regrets-tcheques-face-au-portugal/1475829 "Hasek : «Dommage de prendre un but à la dernière minute»")
-
-[00:14
-
-Euro 2024,
-
-Angleterre
-
-Mainoo encense Bellingham](https://www.lequipe.fr/Football/Actualites/Kobbie-mainoo-angleterre-c-est-merite-que-bellingham-soit-en-lice-pour-le-ballon-d-or/1475826 "Mainoo encense Bellingham")
-
-[18 juin
-
-Euro 2024
-
-Les tops-flops de Portugal - République tchèque](https://www.lequipe.fr/Football/Article/Les-tops-flops-de-portugal-republique-tcheque-vitinha-pari-gagnant/1475819 "Les tops-flops de Portugal - République tchèque")
-
-[18 juin
-
-Euro 2024,
-
-Bleus
-
-Mbappé entre frayeur et espoir](https://www.lequipe.fr/Football/Article/-ca-va-durer-avec-ou-sans-operation-mbappe-entre-frayeur-et-espoir-apres-sa-fracture-du-nez/1475809 "Mbappé entre frayeur et espoir")
-
-[18 juin
-
-Euro 2024,
-
-Bleus
-
-Dupont répond avec humour à Mbappé](https://www.lequipe.fr/Football/Actualites/Antoine-dupont-repond-avec-humour-a-kylian-mbappe-apres-sa-fracture-du-nez/1475812 "Dupont répond avec humour à Mbappé")
-
-[18 juin
-
-Euro 2024
-
-Le Portugal s'impose sur le gong](https://www.lequipe.fr/Football/Actualites/Le-portugal-s-impose-sur-le-gong-pour-son-entree-dans-la-competition/1475811 "Le Portugal s'impose sur le gong")
-
-[18 juin
+[18:09
 
 Foot,
 
-Arkema Première Ligue
+L1,
 
-Chawinga du PSG vers l'OL](https://www.lequipe.fr/Football/Actualites/Meilleure-buteuse-de-d1-arkema-avec-le-psg-tabitha-chawinga-sur-le-point-de-signer-a-l-ol/1475810 "Chawinga du PSG vers l'OL")
+Nice
 
-[18 juin
+Le discours de Ratcliffe qui heurte l'orgueil du Gym](https://www.lequipe.fr/Football/Article/Nice-une-passerelle-vers-manchester-united-le-discours-de-jim-ratcliffe-qui-heurte-l-orgueil-du-gym/1476201 "Le discours de Ratcliffe qui heurte l'orgueil du Gym")
 
-Auto,
-
-Indycar
-
-Pourchaire évincé par McLaren après cinq courses](https://www.lequipe.fr/Sport-auto/Actualites/Theo-pourchaire-evince-par-arrow-mclaren-apres-cinq-courses/1475806 "Pourchaire évincé par McLaren après cinq courses")
-
-[18 juin
-
-Euro 2024,
-
-Croatie
-
-Dalic veut ses «intouchables» contre l'Albanie](https://www.lequipe.fr/Football/Article/Malgre-la-defaite-contre-l-espagne-dalic-veut-ses-trois-intouchables-au-milieu-de-terrain-face-a-l-albanie/1475799 "Dalic veut ses «intouchables» contre l'Albanie")
-
-[18 juin
-
-Athlé
-
-Le «Grand Slam Track» entend «révolutionner» l'athlétisme](https://www.lequipe.fr/Athletisme/Actualites/Que-des-epreuves-de-courses-un-prize-money-record-un-nouveau-circuit-de-meetings-verra-le-jour-en-2025/1475802 "Le «Grand Slam Track» entend «révolutionner» l'athlétisme")
-
-[18 juin
-
-Volley,
-
-Ligue des nations (H)
-
-Les Bleus sans Chinenyeze à Manille](https://www.lequipe.fr/Volley-ball/Actualites/Les-bleus-sans-barthelemy-chinenyeze-pour-le-tournoi-de-ligue-des-nations-a-manille/1475800 "Les Bleus sans Chinenyeze à Manille")
-
-[18 juin
-
-Euro 2024,
-
-Italie
-
-Raspadori: «Nous avons ce qu'il faut pour faire mal à l'Espagne»](https://www.lequipe.fr/Football/Actualites/Giacomo-raspadori-italie-nous-avons-ce-qu-il-faut-pour-faire-mal-a-l-espagne/1475795 "Raspadori: «Nous avons ce qu'il faut pour faire mal à l'Espagne»")
-
-[18 juin
-
-Euro 2024,
-
-Albanie
-
-Hoxha pour remplacer Seferi](https://www.lequipe.fr/Football/Actualites/Albanie-hoxha-pour-remplacer-seferin-contre-la-croatie/1475794 "Hoxha pour remplacer Seferi")
-
-[18 juin
-
-Skateboard
-
-Les Bleus demandent l'autonomie au sein de la Fédération](https://www.lequipe.fr/Skateboard/Article/-rendre-sa-liberte-et-sa-dignite-au-skateboard-francais-le-mal-etre-de-plusieurs-membres-de-l-equipe-de-france/1475792 "Les Bleus demandent l'autonomie au sein de la Fédération")
-
-[18 juin
+[18:06
 
 Tennis,
 
@@ -276,29 +170,139 @@ ATP,
 
 Queen's
 
-Andy Murray vainqueur pour son 1000e match](https://www.lequipe.fr/Tennis/Actualites/Andy-murray-vainqueur-au-premier-tour-du-queen-s-pour-son-1000e-match-en-carriere/1475785 "Andy Murray vainqueur pour son 1000e match")
+Mpetschi Perriccard tombe face à Harris](https://www.lequipe.fr/Tennis/Actualites/Mpetschi-perriccard-tombe-face-a-harris-au-deuxieme-tour-du-queen-s/1476232 "Mpetschi Perriccard tombe face à Harris")
 
-[18 juin
+[18:06
+
+Basket,
+
+Euroligue (H)
+
+Ntilikina revient en Europe et s'engage au Partizan Belgrade](https://www.lequipe.fr/Basket/Actualites/Frank-ntilikina-revient-en-europe-et-s-engage-avec-le-partizan-belgrade/1476231 "Ntilikina revient en Europe et s'engage au Partizan Belgrade")
+
+[18:00
+
+Tous sports,
+
+Podcast
+
+La sélection de la rédaction du 20 juin](https://www.lequipe.fr/collection/podcasts/serie/la-selection-de-la-redaction/ "La sélection de la rédaction du 20 juin")
+
+[17:56
 
 Euro 2024,
 
 Bleus
 
-Qui pour remplacer Mbappé?](https://www.lequipe.fr/Football/Article/Olivier-giroud-principale-alternative-a-kylian-mbappe-s-il-est-apte/1475768 "Qui pour remplacer Mbappé?")
+Deschamps sur Mbappé : «On fera en sorte qu'il soit disponible»](https://www.lequipe.fr/Football/Actualites/Deschamps-sur-mbappe-on-fera-en-sorte-qu-il-soit-disponible-face-aux-pays-bas-a-l-euro-2024/1476228 "Deschamps sur Mbappé : «On fera en sorte qu'il soit disponible»")
 
-[18 juin
+[17:55
+
+Escrime
+
+Les Championnats d'Europe sur L'Équipe live 2](https://www.lequipe.fr/tv/videos/live/k5TgcOKBUTM2KnqwBWC "Les Championnats d'Europe sur L'Équipe live 2")
+
+[17:45
+
+L'Equipe explore,
+
+Podcast
+
+Manaudou-Lucas, duo d'or et de fracas](https://www.lequipe.fr/Natation/Article/Podcast-manaudou-lucas-duo-d-or-et-de-fracas-aux-jeux-d-athenes-2004/1475360 "Manaudou-Lucas, duo d'or et de fracas")
+
+[17:42
+
+Rugby,
+
+Top 14,
+
+La Rochelle
+
+Pas de changement dans le XV contre Toulouse](https://www.lequipe.fr/Rugby/Actualites/Pas-de-changement-dans-le-quinze-de-la-rochelle-contre-toulouse/1476222 "Pas de changement dans le XV contre Toulouse")
+
+[17:36
+
+Cyclisme,
+
+Championnats de France
+
+Armirail titré sur le contre-la-montre](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Bruno-armirail-champion-de-france-de-contre-la-montre/1476220 "Armirail titré sur le contre-la-montre")
+
+[17:31
+
+Euro 2024
+
+La conf' des Bleus en direct](https://www.lequipe.fr/Football/Actualites/Suivez-la-conf-de-presse-des-bleus-en-direct/1476217 "La conf' des Bleus en direct")
+
+[17:30
+
+Foot,
+
+Euro 84 (10/17)
+
+Les Bleus privés de revanche](https://www.lequipe.fr/Football/Actualites/Serie-euro-84-10-17-les-bleus-prives-de-revanche/1474895 "Les Bleus privés de revanche")
+
+[17:28
+
+Foot,
+
+Copa America
+
+Les choses insolites à savoir sur la compétition](https://www.lequipe.fr/Football/Actualites/Carton-rose-canada-boycott-de-ronaldinho-les-choses-insolites-a-savoir-sur-la-copa-america-2024/1476216 "Les choses insolites à savoir sur la compétition")
+
+[17:21
+
+Foot,
+
+Copa America
+
+Les cinq pépites à suivre](https://www.lequipe.fr/Football/Actualites/Endrick-paez-gimenez-les-cinq-pepites-a-suivre-lors-de-la-copa-america/1476215 "Les cinq pépites à suivre")
+
+[17:10
 
 Euro 2024,
 
-Bleus
+Angleterre
 
-Deschamps confirme que Mbappé devra se faire opérer](https://www.lequipe.fr/Football/Actualites/Deschamps-confirme-que-mbappe-devra-se-faire-operer-du-nez-mais-pas-dans-l-immediat/1475783 "Deschamps confirme que Mbappé devra se faire opérer")
+Foden titulaire face au Danemark](https://www.lequipe.fr/Football/Actualites/Phil-foden-angleterre-titulaire-face-au-danemark-a-l-euro-2024/1476209 "Foden titulaire face au Danemark")
+
+[17:10
+
+JO 2024,
+
+Aviron
+
+Lunatti et Ravera en route vers les Jeux](https://www.lequipe.fr/Jo-2024-paris/Aviron/Actualites/Emma-lunatti-et-elodie-ravera-scaramozzino-en-route-vers-les-jo-de-paris/1476206 "Lunatti et Ravera en route vers les Jeux")
+
+[17:00
+
+Tous sports,
+
+spécial L'Équipe
+
+Découvrez les sports les plus originaux](https://bit.ly/3RzDf6u "Découvrez les sports les plus originaux")
+
+[16:59
+
+F1,
+
+GP d'Espagne,
+
+Alpine
+
+Ocon: «Je pressens un week-end difficile»](https://www.lequipe.fr/Formule-1/Actualites/Esteban-ocon-alpine-avant-le-gp-d-espagne-je-pressens-un-week-end-difficile/1476196 "Ocon: «Je pressens un week-end difficile»")
+
+[16:59
+
+Euro 2024
+
+La Serbie arrache le nul en fin de match face à la Slovénie](https://www.lequipe.fr/Football/Actualites/La-serbie-arrache-le-match-nul-dans-le-temps-additionnel-face-a-la-slovenie-a-l-euro-2024/1476195 "La Serbie arrache le nul en fin de match face à la Slovénie")
 
 L'ÉQUIPE
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/687/covers/Preview-MEDIUM-33372.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/689/covers/Preview-MEDIUM-33500.jpg?v=4)
 
 lire l'édition
 
@@ -310,6 +314,7 @@ réglages accessibilité
 
 * [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
 * [Euro 2024](https://www.lequipe.fr/Football/Euro/)
+* [Copa America](https://www.lequipe.fr/Football/Copa-america/)
 
 * [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
     
@@ -426,6 +431,7 @@ réglages accessibilité
 * [Vélo Magazine](https://www.lequipe.fr/Velo-mag/)
 * [Spécial L'Équipe](https://www.lequipe.fr/Tous-sports/Special-l-equipe-partenariat/)
 * [Expositions photos](https://www.lequipe.fr/Expositions-photo/)
+* [Fondaction L'Équipe](https://www.lequipe.fr/Fondaction/)
 
 * services
 * [guide d'achat](https://www.lequipe.fr/Guide-d-achat/)
