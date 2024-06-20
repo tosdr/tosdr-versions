@@ -216,6 +216,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [CHECK OUT YOUR LOCAL SUMMER MOVIE SPECIALS! image link ![CHECK OUT YOUR LOCAL SUMMER MOVIE SPECIALS!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b894ae00-242b-11ef-8321-2b978811c524--fan-globalofferunit-homepage-summerexhibitor-292x118.png)](https://www.fandangomovietickets.com/exhibitorsummerseries1?cmp=TARS~FANDANGO~exhibitorsummerseries_Footer) 
+    
+    ### CHECK OUT YOUR LOCAL SUMMER MOVIE SPECIALS!
+    
+    Beat the heat with these great deals all season long
+    
+    [LEARN MORE](https://www.fandangomovietickets.com/exhibitorsummerseries1?cmp=TARS~FANDANGO~exhibitorsummerseries_Footer)
+    
+* [SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS image link ![SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0a787470-22c6-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-despicableme4gwp-292x118.png)](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer) 
+    
+    ### SAVE $8 ON SELECT FANDANGO AT HOME DESPICABLE ME AND MINIONS FILMS
+    
+    Buy a Ticket, Save $8 on Select Fandango at Home Despicable Me and Minions Films to stream at home.
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/DM4FAHGWPOffer?cmp=TARS~FANDANGO~DM4GWP_Footer)
+    
 * [WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL image link ![WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ab24a5a0-1156-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-insideout2-292x118.png)](https://www.fandangomovietickets.com/fandangosnewemotionssweepstakes?cmp=TARS~FANDANGO~PixarPlaceSweeps_Footer) 
     
     ### WIN A PIXAR FEST TRIP FOR 4 AT PIXAR PLACE HOTEL
@@ -224,29 +240,13 @@ Offers
     
     [BUY A TICKET](https://www.fandangomovietickets.com/fandangosnewemotionssweepstakes?cmp=TARS~FANDANGO~PixarPlaceSweeps_Footer)
     
-* [SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION image link ![SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/501c40f0-242a-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-badboys4-gwp-292x118.png)](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_Footer) 
+* [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
-    ### SAVE $5 ON BAD BOYS 4-MOVIE COLLECTION
+    ### GET DEADPOOL'S PREMIUM PACKAGE
     
-    Buy a ticket to Bad Boys: Ride or Die on Fandango and get $5 off the Bad Boys 4-Movie Collection
+    Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/BadBoys4GWP?cmp=TARS~FANDANGO~BadBoys4GWP_Footer)
-    
-* [JOIN THE FRONTIER PASS FOR HORIZON: AN AMERICAN SAGA image link ![JOIN THE FRONTIER PASS FOR HORIZON: AN AMERICAN SAGA](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f10d1220-2838-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-horizon-292x118.png)](https://links.fandango.com/join/68x/horizon?cmp=TARS~FANDANGO~HorizonCh1FrontierPass_footer) 
-    
-    ### JOIN THE FRONTIER PASS FOR HORIZON: AN AMERICAN SAGA
-    
-    For new content, deals, and more!
-    
-    [SIGN UP](https://links.fandango.com/join/68x/horizon?cmp=TARS~FANDANGO~HorizonCh1FrontierPass_footer)
-    
-* [$1 FAMILY MOVIES AT REGAL image link ![$1 FAMILY MOVIES AT REGAL](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0b5522c0-2a6f-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-regal-292x118.jpg)](https://www.fandango.com/32804_movietimes?ccode=REGL&chainID=REGL) 
-    
-    ### $1 FAMILY MOVIES AT REGAL
-    
-    Every Tuesday and Wednesday at 11am.
-    
-    [BUY TICKETS](https://www.fandango.com/32804_movietimes?ccode=REGL&chainID=REGL)
+    [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
 
 New & Coming soon
