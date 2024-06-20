@@ -197,57 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=158926571)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=22186082)  
+OXYAIDER (PTY) LTD
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=171512739)  
-Little Nutty Professors
+![valued client Camwaves Internet PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8503&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=93688530)  
+Camwaves Internet PTY Ltd
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=88696580)  
-Abandoned Vehicle and Truck Solutions
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=184960606)  
+ELLIE'S CLEANING CHICKS
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=63824381)  
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=48189143)  
+Well Hung Art
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=82974505)  
+Goju Ryu Karate Centre
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=66316936)  
+Lily Fern & Co
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=210239081)  
+MONSTER SECURITY GUARDING
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=1783967)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=145679518)  
+NC Labour Hire
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=122786316)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=76622610)  
+Myfinance-Online
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=181599672)  
+One2b
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=114404589)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=165972310)  
+Quad Biking Cape Town
+
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=97835096)  
 CHARLIEX CONSTRUCTIONS
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=100831240)  
-BD Maintenance
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=147862902)  
-Enhle Oarabile Kea
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=124196266)  
-AquariumSmiths
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=18696957)  
-Gemini-IT Group
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=156579845)  
-West Coast Horse Trails
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=75306278)  
-Wiselink Broadband Dundee
-
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=44946021)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=2432301)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=184365211)  
-Vplay Grafix
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=29911865)  
-Fox Alarms & Security
-
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=f76cf06090dc7570027da53850024ca80a09b26972ced773fe4683f7155567fa&c=207519658)  
-Nilbet T/A Waterman
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
