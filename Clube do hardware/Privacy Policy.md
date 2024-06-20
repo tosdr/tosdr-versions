@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![gspcarvalho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245845.thumb.jpeg.b765c0b7d1deee71c40c7e0eeb7ef5a1.jpeg)](https://www.clubedohardware.com.br/profile/1245845-gspcarvalho/ "Ir ao perfil de gspcarvalho")
+    * [![gomezinho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248102.thumb.png.a59a1bbb533dc5c4a21ee88c4e27446c.png)](https://www.clubedohardware.com.br/profile/1248102-gomezinho/ "Ir ao perfil de gomezinho")
         
         0
         
-        [BIOS fica alterando sozinha o led da placa-mãe](https://www.clubedohardware.com.br/forums/topic/1689406-bios-fica-alterando-sozinha-o-led-da-placa-m%C3%A3e/?do=getNewComment "BIOS fica alterando sozinha o led da placa-mãe")
+        [O meu pc não está ligando](https://www.clubedohardware.com.br/forums/topic/1689546-o-meu-pc-n%C3%A3o-est%C3%A1-ligando/?do=getNewComment "O meu pc não está ligando")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [gspcarvalho](https://www.clubedohardware.com.br/profile/1245845-gspcarvalho/ "Ir ao perfil de gspcarvalho")  
+        Por [gomezinho](https://www.clubedohardware.com.br/profile/1248102-gomezinho/ "Ir ao perfil de gomezinho")  
         6 minutos atrás
         
-    * [![Kelvin Larmany](https://www.clubedohardware.com.br/uploads/members/monthly_2023_09/361193864_287181307225323_8604741924380177514_n.thumb.jpg.c9437eb89435c97f83c8a48cb3361499.jpg)](https://www.clubedohardware.com.br/profile/1165960-kelvin-larmany/ "Ir ao perfil de Kelvin Larmany")
-        
-        0
-        
-        [placa-mãe B450M Steel Legend aguenta o Ryzen 7 5700](https://www.clubedohardware.com.br/forums/topic/1689405-placa-m%C3%A3e-b450m-steel-legend-aguenta-o-ryzen-7-5700/?do=getNewComment "placa-mãe B450M Steel Legend aguenta o Ryzen 7 5700")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Kelvin Larmany](https://www.clubedohardware.com.br/profile/1165960-kelvin-larmany/ "Ir ao perfil de Kelvin Larmany")  
-        17 minutos atrás
-        
-    * [![Hellthon Lucas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248019.thumb.jpeg.f2f3efffcc3016ebf73df875d3e75595.jpeg)](https://www.clubedohardware.com.br/profile/1248019-hellthon-lucas/ "Ir ao perfil de Hellthon Lucas")
-        
-        0
-        
-        [Ps2 guitar hero 3](https://www.clubedohardware.com.br/forums/topic/1689404-ps2-guitar-hero-3/?do=getNewComment "Ps2 guitar hero 3")
-        
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Hellthon Lucas](https://www.clubedohardware.com.br/profile/1248019-hellthon-lucas/ "Ir ao perfil de Hellthon Lucas")  
-        20 minutos atrás
-        
-    * [![srgigante](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/IMG_20201124_053615.thumb.jpg.10e57735af62b2fb83fb758f33a34b46.jpg)](https://www.clubedohardware.com.br/profile/1161526-srgigante/ "Ir ao perfil de srgigante")
-        
-        1
-        
-        [Ryzen 5 3600 é bom para RTX 4060 Galax?](https://www.clubedohardware.com.br/forums/topic/1689402-ryzen-5-3600-%C3%A9-bom-para-rtx-4060-galax/?do=getNewComment "Ryzen 5 3600 é bom para RTX 4060 Galax?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [srgigante](https://www.clubedohardware.com.br/profile/1161526-srgigante/ "Ir ao perfil de srgigante")  
-        40 minutos atrás
-        
-    * [![Jose147](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1202636-jose147/ "Ir ao perfil de Jose147")
-        
-        0
-        
-        [Qual placa-mãe escolheu pro processador Ryzen 7 5700X](https://www.clubedohardware.com.br/forums/topic/1689401-qual-placa-m%C3%A3e-escolheu-pro-processador-ryzen-7-5700x/?do=getNewComment "Qual placa-mãe escolheu pro processador Ryzen 7 5700X")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Jose147](https://www.clubedohardware.com.br/profile/1202636-jose147/ "Ir ao perfil de Jose147")  
-        44 minutos atrás
-        
-    * [![Pedro701](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236274c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1172126-pedro701/ "Ir ao perfil de Pedro701")
-        
-        1
-        
-        [Computador liga, mas não dá Vídeo](https://www.clubedohardware.com.br/forums/topic/1689400-computador-liga-mas-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Computador liga, mas não dá Vídeo")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Pedro701](https://www.clubedohardware.com.br/profile/1172126-pedro701/ "Ir ao perfil de Pedro701")  
-        52 minutos atrás
-        
-    * [![LK10](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248014.thumb.png.0c935b0ed31d6fd792256ce89db4f432.png)](https://www.clubedohardware.com.br/profile/1248014-lk10/ "Ir ao perfil de LK10")
+    * [![Plasma_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1242972.thumb.png.5d0dd835ebaa7fb04d870851030b1004.png)](https://www.clubedohardware.com.br/profile/1242972-plasma_/ "Ir ao perfil de Plasma_")
         
         2
         
-        [Meu pc está aquecendo muito rápido após upgrade, com um Ryzen 7 5700x!](https://www.clubedohardware.com.br/forums/topic/1689399-meu-pc-est%C3%A1-aquecendo-muito-r%C3%A1pido-ap%C3%B3s-upgrade-com-um-ryzen-7-5700x/?do=getNewComment "Meu pc está aquecendo muito rápido após upgrade, com um Ryzen 7 5700x!")
+        [Como posso fazer a atualização da minha placa-mãe?](https://www.clubedohardware.com.br/forums/topic/1689545-como-posso-fazer-a-atualiza%C3%A7%C3%A3o-da-minha-placa-m%C3%A3e/?do=getNewComment "Como posso fazer a atualização da minha placa-mãe?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [LK10](https://www.clubedohardware.com.br/profile/1248014-lk10/ "Ir ao perfil de LK10")  
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Plasma\_](https://www.clubedohardware.com.br/profile/1242972-plasma_/ "Ir ao perfil de Plasma_")  
         1 hora atrás
         
-    * [![noturnoblack12](https://www.clubedohardware.com.br/uploads/members/monthly_2022_10/imported-photo-1206585.thumb.png.31bb2be136051b7839ea73abea765b9a.png)](https://www.clubedohardware.com.br/profile/1206585-noturnoblack12/ "Ir ao perfil de noturnoblack12")
+    * [![GOODBR](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1247874.thumb.jpeg.d9e26b2eff3400502ad9b96ff865becd.jpeg)](https://www.clubedohardware.com.br/profile/1247874-goodbr/ "Ir ao perfil de GOODBR")
         
         1
         
-        [Será que a gamemax gm500 suporta 4060 8gb?](https://www.clubedohardware.com.br/forums/topic/1689398-ser%C3%A1-que-a-gamemax-gm500-suporta-4060-8gb/?do=getNewComment "Será que a gamemax gm500 suporta 4060 8gb?")
+        [Compatibilidade do processador com a Maxsun B450m challenger](https://www.clubedohardware.com.br/forums/topic/1689544-compatibilidade-do-processador-com-a-maxsun-b450m-challenger/?do=getNewComment "Compatibilidade do processador com a Maxsun B450m challenger")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [noturnoblack12](https://www.clubedohardware.com.br/profile/1206585-noturnoblack12/ "Ir ao perfil de noturnoblack12")  
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [GOODBR](https://www.clubedohardware.com.br/profile/1247874-goodbr/ "Ir ao perfil de GOODBR")  
         1 hora atrás
         
-    * [![Clayton Alexandre de Souza](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1207654.thumb.jpeg.135143bb61c5e6c642d6350db37ddf9d.jpeg)](https://www.clubedohardware.com.br/profile/1207654-clayton-alexandre-de-souza/ "Ir ao perfil de Clayton Alexandre de Souza")
-        
-        5
-        
-        [Placa de Vídeo qual usar nesta configuração](https://www.clubedohardware.com.br/forums/topic/1689397-placa-de-v%C3%ADdeo-qual-usar-nesta-configura%C3%A7%C3%A3o/?do=getNewComment "Placa de Vídeo qual usar nesta configuração")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Clayton Alexandre de Souza](https://www.clubedohardware.com.br/profile/1207654-clayton-alexandre-de-souza/ "Ir ao perfil de Clayton Alexandre de Souza")  
-        1 hora atrás
-        
-    * [![VictorX](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1227918.thumb.jpeg.06eb640cccd6acc6f521b35726f4a108.jpeg)](https://www.clubedohardware.com.br/profile/1227918-victorx/ "Ir ao perfil de VictorX")
+    * [![InfinityPool](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248098.thumb.jpeg.c47eaca2c2e9eb1b0f1258c0bd937013.jpeg)](https://www.clubedohardware.com.br/profile/1248098-infinitypool/ "Ir ao perfil de InfinityPool")
         
         0
         
-        [placa-mãe com led dram acesso.](https://www.clubedohardware.com.br/forums/topic/1689396-placa-m%C3%A3e-com-led-dram-acesso/?do=getNewComment "placa-mãe com led dram acesso.")
+        [PC liga normal mas as leds n acendem](https://www.clubedohardware.com.br/forums/topic/1689543-pc-liga-normal-mas-as-leds-n-acendem/?do=getNewComment "PC liga normal mas as leds n acendem")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [VictorX](https://www.clubedohardware.com.br/profile/1227918-victorx/ "Ir ao perfil de VictorX")  
-        1 hora atrás
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [InfinityPool](https://www.clubedohardware.com.br/profile/1248098-infinitypool/ "Ir ao perfil de InfinityPool")  
+        2 horas atrás
+        
+    * [![MarlonPomini](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4c362%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1224117-marlonpomini/ "Ir ao perfil de MarlonPomini")
+        
+        1
+        
+        [e3 1270 v2 da bao ?](https://www.clubedohardware.com.br/forums/topic/1689542-e3-1270-v2-da-bao/?do=getNewComment "e3 1270 v2 da bao ?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [MarlonPomini](https://www.clubedohardware.com.br/profile/1224117-marlonpomini/ "Ir ao perfil de MarlonPomini")  
+        2 horas atrás
+        
+    * [![Thiago Natan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248096.thumb.png.24ccf784a30f97891c340a19fac074fd.png)](https://www.clubedohardware.com.br/profile/1248096-thiago-natan/ "Ir ao perfil de Thiago Natan")
+        
+        0
+        
+        [Placa-mãe não reconhece RAM sem buffer](https://www.clubedohardware.com.br/forums/topic/1689541-placa-m%C3%A3e-n%C3%A3o-reconhece-ram-sem-buffer/?do=getNewComment "Placa-mãe não reconhece RAM sem buffer")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Thiago Natan](https://www.clubedohardware.com.br/profile/1248096-thiago-natan/ "Ir ao perfil de Thiago Natan")  
+        2 horas atrás
+        
+    * [![Douglas L Rinaldo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248095.thumb.jpeg.9961889ba8c0d244c8b60ee82e50eb59.jpeg)](https://www.clubedohardware.com.br/profile/1248095-douglas-l-rinaldo/ "Ir ao perfil de Douglas L Rinaldo")
+        
+        3
+        
+        [Superaquecimento b550m + Ryzen 9 5900x (VRM MOS)](https://www.clubedohardware.com.br/forums/topic/1689540-superaquecimento-b550m-ryzen-9-5900x-vrm-mos/?do=getNewComment "Superaquecimento b550m + Ryzen 9 5900x (VRM MOS)")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Douglas L Rinaldo](https://www.clubedohardware.com.br/profile/1248095-douglas-l-rinaldo/ "Ir ao perfil de Douglas L Rinaldo")  
+        2 horas atrás
+        
+    * [![LyingPaladin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248094.thumb.jpeg.1aa09372e782757a0455c7025f836678.jpeg)](https://www.clubedohardware.com.br/profile/1248094-lyingpaladin/ "Ir ao perfil de LyingPaladin")
+        
+        1
+        
+        [Compatibilidade das peças na minha build](https://www.clubedohardware.com.br/forums/topic/1689539-compatibilidade-das-pe%C3%A7as-na-minha-build/?do=getNewComment "Compatibilidade das peças na minha build")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [LyingPaladin](https://www.clubedohardware.com.br/profile/1248094-lyingpaladin/ "Ir ao perfil de LyingPaladin")  
+        3 horas atrás
+        
+    * [![Pim_142](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1248093.thumb.png.38a666320a40842b737ec3b80547f303.png)](https://www.clubedohardware.com.br/profile/1248093-pim_142/ "Ir ao perfil de Pim_142")
+        
+        1
+        
+        [O whatercooler da super freme é bom ?](https://www.clubedohardware.com.br/forums/topic/1689538-o-whatercooler-da-super-freme-%C3%A9-bom/?do=getNewComment "O whatercooler da super freme é bom ?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Pim\_142](https://www.clubedohardware.com.br/profile/1248093-pim_142/ "Ir ao perfil de Pim_142")  
+        3 horas atrás
+        
+    * [![Lizzy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/imported-photo-1242192.thumb.png.2cac6c989e038e938b266c826806b752.png)](https://www.clubedohardware.com.br/profile/1242192-lizzy/ "Ir ao perfil de Lizzy")
+        
+        2
+        
+        [Melhor fonte de 500W para aguentar minha placa de vídeo?](https://www.clubedohardware.com.br/forums/topic/1689537-melhor-fonte-de-500w-para-aguentar-minha-placa-de-v%C3%ADdeo/?do=getNewComment "Melhor fonte de 500W para aguentar minha placa de vídeo?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Lizzy](https://www.clubedohardware.com.br/profile/1242192-lizzy/ "Ir ao perfil de Lizzy")  
+        3 horas atrás
         
     
 
@@ -390,8 +390,8 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
