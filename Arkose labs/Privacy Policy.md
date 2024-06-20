@@ -33,7 +33,7 @@
     
     * [Financial Services](https://www.arkoselabs.com/industries/finance-fintech/ "Financial Services")
     * [Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/ "Technology Platforms")
-    * [Social & Networking](https://www.arkoselabs.com/industries/media-streaming/ "Social & Networking")
+    * [Social & Networking](https://www.arkoselabs.com/industries/social-networking/ "Social & Networking")
     * [Streaming & Media](https://www.arkoselabs.com/industries/media-streaming/ "Streaming & Media")
     * [Travel & Hospitality](https://www.arkoselabs.com/industries/travel/ "Travel & Hospitality")
     * [Gaming & Gambling](https://www.arkoselabs.com/industries/online-gambling-igaming/ "Gaming & Gambling")
@@ -497,7 +497,8 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
     * [Finance & Fintech](https://www.arkoselabs.com/industries/finance-fintech/ "Finance & Fintech")
     * [Technology Platforms](https://www.arkoselabs.com/industries/technology-platforms/ "Technology Platforms")
     * [Sharing Economy](https://www.arkoselabs.com/industries/sharing-economy/ "Sharing Economy")
-    * [Social Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/ "Social Media & Streaming")
+    * [Social & Networking](https://www.arkoselabs.com/industries/social-networking/ "Social & Networking")
+    * [Media & Streaming](https://www.arkoselabs.com/industries/media-streaming/ "Media & Streaming")
     * [Retail & eCommerce](https://www.arkoselabs.com/industries/retail-ecommerce/ "Retail & eCommerce")
     * [Telco](https://www.arkoselabs.com/resource/arkose-labs-for-telco/ "Telco")
     * [Travel & Hospitality](https://www.arkoselabs.com/industries/travel/ "Travel & Hospitality")
