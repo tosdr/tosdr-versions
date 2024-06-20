@@ -9,9 +9,14 @@ Suche
 impressum
 =========
 
+Kontakt
+-------
+
+Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
+
 Iimpressum
 
-[Übersicht](https://nindo.de/impressum)[Statistiken](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Demografie](https://nindo.de/impressum/demography/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Botting](https://nindo.de/impressum/botting/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
+[Übersicht](https://nindo.de/impressum)[Statistiken](https://nindo.de/impressum/stats/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Demografie](https://nindo.de/impressum/demography/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Botting](https://nindo.de/impressum/botting/83bb0abb8ac77311ede0eb3cab65c3e5e0d813ba)[Brandsafety](https://nindo.de/impressum/brandsafety)[Inhalte](https://nindo.de/impressum/content)[Branded Content](https://nindo.de/impressum/branded-content)
 
 API
 
@@ -29,27 +34,17 @@ Creator hat erwähnt
 
 Creator wurde erwähnt
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.0cf64da5.png&w=3840&q=75&dpl=dpl_F2K3x9iwweUvRvvAtXBMzbc1mMie)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.0cf64da5.png&w=3840&q=75&dpl=dpl_6wUjnQweuQKuApsXce16sfukmB82)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 Erwähnte Brands
 ---------------
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.0cf64da5.png&w=3840&q=75&dpl=dpl_F2K3x9iwweUvRvvAtXBMzbc1mMie)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
-
-Brandsafety
------------
-
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbrandsafety.39720f3c.png&w=3840&q=75&dpl=dpl_F2K3x9iwweUvRvvAtXBMzbc1mMie)Brandsafety Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnetwork.0cf64da5.png&w=3840&q=75&dpl=dpl_6wUjnQweuQKuApsXce16sfukmB82)Netzwerk Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 Inhalte
 -------
 
-![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontent.b17e2cea.png&w=3840&q=75&dpl=dpl_F2K3x9iwweUvRvvAtXBMzbc1mMie)Content Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
-
-Kontakt
--------
-
-Kontaktdaten erhältst du nur mit [Nindo Pro](https://nindo.de/demo).
+![Creator Netzwerk Vorschau](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcontent.b17e2cea.png&w=3840&q=75&dpl=dpl_6wUjnQweuQKuApsXce16sfukmB82)Content Insights erhältst du nur mit Nindo Pro[Jetzt Demo vereinbaren](https://nindo.de/demo)
 
 * Features
 * [Charts](https://nindo.de/charts)
