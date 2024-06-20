@@ -223,7 +223,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/canadian-tire)[Rona
         
-        up to 3% Cash Back](https://www.rakuten.ca/rona)[Giant Tiger
+        1% Cash Back](https://www.rakuten.ca/rona)[Giant Tiger
         
         2% Cash Back](https://www.rakuten.ca/giant-tiger)[Worx
         
@@ -373,13 +373,13 @@ FR
         
         5% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        2% Cash Back](https://www.rakuten.ca/petsmart)[Pet Valu
-        
-        1% Cash Back](https://www.rakuten.ca/pet-valu)[Rover
+        15% Cash Back](https://www.rakuten.ca/petsmart)[Rover
         
         Up to $15 Cash Back](https://www.rakuten.ca/rover)[Well.ca
         
-        2% Cash Back](https://www.rakuten.ca/well)
+        2% Cash Back](https://www.rakuten.ca/well)[Pet Valu
+        
+        Coupons Only](https://www.rakuten.ca/pet-valu)
         
         Featured Shops & Deals
         
@@ -401,7 +401,7 @@ FR
         
         [MEC
         
-        2% Cash Back](https://www.rakuten.ca/mec)[Columbia Sportswear Canada
+        4% Cash Back](https://www.rakuten.ca/mec)[Columbia Sportswear Canada
         
         2% Cash Back](https://www.rakuten.ca/columbia-sportswear-ca)[The Last Hunt
         
