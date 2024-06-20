@@ -109,7 +109,7 @@ Company
 Support
 
 * [License Key Retrieval](https://www.getmailbird.com/license-retrieval/)
-* [Become an Alpha tester](https://www.getmailbird.com/alpha-testers/)
+* [Become a Mailbird tester](https://www.getmailbird.com/alpha-testers/)
 * [Unsubscribe from Newsletter](https://www.getmailbird.com/to-unsubscribe/)
 * [Support](https://support.getmailbird.com/)
 
