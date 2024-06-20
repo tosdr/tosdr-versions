@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [7 reasons that’ll have you excited to start ELDEN RING today](https://en.bandainamcoent.eu/elden-ring/news/7-reasons-thatll-have-you-excited-start-elden-ring-today)
 * [Learn more about GUNDAM BREAKER 4 story and characters!](https://en.bandainamcoent.eu/gundam/news/learn-more-about-gundam-breaker-4-story-and-characters)
-* [WINGS OF THE HEART TAKE FLIGHT ONCE MORE WITH BATEN KAITOS I & II™ HD REMASTER NOW AVAILABLE ON PC](https://en.bandainamcoent.eu/baten-kaitos/news/wings-of-the-heart-take-flight-once-more-baten-kaitos-i-iitm-hd-remaster-now)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
