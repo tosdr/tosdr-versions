@@ -93,7 +93,7 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-70
+55
 
 [Don Toliver
 
@@ -117,7 +117,7 @@ DOPAMINE](https://www.albumoftheyear.org/album/882190-normani-dopamine.php)
 
 New World Depression](https://www.albumoftheyear.org/album/899681-suicideboys-new-world-depression.php)
 
-92
+90
 
 [Ulcerate
 
