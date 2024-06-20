@@ -499,8 +499,6 @@ If you have questions or concerns about this privacy policy, or about your deali
 > Redmond, WA 98052-0577  
 > customer.service@paizo.com
 
-Paizo will be closed on Wednesday, June 19th in observation of the Juneteenth holiday.
-
 ![Paizo](https://cdn.paizo.com/image/navigation/Nav-Logo-Global.png)
 
 * [About Paizo](https://paizo.com/paizo/about)
