@@ -535,9 +535,9 @@ If you have any questions, inquires, requests, or complaints concerning this Pri
 
 1. 1 [One Piece](https://myanimelist.net/anime/21/One_Piece)
 2. 2 [Hibike! Euphonium 3](https://myanimelist.net/anime/39894/Hibike_Euphonium_3)
-3. 3 [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime/49458/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3)
-4. 4 [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2)
-5. 5 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+3. 3 [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2)
+4. 4 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+5. 5 [Kaijuu 8-gou](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
