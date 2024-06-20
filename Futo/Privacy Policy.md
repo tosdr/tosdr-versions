@@ -1,14 +1,14 @@
 FUTO Voice Input Privacy Policy
 ===============================
 
-Last updated October 6, 2023. Valid as of v1.2.2
+Last updated June 19, 2024. Valid as of v1.3.4
 
 1\. General clauses
 -------------------
 
 1.1. The app may make external requests for the following purposes: checking for updates (once every 2 days), downloading new models (at your choice), paying for the app (at your choice), sending crash reports (at your choice)
 
-1.2. During these requests, your IP address and other traffic routing information may be transmitted to and processed by various service providers. We do not otherwise log or store your data/requests unless otherwise specified.
+1.2. During these requests, your IP address and other traffic routing information may be transmitted to and processed by various service providers.
 
 1.3. Microphone data is always processed on your device and will never be transmitted elsewhere.
 
