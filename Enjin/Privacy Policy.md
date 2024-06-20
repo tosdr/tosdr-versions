@@ -122,6 +122,10 @@ News
 
 Latest Adopters
 
+[SITEnetwork
+
+SITEnetwork Ignites $39 Billion Virtual Tourism Market](https://www.enjin.com/ecosystem/sitenetwork)
+
 [BeamGo
 
 Beamgo Brings Bingo to 1.0 Billion Telegram Users](https://www.enjin.com/ecosystem/beamgo)
@@ -130,13 +134,11 @@ Beamgo Brings Bingo to 1.0 Billion Telegram Users](https://www.enjin.com/ecosyst
 
 Explore dynamic Enjin Blockchain status and transactions with Subscan](https://www.enjin.com/ecosystem/subscan)
 
-[NFToinks
-
-NFToinks’ Transformation from Enjin NFT Enthusiast to Web3 Artist and Game Creator](https://www.enjin.com/ecosystem/nftoinks)
-
 Lastest News
 
 [Explore Blog](https://www.enjin.com/blog)
+
+[What Is Crypto Staking & Is It Safe?](https://www.enjin.com/blog/what-is-crypto-staking-is-it-safe)
 
 [Enjin scales RWAs and NFTs to millions of artists with tokenized vinyl records](https://www.enjin.com/blog/enjin-scales-rwas-and-nfts-with-tokenized-vinyl-records)
 
@@ -147,8 +149,6 @@ Lastest News
 [Recapping the Biggest Developments Across the Enjin Ecosystem in Q1 2024](https://www.enjin.com/blog/ecosystem-update-q1-2024)
 
 [Announcing the Ecosystem Collab Network: A Support System for Enjin Adopters](https://www.enjin.com/blog/announcing-the-ecosystem-collab-network-a-support-system-for-enjin-adopters)
-
-[Say Hello to Enjin Discord Bot, Providing Instant Social Utility for NFTs via Discord](https://www.enjin.com/blog/say-hello-to-the-enjin-discord-bot)
 
 [ADD YOUR PROJECT](https://www.enjin.com/join)
 
@@ -578,6 +578,18 @@ An intuitive NFT marketplace that _anyone_ can use – create, distribute, and 
 Latest news
 -----------
 
+[.](https://www.enjin.com/blog/what-is-crypto-staking-is-it-safe)
+
+![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6673d2d75f69b2aa1f48e8d4_1%20(1).jpg)
+
+Education
+
+Guest Posts
+
+June 20, 2024
+
+What Is Crypto Staking & Is It Safe?
+
 [.](https://www.enjin.com/blog/enjin-scales-rwas-and-nfts-with-tokenized-vinyl-records)
 
 ![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6669623ba11ef8e35354a5c7_George_Murphy_-_blog.jpg)
@@ -601,16 +613,6 @@ Ecosystem
 June 7, 2024
 
 Enjin Coin 95% Unlocked: June 2024 Token Supply Update
-
-[.](https://www.enjin.com/blog/quick-wallet)
-
-![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/664c071b958a148b206f2dcb_HelpCenter%20-%20blog(1).png)
-
-Dev Updates
-
-May 21, 2024
-
-Announcing Quick Wallet: Claim Enjin NFTs Anytime, Anywhere
 
 [Read More](https://www.enjin.com/blog)
 
