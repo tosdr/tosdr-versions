@@ -57,11 +57,11 @@ Show prices ex. VAT
 * Account
 * Basket 0
 
-[FREE next-day delivery on everything](https://www.cartridgesave.co.uk/free-delivery.html)
+[FREE next-day delivery on orders over £30](https://www.cartridgesave.co.uk/free-delivery.html)
 
 [Rated 4.9 / 5](https://uk.trustpilot.com/review/www.cartridgesave.co.uk)
 
-[Lowest online price guaranteed Lowest price guaranteed _Fast, FREE delivery_](https://www.cartridgesave.co.uk/lowprice.html)
+[Lowest online price guaranteed Lowest price guaranteed _Fast, FREE next-day delivery on orders over £30_](https://www.cartridgesave.co.uk/lowprice.html)
 
 Terms and conditions
 ====================
@@ -127,7 +127,7 @@ In an effort to provide our customers with the most current information, price a
 
 Save in respect of your statutory rights under the Sale of Goods Act 1977 (as amended) and the Unfair Contracts Terms Act 1977 and save in respect to our guarantee, we shall not be liable to you by reason of any implied warranty, condition or other terms, or any duty at common law, or under these terms of our contract with you, for any indirect, special or consequential loss or damage (whether for loss of profit or otherwise), costs, expenses or other claims for compensation whatsoever (whether caused by our negligence) which arise out of or in connection with the supply of the goods or their use by you.
 
-[**FREE delivery on everything.**](https://www.cartridgesave.co.uk/free-delivery.html)
+[**FREE next-day delivery on orders over £30.**](https://www.cartridgesave.co.uk/free-delivery.html)
 
 ### Customer services
 
