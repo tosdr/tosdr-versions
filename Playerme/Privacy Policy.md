@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/captain-blood-returns-to-mainstream-consoles/)
+    [](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
     
-    ![Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/captain-blood-returns-to-mainstream-consoles/)
+    [](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
     
-    ![Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,58 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/wp-content/uploads/2024/06/Elden-Ring-DLC-Shadow-of-the-Erdtree-Is-a-Brilliant.png)
+
+[Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+June 20, 2024/
+
+Elden Ring DLC: Shadow of the Erdtree is nearly upon the general audience, and the hype regarding Elden Ring’s one…
+
+[Read More](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+
+![Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/wp-content/uploads/2024/06/Ilya-Sutskever-OpenAIs-Former-Chief-Scientist-Launches-New-AI-Startup.png)
+
+[Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+June 20, 2024/
+
+Ilya Sutskever, one of OpenAI’s co-founders and former Chief Scientist, has announced he will launch a new startup company called…
+
+[Read More](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+
+![Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/wp-content/uploads/2024/06/How-to-Earn-and-Spend.png)
+
+[Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+June 19, 2024/
+
+Since its launch in 2003, Steam has gradually become one of the most popular platforms for purchasing, downloading, and playing…
+
+[Read More](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
+
+![Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/wp-content/uploads/2024/06/Nintendo-Direct-2024.png)
+
+[Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/complete-recap-of-nintendo-direct-2024/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+June 19, 2024/
+
+Nintendo Direct 2024 is now a done deal, and while the livestream was short, Nintendo did squeeze in their time…
+
+[Read More](https://player.me/complete-recap-of-nintendo-direct-2024/)
+
 ![Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/wp-content/uploads/2024/06/Old-But-Golden-Captain-Blood-Returns-to-Mainstream-Consoles-After-14-Years.png)
 
 [Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/captain-blood-returns-to-mainstream-consoles/)
@@ -192,58 +244,6 @@ June 14, 2024/
 Since the official Dragon Ball Sparking Zero (Budokai Tenkaichi 4) announcement in March of last year, many, including us die-hard…
 
 [Read More](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/)
-
-![What Are the 5 Best Pokemon Games for Beginner Trainers?](https://player.me/wp-content/uploads/2024/06/What-Are-the-5-Best-Pokemon-Games-for-Beginner-Trainers.png)
-
-[What Are the 5 Best Pokemon Games for Beginner Trainers?](https://player.me/what-are-the-5-best-pokemon-games-for-beginner-trainers/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-June 13, 2024/
-
-Discovering the best Pokemon games as a starting trainer is like stepping into a world filled with exciting adventures with…
-
-[Read More](https://player.me/what-are-the-5-best-pokemon-games-for-beginner-trainers/)
-
-![Wuthering Waves 6 Arc Storyline Quality Receives Brutal Reaction From Chinese Players](https://player.me/wp-content/uploads/2024/06/Wuthering-Waves-6-Arc-Storyline-Quality-Splits-International-and-Chinese-Fan-Base.png)
-
-[Wuthering Waves 6 Arc Storyline Quality Receives Brutal Reaction From Chinese Players](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 13, 2024/
-
-Wuthering Waves, the latest “Genshin Impact” killer, has made waves, no pun intended, throughout the gaming community due to its…
-
-[Read More](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/)
-
-![Top 4 Female Tekken 8 Fighters to Obliterate Your Opponents in Style!](https://player.me/wp-content/uploads/2024/06/Top-4-Female-Tekken-8-Fighters-to-Obliterate-Your-Opponents-in-Style.png)
-
-[Top 4 Female Tekken 8 Fighters to Obliterate Your Opponents in Style!](https://player.me/top-5-female-tekken-8-fighters-to-win-in-style/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-June 12, 2024/
-
-Are you ready to dominate the arena in Tekken 8? Look no further! In this guide, we’ll unveil the ultimate…
-
-[Read More](https://player.me/top-5-female-tekken-8-fighters-to-win-in-style/)
-
-![Top 10 Bloodborne Weapons: Master the Hunt with the Correct Choice](https://player.me/wp-content/uploads/2024/06/Top-10-Bloodborne-Weapons-Master-the-Hunt-with-The-Correct-Choice.png)
-
-[Top 10 Bloodborne Weapons: Master the Hunt with the Correct Choice](https://player.me/top-10-bloodborne-weapons/)
-
-
-----------------------------------------------------------------------------------------------------------------------
-
-June 12, 2024/
-
-Since Bloodborne’s launch nearly a decade ago in 2015, one remaining contention regarding FromSoftware’s PlayStation exclusive is which Bloodborne weapons…
-
-[Read More](https://player.me/top-10-bloodborne-weapons/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,58 @@ GAMING
 *   Back
 * The Last of Us
 
+![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/wp-content/uploads/2024/06/Elden-Ring-DLC-Shadow-of-the-Erdtree-Is-a-Brilliant.png)
+
+[Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+June 20, 2024/
+
+Elden Ring DLC: Shadow of the Erdtree is nearly upon the general audience, and the hype regarding Elden Ring’s one…
+
+[Read More](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+
+![Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/wp-content/uploads/2024/06/Ilya-Sutskever-OpenAIs-Former-Chief-Scientist-Launches-New-AI-Startup.png)
+
+[Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+June 20, 2024/
+
+Ilya Sutskever, one of OpenAI’s co-founders and former Chief Scientist, has announced he will launch a new startup company called…
+
+[Read More](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+
+![Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/wp-content/uploads/2024/06/How-to-Earn-and-Spend.png)
+
+[Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+June 19, 2024/
+
+Since its launch in 2003, Steam has gradually become one of the most popular platforms for purchasing, downloading, and playing…
+
+[Read More](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
+
+![Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/wp-content/uploads/2024/06/Nintendo-Direct-2024.png)
+
+[Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/complete-recap-of-nintendo-direct-2024/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+June 19, 2024/
+
+Nintendo Direct 2024 is now a done deal, and while the livestream was short, Nintendo did squeeze in their time…
+
+[Read More](https://player.me/complete-recap-of-nintendo-direct-2024/)
+
 ![Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/wp-content/uploads/2024/06/Old-But-Golden-Captain-Blood-Returns-to-Mainstream-Consoles-After-14-Years.png)
 
 [Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/captain-blood-returns-to-mainstream-consoles/)
@@ -353,58 +405,6 @@ June 13, 2024/
 Wuthering Waves, the latest “Genshin Impact” killer, has made waves, no pun intended, throughout the gaming community due to its…
 
 [Read More](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/)
-
-![Top 4 Female Tekken 8 Fighters to Obliterate Your Opponents in Style!](https://player.me/wp-content/uploads/2024/06/Top-4-Female-Tekken-8-Fighters-to-Obliterate-Your-Opponents-in-Style.png)
-
-[Top 4 Female Tekken 8 Fighters to Obliterate Your Opponents in Style!](https://player.me/top-5-female-tekken-8-fighters-to-win-in-style/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-June 12, 2024/
-
-Are you ready to dominate the arena in Tekken 8? Look no further! In this guide, we’ll unveil the ultimate…
-
-[Read More](https://player.me/top-5-female-tekken-8-fighters-to-win-in-style/)
-
-![Top 10 Bloodborne Weapons: Master the Hunt with the Correct Choice](https://player.me/wp-content/uploads/2024/06/Top-10-Bloodborne-Weapons-Master-the-Hunt-with-The-Correct-Choice.png)
-
-[Top 10 Bloodborne Weapons: Master the Hunt with the Correct Choice](https://player.me/top-10-bloodborne-weapons/)
-
-
-----------------------------------------------------------------------------------------------------------------------
-
-June 12, 2024/
-
-Since Bloodborne’s launch nearly a decade ago in 2015, one remaining contention regarding FromSoftware’s PlayStation exclusive is which Bloodborne weapons…
-
-[Read More](https://player.me/top-10-bloodborne-weapons/)
-
-![Elon Musk’s SpaceX Ventures into National Security to Empower Spy Satellite Network for U.S.](https://player.me/wp-content/uploads/2024/03/Elon-Musks-SpaceX-Ventures-into-National-Security_-Empowering-Spy-Satellite-Network-for-US.jpg)
-
-[Elon Musk’s SpaceX Ventures into National Security to Empower Spy Satellite Network for U.S.](https://player.me/elon-musks-spacex-ventures-into-national-security/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 18, 2024/
-
-Elon Musk‘s SpaceX has expanded its reach beyond commercial spaceflight, collaborating with national security with its Starshield initiative. Under a…
-
-[Read More](https://player.me/elon-musks-spacex-ventures-into-national-security/)
-
-![PS Plus: 7 New Games for March and Beyond](https://player.me/wp-content/uploads/2024/03/PS-Plus-7-New-Games-for-March-and-Beyond-01.png)
-
-[PS Plus: 7 New Games for March and Beyond](https://player.me/7-new-games-in-ps-plus-for-march-and-beyond/)
-
-
----------------------------------------------------------------------------------------------------------------
-
-March 17, 2024/
-
-PS Plus is Sony’s solution to Xbox Game Pass and its competitive titles. If you’re tired of buying new games…
-
-[Read More](https://player.me/7-new-games-in-ps-plus-for-march-and-beyond/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,30 @@ The resurgence of flip phones is a welcoming surprise in the current market domi
 
 player.me
 
+[](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/ "Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)")
+
+[Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+
+June 20, 2024
+
+[](https://player.me/ilya-sutskever-launches-new-ai-startup/ "Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup")
+
+[Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+
+June 20, 2024
+
+[](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/ "Steam Points Ultimate Guide 2024: How to Earn and Spend")
+
+[Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
+
+June 19, 2024
+
+[](https://player.me/complete-recap-of-nintendo-direct-2024/ "Nintendo Direct 2024: Complete Recap of Everything Announced")
+
+[Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/complete-recap-of-nintendo-direct-2024/)
+
+June 19, 2024
+
 [](https://player.me/captain-blood-returns-to-mainstream-consoles/ "Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years")
 
 [Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/captain-blood-returns-to-mainstream-consoles/)
@@ -841,34 +865,10 @@ June 14, 2024
 
 June 14, 2024
 
-[](https://player.me/what-are-the-5-best-pokemon-games-for-beginner-trainers/ "What Are the 5 Best Pokemon Games for Beginner Trainers?")
-
-[What Are the 5 Best Pokemon Games for Beginner Trainers?](https://player.me/what-are-the-5-best-pokemon-games-for-beginner-trainers/)
-
-June 13, 2024
-
-[](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/ "Wuthering Waves 6 Arc Storyline Quality Receives Brutal Reaction From Chinese Players")
-
-[Wuthering Waves 6 Arc Storyline Quality Receives Brutal Reaction From Chinese Players](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/)
-
-June 13, 2024
-
-[](https://player.me/top-5-female-tekken-8-fighters-to-win-in-style/ "Top 4 Female Tekken 8 Fighters to Obliterate Your Opponents in Style!")
-
-[Top 4 Female Tekken 8 Fighters to Obliterate Your Opponents in Style!](https://player.me/top-5-female-tekken-8-fighters-to-win-in-style/)
-
-June 12, 2024
-
-[](https://player.me/top-10-bloodborne-weapons/ "Top 10 Bloodborne Weapons: Master the Hunt with the Correct Choice")
-
-[Top 10 Bloodborne Weapons: Master the Hunt with the Correct Choice](https://player.me/top-10-bloodborne-weapons/)
-
-June 12, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 465,228 times, 495 visit(s) today
+Visited 469,846 times, 2,380 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
