@@ -293,18 +293,6 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 
 **If you are having suicidal thoughts please immediately call or text the National Suicide Prevention Hotline at [988](tel:988)**
 
- ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
-
-**The system is experiencing technical issues scheduling new appointments.**
-
-We apologize for any inconvenience this may cause you. We understand the importance of making an appointment, and **this issue is our top priority.**
-
-Please reach out to us [via chat](https://adhddiagnosis.zendesk.com/hc/en-us) or call us at [888-493-ADHD (2343)](tel:888-493-2343) and we will assist you. If we are not available, please leave us a message and we’ll get back to you as soon as possible.
-
-![](https://adhdonline.com/wp-content/uploads/2023/09/Portal-maintenance-graphic.svg)
-
-**The ADHD Online Team**
-
 #### **Provide [this form](https://drive.google.com/file/d/1W63Lv39xTnDufGJFXq4LLdJ6sEdV3Djd) to your local practitioner. You could:**
 
 * Send this link
@@ -319,24 +307,6 @@ In this form, your practitioner will request that ADHD Online continue to provid
 #### **Return** **the form to us**
 
 You or your practitioner can return this form to us [\[email protected\]](https://adhdonline.com/cdn-cgi/l/email-protection)or fax it to 616-210-3118
-
- ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
-
-**Looking to take our Assessment?**  
-It's available every day, anytime, and anywhere convenient for you!
----------------------------------------------------------------------------------------------------------
-
-[Start my Assessment](https://patients.adhdonline.com/signup?_gl=1*9n9406*_gcl_au*MTcxNjgzNTkzMi4xNjg2ODU3MzU2&_ga=2.139146611.1991447896.1687188572-481719545.1686857356)
-
-Looking to schedule your next appointment?
-
-Our portal is always open to schedule your next appointment. However, in-person phone support and live chats will be unavailable on Thursday, July 4, and Friday, July 5. Please [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message, and we will prioritize them upon our return.
-
-We genuinely appreciate your understanding. Full-office operations will resume on Monday, July 8.
-
-Already on our Treatment Path?
-
-Each clinician sets their own holiday hours, so please check with them for their availability.
 
  ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
 
