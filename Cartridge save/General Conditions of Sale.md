@@ -57,11 +57,11 @@ Show prices ex. VAT
 * Account
 * Basket 0
 
-[FREE next-day delivery on everything](https://www.cartridgesave.co.uk/free-delivery.html)
+[FREE next-day delivery on orders over £30](https://www.cartridgesave.co.uk/free-delivery.html)
 
 [Rated 4.9 / 5](https://uk.trustpilot.com/review/www.cartridgesave.co.uk)
 
-[Lowest online price guaranteed Lowest price guaranteed _Fast, FREE delivery_](https://www.cartridgesave.co.uk/lowprice.html)
+[Lowest online price guaranteed Lowest price guaranteed _Fast, FREE next-day delivery on orders over £30_](https://www.cartridgesave.co.uk/lowprice.html)
 
 100% Satisfaction Guarantee - Cartridge Save
 ============================================
@@ -120,7 +120,7 @@ Printers do not qualify for our free returns but must still be authorised in adv
 
 Any items received without an authorised returns number will be assumed as recycling and handled as such, refunds will not be issued for items disposed of.
 
-[**FREE delivery on everything.**](https://www.cartridgesave.co.uk/free-delivery.html)
+[**FREE next-day delivery on orders over £30.**](https://www.cartridgesave.co.uk/free-delivery.html)
 
 ### Customer services
 
