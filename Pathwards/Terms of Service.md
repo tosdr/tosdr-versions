@@ -69,10 +69,6 @@
 * [Investor Relations](https://www.pathward.com/investor-relations/)
 * [Careers](https://www.pathward.com/about-us/people-culture/careers/)
 
-Close
-
-**OFFICE CLOSURE:**  Our offices will be closed on Wednesday, June 19th in observance of the holiday. Normal business hours will resume on Thursday, June 20th.
-
 * * *
 
 Terms of Use
