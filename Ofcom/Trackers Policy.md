@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Outside a polling station in Wales](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/polling-station-web.jpg?width=1920&height=1085&quality=80)
+
+### Helping to dismiss disinformation around the General Election
+
+19 June 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/helping-to-dismiss-disinformation-around-the-general-election/)
+
 [![Professional cameraman with headphones with HD camcorder in live television](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bulletin-500-web.jpg?width=1920&height=1085&quality=80)
 
 ### Marking 500 Broadcast Bulletins
@@ -150,12 +156,6 @@
 ### Global online safety regulators map out vision to improve international coordination
 
 24 May 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-map-out-vision-to-improve-international-coordination/)
-
-[![royal-mail-post-office-delivery-vans-parked](/siteassets/resources/images/-news-centre/thumbnail-images/post/royal-mail-post-office-delivery-vans-parked.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom investigates Royal Mail’s delivery performance
-
-24 May 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-investigates-royal-mails-delivery-performance/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
