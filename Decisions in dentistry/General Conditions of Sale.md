@@ -137,6 +137,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In a significant development for the dental profes ![In a significant development for the dental profession, Colorado and Minnesota have joined the Dentist and Dental Hygienist Compact, becoming the eighth and ninth states to participate. This compact, aimed at supporting license portability, allows dental professionals to practice across participating states without the need to obtain individual licenses in each one. This move has been hailed as a major step forward in addressing workforce shortages and enhancing professional mobility within the dental field. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8Zso-vtfqP/) 
+
 [With OMNICHROMA, the single-shade family of compos ![With OMNICHROMA, the single-shade family of composites, restorations will look esthetically pleasing, withstand the wear and tear of life, and look just as natural as the day of the restoration even after 6 months, 1 year, and longer. Read more via the link in bio.⁠
 ⁠
 ⁠
@@ -170,13 +177,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8M0plSM0rX/) 
-
-[It is no secret that accessing dental care in the ![It is no secret that accessing dental care in the United States can be a struggle for many, leaving a large number of Americans without regular oral healthcare or effective treatment for dental emergencies. A recent article in USA Today notes that the Affordable Care Act (ACA) may provide solutions to the nation’s dire access-to-care problems. The ACA — while significantly expanding health insurance to millions through federal and state marketplaces — has historically excluded adult dental care. This gap has left many without access to necessary dental services, perpetuating a cycle of deferred care and exacerbating health issues. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8KJAdatOA2/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
