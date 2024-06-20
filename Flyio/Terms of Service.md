@@ -12,23 +12,23 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Getting Started](https://fly.io/docs/getting-started/) Toggle Getting Started section
 
-* [Launch on Fly.io](https://fly.io/docs/getting-started/launch/)
-* [Hands-on with a Demo App](https://fly.io/docs/hands-on/)
+* [Quickstart: Launch your app](https://fly.io/docs/getting-started/launch/)
+* [Launch a Demo App](https://fly.io/docs/getting-started/launch-demo)
 * [Fly.io Essentials](https://fly.io/docs/getting-started/essentials/)
 * [Troubleshooting Deployments](https://fly.io/docs/getting-started/troubleshooting/)
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
-* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
-* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
-* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
-* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
 * [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
-* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
-* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
+* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
+* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
 * [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
+* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
+* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
+* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
+* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
 
@@ -137,7 +137,7 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Sentry Error Tracking](https://fly.io/docs/reference/sentry/)
 * [Fly Launch](https://fly.io/docs/reference/fly-launch/)
 * [Load Balancing](https://fly.io/docs/reference/load-balancing/)
-* [Machines](https://fly.io/docs/machines/overview/)
+* [Machine migration](https://fly.io/docs/reference/machine-migration/)
 * [Monorepo Apps](https://fly.io/docs/reference/monorepo/)
 * [Multiple Processes in Apps](https://fly.io/docs/app-guides/multiple-processes/)
 * [OpenID Connect](https://fly.io/docs/reference/openid-connect/)
