@@ -1,15 +1,15 @@
-Tuesday, June 18 2024
+Thursday, June 20 2024
 
 Breaking News
 
-* [Jill Biden Says Don’t Believe Your Eyes](https://www.conservativedailynews.com/2024/06/jill-biden-says-dont-believe-your-eyes/)
-* [The Left Is As Trashy As Supermarket Tabloids](https://www.conservativedailynews.com/2024/06/the-left-is-as-trashy-as-supermarket-tabloids/)
-* [President Joe Biden’s Schedule for Tuesday, June 18, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-18-2024/)
-* [White House Press Briefing with Karine Jean-Pierre – 6/18/24](https://www.conservativedailynews.com/2024/06/white-house-press-briefing-with-karine-jean-pierre-6-18-24/)
-* [Illegal Immigrant ‘Gotaways’ Near Two Million Under Biden Admin](https://www.conservativedailynews.com/2024/06/illegal-immigrant-gotaways-near-two-million-under-biden-admin/)
-* [Ex-CNN Analyst Breaks Down Just How ‘Pro-Biden’ His Former Network’s Rules Are In Upcoming Trump Debate](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
-* [Meet The Dark Money Network Secretly Transforming America](https://www.conservativedailynews.com/2024/06/meet-the-dark-money-network-secretly-transforming-america/)
-* [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/)
+* [This November Will Provide An Opportunity To Revive Much-Needed Sensibilities](https://www.conservativedailynews.com/2024/06/this-november-will-provide-an-opportunity-to-revive-much-needed-sensibilities/)
+* [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+* [Lies And Deceit Will Be Biden Legacy](https://www.conservativedailynews.com/2024/06/lies-and-deceit-will-be-biden-legacy/)
+* [Foreign Aid And Student Loan Forgiveness Behind Massive Increase In Deficit Estimate, Congressional Budget Office Says](https://www.conservativedailynews.com/2024/06/foreign-aid-and-student-loan-forgiveness-behind-massive-increase-in-deficit-estimate-congressional-budget-office-says/)
+* [Biden Campaigning On Trump Being A Threat To Democracy, But Voters Not Buying It: POLL](https://www.conservativedailynews.com/2024/06/biden-campaigning-on-trump-being-a-threat-to-democracy-but-voters-not-buying-it-poll/)
+* [President Joe Biden’s Schedule for Wednesday, June 19, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-wednesday-june-19-2024/)
+* [Teach Your Children How To Change A Tire, Shoot A Gun And Treat Everyone With Dignity And Respect](https://www.conservativedailynews.com/2024/06/teach-your-children-how-to-change-a-tire-shoot-a-gun-and-treat-everyone-with-dignity-and-respect/)
+* [Biden Has Used The Dollar As A Hammer — And Americans Might Be The Ones To Take The Blow](https://www.conservativedailynews.com/2024/06/biden-has-used-the-dollar-as-a-hammer-and-americans-might-be-the-ones-to-take-the-blow/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,70 +103,75 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+    
+    [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+    
+    June 19, 2024
+    
 * [![Joe Biden debate Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/05/gv051824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
     
     [Ex-CNN Analyst Breaks Down Just How ‘Pro-Biden’ His Former Network’s Rules Are In Upcoming Trump Debate](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
     
     June 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/jack-Smith-220x150.jpg)](https://www.conservativedailynews.com/2024/06/scrutiny-over-jack-smiths-potentially-unlawful-appointment-could-undermine-his-prosecution-of-trump/)
-    
-    [Scrutiny Over Jack Smith’s Potentially ‘Unlawful’ Appointment Could Undermine His Prosecution Of Trump](https://www.conservativedailynews.com/2024/06/scrutiny-over-jack-smiths-potentially-unlawful-appointment-could-undermine-his-prosecution-of-trump/)
-    
-    June 16, 2024
-    
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5140-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/jill-biden-says-dont-believe-your-eyes/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
     
-    [Jill Biden Says Don’t Believe Your Eyes](https://www.conservativedailynews.com/2024/06/jill-biden-says-dont-believe-your-eyes/)
+    [The Democratic Subversion of Democracy](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
     
-    June 18, 2024
+    June 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5136-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/the-left-is-as-trashy-as-supermarket-tabloids/)
+* [![Joe Biden dementia lying eyes](https://www.conservativedailynews.com/wp-content/uploads/2024/06/stg061924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/this-november-will-provide-an-opportunity-to-revive-much-needed-sensibilities/)
     
-    [The Left Is As Trashy As Supermarket Tabloids](https://www.conservativedailynews.com/2024/06/the-left-is-as-trashy-as-supermarket-tabloids/)
+    [This November Will Provide An Opportunity To Revive Much-Needed Sensibilities](https://www.conservativedailynews.com/2024/06/this-november-will-provide-an-opportunity-to-revive-much-needed-sensibilities/)
     
-    June 18, 2024
+    June 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-Beach-House-Rehoboth-220x150.jfif)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-18-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
     
-    [President Joe Biden’s Schedule for Tuesday, June 18, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-18-2024/)
+    [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
     
-    June 18, 2024
+    June 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/06/white-house-press-briefing-with-karine-jean-pierre-6-18-24/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5141-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/lies-and-deceit-will-be-biden-legacy/)
     
-    [White House Press Briefing with Karine Jean-Pierre – 6/18/24](https://www.conservativedailynews.com/2024/06/white-house-press-briefing-with-karine-jean-pierre-6-18-24/)
+    [Lies And Deceit Will Be Biden Legacy](https://www.conservativedailynews.com/2024/06/lies-and-deceit-will-be-biden-legacy/)
     
-    June 18, 2024
+    June 19, 2024
     
-* [How DARE YOU!](https://www.conservativedailynews.com/2024/06/how-dare-you/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/national-debt.jpg)](https://www.conservativedailynews.com/2024/06/foreign-aid-and-student-loan-forgiveness-behind-massive-increase-in-deficit-estimate-congressional-budget-office-says/)
     
-    June 18, 2024
+    [Foreign Aid And Student Loan Forgiveness Behind Massive Increase In Deficit Estimate, Congressional Budget Office Says](https://www.conservativedailynews.com/2024/06/foreign-aid-and-student-loan-forgiveness-behind-massive-increase-in-deficit-estimate-congressional-budget-office-says/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/06/germans-even-during-the-hitler-era-were-a-better-people-than-the-palestinians/)
+    June 19, 2024
     
-    [Germans — Even During the Hitler Era — Were a Better People Than the Palestinians](https://www.conservativedailynews.com/2024/06/germans-even-during-the-hitler-era-were-a-better-people-than-the-palestinians/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-sad-upset-220x150.jpg)](https://www.conservativedailynews.com/2024/06/biden-campaigning-on-trump-being-a-threat-to-democracy-but-voters-not-buying-it-poll/)
     
-    June 18, 2024
+    [Biden Campaigning On Trump Being A Threat To Democracy, But Voters Not Buying It: POLL](https://www.conservativedailynews.com/2024/06/biden-campaigning-on-trump-being-a-threat-to-democracy-but-voters-not-buying-it-poll/)
     
-* [![Joe Biden old dementia G7ac](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv061824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/an-old-joke/)
+    June 19, 2024
     
-    [An Old Joke](https://www.conservativedailynews.com/2024/06/an-old-joke/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/09/02-biden-zs-ac-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-wednesday-june-19-2024/)
     
-    June 18, 2024
+    [President Joe Biden’s Schedule for Wednesday, June 19, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-wednesday-june-19-2024/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Depositphotos_220509704_S-1-220x150.jpg)](https://www.conservativedailynews.com/2024/06/diy-watercolors-free-credit-reports-cosmetics-shelf-life/)
+    June 19, 2024
     
-    [DIY Watercolors, Free Credit Reports, Cosmetics’ Shelf Life](https://www.conservativedailynews.com/2024/06/diy-watercolors-free-credit-reports-cosmetics-shelf-life/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Americanflag.jpg)](https://www.conservativedailynews.com/2024/06/teach-your-children-how-to-change-a-tire-shoot-a-gun-and-treat-everyone-with-dignity-and-respect/)
     
-    June 18, 2024
+    [Teach Your Children How To Change A Tire, Shoot A Gun And Treat Everyone With Dignity And Respect](https://www.conservativedailynews.com/2024/06/teach-your-children-how-to-change-a-tire-shoot-a-gun-and-treat-everyone-with-dignity-and-respect/)
+    
+    June 19, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [USA Shooting: Shotgun Team Claims Four Medals At Final World Cup Before Paris 2024 Olympics](https://www.thegunpage.com/usa-shooting-shotgun-team-claims-four-medals-at-final-world-cup-before-paris-2024-olympics/10608890)
+* [Violent crime skyrocketing under Biden, according to Biden’s favorite data source](https://www.thegunpage.com/violent-crime-skyrocketing-under-biden-according-to-bidens-favorite-data-source/10608886)
+* [NRA World Shooting Championship: The Experience](https://www.thegunpage.com/nra-world-shooting-championship-the-experience/10608885)
 * [ISSF Lonato World Cup: Vincent Hancock, Austen Smith Win Skeet Mixed Team Gold](https://www.thegunpage.com/issf-lonato-world-cup-vincent-hancock-austen-smith-win-skeet-mixed-team-gold/10608882)
 * [Even the CDC admits its latest anti-gun report is misleading and full of holes](https://www.thegunpage.com/even-the-cdc-admits-its-latest-anti-gun-report-is-misleading-and-full-of-holes/10608875)
 * [Hillsdale College, USA Shooting Celebrate Partnership](https://www.thegunpage.com/hillsdale-college-usa-shooting-celebrate-partnership/10608881)
@@ -174,9 +179,6 @@ Recent Posts
 * [USA Shooting: Meet Your Paris 2024 Olympic Shotgun Team](https://www.thegunpage.com/usa-shooting-meet-your-paris-2024-olympic-shotgun-team/10608874)
 * [Register Now For The 2024 NRA National Matches](https://www.thegunpage.com/register-now-for-the-2024-nra-national-matches/10608873)
 * [Erich Mietenkorte Clinches Fourth Consecutive Iron Man Regional Silhouette Championship](https://www.thegunpage.com/erich-mietenkorte-clinches-fourth-consecutive-iron-man-regional-silhouette-championship/10608867)
-* [Grand American World Trapshooting Championships Celebrating 125th Anniversary](https://www.thegunpage.com/grand-american-world-trapshooting-championships-celebrating-125th-anniversary/10608868)
-* [The M1 Rifle In Competition: 1940 National Matches](https://www.thegunpage.com/the-m1-rifle-in-competition-1940-national-matches/10608866)
-* [New: Beretta 92GTS Centurion](https://www.thegunpage.com/new-beretta-92gts-centurion/10608862)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -218,6 +220,7 @@ Contact Us
 
 Recent Comments
 
+* James Martin on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775837)
 * KayCee on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775781)
 * KayCee on [If You Don’t Want To Be Killed, Don’t Take Hostages](https://www.conservativedailynews.com/2024/06/if-you-dont-want-to-be-killed-dont-take-hostages/#comment-775704)
 * Jeff L. on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775675)
@@ -226,7 +229,6 @@ Recent Comments
 * KayCee on [Wise Guys](https://www.conservativedailynews.com/2024/06/wise-guys/#comment-775638)
 * KayCee on [Major Automaker Throws Hail Mary As It Hemorrhages Cash On Electric Vehicles](https://www.conservativedailynews.com/2024/06/major-automaker-throws-hail-mary-as-it-hemorrhages-cash-on-electric-vehicles/#comment-775637)
 * KayCee on [Red Lights Are Flashing As Biden Ignores Them](https://www.conservativedailynews.com/2024/06/red-lights-are-flashing-as-biden-ignores-them/#comment-775636)
-* KayCee on [It’s Time To Defund Alvin Bragg’s Office](https://www.conservativedailynews.com/2024/06/its-time-to-defund-alvin-braggs-office/#comment-775469)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
