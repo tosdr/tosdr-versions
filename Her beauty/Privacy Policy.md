@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)     ≡ Privacy Policy 》 Her Beauty                                                   
+![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)     ≡ Privacy Policy 》 Her Beauty                                                  
 
 [![Site stats](//www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-44258713-3958a)](https://www.shinystat.com/)
 
@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[Kimberly Guilfoyle’s Most Controversial Fashion Fumbles ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/1-4-e1718800200720.jpeg)](https://herbeauty.co/fashion/kimberly-guilfoyle-s-most-controversial-fashion-fumbles/) 
+
 [Spring Onion Coffee – The Trend You Didn’t See Coming ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-1.webp)](https://herbeauty.co/foodtravel/spring-onion-coffee-the-trend-you-didn-t-see-coming/) 
 
 [Celebs Who Are No Longer Friends With Meghan Markle ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-5.jpg)](https://herbeauty.co/entertainment/celebs-who-are-no-longer-friends-with-meghan-markle/) 
-
-[Meet the Future Queens of Europe – 5 Princesses Ready to Rule ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-3.jpg)](https://herbeauty.co/entertainment/meet-the-future-queens-of-europe-5-princesses-ready-to-rule/) 
 
 Advertisements
 
