@@ -1,5 +1,3 @@
-    
-
 * [Home](https://intercelestial.com/)
 * [Astrobiology](https://intercelestial.com/category/astrobiology/)
 * [Astronomy](https://intercelestial.com/category/astronomy/)
@@ -80,6 +78,12 @@ Last Edited on 2017-01-22
 
 #### Recent Posts
 
+[](https://intercelestial.com/the-fascinating-world-of-asteroids-cosmic-wanderers-of-the-solar-system/)
+
+#### [The Fascinating World of Asteroids: Cosmic Wanderers of the Solar System](https://intercelestial.com/the-fascinating-world-of-asteroids-cosmic-wanderers-of-the-solar-system/)
+
+June 19, 2024
+
 [](https://intercelestial.com/understanding-supernovae/)
 
 #### [Understanding Supernovae](https://intercelestial.com/understanding-supernovae/)
@@ -128,15 +132,9 @@ June 1, 2023
 
 May 16, 2023
 
-[](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-#### [Observatories of Big Ear and Nançay](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-May 2, 2023
-
 #### Tag Cloud
 
-[Andromeda](https://intercelestial.com/tag/andromeda/)[Astronaut](https://intercelestial.com/tag/astronaut/)[Big Bang](https://intercelestial.com/tag/big-bang/)[bioastronomy](https://intercelestial.com/tag/bioastronomy/)[Black Hole](https://intercelestial.com/tag/black-hole/)[Blue Sky](https://intercelestial.com/tag/blue-sky/)[Calendar](https://intercelestial.com/tag/calendar/)[camera](https://intercelestial.com/tag/camera/)[Cluster](https://intercelestial.com/tag/cluster/)[Collision](https://intercelestial.com/tag/collision/)
+[Andromeda](https://intercelestial.com/tag/andromeda/)[asteroid](https://intercelestial.com/tag/asteroid/)[Astronaut](https://intercelestial.com/tag/astronaut/)[Big Bang](https://intercelestial.com/tag/big-bang/)[bioastronomy](https://intercelestial.com/tag/bioastronomy/)[Black Hole](https://intercelestial.com/tag/black-hole/)[Blue Sky](https://intercelestial.com/tag/blue-sky/)[Calendar](https://intercelestial.com/tag/calendar/)[camera](https://intercelestial.com/tag/camera/)[Cluster](https://intercelestial.com/tag/cluster/)
 
 #### Categories
 
@@ -160,13 +158,17 @@ Archives Select Month June 2024 March 2024 December 2023 July 2023 June 2023 May
 * [Sitemap](https://intercelestial.com/sitemap/)
 * [Privacy Policy](https://intercelestial.com/privacy-policy/)
 * [Terms of Service](https://intercelestial.com/terms-of-service/)
-
-Close
 
 #### Search
 
 #### Recent Posts
 
+[](https://intercelestial.com/the-fascinating-world-of-asteroids-cosmic-wanderers-of-the-solar-system/)
+
+#### [The Fascinating World of Asteroids: Cosmic Wanderers of the Solar System](https://intercelestial.com/the-fascinating-world-of-asteroids-cosmic-wanderers-of-the-solar-system/)
+
+June 19, 2024
+
 [](https://intercelestial.com/understanding-supernovae/)
 
 #### [Understanding Supernovae](https://intercelestial.com/understanding-supernovae/)
@@ -215,15 +217,9 @@ June 1, 2023
 
 May 16, 2023
 
-[](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-#### [Observatories of Big Ear and Nançay](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-May 2, 2023
-
 #### Tag Cloud
 
-[Andromeda](https://intercelestial.com/tag/andromeda/)[Astronaut](https://intercelestial.com/tag/astronaut/)[Big Bang](https://intercelestial.com/tag/big-bang/)[bioastronomy](https://intercelestial.com/tag/bioastronomy/)[Black Hole](https://intercelestial.com/tag/black-hole/)[Blue Sky](https://intercelestial.com/tag/blue-sky/)[Calendar](https://intercelestial.com/tag/calendar/)[camera](https://intercelestial.com/tag/camera/)[Cluster](https://intercelestial.com/tag/cluster/)[Collision](https://intercelestial.com/tag/collision/)[comet](https://intercelestial.com/tag/comet/)[concept](https://intercelestial.com/tag/concept/)[Constellation](https://intercelestial.com/tag/constellation/)[Cosmos](https://intercelestial.com/tag/cosmos/)[date](https://intercelestial.com/tag/date/)
+[Andromeda](https://intercelestial.com/tag/andromeda/)[asteroid](https://intercelestial.com/tag/asteroid/)[Astronaut](https://intercelestial.com/tag/astronaut/)[Big Bang](https://intercelestial.com/tag/big-bang/)[bioastronomy](https://intercelestial.com/tag/bioastronomy/)[Black Hole](https://intercelestial.com/tag/black-hole/)[Blue Sky](https://intercelestial.com/tag/blue-sky/)[Calendar](https://intercelestial.com/tag/calendar/)[camera](https://intercelestial.com/tag/camera/)[Cluster](https://intercelestial.com/tag/cluster/)[Collision](https://intercelestial.com/tag/collision/)[comet](https://intercelestial.com/tag/comet/)[concept](https://intercelestial.com/tag/concept/)[Constellation](https://intercelestial.com/tag/constellation/)[Cosmos](https://intercelestial.com/tag/cosmos/)
 
 #### Categories
 
@@ -247,8 +243,6 @@ Archives Select Month June 2024 March 2024 December 2023 July 2023 June 2023 May
 * [Sitemap](https://intercelestial.com/sitemap/)
 * [Privacy Policy](https://intercelestial.com/privacy-policy/)
 * [Terms of Service](https://intercelestial.com/terms-of-service/)
-
-Close
 
 [Intercelestial](https://intercelestial.com/)
 ---------------------------------------------
