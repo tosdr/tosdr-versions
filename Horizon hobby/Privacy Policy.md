@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+**Axialfest Sale** Save up to $200! [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
 
 **Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
@@ -87,7 +87,7 @@ My store
 
 [](#)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+**Axialfest Sale** Save up to $200! [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
 
 **Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
@@ -380,6 +380,16 @@ Check out all the deals on your favorite RC Product.
 [SEE ALL DEALS](https://www.horizonhobby.com/horizon-hobby-deals/)
 
 Shop & Save!
+
+##### AXIALFEST 2024 SALE
+
+![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwdcd3757c/merch/promotions/937506-axialfest-sale/937506-324x190.jpg)
+
+Save up to $200
+
+June 19th - June 28th
+
+[SAVE NOW](https://www.horizonhobby.com/axialfest-sale/)
 
 ![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwcc75a16e/merch/promotions/nelp/nelp-324x190.jpg)
 
@@ -888,17 +898,14 @@ This privacy policy was last changed on January 4, 2023. If Horizon Hobby makes 
 HORIZON HOBBY, WHERE RC MEMORIES LIVE.
 
 Who We Are.
------------
 
 At Horizon Hobby, our personal goal is to inspire dreams and build memories. We take pride in providing the best hobby store experience for our customers, whether that’s online, at RC events, or in the RC community with RC cars, RC planes, RC boats, and so much more.
 
 Our Values.
------------
 
 Our purpose is simple: deliver WOW moments. By pursuing the best experience through our portfolio of RC cars, helicopters, airplanes, boats, and more, we bring the RC community together in every city, town, and country. We are radio control innovators and Driven is our middle name.
 
 Our Promise.
-------------
 
 Our promise to our customers is creating one-of-a-kind experiences that keeps you coming back for more. We are more than an online hobby store. Our RC cars and trucks, RC airplanes and helicopters, and other radio control products are with you at home, on the go, and with your friends. We bring the fun.
 
@@ -935,7 +942,7 @@ Never miss out - text **HOBBY** to **44721**[Learn More](https://www.horizonhobb
 * [![Fly RC Nation](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwb915fa24/social/rcn-air-32x32.png "Fly RC Nation")](https://fly.rcnation.com/ "Go to Fly RC Nation")
 * [![ Drive RC Nation](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw2dacec37/social/rcn-ground-32x32.png "Drive RC Nation")](https://drive.rcnation.com/ "Go to Drive RC Nation")
 
-##### Shop
+Shop
 
 * [New Releases](https://www.horizonhobby.com/new-releases/?cp_source=footer&cp_medium=shop "Go to New Releases")
 * [Spektrum Certified Used](https://www.horizonhobby.com/spektrum-certified-used-transmitters/?cp_source=footer&cp_medium=shop "Go to Spektrum Certified Used")
@@ -946,10 +953,10 @@ Never miss out - text **HOBBY** to **44721**[Learn More](https://www.horizonhobb
 * [Shop Local](https://www.horizonhobby.com/stores?showMap=true&horizontalView=true&isForm=true?cp_source=footer&cp_medium=shop "Go to Shop Local")
 * [Find a Wishlist](https://www.horizonhobby.com/wishlist/search?cp_source=footer&cp_medium=shop "Go to Wishlist Search")
 
-##### Support
+Support
 
 * [RC Product Support](https://www.horizonhobby.com/product-support-landing.html?cp_source=footer&cp_medium=support "Go to RC Product Support")
-* [RC Blog](https://www.horizonhobby.com/on/demandware.store/Sites-horizon-us-Site/default/blog)
+* [RC Blog](https://www.horizonhobby.com/blog/)
 * [Order Status](https://www.horizonhobby.com/orderstatus?cp_source=footer&cp_medium=support "Go to Order Status")
 * [Product Repairs](https://www.horizonhobby.com/service-center.html?cp_source=footer&cp_medium=support "Go to Product Repairs")
 * [Product Registration](https://www.horizonhobby.com/login?isRegisterProductLogin=true&cp_source=footer&cp_medium=support "Go to Product Registration")
@@ -961,7 +968,7 @@ Never miss out - text **HOBBY** to **44721**[Learn More](https://www.horizonhobb
 * [Know Before You Fly](http://knowbeforeyoufly.org/ "Know Before You Fly")
 * [Get Help](#)
 
-##### Company Info
+Company Info
 
 * [Our Story](https://www.horizonhobby.com/hh-this-is-horizon-hobby.html?cp_source=footer&cp_medium=aboutus "Go to About Us")
 * [Contact Us](https://www.horizonhobby.com/contact?cp_source=footer&cp_medium=aboutus "Go to Contact Us")
@@ -975,7 +982,7 @@ Never miss out - text **HOBBY** to **44721**[Learn More](https://www.horizonhobb
 * [Racer Payout Program](https://www.horizonhobby.com/racer-payout-program.html?cp_source=footer&cp_medium=aboutus "Go to Racer Payout Program")
 * [Affiliate Program](https://www.horizonhobby.com/affiliate.html?cp_source=footer&cp_medium=aboutus "Go to Affiliate Program")
 
-##### Legal
+Legal
 
 * [Privacy Policy](https://www.horizonhobby.com/privacy-policy-page.html?cp_source=footer&cp_medium=legal "Go to Privacy Policy")
 * [Terms & Conditions](https://www.horizonhobby.com/terms-and-conditions-page.html?cp_source=footer&cp_medium=legal "Go to Terms & Conditions")
