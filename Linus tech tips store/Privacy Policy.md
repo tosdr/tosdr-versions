@@ -261,11 +261,11 @@ Info
 ----
 
 * [Newsletter](https://www.lttstore.com/blogs/the-newsletter-archive)
-* [Shipping Policy](https://www.lttstore.com/pages/shipping-policy)
+* [Shipping Policy](https://www.lttstore.com/policies/shipping-policy)
 * [Customs & Duty Fees](https://www.lttstore.com/pages/customs-duty-fees)
-* [Return Policy](https://www.lttstore.com/pages/return-policy)
-* [Terms and Conditions](https://www.lttstore.com/pages/terms-and-conditions)
-* [Privacy Policy](https://www.lttstore.com/pages/privacy-policy)
+* [Return Policy](https://www.lttstore.com/policies/refund-policy)
+* [Terms and Conditions](https://www.lttstore.com/policies/terms-of-service)
+* [Privacy Policy](https://www.lttstore.com/policies/privacy-policy)
 
 Support
 -------
