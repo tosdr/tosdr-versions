@@ -69,11 +69,11 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
     ![](https://www.panopto.com/wp-content/uploads/2024/05/1074-_pop-650x650.png)
     
-    Pre-order our upcoming 2024 Workforce Training Report
+    2024 Workforce Training Report
     
     Explore the power of video training, modern training practices, employee preferences, desired outcomes, and the importance of continuous learning.
     
-    [Order an Advance Copy](https://www.panopto.com/resource/ebook/2024-workforce-training-report/)
+    [Download Now](https://www.panopto.com/resource/ebook/2024-workforce-training-report/)
     
     * Learn
         * [Resource Library](https://www.panopto.com/resource-library/)
@@ -151,7 +151,3 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
-
-[![](https://www.panopto.com/wp-content/uploads/2024/06/1200x628_popup-1-4.png)](https://www.panopto.com/resource/webinar-live/webinar-panopto-knowledge-insights/?utm_source=homepage&utm_medium=pop_up&utm_campaign=knowledge_insights_webinar&utm_id=1151)
-
-X
