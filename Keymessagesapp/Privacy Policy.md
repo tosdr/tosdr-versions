@@ -296,59 +296,6 @@ Address
 
 Privacy Policy](https://www.mezo.ai/privacypolicy)
 
-Similar apps
-------------
-
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmVqGC90Y2xCRk4vODNnMm5Na1V2MkJYelE9PcICSAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5LZXkgTWVzc2FnZXM6IFNwYW0gU01TIEJsb2NrZXIgACgAMABQAA%3D%3D:S:ANO1ljJ-hhU)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
-
-Handcent Next SMS messenger
-
-Handcent
-
-4.6_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
-
-Textra SMS
-
-Delicious
-
-4.4_star_](https://play.google.com/store/apps/details?id=com.textra)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/G1jalUvzKDBMEwP2iYSjWZKVwwN0WHJpFyzh9DOo-Jlnwclqft37T88w4DRMjpLD3ls=s64)
-
-Chomp SMS
-
-Delicious
-
-4.4_star_](https://play.google.com/store/apps/details?id=com.p1.chompsms)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/EpnWcEdGdcub3ORg8INZWt91lXSJ_wrfTUo66_vLmsDjnV46OnEgI1uq4zOQozPCPkM=s64)
-
-Pulse SMS (Phone/Tablet/Web)
-
-Maple Media
-
-3.9_star_](https://play.google.com/store/apps/details?id=xyz.klinker.messenger)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/-ooeBnI1kvNwxfyqRCweRVFpFj8JcPw6lowM_2q9eNW_cJolWk7HVXFutJiPrupVgQ=s64)
-
-Text Vault - Texting App
-
-Appsverse, Inc.
-
-4.5_star_](https://play.google.com/store/apps/details?id=com.appsverse.textvault)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/EMDdIjOW7r2d2p5_nbnHxBwqLujyRriopTSQ5mqJPa_PY5Ohrjx3WGb3F_KK9OJOxyQ=s64)
-
-SimpleLogin | Anti-spam
-
-Simple Login
-
-4.5_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
-
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
 Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Points](https://play.google.com/store/points/enroll)[Gift cards](https://play.google.com/about/giftcards)[Redeem](https://play.google.com/redeem)[Refund policy](https://support.google.com/googleplay/answer/134336)
