@@ -50,7 +50,7 @@ The DAREBEE team
 
 Funding Level
 
-53%
+54%
 
 [What Does This Mean?](https://darebee.com/funding.html)
 
