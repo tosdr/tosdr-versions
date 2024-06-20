@@ -10,11 +10,6 @@
 
    
 
-**Enquiry about your assessment papers?  
-**
-
-Please note that for paper-based assessments, papers will arrive at centres no more than 3 working days before the date of the assessment. Please return these papers after the assessment using the Yellow Label service. [Learn more about V Cert assessment support](https://www.ncfe.org.uk/qualifications/centre-assessment-support/v-certs/ "V Certs"), or visit our [T Level summer series support page](https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/preparing-for-the-summer-assessment-series/ "Preparing for the summer assessment series").
-
  [![NCFE](/_res/dist/img/logos/VerticalLogo_pride.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN_pride.svg?v=1141)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
