@@ -14,6 +14,7 @@ Open navigation menu [Open search](https://mezeaudio.com/search)
         * [99 Neo](https://mezeaudio.com/pages/99-neo)
     * In-Ear
         * [Advar](https://mezeaudio.com/pages/advar)
+        * [Alba](https://mezeaudio.com/pages/alba)
     * Limited edition
         * [109 PRO Primal](https://mezeaudio.com/pages/109-pro-primal)
     * [See all](https://mezeaudio.com/pages/headphones)
@@ -98,6 +99,7 @@ Country
 
 * In-Ear
 * [Advar](https://mezeaudio.com/pages/advar)
+* [Alba](https://mezeaudio.com/pages/alba)
 
 * Limited edition
 * [109 PRO Primal](https://mezeaudio.com/pages/109-pro-primal)
