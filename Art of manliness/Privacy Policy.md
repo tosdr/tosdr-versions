@@ -649,11 +649,15 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-998-the-epic-adventures-of-americas-forgotten-mountain-man/)
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1000-rules-for-the-modern-man/)
 
-[Podcast #998
+[Podcast #1000! Rules for the Modern Man](https://www.artofmanliness.com/character/advice/podcast-1000-rules-for-the-modern-man/)
 
-###### The Epic Adventures of America’s Forgotten Mountain Man](https://www.artofmanliness.com/character/knowledge-of-men/podcast-998-the-epic-adventures-of-americas-forgotten-mountain-man/)
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-999-the-epic-adventures-of-americas-forgotten-mountain-man/)
+
+[Podcast #999
+
+###### The Epic Adventures of America’s Forgotten Mountain Man](https://www.artofmanliness.com/character/knowledge-of-men/podcast-999-the-epic-adventures-of-americas-forgotten-mountain-man/)
 
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
 
@@ -666,12 +670,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #997
 
 ###### The Laws of Connection — The Scientific Secrets of Building Stronger Relationships](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/military/podcast-996-remembering-d-day-80-years-later/)
-
-[Podcast #996
-
-###### Remembering D-Day 80 Years Later](https://www.artofmanliness.com/character/military/podcast-996-remembering-d-day-80-years-later/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
