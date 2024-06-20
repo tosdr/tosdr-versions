@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                      
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                           
 
 [Skip to content](#MainContent)
 
@@ -98,7 +98,7 @@ Search
     
     #### [Balanced Spectrum LED Floor Lamp](https://www.perfectsleepchair.com/products/balanced-spectrum-lamp)
     
-    Bring the benefits of natural sunlight indoors  ...
+    Bring the benefits of natural sunlight indoors The...
     
     [view all](https://www.shopjourney.com/collections/comfort-and-sleep)
     
@@ -281,7 +281,7 @@ Search
         
         #### [Balanced Spectrum LED Floor Lamp](https://www.perfectsleepchair.com/products/balanced-spectrum-lamp)
         
-        Bring the benefits of natural sunlight indoors  ...
+        Bring the benefits of natural sunlight indoors The...
         
         [view all](https://www.shopjourney.com/collections/comfort-and-sleep)
         
@@ -455,7 +455,7 @@ Zone Comparison
 
 Two Zones of Relaxation for Classic Comfort
 
-![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25748)
+![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25924)
 
 Five Zones of Relaxation for Ultimate Enjoyment
 
