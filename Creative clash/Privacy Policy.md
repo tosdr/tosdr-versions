@@ -106,15 +106,15 @@
 
 #### Event information
 
-* [Staff](https://xcreativeclashx.net/staff)
+* [Staff](https://xcreativeclashx.net/staff/)
 * [FAQ](https://xcreativeclashx.net/faq/)
-* [Rules](https://xcreativeclashx.net/forums/topic/20-rules-must-read/)
-* [Points](https://xcreativeclashx.net/forums/topic/18-point-counting/)
+* [Rules](https://xcreativeclashx.net/rules/)
 
 #### Links
 
+* [Discord](https://discord.gg/H5Yzun86Qp)
 * [Twitter](https://twitter.com/xCreativeClashx)
-* [Discord](https://discord.gg/KTwmAuJCN5)
+* [Aethy](https://aethy.com/@xCreativeClashx)
 
 #### You are responsible for your own viewing experience while using this website. We have endeavored to provide as many means as possible for you to curate your experience here.
 
