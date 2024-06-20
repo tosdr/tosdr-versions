@@ -349,31 +349,29 @@
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages1-600x400.png)
+    
+    Reclaim Your Summer by Automating Daily IT Tasks With RMM Automation
+    
+    June 18
+    
+    10 minute read](https://www.kaseya.com/blog/reclaim-your-summer-automate-it-tasks-with-rmm/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages-600x400.png)
     
     Kaseya’s Partner First Pledge: Sharing Risks and Rewards With IT Departments and MSPs
     
-    June 18
-    
     6 minute read](https://www.kaseya.com/blog/kaseya-partner-first-pledge/)
-    
-    [![MSP Billing](https://www.kaseya.com/wp-content/uploads/2024/05/msp-billing-solutions-600x400.jpg)
-    
-    MSP Billing: A Guide to Billing Solutions for MSPs
-    
-    May 27
-    
-    9 minute read](https://www.kaseya.com/blog/msp-billing/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/03/1200x800-KD-Local-Web-Thumbnail-Toronto-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_Chicago-300x200.png)
     
-    Kaseya+Datto Connect Local Toronto
+    Kaseya+Datto Connect Local Chicago
     
-    June 18
+    June 20
     
     [View All Events](https://www.kaseya.com/events/)
     
