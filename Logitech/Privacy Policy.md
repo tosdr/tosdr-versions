@@ -92,7 +92,7 @@ Free standard shipping on orders over $29.00
         * [Casa Pop up Desk](https://www.logitech.com/en-us/products/combos/casa-pop-up-desk.html)
         * [MX Keys S Combo for Mac](https://www.logitech.com/en-us/products/combos/mx-keys-s-combo-for-mac.html)
         * [MX Brio](https://www.logitech.com/en-us/products/webcams/mx-brio-4k-webcam.html)
-        * [Keys 2 Go](https://www.logitech.com/en-us/products/tablet-keyboards/keys-to-go2-universal.html)
+        * [Keys-To-Go 2](https://www.logitech.com/en-us/products/tablet-keyboards/keys-to-go2-universal.html)
         
         [For Business](https://www.logitech.com/en-us/business.html)
         ------------------------------------------------------------
