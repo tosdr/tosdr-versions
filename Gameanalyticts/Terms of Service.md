@@ -523,4 +523,4 @@ Company
 Copyright 2024 GameAnalytics. All rights reserved. [粤ICP备15042009号](http://beian.miit.gov.cn/state/outPortal/loginPortal.action "GameAnalytics is approved in China")  
 [Terms](https://gameanalytics.com/trust/legal/terms) | [Privacy](https://gameanalytics.com/trust/privacy/privacy-notice) | [Cookies](https://www.iubenda.com/privacy-policy/31899756/cookie-policy)
 
-activity-lineandroidappleballbrowserbtn-arrow-downbtn-arrow-downc++c#caps-arrowcautionclosecommentdown-arrowexternalhandheldhouseicon-nexticon-previosjslistenmacosmetamobile-menupaletteplayreadsatellitesearchsocial-facebooksocial-instagramsocial-linkedinsocial-twittersofasquareteamtilesunityunrealup-arrowuserwindowswinneryay
+activity-line android apple ball browser btn-arrow-down btn-arrow-down c++ c# caps-arrow caution close comment down-arrow external handheld house icon-next icon-prev ios js listen macos meta mobile-menu palette play read satellite search social-facebook social-instagram social-linkedin social-twitter sofa square team tiles unity unreal up-arrow user windows winner yay
