@@ -610,11 +610,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-6.    [![Balatro PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-02-14t133713.448.jpg)   No 6. \-52%](https://www.cdkeys.com/pc/balatro-pc-steam)
+6.    [![Balatro PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-02-14t133713.448.jpg)   No 6. \-51%](https://www.cdkeys.com/pc/balatro-pc-steam)
     
     **[Balatro PC](https://www.cdkeys.com/pc/balatro-pc-steam "Balatro PC")**
     
-    Special Price £6.79 RRP £14.19
+    Special Price £6.99 RRP £14.19
     
     [Add to Wish List](# "Add to Wish List")
     
