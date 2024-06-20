@@ -276,4 +276,4 @@ You can contact us on [\[email protected\]](https://prankhotline.com/cdn-cgi/l/
 * [Privacy Policy](https://prankhotline.com/tos)
 
 © PrankHotline.com  
-All Rights Reserved @ayo.comments
+All Rights Reserved @PrankApp
