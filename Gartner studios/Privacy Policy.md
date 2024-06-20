@@ -1,4 +1,4 @@
-**Orders $50+ Ship Free!** [**See Terms**](https://www.gartnerstudios.com/policies/shipping-policy "Shipping Policy")
+**Free Ground Shipping within the USA!** [**See Terms**](https://www.gartnerstudios.com/policies/shipping-policy "Shipping Policy")
 
 [![Gartner Studios](https://cdn.shopify.com/s/files/1/0586/2424/5928/files/GS_LOGO_HORIZONTAL_BLK-01.svg?v=1632320449)](https://www.gartnerstudios.com/ "Gartner Studios")
 
