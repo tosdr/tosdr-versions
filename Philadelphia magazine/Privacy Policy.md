@@ -264,12 +264,12 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
+1. ### [Bistrot La Minette Announces Closure After 16 Years](https://www.phillymag.com/foobooz/2024/06/18/bistrot-la-minette-closing/)
     
-2. ### [It Happened Last Night: The Rolling Stones Took Over Philadelphia](https://www.phillymag.com/news/2024/06/12/rolling-stones-philadelphia-tour-review/)
+2. ### [Philly’s Best Ice Cream Shops](https://www.phillymag.com/foobooz/best-ice-cream-philadelphia/)
     
-3. ### [Public Pools Where You Can Swim for Free in Philadelphia](https://www.phillymag.com/be-well-philly/public-pools/)
+3. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
     
-4. ### [The Best Restaurants on Washington Avenue](https://www.phillymag.com/foobooz/washington-avenue-restaurants-pho-food-truck/)
+4. ### [Public Pools Where You Can Swim for Free in Philadelphia](https://www.phillymag.com/be-well-philly/public-pools/)
     
-5. ### [Did Your Neighborhood Win or Lose the SEPTA Bus Revolution?](https://www.phillymag.com/news/2024/06/17/septa-bus-revolution-winners-losers/)
+5. ### [We Tracked Down Kylie Kelce Shore Bully Andrée Goldberg](https://www.phillymag.com/news/2024/05/30/andree-goldberg-kylie-kelce-teuscher/)
