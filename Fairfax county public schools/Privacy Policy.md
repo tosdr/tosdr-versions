@@ -684,9 +684,6 @@ Full Menu
         * [Office of Talent Acquisition](https://www.fcps.edu/department/office-of-talent-acquisition)
     * [Office of Chief Information Technology Officer](https://www.fcps.edu/department/office-chief-information-technology-officer)
     * [Office of Chief Operating Officer](https://www.fcps.edu/department/chief-operating-officer)
-        * [Administrative Services](https://www.fcps.edu/department/administrative-services)
-        * [Food and Nutrition Services](https://www.fcps.edu/family-resources/student-safety-and-wellness/food-and-nutrition-programs)
-        * [Transportation](https://www.fcps.edu/family-resources/safety-and-transportation/transportation-services)
     * [Office of Chief Safety and Security Officer](https://www.fcps.edu/department/office-chief-safety-and-security-officer)
         * [Safety Tipline](https://www.fcps.edu/tipline)
     * [Office of Chief of Schools](https://www.fcps.edu/department/office-chief-schools)
@@ -803,6 +800,7 @@ Full Menu
         * [Food and Nutrition Programs](https://www.fcps.edu/family-resources/student-safety-and-wellness/food-and-nutrition-programs)
             * [Free and Reduced-Price Meals](https://www.fcps.edu/frm)
             * [Prices, Lunch Account Prepayments and Refunds](https://www.fcps.edu/family-resources/student-safety-and-wellness/food-and-nutrition-programs/prices-lunch-account)
+            * [Summer Meal Service Program](https://www.fcps.edu/family-resources/student-safety-and-wellness/food-and-nutrition-programs/summer-meal-service)
         * [Mental Health and Resiliency](https://www.fcps.edu/family-resources/student-safety-and-wellness/mental-health-and-resiliency)
         * [Restorative Justice](https://www.fcps.edu/resources/student-safety-wellness/restorative-justice)
         * [School Counseling Services](https://www.fcps.edu/family-resources/student-safety-and-wellness/school-counseling-services)
@@ -1017,11 +1015,11 @@ Full Menu
 [Fairfax County Public Schools
 =============================](https://www.fcps.edu/ "Home")
 
-![](https://openweathermap.org/img/wn/03n.png)
+![](https://openweathermap.org/img/wn/01n.png)
 
-77°F
+67°F
 
-Scattered clouds
+Clear sky
 
 * [Alerts](https://www.fcps.edu/alerts)
 
