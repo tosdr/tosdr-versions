@@ -102,17 +102,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Featured
-
-5 Ways to Improve Your Cloud Security Posture](https://www.ownbackup.com/blog/five-ways-to-improve-your-cloud-security-posture)
-
 [Salesforce
 
-Everything You Need to Know About Salesforce Experience Cloud (and Mistakes to Avoid)](https://www.ownbackup.com/blog/everything-you-need-to-know-about-salesforce-experience-cloud-and-mistakes-to-avoid)
+Explore the Own Data Platform with Salesforce Ben](https://www.ownbackup.com/blog/explore-the-own-data-platform-with-salesforce-ben)
 
-[Data Management
+[On-Platform Development
 
-Evolve Your Data Vigilance With Your Use of Salesforce](https://www.ownbackup.com/blog/evolve-your-data-vigilance-with-your-use-of-salesforce)
+What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
+
+[AI
+
+Why Your Metadata is Critical for AI Success](https://www.ownbackup.com/blog/why-metadata-is-so-critical-for-ai-success)
 
 Company
 
@@ -308,17 +308,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Featured
-
-5 Ways to Improve Your Cloud Security Posture](https://www.ownbackup.com/blog/five-ways-to-improve-your-cloud-security-posture)
-
 [Salesforce
 
-Everything You Need to Know About Salesforce Experience Cloud (and Mistakes to Avoid)](https://www.ownbackup.com/blog/everything-you-need-to-know-about-salesforce-experience-cloud-and-mistakes-to-avoid)
+Explore the Own Data Platform with Salesforce Ben](https://www.ownbackup.com/blog/explore-the-own-data-platform-with-salesforce-ben)
 
-[Data Management
+[On-Platform Development
 
-Evolve Your Data Vigilance With Your Use of Salesforce](https://www.ownbackup.com/blog/evolve-your-data-vigilance-with-your-use-of-salesforce)
+What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
+
+[AI
+
+Why Your Metadata is Critical for AI Success](https://www.ownbackup.com/blog/why-metadata-is-so-critical-for-ai-success)
 
 [Support](https://www.ownbackup.com/support)
 
