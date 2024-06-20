@@ -7,14 +7,14 @@
 * [Shop](https://cottonbureau.com/shop)
     * [All Products](https://cottonbureau.com/shop)
     * [Our Favorites](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites)
-    * [Featured Partners](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Featured%20Partners)
+    * [Featured Partners](https://cottonbureau.com/how-it-works)
     * [FAQ](https://support.cottonbureau.com/category/88-orders-payments-shipping)
     * [Search](https://cottonbureau.com/search?query=pizza)
 * * * *
     
 * [Sell](https://cottonbureau.com/submit-designs)
     * [Submit a Design](https://cottonbureau.com/submit-designs)
-    * [How It Works](https://support.cottonbureau.com/category/91-how-it-works)
+    * [How It Works](https://cottonbureau.com/how-it-works)
 
 * * *
 
@@ -26,7 +26,7 @@
 
 [](https://cottonbureau.com/)
 
-[All Products](https://cottonbureau.com/shop) [Our Faves](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites) [Featured Partners](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Featured%20Partners) [Submit a Design](https://cottonbureau.com/submit-designs)
+[All Products](https://cottonbureau.com/shop) [Our Faves](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites) [How It Works](https://cottonbureau.com/how-it-works) [Submit a Design](https://cottonbureau.com/submit-designs)
 
 [☀️  **Spend $99, get free shipping! Use code FREE99 at checkout.**](https://cottonbureau.com/discounts?discount=FREE99)
 
