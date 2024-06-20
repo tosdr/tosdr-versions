@@ -226,7 +226,7 @@ Terms of Service, Privacy Policy and Data Policy
 
 ###### Terms of Service
 
-* Updated: February 1, 2022
+* Updated: June 18, 2024
 * Thank you for choosing Animaker!
 * These Terms of Service (“Terms” or “Agreement”) are an agreement between you (if signing as an individual or the legal entity you represent) ("you," or “Subscriber,” which term shall mean the user of the Animaker Services (as defined herein) and shall include such user’s executors, assigns, administrators and legal representatives) and Animaker, Inc., a Delaware corporation with a principal address of 1160 Battery Street Suite 100, San Francisco, CA 94111, USA. United States of America ("Animaker", “us” or “we”) that governs your rights to use the services identified in this Agreement.
 * You should read the entire Agreement carefully because all of the terms are important and together create a legal agreement that, once accepted by you, applies to you.
@@ -858,12 +858,13 @@ Please see our Privacy Policy for detail on what confidential information we col
 * 2.Commercial information
 * 3.Internet or other electronic network activity information
 * 4.Geolocation data
-* Virginia and California users of Animaker have the following additional rights under Virginia Consumer Data Protection Act and California Privacy Rights Act (CPRA, effective 1 January 2023) respectively:
+* Virginia, California, Colorado, Connecticut and Utah users of Animaker have the following additional rights under Virginia Consumer Data Protection Act, California Privacy Rights Act (CPRA, effective 1 January 2023), the Colorado Privacy Act, the Connecticut Data Privacy Act, the Utah Consumer Privacy Act respectively:
 * a. Right to access personal information that Animaker has;
 * b. Right to delete personal information;
 * c. Right to correct personal information which may not be accurate;
 * d. Right to opt out of sale of personal information;
 * e. Opt out of the "sharing" of personal information for cross-context behavioral advertising.
+* f. Opt out of “profiling” as defined under applicable law.
 * You may send your requests (i) to legal@animaker.com, (ii) by phone at our toll-free number +1 888-359-9292, or (iii) by writing to us at Privacy Officer, Animaker Inc., 1160 Battery Street Suite 100, San Francisco, CA 94111, USA.
 * Virginia users may opt out of having their personal data used for targeted advertising.Virginia users may also appeal a refusal to take action on a request by contacting us at legal @animaker.com.You may also opt-out of the sale or sharing of your personal information, by clicking on the link “Do Not Sell or Share My Personal Information” on the footer of Animaker website.
 * 14\. FOR OUR NEW YORK CUSTOMERS
@@ -892,6 +893,9 @@ Please see our Privacy Policy for detail on what confidential information we col
 * Address: 1160 Battery Street Suite 100, San Francisco, CA 94111, USA.
 * Email: logu@animaker.com
 * Phone: 1 628-209-0678
+
+* Please see our prior versions here:
+* [July 25, 2023 Privacy Policy](https://web.animaker.com/terms-policy-archives/privacy-policy-july-25-2023.pdf)
 
 ###### FAQ
 
