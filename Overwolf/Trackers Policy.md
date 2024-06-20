@@ -2,6 +2,8 @@
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=20631572&cv=3.6&cj=1) 
 
+[Appstore](https://www.overwolf.com/appstore/)
+
 [](http://www.overwolf.com/ "Overwolf")Acceleration
 
 * [Creators](https://www.overwolf.com/creators/build-an-app/)
@@ -72,10 +74,9 @@
     * [Blog](https://blog.overwolf.com/)
 * [Careers](https://www.overwolf.com/careers/)
 * [Appstore](https://www.overwolf.com/appstore/)
-* [Contact us](#contact-us)
 
-* [Terms of use](https://www.overwolf.com/legal/terms)
-* [Privacy policy](https://www.overwolf.com/legal/privacy)
+* [Website Terms of use](https://www.overwolf.com/legal/terms)
+* [Website Privacy policy](https://www.overwolf.com/legal/privacy)
 * [Cookies policy](https://www.overwolf.com/legal/cookies)
 * [Community Guidelines](https://www.overwolf.com/legal/community-guidelines)
 * [Copyright Notice](https://www.overwolf.com/legal/copyright-notice)
