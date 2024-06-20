@@ -161,11 +161,11 @@
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            Blog: Security Essentials
+            blog
             
-            ##### Beat the Heat and Cyber Threats This Summer
+            ##### LevelBlue Labs Discovers Highly Evasive, New Loader Targeting Chinese Organizations
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/beat-the-heat-and-cyber-threats-this-summer)
+            [Learn more](https://cybersecurity.att.com/blogs/labs-research/highly-evasive-squidloader-targets-chinese-organizations)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -193,9 +193,9 @@
             
             Whitepaper
             
-            ##### Cyber Resilience is Mission Critical for Business
+            ##### LevelBlue Labs: Indicators of Compromise for SquidLoader Malware
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -436,13 +436,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Theodoros Karasavvas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Fernando Dominguez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theodoros Karasavvas
+#### Fernando Dominguez
 
-Jun 17, 2024
+Jun 19, 2024
 
-### [Beat the Heat and Cyber Threats This Summer](https://cybersecurity.att.com/blogs/security-essentials/beat-the-heat-and-cyber-threats-this-summer)
+### [LevelBlue Labs Discovers Highly Evasive, New Loader Targeting Chinese Organizations](https://cybersecurity.att.com/blogs/labs-research/highly-evasive-squidloader-targets-chinese-organizations)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
