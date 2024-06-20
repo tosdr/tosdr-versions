@@ -9,7 +9,7 @@ Policy Updates
 
 Policy Updates
 
-Last updated on 28 May 2024
+Last updated on 20 June 2024
 
 Notice of Amendment(s) to the Asia Pacific, certain European and Latin American countries, Middle East and Africa PayPal Agreement(s)
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -27,6 +27,19 @@ We’re making changes to certain agreements (listed below) that govern your rel
 Please carefully review the notices below and familiarise yourself with the upcoming changes. By continuing to use our services after the changes take effect, you agree to be bound by those changes. Otherwise, no further action is needed from you to accept such changes. However, if you would prefer to decline them, then you will need to close your PayPal account prior to the applicable effective date, as described in the User Agreement.
 
 **Notices**
+
+Issued: June 20, 2024
+
+**Amendments to the PayPal Online Card Payment Services Agreement (Residents of Singapore)**
+
+**Effective: June 20, 2024**
+
+* The Advanced Credit and Debit Card Payments suite of functionality may include the ability to integrate eligible third-party wallets as add-on features. We’re revising our terms to indicate that if you choose to integrate such add-on features, you agree to the applicable third-party terms via your acceptance of the PayPal Online Card Payment Services Agreement. Such acceptance includes your acknowledgement and agreement that such third-party features and terms are provided, updated, and noticed solely by the relevant third party and not by PayPal.
+* We are adding terms and conditions for the American Express Card Acceptance, which will be provided as part of the Advanced Credit and Debit Card Payments suite of functionality. 
+* We are adding Account Updater functionality terms and conditions. This functionality may be provided as part of the Advanced Credit and Debit Card Payments suite of functionality from 31 July 2024 to eligible merchants. Account Updater will allow eligible merchants to update their customers’ eligible card data stored with PayPal to enable seamless processing for recurring payments and other eligible transactions in the future.
+* We are clarifying certain provisions relating to vaulting functionality.
+
+[**Review the updated PayPal Online Card Payment Services Agreement**](https://www.paypalobjects.com/marketing/ua/pdf/SG/en/pocpsa-full-062024.pdf)
 
 Issued: May 28, 2024
 
