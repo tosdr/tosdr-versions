@@ -560,8 +560,6 @@ Location
 * [ ] US
 * [ ] Zambia
 * [ ] Zimbabwe
-* [ ] Remote
-* [ ] Mohali
 * [ ] Others
 * [ ] 15+ years
 
