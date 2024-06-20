@@ -1,15 +1,3 @@
-Get **20% OFF** for your first month with the Starter Plan – [**Start today**](https://app.mailreach.co/signup) 🎉
-
-[![MailReach](https://assets-global.website-files.com/6336c0ecc4a07d5c2a6b36c2/633ec2aa1ec017b65bb85088_mailreach.png)](https://www.mailreach.co/)
-
-[Email Warmup](https://www.mailreach.co/email-warmup)[Email Spam Test](https://www.mailreach.co/email-spam-test)[Features](https://www.mailreach.co/#features)[Pricing](https://www.mailreach.co/pricing)
-
-[Blog](https://www.mailreach.co/email-deliverability-blog)
-
-[How to improve email deliverability](https://www.mailreach.co/blog/improve-email-deliverability)[Why are my emails going to spam ?](https://www.mailreach.co/blog/why-are-my-emails-going-to-spam)[All articles](https://www.mailreach.co/email-deliverability-blog)
-
-[Login](https://app.mailreach.co/signin)[Sign up](https://app.mailreach.co/signup)
-
 Privacy Policy
 ==============
 
@@ -48,24 +36,46 @@ We may use your personal data to :
 * **Give access to our service** : When creating an account, you agree to our Terms of Use which allow us to process your data to give you access to MailReach.
 * **Online customer support:** We offer and include free customer support via email or via chat, to help you to use the MailReach service or fix issue you may find while using the service.
 
-[![MailReach logo](https://assets-global.website-files.com/6336c0ecc4a07d5c2a6b36c2/63693fd78abc40e72403b86c_mailreach-logo1-copie-2-300x76.png)](https://www.mailreach.co/)
+[![](https://cdn.prod.website-files.com/6336c0ecc4a07d5c2a6b36c2/6654dfc2b63d07a2d0a3132b_MailReach%20Logo.svg)](https://www.mailreach.co/)
 
-**Great Resources**
+[Email Warmup](https://www.mailreach.co/email-warmup)[Email Spam Test](https://www.mailreach.co/email-spam-test)[Features](#)[Pricing](https://www.mailreach.co/pricing)
 
-[How To Improve Email Deliverability](https://www.mailreach.co/blog/improve-email-deliverability)[The Best Cold Email Deliverability Sending Strategy](https://www.mailreach.co/blog/cold-email-deliverability-sending-strategy) [Why Are My Emails Going To Spam](https://www.mailreach.co/blog/why-are-my-emails-going-to-spam)[How To Warm Up Email Domain](https://www.mailreach.co/blog/how-to-warm-up-email-domain)[Why To Always Be Warming To Maintain Your Deliverability](https://www.mailreach.co/blog/keep-email-warming-to-maintain-deliverability)[How Email Warming Can Help You Improve Email Deliverability](https://www.mailreach.co/blog/how-an-email-warming-service-can-help-you-improve-email-deliverability)[Deliverability Test : How to Do it Right](https://www.mailreach.co/blog/deliverability-test-how-to-do-it-right)[Email Deliverability Tools](https://www.mailreach.co/blog/email-deliverability-tools)[MailReach VS Other solutions](https://www.mailreach.co/mailreach-vs-other-solutions)
+Blog
+
+[Improve your Email Deliverability](https://www.mailreach.co/blog/improve-email-deliverability)[Why are my emails going to spam?](https://www.mailreach.co/blog/why-are-my-emails-going-to-spam)[All Articles](https://www.mailreach.co/email-deliverability-blog)
+
+[Login](https://app.mailreach.co/signin)[Sign up
+
+Sign up](https://app.mailreach.co/signup)
+
+[Login](https://app.mailreach.co/signin)[Sign up
+
+Sign up](https://app.mailreach.co/signup)
+
+[![](https://cdn.prod.website-files.com/6654d3ae37a5b777c8fd355d/6654d3ae37a5b777c8fd35a1_MailReach%20Logo.svg)](#)
+
+[](https://www.youtube.com/@MailReachTV)[](https://www.linkedin.com/company/70942379/)[](https://x.com/MailReachApp)[](https://www.facebook.com/people/MailReach/100064024002828/)[](#)
+
+[![](https://cdn.prod.website-files.com/6336c0ecc4a07d5c2a6b36c2/6654e97ea386093dfefde8a0_Climate.png)
+
+MailReach x Stripe Climate](https://climate.stripe.com/Y1e1kL)
+
+Great Resources
+
+[Improve your Email Deliverability](https://www.mailreach.co/blog/improve-email-deliverability)[The Best Cold Email Deliverability Sending Strategy](https://www.mailreach.co/blog/cold-email-deliverability-sending-strategy)[Why Are My Emails Going To Spam ?](https://www.mailreach.co/blog/why-are-my-emails-going-to-spam)[How To Warm Up Email Domain](https://www.mailreach.co/blog/how-to-warm-up-email-domain)[Why To Always Be Warming To Maintain Your Deliverability](https://www.mailreach.co/blog/keep-email-warming-to-maintain-deliverability)[How Email Warming Can Help You Improve Email Deliverability](https://www.mailreach.co/blog/how-an-email-warming-service-can-help-you-improve-email-deliverability)[Deliverability Test : How to Do it Right](https://www.mailreach.co/blog/deliverability-test-how-to-do-it-right)[Email Deliverability Tools](https://www.mailreach.co/blog/email-deliverability-tools)[MailReach VS Other solutions](https://www.mailreach.co/mailreach-vs-other-solutions)
 
 Services
 
-[Email warm up](https://www.mailreach.co/email-warmup)[Email spam test](https://www.mailreach.co/email-spam-test)[Email spam checker tool](https://www.mailreach.co/email-spam-checker-tool)[Email spam test API](https://www.mailreach.co/email-spam-test-api)[Email warm up API](https://www.mailreach.co/email-warmup-api)[SPF checker](https://www.mailreach.co/spf-checker)[DKIM checker](https://www.mailreach.co/dkim-checker)
+[Email warm up](https://www.mailreach.co/email-warmup)[Email spam test](https://www.mailreach.co/email-spam-test)[Competitors Overview](https://www.mailreach.co/mailreach-vs-other-solutions)[Best Mailwarm alternative](https://www.mailreach.co/mailwarm-alternative)
 
-**Legal**
+[Email spam checker tool](https://www.mailreach.co/email-spam-checker-tool)[Email spam test API](https://www.mailreach.co/email-spam-test-api)[Email warm up API](https://www.mailreach.co/email-warmup-api)[SPF checker](https://www.mailreach.co/spf-checker)[DKIM checker](https://www.mailreach.co/dkim-checker)
+
+Legal
 
 [Privacy Policy](https://www.mailreach.co/privacy-policy)[Terms of use](https://www.mailreach.co/terms-of-use)
 
-**Support**
+Support
 
 [Help center](https://help.mailreach.co/)[Status](https://status.mailreach.co/)[Contact](https://www.mailreach.co/contact)
 
-![Logo Stipe climate | gwarm alternative](https://assets-global.website-files.com/6336c0ecc4a07d5c2a6b36c2/6371faa7a2ecca4adbf85e6b_Stripe-Climate-Badge-Small.png)[MailReach x Stripe Climate](https://climate.stripe.com/Y1e1kL)
-
-Made with ❤️ and 🥖 in Paris, France 🇫🇷
+Copyright 2024. All rights reserved
