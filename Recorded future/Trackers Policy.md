@@ -3,7 +3,7 @@
 * [Contact Us](https://www.recordedfuture.com/contact)
 * [Login](https://app.recordedfuture.com/live/login/)
 
-[![](https://cms.recordedfuture.com/uploads/brand_logo_long_black_f2ead5b5c6.svg?w=3840)](https://www.recordedfuture.com/)
+[![Recorded Future Logo](https://cms.recordedfuture.com/uploads/brand_logo_long_black_f2ead5b5c6.svg?w=3840)](https://www.recordedfuture.com/)
 
 * [Platform](https://www.recordedfuture.com/platform/intelligence-cloud)
 * [Solutions](https://www.recordedfuture.com/solutions)
