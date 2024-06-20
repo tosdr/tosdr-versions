@@ -388,7 +388,9 @@ You may appeal a decision made by 3DS regarding a  request submitted by you und
 **Dassault Systèmes Headquarters** 
 
 10, Rue Marcel Dassault  
+  
 78140 Vélizy-Villacoublay  
+  
 FRANCE
 
 Last modification: January 26, 2024
