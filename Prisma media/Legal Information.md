@@ -45,7 +45,7 @@ Le Groupe PRISMA MEDIA est un éditeur de presse et de contenus, produits et ser
 
 A titre de précision, les Supports Digitaux peuvent comprendre les applications, newsletters, sites web, et/ou tout autre support digital édité par le Groupe PRISMA MEDIA.
 
-Pour avoir des informations sur nos produits et services, les utilisateurs peuvent également se référer aux conditions générales d’utilisation disponibles \[ici\] et, lorsqu’elles existent, aux Conditions Générales de Vente applicables au service souscrit.
+Pour avoir des informations sur nos produits et services, les utilisateurs peuvent également se référer aux conditions générales d’utilisation disponibles \[[ici](https://www.prismamedia.com/mentions-legales/)\] et, lorsqu’elles existent, aux Conditions Générales de Vente applicables au service souscrit.
 
 Dans le cadre de ses activités, le Groupe PRISMA MEDIA traite des données à caractère personnel au sens de la réglementation, notamment de ses clients, abonnés et utilisateurs – personnes physiques consommateurs ou professionnels.
 
@@ -631,19 +631,21 @@ et a mis en place une organisation permettant l’amélioration continue de la c
     Le Groupe PRISMA MEDIA est responsable conjoint avec Utiq pour fournir le Service Utiq.  
     Dans le cadre de notre accord de responsables conjoints:
     
-    – Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l’écosystème Utiq sur nos sites Web où nous intégrons le Service Utiq.
+    – Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l’écosystème Utiq sur nos sites Web où nous intégrons le Service Utiq. 
     
     – Pour les sites où nous intégrons le Service Utiq, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, comment le gérer et vous informer de notre partenariat avec Utiq.
     
-    – Utiq met à votre disposition [un portail de confidentialité centralisé consenthub](https://consenthub.utiq.com/) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq. À tout moment. En un seul endroit.
+    – Utiq met à votre disposition [un portail de confidentialité centralisé consenthub](https://consenthub.utiq.com/) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq. À tout moment. En un seul endroit.
     
-    – Nonobstant le fait que vous pouvez exercer vos droits à l’égard de l’un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.  
-    Le Service Utiq vous offre un contrôle accru et une transparence sur l’utilisation de vos données lorsque vous activez une expérience personnalisée ou des analyses sur des sites partenaires d’Utiq.  
+    – Nonobstant le fait que vous pouvez exercer vos droits à l’égard de l’un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
+    
+    Le Service Utiq vous offre un contrôle accru et une transparence sur l’utilisation de vos données lorsque vous activez une expérience personnalisée ou des analyses sur des sites partenaires d’Utiq.
+    
     Utiq est un service facultatif. Cela signifie qu’il n’est pas activé par défaut et qu’il est uniquement activé lorsque vous donnez votre consentement sur un site participant, via la fenêtre pop-up de consentement Utiq dédiée.
     
-    Si vous avez donné votre consentement pour activer le Service Utiq lors de votre première visite sur notre site, Utiq ne partagera avec nous que deux signaux sécurisés publicitaires. Ils sont appelés **martechpass et adtechpass**, ce sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous reconnaître comme le même visiteur. Nous les utiliserons ensuite pour vous offrir une expérience personnalisée ou réaliser des analyses, en fonction des finalités pour lesquelles vous nous avez donné votre consentement. Le **martechpass et adtechpass** expirent respectivement après 90 jours ou 24 heures et sont stockées sur votre navigateur avec les cookies associés.
+    Si vous avez donné votre consentement pour activer le Service Utiq lors de votre première visite sur notre site, Utiq ne partagera avec nous que deux signaux sécurisés publicitaires. Ils sont appelés martechpass et adtechpass, ce sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous reconnaître comme le même visiteur. Nous les utiliserons ensuite pour vous offrir une expérience personnalisée ou réaliser des analyses, en fonction des finalités pour lesquelles vous nous avez donné votre consentement. Le martechpass et adtechpass expirent respectivement après 90 jours ou 24 heures et sont stockées sur votre navigateur avec les cookies associés.
     
-    Vous pouvez trouver plus d’informations sur le Service Utiq dans le [consenthub d’Utiq](https://consenthub.utiq.com/) ou dans la [https://consenthub.utiq.com/pages/privacy-statement](https://consenthub.utiq.com/pages/privacy-statement).
+    Vous pouvez trouver plus d’informations sur le Service Utiq dans le [consenthub d’Utiq](https://consenthub.utiq.com/) ou dans la [https://consenthub.utiq.com/pages/privacy-statement](https://consenthub.utiq.com/pages/privacy-statement).
     
     **Core ID par la société Epsilon :** Quand vous visitez un des sites du Groupe PRISMA MEDIA, Epsilon a la possibilité de partager des données personnelles ou des informations collectées comme votre adresse électronique (dans ce cas elle serait cryptée et pseudonymisée), votre adresse IP, et/ou des informations à propos de votre navigateur.
     
@@ -839,7 +841,7 @@ et a mis en place une organisation permettant l’amélioration continue de la c
     
     * _Prospection commerciales par voie postale :_ 
     
-    **MV GROUP** Consultez la politique de confidentialité: [https://www.mv-group.fr/politique-de-confidentialite/](https://www.mv-group.fr/politique-de-confidentialite/)
+    **AVANCI** Consultez la politique de confidentialité: [https://www.avanci.fr/politique-de-confidentialite/politique-de-confidentialite-monetisation-donnees-personnelles/](https://www.avanci.fr/politique-de-confidentialite/politique-de-confidentialite-monetisation-donnees-personnelles/)
     
     **CHOREOGRAPH** Consultez la politique de confidentialité: [https://www.choreograph.com/france-privacy-policy-francais/](https://www.choreograph.com/france-privacy-policy-francais/)
     
