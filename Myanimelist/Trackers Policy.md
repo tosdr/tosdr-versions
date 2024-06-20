@@ -1,4 +1,4 @@
-[![Yearbook_2023_Results](/c/img/images/event/Mini_Banner_20240131_Yearbook_Results_2023/mini-banner.png "Yearbook_2023_Results")](https://mxj.myanimelist.net/yearbook2023/result?utm_source=MAL&utm_medium=all_TMB_yearbook2023result)
+[![MAL x JAPAN](/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png "MAL x JAPAN")](https://mxj.myanimelist.net/)
 
 [Hide Ads](https://myanimelist.net/membership?_location=mal_h_u)[Login](https://myanimelist.net/login.php)[Sign Up](https://myanimelist.net/register.php)
 
@@ -106,9 +106,9 @@ And of course, if you have installed our mobile app on your mobile device and yo
 
 1. 1 [One Piece](https://myanimelist.net/anime/21/One_Piece)
 2. 2 [Hibike! Euphonium 3](https://myanimelist.net/anime/39894/Hibike_Euphonium_3)
-3. 3 [Kono Subarashii Sekai ni Shukufuku wo! 3](https://myanimelist.net/anime/49458/Kono_Subarashii_Sekai_ni_Shukufuku_wo_3)
-4. 4 [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2)
-5. 5 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+3. 3 [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2)
+4. 4 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+5. 5 [Kaijuu 8-gou](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
