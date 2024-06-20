@@ -428,14 +428,11 @@ More Detailed Information
 * [Contractors](https://www.gitpod.io/solutions/contractors)
 
 * Compare
-* [Local development](https://www.gitpod.io/vs/local-development)
 * [GitHub Codespaces](https://www.gitpod.io/vs/github-codespaces)
-* [JetBrains Space](https://www.gitpod.io/vs/jetbrains-space)
 * [Coder](https://www.gitpod.io/blog/gitpod-vs-coder)
 
 * Company
 * [About](https://www.gitpod.io/about)
-* [Team](https://www.gitpod.io/about/team)
 * [Careers](https://www.gitpod.io/careers)
 * [Media kit](https://www.gitpod.io/media-kit)
 * [Security](https://www.gitpod.io/security)
