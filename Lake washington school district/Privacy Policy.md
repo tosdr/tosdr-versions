@@ -205,14 +205,6 @@ Events
 
 [Full Calendar](https://www.lwsd.org/about-us/district-calendar)
 
-Tue Jun. 18
-
-[LWSD - Last day of preschool](#)
-
-Wed Jun. 19
-
-[No school - Juneteenth](#)
-
 Fri Jun. 21
 
 [Half-day - Last day of school](#)
@@ -234,6 +226,14 @@ Mon Jun. 24
 [LWSD - School Board Meeting](#)
 
 Mon Aug. 05
+
+[LWSD - School Board Study Session](#)
+
+Mon Aug. 05
+
+[LWSD - School Board Meeting](#)
+
+Mon Aug. 19
 
 [LWSD - School Board Study Session](#)
 
