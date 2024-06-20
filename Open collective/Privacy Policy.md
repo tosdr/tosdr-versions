@@ -131,39 +131,39 @@ Change language
 
 Make your community sustainable.
 
-[](https://twitter.com/opencollect)[](https://mastodon.opencollective.com/@opencollective)[](https://github.com/opencollective)[](https://slack.opencollective.com/)[](https://opencollective.com/contact)
+[](https://twitter.com/opencollect)[](https://mastodon.opencollective.com/@opencollective)[](https://github.com/opencollective)[](https://discord.opencollective.com/)[](https://opencollective.com/contact)
 
 Platform
 
 * [Explainer video](https://www.youtube.com/watch?v=IBU5fSILAe8)
-* How it works
+* [How it works](https://opencollective.com/how-it-works)
 * [Use cases](https://blog.opencollective.com/tag/case-studies/)
-* Sign up
-* Log in
+* [Sign up](https://opencollective.com/create-account)
+* [Log in](https://opencollective.com/signin)
 
 Join
 
-* Create a Collective
-* About Fiscal Hosting
-* Discover
-* Find a Fiscal Host
-* Become a sponsor
-* Become a Host
+* [Create a Collective](https://opencollective.com/create)
+* [About Fiscal Hosting](https://opencollective.com/fiscal-hosting)
+* [Discover](https://opencollective.com/search)
+* [Find a Fiscal Host](https://opencollective.com/search?isHost=true)
+* [Become a sponsor](https://opencollective.com/become-a-sponsor)
+* [Become a Host](https://opencollective.com/become-a-host)
 
 Community
 
 * [Open Source](https://github.com/opencollective/opencollective/issues)
-* Docs & Help
+* [Docs & Help](https://opencollective.com/help)
 
 Company
 
 * [About](https://docs.opencollective.com/help/about/introduction)
 * [Blog](https://blog.opencollective.com/)
-* Hiring
-* Exit to Community #E2C
-* Terms of service
-* Privacy Policy
+* [Hiring](https://opencollective.com/hiring)
+* [Exit to Community #E2C](https://opencollective.com/e2c)
+* [Terms of service](https://opencollective.com/tos)
+* [Privacy Policy](https://opencollective.com/privacypolicy)
 * [Security Policy](https://docs.opencollective.com/help/product/security)
-* Contact us
+* [Contact us](https://opencollective.com/contact)
 
-[](https://twitter.com/opencollect)[](https://mastodon.opencollective.com/@opencollective)[](https://github.com/opencollective)[](https://slack.opencollective.com/)[](https://opencollective.com/contact)
+[](https://twitter.com/opencollect)[](https://mastodon.opencollective.com/@opencollective)[](https://github.com/opencollective)[](https://discord.opencollective.com/)[](https://opencollective.com/contact)
