@@ -421,4 +421,4 @@ Let the world play
 
 ⚙️ Cookies[About](https://about.poki.com/)[Poki for Developers](https://developers.poki.com/)[Jobs](https://jobs.poki.com/)[Privacy Statement](https://poki.com/en/c/privacy-statement)[Terms of Use](https://poki.com/en/c/terms-of-use)[FAQ](https://poki.com/en/c/faq)[Contact](https://poki.com/en/c/contact)
 
-Poki v5.12.0+21a5ac3a2c6cf418dfa2af375af4ea9ad656fe80 - SDK v2
+Poki v5.12.0+b09fce04e4fde409ca4de7227fd6996fcfa9b28b - SDK v2
