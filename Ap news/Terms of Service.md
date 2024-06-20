@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Noam Chomsky](https://apnews.com/article/noam-chomsky-alive-not-dead-5b7a1b23b8731ca311e1ec38cdc3c119)
-
-[Justin Timberlake arrested](https://apnews.com/article/justin-timberlake-arrest-1980b6ad8d5ae6906f57fe9ef6b7fb18)
-
-[Team USA uniforms](https://apnews.com/article/paris-olympics-team-usa-uniforms-ralph-lauren-dc34f3424e0a562eed3c0c3d144c9d09)
-
-[Nvidia stock](https://apnews.com/article/stock-markets-rates-inflation-9f49f89dc375db55bfc8f95a6226782b)
+[Juneteenth](https://apnews.com/article/what-is-juneteenth-celebration-ideas-federal-holiday-2f7116be4418065cd954b6dbf98c62b8)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
+
+[Willie Mays dies](https://apnews.com/article/willie-mays-dies-at-93-baseball-33b31cc2d6382676ed54517d20ea36a3)
+
+[Monty Williams](https://apnews.com/article/pistons-monty-williams-9a458faa93eac2bb380f8fe910fe7ff6)
+
+[Euro 2024](https://apnews.com/article/germany-hungary-euro-2024-18e88b5732018a5b9f59764209e215c4)
 
 The Associated Press
 ====================
