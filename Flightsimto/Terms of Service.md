@@ -88,11 +88,11 @@
     
     ### New Categories
     
+    * [CowanSim H130](https://flightsim.to/liveries/cowansim-h130/)
     * [FlyBoy Rans - S6S](https://flightsim.to/liveries/flyboy-rans-s6s/)
     * [PA-38 Tomahawk](https://flightsim.to/liveries/pa-38-tomahawk/)
     * [Skyward Simulations DA-50RG](https://flightsim.to/liveries/skyward-simulations-da-50rg/)
     * [Hurricane MK1](https://flightsim.to/liveries/hurricane-mk1/)
-    * [Horten H IX](https://flightsim.to/liveries/horten-h-ix/)
     
     ### Popular Categories
     
