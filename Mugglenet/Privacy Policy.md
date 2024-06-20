@@ -246,14 +246,6 @@ MuggleNet Archive Select Month June 2024  (17) May 2024  (20) April 2024  (15
 
 ### June 2024
 
-#### Wed, Jun 19
-
-Dumbledore tells Harry about the lost prophecy
-
-Recurs yearly
-
-1996
-
 #### Fri, Jun 21
 
 Harry Potter and the Order of the Phoenix book
@@ -294,17 +286,37 @@ Recurs yearly
 
 1995
 
+#### Wed, Jun 26
+
+Harry Potter and the Philosopher's Stone book
+
+Recurs yearly
+
+1997
+
+Ron tries to call Harry on the fellytone
+
+Recurs yearly
+
+1993
+
+Tolga Safer's birthday
+
+Recurs yearly
+
+Igor Karkaroff’s aide
+
 ### Did You Know
 
-The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
+When Arthur Weasley takes Harry Potter to the Ministry of Magic, they must first dial a secret code into a telephone keypad. He enters the number 62442. The letters underneath those numbers on a standard mobile phone spell out the word “magic.”
 
 ### Potter History
 
-January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
+December 31, 2005 – The Harry Potter and the Goblet of Fire film soundtrack makes top 10 of 2005.
 
 ### Potter Quote
 
-“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
+“Well – it’s just that you seem to be laboring under the delusion that I am going to – what is the phrase? – come quietly. I am afraid I am not going to come quietly at all, Cornelius. I have absolutely no intention of being sent to Azkaban. I could break out, of course – but what a waste of time, and frankly, I can think of a whole host of things I would rather be doing.”
 
 [](#)
 
