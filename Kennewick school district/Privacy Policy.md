@@ -80,7 +80,6 @@
     * [Sports](https://www.ksd.org/students-families/sports)
     * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
     * [Transfer Request](https://www.ksd.org/students-families/transfer)
-    * [Tutoring Support](https://www.ksd.org/students-families/tutoring)
     * [Health & Safety](https://www.ksd.org/about/health-and-safety)
     
 * [Community](https://www.ksd.org/community)
@@ -220,7 +219,6 @@ toggle mobile menu
     * [Sports](https://www.ksd.org/students-families/sports)
     * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
     * [Transfer Request](https://www.ksd.org/students-families/transfer)
-    * [Tutoring Support](https://www.ksd.org/students-families/tutoring)
     * [Health & Safety](https://www.ksd.org/about/health-and-safety)
     
 * [Community](https://www.ksd.org/community)
