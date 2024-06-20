@@ -192,6 +192,6 @@ Protocols
 
 ×
 
-Would you like to participate in a 2-3 minute web experience survey to help us improve our website? If YES, a new window will open in the background so you can come back to it when you are finished on the website. Thank you for considering to help out.
+Would you like to participate in a 1 minute web experience study to help us improve ottawa.ca? If YES, a new window will open in the background so you can come back to it when you are finished on the website. Thank you for considering to help out.
 
-[Yes](https://s-ca.chkmkt.com/?e=232972&h=4BC024BF9DA7CB6&l=en) No
+[Yes](https://ottawacityux.optimalworkshop.com/chalkmark/ekdxrw91) No
