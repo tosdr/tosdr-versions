@@ -1063,6 +1063,7 @@ Company Info
 * [Interested In Working at Conair](https://jobs.jobvite.com/conair "Interested In Working at Conair")
 * [Copyright](https://www.conair.com/en/Copyright?lang=en_US "Copyright")
 * [Influencer Program](https://conair.grin.live/influencerprogram?utm_source=Conair&utm_medium=Website&utm_campaign=Footer%20Links&utm_term=Influencer%20Program "Influencer Program")
+* [Conair Digital Accessibility Statement](https://www.conair.com/en/conair-digital-accessibility-statement.html?lang=en_US)
 
 Corporate Sites
 
