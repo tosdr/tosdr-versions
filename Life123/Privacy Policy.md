@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/life123.com.svg)](https://www.life123.com/?ueid=EB3E3AD8-42BB-4DBA-A612-F7B4154399A5&ad=dirN "What's your question?")
+[![What's your question?](/static/logos/life123.com.svg)](https://www.life123.com/?ueid=3242E4D6-27BA-480E-8EB0-7A2C2699AA8A&ad=dirN "What's your question?")
 
 Ask Media Group Privacy Policy
 
@@ -302,8 +302,8 @@ Data Protection Officer
 1955 Broadway, Suite 350  
 Oakland, CA 94612
 
-* [Privacy Policy](https://www.life123.com/privacy?ueid=EB3E3AD8-42BB-4DBA-A612-F7B4154399A5&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.life123.com/terms?ueid=EB3E3AD8-42BB-4DBA-A612-F7B4154399A5&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.life123.com/privacy?ueid=3242E4D6-27BA-480E-8EB0-7A2C2699AA8A&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.life123.com/terms?ueid=3242E4D6-27BA-480E-8EB0-7A2C2699AA8A&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
