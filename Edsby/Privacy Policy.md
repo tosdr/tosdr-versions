@@ -400,6 +400,7 @@ We will not discriminate against you for exercising your CCPA rights.
 * [Integrations](https://www.edsby.com/integrations/)
 * [Training](https://www.edsby.com/how-edsby-helps/teacher-success-with-edsby/)
 * [Edsby Store](https://www.zazzle.com/store/edsbystore/products)
+* [Edsby Enthusiasts](http://www.edsby.com/edsby-enthusiasts)
 * [Partners](https://www.edsby.com/partners/)
 
 ###### User data
