@@ -53,7 +53,7 @@ Email
 _No spam, ever._
 
 * [Home](https://restoreprivacy.com/)
-* [News](https://restoreprivacy.com/category/news-reports)
+* [News](https://restoreprivacy.com/news-reports/)
 * Email
     * [Secure Email](https://restoreprivacy.com/email/secure/)
     * [ProtonMail Review](https://restoreprivacy.com/email/reviews/protonmail/)
