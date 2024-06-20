@@ -28,6 +28,9 @@ Products
         ### For developers
         
     
+    Consumer services
+    -----------------
+    
     Need help choosing?
     -------------------
     
@@ -40,6 +43,9 @@ Pricing
 * Our plans & pricing
     -------------------
     
+    Enterprise plan
+    ---------------
+    
     Compare all plans
     -----------------
     
@@ -47,6 +53,54 @@ Pricing
     -------------------
     
 * [View FAQs](https://www.cloudflare.com/plans/faq/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
+
+Resources
+=========
+
+* Library
+    -------
+    
+    Documentation
+    -------------
+    
+    * ### Getting Started
+        
+        ### Application Security
+        
+        ### Application Services
+        
+        ### Zero Trust Services
+        
+        ### Developer Platform
+        
+        ### Network Services
+        
+        ### Insights
+        
+        ### API
+        
+        ### AI
+        
+    
+    Learning
+    --------
+    
+    Trends & insights
+    -----------------
+    
+    Blog
+    ----
+    
+    Cloudflare TV
+    -------------
+    
+    Community forum
+    ---------------
+    
+    Get help
+    --------
+    
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Partners
@@ -57,6 +111,9 @@ Partners
     
     Technology partners
     -------------------
+    
+    Peering portal
+    --------------
     
     Cloudflare Agency Program
     -------------------------
@@ -73,6 +130,9 @@ Why Cloudflare
         
         ### Comparisons
         
+    
+    Why trust Cloudflare
+    --------------------
     
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
@@ -114,7 +174,7 @@ Support
 
 [Log in](https://dash.cloudflare.com/login/?lang=en-US)
 
-SolutionsProductsPricingPartnersWhy Cloudflare
+SolutionsProductsPricingResourcesPartnersWhy Cloudflare
 
 Support
 
@@ -126,7 +186,7 @@ Support
 
 [Log in](https://dash.cloudflare.com/login/?lang=en-US)
 
-SolutionsProductsPricingPartnersWhy Cloudflare
+SolutionsProductsPricingResourcesPartnersWhy Cloudflare
 
 Support
 
