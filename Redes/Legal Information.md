@@ -120,11 +120,11 @@ Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki puede
 
 Noticia
 
-Internacionalización
+Sociedad Digital
 
-Abierta hasta el 4 de noviembre la convocatoria para startups interesadas en formar parte del Pabellón de España en Web Summit 2024
+El proyecto FabLabs impulsado por Red.es finalista en los premios europeos #EuropaSeSiente 2024
 
-[Abierta hasta el 4 de noviembre la convocatoria para startups interesadas en formar parte del Pabellón de España en Web Summit 2024](http://red.es/es/actualidad/noticias/websummit-lisboa-pabellonespana "Ir al contenido de: Abierta hasta el 4 de noviembre la convocatoria para startups interesadas en formar parte del Pabellón de España en Web Summit 2024")
+[El proyecto FabLabs impulsado por Red.es finalista en los premios europeos #EuropaSeSiente 2024](http://red.es/es/actualidad/noticias/premios-europa-se-siente "Ir al contenido de: El proyecto FabLabs impulsado por Red.es finalista en los premios europeos #EuropaSeSiente 2024")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
