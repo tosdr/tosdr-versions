@@ -176,7 +176,7 @@ Marques : INDEX EDUCATION, INDEX-EDUCATION.NET, EDT, PRONOTE, PRONOTE.net, ProfN
   
 Tous les droits qui ne sont pas expressément concédés sont réservés par Index Éducation.  
 
-© Index Éducation 24.06.19
+© Index Éducation 24.06.20
 ==========================
 
 Choix du site
