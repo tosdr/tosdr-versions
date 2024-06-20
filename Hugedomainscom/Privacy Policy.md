@@ -146,4 +146,4 @@ Talk to a domain expert: [+1-303-893-0552](tel:1-303-893-0552)
 
 © 2024 HugeDomains.com. All rights reserved.
 
-[](https://www.hugedomains.com/more-info.cfm)
+[](https://www.hugedomains.com/domain-info.cfm)
