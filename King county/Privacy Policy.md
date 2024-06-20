@@ -8,7 +8,7 @@ Jun
 
 * * *
 
-18](https://kingcounty.gov/en/calendar)
+20](https://kingcounty.gov/en/calendar)
 
 language English
 
@@ -143,12 +143,6 @@ Global Navigation
 * [Services](https://kingcounty.gov/en/legacy/services)
 * [About King County](https://kingcounty.gov/en/legacy/about)
 * [Departments](https://kingcounty.gov/en/legacy/depts)
-
-Juneteenth is Wednesday, June 19, 2024
-
-[Most of o](https://kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts/juneteenth)[ur offices will be closed and transit and service schedules may be different](https://kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts/juneteenth).
-
-×
 
 Privacy
 =======
