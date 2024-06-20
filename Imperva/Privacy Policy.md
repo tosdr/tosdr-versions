@@ -1,4 +1,4 @@
-WP                                                Privacy Statement | Imperva                                                                         
+WP                                                  Privacy Statement | Imperva                                                                         
 
 [![Imperva](https://www.imperva.com/trust-center/wp-content/uploads/2023/12/imperva-a-thales-company-light.svg)](https://www.imperva.com/)
 
