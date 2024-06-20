@@ -135,15 +135,18 @@ Terms of Service
 
 **By visiting this site, depositing funds, creating an ad unit, advertising or interacting in any way with AADS.com you accept and agree with these terms of service.**
 
-### Limitation of Liability
+Limitation of Liability
+-----------------------
 
 AADS offers no guarantees and shall not be liable for any losses incurred or claimed to have been incurred by anyone using AADS, including but not limited to any loss of profits, loss of opportunities, loss of sales or business, loss of agreements or contracts, loss of anticipated savings, loss of or damage of goodwill, loss of use or corruption of software, data, or information or any direct or consequential loss.
 
-### Refunds
+Refunds
+-------
 
 Any refunds are at the entire discretion of AADS. No refunds are possible once funds have been paid to Publishers. Idle accounts, including the remaining balances, shall be automatically deleted after 6 months of inactivity. By using AADS you agree to waive any rights to claim these funds.
 
-### Users
+Users
+-----
 
 AADS is a platform that provides a matching service for Advertisers seeking to promote goods or services via advertisements (‘adverts) with Publishers seeking to display the adverts on their websites for a fee. AADS users are identified as Publishers and Advertisers and these are both third parties to AADS. A single user may be a Publisher and an Advertiser.
 
@@ -151,13 +154,15 @@ Advertisers are users who use AADS matching service to find Publishers through w
 
 Publishers are users who use AADS matching service to earn revenues from their websites traffic by displaying adverts. Publishers accept full responsibility, including full legal and financial responsibility, for the content of their sites, including the adverts they allow to be displayed. Publishers agree not to display the adverts on pages that contain any copyright-infringing, illegal or malicious content. AADS reserves the right to delete ad units and lock the accounts of any publisher breaching these terms at any time.
 
-### Moderation
+Moderation
+----------
 
 AADS reserves the right to reject any adverts it may choose. These are usually, but not always, adverts AADS may consider illegal or harmful or in breach of these terms and conditions. Adverts with sensitive or questionable content shall be marked as such, at the discretion of AADS.
 
 Adverts may be banned at any time, and the remaining funds in the account may be refunded to the advertiser after deduction of any costs incurred by AADS. You hereby agree to waive any right to make any claim challenging AADS moderation of your advert.
 
-### Support
+Support
+-------
 
 AADS support can be contacted via an on-site widget or an email address: [\[email protected\]](https://a-ads.com/cdn-cgi/l/email-protection). Please concisely describe the issue and a way to identify you as an Advertiser or Publisher. The response time is not guaranteed and depends on the support team schedule, amount of requests, complexity of the issue and other factors.
 
@@ -165,7 +170,8 @@ AADS support will not respond to any queries coming from parties who are not use
 
 AADS reserves the right to silently block users who create multiple conversations per a single issue, use all-caps, obscene lexics, or threats in their requests.
 
-### Fraud
+Fraud
+-----
 
 Accounts suspected of violating these terms and conditions or any fraudulent activity (including but not limited to malvertising, promotion of scams, content hijacking, attempts to circumvent our moderation, generating fake traffic) shall be archived or locked.
 
@@ -173,11 +179,13 @@ To recover an archived or locked account, the legitimate creator of the account 
 
 If a single user is suspected to create multiple accounts to circumvent or violate the AADS terms and conditions, AADS reserves the right to delete the accounts and any funds may not be recovered or a recovery fee of 50% or higher, to the discretion of AADS, may be applied. AADS will not allow accounts suspected to have used AADS to advertise scams or any other fraudulent activity to recover their funds.
 
-### Minimum Deposit
+Minimum Deposit
+---------------
 
 AADS enforces a strict minimum deposit for all advertisers. The minimum deposit value is displayed when the advertiser initiates the deposit process. The minimum deposit value is subject to change so advertisers need to watch for this value at each deposit. Any deposit made below the minimum deposit value will be used to cover fees incurred by AADS and will not be credited to the advertisers account nor returned to the advertiser.
 
-### Fees
+Fees
+----
 
 Twenty percent of all monies paid for the advertising service, but not less than ten percent of the deposited funds, shall be retained by AADS as fees.
 
@@ -185,11 +193,13 @@ These fees do not include an additional three percent conversion fee for any acc
 
 Recovery of funds lost due to incorrect deposits (e. g. made via unsupported tokens, addresses, blockchains, or transaction types) is not always possible and may be charged an eight percent fee.
 
-### Privacy
+Privacy
+-------
 
 User data and statistics are considered public (see [Privacy Policy](https://a-ads.com/privacy_policy)).
 
-### Changes
+Changes
+-------
 
 These Terms of Service and all statements on the site may be modified at any time without prior notice. It is the sole and entire responsibility of the user to stay informed of the terms of service at all times.
 
