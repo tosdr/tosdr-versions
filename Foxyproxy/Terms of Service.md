@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-A great service. This allowed me to catch up on all my UK TV Shows via iPlayer from Australia. Great speed and high reliability. I also used the service to manage and test a GeoIP'd website I run from the UK. Again... quick, easy no hassle.
+It has been great having FoxyProxy for the past 3-4 years while I was out of the UK and I've recommended it to a bunch of people over that time.
 
-Ian Bissett
+Claudia Coory
