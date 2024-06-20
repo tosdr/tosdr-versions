@@ -1,6 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-181559561338)                                                        [Skip to main content](#main-content)
-
-Today Only—$9 Planners! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/planners/)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-181624105910)                                                        [Skip to main content](#main-content)
 
 Win the Classroom of Your Dreams | [ENTER](https://www.carsondellosa.com/sweepstakes/classroom-of-your-dreams/)
 
