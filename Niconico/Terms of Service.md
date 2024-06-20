@@ -63,21 +63,21 @@ TOPICS
 アニメ・声優・漫画
 ---------
 
+* [豊永利行のゲーム実況番組「声優ゲーム部」第6回目を6/26放送【ゲスト：小野大輔】
+    
+    2024-06-19](https://account.nicovideo.jp/niconews/224166.html)
+* [野島裕史&野島健児のオンラインくじ実施記念番組6/24に放送/ゲスト：野島昭生、野島透也
+    
+    2024-06-17](https://account.nicovideo.jp/niconews/224163.html)
+* [肉好き声優山下大輝の料理番組第5回目を6/25に放送【ゲスト：北村諒】
+    
+    2024-06-14](https://account.nicovideo.jp/niconews/224399.html)
 * [ガールズバンドクライ/ダンジョン飯 他 6月第3週のアニメ一挙放送情報
     
     2024-06-07](https://account.nicovideo.jp/niconews/224801.html)
 * [小西克幸と平川大輔がお送りするレギュラーラジオ番組6/13に放送/ゲスト：森田成一
     
     2024-06-05](https://account.nicovideo.jp/niconews/222070.html)
-* [佐々木とピーちゃん/怪獣８号 他 6月第2週のアニメ一挙放送情報
-    
-    2024-06-03](https://account.nicovideo.jp/niconews/224171.html)
-* [悪役令嬢レベル99～私は裏ボスですが魔王ではありません～/NieR:Automata Ver1.1a 他 5月第5週のアニメ一挙放送情報
-    
-    2024-05-24](https://account.nicovideo.jp/niconews/223595.html)
-* [川島零士のオンラインくじ実施記念番組5/27に放送/ゲスト：小笠原仁
-    
-    2024-05-20](https://account.nicovideo.jp/niconews/223137.html)
 
 [記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_anime)
 
@@ -147,6 +147,9 @@ TOPICS
 VOCALOID・VTuber・ユーザークリエイター
 --------------------------
 
+* [ずんパラ投稿祭Z　～ニコニコ動画をTV放送しちゃうのだ！～　今年も開催！【7/21～8/31まで】
+    
+    2024-06-10](https://account.nicovideo.jp/niconews/223548.html)
 * [【楽曲収益化サービス】春日部つむぎ・京町セイカのキャラ対応開始しました！
     
     2024-06-07](https://account.nicovideo.jp/niconews/223821.html)
@@ -159,9 +162,6 @@ VOCALOID・VTuber・ユーザークリエイター
 * [【既存楽曲復活祭2024】楽曲収益化サービス（NRC）対応キャラクター賞を実施します！【受付期間：6/26(水)〜7/16(火)】
     
     2024-06-04](https://account.nicovideo.jp/niconews/224444.html)
-* [【6/26 00:00～7/2 16:59】既存楽曲復活祭2024 開催！ 今回のテーマは「音声合成キャラクター」
-    
-    2024-06-04](https://account.nicovideo.jp/niconews/224450.html)
 
 [記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_user)
 
@@ -189,21 +189,21 @@ VOCALOID・VTuber・ユーザークリエイター
 その他
 ---
 
-* [ニコニ貢献3周年記念！還元福引キャンペーン
+* [【6/24開始 ギフトイベント】素敵な休日を過ごしませんか？入賞するとクルージングやラフティングなど体験型カタログギフトがもらえる「VTuber配信チャレンジ」開催！
     
-    2024-06-08](https://account.nicovideo.jp/niconews/225027.html)
-* [【6/30まで】てるてる坊主Vギフト福引キャンペーン
+    2024-06-17](https://account.nicovideo.jp/niconews/222934.html)
+* [雨粒光る紫陽花通り還元福引キャンペーン
     
-    2024-06-07](https://account.nicovideo.jp/niconews/223653.html)
-* [【感謝を込めて】6/7(金)17時頃から週末限定貢献度UP！【ニコニ貢献3周年記念】
+    2024-06-15](https://account.nicovideo.jp/niconews/224753.html)
+* [【毎日無料】最大8000ポイントがその場で当たる！ニコニコミュージックデイリー福引キャンペーン
     
-    2024-06-07](https://account.nicovideo.jp/niconews/224906.html)
-* [【シーズン王者決定】6/9(日)18時より世界最高峰のダンスリーグ『D.LEAGUE SEASON23-24 CHAMPIONSHIP』生中継
+    2024-06-10](https://account.nicovideo.jp/niconews/225067.html)
+* [6/10～【カスタムキャスト×ニコニコ生放送】第3回 揃えて着せよう！カスタムキャスト衣装必ずもらえる配信キャンペーン
     
-    2024-06-06](https://account.nicovideo.jp/niconews/224911.html)
-* [【結果発表】【ニコ生ゲーム】姫プタワーシーズン2開始！敵ギフモンを倒して塔を攻略せよ！（6/5 13:45更新）
+    2024-06-10](https://account.nicovideo.jp/niconews/224264.html)
+* [【6/14まで】梅雨に立ち向かうアドバンスド還元福引キャンペーン
     
-    2024-06-05](https://account.nicovideo.jp/niconews/221829.html)
+    2024-06-10](https://account.nicovideo.jp/niconews/224988.html)
 
 [記事一覧へ](https://account.nicovideo.jp/niconews/category/ge_other)
 
