@@ -7,6 +7,7 @@
 * [Home](https://www.fun-mooc.fr/en/)
 * [News](https://www.fun-mooc.fr/en/news/)
 * [Courses](https://www.fun-mooc.fr/en/courses/)
+* [FormaPro](https://www.fun-mooc.fr/fr/categories/types/formation-professionnelle/)
 * [Organizations](https://www.fun-mooc.fr/en/organizations/)
 * [About FUN](https://www.fun-mooc.fr/en/about-fun/)
 
