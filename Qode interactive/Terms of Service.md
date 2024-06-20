@@ -711,12 +711,12 @@
         * [Multipurpose](https://qodeinteractive.com/theme-category/multipurpose-wordpress-themes/)104
         * [Photography](https://qodeinteractive.com/theme-category/photography-wordpress-themes/)48
         * [Architecture](https://qodeinteractive.com/theme-category/architecture-wordpress-themes/)35
-    * [Business](https://qodeinteractive.com/theme-category/business-wordpress-themes/)188
-        * [All](https://qodeinteractive.com/theme-category/business-wordpress-themes/)188
+    * [Business](https://qodeinteractive.com/theme-category/business-wordpress-themes/)189
+        * [All](https://qodeinteractive.com/theme-category/business-wordpress-themes/)189
         * [Corporate](https://qodeinteractive.com/theme-category/corporate-wordpress-themes/)59
         * [Services & Industry](https://qodeinteractive.com/theme-category/services-industry-wordpress-themes/)48
         * [Nonprofit](https://qodeinteractive.com/theme-category/nonprofit-wordpress-themes/)28
-        * [Medical](https://qodeinteractive.com/theme-category/medical-wordpress-themes/)27
+        * [Medical](https://qodeinteractive.com/theme-category/medical-wordpress-themes/)28
         * [Marketing](https://qodeinteractive.com/theme-category/marketing-wordpress-themes/)14
         * [Law](https://qodeinteractive.com/theme-category/law-wordpress-themes/)13
     * [Online Store](https://qodeinteractive.com/theme-category/online-store-wordpress-themes/)183
@@ -756,8 +756,8 @@
     * [Real Estate](https://qodeinteractive.com/theme-category/real-estate-wordpress-themes/)13
     * [Listing](https://qodeinteractive.com/theme-category/listing-wordpress-themes/)11
     * [Colors](#)
-        * [White](https://qodeinteractive.com/theme-color/white-wordpress-themes/)601
-        * [Grey](https://qodeinteractive.com/theme-color/grey-wordpress-themes/)691
+        * [White](https://qodeinteractive.com/theme-color/white-wordpress-themes/)602
+        * [Grey](https://qodeinteractive.com/theme-color/grey-wordpress-themes/)692
         * [Black](https://qodeinteractive.com/theme-color/black-wordpress-themes/)452
         * [Brown](https://qodeinteractive.com/theme-color/brown-wordpress-themes/)259
         * [Beige](https://qodeinteractive.com/theme-color/beige-wordpress-themes/)484
@@ -766,18 +766,18 @@
         * [Red](https://qodeinteractive.com/theme-color/red-wordpress-themes/)173
         * [Pink](https://qodeinteractive.com/theme-color/pink-wordpress-themes/)209
         * [Purple](https://qodeinteractive.com/theme-color/purple-wordpress-themes/)137
-        * [Blue](https://qodeinteractive.com/theme-color/blue-wordpress-themes/)327
+        * [Blue](https://qodeinteractive.com/theme-color/blue-wordpress-themes/)328
         * [Turquoise](https://qodeinteractive.com/theme-color/turquoise-wordpress-themes/)168
-        * [Green](https://qodeinteractive.com/theme-color/green-wordpress-themes/)267
+        * [Green](https://qodeinteractive.com/theme-color/green-wordpress-themes/)268
         * [Multicolor](https://qodeinteractive.com/theme-color/multi-wordpress-themes/)288
     * [Styles](#)
-        * [Modern](https://qodeinteractive.com/theme-style/modern-wordpress-themes/)861
+        * [Modern](https://qodeinteractive.com/theme-style/modern-wordpress-themes/)862
         * [Creative](https://qodeinteractive.com/theme-style/creative-wordpress-themes/)429
         * [Clean](https://qodeinteractive.com/theme-style/clean-wordpress-themes/)352
-        * [Colorful](https://qodeinteractive.com/theme-style/colorful-wordpress-themes/)332
+        * [Colorful](https://qodeinteractive.com/theme-style/colorful-wordpress-themes/)333
         * [Elegant](https://qodeinteractive.com/theme-style/elegant-wordpress-themes/)329
         * [Bold](https://qodeinteractive.com/theme-style/bold-wordpress-themes/)280
-        * [Pastel](https://qodeinteractive.com/theme-style/pastel-wordpress-themes/)295
+        * [Pastel](https://qodeinteractive.com/theme-style/pastel-wordpress-themes/)296
         * [Urban](https://qodeinteractive.com/theme-style/urban-wordpress-themes/)270
         * [Feminine](https://qodeinteractive.com/theme-style/feminine-wordpress-themes/)222
         * [Minimal](https://qodeinteractive.com/theme-style/minimal-wordpress-themes/)204
@@ -932,18 +932,18 @@ In no event it will be considered that justified reason for refund exists if: (a
 ###### Products
 
 * [Premium WordPress Themes](https://qodeinteractive.com/themes-list)
+* [Qode Plugins](https://qodeinteractive.com/products/plugins/)
 * [Qi Elementor Addons](https://qodeinteractive.com/qi-addons-for-elementor/)
 * [Qi Theme](https://qodeinteractive.com/qi-theme/)
 * [Qi Blocks for Gutenberg](https://qodeinteractive.com/qi-blocks-for-gutenberg/)
 * [Qi Templates](https://qodeinteractive.com/qi-templates/)
+* [Qode Wishlist for Woocomerce](https://qodeinteractive.com/products/plugins/qode-wishlist-for-woocommerce/)
+* [Qode QuickView for Woocommrce](https://qodeinteractive.com/products/plugins/qode-quick-view-for-woocommerce/)
 * [Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
 * [Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
 * [Foton](https://qodeinteractive.com/wordpress-theme/foton-a-multi-concept-software-and-app-landing-theme/)
 * [The Aisle](https://qodeinteractive.com/wordpress-theme/the-aisle-elegant-wedding-theme/)
-* [Laurent](https://qodeinteractive.com/wordpress-theme/laurent-elegant-restaurant-theme/)
-* [Boldlab](https://qodeinteractive.com/wordpress-theme/boldlab-creative-agency-theme/)
 * [Manon](https://qodeinteractive.com/wordpress-theme/manon-modern-portfolio-and-agency-theme/)
-* [Sahel](https://qodeinteractive.com/wordpress-theme/sahel-an-elegant-multi-concept-theme/)
 * [Cinerama](https://qodeinteractive.com/wordpress-theme/cinerama-a-theme-for-movie-studios-and-filmmakers/)
 
 ###### WordPress Themes
