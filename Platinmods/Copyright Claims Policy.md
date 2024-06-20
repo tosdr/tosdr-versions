@@ -132,19 +132,19 @@ This information should not be construed as legal advice, for further details on
 
 Threads
 
-75,222
+75,323
 
 Messages
 
-2,629,938
+2,635,710
 
 Members
 
-4,137,299
+4,143,060
 
 Latest member
 
-[kupaw](https://platinmods.com/members/kupaw.4449326/)
+[callmewestside12](https://platinmods.com/members/callmewestside12.4455559/)
 
 * [Platinmods.com - Modern Dark](https://platinmods.com/misc/style "Style chooser")
 
