@@ -136,12 +136,3 @@ All rights reserved
     *  [![Country Switzerland](https://murena.com/wp-content/plugins/woo-country-restrictions-advanced-premium/modules/core/assets/imgs/flags/ch.png) Switzerland](https://murena.com/legal-notice/?wccr_country=CH&wcpbc-manual-country=CH)
     *  [![Country United Kingdom (UK)](https://murena.com/wp-content/plugins/woo-country-restrictions-advanced-premium/modules/core/assets/imgs/flags/gb.png) United Kingdom (UK)](https://murena.com/legal-notice/?wccr_country=GB&wcpbc-manual-country=GB)
     *  [![Country United States (US)](https://murena.com/wp-content/plugins/woo-country-restrictions-advanced-premium/modules/core/assets/imgs/flags/us.png) United States (US)](https://murena.com/legal-notice/?wccr_country=US&wcpbc-manual-country=US)
-
-![](https://murena.com/wp-content/plugins/wp-plugin-referral-program/public/images/loading.gif)
-
-Available Coupon
-----------------
-
-X
-
-[Close](javascript:void(0);)
