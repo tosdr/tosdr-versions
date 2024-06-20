@@ -233,7 +233,7 @@
 Terms of Service: Transport, Delivery and Logistics
 ===================================================
 
-Last modified: 23 May 2024
+Last modified: 19 June 2024
 
 **TERMS OF SERVICE**
 
@@ -1423,6 +1423,75 @@ Grab may terminate the GrabUnlimited subscription plans at our discretion withou
 * [9\. GrabGeo Additional Terms of Use](#clause-b9)
 * [10\. Data Sources](#clause-b10)
 * [11\. GrabUnlimited](#clause-b11)
+* [12\. AI Services](#clause-b12)
+
+**12\. Grab AI Services**
+
+12.1 AI Services 
+
+a. Grab utilises innovative AI-drive services to enhance your experience. 
+
+b. The AI services provided by Grab include, but are not limited to:
+
+i. Chatbots and Virtual Assistants: Our AI-powered chatbots and virtual assistants can engage with users, answer queries, and provide support in real-time.
+
+ii. Personalized Recommendations: Based on your preferences and usage patterns, our AI systems can offer tailored product or service recommendations to enhance your experience.
+
+iii. Data Analysis and Insights: Our AI solutions can analyze large datasets to generate actionable insights, helping you make informed decisions.
+
+iv. Predictive Analytics: Utilizing historical data, our AI services can predict future trends and outcomes, assisting you in planning and strategy.
+
+(collectively, the “**AI Services**”).
+
+c. By accessing and using our AI Services, you acknowledge and agree to be bound by these additional terms and conditions under this Section 12 (“**Additional AI Terms**”). 
+
+12.2 Disclaimer
+
+The AI Services provided by Grab on our platform are for general informational purposes only. While we strive to ensure the accuracy and usefulness of the AI-driven features, they are provided “as is” and without any guarantees as to their accuracy, reliability, or completeness. The AI Services may occasionally generate incorrect or inappropriate responses.
+
+12.3 Third-Party Data and Services
+
+Our AI Services may interact with third-party data and services. We do not control or endorse the content, messages, or information found in such third-party services and disclaim all liability concerning such content.
+
+12.4 User Responsibilities
+
+a. **Proper Use.** You agree to use the AI Services only for lawful purposes and in accordance with these Additional AI Terms. You are responsible for all activities that occur under your account and for ensuring that any individuals who access the AI Services through your account comply with these Additional AI Terms.
+
+b. **Data Input.** You are solely responsible for the accuracy, quality, and legality of the data you input into the AI Services. You agree not to input any data that is unlawful, harmful, threatening, defamatory, obscene, infringing, or otherwise objectionable.
+
+c. **Security.** You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account or any other breach of security.
+
+12.5 Modification of Services
+
+We reserve the right to modify or discontinue, temporarily or permanently, the AI Services (or any part thereof) with or without notice. You agree that we will not be liable to you or any third party for any modification, suspension, or discontinuance of the AI Services.
+
+12.6 Intellectual Property
+
+a. **Ownership.** All intellectual property rights in and to the AI Services and any related documentation, including but not limited to software, algorithms, designs, text, graphics, and interfaces, are and will remain the exclusive property of Grab or its licensors.
+
+b. **User Content.** You retain ownership of any data, content, or materials you input into the AI Services. By inputting data into the AI Services, you grant us a worldwide, non-exclusive, royalty-free, fully-paid-up, sublicensable, and transferable license to use, reproduce, modify, distribute, and display such data for the purpose of providing the AI Services, as well as to improve existing or new AI Services.
+
+12.7 Warranties
+
+To the fullest extent permitted by applicable law, Grab expressly disclaims all warranties, whether express, implied, statutory, or otherwise, including but not limited to any implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the AI Services will meet your requirements or that the operation of the AI Services will be uninterrupted or error-free.
+
+12.8 Limitation of Liability
+
+a. In no event shall Grab, its affiliates, or their respective directors, employees, agents, or suppliers be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of use, loss of data, loss of business, or loss of profits, arising out of or in any way connected with the use or inability to use our AI Services, even if we have been advised of the possibility of such damages.
+
+b. To the maximum extent permitted by law, Grab’s total cumulative liability to you or any third party arising out of or in connection with these Additional AI Terms or your use of our AI Services, from all causes of action and all theories of liability, will be limited to and will not exceed the amount you have paid to us for the use of the AI Services during the six (6) months prior to the claim.
+
+12.9 Indemnity
+
+You agree to indemnify, defend, and hold harmless Grab, its affiliates, and their respective directors, officers, employees, agents, and representatives (collectively, the “**Indemnified Parties**“) from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys’ fees) that the Indemnified Parties may incur as a result of or arising from:
+
+i. Your use or misuse of the AI Services.
+
+ii. Your violation of these Additional AI Terms.
+
+iii. Your violation of any rights of another party, including any other users of the AI Services.
+
+iv. Any content you provide through the AI Services, including but not limited to any misleading, inaccurate, or fraudulent information.
 
 [Grab Singapore](https://www.grab.com/sg)
 
