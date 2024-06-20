@@ -419,7 +419,7 @@ Footer menu
 
 * [Home](https://ncua.gov/)
 * [Contact Us](https://ncua.gov/contact-us)
-* [News](https://ncua.gov/news)
+* [News](https://ncua.gov/newsroom)
 * [Careers](https://ncua.gov/about/careers)
 
 [Facebook](https://www.facebook.com/NCUAgov) [LinkedIn](https://www.linkedin.com/company/ncua) [Twitter](https://twitter.com/TheNCUA) [YouTube](https://www.youtube.com/ncuachannel)
