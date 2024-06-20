@@ -201,7 +201,7 @@ Information Menu
 * [Payment Plan (Installment Agreement)](https://www.irs.gov/payments/online-payment-agreement-application)
 * [Electronic Federal Tax Payment System (EFTPS)](https://www.irs.gov/payments/eftps-the-electronic-federal-tax-payment-system)
 * POPULAR
-* [Your Online Account](https://www.irs.gov/payments/your-individual-online-account)
+* [Your Online Account](https://www.irs.gov/payments/online-account-for-individuals)
 * [Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator)
 * [Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes)
 * [Penalties](https://www.irs.gov/payments/penalties)
