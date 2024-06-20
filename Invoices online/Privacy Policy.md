@@ -125,50 +125,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=74867942)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=11720279)  
-Fox Alarms & Security
-
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=103628523)  
-Dombieterfontein (PTY) LTD
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=71787799)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=66228621)  
 West Coast Horse Trails
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=6026313)  
-Immediate Health (pty)ltd
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=76173535)  
+Lindani Protection Services & Projects
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=198169287)  
-CHARLIEX CONSTRUCTIONS
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=56077735)  
+Desygn
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=70640498)  
-Cooper Power South Africa (Pty) LTD
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=12091379)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=152558278)  
-African Roots
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=207954029)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=82081433)  
-Zwashu Bed Manufacturing
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=99762929)  
+All Trucking Solutions
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=136260454)  
-Website Café (PTY) LTD
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=206930473)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=7634629)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=41484798)  
+OptaServ
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=182155877)  
-MOSELA GROUP Pty(ltd)
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=81711656)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=93982748)  
-Kaylas Creations
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=203495834)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=105345704)  
-Kainos (Pty) Ltd
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=137625741)  
+KTEN PARTS
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=f37631a2887fa5f9df99e791599dea2fdee94b186938336947080755a0aa2102&c=180549279)  
-Lemba Truck Stop
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=159119391)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=87766786)  
+Highlands Auto Engineering
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=90999395)  
+Laurinda Pretorius Spraak en Drama Ateljee
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=84657141)  
+ARCHITEK PTY LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
