@@ -1,6 +1,6 @@
    
 
-[Spare mit unseren Angeboten im Juni >> Hier klicken!](https://www.lidl.de/c/shop-highlights-juni/a10047875?channel=online&tabCode=Only_Online)
+[SALE - Stark reduzierte Artikel entdecken >> Jetzt sparen!](https://www.lidl.de/q/query/supersale)
 
 [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")2. Menü
 3. [Onlineshop](https://www.lidl.de/)
@@ -17,10 +17,6 @@
         [Anmelden](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
         
         Noch kein Konto bei Lidl?[Ganz einfach dein Konto erstellen!](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
-        
-        * [Meine Bestellungen](https://www.lidl.de/css/order-history)
-        * [Zugangsdaten](https://www.lidl.de/css/manage-account/access-data)
-        * [Meine Daten](https://www.lidl.de/css/manage-account/addresses)
         
 8. 1. [](https://www.lidl.de/otc/cart)
     
