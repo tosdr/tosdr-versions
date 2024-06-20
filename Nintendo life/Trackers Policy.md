@@ -133,70 +133,70 @@ Follow Nintendo Life
 
 Popular Right Now
 
-* ![Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![Every Nintendo Switch Online Game Boy Advance (GBA) Game Ranked](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](https://www.nintendolife.com/guides/nintendo-direct-june-2024-every-announcement-game-reveal-trailer)
-    
-    9h ago
-* ![Nintendo Direct June 2024: Time, Where To Watch, What To Expect](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Nintendo Direct June 2024: Time, Where To Watch, What To Expect](https://www.nintendolife.com/news/2024/06/nintendo-direct-june-2024-time-where-to-watch-what-to-expect)
-    
-    19h ago
-* ![Talking Point: What We Expect From The Upcoming June Nintendo Direct](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Talking Point: What We Expect From The Upcoming June Nintendo Direct](https://www.nintendolife.com/features/talking-point-what-we-expect-from-the-upcoming-june-nintendo-direct)
-    
-    2d ago
-* ![New 2D Adventure 'The Legend Of Zelda: Echoes Of Wisdom' Announced For This September](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [New 2D Adventure 'The Legend Of Zelda: Echoes Of Wisdom' Announced For This September](https://www.nintendolife.com/news/2024/06/new-2d-adventure-the-legend-of-zelda-echoes-of-wisdom-announced-for-this-september)
-    
-    12h ago
-* ![Miyamoto Shares Surprise Update About New Mario Movie Ahead Of Nintendo Direct](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Miyamoto Shares Surprise Update About New Mario Movie Ahead Of Nintendo Direct](https://www.nintendolife.com/news/2024/06/miyamoto-shares-surprise-update-about-new-mario-movie-ahead-of-nintendo-direct)
+    [Every Nintendo Switch Online Game Boy Advance (GBA) Game Ranked](https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-advance-gba-game-ranked)
     
     1d ago
-* ![Watch: Nintendo Direct June 2024 - Live!](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![Switch Online's "Mature" Nintendo 64 App Is Now Available In The West](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Watch: Nintendo Direct June 2024 - Live!](https://www.nintendolife.com/news/2024/06/watch-nintendo-direct-june-2024-live)
+    [Switch Online's "Mature" Nintendo 64 App Is Now Available In The West](https://www.nintendolife.com/news/2024/06/switch-onlines-mature-nintendo-64-app-is-now-available-in-the-west)
     
-    13h ago
-* ![Zelda-Themed 'Hyrule Edition' Nintendo Switch Lite Launches This September](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    1d ago
+* ![Luigi's Mansion 2 HD Pre-Orders Are Now Being Cancelled (US)](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Zelda-Themed 'Hyrule Edition' Nintendo Switch Lite Launches This September](https://www.nintendolife.com/news/2024/06/zelda-themed-hyrule-edition-nintendo-switch-lite-launches-this-september)
+    [Luigi's Mansion 2 HD Pre-Orders Are Now Being Cancelled (US)](https://www.nintendolife.com/news/2024/06/luigis-mansion-2-hd-pre-orders-are-now-being-cancelled-us)
     
-    9h ago
-* ![Reaction: A Direct That Delivered, And Shows That Switch Still Has Plenty Of Pep](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    12h ago
+* ![Luigi’s Mansion 2 HD: Best Pre-Order Deals And Bonuses](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Reaction: A Direct That Delivered, And Shows That Switch Still Has Plenty Of Pep](https://www.nintendolife.com/features/reaction-a-direct-that-delivered-and-shows-that-switch-still-has-plenty-of-pep)
+    [Luigi’s Mansion 2 HD: Best Pre-Order Deals And Bonuses](https://www.nintendolife.com/guides/luigirs-mansion-2-hd-best-pre-order-deals-and-bonuses)
     
-    8h ago
+    5h ago
+* ![No, The Metroid Prime 4: Beyond Trailer Was Not Running On 'Switch 2'](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [No, The Metroid Prime 4: Beyond Trailer Was Not Running On 'Switch 2'](https://www.nintendolife.com/news/2024/06/no-the-metroid-prime-4-beyond-trailer-was-not-running-on-switch-2)
+    
+    3h ago
+* ![Feature: 25 Things You Might Have Missed In The Zelda: Echoes Of Wisdom Reveal Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Feature: 25 Things You Might Have Missed In The Zelda: Echoes Of Wisdom Reveal Trailer](https://www.nintendolife.com/features/25-things-you-might-have-missed-in-the-zelda-echoes-of-wisdom-reveal-trailer)
+    
+    19h ago
 * ![Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
     [Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](https://www.nintendolife.com/guides/best-star-wars-video-games-ranked-switch-and-nintendo-systems)
     
     Sun 9th Jun 2024
-* ![Metroid Prime 4: Beyond Confirmed For Switch, Launching 2025](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+* ![First Pre-Orders Appear For Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Metroid Prime 4: Beyond Confirmed For Switch, Launching 2025](https://www.nintendolife.com/news/2024/06/metroid-prime-4-beyond-confirmed-for-switch-launching-2025)
+    [First Pre-Orders Appear For Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite](https://www.nintendolife.com/news/2024/06/first-pre-orders-appear-for-zelda-echoes-of-wisdom-and-hyrule-edition-switch-lite)
     
-    11h ago
-* !['Super Mario Party Jamboree' Rolls Onto Switch This October](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    1d ago
+* ![Talking Point: What We Expect From The Upcoming June Nintendo Direct](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    ['Super Mario Party Jamboree' Rolls Onto Switch This October](https://www.nintendolife.com/news/2024/06/super-mario-party-jamboree-rolls-onto-switch-this-october)
+    [Talking Point: What We Expect From The Upcoming June Nintendo Direct](https://www.nintendolife.com/features/talking-point-what-we-expect-from-the-upcoming-june-nintendo-direct)
     
-    11h ago
-* ![Marvel vs. Capcom Fighting Collection: Arcade Classics Will Get Super On Switch This Year](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    3d ago
+* ![Review: Dicefolk (Switch) - An Incredibly Fresh-Feeling, Monster-Catching Roguelite](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
     
-    [Marvel vs. Capcom Fighting Collection: Arcade Classics Will Get Super On Switch This Year](https://www.nintendolife.com/news/2024/06/marvel-vs-capcom-fighting-collection-arcade-classics-will-get-super-on-switch-this-year)
+    [Review: Dicefolk (Switch) - An Incredibly Fresh-Feeling, Monster-Catching Roguelite](https://www.nintendolife.com/reviews/switch-eshop/dicefolk)
     
-    11h ago
+    1h ago
+* ![Nintendo Direct June 2024: Time, Where To Watch, What To Expect](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Nintendo Direct June 2024: Time, Where To Watch, What To Expect](https://www.nintendolife.com/news/2024/06/nintendo-direct-june-2024-time-where-to-watch-what-to-expect)
+    
+    2d ago
+* ![Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
+    
+    [Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](https://www.nintendolife.com/guides/nintendo-direct-june-2024-every-announcement-game-reveal-trailer)
+    
+    2d ago
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,448,468** people following **Nintendo Life**:
+Join **1,448,511** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
