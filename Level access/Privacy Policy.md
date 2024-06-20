@@ -31,7 +31,7 @@ Main menu
     * A comprehensive solution combining the market's leading digital accessibility platform with expert support services, including legal expertise and role-specific training.
         
         [Platform & Services overview](https://www.levelaccess.com/platform-services-overview/)
-    * [What we offer](#) [Auditing and Testing](https://www.levelaccess.com/auditing-and-testing/) [Reporting and Analytics](https://www.levelaccess.com/reporting-and-analytics/) [VPATs, ACRs, and Conformance Statements](https://www.levelaccess.com/vpats-acrs-and-conformance-statements/) [Legal Expertise](https://www.levelaccess.com/legal-expertise/) [Designer Tools](https://www.levelaccess.com/designer-tools/) [Developer Tools](https://www.levelaccess.com/developer-tools/) [Collaboration and Workflow Management](https://www.levelaccess.com/collaboration-and-workflow-management/) [Integrations and API](https://www.levelaccess.com/integrations-and-api/) [Governance and Program Management](https://www.levelaccess.com/governance-and-program-management/) [Academy and Training](https://www.levelaccess.com/academy-and-training/)
+    * [What we offer](#) [Auditing and Testing](https://www.levelaccess.com/auditing-and-testing/) [Designer Tools](https://www.levelaccess.com/designer-tools/) [Automated Remediation and User Personalization](https://www.levelaccess.com/automated-remediation-and-user-personalization/) [Developer Tools](https://www.levelaccess.com/developer-tools/) [Reporting and Analytics](https://www.levelaccess.com/reporting-and-analytics/) [Collaboration and Workflow Management](https://www.levelaccess.com/collaboration-and-workflow-management/) [VPATs, ACRs, and Conformance Statements](https://www.levelaccess.com/vpats-acrs-and-conformance-statements/) [Integrations and API](https://www.levelaccess.com/integrations-and-api/) [Legal Expertise](https://www.levelaccess.com/legal-expertise/) [Governance and Program Management](https://www.levelaccess.com/governance-and-program-management/) [Academy and Training](https://www.levelaccess.com/academy-and-training/)
         
     * [Fast Track](#) [VPATs, Certifications, and Statements](https://www.levelaccess.com/vpats-and-acrs/) [Demand Letter Review](https://www.levelaccess.com/demand-letter/) [Accessibility Audit](https://www.levelaccess.com/accessibility-audit/) [ADA Title II Compliance Support](https://www.levelaccess.com/ada-title-ii-compliance-support/)
         
@@ -295,7 +295,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](data:image/svg+xml;nitro-empty-id=Nzg4OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Level Access logo](data:image/svg+xml;nitro-empty-id=NzkyOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -306,11 +306,11 @@ Arlington, VA 22201
 Follow us
 ---------
 
-[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODA3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODExOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODE2OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODIwOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODI1OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODI5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
 
 ### Solutions
 
@@ -341,9 +341,10 @@ Follow us
 
 * [Platform & Services Overview](https://www.levelaccess.com/platform-services-overview/)
 * [Auditing and Testing](https://www.levelaccess.com/auditing-and-testing/)
+* [Automated Remediation and User Personalization](https://www.levelaccess.com/automated-remediation-and-user-personalization/)
+* [Reporting and Analytics](https://www.levelaccess.com/reporting-and-analytics/)
 * [VPATs, ACRs, and Conformance Statements](https://www.levelaccess.com/vpats-acrs-and-conformance-statements/)
 * [Legal Expertise](https://www.levelaccess.com/legal-expertise/)
-* [Reporting and Analytics](https://www.levelaccess.com/reporting-and-analytics/)
 * [Designer Tools](https://www.levelaccess.com/designer-tools/)
 * [Developer Tools](https://www.levelaccess.com/developer-tools/)
 * [Collaboration and Workflow Management](https://www.levelaccess.com/collaboration-and-workflow-management/)
