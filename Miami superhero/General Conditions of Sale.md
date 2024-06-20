@@ -4,7 +4,7 @@
 
 [Facebook](https://www.facebook.com/miamipartycharacters/ "Facebook")[X](https://twitter.com/miamisuperhero "X")[YouTube](https://www.youtube.com/channel/UCapXRJB-1d4I8n_-ZKLZJ0Q "YouTube")
 
-[![Miami Superhero Logo](https://miamisuperhero.com/wp-content/uploads/2019/08/Ms-logo.png)](https://miamisuperhero.com/)
+[![Miami Superhero Logo](data:image/svg+xml;nitro-empty-id=MTM0OjI2NA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY0IDM3IiB3aWR0aD0iMzY0IiBoZWlnaHQ9IjM3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://miamisuperhero.com/)
 
 Search for: 
 
