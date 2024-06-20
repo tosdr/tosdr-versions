@@ -8,10 +8,7 @@ Resources
 
 [Log in](https://hostedscan.com/login)[Sign up](https://hostedscan.com/sign-up)
 
-* [Data Security](#data-security)
-* [Privacy Policy](#privacy-policy)
-* [Cloud Terms of Service](#cloud-terms-of-service)
-* [Service Level Agreement](#service-level-agreement)
+[Data Security](#data-security)[Privacy Policy](#privacy-policy)[Cloud Terms of Service](#cloud-terms-of-service)[Service Level Agreement](#service-level-agreement)
 
 Data Security
 =============
@@ -37,7 +34,7 @@ This Privacy Policy will explain how our organization uses the personal data we 
 Our organization collects the following data:
 
 * IP address
-* Browse's user agent
+* Browser's user agent
 * Name/Surname
 * Email address
 
@@ -46,12 +43,17 @@ Our organization collects the following data:
 You directly provide HostedScan with most of the data we collect. We collect data and process data when you:
 
 * Use or view our website via your browser’s cookies
-* Register in our website
+* Register on our website
 * Subscribe to our newsletter
+* Email our ticketing system
 
 HostedScan may also receive your data, if it is necessary, for resolving specific problems that can affect the usability of our software platform, or your user experience.
 
-HostedScan uses Google Analytics to collect standard Internet log information and details of visitor behavior patterns. We do this to find out such things as the number of visitors to the various parts of the site. This information is only processed in a way that does not directly identify anyone. We do not make, and not allow Google to make, any attempt to find out the identities of those visiting our website.
+HostedScan uses Google Analytics and PostHog to collect standard Internet log information and details of visitor behavior patterns. We do this to find out such things as the number of visitors to the various parts of the website and where visitors may be having problems using our website.
+
+HostedScan uses MailerLite for email newsletters, and other email marketing activities. You may unsubscribe from email marketing from us at any time.
+
+HostedScan considers any one of the above listed actions to be a clear affirmative action which is freely given, specific, informed, and unambiguous, and which therefore signifies consent to process your data hereunder.
 
 ### How will we use your data?
 
@@ -75,6 +77,10 @@ Without limiting the forgoing HostedScan warrants it follows the following secur
 * Emails from our system are DKIM signed
 * Regular monitoring for potential security vulnerabilities and immediate remediation of any material security vulnerabilities discovered
 
+HostedScan stores your personal data using specific security controls, that we manage periodically to avoid disclosure, or unauthorized access.
+
+HostedScan processes your personal data only to provide the services in accordance with this Privacy Policy, and for no other purpose. To prevent any use or disclosure of your personal data subject to this Privacy Policy, you may not register an account, subscribe to our newsletter, or send us an email which gets logged in our ticketing system. If you believe we are already storing your personal data, and you want to prevent further use or disclosure of your personal data, please exercise your Right to erasure as described below.
+
 ### Marketing
 
 HostedScan will never sell your data to a third party, or send you unsolicited marketing emails.
@@ -91,18 +97,6 @@ HostedScan would like to make sure you are fully aware of all of your data prote
 * **Right to data portability:** You have the right to request that HostedScan transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 If you make a request, we have 1 month to respond to you, and if you want to exercise any of these rights, you can write us at our email: [privacy@hostedscan.com](mailto:privacy@hostedscan.com)
-
-### Cooperation with EU Data Protection Authorities and the Swiss Federal Data Protection and Information Commissioner
-
-HostedScan commits to cooperate with European Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and complies with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
-
-### Federal Trade Commission
-
-HostedScan is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
-
-### Affirmative commitment to comply with the Privacy Shield Framework
-
-HostedScan complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
 
 ### Cookies
 
@@ -127,19 +121,25 @@ You can set your browser not to accept cookies, and this website [www.allaboutco
 
 The HostedScan website can contain links to other websites, but our Privacy Policy applies only to our website. If you click on a link to another website, that website’s own Privacy Policy will govern the privacy of your data.
 
+### Sensitive data
+
+Personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation is expressly prohibited from being stored or processed by customers via HostedScan in any way, and we will delete immediately any kind of sensitive data that we see in our systems.
+
 ### Changes to our privacy policy
 
-HostedScan keeps its Privacy Policy under regular review and places any updates on this web page. This Privacy Policy was last updated on March 24, 2020.
+HostedScan keeps its Privacy Policy under regular review and places any updates on this web page. This Privacy Policy was last updated on the date listed below.
 
 ### How to contact us
 
 If you have any questions about our Privacy Policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at: [privacy@hostedscan.com](mailto:privacy@hostedscan.com)
 
-### Independent recourse mechanism
+### Recourse mechanism
 
-According to the Privacy Shield Principles, HostedScan commits to resolve complaints about our collection or use of personal data. European Union and Swiss individuals with inquiries or complaints regarding our policy should first contact us at: [privacy@hostedscan.com](mailto:privacy@hostedscan.com)
+HostedScan commits to resolve complaints about our collection or use of personal data. Individuals or companies with inquiries or complaints regarding our policy may contact us at: [privacy@hostedscan.com](mailto:privacy@hostedscan.com)
 
-Also, an individual has the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. Additional information about binding arbitration can be found here: [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction)
+HostedScan is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC), as well as the EU Data Protection Authority (DPA) in the member state of the data subject.
+
+Last updated June 13, 2024
 
 Cloud Terms of Service
 ======================
@@ -162,6 +162,8 @@ You acknowledge that the Software contains trade secrets and other proprietary i
 
 HostedScan offers several plan types, which may include a Free Forever plan which is free to use and does not expire. You shall pay to HostedScan the fees according to HostedScan’s publicly listed pricing terms on its website, or as mutually agreed between the parties in writing. HostedScan may modify the fees it charges for the Software at any time, but will give existing customers at least 90 days written notice before any changes in fees take effect. Fees are non-refundable, and payable monthly via credit card, or as mutually agreed between the parties in writing.
 
+If you are required to pay any withholding tax, charge or levy in respect of any payments due to HostedScan hereunder, payments will be made without right of set-off or chargeback. You agree that any applicable VAT or GST will be paid on a reverse charge basis.
+
 ### 4\. Confidential Information & Intellectual Property
 
 Confidential Information means: (i) any information that is clearly and conspicuously marked as “confidential” or has a similar designation at time of disclosure; (ii) any materials and/or information that are disclosed under circumstances that one would reasonably expect it to be confidential or proprietary; and, (iii) information that is identified by the disclosing party as confidential and/or proprietary before, during, or promptly after presentation or communication. Confidential Information shall include each party’s business and technical information. Confidential Information of the other party will be used solely as necessary to fulfill obligations under this Agreement and for no other purpose whatsoever.
@@ -178,19 +180,19 @@ HostedScan reserves all rights in the Software not expressly granted to you in t
 
 The term of this Agreement begins when you create an account and will remain in effect until terminated in accordance with this Agreement. You may terminate this Agreement by terminating your entire use of the Software, and we may terminate this Agreement for any reason by providing you 30 days advance notice.
 
-We may also terminate your account and this Agreement immediately if: (i) you are late in payment or otherwise in breach of this Agreement; (ii) we reasonably determine your use of the Software poses a risk to the Software or to others or may be unlawful; (iii) you become insolvent or make any voluntary arrangement with creditors, become subject to an administrative order, have a receiver or administrator appointed over any of your property, or go into liquidation or bankruptcy.
+We may also terminate your account and this Agreement immediately if: (i) you are late in payment or otherwise in breach of this Agreement; (ii) we reasonably determine your use of the Software poses a risk to the Software, may disrupt other users of the Software, or may be unlawful; (iii) you become insolvent or make any voluntary arrangement with creditors, become subject to an administrative order, have a receiver or administrator appointed over any of your property, or go into liquidation or bankruptcy.
 
 Upon termination of this Agreement all your rights under this Agreement immediately terminate, and you will remain responsible for all fees and charges you have incurred up to and including the date of termination.
 
 ### 6\. Maintenance, Updates, and Support
 
-HostedScan will provide maintenance and updates, including security updates, to the Software during the term. If you are on a paid plan, HostedScan will provide support to you via email during the term. The email address for support is hello@hostedscan.com.
+HostedScan will provide maintenance and updates, including security updates, to the Software during the term, and will provide all maintenance of the services on which the Software is installed and run. If you are an active paying customer in good standing, HostedScan will provide email support to you on a best efforts basis for purposes relating to the adminstration and operation of the Software. The email address for support is hello@hostedscan.com.
 
 ### 7\. Warranty
 
 HostedScan represents and warrants that it has the legal power and authority to enter into this Agreement, and that it has the right to offer the HostedScan Software to you.
 
-HostedScan does not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be correct, uninterrupted or error-free.
+HostedScan does not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be correct, uninterrupted or error-free. However, HostedScan represents and warrants that the services and Software will be performed and or provided in a timely and professional manner, in accordance with the highest standards, by individuals of suitable competency, training, and skill.
 
 ### 8\. Indemnification
 
@@ -223,7 +225,7 @@ Service Level Agreement
 
 HostedScan will provide a Monthly Uptime Percentage to Licensee of at least 99.9% (the **SLA**).
 
-If HostedScan does not meet the SLA, and if you meets your obligations under the SLA, you will be eligible to receive the Financial Credits described below.
+If HostedScan does not meet the SLA, and if you meet your obligations under the SLA, you will be eligible to receive the Financial Credits described below.
 
 This SLA states your sole and exclusive remedy for any failure by HostedScan to meet the SLA.
 
@@ -252,6 +254,11 @@ This SLA states your sole and exclusive remedy for any failure by HostedScan to 
 You must request Financial Credit within 30 days of eligibility. Failure to comply with this requirement will forfeit your right to receive a Financial Credit.
 
 Financial Credits may only be applied to future paid use of HostedScan.
+
+Trademarks
+==========
+
+All third party trademarks are owned by their respective entities and used with their permission. If you are the owner of a trademark and you believe it is being used in an unauthorized manner, please contact hello@hostedscan.com.
 
 ### Trusted by these companies and 1000s more
 
