@@ -1,10 +1,12 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Sign up](https://myboseidstage.bose.com/bosestageb2c.onmicrosoft.com/oauth2/v2.0/authorize?client_id=d733d2c6-d1d3-4d39-aeaa-a8b96fba024d&redirect_uri=https://staging-b2c.bose.com/on/demandware.store/Sites-Bose_US-Site/en_US/Login-OAuthReentryAzureActiveDirectoryB2C&response_type=code&scope=d733d2c6-d1d3-4d39-aeaa-a8b96fba024d%20openid%20offline_access&state=1610988639&p=b2c_1a_sfcc_susi_stage&ui_locales=en-US) to be a My Bose VIP and enter for a chance to win an upcoming John Summit x My Bose Giveaway.
-
 [Save an extra 20% on Certified Refurbished with code SUMMER20.](https://www.bose.com/c/refurbished)
 
   
+
+Sign up for Bose text alerts | [Click here to join](https://cloud.email.bose.com/sms-sign-up)
+
+Trade in, trade up. | Save up to $300! | [Learn more](https://www.bose.com/trade-up)
 
 Back
 
