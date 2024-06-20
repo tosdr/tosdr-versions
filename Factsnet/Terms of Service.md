@@ -206,21 +206,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![18 Facts About Data Infrastructure ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2279%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/18-facts-about-data-infrastructure/)
+[![20 Great Interesting Facts About Antoine Lavoisier ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2263%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/20-great-interesting-facts-about-antoine-lavoisier/)
 
-Tech & Sciences
+People
 
-18 Jun 2024
+19 Jun 2024
 
-[18 Facts About Data Infrastructure](https://facts.net/tech-and-sciences/18-facts-about-data-infrastructure/)
+[20 Great Interesting Facts About Antoine Lavoisier](https://facts.net/history/people/20-great-interesting-facts-about-antoine-lavoisier/)
 
-[![17 Facts About Brand Tracking ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22125%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/17-facts-about-brand-tracking/)
+[![16 Amazing Interesting Facts About Davy Crockett ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/16-amazing-interesting-facts-about-davy-crockett/)
 
-General
+People
 
-18 Jun 2024
+19 Jun 2024
 
-[17 Facts About Brand Tracking](https://facts.net/general/17-facts-about-brand-tracking/)
+[16 Amazing Interesting Facts About Davy Crockett](https://facts.net/history/people/16-amazing-interesting-facts-about-davy-crockett/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
