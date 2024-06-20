@@ -1,4 +1,6 @@
-[![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)](https://www.buff.game/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2036'%3E%3C/svg%3E)
+
+![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)](https://www.buff.game/)
 
 * [Start](https://www.buff.game/#how)
 * [Games](https://www.buff.game/#games)
@@ -32,9 +34,13 @@ Menu
 * [iOS](https://apps.apple.com/il/app/buff-game/id1556876835)
 * [Android](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
-[![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2043%2052'%3E%3C/svg%3E)
 
-[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
+![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2039%2052'%3E%3C/svg%3E)
+
+![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
 [Download](https://download.overwolf.com/install/Download?PartnerId=3762)
 
@@ -219,9 +225,23 @@ The failure of either party to exercise in any respect any right provided for he
 
 **Last updated on **February** **11****, 2024****
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2036'%3E%3C/svg%3E)
+
 ![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)
 
-[![](/rebrand/footer/Discord.svg)](https://discord.com/invite/fAhV4SY) [![](/rebrand/footer/Twitter.svg)](https://l.linklyhq.com/l/1guEn) [![](/rebrand/footer/Instagram.svg)](https://l.linklyhq.com/l/1gu4Q) [![](/rebrand/footer/Facebook.svg)](https://www.facebook.com/buff.game) [![](/rebrand/footer/YouTube.svg)](https://www.youtube.com/channel/UCzVXqxjcAjSHTxABpHngnPQ) [![](/rebrand/footer/tiktok.svg)](https://l.linklyhq.com/l/1guG8)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](/rebrand/footer/Discord.svg)](https://discord.com/invite/fAhV4SY)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](/rebrand/footer/Twitter.svg)](https://l.linklyhq.com/l/1guEn)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](/rebrand/footer/Instagram.svg)](https://l.linklyhq.com/l/1gu4Q)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](/rebrand/footer/Facebook.svg)](https://www.facebook.com/buff.game)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](/rebrand/footer/YouTube.svg)](https://www.youtube.com/channel/UCzVXqxjcAjSHTxABpHngnPQ)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](/rebrand/footer/tiktok.svg)](https://l.linklyhq.com/l/1guG8)
 
 ###### Menu
 
@@ -256,16 +276,37 @@ The failure of either party to exercise in any respect any right provided for he
 
 BUFF.GAME isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends and or Valorant. League of Legends, Valorant and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends, Valorant © Riot Games, Inc.
 
+[Manage consent](javascript:void(0))
+
 © 2024 Buff. All Rights Reserved.  
 [Terms of Use](https://www.buff.game/website-terms-of-use/) | [Privacy Policy](https://www.buff.game/buff-privacy-policy/)
 
-[Manage Cookie Settings](#)
-
 [](#)
 
-We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20961%20497'%3E%3C/svg%3E)
 
-Cookie SettingsAccept All
+![](https://www.buff.game/wp-content/uploads/2023/04/Pop.png)
+
+Don't Miss This Special Offer:
+------------------------------
+
+Triple Welcome Bonus 90 Buff Points Instead of 30
+
+Time Left:
+
+H
+
+M
+
+S
+
+[Download Now](https://download.overwolf.com/install/Download?PartnerId=3762&utm_term=exitpop90)
+
+We and our {{count}} partners use cookies and other tracking technologies to improve your experience on our website. We may store and/or access information on a device and process personal data, such as your IP address and browsing data, for personalised advertising and content, advertising and content measurement, audience research and services development. Additionally, we may utilize precise geolocation data and identification through device scanning.
+
+Please note that your consent will be valid across all our subdomains. You can change or withdraw your consent at any time by clicking the “Consent Preferences” button at the bottom of your screen. We respect your choices and are committed to providing you with a transparent and secure browsing experience.
+
+Cookie SettingsReject AllAccept All
 
 Manage consent
 
@@ -273,7 +314,9 @@ Close
 
 #### Privacy Overview
 
-This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Customize your consent preferences for Cookie Categories and advertising tracking preferences for Purposes & Features and Vendors below. You can give granular consent for each Third Party Vendor. Most vendors require explicit consent for personal data processing, while some rely on legitimate interest. However, you have the right to object to their use of legitimate interest.
+
+Cookie Categories Purposes & Features Vendors
 
 Necessary
 
@@ -298,19 +341,19 @@ Necessary cookies are absolutely essential for the website to function properly.
 
 Functional
 
- Functional
+ functional
 
 Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
 
 Performance
 
- Performance
+ performance
 
 Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
 
 Analytics
 
- Analytics
+ analytics
 
 Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
 
@@ -325,7 +368,7 @@ Analytical cookies are used to understand how visitors interact with the website
 
 Advertisement
 
- Advertisement
+ advertisement
 
 Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
 
@@ -347,7 +390,7 @@ Advertisement cookies are used to provide visitors with relevant ads and marketi
 
 Others
 
- Others
+ others
 
 Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
 
@@ -360,23 +403,228 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 | outbrain\_cid\_fetch | 5 minutes | No description available. |
 | trustedsite\_tm\_float\_seen | 5 minutes | No description available. |
 
-SAVE & ACCEPT
+Purposes
 
-Powered by [![CookieYes Logo](https://www.buff.game/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+ purpose
 
-![](https://www.buff.game/wp-content/uploads/2023/04/Pop.png)
+Store and/or access information on a device
 
-Don't Miss This Special Offer:
-------------------------------
+ 1
 
-Triple Welcome Bonus 90 Buff Points Instead of 30
+Cookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.
 
-Time Left:
+Illustrations
 
-H
+* Most purposes explained in this notice rely on the storage or accessing of information from your device when you use an app or visit a website. For example, a vendor or publisher might need to store a cookie on your device during your first visit on a website, to be able to recognise your device during your next visits (by accessing this cookie each time).
 
-M
+Number of Vendors seeking consent:
 
-S
+Use limited data to select advertising
 
-[Download Now](https://download.overwolf.com/install/Download?PartnerId=3762&utm_term=exitpop90)
+ 2
+
+ 2
+
+Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).
+
+Illustrations
+
+* A car manufacturer wants to promote its electric vehicles to environmentally conscious users living in the city after office hours. The advertising is presented on a page with related content (such as an article on climate change actions) after 6:30 p.m. to users whose non-precise location suggests that they are in an urban zone.
+* A large producer of watercolour paints wants to carry out an online advertising campaign for its latest watercolour range, diversifying its audience to reach as many amateur and professional artists as possible and avoiding showing the ad next to mismatched content (for instance, articles about how to paint your house). The number of times that the ad has been presented to you is detected and limited, to avoid presenting it too often.
+
+Number of Vendors seeking consent or relying on legitimate interest:
+
+Create profiles for personalised advertising
+
+ 3
+
+Information about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.
+
+Illustrations
+
+* If you read several articles about the best bike accessories to buy, this information could be used to create a profile about your interest in bike accessories. Such a profile may be used or improved later on, on the same or a different website or app to present you with advertising for a particular bike accessory brand. If you also look at a configurator for a vehicle on a luxury car manufacturer website, this information could be combined with your interest in bikes to refine your profile and make an assumption that you are interested in luxury cycling gear.
+* An apparel company wishes to promote its new line of high-end baby clothes. It gets in touch with an agency that has a network of clients with high income customers (such as high-end supermarkets) and asks the agency to create profiles of young parents or couples who can be assumed to be wealthy and to have a new child, so that these can later be used to present advertising within partner apps based on those profiles.
+
+Number of Vendors seeking consent:
+
+Use profiles to select personalised advertising
+
+ 4
+
+Advertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.
+
+Illustrations
+
+* An online retailer wants to advertise a limited sale on running shoes. It wants to target advertising to users who previously looked at running shoes on its mobile app. Tracking technologies might be used to recognise that you have previously used the mobile app to consult running shoes, in order to present you with the corresponding advertisement on the app.
+* A profile created for personalised advertising in relation to a person having searched for bike accessories on a website can be used to present the relevant advertisement for bike accessories on a mobile app of another organisation.
+
+Number of Vendors seeking consent:
+
+Create profiles to personalise content
+
+ 5
+
+Information about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.
+
+Illustrations
+
+* You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).
+* You have viewed three videos on space exploration across different TV apps. An unrelated news platform with which you have had no contact builds a profile based on that viewing behaviour, marking space exploration as a topic of possible interest for other videos.
+
+Number of Vendors seeking consent:
+
+Use profiles to select personalised content
+
+ 6
+
+Content presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.
+
+Illustrations
+
+* You read articles on vegetarian food on a social media platform and then use the cooking app of an unrelated company. The profile built about you on the social media platform will be used to present you vegetarian recipes on the welcome screen of the cooking app.
+* You have viewed three videos about rowing across different websites. An unrelated video sharing platform will recommend five other videos on rowing that may be of interest to you when you use your TV app, based on a profile built about you when you visited those different websites to watch online videos.
+
+Number of Vendors seeking consent:
+
+Measure advertising performance
+
+ 7
+
+ 7
+
+Information regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.
+
+Illustrations
+
+* You have clicked on an advertisement about a “black Friday” discount by an online shop on the website of a publisher and purchased a product. Your click will be linked to this purchase. Your interaction and that of other users will be measured to know how many clicks on the ad led to a purchase.
+* You are one of very few to have clicked on an advertisement about an “international appreciation day” discount by an online gift shop within the app of a publisher. The publisher wants to have reports to understand how often a specific ad placement within the app, and notably the “international appreciation day” ad, has been viewed or clicked by you and other users, in order to help the publisher and its partners (such as agencies) optimise ad placements.
+
+Number of Vendors seeking consent or relying on legitimate interest:
+
+Measure content performance
+
+ 8
+
+ 8
+
+Information regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you.
+
+Illustrations
+
+* You have read a blog post about hiking on a mobile app of a publisher and followed a link to a recommended and related post. Your interactions will be recorded as showing that the initial hiking post was useful to you and that it was successful in interesting you in the related post. This will be measured to know whether to produce more posts on hiking in the future and where to place them on the home screen of the mobile app.
+* You were presented a video on fashion trends, but you and several other users stopped watching after 30 seconds. This information is then used to evaluate the right length of future videos on fashion trends.
+
+Number of Vendors seeking consent or relying on legitimate interest:
+
+Understand audiences through statistics or combinations of data from different sources
+
+ 9
+
+ 9
+
+Reports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).
+
+Illustrations
+
+* The owner of an online bookstore wants commercial reporting showing the proportion of visitors who consulted and left its site without buying, or consulted and bought the last celebrity autobiography of the month, as well as the average age and the male/female distribution of each category. Data relating to your navigation on its site and to your personal characteristics is then used and combined with other such data to produce these statistics.
+* An advertiser wants to better understand the type of audience interacting with its adverts. It calls upon a research institute to compare the characteristics of users who interacted with the ad with typical attributes of users of similar platforms, across different devices. This comparison reveals to the advertiser that its ad audience is mainly accessing the adverts through mobile devices and is likely in the 45-60 age range.
+
+Number of Vendors seeking consent or relying on legitimate interest:
+
+Develop and improve services
+
+ 10
+
+ 10
+
+Information about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.
+
+Illustrations
+
+* A technology platform working with a social media provider notices a growth in mobile app users, and sees based on their profiles that many of them are connecting through mobile connections. It uses a new technology to deliver ads that are formatted for mobile devices and that are low-bandwidth, to improve their performance.
+* An advertiser is looking for a way to display ads on a new type of consumer device. It collects information regarding the way users interact with this new kind of device to determine whether it can build a new mechanism for displaying advertising on this type of device.
+
+Number of Vendors seeking consent or relying on legitimate interest:
+
+Use limited data to select content
+
+ 11
+
+ 11
+
+Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).
+
+Illustrations
+
+* A travel magazine has published an article on its website about the new online courses proposed by a language school, to improve travelling experiences abroad. The school’s blog posts are inserted directly at the bottom of the page, and selected on the basis of your non-precise location (for instance, blog posts explaining the course curriculum for different languages than the language of the country you are situated in).
+* A sports news mobile app has started a new section of articles covering the most recent football games. Each article includes videos hosted by a separate streaming platform showcasing the highlights of each match. If you fast-forward a video, this information may be used to select a shorter video to play next.
+
+Number of Vendors seeking consent or relying on legitimate interest:
+
+Special purposes
+
+Ensure security, prevent and detect fraud, and fix errors
+
+Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.
+
+Illustrations
+
+* An advertising intermediary delivers ads from various advertisers to its network of partnering websites. It notices a large increase in clicks on ads relating to one advertiser, and uses data regarding the source of the clicks to determine that 80% of the clicks come from bots rather than humans.
+
+Number of Vendors seeking consent:
+
+Deliver and present advertising and content
+
+Certain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.
+
+Illustrations
+
+* Clicking on a link in an article might normally send you to another page or part of the article. To achieve this, 1°) your browser sends a request to a server linked to the website, 2°) the server answers back (“here is the article you asked for”), using technical information automatically included in the request sent by your device, to properly display the information / images that are part of the article you asked for. Technically, such exchange of information is necessary to deliver the content that appears on your screen.
+
+Number of Vendors seeking consent:
+
+Features
+
+Match and combine data from other data sources
+
+Information about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.
+
+Number of Vendors seeking consent:
+
+Link different devices
+
+In support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).
+
+Number of Vendors seeking consent:
+
+Identify devices based on information transmitted automatically
+
+Your device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.
+
+Number of Vendors seeking consent:
+
+Special Features
+
+ specialfeature
+
+Use precise geolocation data
+
+ 1
+
+With your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.
+
+Number of Vendors seeking consent:
+
+Actively scan device characteristics for identification
+
+ 2
+
+With your acceptance, certain characteristics specific to your device might be requested and used to distinguish it from other devices (such as the installed fonts or plugins, the resolution of your screen) in support of the purposes explained in this notice.
+
+Number of Vendors seeking consent:
+
+Third Party Vendors
+
+ vendors
+
+Reject All Save My Preferences Accept All
