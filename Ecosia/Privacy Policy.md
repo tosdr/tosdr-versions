@@ -258,7 +258,7 @@ Our Data Protection Officer can be contacted at privacy@ecosia.org or our postal
 
 Last modified: April 30, 2024
 
-[B-Corporation Certificate](https://www.bcorporation.net/find-a-b-corp/company/ecosia-gmbh/)
+[B-Corporation Certificate](https://www.bcorporation.net/find-a-b-corp/company/ecosia-gmbh/) [Certification Notice](https://www.bcorporation.net/en-us/certification-notice/)
 
 What we do
 ----------
