@@ -682,7 +682,7 @@ Version: 1.15
 
 * ![Apple App Store](/_next/static/media/ico-app-store.6d1db71b.svg)
 * ![Google Play Store](/_next/static/media/ico-google-play-store.114746ef.svg)
-* ![Amazon FireTV](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-fire.15af3810.webp&w=384&q=100&dpl=dpl_H6ubAUM3Lk1FvbbZi8WzXdHzB1n4)
-* ![Huawei](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhuawei-badge.c6892e50.webp&w=384&q=100&dpl=dpl_H6ubAUM3Lk1FvbbZi8WzXdHzB1n4)
+* ![Amazon FireTV](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-fire.15af3810.webp&w=384&q=100&dpl=dpl_fffCLmwRNczmL5pqdJFoahuuPdsE)
+* ![Huawei](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhuawei-badge.c6892e50.webp&w=384&q=100&dpl=dpl_fffCLmwRNczmL5pqdJFoahuuPdsE)
 
 © 2024 Joyn GmbH
