@@ -105,13 +105,13 @@
     
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
 * [Loneliness](https://www.channel4.com/4viewers/loneliness)
+* [Contact us](https://www.channel4.com/4viewers/contact-us)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
     * [Other Channel 4 websites](https://www.channel4.com/4viewers/faqs/category/31)
     * [Our TV channels](https://www.channel4.com/4viewers/faqs/category/26)
     
-* [Contact us](https://www.channel4.com/4viewers/contact-us)
 
 * Our Policies
     * [Policies Overview](https://www.channel4.com/4viewers/policies-overview)
@@ -131,7 +131,7 @@
 Channel 4 Cookie Policy
 =======================
 
-This policy applies on and from 5th April 2023.
+This policy applies on and from 18 June 2024
 
 Whenever you use our Channel 4 websites, the 4sales.com site, any related programme microsites, mobile sites, mobile applications or applications on any other devices such as your games console or Smart TV (our “Services”), information may be accessed through the use of cookies and similar technologies.
 
@@ -194,7 +194,7 @@ The Broadcasters Audience Research Board (BARB), which is an independent body wh
 **Third party cookies**  
 All the cookies described so far in this policy are "first party cookies", which means they are set and controlled by Channel 4. Occasionally, third parties may set cookies on our Services which Channel 4 does not control.  These are called "third party cookies". This may happen in the following circumstances:
 
-* **Advertisement impressions:** We work with advertisers to help them make sure that their advertisements are served to people who will find them relevant and interesting. For example, if an advertiser wants to advertise a car, we use information we hold about you and your viewing habits (including the information collected by analytics cookies as detailed above) to decide if you are likely to be interested in an advertisement for a car and, if so, to serve that advertisement for you. More information about this is set out in our Privacy Policy. We do not allow our advertisers to set their own cookies for the purposes of tracking you or advertising to you directly. However, our advertisers will set a cookie which counts the number of times their advertisements have been viewed, to make sure that their advertisements are reaching enough people.  This is so they can verify that the view count that we give them is correct.
+* **Advertisement impressions** **and attribution:** We work with advertisers to help them make sure that their advertisements are served to people who will find them relevant and interesting and effective. For example, if an advertiser wants to advertise a car, we use information we hold about you and your viewing habits (including the information collected by analytics cookies as detailed above) to decide if you are likely to be interested in an advertisement for a car and, if so, to serve that advertisement for you. We also want to understand the effectiveness of our advertising (for example, whether you visited an advertiser’s website after viewing an advert). To do this we allow a third party to embed code in advertising to recognise your IP address when you view an advert. This third party will be able to work with an advertiser to see if the same IP address carries out an action on an advertiser’s website. The advertiser does not have access to your data as part of this process. More information about this is set out in our Privacy Policy. We do not allow our advertisers to set their own cookies for the purposes of tracking you or advertising to you directly. However, our advertisers will set a cookie which counts the number of times their advertisements have been viewed, to make sure that their advertisements are reaching enough people.  This is so they can verify that the view count that we give them is correct.
 * **Embedded content:** On some pages of our websites (for example sites that are specific to one of our programmes, like f1.channel4.com) we may include embedded content, for example from YouTube. When you visit a page with embedded content, the service provider (for example, YouTube) may set its own cookies on your web browser to track the success of their application or to customise their application to you.
 
 Channel 4 does not control the use of these cookies and cannot access them, as cookies can only be accessed by the party who originally set them. You should check the third party websites for more information about these cookies.
@@ -298,7 +298,7 @@ You can read more about how we use your data here: [http://www.channel4.com/priv
    
 If you have any questions or concerns about this Cookie Policy and/or our processing of your personal data, you can get in touch with our Data Protection Officer using: dataprotection@channel4.co.uk .  
    
-Last Updated 5th April 2023
+Last Updated 18 June 2024
 
 Close the modal
 
