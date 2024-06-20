@@ -47,11 +47,4 @@ We may provide links to third-party websites, and some of the content appearing 
 
 These Terms are governed by the laws of the State of New York without reference to the principles of conflicts of laws thereof.
 
-[](https://www.mckinsey.com/careers/search-jobs)
-------------------------------------------------
-
-[](https://jobs.mckinsey.com/careers/Login?)
-
-[](https://www.mckinsey.com/careers/search-jobs)
-
-[](https://jobs.mckinsey.com/careers/Login?)
+--
