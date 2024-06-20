@@ -100,9 +100,9 @@ DOGOnews reserves the right to terminate your privilege of using all or any port
         
         [Juneteenth, Explained](https://www.dogonews.com/2024/6/10/juneteenth-explained)
         
-    * [![The Las Vegas Sphere Is Revolutionizing Entertainment](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/3/the-las-vegas-sphere-is-revolutionizing-entertainment)
+    * [![Gloucestershire's Cheese Rolling Competition Is Like None Other](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
         
-        [The Las Vegas Sphere Is Revolutionizing Entertainment](https://www.dogonews.com/2024/6/3/the-las-vegas-sphere-is-revolutionizing-entertainment)
+        [Gloucestershire's Cheese Rolling Competition Is Like None Other](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
         
     
 * Month
