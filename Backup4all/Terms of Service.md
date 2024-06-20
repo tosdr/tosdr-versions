@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
+* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
     
-* [HDD enclosures Backup4all is compatible with](https://www.backup4all.com/which-one-touch-backup-hdd-enclosures-is-backup4all-compatible-with-kb.html)  
+* [How to backup your data to Akaza](https://www.backup4all.com/how-to-backup-your-data-to-akaza-kb.html)  
     
-* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
-* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
+* [How to backup your data to Dropbox](https://www.backup4all.com/how-to-backup-your-data-to-dropbox-kb.html)  
     
 
 Choose language:
