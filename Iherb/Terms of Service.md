@@ -16,7 +16,7 @@ DE
 
 EUR
 
-[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+[Marken der Woche bis zu 15% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
@@ -196,17 +196,17 @@ Themenwelten
 
 [Neu](https://de.iherb.com/new-products)[Specials!](https://de.iherb.com/specials)[Testprodukte](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/topsellers)
 
-[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+[Marken der Woche bis zu 15% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
-[\-20% auf K-Beauty
+[\-20% ab 60 US$ Bestellwert
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/k-beauty)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=JUNESALE24)
 
-[\-20% auf 6.000 Artikel
+[\-30% auf Molkenprotein
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/healthy-choices-better-value)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/whey-protein?specialtyFilters=7)
 
       
 
