@@ -80,6 +80,18 @@ Browse
         * [PowaKaddy / Motocaddy](https://www.maplin.co.uk/collections/golf-trolley-batteries)
         * [Bulk Battery Bundles](https://www.maplin.co.uk/collections/bulk-batteries)
         
+    * Shop by Brand
+        
+        * [Shop by Brand](https://www.maplin.co.uk/pages/batteries)
+        * [Maplin](https://www.maplin.co.uk/collections/maplin)
+        * [Energizer](https://www.maplin.co.uk/collections/energizer)
+        * [Portable Power Technology](https://www.maplin.co.uk/collections/portable-power-technology)
+        * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+        * [Panasonic](https://www.maplin.co.uk/collections/panasonic)
+        * [Olympus](https://www.maplin.co.uk/collections/olympus)
+        * [Lifos](https://www.maplin.co.uk/collections/lifos)
+        * [TBB Power](https://www.maplin.co.uk/collections/tbb-power)
+        
     * Learn More
         
         * [Learn More](https://www.maplin.co.uk/blogs/expert-advice)
@@ -191,6 +203,16 @@ Browse
         * [RJ45 Ethernet Adapters](https://www.maplin.co.uk/collections/rj45-adapters)
         * [RJ11 Telephone Cables](https://www.maplin.co.uk/collections/telephone-cables)
         
+    * Shop by Brand
+        
+        * [Shop by Brand](https://www.maplin.co.uk/pages/cables)
+        * [Maplin](https://www.maplin.co.uk/collections/maplin)
+        * [ProSound](https://www.maplin.co.uk/collections/prosound)
+        * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
+        * [Nikkai](https://www.maplin.co.uk/collections/nikkai)
+        * [On-Stage](https://www.maplin.co.uk/collections/on-stage)
+        * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+        
     * Learn More
         
         * [Learn More](https://www.maplin.co.uk/blogs/expert-advice)
@@ -235,6 +257,16 @@ Browse
         * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
         * [SIM Cards](https://www.maplin.co.uk/collections/sim-cards)
         * [Styluses](https://www.maplin.co.uk/collections/styluses)
+        
+    * Shop by Brand
+        
+        * [Shop by Brand](https://www.maplin.co.uk/pages/pc-mobile-accessories)
+        * [Maplin](https://www.maplin.co.uk/collections/maplin)
+        * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+        * [Cherry](https://www.maplin.co.uk/collections/cherry)
+        * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
+        * [ProSound](https://www.maplin.co.uk/collections/prosound)
+        * [Praktica](https://www.maplin.co.uk/collections/praktica)
         
     * Learn More
         
@@ -283,6 +315,13 @@ Browse
         * [Tripods & Mounts](https://www.maplin.co.uk/collections/tripods-mounts)
         * [Digital Photo Frames](https://www.maplin.co.uk/collections/digital-photo-frames)
         
+    * Shop By Use
+        
+        * [Shop By Use](https://www.maplin.co.uk/pages/photo-video)
+        * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
+        * [Parties & Events](https://www.maplin.co.uk/collections/parties-events)
+        * [Bird Watching](https://www.maplin.co.uk/collections/binoculars)
+        
     * Shop by Brand
         
         * [Shop by Brand](https://www.maplin.co.uk/pages/photo-video)
@@ -290,14 +329,11 @@ Browse
         * [Instax](https://www.maplin.co.uk/collections/instax-by-fujifilm)
         * [Praktica](https://www.maplin.co.uk/collections/praktica)
         * [Kodak](https://www.maplin.co.uk/collections/kodak)
+        * [Olympus](https://www.maplin.co.uk/collections/olympus)
         * [Ricoh](https://www.maplin.co.uk/collections/ricoh)
-        
-    * Shop By Use
-        
-        * [Shop By Use](https://www.maplin.co.uk/pages/photo-video)
-        * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
-        * [Parties & Events](https://www.maplin.co.uk/collections/parties-events)
-        * [Bird Watching](https://www.maplin.co.uk/collections/binoculars)
+        * [Panasonic](https://www.maplin.co.uk/collections/panasonic)
+        * [Transcend](https://www.maplin.co.uk/collections/transcend)
+        * [Agfa](https://www.maplin.co.uk/collections/agfa)
         
     * Learn More
         
@@ -362,6 +398,19 @@ Browse
         * [Shop by Use](https://www.maplin.co.uk/pages/audio)
         * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
         * [Stage Performance](https://www.maplin.co.uk/collections/stage-performance)
+        
+    * Shop by Brand
+        
+        * [Shop by Brand](https://www.maplin.co.uk/pages/audio)
+        * [CAD](https://www.maplin.co.uk/collections/cad)
+        * [Easy Karaoke](https://www.maplin.co.uk/collections/easy-karaoke)
+        * [iDance](https://www.maplin.co.uk/collections/idance)
+        * [Kam](https://www.maplin.co.uk/collections/kam)
+        * [Kinsman](https://www.maplin.co.uk/collections/kinsman)
+        * [Maono](https://www.maplin.co.uk/collections/maono)
+        * [On-Stage](https://www.maplin.co.uk/collections/on-stage)
+        * [ProSound](https://www.maplin.co.uk/collections/prosound)
+        * [Xvive](https://www.maplin.co.uk/collections/xvive)
         
     * Learn More
         
@@ -450,6 +499,21 @@ Browse
         
     * [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
     * [Security](https://www.maplin.co.uk/collections/security)
+    * Shop by Brand
+        
+        * [Shop by Brand](https://www.maplin.co.uk/pages/electricals)
+        * [Maplin](https://www.maplin.co.uk/collections/maplin)
+        * [4lite](https://www.maplin.co.uk/collections/4lite)
+        * [Portable Power Technology](https://www.maplin.co.uk/collections/portable-power-technology)
+        * [Masterplug](https://www.maplin.co.uk/collections/masterplug)
+        * [TBB Power](https://www.maplin.co.uk/collections/tbb-power)
+        * [Ring Automotive](https://www.maplin.co.uk/collections/ring-automotive)
+        * [Energizer](https://www.maplin.co.uk/collections/energizer)
+        * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+        * [PV Logic](https://www.maplin.co.uk/collections/pv-logic)
+        * [Hubi](https://www.maplin.co.uk/collections/hubi)
+        * [SMJ](https://www.maplin.co.uk/collections/smj-electrical)
+        
     * Learn More
         
         * [Learn More](https://www.maplin.co.uk/blogs/expert-advice)
@@ -500,9 +564,10 @@ Browse
     * Shop by Brand
         
         * [Shop by Brand](https://www.maplin.co.uk/pages/furniture-storage)
-        * [ProperAV Extra](https://www.maplin.co.uk/collections/properav-furniture)
-        * [Maplin Plus](https://www.maplin.co.uk/collections/maplin-furniture)
+        * [ProperAV Extra](https://www.maplin.co.uk/collections/properav)
+        * [Maplin Plus](https://www.maplin.co.uk/collections/maplin)
         * [Next Level Racing](https://www.maplin.co.uk/collections/next-level-racing)
+        * [Targus](https://www.maplin.co.uk/collections/targus)
         
     * Learn More
         
@@ -729,6 +794,17 @@ Browse
     * [PowaKaddy / Motocaddy](https://www.maplin.co.uk/collections/golf-trolley-batteries)
     * [Bulk Battery Bundles](https://www.maplin.co.uk/collections/bulk-batteries)
     
+    [Shop by Brand](https://www.maplin.co.uk/pages/batteries)
+    
+    * [Maplin](https://www.maplin.co.uk/collections/maplin)
+    * [Energizer](https://www.maplin.co.uk/collections/energizer)
+    * [Portable Power Technology](https://www.maplin.co.uk/collections/portable-power-technology)
+    * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+    * [Panasonic](https://www.maplin.co.uk/collections/panasonic)
+    * [Olympus](https://www.maplin.co.uk/collections/olympus)
+    * [Lifos](https://www.maplin.co.uk/collections/lifos)
+    * [TBB Power](https://www.maplin.co.uk/collections/tbb-power)
+    
     [![Different Battery Types and Sizes at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/battery-sizes-and-types)
     
     #### [What are the different battery sizes and types?](https://www.maplin.co.uk/blogs/expert-advice/battery-sizes-and-types)
@@ -834,6 +910,15 @@ Browse
     * [RJ45 Ethernet Adapters](https://www.maplin.co.uk/collections/rj45-adapters)
     * [RJ11 Telephone Cables](https://www.maplin.co.uk/collections/telephone-cables)
     
+    [Shop by Brand](https://www.maplin.co.uk/pages/cables)
+    
+    * [Maplin](https://www.maplin.co.uk/collections/maplin)
+    * [ProSound](https://www.maplin.co.uk/collections/prosound)
+    * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
+    * [Nikkai](https://www.maplin.co.uk/collections/nikkai)
+    * [On-Stage](https://www.maplin.co.uk/collections/on-stage)
+    * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+    
     [![Cables at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cables)
     
     #### [Confused about cables?](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cables)
@@ -879,6 +964,15 @@ Browse
     * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
     * [SIM Cards](https://www.maplin.co.uk/collections/sim-cards)
     * [Styluses](https://www.maplin.co.uk/collections/styluses)
+    
+    [Shop by Brand](https://www.maplin.co.uk/pages/pc-mobile-accessories)
+    
+    * [Maplin](https://www.maplin.co.uk/collections/maplin)
+    * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+    * [Cherry](https://www.maplin.co.uk/collections/cherry)
+    * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
+    * [ProSound](https://www.maplin.co.uk/collections/prosound)
+    * [Praktica](https://www.maplin.co.uk/collections/praktica)
     
     [![USB Hubs at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/why-use-a-usb-hub)
     
@@ -927,19 +1021,23 @@ Browse
     * [Tripods & Mounts](https://www.maplin.co.uk/collections/tripods-mounts)
     * [Digital Photo Frames](https://www.maplin.co.uk/collections/digital-photo-frames)
     
+    [Shop By Use](https://www.maplin.co.uk/pages/photo-video)
+    
+    * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
+    * [Parties & Events](https://www.maplin.co.uk/collections/parties-events)
+    * [Bird Watching](https://www.maplin.co.uk/collections/binoculars)
+    
     [Shop by Brand](https://www.maplin.co.uk/pages/photo-video)
     
     * [Fujifilm](https://www.maplin.co.uk/collections/fujifilm)
     * [Instax](https://www.maplin.co.uk/collections/instax-by-fujifilm)
     * [Praktica](https://www.maplin.co.uk/collections/praktica)
     * [Kodak](https://www.maplin.co.uk/collections/kodak)
+    * [Olympus](https://www.maplin.co.uk/collections/olympus)
     * [Ricoh](https://www.maplin.co.uk/collections/ricoh)
-    
-    [Shop By Use](https://www.maplin.co.uk/pages/photo-video)
-    
-    * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
-    * [Parties & Events](https://www.maplin.co.uk/collections/parties-events)
-    * [Bird Watching](https://www.maplin.co.uk/collections/binoculars)
+    * [Panasonic](https://www.maplin.co.uk/collections/panasonic)
+    * [Transcend](https://www.maplin.co.uk/collections/transcend)
+    * [Agfa](https://www.maplin.co.uk/collections/agfa)
     
     [![Portable Photo Printers at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/what-are-portable-photo-printers)
     
@@ -1001,6 +1099,18 @@ Browse
     
     * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
     * [Stage Performance](https://www.maplin.co.uk/collections/stage-performance)
+    
+    [Shop by Brand](https://www.maplin.co.uk/pages/audio)
+    
+    * [CAD](https://www.maplin.co.uk/collections/cad)
+    * [Easy Karaoke](https://www.maplin.co.uk/collections/easy-karaoke)
+    * [iDance](https://www.maplin.co.uk/collections/idance)
+    * [Kam](https://www.maplin.co.uk/collections/kam)
+    * [Kinsman](https://www.maplin.co.uk/collections/kinsman)
+    * [Maono](https://www.maplin.co.uk/collections/maono)
+    * [On-Stage](https://www.maplin.co.uk/collections/on-stage)
+    * [ProSound](https://www.maplin.co.uk/collections/prosound)
+    * [Xvive](https://www.maplin.co.uk/collections/xvive)
     
     [![Microphones at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/different-types-of-microphones)
     
@@ -1086,6 +1196,20 @@ Browse
     
     [Security](https://www.maplin.co.uk/collections/security)
     
+    [Shop by Brand](https://www.maplin.co.uk/pages/electricals)
+    
+    * [Maplin](https://www.maplin.co.uk/collections/maplin)
+    * [4lite](https://www.maplin.co.uk/collections/4lite)
+    * [Portable Power Technology](https://www.maplin.co.uk/collections/portable-power-technology)
+    * [Masterplug](https://www.maplin.co.uk/collections/masterplug)
+    * [TBB Power](https://www.maplin.co.uk/collections/tbb-power)
+    * [Ring Automotive](https://www.maplin.co.uk/collections/ring-automotive)
+    * [Energizer](https://www.maplin.co.uk/collections/energizer)
+    * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+    * [PV Logic](https://www.maplin.co.uk/collections/pv-logic)
+    * [Hubi](https://www.maplin.co.uk/collections/hubi)
+    * [SMJ](https://www.maplin.co.uk/collections/smj-electrical)
+    
     [![Power Stations at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
     
     #### [What are power stations?](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
@@ -1135,9 +1259,10 @@ Browse
     
     [Shop by Brand](https://www.maplin.co.uk/pages/furniture-storage)
     
-    * [ProperAV Extra](https://www.maplin.co.uk/collections/properav-furniture)
-    * [Maplin Plus](https://www.maplin.co.uk/collections/maplin-furniture)
+    * [ProperAV Extra](https://www.maplin.co.uk/collections/properav)
+    * [Maplin Plus](https://www.maplin.co.uk/collections/maplin)
     * [Next Level Racing](https://www.maplin.co.uk/collections/next-level-racing)
+    * [Targus](https://www.maplin.co.uk/collections/targus)
     
     [![Chairs at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/which-chair-is-best-for-home-office)
     
