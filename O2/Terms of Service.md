@@ -601,7 +601,7 @@ Popular in shop
 
 [Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
 
-[Apple iPad Pro 13 inch 7th Generation](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-7th-generation)
+[Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
 
 [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
 
@@ -667,7 +667,7 @@ Popular in shop
 
 [Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
 
-[Apple iPad Pro 13 inch 7th Generation](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-7th-generation)
+[Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
 
 [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
 
