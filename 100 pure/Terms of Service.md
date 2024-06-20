@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5680 reviews (5680)
+5682 reviews (5682)
 
 £13.00 £24.00
 
@@ -125,7 +125,7 @@ Single - £7
 
 ADD TO TOTE
 
-[50% off
+[48% off
 
 ![vanilla-bean-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTVB_Nourishing_Body_Cream_Vanilla_Bean_Primary_239x254.jpg?v=1627030911)](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
@@ -135,7 +135,7 @@ ADD TO TOTE
 
 769 reviews (769)
 
-£11.00 £22.00
+£11.00 £21.00
 
 Default Title - £11
 
@@ -281,7 +281,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-1033 reviews (1033)
+1035 reviews (1035)
 
 £52.00
 
@@ -333,7 +333,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-351 reviews (351)
+352 reviews (352)
 
 £6.00 £26.00
 
@@ -397,7 +397,7 @@ Default Title - £3
 
 ADD TO TOTE
 
-[55% off
+[52% off
 
 ![blood-orange-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTBO_Nourishing_Body_Cream_Blood_Orange_Primary_c6416b43-3112-4228-aa33-eb5aa15684dc_239x254.jpg?v=1626850757)](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
 
@@ -407,13 +407,13 @@ ADD TO TOTE
 
 286 reviews (286)
 
-£10.00 £22.00
+£10.00 £21.00
 
 Default Title - £10
 
 ADD TO TOTE
 
-[55% off
+[52% off
 
 ![french-lavender-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_239x254.jpg?v=1627033063)](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
@@ -423,13 +423,13 @@ ADD TO TOTE
 
 336 reviews (336)
 
-£10.00 £22.00
+£10.00 £21.00
 
 Default Title - £10
 
 ADD TO TOTE
 
-[55% off
+[52% off
 
 ![honey-almond-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_239x254.jpg?v=1630365979)](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
@@ -439,13 +439,13 @@ ADD TO TOTE
 
 372 reviews (372)
 
-£10.00 £22.00
+£10.00 £21.00
 
 Default Title - £10
 
 ADD TO TOTE
 
-[30% off
+[29% off
 
 ![dark-spot-remover](https://www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_239x254.jpg?v=1696526415)](https://www.100percentpure.com/products/dark-spot-remover)
 
@@ -453,9 +453,9 @@ ADD TO TOTE
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
-531 reviews (531)
+533 reviews (533)
 
-£30.00 £43.00
+£30.00 £42.00
 
 Default Title - £30
 
@@ -563,7 +563,7 @@ or 4 interest-free payments of **£0.00** with ![Klarna Logo](https://www.100per
 
  
 
-[Buy One Get One 50% OFF ALL Masks! USE CODE: MASKFUN](https://www.100percentpure.com/collections/masks "Natural Face Masks")
+[Last Day! Buy One Get One 50% OFF ALL Masks! USE CODE: MASKFUN](https://www.100percentpure.com/collections/masks "Natural Face Masks")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
