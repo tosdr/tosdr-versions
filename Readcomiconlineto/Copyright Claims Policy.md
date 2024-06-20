@@ -68,3 +68,11 @@ If you are the copyright owner of content which appears on the ReadComicOnline w
 From 2015 [ReadComicOnline.to](https://readcomiconline.li/). Copyrights and trademarks for the comic, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. [Privacy Policy](https://readcomiconline.li/Message/PrivacyPolicy) | [DMCA](https://readcomiconline.li/Message/DMCA) | [Contact us](https://discord.gg/Zs67BcB6tm)  
 
 Geo: GB
+
+PLEASE DISABLE ADBLOCK
+
+![](/Content/images/adb.png)
+
+Adblock extensions will affect to a several website features (search, bookmark, etc...). Please turn off for the best experience!
+
+[OK! I understood](javascript:void(0);)
