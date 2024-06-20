@@ -1,6 +1,6 @@
 □
 
-           Sales Return Policy – Livpure                                                    Sales Return Policy                                  [Skip to content](#MainContent)
+           Sales Return Policy – Livpure                                                   Sales Return Policy                                  [Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
@@ -97,12 +97,12 @@ Snapmint | 0% EMI | No credit card needed
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
     
-* [Accessories](https://www.livpure.com/collections/water-purifier-accessories)
-* Support
+* [Buy genuine Spares](https://www.livpure.com/collections/water-purifier-accessories)
+* Buy ACMC
     
-    Support
+    Buy ACMC
     
-    * [Maintenance Plan](https://www.livpure.com/products/ro-maintenance-plan)
+    * [ACMC](https://www.livpure.com/products/ro-maintenance-plan)
     * [Water Purifier Service](https://www.livpure.com/pages/service-request)
     
 * [RO Service 1800 419 9399](tel:18004199399)
@@ -155,10 +155,10 @@ Snapmint | 0% EMI | No credit card needed
     * [Smart Plug](https://www.livpure.com/products/smart-plug)
     * [Nook - Smart AC Controller](https://www.livpuresmart.com/smart-ac-converter)
     
-* [Accessories](https://www.livpure.com/collections/water-purifier-accessories)
-* Support
+* [Buy genuine Spares](https://www.livpure.com/collections/water-purifier-accessories)
+* Buy ACMC
     
-    * [Maintenance Plan](https://www.livpure.com/products/ro-maintenance-plan)
+    * [ACMC](https://www.livpure.com/products/ro-maintenance-plan)
     * [Water Purifier Service](https://www.livpure.com/pages/service-request)
     
 * [RO Service 1800 419 9399](tel:18004199399)
