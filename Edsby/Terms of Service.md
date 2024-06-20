@@ -178,6 +178,7 @@ The Company reserves the right to take any action it deems necessary to protect 
 * [Integrations](https://www.edsby.com/integrations/)
 * [Training](https://www.edsby.com/how-edsby-helps/teacher-success-with-edsby/)
 * [Edsby Store](https://www.zazzle.com/store/edsbystore/products)
+* [Edsby Enthusiasts](http://www.edsby.com/edsby-enthusiasts)
 * [Partners](https://www.edsby.com/partners/)
 
 ###### User data
