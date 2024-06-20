@@ -30,21 +30,21 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Vegan Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-recipe/whole-wheat-sesame-crackers-with-hummus-vegan/)
+    * [](https://www.onegreenplanet.org/vegan-recipe/mint-brownie-shake-vegan/)
         
-        [](https://www.onegreenplanet.org/vegan-recipe/whole-wheat-sesame-crackers-with-hummus-vegan/)[![Img 7121](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAqsAAAQAAQAAAADuay1LAAAAAnRSTlMAAHaTzTgAAABtSURBVHja7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GlwPAAGjkrJcAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/vegan-recipe/mint-brownie-shake-vegan/)[![Vegan mint brownie shake](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
         
-        ![Img 7121](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/01/img_7121-683x1024.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/whole-wheat-sesame-crackers-with-hummus-vegan/)
+        ![Vegan mint brownie shake](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2019/04/mintbrownieshake4-compressor.jpg?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/mint-brownie-shake-vegan/)
         
-        [Whole Wheat Sesame Crackers With Hummus \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/whole-wheat-sesame-crackers-with-hummus-vegan/)
+        [Mint Brownie Shake \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/mint-brownie-shake-vegan/)
         
-    * [](https://www.onegreenplanet.org/vegan-recipe/brown-rice-crackers-vegan-gluten-free/)
+    * [](https://www.onegreenplanet.org/vegan-recipe/cookie-dough-milkshake-vegan/)
         
-        [](https://www.onegreenplanet.org/vegan-recipe/brown-rice-crackers-vegan-gluten-free/)[![Screen Shot 2019 01 17 At 11 08 42 Am](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaAAAAFdAQAAAABtQYQzAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAACAOwNIQQABbnOT0AAAAABJRU5ErkJggg==)
+        [](https://www.onegreenplanet.org/vegan-recipe/cookie-dough-milkshake-vegan/)[![Screen Shot 2019 02 14 At 11 50 14 Am](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXEAAAFeAQAAAABbBhLqAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cGBAAAAAMOg+VPf4ARVAQAAAAAAAAAAAAAAAAAAAPAMQaAAAf4mlJQAAAAASUVORK5CYII=)
         
-        ![Screen Shot 2019 01 17 At 11 08 42 Am](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2019/01/screen-shot-2019-01-17-at-11-08-42-am.png?fit=416%2C349&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/brown-rice-crackers-vegan-gluten-free/)
+        ![Screen Shot 2019 02 14 At 11 50 14 Am](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2019/02/screen-shot-2019-02-14-at-11-50-14-am.png?fit=369%2C350&ssl=1)](https://www.onegreenplanet.org/vegan-recipe/cookie-dough-milkshake-vegan/)
         
-        [Brown Rice Crackers \[Vegan, Gluten-Free\]](https://www.onegreenplanet.org/vegan-recipe/brown-rice-crackers-vegan-gluten-free/)
+        [Cookie Dough Milkshake \[Vegan\]](https://www.onegreenplanet.org/vegan-recipe/cookie-dough-milkshake-vegan/)
         
     
 * [Food](https://www.onegreenplanet.org/channel/vegan-food/)
@@ -73,71 +73,71 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Plant-Based Cookbooks to Buy](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-food/15-homemade-plant-based-cracker-recipes/)
+    * [](https://www.onegreenplanet.org/vegan-food/15-grapefruit-filled-plant-based-recipes/)
         
-        [](https://www.onegreenplanet.org/vegan-food/15-homemade-plant-based-cracker-recipes/)[![Garlic and Herb Flax Crackers](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/vegan-food/15-grapefruit-filled-plant-based-recipes/)[![Simple Basil Citrus Salad With Balsamic Jam Dressing](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Garlic and Herb Flax Crackers](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/flax-crackers-b.webp?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-homemade-plant-based-cracker-recipes/)
+        ![Simple Basil Citrus Salad With Balsamic Jam Dressing](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/basil.webp?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-grapefruit-filled-plant-based-recipes/)
         
-        [15 Homemade Plant-Based Cracker Recipes](https://www.onegreenplanet.org/vegan-food/15-homemade-plant-based-cracker-recipes/)
+        [15 Grapefruit-Filled Plant-Based Recipes](https://www.onegreenplanet.org/vegan-food/15-grapefruit-filled-plant-based-recipes/)
         
-    * [](https://www.onegreenplanet.org/vegan-food/mcdonalds-launches-vegan-ice-cream-and-frozen-desserts-trial-in-the-uk/)
+    * [](https://www.onegreenplanet.org/vegan-food/15-delicious-lentil-burgers/)
         
-        [](https://www.onegreenplanet.org/vegan-food/mcdonalds-launches-vegan-ice-cream-and-frozen-desserts-trial-in-the-uk/)[![mcdonalds](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/vegan-food/15-delicious-lentil-burgers/)[![Red Lentil and Butternut Squash Burgers](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAE1AQAAAABCPe36AAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBDQAAAMIg+6c2xzdgAAAAAAAAAAAAAAAAAAAAAADQcUc3AAFao7jKAAAAAElFTkSuQmCC)
         
-        ![mcdonalds](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1181606473-e1718632396793.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/mcdonalds-launches-vegan-ice-cream-and-frozen-desserts-trial-in-the-uk/)
+        ![Red Lentil and Butternut Squash Burgers](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/02/burger6.jpg?fit=460%2C309&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-delicious-lentil-burgers/)
         
-        [McDonald’s Launches Vegan Ice Cream and Frozen Desserts Trial in the UK](https://www.onegreenplanet.org/vegan-food/mcdonalds-launches-vegan-ice-cream-and-frozen-desserts-trial-in-the-uk/)
+        [15 Delicious Lentil Burgers](https://www.onegreenplanet.org/vegan-food/15-delicious-lentil-burgers/)
         
     
 * [News](https://www.onegreenplanet.org/channel/news/)
-    * [](https://www.onegreenplanet.org/news/daily-top-news-animals-are-being-displaced-at-a-gaza-zoo-mcdonalds-launches-vegan-ice-cream-canada-passes-bill-to-combat-environmental-racism-and-more/)
+    * [](https://www.onegreenplanet.org/news/daily-top-news-nycs-wildlife-is-mutating-to-adapt-to-junk-food-navigating-veganism-in-the-world-of-dating-apps-oil-spill-crisis-hits-singapores-beaches-and-more/)
         
-        [](https://www.onegreenplanet.org/news/daily-top-news-animals-are-being-displaced-at-a-gaza-zoo-mcdonalds-launches-vegan-ice-cream-canada-passes-bill-to-combat-environmental-racism-and-more/)[![McDonald's storefront](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/news/daily-top-news-nycs-wildlife-is-mutating-to-adapt-to-junk-food-navigating-veganism-in-the-world-of-dating-apps-oil-spill-crisis-hits-singapores-beaches-and-more/)[![Dusky salamander](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![McDonald's storefront](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2157494673.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/news/daily-top-news-animals-are-being-displaced-at-a-gaza-zoo-mcdonalds-launches-vegan-ice-cream-canada-passes-bill-to-combat-environmental-racism-and-more/)
+        ![Dusky salamander](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-460911559.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/news/daily-top-news-nycs-wildlife-is-mutating-to-adapt-to-junk-food-navigating-veganism-in-the-world-of-dating-apps-oil-spill-crisis-hits-singapores-beaches-and-more/)
         
-        [Daily Top News: Animals are Being Displaced at a Gaza Zoo, McDonald’s Launches Vegan Ice Cream, Canada Passes Bill to Combat Environmental Racism, and More!](https://www.onegreenplanet.org/news/daily-top-news-animals-are-being-displaced-at-a-gaza-zoo-mcdonalds-launches-vegan-ice-cream-canada-passes-bill-to-combat-environmental-racism-and-more/)
+        [Daily Top News: NYC’s Wildlife is Mutating to Adapt to Junk Food, Navigating Veganism in the World of Dating Apps, Oil Spill Crisis Hits Singapore’s Beaches, and More!](https://www.onegreenplanet.org/news/daily-top-news-nycs-wildlife-is-mutating-to-adapt-to-junk-food-navigating-veganism-in-the-world-of-dating-apps-oil-spill-crisis-hits-singapores-beaches-and-more/)
         
-    * [](https://www.onegreenplanet.org/animals/womans-uninvited-feline-guest-causes-a-stir-on-tiktok/)
+    * [](https://www.onegreenplanet.org/animals/dogs-clever-use-of-camera-for-treats-goes-viral/)
         
-        [](https://www.onegreenplanet.org/animals/womans-uninvited-feline-guest-causes-a-stir-on-tiktok/)[![A cat finds a new friend](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/dogs-clever-use-of-camera-for-treats-goes-viral/)[![bichon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![A cat finds a new friend](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/cat-distribution-system-2-e1717983025318.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/womans-uninvited-feline-guest-causes-a-stir-on-tiktok/)
+        ![bichon](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1818839753-e1718807788808.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/dogs-clever-use-of-camera-for-treats-goes-viral/)
         
-        [Woman’s Uninvited Feline Guest Causes a Stir on TikTok](https://www.onegreenplanet.org/animals/womans-uninvited-feline-guest-causes-a-stir-on-tiktok/)
+        [Dog’s Clever Use of Camera for Treats Goes Viral](https://www.onegreenplanet.org/animals/dogs-clever-use-of-camera-for-treats-goes-viral/)
         
-    * [](https://www.onegreenplanet.org/animals/miami-woman-adopts-shelter-dog-who-only-wants-to-cuddle/)
+    * [](https://www.onegreenplanet.org/animals/labradors-bedtime-ritual-goes-viral/)
         
-        [](https://www.onegreenplanet.org/animals/miami-woman-adopts-shelter-dog-who-only-wants-to-cuddle/)[![The shelter dog only wants to cuddle](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/labradors-bedtime-ritual-goes-viral/)[![dog sleeping](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
         
-        ![The shelter dog only wants to cuddle](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/dog-cuddling-e1717984332820.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/miami-woman-adopts-shelter-dog-who-only-wants-to-cuddle/)
+        ![dog sleeping](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1355048225-e1718807230878.jpg?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/animals/labradors-bedtime-ritual-goes-viral/)
         
-        [Miami Woman Adopts Shelter Dog Who Only Wants to Cuddle](https://www.onegreenplanet.org/animals/miami-woman-adopts-shelter-dog-who-only-wants-to-cuddle/)
+        [Labrador’s Bedtime Ritual Goes Viral](https://www.onegreenplanet.org/animals/labradors-bedtime-ritual-goes-viral/)
         
-    * [](https://www.onegreenplanet.org/animals/dogs-hilarious-response-to-walk-time-leaves-internet-in-stitches/)
+    * [](https://www.onegreenplanet.org/animals/hilarious-cocker-spaniel-siblings-contrasting-personalities-delight-tiktok/)
         
-        [](https://www.onegreenplanet.org/animals/dogs-hilarious-response-to-walk-time-leaves-internet-in-stitches/)[![A Bulldog doesn't wantto walk](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/hilarious-cocker-spaniel-siblings-contrasting-personalities-delight-tiktok/)[![two cocker spaniels](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFAAQAAAAAZ0nGIAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cExAQAAAMKg9U9tBn+gAAAAAAAAAAAAAAAAAAAAAAAAeAxJwAABcLbWmAAAAABJRU5ErkJggg==)
         
-        ![A Bulldog doesn't wantto walk](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/bulldog-pretending-to-sleep-e1717986000653.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/dogs-hilarious-response-to-walk-time-leaves-internet-in-stitches/)
+        ![two cocker spaniels](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-5179480-e1718806800361.jpg?fit=460%2C320&ssl=1)](https://www.onegreenplanet.org/animals/hilarious-cocker-spaniel-siblings-contrasting-personalities-delight-tiktok/)
         
-        [Dog’s Hilarious Response to Walk Time Leaves Internet in Stitches](https://www.onegreenplanet.org/animals/dogs-hilarious-response-to-walk-time-leaves-internet-in-stitches/)
+        [Hilarious Cocker Spaniel Siblings’ Contrasting Personalities Delight TikTok](https://www.onegreenplanet.org/animals/hilarious-cocker-spaniel-siblings-contrasting-personalities-delight-tiktok/)
         
-    * [](https://www.onegreenplanet.org/animals/overcrowded-shelter-takes-in-39-puppies-rescued-from-puppy-mill/)
+    * [](https://www.onegreenplanet.org/animals/animals-find-sanctuary-and-freedom-at-black-beauty-ranch/)
         
-        [](https://www.onegreenplanet.org/animals/overcrowded-shelter-takes-in-39-puppies-rescued-from-puppy-mill/)[![puppy mill](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/animals-find-sanctuary-and-freedom-at-black-beauty-ranch/)[![zebra](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![puppy mill](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-610685636-1-e1718387016532.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/overcrowded-shelter-takes-in-39-puppies-rescued-from-puppy-mill/)
+        ![zebra](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2316841873-e1718385317171.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/animals-find-sanctuary-and-freedom-at-black-beauty-ranch/)
         
-        [Overcrowded Shelter Takes in 39 Puppies Rescued from Puppy Mill](https://www.onegreenplanet.org/animals/overcrowded-shelter-takes-in-39-puppies-rescued-from-puppy-mill/)
+        [Formerly Neglected and Abused Zoo Animals are Thriving at an Animal Sanctuary](https://www.onegreenplanet.org/animals/animals-find-sanctuary-and-freedom-at-black-beauty-ranch/)
         
-    * [](https://www.onegreenplanet.org/animals/10-year-old-artist-donates-money-from-drawings-to-animals-in-need/)
+    * [](https://www.onegreenplanet.org/animals/dogs-amazing-journey-sheds-light-on-pet-adoption/)
         
-        [](https://www.onegreenplanet.org/animals/10-year-old-artist-donates-money-from-drawings-to-animals-in-need/)[![drawing of a dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/dogs-amazing-journey-sheds-light-on-pet-adoption/)[![Giuseppe](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAADmAQAAAABw4IjPAAAAAnRSTlMAAHaTzTgAAAAkSURBVGje7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAF4NNQIAAajfLsQAAAAASUVORK5CYII=)
         
-        ![drawing of a dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1909653781-e1718386631577.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/10-year-old-artist-donates-money-from-drawings-to-animals-in-need/)
+        ![Giuseppe](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/unnamed.jpg?fit=460%2C230&ssl=1)](https://www.onegreenplanet.org/animals/dogs-amazing-journey-sheds-light-on-pet-adoption/)
         
-        [10-Year-Old Artist Donates Money from Drawings to Animals in Need](https://www.onegreenplanet.org/animals/10-year-old-artist-donates-money-from-drawings-to-animals-in-need/)
+        [Neglected Dog Covered in Matted Fur and Plagued with Health Issues Finds Loving Home](https://www.onegreenplanet.org/animals/dogs-amazing-journey-sheds-light-on-pet-adoption/)
         
 * [Earth](https://www.onegreenplanet.org/channel/environment/)
     * [](https://www.onegreenplanet.org/environment/climate-change-champions-9-visionaries-who-transformed-the-world-for-sustainability/)
@@ -244,6 +244,38 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Must-Have Plant-Based Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
+    * [](https://www.onegreenplanet.org/natural-health/how-to-naturally-treat-symptoms-of-dizziness/)
+        
+        [](https://www.onegreenplanet.org/natural-health/how-to-naturally-treat-symptoms-of-dizziness/)[![Spiral](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAAFeAQAAAADlUEq3AAAAAnRSTlMAAHaTzTgAAAAmSURBVGje7cExAQAAAMKg9U/taQmgAAAAAAAAAAAAAAAAAAAAuAE9hgABlryc8QAAAABJRU5ErkJggg==)
+        
+        ![Spiral](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/04/10069073686_e17c8ac09f_b.jpeg?fit=350%2C350&ssl=1)](https://www.onegreenplanet.org/natural-health/how-to-naturally-treat-symptoms-of-dizziness/)
+        
+        [How to Naturally Treat Symptoms of Dizziness](https://www.onegreenplanet.org/natural-health/how-to-naturally-treat-symptoms-of-dizziness/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/10-plant-based-recipes-for-kidney-cleansing-and-health/)
+        
+        [](https://www.onegreenplanet.org/natural-health/10-plant-based-recipes-for-kidney-cleansing-and-health/)[![Spicy Lentil Soup with Ginger & Coconut Milk](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![Spicy Lentil Soup with Ginger & Coconut Milk](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/01/nem-soup-1.webp?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/10-plant-based-recipes-for-kidney-cleansing-and-health/)
+        
+        [10 Plant-Based Recipes for Kidney Cleansing and Health](https://www.onegreenplanet.org/natural-health/10-plant-based-recipes-for-kidney-cleansing-and-health/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/10-anti-viral-plant-based-recipes-to-boost-immunity-and-guard-against-viral-infections/)
+        
+        [](https://www.onegreenplanet.org/natural-health/10-anti-viral-plant-based-recipes-to-boost-immunity-and-guard-against-viral-infections/)[![Immunity Boosting Miso Soup](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        
+        ![Immunity Boosting Miso Soup](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/01/soup123.webp?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/natural-health/10-anti-viral-plant-based-recipes-to-boost-immunity-and-guard-against-viral-infections/)
+        
+        [10 Anti-Viral Plant-Based Recipes to Boost Immunity and Guard against Viral Infections](https://www.onegreenplanet.org/natural-health/10-anti-viral-plant-based-recipes-to-boost-immunity-and-guard-against-viral-infections/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/how-to-deal-with-digestive-difficulties-on-a-plant-based-diet/)
+        
+        [](https://www.onegreenplanet.org/natural-health/how-to-deal-with-digestive-difficulties-on-a-plant-based-diet/)[![digestion healing](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEgAQAAAAARJn7SAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMKg909tDwcUAAAAAAAAAAAAAAAAAAAAAM8GQmAAAac4fHcAAAAASUVORK5CYII=)
+        
+        ![digestion healing](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2014/08/digestion.jpg?fit=460%2C288&ssl=1)](https://www.onegreenplanet.org/natural-health/how-to-deal-with-digestive-difficulties-on-a-plant-based-diet/)
+        
+        [How to Deal With Digestive Difficulties on a Plant-Based Diet](https://www.onegreenplanet.org/natural-health/how-to-deal-with-digestive-difficulties-on-a-plant-based-diet/)
+        
     * [](https://www.onegreenplanet.org/natural-health/fat-burning-recipes/)
         
         [](https://www.onegreenplanet.org/natural-health/fat-burning-recipes/)[![Split Pea Soup](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
@@ -251,38 +283,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![Split Pea Soup](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2020/02/split-pea-soup.jpg?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/natural-health/fat-burning-recipes/)
         
         [15 Plant-Based Fat-Burning Recipes](https://www.onegreenplanet.org/natural-health/fat-burning-recipes/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-depression/)
-        
-        [](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-depression/)[![person listen to meditation](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAElAQAAAABB6+9hAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cGBAAAAAICg/akXqQIAAAAAAAAAAAAAAAAAAAAABkOHAAGo6yJFAAAAAElFTkSuQmCC)
-        
-        ![person listen to meditation](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-2289079641-e1718288683683.jpg?fit=460%2C293&ssl=1)](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-depression/)
-        
-        [Five Meditation Videos for Depression](https://www.onegreenplanet.org/natural-health/five-meditation-videos-for-depression/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/how-to-use-sea-salt-water-to-treat-acne/)
-        
-        [](https://www.onegreenplanet.org/natural-health/how-to-use-sea-salt-water-to-treat-acne/)[![salt and oil](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
-        
-        ![salt and oil](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2015/06/shutterstock_164380772-e1685561430787.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/natural-health/how-to-use-sea-salt-water-to-treat-acne/)
-        
-        [How to Use Sea Salt Water to Treat Acne](https://www.onegreenplanet.org/natural-health/how-to-use-sea-salt-water-to-treat-acne/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/10-natural-plant-based-recipes-to-cleanse-your-intestines-and-promote-gut-health-naturally/)
-        
-        [](https://www.onegreenplanet.org/natural-health/10-natural-plant-based-recipes-to-cleanse-your-intestines-and-promote-gut-health-naturally/)[![Chia Pudding With Blueberries](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAExAQAAAADZrK/sAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAA4N0ZLAAEUf2MtAAAAAElFTkSuQmCC)
-        
-        ![Chia Pudding With Blueberries](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/ChiaPudding_Blueberries.webp?fit=460%2C305&ssl=1)](https://www.onegreenplanet.org/natural-health/10-natural-plant-based-recipes-to-cleanse-your-intestines-and-promote-gut-health-naturally/)
-        
-        [10 Natural Plant-Based Recipes to Cleanse Your Intestines and Promote Gut Health Naturally](https://www.onegreenplanet.org/natural-health/10-natural-plant-based-recipes-to-cleanse-your-intestines-and-promote-gut-health-naturally/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/10-refreshing-plant-based-recipes-to-cool-off-hot-flashes-in-menopausal-women/)
-        
-        [](https://www.onegreenplanet.org/natural-health/10-refreshing-plant-based-recipes-to-cool-off-hot-flashes-in-menopausal-women/)[![Cucumber and lemon water](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
-        
-        ![Cucumber and lemon water](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/01/shutterstock_758878798-scaled-e1680224603275.webp?fit=460%2C345&ssl=1)](https://www.onegreenplanet.org/natural-health/10-refreshing-plant-based-recipes-to-cool-off-hot-flashes-in-menopausal-women/)
-        
-        [10 Refreshing Plant-Based Recipes to Cool Off Hot Flashes in Menopausal Women](https://www.onegreenplanet.org/natural-health/10-refreshing-plant-based-recipes-to-cool-off-hot-flashes-in-menopausal-women/)
         
 * [People](https://www.onegreenplanet.org/channel/human-interest/)
     * [](https://www.onegreenplanet.org/human-interest/global-waters-exceed-safe-pfa-levels-new-study-reveals/)
@@ -334,6 +334,22 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         [Climate Change Forces Four Native Groups to Relocate](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)
         
 * [Animals](https://www.onegreenplanet.org/channel/animals/)
+    * [](https://www.onegreenplanet.org/animals/10-pet-products-to-clean-trim-and-take-care-of-nails/)
+        
+        [](https://www.onegreenplanet.org/animals/10-pet-products-to-clean-trim-and-take-care-of-nails/)[![dog nails](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![dog nails](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1673565892-e1718204474915.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/10-pet-products-to-clean-trim-and-take-care-of-nails/)
+        
+        [10 Pet Products to Clean, Trim, and Take Care of Nails](https://www.onegreenplanet.org/animals/10-pet-products-to-clean-trim-and-take-care-of-nails/)
+        
+    * [](https://www.onegreenplanet.org/animals/orphaned-elephant-calf-now-under-treatment-at-indias-first-elephant-hospital/)
+        
+        [](https://www.onegreenplanet.org/animals/orphaned-elephant-calf-now-under-treatment-at-indias-first-elephant-hospital/)[![Baby elephant](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEDAQAAAACQHglKAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cExAQAAAMIg+6e2w25gAAAAAAAAAAAAAAAAAABAdzuxAAFBC70jAAAAAElFTkSuQmCC)
+        
+        ![Baby elephant](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/bani.jpg?fit=460%2C259&ssl=1)](https://www.onegreenplanet.org/animals/orphaned-elephant-calf-now-under-treatment-at-indias-first-elephant-hospital/)
+        
+        [Orphaned Elephant Calf Now Under Treatment at India’s First Elephant Hospital](https://www.onegreenplanet.org/animals/orphaned-elephant-calf-now-under-treatment-at-indias-first-elephant-hospital/)
+        
     * [](https://www.onegreenplanet.org/animals/10-pet-friendly-travel-accessories-for-your-next-vacay/)
         
         [](https://www.onegreenplanet.org/animals/10-pet-friendly-travel-accessories-for-your-next-vacay/)[![dog on suitcase](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
@@ -366,23 +382,23 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Six of the Cutest Rescue Pigs](https://www.onegreenplanet.org/animals/six-of-the-cutest-rescue-pigs/)
         
-    * [](https://www.onegreenplanet.org/animals/10-products-to-keep-your-pets-breath-fresh/)
-        
-        [](https://www.onegreenplanet.org/animals/10-products-to-keep-your-pets-breath-fresh/)[![dog breath](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![dog breath](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-683326846.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/10-products-to-keep-your-pets-breath-fresh/)
-        
-        [10 Products to Keep Your Pet’s Breath Fresh](https://www.onegreenplanet.org/animals/10-products-to-keep-your-pets-breath-fresh/)
-        
-    * [](https://www.onegreenplanet.org/animals/five-amazing-farm-sanctuary-founder-stories/)
-        
-        [](https://www.onegreenplanet.org/animals/five-amazing-farm-sanctuary-founder-stories/)[![farm sanctuary](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![farm sanctuary](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/06/shutterstock-1224195292-1-e1718114681113.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/five-amazing-farm-sanctuary-founder-stories/)
-        
-        [Five Amazing Farm Sanctuary Founder Stories](https://www.onegreenplanet.org/animals/five-amazing-farm-sanctuary-founder-stories/)
-        
 * [Video](https://www.onegreenplanet.org/channel/videos/)
+    * [](https://www.onegreenplanet.org/news/watch-amazing-rescue-of-a-friendly-gila-monster/)
+        
+        [](https://www.onegreenplanet.org/news/watch-amazing-rescue-of-a-friendly-gila-monster/)[![Gila Monster](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEtAQAAAACtuG0MAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBDQAAAMIg+6e2xwcMAAAAAAAAAAAAAAAAAAAAAKDpRV8AAULu2QEAAAAASUVORK5CYII=)
+        
+        ![Gila Monster](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/03/shutterstock_1872989179-scaled-e1677619365544.jpg?fit=460%2C301&ssl=1)](https://www.onegreenplanet.org/news/watch-amazing-rescue-of-a-friendly-gila-monster/)
+        
+        [Watch Amazing Rescue of a Friendly Gila Monster! \[Video\]](https://www.onegreenplanet.org/news/watch-amazing-rescue-of-a-friendly-gila-monster/)
+        
+    * [](https://www.onegreenplanet.org/animalsandnature/otters-use-rocks-to-break-into-hard-shells/)
+        
+        [](https://www.onegreenplanet.org/animalsandnature/otters-use-rocks-to-break-into-hard-shells/)[![Otter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMEAAAFeAQAAAAAUfkYTAAAAAnRSTlMAAHaTzTgAAAAfSURBVHja7cExAQAAAMIg+6e2xE5gAAAAAAAAAABA4iOMAAG3UthwAAAAAElFTkSuQmCC)
+        
+        ![Otter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/02/screen-shot-2022-02-23-at-10-28-57-pm.png?fit=193%2C350&ssl=1)](https://www.onegreenplanet.org/animalsandnature/otters-use-rocks-to-break-into-hard-shells/)
+        
+        [Otters Use Rocks to Break into Hard Shells! \[Video\]](https://www.onegreenplanet.org/animalsandnature/otters-use-rocks-to-break-into-hard-shells/)
+        
     * [](https://www.onegreenplanet.org/animalsandnature/newborn-kitten-found-dragging-herself-on-hot-concrete-rescued/)
         
         [](https://www.onegreenplanet.org/animalsandnature/newborn-kitten-found-dragging-herself-on-hot-concrete-rescued/)[![Cute American shorthair cat kitten](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAFZAQAAAAA9CyLbAAAAAnRSTlMAAHaTzTgAAAApSURBVHja7cEBAQAAAIKg/q9uiMAAAAAAAAAAAAAAAAAAAAAAAAAAoOFPgwAB7nLLgwAAAABJRU5ErkJggg==)
@@ -414,22 +430,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![feral stray cat](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/02/shutterstock_1071068639-scaled-e1676936918896.jpg?fit=460%2C305&ssl=1)](https://www.onegreenplanet.org/news/this-feral-cat-spent-a-year-hiding-in-the-bathroom-watch-her-transformation/)
         
         [This Feral Cat Spent a Year Hiding in the Bathroom. Watch Her Transformation! \[Video\]](https://www.onegreenplanet.org/news/this-feral-cat-spent-a-year-hiding-in-the-bathroom-watch-her-transformation/)
-        
-    * [](https://www.onegreenplanet.org/news/tiktok-tip-4-mental-health-issues-that-arent-talked-about-enough/)
-        
-        [](https://www.onegreenplanet.org/news/tiktok-tip-4-mental-health-issues-that-arent-talked-about-enough/)[![African psychologist hold hands of girl patient](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![African psychologist hold hands of girl patient](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/02/shutterstock_1918956056-scaled-e1676588429585.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/news/tiktok-tip-4-mental-health-issues-that-arent-talked-about-enough/)
-        
-        [TikTok Tip: 4 Mental Health Issues That Aren’t Talked About Enough \[Video\]](https://www.onegreenplanet.org/news/tiktok-tip-4-mental-health-issues-that-arent-talked-about-enough/)
-        
-    * [](https://www.onegreenplanet.org/vegan-food/tiktok-trend-have-you-this-viral-vegan-salmon-rice-bowl/)
-        
-        [](https://www.onegreenplanet.org/vegan-food/tiktok-trend-have-you-this-viral-vegan-salmon-rice-bowl/)[![Vegan poke bowl with salmon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEyAQAAAABfON1CAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPBrRoYAAQ4SziQAAAAASUVORK5CYII=)
-        
-        ![Vegan poke bowl with salmon](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/02/shutterstock_1689150103-scaled-e1676419944830.jpg?fit=460%2C306&ssl=1)](https://www.onegreenplanet.org/vegan-food/tiktok-trend-have-you-this-viral-vegan-salmon-rice-bowl/)
-        
-        [TikTok Trend: Have You Tried This Viral Vegan Salmon Rice Bowl? \[Video\]](https://www.onegreenplanet.org/vegan-food/tiktok-trend-have-you-this-viral-vegan-salmon-rice-bowl/)
         
 * [About](javascript:void(0);)
     * [Support Us](https://www.onegreenplanet.org/donate-page/)
@@ -536,11 +536,11 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
     * [ ] n/a
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
     * [ ] Plant-Based Protein Guides
@@ -733,11 +733,11 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
+    * [ ] N/A
     * [ ] n/a
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] Pet Food
     * [ ] Plant-Based Nutrition
     * [ ] Plant-Based Protein Guides
