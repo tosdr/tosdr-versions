@@ -10,8 +10,8 @@
 
 ![Menu](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon-nav-menu.feafeabc.webp&w=48&q=75)
 
-* [Course Finder](https://www.lockandstock.app/courses)
 * [University Finder](https://www.lockandstock.app/universities)
+* [Course Finder](https://www.lockandstock.app/courses)
 * Destinations
 * Services
 * Exclusive Scholarships & More
