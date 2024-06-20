@@ -1,3 +1,11 @@
+ Foundation
+
+[About Matrix](https://matrix.org/foundation/about/) [Governing Board Elections 2024](https://matrix.org/foundation/governing-board-elections/)
+
+[About Matrix](https://matrix.org/foundation/about/) [Governing Board Elections 2024](https://matrix.org/foundation/governing-board-elections/)
+
+[About Matrix](https://matrix.org/foundation/about/) [Governing Board Elections 2024](https://matrix.org/foundation/governing-board-elections/)
+
  Ecosystem
 
 [Clients](https://matrix.org/ecosystem/clients/) [Bridges](https://matrix.org/ecosystem/bridges/) [Servers](https://matrix.org/ecosystem/servers/) [Integrations](https://matrix.org/ecosystem/integrations/) [SDKs](https://matrix.org/ecosystem/sdks/) [Hosting](https://matrix.org/ecosystem/hosting/)
