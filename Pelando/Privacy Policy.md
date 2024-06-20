@@ -1,14 +1,13 @@
 [](https://www.pelando.com.br/)
 
-[Cupons](https://www.pelando.com.br/cupons-de-descontos "Lojas")[Comparador](https://www.pelando.com.br/comparador)
+[Cupons](https://www.pelando.com.br/cupons-de-descontos "Cupons")[Comparador](https://www.pelando.com.br/comparador)
 
 * Comunidades
     
 
-[* Postar](https://www.pelando.com.br/postar "Postar")[* Alertas
-    
+[* Tech Lover](https://www.pelando.com.br/tech-lover)[* Mundo Gamer](https://www.pelando.com.br/mundo-gamer)[* Tudo grátis](https://www.pelando.com.br/tudo-gratis)[* Para meu lar](https://www.pelando.com.br/para-meu-lar)[* Achadinhos importados](https://www.pelando.com.br/achadinhos-importados)[* Esporte e vida](https://www.pelando.com.br/esporte-e-vida)[* Para elas](https://www.pelando.com.br/para-elas)[* Para eles](https://www.pelando.com.br/para-eles)[* Cultura](https://www.pelando.com.br/cultura)[* Para minha família](https://www.pelando.com.br/para-minha-familia)[* É meme ou promo?](https://www.pelando.com.br/e-meme-ou-promo)
 
-**Crie um alerta** para o produto que você procura!](https://www.pelando.com.br/meus-alertas "Alertas")
+[* Postar](https://www.pelando.com.br/postar "Postar")
 
 ![Imagem do usuário ](/assets/logoBannerLogin.webp)
 
@@ -283,12 +282,6 @@ Av. Getúlio Vargas, 1492 - Funcionários, Belo Horizonte - MG - CEP 30112-021
 
 [Início](https://www.pelando.com.br/)
 
-[Postar](https://www.pelando.com.br/postar)
-
 [Comparador](https://www.pelando.com.br/comparador)
-
-[Alertas](https://www.pelando.com.br/meus-alertas)
-
-**Crie um alerta** para o produto que você procura!
 
 Comunidades
