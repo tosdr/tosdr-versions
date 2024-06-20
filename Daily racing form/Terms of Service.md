@@ -50,7 +50,8 @@ DRF.com News Search
  Horse/Trainer/Jockey name
 
 * Horse Racing Events
-    * [Belmont Stakes](https://www.drf.com/belmont-stakes)
+    * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
+    * [Del Mar](https://www.drf.com/horse-racing-tracks/del-mar)
     * [More](https://www.drf.com/race-entries)
 * Horse Racing News
     * [Race of the Day](https://www.drf.com/race-of-the-day)
@@ -64,7 +65,7 @@ DRF.com News Search
     * [Churchill Downs](https://www.drf.com/horse-racing-tracks/churchill-downs)
     * [Gulfstream Park](https://www.drf.com/horse-racing-tracks/gulfstream-park)
     * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
-    * [Santa Anita](https://www.drf.com/horse-racing-tracks/santa-anita)
+    * [Monmouth Park](https://www.drf.com/horse-racing-tracks/monmouth-park)
     * [Woodbine](https://www.drf.com/horse-racing-tracks/woodbine)
 * Handicapping & PPs
     * [DRF Classic PPs](https://www.drf.com/classic-pp)
