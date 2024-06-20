@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![Best Audiobooks for Road Trips](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171556/PRH-Staff-Picks-HP-RJD_600x314-nav.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    Best Audiobooks for Road Trips
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102159/PRH_Site_600x314_nav-JUN.jpg)
     
-    Browse All Our Lists, Essays, and Interviews
+    New Releases
     
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
 
 * <
     
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[Books To Read if You Love _The Tortured Poets Department_
+[Your Summer Reading Guide
 
-Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
+Read More >](https://www.penguinrandomhouse.com/summer-reading/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
