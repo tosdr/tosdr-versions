@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [3D Finger Racing 2](https://www.myabandonware.com/game/3d-finger-racing-2-qvg)
-* [Polda 4](https://www.myabandonware.com/game/polda-4-qvf)
-* [Learning Land 3: At The Funfair](https://www.myabandonware.com/game/learning-land-3-at-the-funfair-qve)
-* [Learning Land 2: Biff's Birthday](https://www.myabandonware.com/game/learning-land-2-biff-s-birthday-qvd)
-* [Learning Land 1: At The Playground](https://www.myabandonware.com/game/learning-land-1-at-the-playground-qvc)
+* [3D Chess](https://www.myabandonware.com/game/3d-chess-qw5)
+* [Motor City Online](https://www.myabandonware.com/game/motor-city-online-r4o)
+* [Case of the Great Train Robbery](https://www.myabandonware.com/game/case-of-the-great-train-robbery-qw4)
+* [Mastery Arithmetic Games](https://www.myabandonware.com/game/mastery-arithmetic-games-qw3)
+* [Cosmic Combat](https://www.myabandonware.com/game/cosmic-combat-qw2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Skateboard Kidz](https://www.myabandonware.com/game/skateboard-kidz-6wq)
-* [Digger](https://www.myabandonware.com/game/digger-qr6)
-* [Tony La Russa's Ultimate Baseball: Ultimate Expansion Disk - Great Teams 1901-1968 Disk](https://www.myabandonware.com/game/tony-la-russa-s-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk-40p)
+* [Schwarzschild N](https://www.myabandonware.com/game/schwarzschild-n-ds5)
+* [City Racer: Underground Speed](https://www.myabandonware.com/game/city-racer-underground-speed-i3b)
+* [Pacific Theatre](https://www.myabandonware.com/game/pacific-theatre-g32)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
