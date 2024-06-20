@@ -388,4 +388,4 @@ London N1 6NN
 
 [Privacy](https://flourish.studio/privacy)
 
-[Rethinking chart legends: when and how to use them? Read our latest blog posts »](https://flourish.studio/blog)
+[8 ways to visualize financial market data Read our latest blog posts »](https://flourish.studio/blog)
