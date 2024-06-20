@@ -446,7 +446,7 @@ License
 
 Legal documents
 
-[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Cookie policy](https://adguard.com/en/privacy/website.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html)
+[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Cookie policy](https://adguard.com/en/privacy/website.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html)
 
 AdGuard
 
@@ -470,7 +470,7 @@ Purchase license Recover license Get free license Distribution Contribute to AdG
 
 Legal documents
 
-EULA Privacy policy Cookie policy Terms of sale
+EULA Privacy policy Cookie policy Terms of sale EULA of AdGuard Temp Mail
 
 System theme Light theme Dark theme
 
