@@ -1,4 +1,4 @@
-[![logo](https://cdn-0.phonespam.report/logo.png)](https://phonespam.report/) [Learn more  
+[![logo](https://phonespam.report/logo.png)](https://phonespam.report/) [Learn more  
 About Us!](https://phonespam.report/about-us)
 
 Search
