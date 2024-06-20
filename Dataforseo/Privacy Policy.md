@@ -66,6 +66,7 @@
         * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
         * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
         * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
     * [By company type](#)
         * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
         * [SEO Software](https://dataforseo.com/solutions/seo-software)
@@ -167,6 +168,7 @@
         * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
         * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
         * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
     * [By company type](#)
         * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
         * [SEO Software](https://dataforseo.com/solutions/seo-software)
@@ -261,6 +263,7 @@
         * [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
         * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
         * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        * [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
     * #### By company type
         
         * [SEO Agency](https://dataforseo.com/solutions/seo-agency)
@@ -430,6 +433,7 @@ Email: [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection)
 * [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
 * [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
 * [Scraping Services](https://dataforseo.com/solutions/scraping-services)
+* [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
 
 #### Knowledge Base
 
