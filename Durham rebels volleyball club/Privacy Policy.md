@@ -31,10 +31,10 @@ SEARCH Search
             * [Junior girls (11U-14U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
             * [Senior Girls (15U +)](https://www.drvcvolleyball.ca/senior-girls/)
     * [Tournaments](https://www.drvcvolleyball.ca/tournaments/)
-* [FanwearExpand](https://www.drvcvolleyball.ca/fanwear/)
-    * [SponsorsExpand](#)
-        * [Team Sponsors](https://www.drvcvolleyball.ca/funders/sponsors/)
-        * [Funding Support](https://www.drvcvolleyball.ca/funders/)
+* [Fanwear](https://www.drvcvolleyball.ca/fanwear/)
+* [SponsorsExpand](#)
+    * [Team Sponsors](https://www.drvcvolleyball.ca/funders/sponsors/)
+    * [Funding Support](https://www.drvcvolleyball.ca/funders/)
 * [Contact](https://www.drvcvolleyball.ca/contact-us/)
 * [Member Zone](https://www.drvcvolleyball.ca/zone/)
 
@@ -152,12 +152,11 @@ All content protected by copyright & subject to permission to use.
             * [Junior girls (11U-14U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
             * [Senior Girls (15U +)](https://www.drvcvolleyball.ca/senior-girls/)
     * [Tournaments](https://www.drvcvolleyball.ca/tournaments/)
-* [Fanwear](https://www.drvcvolleyball.ca/fanwear/)Toggle child menuExpand
+* [Fanwear](https://www.drvcvolleyball.ca/fanwear/)
+* [Sponsors](#)Toggle child menuExpand
     
-    * [Sponsors](#)Toggle child menuExpand
-        
-        * [Team Sponsors](https://www.drvcvolleyball.ca/funders/sponsors/)
-        * [Funding Support](https://www.drvcvolleyball.ca/funders/)
+    * [Team Sponsors](https://www.drvcvolleyball.ca/funders/sponsors/)
+    * [Funding Support](https://www.drvcvolleyball.ca/funders/)
 * [Contact](https://www.drvcvolleyball.ca/contact-us/)
 * [Member Zone](https://www.drvcvolleyball.ca/zone/)
 
