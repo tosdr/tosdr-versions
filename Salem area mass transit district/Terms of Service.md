@@ -2,8 +2,6 @@
 
 [Alert Icon Icon of an exclamation point in a triangle.
 
-**Holiday:** Reduced Service on Wednesday, June 19
-
 **Other cause:** TCTD Routes 60X/70X service suspended
 
 View Service Alerts](https://www.cherriots.org/alerts/)
