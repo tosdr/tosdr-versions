@@ -1,4 +1,4 @@
-Score Career Goals with up to 40% Savings on Training & Certification! [SAVE NOW](https://hubs.la/Q02Bp3MH0)
+Shape Finance’s Future in London on June 26 · 20% Off with Code OSFFL24LF20 [VIEW SCHEDULE](https://bit.ly/3xxfKEp)
 
 English Japan China Europe
 
