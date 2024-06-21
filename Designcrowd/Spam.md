@@ -497,11 +497,11 @@ Copyright 2024 © [**Hleatherjackets**](https://www.hleatherjackets.com/)
 * [Contact](https://www.hleatherjackets.com/contact/)
 * [Login](https://www.hleatherjackets.com/my-account/)
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2023/02/men-size-chart-guide-2.jpg)
+![](https://www.hleatherjackets.com/wp-content/uploads/2024/06/hleathe-size-chart-and-guide-men.webp)
 
 [](javascript:void(0);)
 
-![](https://www.hleatherjackets.com/wp-content/uploads/2023/02/women-size-chart-guide-1.jpg)
+![](https://www.hleatherjackets.com/wp-content/uploads/2024/06/hleathe-size-chart-and-guide-women.webp)
 
 [](javascript:void(0);)
 
