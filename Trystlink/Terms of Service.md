@@ -8,6 +8,8 @@
 
 [Login](https://app.tryst.link/log_in)or[Sign up](https://app.tryst.link/sign_up)
 
+Unfortunately, your browser is not fully supported, and some features may not work correctly. Please [update your browser](https://browser-update.org/update-browser.html) for the best experience.
+
 Terms
 =====
 
