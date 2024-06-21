@@ -14,7 +14,7 @@ Developers
 
 SNT
 
-Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
+Mobile early accessBeta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
@@ -26,7 +26,7 @@ Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/ap
 * Developers
 * SNT
 
-Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)Mobile early access
+Beta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)Mobile early access
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
@@ -38,7 +38,7 @@ Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)
 * Developers
 * SNT
 
-Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)Mobile early access
+Beta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)Mobile early access
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
@@ -56,11 +56,11 @@ Developers
 
 SNT
 
-Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)Mobile early access
+Beta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)Mobile early access
 
 [New
 
-A New Dawn for Status and SNT: Embracing Decentralisation](https://status.im/blog/new-dawn-for-status-and-snt-embracing-decentralisation)
+What Should Status Build Next?: SNT Hodlers Vote Now, Earn XP!](https://status.im/blog/snt-hodlers-vote-earn-xp)
 
 Make the  
 jump to web3
@@ -68,10 +68,10 @@ jump to web3
 
 Use the open source, decentralised crypto communication super app.
 
-Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
+Mobile early accessBeta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)
 
-iOS & Android betas coming soon.  
-Desktop beta 2.0 is live!
+iOS & Android beta early access is open.  
+Desktop beta 2 is live!
 
 Status Desktop Beta
 
@@ -80,7 +80,7 @@ for Desktop
 
 Try Status Desktop’s public beta release today.
 
-Beta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
+Beta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)
 
 Beta releases may occasionally contain bugs and issues.
 
@@ -278,10 +278,10 @@ Be unstoppable
 
 Use the open source, decentralised crypto communication super app.
 
-Mobile early accessBeta 2.0 for macOS[Beta 2.0 for Windows](https://status.im/api/download/windows)[Beta 2.0 for Linux](https://status.im/api/download/linux)
+Mobile early accessBeta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Beta 2 for Linux](https://status.im/api/download/linux)
 
-iOS & Android betas coming soon.  
-Desktop beta 2.0 is live!
+iOS & Android beta early access is open.  
+Desktop beta 2 is live!
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
