@@ -26,7 +26,6 @@
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     
-* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
 * [Investors](https://investors.elsenutrition.com/)
@@ -67,7 +66,6 @@ Menu
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     
-* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
 * [Investors](https://investors.elsenutrition.com/)
@@ -97,7 +95,6 @@ Menu
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     
-* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
 * [Investors](https://investors.elsenutrition.com/)
