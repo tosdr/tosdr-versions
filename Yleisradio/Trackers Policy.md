@@ -15,6 +15,7 @@ Pinnalla nyt
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Jalkapallon EM](https://yle.fi/t/18-247479/fi)
 * [Futistietäjä](https://yle.fi/a/74-20087576)
+* [Olo 2.0](https://yle.fi/t/18-356272/fi)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
@@ -290,6 +291,7 @@ Detailed information
 | yle.fi | yleinteraction | yle.fi | 12 hours | HTTP Cookie | A session identifier used in interactive content on Yle's digital services, which preserves the choices made by the user between uses of the application. |
 | yle.fi | ukko\_abgroup | yle.fi | 6 days | HTTP Cookie | User tests of yle.fi entity. |
 | yle.fi | yle\_rec | yle.fi | 365 days | HTTP Cookie | Unique identifier for service development. Enables the development of Yle's services based on user choices and movement within services. |
+| yle.fi | OVP/ovp-par-prd/onboarding\_complete | yle.fi | permanent | HTML Local Storage | Showing olympics sports results in connection with yle.fi and svenska.yle.fi articles with OBS's embedding. |
 
 Yle
 
