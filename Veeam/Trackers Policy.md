@@ -173,9 +173,9 @@ Menu
     
     Business Type
     
-    * [Enterprise](https://www.veeam.com/products/products/veeam-data-platform.html?ad=menu-solutions-business-type)
+    * [Enterprise](https://www.veeam.com/products/veeam-data-platform.html?ad=menu-solutions-business-type)
     * [Small Business](https://www.veeam.com/solutions/small-business.html?ad=menu-solutions-business-type)
-    * [Service Provider](https://www.veeam.com/solutions/use-case/solutions/service-providers.html?ad=menu-solutions-business-type)
+    * [Service Provider](https://www.veeam.com/solutions/service-providers.html?ad=menu-solutions-business-type)
     
     Services
     
