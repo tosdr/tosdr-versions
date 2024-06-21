@@ -466,7 +466,6 @@ These Terms were last updated on May 21, 2024.
 [Privacy Information](#!)
 -------------------------
 
-* [Important Privacy Notice](https://www.walgreens.com/topic/help/general/2024-important-privacy-notice.jsp)
 * [Privacy Center](https://www.walgreens.com/privacycenter)
 * [Notice of Privacy Practices (HIPAA)](https://www.walgreens.com/topic/help/general/noticeprivacypractices.jsp?foot=privacy)
 * [Online Privacy & Security Policy](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security)
