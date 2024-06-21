@@ -301,53 +301,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» внесёт в Госдуму законопроект, который позволит бесплатно транслировать и исполнять военные песни в День Победы и другие памятные даты](https://cdn.er.ru/media/news/June2024/56agVINzxJwlNkvcv4kn-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesyot-v-gosdumu-zakonoproekt-kotoryj-pozvolit-besplatno-translirovat-i-ispolnyat-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty)
+[![«Единая Россия» и МГЕР проведут по всей стране памятные акции в День памяти и скорби](https://cdn.er.ru/media/news/June2024/rsu2GFAbcr6IuA68PvCm-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-provedut-po-vsej-strane-pamyatnye-akcii-v-den-pamyati-i-skorbi)
 
-[«Единая Россия» внесёт в Госдуму законопроект, который позволит бесплатно транслировать и исполнять военные песни в День Победы и другие памятные даты](https://er.ru/activity/news/edinaya-rossiya-vnesyot-v-gosdumu-zakonoproekt-kotoryj-pozvolit-besplatno-translirovat-i-ispolnyat-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty)
+[«Единая Россия» и МГЕР проведут по всей стране памятные акции в День памяти и скорби](https://er.ru/activity/news/edinaya-rossiya-i-mger-provedut-po-vsej-strane-pamyatnye-akcii-v-den-pamyati-i-skorbi)
 
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#авторскоеправо](https://er.ru/activity/news?tags%5B0%5D=142197) [#памятнаядата](https://er.ru/activity/news?tags%5B0%5D=120757) [#песни](https://er.ru/activity/news?tags%5B0%5D=35291) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#военнаяпесня](https://er.ru/activity/news?tags%5B0%5D=116709) [#ДеньПобеды](https://er.ru/activity/news?tags%5B0%5D=118505) [#ДеньЗащитникаОтечества](https://er.ru/activity/news?tags%5B0%5D=128670) [#ДеньвоинскойславыРоссии](https://er.ru/activity/news?tags%5B0%5D=144167)
-
-Сегодня 10:49
-
-[![«Единая Россия» дала старт очному обучению второго потока участников кадрового проекта «ПолитСтарт»](https://cdn.er.ru/media/news/June2024/GaqeOFI5fJGK8nzB9CHy-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-ochnomu-obucheniyu-vtorogo-potoka-uchastnikov-kadrovogo-proekta-politstart)
-
-[«Единая Россия» дала старт очному обучению второго потока участников кадрового проекта «ПолитСтарт»](https://er.ru/activity/news/edinaya-rossiya-dala-start-ochnomu-obucheniyu-vtorogo-potoka-uchastnikov-kadrovogo-proekta-politstart)
-
-[#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#обучение](https://er.ru/activity/news?tags%5B0%5D=127565) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#политстарт](https://er.ru/activity/news?tags%5B0%5D=1095389)
-
-Сегодня 10:19
-
-[![Богатые тоже платят. Часть 2. Статья Андрея Исаева](https://cdn.er.ru/media/news/June2024/UVUvHieIgAseaC296F8Y-small.jpg)](https://er.ru/activity/news/bogatye-tozhe-platyat-chast-2-statya-andreya-isaeva)
-
-[Богатые тоже платят. Часть 2. Статья Андрея Исаева](https://er.ru/activity/news/bogatye-tozhe-platyat-chast-2-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#налоги](https://er.ru/activity/news?tags%5B0%5D=329)
+[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#ВолонтерыПобеды](https://er.ru/activity/news?tags%5B0%5D=1093044) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#огненные картины войны](https://er.ru/activity/news?tags%5B0%5D=1091945) [#Республика Дагестан](https://er.ru/activity/news?tags%5B0%5D=37346) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Брянская область](https://er.ru/activity/news?tags%5B0%5D=792) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Липецкая область](https://er.ru/activity/news?tags%5B0%5D=1090295) [#Красноярский край](https://er.ru/activity/news?tags%5B0%5D=1703) [#Иркутская область](https://er.ru/activity/news?tags%5B0%5D=1277) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#Магаданская область](https://er.ru/activity/news?tags%5B0%5D=1271) [#Республика Тыва](https://er.ru/activity/news?tags%5B0%5D=1091094) [#ВахтаПамяти](https://er.ru/activity/news?tags%5B0%5D=108587) [#Чеченская Республика](https://er.ru/activity/news?tags%5B0%5D=1090169) [#Орловская область](https://er.ru/activity/news?tags%5B0%5D=5672) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#Удмуртская Республика](https://er.ru/activity/news?tags%5B0%5D=1090585) [#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#Псковская область](https://er.ru/activity/news?tags%5B0%5D=1467) [#Ханты-Мансийский автономный округ-Югра](https://er.ru/activity/news?tags%5B0%5D=123387) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130) [#ДеньПамятиСкорби](https://er.ru/activity/news?tags%5B0%5D=150523)
 
 Сегодня 09:00
 
-[![Высшая партийная школа «Единой России» выпустила спецкурс «Идеологический вызов русской цивилизации»](https://cdn.er.ru/media/news/June2024/gkDHlsV3lZ4mTYeQMVIH-small.jpg)](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-speckurs-ideologicheskij-vyzov-russkoj-civilizacii)
+[![«Единая Россия» провела профориентационную встречу для тульской молодёжи ко Дню кинолога](https://cdn.er.ru/media/news/June2024/tKbcbClZoLogmMkb2emR-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-provela-proforientacionnuyu-vstrechu-dlya-tulskoj-molodyozhi-ko-dnyu-kinologa)
 
-[Высшая партийная школа «Единой России» выпустила спецкурс «Идеологический вызов русской цивилизации»](https://er.ru/activity/news/vysshaya-partijnaya-shkola-edinoj-rossii-vypustila-speckurs-ideologicheskij-vyzov-russkoj-civilizacii)
+[«Единая Россия» провела профориентационную встречу для тульской молодёжи ко Дню кинолога](https://er.ru/activity/news/edinaya-rossiya-provela-proforientacionnuyu-vstrechu-dlya-tulskoj-molodyozhi-ko-dnyu-kinologa)
 
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064) [#спецкурсы](https://er.ru/activity/news?tags%5B0%5D=58985) [#идеология](https://er.ru/activity/news?tags%5B0%5D=985)
+[#профориентация](https://er.ru/activity/news?tags%5B0%5D=6397) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#кинология](https://er.ru/activity/news?tags%5B0%5D=104043) [#МВД](https://er.ru/activity/news?tags%5B0%5D=157)
 
-18.06.24
+20.06.24
 
-[![По инициативе «Единой России» в Госдуму внесён законопроект об увековечении памяти жертв геноцида советского народа](https://cdn.er.ru/media/news/June2024/NxMPQ4hTlZ9v7rQziqcJ-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-gosdumu-vnesen-zakonoproekt-ob-uvekovechenii-pamyati-zhertv-genocida-sovetskogo-naroda)
+[![«Единая Россия» внесла законопроект об индексации пенсий работающим пенсионерам](https://cdn.er.ru/media/news/June2024/YzOKPlgpwjoMvkIaoW0P-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-ob-indeksacii-pensij-rabotayushim-pensioneram)
 
-[По инициативе «Единой России» в Госдуму внесён законопроект об увековечении памяти жертв геноцида советского народа](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-gosdumu-vnesen-zakonoproekt-ob-uvekovechenii-pamyati-zhertv-genocida-sovetskogo-naroda)
+[«Единая Россия» внесла законопроект об индексации пенсий работающим пенсионерам](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-ob-indeksacii-pensij-rabotayushim-pensioneram)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#ВОВ](https://er.ru/activity/news?tags%5B0%5D=357)
+[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#работающие пенсионеры](https://er.ru/activity/news?tags%5B0%5D=25654) [#индексация](https://er.ru/activity/news?tags%5B0%5D=1090137) [#пенсии](https://er.ru/activity/news?tags%5B0%5D=219)
 
-18.06.24
+20.06.24
 
-[![«Единая Россия»: В летнем этапе Всероссийского спортивного марафона «Сила России» приняли участие уже более 100 тысяч человек](https://cdn.er.ru/media/news/June2024/ii1pDHtlkZZCyHhjYIlt-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-v-letnem-etape-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-uzhe-bolee-100-tysyach-chelovek)
+[![«Единая Россия» вместе с министром просвещения Сергеем Кравцовым проверила организацию ЕГЭ в Москве](https://cdn.er.ru/media/news/June2024/NhDLURtyfQpFpQ1QCc0P-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-ministrom-prosvesheniya-sergeem-kravcovym-proverila-organizaciyu-ege-v-moskve)
 
-[«Единая Россия»: В летнем этапе Всероссийского спортивного марафона «Сила России» приняли участие уже более 100 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-v-letnem-etape-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-uzhe-bolee-100-tysyach-chelovek)
+[«Единая Россия» вместе с министром просвещения Сергеем Кравцовым проверила организацию ЕГЭ в Москве](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-ministrom-prosvesheniya-sergeem-kravcovym-proverila-organizaciyu-ege-v-moskve)
 
-[#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#спортивныемероприятия](https://er.ru/activity/news?tags%5B0%5D=134169)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#ЕГЭ](https://er.ru/activity/news?tags%5B0%5D=183) [#экзамены](https://er.ru/activity/news?tags%5B0%5D=437)
 
-18.06.24
+20.06.24
+
+[![«Единая Россия» запустила проект по оказанию психологической помощи участникам СВО в Дагестане](https://cdn.er.ru/media/news/June2024/rsbJ8tSAySBxiGDNuntM-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-zapustila-proekt-po-okazaniyu-psihologicheskoj-pomoshi-uchastnikam-svo-v-dagestane)
+
+[«Единая Россия» запустила проект по оказанию психологической помощи участникам СВО в Дагестане](https://er.ru/activity/news/edinaya-rossiya-zapustila-proekt-po-okazaniyu-psihologicheskoj-pomoshi-uchastnikam-svo-v-dagestane)
+
+[#Республика Дагестан](https://er.ru/activity/news?tags%5B0%5D=37346) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#психологическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=148745) [#Лисицына](https://er.ru/activity/news?tags%5B0%5D=54213) [#Кузина](https://er.ru/activity/news?tags%5B0%5D=47999)
+
+20.06.24
+
+[![Андрей Красов: Социальные гарантии для участников СВО при изменении налоговой системы сохранятся](https://cdn.er.ru/media/news/June2024/mxsGZEa7WAqVIb0FNJku-small.jpg)](https://er.ru/activity/news/andrej-krasov-socialnye-garantii-dlya-uchastnikov-svo-pri-izmenenii-nalogovoj-sistemy-sohranyatsya)
+
+[Андрей Красов: Социальные гарантии для участников СВО при изменении налоговой системы сохранятся](https://er.ru/activity/news/andrej-krasov-socialnye-garantii-dlya-uchastnikov-svo-pri-izmenenii-nalogovoj-sistemy-sohranyatsya)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#налоги](https://er.ru/activity/news?tags%5B0%5D=329) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#Красов](https://er.ru/activity/news?tags%5B0%5D=10499) [#налогообложение](https://er.ru/activity/news?tags%5B0%5D=9253)
+
+20.06.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
