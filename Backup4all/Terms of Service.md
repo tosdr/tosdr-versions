@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
+* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
     
-* [How to backup your data to Akaza](https://www.backup4all.com/how-to-backup-your-data-to-akaza-kb.html)  
+* [How to backup your data to Backblaze](https://www.backup4all.com/how-to-backup-your-data-to-backblaze-kb.html)  
     
-* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
+* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
     
-* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
-* [How to backup your data to Dropbox](https://www.backup4all.com/how-to-backup-your-data-to-dropbox-kb.html)  
+* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
     
 
 Choose language:
