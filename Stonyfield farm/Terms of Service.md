@@ -4,7 +4,9 @@
 * [Recipes](https://www.stonyfield.com/recipes/)
 * [Where To Buy](https://www.stonyfield.com/where-to-buy/)
 
-[![Logo](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/Stonyfield-logo.png)](https://www.stonyfield.com/)
+[![Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Logo](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/Stonyfield-logo.webp)](https://www.stonyfield.com/)
 
 * [About](https://www.stonyfield.com/about/)
     * [All About Stonyfield](https://www.stonyfield.com/about/)
@@ -182,6 +184,8 @@ Stonyfield reserves the right, in its sole discretion, to terminate, change, sus
 
 The Site is operated by Stonyfield, which is located in State of New Hampshire, United States of America. Stonyfield makes no claims that the Materials, or any other content, materials displayed, distributed, made available or accessed through the Site, are appropriate or may be downloaded outside of the United States. Access to the Site and/or such materials may not be legal by certain persons or in certain countries. If you access the Site from outside of the United States you do so at your own risk and are responsible for compliance with the laws of your jurisdiction. These Terms of Use are governed by the internal substantive laws of the State of New Hampshire, without respect to its conflict of laws principles. Sole and exclusive jurisdiction for any action or proceeding arising out of or related to these Terms of Use shall be an appropriate state or federal court located in the State of New Hampshire. If any provision contained herein is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions set forth herein, which shall remain in full force and effect. No waiver of any term hereunder of these Terms of Use shall be deemed a further or continuing waiver of such term or any other term. These Terms of Use constitute the entire agreement between you and Stonyfield with respect to the use of the Site. Any changes to these Terms of Use must be made in writing, signed by an authorized representative of Stonyfield to be binding on Stonyfield. Notwithstanding the foregoing, Stonyfield, at its sole discretion and without notice, may change, modify, add or remove any portion of the Terms of Use, in whole or in part, at any time. Changes in the Terms of Use will be effective when posted. Your continued use of the Site and/or the services made available on or accessed through the Site after any changes to the Terms of Use are posted will be considered acceptance of those changes.
 
+![barn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![barn](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/barn.png)
 
 We Began As An Organic Farming School Before We Became Yogurt Makers. Almost 40 Years Later, Our Mission Is Still Healthy.
@@ -219,17 +223,25 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
 * [Supplier Code of Conduct](https://www.stonyfield.com/wp-content/uploads/2023/04/Lactalis-Supplier-Code-of-Conduct_Final-EN-nov.2022.pdf)
 * [For Pediatricians](https://hello.stonyfield.com/yobaby-resource-center-healthcare-professionals)
 
+![no toxins icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![no toxins icon](https://www.stonyfield.com/wp-content/uploads/2023/01/No_Toxins_Icon.svg)
 
 No toxic persistent pesticides\*
+
+![live culture icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![live culture icon](https://www.stonyfield.com/wp-content/uploads/2023/01/Live_Culture_Icon.svg)
 
 Yogurt with live active cultures
 
+![pasture raised icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![pasture raised icon](https://www.stonyfield.com/wp-content/uploads/2023/01/Pasture_Raised_Icon.svg)
 
 Only pasture raised milk
+
+![b-corp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![b-corp](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/b-corp-logo.png)
 
