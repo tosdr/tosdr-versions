@@ -71,7 +71,7 @@ Sam's Cats & Dogs Naturally
 20016 Old Owen Road  
 Monroe, WA, 98272
 
-We Open Wednesday at 9:00 AM
+OPEN TODAY UNTIL 7:00 PM
 
 [(360) 805-5060](tel:(360) 805-5060)
 
