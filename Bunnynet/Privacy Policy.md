@@ -397,8 +397,8 @@
         Contact Us
         
         Get in touch with bunny.net team](https://bunny.net/contact/)
-* [Login](https://panel.bunny.net/user/login?pk_buttonlocation=menu&pk_buttonurl=privacy)
-* [Get Started](https://panel.bunny.net/user/register?pk_buttonlocation=menu&pk_buttonurl=privacy)
+* [Login](https://dash.bunny.net/auth/login?pk_buttonlocation=menu&pk_buttonurl=privacy)
+* [Get Started](https://dash.bunny.net/auth/register?pk_buttonlocation=menu&pk_buttonurl=privacy)
 
 Privacy & Data Policy
 =====================
