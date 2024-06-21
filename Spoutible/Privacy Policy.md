@@ -178,7 +178,7 @@ If you have any further questions, comments or requests regarding this Privacy P
 
 ![](https://spoutible.com/themes/default/statics/icons/loading.gif)
 
-{{ notificationModalContent }} {{ promptModalMessage }}
+{{ notificationModalContent }}
 
 ![](https://spoutible.com/themes/default/statics/icons/loading.gif)
 
@@ -186,15 +186,15 @@ Advanced Search
 
 Trending Splashtags
 
-[#juneteenth](https://spoutible.com/search/posts?q=%23juneteenth)
+[#music](https://spoutible.com/search/posts?q=%23music)
 
-[#williemays](https://spoutible.com/search/posts?q=%23williemays)
+[#love](https://spoutible.com/search/posts?q=%23love)
 
-[#horn](https://spoutible.com/search/posts?q=%23horn)
+[#wnba](https://spoutible.com/search/posts?q=%23wnba)
 
-[#dailypicturetheme](https://spoutible.com/search/posts?q=%23dailypicturetheme)
+[#flowers](https://spoutible.com/search/posts?q=%23flowers)
 
-[#eqnz](https://spoutible.com/search/posts?q=%23eqnz)
+[#20dayfilmchallenge](https://spoutible.com/search/posts?q=%2320dayfilmchallenge)
 
 [Show More](https://spoutible.com/trending)
 
