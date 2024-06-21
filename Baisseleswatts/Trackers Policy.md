@@ -176,7 +176,7 @@ Comment pouvez-vous exercer vos droits ?
 
 Pour exercer vos droits, vous pouvez nous adresser une demande à :
 
-* [dpo@baisseleswatts.fr](mailto:dpo@baisseleswatts.fr)
+* [dpo@baisseleswatts.fr](https://www.baisseleswatts.fr/dpo@baisseleswatts.fr)
 
 Dans le cadre de la politique de protection des données personnelles de la Société, vous pouvez contacter notre Délégué à la Protection des Données, CP C703, 9 rue du Colonel Pierre Avia, à Paris (75015).
 
