@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Watch Gervonta Davis vs. Frank Martin on FireStick](https://www.firesticktricks.com/watch-gervonta-davis-vs-frank-martin-on-firestick.html)
-* [What Channels Do You Get With FireStick (Free & Paid)?](https://www.firesticktricks.com/best-firestick-channels.html)
-* [TiviMate IPTV Player—Install & Set up on FireStick & Android TV](https://www.firesticktricks.com/tivimate-iptv-player.html)
-* [How to Install Curiosity Stream Kodi Addon in 2 Minutes](https://www.firesticktricks.com/curiosity-stream-kodi-addon.html)
-* [How to Install Cumination Kodi Addon](https://www.firesticktricks.com/cumination-kodi-addon.html)
+* [How to Watch Netherlands vs. France Euro 2024 on FireStick](https://www.firesticktricks.com/watch-netherlands-vs-france-euro-2024-on-firestick.html)
+* [How to Watch Spain vs. Italy Euro 2024 on FireStick](https://www.firesticktricks.com/watch-spain-vs-italy-euro-2024-on-firestick.html)
+* [How to Get Back Developer Options on FireStick (2024)](https://www.firesticktricks.com/developer-options-firestick.html)
+* [Where Can I Buy a FireStick in 2024](https://www.firesticktricks.com/where-can-i-buy-a-firestick.html)
+* [Best Free VPNs for Kodi \[Tested by Experts in 2024\]](https://www.firesticktricks.com/free-vpns-for-kodi.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
