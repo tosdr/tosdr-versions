@@ -198,6 +198,8 @@ Products
 
 [What's New](https://webcatalog.io/en/changelog/)
 
+[Switchbar](https://switchbar.com/)
+
 Download
 
 [macOS](https://webcatalog.io/en/desktop/macos/)
