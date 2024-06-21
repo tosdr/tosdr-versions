@@ -92,7 +92,7 @@ Cookies are small text files that are placed on your computer or device by the w
 | [Outbrain](https://www.outbrain.com/) | outbrain\_cid\_fetch (5 mins) | This cookie is set by outbrain.com **and** helps us track who visited our site and to measure marketing efficiency. |
 | [Metadata](https://metadata.io/) | Metadata\_session\_id (30 mins)<br><br>Metadata\_visitor\_id (1 day) | This cookie is set by metadata.io |
 
-##### **The following table describes the cookies in use by our services.**
+##### **The following tables describes the cookies in use by our services.**
 
 **Strictly Necessary Cookies:** These are required for the operation of our services and so they will be placed regardless of consent.  These cookies are necessary for the services to function and cannot be switched off in our systems.
 
