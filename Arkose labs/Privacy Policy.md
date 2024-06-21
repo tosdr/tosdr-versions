@@ -543,3 +543,9 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
+
+X
+
+EY Announces the CEO Kevin Gosschalk as an Entrepreneur Of The Year® 2024 Bay Area Award Winner
+
+[Learn More](https://www.arkoselabs.com/latest-news/ey-announces-kevin-gosschalk-arkose-labs-entrepreneur-of-the-year-2024-bay-area-award-winner/)
