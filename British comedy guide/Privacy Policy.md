@@ -199,7 +199,7 @@ Privacy settings
 
 * * *
 
-I used to work in a shoe-recycling shop. It was sole-destroying.[Alex Horne](https://www.comedy.co.uk/fringe/2013/features/dave_joke_of_the_fringe_2013/)
+Clowns divorce. Custardy battle.[Simon Munnery](https://www.comedy.co.uk/fringe/2015/features/dave_top10_jokes_of_fringe_2015/)
 
 © British Comedy Guide
 
