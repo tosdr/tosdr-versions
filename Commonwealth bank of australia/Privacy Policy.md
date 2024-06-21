@@ -963,14 +963,6 @@ Things you should know
 * [Cookies policy](https://www.commbank.com.au/important-info/cookies.html?ei=CB-footer_cookies)
 * [Privacy statement](https://www.commbank.com.au/support/privacy.html?ei=CB-footer_privacy)
 
-#### FOLLOW US
-
-*  [![](/content/dam/commbank-assets/pictograms/social/socialX20.svg) X](https://twitter.com/commbank)
-*  [![](/content/dam/commbank-assets/pictograms/social/socialFacebook20.svg) Facebook](https://www.facebook.com/commonwealthbank)
-*  [![](/content/dam/commbank-assets/pictograms/social/socialLinkedin20.svg) LinkedIn](https://www.linkedin.com/company/commonwealthbank)
-*  [![](/content/dam/commbank-assets/pictograms/social/socialYoutube20.svg) YouTube](https://www.youtube.com/c/commbank)
-*  [![](/content/dam/commbank-assets/pictograms/social/socialInstagram20.svg) Instagram](http://instagram.com/commbank)
-
 CommBank acknowledges the [Traditional Owners](https://www.commbank.com.au/about-us/opportunity-initiatives/opportunity-from-community/acknowledgement-of-country.html?ei=footer_aoc) of the lands across Australia as the continuing custodians of Country and Culture. We pay our respect to First Nations peoples and their Elders, past and present.
 
 ©2024 Commonwealth Bank of Australia ABN 48 123 123 124 AFSL and Australian credit licence 234945
