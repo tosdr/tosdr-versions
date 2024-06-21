@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Back up your smartphone or tablet using Backu ...](https://www.backup4all.com/back-up-your-smartphone-tablet-using-backup4all-kb.html)  
+* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
     
-* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
+* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
     
-* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
+* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
     
-* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
+* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
     
-* [How to restore a backup from Azure](https://www.backup4all.com/how-to-restore-a-backup-from-azure-kb.html)  
+* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
     
 
 Choose language:
