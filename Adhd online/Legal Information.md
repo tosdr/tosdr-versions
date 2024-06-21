@@ -2,9 +2,7 @@
 
 [Skip to content](#content)
 
-**[Juneteenth Holiday Hours](#juneteenth)** | Considering Switching Your Provider? **[Learn More](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
-
-**Juneteenth Holiday Hours | [Learn More](#juneteenth)**
+[**Important Notice to Our Valued Patients**](https://adhdonline.com/articles/important-notice-to-our-valued-patients/) | Considering Switching Your Provider? [**Learn More**](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)
 
 ✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
 
@@ -361,8 +359,18 @@ You or your practitioner can return this form to us [\[email protected\]](https
 
  ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
 
-ADHD Online digital services will be available on June 19th. Live support will be limited while we’re closed but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a [voice message](tel:888-493-2343). We’ll get back to you when we return on Thursday, June 20th.
+**Looking to take our Assessment?**  
+It's available every day, anytime, and anywhere convenient for you!
+---------------------------------------------------------------------------------------------------------
 
-Each of our clinicians sets their own holiday hours. Check with your doctor for availability.
+[Start my Assessment](https://patients.adhdonline.com/signup?_gl=1*9n9406*_gcl_au*MTcxNjgzNTkzMi4xNjg2ODU3MzU2&_ga=2.139146611.1991447896.1687188572-481719545.1686857356)
 
-**Looking to take our Assessment? That’s available all day, every day, whenever and wherever is best for you!**
+Looking to schedule your next appointment?
+
+Our portal is always open to schedule your next appointment. However, in-person phone support and live chats will be unavailable on Thursday, July 4, and Friday, July 5. Please [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message, and we will prioritize them upon our return.
+
+We genuinely appreciate your understanding. Full-office operations will resume on Monday, July 8.
+
+Already on our Treatment Path?
+
+Each clinician sets their own holiday hours, so please check with them for their availability.
