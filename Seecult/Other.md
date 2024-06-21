@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/portret-jasne-tijardovic-1966-1975/jasnatijardovic-5.jpg?itok=fcrYWyEC)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/portret-jasne-tijardovic-1966)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos/35-godina-porodice-bistrih-potoka/stid-sumes-foto-zoranpopovic-2012_2.jpg?itok=p5Y8NsBy)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos/35-godina)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/msu-beograd-stalna-postavka/dusan-otasevic.jpg?itok=Eh6Q4kS8)](http://seecult.org/galerija/foto-galerija/foto-arhiva/msu-beograd-stalna-postavka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/23-beogradski-dzez-festival/gianluigi-trovesi-1.jpg?itok=oaikfaXw)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/23-beogradski-dzez-festival)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,16 +340,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 * [Partibrejkers uveličali Zemun fest](http://seecult.org/vest/partibrejkers-uvelicali-zemun-fest)
 
+* [Pluća Nosova na Belefu](http://seecult.org/vest/pluca-nosova-na-belefu)
+* [Letnja akcija Arhipelaga](http://seecult.org/vest/letnja-akcija-arhipelaga)
+* [Francuski filmovi pod vedrim nebom](http://seecult.org/vest/francuski-filmovi-pod-vedrim-nebom)
+* [Bitoljski Hamlet pobednik 51. INFANT-a](http://seecult.org/vest/bitoljski-hamlet-pobednik-51-infant)
 * [Kejv solo u Beogradu na vodi](http://seecult.org/vest/kejv-solo-u-beogradu-na-vodi)
 * [11\. Šekspir festival - Ah, što luda nisam ja!](http://seecult.org/vest/11-sekspir-festival-ah-sto-luda-nisam-ja)
 * [Uži izbor za Vladana Desnicu](http://seecult.org/vest/uzi-izbor-za-vladana-desnicu)
 * [Poziv na protestnu akciju](http://seecult.org/vest/poziv-na-protestnu-akciju)
 * [Uži izbor za Šteficu Cvek](http://seecult.org/vest/uzi-izbor-za-steficu-cvek)
 * [Nepoželjni na otvaranju 6. Festivala francuskog filma](http://seecult.org/vest/nepozeljni-na-otvaranju-6-festivala-francuskog-filma)
-* [Uzajamna prisutnost](http://seecult.org/vest/uzajamna-prisutnost)
-* [32\. Belef – Dobra priča](http://seecult.org/vest/32-belef-dobra-prica)
-* [Ponesi svoj projekat](http://seecult.org/vest/ponesi-svoj-projekat-0)
-* [Radmili Stanković nagrada Niko Garone za 2023.](http://seecult.org/vest/radmili-stankovic-nagrada-niko-garone-za-2023)
 
 * [Konkursi](#tab1_1)
 
