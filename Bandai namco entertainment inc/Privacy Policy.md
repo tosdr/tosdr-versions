@@ -49,7 +49,7 @@
     [採用情報トップ](https://www.bandainamcoent.co.jp/job/)
     ------------------------------------------------
     
-    * [新卒採用](https://www.bandainamcoent.co.jp/job/2025/)
+    * [新卒採用](https://www.bandainamcoent.co.jp/job/2026/)
     * [キャリア採用](https://www.bandainamcoent.co.jp/job/career/)
     * [障がい者採用](https://www.bandainamcoent.co.jp/job/challenged/)
     
