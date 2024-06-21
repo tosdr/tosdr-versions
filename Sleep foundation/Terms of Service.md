@@ -14,64 +14,98 @@ SLEEP PRODUCTS
     
     Mattresses
     
+    * [All Mattresses](https://www.sleepfoundation.org/best-mattress)
     * [Best Mattress of 2024](https://www.sleepfoundation.org/best-mattress)
-    * SLEEPER TYPE
+    * Best of
         * [Best Mattress for Side Sleepers](https://www.sleepfoundation.org/best-mattress/best-mattress-for-side-sleepers)
         * [Best Mattress for Back Pain](https://www.sleepfoundation.org/best-mattress/best-mattress-for-back-pain)
         * [Best Mattress for Heavy People](https://www.sleepfoundation.org/best-mattress/best-mattress-for-heavy-sleepers)
-    * MATERIAL
         * [Best Memory Foam Mattress](https://www.sleepfoundation.org/best-mattress/best-memory-foam-mattress)
         * [Best Hybrid Mattress](https://www.sleepfoundation.org/best-mattress/best-hybrid-mattress)
-        * [Best Cooling Mattress](https://www.sleepfoundation.org/best-cooling-mattress)
-    * OTHER
+        * [Best Cooling Mattress](https://www.sleepfoundation.org/best-mattress/best-cooling-mattress)
+        * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
         * [Best Mattress in a Box](https://www.sleepfoundation.org/best-mattress/best-mattress-in-a-box)
         * [Best Cheap Mattress](https://www.sleepfoundation.org/best-mattress/best-cheap-mattress)
         * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
+    * Reviews
+        * [Casper](https://www.sleepfoundation.org/mattress-reviews/casper-mattress-review)
+        * [Saatva](https://www.sleepfoundation.org/mattress-reviews/saatva-mattress-review)
+        * [Sleep Number](https://www.sleepfoundation.org/mattress-reviews/sleep-number-classic-series-mattress-review)
+        * [All Mattress Reviews](https://www.sleepfoundation.org/mattress-reviews)
+        * [Nectar Mattress](https://www.sleepfoundation.org/mattress-reviews/nectar-mattress-review)
+        * [Bear](https://www.sleepfoundation.org/mattress-reviews/bear-mattress-review)
+        * [Loom & Leaf](https://www.sleepfoundation.org/mattress-reviews/loom-and-leaf-mattress-review)
+        * [Tempur-Pedic](https://www.sleepfoundation.org/mattress-reviews/tempurpedic-adapt-mattress-review)
+        * [Helix Mattress](https://www.sleepfoundation.org/mattress-reviews/helix-mattress-review)
+        * [DreamCloud Mattress](https://www.sleepfoundation.org/mattress-reviews/dreamcloud-mattress-review)
+        * [WinkBed Mattress](https://www.sleepfoundation.org/mattress-reviews/winkbed-mattress-review)
+    * Compare
+        * [Mattress Finder Tool](https://www.sleepfoundation.org/mattress-quiz/results)
+        * [Take the Mattress Quiz](https://www.sleepfoundation.org/mattress-quiz)
+        * [Nectar vs. Casper](https://www.sleepfoundation.org/mattress-comparisons/nectar-vs-casper)
+        * [Tempur-Pedic vs. Sleep Number](https://www.sleepfoundation.org/mattress-comparisons/tempurpedic-vs-sleep-number)
+        * [Do You Need a Box Spring?](https://www.sleepfoundation.org/mattress-information/do-you-need-a-box-spring)
+        * [What is Memory Foam?](https://www.sleepfoundation.org/mattress-information/what-is-memory-foam)
+        * [Mattress Sizes](https://www.sleepfoundation.org/mattress-sizes)
     
-*  Pillows & Bedding
+*  Bedding
     
-    Pillows & Bedding
+    Bedding
     
-    * PILLOWS
-        * [Best Pillows](https://www.sleepfoundation.org/best-pillows)
-        * [Pillows for Neck Pain](https://www.sleepfoundation.org/best-pillows/best-pillow-for-neck-pain)
-        * [Pillows for Side Sleepers](https://www.sleepfoundation.org/best-pillows/best-pillow-for-side-sleepers)
-    * SHEETS
-        * [Best Sheets](https://www.sleepfoundation.org/best-sheets)
-        * [Cooling Sheets](https://www.sleepfoundation.org/best-sheets/best-cooling-sheets)
-        * [Bamboo Sheets](https://www.sleepfoundation.org/best-sheets/best-bamboo-sheets)
-    * BEDDING
-        * [Best Bedding](https://www.sleepfoundation.org/best-bedding)
-        * [Weighted Blankets](https://www.sleepfoundation.org/best-weighted-blankets)
-        * [Comforters](https://www.sleepfoundation.org/best-bedding/best-comforter)
+    * [All Bedding](https://www.sleepfoundation.org/best-bedding)
+    * Pillows & Bedding
+        * [The Best Pillows of 2024](https://www.sleepfoundation.org/best-pillows)
+        * [The Best Pillows for Side Sleepers](https://www.sleepfoundation.org/best-pillows/best-pillow-for-side-sleepers)
+        * [The Best Pillows for Neck Pain](https://www.sleepfoundation.org/best-pillows/best-pillow-for-neck-pain)
+        * [Top-Rated Bed Sheets](https://www.sleepfoundation.org/best-sheets)
+        * [Best Cooling Sheets](https://www.sleepfoundation.org/best-sheets/best-cooling-sheets)
+        * [The Best Weighted Blankets of 2024](https://www.sleepfoundation.org/best-weighted-blankets)
+        * [The Best Bedding of 2024](https://www.sleepfoundation.org/best-bedding)
+        * [The Best Comforters](https://www.sleepfoundation.org/best-bedding/best-comforter)
+    * Mattress Toppers & More
+        * [The Best Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers)
+        * [Best Cooling Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers/best-cooling-mattress-topper)
+        * [Best Memory Foam Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers/best-memory-foam-mattress-topper)
+        * [Best Mattress Pads](https://www.sleepfoundation.org/best-mattress-pads)
+        * [Cooling Mattress Pads](https://www.sleepfoundation.org/best-mattress-pads/best-cooling-mattress-pad)
+        * [The Best Mattress Protectors of 2024](https://www.sleepfoundation.org/best-mattress-protectors)
+        * [Best Full Mattress Encasements](https://www.sleepfoundation.org/best-mattress-protectors/best-mattress-encasements)
     
-*  Bedroom
+*  Sleep Solutions
     
-    Bedroom
+    Sleep Solutions
     
-    * BED FRAMES
-        * [Best Bed Frames](https://www.sleepfoundation.org/best-bed-frames)
-        * [Adjustable Beds](https://www.sleepfoundation.org/best-adjustable-bed)
-    * MATTRESS PADS & TOPPERS
-        * [Best Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers)
-        * [Mattress Topper for Back Pain](https://www.sleepfoundation.org/best-mattress-toppers/best-mattress-topper-for-back-pain)
-        * [Cooling Mattress Pad](https://www.sleepfoundation.org/best-mattress-pads/best-cooling-mattress-pad)
-    * ACCESSORIES
-        * [CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines)
-        * [CPAP Masks](https://www.sleepfoundation.org/best-cpap-mask)
-        * [Anti-Snoring Devices](https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards)
-        * [Night Guards](https://www.sleepfoundation.org/best-mouthguard-for-teeth-grinding)
+    * [All Solutions](https://www.sleepfoundation.org/sleep-solutions)
+    * [Get Sleep Tested](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-apnea-test)
+    * Sleep Therapy
+        * [The Best CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines)
+        * [Best Travel CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines/best-travel-cpap-machines)
+        * [Top-Rated CPAP Masks](https://www.sleepfoundation.org/best-cpap-masks)
+        * [The Best Anti-Snoring Mouthpieces](https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards)
+        * [Mouth Taping](https://www.sleepfoundation.org/snoring/mouth-taping-for-sleep)
+        * [CPAP Alternatives](https://www.sleepfoundation.org/sleep-apnea/alternatives-to-cpap)
+        * [The Best Sleep Apps of 2024](https://www.sleepfoundation.org/best-sleep-apps)
+        * [The Best Magnesium Supplements](https://www.sleepfoundation.org/magnesium/best-magnesium-for-sleep)
+        * [Best Sleep Supplements](https://www.sleepfoundation.org/sleep-aids/natural-sleep-aids)
+    * Sleep Environment
+        * [The Best Sleep Trackers We've Tested](https://www.sleepfoundation.org/best-sleep-trackers)
+        * [Top-Rated White Noise Machines](https://www.sleepfoundation.org/best-sleep-products/best-white-noise-machines)
+        * [The Best Adjustable Beds](https://www.sleepfoundation.org/best-adjustable-bed)
+        * [Our Favorite Bed Frames](https://www.sleepfoundation.org/best-bed-frames)
+        * [Blue Light Blocking Glasses](https://www.sleepfoundation.org/best-sleep-products/best-blue-light-blocking-glasses)
+        * [Wake-Up Lights](https://www.sleepfoundation.org/best-sleep-products/best-wake-up-lights)
+        * [Sleep Masks](https://www.sleepfoundation.org/best-sleep-products/best-sleep-masks)
     
 
 SLEEP HEALTH & WELLNESS
 
-*  Sleep Products [Sleep Products](https://www.sleepfoundation.org/sleep-solutions)
+*  Mattresses
     
-    Sleep Products
+    Mattresses
     
-    * [All Products](https://www.sleepfoundation.org/sleep-solutions)
+    * [All](https://www.sleepfoundation.org/best-mattress)
     * [Best Mattress of 2024](https://www.sleepfoundation.org/best-mattress)
-    * [ ]  Mattresses
+    * [ ]  Best of
         
         * SLEEPER TYPE
             * [Best Mattress for Side Sleepers](https://www.sleepfoundation.org/best-mattress/best-mattress-for-side-sleepers)
@@ -80,61 +114,158 @@ SLEEP HEALTH & WELLNESS
         * MATERIAL
             * [Best Memory Foam Mattress](https://www.sleepfoundation.org/best-mattress/best-memory-foam-mattress)
             * [Best Hybrid Mattress](https://www.sleepfoundation.org/best-mattress/best-hybrid-mattress)
-            * [Best Cooling Mattress](https://www.sleepfoundation.org/best-cooling-mattress)
+            * [Best Cooling Mattress](https://www.sleepfoundation.org/best-mattress/best-cooling-mattress)
+            * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
         * OTHER
             * [Best Mattress in a Box](https://www.sleepfoundation.org/best-mattress/best-mattress-in-a-box)
             * [Best Cheap Mattress](https://www.sleepfoundation.org/best-mattress/best-cheap-mattress)
             * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
-        *  [![Mattress Quiz – Find Out Your Mattress Match](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_Face-to-Face-300x300.png "Mattress Quiz – Find Out Your Mattress Match") Mattress Quiz – Find Out Your Mattress Match](https://www.sleepfoundation.org/mattress-quiz)[![Mattress Reviews](https://www.sleepfoundation.org/wp-content/uploads/2020/01/Mattress%20Reviews%20Hero.jpg "Mattress Reviews") Mattress Reviews](https://www.sleepfoundation.org/mattress-reviews)
+        *  [![Mattress Finder](https://www.sleepfoundation.org/wp-content/uploads/2024/04/Mattresses-in-the-Sleep-Foundation-Test-Lab-3-300x125.jpg "Mattress Finder") Mattress Finder](https://www.sleepfoundation.org/mattress-quiz/results)[![Best Organic and Natural Mattresses of 2024](https://www.sleepfoundation.org/wp-content/uploads/2020/04/Best-Organic-Mattresses.jpg "Best Organic and Natural Mattresses of 2024") Best Organic and Natural Mattresses of 2024](https://www.sleepfoundation.org/best-mattress/best-organic-mattresses)
         
+    * [ ]  Reviews
+        
+        * POPULAR BRANDS
+            * [Casper](https://www.sleepfoundation.org/mattress-reviews/casper-mattress-review)
+            * [Saatva](https://www.sleepfoundation.org/mattress-reviews/saatva-mattress-review)
+            * [Sleep Number](https://www.sleepfoundation.org/mattress-reviews/sleep-number-classic-series-mattress-review)
+            * [All Mattress Reviews](https://www.sleepfoundation.org/mattress-reviews)
+        * FOAM
+            * [Nectar Mattress](https://www.sleepfoundation.org/mattress-reviews/nectar-mattress-review)
+            * [Bear](https://www.sleepfoundation.org/mattress-reviews/bear-mattress-review)
+            * [Loom & Leaf](https://www.sleepfoundation.org/mattress-reviews/loom-and-leaf-mattress-review)
+            * [Tempur-Pedic](https://www.sleepfoundation.org/mattress-reviews/tempurpedic-adapt-mattress-review)
+        * HYBRID
+            * [Helix Mattress](https://www.sleepfoundation.org/mattress-reviews/helix-mattress-review)
+            * [DreamCloud Mattress](https://www.sleepfoundation.org/mattress-reviews/dreamcloud-mattress-review)
+            * [WinkBed Mattress](https://www.sleepfoundation.org/mattress-reviews/winkbed-mattress-review)
+        *  [![Mattress Finder](https://www.sleepfoundation.org/wp-content/uploads/2024/04/Mattresses-in-the-Sleep-Foundation-Test-Lab-3-300x125.jpg "Mattress Finder") Mattress Finder](https://www.sleepfoundation.org/mattress-quiz/results)[![Best Organic and Natural Mattresses of 2024](https://www.sleepfoundation.org/wp-content/uploads/2020/04/Best-Organic-Mattresses.jpg "Best Organic and Natural Mattresses of 2024") Best Organic and Natural Mattresses of 2024](https://www.sleepfoundation.org/best-mattress/best-organic-mattresses)
+        
+    * [ ]  Compare
+        
+        * MATTRESS MATCH
+            * [Mattress Finder Tool](https://www.sleepfoundation.org/mattress-quiz/results)
+            * [Take the Mattress Quiz](https://www.sleepfoundation.org/mattress-quiz)
+        * POPULAR BRANDS
+            * [Nectar vs. Casper](https://www.sleepfoundation.org/mattress-comparisons/nectar-vs-casper)
+            * [Tempur-Pedic vs. Sleep Number](https://www.sleepfoundation.org/mattress-comparisons/tempurpedic-vs-sleep-number)
+        * LEARN
+            * [Do You Need a Box Spring?](https://www.sleepfoundation.org/mattress-information/do-you-need-a-box-spring)
+            * [What is Memory Foam?](https://www.sleepfoundation.org/mattress-information/what-is-memory-foam)
+            * [Mattress Sizes](https://www.sleepfoundation.org/mattress-sizes)
+        *  [![Mattress Finder](https://www.sleepfoundation.org/wp-content/uploads/2024/04/Mattresses-in-the-Sleep-Foundation-Test-Lab-3-300x125.jpg "Mattress Finder") Mattress Finder](https://www.sleepfoundation.org/mattress-quiz/results)[![Best Organic and Natural Mattresses of 2024](https://www.sleepfoundation.org/wp-content/uploads/2020/04/Best-Organic-Mattresses.jpg "Best Organic and Natural Mattresses of 2024") Best Organic and Natural Mattresses of 2024](https://www.sleepfoundation.org/best-mattress/best-organic-mattresses)
+        
+    * [All Mattresses](https://www.sleepfoundation.org/best-mattress)
+    
+*  Bedding
+    
+    Bedding
+    
+    * [All](https://www.sleepfoundation.org/best-bedding)
     * [ ]  Pillows & Bedding
         
         * PILLOWS
-            * [Best Pillows](https://www.sleepfoundation.org/best-pillows)
-            * [Pillows for Neck Pain](https://www.sleepfoundation.org/best-pillows/best-pillow-for-neck-pain)
-            * [Pillows for Side Sleepers](https://www.sleepfoundation.org/best-pillows/best-pillow-for-side-sleepers)
+            * [The Best Pillows of 2024](https://www.sleepfoundation.org/best-pillows)
+            * [The Best Pillows for Side Sleepers](https://www.sleepfoundation.org/best-pillows/best-pillow-for-side-sleepers)
+            * [The Best Pillows for Neck Pain](https://www.sleepfoundation.org/best-pillows/best-pillow-for-neck-pain)
         * SHEETS
-            * [Best Sheets](https://www.sleepfoundation.org/best-sheets)
-            * [Cooling Sheets](https://www.sleepfoundation.org/best-sheets/best-cooling-sheets)
-            * [Bamboo Sheets](https://www.sleepfoundation.org/best-sheets/best-bamboo-sheets)
+            * [Top-Rated Bed Sheets](https://www.sleepfoundation.org/best-sheets)
+            * [Best Cooling Sheets](https://www.sleepfoundation.org/best-sheets/best-cooling-sheets)
         * BEDDING
-            * [Best Bedding](https://www.sleepfoundation.org/best-bedding)
-            * [Weighted Blankets](https://www.sleepfoundation.org/best-weighted-blankets)
-            * [Comforters](https://www.sleepfoundation.org/best-bedding/best-comforter)
-        *  [![Mattress Quiz – Find Out Your Mattress Match](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_Face-to-Face-300x300.png "Mattress Quiz – Find Out Your Mattress Match") Mattress Quiz – Find Out Your Mattress Match](https://www.sleepfoundation.org/mattress-quiz)[![Mattress Reviews](https://www.sleepfoundation.org/wp-content/uploads/2020/01/Mattress%20Reviews%20Hero.jpg "Mattress Reviews") Mattress Reviews](https://www.sleepfoundation.org/mattress-reviews)
+            * [The Best Weighted Blankets of 2024](https://www.sleepfoundation.org/best-weighted-blankets)
+            * [The Best Bedding of 2024](https://www.sleepfoundation.org/best-bedding)
+            * [The Best Comforters](https://www.sleepfoundation.org/best-bedding/best-comforter)
+        *  [![Pillow Quiz – Find Your Perfect Pillow](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_Cliffhanger-300x300.png "Pillow Quiz – Find Your Perfect Pillow") Pillow Quiz – Find Your Perfect Pillow](https://www.sleepfoundation.org/best-pillows/pillow-quiz)[![Best Cooling Comforters of 2024](https://www.sleepfoundation.org/wp-content/uploads/2020/09/Saatva-Lightweight-Down-Alternative-Comforter-253x140-1.jpeg "Best Cooling Comforters of 2024") Best Cooling Comforters of 2024](https://www.sleepfoundation.org/best-bedding/best-cooling-comforter)
         
-    * [ ]  Bedroom
+    * [ ]  Mattress Toppers & More
         
+        * MATTRESS TOPPERS
+            * [The Best Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers)
+            * [Best Cooling Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers/best-cooling-mattress-topper)
+            * [Best Memory Foam Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers/best-memory-foam-mattress-topper)
+        * MATTRESS PADS
+            * [Best Mattress Pads](https://www.sleepfoundation.org/best-mattress-pads)
+            * [Cooling Mattress Pads](https://www.sleepfoundation.org/best-mattress-pads/best-cooling-mattress-pad)
+        * PROTECTORS
+            * [The Best Mattress Protectors of 2024](https://www.sleepfoundation.org/best-mattress-protectors)
+            * [Best Full Mattress Encasements](https://www.sleepfoundation.org/best-mattress-protectors/best-mattress-encasements)
+        *  [![Pillow Quiz – Find Your Perfect Pillow](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_Cliffhanger-300x300.png "Pillow Quiz – Find Your Perfect Pillow") Pillow Quiz – Find Your Perfect Pillow](https://www.sleepfoundation.org/best-pillows/pillow-quiz)[![Best Cooling Comforters of 2024](https://www.sleepfoundation.org/wp-content/uploads/2020/09/Saatva-Lightweight-Down-Alternative-Comforter-253x140-1.jpeg "Best Cooling Comforters of 2024") Best Cooling Comforters of 2024](https://www.sleepfoundation.org/best-bedding/best-cooling-comforter)
+        
+    * [All Bedding](https://www.sleepfoundation.org/best-bedding)
+    
+*  Sleep Solutions
+    
+    Sleep Solutions
+    
+    * [All Solutions](https://www.sleepfoundation.org/sleep-solutions)
+    * [Get Sleep Tested](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-apnea-test)
+    * [ ]  Sleep Therapy
+        
+        * CPAP
+            * [The Best CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines)
+            * [Best Travel CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines/best-travel-cpap-machines)
+            * [Top-Rated CPAP Masks](https://www.sleepfoundation.org/best-cpap-masks)
+        * ANTI-SNORING
+            * [The Best Anti-Snoring Mouthpieces](https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards)
+            * [Mouth Taping](https://www.sleepfoundation.org/snoring/mouth-taping-for-sleep)
+            * [CPAP Alternatives](https://www.sleepfoundation.org/sleep-apnea/alternatives-to-cpap)
+        * SERVICES & SUPPLEMENTS
+            * [The Best Sleep Apps of 2024](https://www.sleepfoundation.org/best-sleep-apps)
+            * [The Best Magnesium Supplements](https://www.sleepfoundation.org/magnesium/best-magnesium-for-sleep)
+            * [Best Sleep Supplements](https://www.sleepfoundation.org/sleep-aids/natural-sleep-aids)
+        *  [![The Best Mouthguards for Teeth Grinding](https://www.sleepfoundation.org/wp-content/uploads/2020/12/Smile-Brilliant-1-300x214.jpg "The Best Mouthguards for Teeth Grinding") The Best Mouthguards for Teeth Grinding](https://www.sleepfoundation.org/best-mouthguard-for-teeth-grinding)[![product image of Sweet Zzz White Noise Machine](https://www.sleepfoundation.org/wp-content/uploads/2023/07/Sweet-Zzz-White-Noise-Machine-300x197.jpg "The Best Sleep Products of 2024") The Best Sleep Products of 2024](https://www.sleepfoundation.org/best-sleep-products)
+        
+    * [ ]  Sleep Environment
+        
+        * SLEEP TECH
+            * [The Best Sleep Trackers We've Tested](https://www.sleepfoundation.org/best-sleep-trackers)
+            * [Top-Rated White Noise Machines](https://www.sleepfoundation.org/best-sleep-products/best-white-noise-machines)
         * BED FRAMES
-            * [Best Bed Frames](https://www.sleepfoundation.org/best-bed-frames)
-            * [Adjustable Beds](https://www.sleepfoundation.org/best-adjustable-bed)
-        * MATTRESS PADS & TOPPERS
-            * [Best Mattress Toppers](https://www.sleepfoundation.org/best-mattress-toppers)
-            * [Mattress Topper for Back Pain](https://www.sleepfoundation.org/best-mattress-toppers/best-mattress-topper-for-back-pain)
-            * [Cooling Mattress Pad](https://www.sleepfoundation.org/best-mattress-pads/best-cooling-mattress-pad)
-        * ACCESSORIES
-            * [CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines)
-            * [CPAP Masks](https://www.sleepfoundation.org/best-cpap-mask)
-            * [Anti-Snoring Devices](https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards)
-            * [Night Guards](https://www.sleepfoundation.org/best-mouthguard-for-teeth-grinding)
-        *  [![Mattress Quiz – Find Out Your Mattress Match](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_Face-to-Face-300x300.png "Mattress Quiz – Find Out Your Mattress Match") Mattress Quiz – Find Out Your Mattress Match](https://www.sleepfoundation.org/mattress-quiz)[![Mattress Reviews](https://www.sleepfoundation.org/wp-content/uploads/2020/01/Mattress%20Reviews%20Hero.jpg "Mattress Reviews") Mattress Reviews](https://www.sleepfoundation.org/mattress-reviews)
+            * [The Best Adjustable Beds](https://www.sleepfoundation.org/best-adjustable-bed)
+            * [Our Favorite Bed Frames](https://www.sleepfoundation.org/best-bed-frames)
+        * PERSONAL CARE PRODUCTS
+            * [Blue Light Blocking Glasses](https://www.sleepfoundation.org/best-sleep-products/best-blue-light-blocking-glasses)
+            * [Wake-Up Lights](https://www.sleepfoundation.org/best-sleep-products/best-wake-up-lights)
+            * [Sleep Masks](https://www.sleepfoundation.org/best-sleep-products/best-sleep-masks)
+        *  [![The Best Mouthguards for Teeth Grinding](https://www.sleepfoundation.org/wp-content/uploads/2020/12/Smile-Brilliant-1-300x214.jpg "The Best Mouthguards for Teeth Grinding") The Best Mouthguards for Teeth Grinding](https://www.sleepfoundation.org/best-mouthguard-for-teeth-grinding)[![product image of Sweet Zzz White Noise Machine](https://www.sleepfoundation.org/wp-content/uploads/2023/07/Sweet-Zzz-White-Noise-Machine-300x197.jpg "The Best Sleep Products of 2024") The Best Sleep Products of 2024](https://www.sleepfoundation.org/best-sleep-products)
         
-    * [All Products](https://www.sleepfoundation.org/sleep-solutions)
+    * [All Solutions](https://www.sleepfoundation.org/sleep-solutions)
     
 *  Sleep Health
     
     Sleep Health
     
     * [All Health](https://www.sleepfoundation.org/sleep-topics)
+    * [ ]  Sleep Disorders
+        
+        * COMMON DISORDERS
+            * [Insomnia](https://www.sleepfoundation.org/insomnia)
+            * [Parasomnias](https://www.sleepfoundation.org/parasomnias)
+            * [Excessive Sleepiness](https://www.sleepfoundation.org/excessive-sleepiness)
+        * BREATHING-RELATED
+            * [Sleep Apnea](https://www.sleepfoundation.org/sleep-apnea)
+            * [Obstructive Sleep Apnea](https://www.sleepfoundation.org/sleep-apnea/obstructive-sleep-apnea)
+            * [Central Sleep Apnea](https://www.sleepfoundation.org/sleep-apnea/central-sleep-apnea)
+        * MOVEMENT-RELATED
+            * [Sleepwalking](https://www.sleepfoundation.org/parasomnias/sleepwalking)
+            * [Bruxism](https://www.sleepfoundation.org/bruxism)
+            * [Restless Legs Syndrome](https://www.sleepfoundation.org/restless-legs-syndrome)
+        * TESTING & TREATMENTS
+            * [CPAP](https://www.sleepfoundation.org/cpap)
+            * [Home Sleep Test](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-study)
+            * [At-Home Sleep Apnea Test](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-apnea-test)
+            * [What to Do When You Can't Sleep](https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep)
+        *  [![Woman Taking Melatonin](https://www.sleepfoundation.org/wp-content/uploads/2021/05/woman-with-melatonin-300x200.jpg "Melatonin Dosage: How Much Should You Take") Melatonin Dosage: How Much Should You Take](https://www.sleepfoundation.org/melatonin/melatonin-dosage-how-much-should-you-take)[![group of people drinking coffee](https://www.sleepfoundation.org/wp-content/uploads/2023/09/group-of-people-drinking-coffee-300x200.jpg "94% of Us Drink Caffeinated Beverages. But What Does it do to Our Sleep?") 94% of Us Drink Caffeinated Beverages. But What Does it do to Our Sleep?](https://www.sleepfoundation.org/sleep-news/94-percent-of-us-drink-caffeinated-beverages)
+        
     * [ ]  Improve Your Sleep
         
         * SLEEP HABITS
             * [The Ultimate Sleep Improvement Plan](https://www.sleepfoundation.org/sleep-habits)
-            * [Top 20 Proven Sleep Tips](https://www.sleepfoundation.org/sleep-hygiene/healthy-sleep-tips)
+            * [The 20 Most Proven Sleep Tips](https://www.sleepfoundation.org/sleep-hygiene/healthy-sleep-tips)
             * [Sleep Hygiene](https://www.sleepfoundation.org/sleep-hygiene)
         * SLEEP AIDS
             * [Melatonin](https://www.sleepfoundation.org/melatonin)
             * [Magnesium](https://www.sleepfoundation.org/magnesium)
+            * [The Most Effective Sleep Aids](https://www.sleepfoundation.org/sleep-aids)
         * TOOLS & PRODUCTS
             * [Sleep Calculator](https://www.sleepfoundation.org/sleep-calculator)
             * [7 Nights to Better Sleep](https://www.sleepfoundation.org/sleep-habits/7-night-sleep-habit-builder)
@@ -149,50 +280,14 @@ SLEEP HEALTH & WELLNESS
             * [The Stages of Sleep](https://www.sleepfoundation.org/stages-of-sleep)
         * IMPACTS
             * [Snoring](https://www.sleepfoundation.org/snoring)
+            * [Sleep Deprivation](https://www.sleepfoundation.org/sleep-deprivation)
             * [How Electronics Affect Your Sleep](https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep)
-            * [How Bad Sleep Affects Your Brain](https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment)
         * STATISTICS
             * [Sleep Data & Research](https://www.sleepfoundation.org/how-sleep-works/sleep-facts-statistics)
             * [How Much Sleep Do We Need?](https://www.sleepfoundation.org/how-sleep-works/how-much-sleep-do-we-really-need)
         *  [![Woman Taking Melatonin](https://www.sleepfoundation.org/wp-content/uploads/2021/05/woman-with-melatonin-300x200.jpg "Melatonin Dosage: How Much Should You Take") Melatonin Dosage: How Much Should You Take](https://www.sleepfoundation.org/melatonin/melatonin-dosage-how-much-should-you-take)[![group of people drinking coffee](https://www.sleepfoundation.org/wp-content/uploads/2023/09/group-of-people-drinking-coffee-300x200.jpg "94% of Us Drink Caffeinated Beverages. But What Does it do to Our Sleep?") 94% of Us Drink Caffeinated Beverages. But What Does it do to Our Sleep?](https://www.sleepfoundation.org/sleep-news/94-percent-of-us-drink-caffeinated-beverages)
         
     * [All Health](https://www.sleepfoundation.org/sleep-topics)
-    
-*  Sleep Disorders
-    
-    Sleep Disorders
-    
-    * [All Disorders](https://www.sleepfoundation.org/sleep-disorders)
-    * [ ]  Types
-        
-        * COMMON DISORDERS
-            * [Insomnia](https://www.sleepfoundation.org/insomnia)
-            * [Parasomnias](https://www.sleepfoundation.org/parasomnias)
-            * [Excessive Sleepiness](https://www.sleepfoundation.org/excessive-sleepiness)
-        * BREATHING-RELATED
-            * [Sleep Apnea](https://www.sleepfoundation.org/sleep-apnea)
-            * [Obstructive Sleep Apnea](https://www.sleepfoundation.org/sleep-apnea/obstructive-sleep-apnea)
-            * [Central Sleep Apnea](https://www.sleepfoundation.org/sleep-apnea/central-sleep-apnea)
-        * MOVEMENT-RELATED
-            * [Restless Legs Syndrome](https://www.sleepfoundation.org/restless-legs-syndrome)
-            * [Bruxism](https://www.sleepfoundation.org/bruxism)
-            * [Sleepwalking](https://www.sleepfoundation.org/parasomnias/sleepwalking)
-        *  [![Sleep Quiz: See Your Sleep Profile!](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_With-Pets-300x300.png "Sleep Quiz: See Your Sleep Profile!") Sleep Quiz: See Your Sleep Profile!](https://www.sleepfoundation.org/sleep-profile-get-started)[![Alcohol and Sleep](https://www.sleepfoundation.org/wp-content/uploads/2020/09/Alcohol-and-Sleep-2-300x200.jpg "Alcohol and Sleep") Alcohol and Sleep](https://www.sleepfoundation.org/nutrition/alcohol-and-sleep)
-        
-    * [ ]  Symptoms & Treatment
-        
-        * SYMPTOMS
-            * [Sleep Deprivation](https://www.sleepfoundation.org/sleep-deprivation)
-            * [Signs of Narcolepsy](https://www.sleepfoundation.org/narcolepsy)
-        * GET TESTED
-            * [At-Home Sleep Study](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-study)
-            * [Sleep Apnea Test](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-apnea-test)
-        * TREATMENTS
-            * [What to Do When You Can't Sleep](https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep)
-            * [CPAP](https://www.sleepfoundation.org/cpap)
-        *  [![Sleep Quiz: See Your Sleep Profile!](https://www.sleepfoundation.org/wp-content/uploads/2021/08/SF-23-163_SleepPosition_Couples_With-Pets-300x300.png "Sleep Quiz: See Your Sleep Profile!") Sleep Quiz: See Your Sleep Profile!](https://www.sleepfoundation.org/sleep-profile-get-started)[![Alcohol and Sleep](https://www.sleepfoundation.org/wp-content/uploads/2020/09/Alcohol-and-Sleep-2-300x200.jpg "Alcohol and Sleep") Alcohol and Sleep](https://www.sleepfoundation.org/nutrition/alcohol-and-sleep)
-        
-    * [All Disorders](https://www.sleepfoundation.org/sleep-disorders)
     
 *  About Us
     
@@ -202,7 +297,7 @@ SLEEP HEALTH & WELLNESS
         
         * OUR MISSION
             * [What We Do](https://www.sleepfoundation.org/about-us)
-            * [Meet The Team](https://www.sleepfoundation.org/about-us/who-we-are)
+            * [Our Team](https://www.sleepfoundation.org/about-us/who-we-are)
         * OUR MEDICAL TEAM
             * [Medical Advisory Board](https://www.sleepfoundation.org/about-us/who-we-are#medical-advisory-board)
         * OUR PROCESS
