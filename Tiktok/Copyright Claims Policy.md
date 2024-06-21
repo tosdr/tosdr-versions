@@ -169,8 +169,8 @@ As a TikTok user, you are responsible for the content you post. If you have ques
 
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
-[Impressum](https://www.tiktok.com/legal/impressum?lang=en)
-
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
+
+[Modern Slavery and Human Trafficking Statement](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
 
 © 2024 TikTok
