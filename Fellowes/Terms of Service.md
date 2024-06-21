@@ -144,11 +144,7 @@ Markerboards
 
 The Ultimate Canvas
 
-Learn More](https://www.fellowes.com/us/en/catalog/contract-interiors/markerboards) [![Image of Design Days 2024](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepageheroimg/design-days-banner-homepage.png) ![](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepageheroimg/design-days-banner-homepage-mobile.png)
-
-Fellowes Design & Experience Center
-
-Fulton Market, Chicago
+Learn More](https://www.fellowes.com/us/en/catalog/contract-interiors/markerboards) [![Image of Design Days 2024](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepageheroimg/design-days-banner-homepage.jpg) ![](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepageheroimg/design-days-banner-homepage-mobile.jpg)
 
 Learn More](https://www.fellowes.com/us/en/our-company/locations/pg/design-days)[![RISING™ MONITOR ARMS](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepageheroimg/slide-1-rise.jpg)
 
@@ -192,8 +188,8 @@ AIR PURIFICATION
 
 MODULAR WALLS
 
-Innovations for a Better WorkLife
----------------------------------
+Innovations that Unleash worklife potential
+-------------------------------------------
 
 ![](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepage-imgs/DesktopTile1.jpg) ![](//cdn.fellowes.com/assets/repositories/templates/r01/fellowes.com/production/us/en/_includes/img/homepage-imgs/MobileTile1.jpg)
 
