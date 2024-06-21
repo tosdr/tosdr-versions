@@ -310,7 +310,7 @@ Subscribe Now
 Latest Magazine Issue
 ---------------------
 
-[![Larry David photographed by Mary Ellen Matthews](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/06/EM_06124_COVER_IR3_JV3.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_624765)
+[![Gary Oldman photographed by Molly Matalon for TheWrap](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/06/EM_06194_COVER_IR_JV4_X.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_402388)
 
 TheWrap
 -------
