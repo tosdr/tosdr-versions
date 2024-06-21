@@ -89,13 +89,11 @@
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
-        * [Taskmaster: The Live Experience](https://www.channel4.com/4viewers/blog/taskmaster-experience)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
         * [Banged Up: Stars Behind Bars](https://www.channel4.com/4viewers/blog/banged-up)
         * [Alone](https://www.channel4.com/4viewers/blog/alone)
-        * [Proud All Over](https://www.channel4.com/4viewers/blog/pride-month)
         * [Channel 4’s Black to Front Project](https://www.channel4.com/4viewers/black-to-front-project)
         * [It's A Sin](https://www.channel4.com/4viewers/blog/its-a-sin)
         * [Channel 4 Statement - Rachel Riley](https://www.channel4.com/4viewers/blog/rr)
