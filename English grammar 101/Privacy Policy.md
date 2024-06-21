@@ -1,9 +1,11 @@
-[Home](https://www.englishgrammar101.com/student-dashboard)
+[Home](https://www.englishgrammar101.com/student-dashboard) [Table of  
+Contents](https://www.englishgrammar101.com/)
 
 [Settings](https://www.englishgrammar101.com/account-settings) [Log In](https://www.englishgrammar101.com/log-in) [Log Out](https://www.englishgrammar101.com/log-in)
 
-[English Grammar 101
-===================](https://www.englishgrammar101.com/)[![English Grammar 101](/Images/english-grammar-101.png)](https://www.englishgrammar101.com/student-dashboard)
+ [![English Grammar 101](/Images/english-grammar-101.png)](https://www.englishgrammar101.com/)[![English Grammar 101](/Images/english-grammar-101.png)](https://www.englishgrammar101.com/student-dashboard)
+
+by Kitty Nash
 
 Website Shutting Down  
 and Business Closing  
