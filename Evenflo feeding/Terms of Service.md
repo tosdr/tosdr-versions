@@ -326,8 +326,7 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 #### Support
 
 * [1-855-334-BABY (2229)](tel:(855)334-2229 "Phone: 1-855-334-BABY (2229)")
-* [support@evenflofeeding.com](mailto:support@evenflofeeding.com)  
-    
+* [Contact Support](https://www.evenflofeeding.com/company/contact-evenflo-support "E-Mail Us")
 * [8200 Becket Park Dr. Suite 111 West Chester, OH 45069](https://www.google.com/maps/place/9277+Centre+Pointe+Dr+%23160,+West+Chester+Township,+OH+45069)
 
 * [](https://www.instagram.com/evenflofeeding)
