@@ -138,13 +138,7 @@ Email:  [info@fibro.org](mailto:info@fibro.org)
 
 Fibromyalgia Care Society of America, inc
 
-40 South Fullerton Avenue, Suite 18,
-
-Montclair,
-
-United States
-
-[9739915834](tel:9739915834) [mvelez@fibro.org](mailto:mvelez@fibro.org "mvelez@fibro.org")
+[973-991-5834](tel:973-991-5834) [Mvelez@fibro.org](mailto:Mvelez@fibro.org "Mvelez@fibro.org")
 
 Hours
 
