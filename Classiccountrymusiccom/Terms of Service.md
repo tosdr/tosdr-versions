@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [Alan Jackson To Receive Poet’s Award...](https://classiccountrymusic.com/alan-jackson-to-receive-poets-award-at-2024-acm-honors/)
-* [Alan Jackson, Lainey Wilson, & Chris...](https://classiccountrymusic.com/alan-jackson-lainey-wilson-chris-stapleton-among-the-honorees-at-the-2024-acm-honors/)
-* [Mark Chesnutt Undergoes Emergency Heart Surgery,...](https://classiccountrymusic.com/mark-chesnutt-has-emergency-heart-surgery-cancels-show-dates/)
+* [George Strait Reveals To Crowd Of...](https://classiccountrymusic.com/george-strait-reveals-to-crowd-of-110905-fans-his-favorite-song-hes-ever-recorded/)
+* [Reba Shares Sneak Peek Of “Happy’s...](https://classiccountrymusic.com/reba-shares-sneak-peek-of-happys-place-with-new-teaser-photos/)
+* [3 Of Roy Rogers & Dale...](https://classiccountrymusic.com/3-of-roy-rogers-dale-evans-duet-performances/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
