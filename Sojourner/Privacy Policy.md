@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7bee0de335d254e831a2a04b820b5167
+4b55b1279aff01100058ff4b96101606
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,20 +171,20 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![6 mm purple-gray round pearls](https://www.sojourner.biz/images/cache/pearls/PE0133.200.jpg)](https://www.sojourner.biz/beads/pearls/6-mm-purple-gray-round-pearls.html "6 mm purple-gray round pearls")
+[![3 mm rose quartz faceted rondelle beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0007.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/3-mm-rose-quartz-faceted-rondelle-beads.html "3 mm rose quartz faceted rondelle beads")
 
-#### [6 mm purple-gray round pearls](https://www.sojourner.biz/beads/pearls/6-mm-purple-gray-round-pearls.html "6 mm purple-gray round pearls")
+#### [3 mm rose quartz faceted rondelle beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/3-mm-rose-quartz-faceted-rondelle-beads.html "3 mm rose quartz faceted rondelle beads")
 
-$9.00
+$37.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://www.sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
-    $16.00
-3. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+2. [Tiny crystal clasp](https://www.sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
     $15.00
+3. [Snowstorm clasp](https://www.sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+    $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
