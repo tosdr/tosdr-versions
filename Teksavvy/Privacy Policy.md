@@ -26,7 +26,7 @@
         
     * [Fibre](https://www.teksavvy.com/services/fibre/)
         
-        High speed internet available in and around the Chatham-Kent area.
+        Super-fast unlimited fibre internet packages available in select areas of Ontario and Quebec.
         
     
     #### Television
