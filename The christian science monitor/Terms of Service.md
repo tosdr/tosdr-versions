@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Respect
+
+### Working-class ‘red wall’ voters decided the last UK election. How do they feel now?](https://www.csmonitor.com/World/Europe/2024/0620/red-wall-labour-conservatives-uk-elections "Working-class ‘red wall’ voters decided the last UK election. How do they feel now?")
+
+[Transformation
+
+### A new Baltimore bridge will span more than water](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0620/A-new-Baltimore-bridge-will-span-more-than-water "A new Baltimore bridge will span more than water")
+
 [Resilience
 
 ### Safe learning for children in war zones](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0618/Safe-learning-for-children-in-war-zones "Safe learning for children in war zones")
-
-[Integrity
-
-### French athletes avoided talking politics. The rise of the far right changed that.](https://www.csmonitor.com/World/Europe/2024/0618/french-far-right-soccer-stars-mbappe "French athletes avoided talking politics. The rise of the far right changed that.")
-
-[Responsibility
-
-### If the far right wins France’s elections, what would that actually mean?](https://www.csmonitor.com/World/Europe/2024/0618/macron-french-elections-far-right-bardella "If the far right wins France’s elections, what would that actually mean?")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-June 18, 2024
+June 20, 2024
 
-The best kind of sequel
+Weighing the real cost of ‘just’ wars
 
-Ask a reader to describe the Monitor, and one word you’ll often hear is “hope.” Today’s review of “Inside Out 2” by Cameron Pugh and Troy Aidan Sambajon gives me hope that, just maybe, Pixar can get back to its best. From “Toy Story” to “Ratatouille,” Pixar did something more than reinvent animation. It produced films of stunning depth, packaged as children’s fare but more likely to leave adults bawling. They reminded us of the power of all those things we most need – innocence, goodness, love, and, yes, hope. A renewal of those years would be a very welcome sequel.
+Israel’s tactics in Gaza in response to the Oct. 7 cross-border attack by Hamas militants have pushed civilians there to the brink. Gaza’s health ministry says that more than 35,000 Palestinians have been killed. Israel justifies its push to eradicate Hamas in defense of its own right to exist. Monitor editors continue to talk about what international law says about war’s “collateral damage” and about “the principle of proportionality.”These are legal issues – complex protocols, with wiggle words – that also contain moral components, including ones codified in the combatants’ respective religious texts. Today, we turn to Ned Temko, whose Patterns column thoughtfully explores both. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### French athletes avoided talking politics. The rise of the far right changed that.](https://www.csmonitor.com/World/Europe/2024/0618/french-far-right-soccer-stars-mbappe "French athletes avoided talking politics. The rise of the far right changed that.")
+[### Working-class ‘red wall’ voters decided the last UK election. How do they feel now?](https://www.csmonitor.com/World/Europe/2024/0620/red-wall-labour-conservatives-uk-elections "Working-class ‘red wall’ voters decided the last UK election. How do they feel now?")
 
-[### If the far right wins France’s elections, what would that actually mean?](https://www.csmonitor.com/World/Europe/2024/0618/macron-french-elections-far-right-bardella "If the far right wins France’s elections, what would that actually mean?")
+[### When does self-defense cross a line? Outcry over Israel in Gaza mounts.](https://www.csmonitor.com/World/Middle-East/2024/0620/When-does-self-defense-cross-a-line-Outcry-over-Israel-in-Gaza-mounts "When does self-defense cross a line? Outcry over Israel in Gaza mounts.")
 
-[### Criticized, doubted, and now champions. How two Celtics rewrote their story.](https://www.csmonitor.com/USA/Society/2024/0618/jaylen-brown-jayson-tatum-boston-celtics-nba-finals "Criticized, doubted, and now champions. How two Celtics rewrote their story.")
+[### Climate activists vandalize jets and Stonehenge as summer travel soars](https://www.csmonitor.com/World/Europe/2024/0620/climate-activists-stonehenge-jets-London "Climate activists vandalize jets and Stonehenge as summer travel soars")
 
 * * *
 
