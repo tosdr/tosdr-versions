@@ -199,7 +199,7 @@ Once you get notice of an update to these terms, you must agree to the new terms
 
 * [Home](https://discuss.techlore.tech/)
 * [Categories](https://discuss.techlore.tech/categories)
-* [FAQ/Guidelines](https://discuss.techlore.tech/guidelines)
+* [Guidelines](https://discuss.techlore.tech/guidelines)
 * [Terms of Service](https://discuss.techlore.tech/tos)
 * [Privacy Policy](https://discuss.techlore.tech/privacy)
 
