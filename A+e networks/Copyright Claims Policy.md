@@ -70,29 +70,29 @@ Latest news
 
 [All articles](https://www.aenetworks.com/news)
 
-    [![James Busby](/s3/files/styles/card_tablet/public/2024-07/Cut_To_The_Crime_S2_1920x1080_TT.jpg?itok=P2Z4qYLn)
+    [![The Blind Detective](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-06/CREATIVIDAD_HORIZONTAL_BLINDDETECTIVE%2016-9.jpg?VersionId=keEvtcQOufzXnb351ABIMaxn9G_FkTG3&itok=o5STk46I)
 
-8 July 2024
+6 June 2024
 
-### A+E NETWORKS EMEA CEMENTS GROWING ORIGINAL SHORT-FORM SLATE WITH NEW TRUE CRIME COMMISSIONS](https://www.aenetworks.com/news/ae-networks-emea-cements-growing-original-short-form-slate-new-true-crime-commissions)
+### COSMO PREMIERES THE HIT CRIME SERIES THE BLIND DETECTIVE](https://www.aenetworks.com/news/cosmo-premieres-hit-crime-series-blind-detective)
 
-    [![Death in Paradise](/s3/files/styles/card_tablet/public/2024-07/CRIMEN_PARAISO_T13_16-9.jpg?itok=qcVML_Yz)
+    [![Gypsy Rose: Life After Lock Up will premiere on Monday 10th June at 9pm on Crime+Investigation and Crime+Investigation Play ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/JRB.jpg?VersionId=K1VWgTfLzs0rRcVMtIhEOf8WVJXnXtxz&itok=NLTFNky4)
 
-5 July 2024
+31 May 2024
 
-### COSMO PREMIERES THE 100th EPISODE OF DEATH IN PARADISE](https://www.aenetworks.com/news/cosmo-premieres-100th-episode-death-paradise)
+### Gypsy Rose: Life After Lock Up. Mondays from 10 June on Crime+Investigation and Crime+Investigation Play](https://www.aenetworks.com/news/gypsy-rose-life-after-lock-mondays-10-june-crimeinvestigation-and-crimeinvestigation-play)
 
-    [![Orgullo](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-06/Orgullo_2024%2016-9.jpg?VersionId=oynSptuGH32.KzZTLPpqM4a7wkBLrbRi&itok=t20bvZgP)
+    [![The Life and Murder of Nicole Brown Simpson will premiere on Sunday 16th June from 9pm on Crime+Investigation and Crime+Investigation Play ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/NBS.jpg?VersionId=5ut3WZoi7Nn6SejfQ8KIsTwN8kbqUsFE&itok=xLK74s5x)
 
-28 June 2024
+31 May 2024
 
-### COSMO DEDICATES ITS PRIDE CAMPAIGN TO LGBTQI WOMEN](https://www.aenetworks.com/news/cosmo-dedicates-its-pride-campaign-lgbtqi-women)
+### The Life and Murder of Nicole Brown Simpson Sundays from 16 June on Crime+Investigation and Crime+Investigation Play](https://www.aenetworks.com/news/life-and-murder-nicole-brown-simpson-sundays-16-june-crimeinvestigation-and-crimeinvestigation)
 
-    [![Jewish graves in Longis Common cemetery (digitally colourised). Credit: Alderney Museum.](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-06/HBISmall.jpg?VersionId=X3Q5xDKtB4wbriVbWlT2VHviWljYAP8u&itok=1I0gNAlH)
+    [![Dermot Murnaghan ](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-05/Dermot%20Murnaghan%20RX%201-8%20%282%29%20copy%202.jpg?VersionId=KXKyw91RC2LFxBhVVHsk3Q39wPcLBblD&itok=fY0pqwLC)
 
-27 June 2024
+20 May 2024
 
-### A+E NETWORKS EMEA COMMISSIONS REVELATORY TWO-PART SERIES SHEDDING NEW LIGHT ON ATROCITIES COMMITTED DURING THE NAZI OCCUPATION OF ALDERNEY](https://www.aenetworks.com/news/ae-networks-emea-commissions-revelatory-two-part-series-shedding-new-light-atrocities)
+### ICONIC SERIES CRIMES THAT SHOOK BRITAIN RETURNS TO CRIME+INVESTIGATION WITH DERMOT MURNAGHAN](https://www.aenetworks.com/news/iconic-series-crimes-shook-britain-returns-crimeinvestigation-dermot-murnaghan)
 
 Corporate
 ---------
