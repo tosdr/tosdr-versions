@@ -8,11 +8,11 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
+* A Midsummer Night's Dream
 * As You Like It
-* Fahrenheit 451
-* Great Expectations
-* King Lear
-* Othello
+* Hamlet
+* Macbeth
+* To Kill a Mockingbird
 
 Menu[](https://www.sparknotes.com/ "← Back to the homepage")[](https://www.sparknotes.com/ "← Back to the homepage")
 
@@ -206,7 +206,7 @@ You'll be billed after your free trial ends.
 
 Not Applicable
 
-Renews June 26, 2024 June 19, 2024
+Renews June 27, 2024 June 20, 2024
 
 Discounts (applied to next billing)
 
@@ -266,11 +266,11 @@ Suggestions
 
 Use up and down arrows to review and enter to select.
 
+* A Midsummer Night's Dream
 * As You Like It
-* Fahrenheit 451
-* Great Expectations
-* King Lear
-* Othello
+* Hamlet
+* Macbeth
+* To Kill a Mockingbird
 
 * Log in Sign Up for  PLUS
 * My Account white
