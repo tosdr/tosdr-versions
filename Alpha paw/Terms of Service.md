@@ -217,7 +217,7 @@ Apply
     
     [Regular price
     
-    $149.99
+    From $149.99
     
     Regular price
     
@@ -225,7 +225,7 @@ Apply
     
     Sale price
     
-    $149.99 Save $80.00 (34%)
+    From $149.99 Save $80.00 (34%)
     
     Unit price
     
@@ -237,11 +237,11 @@ Apply
     
     2 colors
     
-    6455 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6450 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
-    $149.99
+    From $149.99
     
     Regular price
     
@@ -249,7 +249,7 @@ Apply
     
     Sale price
     
-    $149.99 Save $80.00 (34%)
+    From $149.99 Save $80.00 (34%)
     
     Unit price
     
@@ -261,7 +261,7 @@ Apply
     
     2 colors
     
-    6455 total reviews
+    6450 total reviews
     
 * On sale
     
@@ -289,7 +289,7 @@ Apply
     
     in your cart
     
-    8 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
+    6 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     Regular price
     
@@ -311,7 +311,7 @@ Apply
     
     in your cart
     
-    8 total reviews
+    6 total reviews
     
 * On sale
     
@@ -343,7 +343,7 @@ Apply
     
     3 sizes
     
-    3688 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
+    3686 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
     
     Regular price
     
@@ -369,7 +369,7 @@ Apply
     
     3 sizes
     
-    3688 total reviews
+    3686 total reviews
     
 * On sale
     
@@ -399,7 +399,7 @@ Apply
     
     3 sizes
     
-    3317 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    3313 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
     
     Regular price
     
@@ -423,7 +423,7 @@ Apply
     
     3 sizes
     
-    3317 total reviews
+    3313 total reviews
     
 * On sale
     
@@ -453,7 +453,7 @@ Apply
     
     3 sizes
     
-    3317 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3313 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -477,7 +477,7 @@ Apply
     
     3 sizes
     
-    3317 total reviews
+    3313 total reviews
     
 * On sale
     
@@ -505,7 +505,7 @@ Apply
     
     in your cart
     
-    1308 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
+    1306 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
     
     Regular price
     
@@ -527,7 +527,7 @@ Apply
     
     in your cart
     
-    1308 total reviews
+    1306 total reviews
     
 * On sale
     
@@ -537,15 +537,15 @@ Apply
     
     [Regular price
     
-    $34.99
+    $29.99
     
     Regular price
     
-    ~$39.99~
+    ~$35.00~
     
     Sale price
     
-    $34.99 Save $5.00 (12%)
+    $29.99 Save $5.01 (14%)
     
     Unit price
     
@@ -559,15 +559,15 @@ Apply
     
     Regular price
     
-    $34.99
+    $29.99
     
     Regular price
     
-    ~$39.99~
+    ~$35.00~
     
     Sale price
     
-    $34.99 Save $5.00 (12%)
+    $29.99 Save $5.01 (14%)
     
     Unit price
     
@@ -687,7 +687,7 @@ Apply
     
     2 total reviews
     
-* Sold out
+* On sale
     
     [![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents](//www.alphapaw.com/cdn/shop/files/3_2091e318-3a42-47b4-8381-e19821019c9d_533x.png?v=1712597247)
     
