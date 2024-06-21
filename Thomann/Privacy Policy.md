@@ -20,8 +20,8 @@ Get your deals](https://www.thomann.de/gb/social_70th-anniversary.html)
 
 search  
 
-* [Repair Service](https://www.thomann.de/gb/helpdesk_repair.html)
-* [30-Days Money-Back](https://www.thomann.de/gb/helpdesk_moneyback.html)
+* [3-Year Thomann Warranty](https://www.thomann.de/gb/helpdesk_warranty.html)
+* [Free Shipping Over £149](https://www.thomann.de/gb/helpdesk_shipping.html)
 
 en · £
 
