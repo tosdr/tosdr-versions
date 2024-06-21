@@ -6,7 +6,7 @@ Platform
 
 Create
 
-[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[1-Click Translations](https://www.synthesia.io/features/video-translator)[Video Editing](https://www.synthesia.io/features#video-editing-section)[Video Templates](https://www.synthesia.io/examples)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)
+[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[Video Editing](https://www.synthesia.io/features#video-editing-section)[Video Templates](https://www.synthesia.io/examples)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)
 
 Collaborate
 
@@ -14,7 +14,7 @@ Collaborate
 
 Share
 
-[Video Player](https://www.synthesia.io/features#video-player-section)[Smart Updates](https://www.synthesia.io/features#video-player-section)[Analytics](https://www.synthesia.io/features#video-player-section)
+[Video Player](https://www.synthesia.io/features#video-player-section)[1-Click Translations](https://www.synthesia.io/features/video-translator)[Smart Updates](https://www.synthesia.io/features#video-player-section)[Analytics](https://www.synthesia.io/features#video-player-section)
 
 [Create free AI video](https://www.synthesia.io/#free-ai-video)
 
@@ -395,7 +395,7 @@ Create an account and get started using Synthesia, with full access to all 160+ 
 
 [Get started](https://www.synthesia.io/pricing)[Book demo](https://www.synthesia.io/book-a-demo)
 
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcf723e2c852cb78fdee4_pre-footer-poster.webp "Your browser does not support the <video> tag")
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcf723e2c852cb78fdee4_pre-footer-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcf723e2c852cb78fdee4_pre-footer-poster.webp "Your browser does not support the <video> tag")
 
 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664dcc411a2d0ca4bc35929b_prefooter-UI.webp)
 
@@ -427,7 +427,7 @@ Company
 
 [About Us](https://www.synthesia.io/about)[Ethics Guidelines](https://www.synthesia.io/ethics)[AI Research](https://www.synthesia.io/research)[Jobs
 
-Hiring](https://www.synthesia.io/careers)[Press](mailto:press@synthesia.io)[Security](https://security.synthesia.io/)[Legal](https://www.synthesia.io/legal)[Contact Sales](https://help.synthesia.io/en/articles/7182166-how-to-contact-us#h_105ad09a88)[Affiliates](https://www.synthesia.io/partners)
+Hiring](https://www.synthesia.io/careers)[Newsroom](https://www.synthesia.io/newsroom)[Security](https://security.synthesia.io/)[Legal](https://www.synthesia.io/legal)[Contact Sales](https://help.synthesia.io/en/articles/7182166-how-to-contact-us#h_105ad09a88)[Affiliates](https://www.synthesia.io/partners)
 
 © 2024 Synthesia Limited. All rights reserved.
 
