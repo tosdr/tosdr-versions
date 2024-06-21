@@ -45,6 +45,11 @@ Skip links
     
     Please use the following form for media requests and the appropriate staff with respond.](https://texasgop.org/media-requests/)
     
+    [Press releases](https://texasgop.org/category/press-releases/)
+    
+    [2024 Rules and Voting Results Released](https://texasgop.org/2024-rules-and-voting-results-released/)
+    ------------------------------------------------------------------------------------------------------
+    
     [News](https://texasgop.org/category/news/)
     
     [2024 Primary Runoff Canvass](https://texasgop.org/2024-primary-runoff-canvass/)
@@ -54,11 +59,6 @@ Skip links
     
     [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
     -------------------------------------------------------------------------------------------------------------------
-    
-    [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/)
-    
-    [Republican Party of Texas Advances Rule to Close Primaries](https://texasgop.org/rule-closed-primaries/)
-    ---------------------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
@@ -87,6 +87,10 @@ Skip links
     [### Candidate Resource Committee
     
     The Candidate Recruitment Committee (CRC) supports Republicans in local-level races, including County Judge and more.](https://texasgop.org/crc/)
+    
+    [### Protect the Vote
+    
+    Sign up to help us protect the vote in 2024](https://protectthevote.com/)
     
     ###### Contact Us for Latest Updates
     
@@ -141,6 +145,7 @@ X
     * [Republican Primary Ballot Propositions](https://texasgop.org/republican-primary-ballot-proposition/)
     * [Data Tools](https://texasgop.org/data-tools/)
     * [Candidate Resource Committee](https://texasgop.org/crc/)
+    * [Protect the Vote](https://protectthevote.com/)
 * [#TXLege](#)
     * [#txlege](https://texasgop.org/priorities/)
     * [88th LP Bill List](https://texasgop.org/88lp-bill-list/)
@@ -172,6 +177,7 @@ X
     * [Republican Primary Ballot Propositions](https://texasgop.org/republican-primary-ballot-proposition/)
     * [Data Tools](https://texasgop.org/data-tools/)
     * [Candidate Resource Committee](https://texasgop.org/crc/)
+    * [Protect the Vote](https://protectthevote.com/)
 * [#TXLege](#)
     * [#txlege](https://texasgop.org/priorities/)
     * [88th LP Bill List](https://texasgop.org/88lp-bill-list/)
