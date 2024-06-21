@@ -1209,7 +1209,7 @@ Follow Verizon Careers
 
 * [twitter](https://twitter.com/VerizonCareers "Opens New Window")
 * [instagram](https://www.instagram.com/verizoncareers/ "Opens New Window")
-* [![linkedln](https://www.verizon.com/content/dam/verizon/business/vbm/images/linkedln.jpeg)](https://www.linkedin.com/company/verizon/ "Opens New Window")
+* [linkedin](https://www.linkedin.com/company/verizon/ "Opens New Window")
 
 Follow Customer Support
 
