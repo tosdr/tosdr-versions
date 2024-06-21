@@ -124,7 +124,7 @@ Vivaldi hjálparsíður
 * [Spjallborð](https://forum.vivaldi.net/)
 * [Þemu](https://themes.vivaldi.net/)
 * [Social](https://social.vivaldi.net/)
-* [Styrkja](https://vivaldi.com/is/contribute/)
+* [Styrkja](https://vivaldi.net/contribute/)
 * [Vörur](https://store.vivaldi.com/)
 * [Borðar](https://vivaldi.com/is/banners/)
 
