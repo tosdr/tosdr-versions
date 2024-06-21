@@ -359,7 +359,7 @@ Still have questions?
 * * [Create events](https://www.eventbrite.com/organizer/overview/)
     * [Pricing](https://www.eventbrite.com/organizer/pricing/)
     * [Pricing Calculator](https://www.eventbrite.com/l/pricing-calculator/)
-    * [Content standards](https://www.eventbrite.com/l/contentstandards/)
+    * [Community Guidelines](https://www.eventbrite.com/l/community-guidelines/)
     * [Site status](https://www.eventbritestatus.com/)
 
 * ### Download apps
