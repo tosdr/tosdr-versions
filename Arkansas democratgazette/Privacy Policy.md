@@ -129,8 +129,8 @@ Arkansas Online Free ad criteria
 * [View the News](https://www.arkansasonline.com/)
 * [Contact Us](https://classifieds.arkansasonline.com/marketplace-littlerock/page/contactus.html)
 
-© 2022 Arkansas Democrat-Gazette, Inc  
+© 2024 Arkansas Democrat-Gazette, Inc  
 All Rights Reserved.  
 [Terms of Use](https://classifieds.arkansasonline.com/marketplace-littlerock/page/terms.html) / [Privacy Policy](https://classifieds.arkansasonline.com/marketplace-littlerock/page/privacy.html)
 
-[iPublish® Marketplace powered by iPublish® Media Solutions © Copyright 2022](http://www.ipublishmedia.com/)
+[iPublish® Marketplace powered by iPublish® Media Solutions © Copyright 2024](http://www.ipublishmedia.com/)
