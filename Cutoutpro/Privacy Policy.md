@@ -102,6 +102,6 @@ Support
 
 Make Money with Us
 
-[](https://www.linkedin.com/company/71070567/admin/)[](https://www.facebook.com/www.cutout.pro)[](https://www.youtube.com/channel/UChhpHp1lms-JFIFiZB8Ytxg)[](https://twitter.com/ai_picup/)[](https://www.instagram.com/cutout_pro/)
+[](https://www.linkedin.com/company/71070567/admin/)[](https://www.facebook.com/www.Libailab)[](https://www.youtube.com/channel/UChhpHp1lms-JFIFiZB8Ytxg)[](https://twitter.com/ai_picup/)[](https://www.instagram.com/cutout_pro/)
 
 © 2018- cutout.pro
