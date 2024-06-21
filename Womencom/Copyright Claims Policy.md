@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![woman in bathing suit](https://www.women.com/img/gallery/dirty-martini-swimsuits-will-keep-you-on-trend-for-summer-2024/intro-1718381212.jpg)](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
+*  [![Woman using Vaseline ](https://www.women.com/img/gallery/does-vaseline-really-help-with-nail-growth-heres-the-deal/intro-1718660637.jpg)](https://www.women.com/1604807/does-vaseline-really-help-nail-growth-heres-deal/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
     
-    [Dirty Martini Swimsuits Will Keep You On-Trend For Summer 2024](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
-    =========================================================================================================================================
+    [Does Vaseline Really Help With Nail Growth? Here's The Deal](https://www.women.com/1604807/does-vaseline-really-help-nail-growth-heres-deal/)
+    ==============================================================================================================================================
     
-    This summer, we're shaking (and stirring) things up with olive green bikinis and one-pieces. Learn more about the martini-inspired trend.
+    Vaseline is known for its ability to deliver a surge of moisture to your hands. However, the jury may still be out on whether it can actually grow nails.
     
-    By Amanda Chatel [Read More](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
+    By Bernadette Roe [Read More](https://www.women.com/1604807/does-vaseline-really-help-nail-growth-heres-deal/)
     
-* *  [![Mindy Kaling](https://www.women.com/img/gallery/everything-mindy-kaling-has-said-about-her-weight-loss-journey/intro-1718391427.jpg)](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+* *  [![woman in bathing suit](https://www.women.com/img/gallery/dirty-martini-swimsuits-will-keep-you-on-trend-for-summer-2024/intro-1718381212.jpg)](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
         
-        [Wellness](https://www.women.com/category/wellness/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [Everything Mindy Kaling Has Said About Her Weight Loss Journey](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+        ### [Dirty Martini Swimsuits Will Keep You On-Trend For Summer 2024](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
         
-        Mindy Kaling's body acceptance has nothing to do with size, but everything to do with health and self-love.
+        This summer, we're shaking (and stirring) things up with olive green bikinis and one-pieces. Learn more about the martini-inspired trend.
         
-        By Amanda Chatel [Read More](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+        By Amanda Chatel [Read More](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
         
     *  [![Sasha Obama with a neutral expression](https://www.women.com/img/gallery/5-times-sasha-obamas-fashion-was-unfairly-criticized/intro-1718636822.jpg)](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
         
@@ -82,17 +82,17 @@
 More Stories
 ------------
 
-*  [![Mindy Kaling](https://www.women.com/img/gallery/everything-mindy-kaling-has-said-about-her-weight-loss-journey/intro-1718391427.jpg)](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+*  [![woman in bathing suit](https://www.women.com/img/gallery/dirty-martini-swimsuits-will-keep-you-on-trend-for-summer-2024/intro-1718381212.jpg)](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    ### [Everything Mindy Kaling Has Said About Her Weight Loss Journey](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    ### [Dirty Martini Swimsuits Will Keep You On-Trend For Summer 2024](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
     
-    Mindy Kaling's body acceptance has nothing to do with size, but everything to do with health and self-love.
+    This summer, we're shaking (and stirring) things up with olive green bikinis and one-pieces. Learn more about the martini-inspired trend.
     
-    By Amanda Chatel [Read More](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    By Amanda Chatel [Read More](https://www.women.com/1603001/dirty-martini-swimsuit-trend-summer-2024/)
     
 *  [![Sasha Obama with a neutral expression](https://www.women.com/img/gallery/5-times-sasha-obamas-fashion-was-unfairly-criticized/intro-1718636822.jpg)](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
     
@@ -105,6 +105,66 @@ More Stories
     Sasha Obama has never tried to be a fashionista, but that hasn't stopped the public from making cruel statements about her sartorial choices.
     
     By Emily Hutchinson [Read More](https://www.women.com/1604314/times-sasha-obama-fashion-unfairly-criticized/)
+    
+*  [![Nicole Kidman at an event ](https://www.women.com/img/gallery/nicole-kidmans-most-stunning-hair-looks/intro-1718664609.jpg)](https://www.women.com/1604856/nicole-kidman-most-stunning-hair-looks/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [Nicole Kidman's Most Stunning Hair Looks](https://www.women.com/1604856/nicole-kidman-most-stunning-hair-looks/)
+    
+    From red-headed ringlets to the icy blond bob, Nicole Kidman has given us countless hair inspo through the years. Here are some of the most iconic.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1604856/nicole-kidman-most-stunning-hair-looks/)
+    
+*  [![Nicole Kidman](https://www.women.com/img/gallery/nicole-kidmans-post-divorce-style-transformation-is-a-glow-up-for-the-ages/intro-1718823922.jpg)](https://www.women.com/1606189/nicole-kidman-post-divorce-style-transformation-glow-up/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Nicole Kidman's Post-Divorce Style Transformation Is A Glow-Up For The Ages](https://www.women.com/1606189/nicole-kidman-post-divorce-style-transformation-glow-up/)
+    
+    Whether you're going through a divorce or are on the other side of one, that experience will transform you in ways you couldn't have imagined.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1606189/nicole-kidman-post-divorce-style-transformation-glow-up/)
+    
+*  [![Penelope Featherington](https://www.women.com/img/gallery/bridgerton-hair-how-to-recreate-nicola-coughlans-stunning-loose-curls/intro-1718633579.jpg)](https://www.women.com/1604204/bridgerton-hair-recreate-nicola-coughlan-loose-curls/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Bridgerton Hair: How To Recreate Nicola Coughlan's Stunning Loose Curls](https://www.women.com/1604204/bridgerton-hair-recreate-nicola-coughlan-loose-curls/)
+    
+    If you, like so many others, have been wanting to recreate those stunning Bridgerton curls, you absolutely can. You just need the right tools.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1604204/bridgerton-hair-recreate-nicola-coughlan-loose-curls/)
+    
+*  [![Boudoir photography](https://www.women.com/img/gallery/use-boudoir-photos-to-jumpstart-your-sex-drive-and-your-connection-to-your-partner/intro-1718392877.jpg)](https://www.women.com/1603243/boudoir-photos-jumpstart-sex-drive-connection-partner/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [Use Boudoir Photos To Jumpstart Your Sex Drive (And Your Connection To Your Partner)](https://www.women.com/1603243/boudoir-photos-jumpstart-sex-drive-connection-partner/)
+    
+    Setting up a boudoir photography session may not be the most conventional way to keep things hot and heavy with your partner, but it works.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1603243/boudoir-photos-jumpstart-sex-drive-connection-partner/)
+    
+*  [![Mindy Kaling](https://www.women.com/img/gallery/everything-mindy-kaling-has-said-about-her-weight-loss-journey/intro-1718391427.jpg)](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [Everything Mindy Kaling Has Said About Her Weight Loss Journey](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
+    
+    Mindy Kaling's body acceptance has nothing to do with size, but everything to do with health and self-love.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1603211/everything-mindy-kaling-said-weight-loss-journey/)
     
 *  [![Lesbians watching tv](https://www.women.com/img/gallery/the-secret-to-improving-your-sex-life-that-youve-never-heard-of/intro-1718311471.jpg)](https://www.women.com/1602529/secret-improving-sex-life-never-heard-of/)
     
@@ -369,66 +429,6 @@ More Stories
     Traditional intimacy can be great, but taking advantage of more opportunities can crank your sex life up a notch.
     
     By Bernadette Roe [Read More](https://www.women.com/1595006/bite-sized-sex-change-perspective-intimacy/)
-    
-*  [![Butterfly nails](https://www.women.com/img/gallery/5-whimsical-ways-to-hop-on-the-butterfly-nail-trend/intro-1717443612.jpg)](https://www.women.com/1594928/whimsical-ways-hop-on-butterfly-nail-trend/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [5 Whimsical Ways To Hop On The Butterfly Nail Trend](https://www.women.com/1594928/whimsical-ways-hop-on-butterfly-nail-trend/)
-    
-    There are countless ways to add some fluttering goodness to your nails. To start, all you need is to like butterflies.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1594928/whimsical-ways-hop-on-butterfly-nail-trend/)
-    
-*  [![Gwen Stefani performing](https://www.women.com/img/gallery/times-gwen-stefani-went-makeup-free-and-looked-flawless/intro-1717105781.jpg)](https://www.women.com/1592909/times-gwen-stefani-went-makeup-free-looked-flawless/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Times Gwen Stefani Went Makeup Free And Looked Flawless](https://www.women.com/1592909/times-gwen-stefani-went-makeup-free-looked-flawless/)
-    
-    Gwen Stefani may be known for her old-Hollywood style bombshell glam, but the singer is just as stunning when bare-faced. We've got the pics to prove it.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1592909/times-gwen-stefani-went-makeup-free-looked-flawless/)
-    
-*  [![taylor swift](https://www.women.com/img/gallery/outdated-trends-taylor-swift-has-been-caught-wearing/intro-1713895942.jpg)](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Outdated Trends Taylor Swift Has Been Caught Wearing](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
-    
-    Taylor Swift has a reputation for keeping her looks pretty current, but on occasion, she's been known to stick with a trend longer than she should.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1577703/outdated-trends-taylor-swift-caught-wearing/)
-    
-*  [![lesbians embracing in bed](https://www.women.com/img/gallery/6-of-the-steamiest-lgbtq-sex-scenes-of-the-last-decade/intro-1717178361.jpg)](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [5 Of The Steamiest LGBTQ+ Sex Scenes Of The Last Decade](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
-    
-    Since 2014, LGBTQ+ sex scenes in movies have seriously stepped up their game. We compiled a list of the best ones to watch this Pride month and beyond.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1593529/steamiest-lgbtq-sex-scenes-film/)
-    
-*  [![Beach nails](https://www.women.com/img/gallery/5-beachy-nail-designs-for-the-perfect-summer-2024-mani/intro-1717188794.jpg)](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [5 Beachy Nail Designs For The Perfect Summer 2024 Mani](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
-    
-    Looking for the perfect vacation nails? Embrace the relaxing vibes of the summer with these beachy manicure ideas.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1594898/beachy-nail-designs-summer-2024/)
     
 
 Back
