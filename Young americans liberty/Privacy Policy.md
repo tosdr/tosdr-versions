@@ -287,7 +287,6 @@ Except as expressly provided in a particular “legal notice” on the Site, the
 
 [Privacy Policy](https://yaliberty.org/privacy-policy/)  
 [Terms and Conditions](https://yaliberty.org/terms-and-conditions/)  
-[Contact Us](mailto:contact@yaliberty.org)  
 [Jobs](https://yaliberty.isolvedhire.com/jobs/)  
 [Media](https://yaliberty.org/media/)  
 [Store](https://yaliberty.org/store/)
