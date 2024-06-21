@@ -6,21 +6,23 @@
 
 Current leagues
 
-[![](https://s2watch.me/images/iceland-besta-deild.png)Besta deild karla](#league_besta_deild karla:iceland:football)
+[![](https://s2watch.me/images/AFL.png)AFL](#league_afl:australia:aussie-rules)
 
-[![](https://s2watch.me/images/canadian-premier-league.png)Canadian Premier League](#league_canadian_premier league:canada:football)
+[![](https://sporthd.me/images/AHL.png)AHL](#league_ahl:usa:ice-hockey)
 
-[![](https://s2watch.me/images/MLS.png)MLS](#league_mls:usa:football)
+[![](https://sporthd.me/images/European Darts.png)European Darts](#league_european_darts)
 
-[![](https://s2watch.me/images/NWSL.png)NWSL](#league_nwsl:usa:football)
+[![](https://sporthd.me/images/formula-1.png)Formula 1](#league_formula_1:spain:motorsport)
+
+[![](https://s2watch.me/images/top-14.png)France - Top 14](#league_france_- top 14:rugby union:rugby)
+
+[![](https://s2watch.me/images/nrl.png)NRL](#league_nrl:rugby_league:rugby)
+
+[![](https://sporthd.me/images/pfl.png)PFL](#league_pfl:united_states:ufc)
 
 [![](https://s2watch.me/images/rugby-super-league.png)Super League](#league_super_league:rugby league:rugby)
 
-[![](https://sporthd.me/images/U20 World Championship, Women.png)U20 World Championship, Women](#league_u20_world championship, women:international youth:handball)
-
 [![](https://sporthd.me/images/euro2024.webp)UEFA Euro](#league_uefa_euro:europe:football)
-
-[![](https://s2watch.me/images/WNBA.png)WNBA](#league_wnba:usa:basketball)
 
 Chat
 
@@ -28,93 +30,113 @@ User saves
 
 AllLiveUpcoming
 
-June 19th, 2024
+June 21st, 2024
 
 • Etc/GMT-12
 
-![](https://s2watch.me/images/iceland-besta-deild.png)
+![](https://s2watch.me/images/AFL.png)
 
-Besta deild karla
+AFL
+
+4 matches
+
+•
+
+Australia
+
+![](https://api.sofascore1.com/api/v1/team/4446/image)
+
+Carlton Blues
+
+Geelong Cats
+
+![](https://api.sofascore1.com/api/v1/team/4443/image)
+
+![](https://api.sofascore1.com/api/v1/team/4457/image)
+
+Port Adelaide Power
+
+Brisbane Lions
+
+![](https://api.sofascore1.com/api/v1/team/4444/image)
+
+![](https://api.sofascore1.com/api/v1/team/4456/image)
+
+Melbourne Demons
+
+North Melbourne
+
+![](https://api.sofascore1.com/api/v1/team/4454/image)
+
+![](https://api.sofascore1.com/api/v1/team/60170/image)
+
+GWS Giants
+
+Sydney Swans
+
+![](https://api.sofascore1.com/api/v1/team/4447/image)
+
+![](https://sporthd.me/images/AHL.png)
+
+AHL
 
 1 matches
 
 •
 
-Iceland
+USA
 
-![](https://api.sofascore1.com/api/v1/team/1901/image)
+![](https://api.sofascore1.com/api/v1/team/424008/image)
 
-Breidablik Kópavogur
+Coachella Valley Firebirds
 
-KA Akureyri
+Hershey Bears
 
-![](https://api.sofascore1.com/api/v1/team/1904/image)
+![](https://api.sofascore1.com/api/v1/team/45163/image)
 
-![](https://s2watch.me/images/canadian-premier-league.png)
+![](https://sporthd.me/images/European Darts.png)
 
-Canadian Premier League
+European Darts
 
 1 matches
 
-•
+European Darts
 
-Canada
+![](https://sporthd.me/images/formula-1.png)
 
-![](https://api.sofascore1.com/api/v1/team/309890/image)
-
-York United FC
-
-Pacific FC
-
-![](https://api.sofascore1.com/api/v1/team/309888/image)
-
-![](https://s2watch.me/images/MLS.png)
-
-MLS
+Formula 1
 
 2 matches
 
 •
 
-USA
+Spain
 
-![](https://api.sofascore1.com/api/v1/team/215167/image)
+Spanish Grand Prix
 
-FC Cincinnati
+Spanish Grand Prix
 
-Philadelphia Union
+![](https://s2watch.me/images/top-14.png)
 
-![](https://api.sofascore1.com/api/v1/team/39833/image)
-
-![](https://api.sofascore1.com/api/v1/team/22006/image)
-
-CF Montréal
-
-New York Red Bulls
-
-![](https://api.sofascore1.com/api/v1/team/2506/image)
-
-![](https://s2watch.me/images/NWSL.png)
-
-NWSL
+France - Top 14
 
 1 matches
 
 •
 
-USA
+Rugby Union
 
-![](https://api.sofascore1.com/api/v1/team/408169/image)
+![](https://api.sofascore1.com/api/v1/team/4217/image)
 
-Angel City FC
+Stade Toulousain
 
-Racing Louisville
+Stade Rochelais
 
-![](https://api.sofascore1.com/api/v1/team/377825/image)
+![](https://api.sofascore1.com/api/v1/team/43847/image)
 
-![](https://s2watch.me/images/rugby-super-league.png)
+![](https://s2watch.me/images/nrl.png)
 
-Super League
+NRL
 
 1 matches
 
@@ -122,39 +144,51 @@ Super League
 
 Rugby League
 
-![](https://api.sofascore1.com/api/v1/team/4274/image)
+![](https://api.sofascore1.com/api/v1/team/465010/image)
 
-Castleford Tigers
+Dolphins
 
-Hull Kingston Rovers
+Melbourne Storm
 
-![](https://api.sofascore1.com/api/v1/team/4246/image)
+![](https://api.sofascore1.com/api/v1/team/4255/image)
 
-![](https://sporthd.me/images/U20 World Championship, Women.png)
+![](https://sporthd.me/images/pfl.png)
 
-U20 World Championship, Women
+PFL
+
+1 matches
+
+•
+
+United States
+
+PFL Week 5
+
+![](https://s2watch.me/images/rugby-super-league.png)
+
+Super League
 
 2 matches
 
 •
 
-International Youth
+Rugby League
 
-![](https://api.sofascore1.com/api/v1/team/73933/image)
+![](https://api.sofascore1.com/api/v1/team/4233/image)
 
-Netherlands U20
+Wigan Warriors
 
-Iran U20
+London Broncos
 
-![](https://api.sofascore1.com/api/v1/team/419393/image)
+![](https://api.sofascore1.com/api/v1/team/4269/image)
 
-![](https://api.sofascore1.com/api/v1/team/150272/image)
+![](https://api.sofascore1.com/api/v1/team/4268/image)
 
-Portugal U20
+Leeds Rhinos
 
-Guinea U20
+Leigh Leopards
 
-![](https://api.sofascore1.com/api/v1/team/419394/image)
+![](https://api.sofascore1.com/api/v1/team/4235/image)
 
 ![](https://sporthd.me/images/euro2024.webp)
 
@@ -166,101 +200,53 @@ UEFA Euro
 
 Europe
 
-![](https://sporthd.me/images/Croatia.png)
+![](https://sporthd.me/images/Slovakia.png)
 
-Croatia
+Slovakia
 
-Albania
+Ukraine
 
-![](https://sporthd.me/images/Albania.png)
+![](https://sporthd.me/images/Ukraine.png)
 
-[🔥](https://1.livesoccer.sx/trending "Trending")
+![](https://sporthd.me/images/poland.png)
 
-![](https://sporthd.me/images/Germany.png)
+Poland
 
-Germany
+Austria
 
-Hungary
+![](https://sporthd.me/images/Austria.png)
 
-![](https://sporthd.me/images/Hungary.png)
+![](https://sporthd.me/images/Netherlands.png)
 
-[🔥](https://1.livesoccer.sx/trending "Trending")
+Netherlands
 
-![](https://sporthd.me/images/Scotland.png)
+France
 
-Scotland
+![](https://sporthd.me/images/France.png)
 
-Switzerland
+![](https://sporthd.me/images/Georgia.png)
 
-![](https://sporthd.me/images/Switzerland.png)
+Georgia
 
-[🔥](https://1.livesoccer.sx/trending "Trending")
+Czech Republic
 
-![](https://sporthd.me/images/Slovenia.png)
+![](https://sporthd.me/images/Czech Republic.png)
 
-Slovenia
+![](https://sporthd.me/images/Turkey.png)
 
-Serbia
+Turkey
 
-![](https://sporthd.me/images/Serbia.png)
+Portugal
 
-![](https://sporthd.me/images/Denmark.png)
+![](https://sporthd.me/images/Portugal.png)
 
-Denmark
+![](https://sporthd.me/images/Belgium.png)
 
-England
+Belgium
 
-![](https://sporthd.me/images/England.png)
+Romania
 
-![](https://sporthd.me/images/Spain.png)
-
-Spain
-
-Italy
-
-![](https://sporthd.me/images/Italy.png)
-
-![](https://s2watch.me/images/WNBA.png)
-
-WNBA
-
-4 matches
-
-•
-
-USA
-
-![](https://api.sofascore1.com/api/v1/team/3452/image)
-
-Indiana Fever
-
-Washington Mystics
-
-![](https://api.sofascore1.com/api/v1/team/3454/image)
-
-![](https://api.sofascore1.com/api/v1/team/3440/image)
-
-Minnesota Lynx
-
-Atlanta Dream
-
-![](https://api.sofascore1.com/api/v1/team/35545/image)
-
-![](https://api.sofascore1.com/api/v1/team/35550/image)
-
-Las Vegas Aces
-
-Seattle Storm
-
-![](https://api.sofascore1.com/api/v1/team/3448/image)
-
-![](https://api.sofascore1.com/api/v1/team/35546/image)
-
-Chicago Sky
-
-Dallas Wings
-
-![](https://api.sofascore1.com/api/v1/team/3450/image)
+![](https://sporthd.me/images/Romania.png)
 
 * * *
 
