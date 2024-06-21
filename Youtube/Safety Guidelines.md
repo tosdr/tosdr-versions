@@ -186,9 +186,9 @@ More examples
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
+If your content violates this policy, we will remove the content and send you an email to let you know. If we can’t verify that a link you post is safe, we may remove the link. Note that violative URLs posted within the video itself or in the video’s metadata may result in the video being removed.
 
-If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
+If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the chance to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning.
 
 If you get 3 strikes within 90 days, your channel will be terminated. [Learn more about our strikes system](https://support.google.com/youtube/answer/2802032).
 
@@ -248,7 +248,7 @@ Google apps
 
 Main menu
 
-926499182884541340
+17996690078762980791
 
 true
 
