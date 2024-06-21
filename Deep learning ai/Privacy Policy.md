@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [Building Your Own Database Agent](https://bit.ly/3X6movU)
+🌟 New Course! Enroll in [Function-calling and Data Extraction With LLMs](https://bit.ly/3RrUzKT)
 
 [](https://www.deeplearning.ai/)
 
