@@ -381,7 +381,7 @@ If you have any questions about these Terms of Use, You can contact us by email 
 
 [](https://www.facebook.com/AllSidesNow "Like us on Facebook")[](https://twitter.com/AllSidesNow "Follow us on Twitter")[](https://www.instagram.com/allsidesnow/ "Follow us on Instagram")[](https://www.tiktok.com/@allsidesnow "Follow us on TikTok")[](https://www.allsides.com/rss/news "Follow our RSS News Feed")
 
- [![Download on the App Store](https://www.allsides.com/sites/default/files/download-app-store.svg)](https://apps.apple.com/us/app/allsides-balanced-news/id1535521873?platform=iphone "Download the AllSides App on the App Store")[![Get it on Google Play](https://www.allsides.com/sites/default/files/download-google-play.svg)](https://play.google.com/store/apps/details?id=com.allsides&pcampaignid=web_share "Get it on Google Play")
+ [![Download on the App Store](https://www.allsides.com/sites/default/files/download-app-store.svg)](https://apps.apple.com/us/app/allsides-balanced-news/id1535521873?platform=iphone&utm_source=allsides-website&utm_content=footer-button "Download the AllSides App on the App Store")[![Get it on Google Play](https://www.allsides.com/sites/default/files/download-google-play.svg)](https://play.google.com/store/apps/details?id=com.allsides&pcampaignid=web_share&utm_source=allsides-website&utm_content=footer-button "Get it on Google Play")
 
 © AllSides
 
