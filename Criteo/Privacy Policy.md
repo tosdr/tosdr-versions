@@ -44,7 +44,7 @@ The ROAS Trap: Discover 11 metrics that prove the value of retail media beyond R
     * [Customer Retention Increase customer lifetime value from people who already know you](https://www.criteo.com/solutions/customer-retention/)
     * [Dynamic Retargeting Increase conversions from people who know you with personalized product ads](https://www.criteo.com/solutions/criteo-dynamic-retargeting/)
     * [Audiences Find and keep your next top customer with the largest commerce dataset](https://www.criteo.com/solutions/audiences/)
-    * [Video Advertising Drive discovery and engagement with CTV, OTT and online video](https://www.criteo.com/solutions/video-advertising/)
+    * [Video Advertising Drive discovery and engagement with online video](https://www.criteo.com/solutions/video-advertising/)
     * [Contextual Advertising Level up your targeting by combining commerce data and contextual data](https://www.criteo.com/solutions/contextual-advertising/)
     
     Retail Media
@@ -170,7 +170,7 @@ Search for:
     * [Customer Retention Increase customer lifetime value from people who already know you](https://www.criteo.com/solutions/customer-retention/)
     * [Dynamic Retargeting Increase conversions from people who know you with personalized product ads](https://www.criteo.com/solutions/criteo-dynamic-retargeting/)
     * [Audiences Find and keep your next top customer with the largest commerce dataset](https://www.criteo.com/solutions/audiences/)
-    * [Video Advertising Drive discovery and engagement with CTV, OTT and online video](https://www.criteo.com/solutions/video-advertising/)
+    * [Video Advertising Drive discovery and engagement with online video](https://www.criteo.com/solutions/video-advertising/)
     * [Contextual Advertising Level up your targeting by combining commerce data and contextual data](https://www.criteo.com/solutions/contextual-advertising/)
     
     Back
