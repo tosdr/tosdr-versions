@@ -220,12 +220,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -325,16 +324,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Traveling in crime-infested cities carries great risk for unwary visitors, residents in ... Salt Lake City?](https://www.fark.com/goto/13294472) ( [kutv.com](https://www.fark.com/goto/13294472) ) » [(0 comments)](https://www.fark.com/comments/13294472/Traveling-in-crime-infested-cities-carries-great-risk-for-unwary-visitors-residents-in-Salt-Lake-City) |
-| [Discussion](https://www.fark.com/discussion/) | [100 years ago, the most decorated WW2 soldier was born. Been to hell and back](https://www.fark.com/goto/13294560) ( [audiemurphy.com](https://www.fark.com/goto/13294560) ) » [(1 comment)](https://www.fark.com/comments/13294560/-100-years-ago-most-decorated-WW2-soldier-was-born-Been-to-hell-back) |
-| [Sports](https://www.fark.com/sports/) | [Better luck next time, Cancer](https://www.fark.com/goto/13294524) ( [nypost.com](https://www.fark.com/goto/13294524) ) » [(0 comments)](https://www.fark.com/comments/13294524/Better-luck-next-time-Cancer) |
-| [Business](https://www.fark.com/business/) | [Spaving: Where one saves money by spending more money, like those two-for-one sales for three-day old bread](https://www.fark.com/goto/13294476) ( [kutv.com](https://www.fark.com/goto/13294476) ) » [(3 comments)](https://www.fark.com/comments/13294476/Spaving-Where-one-saves-money-by-spending-more-money-like-those-two-for-one-sales-for-three-day-old-bread) |
-| [STEM](https://www.fark.com/stem/) | [Today's word jumble headline: "Josie Muscat: I 'never, never, never' discussed cyclotron with Vitals"](https://www.fark.com/goto/13294598) ( [timesofmalta.com](https://www.fark.com/goto/13294598) ) » [(1 comment)](https://www.fark.com/comments/13294598/Todays-word-jumble-headline-Josie-Muscat-I-never-never-never-discussed-cyclotron-with-Vitals) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The Beastmaster talks about working with Chuck Norris for the first time. No word on on how many bears or tigers were round housed kicked in the process](https://www.fark.com/goto/13294634) ( [youtube.com](https://www.fark.com/goto/13294634) ) » [(2 comments)](https://www.fark.com/comments/13294634/The-Beastmaster-talks-about-working-with-Chuck-Norris-for-first-time-No-word-on-on-how-many-bears-tigers-were-round-housed-kicked-in-process) |
-| [Fandom](https://www.fark.com/fandom/) | [Born to KLLL](https://www.fark.com/goto/13294512) ( [cinemablend.com](https://www.fark.com/goto/13294512) ) » [(10 comments)](https://www.fark.com/comments/13294512/Born-to-KLLL) |
-| [D'awww](https://www.fark.com/dawww/) | [O rly?](https://www.fark.com/goto/13293942) ( [wtnh.com](https://www.fark.com/goto/13293942) ) » [(7 comments)](https://www.fark.com/comments/13293942/O-rly) |
-| [Food](https://www.fark.com/food/) | [Oldest liquid wine ever discovered has light nose, significant legs and a full backbone](https://www.fark.com/goto/13294248) ( [theguardian.com](https://www.fark.com/goto/13294248) ) » [(21 comments)](https://www.fark.com/comments/13294248/Oldest-liquid-wine-ever-discovered-has-light-nose-significant-legs-a-full-backbone) |
-| [Politics](https://www.fark.com/politics/) | [Q: What is Vladimir Putin is afraid of? A: Everything](https://www.fark.com/goto/13294532) ( [kyivpost.com](https://www.fark.com/goto/13294532) ) » [(10 comments)](https://www.fark.com/comments/13294532/Q-What-is-Vladimir-Putin-is-afraid-of-A-Everything) |
+| [Main](https://www.fark.com/) | [23 pairs of twins graduate from same middle school. Mirror Maze to follow at prom](https://www.fark.com/goto/13296562) ( [msn.com](https://www.fark.com/goto/13296562) ) » [(2 comments)](https://www.fark.com/comments/13296562/-23-pairs-of-twins-graduate-from-same-middle-school-Mirror-Maze-to-follow-at-prom) |
+| [Discussion](https://www.fark.com/discussion/) | [And it's all your fault I screen my phone calls. No matter who calls I gotta screen the MSNBC Discussion Thread, live at 7:00 PM ET](https://www.fark.com/goto/13297034) ( [msnbc.com](https://www.fark.com/goto/13297034) ) » [(0 comments)](https://www.fark.com/comments/13297034/And-its-all-your-fault-I-screen-my-phone-calls-No-matter-who-calls-I-gotta-screen-MSNBC-Discussion-Thread-live-at-700-PM-ET) |
+| [Sports](https://www.fark.com/sports/) | [Meh: Jeff Fisher goes 8-8 again. Fark: it's AFL teams folded / teams still playing](https://www.fark.com/goto/13296834) ( [timesunion.com](https://www.fark.com/goto/13296834) ) » [(3 comments)](https://www.fark.com/comments/13296834/Meh-Jeff-Fisher-goes-8-8-again-Fark-its-AFL-teams-folded-teams-still-playing) |
+| [Business](https://www.fark.com/business/) | [Today in "I am Jack's complete lack of surprise": IRS warns vast majority of $86 billion in Employee Retention Credit claims are clearly erroneous or have unacceptable risk. How bootstrappy of those business owners](https://www.fark.com/goto/13296098) ( [apnews.com](https://www.fark.com/goto/13296098) ) » [(4 comments)](https://www.fark.com/comments/13296098/Today-in-I-am-Jacks-complete-lack-of-surprise-IRS-warns-vast-majority-of-$86-billion-in-Employee-Retention-Credit-claims-are-clearly-erroneous-have-unacceptable-risk-How-bootstrappy-of-those-business-owners) |
+| [STEM](https://www.fark.com/stem/) | [Gravitational waves carry much, much more energy than almost anyone realizes. Could they themselves possibly create a black hole?](https://www.fark.com/goto/13296538) ( [bigthink.com](https://www.fark.com/goto/13296538) ) » [(6 comments)](https://www.fark.com/comments/13296538/Gravitational-waves-carry-much-much-more-energy-than-almost-anyone-realizes-Could-they-themselves-possibly-create-a-black-hole) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Shatner speaks out - politely - about salmon net fishing](https://www.fark.com/goto/13296886) ( [youtube.com](https://www.fark.com/goto/13296886) ) » [(2 comments)](https://www.fark.com/comments/13296886/Shatner-speaks-out-politely-about-salmon-net-fishing) |
+| [Fandom](https://www.fark.com/fandom/) | [Game developers are clamoring for jobs. Then sauna man, a Polish game designer, offers them a job designing a sauna-related game, including naked sauna sessions, and they decline. Perhaps he spent too much time in the heat](https://www.fark.com/goto/13296902) ( [eurogamer.net](https://www.fark.com/goto/13296902) ) » [(8 comments)](https://www.fark.com/comments/13296902/Game-developers-are-clamoring-for-jobs-Then-sauna-man-a-Polish-game-designer-offers-them-a-job-designing-a-sauna-related-game-including-naked-sauna-sessions-they-decline-Perhaps-he-spent-too-much-time-in-heat) |
+| [D'awww](https://www.fark.com/dawww/) | [Perhaps Diesel should be renamed Diarzan after running away from home in 2019 and only recently been spotted living with a herd of wild elk. The owner has been notified, but they letting him live his best life out on the range](https://www.fark.com/goto/13295626) ( [cnn.com](https://www.fark.com/goto/13295626) ) » [(8 comments)](https://www.fark.com/comments/13295626/Perhaps-Diesel-should-be-renamed-Diarzan-after-running-away-from-home-in-2019-only-recently-been-spotted-living-with-a-herd-of-wild-elk-The-owner-has-been-notified-but-they-letting-him-live-his-best-life-out-on-range) |
+| [Food](https://www.fark.com/food/) | [Shatner speaks out - politely - about salmon net fishing](https://www.fark.com/goto/13296886) ( [youtube.com](https://www.fark.com/goto/13296886) ) » [(2 comments)](https://www.fark.com/comments/13296886/Shatner-speaks-out-politely-about-salmon-net-fishing) |
+| [Politics](https://www.fark.com/politics/) | [GOP to push early and mail-in voting, because when they do it it's fine](https://www.fark.com/goto/13296022) ( [cbsnews.com](https://www.fark.com/goto/13296022) ) » [(3 comments)](https://www.fark.com/comments/13296022/GOP-to-push-early-mail-in-voting-because-when-they-do-it-its-fine) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -344,7 +343,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 20 2024 05:42:23  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 21 2024 18:43:36  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
