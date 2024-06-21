@@ -93,7 +93,7 @@
         Learn
         -----
         
-        [Documentation](https://www.sanity.io/docs)[Studio API Reference](https://www.sanity.io/docs/reference/api/sanity)[API reference](https://www.sanity.io/docs/reference)[Guides](https://www.sanity.io/guides)[GROQ cheat sheet](https://www.sanity.io/docs/query-cheat-sheet)[Sanity UI](https://www.sanity.io/ui)
+        [Documentation](https://www.sanity.io/docs)[Courses](https://www.sanity.io/learn?ref=navbar)[Guides](https://www.sanity.io/guides)[API reference](https://www.sanity.io/docs/reference)[Sanity UI](https://www.sanity.io/ui)[GROQ cheat sheet](https://www.sanity.io/docs/query-cheat-sheet)
         
         [Get started](https://www.sanity.io/get-started?ref=navbar-dev)
         
