@@ -814,14 +814,8 @@ Read more ↓
 * [Latest Jobs](https://simplify.jobs/latest-jobs)
 * [Latest Companies](https://simplify.jobs/companies-list)
 
-* [TikTok link![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![TikTok link](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![TikTok link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftiktok.png&w=64&q=100)](https://www.tiktok.com/@joinsimplify)
-* [LinkedIn link![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![LinkedIn link](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![LinkedIn link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Flinkedin.png&w=64&q=100)](https://www.linkedin.com/company/simplifyjobs/)
-* [Twitter link![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2728%27%20height=%2728%27/%3e)![Twitter link](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Twitter link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftwitter.png&w=64&q=100)](https://twitter.com/joinsimplify/)
+* [TikTok link![TikTok link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftiktok.png&w=64&q=100)](https://www.tiktok.com/@joinsimplify)
+* [LinkedIn link![LinkedIn link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Flinkedin.png&w=64&q=100)](https://www.linkedin.com/company/simplifyjobs/)
+* [Twitter link![Twitter link](/_next/image?url=%2Fimages%2Flanding%2Fsocial%2Ftwitter.png&w=64&q=100)](https://twitter.com/joinsimplify/)
 
 © 2024 Simplify. All rights reserved.
