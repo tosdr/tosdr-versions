@@ -117,9 +117,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [REFIT and Reseal: Why the EU Must Uphold the Ban on Trade in Seal Products](https://www.euractiv.com/section/agriculture-food/opinion/refit-and-reseal-why-the-eu-must-uphold-the-ban-on-trade-in-seal-products/)
     * [As Russia shifts from gas exports to fertilizers, it is time for the EU to act](https://www.euractiv.com/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/)
     * [Why Europe needs to rethink its pesticide classifications](https://www.euractiv.com/section/agriculture-food/opinion/why-europe-needs-to-rethink-its-pesticide-classifications/)
-    * [Bold policymaking is vital for transforming Europe’s food system](https://www.euractiv.com/section/agriculture-food/opinion/bold-policymaking-is-vital-for-transforming-europes-food-system/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -206,9 +206,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [The Hidden Key to Sustainable Buildings](https://www.euractiv.com/section/energy-environment/opinion/the-hidden-key-to-sustainable-buildings/)
     * [Charting the Path to Climate Neutrality and Energy Resilience](https://www.euractiv.com/section/energy-environment/opinion/charting-the-path-to-climate-neutrality-and-energy-resilience/)
     * [The New Council Conclusion on the 8th EAP: A new step towards a Water-Smart Strategy](https://www.euractiv.com/section/energy-environment/opinion/the-new-council-conclusion-on-the-8th-eap-a-new-step-towards-a-water-smart-strategy/)
-    * [Harnessing biosolutions for a sustainable and prosperous future: A call to action for the new European Parliament and upcoming Commission](https://www.euractiv.com/section/energy-environment/opinion/harnessing-biosolutions-for-a-sustainable-and-prosperous-future-a-call-to-action-for-the-new-european-parliament-and-upcoming-commission/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -970,13 +970,13 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * 1[As Russia shifts from gas exports to fertilizers, it is time for the EU to act](http://en.euractiv.eu/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/?utm_source=website&utm_campaign=popular)
 * 2[EU countries rubberstamp Nature Restoration Law after months of deadlock](http://en.euractiv.eu/section/agriculture-food/news/breaking-eu-countries-rubberstamp-nature-restoration-law-after-months-of-deadlock/?utm_source=website&utm_campaign=popular)
 * 3[EU 'not worried' as China probes bloc's pork imports](http://en.euractiv.eu/section/agriculture-food/news/eu-not-worried-as-china-probes-blocs-pork-imports/?utm_source=website&utm_campaign=popular)
-* 4[UK polls point to 'electoral extinction' for Prime Minister Sunak's Conservatives](http://en.euractiv.eu/section/uk-europe/news/uk-polls-point-to-electoral-extinction-for-prime-minister-sunaks-conservatives/?utm_source=website&utm_campaign=popular)
+* 4[China tells US it would prevail in a Taiwan conflict without using nukes](http://en.euractiv.eu/section/china/news/china-tells-us-it-would-prevail-in-a-taiwan-conflict-without-using-nukes/?utm_source=website&utm_campaign=popular)
 * 5[Putin to visit Vietnam, sparking US rebuke of Hanoi](http://en.euractiv.eu/section/global-europe/news/putin-to-visit-vietnam-sparking-us-rebuke-of-hanoi/?utm_source=website&utm_campaign=popular)
-* 6[Nature restoration: Austrian conservatives charge Gewessler for abuse of office](http://en.euractiv.eu/section/energy-environment/news/nature-restoration-austrian-conservatives-charge-gewessler-for-abuse-of-office/?utm_source=website&utm_campaign=popular)
-* 7[Switzerland's Ukraine summit reveals split visions for future peace settlement](http://en.euractiv.eu/section/global-europe/news/switzerlands-ukraine-summit-reveals-split-visions-for-future-peace-settlement/?utm_source=website&utm_campaign=popular)
+* 6[Europe's solar power surge hits prices, exposing storage needs](http://en.euractiv.eu/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/?utm_source=website&utm_campaign=popular)
+* 7[Nature restoration: Austrian conservatives charge Gewessler for abuse of office](http://en.euractiv.eu/section/energy-environment/news/nature-restoration-austrian-conservatives-charge-gewessler-for-abuse-of-office/?utm_source=website&utm_campaign=popular)
 * 8[Why EU leaders were forced to delay the bloc’s top job deal](http://en.euractiv.eu/section/elections/news/why-eu-leaders-were-forced-to-delay-the-blocs-top-job-deal/?utm_source=website&utm_campaign=popular)
-* 9[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
-* 10[Knife-edge support for Nature Restoration Law, ahead of crucial Council meeting on Monday morning](http://en.euractiv.eu/section/biodiversity/news/knife-edge-support-for-nature-restoration-law-ahead-of-crucial-council-meeting-on-monday-morning/?utm_source=website&utm_campaign=popular)
+* 9[EU approves 14th Russia sanctions package, includes first-ever LNG sector measures](http://en.euractiv.eu/section/eu-russia/news/eu-approves-14th-russia-sanctions-package-includes-first-ever-lng-sector-measures/?utm_source=website&utm_campaign=popular)
+* 10[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
