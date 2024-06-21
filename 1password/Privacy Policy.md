@@ -399,7 +399,6 @@ You are the Data Subject as defined in the GDPR. In general, we are addressing â
 * Support
 * [Support](https://support.1password.com/)
 * [Forum](https://1password.community/)
-* [Contact Us](https://support.1password.com/contact/)
 
 * Locations
 * [Europe](https://1password.com/sign-up/eu/)
