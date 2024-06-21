@@ -39,7 +39,7 @@
 CyberLink Corporation General Terms of Service
 ==============================================
 
-**Last Update: May 2024. This CyberLink Corporation General Terms of Service replaces and supersedes all prior versions.**
+**Last Update: June 2024. This CyberLink Corporation General Terms of Service replaces and supersedes all prior versions.**
 
 1\. Preamble
 ============
@@ -108,17 +108,21 @@ CyberLink Corporation General Terms of Service
 1. Your ownership rights.  
     You agree to be solely responsible for the User Submission you uploaded and/or inputted to Generative AI. You acknowledge that you have obtained a consent, license and/or authorization for using User Submission in Generative AI. You own the content generated from User Submission by Generative AI ("Outputted Content") to the extent permitted by law.
 2. CyberLink's use and retention of User Submission and Outputted Content.  
-    CyberLink may use User Submission and Outputted Content to improve your experience with Generative AI. Your User Submission will be permanently deleted from our server within twenty-four (24) hours after your use of Generative AI. Your Outputted Content will be kept on our server for one (1) year after it's being generated.
+    CyberLink may use User Submission and Outputted Content to improve your experience with Generative AI. Your User Submission will be permanently deleted from our server within twenty-four (24) hours after your use of Generative AI. Your Outputted Content generated on or before July 29, 2024 will be kept on our server for one (1) year after it's being generated. Your Outputted Content generated on or after July 30, 2024 will be kept on our server for one (1) year if it's in image form, and thirty (30) days if it's in video form after it's being generated.
 3. Your use of Outputted Content.  
-    Your use of Outputted Content is also subject to the terms of Section 5(I). You agree and accept that any use of the Outputted Content is at your own risk. You will not use Outputted Content or Generative AI in any way that may violate laws, regulations, CyberLink's Terms of Service and Privacy Policy, anyone's intellectual property (including but not limited to patent, trademark, trade secret, copyright or other proprietary rights), privacy, publicity or other rights. You will not use Generative AI in any way which may lead to unlawful or harmful Outputted Content. In compliance with the above, you may use the Outputted Content commercially, provided that the Outputted Content is in the photo/image form. For the Outputted Content generated in the video form, your use is subject to the license terms in Section 5(IV)(b) and Section 5(IV)(c).
-4. Change of your device.  
+    Your use of Outputted Content is also subject to the terms of Section 5(I). You agree and accept that any use of the Outputted Content is at your own risk. You will not use Outputted Content or Generative AI in any way that may violate laws, regulations, CyberLink's Terms of Service and Privacy Policy, anyone's intellectual property (including but not limited to patent, trademark, trade secret, copyright or other proprietary rights), privacy, publicity or other rights. You will not use Generative AI in any way which may lead to unlawful, harmful or not-safe-for-work (NSFW) Outputted Content. In compliance with the above, you may use the Outputted Content commercially, provided that the Outputted Content is in the photo/image form. For the Outputted Content generated in the video form, your use is subject to the license terms in Section 5(IV)(b) and Section 5(IV)(c).
+4. NSFW prohibition.  
+    Generative AI is not intended to generate NSFW content. It is strictly prohibited for you to use Generative AI to generate or attempt to generate NSFW content by uploading and/or inputting explicit or improper User Submission. In any event the Outputted Content contains NSFW content which is generated as a result of your improper use of Generative AI, CyberLink has the right to suspend or terminate your Account or the Service.
+5. Malicious deep fake prohibition.  
+    When it comes to deep fake technology, it is strictly prohibited that you use the Outputted Content in a malicious and/or offensive way. You shall not use the Outputted Content in any way that might lead to portrait right infringement, defamation, violation of privacy, appropriation of personality, criminal code, and so on. You shall bear the full responsibility that occurs or may occur as a result of your misuse of the Outputted Content.
+6. Change of your device.  
     The Outputted Content retained in our server is associated with your in-app purchase order made via the device you use to generate the Outputted Content. Please note you might not be able to access the same Outputted Content from our server via another device due to certain technical issues. In such event, you may contact our customer support team via [https://www.cyberlink.com/contact](https://www.cyberlink.com/contact) for retrieval of the Outputted Content by providing the corresponding certificate or invoice of your in-app purchase order to our customer support team, provided that the Outputted Content is still kept on our server within the retention period.
-5. No guarantee of performance  
+7. No guarantee of performance  
     Due to the nature of AI technologies and the quality of your User Submission, the Outputted Content generated by Generative AI may vary from time to time. There is no guarantee that the Outputted Content is satisfying. It is possible that the Outputted Content might be inaccurate, offensive, harmful or otherwise inappropriate. You understand and agree that by using Generative AI, you may be exposed to such content, and that you will not save, share (including on social media), use, distribute, display, or otherwise make available any content that is in violation of laws.
-6. Disclaimer and warranties.  
+8. Disclaimer and warranties.  
     CyberLink does not make any representations or warranties that the Outputted Content is accurate, reliable, correct or fit for any particular purposes. CyberLink has no liability related to or arising from your use of Generative AI or Outputted Content. CyberLink provides no warranties that you will be able to claim copyright ownership of any Outputted Content or that the Outputted Content will not infringe any third party's intellectual property rights.
 
-6. Additional terms for Third Party License. Our Service is incorporated with some third party intellectual property, which are licensed by legitimate right holders or authorized licensors. Please read the following sections for certain usage restrictions.
+7. Additional terms for Third Party License. Our Service is incorporated with some third party intellectual property, which are licensed by legitimate right holders or authorized licensors. Please read the following sections for certain usage restrictions.
 
 1. Stable Diffusion License. For our Service incorporated with Stable Diffusion models, the following user restrictions apply (for more details of Stable Diffusion License terms, please see: [https://huggingface.co/spaces/CompVis/stable-diffusion-license](https://huggingface.co/spaces/CompVis/stable-diffusion-license)). You agree not to use our Service:
 
