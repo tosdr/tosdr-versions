@@ -14,6 +14,10 @@ Any time
 
 Add guest
 
+Sign In
+
+Verification e-mail has been re-sent.
+
 ![close menu](/img/icons/fa-times-circle.svg)
 
 * [Travel Guide](https://www.tripening.com/travel-tips)
