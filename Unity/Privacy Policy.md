@@ -640,7 +640,7 @@ Unity
 
 * [Our Company](https://unity.com/en/our-company)
 * [Newsletter](https://create.unity.com/opt-in-consent)
-* [Blog](https://blog.unity.com/)
+* [Blog](https://unity.com/en/blog)
 * [Events](https://unity.com/en/events-hub)
 * [Careers](https://careers.unity.com/)
 * [Help](https://unity.com/en/help)
