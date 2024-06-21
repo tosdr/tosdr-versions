@@ -6,7 +6,7 @@ Search
 
 [Need Help](https://www.feedingamerica.org/need-help-find-food)
 
-Sign up
+Sign UpSign up for our Newsletter
 
 * [Donate](https://give.feedingamerica.org/a/donate)
     * [Give Today](https://give.feedingamerica.org/a/donate)
@@ -24,7 +24,7 @@ Search
     * [Give Monthly](https://give.feedingamerica.org/a/donate-monthly)
     * [Give in Honor](https://give.feedingamerica.org/a/donate-in-honor "Give in Honor")
 
-Menu toggle
+Toggle navigation
 
 * [Hunger  
     in America](https://www.feedingamerica.org/hunger-in-america)
