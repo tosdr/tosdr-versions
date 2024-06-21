@@ -54,17 +54,17 @@ Search for:
 
 ### Recent Posts
 
+* [Sara Sleep Talking Quotes, Part 30](https://johnwatne.no-ip.biz/sara-sleep-talking-quotes-part-30/)
 * [The Cult of LEGO by John Baichtal](https://johnwatne.no-ip.biz/the-cult-of-lego-by-john-baichtal/)
 * [Sara Sleep Talking Quotes, Part 29](https://johnwatne.no-ip.biz/sara-sleep-talking-quotes-part-29/)
-* [Sara Sleep Talking Quotes, Part 28](https://johnwatne.no-ip.biz/sara-sleep-talking-quotes-part-28/)
 
 ### Archives
 
-Archives Select Month August 2023  (1) April 2023  (1) August 2022  (2) July 2022  (2) May 2022  (1) March 2022  (1) January 2022  (2) September 2021  (1) August 2021  (2) July 2021  (1) June 2021  (2) April 2021  (2) March 2021  (1) November 2020  (3) October 2020  (1) September 2020  (1) June 2020  (1) May 2020  (1) April 2020  (1) February 2020  (1) December 2019  (1) November 2019  (1) September 2019  (1) August 2019  (1) July 2019  (1) June 2019  (1) April 2019  (2) March 2019  (1) February 2019  (2) January 2019  (1) November 2018  (3) October 2018  (4) September 2018  (1) April 2015  (1) December 2014  (1) November 2014  (2) October 2014  (2) April 2013  (1) February 2013  (1) November 2012  (4) October 2012  (1) September 2012  (1) July 2012  (2)
+Archives Select Month June 2024  (1) August 2023  (1) April 2023  (1) August 2022  (2) July 2022  (2) May 2022  (1) March 2022  (1) January 2022  (2) September 2021  (1) August 2021  (2) July 2021  (1) June 2021  (2) April 2021  (2) March 2021  (1) November 2020  (3) October 2020  (1) September 2020  (1) June 2020  (1) May 2020  (1) April 2020  (1) February 2020  (1) December 2019  (1) November 2019  (1) September 2019  (1) August 2019  (1) July 2019  (1) June 2019  (1) April 2019  (2) March 2019  (1) February 2019  (2) January 2019  (1) November 2018  (3) October 2018  (4) September 2018  (1) April 2015  (1) December 2014  (1) November 2014  (2) October 2014  (2) April 2013  (1) February 2013  (1) November 2012  (4) October 2012  (1) September 2012  (1) July 2012  (2)
 
 ### Categories
 
-Categories Select Category bicycling  (4) BMW  (2) book reviews  (1) celiac disease  (1) Charity  (2) Church  (2) computers  (18) diabetes  (3) family  (33) java  (12) Minnesota  (7) photography  (1) silliness  (29) spam & phishing nuisances  (1) This Site  (11) Uncategorized  (3)
+Categories Select Category bicycling  (4) BMW  (2) book reviews  (1) celiac disease  (1) Charity  (2) Church  (2) computers  (18) diabetes  (3) family  (34) java  (12) Minnesota  (7) photography  (1) silliness  (30) spam & phishing nuisances  (1) This Site  (11) Uncategorized  (3)
 
 ### Meta
 
