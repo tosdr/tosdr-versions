@@ -2,7 +2,7 @@
 
 ![](https://s3.belkin.com/resources/img/icons/lightning-charge-icon.svg) Up to an extra 50% off! Shop Certified Refurbished. [Buy now.](https://www.belkin.com/shop-by/featured/certified-refurbished/)
 
-Save up to 20% for dads and grads. [Shop now.](https://www.belkin.com/products/)
+Summer savings: Save up to 25%. [Shop now.](https://www.belkin.com/shop-by/special-offers/sale/)
 
 Close
 
