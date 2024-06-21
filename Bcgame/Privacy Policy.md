@@ -32,11 +32,11 @@ Plinko](https://bcgame.sk/game/plinko)[![](/assets/HashDice.445aff9f.png)
 
 Hash Dice](https://bcgame.sk/game/hash-dice)[![](/assets/KenoSingle.6244c89e.png)
 
-Keno](https://bcgame.sk/game/keno)[![](/assets/Twist.aeed2ac6.png)
+Keno](https://bcgame.sk/game/keno)[![](/assets/Wheel.4ec42835.png)
 
-Twist](https://bcgame.sk/game/twist)[![](/assets/Wheel.4ec42835.png)
+Wheel](https://bcgame.sk/game/wheel)[![](/assets/Twist.aeed2ac6.png)
 
-Wheel](https://bcgame.sk/game/wheel)[![](/assets/Mines.41c036c1.png)
+Twist](https://bcgame.sk/game/twist)[![](/assets/Mines.41c036c1.png)
 
 Mines](https://bcgame.sk/game/mines)[![](/assets/Cave.89f3fbd0.png)
 
@@ -68,43 +68,43 @@ Baccarat](https://bcgame.sk/game/baccarat)[![](/assets/DeadliestSea.ada67982.png
 
 Deadliest Sea](https://bcgame.sk/game/CRO12:120)[![](/assets/BlackJack.7f868444.png)
 
-Blackjack](https://bcgame.sk/game/blackjack)[![](/assets/BlackJack.7f868444.png)
+Blackjack](https://bcgame.sk/game/blackjack)[![](/assets/Academy.06941e95.png)
 
-Cursed Doll](https://bcgame.sk/game/CRO12:126)[![](/assets/Academy.06941e95.png)
+Wizard's Academy](https://bcgame.sk/game/CRO12:121)[![](/assets/BlackJack.7f868444.png)
 
-Wizard's Academy](https://bcgame.sk/game/CRO12:121)[![](/assets/Keno.4596331e.png)
+Cursed Doll](https://bcgame.sk/game/CRO12:126)[![](/assets/Keno.4596331e.png)
 
 Keno Multiplayer](https://bcgame.sk/game/keno-multiplayer)[![](/assets/Baccarat.47e9d8f2.png)
 
 Baccarat multiplayer](https://bcgame.sk/game/baccarat-multiplayer)[![](/assets/BlackJack.7f868444.png)
 
-Sugar Fiesta 1000](https://bcgame.sk/game/CRO12:128)[![](/assets/JohnWild.1fd9cf04.png)
+Sugar Fiesta 1000](https://bcgame.sk/game/CRO12:128)[![](/assets/BlackJack.7f868444.png)
 
-John Wild](https://bcgame.sk/game/CRO12:123)[![](/assets/BlackJack.7f868444.png)
+BCGame Blackjack C](https://bcgame.sk/game/evo21:blackjack:r4dccjre47rytlgz)[![](/assets/JohnWild.1fd9cf04.png)
 
-BCGame Blackjack C](https://bcgame.sk/game/evo21:blackjack:r4dccjre47rytlgz)[![](/assets/BlackJack.7f868444.png)
-
-BCGame Blackjack D](https://bcgame.sk/game/evo21:blackjack:r4dcfcsu47rytz6v)[![](/assets/BlackJackA.f17772ea.png)
+John Wild](https://bcgame.sk/game/CRO12:123)[![](/assets/BlackJackA.f17772ea.png)
 
 BC Blackjack A](https://bcgame.sk/game/evo21:blackjack:reyd5odmlwpfzjdw)[![](/assets/BlackJackB.39850ec8.png)
 
-BC Blackjack B](https://bcgame.sk/game/evo21:blackjack:reyezjtolwpf37px)[![](/assets/SpeedBlackjack.3a7b41d4.png)
+BC Blackjack B](https://bcgame.sk/game/evo21:blackjack:reyezjtolwpf37px)[![](/assets/BlackJack.7f868444.png)
 
-BCGAME Speed Blackjack](https://bcgame.sk/game/evo21:blackjack:rgea7vnq54ehg2fs)[![](/assets/Roulette.6b277c23.png)
+BCGame Blackjack D](https://bcgame.sk/game/evo21:blackjack:r4dcfcsu47rytz6v)[![](/assets/Roulette.6b277c23.png)
 
-Roulette Multiplayer](https://bcgame.sk/game/roulette-multiplayer)[![](/assets/BlackJack.7f868444.png)
+Roulette Multiplayer](https://bcgame.sk/game/roulette-multiplayer)[![](/assets/SpeedBlackjack.3a7b41d4.png)
 
-Left 4 Cash](https://bcgame.sk/game/CRO12:130)[![](/assets/SpeedBaccarat.4e36e147.png)
+BCGAME Speed Blackjack](https://bcgame.sk/game/evo21:blackjack:rgea7vnq54ehg2fs)[![](/assets/SpeedBaccarat.4e36e147.png)
 
-BC Speed Baccarat](https://bcgame.sk/game/pp23:424i)[![](/assets/Zombies.b3d80146.png)
+BC Speed Baccarat](https://bcgame.sk/game/pp23:424i)[![](/assets/BlackJack.7f868444.png)
 
-Run Away! Zombies](https://bcgame.sk/game/CRO12:124)[![](/assets/BlackJack.7f868444.png)
+Left 4 Cash](https://bcgame.sk/game/CRO12:130)[![](/assets/Zombies.b3d80146.png)
 
-Candy Fiesta 1000](https://bcgame.sk/game/CRO12:127)[![](/assets/DoggyMiner.3d17e0de.png)
+Run Away! Zombies](https://bcgame.sk/game/CRO12:124)[![](/assets/VipBlackjack.67b994b7.png)
 
-Doggy Miner](https://bcgame.sk/game/CRO12:109)[![](/assets/VipBlackjack.67b994b7.png)
+BCGAME VIP Blackjack](https://bcgame.sk/game/evo21:blackjack:rgdzue7v4xaga5s5)[![](/assets/DoggyMiner.3d17e0de.png)
 
-BCGAME VIP Blackjack](https://bcgame.sk/game/evo21:blackjack:rgdzue7v4xaga5s5)[![](/assets/BlackJack.7f868444.png)
+Doggy Miner](https://bcgame.sk/game/CRO12:109)[![](/assets/BlackJack.7f868444.png)
+
+Candy Fiesta 1000](https://bcgame.sk/game/CRO12:127)[![](/assets/BlackJack.7f868444.png)
 
 BCGame VIP Blackjack 2](https://bcgame.sk/game/evo21:blackjack:r4da45gr47ryncsy)[![](/assets/BlackJack.7f868444.png)
 
@@ -114,11 +114,11 @@ Dragon Quest](https://bcgame.sk/game/CRO12:122)[![](/assets/BlackJack.7f868444.p
 
 Samurai Clash](https://bcgame.sk/game/CRO12:125)[![](/assets/OneBlackjack.7b0de011.png)
 
-BC ONE BlackJack](https://bcgame.sk/game/pp23:902a13)[![](/assets/DragonSlayer.d1468223.png)
+BC ONE BlackJack](https://bcgame.sk/game/pp23:902a13)[![](/assets/Hunter.5ad56279.png)
 
-Dragon Slayer](https://bcgame.sk/game/CRO12:111)[![](/assets/Hunter.5ad56279.png)
+Monster Hunter](https://bcgame.sk/game/CRO12:110)[![](/assets/DragonSlayer.d1468223.png)
 
-Monster Hunter](https://bcgame.sk/game/CRO12:110)
+Dragon Slayer](https://bcgame.sk/game/CRO12:111)
 
 [Slots](https://bcgame.sk/gamelist/slots)[Live Casino](https://bcgame.sk/gamelist/live)[Hot Games](https://bcgame.sk/tagname/hot)[New Releases](https://bcgame.sk/tagname/new-releases)[Feature Buy-in](https://bcgame.sk/tagname/feature-buy-in)[Bingo](https://bcgame.sk/bingolist)[Blackjack](https://bcgame.sk/tagname/blackjack)[Table Games](https://bcgame.sk/tagname/table-games)
 
@@ -198,7 +198,7 @@ Crypto trading is not gambling by definition, therefore it is not covered by our
 
 Copyright ©2024 SUPERSELL.COM ALL RIGHTS RESERVED
 
-1BTC=$64,736.36
+1BTC=$64,661.71
 
 Top
 
