@@ -82,8 +82,6 @@ About this site
 * [Privacy policy](https://www.cam.ac.uk/about-this-site/privacy-policy)
 * [Cookies](https://www.cam.ac.uk/about-this-site/cookies)
 * [Terms and conditions](https://www.cam.ac.uk/about-this-site/terms-and-conditions)
-    * [Terms and conditions overview](https://www.cam.ac.uk/about-this-site/terms-and-conditions)
-    * [Comments policy](https://www.cam.ac.uk/about-this-site/comments-policy)
 * [Social media](https://www.cam.ac.uk/about-this-site/connect-with-us)
 
 Terms and conditions
@@ -91,12 +89,11 @@ Terms and conditions
 
 * [About this site](https://www.cam.ac.uk/about-this-site)
 
-* [Terms and conditions](https://www.cam.ac.uk/about-this-site/terms-and-conditions)
-    * [Comments policy](https://www.cam.ac.uk/about-this-site/comments-policy)
 * [About this site](https://www.cam.ac.uk/about-this-site)
 * [Accessibility statement](https://www.cam.ac.uk/about-this-site/accessibility)
 * [Privacy policy](https://www.cam.ac.uk/about-this-site/privacy-policy)
 * [Cookies](https://www.cam.ac.uk/about-this-site/cookies)
+* [Terms and conditions](https://www.cam.ac.uk/about-this-site/terms-and-conditions)
 * [Social media](https://www.cam.ac.uk/about-this-site/connect-with-us)
 
 Terms of Use statement for the University's website
