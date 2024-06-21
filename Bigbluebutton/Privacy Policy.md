@@ -2,6 +2,9 @@
 
 BigBlueButton World 2024  |  June 25th – 27th
 
+BigBlueButton World 2024  
+June 25th – 27th
+
 [**REGISTER NOW »**](https://conference.bigbluebutton.org/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -23,6 +26,7 @@ Menu
     * [Hosting](https://bigbluebutton.org/hosting/)
 * [Resources](#)
     
+    * [Events](https://bigbluebutton.org/events/)
     * [Blog](https://bigbluebutton.org/articles/)
     * [Knowledge Base](https://support.bigbluebutton.org/hc/en-us)
     * [Global Community](https://bigbluebutton.org/global-community/)
