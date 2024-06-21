@@ -1,4 +1,4 @@
-[](https://www.setlisting.com/ "Setlisting logo")[![](https://assets0.setlisting.cdn.crowds.dk/assets/logo/setlisting_logo-af3a50095acf809f34cd38546b58591253d5338f4d1715f7d01a0a8e78162178.png)](https://www.setlisting.com/ "Setlisting logo")
+[](https://www.setlisting.com/ "Setlisting logo")[![](https://assets2.setlisting.cdn.crowds.dk/assets/logo/setlisting_logo-af3a50095acf809f34cd38546b58591253d5338f4d1715f7d01a0a8e78162178.png)](https://www.setlisting.com/ "Setlisting logo")
 
  Search
 
