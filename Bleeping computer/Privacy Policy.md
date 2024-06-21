@@ -26,9 +26,9 @@
     * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         "Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
-    * [![CDK Global cyberattack impacts thousands of US car dealerships](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![CDK Global hacked again while recovering from first cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
+        CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
     * [![Microsoft says bug causes Windows 10 apps to display Open With dialogs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
@@ -36,18 +36,18 @@
         
         ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
     
-    * [![T-Mobile denies it was hacked, links leaked data to vendor breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Automate Windows tasks with $58 off this PowerShell training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        T-Mobile denies it was hacked, links leaked data to vendor breach](https://www.bleepingcomputer.com/news/security/t-mobile-denies-it-was-hacked-links-leaked-data-to-vendor-breach/)
-    * [![Crown Equipment confirms a cyberattack disrupted manufacturing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Automate Windows tasks with $58 off this PowerShell training bundle](https://www.bleepingcomputer.com/offer/deals/automate-windows-tasks-with-58-off-this-powershell-training-bundle/)
+    * [![CDK warns: threat actors are calling customers, posing as support](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Crown Equipment confirms a cyberattack disrupted manufacturing](https://www.bleepingcomputer.com/news/security/crown-equipment-confirms-a-cyberattack-disrupted-manufacturing/)
-    * [![Advance Auto Parts confirms data breach exposed employee information](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CDK warns: threat actors are calling customers, posing as support](https://www.bleepingcomputer.com/news/security/cdk-warns-threat-actors-are-calling-customers-posing-as-support/)
+    * [![Biden bans Kaspersky antivirus software in US over security concerns](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Advance Auto Parts confirms data breach exposed employee information](https://www.bleepingcomputer.com/news/security/advance-auto-parts-confirms-data-breach-exposed-employee-information/)
-    * [![Keep out ads and snoops with $269 off a 3-year AdGuard Bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Biden bans Kaspersky antivirus software in US over security concerns](https://www.bleepingcomputer.com/news/security/biden-bans-kaspersky-antivirus-software-in-us-over-security-concerns/)
+    * [![Phoenix UEFI vulnerability impacts hundreds of Intel PC models](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Keep out ads and snoops with $269 off a 3-year AdGuard Bundle](https://www.bleepingcomputer.com/offer/deals/keep-out-ads-and-snoops-with-269-off-a-3-year-adguard-bundle/)
+        Phoenix UEFI vulnerability impacts hundreds of Intel PC models](https://www.bleepingcomputer.com/news/security/phoenix-uefi-vulnerability-impacts-hundreds-of-intel-pc-models/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,23 +442,23 @@ Popular Stories
 * [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
-* [![VMware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    VMware fixes critical vCenter RCE vulnerability, patch now](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-vcenter-rce-vulnerability-patch-now/)
+    CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
 
 Latest forum topics
 
-* [Regular sfc errors across 3 systems (not 4th) only commonality is the same Micro](https://www.bleepingcomputer.com/forums/t/798346/regular-sfc-errors-across-3-systems-not-4th-only-commonality-is-the-same-micro/)
+* [Windows sometimes freezes.](https://www.bleepingcomputer.com/forums/t/798378/windows-sometimes-freezes/)
     
-    [Psiboy](https://www.bleepingcomputer.com/forums/u/1309483/psiboy/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
+    [einstein1969](https://www.bleepingcomputer.com/forums/u/1316674/einstein1969/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
     
-* [Brief Intermittent Failure to Connect to Internet.](https://www.bleepingcomputer.com/forums/t/798345/brief-intermittent-failure-to-connect-to-internet/)
+* [Redirecting to bimq.co](https://www.bleepingcomputer.com/forums/t/798375/redirecting-to-bimqco/)
     
-    [heavydude](https://www.bleepingcomputer.com/forums/u/727995/heavydude/) in [External Hardware](https://www.bleepingcomputer.com/forums/f/138/external-hardware/)
+    [reinmar](https://www.bleepingcomputer.com/forums/u/421057/reinmar/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
     
-* [Event Viewer listing events related to AAD and MMD](https://www.bleepingcomputer.com/forums/t/798343/event-viewer-listing-events-related-to-aad-and-mmd/)
+* [Help with UEIF Bootkit](https://www.bleepingcomputer.com/forums/t/798373/help-with-ueif-bootkit/)
     
-    [pheonixzen700](https://www.bleepingcomputer.com/forums/u/1231811/pheonixzen700/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [Severartery](https://www.bleepingcomputer.com/forums/u/1316656/severartery/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
     
 
 Latest virus removal guides
@@ -505,7 +505,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,036 _Downloads_**
+    **54,059 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -513,7 +513,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,801 _Downloads_**
+    **41,822 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -521,7 +521,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,118 _Downloads_**
+    **103,135 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -529,7 +529,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,165 _Downloads_**
+    **150,173 _Downloads_**
     
 
 ##### Follow us:
