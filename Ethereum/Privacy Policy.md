@@ -255,9 +255,9 @@ YesNo
     
     * [Privacy Policy](#privacy-policy)
 
-Website last updated: May 22, 2024
+Website last updated: June 19, 2024
 
-[(opens in a new tab)](https://github.com/ethereum/ethereum-org-website)[(opens in a new tab)](https://twitter.com/ethdotorg)[(opens in a new tab)](https://discord.gg/ethereum-org)
+Go to top
 
 ### Learn
 
@@ -323,6 +323,8 @@ Website last updated: May 22, 2024
 * [Ethereum Improvement Proposals](https://ethereum.org/en/eips/)
 * [Ethereum governance](https://ethereum.org/en/governance/)
 
+[(opens in a new tab)](https://github.com/ethereum/ethereum-org-website)[(opens in a new tab)](https://twitter.com/ethdotorg)[(opens in a new tab)](https://discord.gg/ethereum-org)
+
 * [About us](https://ethereum.org/en/about/)
 * [Ethereum brand assets](https://ethereum.org/en/assets/)
 * [Code of conduct](https://ethereum.org/en/community/code-of-conduct/)
@@ -331,5 +333,3 @@ Website last updated: May 22, 2024
 * [Terms of use](https://ethereum.org/en/terms-of-use/)
 * [Cookie policy](https://ethereum.org/en/cookie-policy/)
 * [Press Contact(opens in a new tab)](mailto:press@ethereum.org)
-
-Is this page helpful?
