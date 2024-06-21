@@ -95,25 +95,25 @@ Close
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    USD $4,400.00 – $4,600.00
+    USD $3,900.00 – $4,400.00
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    USD $4,400.00 – $5,700.00
+    USD $3,900.00 – $5,500.00
     
     BRIDGE
     
-     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.tm4SgcRzdA.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
+    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
     $3,380.00
     
-     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
+     [![Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/wp-content/uploads/2022/01/xIMG_0534-scaled-e1645470277366-thegem-product-justified-square-xxs.jpg.pagespeed.ic.oqPevnCd73.jpg)](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
     
-    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
+    [Versatile JD-BRIDGE – Versatile Articulated, Versatile RowCrop Bridge Compatible with John Deere Display](https://www.agragps.com/product/versatile-jd-bridge-versatile-articulated-versatile-rowcrop-bridge-compatible-with-john-deere-display/)
     
     USD $3,380.00
     
@@ -125,29 +125,27 @@ Close
     
     Rated **5.00** out of 5
     
-    (1)
-    
     $620.00
     
     Accessories
+    
+     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
+    
+    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
+    
+    $90.00
+    
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    $2,690.00
     
      [![CRG – GPS receiver](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-gps-receiver/)
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    USD $4,400.00 – $4,600.00
-    
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
-    
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
-    
-    $90.00
-    
-     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
-    
-    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
-    
-    $140.00
+    USD $3,900.00 – $4,400.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -239,27 +237,27 @@ Menu
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    USD $4,400.00 – $4,600.00
+    USD $3,900.00 – $4,400.00
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    USD $4,400.00 – $5,700.00
+    USD $3,900.00 – $5,500.00
     
     BRIDGE
     
-     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
+     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
     
-    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
+    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
     
-    USD $3,380.00
+    $3,380.00
     
-     [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.tm4SgcRzdA.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    USD $4,400.00 – $5,700.00
+    $3,380.00
     
     ITC Extend
     
@@ -269,27 +267,25 @@ Menu
     
     Rated **5.00** out of 5
     
-    (1)
-    
     $620.00
     
     Accessories
     
-     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
     
-    $2,690.00
+    $140.00
     
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
+     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
     
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
+    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
     
     $90.00
     
-     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
     
-    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
+    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
     
     $120.00
     
@@ -371,7 +367,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Geolocation data
 
 Retention period
@@ -387,7 +383,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -405,7 +401,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -423,7 +419,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -455,7 +451,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -473,7 +469,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -491,7 +487,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -509,7 +505,7 @@ The following categories of data are collected
 * A home or other physical address, including street name and name of a city or town
 * An email address
 * A telephone number
-* IP Address
+* IP address
 * Financial information such as bank account number or credit card number
 * Commercial information, including records of personal property, products or services purchased, obtained, or considered
 * Geolocation data
@@ -585,7 +581,7 @@ Stony Plain, AB
 Canada  
 Canada  
 Website: [https://www.agragps.com](https://www.agragps.com/)  
-Email: jheupel@agragps.com  
+Email: moc.spgarga@lepuehj  
 Toll free phone number: 7809904052  
 Phone number: +1 7809904052
 
@@ -649,7 +645,7 @@ Marketing  Marketing
 
 The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
 
-[Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
+[Manage options](#) [Manage services](#) [Manage vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
 
 Accept Deny View preferences Save preferences [View preferences](#)
 
@@ -675,7 +671,7 @@ Marketing  Marketing
 
 The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
 
-[Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
+[Manage options](#) [Manage services](#) [Manage vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
 
 Accept Deny View preferences Save preferences [View preferences](#)
 
