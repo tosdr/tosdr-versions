@@ -73,10 +73,12 @@ Clark College - Home of the Penguin Nation
 
 ![Important Info Icon](/images/i-icon.png)
 
-College Closed at Noon on June 20, 2024
----------------------------------------
+Financial Aid Office Closed June 10-28
+--------------------------------------
 
-All college facilities and services to close at noon on Thursday for commencement.
+The Financial Aid office will be closed to process aid packages.
+
+[Learn Morehttps://www.clark.edu/about/alerts.php](https://www.clark.edu/about/alerts.php)
 
 [Home](https://www.clark.edu/) » [About Clark](https://www.clark.edu/about/) » [Governance](https://www.clark.edu/about/governance/) » [Policies & Procedures](https://www.clark.edu/about/governance/policies-procedures/) »  Public Records Privacy Protection Policy
 
