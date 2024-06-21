@@ -132,7 +132,7 @@ This Privacy Policy does not apply to information we process as a data processor
     * comply with applicable law where required or otherwise permitted
         
     
-    provide it as needed to our partners and vendors who work with us (see also [Disclosure of Personal Information](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#heading=h.s8az8fh99cgz) section below)
+    provide it as needed to our partners and vendors who work with us (see also [Disclosure of Personal Information](#disclosureofpersonalinformation) section below)
     
     ### **Product Interactions**
     
@@ -298,7 +298,7 @@ This Privacy Policy does not apply to information we process as a data processor
     * **Withdraw Your Consent**: Similarly, if we have collected and processed your Personal Information with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
         
     
-    You can request to exercise any of your privacy rights above by contacting us at [\[email protected\]](https://www.verkada.com/cdn-cgi/l/email-protection). You also have the right to complain to a data protection authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority. For Europe please see [here](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#:~:text=https%3A//www.edpb.europa.eu/about%2Dedpb/about%2Dedpb/members_en), for Switzerland [here](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#:~:text=https%3A//www.edoeb.admin.ch/edoeb/en/home.html)  and for the UK, [here](https://ico.org.uk/).
+    You can request to exercise any of your privacy rights above by contacting us at [\[email protected\]](https://www.verkada.com/cdn-cgi/l/email-protection). You also have the right to complain to a data protection authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority. For Europe please see [here](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), for Switzerland [here](https://www.edoeb.admin.ch/edoeb/en/home.html)  and for the UK, [here](https://ico.org.uk/).
     
 * California Residents
     
@@ -306,15 +306,15 @@ This Privacy Policy does not apply to information we process as a data processor
     
     Throughout this Privacy Policy, we describe the specific pieces of personal information and sensitive personal information we collect, the sources of that information, and how we share it. Under the CCPA, we also have to provide you with the "categories" of personal information and sensitive personal information we collect and disclose for “business or commercial purposes” (as those terms are defined by the CCPA). 
     
-    In the twelve months leading up to the effective date of this Privacy Policy, we have collected and disclosed the categories of personal information described in [When do we collect Personal Information?](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#heading=h.xd77nzc5lwhe) The categories of personal information are: identifiers (such as name, address, and email address); commercial information (such as transaction data); financial data (such as credit card and other financial account information); internet or other network or device activity (such as IP address); professional or employment-related information (such as your current employer and job title); general location information (such as inferred from an IP address); inference data about you (such as if we derive information about your role within a company); audio and visual information (such as when you call into customer service or visit our offices); and other information that identifies or can be reasonably associated with you. 
+    In the twelve months leading up to the effective date of this Privacy Policy, we have collected and disclosed the categories of personal information described in [When do we collect Personal Information?](#whendowecollectpersonalinformation) The categories of personal information are: identifiers (such as name, address, and email address); commercial information (such as transaction data); financial data (such as credit card and other financial account information); internet or other network or device activity (such as IP address); professional or employment-related information (such as your current employer and job title); general location information (such as inferred from an IP address); inference data about you (such as if we derive information about your role within a company); audio and visual information (such as when you call into customer service or visit our offices); and other information that identifies or can be reasonably associated with you. 
     
     The categories of sensitive personal information are account log-in and password or other credentials allowing access to your account.
     
-    We process the categories of personal information identified above for the purposes as described in more detail in [When do we collect Personal Information?](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#heading=h.xd77nzc5lwhe) 
+    We process the categories of personal information identified above for the purposes as described in more detail in [When do we collect Personal Information?](#whendowecollectpersonalinformation) 
     
     We collect the categories of personal information identified above from the following sources: (1) directly from you; (2) through your use of the Products; and (3) other parties (e.g., other users) and unaffiliated parties.
     
-    We describe our information disclosure practices in more detail in the section above on [Disclosure of Personal Information](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#heading=h.s8az8fh99cgz).
+    We describe our information disclosure practices in more detail in the section above on [Disclosure of Personal Information](#disclosureofpersonalinformation).
     
     _“Sale” and “Sharing” of Personal Information_
     
@@ -332,7 +332,7 @@ This Privacy Policy does not apply to information we process as a data processor
     
     _Retention of Your Personal Information_
     
-    Please see the [Data Retention](https://docs.google.com/document/d/1WEFrq7yhWb0xTCVZGQv101n857eilPxm/edit#heading=h.l06vtjr3ulpy) section below.
+    Please see the [Data Retention](#dataretention) section below.
     
     _CCPA Rights_
     
