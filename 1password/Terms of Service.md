@@ -326,7 +326,6 @@ In addition, 1Password and the Customer shall comply with all applicable laws, r
 * Support
 * [Support](https://support.1password.com/)
 * [Forum](https://1password.community/)
-* [Contact Us](https://support.1password.com/contact/)
 
 * Locations
 * [Europe](https://1password.com/sign-up/eu/)
