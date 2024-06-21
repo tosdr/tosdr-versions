@@ -383,11 +383,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkeyロゴ](https://prod.smassets.net/assets/website/2.267.0/images/legal_sidebar__badge.png)
+![Logo SurveyMonkey](https://prod.smassets.net/assets/website/2.267.0/images/legal_sidebar__badge.png)
 
-* [概要](https://www.surveymonkey.com/mp/legal/)
+* [Présentation](https://www.surveymonkey.com/mp/legal/)
     
-* [利用規約](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Conditions d’utilisation](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -425,32 +425,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [適用サービス契約](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Contrat de services en vigueur](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [各サービスの条件](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Conditions spécifiques aux services](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [プライバシーの基本](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Principes de confidentialité](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [プライバシーに関するお知らせ](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Avis de confidentialité](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookie](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [アンケートページで使用されるCookie](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Cookies utilisés sur les pages de sondage](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [認められる使用のポリシー](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Politique relative à l'usage acceptable](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [セキュリティ](https://www.surveymonkey.com/mp/legal/security/)
+* [Sécurité](https://www.surveymonkey.com/mp/legal/security/)
     
-* [一般](https://www.surveymonkey.com/mp/legal/general/)
+* [Général](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-ご存じでしたか？
+Le saviez-vous ?
 
-63%の人が、製品/サービスを利用する際にその会社のプライバシーとセキュリティの実績を考慮しています。
+63 % des personnes interrogées consultent l'historique de sécurité et la politique de confidentialité d'une entreprise avant de recourir à ses produits ou services.
 
-![リーガルサイドバー統計](https://prod.smassets.net/assets/website/2.267.0/images/legal_sidebar__stats-image.png)
+![Barre latérale du Centre de ressources juridiques](https://prod.smassets.net/assets/website/2.267.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
