@@ -205,26 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Megaman Gets Equipped](https://www.somethingawful.com/photoshop-phriday/megaman-gets-equipped/1/)
-* [Advice Forums](https://www.somethingawful.com/weekend-web/advice-forums/1/)
-* [Mixed Up Movie Captions](https://www.somethingawful.com/comedy-goldmine/mixed-up-movie/1/)
-* [Post-Apocalyptic Movies](https://www.somethingawful.com/photoshop-phriday/post-apocalyptic-movies/1/)
-* [Send musicians back in time!](https://www.somethingawful.com/photoshop-phriday/modern-musicians-time/1/)
+* [Toys: A Reality](https://www.somethingawful.com/comedy-goldmine/toys-a-reality/1/)
+* [Counter-Strike, Yahoo, Library of Castle Kenyon, and Something Awful](https://www.somethingawful.com/weekend-web/counterstrike-yahoo-library/1/)
+* [Dungeons & Dragons: The Book of Wondrous Inventions](https://www.somethingawful.com/dungeons-and-dragons/wtf-wondrous-items/1/)
+* [Swap grandparents and babies heads!](https://www.somethingawful.com/comedy-goldmine/swap-grandparents-babies/1/)
+* [Thundra](https://www.somethingawful.com/game-reviews/thundra/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Profound songs](http://forums.somethingawful.com/showthread.php?threadid=4063225 "Profound songs")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tech.png) [OceanGate: Our test sub keeps imploding. Ready for full production!](http://forums.somethingawful.com/showthread.php?threadid=4063219 "OceanGate: Our test sub keeps imploding. Ready for full production!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Is it time to get into Hozier?](http://forums.somethingawful.com/showthread.php?threadid=4063215 "Is it time to get into Hozier?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [What the hell is going on with the collectibles market?](http://forums.somethingawful.com/showthread.php?threadid=4063198 "What the hell is going on with the collectibles market?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Combine Movies to Make Them Better](http://forums.somethingawful.com/showthread.php?threadid=4063342 "Combine Movies to Make Them Better")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Whats your pettiest food elitism related opinion?](http://forums.somethingawful.com/showthread.php?threadid=4063348 "Whats your pettiest food elitism related opinion?")
 
 ### Random Articles
 
-* [Reviews of Chastity Belts & Devices](https://www.somethingawful.com/awful-links/awful-link-2500/)
-* [A Message to the Class of 2010](https://www.somethingawful.com/news/message-graduates-2010/)
-* [The Craziness You've Heard People Say in Their Sleep](https://www.somethingawful.com/comedy-goldmine/craziness-sleep/1/)
-* [The Great American Reach Around - The Northeast & The UK](https://www.somethingawful.com/news/reach-around-three/1/)
-* [Dedication](https://www.somethingawful.com/news/dedication/)
+* [Revelation 13](https://www.somethingawful.com/awful-links/awful-link-3991/)
+* [This Beyonce Photo No Longer Exists!](https://www.somethingawful.com/comedy-goldmine/beyonce-superbowl-grimace/1/)
+* [Foundation for the Law of Time](https://www.somethingawful.com/awful-links/awful-link-2348/)
+* [There Used to be an Update Here](https://www.somethingawful.com/news/there-used-be/)
+* [Betty's Pub, BlizzHackers, and Emokid](https://www.somethingawful.com/weekend-web/bettys-pub-blizzhackers/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
