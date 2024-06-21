@@ -1,6 +1,6 @@
 **SmartThings U.S. Privacy Notice**
 
-Effective Date: January 22, 2024
+Effective Date: June 19, 2024
 
 Samsung Electronics Co., Ltd., along with our affiliates and subsidiaries (collectively, “**Samsung**”) respects your concerns about privacy. This SmartThings Privacy Notice applies to the personal information we obtain through SmartThings (the “**Service**”). It does not apply to information collected by other apps, websites or services provided by Samsung.
 
@@ -12,11 +12,11 @@ Through the Service, we may obtain information about you in various ways. The ty
 
 ·         contact information, such as name, email and phone number;
 
-·         Samsung Account information, such as nickname, Samsung Account ID, and any devices registered to your Samsung Account (such as any mobile devices);
+·         Samsung Account information, such as nickname, Samsung Account ID, and any devices registered to your Samsung Account (such as any mobile devices). If you use SmartThings Energy we also collect your Rewards point history to display to you;
 
 ·         username for participating third-party devices, apps, features or services;
 
-·         residence information, such as information about your home (e.g., the approximate square footage and number of family members) and maps you create (e.g. address, images and layout);
+·         residence information, such as information about your home (e.g., the approximate square footage and number of family members);
 
 ·         information related to your location through GPS, Bluetooth and WiFi signals, including with your permission, the precise geolocation of your device and connected devices (please note that if you do not allow the Service to collect your precise geolocation, you may not be able to use all of the features of the Service);
 
@@ -30,7 +30,9 @@ Through the Service, we may obtain information about you in various ways. The ty
 
 ·         for users who connect Samsung Family Hub to the Service through SmartThings Cooking, with your permission, we may obtain information about your Family Hub interactions, including your touch interactions and other inputs (such as your dietary preferences), and the information you receive from Family Hub (such as responses, answers and content). If you submit information to Family Hub that is sensitive in nature (i.e., health information), that may also be collected and processed for the purposes set out below. We also may obtain other information related to your use of Family Hub, including the information (such as information related to the apps you use, the websites you visit and content and data from Whisk and other Samsung apps, websites and services) we receive from Samsung and Whisk apps and services that are accessed or used by Family Hub, including username and password for Whisk apps, features or services, to provide you with Family Hub (such as social media, email and instant messaging apps); and
 
-·         for users who use SmartThings Pet , information about your pet’s profile (e.g., pet’s name, sex, picture, date of birth, breed, walking history, activities and weight) and any communication you had about your pet (e.g., behavior, symptoms and past medical history).
+·         for users who use SmartThings Pet , information about your pet’s profile (e.g., pet’s name, sex, picture, date of birth, breed, walking history, activities and weight) and any communication you had about your pet (e.g., behavior, symptoms and past medical history); and
+
+·         for users who use SmartThings Map View, information related to the maps you create (such as the image, address, floor plan, placements of doors, windows and devices, and the layout for rooms).
 
 **_SmartThings Cooking_**
 
@@ -56,19 +58,15 @@ Information We Obtain By Automated Means
 
 We also may collect other information about you, your devices and apps, and your use of the Services in ways that we describe to you at the time of collection or otherwise with your consent.
 
-Your web browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies.  You can find out how to do this for your particular browser by clicking “help” on your browser’s menu or visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/).  For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your device.  The Service is not designed to respond to “do not track” signals received from browsers.  Please note that without cookies you may not be able to use or benefit from all of the features of the Service.
-
-**_Third Party Web Analytics Services_**
-
-We may collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services. We may use third-party analytics services, such as Google Analytics. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Service and to help administer the Service. To learn more about Google Analytics, please visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/).
+The Samsung US Privacy Policy (available at [https://account.samsung.com/membership/terms/privacypolicy](https://account.samsung.com/membership/terms/privacypolicy)) also describes other information we may collect, including through cookies and third-party analytics services.
 
 **_Online Tracking and Interest-Based Advertising_**
 
-We may collect information about your online activities to provide you with advertising about products and services tailored to your interests. You may see our ads on other websites or apps because we engage in online advertising. This allows us to target our messaging to users considering demographic data, users’ inferred interests, and browsing context. Ad technology companies track users’ online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other similar technologies. This information is used to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites, and to build a profile of users’ online browsing activities. The information collected may include data about users’ visits to websites that participate in the online ad ecosystem, such as the pages or ads viewed and the actions taken on the websites. This data collection takes place both on SmartThings.com and on third-party websites that participate in the online ad ecosystem. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of interest-based advertising, please visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices) and [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).
+We may collect information about your online activities to provide you with advertising about products and services tailored to your interests. You may see our ads on other websites or apps because we engage in online advertising. This allows us to target our messaging to users considering demographic data, users’ inferred interests, and browsing context. Ad technology companies track users’ online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other similar technologies. This information is used to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites, and to build a profile of users’ online browsing activities. The information collected may include data about users’ visits to websites that participate in the online ad ecosystem, such as the pages or ads viewed and the actions taken on the websites. This data collection takes place both on SmartThings.com and on third-party websites that participate in the online ad ecosystem. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of interest-based advertising, please visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices) and [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).
 
 **How We Use the Information We Obtain**
 
-We may use the information we obtain through the Service for the purposes outlined in the Samsung US Privacy Policy, as well as to:
+We may use the information we obtain through the Service to:
 
 ·         to provide you with the Service and other integrated products and services;
 
@@ -86,7 +84,9 @@ We may use the information we obtain through the Service for the purposes outlin
 
 ·         to provide a remote management service for errors or malfunctions associated with the Samsung home appliances connected to SmartThings;
 
-·         to provide you with notifications, content, alerts, offers, customized recommendations, promotions, marketing information, communications and advertisements in connection with the Service and other Samsung products and services; and
+·         to provide you with notifications, content, alerts, offers, customized recommendations, promotions, marketing information, communications and advertisements in connection with the Service and other Samsung products and services;
+
+·         with your separate consent to “Improved personalized ads with Samsung account data,” using data collected through the Service to provide personalized ads on other Samsung services where you have opted in to receive personalized ads on that other Samsung service. More details are available in the “Marketing and Advertising” section of the Samsung account privacy notice, found here [https://eula.samsungiotcloud.com/legal/us/en/pps.html](https://eula.samsungiotcloud.com/legal/us/en/pps.html); and
 
 ·         to operate, evaluate and improve our business (including developing new products and services; enhancing and improving our products and services and the Service; managing our communications; analyzing our products and services, consumer base and the Service; aggregating and anonymizing data and performing data analytics; and performing accounting, auditing and other internal functions).
 
@@ -101,14 +101,14 @@ As stated above, this Privacy Notice supplements the Samsung US Privacy Policy (
 **Notice To California Residents  
 **If you are a California consumer, for more information about your privacy rights, please see the California Consumer Privacy Statement, available at [https://www.samsung.com/us/account/privacy-policy/california](https://www.samsung.com/us/account/privacy-policy/california).
 
-**Notice to Colorado, Connecticut, Utah and Virginia Residents**
+**State Law Privacy Rights**
 
-If you are a Colorado, Connecticut, Utah or Virginia resident, for more information about privacy rights that may be available to you subject to applicable law, please see the section of the Samsung U.S. Privacy Policy called “Your Rights and Choices,” available at [https://account.samsung.com/membership/terms/privacypolicy](https://account.samsung.com/membership/terms/privacypolicy).
+If you reside in certain states you may have rights and choices concerning your personal information. For more information about privacy rights that may be available to you subject to applicable law, please see the section of the Samsung U.S. Privacy Policy called “Your Rights and Choices,” available at [https://account.samsung.com/membership/terms/privacypolicy](https://account.samsung.com/membership/terms/privacypolicy).
 
 **Updates to This Privacy Notice**
 
 We may update this Privacy Notice from time to time and without prior notice to you to reflect changes in our personal information practices with respect to the Service.  We will indicate at the top of this Privacy Notice when it was most recently updated.
 
-Version: 1.6.0
+Version: 1.6.1
 
 [Last version](https://eula.samsungiotcloud.com/legal/us/en/ppslistbyversion.html)
