@@ -6,7 +6,7 @@
 
 [![](https://img.wonderhowto.com/images/logos/wonderhowto.mark.png)](https://www.wonderhowto.com/)
 
-[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/)
+[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/)
 
 WonderHowTo Privacy Policy
 ==========================
@@ -80,8 +80,8 @@ If you have any questions about our Privacy Policy, please contact us at .
     * [MacGyverisms](https://macgyverisms.wonderhowto.com/)
     * [Mind Hacks](https://mind-hacks.wonderhowto.com/)
     * [Mad Science](https://mad-science.wonderhowto.com/)
-    * [Lock Picking](https://lock-picking.wonderhowto.com/)
     * [Driverless](https://driverless.wonderhowto.com/)
+    * [Lock Picking](https://lock-picking.wonderhowto.com/)
 * Categories
     * [Alcohol](https://alcohol.wonderhowto.com/)
     * [Arts & Crafts](https://arts-crafts.wonderhowto.com/)
@@ -136,8 +136,8 @@ If you have any questions about our Privacy Policy, please contact us at .
         * [iOS & iPhone](https://ios.gadgethacks.com/)
         * [Mac OS Tips](https://macos.gadgethacks.com/)
         * [iPadOS](https://ipados.gadgethacks.com/)
-        * [Apple watchOS](https://watchos.gadgethacks.com/)
         * [Apple Airpods](https://airpods.gadgethacks.com/)
+        * [Apple watchOS](https://watchos.gadgethacks.com/)
         * [Apple tvOS](https://tvos.gadgethacks.com/)
     * [Internet](https://internet.gadgethacks.com/)
     * [Cord Cutters](https://cord-cutters.gadgethacks.com/)
