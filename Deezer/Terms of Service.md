@@ -1280,7 +1280,7 @@ In case of litigation, the parties will try to reach an agreement before any jud
 * [ACPS](https://www.deezer.com/explore/artist-remuneration/)
 
 * [Legal](https://www.deezer.com/legal/legal)
-* [Terms and Conditions of use](https://www.deezer.com/legal/cgu)
+* [Terms and Conditions](https://www.deezer.com/legal/cgu)
 * [Privacy policy](https://www.deezer.com/legal/personal-datas)
 * Cookies
 * [Modern Slavery Act](https://e-cdn-files.dzcdn.net/pdfs/legal/legal_uk_2023.pdf)
