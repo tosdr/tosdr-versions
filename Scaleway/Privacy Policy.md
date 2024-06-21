@@ -4,7 +4,7 @@
 * [Skip to main content](#main)
 * [Skip to footer section](#footer)
 
-[New pricing page!](https://www.scaleway.com/en/pricing/)
+[Discover our latest product updates & releases!](https://www.scaleway.com/en/q2-2024-product-launch/)
 
 * [Docs](https://www.scaleway.com/en/docs/)[Docs](https://www.scaleway.com/en/docs/)
 * [Contact](https://www.scaleway.com/en/contact/)[Contact](https://www.scaleway.com/en/contact/)
