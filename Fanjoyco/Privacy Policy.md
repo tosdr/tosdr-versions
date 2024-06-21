@@ -228,7 +228,7 @@ Currency
 
 CAD $ GBP £ USD $
 
-Amazon American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
+Amazon American Express Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
 
 * [© 2024, Fanjoy](https://fanjoy.co/)
 * [](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
