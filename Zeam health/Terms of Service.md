@@ -4,9 +4,35 @@
 
 [![](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
 
+* [About](https://www.zeamhealth.com/about/)
+    * [Mental Health Team](https://www.zeamhealth.com/mental-health-team/)
+    * [Primary Care Team](https://www.zeamhealth.com/primary-care-team/)
+    * [Aesthetics Team](https://www.zeamhealth.com/aesthetics-team/)
+* Services
+    
+    [![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Primary-Care-Hero-Image-1-768x563.jpg)](http://zeamhealth.com/primary-care/)
+    
+    [Primary Care](http://zeamhealth.com/primary-care/)
+    
+    [![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Aesthetics-768x432.webp)](http://zeamhealth.com/mental-health/)
+    
+    [Mental Health](http://zeamhealth.com/mental-health/)
+    
+    [![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Primary-Care-768x432.webp)](http://zeamhealth.com/aesthetics/)
+    
+    [Aesthetics](http://zeamhealth.com/aesthetics/)
+    
+* Patient Resources
+    
+    * [Blog](https://www.zeamhealth.com/blog/)
+    * [Insurances & Financing](https://www.zeamhealth.com/insurances-financing/)
+    * [Membership Program](https://www.zeamhealth.com/membership-program/)
+* [Testimonials](https://www.zeamhealth.com/testimonials/)
+* [Contact Us](https://www.zeamhealth.com/contact-us/)
+
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc2MzQiLCJ0b2dnbGUiOnRydWV9)
 
-[Contact Us](https://www.zeamhealth.com/contact-us/)
+Request an Appointment
 
 [Patient Portal](https://pp-wfe-102.advancedmd.com/150204/account/logon)
 
@@ -120,6 +146,45 @@ Pioneering pathways to health and beauty. Discover our holistic approach to well
 * 508 Gibson Dr, Suite 150-160,  
     Roseville, CA 95678
 
+Appointment Request
+-------------------
+
+  
+
+Preferred method of communication \*
+
+Returning
+
+New
+
+First Name \*
+
+Last Name \*
+
+Email \*
+
+Phone \*
+
+Date of Birth
+
+Sex
+
+Male
+
+Female
+
+Other
+
+Reason (optional)
+
+I have read and agreed to the <a target="\_blank" href="https://zeamhealth.com/your-privacy" aria-describedby="audioeye\_new\_window\_message"> Privacy Policy </a> and <a target="\_blank" href="https://zeamhealth.com/our-terms" aria-describedby="audioeye\_new\_window\_message"> Terms of Use </a> and I am at least 13 and have the authority to make this appointment.
+
+I Agree
+
+PLEASE NOTE: This is an appointment request only. The office will reach out to you to confirm the appointment date and time. If this is an emergency, please call the office.
+
+Request Appointment
+
 * [About](https://www.zeamhealth.com/about/)
     * [Mental Health Team](https://www.zeamhealth.com/mental-health-team/)
     * [Primary Care Team](https://www.zeamhealth.com/primary-care-team/)
@@ -133,7 +198,7 @@ Pioneering pathways to health and beauty. Discover our holistic approach to well
     * [Insurances & Financing](https://www.zeamhealth.com/insurances-financing/)
     * [Membership Program](https://www.zeamhealth.com/membership-program/)
 * [Testimonials](https://www.zeamhealth.com/testimonials/)
-* Request an Appointment
+* [Contact Us](https://www.zeamhealth.com/contact-us/)
 
 Appointment Request
 -------------------
