@@ -339,11 +339,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 
 ##### Latest
 
-1. [5 Best Arduino Courses for Beginners in 2024](https://www.classcentral.com/report/best-arduino-courses/)
-2. [6 Best Oceanography Courses for 2024](https://www.classcentral.com/report/best-oceanography-courses/)
-3. [24 Most Popular Online Courses Starting in July 2024](https://www.classcentral.com/report/most-popular-july-2024/)
-4. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
-5. [7 Best Chemistry Courses for 2024](https://www.classcentral.com/report/best-chemistry-courses/)
+1. [10 Best NumPy Courses for 2024: Efficient Scientific Computing](https://www.classcentral.com/report/best-numpy-courses/)
+2. [5 Best Arduino Courses for Beginners in 2024](https://www.classcentral.com/report/best-arduino-courses/)
+3. [6 Best Oceanography Courses for 2024](https://www.classcentral.com/report/best-oceanography-courses/)
+4. [24 Most Popular Online Courses Starting in July 2024](https://www.classcentral.com/report/most-popular-july-2024/)
+5. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -354,9 +354,9 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. hacking
+1. excel
     
-2. c
+2. web development
     
 3. html
     
@@ -364,28 +364,28 @@ Most common
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Communication Skills
     
-    4,969 courses](https://www.classcentral.com/subject/ai)
-2. [Computer Networking
+    2,837 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Software Development
     
-    1,006 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Project Management
+    5,147 courses](https://www.classcentral.com/subject/software-development)
+3. [Digital Skills
     
-    3,127 courses](https://www.classcentral.com/subject/project-management)
+    286 courses](https://www.classcentral.com/subject/digital-skills)
 
 Popular courses
 ---------------
 
-1. [Bitcoin and Cryptocurrency Technologies
+1. [Cyber Security
     
-    Princeton University](https://www.classcentral.com/course/bitcointech-3655)
-2. [Medical Parasitology | 医学寄生虫学
+    CEC](https://www.classcentral.com/course/swayam-cyber-security-13978)
+2. [The Musculoskeletal System: The Science of Staying Active into Old Age
     
-    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
-3. [Introduction to Research Ethics: Working with People
+    Newcastle University](https://www.classcentral.com/course/musculoskeletal-6738)
+3. [An Introduction to Interactive Programming in Python (Part 1)
     
-    University of Leeds](https://www.classcentral.com/course/research-ethics-an-introduction-12091)
+    Rice University](https://www.classcentral.com/course/interactivepython1-408)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
