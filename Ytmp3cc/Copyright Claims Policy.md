@@ -1,13 +1,13 @@
-[![YTMP3](/img/logo.svg)](https://ytmp3.cc/iQpO/)
+[![YTMP3](/img/logo.svg)](https://ytmp3.cc/)
 
-[Home](https://ytmp3.cc/iQpO/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
+[Home](https://ytmp3.cc/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
 Copyright Claims
 ================
 
 * We respect the intellectual property rights of others. You may not infringe the copyright, trademark or other proprietary informational rights of any party. We may in our sole discretion remove any Content we have reason to believe violates any of the intellectual property rights of others and may terminate your use of the Website if you submit any such Content.
 * REPEAT INFRINGER POLICY. AS PART OF OUR REPEAT-INFRINGEMENT POLICY, ANY USER FOR WHOSE MATERIAL WE RECEIVE THREE GOOD-FAITH AND EFFECTIVE COMPLAINTS WITHIN ANY CONTIGUOUS SIX-MONTH PERIOD WILL HAVE HIS GRANT OF USE OF THE WEBSITE TERMINATED.
-* Although we are not subject to United States law, we voluntarily comply with the Digital Millennium Copyright Act. Pursuant to Title 17, Section 512(c)(2) of the United States Code, if you believe that any of your copyrighted material is being infringed on the Website, we have designated an agent to receive notifications of claimed copyright infringement. Notifications should be e-mailed to abuse@ytmp3.cc or sent to:
+* Although we are not subject to United States law, we voluntarily comply with the Digital Millennium Copyright Act. Pursuant to Title 17, Section 512(c)(2) of the United States Code, if you believe that any of your copyrighted material is being infringed on the Website, we have designated an agent to receive notifications of claimed copyright infringement. Notifications should be e-mailed to abuse@ytmp3.cx or sent to:
     
     Copyright Agent  
     DMCA Now LLC  
@@ -31,4 +31,4 @@ Copyright Claims
     * Your name, address, telephone number, email address and a statement that you consent to the jurisdiction of the courts in the address you provided, Anguilla and the location(s) in which the purported copyright owner is located; and
     * A statement that you will accept service of process from the purported copyright owner or its agent.
 
-[Contact](https://ytmp3.cc/contact-1/)[Copyright Claims](https://ytmp3.cc/copyright-claims-1/)[Privacy Policy](https://ytmp3.cc/privacy-policy-1/)[Terms of Use](https://ytmp3.cc/terms-of-use-1/)
+[Contact](https://ytmp3.cc/contact/)[Copyright Claims](https://ytmp3.cc/copyright-claims/)[Privacy Policy](https://ytmp3.cc/privacy-policy/)[Terms of Use](https://ytmp3.cc/terms-of-use/)
