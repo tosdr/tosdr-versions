@@ -173,7 +173,7 @@ Open site navigation
 
 [Start your job search](https://www.search.co.uk/jobs/)
 
-110 Legal jobs
+102 Legal jobs
 ==============
 
 [Create job alert](https://www.search.co.uk/legal_documents/privacy_policy?specialism=legal&jobTitle=&location=)
@@ -188,28 +188,24 @@ Filter jobs
 
 * ### Specialism
     
-    * [Legal 110](https://www.search.co.uk/jobs/)
+    * [Legal 102](https://www.search.co.uk/jobs/)
         
     * [Business Support 1](https://www.search.co.uk/jobs/legal/?spec=business%20support)
         
     
 * ### Location
     
-    * [London 70](https://www.search.co.uk/jobs/legal/london/)
+    * [London 64](https://www.search.co.uk/jobs/legal/london/)
         
-    * [City of London 37](https://www.search.co.uk/jobs/legal/city-of-london/)
+    * [City of London 39](https://www.search.co.uk/jobs/legal/city-of-london/)
         
-    * [Hampshire 10](https://www.search.co.uk/jobs/legal/hampshire/)
+    * [Hampshire 9](https://www.search.co.uk/jobs/legal/hampshire/)
         
     * [Essex 7](https://www.search.co.uk/jobs/legal/essex/)
-        
-    * [Camden 6](https://www.search.co.uk/jobs/legal/camden/)
         
     * [Southampton 6](https://www.search.co.uk/jobs/legal/southampton/)
         
     * [Orpington 5](https://www.search.co.uk/jobs/legal/orpington/)
-        
-    * [Bromley 4](https://www.search.co.uk/jobs/legal/bromley/)
         
     * [East Sussex 4](https://www.search.co.uk/jobs/legal/east-sussex/)
         
@@ -219,21 +215,25 @@ Filter jobs
         
     * [Brighton 3](https://www.search.co.uk/jobs/legal/brighton/)
         
+    * [Camden 3](https://www.search.co.uk/jobs/legal/camden/)
+        
     * [Uxbridge 3](https://www.search.co.uk/jobs/legal/uxbridge/)
+        
+    * [West Sussex 3](https://www.search.co.uk/jobs/legal/west-sussex/)
         
     * [Wimbledon 3](https://www.search.co.uk/jobs/legal/wimbledon/)
         
     * [Chelmsford 2](https://www.search.co.uk/jobs/legal/chelmsford/)
         
-    * [Ealing 2](https://www.search.co.uk/jobs/legal/ealing/)
-        
     * [Farnborough 2](https://www.search.co.uk/jobs/legal/farnborough/)
+        
+    * [Haywards Heath 2](https://www.search.co.uk/jobs/legal/haywards-heath/)
         
     * [Hertfordshire 2](https://www.search.co.uk/jobs/legal/hertfordshire/)
         
-    * [Northamptonshire 2](https://www.search.co.uk/jobs/legal/northamptonshire/)
-        
     * [Perth 2](https://www.search.co.uk/jobs/legal/perth/)
+        
+    * [Perth & Kinross 2](https://www.search.co.uk/jobs/legal/perth-&-kinross/)
         
     
 * ### Salary
@@ -241,24 +241,24 @@ Filter jobs
     * * [Annum](https://www.search.co.uk/jobs/legal/?salaryPer=Annum)
         * [£20,000 - £30,000 3](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A320,000%20-%20%C2%A330,000)
             
-        * [£30,000 - £40,000 7](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
+        * [£30,000 - £40,000 6](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A330,000%20-%20%C2%A340,000)
             
-        * [£40,000 - £50,000 26](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
+        * [£40,000 - £50,000 25](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A340,000%20-%20%C2%A350,000)
             
-        * [£50,000 - £60,000 42](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
+        * [£50,000 - £60,000 38](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A350,000%20-%20%C2%A360,000)
             
-        * [£60,000 - £70,000 37](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A360,000%20-%20%C2%A370,000)
+        * [£60,000 - £70,000 33](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A360,000%20-%20%C2%A370,000)
             
-        * [£70,000 - £100,000 40](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A370,000%20-%20%C2%A3100,000)
+        * [£70,000 - £100,000 38](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A370,000%20-%20%C2%A3100,000)
             
-        * [£100,000 - £150,000 28](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A3100,000%20-%20%C2%A3150,000)
+        * [£100,000 - £150,000 29](https://www.search.co.uk/jobs/legal/?salaryPer=Annum&salaryRange=%C2%A3100,000%20-%20%C2%A3150,000)
             
         * [Day](https://www.search.co.uk/jobs/legal/?salaryPer=Day)
         * [Hour](https://www.search.co.uk/jobs/legal/?salaryPer=Hour)
     
 * ### Contract Type
     
-    * [Permanent 108](https://www.search.co.uk/jobs/legal/?contType=permanent)
+    * [Permanent 100](https://www.search.co.uk/jobs/legal/?contType=permanent)
         
     * [Contract 1](https://www.search.co.uk/jobs/legal/?contType=contract)
         
@@ -267,16 +267,16 @@ Filter jobs
     
 * ### Working Pattern
     
-    * [Full Time 80](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
+    * [Full Time 72](https://www.search.co.uk/jobs/legal/?workPat=full%20time)
         
     * [Flexi Working 30](https://www.search.co.uk/jobs/legal/?workPat=flexi%20working)
         
     
 * ### Working Arrangement
     
-    * [Hybrid 86](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
+    * [Hybrid 80](https://www.search.co.uk/jobs/legal/?workAr=hybrid)
         
-    * [On-Site 22](https://www.search.co.uk/jobs/legal/?workAr=on-site)
+    * [On-Site 20](https://www.search.co.uk/jobs/legal/?workAr=on-site)
         
     * [Remote Working 2](https://www.search.co.uk/jobs/legal/?workAr=remote%20working)
         
@@ -289,7 +289,7 @@ Filter jobs
         
     
 
-110 jobs found
+102 jobs found
 
 Sort by
 
@@ -306,6 +306,355 @@ Not sure where to start? let us help.
 * [Remote working](https://www.search.co.uk/jobs/?workAr=remote%20working)
 * [Hybrid](https://www.search.co.uk/jobs/?workAr=hybrid)
 
+* [Employment Solicitor 5+PQE](https://www.search.co.uk/job/employment-solicitor-5pluspqe/24384/)
+    -----------------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### City of London, London
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    **Top 100 Law Firm**  
+    **Senior Associate**  
+    **Employment Law**  
+    **London**  
+      
+    This top 100, full-service law firm has provided legal services and advice for businesses and individuals for more than 40 years. With three offices across the UK they are able to help clients across the country and overseas. Their clients range from private individuals, through to SME's and major national and international companies.  
+    The Employment department have a team of lawyers to advise on a wide range of employment matters, with particular specialism in the recruitment and hospitality sectors. The team have a growing volume of litigation work, particularly whistleblowing claims, as well as impressive expertise in matters pertaining to regulatory compliance, business restricting and reorganisations, and pensions.  
+      
+    The firm's London office is seeking an ambitious, talented and motivated Senior Associate to join its rapidly growing and dynamic London Employment team. This is an exciting opportunity for the successful candidate to work closely with two well regarded partners, two solicitors and a trainee. The team is standalone, but works closely with Corporate, Restructuring & Insolvency, Intellectual Property and Corporate Immigration.  
+      
+    The candidate will be able to take on work from the partners in the team and run with that case load independently as well as ideally be interested in developing their own client base. The candidate will also be able to delegate work to the two junior lawyers in the team and supervise their work as appropriate.  
+    The ideal candidate will have:
+    
+    * 5 + PQE.
+    * Full spectrum of employment law experience including: dealing with unfair dismissal claims, discrimination claims, whistle-blowing claims, TUPE; Employment Tribunal and High Court litigation (including in insolvency situations); redundancy; general advisory; and advising on senior executive exits (desired but not essential).
+    * Ability to manage own case-load.
+    * Strong interest in business development, including presenting at conferences and seminars.
+    * Assisting the partners in the team as well as delegating work to and supervising junior members of the team effectively.
+    * Passion for developing the careers and skill set of junior lawyers.
+    
+    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working a variety of other Employment Law opportunities with ranked teams in the City London so would be interested to talk to any Employment lawyer.  
+      
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/employment-solicitor-5pluspqe/24384/)
+    
+* [Residential Property Lawyer - HoD - Partnership Opportunity](https://www.search.co.uk/job/residential-property-lawyer-hod-partnership-opportunity/24367/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    £50000 - £85000 per annum + Equity
+    
+    ### Haywards Heath, West Sussex
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Flexi Working
+    * Hybrid
+    
+    My client is seeking to recruit an experienced residential property lawyer to lead a friendly team of 4 in Mid Sussex.
+    
+    The firm prides itself on its forward thinking and friendly atmosphere, this firm is a place where their staff love to work, retention is high and have a loyal and varied client base.
+    
+    The residential property team comprises of 4 lawyers and 4 support staff. The quality of work is second-to-none and this will predominantly come from their well-established relationships with local agents and agents from further afield. A Senior Partner is now looking to take a step down and enjoy retirement, therefore, candidates are sought with the ability to manage their own busy caseload from start to finish with no supervision.
+    
+    The department often receive instructions on matters involving HNW transactions, agricultural/ equestrian elements and heritage properties. Experience in these fields would be desirable but not essential. The firm is open to receiving applications from qualified fee earners and ambitious lawyers who are keen to immerse themselves in the management of the department including the CQS registration. If the latter this will be reflected in the job title and the package with options such as HoD, Salaried or Equity Partner.
+    
+    If you would like to find out more about this outstanding opportunity please do not hesitate to get in touch
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/residential-property-lawyer-hod-partnership-opportunity/24367/)
+    
+* [Civil Litigation Solicitor](https://www.search.co.uk/job/civil-litigation-solicitor/24364/)
+    --------------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### Wimbledon, London
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    **Civil Litigation Solicitor**
+    
+    **2PQE+**
+    
+    **Leading WestLondon Firm**
+    
+    **Highly Regarded Firm**
+    
+    A unique opportunity has arisen for a high-calibre Civil Litigation Solicitor with a minimum of 2 year's PQE. The ideal candidate will be confident managing a complex caseload and have excellent client care and communication skills across all levels.
+    
+    The role requires sound technical expertise across all aspects of Civil Litigation and the undertaking of fee-earning work across predominantly property litigation matters (commercial, landlord-tenant). A firm but fair approach to advising clients is essential, as well as the ability to work independently and as a member of the team.
+    
+    ### **Responsibilities Include:**
+    
+    * Managing a range of litigation matters from initial instruction through to matter conclusion
+    * Providing cost estimates to new clients
+    * Opening files and progressing matters in line with the firm and SRA's procedures
+    * Contributing to business development activity and networking events on behalf of the firm
+    
+    As a Civil Litigation Solicitor, it is essential you can demonstrate the following skills and competencies:
+    
+    * Extensive experience dealing with property litigation matters
+    * Ability to establish and maintain good client relationships, both internally and externally at all levels
+    * Calm, confident manner to handle potentially uncomfortable conversations
+    * Excellent written and verbal communication skills
+    * The ability to work under pressure and to deadlines
+    
+    This is a tremendous opportunity to not only join a prestigious litigation team but, also join one which has a very favourable working environment, giving you the work-life balance often missed by many firms.
+    
+    A competitive salary is on offer alongside a strong bonus structure.
+    
+    This is, of course, only one opportunity I am working on, I would be happy to detail both this as well as others over a brief, initial chat, alternatively reach out directly to Jamie Parsons.
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/civil-litigation-solicitor/24364/)
+    
+* [LEASEHOLD ENFRANCHISEMENT SOLICITOR](https://www.search.co.uk/job/leasehold-enfranchisement-solicitor/24361/)
+    --------------------------------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### City of London, London
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    **Leasehold Enfranchisement**
+    
+    **5PQE+**
+    
+    **Leading London Firm**
+    
+    **Multi-Award-Law Firm**
+    
+    A unique opportunity has arisen for a Leasehold Enfranchisement Senior Associate to join a well-established multi-award winning Law firm, looking for a highly enterprising, proficient and personable individual.
+    
+    The successful candidate will be responsible for handling their own matters whilst also collaborating with a team for support. The successful candidate will possess a high level of emotional intelligence to build strong relationships with colleagues and clients. Attention to detail and organisation skills are essential for this role.
+    
+    ### **Responsibilities:**
+    
+    * Manage a caseload independently
+    * Have a strong technical background, able to deal with complex matters in a fast-paced environment
+    * Stay current on industry trends and changes in legislation
+    * Maintain good working relationships with clients and referrers
+    
+    ### **Requirements:**
+    
+    * Minimum of 5 years of experience in Leasehold Enfranchisement
+    * Strong understanding of regulations and processes
+    * Excellent communication and interpersonal skills
+    * High level of emotional intelligence
+    * Exceptional attention to detail and organisational skills
+    * Ability to work independently and as part of a team
+    * Proven track record of success in Leasehold Enfranchisement matters
+    
+    This is a tremendous opportunity to not only join a prestigious firm but, also join one which has a very favourable working environment, giving you the work-life balance often missed by many firms.
+    
+    A competitive salary is on offer alongside a strong bonus structure.
+    
+    This is, of course, only one opportunity I am working on, I would be happy to detail both this as well as others over a brief, initial chat, alternatively reach out directly to Jamie Parsons.
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/leasehold-enfranchisement-solicitor/24361/)
+    
+* [Property Litigation 2pqe](https://www.search.co.uk/job/property-litigation-2pqe/24360/)
+    ----------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### Camden, London
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    **Property Litigation Solicitor**
+    
+    **2PQE+**
+    
+    **Leading London Firm**
+    
+    **Multi-Award-Law Firm**
+    
+    A unique opportunity has arisen for a Property Litigation Solicitor to join the Property Dispute Resolution department of a well-established multi-award winning Law firm in Camden, looking for a highly enterprising, proficient and personable individual.
+    
+    Our client is looking for a Property Litigation Solicitor (2+ years' PQE) to join their highly successful and reputable Property Dispute Resolution department in the heart of Camden.
+    
+    They are looking for someone to join the Property Dispute Resolution department who can work on their own initiative and assist with a very healthy, high quality and rewarding workload.
+    
+    Experience is essential in property litigation, specifically from both the landlord's and the tenant's perspective. This role would suit someone looking to specialise in commercial and residential landlord and tenant work.
+    
+    This is a tremendous opportunity to not only join a prestigious Property Litigation team but, also join one which has a very favourable working environment, giving you the work-life balance often missed by many firms.
+    
+    A competitive salary is on offer alongside a strong bonus structure.
+    
+    This is, of course, only one opportunity I am working on, I would be happy to detail both this as well as others over a brief, initial chat, alternatively reach out directly to Jamie Parsons.
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/property-litigation-2pqe/24360/)
+    
+* [Private Client 3-6 PQE](https://www.search.co.uk/job/private-client-3-6-pqe/24355/)
+    ------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### Bromley, London
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    **Private Client Solicitor**  
+    **3PQE+**  
+    **Leading South London Firm**  
+    **Highly Regarded Firm**  
+      
+    A unique opportunity has arisen for a Private Client Solicitor to join the Private Client team of a well-established multi-officed South London Law firm, looking for a highly enterprising, proficient and personable individual. You will need to be technically experienced in all aspects of Private Client work and have the ability to explain complex matters.  
+      
+    
+    Our client's Private Client team specialises in providing advice and assistance to clients in the areas of probate and trust administration. They link up where required with other specialist departments in the firm in an open and welcoming environment, which encourages teamwork and cooperation.  
+      
+    They have a partner-led approach on all matters, providing a flexible team structure which helps to develop junior members of the team and allocate work to the right level.  
+      
+    You will be responsible for providing a high-quality service to clients, advising on a range of estate administration matters including wills, probate, deputyships, LPA etc.  
+      
+    **Day-to-day responsibilities include:**  
+    
+    * Interviewing clients to get instructions
+    * Advising clients in discussing plans and progress and keeping them fully informed about their matter
+    * Providing relevant documents
+    * Keeping client and matter files in good order and ensuring that all information is recorded thoroughly and accurately
+    * Dealing with clients' queries and problems promptly and efficiently, either face-to-face or on the telephone
+    * Complying with quality standards set and with departmental procedures, when handling all matters
+    * Supporting the growth of the department by being actively involved with business development
+    
+      
+      
+    This is a tremendous opportunity to not only join a prestigious Private Client team but, also join one which has a very favourable working environment, giving you the work-life balance often missed by many firms.  
+      
+    A competitive salary is on offer alongside a strong bonus structure.  
+    This is, of course, only one opportunity I am working on, I would be happy to detail both this as well as others over a brief, initial chat, alternatively reach out directly to Jamie Parsons.
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/private-client-3-6-pqe/24355/)
+    
+* [Commercial Solicitor 1-3PQE (Sports)](https://www.search.co.uk/job/commercial-solicitor-1-3pqe-sports/24354/)
+    --------------------------------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### City of London, London
+    
+    Posted 20 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+    Sports Specialist Law Firm  
+    Commercial  
+    Associate (1-3PQE)  
+    London  
+      
+    This firm are recognised as one of the UK's top-tier sports law firm catering to prominent names in sports and media industries. Their clientele includes national and international governing bodies, broadcasters, clubs, sponsors, investors, entrepreneurs, digital media and technology companies, and high-profile athletes. The firm's Commercial practice is thriving, and they aim to augment their team with a junior associate experienced in advising on commercial issues.  
+      
+    The role will require you to advise on a wide range of commercial matters, including:
+    
+    * Major events and hosting.
+    * Sponsorship contracts.
+    * Endorsement contracts and image rights.
+    * Supply of goods/services contracts.
+    * Technology and digital contracts.
+    * IP issues
+    
+    The team are looking for a junior associate with experience gained at a leading national or international law firm and/or within a relevant in-house role. You should have excellent technical skills and experience of advising on the types of matters noted above. You will also be proactive in business development opportunities for the firm and develop business opportunities, particularly in the Swiss market.  
+      
+    Experience in the sports sector is not a pre-requisite, but you will be expected to display an understanding of the sector and a demonstrable desire to work in it. Experience in advising national and international federations would also be beneficial.  
+      
+    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working a variety of other commercial opportunities with ranked teams in the City London so would be interested to talk to any commercial lawyer.
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/commercial-solicitor-1-3pqe-sports/24354/)
+    
+* [Sports Litigation Solicitor (1-2PQE)](https://www.search.co.uk/job/sports-litigation-solicitor-1-2pqe/24341/)
+    --------------------------------------------------------------------------------------------------------------
+    
+    Negotiable
+    
+    ### City of London, London
+    
+    Posted 19 Jun 24
+    
+    * Permanent
+    * Legal
+    * Full Time
+    * Hybrid
+    
+      
+    **Sports Specialist Law Firm**  
+    **Litigation**  
+    **Associate (1-2PQE)**  
+    **London**  
+      
+    A Sports sector focussed independent law firm in London is recruiting for a Litigation Solicitor to join their team in London. The team are ranked top-tier for Sports in both Legal 500 and Chambers and consists of over 30 fee-earners who are able to advise on the most complex and important work in sports for a roaster of high profile domestic and international clients.  
+      
+    The team act for some of the most complex litigation, arbitration and regulatory matters within sport. Their established relationships with governing bodies, sports clubs, individual participants and other industry players allows them to be instructed on a wide variety of contentious matters.  
+      
+    The team are now seeking to recruit a junior associate to join their team.  
+      
+    Your work will include advising on:
+    
+    * Advising on the drafting and implementation of new regulations
+    * Internal or external regulatory investigations
+    * Disciplinary matters
+    * Commercial disputes subject to arbitration or high court litigation, predominantly within the sports context but also more broadly
+    
+      
+    This role would suit an ambitious lawyer, ideally 1-2 years' PQE, looking to join a growing and exciting firm. The ideal candidate will have:
+    
+    * Solid litigation, arbitration and/or regulatory experience from a leading City practice.
+    * Exceptional communicator, with strong client facing skills.
+    * Excellent academics.
+    * Experience in sports law is not required but a demonstrable interest in this area is essential.
+    
+    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working a variety of other litigation opportunities with ranked teams in the City London so would be interested to talk to any litigation lawyer.
+    
+    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
+    
+    [View Job](https://www.search.co.uk/job/sports-litigation-solicitor-1-2pqe/24341/)
+    
 * [Family Solicitor](https://www.search.co.uk/job/family-solicitor/24293/)
     ------------------------------------------------------------------------
     
@@ -1031,332 +1380,6 @@ Not sure where to start? let us help.
     **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
     
     [View Job](https://www.search.co.uk/job/court-administrator/24150/)
-    
-* [Commercial Property Solicitor](https://www.search.co.uk/job/commercial-property-solicitor/24140/)
-    --------------------------------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### Southampton, Hampshire
-    
-    Posted 11 Jun 24
-    
-    * Permanent
-    * Legal
-    * Flexi Working
-    * Hybrid
-    
-    A Top Tier firm, ranked in legal directories, Chambers UK and Legal 500, are looking to recruit an ambitious Commercial Property Lawyer to join their well-recognised and highly respected team in Southampton. The firm has also been ranked in Times 100 as Top Best Law Firm to work for. They are a full-service firm with over 350 specialist lawyers across 6 offices based in the Southeast and London.
-    
-    The Real Estate team is consistently ranked in the legal directories, providing you with excellent exposure to high-quality work. You will manage your own caseload of varied commercial property matters, allowing you to establish your reputation as an expert in the field. You will be part of a collaborative and supportive team, working alongside specialist professionals and "Ranked Lawyers", enabling you to accomplish great achievements in your career.
-    
-    They offer excellent opportunities for career development and progression. In addition, competitive salaries and great benefits including generous bonus scheme and pension scheme. Additionally, hybrid working and flexible working arrangements, encouraging a healthy work life balance.
-    
-    Requirements
-    
-    * Be a qualified solicitor or chartered legal executive with a minimum of 4years' PQE in Commercial Property law.
-    * Be commercially aware and have an understanding of the market, its challenges and opportunities.
-    * Have a sense of initiative and enthusiasm.
-    * Able to work well within a team and provide support to other fee-earners as appropriate.
-    * Have excellent written and verbally communication skills.
-    * Competent IT skills.
-    
-    **Please apply as directed or confidentially contact Stephanie Richardson at Search Legal for more information on 07584 104790.**
-    
-      
-      
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/commercial-property-solicitor/24140/)
-    
-* [Employment Legal Director / Partner](https://www.search.co.uk/job/employment-legal-director-partner/24124/)
-    ------------------------------------------------------------------------------------------------------------
-    
-    £70000.00 - £120000.00 per annum
-    
-    ### Southampton, Hampshire
-    
-    Posted 11 Jun 24
-    
-    * Permanent
-    * Legal
-    * Flexi Working
-    * Hybrid
-    
-    A highly regarded full-service law firm are seeking a skilled and motivated Employment Legal Director or Partner to join their office in Southampton. The firm is consistently ranked Top Tier in the legal directories, Legal 500 and Chambers and Partners. The firm pride themselves on delivering high-quality legal services to a diverse range of clients, from individuals to businesses of all sizes. Their team of expertise solicitors are committed to providing innovative and practical legal solutions to meet their clients' needs.
-    
-    As part of the team, you will have the opportunity to work with a broad client base, national and international clients across public, private and third sectors. You will be handing a mix of contentious and non-contentious work primarily supporting Employer clients.
-    
-    You will be working collaboratively with ranked and award-winning departments within the firm, surrounded by specialist professionals, also recognised for their high-quality services provided, enabling you to achieve great achievements in your career.
-    
-    They offer excellent opportunities for career development and progression. In addition, competitive salaries, great working environment, and whole host of benefits, including hybrid working.
-    
-    **Responsibilities**
-    
-    * Providing expert advice and guidance to clients on a wide range of employment law issues.
-    * Conducting negotiations, mediations and settlement discussions on behalf of clients.
-    * Drafting and reviewing employment contracts, policies and procedures to ensure compliance with relevant legislation.
-    * Advising on disciplinary and grievance matters, redundancy procedures and employment dismissals.
-    * Staying up-to-date with changes in employment legislation and proactively advising clients on the implications for their business.
-    
-    **Requirements**
-    
-    * Qualified solicitor or Legal Executive with proven experience in employment law.
-    * Experience in handling both contentious and non-contentious employment law matters.
-    * Solid understanding of UK employment legislation case law, and best practices.
-    * Strong analytical and problem-solving skills, with the ability to provide commercially-focused advice to clients.
-    * Excellent communication and negotiation skills, with the ability to build rapport with clients and stakeholders.
-    * Ability to work independently and as part of a team, managing priorities and meeting deadlines.
-    * Excellent communication skills, both written and verbally.
-    * Competent IT skills.
-    
-    **Please apply as directed or confidentially contact Stephanie Richardson at Search Legal for more information on 07584 104790.**
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/employment-legal-director-partner/24124/)
-    
-* [Commercial Property Solicitor](https://www.search.co.uk/job/commercial-property-solicitor/24114/)
-    --------------------------------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### Farnborough, Hampshire
-    
-    Posted 10 Jun 24
-    
-    * Permanent
-    * Legal
-    * Flexi Working
-    * Hybrid
-    
-    A highly-regarded firm in Hampshire/Surrey Boarders are looking to recruit a talented Commercial Property Lawyer to join their expanding specialist team. Their real estate team have been recognised and awarded many accolades including Property Firm of the Year at the Thames Valley Property Awards. They are also highly ranked in legal directories such as Legal 500 and Chambers UK.
-    
-    You will have great exposure to high-quality work and ample room for advancement for exceptional individuals looking to take your career to the next level. You will possess a comprehensive background in commercial property law, encompassing matters such as landlord and tenant issues, property sales and purchases, and secured lending transactions. Beyond your legal expertise, they are seeking an energetic and ambitious individual who can demonstrate a track record of successful business development.
-    
-    The firm provides competitive salaries, generous bonus schemes, and a range of employee benefits. Moreover, they offer the chance to join a growing and prosperous firm, fostering a flexible, supportive, and encouraging work environment.
-    
-    To be successful in this role you will:
-    
-    * Be a qualified Solicitor or Chartered Legal Executive with 4+ PQE experience in Commercial Property.
-    * Be commercially aware and have an understanding of the market, its challenges and opportunities.
-    * Have a sense of initiative and enthusiasm.
-    * Able to work well within a team and provide support to other fee-earners as appropriate.
-    * Have excellent written and verbally communication skills.
-    * Competent IT skills.
-    
-    Please apply as directed or contact Stephanie Richardson at Search Legal for more information on 07584 104790.
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/commercial-property-solicitor/24114/)
-    
-* [NQ Private Client Solicitor](https://www.search.co.uk/job/nq-private-client-solicitor/24110/)
-    ----------------------------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### Reading, Berkshire
-    
-    Posted 10 Jun 24
-    
-    * Permanent
-    * Legal
-    * Full Time
-    * On-Site
-    
-    We are currently recruiting for an NQ Solicitor to join a successful Wills, Probate, Tax and Trusts team in a top tier firm based in Reading.  
-      
-    **Key responsibilities include:**
-    
-    * Assisting with a caseload of clients in collaboration with solicitors and the Department Manager.
-    * Managing client's cases efficiently and cost-effectively.
-    * Upholding the highest professional standards in line with the firm's objectives and quality standards.
-    * Keeping clients well-informed about the firm's range of services.
-    * Supporting business development and networking efforts.
-    
-    **The successful candidate will:**
-    
-    * Have completed at least one seat during training in Wills, Probate, Tax & Trusts
-    * Be enthusiastic and hard working
-    * Have good written and verbal communication skills and excellent interpersonal skills
-    
-    Competitive Salary and benefits package.
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/nq-private-client-solicitor/24110/)
-    
-* [Employment Solicitor 5-8PQE](https://www.search.co.uk/job/employment-solicitor-5-8pqe/23981/)
-    ----------------------------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### City of London, London
-    
-    Posted 10 Jun 24
-    
-    * Permanent
-    * Legal
-    * Full Time
-    * Hybrid
-    
-    **International Law Firm**
-    
-    **Employment Law**
-    
-    **Senior Associate 5-8PQE**
-    
-    **London**
-    
-    This international law firm advises on complex disputes and transactions, with a strong sector focus on Energy, Transport and associated Infrastructure. The firm's global practice is integrated across their offices in Europe, the Middle East, Asia, Australia and North America, allowing them to advice clients across borders and locally.
-    
-    The firm's Employment team advise on the full range of employment matters for employers and employees and are especially strong in the energy and transport industries, where clients benefit from the firm's sector-specific knowledge, however, also have their own standalone clients in a wide range of sectors including technology and banking.
-    
-    The team advise employers and employees including multinational corporates, in-house lawyers, HR professionals, finance directors, managing directors and individuals on matters such as HR day-to-day advisory, corporate reorganisation, restructuring and outsourcing agreements, including in relation to TUPE issues. On contentious matters, their experience ranges from works council and collective bargaining to disciplinary issues and termination of employment.
-    
-    The firm are seeking an experienced Employment Senior Associate to join their market-leading team in London. The ideal candidate will have 5-8 years of experience gain in a highly regarded City or international law firm in London. You will be experienced in advising employers and employees on both contentious and non-contentious employment law and be proactive in business development and keen to grow the practice. You will also ideally have some experience of employment matters within the energy, transport and infrastructure sectors.
-    
-    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working on a variety of other Employment Law opportunities with ranked teams in the City London so would be interested in talking to any Employment lawyer.
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/employment-solicitor-5-8pqe/23981/)
-    
-* [Executry Paralegal](https://www.search.co.uk/job/executry-paralegal/24080/)
-    ----------------------------------------------------------------------------
-    
-    £35000.00 - £40000.00 per annum + annual bonus
-    
-    ### Aberdeen
-    
-    Posted 07 Jun 24
-    
-    * Permanent
-    * Legal
-    * Full Time
-    * Hybrid
-    
-    Due to growth we are looking for an Executry Paralegal to join a busy Private Client team of 13. You'll report directly into the Executries Manager and have access to 3 Secretaries for support.  
-      
-    Full-time, part time might be considered for the right candidate.  
-      
-    Salary depending on experience: £35,000 - £40,000  
-      
-    Day to day you will be tasked with the below:  
-    \* Handling own case load of varying degrees of complexity  
-    \* Initial instructions, investigation of family trees, investigation of assets and liabilities  
-    \* Preparation of relevant insurance, HMRC and court documents  
-    \* Submission of documents to the necessary agencies  
-    \* Gathering of assets, payment of liabilities and legacies  
-    \* Preparation of the final account and distribution to beneficiaries  
-    \* Ensuring executors are kept up to date and informed of their options at key points throughout the process  
-      
-    What you'll come with to be successful in securing an interview:  
-    \* Previous experience working as Paralegal, highly knowable on executry work  
-    \* Ability to work in a fast paced environment  
-    \* Excellent customer service skills and communication skills  
-    \* Drive to work to a high standard and manage own caseload efficiently within timelines set
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/executry-paralegal/24080/)
-    
-* [Environment Solicitor](https://www.search.co.uk/job/environment-solicitor/24055/)
-    ----------------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### City of London, London
-    
-    Posted 06 Jun 24
-    
-    * Permanent
-    * Legal
-    * Full Time
-    * Hybrid
-    
-    **International Law Firm**  
-    **Environment**  
-    **Associate/Senior Associate**  
-    **London**  
-      
-    **The Firm:**  
-    This international law firm are one of the world's largest firms, with more than 12,000+ people across 80+ countries around the world. The firm take pride in their global capabilities serving clients of all shapes and sized on a variety of legal issues.  
-      
-    **The Department:**  
-    The top tier Environment team advises across all areas of Environment and ESG, Climate Change, Sustainability, Health & Safety and product liability. The team advise an exciting and varied client base including large multinationals, private equity and institutional investor clients, as well as HM Government departments. The team offers an exciting mix of work covering transactional and advisory work as well as contentious matters including regulatory and criminal defence work.  
-      
-    The firm are recognised in the legal directories for their capabilities to advise clients on ESG-related matters and the effects of their implementation in both the short and long-term in multi-jurisdictional as well as domestic context.  
-      
-    **The Opportunity:**  
-    The team are looking for an enthusiastic solicitor with at least three years' experience to join their team and serve an increase in workload. This is an opportunity to gain knowledge and expertise from a top-tier international practice, where you can expect a varied workload with lots of responsibility and opportunity to build your own client relationships.  
-      
-    The team's current case load includes advisory work on new legislation such as the Corporate Sustainability Reporting Directive and the Corporate Sustainability Due Diligence Directive, regulatory defence work including environmental and health and safety prosecutions, as well as transactional work on large complex cross border transactions.  
-      
-    **Requirements:**  
-    To be successful in your application you will have gained experience at a top-tier law firm in London. You will have excellent academics and have experience and knowledge in: Environmental law; ESG and sustainability; Health & Safety; Human rights and social compliance; non-financial reporting and disclosure; climate change and carbon trading.  
-      
-    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working a variety of other Environmental Law opportunities with ranked teams in the City London so would be interested to talk to any Environment lawyer.
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/environment-solicitor/24055/)
-    
-* [Planning Solicitor](https://www.search.co.uk/job/planning-solicitor/24052/)
-    ----------------------------------------------------------------------------
-    
-    Negotiable
-    
-    ### City of London, London
-    
-    Posted 06 Jun 24
-    
-    * Permanent
-    * Legal
-    * Full Time
-    * Hybrid
-    
-    **Ranked UK Law Firm**  
-    **Planning**  
-    **Associate/Senior Associate**  
-    **London**  
-      
-    The ranked UK law firm comprises of over 200 specialist lawyers across 16 departments and three offices. The firm have a broad practice, spanning commercial and private clients, civil and criminal, contentious and advisory work. The practice has for many years been consistently recognised in both the Legal 500 and Chamber & Partners HNW.  
-      
-    The firm's Real Estate planning team are recognised in the legal directories for their ability to navigate the complex landscape of real estate planning, ensuring their clients' projects are well-positions for success. The team advise on all aspects of contentious and non-contentious planning law, advising developers, investors, and individuals on issues ranging from planning applications, change of use and s106 agreements as well as advising on general planning policy and litigation.  
-      
-    The team are now seeking an experience solicitor to join their team in London.  
-      
-    The ideal candidate will have experience in:
-    
-    * strategic planning advice
-    * compulsory purchase (promoting or objecting and negotiating compensation claims)
-    * planning applications, inquiries and appeals
-    * energy projects
-    * s106 agreements
-    * promotion agreements
-    * advice on implications of proposed neighbourhood plans for development proposals
-    * Community Infrastructure Levy issues
-    * environmental impact assessment and appropriate assessments (Habitat Regulations)
-    * judicial review and statutory challenges
-    * enforcement issues - criminal and civil proceeding including appeals
-    * highways agreements (s38 and s278 agreements)
-    * listed building and conservation area advice
-    * certificate of lawful development applications
-    * tree preservation orders
-    * modification and release of planning conditions
-    * planning aspects of due diligence on site acquisitions
-    * permitted development rights and prior approval applications (General Permitted Development Order 2015 applications)
-    
-      
-    Please apply as directed or confidentially contact Aidan McAvinue at Search Legal for more information. Alternatively, if this role is not for you, I am working a variety of other Planning opportunities with ranked teams in the City London so would be interested to talk to any Planning lawyer.  
-      
-    
-    **Search is an equal opportunities recruiter and we welcome applications from all suitably skilled or qualified applicants, regardless of their race, sex, disability, religion/beliefs, sexual orientation or age.**
-    
-    [View Job](https://www.search.co.uk/job/planning-solicitor/24052/)
     
 
 * [1](https://www.search.co.uk/legal_documents/%22/jobs/legal/?page=1%22)
