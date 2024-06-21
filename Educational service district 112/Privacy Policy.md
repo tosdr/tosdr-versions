@@ -108,10 +108,10 @@ Search for:
             * [School Nurse Corps Program](https://www.esd112.org/special-services/nursecorps/)
     * [Early Care & Education](https://www.esd112.org/ece/)
         * Preschool & Child Care
+            * [Child Care (Birth to Five Years and School Age)](https://www.esd112.org/ece/child-care/)
             * [Child Care Aware of Washington](https://www.esd112.org/ece/child-care-aware/)
             * [CTE Job Shadowing Program](https://www.esd112.org/ece/cte-job-shadowing/)
             * [Early Childhood Education Assistance Program (ECEAP)](https://www.esd112.org/ece/eceap/)
-            * [ECE Child Care Centers](https://www.esd112.org/ece/child-care/)
             * [ECE Volunteer Team](https://www.esd112.org/ece/volunteer/)
             * [Transitional Kindergarten](https://www.esd112.org/ece/transitional-kindergarten/)
             * [White Salmon Community Preschool](https://www.esd112.org/ece/white-salmon-community-preschool/)
