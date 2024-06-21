@@ -117,15 +117,67 @@ Global (EN)
 2. [Explore](https://test.io/)
 3. [Policies for Testers](https://test.io/policies-testers)
 
+Terms and Conditions
+
+[**Terms & conditions effective until Dec 31, 2023**](#tc-2023)
+
+[**Terms & conditions effective from Jan 1, 2024**](#tc-2024)
+
+ 
+
+Test IO GmbH General Terms and Conditions
+
+These specific terms and conditions govern the relationship between you, as a tester, and Test IO Inc. (hereinafter: “Test IO”) with respect to testing services on this subspace, and are included and incorporated by reference into the Test IO General Terms and Conditions also referred to as the “General T&Cs”. In its entirety, the contents of this document will hereinafter be referred to as the “Tester T&Cs”.
+
+If you are a “freelancer,” as agreed upon under the General T&Cs, and are working as a “tester” on the Test IO platform, the following supplemental terms shall apply.  
+  
+1. Tester. Test IO provides contractors the opportunity to work as “testers”, each individually a “tester.” Test IO gives the tester the technical means to register on a website as a tester by creating a login (“account”), so that the tester can independently process end-customer testing jobs (“test runs”) or other specific tasks as identified by Test IO (collectively, “testing gigs”). As such, the tester can decide for themselves when, where, and how often they complete testing gigs for Test IO. The tester is compensated for testing gigs according to the compensation table applicable to that particular testing gig.
+
+1.2. These Tester T&Cs are applicable to all contractual relationships between Test IO and the tester and supersede all previous agreements on this topic, effective Jan 1, 2024.
+
+2. Application of these terms. These Tester T&Cs shall apply after Test IO has activated a user account and the tester has solicited an offer for the performance of a testing gig. This email will also contain a project description, and constitutes only an “invitation to bid”. The tester can use the reply function to send Test IO a quote for the performance of the testing gig under the conditions specified in the project description. Test IO is under no obligation to accept these quotes; as such, Test IO’s inquiry does not represent a legally binding offer.
+
+3. Acceptance. Should Test IO accept the tester’s quote for performance of a testing gig, the information required to perform the testing gig will be made available to the tester shortly before the testing gig is activated. The tester’s acceptance of a testing gig does not give Test IO any legal right to have the tester work through the testing gig as per the conditions specified. Conversely, Test IO is under no obligation to accept the tester’s work if it is not done completely and in accordance with the conditions and requirements indicated in the project description. In particular, work will no longer be accepted once Test IO’s previously specified deadline for service performance has passed.
+
+4. Test Runs and Restrictions. With respect to test runs, the tester shall be paid for each error he or she discovers and reports while performing the test run, and which is accepted by Test IO. The tester must report each discovered error using the form provided by Test IO. The tester lists a description of the error on the form and assigns the error to one of three categories: Low, High, or Critical. This assessment is only for purposes of initial orientation; it is not binding for the tester’s claim to compensation. Test IO will then check the error. The tester shall not receive compensation for the error if:
+
+4.1. sequential error log numbering makes it evident to Test IO that the report is a duplicate, and that the error has previously been discovered by another tester, or  
+  
+4.2. the error cannot be reproduced by Test IO, and is thus not demonstrably present.
+
+4.3 Test IO will also check the tester’s labeling of the error as Category Low, High or Critical, and change this assignation if necessary. Test IO’s designation shall be determinative, including for calculation of the applicable payment to the tester.    
+  
+4.4 For certain testing gigs, the tester shall receive lump sum compensation for completing one or more tasks defined by Test IO, either in addition to or instead of compensation per error discovered. Such compensation may be provided for testing gigs such as (for example) research tasks, answering questionnaires, or working through so-called test cases.
+
+5. Tester’s Compensation. The tester shall be specifically informed as to the exact rate of compensation per error discovered for test runs or otherwise per testing gig. When Test IO sends the tester an email requesting that the tester submits a quote for the testing gig, the email will specify the eligible amount of compensation; the tester shall then apply this compensation rate when submitting the offer.
+
+5.1 Test IO confirms acceptance of a bid by sending a job order to the tester. Job orders are assigned exclusively to the tester who submitted the corresponding offer. Job orders may only be forwarded to third parties with Test IO’s express written permission.
+
+6. Payments.
+
+A tester’s work that was accepted by Test IO will be paid through the Cirro platform according to the General T&Cs. See [**https://cirro.io/terms**](https://cirro.io/terms), section 11 “Payment and Additional Obligations or Requirements“, for terms and conditions regarding the payment process.
+
+7. Personal Information. Test IO is authorized to retain, process and use data it receives from the tester, and data gathered in context of completing Test IO job orders, to the extent that such data usage is necessary to ensure that job orders can be completed and contractual obligations fulfilled without difficulty.
+
+8. Maintaining Confidentiality of any Discoveries. In addition to any Confidentiality terms agreed upon under the Tester T&Cs, the tester undertakes to maintain confidentiality with respect to discoveries made and information shared with the tester in connection with the services the tester provides — especially but not limited to information Test IO shares with the tester in order to complete a gig, project descriptions, discoveries made in the course of a gig, the identity of or other information related to or owned by Test IO customers that the tester becomes privy to in the course of a gig, software or other programs subject to the testing run or other tasks in connection with the services, or personal data of any type relating to any individual that the tester may have access to in the course of providing services (“Confidential Information”) — and tester agrees not to store, record, edit or delete such Confidential Information or use it, directly or indirectly, for any other purpose other than the provision of the services. The tester shall take all necessary action to prevent third parties from acquiring or commercializing such information. The tester undertakes not to pass Confidential Information, or any other information provided to it by Test IO or any Test IO customer that is related to any gig, on to third parties.  
+  
+8.1 Maintaining Confidentiality of the Gig. The tester is obligated to maintain the confidentiality of their login data (username, password, etc.), including any information regarding the testing gig or the offer for testing services, and other computer applications; the tester must not provide that information to third parties, and undertakes to avoid allowing third parties to gain access to it. The tester shall keep confidential any offers made for fees to complete the testing gigs or the completed services.
+
+9\. Test IO reserves the right to modify these Tester T&Cs or any Supplemental Terms at any time. Any changes to these Tester T&Cs can only be made in writing by Test IO, including but not limited to via emails, or text posted online and made available for the recipient to save and print. If the recipient does not agree to any updated terms or modifications of these Tester T&Cs made by Test IO, the recipient shall immediately stop using Test IO and shall send an email to Test IO at **[\[email protected\]](https://test.io/cdn-cgi/l/email-protection)**.  
+
+Specific terms and conditions for testers working for Test IO Inc., 41 University Dr. #202, Newtown, PA 18940. Version: November 22, 2023
+
+* * *
+
+ 
+
 Test IO GmbH General Terms and Conditions
 
 These general terms and conditions govern the relationship between you and Test IO GmbH (hereinafter: “Test IO”).  
   
-1. Test IO GmbH (hereinafter “Test IO”) provides contractors the opportunity to work as “testers”. In concrete terms, this means that Test IO gives testers the technical means to register on a website as testers by creating a login (“account”), so that they can process end customer jobs (“test runs”) independently. As such, testers can decide for themselves when, where, and how often they complete jobs for Test IO. Testers are compensated for their work according to the compensation table applicable to that particular test run. Testers are independent contractors and are not employees or agents of Test IO.  
-  
+1. Test IO GmbH (hereinafter “Test IO”) provides contractors the opportunity to work as “testers”. In concrete terms, this means that Test IO gives testers the technical means to register on a website as testers by creating a login (“account”), so that they can process end customer jobs (“test runs”) independently. As such, testers can decide for themselves when, where, and how often they complete jobs for Test IO. Testers are compensated for their work according to the compensation table applicable to that particular test run. Testers are independent contractors and are not employees or agents of Test IO.
 
-1.1 These terms and conditions regulate the framework conditions for testers’ work for Test IO. Acceptance of a tester’s offer to perform a test run constitutes an individual contractual relationship governed by the conditions specified at the time of job assignment and accepted by the tester. In submitting an offer to perform a test run, the tester pledges to conduct the research and work relevant to that job carefully, conscientiously, and in accordance with the principles of Test IO.  
-  
+1.1 These terms and conditions regulate the framework conditions for testers’ work for Test IO. Acceptance of a tester’s offer to perform a test run constitutes an individual contractual relationship governed by the conditions specified at the time of job assignment and accepted by the tester. In submitting an offer to perform a test run, the tester pledges to conduct the research and work relevant to that job carefully, conscientiously, and in accordance with the principles of Test IO.
 
 2\. These terms and conditions are applicable to all contractual relationships between Test IO and testers. It replaces all previous agreements, effective as of the moment at which these terms and conditions are accepted. The tester’s own terms and conditions do not apply regardless of whether Test IO expressly objects to them or not.  
   
@@ -135,10 +187,8 @@ These general terms and conditions govern the relationship between you and Test
 2.2 Side agreements made orally have no legal validity. Any changes to these terms and conditions must be made in writing, including but not limited to emails, faxes, or texts posted online and made available for the recipient to save and print. This also applies to agreements setting aside the written-form requirement.  
   
 2.3 In order to be able to work as testers, users must go through a one-time process of setting up a free user account and having that account activated by Test IO. Testers must be at least eighteen years old to set up a user account. Test IO is not legally obligated to activate user accounts. Testers are under no obligation to provide any services and can close their accounts at any time.  
-  
 
 3\. When setting up user accounts, testers are obligated to provide the requested information completely, correctly, and in the appropriate format. In individual cases, Test IO reserves the right to make account activation contingent upon the provision of suitable proof demonstrating the accuracy of the information given. Testers are obligated to keep this user information up-to-date, and to use the editing function to make any necessary changes without delay. Should Test IO be unable to contact the tester as a result of the tester’s failure to update this information as necessary, Test IO accepts no liability for the situation. The tester is obligated to compensate Test IO for any damages it incurs as a result of the tester having provided false, inaccurate, or incomplete data.  
-  
 
 3.1 Users are to select a user name and a password of their choice when setting up an account. Selected user names must not violate any rights, especially third party naming or trademark rights, and must not violate common decency. Passwords have to be kept secret and shall not be disclosed to any third party.  
   
@@ -148,7 +198,6 @@ These general terms and conditions govern the relationship between you and Test
   
 3.4 Test IO reserves the right to delete a tester’s user account and/or terminate its contractual relationship with the tester if the tester violates these terms and conditions or any other obligations arising from this contractual relationship or if the Screening as stated above will not be passed. In such cases, the tester will receive payment for any accepted work he or she has already performed for Test IO. Testers may have their accounts deleted at any time by sending an email to . Information and data subject to compulsory record retention regulations (e.g., invoices/credit vouchers) will only be deleted following expiry of the relevant retention period. All other data will be deleted at the time of the account’s deletion.
 
-****  
 3.5 Accounts will only be activated for job processing after the tester successfully performs an unremunerated warm-up test run. The tester will receive an invitation to the warm-up test run once he or she has successfully registered as per the specifications listed above. Testers have no legal claim to invitations to warm-up test runs.  
   
 3.6 Once a tester has registered an account and Test IO has activated that account, Test IO may contact the tester under the email he or she has provided in order to solicit an offer for the performance of a concrete test run. This constitutes only an “invitation to bid” (invitatio ad offerendum). Testers can use the reply function to send Test IO a quote for the performance of the test run under the conditions specified in the project description. Test IO is under no obligation to accept these quotes; as such, Test IO’s inquiry does not represent a legally binding offer.  
@@ -156,8 +205,6 @@ These general terms and conditions govern the relationship between you and Test
 3.7 Should Test IO accept the tester’s quote for performance of a test run, the information required to perform the test run will be made available to the tester shortly before the test run is activated. The tester’s acceptance of a test run does not give Test IO any legal right to have the tester work through the test run as per the conditions specified. Conversely, Test IO is under no obligation to accept the tester’s work if it is not done in accordance with the conditions and requirements indicated in the project description, and if the tester’s work qualifies as misperformance. In particular, work will no longer be accepted once Test IO’s previously specified deadline for service performance has passed.  
   
 3.8 The tester shall be paid for each error he or she discovers while performing the test run. Testers report each discovered error using the form provided by Test IO. The tester lists a description of the error on the form and assigns the error to one of three categories: Low, High, or Critical. This assessment is only for purposes of initial orientation; it is not binding for the tester’s claim to compensation. Test IO will then check the error. The tester shall not receive compensation for the error if:  
-  
-****
 
 1\. sequential error log numbering makes it evident to Test IO that the report is a duplicate, and that the error has previously been discovered by another tester, or  
   
@@ -166,18 +213,14 @@ These general terms and conditions govern the relationship between you and Test
 3\. Test IO will also check the tester’s labeling of the error as Category Low, High or Critical, and change this assignation if necessary. As per § 317 of the German Commercial Code, Test IO’s end customer is responsible for making final determinations regarding error categories.  
   
 4\. For certain test runs, the tester shall receive lump sum compensation for completing one or more jobs defined by Test IO, either in addition to or instead of compensation per error discovered. Such compensation may be provided for jobs such as (for example) research tasks, answering questionnaires, or working through so-called test cases.  
-  
 
 4\. Testers shall be specially informed as to the exact rate of compensation per error discovered (as per Section 1) or per job (as per Section 3.8 (4)) for each job. When Test IO sends the tester an email requesting that the tester submit a quote for test run performance, the email will specify a concrete amount of compensation per error discovered during the test run/per job; the tester shall then apply this compensation rate when submitting his or her offer.  
-  
 
 1\. Job orders for performance of test runs are assigned exclusively to the tester who submitted the corresponding offer. Job orders may only be forwarded to third parties with Test IO’s express written permission.  
   
 2\. The tester is responsible for all taxes (including income tax and social security contributions) on revenues he or she earns through Test IO, wherever in the world the obligation to pay such taxes arises.  
-  
 
 5\. Copyright or other intellectual property rights-protected deliverables resulting from the tester’s work remain the exclusive property of Test IO. In particular, Test IO retains the rights to reproduce, distribute, lease, edit or restructure the deliverables; the rights to show the deliverables in public or make them publicly available; and all other legally protected forms of usage. It also reserves the right to grant additional usage rights, transfer usage rights to others, or modify work titles or copyright designations, without obtaining the tester’s permission. The tester is obligated to release the deliverables resulting from his or her work activities and make them available to Test IO at any time upon Test IO’s request.  
-  
 
 1\. Test IO also retains rights to all currently unknown forms of usage (see § 31a of the German Copyright Act).  
   
@@ -194,7 +237,6 @@ These general terms and conditions govern the relationship between you and Test
 7\. Exclusive usage rights are transferred to Test IO upon completion or termination of the work. Payment of the agreed compensation amount also satisfies any other claims of ownership.  
   
 8\. The tester attests that none of the work he or she creates for Test IO contains illegal content, especially content that violates the ownership, personality, or other intellectual property rights of any third party, or content that is criminally relevant in any way. The tester is obligated to reimburse any expenses justifiably incurred by tester through third parties as a result of objections to content created by the tester. This does not apply if the tester is not liable for the legal violation. It is hereby expressly noted that Test IO checks testers’ work as a quality assurance measure, in particular for copyright-related violations.  
-  
 
 6\. As soon as the compensation due the tester as per Sections 3.7 and 4 has been established, but no later than two weeks after job order processing has finished, the corresponding credit voucher shall be issued to the tester’s account as per the payment conditions specified in the job description. No interest is paid on the credit vouchers.  
   
@@ -204,10 +246,8 @@ These general terms and conditions govern the relationship between you and Test
 2\. Payment is contingent upon the tester having provided all legally required invoicing information. In addition, Test IO will conduct a Screening as defined above. Proof of business registration and/or demonstrated evidence of recognized freelancer status as well as a passed Screening may be deemed a precondition for payments to be made. Test IO is under no obligation to pay testers where doing so would violate any applicable laws.  
   
 3\. The tester shall be responsible for all costs incurred by Test IO as a result of the tester having provided bank account information which is incorrect or out-of-date.  
-  
 
 7\. Test IO is authorized to retain, process and use data it receives from the tester, and data gathered in context of completing Test IO job orders, to the extent that such data usage is necessary to ensure that job orders can be completed and contractual obligations fulfilled without difficulty. Test IO will never forward data to third parties without the tester’s express permission, insofar as Test IO is not legally authorized or obligated to do so.  
-  
 
 1\. The tester undertakes to maintain confidentiality as regards discoveries and information shared with him or her in work-related contexts—especially discoveries and information connected to Test IO, the tester’s work for Test IO, customers, software, documentation or conversations (confidential information)—and not to store, record, edit or delete such information or use it for any other purpose other than the provision of the services. He or she shall take all necessary action to prevent third parties from acquiring or commercializing such information. The tester undertakes not to pass such information on to third parties.  
   
@@ -235,13 +275,11 @@ These general terms and conditions govern the relationship between you and Test
   
 13\. Information in physical form remains the property of Test IO. Such information, including any duplicates made by the recipient, is to be returned or destroyed immediately at Test IO’s request. In particular, information on data media is to be deleted if the nature of the format makes it impossible to return that information. The tester waives any rights of retention as regards such information.  
   
-14\. The tester agrees to comply with the Code of Conduct for Suppliers of the EPAM Group, which can be found at the following URL: [https://www.epam.com/about/who-we-are/ethics-and-compliance](https://www.epam.com/about/who-we-are/ethics-and-compliance).  
-  
+14\. The tester agrees to comply with the Code of Conduct for Suppliers of the EPAM Group, which can be found at the following URL: [**https://www.epam.com/about/who-we-are/ethics-and-compliance**](https://www.epam.com/about/who-we-are/ethics-and-compliance).  
 
 8\. The contractual relationship between Test IO and the tester is governed exclusively by the laws of the Federal Republic of Germany. The contractual language is German.  
-  
 
-1\. Please contact [\[email protected\]](https://test.io/cdn-cgi/l/email-protection) for any contract-related explanations.  
+1\. Please contact **[\[email protected\]](https://test.io/cdn-cgi/l/email-protection)** for any contract-related explanations.  
   
 2\. To the extent that this is legally permissible, for all disputes arising from the business relationship between Test IO and the tester, the place of jurisdiction is Berlin.  
   
@@ -249,6 +287,8 @@ These general terms and conditions govern the relationship between you and Test
   
 
 General terms and conditions for testers working for Test IO GmbH, Kurfürstendamm 194, 10707 Berlin. Version: January 01, 2021
+
+* * *
 
 GET IN TOUCH  
 
