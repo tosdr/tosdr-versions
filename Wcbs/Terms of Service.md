@@ -50,9 +50,10 @@
         * [Awards & Accreditations](https://www.wcbs.co.uk/about-us/awards/)
     * Knowledge
         
+        * [WCBS Academy](https://www.wcbs.co.uk/wcbs-academy/)
         * [News & Blog](https://www.wcbs.co.uk/about-us/news-blog-all/)
-        * [Testimonials](https://www.wcbs.co.uk/about-us/testimonials/)
         * [Events](https://www.wcbs.co.uk/events/)
+        * [Testimonials](https://www.wcbs.co.uk/about-us/testimonials/)
     
 * [HUBadmissions Free Trial](https://www.wcbs.co.uk/hubadmissions-free-trial/)
     * [Get Access Today](https://www.wcbs.co.uk/hubadmissions-free-trial/)
@@ -109,9 +110,10 @@
         * [Awards & Accreditations](https://www.wcbs.co.uk/about-us/awards/)
     * Knowledge
         
+        * [WCBS Academy](https://www.wcbs.co.uk/wcbs-academy/)
         * [News & Blog](https://www.wcbs.co.uk/about-us/news-blog-all/)
-        * [Testimonials](https://www.wcbs.co.uk/about-us/testimonials/)
         * [Events](https://www.wcbs.co.uk/events/)
+        * [Testimonials](https://www.wcbs.co.uk/about-us/testimonials/)
     
 * [HUBadmissions Free Trial](https://www.wcbs.co.uk/hubadmissions-free-trial/)
     * [Get Access Today](https://www.wcbs.co.uk/hubadmissions-free-trial/)
@@ -168,9 +170,10 @@
         * [Awards & Accreditations](https://www.wcbs.co.uk/about-us/awards/)
     * Knowledge
         
+        * [WCBS Academy](https://www.wcbs.co.uk/wcbs-academy/)
         * [News & Blog](https://www.wcbs.co.uk/about-us/news-blog-all/)
-        * [Testimonials](https://www.wcbs.co.uk/about-us/testimonials/)
         * [Events](https://www.wcbs.co.uk/events/)
+        * [Testimonials](https://www.wcbs.co.uk/about-us/testimonials/)
     
 * [HUBadmissions Free Trial](https://www.wcbs.co.uk/hubadmissions-free-trial/)
     * [Get Access Today](https://www.wcbs.co.uk/hubadmissions-free-trial/)
