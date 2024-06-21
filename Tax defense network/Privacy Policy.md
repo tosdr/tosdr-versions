@@ -311,7 +311,7 @@ A Few Minutes Could Save You Thousands. Get Started Now!
 
 $0 - $7,499 $7,500 - $9,999 $10,000 - $19,999 $20,000 - $49,999 $50,000 - $99,999 $100,000+ I don't owe any taxes Tax Debt Amount
 
-Please note that Tax Defense Network is a **private company** not affiliated with the IRS. If you decide to hire us to help with your tax problem(s), you will be charged for our services.
+Please note that Tax Defense Network is a **private company** not affiliated with the IRS. If you decide to hire us to help with your tax relief problem(s), you will be charged for our services.
 
 **Would you like to proceed with your free consultation?**
 
