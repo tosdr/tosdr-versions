@@ -14,11 +14,14 @@
 
 [PANELS](https://www.bisecthosting.com/control-panel)
 
-* [Games Control Panel](https://games.bisecthosting.com/)
-* [Web Hosting Panel](https://webserver3.bisecthosting.com:2083/)
-* [VPS Control Panel](https://vps2.bisecthosting.com/)
+* [Premium Minecraft](https://premium.bisecthosting.com/)
+* [Budget Minecraft](https://budget.bisecthosting.com/)
+* [Minecraft Bedrock](https://games.bisecthosting.com/)
+* [Other Games](https://games.bisecthosting.com/)
+* [Web Hosting](https://webserver3.bisecthosting.com:2083/)
+* [Server Features](https://www.bisecthosting.com/game-server-features)
+* [VPS control panel](https://vps2.bisecthosting.com/)
 * [Discord Bot](https://games.bisecthosting.com/)
-* [Mumble Control Panel](https://games.bisecthosting.com/)
 
 [MY ACCOUNT](https://www.bisecthosting.com/clients/clientarea.php)
 
@@ -28,7 +31,6 @@
 * [Why Us](https://www.bisecthosting.com/why-us)
 * [Partners](https://www.bisecthosting.com/partnerships)
 * [Blog](https://www.bisecthosting.com/blog)
-* [Server Features](https://www.bisecthosting.com/games-panel)
 
 . . .USD
 
@@ -257,12 +259,11 @@ Services
 
 * [minecraft](https://www.bisecthosting.com/minecraft-servers)
 * [Game servers](https://www.bisecthosting.com/game-server-hosting)
-* [Game Panel](https://www.bisecthosting.com/games-panel)
 * [Dedicated](https://www.bisecthosting.com/dedicated-server-hosting)
 * [Web Hosting](https://www.bisecthosting.com/web-hosting)
 * [Mumble Hosting](https://www.bisecthosting.com/mumble-server-hosting)
 * [Discord Bot](https://www.bisecthosting.com/discord-bot-hosting)
-* [Modpacks Directory](https://www.bisecthosting.com/modpacks-directory)
+* [Modpacks Directory](https://www.bisecthosting.com/modpack-server-hosting)
 * [Selector](https://www.bisecthosting.com/selector)
 
 Customers
@@ -300,11 +301,14 @@ USDGBPEURCADAUDNZDSGD
 
 [PANELS](https://www.bisecthosting.com/control-panel)
 
-* [Games Control Panel](https://games.bisecthosting.com/)
-* [Web Hosting Panel](https://webserver3.bisecthosting.com:2083/)
-* [VPS Control Panel](https://vps2.bisecthosting.com/)
+* [Premium Minecraft](https://premium.bisecthosting.com/)
+* [Budget Minecraft](https://budget.bisecthosting.com/)
+* [Minecraft Bedrock](https://games.bisecthosting.com/)
+* [Other Games](https://games.bisecthosting.com/)
+* [Web Hosting](https://webserver3.bisecthosting.com:2083/)
+* [Server Features](https://www.bisecthosting.com/game-server-features)
+* [VPS control panel](https://vps2.bisecthosting.com/)
 * [Discord Bot](https://games.bisecthosting.com/)
-* [Mumble Control Panel](https://games.bisecthosting.com/)
 
 [MY ACCOUNT](https://www.bisecthosting.com/clients/clientarea.php)
 
@@ -314,4 +318,3 @@ USDGBPEURCADAUDNZDSGD
 * [Why Us](https://www.bisecthosting.com/why-us)
 * [Partners](https://www.bisecthosting.com/partnerships)
 * [Blog](https://www.bisecthosting.com/blog)
-* [Server Features](https://www.bisecthosting.com/games-panel)
