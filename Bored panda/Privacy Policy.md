@@ -258,6 +258,18 @@ For Bored Panda Members Only, Join Our Weekly Newsletter
 
 Continue
 
+Bored Panda is Even Better on the App!
+
+Stay Updated with Real-Time Notifications
+
+Instant Access via Homescreen Tap
+
+Simple Interface - Even Your Cat Can Use It!
+
+[App Store](https://borepanda.sng.link/Dril9/qwoi/upms) [App Store](https://borepanda.sng.link/Bril9/cwkg/p628)
+
+[Get it now](https://borepanda.sng.link/Bril9/2zx2/9g6j) [Skip to the website](javascript:void(0))
+
 Privacy Policy
 ==============
 
