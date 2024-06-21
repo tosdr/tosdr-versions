@@ -1,4 +1,8 @@
-Shop the [Annual Security Event](https://www.arlo.com/en-us/annual-security-event "Annual Security Event") and get up to 57% off best-sellers!
+Shop the [Summer Security Sale](https://www.arlo.com/en-us/summer-security-sale "Father's Day Sale") and get up to $595 off best-sellers!
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Shopping made seamless. Free shipping on all orders $35 or more.
+----------------------------------------------------------------
 
 [](# "Menu")
 
@@ -8,7 +12,7 @@ Shop the [Annual Security Event](https://www.arlo.com/en-us/annual-security-even
 * [Security Plans](#)
 * [Accessories](https://www.arlo.com/en-us/accessories)
 * [Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html)
-* [Arlo Total Security](https://www.arlo.com/en-us/arlototalsecurity)
+* [Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity)
 
 * [Support](https://www.arlo.com/en-us/support)
 * [Sign in](https://www.arlo.com/en-us/login)
@@ -18,10 +22,10 @@ Shop the [Annual Security Event](https://www.arlo.com/en-us/annual-security-even
     * [Order Status](https://www.arlo.com/en-us/orderstatus)
     * [My Arlo Dashboard](https://my.arlo.com/)
     
-* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw03d907e3/images/assets/images/navigation/search.png)](# " ")
+* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw351bbac1/images/assets/images/navigation/search.png)](# " ")
 * [0
     
-    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dw9f2ad10f/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
+    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dw8073711d/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
 
 ### Security System
 
@@ -40,7 +44,7 @@ From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.ht
 Bundle Builder
 
 Build a security bundle  
-& save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+and save!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
 
 ### Cameras
 
@@ -74,7 +78,9 @@ Wireless Security Camera
 
 From $49.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html)
 
-[![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit)
+[SALE
+
+![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit)
 
 Ultra 2
 
@@ -104,9 +110,7 @@ $249.99](https://www.arlo.com/en-us/cameras/go/arlo-go-2-cameras.html)
 
 ### Doorbells
 
-[SALE
-
-![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit)
+[![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit)
 
 Video Doorbell 2K
 
@@ -126,9 +130,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 ### Floodlights
 
-[SALE
-
-![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit)
+[![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit)
 
 Pro 3
 
@@ -168,8 +170,7 @@ From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.ht
 
 Bundle Builder
 
-Build a security bundle  
-& save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+Customize your security bundle and save](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
 
 [### Cameras](https://www.arlo.com/en-us/cameras "null")
 
@@ -203,7 +204,9 @@ Wireless Security Camera
 
 From $49.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html)
 
-[![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
+[SALE
+
+![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
 
 Ultra 2
 
@@ -233,9 +236,7 @@ $249.99](https://www.arlo.com/en-us/cameras/go/arlo-go-2-cameras.html)
 
 [### Doorbells](https://www.arlo.com/en-us/doorbell "null")
 
-[SALE
-
-![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
+[![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
 
 Video Doorbell 2K
 
@@ -255,9 +256,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 [### Floodlights](https://www.arlo.com/en-us/light "null")
 
-[SALE
-
-![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
+[![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
 
 Pro 3
 
@@ -285,7 +284,7 @@ Security Plans
 
 [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
 
-[### Arlo Total Security](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
+[### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [### Products](https://www.arlo.com/en-us/products "Arlo Smart")
     
@@ -311,8 +310,7 @@ Security Plans
             
             Bundle Builder
             
-            Build a security bundle  
-            & save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+            Customize your security bundle and save](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
             
         
     * [### Cameras](https://www.arlo.com/en-us/search?cgid=undefined "null")
@@ -351,7 +349,9 @@ Security Plans
             
             From $49.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html)
             
-        * [![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
+        * [SALE
+            
+            ![Arlo Ultra 2 Spotlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwab32a5af/Products/HiRes%20Images/Ultra/2023/Ultra_UltraV2_White_Right.png?sw=840&sh=723&sm=fit "Arlo Ultra 2 Spotlight Camera")
             
             Ultra 2
             
@@ -386,9 +386,7 @@ Security Plans
         
         ### Doorbells
         
-        * [SALE
-            
-            ![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
+        * [![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
             
             Video Doorbell 2K
             
@@ -413,9 +411,7 @@ Security Plans
         
         ### Floodlights
         
-        * [SALE
-            
-            ![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
+        * [![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
             
             Pro 3
             
@@ -443,7 +439,7 @@ Security Plans
     
 * [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 * [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
-* [### Arlo Total Security](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
+* [### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [Support](https://www.arlo.com/en-us/support "Support")
 * [Store Sign In](https://www.arlo.com/en-us/login "Store Sign In ")
@@ -453,7 +449,7 @@ Security Plans
 
  
 
-Get 15% off your first order + free shipping!
+Get 10% off your first order + free shipping!
 ---------------------------------------------
 
 Be the first to know about new products and get insider-only deals that you won’t find anywhere else.\*
@@ -462,7 +458,7 @@ Be the first to know about new products and get insider-only deals that you won�
 
 By entering your email address above you agree to receive marketing emails from Arlo. All information collected will be used in accordance with our [Privacy Policy](https://www.arlo.com/en-us/privacy-policy.html).
 
-\*15% discount (up to $500) valid for first-time registrants in the U.S. from July 8, 2024 to July 21, 2024. Valid on full and sale priced products on Arlo.com only, and cannot be combined with any other offers. Excludes accessories, starter kits, Essential 2nd Gen cameras, and Video Doorbell 2K/HD. Free shipping on orders $35+. 15% off code is sent to valid email address upon submission.
+\*Discount (up to $100) valid for first-time registrants in the US only. Valid on full and sale priced products on Arlo.com only, and cannot be combined with any other offers. Excludes accessories and starter kits. 10% off code is sent to valid email address upon submission. Free shipping on orders $35+.
 
 Your promo code is on the way! Check your inbox for your unique code to use on your next order.
 
@@ -899,7 +895,6 @@ Support
 * [Track Your Order](https://www.arlo.com/en-us/orderstatus "Track Your Order")
 * [Returns](https://www.arlo.com/en-us/initiaterma "Returns")
 * [Product Warranty](https://www.arlo.com/en-us/product-warranty.html "Product Warranty")
-* [Allstate Protection Plan](https://www.arlo.com/en-us/allstate-product-protection-plan.html "Allstate Product Protection Plan")
 * [End of Life Policy](https://kb.arlo.com/000063018/End-of-Life-for-Arlo-Legacy-Cameras-and-Arlo-Services "EOL Policy")
 
 Partners
@@ -937,7 +932,6 @@ Support
 * [Track Your Order](https://www.arlo.com/en-us/orderstatus "Track Your Order")
 * [Returns](https://www.arlo.com/en-us/initiaterma "Returns")
 * [Product Warranty](https://www.arlo.com/en-us/product-warranty.html "Product Warranty")
-* [Allstate Protection Plan](https://www.arlo.com/en-us/allstate-product-protection-plan.html "Allstate Product Protection Plan")
 * [End of Life Policy](https://kb.arlo.com/000063018/End-of-Life-for-Arlo-Legacy-Cameras-and-Arlo-Services "EOL Policy")
 
 Partners
