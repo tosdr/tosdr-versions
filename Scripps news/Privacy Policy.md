@@ -84,6 +84,7 @@ Search site  Go
     
     * [News Team](https://www.scrippsnews.com/about-us/news-team)
     * [Viewer Hotline](https://www.scrippsnews.com/viewer-spotlight)
+    * [Download Our App](https://www.scrippsnews.com/about-us/download-the-scripps-news-app)
     
 * [Follow Us](https://www.facebook.com/scrippsnews)
     
