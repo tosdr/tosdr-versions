@@ -2,7 +2,7 @@
 
 * The Data
     
-    [Overview](https://commoncrawl.org/overview)[Web Graphs](https://commoncrawl.org/web-graphs)[Latest Crawl](https://commoncrawl.org/latest-crawl)
+    [Overview](https://commoncrawl.org/overview)[Web Graphs](https://commoncrawl.org/web-graphs)[Latest Crawl](https://commoncrawl.org/latest-crawl)[Statistics](https://commoncrawl.github.io/cc-crawl-statistics/)
     
 * Resources
     
@@ -10,7 +10,7 @@
     
 * Community
     
-    [Research Papers](https://commoncrawl.org/research-papers)[Mailing List Archive](https://groups.google.com/g/common-crawl)[Discord Server](https://discord.gg/njaVFh7avF)[Collaborators](https://commoncrawl.org/collaborators)
+    [Research Papers](https://commoncrawl.org/research-papers)[Mailing List Archive](https://groups.google.com/g/common-crawl)[Hugging Face](https://huggingface.co/commoncrawl)[Discord](https://discord.gg/njaVFh7avF)[Collaborators](https://commoncrawl.org/collaborators)
     
 * About
     
@@ -263,6 +263,8 @@ The Data
 
 ### [Latest Crawl](https://commoncrawl.org/latest-crawl)
 
+### [Statistics](https://commoncrawl.github.io/cc-crawl-statistics/)
+
 Resources
 ---------
 
@@ -287,7 +289,9 @@ Community
 
 ### [Mailing List Archive](https://groups.google.com/g/common-crawl)
 
-### [Discord Server](https://discord.gg/njaVFh7avF)
+### [Hugging Face](https://huggingface.co/commoncrawl)
+
+### [Discord](https://discord.gg/njaVFh7avF)
 
 ### [Collaborators](https://commoncrawl.org/collaborators)
 
@@ -304,6 +308,6 @@ About
 
 ### [Terms of Use](https://commoncrawl.org/terms-of-use)
 
-[![Twitter Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/648ef3af9ae84f3d53350a14_twitter.svg)](https://twitter.com/commoncrawl)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)
+[![Twitter Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg)](https://x.com/commoncrawl)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1).svg)](https://www.linkedin.com/company/common-crawl/)[![LinkedIn Logo](https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg)](https://discord.gg/njaVFh7avF)
 
 © 2023 Common Crawl
