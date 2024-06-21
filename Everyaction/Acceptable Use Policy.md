@@ -500,6 +500,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Two people participating in a Pride celebration](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/bonterra-hudson-pride_header-photo.jpg.webp?itok=JwWZ5Ree)
+
+**Expanding support to the LGBTQ+ community**
+
+Hudson Pride Center continues to address the many needs of the greater Hudson County LGBTQ+ community.
+
+[Read their story onExpanding support to the LGBTQ+ community](https://www.everyaction.com/case-studies/expanding-support-lgbtq-community)
+
+Impact Powered by:
+
 ![Sun rising over the blue ridge mountains](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/roanoke-istock-1443619685-noise.jpg.webp?itok=Uz35W-fd)
 
 **Championing mental health in the Blue Ridge Mountains**
@@ -562,28 +572,6 @@ Impact Powered by:
 * Corporate social responsibility
 * Employee giving
 * Employee volunteering
-
-![A father and son are leaning against a fence in a field together, looking at the wind turbines.](/sites/default/files/styles/carousel_square_450x450_/public/2024-03/1289220932.jpeg.webp?itok=U7OQ8-J1)
-
-**How to embrace employee-centered philanthropy**
-
-Since transitioning to Bonterra Strategic Philanthropy, this manufacturing company has been able to increase employee participation, facilitate seamless reporting, and disburse funds safely and secure
-
-[Read their story onHow to embrace employee-centered philanthropy](https://www.everyaction.com/case-studies/how-embrace-employee-centered-philanthropy)
-
-Impact Powered by:
-
-* Corporate Social Responsibility
-* Environmental change
-* Diversity, equity, inclusion & belonging (DEIB)
-* Disaster relief
-* Education
-* Volunteerism
-* Corporations
-* Corporate social responsibility
-* Employee giving
-* Employee volunteering
-* Grant management & grant making
 
 Previous Next
 
