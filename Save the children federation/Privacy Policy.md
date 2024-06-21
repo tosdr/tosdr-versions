@@ -1,21 +1,25 @@
-We have detected that JavaScript is disabled in your web browser. Please follow [these instructions](http://www.enable-javascript.com/) to turn it on to get the best possible experience on our website.
+[Skip to main content](#main-content)
 
-Hello, 
+Hello,
 
-* [Complete My Donation](https://support.savethechildren.org/site/Ecommerce/?store_id=1241&VIEW_CART=1)
-* [Sign In](https://support.savethechildren.org/site/SPageNavigator/login.html)
-* [My Account](https://support.savethechildren.org/site/SPageNavigator/supporter_center.html)
-* [Sign Out](https://support.savethechildren.org/site/UserLogin?logout=1&NEXTURL=)
+[Complete My Donation](https://support.savethechildren.org/site/Ecommerce/?store_id=1241&amp%3BVIEW_CART=1)
 
-[![Save the Children](/etc/clientlibs/us/clientlib-site/images/icons/stc-logo.svg)](https://www.savethechildren.org/)
+[My Account](https://support.savethechildren.org/site/SPageNavigator/supporter_center.html#!/)
 
-Search
+[Sign In](https://support.savethechildren.org/site/SPageNavigator/login.html)
 
-Menu
+[Sign Out](https://support.savethechildren.org/site/UserLogin?logout=1&NEXTURL=https%3A//www.savethechildren.org/)
 
- Search
+[![Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)](https://www.savethechildren.org/)
+
+[Search](#)
+
+Search 
+
+[Menu Menu](#)
 
 * [Who We Are](https://www.savethechildren.org/us/about-us)
+    
     * [Why Save the Children?](https://www.savethechildren.org/us/about-us/why-save-the-children)
     * [Charity Ratings](https://www.savethechildren.org/us/about-us/charity-ratings)
     * [Leadership and Trustees](https://www.savethechildren.org/us/about-us/leadership-and-trustees)
@@ -23,35 +27,58 @@ Menu
     * [Media, Reports & Resources](https://www.savethechildren.org/us/about-us/media-and-news)
     * [Financial Information](https://www.savethechildren.org/us/about-us/financial-information)
     * [Careers](https://www.savethechildren.org/us/about-us/careers)
+    
 * [What We Do](https://www.savethechildren.org/us/what-we-do)
+    
     * [Where We Work](https://www.savethechildren.org/us/where-we-work)
     * [Hunger and Famine](https://www.savethechildren.org/us/what-we-do/emergency-response/hunger-and-famine-crisis)
     * [Ukraine Conflict](https://www.savethechildren.org/us/where-we-work/ukraine)
     * [Climate Crisis](https://www.savethechildren.org/us/what-we-do/emergency-response/climate-change)
-    * [Poverty in America](https://www.savethechildren.org/us/charity-stories/poverty-in-america)
+    * [Poverty in America](https://www.savethechildren.org/us/charity-stories/poverty-in-america "WHERE WE WORK We champion the rights of the world’s 2.3 billion children In the U.S. and around the world, Save the Children does whatever it takes — every day and in times of crisis — to ensure children grow up healthy, educated and safe. We are often t")
     * [Health](https://www.savethechildren.org/us/what-we-do/health)
     * [Education](https://www.savethechildren.org/us/what-we-do/education)
     * [Policy and Advocacy](https://www.savethechildren.org/us/what-we-do/policy-and-advocacy)
     * [Emergency Response](https://www.savethechildren.org/us/what-we-do/emergency-response)
+    
 * [Ways to Help](https://www.savethechildren.org/us/ways-to-help)
+    
     * [Ways to Give](https://www.savethechildren.org/us/ways-to-help/ways-to-give)
     * [Fundraise for Kids](https://www.savethechildren.org/us/ways-to-help/become-a-fundraiser)
     * [Donor-Advised Funds](https://www.savethechildren.org/us/ways-to-help/ways-to-give/donor-advised-funds)
     * [Plan Your Legacy](https://www.savethechildren.org/us/ways-to-help/plan-your-legacy)
     * [Advocate for Children](https://www.savethechildren.org/us/ways-to-help/advocate-for-children)
     * [Volunteer](https://www.savethechildren.org/us/ways-to-help/how-to-volunteer)
+    
 * [Browse Gift Catalog](https://support.savethechildren.org/site/Ecommerce?store_id=1241&FOLDER=1368&TYPE=)
+    
     * [Popular Gifts](https://support.savethechildren.org/site/Ecommerce?store_id=1241&FOLDER=1100&TYPE=&SORT_ORDER=name)
     * [By Price](https://support.savethechildren.org/site/Ecommerce?store_id=1241&FOLDER=0&TYPE=&SORT_ORDER=ascending#section--products)
     * [By Category](https://support.savethechildren.org/site/Ecommerce?store_id=1241&VIEW_HOMEPAGE=true#section--categories)
     * [All Gifts](https://support.savethechildren.org/site/Ecommerce?store_id=1241&FOLDER=0&TYPE=&SORT_ORDER=name)
+    
 * [Monthly Support](https://www.savethechildren.org/us/donate-monthly-childrens-charity)
+    
     * [Join Team Tomorrow](https://www.savethechildren.org/us/donate-monthly-childrens-charity/team-tomorrow)
-* [Donate](https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1)
+    
+* [Donate](https://support.savethechildren.org/site/Donation2?df_id=1620&1620_donation=form1)
 
-* [Donate](https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1)
+Hello,
 
- [![home](/etc/clientlibs/us/clientlib-site/images/icons/house.svg "home")](https://www.savethechildren.org/)[About Us](https://www.savethechildren.org/us/about-us) Privacy Policy
+[Complete My Donation](https://support.savethechildren.org/site/Ecommerce/?store_id=1241&amp%3BVIEW_CART=1)
+
+[My Account](https://support.savethechildren.org/site/SPageNavigator/supporter_center.html#!/)
+
+[Sign In](https://support.savethechildren.org/site/SPageNavigator/login.html)
+
+[Sign Out](https://support.savethechildren.org/site/UserLogin?logout=1&NEXTURL=https%3A//www.savethechildren.org/)
+
+Breadcrumb
+
+1. [](https://www.savethechildren.org/)[Home](https://www.savethechildren.org/)
+2. [About Us](https://www.savethechildren.org/us/about-us)
+3. Privacy Policy
+
+[DONATE](https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1 "DONATE")
 
 Privacy Policy
 ==============
@@ -187,7 +214,7 @@ Cookies and how we use them:
 
 A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer, if you agree. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device and to target the content displayed to the user’s interests.
 
-You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies").
+You can find more information about cookies at [www.allaboutcookies.org](https://www.allaboutcookies.org/ "All About Cookies").
 
 **Do we use cookies?**
 
@@ -317,7 +344,7 @@ Please consult your tax or financial advisor for specific questions about your g
 
 Age Requirement – MGF does not offer services to, or knowingly collect or solicit information from, anyone under the age of 13. Individuals under the age of 13 may not provide us with any information or use our services. Any information we receive from users believed to be under 13 will be deleted from our system.
 
-For full terms and conditions, visit [http://mobilegiving.org/terms-and-conditions/](http://mobilegiving.org/terms-and-conditions/ "Mobile Giving").
+For full terms and conditions, visit [https://mobilegiving.org/terms-and-conditions/](https://mobilegiving.org/terms-and-conditions/ "Mobile Giving").
 
 ### Contacting Save the Children About Privacy Preferences:
 
@@ -345,25 +372,21 @@ You can exercise any of these rights by contacting us using the Contact Us secti
 
 Sign Up & Stay Connected
 
-\*First Name 
+First Name 
 
-\*Last Name 
+Last Name 
 
-\*Email Address 
+Email Address 
 
 Mobile Number 
 
-SIGN UP
+By providing my mobile phone number, I agree to receive recurring text messages from Save the Children (48188) and phone calls with opportunities to donate and ways to engage in our mission to support children around the world. Text STOP to opt-out, HELP for info. Message & data rates may apply. View our Privacy Policy at savethechildren.org/privacy.
 
-Spam Control Text:   Please leave this field empty Spam Control Text:   Please leave this field empty
+    
 
-  
+Leave this field blank 
 
-Welcome!
-
-Thank you for signing up! Now, you’ll be among the first to know how Save the Children is responding to the most urgent needs of children, every day and in times of crisis—and how your support can make a difference. You may opt-out at any time by clicking "unsubscribe" at the bottom of any email.
-
-_By providing my mobile phone number, I agree to receive recurring text messages from Save the Children (48188) and phone calls with opportunities to donate and ways to engage in our mission to support children around the world. Text STOP to opt-out, HELP for info. Message & data rates may apply. View our Privacy Policy at_ savethechildren.org/privacy.
+Footer Menu Links
 
 * [Learn More](https://www.savethechildren.org/us/about-us)
 * [Why Save the Children?](https://www.savethechildren.org/us/about-us/why-save-the-children)
@@ -373,35 +396,51 @@ _By providing my mobile phone number, I agree to receive recurring text messages
 * [Frequently Asked Questions](https://www.savethechildren.org/us/about-us/frequently-asked-questions)
 * [Charity Ratings](https://www.savethechildren.org/us/about-us/charity-ratings)
 
-[Donate Now](https://support.savethechildren.org/site/Donation2?df_id=1620&1620.donation=form1)
-
-[![A pie chart showing Save the Children's program funding allocation.](/content/dam/usa/reports/annual-report/annual-report/2022-annual-report/2022-pie-chart-for-web-footer.png)](https://www.savethechildren.org/us/about-us/financial-information)
+      [![A pie chart showing Save the Children's program funding allocation.](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "A pie chart showing Save the Children's program funding allocation.")](https://www.savethechildren.org/us/about-us/financial-information "pie-chart")
 
 An organization you can trust
 
 When you give, 86% of every dollar goes straight to our mission. [Find out more](https://www.savethechildren.org/us/about-us/financial-information "Financial Information").
 
- [![Charity Navigator Logo](/content/dam/usa/images/donors/partners/Charity-Navigator-Sm-Logo.png)](https://www.savethechildren.org/us/about-us/charity-ratings)[![Charity Watch Top Rated Logo](/content/dam/usa/images/donors/partners/Charity-Watch-Sm-Logo.png)](https://www.savethechildren.org/us/about-us/charity-ratings)[![Better Business Bureau Accredited Charity Logo](/content/dam/usa/images/graphics/bbb-logo.svg)](https://www.savethechildren.org/us/about-us/charity-ratings)
+      [![Charity Navigator Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "Charity Navigator Logo")](https://www.savethechildren.org/us/about-us/charity-ratings "/us/about-us/charity-ratings")[![Charity Watch Top Rated Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== "Charity Watch Top Rated Logo")](https://www.savethechildren.org/us/about-us/charity-ratings "/us/about-us/charity-ratings")[![Better Business Bureau Accredited Charity Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)](https://www.savethechildren.org/us/about-us/charity-ratings "/us/about-us/charity-ratings")
 
-![Bitcoin Logo](/content/dam/usa/images/graphics/Bitcoin.svg)
+[Contact Us](https://www.savethechildren.org/us/about-us/contact-us)
 
-[We accept cryptocurrency](https://support.savethechildren.org/site/SPageNavigator/donation__crypto.html)
-
-[Contact Us](https://www.savethechildren.org/us/about-us/contact-us)  
-501 Kings Highway East, Suite 400, Fairfield, CT 06825  
+501 Kings Highway East, Suite 400, Fairfield, CT 06825   
 Main Office # [203.221.4000](tel:+12032214000) | Mon-Fri 9:00am-5:00pm EST  
-Donor Services # [1.800.728.3843](tel:+18007283843) | Mon-Fri 8:00am-5:00pm EST  
+Donor Services # [1.800.728.3843](tel:+18007283843) | Mon-Fri 8:00am-5:00pm EST   
 [Report fraud, abuse, wrongdoing](https://www.savethechildren.org/us/about-us/report-wrongdoings)
 
-[![Facebook](/etc/clientlibs/us/clientlib-site/images/icons/facebook-initial.svg)](https://www.facebook.com/savethechildren) [![Twitter](/etc/clientlibs/us/clientlib-site/images/icons/x-logo.svg)](https://twitter.com/savethechildren) [![Instagram](/etc/clientlibs/us/clientlib-site/images/icons/instagram.svg)](https://www.instagram.com/savethechildren/) [![Pinterest](/etc/clientlibs/us/clientlib-site/images/icons/pinterest.svg)](https://www.pinterest.com/savethechildren/) [![Youtube](/etc/clientlibs/us/clientlib-site/images/icons/youtube-tv.svg)](https://www.youtube.com/c/savethechildren) [![Snapchat](/etc/clientlibs/us/clientlib-site/images/icons/snapchat.svg)](https://www.snapchat.com/add/SavetheChildren) [![LinkedIn](/etc/clientlibs/us/clientlib-site/images/icons/linkedin.svg)](https://www.linkedin.com/company/save-the-children-us)
+* [](https://www.facebook.com/savethechildren "facebook")
+* [](https://www.twitter.com/savethechildren "twitter")
+* [](https://www.instagram.com/savethechildren/ "instagram")
+* [](https://www.pinterest.com/savethechildren/ "pinterest")
+* [](https://www.youtube.com/c/savethechildren "youtube")
+* [](https://snapchat.com/add/SavetheChildren "snapchat")
+* [](https://www.linkedin.com//company/save-the-children-us/ "linkedin")
 
-* [Privacy Policy](https://www.savethechildren.org/us/about-us/privacy-policy) |
-* [Terms of Use](https://www.savethechildren.org/us/about-us/terms-of-use) |
-* [Legal Disclosure](https://www.savethechildren.org/us/about-us/financial-information/legal-disclosure) |
-* [Financial Information](https://www.savethechildren.org/us/about-us/financial-information) |
-* [Sitemap](https://www.savethechildren.org/us/sitemap) |
-* [Newsroom](https://www.savethechildren.org/us/about-us/media-and-news) |
-* [Careers](https://www.savethechildren.org/us/about-us/careers) |
+* [Donate Now](https://support.savethechildren.org/site/Donation2?df_id=1620&1620_donation=form1 "Donate Now")
+    
+* ![Bitcoin Logo](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+    
+    [We accept cryptocurrency](https://support.savethechildren.org/site/SPageNavigator/donation__crypto.html "We accept cryptocurrency")
+    
+
+Footer
+
+* [Privacy Policy](https://www.savethechildren.org/us/about-us/privacy-policy)
+* [Terms of Use](https://www.savethechildren.org/us/about-us/terms-of-use)
+* [Legal Disclosure](https://www.savethechildren.org/us/about-us/financial-information/legal-disclosure)
+* [Financial Information](https://www.savethechildren.org/us/about-us/financial-information)
+* [Sitemap](https://www.savethechildren.org/us/sitemap)
+* [Newsroom](https://www.savethechildren.org/us/about-us/media-and-news)
+* [Careers](https://www.savethechildren.org/us/about-us/careers)
 * [Contact Us](https://www.savethechildren.org/us/about-us/contact-us)
 
 © 2024 Save the Children Save the Children Federation, Inc. is a 501(c)(3) organization. Gifts are deductible to the full extent allowable under IRS regulations.
+
+Our website has a lot of features which will not display correctly without Javascript.
+
+#### Please enable Javascript in your browser
+
+Here how you can do it: [http://enable-javascript.com](http://enable-javascript.com/)
