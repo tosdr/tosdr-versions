@@ -1,6 +1,6 @@
   
 
-  
+   
 
 [![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/)
 
@@ -233,7 +233,7 @@
         * [Log in to the Business Solutions Partners portal](https://pan.bitdefender.com/)
         * [Find a Reseller](https://www.bitdefender.com/partners/partner-locator.html)
         * [Already a Partner?](https://pan.bitdefender.com/)
-        * [Join our Affiliates Program](https://app.impact.com/campaign-promo-signup/Bitdefender.brand?execution=e1s1)
+        * [Join our Affiliates Program](https://www.bitdefender.com/partners/affiliate-partners.html)
         
         View All
         
