@@ -39,9 +39,9 @@ editorial \_
 
 coverstory \_
 
-[![This Little Gem Reveals a Modern Princess Castle Disguised as a Tiny House](https://s1.cdn.autoevolution.com/images/news/this-little-gem-reveals-a-modern-princess-castle-disguised-as-a-tiny-house-235597-5.jpg "This Little Gem Reveals a Modern Princess Castle Disguised as a Tiny House")
+[![New Bugatti Tourbillon vs Rimac Nevera Comparison: Emotions Over Reason](https://s1.cdn.autoevolution.com/images/news/new-bugatti-tourbillon-vs-rimac-nevera-comparison-emotions-over-reason-235720-5.jpeg "New Bugatti Tourbillon vs Rimac Nevera Comparison: Emotions Over Reason")
 
-This Little Gem Reveals a Modern Princess Castle Disguised as a Tiny House](https://www.autoevolution.com/news/this-little-gem-reveals-a-modern-princess-castle-disguised-as-a-tiny-house-235597.html)
+New Bugatti Tourbillon vs Rimac Nevera Comparison: Emotions Over Reason](https://www.autoevolution.com/news/new-bugatti-tourbillon-vs-rimac-nevera-comparison-emotions-over-reason-235720.html)
 
 how-to \_
 
