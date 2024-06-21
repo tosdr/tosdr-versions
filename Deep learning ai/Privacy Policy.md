@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [Carbon Aware Computing for GenAI Developers](https://bit.ly/3xB5ZoH)
+🌟 New Course! Enroll in [Function-calling and Data Extraction With LLMs](https://bit.ly/3RrUzKT)
 
 [](https://www.deeplearning.ai/)
 
@@ -20,7 +20,7 @@
     * [Careers](https://www.deeplearning.ai/careers/)
     * [Contact](https://www.deeplearning.ai/contact/)
 
-[Start Learning](https://bit.ly/4cwWNAv)
+[Start Learning](https://bit.ly/4c0ve2M)
 
 **PRIVACY POLICY**
 ==================
