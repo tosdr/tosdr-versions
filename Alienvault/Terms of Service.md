@@ -1,7 +1,7 @@
-be\_ixf;ym\_202406 d\_19; ct\_50
+be\_ixf;ym\_202406 d\_21; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=13be815ca80c49f4933acc12837f525a&elqaid=1775&elqat=1&elqCampaignId=1587
+* https://cybersecurity.att.com/terms/website
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
@@ -167,11 +167,11 @@ be\_ixf;ym\_202406 d\_19; ct\_50
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            blog
+            Blog: Security Essentials
             
-            ##### LevelBlue Labs Discovers Highly Evasive, New Loader Targeting Chinese Organizations
+            ##### The Best Proxy Servers for Multi-Accounting
             
-            [Learn more](https://cybersecurity.att.com/blogs/labs-research/highly-evasive-squidloader-targets-chinese-organizations)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/the-best-proxy-servers-for-multi-accounting)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -546,13 +546,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Fernando Dominguez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Anas Baig](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Fernando Dominguez
+#### Anas Baig
 
-Jun 19, 2024
+Jun 20, 2024
 
-### [LevelBlue Labs Discovers Highly Evasive, New Loader Targeting Chinese Organizations](https://cybersecurity.att.com/blogs/labs-research/highly-evasive-squidloader-targets-chinese-organizations)
+### [The Best Proxy Servers for Multi-Accounting](https://cybersecurity.att.com/blogs/security-essentials/the-best-proxy-servers-for-multi-accounting)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
