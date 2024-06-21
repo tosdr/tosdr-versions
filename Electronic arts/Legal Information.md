@@ -20,6 +20,10 @@ What you can find here:
 
 [My Privacy Rights](https://www.ea.com/en-us/legal/privacy-portal)
 
+### Notice to Parents
+
+[Notice to Parents](https://www.ea.com/en-us/legal/notice-to-parents)
+
 ### Copyright Infringement Notice
 
 [Copyright Infringement Notice](https://www.ea.com/en-us/legal/copyright-infringement-notice)
