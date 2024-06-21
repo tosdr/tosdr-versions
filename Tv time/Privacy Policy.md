@@ -1,5 +1,5 @@
-Whip Networks Services - Privacy Policy \[UPDATED\]
-===================================================
+Whip Networks Services - Privacy Policy
+=======================================
 
 Updated and Effective Date: This privacy policy (this “Privacy Policy”) is effective and was last updated as of April 22, 2024.
 
@@ -23,7 +23,7 @@ Table of Contents
 11. [How Long We Retain Your Information](https://www.tvtime.com/privacy/#toc_11)
 12. [Contact Us](https://www.tvtime.com/privacy/#toc_12)
 13. [Notice to Nevada Residents](https://www.tvtime.com/privacy/#toc_13)
-14. [Notice to California Residents \[UPDATED\]](https://www.tvtime.com/privacy/#toc_14)
+14. [Notice to California Residents](https://www.tvtime.com/privacy/#toc_14)
 15. [Information for European Union/European Economic Area and UK Residents](https://www.tvtime.com/privacy/#toc_15)
 16. [Additional Information for Canadian Residents](https://www.tvtime.com/privacy/#toc_16)
 17. [Additional Information if You Are Located in Countries Outside the US, EU/EEA, UK, or Canada](https://www.tvtime.com/privacy/#toc_17)
@@ -152,7 +152,7 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 
 Nevada S.B. 220 provides consumers with the ability to opt out of the sale of their personal information. We do not sell your personal information as defined in S.B. 220. However, you may still submit an opt-out request, and if our practices were to change in the future, we would honor your request. If you are a Nevada resident and would like to opt out of the sale of your covered information, your request must be submitted to [support@tvtime.com](mailto:support@tvtime.com). Your request must include your full name, street address, city, state, zip code, and a valid email address so that we can contact you if needed regarding your request. If you previously provided a phone number, including it will assist us in making sure we identify you as someone who wants to opt out. You may be required to take reasonable steps as we determine from time to time to verify your identity and/or the authenticity of your request.
 
-### 14\. Notice to California Residents \[UPDATED\]
+### 14\. Notice to California Residents
 
 **This California Privacy Notice is effective as of April 22, 2024.**
 
