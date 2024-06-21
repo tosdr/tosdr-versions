@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Videos](https://xhamster.com/)
     * [Best Videos](https://xhamster.com/best/weekly)
-    * [Moments](https://xhamster.com/moments/am-i-your-type-xhbMi7A)
+    * [Moments](https://xhamster.com/moments/obscure-cult-ill-make-you-crave-for-have-more-let-yourself-be-enclosed-from-the-cult-serving-me-the-cult-in-the-darkbrat-depths-in-edge-from-today-live-in-your-mind-and-makes-your-dream-wet-show-xh1Gcaf)
     * [Watch History](https://xhamster.com/my/watch-history)
     
     * [British](https://xhamster.com/categories/british)
@@ -39,7 +39,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
     
     * [All categories](https://xhamster.com/categories)
 * [0](https://xhamster.com/my/subscriptions)
-* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22h%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6672a27c4af448.89696925531&xhSessionToken=6230efa31bfea7a2cb157105dec877b1dacd24b8&xhSessionStartedAt=1718788732)
+* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22i%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6675443b3f5395.08779845031&xhSessionToken=6d4bc20e9bf8169e12dac102f987ca7646df0175&xhSessionStartedAt=1718961211)
 * [Categories](https://xhamster.com/categories)
     * [British](https://xhamster.com/categories/british)
     * [Mature](https://xhamster.com/categories/mature)
@@ -90,7 +90,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 Privacy Policy
 ==============
 
-Effective Date: June 19, 2024
+Effective Date: June 21, 2024
 
 Last Modified: January 04, 2024
 
