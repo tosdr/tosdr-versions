@@ -1,3 +1,5 @@
+![](https://d21y75miwcfqoq.cloudfront.net/fee5e7a1)
+
 [Skip to main content](#main-content)[Skip to footer](#footer)
 
 [![luckysupermarkets](/images/logos/lucky-logo-dark.svg)](https://www.luckysupermarkets.com/)
