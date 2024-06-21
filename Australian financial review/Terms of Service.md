@@ -319,57 +319,57 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Traditional blue and white Wedgwood tea set splattered with abstract paint finish. ](https://static.ffx.io/images/$zoom_0.2599%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_201%2C$y_282/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8cd84fa24055f33ce24696ca29bb22e8a8f58ee8)](https://www.afr.com/life-and-luxury/design/wedgwood-smashes-tradition-20240618-p5jmnf)
+[![ ](https://static.ffx.io/images/$zoom_0.3035%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_306%2C$y_318/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1ff74a6d1f7b529ea9f7bce9d98d26f1b9f8dbdd)](https://www.afr.com/life-and-luxury/fashion-and-style/the-under-the-radar-watch-brands-worth-your-time-20240603-p5jitk)
 
-### [Wedgwood smashes tradition](https://www.afr.com/life-and-luxury/design/wedgwood-smashes-tradition-20240618-p5jmnf)
+### [The under-the-radar watch brands worth your time](https://www.afr.com/life-and-luxury/fashion-and-style/the-under-the-radar-watch-brands-worth-your-time-20240603-p5jitk)
 
-* Benjamen Judd
+* Bani McSpedden
 
-* ### [The sixth generation is making its mark on this 175-year-old business](https://www.afr.com/life-and-luxury/food-and-wine/the-sixth-generation-is-making-its-mark-on-this-175-year-old-business-20240528-p5jh9i)
+* ### [Wedgwood smashes tradition](https://www.afr.com/life-and-luxury/design/wedgwood-smashes-tradition-20240618-p5jmnf)
     
-* ### [Instagram and TikTok are threatened, so fashion is switching channels](https://www.afr.com/life-and-luxury/fashion-and-style/instagram-and-tiktok-are-threatened-so-fashion-is-switching-channels-20240520-p5jf0d)
+* ### [The sixth generation is making its mark on this 175-year-old business](https://www.afr.com/life-and-luxury/food-and-wine/the-sixth-generation-is-making-its-mark-on-this-175-year-old-business-20240528-p5jh9i)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Paul O’Sullivan says it is appropriate for directors to disclose personal information about themselves if they wish.](https://static.ffx.io/images/$zoom_0.3167%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_564%2C$y_91/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6a54855fdd617aa9629d5e61e718eef39c36c268)](https://www.afr.com/work-and-careers/leaders/anz-s-openly-gay-chairman-warns-on-asx-s-sexuality-disclosure-20240618-p5jmt7)
+[![.](https://static.ffx.io/images/$zoom_0.1961%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_232%2C$y_76/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f5f3cb3ccdfe5b5700acadc32c1f078011240ca3)](https://www.afr.com/work-and-careers/leaders/tax-cuts-will-prolong-rate-pain-directors-20240617-p5jmfb)
 
-### [ANZ’s openly gay chairman warns on ASX’s sexuality disclosure](https://www.afr.com/work-and-careers/leaders/anz-s-openly-gay-chairman-warns-on-asx-s-sexuality-disclosure-20240618-p5jmt7)
+### [Tax cuts will prolong rate pain: directors](https://www.afr.com/work-and-careers/leaders/tax-cuts-will-prolong-rate-pain-directors-20240617-p5jmfb)
 
-* Sally Patten and Patrick Durkin
+* Patrick Durkin and Sally Patten
 
-* ### [What do Nobel, Dulux and Australia’s first high-rise have in common?](https://www.afr.com/work-and-careers/workplace/from-goldrush-to-green-explosives-orica-s-forgotten-150-year-history-20240530-p5jhzy)
+* ### [ANZ’s openly gay chairman warns on ASX’s sexuality disclosure](https://www.afr.com/work-and-careers/leaders/anz-s-openly-gay-chairman-warns-on-asx-s-sexuality-disclosure-20240618-p5jmt7)
     
-* ### [Why this top 100 CEO goes undercover shopping](https://www.afr.com/property/commercial/why-this-top-100-ceo-goes-undercover-shopping-20240604-p5jj9m)
+* ### [What do Nobel, Dulux and Australia’s first high-rise have in common?](https://www.afr.com/work-and-careers/workplace/from-goldrush-to-green-explosives-orica-s-forgotten-150-year-history-20240530-p5jhzy)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.388%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_282%2C$y_276/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6a08319d4a63bf0d0adef7f2e191b933290551bc)](https://www.afr.com/life-and-luxury/food-and-wine/this-is-an-exceptional-pinot-noir-20240612-p5jl9x)
+[![Lexus NX450h+ F Sport](https://static.ffx.io/images/$zoom_0.3537%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_108%2C$y_244/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b0e4910228315ccaa8bab331813f5ae6f7ed7126)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/is-lexus-plug-in-hybrid-the-best-nx-on-the-market-20240611-p5jkrw)
 
-### [‘This is an exceptional pinot noir’](https://www.afr.com/life-and-luxury/food-and-wine/this-is-an-exceptional-pinot-noir-20240612-p5jl9x)
+### [Is Lexus’ plug-in hybrid the best NX on the market?](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/is-lexus-plug-in-hybrid-the-best-nx-on-the-market-20240611-p5jkrw)
 
-* Max Allen
+* Tony Davis
 
-* ### [The workout that requires total mind-body focus](https://www.afr.com/life-and-luxury/health-and-wellness/the-workout-that-requires-total-mind-body-focus-20240610-p5jkm4)
+* ### [Renaissance renditions of Bee Gees? Only at one festival](https://www.afr.com/life-and-luxury/arts-and-culture/renaissance-renditions-of-bee-gees-only-at-one-festival-20240606-p5jjuy)
     
-* ### [A $220 pair of thongs – and seven other luxurious items to consider](https://www.afr.com/life-and-luxury/fashion-and-style/a-220-pair-of-thongs-and-seven-other-luxurious-items-to-consider-20240610-p5jkm0)
+* ### [‘This is an exceptional pinot noir’](https://www.afr.com/life-and-luxury/food-and-wine/this-is-an-exceptional-pinot-noir-20240612-p5jl9x)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Atlassian co-founders Mike Cannon-Brookes and Scott Farquhar are still bullish on Atlassian’s outlook](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_261%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6b88f7fe968f03c2006c2356e2776e911aa53a32)](https://www.afr.com/rich-list/why-the-atlassian-duo-are-down-15b-since-the-rich-list-cut-off-20240618-p5jmta)
+[![ ](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/97be9128aa602abf7bbbd5f0ab43bd0a0fa00c83)](https://www.afr.com/property/residential/dubbo-rich-lister-wes-maas-buys-manly-s-most-expensive-home-20240619-p5jn4f)
 
-### [Why Cannon-Brookes, Farquhar are down $15b in just two months](https://www.afr.com/rich-list/why-the-atlassian-duo-are-down-15b-since-the-rich-list-cut-off-20240618-p5jmta)
+### [Rich Lister buys Manly’s most expensive home](https://www.afr.com/property/residential/dubbo-rich-lister-wes-maas-buys-manly-s-most-expensive-home-20240619-p5jn4f)
 
-* Yolanda Redrup
+* Bonnie Campbell
 
-* ### [This ex-Young Rich Lister built a top media company, now he’s trying tech](https://www.afr.com/technology/this-ex-young-rich-lister-built-a-top-media-company-now-he-s-trying-tech-20240612-p5jl9n)
+* ### [The day everything changed for Young Rich Lister Tash Oakley](https://www.afr.com/life-and-luxury/fashion-and-style/the-day-everything-changed-for-young-rich-lister-tash-oakley-20240523-p5jfyy)
     
-* ### [The Rich Lister who avoids risk at all costs](https://www.afr.com/wealth/people/the-rich-lister-who-avoids-risk-at-all-costs-20240615-p5jm0a)
+* ### [Rich List Snow family sets sights on Canberra’s next landmark](https://www.afr.com/property/commercial/rich-list-snow-family-sets-sights-on-canberra-s-next-landmark-20240620-p5jnep)
     
 
 [The Australian Financial Review](https://www.afr.com/)
