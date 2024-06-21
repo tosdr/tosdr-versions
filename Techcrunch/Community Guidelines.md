@@ -97,11 +97,11 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Fisker Files For Bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
-* [Apple Developer Academy](https://techcrunch.com/2024/06/18/apple-developer-academy-adds-ai-training-for-students-and-alumni/)
+* [Fisker Bankruptcy](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
+* [YouTube Ad Blockers](https://techcrunch.com/2024/06/16/youtube-is-testing-another-way-to-combat-ad-blockers/)
 * [DOJ Takes On Adobe](https://techcrunch.com/2024/06/17/us-sues-adobe-for-hiding-termination-fees-and-making-it-difficult-to-cancel-subscriptions/)
-* [Apple Pay Later](https://techcrunch.com/2024/06/17/apple-kills-pay-later-feature-ahead-of-affirm-integration/)
-* [Meredith Whittaker](https://techcrunch.com/2024/06/17/stop-playing-games-with-online-security-signal-president-warns-eu-lawmakers/)
+* [iOS 18](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/)
+* [Meta AI](https://techcrunch.com/2024/06/19/meta-ai-removes-block-on-election-related-queries-in-india-while-google-still-applying-limits/)
 * [Tech Layoffs](https://techcrunch.com/2024/05/22/tech-layoffs-2023-list)
 * [ChatGPT](https://techcrunch.com/2024/06/04/chatgpt-everything-to-know-about-the-ai-chatbot)
 
