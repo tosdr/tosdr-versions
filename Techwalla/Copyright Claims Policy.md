@@ -108,15 +108,6 @@ Repeat Infringers
 
 We implement a policy where, in appropriate circumstances, we will disable and/or terminate the accounts of users who are repeat infringers.
 
-Report an Issue
----------------
-
-Contact\*:  Severity\*: High Normal Low Description\*:
-
-Screenshot loading...
-
-Cancel Submit
-
 Thank you for subscribing!
 
 Know the latest by staying in touch. Enter your email for updates.
