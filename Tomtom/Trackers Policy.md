@@ -370,150 +370,150 @@ United StatesEnglish
 
 Europe
 
-* [![](https://media.tomtom.com/otf/images/media/5AF985DE-A8FF-4F32-B77B8467C57BF2FA)
+* ![](https://media.tomtom.com/otf/images/media/5AF985DE-A8FF-4F32-B77B8467C57BF2FA)
     
-    BelgiqueFrançais](https://www.tomtom.com/fr_be/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/5AF985DE-A8FF-4F32-B77B8467C57BF2FA)
+    BelgiqueFrançais
+* ![](https://media.tomtom.com/otf/images/media/5AF985DE-A8FF-4F32-B77B8467C57BF2FA)
     
-    BelgiëNederlands](https://www.tomtom.com/nl_be/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/9834B987-DF7C-486D-A0EE052C74DC231A)
+    BelgiëNederlands
+* ![](https://media.tomtom.com/otf/images/media/9834B987-DF7C-486D-A0EE052C74DC231A)
     
-    BulgariaEnglish](https://www.tomtom.com/en_bg/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/EFB9C021-4EC8-4566-A068AAE23C260851)
+    BulgariaEnglish
+* ![](https://media.tomtom.com/otf/images/media/EFB9C021-4EC8-4566-A068AAE23C260851)
     
-    CroatiaEnglish](https://www.tomtom.com/en_hr/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/C42AA829-7AAC-4C52-878925E3D21B6E73)
+    CroatiaEnglish
+* ![](https://media.tomtom.com/otf/images/media/C42AA829-7AAC-4C52-878925E3D21B6E73)
     
-    CyprusEnglish](https://www.tomtom.com/en_cy/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/A7121539-EF65-4E8B-B45EC9252C0D2258)
+    CyprusEnglish
+* ![](https://media.tomtom.com/otf/images/media/A7121539-EF65-4E8B-B45EC9252C0D2258)
     
-    Danmark Dansk](https://www.tomtom.com/da_dk/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/EC28A7A0-9006-4BCF-AB647BD79BAB4764)
+    Danmark Dansk
+* ![](https://media.tomtom.com/otf/images/media/EC28A7A0-9006-4BCF-AB647BD79BAB4764)
     
-    DeutschlandDeutsche](https://www.tomtom.com/de_de/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/C2BCD0D3-F52A-41B3-B92B2FA492B237FC)
+    DeutschlandDeutsche
+* ![](https://media.tomtom.com/otf/images/media/C2BCD0D3-F52A-41B3-B92B2FA492B237FC)
     
-    EspañaEspañol](https://www.tomtom.com/es_es/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/BC1420A1-4ABC-4D9B-B8D1370826E2A870)
+    EspañaEspañol
+* ![](https://media.tomtom.com/otf/images/media/BC1420A1-4ABC-4D9B-B8D1370826E2A870)
     
-    EstoniaEnglish](https://www.tomtom.com/en_ee/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/0CC332CC-20FE-4638-90C175233C91159C)
+    EstoniaEnglish
+* ![](https://media.tomtom.com/otf/images/media/0CC332CC-20FE-4638-90C175233C91159C)
     
-    FranceFrançais](https://www.tomtom.com/fr_fr/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/8FEEF92E-A6FD-4A3E-98BD0868E38E3D8C)
+    FranceFrançais
+* ![](https://media.tomtom.com/otf/images/media/8FEEF92E-A6FD-4A3E-98BD0868E38E3D8C)
     
-    GreeceEnglish](https://www.tomtom.com/en_gr/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/F57F1A03-9991-40D7-A9D3E5633BF33EAC)
+    GreeceEnglish
+* ![](https://media.tomtom.com/otf/images/media/F57F1A03-9991-40D7-A9D3E5633BF33EAC)
     
-    HungaryEnglish](https://www.tomtom.com/en_hu/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/76335675-D838-4C12-83BAEACA68FF9276)
+    HungaryEnglish
+* ![](https://media.tomtom.com/otf/images/media/76335675-D838-4C12-83BAEACA68FF9276)
     
-    IrelandEnglish](https://www.tomtom.com/en_ie/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/3D483FE4-6E58-404F-BAB877A9DA282079)
+    IrelandEnglish
+* ![](https://media.tomtom.com/otf/images/media/3D483FE4-6E58-404F-BAB877A9DA282079)
     
-    ItaliaItaliano](https://www.tomtom.com/it_it/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/8BD1AAE7-4165-4919-98FB03C2F7DE18AB)
+    ItaliaItaliano
+* ![](https://media.tomtom.com/otf/images/media/8BD1AAE7-4165-4919-98FB03C2F7DE18AB)
     
-    LatviaEnglish](https://www.tomtom.com/en_lv/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/D3F55345-6C99-468A-B519EE3AFED6ABAF)
+    LatviaEnglish
+* ![](https://media.tomtom.com/otf/images/media/D3F55345-6C99-468A-B519EE3AFED6ABAF)
     
-    LithuaniaEnglish](https://www.tomtom.com/en_lt/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/BD4ABE01-035F-4FCA-A4135B27C41D51E5)
+    LithuaniaEnglish
+* ![](https://media.tomtom.com/otf/images/media/BD4ABE01-035F-4FCA-A4135B27C41D51E5)
     
-    LuxembourgFrançais](https://www.tomtom.com/fr_lu/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/EACA5260-F615-472C-86BB9A4E541B9A16)
+    LuxembourgFrançais
+* ![](https://media.tomtom.com/otf/images/media/EACA5260-F615-472C-86BB9A4E541B9A16)
     
-    MaltaEnglish](https://www.tomtom.com/en_mt/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/840A05BB-31A6-4413-9D70233ECB5C0E5A)
+    MaltaEnglish
+* ![](https://media.tomtom.com/otf/images/media/840A05BB-31A6-4413-9D70233ECB5C0E5A)
     
-    NederlandNederlands](https://www.tomtom.com/nl_nl/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/2914F62F-5442-4F42-8A04726DD341BD71)
+    NederlandNederlands
+* ![](https://media.tomtom.com/otf/images/media/2914F62F-5442-4F42-8A04726DD341BD71)
     
-    Norge Norsk](https://www.tomtom.com/no_no/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/43128AE1-BF2C-4E51-AF459E48B200FB32)
+    Norge Norsk
+* ![](https://media.tomtom.com/otf/images/media/43128AE1-BF2C-4E51-AF459E48B200FB32)
     
-    PolskaPolskie](https://www.tomtom.com/pl_pl/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/7F7A13F1-0707-414C-86CCE8404AE568BF)
+    PolskaPolskie
+* ![](https://media.tomtom.com/otf/images/media/7F7A13F1-0707-414C-86CCE8404AE568BF)
     
-    PortugalPortuguês](https://www.tomtom.com/pt_pt/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/99AA44F7-C2FE-438D-84D9E4F6012E8E39)
+    PortugalPortuguês
+* ![](https://media.tomtom.com/otf/images/media/99AA44F7-C2FE-438D-84D9E4F6012E8E39)
     
-    RomaniaEnglish](https://www.tomtom.com/en_ro/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/93C58B1F-534E-44C9-AAEB82D27F084D74)
+    RomaniaEnglish
+* ![](https://media.tomtom.com/otf/images/media/93C58B1F-534E-44C9-AAEB82D27F084D74)
     
-    RussiaEnglish](https://www.tomtom.com/en_ru/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/1389E89C-E075-4DE4-99B2B42D1676AC0C)
+    RussiaEnglish
+* ![](https://media.tomtom.com/otf/images/media/1389E89C-E075-4DE4-99B2B42D1676AC0C)
     
-    Schweiz Deutsche](https://www.tomtom.com/de_ch/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/051C91D0-5EC8-4C2E-88FBE401D3861102)
+    Schweiz Deutsche
+* ![](https://media.tomtom.com/otf/images/media/051C91D0-5EC8-4C2E-88FBE401D3861102)
     
-    SlovakiaEnglish](https://www.tomtom.com/en_sk/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/489613C2-6D08-40EC-9958738C1AB6DDB9)
+    SlovakiaEnglish
+* ![](https://media.tomtom.com/otf/images/media/489613C2-6D08-40EC-9958738C1AB6DDB9)
     
-    SloveniaEnglish](https://www.tomtom.com/en_si/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/1389E89C-E075-4DE4-99B2B42D1676AC0C)
+    SloveniaEnglish
+* ![](https://media.tomtom.com/otf/images/media/1389E89C-E075-4DE4-99B2B42D1676AC0C)
     
-    SuisseFrançais](https://www.tomtom.com/fr_ch/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/26DFD231-4D76-4C6B-82003C81741F07E1)
+    SuisseFrançais
+* ![](https://media.tomtom.com/otf/images/media/26DFD231-4D76-4C6B-82003C81741F07E1)
     
-    SuomiSuomalainen](https://www.tomtom.com/fi_fi/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/5ACE624A-A9D9-47FE-83E345197F095E3B)
+    SuomiSuomalainen
+* ![](https://media.tomtom.com/otf/images/media/5ACE624A-A9D9-47FE-83E345197F095E3B)
     
-    SverigeSvenska](https://www.tomtom.com/sv_se/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/DB70088A-FC23-4EB0-A65A667339E7E1D5)
+    SverigeSvenska
+* ![](https://media.tomtom.com/otf/images/media/DB70088A-FC23-4EB0-A65A667339E7E1D5)
     
-    TürkiyeTürkçe](https://www.tomtom.com/tr_tr/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/27A76A53-E9A1-4D17-ADC7F6F62B0F46B5)
+    TürkiyeTürkçe
+* ![](https://media.tomtom.com/otf/images/media/27A76A53-E9A1-4D17-ADC7F6F62B0F46B5)
     
-    United KingdomEnglish](https://www.tomtom.com/en_gb/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/2CA3F408-A943-4715-87F43F519620F619)
+    United KingdomEnglish
+* ![](https://media.tomtom.com/otf/images/media/2CA3F408-A943-4715-87F43F519620F619)
     
-    ÖsterreichDeutsche](https://www.tomtom.com/de_at/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/83333D80-FD7E-4B8C-9B4208515E0F0CB6)
+    ÖsterreichDeutsche
+* ![](https://media.tomtom.com/otf/images/media/83333D80-FD7E-4B8C-9B4208515E0F0CB6)
     
-    Česká RepublikaČeština](https://www.tomtom.com/cs_cz/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
+    Česká RepublikaČeština
 
 Americas
 
-* [![](https://media.tomtom.com/otf/images/media/8C729517-5386-45BE-85BF04178861763A)
+* ![](https://media.tomtom.com/otf/images/media/8C729517-5386-45BE-85BF04178861763A)
     
-    ArgentinaEspañol](https://www.tomtom.com/es_ar/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/8B5D9C08-8FAB-44DF-B915C8ECE0B34BCA)
+    ArgentinaEspañol
+* ![](https://media.tomtom.com/otf/images/media/8B5D9C08-8FAB-44DF-B915C8ECE0B34BCA)
     
-    BrasilPortuguês](https://www.tomtom.com/pt_br/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/B3CE9278-E557-4659-894057E3E8C64FB3)
+    BrasilPortuguês
+* ![](https://media.tomtom.com/otf/images/media/B3CE9278-E557-4659-894057E3E8C64FB3)
     
-    CanadaEnglish](https://www.tomtom.com/en_ca/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/B3CE9278-E557-4659-894057E3E8C64FB3)
+    CanadaEnglish
+* ![](https://media.tomtom.com/otf/images/media/B3CE9278-E557-4659-894057E3E8C64FB3)
     
-    CanadaFrançais](https://www.tomtom.com/fr_ca/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/0A3AC92B-0470-4016-A4425D4106557886)
+    CanadaFrançais
+* ![](https://media.tomtom.com/otf/images/media/0A3AC92B-0470-4016-A4425D4106557886)
     
-    MéxicoEspañol](https://www.tomtom.com/es_mx/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/21A377A1-E859-461C-BAB201F4BF550365)
+    MéxicoEspañol
+* ![](https://media.tomtom.com/otf/images/media/21A377A1-E859-461C-BAB201F4BF550365)
     
-    United StatesEnglish](https://www.tomtom.com/en_us/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
+    United StatesEnglish
 
 Africa
 
-* [![](https://media.tomtom.com/otf/images/media/464338CD-28E5-4D24-9C0533D7F09DF3B0)
+* ![](https://media.tomtom.com/otf/images/media/464338CD-28E5-4D24-9C0533D7F09DF3B0)
     
-    South AfricaEnglish](https://www.tomtom.com/en_za/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
+    South AfricaEnglish
 
 Asia Pacific
 
-* [![](https://media.tomtom.com/otf/images/media/C13EF16D-7F0B-414E-8E279169884CBF27)
+* ![](https://media.tomtom.com/otf/images/media/C13EF16D-7F0B-414E-8E279169884CBF27)
     
-    AustraliaEnglish](https://www.tomtom.com/en_au/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/5E69F1E8-6028-45DF-9E20131134C502D6)
+    AustraliaEnglish
+* ![](https://media.tomtom.com/otf/images/media/5E69F1E8-6028-45DF-9E20131134C502D6)
     
-    IndiaEnglish](https://www.tomtom.com/en_in/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/C82AD926-9BD0-47D2-90505C913408036D)
+    IndiaEnglish
+* ![](https://media.tomtom.com/otf/images/media/C82AD926-9BD0-47D2-90505C913408036D)
     
-    New ZealandEnglish](https://www.tomtom.com/en_nz/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
-* [![](https://media.tomtom.com/otf/images/media/30E91C82-BE73-4B34-96B3E413607953BC)
+    New ZealandEnglish
+* ![](https://media.tomtom.com/otf/images/media/30E91C82-BE73-4B34-96B3E413607953BC)
     
-    SingaporeEnglish](https://www.tomtom.com/en_sg/changeLocale.html?pageUrl=%2Fen_us%2Fcookies%2F)
+    SingaporeEnglish
 
 * [Privacy policy](https://www.tomtom.com/en_us/privacy/)
 * [Legal information](https://www.tomtom.com/en_us/legal/)
