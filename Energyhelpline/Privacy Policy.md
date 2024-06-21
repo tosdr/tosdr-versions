@@ -60,7 +60,7 @@ Privacy Notice
 We are LOVE ENERGY SAVINGS.COM LIMITED.
 ---------------------------------------
 
-We operate under different trading names, including LOVE ENERGY SAVINGS, BUSINESS ELECTRICITY PRICES, BUSINESSENERGY.COM, BRITISH BUSINESS ENERGY, POWER COMPARE AND ENERGY HELPLINE.
+We operate under different trading names, including LOVE ENERGY SAVINGS, BUSINESS ELECTRICITY PRICES, BUSINESSENERGY.COM, BRITISH BUSINESS ENERGY, POWER COMPARE, ENERGY HELPLINE, BUSINESS ENERGY UK and LIVE ENERGY PRICES.
 
 We are incorporated in England and Wales (our registered office address is 2 Springfield Court, Summerfield Road, Bolton, BL3 2NT (Company number: [06322305](https://find-and-update.company-information.service.gov.uk/company/06322305/ "Companies House - Love Energy Savings Ltd."))) ("we", "us", "our") and we are committed to protecting and respecting your privacy. We are registered with the Information Commissioner's Office ("ICO") with registration number Z3162259.
 
