@@ -206,21 +206,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![20 Great Interesting Facts About Antoine Lavoisier ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2263%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/20-great-interesting-facts-about-antoine-lavoisier/)
+[![17 Facts About Perplexity AI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2274%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
 
-People
+Technology
 
-19 Jun 2024
+21 Jun 2024
 
-[20 Great Interesting Facts About Antoine Lavoisier](https://facts.net/history/people/20-great-interesting-facts-about-antoine-lavoisier/)
+[17 Facts About Perplexity AI](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
 
-[![16 Amazing Interesting Facts About Davy Crockett ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/16-amazing-interesting-facts-about-davy-crockett/)
+[![30 Facts About World War III ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
 
-People
+Historical Events
 
-19 Jun 2024
+21 Jun 2024
 
-[16 Amazing Interesting Facts About Davy Crockett](https://facts.net/history/people/16-amazing-interesting-facts-about-davy-crockett/)
+[30 Facts About World War III](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
