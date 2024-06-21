@@ -95,7 +95,7 @@ Ready to get started? [Request an Appointment Today](https://therapydave.com/the
 
   
 
-“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”
+“Dave asks questions that get to the root of the problem but doesn't stop there. He offers suggestions, options or will discuss pros and cons about solutions you might have in mind. He researches things and always gets back to you with an answer.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
