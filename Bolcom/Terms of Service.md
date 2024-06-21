@@ -23,7 +23,7 @@
     * Cadeaus
     * [Cadeaupagina](https://www.bol.com/nl/nl/sf/cadeauwinkel-volwassenen/ "Cadeaupagina")
     * [Kindercadeaus](https://www.bol.com/nl/nl/sf/cadeauwinkel-kinderen/ "Kindercadeaus")
-    * [Cadeaubonnen](https://www.bol.com/nl/nl/m/cadeaubon-bestellen/ "Cadeaubonnen")
+    * [Cadeaubonnen](https://www.bol.com/nl/nl/sf/cadeaubon-bestellen/ "Cadeaubonnen")
     
     * Shop de Look
     * [Huis](https://www.bol.com/nl/nl/sdl/wonen/huis/4 "Huis")
@@ -37,10 +37,10 @@
     * [Wooninspiratie](https://www.bol.com/nl/nl/sf/wooninspiratie/ "Wooninspiratie")
     * [Boeken inspiratie](https://www.bol.com/nl/nl/sf/lees/ "Boeken inspiratie")
     * [Kinderboeken inspiratie](https://www.bol.com/nl/nl/sf/kinderboeken/ "Kinderboeken inspiratie")
-    * [Smart home](https://www.bol.com/nl/nl/m/smarthome/ "Smart home")
+    * [Goede keuze assortiment](https://www.bol.com/nl/nl/sf/goede-keuze-assortiment/ "Goede keuze assortiment")
+    * [Smart home](https://www.bol.com/nl/nl/sf/smart-home/ "Smart home")
     * [Thuiswerken](https://www.bol.com/nl/nl/inf/wat-heb-je-nodig-voor-je-thuiswerkplek/52649/ "Thuiswerken")
     * [Energie besparen](https://www.bol.com/nl/nl/sf/energie-besparen/ "Energie besparen")
-    * [Laptops](https://www.bol.com/nl/nl/m/laptops/ "Laptops")
     * [Puppywinkel](https://www.bol.com/nl/nl/sf/puppywinkel/ "Puppywinkel")
     * [Kittenwinkel](https://www.bol.com/nl/nl/sf/kittenwinkel/ "Kittenwinkel")
     
@@ -53,6 +53,7 @@
     * [Gaming](https://www.bol.com/nl/nl/m/gaming/ "Gaming")
     * [Koffiewinkel](https://www.bol.com/nl/nl/sf/koffiewinkel/ "Koffiewinkel")
     * [Energiezuinig witgoed](https://www.bol.com/nl/nl/sf/energiezuinig-witgoed/ "Energiezuinig witgoed")
+    * [Laptops](https://www.bol.com/nl/nl/sf/laptops/ "Laptops")
     * [Merchandise](https://www.bol.com/nl/nl/sf/merchandise/ "Merchandise")
     
 * Aanbiedingen
@@ -96,7 +97,7 @@
 * NL
     
 
-[EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/?promo=HEAD_907_Mnav_1_CRS_ekvoetbal_1)[Festival essentials](https://www.bol.com/nl/nl/cmp/Festival-2024/1963/?promo=HEAD_907_Mnav_1_CRS_festival_2)[Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3)[Fashion sale](https://www.bol.com/nl/nl/cmp/Presale/1975/?promo=HEAD_907_Mnav_1_CRS_presale_4)[Zomerdeals](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/?promo=HEAD_907_Mnav_1_CRS_prezomer_5)
+[EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/?promo=HEAD_907_Mnav_1_CRS_ekvoetbal_1)[Zomerlezengeschenk](https://www.bol.com/nl/nl/sf/lees/?promo=HEAD_907_Mnav_1_CRS_zomerlezen_2)[Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3)[Fashion sale](https://www.bol.com/nl/nl/cmp/Presale/1975/?promo=HEAD_907_Mnav_1_CRS_presale_4)[Zomerdeals](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/?promo=HEAD_907_Mnav_1_CRS_prezomer_5)
 
 Inhoudsopgave
 
