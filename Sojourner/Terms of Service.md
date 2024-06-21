@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d01e154a166e30bacd6f24f9185efc54
+a0e10967202aff19c58ff84b0da13b02
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,20 +142,20 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Sterling silver octopus necklace](https://sojourner.biz/images/cache/jewelry/N0102.200.jpg)](https://sojourner.biz/jewelry/necklaces/sterling-silver-octopus-necklace.html "Sterling silver octopus necklace")
+[![10 mm by 12 mm square Czech wedges](https://sojourner.biz/images/cache/glass/GL0031.200.jpg)](https://sojourner.biz/beads/glass/10-mm-by-12-mm-square-czech-wedges.html "10 mm by 12 mm square Czech wedges")
 
-#### [Sterling silver octopus necklace](https://sojourner.biz/jewelry/necklaces/sterling-silver-octopus-necklace.html "Sterling silver octopus necklace")
+#### [10 mm by 12 mm square Czech wedges](https://sojourner.biz/beads/glass/10-mm-by-12-mm-square-czech-wedges.html "10 mm by 12 mm square Czech wedges")
 
-$350.00
+$5.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
-    $16.00
-3. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+2. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
     $15.00
+3. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+    $16.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
