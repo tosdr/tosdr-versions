@@ -304,39 +304,37 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)
-
-BLOG](https://dailycaller.com/2024/06/18/zyn-nicotine-pouches-shipping-ban-washington-dc-flavored-tobacco-philip-morris/ "D.C. Bureaucrats Have Unleashed A Hell On American Men They May Come To Regret")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/20/israel-antiquities-authority-discovery-bronze-age-deep-sea-cargo-ship-jars/ "'Changes Our Entire Understanding': Researchers Discover Oldest Known Deep-Sea Cargo Ship")
 
 1
 
-[D.C. Bureaucrats Have Unleashed A Hell On American Men They May Come To Regret](https://dailycaller.com/2024/06/18/zyn-nicotine-pouches-shipping-ban-washington-dc-flavored-tobacco-philip-morris/)
+['Changes Our Entire Understanding': Researchers Discover Oldest Known Deep-Sea Cargo Ship](https://dailycaller.com/2024/06/20/israel-antiquities-authority-discovery-bronze-age-deep-sea-cargo-ship-jars/)
 
-Health
+World
 
 2
 
-[Whoopi Goldberg Says She Ate Cat Treats In Middle Of The Night](https://dailycaller.com/2024/06/17/whoopi-goldberg-cat-treats-the-view-vatican-pope-francis-dots-pretzels/)
+[Supreme Court Rules In Favor Of Grandmother Jailed In Alleged Retaliation](https://dailycaller.com/2024/06/20/supreme-court-sylvia-gonzalez-jailed-retaliation/)
 
-Media
+US
 
 3
 
-['You're Gonna Be Embarrassed': Jim Acosta And CNN Commentator Fact-Check Dem Strategist In Real Time](https://dailycaller.com/2024/06/18/jim-acosta-cnn-commentator-fact-check-dem-strategist/)
+[Supreme Court Rejects Challenge To Trump-Era Tax](https://dailycaller.com/2024/06/20/supreme-court-rejects-challenge-trump-era-tax-law/)
 
-Media
+US
 
 4
 
-['We See What's Going On': Americans Call Into Popular Hip-Hop Radio Show To Attack Dems And 'Demented' Biden](https://dailycaller.com/2024/06/18/we-see-whats-going-on-americans-call-into-popular-hip-hop-radio-show-to-attack-dems-and-demented-biden/)
+[Police Arrest Daughter Of Famous Actress For Bizarre Theft: REPORT](https://dailycaller.com/2024/06/20/angie-harmon-daughter-avery-sehorn-theft-larceny-bottles-alcohol-break-in/)
 
-Media
+Entertainment
 
 5
 
-[State Bar Association Issues Warning To Lawyers Who Speak Out Against Trump's Prosecution](https://dailycaller.com/2024/06/17/state-bar-association-warning-lawyers-jonathan-turley-donald-trump-prosecution/)
+[‘Get That Dog Off’: Donald Trump Takes Aim At Fox News Board Member](https://dailycaller.com/2024/06/19/get-dog-off-donald-trump-fox-news-board-member-paul-ryan/)
 
-Politics
+Media
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
