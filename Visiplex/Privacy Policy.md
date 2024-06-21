@@ -88,7 +88,7 @@ This website contains Visiplex, Inc. trademarks and service marks. All marks are
 
 Recognized worldwide as a leading manufacturer of wireless PA paging systems, two-way intercom, emergency notification solutions, break bell systems, time synchronization solutions and more.
 
-[Compliance](https://www.visiplex.com/gsa/)
+[Compliance](https://www.visiplex.com/compliance/)
 
 [Warranty](https://www.visiplex.com/warranty)
 
