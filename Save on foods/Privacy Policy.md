@@ -14,16 +14,15 @@ Shop Aisles
 
 Deals
 
+* [Deals](https://www.saveonfoods.com/sm/pickup/rsid/1982/deals "Deals")
 * [My Offers](https://myoffers.saveonfoods.com/programs/saveonfoods/ "My Offers")
-* [Save On, Savers](https://www.saveonfoods.com/sm/pickup/rsid/1982/save-on-savers "Save On, Savers")
-* [Darrell's Deals](https://www.saveonfoods.com/sm/pickup/rsid/1982/darrells-deals "Darrell's Deals")
-* [Value Packs](https://www.saveonfoods.com/sm/pickup/rsid/1982/value-packs "Value Packs")
 * [Shop All Specials](https://www.saveonfoods.com/sm/pickup/rsid/1982/promotions "Shop All Specials")
 * [More Rewards](https://www.saveonfoods.com/sm/pickup/rsid/1982/more-rewards "More Rewards")
 
 Inspiration
 
 * [Recipes](https://www.saveonfoods.com/sm/pickup/rsid/1982/recipes "Recipes")
+* [New Products](https://www.saveonfoods.com/sm/pickup/rsid/1982/new-products "New Products")
 * Our Brands
 
 Pharmacy & Health
