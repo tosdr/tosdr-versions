@@ -38,7 +38,7 @@ Search Site
     * [Bulls N' Bears](https://www.brisbanetimes.com.au/business/bullsnbears)
     * [The economy](https://www.brisbanetimes.com.au/business/the-economy)
     * [Banking & finance](https://www.brisbanetimes.com.au/business/banking-and-finance)
-    * [Entrepreneurship](https://www.brisbanetimes.com.au/business/entrepreneurship)
+    * [Small business](https://www.brisbanetimes.com.au/business/small-business)
     * [Media](https://www.brisbanetimes.com.au/topic/media-and-marketing-5z7)
     * [Workplace](https://www.brisbanetimes.com.au/business/workplace)
 * [World](https://www.brisbanetimes.com.au/world)Show subsections
