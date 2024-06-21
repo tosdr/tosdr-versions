@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[June 19, 2024](https://www.japantimes.co.jp/archive/2024/06/19/ "archive page")
+[June 21, 2024](https://www.japantimes.co.jp/archive/2024/06/21/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,28 +130,44 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japan study downplays complex grammar in improving English writing skills](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+
+  [![While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404164.jpg&w=400&q=100&f=jpg&t=1.2 "While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.")](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+
+[Flood of tourists prompts call to charge foreign visitors more](https://www.japantimes.co.jp/news/2024/06/19/japan/may-foreign-visitors/ "Flood of tourists prompts call to charge foreign visitors more")
+
+  [![People wait to cross a street in Kyoto in April. The number of foreign visitors to Japan came to 3.04 million in May, marking the third straight month at more than 3 million.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404284.jpg&w=400&q=100&f=jpg&t=1.2 "People wait to cross a street in Kyoto in April. The number of foreign visitors to Japan came to 3.04 million in May, marking the third straight month at more than 3 million.")](https://www.japantimes.co.jp/news/2024/06/19/japan/may-foreign-visitors/ "Flood of tourists prompts call to charge foreign visitors more")
+
 [Rare tissue-damaging bacteria spreads in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
   [![Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/15/403395.jpg&w=400&q=100&f=jpg&t=1.2 "Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.")](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
 
-[Japan team succeeds in muon reacceleration in major breakthrough](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
+[Japan’s rainy season is significantly late this year](https://www.japantimes.co.jp/news/2024/06/20/japan/science-health/rainy-season-delay/ "Japan’s rainy season is significantly late this year")
 
-  [![Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/16/403555.jpg&w=400&q=100&f=jpg&t=1.2 "Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.")](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
+  [![Pedestrians shelter from the sun in Tokyo's Ginza district on Sunday. On average, the rainy season begins on June 7 in the Kanto region where Tokyo is situated, but as of Thursday, the Meteorological Agency has yet to declare the start of the season in the capital.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/20/404555.jpg&w=400&q=100&f=jpg&t=1.2 "Pedestrians shelter from the sun in Tokyo's Ginza district on Sunday. On average, the rainy season begins on June 7 in the Kanto region where Tokyo is situated, but as of Thursday, the Meteorological Agency has yet to declare the start of the season in the capital.")](https://www.japantimes.co.jp/news/2024/06/20/japan/science-health/rainy-season-delay/ "Japan’s rainy season is significantly late this year")
 
-[France's Le Pen says she will work with Macron to appeal to moderates](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
+[CDP's Izumi challenges Kishida to dissolve Lower House](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/kishida-izumi-election/ "CDP's Izumi challenges Kishida to dissolve Lower House")
 
-  [![Marine Le Pen speaks during a European election campaign rally in Paris on June 2.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/17/403587.jpg&w=400&q=100&f=jpg&t=1.2 "Marine Le Pen speaks during a European election campaign rally in Paris on June 2.")](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
-
-[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
-
-  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
-
-[Nagoya hospital error results in high school student’s death](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
-
-  [![A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403898.jpg&w=400&q=100&f=jpg&t=1.2 "A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.")](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
+  [![Constitutional Democratic Party of Japan leader Kenta Izumi (left) faces off against Prime Minister Fumio Kishida in a debate in parliament on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404277.jpg&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party of Japan leader Kenta Izumi (left) faces off against Prime Minister Fumio Kishida in a debate in parliament on Wednesday.")](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/kishida-izumi-election/ "CDP's Izumi challenges Kishida to dissolve Lower House")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan study downplays complex grammar in improving English writing skills](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+
+By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+
+  [![While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404164.jpg&w=400&q=100&f=jpg&t=1.2 "While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.")](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Flood of tourists prompts call to charge foreign visitors more](https://www.japantimes.co.jp/news/2024/06/19/japan/may-foreign-visitors/ "Flood of tourists prompts call to charge foreign visitors more")
+
+By [Akemi Terukina](https://www.japantimes.co.jp/author/4988/akemi-terukina/ "Akemi Terukina")  
+
+  [![People wait to cross a street in Kyoto in April. The number of foreign visitors to Japan came to 3.04 million in May, marking the third straight month at more than 3 million.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404284.jpg&w=400&q=100&f=jpg&t=1.2 "People wait to cross a street in Kyoto in April. The number of foreign visitors to Japan came to 3.04 million in May, marking the third straight month at more than 3 million.")](https://www.japantimes.co.jp/news/2024/06/19/japan/may-foreign-visitors/ "Flood of tourists prompts call to charge foreign visitors more")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -163,38 +179,26 @@ By [Akemi Terukina](https://www.japantimes.co.jp/author/4988/akemi-terukina/ "Ak
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan team succeeds in muon reacceleration in major breakthrough](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
-
-  [![Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/16/403555.jpg&w=400&q=100&f=jpg&t=1.2 "Muons can penetrate dense materials, even bedrock several kilometers thick, and therefore are used for internal inspections for volcanos and pyramids, as well as the reactors at the tsunami-crippled Fukushima No. 1 nuclear power station.")](https://www.japantimes.co.jp/news/2024/06/16/japan/japan-muon-reacceleration-breakthrough/ "Japan team succeeds in muon reacceleration in major breakthrough")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[France's Le Pen says she will work with Macron to appeal to moderates](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
-
-By [Samy Adghirni](https://www.japantimes.co.jp/author/2697/samy-adghirni/ "Samy Adghirni") and [Angelina Rascouet](https://www.japantimes.co.jp/author/1418/angelina-rascouet/ "Angelina Rascouet")  
-
-  [![Marine Le Pen speaks during a European election campaign rally in Paris on June 2.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/17/403587.jpg&w=400&q=100&f=jpg&t=1.2 "Marine Le Pen speaks during a European election campaign rally in Paris on June 2.")](https://www.japantimes.co.jp/news/2024/06/17/world/politics/le-pen-macron-moderates/ "France's Le Pen says she will work with Macron to appeal to moderates")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
+[Japan’s rainy season is significantly late this year](https://www.japantimes.co.jp/news/2024/06/20/japan/science-health/rainy-season-delay/ "Japan’s rainy season is significantly late this year")
 
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
+  [![Pedestrians shelter from the sun in Tokyo's Ginza district on Sunday. On average, the rainy season begins on June 7 in the Kanto region where Tokyo is situated, but as of Thursday, the Meteorological Agency has yet to declare the start of the season in the capital.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/20/404555.jpg&w=400&q=100&f=jpg&t=1.2 "Pedestrians shelter from the sun in Tokyo's Ginza district on Sunday. On average, the rainy season begins on June 7 in the Kanto region where Tokyo is situated, but as of Thursday, the Meteorological Agency has yet to declare the start of the season in the capital.")](https://www.japantimes.co.jp/news/2024/06/20/japan/science-health/rainy-season-delay/ "Japan’s rainy season is significantly late this year")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Nagoya hospital error results in high school student’s death](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
+[CDP's Izumi challenges Kishida to dissolve Lower House](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/kishida-izumi-election/ "CDP's Izumi challenges Kishida to dissolve Lower House")
 
-  [![A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403898.jpg&w=400&q=100&f=jpg&t=1.2 "A high school student was taken to the emergency room after he complained of symptoms including vomiting. The resident physician conducted a CT scan, identified gastric dilation and diagnosed the teenager as suffering from gastroenteritis before sending him home.")](https://www.japantimes.co.jp/news/2024/06/18/japan/japan-hospital-error-student-death/ "Nagoya hospital error results in high school student’s death")
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+
+  [![Constitutional Democratic Party of Japan leader Kenta Izumi (left) faces off against Prime Minister Fumio Kishida in a debate in parliament on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404277.jpg&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party of Japan leader Kenta Izumi (left) faces off against Prime Minister Fumio Kishida in a debate in parliament on Wednesday.")](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/kishida-izumi-election/ "CDP's Izumi challenges Kishida to dissolve Lower House")
 
 Podcast
 -------
 
-  [![Yayoi Kusama’s “Pumpkin,” once the victim of high waves that dragged it into the sea, sits at the end of a pier on the south side of Naoshima.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/06/401693.jpg&w=400&q=100&f=jpg&t=1.2 "Yayoi Kusama’s “Pumpkin,” once the victim of high waves that dragged it into the sea, sits at the end of a pier on the south side of Naoshima.")](https://www.japantimes.co.jp/podcast/2024/06/06/deep-dive/japans-inconvenient-art/ "The sweaty pleasure of Japan’s inconvenient art")
+  [![A person walks among the giant columns supporting the Metropolitan Area Outer Underground Discharge Channel in Saitama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/20/404580.jpg&w=400&q=100&f=jpg&t=1.2 "A person walks among the giant columns supporting the Metropolitan Area Outer Underground Discharge Channel in Saitama Prefecture.")](https://www.japantimes.co.jp/podcast/2024/06/20/deep-dive/tokyo-underground-longform/ "Tokyo underground: The city beneath our feet")
 
-[The sweaty pleasure of Japan’s inconvenient art](https://www.japantimes.co.jp/podcast/2024/06/06/deep-dive/japans-inconvenient-art/ "The sweaty pleasure of Japan’s inconvenient art")
+[Tokyo underground: The city beneath our feet](https://www.japantimes.co.jp/podcast/2024/06/20/deep-dive/tokyo-underground-longform/ "Tokyo underground: The city beneath our feet")
 
 Longform
 --------
@@ -208,9 +212,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Destination Restaurants express the land of Japan](https://sustainable.japantimes.com/magazine/vol36/36-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "Destination Restaurants express the land of Japan")
+[In Tokachi, a food supply chain for ‘receiving life’](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
 
-[![Destination Restaurants express the land of Japan](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_01_03-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "Destination Restaurants express the land of Japan")
+[![In Tokachi, a food supply chain for ‘receiving life’](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/img_magazine_36_04_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36/36-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "In Tokachi, a food supply chain for ‘receiving life’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -250,23 +254,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan’s GMO takes aim at labor shortage with AI and robotics company](https://www.japantimes.co.jp/business/2024/06/19/companies/gmo-ai-robots/ "Japan’s GMO takes aim at labor shortage with AI and robotics company")
+[U.S. and China held first informal nuclear talks in five years in March](https://www.japantimes.co.jp/news/2024/06/21/asia-pacific/politics/us-china-informal-nuclear-talks/ "U.S. and China held first informal nuclear talks in five years in March")
 
-20 mins ago
+44 mins ago
 
-[U.S. approves sale of more than 1,000 ‘suicide drones’ to Taiwan](https://www.japantimes.co.jp/news/2024/06/19/asia-pacific/politics/us-taiwan-suicide-drones/ "U.S. approves sale of more than 1,000 ‘suicide drones’ to Taiwan")
-
-45 mins ago
-
-[Revised guidelines drafted for investigating serious cases of school bullying](https://www.japantimes.co.jp/news/2024/06/19/japan/society/serious-bullying-cases/ "Revised guidelines drafted for investigating serious cases of school bullying")
+[Shogi star Sota Fujii loses major title for first time](https://www.japantimes.co.jp/news/2024/06/21/japan/shogi-fujii-loses-title/ "Shogi star Sota Fujii loses major title for first time")
 
 1 hours ago
 
-[Netflix uses ‘Squid Game’ playbook for untapped Southeast Asia](https://www.japantimes.co.jp/business/2024/06/19/companies/netflix-squid-game-southeast-asia/ "Netflix uses ‘Squid Game’ playbook for untapped Southeast Asia")
+[Warnings of heavy rain, flooding and landslides issued for Kagoshima](https://www.japantimes.co.jp/news/2024/06/21/japan/heavy-rain-kagoshima/ "Warnings of heavy rain, flooding and landslides issued for Kagoshima")
 
 1 hours ago
 
-[Putin and Kim eye upgraded ties as Russian leader visits North Korea](https://www.japantimes.co.jp/news/2024/06/19/asia-pacific/politics/kim-putin-summit-meeting/ "Putin and Kim eye upgraded ties as Russian leader visits North Korea")
+[Energy costs drove up inflation in May, backing case for BOJ rate hike](https://www.japantimes.co.jp/business/2024/06/21/economy/consumer-prices/ "Energy costs drove up inflation in May, backing case for BOJ rate hike")
+
+1 hours ago
+
+[Sudan one of world's 'worst crises' in decades: Doctors Without Borders](https://www.japantimes.co.jp/news/2024/06/21/world/sudan-humanitarian-crisis/ "Sudan one of world's 'worst crises' in decades: Doctors Without Borders")
 
 1 hours ago
 
