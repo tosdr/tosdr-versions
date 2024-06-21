@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/en-wiens-orders-volg-jij-op/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/israels-controle-over-isis-is-isil/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -144,22 +144,6 @@ Inschrijven
 > 
 > Groucho Marx (1890 – 1977), komiek
 
-Advertentie
-
-[![WietOlie](https://www.wanttoknow.nl/wp-content/uploads/klantreacties-1-350px-auto.webp)](https://thc-olie.nl/)
-
-#### WantToKnow Aanbieding
-
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/nieuw-goud-edit-2024.jpg?fit=442%2C440&ssl=1)
-
-### [Gezond in de zon met Colloïdaal Goud: Zijn jouw lichaam en huid goud waard?](https://www.wanttoknow.nl/aanbieding/gezond-in-de-zon-met-colloidaal-goud-ben-jij-goud-waard/)
-
-[– Let op! Aanbieding geldig t/m 20 juni – Gezond de zon in? Wist je dat nano-mineralen al sinds de oudheid door vele volkeren gebruikt wordt om voeding en drank te conserveren? En dat in de medische wereld nano-mineralen vanaf circa 1800 wordt ingezet als ‘natuurlijk antibioticum’..? En wist je dat de Chinezen in de oudheid al gouden munten in kokend water deden om kleine deeltjes van dit edelmetaal in te kunnen nemen en ze de eersten waren die colloïdaal goud maakten? Het mag in ieder geval duidelijk zijn, dat veel van deze, als sinds de oudheid erkende, werkingen van de edele metalen tegenwoordig nog maar weinig worden besproken. Maar er zit verandering in de lucht. Bijvoorbeeld zijn er de mensen van ‘The Health Factory’ met hun unieke productiemethode, die gelukkig de colloïdale goudwateren weer op de kaart hebben gezet. Samen met hen doen we je deze unieke aanbieding; lees snel verder…! …](https://www.wanttoknow.nl/aanbieding/gezond-in-de-zon-met-colloidaal-goud-ben-jij-goud-waard/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/gezond-in-de-zon-met-colloidaal-goud-ben-jij-goud-waard/#pt-field-text-5)
-
-[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
-
 #### WantToKnow Aanbieding
 
 ![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8039.jpg?fit=662%2C440&ssl=1)
@@ -169,6 +153,24 @@ Advertentie
 [– Let op! Aanbieding geldig t/m donderdag 27 juni! – We zijn ontzettend blij dat we de kans hebben je deze Shungiet aanbieding opnieuw te doen! Shungiet is namelijk maar op één plek in de wereld te vinden: in Rusland. Je weet; import en export is nu extreem moeilijk! Deze zeldzame, eeuwenoude steen, dankt de naam Shungite aan de enige plek ter wereld, waar het gevonden wordt. Shun’ga (Шуньга) ligt aan een groot meer oostelijk van Finland. Shungiet is uniek ook, omdat deze steensoort bijna volledig uit een zeldzame ‘Fullereen’ ofwel ‘Buckyball’-carbon (koolstof) bestaat.. Deze karakteristiek en de eigenschap/kwaliteit van Shungiet werd enkele decennia geleden pas ontdekt, onder elektronen-microscopen bestudeerd. Bijzonder, fascinerend materiaal! Lees daarom snel verder voor alle info en hoe je Shungiet kunt gebruiken in jouw dagelijks leven. En ook gewoon als sieraad! Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/)
 
 [Order now](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/#pt-field-text-5)
+
+[![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
+
+#### WantToKnow Aanbieding
+
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/zaphir_chimes_set_560.jpg?fit=440%2C440&ssl=1)
+
+### [ZAPHIR-windgongen; mens en seizoen resoneren deze zomer!](https://www.wanttoknow.nl/aanbieding/zaphir-windgongen-mens-en-seizoen-resoneren-deze-zomer/)
+
+[– Let op! Geldig t/m donderdag 4 juli! – Het verschil tussen een Rolls Royce en een Lelijke Eend is het verschil tussen een bamboe windgong van Xenos en deze unieke handgestemde Zaphir-windgongen. En datkun je alleen maar horen! Net zo min als je een Rolls Royce bij Xenos kunt kopen, zijn daar ook deze Zaphir-gongetjes niet te verkrijgen. Je begrijpt waar we naartoe willen: deze werkelijk betoverende muziekinstrumentjes hebben we dit keer in de aanbieding. Ambachtelijke instrumenten, elk volledig met de hand vervaardigd, maar vooral zuiver gestemd, door vakmensen in de Franse Pyreneeën. De serie is gestemd op basis van de jaargetijden én de Soefi die alles waarneemt. Los van elkaar, krachtige, onafhankelijke werelden van specifieke klank. Tezamen vormen zij dé harmonie van de ‘Schepping’. Luister hier naar hun sprankelende twinkeling, voor een nieuwe energieke lente …](https://www.wanttoknow.nl/aanbieding/zaphir-windgongen-mens-en-seizoen-resoneren-deze-zomer/)
+
+[Order now](https://www.wanttoknow.nl/aanbieding/zaphir-windgongen-mens-en-seizoen-resoneren-deze-zomer/#pt-field-text-5)
+
+[![BRES #346](https://www.wanttoknow.nl/wp-content/uploads/BRES-346-BANNER.jpg)](https://bresmagazine.nl/publicaties/)
+
+Advertentie
+
+[![WietOlie](https://www.wanttoknow.nl/wp-content/uploads/klantreacties-1-350px-auto.webp)](https://thc-olie.nl/)
 
 #### WantToKnow Boekentip
 
@@ -197,8 +199,6 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [14 juni 2024](h
 Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) Tagged [doofpot](https://www.wanttoknow.nl/trefwoorden/doofpot/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [Nieuws](https://www.wanttoknow.nl/trefwoorden/nieuws/), [Politiek](https://www.wanttoknow.nl/trefwoorden/politiek/), [valse vlag operatie](https://www.wanttoknow.nl/trefwoorden/valse-vlag-operatie/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
-
-[![BRES #345](https://www.wanttoknow.nl/wp-content/uploads/BRES-345.jpg)](https://bresmagazine.nl/publicaties/)
 
 #### Recente reacties
 
