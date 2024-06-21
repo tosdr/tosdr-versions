@@ -87,9 +87,9 @@ Search
     
     $11.95](https://www.adafruit.com/product/5920)
     
-    ![Video of gloved hands playing with a blue LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5921-00.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Blue
+    ![Angled shot of black, rectangular breakout board with a green 3-pin terminal block.](https://cdn-shop.adafruit.com/230x173/5976-00.jpg)[Adafruit DS2484 I2C to 1-Wire Bus Adapter Breakout
     
-    $11.95](https://www.adafruit.com/product/5921)
+    $7.50](https://www.adafruit.com/product/5976)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Premature optimization is the root of all evil”
+“ Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius”
 
-[Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
+[William Blake](http://en.wikipedia.org/wiki/William_Blake)
 
 [](https://www.adafruit.com/about)
 
