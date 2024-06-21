@@ -287,6 +287,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A realistic cartoon-style illustration for a blog post titled 'The Impact of Credit Inquiries on Your Score.' The central character is an African American person with dark skin, curly hair, and glasses, wearing a green shirt and jeans. They are carefully examining a credit report with a magnifying glass. In the background, a large credit score gauge with a fluctuating needle is prominent, surrounded by icons representing different types of credit inquiries: a house, a car, and a credit card. The scene is enriched with abstract patterns in blue and green, adding vibrancy. The character's expression shows a thoughtful mix of curiosity and concern, emphasizing the importance of understanding credit inquiries.](https://creditnerds.com/wp-content/uploads/2024/06/Inquiries-30x30.webp)](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+June 20, 2024
+
+#### [The Impact of Credit Inquiries on Your Score](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
+
+Credit inquiries play a significant role in your financial health. They occur whenever a request is made to review your credit report, and they can influence your credit score in various ways. Understanding the impact of credit inquiries on your score is essential for effective credit management. In this guide, we'll explore the differences between …
+
+[Read More](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
+
 [![A vibrant, realistic illustration celebrating Juneteenth and financial equality. The central character is an African American person with dark skin, curly hair, and glasses, wearing a blue shirt and black pants. They stand confidently with a bright smile. The background is adorned with colorful abstract patterns in shades of green, yellow, and red, incorporating subtle symbols of financial equality like a balance scale and a piggy bank. The overall atmosphere is hopeful and empowering, reflecting the themes of freedom, progress, and financial empowerment associated with Juneteenth.](https://creditnerds.com/wp-content/uploads/2024/06/Juneteenth-30x30.webp)](https://creditnerds.com/juneteenth-a-reflection-on-financial-equality/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -382,18 +394,6 @@ May 27, 2024
 Understanding how your account balances affect your credit is crucial in managing your financial health. This article explores the dynamics between your balances and credit scores, detailing strategies for optimal management. The Influence of Account Balances on Credit Scores Account balances directly impact your credit if they are reported to credit bureaus. The way these …
 
 [Read More](https://creditnerds.com/how-account-balances-impact-your-credit/)
-
-[![A somewhat realistic cartoon-style image of a surprised character wearing glasses, holding an empty wallet with money flying out. The background includes various everyday items and services such as coffee cups, streaming subscription logos, takeout food containers, shopping bags, and a car, representing hidden expenses. The character has a confused and startled expression, realizing the different ways they are unknowingly spending money.](https://creditnerds.com/wp-content/uploads/2024/06/Spending-money-30x30.webp)](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 24, 2024
-
-#### [5 Ways You’re Spending Money Without Realizing It](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
-
-Finding ways to reduce your spending can help you save more or keep more in your pocket. If you're feeling financial pressure, you might be consciously limiting everyday spending or cutting back on discretionary areas in your budget. However, what about the spending you do unconsciously? "Budget leaks" are money you spend without thinking or …
-
-[Read More](https://creditnerds.com/5-ways-youre-spending-money-without-realizing-it/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
