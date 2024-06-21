@@ -57,10 +57,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [Rule of three: third spaces](https://eslbrains.com/rule-of-three-third-spaces/ "Rule of three: third spaces")
+* [When crowds fund your project](https://eslbrains.com/when-crowds-fund-your-project/ "When crowds fund your project")
+* [I’ll do it better next time!](https://eslbrains.com/ill-do-it-better-next-time/ "I’ll do it better next time!")
 * [When exercise meets cosy…](https://eslbrains.com/when-exercise-meets-cosy/ "When exercise meets cosy…")
-* [Journalism and the news](https://eslbrains.com/journalism-and-the-news/ "Journalism and the news")
-* [Agree to disagree? Negotiating conflict](https://eslbrains.com/agree-to-disagree-negotiating-conflict/ "Agree to disagree? Negotiating conflict")
-* [The fastest shoe in the world](https://eslbrains.com/the-fastest-shoe-in-the-world/ "The fastest shoe in the world")
 
 © ESL Brains 2023
 
