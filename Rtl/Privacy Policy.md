@@ -1,3 +1,15 @@
+* [Accueil](https://www.rtlplay.be/)
+* Chaînes
+* [![RTL play](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_rtl_play "RTL play")![RTL play](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_rtl_play "RTL play")](https://www.rtlplay.be/)
+* [Recherche](https://www.rtlplay.be/recherche)
+* Mon Compte
+
+* [![RTL TVI](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_rtl_tvi_ghost "RTL TVI")![RTL TVI](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_rtl_tvi "RTL TVI")](https://www.rtlplay.be/tvi)
+* [![Club RTL](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_club_rtl_ghost "Club RTL")![Club RTL](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_club_rtl "Club RTL")](https://www.rtlplay.be/club)
+* [![PLUG RTL](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_plug_rtl_ghost "PLUG RTL")![PLUG RTL](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_plug_rtl "PLUG RTL")](https://www.rtlplay.be/plug)
+* [![BEL RTL](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_bel_rtl_ghost "BEL RTL")![BEL RTL](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_bel_rtl "BEL RTL")](https://www.rtlplay.be/bel)
+* [![Contact](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_contact_ghost "Contact")![Contact](https://assets-bundle.6cloud.fr/be-rtlplay-v5/10/svg-sprite/viewbox.svg#rtlbe_contact "Contact")](https://www.rtlplay.be/contact)
+
 Espace de confidentialité
 =========================
 
