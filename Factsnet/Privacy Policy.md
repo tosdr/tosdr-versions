@@ -206,21 +206,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![18 Facts About Multiverse Computing ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/computing/18-facts-about-multiverse-computing/)
+[![17 Facts About Perplexity AI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2274%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
 
-Computing
+Technology
 
-20 Jun 2024
+21 Jun 2024
 
-[18 Facts About Multiverse Computing](https://facts.net/tech-and-sciences/computing/18-facts-about-multiverse-computing/)
+[17 Facts About Perplexity AI](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
 
-[![20 Facts About Getting Things Done ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/philosophy-and-thinking/20-facts-about-getting-things-done/)
+[![30 Facts About World War III ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
 
-Philosophy & Thinking
+Historical Events
 
-20 Jun 2024
+21 Jun 2024
 
-[20 Facts About Getting Things Done](https://facts.net/philosophy-and-thinking/20-facts-about-getting-things-done/)
+[30 Facts About World War III](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
