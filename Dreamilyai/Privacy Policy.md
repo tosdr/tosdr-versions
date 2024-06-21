@@ -60,11 +60,7 @@ We process your personal information for these purposes in reliance on our legit
     
 6. To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
     
-      
-    
     **Information Share**
-    
-      
     
     We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
     
@@ -78,11 +74,7 @@ We process your personal information for these purposes in reliance on our legit
     
 11. Service Optimization: To maintain the software's safety and enjoyment, we provide information and content to our service providers who support our business. These include cloud service providers and content moderation service providers, as well as service providers who help us market the software. In addition, in order to optimize and improve the Service, we work with analytics providers.
     
-      
-    
     **Information Storage and Transfer**
-    
-      
     
     We may transfer, store, and process your information in countries other than your own.
     
@@ -92,11 +84,7 @@ We process your personal information for these purposes in reliance on our legit
     
     Our servers are located in the United States. If you are accessing our Services from outside the United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities in the United States. In addition, we enabled the cloud server and the necessary information will be sent to Google Cloud.
     
-      
-    
     **Information Security**
-    
-      
     
     We aim to protect your personal information through a system of organizational and technical security measures.
     
@@ -108,11 +96,7 @@ We process your personal information for these purposes in reliance on our legit
     
     Please protect your personal information and provide it to others only when necessary. If you discover that your personal information has been compromised, please email us immediately at support@dreamily.ai, so that we can take appropriate action.
     
-      
-    
     **For Younger Users**
-    
-      
     
     1\. Users under the age of 18 may not create their own accounts without their parents' or guardians' permission. You should have your parent or guardian review this policy carefully if you are a minor, and use our services or provide us information with their consent.
     
@@ -120,7 +104,7 @@ We process your personal information for these purposes in reliance on our legit
     
     3\. If we discover that we have collected personal information from children without obtaining verifiable parental consent, we will delete the data as soon as possible.
     
-    Changes to This Privacy Policy
+    **Changes to This Privacy Policy**
     
     rom time to time, we may update this privacy notice to accommodate new technologies, industry practices, regulatory requirements or for other purposes. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
     
