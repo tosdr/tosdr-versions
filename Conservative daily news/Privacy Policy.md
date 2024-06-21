@@ -1,15 +1,15 @@
-Thursday, June 20 2024
+Friday, June 21 2024
 
 Breaking News
 
-* [This November Will Provide An Opportunity To Revive Much-Needed Sensibilities](https://www.conservativedailynews.com/2024/06/this-november-will-provide-an-opportunity-to-revive-much-needed-sensibilities/)
-* [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
-* [Lies And Deceit Will Be Biden Legacy](https://www.conservativedailynews.com/2024/06/lies-and-deceit-will-be-biden-legacy/)
-* [Foreign Aid And Student Loan Forgiveness Behind Massive Increase In Deficit Estimate, Congressional Budget Office Says](https://www.conservativedailynews.com/2024/06/foreign-aid-and-student-loan-forgiveness-behind-massive-increase-in-deficit-estimate-congressional-budget-office-says/)
-* [Biden Campaigning On Trump Being A Threat To Democracy, But Voters Not Buying It: POLL](https://www.conservativedailynews.com/2024/06/biden-campaigning-on-trump-being-a-threat-to-democracy-but-voters-not-buying-it-poll/)
-* [President Joe Biden’s Schedule for Wednesday, June 19, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-wednesday-june-19-2024/)
-* [Teach Your Children How To Change A Tire, Shoot A Gun And Treat Everyone With Dignity And Respect](https://www.conservativedailynews.com/2024/06/teach-your-children-how-to-change-a-tire-shoot-a-gun-and-treat-everyone-with-dignity-and-respect/)
-* [Biden Has Used The Dollar As A Hammer — And Americans Might Be The Ones To Take The Blow](https://www.conservativedailynews.com/2024/06/biden-has-used-the-dollar-as-a-hammer-and-americans-might-be-the-ones-to-take-the-blow/)
+* [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+* [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+* [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+* [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+* [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+* [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+* [Huge Percentage Of EV Owners Want To Go Back To Normal Cars, Study Finds](https://www.conservativedailynews.com/2024/06/huge-percentage-of-ev-owners-want-to-go-back-to-normal-cars-study-finds/)
+* [Wealthy Liberals Barrel Ahead With Plans To Block The Sun](https://www.conservativedailynews.com/2024/06/wealthy-liberals-barrel-ahead-with-plans-to-block-the-sun/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,82 +103,82 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
-    
-    [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
-    
-    June 19, 2024
-    
-* [![Joe Biden debate Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/05/gv051824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
-    
-    [Ex-CNN Analyst Breaks Down Just How ‘Pro-Biden’ His Former Network’s Rules Are In Upcoming Trump Debate](https://www.conservativedailynews.com/2024/06/ex-cnn-analyst-breaks-down-just-how-pro-biden-his-former-networks-rules-are-in-upcoming-trump-debate/)
-    
-    June 17, 2024
-    
-
-Recent Posts
-
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
     
     [The Democratic Subversion of Democracy](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
     
     June 19, 2024
     
-* [![Joe Biden dementia lying eyes](https://www.conservativedailynews.com/wp-content/uploads/2024/06/stg061924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/this-november-will-provide-an-opportunity-to-revive-much-needed-sensibilities/)
-    
-    [This November Will Provide An Opportunity To Revive Much-Needed Sensibilities](https://www.conservativedailynews.com/2024/06/this-november-will-provide-an-opportunity-to-revive-much-needed-sensibilities/)
-    
-    June 19, 2024
-    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
     
     [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
     
     June 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5141-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/lies-and-deceit-will-be-biden-legacy/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
     
-    [Lies And Deceit Will Be Biden Legacy](https://www.conservativedailynews.com/2024/06/lies-and-deceit-will-be-biden-legacy/)
+    [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
     
-    June 19, 2024
+    June 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/national-debt.jpg)](https://www.conservativedailynews.com/2024/06/foreign-aid-and-student-loan-forgiveness-behind-massive-increase-in-deficit-estimate-congressional-budget-office-says/)
+* [![Joe Biden wind energy renewable green](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-60-220x150.png)](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
     
-    [Foreign Aid And Student Loan Forgiveness Behind Massive Increase In Deficit Estimate, Congressional Budget Office Says](https://www.conservativedailynews.com/2024/06/foreign-aid-and-student-loan-forgiveness-behind-massive-increase-in-deficit-estimate-congressional-budget-office-says/)
+    [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
     
-    June 19, 2024
+    June 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-sad-upset-220x150.jpg)](https://www.conservativedailynews.com/2024/06/biden-campaigning-on-trump-being-a-threat-to-democracy-but-voters-not-buying-it-poll/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5144-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
     
-    [Biden Campaigning On Trump Being A Threat To Democracy, But Voters Not Buying It: POLL](https://www.conservativedailynews.com/2024/06/biden-campaigning-on-trump-being-a-threat-to-democracy-but-voters-not-buying-it-poll/)
+    [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
     
-    June 19, 2024
+    June 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/09/02-biden-zs-ac-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-wednesday-june-19-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Gavin-Newsom-2.png)](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
     
-    [President Joe Biden’s Schedule for Wednesday, June 19, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-wednesday-june-19-2024/)
+    [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
     
-    June 19, 2024
+    June 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/10/Americanflag.jpg)](https://www.conservativedailynews.com/2024/06/teach-your-children-how-to-change-a-tire-shoot-a-gun-and-treat-everyone-with-dignity-and-respect/)
+* [![Mayorkas illegal immigration](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv062124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/victims/)
     
-    [Teach Your Children How To Change A Tire, Shoot A Gun And Treat Everyone With Dignity And Respect](https://www.conservativedailynews.com/2024/06/teach-your-children-how-to-change-a-tire-shoot-a-gun-and-treat-everyone-with-dignity-and-respect/)
+    [Victims](https://www.conservativedailynews.com/2024/06/victims/)
     
-    June 19, 2024
+    June 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+    
+    [Why the Left Hates It When You Point Out We’re ‘a Republic, Not a Democracy’](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+    
+    June 21, 2024
+    
+* [![Camp David](https://www.conservativedailynews.com/wp-content/uploads/2017/06/Camp-David.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+    
+    June 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+    
+    [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+    
+    June 20, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New: Federal Field & Range Gun Cases](https://www.thegunpage.com/new-federal-field-range-gun-cases/10608901)
+* [NRA President Bob Barr To Speak At 2024 Daisy BB Gun Nationals Opening Ceremony](https://www.thegunpage.com/nra-president-bob-barr-to-speak-at-2024-daisy-bb-gun-nationals-opening-ceremony/10608897)
+* [New: Smith & Wesson Model 1854 With Walnut Furniture](https://www.thegunpage.com/new-smith-wesson-model-1854-with-walnut-furniture/10608894)
+* [An Abbreviated Competition Program: 1941 National Matches](https://www.thegunpage.com/an-abbreviated-competition-program-1941-national-matches/10608893)
 * [USA Shooting: Shotgun Team Claims Four Medals At Final World Cup Before Paris 2024 Olympics](https://www.thegunpage.com/usa-shooting-shotgun-team-claims-four-medals-at-final-world-cup-before-paris-2024-olympics/10608890)
 * [Violent crime skyrocketing under Biden, according to Biden’s favorite data source](https://www.thegunpage.com/violent-crime-skyrocketing-under-biden-according-to-bidens-favorite-data-source/10608886)
 * [NRA World Shooting Championship: The Experience](https://www.thegunpage.com/nra-world-shooting-championship-the-experience/10608885)
 * [ISSF Lonato World Cup: Vincent Hancock, Austen Smith Win Skeet Mixed Team Gold](https://www.thegunpage.com/issf-lonato-world-cup-vincent-hancock-austen-smith-win-skeet-mixed-team-gold/10608882)
 * [Even the CDC admits its latest anti-gun report is misleading and full of holes](https://www.thegunpage.com/even-the-cdc-admits-its-latest-anti-gun-report-is-misleading-and-full-of-holes/10608875)
 * [Hillsdale College, USA Shooting Celebrate Partnership](https://www.thegunpage.com/hillsdale-college-usa-shooting-celebrate-partnership/10608881)
-* [New: Tisas USA Fatih B380](https://www.thegunpage.com/new-tisas-usa-fatih-b380/10608877)
-* [USA Shooting: Meet Your Paris 2024 Olympic Shotgun Team](https://www.thegunpage.com/usa-shooting-meet-your-paris-2024-olympic-shotgun-team/10608874)
-* [Register Now For The 2024 NRA National Matches](https://www.thegunpage.com/register-now-for-the-2024-nra-national-matches/10608873)
-* [Erich Mietenkorte Clinches Fourth Consecutive Iron Man Regional Silhouette Championship](https://www.thegunpage.com/erich-mietenkorte-clinches-fourth-consecutive-iron-man-regional-silhouette-championship/10608867)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
