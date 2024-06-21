@@ -2,11 +2,11 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
-Travel Advisory in effect
+Important
 
 Close
 
-Please visit our [guest updates page](https://www.westjet.com/en-ca/guest-updates) for more information. Please only call if you’re travelling within the next 72 hours.  
+Our existing Basic fare has been replaced by our new [UltraBasic](https://www.westjet.com/en-ca/news/2024/westjet-introduces-ultrabasic-) fare. Guests who booked a Basic fare on or before June 3, 2024 will still be able to bring a carry-on bag.
 
 By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/en-ca/legal/terms-use), the [privacy statement](https://www.westjet.com/en-ca/legal/privacy-policy), and the [use of cookies](https://www.westjet.com/en-ca/legal/privacy-policy#cookies).  
 
