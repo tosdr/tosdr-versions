@@ -49,7 +49,7 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/1_3_3d2a3168-e15d-498f-8b8e-498d0c8feb87.png?crop=center&height=85&v=1705348338&width=85)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-[35% off
+[34% off
 
 ![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
@@ -71,7 +71,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5246 reviews (5246)
+5250 reviews (5250)
 
 £23.00 £23.00
 
@@ -95,7 +95,7 @@ CHOOSE Color
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2354 reviews (2355)
+2356 reviews (2356)
 
 £23.00 £23.00
 
@@ -125,7 +125,7 @@ Single - £7
 
 ADD TO TOTE
 
-[48% off
+[47% off
 
 ![vanilla-bean-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTVB_Nourishing_Body_Cream_Vanilla_Bean_Primary_239x254.jpg?v=1627030911)](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
@@ -133,7 +133,7 @@ ADD TO TOTE
 
 ### [Vanilla Bean Nourishing Body Cream](https://www.100percentpure.com/products/vanilla-bean-nourishing-body-cream)
 
-769 reviews (769)
+771 reviews (771)
 
 £11.00 £21.00
 
@@ -163,7 +163,9 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![coconut-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_239x254.jpg?v=1695865138)](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
+[52% off
+
+![coconut-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_239x254.jpg?v=1695865138)](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
 ![ 1BLTC_Primary](//www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_220x.jpg?v=1695865138)
 
@@ -311,7 +313,7 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[28% off
+[27% off
 
 ![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
@@ -365,7 +367,7 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-[30% off
+[29% off
 
 ![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
@@ -373,7 +375,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants PM Facial Oil](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-208 reviews (208)
+209 reviews (209)
 
 £33.00 £47.00
 
@@ -389,7 +391,7 @@ ADD TO TOTE
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-492 reviews (492)
+493 reviews (493)
 
 £3.00 £7.00
 
@@ -405,7 +407,7 @@ ADD TO TOTE
 
 ### [Blood Orange Nourishing Body Cream](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
 
-286 reviews (286)
+287 reviews (287)
 
 £10.00 £21.00
 
@@ -445,7 +447,7 @@ Default Title - £10
 
 ADD TO TOTE
 
-[29% off
+[28% off
 
 ![dark-spot-remover](https://www.100percentpure.com/cdn/shop/products/1FMDSR_Dark_Spot_Remover_Primary_239x254.jpg?v=1696526415)](https://www.100percentpure.com/products/dark-spot-remover)
 
@@ -563,7 +565,7 @@ or 4 interest-free payments of **£0.00** with ![Klarna Logo](https://www.100per
 
  
 
-[Last Day! Buy One Get One 50% OFF ALL Masks! USE CODE: MASKFUN](https://www.100percentpure.com/collections/masks "Natural Face Masks")
+[🔥 Limited-Time Deals! 🔥 New Items Added + Massive Discounts Up to 70%OFF!](https://www.100percentpure.com/collections/oops-we-made-too-much "Oops We Made Too Much")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
