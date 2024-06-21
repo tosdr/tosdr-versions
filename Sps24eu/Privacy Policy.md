@@ -121,7 +121,6 @@ Delivery cost from
     * [Beninca](https://sps24.eu/en/menu/gate-automation/beninca-4829.html "Beninca")
     * [BFt](https://sps24.eu/en/menu/gate-automation/bft-4830.html "BFt")
     * [CAME](https://sps24.eu/en/menu/gate-automation/came-4831.html "CAME")
-    * [DEA](https://sps24.eu/en/menu/gate-automation/dea-4832.html "DEA")
     * [FAAC](https://sps24.eu/en/menu/gate-automation/faac-4833.html "FAAC")
     * [Nice](https://sps24.eu/en/menu/gate-automation/nice-4834.html "Nice")
     * [Proxima](https://sps24.eu/en/menu/gate-automation/proxima-4835.html "Proxima")
@@ -216,7 +215,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=1ee97283f4ce49b2c2cf4a6a98a9afaa)
+![pixel](https://client4733.idosell.com/checkup.php?c=dde4454845c6b0eebdb2bfed8c8e9bd2)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
