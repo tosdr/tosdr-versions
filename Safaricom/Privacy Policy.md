@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [509 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [516 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -137,7 +137,105 @@ COOKIES
 
 out of 5 based on
 
-[509 reviews](https://www.trustpilot.com/review/www.safari.com)
+[516 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 20, 2024
+
+> Booking
+
+> Booking Easy and convenient. Response from Safari was promt. Thank you Heleen
+
+Genie Conradie
+
+,
+
+ZA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 20, 2024
+
+> I contacted Safari.com and spoke to…Mel
+
+> I contacted Safari.com and spoke to Mel, what can be a daunting process Mel’s friendly, professional attitude put me straight away at ease, our conversations went on for a couple of days , I now all booked for my trip to Cape Town and Safari I so looking forward to it , thank you Mel I would definitely recommend booking through Safari.com and if your as lucky as I was you may get Mel. Also I would like to add that Mel now is our guide for our trip and that is so assuring! Thank you again Mel
+
+David Myerscough
+
+,
+
+GB
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 19, 2024
+
+> Dolan is a great travel agent
+
+> Dolan is very knowledgeable, friendly and helpful. He answered all of our questions and worked very hard to create the itinerary that we wanted.
+
+JP
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 19, 2024
+
+> Leigh-Ann Croeser is a Gem
+
+> Leigh-Ann Croeser is a Gem. We never had an agent so dedicated and full of surprises like her. She gave us options we did not even know they exist. We feel lucky and welcomed. Thank you so much Leigh-Ann Croeser. You are our main agent from now on.
+
+Anas Almajed
+
+,
+
+SA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 19, 2024
+
+> Efficient and friendly service!
+
+> Had quick, efficient and friendly service from Tanya Lomas. Effortless process and looking forward to our stay!
+
+Lynne Groenewald
+
+,
+
+ZA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 19, 2024
+
+> We are immensely grateful for Shann’s…
+
+> We are immensely grateful for Shann’s extraordinary efforts in booking our African safari. Her attention to detail, tireless work, and exceptional service have made this experience unforgettable. Thank you from the bottom of our hearts. A shout out to the lovely Clarisha for finalising the bookings and ticketing. We are so excited for our Safari ..
+
+Lily Nelson
+
+,
+
+AU
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jun 18, 2024
+
+> Dorothy has been great ..
+
+> Dorothy has been great ... prompt, professional, flexible, answers all questions.
+
+Doug Frost
+
+,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -166,104 +264,6 @@ Tan Chi Chiu
 ,
 
 SG
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 14, 2024
-
-> While we have not traveled as yet
-
-> While we have not traveled as yet, the itinerary that we developed is very exciting and we are looking forward to this experience very much. Jayson Scheffers has been a wonderfully engaged and responsive partner in developing our agenda, despite our having some needs to change travel dates and agendas during the planning process because of family illness that necessitated our changing plans.
-
-Bob Murphy
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 14, 2024
-
-> Excellent Experience
-
-> The communication and organization of the trip was excellent. Shann was great and the whole experience was amazing.
-
-Amanda Gundry
-
-,
-
-SG
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 13, 2024
-
-> Great experience working with Lisa
-
-> Great experience working with Lisa from Safari.com, provided very helpful information and came up with a detailed itinerary for our stay in Cape Town and our 3 day safari at Sanbona. Unfortunately Lisa needed to go to a hospital but the company took over the booking process and all went very smooth. We wish Lisa a quick recovery.
-
-Anton
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 13, 2024
-
-> 7-nights Safari
-
-> I made a reservation for a 7-night safari trip to two specific Private Game Reserves in the Kruger National Park in South Africa, for one of the busiest months in Kruger: August. This reservation was made at the last minute. (3 days ago). A reservation that had some special features, with choices from someone who has already done (my husband and I) several safaris in other African countries. The architecture and design of the lodges are important to us on a professional level. And the Private Game Reserves had to be the best. Anja Meyer, from Safari.com, started and completed the reservation process in 4 days, two of which were weekends. Very efficient, fast and understanding what we wanted for our week in the bush. We are "addicted" to safaris, wildlife, bush, landscapes, nature... and we love Africa and the Africans. We can't wait for August to arrive. Thank you!
-
-Maria joao Demony
-
-,
-
-PT
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 12, 2024
-
-> My first experience a number of months…
-
-> My first experience a number of months back wasn't as I wanted. I picked up with Dolan a little after this to find when the best time to Safari was with the chance of seeing the "big 5" and he was so helpful, guiding me to July-September. With the cooler winter months being the better chances to see more wildlife and the big five. This lead me on to deal with Jayson. Jayson has pulled out all the stops, working past 9pm Cape Town time( 8pm London UK) to help meet my needs. I travel out on 6th July and cannot wait, Thank you Dolan and Jayson. Julian Bingle, London, UK.
-
-customer
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 11, 2024
-
-> Sara Van Coillie has been extremely…
-
-> Sara Van Coillie has been extremely helpful in making our Namibia trip fantastic! We have emails up on emails of Sara answering all my (many) questions months and months before our trip. I've had last minute questions and requests right before and during our trip and she always responds with record time and helps us out. I feel all of our needs have been met and I couldn't be happier with Sara as our travel representative! Highly recommend her! :)
-
-Alisha Strand
-
-,
-
-NA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 10, 2024
-
-> Pascal John extremely helpful,efficient and knowledgeable
-
-> Pascal John was very helpful with recommendations for our Safari Booking. He responded to all our emails and txt messages extremely quickly, especially given the time difference. He also sent videos of his recent experience at the lodges which was especially helpful.
-
-Paul Dempsey
-
-,
-
-NZ
 
 VIP service
 
