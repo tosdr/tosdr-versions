@@ -895,6 +895,7 @@ Support
 * [Track Your Order](https://www.arlo.com/en-us/orderstatus "Track Your Order")
 * [Returns](https://www.arlo.com/en-us/initiaterma "Returns")
 * [Product Warranty](https://www.arlo.com/en-us/product-warranty.html "Product Warranty")
+* [End of Life Policy](https://kb.arlo.com/000063018/End-of-Life-for-Arlo-Legacy-Cameras-and-Arlo-Services "EOL Policy")
 
 Partners
 
@@ -931,6 +932,7 @@ Support
 * [Track Your Order](https://www.arlo.com/en-us/orderstatus "Track Your Order")
 * [Returns](https://www.arlo.com/en-us/initiaterma "Returns")
 * [Product Warranty](https://www.arlo.com/en-us/product-warranty.html "Product Warranty")
+* [End of Life Policy](https://kb.arlo.com/000063018/End-of-Life-for-Arlo-Legacy-Cameras-and-Arlo-Services "EOL Policy")
 
 Partners
 
