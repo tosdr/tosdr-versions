@@ -25,7 +25,7 @@ Close
 
 * [Store](https://arstechnica.com/store/)
 * [Subscribe](https://arstechnica.com/store/product/subscriptions/)
-* [Videos](http://arstechnica.com/video/)
+* [Videos](http://video.arstechnica.com/)
 * [Features](https://arstechnica.com/features/)
 * [Reviews](https://arstechnica.com/reviews/)
 
