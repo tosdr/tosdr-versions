@@ -525,9 +525,10 @@ You agree that these Online Terms of Use and the [Privacy Policy](https://www.a
 * [Join Us](https://www.abbvie.com/join-us.html)
 * [Sustainability](https://www.abbvie.com/sustainability.html)
 
-* [![Facebook Logo](/content/dam/abbvie-com2/icons/footer-facebook.svg)](https://www.facebook.com/AbbVieGlobal)
+* [![](/content/dam/abbvie-com2/icons/footer-facebook.svg)](https://www.facebook.com/AbbVieGlobal)
 * [![Twitter Logo](/content/dam/abbvie-com2/icons/footer-twitter.svg)](https://twitter.com/abbvie)
 * [![Instagram Logo](/content/dam/abbvie-com2/icons/footer-instagram.svg)](https://www.instagram.com/abbvie/?hl=en)
+* [![](/content/dam/abbvie-com2/icons/footer-tiktok.svg)](https://www.tiktok.com/@abbvie)
 * [![LinkedIn Logo](/content/dam/abbvie-com2/icons/footer-linkedin.svg)](https://www.linkedin.com/company/abbvie)
 * [![YouTube Logo](/content/dam/abbvie-com2/icons/footer-youtube.svg)](https://www.youtube.com/user/AbbVie)
 
