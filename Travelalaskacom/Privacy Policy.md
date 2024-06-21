@@ -82,6 +82,8 @@
         
     * [Regions](https://www.travelalaska.com/Destinations/Regions)
         
+    * [Visitor Centers](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Visitors-Centers)
+        
     * Alaska Travel Specials
         
         * Image
