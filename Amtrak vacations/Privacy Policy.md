@@ -42,13 +42,13 @@ Main navigation
     
     [Search by Map](https://www.amtrakvacations.com/trip-planning/search-by-map) [View Top 10 Destinations](https://www.amtrakvacations.com/destinations/top-10-destinations) [View all Destinations](https://www.amtrakvacations.com/destinations)
     
-    [##### Flash Sale 15+ Nights
+    [##### Limited-Time Offer, 15+ Nights
     
-    Flash Sale](https://www.amtrakvacations.com/limited-time-offer?avdeals=)
+    Save $600](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
     
-    For a limited time only, save $600 on rail vacations inclusive of 15 nights or more!
+    For a limited time only, save $600 per couple on our most popular vacations inclusive of 15 nights or more!
     
-    [View Details](https://www.amtrakvacations.com/limited-time-offer?avdeals=)
+    [View Details](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
     
 * [Travel Styles](https://www.amtrakvacations.com/vacation-types?nav=)
     
@@ -137,11 +137,11 @@ Main navigation
     
     [Map Your Trip](https://www.amtrakvacations.com/trip-planning/search-by-map) [Travel Advisor Login](https://www.amtrakvacations.com/plan-your-amtrak-trip/travel-agent-login)
     
-    [##### Flash Sale 10+ Nights
+    [##### Limited-Time Offer, 10+ Nights
     
-    Flash Sale](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
+    Save $500](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
-    For a limited time only, save $500 per couple on any of our rail vacations inclusive of 10 nights or more!
+    For a limited time only, save $500 per couple on our most popular vacations inclusive of 10 nights or more!
     
     [View Trips](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
@@ -255,9 +255,9 @@ Close
 
 [×](#)
 
-### Flash Sale Happening Now!
+### Save Now When You Travel in 2024!
 
-Sign up, access this sale, and save on our most popular vacations!
+Sign up and view our latest deals and save on our most popular destinations and trips!
 
 First Name 
 
@@ -267,7 +267,19 @@ Email
 
  
 
-Leave this field blank 
+[×](#)
+
+### Save Now When You Travel in 2024!
+
+Sign up and view our latest deals and save on our most popular destinations and trips!
+
+First Name 
+
+Last Name 
+
+Email 
+
+ 
 
 Privacy **Policy**
 ==================
