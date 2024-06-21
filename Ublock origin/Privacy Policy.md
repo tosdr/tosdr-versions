@@ -145,7 +145,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2Fgorhill%2FuBlock) You must be signed in to change notification settings
 * [Fork 3k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
-* [Star 44.2k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Star 44.3k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
     
 
 * [Code](https://github.com/gorhill/uBlock)
@@ -187,283 +187,561 @@ The only time uBO connects to a remote server is to update the filter lists and 
 
 uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-### Toggle table of contents Pages 137
+### Toggle table of contents Pages 138
 
-* [Home](https://github.com/gorhill/uBlock/wiki)
+* Loading
     
-* [2014 07 22: uBlock and others: Blocking ads, trackers, malwares](https://github.com/gorhill/uBlock/wiki/2014-07-22:-uBlock-and-others:-Blocking-ads,-trackers,-malwares)
+    [Home](https://github.com/gorhill/uBlock/wiki)
     
-* [About "This other extension reports more stuff blocked!"](https://github.com/gorhill/uBlock/wiki/About-%22This-other-extension-reports-more-stuff-blocked!%22)
+* Loading
     
-* [About "uBlock is inferior in capabilities as a result of being lighter on the browser"](https://github.com/gorhill/uBlock/wiki/About-%22uBlock-is-inferior-in-capabilities-as-a-result-of-being-lighter-on-the-browser%22)
+    [2014 07 22: uBlock and others: Blocking ads, trackers, malwares](https://github.com/gorhill/uBlock/wiki/2014-07-22:-uBlock-and-others:-Blocking-ads,-trackers,-malwares)
     
-* [About "uBlock is inferior in capabilities as a result of being lighter on the browser"...](https://github.com/gorhill/uBlock/wiki/About-%22uBlock-is-inferior-in-capabilities-as-a-result-of-being-lighter-on-the-browser%22...)
+* Loading
     
-* [About "Why uBlock Origin works so much better than Pi‑hole does?"](https://github.com/gorhill/uBlock/wiki/About-%22Why-uBlock-Origin-works-so-much-better-than-Pi%E2%80%91hole-does%3F%22)
+    [About "This other extension reports more stuff blocked!"](https://github.com/gorhill/uBlock/wiki/About-%22This-other-extension-reports-more-stuff-blocked!%22)
     
-* [About the required permissions](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions)
+* Loading
     
-* [About this "your software" mindset](https://github.com/gorhill/uBlock/wiki/About-this-%22your-software%22-mindset)
+    [About "uBlock is inferior in capabilities as a result of being lighter on the browser"](https://github.com/gorhill/uBlock/wiki/About-%22uBlock-is-inferior-in-capabilities-as-a-result-of-being-lighter-on-the-browser%22)
     
-* [Advanced settings](https://github.com/gorhill/uBlock/wiki/Advanced-settings)
+* Loading
     
-* [Advanced user features](https://github.com/gorhill/uBlock/wiki/Advanced-user-features)
+    [About "uBlock is inferior in capabilities as a result of being lighter on the browser"...](https://github.com/gorhill/uBlock/wiki/About-%22uBlock-is-inferior-in-capabilities-as-a-result-of-being-lighter-on-the-browser%22...)
     
-* [Badware risks](https://github.com/gorhill/uBlock/wiki/Badware-risks)
+* Loading
     
-* [Behind the scene network requests](https://github.com/gorhill/uBlock/wiki/Behind-the-scene-network-requests)
+    [About "Why uBlock Origin works so much better than Pi‑hole does?"](https://github.com/gorhill/uBlock/wiki/About-%22Why-uBlock-Origin-works-so-much-better-than-Pi%E2%80%91hole-does%3F%22)
     
-* [Block more, way more](https://github.com/gorhill/uBlock/wiki/Block-more,-way-more)
+* Loading
     
-* [Blocking mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode)
+    [About the required permissions](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions)
     
-* [Blocking mode: easy mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-easy-mode)
+* Loading
     
-* [Blocking mode: hard mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-hard-mode)
+    [About this "your software" mindset](https://github.com/gorhill/uBlock/wiki/About-this-%22your-software%22-mindset)
     
-* [Blocking mode: medium mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode)
+* Loading
     
-* [Blocking mode: nightmare mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-nightmare-mode)
+    [Advanced settings](https://github.com/gorhill/uBlock/wiki/Advanced-settings)
     
-* [Blocking mode: very easy mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-very-easy-mode)
+* Loading
     
-* [Can uBO crash a browser?](https://github.com/gorhill/uBlock/wiki/Can-uBO-crash-a-browser%3F)
+    [Advanced user features](https://github.com/gorhill/uBlock/wiki/Advanced-user-features)
     
-* [Can you trust uBlock Origin?](https://github.com/gorhill/uBlock/wiki/Can-you-trust-uBlock-Origin%3F)
+* Loading
     
-* [Can you trust uBlock?](https://github.com/gorhill/uBlock/wiki/Can-you-trust-uBlock%3F)
+    [Badware risks](https://github.com/gorhill/uBlock/wiki/Badware-risks)
     
-* [Change log](https://github.com/gorhill/uBlock/wiki/Change-log)
+* Loading
     
-* [Cloud storage](https://github.com/gorhill/uBlock/wiki/Cloud-storage)
+    [Behind the scene network requests](https://github.com/gorhill/uBlock/wiki/Behind-the-scene-network-requests)
     
-* [Code viewer](https://github.com/gorhill/uBlock/wiki/Code-viewer)
+* Loading
     
-* [Compare: Memory footprint: what happens inside µBlock after installation](https://github.com/gorhill/uBlock/wiki/Compare:-Memory-footprint:-what-happens-inside-%C2%B5Block-after-installation)
+    [Block more, way more](https://github.com/gorhill/uBlock/wiki/Block-more,-way-more)
     
-* [Contributed memory usage: benchmarks over time](https://github.com/gorhill/uBlock/wiki/Contributed-memory-usage:-benchmarks-over-time)
+* Loading
     
-* [Cosmetic filtering in uBlock: version 0.4.0.0 update](https://github.com/gorhill/uBlock/wiki/Cosmetic-filtering-in-uBlock:-version-0.4.0.0-update)
+    [Blocking mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode)
     
-* [Cosmetic filtering in µBlock: version 0.4.0.0 update](https://github.com/gorhill/uBlock/wiki/Cosmetic-filtering-in-%C2%B5Block:-version-0.4.0.0-update)
+* Loading
     
-* [Counterarguments](https://github.com/gorhill/uBlock/wiki/Counterarguments)
+    [Blocking mode: easy mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-easy-mode)
     
-* [Dashboard](https://github.com/gorhill/uBlock/wiki/Dashboard)
+* Loading
     
-* [Dashboard: 3rd party filters](https://github.com/gorhill/uBlock/wiki/Dashboard:-3rd-party-filters)
+    [Blocking mode: hard mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-hard-mode)
     
-* [Dashboard: Filter lists](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists)
+* Loading
     
-* [Dashboard: My filters](https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters)
+    [Blocking mode: medium mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode)
     
-* [Dashboard: My rules](https://github.com/gorhill/uBlock/wiki/Dashboard:-My-rules)
+* Loading
     
-* [Dashboard: Settings](https://github.com/gorhill/uBlock/wiki/Dashboard:-Settings)
+    [Blocking mode: nightmare mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-nightmare-mode)
     
-* [Dashboard: Support](https://github.com/gorhill/uBlock/wiki/Dashboard:-Support)
+* Loading
     
-* [Dashboard: Trusted sites](https://github.com/gorhill/uBlock/wiki/Dashboard:-Trusted-sites)
+    [Blocking mode: very easy mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-very-easy-mode)
     
-* [Dashboard: Whitelist](https://github.com/gorhill/uBlock/wiki/Dashboard:-Whitelist)
+* Loading
     
-* [Debunking "uBlock Origin is less efficient than Adguard" claims](https://github.com/gorhill/uBlock/wiki/Debunking-%22uBlock-Origin-is-less-efficient-than-Adguard%22-claims)
+    [Can uBO crash a browser?](https://github.com/gorhill/uBlock/wiki/Can-uBO-crash-a-browser%3F)
     
-* [Deploying uBlock Origin](https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin)
+* Loading
     
-* [Deploying uBlock Origin: configuration](https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin:-configuration)
+    [Can you trust uBlock Origin?](https://github.com/gorhill/uBlock/wiki/Can-you-trust-uBlock-Origin%3F)
     
-* [Disable hyperlink auditing beacon](https://github.com/gorhill/uBlock/wiki/Disable-hyperlink-auditing-beacon)
+* Loading
     
-* [Does uBlock block ads or just hide them?](https://github.com/gorhill/uBlock/wiki/Does-uBlock-block-ads-or-just-hide-them%3F)
+    [Can you trust uBlock?](https://github.com/gorhill/uBlock/wiki/Can-you-trust-uBlock%3F)
     
-* [Does uBlock Origin block ads or just hide them?](https://github.com/gorhill/uBlock/wiki/Does-uBlock-Origin-block-ads-or-just-hide-them%3F)
+* Loading
     
-* [Does uBO protect against fingerprinting?](https://github.com/gorhill/uBlock/wiki/Does-uBO-protect-against-fingerprinting%3F)
+    [Change log](https://github.com/gorhill/uBlock/wiki/Change-log)
     
-* [Doesn't uBlock Origin add overhead to page load?](https://github.com/gorhill/uBlock/wiki/Doesn't-uBlock-Origin-add-overhead-to-page-load%3F)
+* Loading
     
-* [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector)
+    [Cloud storage](https://github.com/gorhill/uBlock/wiki/Cloud-storage)
     
-* [Dynamic filtering](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering)
+* Loading
     
-* [Dynamic filtering examples](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering---examples)
+    [Code viewer](https://github.com/gorhill/uBlock/wiki/Code-viewer)
     
-* [Dynamic filtering: Benefits of blocking 3rd party iframe tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Benefits-of-blocking-3rd-party-iframe-tags)
+* Loading
     
-* [Dynamic filtering: Benefits of blocking 3rd party script and iframe tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Benefits-of-blocking-3rd-party-script-and-iframe-tags)
+    [Compare: Memory footprint: what happens inside µBlock after installation](https://github.com/gorhill/uBlock/wiki/Compare:-Memory-footprint:-what-happens-inside-%C2%B5Block-after-installation)
     
-* [Dynamic filtering: default deny](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-default-deny)
+* Loading
     
-* [Dynamic filtering: default deny: useful rulesets](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-default-deny:-useful-rulesets)
+    [Contributed memory usage: benchmarks over time](https://github.com/gorhill/uBlock/wiki/Contributed-memory-usage:-benchmarks-over-time)
     
-* [Dynamic filtering: Examples of usefulness of blocking 3rd party iframe tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Examples-of-usefulness-of-blocking-3rd-party-iframe-tags)
+* Loading
     
-* [Dynamic filtering: precedence](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-precedence)
+    [Cosmetic filtering in uBlock: version 0.4.0.0 update](https://github.com/gorhill/uBlock/wiki/Cosmetic-filtering-in-uBlock:-version-0.4.0.0-update)
     
-* [Dynamic filtering: quick guide](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)
+* Loading
     
-* [Dynamic filtering: rule syntax](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax)
+    [Cosmetic filtering in µBlock: version 0.4.0.0 update](https://github.com/gorhill/uBlock/wiki/Cosmetic-filtering-in-%C2%B5Block:-version-0.4.0.0-update)
     
-* [Dynamic filtering: to easily reduce privacy exposure](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-to-easily-reduce-privacy-exposure)
+* Loading
     
-* [Dynamic filtering: Usefulness of blocking 1st party script tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Usefulness-of-blocking-1st-party-script-tags)
+    [Counterarguments](https://github.com/gorhill/uBlock/wiki/Counterarguments)
     
-* [Dynamic filtering: Usefulness of blocking inline script tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Usefulness-of-blocking-inline-script-tags)
+* Loading
     
-* [Dynamic URL filtering](https://github.com/gorhill/uBlock/wiki/Dynamic-URL-filtering)
+    [Dashboard](https://github.com/gorhill/uBlock/wiki/Dashboard)
     
-* [Element picker](https://github.com/gorhill/uBlock/wiki/Element-picker)
+* Loading
     
-* [Element zapper](https://github.com/gorhill/uBlock/wiki/Element-zapper)
+    [Dashboard: 3rd party filters](https://github.com/gorhill/uBlock/wiki/Dashboard:-3rd-party-filters)
     
-* [Experimental features](https://github.com/gorhill/uBlock/wiki/Experimental-features)
+* Loading
     
-* [Experimental filters](https://github.com/gorhill/uBlock/wiki/Experimental-filters)
+    [Dashboard: Filter lists](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists)
     
-* [Filter list licenses](https://github.com/gorhill/uBlock/wiki/Filter-list-licenses)
+* Loading
     
-* [Filter lists from around the web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
+    [Dashboard: My filters](https://github.com/gorhill/uBlock/wiki/Dashboard:-My-filters)
     
-* [Filter Performance](https://github.com/gorhill/uBlock/wiki/Filter-Performance)
+* Loading
     
-* [Filter syntax extensions](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)
+    [Dashboard: My rules](https://github.com/gorhill/uBlock/wiki/Dashboard:-My-rules)
     
-* [Firefox version: benchmarking memory footprint](https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint)
+* Loading
     
-* [Firefox version: benchmarking memory footprint (2015 03 07)](https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint-(2015-03-07))
+    [Dashboard: Settings](https://github.com/gorhill/uBlock/wiki/Dashboard:-Settings)
     
-* [Firefox WebExtensions](https://github.com/gorhill/uBlock/wiki/Firefox-WebExtensions)
+* Loading
     
-* [History of vulnerability disclosures](https://github.com/gorhill/uBlock/wiki/History-of-vulnerability-disclosures)
+    [Dashboard: Support](https://github.com/gorhill/uBlock/wiki/Dashboard:-Support)
     
-* [How to ...](https://github.com/gorhill/uBlock/wiki/How-to-...)
+* Loading
     
-* [How to mark a web site as trusted](https://github.com/gorhill/uBlock/wiki/How-to-mark-a-web-site-as-trusted)
+    [Dashboard: Trusted sites](https://github.com/gorhill/uBlock/wiki/Dashboard:-Trusted-sites)
     
-* [How to whitelist a web site](https://github.com/gorhill/uBlock/wiki/How-to-whitelist-a-web-site)
+* Loading
     
-* [Inline script tag filtering](https://github.com/gorhill/uBlock/wiki/Inline-script-tag-filtering)
+    [Dashboard: Whitelist](https://github.com/gorhill/uBlock/wiki/Dashboard:-Whitelist)
     
-* [Introduction to basic filtering syntax](https://github.com/gorhill/uBlock/wiki/Introduction-to-basic-filtering-syntax)
+* Loading
     
-* [Keyboard shortcuts](https://github.com/gorhill/uBlock/wiki/Keyboard-shortcuts)
+    [Debunking "uBlock Origin is less efficient than Adguard" claims](https://github.com/gorhill/uBlock/wiki/Debunking-%22uBlock-Origin-is-less-efficient-than-Adguard%22-claims)
     
-* [Launch and filter lists load performance](https://github.com/gorhill/uBlock/wiki/Launch-and-filter-lists-load-performance)
+* Loading
     
-* [Maintainership transfer of uBlock: post mortem](https://github.com/gorhill/uBlock/wiki/Maintainership-transfer-of-uBlock:-post-mortem)
+    [Deploying uBlock Origin](https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin)
     
-* [Manually editing per site switches](https://github.com/gorhill/uBlock/wiki/Manually-editing-per-site-switches)
+* Loading
     
-* [Memory footprint: what happens inside uBlock after installation](https://github.com/gorhill/uBlock/wiki/Memory-footprint:-what-happens-inside-uBlock-after-installation)
+    [Deploying uBlock Origin: configuration](https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin:-configuration)
     
-* [Memory footprint: what happens inside µBlock after installation](https://github.com/gorhill/uBlock/wiki/Memory-footprint:-what-happens-inside-%C2%B5Block-after-installation)
+* Loading
     
-* [Myth: uBlock consumes over 80MB](https://github.com/gorhill/uBlock/wiki/Myth:-uBlock-consumes-over-80MB)
+    [Disable hyperlink auditing beacon](https://github.com/gorhill/uBlock/wiki/Disable-hyperlink-auditing-beacon)
     
-* [Myth: uBlock consumes several or several dozen GB of RAM](https://github.com/gorhill/uBlock/wiki/Myth:-uBlock-consumes-several-or-several-dozen-GB-of-RAM)
+* Loading
     
-* [Myth: uBlock is just slightly less resource intensive than Adblock Plus](https://github.com/gorhill/uBlock/wiki/Myth:-uBlock-is-just-slightly-less-resource-intensive-than-Adblock-Plus)
+    [Does uBlock block ads or just hide them?](https://github.com/gorhill/uBlock/wiki/Does-uBlock-block-ads-or-just-hide-them%3F)
     
-* [Myth: µBlock consumes over 80MB](https://github.com/gorhill/uBlock/wiki/Myth:-%C2%B5Block-consumes-over-80MB)
+* Loading
     
-* [Myth: µBlock is just slightly less resource intensive than Adblock Plus](https://github.com/gorhill/uBlock/wiki/Myth:-%C2%B5Block-is-just-slightly-less-resource-intensive-than-Adblock-Plus)
+    [Does uBlock Origin block ads or just hide them?](https://github.com/gorhill/uBlock/wiki/Does-uBlock-Origin-block-ads-or-just-hide-them%3F)
     
-* [Notes on memory benchmarks, selfies](https://github.com/gorhill/uBlock/wiki/Notes-on-memory-benchmarks,-selfies)
+* Loading
     
-* [Overview of uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
+    [Does uBO protect against fingerprinting?](https://github.com/gorhill/uBlock/wiki/Does-uBO-protect-against-fingerprinting%3F)
     
-* [Overview of uBlock's network filtering engine: details](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine:-details)
+* Loading
     
-* [Own memory usage: benchmarks over time](https://github.com/gorhill/uBlock/wiki/Own-memory-usage:-benchmarks-over-time)
+    [Doesn't uBlock Origin add overhead to page load?](https://github.com/gorhill/uBlock/wiki/Doesn't-uBlock-Origin-add-overhead-to-page-load%3F)
     
-* [Per site switches](https://github.com/gorhill/uBlock/wiki/Per-site-switches)
+* Loading
     
-* [Permissions](https://github.com/gorhill/uBlock/wiki/Permissions)
+    [DOM inspector](https://github.com/gorhill/uBlock/wiki/DOM-inspector)
     
-* [Prevent WebRTC from leaking local IP address](https://github.com/gorhill/uBlock/wiki/Prevent-WebRTC-from-leaking-local-IP-address)
+* Loading
     
-* [Privacy policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy)
+    [Dynamic filtering](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering)
     
-* [Privacy stuff](https://github.com/gorhill/uBlock/wiki/Privacy-stuff)
+* Loading
     
-* [Privileged Pages](https://github.com/gorhill/uBlock/wiki/Privileged-Pages)
+    [Dynamic filtering examples](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering---examples)
     
-* [Procedural cosmetic filters](https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters)
+* Loading
     
-* [Quick guide: popup user interface](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
+    [Dynamic filtering: Benefits of blocking 3rd party iframe tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Benefits-of-blocking-3rd-party-iframe-tags)
     
-* [Reference answers to various topics seen in the wild](https://github.com/gorhill/uBlock/wiki/Reference-answers-to-various-topics-seen-in-the-wild)
+* Loading
     
-* [Reference benchmark](https://github.com/gorhill/uBlock/wiki/Reference-benchmark)
+    [Dynamic filtering: Benefits of blocking 3rd party script and iframe tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Benefits-of-blocking-3rd-party-script-and-iframe-tags)
     
-* [Reference description of uBO in various extensions stores](https://github.com/gorhill/uBlock/wiki/Reference-description-of-uBO-in-various-extensions-stores)
+* Loading
     
-* [Regular expression based filters](https://github.com/gorhill/uBlock/wiki/Regular-expression-based-filters)
+    [Dynamic filtering: default deny](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-default-deny)
     
-* [Resources Library](https://github.com/gorhill/uBlock/wiki/Resources-Library)
+* Loading
     
-* [Scientific papers](https://github.com/gorhill/uBlock/wiki/Scientific-papers)
+    [Dynamic filtering: default deny: useful rulesets](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-default-deny:-useful-rulesets)
     
-* [Software known to have uninstalled uBlock Origin](https://github.com/gorhill/uBlock/wiki/Software-known-to-have-uninstalled-uBlock-Origin)
+* Loading
     
-* [Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
+    [Dynamic filtering: Examples of usefulness of blocking 3rd party iframe tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Examples-of-usefulness-of-blocking-3rd-party-iframe-tags)
     
-* [Strict blocking](https://github.com/gorhill/uBlock/wiki/Strict-blocking)
+* Loading
     
-* [Syntax quirks](https://github.com/gorhill/uBlock/wiki/Syntax-quirks)
+    [Dynamic filtering: precedence](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-precedence)
     
-* [Technical inaccuracies from around the web](https://github.com/gorhill/uBlock/wiki/Technical-inaccuracies-from-around-the-web)
+* Loading
     
-* [The "Report a filter issue" form](https://github.com/gorhill/uBlock/wiki/The-%22Report-a-filter-issue%22-form)
+    [Dynamic filtering: quick guide](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-quick-guide)
     
-* [The context menu](https://github.com/gorhill/uBlock/wiki/The-context-menu)
+* Loading
     
-* [The logger](https://github.com/gorhill/uBlock/wiki/The-logger)
+    [Dynamic filtering: rule syntax](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-rule-syntax)
     
-* [The network request logger](https://github.com/gorhill/uBlock/wiki/The-network-request-logger)
+* Loading
     
-* [Tips and tricks waterfall](https://github.com/gorhill/uBlock/wiki/Tips-and-tricks-waterfall)
+    [Dynamic filtering: to easily reduce privacy exposure](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-to-easily-reduce-privacy-exposure)
     
-* [Toolbar icon](https://github.com/gorhill/uBlock/wiki/Toolbar-icon)
+* Loading
     
-* [Tools](https://github.com/gorhill/uBlock/wiki/Tools)
+    [Dynamic filtering: Usefulness of blocking 1st party script tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Usefulness-of-blocking-1st-party-script-tags)
     
-* [Troubleshooting](https://github.com/gorhill/uBlock/wiki/Troubleshooting)
+* Loading
     
-* [Tutorial: how to unbreak a site using the dynamic filtering pane](https://github.com/gorhill/uBlock/wiki/Tutorial:-how-to-unbreak-a-site-using-the-dynamic-filtering-pane)
+    [Dynamic filtering: Usefulness of blocking inline script tags](https://github.com/gorhill/uBlock/wiki/Dynamic-filtering:-Usefulness-of-blocking-inline-script-tags)
     
-* [uBlock and others: Blocking ads, trackers, malwares](https://github.com/gorhill/uBlock/wiki/uBlock-and-others:-Blocking-ads,-trackers,-malwares)
+* Loading
     
-* [uBlock Origin Core (Node.js)](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-Core-(Node.js))
+    [Dynamic URL filtering](https://github.com/gorhill/uBlock/wiki/Dynamic-URL-filtering)
     
-* [uBlock Origin is completely unrelated to the web site ublock.org](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org)
+* Loading
     
-* [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
+    [Element picker](https://github.com/gorhill/uBlock/wiki/Element-picker)
     
-* [uBlock version 0.8.5: many changes](https://github.com/gorhill/uBlock/wiki/uBlock-version-0.8.5:-many-changes)
+* Loading
     
-* [uBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
+    [Element zapper](https://github.com/gorhill/uBlock/wiki/Element-zapper)
     
-* [Unofficial websites](https://github.com/gorhill/uBlock/wiki/Unofficial-websites)
+* Loading
     
-* [Various videos showing side by side comparison of the load speed of complex sites](https://github.com/gorhill/uBlock/wiki/Various-videos-showing-side-by-side-comparison-of-the-load-speed-of-complex-sites)
+    [Experimental features](https://github.com/gorhill/uBlock/wiki/Experimental-features)
     
-* [Who care about efficiency, I have 8 GB and|or a quad core CPU](https://github.com/gorhill/uBlock/wiki/Who-care-about-efficiency,-I-have-8-GB-and%7Cor-a-quad-core-CPU)
+* Loading
     
-* [Who cares about efficiency, I have 8 GB and|or a quad core CPU](https://github.com/gorhill/uBlock/wiki/Who-cares-about-efficiency,-I-have-8-GB-and%7Cor-a-quad-core-CPU)
+    [Experimental filters](https://github.com/gorhill/uBlock/wiki/Experimental-filters)
     
-* [Who cares about efficiency, I have 8 GB RAM and|or a quad core CPU](https://github.com/gorhill/uBlock/wiki/Who-cares-about-efficiency,-I-have-8-GB-RAM-and%7Cor-a-quad-core-CPU)
+* Loading
     
-* [Why don't you accept donations?](https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F)
+    [Few words about re‐design of uBO's user interface](https://github.com/gorhill/uBlock/wiki/Few-words-about-re%E2%80%90design-of-uBO's-user-interface)
     
-* [µBlock and others: Blocking ads, trackers, malwares](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-and-others:-Blocking-ads,-trackers,-malwares)
+* Loading
     
-* [µBlock version 0.8.5: many changes](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-version-0.8.5:-many-changes)
+    [Filter list licenses](https://github.com/gorhill/uBlock/wiki/Filter-list-licenses)
     
-* [µBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-vs.-ABP:-efficiency-compared)
+* Loading
     
-* Show 122 more pages…
+    [Filter lists from around the web](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web)
+    
+* Loading
+    
+    [Filter Performance](https://github.com/gorhill/uBlock/wiki/Filter-Performance)
+    
+* Loading
+    
+    [Filter syntax extensions](https://github.com/gorhill/uBlock/wiki/Filter-syntax-extensions)
+    
+* Loading
+    
+    [Firefox version: benchmarking memory footprint](https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint)
+    
+* Loading
+    
+    [Firefox version: benchmarking memory footprint (2015 03 07)](https://github.com/gorhill/uBlock/wiki/Firefox-version:-benchmarking-memory-footprint-(2015-03-07))
+    
+* Loading
+    
+    [Firefox WebExtensions](https://github.com/gorhill/uBlock/wiki/Firefox-WebExtensions)
+    
+* Loading
+    
+    [History of vulnerability disclosures](https://github.com/gorhill/uBlock/wiki/History-of-vulnerability-disclosures)
+    
+* Loading
+    
+    [How to ...](https://github.com/gorhill/uBlock/wiki/How-to-...)
+    
+* Loading
+    
+    [How to mark a web site as trusted](https://github.com/gorhill/uBlock/wiki/How-to-mark-a-web-site-as-trusted)
+    
+* Loading
+    
+    [How to whitelist a web site](https://github.com/gorhill/uBlock/wiki/How-to-whitelist-a-web-site)
+    
+* Loading
+    
+    [Inline script tag filtering](https://github.com/gorhill/uBlock/wiki/Inline-script-tag-filtering)
+    
+* Loading
+    
+    [Introduction to basic filtering syntax](https://github.com/gorhill/uBlock/wiki/Introduction-to-basic-filtering-syntax)
+    
+* Loading
+    
+    [Keyboard shortcuts](https://github.com/gorhill/uBlock/wiki/Keyboard-shortcuts)
+    
+* Loading
+    
+    [Launch and filter lists load performance](https://github.com/gorhill/uBlock/wiki/Launch-and-filter-lists-load-performance)
+    
+* Loading
+    
+    [Maintainership transfer of uBlock: post mortem](https://github.com/gorhill/uBlock/wiki/Maintainership-transfer-of-uBlock:-post-mortem)
+    
+* Loading
+    
+    [Manually editing per site switches](https://github.com/gorhill/uBlock/wiki/Manually-editing-per-site-switches)
+    
+* Loading
+    
+    [Memory footprint: what happens inside uBlock after installation](https://github.com/gorhill/uBlock/wiki/Memory-footprint:-what-happens-inside-uBlock-after-installation)
+    
+* Loading
+    
+    [Memory footprint: what happens inside µBlock after installation](https://github.com/gorhill/uBlock/wiki/Memory-footprint:-what-happens-inside-%C2%B5Block-after-installation)
+    
+* Loading
+    
+    [Myth: uBlock consumes over 80MB](https://github.com/gorhill/uBlock/wiki/Myth:-uBlock-consumes-over-80MB)
+    
+* Loading
+    
+    [Myth: uBlock consumes several or several dozen GB of RAM](https://github.com/gorhill/uBlock/wiki/Myth:-uBlock-consumes-several-or-several-dozen-GB-of-RAM)
+    
+* Loading
+    
+    [Myth: uBlock is just slightly less resource intensive than Adblock Plus](https://github.com/gorhill/uBlock/wiki/Myth:-uBlock-is-just-slightly-less-resource-intensive-than-Adblock-Plus)
+    
+* Loading
+    
+    [Myth: µBlock consumes over 80MB](https://github.com/gorhill/uBlock/wiki/Myth:-%C2%B5Block-consumes-over-80MB)
+    
+* Loading
+    
+    [Myth: µBlock is just slightly less resource intensive than Adblock Plus](https://github.com/gorhill/uBlock/wiki/Myth:-%C2%B5Block-is-just-slightly-less-resource-intensive-than-Adblock-Plus)
+    
+* Loading
+    
+    [Notes on memory benchmarks, selfies](https://github.com/gorhill/uBlock/wiki/Notes-on-memory-benchmarks,-selfies)
+    
+* Loading
+    
+    [Overview of uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
+    
+* Loading
+    
+    [Overview of uBlock's network filtering engine: details](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine:-details)
+    
+* Loading
+    
+    [Own memory usage: benchmarks over time](https://github.com/gorhill/uBlock/wiki/Own-memory-usage:-benchmarks-over-time)
+    
+* Loading
+    
+    [Per site switches](https://github.com/gorhill/uBlock/wiki/Per-site-switches)
+    
+* Loading
+    
+    [Permissions](https://github.com/gorhill/uBlock/wiki/Permissions)
+    
+* Loading
+    
+    [Prevent WebRTC from leaking local IP address](https://github.com/gorhill/uBlock/wiki/Prevent-WebRTC-from-leaking-local-IP-address)
+    
+* Loading
+    
+    [Privacy policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy)
+    
+* Loading
+    
+    [Privacy stuff](https://github.com/gorhill/uBlock/wiki/Privacy-stuff)
+    
+* Loading
+    
+    [Privileged Pages](https://github.com/gorhill/uBlock/wiki/Privileged-Pages)
+    
+* Loading
+    
+    [Procedural cosmetic filters](https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters)
+    
+* Loading
+    
+    [Quick guide: popup user interface](https://github.com/gorhill/uBlock/wiki/Quick-guide:-popup-user-interface)
+    
+* Loading
+    
+    [Reference answers to various topics seen in the wild](https://github.com/gorhill/uBlock/wiki/Reference-answers-to-various-topics-seen-in-the-wild)
+    
+* Loading
+    
+    [Reference benchmark](https://github.com/gorhill/uBlock/wiki/Reference-benchmark)
+    
+* Loading
+    
+    [Reference description of uBO in various extensions stores](https://github.com/gorhill/uBlock/wiki/Reference-description-of-uBO-in-various-extensions-stores)
+    
+* Loading
+    
+    [Regular expression based filters](https://github.com/gorhill/uBlock/wiki/Regular-expression-based-filters)
+    
+* Loading
+    
+    [Resources Library](https://github.com/gorhill/uBlock/wiki/Resources-Library)
+    
+* Loading
+    
+    [Scientific papers](https://github.com/gorhill/uBlock/wiki/Scientific-papers)
+    
+* Loading
+    
+    [Software known to have uninstalled uBlock Origin](https://github.com/gorhill/uBlock/wiki/Software-known-to-have-uninstalled-uBlock-Origin)
+    
+* Loading
+    
+    [Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
+    
+* Loading
+    
+    [Strict blocking](https://github.com/gorhill/uBlock/wiki/Strict-blocking)
+    
+* Loading
+    
+    [Syntax quirks](https://github.com/gorhill/uBlock/wiki/Syntax-quirks)
+    
+* Loading
+    
+    [Technical inaccuracies from around the web](https://github.com/gorhill/uBlock/wiki/Technical-inaccuracies-from-around-the-web)
+    
+* Loading
+    
+    [The "Report a filter issue" form](https://github.com/gorhill/uBlock/wiki/The-%22Report-a-filter-issue%22-form)
+    
+* Loading
+    
+    [The context menu](https://github.com/gorhill/uBlock/wiki/The-context-menu)
+    
+* Loading
+    
+    [The logger](https://github.com/gorhill/uBlock/wiki/The-logger)
+    
+* Loading
+    
+    [The network request logger](https://github.com/gorhill/uBlock/wiki/The-network-request-logger)
+    
+* Loading
+    
+    [Tips and tricks waterfall](https://github.com/gorhill/uBlock/wiki/Tips-and-tricks-waterfall)
+    
+* Loading
+    
+    [Toolbar icon](https://github.com/gorhill/uBlock/wiki/Toolbar-icon)
+    
+* Loading
+    
+    [Tools](https://github.com/gorhill/uBlock/wiki/Tools)
+    
+* Loading
+    
+    [Troubleshooting](https://github.com/gorhill/uBlock/wiki/Troubleshooting)
+    
+* Loading
+    
+    [Tutorial: how to unbreak a site using the dynamic filtering pane](https://github.com/gorhill/uBlock/wiki/Tutorial:-how-to-unbreak-a-site-using-the-dynamic-filtering-pane)
+    
+* Loading
+    
+    [uBlock and others: Blocking ads, trackers, malwares](https://github.com/gorhill/uBlock/wiki/uBlock-and-others:-Blocking-ads,-trackers,-malwares)
+    
+* Loading
+    
+    [uBlock Origin Core (Node.js)](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-Core-(Node.js))
+    
+* Loading
+    
+    [uBlock Origin is completely unrelated to the web site ublock.org](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org)
+    
+* Loading
+    
+    [uBlock Origin works best on Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox)
+    
+* Loading
+    
+    [uBlock version 0.8.5: many changes](https://github.com/gorhill/uBlock/wiki/uBlock-version-0.8.5:-many-changes)
+    
+* Loading
+    
+    [uBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
+    
+* Loading
+    
+    [Unofficial websites](https://github.com/gorhill/uBlock/wiki/Unofficial-websites)
+    
+* Loading
+    
+    [Various videos showing side by side comparison of the load speed of complex sites](https://github.com/gorhill/uBlock/wiki/Various-videos-showing-side-by-side-comparison-of-the-load-speed-of-complex-sites)
+    
+* Loading
+    
+    [Who care about efficiency, I have 8 GB and|or a quad core CPU](https://github.com/gorhill/uBlock/wiki/Who-care-about-efficiency,-I-have-8-GB-and%7Cor-a-quad-core-CPU)
+    
+* Loading
+    
+    [Who cares about efficiency, I have 8 GB and|or a quad core CPU](https://github.com/gorhill/uBlock/wiki/Who-cares-about-efficiency,-I-have-8-GB-and%7Cor-a-quad-core-CPU)
+    
+* Loading
+    
+    [Who cares about efficiency, I have 8 GB RAM and|or a quad core CPU](https://github.com/gorhill/uBlock/wiki/Who-cares-about-efficiency,-I-have-8-GB-RAM-and%7Cor-a-quad-core-CPU)
+    
+* Loading
+    
+    [Why don't you accept donations?](https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F)
+    
+* Loading
+    
+    [µBlock and others: Blocking ads, trackers, malwares](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-and-others:-Blocking-ads,-trackers,-malwares)
+    
+* Loading
+    
+    [µBlock version 0.8.5: many changes](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-version-0.8.5:-many-changes)
+    
+* Loading
+    
+    [µBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-vs.-ABP:-efficiency-compared)
+    
+* Show 123 more pages…
 
 * [Wiki home](https://github.com/gorhill/uBlock/wiki/Home)
 * [Permissions](https://github.com/gorhill/uBlock/wiki/Permissions)
@@ -508,6 +786,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     * [Nightmare mode](https://github.com/gorhill/uBlock/wiki/Blocking-mode:-nightmare-mode)
 * [Strict blocking](https://github.com/gorhill/uBlock/wiki/Strict-blocking)
     * [Badware risks](https://github.com/gorhill/uBlock/wiki/Badware-risks)
+* [Few words about re-design of uBO's user interface](https://github.com/gorhill/uBlock/wiki/Few-words-about-re%E2%80%90design-of-uBO's-user-interface)
 * [Reference answers to various topics seen in the wild](https://github.com/gorhill/uBlock/wiki/Reference-answers-to-various-topics-seen-in-the-wild)
 * [Overview of uBlock's network filtering engine](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine)
     * [Overview of uBlock's network filtering engine: details](https://github.com/gorhill/uBlock/wiki/Overview-of-uBlock's-network-filtering-engine:-details)
