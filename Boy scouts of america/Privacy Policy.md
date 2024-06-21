@@ -222,14 +222,6 @@ Registered 501(c)(3). EIN: 22-1576300
 
 [scoutshop](https://www.scoutshop.org/)
 
-May 7, 2024
-
-The Boy Scouts of America will rebrand to **Scouting America**, reflecting the organization’s ongoing commitment to welcome every youth and family in America to experience the benefits of Scouting.
-
-The change will go into effect on February 8, 2025.
-
-[Learn More](https://www.scoutingnewsroom.org/press-releases/boy-scouts-of-america-to-become-scouting-america)
-
 ![](https://www.scouting.org/wp-content/uploads/2023/10/Bray-Barnes.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20440%20417%22%3E%3C/svg%3E)
