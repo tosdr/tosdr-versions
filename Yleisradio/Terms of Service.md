@@ -15,6 +15,7 @@ Pinnalla nyt
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Jalkapallon EM](https://yle.fi/t/18-247479/fi)
 * [Futistietäjä](https://yle.fi/a/74-20087576)
+* [Olo 2.0](https://yle.fi/t/18-356272/fi)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
