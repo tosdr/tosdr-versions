@@ -19,42 +19,6 @@ SIGN UP & SAVE!
 
 [](https://www.fanatics.com/account)[](https://www.fanatics.com/cart?_ref=cart-icon&qty=0)
 
-* [Teams](#top-nav0)
-    
-    [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)[College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)[MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
-    
-    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
-    
-    [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
-    
-    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)[Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
-    
-* [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
-* [College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
-* [MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
-* [Teams](#top-nav4)
-    
-    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
-    
-    [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-    
-    [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-    
-    [Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
-    
-* [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
-* [NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
-* [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
-* [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-* [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
-* [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-* [Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
-* [More](#top-nav12)
-* [Sale](#top-nav13)
-* [Players](#top-nav14)
-* [](#top-nav15)
-    
-
 How can we help you?
 
 [Back to Home](https://www.fanatics.com/customer-help-desk/hd-1)
@@ -566,14 +530,16 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: ca8ef190709ec9b2
+rc: d81b9e741faedb25
 
-vid: 7e2cb9a0-2eea-11ef-9a45-23e6b621615f
+vid: 5264da90-3021-11ef-8f64-5934b5677d0f
 
-version: 1.1.0-rc-20240617.91462
+version: 1.1.0-rc-20240617-1.91665
 
 +
 
-Qualified Experiments #:* 13246:B:1:1
+Qualified Experiments #:* 12635:A:0:1
+* 13246:C:2:1
 * 13324:B:1:1
+* 13353:C:2:1
 Namespaces:
