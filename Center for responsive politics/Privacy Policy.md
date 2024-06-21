@@ -20,14 +20,12 @@ Donate Today
 
 OpenSecrets Launches New State and Federal Lobbying Tool [Read the press release  ›](#)[](https://www.opensecrets.org/news/2024/01/press-release-opensecrets-launches-first-of-its-kind-tool-to-track-spending-on-state-and-federal-lobbying/)
 
-We track the money. You make it happen.
----------------------------------------
+Is a transparent government important to you?
+---------------------------------------------
 
-OpenSecrets offers independent and nonpartisan reporting, a host of informative online tools to help you understand the role of money in politics and insightful profiles breaking down the important issues that matter. All of this is available for free and you can help keep it that way.
+If a transparent and thriving democracy is important to you, we invite you to help support OpenSecrets this month. **Join our Summer New Donor Drive and help us hit our goal of 100 new donors by June 28!** Any gift amount will help us continue providing the free resources and reporting that matters to you.
 
-**Join our Summer New Donor Drive and help us hit our goal of 100 new donors by June 28!** Giving $1 or more will help ensure we can continue offering our services for years to come.
-
-[Donate Now](https://action.opensecrets.org/a/donate?utm_campaign=donate&utm_medium=2024_summernewdonordrive_1&utm_source=/about/policy&oa_utm_campaign=donate&oa_utm_medium=2024_summernewdonordrive_1&oa_utm_source=/about/policy)
+[Donate Now](https://action.opensecrets.org/a/donate?utm_campaign=donate&utm_medium=2024_summernewdonordrive_2&utm_source=/about/policy&oa_utm_campaign=donate&oa_utm_medium=2024_summernewdonordrive_2&oa_utm_source=/about/policy)
 
 [Open Secrets following the money in politics](https://www.opensecrets.org/) Menu
 
