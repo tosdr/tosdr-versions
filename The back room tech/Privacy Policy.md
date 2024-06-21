@@ -118,16 +118,16 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/amazon-sns-ft-80x45.png)](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")[How to Setup Amazon SNS](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2036'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/vpn-ipsec-1-80x45.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/05/13/how-to-configure-ipsec-on-windows/ "How to Configure IPSec on Windows")[How to Configure IPSec on Windows](https://thebackroomtech.com/2019/05/13/how-to-configure-ipsec-on-windows/ "How to Configure IPSec on Windows")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/esxi-storage-80x36.png)](https://thebackroomtech.com/2017/10/06/expand-vmware-esxi-datastore-capacity/ "How to Expand VMware ESXi Datastore Capacity")[How to Expand VMware ESXi Datastore Capacity](https://thebackroomtech.com/2017/10/06/expand-vmware-esxi-datastore-capacity/ "How to Expand VMware ESXi Datastore Capacity")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/01-microsoft-remote-desktop-install-app-store-80x44.png)](https://thebackroomtech.com/2018/11/08/how-to-connect-to-a-windows-ec2-instance-from-mac/ "How to Connect to a Windows EC2 Instance from Mac")[How to Connect to a Windows EC2 Instance from Mac](https://thebackroomtech.com/2018/11/08/how-to-connect-to-a-windows-ec2-instance-from-mac/ "How to Connect to a Windows EC2 Instance from Mac")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/powershell-80x26.png)](https://thebackroomtech.com/2008/08/08/powershell-script-to-change-from-static-to-dynamic-ip-addressing/ "Powershell Script to Change from Static to Dynamic IP Addressing")[Powershell Script to Change from Static to Dynamic IP Addressing](https://thebackroomtech.com/2008/08/08/powershell-script-to-change-from-static-to-dynamic-ip-addressing/ "Powershell Script to Change from Static to Dynamic IP Addressing")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/assign-license-key-80x43.png)](https://thebackroomtech.com/2017/10/05/add-license-key-vmware-esxi/ "How to Add a License Key to VMware ESXi")[How to Add a License Key to VMware ESXi](https://thebackroomtech.com/2017/10/05/add-license-key-vmware-esxi/ "How to Add a License Key to VMware ESXi")
+    ![](https://s11921.pcdn.co/wp-content/uploads/code-80x44.jpeg.optimal.jpeg)](https://thebackroomtech.com/2007/06/12/howto-automatically-remove-files-older-than-x-days/ "HowTo: Automatically Remove Files Older Than ‘X’ Days")[HowTo: Automatically Remove Files Older Than ‘X’ Days](https://thebackroomtech.com/2007/06/12/howto-automatically-remove-files-older-than-x-days/ "HowTo: Automatically Remove Files Older Than ‘X’ Days")
 
 #### Our Publishing Family
 
