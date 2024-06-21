@@ -2,7 +2,7 @@ Sustain.Life has been acquired by Workiva, the world’s leading cloud platform 
 
 [Learn more](http://www.sustain.life/blog/news-sustain-life-has-been-acquired-by-workiva)
 
-[![Workiva Carbon logo](https://cdn.prod.website-files.com/6266b5e20215f61058171191/6670d924a5793823aac5912b_workiva-carbon-logo-k.svg)](https://www.sustain.life/)
+[![Workiva Carbon logo](https://cdn.prod.website-files.com/6266b5e20215f61058171191/66748ca1c88dc0b373f8978d_workiva-carbon-logo-tag-steel.svg)](https://www.sustain.life/)
 
 Product
 
