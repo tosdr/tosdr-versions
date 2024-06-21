@@ -187,7 +187,7 @@ Any action taken by BitChute or its staff whilst enforcing these Community Guide
 
 #### Was this article helpful?
 
-[12359](#) [5824](#)
+[12362](#) [5825](#)
 
 #### Related Questions:
 
