@@ -170,8 +170,6 @@ Main Menu
         
         SUPPORT OPTIONS
         
-        [Aftercare](https://www.enfamil.com/enfamil-aftercare/)
-        
         [Expert Support](https://www.enfamil.com/why-enfamil/expert-support/)
         
         [Help Center](https://www.enfamil.com/help-center/)
