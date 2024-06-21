@@ -150,8 +150,6 @@ All trademarks are the property of their respective owners. © SanMedica (2012-2
 
 "Close (esc)"
 
- 
-
 [0](#)
 
 ![smNoImage](https://cdn.shopify.com/extensions/a09afea1-fa21-46fc-943e-cd96bae51ebe/sales-motivator-free-gifts-6/assets/noimage.png)
