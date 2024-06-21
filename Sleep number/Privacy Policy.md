@@ -30,7 +30,7 @@ Toggle navigation
 
 [Bed Quiz](https://www.sleepnumber.com/find-your-perfect-mattress)
 
-[Sale](https://www.sleepnumber.com/categories/beds-on-sale)
+[4th of July Sale](https://www.sleepnumber.com/categories/beds-on-sale)
 
 Search
 ======
