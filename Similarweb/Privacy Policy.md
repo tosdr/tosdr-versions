@@ -139,259 +139,243 @@ twitter.com](https://www.similarweb.com/website/twitter.com/)
 Privacy Policy (website)
 ========================
 
-**SIMILARWEB  
-****PRIVACY POLICY**
------------------------------------
+**Last Amended: June 20, 2024**
 
-Similarweb Ltd., together with its group companies listed below (“S**imilarweb**“, “**we**” or “**us**“) provides innovative market intelligence services to our customers and users (“**you**”). In doing so, we recognize and greatly respect your privacy rights, and we provide this policy (“**Privacy Policy**“) to make you aware of how we collect and use information from you pertaining to your use of Similarweb.com (our “**Website**“) as well as the products or services that you access through the Website (our “**Products**“). We also explain in this Privacy Policy certain rights that you have in respect of your Personal Information (as defined herein). We will not use or share your information with anyone except as described in this Privacy Policy.
+Similarweb Ltd., together with its group companies listed below (“**Similarweb**,” “**we**,” “**our**,” or “**us**”) provides innovative market intelligence services to our customers and users (“**you**”). We provide this policy (“**Privacy Policy**”) to make you aware of how we collect and use information pertaining to your use of similarweb.com (our “**Website**”) as well as the services that you access through the Website (our “**Services**”). We do not use information collected from users through their use of this website to power our analytics services. We also explain in this Privacy Policy certain rights that you have in respect of your Personal Information (as defined herein). Note that this Privacy Policy does not govern the Similarweb mobile app or browser extension.     
 
-Please read this Privacy Policy carefully to understand our practices in relation to Personal Information (as defined herein). This Privacy Policy provides you with information about:
+**Quick Reference Guide**
 
-● Information collected and how it is used
+This Privacy Policy provides you with information about:
 
-● Direct marketing and how you can manage your preferences
+1. Personal Information We Collect
+2. How We Use Personal Information
+3. How We Share Personal Information
+4. Cookies and Third Party Services
+5. Analytics
+6. The Legal Basis for Using Your Personal Information
+7. Transfers of Personal Information
+8. How We Protect and Store Your Personal Information
+9. Your Information Collection Choices
+10. Rights for EU and UK Residents
+11. Additional Privacy Information for California Residents
+12. Use by Children
+13. Changes to this Policy
+14. How to Contact Us
 
-● Cookies, similar sites and third party services
+Similarweb is the controller of your Personal Information, under European Union (EU) and UK data protection laws. For purposes of this Privacy Policy, Similarweb’s group companies include Similarweb Ltd. (an Israeli company), Similarweb Inc. (a Delaware company), Similarweb UK Ltd. (an English limited company), Similarweb France SAS (a French company) Similarweb KK Japan (a Japanese company), Similarweb Australia Pty Ltd. (an Australian company), Similarweb Germany GmbH (a German company), and Similarweb SG Pte Ltd. (a Singapore company).
 
-● How we use Personal Information
+To read our Terms of Service, visit [https://www.similarweb.com/corp/legal/terms/](https://www.similarweb.com/corp/legal/terms/).
 
-● The legal basis for using your Personal Information
+Similarweb’s use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
 
-● Transfers of Personal Information
+Similarweb’s use and transfer of information received from Google APIs to any other app will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
 
-● How we protect and store your information
+1. **Personal Information We Collect**
 
-● Use by children
+We collect information that identifies, describes, or is reasonably capable of being associated with you (“**Personal Information**”) when you create an account with us, use our Website or Services, or otherwise communicate with us.
 
-● Your rights
+**Personal Information We Collect Directly From You**
 
-● Important Additional Privacy Information for California Residents
+We may collect Personal Information from you if you choose to create a Similarweb account or use our Website or Services. The Personal Information we collect from you depends on how you interact with our Services, but generally includes the following:      
 
-● How to contact us
+* * **Contact Information.** We may collect your name, email, work, or home address, and phone number when you set up an account with us. 
+    * **Communications Information.** When you email, call, use any of our website enquiry form, or otherwise communicate with us and with members of our team, we may collect and maintain a record of your communications and our responses. We also maintain records of communications and information on our social media channels and information you provide to us related to any customer support requests.
+    * **Employment Information.** We may collect your job title and employer when you set up an account with us. 
+    * **Financial Information.** We use third party payment processors when you purchase a subscription for our Services, in order to process your payments for the subscription.
 
-This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically for the latest version of the Privacy Policy, as indicated in the “Last updated:” date at the bottom of the policy. If there will be any significant changes made to the use of your Personal Information (as defined herein) in a manner different from that stated at the time of collection, we will endeavor to notify you by posting a notice on our Website.
+**Personal Information We Collect Automatically**
 
-There may also be external links to third party websites and services on our Website. This Privacy Policy does not apply to your use of a third party site or service. To find out more about external links, including any Personal Information (as defined herein) that may be collected by third parties, please refer to the “Cookies, Third Party Advertisements and External Links” section.
+Like most website operators, we also may collect web server log information of the sort that web browsers and servers typically make available including: 
 
-For purposes of this Privacy Policy, similarweb’s group companies include Similarweb Ltd. (an Israeli company), Similarweb Inc. (a Delaware company), Similarweb UK Ltd. (an English limited company), Similarweb France SAS (a French company), Similarweb KK Japan (a Japanese company), Similarweb Australia Pty Ltd. (an Australian company), Similarweb Germany GmbH (a German company), and Similarweb SG Pte Ltd. (a Singapore company).
+* Browser type;
+* Language preference;
+* Date and time of each visitor request;
+* Referring URL;     
+* Internet Protocol (IP) addresses;
+* Operating System;     
+* Device ID; and
+* Advertising ID. 
 
-To read our Terms of Service, [please visit this page](https://www.similarweb.com/corp/legal/terms/).
+This Information is collected for analytical purposes on a de-identified basis and cannot be used on its own to identify visitors to our Website. Our purpose in collecting this information is to better understand how our visitors use the Website in order to improve the Website and our Services.     
 
-**1\. INFORMATION COLLECTED AND HOW IT IS USED**
+Some of this information will be collected using cookies and other tracking technologies. For more information on how we use tracking technologies on our Website, see the “Cookies and Third-Party Services” section below.
 
-**1.1 Personal Information**
+2. **How We Use Personal Information** 
 
-We collect information that identifies an individual or may with reasonable effort allow the identification of an individual, or may be sensitive in nature (“**Personal Information**“) when you:
+Similarweb may use Personal Information for the purposes set out below: 
 
-● register with or use our Website or one of our Products;
+* **Operating Services and Providing Related Support.** To provide and operate our Services, communicate with you about your use of the Services, verify user eligibility to access restricted areas of our Website, provide troubleshooting and technical support, respond to your inquiries, fulfill your orders and requests, process your payments and claims, communicate with you about the Services, and for similar service and support purposes. 
+* **Analytics and Improvement.** To better understand how users access and use the Services, and for other research and analytical purposes, such as to evaluate and improve our Services and business operations, to develop services and features, and for internal quality control and training purposes. 
+* **Customization and Personalization.** To tailor content we may send or display on the Services, including to offer location customization and personalized help and instructions, and to otherwise personalize your experiences.
+* **Marketing and Advertising.** For marketing and advertising purposes. For example, to send you information about our Services, such as offers, promotions, newsletters, and other marketing content, as well as any other information that you sign up to receive. This will be done where we have an appropriate legal basis and to the extent required by applicable law, we may obtain your consent for such marketing. We also may use certain information we collect to manage and improve our advertising campaigns so that we can better reach people with relevant content.  You can unsubscribe from receiving marketing messages by clicking on the unsubscribe button located in any of the messages you receive, or by contacting us at [legal@similarweb.com](mailto:legal@similarweb.com).
+* **Security and Protection of Rights.** To protect the Services and our business operations; to protect our rights or those of our stakeholders; to prevent and detect fraud, unauthorized activities and access, and other misuse; conduct risk and security control and monitoring; where we believe necessary, to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety or legal rights of any person or third party, or violations of our Terms of Service. To maintain our facilities and infrastructure and undertake quality and safety assurance measures.
+* **Compliance and Legal Process.** To comply with the law and our legal obligations and to respond to legal process and related to legal proceedings. 
+* **Business Transfers.** To consider and implement mergers, acquisitions, reorganizations, and other business transactions, and, where necessary, to administer general business, accounting, recordkeeping, and legal functions. 
 
-● use our free tools either to try our Products or consult with a member of our sales team; or
+3. **How We Share Personal Information**
 
-● commence direct communications with us either in relation to a query or complaint.
+We share your Personal Information in the manner and for the purposes described below:
 
-We will ask you to provide certain Personal Information if you choose to create a Similarweb account or use our services. This may include your name, personal and work email, work or home address, employer, payment information, and phone number. We collect this information, only if voluntarily provided by you, in order to create and authenticate your account and provide you access to our Products and services. Where you try to consult with a member of our sales team, we will also collect Personal Information that you voluntarily provide about your work and your company.
+* **Vendors and Service Providers.** We may disclose Personal Information we collect to our service providers, processors, and vendors who perform functions on our behalf to allow us to provide the Services. These include IT service providers who help manage our IT and back-office systems.
+* **Affiliates and Subsidiaries.** We may disclose Personal Information we collect to our affiliates or subsidiaries, who will use and disclose this information in accordance with the principles of this Privacy Policy.  
+* **Third Party Platforms and Networks.** We may disclose or make available Personal Information to third parties in support of our marketing, advertising, and campaign management. 
+* **Business Partners**. We may disclose Personal Information in relation to business transfers, when implementing mergers, acquisitions, or asset transfers. 
+* **Government Entities.** We may also disclose Personal Information to regulators, government entities, and law enforcement when required by law or legal process. 
 
-We also collect Personal Information when you commence direct communications via our Website enquiry form, by telephone or writing to us. When you commence direct communications with us, we may retain such communications and the accompanying Personal Information in order to process your inquiries, respond to your requests and improve our services.
+4. **Cookies And Third-Party Services**
 
-**1.2 Web Server Information**
+**Use of Cookies, Web Beacons, Pixels, and Other Technologies**
 
-Like most website operators, we also collect web server log information of the sort that web browsers and servers typically make available (“**Web Server Information**”). This Web Server Information includes non-personally-identifying information such as browser type, language preference, and the date and time of each visitor request, as well as potentially personally-identifying information like Internet Protocol (IP) addresses. In either case, we do not use such Web Server Information to identify visitors to our Website, and we do not disclose any Personal Information included in such Web Server Information to third parties, other than under the specific circumstances described below in this Privacy Policy where Personal Information may be disclosed. Our purpose in collecting this Web Server Information is to better understand how our visitors use the Website in order to improve the Website and our Products.
+Our Website uses monitoring and tracking technologies including cookies and pixel tags. 
 
-**2\. DIRECT MARKETING AND HOW YOU CAN MANAGE YOUR PREFERENCES**
+* **Cookies.** A cookie is a piece of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website using that browser. When you access our Website, we place cookies on your computer. Some cookies allow us to make it easier for you to navigate our Sites, while others are used to enable a faster log-in process or to allow us to track your activities on our Sites. There are two types of cookies: session and persistent cookies.
+    * **Session Cookies.** Session cookies exist only during an online session. They disappear from your device when you close your browser or turn off your device. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged in. This allows us to process your online transactions and requests and verify your identity after you have logged in, as you move through the website.
+    * **Persistent Cookies**. Persistent cookies remain on your device after you have closed your browser or turned off your device. For removing cookies and other technologies used on our Website, please refer to the “Cookie Options” sub-section below.
+* **Pixel tags**. Pixel tags (sometime called web beacons or clear GIFs) are tiny graphics with a unique identifier, similar in function to cookies. While cookies are stored locally on your device, pixel tags are embedded invisibly within web pages and online content. We may use these, in connection with our Services to, among other things, track the activities of users, help us manage content and compile usage statistics. We may also use these in HTML e-mails we send, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded. 
 
-We may use your Personal Information, voluntarily provided by you in the circumstances described herein, to let you know about our Products and services that we believe will be of interest to you. In all cases, we will respect your preferences for how you would like us to manage such marketing activity with you.  
-To protect privacy rights and to ensure you have control over how we manage marketing activities with you:
+**Third-Party Websites and Services**
 
-2.1 we will take steps to limit direct marketing to a reasonable and proportionate level and only send you communications which we believe may be of interest or relevance to you;
+Our Services may recommend third-party websites which we determine may be of interest to you (“**Third-Party Sites**”). Additionally, there may be links on our Website to third-party websites and services (“**Third-Party Services**”). We do not have control over such Third-Party Sites or Third-Party Services and are not responsible for their privacy practices or policies. We therefore recommend that you review the privacy policies of these Third-Party Sites and Third-Party Services before providing them with your Personal Information. For more information about the Third-Party Services to which links are included in our Website, please contact us at [legal@similarweb.com](mailto:legal@similarweb.com).
 
-2.2 you can ask us to stop direct marketing at any time – you can ask us to stop sending email marketing, by following the ‘unsubscribe’ link you will find on all the email marketing messages we send you. Alternatively, you can contact us at [legal@similarweb.com](mailto:legal@similarweb.com). Please specify whether you would like us to stop all forms of marketing or just a particular type (e.g., email); and
+6. **The Legal Basis for Using Your Personal Information**
 
-2.3 you can change the way your browser manages cookies, which may be used to deliver online advertising, by following the settings on your browser as explained below in the “Cookies, Similar Sites and Third Party Services” section.
+We will only collect, use, and share your Personal Information where we are satisfied that we have an appropriate legal basis to do this. This may be because:
+
+* You have provided your consent to us using the Personal Information (e.g., where you provide us with marketing consents or opt-in to optional additional services or functionality);
+* Our use of your Personal Information is necessary to perform a contract or take steps to enter into a contract with you (e.g., providing you with our Services, creating your user account);
+* Our use of your Personal Information is in our legitimate interest as a commercial organization, subject to your interests and fundamental rights. In these cases, we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in the “Rights of EU and UK Residents” section below. Some of our legitimate interests include conducting analysis to better understand our Website visitors and to deliver content that will be relevant to our users;
+* Our use of your Personal Information is necessary to comply with a relevant legal or regulatory obligation that we have (e.g., the disclosure of information to law enforcement or tax authorities).
+
+If you would like to find out more about the legal basis for which we process Personal Information, please contact us at [legal@similarweb.com](mailto:legal@similarweb.com).
+
+7. **Transfers of Personal Information**
+
+Please be aware that some of the recipients of your Personal Information may be outside your country of residence from which the information was collected, including the United States, where our servers are located, and our central database is operated. This means that your Personal Information may be subject to a different standard of data protection than that available in your country of residence. Similarweb will take appropriate steps to ensure that transfers of Personal Information are in accordance with applicable laws and carefully managed to protect your privacy rights and interests. To this end:
+
+* We ensure transfers within Similarweb will be covered by an agreement entered into by members of Similarweb (an intra-group agreement) which contractually obliges each member to ensure that Personal Information receives an adequate and consistent level of protection wherever it is transferred within Similarweb.
+* Where we transfer your Personal Information outside Similarweb or to third parties who help provide our services, we obtain contractual commitments from them to protect your Personal Information. Some of these assurances are well recognized mechanisms for the protection of Personal Information transferred from within the EU or the UK to the United States or other countries. This may include the EU standard contractual clauses or the UK international data transfer agreement.
+* Where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any Personal Information is disclosed.
+
+Subject to applicable laws, you have a right to contact us (at [legal@similarweb.com](mailto:legal@similarweb.com)) for more information about the safeguards we have put in place to ensure the adequate protection of your Personal Information when it is transferred as mentioned above. See the “Your Information Collection Choices” section below for more details. For information about your rights as a CA resident, please refer to the “Additional Privacy Information for California Residents” section below.
+
+8. **How We Protect and Store Your Personal Information**
+
+**Security**
+
+We have implemented and maintain appropriate technical and organizational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to Personal Information. As the security of information depends in part on the security of the computer you use to communicate with us and the security you use to protect your user IDs and passwords, please take appropriate measures to protect this information.
+
+**Retention of Your Personal Information**
+
+We will store your Personal Information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this Privacy Policy. In some circumstances we may store your Personal Information for longer periods of time, for instance where we are permitted or required to do so in accordance with legal, regulatory, tax or accounting requirements.
+
+In specific circumstances we may store your Personal Information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your Personal Information or dealings.
+
+9. **Your Information Collection Choices**
+
+You may revise your Personal Information by logging in and editing your account details. You also have the right to ask Similarweb to amend any Personal Information it holds about you if it is inaccurate or misleading by emailing our Data Protection Officer at [dpo@similarweb.com](mailto:dpo@similarweb.com) or [privacy@similarweb.com](mailto:privacy@similarweb.com).
+
+You can ask us to stop sending email marketing, by following the ‘unsubscribe’ link you will find on all the email marketing messages we send you. Alternatively, you can contact us at [legal@similarweb.com](mailto:legal@similarweb.com). Please specify whether you would like us to stop all forms of marketing or just a particular type (e.g., email).
+
+If you wish to prevent cookies or third-party advertisers from tracking your activity on our Website or visits across multiple websites, there are tools you can use to disable cookies and opt out of interest-based advertising. Using the resources below does not mean you will no longer receive any advertising through our Website, Services, or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Your opt-out may not be effective if your browser is configured to reject cookies.
+
+* **Browser Solutions.** You can decide if and how your computer will accept cookies by configuring the preferences option within your web browser, using the instructions provided in your browser. If you choose to decline cookies, however, some of the functionality of this Website might be impaired. For more information about how to set your internet browser to reject cookies, please go to [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+* **Industry Solutions.** Notwithstanding the above, visitors to our Website may follow the steps provided by initiatives that educate users on how to set tracking preferences for most online advertising tools, such as the Network Advertising Initiative ([https://thenai.org/about-online-advertising/](https://thenai.org/about-online-advertising/)) and the Digital Advertising Alliance ([https://digitaladvertisingalliance.org/](https://digitaladvertisingalliance.org/)).
+
+In order to disable some cookies or otherwise adjust your cookie preferences, please adjust the settings on your browser. Please note that if you disable certain cookies on your browser, some parts of our Services may not fully work or may otherwise be limited or affected. If you use a new computer, upgrade, or change web browsers or take any action which results in the deletion of the “opt out” cookie, you will need to perform this opt-out process again upon any such change. You can also adjust your cookie settings or choose to reject certain types of cookies by clicking on the “Manage Cookies” button on the footer of our Website. You can change your cookie preferences at any time by visiting the cookie preference center via this “Manage Cookies” button.
 
 We recommend you routinely review the privacy policies and preference settings that are available to you on any social media platforms you use, as well as your preferences within your Similarweb account.
 
-**3\. COOKIES, SIMILAR SITES, AND THIRD PARTY SERVICES**
+10. **Rights for EU and UK Residents**
 
-**3.1 Use of Cookies, Web Beacons, Pixels and other Technologies**
+The following rights, which may be subject to certain exemptions, apply to EU and UK users:
 
-Our Website uses certain monitoring and tracking technologies (such as cookies, web beacons and pixels).
+* You have a right to access information held about you. Your right of access can normally be exercised free of charge; however, we reserve the right to charge an appropriate administrative fee where permitted by applicable law.
+* You have a right to request that we rectify inaccurate Personal Information, and we encourage you to regularly update your account information. We may seek to verify the accuracy of the Personal Information before rectifying it.
+* You can also request that we erase your Personal Information in limited circumstances e.g., where it is no longer needed for the purposes for which it was collected, or you have withdrawn your consent (if the processing was based on consent) or following the successful right to object, or if the Personal Information was processed unlawfully. 
+* You have a right to restrict the processing of your Personal Information, for example in case we no longer need your Personal Information for the initial purposes for which it was collected but it is required by you for the establishment, exercise or defense of legal claims.
+* You have a right to object to processing which has our legitimate interests as its lawful basis. We will no longer process your Personal Information upon your request, unless we have compelling legitimate grounds for the continuation of the processing which override your interests, rights and freedoms, or for the establishment, exercise or defense of legal claims. You may also object to our use of your Personal Information for direct marketing purposes. See the “Your Information Collection Choices” section for how to unsubscribe, manage your marketing preferences and opt out of cookies.
+* You have a right to obtain a portable copy of Personal Information which is processed on the basis of your consent, or which is necessary for the performance of a contract between us. You have a right to have such portable copy of Personal Information transferred to another data controller in a structured, commonly used and machine-readable format.
+* You also have a right to request details of the basis on which your Personal Information is transferred outside the EEA or the UK but you acknowledge that data transfer agreements may need to be partially redacted for reasons of commercial confidentiality.
+* You have a right to lodge a complaint with your local supervisory authority if you have concerns about how we are processing your Personal Information. We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. You can find information on the relevant EU data protection authorities [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en#member-at) and the UK Information Commissioner’s Office [here](https://ico.org.uk/global/contact-us/contact-us-public/). 
 
-A cookie is a small text file that is stored in a web browser directory by a website or an advertisement related action. Our Website uses two types of cookies: session cookies and persistent cookies. Session cookies are created temporarily in your web browser directory while you are visiting a website and are deleted once you leave the website. Persistent cookies remain in your web browser and are activated again once you visit the website that created that specific cookie. A web beacon is a small file used by a website or an advertisement-related action to keep track of your navigation through a single website or a series of websites. A pixel is a small line of code which is used by a website or an advertisement-related action to assign online activities to a computer or browser.
+We may collect additional information to confirm your identity and for security purposes, before disclosing the Personal Information requested to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
 
-We use these technologies in order to ensure proper operation of our Products and Website, collect information and ensure information security. Although our collection of such information is not used to personally identify users, we are still committed to giving you the opportunity to exercise your choice of opting out from our collection of such information. For removing cookies and other technologies used on our Website, please refer to the “Opt-Out Option” sub-section below.
+You can exercise your rights by contacting us at [legal@similarweb.com](mailto:legal@similarweb.com). Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly or inform you if we require further information in order to fulfill your request.
 
-We will not use the above technologies to collect Personal Information without obtaining your permission, unless where we are permitted to do so under applicable privacy laws.
+We may not always be able to fully address your request, for example, if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way.
 
-**3.2 Opt-Out Option**
+11. **Additional Privacy Information for California Residents**
 
-Please note that your browser enables you to disable all cookies (if you do not know how to do this, check out the “Help” file of your browser), however, this may interfere with your use of the Website or other internet websites.
+Under the California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (“**CCPA**”), California residents have the right to receive certain disclosures regarding our information practices related to “Personal Information,” as defined under the CCPA. To the extent you are a resident of California and we collect Personal Information from you subject to CCPA, the following applies. 
 
-In order to disable cookies or otherwise adjust your cookies preferences, please adjust the settings on your browser. Please note that if you disable certain cookies on your browser, some parts of our Services may not fully work or may otherwise be limited or affected.
+This section does not apply to publicly available data, deidentified data, or aggregate data as defined by the CCPA, or to Personal Information we collect and process about Similarweb employees, personnel, and job applicants.
 
-If you use a new computer, upgrade or change web browsers or take any action which results in the deletion of the “opt out” cookie, you will need to perform this opt-out process again upon any such change.
+**CCPA Right to Know Disclosure**
 
-For more information about cookies including how to set your internet browser to reject cookies please go to [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+While our processing of Personal Information varies based upon our relationship and interactions with you, the list below identifies the categories of Personal Information we have disclosed to third parties and which third parties we disclosed it to (as defined under CCPA) for a business or commercial purpose in the prior 12 months (from the Last Amended date at the top of this Privacy Policy):
 
-**3.3 Third Party Websites and Services**
+* **Identifiers**
 
-Our Products may recommend third party websites which the Product determines may be of interest to you (“**Similar Sites**“). Additionally, there may be links on our Website to third party websites and services such as Google Analytics, KeenIO, and others (“**Third Party Services**”). We do not have control over such Similar Sites or Third Party Services, including their information collection and use practices. We are not responsible for their privacy practices or policies. We therefore recommend that you review the privacy policies of Similar Sites and Third Party Services before providing them with your Personal Information. For more information about the Third Party Services to which links are included in our Website, please contact us at [legal@similarweb.com](mailto:legal@similarweb.com).
+* * * Affiliates and subsidiaries.  
+        * Regulators, government entities, and law enforcement (if required to do so by law or court order).
 
-Similarweb uses remarketing with Google Analytics to advertise online. Third party vendors, including Google, may show Similarweb’s ads on sites across the Internet. By using the [Ads Settings](https://adssettings.google.com/authenticated), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+* **Internet and Electronic Network Activity Information**
 
-**3.4 Analytics**
+* * * Affiliates and subsidiaries.  
+        * Advertising networks.
+        * Regulators, government entities, and law enforcement (if required to do so by law or court order).
+    * **Customer Records**
+        * Affiliates and subsidiaries.  
+        * Regulators, government entities, and law enforcement (if required to do so by law or court order).
 
-We may use certain third-party service providers to monitor and analyze the use of our Website and/or Products, including the following:
+* **Purchase History and Tendencies**
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| **Service Provider** | **Purpose** | **Opt-out** | **Further Information** |
-| Taboola, Inc. | Taboola uses cookies that determine what content you use and which of our pages you visit on the Website. This enables us to create a pseudonymous user profile of you and to recommend content that suits your personal interests. | [https://www.taboola.com/privacy-policy#optout](https://www.taboola.com/policies/privacy-policy#optout) | [https://www.taboola.com/privacy-policy](https://www.taboola.com/policies/privacy-policy) |
-| Facebook, Inc. | Our Website measures conversions using visitor action pixels from Facebook. This allows an analysis of the effectiveness of Facebook advertisements for statistical and market research purposes and their future optimization. | [https://www.facebook.com/ads/preferences/?entry\_product=ad\_settings\_screen](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen) | [https://www.facebook.com/about/privacy/](https://www.facebook.com/privacy/policy/) |
-| Mixpanel, Inc. | We use the technology of Mixpanel to perform statistical evaluations that enable us to understand how you use our Products and make improvements to them accordingly. | [https://mixpanel.com/optout](https://docs.mixpanel.com/docs/tracking/how-tos/privacy-friendly-tracking#optout-users) | [https://mixpanel.com/terms/](https://mixpanel.com/legal/terms-of-use/) |
+* * * Affiliates and subsidiaries.  
+        * Regulators, government entities, and law enforcement (if required to do so by law or court order).
 
-**4\. HOW WE USE PERSONAL INFORMATION**
+* **Audio, Video, and other Electronic Data**
 
-Similarweb will use Personal Information solely in order to provide you with our Products and services, process your inquiries, respond to your requests and improve our services.
+* * Affiliates and subsidiaries.  
+    * Regulators, government entities, and law enforcement (if required to do so by law or court order).
 
-We may share some or all of your Personal Information with our current or future subsidiaries, joint venture partners or other companies with whom we are under common control, provided such parties undertake to protect your privacy in at least the same manner as set out in this Privacy Policy.
+**“Sales” and “Sharing” under CCPA**
 
-In addition, we may share some or all of your Personal Information in the manner and for the purposes described below:
+CCPA defines a “sale” as disclosing or making Personal Information available to a third party in exchange for monetary or other valuable consideration. CCPA also defines “sharing” as disclosing or making available Personal Information to a third party for purposes of cross-context behavioral advertising. 
 
-4.1 with third parties who help manage our business and deliver services. These third parties have agreed to confidentiality restrictions and use any Personal Information we share with them solely for the purpose of providing the contracted service to us. These include IT service providers who help manage our IT and back office systems;
+While we do not disclose Personal Information to third parties in exchange for monetary compensation, we may “sell” or “share” (as defined by the CCPA) Personal Information, such as identifiers and internet and electronic network activity information to third-party ad networks. We do so in order to improve and evaluate our advertising campaigns and better reach customers and prospective customers with more relevant ads and content. 
 
-4.2 with our regulators, to comply with all applicable laws, regulations and rules, and requests of law enforcement, regulatory and other governmental agencies or if required to do so by court order; and
+We do not sell or share sensitive Personal Information, nor do we sell or share any Personal Information about individuals who we know are under sixteen (16) years old. We do not provide your Personal Information to third parties for their direct marketing purposes.
 
-4.3 we may collect and share Personal Information if required to do so as part of any legal proceedings conducted between you and Similarweb.
+**Your California Privacy Rights**
 
-**5\. THE LEGAL BASIS FOR USING YOUR PERSONAL INFORMATION**
+If you are a California resident, you may have the following rights to your Personal Information: 
 
-We will only collect, use and share your Personal Information where we are satisfied that we have an appropriate legal basis to do this. This may be because:
+* **Request Access:** With respect to the Personal Information we have collected about you in the prior 12 months, you have the right to request from us (up to twice per year and subject to certain exemptions): (i) categories of Personal Information about you we have collected; (ii) the sources from which we have collected that Personal Information; (iii) our business or commercial purposes for collecting, selling, or disclosing that Personal Information; (iv) the categories of third parties to whom we have disclosed that Personal Information; and (v) a copy of the specific pieces of your Personal Information we have collected.
+* **Request to Correct:** You have the right to request that we correct inaccuracies in your Personal Information.
+* **Request to Delete:** Subject to certain conditions and exceptions, you may have the right to request deletion of Personal Information that we have collected about you. 
+* **Request to Opt-Out of Sale/Sharing:** You may have the right to opt-out of the “sale” or “sharing” of your Personal Information. To opt out of the sharing or sale of Personal Information collected through advertising cookies, please click on the “Do Not Sell or Share My Personal Information” link on the bottom of the Website homepage or visit the Manage Cookies in the footer of our Website. Please note that submitting an opt out request will only opt you out of disclosures that are considered “sales” or “sharing” under the CCPA, but it will not opt out of other disclosures, such as to our service providers. 
+    * You may also opt-out of “sales” and “sharing” of your Personal Information through the use of an opt-out preference signal. If our website detects that your browser or device is transmitting an opt-out preference signal, such as the “global privacy control” or “GPC” signal, we will opt that browser or device out of cookies on our website that result in a “sale” or “sharing” of your Personal Information. Please note, if you come to our website from a different device or a different browser on the same device, you will need to opt out, or use an opt-out preference signal, for that browser and/or device as well.
+* **Non-Discrimination:** We will not discriminate against you for exercising any of the rights described in this section.
+* **Authorized Agent:** You may designate someone as an authorized agent to submit requests and act on your behalf. To do so, you must provide us with written permission to allow the authorized agent to act on your behalf.
 
-5.1 you have provided your consent to us using the Personal Information (e.g. where you provide us with marketing consents or opt-in to optional additional services or functionality);
-
-5.2 our use of your Personal Information is necessary to perform a contract or take steps to enter into a contract with you (e.g. providing you with our Products, and services, creating your user account);
-
-5.3 our use of your Personal Information is in our legitimate interest as a commercial organisation, subject to your interests and fundamental rights. In these cases we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in “your rights” section below;
-
-5.4 our use of your Personal Information is necessary to comply with a relevant legal or regulatory obligation that we have (e.g., the disclosure of information to law enforcement or tax authorities).  
-If you would like to find out more about the legal basis for which we process Personal Information, please contact us.
-
-**6\. TRANSFERS OF PERSONAL INFORMATION**
-
-Please be aware that your Personal Information may be transferred, stored and processed in countries outside your country of residence from which the information was collected, including the United States, where our servers are located and our central database is operated. This means that your Personal Information will be subject to a different standard of data protection than that available in your country of residence. Similarweb will take appropriate steps to ensure that transfers of Personal Information are in accordance with applicable laws and carefully managed to protect your privacy rights and interests. To this end:
-
-6.1 we ensure transfers within Similarweb will be covered by an agreement entered into by members of Similarweb (an intra-group agreement) which contractually obliges each member to ensure that Personal Information receives an adequate and consistent level of protection wherever it is transferred within Similarweb;
-
-6.2 where we transfer your Personal Information outside Similarweb or to third parties who help provide our products and services, we obtain contractual commitments from them to protect your Personal Information. Some of these assurances are well recognized certification schemes for the protection of Personal Information transferred from within the EU to the United States or other countries; or
-
-6.3 where we receive requests for information from law enforcement or regulators, we carefully validate these requests before any Personal Information is disclosed.
-
-6.4 Subject to applicable laws, you have a right to contact us for more information about the safeguards we have put in place to ensure the adequate protection of your Personal Information when it is transferred as mentioned above. See the “Your Rights” section below for more details. For information about your rights as a CA resident please refer to **Important Additional Privacy Information for California Residents**
-
-**7\. HOW WE PROTECT AND STORE YOUR INFORMATION**
-
-**7.1 Security**
-
-We have implemented and maintain appropriate technical and organizational security measures, policies and procedures designed to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to such information appropriate to the nature of the information concerned. Note that, although we take measures to secure the information we collect and reduce the risk of unwanted disclosure, we cannot guarantee that the information will not be exposed as a result of unauthorized penetration to our servers. However, we make commercially reasonable efforts to make the collection and security of such information consistent with this Privacy Policy and all applicable laws and regulations. As the security of information depends in part on the security of the computer you use to communicate with us and the security you use to protect your user IDs and passwords, please take appropriate measures to protect this information.
-
-**7.2 Retention of your Personal Information**
-
-We will store your Personal Information for as long as is reasonably necessary for the purposes for which it was collected, as explained in this Privacy Policy. In some circumstances we may store your Personal Information for longer periods of time, for instance where we are required to do so in accordance with legal, regulatory, tax or accounting requirements.  
-In specific circumstances we may store your Personal Information for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a prospect of litigation relating to your Personal Information or dealings.
-
-**8\. USE BY CHILDREN**
-
-We do not offer our products or services for use by children. If you are under 18, you may not use the Website, our Products or provide any information to the Website without involvement of a parent or a guardian. We do not knowingly collect information from, and/or about children.
-
-**9\. YOUR RIGHTS**
-
-You may revise your Personal Information by editing your account details. You also have the right to ask Similarweb to amend any Personal Information it holds about you if it is inaccurate or misleading by emailing our Data Protection Officer at dpo@similarweb.com.
-
-9.1 The following rights, which may be subject to certain exemptions, apply (in addition to the rights set forth above) to EU users:
-
-9.1.1 You have a right to access information held about you. Your right of access can normally be exercised free of charge, however we reserve the right to charge an appropriate administrative fee where permitted by applicable law.
-
-9.1.2 You have a right to restrict the processing of your Personal Information, for example in case we no longer need your Personal Information for the initial purposes for which it was collected but it is required by you for the establishment, exercise or defense of legal claims.
-
-9.1.3 You have a right to object to processing which has our legitimate interests as its lawful basis. We will no longer process your Personal Information upon your request, unless we have compelling legitimate grounds for the continuation of the processing which override your interests, rights and freedoms, or for the establishment, exercise or defense of legal claims. You may also object to our use of your Personal Information for direct marketing purposes. See the “Direct Marketing” and “Cookies” sections for how to unsubscribe, manage your marketing preferences and opt out of cookies.
-
-9.1.4 You have a right to obtain a portable copy of Personal Information which is processed on the basis of your consent, or which is necessary for the performance of a contract between us. You have a right to have such portable copy of Personal Information transferred to another data controller in a structured, commonly used and machine-readable format;
-
-9.1.5 You also have a right to request details of the basis on which your Personal Information is transferred outside the European Economic Area but you acknowledge that data transfer agreements may need to be partially redacted for reasons of commercial confidentiality.
-
-9.1.6 You have a right to lodge a complaint with your local supervisory authority if you have concerns about how we are processing your Personal Information. We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
-
-We may ask you for additional information to confirm your identity and for security purposes, before disclosing the Personal Information requested to you. We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
-
-You can exercise your rights by contacting us. Subject to legal and other permissible considerations, we will make every reasonable effort to honor your request promptly or inform you if we require further information in order to fulfil your request.
-
-We may not always be able to fully address your request, for example if it would impact the duty of confidentiality we owe to others, or if we are legally entitled to deal with the request in a different way.
-
-**10\. IMPORTANT ADDITIONAL PRIVACY INFORMATION FOR CALIFORNIA RESIDENTS**
-
-In this section, we provide information for California residents, as required under California privacy laws, including the California Consumer Privacy Act (“**CCPA**”), which requires that we provide California residents certain specific information about how handle their personal information, whether collected online or offline. Under the CCPA, “personal information” is any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California resident or household. It does not include publicly available data as defined by the CCPA. This section does not address or apply to our handling of publicly available information made lawfully available by state or federal governments or other personal information that is subject to an exemption under Section 1798.145(c) – (f) of the CCPA.
-
-Except for the Right to Opt-out and the Right of Non-Discrimination, this section does not apply to California residents with whom we transact or communicate solely in the context of providing or receiving a product or service to or from a company that employs such residents or engages such residents as contractors. This section also does not apply to personal information we collect about job applicants, independent contractors, or current or former full-time, part-time and temporary employees and staff, officers, directors or owners of Similarweb or any affiliated entities.
-
-**10.1.1 Categories of Personal Information that We Collect, Disclose, and Sell**
-
-The list below sets out generally the categories of personal information (as defined by the CCPA) about California residents that we collect. As noted below, we do not sell your personal information or disclose it to third parties for a business purpose. We may disclose each of these categories of personal information to our service providers, who are not permitted to use your personal information except as necessary for performing services on our behalf. We collect these categories of personal information from the sources described in the “**Information Collected and How It Is Used**” section above, and for the purposes described in the “**How We Use Personal Information**” section above. Our collection, use and disclosure of personal information about a California resident will vary depending upon the circumstances and nature of our interactions or relationship with such resident.
-
-Please note that the CCPA defines the term “sale” very broadly to include any exchange of data for consideration of any kind, not simply selling your data for monetary compensation. Depending upon the circumstances, the term “sale” could include a company providing a resident’s data to another entity to assist the company with targeted advertising.
-
-**10.1.2 Notice of Collection**
-
-Similarweb collects the following categories of personal information:
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| **Categories of personal information** | **Do we collect?** | **Do we disclose for a business purpose(s)** | **Do we sell?** |
-| **Name, Contact Information and other Identifiers:** Identifiers such as a real name, Internet Protocol (IP) address, email address, and account name,. | YES | YES | NO  |
-| **Customer Records:** Paper and electronic customer records containing personal information, such as name, signature, address, telephone number. | YES | YES | NO  |
-| **Purchase History and Tendencies:** Commercial information including records of our products or services purchased or used. | YES | YES | NO  |
-| **Usage Data:** Electronic network activity information, including, but not limited to, information regarding a resident’s interaction with ours internet website, application, or advertisement, including access logs and other activity information related to your use of any Similarweb websites, applications or other online services. | YES | YES | NO  |
-| **Audio, Video and other Electronic Data:** Audio, electronic, or similar information, such as call recordings and other audio recording (e.g., recorded meetings and webinars). | YES | YES | NO  |
-
-**10.1.3 California Consumer Rights**
-
-California law grants consumers certain rights and imposes restrictions on particular business practices as set forth below. California consumers have the right to request that we disclose what personal information we collect, use, disclose, and sell about you.
-
-10.1.3.1 _**Right to Opt-out of Sale of Personal Information (“Do Not Sell”).**_ California residents have the right to opt-out of our sale of their personal information. We do not sell your personal information.
-
-10.1.3.2 _**Requests for Copy, Deletion and Right to Know.**_ Subject to certain exceptions, California consumers have the right to make the following requests, at no charge, up to twice every 12 months. Please see Submitting Requests for instructions about how to exercise your rights:
-
-Deletion: the right to request deletion of personal information that we have collected about you, subject to certain exemptions.
-
-Copy: the right to request a copy of the specific pieces of personal information that we have collected about you in the prior 12 months.
-
-Right to Know (Collection): Where we have collected personal information about you, the right to request that we disclose certain information about how we have handled your personal information in the prior 12 months, including: the categories of personal information collected; categories of sources of personal information; business and/or commercial purposes for collecting and selling your personal information; and the categories of third parties/with whom we have disclosed or shared your personal information.
-
-Right to Know (Disclosure and Sale): Where we have sold or disclosed for a business purpose your personal information, the right to request that we disclose certain information about how we have handled your personal information in the prior 12 months, including: the categories of personal information collected; categories of third parties to whom your personal information has been sold and the specific categories of personal information sold to each category of third party; categories of third parties to whom personal information has been disclosed; and the categories personal information that we have disclosed or shared with a third party for a business purpose.
-
-**10.1.3.3 _Submitting Requests._** You can exercise your right by:
+You can exercise the rights described above by:
 
 (a) Contacting us at +972-3-5447782  
-(b) Emailing us at dpo@similarweb.com
+(b) Emailing us at [dpo@similarweb.com](mailto:dpo@similarweb.com) or [privacy@similarweb.com](mailto:privacy@similarweb.com) 
 
-When you submit your request, we will take steps to attempt to verify your identity. We will seek to match the information in your request to the personal information we maintain about you. As part of our verification process, we may ask you to submit additional information, use identity verification services to assist us, or if you have created an account on our website or mobile app, we may ask you to sign in to your account as part of our identity verification process. Please understand that, depending on the type of request you submit, to protect the privacy and security of your personal information, we will only complete your request where we are satisfied that we have verified your identity to an appropriate degree of certainty. We will l make every reasonable effort to respond to your within 45 days after we receive a verified request. If we are unable to meet this timescale we will respond as soon as possible over the next 45 day period.
+When you submit your request, we will take steps to attempt to verify your identity. We will seek to match the information in your request to the Personal Information we maintain about you. As part of our verification process, we may ask you to submit additional information, use identity verification services to assist us, or if you have created an account on our website or mobile app, we may ask you to sign into your account as part of our identity verification process. Please understand that, depending on the type of request you submit, to protect the privacy and security of your Personal Information, we will only complete your request where we are satisfied that we have verified your identity to an appropriate degree of certainty. We will l make every reasonable effort to respond to you within 45 days after we receive a verified request. If we are unable to meet this timescale, we will respond as soon as possible over the next 45-day period.
 
-**10.1.3.4 _Incentives and Discrimination._** The CCPA prohibits discrimination against California consumers for exercising their rights under the CCPA and imposes requirements on any financial incentives offered to California consumers related to their personal information.
+12. **Use By Children**
 
-Discrimination: if consumers exercise their rights under CCPA, businesses may not discriminate against them including by denying or providing a different level or quality of goods or services or charging or suggesting that a business will charge different prices or rates or impose penalties, unless doing so is reasonably related to the value provided to the consumer by the consumer’s data.
+We do not offer our Services for use by children. If you are a minor, you may not use the Services or provide any information to the Website. We do not knowingly collect Personal Information from children.
 
-**10.1.3.5 Your California Privacy Rights under California’s Shine-the-Light Law**
+13. **Changes to this Policy**
 
-Under California’s “Shine the Light” law (Cal. Civ. Code § 1798.83), California residents who provide us certain personal information are entitled to request and obtain from us, free of charge, information about the personal information (if any) we have shared with third parties for their own direct marketing use. Such requests may be made once per calendar year for information about any relevant third party sharing in the prior calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to dpo@similarweb.com. In your request, please attest to the fact that you are a California resident. Important note: Your right to obtain information regarding any of your personal information we have shared with third parties for their own marketing use was included here solely in order to satisfy legal and regulatory notice requirements, we DO NOT share any of your personal information with third parties for their own marketing use.
+This Privacy Policy may be amended from time to time. We recommend checking back periodically for the latest version of the Privacy Policy, as indicated in the “Last Amended” date at the top of the Privacy Policy. We will not make material changes to how we use Personal Information without providing notice.     
 
-**11\. HOW TO CONTACT US**
+14. **How to Contact Us**
 
-If you have any questions or comments regarding this Privacy Policy or our Terms of Service, please feel free to contact us by e-mail at [legal@similarweb.com.](mailto:legal@similarweb.com)
-
-We will investigate and attempt to resolve complaints and disputes and will make every reasonable effort to honour your wish to exercise your rights as quickly as possible and in any event, within the timescales provided by data protection laws.
-
-You have a right to lodge a complaint with your local data protection supervisory authority (i.e. your place of habitual residence, place of work or place of alleged infringement) at any time. We ask that you please attempt to resolve any issues with us before your local supervisory authority.
-
-Last updated: June 16, 2022
+If you have any questions or comments regarding this Privacy Policy or wish to exercise your privacy rights, please feel free to contact us by email at [legal@similarweb.com](mailto:legal@similarweb.com) or dpo@similarweb.com.
 
  
 
