@@ -360,9 +360,9 @@ Nothing contained in these Terms of Use will take away from Turtle Beach the rig
 
 ![](https://cdn.shopify.com/s/files/1/0625/4477/3284/files/round_ci_element.png?v=1697637015&width=100&crop=center)
 
-![](https://cdn.shopify.com/s/files/1/0556/5795/5430/files/turtle-beach-desktop-logo.svg?v=1705546576&width=100&height=92&crop=center)
+![Turtle Beach](https://cdn.shopify.com/s/files/1/0556/5795/5430/files/turtle-beach-desktop-logo.svg?v=1705546576&width=100&height=92&crop=center)
 
-![](https://cdn.shopify.com/s/files/1/0556/5795/5430/files/turtle-beach-mobile-logo.svg?v=1705546575&width=100&height=94&crop=center)
+![Turtle Beach](https://cdn.shopify.com/s/files/1/0556/5795/5430/files/turtle-beach-mobile-logo.svg?v=1705546575&width=100&height=94&crop=center)
 
 Join Our Community
 
