@@ -4,6 +4,7 @@
 * [AI](https://www.zerosuniverse.com/artificial-intelligence/)
 * [ANDROID](https://www.zerosuniverse.com/android/)
 * [APPS](https://www.zerosuniverse.com/apps/)
+* [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 #### Trending Now
 
@@ -33,12 +34,13 @@
 * [AI](https://www.zerosuniverse.com/artificial-intelligence/)
 * [ANDROID](https://www.zerosuniverse.com/android/)
 * [APPS](https://www.zerosuniverse.com/apps/)
+* [Guest Post](https://www.zerosuniverse.com/guest-post/)
 
 [Facebook](#) [X (Twitter)](#)
 
 [](# "Switch to Dark Design - easier on eyes.")[](# "Switch to Light Design.")
 
-[](# "Search")
+[](# "Search")[Login](#auth-modal)
 
 [![Zerosuniverse](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3C/svg%3E)
 
@@ -174,3 +176,23 @@ If We change or update this Privacy Policy, We will post changes and updates on 
  Submit
 
 Type above and press _Enter_ to search. Press _Esc_ to cancel.
+
+### Sign In or Register
+
+### Welcome Back!
+
+Login below or [Register Now](#).
+
+Log In
+
+ Remember Me
+
+[Lost password?](https://www.zerosuniverse.com/login/?action=lostpassword "Lost password?")
+
+### Register Now!
+
+Already registered? [Login](#).
+
+Register
+
+A password will be e-mailed to you.
