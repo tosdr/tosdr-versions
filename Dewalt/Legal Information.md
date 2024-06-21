@@ -174,7 +174,7 @@ accessible\_forward
 * Trade Solutions
     
     * [Construction Technology](https://www.dewalt.com/construction-technology)
-    * [Solutions by Trade](https://www.dewalt.com/trade-solutions/trade-solutions)
+    * [Solutions by Trade](https://www.dewalt.com/trade-solutions/solutions-by-trade)
         
         Solutions by Trade
         
@@ -186,17 +186,17 @@ accessible\_forward
         
         [View Configurator](https://www.dewalt.com/products/power-tools/cordless-kit-configurator)
         
-        * [Mechanical Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/mechanical-solutions)
-        * [Electrical Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/electrical-solutions)
-        * [Plumbing Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/plumbing-solutions)
-        * [Drywall Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/drywall-solutions)
-        * [Concrete Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/concrete-solutions)
-        * [Prefabrication Solutions](https://www.dewalt.com/trade-solutions/solutions-trade/prefabrication-solutions)
-        * [Carpentry Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/carpentry-solutions)
+        * [Mechanical Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/mechanical-solutions)
+        * [Electrical Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/electrical-solutions)
+        * [Plumbing Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/plumbing-solutions)
+        * [Drywall Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/drywall-solutions)
+        * [Concrete Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/concrete-solutions)
+        * [Prefabrication Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/prefabrication-solutions)
+        * [Carpentry Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/carpentry-solutions)
         * [Demolition Solutions](https://www.dewalt.com/trade-solutions/demolition-solutions)
         * [Elevator & Escalator Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/elevator-escalator-solutions)
-        * [Fire Sprinkler Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/fire-sprinkler-installation-solutions)
-        * [Glazier Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/glazier-solutions)
+        * [Fire Sprinkler Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/fire-sprinkler-installation-solutions)
+        * [Glazier Solutions](https://www.dewalt.com/trade-solutions/solutions-by-trade/glazier-solutions)
         * [Masonry Solutions](https://www.dewalt.com/total-trade-solutions/browse-trade/masonry-solutions)
         
     * [Connected Catalogs](https://www.dewalt.com/trade-solutions/connected-catalogs)
