@@ -122,17 +122,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
-Upcoming Events
----------------
-
-Jun 19
-
-10:00 am - 11:00 am EDT
-
-### [6/19 @ 10am EDT – Could 2 Starlinks make you faster? | Ask the CEO your tech questions](https://speedify.com/event/6-19-10am-edt-could-2-starlinks-make-you-faster-ask-the-ceo-your-tech-questions/ "6/19 @ 10am EDT – Could 2 Starlinks make you faster? | Ask the CEO your tech questions")
-
-[View Calendar](https://speedify.com/calendar/ "View more events.")
-
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
