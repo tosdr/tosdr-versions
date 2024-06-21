@@ -68,7 +68,7 @@ Receivers
 
 Flirc Fire TV Edition
 
-£16.00](https://flirc.tv/products/flirc-fire-tv-edition)
+£17.00](https://flirc.tv/products/flirc-fire-tv-edition)
 
 [![Flirc Streacom Edition](//flirc.tv/cdn/shop/files/FlircStreacom1.png?v=1687593054)
 
@@ -141,7 +141,7 @@ Shop
 
 The Skip 1s Universal Remote Control
 
-£36.00
+£37.00
 
 £34.00](https://flirc.tv/products/skip1s-remote-universal-remote-control)
 
@@ -177,7 +177,7 @@ Flirc Raspberry Pi 4 Case (Kodi Edition)
 
 Flirc Fire TV Edition
 
-£16.00](https://flirc.tv/products/flirc-fire-tv-edition)
+£17.00](https://flirc.tv/products/flirc-fire-tv-edition)
 
 [![Flirc Streacom Edition](//flirc.tv/cdn/shop/files/FlircStreacom1.png?v=1687593054)
 
