@@ -288,6 +288,12 @@ In case any part of these Terms and Conditions is declared legally invalid, this
 * Trending Scams
     --------------
     
+    * [![art-commission-scams](https://www.scam-detector.com/wp-content/uploads/2024/06/art-commission-scams-explained-150x150.jpg)](https://www.scam-detector.com/art-commission-scams/)
+        
+        ### [Art Commission Scams: How They Work and Red Flags](https://www.scam-detector.com/art-commission-scams/)
+        
+        [Read More](https://www.scam-detector.com/art-commission-scams/)
+        
     * [![Crypto coins](https://www.scam-detector.com/wp-content/uploads/2024/06/traxer-5WRRg1_DQn0-unsplash-1-150x150.jpg)](https://www.scam-detector.com/crypto-airdrop-scam/)
         
         ### [Crypto Airdrop Scams: How to Keep Your Wallet Safe](https://www.scam-detector.com/crypto-airdrop-scam/)
@@ -299,12 +305,6 @@ In case any part of these Terms and Conditions is declared legally invalid, this
         ### [Don't Fall for the Falling Lady Scam](https://www.scam-detector.com/falling-lady-scam/)
         
         [Read More](https://www.scam-detector.com/falling-lady-scam/)
-        
-    * [![iPhone in the pocket](https://www.scam-detector.com/wp-content/uploads/2024/05/mikaela-shannon-VJRP_JnKoU0-unsplash-1-150x150.jpg)](https://www.scam-detector.com/stolen-iphone-extortion-scam/)
-        
-        ### [Stolen iPhone Extortion Scam](https://www.scam-detector.com/stolen-iphone-extortion-scam/)
-        
-        [Read More](https://www.scam-detector.com/stolen-iphone-extortion-scam/)
         
     
 * [![“fraud](https://www.scam-detector.com/wp-content/uploads/2023/10/One_Fraud-Prevention.png)](https://get.surfshark.net/aff_c?offer_id=1124&aff_id=16683&url_id=1369)
