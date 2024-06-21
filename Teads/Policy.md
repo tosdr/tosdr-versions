@@ -235,7 +235,7 @@ Analytical cookies are used to understand how visitors interact with the website
 
 SAVE & ACCEPT
 
-                                          
+                                    
 
 English
 
