@@ -12,7 +12,6 @@
     * [Agriculture](https://ag.dji.com/?site=brandsite&from=nav)
     * [DJI Delivery](https://www.dji.com/uk/delivery?site=brandsite&from=nav)
     * [DJI Automotive](https://auto.dji.com/?site=brandsite&from=nav)
-    * [Drive System](https://www.dji.com/uk/avinox?site=brandsite&from=nav)
     
 * Explore
     
@@ -923,11 +922,11 @@ EXCEPTION, for EU USERS: We may assign our rights and obligations under these Te
   
 The Services are offered by SZ DJI Technology Co., Ltd. and its affiliated companies. Our office is located at Lobby of T2, DJI Sky City, No. 53 Xianyuan Road, Xili Community, Xili Street, Nanshan District, Shenzhen, China, 518055. You may contact us by sending correspondence to that address or by emailing us at [support@dji.com](mailto:support@dji.com).
 
-Only in the DJI Store App
+Shop with DJI Store
 
-Try Virtual Flight online for free, and enjoy convenient one-stop device services.
+Get 1% DJI Credit Rewards, Free Shipping on Orders Over USD $149, 14-Day Returns, and other exclusive official offers.
 
-[Download App](https://plus.dji.com/apps/download?utm_source=OfficialSite&utm_medium=footer&utm_campaign=app_download)
+[Shop Now](https://store.dji.com/)
 
 ### Thanks for signing up!
 
