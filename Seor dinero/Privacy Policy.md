@@ -36,7 +36,7 @@ By accepting the referral below, we will redirect you to one of our trusted part
 * [Home](https://crediterium.loans/)
 * [Legal](https://crediterium.loans/legal/)
 * [Contact](https://crediterium.loans/contact)
-* © 2024 Crediterium® Loans
+* © 2024 Crediterium®
 
 * **Phone:** +1 (844) 4CRDTRM / +1 (844) 427-3876
 * **Email:** [support@crediterium.com](mailto:support@crediterium.com)
