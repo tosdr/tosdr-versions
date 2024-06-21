@@ -15,7 +15,7 @@
     
     What is the affect of speech, language and communication needs on a child’s educational attainment and what can be done to help?
     
-    [Find out more](https://speechandlanguage.info/slcn-in-school/)
+    Find out more
     
     [* Identification](https://speechandlanguage.link/slcn-in-school/assessment/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
     
@@ -25,7 +25,7 @@
     
     The need for speech and language support doesn’t stop after the foundation year. This is why our support packages cover ages 4 to 14. Discover how they can help.
     
-    [Find out more](https://speechandlanguage.info/whole-school-approach/)
+    Find out more
     
     [* Infant Language Link](https://speechandlanguage.link/whole-school-approach/infant-language-link/)[* Junior Language Link](https://speechandlanguage.link/whole-school-approach/junior-language-link/)[* Speech Link](https://speechandlanguage.link/whole-school-approach/speech-link/)[* Secondary Language Link](https://speechandlanguage.link/whole-school-approach/secondary-language-link/)[* The Link Speech & Language CPD](https://speechandlanguage.link/whole-school-approach/the-link-cpd/)[* Free Trial](https://speechandlanguage.link/whole-school-approach/free-trial/)[* Speech and Language Link Prices](https://speechandlanguage.link/whole-school-approach/speech-and-language-link-pricing/)
     
@@ -35,7 +35,7 @@
     
     Our collection of FREE resource materials for schools. The Ultimate Guide to SLCN, The Link Magazine and Library, the Blog for all things speech and language related, the monthly Speech & Language Newsletter, the Parent speech and language support portal, printable resources for your classroom and a free speech and language audit for schools! Plus, free access to our annual conference for SENCos, TAs, LSAs and everyone who needs to support children with SLCN in school.
     
-    [Find out more](https://speechandlanguage.info/the-link-community/)
+    Find out more
     
     [* The Ultimate Guide to SLCN](https://speechandlanguage.link/the-link-community/the-ultimate-guide-to-slcn/)[* The Link Magazine](https://speechandlanguage.link/the-link-community/the-link-magazine/)[* The Link Magazine Searchable Library](https://speechandlanguage.link/the-link-community/link-library/)[* The SLCN Blog](https://speechandlanguage.link/the-link-community/slcn-blog/)[* Our Newsletter](https://speechandlanguage.link/the-link-community/our-newsletter/)[* The Link Live – Speech and Language Conference](https://speechandlanguage.link/the-link-community/the-link-live/)[* Schools Supporting Families](https://speechandlanguage.link/the-link-community/schools-supporting-families/)[* Speech and Language Audit for Primary Schools](https://speechandlanguage.link/the-link-community/school-speech-and-language-audit/)[* Speech and Language Resources](https://speechandlanguage.link/the-link-community/free-printable-resources/)[* Sign up for Free Membership](https://speechandlanguage.link/the-link-community/sign-up/)
     
@@ -45,7 +45,7 @@
     
     We will support any umbrella organisation working with its schools to improve support for speech and language. Find out how we work with local authorities, MATs, commissioners, schools, speech and language therapists and parents.
     
-    [Find out more](https://speechandlanguage.info/working-with-you/)
+    Find out more
     
     [* Local Authorities](https://speechandlanguage.link/working-with-you/local-authorities/)[* Multi-Academy Trusts](https://speechandlanguage.link/working-with-you/mats/)[* Commissioners](https://speechandlanguage.link/working-with-you/commissioners/)[* Schools](https://speechandlanguage.link/working-with-you/schools/)[* Research opportunities for schools](https://speechandlanguage.link/working-with-you/research-opportunities-for-schools/)[* Parents](https://speechandlanguage.link/working-with-you/parents/)[* Speech & Language Therapists](https://speechandlanguage.link/working-with-you/speech-language-therapists/)
     
@@ -55,7 +55,7 @@
     
     We’ve been supporting speech and language for twenty years. Find out about our latest projects and awards here and keep up to date with our news.
     
-    [Find out more](https://speechandlanguage.info/about-us/)
+    Find out more
     
     [* Events](https://speechandlanguage.link/about-us/events/)[* Partners](https://speechandlanguage.link/about-us/partners/)[* Awards](https://speechandlanguage.link/about-us/awards/)[* Meet the Team](https://speechandlanguage.link/about-us/meet-the-team/)[* Aims and Values](https://speechandlanguage.link/about-us/aims-and-values/)[* Contact Us](https://speechandlanguage.link/about-us/contact-us/)
     
@@ -303,9 +303,3 @@ Username or Email
 Reset Password
 
 Close
-
-##### Confirm Account Deletion
-
-Are you sure you want to delete your account? This action cannot be undone.
-
-Cancel Delete Account
