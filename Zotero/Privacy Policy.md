@@ -213,7 +213,7 @@ privacy.txt · Last modified: 2024/02/27 12:16 by fcheslack
 
 * [Old revisions](https://www.zotero.org/support/privacy?do=revisions "Old revisions [o]")
 
-![](/support/lib/exe/taskrunner.php?id=privacy&1718789457)
+![](/support/lib/exe/taskrunner.php?id=privacy&1718963851)
 
 * [Blog](https://www.zotero.org/blog/)
 * [Forums](https://forums.zotero.org/categories/)
