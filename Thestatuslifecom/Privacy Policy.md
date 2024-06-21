@@ -54,6 +54,11 @@ The Status Life
     
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
         
+        ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_2409041267-600x337.jpg)
+        
+        New Zealand: A Jewel Of Natural Wonders](https://www.thestatuslife.com/new-zealand-a-jewel-of-natural-wonders/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/L1031467-1024x684-1-600x337.jpg)
         
         Experience Gastronomic Excellence At BATA Tucson](https://www.thestatuslife.com/experience-gastronomic-excellence-at-bata-tucson/)
@@ -72,11 +77,6 @@ The Status Life
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_2412412103-600x337.jpg)
         
         Check Out The Iconic 1957 Lancia B24S Convertible America](https://www.thestatuslife.com/check-out-the-iconic-1957-lancia-b24s-convertible-america/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.thestatuslife.com/wp-content/uploads/2024/05/shutterstock_2046011327-600x337.jpg)
-        
-        Explore The Best Glamping Destinations Across America](https://www.thestatuslife.com/explore-the-best-glamping-destinations-across-america/)
     
 * [Technology](https://www.thestatuslife.com/category/technology/)
     
@@ -110,6 +110,11 @@ The Status Life
     
     * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
         
+        ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/shutterstock_2289904159-600x337.jpg)
+        
+        Treat Yourself To An Unforgettable Extended Weekend In Barcelona](https://www.thestatuslife.com/treat-yourself-to-an-unforgettable-extended-weekend-in-barcelona/)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
+        
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/258960088-600x337.jpg)
         
         An Escapade For Good Health And Wellness At The Exquisite Hotel Mousai Puerto Vallarta](https://www.thestatuslife.com/an-escapade-for-good-health-and-wellness-at-the-exquisite-hotel-mousai-puerto-vallarta/)
@@ -128,11 +133,6 @@ The Status Life
         ![](https://www.thestatuslife.com/wp-content/uploads/2024/06/Screenshot-2024-06-05-at-11.34.36 AM-600x337.png)
         
         Experience Elegance At Le Royal Monceau At Paris](https://www.thestatuslife.com/experience-elegance-at-le-royal-monceau-at-paris/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20337'%3E%3C/svg%3E)
-        
-        ![](https://www.thestatuslife.com/wp-content/uploads/2024/05/hacienda-del-sol-guest-ranch-resort-video-600x337.jpg)
-        
-        Experience A Desert Oasis At Hacienda Del Sol, Tucson](https://www.thestatuslife.com/experience-a-desert-oasis-at-hacienda-del-sol-tucson/)
     
 
 Privacy Policy
