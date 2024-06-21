@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjozviYzOwRJlDTt76BCmfM25DiAC6ep-EeVmKlhaWw70hFLqjyIbc0wb7jvo8mEFlyh9JlMniweKpZW6rKk:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjozviYzOwRJlDTt76BCmfM25DiAC6ep-EeVmKlhaWw70hFLqjyIbc0wb7jvo8mEFlyh9JlMniweKpZW6rKk:0&docurl=https://docs.google.com/document/d/e/2PACX-1vQL7CfYkW0XujFJG-n6uFHAQQf32EbdsMcW6PVrBcd-4NOtIcoK27Qo0z85tL4Y8tbi4kSgjorEsW1M/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 AIR MATH Terms of Use
 
@@ -117,7 +117,7 @@ When you use this Service and when you communicate with Riiid electronically, fo
 
 10\. Privacy Policy
 
-You consent to the collection, processing and storage by Riiid of your personal information in accordance with the terms of Riiid’s Privacy Policy. You agree to comply with all applicable laws and regulations, and the terms of Riiid’s Privacy Policy, with respect to any access, use and/or submission by you of any personal information in connection with this website. For a detailed description of how Riiid collects and uses personal data about you, please see [Riiid’s Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vQvC5ObSfrk2jhtAFMdsABEiPy6zP-Eez2QDZ3tPnk8YZdw2iO1sc01bLtkrjDghsCxFnxp9kA9Dnh1/pub&sa=D&source=editors&ust=1718851770718310&usg=AOvVaw07IrXKAlxQ8F92UtMPZzcm).
+You consent to the collection, processing and storage by Riiid of your personal information in accordance with the terms of Riiid’s Privacy Policy. You agree to comply with all applicable laws and regulations, and the terms of Riiid’s Privacy Policy, with respect to any access, use and/or submission by you of any personal information in connection with this website. For a detailed description of how Riiid collects and uses personal data about you, please see [Riiid’s Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/e/2PACX-1vQvC5ObSfrk2jhtAFMdsABEiPy6zP-Eez2QDZ3tPnk8YZdw2iO1sc01bLtkrjDghsCxFnxp9kA9Dnh1/pub&sa=D&source=editors&ust=1718973519638065&usg=AOvVaw3SiMCcnEMD1uLOmtPDJN6X).
 
 11\. Contact
 
