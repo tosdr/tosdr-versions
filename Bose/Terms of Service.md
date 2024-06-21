@@ -1,8 +1,12 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-Save on select products during our Summer Sale. [SHOP](https://www.bose.com/c/summer-sale)
+[Save an extra 20% on Certified Refurbished with code SUMMER20.](https://www.bose.com/c/refurbished)
 
   
+
+Sign up for Bose text alerts | [Click here to join](https://cloud.email.bose.com/sms-sign-up)
+
+Trade in, trade up. | Save up to $300! | [Learn more](https://www.bose.com/trade-up)
 
 Back
 
@@ -18,7 +22,6 @@ Back
     * [Portable PA](https://www.bose.com/c/portable-pa)
     * [Aviation](https://www.bose.com/c/headphones-aviation-headsets)
     
-    * [Summer Sale](https://www.bose.com/c/summer-sale)
     * [Sets](https://www.bose.com/c/sets)
     * [Refurbished](https://www.bose.com/c/refurbished)
     * [Gift Cards](https://www.bose.com/gift-cards)
@@ -26,22 +29,14 @@ Back
     
     [View all products](https://www.bose.com/c/all-products)
     
-    [![](https://assets.bosecreative.com/m/4088809613f142e/webimage-SF_HP-PANEL-Summer-Sale_SL-Flex_v2.png)
+     ![Bose Certified Refurbished products](https://assets.bosecreative.com/transform/1479a599-16d8-45c1-adb9-31301d95b14b/FR-Nav-Flyout-FR-Image-720x711_x2?io=width:1280,height:1280,transform:fill)
     
-    Summer Sale
+    Better sound. Better savings.
+    -----------------------------
     
-    ### Save up to 50% on select products](https://www.bose.com/c/summer-sale "SHOP")
+    Save an extra 20% on Bose Certified Refurbished products with coupon code SUMMER20.
     
-     ![Bose SoundLink Flex Bluetooth Speaker​](https://assets.bosecreative.com/transform/1688bd78-50c2-4cb9-88a1-26d71a016279/SF_HP-PANEL-2_Summer-Sale_SL-Flex_v2?io=transform:fit,height:1000,width:1000&quality=95)
-    
-    Summer sale
-    
-    Catch a summer sound wave
-    -------------------------
-    
-    Save up to 50% on select products.
-    
-    [SHOP](https://www.bose.com/c/summer-sale "SHOP")
+    [SHOP](https://www.bose.com/c/refurbished "SHOP")
     
 
 * [Explore](#)
@@ -56,20 +51,20 @@ Back
     * [Turn The Dial](https://www.bose.com/stories/turn-the-dial-initiative)
     * [Bose Stories](https://www.bose.com/stories)
     
-     ![Bose x NME C24 with Teddy Swims, Laufey, and Artemas](https://assets.bosecreative.com/transform/c15c953b-abf0-45e9-960c-8d54465a8ff2/CTP-48214_NME_C24_Announce_SF_Nav_Flyout?io=transform:fit,height:1000,width:1000&io=overlay:box,color:000000,opacity:15&quality=95)
+     ![Exclusive gold-and-diamond encrusted pair of Bose Ultra Open Earbuds](https://assets.bosecreative.com/transform/3ab532d4-02b0-431a-8c82-c003ba599f51/VICTOR-SOLOMON-GIVEAWAY_NAV-FLYOUT-CLEAN?io=transform:fit,height:2000,width:2000&quality=95)
     
-    Dropping soon: Bose x NME C24 album
-    -----------------------------------
+    Crafting off-the-court culture
+    ------------------------------
     
-    From Teddy Swims to Laufey, get ready for new tracks from the next gen of music.
+    Literally Balling’s Victor Solomon reimagines the game in gold.
     
-    [LEARN MORE](https://www.bose.com/stories/c24-the-next-generation-of-music "LEARN MORE")
+    [EXPLORE](https://www.bose.com/stories/victor-solomon-earbuds-giveaway-details "EXPLORE")
     
 
 * [Support](#)
     
     * [Support homepage](https://support.bose.com/s/?language=en_US)
-    * [Troubleshooting](https://support.bose.com/s/guided-trouble-shooter-splash-page?language=en_US)
+    * [Troubleshooting](https://support.bose.com/s/bose/product-support-home?language=en_US)
     * [Order Tracking](https://www.bose.com/trackorder)
     * [Returns](https://www.bose.com/returns)
     * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
@@ -94,13 +89,7 @@ Back
 * [Contact](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/4088809613f142e/webimage-SF_HP-PANEL-Summer-Sale_SL-Flex_v2.png)
-
-Summer Sale
-
-### Save up to 50% on select products](https://www.bose.com/c/summer-sale "SHOP")
-
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw61b121f1/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwf3e05cc7/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
@@ -178,12 +167,12 @@ We are experiencing issues at this moment. Please try again later.
 
 ##### Customer Care Customer Care
 
-* [Troubleshooting](https://support.bose.com/s/guided-trouble-shooter-splash-page?language=en_US)
-* [Repair & Replacement](https://support.bose.com/s/guided-trouble-shooter-splash-page?language=en_US)
+* [Troubleshooting](https://support.bose.com/s/bose/product-support-home)
+* [Repair & Replacement](https://support.bose.com/s/guided-trouble-shooter-splash-page)
 * [Order Tracking](https://www.bose.com/trackorder)
 * [My Bose Sign In / Register](https://www.bose.com/my-account)
 * [Register Your Product](https://www.bose.com/product-registration)
-* [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
+* [Contact Us](https://support.bose.com/s/get-help-landing-page)
 
 ##### Our company Our company
 
@@ -213,7 +202,7 @@ We are experiencing issues at this moment. Please try again later.
 
 [Bose app](https://www.bose.com/apps/bose-app) [Bose Connect App](https://www.bose.com/apps/bose-connect)
 
-[](https://www.instagram.com/bose/)[](https://x.com/bose)[](https://www.facebook.com/Bose/)[](https://www.youtube.com/user/bose)[](https://tiktok.com/@bose)
+[](https://www.instagram.com/bose/)[](https://twitter.com/bose)[](https://www.facebook.com/Bose/)[](https://www.youtube.com/user/bose)
 
 [United States](https://global.bose.com/ "United States") | English
 
