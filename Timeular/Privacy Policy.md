@@ -125,13 +125,13 @@
     
     [See all](https://timeular.com/blog/)
     
-    [Resource Allocation 101: How Are Resources Allocated](https://timeular.com/blog/resource-allocation/)
+    [Team Effectiveness Models: Your Guide for 2024](https://timeular.com/blog/team-effectiveness/)
     
-    [10 Best Lawyer Time Tracking Software](https://timeular.com/blog/best-time-tracking-lawyers/)
+    [Why Is Time Management Important And How To Master It](https://timeular.com/blog/why-is-time-management-important/)
     
-    [Time Blocking: My Favorite Productivity Tool \[2024\]](https://timeular.com/blog/time-blocking/)
+    [22 Best Productivity Blogs You Need to Follow in 2024](https://timeular.com/blog/the-six-best-productivity-blogs-you-need-to-follow/)
     
-    [The 12 Best Productivity Podcasts You Should Listen To](https://timeular.com/blog/7-best-productivity-podcasts-you-need-to-listen-to/)
+    [10 Best Developer Productivity Tools for Efficient Work](https://timeular.com/blog/best-developer-productivity-tools/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Tracker](https://timeular.com/tracker/)
@@ -249,7 +249,7 @@ Support & Useful links
 * [Success Stories](https://timeular.com/success-stories/)
 * [Downloads](https://timeular.com/download/)
 * [Reviews](https://timeular.com/reviews/)
-* [Enterprise Time Tracking](https://timeular.com/enterprise-time-tracking/)
+* [Enterprise Time Tracking Software](https://timeular.com/enterprise-time-tracking/)
 
 General
 
