@@ -5,7 +5,6 @@ Navigation menu
 
 * [Ecosia Browser](https://www.ecosia.org/browser)
 * [Ecosia Search](https://www.ecosia.org/)
-* [Ecosia for Companies](https://companies.ecosia.org/)
 * [Privacy](https://www.ecosia.org/privacy)
 * [Gift trees](https://plant.ecosia.org/)
 * [Blog](https://blog.ecosia.org/)
@@ -20,7 +19,7 @@ We protect your privacy
 Find out the steps we take to keep your data safe
 -------------------------------------------------
 
-[Add to — it’s free](https://ecosia.helpscoutdocs.com/article/471-use-ecosia-on-your-desktop-row-markets)
+[Switch to Ecosia — it’s free](https://ecosia.helpscoutdocs.com/article/471-use-ecosia-on-your-desktop-row-markets)
 
 ![Ecosia - The search engine that plants trees](/static/legal-pages/assets/static/privacy.cbdab312.jpg)
 
