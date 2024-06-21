@@ -33,7 +33,7 @@ We won’t tell the internet sales people you purchased plates, we won’t even 
 
 ### Privacy Policy
 
-Effective DateJanuary 28, 2024
+Effective DateJune 19, 2024
 
 [Overview](#overview)[Important Definitions](#important-definitions)[What personal data do we collect and how do we collect it?](#what-personal-data-do-we-collect-and-how-do-we-collect-it)[Arc Max](#arc-max)[Browse for Me](#browse-for-me)[Under what conditions would we share your personal data?](#under-what-conditions-would-we-share-your-personal-data)[Why do we collect personal data?](#why-do-we-collect-personal-data)[How do we store and protect your data?](#how-do-we-store-and-protect-your-data)[Are there age limits to who can use the product?](#are-there-age-limits-to-who-can-use-the-product)[What are additional ways to enhance privacy online?](#what-are-additional-ways-to-enhance-privacy-online)[Changes to this Privacy Policy](#changes-to-this-privacy-policy)[How can you contact us?](#how-can-you-contact-us)
 
@@ -95,10 +95,13 @@ We do NOT use cookies to track visitors to our website. To measure site traffic,
 
 **Sharing features.** For some features of Arc, like Folders, you can optionally create arc.net links that allow you to share those objects with others. If you choose to opt in to share an object, data about that object (for example, the title of the folder and the URLs it contains) is automatically stored with our Service Provider, and the content will be viewable by anyone with the link. When someone opens this link, we collect anonymous statistics about their usage.
 
+**Sidebar sync.** If you choose to sync your sidebar via iCloud, data about your sidebar items will be sent to iCloud. iCloud sync is only available on macOS.  
+If you choose to sync your sidebar via Arc Sync, data about your sidebar items will be encrypted and sent to our cloud provider. This data is end-to-end encrypted, and no one except you can view it. [Learn more here](https://resources.arc.net/hc/en-us/articles/20272860828823-Arc-Sync).  
+You can switch from iCloud to Arc Sync, or turn syncing off, in the desktop app in Settings.
+
 **Third-party connections.** Some features of the Browser rely on third-party APIs (Application Programming Interfaces) for their functionality. In these instances, the Browser directly connects you with the third party. If you choose to use these features, the third party may receive certain data as detailed below. This data never passes through our servers, and we have no way of knowing its contents.
 
 * **Website translation:** If you choose to use the website translation feature, the text to be translated will be sent to the Google Translate API.
-* **Sidebar sync:** If you choose to sync your sidebar via iCloud, data about your sidebar items will be sent to iCloud. Sidebar sync is on by default when you install the Browser, and you can turn it off in the desktop app in Preferences > General.
 * **Search suggestions:** When you type search queries or URLs, the Browser fetches search suggestions from your default search engine. Search suggestions are on by default when you install the Browser. In the desktop app, you can change your default search engine or turn off search suggestions in Preferences > General. In the mobile app, the default search engine is Google and cannot be changed at this time.
 * **Google Calendar and Outlook Previews:** Previews allow you to glance at top sites without leaving your current tab. If you choose to connect your Google account to the Google Calendar Preview or Microsoft account to an Outlook preview, you will be prompted to sign in and grant certain permissions to Arc. If you allow access, Arc will read and display this information in the Preview. We do not store any of this information on our servers or use it for any other purpose. For Google, you can read more about this data in the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes).
 
