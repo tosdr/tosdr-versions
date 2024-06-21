@@ -50,7 +50,7 @@ Solutions
 
 [Prioritization](https://fibery.io/prioritization "Prioritization solution")
 
-[Feature specs creation](https://fibery.io/ideation "Feature specs creation ")
+[Feature specs creation](https://fibery.io/ideation "Feature specs creation")
 
 [Roadmapping](https://fibery.io/roadmapping "Roadmapping solution")
 
@@ -269,7 +269,7 @@ Solutions
 
 [Prioritization](https://fibery.io/prioritization "Prioritization solution")
 
-[Feature specs creation](https://fibery.io/ideation "Feature specs creation ")
+[Feature specs creation](https://fibery.io/ideation "Feature specs creation")
 
 [Roadmapping](https://fibery.io/roadmapping "Roadmapping solution")
 
