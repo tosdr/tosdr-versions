@@ -14,30 +14,33 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 * [Quickstart: Launch your app](https://fly.io/docs/getting-started/launch/)
 * [Launch a Demo App](https://fly.io/docs/getting-started/launch-demo)
+* [Choose a language or framework](https://fly.io/docs/getting-started/get-started-by-framework/)
 * [Fly.io Essentials](https://fly.io/docs/getting-started/essentials/)
 * [Troubleshooting Deployments](https://fly.io/docs/getting-started/troubleshooting/)
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
+* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 * [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
-* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
-* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
 * [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
+* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
+* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
 * [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
 * [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
 * [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
-* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
+* [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
 
-* [Run an Elixir App](https://fly.io/docs/elixir/getting-started)
-* [Run a Rails App](https://fly.io/docs/rails/getting-started/)
-* [Run a Laravel App](https://fly.io/docs/laravel/)
-* [Run a Django App](https://fly.io/docs/django/getting-started/)
-* [Run a JavaScript App](https://fly.io/docs/js/)
-* [Run a Rust App](https://fly.io/docs/rust/)
+* [Elixir](https://fly.io/docs/elixir/)
+* [Rails](https://fly.io/docs/rails/getting-started/)
+* [Laravel](https://fly.io/docs/laravel/)
+* [Django](https://fly.io/docs/django/getting-started/)
+* [JavaScript](https://fly.io/docs/js/)
+* [Rust](https://fly.io/docs/rust/)
+* [Python](https://fly.io/docs/python/)
+* [More...](https://fly.io/docs/languages-and-frameworks/)
 
 [Fly Machines](https://fly.io/docs/machines/) Toggle Fly Machines section
 
@@ -66,6 +69,7 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Scale Machine CPU and RAM](https://fly.io/docs/apps/scale-machine/)
 * [Scale the Number of Machines](https://fly.io/docs/apps/scale-count/)
 * [Auto Stop and Start Machines](https://fly.io/docs/apps/autostart-stop/)
+* [Autoscale Based on Metrics](https://fly.io/docs/apps/autoscale-by-metric/)
 * [Add Volume Storage](https://fly.io/docs/apps/volume-storage/)
 * [Restart Apps and Machines](https://fly.io/docs/apps/restart/)
 * [Run Multiple Processes in an App](https://fly.io/docs/apps/processes/)
