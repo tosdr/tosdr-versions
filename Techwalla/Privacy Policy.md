@@ -541,15 +541,6 @@ To determine the appropriate retention period for personal information, we consi
 
 If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified Privacy Notice takes effect. If you continue using the Services after the modified Privacy Notice takes effect, the modified Privacy Notice will govern any further processing of your personal data.
 
-Report an Issue
----------------
-
-Contact\*:  Severity\*: High Normal Low Description\*:
-
-Screenshot loading...
-
-Cancel Submit
-
 Thank you for subscribing!
 
 Know the latest by staying in touch. Enter your email for updates.
