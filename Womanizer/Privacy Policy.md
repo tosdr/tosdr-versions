@@ -47,11 +47,11 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         Liberty 2](https://www.womanizer.com/eu/liberty-2)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
     * [Marilyn Monroe™ Special Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
     * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
@@ -65,8 +65,8 @@ The store will not work correctly in the case when cookies are disabled.
     * [InsideOut](https://www.womanizer.com/eu/insideout)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
-    * [Classic - Muse Edition](https://www.womanizer.com/eu/classic-muse-edition)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [Classic - Muse Edition](https://www.womanizer.com/eu/classic-muse-edition)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
