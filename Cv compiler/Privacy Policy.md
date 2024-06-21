@@ -1035,6 +1035,18 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Senior Financial Analyst](https://cvcompiler.com/senior-financial-analyst-resume-examples)
 
+[Teacher Aide](https://cvcompiler.com/teacher-aide-resume-examples)
+
+[Math Teacher](https://cvcompiler.com/math-teacher-resume-examples)
+
+[Videographer](https://cvcompiler.com/videographer-resume-examples)
+
+[Entry-Level Engineering](https://cvcompiler.com/entry-level-engineering-resume-examples)
+
+[Loan Officer](https://cvcompiler.com/loan-officer-resume-examples)
+
+[HR Business Partner](https://cvcompiler.com/hr-business-partner-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
