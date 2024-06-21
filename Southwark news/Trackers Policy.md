@@ -19,41 +19,41 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Ark Globe Academy host the fair every year.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-11.39-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Giant-3x3m-screen2017-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
     
-    ### [Free family fair with a ‘mini-beach’ and chance to win a laptop in Elephant](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+    ### [Where to watch the Euros in south London](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
     
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Overground0901-1-360x180.jpeg)](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
     
-    ### [Southwark Council refers self to social housing watchdog over inadequate electrical safety checks](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
+    ### [London Overground: South-east London disruption this weekend](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
     
-    [![From left - Catherine Dawkins Green candidate, Aarti Joshi Tory candidate, Chris French Lib Dem candidate and Florence Eshalomi Labour candidate.](https://southwarknews.co.uk/wp-content/uploads/2024/06/From-left-Catherine-Dawkins-Green-candidate-Aarti-Joshi-Tory-candidate-Chris-French-Lib-Dem-candidate-and-Florence-Eshalomi-Labour-candidate-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
     
-    ### [Candidates for Vauxhall and Camberwell Green set out their views on housing crisis at Waterloo hustings](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
+    ### [Nunhead fire damages two properties](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
     
-    [![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+    [![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
     
-    ### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+    ### [Second man charged with Deptford murder](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
     
-    [![Glory says council contractors trashed her home after failing to fix her mould problem in 2020. Images: Glory Uhunarabona](https://southwarknews.co.uk/wp-content/uploads/2024/06/Glory-says-council-contractors-trashed-her-home-after-failing-to-fix-her-mould-problem-in-2020.-Images-Glory-Uhunarabona-2-360x180.png)](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+    [![L: Debra Holloway R: Professor Jane Davies](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-20-06-2024-at-07.39-360x180.jpg)](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
     
-    ### [Black mould left children with nosebleeds and repair workers did £4,000 damage in eight-year housing nightmare, Bermondsey mum says](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+    ### [Woman behind ‘revolutionary’ cystic fibrosis treatment among those on King’s Honours list](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
     
-    [![The team proudly sporting their new shirts.](https://southwarknews.co.uk/wp-content/uploads/2024/06/image-1-e1718703256591-360x180.jpeg)](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
+    [![The Feel Good Festival. Credit: Juliahawkins](https://southwarknews.co.uk/wp-content/uploads/2024/06/photo-by_Julia-Hawkins-360x180.jpg)](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
     
-    ### [Bermondsey football club chuffed after £3k donation](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
+    ### [Camberwell holding trio of free community festivals and events in July](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-image-360x180.png)](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+    [![Left: Okinawa Day, The Blue. Right: Ark Globe Academy Summer Fair.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
     
-    ### [New school meals programme to put healthy, locally-sourced food on Southwark children’s tables](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+    ### [What’s on this weekend: Bermondsey, South Bank, Elephant and Peckham](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/New-Scotland-Yard-360x180.jpg)](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
     
-    ### [Night Tube services during the ‘peak’ period after midnight could be boosted, Sadiq Khan has revealed](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
+    ### [Local police officer sacked after he sent 1,000 texts to his ex-girlfriend in three weeks](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
     
-    [![Sadiq Khan out on a police patrol in Covent Garden. Photo from Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/06/Sadiq-Khan-out-on-a-police-patrol-in-Covent-Garden.-Photo-from-Greater-London-Authority-360x180.jpg)](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
+    [![Part of the Holy Family Convent on Albert Square in Stockwell could be converted into flats. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Part-of-the-Holy-Family-Convent-on-Albert-Square-in-Stockwell-could-be-converted-into-flats.-Photo-from-Google-Street-View-360x180.jpg)](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
     
-    ### [Free legal advice service for victims of rape and serious sexual offences launched by Sadiq Khan](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
+    ### [Nuns set to turn convent into flats for key workers in one of South London’s most sought-after squares](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -95,41 +95,41 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Ark Globe Academy host the fair every year.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-11.39-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Giant-3x3m-screen2017-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
     
-    ### [Free family fair with a ‘mini-beach’ and chance to win a laptop in Elephant](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+    ### [Where to watch the Euros in south London](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
     
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Overground0901-1-360x180.jpeg)](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
     
-    ### [Southwark Council refers self to social housing watchdog over inadequate electrical safety checks](https://southwarknews.co.uk/area/southwark/southwark-council-refers-self-to-social-housing-watchdog-over-inadequate-electrical-safety-checks/)
+    ### [London Overground: South-east London disruption this weekend](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
     
-    [![From left - Catherine Dawkins Green candidate, Aarti Joshi Tory candidate, Chris French Lib Dem candidate and Florence Eshalomi Labour candidate.](https://southwarknews.co.uk/wp-content/uploads/2024/06/From-left-Catherine-Dawkins-Green-candidate-Aarti-Joshi-Tory-candidate-Chris-French-Lib-Dem-candidate-and-Florence-Eshalomi-Labour-candidate-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
     
-    ### [Candidates for Vauxhall and Camberwell Green set out their views on housing crisis at Waterloo hustings](https://southwarknews.co.uk/area/camberwell/candidates-for-vauxhall-and-camberwell-green-set-out-their-views-on-housing-crisis-at-waterloo-hustings/)
+    ### [Nunhead fire damages two properties](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
     
-    [![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+    [![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
     
-    ### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+    ### [Second man charged with Deptford murder](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
     
-    [![Glory says council contractors trashed her home after failing to fix her mould problem in 2020. Images: Glory Uhunarabona](https://southwarknews.co.uk/wp-content/uploads/2024/06/Glory-says-council-contractors-trashed-her-home-after-failing-to-fix-her-mould-problem-in-2020.-Images-Glory-Uhunarabona-2-360x180.png)](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+    [![L: Debra Holloway R: Professor Jane Davies](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-20-06-2024-at-07.39-360x180.jpg)](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
     
-    ### [Black mould left children with nosebleeds and repair workers did £4,000 damage in eight-year housing nightmare, Bermondsey mum says](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+    ### [Woman behind ‘revolutionary’ cystic fibrosis treatment among those on King’s Honours list](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
     
-    [![The team proudly sporting their new shirts.](https://southwarknews.co.uk/wp-content/uploads/2024/06/image-1-e1718703256591-360x180.jpeg)](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
+    [![The Feel Good Festival. Credit: Juliahawkins](https://southwarknews.co.uk/wp-content/uploads/2024/06/photo-by_Julia-Hawkins-360x180.jpg)](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
     
-    ### [Bermondsey football club chuffed after £3k donation](https://southwarknews.co.uk/news/community/bermondsey-football-club-chuffed-after-3k-donation/)
+    ### [Camberwell holding trio of free community festivals and events in July](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-image-360x180.png)](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+    [![Left: Okinawa Day, The Blue. Right: Ark Globe Academy Summer Fair.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
     
-    ### [New school meals programme to put healthy, locally-sourced food on Southwark children’s tables](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+    ### [What’s on this weekend: Bermondsey, South Bank, Elephant and Peckham](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/New-Scotland-Yard-360x180.jpg)](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
     
-    ### [Night Tube services during the ‘peak’ period after midnight could be boosted, Sadiq Khan has revealed](https://southwarknews.co.uk/area/london/night-tube-services-during-the-peak-period-after-midnight-could-be-boosted-sadiq-khan-has-revealed/)
+    ### [Local police officer sacked after he sent 1,000 texts to his ex-girlfriend in three weeks](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
     
-    [![Sadiq Khan out on a police patrol in Covent Garden. Photo from Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/06/Sadiq-Khan-out-on-a-police-patrol-in-Covent-Garden.-Photo-from-Greater-London-Authority-360x180.jpg)](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
+    [![Part of the Holy Family Convent on Albert Square in Stockwell could be converted into flats. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Part-of-the-Holy-Family-Convent-on-Albert-Square-in-Stockwell-could-be-converted-into-flats.-Photo-from-Google-Street-View-360x180.jpg)](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
     
-    ### [Free legal advice service for victims of rape and serious sexual offences launched by Sadiq Khan](https://southwarknews.co.uk/area/london/free-legal-advice-service-for-victims-of-rape-and-serious-sexual-offences-launched-by-sadiq-khan/)
+    ### [Nuns set to turn convent into flats for key workers in one of South London’s most sought-after squares](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -221,41 +221,41 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
-[![Ark Globe Academy host the fair every year.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-11.39-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Giant-3x3m-screen2017-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
 
-### [Free family fair with a ‘mini-beach’ and chance to win a laptop in Elephant](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+### [Where to watch the Euros in south London](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
 
-[19th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/free-family-fair-with-a-mini-beach-and-chance-to-win-a-laptop-in-elephant/)
+[20th June 2024](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
 
-[![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Overground0901-1-120x86.jpeg)](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
 
-### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+### [London Overground: South-east London disruption this weekend](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
 
-[18th June 2024](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+[20th June 2024](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
 
-[![Glory says council contractors trashed her home after failing to fix her mould problem in 2020. Images: Glory Uhunarabona](https://southwarknews.co.uk/wp-content/uploads/2024/06/Glory-says-council-contractors-trashed-her-home-after-failing-to-fix-her-mould-problem-in-2020.-Images-Glory-Uhunarabona-2-120x86.png)](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+[![(Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/06/651A8373-120x86.jpg)](https://southwarknews.co.uk/area/southwark/free-food-and-holiday-clubs-for-kids-in-southwark-this-summer/)
 
-### [Black mould left children with nosebleeds and repair workers did £4,000 damage in eight-year housing nightmare, Bermondsey mum says](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+### [Free food and holiday clubs for kids in Southwark this summer](https://southwarknews.co.uk/area/southwark/free-food-and-holiday-clubs-for-kids-in-southwark-this-summer/)
 
-[18th June 2024](https://southwarknews.co.uk/area/bermondsey/black-mould-left-children-with-nosebleeds-and-repair-workers-did-4000-damage-in-eight-year-housing-nightmare-bermondsey-mum-says/)
+[20th June 2024](https://southwarknews.co.uk/area/southwark/free-food-and-holiday-clubs-for-kids-in-southwark-this-summer/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-image-120x86.png)](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+[![L: Debra Holloway R: Professor Jane Davies](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-20-06-2024-at-07.39-120x86.jpg)](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
 
-### [New school meals programme to put healthy, locally-sourced food on Southwark children’s tables](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+### [Woman behind ‘revolutionary’ cystic fibrosis treatment among those on King’s Honours list](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
 
-[18th June 2024](https://southwarknews.co.uk/area/southwark/new-school-meals-programme-to-put-healthy-locally-sourced-food-on-southwark-childrens-tables/)
+[20th June 2024](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
 
-[![Parents gathered with placards outside Comber Grove Primary School](https://southwarknews.co.uk/wp-content/uploads/2023/11/Parents-gathered-with-placards-outside-Comber-Grove-Primary-School-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
+[![Left: Okinawa Day, The Blue. Right: Ark Globe Academy Summer Fair.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-13.42-120x86.jpg)](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
 
-### [Fourth primary school in two years is set to shut its doors in Southwark](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
+### [What’s on this weekend: Bermondsey, South Bank, Elephant and Peckham](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
 
-[17th June 2024](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
+[19th June 2024](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
 
-[![Eze's mum, dad and family members proudly stand by their son's mural. (credit: Kirby Estate)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-17-06-2024-at-11.23-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
+[![Peter Wisby returned to the estate to tell the story of the post-Blitz Kiddies' Party (inset) of 1946](https://southwarknews.co.uk/wp-content/uploads/2024/06/Peter-Wisby-returned-to-the-estate-to-tell-the-story-of-the-post-Blitz-Kiddies-Party-inset-of-1946-e1718722979519-120x86.png)](https://southwarknews.co.uk/area/bermondsey/the-kirby-has-always-been-patriotic-war-baby-remembers-the-england-loving-estates-post-blitz-party/)
 
-### [Eberechi Eze’s whole family visit his mural on the Kirby Estate](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
+### [‘The Kirby has always been patriotic’: War baby remembers the England-loving estate’s post-Blitz party](https://southwarknews.co.uk/area/bermondsey/the-kirby-has-always-been-patriotic-war-baby-remembers-the-england-loving-estates-post-blitz-party/)
 
-[17th June 2024](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
+[19th June 2024](https://southwarknews.co.uk/area/bermondsey/the-kirby-has-always-been-patriotic-war-baby-remembers-the-england-loving-estates-post-blitz-party/)
 
 ### USEFUL PAGES
 
