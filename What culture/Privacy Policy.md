@@ -403,15 +403,15 @@ More Company Information
 * [Advertise](https://whatculture.com/advertising)
 * [Contact](https://whatculture.com/contact-us)
 
-WhatCulture is part of Future plc, an international media group and leading digital publisher. [Visit our corporate site](https://www.futureplc.com/) (opens in new tab).
+WhatCulture is part of Future plc, an international media group and leading digital publisher. [Visit our corporate site](https://futureplc.com/) (opens in new tab).
 
 * [About Us](https://whatculture.com/about-us) (opens in new tab)
 * [Contact Us](https://whatculture.com/contact-us) (opens in new tab)
-* [Terms and conditions](https://www.futureplc.com/terms-conditions/) (opens in new tab)
-* [Privacy policy](https://www.futureplc.com/privacy-policy/) (opens in new tab)
-* [Cookies policy](https://www.futureplc.com/cookies-policy/) (opens in new tab)
-* [Accessibility Statement](https://www.futureplc.com/accessibility-statement/)
-* [Careers](https://www.futureplc.com/careers/) (opens in new tab)
+* [Terms and conditions](https://futureplc.com/terms-conditions/) (opens in new tab)
+* [Privacy policy](https://futureplc.com/privacy-policy/) (opens in new tab)
+* [Cookies policy](https://futureplc.com/cookies-policy/) (opens in new tab)
+* [Accessibility Statement](https://futureplc.com/accessibility-statement/)
+* [Careers](https://futureplc.com/careers/) (opens in new tab)
 * [GDPR consent](#)
 
 ©Future Publishing Limited Quay House, The Ambury, Bath BA1 1UA. All rights reserved. England and Wales company registration number 2008885.
