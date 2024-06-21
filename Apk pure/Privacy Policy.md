@@ -178,19 +178,19 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
-
-Instagram
-
-6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
 
 TikTok
 
-8.2](https://apkpure.com/tiktok-musically/com.zhiliaoapp.musically "TikTok")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
+8.2](https://apkpure.com/tiktok-musically-2024/com.zhiliaoapp.musically "TikTok")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
 
-YouTube
+CapCut - Video Editor
 
-7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
+
+Instagram
+
+6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
 
 Free Fire
 
@@ -202,11 +202,11 @@ Roblox
 
 Free Fire MAX
 
-8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![Clash of Clans icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Clash of Clans")
+8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
 
-Clash of Clans
+eFootball 2024
 
-9.1](https://apkpure.com/clash-of-clans-android/com.supercell.clashofclans "Clash of Clans")
+8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")
 
 ![APKPure](https://static.apkpure.com/www/static/imgs/logo_new.png)
 
@@ -272,7 +272,7 @@ EN
 * WhatsApp
 * More
 
-                     
+                    
 
 Subscribe to APKPure
 
