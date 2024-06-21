@@ -176,8 +176,6 @@ Sorting
 
 [Trustpilot](https://www.skatedeluxe.ch/%E2%80%8Bhttps:/uk.trustpilot.com/review/skatedeluxe.com)
 
-[](#)
-
 Terms and Conditions
 ====================
 
