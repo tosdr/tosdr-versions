@@ -130,9 +130,9 @@ If you have any additional questions or concerns about this Policy, please feel 
 
 ★★★★★
 
-Implementing this system has helped to decrease the number of total attacks against our customers by about 40 percent.
+ThreatSTOP works great. We are attacked every day and it stops them. It gives me the warm and fuzzies that I am protected. It's well worth every penny.
 
-Chris Drake - Founder/CTO, FireHost
+Richard Gaustad - VP & CIO
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
