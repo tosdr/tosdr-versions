@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/1/csm_fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024_dfd7893ec2.jpg)
+   [![Defesa Civil de Maceió interdita quatro casas após colapso na grota do Aterro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_Defesa_Civil_interdicao_casas__grota_do_Aterro_-_foto_Defesa_Civil_a51c3877f3.jpeg)
 
-165 mil pessoas
+novo mundo
 
-Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://www.tnh1.com.br/noticia/nid/fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024/ "Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024")   [![Vídeo: caminhão atinge poste e derruba fiação na orla lagunar de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/06/18/acidente_caminhao_poste_-_vergel_-_reproducao_video.jpg)
-
-no vergel
-
-Vídeo: caminhão atinge poste e derruba fiação na orla lagunar de Maceió](https://www.tnh1.com.br/noticia/nid/video-caminhao-atinge-poste-e-derruba-fiacao-na-orla-lagunar-de-maceio/ "Vídeo: caminhão atinge poste e derruba fiação na orla lagunar de Maceió")   [![Ônibus do Sine-AL estará no Jaraguá nesta terça-feira, 18](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_onibus-do-sine-al-estara-no-jaragua-nesta-terca-feira_f058d3f3ea.jpeg)
-
-Mercado de Trabalho
-
-Ônibus do Sine-AL estará no Jaraguá nesta terça-feira, 18](https://www.tnh1.com.br/noticia/nid/onibus-do-sine-al-estara-no-jaragua-nesta-terca-feira-18/ "Ônibus do Sine-AL estará no Jaraguá nesta terça-feira, 18")   [![Lama Padma Samten faz primeiro retiro budista em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/7/csm_budismo_598a716ea0.jpg)
-
-Espiritualidade
-
-Lama Padma Samten faz primeiro retiro budista em Maceió](https://www.tnh1.com.br/noticia/nid/lama-padma-samten-faz-primeiro-retiro-budista-em-maceio/ "Lama Padma Samten faz primeiro retiro budista em Maceió")   [![Prefeitura de Maceió antecipa salário do mês de junho ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/2/csm_dinheiro_Marcello_Casal_Jr_Agencia_Brasil_7dd0e8b48c.jpg)
+Defesa Civil de Maceió interdita quatro casas após colapso na grota do Aterro](https://www.tnh1.com.br/noticia/nid/defesa-civil-de-maceio-interdita-quatro-casas-apos-colapso-na-grota-do-aterro/ "Defesa Civil de Maceió interdita quatro casas após colapso na grota do Aterro")   [![São João Maceió: pode levar guarda-chuva e capacete? Veja itens proibidos no Jaraguá](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_Sao_Joao_de_Maceio_-_foto_Secom_Maceio_7147d6c6ae.jpeg)
 
 Maceió
 
-Prefeitura de Maceió antecipa salário do mês de junho](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-do-mes-de-junho/ "Prefeitura de Maceió antecipa salário do mês de junho ")   [![Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/3/csm_Vigilancia_Sanitaria_apreende_80_kg_de_alimentos_estragados_no_Jacintinho_-_foto_VISA_6_5698509dab.jpeg)
+São João Maceió: pode levar guarda-chuva e capacete? Veja itens proibidos no Jaraguá](https://www.tnh1.com.br/noticia/nid/sao-joao-maceio-pode-levar-guarda-chuva-e-capacete-veja-itens-proibidos-no-jaragua/ "São João Maceió: pode levar guarda-chuva e capacete? Veja itens proibidos no Jaraguá")   [![Descarte de fardamentos: IMA deve multar empresa e Polícia quer ouvir os responsáveis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_Policia_vai_a_local_de_descarte_de_fardamentos_no_lixo_reproducao_TV_Pajucara_0e29873733.jpg)
 
-Maceió
+Meio Ambiente
 
-Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Jacintinho](https://www.tnh1.com.br/noticia/nid/fiscalizacao-apreende-80-kg-de-carne-queijo-e-mais-alimentos-estragados-no-jacintinho/ "Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Jacintinho")
+Descarte de fardamentos: IMA deve multar empresa e Polícia quer ouvir os responsáveis](https://www.tnh1.com.br/noticia/nid/descarte-de-fardamentos-ima-deve-multar-empresa-e-policia-quer-ouvir-os-responsaveis/ "Descarte de fardamentos: IMA deve multar empresa e Polícia quer ouvir os responsáveis")   [![São João vai interditar trânsito em 14 pontos de Maceió; veja rotas alternativas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/6/csm_30-06-23-Sao-Joao-Benedito-Bentes-DMTT-Por-Evinho-Silva-57_783098300d.jpg)
+
+Trânsito
+
+São João vai interditar trânsito em 14 pontos de Maceió; veja rotas alternativas](https://www.tnh1.com.br/noticia/nid/sao-joao-vai-interditar-transito-em-14-pontos-de-maceio-veja-rotas-alternativas/ "São João vai interditar trânsito em 14 pontos de Maceió; veja rotas alternativas")   [![Boto cinza encalha e morre na praia de Garça Torta, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_boto_encontrado_morto_-_biota_f65f88fd31.jpg)
+
+achado em areia
+
+Boto cinza encalha e morre na praia de Garça Torta, em Maceió](https://www.tnh1.com.br/noticia/nid/boto-cinza-encalha-e-morre-na-praia-de-garca-torta-em-maceio/ "Boto cinza encalha e morre na praia de Garça Torta, em Maceió")   [![São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; veja linhas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_Prefeito_JHC_Sao_Joao_Massayo_0a98ea15d6.jpeg)
+
+começa sábado
+
+São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; veja linhas](https://www.tnh1.com.br/noticia/nid/sao-joao-massayo-tera-onibus-gratuitos-para-jaragua-e-benedito-bentes-veja-linhas/ "São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; veja linhas")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Fiscalização apreende 80 kg de carne, queijo e mais alimentos estragados no Ja
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Menina que acertou números da Mega é "sortuda" e previu que ganharia o prêmio](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/06/18/mega-sena-numeros-menina-sortuda-reproducao-agencia-brasil.jpg)
+   [![Novo posto de atendimento do Instituto de Identificação é inaugurado em Paripueira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_posto_de_atendimento_instituto_de_identificacao_secom_alagoas_3de53d1d41.jpg)
 
-Interior
+nesta quinta (20)
 
-Menina que acertou números da Mega é "sortuda" e previu que ganharia o prêmio](https://www.tnh1.com.br/noticia/nid/menina-que-acertou-numeros-da-mega-e-sortuda-e-previu-que-ganharia-o-premio/ "Menina que acertou números da Mega é "sortuda" e previu que ganharia o prêmio")   [![Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/5/csm_corpo-encontrado-em-sao-sebastiao-passara-por-exame-de-dna-na-policia-cientifica_6ed67ce950.jpg)
+Novo posto de atendimento do Instituto de Identificação é inaugurado em Paripueira](https://www.tnh1.com.br/noticia/nid/novo-posto-de-atendimento-do-instituto-de-identificacao-e-inaugurado-em-paripueira/ "Novo posto de atendimento do Instituto de Identificação é inaugurado em Paripueira")   [![Quatro pessoas tentam tirar registro de educação física com diplomas falsos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/d/csm_educacao_fisica_freepik_1955cf5b0e.jpg)
 
-Polícia
+em alagoas
 
-Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-encontrado-em-sao-sebastiao-ainda-nao-foi-reconhecido-oficialmente/ "Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente")   [![Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/1/csm_fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024_dfd7893ec2.jpg)
+Quatro pessoas tentam tirar registro de educação física com diplomas falsos](https://www.tnh1.com.br/noticia/nid/quatro-pessoas-tentam-tirar-registro-de-educacao-fisica-com-diplomas-falsos/ "Quatro pessoas tentam tirar registro de educação física com diplomas falsos")   [![Alagoas é o 2º estado do Nordeste com mais tremores de terra em 2024, aponta LabSis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/f/csm_ultimo_tremor_em_al_d1ca29bc1c.jpeg)
 
-165 mil pessoas
+veja total
 
-Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024](https://www.tnh1.com.br/noticia/nid/fluxo-de-passageiros-no-aeroporto-zumbi-dos-palmares-cresceu-85-nos-primeiros-5-meses-de-2024/ "Fluxo de passageiros no aeroporto Zumbi dos Palmares cresceu 8,5% nos primeiros 5 meses de 2024")   [![Comando de Aviação do Estado alerta para uso de lasers contra aeronaves; entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/8/csm_laser_contra_aeronave_mcz_79652fcc5f.jpg)
+Alagoas é o 2º estado do Nordeste com mais tremores de terra em 2024, aponta LabSis](https://www.tnh1.com.br/noticia/nid/alagoas-e-o-2o-estado-do-nordeste-com-mais-tremores-de-terra-em-2024-aponta-labsis/ "Alagoas é o 2º estado do Nordeste com mais tremores de terra em 2024, aponta LabSis")   [![Saiba quais são os perigos das fumaças de fogueiras e fogos de artifício](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/b/csm_pneumologista-do-hge-alerta-para-o-perigo-das-fumacas-de-fogueiras-e-fogos-de-artificio_2e695f18a8.jpg)
 
-alto risco
+Alagoas
 
-Comando de Aviação do Estado alerta para uso de lasers contra aeronaves; entenda](https://www.tnh1.com.br/noticia/nid/comando-de-aviacao-do-estado-alerta-para-uso-de-lasers-contra-aeronaves-entenda/ "Comando de Aviação do Estado alerta para uso de lasers contra aeronaves; entenda")   [![Menina de 11 anos acerta números da Mega-Sena, mas pais esquecem de pagar o jogo; saiba 'bolada' que ela levaria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/4/csm_csm_mega_sena_mcajr_abr__358ae72823_ecab1b14ad.jpg)
+Saiba quais são os perigos das fumaças de fogueiras e fogos de artifício](https://www.tnh1.com.br/noticia/nid/saiba-quais-sao-os-perigos-das-fumacas-de-fogueiras-e-fogos-de-artificio/ "Saiba quais são os perigos das fumaças de fogueiras e fogos de artifício")   [![Prazos processuais serão suspensos a partir desta sexta; entenda o recesso da Justiça ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_Forum_Tribunal_de_Justica_-_foto_Caio_Loureiro_-_TJAL_3d7b0685cd.jpg)
 
-interior de AL
+regime de plantão
 
-Menina de 11 anos acerta números da Mega-Sena, mas pais esquecem de pagar o jogo; saiba 'bolada' que ela levaria](https://www.tnh1.com.br/noticia/nid/menina-de-11-anos-acerta-numeros-da-mega-sena-mas-pais-esquecem-de-pagar-o-jogo-saiba-bolada-que-ela-levaria/ "Menina de 11 anos acerta números da Mega-Sena, mas pais esquecem de pagar o jogo; saiba 'bolada' que ela levaria")   [![Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/b/csm_pai_preso_estupro_6974e5e8d9.png)
+Prazos processuais serão suspensos a partir desta sexta; entenda o recesso da Justiça](https://www.tnh1.com.br/noticia/nid/prazos-processuais-serao-suspensos-a-partir-desta-sexta-entenda-o-recesso-da-justica/ "Prazos processuais serão suspensos a partir desta sexta; entenda o recesso da Justiça ")   [![Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tema de oficina](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_Destaladeiras_de_fumo_de_Arapiraca__Reproduc__a__o_TVBrasil_6733ab5c23.jpeg)
 
-interior de AL
+Alagoas
 
-Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso](https://www.tnh1.com.br/noticia/nid/menina-de-13-anos-denuncia-que-foi-estuprada-pelo-pai-homem-foi-preso/ "Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso ")
+Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tema de oficina](https://www.tnh1.com.br/noticia/nid/os-canticos-das-destaladeiras-de-fumo-e-coco-de-roda-cultura-do-agreste-e-tema-de-oficina/ "Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tema de oficina")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Menina de 13 anos denuncia que foi estuprada pelo pai; homem foi preso](https://
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Game Over: polícia apreende mais um carro de luxo de influenciador suspeito de promover "Jogo do Tigrinho"](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/5/csm_Range_Rover_Apreendida_f6f35000ee.jpg)
+   [!["Terminar o serviço": suspeito de ameaçar a ex-mulher e jogar carro contra ela é preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_csm_viatura_Policia_Civil_AL_6cb24d60b2__2__0e1eae4be8.jpeg)
 
-Polícia
+em pilar
 
-Game Over: polícia apreende mais um carro de luxo de influenciador suspeito de promover "Jogo do Tigrinho"](https://www.tnh1.com.br/noticia/nid/game-over-policia-apreende-mais-um-carro-de-luxo-de-influenciador-suspeito-de-promover-jogo-do-tigrinho/ "Game Over: polícia apreende mais um carro de luxo de influenciador suspeito de promover "Jogo do Tigrinho"")   [![Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-homem-executado-tiros-junqueiro-reproducao_84d20a8927.jpg)
+"Terminar o serviço": suspeito de ameaçar a ex-mulher e jogar carro contra ela é preso](https://www.tnh1.com.br/noticia/nid/terminar-o-servico-suspeito-de-ameacar-a-ex-mulher-e-jogar-carro-contra-ela-e-preso/ ""Terminar o serviço": suspeito de ameaçar a ex-mulher e jogar carro contra ela é preso")   [![Motorista é preso por receptação e alega que patrão comprou carro roubado um dia antes, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/b/csm_apreensao_jetta_prf_109924b646.jpeg)
 
-PERTO DE CASA
+Parado em BR
 
-Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro](https://www.tnh1.com.br/noticia/nid/blogueiro-e-assassinado-a-tiros-dentro-de-veiculo-na-zona-rural-de-junqueiro/ "Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ")   [![Armas e drogas são apreendidas pela polícia em três municípios de Alagoas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/e/csm_apreensao-armas-drogas-reproducao_894e11ad2c.jpg)
+Motorista é preso por receptação e alega que patrão comprou carro roubado um dia antes, em Alagoas](https://www.tnh1.com.br/noticia/nid/motorista-e-preso-por-receptacao-e-alega-que-patrao-comprou-carro-roubado-um-dia-antes-em-alagoas/ "Motorista é preso por receptação e alega que patrão comprou carro roubado um dia antes, em Alagoas")   [![Idosa morre ao sofrer golpe de machado na cabeça no interior de Alagoas; marido fugiu](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_casa_idosa_morte_novo_lino_-_foto_ascom_pc_f24d2d952f.jpeg)
 
-Maceió e interior
+novo lino
 
-Armas e drogas são apreendidas pela polícia em três municípios de Alagoas](https://www.tnh1.com.br/noticia/nid/armas-e-drogas-sao-apreendidas-pela-policia-em-tres-municipios-de-alagoas/ "Armas e drogas são apreendidas pela polícia em três municípios de Alagoas ")   [![Homem é preso após furtar carnes, queijos do reino e desodorantes em supermercado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/4/csm_ronda-no-bairro-atua-em-caso-de-furto-de-produtos-em-supermercado_dac05cb423.jpg)
+Idosa morre ao sofrer golpe de machado na cabeça no interior de Alagoas; marido fugiu](https://www.tnh1.com.br/noticia/nid/idosa-morre-ao-sofrer-golpe-de-machado-na-cabeca-no-interior-de-alagoas-marido-fugiu/ "Idosa morre ao sofrer golpe de machado na cabeça no interior de Alagoas; marido fugiu")   [![Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/6/csm_livia_loise_-_foto_reproducao_arquivo_pessoal_7947bc9cf0.jpg)
 
-em Cruz das Almas
+pancada na cabeça
 
-Homem é preso após furtar carnes, queijos do reino e desodorantes em supermercado](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-furtar-carnes-queijos-do-reino-e-desodorantes-em-supermercado/ "Homem é preso após furtar carnes, queijos do reino e desodorantes em supermercado")   [![Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/5/csm_corpo-encontrado-em-sao-sebastiao-passara-por-exame-de-dna-na-policia-cientifica_6ed67ce950.jpg)
+Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://www.tnh1.com.br/noticia/nid/crime-ou-acidente-policia-investiga-queda-de-coqueiro-que-matou-empresaria-em-alagoas/ "Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas")   [![Suspeitos de furto levam objetos de buffet em sacolas, mas são localizados e presos em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/5/csm_csm_csm_csm_Delegacia_de_Palmeira_dos_Indios__Ascom_PC_ed2fb4d399_9d45e2e29c_2996738e71_f8bd69d312.jpg)
 
-Polícia
+No Agreste
 
-Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-encontrado-em-sao-sebastiao-ainda-nao-foi-reconhecido-oficialmente/ "Corpo de jovem encontrado em São Sebastião ainda não foi reconhecido oficialmente")   [![Vídeo: 201 hidrômetros são furtados de residências em Maceió; saiba o que fazer](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_furto_hidrometros_-_foto_reproducao_video_08fdce2aec.jpg)
+Suspeitos de furto levam objetos de buffet em sacolas, mas são localizados e presos em Alagoas](https://www.tnh1.com.br/noticia/nid/suspeitos-de-furto-levam-objetos-de-buffet-em-sacolas-mas-sao-localizados-e-presos-em-alagoas/ "Suspeitos de furto levam objetos de buffet em sacolas, mas são localizados e presos em Alagoas")   [![Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Campo Alegre](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_apreensao_moto_ascom_pc-al_19f5c017e8.jpg)
 
-suspeito foi filmado
+moto apreendida
 
-Vídeo: 201 hidrômetros são furtados de residências em Maceió; saiba o que fazer](https://www.tnh1.com.br/noticia/nid/video-201-hidrometros-sao-furtados-de-residencias-em-maceio-saiba-o-que-fazer/ "Vídeo: 201 hidrômetros são furtados de residências em Maceió; saiba o que fazer")
+Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Campo Alegre](https://www.tnh1.com.br/noticia/nid/homem-e-preso-e-menor-e-apreendido-por-matarem-jovem-na-frente-de-filha-em-campo-alegre/ "Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Campo Alegre")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -198,73 +198,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[!['Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_corvette_apreendido_reproducao_video_e97175f74b.jpg)
+[![Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_policia-cientifica-identifica-arma-usada-em-crime-contra-blogueiro-de-junqueiro_-_foto_Policia_Cientifica_20ffd1180f.jpeg)
 
-corvette e pajero
+Polícia
 
-corvette e pajero
+Polícia
 
-'Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto
+Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça
 
-'Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto](https://www.tnh1.com.br/noticia/nid/jogo-do-tigrinho-mais-dois-carros-de-luxo-de-influenciadores-sao-apreendidos-em-aeroporto/ "'Jogo do Tigrinho': mais dois carros de luxo de influenciadores são apreendidos em aeroporto")[!["Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_Avo_detalha_divida_do_neto_no_jogo_do_Tigrinho_-_foto_Reproducao_PCAL_a2c3a661ec.jpg)
+Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça](https://www.tnh1.com.br/noticia/nid/blogueiro-foi-assassinado-com-quatro-tiros-de-pistola-9-milimetros-na-cabeca/ "Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça")[![Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/6/csm_livia_loise_-_foto_reproducao_arquivo_pessoal_03f9630552.jpg)
 
-veja vídeo
+pancada na cabeça
 
-veja vídeo
+pancada na cabeça
 
-"Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'
+Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas
 
-"Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'](https://www.tnh1.com.br/noticia/nid/minha-familia-desmoronou-o-drama-da-avo-que-viu-o-neto-perder-r-400-mil-no-jogo-do-tigrinho/ ""Minha família desmoronou": o drama da avó que viu o neto perder R$ 400 mil no 'Jogo do Tigrinho'")[![Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/6/csm_Presos_suspeitos_assalto_imoveis_de_luxo_-_foto_Reproducao_PCAL_571de2f514.jpg)
+Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://www.tnh1.com.br/noticia/nid/crime-ou-acidente-policia-investiga-queda-de-coqueiro-que-matou-empresaria-em-alagoas/ "Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas")[![Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo" ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/c/csm_prefeito_de_junqueiro_ac209d5f78.jpg)
 
-em alagoas
+na rede social
 
-em alagoas
+na rede social
 
-Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês
+Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo"
 
-Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês](https://www.tnh1.com.br/noticia/nid/grupo-que-planejava-assaltar-casas-de-luxo-de-empresarios-e-autoridades-e-preso-em-pousada-no-frances/ "Grupo que planejava assaltar casas de luxo de empresários e autoridades é preso em pousada no Francês")[![Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-homem-executado-tiros-junqueiro-reproducao_34a494bee1.jpg)
+Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo"](https://www.tnh1.com.br/noticia/nid/prefeito-de-junqueiro-nega-motivacao-politica-em-morte-de-blogueiro-nao-era-amigo-nem-inimigo/ "Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo" ")[![Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_fardamentos-uniformes-descarte-irregular-TV-Pajucara_db9348b0ad.jpeg)
 
-PERTO DE CASA
+descarte irregular
 
-PERTO DE CASA
+descarte irregular
 
-Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro
+Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió
 
-Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro](https://www.tnh1.com.br/noticia/nid/blogueiro-e-assassinado-a-tiros-dentro-de-veiculo-na-zona-rural-de-junqueiro/ "Blogueiro é assassinado a tiros dentro de veículo na zona rural de Junqueiro ")
+Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió](https://www.tnh1.com.br/noticia/nid/fotos-e-videos-fardamentos-de-ao-menos-15-municipios-alagoanos-sao-encontrados-dentro-de-lixeira-em-maceio/ "Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió ")
 
-[![Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/b/csm_manhattan-skyline__2__035478cd5e.jpg)
+[![Mãe é picada por formiga que gera a maior dor causada por um inseto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_picada-formiga-reproducao-arquivo-pessoal_ab74b030ee.jpg)
 
-“risco significativo”
+dor intensa
 
-“risco significativo”
+dor intensa
 
-Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor
+Mãe é picada por formiga que gera a maior dor causada por um inseto
 
-Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor](https://www.tnh1.com.br/noticia/nid/moradores-de-nova-york-receberao-ar-condicionado-gratis-em-meio-a-onda-de-calor/ "Moradores de Nova York receberão ar-condicionado grátis em meio a onda de calor")[![Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_rb-leo-pereira-foto-divulgacao_2f229eb21d.png)
+Mãe é picada por formiga que gera a maior dor causada por um inseto](https://www.tnh1.com.br/noticia/nid/mae-e-picada-por-formiga-que-gera-a-maior-dor-causada-por-um-inseto/ "Mãe é picada por formiga que gera a maior dor causada por um inseto")[![Brasil poderá exportar óleo de cozinha usado para os EUA](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_oleo-cozinha-usado-reproducao_51920ef28e.png)
 
-SÉRIE B
+matéria-prima
 
-SÉRIE B
+matéria-prima
 
-Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols
+Brasil poderá exportar óleo de cozinha usado para os EUA
 
-Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols](https://www.tnh1.com.br/noticia/nid/em-segundo-tempo-quente-paysandu-e-crb-empatam-por-1-a-1-veja-os-gols/ "Em segundo tempo quente, Paysandu e CRB empatam por 1 a 1; veja os gols")[![Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/f/csm_aimee_betro_reproducao__1__f55029f22c.jpg)
+Brasil poderá exportar óleo de cozinha usado para os EUA](https://www.tnh1.com.br/noticia/nid/brasil-podera-exportar-oleo-de-cozinha-usado-para-os-eua/ "Brasil poderá exportar óleo de cozinha usado para os EUA")[![Microplásticos são encontrados em pênis humanos pela primeira vez; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_microplasticos-reproducao-freepik_1ddc29bb87.jpg)
 
-segundo jornal
+polímeros
 
-segundo jornal
+polímeros
 
-Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido
+Microplásticos são encontrados em pênis humanos pela primeira vez; entenda
 
-Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido](https://www.tnh1.com.br/noticia/nid/quem-e-aimee-betro-norte-americana-foragida-acusada-de-ser-assassina-de-aluguel-no-reino-unido/ "Quem é Aimee Betro, norte-americana foragida acusada de ser assassina de aluguel no Reino Unido")[![Rafa Kalimann rebate críticas por mudar texto de novela](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/9/csm_Rafa_Kalimann_-_foto_Reproducao_Instagram_d3ded57427.jpg)
+Microplásticos são encontrados em pênis humanos pela primeira vez; entenda](https://www.tnh1.com.br/noticia/nid/microplasticos-sao-encontrados-em-penis-humanos-pela-primeira-vez-entenda/ "Microplásticos são encontrados em pênis humanos pela primeira vez; entenda")[![O novo réptil de 237 milhões de anos de idade descoberto no Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_reptil-descoberto-brasil-reproducao_315476dc54.jpg)
 
-veja mudança
+ERA PEQUENO
 
-veja mudança
+ERA PEQUENO
 
-Rafa Kalimann rebate críticas por mudar texto de novela
+O novo réptil de 237 milhões de anos de idade descoberto no Brasil
 
-Rafa Kalimann rebate críticas por mudar texto de novela](https://www.tnh1.com.br/noticia/nid/rafa-kalimann-rebate-criticas-por-mudar-texto-de-novela/ "Rafa Kalimann rebate críticas por mudar texto de novela")
+O novo réptil de 237 milhões de anos de idade descoberto no Brasil](https://www.tnh1.com.br/noticia/nid/o-novo-reptil-de-237-milhoes-de-anos-de-idade-descoberto-no-brasil/ "O novo réptil de 237 milhões de anos de idade descoberto no Brasil")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
