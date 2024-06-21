@@ -53,7 +53,7 @@ Search site  Go
 * [News | Local, U.S., World](https://www.10news.com/news/local-news)
     
     * [News](https://www.10news.com/news/local-news)
-    * [US/World](https://www.10news.com/news/national)
+    * [US/World](https://www.10news.com/news/national-news)
     * [Making it in San Diego](https://www.10news.com/news/making-it-in-san-diego)
     * [Positively San Diego](https://www.10news.com/positivelysandiego)
     * [Your Voice, Your Vote](https://www.10news.com/news/local-news/your-voice-your-vote)
