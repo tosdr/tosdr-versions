@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/health-benefits-of-walking/)
+
+[I Started Taking a Walk Every Morning. Here’s What Happened to My Health](https://www.artofmanliness.com/health-fitness/fitness/health-benefits-of-walking/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/full-body-cable-machine-functional-trainer-workouts/)
 
 [How to Get a Full-Body Workout on a Cable Machine/Functional Trainer](https://www.artofmanliness.com/health-fitness/fitness/full-body-cable-machine-functional-trainer-workouts/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Black-and-white photo of a discus thrower sculpted in ancient Greek style, depicting a muscular male figure in mid-throw, symbolizing principles of physical fitness.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-988-of-strength-and-soul-exploring-the-philosophy-of-physical-fitness/)
 
 [Podcast #988: Of Strength and Soul — Exploring the Philosophy of Physical Fitness](https://www.artofmanliness.com/health-fitness/fitness/podcast-988-of-strength-and-soul-exploring-the-philosophy-of-physical-fitness/)
-
-[![Two people practicing 3X3 Interval Walking towards a traditional Asian pagoda, crossing a red bridge in a lush park with blooming pink trees.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/the-japanese-3x3-interval-walking-workout/)
-
-[The Japanese 3X3 Interval Walking Workout](https://www.artofmanliness.com/health-fitness/fitness/the-japanese-3x3-interval-walking-workout/)
 
 [![Illustration of a human brain covered with colorful sticky notes, each labeled with different age and memory-related terms, against a light gray background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-984-why-your-memory-seems-bad-its-not-just-age/)
 
