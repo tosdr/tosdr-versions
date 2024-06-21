@@ -4,7 +4,9 @@
 * [Recipes](https://www.stonyfield.com/recipes/)
 * [Where To Buy](https://www.stonyfield.com/where-to-buy/)
 
-[![Logo](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/Stonyfield-logo.png)](https://www.stonyfield.com/)
+[![Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Logo](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/Stonyfield-logo.webp)](https://www.stonyfield.com/)
 
 * [About](https://www.stonyfield.com/about/)
     * [All About Stonyfield](https://www.stonyfield.com/about/)
@@ -185,6 +187,8 @@ If you have any questions or concerns regarding our Privacy Policy or any questi
 
 Users who reside in California and have provided their personal information to Stonyfield may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted through the Contact Us page located at https://www.stonyfield.com/contact-us. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
+![barn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![barn](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/barn.png)
 
 We Began As An Organic Farming School Before We Became Yogurt Makers. Almost 40 Years Later, Our Mission Is Still Healthy.
@@ -222,17 +226,25 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
 * [Supplier Code of Conduct](https://www.stonyfield.com/wp-content/uploads/2023/04/Lactalis-Supplier-Code-of-Conduct_Final-EN-nov.2022.pdf)
 * [For Pediatricians](https://hello.stonyfield.com/yobaby-resource-center-healthcare-professionals)
 
+![no toxins icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![no toxins icon](https://www.stonyfield.com/wp-content/uploads/2023/01/No_Toxins_Icon.svg)
 
 No toxic persistent pesticides\*
+
+![live culture icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![live culture icon](https://www.stonyfield.com/wp-content/uploads/2023/01/Live_Culture_Icon.svg)
 
 Yogurt with live active cultures
 
+![pasture raised icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![pasture raised icon](https://www.stonyfield.com/wp-content/uploads/2023/01/Pasture_Raised_Icon.svg)
 
 Only pasture raised milk
+
+![b-corp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![b-corp](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/b-corp-logo.png)
 
