@@ -323,46 +323,6 @@ Join clients like
 
 ![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
 
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Amgen-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/LOréal_logo.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Bayer-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Bill__Melinda_Gates_Foundation_logo-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Amgen-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/LOréal_logo.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Bayer-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Bill__Melinda_Gates_Foundation_logo-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Amgen-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/LOréal_logo.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Bayer-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Bill__Melinda_Gates_Foundation_logo-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Amgen-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/LOréal_logo.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Bayer-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Bill__Melinda_Gates_Foundation_logo-1.svg)
-
-![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
-
 Winning results
 ---------------
 
