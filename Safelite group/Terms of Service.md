@@ -348,9 +348,9 @@ Safelite is committed to ensuring that our website is accessible to everyone. To
 * [Help center](https://www.safelite.com/help-center)
 * [Careers](https://www.safelite.com/careers)
 * [For agencies](https://safeliteforagents.com/)
-* English
+* ![](/ResourcePackages/WizeMercury/assets/dist/Images/network-world.svg)English
     
-    * [English](https://www.safelite.com/terms-of-service)
+    * [English](javascript: void(0))
     * [Español](https://espanol.safelite.com/terms-of-service)
     
 
