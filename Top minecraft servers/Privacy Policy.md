@@ -47,17 +47,17 @@ We also use third party advertisements to support our site. Some of these advert
 
 Random Server Videos
 
-[![Minehop Trailer](//i.ytimg.com/vi/SbtLo7VbOvk/0.jpg)  
-Minehop](https://topminecraftservers.org/server/37524)
+[![HexMC Trailer](//i.ytimg.com/vi/qBSO4PoP70E/0.jpg)  
+HexMC](https://topminecraftservers.org/server/37427)
 
-[![CrystalGemCraft Trailer](//i.ytimg.com/vi/0yy80xh7vbI/0.jpg)  
-CrystalGemCraft](https://topminecraftservers.org/server/26084)
+[![ÆSİRMC RPG TURKEY Trailer](//i.ytimg.com/vi/jX3ERS6j9iE/0.jpg)  
+ÆSİRMC RPG TURKEY](https://topminecraftservers.org/server/26134)
 
-[![SpaceCraft Trailer](//i.ytimg.com/vi/m5zOplUbFSU/0.jpg)  
-SpaceCraft](https://topminecraftservers.org/server/5241)
+[![RexKraft Survival Trailer](//i.ytimg.com/vi/9RZL1vJSaFU/0.jpg)  
+RexKraft Survival](https://topminecraftservers.org/server/28334)
 
-[![Minecraft Magyarul Trailer](//i.ytimg.com/vi/-uuh7m8oOuI/0.jpg)  
-Minecraft Magyarul](https://topminecraftservers.org/server/32971)
+[![MineRealm Trailer](//i.ytimg.com/vi/IudU_BxjCnk/0.jpg)  
+MineRealm](https://topminecraftservers.org/server/12130)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -65,4 +65,4 @@ Minecraft Magyarul](https://topminecraftservers.org/server/32971)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.526408 seconds to load
+Page took 0.921062 seconds to load
