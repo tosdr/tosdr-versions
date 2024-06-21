@@ -161,6 +161,8 @@ Sky Talk Tariff Guide
 
 Codes of Practice
 
+Policies
+
 Sky Mobile terms and conditions
 -------------------------------
 
