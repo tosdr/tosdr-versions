@@ -2,9 +2,9 @@
 
 [Wörterbuch](https://www.duden.de/woerterbuch)
 
-[Ⓜ︎ Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
+[Ⓜ︎ Textprüfung](https://angebot.mentor.duden.de/premium_dir/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=topnavi&utm_content=duden-mentor-textpruefung)
 
-[Alle Angebote](https://www.duden.de/service)
+[🔍 Alle Angebote](https://www.duden.de/service)
 
 * [Duden-Mentor-Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=topnavi_service&utm_content=duden-mentor-textpruefung "Duden-Mentor")
 * [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_hauptnavi)
@@ -27,6 +27,7 @@
 * [Dudenredaktion](https://www.duden.de/dudenredaktion)
 * [Verlagsgeschichte](https://www.duden.de/ueber_duden/verlagsgeschichte)
 * [Verlagsprogramm](https://www.duden.de/programm)
+* [Rechte und Lizenzen](https://www.duden.de/form/license-request)
 
 [Shop](https://shop.duden.de/?utm_source=duden_de&utm_medium=navigation&utm_campaign=default&utm_content=text)
 
@@ -53,9 +54,9 @@
 
 [Wörterbuch ▻](#listview-wrterbuch)
 
-[Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
+[Textprüfung](https://angebot.mentor.duden.de/premium_dir/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=topnavi&utm_content=duden-mentor-textpruefung)
 
-[Alle Angebote ▻](#listview-alle-angebote)
+[🔍 Alle Angebote ▻](#listview-alle-angebote)
 
 [Sprachwissen ▻](#listview-sprachwissen)
 
@@ -89,7 +90,7 @@
 
 [Synonyme](https://www.duden.de/synonyme)
 
-[◁ Alle Angebote](#listview-root)
+[◁ 🔍 Alle Angebote](#listview-root)
 
 [Duden-Mentor-Textprüfung ▻](#listview-duden-mentor-textprfung--3)
 
@@ -139,8 +140,6 @@
 
 [Häufige Fehler und Falsch­schreib­weisen](https://www.duden.de/haeufige_fehler)
 
-[Kardinal](https://www.duden.de/sprachwissen/sprachratgeber/Kardinal)
-
 [„Sprachwissen“ im Überblick](https://www.duden.de/sprachwissen/inhaltsuebersicht)
 
 [◁ Über uns](#listview-root)
@@ -152,6 +151,8 @@
 [Verlagsgeschichte ▻](#listview-verlagsgeschichte)
 
 [Verlagsprogramm](https://www.duden.de/programm)
+
+[Rechte und Lizenzen](https://www.duden.de/form/license-request)
 
 [◁ Dudenredaktion](#listview-ber-uns)
 
@@ -179,9 +180,9 @@
 
 [◁ Verlagsgeschichte](#listview-ber-uns)
 
-[Meyers Atlanten](https://www.duden.de/meyers)
-
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
+
+[Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
 
 Datenschutz­erklärung
 =====================
@@ -455,7 +456,6 @@ Duden
 * [Mediadaten](https://www.duden.de/werbung "Mediadaten duden.de")
 * [Duden Institute](https://www.duden-institute.de/ "Duden Institute für Lerntherapie")
 * [Cornelsen Verlag](https://www.cornelsen.de/)
-* [Rechte und Lizenzen](https://www.duden.de/form/license-request)
 
 Wissen
 
@@ -467,6 +467,7 @@ Wissen
 * [Rechtschreibregeln](https://www.duden.de/sprachwissen/rechtschreibregeln)
 * [Schwierige Wörter](https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter)
 * [Sprachwissen](https://www.duden.de/sprachwissen/inhaltsuebersicht)
+* [Wort des Tages](https://www.duden.de/wort-des-tages)
 * [Newsletter](https://www.duden.de/newsletter)
 
 Hilfe
