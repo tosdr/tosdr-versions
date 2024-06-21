@@ -235,9 +235,9 @@ Customer shall use DHS AIS Targets via ThreatSTOP Services only in accordance wi
 
 ★★★★★
 
-ThreatSTOP works great. We are attacked every day and it stops them. It gives me the warm and fuzzies that I am protected. It's well worth every penny.
+ThreatSTOP is the clear leader in IP reputation services, and provides invaluable protection for AISO and our customers against zero-day, APTs, botnets and other advanced threats.
 
-Richard Gaustad - VP & CIO
+Phil Nash - CTO, AISO.net
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
