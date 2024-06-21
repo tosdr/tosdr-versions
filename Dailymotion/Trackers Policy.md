@@ -51,7 +51,7 @@ Table of content
 **COOKIE POLICY**
 =================
 
-_Last Update: June 17th, 2024_
+_Last Update: June 21st, 2024_
 
 Dailymotion uses tracking technologies to operate the [**Dailymotion Service**](https://www.dailymotion.com/legal/terms?localization=en), whether accessed from the “**Dailymotion Properties**”, i.e. our website and applications, or through the Dailymotion’s Video Player embedded on third-party websites or applications. We do so either by using our own tracking technologies, or by  using that ofour **service providers**. We use trackers regardless of the type of device or operating system you access the Dailymotion Service from.
 
@@ -116,7 +116,7 @@ Dailymotion uses first party and third-party exempted cookies. The third -party 
 
 | **T****racker** **Name** | **Type of Tracking Technology** | **Purpose(s)** | **Maximum L****ifespan \*\*** |
 | --- | --- | --- | --- |
-| **dm-euconsent-v2\*\*\*** | cookie | Storage of information about your consent for the purpose of enforcement of European privacy laws | 6 months |
+| **dm-euconsent-v2(\*\*\*)**  <br>(**\***\*\*\*\*) | cookie | Storage of information about your consent for the purpose of enforcement of European privacy laws | 6 months |
 | **v1st or v1st\_dm** | cookie | This is your digital unique identifier on the Dailymotion Service. It is used to deliver the Dailymotion Service and in particular for: – fraud detection and prevention; – security of the Dailymotion Service; – compliance with legal obligations (ex. compliance with court orders in relation to video access); – identification of an end user’s age. | 13 months |
 | **Usprivacy(\*\*\*)(\*\*\*\***) | cookie | Storage of information about your consent for the purpose of enforcement of the [US Privacy states’](https://legal.dailymotion.com/en/us-states-privacy-laws) data protection laws. | 13 months, |
 | **client\_token** | cookie | Allows proper display of a video and associated metadata for end-users accessing Dailymotion Service outside of their account, improves the latency and prevents a video from being interrupted thus providing the quality of service expected by an end-user. | 10 hours |
@@ -141,6 +141,12 @@ Dailymotion uses first party and third-party exempted cookies. The third -party 
 | **dmp\_subtitles** | Local Storage | Technical cookie that records user preference of subtitle language | 24 hours |
 | **Dmp\_quality** | Local Storage | Technical cookie that records user preference of video quality settings | 24 hours |
 | **Dmp\_volume** | Local Storage | Technical cookie that records user preference of audio quality settings | 24 hours |
+| **consentDate** | cookie | Third party cookie used to store information about your privacy preferences for the purpose of enforcement of the GDPR | 6 months |
+| **consentUUID** | cookie | Third party cookie used to store information about your privacy preferences for the purpose of enforcement of the GDPR | 6 months |
+| **euconsent-v2** | cookie | Third party cookie used to store information about your privacy preferences for the purpose of enforcement of the GDPR | 6 months |
+| **sp\_local\_state** | Local storage | Third party tracker used to store information about your privacy preferences for the purpose of enforcement of the GDPR and of the US state privacy laws | 12 months |
+| **sp\_non\_keyed\_local\_state** | Local storage | Third party tracker used to store information about your privacy preferences for the purpose enforcement of the GDPR and the US state privacy laws | 12 months |
+| **sp\_user\_consent\_34227** | Local storage | Third party tracker used to store information about your privacy preferences for the purpose enforcement of the GDPR and the US state privacy laws | 12 months |
 
 |     |     |
 | --- | --- |
@@ -148,6 +154,7 @@ Dailymotion uses first party and third-party exempted cookies. The third -party 
 | _\*\*_ | _The predefined lifespan may be shortened by the browser you use. Some trackers, for technical reasons, may be presented in your browser as session cookies._ |
 | _\*\*\*_ | _Present only on dailymotion.com and on Dailymotion Video Player integrated on third party digital properties – absent on the Enterprise Solution Video Player._ |
 | _\*\*\*\*_ | As of May 2024, no longer deployed. |
+| \*\*\*\*\* | As of June 2024, no longer deployed |
 
 Additionally, if you access the Dailymotion Service from within one of the US Privacy Law States, the following essential trackers are deployed to record your privacy settings as required by the applicable US state privacy laws:
 
@@ -156,9 +163,6 @@ Additionally, if you access the Dailymotion Service from within one of the US Pr
 | **Tracker Name** | **Type of Tracking Technology** | **Purpose(s)** | **Maximum Lifespan \*\*** |
 | consentDateUsnat | cookie | Third party cookie used to store information about your privacy preferences for the purpose of enforcement of the US state privacy laws | 12 months |
 | usnatUUID | cookie | Third party cookie used to store information about your privacy preferences for the purpose of enforcement of the US state privacy laws | 12 months |
-| sp\_local\_state | Local storage | Third party tracker used to store information about your privacy preferences for the purpose of enforcement of the US state privacy laws | 12 months |
-| sp\_non\_keyed\_local\_state | Local storage | Third party tracker used to store information about your privacy preferences for the purpose of enforcement of the US state privacy laws | 12 months |
-| sp\_user\_consent\_34227 | Local Storage | Third party tracker used to store information about your privacy preferences for the purpose of enforcement of the US state privacy laws | 12 months |
 
 ### 3) Non-Exempted Cookies on the Dailymotion Service
 
@@ -184,6 +188,7 @@ The standard IAB purposes for which we use the cookies and/or the data they coll
 * Use limited data to select content
 * Ensure security, prevent and detect fraud, and fix errors
 * Deliver and present advertising and content
+* Save and communicate privacy choices
 
 Additionally, we may use the personal data collected by trackers to allow you to interact via social media and to share data with our affiliates, i.e. with companies that, like us, belong to the Vivendi group.
 
@@ -319,23 +324,23 @@ We have no control over the process used by social networks to collect informati
 IV. CONSENT COLLECTION
 ----------------------
 
-When our use of trackers requires your consent, we ask for it using a feature commonly referred to as a “**cookie banner**” or “**consent management platform**” or “**CMP**”. The present section IV provides you with detailed information on the consent management platform operational in the [European Economic Area](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)), UK or Switzerland.
+When our use of trackers requires your consent, we ask for it using a feature commonly referred to as a “**cookie banner**” or “**consent management platform**” or “**CMP**”. The present section IV provides you with detailed information on the consent management platform operational in the [European Economic Area](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)), UK or Switzerland as well as in the other territories where the GDPR rules are indirectly applicable..
 
-Note that the purposes and the legal bases we rely on to process your personal data differ depending on whether you visit our Service on the **Dailymotion Properties,** i.e. on our website (dailymotion.com) and our mobile applications, or through the **Dailymotion Video Player embedded on third-party digital properties**. The “[Manage Cookies](https://www.dailymotion.com/legal/consent)” section of our Service provides further information about the purposes and legal basis we rely on.  Its “[Dailymotion](https://www.dailymotion.com/legal/consent#dailymotion)” tab describes our processing activities on the Dailymotion Properties. The [Dailymotion information](https://www.dailymotion.com/legal/consent#partners-vendor573) available within the “Partners” tab provides the details for our processing activities within the Video Player embedded on third-party digital properties.   
+Note that the purposes and the legal bases we rely on to process your personal data differ depending on whether you visit our Service on the **Dailymotion Properties,** i.e. on our website (dailymotion.com) and our mobile applications, or through the **Dailymotion Video Player embedded on third-party digital properties**. The “[Manage Cookies](https://www.dailymotion.com/legal/consent)” section of our Service provides further information about the purposes and legal basis we rely on. Details of our processing activities undertaken through the Dailymotion Video Player embedded on third parties’ sites or apps are available within the Site Vendor tabs under vendor “Dailymotion Video Player”. When we process your personal data on the Dailymotion Properties, we use additional purposes and, for some purposes, rely on legal basis different from the ones applicable to our processing activities undertaken through the Dailymotion Video Player. Those customized purposes are identified by symbol “D” on our CMP and information available within the Site Vendor tabs under vendor “Dailymotion SA” provides you with additional details.  
 
 When you visit the Dailymotion Properties (i.e. the Dailymotion website and our mobile applications), we inform you about the use of trackers and ask for your consent to the use of non-exempted ones. Additionally, we inform you about the purposes your personal data may be processed for and applicable legal basis, and, depending on the legal basis we rely on, ask you to consent to it or provide you with a possibility to oppose to it when our processing relies on legitimate interest.  
 
-Our “cookie banner” implements the Transparency & Consent Framework (“**TCF**”) specifications developed by the IAB (Interactive Advertising Bureau). Consequently, in addition to recording your privacy settings and providing you with information about Dailymotion’s processing operations, our “cookie banner” also does so on behalf of multiple third-party Controllers by using the IAB industry-standard purposes and descriptions. These third-party Controllers are referred to as “**Partners**”. Some of the Partners that we collect consent for and provide information about are, like Dailymotion, members of the TCF. They are referred to as “**TCF Partners**” or “**IAB Vendors**”. Those of our Partners who are not members of the TCF are referred to as “**Non-TCF Partners**” or “**Non-IAB Vendors**”.
+Our “cookie banner” implements the Transparency & Consent Framework (“**TCF**”) specifications developed by the IAB (Interactive Advertising Bureau). Consequently, in addition to recording your privacy settings and providing you with information about Dailymotion’s processing operations, our “cookie banner” also does so on behalf of multiple third-party Controllers by using the IAB industry-standard purposes and descriptions. These third-party Controllers are referred to as “**Vendors**” or “**Partners**”. The Vendors that we collect consent for and provide information about may participate in the TCF or not be part of that framework. Those of our Partners who are not members of the TCF are referred to as “**Non-IAB Partners**” or “**Non-IAB Vendors**” and identified by “**O**” symbol.
 
 Our “cookie banner” informs you about the identity of our Partners, i.e. the identity of third-party Controllers  who might drop trackers and collect personal data on the Dailymotion Service.  It provides information about the purposes and legal bases they rely on, and details of trackers used as these details are communicated by Partners through the TCF.  It also enables you to consent or refuse their use of non-exempted cookies and consent, refuse or oppose to their consequent processing of personal data.
 
 When you **accept** all trackers and associated purposes via our “cookie banner”, your consent applies to the use of trackers and related processing of your personal data undertaken by Dailymotion and all our Partners.
 
-Once you have made your privacy choices via the “cookie banner”, your decision is transferred by us to our TCF Partners, using this industry-standard format.  
+Once you have made your privacy choices via the “cookie banner”, your decision is transferred by us to our TCF Partners, using the TCF-provided industry-standard format.  
 
-For TCF Partners, you may obtain further information about their use of cookies and processing of your data in the “[Partners](https://www.dailymotion.com/legal/consent#partners)” tab of our consent management platform accessible either directly from the “cookie banner” of from the “[Manage cookies](https://www.dailymotion.com/legal/consent)” section of our Service.
+For TCF Partners, you may obtain further information about their use of cookies and processing of your data in the Site Vendor tab of our consent management platform accessible either directly from the “cookie banner” of from the “[Manage cookies](https://www.dailymotion.com/legal/consent)” section of our Service.
 
-To obtain such information about the Non-TCF Partners, please refer to their respective privacy policies following the links provided in the “[Partner List](https://www.dailymotion.com/files/static/List_of_Dailymotion_non_IAB_partners.pdf)” accessible either directly from the “cookie banner” of from the “[Manage cookies](https://www.dailymotion.com/legal/consent)” section of our Service.
+To obtain such information about the Non IAB Partners, please refer to their respective privacy policies following the links provided in the “[Partner List](https://www.dailymotion.com/files/static/List_of_Dailymotion_non_IAB_partners.pdf)” accessible either directly from the “cookie banner” of from the “[Manage cookies](https://www.dailymotion.com/legal/consent)” section of our Service.
 
 We remind you that your privacy settings apply only to the device and browser used while choosing them. If you access our Service from different devices or browsers, you need to select your privacy preferences for each device/browser used.
 
@@ -366,7 +371,7 @@ Depending on the country you visit the Dailymotion Service from, you may set yo
 
 #### a) Setting Privacy Preferences when Dailymotion Does Not Rely on the Publisher’s Consent Management Mechanism
 
-If you access the Dailymotion Service (i.e. the Dailymotion websites or application, as well as the embedded Dailymotion Video Player) from a country that is part of the [European Economic Area](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)), UK or Switzerland, our “cookie banner” allows you to exercise your right to:
+If you access the Dailymotion Service (i.e. the Dailymotion websites or application, as well as the embedded Dailymotion Video Player) from a country that is part of the [European Economic Area](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)), UK or Switzerland or from within other territory where the GDPR rules apply, our “cookie banner” allows you to exercise your right to:
 
 * consent to or refuse the use of “non-exempted cookies”, and
 * consent to or refuse the processing of personal data when such processing relies on your consent, and
@@ -376,9 +381,9 @@ You may make different choices through our “cookie banner”:
 
 * By clicking the “**Accept**” button within the “cookie banner”, you accept the use of all trackers dropped by Dailymotion or its Partners (TCF and non-TCF Partners) and the processing of your personal data for all of the listed purposes.  
 
-* By clicking the “**Personalize**” button, you will be redirected to our “[Consent Management](https://www.dailymotion.com/legal/consent)” page with detailed  information and a list of our Partners that may use trackers and process personal data on the Dailymotion Service. The Consent Management page enables you to either accept or refuse consent for all listed purposes and all listed Partners or make granular choices. It means that you may choose to either allow or refuse processing for all purposes and Partners or allow processing for certain purposes and/or by certain Partners while refusing the others. If you want to personalize your privacy settings, you may do so on a purpose-by-purpose basis and, for TCF Partners only, on a partner-by-partner basis. You may also oppose to the processing purposes which rely on the legitimate interest, by ticking the “**Opt out**” box below each purpose and for each TCF Partner relying on it. Your choices expressed on a purpose-by-purpose basis apply to all Partners (both TCF and non-TCF Partners). Your choices expressed on a partner-by-partner basis apply only to the TCF Partners that you have selected. By accessing the “[Dailymotion](https://www.dailymotion.com/legal/consent#dailymotion)” tab you may express your choices regarding Dailymotion’s processing on the Dailymotion Properties.
+* By clicking the “**Personalize**” button, you will be redirected to our “[Consent Management](https://www.dailymotion.com/legal/consent)” page with detailed  information and a list of our Partners that may use trackers and process personal data on the Dailymotion Service. The Consent Management page enables you to either accept or refuse consent for all listed purposes and all listed Partners or make granular choices. It means that you may choose to either allow or refuse processing for all purposes and Partners or allow processing for certain purposes and/or by certain Partners while refusing the others. If you want to personalize your privacy settings, you may do so on a purpose-by-purpose basis and, additionally (i.e. once you expressed your choices on a purpose-by-purposes  basis), make more granular choices for each of the Partners listed in the Site Vendor tab. You may also oppose to the processing purposes which rely on the legitimate interest, by using the “**Opt out**” toggle associated to each such purpose and present in the applicable Purposes tab. If you only want to oppose to processing relying on legitimate interest for selected Vendors, use the ‘Opt-Out” toggle present in applicable Site Vendors tab. Your choices expressed on a purpose-by-purpose basis apply to Dailymotion and all of our Partners (both IAB and non-IAB Vendors). Your choices expressed on a partner-by-partner basis apply only to the Partners that you have selected. By clicking on “**Save Changes**” your choices will be saved and communicated to us.
 
-* By clicking on “**Continue without accepting**”, the banner will disappear, and we will not set any “non-exempted cookies” on your device nor process your personal data when such processing relies on consent.  
+* By clicking on “**Continue without accepting**” or “**Decline All**”, the banner will disappear, and we will not set any “non-exempted cookies” on your device nor process your personal data when such processing relies on consent.  
 
 As a reminder, you cannot refuse “exempted cookies” which are necessary for the Dailymotion Service to operate, as mentioned in Section II.1.  Consequently, you will see “exempted cookies” on your browser regardless of the privacy settings you make. Note also that your refusal prevents deployment of new cookies but does not delete the already existing ones. They will no longer be used but they will remain on your device until you delete them, or until they reach their expiry date.
 
