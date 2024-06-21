@@ -148,7 +148,6 @@ Initializing search
             
             * [arXiv API Access](https://info.arxiv.org/help/api/index.html)
             * [arXiv API Basics](https://info.arxiv.org/help/api/basics.html)
-            * [API for arXiv Categorization](https://info.arxiv.org/help/api/classify.html)
             * [Terms of Use for arXiv APIs](https://info.arxiv.org/help/api/tou.html)
             * [arXiv API User's Manual](https://info.arxiv.org/help/api/user-manual.html)
             
