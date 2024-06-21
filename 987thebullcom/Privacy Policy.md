@@ -336,11 +336,11 @@ Recently Played
 
 |     |
 | --- |
-| Think I&Apos;M In Love With YouChris Stapleton<br><br>5:39pm |
-| Craving YouThomas Rhett Ft Maren Morris<br><br>5:35pm |
-| The Kind Of Love We MakeLuke Combs<br><br>5:32pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:22pm |
-| Mud On The TiresBrad Paisley<br><br>5:19pm |
+| HurricaneLuke Combs<br><br>3:47am |
+| White HorseChris Stapleton<br><br>3:37am |
+| Called CrazyKassi Ashton<br><br>3:33am |
+| Thinkin 'Bout MeMorgan Wallen<br><br>3:31am |
+| Hey DriverZach Bryan Ft The War And Treaty<br><br>3:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -349,21 +349,21 @@ Recently Played
 You Might Also Like
 -------------------
 
+![Morgan Wallen  Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/wp-content/uploads/2023/09/Morgan-Wallen-2-Radio-Promo-Pic-640x400.jpg)
+
+[Country News](https://www.987thebull.com/category/country/)[### Morgan Wallen Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/morgan-wallen-foundation-makes-massive-donation-to-hometown/)
+
+* * *
+
 ![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-13/Getty_ScottyMcCreeryTurqoiseTshirt.jpg)
 
 [Country News](https://www.987thebull.com/category/country/)[### Scotty McCreery's certain he doesn't want to be a judge on 'American Idol'](https://www.987thebull.com/scotty-mccreerys-certain-he-doesnt-want-to-be-a-judge-on-american-idol/)
 
 * * *
 
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-10/M_MarenMorrisWhatHappensLiveWithAndyCohenCharles%20SykesBravo.jpg)
+![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-11/M_JellyRollPerformanceAmericanIdol2024DisneyEricMcCandless.jpg)
 
-[Country News](https://www.987thebull.com/category/country/)[### Maren Morris comes out as bisexual in Pride Month post](https://www.987thebull.com/maren-morris-comes-out-as-bisexual-in-pride-month-post/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-10/M_LittleBigTownGreatestHitsCapitolRecordsNashville.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Little Big Town unveils track list for "carefully curated" 'Greatest Hits' album](https://www.987thebull.com/little-big-town-unveils-track-list-for-carefully-curated-greatest-hits-album/)
+[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll takes "Halfway to Hell" to #1](https://www.987thebull.com/jelly-roll-takes-halfway-to-hell-to-1/)
 
 * * *
 
@@ -507,9 +507,9 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
@@ -519,9 +519,9 @@ Country • Western
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
