@@ -323,15 +323,6 @@ Continue shopping
 
  
 
-NeoSprint
-=========
-
-The exhilarating Atari racing classic “Sprint” series returns with NeoSprint.
-
-[Play Now](https://atari.com/products/neosprint)
-
- 
-
 Lunar: Lander Beyond
 ====================
 
@@ -359,12 +350,21 @@ This 25th Anniversary collection celebrates Chris Sawyer's genre-defining Roller
 
  
 
+Introducing the Atari 2600+
+===========================
+
+Just dropped: new games and accessories, including the all new CX78+ Gamepad!
+
+[Shop Now](https://www.atari.com/collections/atari-2600-plus)
+
+ 
+
 Atari 400 Mini
 ==============
 
 Includes 25 8-bit classic games. Act fast, supplies are limited!
 
-[Available Now](https://www.atari.com/collections/atari-400-mini-collection)
+[Join Waitlist](https://www.atari.com/collections/atari-400-mini-collection)
 
 [![](files/Atari_VCS.jpg)
 
@@ -390,39 +390,11 @@ Available Worldwide
 
 ##### Atari 2600+
 
-Regular price $129.99 Sale price $129.99
-
 Regular price $129.99
 
+Regular price $129.99 Sale price $129.99
+
 Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
-
-[![Yars' Revenge 2600 Tee](files/unisex-garment-dyed-heavyweight-t-shirt-black-front-667586e57c269.png)
-
-![Yars' Revenge 2600 Tee](files/unisex-garment-dyed-heavyweight-t-shirt-black-back-667586e580ed7.png)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
- 4XL
-
-##### Yars' Revenge 2600 Tee
-
-Regular price Sale price $30.00
-
-Regular price $30
-
-Unit price /  per](https://www.atari.com/products/yars-revenge-2600-tee) 
 
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
@@ -432,9 +404,9 @@ USA Exclusive
 
 ##### VCS All-In Bundle
 
-Regular price $299.99 Sale price $299.99
-
 Regular price $299.99
+
+Regular price $299.99 Sale price $299.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
 
@@ -458,9 +430,9 @@ Add to cart
 
 ##### Oversized Retro Tee
 
-Regular price $35 Sale price $35.00
-
 Regular price $35
+
+Regular price $35 Sale price $35.00
 
 Unit price /  per](https://www.atari.com/products/oversized-retro-tee)         
 
@@ -486,9 +458,9 @@ Add to cart
 
 ##### Classic Katakana Tee
 
-Regular price $28 Sale price $28.00
-
 Regular price $28
+
+Regular price $28 Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
@@ -500,9 +472,9 @@ Add to cart
 
 ##### Retro Trucker Hat
 
-Regular price $30 Sale price $30.00
-
 Regular price $30
+
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/retro-trucker-hat) 
 
@@ -514,9 +486,9 @@ Add to cart
 
 ##### RCT 25th Anniversary Shadowbox Art (Signed Limited Edition)
 
-Regular price Sale price $199.00
-
 Regular price $199
+
+Regular price Sale price $199.00
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-anniversary-shadowbox-art-limited-edition) 
 
@@ -542,9 +514,9 @@ Add to cart
 
 ##### RCT 25th Anniversary Tour Tee
 
-Regular price $28 Sale price $28.00
-
 Regular price $28
+
+Regular price $28 Sale price $28.00
 
 Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-tour-tee)     
 
@@ -556,9 +528,9 @@ Available Worldwide
 
 ##### CX78+ Gamepad
 
-Regular price Sale price $24.99
-
 Regular price $24.99
+
+Regular price Sale price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx78-gamepad) 
 
@@ -570,9 +542,9 @@ Add to cart
 
 ##### RollerCoaster Tycoon x errornogo Smile Tote Bag
 
-Regular price $32 Sale price $32.00
-
 Regular price $32
+
+Regular price $32 Sale price $32.00
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-smile-tote-bag) 
 
@@ -598,9 +570,9 @@ Add to cart
 
 ##### RCT 25th Anniversary Retro Pixel Art Tee
 
-Regular price $28 Sale price $28.00
-
 Regular price $28
+
+Regular price $28 Sale price $28.00
 
 Unit price /  per 
 
@@ -630,9 +602,9 @@ Add to cart
 
 ##### RollerCoaster Tycoon x errornogo Disc Tee
 
-Regular price $52 Sale price $52.00
-
 Regular price $52
+
+Regular price $52 Sale price $52.00
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-x-errornogo-disc-tee) 
 
@@ -644,9 +616,9 @@ USA Exclusive
 
 ##### Atari VCS 480GB M.2 Drive
 
-Regular price $69.99 Sale price $69.99
-
 Regular price $69.99
+
+Regular price $69.99 Sale price $69.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-480gb-m2-drive) 
 
@@ -656,9 +628,9 @@ Available Worldwide
 
 ##### Ninja Golf 7800
 
-Regular price Sale price $29.99
-
 Regular price $29.99
+
+Regular price Sale price $29.99
 
 Unit price /  per](https://www.atari.com/products/ninja-golf-7800) 
 
@@ -694,26 +666,18 @@ NEW RELEASES
 
 New merch to celebrate 25 years of the ultimate theme park sim.
 
-Shop Now](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)[![](files/neosprint-screens-08.webp)
+Shop Now](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)[![](files/1920px_1080px.jpg)
 
-### NeoSprint: For speed demons and track builders
+### Blue Kazoo Puzzles: Asteroids & Missile Command
 
-NeoSprint zooms back to life as a single screen arcade racer.
+Pixels on puzzles: Quite possibly the best jigsaw puzzles In the world!
 
-Play Now](https://www.atari.com/products/neosprint)
+Shop Now](https://www.atari.com/collections/blue-kazoo-puzzles)
 
 FEATURED GAMES
 --------------
 
 [View All](https://www.atari.com/collections/games)
-
-![NeoSprint](files/neosprint-gamebox.webp)
-
-Available on
-
-[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
-
-#### NeoSprint
 
 ![Lunar Lander: Beyond](files/lunarlander-gamebox.webp)
 
@@ -763,6 +727,14 @@ Available on
 
 #### Haunted House
 
+![NeoSprint](files/neosprint-gamebox.webp)
+
+Available on
+
+[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
+
+#### NeoSprint
+
 ![Atari 50: the Anniversary Celebration](products/gamebox-atari50-celebration.webp)
 
 Available on
@@ -807,19 +779,7 @@ Sign up for our mailing list to be the first to hear about new games, limited re
 
 ##### Anything Else ?
 
-[![CX40+ Joystick](files/ProductImage-A_1_e56ae0f0-3526-4f45-b93a-df2994106fa2.jpg)
-
-![CX40+ Joystick](files/ProductImage-BV2.jpg)
-
-Available Worldwide
-
-##### CX40+ Joystick
-
-Regular price Sale price $24.99
-
-Regular price $24.99
-
-Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
+[![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
 
@@ -827,9 +787,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $39.99
-
 Regular price $39.99
+
+Regular price $39.99 Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
 
@@ -839,9 +799,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $30 Sale price $30.00
-
 Regular price $30
+
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
 
@@ -849,9 +809,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $48 Sale price $48.00
-
 Regular price $48
+
+Regular price $48 Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
@@ -883,9 +843,9 @@ Available Worldwide
 
 ##### CX40+ Joystick
 
-Regular price Sale price $24.99
-
 Regular price $24.99
+
+Regular price Sale price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -897,9 +857,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $39.99
-
 Regular price $39.99
+
+Regular price $39.99 Sale price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -911,9 +871,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $30 Sale price $30.00
-
 Regular price $30
+
+Regular price $30 Sale price $30.00
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
 
@@ -923,9 +883,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $48 Sale price $48.00
-
 Regular price $48
+
+Regular price $48 Sale price $48.00
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
