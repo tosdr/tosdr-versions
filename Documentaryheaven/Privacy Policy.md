@@ -108,11 +108,6 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Occupation 101](/wp-content/thumbnails/766-100x70.png?x53432)
-    
-    Occupation 101
-    
-    A thought-provoking and powerful documentary film on the current and historical root causes of the Israeli-Palestinian conflict. Unlike any other film ever produced on the conflict — ‘Occupation 101...](https://documentaryheaven.com/occupation-101/ "Occupation 101")
 * [![The Trouble With Atheism](/wp-content/thumbnails/3469-100x70.jpg?x53432)
     
     The Trouble With Atheism
@@ -123,44 +118,49 @@ Advertisement
     Catastrophe: The Day The Sun Went Out
     
     Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of ...](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
-* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
-    
-    The Mary Bell Case
-    
-    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s...](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
 * [![The Struggle For Oil](/wp-content/thumbnails/16534-100x70.jpg?x53432)
     
     The Struggle For Oil
     
     In April 2010, the drilling rig deepwater horizon blew up in the Gulf of Mexico, approximately 780 million liters of crude oil poured into the Gulf, unleashing the most severe ecological disaster in ...](https://documentaryheaven.com/struggle-for-oil/ "The Struggle For Oil")
+* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
+    
+    The Mary Bell Case
+    
+    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s...](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 
 ###### Throwback Documentaries
 
-* [![Tutankhamun in Colour](/wp-content/thumbnails/16263-100x70.jpg?x53432)
+* [![The Terror of Zimbabwe Documentary](/wp-content/thumbnails/614-100x70.png?x53432)
     
-    Tutankhamun in Colour
+    The Terror of Zimbabwe Documentary
     
-    There has never been a discovery quite like that of Tutankhamun, not before, nor since. On the 26th November 1922, after five long years of scouring Egypt's legendary Valley of the Kings, British Egy](https://documentaryheaven.com/tutankhamun-in-colour/ "Tutankhamun in Colour")
-* [![The Rolling Stones: Gimme Shelter](/wp-content/thumbnails/5972-100x70.jpg?x53432)
+    This documentary shows us stories about people like Tonderai Ndira was a shrewd choice for assassination: young, courageous and admired. Kill him and fear would pulse through a thousand spines. He was](https://documentaryheaven.com/the-terror-of-zimbabwe-documentary/ "The Terror of Zimbabwe Documentary")
+* [![Cashing In On Degrees](/wp-content/thumbnails/6345-100x70.jpg?x53432)
     
-    The Rolling Stones: Gimme Shelter
+    Cashing In On Degrees
     
-    In December of 1969, four months after Woodstock, the Rolling Stones and Jefferson Airplane gave a free concert in Northern California, east of Oakland at Altamont Speedway. About 300,000 people came,](https://documentaryheaven.com/the-rolling-stones-gimme-shelter/ "The Rolling Stones: Gimme Shelter")
-* [![The Hitch](/wp-content/thumbnails/10745-100x70.jpg?x53432)
+    With students facing massive increases in their fees, Dispatches investigates the pay, perks and privileges enjoyed by universities’ top earners. Journalist Laurie Penny reveals the increasing commer](https://documentaryheaven.com/cashing-in-on-degrees/ "Cashing In On Degrees")
+* [![Tokyo Time](/wp-content/thumbnails/3742-100x70.jpg?x53432)
     
-    The Hitch
+    Tokyo Time
     
-    Christopher Hitchens was a journalist, author, essayist, religious and literary critic who was not one to be considered shy when it came to flexing his intellect. In the course of his career he contri](https://documentaryheaven.com/hitch/ "The Hitch")
-* [![Lost in Space: Gemini 8](/wp-content/thumbnails/3048-100x70.jpg?x53432)
+    This is a short documentary about two college students on a journey through Japan. From the serene temples of Kyoto to the bloody Tsukiji fish market, Tokyo Time is an account of culture shock and per](https://documentaryheaven.com/tokyo-time/ "Tokyo Time")
+* [![Female Fighters of Kurdistan](/wp-content/thumbnails/7593-100x70.jpg?x53432)
     
-    Lost in Space: Gemini 8
+    Female Fighters of Kurdistan
     
-    Gemini 8 (officially Gemini VIII) was the sixth manned spaceflight in NASA's Gemini program. The mission conducted the first docking of two spacecraft in orbit, but suffered the first critical in-spac](https://documentaryheaven.com/lost-in-space-gemini-8/ "Lost in Space: Gemini 8")
-* [![The Making of The Shining](/wp-content/thumbnails/3879-100x70.jpg?x53432)
+    From Boudica of the British Celts to Corporal Klinger, few things unsettle the male mind like a lady in arms. The Kurds of Northern Iraq have long recognized this principle and incorporated it into th](https://documentaryheaven.com/female-fighters-kurdistan/ "Female Fighters of Kurdistan")
+* [![Football Beasts](/wp-content/thumbnails/13931-100x70.jpg?x53432)
     
-    The Making of The Shining
+    Football Beasts
     
-    "Stanley Kubrick allowed his then-17-year-old daughter, Vivian, to make a documentary about the production of The Shining. Created all originally for the British television show BBC Arena, the documen](https://documentaryheaven.com/the-making-of-the-shining/ "The Making of The Shining")
+    This is a tale of the age old hooliganism which has surrounded the sport of football for decades, these are the people who relish in the violence and formulate plans of attack weeks in advance of matc](https://documentaryheaven.com/football-beasts/ "Football Beasts")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
