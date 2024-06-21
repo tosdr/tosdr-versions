@@ -91,18 +91,12 @@ To
 
   Plan Journey    
 
-* [##### Detour Route CT - Closure of Maunganui Road Southbound (Between Concord Avenue & Bayfair Roundabout)
+* [##### Detour Routes 2B, 2W & 5 - Night Closure of Dive Crescent
     
-    Mon 24 Jun 07:00 pm - Tue 25 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-closure-of-maunganui-road-southbound-between-concord-avenue-bayfair-roundabout/)
-* [##### Detour, Bus Stop Closures Route 40 - Night & Weekend Day Closure of Welcome Bay Road
+    Sun 23 Jun 06:00 pm - Mon 24 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-5-night-closure-of-dive-crescent/)
+* [##### Detour Route CT - Night Closure of Baypark to Bayfair
     
-    Now until Mon 05 Aug 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-40-night-weekend-day-closure-of-welcome-bay-road/)
-* [##### Detour, Bus Stop Closures Route CT - Temporary Closure of Poike Road
-    
-    Now until Fri 21 Jun 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-ct-temporary-closure-of-poike-road/)
-* [##### Detour, Bus Stop Closures Route 55 - Temporary Closure of Poike Road
-    
-    Now until Fri 21 Jun 03:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-55-temporary-closure-of-poike-road/)
+    Sun 23 Jun 07:00 pm - Thu 27 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-night-closure-of-baypark-to-bayfair/)
 * [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road (Junction of Girven Rd)
     
     Now until Thu 04 Jul 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-21-closure-of-maranui-street-oceanbeach-road-junction-of-girven-rd/)
