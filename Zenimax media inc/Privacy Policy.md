@@ -424,9 +424,9 @@ If we deny your request, you may appeal our decision by emailing [\[email prote
 
 * [Privacy Policy New](https://www.zenimax.com/en/legal/privacy-policy)
 * [Terms of Service New](https://www.zenimax.com/en/legal/terms-of-service)
-* [Legal Information](https://www.zenimax.com/en/legal/legal-information)
-* [Code of Conduct](https://www.zenimax.com/en/legal/code-of-conduct)
-* [Cookie Policy](https://www.zenimax.com/en/legal/cookie-policy)
+* [Legal Information New](https://www.zenimax.com/en/legal/legal-information)
+* [Code of Conduct New](https://www.zenimax.com/en/legal/code-of-conduct)
+* [Cookie Policy New](https://www.zenimax.com/en/legal/cookie-policy)
 * [Do Not Sell Or Share My Personal Info](#)
 * [U.K. Modern Slavery Act Statement](https://www.zenimax.com/docs/ZEL_Modern_Slavery_Act_Statement_FY22.pdf)
 * [Contact](https://www.zenimax.com/en/more)
