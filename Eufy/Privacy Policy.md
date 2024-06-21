@@ -23,50 +23,50 @@
     
     * [eufy Robot Vacuum Omni S1 Pro
         
-        New](https://www.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_1_1_img)
+        New](https://us.eufy.com/products/t2080111?ref=navimenu_1_1_1_img)
     * [eufy Robot Vacuum X10 Pro Omni
         
         Hot](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
     
-    * [](https://www.eufy.com/appliance-x10-omni?ref=navimenu_1_2_1_copy)
+    * [](https://us.eufy.com/collections/self-emptying-robot-vacuum?ref=navimenu_1_2_1_copy)
         
-        [All-in-One](https://www.eufy.com/appliance-x10-omni?ref=navimenu_1_2_1_copy)
+        [Self Clean](https://us.eufy.com/collections/self-emptying-robot-vacuum?ref=navimenu_1_2_1_copy)
         
-        Hands-Free Convenience with Self-Emptying, Self-Washing, Self-Refilling, and Self-Drying Features
+        Simplified with hands-free cleaning
         
         Feature Products
         
         [eufy X10 Pro Omni](https://us.eufy.com/products/t2351111?ref=navimenu_1_2_1_1_copy)
         
-        [Shop All-in-One](https://us.eufy.com/collections/robot-vacuums?ref=navimenu_1_2_1_all_copy) [More About All-in-One](https://us.eufy.com/robot-vacuums?ref=navimenu_1_2_1_more_copy)
+        [Shop Self Clean Robovac](https://us.eufy.com/collections/self-emptying-robot-vacuum?ref=navimenu_1_2_1_all_copy) [More About Self-Clean](https://us.eufy.com/appliance-x10-omni?ref=navimenu_1_2_1_more_copy)
         
-    * [](https://www.eufy.com/robot-vacuums?ref=navimenu_1_2_2_copy)
+    * [](https://us.eufy.com/collections/robot-vacuum-mop?ref=navimenu_1_2_2_copy)
         
-        [Auto Empty](https://www.eufy.com/robot-vacuums?ref=navimenu_1_2_2_copy)
+        [Floor Washing](https://us.eufy.com/collections/robot-vacuum-mop?ref=navimenu_1_2_2_copy)
         
-        Less Maintenance to Replace Dust Bags
-        
-        Feature Products
-        
-        [eufy Clean L60 with Self-Empty Station](https://us.eufy.com/products/t2277111?variant=42812301017274&ref=navimenu_1_2_2_1_copy)
-        
-        [Shop Auto Empty](https://us.eufy.com/collections/self-emptying-robot-vacuum?ref=navimenu_1_2_2_all_copy) [More About Auto Empty](https://us.eufy.com/robot-vacuums?ref=navimenu_1_2_2_more_copy)
-        
-    * [](https://us.eufy.com/products/t2320v11?ref=navimenu_1_2_3_copy)
-        
-        [Auto Clean](https://us.eufy.com/products/t2320v11?ref=navimenu_1_2_3_copy)
-        
-        Cut Cleaning Time with Dock-Assisted Mop Washing
+        Deep cleaning with floor washing
         
         Feature Products
         
-        [eufy Clean X9 Pro with Auto-Clean Station](https://us.eufy.com/products/t2320v11?variant=42480933830842&ref=navimenu_1_2_3_1_copy)
+        [eufy Robot Vacuum S1 Pro](https://us.eufy.com/products/t2080111?ref=navimenu_1_2_2_1_copy)
         
-        [Shop Auto Clean](https://us.eufy.com/collections/robot-vacuum-with-mapping?ref=navimenu_1_2_3_all_copy)[](https://us.eufy.com/policies/privacy-policy?ref=navimenu_1_2_3_more_copy)
+        [Shop Floor Washing Robot](https://us.eufy.com/collections/robot-vacuum-mop?ref=navimenu_1_2_2_all_copy) [More About Floor Washing](https://us.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_2_2_more_copy)
         
-    * [](https://www.eufy.com/robot-vacuums?ref=navimenu_1_2_4_copy)
+    * [](https://us.eufy.com/collections/ipath-laser-navigation-series?ref=navimenu_1_2_3_copy)
         
-        [Other Robot Vacuums](https://www.eufy.com/robot-vacuums?ref=navimenu_1_2_4_copy)
+        [iPath Navigation](https://us.eufy.com/collections/ipath-laser-navigation-series?ref=navimenu_1_2_3_copy)
+        
+        Z-shaped pattern for all-round cleaning
+        
+        Feature Products
+        
+        [eufy Clean X9 Pro](https://us.eufy.com/products/t2320v11?variant=42480933830842&ref=navimenu_1_2_3_1_copy)
+        
+        [Shop Mapping Robovac](https://us.eufy.com/collections/robot-vacuum-with-mapping?ref=navimenu_1_2_3_all_copy) [More About Navigation](https://us.eufy.com/robot-vacuums?ref=navimenu_1_2_3_more_copy)
+        
+    * [](https://us.eufy.com/collections/robot-vacuums?ref=navimenu_1_2_4_copy)
+        
+        [All Models](https://us.eufy.com/collections/robot-vacuums?ref=navimenu_1_2_4_copy)
         
         Select the Ideal Cleaner for Your Family
         
@@ -74,7 +74,7 @@
         
         [eufy Clean L60](https://us.eufy.com/products/t2267111?variant=42675935969466&ref=navimenu_1_2_4_1_copy)
         
-        [Shop Other Robot Vacuums](https://us.eufy.com/collections/robot-vacuum-mop?ref=navimenu_1_2_4_all_copy) [More About Other Robot Vacuums](https://us.eufy.com/robot-vacuums?ref=navimenu_1_2_4_more_copy)
+        [Shop All Models](https://us.eufy.com/collections/robot-vacuums?ref=navimenu_1_2_4_all_copy) [More About eufy Robovac](https://us.eufy.com/robot-vacuums?ref=navimenu_1_2_4_more_copy)
         
     
     * S Series
