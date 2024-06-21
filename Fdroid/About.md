@@ -171,11 +171,11 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Additional repos shaping the UI](https://f-droid.org/en/2024/06/20/twif.html) Jun 20, 2024
 * [One twenty for everyone](https://f-droid.org/en/2024/06/13/twif.html) Jun 13, 2024
 * [Dozens of new apps](https://f-droid.org/en/2024/06/06/twif.html) Jun 06, 2024
 * [Want the Universe?](https://f-droid.org/en/2024/05/30/twif.html) May 30, 2024
 * [Finally an alternative to Big Tech, your new open-source mobile ecosystem - Mobifree](https://f-droid.org/en/2024/05/24/mobifree.html) May 24, 2024
-* [Relatively good news](https://f-droid.org/en/2024/05/23/twif.html) May 23, 2024
 
 ### Last Updated
 
@@ -193,20 +193,20 @@ Scientific calculator with LaTeX equation display](https://f-droid.org/en/packag
 
 A Fridgey to help recording your food!](https://f-droid.org/en/packages/lying.fengfeng.foodrecords/)
 
-### Latest Apps
+### Nýjustu forrit
 
-[![](https://f-droid.org/repo/net.alexbarry.calc_android/en-US/icon_vP0BvHeqchBW8T9TgUQ-gnh4O7uBdGwpRoxEMLCU2uE=.png)
+[![](https://f-droid.org/repo/org.fdroid.basic/en-US/icon_0slNR8J9edqDZDoyWABFZrqQONU9EyiNVwM6B3Jui_Q=.png)
 
-#### AlexCalc
+#### F-Droid Basic
 
-Scientific calculator with LaTeX equation display](https://f-droid.org/en/packages/net.alexbarry.calc_android/)[![](https://f-droid.org/repo/com.example.notificationalerter/en-US/icon_Oltgjy9BWau-vDbMXRuL2Ueh8dAu_QF42cEmrznr-do=.jpg)
+Forritasafnið sem virðir frelsi og gagnaleynd](https://f-droid.org/en/packages/org.fdroid.basic/)[![](https://f-droid.org/repo/com.calcitem.sanmill/en-US/icon_pLxsR3w1KB0A_H3Nv9gDiPAwTVrVmmQiYY2dOnHPk3A=.png)
 
-#### Notification Listener
+#### Mylla
 
-Get notified only of important notifications.](https://f-droid.org/en/packages/com.example.notificationalerter/)[![](https://f-droid.org/repo/com.keshav.capturesposed/en-US/icon_W6M--rmiIW-m3bNPTNGDM2WiFlOGfyN_RpTrVn9Y5Ak=.png)
+Mylla leikjafórítæki sem styður mismunandi reglubreytingar](https://f-droid.org/en/packages/com.calcitem.sanmill/)[![](https://f-droid.org/repo/net.kollnig.missioncontrol.fdroid/en-US/icon_kZAFyqHgQyTcEvB9N2Q6i8ejeNwBAoqVAG43qIEPOqE=.png)
 
-#### CaptureSposed
+#### TrackerControl
 
-Add support for blocking the Screenshot Detection API introduced in Android 14!](https://f-droid.org/en/packages/com.keshav.capturesposed/)
+TrackerControl allows to monitor and control hidden data collection in apps.](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-06-20, fdroid-website [2.236](https://gitlab.com/fdroid/fdroid-website/tree/f8e91be5b5)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-06-20, fdroid-website [2.238](https://gitlab.com/fdroid/fdroid-website/tree/482edebe00)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
