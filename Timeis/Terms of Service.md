@@ -21,14 +21,14 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-10:10:32
+07:02:50
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Wednesday, June 19, 2024
+Friday, June 21, 2024
 
-[Juneteenth](https://en.wikipedia.org/wiki/Juneteenth) / [International Day for the Elimination of Sexual Violence in Conflict](https://www.un.org/en/observances/end-sexual-violence-in-conflict-day)
+[World Music Day](https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique) / [International Day of Yoga](https://www.un.org/en/observances/yoga-day)
 
 Sun: ↑ 05:59 ↓ 21:48 (15h 49m) - [More info](https://time.is/France#time_zone) - [Make France time default](https://time.is/h/2e0aa6) - [Add to favorite locations](https://time.is/)
 
