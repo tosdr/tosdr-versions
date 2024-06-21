@@ -207,10 +207,10 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Publications
 
-* [June 2024](https://unric.org/en/2024/06/) (24)
+* [June 2024](https://unric.org/en/2024/06/) (26)
 * [May 2024](https://unric.org/en/2024/05/) (26)
-* [April 2024](https://unric.org/en/2024/04/) (33)
-* [March 2024](https://unric.org/en/2024/03/) (54)
+* [April 2024](https://unric.org/en/2024/04/) (34)
+* [March 2024](https://unric.org/en/2024/03/) (53)
 * [February 2024](https://unric.org/en/2024/02/) (36)
 * [January 2024](https://unric.org/en/2024/01/) (23)
 * [December 2023](https://unric.org/en/2023/12/) (33)
