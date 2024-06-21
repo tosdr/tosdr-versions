@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/musical-genres-worksheet/)
+ [](https://schoolsmusicmarket.com/product/musical-maths-worksheet-addition-activity/)
 
 [SALE](https://schoolsmusicmarket.com/market/jsf/epro-products/sort/orderby%3Asales_number%3Border%3ADESC/)
 
@@ -276,7 +276,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/the-musical-periods-worksheet-activity/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-pop-music/)
 
 ###### Browse By Year/Grade
 
