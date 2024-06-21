@@ -197,6 +197,6 @@ We are here to help!
 
 [Become a Dealer](https://ezonpro.com/become-a-dealer/)
 
-#### Chat with our AI!
+#### Chat with us!
 
 © 2024 EZ-ON Products, LLC | All Rights Reserved | [Privacy Policy](https://ezonpro.com/privacy-policy)
