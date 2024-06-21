@@ -67,6 +67,13 @@ Hauptmenü
     * [Nach­rich­ten­diens­te](https://www.bfdi.bund.de/DE/Buerger/Strafrecht-Sicherheitsrecht/Nachrichtendienste/Nachrichtendienste_node.html)
     * [Si­cher­heits­über­prü­fungs­recht](https://www.bfdi.bund.de/DE/Buerger/Strafrecht-Sicherheitsrecht/S%C3%9CG/S%C3%9CG_node.html)
     
+    [In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/informationsfreiheit_node.html)
+    ---------------------------------------------------------------------------------------------------------------------
+    
+    * [Ba­sis­wis­sen In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/Basiswissen/Basiswissen_node.html)
+    * [Wis­sens­wer­tes zum IFG-An­trag](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IFG-Antrag/IFG-Antrag_node.html)
+    * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IF-Konferenzen/IF-Konferenzen_node.html)
+    
     [All­ge­mei­ne Ver­wal­tung](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Allgemeine-Verwaltung_node.html)
     -----------------------------------------------------------------------------------------------------------------------
     
@@ -78,9 +85,6 @@ Hauptmenü
     --------------------------------------------------------------------------------------------------------------------------
     
     * [Smart­wat­ches für Kin­der](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Smartwatch/Smartwatch_node.html)
-    
-    [In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/informationsfreiheit_node.html)
-    ---------------------------------------------------------------------------------------------------------------------
     
     [Mus­ter­tex­te](https://www.bfdi.bund.de/DE/Buerger/Mustertexte/Mustertexte_node.html)
     ---------------------------------------------------------------------------------------
@@ -258,13 +262,16 @@ Schließen
         * [In­ter­na­tio­na­le Straf­ver­fol­gung](https://www.bfdi.bund.de/DE/Buerger/Strafrecht-Sicherheitsrecht/Strafverfolgung-international/Strafverfolgung-international-node.html "Internationale Strafverfolgung")
         * [Nach­rich­ten­diens­te](https://www.bfdi.bund.de/DE/Buerger/Strafrecht-Sicherheitsrecht/Nachrichtendienste/Nachrichtendienste_node.html)
         * [Si­cher­heits­über­prü­fungs­recht](https://www.bfdi.bund.de/DE/Buerger/Strafrecht-Sicherheitsrecht/S%C3%9CG/S%C3%9CG_node.html)
+    * Informationsfreiheit
+        * [Ba­sis­wis­sen In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/Basiswissen/Basiswissen_node.html)
+        * [Wis­sens­wer­tes zum IFG-An­trag](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IFG-Antrag/IFG-Antrag_node.html)
+        * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IF-Konferenzen/IF-Konferenzen_node.html)
     * Allgemeine Verwaltung
         * [Fi­nan­zen und Steu­ern](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/FinanzenSteuern/FinanzenSteuern-node.html "Finanzen und Steuern")
         * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Meldewesen-Statistik/Meldewesen-Statistik_node.html)
         * [Wei­te­re Ver­wal­tungs­tä­tig­kei­ten](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Weitere-Verwaltungstaetigkeiten/Weitere-Verwaltungstaetigkeiten-node.html)
     * Technische Anwendungen
         * [Smart­wat­ches für Kin­der](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Smartwatch/Smartwatch_node.html)
-    * [In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/informationsfreiheit_node.html)
     * [Mus­ter­tex­te](https://www.bfdi.bund.de/DE/Buerger/Mustertexte/Mustertexte_node.html)
 * Fachthemen
     * Gremienarbeit
