@@ -214,11 +214,6 @@ Menu
         * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
         
     
-* Pricing
-    
-    * [For Individuals](https://corporatefinanceinstitute.com/pricing/)
-    * [For Teams](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
-    
 * Resources
     
     * [Card](#)
@@ -241,6 +236,8 @@ Menu
         
         * [Corporate Finance Resources](https://corporatefinanceinstitute.com/resources/)
     
+* [For Individuals](https://corporatefinanceinstitute.com/pricing/)
+* [For Teams](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
 
 * [My Account](#)
     
