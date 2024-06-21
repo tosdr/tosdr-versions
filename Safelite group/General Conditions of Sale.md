@@ -54,9 +54,9 @@ You may reschedule service at any time without incurring any cancellation fee.
 * [Help center](https://www.safelite.com/help-center)
 * [Careers](https://www.safelite.com/careers)
 * [For agencies](https://safeliteforagents.com/)
-* English
+* ![](/ResourcePackages/WizeMercury/assets/dist/Images/network-world.svg)English
     
-    * [English](https://www.safelite.com/cancellation-refund-policy)
+    * [English](javascript: void(0))
     * [Español](https://espanol.safelite.com/cancellation-refund-policy)
     
 
