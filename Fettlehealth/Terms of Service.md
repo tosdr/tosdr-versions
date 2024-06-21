@@ -487,11 +487,11 @@ Thank you for visiting our site.
 
 Last updated at: 17 June 2024
 
-![Inspected and rated outstanding - Care Quality Commission](https://images.ctfassets.net/67y6xvdyeixo/4QA0vIrTnuWsDA7d0mStbm/0b4d7aeebd07b7ad715007f7c912b0eb/CQC_inspected_and_rated_outstanding.png?w=640&q=75)
+![Inspected and rated outstanding - Care Quality Commission](https://images.ctfassets.net/67y6xvdyeixo/4QA0vIrTnuWsDA7d0mStbm/e89c4ef40ba2f5a9b3f9cbd26427897b/logo_-_cqc.png?w=640&q=75)
 
-![The Queen's Awards for Enterprise: International Trade 2017](https://images.ctfassets.net/67y6xvdyeixo/3vKJzh1k9VtxhEhCbc0mKH/f6c7987f45e56b9cfa497a4819934b50/queens_award.png?w=384&q=75)
+![The Queen's Awards for Enterprise logo](https://images.ctfassets.net/67y6xvdyeixo/3vKJzh1k9VtxhEhCbc0mKH/91d3982a1d8f7ff7420390e27c897076/logo_-_queens_award.png?w=640&q=75)
 
-![Cyber Essentials](https://images.ctfassets.net/67y6xvdyeixo/4kUzmif7aFERC1P5CiKypD/9429e2eee1ce6427314cb5b1af5f6a47/CyberEssentialsBadgeHighRes.png?w=640&q=75)
+![Cyber Essentials](https://images.ctfassets.net/67y6xvdyeixo/4kUzmif7aFERC1P5CiKypD/16dd1cfc0e7daf3cc8e72d3519f94a38/logo_-_cyber_essentials.png?w=640&q=75)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27220%27%20height=%2779%27/%3e)![](https://images.ctfassets.net/67y6xvdyeixo/4CHIPrNIKdBnSaukPhK1mH/dd13d686241152074b9309d7ecfb1aef/fettle-endorsement-logo.svg?w=640&q=75)
 
