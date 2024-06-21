@@ -167,7 +167,7 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     * [Tech Video](https://www.wsj.com/video/browse/tech?mod=nav_top_subsection)
     * [Tech Podcast](https://www.wsj.com/podcasts/latest/wsj-tech-news-briefing?mod=nav_top_subsection)
     
-* [Finance](https://www.wsj.com/finance?mod=nav_top_section)
+* [Markets & Finance](https://www.wsj.com/finance?mod=nav_top_section)
     
     #### Topics
     
@@ -234,14 +234,13 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     * [Opinion Video](https://www.wsj.com/video/browse/opinion?mod=nav_top_subsection)
     * [Notable & Quotable](https://www.wsj.com/news/types/notable-quotable?mod=nav_top_subsection)
     
-* [Arts & Culture](https://www.wsj.com/arts-culture?mod=nav_top_section)
+* [Arts](https://www.wsj.com/arts-culture?mod=nav_top_section)
     
     #### Topics
     
     * [Books](https://wsj.com/arts-culture/books?mod=nav_top_subsection)
     * [Film](https://www.wsj.com/arts-culture/film?mod=nav_top_subsection)
     * [Fine Art](https://www.wsj.com/arts-culture/fine-art?mod=nav_top_subsection)
-    * [Food & Cooking](https://www.wsj.com/arts-culture/food-cooking?mod=nav_top_subsection)
     * [History](https://www.wsj.com/arts-culture/history?mod=nav_top_subsection)
     * [Music](https://www.wsj.com/arts-culture/music?mod=nav_top_subsection)
     * [Television](https://www.wsj.com/arts-culture/television?mod=nav_top_subsection)
@@ -275,6 +274,7 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     * [Careers](https://www.wsj.com/lifestyle/careers?mod=nav_top_subsection)
     * [Cars](https://www.wsj.com/lifestyle/cars?mod=nav_top_subsection)
     * [Fitness](https://www.wsj.com/lifestyle/fitness?mod=nav_top_subsection)
+    * [Food & Cooking](https://www.wsj.com/arts-culture/food-cooking?mod=nav_top_subsection)
     * [Relationships](https://www.wsj.com/lifestyle/relationships?mod=nav_top_subsection)
     * [Travel](https://www.wsj.com/lifestyle/travel?mod=nav_top_subsection)
     * [Workplace](https://www.wsj.com/lifestyle/workplace?mod=nav_top_subsection)
@@ -495,7 +495,7 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     * [Tech Video](https://www.wsj.com/video/browse/tech?mod=nav_top_subsection)
     * [Tech Podcast](https://www.wsj.com/podcasts/latest/wsj-tech-news-briefing?mod=nav_top_subsection)
     
-* [Finance](https://www.wsj.com/finance?mod=nav_top_section)
+* [Markets & Finance](https://www.wsj.com/finance?mod=nav_top_section)
     
     #### Topics
     
@@ -562,14 +562,13 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     * [Opinion Video](https://www.wsj.com/video/browse/opinion?mod=nav_top_subsection)
     * [Notable & Quotable](https://www.wsj.com/news/types/notable-quotable?mod=nav_top_subsection)
     
-* [Arts & Culture](https://www.wsj.com/arts-culture?mod=nav_top_section)
+* [Arts](https://www.wsj.com/arts-culture?mod=nav_top_section)
     
     #### Topics
     
     * [Books](https://wsj.com/arts-culture/books?mod=nav_top_subsection)
     * [Film](https://www.wsj.com/arts-culture/film?mod=nav_top_subsection)
     * [Fine Art](https://www.wsj.com/arts-culture/fine-art?mod=nav_top_subsection)
-    * [Food & Cooking](https://www.wsj.com/arts-culture/food-cooking?mod=nav_top_subsection)
     * [History](https://www.wsj.com/arts-culture/history?mod=nav_top_subsection)
     * [Music](https://www.wsj.com/arts-culture/music?mod=nav_top_subsection)
     * [Television](https://www.wsj.com/arts-culture/television?mod=nav_top_subsection)
@@ -603,6 +602,7 @@ Other Products from WSJ* [Buy Side from WSJ](https://www.wsj.com/buyside?mod=wsj
     * [Careers](https://www.wsj.com/lifestyle/careers?mod=nav_top_subsection)
     * [Cars](https://www.wsj.com/lifestyle/cars?mod=nav_top_subsection)
     * [Fitness](https://www.wsj.com/lifestyle/fitness?mod=nav_top_subsection)
+    * [Food & Cooking](https://www.wsj.com/arts-culture/food-cooking?mod=nav_top_subsection)
     * [Relationships](https://www.wsj.com/lifestyle/relationships?mod=nav_top_subsection)
     * [Travel](https://www.wsj.com/lifestyle/travel?mod=nav_top_subsection)
     * [Workplace](https://www.wsj.com/lifestyle/workplace?mod=nav_top_subsection)
