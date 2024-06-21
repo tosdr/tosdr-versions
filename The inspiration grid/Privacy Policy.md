@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/06/art-paul-cocksedge-feature.jpg)
+
+[](https://theinspirationgrid.com/imaginative-public-art-by-paul-cocksedge/)
+
+### Imaginative Public Art by Paul Cocksedge
+
+![](https://inspgr.id/app/uploads/2024/06/art-oscar-duarte-feature.jpg)
+
+[](https://theinspirationgrid.com/collages-by-oscar-duarte/)
+
+### Fantastic Digital Collages by Oscar Duarte
+
 ![](https://inspgr.id/app/uploads/2024/06/3d-mo-oo-feature.jpg)
 
 [](https://theinspirationgrid.com/stunning-3d-art-by-mo-oo/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/gac-era-concept-car-cgi-renders-by-gf-x/)
 
 ### GAC ERA Concept Car: CGI Renders by GF X
-
-![](https://inspgr.id/app/uploads/2024/06/murals-emmy-star-brown-feature.jpg)
-
-[](https://theinspirationgrid.com/beautiful-lettering-murals-by-emmy-star-brown/)
-
-### Beautiful Lettering Murals by Emmy Star Brown
-
-![](https://inspgr.id/app/uploads/2024/06/3d-michael-santin-feature.jpg)
-
-[](https://theinspirationgrid.com/fun-3d-illustrations-by-michael-santin/)
-
-### Fun 3D Illustrations by Michael Santin
 
 Awesome products for creatives
 ------------------------------
