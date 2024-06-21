@@ -2,9 +2,7 @@
 
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20124'%3E%3C/svg%3E)
-
-![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.webp)](https://adstradata.com/)
+[![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.webp)](https://adstradata.com/)
 
 * [Home](https://adstradata.com/)
 * [Segments](#)
