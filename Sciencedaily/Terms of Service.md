@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**June 18, 2024**
+**June 20, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Quake Changed the Course of the Ganges](https://www.sciencedaily.com/releases/2024/06/240617173557.htm)
-* [Speed of Cepheid Stars](https://www.sciencedaily.com/releases/2024/06/240614141918.htm)
-* [Wildfires Create Weather That Favors More Fire](https://www.sciencedaily.com/releases/2024/06/240618115618.htm)
-* [Astronomers See a Massive Black Hole Awaken](https://www.sciencedaily.com/releases/2024/06/240618115433.htm)
-* [A Million Light Years and Still Going](https://www.sciencedaily.com/releases/2024/06/240617173533.htm)
-* [Brain-Computer Interfaces](https://www.sciencedaily.com/releases/2024/06/240617173427.htm)
-* [1 in 4 Kids May Be Too Anxious to Get to Sleep](https://www.sciencedaily.com/releases/2024/06/240617173714.htm)
-* [Measuring Aging With Protein Aggregation Clock](https://www.sciencedaily.com/releases/2024/06/240617173433.htm)
-* [Dairy Consumption in The Early Neolithic](https://www.sciencedaily.com/releases/2024/06/240617173552.htm)
-* [A High-Fat Diet May Fuel Anxiety](https://www.sciencedaily.com/releases/2024/06/240617173547.htm)
+* [Leaping Leeches](https://www.sciencedaily.com/releases/2024/06/240620152253.htm)
+* [New Genetic Cause of Obesity](https://www.sciencedaily.com/releases/2024/06/240620152240.htm)
+* [Plants Don't Hold Carbon for Long](https://www.sciencedaily.com/releases/2024/06/240620152225.htm)
+* [Hurricane Changed 'Game Rules' for Monkeys](https://www.sciencedaily.com/releases/2024/06/240620152032.htm)
+* [Breakthrough for Green Hydrogen Generation](https://www.sciencedaily.com/releases/2024/06/240620151411.htm)
+* [Ingestible Microbiome Sampling Pill](https://www.sciencedaily.com/releases/2024/06/240612140911.htm)
+* [25% of US Backyards Exceed EPA Lead Levels](https://www.sciencedaily.com/releases/2024/06/240619143719.htm)
+* [Jupiter's Great Red Spot: Longest-Lived Vortex](https://www.sciencedaily.com/releases/2024/06/240619143717.htm)
+* [Non-Native Species Expand Ranges 100X Faster](https://www.sciencedaily.com/releases/2024/06/240619143655.htm)
+* [New Class of Materials Called 'Glassy Gels'](https://www.sciencedaily.com/releases/2024/06/240619143556.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
+[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Bird Flu](https://www.sciencedaily.com/news/health_medicine/bird_flu/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[Breastfeeding](https://www.sciencedaily.com/news/health_medicine/breastfeeding/)
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+[Inorganic Chemistry](https://www.sciencedaily.com/news/matter_energy/inorganic_chemistry/)
+
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
-
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
   
 
