@@ -291,15 +291,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Juneteenth](https://apnews.com/article/what-is-juneteenth-celebration-ideas-federal-holiday-2f7116be4418065cd954b6dbf98c62b8)
+[Donald Sutherland dies](https://apnews.com/article/donald-sutherland-dies-68b0713a89774964b88ce0a1cc55cc18)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
-[Willie Mays dies](https://apnews.com/article/willie-mays-dies-at-93-baseball-33b31cc2d6382676ed54517d20ea36a3)
+[Copa America](https://apnews.com/article/canada-argentina-score-69ffea8264d44a35eb0f686635e45a00)
 
-[Monty Williams](https://apnews.com/article/pistons-monty-williams-9a458faa93eac2bb380f8fe910fe7ff6)
+[Ten Commandments](https://apnews.com/article/governor-jeff-landry-louisiana-conservative-bef181b17cb5a5819514c7c68ae8f2e1)
 
-[Euro 2024](https://apnews.com/article/germany-hungary-euro-2024-18e88b5732018a5b9f59764209e215c4)
+[Taylor Swift](https://apnews.com/article/taylor-swift-eras-tour-london-6b25a44d14749d93d607064c77523151)
 
 The Associated Press
 ====================
