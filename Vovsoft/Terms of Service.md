@@ -100,7 +100,7 @@ Without prejudice to any other rights, Vovsoft may terminate this agreement if l
   
   
 
-   
+    
 
 ![Clicky](//in.getclicky.com/101380638ns.gif)
 
