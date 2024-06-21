@@ -331,9 +331,9 @@ Visualise and analyse relationships between species, location and environment.
 * [Developer tools & documentation](https://support.ala.org.au/support/solutions/folders/6000233596 "Developer tools & documentation")
 * [All sites, services & tools](https://www.ala.org.au/sites-and-services/ "All sites, services & tools")
 
-#### The ALA is made possible by contributions from its partners, is supported by [NCRIS](https://www.dese.gov.au/ncris), is hosted by [CSIRO](https://csiro.au/), and is the Australian node of [GBIF](https://www.gbif.org/en/).
+#### The ALA is made possible by contributions from its partners, is supported by [NCRIS](https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris), is hosted by [CSIRO](https://csiro.au/), and is the Australian node of [GBIF](https://www.gbif.org/en/).
 
-[![NCRIS logo](https://www.ala.org.au/app/uploads/2019/06/NCRIS_150px-150x109.jpg)](https://www.dese.gov.au/ncris)    [![CSIRO logo](https://www.ala.org.au/app/uploads/2019/07/CSIRO_Solid_RGB-150x150.png)](https://csiro.au/) [![GBIF logo](https://www.ala.org.au/app/uploads/2019/06/GBIF_109px.png)](https://www.gbif.org/en/)
+[![NCRIS logo](https://www.ala.org.au/app/uploads/2019/06/NCRIS_150px-150x109.jpg)](https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris)    [![CSIRO logo](https://www.ala.org.au/app/uploads/2019/07/CSIRO_Solid_RGB-150x150.png)](https://csiro.au/) [![GBIF logo](https://www.ala.org.au/app/uploads/2019/06/GBIF_109px.png)](https://www.gbif.org/en/)
 
 #### Acknowledgement of Traditional Owners and Country
 
