@@ -296,7 +296,7 @@ Due to inactivity, your session has expired. Please sign in again to continue.
 
 OK
 
-![](/support/lb_kal.html)  
+![](/support/lb_kal.html)   
 
 * [Support](https://www.verizonwireless.com/support/ "Support") [Support](https://www.verizonwireless.com/support/ "Support") 
 * [Other Wireless Topics](https://www.verizonwireless.com/support/other-wireless-topics/ "Other Wireless Topics") 
