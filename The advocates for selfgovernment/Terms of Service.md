@@ -537,6 +537,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-2.55.27 PM-300x200.png)](https://www.theadvocates.org/reality-by-agreement/)
+    
+    #### [Reality by Agreement](https://www.theadvocates.org/reality-by-agreement/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-31-at-12.37.06 PM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
     
     #### [Principles of Market Fundamentalism, No. 8: Emergence](https://www.theadvocates.org/principles-of-market-fundamentalism-no-8-emergence/)
@@ -564,10 +568,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/04/Marx1-1-300x200.png)](https://www.theadvocates.org/the-intellectuals-and-redistribution/)
     
     #### [The Intellectuals and Redistribution](https://www.theadvocates.org/the-intellectuals-and-redistribution/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/04/Screenshot-2024-04-22-at-10.30.05 AM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-5-entrepreneurism/)
-    
-    #### [Principles of Market Fundamentalism, No. 5: Entrepreneurism](https://www.theadvocates.org/principles-of-market-fundamentalism-no-5-entrepreneurism/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
