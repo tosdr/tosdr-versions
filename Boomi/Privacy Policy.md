@@ -167,7 +167,6 @@
 * [Partners](#)
     * [sub](#)
         * [Partner Ecosystem](https://boomi.com/partners/)
-        * [OEM Partners](https://boomi.com/partners/oem-embedded-partners/)
         * [Find a Partner](https://partners.boomi.com/English/directory/)
         * [Become a partner](https://boomi.com/partners/become-a-partner/)
         * [Partner Login](https://partners.boomi.com/English/)
