@@ -174,7 +174,7 @@ Barracuda’s cloud-first SASE Platform
 
 [TECHNOLOGIES](#)
 
-[![Featured: Ransomware Protection](/adobe/dynamicmedia/deliver/dm-aid--02caa0fa-b2db-47e0-b0cc-5e0d144ca12c/solutions-ransomware-protection.jpg?preferwebp=true&quality=95)](https://www.barracuda.com/solutions/ransomware)
+[![Featured: Ransomware Protection](/adobe/dynamicmedia/deliver/dm-aid--02caa0fa-b2db-47e0-b0cc-5e0d144ca12c/solutions-ransomware-protection.jpg?quality=95&preferwebp=true)](https://www.barracuda.com/solutions/ransomware)
 
 **Ransomware Protection**
 
@@ -190,7 +190,7 @@ Our advanced AI blocks the most advanced email impersonation attacks from reachi
 
 [\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
 
-[![Featured: Zero Trust Access](/adobe/dynamicmedia/deliver/dm-aid--09c85f36-d6bf-47e8-9c6e-015672fd48e7/featured-zero-trust-access.png?preferwebp=true&quality=95)](https://www.barracuda.com/products/network-protection/secureedge/zero-trust-access)
+[![Featured: Zero Trust Access](/adobe/dynamicmedia/deliver/dm-aid--09c85f36-d6bf-47e8-9c6e-015672fd48e7/featured-zero-trust-access.png?quality=95&preferwebp=true)](https://www.barracuda.com/products/network-protection/secureedge/zero-trust-access)
 
 **Zero Trust Access**
 
