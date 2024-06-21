@@ -93,35 +93,35 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-55
-
-[Don Toliver
-
-HARDSTONE PSYCHO](https://www.albumoftheyear.org/album/905366-don-toliver-hardstone-psycho.php)
-
 NR
 
 [JPEGMAFIA
 
 don't rely on other men](https://www.albumoftheyear.org/album/987002-jpegmafia-dont-rely-on-other-men.php)
 
-72
+NR
 
-[Normani
+[Aphex Twin
 
-DOPAMINE](https://www.albumoftheyear.org/album/882190-normani-dopamine.php)
-
-65
-
-[$uicideboy$
-
-New World Depression](https://www.albumoftheyear.org/album/899681-suicideboys-new-world-depression.php)
+#19](https://www.albumoftheyear.org/album/988725-aphex-twin-19.php)
 
 90
 
-[Ulcerate
+[Charli xcx
 
-Cutting the Throat of God](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php)
+The girl, so confusing version with lorde](https://www.albumoftheyear.org/album/991072-charli-xcx-the-girl-so-confusing-version-with-lorde.php)
+
+70
+
+[Gracie Abrams
+
+The Secret of Us](https://www.albumoftheyear.org/album/944069-gracie-abrams-the-secret-of-us.php)
+
+NR
+
+[King Krule
+
+SHHHHHHH!](https://www.albumoftheyear.org/album/990792-king-krule-shhhhhhh.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
@@ -129,9 +129,9 @@ Cutting the Throat of God](https://www.albumoftheyear.org/album/901868-ulcerate-
 
 [View More](https://www.albumoftheyear.org/discover/top-rated/)
 
-[![Ulcerate - Cutting the Throat of God](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php "Ulcerate - Cutting the Throat of God")
-
 [![Charli xcx - BRAT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887267-charli-xcx-brat.php "Charli xcx - BRAT")
+
+[![Ulcerate - Cutting the Throat of God](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php "Ulcerate - Cutting the Throat of God")
 
 [![Knocked Loose - You Won't Go Before You're Supposed To](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php "Knocked Loose - You Won't Go Before You're Supposed To")
 
