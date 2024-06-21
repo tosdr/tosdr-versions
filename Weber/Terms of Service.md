@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
- [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwfd2270f8/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+ [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw74cd0cea/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -29,7 +29,7 @@ Genesis® NEW](https://www.weber.com/US/en/gas/genesis/ "Genesis®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_Spirit_E210_NAV_207x165.png?auto=compress,format)
 
-Spirit®](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
+Spirit® $50 OFF](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/summit_2024_207x165.png?auto=compress,format)
 
@@ -181,7 +181,7 @@ Weber Works™ NEW](https://www.weber.com/US/en/griddle/weber-works/ "Weber Work
 
 [![](https://dw-images.weber.com/navigation/default/griddles/FullSize_Insert_207x165.png?auto=compress,format)
 
-Full-Size Griddle Inserts $50 OFF](https://www.weber.com/US/en/griddle/full-size-griddle-inserts/ "Full-Size Griddle Inserts")
+Full-Size Griddle Inserts](https://www.weber.com/US/en/griddle/full-size-griddle-inserts/ "Full-Size Griddle Inserts")
 
 [![](https://dw-images.weber.com/navigation/default/griddles/Griddle_Inserts_207x165.png?auto=compress,format)
 
@@ -193,7 +193,7 @@ Griddle Accessories](https://www.weber.com/US/en/griddle/griddle-accessories/ "G
 
 [Shop All Griddles](https://www.weber.com/US/en/griddle/ "Shop All Griddles")
 
-  [![](https://dw-images.weber.com/images/Landing%20Pages/2024-landing-pages/searwood/MegaMenu_207x165.jpg?auto=compress,format)$50 Off Rust-Resistant Griddle Inserts](https://www.weber.com/US/en/griddle/full-size-griddle-inserts/)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
+  [![](https://dw-images.weber.com/navigation/default/accessories/Griddle_LP_207x165.jpg?auto=compress,format)A Griddle for Every Grill](https://www.weber.com/US/en/griddles-lp.html)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
 
 [Accessories](https://www.weber.com/US/en/shopallaccessories.html "Accessories")
 
@@ -362,7 +362,7 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwfd2270f8/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw74cd0cea/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
