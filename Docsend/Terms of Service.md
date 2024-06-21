@@ -396,7 +396,7 @@ b.   Additional End Users. The Services may be configured to allow Administrat
 
 “Order Form” means an ordering document, order page, or user interface through which Customer purchases a subscription to, activates, or registers for the Services.
 
-“Privacy Policy” means the DocSend Privacy Policy available at [https://www.docsend.com/privacy](https://www.docsend.com/privacy).
+“Privacy Policy” means the DocSend Privacy Policy available at [https://www.docsend.com/privacy-policy/.](https://www.docsend.com/privacy-policy/)
 
 “Provisioning Date” is the date upon which DocSend makes the Services available to Customer.
 
