@@ -1,4 +1,4 @@
-[**Introducing Screencastify AI!** Meet our AI-powered features designed to save teachers time. **Learn more**.](https://www.screencastify.com/blog/introducing-screencastify-ai)
+[**Looking for a student video solution?** Given the recent sunset of Flip’s apps, check out Submit as an alternative. Here’s how we can help. ﻿**👈**](https://www.screencastify.com/blog/prioritizing-student-voice-try-submit-to-replace-flip)﻿
 
 [](#)
 
