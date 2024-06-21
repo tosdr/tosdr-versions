@@ -28,12 +28,11 @@ Avocado's product trial and return policy varies by product.
 
 Written by Mark Abrials
 
-Updated this week
-
-Return Policy
-=============
+Updated over a week ago
 
 Avocado's trial and return policy varies by product and is limited to our service area within the United States, including Hawaii and Alaska. [Terms, conditions, and exclusions](#h_7d9bd1a936) apply and are detailed below.
+
+* * *
 
 Mattresses, Foundations, Metal Bed Frames & Bunkie Boards
 ---------------------------------------------------------
