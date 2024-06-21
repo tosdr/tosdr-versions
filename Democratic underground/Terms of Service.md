@@ -188,5 +188,3 @@ Members may opt to make use of an avatar or signature line that is appended to a
 [In Memoriam](https://www.democraticunderground.com/?com=inmemoriam)  
   
 © 2001 - 2024 Democratic Underground, LLC. Thank you for visiting.
-
-![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.democraticunderground_com,DomainId.201914)
