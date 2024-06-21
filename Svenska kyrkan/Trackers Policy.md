@@ -337,7 +337,7 @@ Vad söker du?
                 
             * [Feministisk bibeltolkning och teologi](https://www.svenskakyrkan.se/kristentro/feministisk-teologi)
                 
-            * [Planera din bibelläsning](https://www.svenskakyrkan.se/bibeln/lektionarium)
+            * [Planera din bibelläsning](https://www.svenskakyrkan.se/bibeln-gammal/bibeln-gammal/lektionarium)
                 
             * [Kända bibelord](https://www.svenskakyrkan.se/bibeln-gammal/bibeln-gammalbibeln-gammalkanda-bibelord)
                 
