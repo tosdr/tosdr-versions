@@ -356,39 +356,39 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-constitution-b-crew-makes-progress-with-strange-plant-illness-at-drever-ii/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2013/07/StarfleetAcademyflag-e1648664193765-768x480.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-academy-graduates-457/)
 
-### [USS Constitution-B Crew makes progress with strange plant illness at Drever II](https://www.starbase118.net/2024/uss-constitution-b-crew-makes-progress-with-strange-plant-illness-at-drever-ii/)
+### [New Academy Graduates](https://www.starbase118.net/2024/new-academy-graduates-457/)
 
-Federation News Service June 17, 2024
+FltAdml. Tristan Wolf June 20, 2024
 
-PAOIKE COLONY — Rainstorm approaching Paoike Village took a dangerous turn, unleashing tennis ball-sized hail that wreaked havoc on the settlement and the Constitution crew.
+Please welcome our newest Academy graduates to the StarBase 118 fleet: Niev Galanis, Nera Ay, Solkon, Ashra, Eliana Darius, and Lera Michaels!
 
-[Read More »](https://www.starbase118.net/2024/uss-constitution-b-crew-makes-progress-with-strange-plant-illness-at-drever-ii/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/sb118_30th_anniversary_coin.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/happy-30th-anniversary/)
-
-### [Happy 30th Anniversary!](https://www.starbase118.net/2024/happy-30th-anniversary/)
-
-Alora DeVeau June 15, 2024
-
-Toward the end of the last century a small group of like-minded individuals got together and founded Starbase 118. I don’t know how long they
-
-[Read More »](https://www.starbase118.net/2024/happy-30th-anniversary/)
+[Read More »](https://www.starbase118.net/2024/new-academy-graduates-457/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-talax-sees-new-peace-as-betazoid-colony-in-the-delta-quadrant-gets-significant-boost/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-oddas-aria-denali-station-honor-of-the-admiralty-award/)
 
-### [New Talax sees new peace as Betazoid colony in the Delta Quadrant gets significant boost](https://www.starbase118.net/2024/new-talax-sees-new-peace-as-betazoid-colony-in-the-delta-quadrant-gets-significant-boost/)
+### [Award winner – Oddas Aria, Denali Station (Honor of the Admiralty Award)](https://www.starbase118.net/2024/award-winner-oddas-aria-denali-station-honor-of-the-admiralty-award/)
 
-Federation News Service June 15, 2024
+gogi8972 June 20, 2024
 
-DELTA QUADRANT — As the Talaxians and the Nedic Dreznin negotiate for a peaceful future and Talaxians find a second home on Idrustix, Amity Outpost’s
+Join us for another in a series of interviews with winners of awards from our 2023 Awards Ceremony. Our goal is to give you insight
 
-[Read More »](https://www.starbase118.net/2024/new-talax-sees-new-peace-as-betazoid-colony-in-the-delta-quadrant-gets-significant-boost/)
+[Read More »](https://www.starbase118.net/2024/award-winner-oddas-aria-denali-station-honor-of-the-admiralty-award/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/awards-and-mixed-emotions-as-uss-artemis-wraps-up-shoreleave/)
+
+### [Awards and mixed emotions as USS Artemis wraps up shoreleave](https://www.starbase118.net/2024/awards-and-mixed-emotions-as-uss-artemis-wraps-up-shoreleave/)
+
+Federation News Service June 19, 2024
+
+DEEP SPACE NINE – Shore leave ends with awards and anticipation for the Artemis’ crew.
+
+[Read More »](https://www.starbase118.net/2024/awards-and-mixed-emotions-as-uss-artemis-wraps-up-shoreleave/)
 
 Ready to get started?
 ---------------------
