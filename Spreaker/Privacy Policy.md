@@ -27,8 +27,6 @@ Go to... Terms of Service Spreaker Paid Products Community Rules Privacy Informa
 
 [Search Podcast](https://www.spreaker.com/search?ref=footer "Search Podcast")
 
-[Prime Network](https://www.spreaker.com/prime?ref=footer "Prime Network")
-
 #### Choose Language
 
 English Italiano Español Português
