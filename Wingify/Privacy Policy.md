@@ -231,7 +231,7 @@
     
     Upcoming Webinars
     
-    [![Resources Menu Upcoming Image Jonathan Lansdown 235 By 235@1x](https://static.wingify.com/gcp/uploads/2024/06/resources-menu-upcoming-image-Jonathan-Lansdown-235-by-235@1x.png?tr=w-300,h-240)](https://vwo.com/webcast/personalization-in-action-maximizing-impact-with-what-youve-got/)
+    [![Personalization in Action: Maximizing Impact with What You've Got](https://static.wingify.com/gcp/uploads/2024/06/resources-menu-upcoming-image-Jonathan-Lansdown-600-by-483@1x-2.png?tr=w-300,h-240)](https://vwo.com/webcast/personalization-in-action-maximizing-impact-with-what-youve-got/)
     
     Past Webinars
     
