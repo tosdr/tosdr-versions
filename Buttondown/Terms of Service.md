@@ -16,21 +16,20 @@ By accessing the website at [https://buttondown.email](https://buttondown.email/
 
 ### 2\. Use License
 
-1. Permission is granted to temporarily download one copy of the materials (information or software) on Buttondown's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-    
-    1. modify or copy the materials;
-    2. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-    3. attempt to decompile or reverse engineer any software contained on Buttondown, LLC's website;
-    4. remove any copyright or other proprietary notations from the materials; or
-    5. transfer the materials to another person or "mirror" the materials on any other server.
-2. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Buttondown, LLC at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+Permission is granted to temporarily download one copy of the materials (information or software) on Buttondown's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+
+1. modify or copy the materials;
+2. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+3. attempt to decompile or reverse engineer any software contained on Buttondown, LLC's website;
+4. remove any copyright or other proprietary notations from the materials; or
+5. transfer the materials to another person or "mirror" the materials on any other server.
+
+This license shall automatically terminate if you violate any of these restrictions and may be terminated by Buttondown, LLC at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
 ### 3\. Disclaimer
 
 1. The materials on Buttondown, LLC's website are provided on an 'as is' basis. Buttondown, LLC makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-    
 2. Further, Buttondown, LLC does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
-    
 
 ### 4\. Limitations
 
@@ -59,6 +58,16 @@ Buttondown, LLC may revise these terms of service for its website at any time wi
 ### 9\. Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of Seattle, WA and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+Contact Us
+----------
+
+If you have any questions, please email us at support@buttondown.email or by post to:
+
+Buttondown, LLC  
+2917 W Grace St.  
+Richmond VA, 23221  
+United States
 
 What customers say about Buttondown
 -----------------------------------
