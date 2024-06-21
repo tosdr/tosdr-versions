@@ -119,7 +119,7 @@ Vivaldi Help
 * [Forum](https://forum.vivaldi.net/)
 * [Themes](https://themes.vivaldi.net/)
 * [Social](https://social.vivaldi.net/)
-* [Contribute](https://vivaldi.com/contribute/)
+* [Contribute](https://vivaldi.net/contribute/)
 * [Merchandise](https://store.vivaldi.com/)
 * [Banners](https://vivaldi.com/banners/)
 
