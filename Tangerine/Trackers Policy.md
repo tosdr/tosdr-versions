@@ -272,8 +272,6 @@ Feedback
 
 Log Out
 
-  
-
 Digital Privacy and Interest-Based Advertising
 ==============================================
 
