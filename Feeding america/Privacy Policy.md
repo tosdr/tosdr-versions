@@ -151,10 +151,10 @@ Sidebar
 [![Feeding America Logo](/themes/custom/ts_feeding_america/images/svgs/logo-white-2020.svg)](https://www.feedingamerica.org/)
 
 * [Visit our Facebook page](https://www.facebook.com/FeedingAmerica "Facebook")
-* [Visit our X, formerly known as Twitter feedVisit our Twitter feed](https://twitter.com/feedingamerica "Twitter")
+* [Visit our X.com feedVisit our X.com feed](https://x.com/feedingamerica "X.com")
 * [Visit our Instagram](https://instagram.com/feedingamerica "Instagram")
 
-[![Charity Navigator Approved](/themes/custom/ts_feeding_america/images/charity_navigator_portrait.svg)](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=5271)[![Better Business Bureau Accredited Charity](/themes/custom/ts_feeding_america/images/bbb-2024-portrait.webp)](https://give.org/charity-reviews/national/Human-Services/Feeding-America-in-Chicago-il-2331)
+[![Charity Navigator Approved](/themes/custom/ts_feeding_america/images/charity_navigator_portrait.svg)](https://www.charitynavigator.org/ein/363673599)[![Better Business Bureau Accredited Charity](/themes/custom/ts_feeding_america/images/bbb-2024-portrait.webp)](https://give.org/charity-reviews/national/Human-Services/Feeding-America-in-Chicago-il-2331)
 
 161 North Clark Street,  
 Suite 700  
