@@ -77,7 +77,7 @@ Don't worry... we will never pass on your email address to third parties.
 
 * * *
 
-Copyright © 2024 SoftOrbits™. All rights reserved. [About Us](https://www.softorbits.net/about.html) | [Terms Of Use](https://www.softorbits.net/terms.html) | [Privacy Policy](https://www.softorbits.net/privacy-policy.html) | [Contacts](https://www.softorbits.net/support.html) | [Careers](https://www.softorbits.net/jobs.html)
+Copyright © 2024 SoftOrbits™ Co. Ltd. All rights reserved. [About Us](https://www.softorbits.net/about.html) | [Terms Of Use](https://www.softorbits.net/terms.html) | [Privacy Policy](https://www.softorbits.net/privacy-policy.html) | [Contacts](https://www.softorbits.net/support.html) | [Careers](https://www.softorbits.net/jobs.html)
 
 * [](https://www.facebook.com/SoftOrbits)
 * [](https://www.linkedin.com/company/SoftOrbits)
