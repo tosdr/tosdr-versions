@@ -2,10 +2,10 @@
 
 [Plans](https://www.deezer.com/en/offers/) [Features](https://www.deezer.com/explore/features/) [Music](https://www.deezer.com/en/channels/explore/)
 
-[Log in](https://www.deezer.com/en/login) [Sign up](https://www.deezer.com/en/register)
+[Log in](https://account.deezer.com/login/) [Sign up](https://account.deezer.com/signup/)
 
-* [Log in](https://www.deezer.com/en/login)
-* [Sign up](https://www.deezer.com/en/register)
+* [Log in](https://account.deezer.com/login/)
+* [Sign up](https://account.deezer.com/signup/)
 * [Download the app](https://www.deezer.com/open_app?page=home&source=MF_MenuDownloadApp)
 * [Plans](https://www.deezer.com/en/offers)
 * [Explore Channels](https://www.deezer.com/en/channels/explore)
@@ -454,7 +454,7 @@ If you are not satisfied with our response, you can contact our Data Protection 
 * [ACPS](https://www.deezer.com/explore/artist-remuneration/)
 
 * [Legal](https://www.deezer.com/legal/legal)
-* [Terms and Conditions of use](https://www.deezer.com/legal/cgu)
+* [Terms and Conditions](https://www.deezer.com/legal/cgu)
 * [Privacy policy](https://www.deezer.com/legal/personal-datas)
 * Cookies
 * [Modern Slavery Act](https://e-cdn-files.dzcdn.net/pdfs/legal/legal_uk_2023.pdf)
