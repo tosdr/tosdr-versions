@@ -1,3 +1,5 @@
+[MDQL](https://www.youtube.com/live/I30ShnXyrbo)'s going Brazilian! Check the [thread](https://www.sporcle.com/groups/topics/77d83efc3891)!
+
 1. [Quizzes](https://www.sporcle.com/)
 2. [Events](https://www.sporcle.com/events/)
 
@@ -438,7 +440,7 @@ est. 2007
 
 mentally stimulating diversions](https://www.sporcle.com/)
 
-5,644,706,171 quizzes played
+5,647,428,887 quizzes played
 
 Remove Ads.
 
