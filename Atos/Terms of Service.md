@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        17 June 2024
+        21 June 2024
         
-        Eviden announces SICS ALAT, the combat information system of the SCORPION program, to be embedded in the aircraft of the French Army Light Aviation by 2026
-        -----------------------------------------------------------------------------------------------------------------------------------------------------------
+        Market update - June 20, 2024
+        -----------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
@@ -279,9 +279,9 @@ Homepage](https://atos.net/en)
         --------------
         
         * [UGAP: Leveraging the move to cloud](https://atos.net/en/client-stories/ugap-leveraging-the-move-to-cloud)
+        * [Intelligent networks and integrated service desk at Siemens Healthineers](https://atos.net/en/client-stories/intelligent-networks-and-integrated-service-desk-at-siemens-healthineers)
         * [Streamlining manufacturing business with cloud-SAP for Siemens](https://atos.net/en/client-stories/streamlining-manufacturing-business-with-cloud-sap-for-siemens)
         * [Accelerating WA health system digitalization](https://atos.net/en/client-stories/accelerating-wa-health-system-digitalization)
-        * [Digital workplace services in Solent NHS Trust](https://atos.net/en/client-stories/digital-workplace-services-in-solent-nhs-trust)
         
         **[All client stories](https://atos.net/en/client-stories)**
         
