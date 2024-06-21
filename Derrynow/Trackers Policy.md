@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-20 Jun 2024
+21 Jun 2024
 
 * [Home
     
@@ -259,85 +259,138 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Farmers delight as tractors going cheap at ex-Bord na Móna machinery auction](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Farmers delight as tractors going cheap at ex-Bord na Móna machinery auction")](https://www.derrynow.com/news/national-news/1533686/pictures-farmers-delight-as-tractors-going-cheap-at-ex-bord-na-mona-machinery-auction.html)
+[![Met Éireann pinpoint day for 24C sun blast but there's a big heatwave catch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann pinpoint day for 24C sun blast but there's a big heatwave catch")](https://www.derrynow.com/news/weather/1535138/met-eireann-pinpoint-day-for-24c-sun-blast-but-there-s-a-big-heatwave-catch.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+Met Éireann pinpoint day for 24C sun blast but there's a big heatwave catch
 
-[PICTURES: Farmers delight as tractors going cheap at ex-Bord na Móna machinery auction](https://www.derrynow.com/news/national-news/1533686/pictures-farmers-delight-as-tractors-going-cheap-at-ex-bord-na-mona-machinery-auction.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Weather](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Motorcyclist seriously injured in collision with police vehicle in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Motorcyclist seriously injured in collision with police vehicle in Derry")](https://www.derrynow.com/news/local-news/1533977/motorcyclist-seriously-injured-in-collision-with-police-vehicle-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Motorcyclist seriously injured in collision with police vehicle in Derry](https://www.derrynow.com/news/local-news/1533977/motorcyclist-seriously-injured-in-collision-with-police-vehicle-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PEN PICS: Kevin Lynch's Hurling Club all set for another Feile adventure!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PEN PICS: Kevin Lynch's Hurling Club all set for another Feile adventure!")](https://www.derrynow.com/story-telling/derry-sport/1533246/pen-pics-kevin-lynch-s-hurling-club-all-set-for-another-feile-adventure.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[PEN PICS: Kevin Lynch's Hurling Club all set for another Feile adventure!](https://www.derrynow.com/story-telling/derry-sport/1533246/pen-pics-kevin-lynch-s-hurling-club-all-set-for-another-feile-adventure.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Road closed following serious two vehicle road traffic collision near Maydown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Road closed following serious two vehicle road traffic collision near Maydown")](https://www.derrynow.com/news/local-news/1533554/road-closed-followingserious-two-vehicle-road-traffic-collision-near-maydown.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Road closed following serious two vehicle road traffic collision near Maydown](https://www.derrynow.com/news/local-news/1533554/road-closed-followingserious-two-vehicle-road-traffic-collision-near-maydown.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Will Aer Lingus pilot strike affect my holiday? Everything you need to know about flights](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Will Aer Lingus pilot strike affect my holiday? Everything you need to know about flights")](https://www.derrynow.com/news/national-news/1533657/will-aer-lingus-pilot-strike-affect-my-holiday-everything-you-need-to-know-about-flights.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Will Aer Lingus pilot strike affect my holiday? Everything you need to know about flights](https://www.derrynow.com/news/national-news/1533657/will-aer-lingus-pilot-strike-affect-my-holiday-everything-you-need-to-know-about-flights.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry brothers returned for trial to on attempted GBH charge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry brothers returned for trial to on attempted GBH charge")](https://www.derrynow.com/news/local-news/1533460/derry-brothers-returned-for-trial-to-on-attempted-gbh-charge.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry brothers returned for trial to on attempted GBH charge](https://www.derrynow.com/news/local-news/1533460/derry-brothers-returned-for-trial-to-on-attempted-gbh-charge.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Near miss as car almost ploughs into to pedestrians pushing pram in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Near miss as car almost ploughs into to pedestrians pushing pram in Derry")](https://www.derrynow.com/news/local-news/1534036/near-miss-as-car-almost-ploughs-into-to-pedestrians-pushing-pram-in-derry.html)
-
-John Street
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Near miss as car almost ploughs into two pedestrians pushing pram in Derry](https://www.derrynow.com/news/local-news/1534036/near-miss-as-car-almost-ploughs-into-to-pedestrians-pushing-pram-in-derry.html)
+[Met Éireann pinpoint day for 24C sun blast but there's a big heatwave catch](https://www.derrynow.com/news/weather/1535138/met-eireann-pinpoint-day-for-24c-sun-blast-but-there-s-a-big-heatwave-catch.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Public urged to plan their journey ahead of Derry's Foyle Maritime Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Public urged to plan their journey ahead of Derry's Foyle Maritime Festival")](https://www.derrynow.com/news/local-news/1533388/public-urged-to-plan-their-journey-ahead-of-derry-s-foyle-maritime-festival.html)
+[![Woman in her 60s dies at Dublin Airport after arriving on Ryanair flight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in her 60s dies at Dublin Airport after arriving on Ryanair flight")](https://www.derrynow.com/news/national-news/1534962/woman-in-her-60s-dies-at-dublin-airport-after-arriving-on-ryanair-flight.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Woman in her 60s dies at Dublin Airport after arriving on Ryanair flight](https://www.derrynow.com/news/national-news/1534962/woman-in-her-60s-dies-at-dublin-airport-after-arriving-on-ryanair-flight.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1534825/derry-death-notices-friday-21st-june-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, 21st June 2024](https://www.derrynow.com/news/deaths/1534825/derry-death-notices-friday-21st-june-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry motorcyclist who died following collision with police vehicle named as 68-years-old Richard Edwards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry motorcyclist who died following collision with police vehicle named as 68-years-old Richard Edwards")](https://www.derrynow.com/news/local-news/1535321/derry-motorcyclist-who-died-following-collision-with-police-vehicle-named-as-68-years-old-richard-edwards.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Public urged to plan their journey ahead of Derry's Foyle Maritime Festival](https://www.derrynow.com/news/local-news/1533388/public-urged-to-plan-their-journey-ahead-of-derry-s-foyle-maritime-festival.html)
+[Derry motorcyclist who died following collision with police vehicle named as 68-years-old Richard Edwards](https://www.derrynow.com/news/local-news/1535321/derry-motorcyclist-who-died-following-collision-with-police-vehicle-named-as-68-years-old-richard-edwards.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man and woman escape injury after shots fired at house in Co Derry town](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man and woman escape injury after shots fired at house in Co Derry town")](https://www.derrynow.com/news/home/1535173/man-and-woman-escape-injury-after-shots-fired-at-house-in-co-derry-town.html)
+
+The PSNI have launched an investigation following last night's incident in Coleraine.
+
+[Home](https://www.derrynow.com/)
+
+[Man and woman escape injury after shots fired at house in Co Derry town](https://www.derrynow.com/news/home/1535173/man-and-woman-escape-injury-after-shots-fired-at-house-in-co-derry-town.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police searching for Derry man currently on the run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police searching for Derry man currently on the run")](https://www.derrynow.com/news/local-news/1535519/police-searching-for-derry-man-currently-on-the-run.html)
+
+Gerard Given is currently unlawfully at large.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police searching for Derry man currently on the run](https://www.derrynow.com/news/local-news/1535519/police-searching-for-derry-man-currently-on-the-run.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry driver 'became abusive' and smashed windscreen after accident](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry driver 'became abusive' and smashed windscreen after accident")](https://www.derrynow.com/news/local-news/1535326/derry-driver-became-abusive-and-smashed-windscreen-after-accident.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry driver 'became abusive' and smashed windscreen after accident](https://www.derrynow.com/news/local-news/1535326/derry-driver-became-abusive-and-smashed-windscreen-after-accident.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mother of Derry IRA man killed by SAS sadly passes away](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mother of Derry IRA man killed by SAS sadly passes away")](https://www.derrynow.com/news/local-news/1535673/mother-of-derry-ira-man-killed-by-sas-sadly-passes-away.html)
+
+The late Bridie McBrearty.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mother of Derry IRA man killed by SAS sadly passes away](https://www.derrynow.com/news/local-news/1535673/mother-of-derry-ira-man-killed-by-sas-sadly-passes-away.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![£400 fine for Donegal driver detected driving at 'phenomenal speed' on A6](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£400 fine for Donegal driver detected driving at 'phenomenal speed' on A6")](https://www.derrynow.com/news/local-news/1535274/400-fine-for-donegal-driver-detected-driving-at-phenomenal-speed-on-a6.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[£400 fine for Donegal driver detected driving at 'phenomenal speed' on A6](https://www.derrynow.com/news/local-news/1535274/400-fine-for-donegal-driver-detected-driving-at-phenomenal-speed-on-a6.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Defendant appears 'to be going back to his old ways' judge tells Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Defendant appears 'to be going back to his old ways' judge tells Derry Court")](https://www.derrynow.com/news/local-news/1535284/defendant-appears-to-be-going-back-to-his-old-ways-judge-tells-derry-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Defendant appears 'to be going back to his old ways' judge tells Derry Court](https://www.derrynow.com/news/local-news/1535284/defendant-appears-to-be-going-back-to-his-old-ways-judge-tells-derry-court.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paul Coyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Coyle")](https://www.derrynow.com/news/county-derry-post/1533407/tributes-paid-to-fermanagh-great-paul-coyle-after-sudden-death.html)
-
-Former Fermanagh GAA great Paul Coyle
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Tributes paid to Fermanagh great Paul Coyle after sudden death](https://www.derrynow.com/news/county-derry-post/1533407/tributes-paid-to-fermanagh-great-paul-coyle-after-sudden-death.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Attempted murder: Court told of 'incredibly violent attack' on County Derry man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Attempted murder: Court told of 'incredibly violent attack' on County Derry man")](https://www.derrynow.com/news/local-news/1533423/attempted-murder-court-told-of-incredibly-violent-attack-on-man-in-kilrea.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Attempted murder: Court told of 'incredibly violent attack' on man in Kilrea](https://www.derrynow.com/news/local-news/1533423/attempted-murder-court-told-of-incredibly-violent-attack-on-man-in-kilrea.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: St. Cecilia's College Annual Junior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Cecilia's College Annual Junior Prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1535749/in-pictures-st-cecilia-s-college-annual-junior-prizegiving.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St. Cecilia's College Annual Junior Prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1535749/in-pictures-st-cecilia-s-college-annual-junior-prizegiving.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Children's Commissioner Chris Quinn visits Derry school](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Children's Commissioner Chris Quinn visits Derry school")](https://www.derrynow.com/story-telling/pictures---videos/1535451/in-pictures-children-s-commissioner-chris-quinn-visits-derry-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Children's Commissioner Chris Quinn visits Derry school](https://www.derrynow.com/story-telling/pictures---videos/1535451/in-pictures-children-s-commissioner-chris-quinn-visits-derry-school.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: St. Brigid's PS Carnhill 50th anniversary celebrations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Brigid's PS Carnhill 50th anniversary celebrations")](https://www.derrynow.com/story-telling/pictures---videos/1535408/in-pictures-st-brigid-s-ps-carnhill-50th-anniversary-celebrations.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St. Brigid's PS Carnhill 50th anniversary celebrations](https://www.derrynow.com/story-telling/pictures---videos/1535408/in-pictures-st-brigid-s-ps-carnhill-50th-anniversary-celebrations.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: 'A Celebration of Arts' Exhibition in St Patrick's and St Brigid's College, Claudy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'A Celebration of Arts' Exhibition in St Patrick's and St Brigid's College, Claudy")](https://www.derrynow.com/story-telling/pictures---videos/1535365/in-pictures-a-celebration-of-arts-exhibition-in-st-patrick-s-and-st-brigid-s-college-claudy.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: 'A Celebration of Arts' Exhibition in St Patrick's and St Brigid's College, Claudy](https://www.derrynow.com/story-telling/pictures---videos/1535365/in-pictures-a-celebration-of-arts-exhibition-in-st-patrick-s-and-st-brigid-s-college-claudy.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Best in Further Education awards at North West Regional College 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Best in Further Education awards at North West Regional College 2024")](https://www.derrynow.com/story-telling/pictures---videos/1535334/in-pictures-best-in-further-education-awards-at-north-west-regional-college-2024.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Best in Further Education awards at North West Regional College 2024](https://www.derrynow.com/story-telling/pictures---videos/1535334/in-pictures-best-in-further-education-awards-at-north-west-regional-college-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Eden Place Arts Summer Exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Eden Place Arts Summer Exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1535329/in-pictures-eden-place-arts-summer-exhibition.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Eden Place Arts Summer Exhibition](https://www.derrynow.com/story-telling/pictures---videos/1535329/in-pictures-eden-place-arts-summer-exhibition.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Thursday: Partytime out and about in Masons Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Masons Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1533172/throwback-thursday-partytime-out-and-about-in-masons-derry-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about in Masons Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1533172/throwback-thursday-partytime-out-and-about-in-masons-derry-2009.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PEN PICS: Kevin Lynch's Hurling Club all set for another Feile adventure!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PEN PICS: Kevin Lynch's Hurling Club all set for another Feile adventure!")](https://www.derrynow.com/story-telling/derry-sport/1533246/pen-pics-kevin-lynch-s-hurling-club-all-set-for-another-feile-adventure.html)
 
@@ -359,55 +412,6 @@ Multimedia
 
 [IN PICTURES: Parish of the Three Patrons Primary 7 Leavers Mass](https://www.derrynow.com/story-telling/pictures---videos/1531731/in-pictures-parish-of-the-three-patrons-primary-7-leavers-mass.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St. Brigid's PS Carnhill celebrates 50th anniversary: Where are they now?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Brigid's PS Carnhill celebrates 50th anniversary: Where are they now?")](https://www.derrynow.com/story-telling/pictures---videos/1529919/in-pictures-st-brigid-s-ps-carnhill-celebrates-50th-anniversary-where-are-they-now.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St. Brigid's PS Carnhill celebrates 50th anniversary: Where are they now?](https://www.derrynow.com/story-telling/pictures---videos/1529919/in-pictures-st-brigid-s-ps-carnhill-celebrates-50th-anniversary-where-are-they-now.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Sean O’Kane Primary Schools Perpetual Cup tournament](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Sean O’Kane Primary Schools Perpetual Cup tournament")](https://www.derrynow.com/story-telling/pictures---videos/1531449/in-pictures-annual-sean-okane-primary-schools-perpetual-cup-tournament.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Sean O’Kane Primary Schools Perpetual Cup tournament](https://www.derrynow.com/story-telling/pictures---videos/1531449/in-pictures-annual-sean-okane-primary-schools-perpetual-cup-tournament.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Men's Health Fayre at Derry's Foyle Arena](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Men's Health Fayre at Derry's Foyle Arena")](https://www.derrynow.com/story-telling/pictures---videos/1531435/in-pictures-men-s-health-fayre-at-derry-s-foyle-arena.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Men's Health Fayre at Derry's Foyle Arena](https://www.derrynow.com/story-telling/pictures---videos/1531435/in-pictures-men-s-health-fayre-at-derry-s-foyle-arena.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Female creativity celebrated at Derry YES Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Female creativity celebrated at Derry YES Festival")](https://www.derrynow.com/story-telling/pictures---videos/1531344/in-pictures-female-creativity-celebrated-at-derry-yes-festival.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Female creativity celebrated at Derry YES Festival](https://www.derrynow.com/story-telling/pictures---videos/1531344/in-pictures-female-creativity-celebrated-at-derry-yes-festival.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Caina Healey Children's Try-A-Tri in memory of Derry teacher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Caina Healey Children's Try-A-Tri in memory of Derry teacher")](https://www.derrynow.com/story-telling/pictures---videos/1531262/in-pictures-caina-healey-children-s-try-a-tri-in-memory-of-derry-teacher.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Caina Healey Children's Try-A-Tri in memory of Derry teacher](https://www.derrynow.com/story-telling/pictures---videos/1531262/in-pictures-caina-healey-children-s-try-a-tri-in-memory-of-derry-teacher.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Inaugural YES Festival gets underway in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inaugural YES Festival gets underway in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1529714/in-pictures-inaugural-yes-festival-gets-underway-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Inaugural YES Festival gets underway in Derry](https://www.derrynow.com/story-telling/pictures---videos/1529714/in-pictures-inaugural-yes-festival-gets-underway-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Standing ovations for St. Eugene's PS 'Peter Pan' production](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Standing ovations for St. Eugene's PS 'Peter Pan' production")](https://www.derrynow.com/story-telling/pictures---videos/1529477/in-pictures-standing-ovations-for-st-eugene-s-ps-peter-pan-production.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Standing ovations for St. Eugene's PS 'Peter Pan' production](https://www.derrynow.com/story-telling/pictures---videos/1529477/in-pictures-standing-ovations-for-st-eugene-s-ps-peter-pan-production.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,51 +515,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Thursday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Thursday")](https://www.derrynow.com/news/deaths/1533818/derry-death-notices-thursday-20th-june-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, 20th June 2024](https://www.derrynow.com/news/deaths/1533818/derry-death-notices-thursday-20th-june-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Near miss as car almost ploughs into to pedestrians pushing pram in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Near miss as car almost ploughs into to pedestrians pushing pram in Derry")](https://www.derrynow.com/news/local-news/1534036/near-miss-as-car-almost-ploughs-into-to-pedestrians-pushing-pram-in-derry.html)
-
-John Street
+[![Information session gives Derry companies digital transformation and growth boost](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Information session gives Derry companies digital transformation and growth boost")](https://www.derrynow.com/news/local-news/1535472/information-session-gives-derry-companies-digital-transformation-and-growth-boost.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Near miss as car almost ploughs into two pedestrians pushing pram in Derry](https://www.derrynow.com/news/local-news/1534036/near-miss-as-car-almost-ploughs-into-to-pedestrians-pushing-pram-in-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Information session gives Derry companies digital transformation and growth boost](https://www.derrynow.com/news/local-news/1535472/information-session-gives-derry-companies-digital-transformation-and-growth-boost.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Motorcyclist seriously injured in collision with police vehicle in Derry](https://www.derrynow.com/resizer/165/93/true/pa/2024_06_19/1718823301783_0.jpg--.jpg?1718823302013 "Motorcyclist seriously injured in collision with police vehicle in Derry")](https://www.derrynow.com/news/local-news/1533977/motorcyclist-seriously-injured-in-collision-with-police-vehicle-in-derry.html)
+[![Mother of Derry IRA man killed by SAS sadly passes away](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mother of Derry IRA man killed by SAS sadly passes away")](https://www.derrynow.com/news/local-news/1535673/mother-of-derry-ira-man-killed-by-sas-sadly-passes-away.html)
+
+The late Bridie McBrearty.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Motorcyclist seriously injured in collision with police vehicle in Derry](https://www.derrynow.com/news/local-news/1533977/motorcyclist-seriously-injured-in-collision-with-police-vehicle-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Mother of Derry IRA man killed by SAS sadly passes away](https://www.derrynow.com/news/local-news/1535673/mother-of-derry-ira-man-killed-by-sas-sadly-passes-away.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Prepare to make a splash at Foyle Maritime Festival](https://www.derrynow.com/resizer/165/93/true/2024_06_19/Lough_Agency_Foyle_paddel_boarding-1718809575742_1718809703.jpg--.jpg?1718809703617 "Prepare to make a splash at Foyle Maritime Festival")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1533708/prepare-to-make-a-splash-at-foyle-maritime-festival.html)
+[![Police searching for Derry man currently on the run](https://www.derrynow.com/resizer/165/93/true/2024_06_21/Gerard_Given-1718976607035.png--.png?1718976607130 "Police searching for Derry man currently on the run")](https://www.derrynow.com/news/local-news/1535519/police-searching-for-derry-man-currently-on-the-run.html)
 
-[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
+Gerard Given is currently unlawfully at large.
 
-[Prepare to make a splash at Foyle Maritime Festival](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1533708/prepare-to-make-a-splash-at-foyle-maritime-festival.html)
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police searching for Derry man currently on the run](https://www.derrynow.com/news/local-news/1535519/police-searching-for-derry-man-currently-on-the-run.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry driver 'became abusive' and smashed windscreen after accident](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry driver 'became abusive' and smashed windscreen after accident")](https://www.derrynow.com/news/local-news/1535326/derry-driver-became-abusive-and-smashed-windscreen-after-accident.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry driver 'became abusive' and smashed windscreen after accident](https://www.derrynow.com/news/local-news/1535326/derry-driver-became-abusive-and-smashed-windscreen-after-accident.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Extradition request for Donegal resident over 1975 murder 'abuse of process' - barrister](https://www.derrynow.com/resizer/165/93/true/2024_03_06/Court_of_Appeal_and_The_High_Court_in_Dublin-1709718412896.jpg--.jpg?1709718412922 "Extradition request for Donegal resident over 1975 murder 'abuse of process' - barrister")](https://www.derrynow.com/news/local-news/1533715/extradition-request-for-donegal-resident-over-1975-murder-of-ruc-officer-in-dungiven-abuse-of-process-barrister.html)
+[![Police in Derry arrest man acting suspiciously, checking car doors in Duncreggan area](https://www.derrynow.com/resizer/165/93/true/2023_05_29/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg--.jpg?1685351040804 "Police in Derry arrest man acting suspiciously, checking car doors in Duncreggan area")](https://www.derrynow.com/news/local-news/1535401/police-in-derry-arrest-man-acting-suspiciously-checking-car-doors-in-duncreggan-area.html)
 
-The High Court in Dublin
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Extradition request for Donegal resident over 1975 murder of RUC officer in Dungiven 'abuse of process' - barrister](https://www.derrynow.com/news/local-news/1533715/extradition-request-for-donegal-resident-over-1975-murder-of-ruc-officer-in-dungiven-abuse-of-process-barrister.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Public urged to plan their journey ahead of Derry's Foyle Maritime Festival](https://www.derrynow.com/resizer/165/93/true/2024_06_19/DerryMaritime22072210-1718791881887.jpg--.jpg?1718791884745 "Public urged to plan their journey ahead of Derry's Foyle Maritime Festival")](https://www.derrynow.com/news/local-news/1533388/public-urged-to-plan-their-journey-ahead-of-derry-s-foyle-maritime-festival.html)
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Public urged to plan their journey ahead of Derry's Foyle Maritime Festival](https://www.derrynow.com/news/local-news/1533388/public-urged-to-plan-their-journey-ahead-of-derry-s-foyle-maritime-festival.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police in Derry arrest man acting suspiciously, checking car doors in Duncreggan area](https://www.derrynow.com/news/local-news/1535401/police-in-derry-arrest-man-acting-suspiciously-checking-car-doors-in-duncreggan-area.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fine for Derry man's covid breach should be same as Prime Minister](https://www.derrynow.com/resizer/165/93/true/2024_02_02/Derry_Courthouse_%281%29-1706875488218.jpg--.jpg?1706875488264 "Fine for Derry man's covid breach should be same as Prime Minister")](https://www.derrynow.com/news/local-news/1535301/fine-for-derry-man-s-covid-breach-should-be-same-as-prime-minister.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fine for Derry man's covid breach should be same as Prime Minister](https://www.derrynow.com/news/local-news/1535301/fine-for-derry-man-s-covid-breach-should-be-same-as-prime-minister.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
