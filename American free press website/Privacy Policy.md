@@ -254,7 +254,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/23&24_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_23_24_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/25&26_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_25_26_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -276,10 +276,10 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Comments
 
+* Karl C. Gaiser on [U.S. Public Schools Collapsing](https://americanfreepress.net/u-s-public-schools-collapsing/#comment-54042)
 * [Wesley Mcgranor](https://www.tumblr.com/american-protestant) on [Culture War Victories for America](https://americanfreepress.net/culture-war-victories-for-america/#comment-53992)
 * Albert on [U.S. Fertility Rates Plunge](https://americanfreepress.net/u-s-fertility-rates-plunge/#comment-53973)
 * Gary on [Contents of Ashley Biden Journal Suppressed by Mainstream Media](https://americanfreepress.net/contents-of-ashley-biden-journal-suppressed-by-mainstream-media/#comment-53509)
-* Me on [Couple Arrested, Charged for Handing Out Legal Flyers](https://americanfreepress.net/couple-arrested-charged-for-handing-out-legal-flyers/#comment-53416)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=239094958)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=356779846)
