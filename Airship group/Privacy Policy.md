@@ -473,7 +473,7 @@ EU Representative:
 Airship France S.A.S has been appointed as Airship’s representative in the EU for data protection matters, pursuant to Article 27 of the EU GDPR. To make an inquiry on matters related to the processing of Personal Information under the EU GDPR, please contact Airship France S.A.S at:
 
 Airship France S.A.S  
-5, rue des italiens  
+33 rue La Fayette  
 75009  
 Paris, France
 
@@ -481,7 +481,7 @@ Paris, France
 
 UK Representative:
 
-Urban Airship UK Ltd. has been appointed as Airship’s representative in the UK for data protection matters, pursuant to Article 27 of the UK GDPR. To make an inquiry on matters related to the processing of Personal Information under the EU GDPR, please contact Airship France S.A.S at:
+Urban Airship UK Ltd. has been appointed as Airship’s representative in the UK for data protection matters, pursuant to Article 27 of the UK GDPR. To make an inquiry on matters related to the processing of Personal Information under the EU GDPR, please contact Urban Airship UK, Ltd. at:
 
 Urban Airship UK Ltd.  
 WeWork  
