@@ -79,19 +79,16 @@
     * [Learn More](#)
         * [Pricing
             
-            Flexible pricing for all businesses.](https://boomi.com/pricing/)
+            Boomi offers flexible pricing for SMBs to enterprise.](https://boomi.com/pricing/)
         * [Security and Compliance
             
-            Our secure and compliant platform.](https://boomi.com/compliance/)
+            Learn how we maintain a secure, compliant platform.](https://boomi.com/compliance/)
         * [View All Connectors
             
             Explore over 300K app connections.](https://boomi.com/connectors/)
-        * [Boomi Discover
+        * [Discover Recipes
             
-            Explore pre-built solutions.](https://discover.boomi.com/)
-        * [Embedded Partners
-            
-            Drive growth and market entry.](https://boomi.com/partners/oem-embedded-partners/)
+            Discover pre-defined accelerators, recipes & solutions.](https://discover.boomi.com/)
 * [Solutions](#)
     * [By Industry](#)
         * [Healthcare and Life Sciences](https://boomi.com/solutions/industries/healthcare-life-sciences/)
@@ -100,7 +97,6 @@
         * [Retail](https://boomi.com/solutions/industries/retail/)
         * [Public Sector](https://boomi.com/solutions/industries/public-sector/)
         * [Higher Education](https://boomi.com/solutions/industries/higher-education/)
-        * [Software Providers](https://boomi.com/partners/oem-embedded-partners/)
     * [BY INITIATIVE](#)
         * [Integration Center of Excellence](https://boomi.com/initiatives/integration-center-of-excellence/)
         * [M&A and Divestiture](https://boomi.com/initiatives/ma-and-divestiture/)
@@ -171,7 +167,6 @@
 * [Partners](#)
     * [sub](#)
         * [Partner Ecosystem](https://boomi.com/partners/)
-        * [Embedded Partners](https://boomi.com/partners/oem-embedded-partners/)
         * [Find a Partner](https://partners.boomi.com/English/directory/)
         * [Become a partner](https://boomi.com/partners/become-a-partner/)
         * [Partner Login](https://partners.boomi.com/English/)
