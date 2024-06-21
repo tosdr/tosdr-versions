@@ -38,7 +38,7 @@ K
 
 [Enhancements](https://topazlabs.com/photo-ai/enhancements)
 
-[Autopilot & Configuration](https://topazlabs.com/photo-ai/features/autopilot-and-configuration)[Remove Noise - RAW & Non-RAW](https://topazlabs.com/photo-ai/features/remove-noise-raw-and-non-raw)[Sharpen](https://topazlabs.com/photo-ai/features/sharpen)[Upscale & Resize](https://topazlabs.com/photo-ai/features/upscale-and-resize)[Crop](https://topazlabs.com/photo-ai/features/crop)[Recover Faces](https://topazlabs.com/photo-ai/enhancements/recover-faces)[Preserve Text](https://topazlabs.com/photo-ai/features/preserve-text)[Adjust Lighting](https://topazlabs.com/photo-ai/features/adjust-lighting)[Balance Color](https://topazlabs.com/photo-ai/features/balance-color)[Remove Object](https://topazlabs.com/photo-ai/features/remove-object)
+[Autopilot & Configuration](https://topazlabs.com/photo-ai/enhancements/autopilot-and-configuration)[Denoise - RAW & Non-RAW](https://topazlabs.com/photo-ai/enhancements/denoise-raw-and-non-raw)[Sharpen](https://topazlabs.com/photo-ai/enhancements/sharpen)[Upscale & Resize](https://topazlabs.com/photo-ai/enhancements/upscale-and-resize)[Crop & Straighten](https://topazlabs.com/photo-ai/enhancements/crop-and-straighten)[Recover Faces](https://topazlabs.com/photo-ai/enhancements/recover-faces)[Remove Object](https://topazlabs.com/photo-ai/enhancements/remove-object)[Preserve Text](https://topazlabs.com/photo-ai/enhancements/preserve-text)[Adjust Lighting](https://topazlabs.com/photo-ai/enhancements/adjust-lighting)[Balance Color](https://topazlabs.com/photo-ai/enhancements/balance-color)
 
 [Command Line Interface](https://topazlabs.com/photo-ai/command-line-interface)
 
