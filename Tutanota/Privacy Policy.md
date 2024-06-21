@@ -31,7 +31,7 @@ Privacy must be yours.
 
 Big Tech uses your data for their own profit. Now is the time to take back what belongs to you: Your data. Tuta protects all your data with strong encryption. Say “hello” to privacy!
 
-Privacy is freedom.
+Get your free encrypted email address.
 
 Privacy sets you free. Privacy enables you to have a secure space, free from judgment and discrimination. Privacy is the foundation for freedom of thought and freedom of speech.
 
