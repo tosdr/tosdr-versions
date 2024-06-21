@@ -1,9 +1,9 @@
 [![logo sendvio](https://d3t69mq86zotva.cloudfront.net/sendvio-images/logo_sendvio.svg)](https://www.chilliapps.com/)
 
-* [Contáctanos](#)
-* [Iniciar sesión](#)
+* [Contact us](#)
+* [Log in](#)
 
-Empezar gratis
+Start for free
 
 [Terms and Conditions of Use](https://www.chilliapps.com/terms)
 
@@ -201,42 +201,42 @@ If you don't agree with these Terms and Conditions of Use, you must cancel your 
 
 ×
 
-### Iniciar sesión
+### Log in
 
-Seleccione Plataforma
+Select platform
 
 ![Email & SMS automation for shopify](https://d3t69mq86zotva.cloudfront.net/sendvio-images/external_home/email_sms_automation_shopify.svg)
 
 ![Email & SMS automation for WooCommerce](https://d3t69mq86zotva.cloudfront.net/sendvio-images/external_home/email_sms_automation_woocommerce.svg)
 
-### Iniciar sesión
+### Sign in
 
-Bienvenido(a) de nuevo!
+Welcome back!
 
-Iniciar sesión
+Sign in
 
-### Iniciar sesión
+### Sign in
 
-Bienvenido(a) de nuevo!
+Welcome back!
 
-Iniciar sesión
-
-×
-
-### Ingresa la URL de tu sitio web
-
-Conectar con tu sitio web
+Sign in
 
 ×
 
-### Inicia una conversación con Sendvio.
+### Enter your website's URL
 
-Esperamos responder a tus preguntas y ayudarte a encontrar una solución para tus necesidades comerciales.
+Connect to your website
+
+×
+
+### Start a conversation with Sendvio.
+
+We look forward to answering your questions and helping you find a solution for your business needs.
 
   Send
 
-Tu mensaje ha sido enviado.  
-Pronto recibirás una respuesta.
+Your message has been sent.  
+You will receive a response shortly.
 
 Contact us
 
