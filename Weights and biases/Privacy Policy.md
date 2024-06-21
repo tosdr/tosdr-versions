@@ -1,6 +1,7 @@
-![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView &noscript=1) [Skip to content](#content)
+![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView
+&noscript=1)               [Skip to content](#content)
 
-[![](data:image/svg+xml;nitro-empty-id=MzQ2OjE2Nw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzcwIDQ2IiB3aWR0aD0iMzcwIiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://wandb.ai/site)
+[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 * Platform
     
@@ -396,7 +397,7 @@ To see when this Privacy Policy was last updated, please see the “Last Updated
 
 If you have questions about our use of your personal information, please email us at [support@wandb.com](mailto:support@wandb.com). To submit a data subject request, please fill out the information [here](https://preferences.wandb.ai/privacy?_gl=1*oflud4*_ga*MTY1MDMyMDUyMy4xNjkyNjI1NDg3*_ga_JH1SJHJQXJ*MTcwNzQ5MjAwNS4yOTAuMS4xNzA3NDkzNDQxLjMyLjAuMA..).
 
-[![](data:image/svg+xml;nitro-empty-id=MTAzMzoxNjc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzcwIDQ2IiB3aWR0aD0iMzcwIiBoZWlnaHQ9IjQ2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://wandb.ai/site)
+[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 ##### The Platform
 
@@ -405,7 +406,7 @@ If you have questions about our use of your personal information, please email u
 * [Model Registry](https://wandb.ai/site/model-registry)
 * [Automations](https://wandb.ai/site/automations)
 * [Launch](https://wandb.ai/site/launch)
-* [Weave](https://wandb.ai/site/weave)
+* [Weave​](https://wandb.ai/site/weave)
 * [Traces](https://wandb.ai/site/traces)
 * [Evaluations](https://wandb.ai/site/evaluations)
 * [Artifacts](https://wandb.ai/site/artifacts)
@@ -417,7 +418,7 @@ If you have questions about our use of your personal information, please email u
 * [Model Registry](https://wandb.ai/site/model-registry)
 * [Automations](https://wandb.ai/site/automations)
 * [Launch](https://wandb.ai/site/launch)
-* [Weave](https://wandb.ai/site/weave)
+* [Weave​](https://wandb.ai/site/weave)
 * [Traces](https://wandb.ai/site/traces)
 * [Evaluations](https://wandb.ai/site/evaluations)
 * [Artifacts](https://wandb.ai/site/artifacts)
