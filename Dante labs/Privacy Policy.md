@@ -1,6 +1,10 @@
          [Skip to content](#main-content)
 
-[Prime Day. Prime Choice for Your Health! Dante Genome Test for $199](https://us.dantelabs.com/products/whole-genome-sequencing)
+[Prime Access to Health: Dante Genome Test for $199](https://us.dantelabs.com/products/whole-genome-sequencing)
+
+[Prime Access to Health: Dante Genome + All Panels Package $299](https://us.dantelabs.com/products/whole-genome-sequencing?variant=41097218949186)
+
+[Prime Access to Health: All Panels Package for $199](https://us.dantelabs.com/products/all-panels-package)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
@@ -307,7 +311,7 @@ Trending Now
     
     Quick view](https://us.dantelabs.com/products/all-panels-package "All Panels Package")
     
-    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~£399.00~ £159.00 /
+    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~£401.00~ £160.00 /
     
 * [![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351_20x_crop_center.jpg?v=1714589736)
     
