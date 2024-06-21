@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Салат с тунцом, капустой, болгарским перцем, огурцами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=173727)
-* [Салат из запечённой свёклы с мандаринами, фетой и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=155241)
+* [Карп, фаршированный гречкой, запечённый со сметаной и тимьяном](https://www.russianfood.com/recipes/recipe.php?rid=161048)
 * [Гуляш из сладкого перца](https://www.russianfood.com/recipes/recipe.php?rid=6571)
-* [Фаршированные огурцы](https://www.russianfood.com/recipes/recipe.php?rid=27635)
-* [Борщ «Ветчинный»](https://www.russianfood.com/recipes/recipe.php?rid=33887)
-* [Треска с маслинами](https://www.russianfood.com/recipes/recipe.php?rid=38231)
-* [Плов из морского гребешка](https://www.russianfood.com/recipes/recipe.php?rid=38374)
-* [Суп «Парментье»](https://www.russianfood.com/recipes/recipe.php?rid=39685)
-* [Салат из кальмаров и соленых огурцов](https://www.russianfood.com/recipes/recipe.php?rid=39859)
-* [Начинка из ветчины](https://www.russianfood.com/recipes/recipe.php?rid=42059)
+* [Щи из квашеной капусты](https://www.russianfood.com/recipes/recipe.php?rid=44562)
+* [Мясо тушеное](https://www.russianfood.com/recipes/recipe.php?rid=45111)
+* [Потроха по-неаполитански](https://www.russianfood.com/recipes/recipe.php?rid=45429)
+* [Кислый соус](https://www.russianfood.com/recipes/recipe.php?rid=45941)
+* [Паэлла «Морская»](https://www.russianfood.com/recipes/recipe.php?rid=49962)
+* [Клецки из помидоров](https://www.russianfood.com/recipes/recipe.php?rid=52589)
+* [Говядина, запеченная с картофелем](https://www.russianfood.com/recipes/recipe.php?rid=53475)
+* [Картофель Дэймона](https://www.russianfood.com/recipes/recipe.php?rid=53871)
 
 |     |
 | --- |
@@ -182,213 +182,213 @@
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Бюджетно и со вкусом! Лучшие рецепты ЭКОНОМНЕЕ! №24-25](https://www.russianfood.com/reading/?post_id=22236) |     |
+| Рецепты<br><br>[Кабачки, запечённые с грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173615) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/723/sm_722007.jpg)](https://www.russianfood.com/reading/?post_id=22236)
+[![Фото к рецепту: Кабачки, запечённые с грибами и помидорами](//img1.russianfood.com/dycontent/images_upl/725/sm_724892.jpg "Фото к рецепту: Кабачки, запечённые с грибами и помидорами")](https://www.russianfood.com/recipes/recipe.php?rid=173615)
 
-Пирожки на кефире, с луком и яйцами. Жареные крабовые палочки с грибами. Огуречный суп на кефире. Сердечки с овощами и фасолью. Котлеты из куриных желудков в томатном соусе.
+Удачное сочетание нежных кабачков, упругих шампиньонов и сочных ломтиков помидора. Предварительное обжаривание кабачков и грибов делает их вкус более выраженным. Аппетитная заливка из сметаны, сыра и чеснока придаёт блюду аппетитный аромат и сливочное послевкусие.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22236)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173615)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22236#comments) | 19.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173615#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Вкусные краски летнего вечера! Лучшие УЖИНЫ №24-25](https://www.russianfood.com/reading/?post_id=22235) |     |
+| Рецепты<br><br>[Рисовая запеканка с кабачками и грибами](https://www.russianfood.com/recipes/recipe.php?rid=173608) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/722/sm_721932.jpg)](https://www.russianfood.com/reading/?post_id=22235)
+[![Фото к рецепту: Рисовая запеканка с кабачками и грибами](//img1.russianfood.com/dycontent/images_upl/724/sm_723497.jpg "Фото к рецепту: Рисовая запеканка с кабачками и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=173608)
 
-Рубленые куриные котлеты с сыром. Картофель со свиной грудинкой. Булгур с тефтелями. Крылышки в томатно-медовом соусе. Курица в сливочно-шпинатном соусе. Шашлык из рыбы с кабачками. Макароны с курицей и яйцами.
+Вкусная и насыщенная запеканка без мяса. Рисовая каша послужит питательной основой, а кабачки, грибы и помидоры – сочным дополнением. Яично-сметанная заливка свяжет ингредиенты и добавит приятное послевкусие.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22235)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173608)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22235#comments) | 19.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173608#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Ярко, просто, вкусно. Время САЛАТОВ (130)](https://www.russianfood.com/reading/?post_id=22233) |     |
+| Рецепты<br><br>[Чечевица с овощами, запеченная в пергаменте](https://www.russianfood.com/recipes/recipe.php?rid=173620) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/712/sm_711383.jpg)](https://www.russianfood.com/reading/?post_id=22233)
+[![Фото к рецепту: Чечевица с овощами, запеченная в пергаменте](//img1.russianfood.com/dycontent/images_upl/725/sm_724474.jpg "Фото к рецепту: Чечевица с овощами, запеченная в пергаменте")](https://www.russianfood.com/recipes/recipe.php?rid=173620)
 
-Салат с брокколи, огурцами и яйцами. Салат с кальмарами и огурцами. Салат с молодой картошкой и кукурузой. Корейский салат из огурцов и перца. Салат из кабачков с маслинами.
+Чечевица с овощами готовится в пергаменте в духовке. Готовое блюдо получается сочным и достаточно сытным благодаря чечевице. Сыр фета хорошо дополняет печеные с чечевицей овощи.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22233)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173620)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22233#comments) | 19.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173620#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты › [Здоровое питание](https://www.russianfood.com/themes/?theme_id=5)<br><br>[Куриные котлеты с рисом и кабачком, в духовке](https://www.russianfood.com/recipes/recipe.php?rid=173781) |     |
+| Рецепты<br><br>[Лингвини с креветками и кабачками в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173640) |     |
 
-[![Фото к рецепту: Куриные котлеты с рисом и кабачком, в духовке](//img1.russianfood.com/dycontent/images_upl/723/sm_722784.jpg "Фото к рецепту: Куриные котлеты с рисом и кабачком, в духовке")](https://www.russianfood.com/recipes/recipe.php?rid=173781)
+[![Фото к рецепту: Лингвини с креветками и кабачками в сливочном соусе](//img1.russianfood.com/dycontent/images_upl/725/sm_724848.jpg "Фото к рецепту: Лингвини с креветками и кабачками в сливочном соусе")](https://www.russianfood.com/recipes/recipe.php?rid=173640)
 
-Очень аппетитные куриные котлеты с добавками. Кабачок и отварной рис придают фаршу из куриного филе нежную текстуру и особую сочность. Сметана и расплавленный сыр делают вкус котлет ещё ярче и интереснее. Ещё одно преимущество таких котлет – они не жарятся на масле, а запекаются в духовке.
+Сливочная паста с креветками, дополненная нежными кабачками и приятной кислинкой помидора. Сливочный соус щедро обволакивает лингвини и сочные креветкии, придаёт блюду изумительный вкус.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173781)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173640)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173781#comments) | 18.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173640#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Кабачки, фаршированные болгарским перцем и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173819) |     |
+| Рецепты<br><br>[Лапша с кабачками и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=173661) |     |
 
-[![Фото к рецепту: Кабачки, фаршированные болгарским перцем и морковью](//img1.russianfood.com/dycontent/images_upl/725/sm_724724.jpg "Фото к рецепту: Кабачки, фаршированные болгарским перцем и морковью")](https://www.russianfood.com/recipes/recipe.php?rid=173819)
+[![Фото к рецепту: Лапша с кабачками и зелёным горошком](//img1.russianfood.com/dycontent/images_upl/726/sm_725161.jpg "Фото к рецепту: Лапша с кабачками и зелёным горошком")](https://www.russianfood.com/recipes/recipe.php?rid=173661)
 
-Нежные лодочки из кабачков, наполненные сочным фаршем из болгарского перца, лука и моркови, получаются вкусными и питательными даже без мяса. А твёрдый сыр, который используется для начинки и посыпки, делает блюдо ещё ярче и интереснее. Ароматное сочетание овощей и сыра создаёт великолепный вкусовой букет.
+Сливочный соус с кабачками и зелёным горошком готовится параллельно с лапшой. Потом всё соединяется, дополняется натёртым сыром и измельчённой зеленью. Готовая паста порадует кремовой консистенцией, нежным вкусом овощей и тонким сливочным вкусом.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173819)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173661)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173819#comments) | 18.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173661#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Сырно-шпинатные маффины](https://www.russianfood.com/recipes/recipe.php?rid=173820) |     |
+| Рецепты<br><br>[Молодая капуста, запечённая с фаршем, помидорами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173720) |     |
 
-[![Фото к рецепту: Сырно-шпинатные маффины](//img1.russianfood.com/dycontent/images_upl/725/sm_724754.jpg "Фото к рецепту: Сырно-шпинатные маффины")](https://www.russianfood.com/recipes/recipe.php?rid=173820)
+[![Фото к рецепту: Молодая капуста, запечённая с фаршем, помидорами и сыром](//img1.russianfood.com/dycontent/images_upl/724/sm_723958.jpg "Фото к рецепту: Молодая капуста, запечённая с фаршем, помидорами и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=173720)
 
-В нежных и ароматных сырно-шпинатных маффинах идеально сочетаются два вида сыра и шпинат, что создаёт неповторимый вкус и делает маффины более интересными и сытными. Перец чили добавляет пикантную остринку.
+Оригинальный вариант бургера – аппетитную котлету из куриного фарша выложим не на булочку, а на стейк из белокочанной капусты. Дополним всё помидорами и натёртым сыром, а для соуса возьмём сметану, сыр и укроп. Небанально и очень вкусно!
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173820)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173720)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173820#comments) | 18.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173720#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Бездрожжевые булочки-витушки с клубникой и сырной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173821) |     |
+| Рецепты<br><br>[Лапша с курицей и кабачками в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173726) |     |
 
-[![Фото к рецепту: Бездрожжевые булочки-витушки с клубникой и сырной глазурью](//img1.russianfood.com/dycontent/images_upl/725/sm_724797.jpg "Фото к рецепту: Бездрожжевые булочки-витушки с клубникой и сырной глазурью")](https://www.russianfood.com/recipes/recipe.php?rid=173821)
+[![Фото к рецепту: Лапша с курицей и кабачками в сливочном соусе](//img1.russianfood.com/dycontent/images_upl/726/sm_725168.jpg "Фото к рецепту: Лапша с курицей и кабачками в сливочном соусе")](https://www.russianfood.com/recipes/recipe.php?rid=173726)
 
-Бездрожжевые булочки-витушки с клубникой - это воздушное тесто, пропитанное сладкой ароматной клубничной начинкой и покрытое нежной глазурью. Булочки готовятся без дрожжей и получаются очень мягкими и ароматными, а глазурь из сливочного сыра добавляет клубничному вкусу сливочные нотки. Прекрасные с виду и потрясающие на вкус булочки идеальны для завтрака, перекуса или десерта.
+Гармоничное сочетание курицы с лапшой, дополненное сочными кабачками и помидорами черри. Сливки прекрасно соединяют все ингредиенты в единую композицию, насыщают блюдо и делают вкус более интересным.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173821)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173726)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173821#comments) | 18.06.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173726#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Заливной пирог с клубникой](https://www.russianfood.com/recipes/recipe.php?rid=173831) |     |
+| Рецепты<br><br>[Щавелевый суп с копчёной курицей и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=173594) |     |
 
-[![Фото к рецепту: Заливной пирог с клубникой](//img1.russianfood.com/dycontent/images_upl/726/sm_725039.jpg "Фото к рецепту: Заливной пирог с клубникой")](https://www.russianfood.com/recipes/recipe.php?rid=173831)
+[![Фото к рецепту: Щавелевый суп с копчёной курицей и яйцом](//img1.russianfood.com/dycontent/images_upl/726/sm_725231.jpg "Фото к рецепту: Щавелевый суп с копчёной курицей и яйцом")](https://www.russianfood.com/recipes/recipe.php?rid=173594)
 
-Пирог с клубникой - изысканный и очень вкусный. Мягкое и рассыпчатое песочное тесто так и тает во рту, оно отлично сочетается с ароматной начинкой из нежных сливок и спелой клубники. Этот пирог станет настоящим украшением любого стола и порадует своим превосходным вкусом и ароматом.
+Щавелевый суп с копчёной курицей и яйцом - ароматное летнее блюдо. Сочные кусочки копчёной курицы придают супу пикантный вкус и дымные нотки. Яичная паутинка делает суп более сытным и питательным. Листья щавеля добавляют супу кислинку и летний аромат.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173831)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173594)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173831#comments) | 18.06.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173594#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Утреннее кулинарство! Лучшие ЗАВТРАКИ №24-25](https://www.russianfood.com/reading/?post_id=22232) |     |
+| Рецепты<br><br>[Цельнозерновые творожные кексы с яблоком](https://www.russianfood.com/recipes/recipe.php?rid=172837) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/669/sm_668002.jpg)](https://www.russianfood.com/reading/?post_id=22232)
+[![Фото к рецепту: Цельнозерновые творожные кексы с яблоком](//img1.russianfood.com/dycontent/images_upl/710/sm_709519.jpg "Фото к рецепту: Цельнозерновые творожные кексы с яблоком")](https://www.russianfood.com/recipes/recipe.php?rid=172837)
 
-Омлет с тофу и соевым соусом. Банановые сырники. Лаваш с омлетом и ветчиной. Имбирный чай с молоком. Молочная полента с горошком и сыром. Пшёнка с куркумой, на кокосовом молоке. Сырники с орехами и финиками.
+Сладкие кексы из творожного теста с цельнозерновой мукой, в которое добавлены кусочки яблока, порадуют приверженцев стратегии здорового питания.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22232)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172837)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22232#comments) | 18.06.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172837#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Палитра интересных вкусов. Лучшие рецепты ПИРОГОВ (58)](https://www.russianfood.com/reading/?post_id=22231) |     |
+| Рецепты<br><br>[Апельсиновые булочки с миндальной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=172843) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/300/sm_299571.jpg)](https://www.russianfood.com/reading/?post_id=22231)
+[![Фото к рецепту: Апельсиновые булочки с миндальной начинкой](//img1.russianfood.com/dycontent/images_upl/710/sm_709480.jpg "Фото к рецепту: Апельсиновые булочки с миндальной начинкой")](https://www.russianfood.com/recipes/recipe.php?rid=172843)
 
-Пирог из теста фило со шпинатом и фетой. Цветаевский пирог с абрикосами и черешней. Шоколадный чизкейк "Зебра". Пирог с рыбой и рисом. Пирог из слоёного теста с яблоками и корицей.
+Из необычного дрожжевого сдобного теста, ароматизированного апельсиновым соком и цедрой, сделаем узелки, наполненные приправленной корицей орехово-белковой сладкой начинкой. Получим весьма аппетитные сдобные пряные булочки с интересными серединками.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22231)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172843)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22231#comments) | 18.06.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172843#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Для прессы<br><br>[Вкусно и в праздники, и в будни. Время молодых кабачков (33)](https://www.russianfood.com/reading/?post_id=22230) |     |
+| Рецепты<br><br>[Томатный суп с медом и базиликом](https://www.russianfood.com/recipes/recipe.php?rid=171144) |     |
 
-[![](//img1.russianfood.com/dycontent/images_upl/608/sm_607297.jpg)](https://www.russianfood.com/reading/?post_id=22230)
+[![Фото к рецепту: Томатный суп с медом и базиликом](//img1.russianfood.com/dycontent/images_upl/726/sm_725261.jpg "Фото к рецепту: Томатный суп с медом и базиликом")](https://www.russianfood.com/recipes/recipe.php?rid=171144)
 
-Роллы из кабачков с творогом и чесноком. Запеканка с фаршем и кабачками. Оладьи из кабачков с горошком. Кабачки со шпинатом в сметане. Телятина с кабачками.
+Томатный суп с медом - простейший суп и по составу, и по приготовлению. По вкусу напоминает гаспачо. Приятную кислинку томатов сглаживает добавленный мед, а аромат и яркость вкуса придают свежий базилик и паприка. Такой суп вкусен как в горячем виде, так и в холодном.
 
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22230)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=171144)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22230#comments) | 18.06.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=171144#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Лодочки из кабачков с помидорами, сыром и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173556) |     |
+| Для прессы<br><br>[Цвета и вкусы жарких дней. Лучшие СУПЫ №24-25](https://www.russianfood.com/reading/?post_id=22244) |     |
 
-[![Фото к рецепту: Лодочки из кабачков с помидорами, сыром и яйцами](//img1.russianfood.com/dycontent/images_upl/721/sm_720802.jpg "Фото к рецепту: Лодочки из кабачков с помидорами, сыром и яйцами")](https://www.russianfood.com/recipes/recipe.php?rid=173556)
+[![](//img1.russianfood.com/dycontent/images_upl/726/sm_725079.jpg)](https://www.russianfood.com/reading/?post_id=22244)
 
-Оригинальные лодочки из кабачков с яйцами, чем-то похожие на хачапури. Лодочки с начинкой из помидоров, мякоти кабачков и сыра сперва запечём, а на финише добавим яйца. Получается вкусно, ароматно и ярко!
+Крем-суп из щавеля и шпината, с беконом. Овощной суп с фасолью и кабачками. Сырный суп-пюре с креветками. Куриный суп с рисом и яйцами. Сливочный суп с морепродуктами, нутом и кукурузой. Окрошка с курицей, на ряженке. Томатный суп-пюре из запечённых овощей.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173556)  
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22244)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173556#comments) | 17.06.24 |     |
+|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22244#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Песочный пирог с клубникой и сметанной заливкой](https://www.russianfood.com/recipes/recipe.php?rid=173596) |     |
+| Для прессы<br><br>[Летний привет.) Лучшие рецепты для начинающих №24-25](https://www.russianfood.com/reading/?post_id=22243) |     |
 
-[![Фото к рецепту: Песочный пирог с клубникой и сметанной заливкой](//img1.russianfood.com/dycontent/images_upl/724/sm_723025.jpg "Фото к рецепту: Песочный пирог с клубникой и сметанной заливкой")](https://www.russianfood.com/recipes/recipe.php?rid=173596)
+[![](//img1.russianfood.com/dycontent/images_upl/722/sm_721486.jpg)](https://www.russianfood.com/reading/?post_id=22243)
 
-Буквально тающий во рту сметанный пирог с клубникой. Основа пирога из песочного теста, а начинка – из ломтиков клубники, которую покрывает нежная сметанная заливка.
+Дрожжевой пирог с яйцами и зелёным луком. Картофельная запеканка с цветной капустой и горошком. Закусочные слойки с сыром и ветчиной. Куриное филе, жаренное в пергаменте. Рыба, запечённая с апельсинами.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173596)  
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22243)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_20 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173596#comments) | 17.06.24 |     |
+|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22243#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Рубленые котлеты из индейки с сыром](https://www.russianfood.com/recipes/recipe.php?rid=173603) |     |
+| Для прессы<br><br>[Готовим дома наивкуснейшее! Лучшие рецепты на ТРОИЦУ (5)](https://www.russianfood.com/reading/?post_id=22242) |     |
 
-[![Фото к рецепту: Рубленые котлеты из индейки с сыром](//img1.russianfood.com/dycontent/images_upl/725/sm_724647.jpg "Фото к рецепту: Рубленые котлеты из индейки с сыром")](https://www.russianfood.com/recipes/recipe.php?rid=173603)
+[![](//img1.russianfood.com/dycontent/images_upl/647/sm_646837.jpg)](https://www.russianfood.com/reading/?post_id=22242)
 
-Филе индейки измельчим ножом, добавим для вкуса натёртый сыр и пряности, а для скрепления – яйцо и муку. Жареные котлеты получаются очень сочными, мягкими, с нежным сливочным послевкусием и ароматом зелёного лука.
+Слоёный пирог с рыбой, рисом и яйцами. Крабовый салат с помидорами и брынзой. Куриная грудка с творогом и шпинатом. Голубцы без риса, с жареным беконом. Мятные сырники.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173603)  
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22242)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173603#comments) | 17.06.24 |     |
+|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22242#comments) | 20.06.24 |     |
 
 |     |     |
 | --- | --- |
-| Рецепты<br><br>[Салат с клубникой, помидорами, сельдереем и базиликом](https://www.russianfood.com/recipes/recipe.php?rid=173621) |     |
+| Рецепты<br><br>[Крем-суп из щавеля и шпината, с беконом](https://www.russianfood.com/recipes/recipe.php?rid=173632) |     |
 
-[![Фото к рецепту: Салат с клубникой, помидорами, сельдереем и базиликом](//img1.russianfood.com/dycontent/images_upl/724/sm_723231.jpg "Фото к рецепту: Салат с клубникой, помидорами, сельдереем и базиликом")](https://www.russianfood.com/recipes/recipe.php?rid=173621)
+[![Фото к рецепту: Крем-суп из щавеля и шпината, с беконом](//img1.russianfood.com/dycontent/images_upl/726/sm_725079.jpg "Фото к рецепту: Крем-суп из щавеля и шпината, с беконом")](https://www.russianfood.com/recipes/recipe.php?rid=173632)
 
-Приготовление салата с клубникой, помидорами, сельдереем и базиликом займёт не более 15-ти минут. Сочная клубника, свежий базилик, ароматный стеблевой сельдерей и поджаренные тыквенные семечки – интересное сочетание, а дополняется оно заправкой из бальзамического уксуса, оливкового масла и лимонного сока.
+Крем-суп из щавеля и шпината - очень легкое летнее блюдо. Суп получается нежным и бархатистым благодаря сливкам, с лёгкой кислинкой щавеля. При подаче суп дополняется ароматным обжаренным беконом и ломтиком вареного яйца.
 
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173621)  
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173632)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173621#comments) | 17.06.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173632#comments) | 20.06.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723231.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173621) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723870.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173705) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723772.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173749) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724754.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173820) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724797.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173821) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723838.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173727) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724724.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173819) |
-| [Салат с клубникой, помидорами, сельдереем и базиликом](https://www.russianfood.com/recipes/recipe.php?rid=173621) | [Салат с копчёной курицей, киви и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=173705) | [Салат с креветками, помидорами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=173749) | [Сырно-шпинатные маффины](https://www.russianfood.com/recipes/recipe.php?rid=173820) | [Бездрожжевые булочки-витушки с клубникой и сырной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173821) | [Салат с тунцом, капустой, болгарским перцем, огурцами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=173727) | [Кабачки, фаршированные болгарским перцем и морковью](https://www.russianfood.com/recipes/recipe.php?rid=173819) |
-| [![](//img1.russianfood.com/dycontent/images_upl/723/alt1_722784.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173781) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723790.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173730) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725039.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173831) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724178.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173747) |
-| [Куриные котлеты с рисом и кабачком, в духовке](https://www.russianfood.com/recipes/recipe.php?rid=173781) | [Салат с крабовыми палочками, морепродуктами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173730) | [Заливной пирог с клубникой](https://www.russianfood.com/recipes/recipe.php?rid=173831) | [Морской коктейль с грибами и кабачками в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173747) |
+| [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724086.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173725) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724892.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173615) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723497.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173608) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724626.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172934) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725079.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173632) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725261.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171144) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725168.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173726) |
+| [Куриный суп с рисом и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173725) | [Кабачки, запечённые с грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173615) | [Рисовая запеканка с кабачками и грибами](https://www.russianfood.com/recipes/recipe.php?rid=173608) | [Шоколадный бисквитный рулет с масляным кремом](https://www.russianfood.com/recipes/recipe.php?rid=172934) | [Крем-суп из щавеля и шпината, с беконом](https://www.russianfood.com/recipes/recipe.php?rid=173632) | [Томатный суп с медом и базиликом](https://www.russianfood.com/recipes/recipe.php?rid=171144) | [Лапша с курицей и кабачками в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173726) |
+| [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725231.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173594) | [![](//img1.russianfood.com/dycontent/images_upl/710/alt1_709519.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172837) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724721.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172987) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724566.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172988) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724848.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173640) | [![](//img1.russianfood.com/dycontent/images_upl/725/alt1_724178.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173747) | [![](//img1.russianfood.com/dycontent/images_upl/726/alt1_725161.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173661) |
+| [Щавелевый суп с копчёной курицей и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=173594) | [Цельнозерновые творожные кексы с яблоком](https://www.russianfood.com/recipes/recipe.php?rid=172837) | [Овсяная запеканка с бананами и шоколадом](https://www.russianfood.com/recipes/recipe.php?rid=172987) | [Сэндвич с тунцом и маринованным огурцом](https://www.russianfood.com/recipes/recipe.php?rid=172988) | [Лингвини с креветками и кабачками в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173640) | [Морской коктейль с грибами и кабачками в сливочном соусе](https://www.russianfood.com/recipes/recipe.php?rid=173747) | [Лапша с кабачками и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=173661) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(96)
+(88)
