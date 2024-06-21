@@ -47,6 +47,7 @@ Shop
     [Drinkware](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=245&catalog_name=RHJpbmt3YXJl)  
     [Flags & Pennants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=268&catalog_name=RmxhZ3MgJmFtcDsgUGVubmFudHM)  
     [Keychains & Lanyards](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=301&catalog_name=S2V5Y2hhaW5zICZhbXA7IExhbnlhcmRz)  
+    [Lawn Signs](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=305&catalog_name=TGF3biBTaWducw)  
     [Novelty Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R0lGVFMgJiBBQ0NFU1NPUklFUw&catalog_id=293&catalog_name=Tm92ZWx0eQ)  
       
     
