@@ -71,7 +71,7 @@ Arrow Left
 
 Arrow Right
 
-[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoTropics](https://weather.com/storms/hurricane/video/tropical-storm-warnings-extended-in-texas?adRef=nav)
+[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoTropics](https://weather.com/storms/hurricane/video/watching-another-area-in-the-gulf-for-development?adRef=nav)
 
 More ForecastsMoreArrow down
 
