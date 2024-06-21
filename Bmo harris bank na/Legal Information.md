@@ -120,6 +120,7 @@ Personal
     * Student Loans
         
         * [Private Student Loans](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/private-student-loan/)
+        * [Refinancing Student Loans](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/refinance-student-loan/)
         
     * Personal Loans
         
@@ -326,6 +327,7 @@ US
         * [![](/dist/icons/house-dollar.svg)Home Equity RatesCompetitive options](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/HELOC-rates/)
     * Student Loans![](/dist/icons/chevron-right.svg)
         * [![](/dist/icons/book-bookmark.svg)Private Student LoansQuick and easy](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/private-student-loan/)
+        * [![](/dist/icons/graduation-hat-cycle-blue-48x48.svg)Refinancing Student LoansLow interest rates, long terms](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/refinance-student-loan/)
     * Personal Loans![](/dist/icons/chevron-right.svg)
         * [![](/dist/icons/cycle-dollar.svg)Personal Line of CreditA little extra money when you need it](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/personal-line-of-credit/)
         * [![](/dist/icons/savings-secured-loans-lock.svg)Savings Secured LoansUse the value in your savings](https://www.bmo.com/en-us/main/personal/loans-and-lines-of-credit/cd-savings-secured-loan/)
