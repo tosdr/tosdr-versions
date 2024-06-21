@@ -25,11 +25,11 @@
     
     Terraria](https://shockbyte.com/games/terraria-server-hosting)
     
-    [![](/public/img/mythofempiresicon.ec78164.webp)
+    [![](/public/img/soulmaskicon.c630335.webp)
     
-    Myth of Empires
+    Soulmask
     
-    NEW](https://shockbyte.com/games/myth-of-empires-server-hosting)
+    NEW](https://shockbyte.com/games/soulmask-server-hosting)
     
     [![](/public/img/conanexiles.c76f2fa.webp)
     
@@ -45,21 +45,15 @@
     
     [![](data:image/webp;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAsEAABBAAEBAYBBQAAAAAAAAABAgMEEQAFITEGEkFhExQiMlFxgRUjkaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAMBAv/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhExAyES/9oADAMBAAIRAxEAPwAJkLS2SAfDQLUo7Adz0xlJmqTHSYqVOuOe0ISVadTQ6YHnuvZ5HW5JccYyhrckepw7XW1/A6fza3AzqFAEmFMM4eAA/EU0aKwDtodQdLBwfR1dCPNN0LXFb70WUl1JeQ6lQUFOpIXfzZojFp4Mlu5jkGXynVczjrQKjVWdicSlBZzgssmQ/KVJIbp5zmKSVVVHasV/hGIzlmUw4XihSWUcun2TX94lCT1lOkKJS3xg7MzZxiLEWrJW0kJZbIQoaGlFVbk9D0/OOLnDr5mqEWQ643RCUuDlcQDXMlQ6HbbQ7jBMeI7lM11tMV0RXVktGrUNa23I741zSG5NpbEd8yWdQsNKJA76ba4z6knTOU/cONlbohszcwU7cxtJCB7eVR0v71xVuH8187lsR9fpceTemxPwP9rviS/pzz/mf3GkuJZLikuL5S5W4Re51On31wwcKZ/Baipiz0OCP7KSlRpd3oRrfqI/OHqwo6en/9k=)
     
-    HumanitZ
-    
-    NEW](https://shockbyte.com/games/humanitz-server-hosting)
+    HumanitZ](https://shockbyte.com/games/humanitz-server-hosting)
     
     [![](data:image/webp;base64,UklGRgoCAABXRUJQVlA4IP4BAABwCQCdASogACAAPm0sk0YkIqGhKA1QgA2JYwCdMoMnWeAqQRoJnC+EqQLAEM38en0v7A36yrqOSTMYfhD7gEhBj4n8xUHN05EbHdtR8/EpF8/+QbAA/v5MEZJZgevX/wCfsI2/4MixHMfexKRW6H4mqs5wvKhH2SrGssP8qrBC/wa//vklCnCGesOFVrUO/+i3q+/o8j56GVQQHa4dnnTT2fb9aj05qIt/bizlg/mlJBCJyLrnzg/JAZ65Vg7a/xTkv9wfyXF/mdcmt3pP3ZOCjGutUegTz9NtLTl1WOE2aKWPpmZqZrKH77Eebgxvez0CQSXPx7ighoeODqsSLe/6doZ/jPwdOCG5m6EBkcG99P9Wy8nUbjvq7DpXbi2xipHlvbHfnPapm7mFfNeiwSc/hlPiMQovIqEso9LvnuZg4WZ/rhUmA+f55IT9jcp2N/LxEVfeKaHCvx6upy65v51vOAlWyzaXUWQeHxuWGrfrfWATlETiyI0p9K09Z4tfCnrde/pe4tIS4OCXWH8dv63w2WjUJOW77slzSRaAZlZN5DCQ/kCdjL37ECNUvViJfPt4QnDoMApVIs6I1B5+dupK1+IZKMeuc+4gn5W997ElAKG/oChOmTlW0P1MgNux05Pro7Qon1xN1CZTzuzmw2hfny5DiIiM/jv8kXeqAAA=)
     
-    Enshrouded
-    
-    NEW](https://shockbyte.com/games/enshrouded-server-hosting)
+    Enshrouded](https://shockbyte.com/games/enshrouded-server-hosting)
     
     [![](/public/img/palworldnav.c33f204.webp)
     
-    Palworld
-    
-    NEW](https://shockbyte.com/games/palworld-server-hosting)
+    Palworld](https://shockbyte.com/games/palworld-server-hosting)
     
     [![](/public/img/sotf-nav.e0e1340.webp)
     
@@ -85,9 +79,9 @@
     
     Valheim](https://shockbyte.com/games/valheim-server-hosting)
     
-    [![](data:image/webp;base64,UklGRhIDAABXRUJQVlA4WAoAAAAIAAAAFwAAFwAAVlA4IBYCAACwCgCdASoYABgAPh0KhEECgKqAYDieMAd8H5b9QBz4HsR/uJ6Q9K2+nY9cwp0IDTjPtm+Jf+c8l/0F6jn86/1nAS/qqHT/+1L+mOD2u6pW62ZbMX+HE2QT2QXCSP2AAP7//kfbkA773HrbZ/9NHiYavnori3dJhfo7pBPwrb/8THzA2v52Kv8Xxkp2QHnhvZTlHnlR1RJF2+Qo28f3tNxvzmkf+TurbVfNMEMZcYuZ8KzrI8WrXWW2LdP6frabpx/E8Cgkjt5eUb1LLaFjfef+HeSEhRf/Nv4/mjMNx0cgeQfWIUpx5J3qPDxLUr/58TOClJC/Gq+0hPZOHlNfHhcGxoBL//7T/q57BXmSPRrG2xPyn3D9/J2Hfr79vPD5FtHUb5J/t+z81rDxOy6elqnoUib4p87/9Qj+avNEHV0kVGan1Ff/3zX4K06Z5uPybaj5tZmjberAy8UiBvdwvpzAv4lpOYntkC/Q4vzV91fePSf5NL1UMFMgUTla1A+b1B9fqAMwu9EbGUTzmO7mJbTN22HZh4zRNZYTjJeSwH/44bOcXXHb2XpSdUPtLsl/3VzK2K3UTjgfNu1//+lyaIluX5/cLixW57riBp2H+///aYZpUtDPkVUFr5Hl/jvnnc4D2P1I60Ak+qFCgyTnlGVey+AxyWf//5DHv8I5D6RJv5dRwAHZH1hrzmCWkifdLEYABNQAAABFWElG1gAAAElJKgAIAAAABgASAQMAAQAAAAEAAAAaAQUAAQAAAFYAAAAbAQUAAQAAAF4AAAAoAQMAAQAAAAIAAAAxAQIAEAAAAGYAAABphwQAAQAAAHYAAAAAAAAAYAAAAAEAAABgAAAAAQAAAHBhaW50Lm5ldCA1LjAuOQAFAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAKgBAABAAAAGAAAAAOgBAABAAAAGAAAAAWgBAABAAAAuAAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAAA=)
+    [![](/public/img/mythofempiresicon.ec78164.webp)
     
-    MORDHAU](https://shockbyte.com/games/mordhau-server-hosting)
+    Myth of Empires](https://shockbyte.com/games/myth-of-empires-server-hosting)
     
     [![](/public/img/7dtd.3c2f66b.webp)
     
