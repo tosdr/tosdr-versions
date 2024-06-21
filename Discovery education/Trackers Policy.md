@@ -185,10 +185,9 @@ For questions about our Cookie Policy, please contact us by using the following 
 
 #### Company
 
-* [Awards](https://www.discoveryeducation.co.uk/awards/)
 * [Careers](https://apply.workable.com/discoveryed/)
-* [Events](https://www.discoveryeducation.co.uk/events/)
 * [News](https://www.discoveryeducation.co.uk/news/)
+* [Events](https://www.discoveryeducation.co.uk/events/)
 
 #### Not a subscriber?
 
