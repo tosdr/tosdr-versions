@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [7 reasons that’ll have you excited to start ELDEN RING today](https://en.bandainamcoent.eu/elden-ring/news/7-reasons-thatll-have-you-excited-start-elden-ring-today)
-* [Learn more about GUNDAM BREAKER 4 story and characters!](https://en.bandainamcoent.eu/gundam/news/learn-more-about-gundam-breaker-4-story-and-characters)
+* [Enter the realm of shadow and fall from grace in the expansion ELDEN RING SHADOW OF THE ERDTREE, available now](https://en.bandainamcoent.eu/elden-ring/news/enter-the-realm-of-shadow-and-fall-grace-the-expansion-elden-ring-shadow-of-the)
+* [Elden Ring - How to enter the Realm of Shadow](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-how-enter-the-realm-of-shadow)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
