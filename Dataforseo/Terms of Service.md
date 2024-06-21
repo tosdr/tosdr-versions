@@ -66,7 +66,6 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
-        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -161,7 +160,6 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
-        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -257,7 +255,6 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
-        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
