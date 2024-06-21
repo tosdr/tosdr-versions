@@ -338,12 +338,12 @@ The only advertisement banner you will see.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-85448)
+* AnyoneAndEveryone on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-85429)
 * [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-85108)
 * 439m on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-85104)
 * alex on [Rollerblade office caster wheels – buyer beware!](https://www.s-config.com/rollerblade-office-caster-wheels-buyer-beware/comment-page-5/#comment-85085)
 * Zeus9x on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-85076)
 * [S-Config](https://www.s-config.com/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-84959)
-* Kytheon on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-84942)
-* Specht77 on [XBCD – Original Xbox Controllers with Win10-8](https://www.s-config.com/xbcd-original-xbox-controllers-win10/comment-page-17/#comment-84880)
 
 2024 - https://www.s-config.com TOR-V3: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion - I2P: atlkfvuwwpgvnw24dkwyyxf5psrueozxb3i6zgebymjuquuquvqq.b32.i2p
