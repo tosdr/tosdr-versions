@@ -27,7 +27,6 @@ Close
 * [NEW](https://www.burpee.com/new-for-2024)
 * [Vegetables](https://www.burpee.com/vegetables/)
 * [Flowers](https://www.burpee.com/Flowers/)
-* [Plants](https://www.burpee.com/garden-ready-plants)
 * [Perennials](https://www.burpee.com/perennials/)
 * [Herbs](https://www.burpee.com/herbs/)
 * [Fruit](https://www.burpee.com/fruit/)
