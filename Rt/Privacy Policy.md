@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[Numerous countries refuse to sign Zelensky ‘peace summit’ communique: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[US-supplied F-16s to be stationed inside Ukraine – White House: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,9 +64,9 @@
 
 [](https://odysee.com/@RT:fd)
 
-[Numerous countries refuse to sign Zelensky ‘peace summit’ communique: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[US-supplied F-16s to be stationed inside Ukraine – White House: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
-[Putin’s state visit to North Korea: LIVE UPDATES](https://www.rt.com/russia/599519-putin-state-visit-north-korea/)
+[Putin’s visit to Vietnam: From historical friendship to future plans](https://www.rt.com/news/599675-putin-visit-vietnam-recap/)
 
 [Home](https://www.rt.com/)
 
