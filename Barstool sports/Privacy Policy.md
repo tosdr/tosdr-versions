@@ -63,7 +63,7 @@
     
 * [Store](https://store.barstoolsports.com/)
     
-    [![SKLZ Hover](https://chumley.barstoolsports.com/union/2024/06/19/SKLZ_BarstoolGolf_240319_MegaMenu.0365ffd4.7e57d953.jpeg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://www.golfgalaxy.com/f/shop-sklz-barstool)
+    [![Banner 18 Hover](https://chumley.barstoolsports.com/union/2024/06/20/Celtics2024_896x694.e744a130.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_hover_state_image_bostonchamps)
     
     #### Barstool Brands
     
@@ -145,9 +145,9 @@
 
 * Trending Topics
 * [Jake Marsh](https://www.barstoolsports.com/blog/3517344/i-am-moving-on-from-pardon-my-take)
-* [Reuniting with Pangzai](https://www.barstoolsports.com/video/3517422/reuniting-with-pangzai-after-four-years)
+* [Boston's Banner 18](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_bostonchamps)
 * [Rundown](https://www.barstoolsports.com/video/3517459/the-florida-panthers-have-been-smoked-barstool-rundown-june-19th-2024)
-* [The Dozen Championship](https://www.barstoolsports.com/video/3517433/3-frankettes-vs.-6-uptown-balls-and-2-the-yak-vs.-7-booze-ponies-or-rd-2-matches-5-and-6-the-dozen-trivia-tournament-iv)
+* [The Dozen Championship](https://www.barstoolsports.com/video/3517569/4-team-minihane-vs.-5-the-experts-and-1-ziti-vs.-9-smockin-t.c.-or-rd-2-matches-7-and-8-the-dozen-trivia-tournament-iv)
 * [NHL Coverage](https://www.barstoolsports.com/topics/nhl)
 
 Privacy Policy
