@@ -308,37 +308,37 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/18/three-teenagers-arrested-for-allegedly-raping-girl-for-being-jewish-report/ "Three Teenagers Arrested For Allegedly Raping Girl For Being Jewish: REPORT")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/20/angie-harmon-daughter-avery-sehorn-theft-larceny-bottles-alcohol-break-in/ "Police Arrest Daughter Of Famous Actress For Bizarre Theft: REPORT")
 
 1
 
-[Three Teenagers Arrested For Allegedly Raping Girl For Being Jewish: REPORT](https://dailycaller.com/2024/06/18/three-teenagers-arrested-for-allegedly-raping-girl-for-being-jewish-report/)
+[Police Arrest Daughter Of Famous Actress For Bizarre Theft: REPORT](https://dailycaller.com/2024/06/20/angie-harmon-daughter-avery-sehorn-theft-larceny-bottles-alcohol-break-in/)
 
-World
+Entertainment
 
 2
 
-['Mysterious Monolith' Crops Up In Desert, Authorities Say](https://dailycaller.com/2024/06/18/mysterious-monolith-desert-las-vegas-nevada/)
+[What A Legend: One Of The Coolest Golfers In The Game Just Got A Lot Cooler](https://dailycaller.com/2024/06/20/bryson-dechambeau-nashville-us-open-trophy-golf/)
 
-US
+Editorial
 
 3
 
-[Josh Hawley Confronts Scientist For Engaging In 'Propaganda Effort' To Cast Doubt On COVID-19 Lab Leak Theory](https://dailycaller.com/2024/06/18/josh-hawley-confronts-scientist-engaging-propaganda-effort-cast-doubt-covid-19-lab-leak-theory/)
+[Huge Percentage Of EV Owners Want To Go Back To Normal Cars, Study Finds](https://dailycaller.com/2024/06/20/electric-vehicle-owners-40-percent-gas-cars-mckinsey/)
 
-Health
+Energy
 
 4
 
-[Massive Cocaine Haul Worth $2.7 Billion Seized](https://dailycaller.com/2024/06/17/cocaine-2-7-billion-seized-germany/)
+[We Reportedly Have Our First High-Profile Trade Of The NBA Offseason, And It's An Outright Steal For One Team](https://dailycaller.com/2024/06/20/alex-caruso-josh-giddey-bulls-thunder-trade-nba/)
 
-World
+Editorial
 
 5
 
-[D.C. Bureaucrats Have Unleashed A Hell On American Men They May Come To Regret](https://dailycaller.com/2024/06/18/zyn-nicotine-pouches-shipping-ban-washington-dc-flavored-tobacco-philip-morris/)
+[Republicans Outpace Dems In Fundraising As Control Of Key Legislatures Hangs In Balance](https://dailycaller.com/2024/06/19/republicans-outpace-dems-in-fundraising-as-control-of-key-legislatures-hangs-in-balance/)
 
-Health
+Politics
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
