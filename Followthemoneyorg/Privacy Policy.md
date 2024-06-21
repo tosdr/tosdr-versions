@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
+[![Private Prison Political Contributions, 2009-2016](/assets/Images/teasers/small/Screen-Shot-2017-01-24-at-1.16.27-PM.png)](https://www.followthemoney.org/research/institute-reports/prisons-and-politics-profiling-the-pecuniary-political-persistence-of-private-prisons)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
