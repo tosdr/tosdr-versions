@@ -226,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Submits Comment Supporting Proposed USPTO Rule](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-submits-comment-supporting-proposed-uspto-rule)
+    ### [FTC Issues Annual Report on Refunds to Consumers; Agency Returned $324M in 2023](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-issues-annual-report-refunds-consumers-agency-returned-324m-2023)
     
-    June 18, 2024
+    June 21, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jun20
+    Nov14
     
-    ### [Closed Commission Meeting - June 20, 2024](https://www.ftc.gov/news-events/events/2024/06/closed-commission-meeting-june-20-2024)
+    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
     
-    Thursday, June 20, 2024 | 12:30PM
+    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
