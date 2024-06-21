@@ -201,6 +201,12 @@ Where to Buy
     * [Accessories](https://www.tp-link.com/us/business-networking/omada/accessory/)
     * [All Products](https://www.tp-link.com/us/business-networking/all-omada/)
     
+    [](https://www.tp-link.com/us/landing/festa/)
+    
+    [Festa](https://www.tp-link.com/us/landing/festa/)
+    
+    The Networking Solution Built for Small Businesses and Prosumers
+    
     [](https://www.tp-link.com/us/business-networking/all-omada-pro/)
     
     [Omada Pro](https://www.tp-link.com/us/business-networking/all-omada-pro/)
@@ -425,6 +431,8 @@ Where to Buy
             
         * [All Products](https://www.tp-link.com/us/business-networking/all-omada/)
             
+        
+    * [Festa](https://www.tp-link.com/us/landing/festa/)
         
     * Omada Pro
         
