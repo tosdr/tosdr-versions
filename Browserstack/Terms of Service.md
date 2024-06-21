@@ -198,8 +198,6 @@ Developers
 
 [Pricing](https://www.browserstack.com/pricing "Pricing")
 
-Contact Sales
-
 [Sign in](https://www.browserstack.com/users/sign_in "Sign in")
 
 [Free Trial](https://www.browserstack.com/users/sign_up "Free Trial")
