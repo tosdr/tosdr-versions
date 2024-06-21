@@ -94,7 +94,7 @@ For any question or query, Vidazoo can be contacted by email at [support@Vidazoo
 
 [PreviousLegal Resources](https://vidazoo.gitbook.io/vidazoo-legal)[NextTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)
 
-Last updated 8 months ago
+Last updated 9 months ago
 
 On this page
 
