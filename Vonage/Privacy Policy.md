@@ -269,7 +269,7 @@ Solutions
 * [Log In](https://www.vonage.com/log-in/)
 * [Support](https://www.vonage.com/support/)
 
-Global (English) Philippines (English) Australia (English) United Kingdom (English) Singapore (English) Malaysia (English) Indonesia (English) Hong Kong SAR. (English) Canada (English) Canada (Français) 日本 (日本語) 대한민국 (한국어) 中国大陆(中文) Deutschland (Deutsch) France (Français) México (Español) España (Español) Brasil (português) Россия (Русский)
+Global (English) Philippines (English) Australia (English) United Kingdom (English) Singapore (English) Malaysia (English) Indonesia (English) Hong Kong SAR. (English) Canada (English) Canada (Français) 日本 (日本語) 대한민국 (한국어) 中国大陆(中文) Deutschland (Deutsch) France (Français) México (Español) España (Español) Brasil (português)
 
 1. [Legal](https://www.vonage.com/legal/)
 2. Privacy Policy
