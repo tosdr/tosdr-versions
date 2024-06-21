@@ -12,7 +12,7 @@ Members Login always free
 
 I’m Looking For
 
-[Brothels (1793)](https://sexadvisor.com/brothels/) [Erotic Massages (1985)](https://sexadvisor.com/erotic-massages/) [FKK (227)](https://sexadvisor.com/fkk/) [Nightclubs (2234)](https://sexadvisor.com/nightclubs/) [Escort Agency (846)](https://sexadvisor.com/escort-agencies/) [Swinger Clubs (547)](https://sexadvisor.com/swinger-clubs/)
+[Brothels (1835)](https://sexadvisor.com/brothels/) [Erotic Massages (2016)](https://sexadvisor.com/erotic-massages/) [FKK (239)](https://sexadvisor.com/fkk/) [Nightclubs (2266)](https://sexadvisor.com/nightclubs/) [Escort Agency (851)](https://sexadvisor.com/escort-agencies/) [Swinger Clubs (555)](https://sexadvisor.com/swinger-clubs/)
 
 Sex Brothel Finder, the number one site for finding the best brothels
 =====================================================================
