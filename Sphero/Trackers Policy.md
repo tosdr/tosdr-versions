@@ -61,6 +61,7 @@ Back
 
 * [Lessons & Resources](https://sphero.com/pages/activities)
 * [App Downloads](https://sphero.com/pages/apps)
+* [Sphero BOLT+](https://edu.sphero.com/edurobots)
 * [Sphero BOLT](https://sphero.com/pages/sphero-bolt-resources)
 * [Sphero indi](https://sphero.com/pages/sphero-indi)
 * [Sphero RVR+](https://sphero.com/pages/sphero-rvr-resources)
@@ -155,6 +156,7 @@ Cart/Quote](https://sphero.com/cart)
     * [Webinars](https://sphero.com/pages/webinars)
 * [Lessons & Resources](https://sphero.com/pages/activities)
     * [App Downloads](https://sphero.com/pages/apps)
+    * [Sphero BOLT+](https://edu.sphero.com/edurobots)
     * [Sphero BOLT](https://sphero.com/pages/sphero-bolt-resources)
     * [Sphero indi](https://sphero.com/pages/sphero-indi)
     * [Sphero RVR+](https://sphero.com/pages/sphero-rvr-resources)
@@ -216,7 +218,7 @@ Resources
 * [STEM Summer Camps & After School Programs](https://sphero.com/pages/stem-summer-camps)
 
 © Sphero, Inc. 2024. All Rights Reserved.  
-BOLT, littleBits, RVR, Sphero Mini, Sphero indi, Sphero Edu, #BeyondCode and Snap the Gap are registered trademarks of Sphero, Inc. Inspiring the Creators of Tomorrow, RVR+, Sphero Edu Jr, Prototype Your World, and Sphero Central are trademarks of Sphero, Inc. Other trademarks and trade names are those of their respective owners.  
+BOLT, littleBits, RVR, Sphero Mini, Sphero indi, Sphero Edu, #BeyondCode and Snap the Gap are registered trademarks of Sphero, Inc. BOLT+, RVR+, Sphero Edu Jr, Sphero Central, Electrify Learning, Positively Charged, Prototype Your World, and Inspiring the Creators of Tomorrow, are trademarks of Sphero, Inc. Other trademarks and trade names are those of their respective owners.  
   
 If you are using a screen reader and having issues with our website please email [support@sphero.com](mailto:support@sphero.com) for assistance.
 
