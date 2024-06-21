@@ -126,18 +126,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 * Upcoming Events
     ---------------
     
-    June 2024
-    
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAB+AQAAAADubdWgAAAAAnRSTlMAAHaTzTgAAAAZSURBVEjH7cEBDQAAAMKg909tDwcUAAAPBgnYAAHW6F1SAAAAAElFTkSuQmCC)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/05/Holidays-through-an-autistic-lens-LL-150x126.jpg)](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn/?occurrence=2024-06-20)
-    
-    Jun 20 2024
-    
-    #### [An autistic person’s vacation perspective with Drs. Kressin and Hammel - Summer Solstice 6-20-24](https://washingtonautismalliance.org/events/holidays-through-an-autistic-lens-with-dr-hammel-and-dr-kressin-lunch-learn/?occurrence=2024-06-20)
-    
-    Zoom https://zoom.us (please download the app and check your internet connectivity)
-    
     August 2024
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWAQMAAAAGz+OhAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14ND2AAAMC9AAu4AAHGdJuwAAAAAElFTkSuQmCC)
