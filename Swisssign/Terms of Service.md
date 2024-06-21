@@ -174,7 +174,7 @@ In addition to the request fees, fixed annual fees can be charged at the start o
 
 #### **10.5  Change fee**
 
-The CUSTOMER may request changes in the certificate services. These are subject to the change fees stated in the change sheet, [price list](https://www.swisssign.com/en/dam/jcr:fc50d715-b609-4aa5-ab64-cb131521786d/PriceList_EN.pdf) or change form in the web shop when the change is ordered. Fees for changes and cancellations are shown in the change sheet.
+The CUSTOMER may request changes in the certificate services. These are subject to the change fees stated in the change sheet, [price list](https://www.swisssign.com/en/swisssign/old_magento_migration/wysiwyg/PDF-ALL/21_WebshopLicenses/PricelistChanges/PriceList_EN.pdf) or change form in the web shop when the change is ordered. Fees for changes and cancellations are shown in the change sheet.
 
 #### **10.6  Sliding prices**
 
@@ -346,7 +346,7 @@ Certificate services are not subject to any technical limitation as to the quant
 
 Change orders placed after a binding order has been made shall attract the change and cancellation fees specified in the change order form or in a separate offer. This shall include all parameters not included in the original set up. A maximum number of parameters can be defined for the original setup, as shown in the order.
 
-Where these are available, the corresponding current change request forms published in the web shop shall always be used for the changes in parameters. Prices for changes are based on the [price list](https://www.swisssign.com/en/dam/jcr:fc50d715-b609-4aa5-ab64-cb131521786d/PriceList_EN.pdf) stored in the web shop as not otherwise agreed.
+Where these are available, the corresponding current change request forms published in the web shop shall always be used for the changes in parameters. Prices for changes are based on the [price list](https://www.swisssign.com/en/swisssign/old_magento_migration/wysiwyg/PDF-ALL/21_WebshopLicenses/PricelistChanges/PriceList_EN.pdf) stored in the web shop as not otherwise agreed.
 
 #### **7. Revocation of certificates, time stamps and signatures**
 
