@@ -281,7 +281,7 @@ Finished challenges
 
 Most popular cameras
 
-[Canon EOS R712.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Z6III8.4%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Nikon Zf2.0%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Panasonic Lumix DC-GH71.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Panasonic Lumix DC-S5II0.9%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
+[Nikon Z6III10.1%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Canon EOS R79.4%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Zf1.8%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.3%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.2%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Panasonic Lumix DC-GH71.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Panasonic Lumix DC-S5II1.0%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -295,26 +295,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 77  | [The Z6III is really nice but...](https://www.dpreview.com/forums/post/67768094) |
-| 62  | [Any reason to not trade in Z9 for Z6iii?](https://www.dpreview.com/forums/post/67769000) |
-| 53  | [NO battery charger with Z6iii ?](https://www.dpreview.com/forums/post/67768454) |
-| 49  | [OM-1 low light](https://www.dpreview.com/forums/post/67767673) |
-| 44  | [DxO 20% discount](https://www.dpreview.com/forums/post/67768122) |
-| 44  | [\*\*Weekly Image Thread 24 06 19 #884\*\*](https://www.dpreview.com/forums/post/67771010) |
-| 40  | [Z6III : Strictly for Photographs ?](https://www.dpreview.com/forums/post/67770272) |
-| 33  | [Now On To The Z7III Count Down !](https://www.dpreview.com/forums/post/67768534) |
-| 29  | [Horrible CFV100C Screen vs X2D and GFX?](https://www.dpreview.com/forums/post/67768883) |
-| 25  | [GF500mm f5.6 Shipping Date](https://www.dpreview.com/forums/post/67768282) |
-| 23  | [Zfx instead of Z7 III](https://www.dpreview.com/forums/post/67769058) |
-| 23  | [Feedback on the GF55mm?](https://www.dpreview.com/forums/post/67768488) |
-| 21  | [Studio Scene at 4:3 downsampled to 4K, XT-5 and GFX 100](https://www.dpreview.com/forums/post/67768316) |
-| 20  | [GFX 100 II - World Class Professional Paparazzi!](https://www.dpreview.com/forums/post/67769250) |
-| 20  | [Removing the photometry dial for a video switch was dumb](https://www.dpreview.com/forums/post/67769446) |
-| 20  | [\- Heat ! -](https://www.dpreview.com/forums/post/67769773) |
-| 19  | [What is fueling the trend back to film?](https://www.dpreview.com/forums/post/67771492) |
-| 18  | [LaCie external drive for MacBook Air?](https://www.dpreview.com/forums/post/67769565) |
-| 17  | [Seeking best camera and lens for short focus length with large depth of field](https://www.dpreview.com/forums/post/67768606) |
-| 17  | [Comfortable Camera Strap](https://www.dpreview.com/forums/post/67768790) |
+| 77  | [What is fueling the trend back to film?](https://www.dpreview.com/forums/post/67771492) |
+| 57  | [Hypothetical poll question...Would you buy a APSC version of the Z6iii?](https://www.dpreview.com/forums/post/67771753) |
+| 40  | [To many photos](https://www.dpreview.com/forums/post/67771903) |
+| 37  | [Do Nikon FX bodies have to be bigger than DX bodies?](https://www.dpreview.com/forums/post/67773333) |
+| 35  | [Pentax, what happened to you?](https://www.dpreview.com/forums/post/67772380) |
+| 32  | [X-Trans 1 why so expensive.](https://www.dpreview.com/forums/post/67772411) |
+| 30  | [Lenses I am jealous from other systems...](https://www.dpreview.com/forums/post/67773392) |
+| 30  | [For Zf owners](https://www.dpreview.com/forums/post/67773610) |
+| 29  | [Are we anticipating a fixed lens Gfx](https://www.dpreview.com/forums/post/67772430) |
+| 28  | [Birds anyone?](https://www.dpreview.com/forums/post/67772861) |
+| 28  | [Is Sony making too many different cameras?](https://www.dpreview.com/forums/post/67773330) |
+| 27  | [Z8 or Z6iii?](https://www.dpreview.com/forums/post/67771537) |
+| 27  | [Nikon Lens Roadmap](https://www.dpreview.com/forums/post/67774519) |
+| 25  | [Going from FF to 4/3 for macro?](https://www.dpreview.com/forums/post/67772724) |
+| 24  | [Exported image quality low](https://www.dpreview.com/forums/post/67772647) |
+| 23  | [Upgrading from Pen-F](https://www.dpreview.com/forums/post/67772916) |
+| 21  | [Godox X3 trigger and Z8 HSS - banding?](https://www.dpreview.com/forums/post/67773416) |
+| 20  | [Canon has refurbished RF 100-500 at a great price](https://www.dpreview.com/forums/post/67773337) |
+| 20  | [Even NEWER flower thread](https://www.dpreview.com/forums/post/67773551) |
+| 20  | [Z50 / Z6ii shenanigans](https://www.dpreview.com/forums/post/67774224) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
