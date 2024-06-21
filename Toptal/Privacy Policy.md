@@ -695,10 +695,10 @@ Footer
 
 * [Hire Freelance Developers](https://www.toptal.com/developers)
 * [Hire Freelance Designers](https://www.toptal.com/designers)
-* [Hire Freelance Finance Experts](https://www.toptal.com/finance)
-* [Hire Freelance Project Managers](https://www.toptal.com/project-managers)
-* [Hire Freelance Product Managers](https://www.toptal.com/product-managers)
 * [Hire Freelance Marketers](https://www.toptal.com/marketing)
+* [Hire Freelance Product Managers](https://www.toptal.com/product-managers)
+* [Hire Freelance Project Managers](https://www.toptal.com/project-managers)
+* [Hire Freelance Finance Experts](https://www.toptal.com/finance)
 
 ### About
 
