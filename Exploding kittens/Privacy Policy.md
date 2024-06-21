@@ -18,16 +18,6 @@ Close
 
 Offer valid on order with subtotals of £35 or more. Tax excluded. Discount codes may change your subtotal. Offer not redeemable for cash or credit. Exploding Kittens reserves the right to modify or end this promotion without notice.
 
-50% Off Limited Time Only! Good vs Evil (US & CANADA Only) Shop Now.
-
-Close
-
-#### 50% Off Limited Time Only!
-
-Good vs Evil (US & CANADA Only)
-
-[SHOP NOW.](https://www.explodingkittens.com/products/good-vs-evil)
-
 Next
 
 * [Games](https://www.explodingkittens.com/collections/games)
@@ -184,11 +174,9 @@ Belgium (EUR €) Canada (CAD $) France (EUR €) Germany (EUR €) Guadeloupe (
 
 ##### Cart
 
-Need to spice up game night?
+Your cart is empty
 
-[Best Sellers](https://www.explodingkittens.com/collections/all)
-
-[Shop All](https://www.explodingkittens.com/collections/all)
+[Start shopping](https://www.explodingkittens.com/collections/all)
 
 ### EXPLODING KITTENS INC. PRIVACY POLICY
 
@@ -463,3 +451,7 @@ All images, art and game materials are ©2015-2024 Exploding Kittens Inc.
 * [Terms of Service](https://www.explodingkittens.com/pages/terms-of-service)
 * [Cookie Policy](https://www.explodingkittens.com/pages/cookies-in-use-on-this-site)
 * [Sitemap](https://www.explodingkittens.com/sitemap.xml)
+
+12779659 en
+
+GBP
