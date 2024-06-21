@@ -61,7 +61,7 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-Last chance to enroll in this weekend's [Paradoxes and Infinity Seminar](https://artofproblemsolving.com/school/course/paradoxes-camp)!
+Summer and Fall classes are open for enrollment. [Schedule today](https://artofproblemsolving.com/school/schedule)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
