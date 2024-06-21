@@ -721,5 +721,3 @@ Speichern
 [Impressum](https://you-know.de/impressum/) [Datenschutzerklärung](https://you-know.de/datenschutzerklaerung/)
 
 [](tel:+498930668800)
-
-[![](https://you-know.de/wp-content/uploads/240219-Virtuelle-Workshops-Exitmodul-72ppi.png)](https://you-know.de/workshop-ki-fuer-ld/)
