@@ -56,9 +56,10 @@ We may update this Cookie Policy from time to time in order to reflect, for exa
 
 The date at the top of this Cookie Policy indicates when it was last updated.
 
-**Contact us**
+Contact Us
+----------
 
-If you have any questions about our use of cookies or other technologies, please email us at justin@buttondown.email or by post to:
+If you have any questions about our use of cookies or other technologies, please email us at support@buttondown.email or by post to:
 
 Buttondown, LLC  
 2917 W Grace St.  
