@@ -213,17 +213,17 @@ If you don't agree with any future changes to the Privacy Policy, please contact
         
         [National Donut Day: A Sweet Celebration With A Rich History](https://www.dogonews.com/2024/6/4/national-donut-day-a-sweet-celebration-with-a-rich-history)
         
-    * [![Orcas "Attacking" Boats Are Just Bored Teenagers Having Fun](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/4/orcas-attacking-boats-are-just-bored-teenagers-having-fun)
+    * [![Gloucestershire's Cheese Rolling Competition Is Like None Other](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
         
-        [Orcas "Attacking" Boats Are Just Bored Teenagers Having Fun](https://www.dogonews.com/2024/6/4/orcas-attacking-boats-are-just-bored-teenagers-having-fun)
+        [Gloucestershire's Cheese Rolling Competition Is Like None Other](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
+        
+    * [![June Solstice Marks The Start Of The Northern Hemisphere Summer](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/14/june-solstice-marks-the-start-of-the-northern-hemisphere-summer)
+        
+        [June Solstice Marks The Start Of The Northern Hemisphere Summer](https://www.dogonews.com/2024/6/14/june-solstice-marks-the-start-of-the-northern-hemisphere-summer)
         
     * [![Juneteenth, Explained](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/10/juneteenth-explained)
         
         [Juneteenth, Explained](https://www.dogonews.com/2024/6/10/juneteenth-explained)
-        
-    * [![Gloucestershire's Cheese Rolling Competition Is Like None Other](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
-        
-        [Gloucestershire's Cheese Rolling Competition Is Like None Other](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
         
     
 * Month
