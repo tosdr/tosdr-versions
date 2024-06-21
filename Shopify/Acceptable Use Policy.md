@@ -416,7 +416,7 @@ Last updated: December 11, 2023
 
 Opens an external site in a new window
 
-Shopify Logo
+Shopify logo
 
 Shopify
 -------
