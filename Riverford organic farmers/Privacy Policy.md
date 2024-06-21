@@ -95,9 +95,6 @@ Header area, including main menu and site search
         * [Summer fruits
             
             Summer fruits](https://www.riverford.co.uk/organic-fruit-veg-and-salad/summer-fruit)
-        * [Seasonal stars
-            
-            Celebrating the best of the season](https://www.riverford.co.uk/organic-fruit-veg-and-salad/seasonal-stars)
         * [British fruit & veg
             
             The very best fruit & veg growing in British fields](https://www.riverford.co.uk/organic-fruit-veg-and-salad/british-fruit-veg)
