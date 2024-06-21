@@ -1,6 +1,6 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=130012)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=130012)en](https://www.cyberghostvpn.com/privacypolicy) 
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13200)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13200)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -25,7 +25,7 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/privacypolicy)
         * [한국어](https://www.cyberghostvpn.com/ko/privacypolicy)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=130012)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13200)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -63,7 +63,7 @@
 * [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=130012)en](https://www.cyberghostvpn.com/privacypolicy) 
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13200)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -92,7 +92,7 @@
 * [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=130012)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13200)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -377,7 +377,7 @@ Not 100% satisfied with CyberGhost VPN? Contact us within 45 days of purchase an
 
 ##### About CyberGhost
 
-[About CyberGhost](https://www.cyberghostvpn.com/about) [The Team](https://www.cyberghostvpn.com/team) [Careers](https://www.cyberghostvpn.com/careers) [Contact](https://www.cyberghostvpn.com/contact) [Privacy Policy](https://www.cyberghostvpn.com/privacypolicy) [Terms and Conditions](https://www.cyberghostvpn.com/terms) [Refer a friend T&C](https://www.cyberghostvpn.com/ref-terms) [Imprint](https://www.cyberghostvpn.com/imprint)
+[About CyberGhost](https://www.cyberghostvpn.com/about) [Contact](https://www.cyberghostvpn.com/contact) [Privacy Policy](https://www.cyberghostvpn.com/privacypolicy) [Terms and Conditions](https://www.cyberghostvpn.com/terms) [Refer a friend T&C](https://www.cyberghostvpn.com/ref-terms) [Imprint](https://www.cyberghostvpn.com/imprint)
 
 ##### Programs
 
@@ -385,7 +385,7 @@ Not 100% satisfied with CyberGhost VPN? Contact us within 45 days of purchase an
 
 ##### Support & Help
 
-[Product Guides](https://support.cyberghostvpn.com/hc/en-us/categories/201457209-Guides) [FAQs](https://support.cyberghostvpn.com/hc/en-us) [Contact Support](https://support.cyberghostvpn.com/hc/en-us/requests/new) [Chat with us](https://support.cyberghostvpn.com/hc/en-us)
+[Product Guides](https://support.cyberghostvpn.com/hc/en-us/categories/201457209-Guides) [FAQs](https://support.cyberghostvpn.com/hc/en-us/categories/201568965-F-A-Qs) [Contact Support](https://cyberghostvpnsupport.zendesk.com/hc/en-us/requests/new)
 
 Connect with us
 
