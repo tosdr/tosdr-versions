@@ -6,6 +6,7 @@
 * [Solutions](#)
 * [Technology](https://www.flyzipline.com/technology)
 * [Company](#)
+* [Resources](#)
 
 [Get delivery Get delivery](https://www.flyzipline.com/get-delivery) [Become a partner Become a partner](https://www.flyzipline.com/contact)
 
@@ -13,5 +14,6 @@
 * [Solutions](#)
 * [Technology](https://www.flyzipline.com/technology)
 * [Company](#)
+* [Resources](#)
 
 [Get delivery Get delivery](https://www.flyzipline.com/get-delivery) [Become a partner Become a partner](https://www.flyzipline.com/contact)
