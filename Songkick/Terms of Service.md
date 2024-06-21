@@ -3,47 +3,47 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
-        *  [![Rum Ragged live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Rum Ragged  
-            Green Note](https://www.songkick.com/concerts/41981636-rum-ragged-at-green-note)
-        *  [![Jim Mullen live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jim Mullen  
-            County Arms upstairs](https://www.songkick.com/concerts/41978824-jim-mullen-at-county-arms-upstairs)
-        *  [![Bob Harris live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bob Harris  
-            Bush Hall](https://www.songkick.com/concerts/41975496-bob-harris-at-bush-hall)
-        *  [![Minino Garay live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Minino Garay  
-            Ladbroke Hall](https://www.songkick.com/concerts/41974953-minino-garay-at-ladbroke-hall)
-        *  [![Smooth Sailors live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Smooth Sailors  
-            Paper Dress Vintage](https://www.songkick.com/concerts/41994755-smooth-sailors-at-paper-dress-vintage)
-        *  [![Painted Bird live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Painted Bird  
-            The George Tavern](https://www.songkick.com/concerts/42001121-painted-bird-at-george-tavern)
-        *  [![Special Friend live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Special Friend  
-            The Victoria, Dalston](https://www.songkick.com/concerts/41993608-special-friend-at-victoria-dalston)
-        *  [![Guns 2 Roses live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Guns 2 Roses  
-            O2 Academy Islington](https://www.songkick.com/concerts/41971156-guns-2-roses-at-o2-academy-islington)
-        *  [![Sheelanagig live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Sheelanagig  
-            Hootananny](https://www.songkick.com/concerts/41978476-sheelanagig-at-hootananny)
-        *  [![Annie Keating live](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Annie Keating  
-            The Sound Lounge - Sutton](https://www.songkick.com/concerts/41978285-annie-keating-at-sound-lounge-sutton)
+        *  [![Plutoz Beach Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Plutoz Beach  
+            The George Tavern](https://www.songkick.com/concerts/41997677-plutoz-beach-at-george-tavern)
+        *  [![Polevaulter Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Polevaulter  
+            Sebright Arms](https://www.songkick.com/concerts/41967171-polevaulter-at-sebright-arms)
+        *  [![Piglet Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Piglet  
+            New Cross Inn](https://www.songkick.com/concerts/41980592-piglet-at-new-cross-inn)
+        *  [![piss kitti Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) piss kitti  
+            Signature Brew - Haggerston](https://www.songkick.com/concerts/42005305-piss-kitti-at-signature-brew-haggerston)
+        *  [![Interlaker Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Interlaker  
+            The Star Inn](https://www.songkick.com/concerts/41999186-interlaker-at-star-inn)
+        *  [![Superfecta Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Superfecta  
+            Troubadour London](https://www.songkick.com/concerts/42017822-superfecta-at-troubadour-london)
+        *  [![Nuala Kennedy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Nuala Kennedy  
+            Irish Cultural Centre](https://www.songkick.com/concerts/41995340-nuala-kennedy-at-irish-cultural-centre)
+        *  [![Soulprison Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Soulprison  
+            New Cross Inn](https://www.songkick.com/concerts/42013067-soulprison-at-new-cross-inn)
+        *  [![George Murphy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) George Murphy  
+            Irish Cultural Centre](https://www.songkick.com/concerts/41987615-george-murphy-at-irish-cultural-centre)
+        *  [![GHENGHIS OTT Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) GHENGHIS OTT  
+            The Amersham Arms](https://www.songkick.com/concerts/41984099-ghenghis-ott-at-amersham-arms)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F19%2F2024&filters%5BminDate%5D=06%2F19%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F26%2F2024&filters%5BminDate%5D=06%2F19%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F19%2F2024&filters%5BminDate%5D=06%2F19%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F21%2F2024&filters%5BminDate%5D=06%2F21%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F28%2F2024&filters%5BminDate%5D=06%2F21%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F21%2F2024&filters%5BminDate%5D=06%2F21%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
         * [Popular artists in London](https://www.songkick.com/metro-areas/24426-uk-london#popular-artists-in-metro-area)
         * [Trending artists worldwide](https://www.songkick.com/leaderboards/trending_artists)
         
-        *  [![Daddy Yankee live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Daddy Yankee](https://www.songkick.com/artists/390360-daddy-yankee)
-        *  [![Creed live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Creed](https://www.songkick.com/artists/476614-creed)
-        *  [![Ingrid Michaelson live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ingrid Michaelson](https://www.songkick.com/artists/19080-ingrid-michaelson)
-        *  [![Bad Bunny live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bad Bunny](https://www.songkick.com/artists/9059639-bad-bunny)
-        *  [![Cake live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cake](https://www.songkick.com/artists/195357-cake)
+        *  [![Daddy Yankee Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Daddy Yankee](https://www.songkick.com/artists/390360-daddy-yankee)
+        *  [![Creed Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Creed](https://www.songkick.com/artists/476614-creed)
+        *  [![Ingrid Michaelson Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ingrid Michaelson](https://www.songkick.com/artists/19080-ingrid-michaelson)
+        *  [![Bad Bunny Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bad Bunny](https://www.songkick.com/artists/9059639-bad-bunny)
+        *  [![Cake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cake](https://www.songkick.com/artists/195357-cake)
         
-        *  [![Tucker Wetmore live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tucker Wetmore](https://www.songkick.com/artists/10322117-tucker-wetmore)
-        *  [![Tommy Richman live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tommy Richman](https://www.songkick.com/artists/10197869-tommy-richman)
-        *  [![Carbonne live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Carbonne](https://www.songkick.com/artists/10338222-carbonne)
-        *  [![&TEAM live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) &TEAM](https://www.songkick.com/artists/10338255-and-team)
-        *  [![Lavern live.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lavern](https://www.songkick.com/artists/10338064-lavern)
+        *  [![Tucker Wetmore Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tucker Wetmore](https://www.songkick.com/artists/10322117-tucker-wetmore)
+        *  [![Tommy Richman Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tommy Richman](https://www.songkick.com/artists/10197869-tommy-richman)
+        *  [![Carbonne Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Carbonne](https://www.songkick.com/artists/10338222-carbonne)
+        *  [![&TEAM Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) &TEAM](https://www.songkick.com/artists/10338255-and-team)
+        *  [![Lavern Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lavern](https://www.songkick.com/artists/10338064-lavern)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
@@ -267,6 +267,5 @@ Get your tour dates seen everywhere.
 
 Official merchandise partner [![EMP](//assets.sk-static.com/images/nw/furniture/icons/emp_logo.webp)](https://www.emp.co.uk/band-merch/)
 
-*   [![Twitter](//assets.sk-static.com/images/nw/furniture/icons/twitter.png)  Follow us.](https://twitter.com/songkick)
-*   [![Facebook](//assets.sk-static.com/images/nw/furniture/icons/facebook.png)  Like us.](http://www.facebook.com/songkick)
-* But we really hope you love us.
+*   [![Twitter](//assets.sk-static.com/images/nw/furniture/icons/twitter-icon-new.svg)  Follow us](https://twitter.com/songkick)
+*   [![Facebook](//assets.sk-static.com/images/nw/furniture/icons/facebook.png)  Like us](http://www.facebook.com/songkick)
