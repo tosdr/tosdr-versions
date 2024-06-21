@@ -5,9 +5,9 @@ BOOKING TERMS AND CONDITION
 
 1\. INFORMATION ABOUT US AND HOW TO CONTACT US
 
-1.1. We are TrainPal, an online travel agent registered in Netherlands as Trainpal B.V., (“we”, “our” or “us”). Our office in Netherlands is at Piet Heinkade 55, 15e en 16e verdieping van het UP Gebouw, 1019GM Amsterdam.
+1.1. We are TrainPal, an online travel agent registered in Netherlands as Trainpal B.V., (“we”, “our” or “us”). Our office in Netherlands is at Hoekenrode 3, 1102 BR Amsterdam.
 
-1.2. You can contact us via the TrainPal app or website or by writing to us at en\_trainpal@trip.com or Trip.com, First Floor, One Lochrin Square, 92 Fountainbridge, Edinburgh, EH3 9QA.
+1.2. You can contact us via the TrainPal app or website or by writing to us at EU\_Train@TrainPal.com or Trip.com, First Floor, One Lochrin Square, 92 Fountainbridge, Edinburgh, EH3 9QA.
 
 2\. THESE TERMS  
 
