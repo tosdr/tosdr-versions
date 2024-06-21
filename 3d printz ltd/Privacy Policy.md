@@ -15,7 +15,6 @@ Quick Links
 * [PETG 1.75mm Filament](https://3dprintz.co.uk/collections/petg)
 * [TPU Flex 1.75mm Filament](https://3dprintz.co.uk/collections/tpu-flex-filament)
 * [Micro Swiss Products](https://3dprintz.co.uk/collections/micro-swiss)
-* [Magigoo Products](https://3dprintz.co.uk/products/magigoo-print-bed-adhesion-solution)
 
 [View cart](https://3dprintz.co.uk/cart)
 
