@@ -505,7 +505,7 @@ Appendix 1: Details of Processing
 
 Opens an external site in a new window
 
-Shopify Logo
+Shopify logo
 
 Shopify
 -------
