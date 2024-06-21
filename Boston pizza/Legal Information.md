@@ -206,8 +206,6 @@ The parties have expressly requested and required that these General Terms and C
 
 [BP USA](https://www.bostons.com/)
 
-[BP Mexico](https://www.bostons.com.mx/)
-
 #### legal
 
 [Privacy Policy](https://bostonpizza.com/en/privacy-policy.html)
