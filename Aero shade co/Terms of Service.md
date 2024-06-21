@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![Aero Shade Co. Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20105'%3E%3C/svg%3E)
-
-![Aero Shade Co. Logo](https://aeroshadeco.com/wp-content/uploads/2016/04/aero-shade-logo.png)](https://aeroshadeco.com/)
+[![Aero Shade Co. Logo](https://aeroshadeco.com/wp-content/uploads/2016/04/aero-shade-logo.png)](https://aeroshadeco.com/)
 
 ### 
 
