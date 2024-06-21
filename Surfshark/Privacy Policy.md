@@ -58,6 +58,8 @@ Resources
 
 [VPN for Teams](https://surfshark.com/for-teams)
 
+EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeРусскийУкраїнська한국어简体中文香港繁體台灣繁體日本語
+
 [Log in](https://my.surfshark.com/auth/login)
 
 [Get Surfshark](https://surfshark.com/pricing)
