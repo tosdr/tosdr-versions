@@ -801,7 +801,7 @@ Invest in Cryptocurrencies
 
 [Bitcoin Bank Review](https://www.banklesstimes.com/robots/bitcoin-bank/)
 
-[![](https://bitcoindogs.club/300x250EN.gif)](https://bitcoindogs.club/?utm_source=media&utm_medium=media&utm_campaign=banklesstimes300)
+[![](https://cdn.solciety.cc/en-300x250.gif)](https://solciety.io/en?utm_source=media&utm_medium=media&utm_campaign=banklesstimes300)
 
 ![](/logos/banklesstimes-com-for-light.svg)
 
@@ -891,4 +891,4 @@ Please be aware that some of the links on this site will direct you to the websi
 
 Copyright © 2024 - All Rights Reserved
 
-   [![](/memeinator/memeinator-sm.gif) ![](/memeinator/memeinator-md.gif) ![](/memeinator/memeinator-lg.gif) ![](/memeinator/memeinator-xl.gif)](https://memeinator.com/?utm_source=media&utm_medium=media&utm_campaign=banklesstimesfooter)
+   [![](https://cdn.solciety.cc/en-336x60.gif) ![](https://cdn.solciety.cc/en-728x60.gif) ![](https://cdn.solciety.cc/en-970x60.gif) ![](https://cdn.solciety.cc/en-1560x60.gif)](https://solciety.io/en?utm_source=media&utm_medium=media&utm_campaign=banklesstimesfooter)
