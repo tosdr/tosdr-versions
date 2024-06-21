@@ -13,7 +13,7 @@
     * [SecureMyEmail Dashboard](https://www.securemyemail.com/account/dashboard)
     * [VPN Dashboard](https://my.personalvpn.com/)
 
-[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/SecureMyEmail.svg)](https://www.securemyemail.com/)[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/SecureMyEmail_Logo_updated.svg)](https://www.securemyemail.com/)
+[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/sme-logo-white.svg)](https://www.securemyemail.com/)[![SecureMyEmail](https://cdn.securemyemail.com/_next/public/images/sme-logo-updated.svg)](https://www.securemyemail.com/)
 
 * [Features](https://www.securemyemail.com/features-advantages/)
 * [Business](https://www.securemyemail.com/encrypted-email-for-business/)
