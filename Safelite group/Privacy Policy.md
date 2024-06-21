@@ -321,9 +321,9 @@ This Policy as posted on this Website is the sole statement of our Policy with r
 * [Help center](https://www.safelite.com/help-center)
 * [Careers](https://www.safelite.com/careers)
 * [For agencies](https://safeliteforagents.com/)
-* English
+* ![](/ResourcePackages/WizeMercury/assets/dist/Images/network-world.svg)English
     
-    * [English](https://www.safelite.com/safelite-group-privacy-policy)
+    * [English](javascript: void(0))
     * [Español](https://espanol.safelite.com/safelite-group-privacy-policy)
     
 
