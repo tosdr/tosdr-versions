@@ -16,6 +16,16 @@
 
 [Check Out NMA](https://drawabox.com/nma)    [About our Partnership](https://drawabox.com/announcement/NMA)    [Collapse this Ad](javascript:CloseAnnouncement('NMA'))
 
+The Summer Promptathon is Coming
+
+2024 • 06 • 24  -  2024 • 06 • 30
+
+The Summer Promptathon is Coming
+
+2024 • 06 • 24  -  2024 • 06 • 30
+
+[Click here for more info](https://drawabox.com/announcement/JFH3SDHK)
+
 [](javascript:ShowNextAnnouncement(false,'previous'))[](javascript:CloseAnnouncement())[](javascript:ShowNextAnnouncement(false,'next'))
 
 [](javascript:ShowNextAnnouncement(false,'next'))
