@@ -68,17 +68,17 @@ General
 
 Random Server Videos
 
-[![KikkerCraft - NL / BE Trailer](//i.ytimg.com/vi/f6blHElcFf4/0.jpg)  
-KikkerCraft - NL / BE](https://topminecraftservers.org/server/5717)
+[![ÆSİRMC RPG TURKEY Trailer](//i.ytimg.com/vi/jX3ERS6j9iE/0.jpg)  
+ÆSİRMC RPG TURKEY](https://topminecraftservers.org/server/26134)
 
-[![PokeNova Trailer](//i.ytimg.com/vi/WZ38Id8oY8g/0.jpg)  
-PokeNova](https://topminecraftservers.org/server/37587)
+[![MysticCraft Brasil Trailer](//i.ytimg.com/vi/wgGuQOg2XzM/0.jpg)  
+MysticCraft Brasil](https://topminecraftservers.org/server/37452)
 
-[![SpaceCraft Trailer](//i.ytimg.com/vi/m5zOplUbFSU/0.jpg)  
-SpaceCraft](https://topminecraftservers.org/server/5241)
+[![💎🌟 PURPLE PRISON 🌟💎 Trailer](//i.ytimg.com/vi/h7o9PNVei0Q/0.jpg)  
+💎🌟 PURPLE PRISON 🌟💎](https://topminecraftservers.org/server/2334)
 
-[![Violet SMP Trailer](//i.ytimg.com/vi/m-ge_RLnJxY/0.jpg)  
-Violet SMP](https://topminecraftservers.org/server/36684)
+[![PenguinCraft SMP Trailer](//i.ytimg.com/vi/_YmAAbtAPyk/0.jpg)  
+PenguinCraft SMP](https://topminecraftservers.org/server/25245)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -86,4 +86,4 @@ Violet SMP](https://topminecraftservers.org/server/36684)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.599587 seconds to load
+Page took 0.093777 seconds to load
