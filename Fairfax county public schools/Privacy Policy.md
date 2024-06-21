@@ -731,6 +731,7 @@ Full Menu
         * [Auditorium Use Guidelines](https://www.fcps.edu/family-resources/community-use-school-facilities/auditorium-use-guidelines)
     * [Family Engagement](https://www.fcps.edu/family-resources/family-engagement)
         * [Advanced Academic (AAP) Family Resources](https://www.fcps.edu/resources/family-engagement/advanced-academic-aap-family-resources)
+        * [Family Medical and Resource Guide](https://www.fcps.edu/family-resources/family-engagement/family-medical-and-resource-guide)
         * [Community Liaisons](https://www.fcps.edu/family-resources/family-engagement/community-liaisons)
         * [Early Literacy Programs](https://www.fcps.edu/family-resources/family-engagement/early-literacy-programs)
             * [Early Literacy Program for African Heritage Families](https://www.fcps.edu/family-resources/family-engagement/early-literacy-programs/early-literacy-program-african-heritage)
@@ -1015,11 +1016,11 @@ Full Menu
 [Fairfax County Public Schools
 =============================](https://www.fcps.edu/ "Home")
 
-![](https://openweathermap.org/img/wn/01n.png)
+![](https://openweathermap.org/img/wn/02d.png)
 
-67°F
+91°F
 
-Clear sky
+Few clouds
 
 * [Alerts](https://www.fcps.edu/alerts)
 
