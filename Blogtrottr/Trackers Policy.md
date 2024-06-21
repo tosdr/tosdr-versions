@@ -11,7 +11,7 @@
      [Password Reset](https://blogtrottr.com/login/?passwordreset=show)
     
 
-[![Logo](/images/blogtrottr-trans.png)](https://blogtrottr.com/ "Home")
+[![](/images/blogtrottr-trans.png)](https://blogtrottr.com/)
 
 Cookies Policy
 ==============
