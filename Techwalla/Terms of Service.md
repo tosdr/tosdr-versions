@@ -186,15 +186,6 @@ The Site is a popular place to find information and instructions on a variety of
     If you have a complaint, you may contact us at Leaf Group Ltd., Attention: Legal Department, 1655 26th Street, Santa Monica, CA 90404, USA. – [\[email protected\]](https://www.techwalla.com/cdn-cgi/l/email-protection). If you are a California resident, the Complaint Assistance Unit of the Division of Consumer Services of the Dept. of Consumer Affairs may be contacted at 400 R Street, Sacramento, CA 95814 or ( 800 ) 952-5210.
     
 
-Report an Issue
----------------
-
-Contact\*:  Severity\*: High Normal Low Description\*:
-
-Screenshot loading...
-
-Cancel Submit
-
 Thank you for subscribing!
 
 Know the latest by staying in touch. Enter your email for updates.
