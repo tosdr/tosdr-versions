@@ -166,7 +166,7 @@ Ready to get started? [Request an Appointment Today](https://therapydave.com/the
 
   
 
-“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”
+“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
