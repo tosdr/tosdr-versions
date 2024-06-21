@@ -143,7 +143,6 @@
         * [Princess Connect](https://www.animedakimakura.com/princess-connect-c-1_62_93/)
         * [Prison School](https://www.animedakimakura.com/prison-school-c-1_62_31/)
         * [Puella Magi Madoka Magica](https://www.animedakimakura.com/puella-magi-madoka-magica-c-1_62_166/)
-        * [Punishing: Gray Raven](https://www.animedakimakura.com/punishing-gray-raven-c-1_62_235/)
     * [R - Z](https://www.animedakimakura.com/r-z-c-1_2/)
         * [Re:CREATORS](https://www.animedakimakura.com/recreators-c-1_2_209/)
         * [Re:Zero](https://www.animedakimakura.com/rezero-c-1_2_7/)
@@ -392,7 +391,6 @@ english
         * [Princess Connect](https://www.animedakimakura.com/princess-connect-c-1_62_93/)
         * [Prison School](https://www.animedakimakura.com/prison-school-c-1_62_31/)
         * [Puella Magi Madoka Magica](https://www.animedakimakura.com/puella-magi-madoka-magica-c-1_62_166/)
-        * [Punishing: Gray Raven](https://www.animedakimakura.com/punishing-gray-raven-c-1_62_235/)
     * [R - Z](https://www.animedakimakura.com/r-z-c-1_2/)
         * [Re:CREATORS](https://www.animedakimakura.com/recreators-c-1_2_209/)
         * [Re:Zero](https://www.animedakimakura.com/rezero-c-1_2_7/)
@@ -789,8 +787,6 @@ Navigation 
             * [Prison School](https://www.animedakimakura.com/prison-school-c-1_62_31/)
                 
             * [Puella Magi Madoka Magica](https://www.animedakimakura.com/puella-magi-madoka-magica-c-1_62_166/)
-                
-            * [Punishing: Gray Raven](https://www.animedakimakura.com/punishing-gray-raven-c-1_62_235/)
                 
         * [R - Z](https://www.animedakimakura.com/r-z-c-1_2/) 
             
