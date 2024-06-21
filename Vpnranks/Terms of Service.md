@@ -65,6 +65,8 @@
         * [Ease of Setup](https://www.vpnranks.com/vpnscore/methodology/ease-of-setup/)
         * [Meet Requirement](https://www.vpnranks.com/vpnscore/methodology/meet-requirements/)
         * [Quality of Support](https://www.vpnranks.com/vpnscore/methodology/quality-of-support/)
+* [Reports](https://www.vpnranks.com/reports/)
+    * [89% of VPNs Fall Short in User Satisfaction](https://www.vpnranks.com/reports/89-percent-of-vpns-fall-short-in-user-satisfaction-vpnscore-report/)
 * Events
     * [T20 World Cup 2024](https://www.vpnranks.com/access/sports/watch-t20-world-cup-2024-in-usa/)
     * [Euro 2024](https://www.vpnranks.com/access/sports/watch-euro-in-usa-on-bbc-iplayer/)
