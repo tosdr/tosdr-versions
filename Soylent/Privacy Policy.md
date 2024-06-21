@@ -1,4 +1,4 @@
-Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)                                                                                  Soylent Nutrition, Inc. Privacy Policy - Soylent                                   
+Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)                                                                                              Soylent Nutrition, Inc. Privacy Policy - Soylent                           
 
 Date Override:
 
