@@ -62,7 +62,7 @@ Sell
 
 Resources  
 
-[GoldPriceCanada.ca](https://www.goldpricecanada.ca/)[Site Map](https://www.401gold.ca/site-map/)
+[Site Map](https://www.401gold.ca/site-map/)
 
 Articles
 
