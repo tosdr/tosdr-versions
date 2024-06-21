@@ -1,6 +1,6 @@
-[Ready to see DNSFilter in action?
+[GET THE LATEST G2 COMPARISON REPORT
 
-START FREE TRIAL](https://www.dnsfilter.com/free-trial)
+COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
