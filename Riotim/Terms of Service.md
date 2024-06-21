@@ -1,6 +1,12 @@
  [![Matrix logo](/images/matrix-logo-white.svg)](https://matrix.org/) 
 
-[Spec](https://spec.matrix.org/) [About](https://matrix.org/about/) [Blog](https://matrix.org/blog/) [Docs](https://matrix.org/docs/)
+[Spec](https://spec.matrix.org/)
+
+ Foundation
+
+[About Matrix](https://matrix.org/foundation/about/) [Governing Board Elections 2024](https://matrix.org/foundation/governing-board-elections/)
+
+[Blog](https://matrix.org/blog/) [Docs](https://matrix.org/docs/)
 
  Ecosystem
 
