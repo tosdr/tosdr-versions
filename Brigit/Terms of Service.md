@@ -28,7 +28,7 @@
 Brigit Terms of Service
 =======================
 
-(Last revised June 18, 2024)
+(Last revised June 20, 2024)
 
 The following terms of use are a legal agreement (the “Agreement”) between you (“you”, “your”, or “user”) and Bridge IT, Inc., its subsidiaries, affiliates, agents, and assigns (“Brigit”, “we”, “us”, or “our”) that sets forth the terms and conditions for your use of Brigit’s website located at \[www.hellobrigit.com\] and/or the products and services offered, operated or made available by Brigit, including but not limited to its mobile applications (collectively, the “Services”).
 
@@ -100,11 +100,11 @@ Grandfather Provision: Brigit Plus members who subscribed to Brigit Plus before 
 
 ##### 7.2.1. Subscription Membership Fee for Premium Features
 
-Brigit Plus is subject to a subscription fee that ranges from $5.99 to $9.99 per month. Brigit Premium is subject to a subscription fee of $14.99 per month. We require that you link a Bank Account or debit card (a “Payment Method”) for payment of the Membership Fee (the subscription fee). We will automatically charge your Payment Method for the Membership Fee every month on your last payday of the month unless or until you cancel your membership or your Brigit User Account is otherwise terminated. Upcoming dates upon which you will be charged for subsequent Membership Fees will also be displayed in the app.
+Brigit Plus is subject to a subscription fee that ranges from $5.99 to $9.99 per month. Brigit Premium is subject to a subscription fee of $14.99 per month. Subscription fees are subject to change. We require that you link a Bank Account or debit card (a “Payment Method”) for payment of the Membership Fee (the subscription fee). We will automatically charge your Payment Method for the Membership Fee every month on your last payday of the month. You can cancel any time after which you will not be charged for subsequent months. You will still be charged on the last payday of the month in which you cancel. Upcoming dates upon which you will be charged for subsequent Membership Fees will also be displayed in the app.
 
 Brigit will do its best to collect the Membership Fee when you have the funds available to pay the Membership Fee. Brigit will attempt to avoid charging you for your Membership Fee if we detect that your Payment Method does not have sufficient funds to cover the charge. If our attempt to charge you for the Membership Fee is declined, Brigit reserves the right to try again for up to 14 business days.
 
-If payment is being made via debit card, we may try at different times of the day in accordance with network regulations. If the payment is made via ACH, we will make up to two (2) additional attempts, for a total of three (3) debit attempts in line with ACH limitations. After that, Brigit will not attempt without a subsequent authorization from you. This may result in a change of date for which you are billed for each period.
+If payment is being made via debit card, we may try at different times of the day in accordance with network regulations. If the payment is made via ACH, we will make up to two (2) additional attempts, for a total of three (3) debit attempts in line with ACH limitations. After that, Brigit will not attempt without a subsequent authorization from you. This may result in a change to the date when you are billed for each period.
 
 Brigit monitors your balance and does its best effort to ensure you have sufficient funds before debiting your account, but the company makes no warranties that an overdraft will not occur.
 
@@ -256,7 +256,7 @@ Brigit may, from time to time, offer rewards programs. The specific terms of any
 
 ### 10\. Cancellation of Brigit Subscription Membership
 
-If you wish to cancel your Brigit Subscription you may do so on the Brigit App or on the Brigit website. You may also cancel your subscription membership at any time by emailing [\[email protected\]](https://www.hellobrigit.com/cdn-cgi/l/email-protection). You may cancel your Brigit Subscription regardless of whether you have an outstanding Instant Cash Advance and you can close your Credit Builder account at anytime with no cost. As a reminder, Brigit bills for subscription fees at the end of the month for the services provided during the current month. You must cancel at least three (3) business days before your scheduled subscription payment date in order to avoid billing for the next month.
+If you wish to cancel your Brigit Subscription you may do so on the Brigit App or on the  Brigit website. You may also cancel your subscription membership at any time by emailing [\[email protected\]](https://www.hellobrigit.com/cdn-cgi/l/email-protection). You may cancel your Brigit Subscription regardless of whether you have an outstanding Instant Cash Advance and you can close your Credit Builder account at anytime to avoid charges for future months. You will still be charged for the month that you cancelled in. You will lose access to Cash Advances, Credit Builder Loan , Credit Monitoring and Identity Theft Protection after canceling. All other benefits will continue through the end of the term in which you canceled. After cancellation, Brigit will still charge your payment method for Advance repayment as provided for in Section 7.5 of these Terms. 
 
 ### 11\. Termination
 
