@@ -279,6 +279,13 @@ Search
         * [Request a Connection Now](https://app.smartsheet.com/b/form/2a25139b4d3c44549d935bf91926b7dc)  
             
         
+* [News](https://bethematch.org/news/)
+    * [News Releases](https://bethematch.org/news/news-releases/)
+        * [NMDP to Present New Stem Cell Transplantation Data at the 2024 American Society of Clinical Oncology Annual Meeting](https://bethematch.org/news/news-releases/nmdp-to-present-new-stem-cell-transplantation-data-at-the-2024-american-society-of-clinical-oncology-annual-meeting/)
+        * [NMDP and CIBMTR to Present New Promising Stem Cell Transplantation Trial Data using Mismatched Unrelated Donors at 2024 ASCO Annual Meeting](https://bethematch.org/news/news-releases/nmdp-and-cibmtr-to-present-new-promising-stem-cell-transplantation-trial-data-using-mismatched-unrelated-donors-at-2024-asco-annual-meeting/)
+    * [Media contacts](https://bethematch.org/news/media-contacts/)
+    * [Maps](https://bethematch.org/news/maps/)
+    * [Public service announcements](https://bethematch.org/news/public-service-announcements/)
 * [Blog](https://bethematch.org/blog/)
     * [Advocacy](https://bethematch.org/blog/advocacy/)
     * [Donor stories](https://bethematch.org/blog/donor-stories/)
@@ -304,13 +311,6 @@ Search
         * [CAST for GVHD Prevention Study](https://bethematch.org/blog/research/cast-for-gvhd-prevention-study/)
         * [CIBMTR Outcomes & Trends by Race-Ethnicity](https://bethematch.org/blog/research/cibmtr-outcomes-and-trends-by-race-ethnicity/)
         * [Donor Age - Haplo v MUD AML](https://bethematch.org/blog/research/donor-age---haplo-v-mud-aml/)
-* [News](https://bethematch.org/news/)
-    * [News Releases](https://bethematch.org/news/news-releases/)
-        * [NMDP to Present New Stem Cell Transplantation Data at the 2024 American Society of Clinical Oncology Annual Meeting](https://bethematch.org/news/news-releases/nmdp-to-present-new-stem-cell-transplantation-data-at-the-2024-american-society-of-clinical-oncology-annual-meeting/)
-        * [NMDP and CIBMTR to Present New Promising Stem Cell Transplantation Trial Data using Mismatched Unrelated Donors at 2024 ASCO Annual Meeting](https://bethematch.org/news/news-releases/nmdp-and-cibmtr-to-present-new-promising-stem-cell-transplantation-trial-data-using-mismatched-unrelated-donors-at-2024-asco-annual-meeting/)
-    * [Media contacts](https://bethematch.org/news/media-contacts/)
-    * [Maps](https://bethematch.org/news/maps/)
-    * [Public service announcements](https://bethematch.org/news/public-service-announcements/)
 * [My Account](https://bethematch.org/update-your-contact-information/)
 * [Physicians](https://bethematchclinical.org/)
 
@@ -455,11 +455,6 @@ Minneapolis, MN 55401-1206
 * [](https://youtube.com/@nmdp_org "Youtube")
 * [](https://linkedin.com/company/nmdp/ "LinkedIn")
 * [](https://www.tiktok.com/@nmdp_org)
-
-#### Explore
-
-* [Careers at Be The Match](https://bethematch.org/about-us/careers/)
-* [Shop our gear](https://shop.bethematch.org/?_ga=2.6194359.506416311.1682435753-false)
 
 #### Get In Touch
 
