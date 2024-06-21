@@ -124,9 +124,9 @@ The sale, exchange, provision of public access, or disclosure of any information
 News
 ----
 
-* 30-06-2024
+* 20-05-2024
     
-    [GB new server](https://1vpns.com/news/id/190)
+    [22-23.05 support will rarely be online](https://1vpns.com/news/id/188)
 
 * * *
 
