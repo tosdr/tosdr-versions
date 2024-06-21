@@ -1,24 +1,24 @@
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [781](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [782](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.38T](https://coinmarketcap.com/charts/#market-cap)
+[$2.32T](https://coinmarketcap.com/charts/#market-cap)
 
-0.11%
+1.66%
 
 24h Vol: 
 
-[$57.12B](https://coinmarketcap.com/charts/#volume-24h)
+[$67.76B](https://coinmarketcap.com/charts/#volume-24h)
 
-35.34%
+1.13%
 
-Dominance: [BTC: 54.1% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 54.0% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-7 Gwei
+8 Gwei
 
  Fear & Greed: 
 
@@ -48,7 +48,13 @@ On Chain Data
 
 [Exchanges](https://coinmarketcap.com/rankings/exchanges/)
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/derivatives/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexIcon.svg)DEX](https://coinmarketcap.com/rankings/exchanges/dex/)
+Centralized Exchanges
+
+[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/derivatives/)
+
+Decentralized Exchanges
+
+[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/dex/?type=spot)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/dex/?type=derivatives)
 
 [Community](https://coinmarketcap.com/community/)
 
