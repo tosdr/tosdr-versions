@@ -11,10 +11,6 @@ Admin message
 
 Due to an influx of spam, we have had to temporarily disable account registrations. Please write an email to [accountsupport@archlinux.org](mailto:accountsupport@archlinux.org), with your desired username, if you want to get access. Sorry for the inconvenience.
 
-*  [![Arch Linux](/uploads/-/system/group/avatar/23/iconfinder_archlinux_386451.png?width=16) Arch Linux](https://gitlab.archlinux.org/archlinux)
-*  [![Service Agreements](/uploads/-/system/project/avatar/10209/terms.png?width=16) Service Agreements](https://gitlab.archlinux.org/archlinux/service-agreements)
-* [Repository](https://gitlab.archlinux.org/archlinux/service-agreements/-/tree/master)
-
 Find file
 
 Copy HTTPS clone URL
