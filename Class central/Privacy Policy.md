@@ -339,11 +339,11 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 
 ##### Latest
 
-1. [6 Best Crystal Programming Courses for 2024](https://www.classcentral.com/report/best-crystal-programming-courses/)
-2. [10 Best Pandas Courses for 2024](https://www.classcentral.com/report/best-pandas-courses/)
-3. [10 Best React Native Courses for 2024](https://www.classcentral.com/report/best-react-native-courses/)
-4. [Revolutionizing Web Animation: Best Ways to Learn GSAP in 2024](https://www.classcentral.com/report/best-gsap-courses/)
-5. [10 Best Elixir Courses for 2024: Pragmatic FP for the Web](https://www.classcentral.com/report/best-elixir-courses/)
+1. [10 Best NumPy Courses for 2024: Efficient Scientific Computing](https://www.classcentral.com/report/best-numpy-courses/)
+2. [5 Best Arduino Courses for Beginners in 2024](https://www.classcentral.com/report/best-arduino-courses/)
+3. [6 Best Oceanography Courses for 2024](https://www.classcentral.com/report/best-oceanography-courses/)
+4. [24 Most Popular Online Courses Starting in July 2024](https://www.classcentral.com/report/most-popular-july-2024/)
+5. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -354,38 +354,38 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. c
+1. excel
     
-2. graphic design
+2. web development
     
-3. trading
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Communication Skills
     
-    9,281 courses](https://www.classcentral.com/subject/web-development)
-2. [Communication Skills
+    2,837 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Software Development
     
-    2,841 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Computer Science
+    5,147 courses](https://www.classcentral.com/subject/software-development)
+3. [Digital Skills
     
-    13,168 courses](https://www.classcentral.com/subject/cs)
+    286 courses](https://www.classcentral.com/subject/digital-skills)
 
 Popular courses
 ---------------
 
-1. [Working with Translation: Theory and Practice
+1. [Cyber Security
     
-    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
-2. [Medical Parasitology | 医学寄生虫学
+    CEC](https://www.classcentral.com/course/swayam-cyber-security-13978)
+2. [The Musculoskeletal System: The Science of Staying Active into Old Age
     
-    Tsinghua University](https://www.classcentral.com/course/medicine-tsinghua-university-medical-parasitology-19192)
-3. [Learning How To Learn for Youth
+    Newcastle University](https://www.classcentral.com/course/musculoskeletal-6738)
+3. [An Introduction to Interactive Programming in Python (Part 1)
     
-    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
+    Rice University](https://www.classcentral.com/course/interactivepython1-408)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
