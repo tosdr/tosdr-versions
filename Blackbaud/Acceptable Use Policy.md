@@ -153,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/HE-Toolkit-MegaMenu.jpg)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/bbcon2024-sessions-resources-megamenu-275X135.png)
     
-    Higher Ed | Free Toolkit
+    bbcon 2024 | Sept. 24–26
     
-    [A step-by-step guide to evaluate and select software at your institution](https://www.blackbaud.com/industry-insights/resources/higher-education/how-to-choose-the-right-software-for-your-institution?icid=_p-navpromo_t-homepage_c-jun24)
+    [Our lineup of 150+ bbcon sessions is live! Explore Sessions.](https://www.bbconference.com/2024/sessions?ICID=bbwebsite-mega-menu-tile-bbcon2024-sessions)
     
     * * *
     
