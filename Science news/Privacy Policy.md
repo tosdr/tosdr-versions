@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Pain may take different pathways in men and women](https://www.sciencenews.org/article/pain-nerve-cells-different-men-women)
+            
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")9 hours ago
+            
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [‘After 1177 B.C.’ describes how societies fared when the Bronze Age ended](https://www.sciencenews.org/article/1177-bc-bronze-age-societies-review)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")10 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")June 18, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [AI could take medical imaging to the next level](https://www.sciencenews.org/article/ai-medical-imaging-artificial-intelligence) 
             
             By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")June 17, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [A malaria drug could be used to treat PCOS, a common hormone disorder](https://www.sciencenews.org/article/malaria-drug-treat-pcos-hormone-disorder)
-            
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")June 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Plants](https://www.sciencenews.org/topic/plants)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [This tentacled, parasitic ‘fairy lantern’ plant is new to science](https://www.sciencenews.org/article/parasitic-fairy-lantern-plant-science)
+            ### [Pain may take different pathways in men and women](https://www.sciencenews.org/article/pain-nerve-cells-different-men-women)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")June 17, 2024
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")9 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Can leeches leap? New video may help answer that debate](https://www.sciencenews.org/article/leeches-jump-video-answer-debate)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")11 hours ago
             
         * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
-            ### [Early ants may have had complex social lives, fossil data suggests](https://www.sciencenews.org/article/early-ants-complex-social-lives-fossil)
+            ### [Meet _Lokiceratops_, a newly discovered species of horned dinosaur](https://www.sciencenews.org/article/lokiceratops-new-species-horned-dinosaur)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")June 14, 2024
-            
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
-            
-            ### [‘Echidnapus’ hints at a lost age of egg-laying mammals](https://www.sciencenews.org/article/echidnapus-newfound-species-mammal)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 13, 2024
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")13 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [50 years ago, the sun’s influence on Earth’s lightning was revealed](https://www.sciencenews.org/article/50-years-ago-sun-earth-lightning)
             
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")17 hours ago
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")June 18, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -188,13 +188,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Astronomers watch a supermassive black hole turn on for the first time](https://www.sciencenews.org/article/supermassive-black-hole-turn-on-agn)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")10 hours ago
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 18, 2024
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [50 years ago, the sun’s influence on Earth’s lightning was revealed](https://www.sciencenews.org/article/50-years-ago-sun-earth-lightning)
             
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")17 hours ago
+            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")June 18, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
