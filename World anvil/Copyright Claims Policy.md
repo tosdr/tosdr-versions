@@ -227,4 +227,4 @@ Email: [\[email protected\]](https://www.worldanvil.com/cdn-cgi/l/email-protect
 
 * * *
 
-by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.014 © 2017-2024 \[en\] | Anvil Time: **10:14**, Jun 19 2024
+by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.015 © 2017-2024 \[en\] | Anvil Time: **09:55**, Jun 21 2024
