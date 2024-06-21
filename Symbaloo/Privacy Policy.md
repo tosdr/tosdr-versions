@@ -1,4 +1,4 @@
-[![Symbaloo Blog](/docs/assets/logo.svg)](https://www.symbaloo.com/)
+[![Symbaloo Blog](/docs/assets/logo.svg)](https://www.symbaloo.com/?utm_source=en_blog&utm_medium=blog&utm_campaign=symbaloo_logo)
 
 English
 
@@ -29,8 +29,8 @@ English
     * [Articles](https://blog.symbaloo.com/blogs/)
     * [Webinars](https://blog.symbaloo.com/webinars/)
     * [Webmixes](https://blog.symbaloo.com/webmixes/)
-* [Signup](https://www.symbaloo.com/signup/start?utm_source=en_blog&utm_medium=topmenu&utm_campaign=topmenu)
-    * [Login](https://www.symbaloo.com/login)
+* [Signup](https://www.symbaloo.com/signup?utm_source=en_blog&utm_medium=blog&utm_campaign=signup_button&utm_content=top_menu)
+    * [Login](https://www.symbaloo.com/login?utm_source=en_blog&utm_medium=blog&utm_campaign=login_button&utm_content=top_menu)
 
 [![zoeken](/docs/assets/search.svg)](#)
 
