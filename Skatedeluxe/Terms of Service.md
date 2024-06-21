@@ -224,8 +224,6 @@ Sorting
 
 [Trustpilot](https://www.skatedeluxe.com/%E2%80%8Bhttps:/uk.trustpilot.com/review/skatedeluxe.com)
 
-[](#)
-
 General Terms and Conditions
 ============================
 
