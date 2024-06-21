@@ -1,4 +1,4 @@
-[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
+[Celebrate The Class of 2024](https://www.bobswatches.com/gift-guide/graduation-1.html)
 
 100% Certified Authentic
 
@@ -105,7 +105,7 @@ Close Menu
 * Men's Watches
     * [Rolex Watches for Men](https://www.bobswatches.com/rolex/watches-mens)
     * [OMEGA Watches for Men](https://www.bobswatches.com/omega/mens)
-* Women's Watches
+* Womens's Watches
     * [Rolex Watches for Women](https://www.bobswatches.com/rolex/watches-womens)
     * [OMEGA Watches for Women](https://www.bobswatches.com/omega/womens)
 * [Accessories](https://www.bobswatches.com/accessories/)
