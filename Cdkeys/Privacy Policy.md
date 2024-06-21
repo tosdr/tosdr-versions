@@ -560,67 +560,7 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-01-03t115939.705.jpg)   No 1. \-45%](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam)
-    
-    **[SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam "SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC")**
-    
-    Special Price £21.99 RRP £39.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 2. \-55%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
-    
-    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
-    
-    Special Price £18.99 RRP £41.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![Dragon's Dogma 2 Deluxe Edition PC (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-30t113710.089_1.jpg)   No 3. \-38%](https://www.cdkeys.com/pc/dragon-s-dogma-2-deluxe-edition-pc-emea-steam)
-    
-    **[Dragon's Dogma 2 Deluxe Edition PC (Europe & UK)](https://www.cdkeys.com/pc/dragon-s-dogma-2-deluxe-edition-pc-emea-steam "Dragon's Dogma 2 Deluxe Edition PC (Europe & UK)")**
-    
-    Special Price £40.99 RRP £65.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-48%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
-    
-    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
-    
-    Special Price £28.49 RRP £54.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![Abiotic Factor PC](https://cdn.cdkeys.com/245x340/media/catalog/product/a/b/abioticfactor-steam.jpg)   No 5. \-30%](https://www.cdkeys.com/pc/abiotic-factor-pc-steam)
-    
-    **[Abiotic Factor PC](https://www.cdkeys.com/pc/abiotic-factor-pc-steam "Abiotic Factor PC")**
-    
-    Special Price £11.99 RRP £17.09
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Balatro PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-02-14t133713.448.jpg)   No 6. \-51%](https://www.cdkeys.com/pc/balatro-pc-steam)
-    
-    **[Balatro PC](https://www.cdkeys.com/pc/balatro-pc-steam "Balatro PC")**
-    
-    Special Price £6.99 RRP £14.19
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-7.    [![KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/k/i/kingdom_hearts_remix.jpg)   No 7. \-42%](https://www.cdkeys.com/pc/kingdom-hearts-hd-1-5-2-5-remix-pc-eu-steam)
+1.    [![KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/k/i/kingdom_hearts_remix.jpg)   No 1. \-42%](https://www.cdkeys.com/pc/kingdom-hearts-hd-1-5-2-5-remix-pc-eu-steam)
     
     **[KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)](https://www.cdkeys.com/pc/kingdom-hearts-hd-1-5-2-5-remix-pc-eu-steam "KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)")**
     
@@ -630,17 +570,39 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-8.    [![Dying Light 2 Stay Human: Reloaded Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/e/reloaded_edition.jpg)   No 8. \-63%](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam)
+2.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 2. \-24%
     
-    **[Dying Light 2 Stay Human: Reloaded Edition PC](https://www.cdkeys.com/pc/dying-light-2-stay-human-reloaded-edition-pc-steam "Dying Light 2 Stay Human: Reloaded Edition PC")**
+    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
     
-    Special Price £16.49 RRP £44.99
+    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
+    
+    Special Price £31.99 RRP £41.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![ELDEN RING Shadow of the Erdtree Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam_1_1_1.jpg)   No 9. \-20%
+3.    [![Fallout 76 PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fallout_589981919.jpg)   No 3. \-80%](https://www.cdkeys.com/pc/fallout-76-pc-ww-steam)
+    
+    **[Fallout 76 PC (WW)](https://www.cdkeys.com/pc/fallout-76-pc-ww-steam "Fallout 76 PC (WW)")**
+    
+    Special Price £6.99 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Elden Ring PC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/5/d/5de6658946177c5f23698932_24_.jpg)   No 4. \-24%](https://www.cdkeys.com/pc/elden-ring-pc-steam)
+    
+    **[Elden Ring PC (EMEA)](https://www.cdkeys.com/pc/elden-ring-pc-steam "Elden Ring PC (EMEA)")**
+    
+    Special Price £37.99 RRP £49.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![ELDEN RING Shadow of the Erdtree Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam_1_1_1.jpg)   No 5. \-20%
     
     DLC](https://www.cdkeys.com/xbox-live/elden-ring-shadow-of-the-erdtree-xbox-eu)
     
@@ -652,13 +614,45 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-10.    [![ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam.jpg)   No 10. \-25%
+6.    [![ELDEN RING Shadow of the Erdtree Premium Bundle PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree_premium_bundle-steam.jpg)   No 6. \-19%
     
-    Pre-order DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea)
+    DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-premium-bundle-pc-dlc-steam-emea)
+    
+    **[ELDEN RING Shadow of the Erdtree Premium Bundle PC - DLC (EMEA)](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-premium-bundle-pc-dlc-steam-emea "ELDEN RING Shadow of the Erdtree Premium Bundle PC - DLC (EMEA)")**
+    
+    Special Price £32.49 RRP £39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam.jpg)   No 7. \-23%
+    
+    DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea)
     
     **[ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea "ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)")**
     
-    Special Price £26.19 RRP £34.99
+    Special Price £26.99 RRP £34.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-01-03t115939.705.jpg)   No 8. \-45%](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam)
+    
+    **[SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam "SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC")**
+    
+    Special Price £21.99 RRP £39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 9. \-52%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
+    
+    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
+    
+    Special Price £19.99 RRP £41.99
     
     [Add to Wish List](# "Add to Wish List")
     
