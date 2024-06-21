@@ -674,6 +674,7 @@ Share This Article
 * [What Parents Should Know About Artificial Intelligence](https://www.safesearchkids.com/what-parents-should-know-about-artificial-intelligence/)
 * [10 Different Career Paths if You Love Working With Kids](https://www.safesearchkids.com/10-career-paths-to-consider-if-you-love-working-with-kids/)
 * [Child Developmental Delays To Look Out For](https://www.safesearchkids.com/child-developmental-delays-to-look-out-for/)
+* [Advisory on Social Media and Youth Mental Healt](https://www.safesearchkids.com/advisory-on-social-media-and-youth-mental-health/)
 * [How Parents Can Take Part in Their Child’s Eco-Education](https://www.safesearchkids.com/how-parents-can-take-part-in-their-childs-eco-education/)
 * [The Silent Educators: What Animals Can Teach Us](https://www.safesearchkids.com/what-animals-can-teach-us/)
 * [How Social Media Is Making Kids Grow Up Too Fast](https://www.safesearchkids.com/how-social-media-is-making-kids-grow-up-too-fast/)
@@ -847,7 +848,7 @@ Share This Article
 * [Safe Search Settings | How to Turn on Safe Search](https://www.safesearchkids.com/how-to-turn-on-safesearch-and-lock-it-on-google/)
 * [Ransomware Protection](https://www.safesearchkids.com/ransomware-protection/)
 
-![Google Safe Search](https://www.safesearchkids.com/wp-content/uploads/2024/01/Safe-Search-Kids-3.jpg) Explore the Safe Search Engine - [Google for Kids](https://www.safesearchkids.com/google-kids/)
+![Google Safe Search](https://www.safesearchkids.com/wp-content/uploads/2024/01/Safe-Search-Kids-2.jpg) Explore the Safe Search Engine - [Google for Kids](https://www.safesearchkids.com/google-kids/)
 
 ### Parental Controls
 
