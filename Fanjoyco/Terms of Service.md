@@ -1,4 +1,4 @@
-                 
+                
 
 [**get 20% OFF With code: FLOWERS**](https://fanjoy.co/collections/essentials)
 
@@ -6,6 +6,7 @@
 
 ![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
 
+* [Father's Day](https://fanjoy.co/collections/really-cool-dad-club)
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
 * [Exclusives](#)
     
@@ -30,13 +31,14 @@
 
 Account
 
-* [Log in](https://fanjoy.co/customer_identity/redirect?locale=en)
-* [Create account](https://shopify.com/7141079/account?locale=en)
+* [Log in](https://fanjoy.co/account/login)
+* [Create account](https://fanjoy.co/account/register)
 
 [![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
 
 ![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
 
+* [Father's Day](https://fanjoy.co/collections/really-cool-dad-club)
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
 * [Exclusives](#)
     * [Shop All Exclusives](https://fanjoy.co/collections/shop-all-exclusives)
@@ -55,7 +57,7 @@ Account
 
 Search
 
-* [](https://fanjoy.co/customer_identity/redirect?locale=en "Log in")
+* [](https://fanjoy.co/account/login "Log in")
 * [0](https://fanjoy.co/cart)
 
 Menu
@@ -64,7 +66,7 @@ Menu
 
 ![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
 
-* [](https://fanjoy.co/customer_identity/redirect?locale=en "Log in")
+* [](https://fanjoy.co/account/login "Log in")
 [0 Cart](https://fanjoy.co/cart)
 
 Search
