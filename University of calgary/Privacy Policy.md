@@ -191,7 +191,7 @@ Toggle Navigation
         * [Our Strategy](https://web.ucalgary.ca/about/our-strategy)
         * [Strategies and Plans](https://web.ucalgary.ca/about/our-strategy/strategies-and-plans)
         * [Teaching and Learning](https://web.ucalgary.ca/about/our-strategy/teaching-and-learning)
-        * [Research and Scholarship](https://web.ucalgary.ca/about/our-strategy/research-and-scholarship)
+        * [Research and Innovation Plan](https://web.ucalgary.ca/about/our-strategy/research-and-innovation-plan)
         * [Community Engagement](https://web.ucalgary.ca/community)
     * [Our Campuses](#)
         * [Our Campuses](#)
