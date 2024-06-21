@@ -34,13 +34,10 @@ Accessible formats and communication supports are available, please contact [acc
     
     * [Accessibility](https://www.cheo.on.ca/en/visiting-cheo/accessibility.aspx?_mid_=1555 "View our Accessibility page")
     * [Amenities](https://www.cheo.on.ca/en/visiting-cheo/amenities.aspx "View our Amenities page")
-    * [Colds, COVID, flu and RSV](https://www.cheo.on.ca/en/resources-and-support/cold-covid-flu-and-rsv.aspx "Open file in new window: Peak viral season — colds, flu, RSV and COVID-19 ")
-    * [Family-Centred Rounds](https://www.cheo.on.ca/en/resources-and-support/family-centred-rounds.aspx "Open file in new window: Family-Centred Rounds")
-    * [Find your doctor](https://www.cheo.on.ca/en/about-us/physician-directory.aspx?_mid_=1567 "View our Physician directory page")
     * [Health Records](https://www.cheo.on.ca/en/visiting-cheo/health-records.aspx "View our Health Records page")
     * [Maps and locations](https://www.cheo.on.ca/en/visiting-cheo/map-and-locations.aspx "View our Map and locations page")
-    
     * [Parking](https://www.cheo.on.ca/en/visiting-cheo/parking.aspx "View our Parking page")
+    
     * [Patient safety](https://www.cheo.on.ca/en/visiting-cheo/patient-safety.aspx "View our Patient safety page")
     * [Pay your bill](https://www.cheo.on.ca/en/visiting-cheo/pay-your-bill.aspx "View our Pay your bill page")
     * [Pharmacy (Kidcare)](https://www.cheo.on.ca/en/visiting-cheo/pharmacy-kidcare.aspx "View our Pharmacy (Kidcare) page")
@@ -111,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Child looking at camera](/en/rotatingimages/defaultInterior/Banner-15.jpg)
+![Mother and child smiling at camera](/en/rotatingimages/defaultInterior/Banner-12.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
