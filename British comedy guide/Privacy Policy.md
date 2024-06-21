@@ -1,11 +1,4 @@
-[![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
-==================================================================================================================
-
-* Search
-* ☰
-
-[![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
-==================================================================================================================
+[](https://www.comedy.co.uk/)
 
 * [Home](https://www.comedy.co.uk/)
 * [TV](https://www.comedy.co.uk/tv/)
@@ -19,10 +12,15 @@
 * [More](https://www.comedy.co.uk/overview/)
 
 * Search
+* [AccountAccount](https://www.comedy.co.uk/account/)
 
-× Close menu
+[](https://www.comedy.co.uk/)
+=============================
 
-Please consider donating to help British Comedy Guide produce quality comedy coverage. Thank you. [Find out more](https://www.comedy.co.uk/donate/)
+* Search
+* [AccountAccount](https://www.comedy.co.uk/account/)
+
+Search Menu
 
 * [BCG](https://www.comedy.co.uk/)
 * [Info](https://www.comedy.co.uk/info/)
@@ -144,25 +142,29 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[![Not Going Out. Image shows left to right: Tim (Tim Vine), Lucy (Sally Bretton), Daisy (Katy Wix), Lee (Lee Mack)](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/n/not_going_out_0503.jpg "Not Going Out. Image shows left to right: Tim (Tim Vine), Lucy (Sally Bretton), Daisy (Katy Wix), Lee (Lee Mack)")](https://www.comedy.co.uk/quiz/314/) Quiz
+[Bodger & Badger. Simon Bodger (Andy Cunningham)](https://www.comedy.co.uk/quiz/311/)Quiz
 
-[British Comedy Quiz #314](https://www.comedy.co.uk/quiz/314/)
+[British Comedy Quiz #311](https://www.comedy.co.uk/quiz/311/)
 
-[![Lorna Rose Treen. Credit: Will Hearle](https://cdn.comedy.co.uk/images/library/people/300x200/l/lorna_rose_treen_blue.jpg "Lorna Rose Treen. Credit: Will Hearle")](https://www.comedy.co.uk/live/random8/lorna-rose-treen/) Live
+[Dabbers Bingo Comedy Caller Contest](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)Live
 
-[Random 8: Lorna Rose Treen](https://www.comedy.co.uk/live/random8/lorna-rose-treen/)
+[Finalists ready for Dabbers Bingo Comedy Caller Contest 2024](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)
 
-[![dinnerladies. Image shows from L to R: Jean (Anne Reid), Stan (Duncan Preston), Brenda (Victoria Wood), Twinkle (Maxine Peake), Dolly (Thelma Barlow), Tony (Andrew Dunn), Anita (Shobna Gulati). Copyright: Good Fun / Pozzitive Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/d/dinnerladies.jpg "dinnerladies. Image shows from L to R: Jean (Anne Reid), Stan (Duncan Preston), Brenda (Victoria Wood), Twinkle (Maxine Peake), Dolly (Thelma Barlow), Tony (Andrew Dunn), Anita (Shobna Gulati). Copyright: Good Fun / Pozzitive Productions")](https://www.comedy.co.uk/features/comedy-rewind/dinnerladies/) Features
+[James Barr](https://www.comedy.co.uk/live/random8/james-barr/)Live
 
-[Comedy Rewind: dinnerladies - cooking up laughs](https://www.comedy.co.uk/features/comedy-rewind/dinnerladies/)
+[Random 8: James Barr](https://www.comedy.co.uk/live/random8/james-barr/)
 
-[![Brian Butterfield. Peter Serafinowicz](https://cdn.comedy.co.uk/images/library/people/300x200/b/brian_butterfield_2024.jpg "Brian Butterfield. Peter Serafinowicz")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-brian-butterfield-jay-lafferty-ray-bradshaw/) Live
+[On The Buses. Jack Harper (Bob Grant)](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)Features
 
-[Brian Butterfield / Jay Lafferty / Ray Bradshaw - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-brian-butterfield-jay-lafferty-ray-bradshaw/)
+[Comedy Chronicles: The bus stop - The post-fame fate of Bob Grant](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)
 
-#### Subscribe to our newsletters
+#### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
- Go
+Join us in our mission to support and promote British comedy across the decades.
+
+#### [Subscribe to our newsletters](https://www.comedy.co.uk/newsletters/)
+
+Get all the latest news and information in your inbox, with our range of email newsletters to meet all interests.
 
 Do not sell my info
 
@@ -178,11 +180,11 @@ Privacy settings
 * [Pro](https://www.comedy.co.uk/pro/)
 * [More](https://www.comedy.co.uk/overview/)
 
-[![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
+[](https://www.comedy.co.uk/)
 
 * [Facebook](https://www.facebook.com/BritishComedyGuide)
 * [Instagram](https://www.instagram.com/britishcomedyguide/)
-* [X](https://x.com/BritishComedy)
+* [Twitter](https://twitter.com/BritishComedy)
 * [YouTube](https://www.youtube.com/user/britishcomedyguide)
 
 * [Home](https://www.comedy.co.uk/)
@@ -197,10 +199,8 @@ Privacy settings
 
 * * *
 
-We live for comedy. [**Do you?**](https://www.comedy.co.uk/donate/)
+Clowns divorce. Custardy battle.[Simon Munnery](https://www.comedy.co.uk/fringe/2015/features/dave_top10_jokes_of_fringe_2015/)
 
 © British Comedy Guide
-
-×
 
   Search
