@@ -92,7 +92,7 @@ Flight | Hotel | Car | VacationsSpecial OffersRapid rewards®
 ------------------------------------------------------------------------------------------
 
 * [Book a Hotel](https://www.southwesthotels.com/index.html?label=SWA-GSUBNAV-HOTEL-BOOK&clk=GSUBNAV-HOTEL-BOOK)
-* [Redeem Points for Hotels](https://hotels.redeemrapidrewards.com/?utm_source=southwesthotels.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-rapid-rewards&utm_content=redeem-for-hotels)
+* [Redeem Points for Hotels](http://hotels.redeemrapidrewards.com/?utm_source=southwest.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-hotel&utm_content=redeem-for-hotels)
 * [More Than Hotels](https://www.southwesthotels.com/accommodations.html?aid=961823&label=SWA-GSUBNAV-OTHER-HOTELS&clk=GSUBNAV-MORE-HOTEL)
 * [Manage Reservations](https://secure.southwesthotels.com/mybooking.html?label=SWA-GSUBNAV-HTL-MANAGE&clk=GSUBNAV-HTL-MANAGE)
 * [Hotel Offers](https://www.southwesthotels.com/dealspage.html?clk=GSUBNAV-OFFERS-HOTELS)
@@ -154,7 +154,7 @@ on hotel stays.](https://www.southwesthotels.com/?label=SWA-GSUBNAV-OFFERS-HOTEL
 * [Rapid Rewards Credit Card](https://www.southwest.com/html/rapidrewards/partners/credit-cards/southwest-airlines-rapid-rewards-cards/index.html?clk=GSUBNAV-RR-VISA)
 * [Redeem Points for Flights](https://www.southwest.com/air/booking/?fareType=POINTS&clk=GSUBNAV-RR-REDEEM)
 * [Redeem Points with Cash + Points](https://www.southwest.com/cashpluspoints/)
-* [Redeem Points for Hotels](http://hotels.redeemrapidrewards.com/?utm_source=southwesthotels.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-rapid-rewards&utm_content=redeem-for-hotels)
+* [Redeem Points for Hotels](http://hotels.redeemrapidrewards.com/?utm_source=southwest.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-rapid-rewards&utm_content=redeem-for-hotels)
 * [Redeem Points for Car Rentals](https://www.southwest.com/rapidrewards/maritz-validate?clk=GSUBNAV-CAR-REDEEM&Path=punchout%2F_%2FA-25714%3Fcid%3Dswa_car_rental_25714)
 * [Redeem Points for Gift Cards & More](https://www.southwest.com/rapidrewards/maritz-validate?clk=GSUBNAV-RR-GCANDMORE)
 * [Rapid Rewards Shopping](https://rapidrewardsshopping.southwest.com/?source=cl|SWA|ALL|cl|NA|link|na||HPNavBar|20150731&utm_source=cl&utm_medium=link&utm_campaign=&utm_content=HPNavBar&chan=cl&seg=NA&med=link&strm=na&cam=&cont=HPNavBar&end=1&clk=GSUBNAV-RR-SHOPPING)
