@@ -164,11 +164,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Watch House of the Dragon Season 2 on FireStick](https://www.firesticktricks.com/watch-house-of-the-dragon-season-2-on-firestick.html)
-* [How to Install Doomzday Kodi Builds](https://www.firesticktricks.com/doomzday-kodi-builds.html)
-* [How to Install Ezra Kodi Addon | Unlimited Free Movies & Shows](https://www.firesticktricks.com/ezra-kodi-addon.html)
-* [How to Install Fluxus IPTV Kodi Addon on Any Device](https://www.firesticktricks.com/fluxus-iptv-kodi-addon.html)
-* [Kemo IPTV Review for FireStick (15,000+ TV Channels)](https://www.firesticktricks.com/kemo-iptv-review.html)
+* [How to Watch Netherlands vs. France Euro 2024 on FireStick](https://www.firesticktricks.com/watch-netherlands-vs-france-euro-2024-on-firestick.html)
+* [How to Watch Spain vs. Italy Euro 2024 on FireStick](https://www.firesticktricks.com/watch-spain-vs-italy-euro-2024-on-firestick.html)
+* [How to Get Back Developer Options on FireStick (2024)](https://www.firesticktricks.com/developer-options-firestick.html)
+* [Where Can I Buy a FireStick in 2024](https://www.firesticktricks.com/where-can-i-buy-a-firestick.html)
+* [Best Free VPNs for Kodi \[Tested by Experts in 2024\]](https://www.firesticktricks.com/free-vpns-for-kodi.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
