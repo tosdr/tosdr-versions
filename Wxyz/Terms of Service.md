@@ -35,7 +35,7 @@ Search site  Go
     * [Investigators](https://www.wxyz.com/news/local-news/investigations)
     * [Local](https://www.wxyz.com/news/local-news)
     * [2024 NFL Draft in Detroit](https://www.wxyz.com/news/nfl-draft)
-    * [National/World](https://www.wxyz.com/news/national)
+    * [National/World](https://www.wxyz.com/news/national-news)
     * [Politics](https://www.wxyz.com/news/politics)
     * [Auto](https://www.wxyz.com/money/auto-news)
     * [Coronavirus](https://www.wxyz.com/news/coronavirus)
