@@ -3,7 +3,7 @@
 Main Navigation
 ---------------
 
- [![CACTUS JACK](//shop.travisscott.com/cdn/shop/files/utopia.png?v=1688787549)](https://shop.travisscott.com/)[Cart : 0 Items](https://shop.travisscott.com/cart)
+ [![CACTUS JACK](//shop.travisscott.com/cdn/shop/files/cactus-jack-logo-wide.png?v=1613148347)](https://shop.travisscott.com/)[Cart : 0 Items](https://shop.travisscott.com/cart)
 
 TERMS
 =====
