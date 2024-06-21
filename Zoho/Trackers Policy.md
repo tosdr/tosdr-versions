@@ -3,7 +3,7 @@ Zoho - Cookie Policy
 
 Manage Cookie Preference
 
-Last Updated on : 04 January 2024
+Last Updated on : 20 June 2024
 
 ### What is a cookie?
 
@@ -23,7 +23,7 @@ Strictly Necessary cookies are necessary for our website to function and cannot 
 
 | Cookie Name | Purpose | Validity |
 | --- | --- | --- |
-| Alphanumeric cookies of length 10 characters(eg: 467aef24c7) | Load balancing and session stickiness | Session |
+| zalb\_alphanumeric cookies of length 10 characters(e.g., zalb\_467aef24c7) | Load balancing and session stickiness | Session |
 | csr\* / \*csr\* / \*csr, zmpncc, zfccn | Website security | Session |
 | dcl\_pfx\_lcnt | Navigation through cross-domains | Session |
 | JSESSIONID | HTTP session token identifier | Session |
@@ -40,17 +40,17 @@ Strictly Necessary cookies are necessary for our website to function and cannot 
 | \_iamadt, \_iambdt | Manage logged in user session | 1 month |
 | zip | Store IP locale country value for proper website operations | 1 day |
 | AKA\_A2 | Performance optimisation in loading of pages | 1 hour |
-| dcl\_bd | Stores the base domain of the current dc(data center) for proper cross data center domain navigation | Session |
+| dcl\_bd | Stores the base domain of the current data center (DC) to ensure proper cross-data center domain navigation. | Session |
 | is\_pfx | Stores the current web URL domain prefix information | Session |
 | IAMTFATICKET\_<zuid> | Stores the trusted browser session, when "Trust this Browser" option is enabled during TFA verification by the user. | 180day(s) |
 | ^(?=.\*\\d)\[a-z0-9\]{37}\_user\_uuid$ | Account and Session Management | 6 hours |
-| ^IAMSATCK\_\[0-9\]+$ | It is used cases like control signin brute Force attacks from a browser | 90 days |
+| ^IAMSATCK\_\[0-9\]+$ | It is utilized to prevent brute force sign-in attacks originating from a browser. | 90 days |
 | aprmjrnpkcrkks | Security of website/application | Session |
 | BuildCookie\_AssetType | Build management | 6 months |
 | IAM\_TEST\_COOKIE | Security of website/application | 1 day |
 | PHPSESSID | PHP session cookie associated with embedded content from this domain. | 2 days |
 | wms-tkp-token | This is set by IAM filter to facilitate WMS authentication | 1 month |
-| wms.agent | This cookie is also set by IAM filter, it is to inform our client whether "wms-tkp-token" is set or not. If it is not set, we will fallback to a different authentication flow. | 1 month |
+| wms.agent | This cookie informs the client whether the 'wms-tkp-token' is present. If not, an alternative authentication flow is used. | 1 month |
 | ZCNEWLIVEUI | To decide whether to load new Live UI for Application users | Session |
 | ZCNEWUIPUBLICPORTAL | To know whether to load new UI or orld UI for public, portal and custom domain pages | Session |
 | zmirc | To redirect the user to a app group based on free / paid | 1 day |
@@ -61,7 +61,7 @@ Strictly Necessary cookies are necessary for our website to function and cannot 
 | acc\_ver | Redirect to the new user interface of Zoho accounts page | 1 year |
 | isiframeenabled | Manage the loading of some static containers for better UI client performance | 1 day |
 | uesign | Validate client ID while loading previous visit chats | 1 month |
-| PaymentsReferral | To identify from the referral partner of the visitor | 90 days |
+| PaymentsReferral | To identify the referral partner of the visitor. | 90 days |
 
 ##### Functional/Preference Cookies
 
@@ -80,6 +80,7 @@ Note : The **live chat** widget will **not** work if the functionality/preferenc
 | isexitmodaldisabled | Store user preferences(eg. cookie banner, timezone, country, IP, locale etc) | 90 days |
 | pll\_language | Polylang uses the cookie pll \_language to remember the language selected by the user when he comes back to visit again the website. This cookie is also used to get the language information when not available in another way. | 1 year |
 | ^zld\[0-9\]+state$ | Used to store the minimisation and maximisation state of the embed | 5 minutes |
+| zflow\_userDC | Store user preferences such as cookie banner preferences, timezone, country, IP address, locale, etc. | 7 days |
 
 ##### Analytics Cookies
 
@@ -123,15 +124,15 @@ Here is the list of the cookies set by such third-party company embeds on our we
 
 | Cookie Name | Purpose | Validity | Third Party Name |
 | --- | --- | --- | --- |
-| PREF | This cookie stores your preferences and other information, in particular preferred language, how many search results you wish to be shown on your page, and whether or not you wish to have Google’s SafeSearch filter turned on. | 8 months | YouTube |
+| PREF | Stores your preferences and other information, such as preferred language, the number of search results you wish to see, and whether Google's SafeSearch filter is enabled. | 8 months | YouTube |
 | YSC | Registers a unique ID to keep statistics of what videos from YouTube the visitor has seen. | Session | YouTube |
-| VISITOR\_INFO1\_LIVE | Measures your bandwidth to determine whether you get the new player interface or the old. | 8 months | YouTube |
+| VISITOR\_INFO1\_LIVE | Measures your bandwidth to determine if you receive the new or old player interface. | 8 months | YouTube |
 | use\_hitbox | Increments the views counter on the YouTube video | 8 months | YouTubes |
 | sc\_anonymous\_id | To implement, measure and improve their embedded content/service on the website - The collection of data also includes visitors’ interaction with embedded content/service. | 3650 days | SoundCloud |
 | \_\_cf\_bm | This cookie is used to distinguish between humans and bots. | 1 day | Vimeo |
 | vuid | Collects statistics on a user's visits to the website, such as which pages have been read. | 2 years | Vimeo |
 | player | Saves the user's preferences when playing embedded videos from Vimeo. | 1 year | Vimeo |
-| \_abexps | Remember the settings you have made. This could be a preset language, region or user name, for example. | 1 year | Vimeo |
+| \_abexps | Remembers your settings, such as language, region, or username. | 1 year | Vimeo |
 
 ### How you can manage cookies?
 
@@ -154,6 +155,19 @@ Browser manufacturers provide help pages relating to cookie management in their 
 * [**Android Browser**](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067)
 * [**Opera**](http://www.opera.com/help)
 * [**Opera Mobile**](http://www.opera.com/help/mobile/android#privacy)
+
+  
+
+#### Product-Specific Cookie Information
+
+For information regarding cookies set by our products, please check the specific cookie pages for each product:
+
+* [**Zoho Sites**](https://www.zoho.com/sites/cookie-policy/)
+* [**Zoho Commerce**](https://www.zoho.com/commerce/cookie-policy.html)
+* [**Zoho PageSense**](https://www.zoho.com/pagesense/cookie-policy.html)
+* [**Zoho Campaigns**](https://www.zoho.com/campaigns/cookie-policy.html)
+* [**Zoho SalesIQ**](https://www.zoho.com/salesiq/cookies-policy.html)
+* [**Zoho Marketing Automation**](https://www.zoho.com/marketingautomation/cookie-policy.html)
 
   
 
