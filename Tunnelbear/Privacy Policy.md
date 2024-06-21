@@ -33,8 +33,8 @@ Privacy Policy
 
 ![](/static/img/privacy_bear.555fb76.svg)
 
-November 25, 2020
------------------
+May 10, 2024
+------------
 
 This Privacy Policy describes how TunnelBear LLC. ("TunnelBear") handles your Personal Data when you use our services ("Services").
 
