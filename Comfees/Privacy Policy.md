@@ -243,7 +243,7 @@ Support agent
 
 **Email Us:** [mycomfees@attindas.com](mailto:mycomfees@attindas.com)
 
-© 2024 Comfees, by Attindas Hygiene Partners [Privacy Policy](https://www.mycomfees.com/comfees-privacy-policy/) | [Global Privacy Statement](https://www.mycomfees.com/global-privacy-statement/) | [Terms of service](https://www.mycomfees.com/comfees-terms-of-service/) | [Spring Giveway Rules](https://www.mycomfees.com/spring-giveaway-rules/)
+© 2024 Comfees, by Attindas Hygiene Partners [Privacy Policy](https://www.mycomfees.com/comfees-privacy-policy/) | [Global Privacy Statement](https://www.mycomfees.com/global-privacy-statement/) | [Terms of service](https://www.mycomfees.com/comfees-terms-of-service/) | [Satisfaction Gaurenteed Policy](https://www.mycomfees.com/comfees-satisfaction-gauranteed-policy/) | [Spring Giveway Rules](https://www.mycomfees.com/spring-giveaway-rules/)
 
 Technical
 
