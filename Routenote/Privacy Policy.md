@@ -4,7 +4,7 @@ About us Why RouteNote? Pricing Partners [Blog](http://routenote.com/blog/) [Vid
 
 ##### PRODUCTS
 
-Distribution Monetisation Free Premium All Access Record Labels Promotion Marketing Affiliate [Sample Packs](https://create.routenote.com/) [Synchedin](https://synchedin.com/) Royalty Advances
+Distribution Monetisation Publishing Free Premium All Access Record Labels Promotion Marketing Affiliate [Sample Packs](https://create.routenote.com/) Royalty Advances
 
 ##### FEATURES
 
