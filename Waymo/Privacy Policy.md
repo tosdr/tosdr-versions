@@ -252,11 +252,11 @@ Select language English Español Filipino 中文（简体中文） 中文（繁�
 
 * * *
 
-* [![Waymo on Twitter](https://waymo.com/v2/static/images/social/logo-twitter.svg)](https://twitter.com/waymo/)
-* [![Waymo on LinkedIn](https://waymo.com/v2/static/images/social/logo-linkedin.svg)](https://www.linkedin.com/company/waymo)
-* [![Waymo on Instagram](https://waymo.com/v2/static/images/social/logo-instagram.svg)](https://www.instagram.com/waymo/?hl=en)
-* [![Waymo on Facebook](https://waymo.com/v2/static/images/social/logo-facebook.svg)](https://facebook.com/waymo/)
-* [![Waymo on YouTube](https://waymo.com/v2/static/images/social/logo-youtube.svg)](https://www.youtube.com/waymo)
+* [](https://twitter.com/waymo/ "Waymo on Twitter")
+* [](https://www.linkedin.com/company/waymo "Waymo on LinkedIn")
+* [](https://www.instagram.com/waymo/?hl=en "Waymo on Instagram")
+* [](https://facebook.com/waymo/ "Waymo on Facebook")
+* [](https://www.youtube.com/waymo "Waymo on YouTube")
 
 Do Not Sell or Share My Personal Information
 
