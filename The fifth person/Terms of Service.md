@@ -1,4 +1,4 @@
-Wednesday, June 19 2024
+Friday, June 21 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -135,11 +135,19 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://fifthperson.com/wp-content/uploads/2022/09/public-bank-220x150.png)](https://fifthperson.com/2024-public-bank-agm/)
+    
+    [12 things I learned from the 2024 Public Bank AGM](https://fifthperson.com/2024-public-bank-agm/)
+    
+    3 hours ago
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![](https://fifthperson.com/wp-content/uploads/2024/06/lululemon-220x150.jpg)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/)
     
     [Lululemon’s stock has crashed by 40%. Is there an undervalued opportunity?](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/) 
     
-    1 day ago
+    3 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -147,7 +155,7 @@ Quick Guides
     
     [Fed maintains rates amid easing inflation: Future impacts on Singapore and Malaysia](https://fifthperson.com/fed-maintains-rates-impacts-on-singapore-and-malaysia/)
     
-    5 days ago
+    1 week ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -163,7 +171,7 @@ Quick Guides
     
     [Alpha Quadrant 2024 is LIVE!](https://fifthperson.com/alpha-quadrant-is-live/)
     
-    1 week ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -195,21 +203,13 @@ Quick Guides
     
     [8 things I learned from the 2024 Parkway Life REIT AGM](https://fifthperson.com/2024-parkway-life-reit-agm/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://fifthperson.com/wp-content/uploads/2020/09/heineken-220x150.jpg)](https://fifthperson.com/2024-heineken-malaysia-agm/)
     
     [10 things I learned from the 2024 Heineken Malaysia AGM](https://fifthperson.com/2024-heineken-malaysia-agm/)
-    
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2024/05/nvidia-220x150.jpg)](https://fifthperson.com/nvidia-q1-2025-earnings-call/)
-    
-    [Nvidia’s Q1 2025 earnings call: Record revenue driven by AI data center growth](https://fifthperson.com/nvidia-q1-2025-earnings-call/)
     
     4 weeks ago
     
