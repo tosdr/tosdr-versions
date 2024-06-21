@@ -1,6 +1,6 @@
 [login](https://www.wikitree.com/index.php?title=Special:Userlogin)
 
-[![WikiTree: Where genealogists collaborate](/images/wikitree-small.png "WikiTree: Where genealogists collaborate")](https://www.wikitree.com/)
+[![WikiTree: Where genealogists collaborate](/images/wikitree-small.png.pagespeed.ce.5G9g5z_Ayb.png "WikiTree: Where genealogists collaborate")](https://www.wikitree.com/)
 
   
 
@@ -278,7 +278,7 @@ We reserve the right to make changes to this policy at any time. All updates wil
   
   
 
-This page was last modified 21:25, 1 April 2024. This page has been accessed 183,489 times.
+This page was last modified 21:25, 1 April 2024. This page has been accessed 183,607 times.
 
 [WIKITREE HOME](https://www.wikitree.com/ "Go to the WikiTree Home Page")   |   [ABOUT](https://www.wikitree.com/wiki/Help:About_WikiTree "About WikiTree, the Community, and our Mission")   |   [G2G FORUM](https://www.wikitree.com/g2g/ "Genealogist-to-Genealogist Community Forum")   |   [HELP](https://www.wikitree.com/wiki/Help:How_to_Use_WikiTree "Help: How to use WikiTree")   |   [SEARCH](https://www.wikitree.com/wiki/Special:SearchPerson "Search for a Person")
 
