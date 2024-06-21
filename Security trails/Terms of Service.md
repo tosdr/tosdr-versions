@@ -3,7 +3,7 @@
 * [Contact Us](https://securitytrails.com/contact)
 * [Login](https://app.recordedfuture.com/live/login/)
 
-[![](https://cms.recordedfuture.com/uploads/brand_logo_long_black_f2ead5b5c6.svg?w=3840)](https://securitytrails.com/)
+[![Recorded Future Logo](https://cms.recordedfuture.com/uploads/brand_logo_long_black_f2ead5b5c6.svg?w=3840)](https://securitytrails.com/)
 
 * [Platform](https://www.recordedfuture.com/platform/intelligence-cloud)
 * [Solutions](https://securitytrails.com/solutions)
