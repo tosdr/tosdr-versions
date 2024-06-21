@@ -4,7 +4,7 @@
 * [Games](https://an1.com/games/)
     
     * [All Games](https://an1.com/games/)
-    * [Action (718)](https://an1.com/games/action/)
+    * [Action (717)](https://an1.com/games/action/)
     * [Cards (34)](https://an1.com/games/cards/)
     * [Arcade (514)](https://an1.com/games/arcade/)
     * [RPG (4)](https://an1.com/games/rpg/)
@@ -35,7 +35,7 @@
     * [Office (7)](https://an1.com/programmy/office/)
     * [Weather (4)](https://an1.com/programmy/weather/)
     * [Travel (15)](https://an1.com/programmy/travel/)
-    * [Camera (18)](https://an1.com/programmy/camera/)
+    * [Camera (17)](https://an1.com/programmy/camera/)
     * [Photography (25)](https://an1.com/programmy/photography/)
     * [File Managers (3)](https://an1.com/programmy/file-managers/)
     * [Translators (1)](https://an1.com/programmy/translators/)
