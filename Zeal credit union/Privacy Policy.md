@@ -1,5 +1,3 @@
-We are closed Wednesday, June 19, in honor of Juneteenth. 🧡
-
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 
 Routing Number: 272477694
@@ -705,13 +703,11 @@ The Zeal Credit Union homepage website is a secured website. At the Zeal Credit 
 
 **Zeal Credit Union Mobile App**
 
-Updates to both the iOS and Android platforms require that Zeal Credit Union provide our members with the ability to request the removal of their app accounts and any associated data. This requirement is the latest of many recent compliance updates from Google and Apple related to user privacy and data safety.
-
-If you would like to request the removal of your app accounts and related data, simply send an email request to: **[mxadmin@zealcu.org](mailto:mxadmin@zealcu.org)**.
-
-Please type “Remove App Account” in the subject line of your email and provide us with a good phone number at which to reach you. One of our representatives will be in touch with you to confirm the request is valid and initiate the process.
+iOS and Android platforms require that Zeal Credit Union provide our members with the ability to request the removal of their app accounts and any associated data. This requirement is the latest of many recent compliance updates from Google and Apple related to user privacy and data safety. If you would like to request the removal of your app accounts and related data, simply send an email request to: **[mxadmin@zealcu.org](mailto:mxadmin@zealcu.org)**. Please type “Remove App Account” in the subject line of your email and provide us with a good phone number at which to reach you. One of our representatives will be in touch with you to confirm the request is valid and initiate the process.
 
 Upon execution of this request, Zeal Credit Union will delete all associated data held in our digital and internet banking system. This data will no longer be accessible or available to any party. Your accounts will remain active, and your account transaction history will remain in our main system history as long as your accounts are open, but all internet and Mobile Banking data will be deleted.
+
+Some features included in digital banking may request access to data located on the device used to access digital banking. This may include biometric, camera, contacts, and location data. Users will be prompted to allow access to this data, and if access is not allowed, the feature requiring that data will not be fully functional.
 
 **Links to 3rd Party Websites**
 
@@ -734,10 +730,6 @@ Livonia, MI 48152
 Phone: [(800) 321-8570 Ext. 7400](tel:8003218570.7400)
 
 E-mail: [memberservices@zealcu.org](mailto:memberservices@zealcu.org)
-
-##### We will be closed on Wednesday, June 19, in honor of Juneteenth.
-
-We are closed Wednesday, June 19, in honor of Juneteenth. 🧡
 
 ##### Leaving This Site
 
