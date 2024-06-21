@@ -378,8 +378,6 @@ Prior versions of this Privacy Policy are available [here](https://unstoppabledo
 
 [Report a bug](https://support.unstoppabledomains.com/support/tickets/new)
 
-[Grant Application](https://unstoppabledomains.com/grants)
-
 [Website API Reference](https://docs.unstoppabledomains.com/openapi/reference)
 
 [Trademarks](https://unstoppabledomains.com/tm)
