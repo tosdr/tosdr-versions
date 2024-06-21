@@ -257,11 +257,10 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Child-friendly privacy policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
+"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
+Thank you!
 
-**Terrie Penrose-Toms, Casterton College**
-
-[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
+**Teacher, Australia**
 
 ### Curriculum...
 
