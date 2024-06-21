@@ -468,76 +468,76 @@ UPDATED: FEBRUARY 01, 2024
 
 TOP NEWS
 
-* [Rep. Good’s Race Too Early to Call, Other Takeaways From Tuesday’s Primaries](https://www.theepochtimes.com/us/rep-goods-race-too-early-to-call-other-takeaways-from-tuesdays-primaries-5671119)
+* [Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://www.theepochtimes.com/us/paxton-warns-texas-schools-not-to-comply-with-title-ix-transgender-rules-or-face-legal-action-5672471)
     
-    2hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo) and [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Rep. Good’s Race Too Early to Call, Other Takeaways From Tuesday’s Primaries](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rep. Good’s Race Too Early to Call, Other Takeaways From Tuesday’s Primaries](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671181-Election_2024_Virginia_24171151055106-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-goods-race-too-early-to-call-other-takeaways-from-tuesdays-primaries-5671119)
-* [Rep. Good Locked in Tight Race With Trump-Backed Challenger](https://www.theepochtimes.com/us/rep-good-locked-in-tight-race-with-trump-backed-challenger-5670839)
+    ![Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://img.theepochtimes.com/assets/uploads/2024/05/03/id5643334-GettyImages-1235388995-205x123.jpg.webp)](https://www.theepochtimes.com/us/paxton-warns-texas-schools-not-to-comply-with-title-ix-transgender-rules-or-face-legal-action-5672471)
+* [Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://www.theepochtimes.com/us/billionaire-timothy-mellon-donates-50-million-to-trump-pac-5672593)
     
-    5hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Rep. Good Locked in Tight Race With Trump-Backed Challenger](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rep. Good Locked in Tight Race With Trump-Backed Challenger](https://img.theepochtimes.com/assets/uploads/2024/06/17/id5670279-GettyImages-2147927810-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-good-locked-in-tight-race-with-trump-backed-challenger-5670839)
-* [Army Veteran, Figure in Trump Impeachment Inquiry Will Vie For Key House Seat](https://www.theepochtimes.com/us/army-veteran-figure-in-trump-impeachment-inquiry-will-vie-for-spanbergers-seat-in-november-5670996)
+    ![Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://img.theepochtimes.com/assets/uploads/2024/06/03/id5661551-Trump-presser-GettyImages-2155437737-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/billionaire-timothy-mellon-donates-50-million-to-trump-pac-5672593)
+* [US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://www.theepochtimes.com/world/us-says-ukraine-can-strike-anywhere-inside-russia-where-cross-border-attacks-emanate-5672415)
     
-    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Army Veteran, Figure in Trump Impeachment Inquiry Will Vie For Key House Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Army Veteran, Figure in Trump Impeachment Inquiry Will Vie For Key House Seat](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671098-0-DSC00674-205x123.jpg.webp)](https://www.theepochtimes.com/us/army-veteran-figure-in-trump-impeachment-inquiry-will-vie-for-spanbergers-seat-in-november-5670996)
-* [Virginians Select Candidates in 10th Congressional District](https://www.theepochtimes.com/us/virginians-select-candidates-in-10th-congressional-district-5671033)
+    ![US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672570-GettyImages-1248456070KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-ukraine-can-strike-anywhere-inside-russia-where-cross-border-attacks-emanate-5672415)
+* [New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://www.theepochtimes.com/us/new-york-governor-signs-bill-restricting-social-media-algorithms-for-minors-5672411)
     
-    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    5hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Virginians Select Candidates in 10th Congressional District](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Virginians Select Candidates in 10th Congressional District](https://img.theepochtimes.com/assets/uploads/2022/03/18/1-DSC01639-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginians-select-candidates-in-10th-congressional-district-5671033)
-* [Senate Republican Blocks Bill to Ban Bump Stocks After Supreme Court Ruling](https://www.theepochtimes.com/us/senate-republican-blocks-bill-to-ban-bump-stocks-after-supreme-court-ruling-5670795)
+    ![New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672645-Hochul-signs-bill-AP24172690553171-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-governor-signs-bill-restricting-social-media-algorithms-for-minors-5672411)
+* [US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://www.theepochtimes.com/world/rep-pelosi-meets-with-exiled-tibetan-government-in-india-as-chinas-xi-visits-tibet-5671855)
     
-    6hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
     
-    [![Senate Republican Blocks Bill to Ban Bump Stocks After Supreme Court Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senate Republican Blocks Bill to Ban Bump Stocks After Supreme Court Ruling](https://img.theepochtimes.com/assets/uploads/2021/06/29/20210624-nebraska-governor-pete-ricketts-petrsvab-8230-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-republican-blocks-bill-to-ban-bump-stocks-after-supreme-court-ruling-5670795)
-* [House Appropriations Chair Tom Cole Survives Primary Challenge](https://www.theepochtimes.com/us/house-appropriations-chair-tom-cole-survives-primary-challenge-5670927)
+    ![US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672578-pelosi-205x123.jpeg.webp)](https://www.theepochtimes.com/world/rep-pelosi-meets-with-exiled-tibetan-government-in-india-as-chinas-xi-visits-tibet-5671855)
+* [Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://www.theepochtimes.com/us/nearly-half-of-us-ev-drivers-consider-switching-back-to-gas-vehicles-mckinsey-study-5672246)
     
-    6hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![House Appropriations Chair Tom Cole Survives Primary Challenge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Appropriations Chair Tom Cole Survives Primary Challenge](https://img.theepochtimes.com/assets/uploads/2023/03/01/GettyImages-1470066447-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-appropriations-chair-tom-cole-survives-primary-challenge-5670927)
-* [Baseball Icon Willie Mays Dies at 93](https://www.theepochtimes.com/sports/baseball-icon-willie-mays-dies-at-93-post-5671095)
+    ![Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672481-GettyImages-1241748391-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-half-of-us-ev-drivers-consider-switching-back-to-gas-vehicles-mckinsey-study-5672246)
+* [Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://www.theepochtimes.com/us/federal-judge-to-hear-arguments-on-lawfulness-of-jack-smith-appointment-5669979)
     
-    6hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
+    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![Baseball Icon Willie Mays Dies at 93](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Baseball Icon Willie Mays Dies at 93](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671110-Willie-Mays-AP24170453478172-205x123.jpg.webp)](https://www.theepochtimes.com/sports/baseball-icon-willie-mays-dies-at-93-post-5671095)
-* [Hung Cao Wins Virginia Senate GOP Primary](https://www.theepochtimes.com/us/hung-cao-wins-virginia-senate-gop-primary-5671035)
+    ![Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://img.theepochtimes.com/assets/uploads/2024/06/16/id5669709-Donald-Trump-Judge-Cannon-Jack-Smith--205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-to-hear-arguments-on-lawfulness-of-jack-smith-appointment-5669979)
+* [Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://www.theepochtimes.com/us/mayorkas-responds-to-growing-public-support-for-mass-deportation-of-illegal-immigrants-5671495)
     
-    8hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Hung Cao Wins Virginia Senate GOP Primary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hung Cao Wins Virginia Senate GOP Primary](https://img.theepochtimes.com/assets/uploads/2022/09/18/01-DSC06314-Hung-Cao-205x123.jpg.webp)](https://www.theepochtimes.com/us/hung-cao-wins-virginia-senate-gop-primary-5671035)
-* [GOP Lawmakers File Legislation to Exempt Tips From Federal Taxes](https://www.theepochtimes.com/us/gop-representatives-file-legislation-to-exempt-tips-from-federal-taxes-5670849)
+    ![Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://img.theepochtimes.com/assets/uploads/2024/04/17/id5631284-Mayorkas-GettyImages-2148177662-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mayorkas-responds-to-growing-public-support-for-mass-deportation-of-illegal-immigrants-5671495)
+* [Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://www.theepochtimes.com/world/biden-admin-moves-ukraine-to-front-of-line-for-air-defense-missiles-5672231)
     
-    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![GOP Lawmakers File Legislation to Exempt Tips From Federal Taxes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![GOP Lawmakers File Legislation to Exempt Tips From Federal Taxes](https://img.theepochtimes.com/assets/uploads/2024/06/18/id5671060-GettyImages-1241079913KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/gop-representatives-file-legislation-to-exempt-tips-from-federal-taxes-5670849)
-* [Boeing CEO Regrets Door Panel Blowout, Says Company ‘Took Responsibility’ for Incidents](https://www.theepochtimes.com/us/boeing-ceo-regrets-door-panel-blowout-says-company-took-responsibility-for-incidents-5670810)
+    ![Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672441-missiles-OP-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-admin-moves-ukraine-to-front-of-line-for-air-defense-missiles-5672231)
+* [‘M\*A\*S\*H’ Actor Donald Sutherland Dies at 88](https://www.theepochtimes.com/entertainment/mash-actor-donald-sutherland-dies-at-88-post-5672320)
     
-    11hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Boeing CEO Regrets Door Panel Blowout, Says Company ‘Took Responsibility’ for Incidents](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![‘M*A*S*H’ Actor Donald Sutherland Dies at 88](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Boeing CEO Regrets Door Panel Blowout, Says Company ‘Took Responsibility’ for Incidents](https://img.theepochtimes.com/assets/uploads/2024/06/18/id5671063-calhoanKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/boeing-ceo-regrets-door-panel-blowout-says-company-took-responsibility-for-incidents-5670810)
+    ![‘M*A*S*H’ Actor Donald Sutherland Dies at 88](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672399-96859cb44f8b7613540f6a706700c657-OP-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/mash-actor-donald-sutherland-dies-at-88-post-5672320)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
