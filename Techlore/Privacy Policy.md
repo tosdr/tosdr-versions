@@ -83,7 +83,7 @@ This document is CC-BY-SA. It was last updated January 7, 2024.
 
 * [Home](https://discuss.techlore.tech/)
 * [Categories](https://discuss.techlore.tech/categories)
-* [FAQ/Guidelines](https://discuss.techlore.tech/guidelines)
+* [Guidelines](https://discuss.techlore.tech/guidelines)
 * [Terms of Service](https://discuss.techlore.tech/tos)
 * [Privacy Policy](https://discuss.techlore.tech/privacy)
 
