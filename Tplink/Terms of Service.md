@@ -196,6 +196,12 @@ Where to Buy
     * [Accessories](https://www.kasasmart.com/us/business-networking/omada/accessory/)
     * [All Products](https://www.kasasmart.com/us/business-networking/all-omada/)
     
+    [](https://www.kasasmart.com/us/landing/festa/)
+    
+    [Festa](https://www.kasasmart.com/us/landing/festa/)
+    
+    The Networking Solution Built for Small Businesses and Prosumers
+    
     [](https://www.kasasmart.com/us/business-networking/all-omada-pro/)
     
     [Omada Pro](https://www.kasasmart.com/us/business-networking/all-omada-pro/)
@@ -420,6 +426,8 @@ Where to Buy
             
         * [All Products](https://www.kasasmart.com/us/business-networking/all-omada/)
             
+        
+    * [Festa](https://www.kasasmart.com/us/landing/festa/)
         
     * Omada Pro
         
