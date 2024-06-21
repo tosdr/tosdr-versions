@@ -5,12 +5,7 @@
 
 * **Summer Hours**
     
-    On Thursday, June 20, we will implement a new summer hours schedule. Learn more at [www.spl.org/SummerHours](https://www.spl.org/SummerHours).
-    
-
-* **The Seattle Public Library Is Closed On Juneteenth**
-    
-    All locations of The Seattle Public Library and book returns at the Central Library will be closed on Juneteenth, Wednesday, June 19.
+    We have introduced a new summer hours schedule. See current hours at [www.spl.org/hours](https://www.spl.org/hours).
     
 
 [Skip to Main Content](https://www.spl.org/about-us/policies/confidentiality-of-patron-information#main-content)
