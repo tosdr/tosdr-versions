@@ -791,21 +791,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
 * [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
 * [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
 
 Fußbereich
 
@@ -3774,59 +3774,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
 * [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
 * [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
 * [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
 * [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
 
 Neueste Tests
 
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
 * [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
 * [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Sonnen­schutz­mittel im Test: Nur die Hälfte lässt jubeln](https://www.test.de/Test-Sonnencreme-und-Sonnenspray-fuer-Erwachsene-4868984-0/ "Sonnenschutzmittel im Test - Nur die Hälfte lässt jubeln")
 
 test.de entdecken
 
-* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
-* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6125254-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Neuheit: OLED-Fernseher jetzt auch in 42 Zoll](https://www.test.de/Neuheit-OLED-Fernseher-jetzt-auch-in-42-Zoll-5911059-0/ "Neuheit - OLED-Fernseher jetzt auch in 42 Zoll")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
 
 Service Stiftung Warentest
 
