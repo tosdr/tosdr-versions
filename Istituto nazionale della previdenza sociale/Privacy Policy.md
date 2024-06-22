@@ -1899,9 +1899,9 @@ Ti piace il portale?
 Sedi e Contatti [Apri il menu Sedi e Contatti](#collapse-help)
 --------------------------------------------------------------
 
-* [Trova la Sede](https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede.html "Trova la Sede")
-* [Contact Center Multicanale](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center-multicanale.html "Contact Center Multicanale")
+* [Contact Center](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center.html "Contact Center")
 * [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html "Mappa del sito")
+* [Trova la Sede](https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede.html "Trova la Sede")
 
 Software [Apri il menu Software](#collapse-software)
 ----------------------------------------------------
