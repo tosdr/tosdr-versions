@@ -316,6 +316,12 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![Außenansicht des Kinderhauses Hentruper Mühle](/sites/default/files/styles/thumbnail/public/images/kinderhaus-hentruper-muehle-aussenansicht-10.jpg.webp?itok=5UqWSGif)
+
+News
+
+Das Kinderhaus Hentruper Mühle spart 42 % Heizenergie](https://homematic-ip.com/de/news/das-kinderhaus-hentruper-muehle-spart-42-heizenergie)
+
  [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_update-news.jpg.webp?itok=JHs0tuvp)
 
 News
