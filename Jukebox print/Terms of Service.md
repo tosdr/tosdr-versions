@@ -533,7 +533,6 @@ If a court of competent jurisdiction determines that any part of these Service T
 
 * [Contact Us](https://www.jukeboxprint.com/contact)
 * [Custom Quotes](https://www.jukeboxprint.com/quote)
-* [Knowledge Center](https://support.jukeboxprint.com/hc/en-us)
 * [Account Center](https://www.jukeboxprint.com/customer/orders/current)
 * [Status](https://status.jukeboxprint.com/)
 
