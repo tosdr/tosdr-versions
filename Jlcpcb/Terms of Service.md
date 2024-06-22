@@ -23,8 +23,6 @@ My Messages
 
 My Coupons
 
-My Account
-
 Sign in
 
 JLCPCB Help Center
