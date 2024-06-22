@@ -28,11 +28,10 @@
 
 [iRobot® Bundles](http://www.irobot.com/en_US/bundles.html)
 
-[Shop More](#)
+Shop More
 
-[iRobot Educational Robots](https://www.irobot.com/en_US/root.html)
-
-[Compare Products](https://www.irobot.com/en-US/comparison-chart.html)
+* [iRobot Educational Robots](https://www.irobot.com/en_US/root.html)
+* [Compare Products](https://www.irobot.com/en-US/comparison-chart.html)
 
 [Accessories](#)
 
@@ -56,13 +55,11 @@
 
 [Accessory Refill Kits](https://www.irobot.com/en_US/us/accessory-refill-kits)
 
-[Elevate your clean](#)
+Elevate your clean
 
-[Replacement Dirt Disposal Bags, 3-Pack](https://www.irobot.com/en_US/replacement-dirt-disposal-bags%2C-3-pack/4640235.html)
-
-[Bona® Hard Surface Floor Cleaner](https://www.irobot.com/en_US/bona-hard-surface-floor-cleaner/4749576.html)
-
-[Roomba® Replenishment Kit for j & i Series](https://us.stgirobot.com/en_US/irobot-roomba-replenishment-kit-for-j-and-i-series/4757964.html)
+* [Replacement Dirt Disposal Bags, 3-Pack](https://www.irobot.com/en_US/replacement-dirt-disposal-bags%2C-3-pack/4640235.html)
+* [Bona® Hard Surface Floor Cleaner](https://www.irobot.com/en_US/bona-hard-surface-floor-cleaner/4749576.html)
+* [Roomba® Replenishment Kit for j & i Series](https://us.stgirobot.com/en_US/irobot-roomba-replenishment-kit-for-j-and-i-series/4757964.html)
 
 [Offers](#)
 
@@ -74,11 +71,10 @@
 
 [Bundle & Save](https://www.irobot.com/en_US/bundles.html)
 
-[Find your match](#)
+Find your match
 
-[Find your robot](https://www.irobot.com/en_US/help-me-choose.html)
-
-[Compare Products](https://www.irobot.com/en-US/comparison-chart.html)
+* [Find your robot](https://www.irobot.com/en_US/help-me-choose.html)
+* [Compare Products](https://www.irobot.com/en-US/comparison-chart.html)
 
 [Why iRobot](#)
 
@@ -94,13 +90,11 @@
 
 [Smart Home Innovation](https://about.irobot.com/smart-home)
 
-[Learn more](#)
+Learn more
 
-[P.O.O.P Promise](https://www.irobot.com/en_US/pet-promise.html)
-
-[STEM Education](http://edu.irobot.com/)
-
-[Blog](https://blog.irobot.com/)
+* [P.O.O.P Promise](https://www.irobot.com/en_US/pet-promise.html)
+* [STEM Education](http://edu.irobot.com/)
+* [Blog](https://blog.irobot.com/)
 
 **The iRobot Corporation Cookie and Privacy Policy**
 ====================================================
