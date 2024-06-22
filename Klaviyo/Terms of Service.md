@@ -1,10 +1,10 @@
   
 
-[](https://community.klaviyo.com/events/origin-story-fireside-chat-with-gabrielle-pitman-218)
+[](https://community.klaviyo.com/events/klaviyo-ai-roadmap-reveal-211)
 
-Origin Story Fireside Chat with Gabrielle Pitman
+Klaviyo AI: Roadmap Reveal
 
-(Tue, 23 Jul, 4:00 pm)
+(Wed, 12 Jun, 6:00 pm)
 
 * [Home](https://community.klaviyo.com/)
 * Terms
