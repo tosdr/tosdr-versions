@@ -1,4 +1,4 @@
-[![ID Watchdog logo, ID Watchdog registered from Equifax, link to homepage, visited link](//assets.equifax.com/idw/images/global/idw_logo_176x45.png)](https://idwatchdog.com/)
+[![ID Watchdog logo, ID Watchdog registered from Equifax, link to homepage, visited link](https://assets.equifax.com/idw/images/global/idw_logo_176x45.png)](https://www.idwatchdog.com/)
 
 * [Consumer](https://www.idwatchdog.com/home)
     * [Compare Products](https://www.idwatchdog.com/identity-theft-protection-comparison)
