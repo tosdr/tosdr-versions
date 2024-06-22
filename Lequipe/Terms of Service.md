@@ -367,169 +367,169 @@ Les commentaires ont été désactivés.
 
 filtrer : tous les sports
 
-[22:36
+[09:45
+
+Tennis,
+
+ATP
+
+Djokovic déjà de retour à l'entraînement](https://www.lequipe.fr/Tennis/Actualites/Novak-djokovic-de-retour-a-l-entrainement-a-un-peu-plus-d-une-semaine-de-wimbledon/1476636 "Djokovic déjà de retour à l'entraînement")
+
+[09:35
+
+Euro 2024,
+
+Bleus
+
+Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»](https://www.lequipe.fr/Football/Article/Le-debrief-de-rudi-garcia-apres-le-match-nul-de-l-equipe-de-france-les-bleus-inspirent-la-crainte-meme-sans-mbappe/1476632 "Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»")
+
+[09:34
 
 Rugby,
 
 Top 14,
 
-Toulouse
+La Rochelle
 
-Les deux essais de Dupont en vidéo](https://www.lequipe.fr/Rugby/Actualites/Les-deux-essais-d-antoine-dupont-en-finale-du-top-14-en-video/1478380 "Les deux essais de Dupont en vidéo")
+Jégou : «C'est triste»](https://www.lequipe.fr/Rugby/Actualites/Oscar-jegou-apres-toulouse-la-rochelle-c-est-triste/1476634 "Jégou : «C'est triste»")
 
-[22:26
+[09:32
+
+Hockey,
+
+Coupe Continentale
+
+Grenoble face à Aalborg et Katowice](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Grenoble-face-a-aalborg-et-katowice-en-coupe-continentale/1476633 "Grenoble face à Aalborg et Katowice")
+
+[09:30
+
+Euro 2024,
+
+Turquie
+
+Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»](https://www.lequipe.fr/Football/Article/Orkun-kokcu-turquie-j-ai-reve-avec-la-generation-doree-de-l-euro-2008/1476624 "Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»")
+
+[09:00
+
+Prix Richard Martin 2024
+
+Participez au grand concours international de photos de sport de L'Équipe](https://www.lequipe.fr/landing/prix-richard-martin/ "Participez au grand concours international de photos de sport de L'Équipe")
+
+[08:59
+
+Rugby,
+
+Top 14
+
+Stade Français, une saison pleine de secousses](https://www.lequipe.fr/Rugby/Article/Stade-francais-une-saison-pleine-de-secousses-avant-la-demi-finale-du-top-14-face-a-bordeaux-begles/1476494 "Stade Français, une saison pleine de secousses")
+
+[08:58
+
+Hockey,
+
+TQO (H)
+
+Les dates de la préparation des Bleus](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-dates-de-la-preparation-de-l-equipe-de-france-avant-le-tqo-des-jeux-2026/1476629 "Les dates de la préparation des Bleus")
+
+[08:56
 
 Foot,
 
-Transferts
+Copa America
 
-Maatsen à Aston Villa pour 44,5 millions d'euros](https://www.lequipe.fr/Football/Actualites/Ian-maatsen-signe-a-aston-villa-pour-44-5-millions-d-euros/1478378 "Maatsen à Aston Villa pour 44,5 millions d'euros")
+Le Chili tenu en échec par le Pérou](https://www.lequipe.fr/Football/Actualites/Le-chili-tenu-en-echec-par-le-perou-a-la-copa-america/1476628 "Le Chili tenu en échec par le Pérou")
 
-[22:25
+[08:55
 
-Euro 2024,
+Cyclisme,
 
-Bleus
+Championnat de France
 
-Mais où est passé Coman ?](https://www.lequipe.fr/Football/Article/Pourquoi-kingsley-coman-traverse-pour-l-instant-l-euro-dans-un-relatif-anonymat/1478241 "Mais où est passé Coman ?")
+Laporte peut-il gagner tout seul ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/Malgre-une-malchance-tenace-en-2024-christophe-laporte-reve-d-une-victoire-en-solitaire/1476532 "Laporte peut-il gagner tout seul ?")
 
-[22:22
+[08:54
 
-Athlé,
+Euro 2024
 
-Championnats de France
+Les supporters des Bleus ont été à la hauteur](https://www.lequipe.fr/Football/Actualites/En-inferiorite-numerique-les-supporters-francais-ont-rivalise-avec-les-neerlandais/1476627 "Les supporters des Bleus ont été à la hauteur")
 
-Ce qu'il faut retenir de la première journée](https://www.lequipe.fr/Athletisme/Actualites/Pablo-mateo-yann-schrub-rose-loga-ce-qu-il-faut-retenir-de-la-premiere-journee-des-championnats-de-france-d-athletisme/1478377 "Ce qu'il faut retenir de la première journée")
+[08:51
 
-[22:15
+Golf,
 
-La sélection du week-end
+PGA Championship (F)
 
-Sinner, Risacher, Lemaitre : les immanquables](https://www.lequipe.fr/collection/series/serie/la-selection-du-weekend/ "Sinner, Risacher, Lemaitre : les immanquables")
+Schmelzel et Yang en tête, Boutier 12e](https://www.lequipe.fr/Golf/Actualites/Schmelzel-et-yang-en-tete-boutier-12e-du-kpmg-women-s-pga-championship/1476626 "Schmelzel et Yang en tête, Boutier 12e")
 
-[22:10
-
-Euro 2024,
-
-Italie
-
-Quand le minutieux Spalletti doit faire à la va-vite](https://www.lequipe.fr/Football/Article/Amateur-du-beau-jeu-luciano-spalletti-doit-faire-avec-un-timing-resserre-a-la-tete-de-l-italie/1478369 "Quand le minutieux Spalletti doit faire à la va-vite")
-
-[22:06
+[08:41
 
 JO 2024,
 
-Tennis de table
+Tennis
 
-La France affrontera l'Égypte en match de préparation](https://www.lequipe.fr/Jo-2024-paris/Tennis-de-table/Actualites/L-equipe-de-france-de-tennis-de-table-affrontera-l-egypte-en-match-de-preparation/1478367 "La France affrontera l'Égypte en match de préparation")
+Les doubles tricolores dans l'inconnu](https://www.lequipe.fr/Jo-2024-paris/Tennis/Article/Contraints-a-des-paires-inedites-les-doubles-tricolores-dans-l-inconnu-aux-jo-de-paris/1476561 "Les doubles tricolores dans l'inconnu")
 
-[21:56
+[08:40
 
-Rugby,
+Natation,
 
-Bleus
+États-Unis,
 
-Etien : «C'est important d'aller voter»](https://www.lequipe.fr/Rugby/Actualites/Lester-etien-ailier-du-xv-de-france-c-est-important-d-aller-voter-aux-elections-legislatives/1478364 "Etien : «C'est important d'aller voter»")
+Trials
 
-[21:55
+Dressel impressionne sur 50m et défendra son titre aux JO](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/Apres-son-echec-sur-100-m-caeleb-dressel-se-qualifie-sur-50-m-pour-les-jo-de-paris-et-defendra-son-titre/1476625 "Dressel impressionne sur 50m et défendra son titre aux JO")
 
-Tour de France
+[08:30
 
-Nos favoris pour le Tour 2024](https://www.lequipe.fr/Cyclisme-sur-route/Article/Nos-favoris-pour-le-classement-general-du-tour-de-france-2024/1478205 "Nos favoris pour le Tour 2024")
+JO,
 
-[21:50
+Boxe
 
-JO 2024
+Tout savoir sur Amina Zidani](https://www.lequipe.fr/Boxe/Fiche-guide/Athlete/Amina-zidani/58 "Tout savoir sur Amina Zidani")
 
-Quelles épreuves à Lyon ?](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Quelles-epreuves-des-jeux-olympiques-de-paris-2024-ont-lieu-a-lyon/1478209 "Quelles épreuves à Lyon ?")
-
-[21:45
-
-Rallye,
-
-WRC,
-
-Pologne
-
-Mikkelsen mène le bal](https://www.lequipe.fr/Rallye/Actualites/Andreas-mikkelsen-leader-d-un-rallye-de-pologne-perturbe-par-les-spectateurs/1478267 "Mikkelsen mène le bal")
-
-[21:45
+[08:27
 
 Euro 2024,
 
-Bleus
+Bleus,
 
-Griezmann, titulaire et dans son meilleur rôle ?](https://www.lequipe.fr/Football/Article/Griezmann-de-nouveau-titulaire-pour-france-belgique-et-dans-son-meilleur-role/1478304 "Griezmann, titulaire et dans son meilleur rôle ?")
+Tactique
 
-[21:42
+Deschamps obtient ce qu'il cherche](https://www.lequipe.fr/Football/Article/Le-debrief-tactique-de-pays-bas-france-deschamps-obtient-ce-qu-il-cherche/1476613 "Deschamps obtient ce qu'il cherche")
 
-Foot,
+[08:23
 
-Transferts
+Euro 2024
 
-Ismaël Koné, première recrue de l'OM](https://www.lequipe.fr/Football/Actualites/Ismael-kone-premiere-recrue-du-mercato-pour-l-om/1478360 "Ismaël Koné, première recrue de l'OM")
+Le onze des «papis»](https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-giroud-modric-le-onze-des-papis-de-l-euro-2024/1476572 "Le onze des «papis»")
 
-[21:35
+[08:13
 
-Euro 2024,
+JO 2024,
 
-Italie
+Natation
 
-Fagioli à la place de Jorginho face à la Suisse ?](https://www.lequipe.fr/Football/Actualites/Italie-nicolo-fagioli-titulaire-a-la-place-de-jorginho-face-a-la-suisse/1478356 "Fagioli à la place de Jorginho face à la Suisse ?")
+Quelles ambitions pour les Bleus ?](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/Marchand-manaudou-grousset-quelles-ambitions-pour-les-nageurs-bleus-aux-jo-de-paris/1476549 "Quelles ambitions pour les Bleus ?")
 
-[21:34
-
-Podcast,
-
-De notre envoyé(e) spécial(e)
-
-Le fiasco du tennis français à Rio 2016](https://www.lequipe.fr/collection/podcasts/serie/de-notre-envoye-special/ "Le fiasco du tennis français à Rio 2016")
-
-[21:33
-
-Rugby,
-
-Bleus
-
-Six nouveaux pressentis contre les Pumas](https://www.lequipe.fr/Rugby/Actualites/Six-nouveaux-pressentis-avec-les-bleus-contre-les-pumas/1478355 "Six nouveaux pressentis contre les Pumas")
-
-[21:11
-
-Volley,
-
-Ligue des nations (H),
-
-Bleus
-
-Giani : «Le groupe a pris ses responsabilités»](https://www.lequipe.fr/Volley-ball/Actualites/Andrea-giani-selectionneur-de-l-equipe-de-france-apres-la-victoire-face-a-l-italie-en-ligue-des-nations-le-groupe-a-pris-ses-responsabilites/1478351 "Giani : «Le groupe a pris ses responsabilités»")
-
-[21:10
+[08:12
 
 Euro 2024,
 
-Suisse
+Roumanie
 
-Dan Ndoye, d'anonyme de L1 à star de la Nati](https://www.lequipe.fr/Football/Article/Passe-par-nice-et-la-ligue-1-lance-par-patrick-vieira-revele-par-thiago-motta-dan-ndoye-le-joueur-qui-monte-avec-la-nati/1478223 "Dan Ndoye, d'anonyme de L1 à star de la Nati")
+Stanciu, capitaine abandonné](https://www.lequipe.fr/Football/Actualites/Nicolae-stanciu-un-capitaine-fache-avec-les-supporters-mais-apprecie-par-ses-coequipiers/1476466 "Stanciu, capitaine abandonné")
 
-[21:07
+[08:12
 
-Euro 2024,
+Athlé,
 
-Suisse
+Perche
 
-Sommer : «L'Italie est la favorite»](https://www.lequipe.fr/Football/Actualites/Yann-sommer-suisse-l-italie-est-la-favorite-du-huitieme-de-finale-de-l-euro-2024/1478349 "Sommer : «L'Italie est la favorite»")
-
-[20:58
-
-Rugby,
-
-Pro D2
-
-Eduard Coetzee successeur de Xavier Ric à Brive ?](https://www.lequipe.fr/Rugby/Actualites/Eduard-coetzee-successeur-de-xavier-ric-pour-devenir-directeur-general-de-brive/1478347 "Eduard Coetzee successeur de Xavier Ric à Brive ?")
+Collet, un record mais toujours plus d'ambitions](https://www.lequipe.fr/Athletisme/Actualites/Pour-thibaut-collet-un-nouveau-record-mais-toujours-plus-d-ambitions/1476530 "Collet, un record mais toujours plus d'ambitions")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/700/covers/Preview-MEDIUM-34136.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/691/covers/Preview-MEDIUM-33576.jpg?v=4)
 
 lire l'édition
 
@@ -537,7 +537,6 @@ réglages accessibilité
 
 * [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
 * [Euro 2024](https://www.lequipe.fr/Football/Euro/)
-* [Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
 * [Copa America](https://www.lequipe.fr/Football/Copa-america/)
 
 * [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
@@ -580,7 +579,6 @@ réglages accessibilité
     
 * [handball](https://www.lequipe.fr/Handball/)
     
-* [Jeux olympiques](https://www.lequipe.fr/Jo/)
 * [golf](https://www.lequipe.fr/Golf/)
     
 * [combat](https://www.lequipe.fr/Sports-de-combat/)
@@ -592,7 +590,8 @@ réglages accessibilité
 * [médias](https://www.lequipe.fr/Medias/)
 * [dopage](https://www.lequipe.fr/Dopage/)
 * [coaching](https://www.lequipe.fr/Coaching/)
-* [aviron](https://www.lequipe.fr/Aviron/)
+* [Jeux olympiques](https://www.lequipe.fr/Jo/)
+* [Jeux paralympiques](https://www.lequipe.fr/Jeux-Paralympiques/)
 * les autres sports de A à Z...
 
 * accès rapide
@@ -647,14 +646,6 @@ réglages accessibilité
 
 liens rapides
 
-Tour de France 2024
-
-* [l'actu du Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
-* [classement général](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-classement-individuel/general)
-* [parcours du Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1478123)
-* [Tadej Pogacar](https://www.lequipe.fr/Cyclisme-sur-route/CyclismeFicheCoureur12983.html)
-* [Jonas Vingegaard](https://www.lequipe.fr/Cyclisme-sur-route/CyclismeFicheCoureur12320.html)
-
 [Euro 2024 (foot)](https://www.lequipe.fr/Football/Euro/)
 
 * [Kylian Mbappé](https://www.lequipe.fr/Football/Kylian-mbappe/)
@@ -673,7 +664,7 @@ Jeux Olympiques
 
 [Tour de France 2024](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
 
-* [Parcours détaillé du Tour de France 2024](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1478123)
+* [Parcours détaillé du Tour de France 2024](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1475115)
 * [Classement Tour de France 2023](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-classement-individuel/general)
 * [tour de france en direct](https://www.lequipe.fr/Cyclisme-sur-route/Directs/)
 * [Résultats par étape](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-calendrier-resultats)
@@ -721,7 +712,7 @@ Jeux Olympiques
 [cyclisme](https://www.lequipe.fr/Cyclisme/)
 
 * [calendrier](https://www.lequipe.fr/Cyclisme-sur-route/uci/page-calendrier-saison)
-* [Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1478123)
+* [Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1475115)
 * [Giro](https://www.lequipe.fr/Cyclisme-sur-route/Tour-d-italie/)
 * [Vuelta](https://www.lequipe.fr/Cyclisme-sur-route/Tour-d-espagne/)
 
