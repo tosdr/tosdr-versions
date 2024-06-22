@@ -114,7 +114,7 @@
 
 [All Templates](https://forms.app/en/templates)
 
-Try without registration [Quick Start](https://forms.app/myforms?create=true)
+Try without registration [Quick Start](https://forms.app/formtemplate)
 
 [![](/assets/img/blog-resources.svg)
 
