@@ -179,6 +179,7 @@ This Privacy Policy was updated June 5, 2024.
 * [Group Rates](https://groups.guestreservations.com/Group-Rate/ "Group Rates")
 * [Weddings](https://groups.guestreservations.com/Group-Rate/?GroupType=150&sc=GRes_Weddings "Weddings")
 * [Extended Stay](https://groups.guestreservations.com/Group-Rate/?es=1 "Extended Stay")
+* [Privacy Choices](https://www.guestreservations.com/about/privacy/donotsell "Privacy Choices")
 
 ×
 
