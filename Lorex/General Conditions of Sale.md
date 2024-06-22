@@ -104,6 +104,9 @@ triangle borderless
     
     [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
     
+    [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
+    
+* [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=main_menu&utm_campaign=cloud_storage)
 * Deals arrow right
     
     arrow left Back
@@ -124,6 +127,7 @@ triangle borderless
     * [Lorex App](https://www.lorex.com/pages/lorex-home-app)
     * [Lorex Fusion](https://www.lorex.com/pages/fusion)
     * [Fusion Wireless](https://www.lorex.com/pages/wireless-fusion)
+    * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions)
     * [Video Doorbells](https://www.lorex.com/collections/doorbells)
     * [4K Wi-Fi HaLow](https://www.lorex.com/pages/halow)
     * [Pet Cameras](https://www.lorex.com/pages/pet-monitor-solutions)
@@ -320,6 +324,7 @@ Your cart is empty
     * [Other Security Solutions](https://www.lorex.com/collections/other-security-solutions)
     * [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     * [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
+    * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
     
     [![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_x150.png?v=1708619171)
     
@@ -520,6 +525,11 @@ Your cart is empty
     
     [](https://www.lorex.com/pages/bundle-builder)
     
+    Lorex Cloud Storage is a safer place for your footage, providing double protection and back-up for your recordings.
+    
+    [](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
+    
+* [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=main_menu&utm_campaign=cloud_storage)
 * [Deals arrow bottom](https://www.lorex.com/pages/promotions)
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
@@ -542,9 +552,11 @@ Your cart is empty
     
     [Fusion Wireless](https://www.lorex.com/pages/wireless-fusion)
     
-    [Video Doorbells](https://www.lorex.com/collections/doorbells)
+    [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions)
     
     [4K Wi-Fi HaLow](https://www.lorex.com/pages/halow)
+    
+    [Video Doorbells](https://www.lorex.com/collections/doorbells)
     
     [Pet Cameras](https://www.lorex.com/pages/pet-monitor-solutions)
     
@@ -805,6 +817,7 @@ arrow bottom
 
 * [Smart Home Solutions](https://www.lorex.com/pages/smarthome)
 * Lorex for Business tail right
+* [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions)
 * [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
 * [Build Your Own Bundle](https://www.lorex.com/pages/bundle-builder)
 * [Corporate Purchasing](https://pro.lorex.com/pages/corporate-purchasing)
