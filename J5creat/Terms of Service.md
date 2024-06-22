@@ -83,6 +83,7 @@
 * [Wireless Chargers](https://en.j5create.com/collections/wireless-chargers)
 * [Charging Cables](https://en.j5create.com/collections/charging-cables)
 
+* [Power Bank](https://en.j5create.com/collections/power-bank)
 * [Video Capture](https://en.j5create.com/collections/video-capture)
 
 [Stands](https://en.j5create.com/collections/stands)
@@ -209,6 +210,7 @@ FREE US SHIPPING on all orders $75+
         * [Car Chargers](https://en.j5create.com/collections/car-chargers)
         * [Wireless Chargers](https://en.j5create.com/collections/wireless-chargers)
         * [Charging Cables](https://en.j5create.com/collections/charging-cables)
+    * [Power Bank](https://en.j5create.com/collections/power-bank)
     * [Video Capture](https://en.j5create.com/collections/video-capture)
     * [Stands](https://en.j5create.com/collections/stands)
         * [Monitor Stands](https://en.j5create.com/collections/monitor-stands)
