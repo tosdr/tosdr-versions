@@ -36,7 +36,7 @@
     * [Arts](https://www.latimes.com/topic/arts)
     * [Books](https://www.latimes.com/entertainment-arts/books)
     * [Stand-Up Comedy](https://www.latimes.com/topic/comedy)
-    * [Company Town](https://www.latimes.com/entertainment-arts/business)
+    * [Hollywood Inc.](https://www.latimes.com/entertainment-arts/business)
     * [The Envelope (Awards)](https://www.latimes.com/entertainment-arts/awards)
     * [Movies](https://www.latimes.com/entertainment-arts/movies)
     * [Music](https://www.latimes.com/entertainment-arts/music)
