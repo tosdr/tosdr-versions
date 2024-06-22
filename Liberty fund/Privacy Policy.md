@@ -63,10 +63,6 @@
         
     * [Calendar of Events](https://www.libertyfund.org/about/calendar-of-events/)
     * [The George F. Will Award](https://www.libertyfund.org/about/george-will-award/)
-* [Podcasts](https://www.libertyfund.org/podcasts/)
-    * [Econtalk](https://www.econtalk.org/)
-    * [Future Of Liberty](https://www.libertyfund.org/podcasts/future-of-liberty/)
-    * [Law and Liberty](https://lawliberty.org/podcasts/)
 * [Help](https://www.libertyfund.org/customer-service/)
     * [Customer Support](https://www.libertyfund.org/customer-service/)
     * [Full Catalog](https://www.libertyfund.org/customer-service/full-catalog/)
@@ -420,7 +416,7 @@ Stay connected with Liberty Fund’s quarterly newsletter featuring the latest n
     
 * Email\*
     
-* Name
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
