@@ -1259,10 +1259,21 @@ Copyright © 2024, Internxt Universal Technologies SL
 
 [![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-![Internxt's spring sale](/_next/image?url=%2Fimages%2Fcampaigns%2Feuro%2Fbanner.webp&w=384&q=75)
+![Internxt's spring sale](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcampaigns%2Feuro%2Fbanner.webp&w=384&q=75)
 
 Save 75%
 
 Kick off your privacy journey!
 
 Choose plan
+
+Get 75% OFF all our Premium Plans
+---------------------------------
+
+Special offer: store files in privacy for less
+
+Get the dealContinue with free plan
+
+30-day money-back guarantee
+
+![Free Card Promo Banner](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fbanners%2FfreeCardPromoBanner%2Fimage_internxt.webp&w=1080&q=75)
