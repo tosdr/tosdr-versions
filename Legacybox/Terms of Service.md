@@ -2,7 +2,7 @@
 
             
 
-![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/526/assets/placeholder-pixel.png?v=50439485113009717681718858245)
+![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
 
 NO TIME TO WASTE... $9 TAPES ARE ON! $9 TAPES (REG. ~$27.50~). THAT'S 60% OFF! Plus, get an extra 10% off with code GETLB10
 
