@@ -117,25 +117,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Destiny Livingstone and Kasey Haag](https://lawandcrime.com/wp-content/uploads/2024/06/Destiny-Livingstone-Kasey-Haag-432x243.jpg)](https://lawandcrime.com/crime/after-u-haul-van-takes-plunge-into-grandfathers-pool-fully-clothed-woman-claims-she-was-just-out-here-swimming-after-2-a-m/)
+1. [![Hunter Biden, Garrett Ziegler](https://lawandcrime.com/wp-content/uploads/2024/03/Hunter-Biden-Garrett-Ziegler-432x243.jpg)](https://lawandcrime.com/lawsuit/judge-rules-trump-wh-policy-analyst-turned-biden-laptop-report-poster-must-face-hunters-hacking-lawsuit-after-failed-recusal-bid/)
     
-    ### [After U-Haul van takes plunge into grandfather's pool, fully clothed woman claims she was just 'out here swimming' after 2 a.m.](https://lawandcrime.com/crime/after-u-haul-van-takes-plunge-into-grandfathers-pool-fully-clothed-woman-claims-she-was-just-out-here-swimming-after-2-a-m/)
+    ### [Judge rules Trump WH policy analyst turned 'Biden Laptop Report' poster must face Hunter's 'hacking' lawsuit after failed recusal bid](https://lawandcrime.com/lawsuit/judge-rules-trump-wh-policy-analyst-turned-biden-laptop-report-poster-must-face-hunters-hacking-lawsuit-after-failed-recusal-bid/)
     
-2. [![Background: This photo shows the Flag Super Power Building owned by the Church of Scientology in Clearwater, Fla., Saturday, Nov. 21, 2020. (AP Photo/Steve Helber)./ Inset: Whitney Mills. Photo via Facebook.](https://lawandcrime.com/wp-content/uploads/2024/06/whitney-mills-1-432x243.jpg)](https://lawandcrime.com/high-profile/church-of-scientology-ignored-womans-very-real-psychosis-stopped-her-from-receiving-mental-health-care-before-suicide-lawsuit-claims/)
+2. [![Jamie Komoroski, on the left; Aric Hutchinson and Samantha Miller, on the right](https://lawandcrime.com/wp-content/uploads/2023/05/Jamie-Komoroski-432x243.jpg)](https://lawandcrime.com/high-profile/husband-of-bride-killed-by-alleged-drunk-driver-after-wedding-reception-reaches-1-37-million-wrongful-death-settlement-with-local-bars-and-other-businesses/)
     
-    ### [Church of Scientology ignored woman’s ‘very real psychosis,’ stopped her from receiving mental health care before suicide, lawsuit claims](https://lawandcrime.com/high-profile/church-of-scientology-ignored-womans-very-real-psychosis-stopped-her-from-receiving-mental-health-care-before-suicide-lawsuit-claims/)
+    ### [Husband of bride killed by alleged drunk driver after wedding reception reaches $1.37 million wrongful death settlement with local bars and other businesses](https://lawandcrime.com/high-profile/husband-of-bride-killed-by-alleged-drunk-driver-after-wedding-reception-reaches-1-37-million-wrongful-death-settlement-with-local-bars-and-other-businesses/)
     
-3. [![Devon Blair appears inset on the left; Brooke Devinney appears inset on the right, the main image shows the house where she was killed in June 2024](https://lawandcrime.com/wp-content/uploads/2024/06/Blair-Devinney-432x243.jpg)](https://lawandcrime.com/crime/give-me-a-bond-so-i-can-get-out-of-here-obstinate-defendant-demands-pretrial-release-after-allegedly-beating-pregnant-mother-of-his-child-to-death-on-fathers-day/)
+3. [![Supreme Court Justice Clarence Thomas](https://lawandcrime.com/wp-content/uploads/2021/04/GettyImages-1232480534-432x243.jpg)](https://lawandcrime.com/supreme-court/justice-thomas-stands-alone-against-major-gun-ruling-disarming-accused-domestic-abusers-puts-at-risk-the-2nd-amendment-rights-of-many-more/)
     
-    ### ['Give me a bond so I can get out of here': Obstinate defendant demands pretrial release after allegedly beating pregnant mother of his child to death on Father's Day](https://lawandcrime.com/crime/give-me-a-bond-so-i-can-get-out-of-here-obstinate-defendant-demands-pretrial-release-after-allegedly-beating-pregnant-mother-of-his-child-to-death-on-fathers-day/)
+    ### [Justice Thomas stands alone against major gun ruling: Disarming accused domestic abusers 'puts at risk the 2nd Amendment rights of many more'](https://lawandcrime.com/supreme-court/justice-thomas-stands-alone-against-major-gun-ruling-disarming-accused-domestic-abusers-puts-at-risk-the-2nd-amendment-rights-of-many-more/)
     
-4. [![Popular post image](https://lawandcrime.com/wp-content/uploads/2024/02/Ana-Knezevich-disappearance-selfies-missing-poster-432x243.jpg)](https://lawandcrime.com/crime/clear-the-court-has-no-jurisdiction-florida-man-accused-of-kidnapping-estranged-wife-in-spain-demands-release-challenges-us-prosecution/)
+4. [![Kuachua Brillion Xiong (Cass County Sheriff's Office) and Joe Biden ((Photo by OLIVIER DOULIERY / AFP)](https://lawandcrime.com/wp-content/uploads/2024/06/Kuachua-Brillion-Xiong-Cass-County-Sheriffs-Office-and-Joe-Biden-Photo-by-OLIVIER-DOULIERY-AFP-432x243.jpg)](https://lawandcrime.com/crime/he-plans-on-dying-while-fighting-evil-demons-at-the-white-house-man-with-carload-of-weapons-and-hit-list-that-included-biden-obama-and-clinton-gets-years-in-prison/)
     
-    ### ['Clear the court has no jurisdiction:' Florida man accused of kidnapping estranged wife in Spain demands release, challenges US prosecution](https://lawandcrime.com/crime/clear-the-court-has-no-jurisdiction-florida-man-accused-of-kidnapping-estranged-wife-in-spain-demands-release-challenges-us-prosecution/)
+    ### ['He plans on dying while fighting evil demons at the White House': Man with carload of weapons and 'hit list' that included Biden, Obama and Clinton gets years in prison](https://lawandcrime.com/crime/he-plans-on-dying-while-fighting-evil-demons-at-the-white-house-man-with-carload-of-weapons-and-hit-list-that-included-biden-obama-and-clinton-gets-years-in-prison/)
     
-5. [![Roger Stone, Aileen Cannon](https://lawandcrime.com/wp-content/uploads/2024/06/Roger-Stone-Aileen-Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/trump-confidant-roger-stone-caught-on-tape-talking-about-mar-a-lago-judge-and-the-real-reason-trial-delays-matter/)
+5. [![Dominick Taylor mug shots](https://lawandcrime.com/wp-content/uploads/2024/06/Dominick-Taylor-432x243.jpg)](https://lawandcrime.com/crime/full-time-caregiver-who-strangled-blind-unable-to-walk-nephew-in-bedroom-and-bought-one-way-amtrak-ticket-from-chicago-wont-get-out-of-prison-now/)
     
-    ### [Trump confidant Roger Stone caught on tape talking about Mar-a-Lago judge and the real reason trial delays matter](https://lawandcrime.com/high-profile/trump-confidant-roger-stone-caught-on-tape-talking-about-mar-a-lago-judge-and-the-real-reason-trial-delays-matter/)
+    ### ['Full-time' caregiver who strangled blind, 'unable to walk' nephew in bedroom and bought one-way Amtrak ticket from Chicago won't get out of prison now](https://lawandcrime.com/crime/full-time-caregiver-who-strangled-blind-unable-to-walk-nephew-in-bedroom-and-bought-one-way-amtrak-ticket-from-chicago-wont-get-out-of-prison-now/)
     
 
 [](http://eepurl.com/c89Jdb)
