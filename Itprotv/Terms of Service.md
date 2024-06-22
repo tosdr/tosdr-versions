@@ -11,8 +11,6 @@ Site navigation
 
 [Individuals](#)
 
-[Pricing](#)
-
 [Catalog](#)
 
 [Resources](https://www.itpro.tv/resources/)
@@ -26,7 +24,7 @@ Binge-worthy cyber and IT certification training.
 
 Stay on top of the dynamic information technology landscape with Cyber & IT training videos, hands-on virtual Skill Labs and IT certification practice tests.
 
-[Individual Pricing](https://www.itpro.tv/individuals/pricing/)[Team Pricing](https://www.itpro.tv/teams/pricing/)
+[Individual Pricing](https://www.itpro.tv/individuals/pricing/)[myACI Learn for Teams](https://www.itpro.tv/myaci-learn/)
 
 7,000+
 
@@ -321,7 +319,7 @@ Train your team
 
 Stay ahead of the curve and future-proof your business with training programs designed for team members.
 
-[ITPro for Teams](https://www.itpro.tv/teams/pricing/)
+[myACI Learn for Teams](https://www.itpro.tv/myaci-learn/)
 
 Channel & Reseller
 
@@ -337,8 +335,7 @@ Learn at your own pace and get your IT certification training.
 
 Business Solutions
 
-* [Corporate Training](https://www.itpro.tv/enterprises/)
-* [myACI Learn — Preview](https://www.itpro.tv/myaci-learn/)
+* [myACI Learn](https://www.itpro.tv/myaci-learn/)
 * [Audit Training](https://www.itpro.tv/auditpro/)
 * [Private Bootcamps](https://www.itpro.tv/live-online-training/)
 * [Channel & Reseller](https://www.itpro.tv/channel-reseller/)
@@ -348,6 +345,7 @@ Content Packages
 
 * [ITPro](https://www.itpro.tv/itpro/)
 * [AuditPro](https://www.itpro.tv/auditpro/)
+* [Cyberskills](https://www.itpro.tv/cyberskills/)
 
 Company
 
