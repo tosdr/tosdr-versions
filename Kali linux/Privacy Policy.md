@@ -20,7 +20,7 @@
     
 * About
     
-    [Kali Linux Overview](https://www.kali.org/features/) [Press Pack](https://gitlab.com/kalilinux/documentation/press-pack/-/archive/main/press-pack-main.zip) [Meet The Kali Team](https://www.kali.org/about-us/) [Partnerships](https://www.kali.org/partnerships/) [Contact Us](https://www.kali.org/contact/)
+    [Kali Linux Overview](https://www.kali.org/features/) [Press Pack](https://gitlab.com/kalilinux/documentation/press-pack/-/archive/main/press-pack-main.zip) [Kali Swag Store](https://offsec.usa.dowlis.com/kali/view-all.html) [Meet The Kali Team](https://www.kali.org/about-us/) [Partnerships](https://www.kali.org/partnerships/) [Contact Us](https://www.kali.org/contact/)
     
 
 [](https://www.kali.org/docs/policy/ "↤ Go back")
