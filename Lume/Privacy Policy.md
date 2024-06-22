@@ -1,4 +1,4 @@
-[SAVE Up To 30% Black Friday in July!](https://lumedeodorant.com/collections/curated-custom-bundles)
+Free U.S. Shipping on Orders over $25
 
 [Lume Deodorant | Outrageously Effective Whole Body Deodorant](https://lumedeodorant.com/)
 ==========================================================================================
