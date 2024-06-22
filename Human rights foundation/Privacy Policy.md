@@ -10,7 +10,7 @@
 
 [search](#searchbox)
 
-[Menu](#slide-out-widget-area)
+[Menu](#sidewidgetarea)
 
 * [About](https://hrf.org/about/)
     * [Our Mission](https://hrf.org/about/mission/)
