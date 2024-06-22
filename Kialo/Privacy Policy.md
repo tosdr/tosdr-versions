@@ -125,14 +125,16 @@ Privacy Policy
 
 [Status](https://status.kialo.com/)
 
- [For public discussions](https://www.kialo.com/) [For educators](https://www.kialo-edu.com/?utm_source=kialo-footer)
-
-[Facebook](https://www.facebook.com/kialo)
+ [For private & public use](https://www.kialo.com/) [For educators](https://www.kialo-edu.com/?utm_source=kialo-footer)
 
 [Twitter](https://twitter.com/kialo)
+
+[Facebook](https://www.facebook.com/kialo)
 
 [LinkedIn](https://www.linkedin.com/company/kialo)
 
 © Kialo 2024
 
 English
+
+Empowering Reason
