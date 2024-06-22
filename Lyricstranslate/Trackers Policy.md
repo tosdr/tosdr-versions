@@ -35,9 +35,6 @@ Search
     * [Frequently Asked Questions](https://lyricstranslate.com/en/faq)
     * [Useful Resources](https://lyricstranslate.com/en/resources)
     * [lyricstranslate.com forum](https://lyricstranslate.com/en/forums/general-forums/lyricstranslatecom)
-* [Theme](#)
-    * [Light](https://lyricstranslate.com/en/cookies-policy?theme=lt7)
-    * [Dark](https://lyricstranslate.com/en/cookies-policy?theme=lt7dark)
 * [Interface language](#)
     * DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
         
@@ -174,79 +171,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![3SiameseCats](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1578611-1684781971.png)](https://lyricstranslate.com/en/translator/3siamesecats "3SiameseCats")
-
-New comment
-
-\[@Fary\] Corrected lyrics below. Vein ...  [more](https://lyricstranslate.com/en/comment/1150317#comment-1150317)
-
-[![Dr_Igor](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1465978-1715538506.jpg)](https://lyricstranslate.com/en/translator/drigor "Dr_Igor")
-
-New song
-
-[Valery Obodzinsky - Синеокая бездна](https://lyricstranslate.com/en/valery-obodzinsky-sineokaya-bezdna-lyrics)
-
-Russian
-
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
+[![Icey](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1172336-1552661453.png)](https://lyricstranslate.com/en/translator/icey "Icey")
 
 New translation
 
-[Mino Reitano - Un'adorabile follia](https://lyricstranslate.com/en/mino-reitano-unadorabile-follia-english)
+[Avril Lavigne - I Can Do Better](https://lyricstranslate.com/en/avril-lavigne-i-can-do-better-italian)
 
-Italian → English
+English → Italian
 
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
-
-New song
-
-[Mino Reitano - Un'adorabile follia](https://lyricstranslate.com/en/mino-reitano-unadorabile-follia-lyrics)
-
-Italian
-
-[![twinkiewithanIE](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1138838-1582150326.png)](https://lyricstranslate.com/en/translator/twinkiewithanie "twinkiewithanIE")
+[![Jacob De Camillis](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/jacob-de-camillis "Jacob De Camillis")
 
 New translation
 
-[Re:vale - Re-raise (Re - Raise)](https://lyricstranslate.com/en/revale-re-raise-english)
+[Marem Gökhan Şen - Mэжей мэжей](https://lyricstranslate.com/en/marem-gokhan-sen-mezhey-mezhey-turkish)
 
-Japanese → English
+Circassian → Turkish
 
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
-
-New song
-
-[Kroi - GAS](https://lyricstranslate.com/en/kroi-gas-lyrics)
-
-Japanese
-
-[![twinkiewithanIE](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1138838-1582150326.png)](https://lyricstranslate.com/en/translator/twinkiewithanie "twinkiewithanIE")
-
-New song
-
-[Re:vale - Re-raise](https://lyricstranslate.com/en/revale-re-raise-lyrics)
-
-Japanese
-
-[![Lepi_Saša](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1564981-1679838790.jpg)](https://lyricstranslate.com/en/translator/lepisa%C5%A1a "Lepi_Saša")
+[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
 
 New translation
 
-[Vukica Veljović - Drugi su mi rekli](https://lyricstranslate.com/en/vukica-veljovic-drugi-su-mi-rekli-russian)
+[Chris Norman - All Alone](https://lyricstranslate.com/en/chris-norman-all-alone-romanian)
 
-Serbian → Russian
+English → Romanian
 
-[![Joshua Murphy](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609184-1708220188.png)](https://lyricstranslate.com/en/translator/joshua-murphy "Joshua Murphy")
+[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
 
-New comment
+New translation
 
-What do you mean didn’t understand the last verse   [more](https://lyricstranslate.com/en/comment/1150316#comment-1150316)
+[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-transliteration)
 
-[![3SiameseCats](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1578611-1684781971.png)](https://lyricstranslate.com/en/translator/3siamesecats "3SiameseCats")
+English → Transliteration
 
-New comment
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
-Now that I have the official lyrics, I've put ...  [more](https://lyricstranslate.com/en/comment/1150315#comment-1150315)
+New translation
+
+[French Children's Songs - Petit Papa Noël](https://lyricstranslate.com/en/petit-papa-noel-beloved-kris-kringle.html-1)
+
+French → English
+
+[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
+
+New translation
+
+[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-english)
+
+English → English
+
+[![Jacob De Camillis](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/jacob-de-camillis "Jacob De Camillis")
+
+New song
+
+[Marem Gökhan Şen - Mэжей мэжей](https://lyricstranslate.com/en/marem-gokhan-sen-mezhey-mezhey-lyrics)
+
+Circassian
+
+[![Hikari_chan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611896-1710403464.jpg)](https://lyricstranslate.com/en/translator/hikarichan "Hikari_chan")
+
+New translation
+
+[NAYEON - NO PROBLEM](https://lyricstranslate.com/en/nayeon-no-problem-hungarian)
+
+English → Hungarian
+
+[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
+
+New translation
+
+[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-portuguese)
+
+English → Portuguese
+
+[![merinabi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554994-1709935735.jpg)](https://lyricstranslate.com/en/translator/merinabi "merinabi")
+
+New translation
+
+[Coldplay - all my love](https://lyricstranslate.com/en/coldplay-all-my-love-turkish)
+
+English → Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
