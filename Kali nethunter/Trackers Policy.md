@@ -24,14 +24,14 @@
     
     [Explore Learning Library](https://portal.offsec.com/)
     
-    [New course
+    [New Release
     
-    SEC-100: CyberCore - Security Essentials
-    ----------------------------------------
+    OffSec MITRE D3FEND Learning Paths
+    ----------------------------------
     
-    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
+    Build your team's defensive skill sets
     
-    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
+    ![OffSec MITRE D3FEND Learning Paths](https://manage.offsec.com/app/uploads/2024/05/mitre_defend_lp.png)](https://www.offsec.com/learning/paths/mitre-defend-training/)
     
     [Enterprise Cyber Range & Versus
     
@@ -91,14 +91,14 @@
     
     [Buy now](https://portal.offsec.com/registration?utm_source=offsec)
     
-    [New course
+    [Recommended
     
-    SEC-100: CyberCore - Security Essentials
-    ----------------------------------------
+    Learn One
+    ---------
     
-    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
+    Get access to a course and labs for one full year. Balance life and learning while reducing stress and time pressure
     
-    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
+    ![Learn One](https://manage.offsec.com/app/uploads/2024/05/learn_one_nav_icon.png)](https://www.offsec.com/products/learn-one/)
     
 * Pricing Plans & Pricing
     
@@ -149,14 +149,14 @@
     
     [Buy now](https://portal.offsec.com/registration?utm_source=offsec)
     
-    [New course
+    [Recommended
     
-    SEC-100: CyberCore - Security Essentials
-    ----------------------------------------
+    Learn One
+    ---------
     
-    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
+    Get access to a course and labs for one full year. Balance life and learning while reducing stress and time pressure
     
-    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
+    ![Learn One](https://manage.offsec.com/app/uploads/2024/05/learn_one_nav_icon.png)](https://www.offsec.com/products/learn-one/)
     
 * Partners
     
@@ -386,14 +386,14 @@ Resources
 
 * [Swag Store](https://offsec.usa.dowlis.com/?utm_source=offsec)
 
-![](/_astro/cybercore.bGheRKum_25hhDp.svg)
+![](/_astro/cybercore.C3lrBLvZ_Z22aMeo.svg)
 
 SEC-100: CyberCore - Security Essentials
 ----------------------------------------
 
-OffSec's new course and certification helps open doors to an exciting cybersecurity career.
+OffSec's new course and certification opens doors to an exciting cybersecurity career.
 
-[Learn more](https://www.offensive-security.com/courses/sec-100/)
+[Learn more](https://www.offensive-security.com/learning/paths/cybercore/)
 
 Legal
 =====
