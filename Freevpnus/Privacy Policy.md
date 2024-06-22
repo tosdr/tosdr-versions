@@ -88,13 +88,29 @@ Hi, can i help you?
 
 FreeVPN.us is dedicated to providing free and fast VPN services to users worldwide. Your generous contribution helps us maintain and expand our servers and services. With your support, we can keep FreeVPN.us free for everyone. Thank you! 🙏❤️
 
-##### ![Bitcoin](/assets/img/btc.svg) Bitcoin
+![Bitcoin](/assets/img/btc.svg)
 
-##### ![USDT (ERC20)](/assets/img/usdt.svg) USDT (ERC20)
+##### Bitcoin
 
-##### ![sol](/assets/img/sol.svg) SOL (BEP20)
+![Ethereum](/assets/img/eth.svg)
 
-##### ![Doge](/assets/img/doge.svg) DOGE
+##### Ethereum (ERC20)
+
+![USDT (BEP20)](/assets/img/usdt.svg)
+
+##### USDT (BEP20)
+
+![Solana](/assets/img/sol.svg)
+
+##### Solana (BEP20)
+
+![Litecoin](/assets/img/ltc.svg)
+
+##### Litecoin
+
+![Doge](/assets/img/doge.svg)
+
+##### Dogecoin
 
 [Crypto Currency](#cryptocurrency) [Trakteer.id](https://trakteer.id/roosterkid) [Buy Me a Coffee](https://bit.ly/3dEVJvS)
 
@@ -102,15 +118,15 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 The following is our total achievement so far.
 
-23.607
+23.967
 
 User registered
 
-12.249
+12.096
 
 Active account
 
-1.738.372
+1.740.475
 
 Account created
 
@@ -119,12 +135,13 @@ FreeVPN
 
 Since 2016, FreeVPN.us has been dedicated to offering a free VPN service with the mission of promoting "Freedom of the Internet." Our goal is to give users unrestricted access to all online content through a reliable and secure connection.
 
+* [](https://play.google.com/store/apps/details?id=com.freevpn.tunnel)
 * [](https://www.facebook.com/freevpnssh/)
 * [](https://twitter.com/Roosterkid4)
 * [](https://github.com/roosterkid)
 * [](https://t.me/freevpnus)
 * [](https://discord.gg/FywZetcRXE)
-* [](https://play.google.com/store/apps/details?id=com.freevpn.tunnel)
+* [](https://chat.whatsapp.com/CEil2Xyfe8O9fzoiCUKMNG)
 
 Service
 
