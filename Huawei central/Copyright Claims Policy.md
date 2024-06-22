@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch 4 Pro Space Bluetooth update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-4-Pro-Space-400x240.jpg)
+        
+        New update for Huawei Watch 4 Pro Space Edition optimizes Bluetooth calling](https://www.huaweicentral.com/new-update-for-huawei-watch-4-pro-space-edition-optimizes-bluetooth-calling/)
     * [![Huawei Watch 3 series June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-3-series-update-400x240.jpg)
         
         Huawei Watch 3 series fetches June 2024 update with system stability](https://www.huaweicentral.com/huawei-watch-3-series-fetches-june-2024-update-with-system-stability/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Children's Watch 4 Pro June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Childrens-Watch-4-Pro-400x240.jpg)
         
         Huawei Children’s Watch 4 Pro bags June 2024 improvements update](https://www.huaweicentral.com/huawei-childrens-watch-4-pro-bags-june-2024-improvements-update/)
-    * [![Huawei Watch GT 3 SE June 2024 optimizations](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-GT-3-SE-400x240.jpg)
-        
-        Huawei Watch GT 3 SE fetches June 2024 system optimizations](https://www.huaweicentral.com/huawei-watch-gt-3-se-fetches-june-2024-system-optimizations/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
