@@ -1,11 +1,12 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------
+**Axialfest Sale** Save up to $200! [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7b2602b2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -18,11 +19,12 @@ Support
 Support
 
 * [Contact Us](https://www.horizonhobby.com/contact)
-* [Technical Product Support](https://www.horizonhobby.com/product-support-landing.html)
+* [Service Center](https://www.horizonhobby.com/service-center.html)
 * [Order Status](https://www.horizonhobby.com/orderstatus)
-* [Repairs](https://www.horizonhobby.com/service-center.html)
-* [Product Registration](https://www.horizonhobby.com/register)
+* [Product Support](https://www.horizonhobby.com/product-support-landing.html)
+* [Product Repairs](https://www.horizonhobby.com/service-center.html)
 * [Train Support](https://www.horizonhobby.com/train-support.html)
+* [Product Registration](https://www.horizonhobby.com/register)
 
  Sign In
 
@@ -39,11 +41,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw78d2eddf/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw3c7bb4c3/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw78d2eddf/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw3c7bb4c3/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -69,7 +71,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw78d2eddf/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw3c7bb4c3/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -77,16 +79,17 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7b2602b2/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw7b2602b2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
-New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------
+**Axialfest Sale** Save up to $200! [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -378,25 +381,15 @@ Check out all the deals on your favorite RC Product.
 
 Shop & Save!
 
-##### 12 Days of Christmas in July
+##### AXIALFEST 2024 SALE
 
-![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwdb3bd5ff/merch/promotions/949484-12-days/949484-324x190.jpg)
+![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwdcd3757c/merch/promotions/937506-axialfest-sale/937506-324x190.jpg)
 
-New RC Deal Every Day!
+Save up to $200
 
-July 8th - July 19th
+June 19th - June 28th
 
-[SAVE NOW](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
-
-##### RC Summer Savings Sale
-
-![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw408fa807/merch/promotions/949303-hot-summer-savings/949303-324x190.jpg)
-
-Save up to $120
-
-July 3rd - July 28th
-
-[SAVE NOW](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+[SAVE NOW](https://www.horizonhobby.com/axialfest-sale/)
 
 ![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwcc75a16e/merch/promotions/nelp/nelp-324x190.jpg)
 
@@ -435,11 +428,12 @@ Search
 * [Support](https://www.horizonhobby.com/login)
     
     * [Contact Us](https://www.horizonhobby.com/contact)
-    * [Technical Product Support](https://www.horizonhobby.com/product-support-landing.html)
+    * [Service Center](https://www.horizonhobby.com/service-center.html)
     * [Order Status](https://www.horizonhobby.com/orderstatus)
-    * [Repairs](https://www.horizonhobby.com/service-center.html)
-    * [Product Registration](https://www.horizonhobby.com/register)
+    * [Product Support](https://www.horizonhobby.com/product-support-landing.html)
+    * [Product Repairs](https://www.horizonhobby.com/service-center.html)
     * [Train Support](https://www.horizonhobby.com/train-support.html)
+    * [Product Registration](https://www.horizonhobby.com/register)
     
 *  [![Shop Local](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwcfbe2d30/Icons/circle-location-icon.svg) Shop Local](https://www.horizonhobby.com/stores?showMap=true&horizontalView=true&isForm=true)
     
@@ -567,7 +561,7 @@ Be the first to know about new products, deals, and events.
 
 10% discount does not apply to E-Gift Cards or discounted items.
 
-_\*Some exclusions may apply. First time subscribers only. Your discount code will be emailed to you._
+_\*Some exclusions may apply._
 
  SIGN UP
 
@@ -619,7 +613,7 @@ Company Info
 * [Horizon Hobby Visa Card](https://www.horizonhobby.com/credit-card.html?cp_source=footer&cp_medium=aboutus "Go to Horizon Hobby Visa Card")
 * [RC Events Calendar](https://www.horizonhobby.com/rc-events-calendar.html?cp_source=footer&cp_medium=aboutus "RC Events Calendar")
 * [Careers](https://recruiting.ultipro.com/HOR1005/JobBoard/1e0e1ed9-90e0-3f93-f7ee-8b0a223db196/?q=&o=postedDateDesc "Go to Careers")
-* [Purchasing & Dealer Inquiries](https://www.horizonhobby.com/become-a-dealer.html?cp_source=footer&cp_medium=aboutus "Go to Purchasing & Dealer Inquiries")
+* [Become a Dealer](https://www.horizonhobby.com/become-a-dealer.html?cp_source=footer&cp_medium=aboutus "Go to Become a Dealer")
 * [Hobbies for Good](https://www.horizonhobby.com/hobbiesforgood-landing.html?cp_source=footer&cp_medium=aboutus "Go to Hobbies for Good")
 * [Racer Payout Program](https://www.horizonhobby.com/racer-payout-program.html?cp_source=footer&cp_medium=aboutus "Go to Racer Payout Program")
 * [Affiliate Program](https://www.horizonhobby.com/affiliate.html?cp_source=footer&cp_medium=aboutus "Go to Affiliate Program")
