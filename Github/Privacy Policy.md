@@ -45,25 +45,18 @@ Toggle navigation
     
 * Solutions
     
-    By size
+    For
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
+    * [Education](https://education.github.com/)
     
-    By industry
-    
-    * [Healthcare](https://github.com/solutions/industries/healthcare)
-    * [Financial services](https://github.com/solutions/industries/financial-services)
-    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
-    
-    By use case
+    By Solution
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
-    
-* Resources
     
     Resources
     
@@ -332,9 +325,7 @@ Get tips, technical guides, and best practices. Twice a month. Right in your inb
 * [Partners](https://partner.github.com/)
 * [Education](https://github.com/edu)
 * [Electron](https://www.electronjs.org/)
-* [GitHub CLI](https://cli.github.com/)
 * [GitHub Desktop](https://desktop.github.com/)
-* [GitHub Mobile](https://github.com/mobile)
 
 ### Support
 
