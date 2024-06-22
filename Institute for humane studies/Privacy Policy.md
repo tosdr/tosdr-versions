@@ -24,7 +24,6 @@
 * [Donate](https://www.theihs.org/donate/)
     * [Overview](https://www.theihs.org/donate/)
     * [Planned Giving](https://ihslegacy.org/)
-    * [Donor Events](https://www.theihs.org/donate/events/)
 
 * [search](#searchbox)
     
@@ -47,7 +46,6 @@
 * [Donate](https://www.theihs.org/donate/)
     * [Overview](https://www.theihs.org/donate/)
     * [Planned Giving](https://ihslegacy.org/)
-    * [Donor Events](https://www.theihs.org/donate/events/)
 
 Who we are
 ----------
