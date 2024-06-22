@@ -622,6 +622,7 @@ Location
 * [ ] Manipur
 * [ ] Meghalaya
 * [ ] Mizoram
+* [ ] Mohali
 * [ ] MP
 * [ ] Mumbai
 * [ ] Mysore
@@ -697,6 +698,7 @@ Location
 * [ ] US
 * [ ] Zambia
 * [ ] Zimbabwe
+* [ ] Remote
 * [ ] Others
 * [ ] 15+ years
 
@@ -729,7 +731,7 @@ Posting
 
 #### Top Employers
 
-[![Virtusa](https://d3qr48lsanmyop.cloudfront.net/1708671126105.jpeg)](https://showcase.iimjobs.com/v2/rscp-virtusa-2949.html?ref=jssearch)[![EMCURE](https://d3qr48lsanmyop.cloudfront.net/1648454641329.jpeg)](https://showcase.iimjobs.com/v2/rscp-emcure-2579.html?ref=jssearch)[![Egon Zehnder](https://d3qr48lsanmyop.cloudfront.net/1655890992417.jpeg)](https://showcase.iimjobs.com/v2/rscp-egon-zehnder-2505.html?ref=jssearch)[![CRISIL](https://d3qr48lsanmyop.cloudfront.net/1708670813545.jpeg)](https://showcase.iimjobs.com/v2/rscp-crisil-17.html?ref=jssearch)[![Franklin Templeton](https://d3qr48lsanmyop.cloudfront.net/1667972123197.jpeg)](https://showcase.iimjobs.com/v2/rscp-franklin-templeton-396.html?ref=jssearch)
+[![Virtusa](https://d3qr48lsanmyop.cloudfront.net/1708671126105.jpeg)](https://showcase.iimjobs.com/v2/rscp-virtusa-2949.html?ref=jssearch)[![EMCURE](https://d3qr48lsanmyop.cloudfront.net/1648454641329.jpeg)](https://showcase.iimjobs.com/v2/rscp-emcure-2579.html?ref=jssearch)[![Egon Zehnder](https://d3qr48lsanmyop.cloudfront.net/1655890992417.jpeg)](https://showcase.iimjobs.com/v2/rscp-egon-zehnder-2505.html?ref=jssearch)[![CRISIL](https://d3qr48lsanmyop.cloudfront.net/1708670813545.jpeg)](https://showcase.iimjobs.com/v2/rscp-crisil-17.html?ref=jssearch)[![Franklin Templeton](https://d3qr48lsanmyop.cloudfront.net/1667972123197.jpeg)](https://showcase.iimjobs.com/v2/rscp-franklin-templeton-396.html?ref=jssearch)[![Adani Enterprises](https://d3qr48lsanmyop.cloudfront.net/1718954403243.jpeg)](https://www.iimjobs.com/privacy/?ref=jssearch)
 
 #### Trending Courses
 
