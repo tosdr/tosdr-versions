@@ -169,11 +169,11 @@ Canada
 
 ### From the Blog
 
-#### [Must-have email templates for your small healthcare practice](https://blog.hushmail.com/blog/email-templates/)
+#### [HIPAA Security Rule updates: What it means for small healthcare practices](https://blog.hushmail.com/blog/2024-hipaa-updates/)
 
-Published on June 24, 2024
+Published on June 14, 2024
 
-Send professional and helpful client emails with these free templates in record time. [Read more.](https://blog.hushmail.com/blog/email-templates/)
+Get ahead of the HIPAA Security Rule updates! This non-intimidating guide is for small healthcare practices looking for an actionable plan. [Read more.](https://blog.hushmail.com/blog/2024-hipaa-updates/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -228,7 +228,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=33DEA8BC4D305F03F3AB2DF61D5482B0)
+![](https://hushforms.com/visitorid?visitorid=7118F2D6F85FF05211FE6697B991946C)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
