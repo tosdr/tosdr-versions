@@ -349,14 +349,6 @@
     
     Blog
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/07/NIST-Compliance-600x400.png)
-    
-    What is NIST Compliance? A Guide to NIST Standards, Framework & Controls
-    
-    July 12
-    
-    10 minute read](https://www.kaseya.com/blog/what-is-nist-compliance/)
-    
     [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages1-600x400.png)
     
     Reclaim Your Summer by Automating Daily IT Tasks With RMM Automation
@@ -365,15 +357,23 @@
     
     10 minute read](https://www.kaseya.com/blog/reclaim-your-summer-automate-it-tasks-with-rmm/)
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages-600x400.png)
+    
+    Kaseya’s Partner First Pledge: Sharing Risks and Rewards With IT Departments and MSPs
+    
+    6 minute read](https://www.kaseya.com/blog/kaseya-partner-first-pledge/)
+    
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/06/calgary-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/06/VSA_Webinar_2024-IT-Future-Surveys-2-300x200.png)
     
-    Connect Local Calgary
+    2024 IT Futures Surveys
     
-    July 16
+    June 27
+    
+    Thursday @ 2PM EST
     
     [View All Events](https://www.kaseya.com/events/)
     
