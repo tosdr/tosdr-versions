@@ -120,7 +120,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 531 utilisateurs actifs
+##### 347 utilisateurs actifs
 
 Chargement en cours
 
@@ -130,9 +130,9 @@ Chargement en cours
 
 ### À la une
 
+* [Outlook : comment annuler l’envoi d’un e-mail ?](https://lecrabeinfo.net/outlook-comment-annuler-lenvoi-dun-e-mail.html)
 * [Pourquoi mon PC sort de veille tout seul ? 4 raisons possibles !](https://lecrabeinfo.net/pourquoi-mon-pc-sort-de-veille-tout-seul-4-raisons-possibles.html)
 * [WinMerge : comment comparer des dossiers sur Windows ?](https://lecrabeinfo.net/winmerge-comment-comparer-des-dossiers-sur-windows.html)
-* [Windows 11 : retrouver le menu Démarrer de Windows 10](https://lecrabeinfo.net/windows-11-retrouver-le-menu-demarrer-de-windows-10.html)
 
 ### Tendance
 
@@ -151,9 +151,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 285 membres
-* 840 articles
-* 26 221 commentaires
+* 68 287 membres
+* 841 articles
+* 26 227 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
