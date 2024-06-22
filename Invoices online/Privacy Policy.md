@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=66228621)  
-West Coast Horse Trails
+![valued client Taairatel](https://www.invoicesonline.co.za/scripts/image.php?bid=8419&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=100228236)  
+Taairatel
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=76173535)  
-Lindani Protection Services & Projects
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=129176720)  
+M's Frozen Delights
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=56077735)  
-Desygn
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=65316819)  
+Skinz Printing & Branding
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=12091379)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=40096531)  
+Chiron Medical Solutions
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=207954029)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=76243318)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=99762929)  
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=48025488)  
+Stories4Kids (Pty) Ltd t/a Storietyd
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=184226787)  
 All Trucking Solutions
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=206930473)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=2326081)  
+National Elite Security Services (PTY) LTD
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=41484798)  
-OptaServ
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=145018586)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=81711656)  
-INVOICES/JOBCARDS ONLINE
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=11363861)  
+Atalie Scented Candles Pty Ltd
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=203495834)  
-Entidee Enterprise PTY (ltd)
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=174388127)  
+Itroniq (Pty) Ltd
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=137625741)  
-KTEN PARTS
+![valued client Camwaves Internet PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8503&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=134010335)  
+Camwaves Internet PTY Ltd
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=159119391)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=40088013)  
+Nogana Events and Decor
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=87766786)  
-Highlands Auto Engineering
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=122984268)  
+Lizzy Pop PTY(Ltd)
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=90999395)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=91f5cc227e8778ce4c31d9924f4ff95a6e255b390f8e07b93beabf67b56680ab&c=84657141)  
-ARCHITEK PTY LTD
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=129683004)  
+Kaylas Creations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
