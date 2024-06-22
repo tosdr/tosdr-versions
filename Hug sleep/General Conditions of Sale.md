@@ -30,7 +30,10 @@ BACK
     Sleep Pod Mini New](https://hugsleep.com/products/sleep-pod-mini)
 * [![](//hugsleep.com/cdn/shop/files/Untitled4.006_533x533.jpg?v=1708019149)
     
-    Hug Wrap™ New](https://hugsleep.com/products/hug-sleep-wrap)
+    Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
+* [![](//hugsleep.com/cdn/shop/products/Untitled2.003_533x533.jpg?v=1594752114)
+    
+    Sleep Pod](https://hugsleep.com/products/sleep-pod)
   
   
   
@@ -47,9 +50,9 @@ BACK
 * [![](//hugsleep.com/cdn/shop/products/download_29b35f00-49b7-4236-a9a8-e998a7292bba_533x533.jpg?v=1659989428)
     
     Kids - Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-kids)
-* [![](//hugsleep.com/cdn/shop/files/Untitled4.006_533x533.jpg?v=1708019149)
+* [![](//hugsleep.com/cdn/shop/files/PDPImages.001_533x533.jpg?v=1718821314)
     
-    Hug Wrap™ New](https://hugsleep.com/products/hug-sleep-wrap)
+    Kids Hug Wrap™ New](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
   
   
   
@@ -154,18 +157,19 @@ BACK
 
  Search [![Hug Sleep](//hugsleep.com/cdn/shop/files/newlogohug.png?v=1702993474)](https://hugsleep.com/)
 
-* [Adults Collection](https://hugsleep.com/collections/sleep-pod-collection)
+* [Adults Collection](https://hugsleep.com/collections/adults-collection)
     
     * [Hooded Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-hood)
     * [Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-adult)
     * [Sleep Pod Mini](https://hugsleep.com/products/sleep-pod-mini)
     * [Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
+    * [Sleep Pod](https://hugsleep.com/products/sleep-pod)
     
 * [Kids Collection](https://hugsleep.com/collections/kids-collection)
     
     * [Kids - Hooded Sleep Pod](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
     * [Kids - Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-kids)
-    * [Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
+    * [Kids Hug Wrap™](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
     
 * [Hug Accessories](https://hugsleep.com/collections/hug-accessories)
     
