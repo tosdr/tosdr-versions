@@ -19,6 +19,7 @@
 
 [916 E. 7th St., Lockport, IL 60441](https://goo.gl/maps/ftvZm96Zyx3T56Tw5) [(815) 836-0001](tel:18158360001)
 
+* [Invisalign Promotion New](https://www.granddentallockport.com/invisalign-promotion-new.html)
 * [Home](https://www.granddentallockport.com/ "Dentist Lockport, IL")
 * [About](https://www.granddentallockport.com/meet-the-dentists.html "About")
     * [Meet The Doctors](https://www.granddentallockport.com/meet-the-dentists.html "Meet Our Dentists")
