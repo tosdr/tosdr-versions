@@ -2,18 +2,10 @@ Ihre Präferenzen wurden für diese Sitzung aktualisiert. Um Ihre Account-Einste
 
 Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache jederzeit in
 
-\>
+\> <>
 
 [Klicken Sie hier, um unsere Erklärung zur Barrierefreiheit anzuzeigen](https://de.iherb.com/info/accessibility)
 
-[Bis zu -50% auf iHerb-Marken](https://de.iherb.com/c/iherb-brands)
-
-[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
-
-[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
-
-[iHerb App](https://de.iherb.com/info/app)
-
 Liefern an   Deutschland
 
 checkoutarrow
@@ -24,9 +16,7 @@ DE
 
 EUR
 
-[Bis zu -50% auf iHerb-Marken](https://de.iherb.com/c/iherb-brands)
-
-[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+[Marken der Woche bis zu 15% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
@@ -62,19 +52,22 @@ Hallo 
 
 Mein Account
 
-![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/iHerb%20Rewards2x.png)
+* [Mein Account](https://checkout1.iherb.com/users/dashboard)
+* [Bestellungen](https://secure.iherb.com/orders/gc-tracking)
+* [Meine Wunschlisten](https://de.iherb.com/ugc/wishlist)
+* [Meine Rezensionen](https://de.iherb.com/ugc/myaccount/review)
+* [Benachrichtigungen](https://secure.iherb.com/communications/preferences)
+* [Meine Seite](https://de.iherb.com/myaccount/publicprofile)
+* [Meine Fragen](https://de.iherb.com/ugc/myaccount/questions)
+* [Meine Antworten](https://de.iherb.com/ugc/myaccount/answers)
+* [Meine Prämien](https://secure.iherb.com/rewards/overview)
+* [Nachrichtencenter](https://secure.iherb.com/myaccount/messagecenter)
 
-$38.3M+
+![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/menu/iherb-rewards.svg)
 
-2023 gutgeschriebene Prämien
+1.26M+
 
-1.3M+
-
-2023 kostenlos oder teilweise kostenlos erhaltene Bestellungen
-
-$17.3M+
-
-2023 ausgezahltes Guthaben
+Kunden haben 2022 kostenlose oder teilweise kostenlose Bestellungen erhalten
 
 Verfügbare Prämien
 
@@ -94,30 +87,9 @@ Beginnen Sie noch heute mit dem Einkaufen und verdienen Sie Prämien!
 
 [Meine Prämien ansehen](https://secure.iherb.com/rewards/overview)
 
-Herzlich Willkommen {0}!
-
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/account.png)
-    
-    Mein Account](https://checkout1.iherb.com/users/dashboard)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/order.png)
-    
-    Bestellungen](https://secure.iherb.com/orders/gc-tracking)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/wish%20list.png)
-    
-    Meine Wunschlisten](https://de.iherb.com/ugc/wishlist)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/dollar%20sign.png)
-    
-    Meine Prämien](https://secure.iherb.com/rewards/overview)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/Reviews.png)
-    
-    Meine Rezensionen](https://de.iherb.com/ugc/myaccount/review)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/message.png)
-    
-    Nachrichtencenter](https://secure.iherb.com/myaccount/messagecenter)
-
 * [Abmelden](https://checkout1.iherb.com/account/logoff)
 * [Anmelden](https://checkout1.iherb.com/account/login/?referrerRedirect=true)
-* [Account erstellen](https://checkout1.iherb.com/auth/Account/Register)
+* [Ein Konto erstellen](https://checkout1.iherb.com/auth/Account/Register)
 
 [](https://checkout1.iherb.com/cart)
 
@@ -155,19 +127,22 @@ Hallo 
 
 Mein Account
 
-![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/iHerb%20Rewards2x.png)
+* [Mein Account](https://checkout1.iherb.com/users/dashboard)
+* [Bestellungen](https://secure.iherb.com/orders/gc-tracking)
+* [Meine Wunschlisten](https://de.iherb.com/ugc/wishlist)
+* [Meine Rezensionen](https://de.iherb.com/ugc/myaccount/review)
+* [Benachrichtigungen](https://secure.iherb.com/communications/preferences)
+* [Meine Seite](https://de.iherb.com/myaccount/publicprofile)
+* [Meine Fragen](https://de.iherb.com/ugc/myaccount/questions)
+* [Meine Antworten](https://de.iherb.com/ugc/myaccount/answers)
+* [Meine Prämien](https://secure.iherb.com/rewards/overview)
+* [Nachrichtencenter](https://secure.iherb.com/myaccount/messagecenter)
 
-$38.3M+
+![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/menu/iherb-rewards.svg)
 
-2023 gutgeschriebene Prämien
+1.26M+
 
-1.3M+
-
-2023 kostenlos oder teilweise kostenlos erhaltene Bestellungen
-
-$17.3M+
-
-2023 ausgezahltes Guthaben
+Kunden haben 2022 kostenlose oder teilweise kostenlose Bestellungen erhalten
 
 Verfügbare Prämien
 
@@ -187,30 +162,9 @@ Beginnen Sie noch heute mit dem Einkaufen und verdienen Sie Prämien!
 
 [Meine Prämien ansehen](https://secure.iherb.com/rewards/overview)
 
-Herzlich Willkommen {0}!
-
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/account.png)
-    
-    Mein Account](https://checkout1.iherb.com/users/dashboard)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/order.png)
-    
-    Bestellungen](https://secure.iherb.com/orders/gc-tracking)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/wish%20list.png)
-    
-    Meine Wunschlisten](https://de.iherb.com/ugc/wishlist)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/dollar%20sign.png)
-    
-    Meine Prämien](https://secure.iherb.com/rewards/overview)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/Reviews.png)
-    
-    Meine Rezensionen](https://de.iherb.com/ugc/myaccount/review)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/message.png)
-    
-    Nachrichtencenter](https://secure.iherb.com/myaccount/messagecenter)
-
 * [Abmelden](https://checkout1.iherb.com/account/logoff)
 * [Anmelden](https://checkout1.iherb.com/account/login/?referrerRedirect=true)
-* [Account erstellen](https://checkout1.iherb.com/auth/Account/Register)
+* [Ein Konto erstellen](https://checkout1.iherb.com/auth/Account/Register)
 
 [](https://checkout1.iherb.com/cart)
 
@@ -234,8 +188,6 @@ Cart Total:
 
 Kunden kauften auch:
 
-* * *
-
 Shop
 
 Marken
@@ -244,19 +196,17 @@ Themenwelten
 
 [Neu](https://de.iherb.com/new-products)[Specials!](https://de.iherb.com/specials)[Testprodukte](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/topsellers)
 
-[Bis zu -50% auf iHerb-Marken](https://de.iherb.com/c/iherb-brands)
+[Marken der Woche bis zu 15% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
-[\-20% auf Bad und Körperpflege 
+[\-20% ab 60 US$ Bestellwert
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/bath-personal-care)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=JUNESALE24)
 
-[\-30% auf Lake Avenue Nutrition Sport
+[\-30% auf Molkenprotein
 
- 
-
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/lake-avenue-nutrition-sports)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/whey-protein?specialtyFilters=7)
 
       
 
