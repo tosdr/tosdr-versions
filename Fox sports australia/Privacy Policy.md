@@ -16,102 +16,130 @@ FOX SCORES
 
 * NRL
     
-* [U19s Women Origin
+* [NRL
     
     Complete
     
     |     |     |
     | --- | --- |
-    | NSW | 46  |
-    | QLD | 4   |
+    | DOL | 24  |
+    | MEL | 30  |
     
-    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WSO1920240101)
-* [U19s Origin
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | NSW | 10  |
-    | QLD | 6   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/SO1920240101)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20241601/match-report)
 * [NRL
     
-    21/6 20:00 AEST
+    22/6 15:00 AEST
     
     |     |     |
     | --- | --- |
-    | DOL | –   |
-    | MEL | –   |
+    | GLD | –   |
+    | WAR | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20241601)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20241602)
+* [NRL
+    
+    22/6 17:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | CBY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20241603)
+* [NRL
+    
+    22/6 19:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SOU | –   |
+    | MAN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20241604)
+* [ESL
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | LEE | 18  |
+    | LEI | 10  |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20241502)
+* [ESL
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | WIG | 36  |
+    | LON | 0   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/ESL20241503)
 * AFL
     
 * [AFL
     
-    21/6 19:40 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | CAR | –   |
-    | GEE | –   |
+    | CAR | 21.12.138 |
+    | GEE | 11.9.75 |
     
     Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241501)
+* [AFL
+    
+    22/6 13:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | POR | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241502)
+* [AFL
+    
+    22/6 16:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GWS | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241503)
+* [AFL
+    
+    22/6 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEL | –   |
+    | NM  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241504)
 * Cricket
     
 * [Men's T20 WC
     
-    ENG won by 8 wkts
+    RSA won by 7 runs
     
     |     |     |
     | --- | --- |
-    | WI  | 4 /180 |
-    | ENG | 2 /181 |
+    | ENG | 6 /156 |
+    | RSA | 6 /163 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240202)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240205)
 * [Men's T20 WC
     
-    21/6 0:30 AEST
+    22/6 10:30 AEST
     
     |     |     |
     | --- | --- |
-    | AFG | –   |
-    | IND | –   |
+    | WI  | –   |
+    | USA | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240203)
-* Football
-    
-* [Euro
-    
-    20/6 23:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SVN | –   |
-    | SRB | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240115)
-* [Euro
-    
-    21/6 2:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | DEN | –   |
-    | ENG | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240113)
-* [Euro
-    
-    21/6 5:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ESP | –   |
-    | ITA | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-preview?matchid=EUR20240114)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20WC20240206)
 * Netball
     
 * [Super Netball
@@ -124,6 +152,106 @@ FOX SCORES
     | FEV | –   |
     
     Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241101)
+* Motorsport
+    
+* [Formula 1
+    
+    21/6 21:30 AEST
+    
+    |     |
+    | --- |
+    | Spanish Grand Prix |
+    |     |
+    
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=584)
+* Football
+    
+* [Euro
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | SVK | 1   |
+    | UKR | 2   |
+    
+    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-recap?matchid=EUR20240118)
+* [Euro
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | POL | 1   |
+    | AUT | 3   |
+    
+    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-recap?matchid=EUR20240116)
+* [Euro
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | NED | 0   |
+    | FRA | 0   |
+    
+    Match Centre](https://www.foxsports.com.au/football/the-euros/match-centre/match-recap?matchid=EUR20240117)
+* Basketball
+    
+* [Women's Int
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | JPN | 95  |
+    | AUS | 87  |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match?matchid=W_TEST2024030002)
+* NHL
+    
+* [NHL
+    
+    22/6 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | EDM | –   |
+    | FLA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nhl/match?matchid=NHL2023-240050012FD29)
+* Rugby
+    
+* [Men's Test
+    
+    22/6 15:50 AEST
+    
+    |     |     |
+    | --- | --- |
+    | JPN | –   |
+    | ENG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20240101)
+* [Men's Test
+    
+    22/6 23:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | WAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20240102)
+* [SR Pacific
+    
+    22/6 17:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BLU | –   |
+    | CHI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/match?matchid=SRTT20241801)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -786,7 +914,6 @@ FOX SCORES
 
 * [NFL](https://www.foxsports.com.au/video/other-sports/nfl)
 * [Other Sports](https://www.foxsports.com.au/video/other-sports/other-sports)
-* [Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
 * [WWE](https://www.foxsports.com.au/video/other-sports/wwe)
 * [Ice Hockey](https://www.foxsports.com.au/video/other-sports/ice-hockey)
 * [Netball](https://www.foxsports.com.au/video/other-sports/netball)
@@ -806,6 +933,7 @@ FOX SCORES
 [Tennis](https://www.foxsports.com.au/video/tennis)
 
 * [Tennis](https://www.foxsports.com.au/video/tennis/tennis)
+* [Wimbledon](https://www.foxsports.com.au/video/tennis/wimbledon)
 * [French Open](https://www.foxsports.com.au/video/tennis/french-open)
 * [US Open](https://www.foxsports.com.au/video/tennis/us-open)
 
@@ -866,7 +994,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
