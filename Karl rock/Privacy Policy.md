@@ -182,6 +182,27 @@ If you’ve read the best places in Delhi to eat Chole Bhature then you know I�
 
 Categories
 
+[Europe](https://blog.karlrock.com/category/europe/)
+
+[How to Shop Tax-free in Europe (and Get the Refund!)](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/)
+-----------------------------------------------------------------------------------------------------------------
+
+* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
+* Post date [June 21, 2024](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/)
+* [No Comments on How to Shop Tax-free in Europe (and Get the Refund!)](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/#respond)
+
+![These are the VAT refund counters before security.](https://blog.karlrock.com/wp-content/uploads/2024/06/img_1936-1200x900.jpg)
+
+These are the VAT refund counters before security.
+
+One of the perks of travelling to Europe is the ability to save ~20% on all your shopping by getting the Value-Added Tax (VAT) refunded! But there are a few exceptions and things you need to know before you start spending. The following guide is based on my recent experience in Austria and Italy on \[…\]
+
+* Tags [Europe](https://blog.karlrock.com/tag/europe/), [Sales Tax](https://blog.karlrock.com/tag/sales-tax/), [Shopping](https://blog.karlrock.com/tag/shopping/), [Tax Free](https://blog.karlrock.com/tag/tax-free/), [VAT](https://blog.karlrock.com/tag/vat/)
+
+* * *
+
+Categories
+
 [India Travel](https://blog.karlrock.com/category/india-travel/) [Motorcycle Travel](https://blog.karlrock.com/category/motorcycle-travel/)
 
 [My 7-Day ‘Discovering Jammu’ Motorcycle Itinerary](https://blog.karlrock.com/discovering-jammu-motorcycle-itinerary/)
@@ -351,25 +372,6 @@ Roha Entertainment, run by Sharat Chandra and Shyam Reddy Maruthi in Telangana, 
 
 * * *
 
-Categories
-
-[India](https://blog.karlrock.com/category/india/)
-
-[Avoiding Fake Ittar: A Guide to Buying High-Quality Traditional Perfume in India](https://blog.karlrock.com/avoiding-fake-ittar-a-guide-to-buying-high-quality-traditional-perfume-in-india/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
-* Post date [April 18, 2023](https://blog.karlrock.com/avoiding-fake-ittar-a-guide-to-buying-high-quality-traditional-perfume-in-india/)
-* [2 Comments on Avoiding Fake Ittar: A Guide to Buying High-Quality Traditional Perfume in India](https://blog.karlrock.com/avoiding-fake-ittar-a-guide-to-buying-high-quality-traditional-perfume-in-india/#comments)
-
-![Ittar seller on the streets of India](https://blog.karlrock.com/wp-content/uploads/2023/04/Ittar-seller-on-the-streets-of-India-1200x675.jpg)
-
-Are you planning a trip to India and looking to buy some traditional perfume known as Ittar? This aromatic and exotic fragrance is popular in India and is made from natural ingredients such as flowers, herbs, and spices. Buying Ittar in India can be a unique and sensory experience, but it’s essential to know what \[…\]
-
-* Tags [India](https://blog.karlrock.com/tag/india/), [Shopping](https://blog.karlrock.com/tag/shopping/), [Travel Safety](https://blog.karlrock.com/tag/travel-safety/)
-
-* * *
-
 Posts navigation
 ----------------
 
@@ -396,6 +398,10 @@ Top
     
     [List of common Hindi swear words (with formatting for blocklists)](https://blog.karlrock.com/list-of-common-hindi-swear-words/ "List of common Hindi swear words (with formatting for blocklists)")
     
+* [![How to Shop Tax-free in Europe (and Get the Refund!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/img_1936-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/ "How to Shop Tax-free in Europe (and Get the Refund!)")
+    
+    [How to Shop Tax-free in Europe (and Get the Refund!)](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/ "How to Shop Tax-free in Europe (and Get the Refund!)")
+    
 * [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
@@ -404,17 +410,13 @@ Top
     
     [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
-* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+* [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
-    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
-* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+* [![Keys to Learning Hindi: 1. Learn to Read First!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Hindi-Script.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
-    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
-    
-* [![How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Pakistan-visa-on-arrival-process-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-apply-for-a-pakistan-visa-on-arrival-what-happens-when-you-land/ "How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?")
-    
-    [How to Apply for a Pakistan Visa-on-Arrival & What Happens When You Land?](https://blog.karlrock.com/how-to-apply-for-a-pakistan-visa-on-arrival-what-happens-when-you-land/ "How to Apply for a Pakistan Visa-on-Arrival  & What Happens When You Land?")
+    [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
