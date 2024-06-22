@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-RIP BENNY HARVEY](https://gtaforums.com/)
+OMG QABETA UPDATE!](https://gtaforums.com/)
 
 * [](#)
 
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=98d734bcc2adfe0f33ccbd88988b716c)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=72c1e749a74e967f7b7d6d5459e013ea)
