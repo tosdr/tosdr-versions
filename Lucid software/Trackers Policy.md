@@ -26,6 +26,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Cloud migration](https://lucid.co/solutions/cloud-migration)
     * [New product development](https://lucid.co/solutions/product-development)
     * [Hybrid teams](https://lucid.co/solutions/hybrid-teams)
+    * [Efficiency through AI](https://lucid.co/platform/ai)
     
     ### By team
     
