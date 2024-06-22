@@ -200,13 +200,13 @@ Themenwelten
 
 [Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
-[\-20% auf Seren & Gesichtskuren
+[\-20% ab 60 US$ Bestellwert
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/treatments-serums)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=JUNESALE24)
 
-[\-20% auf gesunde Snacks
+[\-30% auf Molkenprotein
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/snacks)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/whey-protein?specialtyFilters=7)
 
       
 
