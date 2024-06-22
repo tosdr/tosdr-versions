@@ -367,11 +367,13 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_Chicago-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/06/VSA_Webinar_2024-IT-Future-Surveys-2-300x200.png)
     
-    Kaseya+Datto Connect Local Chicago
+    2024 IT Futures Surveys
     
-    June 20
+    June 27
+    
+    Thursday @ 2PM EST
     
     [View All Events](https://www.kaseya.com/events/)
     
