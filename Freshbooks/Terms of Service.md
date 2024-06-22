@@ -18,12 +18,6 @@ Left to Get 60% Off for 4 Months [**BUY NOW & SAVE**](https://www.freshbooks.com
 
 **60% Off for 4 Months [Buy Now & Save](https://www.freshbooks.com/pricing)**
 
-You're currently on our **US** site. Select your regional site here:
-
-Select your region Australia Canada European Union Mexico South Africa United Kingdom United States
-
-×
-
 Back [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
 [Try It Free](https://www.freshbooks.com/signup) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
@@ -602,10 +596,3 @@ English
 © 2000-2024 FreshBooks
 
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
-
-👋 Welcome to FreshBooks
-------------------------
-
-To see our product designed specifically for your country, please visit the **United States** site.
-
-[Visit FreshBooks United States](https://www.freshbooks.com/) [Visit the US website](#0)
