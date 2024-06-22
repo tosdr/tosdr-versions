@@ -22,19 +22,19 @@ Audio
 
 * * *
 
-* [![Books To Read if You Love <em>The Tortured Poets Department</em>](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/10091600/PRH_Site_1200x628_TorturedPoe_1.jpg)
-    
-    Books To Read if You Love _The Tortured Poets Department_
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
-
-* * *
-
 * [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
     Books Bans Are on the Rise in America
     
     Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102159/PRH_Site_600x314_nav-JUN.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
 
 * <
     
@@ -338,9 +338,9 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
-[Books To Read if You Love _The Tortured Poets Department_
+[Your Summer Reading Guide
 
-Read More >](https://www.penguinrandomhouse.com/the-read-down/books-like-the-tortured-poets-department/)
+Read More >](https://www.penguinrandomhouse.com/summer-reading/)
 
 [Audio](https://www.penguinrandomhouse.com/books/audiobooks/)
 
