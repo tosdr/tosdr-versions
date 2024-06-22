@@ -4,56 +4,42 @@
     
     Main Menu
     
-    #### Products
+    Products
     
-    * [](https://sell.g2.com/profiles)
-        
-        #### Profiles
+    * [](https://sell.g2.com/profiles)Profiles
         
         Build your brand and capture demand.
         
-    * [](https://sell.g2.com/data)
-        
-        #### Buyer Intent
+    * [](https://sell.g2.com/data)Buyer Intent
         
         Find customers primed to purchase.
         
-    * [](https://sell.g2.com/review-generation)
-        
-        #### Reviews
+    * [](https://sell.g2.com/review-generation)Reviews
         
         Get feedback and inspire buyer confidence.
         
-    * [](https://sell.g2.com/content)
-        
-        #### Content Marketing Subscription
+    * [](https://sell.g2.com/content)Content Marketing Subscription
         
         Drive demand with licensed G2 Reports.
         
-    * [](https://sell.g2.com/market-intelligence)
-        
-        #### Market Intelligence
+    * [](https://sell.g2.com/market-intelligence)Market Intelligence
         
         Make data-driven decisions with insider intel.
         
     
-    #### Solutions
+    Solutions
     
     * [G2 for Marketing](https://sell.g2.com/g2-for-marketing)
     * [G2 for Sales](https://sell.g2.com/g2-for-sales)
     * [G2 for Services](https://sell.g2.com/g2-for-services)
     
-    #### Get Started with G2
+    Get Started with G2
     
-    * [](https://sell.g2.com/create-a-profile)
-        
-        #### Create a Profile
+    * [](https://sell.g2.com/create-a-profile)Create a Profile
         
         List your product or service on G2 and get your name in front of millions.
         
-    * [](https://sell.g2.com/claim-your-profile)
-        
-        #### Claim Your Profile
+    * [](https://sell.g2.com/claim-your-profile)Claim Your Profile
         
         Take control of your company’s profile to start building brand and demand.
         
@@ -62,48 +48,38 @@
     
     Main Menu
     
-    #### By Objectives
+    By Objectives
     
-    * [](https://partnerhub.g2.com/t/solutions/marketing/optimize-abm-and-campaigns)
-        
-        #### Optimize ABM
+    * [](https://partnerhub.g2.com/t/solutions/marketing/optimize-abm-and-campaigns)Optimize ABM
         
         Define audiences and target key accounts.
         
-    * [](https://partnerhub.g2.com/t/solutions/sales/harness-sales-intelligence)
-        
-        #### Harness Sales Intelligence
+    * [](https://partnerhub.g2.com/t/solutions/sales/harness-sales-intelligence)Harness Sales Intelligence
         
         Find decision makers who are ready to buy.
         
-    * [](https://partnerhub.g2.com/t/solutions/marketing/identify-market-demand)
-        
-        #### Identify Market Demand
+    * [](https://partnerhub.g2.com/t/solutions/marketing/identify-market-demand)Identify Market Demand
         
         Find customers looking at you and your competitors.
         
-    * [](https://partnerhub.g2.com/t/solutions/customer-success/engage-and-empower-customers)
-        
-        #### Engage Customers
+    * [](https://partnerhub.g2.com/t/solutions/customer-success/engage-and-empower-customers)Engage Customers
         
         Connect with customers when they interact with your product.
         
-    * [](https://partnerhub.g2.com/t/solutions/sales/build-pipeline)
-        
-        #### Build Pipeline
+    * [](https://partnerhub.g2.com/t/solutions/sales/build-pipeline)Build Pipeline
         
         Make it easier for prospects to find you outside G2.
         
     * [See all integrations](https://partnerhub.g2.com/)
     
-    #### By Integration Type
+    By Integration Type
     
     * [Buyer Intent](https://partnerhub.g2.com/?integrationtype=1&menu_open=1)
     * [Review Collection](https://partnerhub.g2.com/?integrationtype=4&menu_open=1)
     * [Syndication](https://partnerhub.g2.com/?integrationtype=3&menu_open=1)
     * [Content](https://partnerhub.g2.com/?integrationtype=8&menu_open=1)
     
-    #### Partner with G2
+    Partner with G2
     
     * [](https://partnerhub.g2.com/integrations/6sense)
         
@@ -127,34 +103,34 @@
     
     * [![](https://legal.g2.com/hubfs/CustomerStory-ZoomInfo.svg)](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate)
         
-        [#### ZoomInfo](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate)
+        [ZoomInfo](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate)
         
         Pipeline generation, buyer intent, integration
         
     * [![](https://legal.g2.com/hubfs/customer-story-tile-salesloft.png)](https://learn.g2.com/case-study-salesloft-drives-pipeline)
         
-        [#### Salesloft](https://learn.g2.com/case-study-salesloft-drives-pipeline)
+        [Salesloft](https://learn.g2.com/case-study-salesloft-drives-pipeline)
         
         Pipeline generation, review generation, content production
         
     * [Read all customer stories](https://sell.g2.com/customers)
     
-    #### Our Customers Inspire Us
+    Our Customers Inspire Us
     
-    * [#### BetterCloud Sees 81% Increase in Deal Size](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent)[Read now](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent)
+    * [BetterCloud Sees 81% Increase in Deal Size](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent) [Read now](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent)
         
-    * [#### 85% of Highspot’s Closed Won Opportunities Influenced by G2](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities)[Read now](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities)
+    * [85% of Highspot’s Closed Won Opportunities Influenced by G2](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities) [Read now](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities)
         
-    * [#### Reputation Sees 174% Increase in ARR](https://sell.g2.com/case-studies/reputation-increases-arr)[Read now](https://sell.g2.com/case-studies/reputation-increases-arr)
+    * [Reputation Sees 174% Increase in ARR](https://sell.g2.com/case-studies/reputation-increases-arr) [Read now](https://sell.g2.com/case-studies/reputation-increases-arr)
         
     
-    #### G2 Marketing Solutions Reviews
+    G2 Marketing Solutions Reviews
     
-    * [#### "Fantastic insights into our customers, product, and more."](https://www.g2.com/products/g2-seller-solutions/reviews)![](https://legal.g2.com/hubfs/site-refresh/voc-stars-5.svg)
+    * ["Fantastic insights into our customers, product, and more."](https://www.g2.com/products/g2-seller-solutions/reviews) ![](https://legal.g2.com/hubfs/site-refresh/voc-stars-5.svg)
         
         Liz A.
         
-    * [#### "Responsive & attentive account team, useful sales tool."](https://www.g2.com/products/g2-seller-solutions/reviews)![](https://legal.g2.com/hubfs/site-refresh/voc-stars-5.svg)
+    * ["Responsive & attentive account team, useful sales tool."](https://www.g2.com/products/g2-seller-solutions/reviews) ![](https://legal.g2.com/hubfs/site-refresh/voc-stars-5.svg)
         
         Isalyn C.
         
@@ -164,89 +140,63 @@
     
     Main Menu
     
-    #### Learn G2
+    Learn G2
     
-    * [](https://sell.g2.com/resources)
-        
-        #### Resource Hub
+    * [](https://sell.g2.com/resources)Resource Hub
         
         Our collection of content so you can thrive on G2.
         
-    * [](https://sell.g2.com/g2-university)
-        
-        #### G2 University
+    * [](https://sell.g2.com/g2-university)G2 University
         
         On-demand certs for marketing and sales.
         
-    * [](https://sell.g2.com/webinars)
-        
-        #### Webinars
+    * [](https://sell.g2.com/webinars)Webinars
         
         Learn from the experts. Sell more, grow more.
         
-    * [](https://learn.g2.com/)
-        
-        #### Learn Hub
+    * [](https://learn.g2.com/)Learn Hub
         
         Keep a finger on the tech pulse.
         
     
-    #### Research
+    Research
     
-    * [](https://research.g2.com/)
-        
-        #### Research Hub
+    * [](https://research.g2.com/)Research Hub
         
         Content you need to make better technology decisions.
         
-    * [](https://research.g2.com/analysts)
-        
-        #### Our Analysts
+    * [](https://research.g2.com/analysts)Our Analysts
         
         Over 30 analysts across industries and sectors.
         
-    * [](https://research.g2.com/insights)
-        
-        #### Research Insights
+    * [](https://research.g2.com/insights)Research Insights
         
         From cloud, ERP, HR, AI, and more.
         
-    * [](https://research.g2.com/reports)
-        
-        #### Our Reports
+    * [](https://research.g2.com/reports)Our Reports
         
         Info to solve your real-world business problems.
         
-    * [](https://research.g2.com/methodology)
-        
-        #### Research Methodology
+    * [](https://research.g2.com/methodology)Research Methodology
         
         A robust method to bring transparency to B2B buying.
         
-    * [](https://documentation.g2.com/?utm_source=global+resource+header&utm_medium=web&utm_campaign=homepage)
-        
-        #### Documentation
+    * [](https://documentation.g2.com/?utm_source=global+resource+header&utm_medium=web&utm_campaign=homepage)Documentation
         
         Browse G2 product documentation, tutorials, and latest releases.
         
     
-    #### Download latest reports
+    Download latest reports
     
-    * [](https://research.g2.com/buyer-behavior-study)
-        
-        #### 2023 Software Buyer Behavior Report
+    * [](https://research.g2.com/buyer-behavior-study)2023 Software Buyer Behavior Report
         
         Navigate a new software buying reality.
         
-    * [](https://sell.g2.com/reports)
-        
-        #### G2 Grid & Index Reports
+    * [](https://sell.g2.com/reports)G2 Grid & Index Reports
         
         Discover high performing and top software across G2 cateogries.
         
-    * [](https://research.g2.com/cloud-computing-infrastructure)
-        
-        #### Grid for Cloud Computing Infrastructure
+    * [](https://research.g2.com/cloud-computing-infrastructure)Grid for Cloud Computing Infrastructure
         
         These vendors offer the ability to host computing capacity in an elastic, scalable environment.
         
@@ -258,40 +208,30 @@
     
     Main Menu
     
-    #### Join Us
+    Join Us
     
-    * [](https://company.g2.com/careers)
-        
-        #### Careers
+    * [](https://company.g2.com/careers)Careers
         
         Find your next career peak with us.
         
-    * [](https://company.g2.com/commitments)
-        
-        #### Our Commitments
+    * [](https://company.g2.com/commitments)Our Commitments
         
         We’re creating a place where every you can be you.
         
-    * [](https://company.g2.com/life)
-        
-        #### Life @ G2
+    * [](https://company.g2.com/life)Life @ G2
         
         Read how our values come together at work.
         
-    * [](https://company.g2.com/locations)
-        
-        #### Locations
+    * [](https://company.g2.com/locations)Locations
         
         Work in personalized and flexible ways.
         
-    * [](https://company.g2.com/teams)
-        
-        #### Teams
+    * [](https://company.g2.com/teams)Teams
         
         Join a team where growth happens together.
         
     
-    #### About us
+    About us
     
     * [G2 Story](https://company.g2.com/about)
     * [G2 News](https://company.g2.com/news)
@@ -299,23 +239,17 @@
     * [G2 Gives](https://company.g2.com/gives)
     * [G2 Philanthropy](https://company.g2.com/philanthropy)
     
-    #### Connect with us
+    Connect with us
     
-    * [](https://sell.g2.com/request-a-demo)
-        
-        #### Contact Sales
+    * [](https://sell.g2.com/request-a-demo)Contact Sales
         
         Have your sales questions answered.
         
-    * [](https://support.g2.com/s/)
-        
-        #### Troubleshoot Your G2 Profile
+    * [](https://support.g2.com/s/)Troubleshoot Your G2 Profile
         
         Commonly asked questions and answers get you on your way fast.
         
-    * [](https://sell.g2.com/create-a-profile)
-        
-        #### Create a Profile
+    * [](https://sell.g2.com/create-a-profile)Create a Profile
         
         Set up your profile and put yourself in front of millions.
         
@@ -325,21 +259,15 @@
     
     Main Menu
     
-    * [](https://sell.g2.com/create-a-profile)
-        
-        #### Create a Profile
+    * [](https://sell.g2.com/create-a-profile)Create a Profile
         
         Set up your profile and put yourself in front of millions.
         
-    * [](https://learn.g2.com/hub/g2-success-hub)
-        
-        #### Success with G2
+    * [](https://learn.g2.com/hub/g2-success-hub)Success with G2
         
         Take your brand up-and-to-the-right in record time.
         
-    * [](https://sell.g2.com/claim-your-profile)
-        
-        #### Claim Your Profile
+    * [](https://sell.g2.com/claim-your-profile)Claim Your Profile
         
         Generate brand awareness and capture demand.
         
@@ -449,9 +377,7 @@ privacy \[at\] g2.com
 
 Last Updated: Jan 10, 2023
 
-![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg)
-
-##### For Buyers
+ ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) For Buyers
 
 * [G2 Track](https://track.g2.com/)
 * [Software Reviews](https://www.g2.com/categories)
@@ -459,9 +385,7 @@ Last Updated: Jan 10, 2023
 * [Best Software Companies](https://www.g2.com/best-software-companies)
 * [Write a Review](https://www.g2.com/wizard/new-review)
 
-![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg)
-
-##### For Sellers
+![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) For Sellers
 
 * [Market Profiles](https://sell.g2.com/profiles)
 * [Review Generation](https://sell.g2.com/review-generation)
@@ -470,9 +394,7 @@ Last Updated: Jan 10, 2023
 * [Competitive Insights](https://sell.g2.com/competitive-insights)
 * [Add Your Product/Service](https://www.g2.com/products/new)
 
-![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg)
-
-##### Company
+![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) Company
 
 * [About](https://culture.g2.com/about)
 * [Leadership](https://culture.g2.com/leadership)
@@ -486,9 +408,7 @@ Last Updated: Jan 10, 2023
 * [](https://www.facebook.com/g2dotcom)
 * [](https://www.linkedin.com/company/g2dotcom/)
 
-![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg)
-
-##### Resources
+![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) Resources
 
 * [Sell](https://sell.g2.com/)
 * [Learn](https://learn.g2.com/)
