@@ -25,7 +25,7 @@ ORDER NOW:
 The best source for Southern recipes and Soul Food Recipes with a modern twist including cakes and savory dishes.
 
 * [](https://grandbaby-cakes.com/)
-* [Spring Recipes](https://grandbaby-cakes.com/seasonal-recipes/spring-recipes/)
+* [Summer Recipes](https://grandbaby-cakes.com/seasonal-recipes/summer-recipes/)
 * [Recipes](https://grandbaby-cakes.com/blog/)
     * [Southern Classics](https://grandbaby-cakes.com/cuisines/southern-classics/)
     * [Main Dishes](https://grandbaby-cakes.com/entrees/)
