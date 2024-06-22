@@ -1,4 +1,4 @@
-[81º](https://www.ksat.com/weather/)
+[79º](https://www.ksat.com/weather/)
 
 [](https://www.ksat.com/)
 
@@ -181,21 +181,21 @@ Tags: [Station](https://www.ksat.com/topic/Station/)
 
 * * *
 
-[](https://www.ksat.com/weather/2024/06/20/summer-solstice-heres-how-daylight-hours-sunrise-and-sunset-times-will-change-in-the-next-few-months/)
+[](https://www.ksat.com/news/local/2024/06/22/san-antonio-church-deemed-a-habitual-noise-violator-has-its-speakers-confiscated-by-city/)
 
-[20 minutes ago](https://www.ksat.com/weather/2024/06/20/summer-solstice-heres-how-daylight-hours-sunrise-and-sunset-times-will-change-in-the-next-few-months/)[### SUMMER SOLSTICE: Here’s how daylight hours, sunrise and sunset times will change in the next few months](https://www.ksat.com/weather/2024/06/20/summer-solstice-heres-how-daylight-hours-sunrise-and-sunset-times-will-change-in-the-next-few-months/)
+[3 hours ago](https://www.ksat.com/news/local/2024/06/22/san-antonio-church-deemed-a-habitual-noise-violator-has-its-speakers-confiscated-by-city/)[### San Antonio church deemed a ‘habitual noise violator’ has its speakers confiscated by city](https://www.ksat.com/news/local/2024/06/22/san-antonio-church-deemed-a-habitual-noise-violator-has-its-speakers-confiscated-by-city/)
 
-[](https://www.ksat.com/news/local/2024/06/20/camels-are-returning-to-the-alamo-on-saturday-during-world-camel-day/)
+[](https://www.ksat.com/news/local/2024/06/22/san-antonio-family-gathers-to-honor-life-of-man-killed-in-house-fire/)
 
-[39 minutes ago](https://www.ksat.com/news/local/2024/06/20/camels-are-returning-to-the-alamo-on-saturday-during-world-camel-day/)[### Camels are returning to the Alamo on Saturday during World Camel Day](https://www.ksat.com/news/local/2024/06/20/camels-are-returning-to-the-alamo-on-saturday-during-world-camel-day/)
+[3 hours ago](https://www.ksat.com/news/local/2024/06/22/san-antonio-family-gathers-to-honor-life-of-man-killed-in-house-fire/)[### San Antonio family gathers to honor life of man killed in house fire](https://www.ksat.com/news/local/2024/06/22/san-antonio-family-gathers-to-honor-life-of-man-killed-in-house-fire/)
 
-[](https://www.ksat.com/news/local/2024/06/20/childrens-chorus-of-san-antonio-summer-camp-to-peform-free-concert-on-friday-at-tobin-center/)
+[](https://www.ksat.com/weather/2024/06/21/deja-vu-in-the-gulf-a-rainfall-update-and-a-warmer-weekend-for-san-antonio/)
 
-[1 hour ago](https://www.ksat.com/news/local/2024/06/20/childrens-chorus-of-san-antonio-summer-camp-to-peform-free-concert-on-friday-at-tobin-center/)[### Children’s Chorus of San Antonio summer camp to peform free concert on Friday at Tobin Center](https://www.ksat.com/news/local/2024/06/20/childrens-chorus-of-san-antonio-summer-camp-to-peform-free-concert-on-friday-at-tobin-center/)
+[4 hours ago](https://www.ksat.com/weather/2024/06/21/deja-vu-in-the-gulf-a-rainfall-update-and-a-warmer-weekend-for-san-antonio/)[### Potential development in the Gulf](https://www.ksat.com/weather/2024/06/21/deja-vu-in-the-gulf-a-rainfall-update-and-a-warmer-weekend-for-san-antonio/)
 
-[](https://www.ksat.com/news/local/2024/06/20/watch-live-andres-tarnava-murder-trial-day-2/)
+[](https://www.ksat.com/news/local/2024/06/21/full-interview-san-antonio-mayoral-candidate-manny-pelaez-discusses-his-vision-for-san-antonio/)
 
-[1 hour ago](https://www.ksat.com/news/local/2024/06/20/watch-live-andres-tarnava-murder-trial-day-2/)[### WATCH LIVE: Andres Tarnava murder trial Day 2](https://www.ksat.com/news/local/2024/06/20/watch-live-andres-tarnava-murder-trial-day-2/)
+[7 hours ago](https://www.ksat.com/news/local/2024/06/21/full-interview-san-antonio-mayoral-candidate-manny-pelaez-discusses-his-vision-for-san-antonio/)[### FULL INTERVIEW: San Antonio mayoral candidate Manny Pelaez discusses his vision for San Antonio](https://www.ksat.com/news/local/2024/06/21/full-interview-san-antonio-mayoral-candidate-manny-pelaez-discusses-his-vision-for-san-antonio/)
 
 [KSAT DEALS](https://www.ksat.com/deals)
 ----------------------------------------
