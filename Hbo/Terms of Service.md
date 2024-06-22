@@ -284,7 +284,7 @@ Last updated: November 21, 2023
 
 [ABOUT](https://www.hbo.com/about)[GET HBO](https://www.hbo.com/hbo-and-max/how-to-get)[HELP](https://www.hbo.com/about/faqs)[SHOP](https://shop.hbo.com/)[CAREERS](https://careers.wbd.com/)[HBO INSPIRES](https://www.hbo.com/about/hbo-inspires)[HOW TO WATCH MAX](https://www.hbo.com/hbo-and-max)
 
-[Privacy Policy](https://www.warnermediaprivacy.com/policycenter/b2c/wme/)[Terms of Use](https://www.hbo.com/terms-of-use)[Ad Choices](https://www.warnermediaprivacy.com/policycenter/b2c/wm/)[Do Not Sell My Personal Information](#compliance-link)
+[Privacy Policy](https://www.warnermediaprivacy.com/policycenter/b2c/wme/)[Terms of Use](https://www.hbo.com/terms-of-use)[Ad Choices](https://www.warnermediaprivacy.com/policycenter/b2c/wm/)Do Not Sell My Personal Information
 
 © 2024 Home Box Office, Inc. All Rights Reserved.  
 This website may contain mature content.
