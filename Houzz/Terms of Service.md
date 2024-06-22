@@ -559,7 +559,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28647419/pic/houzz_logo.svg?v=28647419)
+![Houzz Logo Print](//www.houzz.com/res/28648473/pic/houzz_logo.svg?v=28648473)
 
 **HOUZZ TERMS OF USE**
 ======================
