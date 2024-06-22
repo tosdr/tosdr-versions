@@ -57,6 +57,8 @@
             
             Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
     
+    * * [Watch a video tour of the Klaviyo platform](https://www.klaviyo.com/product/platform-tour)
+    
 * Integrations
     
     * Klaviyo Integrations
@@ -183,6 +185,8 @@
             Explore the newest features
             
             Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
+    
+    * * [Watch a video tour of the Klaviyo platform](https://www.klaviyo.com/product/platform-tour)
     
 * Integrations
     
