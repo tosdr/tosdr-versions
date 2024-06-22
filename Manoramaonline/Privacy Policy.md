@@ -1,6 +1,6 @@
 ADVERTISEMENT
 
-Get ad-lite experience. [Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
+Skip ads.[Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
 
 SUBSCRIBE
 
