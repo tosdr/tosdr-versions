@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your excellent customer service.
+Awesome, great service as always!
 
-Paul Epsom
+Guy Cracknell
