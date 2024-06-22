@@ -43,8 +43,8 @@ We interview executives, engineers, and early adopters of cutting-edge technolog
 
 Latest Posts
 
-* [U.K. Host Prioritizes Customers with Eco-Driven Web Solutions »](https://www.hostingadvice.com/blog/uk-host-prioritizes-customers-eco-driven-web-solutions/)
-* [Stay Ahead of the Curve with Online AI Classes and Nanodegrees »](https://www.hostingadvice.com/blog/stay-ahead-of-the-curve-with-online-ai-classes-and-nanodegrees-2/)
+* [Survey Reveals Parental Fears and Strategies for Children's Online Safety »](https://www.hostingadvice.com/blog/screen-safety-survey/)
+* [How Do Americans Feel About Banning TikTok? »](https://www.hostingadvice.com/blog/sentiment-about-tiktok-ban-survey/)
 
 [Go to Today in Tech »](https://www.hostingadvice.com/blog/)
 
@@ -165,9 +165,9 @@ $
 
 |     |     |
 | --- | --- |
+| [![Christina Lewis](https://www.hostingadvice.com/images/uploads/2022/08/cropped-christina-headshot.jpg?width=45&height=45 "Christina Lewis")](https://www.hostingadvice.com/blog/screen-safety-survey/) | [Survey Reveals Parental Fears and Strategies for Children's Online Safety](https://www.hostingadvice.com/blog/screen-safety-survey/)<br><br>[Christina Lewis](https://www.hostingadvice.com/author/christina/) , 6/21/24 |
 | [![Lynn Cadet](https://www.hostingadvice.com/images/uploads/2021/11/Lynn-190.png?width=45&height=45 "Lynn Cadet")](https://www.hostingadvice.com/blog/hostarmada-delivers-cloud-solutions-built-for-web-success/) | [HostArmada Delivers Cloud Solutions Built for Web Success](https://www.hostingadvice.com/blog/hostarmada-delivers-cloud-solutions-built-for-web-success/)<br><br>[Lynn Cadet](https://www.hostingadvice.com/author/lynn/) , 6/18/24 |
 | [![Jordan Sprogis](https://www.hostingadvice.com/images/uploads/2023/06/jordan-quare.jpg?width=45&height=45 "Jordan Sprogis")](https://www.hostingadvice.com/blog/uk-host-prioritizes-customers-eco-driven-web-solutions/) | [U.K. Host Prioritizes Customers with Eco-Driven Web Solutions](https://www.hostingadvice.com/blog/uk-host-prioritizes-customers-eco-driven-web-solutions/)<br><br>[Jordan Sprogis](https://www.hostingadvice.com/author/jordan/) , 6/18/24 |
-| [![Christine Preusler](https://www.hostingadvice.com/images/uploads/2019/02/Christine-Preusler_avatar_1551368953.jpg?width=45&height=45 "Christine Preusler")](https://www.hostingadvice.com/blog/kamatera-delivers-global-cloud-infrastructure/) | [Kamatera’s Global Cloud Infrastructure](https://www.hostingadvice.com/blog/kamatera-delivers-global-cloud-infrastructure/)<br><br>[Christine Preusler](https://www.hostingadvice.com/author/christine/) , 6/10/24 |
 
 [more blog posts](https://www.hostingadvice.com/blog/) »
 
