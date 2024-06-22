@@ -1,282 +1,588 @@
-* [Blog](https://blog.leaseweb.com/)
-* [Knowledge Base](https://kb.leaseweb.com/)
-* [Developer API](http://developer.leaseweb.com/)
-* [Status](https://www.leasewebstatus.com/)
-* [Customer Portal](https://secure.leaseweb.com/)
+Skip to Header Skip to Main Content Skip to Footer
 
-[![](/sites/all/themes/leaseweb/new-logo.svg)](https://www.leaseweb.com/ "Home")
+[Due to a system upgrade, new orders at our US and Canada locations may be delayed. You can contact us here.](https://www.leaseweb.com/en/contact)
 
-Shopping in:
+[Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
-![](/sites/all/themes/leaseweb/assets/images/icons/map-marker.svg)CA, US
-
-Select Country or Region
-
-We are currently updating our website, so the navigation is temporarily different. If you would like to shop in another country or region, please use the selector below.
-
- Australia, Germany, Hong Kong, Japan, Netherlands, Singapore, United Kingdom
-
- Canada, United States
-
-Continue
+[![](https://shop-api.leaseweb.com/medias/new-logo-2-.svg?context=bWFzdGVyfGltYWdlc3w0MDAzfGltYWdlL3N2Zyt4bWx8YUdaaEwyaGxNQzg0T1RZM09UWTNOak0zTlRNMEwyNWxkeTFzYjJkdklDZ3lLUzV6ZG1jfDg5Y2E5ZDY2NDRjYTc4NTBjNmU2NDNiMTg5NzJmZmVkNTIyZjNkYmM3Zjg0NTg1ZGZhZWVlZWZiMDI0OTk4Nzk)](https://www.leaseweb.com/en/)
 
 * Why Leaseweb
-    * * * *
-        
-        * Leaseweb
-        * [Why Leaseweb](https://www.leaseweb.com/why-leaseweb/lets-combine-forces)
-            * [Customer Stories](https://www.leaseweb.com/customers)
-            * [Compare us](https://www.leaseweb.com/compare-us)
-            * [Our Platform](https://www.leaseweb.com/platform)
-            * [Resources](https://www.leaseweb.com/resources)
-            * [Events](https://www.leaseweb.com/events)
-            * [Technology Partners](https://www.leaseweb.com/technology-partners)
-            * [History](https://www.leaseweb.com/about)
+    
+    Leaseweb
+    
+    [Why Leaseweb](https://www.leaseweb.com/en/why-leaseweb/lets-combine-forces "Why Leaseweb")
+    
+    [Customer Stories](https://www.leaseweb.com/en/customers "Customer Stories")
+    
+    [Compare Us](https://www.leaseweb.com/en/why-leaseweb/compare-us "Compare Us")
+    
+    [Our Platform](https://www.leaseweb.com/en/why-leaseweb/platform "Our Platform")
+    
+    [Resources](https://www.leaseweb.com/en/resources "Resources")
+    
+    [Events](https://www.leaseweb.com/en/about-us/events "Events")
+    
+    [Technology Partners](https://www.leaseweb.com/en/technology-partners "Technology Partners")
+    
+    [History](https://www.leaseweb.com/en/about-us "History")
+    
 * Products
-    * * * *
-        
-        * Servers
-        * [Dedicated Server](https://www.leaseweb.com/dedicated-servers)
-            * [All Featured Servers](https://www.leaseweb.com/dedicated-servers)
-            * [Instant delivery](https://www.leaseweb.com/dedicated-servers/instant-delivery)
-            * [Customizable](https://www.leaseweb.com/dedicated-servers/build-your-own)
-            * [High Performance Server](https://www.leaseweb.com/dedicated-servers/high-performance-server)
-            * [GPU Server](https://www.leaseweb.com/dedicated-servers/gpu-servers)
-            * [High Bandwidth Server](https://www.leaseweb.com/dedicated-servers/high-bandwidth-server)
-            * [Gaming Server](https://www.leaseweb.com/dedicated-servers/gaming-server)
-            * [Storage Server](https://www.leaseweb.com/dedicated-servers/storage-server)
-            * [AMD Server](https://www.leaseweb.com/dedicated-servers/amd-server)
-            * [Ampere Server](https://www.leaseweb.com/dedicated-servers/ampere-server)
-    * * * *
-        
-        * Cloud
-        * [Cloud Products](https://www.leaseweb.com/cloud)
-            * [Virtual Private Server](https://www.leaseweb.com/cloud/virtual-server)
-            * [Public Cloud](https://www.leaseweb.com/cloud/public-cloud)
-            * [Elastic Compute](https://www.leaseweb.com/cloud/private/elastic-compute)
-            * [Managed Kubernetes](https://www.leaseweb.com/cloud/kubernetes)
-        * [VMware Services](https://www.leaseweb.com/cloud/private/vmware)
-            * [VMware vCloud](https://www.leaseweb.com/cloud/private/vmware/vcloud)
-            * [VMware vSphere](https://www.leaseweb.com/cloud/private/vmware/vsphere)
-        * [Cloud Storage](https://www.leaseweb.com/cloud-storage)
-            * [Object Storage](https://www.leaseweb.com/object-storage)
-        * [Hybrid Cloud](https://www.leaseweb.com/cloud/hybrid-cloud)
-        * [Managed VPS](https://www.leaseweb.com/services/managed-servers)
-    * * * *
-        
-        * Colocation
-        * [Colocation](https://www.leaseweb.com/colocation)
-            * [Rack Unit](https://www.leaseweb.com/colocation/rack-unit)
-            * [Full Rack](https://www.leaseweb.com/colocation/rack)
-            * [Cage](https://www.leaseweb.com/colocation/cage)
-    * * * *
-        
-        * Network & CDN
-        * [Network Services](https://www.leaseweb.com/network-services)
-            * [Floating IP](https://www.leaseweb.com/network-services/floating-ip)
-            * [Private Network](https://www.leaseweb.com/network-services/private-network)
-            * [Dedicated Network Equipment](https://www.leaseweb.com/network-services/dedicated-network-equipment)
-            * [Network Management Pack](https://www.leaseweb.com/network-services/network-management-pack)
-            * [Dedicated Network Setup](https://www.leaseweb.com/network-services/dedicated-network-setup)
-            * [Cloud Connect](https://www.leaseweb.com/network-services/cloud-connect)
-        * [CDN](https://www.leaseweb.com/cdn)
-            * [Multi-CDN](https://www.leaseweb.com/cdn/multi)
-    * * * *
-        
-        * Hosting
-        * [Web Hosting](https://www.leaseweb.com/web-hosting)
-        * [Domain Name](https://www.leaseweb.com/domain)
-    * * * *
-        
-        * Services
-        * [Backup](https://www.leaseweb.com/add-ons/backup)
-            * [Acronis](https://www.leaseweb.com/add-ons/backup/acronis)
-            * [Veeam](https://www.leaseweb.com/add-ons/backup/veeam)
-        * [Cyber Security](https://www.leaseweb.com/cyber-security)
-            * [DDoS IP Protection](https://www.leaseweb.com/cyber-security/ddos-ip-protection)
-            * [Managed Cyber Security](https://www.leaseweb.com/cyber-security/managed-cyber-security)
-            * [Penetration Testing](https://www.leaseweb.com/cyber-security/penetration-testing)
-        * [Server and Cloud Migration](https://www.leaseweb.com/services/migration-services)
-        * [Service Levels](https://www.leaseweb.com/services/sla)
+    
+    Servers
+    
+    [All Dedicated Servers](https://www.leaseweb.com/en/c/dedicated-server "All Dedicated Servers")
+    
+    [About Dedicated Servers](https://www.leaseweb.com/en/products-services/dedicated-servers "About Dedicated Servers")
+    
+    [High Performance Server](https://www.leaseweb.com/en/products-services/dedicated-servers/high-performance-server "High Performance Server")
+    
+    [GPU Server](https://www.leaseweb.com/en/products-services/dedicated-servers/gpu-server "GPU Server")
+    
+    [High Bandwidth Server](https://www.leaseweb.com/en/products-services/dedicated-servers/high-bandwidth-server "High Bandwidth Server")
+    
+    [Gaming Server](https://www.leaseweb.com/en/products-services/dedicated-servers/gaming-server "Gaming Server")
+    
+    [Storage Server](https://www.leaseweb.com/en/products-services/dedicated-servers/storage-server "Storage Server")
+    
+    [AMD Server](https://www.leaseweb.com/en/products-services/dedicated-servers/amd-server "AMD Server")
+    
+    [Ampere Server](https://www.leaseweb.com/en/products-services/dedicated-servers/ampere-server "Ampere Server")
+    
+    Cloud
+    
+    [Cloud Products](https://www.leaseweb.com/en/products-services/cloud "Cloud Products")
+    
+    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
+    
+    [Virtual Private Server](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server "Virtual Private Server")
+    
+    [Elastic Compute](https://www.leaseweb.com/en/products-services/cloud/elastic-compute "Elastic Compute")
+    
+    [Managed Kubernetes](https://www.leaseweb.com/en/products-services/cloud/kubernetes "Managed Kubernetes")
+    
+    [VMware Services](https://www.leaseweb.com/en/products-services/cloud/vmware "VMware Services")
+    
+    [VMware vCloud](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-v-cloud "VMware vCloud")
+    
+    [VMware vSphere](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-v-sphere "VMware vSphere")
+    
+    [Cloud Storage](https://www.leaseweb.com/en/products-services/cloud/cloud-storage "Cloud Storage")
+    
+    [Object Storage](https://www.leaseweb.com/en/products-services/object-storage "Object Storage")
+    
+    [Hybrid Cloud](https://www.leaseweb.com/en/products-services/cloud/hybrid-cloud "Hybrid Cloud")
+    
+    Colocation
+    
+    [Colocation](https://www.leaseweb.com/en/products-services/colocation "Colocation")
+    
+    [Rack Unit](https://www.leaseweb.com/en/products-services/colocation/rack-unit "Rack Unit")
+    
+    [Full Rack](https://www.leaseweb.com/en/products-services/colocation/private-rack "Full Rack")
+    
+    [Cage](https://www.leaseweb.com/en/products-services/colocation/private-cage "Cage")
+    
+    Network & CDN
+    
+    [Network Services](https://www.leaseweb.com/en/products-services/network "Network Services")
+    
+    [Floating IP](https://www.leaseweb.com/en/products-services/network/floating-ip "Floating IP")
+    
+    [Private Network](https://www.leaseweb.com/en/products-services/network/private-network "Private Network")
+    
+    [Dedicated Network Equipment](https://www.leaseweb.com/en/products-services/network/dedicated-network-equipment "Dedicated Network Equipment")
+    
+    [Network Management Pack](https://www.leaseweb.com/en/products-services/network/network-management-pack "Network Management Pack")
+    
+    [Dedicated Network Setup](https://www.leaseweb.com/en/products-services/network/dedicated-network-setup "Dedicated Network Setup")
+    
+    [Cloud Connect](https://www.leaseweb.com/en/products-services/network/cloud-connect "Cloud Connect")
+    
+    [CDN](https://www.leaseweb.com/en/products-services/cdn "CDN")
+    
+    [Multi-CDN](https://www.leaseweb.com/en/products-services/cdn/multi-cdn "Multi-CDN")
+    
+    Hosting
+    
+    [Web Hosting](https://www.leaseweb.com/en/products-services/hosting "Web Hosting")
+    
+    [Domain Name](https://www.leaseweb.com/en/products-services/domain-name "Domain Name")
+    
+    Services
+    
+    [Backup](https://www.leaseweb.com/en/products-services/back-up "Backup")
+    
+    [Acronis](https://www.leaseweb.com/en/products-services/back-up/acronis "Acronis")
+    
+    [Veeam](https://www.leaseweb.com/en/products-services/back-up/veeam "Veeam")
+    
+    [Server and Cloud Migration](https://www.leaseweb.com/en/products-services/server-cloud-migration "Server and Cloud Migration")
+    
+    [Service Levels](https://www.leaseweb.com/en/products-services/service-level-agreements "Service Levels")
+    
+    [Cyber Security](https://www.leaseweb.com/en/products-services/cyber-security "Cyber Security")
+    
+    [DDoS IP Protection](https://www.leaseweb.com/en/products-services/cyber-security/ddos-ip-protection "DDoS IP Protection")
+    
+    [Managed Cyber Security](https://www.leaseweb.com/en/products-services/cyber-security/managed-cyber-security "Managed Cyber Security")
+    
+    [Penetration Testing](https://www.leaseweb.com/en/products-services/cyber-security/penetration-testing "Penetration Testing")
+    
 * Solutions
-    * * * *
-        
-        * Industries
-            * [MarTech & AdTech](https://www.leaseweb.com/solutions/martech)
-            * [SaaS](https://www.leaseweb.com/solutions/saas)
-            * [E-Commerce](https://www.leaseweb.com/solutions/e-commerce)
-            * [Gaming](https://www.leaseweb.com/solutions/gaming)
-            * [iGaming](https://www.leaseweb.com/solutions/igaming)
-            * [Other industries](https://www.leaseweb.com/other-industries)
-    * * * *
-        
-        * Business Needs
-            * [SAP HANA Hosting](https://www.leaseweb.com/solutions/sap-hosting)
-            * [Big Data](https://www.leaseweb.com/solutions/big-data)
-            * [Test & Development](https://www.leaseweb.com/solutions/test-development)
+    
+    Industries
+    
+    [MarTech & AdTech](https://www.leaseweb.com/en/industries-solutions/martech-adtech "MarTech & AdTech")
+    
+    [SaaS](https://www.leaseweb.com/en/industries-solutions/saas "SaaS")
+    
+    [Gaming](https://www.leaseweb.com/en/industries-solutions/gaming "Gaming")
+    
+    [iGaming](https://www.leaseweb.com/en/industries-solutions/igaming "iGaming")
+    
+    [E-Commerce](https://www.leaseweb.com/en/industries-solutions/e-commerce "E-Commerce")
+    
+    Business Needs
+    
+    [SAP HANA Hosting](https://www.leaseweb.com/en/industries-solutions/sap-hosting "SAP HANA Hosting")
+    
+    [Big Data](https://www.leaseweb.com/en/industries-solutions/big-data "Big Data")
+    
+    [Test & Development](https://www.leaseweb.com/en/industries-solutions/test-development "Test & Development")
+    
 * Resources
-    * * * *
-        
-        * Reference Materials
-            * [Customer Cases](https://www.leaseweb.com/customers)
-            * [White papers](https://www.leaseweb.com/whitepapers-and-reports)
-            * [Webinars](https://www.leaseweb.com/webinars)
-            * [Product sheets](https://www.leaseweb.com/product-sheets-and-leaflets)
-    * * * *
-        
-        * Newsroom
-            * [Blog](https://blog.leaseweb.com/)
-            * [Press Releases](https://www.leaseweb.com/press/releases)
-            * [Events](https://www.leaseweb.com/events)
-    * * * *
-        
-        * Knowledge Guides
-            * [Knowledge Base](https://kb.leaseweb.com/)
-            * [Developer API](http://developer.leaseweb.com/)
-            * [Leaseweb Labs](https://labs.leaseweb.com/)
-* About us
-    * * * *
-        
-        * Leaseweb
-        * [Our Story](https://www.leaseweb.com/about)
-            * [Management Team](https://www.leaseweb.com/about/management-team)
-            * [Corporate Social Responsibility](https://www.leaseweb.com/about/corporate-social-responsibility)
-            * [Customer Commitment](https://www.leaseweb.com/about/customer-commitment)
-            * [Our Commitment to Sustainability](https://www.leaseweb.com/about/our-commitment-sustainability)
-            * [European Cloud Campus](https://www.leaseweb.com/about/european-cloud-campus)
-    * * * *
-        
-        * Our Platform
-        * [Platform Overview](https://www.leaseweb.com/platform)
-            * [Network](https://www.leaseweb.com/platform/network)
-            * [Data Centers](https://www.leaseweb.com/platform/data-centers)
-            * [Automation](https://www.leaseweb.com/platform/automation)
-            * [Security & Certifications](https://www.leaseweb.com/security-certifications)
-    * * * *
-        
-        * Working at Leaseweb
-        * [Careers Home](https://www.leaseweb.com/career)
-            * [Open Positions](https://www.leaseweb.com/career/open-positions)
-            * [Company Culture](https://www.leaseweb.com/career/company-culture)
-            * [Career Development](https://www.leaseweb.com/career/career-development)
-            * [Recruiters](https://www.leaseweb.com/career/recruiters)
-            * [Stories](https://www.leaseweb.com/career/stories)
-    * * * *
-        
-        * Partners
-        * [Technology Partners](https://www.leaseweb.com/technology-partners)
-            * [Reseller Program](https://www.leaseweb.com/reseller-program)
-    * * * *
-        
-        * Legal & Compliance
-        * [Legal Information](https://www.leaseweb.com/legal)
-            * [Sales Contract](https://www.leaseweb.com/legal/sales-contract)
-            * [Personal Data Protection Acts](https://www.leaseweb.com/legal/personal-data-protection-acts)
-            * [Website Terms of Use & Cookie Statement](https://www.leaseweb.com/legal/website-terms-of-use-and-cookie-statement)
-            * [Abuse Handling](https://www.leaseweb.com/abuse-handling)
-            * [KYC Customer Verification](https://www.leaseweb.com/legal/customer-verification)
-* [Contact](https://www.leaseweb.com/contact)
+    
+    Reference Materials
+    
+    [Resources](https://www.leaseweb.com/en/resources "Resources")
+    
+    [Customer Cases](https://www.leaseweb.com/en/customers "Customer Cases")
+    
+    [White papers](https://www.leaseweb.com/en/resources/white-papers "White papers")
+    
+    [Webinars](https://www.leaseweb.com/en/resources/webinars "Webinars")
+    
+    [Product sheets](https://www.leaseweb.com/en/resources/product-sheets "Product sheets")
+    
+    Newsroom
+    
+    [Blog](https://blog.leaseweb.com/ "Blog")
+    
+    [Press Releases](https://www.leaseweb.com/en/press/releases "Press Releases")
+    
+    [Events](https://www.leaseweb.com/en/about-us/events "Events")
+    
+    Knowledge Guides
+    
+    [Knowledge Base](https://kb.leaseweb.com/ "Knowledge Base")
+    
+    [Developer API](https://developer.leaseweb.com/ "Developer API")
+    
+    [Leaseweb Labs](https://labs.leaseweb.com/ "Leaseweb Labs")
+    
+* About Us
+    
+    Leaseweb
+    
+    [Our Story](https://www.leaseweb.com/en/about-us "Our Story")
+    
+    [Management Team](https://www.leaseweb.com/en/about-us/our-story/management-team "Management Team")
+    
+    [Corporate Social Responsibility](https://www.leaseweb.com/en/about-us/our-story/corporate-social-responsibility "Corporate Social Responsibility")
+    
+    [Customer Commitment](https://www.leaseweb.com/en/about-us/our-story/customer-commitment "Customer Commitment")
+    
+    [Our commitment to sustainability](https://www.leaseweb.com/en/about-us/our-story/our-commitment-sustainability "Our commitment to sustainability")
+    
+    [European Cloud Campus](https://www.leaseweb.com/en/about-us/our-story/european-cloud-campus "European Cloud Campus")
+    
+    Our Platform
+    
+    [Platform Overview](https://www.leaseweb.com/en/why-leaseweb/platform "Platform Overview")
+    
+    [Network](https://www.leaseweb.com/en/why-leaseweb/platform/network "Network")
+    
+    [Data Centers](https://www.leaseweb.com/en/why-leaseweb/platform/data-centers "Data Centers")
+    
+    [Automation](https://www.leaseweb.com/en/why-leaseweb/platform/automation "Automation")
+    
+    [Security & Certifications](https://www.leaseweb.com/en/about-us/security-certifications "Security & Certifications")
+    
+    Working At Leaseweb
+    
+    [Career Home](https://www.leaseweb.com/en/about-us/career "Career Home")
+    
+    [Open Positions](https://www.leaseweb.com/en/about-us/career/open-positions "Open Positions")
+    
+    [Company Culture](https://www.leaseweb.com/en/about-us/career/company-culture "Company Culture")
+    
+    [Career Development](https://www.leaseweb.com/en/about-us/career/career-development "Career Development")
+    
+    [Recruiters](https://www.leaseweb.com/en/about-us/career/recruiters "Recruiters")
+    
+    [Stories](https://www.leaseweb.com/en/about-us/career/stories "Stories")
+    
+    Partners
+    
+    [Technology Partners](https://www.leaseweb.com/en/technology-partners "Technology Partners")
+    
+    [Reseller Program](https://www.leaseweb.com/en/about-us/reseller-program "Reseller Program")
+    
+    Legal & Compliance
+    
+    [Legal Information](https://www.leaseweb.com/en/about-us/legal "Legal Information")
+    
+    [Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract "Sales Contract")
+    
+    [Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts "Personal Data Protection Acts")
+    
+    [Website Terms of Use & Cookie Statement](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement "Website Terms of Use & Cookie Statement")
+    
+    [Abuse Handling](https://www.leaseweb.com/en/about-us/legal/abuse-handling "Abuse Handling")
+    
+    [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer "KYC Customer Verification")
+    
+* [Contact](https://www.leaseweb.com/en/contact "Contact")
 
-Search form
+When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.
 
-Search 
+EN
 
-Close
+EN
 
- 
+[Log in](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)[0](https://www.leaseweb.com/en/cart)
 
-en
+[Home](https://www.leaseweb.com/en/)›[History](https://www.leaseweb.com/en/about-us)›[Legal Information](https://www.leaseweb.com/en/about-us/legal)›[Website terms of use](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)
 
-* [Deutsch de](https://www.leaseweb.com/de/rechtliches/cookie-erklarung)
-* [English en](https://www.leaseweb.com/legal/website-terms-of-use-and-cookie-statement)
-* [Français fr](https://www.leaseweb.com/fr/legal/website-terms-of-use-and-cookie-statement)
-* [Nederlands nl](https://www.leaseweb.com/nl/legal/cookieverklaring)
+When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.
 
-[0](https://www.leaseweb.com/cart)
+EN
+
+EN
 
 Language
 
-* [Deutsch de](https://www.leaseweb.com/de/rechtliches/cookie-erklarung)
-* [English en](https://www.leaseweb.com/legal/website-terms-of-use-and-cookie-statement)
-* [Français fr](https://www.leaseweb.com/fr/legal/website-terms-of-use-and-cookie-statement)
-* [Nederlands nl](https://www.leaseweb.com/nl/legal/cookieverklaring)
+[EnglishEN](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)[DeutschDE](https://www.leaseweb.com/de/about-us/legal/website-terms-of-use-cookie-statement)[FrançaisFR](https://www.leaseweb.com/fr/about-us/legal/website-terms-of-use-cookie-statement)[NederlandsNL](https://www.leaseweb.com/nl/about-us/legal/website-terms-of-use-cookie-statement)
 
-![](/sites/all/themes/leaseweb/assets/images/icons/map-marker.svg)CA, US
+* Why Leaseweb
+    
+    Leaseweb
+    
+    [Why Leaseweb](https://www.leaseweb.com/en/why-leaseweb/lets-combine-forces "Why Leaseweb")
+    
+    [Customer Stories](https://www.leaseweb.com/en/customers "Customer Stories")
+    
+    [Compare Us](https://www.leaseweb.com/en/why-leaseweb/compare-us "Compare Us")
+    
+    [Our Platform](https://www.leaseweb.com/en/why-leaseweb/platform "Our Platform")
+    
+    [Resources](https://www.leaseweb.com/en/resources "Resources")
+    
+    [Events](https://www.leaseweb.com/en/about-us/events "Events")
+    
+    [Technology Partners](https://www.leaseweb.com/en/technology-partners "Technology Partners")
+    
+    [History](https://www.leaseweb.com/en/about-us "History")
+    
+* Products
+    
+    Servers
+    
+    [All Dedicated Servers](https://www.leaseweb.com/en/c/dedicated-server "All Dedicated Servers")
+    
+    [About Dedicated Servers](https://www.leaseweb.com/en/products-services/dedicated-servers "About Dedicated Servers")
+    
+    [High Performance Server](https://www.leaseweb.com/en/products-services/dedicated-servers/high-performance-server "High Performance Server")
+    
+    [GPU Server](https://www.leaseweb.com/en/products-services/dedicated-servers/gpu-server "GPU Server")
+    
+    [High Bandwidth Server](https://www.leaseweb.com/en/products-services/dedicated-servers/high-bandwidth-server "High Bandwidth Server")
+    
+    [Gaming Server](https://www.leaseweb.com/en/products-services/dedicated-servers/gaming-server "Gaming Server")
+    
+    [Storage Server](https://www.leaseweb.com/en/products-services/dedicated-servers/storage-server "Storage Server")
+    
+    [AMD Server](https://www.leaseweb.com/en/products-services/dedicated-servers/amd-server "AMD Server")
+    
+    [Ampere Server](https://www.leaseweb.com/en/products-services/dedicated-servers/ampere-server "Ampere Server")
+    
+    Cloud
+    
+    [Cloud Products](https://www.leaseweb.com/en/products-services/cloud "Cloud Products")
+    
+    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
+    
+    [Virtual Private Server](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server "Virtual Private Server")
+    
+    [Elastic Compute](https://www.leaseweb.com/en/products-services/cloud/elastic-compute "Elastic Compute")
+    
+    [Managed Kubernetes](https://www.leaseweb.com/en/products-services/cloud/kubernetes "Managed Kubernetes")
+    
+    [VMware Services](https://www.leaseweb.com/en/products-services/cloud/vmware "VMware Services")
+    
+    [VMware vCloud](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-v-cloud "VMware vCloud")
+    
+    [VMware vSphere](https://www.leaseweb.com/en/products-services/cloud/vmware/vmware-v-sphere "VMware vSphere")
+    
+    [Cloud Storage](https://www.leaseweb.com/en/products-services/cloud/cloud-storage "Cloud Storage")
+    
+    [Object Storage](https://www.leaseweb.com/en/products-services/object-storage "Object Storage")
+    
+    [Hybrid Cloud](https://www.leaseweb.com/en/products-services/cloud/hybrid-cloud "Hybrid Cloud")
+    
+    Colocation
+    
+    [Colocation](https://www.leaseweb.com/en/products-services/colocation "Colocation")
+    
+    [Rack Unit](https://www.leaseweb.com/en/products-services/colocation/rack-unit "Rack Unit")
+    
+    [Full Rack](https://www.leaseweb.com/en/products-services/colocation/private-rack "Full Rack")
+    
+    [Cage](https://www.leaseweb.com/en/products-services/colocation/private-cage "Cage")
+    
+    Network & CDN
+    
+    [Network Services](https://www.leaseweb.com/en/products-services/network "Network Services")
+    
+    [Floating IP](https://www.leaseweb.com/en/products-services/network/floating-ip "Floating IP")
+    
+    [Private Network](https://www.leaseweb.com/en/products-services/network/private-network "Private Network")
+    
+    [Dedicated Network Equipment](https://www.leaseweb.com/en/products-services/network/dedicated-network-equipment "Dedicated Network Equipment")
+    
+    [Network Management Pack](https://www.leaseweb.com/en/products-services/network/network-management-pack "Network Management Pack")
+    
+    [Dedicated Network Setup](https://www.leaseweb.com/en/products-services/network/dedicated-network-setup "Dedicated Network Setup")
+    
+    [Cloud Connect](https://www.leaseweb.com/en/products-services/network/cloud-connect "Cloud Connect")
+    
+    [CDN](https://www.leaseweb.com/en/products-services/cdn "CDN")
+    
+    [Multi-CDN](https://www.leaseweb.com/en/products-services/cdn/multi-cdn "Multi-CDN")
+    
+    Hosting
+    
+    [Web Hosting](https://www.leaseweb.com/en/products-services/hosting "Web Hosting")
+    
+    [Domain Name](https://www.leaseweb.com/en/products-services/domain-name "Domain Name")
+    
+    Services
+    
+    [Backup](https://www.leaseweb.com/en/products-services/back-up "Backup")
+    
+    [Acronis](https://www.leaseweb.com/en/products-services/back-up/acronis "Acronis")
+    
+    [Veeam](https://www.leaseweb.com/en/products-services/back-up/veeam "Veeam")
+    
+    [Server and Cloud Migration](https://www.leaseweb.com/en/products-services/server-cloud-migration "Server and Cloud Migration")
+    
+    [Service Levels](https://www.leaseweb.com/en/products-services/service-level-agreements "Service Levels")
+    
+    [Cyber Security](https://www.leaseweb.com/en/products-services/cyber-security "Cyber Security")
+    
+    [DDoS IP Protection](https://www.leaseweb.com/en/products-services/cyber-security/ddos-ip-protection "DDoS IP Protection")
+    
+    [Managed Cyber Security](https://www.leaseweb.com/en/products-services/cyber-security/managed-cyber-security "Managed Cyber Security")
+    
+    [Penetration Testing](https://www.leaseweb.com/en/products-services/cyber-security/penetration-testing "Penetration Testing")
+    
+* Solutions
+    
+    Industries
+    
+    [MarTech & AdTech](https://www.leaseweb.com/en/industries-solutions/martech-adtech "MarTech & AdTech")
+    
+    [SaaS](https://www.leaseweb.com/en/industries-solutions/saas "SaaS")
+    
+    [Gaming](https://www.leaseweb.com/en/industries-solutions/gaming "Gaming")
+    
+    [iGaming](https://www.leaseweb.com/en/industries-solutions/igaming "iGaming")
+    
+    [E-Commerce](https://www.leaseweb.com/en/industries-solutions/e-commerce "E-Commerce")
+    
+    Business Needs
+    
+    [SAP HANA Hosting](https://www.leaseweb.com/en/industries-solutions/sap-hosting "SAP HANA Hosting")
+    
+    [Big Data](https://www.leaseweb.com/en/industries-solutions/big-data "Big Data")
+    
+    [Test & Development](https://www.leaseweb.com/en/industries-solutions/test-development "Test & Development")
+    
+* Resources
+    
+    Reference Materials
+    
+    [Resources](https://www.leaseweb.com/en/resources "Resources")
+    
+    [Customer Cases](https://www.leaseweb.com/en/customers "Customer Cases")
+    
+    [White papers](https://www.leaseweb.com/en/resources/white-papers "White papers")
+    
+    [Webinars](https://www.leaseweb.com/en/resources/webinars "Webinars")
+    
+    [Product sheets](https://www.leaseweb.com/en/resources/product-sheets "Product sheets")
+    
+    Newsroom
+    
+    [Blog](https://blog.leaseweb.com/ "Blog")
+    
+    [Press Releases](https://www.leaseweb.com/en/press/releases "Press Releases")
+    
+    [Events](https://www.leaseweb.com/en/about-us/events "Events")
+    
+    Knowledge Guides
+    
+    [Knowledge Base](https://kb.leaseweb.com/ "Knowledge Base")
+    
+    [Developer API](https://developer.leaseweb.com/ "Developer API")
+    
+    [Leaseweb Labs](https://labs.leaseweb.com/ "Leaseweb Labs")
+    
+* About Us
+    
+    Leaseweb
+    
+    [Our Story](https://www.leaseweb.com/en/about-us "Our Story")
+    
+    [Management Team](https://www.leaseweb.com/en/about-us/our-story/management-team "Management Team")
+    
+    [Corporate Social Responsibility](https://www.leaseweb.com/en/about-us/our-story/corporate-social-responsibility "Corporate Social Responsibility")
+    
+    [Customer Commitment](https://www.leaseweb.com/en/about-us/our-story/customer-commitment "Customer Commitment")
+    
+    [Our commitment to sustainability](https://www.leaseweb.com/en/about-us/our-story/our-commitment-sustainability "Our commitment to sustainability")
+    
+    [European Cloud Campus](https://www.leaseweb.com/en/about-us/our-story/european-cloud-campus "European Cloud Campus")
+    
+    Our Platform
+    
+    [Platform Overview](https://www.leaseweb.com/en/why-leaseweb/platform "Platform Overview")
+    
+    [Network](https://www.leaseweb.com/en/why-leaseweb/platform/network "Network")
+    
+    [Data Centers](https://www.leaseweb.com/en/why-leaseweb/platform/data-centers "Data Centers")
+    
+    [Automation](https://www.leaseweb.com/en/why-leaseweb/platform/automation "Automation")
+    
+    [Security & Certifications](https://www.leaseweb.com/en/about-us/security-certifications "Security & Certifications")
+    
+    Working At Leaseweb
+    
+    [Career Home](https://www.leaseweb.com/en/about-us/career "Career Home")
+    
+    [Open Positions](https://www.leaseweb.com/en/about-us/career/open-positions "Open Positions")
+    
+    [Company Culture](https://www.leaseweb.com/en/about-us/career/company-culture "Company Culture")
+    
+    [Career Development](https://www.leaseweb.com/en/about-us/career/career-development "Career Development")
+    
+    [Recruiters](https://www.leaseweb.com/en/about-us/career/recruiters "Recruiters")
+    
+    [Stories](https://www.leaseweb.com/en/about-us/career/stories "Stories")
+    
+    Partners
+    
+    [Technology Partners](https://www.leaseweb.com/en/technology-partners "Technology Partners")
+    
+    [Reseller Program](https://www.leaseweb.com/en/about-us/reseller-program "Reseller Program")
+    
+    Legal & Compliance
+    
+    [Legal Information](https://www.leaseweb.com/en/about-us/legal "Legal Information")
+    
+    [Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract "Sales Contract")
+    
+    [Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts "Personal Data Protection Acts")
+    
+    [Website Terms of Use & Cookie Statement](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement "Website Terms of Use & Cookie Statement")
+    
+    [Abuse Handling](https://www.leaseweb.com/en/about-us/legal/abuse-handling "Abuse Handling")
+    
+    [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer "KYC Customer Verification")
+    
+* [Contact](https://www.leaseweb.com/en/contact "Contact")
 
-Select Country or Region
+Cookie Statement
+================
 
-We are currently updating our website, so the navigation is temporarily different. If you would like to shop in another country or region, please use the selector below.
+This cookie statement applies to leaseweb.com (including the Leaseweb Customer Portal and all other panels and dashboards available through the leaseweb.com domain), a website of Leaseweb Global B.V. ("Leaseweb") and explains how cookies are placed on your computer, tablet, and/or cell phone to store information for the purpose of improving the website experience.
 
- Australia, Germany, Hong Kong, Japan, Netherlands, Singapore, United Kingdom
+![background-default-header-banner](https://shop-api.leaseweb.com/medias/background-default-banner-1-.png?context=bWFzdGVyfHJvb3R8ODM4OHxpbWFnZS9wbmd8YUdGbUwyZ3hOUzg0TnprNE1ETTBPRFV6T1RFNEwySmhZMnRuY205MWJtUXRaR1ZtWVhWc2RDMWlZVzV1WlhJZ0tERXBMbkJ1Wnd8MzZlN2FjYWFhYWJmYmFjM2FiNDMzZTNmNDYyOGMxZjE5ODFmNzQ2M2NkNDBiZTNjN2IyMmQ1ZWMzNzk0OWRiZg)
 
- Canada, United States
-
-Continue
-
-You are here
-
-[Home](https://www.leaseweb.com/) › [Legal & Compliance](https://www.leaseweb.com/legal) › Website Terms of Use & Cookie Statement
-
-Legal & Compliance
-==================
-
-Leaseweb is the brand name under which various independent Leaseweb Sales Entities operate. Each of these sales entities is a separate and distinct corporate entity that provides services in a particular geographic area.
-
-[Due to a system upgrade, new orders cannot be placed at our US and Canada locations until June 24, 2024.](https://www.leaseweb.com/contact)
-
-* [Top](#page)
-* [General](https://www.leaseweb.com/legal)
-* [Sales Contract](https://www.leaseweb.com/legal/sales-contract)
-* [Website Terms of Use & Cookie statement](https://www.leaseweb.com/legal/website-terms-of-use-and-cookie-statement)
-* [Abuse Handling](https://www.leaseweb.com/abuse-handling)
-* [KYC Customer Verification](https://www.leaseweb.com/legal/customer-verification)
-* [Personal Data Protection Acts](https://www.leaseweb.com/legal/personal-data-protection-acts)
+* [General](https://www.leaseweb.com/en/about-us/legal "General")
+* [Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract "Sales Contract")
+* [Website Terms of Use & Cookie statement](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement "Website Terms of Use & Cookie statement")
+* [Abuse Handling](https://www.leaseweb.com/en/about-us/legal/abuse-handling "Abuse Handling")
+* [KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer "KYC Customer Verification")
+* [Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts "Personal Data Protection Acts")
 
 Introduction
 ------------
 
-This Website Terms of Use & Cookie Statement applies to leaseweb.com (including the Leaseweb Customer Portal and all other panels and dashboards available under the leaseweb.com domain), a website of Leaseweb Global B.V. (“Leaseweb”) and explains how cookies are placed on your computer, tablet and/or mobile telephone (a "device") in order to log information with the goal of improving the website experience.
+This Website Terms of Use & Cookie Statement applies to leaseweb.com (including the Leaseweb Customer Portal and all other panels and dashboards available under the leaseweb.com domain), a website of Leaseweb Global B.V. (“Leaseweb”) and explains how cookies are placed on your computer, tablet and/or mobile telephone (a "device") in order to log information with the goal of improving the website experience.  
+ 
 
 Website Terms of Use
 --------------------
 
-This website, the Leaseweb Customer Portal and API are made available to you and operated by Leaseweb Global B.V. You may order goods and services through this website from separate Leaseweb Sales Entities, and your order of such goods and services, the provision thereof by the relevant Leaseweb Sales Entity, and your use thereof, shall all be governed by a separate agreement between you and the relevant Leaseweb Sales Entity. Leaseweb Global B.V. shall not be a party to said separate agreement. Your use of this website, the Leaseweb Customer Portal and API are governed by the Website Terms of Use.
+This website, the Leaseweb Customer Portal and API are made available to you and operated by Leaseweb Global B.V. You may order goods and services through this website from separate Leaseweb Sales Entities, and your order of such goods and services, the provision thereof by the relevant Leaseweb Sales Entity, and your use thereof, shall all be governed by a separate agreement between you and the relevant Leaseweb Sales Entity. Leaseweb Global B.V. shall not be a party to said separate agreement. Your use of this website, the Leaseweb Customer Portal and API are governed by the Website Terms of Use.  
+ 
 
 ### You can read the Website Terms of Use here:
 
-* [Website Terms of Use](https://www.leaseweb.com/sites/default/files/Legal/LSW_GL_v2024.1_Website_Terms_of_Use.pdf)
+* [Website Terms of Use](https://nl.object-storage.io/legal-files/security-certifications/LSW_GL_v2024.1_Website_Terms_of_Use.pdf)  
+     
 
 Cookie Statement
 ----------------
 
-* Links
-    * [Customer Portal](https://secure.leaseweb.com/login)
-    * [Status](https://www.leasewebstatus.com/)
-    * [Leaseweb Blog](http://blog.leaseweb.com/)
-    * [Knowledge Base](https://kb.leaseweb.com/)
-    * [API Documentation](http://developer.leaseweb.com/)
-    * [Leaseweb Labs](https://labs.leaseweb.com/)
-* About Leaseweb
-    * [Our Story](https://www.leaseweb.com/about)
-    * [Careers](https://www.leaseweb.com/career)
-    * [Press Releases](https://www.leaseweb.com/press/releases)
-    * [Events](https://www.leaseweb.com/events)
-    * [Our Commitment to Sustainability](https://www.leaseweb.com/about/our-commitment-sustainability)
-    * [Contact](https://www.leaseweb.com/contact)
-* Legal & Compliance
-    * [General](https://www.leaseweb.com/legal)
-    * [Sales Contract](https://www.leaseweb.com/legal/sales-contract)
-    * [Personal Data Protection Acts](https://www.leaseweb.com/legal/personal-data-protection-acts)
-    * [Abuse Handling](https://www.leaseweb.com/abuse-handling)
-    * [KYC Customer Verification](https://www.leaseweb.com/legal/customer-verification)
-    * [Website Terms of Use & Cookie Statement](https://www.leaseweb.com/legal/website-terms-of-use-and-cookie-statement)
+Links
 
-©2023 Leaseweb. All Rights Reserved.
+[Customer Portal](https://secure.leaseweb.com/login)
 
-![](/sites/all/themes/leaseweb/assets/images/1pixel.gif)
+[Status](https://www.leasewebstatus.com/)
 
-Storing data is currently disabled by your browser. Leaseweb Website requires storing data to be enabled to operate correctly.  
-For information about how to enable storing data, see the Help for Web browser
+[Leaseweb Blog](http://blog.leaseweb.com/)
+
+[Knowledge Base](https://kb.leaseweb.com/)
+
+[API Documentation](http://developer.leaseweb.com/)
+
+[Leaseweb Labs](https://labs.leaseweb.com/)
+
+About Leaseweb
+
+[Our Story](https://www.leaseweb.com/en/about-us)
+
+[Careers](https://www.leaseweb.com/en/about-us/career)
+
+[Press Releases](https://www.leaseweb.com/en/press/releases)
+
+[Events](https://www.leaseweb.com/en/about-us/events)
+
+[Contact](https://www.leaseweb.com/en/contact)
+
+Legal & Compliance
+
+[General](https://www.leaseweb.com/en/about-us/legal)
+
+[Sales Contract](https://www.leaseweb.com/en/about-us/legal/sales-contract)
+
+[Personal Data Protection Acts](https://www.leaseweb.com/en/about-us/legal/personal-data-protection-acts)
+
+[Abuse Handling](https://www.leaseweb.com/en/about-us/legal/abuse-handling)
+
+[KYC Customer Verification](https://www.leaseweb.com/en/about-us/legal/know-your-customer)
+
+[Website Terms of Use & Cookie Statement](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)
+
+[Impressum](https://www.leaseweb.com/en/about-us/legal/impressum)
+
+©2024 Leaseweb. All Rights Reserved.
+
+#### Sign up for our newsletter
+
+Stay up to date with the latest news about Leaseweb solutions, events, special offers and more by subscribing to our monthly newsletter.
 
 #### Visit/Follow us
 
@@ -284,6 +590,3 @@ For information about how to enable storing data, see the Help for Web browser
 * [](http://www.twitter.com/leaseweb "Twitter")
 * [](http://www.linkedin.com/company/242620 "LinkedIn")
 * [](https://www.youtube.com/user/LeaseWeb "YouTube")
-
-The International site provides access to our global portfolio of products.  
-For hosting exclusively in the United States, visit the US site.
