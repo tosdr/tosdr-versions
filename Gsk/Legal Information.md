@@ -47,7 +47,7 @@ Location
         
     * [HIV](https://us.gsk.com/en-us/company/hiv/)
     
-    [Feature section Global Outstanding people ![](/media/7610/navthumb-web09-header-gskh_2_2022_smtspc_37_hess.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Feature section Global policy positions ![](/media/7611/gsk_texture_fluid_03_a_cmyk_web-size.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
+    [Feature section Global Outstanding people ![Two employees walking through the office together](/media/11517/20250115-extra-6-phl.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/outstanding-people/)  [Feature section Global policy positions ![An employee attending an online meeting](/media/11524/20250115-extra-14-phl.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/company/policy-positions) 
     
     Close menu
     
@@ -65,7 +65,7 @@ Location
         * [Diversity in clinical studies](https://us.gsk.com/en-us/innovation/clinical-studies/diversity-in-clinical-studies/)
         
     
-    [Feature section Global pipeline ![Person checking vials](/media/7427/ware_3_2022_prodqc_14_hess.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/)  [Feature section Global Behind the science magazine ![3D rendering of immuno-oncology cells](/media/7431/immuno-oncology-science-image.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/) 
+    [Feature section Global pipeline ![A close-up shot of scientist's hands handling a vial](/media/11514/20281231-c1-innovation-um.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/innovation/pipeline/)  [Feature section Global Behind the science magazine ![GSK Tech Human Image](/media/10847/gsk_tech_human_image_6k.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/behind-the-science-magazine/) 
     
     Close menu
     
@@ -92,7 +92,7 @@ Location
         
     * [Ethical standards](https://us.gsk.com/en-us/responsibility/ethical-standards/)
     
-    [FEATURED WEBSITE Access to medicines ![](/media/7657/careers-early-talent-01.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gskforyou.com/)  [FEATURED SECTION Global Responsibility ![Lab worker adjusting glasses](/media/7481/stvg_2_2022_smtlab_2_hess-1920x1080px.jpeg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/) 
+    [FEATURED WEBSITE Access to medicines ![A scientist checking experiment results in the lab](/media/11540/20271231-a1-careers-up.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gskforyou.com/)  [FEATURED SECTION Global Responsibility ![A smiling scientist posing in the lab](/media/11557/20250115-f4-ethical-standards-um.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/responsibility/) 
     
     Close menu
     
@@ -112,7 +112,7 @@ Location
         * [Mapping Myelofibrosis](https://us.gsk.com/en-us/media/in-focus/mapping-myelofibrosis/)
         
     
-    [Feature Section Global press releases ![Employees walking across a bridge at GSK House, UK](/media/3327/gsk-house-view.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/) 
+    [Feature Section Global press releases ![Two employees discussing work in the office](/media/11553/20271231-h2-visit-our-global-careers-site-link-um.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/media/press-releases/) 
     
     Close menu
     
@@ -146,7 +146,7 @@ Location
         
     * [Veterans at GSK](https://us.gsk.com/en-us/careers/veterans-at-gsk/)
     
-    [FEATURED SECTION Global how we hire ![](/media/7474/gsk_rix_24_10_18_p_d2_s4_064-how-we-hire-1920x960px.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/how-we-hire/)  [FEATURED SECTION Global future leaders program ![](/media/7475/gskh-2-2022-smtspc-11-hess-future-leaders-graduate-programme-1920x960px.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme) 
+    [FEATURED SECTION Global how we hire ![Three employees meeting in the office](/media/11526/20271231-a3-contact-us-phl.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/how-we-hire/)  [FEATURED SECTION Global future leaders program ![A smiling scientist posing in the lab](/media/11539/20281231-h4a-achieve-your-career-goals-up.jpg?mode=stretch&width=329&height=185&bgcolor=fff)](https://www.gsk.com/en-gb/careers/early-talent/future-leaders-graduate-programme) 
     
     Close menu
     
