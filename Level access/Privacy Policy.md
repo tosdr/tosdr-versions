@@ -345,15 +345,12 @@ Follow us
 * [Reporting and Analytics](https://www.levelaccess.com/reporting-and-analytics/)
 * [VPATs, ACRs, and Conformance Statements](https://www.levelaccess.com/vpats-acrs-and-conformance-statements/)
 * [Legal Expertise](https://www.levelaccess.com/legal-expertise/)
+* [Academy and Training](https://www.levelaccess.com/academy-and-training/)
 * [Designer Tools](https://www.levelaccess.com/designer-tools/)
 * [Developer Tools](https://www.levelaccess.com/developer-tools/)
 * [Collaboration and Workflow Management](https://www.levelaccess.com/collaboration-and-workflow-management/)
 * [Integrations and API](https://www.levelaccess.com/integrations-and-api/)
 * [Governance and Program Management](https://www.levelaccess.com/governance-and-program-management/)
-* [Accessibility Audit](https://www.levelaccess.com/accessibility-audit/)
-* [Demand Letter Review](https://www.levelaccess.com/demand-letter/)
-* [VPATs and ACRs](https://www.levelaccess.com/vpats-and-acrs/)
-* [ADA Title II Compliance Support](https://www.levelaccess.com/ada-title-ii-compliance-support/)
 
 ### Customers
 
