@@ -578,11 +578,11 @@ Community
 
 [Blog](https://blog.lulu.com/)[Videos](https://www.youtube.com/@Luludotcom)[Podcast](https://www.publishprosperpodcast.com/)
 
-[Developers](https://developers.lulu.com/home)
-
 Help
 
 [Order Lookup](https://www.lulu.com/order-lookup?)[Knowledge Base](https://help.lulu.com/en/support/home)[Contact Support](https://help.lulu.com/en/support/tickets/new)
+
+[Developers](https://developers.lulu.com/home)
 
 English
 
