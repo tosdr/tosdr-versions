@@ -33,7 +33,6 @@
 * Back
     
 * [Occasions](javascript:void(0))
-    * [Father's Day](https://www.justflowers.com/fathers-day.asp)
     * [Birthday](https://www.justflowers.com/birthday-flowers.asp)
     * [Get Well](https://www.justflowers.com/get-well-flowers.asp)
     * [Thinking of You](https://www.justflowers.com/list.asp?occ_id=22&cat_id=11)
