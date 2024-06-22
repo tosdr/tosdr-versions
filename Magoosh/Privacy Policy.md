@@ -1,6 +1,6 @@
 [Skip to Main Content](#main-content)
 
-Toggle navigation [Magoosh](https://gre.magoosh.com/)
+Toggle navigation [Magoosh](https://gre.magoosh.com/ "Happy Pride! :D")
 
 * [Testimonials](https://gre.magoosh.com/testimonials)
 * [Score Guarantee](https://gre.magoosh.com/score-guarantee)
