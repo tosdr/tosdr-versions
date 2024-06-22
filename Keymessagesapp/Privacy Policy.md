@@ -38,8 +38,8 @@ _help\_outline_
 
 ![Icon image](https://play-lh.googleusercontent.com/Cew8YH-Nw022rBam3nzazes-dfAW5u30B_ZMcyNh9zxGRii0GSenYZiSoP7Xiago7_o=w240-h480)
 
-Key Messages: Spam SMS Blocker
-==============================
+Key Messages: Spam Blocker
+==========================
 
 [Key Messages - Spam Blocker, Text Blocker](https://play.google.com/store/apps/developer?id=Key+Messages+-+Spam+Blocker,+Text+Blocker)
 
@@ -142,7 +142,7 @@ All trademarks are owned by respective owners. Key Messages was earlier known as
 
 Updated on
 
-Mar 5, 2024
+Jun 20, 2024
 
 Communication[](https://play.google.com/store/apps/category/COMMUNICATION)
 
@@ -188,7 +188,7 @@ _phone\_android_Phone
 
 _tablet\_android_Tablet
 
-3.9
+4.0
 
 74.6K reviews
 
@@ -222,6 +222,24 @@ Yes
 
 No
 
+![](https://play-lh.googleusercontent.com/a-/ALV-UjXSTXKgWzsTUgoWu0wZ83HbmhirF8AwEK_sf7A5ciyiOEzBcVne=s32)
+
+Fernando Muñoz
+
+_more\_vert_
+
+* Flag inappropriate
+
+June 17, 2024
+
+Does what it promises but runs slow Like many of you, I was getting multiple spam messages a day (for me, from WinRed). It got to the point that I was ready to change my number. This app saved me. It sends messages from unknown numbers into a separate list that you can check later. At the end of the day, I can check what I call the "moron net" and see what was caught. The only reason that I am not giving this app 5 stars is because it started operating very slowly. If they fix it, 5 starts
+
+Did you find this helpful?
+
+Yes
+
+No
+
 ![](https://play-lh.googleusercontent.com/a/ACg8ocJb3vZJDKTncMwFqFWXEuMxDJZLAPanATF_8sUtfhK2qO-9zA=s32-mo)
 
 Matthew Zobian
@@ -235,26 +253,6 @@ May 11, 2024
 Been using this app for years. Does great with blocking spam texts (best feature: you can block based on word content, eg "Trump", "Biden", "election", etc). But the app is buggy and often crashes. It's also slow, and sometimes fails to download a text, which can be very annoying. I wish the app didn't run so poorly.
 
 3 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
-
-![](https://play-lh.googleusercontent.com/a-/ALV-UjVyEef5GupfKvKGlRQkhfBoXurltggVgOxlgLjQxUDTZWUngK04=s32)
-
-Davyd McColl
-
-_more\_vert_
-
-* Flag inappropriate
-
-May 31, 2024
-
-The only app I've found to filter by content! I get spam from services which use the same sms provider as my bank, so I can't block by number. This app saves me from 20-30 interruptions per day. It's not the prettiest app, and there are features I miss like swipe-to-archive, but only cave-dwellers and bots actually use sms these days, so it will do.
-
-1 person found this review helpful
 
 Did you find this helpful?
 
@@ -302,7 +300,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en_uk/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en-US_uk/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -316,4 +314,4 @@ All prices include VAT.
 
 ![](https://ssl.gstatic.com/store/images/regionflags/uk.png)
 
-United Kingdom (English)
+United Kingdom (English (United States))
