@@ -22,7 +22,7 @@
 Privacy Policy for IPVanish Site & Services
 ===========================================
 
-### This Privacy Policy was last updated on May 3, 2024
+### This Privacy Policy was last updated on June 21, 2024
 
 [Dutch](https://www.ipvanish.com/nl/privacy-policy/), [French](https://www.ipvanish.com/privacy-policy/), [German](https://www.ipvanish.com/de/privacy-policy/), [Portuguese](https://www.ipvanish.com/pt/privacy-policy/), [Spanish](https://www.ipvanish.com/es/privacy-policy/)
 
@@ -144,7 +144,7 @@ We may rely on the following legal bases for Processing your Personal Data:
 
 ### H. Tools and Disclosure of Personal Data to Third Parties
 
-We use third-party services to assist us with processing payments, fraud detection, improving website performance, app crash information, and email communications. These service providers receive only the information needed to perform their designated functions, and are not permitted to use the information for their own marketing, advertising or research purposes. We do not sell personal information to third parties. Additional information on the third-party tools can be found in the tables listed [here](https://www.ipvanish.com/privacy-policy/tools/).
+We use third-party services to assist us with processing payments, fraud detection, improving website performance, app crash information, and communications. These service providers receive only the information needed to perform their designated functions, and are not permitted to use the information for their own marketing, advertising or research purposes. We do not sell personal information to third parties. Additional information on the third-party tools can be found in the tables listed [here](https://www.ipvanish.com/privacy-policy/tools/).
 
 We closely review any third party requests we receive for customer information. Since we do not collect, monitor or log your browsing activity, we do not have logs of your browsing activity to provide in response to third party requests. We cannot provide information that we do not have, and we otherwise provide information only when we are legally required to.
 
