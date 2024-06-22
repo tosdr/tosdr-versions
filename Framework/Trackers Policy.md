@@ -1,16 +1,6 @@
 Cookie Policy of Framework
 --------------------------
 
-To find more information on California consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/28927739/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Virginia consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/28927739/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Colorado consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/28927739/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Connecticut consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/28927739/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Utah consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/28927739/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
 This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with this Website.
 
 For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.  
@@ -383,9 +373,9 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: April 02, 2024
+Latest update: June 20, 2024
 
-Version: 17
+Version: 18
 
 [iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
