@@ -94,9 +94,9 @@ To see previous versions of this policy and a description of what has changed, s
 
 Call to Action
 
-[![Free as in freedom tax filing written on a blue background.](https://static.fsf.org/nosvn/tax-irs-CTA.png)](https://my.fsf.org/civicrm/petition/sign?sid=10&reset=1)
+[![Front page of the proposal for a sovereign and democratic digitization of Europe.](https://static.fsf.org/nosvn//call-to-action/Proposal-Digitalization-EU.png)](https://op.europa.eu/en/publication-detail/-/publication/dae77969-7812-11ec-9136-01aa75ed71a1)
 
-Call on the IRS to provide free as in freedom tax filing! [Sign the petition!](https://my.fsf.org/civicrm/petition/sign?sid=10&reset=1)
+[Read](https://op.europa.eu/en/publication-detail/-/publication/dae77969-7812-11ec-9136-01aa75ed71a1) and [share](https://www.fsf.org/share) the [proposal for a sovereign and democratic digitization of Europe](https://op.europa.eu/en/publication-detail/-/publication/dae77969-7812-11ec-9136-01aa75ed71a1) by Simona Levi.
 
 About the FSF
 
