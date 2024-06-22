@@ -90,7 +90,7 @@ This document was last updated 2nd February 2023.
 
 * [Home](https://greyarro.ws/)
 * [Categories](https://greyarro.ws/categories)
-* [FAQ/Guidelines](https://greyarro.ws/guidelines)
+* [Guidelines](https://greyarro.ws/guidelines)
 * [Terms of Service](https://greyarro.ws/tos)
 * [Privacy Policy](https://greyarro.ws/privacy)
 
