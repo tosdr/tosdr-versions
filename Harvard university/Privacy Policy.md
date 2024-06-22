@@ -212,9 +212,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**More than a planetary fender-bender** New study finds Earth collided with dense interstellar cloud, possibly affecting life on planet](https://news.harvard.edu/gazette/story/2024/06/earth-exposed-to-interstellar-medium-millions-of-years-ago-says-study-heliosphere/)
-        2. [**Alzheimer’s disease indicators track with biological changes in brain, study finds** Researchers see self-reported memory loss may be early, preclinical warning](https://news.harvard.edu/gazette/story/2024/06/alzheimers-indicators-track-with-biological-changes-in-brain/)
-        3. [**Testing fitness of aging brain** Most voters back cognitive exams for older politicians. What do they measure?](https://news.harvard.edu/gazette/story/2024/06/most-voters-back-cognitive-tests-for-aging-politicians-what-do-they-measure/)
+        1. [**Finding right mix on campus speech policies** Legal, political scholars discuss balancing personal safety, constitutional rights, academic freedom amid roiling protests, cultural shifts](https://news.harvard.edu/gazette/story/2023/12/finding-right-mix-on-campus-speech-policies/)
+        2. [**College sees strong yield for students accepted to Class of 2028**   Financial aid was a critical factor, dean says](https://news.harvard.edu/gazette/story/2024/06/college-sees-strong-yield-for-students-accepted-to-class-of-2028/)
+        3. [**Good genes are nice, but joy is better** Harvard study, almost 80 years old, has proved that embracing community helps us live longer, and be happier](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
