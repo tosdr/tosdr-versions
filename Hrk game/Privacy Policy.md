@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/products/?search=Destiny+2%3A+The+Final+Shape)
+[](https://www.hrkgame.com/en/games/products/?search=ELDEN+RING+Shadow+of+the+Erdtree)
 
 Privacy Policy
 --------------
