@@ -744,6 +744,7 @@ If you have any questions, complaints, or claims with respect to the Software, y
 
 * [Privacy Policy](https://www.jamcity.com/privacyandterms/)
 * [Terms of Service](https://www.jamcity.com/privacyandterms/?section=terms-of-use)
+* [Do Not Sell or Share My Personal Information](https://support.jamcity.com/stateoptout/)
 
 © 2021 Jam City, Inc. JAM CITY® and the JAM CITY Logo are registered and/or unregistered trademarks of Jam City, Inc.
 
