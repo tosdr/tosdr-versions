@@ -279,4 +279,7 @@ IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
 * [![Read IPinfo.io reviews on G2](https://www.g2.com/products/ipinfo-io/widgets/stars?color=white&type=read)](https://www.g2.com/products/ipinfo-io/reviews?utm_source=review-widget)
 * [![GetApp Reviews](https://www.getapp.com/ext/reviews_widget/v1/dark/ipinfo-application)](https://www.getapp.com/business-intelligence-analytics-software/a/ipinfo/reviews/)
 
-Copyright © 2024 IPinfo® | [Terms & Conditions](https://ipinfo.io/terms-of-service) · [Privacy Policy](https://ipinfo.io/privacy-policy)
+* Copyright © 2024 IPinfo®
+* [Terms & Conditions](https://ipinfo.io/terms-of-service)
+* [Privacy Policy](https://ipinfo.io/privacy-policy)
+* [Acceptable Use Policy](https://ipinfo.io/acceptable-use-policy)
