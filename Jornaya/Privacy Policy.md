@@ -188,14 +188,6 @@ Discover the data and insights to future-proof omnichannel personalization.
 Additional Resources to Guide You
 ---------------------------------
 
-[](https://marketing.verisk.com/access-consumer-insights-through-snowflake-marketplace/ "Responsibly Enrich First-Party Data Through New Snowflake Native App")![Responsibly Enrich First-Party Data Through New Snowflake Native App](https://marketing.verisk.com/wp-content/uploads/2024/04/snowflake-partner-feature-1-1024x576.png)
-
-#### Responsibly Enrich First-Party Data Through New Snowflake Native App
-
-Seamlessly infuse marketing workflows and advertising strategies with actionable consumer insights. How are you safely powering data-driven personalized marketing, while \[…\]
-
-[Read more](https://marketing.verisk.com/access-consumer-insights-through-snowflake-marketplace/ "Read more")
-
 [](https://marketing.verisk.com/how-marketers-can-build-industry-leading-customer-segmentation-strategies/ "How Marketers Can Build Industry-Leading Customer Segmentation Strategies")![How Marketers Can Build Industry-Leading Customer Segmentation Strategies](https://marketing.verisk.com/wp-content/uploads/2024/04/customer-grid-1024x576.jpg)
 
 #### How Marketers Can Build Industry-Leading Customer Segmentation Strategies
@@ -211,6 +203,14 @@ How do you define data accuracy in your customer segmentation strategy? What mak
 You have probably heard by now: The FCC has placed stricter TCPA rules on explicit consent. Marketers must now provide \[…\]
 
 [Read more](https://marketing.verisk.com/lead-generation-experts-weigh-in-on-fccs-new-explicit-consent-rulings/ "Read more")
+
+[](https://marketing.verisk.com/consumer-data-shapes-our-world-and-wallets-heres-how/ "Consumer Data Shapes Our World and Wallets — Here’s How")![Consumer Data Shapes Our World and Wallets — Here's How](https://marketing.verisk.com/wp-content/uploads/2024/02/consumer-data-shaping-world-1024x576.jpg)
+
+#### Consumer Data Shapes Our World and Wallets — Here’s How
+
+“The marketing industry is undergoing a significant transformation, driven by changing consumer expectations and the increasing scrutiny of data privacy \[…\]
+
+[Read more](https://marketing.verisk.com/consumer-data-shapes-our-world-and-wallets-heres-how/ "Read more")
 
 ### Stay connected on the latest from Verisk Marketing Solutions
 
