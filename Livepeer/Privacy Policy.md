@@ -131,7 +131,7 @@ Developers
 
 Resources
 
-[10-minute Primer](https://livepeer.org/primer)[The Whitepaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)[Brand Assets](https://livepeer.org/brand.zip)
+[10-minute Primer](https://livepeer.org/primer)[The Whitepaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)[Brand Assets](https://livepeer.org/brand)
 
 Community
 
