@@ -236,12 +236,11 @@ Location
     
     * [Media](https://www.gsk.com/en-gb/media/)
     * [Press releases](https://www.gsk.com/en-gb/media/press-releases/)
-    * [Conferences](https://www.gsk.com/en-gb/media/conferences/)
     * [Media contacts](https://www.gsk.com/en-gb/media/media-contacts/)
+    * [Conferences](https://www.gsk.com/en-gb/media/conferences/)
     * [Media library](https://www.gsk.com/en-gb/media/media-library/)
     * [Our response to the situation in Ukraine](https://www.gsk.com/en-gb/media/our-response-to-the-situation-in-ukraine/)
     * [Our response to the crisis in Israel and Gaza](https://www.gsk.com/en-gb/media/our-response-to-the-crisis-in-israel-and-gaza/)
-    * [Zantac litigation](https://www.gsk.com/en-gb/media/zantac-litigation/)
     * [Our social media](https://www.gsk.com/en-gb/media/social-media/)
     * [RSS feeds](https://www.gsk.com/en-gb/media/rss-feeds/)
     
