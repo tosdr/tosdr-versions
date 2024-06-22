@@ -40,7 +40,7 @@
 * [Déménager mon abonnement](https://www.free.fr/freebox/demenagement/)
 * [Suivre ma souscription](https://assistance.free.fr/articles/linscription-a-loffre-freebox-756)
 * [Régler une facture](https://assistance.free.fr/articles/consulter-mes-factures-freebox-298?search-text:factures)
-* [Résilier mon contrat](https://subscribe.free.fr/login/?link=resilonline)
+* [Résiliation](https://subscribe.free.fr/login/?link=resilonline)
 * [Compte accès libre](https://subscribe.free.fr/account/#/)
 * [Applications Free](https://www.free.fr/freebox/vos-applications/)
 
@@ -85,7 +85,7 @@ Abonné
 * [Déménager mon abonnement](https://www.free.fr/freebox/demenagement/)
 * [Suivre ma souscription](https://assistance.free.fr/articles/linscription-a-loffre-freebox-756)
 * [Régler une facture](https://assistance.free.fr/articles/consulter-mes-factures-freebox-298?search-text:factures)
-* [Résilier mon contrat](https://subscribe.free.fr/login/?link=resilonline)
+* [Résiliation](https://subscribe.free.fr/login/?link=resilonline)
 * [Compte accès libre](https://subscribe.free.fr/account/#/)
 * [Applications Free](https://www.free.fr/freebox/vos-applications/)
 
