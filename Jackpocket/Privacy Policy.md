@@ -358,7 +358,7 @@ Please contact Jackpocket with any questions or comments about this Privacy Poli
 
 © 2024 Jackpocket, Inc.
 
-Number one ranked lottery app according to data from AppFollow. Must be 18 or older to play the lottery. 21+ in AZ. 19+ in NE. Jackpocket is not affiliated with any State Lottery. If you or someone you know has a gambling problem and wants help, residents of NY call 1-877-8-HOPE-NY or text HOPENY (467369); residents of MA call 1-800-327-5050; residents of OR call 1-877-MYLIMIT; residents of PR call 1-800-981-0023; all others, call 1-800-GAMBLER. The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Please visit [Terms of Service](https://jackpocket.com/tos) for full terms of service.
+GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY).  18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com/tos](http://jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Number one lottery app based on iOS download data collected by Sensor Tower.
 
 * [Terms of Service](https://jackpocket.com/tos/)
 * [Privacy Policy](https://jackpocket.com/privacy/)
