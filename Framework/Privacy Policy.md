@@ -196,7 +196,7 @@ Contact information
         **Owner contact email:** support@frame.work
         
 
-Latest update: April 02, 2024
+Latest update: June 20, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
