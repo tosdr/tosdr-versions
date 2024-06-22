@@ -234,8 +234,8 @@ Past 24 Hours: 12
 
 Past 7 Days: 116
 
-Past 30 Days: 529
+Past 30 Days: 643
 
-All Time: 58,711
+All Time: 58,369
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F254%2Fen)
