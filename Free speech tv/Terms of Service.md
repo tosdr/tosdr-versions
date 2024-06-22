@@ -2,8 +2,6 @@ Search
 
 [Donate](https://freespeech.org/donate-all)
 
-[Double The Donation](https://freespeech.org/double-the-donation) [Frontline Funders](https://freespeech.org/frontline-funders) [Other Ways To Give](https://freespeech.org/other-ways-to-give)
-
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%200'%3E%3C/svg%3E)
 
 ![](https://freespeech.org/wp-content/uploads/2024/03/FSTVLogo.png)](https://freespeech.org/)
