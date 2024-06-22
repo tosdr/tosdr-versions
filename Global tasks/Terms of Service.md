@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjozPAbnHjvKPXGW21wcpL6O3xd7_jMW70Bl8uXLOl_LkvcU09U42Un5EmiiWX5pksTRo6B60bg2KnkC1Ud0:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjozPAbnHjvKPXGW21wcpL6O3xd7_jMW70Bl8uXLOl_LkvcU09U42Un5EmiiWX5pksTRo6B60bg2KnkC1Ud0:0&docurl=https://docs.google.com/document/d/e/2PACX-1vQs0IpVlELlsMXeXDvdgd9uuy88D4sg_sLIIMccCwGMn18-Ca0RtLG3-prkBULsyrh0tf7sv-Z6a_l-/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 Global Tasks Terms and Conditions
 
@@ -180,7 +180,7 @@ g)         Azure Active Copyright (c) Microsoft Corporation.
 
 h)         core-js 2.5.4 Copyright (c) 2014-2018 Denis Pushkarev
 
-i)          [FirebaseAuthentication.net](https://www.google.com/url?q=http://firebaseauthentication.net/&sa=D&source=editors&ust=1718887866174368&usg=AOvVaw1XJ75qpJ_Qi-DIe_p1dUUb) 3.7.2  Copyright (c) 2016 Step Up Labs
+i)          [FirebaseAuthentication.net](https://www.google.com/url?q=http://firebaseauthentication.net/&sa=D&source=editors&ust=1719024083059901&usg=AOvVaw35BHP4nUbH72KSSMv2F7H1) 3.7.2  Copyright (c) 2016 Step Up Labs
 
 j)          FontAwesome.WPF Copyright (c) 2014-2016 charri
 
@@ -240,7 +240,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 Third party components licensed under the Apache License.
 
-Global Tasks contains software used under Apache License, Version 2.0. A copy of this license is available at [](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1718887866177465&usg=AOvVaw16Pta_NU1AU_nUfIFNibKA)[http://www.apache.org/licenses/LICENSE-2.0](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1718887866177736&usg=AOvVaw3dXK1FW9A1uX_UT1a6xaiR)
+Global Tasks contains software used under Apache License, Version 2.0. A copy of this license is available at [](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1719024083062740&usg=AOvVaw002oeugsiuFTuBztWC67CC)[http://www.apache.org/licenses/LICENSE-2.0](https://www.google.com/url?q=http://www.apache.org/licenses/LICENSE-2.0&sa=D&source=editors&ust=1719024083062930&usg=AOvVaw0fWTc2k8fK2lQZcuTkAgSp)
 
 a)        Google.Cloud.Firestore 2.2.0 Copyright (c) Google, Inc.
 
