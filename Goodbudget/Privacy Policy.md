@@ -123,6 +123,7 @@ A [home budget app](https://goodbudget.com/) based on the [envelope budget syste
 * [Roadmap](https://goodbudget.com/roadmap/)
 * [Budget Podcast](https://goodbudget.com/the-goodbudget-way/podcasts/season1/)
 * [Blog](https://goodbudget.com/blog/)
+* [Careers](https://goodbudget.com/join-the-team/)
 * [About Us](https://goodbudget.com/about-us/)
 
 ###### GET STARTED
