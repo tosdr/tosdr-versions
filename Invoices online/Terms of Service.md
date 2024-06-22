@@ -197,61 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Terri Winfield
+Henry Venter
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=22186082)  
-OXYAIDER (PTY) LTD
+![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=135159954)  
+IAS Logistics ta Multi transit
 
-![valued client Camwaves Internet PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8503&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=93688530)  
-Camwaves Internet PTY Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=159872617)  
+MSPCloud (Pty) Ltd
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=184960606)  
-ELLIE'S CLEANING CHICKS
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=170182291)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=48189143)  
-Well Hung Art
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=109071736)  
+All Trucking Solutions
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=82974505)  
-Goju Ryu Karate Centre
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=213024677)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=66316936)  
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=113750054)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=42652595)  
+Firstweb Hosting & Design
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=76998204)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79123814)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=188112188)  
+West Coast Horse Trails
+
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=156912748)  
+BD Maintenance
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79667463)  
+SLOANE STAR MEAT MARKET
+
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=51738854)  
+Blue Sky Solar Services
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=34642565)  
 Lily Fern & Co
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=210239081)  
-MONSTER SECURITY GUARDING
-
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=1783967)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=145679518)  
-NC Labour Hire
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=122786316)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=76622610)  
-Myfinance-Online
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=181599672)  
-One2b
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=114404589)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=165972310)  
-Quad Biking Cape Town
-
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=2c6724fdbea2c6bcdcee2335dc1e62b12fd17d2bf4ad0a99cfb7d073bc5dfa51&c=97835096)  
-CHARLIEX CONSTRUCTIONS
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=186711376)  
+Safe Train Mokgethwa (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
