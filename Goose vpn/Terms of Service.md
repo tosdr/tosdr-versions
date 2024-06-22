@@ -41,12 +41,12 @@
 
 English
 
-* [Nederlands](https://goosevpn.com/nl/gebruiksvoorwaarden?_gl=1*167bmf4*_up*MQ..*_gcl_aw*R0NMLjE3MTYzMTk1NDEuQ2owS0NRandqTEd5QmhDWUFSSXNBUHFUejE5TDIya21sSFV3NXc1dGJGeWFGaExRc2QzMjN5QWJFem1VaFBLUGhNVmoxeUFSSWV3Qy0wSWFBaUN3RUFMd193Y0I.*_gcl_au*MjA5NTk3NTA2NC4xNzE2MzE5NDMx&wbraid=Ck0KCAiA04arBhA4Ej0AY4rsIdxks2IuBXPlYzTS__a1ubDyOMJdHH0DoJdr4SWsqm8w9muOhtaa6xfllI9WsVIJCC40E-k-6gU6GgLELg "Language switcher : Dutch")
-* [Deutsch](https://goosevpn.com/de/terms-of-service?_gl=1*167bmf4*_up*MQ..*_gcl_aw*R0NMLjE3MTYzMTk1NDEuQ2owS0NRandqTEd5QmhDWUFSSXNBUHFUejE5TDIya21sSFV3NXc1dGJGeWFGaExRc2QzMjN5QWJFem1VaFBLUGhNVmoxeUFSSWV3Qy0wSWFBaUN3RUFMd193Y0I.*_gcl_au*MjA5NTk3NTA2NC4xNzE2MzE5NDMx&wbraid=Ck0KCAiA04arBhA4Ej0AY4rsIdxks2IuBXPlYzTS__a1ubDyOMJdHH0DoJdr4SWsqm8w9muOhtaa6xfllI9WsVIJCC40E-k-6gU6GgLELg "Language switcher : German")
-* [Español](https://goosevpn.com/es/terms-of-service?_gl=1*167bmf4*_up*MQ..*_gcl_aw*R0NMLjE3MTYzMTk1NDEuQ2owS0NRandqTEd5QmhDWUFSSXNBUHFUejE5TDIya21sSFV3NXc1dGJGeWFGaExRc2QzMjN5QWJFem1VaFBLUGhNVmoxeUFSSWV3Qy0wSWFBaUN3RUFMd193Y0I.*_gcl_au*MjA5NTk3NTA2NC4xNzE2MzE5NDMx&wbraid=Ck0KCAiA04arBhA4Ej0AY4rsIdxks2IuBXPlYzTS__a1ubDyOMJdHH0DoJdr4SWsqm8w9muOhtaa6xfllI9WsVIJCC40E-k-6gU6GgLELg "Language switcher : Spanish")
-* [Français](https://goosevpn.com/fr/terms-of-service?_gl=1*167bmf4*_up*MQ..*_gcl_aw*R0NMLjE3MTYzMTk1NDEuQ2owS0NRandqTEd5QmhDWUFSSXNBUHFUejE5TDIya21sSFV3NXc1dGJGeWFGaExRc2QzMjN5QWJFem1VaFBLUGhNVmoxeUFSSWV3Qy0wSWFBaUN3RUFMd193Y0I.*_gcl_au*MjA5NTk3NTA2NC4xNzE2MzE5NDMx&wbraid=Ck0KCAiA04arBhA4Ej0AY4rsIdxks2IuBXPlYzTS__a1ubDyOMJdHH0DoJdr4SWsqm8w9muOhtaa6xfllI9WsVIJCC40E-k-6gU6GgLELg "Language switcher : French")
-* [Українська](https://goosevpn.com/uk/terms-of-service?_gl=1*167bmf4*_up*MQ..*_gcl_aw*R0NMLjE3MTYzMTk1NDEuQ2owS0NRandqTEd5QmhDWUFSSXNBUHFUejE5TDIya21sSFV3NXc1dGJGeWFGaExRc2QzMjN5QWJFem1VaFBLUGhNVmoxeUFSSWV3Qy0wSWFBaUN3RUFMd193Y0I.*_gcl_au*MjA5NTk3NTA2NC4xNzE2MzE5NDMx&wbraid=Ck0KCAiA04arBhA4Ej0AY4rsIdxks2IuBXPlYzTS__a1ubDyOMJdHH0DoJdr4SWsqm8w9muOhtaa6xfllI9WsVIJCC40E-k-6gU6GgLELg "Language switcher : Ukrainian")
-* [Polski](https://goosevpn.com/pl/terms-of-service?_gl=1*167bmf4*_up*MQ..*_gcl_aw*R0NMLjE3MTYzMTk1NDEuQ2owS0NRandqTEd5QmhDWUFSSXNBUHFUejE5TDIya21sSFV3NXc1dGJGeWFGaExRc2QzMjN5QWJFem1VaFBLUGhNVmoxeUFSSWV3Qy0wSWFBaUN3RUFMd193Y0I.*_gcl_au*MjA5NTk3NTA2NC4xNzE2MzE5NDMx&wbraid=Ck0KCAiA04arBhA4Ej0AY4rsIdxks2IuBXPlYzTS__a1ubDyOMJdHH0DoJdr4SWsqm8w9muOhtaa6xfllI9WsVIJCC40E-k-6gU6GgLELg "Language switcher : Polish")
+* [Nederlands](https://goosevpn.com/nl/gebruiksvoorwaarden "Language switcher : Dutch")
+* [Deutsch](https://goosevpn.com/de/terms-of-service "Language switcher : German")
+* [Español](https://goosevpn.com/es/terms-of-service "Language switcher : Spanish")
+* [Français](https://goosevpn.com/fr/terms-of-service "Language switcher : French")
+* [Українська](https://goosevpn.com/uk/terms-of-service "Language switcher : Ukrainian")
+* [Polski](https://goosevpn.com/pl/terms-of-service "Language switcher : Polish")
 
 4.1
 
@@ -453,3 +453,13 @@ Please note: we do not provide telephone support but are available 24/7 by email
 * [Sitemap](https://goosevpn.com/sitemap)
 
 © 2024 GOOSEVPN. All rights reserved.
+
+Close this module
+
+Choose for lifetime privacyGet 50% discount on our Lifetime VPN! 🧡
+
+Pay only once and take advantage of the best deal and be assured of secure and borderless internet for a lifetime!
+
+[TAKE THIS DISCOUNT](https://my.goosevpn.com/sign-up)
+
+[No I do not want a discount](#)
