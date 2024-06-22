@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Last modified: June 10th, 2024
+Last modified: June 21st, 2024
 
 1. General information and legal basis
     -----------------------------------
@@ -16,11 +16,11 @@ Last modified: June 10th, 2024
         
         #### Data Protection Officer
         
-        _Technologiewerft GmbH c/o Kanzlei Sieling_  
-        Carola Sieling  
-        Gurlittstraße 24  
-        20099 Hamburg  
-        Tel.: [+49 (0)40 - 41923921](tel:+494041923921)  
+        _Barbara von dem Bussche_  
+        DP Dock DPO Services GmbH  
+        Grüffkamp 10  
+        24159 Kiel  
+        Germany  
         E-Mail: [\[email protected\]](https://languagetool.org/cdn-cgi/l/email-protection)
         
     2. ### Legal bases of the processing
@@ -556,7 +556,3 @@ Last modified: June 10th, 2024
     ------------------
     
     We make every effort to process your personal data by taking all technical and organizational possibilities to comply with the provisions of data protection laws and thus to protect this data. Our website or the communication via our website with us is encrypted via HTTPS.
-    
-  
-
-This privacy policy was provided by [Technologiewerft GmbH](http://technologiewerft.de/).
