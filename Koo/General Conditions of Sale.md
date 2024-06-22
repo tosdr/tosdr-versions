@@ -115,15 +115,15 @@ Your email address will not be published. Required fields are marked \*
 
 * ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
     
-    [Community Guidelines](https://info.kooapp.com/annual-returns/)
-    
-    2022-03-23 11:54:34
-    
-* ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
-    
     [Privacy Policy](https://info.kooapp.com/annual-returns/)
     
     2022-10-18 05:59:32
+    
+* ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
+    
+    [Community Guidelines](https://info.kooapp.com/annual-returns/)
+    
+    2022-03-23 11:54:34
     
 * ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
     
