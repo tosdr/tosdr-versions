@@ -1,6 +1,6 @@
 [heise online Logo](https://www.heise.de/ "heise online")
 
-[](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")[Gratis testen Jetzt 1 Monat gratis testen](https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000028_21806_3_57&wt_mc=intern.abo.plus.hp_nk.navilink.desktop1.desktop1)
+[](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")
 
  [![heise kennenlernen](/icons/ho/heise96_light.svg) ![heise kennenlernen](/icons/ho/heise96_dark.svg)](https://www.heisegroup.de/ "heise kennenlernen")
 
@@ -39,7 +39,7 @@ Services
 * [Stellenmarkt](https://jobs.heise.de/ "heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche")
 * [heise academy](https://heise-academy.de/ "heise academy - Weiterbildung für IT-Profis von heise medien")
 * [heise Download](https://www.heise.de/download/ "heise Download – Software zum Download für Windows, Mac, Linux, iPhone, Symbian, Android")
-* [heise preisvergleich](https://preisvergleich.heise.de/ "heise preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
+* [Preisvergleich](https://www.heise.de/preisvergleich/ "Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
 * [Tarifrechner](https://www.heise.de/tarifrechner "Tarifrechner")
 * [heise compaliate](https://compaliate.heise.de/ "heise compaliate – Entdecke die heise Affiliate Plattform")
 * [Abo bestellen](https://shop.heise.de/zeitschriften-abo/ "Abo – c't, iX, c't Fotografie, Mac & i, Make")
@@ -120,7 +120,7 @@ Services
 * [Stellenmarkt](https://jobs.heise.de/ "heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche")
 * [heise academy](https://heise-academy.de/ "heise academy - Weiterbildung für IT-Profis von heise medien")
 * [heise Download](https://www.heise.de/download/ "heise Download – Software zum Download für Windows, Mac, Linux, iPhone, Symbian, Android")
-* [heise preisvergleich](https://preisvergleich.heise.de/ "heise preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
+* [Preisvergleich](https://www.heise.de/preisvergleich/ "Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
 * [Tarifrechner](https://www.heise.de/tarifrechner "Tarifrechner")
 * [heise compaliate](https://compaliate.heise.de/ "heise compaliate – Entdecke die heise Affiliate Plattform")
 * [Abo bestellen](https://shop.heise.de/zeitschriften-abo/ "Abo – c't, iX, c't Fotografie, Mac & i, Make")
@@ -154,8 +154,7 @@ Bei den nachfolgenden Online-Angeboten sind individuelle Datenschutzinformatione
 [TechStage](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-TechStage-4058219.html)  
 [Mobile Apps](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-mobile-Apps-4058239.html)  
 [heise jobs](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-jobs-6014870.html)  
-[Heise Business Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Heise-Business-Services-7099857.html)  
-[Pro-Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Pro-Services-der-Heise-Medien-GmbH-Co-KG-9784579.html)
+[Heise Business Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Heise-Business-Services-7099857.html)
 
 ### 1\. Verantwortlicher  
 
@@ -773,8 +772,6 @@ Die rasante Entwicklung des Internets macht von Zeit zu Zeit Anpassungen in unse
 * 09.06.2023: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 19, "BusinessAd"
 * 21.08.2023: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 20, "Scalooper ABM-Campaign Targeting"
 * 07.02.2024: Erweiterung der [individuellen Datenschutzinformationen für heise online und Telepolis](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-heise-online-und-Telepolis-4058147.html) um Punkt 21, "ID5"
-* 01.07.24: Die [individuellen Datenschutzinformationen für die Pro-Services](https://www.heise.de/Individuelle-Datenschutzinformationen-fuer-Pro-Services-der-Heise-Medien-GmbH-Co-KG-9784579.html) wurden in die Liste der Online-Angebote aufgenommen und dort verlinkt  
-    
 
 Hannover, den 12. Juni 2018
 
@@ -804,7 +801,7 @@ Services
 * [Stellenmarkt](https://jobs.heise.de/ "heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche")
 * [heise academy](https://heise-academy.de/ "heise academy - Weiterbildung für IT-Profis von heise medien")
 * [heise Download](https://www.heise.de/download/ "heise Download – Software zum Download für Windows, Mac, Linux, iPhone, Symbian, Android")
-* [heise preisvergleich](https://preisvergleich.heise.de/ "heise preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
+* [Preisvergleich](https://www.heise.de/preisvergleich/ "Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
 * [Tarifrechner](https://www.heise.de/tarifrechner "Tarifrechner")
 * [heise compaliate](https://compaliate.heise.de/ "heise compaliate – Entdecke die heise Affiliate Plattform")
 * [Abo bestellen](https://shop.heise.de/zeitschriften-abo/ "Abo – c't, iX, c't Fotografie, Mac & i, Make")
