@@ -6,7 +6,7 @@
 
 [PC](https://www.instant-gaming.com/en/pc/)
 
-[Playstation](https://www.instant-gaming.com/en/playstation/)
+[PlayStation](https://www.instant-gaming.com/en/playstation/)
 
 [Xbox](https://www.instant-gaming.com/en/xbox/)
 
