@@ -35,9 +35,6 @@ Search
     * [Frequently Asked Questions](https://lyricstranslate.com/en/faq)
     * [Useful Resources](https://lyricstranslate.com/en/resources)
     * [lyricstranslate.com forum](https://lyricstranslate.com/en/forums/general-forums/lyricstranslatecom)
-* [Theme](#)
-    * [Light](https://lyricstranslate.com/en/privacy-policy?theme=lt7)
-    * [Dark](https://lyricstranslate.com/en/privacy-policy?theme=lt7dark)
 * [Interface language](#)
     * DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
         
@@ -144,85 +141,81 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![Tatjana_0809](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1195565-1540940544.jpg)](https://lyricstranslate.com/en/translator/tatjana0809 "Tatjana_0809")
 
 New song
 
-[Nesty Gzz - Go Get Back](https://lyricstranslate.com/en/nesty-gzz-go-get-back-lyrics)
+[Karol G - Si Antes Te Hubiera Conocido](https://lyricstranslate.com/en/karol-g-si-antes-te-hubiera-conoc-lyrics)
 
-English
+Spanish
 
-[![Itay](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1605787-1705890377.jpg)](https://lyricstranslate.com/en/translator/itay "Itay")
+[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1675532528.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
 
 New translation
 
-[Ben Chen - חומר ממכר (Chomer Memaker)](https://lyricstranslate.com/en/ben-chen-chomer-memaker-english)
+[La Familia - Pentru bagabonții care mă susțin](https://lyricstranslate.com/en/la-familia-pentru-bagabontii-care-ma-english)
 
-Hebrew → English
+Romanian → English
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1639743181.jpg)](https://lyricstranslate.com/en/translator/want "want")
 
 New song
 
-[Nesty Gzz - Dancer](https://lyricstranslate.com/en/nesty-gzz-dancer-lyrics)
+[CLONNEX - Emo Makeup](https://lyricstranslate.com/en/clonnex-emo-makeup-lyrics)
 
 English
 
-[![Muhammet Salkim](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444128-1717466560.jpg)](https://lyricstranslate.com/en/translator/muhammet-salkim "Muhammet Salkim")
+[![matnot4u](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610383-1709145459.jpg)](https://lyricstranslate.com/en/translator/finnishenglishhh "matnot4u")
 
 New translation
 
-[Motörhead - Iron Horse / Born To Lose](https://lyricstranslate.com/en/motorhead-iron-horse-born-lose-turkish)
+[Jann - LOOKATME](https://lyricstranslate.com/en/jann-lookatme-finnish)
 
-English → Turkish
+English → Finnish
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
+
+New comment
+
+I also hear "flex" but it doesn't make any sence. ...  [more](https://lyricstranslate.com/en/comment/1150661#comment-1150661)
+
+[![Musapyr](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/musapyr "Musapyr")
 
 New song
 
-[Nesty Gzz - This Is The Tone](https://lyricstranslate.com/en/nesty-gzz-tone-lyrics)
+[Unknown artist (Chinese) - 请别说没没没爱的方向](https://lyricstranslate.com/en/unknown-artist-chinese-qing-bie-shuo-mei-mei-mei-lyrics)
 
-English
+Chinese
 
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
+[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1639743181.jpg)](https://lyricstranslate.com/en/translator/want "want")
+
+New song
+
+[CMH - бэйслайн бизнес](https://lyricstranslate.com/en/cmh-bassline-business-lyrics)
+
+Russian
+
+[![vaalentin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/vaalentin "vaalentin")
 
 New request
 
-[AI Music - За гнома Пыню! (Za gnoma Pynyu!)](https://lyricstranslate.com/en/request/%D0%B7%D0%B0-%D0%B3%D0%BD%D0%BE%D0%BC%D0%B0-%D0%BF%D1%8B%D0%BD%D1%8E-0)
+[Konets Solnechnykh Dney - юный эскапист (yunyy eskapist)](https://lyricstranslate.com/en/request/%D1%8E%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D1%82)
 
 Russian → English
 
-[![Daniel Lima](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1430694-1565835105.jpg)](https://lyricstranslate.com/en/translator/daniel-lima "Daniel Lima")
+[![AisaManahan](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/aisamanahan "AisaManahan")
 
-New song
+New comment
 
-[Syoko - からっぽの日曜日](https://lyricstranslate.com/en/syoko-sunday-never-comes-lyrics)
+Can someone please dona transliteration for this ...  [more](https://lyricstranslate.com/en/comment/1150660#comment-1150660)
 
-Japanese
+[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+New translation
 
-New song
+[Jeremy Renner - Love is a war](https://lyricstranslate.com/en/jeremy-renner-love-war-hebrew)
 
-[Nesty Gzz - Who Did Ya Touch](https://lyricstranslate.com/en/nesty-gzz-who-did-ya-touch-lyrics)
-
-English
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New song
-
-[Nesty Gzz - LongLiveRah](https://lyricstranslate.com/en/nesty-gzz-longliverah-lyrics)
-
-English
-
-[![Cataclysmic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1530774-1717380216.jpg)](https://lyricstranslate.com/en/translator/cataclysmic "Cataclysmic")
-
-New transcription request
-
-[Ismail & Junaid - قراره راشه](https://lyricstranslate.com/en/ismail-junaid-%D9%82%D8%B1%D8%A7%D8%B1%D9%87-%D8%B1%D8%A7%D8%B4%D9%87)
-
-Pashto
+English → Hebrew
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
