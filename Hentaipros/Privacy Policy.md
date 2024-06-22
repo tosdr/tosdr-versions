@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-_**Last Modified:**_ _**March**_ _**7**__**th**__**, 2024**_
+_**Last Modified:**_ _**June**_ _**21**__**st**__**, 2024**_
 
 **Introduction**
 
@@ -125,18 +125,26 @@ In general, we use information that we collect about you or that you provide to 
 
 46. **Disclosure of Your Personal Information**
 
-We disclose your Personal Information to and for the following purposes:
+We disclose your Personal Information when necessary to perform the services or for other purposes set out in this Privacy Notice. When we disclose your Personal Information, we usually rely on the performance of our contract with you, our legal obligation to do so, our legitimate interest (e.g., operating the Website), so long as it doesn’t outweigh your interests or your consent, except when expressly stated otherwise below in the paragraph “_To comply with the law or protect our rights or the rights of third parties_”. Disclosure of your Personal Information may also involve transfers of your Personal Information outside the EEA. To the extent that we need to transfer Personal Information outside the EEA, we will do so according to the section “_Transfers of Your Personal Information to Other Countries_” or when necessary for the performance of the contract between us.
 
-* **Corporate Group.** We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
-* **Service providers****.** To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, identity and document authenticity verification including biometric processing, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website’ functionality, and supporting contests, sweepstakes, surveys, and other features offered through the Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes. Where required under applicable laws, we entered into data processing agreements with such service providers to ensure that Personal Information is only processed securely within our instructions.
-* **Legal successors**. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by us about the Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your Personal Information uses it in a manner that is consistent with this Privacy Notice.
-* **To comply with the law or protect our rights or the rights of third parties:** We access, preserve and share your Personal Information with regulators, law enforcement, out-of-court dispute settlement bodies or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms & conditions, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others; or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
-* **Transaction Information**: Transaction information, including Personal Information that you have provided to us will only be shared with our third-party processors to initiate and complete any orders placed on or through your account. All credit card transactions and such are processed with industry-standard encryption through third party processors who only use your financial information and Personal Information for that purpose. All financial data and related Personal Information will not be shared by us with third parties except with your authorization or when necessary to carry out all and any transactions requested by you with the understanding that such transactions may be subject to rules, terms, conditions, and policies of a third party. All such information provided to a third party is subject to their terms and conditions.
-* **Aggregated data**: We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest and to target content and advertising.
+The parties to whom we may disclose your Personal Information include:
 
-For more information on recipients of Personal Information, please contact us by using the information in the Section _Contact Information_ below.
+* ****The public****: When you submit user contributions, certain information about you will be publicly displayed on the Website, such as information about you, etc. You can choose to make certain information and activities private through your profile settings. This information might be accessible to various locations worldwide from which the Website can be accessed.
+* ****Our contractors and/or employees****: To provide our services to you, our employees and/or contractors may receive access to your Personal Data only on a need-to-know basis. Such employees and contractors abide by confidentiality obligations.
+* ****Our corporate group****: We may disclose any of the categories of Personal Information that we collect to members of our corporate group to the extent this is necessary for the purposes described in this Privacy Notice, and generally to operate our business, which includes: identification and age verification purposes, transaction monitoring and payment processing, customer support, facilitate business development, administer user accounts or provide IT, technical and engineering support. You acknowledge that in some cases, members of our corporate group might be established or run their services outside the EEA.
+* ****Linked Third-Party Websites or Single Sign-On Services****: You may choose to sign-in, connect or register an account using an external third-party platform, or Single Sign-On (SSO) if available. If you choose to connect your account to a third-party platform, the providers of this platform may receive information about you. When you use third-party platforms, their own terms and privacy policies will govern their use.
+* ****Service providers****: We disclose certain categories of Personal Information to our authorized service providers to enable us to provide our services to you pursuant to our Terms & Conditions. These service providers may use your information only to perform these tasks on our behalf, such as identity and document authenticity verification including biometric processing, age verification, risk and fraud detection and mitigation, customer service, marketing and advertising, customization of content, analytics, security, hosting or supporting the Website’s functionality. These service providers have limited access to Personal Information needed to perform their functions but are not permitted to process such information for any other purposes. Where required under applicable laws, we have entered into data processing agreements with such service providers to ensure that Personal Information is only processed securely within our instructions.
+* ****Legal successors****: We may disclose all categories of Personal Information we process to a buyer or other successor in the event of a merger, acquisition or sale or transfer of some or all our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding. Such transactions may be in our legitimate interest, particularly our interest in making decisions that enable our business to develop.
+* ****To comply with the law or protect our rights or the rights of third parties****: We access, preserve and share Personal Information with regulators, public authorities, law enforcement, government agencies, out-of-court dispute settlement bodies or others where we reasonably believe such disclosure is needed to:
+    * comply with any applicable law, regulation, court order, legal process, government or public authority requests
+    * enforce applicable Terms & Conditions, including prevention of potential violations thereof. This also includes our Trust and Safety initiative, in the scope of which we may disclose some information to several recipients.
+    * detect, prevent, or otherwise address illegal or suspected illegal activities, security, or technical issues.
+    * protect against harm to the rights, property or safety of our company, our users, our employees, or others; or
+    * to maintain and protect the security and integrity of the Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
-50. **Our Legal Bases under Canadian and European Union (EU) Privacy Law**
+We may disclose your information to third parties for the above purposes where necessary to comply with our legal obligations, to perform a task in the public interest (where the public interest is laid down by applicable law), or under our legitimate interests and the interests of the public, including as part of investigations or regulatory enquiries to detect, investigate and prosecute illegal activity.
+
+51. **Our Legal Bases under Canadian and European Union (EU) Privacy Law**
 
 To the extent required by applicable law, we rely on several lawful bases to use your data in these ways. This means we process your Personal Information only where:
 
@@ -150,7 +158,7 @@ To the extent required by applicable law, we rely on several lawful bases to use
 
 Depending on the circumstances, we may rely on different legal bases when processing your same information for different purposes. If you reside outside the European Economic Area (“EEA”), Switzerland or the United Kingdom (“UK”), the legal bases on which we rely may differ from those listed above.
 
-54. **Transfers of Your Personal Information to Other Countries**
+55. **Transfers of Your Personal Information to Other Countries**
 
 Where the laws of your country allow you to do so, by using the Website you consent to the transfer of information that we process about you, including Personal Information, to other countries in which we, members of our corporate group (affiliates and related entities) or service providers are located. When we transfer Personal Information to countries outside of the EEA or other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with the applicable laws.
 
@@ -158,7 +166,7 @@ Where available, we rely on decisions of the European Commission, known as “ad
 
 For more information or to obtain a copy of our standard contractual clauses, please see the section “_Contact Information_” below on how to contact us.
 
-58. **Retention of Personal Information**
+59. **Retention of Personal Information**
 
 We will only retain your Personal Information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for Personal Information, we consider the amount, nature, and sensitivity of the Personal Information, the potential risk of harm from unauthorized use or disclosure of your Personal Information, the purposes for which we process your Personal Information and whether we can achieve those purposes through other means, and the applicable legal requirements. Unless we have a legal obligation or a preservation or court order which would legally oblige us to retain your Personal Information for a specific period, where we no longer need to process and retain your Personal Information in accordance with this Privacy Notice, we will delete your Personal Information from our systems.
 
@@ -166,13 +174,13 @@ Where permissible, we will also delete your Personal Information upon your reque
 
 For more information on our data retention periods, please send us an e-mail at [privacy@aylopremiumltd.com](mailto:privacy@aylopremiumltd.com) .
 
-62. **How We Protect the Security of Your Personal Information**
+63. **How We Protect the Security of Your Personal Information**
 
 We take appropriate security measures (including physical, electronic, and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Information.
 
 You are responsible for always maintaining the secrecy of your unique password and account information. We are not responsible for circumventions of any privacy settings or security measures contained on the Website.
 
-65. **Your Rights Related to Your Personal Information**
+66. **Your Rights Related to Your Personal Information**
 
 Subject to local law, you have certain rights regarding the Personal Information we collect, use, or disclose and that is related to you, including the right:
 
@@ -190,7 +198,7 @@ You may, at any time, send us an e-mail at [privacy@aylopremiumltd.com](mailto:p
 
 Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricably linked to the use of certain Personal Information (_e.g._, your e-mail address). Also note that it is possible that we require additional information from you to verify your authorization to make the request and to honor your request.
 
-71. **California Rights and Choices**
+72. **California Rights and Choices**
 
 The California Consumer Privacy Act of 2018 (“CCPA”) provides California residents (“Consumer(s)”) certain rights with respect to their personal information, as this term is also defined under the CCPA. In addition to the rights that we state under this Privacy Notice, and subject to the exceptions found under the CCPA, such Consumers have the right to:
 
@@ -204,11 +212,11 @@ You can designate an agent to make a request by executing a notarized power of a
 
 We disclose certain categories of California residents’ Personal Information for our business purposes, as described in the section above titled “_Disclosure of Your Personal Information_”.
 
-77. **Resident’s Rights – Jurisdictions in the United States, Where Applicable**
+78. **Resident’s Rights – Jurisdictions in the United States, Where Applicable**
 
 We do not sell, trade, or exchange your Personal Information with anyone for money.
 
-79. **Notice to Law Enforcement**
+80. **Notice to Law Enforcement**
 
 The following information serves as a guideline for law enforcement officials seeking disclosure of records. You may serve us a valid court order, subpoena, search warrant or equivalent legal or official administrative document by respecting the following conditions:
 
@@ -218,19 +226,19 @@ The following information serves as a guideline for law enforcement officials se
 
 We reserve the right to refuse online service through our Legal Service Process Platform, namely in cases where the above requirements are not met and require formal legal service at the above address. In such event, you will be notified. We may raise or waive any legal objection or right available, in our sole discretion.
 
-83. **No Rights of Third Parties**
+84. **No Rights of Third Parties**
 
 This Privacy Notice does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website.
 
-85. **Our Policy Towards Minors**
+86. **Our Policy Towards Minors**
 
 Our Website prohibits minors from accessing or using its platform in any way. the Website is forbidden to persons under the age of eighteen (18) or the applicable age of majority in the jurisdiction from which the Website is accessed. We do not knowingly collect Personal Information from minors. If you become aware that a minor has provided us with Personal Information in any way, inadvertently, fraudulently or erroneously attempted to provide us such information with the intent to access the Website, please contact us at [privacy@aylopremiumltd.com](mailto:privacy@aylopremiumltd.com) to remove such information immediately.
 
-87. **Changes to Our Privacy Notice**
+88. **Changes to Our Privacy Notice**
 
 We may modify or revise our Privacy Notice from time to time. Although we may attempt to notify you when major changes are made to this Privacy Notice, you are expected to periodically review the most up-to-date version found at this location, so you are aware of any changes, as they are binding on you. If we change anything in our Privacy Notice, the date of change will be reflected in the “Last Modified” date mentioned in the heater of this Privacy Notice.
 
-89. **Contact Information**
+90. **Contact Information**
 
 If you have any questions about this Privacy Notice or our information-handling practices, please contact us at [privacy@aylopremiumltd.com](mailto:privacy@aylopremiumltd.com).
 
@@ -238,7 +246,7 @@ You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Indus
 
 Our Data Protection Officer can be contacted at the following email address: [dpo@aylopremiumltd.com](mailto:dpo@aylopremiumltd.com).
 
-93. **Manage Your Private Data**
+94. **Manage Your Private Data**
 
 With respect to Data Protection Laws applicable jurisdictions, the Website’s registered users may request
 
@@ -249,5 +257,5 @@ _Note: AdBlocker add-ons interfere with the Manage My Data system. Please disabl
 
   
   
-Aylo Billing US Corp, 21800 Oxnard St Ste 150 Woodland Hills, CA, 91367-7909 USA  
-Aylo Billing Limited, 195-197 Old Nicosia-Limassol Road, Dali Industrial Zone 2540, Block 1, Cyprus
+AYLO BILLING US CORP, 610 BRAZOS STREET - SUITE 500, AUSTIN, TEXAS 78701  
+AYLO BILLING LIMITED, 195-197 OLD NICOSIA-LIMASSOL ROAD, DALI INDUSTRIAL ZONE 2540, BLOCK 1, CYPRUS
