@@ -69,7 +69,7 @@ Adatkezelő az alábbiakban ismerteti adatkezelési gyakorlatát.
 
   
 
-Amennyiben megkeresné Társaságunkat, a kaloriabazis@gmail.com e-mail cím elérhetőségeken léphet kapcsolatba az adatkezelővel.
+Amennyiben megkeresné Társaságunkat, a [\[email protected\]](https://kaloriabazis.hu/cdn-cgi/l/email-protection) e-mail cím elérhetőségeken léphet kapcsolatba az adatkezelővel.
 
   
 
@@ -89,7 +89,7 @@ Cégjegyzékszám: 01-09-371698
 
   
 
-E-mail: kaloriabazis@gmail.com
+E-mail: [\[email protected\]](https://kaloriabazis.hu/cdn-cgi/l/email-protection)
 
   
 
@@ -107,7 +107,7 @@ Név: Magyar Máté
 
   
 
-Elérhetőség: kaloriabazis@gmail.com
+Elérhetőség: [\[email protected\]](https://kaloriabazis.hu/cdn-cgi/l/email-protection)
 
   
 
@@ -457,7 +457,7 @@ Fax: 0613911410
 
   
 
-E-mail: ugyfelszolgalat@naih.hu
+E-mail: [\[email protected\]](https://kaloriabazis.hu/cdn-cgi/l/email-protection)
 
   
 
@@ -483,7 +483,7 @@ Az adatkezelő a hatóságok részére – amennyiben a hatóság a pontos célt
   
   
 
-2024.06.28
+2024.06.22
 
 [KALÓRIATÁBLÁZAT](https://kaloriabazis.hu/kaloriatablazat)
 
