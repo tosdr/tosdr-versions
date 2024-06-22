@@ -291,6 +291,8 @@ https://assetsnffrgf-a.akamaihd.net/assets/ct/2208d1720a/images/syn\_placeholder
     
 * [Malta](https://www.jw.org/open?docid=1014930&prefer=content)
     
+* [Montenegro](https://www.jw.org/open?docid=1014962&prefer=content)
+    
 * [Netherlands](https://www.jw.org/open?docid=1014931&prefer=content)
     
 * [New Caledonia](https://www.jw.org/open?docid=1014949&prefer=content)
@@ -308,6 +310,8 @@ https://assetsnffrgf-a.akamaihd.net/assets/ct/2208d1720a/images/syn\_placeholder
 * [Rwanda](https://www.jw.org/open?docid=1014958&prefer=content)
     
 * [San Marino](https://www.jw.org/open?docid=1014947&prefer=content)
+    
+* [Serbia](https://www.jw.org/open?docid=1014963&prefer=content)
     
 * [Slovakia](https://www.jw.org/open?docid=1014936&prefer=content)
     
