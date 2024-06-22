@@ -68,7 +68,6 @@ Menu
 * [Gift Card Balance](https://hugeminis.com/gift-card-balance/)
 * [Lost Password](https://hugeminis.com/lost-password/)
 * [Privacy Policy](https://hugeminis.com/privacy-policy/)
-* [Refer a Friend](https://hugeminis.com/refer-a-friend/)
 * [Return Policy](https://hugeminis.com/return-policy/)
 * [Scale Modeling Supplies](https://hugeminis.com/scale-model-supplies/)
 * [Shipping and Delivery](https://hugeminis.com/shipping-and-delivery/)
