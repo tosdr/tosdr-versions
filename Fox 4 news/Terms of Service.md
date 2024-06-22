@@ -96,7 +96,7 @@ Search site
 
 [River Flood Warning
 
-until SUN 4:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
+until SUN 1:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
 2
 
@@ -104,8 +104,8 @@ until SUN 4:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
 until SUN 1:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
-Terms of Service
-================
+Terms of Use
+============
 
 ### [**Updated Privacy Policy**](https://www.fox4news.com/privacy-policy)
 
