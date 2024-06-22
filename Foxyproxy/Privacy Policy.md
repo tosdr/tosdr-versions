@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You guys are great! Thank you!
+Awesome, great service as always!
 
-Barbara Campbell
+Guy Cracknell
