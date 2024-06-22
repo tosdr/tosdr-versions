@@ -11,6 +11,7 @@
     * [ZKAPs](https://leastauthority.com/product-development/zkaps/)
 * [Community Matters](https://leastauthority.com/community-matters/)
     * [Destiny](https://leastauthority.com/community-matters/destiny/)
+    * [MoonMath Manual](https://leastauthority.com/community-matters/moon-math-manual/)
     * [HRO Cloud](https://leastauthority.com/community-matters/hro-cloud/)
 * [About Us](https://leastauthority.com/about-us/)
     * [Who We Are](https://leastauthority.com/about-us/)
@@ -32,6 +33,7 @@ Menu
     * [ZKAPs](https://leastauthority.com/product-development/zkaps/)
 * [Community Matters](https://leastauthority.com/community-matters/)
     * [Destiny](https://leastauthority.com/community-matters/destiny/)
+    * [MoonMath Manual](https://leastauthority.com/community-matters/moon-math-manual/)
     * [HRO Cloud](https://leastauthority.com/community-matters/hro-cloud/)
 * [About Us](https://leastauthority.com/about-us/)
     * [Who We Are](https://leastauthority.com/about-us/)
@@ -309,6 +311,7 @@ When subscribing, your email address is submitted to MailerLite which manages ou
     
     ▼](https://leastauthority.com/community-matters/)
     * [Destiny](https://leastauthority.com/community-matters/destiny/)
+    * [MoonMath Manual](https://leastauthority.com/community-matters/moon-math-manual/)
     * [HRO Cloud](https://leastauthority.com/community-matters/hro-cloud/)
 * [About Us
     
