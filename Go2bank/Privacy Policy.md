@@ -4,27 +4,17 @@ Annual Percentage Rate (APR)for Purchases 22.99%
 
 APR for Cash Advances 26.99%
 
-Paying Interest Your due date is at least 25 days after the close of each billing period
-
-(at least 23 days for billing periods that begin in February). We will notcharge you any interest on purchases if you pay your entire balanceby the due date each month. We will begin charging interest on cashadvances on the transaction date.
+Paying Interest Your due date is at least 25 days after the close of each billing period(at least 23 days for billing periods that begin in February). We will notcharge you any interest on purchases if you pay your entire balanceby the due date each month. We will begin charging interest on cashadvances on the transaction date.
 
 
 
-For Credit Card Tips from the
-
-Consumer Financial ProtectionBureau
+For Credit Card Tips from theConsumer Financial ProtectionBureau
 
 To learn more about factors to consider when applying for or using acredit card, visit the website of the Consumer Financial ProtectionBureau at https://www.consumerfinance.gov/learnmore.
 
-
-
 Fees
 
-
-
 Annual Fee None
-
-
 
 Transaction Fees
 
@@ -33,6 +23,8 @@ Transaction Fees
 
 
 • Foreign Transaction
+
+
 
 Either $10 or 5% of the amount of each cash advance, whichever isgreater.
 
@@ -64,11 +56,9 @@ None
 
 Up to $20
 
-
-
 How We Will Calculate Your Balance: We use a method called “average daily balance (excluding newpurchases)” to calculate your Purchase balance. We use a method called “average daily balance (includingnew cash advances)” to calculate your Cash Advance balance. See the Cardholder Agreement and SecurityAgreement for more details.
 
-Billing Rights: Information on your rights to dispute transactions and how to exercise those rights isprovided in the Cardholder Agreement and Security Agreement.\_____________________________________________________________________________________
+Billing Rights: Information on your rights to dispute transactions and how to exercise those rights isprovided in the Cardholder Agreement and Security Agreement.
 
 For additional information about the costs and terms of your GO2bank Secured Credit Card Account(“Card Account”), see the Cardholder Agreement and Security Agreement. The Cardholder Agreementand Security Agreement and your Card Account will be governed by Utah and applicable federal law. TheCardholder Agreement and Security Agreement permits us to change the terms of your Card Account,including the rates, fees, and other credit terms, subject to us providing advance notice to you if requiredby law.
 
@@ -76,25 +66,17 @@ APPLICATION INFORMATION:
 
 You authorize us to receive and exchange information about you, including from your employer, yourbank, credit bureaus, and others for purposes of verifying your identity and the information you providewhen you submit your application and for purposes of determining your eligibility for credit, renewal ofcredit, and future extensions of credit, except to the extent prohibited by applicable law. THIS OFFERSUPERSEDES ALL PRIOR OFFERS. Terms of this offer, including fees, are accurate and current, but maychange.
 
-STATE DISCLOSURES:(1) MARRIED WISCONSIN RESIDENTS: By submitting your credit card application, you are confirming thatthis credit card obligation is being incurred in the interest of your marriage and your family. No provisionof a marital property agreement, unilateral statement under Section 766.59 of the Wisconsin Statutes, orcourt order under Section 766.70 of the Wisconsin Statutes adversely affects the interest of the creditorunless the creditor, prior to the time the credit is granted, is furnished a copy of the agreement, statement,or decree or has actual knowledge of the adverse provision when the obligation to the creditor is incurred.If the credit card for which you are applying is granted, you will notify GO2bank if you have a spouse whoneeds to receive notification that credit has been extended to you. You understand that we may givenotice of this Card Account to your spouse. (2) CALIFORNIA RESIDENTS: An applicant, if married, mayapply for a separate account. Applicants: (1) may, after credit approval, use the credit card account up toits credit limit; (2) may be liable for amounts extended under the plan to any joint applicant. As requiredby law, you are hereby notified that a negative credit report reflecting on your credit record may besubmitted to a credit reporting agency if you fail to fulfill the terms of your credit obligations. (3) OHIORESIDENTS: The Ohio laws against discrimination require that all creditors make credit equally availableto all credit worthy customers, and that credit reporting agencies maintain separate credit histories oneach individual upon request. The Ohio Civil Rights Commission administers compliance with this law. (4)NEW YORK RESIDENTS: New York residents may contact the New York State Department of FinancialServices by telephone or visit its website for free information on comparative credit card rates, fees, andgrace periods. NY State Dept of Financial Services: 1-800-342-3736 or visitinghttps://www.dfs.ny.gov/consumers/banking_money.
-
- (5) NEW YORK, RHODE ISLAND, AND VERMONTRESIDENTS: We may obtain your credit reports for any legitimate purpose associated with the account orthe application or request for an account, including, but not limited to, reviewing, modifying, renewing,and collecting on your account. On your request, you will be informed if such a report was ordered. If so,you will be given the name and address of the consumer reporting agency furnishing the report. If you area Vermont resident, you consent to the obtaining of such reports by signing or otherwise submitting acredit application. (6) DELAWARE AND OREGON RESIDENTS: Service charges not in excess of thosepermitted by law will be charged on the outstanding balances from month to month. You may pay morethan the minimum payment due, up to your entire outstanding balance, at any time. (7) UTAH RESIDENTS:
+STATE DISCLOSURES:(1) MARRIED WISCONSIN RESIDENTS: By submitting your credit card application, you are confirming thatthis credit card obligation is being incurred in the interest of your marriage and your family. No provisionof a marital property agreement, unilateral statement under Section 766.59 of the Wisconsin Statutes, orcourt order under Section 766.70 of the Wisconsin Statutes adversely affects the interest of the creditorunless the creditor, prior to the time the credit is granted, is furnished a copy of the agreement, statement,or decree or has actual knowledge of the adverse provision when the obligation to the creditor is incurred.If the credit card for which you are applying is granted, you will notify GO2bank if you have a spouse whoneeds to receive notification that credit has been extended to you. You understand that we may givenotice of this Card Account to your spouse. (2) CALIFORNIA RESIDENTS: An applicant, if married, mayapply for a separate account. Applicants: (1) may, after credit approval, use the credit card account up toits credit limit; (2) may be liable for amounts extended under the plan to any joint applicant. As requiredby law, you are hereby notified that a negative credit report reflecting on your credit record may besubmitted to a credit reporting agency if you fail to fulfill the terms of your credit obligations. (3) OHIORESIDENTS: The Ohio laws against discrimination require that all creditors make credit equally availableto all credit worthy customers, and that credit reporting agencies maintain separate credit histories oneach individual upon request. The Ohio Civil Rights Commission administers compliance with this law. (4)NEW YORK RESIDENTS: New York residents may contact the New York State Department of FinancialServices by telephone or visit its website for free information on comparative credit card rates, fees, andgrace periods. NY State Dept of Financial Services: 1-800-342-3736 or visitinghttps://www.dfs.ny.gov/consumers/banking_money. (5) NEW YORK, RHODE ISLAND, AND VERMONTRESIDENTS: We may obtain your credit reports for any legitimate purpose associated with the account orthe application or request for an account, including, but not limited to, reviewing, modifying, renewing,and collecting on your account. On your request, you will be informed if such a report was ordered. If so,you will be given the name and address of the consumer reporting agency furnishing the report. If you area Vermont resident, you consent to the obtaining of such reports by signing or otherwise submitting acredit application. (6) DELAWARE AND OREGON RESIDENTS: Service charges not in excess of thosepermitted by law will be charged on the outstanding balances from month to month. You may pay morethan the minimum payment due, up to your entire outstanding balance, at any time. (7) UTAH RESIDENTS:
 
 As required by Utah law, you are hereby notified that a negative credit report reflecting on your creditrecord may be submitted to a credit reporting agency if you fail to fulfill the terms of your creditobligations.
 
 ELIGIBILITY:
 
-In order to be eligible to apply for a Card Account: (i) you must be 18 years of age or older and a citizen orlawfully residing in one of the 50 states of the United States or the District of Columbia; (ii) you must havea GO2bank bank account in good standing; and (iii) your GO2bank bank account must have received oneor more of the following deposits or transfers totaling at least $100 in the immediately preceding 30 days:(a) direct deposits of payroll or government benefits, (b) transfers via the Automated Clearing HouseNetwork from an eligible bank account in your name at a U.S. financial institution (“External BankAccount”), or (c) transfers via the network associated with a Visa or Mastercard-branded debit card thatis linked to your External Bank Account. In addition, if you applied for a Card Account and your applicationwas declined or if you had a Card Account and it was closed, you will not be eligible to apply for a newCard Account until six months after your application was declined or your Card Account was closed, asapplicable. If you previously had a Card Account and were in Default (as defined below) under thisAgreement, your eligibility may be affected. Every applicant, regardless of marital status, can apply for aseparate Card Account.
+In order to be eligible to apply for a Card Account: (i) you must be 18 years of age or older and a citizen orlawfully residing in one of the 50 states of the United States or the District of Columbia; (ii) you must havea GO2bank bank account in good standing; and (iii) your GO2bank bank account must have received oneor more of the following deposits or transfers totaling at least $100 in the immediately preceding 30 days:(a) direct deposits of payroll or government benefits, (b) transfers via the Automated Clearing HouseNetwork from an eligible bank account in your name at a U.S. financial institution (“External BankAccount”), or (c) transfers via the network associated with a Visa or Mastercard-branded debit card thatis linked to your External Bank Account. In addition, if you applied for a Card Account and your applicationwas declined or if you had a Card Account and it was closed, you will not be eligible to apply for a newCard Account until six months after your application was declined or your Card Account was closed, asapplicable. If you previously had a C ard Account and were in Default (as defined below) under thisAgreement, your eligibility may be affected. Every applicant, regardless of marital status, can apply for aseparate Card Account.
 
 SECURED ACCOUNT; PROVISION OF SECURITY DEPOSIT:
 
 The Card Account is a secured credit card account that is secured by a security deposit account that youare required to establish and maintain in order to open your Card Account (the “Security DepositAccount”). In consideration of the creation of the Card Account and the issuance of the associated card,you agree to pay a security deposit of at least $100 from your GO2bank bank account within 90 days ofthe approval of your application, in accordance with the terms of the Security Agreement. You may notmake any withdrawals from the Security Deposit Account that will result in a balance of less than $100while it secures your Card Account.
-
-MILITARY ANNUAL PERCENTAGE RATE DISCLOSURE
-
-Federal law provides important protections to active duty members of the Armed Forces and theirdependents relating to extensions of consumer credit. In general, the cost of consumer credit to a memberof the Armed Forces and his or her dependent may not exceed an annual percentage rate of 36 percent.This rate must include, as applicable to the credit transaction or account: The costs associated with creditinsurance premiums; fees for ancillary products sold in connection with the credit transaction; anyapplication fee charged (other than certain application fees for specified credit transactions or accounts);and any participation fee charged (other than certain participation fees for a credit card account). To hearthis same disclosure and for a general description of your payment obligations for this credit card account,call the following toll-free number (855) 459-1334.
-
-
 
 THE CARD ACCOUNT AND THE SECURITY DEPOSIT ACCOUNT ARE ONLY AVAILABLE ELECTRONICALLY:
 
@@ -103,6 +85,12 @@ The Card Account and the Security Deposit Account are only available electronica
 APPLICATION AGREEMENT:
 
 By applying for a Card Account, you agree that:1. All information provided in your application is true, correct, and complete and you have the legalcapacity to enter into this contract.
+
+
+
+MILITARY ANNUAL PERCENTAGE RATE DISCLOSURE
+
+Federal law provides important protections to active duty members of the Armed Forces and theirdependents relating to extensions of consumer credit. In general, the cost of consumer credit to a memberof the Armed Forces and his or her dependent may not exceed an annual percentage rate of 36 percent.This rate must include, as applicable to the credit transaction or account: The costs associated with creditinsurance premiums; fees for ancillary products sold in connection with the credit transaction; anyapplication fee charged (other than certain application fees for specified credit transactions or accounts);and any participation fee charged (other than certain participation fees for a credit card account). To hearthis same disclosure and for a general description of your payment obligations for this credit card account,call the following toll-free number (855) 459-1334.
 
 2. GO2bank is authorized to verify or check any of the information given and to obtain credit reportson you. You authorize GO2bank to obtain information from others to investigate your credit,employment, and income history and state records, including state employment security agencyrecords, and to report information regarding your Card Account to consumer reporting agencies.3. Your Card Account will be secured by a Security Deposit Account.4. GO2bank will open the Security Deposit Account in your name. The Security Deposit Account doesnot earn interest. We may change these terms at any time by adding new terms or deleting oramending current terms, subject to applicable law and any required notices. The amountdeposited by you (subject to any minimum requirement) in the Security Deposit Account will beused as collateral to secure the obligations to GO2bank that you incur from time to time inconnection with your Card Account.
 
@@ -116,7 +104,7 @@ NOTICE: EXCEPT TO THE EXTENT THAT YOU ARE A “COVERED BORROWER” AS THAT TERM 
 
 
 
-This Cardholder Agreement and Security Agreement (this “Agreement”) is your agreement with us foryour Card Account. In this Agreement, “you” and “your” refer to you, the person who applied for andreceived the Card Account, and “GO2bank,” “Bank,” “we,” “us,” and “our” refer to Green Dot Bank, theissuer of your Card Account. Below are certain other defined terms used in this Agreement:
+This Cardholder Agreement and Security Agreement (this “Agreement”) is your agreement with us foryour Card Account. In this Agreement, “you” and “ your” refer to you, the person who applied for andreceived the Card Account, and “GO2bank,” “Bank,” “we,” “us,” and “our” refer to Green Dot Bank, theissuer of your Card Account. Below are certain other defined terms used in this Agreement:
 
 
 
@@ -148,7 +136,7 @@ This Cardholder Agreement and Security Agreement (this “Agreement”) is your 
 
 
 
-• “New Balance” means the total outstanding balance on your Card Account at the end of anyBilling Cycle, as shown on your billing statement. To determine the New Balance, we begin withthe outstanding balance on your Card Account at the beginning of each Billing Cycle, called the“Previous Balance” on your billing statement. We subtract any payments and credits we receive.We then add any Purchases, Cash Advances, and other charges posted to your Card Account sincethe end of the previous Billing Cycle. We then add the appropriate interest charges and fees andmake other applicable adjustments.
+• “New Balance” means the total outstanding balance on your Card Account at the end of any BillingCycle, as shown on your billing statement. To determine the New Balance, we begin with theoutstanding balance on your Card Account at the beginning of each Billing Cycle, called the“Previous Balance” on your billing statement. We subtract any payments and credits we receive.We then add any Purchases, Cash Advances, and other charges posted to your Card Account sincethe end of the previous Billing Cycle. We then add the appropriate interest charges and fees andmake other applicable adjustments.
 
 • “Payment Due Date” means the date when your Minimum Payment Due must be received. Seethe “Receipt and Crediting of Payments” section below for more information about when yourpayments must be made in order to be credited to your Card Account on a timely basis. EachPayment Due Date will be at least 25 days from the closing date of your Billing Cycle (at least 23days for Billing Cycles that begin in February) and is printed on each billing statement.
 
@@ -175,6 +163,8 @@ This Cardholder Agreement and Security Agreement (this “Agreement”) is your 
 (a) Available Transactions. Subject to your Credit Limit, you may use your Card and your Card Accountto make Purchases and obtain Cash Advances as long as you are not in Default. You may not obtainbalance transfers from your Card Account. You may make Purchases as described in the definitionof Purchase above. You may obtain Cash Advances in the ways described in the definition of CashAdvance above, subject to the terms, limits, and fees described in this Agreement. When youactivate your Card, you must select a personal identification number (“PIN”), which can be usedwith your Card to obtain a Cash Advance at an authorized ATM, subject to the terms, limits, andfees described in this Agreement.
 
 7
+
+
 
 (b) Limitations on Using Your Card Account. You agree to use your Card Account only for personal,family, or household purposes. You also promise that your Card Account will be not be used forpurposes that are illegal under state or federal law, including, without limitation, illegal gamblingactivity. We reserve the right to deny transactions or authorizations from merchants that appearto be engaged in illegal activities. We are not responsible if anyone does not allow you to use yourCard Account or refuses to accept your Card. We may decline any transaction at any time.
 
@@ -212,7 +202,7 @@ This Cardholder Agreement and Security Agreement (this “Agreement”) is your 
 
 (b) Payments from Your GO2bank Bank Account. For purposes of your Available Credit only,payments from your GO2bank Bank Account that you schedule by logging in to our Website orMobile App will increase your Available Credit when the payment is credited to your CardAccount.
 
-(c) Payments from Your External Bank Account. For purposes of your Available Credit only,payments from your External Bank Account that you schedule by logging in to our Website orMobile App will increase your Available Credit when the payment is credited to your CardAccount.
+(c) Payments from Your External Bank Account. For purposes of your Available Credit only,payments from your External Bank Account that you schedule by logging in to our Website orMobile App will increase your Available Credit when the payment is credited to your Card Account.
 
 (d) Payments by Check. For purposes of your Available Credit only, payments by check will increaseyour Available Credit within 8 to 12 days after we receive the payment.
 
@@ -232,15 +222,17 @@ Except with respect to any past due amounts, if the New Balance shown on your bi
 
 9
 
+
+
 respect to any past due amounts, if the New Balance shown on your billing statement is $25.00or more, your Minimum Payment Due will be equal to the greater of: (i) $25.00 or (ii) 2% of theNew Balance. Notwithstanding anything to the contrary above, if you have failed to make timelypayments on your Card Account or otherwise owe amounts that are past due, the MinimumPayment Due will also include all past due amounts, which we will require you to pay in full on orbefore the Payment Due Date for the current Billing Cycle. Nothing herein shall be deemed awaiver of our rights with respect to your Default or otherwise to preclude us from exercising anyof our rights as a result of your failure to make timely payments on your Card Account inaccordance with this Agreement. Any credits on your Card Account will not be used to meet theMinimum Payment Due amount.
 
 
 
-9. Receipt and Crediting of Payments. For purposes of your payment obligations, the followingdescribes when your payments must be made in order to be credited to your Card Account on a timelybasis.
+9. Receipt and Crediting of Payments. For purposes of your payment obligations, the following describeswhen your payments must be made in order to be credited to your Card Account on a timely basis.
 
 (a) Payments From Your Linked GO2bank Bank Account. If you schedule a payment from your LinkedGO2bank Bank Account via our Website or Mobile App before 3:00 p.m. Mountain Time on aBusiness Day, we will credit the payment as of that day.
 
-(b) Payments From Your Unlinked GO2bank Bank Account or External Bank Account. If you schedulea payment from your unlinked GO2bank Bank Account or External Bank Account via our Websiteor Mobile App before 9:45 p.m. Mountain Time on a Business Day, we will credit the paymentwithin three Business Days, but not later than the end of the third Business Day.
+(b) Payments From Your Unlinked GO2bank Bank Account or External Bank Account. If you schedulea payment from your unlinked GO2bank Bank Account or External Bank Account via our Websiteor Mobile App before 10:45 p.m. Mountain Time on a Business Day, we will credit the paymentwithin three Business Days, but not later than the end of the third Business Day.
 
 (c) Payments By Check. A conforming payment received by us by 5:00 p.m. Mountain Standard Timeon a Business Day will be credited to your Card Account on the date we receive it. A “conformingpayment” is a payment by check drawn on a U.S. financial institution that is capable of beingprocessed through the Federal Reserve System, is payable to GO2bank, and has your Card Accountnumber written on it. Any check that does not meet these requirements will be considered a Non-conforming Payment (as defined below), which may delay the crediting of the payment for up tofive days. Please allow seven to ten Business Days for the U.S. Postal Service to deliver your checkpayment to us.
 
@@ -253,6 +245,8 @@ respect to any past due amounts, if the New Balance shown on your billing statem
 10. Authorization Holds. Transactions at some merchants (such as hotels, car rental companies,restaurants, and gas stations) may result in temporary authorizations for amounts greater than the
 
 10
+
+
 
 actual Purchase amount. If this happens, it will make less credit available to you on your Card Accountuntil the date the actual Purchase amount is received by us from the merchant or the authorizationhold is released.
 
@@ -274,6 +268,8 @@ Our rights stated in this Agreement are in addition to any other rights the Bank
 
 11
 
+
+
 authority, which may include replacing your Card with a new Card or changing your Card Accountnumber.
 
 
@@ -290,11 +286,9 @@ authority, which may include replacing your Card with a new Card or changing you
 
 (b) Returned Payment Fee. For any payment that you make to us that is returned unpaid, we willimpose a Returned Payment Fee equal to the lesser of $20 or the amount of your requiredMinimum Payment Due immediately prior to the date on which the payment is returned.
 
-
-
 (c) Cash Advance Fee. We will impose a Cash Advance fee for each Cash Advance you obtain, equalto the greater of $10 or 5% of the amount of the Cash Advance (including any fee that may becharged by the ATM owner or financial institution that provides the cash).
 
-(d) Foreign Transaction Fee. We will impose a Foreign Transaction Fee equal to 3% of the totaltransaction amount for each Foreign Transaction (as defined below). S ee the “ForeignTransactions” section below for additional restrictions on such transactions.
+(d) Foreign Transaction Fee. We will impose a Foreign Transaction Fee equal to 3% of the totaltransaction amount for each Foreign Transaction (as defined below). See the “ForeignTransactions” section below for additional restrictions on such transactions.
 
 (e) Expedited Card Delivery Fee. We will impose a $24.95 fee if you request that we expedite thedelivery of any replacement Card to you.
 
@@ -304,21 +298,19 @@ authority, which may include replacing your Card with a new Card or changing you
 
 15. Interest Charges.
 
-
-
 When Interest Charges Begin; Grace Periods for New Purchases Only. We calculate interestcharges separately for Cash Advances and Purchases. There are no grace periods for CashAdvances, so you will pay interest charges on Cash Advances beginning on the transaction dateuntil they are paid in full.
 
 There is a grace period during which no interest charge will be imposed on Purchases appearingon a billing statement for the first time (“New Purchases”). New Purchases will not be subject toan interest charge if you pay the New Balance reflected on the current billing statement (thestatement reflecting the New Purchases) in full by the Payment Due Date reflected on the currentbilling statement. If you do not pay the New Balance reflected on the current billing statement in
 
 12
 
+
+
 full by the Payment Due Date reflected on the current billing statement, the balance of the NewPurchases that is not paid by the Payment Due Date on the current billing statement will besubject to an interest charge from the first day of the Billing Cycle beginning immediately afterthe Billing Cycle in which the New Purchases were posted to your Card Account.
 
-(a) How We Calculate Your Interest on Purchases: Average Daily Balance Method (Excluding NewPurchases). We calculate a portion of the interest charge on your Card Account by applying a DailyPeriodic Rate to the “Average Daily Balance of Purchases (excluding New Purchases)” on yourCard Account. The “Daily Periodic Rate” is determined by dividing the Annual Percentage Rate by365 (or by 366 in a leap year). The current Daily Periodic Rate is 0.0629%.To get the Average DailyBalance of Purchases, we take the beginning balance of Purchases on your Card Account each day;and subtract unpaid interest or other finance charges and any payments or credits and fees (NewPurchases are not included in the calculation of the Average Daily Balance of Purchases for theBilling Cycle in which those Purchases are made). This gives us the Daily Balance of Purchases.Then we add together all of these Daily Balances of Purchases for the Billing Cycle, and divide thetotal by the number of days in the Billing Cycle. This gives us the Average Daily Balance ofPurchases.
+(a) How We Calculate Your Interest on Purchases: Average Daily Balance Method (Excluding NewPurchases). We calculate a portion of the interest charge on your Card Account by applying a DailyPeriodic Rate to the “Average Daily Balance of Purchases (excluding New Purchases)” on your CardAccount. The “Daily Periodic Rate” is determined by dividing the Annual Percentage Rate by 365(or by 366 in a leap year). The current Daily Periodic Rate is 0.0629%.To get the Average DailyBalance of Purchases, we take the beginning balance of Purchases on your Card Account each day;and subtract unpaid interest or other finance charges and any payments or credits and fees (NewPurchases are not included in the calculation of the Average Daily Balance of Purchases for theBilling Cycle in which those Purchases are made). This gives us the Daily Balance of Purchases.Then we add together all of these Daily Balances of Purchases for the Billing Cycle, and divide thetotal by the number of days in the Billing Cycle. This gives us the Average Daily Balance ofPurchases.
 
 (b) How We Calculate Your Interest on Cash Advances: Average Daily Balance Method (IncludingNew Cash Advances). We calculate a portion of the interest charge on your Card Account byapplying a Daily Periodic Rate to the “Average Daily Balance of Cash Advances (including New CashAdvances)” on your Card Account. The “Daily Periodic Rate” is determined by dividing the AnnualPercentage Rate by 365 (or by 366 in a leap year). The current Daily Periodic Rate is 0.074%. Toget the Average Daily Balance of Cash Advances, we take the beginning balance of Cash Advanceson the Card Account each day; add any new Cash Advances that have a transaction date thatoccurred on that day; and subtract unpaid interest or other finance charges and any payments orcredits and fees. This gives us the Daily Balance of Cash Advances. Then we add together all ofthese Daily Balances of Cash Advances for the Billing Cycle, and divide the total by the number ofdays in the Billing Cycle. This gives us the Average Daily Balance of Cash Advances.
-
-
 
 (c) Calculation of Interest Charges. We calculate a portion of your interest charge by multiplying aDaily Periodic Rate by your Average Daily Balance of Purchases (excluding New Purchases), andby multiplying a Daily Periodic Rate by your Average Daily Balance of Cash Advances (includingnew Cash Advances). We add together the results of these daily calculations to get your totalinterest charge for the Billing Cycle.
 
@@ -331,6 +323,8 @@ full by the Payment Due Date reflected on the current billing statement, the bal
 17. Lost or Stolen Cards; Liability For Unauthorized Card Transactions. You must contact usIMMEDIATELY if you believe your Card or Card Account information has been lost or stolen or youbelieve your Card or Card Account information has been used without your permission. You maycontact us by calling (855) 459-1334 or by writing to us at Customer Care, P.O. Box 9, West Chester,OH 45071-0009. If you choose to write to us, be sure to include your Card Account number, and, ifapplicable, any information about the alleged unauthorized use, including, but not limited to, an
 
 13
+
+
 
 identification of the transaction(s), the dollar amount of the transaction(s), and the identity of theperson who used your Card without authorization, if any of this information is known. You will not beliable for any unauthorized use that occurs after you notify us. You may, however, be liable forunauthorized use that occurs before your notice to us. In any case, your liability will not exceed $50.
 
@@ -359,6 +353,8 @@ See the “YOUR BILLING RIGHTS” section below for more information concerning 
 22. Assignments and Transfers. Your rights under this Agreement may not be transferred by operation oflaw or otherwise. However, your obligations under this Agreement will be binding upon your estate
 
 14
+
+
 
 and personal representatives. We may sell your Card Account and Security Deposit Account and/orassign or transfer this Agreement and our related rights and obligations without prior notice to youand without your consent.
 
@@ -392,13 +388,15 @@ and personal representatives. We may sell your Card Account and Security Deposit
 
 15
 
+
+
 currency markets on or one day prior to its central or transaction processing date (which rate mayvary from the rate Visa itself receives) or (b) the government-mandated rate. The conversion rate maybe different from the rate in effect on the date of your transaction and the date it is posted to yourCard Account. We will impose a charge equal to 3% of the total transaction amount (U.S. or foreigncurrency) for each transaction that you conduct at merchants (including a foreign website) outside ofthe U.S. and its territories (“Foreign Transaction”).
 
 We monitor your Card Account for signs of potential fraud, which could include the use of your Cardin a manner that is out of the ordinary. If you are planning on using your Card in a foreign country (forexample, if you are traveling abroad), please let us know in advance. Otherwise, it is possible that yourForeign Transactions may be delayed or declined. For example, there are some countries in which weare required by law to block transactions and some countries for which we will not authorize the useof your Card Account due to fraud, terrorism, or other concerns. Those countries change from timeto time, so contact us in advance if you are planning on using your Card in a foreign country and wantto confirm that the Card can be used in that country.
 
 
 
-28. Disclosure of Information to Third Parties. By requesting, obtaining, or using a Card Account, youagree that we may release information in our records regarding you and your Card Account: (a) tocomply with government agency or court orders; (b) to share your credit performance on your CardAccount with credit reporting agencies and other creditors who we reasonably believe are or may bedoing business with you; (c) to provide information on your Card Account to any third party who webelieve is conducting an inquiry in accordance with the Federal Fair Credit Reporting Act; (d) to shareinformation with our employees, agents, or representatives performing work for us in connectionwith your Card Account; or (e) as otherwise permitted by our Privacy Policy.
+28. Disclosure of Information to Third Parties. By requesting, obtaining, or using a Card Account, youagree that we may release information in our records regarding you and your Card Account: (a) tocomply with government agency or court orders; (b) to share your credit performance on your CardAccount with credit reporting agencies and other creditors who we reasonably believe are or may bedoing business with you; (c) to provide information on your Card Account to any third party who webelieve is conducting an inquiry in accordance with the Federal Fair Credit Reporting Act; (d) to shareinformation with our employees, agents, or representatives performing work for us in connection withyour Card Account; or (e) as otherwise permitted by our Privacy Policy.
 
 
 
@@ -417,6 +415,8 @@ We monitor your Card Account for signs of potential fraud, which could include t
 32. Military Annual Percentage Rate Disclosure. Federal law provides important protections to activeduty members of the Armed Forces and their dependents relating to extensions of consumer credit.In general, the cost of consumer credit to a member of the Armed Forces and his or her dependentmay not exceed an annual percentage rate of 36 percent. This rate must include, as applicable to thecredit transaction or account: The costs associated with credit insurance premiums; fees for ancillaryproducts sold in connection with the credit transaction; any application fee charged (other than
 
 16
+
+
 
 certain application fees for specified credit transactions or accounts); and any participation feecharged (other than certain participation fees for a credit card account). To hear this same disclosureand for a general description of your payment obligations for this credit card account, call thefollowing toll-free number (855) 459-1334.
 
@@ -454,6 +454,8 @@ PURSUANT TO 10 U.S.C § 987 AND ITS IMPLEMENTING REGULATIONS, IT IS UNLAWFUL FOR
 
 17
 
+
+
 this Agreement and this arbitration provision (except for the prohibition on class or other non-individual claims, which will be for a court to decide); and (v) any other agreement or instrumentrelating to your Card or Card Account or any related service (“Claim”) will be decided, upon theelection of you or the Bank (or Green Dot Corporation or the Bank’s agents, employees,successors, representatives, affiliated companies, or assigns), by binding arbitration. Arbitrationreplaces the right to litigate a claim in court or to have a jury trial. The American ArbitrationAssociation (“AAA”) will serve as the arbitration administrator. You may obtain copies of thecurrent rules, forms, and instructions for initiating an arbitration with the AAA by contacting theAAA as follows: online at www.adr.org or by writing to the AAA at: American ArbitrationAssociation, Case Filing Services, 1101 Laurel Oak Road, Suite 100, Voorhees, NJ 08043.
 
 (c) Other Claims Subject to Arbitration. In addition to Claims brought by either you or the Bank,Claims made by or against Green Dot Corporation or by or against anyone connected with you orthe Bank or claiming through you or the Bank (including a second cardholder, employee, agent,representative, affiliated company, predecessor or successor, heir, assignee, or trustee inbankruptcy) will be subject to arbitration as described herein.
@@ -468,17 +470,15 @@ this Agreement and this arbitration provision (except for the prohibition on cla
 
 18
 
+
+
 enter judgment upon the arbitrator’s aware. This arbitration provision is made pursuant to atransaction involving interstate commerce and will be governed by the FAA.
 
 
 
 36. YOUR BILLING RIGHTS: KEEP THIS DOCUMENT FOR FUTURE USE
 
-
-
 This notice tells you about your rights and our responsibilities under the Fair Credit Billing Act.
-
-
 
 What To Do If You Find A Mistake On Your Billing Statement:
 
@@ -560,7 +560,9 @@ To use this right, all of the following must be true:
 
 (1) The Purchase must have been made in your home state or within 100 miles of your currentmailing address, and the Purchase price must have been more than $50. (Note: Neither ofthese are necessary if your Purchase was based on an advertisement we mailed to you or ifwe own the company that sold you the goods or services.)(2) You must have used your Card for the Purchase. Purchases made with Cash Advances froman ATM or with a check that accesses your Card Account do not qualify.(3) You must not yet have fully paid for the Purchase.
 
-If all of the criteria above are met and you are still dissatisfied with the Purchase, contact us inwriting at:
+If all of the criteria above are met and you are still dissatisfied with the Purchase, contact us in writing
+
+at:
 
 GO2Bank
 
@@ -580,6 +582,8 @@ This Security Agreement governs your Security Deposit Account.
 
 20
 
+
+
 (a) Grant of Security Interest in the Security Deposit Account. To secure all Debt arising under yourCard Account and under the terms of this Agreement, you assign, transfer, pledge, grant a securityinterest in, and set over to us all of your rights, title, and interest in the Security Deposit Accountand in all renewals, substitutions of, and additions and proceeds of the Security Deposit Account.Your Security Deposit Account does not secure any obligations to us other than the Debt. Noportion of the Security Deposit Account will be available to you or may be used to secure otherloans.
 
 (b) Our Rights Over Your Security Deposit Account. The security interest, pledge, and assignment inyour Security Deposit Account given to us by you includes and gives the Bank the right to makesettlements or compromises on your Security Deposit Account; transfer your Security DepositAccount to the Bank’s own name; or exercise ownership rights on your Security Deposit Account.You waive any right to require the Bank to: (i) proceed against you or any other person;(ii) proceed against or exhaust any security you have provided to us through other agreements;or (iii) pursue any other remedy in the Bank’s power. The Bank may, without prior notice, andfrom time to time: (1) renew, compromise, extend, accelerate, or otherwise change the termsrelating to the Debt; (2) take and hold security (other than the Security Deposit Account) forpayment of the Debt and enforce, exchange, and release the security in any manner that the Bankdetermines is proper; (3) release or substitute you, any guarantor, or any endorser of the Debt;and (4) increase or lower the Credit Limit on your Card Account, and no such action will changethe fact that the Security Deposit Account at all times will be held by the Bank as security for theDebt.
@@ -588,17 +592,15 @@ This Security Agreement governs your Security Deposit Account.
 
 (d) Our Rights Upon Your Default. Upon any Default, we are authorized to act as owner of yourSecurity Deposit Account and to apply all or any portion of the funds in your Security DepositAccount to repayment of the Debt and Bank’s costs in enforcing its rights hereunder. The Bank isirrevocably appointed as attorney-in-fact for the limited purpose of executing any instrumentsrequired to satisfy the Debt.
 
-(e) Closing Your Security Deposit Account; Returning the Funds. You may not close your SecurityDeposit Account until your obligations under this Agreement have been fully paid and your CardAccount is closed. We may, in our discretion, close your Security Deposit Account at any time. Ifyou or we close your Security Deposit Account, we may return the funds in your Security DepositAccount to you by any of the following means: (i) by a transfer of the funds to your GO2bank BankAccount; (ii) by sending a check to you at the address we have in our records; or (iii) some othermethod deemed sufficient by us. However, if the balance in your Security Deposit Account is $1.00or less, we will not issue a refund to you unless you request it in writing. In addition, we may usethe funds in your Security Deposit Account to pay any balances on your Card Account. You agreethat if your Card Account is closed for any reason, we may apply the funds in your Security DepositAccount to pay off any balance on your Card Account. We also may hold the funds in your SecurityDeposit Account for as long as 60 days after you have paid off your Card Account balance andyour Card Account is closed. If a check we send to you is returned as undeliverable or if we cannotlocate you, we will hold the funds from your Security Deposit Account until you either contact usand provide information on how to send the funds to you or until we are required to remit yourfunds to a state under an applicable unclaimed property law, whichever occurs first. For this
+(e) Closing Your Security Deposit Account; Returning the Funds. You may not close your SecurityDeposit Account until your obligations under this Agreement have been fully paid and your CardAccount is closed. We may, in our discretion, close your Security Deposit Account at any time. Ifyou or we close your Security Deposit Account, we may return the funds in your Security DepositAccount to you by any of the following means: (i) by a transfer of the funds to your GO2bank BankAccount; (ii) by sending a check to you at the address we have in our records; or (iii) some othermethod deemed sufficient by us. However, if the balance in your Security Deposit Account is $1.00or less, we will not issue a refund to you unless you request it in writing. In addition, we may usethe funds in your Security Deposit Account to pay any balances on your Card Account. You agreethat if your Card Account is closed for any reason, we may apply the funds in your Security DepositAccount to pay off any balance on your Card Account. We also may hold the funds in your SecurityDeposit Account for as long as 60 days after you have paid off your Card Account balance and yourCard Account is closed. If a check we send to you is returned as undeliverable or if we cannot locateyou, we will hold the funds from your Security Deposit Account until you either contact us andprovide information on how to send the funds to you or until we are required to remit your fundsto a state under an applicable unclaimed property law, whichever occurs first. For this
 
 21
 
+
+
 reason, it is important that you promptly notify us if you change any contact information youprovide to us, including your name, mailing address, email address, and phone number.
 
-
-
 (f) Our Liability to You. We will have no liability to you with respect to your Security Deposit Account,other than as provided in this Security Agreement. We will meet our duty to care for your SecurityDeposit Account if we exercise ordinary care in the transaction at issue. “Ordinary care” requiresonly that we follow standards that do not vary unreasonably from the general standards followedby similarly situated banks. A mere clerical error, or an honest mistake, will not be considered afailure of the Bank to perform any of its obligations.
-
-
 
 (g) Withdrawals. Your Security Deposit Account serves as the collateral for your Card Account. It maynot be used to secure any other loans. The Bank has the right to require at least seven days’written notice before you withdraw or transfer money from your Security Deposit Account. If youwithdraw money from your Security Deposit Account, your Credit Limit will be decreasedaccordingly. Notwithstanding the foregoing, you agree that you may not withdraw funds if: i) youhave a past due amount, ii) you had made a withdrawal in the previous 30 days, iii) the withdrawalwould result in your Security Deposit Account being below the minimum amount we require givenyour outstanding balance, and iv) the withdrawal would result in an amount below the minimumrequired balance as described below in the “Minimum Balance Limitations” section. In addition,notwithstanding the foregoing, we may prohibit you from exercising any other rights over yourSecurity Deposit Account until your obligations under this Agreement have been fully paid and/oryour Card Account has been closed. See the “Closing Your Security Deposit Account; Returningthe Funds” section above for terms and conditions regarding return of the funds and closure ofyour Card Account.
 
@@ -612,9 +614,11 @@ reason, it is important that you promptly notify us if you change any contact in
 
 (i) Your Initial Deposit. The initial deposit to fund your Security Deposit Account must be at least$100.
 
-(ii) Subsequent Deposits. Except as otherwise provided in this Agreement, you may makedeposits to your Security Deposit Account to secure your Card Account at any time, up to yourCredit Limit. If you attempt to make a deposit that would cause the balance of your SecurityDeposit Account to exceed your Credit Limit, we may reject the deposit. If we allow thedeposit, we are not required to allow deposits in the future. In addition, increasing thebalance of your Security Deposit Account will not necessarily increase your Credit Line. If you
+(ii) Subsequent Deposits. Except as otherwise provided in this Agreement, you may makedeposits to your Security Deposit Account to secure your Card Account at any time, up to yourCredit Limit. If you attempt to make a deposit that would cause the balance of your SecurityDeposit Account to exceed your Credit Limit, we may reject the deposit. If we allow thedeposit, we are not required to allow deposits in the future. In addition, increasing the balanceof your Security Deposit Account will not necessarily increase your Credit Line. If you
 
 22
+
+
 
 choose to make deposits to your Security Deposit Account to secure your Card Account, eachdeposit must be for at least $1.00.
 
@@ -624,15 +628,15 @@ choose to make deposits to your Security Deposit Account to secure your Card Acc
 
 
 
-(i) Transfer Types and Limitations.
-
- The only kind of electronic fund transfers that may occurrelating to your Security Deposit Account are transfers to and from your GO2bank BankAccount (“Transfers”) to fund your Security Deposit Account or make withdrawals from yourSecurity Deposit Account. See the “Deposits to Your Security Deposit Account” section and“Withdrawals” section for limitations on depositing funds to and withdrawing funds from yourSecurity Deposit Account.
+(i) Transfer Types and Limitations. The only kind of electronic fund transfers that may occurrelating to your Security Deposit Account are transfers to and from your GO2bank BankAccount (“Transfers”) to fund your Security Deposit Account or make withdrawals from yourSecurity Deposit Account. See the “Deposits to Your Security Deposit Account” section and“Withdrawals” section for limitations on depositing funds to and withdrawing funds from yourSecurity Deposit Account.
 
 (ii) Our Liability for Failure to Make Transfers. If we do not complete a Transfer to or from yourSecurity Deposit Account on time or in the correct amount according to this Agreement, wewill be liable for your losses or damages under section 910 of the Electronic Fund Transfer Act(Title IX of the Consumer Credit Protection Act, 15 U.S.C. §§ 1693 et seq.). However, there aresome exceptions. We will not be liable for instance: (1) if through no fault of ours, yourSecurity Deposit Account, GO2bank Bank Account or External Bank Account has insufficientfunds for the Transfer or the funds are unavailable for withdrawal from your Security DepositAccount, GO2bank Bank Account or External Bank Account (e.g., because they have not beenfinally collected or are subject to legal process); (2) if the transaction would exceed youroverdraft limit, if any, for your GO2bank Bank Account; (3) if we have limited or revoked yourGO2bank Bank Account privileges, or if we have reason to believe the transaction is notauthorized by you; (4) if circumstances beyond our control (such as fire, flood, pandemic,water damage, power failure, strike, labor dispute, computer breakdown, telephone linedisruption, or a natural disaster) or a rolling blackout prevent or delay the Transfer despitereasonable precautions taken by us; or (5) as otherwise provided in this Agreement.
 
 (iii) In Case of Errors or Questions about your Transfers. Call us at (855) 459-1334 or write us atP.O. Box 9, West Chester, OH 45071-0009 as soon as you can, if you think your statement orreceipt is wrong or if you need more information about a Transfer listed on the statement orreceipt. We must hear from you no later than 60 days after we sent the FIRST statement onwhich the problem or error appeared. When notifying us, you will need to tell us: (1) yourname and Card Account number; (2) why you believe there is an error and the dollar amountinvolved; and (3) approximately when the error took place. If you tell us orally, we may requirethat you also send us your complaint or question in writing within ten Business Days. We willdetermine whether an error occurred within ten Business Days after we hear from you andwill correct any error promptly. If we need more time, however, we may take up to 45 daysto investigate your complaint or question. If we decide to do this, we will provide a provisionalcredit your Security Deposit Account within ten Business Days for the amount you think is in
 
 23
+
+
 
 error, so that you will have the benefit of your money during the time it takes us to completeour investigation. If we ask you to put your complaint or question in writing, and we do notreceive it within ten Business Days, we may not provisionally credit your Security DepositAccount. For errors involving a new Security Deposit Account, we may take up to 90 days toinvestigate your complaint or question and we may take up to 20 Business Days to provide aprovisional credit to your Security Deposit Account for the amount you think is in error. Wewill tell you the results within three Business Days after completing our investigation. If wedecide that there was no error, we will send you a written explanation. You may ask for copiesof the documents that we used in our investigation.
 
@@ -642,6 +646,6 @@ error, so that you will have the benefit of your money during the time it takes 
 
 (o) Adverse Claims. If we receive a claim to all or a portion of your Security Deposit Account that isadverse to your interest and we do not believe that we are otherwise adequately protected if weignore that claim, we may place a hold on funds that are subject to the claim. The hold may beplaced for any period of time we believe to be reasonably necessary to allow a legal proceedingto determine the merits of the claim to be instituted.
 
-(p) Information Given to Third Parties. We may disclose information to third parties about you andyour Security Deposit Account: (i) where it is necessary or helpful for completing transactions; (ii)in order to verify the existence and condition of your Security Deposit Account for a third party;(iii) in order to comply with government agency or court orders; (iv) if you give us your consent;(v) to service providers who administer your Security Deposit Account or perform data processing,records management, collections, and other similar services for us, in order that they mayperform those services; (vi) in order to identify, prevent, investigate, or report possible suspiciousor illegal activity; (vii) to disclose the existence, history, and condition of your Security DepositAccount to consumer reporting agencies; and (viii) as permitted by our Privacy Policy. See ourPrivacy Policy for further details. We may also disclose information that is not personallyidentifiable for other purposes.
+(p) Information Given to Third Parties. We may disclose information to third parties about you andyour Security Deposit Account: (i) where it is necessary or helpful for completing transactions; (ii)in order to verify the existence and condition of your Security Deposit Account for a third party;(iii) in order to comply with government agency or court orders; (iv) if you give us your consent;(v) to service providers who administer your Security Deposit Account or perform data processing,records management, collections, and other similar services for us, in order that they may performthose services; (vi) in order to identify, prevent, investigate, or report possible suspicious or illegalactivity; (vii) to disclose the existence, history, and condition of your Security Deposit Account toconsumer reporting agencies; and (viii) as permitted by our Privacy Policy. See our Privacy Policyfor further details. We may also disclose information that is not personally identifiable for otherpurposes.
 
-Rev. 3/2024
+Rev. 6/2024
