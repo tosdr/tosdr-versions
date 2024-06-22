@@ -1185,16 +1185,6 @@ Latest update: July 05, 2023
 Cookie Policy of gamepix.com
 ----------------------------
 
-To find more information on California consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/67570123/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Virginia consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/67570123/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Colorado consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/67570123/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Connecticut consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/67570123/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Utah consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/67570123/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
 This document informs Users about the technologies that help this Website to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with this Website.
 
 For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.  
@@ -1334,14 +1324,17 @@ Storage duration:
 
 * FPTrust: duration of the session
 * audit: 1 year
+* audit\_p: 1 year
 * cd: duration of the session
 * emilyRan: indefinite
 * fcap: indefinite
 * khaos: 1 year
 * khaos: indefinite
+* khaos\_p: 1 year
 * pux: indefinite
 * sample\_number: indefinite
 * trp\_optout: 5 years
+* trp\_optout\_p: 5 years
 * uids: 3 months
 * uids-audit: 3 months
 
