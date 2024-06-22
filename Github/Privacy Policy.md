@@ -1,11 +1,11 @@
-[Skip to content](#start-of-content)The Super Early Bird sale is extended! [Get tickets to GitHub Universe 35% off by July 15.](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=24bannerheader4li-security)
+[Skip to content](#start-of-content)Join us for the 10th anniversary of GitHub Universe. [Get tickets now for 35% off, only until July 8.](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=24bannerheader3li-security)
 
 Navigation Menu
 ---------------
 
 Toggle navigation
 
-[](https://help.github.com/)
+[](https://github.com/)
 
 [Sign in](https://help.github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecurity)
 
@@ -45,36 +45,20 @@ Toggle navigation
     
 * Solutions
     
-    By size
+    For
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
+    * [Education](https://education.github.com/)
     
-    By industry
-    
-    * [Healthcare](https://github.com/solutions/industries/healthcare)
-    * [Financial services](https://github.com/solutions/industries/financial-services)
-    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
-    
-    By use case
+    By Solution
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
     
-* Resources
-    
-    Topics
-    
-    * [AI](https://help.github.com/resources/articles/ai)
-    * [DevOps](https://help.github.com/resources/articles/devops)
-    * [Innersource](https://help.github.com/resources/articles/innersource)
-    * [Open Source](https://help.github.com/resources/articles/open-source)
-    * [Security](https://help.github.com/resources/articles/security)
-    * [Software Development](https://help.github.com/resources/articles/software-development)
-    
-    Explore
+    Resources
     
     * [Learning Pathways](https://resources.github.com/learn/pathways)
     * [White papers, Ebooks, Webinars](https://resources.github.com/)
@@ -341,9 +325,7 @@ Get tips, technical guides, and best practices. Twice a month. Right in your inb
 * [Partners](https://partner.github.com/)
 * [Education](https://github.com/edu)
 * [Electron](https://www.electronjs.org/)
-* [GitHub CLI](https://cli.github.com/)
 * [GitHub Desktop](https://desktop.github.com/)
-* [GitHub Mobile](https://github.com/mobile)
 
 ### Support
 
