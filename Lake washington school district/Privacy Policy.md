@@ -170,11 +170,11 @@ News
 
 [All News](https://www.lwsd.org/fs/pages/1009)
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/rose-hill-middle-school-drama-students-create-original-production-from-the-ground-up)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/a-vote-for-diplomacy-evergreen-creates-model-united-nations-for-first-time-at-school)
 
-[Rose Hill Middle School drama students create original production from the ground up](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/rose-hill-middle-school-drama-students-create-original-production-from-the-ground-up)
+[A vote for diplomacy – Evergreen creates Model United Nations for first time at school](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/a-vote-for-diplomacy-evergreen-creates-model-united-nations-for-first-time-at-school)
 
-May 21 2024
+Jun 21 2024
 
 [](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/two-lwsd-students-take-top-spots-in-regional-holocaust-writing-art-and-film-contest)
 
@@ -205,18 +205,6 @@ Events
 
 [Full Calendar](https://www.lwsd.org/about-us/district-calendar)
 
-Fri Jun. 21
-
-[Half-day - Last day of school](#)
-
-Fri Jun. 21
-
-[LWSD - Last day 2nd semester (secondary)](#)
-
-Fri Jun. 21
-
-[LWSD - Secondary grades due](#)
-
 Mon Jun. 24
 
 [LWSD - School Board Study Session](#)
@@ -236,6 +224,18 @@ Mon Aug. 05
 Mon Aug. 19
 
 [LWSD - School Board Study Session](#)
+
+Mon Aug. 19
+
+[LWSD - School Board Meeting](#)
+
+Mon Sep. 09
+
+[LWSD - School Board Study Session](#)
+
+Mon Sep. 09
+
+[LWSD - School Board Meeting](#)
 
 X
 -
