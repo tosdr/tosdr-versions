@@ -547,6 +547,8 @@ Get In Touch
 
 [](https://www.linkedin.com/company/gohire.io/)[](https://www.youtube.com/@GoHire_/featured)[](https://twitter.com/GoHireHQ)[](https://www.facebook.com/gohirehq)[](https://www.instagram.com/gohireats/)
 
+[Built by SmartPandas.xyz](https://smartpandas.xyz/)
+
 Free HR Tools
 
 [AI Job Description Generator](https://gohire.io/free-job-description-generator) [AI Interview Question Generator](https://gohire.io/free-interview-question-generator) [AI Careers Page Content Generator](https://gohire.io/free-careers-page-content-generator) [AI LinkedIn Message Generator](https://free-linkedin-message-generator/) [AI Onboarding Checklist Generator](https://gohire.io/free-candidate-onboarding-checklist-generator)
