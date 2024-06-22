@@ -137,6 +137,13 @@ RCS Nanterre 330 814 732
 France  
 **Publication Director: Dag-Inge RASMUSSEN**
 
+**Web development/Technical platform**  
+ARTEFACT  
+3-5 rue des Frères Goncourt  
+19100 BRIVE  
+France  
+[https://www.artefact.fr](https://www.artefact.fr/)
+
 **Provider**  
 ADISTA  
 Agence de Paris - Ouest  
@@ -151,15 +158,7 @@ Tel : +33 (0)1 75 95 10 60
 MEDIA OBJECTIF  
 4 rue Emile LOUBET  
 66280 SALEILLES  
-France  
-[https://www.media-objectif.fr/](https://www.media-objectif.fr/)
-
-**Web development/Technical platform**  
-ARTEFACT  
-3-5 rue des Frères Goncourt  
-19100 BRIVE  
-France  
-[www.artefact.fr](https://www.artefact.fr/)
+France
 
 **1\. General use**
 
@@ -215,4 +214,4 @@ Follow us
 * [Code of Ethics](https://www.lagardere.com/fichiers/fckeditor/File/Groupe/Gouvernement_d_entreprise/2020/Lagardere_Code-of-ethics_2020_VFin.pdf "Code of Ethics")
 * [Ethics Line](https://lagardere.whispli.com/ethicsline/?locale=en "Ethics Line")
 
-© 2023 Lagardère Travel Retail, a division of the [Lagardère group](http://www.lagardere.com/). All rights reserved. [Terms of use](https://www.lagardere-tr.com/en/terms-of-use "Terms of use") - [Privacy Policy](https://www.lagardere-tr.com/en/privacy-policy) - [Cookies](https://www.lagardere-tr.com/en/cookies)
+© 2024 Lagardère Travel Retail, a division of the [Lagardère group](http://www.lagardere.com/). All rights reserved. [Terms of use](https://www.lagardere-tr.com/en/terms-of-use "Terms of use") - [Privacy Policy](https://www.lagardere-tr.com/en/privacy-policy) - [Cookies](https://www.lagardere-tr.com/en/cookies)
