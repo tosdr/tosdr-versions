@@ -1,7 +1,7 @@
 [Skip to main content](#main-content)[IBM Quantum Platform](https://quantum-computing.ibm.com/)
 
 * [Dashboard](https://quantum-computing.ibm.com/)
-* [Compute resources](https://quantum-computing.ibm.com/services/resources)
+* [Systems](https://quantum-computing.ibm.com/services/resources)
 * [Jobs](https://quantum-computing.ibm.com/jobs)
 
 Search
