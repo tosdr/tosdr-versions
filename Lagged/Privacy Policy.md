@@ -221,37 +221,37 @@ Popular game categories
 Games you might like
 --------------------
 
-[Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=220) top rated
-
 [Elastic Man](https://lagged.com/en/g/elastic-man) ![Elastic Man Game](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=220)
 
-[Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=220)
+[Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=220) top rated
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
 
+[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
+
+[Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=220)
+
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://lagged.com/imgs/3d4b54bf-6073-461d-02ab-b39292ff0000/w=220)
 
-[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
+[Street Racing: Moto Drift](https://lagged.com/en/g/street-racing-moto-drift) ![Street Racing: Moto Drift Game](https://lagged.com/imgs/cbaadd0e-541b-4961-da2f-7fc81721a400/w=220) new
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=220)
 
-[Scary Neighbor Online](https://lagged.com/en/g/scary-neighbor-online) ![Scary Neighbor Online Game](https://lagged.com/imgs/33149da7-adb3-47dc-12a9-8e738f273f00/w=220)
-
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
 
-[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://lagged.com/imgs/35fb6dc0-c2ce-4fee-05dd-382520c97a00/w=220)
+[Scary Neighbor Online](https://lagged.com/en/g/scary-neighbor-online) ![Scary Neighbor Online Game](https://lagged.com/imgs/33149da7-adb3-47dc-12a9-8e738f273f00/w=220)
 
-[BitLife Life Simulator](https://lagged.com/en/g/bitlife-life-simulator) ![BitLife Life Simulator Game](https://lagged.com/imgs/daad2c3e-d2e1-4043-be3b-4c3ea31c0b00/w=220) top rated
-
-[Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://lagged.com/imgs/952e1bc9-a022-4c75-5113-b3d4897e2b00/w=220)
-
-[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://lagged.com/imgs/1bf0a6a4-8242-425f-c6e3-8a19cfcb9800/w=220)
-
-[Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://lagged.com/imgs/b25d7227-5cde-4d32-0ead-486647ded900/w=220)
+[Snake of Bullets](https://lagged.com/en/g/snake-of-bullets) ![Snake of Bullets Game](https://lagged.com/imgs/7812378b-641d-4f4b-5c4d-eaa58fbade00/w=220) new
 
 [Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://lagged.com/imgs/c621b7a7-4b2f-40f6-4cec-498405934500/w=220)
 
-[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://lagged.com/imgs/dd5cd99a-fc69-480f-18a5-22443243ef00/w=220)
+[Tiles Hop](https://lagged.com/en/g/tiles-hop) ![Tiles Hop Game](https://lagged.com/imgs/2c126e19-4a2f-4ae2-2a17-905864d99900/w=220)
+
+[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://lagged.com/imgs/457ea860-0c81-49e6-3520-1946799f4e00/w=220)
+
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://lagged.com/imgs/fecf592a-0609-4a27-a6a4-4555a9da3c00/w=220)
+
+[Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://lagged.com/imgs/32307ae5-8fb5-4e50-06eb-23c56b80c500/w=220)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
