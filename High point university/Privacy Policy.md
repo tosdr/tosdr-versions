@@ -33,10 +33,10 @@ Search
     
     [Undergraduate Admission All students receive an extraordinary education in an inspiring environment with caring people.](https://www.highpoint.edu/admissions/)
     
-    [Graduate Admission Preparing professionals for the world as it is going to be.](https://www.highpoint.edu/graduate/admissions-information/)
+    [Graduate Admission Preparing professionals for the world as it is going to be.](https://www.highpoint.edu/graduate/)
     
     * [Undergraduate Admission](https://www.highpoint.edu/admissions/)
-    * [Graduate Admission](https://www.highpoint.edu/graduate/admissions-information/)
+    * [Graduate Admission](https://www.highpoint.edu/graduate/)
     * [Tuitions & Fees](https://www.highpoint.edu/admissions/tuition-fees/)
         * [admissions](https://www.highpoint.edu/admissions)
     * [Financing Your Education](https://www.highpoint.edu/financialplanning/)
