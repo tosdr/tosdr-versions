@@ -38,6 +38,7 @@ Menu
         * [Security](https://www.centurylink.com/en-us/solutions/connected-security.html)
     * By Use Case
         back By Use Case* [Branch Transformation](https://www.centurylink.com/en-us/solutions/use-case/branch-transformation.html)
+        * [ExaSwitch](https://www.centurylink.com/en-us/solutions/use-case/exaswitch.html)
         * [Network-as-a-Service](https://www.centurylink.com/en-us/solutions/use-case/network-on-demand.html)
         * [Secure Your Workforce](https://www.centurylink.com/en-us/solutions/use-case/secure-workforce.html)
     * Technology Partners
@@ -72,6 +73,7 @@ Menu
     * [Security](https://www.centurylink.com/en-us/solutions/connected-security.html)
     
     back SOLUTIONS* [Branch Transformation](https://www.centurylink.com/en-us/solutions/use-case/branch-transformation.html)
+    * [ExaSwitch](https://www.centurylink.com/en-us/solutions/use-case/exaswitch.html)
     * [Network-as-a-Service](https://www.centurylink.com/en-us/solutions/use-case/network-on-demand.html)
     * [Secure Your Workforce](https://www.centurylink.com/en-us/solutions/use-case/secure-workforce.html)
     
