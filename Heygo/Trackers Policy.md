@@ -523,6 +523,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![6 UK holidays with something for all the family](https://media.restless.co.uk/uploads/2024/06/uk-holidays-with-something-for-all-the-family-768x432.jpg)](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+
+### [6 UK holidays with something for all the family](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+
+[Read More »](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+
 [![Exploring Italy's hidden gems - 8 must-see spots](https://media.restless.co.uk/uploads/2024/06/exploring-italys-hidden-gems-8-must-see-spots-768x398.jpg)](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
 
 ### [Exploring Italy’s hidden gems – 8 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
@@ -552,12 +558,6 @@ New in travel
 ### [10 of the most popular holidays in 2024](https://restless.co.uk/travel/the-most-popular-holidays-in-2024/)
 
 [Read More »](https://restless.co.uk/travel/the-most-popular-holidays-in-2024/)
-
-[![12 idyllic beach destinations in Southern Europe](https://media.restless.co.uk/uploads/2023/08/idyllic-beach-destinations-in-southern-europe-768x512.jpg)](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-[Read More »](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
 
 Popular travel guides
 ---------------------
