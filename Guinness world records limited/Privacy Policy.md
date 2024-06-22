@@ -1,186 +1,21 @@
-[![Guinness World Records](/images/logo.png)](https://www.guinnessworldrecords.com/)
+[![Guinness World Records](/images/og_image.jpg)](https://www.guinnessworldrecords.com/)
 
-* [RECORDS](https://www.guinnessworldrecords.com/records/)[](#)
-    
-    * [APPLY TO SET OR BREAK A RECORD](https://www.guinnessworldrecords.com/records/apply-to-set-or-break-a-record/)
-        
-        [![Invite an Adjudicator](/images/css/GWR_load.gif)
-        
-        Invite an Adjudicator](https://www.guinnessworldrecords.com/records/the-application-process/invite-an-adjudicator)[![Consultancy](/images/css/GWR_load.gif)
-        
-        Consultancy](https://www.guinnessworldrecords.com/records/the-application-process/consultancy)[![Standard Applications](/images/css/GWR_load.gif)
-        
-        Standard Applications](https://www.guinnessworldrecords.com/records/the-application-process/standard-applications)
-        
-    * [INVITE AN ADJUDICATOR](https://www.guinnessworldrecords.com/records/the-application-process/invite-an-adjudicator)
-        
-    * [WHAT MAKES A GUINNESS WORLD RECORDS TITLE?](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/)
-        
-        [![How are records measured?](/images/css/GWR_load.gif)
-        
-        How are records measured?](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/how-are-records-measured)[![Guide to record formats](/images/css/GWR_load.gif)
-        
-        Guide to record formats](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/guide-to-record-formats)[![Guide to impairment classifications](/images/css/GWR_load.gif)
-        
-        Guide to impairment classifications](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/guide-to-impairment-classifications)
-        
-    * [HOW TO SET OR BREAK A WORLD RECORD](https://www.guinnessworldrecords.com/records/how-to-set-or-break-a-world-record/)
-        
-        [![The application process](/images/css/GWR_load.gif)
-        
-        The application process](https://www.guinnessworldrecords.com/records/the-application-process/)[![Understanding guidelines](/images/css/GWR_load.gif)
-        
-        Understanding guidelines](https://www.guinnessworldrecords.com/records/understanding-guidelines/)[![Guide to evidence](/images/css/GWR_load.gif)
-        
-        Guide to evidence](https://www.guinnessworldrecords.com/records/how-to-collect-and-submit-evidence/)[![Record policies](/images/css/GWR_load.gif)
-        
-        Record policies](https://www.guinnessworldrecords.com/records/record-policies/)
-        
-    * [OUR PARTNERS & CONSULTANTS](https://www.guinnessworldrecords.com/records/partners/)
-        
-    * [HALL OF FAME](https://www.guinnessworldrecords.com/records/hall-of-fame/)
-        
-        [![Burj Khalifa - Tallest building](/images/css/GWR_load.gif)
-        
-        Burj Khalifa - Tallest building](https://www.guinnessworldrecords.com/records/hall-of-fame/burj-khalifa-tallest-building-in-the-world)[![Otto - Longest human tunnel travelled through by a skateboarding dog](/images/css/GWR_load.gif)
-        
-        Otto - Longest human tunnel travelled through by a skateboarding dog](https://www.guinnessworldrecords.com/records/hall-of-fame/otto-the-skateboarding-bulldog)[![Lee Redmond - Longest Fingernails Ever](/images/css/GWR_load.gif)
-        
-        Lee Redmond - Longest Fingernails Ever](https://www.guinnessworldrecords.com/records/hall-of-fame/lee-redmond-longest-fingernails-on-a-pair-of-hands)[![Ashrita Furman - Most Guinness World Records titles held](/images/css/GWR_load.gif)
-        
-        Ashrita Furman - Most Guinness World Records titles held](https://www.guinnessworldrecords.com/records/hall-of-fame/ashrita-furman)
-        
-    * [SHOWCASE](https://www.guinnessworldrecords.com/records/showcase/)
-        
-        [![Animals](/images/css/GWR_load.gif)
-        
-        Animals](https://www.guinnessworldrecords.com/records/showcase/animals/)[![Human body](/images/css/GWR_load.gif)
-        
-        Human body](https://www.guinnessworldrecords.com/records/showcase/human-body)[![Food & drink](/images/css/GWR_load.gif)
-        
-        Food & drink](https://www.guinnessworldrecords.com/records/showcase/food-and-drink)[![Speed](/images/css/GWR_load.gif)
-        
-        Speed](https://www.guinnessworldrecords.com/records/showcase/speed)
-        
-    
-* [SPOTLIGHT](https://www.guinnessworldrecords.com/spotlight/)[](#)
-    
-    * [MOST POPULAR VIDEOS](https://www.guinnessworldrecords.com/news/video/)
-        
-    * [GWR AT HOME](https://www.guinnessworldrecords.com/records/GWR-at-home/)
-        
-    * [HALL OF FAME](https://www.guinnessworldrecords.com/records/hall-of-fame/)
-        
-        [![Burj Khalifa - Tallest building](/images/css/GWR_load.gif)
-        
-        Burj Khalifa - Tallest building](https://www.guinnessworldrecords.com/records/hall-of-fame/burj-khalifa-tallest-building-in-the-world)[![Otto - Longest human tunnel travelled through by a skateboarding dog](/images/css/GWR_load.gif)
-        
-        Otto - Longest human tunnel travelled through by a skateboarding dog](https://www.guinnessworldrecords.com/records/hall-of-fame/otto-the-skateboarding-bulldog)[![Lee Redmond - Longest Fingernails Ever](/images/css/GWR_load.gif)
-        
-        Lee Redmond - Longest Fingernails Ever](https://www.guinnessworldrecords.com/records/hall-of-fame/lee-redmond-longest-fingernails-on-a-pair-of-hands)[![Ashrita Furman - Most Guinness World Records titles held](/images/css/GWR_load.gif)
-        
-        Ashrita Furman - Most Guinness World Records titles held](https://www.guinnessworldrecords.com/records/hall-of-fame/ashrita-furman)
-        
-    * [SHOWCASE](https://www.guinnessworldrecords.com/records/showcase/)
-        
-        [![Animals](/images/css/GWR_load.gif)
-        
-        Animals](https://www.guinnessworldrecords.com/records/showcase/animals/)[![Gaming](/images/css/GWR_load.gif)
-        
-        Gaming](https://www.guinnessworldrecords.com/records/showcase/gaming)[![Human body](/images/css/GWR_load.gif)
-        
-        Human body](https://www.guinnessworldrecords.com/records/showcase/human-body)[![Food and drink](/images/css/GWR_load.gif)
-        
-        Food and drink](https://www.guinnessworldrecords.com/records/showcase/food-and-drink)
-        
-    * [GWR DAY](https://www.guinnessworldrecords.com/gwrday/)
-        
-    
-* [BOOKS](https://www.guinnessworldrecords.com/products/books/)[](#)
-    
-    * [MEET THE PEOPLE](https://www.guinnessworldrecords.com/products/books/meet-the-people/)
-        
-    * [HISTORY OF THE BOOK](https://www.guinnessworldrecords.com/products/books/history-of-the-book/)
-        
-    * [BOOK PRODUCTION](https://www.guinnessworldrecords.com/products/books/book-production/)
-        
-    
-* [BUSINESS SOLUTIONS](https://www.guinnessworldrecords.com/business-marketing-solutions/)[](#)
-    
-    * [GET IN TOUCH WITH A RECORD SPECIALIST (Opens in a new window)](https://business.guinnessworldrecords.com/contact-us?source=Website-EN-B2B-Form-Nav)
-        
-    * [CREATIVE CAMPAIGN SOLUTIONS](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/)
-        
-        [![Product launch and brand awareness](/images/css/GWR_load.gif)
-        
-        Product launch and brand awareness](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/product-launches/)[![Anniversaries & celebrations](/images/css/GWR_load.gif)
-        
-        Anniversaries & celebrations](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/anniversaries-and-celebrations)[![CSR and fundraising](/images/css/GWR_load.gif)
-        
-        CSR and fundraising](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/csr-corporate-charity-fundraising)[![Tourism & community engagement ](/images/css/GWR_load.gif)
-        
-        Tourism & community engagement](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/tourism-and-community-engagement)
-        
-    * [COMPANY & PRODUCT RECORDS](https://www.guinnessworldrecords.com/business-marketing-solutions/record-event-formats/company-product-records)
-        
-    * [EMPLOYEE ENGAGEMENT STRATEGIES](https://www.guinnessworldrecords.com/business-marketing-solutions/employee-engagement-strategies/)
-        
-    * [ENTERTAINMENT SERVICES](https://www.guinnessworldrecords.com/business-marketing-solutions/entertainment-programmes/)
-        
-    * [CONTENT & TV LICENSING](https://www.guinnessworldrecords.com/gwrstudios/)
-        
-        [![Original Programmes](/images/css/GWR_load.gif)
-        
-        Original Programmes](https://www.guinnessworldrecords.com/gwrstudios/original-programmes)[![Finished TV Programmes](/images/css/GWR_load.gif)
-        
-        Finished TV Programmes](https://www.guinnessworldrecords.com/gwrstudios/finished-tv-programmes)[![Clips and short-form content](/images/css/GWR_load.gif)
-        
-        Clips and short-form content](https://www.guinnessworldrecords.com/gwrstudios/clips-and-short-form-content)
-        
-    * [LATEST RECORD-BREAKING BUSINESS NEWS](https://www.guinnessworldrecords.com/news/commercial)
-        
-         ![loading](/images/css/GWR_load.gif)![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif)
-        
-    * [CASE STUDIES](https://www.guinnessworldrecords.com/business-marketing-solutions/brand-case-studies/)
-        
-    * [BUSINESS SOLUTIONS FAQs](https://www.guinnessworldrecords.com/business-marketing-solutions/faqs/)
-        
-    
-* [NEWS](https://www.guinnessworldrecords.com/news/)[](#)
-    
-    * [LATEST GWR NEWS](https://www.guinnessworldrecords.com/news/latest-news)
-        
-         ![loading](/images/css/GWR_load.gif)![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif)
-        
-    * [LATEST RECORD-BREAKING BUSINESS NEWS](https://www.guinnessworldrecords.com/news/commercial)
-        
-         ![loading](/images/css/GWR_load.gif)![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif)
-        
-    * [PRESS CENTRE](https://www.guinnessworldrecords.com/news/press/)
-        
-         ![loading](/images/css/GWR_load.gif)![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif) ![loading](/images/css/GWR_load.gif)
-        
-    * [MOST POPULAR VIDEOS](https://www.guinnessworldrecords.com/news/video/)
-        
-    * [SOCIAL MEDIA](https://www.guinnessworldrecords.com/news/social)
-        
-    
-* [ABOUT US](https://www.guinnessworldrecords.com/about-us/)[](#)
-    
-    * [OUR STORY](https://www.guinnessworldrecords.com/about-us/our-story/)
-        
-    * [LIFE AT GWR](https://www.guinnessworldrecords.com/about-us/life-at-gwr/)
-        
-    * [OUR PURPOSE, VISION, MISSION AND VALUES](https://www.guinnessworldrecords.com/about-us/our-purpose-vision-mission-and-values/)
-        
-    * [OUR COMMITMENTS](https://www.guinnessworldrecords.com/about-us/our-commitments/)
-        
-    
-* [![https://kids.guinnessworldrecords.com/](/images/css/gwr_kids_link.jpg)](https://kids.guinnessworldrecords.com/)
+Menu
 
-[](# "other")
+* [RECORDS](https://www.guinnessworldrecords.com/records/index.html)
+    
+* [SPOTLIGHT](https://www.guinnessworldrecords.com/spotlight/index.html)
+    
+* [BOOKS](https://www.guinnessworldrecords.com/products/books/index.html)
+    
+* [BUSINESS SOLUTIONS](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
+    
+* [NEWS](https://www.guinnessworldrecords.com/news/index.html)
+    
+* [ABOUT US](https://www.guinnessworldrecords.com/about-us/index.html)
+    
 
-[](https://www.guinnessworldrecords.com/search?term=%2A "Search")[](https://www.guinnessworldrecords.com/Account/Login?ReturnUrl=%2faccount "Login or Register")[en](# "Select Language")
+ [![https://kids.guinnessworldrecords.com](https://www.guinnessworldrecords.com/images/css/gwr_kids_link.jpg)](https://kids.guinnessworldrecords.com/)[en](# "Select Language")[](https://www.guinnessworldrecords.com/account/ "Account")[](https://www.guinnessworldrecords.com/search?term=%2A "Search")[](# "More")
 
 * [English](https://www.guinnessworldrecords.com/)
 * [Deutsch](https://www.guinnessworldrecords.de/)
@@ -190,24 +25,91 @@
 * [日本語](https://www.guinnessworldrecords.jp/)
 * [中文](https://www.guinnessworldrecords.cn/)
 
-* [My Account](https://www.guinnessworldrecords.com/account)
+* [My Account](https://www.guinnessworldrecords.com/account/dashboard)
 * [Sign Out](https://www.guinnessworldrecords.com/account/logout)
 
-Privacy policy
+[![Guinness World Records](https://www.guinnessworldrecords.com/images/logo.png)](https://www.guinnessworldrecords.com/)
+
+ 
+
+### RECORDS
+
+[How to set or break a GUINNESS WORLD RECORDS record title](https://www.guinnessworldrecords.com/records/apply-to-set-or-break-a-record/index.html)[What makes A GUINNESS WORLD RECORDS record title?](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/index.html)[How are records measured?](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/how-are-records-measured.html)[Guide to record formats](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/guide-to-record-formats.html)[Guide to impairment classifications](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/guide-to-impairment-classifications.html)[How to collect and submit evidence](https://www.guinnessworldrecords.com/records/how-to-collect-and-submit-evidence/index.html)[The application process](https://www.guinnessworldrecords.com/records/the-application-process/index.html)[Consultancy](https://www.guinnessworldrecords.com/records/the-application-process/consultancy.html)[Invite an adjudicator](https://www.guinnessworldrecords.com/records/the-application-process/invite-an-adjudicator.html)[Standard applications](https://www.guinnessworldrecords.com/records/the-application-process/standard-applications.html)[Record policies](https://www.guinnessworldrecords.com/records/record-policies/index.html)[Our partners & consultants](https://www.guinnessworldrecords.com/records/partners/index.html)[Understanding guidelines](https://www.guinnessworldrecords.com/records/understanding-guidelines/index.html)[FAQs](https://www.guinnessworldrecords.com/records/faqs/index.html)
+
+### SPOTLIGHT
+
+[Most popular videos](https://www.guinnessworldrecords.com/news/video/index.html)[Hall of Fame](https://www.guinnessworldrecords.com/records/hall-of-fame/index.html)[Showcase](https://www.guinnessworldrecords.com/records/showcase/index.html)[GWR Day](https://www.guinnessworldrecords.com/gwrday/index.html)
+
+### BOOKS
+
+[Meet the people](https://www.guinnessworldrecords.com/products/books/meet-the-people/index.html)[History of the book](https://www.guinnessworldrecords.com/products/books/history-of-the-book/index.html)[Book cover archive](https://www.guinnessworldrecords.com/products/books/history-of-the-book/book-cover-archive.html)[Book production](https://www.guinnessworldrecords.com/products/books/book-production/index.html)
+
+### BUSINESS SOLUTIONS
+
+[PR & Marketing campaigns](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/index.html)[Entertainment services](https://www.guinnessworldrecords.com/business-marketing-solutions/entertainment-programmes/index.html)[Employee engagement](https://www.guinnessworldrecords.com/business-marketing-solutions/employee-engagement-strategies/index.html)[Student engagement](https://www.guinnessworldrecords.com/business-marketing-solutions/student-engagement-strategies/index.html)[Content and TV licensing](https://www.guinnessworldrecords.com/gwrstudios/index.html) [Products & services](https://www.guinnessworldrecords.com/business-marketing-solutions/record-breaking-services/index.html) [Types of record breaking](https://www.guinnessworldrecords.com/business-marketing-solutions/record-event-formats/index.html) [Case studies](https://www.guinnessworldrecords.com/business-marketing-solutions/brand-case-studies/index.html)[Business solutions FAQs](https://www.guinnessworldrecords.com/business-marketing-solutions/faqs/index.html)
+
+### NEWS
+
+[Latest news](https://www.guinnessworldrecords.com/news/index.html) [Lastest record-breaking business news](https://www.guinnessworldrecords.com/news/commercial.html) [Press Centre](https://www.guinnessworldrecords.com/news/press/index.html) [Latest Videos](https://www.guinnessworldrecords.com/news/video/index.html) [Social media](https://www.guinnessworldrecords.com/news/social.html)
+
+### ABOUT US
+
+[Our story](https://www.guinnessworldrecords.com/about-us/our-story/index.html) [Our Purpose, Vision, Mission and Valuess](https://www.guinnessworldrecords.com/about-us/our-purpose-vision-mission-and-values/index.html)[Our Commitments](https://www.guinnessworldrecords.com/about-us/our-commitments/index.html)[Life at GWR](https://www.guinnessworldrecords.com/about-us/life-at-gwr/index.html)[](#)
+
+### USING THIS WEBSITE
+
+[Terms & Conditions](https://www.guinnessworldrecords.com/using-this-website/terms-and-conditions/index.html) [Cookie Policy](https://www.guinnessworldrecords.com/using-this-website/cookie-policy.html) [Privacy Policy](https://www.guinnessworldrecords.com/using-this-website/privacy-policy.html)[Sensitive Personal Data Policy](https://www.guinnessworldrecords.com/using-this-website/sensitive-personal-data-policy.html)[](#)
+
+### CONTACT US
+
+[I have an application](https://www.guinnessworldrecords.com/contact/contact-us-have-application.html)[I don't have an application](https://www.guinnessworldrecords.com/contact/contact-us-dont-have-application.html)[Contact an Account Manager for paid services](https://business.guinnessworldrecords.com/contact-us?source=Website-EN-B2B-Form-Nav)
+
+[](#)[](#)[](#)
+
+[### Latest News
+
+![Smallest man with certificate](/_site-config/images/latest-news-menu-image.jpg)](https://www.guinnessworldrecords.com/news/index.html)
+
+[### Apply Now
+
+![Man lifting weights on unicycle](/_site-config/images/apply-now-menu-image.jpg)](https://www.guinnessworldrecords.com/records/apply-to-set-or-break-a-record/index.html)
+
+[### Business Solutions
+
+![Bride in brides dress](/_site-config/images/buisness-solutions-menu-image.jpg)](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
+
+[### GWR Kids
+
+![Kid playing with plastic bricks](/_site-config/images/gwr-kids-menu-image.jpg)](https://kids.guinnessworldrecords.com/)
+
+* [**Facebook**](http://www.facebook.com/GuinnessWorldRecords)
+* [**Twitter**](https://twitter.com/GWR)
+* [**LinkedIn**](https://www.linkedin.com/company/guinness-world-records)
+* [**Pinterest**](https://www.pinterest.com/GWRecords/)
+* [**YouTube**](http://www.youtube.com/user/GuinnessWorldRecords)
+* [**Instagram**](https://instagram.com/guinnessworldrecords/)
+* [**Snapchat**](https://www.snapchat.com/discover/Guinness_World_Records/5695777452)
+* [**Tiktok**](https://www.tiktok.com/@guinnessworldrecords)
+* **Weibo**
+* **Tencent**
+* **WeChat**
+
+[Home](https://www.guinnessworldrecords.com/index.html)[Using this website](https://www.guinnessworldrecords.com/using-this-website/index.html) Privacy policy
+
+Privacy Policy
 ==============
 
-* [Introduction](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/)
-* [Who are we?](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/who-are-we)
-* [What information will GWR collect about me?](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/what-information-will-gwr-collect-about-me)
-* [How will GWR use the information it collects about me?](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/how-will-gwr-use-the-information-it-collects-about-me)
-* [When will GWR contact me?](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/when-will-gwr-contact-me)
-* [Will GWR share my data with anyone else?](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/will-gwr-share-my-data-with-anyone-else)
-* [Your legal rights to your personal data](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/your-legal-rights-to-your-personal-data)
-* [Contacting GWR about this privacy policy](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/contacting-gwr-about-this-privacy-policy)
-* [Agreement to this privacy policy and privacy policy modifications](https://www.guinnessworldrecords.com/using-this-website/privacy-policy/agreement-to-this-privacy-policy-and-privacy-policy-modifications)
+* [Introduction](#tab-)
+* [Who are we?](#tab-)
+* [What information will GWR collect about me?](#tab-)
+* [How will GWR use the information it collects about me?](#tab-)
+* [When will GWR contact me?](#tab-)
+* [Will GWR share my data with anyone else?](#tab-)
+* [Your legal rights to your personal data](#tab-)
+* [Contacting GWR about this privacy policy](#tab-)
+* [Agreement to this privacy policy and privacy policy modifications](#tab-)
 
-Introduction
-------------
+### Introduction
 
 THESE TERMS & CONDITIONS WERE LAST UPDATED ON 1st SEPTEMBER 2017
 
@@ -232,76 +134,181 @@ This Privacy Policy explains the following with respect to your personal data:
 
 Should you sign up for a user account on this Site, apply to attempt an official GWR record attempt or enter a competition or quiz organised by GWR, in addition to this Privacy Policy, additional policies may also apply. These will be explained to you prior to your registration for, or entry to, those events.
 
-![Officially Amazing - Guinness World Records footer](/images/footer-strapline.png)
+### Who are we?
 
-* [**Facebook**](http://www.facebook.com/GuinnessWorldRecords "Facebook")
-* [**Twitter**](https://twitter.com/GWR "Twitter")
-* [**YouTube**](http://www.youtube.com/user/GuinnessWorldRecords "YouTube")
-* [**Instagram**](https://instagram.com/guinnessworldrecords/ "Instagram")
-* [**LinkedIn**](https://www.linkedin.com/company/guinness-world-records "LinkedIn")
-* [**Snapchat**](https://www.snapchat.com/discover/Guinness_World_Records/5695777452 "Snapchat")
-* [**Pinterest**](https://www.pinterest.com/GWRecords/ "Pinterest")
-* [**Tiktok**](https://www.tiktok.com/@guinnessworldrecords "Tiktok")
+Founded in 1954, GWR’s mission is to be the ultimate global authority on record breaking achievement. That means we research, measure, document and authorise the world’s superlatives, from which we create world class products that entertain, inform and inspire people through our unique window on the world. 
+
+GWR’s purpose is to inspire people - individuals, families, schools, teams, groups, companies and communities – of any age, in any city or country. We don’t define or recognise success in a conventional or limited way and so draw upon the entire range of superlatives to help people realise their potential and to re-examine the world.
+
+### What information will GWR collect about me?
+
+Central to its mission to be the ultimate global authority on record breaking achievement, GWR maintains a large database of record related information, including which individuals or groups hold those records and their personal details such as name, address, telephone number, age, gender and occupation (the “GWR Database”). 
+
+When you participate in, access, sign up to, or buy products from, any of the GWR Products & Services we may receive personal data from you such as those detailed above. 
+
+In providing the GWR Products and Services to you, GWR makes use of cookies. Cookies are small pieces of information that are stored by your browser on your device’s hard drive. For more information on cookies, please see our [Cookie Policy](https://www.guinnessworldrecords.com/using-this-website/cookie-policy.html "Cookie Policy") 
+
+We will not require anyone to disclose more personal data than we deem reasonably necessary to participate in the activity, fulfil your request or achieve our legitimate business objectives. However, if personal data is requested for participation in an activity, you cannot participate without disclosing such personal data. 
+
+GWR will not ask you to disclose sensitive personal data (such as religious or political beliefs or your medical history). However, in the event that you have voluntarily sent us such information (for example, to support a record attempt application), we will contact you in order to clarify the terms of its use. 
+
+CHILDREN UNDER 13 YEARS OF AGE 
+
+We encourage parents/ guardians to become involved in their children's online experience. Please discuss this Privacy Policy with your child so they better understand how to use the GWR Products & Services and the kinds of information we may ask of them. 
+
+Certain of the GWR Products & Services may request personal data from the user. Where the user is under 13, the child will be prompted to provide contact details for their parent or legal guardian and will also be prompted to ask their parent or guardian to consent to the provision of personal data by the child. Where you do not wish your child to provide personal data, please do not provide your consent. 
+
+With under-13s, our collection of personal data is limited to the following areas:
+
+* **Submitting a record attempt application:** A child can submit a claim for a record attempt to us by creating a personal account. As part of this process, an email address for verifying the account and the name and date of birth of the user will need to be provided. However, the child will be asked to have a parent or guardian to get in touch with us by email. Where consent is subsequently received, personal data collected as part of this process will be used in accordance with the terms of a separate agreement that we require all applicants to enter into;
+* **Email updates:** A child can sign up to receive updates from us. For this they will need to create a personal account as detailed in the above section. Where they are under 13, the user will then be asked to have a parent or guardian to get in touch with us by email. A parent will then be asked to provide their consent to their child signing up. At any time, the parent or child can unsubscribe. In relation to your email address, we only store this for the purposes of contacting you about your child’s wish to sign up for email updates;
+* **Competitions:** We provide competitions through the GWR Products & Services from time to time. The terms of each competition will govern whether or not under-13s may enter. Where an under-13 may enter the competition, we will ask for an email address. We will also require an email address of the child's parent or legal guardian to be provided as well. A child's email address will only be collected by us to administer the competition and will be immediately deleted after the winning name has been chosen or the winning person has collected his/ her prize; and
+* **Quizzes:** From time to time through the GWR Products & Services we may feature quizzes for a child to compete in, and we may publish the child's scores on our global quiz scoreboard together with the child’s name and their country of domicile.
+
+THIRD PARTY ADVERTISEMENTS 
+
+We may include on the GWR Products & Services advertisements from third parties, or for websites operated by third parties, that are not sponsors of and are not affiliated with this Site. As such, we are not responsible for the content, polices or practices of the websites operated by these third parties. In addition, these advertisements and/ or links do not constitute sponsorship, endorsement or approval by us of the content, policies or practices of these websites. 
+
+These third parties may use information (not including your name, address, email address or telephone number) about your visits to this Site and other GWR Products & Services in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see details in our [Cookie Policy](https://www.guinnessworldrecords.com/using-this-website/cookie-policy.html "Cookie policy"). 
+
+We use the services of Ezoic Limited (“Ezoic”) to deliver interest-based ads, content and services to you on our site. To enable this service to work, we allow Ezoic to collect certain anonymous information from our website users (e.g., online identifiers and browsing activity) so that Ezoic can serve ads that are more likely to interest you. For more information about what information Ezoic collects and how they store and use it, please see [Ezoic’s privacy policy here.](https://www.guinnessworldrecords.com/)
+
+In relation to children’s use of the GWR Products & Services, we do not permit interest-based advertising on elements of a product or service specifically directed to children under 13 or where we have actual knowledge that a child is under 13.
+
+### How will GWR use the information it collects about me?
+
+GWR will use your personal data for the following purposes:
+
+* to ensure that the GWR Database is accurate and kept up to date;
+* to personalise and enhance the GWR Products & Services and your user-experience of them;
+* for internal marketing and demographic studies;
+* to comply with applicable laws or requests by law enforcement agencies; and
+* to protect the rights, property or safety of the GWR Products & Services and those that use them.
+
+In the event that GWR proposes to use your personal data for any use not referenced above, we will ensure we have your consent in order to do.
+
+The GWR Database acts as a unique repository of the world’s superlative facts and feats. Due to the archiving nature of GWR’s activities, we may store your personal data for a significant period of time. This ensures that, for example, in the event of a broken record, we are able to draw on the knowledge kept in the GWR Database to inform our audiences of the most current record-holder.
+
+### When will GWR contact me?
+
+GWR may contact you:
+
+* as part of your record attempt application, including any evidence you have submitted to us;
+* for “service administration purposes” – for example, to provide you with notifications on service updates, changes to this Privacy Policy, our Terms & Conditions, or a matter relating to an account you have created or material you have uploaded to the Site;
+* for marketing purposes, where you have provided us with your consent;
+* for non-marketing purposes, such as to gather feedback or as part of our customer service to you;
+* in relation to any service or activity that you may have signed up to, including any competitions and/ or quizzes which you may have entered;
+* in relation to any correspondence we receive from you, including comments about the GWR Products & Services; and
+* to invite you to participate in surveys about GWR.
+
+If you have previously consented to receive marketing emails from GWR and no longer wish to receive such emails, you can do so by clicking on the designated unsubscribe link at the foot of the email.
+
+### Will GWR share my data with anyone else?
+
+As GWR has several international offices, GWR representatives may be required to share your personal data between these offices. For example your record attempt application may be processed by a New York-based GWR representative with a specific expertise in a subject which is not covered by our London office. We may also share personal data collected from one of the GWR Products & Services with any other of the GWR Products & Services.
+
+More generally, we will keep your personal data within GWR except where disclosure is required or permitted by law, or where you have given your consent for it to be shared with a third party. 
+
+GWR licenses its brand to trusted partners and licensees around the world, for example book publishers, television broadcasters and games developers. From time-to-time, and with your consent, we may share your personal data with these companies to enable them to further promote your achievement and/ or make contact with you directly. We oblige that all our partners and licensees contractually adhere to appropriate levels of security of your personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures. 
+
+We will ask for your consent to transfer your personal data to a third party when you submit a record attempt application to us. Please note that failure to provide us with your consent means that we will not be able to process your application. 
+
+GWR does not sell or otherwise disclose personal data to third parties, except as indicated in this section. In the event of a merger, acquisition, reorganisation or other similar event, your personal data may be transferred or shared with our successors or assigns.
+
+### Your legal rights to your personal data
+
+Any of the consents you may provide to us for you or your child can be withdrawn by you at any time. To do so, please contact us at [dpo@guinnessworldrecords.com.](mailto:dpo@guinnessworldrecords.com) In the event that you do withdraw your consent(s), this shall not affect the lawfulness of the processing GWR has undertaken before your consent was withdrawn.
+
+In addition to your right to withdraw your consent at any time, you also have the right to make the following requests to GWR in regards to the personal data you have provided us:
+
+* to be provided with a copy, including in a structured, commonly used and machine-readable format;
+* rectification or erasure (aka the “right to be forgotten”); and
+* to restrict and/ or to object to GWR’s processing.
+
+### Contacting GWR about this privacy policy
+
+You are welcome to contact us at [dpo@guinnessworldrecords.com](mailto:dpo@guinnessworldrecords.com) should you have any questions or comments about the way we handle your personal data. Should you not be satisfied with our response, EU citizens have a right to lodge a complaint with a supervisory authority, being the relevant independent public body established in your member state.  
+If we have knowledge that a child under 13 has provided us with personal data we will delete such information from our records. If you become aware for any reason that your child has provided personal data to us which is inconsistent with this Privacy Policy please contact us and we will delete any personal data we may hold. You may also contact us at any time to enquire as to whether we hold any personal data in relation to your child.
+
+### Agreement to this privacy policy and privacy policy modifications
+
+By using the GWR Products & Services, you are agreeing to this Privacy Policy. If you do not agree with this Privacy Policy, or any of its terms, please do not use the GWR Products & Services. 
+
+From time to time, and at any time, this Privacy Policy may be revised or changed. We will notify you of a material change by placing a notice on this Site or by sending a notice to the primary email address you have provided to us. All users of the GWR Products & Services should review this Privacy Policy periodically to be up to date on our most current privacy policies and practices.
+
+![Officially Amazing - Guinness World Records footer](https://www.guinnessworldrecords.com/images/footer-strapline.png)
+
+* [**Facebook**](http://www.facebook.com/GuinnessWorldRecords)
+* [**Twitter**](https://twitter.com/GWR)
+* [**LinkedIn**](https://www.linkedin.com/company/guinness-world-records)
+* [**Pinterest**](https://www.pinterest.com/GWRecords/)
+* [**YouTube**](http://www.youtube.com/user/GuinnessWorldRecords)
+* [**Instagram**](https://instagram.com/guinnessworldrecords/)
+* [**Snapchat**](https://www.snapchat.com/discover/Guinness_World_Records/5695777452)
+* [**Tiktok**](https://www.tiktok.com/@guinnessworldrecords)
+* **Weibo**
+* **Tencent**
+* **WeChat**
 
 ##### RECORDS
 
-* [Apply to set or break a record](https://www.guinnessworldrecords.com/records/apply-to-set-or-break-a-record)
-* [Invite an adjudicator](https://www.guinnessworldrecords.com/records/the-application-process/invite-an-adjudicator)
-* [Record consultancy](https://www.guinnessworldrecords.com/records/the-application-process/consultancy)
-* [The application process](https://www.guinnessworldrecords.com/records/the-application-process)
-* [How long does it take?](https://www.guinnessworldrecords.com/records/the-application-process/how-long-does-it-take)
-* [How to set or break a Guinness World Records title](https://www.guinnessworldrecords.com/records/how-to-set-or-break-a-world-record)
-* [Understanding guidelines](https://www.guinnessworldrecords.com/records/understanding-guidelines)
-* [Guide to your evidence](https://www.guinnessworldrecords.com/records/how-to-collect-and-submit-evidence)
-* [What makes a Guinness World Records title?](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title)
-* [Our partners & consultants](https://www.guinnessworldrecords.com/records/partners)
-* [Record policies](https://www.guinnessworldrecords.com/records/record-policies)
-* [FAQs](https://www.guinnessworldrecords.com/records/faqs)
+* [Apply to set or break a record](https://www.guinnessworldrecords.com/records/apply-to-set-or-break-a-record/index.html)
+* [Invite an adjudicator](https://www.guinnessworldrecords.com/records/the-application-process/invite-an-adjudicator.html)
+* [Record consultancy](https://www.guinnessworldrecords.com/records/the-application-process/consultancy.html)
+* [The application process](https://www.guinnessworldrecords.com/records/the-application-process/index.html)
+* [How long does it take?](https://www.guinnessworldrecords.com/records/the-application-process/how-long-does-it-take.html)
+* [How to set or break a Guinness World Records title](https://www.guinnessworldrecords.com/records/how-to-set-or-break-a-world-record/index.html)
+* [Understanding guidelines](https://www.guinnessworldrecords.com/records/understanding-guidelines/index.html)
+* [Guide to your evidence](https://www.guinnessworldrecords.com/records/how-to-collect-and-submit-evidence/index.html)
+* [What makes a Guinness World Records title?](https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/index.html)
+* [Our partners & consultants](https://www.guinnessworldrecords.com/records/partners/index.html)
+* [Record policies](https://www.guinnessworldrecords.com/records/record-policies/index.html)
+* [FAQs](https://www.guinnessworldrecords.com/records/faqs/index.html)
 
 ##### PRODUCTS
 
-* [Books](https://www.guinnessworldrecords.com/products/books)
+* [Books](https://www.guinnessworldrecords.com/products/books/index.html)
 * [Guinness World Records Kids (opens in a new window)](https://kids.guinnessworldrecords.com/)
-* [Guinness World Records TV shows](https://www.guinnessworldrecords.com/products/guinness-world-records-tv-shows)
-* [Guinness World Records attractions](https://www.guinnessworldrecords.com/products/attractions)
+* [Guinness World Records TV shows](https://www.guinnessworldrecords.com/products/guinness-world-records-tv-shows/index.html)
+* [Guinness World Records attractions](https://www.guinnessworldrecords.com/products/attractions/index.html)
 * [GWR Event Store (opens in a new window)](https://store.guinnessworldrecords.com/)
-* [GWR Merchandise Store (opens in a new window)](https://www.gwrstore.com/)
+* [GWR Merchandise Store (opens in a new window)](https://gwrstore.com/)
 * [Educators (opens in a new window)](http://kids.guinnessworldrecords.com/educators)
 
 ##### BUSINESS SOLUTIONS
 
-* [Business & brand marketing solutions](https://www.guinnessworldrecords.com/business-marketing-solutions)
-* [Creative campaign solutions](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns)
-* [Product launch strategies](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/product-launches)
-* [Corporate Social Responsibility activities & fundraising ideas](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/csr-corporate-charity-fundraising)
-* [Business anniversaries & celebrations](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/anniversaries-and-celebrations)
-* [Community engagement & tourism marketing activities](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/tourism-and-community-engagement)
-* [Employee engagement strategies](https://www.guinnessworldrecords.com/business-marketing-solutions/employee-engagement-strategies)
-* [Entertainment Services](https://www.guinnessworldrecords.com/business-marketing-solutions/entertainment-programmes)
-* [Student engagement strategies](https://www.guinnessworldrecords.com/business-marketing-solutions/student-engagement-strategies)
-* [Case studies](https://www.guinnessworldrecords.com/business-marketing-solutions/brand-case-studies)
-* [TV & Content Licensing](https://www.guinnessworldrecords.com/gwrstudios)
+* [Business & brand marketing solutions](https://www.guinnessworldrecords.com/business-marketing-solutions/index.html)
+* [Creative campaign solutions](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/index.html)
+* [Product launch strategies](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/product-launches/index.html)
+* [Corporate Social Responsibility activities & fundraising ideas](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/csr-corporate-charity-fundraising.html)
+* [Business anniversaries & celebrations](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/anniversaries-and-celebrations.html)
+* [Community engagement & tourism marketing activities](https://www.guinnessworldrecords.com/business-marketing-solutions/creative-campaigns/tourism-and-community-engagement.html)
+* [Employee engagement strategies](https://www.guinnessworldrecords.com/business-marketing-solutions/employee-engagement-strategies/index.html)
+* [Entertainment Services](https://www.guinnessworldrecords.com/business-marketing-solutions/entertainment-programmes/index.html)
+* [Student engagement strategies](https://www.guinnessworldrecords.com/business-marketing-solutions/student-engagement-strategies/index.html)
+* [Case studies](https://www.guinnessworldrecords.com/business-marketing-solutions/brand-case-studies/index.html)
+* [TV & Content Licensing](https://www.guinnessworldrecords.com/gwrstudios/index.html)
 
 ##### NEWS
 
-* [Latest news](https://www.guinnessworldrecords.com/news/latest-news)
-* [Commercial news](https://www.guinnessworldrecords.com/news/commercial)
-* [Press centre](https://www.guinnessworldrecords.com/news/press)
-* [GWR social media channels](https://www.guinnessworldrecords.com/news/social)
+* [Latest news](https://www.guinnessworldrecords.com/news/index.html)
+* [Commercial news](https://www.guinnessworldrecords.com/news/commercial.html)
+* [Press centre](https://www.guinnessworldrecords.com/news/press/index.html)
+* [GWR social media channels](https://www.guinnessworldrecords.com/news/social.html)
 
 ##### ABOUT US
 
-* [Our Story](https://www.guinnessworldrecords.com/about-us/our-story)
-* [Life at GWR](https://www.guinnessworldrecords.com/about-us/life-at-gwr)
-* [Careers](https://www.guinnessworldrecords.com/about-us/life-at-gwr/careers)
-* [Our purpose, vision, mission and values](https://www.guinnessworldrecords.com/about-us/our-purpose-vision-mission-and-values)
-* [Sustainability & the environment](https://www.guinnessworldrecords.com/about-us/our-commitments/sustainability-and-the-environment)
-* [Diversity & inclusion](https://www.guinnessworldrecords.com/about-us/our-commitments/diversity-and-inclusion)
-* [GWR Tax strategy](https://www.guinnessworldrecords.com/about-us/our-story/GWR-tax-strategy)
-* [Privacy policy](https://www.guinnessworldrecords.com/using-this-website/privacy-policy)
-* [Terms & conditions](https://www.guinnessworldrecords.com/using-this-website/terms-and-conditions)
-* [Cookie policy](https://www.guinnessworldrecords.com/using-this-website/cookie-policy)
-* [Contact us](https://www.guinnessworldrecords.com/contact)
+* [Our Story](https://www.guinnessworldrecords.com/about-us/our-story/index.html)
+* [Life at GWR](https://www.guinnessworldrecords.com/about-us/life-at-gwr/index.html)
+* [Careers](https://www.guinnessworldrecords.com/about-us/life-at-gwr/careers.html)
+* [Our purpose, vision, mission and values](https://www.guinnessworldrecords.com/about-us/our-purpose-vision-mission-and-values/index.html)
+* [Sustainability & the environment](https://www.guinnessworldrecords.com/about-us/our-commitments/sustainability-and-the-environment.html)
+* [Diversity & inclusion](https://www.guinnessworldrecords.com/about-us/our-commitments/diversity-and-inclusion.html)
+* [GWR Tax strategy](https://www.guinnessworldrecords.com/about-us/our-story/gwr-tax-strategy.html)
+* [Privacy policy](https://www.guinnessworldrecords.com/using-this-website/privacy-policy.html)
+* [Terms & conditions](https://www.guinnessworldrecords.com/using-this-website/terms-and-conditions/index.html)
+* [Cookie policy](https://www.guinnessworldrecords.com/using-this-website/cookie-policy.html)
+* [Contact us](https://www.guinnessworldrecords.com/contact/index.html)
 
 * [English](https://www.guinnessworldrecords.com/)
 * [Deutsch](https://www.guinnessworldrecords.de/)
@@ -311,12 +318,8 @@ Should you sign up for a user account on this Site, apply to attempt an official
 * [日本語](https://www.guinnessworldrecords.jp/)
 * [中文](https://www.guinnessworldrecords.cn/)
 
-© Guinness World Records Limited 2024. All rights reserved.
+© Guinness World Records Limited \[date-year\]. All rights reserved.
 
 Registered in England No: 541295
 
 Registered Office: Ground Floor, The Rookery, 2 Dyott Street, London, WC1A 1DE, United Kingdom
-
-![](https://www.facebook.com/tr?id=1777940462448181&ev=PageView &noscript=1)
-
-![](https://dc.ads.linkedin.com/collect/?pid=67064&fmt=gif)
