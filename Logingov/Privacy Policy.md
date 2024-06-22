@@ -23,7 +23,6 @@ Language
 * [English](https://login.gov/policy/)
 * [Español](https://login.gov/es/policy/)
 * [Français](https://login.gov/fr/policy/)
-* [中文 (简体)](https://login.gov/zh/policy/)
 
 [Sign in with Login.gov](https://secure.login.gov/)
 
@@ -47,7 +46,6 @@ Menu
 * [English](https://login.gov/policy/)
 * [Español](https://login.gov/es/policy/)
 * [Français](https://login.gov/fr/policy/)
-* [中文 (简体)](https://login.gov/zh/policy/)
 
 Privacy & security
 ==================
