@@ -715,39 +715,37 @@ Powered By
 
 ### Other top stories on FutureLearn
 
-* [![job interview](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-59-150x150.png)](https://www.futurelearn.com/info/blog/cv-length)
+* [![Engineer at work.](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-51-150x150.png)](https://www.futurelearn.com/info/blog/engineering-degree-guide)
     
-    [How long should a CV be?](https://www.futurelearn.com/info/blog/cv-length) 
-    ----------------------------------------------------------------------------
+    [A complete guide to engineering degrees](https://www.futurelearn.com/info/blog/engineering-degree-guide)
+    ---------------------------------------------------------------------------------------------------------
     
-    Are you looking to craft the perfect CV? Understand the factors that influence CV length …
+    Find out everything you need to know about getting an engineering degree and what you …
     
-    Category: [CV Help](https://www.futurelearn.com/info/blog/cv-help)
+* [![Cyber security analyst working](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-50-150x150.png)](https://www.futurelearn.com/info/blog/cyber-security-degree-guide)
     
-* [![engineer at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-58-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-engineer-jobs)
+    [A complete guide to cyber security degrees](https://www.futurelearn.com/info/blog/cyber-security-degree-guide)
+    ---------------------------------------------------------------------------------------------------------------
     
-    [Exploring the highest paying engineering jobs](https://www.futurelearn.com/info/blog/highest-paying-engineer-jobs)
-    -------------------------------------------------------------------------------------------------------------------
+    Interested in shaping our digital future? Discover more about cybersecurity degrees in this guide – …
     
-    Engineering is pivotal in shaping modern innovations and significantly impacts our world. This article examines …
+    Category: [Digital Skills](https://www.futurelearn.com/info/blog/digitalskills)
     
-* [![MBA student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-57-150x150.png)](https://www.futurelearn.com/info/blog/what-can-you-do-with-an-mba)
+* [![Psychologist at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-53-150x150.png)](https://www.futurelearn.com/info/blog/psychology-degree-guide)
     
-    [What can you do with an MBA degree?](https://www.futurelearn.com/info/blog/what-can-you-do-with-an-mba)
-    --------------------------------------------------------------------------------------------------------
+    [A complete guide to psychology degrees](https://www.futurelearn.com/info/blog/psychology-degree-guide)
+    -------------------------------------------------------------------------------------------------------
     
-    Discover how an online MBA degree could help you unlock senior roles with high salaries …
+    Here, we unravel what a psychology degree entails, how to get a place on one, …
     
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    Category: [Psychology & Mental Health](https://www.futurelearn.com/info/psychology-mental-health)
     
-* [![man writing code at computer](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-55-150x150.png)](https://www.futurelearn.com/info/blog/computer-science-degree-guide)
+* [![Student in library](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-52-150x150.png)](https://www.futurelearn.com/info/blog/humanities-degree-guide)
     
-    [A complete guide to computer science degrees](https://www.futurelearn.com/info/blog/computer-science-degree-guide)
-    -------------------------------------------------------------------------------------------------------------------
+    [A complete guide to humanities degrees](https://www.futurelearn.com/info/blog/humanities-degree-guide)
+    -------------------------------------------------------------------------------------------------------
     
-    Interested in shaping our digital future? Discover more about computer science degrees – and if …
-    
-    Category: [IT & Computer Science](https://www.futurelearn.com/info/it-computer-science)
+    Wondering whether a humanities degree is right for you? Explore your subject options, how to …
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
