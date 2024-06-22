@@ -215,7 +215,7 @@ Resources
 
 * [Blog](https://justworks.com/blog)
 * [Downloads](https://justworks.com/resources)
-* [Integrations](https://justworks.com/integrations)
+* [Partner With Us](https://justworks.com/partners)
 * [Refer and Earn](https://justworks.com/referrals)
 * [MWBE Directory](https://justworks.com/mwbe-directory)
 * [Employment Law Updates](https://justworks.com/the-scoop)
