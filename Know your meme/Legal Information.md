@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!['Peepy' Is A Bizarre, Surreal Rabbit Hole That Leads To A Creepy, Maybe Criminal Plush](https://i.kym-cdn.com/featured_items/icons/wide/000/024/778/Itemlabel_Peepy.jpg "'Peepy' Is A Bizarre, Surreal Rabbit Hole That Leads To A Creepy, Maybe Criminal Plush")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/806/Screenshot_2024-06-21_at_10.31.28_E2_80_AFAM.png "What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained")
     
-    'Peepy' Is A Bizarre, Surreal Rabbit Hole That Leads To A Creepy, Maybe Criminal Plush](https://knowyourmeme.com/memes/subcultures/peepy)
+    What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained](https://knowyourmeme.com/editorials/guides/what-does-mythical-reel-pull-mean-the-mythic-fyp-pull-trend-on-instagram-and-tiktok-explained)
     
-* [![Nara Smith Making Things From Scratch, also known as Me Making X From Scratch, refers to an exploitable image macro meme featuring Nara Smith a trad-adjacent TikToker known for making meals from scratch. The meme shows Nara Smith wearing a red dress as she sprinkles something in a steel pot. Variations of the meme include "Making Zyns from scratch" and making "menthol cigarettes from scratch," with users recaptioning or editing the text to change what's being made.](https://i.kym-cdn.com/featured_items/icons/wide/000/024/777/making_from_scratch.jpg "Nara Smith Takes DIY Cooking To The Extreme In This Oddly Nicotine-Focused Meme Trend")
+* [![justin timberlake mugshot](https://i.kym-cdn.com/featured_items/icons/wide/000/024/805/RUINTHETOURCOVER.jpg "Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase")
     
-    Nara Smith Takes DIY Cooking To The Extreme In This Oddly Nicotine-Focused Meme Trend](https://knowyourmeme.com/memes/nara-smith-making-things-from-scratch)
+    Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase](https://knowyourmeme.com/memes/this-is-going-to-ruin-the-tour)
     
-* [![Blue Sweatpants Girl tiktok](https://i.kym-cdn.com/featured_items/icons/wide/000/024/776/blue_sweatpants_girl.jpg "TikToker Dubbed The 'Blue Sweatpants Girl' Is A Better Dancer Than The Original")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/804/Screen_Shot_2019-03-22_at_2.47.05_PM.jpg "OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics")
     
-    TikToker Dubbed The 'Blue Sweatpants Girl' Is A Better Dancer Than The Original](https://knowyourmeme.com/memes/blue-sweatpants-girl)
+    OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics](https://knowyourmeme.com/news/openais-mira-murati-says-ai-may-kill-some-jobs-that-shouldnt-have-been-jobs-in-the-first-place-and-draws-ire-from-ais-critics)
     
-* [![Duolingo Embraced Its 'Evil' Meme And Released 'Spanish Or Vanish' Commercial Last April Fools Day](https://i.kym-cdn.com/featured_items/icons/wide/000/024/775/maxresdefault.jpg "Duolingo Embraced Its 'Evil' Meme And Released 'Spanish Or Vanish' Commercial Last April Fools Day")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/803/cover5.jpg "Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies")
     
-    Duolingo Embraced Its 'Evil' Meme And Released 'Spanish Or Vanish' Commercial Last April Fools Day](https://knowyourmeme.com/memes/spanish-or-vanish)
+    Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies](https://knowyourmeme.com/editorials/guides/did-the-author-of-i-might-go-homeless-comic-really-become-homeless-the-story-of-the-viral-meme-and-its-parodies--2)
     
-* [![it couldn't be going worse keith](https://i.kym-cdn.com/featured_items/icons/wide/000/024/774/2b1.jpg "'It Couldn't Be Going Worse Keith' On Its Way To Becoming One Of The Most Iconic Comment Strings Of All Time")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/802/1.jpg "Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained")
     
-    'It Couldn't Be Going Worse Keith' On Its Way To Becoming One Of The Most Iconic Comment Strings Of All Time](https://knowyourmeme.com/memes/it-couldnt-be-going-worse-keith)
+    Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained](https://knowyourmeme.com/editorials/guides/why-is-the-disney-show-the-acolyte-so-reviled-the-lowest-rated-star-wars-show-ever-and-its-controversies-explained)
     
 
 ##### Also Trending:
 
-[June 2024 Heat Waves](https://knowyourmeme.com/memes/events/june-2024-heat-waves "June 2024 Heat Waves") [I Might Go Homeless?](https://knowyourmeme.com/memes/i-might-go-homeless "I Might Go Homeless?") [That Casually Misogynistic Remark](https://knowyourmeme.com/memes/that-casually-misogynistic-remark-i-forgot-you-were-a-man "That Casually Misogynistic Remark")
+[Derp](https://knowyourmeme.com/memes/derp)
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
