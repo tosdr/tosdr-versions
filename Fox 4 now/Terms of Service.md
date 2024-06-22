@@ -38,8 +38,8 @@ Search site  Go
     * [Investigates](https://www.fox4now.com/news/local-news/investigates)
     * [As Seen on 4](https://www.fox4now.com/as-seen-on-4)
     * [Viewer Submission](https://www.fox4now.com/as-seen-on-4/viewer-submission-form)
-    * [National](https://www.fox4now.com/news/national)
-    * [World](https://www.fox4now.com/news/world)
+    * [National News](https://www.fox4now.com/news/national-news)
+    * [World News](https://www.fox4now.com/world-news)
     * [Lifestyle](https://www.fox4now.com/lifestyle)
     * [Sports](https://www.fox4now.com/sports)
     * [Entertainment](https://www.fox4now.com/entertainment)
@@ -101,7 +101,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[NEW VIDEO: LEOs sick from possible LaBelle haz-mat, Homeland Security responds](https://www.fox4now.com/labelle/urgent-people-sick-from-possible-haz-mat-in-labelle-homeland-security-responds)
+[BREAKING: LaBelle property where deputies got sick given the "all clear"](https://www.fox4now.com/labelle/urgent-people-sick-from-possible-haz-mat-in-labelle-homeland-security-responds)
 
 Terms of Use
 ============
