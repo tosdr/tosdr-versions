@@ -21,9 +21,9 @@
 * [Login](https://www.justpark.com/auth/login)
 * [Sign Up](https://www.justpark.com/registration)
 
-Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)
+Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)
 
-Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of Mind
+Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport Lounges
 
 Privacy Policy
 ==============
@@ -152,7 +152,7 @@ Services
 Points of interest
 
 * [Airport parking](https://www.justpark.com/uk/airport-parking/)
-* [City parking](https://www.justpark.com/uk/)
+* [City parking](https://www.justpark.com/destinations/city-breaks)
 * [Stadium parking](https://www.justpark.com/uk/stadium-parking/)
 * [Station parking](https://www.justpark.com/uk/national-rail-parking/)
 
