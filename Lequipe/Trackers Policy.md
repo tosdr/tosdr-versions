@@ -140,77 +140,23 @@ L'ÉQUIPE
 
 filtrer : tous les sports
 
-[18:16
-
-Foot
-
-Nos favoris pour la Copa America](https://www.lequipe.fr/Football/Actualites/Nos-favoris-pour-la-copa-america-2024-argentine-et-bresil-loin-devant/1476236 "Nos favoris pour la Copa America")
-
-[18:10
-
-Médias
-
-Olivier Ménard : «Mon agresseur voulait me tuer»](https://www.lequipe.fr/Medias/Actualites/Olivier-menard-mon-agresseur-voulait-me-tuer/1476235 "Olivier Ménard : «Mon agresseur voulait me tuer»")
-
-[18:09
-
-Foot,
-
-L1,
-
-Nice
-
-Le discours de Ratcliffe qui heurte l'orgueil du Gym](https://www.lequipe.fr/Football/Article/Nice-une-passerelle-vers-manchester-united-le-discours-de-jim-ratcliffe-qui-heurte-l-orgueil-du-gym/1476201 "Le discours de Ratcliffe qui heurte l'orgueil du Gym")
-
-[18:06
+[09:45
 
 Tennis,
 
-ATP,
+ATP
 
-Queen's
+Djokovic déjà de retour à l'entraînement](https://www.lequipe.fr/Tennis/Actualites/Novak-djokovic-de-retour-a-l-entrainement-a-un-peu-plus-d-une-semaine-de-wimbledon/1476636 "Djokovic déjà de retour à l'entraînement")
 
-Mpetschi Perriccard tombe face à Harris](https://www.lequipe.fr/Tennis/Actualites/Mpetschi-perriccard-tombe-face-a-harris-au-deuxieme-tour-du-queen-s/1476232 "Mpetschi Perriccard tombe face à Harris")
-
-[18:06
-
-Basket,
-
-Euroligue (H)
-
-Ntilikina revient en Europe et s'engage au Partizan Belgrade](https://www.lequipe.fr/Basket/Actualites/Frank-ntilikina-revient-en-europe-et-s-engage-avec-le-partizan-belgrade/1476231 "Ntilikina revient en Europe et s'engage au Partizan Belgrade")
-
-[18:00
-
-Tous sports,
-
-Podcast
-
-La sélection de la rédaction du 20 juin](https://www.lequipe.fr/collection/podcasts/serie/la-selection-de-la-redaction/ "La sélection de la rédaction du 20 juin")
-
-[17:56
+[09:35
 
 Euro 2024,
 
 Bleus
 
-Deschamps sur Mbappé : «On fera en sorte qu'il soit disponible»](https://www.lequipe.fr/Football/Actualites/Deschamps-sur-mbappe-on-fera-en-sorte-qu-il-soit-disponible-face-aux-pays-bas-a-l-euro-2024/1476228 "Deschamps sur Mbappé : «On fera en sorte qu'il soit disponible»")
+Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»](https://www.lequipe.fr/Football/Article/Le-debrief-de-rudi-garcia-apres-le-match-nul-de-l-equipe-de-france-les-bleus-inspirent-la-crainte-meme-sans-mbappe/1476632 "Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»")
 
-[17:55
-
-Escrime
-
-Les Championnats d'Europe sur L'Équipe live 2](https://www.lequipe.fr/tv/videos/live/k5TgcOKBUTM2KnqwBWC "Les Championnats d'Europe sur L'Équipe live 2")
-
-[17:45
-
-L'Equipe explore,
-
-Podcast
-
-Manaudou-Lucas, duo d'or et de fracas](https://www.lequipe.fr/Natation/Article/Podcast-manaudou-lucas-duo-d-or-et-de-fracas-aux-jeux-d-athenes-2004/1475360 "Manaudou-Lucas, duo d'or et de fracas")
-
-[17:42
+[09:34
 
 Rugby,
 
@@ -218,91 +164,147 @@ Top 14,
 
 La Rochelle
 
-Pas de changement dans le XV contre Toulouse](https://www.lequipe.fr/Rugby/Actualites/Pas-de-changement-dans-le-quinze-de-la-rochelle-contre-toulouse/1476222 "Pas de changement dans le XV contre Toulouse")
+Jégou : «C'est triste»](https://www.lequipe.fr/Rugby/Actualites/Oscar-jegou-apres-toulouse-la-rochelle-c-est-triste/1476634 "Jégou : «C'est triste»")
 
-[17:36
+[09:32
 
-Cyclisme,
+Hockey,
 
-Championnats de France
+Coupe Continentale
 
-Armirail titré sur le contre-la-montre](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Bruno-armirail-champion-de-france-de-contre-la-montre/1476220 "Armirail titré sur le contre-la-montre")
+Grenoble face à Aalborg et Katowice](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Grenoble-face-a-aalborg-et-katowice-en-coupe-continentale/1476633 "Grenoble face à Aalborg et Katowice")
 
-[17:31
-
-Euro 2024
-
-La conf' des Bleus en direct](https://www.lequipe.fr/Football/Actualites/Suivez-la-conf-de-presse-des-bleus-en-direct/1476217 "La conf' des Bleus en direct")
-
-[17:30
-
-Foot,
-
-Euro 84 (10/17)
-
-Les Bleus privés de revanche](https://www.lequipe.fr/Football/Actualites/Serie-euro-84-10-17-les-bleus-prives-de-revanche/1474895 "Les Bleus privés de revanche")
-
-[17:28
-
-Foot,
-
-Copa America
-
-Les choses insolites à savoir sur la compétition](https://www.lequipe.fr/Football/Actualites/Carton-rose-canada-boycott-de-ronaldinho-les-choses-insolites-a-savoir-sur-la-copa-america-2024/1476216 "Les choses insolites à savoir sur la compétition")
-
-[17:21
-
-Foot,
-
-Copa America
-
-Les cinq pépites à suivre](https://www.lequipe.fr/Football/Actualites/Endrick-paez-gimenez-les-cinq-pepites-a-suivre-lors-de-la-copa-america/1476215 "Les cinq pépites à suivre")
-
-[17:10
+[09:30
 
 Euro 2024,
 
-Angleterre
+Turquie
 
-Foden titulaire face au Danemark](https://www.lequipe.fr/Football/Actualites/Phil-foden-angleterre-titulaire-face-au-danemark-a-l-euro-2024/1476209 "Foden titulaire face au Danemark")
+Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»](https://www.lequipe.fr/Football/Article/Orkun-kokcu-turquie-j-ai-reve-avec-la-generation-doree-de-l-euro-2008/1476624 "Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»")
 
-[17:10
+[09:00
 
-JO 2024,
+Prix Richard Martin 2024
 
-Aviron
+Participez au grand concours international de photos de sport de L'Équipe](https://www.lequipe.fr/landing/prix-richard-martin/ "Participez au grand concours international de photos de sport de L'Équipe")
 
-Lunatti et Ravera en route vers les Jeux](https://www.lequipe.fr/Jo-2024-paris/Aviron/Actualites/Emma-lunatti-et-elodie-ravera-scaramozzino-en-route-vers-les-jo-de-paris/1476206 "Lunatti et Ravera en route vers les Jeux")
+[08:59
 
-[17:00
+Rugby,
 
-Tous sports,
+Top 14
 
-spécial L'Équipe
+Stade Français, une saison pleine de secousses](https://www.lequipe.fr/Rugby/Article/Stade-francais-une-saison-pleine-de-secousses-avant-la-demi-finale-du-top-14-face-a-bordeaux-begles/1476494 "Stade Français, une saison pleine de secousses")
 
-Découvrez les sports les plus originaux](https://bit.ly/3RzDf6u "Découvrez les sports les plus originaux")
+[08:58
 
-[16:59
+Hockey,
 
-F1,
+TQO (H)
 
-GP d'Espagne,
+Les dates de la préparation des Bleus](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-dates-de-la-preparation-de-l-equipe-de-france-avant-le-tqo-des-jeux-2026/1476629 "Les dates de la préparation des Bleus")
 
-Alpine
+[08:56
 
-Ocon: «Je pressens un week-end difficile»](https://www.lequipe.fr/Formule-1/Actualites/Esteban-ocon-alpine-avant-le-gp-d-espagne-je-pressens-un-week-end-difficile/1476196 "Ocon: «Je pressens un week-end difficile»")
+Foot,
 
-[16:59
+Copa America
+
+Le Chili tenu en échec par le Pérou](https://www.lequipe.fr/Football/Actualites/Le-chili-tenu-en-echec-par-le-perou-a-la-copa-america/1476628 "Le Chili tenu en échec par le Pérou")
+
+[08:55
+
+Cyclisme,
+
+Championnat de France
+
+Laporte peut-il gagner tout seul ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/Malgre-une-malchance-tenace-en-2024-christophe-laporte-reve-d-une-victoire-en-solitaire/1476532 "Laporte peut-il gagner tout seul ?")
+
+[08:54
 
 Euro 2024
 
-La Serbie arrache le nul en fin de match face à la Slovénie](https://www.lequipe.fr/Football/Actualites/La-serbie-arrache-le-match-nul-dans-le-temps-additionnel-face-a-la-slovenie-a-l-euro-2024/1476195 "La Serbie arrache le nul en fin de match face à la Slovénie")
+Les supporters des Bleus ont été à la hauteur](https://www.lequipe.fr/Football/Actualites/En-inferiorite-numerique-les-supporters-francais-ont-rivalise-avec-les-neerlandais/1476627 "Les supporters des Bleus ont été à la hauteur")
+
+[08:51
+
+Golf,
+
+PGA Championship (F)
+
+Schmelzel et Yang en tête, Boutier 12e](https://www.lequipe.fr/Golf/Actualites/Schmelzel-et-yang-en-tete-boutier-12e-du-kpmg-women-s-pga-championship/1476626 "Schmelzel et Yang en tête, Boutier 12e")
+
+[08:41
+
+JO 2024,
+
+Tennis
+
+Les doubles tricolores dans l'inconnu](https://www.lequipe.fr/Jo-2024-paris/Tennis/Article/Contraints-a-des-paires-inedites-les-doubles-tricolores-dans-l-inconnu-aux-jo-de-paris/1476561 "Les doubles tricolores dans l'inconnu")
+
+[08:40
+
+Natation,
+
+États-Unis,
+
+Trials
+
+Dressel impressionne sur 50m et défendra son titre aux JO](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/Apres-son-echec-sur-100-m-caeleb-dressel-se-qualifie-sur-50-m-pour-les-jo-de-paris-et-defendra-son-titre/1476625 "Dressel impressionne sur 50m et défendra son titre aux JO")
+
+[08:30
+
+JO,
+
+Boxe
+
+Tout savoir sur Amina Zidani](https://www.lequipe.fr/Boxe/Fiche-guide/Athlete/Amina-zidani/58 "Tout savoir sur Amina Zidani")
+
+[08:27
+
+Euro 2024,
+
+Bleus,
+
+Tactique
+
+Deschamps obtient ce qu'il cherche](https://www.lequipe.fr/Football/Article/Le-debrief-tactique-de-pays-bas-france-deschamps-obtient-ce-qu-il-cherche/1476613 "Deschamps obtient ce qu'il cherche")
+
+[08:23
+
+Euro 2024
+
+Le onze des «papis»](https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-giroud-modric-le-onze-des-papis-de-l-euro-2024/1476572 "Le onze des «papis»")
+
+[08:13
+
+JO 2024,
+
+Natation
+
+Quelles ambitions pour les Bleus ?](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/Marchand-manaudou-grousset-quelles-ambitions-pour-les-nageurs-bleus-aux-jo-de-paris/1476549 "Quelles ambitions pour les Bleus ?")
+
+[08:12
+
+Euro 2024,
+
+Roumanie
+
+Stanciu, capitaine abandonné](https://www.lequipe.fr/Football/Actualites/Nicolae-stanciu-un-capitaine-fache-avec-les-supporters-mais-apprecie-par-ses-coequipiers/1476466 "Stanciu, capitaine abandonné")
+
+[08:12
+
+Athlé,
+
+Perche
+
+Collet, un record mais toujours plus d'ambitions](https://www.lequipe.fr/Athletisme/Actualites/Pour-thibaut-collet-un-nouveau-record-mais-toujours-plus-d-ambitions/1476530 "Collet, un record mais toujours plus d'ambitions")
 
 L'ÉQUIPE
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/689/covers/Preview-MEDIUM-33500.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/691/covers/Preview-MEDIUM-33576.jpg?v=4)
 
 lire l'édition
 
