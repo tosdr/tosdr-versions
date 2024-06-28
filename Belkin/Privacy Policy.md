@@ -60,7 +60,7 @@ Close ×
     * [Docks & Hubs](https://www.belkin.com/products/docks-hubs/ "Docks & Hubs")
         
         * [Thunderbolt Docks](https://www.belkin.com/products/docks-hubs/thunderbolt-docks/ "Thunderbolt Docks")
-        * [USB-C Docks](https://www.belkin.com/products/docks-hubs/usb-c-docks/ "USB-C Docks")
+        * [USB-C Docking Stations](https://www.belkin.com/products/docks-hubs/usb-c-docking-stations/ "USB-C Docking Stations")
         * [USB & USB-C Hubs](https://www.belkin.com/products/docks-hubs/usb-usb-c-hubs/ "USB & USB-C Hubs")
         
     * [Screen Protectors](https://www.belkin.com/products/screen-protectors/ "Screen Protectors")
@@ -160,7 +160,7 @@ Close ×
     * [Docking Stations](https://www.belkin.com/business/docking-stations/ "Docking Stations")
         
         * [Thunderbolt Docks](https://www.belkin.com/products/docks-hubs/thunderbolt-docks/ "Thunderbolt Docks")
-        * [USB-C Docks](https://www.belkin.com/products/docks-hubs/usb-c-docks/ "USB-C Docks")
+        * [USB-C Docks](https://www.belkin.com/products/docks-hubs/usb-c-docking-stations/ "USB-C Docks")
         * [USB & USB-C Hubs](https://www.belkin.com/products/docks-hubs/usb-usb-c-hubs/ "USB & USB-C Hubs")
         
     * [Cables](https://www.belkin.com/business/cables/ "Cables")
