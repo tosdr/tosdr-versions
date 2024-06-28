@@ -1,15 +1,17 @@
-Friday, June 21 2024
+[Jannah Theme](https://tielabs.com/buy/jannah?utm_source=footer-bar&utm_medium=link&utm_campaign=jannah) License is not validated, Go to the theme options page to validate the license, You need a single license for each domain name.
+
+Friday, June 28 2024
 
 Breaking News
 
-* [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
-* [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
-* [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
-* [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
-* [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
-* [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
-* [Huge Percentage Of EV Owners Want To Go Back To Normal Cars, Study Finds](https://www.conservativedailynews.com/2024/06/huge-percentage-of-ev-owners-want-to-go-back-to-normal-cars-study-finds/)
-* [Wealthy Liberals Barrel Ahead With Plans To Block The Sun](https://www.conservativedailynews.com/2024/06/wealthy-liberals-barrel-ahead-with-plans-to-block-the-sun/)
+* [26 States Sue Biden Admin Over Rule Pushing EVs On Americans](https://www.conservativedailynews.com/2024/06/26-states-sue-biden-admin-over-rule-pushing-evs-on-americans/)
+* [The Average Joe; From the Great Resignation to The Great American Squeeze in Two Years.](https://www.conservativedailynews.com/2024/06/the-average-joe-from-the-great-resignation-to-the-great-american-squeeze-in-two-years/)
+* [Supreme Court Rules Federal Agency’s In-House Judges Violate Constitution](https://www.conservativedailynews.com/2024/06/supreme-court-rules-federal-agencys-in-house-judges-violate-constitution/)
+* [Pentagon Says $62 Million In Ukraine Weapons Aid Was ‘Lost Or Destroyed’ — But It Doesn’t Know Which](https://www.conservativedailynews.com/2024/06/pentagon-says-62-million-in-ukraine-weapons-aid-was-lost-or-destroyed-but-it-doesnt-know-which/)
+* [DOJ Tries To Shut Down Case That Exposed Biden Admin Colluded On Medical Standards Used To Justify Child Sex Changes](https://www.conservativedailynews.com/2024/06/doj-tries-to-shut-down-case-that-exposed-biden-admin-colluded-on-medical-standards-used-to-justify-child-sex-changes/)
+* [Female Athletes Take Aim At Biden Admin Over Looming Title IX Changes](https://www.conservativedailynews.com/2024/06/female-athletes-take-aim-at-biden-admin-over-looming-title-ix-changes/)
+* [Supreme Court Deals Blow To Biden EPA’s Ozone Emissions Scheme](https://www.conservativedailynews.com/2024/06/supreme-court-deals-blow-to-biden-epas-ozone-emissions-scheme/)
+* [The Internet Nation](https://www.conservativedailynews.com/2024/06/the-internet-nation/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,82 +105,82 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/supreme-court-deals-blow-to-biden-epas-ozone-emissions-scheme/)
     
-    [The Democratic Subversion of Democracy](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
+    [Supreme Court Deals Blow To Biden EPA’s Ozone Emissions Scheme](https://www.conservativedailynews.com/2024/06/supreme-court-deals-blow-to-biden-epas-ozone-emissions-scheme/)
     
-    June 19, 2024
+    June 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/what-trump-needs-to-do-in-debate/)
     
-    [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+    [What Trump Needs To Do In Debate](https://www.conservativedailynews.com/2024/06/what-trump-needs-to-do-in-debate/)
     
-    June 19, 2024
+    June 26, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/26-states-sue-biden-admin-over-rule-pushing-evs-on-americans/)
     
-    [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+    [26 States Sue Biden Admin Over Rule Pushing EVs On Americans](https://www.conservativedailynews.com/2024/06/26-states-sue-biden-admin-over-rule-pushing-evs-on-americans/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![Joe Biden wind energy renewable green](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-60-220x150.png)](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/China-220x150.jfif)](https://www.conservativedailynews.com/2024/06/china-purges-former-defense-chief-after-he-vanished-from-public-eye-for-months/)
     
-    [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+    [China Purges Former Defense Chief After He Vanished From Public Eye For Months](https://www.conservativedailynews.com/2024/06/china-purges-former-defense-chief-after-he-vanished-from-public-eye-for-months/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5144-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg082123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/the-average-joe-from-the-great-resignation-to-the-great-american-squeeze-in-two-years/)
     
-    [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+    [The Average Joe; From the Great Resignation to The Great American Squeeze in Two Years.](https://www.conservativedailynews.com/2024/06/the-average-joe-from-the-great-resignation-to-the-great-american-squeeze-in-two-years/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Gavin-Newsom-2.png)](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/06/supreme-court-rules-federal-agencys-in-house-judges-violate-constitution/)
     
-    [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+    [Supreme Court Rules Federal Agency’s In-House Judges Violate Constitution](https://www.conservativedailynews.com/2024/06/supreme-court-rules-federal-agencys-in-house-judges-violate-constitution/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![Mayorkas illegal immigration](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv062124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/victims/)
+* [![Ukraine Zelenskyy](https://www.conservativedailynews.com/wp-content/uploads/2023/12/image-22-220x150.png)](https://www.conservativedailynews.com/2024/06/pentagon-says-62-million-in-ukraine-weapons-aid-was-lost-or-destroyed-but-it-doesnt-know-which/)
     
-    [Victims](https://www.conservativedailynews.com/2024/06/victims/)
+    [Pentagon Says $62 Million In Ukraine Weapons Aid Was ‘Lost Or Destroyed’ — But It Doesn’t Know Which](https://www.conservativedailynews.com/2024/06/pentagon-says-62-million-in-ukraine-weapons-aid-was-lost-or-destroyed-but-it-doesnt-know-which/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+* [![Department of Justice the FBI](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg051623dAPR.jpg)](https://www.conservativedailynews.com/2024/06/doj-tries-to-shut-down-case-that-exposed-biden-admin-colluded-on-medical-standards-used-to-justify-child-sex-changes/)
     
-    [Why the Left Hates It When You Point Out We’re ‘a Republic, Not a Democracy’](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+    [DOJ Tries To Shut Down Case That Exposed Biden Admin Colluded On Medical Standards Used To Justify Child Sex Changes](https://www.conservativedailynews.com/2024/06/doj-tries-to-shut-down-case-that-exposed-biden-admin-colluded-on-medical-standards-used-to-justify-child-sex-changes/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![Camp David](https://www.conservativedailynews.com/wp-content/uploads/2017/06/Camp-David.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+* [![Title IX Women sports transgender athletes](https://www.conservativedailynews.com/wp-content/uploads/2024/05/02-title-9-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/06/female-athletes-take-aim-at-biden-admin-over-looming-title-ix-changes/)
     
-    [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+    [Female Athletes Take Aim At Biden Admin Over Looming Title IX Changes](https://www.conservativedailynews.com/2024/06/female-athletes-take-aim-at-biden-admin-over-looming-title-ix-changes/)
     
-    June 21, 2024
+    June 27, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/supreme-court-deals-blow-to-biden-epas-ozone-emissions-scheme/)
     
-    [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+    [Supreme Court Deals Blow To Biden EPA’s Ozone Emissions Scheme](https://www.conservativedailynews.com/2024/06/supreme-court-deals-blow-to-biden-epas-ozone-emissions-scheme/)
     
-    June 20, 2024
+    June 27, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [New: Federal Field & Range Gun Cases](https://www.thegunpage.com/new-federal-field-range-gun-cases/10608901)
-* [NRA President Bob Barr To Speak At 2024 Daisy BB Gun Nationals Opening Ceremony](https://www.thegunpage.com/nra-president-bob-barr-to-speak-at-2024-daisy-bb-gun-nationals-opening-ceremony/10608897)
-* [New: Smith & Wesson Model 1854 With Walnut Furniture](https://www.thegunpage.com/new-smith-wesson-model-1854-with-walnut-furniture/10608894)
-* [An Abbreviated Competition Program: 1941 National Matches](https://www.thegunpage.com/an-abbreviated-competition-program-1941-national-matches/10608893)
-* [USA Shooting: Shotgun Team Claims Four Medals At Final World Cup Before Paris 2024 Olympics](https://www.thegunpage.com/usa-shooting-shotgun-team-claims-four-medals-at-final-world-cup-before-paris-2024-olympics/10608890)
-* [Violent crime skyrocketing under Biden, according to Biden’s favorite data source](https://www.thegunpage.com/violent-crime-skyrocketing-under-biden-according-to-bidens-favorite-data-source/10608886)
-* [NRA World Shooting Championship: The Experience](https://www.thegunpage.com/nra-world-shooting-championship-the-experience/10608885)
-* [ISSF Lonato World Cup: Vincent Hancock, Austen Smith Win Skeet Mixed Team Gold](https://www.thegunpage.com/issf-lonato-world-cup-vincent-hancock-austen-smith-win-skeet-mixed-team-gold/10608882)
-* [Even the CDC admits its latest anti-gun report is misleading and full of holes](https://www.thegunpage.com/even-the-cdc-admits-its-latest-anti-gun-report-is-misleading-and-full-of-holes/10608875)
-* [Hillsdale College, USA Shooting Celebrate Partnership](https://www.thegunpage.com/hillsdale-college-usa-shooting-celebrate-partnership/10608881)
+* [Travis Haley Interview (Part 2): What is the Best AK?](https://www.thegunpage.com/travis-haley-interview-part-2-what-is-the-best-ak/10609023)
+* [POTD: The Ukranian Combat Robot MOROZ](https://www.thegunpage.com/potd-the-ukranian-combat-robot-moroz/10609024)
+* [Concealed Carry Corner: My Personal Top 5 Summer Carry Guns](https://www.thegunpage.com/concealed-carry-corner-my-personal-top-5-summer-carry-guns/10609025)
+* [A Retro Sig P226 is Coming Back!](https://www.thegunpage.com/a-retro-sig-p226-is-coming-back/10609020)
+* [Bond Arms Rowdy XL: Small Size, Big Hitting Power](https://www.thegunpage.com/bond-arms-rowdy-xl-small-size-big-hitting-power/10609021)
+* [Lena Shows Us Her NEW SIG P365 Fuse!](https://www.thegunpage.com/lena-shows-us-her-new-sig-p365-fuse/10609015)
+* [Is this the Fanciest Sig P226 Ever? The SIG P226 Reserve](https://www.thegunpage.com/is-this-the-fanciest-sig-p226-ever-the-sig-p226-reserve/10609014)
+* [TFB Behind The Gun Podcast #122: Calvin's Hot Takes from Lynx 2024](https://www.thegunpage.com/tfb-behind-the-gun-podcast-122-calvins-hot-takes-from-lynx-2024/10609013)
+* [Review: Springfield Armory Garrison 4.25-inch 9 mm](https://www.thegunpage.com/review-springfield-armory-garrison-4-25-inch-9-mm/10609011)
+* [World War II Suspends National Match Competitions: 1942-1945](https://www.thegunpage.com/world-war-ii-suspends-national-match-competitions-1942-1945/10609012)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,6 +222,8 @@ Contact Us
 
 Recent Comments
 
+* Adonis on [President Joe Biden’s Schedule for Tuesday, June 25, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-tuesday-june-25-2024/#comment-776085)
+* Jeff L. on [America Was Played by the Left in 2020](https://www.conservativedailynews.com/2024/06/america-was-played-by-the-left-in-2020/#comment-776067)
 * James Martin on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775837)
 * KayCee on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775781)
 * KayCee on [If You Don’t Want To Be Killed, Don’t Take Hostages](https://www.conservativedailynews.com/2024/06/if-you-dont-want-to-be-killed-dont-take-hostages/#comment-775704)
@@ -227,8 +231,6 @@ Recent Comments
 * [Capt. Bligh](https://obbop.wordpress.com/) on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775668)
 * KayCee on [Cortez Claims Trump Will Throw Her In Jail](https://www.conservativedailynews.com/2024/06/cortez-claims-trump-will-throw-her-in-jail/#comment-775642)
 * KayCee on [Wise Guys](https://www.conservativedailynews.com/2024/06/wise-guys/#comment-775638)
-* KayCee on [Major Automaker Throws Hail Mary As It Hemorrhages Cash On Electric Vehicles](https://www.conservativedailynews.com/2024/06/major-automaker-throws-hail-mary-as-it-hemorrhages-cash-on-electric-vehicles/#comment-775637)
-* KayCee on [Red Lights Are Flashing As Biden Ignores Them](https://www.conservativedailynews.com/2024/06/red-lights-are-flashing-as-biden-ignores-them/#comment-775636)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
