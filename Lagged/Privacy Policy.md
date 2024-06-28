@@ -207,15 +207,15 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://lagged.com/imgs/e2880c78-7490-401d-5aad-f69b590e0100/w=120) Animal Games388 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://lagged.com/imgs/b44e654b-8b42-4fd4-b769-846c96b67e00/w=120) Arcade Games1,539 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://lagged.com/imgs/c8d4aed1-5b95-4b8f-2a05-e0c91339ad00/w=120) Car Games376 games](https://lagged.com/en/car "Car Games")
-*  [![Football Games](https://lagged.com/imgs/080537e2-4596-4229-f32c-4cc1554fca00/w=120) Football Games59 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://lagged.com/imgs/162b8481-9f87-4bde-b8f2-059e3747fc00/w=120) Funny Games753 games](https://lagged.com/en/funny "Funny Games")
-*  [![Girl Games](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=120) Girl Games724 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=120) Puzzle Games2,175 games](https://lagged.com/en/puzzle "Puzzle Games")
-*  [![Solitaire Games](https://lagged.com/imgs/2e295d6a-17aa-4196-419b-a1b9ebfcc200/w=120) Solitaire Games57 games](https://lagged.com/en/solitaire "Solitaire Games")
-*  [![Two Player Games](https://lagged.com/imgs/fe68bdf1-f746-47df-a222-ff21e3f6ae00/w=120) Two Player Games291 games](https://lagged.com/en/two-player "Two Player Games")
+*  [![Animal Games](https://lagged.com/imgs/413cf0fc-403a-4430-d950-369fb2b89500/w=120) Animal Games391 games](https://lagged.com/en/animal "Animal Games")
+*  [![Arcade Games](https://lagged.com/imgs/b44e654b-8b42-4fd4-b769-846c96b67e00/w=120) Arcade Games1,547 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Car Games](https://lagged.com/imgs/b5ddfee2-6c03-47f2-49ce-f83f8f1ee800/w=120) Car Games376 games](https://lagged.com/en/car "Car Games")
+*  [![Football Games](https://lagged.com/imgs/b23de767-4abe-4bfa-bdc6-87fe95909500/w=120) Football Games59 games](https://lagged.com/en/football "Football Games")
+*  [![Funny Games](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=120) Funny Games755 games](https://lagged.com/en/funny "Funny Games")
+*  [![Girl Games](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=120) Girl Games730 games](https://lagged.com/en/girl "Girl Games")
+*  [![Puzzle Games](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=120) Puzzle Games2,188 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Solitaire Games](https://lagged.com/imgs/27f8c9c7-3d99-4c50-6fb7-5c46222ac400/w=120) Solitaire Games57 games](https://lagged.com/en/solitaire "Solitaire Games")
+*  [![Two Player Games](https://lagged.com/imgs/fe68bdf1-f746-47df-a222-ff21e3f6ae00/w=120) Two Player Games293 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://lagged.com/imgs/8a378486-b60b-473c-0876-d3199afcac00/w=120) Weird Games61 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
@@ -225,33 +225,33 @@ Games you might like
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://lagged.com/imgs/368e00fd-5833-4564-f5c1-e8bd933f0400/w=220) top rated
 
-[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
-
-[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
-
 [Draw This 2](https://lagged.com/en/g/drawthis2) ![Draw This 2 Game](https://lagged.com/imgs/ce8e01aa-a371-4cdd-d7d0-ad2f8d959d00/w=220)
+
+[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://lagged.com/imgs/3d4b54bf-6073-461d-02ab-b39292ff0000/w=220)
 
-[Street Racing: Moto Drift](https://lagged.com/en/g/street-racing-moto-drift) ![Street Racing: Moto Drift Game](https://lagged.com/imgs/cbaadd0e-541b-4961-da2f-7fc81721a400/w=220) new
+[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://lagged.com/imgs/f0aad5c3-2650-4152-5be2-f7812367a200/w=220)
 
-[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
-
 [Scary Neighbor Online](https://lagged.com/en/g/scary-neighbor-online) ![Scary Neighbor Online Game](https://lagged.com/imgs/33149da7-adb3-47dc-12a9-8e738f273f00/w=220)
 
-[Snake of Bullets](https://lagged.com/en/g/snake-of-bullets) ![Snake of Bullets Game](https://lagged.com/imgs/7812378b-641d-4f4b-5c4d-eaa58fbade00/w=220) new
+[Stretchy Snacks](https://lagged.com/en/g/stretchy-snacks) ![Stretchy Snacks Game](https://lagged.com/imgs/35fb6dc0-c2ce-4fee-05dd-382520c97a00/w=220)
 
-[Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://lagged.com/imgs/c621b7a7-4b2f-40f6-4cec-498405934500/w=220)
+[Poppy Playtime Chapter 2](https://lagged.com/en/g/poppy-playtime-chapter-2) ![Poppy Playtime Chapter 2 Game](https://lagged.com/imgs/1bf0a6a4-8242-425f-c6e3-8a19cfcb9800/w=220)
 
-[Tiles Hop](https://lagged.com/en/g/tiles-hop) ![Tiles Hop Game](https://lagged.com/imgs/2c126e19-4a2f-4ae2-2a17-905864d99900/w=220)
+[Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
+
+[Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://lagged.com/imgs/b25d7227-5cde-4d32-0ead-486647ded900/w=220)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://lagged.com/imgs/457ea860-0c81-49e6-3520-1946799f4e00/w=220)
 
-[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://lagged.com/imgs/fecf592a-0609-4a27-a6a4-4555a9da3c00/w=220)
+[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://lagged.com/imgs/dd5cd99a-fc69-480f-18a5-22443243ef00/w=220)
 
-[Cat Disco](https://lagged.com/en/g/cat-disco) ![Cat Disco Game](https://lagged.com/imgs/32307ae5-8fb5-4e50-06eb-23c56b80c500/w=220)
+[Marble Run 3D](https://lagged.com/en/g/marble-run-3d739) ![Marble Run 3D Game](https://lagged.com/imgs/952e1bc9-a022-4c75-5113-b3d4897e2b00/w=220)
+
+[Minecraft Online](https://lagged.com/en/g/minecraft-online) ![Minecraft Online Game](https://lagged.com/imgs/c621b7a7-4b2f-40f6-4cec-498405934500/w=220)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
