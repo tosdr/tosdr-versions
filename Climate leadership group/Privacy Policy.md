@@ -109,7 +109,7 @@ C40 Cities Climate Leadership Group, Inc., a Delaware incorporated, non-stock, n
   
 Our Affiliates are:
 
-* C40 Cities Climate Leadership UK, a charity registered in England and Wales with company number 10401717 and charity number 1173124 whose registered office is at 3 Queen Victoria Street, London, EC4N 4TQ, UK.
+* C40 Cities Climate Leadership UK, a charity registered in England and Wales with company number 10401717 and charity number 1173124 whose registered office is at 44 Featherstone Street, London EC1Y 8RN, UK.
 * C40 Cities Climate Leadership South Africa NPC, a Non Profit Company registered in South Africa with a company number of 2017/243962/08 whose registered office is at Traduna House, 118 Jorissen Street, Braamfontein, 2001 Gauteng, South Africa.
 * Foreningen C40 Cities Climate Leadership Denmark, an Association registered in Denmark with a CVR number of 40708243 whose registered office is at c/o BLOXHUB, Bryghuspladsen 8, 1473 Copenhagen K, Denmark.
 * C40 Cities Climate Leadership Group (USA) Beijing Representative Office, a Representative Office registered in China with unified social credit code G1110000MCW1706939 whose registered office is at Room 101, 10th floor, 12# Diplomatic Residence Compound, No.1 Xiushui Street, Chaoyang District, Beijing, China.
