@@ -1,6 +1,6 @@
-[GET THE LATEST G2 COMPARISON REPORT
+[dnsUNFILTERED: Securing Your Shores — July 18th @ Noon ET
 
-COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
+REGISTER NOW](https://explore.dnsfilter.com/dnsunfiltered-securing-your-shores)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
@@ -352,6 +352,16 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
+[![Exploring the Security of Free Public Wi-Fi with eero](https://www.dnsfilter.com/hs-fs/hubfs/blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp?width=500&height=190&name=blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp)
+
+Posted on June 26, 2024 by Anvesha Tiwary
+
+ **
+
+Exploring the Security of Free Public Wi-Fi with eero
+
+**](https://www.dnsfilter.com/blog/exploring-the-security-of-free-public-wi-fi-with-eero)
+
 [![Why Securing Public Wi-Fi is More Important Than Ever](https://www.dnsfilter.com/hs-fs/hubfs/blog_whysecuringpublicwi_fiismoreimportantthanever1.webp?width=500&height=190&name=blog_whysecuringpublicwi_fiismoreimportantthanever1.webp)
 
 Posted on June 17, 2024 by Anvesha Tiwary
@@ -371,16 +381,6 @@ Posted on June 14, 2024 by Kory Underdown
 DNS Endpoint Security Management: Protecting Your Network's Frontline
 
 **](https://www.dnsfilter.com/blog/understanding-endpoint-management-security-services)
-
-[![An Interview With DNSFilter’s New CTO, TK Keanini](https://www.dnsfilter.com/hs-fs/hubfs/blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp?width=500&height=190&name=blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp)
-
-Posted on June 10, 2024 by Serena Raymond
-
- **
-
-An Interview With DNSFilter’s New CTO, TK Keanini
-
-**](https://www.dnsfilter.com/blog/cto-tk-keanini-interview)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
