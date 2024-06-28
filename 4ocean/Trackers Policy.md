@@ -187,6 +187,7 @@ WHOLESALE
 
 * [Twitter](https://twitter.com/4Ocean)
 * [Facebook](https://www.facebook.com/4OceanBracelets/)
+* [LinkedIn](https://www.linkedin.com/company/4oceanpbc)
 * [Pinterest](https://www.pinterest.com/4oceanbracelets/)
 * [Instagram](https://www.instagram.com/4ocean/)
 * [TikTok](https://www.tiktok.com/@4ocean)
