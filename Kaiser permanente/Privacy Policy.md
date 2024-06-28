@@ -350,6 +350,7 @@ Switching to {{aocRegion}}
 * [Help Paying your Bills](https://healthy.kaiserpermanente.org/help-paying-your-bill)
 * [Medical Information Requests](https://healthy.kaiserpermanente.org/support/medical-requests)
 * [Request for Confidential Communications Forms](https://healthy.kaiserpermanente.org/support/forms)
+* [HIPAA Authorization](https://healthy.kaiserpermanente.org/hipaa-authorization)
 
   ![expand](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/plus-white.svg) ![expand](/etc.clientlibs/settings/wcm/designs/kporg/kp-foundation/clientlib-modules/styleguide/resources/assets/icons/minus-white.svg) Visit our other sites
 
@@ -369,15 +370,15 @@ Switching to {{aocRegion}}
 
 * [Website Privacy](https://healthy.kaiserpermanente.org/privacy)
 * [HIPAA Notice of Privacy Practices](https://healthy.kaiserpermanente.org/privacy-practices)
-* [Terms & Conditions](https://healthy.kaiserpermanente.org/termsconditions)
+* [Your Privacy Choices](javascript:(OneTrust.ToggleInfoDisplay()))
 
+* [Terms & Conditions](https://healthy.kaiserpermanente.org/termsconditions)
 * [Rights & Responsibilities](https://healthy.kaiserpermanente.org/pages/rights-responsibilities)
 * [Disaster Planning](https://healthy.kaiserpermanente.org/pages/disaster-planning-policy)
-* [Technical Information](https://healthy.kaiserpermanente.org/pages/technical-information)
 
+* [Technical Information](https://healthy.kaiserpermanente.org/pages/technical-information)
 * [Site Map](https://healthy.kaiserpermanente.org/pages/sitemap)
 * [Contact Site Manager](https://healthy.kaiserpermanente.org/support/contact-web-manager)
-* [HIPAA Authorization](https://healthy.kaiserpermanente.org/hipaa-authorization)
 
 * [Accessibility](https://healthy.kaiserpermanente.org/pages/web-accessibility-commitment)
 * [Nondiscrimination Notice](https://healthy.kaiserpermanente.org/language-assistance/nondiscrimination-notice)
@@ -385,14 +386,14 @@ Switching to {{aocRegion}}
 * [Website Privacy](https://healthy.kaiserpermanente.org/privacy)
 
 * [HIPAA Notice of Privacy Practices](https://healthy.kaiserpermanente.org/privacy-practices)
+* [Your Privacy Choices](javascript:(OneTrust.ToggleInfoDisplay()))
 * [Terms & Conditions](https://healthy.kaiserpermanente.org/termsconditions)
 * [Rights & Responsibilities](https://healthy.kaiserpermanente.org/pages/rights-responsibilities)
-* [Disaster Planning](https://healthy.kaiserpermanente.org/pages/disaster-planning-policy)
 
+* [Disaster Planning](https://healthy.kaiserpermanente.org/pages/disaster-planning-policy)
 * [Technical Information](https://healthy.kaiserpermanente.org/pages/technical-information)
 * [Site Map](https://healthy.kaiserpermanente.org/pages/sitemap)
 * [Contact Site Manager](https://healthy.kaiserpermanente.org/support/contact-web-manager)
-* [HIPAA Authorization](https://healthy.kaiserpermanente.org/hipaa-authorization)
 
 Follow us on these external social media sites that will open in a new browser window.
 
