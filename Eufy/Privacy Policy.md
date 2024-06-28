@@ -8,6 +8,8 @@
 
 [New|S1 Pro|The World's First Floor Washing Robot Vacuum with All-in-One Station](https://www.eufy.com/robot-vacuum-s1-pro?ref=topbanner_2)
 
+[Subscribe to the new eufy S1 Pro with eufy Flex New](https://www.eufy.com/products/t2080111?variant=43804834922682&ref=topbanner_3)
+
 [](https://www.eufy.com/livestream?ref=navimenu_9_copy)
 
 [](https://www.eufy.com/?ref=logo "eufy")
@@ -23,7 +25,7 @@
     
     * [eufy Robot Vacuum Omni S1 Pro
         
-        New](https://us.eufy.com/products/t2080111?ref=navimenu_1_1_1_img)
+        New](https://us.eufy.com/robot-vacuum-s1-pro?ref=navimenu_1_1_1_img)
     * [eufy Robot Vacuum X10 Pro Omni
         
         Hot](https://us.eufy.com/products/t2351111?ref=navimenu_1_1_2_img)
@@ -141,9 +143,9 @@
     
     [See More](https://us.eufy.com/collections/robot-vacuums?Feature=Vaccum&ref=navimenu_1_3_4_8_copy)
     
-    * [eufy P2](https://us.eufy.com/products/t9148111?ref=navimenu_1_4_1_img)
-    * [eufy P1](https://us.eufy.com/products/t9147011?ref=navimenu_1_4_2_img)
-    * [eufy C1](https://us.eufy.com/products/t9146?ref=navimenu_1_4_3_img)
+    * [eufy Smart Scale P2](https://us.eufy.com/smart-scales?ref=navimenu_1_4_1_img)
+    * [eufy Smart Scale P1](https://us.eufy.com/collections/smart-scale?ref=navimenu_1_4_2_img)
+    * [eufy Smart Scale C1](https://us.eufy.com/products/t9146?ref=navimenu_1_4_3_img)
     
 * [Security](https://us.eufy.com/collections/security?ref=navimenu_2_copy)
     
