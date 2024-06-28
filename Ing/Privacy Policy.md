@@ -20,9 +20,9 @@ Loading…
 
 Can we help? Close
 
-[![](/img/logos/Logo-sm@2x.webp)](https://www.ing.com.au/ "ING")
+[![](/img/logos/Logo-sm@2x.webp)](https://www.ing.com.au/index.html "ING")
 
-[](https://www.ing.com.au/ "ING")
+[](https://www.ing.com.au/index.html "ING")
 
 * [](# "Facebook")
 * [](# "Twitter")
@@ -136,7 +136,7 @@ Can we help? Close
     
     [Apple Pay](https://www.ing.com.au/mobile/apple-pay/applepay.html "Apple Pay")
     
-    [Google Pay](https://www.ing.com.au/mobile/Google-pay/googlepay.html "Google Pay")
+    [Google Pay](https://www.ing.com.au/mobile/google-pay/googlepay.html "Google Pay")
     
     [Credit Card interest rates](https://www.ing.com.au/rates-and-fees/credit-cards-rates.html "Credit Card interest rates")
     
@@ -320,15 +320,6 @@ Can we help? Close
     
     [Documents and forms](https://www.ing.com.au/help-and-support/documents-and-forms/insurance.html#Health-Insurance)
     
-    Get up to $400 off  
-    ING Health Insurance
-    
-    Take out a combined Hospital and Extras cover by 30 June 2024, and you could get up to $400 off. Offer ends 30 June 2024.
-    
-    T&Cs apply. See full terms and conditions.
-    
-    [Get a quote](https://healthquote.ing.com.au/join/welcome/?pid=vis:meganav:healthins:healthinsmenu)
-    
     ###### Your tools
     
     [Compare cover choices](https://www.ing.com.au/insurance/home-and-contents-insurance.html#ING-content-2)
@@ -432,7 +423,7 @@ Can we help? Close
 * [Security info](https://www.ing.com.au/security.html "Security info")
 * **BSB: 923-100**
 
-1. [Home](https://www.ing.com.au/)
+1. [Home](https://www.ing.com.au/index.html)
 2. Privacy
 
 Privacy Policy
@@ -458,7 +449,7 @@ Indirectly, from your employer (when it is an IBAL customer), a person whom you 
 
 From other available sources such as debtor registers, land registers, commercial registers, registers of association, the online or traditional media, publicly available sources or other companies within ING Group or third parties such as payment or transaction processors, credit agencies, other financial institutions, commercial companies, or public authorities.
 
-When you apply for a specific Product or Service, we may sometimes use cookies to collect information from you. A cookie is a tiny file we store on your computer, tablet or mobile phone when you use our websites or apps. We refer you to our cookie notification as published on the IBAL website at [www.ing.com.au/privacy](https://www.ing.com.au/privacy) for more information about the use of cookies and comparable technologies.
+When you apply for a specific Product or Service, we may sometimes use cookies to collect information from you. A cookie is a tiny file we store on your computer, tablet or mobile phone when you use our websites or apps. We refer you to our cookie notification as published on the IBAL website at [www.ing.com.au/privacy](https://www.ing.com.au/privacy.html) for more information about the use of cookies and comparable technologies.
 
 ### 2\. The types of personal information we process
 
@@ -914,8 +905,8 @@ GPO Box 4094
 
 [Information on Cookies](https://www.ing.com.au/pdf/Cookie_Notification.pdf)[Privacy Statement for Suppliers](https://www.ing.com.au/pdf/PrivacyStatementForSuppliers.pdf)
 
-[![](/img/logos/Logo-footer@2x.webp)](https://www.ing.com.au/)
---------------------------------------------------------------
+[![](/img/logos/Logo-footer@2x.webp)](https://www.ing.com.au/index.html)
+------------------------------------------------------------------------
 
 * [##### Help and Support](https://www.ing.com.au/help-and-support.html)
     * [FAQs](https://www.ing.com.au/faq-landing.html?product=General)
