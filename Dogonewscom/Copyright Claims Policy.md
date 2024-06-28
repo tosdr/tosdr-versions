@@ -70,25 +70,25 @@ e-mail: rdolasia@dogonews.com
 
 * Week
     
-    * [![Hermit Crabs Are Increasingly Using Plastic Trash As Homes](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/7/hermit-crabs-are-increasingly-using-plastic-trash-as-homes)
+    * [![Claudia Sheinbaum Is Mexico's First Female President](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/17/claudia-sheinbaum-is-mexicos-first-female-president)
         
-        [Hermit Crabs Are Increasingly Using Plastic Trash As Homes](https://www.dogonews.com/2024/6/7/hermit-crabs-are-increasingly-using-plastic-trash-as-homes)
+        [Claudia Sheinbaum Is Mexico's First Female President](https://www.dogonews.com/2024/6/17/claudia-sheinbaum-is-mexicos-first-female-president)
         
     * [![National Donut Day: A Sweet Celebration With A Rich History](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/4/national-donut-day-a-sweet-celebration-with-a-rich-history)
         
         [National Donut Day: A Sweet Celebration With A Rich History](https://www.dogonews.com/2024/6/4/national-donut-day-a-sweet-celebration-with-a-rich-history)
         
-    * [![Gloucestershire's Cheese Rolling Competition Is Like None Other](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
+    * [![The World's Biggest Glacier May Be Melting Faster Than Previously Believed](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/21/the-worlds-biggest-glacier-may-be-melting-faster-than-previously-believed)
         
-        [Gloucestershire's Cheese Rolling Competition Is Like None Other](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
+        [The World's Biggest Glacier May Be Melting Faster Than Previously Believed](https://www.dogonews.com/2024/6/21/the-worlds-biggest-glacier-may-be-melting-faster-than-previously-believed)
         
-    * [![June Solstice Marks The Start Of The Northern Hemisphere Summer](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/14/june-solstice-marks-the-start-of-the-northern-hemisphere-summer)
+    * [![Paris 2024 Olympics Will Feature Four Additional Sports](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/5/9/paris-2024-olympics-will-feature-four-additional-sports)
         
-        [June Solstice Marks The Start Of The Northern Hemisphere Summer](https://www.dogonews.com/2024/6/14/june-solstice-marks-the-start-of-the-northern-hemisphere-summer)
+        [Paris 2024 Olympics Will Feature Four Additional Sports](https://www.dogonews.com/2024/5/9/paris-2024-olympics-will-feature-four-additional-sports)
         
-    * [![Juneteenth, Explained](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/10/juneteenth-explained)
+    * [![Hermit Crabs Are Increasingly Using Plastic Trash As Homes](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/7/hermit-crabs-are-increasingly-using-plastic-trash-as-homes)
         
-        [Juneteenth, Explained](https://www.dogonews.com/2024/6/10/juneteenth-explained)
+        [Hermit Crabs Are Increasingly Using Plastic Trash As Homes](https://www.dogonews.com/2024/6/7/hermit-crabs-are-increasingly-using-plastic-trash-as-homes)
         
     
 * Month
