@@ -1,6 +1,6 @@
-[**\[Free Guide\] How to choose the right privacy management solution for your organization**
+[**\[🔔 New\] No-code, full control: introducing Ketch Privacy Experiences**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://content.ketch.com/buyers-guide)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/privacy-experiences-product)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)](https://www.ketch.com/)
 
@@ -36,9 +36,9 @@ By vertical
 
 [For retail & consumer goods](https://www.ketch.com/customers/retail-consumer-goods)[For travel & hospitality](https://www.ketch.com/customers/travel-and-hospitality)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)
 
-[TIME brings ease and automation to privacy requests with Ketch
+[No-code, full control: introducing Ketch Privacy Experiences
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/time-brings-ease-and-automation-to-privacy-requests-with-ketch)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/privacy-experiences-product)
 
 [Download our compliance guide for retail and eCommerce brands
 
