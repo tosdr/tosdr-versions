@@ -780,6 +780,10 @@ Copyright © 2003 — 2024 BeyondTrust Corporation. All rights reserved. Other t
 
 ![](https://px.ads.linkedin.com/collect/?pid=885586&fmt=gif)
 
+Want to learn why over 20,000 customers chose BeyondTrust?
+
+Please accept Functional Cookies in order to proceed.
+
 Prefers reduced motion setting detected. Animations will now be reduced as a result.
 
 ![Dismiss alert](https://assets.beyondtrust.com/assets/svg/dismiss.svg)
