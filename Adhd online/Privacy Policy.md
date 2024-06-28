@@ -2,7 +2,7 @@
 
 [Skip to content](#content)
 
-[**Important Notice to Our Valued Patients**](https://adhdonline.com/articles/important-notice-to-our-valued-patients/) | Considering Switching Your Provider? [**Learn More**](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)
+**🇺🇲 [Independence Day Holiday Hours](#independence-day) 🇺🇲** | Considering Switching Your Provider? **[Learn More](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
 ✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
 
