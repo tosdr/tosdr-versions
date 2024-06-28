@@ -34,9 +34,9 @@
 
 (800) 899-6268](tel:(800) 899-6268)
 
-[Sign Up](https://www.hometitlelock.com/trial30)
+[Sign Up](https://www.hometitlelock.com/subscriber/signup)
 
-[Sign Up](https://www.hometitlelock.com/trial30)
+[Sign Up](https://www.hometitlelock.com/subscriber/signup)
 
 Open main menu
 
@@ -265,7 +265,7 @@ Email: service@hometitlelock.com
 
 ### Get Total Title Protection and Complete Peace of Mind.
 
-[Start Your Free Trial](https://www.hometitlelock.com/trial30)
+[Start Your Free Trial](https://www.hometitlelock.com/subscriber/signup)
 
 Home Title Fraud
 
@@ -299,7 +299,7 @@ Company
 
 ### Get Total Title Protection and Complete Peace of Mind.
 
-[Start Your Free Trial](https://www.hometitlelock.com/trial30)
+[Start Your Free Trial](https://www.hometitlelock.com/subscriber/signup)
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2786%27%20height=%2786%27/%3e)![TripleLock Protection](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
