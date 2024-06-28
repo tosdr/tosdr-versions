@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/switchbot-universal-remote-infrared-bluetooth-smart-home-control/)
+    
+    [SwitchBot Universal Remote Lets You Control Your Entire Smart Home from One Device](https://www.coolthings.com/switchbot-universal-remote-infrared-bluetooth-smart-home-control/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/sphero-bolt-stem-focused-robot-ball-lcd-screen/)
+    
+    [Sphero Bolt+ Gives the STEM-Focused Robot Ball a Better, More Useful Screen](https://www.coolthings.com/sphero-bolt-stem-focused-robot-ball-lcd-screen/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-go-3s-thumb-sized-action-cam-4k-sensor-dolby-vision-hdr/)
     
     [Insta360 Go 3S Beefs Up the Tiny Action Cam with 4K Sensor, Dolby Vision HDR, and More](https://www.coolthings.com/insta360-go-3s-thumb-sized-action-cam-4k-sensor-dolby-vision-hdr/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/coros-dura-slar-bike-computer-120-hours-battery-life/)
-    
-    [Coros Dura Bike Computer Offers a Whopping 120 Hours of Battery Life Between Charges](https://www.coolthings.com/coros-dura-slar-bike-computer-120-hours-battery-life/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/logitech-mx-ink-stylus-for-meta-quest-headsets/)
-    
-    [Logitech MX Ink Stylus Brings Precision Pen Control to Meta Quest Headsets](https://www.coolthings.com/logitech-mx-ink-stylus-for-meta-quest-headsets/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,20 +43,20 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-standing-desk-mats-to-make-workdays-on-your-feet-more-comfortable/)
+    
+    [The Best Standing Desk Mats to Make Workdays on Your Feet More Comfortable](https://www.coolthings.com/the-best-standing-desk-mats-to-make-workdays-on-your-feet-more-comfortable/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-inflatable-sups-for-summer-water-fun/)
+    
+    [The Best Inflatable SUPs for Summer Water Fun](https://www.coolthings.com/the-best-inflatable-sups-for-summer-water-fun/)
+    --------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nemo-double-haul-100l-transform-duffel-backpack-or-a-140l-tote/)
     
     [Nemo Double Haul 100L Can Transform Into a Duffel, a Backpack, or a 140L Tote](https://www.coolthings.com/nemo-double-haul-100l-transform-duffel-backpack-or-a-140l-tote/)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-shaker-bottles-for-preworkouts-protein-shakes-and-more/)
-    
-    [The Best Shaker Bottles for Preworkouts, Protein Shakes, and More](https://www.coolthings.com/the-best-shaker-bottles-for-preworkouts-protein-shakes-and-more/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
-    
-    [Stoke Voltaics Nomad Cooking System Brings Electric Cooking to the Campsite](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
