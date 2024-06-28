@@ -32,10 +32,10 @@ I do not do any tracking, but I have been known to embed videos from time to tim
 * [Folks](https://chrisglass.com/characters/)
 * [Projects](https://chrisglass.com/projects/)
 * [About](https://chrisglass.com/about/)
-* [Now](https://chrisglass.com/now/)
+* [Now](https://chrisglass.com/about/now/)
 * [Blogroll](https://chrisglass.com/blogroll/)
 * [Random](https://chrisglass.com/random)
-* [Contact](https://chrisglass.com/contact/)
+* [Contact](https://chrisglass.com/about/contact/)
 * [RSS](https://chrisglass.com/feeds)
 
 [Up](#page)
