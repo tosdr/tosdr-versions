@@ -610,7 +610,7 @@ Translate Language
     * [Test00](https://www.houstonisd.org/domain/55248)
     * [TEST2](https://www.houstonisd.org/domain/30590)
     * [Title I](https://www.houstonisd.org/domain/54022)
-    * [TRAINING-Dept Blackboard May 29](https://www.houstonisd.org/domain/55372)
+    * [TRAINING-Dept Blackboard](https://www.houstonisd.org/domain/55372)
     * [TRAINING-For Blackboard PARTICIPANTS Only](https://www.houstonisd.org/domain/50320)
     * [Wraparound Services - Testing](https://www.houstonisd.org/domain/56174)
     
