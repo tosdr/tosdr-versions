@@ -54,11 +54,12 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [2024 Election](https://www.breitbart.com/2024-election/)
-* [Rachel Morin](https://www.breitbart.com/tag/illegal-immigration/)
+* [Debate Night](https://www.breitbart.com/2024-election/)
+* [Assange Free](https://www.breitbart.com/tag/julian-assange/)
+* [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
+* [UK Election](https://www.breitbart.com/tag/uk-election/)
 * [Pride Propaganda](https://www.breitbart.com/tag/pride-month/)
 * [Bidenomics Bust](https://www.breitbart.com/tag/bidenomics/)
-* [UK Election](https://www.breitbart.com/tag/uk-election/)
 * [Israel War](https://www.breitbart.com/middle-east/)
 * [AI Mania](https://www.breitbart.com/tag/artificial-intelligence-ai/)
 
