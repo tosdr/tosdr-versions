@@ -24,7 +24,7 @@ MORE CAMERAS![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8
 
 [Accessories](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
 
-Action Cameras
+Wide-Angle Cameras
 
 [Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 
