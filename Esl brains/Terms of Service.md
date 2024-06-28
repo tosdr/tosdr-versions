@@ -305,10 +305,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [Are you ready to go?](https://eslbrains.com/are-you-ready-to-go/ "Are you ready to go?")
+* [I get electricity from…](https://eslbrains.com/i-get-electricity-from/ "I get electricity from…")
+* [What to do when you’re stressed](https://eslbrains.com/what-to-do-when-youre-stressed/ "What to do when you’re stressed")
 * [Rule of three: third spaces](https://eslbrains.com/rule-of-three-third-spaces/ "Rule of three: third spaces")
-* [When crowds fund your project](https://eslbrains.com/when-crowds-fund-your-project/ "When crowds fund your project")
-* [I’ll do it better next time!](https://eslbrains.com/ill-do-it-better-next-time/ "I’ll do it better next time!")
-* [When exercise meets cosy…](https://eslbrains.com/when-exercise-meets-cosy/ "When exercise meets cosy…")
 
 © ESL Brains 2023
 
@@ -332,6 +332,6 @@ Password
 
 or continue with
 
-[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fterms-and-conditions%2F)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fterms-and-conditions%2F)
+[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fmy-account)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fmy-account)
 
 Don't have an account? [SIGN UP](https://eslbrains.com/pricing "Not a member? Register")
