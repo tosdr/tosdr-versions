@@ -244,7 +244,7 @@ PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 [CALIFORNIA NOTICE OF COLLECTION](#ca-notice-of-collection)
 
-**_Last updated February 26, 2024._**
+**_Last updated June 28, 2024._**
 
 En español: [POLÍTICA DE PRIVACIDAD Y SUS DERECHOS DE PRIVACIDAD](https://www.latimes.com/espanol/privacidad)
 
@@ -583,15 +583,15 @@ California law requires us to compile metrics for the previous calendar year reg
 
 | **Request Type** | **Number of Requests Received** | **Number of Requests Denied (Due to No Verification)** | **Number of Requests Verified and Processed** | **Mean Number of Days for Processing Verified Requests** |
 | --- | --- | --- | --- | --- |
-| Know/Access  <br>(requests to know/access) | 27  | 2   | 25  | 9   |
-| Delete  <br>(requests to delete) | 106 | 18  | 88  | 27  |
+| Know/Access  <br>(requests to know/access) | 13  | 0   | 13  | 17  |
+| Delete  <br>(requests to delete) | 4591 | 4475 | 116 | 29  |
 
   
   
 
 | **Request Type** | **Number of Requests Received** | **Mean Number of Days for Processing Verified Requests** |
 | --- | --- | --- |
-| Opt-Out  <br>(request to opt-out of sale of personal information) | 333,718 | Automated |
+| Opt-Out  <br>(request to opt-out of sale of personal information) | 442,086 | Automated |
 
 16.6 California Shine the Light
 -------------------------------
@@ -603,7 +603,7 @@ California law permits users who are California residents to request and obtain 
 
 If you are a California resident under the age of 18 and are a registered User of our Services, you may be entitled to request that we remove from our Services content you posted to our Services that can be accessed by any other User (whether registered or not). Please note that any content that is removed from our Services may still remain on our servers and in our systems. To request removal of content under this provision, please send an email to privacy@latimes.com and provide us with a description of the content and the location of the content on our Services, and any other information we may require to consider your request. Please note that removal of content under this provision does not ensure complete or comprehensive removal of the content or information posted on the Services by you.
 
-Copyright © 2023 Los Angeles Times Communications LLC
+Copyright © 2024 Los Angeles Times Communications LLC
 
 [](https://www.latimes.com/)
 
@@ -614,7 +614,7 @@ Copyright © 2023 Los Angeles Times Communications LLC
 
 Follow Us
 
-* [Twitter](https://twitter.com/latimes)
+* [X](https://twitter.com/latimes)
 * [Instagram](https://www.instagram.com/latimes/)
 * [YouTube](https://www.youtube.com/losangelestimes)
 * [Facebook](https://www.facebook.com/latimes)
