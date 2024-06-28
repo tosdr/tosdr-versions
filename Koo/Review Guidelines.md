@@ -62,7 +62,7 @@
     
 * [Compliance](#)
     
-    [માસિક અનુપાલન અહેવાલો](https://info.kooapp.com/monthly-compliance-reports/)[Guidelines for Law Enforcement Agencies](https://info.kooapp.com/?post_type=page&p=963)[Monthly Compliance Reports](https://info.kooapp.com/?post_type=page&p=957)[Compliance Statement](https://info.kooapp.com/?post_type=page&p=34)[Annual Returns](https://info.kooapp.com/?post_type=page&p=982)
+    [કાયદા અમલીકરણ એજન્સીઓ માટે માર્ગદર્શિકા](https://info.kooapp.com/guidelines-for-law-enforcement-agencies/)[અનુપાલન નિવેદન](https://info.kooapp.com/compliance-statement/)[માસિક અનુપાલન અહેવાલો](https://info.kooapp.com/monthly-compliance-reports/)[Guidelines for Law Enforcement Agencies](https://info.kooapp.com/?post_type=page&p=963)[Monthly Compliance Reports](https://info.kooapp.com/?post_type=page&p=957)[Compliance Statement](https://info.kooapp.com/?post_type=page&p=34)[Annual Returns](https://info.kooapp.com/?post_type=page&p=982)
     
 * [Koo Coins](#)
 * [Policies](#)
@@ -105,7 +105,9 @@ April 25, 2022
 
 Koo’s core mission is to provide our users a safe and trusted platform to be the voices of India. We aim to provide our users a wholesome community to meaningfully engage with each other in a language of their choice. To help us achieve that, we expect all our users to abide by our [Community Guidelines](https://info.kooapp.com//community-guidelines/) which are available in multiple languages. 
 
-Koo Community Guidelines are designed to foster a safe and respectful space for our users to express themselves, with the highest regard for users’ freedom of speech and expression. Koo encourages a free exchange of thoughts and ideas among our users while at the same time adhering to the letter of law and our legal responsibility to remove content which violates Koo’s Community Guidelines. 
+Koo Community Guidelines are designed to foster a safe and respectful space for our users to express themselves, with the highest regard for users’ freedom of speech and expression. Koo encourages a free exchange of thoughts and ideas among our users while at the same time adhering to the letter of law and our legal responsibility to remove content which violates Koo’s Community Guidelines.   
+  
+We reserve the right to withdraw or suspend or terminate Services at any time without prior notice. Grievance Redressal Services or responses to requests will be delayed during such withdrawal or suspension or termination.
 
 This section will help users understand Koo’s approach to Content Moderation in accordance with Koo’s obligations as a Significant Social Media Intermediary under the [the Information Technology (Intermediary Guidelines & Digital Media Ethics Code) Rules, 2021](https://www.meity.gov.in/writereaddata/files/Intermediary_Guidelines_and_Digital_Media_Ethics_Code_Rules-2021.pdf). 
 
@@ -185,15 +187,15 @@ Your email address will not be published. Required fields are marked \*
     
 * ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
     
-    [Koo Accounts of Eminence](https://info.kooapp.com/content-moderation/)
+    [Terms of Service](https://info.kooapp.com/content-moderation/)
     
-    2022-04-25 10:17:12
+    2022-03-23 11:55:22
     
 
 ##### Categories
 
 * [About Us](https://info.kooapp.com/category/about-us/) (6)
-* [Compliance](https://info.kooapp.com/category/compliance/) (5)
+* [Compliance](https://info.kooapp.com/category/compliance/) (7)
 * [Koo Coins](https://info.kooapp.com/category/policies/koo-coins/) (0)
 * [Policies](https://info.kooapp.com/category/policies/) (52)
 * [Resources](https://info.kooapp.com/category/resources/) (6)
