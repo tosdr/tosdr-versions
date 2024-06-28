@@ -13,7 +13,6 @@
     * [Resume Builder ToolBuild an ATS-friendly resume for free.](https://www.jobscan.co/resume-builder)
     * [Resume Optimization ReportOptimize your resume for ATS to get more interviews.](https://www.jobscan.co/resume-scanner)
     * [Cover Letter GeneratorGenerate a personalized cover letter in seconds.](https://www.jobscan.co/cover-letter-generator)
-    * [Cover Letter Optimization ReportOptimize your cover letter to get more interviews.](https://www.jobscan.co/cover-letter-checker)
     * [Career Change ToolUpload your resume to discover your best next step.](https://www.jobscan.co/career-change)
     * [Product WalkthroughVideo walkthroughs of all Jobscan products.](https://www.jobscan.co/jobscan-tutorial)
     * [Scan Your Resume](https://www.jobscan.co/resume-scanner)
