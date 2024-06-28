@@ -1,9 +1,9 @@
-[![Larson Texts](/resources/themes/base-theme/images/LTI Logo RGB.svg)](https://www.larsontexts.com/)
+[![Larson Texts](/images/LTI Logo RGB.svg)](https://www.larsontexts.com/)
 
-* [About Us](https://www.larsontexts.com/about-us/)
-* [Products](https://www.larsontexts.com/products/)
-* [Careers](https://www.larsontexts.com/careers/)
-* [Contact Us](https://www.larsontexts.com/contact-us/)
+* [About Us](https://www.larsontexts.com/about-us)
+* [Products](https://www.larsontexts.com/products)
+* [Careers](https://www.larsontexts.com/careers)
+* [Contact Us](https://www.larsontexts.com/contact-us)
 
 Privacy Policy
 ==============
@@ -100,10 +100,10 @@ Erie, PA 16510
 [legal@larsontexts.com](mailto:legal@larsontexts.com)
 
 * [Home](https://www.larsontexts.com/)
-* [About Us](https://www.larsontexts.com/about-us/)
-* [Products](https://www.larsontexts.com/products/)
-* [Careers](https://www.larsontexts.com/careers/)
-* [Contact Us](https://www.larsontexts.com/contact-us/)
-* [Privacy Policy](https://www.larsontexts.com/privacy-policy/)
+* [About Us](https://www.larsontexts.com/about-us)
+* [Products](https://www.larsontexts.com/products)
+* [Careers](https://www.larsontexts.com/careers)
+* [Contact Us](https://www.larsontexts.com/contact-us)
+* [Privacy Policy](https://www.larsontexts.com/privacy-policy)
 
 © 2024 Larson Texts, Inc. All Rights Reserved.
