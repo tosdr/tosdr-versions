@@ -112,7 +112,7 @@ Partners
 
 [GreyNoise Partners](https://www.greynoise.io/partners)[Reseller Partners](https://www.greynoise.io/partners/reseller-partners)[Technical Alliances](https://www.greynoise.io/partners/technical-alliances)[OEM Partners](https://www.greynoise.io/partners/oem-partners)[MSSPs & MDRs](https://www.greynoise.io/partners/mssp-mdr)
 
-[Pricing](https://www.greynoise.io/pricing)[Blog](https://www.greynoise.io/blog)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
+[Pricing](https://www.greynoise.io/pricing)[Blog](https://www.greynoise.io/blog)[integrations](https://www.greynoise.io/integrations)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
 
 Search plans and pricing, blog posts, company info, and more.
 
