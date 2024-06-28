@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much for your understanding and co-operation. That's very professional and ethical of you.
+Thanks for your great service and for all.
 
-Paul Kube
+Michel Polanchet
