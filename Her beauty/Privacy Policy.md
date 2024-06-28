@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[A Dazzling Evolution of Jennifer Lopez Through the Years ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/5-5.jpg)](https://herbeauty.co/entertainment/a-dazzling-evolution-of-jennifer-lopez-through-the-years/) 
+
+[Taylor Swift Makes The British Royalty «Shake It Off» At Her London Show ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/1-5.jpeg)](https://herbeauty.co/entertainment/taylor-swift-makes-the-british-royalty-shake-it-off-at-her-london-show/) 
+
 [Kimberly Guilfoyle’s Most Controversial Fashion Fumbles ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/1-4-e1718800200720.jpeg)](https://herbeauty.co/fashion/kimberly-guilfoyle-s-most-controversial-fashion-fumbles/) 
-
-[Spring Onion Coffee – The Trend You Didn’t See Coming ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-1.webp)](https://herbeauty.co/foodtravel/spring-onion-coffee-the-trend-you-didn-t-see-coming/) 
-
-[Celebs Who Are No Longer Friends With Meghan Markle ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-5.jpg)](https://herbeauty.co/entertainment/celebs-who-are-no-longer-friends-with-meghan-markle/) 
 
 Advertisements
 
