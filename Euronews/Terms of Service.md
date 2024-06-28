@@ -11,64 +11,61 @@
 * [Latest](https://www.euronews.com/just-in)
     
     Trending
-    --------
     
     * [European elections 2024](https://www.euronews.com/tag/european-elections-2024)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
     * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-    * [Russia-Ukraine invasion](https://www.euronews.com/tag/russia-ukraine-invasion)
-    * [Marine Le Pen](https://www.euronews.com/tag/marine-le-pen)
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [Ukraine war](https://www.euronews.com/tag/war-in-ukraine)
+    * [2024 French legislative election](https://www.euronews.com/tag/2024-french-legislative-election)
+    * [UEFA Euro 2024](https://www.euronews.com/tag/uefa-euro-2024)
+    * [Benjamin Netanyahu](https://www.euronews.com/tag/benjamin-netanyahu)
     
     * * *
     
     Latest stories
-    --------------
     
-    [![Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024")
+    [![71% of consumers expect companies to deliver personalised interactions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "71% of consumers expect companies to deliver personalised interactions")
     
-    ![Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024](https://static.euronews.com/articles/stories/08/49/98/16/368x207_cmsv2_fd0a44bb-10f0-5f6b-b7d6-c33ac7b91af0-8499816.jpg "Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024")](https://www.euronews.com/2024/06/13/yemens-houthi-rebels-launch-boat-borne-bomb-attack-against-greek-owned-ship-in-red-sea)
-    
-    Now playing Next
-    
-    [World News](https://www.euronews.com/programs/world)
-    
-    ### [Yemen's Houthi rebels launch boat-borne bomb attack against Greek-owned ship in Red Sea](https://www.euronews.com/2024/06/13/yemens-houthi-rebels-launch-boat-borne-bomb-attack-against-greek-owned-ship-in-red-sea)
-    
-    [![Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.")
-    
-    ![Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.](https://static.euronews.com/articles/stories/08/49/98/60/368x207_cmsv2_c708155f-a195-5925-b560-f2aacf721078-8499860.jpg "Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.")](https://www.euronews.com/my-europe/2024/06/13/ecj-fines-hungary-with-200-million-over-extremely-serious-breach-of-eu-asylum-law)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [ECJ fines Hungary with €200 million over 'extremely serious' breach of EU asylum law](https://www.euronews.com/my-europe/2024/06/13/ecj-fines-hungary-with-200-million-over-extremely-serious-breach-of-eu-asylum-law)
-    
-    [![President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ")
-    
-    ![President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ](https://static.euronews.com/articles/stories/08/49/97/84/368x207_cmsv2_c10ebdfc-da9b-5799-aa85-ef94e26daf1c-8499784.jpg "President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ")](https://www.euronews.com/business/2024/06/13/g7-summit-opens-with-deal-to-use-russian-assets-for-ukraine)
+    ![71% of consumers expect companies to deliver personalised interactions](https://static.euronews.com/articles/stories/08/52/17/86/368x207_cmsv2_149b4fd5-4c70-567c-ad7a-3efb3acf82b5-8521786.jpg "71% of consumers expect companies to deliver personalised interactions")](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
     
     Now playing Next
     
     [Business](https://www.euronews.com/business/business)
     
-    ### [G7 summit opens with deal to use Russian assets for Ukraine](https://www.euronews.com/business/2024/06/13/g7-summit-opens-with-deal-to-use-russian-assets-for-ukraine)
+    ### [The rise of the ‘Me economy’](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
     
-    [![This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ")
+    [![Picasso artwork hanging in Mona gallery women's toilet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Picasso artwork hanging in Mona gallery women's toilet")
     
-    ![This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ](https://static.euronews.com/articles/stories/08/49/97/04/368x207_cmsv2_4fb8b837-027e-50c4-84d4-ccb3030b0fb9-8499704.jpg "This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ")](https://www.euronews.com/health/2024/06/13/past-covid-19-infection-may-protect-people-against-some-common-colds)
+    ![Picasso artwork hanging in Mona gallery women's toilet](https://static.euronews.com/articles/stories/08/52/56/12/368x207_cmsv2_f3a790a3-fd91-5af4-8f5a-9543bb4e2bb9-8525612.jpg "Picasso artwork hanging in Mona gallery women's toilet")](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
     
     Now playing Next
     
-    [Health news](https://www.euronews.com/health/health-news)
+    [Art](https://www.euronews.com/culture/art)
     
-    ### [Past COVID-19 infection may protect people against some common colds](https://www.euronews.com/health/2024/06/13/past-covid-19-infection-may-protect-people-against-some-common-colds)
+    ### [Tasmanian museum hangs Picassos in women's toilet](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
+    
+    [![EU foreign affairs ministers met on Monday in Luxembourg.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "EU foreign affairs ministers met on Monday in Luxembourg.")
+    
+    ![EU foreign affairs ministers met on Monday in Luxembourg.](https://static.euronews.com/articles/stories/08/52/49/38/368x207_cmsv2_01f6132f-d7f2-5383-adf7-1a02393a2e62-8524938.jpg "EU foreign affairs ministers met on Monday in Luxembourg.")](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [EU foreign ministers try to bypass Hungary's veto on Ukraine aid](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+    
+    [![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")
+    
+    ![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](https://static.euronews.com/articles/stories/08/52/54/32/368x207_cmsv2_87cd62be-c82d-5c4d-abe4-c4713909a4c7-8525432.jpg "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
+    
+    Now playing Next
+    
+    [South Korea](https://www.euronews.com/news/asia/south-korea)
+    
+    ### [Fire at South Korean lithium battery factory claims at least 16 lives](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
     
 * [Europe](https://www.euronews.com/my-europe)
     
     Categories
-    ----------
     
     * [Europe News](https://www.euronews.com/my-europe/europe-news)
     * [my europe Series](https://www.euronews.com/my-europe/my-europe-series)
@@ -78,7 +75,6 @@
     * * *
     
     Programmes
-    ----------
     
     * [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
     * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
@@ -91,11 +87,10 @@
     * * *
     
     Featured
-    --------
     
-    * [![Radio Schuman](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
         
-        ![Radio Schuman](https://static.euronews.com/articles/programs/featured-programs/featured-radio-schuman.jpg)
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-radio-schuman.jpg)
         
         Radio Schuman
         
@@ -104,7 +99,6 @@
 * [World](https://www.euronews.com/news)
     
     Categories
-    ----------
     
     * [World](https://www.euronews.com/news/international)
     * [Sport](https://www.euronews.com/news/sport)
@@ -112,7 +106,6 @@
     * * *
     
     Programmes
-    ----------
     
     * [The Global Conversation](https://www.euronews.com/programs/globalconversation)
     * [Spotlight](https://www.euronews.com/programs/spotlight)
@@ -126,11 +119,10 @@
     * * *
     
     Featured
-    --------
     
-    * [![No Comment](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
         
-        ![No Comment](https://static.euronews.com/articles/programs/featured-programs/featured-nocomment.jpg)
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-nocomment.jpg)
         
         No Comment
         
@@ -140,7 +132,6 @@
 * [Business](https://www.euronews.com/business)
     
     Categories
-    ----------
     
     * [Business](https://www.euronews.com/business/business)
     * [Economy](https://www.euronews.com/business/economy)
@@ -149,7 +140,6 @@
     * * *
     
     Programmes
-    ----------
     
     * [Business Line](https://www.euronews.com/business/business-series/business-line)
     * [Focus](https://www.euronews.com/business/business-series/focus)
@@ -162,11 +152,29 @@
     * [The Big Question](https://www.euronews.com/business/business-series/the-big-question)
     * [The Exchange](https://www.euronews.com/business/business-series/the-exchange)
     
+    * * *
+    
+    Featured
+    
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+        
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-my-wildest-prediction.jpg)
+        
+        My Wildest Prediction
+        
+        Dare to imagine the future with business and tech visionaries](https://www.euronews.com/business/business-series/my-wildest-prediction)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+        
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-the-big-question.jpg)
+        
+        The Big Question
+        
+        From entrepreneurs to world leaders and academics, we discuss what makes them tick and see the bigger picture of what’s going on in the world of business.](https://www.euronews.com/business/business-series/the-big-question)
+    
 * [Euroviews](https://www.euronews.com/tag/euroviews)
 * [Next](https://www.euronews.com/next)
     
     Categories
-    ----------
     
     * [Tech News](https://www.euronews.com/next/tech-news)
     * [Money](https://www.euronews.com/next/money)
@@ -178,7 +186,6 @@
     * * *
     
     Programmes
-    ----------
     
     * [Dub.AI](https://www.euronews.com/next/next-series/dubai)
     * [Euronews Tech Talks](https://www.euronews.com/next/next-series/euronews-tech-talks)
@@ -186,10 +193,21 @@
     * [Rethink](https://www.euronews.com/next/next-series/rethink)
     * [Sci-Tech](https://www.euronews.com/next/next-series/sci-tech)
     
+    * * *
+    
+    Featured
+    
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+        
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-euronews-tech-talks.jpg)
+        
+        Euronews Tech Talks
+        
+        Euronews Tech Talks goes beyond discussions to explore the impact of new technologies on our lives. With explanations, engaging Q&As, and lively conversations, the podcast provides valuable insights into the intersection of technology and society.](https://www.euronews.com/next/next-series/euronews-tech-talks)
+    
 * [Green](https://www.euronews.com/green)
     
     Categories
-    ----------
     
     * [Green News](https://www.euronews.com/green/green-news)
     * [Climate](https://www.euronews.com/green/climate)
@@ -200,17 +218,35 @@
     * * *
     
     Programmes
-    ----------
     
     * [Climate Now](https://www.euronews.com/green/green-series/climate-now)
     * [Ocean](https://www.euronews.com/green/green-series/ocean)
     * [Ocean Calls](https://www.euronews.com/green/climate/ocean-calls)
     * [The Road To Green](https://www.euronews.com/green/green-series/the-road-to-green)
+    * [Water Matters](https://www.euronews.com/green/green-series/water-matters)
+    
+    * * *
+    
+    Featured
+    
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+        
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-ocean.jpg)
+        
+        Ocean
+        
+        Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more. We also look at the policies and projects designed to protect our seas.](https://www.euronews.com/green/green-series/ocean)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+        
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-climate-now.jpg)
+        
+        Climate Now
+        
+        We give you the latest climate facts from the world’s leading source, analyse the trends and explain how our planet is changing. We meet the experts on the front line of climate change who explore new strategies to mitigate and adapt.](https://www.euronews.com/green/green-series/climate-now)
     
 * [Health](https://www.euronews.com/health)
     
     Categories
-    ----------
     
     * [Health news](https://www.euronews.com/health/health-news)
     * [Healthcare](https://www.euronews.com/health/healthcare)
@@ -220,27 +256,25 @@
     * * *
     
     Programmes
-    ----------
     
     * [Smart Health](https://www.euronews.com/health/health-series/smart-health)
     
 * [Culture](https://www.euronews.com/culture)
     
     Categories
-    ----------
     
     * [Culture news](https://www.euronews.com/culture/culture-news)
     * [Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
     * [Design](https://www.euronews.com/culture/design)
     * [Art](https://www.euronews.com/culture/art)
     * [Food and Drink](https://www.euronews.com/culture/food-and-drink)
+    * [Music](https://www.euronews.com/tag/music)
+    * [Cinema](https://www.euronews.com/tag/cinema)
     
     * * *
     
     Programmes
-    ----------
     
-    * [Cinema](https://www.euronews.com/culture/culture-series/cinema)
     * [Creators](https://www.euronews.com/culture/culture-series/creators)
     * [Crossing Cultures](https://www.euronews.com/culture/culture-series/crossing-cultures)
     * [Cry Like A Boy](https://www.euronews.com/culture/culture-series/cry-like-boy)
@@ -256,7 +290,6 @@
 * [Travel](https://www.euronews.com/travel)
     
     Categories
-    ----------
     
     * [Travel News](https://www.euronews.com/travel/travel-news)
     * [Destinations](https://www.euronews.com/travel/destinations)
@@ -267,11 +300,11 @@
     * * *
     
     Programmes
-    ----------
     
     * [Adventures](https://www.euronews.com/travel/travel-series/adventures)
     * [Conscious Travel](https://www.euronews.com/travel/travel-series/conscious-travel)
     * [Explore](https://www.euronews.com/travel/travel-series/explore)
+    * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
     * [Notes From The Usa](https://www.euronews.com/travel/travel-news/notes-from-the-usa)
     * [Soul Of The South](https://www.euronews.com/travel/travel-series/soul-of-the-south)
     * [Taste](https://www.euronews.com/travel/travel-series/taste)
@@ -281,19 +314,21 @@
 
 More
 
+Special coverage
+
+* [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+
 * * *
 
 Partner content
----------------
 
 * [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
+* [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
-* [All you want is Greece](https://www.euronews.com/partnercontent/gnto/all-you-want-is-greece/EN-index.html)
 * [Explore Kerala](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
-* [A Greener Future](https://www.euronews.com/partnercontent/panasonic/a-greener-future/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
@@ -306,70 +341,67 @@ Close menu sidebar
 [Latest](https://www.euronews.com/just-in)
 
 Trending
---------
 
 * [European elections 2024](https://www.euronews.com/tag/european-elections-2024)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
 * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-* [Russia-Ukraine invasion](https://www.euronews.com/tag/russia-ukraine-invasion)
-* [Marine Le Pen](https://www.euronews.com/tag/marine-le-pen)
-* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [Ukraine war](https://www.euronews.com/tag/war-in-ukraine)
+* [2024 French legislative election](https://www.euronews.com/tag/2024-french-legislative-election)
+* [UEFA Euro 2024](https://www.euronews.com/tag/uefa-euro-2024)
+* [Benjamin Netanyahu](https://www.euronews.com/tag/benjamin-netanyahu)
 
 * * *
 
 Latest stories
---------------
 
-[![Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024")
+[![71% of consumers expect companies to deliver personalised interactions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "71% of consumers expect companies to deliver personalised interactions")
 
-![Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024](https://static.euronews.com/articles/stories/08/49/98/16/368x207_cmsv2_fd0a44bb-10f0-5f6b-b7d6-c33ac7b91af0-8499816.jpg "Houthi supporters shout slogans as they raise machine-guns and during a rally against the U.S.-led strikes against Yemen in Sanaa, 17 May 2024")](https://www.euronews.com/2024/06/13/yemens-houthi-rebels-launch-boat-borne-bomb-attack-against-greek-owned-ship-in-red-sea)
-
-Now playing Next
-
-[World News](https://www.euronews.com/programs/world)
-
-### [Yemen's Houthi rebels launch boat-borne bomb attack against Greek-owned ship in Red Sea](https://www.euronews.com/2024/06/13/yemens-houthi-rebels-launch-boat-borne-bomb-attack-against-greek-owned-ship-in-red-sea)
-
-* * *
-
-[![Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.")
-
-![Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.](https://static.euronews.com/articles/stories/08/49/98/60/368x207_cmsv2_c708155f-a195-5925-b560-f2aacf721078-8499860.jpg "Hungarian Prime Minister Viktor Orban has embraced a hard-line stance on migration policy.")](https://www.euronews.com/my-europe/2024/06/13/ecj-fines-hungary-with-200-million-over-extremely-serious-breach-of-eu-asylum-law)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [ECJ fines Hungary with €200 million over 'extremely serious' breach of EU asylum law](https://www.euronews.com/my-europe/2024/06/13/ecj-fines-hungary-with-200-million-over-extremely-serious-breach-of-eu-asylum-law)
-
-* * *
-
-[![President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ")
-
-![President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ](https://static.euronews.com/articles/stories/08/49/97/84/368x207_cmsv2_c10ebdfc-da9b-5799-aa85-ef94e26daf1c-8499784.jpg "President Joe Biden arrives on Air Force One at Brindisi International Airport, Wednesday, June 12, 2024, in Brindisi, Italy. ")](https://www.euronews.com/business/2024/06/13/g7-summit-opens-with-deal-to-use-russian-assets-for-ukraine)
+![71% of consumers expect companies to deliver personalised interactions](https://static.euronews.com/articles/stories/08/52/17/86/368x207_cmsv2_149b4fd5-4c70-567c-ad7a-3efb3acf82b5-8521786.jpg "71% of consumers expect companies to deliver personalised interactions")](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
 
 Now playing Next
 
 [Business](https://www.euronews.com/business/business)
 
-### [G7 summit opens with deal to use Russian assets for Ukraine](https://www.euronews.com/business/2024/06/13/g7-summit-opens-with-deal-to-use-russian-assets-for-ukraine)
+### [The rise of the ‘Me economy’](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
 
 * * *
 
-[![This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ")
+[![Picasso artwork hanging in Mona gallery women's toilet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Picasso artwork hanging in Mona gallery women's toilet")
 
-![This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ](https://static.euronews.com/articles/stories/08/49/97/04/368x207_cmsv2_4fb8b837-027e-50c4-84d4-ccb3030b0fb9-8499704.jpg "This 2020 electron microscope image made available by the Centers for Disease Control and Prevention shows SARS-CoV-2 virus particles which cause COVID-19. ")](https://www.euronews.com/health/2024/06/13/past-covid-19-infection-may-protect-people-against-some-common-colds)
+![Picasso artwork hanging in Mona gallery women's toilet](https://static.euronews.com/articles/stories/08/52/56/12/368x207_cmsv2_f3a790a3-fd91-5af4-8f5a-9543bb4e2bb9-8525612.jpg "Picasso artwork hanging in Mona gallery women's toilet")](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
 
 Now playing Next
 
-[Health news](https://www.euronews.com/health/health-news)
+[Art](https://www.euronews.com/culture/art)
 
-### [Past COVID-19 infection may protect people against some common colds](https://www.euronews.com/health/2024/06/13/past-covid-19-infection-may-protect-people-against-some-common-colds)
+### [Tasmanian museum hangs Picassos in women's toilet](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
+
+* * *
+
+[![EU foreign affairs ministers met on Monday in Luxembourg.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "EU foreign affairs ministers met on Monday in Luxembourg.")
+
+![EU foreign affairs ministers met on Monday in Luxembourg.](https://static.euronews.com/articles/stories/08/52/49/38/368x207_cmsv2_01f6132f-d7f2-5383-adf7-1a02393a2e62-8524938.jpg "EU foreign affairs ministers met on Monday in Luxembourg.")](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+
+Now playing Next
+
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+
+### [EU foreign ministers try to bypass Hungary's veto on Ukraine aid](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+
+* * *
+
+[![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")
+
+![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](https://static.euronews.com/articles/stories/08/52/54/32/368x207_cmsv2_87cd62be-c82d-5c4d-abe4-c4713909a4c7-8525432.jpg "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
+
+Now playing Next
+
+[South Korea](https://www.euronews.com/news/asia/south-korea)
+
+### [Fire at South Korean lithium battery factory claims at least 16 lives](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
 
 [Europe](https://www.euronews.com/my-europe)
 
 Categories
-----------
 
 * [Europe News](https://www.euronews.com/my-europe/europe-news)
 * [my europe Series](https://www.euronews.com/my-europe/my-europe-series)
@@ -379,7 +411,6 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [Unreported Europe](https://www.euronews.com/my-europe/my-europe-series/unreported-europe)
 * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
@@ -392,11 +423,10 @@ Programmes
 * * *
 
 Featured
---------
 
-* [![Radio Schuman](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
     
-    ![Radio Schuman](https://static.euronews.com/articles/programs/featured-programs/featured-radio-schuman.jpg)
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-radio-schuman.jpg)
     
     Radio Schuman
     
@@ -405,7 +435,6 @@ Featured
 [World](https://www.euronews.com/news)
 
 Categories
-----------
 
 * [World](https://www.euronews.com/news/international)
 * [Sport](https://www.euronews.com/news/sport)
@@ -413,7 +442,6 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [The Global Conversation](https://www.euronews.com/programs/globalconversation)
 * [Spotlight](https://www.euronews.com/programs/spotlight)
@@ -427,11 +455,10 @@ Programmes
 * * *
 
 Featured
---------
 
-* [![No Comment](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
     
-    ![No Comment](https://static.euronews.com/articles/programs/featured-programs/featured-nocomment.jpg)
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-nocomment.jpg)
     
     No Comment
     
@@ -442,7 +469,6 @@ Featured
 [Business](https://www.euronews.com/business)
 
 Categories
-----------
 
 * [Business](https://www.euronews.com/business/business)
 * [Economy](https://www.euronews.com/business/economy)
@@ -451,7 +477,6 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [Business Line](https://www.euronews.com/business/business-series/business-line)
 * [Focus](https://www.euronews.com/business/business-series/focus)
@@ -464,12 +489,30 @@ Programmes
 * [The Big Question](https://www.euronews.com/business/business-series/the-big-question)
 * [The Exchange](https://www.euronews.com/business/business-series/the-exchange)
 
+* * *
+
+Featured
+
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-my-wildest-prediction.jpg)
+    
+    My Wildest Prediction
+    
+    Dare to imagine the future with business and tech visionaries](https://www.euronews.com/business/business-series/my-wildest-prediction)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-the-big-question.jpg)
+    
+    The Big Question
+    
+    From entrepreneurs to world leaders and academics, we discuss what makes them tick and see the bigger picture of what’s going on in the world of business.](https://www.euronews.com/business/business-series/the-big-question)
+
 [Euroviews](https://www.euronews.com/tag/euroviews)
 
 [Next](https://www.euronews.com/next)
 
 Categories
-----------
 
 * [Tech News](https://www.euronews.com/next/tech-news)
 * [Money](https://www.euronews.com/next/money)
@@ -481,7 +524,6 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [Dub.AI](https://www.euronews.com/next/next-series/dubai)
 * [Euronews Tech Talks](https://www.euronews.com/next/next-series/euronews-tech-talks)
@@ -489,10 +531,21 @@ Programmes
 * [Rethink](https://www.euronews.com/next/next-series/rethink)
 * [Sci-Tech](https://www.euronews.com/next/next-series/sci-tech)
 
+* * *
+
+Featured
+
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-euronews-tech-talks.jpg)
+    
+    Euronews Tech Talks
+    
+    Euronews Tech Talks goes beyond discussions to explore the impact of new technologies on our lives. With explanations, engaging Q&As, and lively conversations, the podcast provides valuable insights into the intersection of technology and society.](https://www.euronews.com/next/next-series/euronews-tech-talks)
+
 [Green](https://www.euronews.com/green)
 
 Categories
-----------
 
 * [Green News](https://www.euronews.com/green/green-news)
 * [Climate](https://www.euronews.com/green/climate)
@@ -503,17 +556,35 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [Climate Now](https://www.euronews.com/green/green-series/climate-now)
 * [Ocean](https://www.euronews.com/green/green-series/ocean)
 * [Ocean Calls](https://www.euronews.com/green/climate/ocean-calls)
 * [The Road To Green](https://www.euronews.com/green/green-series/the-road-to-green)
+* [Water Matters](https://www.euronews.com/green/green-series/water-matters)
+
+* * *
+
+Featured
+
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-ocean.jpg)
+    
+    Ocean
+    
+    Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more. We also look at the policies and projects designed to protect our seas.](https://www.euronews.com/green/green-series/ocean)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-climate-now.jpg)
+    
+    Climate Now
+    
+    We give you the latest climate facts from the world’s leading source, analyse the trends and explain how our planet is changing. We meet the experts on the front line of climate change who explore new strategies to mitigate and adapt.](https://www.euronews.com/green/green-series/climate-now)
 
 [Health](https://www.euronews.com/health)
 
 Categories
-----------
 
 * [Health news](https://www.euronews.com/health/health-news)
 * [Healthcare](https://www.euronews.com/health/healthcare)
@@ -523,27 +594,25 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [Smart Health](https://www.euronews.com/health/health-series/smart-health)
 
 [Culture](https://www.euronews.com/culture)
 
 Categories
-----------
 
 * [Culture news](https://www.euronews.com/culture/culture-news)
 * [Lifestyle](https://www.euronews.com/culture/culture-lifestyle)
 * [Design](https://www.euronews.com/culture/design)
 * [Art](https://www.euronews.com/culture/art)
 * [Food and Drink](https://www.euronews.com/culture/food-and-drink)
+* [Music](https://www.euronews.com/tag/music)
+* [Cinema](https://www.euronews.com/tag/cinema)
 
 * * *
 
 Programmes
-----------
 
-* [Cinema](https://www.euronews.com/culture/culture-series/cinema)
 * [Creators](https://www.euronews.com/culture/culture-series/creators)
 * [Crossing Cultures](https://www.euronews.com/culture/culture-series/crossing-cultures)
 * [Cry Like A Boy](https://www.euronews.com/culture/culture-series/cry-like-boy)
@@ -559,7 +628,6 @@ Programmes
 [Travel](https://www.euronews.com/travel)
 
 Categories
-----------
 
 * [Travel News](https://www.euronews.com/travel/travel-news)
 * [Destinations](https://www.euronews.com/travel/destinations)
@@ -570,11 +638,11 @@ Categories
 * * *
 
 Programmes
-----------
 
 * [Adventures](https://www.euronews.com/travel/travel-series/adventures)
 * [Conscious Travel](https://www.euronews.com/travel/travel-series/conscious-travel)
 * [Explore](https://www.euronews.com/travel/travel-series/explore)
+* [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
 * [Notes From The Usa](https://www.euronews.com/travel/travel-news/notes-from-the-usa)
 * [Soul Of The South](https://www.euronews.com/travel/travel-series/soul-of-the-south)
 * [Taste](https://www.euronews.com/travel/travel-series/taste)
@@ -584,19 +652,21 @@ Programmes
 
 More
 
+Special coverage
+
+* [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+
 * * *
 
 Partner content
----------------
 
 * [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
+* [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
-* [All you want is Greece](https://www.euronews.com/partnercontent/gnto/all-you-want-is-greece/EN-index.html)
 * [Explore Kerala](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
-* [A Greener Future](https://www.euronews.com/partnercontent/panasonic/a-greener-future/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
