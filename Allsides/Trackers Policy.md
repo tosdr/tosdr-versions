@@ -74,6 +74,11 @@ Balanced Search  Submit Search
     * [Job Openings](https://www.allsides.com/job-openings)
     * [Ownership Information](https://www.allsides.com/about/ownership)
     * [Contact Us](https://www.allsides.com/contact)
+* [Memberships](https://www.allsides.com/user/register)
+    * [Join](https://www.allsides.com/user/register)
+    * [Support Us](https://www.allsides.com/support)
+    * [Gift Memberships](https://www.allsides.com/gift)
+    * [Shop](https://www.allsides.com/shop)
 
 [](https://www.facebook.com/AllSidesNow "Like us on Facebook")[](https://twitter.com/AllSidesNow "Follow us on Twitter")[](https://www.instagram.com/allsidesnow/ "Follow us on Instagram")[](https://www.tiktok.com/@allsidesnow "Follow us on TikTok")[](https://www.allsides.com/news/rss "Follow our RSS News Feed")
 
