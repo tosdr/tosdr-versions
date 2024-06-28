@@ -71,7 +71,7 @@ Terms of Service
 
 IPQualityScore Terms and Conditions of Use
 
-_Last Revised August 18, 2023_  
+_Last Revised June 25, 2024_  
 
 1\. User's Acknowledgment and Acceptance of Terms
 
@@ -201,7 +201,7 @@ New users that sign up through an existing user's unique referral URL, known as 
 
 Clients using our service may provide IPQualityScore with transactional or user information, which may include IP addresses, names, email addresses, billing details, phone numbers, and similar user data. This information is processed through our services to detect behavioral intent and analyze the risk profile of transactions and users. This data is used to identify patterns of fraud within our system and improve your IPQS account's personal machine learning algorithms.
 
-With the exception of the IPQS opt-in fraudulent data sharing program (Fraud Fusion™), IPQualityScore will **NEVER** sell or make publicly available any of your account's customer data or transaction & user information that is processed with our APIs and risk analysis tools. Customer and user data shared with IPQualityScore will be kept confidential, secured, and stored with security practices beyond industry standards.
+With the exception of the IPQS opt-in fraudulent data sharing program (Fraud Fusion™), IPQualityScore does **NOT** sell your personal data or the personal data of your end users. Any data shared with IPQualityScore will be confidential, securely processed, and maintained in-line with industry security standards.
 
 19\. Fraud Fusion™ — Opt-In Fraudulent Data Sharing
 
