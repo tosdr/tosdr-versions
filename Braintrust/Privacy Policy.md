@@ -1,4 +1,4 @@
-[![Braintrust](https://www.usebraintrust.com/hubfs/Braintrust%20(1).svg "Braintrust")](https://www.usebraintrust.com/?hsLang=en)
+[![Braintrust](https://www.usebraintrust.com/hubfs/Braintrust%20(1).svg "Braintrust")](https://www.usebraintrust.com/)
 
 * [For Companies](https://www.usebraintrust.com/solutions) [ ] 
     * [Solutions](https://www.usebraintrust.com/solutions)
@@ -122,7 +122,7 @@ The information we collect also includes the Internet Protocol (“IP”) addres
   
 
 * **Cookies**: Like many websites, we and our marketing partners, affiliates, analytics, and service providers use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use both persistent cookies that remain on your computer or similar device (such as to save your registration ID and login password for future logins to the Service and to track your compliance with the Freelance Labs Terms of Service) and session ID cookies, which expire at the end of your browser session (for example, to enable certain features of the Service, to better understand how Freelance Labs Users interact with the Service and to monitor aggregate usage by Freelance Labs Users and web traffic routing on the Service). You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functionality of the Service.
-* For further information on cookies and how they are used for the Service, please visit our Cookie Policy at [http://www.usebraintrust.com/cookie-policy](https://www.usebraintrust.com/cookie-policy?hsLang=en).
+* For further information on cookies and how they are used for the Service, please visit our Cookie Policy at [http://www.usebraintrust.com/cookie-policy](https://www.usebraintrust.com/cookie-policy).
 * **Web Beacons**: We and our marketing partners, affiliates, analytics, and service providers may also employ software technology known as “web beacons” and/or “tracking tags” to help us keep track of what content on our Service is effective and to serve relevant advertising to you. Web beacons are small graphics with a unique identifier that may be invisible to you, and which are used to track the online activity of Internet users. Web beacons are embedded in the web pages you review or email messages you receive. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to our Service, to monitor how Freelance Labs Users navigate the Service, to count how many emails that were sent were actually opened, or to count how many particular articles or links were actually viewed.
 * **Embedded Scripts**: We and our marketing partners, affiliates, analytics, and service providers may also employ software technology known as an Embedded Script. An Embedded Script is programming code that is designed to collect information about your interactions with the Service, such as the links you click on. The code is temporarily downloaded onto your computer or other device and is deactivated or deleted when you disconnect from the Service.
 
@@ -378,7 +378,7 @@ Where we rely on your consent to collect Personal Information you may withdraw y
 For all GDPR-based requests made pursuant to this section, Freelance Labs will (a) respond as required under applicable law, (b) provide a copy of any requested Personal Information in a structured, commonly used and machine-readable format, and (c) transmit such Personal Information to another service provider without restriction in accordance with applicable law.  
   
 
-[![Braintrust](https://www.usebraintrust.com/hubfs/Braintrust%20(1).svg "Braintrust")](https://www.usebraintrust.com/?hsLang=en)
+[![Braintrust](https://www.usebraintrust.com/hubfs/Braintrust%20(1).svg "Braintrust")](https://www.usebraintrust.com/)
 
 Own it.
 
