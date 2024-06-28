@@ -1,8 +1,4 @@
-Shop the [Summer Security Sale](https://www.arlo.com/en-us/summer-security-sale "Father's Day Sale") and get up to $595 off best-sellers!
------------------------------------------------------------------------------------------------------------------------------------------
-
-Shopping made seamless. Free shipping on all orders $35 or more.
-----------------------------------------------------------------
+Shop [Top Deals](https://www.arlo.com/en-us/top-deals "Top Deals") and save up to $400 on best-sellers!
 
 [](# "Menu")
 
@@ -44,7 +40,7 @@ From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.ht
 Bundle Builder
 
 Build a security bundle  
-and save!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+& save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
 
 ### Cameras
 
@@ -58,9 +54,7 @@ Wireless Security Camera
 
 From $99.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-xl-v2.html)
 
-[SALE
-
-![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit)
+[![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit)
 
 Pro 5S 2K
 
@@ -170,7 +164,8 @@ From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.ht
 
 Bundle Builder
 
-Customize your security bundle and save](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+Build a security bundle  
+& save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
 
 [### Cameras](https://www.arlo.com/en-us/cameras "null")
 
@@ -184,9 +179,7 @@ Wireless Security Camera
 
 From $99.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-xl-v2.html)
 
-[SALE
-
-![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
+[![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
 
 Pro 5S 2K
 
@@ -310,7 +303,8 @@ Security Plans
             
             Bundle Builder
             
-            Customize your security bundle and save](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+            Build a security bundle  
+            & save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
             
         
     * [### Cameras](https://www.arlo.com/en-us/search?cgid=undefined "null")
@@ -329,9 +323,7 @@ Security Plans
             
             From $99.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-xl-v2.html)
             
-        * [SALE
-            
-            ![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
+        * [![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
             
             Pro 5S 2K
             
