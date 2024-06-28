@@ -1,4 +1,4 @@
-[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/old-home-2)
+[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/?r=0)
 
 [Solutions](https://www.imgix.com/solutions)
 
@@ -122,7 +122,7 @@ en
 
 NAVIGATION
 
-[Home](https://www.imgix.com/?r=0)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Developers](https://docs.imgix.com/)[Sign In](https://dashboard.imgix.com/sign-in)
+[Home](https://www.imgix.com/old-home-3)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Developers](https://docs.imgix.com/)[Sign In](https://dashboard.imgix.com/sign-in)
 
 Payment Policy
 ==============
@@ -164,7 +164,7 @@ Accounts that have been terminated, suspended, and canceled will no longer be bi
 
 ‍
 
-[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/old-home-2)
+[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/?r=0)
 
 © 2011 - 2024 imgix, Inc.
 
@@ -174,7 +174,7 @@ Accounts that have been terminated, suspended, and canceled will no longer be bi
 
 NAVIGATION
 
-[Home](https://www.imgix.com/old-home-2)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Why imgix?](https://www.imgix.com/why-imgix)
+[Home](https://www.imgix.com/?r=0)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Why imgix?](https://www.imgix.com/why-imgix)
 
 DEVELOPERS
 
