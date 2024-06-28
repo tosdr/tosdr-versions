@@ -1,4 +1,4 @@
-[![What's your question?](/static/logos/life123.com.svg)](https://www.life123.com/?ueid=AEF3B310-9BD2-46E3-96C9-11D22BF79D65&ad=dirN "What's your question?")
+[![What's your question?](/static/logos/life123.com.svg)](https://www.life123.com/?ueid=98863F7F-0FA9-4F77-9239-F67F32FA9D71&ad=dirN "What's your question?")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,8 +276,8 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.life123.com/privacy?ueid=AEF3B310-9BD2-46E3-96C9-11D22BF79D65&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.life123.com/terms?ueid=AEF3B310-9BD2-46E3-96C9-11D22BF79D65&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.life123.com/privacy?ueid=98863F7F-0FA9-4F77-9239-F67F32FA9D71&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.life123.com/terms?ueid=98863F7F-0FA9-4F77-9239-F67F32FA9D71&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
