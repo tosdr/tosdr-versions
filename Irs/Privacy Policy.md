@@ -383,20 +383,20 @@ IRS privacy policy
 
 ### More In Our Agency
 
-* [IRS Organization](https://www.irs.gov/about-irs/irs-organization "IRS Organization")
-* [A Closer Look](https://www.irs.gov/a-closer-look "A Closer Look")
-* [Financial and Budget Reports](https://www.irs.gov/about-irs/financial-and-budget-reports "Financial and Budget Reports")
-* [Tax Statistics](https://www.irs.gov/statistics "Tax Statistics")
-* [Do Business with the IRS](https://www.irs.gov/about-irs/procurement "Do Business with the IRS")
+* [IRS organization](https://www.irs.gov/about-irs/irs-organization "IRS organization")
+* [A closer look](https://www.irs.gov/a-closer-look "A closer look")
+* [Financial and budget reports](https://www.irs.gov/about-irs/financial-and-budget-reports "Financial and budget reports")
+* [Tax statistics](https://www.irs.gov/statistics "Tax statistics")
+* [Do business with the IRS](https://www.irs.gov/about-irs/procurement "Do business with the IRS")
 * [Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation "Criminal Investigation")
 * [Whistleblower Office](https://www.irs.gov/compliance/whistleblower-office "Whistleblower Office")
 * [Volunteer](https://www.irs.gov/individuals/irs-tax-volunteers "Volunteer")
 * [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information "Freedom of Information Act")
-* [Privacy Policy](https://www.irs.gov/privacy-disclosure/irs-privacy-policy "Privacy Policy")
+* [Privacy policy](https://www.irs.gov/privacy-disclosure/irs-privacy-policy "Privacy policy")
     * [Privacy Impact Assessment](https://www.irs.gov/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessment")
-    * [Safeguards Program](https://www.irs.gov/privacy-disclosure/safeguards-program "Safeguards Program")
-* [Civil Rights](https://www.irs.gov/about-irs/protecting-taxpayer-civil-rights "Civil Rights")
-* [Vulnerability Disclosure Policy](https://www.irs.gov/about-irs/vulnerability-disclosure-policy "Vulnerability Disclosure Policy")
+    * [Safeguards program](https://www.irs.gov/privacy-disclosure/safeguards-program "Safeguards program")
+* [Civil rights](https://www.irs.gov/about-irs/protecting-taxpayer-civil-rights "Civil rights")
+* [Vulnerability disclosure policy](https://www.irs.gov/about-irs/vulnerability-disclosure-policy "Vulnerability disclosure policy")
 
 Thank you for visiting the Internal Revenue Service's website, an official United States Government System, and reviewing our privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which might be used to identify you. The IRS uses this website to provide information about IRS services and programs. This website includes specific applications which provide more services or enable us to respond to specific questions from website visitors.
 
