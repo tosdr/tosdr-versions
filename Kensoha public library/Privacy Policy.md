@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1718975323463)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1719579776937)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -115,6 +115,7 @@ Search
     * [Staff Picks](https://mykpl.info/explore/?post-type=staff-list)
     * [KPL Blog](https://mykpl.info/blogs/)
     * [Award Winners](https://mykpl.bibliocommons.com/explore/awards)
+    * [KPL News](https://mykpl.info/news)
     * [Bestsellers](https://mykpl.bibliocommons.com/explore/bestsellers)
     * [Explore New Titles](https://mykpl.info/browse-new/)
     * [Favorite Authors Club](https://www.lakeshores.lib.wi.us/FavAuthors/kpl_fac)
@@ -193,6 +194,7 @@ Search
     * [Notary Public](https://rooms.mykpl.info/appointments/notary)
     * [Proctoring Information Call](https://rooms.mykpl.info/appointments/proctor)
     * [Technology Appointments](https://rooms.mykpl.info/appointments/tech)
+    * [Microsoft Certification Exams](https://rooms.mykpl.info/appointments/MicrosoftCertification)
     
 * [EventsEvents, collapsed](#events_menu)
     
@@ -527,7 +529,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp02 Version 4.20.0 Last updated 2024/06/12 09:17
+BiblioWeb: webapp07 Version 4.20.0 Last updated 2024/06/12 09:32
 
 [Back to Top](#top)
 
