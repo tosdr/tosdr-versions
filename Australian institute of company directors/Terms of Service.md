@@ -29,7 +29,6 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     
     [Board Advance](https://www.aicd.com.au/about-aicd/consulting.html) Open Sub Menu
     
-    * [Performance Assessment](https://www.aicd.com.au/about-aicd/consulting/board-advice.html)
     * [In-House Governance Development](https://www.aicd.com.au/about-aicd/consulting/in-house-governance.html)
     
     [Work at AICD](https://www.aicd.com.au/about-aicd/work-aicd.html) Open Sub Menu
