@@ -34,10 +34,10 @@
     * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin)
 * [Lernen & Wissen](https://www.blocktrainer.de/wissen)
     * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger)
+    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Mehr Wissen zu Bitcoin & Co.](https://www.blocktrainer.de/wissen/mehr-wissen-zu-bitcoin-co)
     * [Blocktrainer Podcast](https://www.blocktrainer.de/wissen/blocktrainer-podcast)
     * [Bitcoin-Bücher](https://www.blocktrainer.de/tools-services/bitcoin-buecher)
-    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen)
     * [Glossar](https://www.blocktrainer.de/wissen/glossar)
 * [Tools & Services](https://www.blocktrainer.de/tools-services)
@@ -563,7 +563,7 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
     * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/Blocktrainer_ABG_15042024.pdf "AGB")
 * ÜBER UNS
     * [Unser Gründer](https://www.blocktrainer.de/unser-gruender "Unser Gründer")
-    * [Unsere Autoren](https://www.blocktrainer.de/autoren "Unsere Autoren")
+    * [Unsere Autoren](https://www.blocktrainer.de/ueber-uns/unsere-autoren "Unsere Autoren")
     * [Brand](https://www.blocktrainer.de/brand "Brand")
 * UNTERSTÜTZEN
     * [Spenden](https://www.blocktrainer.de/unterstuetze-uns "Spenden")
@@ -584,5 +584,3 @@ SHAREURL
 Kopieren
 
 [](#)
-
-[![](/fileadmin/_processed_/9/0/csm_RelaiApp_768d3183b2.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
