@@ -17,7 +17,6 @@
         * [Succeeding at work](https://restless.co.uk/career-advice/getting-support-at-work/)
         * [Redundancy](https://restless.co.uk/redundancy/)
         * [Personal stories](https://restless.co.uk/career-advice/personal-stories/)
-        * [View all career advice](https://restless.co.uk/career-advice/)
     * [Self-employment opportunities](https://restless.co.uk/jobs/self-employment-franchise-opportunities/)
     * [For employers](https://restless.co.uk/for-businesses/employers/)
 * [Learn](https://restless.co.uk/courses/)
@@ -523,35 +522,11 @@ Where to travel abroad by month...
 New in travel
 -------------
 
-[![6 UK holidays with something for all the family](https://media.restless.co.uk/uploads/2024/06/uk-holidays-with-something-for-all-the-family-768x432.jpg)](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+[![10 of the most luxurious holiday destinations around the globe](https://media.restless.co.uk/uploads/2023/07/the-most-luxurious-holiday-destinations-around-the-globe-1-768x512.jpg)](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
 
-### [6 UK holidays with something for all the family](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+### [10 of the most luxurious holiday destinations around the globe](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
 
-[Read More »](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
-
-[![Exploring Italy's hidden gems - 8 must-see spots](https://media.restless.co.uk/uploads/2024/06/exploring-italys-hidden-gems-8-must-see-spots-768x398.jpg)](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
-
-### [Exploring Italy’s hidden gems – 8 must-see spots](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
-
-[Read More »](https://restless.co.uk/travel/exploring-italys-hidden-gems-must-see-spots/)
-
-[![10 of the best Cornwall hotels with sea views](https://media.restless.co.uk/uploads/2024/06/the-best-cornwall-hotels-with-sea-views-1-768x512.jpg)](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
-
-### [10 of the best Cornwall hotels with sea views](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
-
-[Read More »](https://restless.co.uk/travel/the-best-cornwall-hotels-with-sea-views/)
-
-[![20 best places to cruise month by month](https://media.restless.co.uk/uploads/2024/05/best-places-to-cruise-month-by-month-768x508.jpg)](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
-
-### [20 best places to cruise month by month](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
-
-[Read More »](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
-
-[![10 of the best destinations for an island hopping adventure](https://media.restless.co.uk/uploads/2024/05/the-best-destinations-for-an-island-hopping-adventure-768x288.jpg)](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/)
-
-### [10 of the best destinations for an island hopping adventure](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/) 
-
-[Read More »](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/)
+[Read More »](https://restless.co.uk/travel/most-luxurious-holiday-destinations-around-the-globe/)
 
 [![10 of the most popular travel destinations in 2024/25](https://media.restless.co.uk/uploads/2024/04/the-most-popular-travel-destinations-in-2024-25-e1712224038762-768x453.jpg)](https://restless.co.uk/travel/the-most-popular-holidays-in-2024/)
 
@@ -559,8 +534,38 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/the-most-popular-holidays-in-2024/)
 
+[![10 European tours that travel beyond the pages of the guidebook](https://media.restless.co.uk/uploads/2024/06/european-tours-that-travel-beyond-the-pages-of-the-guidebook-768x513.jpg)](https://restless.co.uk/travel/european-tours-that-travel-beyond-the-pages-of-the-guidebook/)
+
+### [10 European tours that travel beyond the pages of the guidebook](https://restless.co.uk/travel/european-tours-that-travel-beyond-the-pages-of-the-guidebook/)
+
+[Read More »](https://restless.co.uk/travel/european-tours-that-travel-beyond-the-pages-of-the-guidebook/)
+
+[![8 unbelievable places to visit in South America](https://media.restless.co.uk/uploads/2023/06/unbelievable-places-to-visit-in-south-america-768x495.jpg)](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
+
+### [8 unbelievable places to visit in South America](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
+
+[Read More »](https://restless.co.uk/travel/unbelievable-places-to-visit-in-south-america/)
+
+[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[![6 UK holidays with something for all the family](https://media.restless.co.uk/uploads/2024/06/uk-holidays-with-something-for-all-the-family-768x432.jpg)](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+
+### [6 UK holidays with something for all the family](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+
+[Read More »](https://restless.co.uk/travel/uk-holidays-with-something-for-all-the-family/)
+
 Popular travel guides
 ---------------------
+
+[![10 places with Viking connections to visit in the UK](https://media.restless.co.uk/uploads/2023/05/places-with-viking-connections-to-visit-in-the-uk-768x459.jpg)](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
+
+### [10 places with Viking connections to visit in the UK](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
+
+[Read More »](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
 
 [![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
@@ -597,12 +602,6 @@ Popular travel guides
 ### [10 World War II sites you can visit in Europe](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
 
 [Read More »](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
-
-[![10 places with Viking connections to visit in the UK](https://media.restless.co.uk/uploads/2023/05/places-with-viking-connections-to-visit-in-the-uk-768x459.jpg)](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
-
-### [10 places with Viking connections to visit in the UK](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
-
-[Read More »](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
 
 [![](https://media.restless.co.uk/uploads/2021/04/28_of_the_best_historical_sites_to_visit_in_the_uk_hero-768x512.jpg)](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
 
