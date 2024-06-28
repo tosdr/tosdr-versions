@@ -26,6 +26,7 @@
             * [Bazaarvoice affable.ai
                 
                 Unleash the incredible power of creator marketing.](https://www.bazaarvoice.com/products/bazaarvoice-affable-ai/)
+                * [Creator Marketing for Agencies](https://www.bazaarvoice.com/products/creator-marketing-services-agencies/)
     * [2nd](#)
         * [DRIVE CONVERSION](#)
             * [Ratings & Reviews
