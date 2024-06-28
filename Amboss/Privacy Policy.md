@@ -2,7 +2,7 @@
 
 Students
 
-[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)[Student Scores](https://www.amboss.com/us/usmle/scores)[Group Discounts](https://www.amboss.com/us/group-discounts)
+[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)[Student Scores](https://www.amboss.com/us/usmle/scores)
 
 [USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
 
@@ -298,8 +298,6 @@ Further information can be found in the provider's privacy policy at https://clo
 
 ‍
 
-‍
-
 **Datadog**
 
 On our website, we use the service Datadog of the company of the same name Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018, USA.
@@ -353,7 +351,21 @@ Further information is available in the Provider’s privacy policy at https://w
 
 We use the podcast hosting service Podigee of the provider Podigee GmbH, Schlesische Straße 20, 10997 Berlin, Germany. The podcasts are thereby loaded by Podigee or transmitted via Podigee. Podigee processes IP addresses and device information to enable podcast downloads/playbacks and to determine statistical data, such as retrieval figures. This data is anonymized or pseudonymized before being stored in Podigee’s database, unless it is necessary for the provision of the podcasts.
 
-Further information is available in the provider’s privacy policy at https://www.podigee.com/en/about/privacy.  
+Further information is available in the provider’s privacy policy at https://www.podigee.com/en/about/privacy.
+
+‍
+
+**ProductFruits**
+
+We use ProductFruits from the company Product Fruits s.r.o., Rozdělovská 1999/7, Břevnov, 169 00 Praha 6, Czech Republic.
+
+The legal basis for the processing is Art. 6 para. 1 s. 1 lit. f GDPR. Users cannot use the platform reliably without this functionality.
+
+The provider processes user data (email address, full name and role) on servers in the EU.
+
+We use ProductFruits as an onboarding  service which supports the onboarding  journey with platform tours, tooltips and checklists.
+
+Further information can be found in the provider's privacy policy at https://productfruits.com/policies/privacy.  
 ‍
 
 **Segment**
@@ -727,7 +739,7 @@ We reserve the right to change this privacy policy from time to time to reflect 
 
 AMBOSS
 
-[For Medical Students](https://www.amboss.com/us/students)[For Clinicians](https://www.amboss.com/us/clinicians)[For Institutions](https://www.amboss.com/us/institutions)[Platform Tour](https://www.amboss.com/us/tour)[Pricing](https://www.amboss.com/us/pricing)
+[For Medical Students](https://www.amboss.com/us/students)[For Clinicians](https://www.amboss.com/us/clinicians)[For Institutions](https://www.amboss.com/us/institutions)[Group Discounts](https://www.amboss.com/us/group-discounts)[Platform Tour](https://www.amboss.com/us/tour)[Pricing](https://www.amboss.com/us/pricing)
 
 Company
 
