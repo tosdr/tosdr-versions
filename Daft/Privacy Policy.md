@@ -58,7 +58,7 @@ Advertise My Property
 
 * [Overseas](https://publish.daft.ie/overseas/)
 
-[Home](https://publish.daft.ie/) / information **50,409** properties online (613 in the last 24 hours)
+[Home](https://publish.daft.ie/) / information **50,290** properties online (548 in the last 24 hours)
 
 [](https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F&t=Information)[](https://twitter.com/share?via=daftmedia&url=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F&text=Information)[](https://plus.google.com/share?url=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F)
 
