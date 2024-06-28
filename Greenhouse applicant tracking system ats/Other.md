@@ -132,7 +132,7 @@ Close mobile sub-navigation
     
     Learn how to bring skills-based hiring forward in 2024 – so you can make more effective, inclusive hiring decisions.
     
-    [Register now](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
+    [Watch on-demand](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
     
 
 [Request a demo](https://www.greenhouse.com/uk/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
@@ -240,7 +240,7 @@ Greenhouse additionally represents and warrants that it will perform any Profess
 
   
 
-be\_ixf;ym\_202406 d\_21; ct\_50
+be\_ixf;ym\_202406 d\_28; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/uk/professional-services-addendum
