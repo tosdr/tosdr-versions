@@ -117,7 +117,7 @@ Cookiepolitik
 
 ### Cookies og persondata
 
-#### Ejeroplysninger
+### Ejeroplysninger
 
 EUC Lillebælt
 
@@ -127,9 +127,9 @@ CVR 68501113
 
 Tlf. +45 7920 1111
 
-E-mail [\[email protected\]](https://www.eucl.dk/mailto:)
+E-mail [\[email protected\]](https://www.eucl.dk/cdn-cgi/l/email-protection)
 
-#### Cookies på vores website
+### Cookies på vores website
 
 Cookies er en lille tekstbesked, der typisk bliver lagt på din computer, når du bruger en internettjeneste. En cookie kan også lægges midlertidigt på din computer i forbindelse med en aktivitet på en tjeneste for så at blive slette igen, når du forlader tjenesten.
 
@@ -139,9 +139,9 @@ Cookies er en teknisk funktionalitet, så vi kan huske dine indstillinger.
 
 Cookies anvendes til trafikmåling, så vi ved hvor mange, der besøger vores site. Sådan kan vi dokumentere antal besøgende over for eventuelle annoncører og samarbejdspartnere.
 
-#### Google Analytics
+### Google Analytics
 
-Websitet bruger cookies fra Google Analytics til at måle trafikken på websitet. [Google Analytics](http://www.google.com/analytics/tos.html), der er en netanalyseservice leveret af Google, Inc. ("Google").
+Websitet bruger cookies fra Google Analytics til at måle trafikken på websitet. Google Analytics, der er en netanalyseservice leveret af Google, Inc. ("Google").
 
 Google Analytics bruger cookies for at hjælpe hjemmesiden med at analysere, hvordan brugeren anvender siden, hvor mange der besøger hjemmesiden samt hvilken hjemmeside du besøgte, inden du besøgte vores hjemmeside.
 
@@ -149,9 +149,9 @@ Vi bruger disse oplysninger til at udarbejde rapporter og forbedre hjemmesiden. 
 
 Ved at bruge EUC Lillebælts hjemmeside indvilger du i, at Google behandler data om dig på den måde og med det formål, der er anført ovenfor. Cookies fra Google Analytics opbevares i op til 12 måneder.
 
-Du kan fravælge cookies fra Google Analytics her: [Google Analytics Opt-out](http://tools.google.com/dlpage/gaoptout).
+Du kan fravælge cookies fra Google Analytics her: [Google Analytics Opt-out](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out").
 
-#### Brug af personoplysninger og sikkerhed
+### Brug af personoplysninger og sikkerhed
 
 Personoplysninger er alle slags informationer, der i et eller andet omfang kan henføres til dig. Både i forbindelse med at du benytter vores website, men også i forbindelse med dine henvendelser og tilmeldinger til uddannelse indsamler og behandler vi en række af sådanne informationer.
 
@@ -173,15 +173,17 @@ Videregivelse af personoplysninger vil kun ske, hvis du giver samtykke til det. 
 
 Vi har truffet tekniske og organisatoriske foranstaltninger mod, at dine oplysninger hændeligt eller ulovligt bliver slettet, offentliggjort, fortabt, forringet eller kommer til uvedkommendes kendskab, misbruges eller i øvrigt behandles i strid med lovgivningen.
 
-#### Periode for opbevaring
+### Periode for opbevaring
 
 Oplysningerne opbevares i det tidsrum, der er tilladt i henhold til lovgivningen, og vi sletter dem, når de ikke længere er nødvendige. Perioden afhænger af karakteren af oplysningen og baggrunden for opbevaring. Det er derfor ikke muligt at angive en generel tidsramme for, hvornår informationer slettes.
 
-#### Indsigt og klager
+### Indsigt og klager
 
 Hvis du ønsker adgang til de oplysninger, som er registreret om dig hos EUC Lillebælt, skal du rette henvendelse på [\[email protected\]](https://www.eucl.dk/cdn-cgi/l/email-protection). Er der registreret forkerte data, eller har du andre indsigelser, kan du rette henvendelse samme sted. Du har mulighed for at få indsigt i, hvilke informationer der er registreret om dig, og du kan gøre indsigelse mod en registrering i henhold til reglerne i Persondataloven.
 
-Hvis du vil klage over vores behandling af dine personoplysninger, har du også mulighed for at tage kontakt direkte til [Datatilsynet](http://www.datatilsynet.dk/).
+Hvis du vil klage over vores behandling af dine personoplysninger, har du også mulighed for at tage kontakt direkte til Datatilsynet.
+
+### Cookiepolitik
 
 [image/svg+xml](https://www.eucl.dk/ "Home")
 
