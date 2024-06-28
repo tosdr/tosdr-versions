@@ -110,23 +110,23 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 * No article
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
+[![Razer](https://i0.wp.com/saiganak.com/wp-content/uploads/2021/10/banner_razer_336x280bpx.jpg)](https://click.accesstra.de/go/YQnNS9EB)
 
-* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-    
-    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
 * [![Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/09/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel-00a-150x150.jpg "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
     
     Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!](https://saiganak.com/product/finalfantasyxiv-vogue-japan-collaboration-special-project-apparel/ "Collaborative Apparel from Final Fantasy XIV x VOGUE JAPAN Special Project Arrives!")
-* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
+* [![Red Bull's new flavor,  lychee flavored ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/07/redbull-blue-edition-00-150x150.jpg "Red Bull's new flavor,  lychee flavored ")
     
-    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
+    Red Bull's new flavor, lychee flavored "Red Bull Blue Edition"!](https://saiganak.com/review/redbull-blue-edition/ "Red Bull's new flavor,  lychee flavored ")
+* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
+    
+    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+    
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
     
     "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
-    
-    "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
 
 [](#top)
 
