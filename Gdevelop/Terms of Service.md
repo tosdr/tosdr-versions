@@ -318,13 +318,13 @@ Türkçe
 
 Join the community
 
-* [](https://forum.gdevelop.io/ "forums")
 * [](https://discord.gg/GDevelop "discord")
+* [](https://forum.gdevelop.io/ "forums")
 
 Stay tuned
 
+* [](https://www.reddit.com/r/gdevelop/ "reddit")
+* [](https://www.tiktok.com/@gdevelop "tiktok")
 * [](https://www.facebook.com/GDevelopApp "facebook")
 * [](https://www.instagram.com/gdevelopapp/ "instagram")
 * [](https://twitter.com/GDevelopApp "twitter")
-* [](https://www.reddit.com/r/gdevelop/ "reddit")
-* [](https://www.tiktok.com/@gdevelop "tiktok")
