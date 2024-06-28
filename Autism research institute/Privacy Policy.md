@@ -294,7 +294,7 @@ This is an non-necessary category.
 
 Save & Accept
 
-        
+     
 
 Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)
 
