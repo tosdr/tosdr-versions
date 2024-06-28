@@ -110,7 +110,7 @@ Toggle Navigation
 Website Privacy Policy
 ======================
 
-**Last updated:** February 5, 2024
+**Last updated:** June 20, 2024
 
 Forter, Ltd. and its affiliates (collectively, “**we**”, “**us**”, “**our**”, or “**Forter**”) are committed to protecting your privacy. This Privacy Policy describes what Personal Data (as defined below) we collect from you when you visit [www.forter.com](http://www.forter.com/) (the “**Website**”) or otherwise interact with us, how we use your Personal Data, who we share it with, certain rights you may have with respect to your Personal Data, and how to contact us about our privacy practices.
 
@@ -216,7 +216,7 @@ The table below describes the categories of Personal Data we have collected from
 | --- | --- |
 | **Categories of Personal Data Collected** | **Categories of Third Parties to Whom the Business Discloses Personal Information** |
 | Identifiers | * Affiliates <br>* Third Party Service Providers |
-| Marketing Information | * Affiliates <br>* Third Party Service Providers |
+| Marketing Information | * Affiliates <br>* Partners<br>* Third Party Service Providers |
 | Internet or Electronic Network Activity Information | * Affiliates <br>* Third Party Service Providers |
 
 #### **Transfer of your information**
