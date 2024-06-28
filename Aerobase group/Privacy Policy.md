@@ -200,36 +200,36 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
-* [Congress wants to restore nukes on conventional B-52 bombers](https://www.defensenews.com/air/2024/06/18/congress-wants-to-restore-nukes-on-conventional-b-52-bombers/)  
-    06/18/24 03:34pm  
+* [House shoots down amendment to cut F-35 purchase](https://www.defensenews.com/congress/budget/2024/06/27/house-shoots-down-amendment-to-cut-f-35-purchase/)  
+    06/27/24 02:44pm  
     
-    A B-52 Stratofortress assigned to the 2nd Bomb Wing at Barksdale Air Force Base, La., takes off in support of a Bomber Task Force mission from Navy Support Facility, Diego Garcia, March 26, 2024. Congress is moving to restore the ability to carry and release nuclear weapons from about 30 B-52s, which were converted to only carry conventional weapons as part of the New START treaty. (Master Sgt. Staci Kasischke/Air Force)
+    An F-35A fighter jet performs a strafing run during an even in Arizona on Oct. 26, 2023. Deliveries of the newest F-35s have been stalled for months due to software problems with a key upgrade known as Technology Refresh 3. (Airman 1st Class Katelynn Jackson/U.S. Air Force)
     
-* [How many F-35s to buy? Draft defense bills disagree](https://www.defensenews.com/air/2024/06/17/how-many-f-35s-to-buy-draft-defense-bills-disagree/)  
-    06/17/24 03:40pm  
+* [South Korea orders first batch of KF-21 fighters](https://www.defensenews.com/global/asia-pacific/2024/06/27/south-korea-orders-first-batch-of-kf-21-fighters/)  
+    06/27/24 10:43am  
     
-    Two F-35s from Hill Air Force Base, Utah, return to base after participating in a competition at the Savannah Air National Guard base in Savannah, Ga., on Sept. 15, 2023. (Senior Airman Zachary Rufus/U.S. Air Force)
+    The South Korean government and Korea Aerospace Industries have signed a contract for the first 20 KF-21 fighters for the country’s Air Force. (Gordon Arthur/Staff)
     
-* [No 30-year-old drone wingmen: US Air Force eyes regular CCA overhauls](https://www.defensenews.com/air/2024/06/15/no-30-year-old-drone-wingmen-us-air-force-eyes-regular-cca-overhauls/)  
-    06/14/24 11:49pm  
+* [Denmark to bring home F-35 jets from Arizona amid upgrade delays](https://www.defensenews.com/global/europe/2024/06/27/denmark-to-bring-home-f-35-jets-from-arizona-amid-upgrade-delays/)  
+    06/27/24 09:41am  
     
-    A conceptual design of low-cost, attritable drones serving as wingmen for a crewed fighter jet. (U.S. Air Force)
+    An F-35 fighter jet flies as it returns to Fighter Wing Skrydstrup air base of the Royal Danish Air Force (RDAF) after patrolling around Denmark at low altitude near Skrydstrup, Denmark on Oct. 1, 2023. (Photo by Bo Amstrup/Ritzau Scanpix/AFP via Getty Images)
     
-* [Romania launches expansion of air base near Ukraine](https://www.defensenews.com/global/europe/2024/06/13/romania-launches-expansion-of-air-base-near-ukraine/)  
-    06/13/24 04:50pm  
+* [Why the US Air Force should keep Next Generation Air Dominance alive](https://www.defensenews.com/opinion/2024/06/26/why-the-us-air-force-should-keep-next-generation-air-dominance-alive/)  
+    06/26/24 08:00am  
     
-    A Eurofighter Typhoon with the British Royal Air Force takes off at the Mihail Kogalniceanu Air Base in Romania. (Elisabeth Gosselin-Malo/Staff)
+    Concept art from the U.S. Air Force from 2018 shows a potential next-generation fighter concept. (U.S. Air Force Research Laboratory)
     
 
 Recent parts by keyword  
 
-* [AP4500](https://aerobasegroup.com/search/?term=AP4500)
-* [l43418](https://aerobasegroup.com/search/?term=l43418)
-* [33c](https://aerobasegroup.com/search/?term=33c)
-* [nasm970](https://aerobasegroup.com/search/?term=nasm970)
-* [ms24667-32](https://aerobasegroup.com/search/?term=ms24667-32)
-* [pr-1664d](https://aerobasegroup.com/search/?term=pr-1664d)
-* [kw205s-dp](https://aerobasegroup.com/search/?term=kw205s-dp)
+* [NSN:-84-550-1572](https://aerobasegroup.com/search/?term=NSN%3A+8455-01-572-7497)
+* [r1432](https://aerobasegroup.com/search/?term=r1432)
+* [NSN:-84-550-1647](https://aerobasegroup.com/search/?term=NSN%3A+8455-01-647-9810)
+* [MS9372](https://aerobasegroup.com/search/?term=MS9372)
+* [bacc14ad](https://aerobasegroup.com/search/?term=bacc14ad)
+* [NAS1672-5DL15](https://aerobasegroup.com/search/?term=NAS1672-5DL15)
+* [p5071-1-2.](https://aerobasegroup.com/search/?term=p5071-1-2.)
 
 The AeroBase Group Family ..
 
