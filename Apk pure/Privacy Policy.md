@@ -178,35 +178,35 @@ APKPure is committed to protecting consumer privacy online. We believe that grea
 
 WhatsApp Messenger
 
-7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
-
-TikTok
-
-8.2](https://apkpure.com/tiktok-musically-2024/com.zhiliaoapp.musically "TikTok")[![CapCut - Video Editor icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "CapCut - Video Editor")
-
-CapCut - Video Editor
-
-8.3](https://apkpure.com/capcut-for-android/com.lemon.lvoverseas "CapCut - Video Editor")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
+7.8](https://apkpure.com/whatsapp-android/com.whatsapp "WhatsApp Messenger")[![Instagram icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Instagram")
 
 Instagram
 
-6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![Free Fire icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire")
+6.4](https://apkpure.com/instagram-android/com.instagram.android "Instagram")[![TikTok icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "TikTok")
 
-Free Fire
+TikTok
 
-8.6](https://apkpure.com/garena-free-fire-android-2024/com.dts.freefireth "Free Fire")[![Roblox icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Roblox")
+8.2](https://apkpure.com/tiktok-musically-2024/com.zhiliaoapp.musically "TikTok")[![YouTube icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "YouTube")
 
-Roblox
+YouTube
 
-8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
+7.7](https://apkpure.com/youtube/com.google.android.youtube "YouTube")[![Free Fire: 7th Anniversary icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire: 7th Anniversary")
+
+Free Fire: 7th Anniversary
+
+8.6](https://apkpure.com/garena-free-fire-android-2024/com.dts.freefireth "Free Fire: 7th Anniversary")[![Free Fire MAX icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Free Fire MAX")
 
 Free Fire MAX
 
-8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![eFootball 2024 icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "eFootball 2024")
+8.7](https://apkpure.com/free-fire-max-android/com.dts.freefiremax "Free Fire MAX")[![Brawl Stars icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Brawl Stars")
 
-eFootball 2024
+Brawl Stars
 
-8.6](https://apkpure.com/efootball-2024-mobile-android/jp.konami.pesam "eFootball 2024")
+8.0](https://apkpure.com/brawl-stars-android/com.supercell.brawlstars "Brawl Stars")[![Roblox icon](https://static.apkpure.com/mobile/static/imgs/lazy.png "Roblox")
+
+Roblox
+
+8.1](https://apkpure.com/roblox-android/com.roblox.client "Roblox")
 
 ![APKPure](https://static.apkpure.com/www/static/imgs/logo_new.png)
 
@@ -272,7 +272,7 @@ EN
 * WhatsApp
 * More
 
-                    
+                     
 
 Subscribe to APKPure
 
