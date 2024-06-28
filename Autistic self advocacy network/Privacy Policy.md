@@ -10,7 +10,9 @@ Results
 
 See all results
 
-[![Autistic Self Advocacy Network](https://autisticadvocacy.org/wp-content/uploads/elementor/thumbs/ASAN-logo-sm-pkkav3p0lhtl5pji4glo1k7t2fj415qpycass565cw.png "ASAN-logo-sm")](https://autisticadvocacy.org/)
+[![Autistic Self Advocacy Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%2080'%3E%3C/svg%3E "ASAN-logo-sm")
+
+![Autistic Self Advocacy Network](https://autisticadvocacy.org/wp-content/uploads/elementor/thumbs/ASAN-logo-sm-pkkav3p0lhtl5pji4glo1k7t2fj415qpycass565cw.png "ASAN-logo-sm")](https://autisticadvocacy.org/)
 
 * [About](https://autisticadvocacy.org/about-asan/)
     * [About ASAN](https://autisticadvocacy.org/about-asan/)
