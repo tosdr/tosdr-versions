@@ -79,7 +79,7 @@ Accept All Reject All Show Purposes
     * [Best Credit Cards](https://www.investopedia.com/best-credit-cards-4801582)
     * [View All](https://www.investopedia.com/financial-product-reviews-7110783)
 
-[Trade](https://www.investopedia.com/simulator/?inv_to_sim=global_nav)
+[Live](https://www.investopedia.com/dow-jones-today-06282024-8671059)
 
 * Search  Search
     
