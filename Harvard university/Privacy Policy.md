@@ -23,8 +23,8 @@ Menu
         
         **Degree programs** Browse all of our undergraduate concentrations and graduate degrees.
         
-        1. [**Undergraduate Degrees**](https://www.harvard.edu/programs/?degree_levels=undergraduate)
-        2. [**Graduate Degrees**](https://www.harvard.edu/programs/?degree_levels=graduate)
+        1. [**Undergraduate Degrees**](https://www.harvard.edu//programs/?degree_levels=undergraduate)
+        2. [**Graduate Degrees**](https://www.harvard.edu//programs/?degree_levels=graduate)
         3. [**Other**](https://www.harvard.edu/academics/professional-and-lifelong-learning/)
         
     2. [Professional and Lifelong Learning](https://www.harvard.edu/academics/professional-and-lifelong-learning/)
@@ -124,7 +124,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Physical Fitness
+    1. The Senses
+        
+        In Focus
+        
+        **The Senses** Our senses help us experience the world around us. Harvard researchers are working to understand, improve, and replicate these sensory organs. [Feed your sense of curiosity](https://www.harvard.edu/in-focus/the-senses/)
+        
+        1. **What's inside**
+            1. [**Read Harvard Medical School's exploration of our senses**](https://magazine.hms.harvard.edu/issues/senses)
+            2. [**Learn the science behind why we itch**](https://news.harvard.edu/gazette/story/2023/11/researchers-identify-whats-behind-that-urge-to-scratch/)
+        
+    2. Physical Fitness
         
         In Focus
         
@@ -134,25 +144,15 @@ Menu
             1. [**Explore different types of exercise**](https://www.hsph.harvard.edu/nutritionsource/staying-active/)
             2. [**Learn how short bursts can make a big difference**](https://news.harvard.edu/gazette/story/2020/11/12-minute-bursts-of-exercise-have-bigger-impact-than-thought/)
         
-    2. Commencement 2024
+    3. Commencement 2024
         
         In Focus
         
         **Celebrating the Class of 2024** Join the celebration for Harvard University’s 373rd Commencement and explore the amazing scholarship of our graduates. [Explore the ceremony and our graduates](https://www.harvard.edu/in-focus/commencement-2024/)
         
         1. **What's inside?**
-            1. [**Meet the Class of 2024**](https://www.harvard.edu/in-focus/commencement-2024/graduate-profiles/)
+            1. [**Meet the Class of 2024**](https://www.harvard.edu//in-focus/commencement-2024/graduate-profiles/)
             2. [**Learn about Commencement speaker Maria Ressa**](https://news.harvard.edu/gazette/story/2024/03/maria-ressa-named-2024-commencement-speaker/)
-        
-    3. Climate Solutions
-        
-        In Focus
-        
-        **Climate Solutions** Faculty and students from across the Harvard community are working on ways to address climate change and its effects. [Explore the solutions](https://www.harvard.edu/in-focus/climate-solutions/)
-        
-        1. **What's inside?**
-            1. [**Tracking methane from space**](https://seas.harvard.edu/news/2024/03/cutting-edge-methane-monitor)
-            2. [**The "Harvard Thinking" podcast explores climate change**](https://news.harvard.edu/gazette/story/2024/03/climate-alignment-is-no-easy-task/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
@@ -189,7 +189,7 @@ Menu
         
         [Learn about our Leadership](https://www.harvard.edu/about/leadership-and-governance/)
         
-        1. [**President**](https://www.harvard.edu/president/)
+        1. [**President**](https://www.harvard.edu//president/)
         2. [**Officers and Deans**](https://www.harvard.edu/about/leadership-and-governance/officers-and-deans/)
         3. [**Harvard Corporation**](https://www.harvard.edu/about/leadership-and-governance/harvard-corporation/)
         4. [**Board of Overseers**](https://www.harvard.edu/about/leadership-and-governance/board-of-overseers/)
@@ -212,8 +212,8 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Finding right mix on campus speech policies** Legal, political scholars discuss balancing personal safety, constitutional rights, academic freedom amid roiling protests, cultural shifts](https://news.harvard.edu/gazette/story/2023/12/finding-right-mix-on-campus-speech-policies/)
-        2. [**College sees strong yield for students accepted to Class of 2028**   Financial aid was a critical factor, dean says](https://news.harvard.edu/gazette/story/2024/06/college-sees-strong-yield-for-students-accepted-to-class-of-2028/)
+        1. [**College sees strong yield for students accepted to Class of 2028**   Financial aid was a critical factor, dean says](https://news.harvard.edu/gazette/story/2024/06/college-sees-strong-yield-for-students-accepted-to-class-of-2028/)
+        2. [**When your meet-cute happens at T.H. Chan** She worked for Pfizer in Turkey; he was neurosurgery resident in Canada. And graduation and wedding are not far off.](https://news.harvard.edu/gazette/story/2024/05/when-your-meet-cute-involves-t-h-chan/)
         3. [**Good genes are nice, but joy is better** Harvard study, almost 80 years old, has proved that embracing community helps us live longer, and be happier](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
@@ -236,12 +236,12 @@ Close
 Privacy statement
 =================
 
-This Privacy Policy discloses the privacy practices for www.harvard.edu, the main Harvard University website. Please note that Harvard Schools, Centers, and other Harvard units and affiliates have separate privacy policies. By using this website, you are consenting to our collection and use of information in accordance with this Privacy Policy.
+This Privacy Policy discloses the privacy practices for Harvard.edu, the main Harvard University website. Please note that Harvard Schools, Centers, and other Harvard units and affiliates have separate privacy policies. By using this website, you are consenting to our collection and use of information in accordance with this Privacy Policy.
 
 What information do we gather about you?
 ----------------------------------------
 
-We and our third-party vendors collect certain information regarding your use of www.harvard.edu, such as your IP address and browser type. Your session and the pages you visit on www.harvard.edu will be tracked, but you will remain anonymous. We may use your IP address to identify the general geographic area from which you are accessing Harvard.edu. We connect data from different systems but do not link IP addresses to any personal information. We may also collect other information as described in this policy.
+We and our third-party vendors collect certain information regarding your use of harvard-edu.go-vip.net, such as your IP address and browser type. Your session and the pages you visit on harvard-edu.go-vip.net will be tracked, but you will remain anonymous. We may use your IP address to identify the general geographic area from which you are accessing Harvard.edu. We connect data from different systems but do not link IP addresses to any personal information. We may also collect other information as described in this policy.
 
 What do we use your information for?
 ------------------------------------
@@ -267,7 +267,7 @@ Other websites and cookies
 
 This website may contain links to other websites. We are not responsible for the privacy practices or the content of such websites.
 
-Cookies may be set by parties other than us. These “third-party cookies” may, for example, originate from websites such as YouTube, Twitter, Facebook, Soundcloud, or other social media services for which www.harvard.edu has implemented “plug-ins.” Since the cookie policies of these sites change over time, you should determine their policies by visiting the privacy policy pages of these sites directly.
+Cookies may be set by parties other than us. These “third-party cookies” may, for example, originate from websites such as YouTube, Twitter, Facebook, Soundcloud, or other social media services for which harvard-edu.go-vip.net has implemented “plug-ins.” Since the cookie policies of these sites change over time, you should determine their policies by visiting the privacy policy pages of these sites directly.
 
 Information protection
 ----------------------
