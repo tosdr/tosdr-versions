@@ -210,7 +210,7 @@ Offers
 
 Download Endel
 
-[Endel for iOS](https://endel.onelink.me/F2N2/smas09eb)[Endel for Android](https://app.adjust.com/k6zu6cr)[Endel for Alexa](https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.a86f9bfb-0fa8-4d4e-b0e0-c00bd0e91dff/launch?ref_=pe_27882620_592021400_pe_sub_aucc_pace_en_us_endel)[Endel for Mac](https://apps.apple.com/de/app/endel-focus-sleep-relax/id1346247457)
+[Endel for iOS](https://endel.onelink.me/F2N2/smas09eb)[Endel for Android](https://app.adjust.com/k6zu6cr)[Endel for Alexa](https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.a86f9bfb-0fa8-4d4e-b0e0-c00bd0e91dff/launch?ref_=pe_27882620_592021400_pe_sub_aucc_pace_en_us_endel)[Endel for Mac](https://apps.apple.com/de/app/endel-focus-sleep-relax/id1346247457)[Endel for Web](https://endel.io/player)
 
 ### Endel Newsletter
 
