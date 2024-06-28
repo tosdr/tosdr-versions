@@ -531,11 +531,3 @@ Please keep in mind that, without cookies, you may not have access to certain fe
 **Privacy Policy.** Please review our [privacy policy](#privacypolicy) for additional details about how we collect, use, and disclose information in connection with our Sites, including personal information obtained from cookies.
 
 **Contact.** If you have any questions about our use of cookies, please use our [feedback](https://www.kayak.com/feedback/form) form.
-
-[Top International Flight Routes](https://www.kayak.com/Top-Flight-Routes.tfr.html).
-
-Cheap flights, [hotels](https://www.kayak.com/hotels), rental cars and travel deals:
-
-KAYAK searches hundreds of other travel sites at once to find the best deals on airline tickets, cheap hotels, cheap cruises, vacations and rental cars.
-
-Not what you’re looking for? Find thousands of other [hotels](https://www.kayak.com/stays), [flights](https://www.kayak.com/flights), [car rentals](https://www.kayak.com/cars) and [package deals](https://www.kayak.com/packages) with KAYAK.
