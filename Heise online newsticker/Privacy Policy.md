@@ -1,6 +1,6 @@
 [heise online Logo](https://www.heise.de/ "heise online")
 
-[](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")
+[](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")[Gratis testen Jetzt 1 Monat gratis testen](https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000028_21806_3_57&wt_mc=intern.abo.plus.hp_nk.navilink.desktop1.desktop1)
 
  [![heise kennenlernen](/icons/ho/heise96_light.svg) ![heise kennenlernen](/icons/ho/heise96_dark.svg)](https://www.heisegroup.de/ "heise kennenlernen")
 
@@ -39,7 +39,7 @@ Services
 * [Stellenmarkt](https://jobs.heise.de/ "heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche")
 * [heise academy](https://heise-academy.de/ "heise academy - Weiterbildung für IT-Profis von heise medien")
 * [heise Download](https://www.heise.de/download/ "heise Download – Software zum Download für Windows, Mac, Linux, iPhone, Symbian, Android")
-* [Preisvergleich](https://www.heise.de/preisvergleich/ "Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
+* [heise preisvergleich](https://preisvergleich.heise.de/ "heise preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
 * [Tarifrechner](https://www.heise.de/tarifrechner "Tarifrechner")
 * [heise compaliate](https://compaliate.heise.de/ "heise compaliate – Entdecke die heise Affiliate Plattform")
 * [Abo bestellen](https://shop.heise.de/zeitschriften-abo/ "Abo – c't, iX, c't Fotografie, Mac & i, Make")
@@ -120,7 +120,7 @@ Services
 * [Stellenmarkt](https://jobs.heise.de/ "heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche")
 * [heise academy](https://heise-academy.de/ "heise academy - Weiterbildung für IT-Profis von heise medien")
 * [heise Download](https://www.heise.de/download/ "heise Download – Software zum Download für Windows, Mac, Linux, iPhone, Symbian, Android")
-* [Preisvergleich](https://www.heise.de/preisvergleich/ "Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
+* [heise preisvergleich](https://preisvergleich.heise.de/ "heise preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
 * [Tarifrechner](https://www.heise.de/tarifrechner "Tarifrechner")
 * [heise compaliate](https://compaliate.heise.de/ "heise compaliate – Entdecke die heise Affiliate Plattform")
 * [Abo bestellen](https://shop.heise.de/zeitschriften-abo/ "Abo – c't, iX, c't Fotografie, Mac & i, Make")
@@ -801,7 +801,7 @@ Services
 * [Stellenmarkt](https://jobs.heise.de/ "heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche")
 * [heise academy](https://heise-academy.de/ "heise academy - Weiterbildung für IT-Profis von heise medien")
 * [heise Download](https://www.heise.de/download/ "heise Download – Software zum Download für Windows, Mac, Linux, iPhone, Symbian, Android")
-* [Preisvergleich](https://www.heise.de/preisvergleich/ "Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
+* [heise preisvergleich](https://preisvergleich.heise.de/ "heise preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten")
 * [Tarifrechner](https://www.heise.de/tarifrechner "Tarifrechner")
 * [heise compaliate](https://compaliate.heise.de/ "heise compaliate – Entdecke die heise Affiliate Plattform")
 * [Abo bestellen](https://shop.heise.de/zeitschriften-abo/ "Abo – c't, iX, c't Fotografie, Mac & i, Make")
