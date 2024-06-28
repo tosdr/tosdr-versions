@@ -1,6 +1,6 @@
 [![Bausch Health](/siteassets/img/logo-319x31-bausch-health.svg)](https://www.bauschhealth.com/ "Bausch Health")
 
-* [About Us](https://www.bauschhealth.com/about-us/)
+* [About Us](https://www.bauschhealth.com/about-us)
     * [Who We Are](https://www.bauschhealth.com/about-us/who-we-are/)
     * [Our Ambition, Purpose, & Values](https://www.bauschhealth.com/about-us/our-ambition-purpose-and-values/)
     * [Executive Leadership Team](https://www.bauschhealth.com/about-us/executive-leadership-team/)
@@ -41,7 +41,7 @@
 * [Investors](https://ir.bauschhealth.com/)
 * [NewsRoom](https://www.bauschhealth.com/news-room/)
     * [News Releases](https://www.bauschhealth.com/news-room/news-releases/)
-* [Careers](https://www.bauschhealth.com/careers/)
+* [Careers](https://www.bauschhealth.com/careers)
     * [Working at Bausch Health](https://www.bauschhealth.com/careers/working-at-bausch-health/)
     * [Benefits](https://www.bauschhealth.com/careers/benefits/)
     * [Our U.S. Businesses](https://www.bauschhealth.com/careers/our-u-s-businesses/)
