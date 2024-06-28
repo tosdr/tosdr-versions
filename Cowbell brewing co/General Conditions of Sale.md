@@ -16,7 +16,7 @@
         [DINE](https://cowbellbrewing.com/pages/dine-with-us)
         
     * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Menu-CowbellKitchen-8_5x14-240515-v1F.pdf?v=1715731730)
-    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage-Cowbell-4_25x14-240515-v1F.pdf?v=1715732054)
+    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage_Menu_Summer_2024.pdf?v=1719506693)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Daily_Specials_Generic.pdf?v=1704735570)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
@@ -58,7 +58,7 @@ Menu [🛒 CART](https://cowbellbrewing.com/cart) $0.00 Check out
     * [Tours](https://cowbellbrewing.com/pages/visit-us)
 * [DINE](https://cowbellbrewing.com/pages/dine-with-us)
     * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Menu-CowbellKitchen-8_5x14-240515-v1F.pdf?v=1715731730)
-    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage-Cowbell-4_25x14-240515-v1F.pdf?v=1715732054)
+    * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Beverage_Menu_Summer_2024.pdf?v=1719506693)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Daily_Specials_Generic.pdf?v=1704735570)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
 * [BOOK A GROUP](https://cowbellbrewing.com/pages/book-a-group)
