@@ -1,4 +1,4 @@
-[![Most Popular Books of 2024 So Far](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1717004255i/411.jpg)](https://www.goodreads.com/blog/show/2782-readers-hit-new-books-of-the-year-so-far?ref=SRHitBooks24_eb)
+[![Readers' Most Anticipated Books for Summer 2024](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1714676956i/399.jpg)](https://www.goodreads.com/blog/show/2751?ref=BigBooksSummer24_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
