@@ -30,7 +30,6 @@ Bob Barker Company uses cookies and other similar technologies. By using this we
         * [Kits](https://www.bobbarker.com/health-personal-care/kits)
         * [Health Care](https://www.bobbarker.com/health-personal-care/health-care)
         * [Gloves](https://www.bobbarker.com/health-personal-care/gloves)
-        * [Resident Safety](https://www.bobbarker.com/health-personal-care/resident-safety)
 * [Mattresses & Linens](https://www.bobbarker.com/mattresses-linens)
     * * [Mattresses](https://www.bobbarker.com/mattresses-linens/mattresses)
         * [Pillows](https://www.bobbarker.com/mattresses-linens/pillows)
