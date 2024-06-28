@@ -530,11 +530,11 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: d81b9e741faedb25
+rc: 4132027249d5a5d9
 
-vid: 5264da90-3021-11ef-8f64-5934b5677d0f
+vid: 736f0320-3547-11ef-b7b7-6f92cb9e6997
 
-version: 1.1.0-rc-20240617-1.91665
+version: 1.1.0-rc-20240626.91973
 
 +
 
