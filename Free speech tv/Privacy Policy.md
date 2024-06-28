@@ -324,3 +324,13 @@ This Privacy Policy is effective as of March 1, 2024.
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
+
+Last Chance!
+
+Our Fiscal Year ends Sunday.
+
+**Help close the gap before it’s too late.**
+
+[Make a year-end gift now.](https://freespeech.org/donate-all/)
+
+×
