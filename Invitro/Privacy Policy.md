@@ -6,8 +6,6 @@
 
 в установленном приложении](viber://pa?chatURI=invitrorussia)[Cкачать приложение Viber](https://www.viber.com/ru/download/)
 
-загрузка
-
 [Версия для слабовидящих](# "Версия сайта для слабовидящих")
 
 Ru
@@ -16,15 +14,11 @@ Ru
 
 ![Медицинская компания ИНВИТРО](/local/templates/invitro_main/src/image/elements/main-logo.svg)![logo](/local/templates/invitro_main/src/image/elements/monitoring.svg)
 
-загрузка
-
 Да, верно [Выбрать другой](#selectBasketCity)
 
 От выбранного города зависят цены и способы оплаты.
 
 Анализы Искать везде Медицинские услуги В комплексных обследованиях Запись к врачу В библиотеке Новости
-
-загрузка
 
 [Корзина пуста
 
