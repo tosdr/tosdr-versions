@@ -11,7 +11,6 @@ Search
 * [Home](https://www.amateur8.com/)
 * [Latest](https://www.amateur8.com/latest-updates/)
 * [Most Viewed](https://www.amateur8.com/most-popular/)
-* [Albums](https://www.amateur8.com/albums/)
 * [Categories](https://www.amateur8.com/categories/)
 * [Community](https://www.amateur8.com/members/)
 * Login / Upload
