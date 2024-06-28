@@ -292,8 +292,8 @@ _You may also have a right to submit a complaint to a supervisory authority for 
 Footer - Subfooter
 ------------------
 
-* [Privacy and Cookies Policies](https://intl.sonypictures.com/en/privacy-policy)
-* [Terms of Use](https://intl.sonypictures.com/en/terms-of-use)
+* [Privacy and Cookies Policies](https://intl.sonypictures.com/index.php/en/privacy-policy)
+* [Terms of Use](https://intl.sonypictures.com/index.php/en/terms-of-use)
 * Cookie Consent Tool
 
 © 2024 Sony Pictures Entertainment Inc. All Rights Reserved.
