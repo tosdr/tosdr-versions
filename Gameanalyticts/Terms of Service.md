@@ -1,7 +1,3 @@
-💰\[NEW\] Monetization Overview - powered by Xsolla: Compare, analyze and optimize your revenue streams - all from one place
-
-[Learn more](https://gameanalytics.com/xsolla) [Show me](https://tool.gameanalytics.com/game/0/monetization)
-
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
 * [Analytics Tools](#)
