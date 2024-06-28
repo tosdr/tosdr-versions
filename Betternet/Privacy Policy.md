@@ -8,9 +8,9 @@ Features
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
-[Financial Fraud Protection](https://aura.com/credit-monitoring)[Identity Theft Protection](https://aura.com/identity-theft-protection)[VPN & Online Privacy](https://aura.com/vpn)[Antivirus](https://aura.com/antivirus)
+[Financial Fraud Protection](https://aura.com/credit-monitoring)[Identity Theft Protection](https://aura.com/identity-theft-protection)[Identity Theft Insurance](https://aura.com/identity-theft-protection/insurance)[VPN & Online Privacy](https://aura.com/vpn)
 
-[Password Manager & Vault](https://aura.com/password-manager)[Parental Controls & Safe Gaming](https://aura.com/parental-controls)[Spam Call Protection](https://aura.com/spam-call-message-protection)
+[Antivirus](https://aura.com/antivirus)[Password Manager & Vault](https://aura.com/password-manager)[Parental Controls & Safe Gaming](https://aura.com/parental-controls)[Spam Call Protection](https://aura.com/spam-call-message-protection)
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/64e64cdf63f9ecf823fa0f0f_Frame%206960196.svg)
 
