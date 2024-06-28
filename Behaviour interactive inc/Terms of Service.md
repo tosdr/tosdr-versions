@@ -8,7 +8,7 @@
 
 [![Behaviour Interactive](https://www.bhvr.com/wp-content/uploads/2019/08/logo-2.png)](https://www.bhvr.com/)
 
-[Menu](#sidewidgetarea)
+[Menu](#slide-out-widget-area)
 
 * [About](https://www.bhvr.com/about-us/)
 * [Games](https://www.bhvr.com/games/)
