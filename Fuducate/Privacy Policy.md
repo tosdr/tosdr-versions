@@ -50,6 +50,7 @@ LEGAL & PRIVACY
 * [Do Not Sell or Share My Personal Information](javascript:void(0);)
 * [Manage Cookies](javascript:void(0);)
 * [Copyright](https://fooducate.zendesk.com/hc/en-us/requests/new?ticket_form_id=20586105031323)
+* [Consumer Health Privacy](https://maplemedia.io/privacy/consumer-health)
 
 © Maple Media LLC, All rights reserved by Maple Media. All marks, brands and names belong to the respective companies and manufacturers and are used solely to identify the companies and products. As an Amazon Associate Maple Media earns from qualifying purchases.
 
