@@ -9,7 +9,7 @@
 
 * [Log in](https://www.klaviyo.com/login)
 
-[](https://www.klaviyo.com/)
+[](https://www.klaviyo.com/ "Go to the Klaviyo home page")
 
 * Platform
     
@@ -57,7 +57,9 @@
             
             Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
     
-    * * [Watch a video tour of the Klaviyo platform](https://www.klaviyo.com/product/platform-tour)
+    * * [Tour the Klaviyo platform
+            
+            Watch demo](https://www.klaviyo.com/product/platform-tour)
     
 * Integrations
     
@@ -186,7 +188,9 @@
             
             Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
     
-    * * [Watch a video tour of the Klaviyo platform](https://www.klaviyo.com/product/platform-tour)
+    * * [Tour the Klaviyo platform
+            
+            Watch demo](https://www.klaviyo.com/product/platform-tour)
     
 * Integrations
     
