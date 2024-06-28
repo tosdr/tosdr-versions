@@ -1,22 +1,24 @@
-Coins: [14,794](https://www.coingecko.com/)
+BULLISH or BEARISH? Share in our short [**Post-Halving Survey**](https://docs.google.com/forms/d/e/1FAIpQLSezsYskkd9-NsiyG9kuFg4YRxG2J8QtkFlvxFAKRdNDyMn51Q/viewform).
 
-Exchanges: [1,138](https://www.coingecko.com/en/exchanges)
+Coins: [14,852](https://www.coingecko.com/)
 
-Market Cap: [$2.443T](https://www.coingecko.com/en/global-charts) 1.5%
+Exchanges: [1,146](https://www.coingecko.com/en/exchanges)
 
-24h Vol: [$80.503B](https://www.coingecko.com/en/global-charts)
+Market Cap: [$2.403T](https://www.coingecko.com/en/global-charts) 1.7%
+
+24h Vol: [$80.746B](https://www.coingecko.com/en/global-charts)
 
 Dominance:
 
-[BTC 51.3%](https://www.coingecko.com/en/global-charts) [ETH 17.4%](https://www.coingecko.com/en/global-charts)
+[BTC 50.4%](https://www.coingecko.com/en/global-charts) [ETH 17.2%](https://www.coingecko.com/en/global-charts)
 
-Gas: 8 GWEI
+Gas: 6 GWEI
 
-Fast: 10 GWEI
+Fast: 6 GWEI
 
-Standard: 8 GWEI
+Standard: 6 GWEI
 
-Safe: 8 GWEI
+Safe: 5 GWEI
 
 Data by Etherscan
 
