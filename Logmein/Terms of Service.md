@@ -164,15 +164,15 @@
         * [What’s New at GoTo
             
             The latest features and integrations](https://www.logmein.com/resources/product-updates)
-    * * ### IT maturity quiz
+    * * ### Can AI Beat IT Burnout?
             
-            [![GoTo user taking the IT Maturity Quiz.](/-/media/images/shared/header-primary-nav/it-maturity-quiz.png?h=334&w=300&la=en&hash=E966436D5B3B45CDC5C9F716D35CEF56)
+            [![ ](/-/media/images/shared/header-primary-nav/ai.jpg?h=334&w=300&la=en&hash=F3EB657C8B81090CA3C7EDFC175B0198)
             
             new
             
-            Take this 5-question quiz to see where you rank among peers and get actionable steps to keep growing.
+            Based on insights from surveyed global IT leaders, see how AI can benefit your organization and why it’s worth the investment.
             
-            Take the quiz](https://www.logmein.com/offer/it-maturity-quiz)
+            Read It Now](https://www.logmein.com/blog/ai-improves-it-productivity)
     
 * [Company](#)
     
@@ -199,15 +199,15 @@
         * [Contact Us
             
             Get in touch for questions or support](https://www.logmein.com/company/contact-us)
-    * * ### IT maturity quiz
+    * * ### Can AI Beat IT Burnout?
             
-            [![GoTo user taking the IT Maturity Quiz.](/-/media/images/shared/header-primary-nav/it-maturity-quiz.png?h=334&w=300&la=en&hash=E966436D5B3B45CDC5C9F716D35CEF56)
+            [![ ](/-/media/images/shared/header-primary-nav/ai.jpg?h=334&w=300&la=en&hash=F3EB657C8B81090CA3C7EDFC175B0198)
             
             new
             
-            Take this 5-question quiz to see where you rank among peers and get actionable steps to keep growing.
+            Based on insights from surveyed global IT leaders, see how AI can benefit your organization and why it’s worth the investment.
             
-            Take the quiz](https://www.logmein.com/offer/it-maturity-quiz)
+            Read It Now](https://www.logmein.com/blog/ai-improves-it-productivity)
     
 
 [Explore Products](https://www.logmein.com/products)
