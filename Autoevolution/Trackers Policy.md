@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![The Great New York Psyop: How NYC Leaders Keep Auto and Rail Commuters Equally Angry](https://s1.cdn.autoevolution.com/images/news/the-great-nyc-psyop-how-city-leaders-keep-auto-and-rail-commuters-equally-angry-235639-5.jpg "The Great New York Psyop: How NYC Leaders Keep Auto and Rail Commuters Equally Angry")
+[![Audi's EV "Wokeness" Feels Forced, Leads to Bewildering and Illogical Model Name Overhaul](https://s1.cdn.autoevolution.com/images/news/audi-s-ev-wokeness-feels-forced-leads-to-bewildering-and-illogical-model-name-overhaul-235862-5.jpeg "Audi's EV "Wokeness" Feels Forced, Leads to Bewildering and Illogical Model Name Overhaul")
 
-#### The Great New York Psyop: How NYC Leaders Keep Auto and Rail Commuters Equally Angry](https://www.autoevolution.com/news/the-great-new-york-psyop-how-nyc-leaders-keep-auto-and-rail-commuters-equally-angry-235639.html "The Great New York Psyop: How NYC Leaders Keep Auto and Rail Commuters Equally Angry")
+#### Audi's EV "Wokeness" Feels Forced, Leads to Bewildering and Illogical Model Name Overhaul](https://www.autoevolution.com/news/audi-s-ev-wokeness-feels-forced-leads-to-bewildering-and-illogical-model-name-overhaul-235862.html "Audi's EV "Wokeness" Feels Forced, Leads to Bewildering and Illogical Model Name Overhaul")
 
 coverstory \_
 
-[![New Bugatti Tourbillon vs Rimac Nevera Comparison: Emotions Over Reason](https://s1.cdn.autoevolution.com/images/news/new-bugatti-tourbillon-vs-rimac-nevera-comparison-emotions-over-reason-235720-5.jpeg "New Bugatti Tourbillon vs Rimac Nevera Comparison: Emotions Over Reason")
+[![The Montana Dazzles With a Lavish Layout and Incredible Attention to Detail](https://s1.cdn.autoevolution.com/images/news/the-montana-dazzles-with-a-lavish-layout-and-incredible-attention-to-detail-236082-5.jpg "The Montana Dazzles With a Lavish Layout and Incredible Attention to Detail")
 
-New Bugatti Tourbillon vs Rimac Nevera Comparison: Emotions Over Reason](https://www.autoevolution.com/news/new-bugatti-tourbillon-vs-rimac-nevera-comparison-emotions-over-reason-235720.html)
+The Montana Dazzles With a Lavish Layout and Incredible Attention to Detail](https://www.autoevolution.com/news/the-montana-dazzles-with-a-lavish-layout-and-incredible-attention-to-detail-236082.html)
 
 how-to \_
 
