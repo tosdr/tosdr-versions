@@ -109,6 +109,24 @@ Please be aware that the Agreement may change from time to time. We will post an
 
 We welcome and encourage you to provide feedback, comments and suggestions for improvements to the Site. If you have any enquiries about these Terms or any questions, complaints or claims with respect to the Applications, please contact us at contact@FreeSteamKeys.com
 
+ [![](https://www.freesteamkeys.com/random.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required/)
+
+### [Random Games (Steam level 1+ required)](https://www.freesteamkeys.com/random-games-steam-level-1-required/)
+
+ [![](https://steamcdn-a.akamaihd.net/steam/apps/561440/header.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Graffiti Bombing](https://www.freesteamkeys.com/graffiti-bombing/)
+
+### [Graffiti Bombing](https://www.freesteamkeys.com/graffiti-bombing/)
+
+ [![](https://www.freesteamkeys.com/random.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+
+### [Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
+
  [![](https://steamcdn-a.akamaihd.net/steam/apps/2473400/header.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Void Ninja](https://www.freesteamkeys.com/void-ninja/)
@@ -121,29 +139,11 @@ We welcome and encourage you to provide feedback, comments and suggestions for i
 
 ### [Mini Thief](https://www.freesteamkeys.com/mini-thief/)
 
- [![](https://www.freesteamkeys.com/random.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
-
-### [Free Random Steam Key](https://www.freesteamkeys.com/free-random-steam-key-21/)
-
- [![](https://steamcdn-a.akamaihd.net/steam/apps/3010760/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Cadoom](https://www.freesteamkeys.com/cadoom/)
-
-### [Cadoom](https://www.freesteamkeys.com/cadoom/)
-
  [![](https://steamcdn-a.akamaihd.net/steam/apps/2824150/header.jpg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) PhotonX](https://www.freesteamkeys.com/photonx/)
 
 ### [PhotonX](https://www.freesteamkeys.com/photonx/)
-
- [![](https://steamcdn-a.akamaihd.net/steam/apps/2400840/header.jpg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%20150%22%3E%3C/svg%3E) Phantom Line (Beta)](https://www.freesteamkeys.com/phantom-line-beta/)
-
-### [Phantom Line (Beta)](https://www.freesteamkeys.com/phantom-line-beta/)
 
 How to get free Steam keys? Well... you are in the right place! Free Steam Keys is a popular online gaming community and aggregator powered by Steam fans. Members submit, find and share links for ongoing Steam giveaways. Free Steam Keys lists thousands of legitimate Steam giveaways in one location visited by gamers daily. We will find all the free Steam games, Beta keys and DLC codes we can! Choose a giveaway, follow the instructions and redeem your key!
 
