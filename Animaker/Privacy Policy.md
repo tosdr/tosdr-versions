@@ -226,7 +226,7 @@ Terms of Service, Privacy Policy and Data Policy
 
 ###### Terms of Service
 
-* Updated: June 18, 2024
+* Updated: February 1, 2022
 * Thank you for choosing Animaker!
 * These Terms of Service (“Terms” or “Agreement”) are an agreement between you (if signing as an individual or the legal entity you represent) ("you," or “Subscriber,” which term shall mean the user of the Animaker Services (as defined herein) and shall include such user’s executors, assigns, administrators and legal representatives) and Animaker, Inc., a Delaware corporation with a principal address of 1160 Battery Street Suite 100, San Francisco, CA 94111, USA. United States of America ("Animaker", “us” or “we”) that governs your rights to use the services identified in this Agreement.
 * You should read the entire Agreement carefully because all of the terms are important and together create a legal agreement that, once accepted by you, applies to you.
@@ -550,7 +550,7 @@ Please see our Privacy Policy for detail on what confidential information we col
 
 ###### Privacy Policy
 
-* LAST UPDATED : July 25 , 2023.
+* LAST UPDATED : June 18, 2024.
 * 1\. INTRODUCTION
     ----------------
     
