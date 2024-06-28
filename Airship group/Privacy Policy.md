@@ -612,9 +612,7 @@ _Targeting Cookies_
 * [What are iOS Live Activities?](https://www.airship.com/resources/explainer/ios-live-activities-explained/)
 
 * [Platform](#)
-* [App Experience Platform](https://www.airship.com/)
-* [Inside the App](https://www.airship.com/#inside-the-app)
-* [Outside the App](https://www.airship.com/#outside-the-app)
+* [App Experience Platform](https://www.airship.com/platform/app-experience-platform/)
 * [Pricing](https://www.airship.com/app-experience-platform/pricing/)
 * [Partners](https://www.airship.com/app-experience-platform/partners/)
 * [Get a Demo](https://www.airship.com/demo-request/)
