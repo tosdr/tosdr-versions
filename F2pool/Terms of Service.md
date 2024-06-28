@@ -16,6 +16,9 @@ English
 
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
+* [Function enabled: Changing KAS payout threshold](https://f2pool.zendesk.com/hc/en-us/articles/34154393019929-Function-enabled-Changing-KAS-payout-threshold) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* [Function enabled: LTC+DOGE Reward Distribution](https://f2pool.zendesk.com/hc/en-us/articles/34252693673881-Function-enabled-LTC-DOGE-Reward-Distribution) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+
 Terms of Service
 ----------------
 
