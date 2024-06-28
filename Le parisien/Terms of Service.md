@@ -78,7 +78,6 @@ Rechercher sur Le Parisien
     
     * [Législatives 2024](https://www.leparisien.fr/elections/legislatives/)
     * [Résultats législatives 2024](https://www.leparisien.fr/resultats-elections/)
-    * [Européennes 2024](https://www.leparisien.fr/elections/europeennes/)
     
 * [International](https://www.leparisien.fr/international/)
     
@@ -820,9 +819,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=689)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=693)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=689)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=693)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
