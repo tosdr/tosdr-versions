@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [George Strait Reveals To Crowd Of...](https://classiccountrymusic.com/george-strait-reveals-to-crowd-of-110905-fans-his-favorite-song-hes-ever-recorded/)
-* [Reba Shares Sneak Peek Of “Happy’s...](https://classiccountrymusic.com/reba-shares-sneak-peek-of-happys-place-with-new-teaser-photos/)
-* [3 Of Roy Rogers & Dale...](https://classiccountrymusic.com/3-of-roy-rogers-dale-evans-duet-performances/)
+* [Alan Jackson Chosen To Receive The...](https://classiccountrymusic.com/alan-jackson-chosen-to-receive-the-kris-kristofferson-lifetime-achievement-award/)
+* [Reba, Randy Travis, Vince Gill, &...](https://classiccountrymusic.com/reba-randy-travis-vince-gill-sing-with-air-force-choir-at-1990-cma-awards/)
+* [Wynonna Judd Says She Talks To...](https://classiccountrymusic.com/wynonna-judd-says-she-talks-to-late-mother-naomi-a-lot-while-on-stage/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
