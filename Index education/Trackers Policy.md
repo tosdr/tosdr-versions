@@ -107,7 +107,7 @@ Voici la liste des cookies utilisés sur nos sites internet.
 
 Ces cookies sont indispensables au bon fonctionnement de nos sites internet et ne peuvent pas être désactivés. Si vous décidez de les bloquer, certaines parties de nos sites internet ne pourront pas fonctionner.
 
-© Index Éducation 24.06.22
+© Index Éducation 24.06.28
 ==========================
 
 Choix du site
@@ -147,4 +147,4 @@ Légal Sites internet* [Mentions légales et conditions générales d'utilisatio
 Légal produits* [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
-INDEX ÉDUCATION | © 2024 \- D
+INDEX ÉDUCATION | © 2024 \- B
