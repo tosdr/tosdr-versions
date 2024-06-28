@@ -154,6 +154,7 @@ Legal
     * [Privacy Policy](https://legal.hubspot.com/privacy-policy)
     * [Cookie Policy](https://legal.hubspot.com/cookie-policy)
     * [European Union Digital Services Act](https://legal.hubspot.com/digital-services-act)
+    * [Modern Slavery Statement](https://legal.hubspot.com/modern-slavery-statement)
 * [Other Legal Docs](javascript:;)
     * [Community Terms of Use](https://legal.hubspot.com/community-tou)
     * [Marketplace Terms of Use](https://legal.hubspot.com/directory-tou)
