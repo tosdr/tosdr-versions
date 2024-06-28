@@ -219,7 +219,7 @@ Social
 ------
 
 * [![]( /images/follow-us/instagram.png)](https://www.instagram.com/audiotool_official/ "Follow us on Instagram")
-* [![](/images/follow-us/youtube.png)](https://www.youtube.com/channel/UC6PY7p7R5DOmTLgNkdwXcEg/ "Follow us in Youtube")
+* [![](/images/follow-us/youtube.png)](https://www.youtube.com/@AudiotoolTutorials/ "Follow us in Youtube")
 * [![](/images/follow-us/twitter.png)](https://www.twitter.com/audiotool "Follow us on Twitter")
 * [![](/images/follow-us/linkedin.png)](https://www.linkedin.com/company/audiotool "Follow us on LinkedIn")
 * [![](/images/follow-us/tiktok.png)](https://www.tiktok.com/@audiotool_inc "Follow us on TikTok")
@@ -248,12 +248,12 @@ Audiotool
 Legal
 -----
 
-* © 2023 audiotool.com
+* © 2024 audiotool.com
 * [Terms & Conditions](https://www.audiotool.com/terms)
 * [Privacy Policy](https://www.audiotool.com/privacy)
-* Privacy Settings
+* Cookie Settings
 * [Code of Conduct](https://www.audiotool.com/coc)
-* [Contact](https://www.audiotool.com/contact)
+* [Contact / Imprint](https://www.audiotool.com/contact)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
