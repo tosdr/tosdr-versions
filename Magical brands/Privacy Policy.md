@@ -29,6 +29,8 @@ Update
 
 Complete Checkout
 
+[Mid-Year Magical Sale! | Additional 15% Off Site - Our Best Savings All Year | Save automatically at Cart](https://magicalbutter.com/collections/bundle-deals)
+
           
 
  * [Subscribe & Save](https://magicalbutter.com/collections/subscriptions)
