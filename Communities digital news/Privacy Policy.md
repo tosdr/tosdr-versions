@@ -26,161 +26,159 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-profturley-1200-x-628-1200x630.jpg)](https://americanwirenews.com/harvard-dean-warns-about-criticism-of-school-prompts-free-speech-concerns/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-greene-1200x630.jpg)](https://americanwirenews.com/australian-anchor-likely-wont-have-mtg-back-anytime-soon-after-this-brutal-beatdown/)
 
-[Harvard dean warns about criticism of school, prompts free speech concerns](https://americanwirenews.com/harvard-dean-warns-about-criticism-of-school-prompts-free-speech-concerns/)
+[Australian anchor likely won’t have MTG back anytime soon after this BRUTAL beatdown…](https://americanwirenews.com/australian-anchor-likely-wont-have-mtg-back-anytime-soon-after-this-brutal-beatdown/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Trump-BenedictBiden-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/time-to-start-sending-thank-you-cards-trump-vaporizes-bidens-cash-advantage/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-cnn-debate-1200x630.jpg)](https://americanwirenews.com/cnn-mocked-for-touting-how-new-debate-mics-will-work-hilarious-and-sad-at-the-same-time/)
 
-[Time to start sending ‘thank you’ cards: Trump VAPORIZES Biden’s cash advantage](https://americanwirenews.com/time-to-start-sending-thank-you-cards-trump-vaporizes-bidens-cash-advantage/)
+[CNN mocked for touting how new debate mics will work: ‘Hilarious and sad at the same time’](https://americanwirenews.com/cnn-mocked-for-touting-how-new-debate-mics-will-work-hilarious-and-sad-at-the-same-time/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pixabay-mother-son-homeschooling-1200x630.jpg)](https://americanwirenews.com/freest-state-in-the-nation-sees-homeschooling-explosion-amid-blue-state-exodus/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-kamalajimmykimmel-1200-x-628-1200x630.jpg)](https://americanwirenews.com/laugh-or-cry-not-sure-pro-trump-ad-set-to-air-during-debate-sparks-mix-of-emotions/)
 
-[‘Freest’ state in the nation sees homeschooling explosion amid blue state exodus](https://americanwirenews.com/freest-state-in-the-nation-sees-homeschooling-explosion-amid-blue-state-exodus/)
+[‘Laugh or cry? Not sure.’ Pro-Trump ad set to air during debate sparks mix of emotions](https://americanwirenews.com/laugh-or-cry-not-sure-pro-trump-ad-set-to-air-during-debate-sparks-mix-of-emotions/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gw-joe-biden-1200x630.jpg)](https://americanwirenews.com/biden-dhs-intel-experts-panel-quietly-coaxed-mothers-and-teachers-to-report-dissent-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-michelle-obama-1200x630.jpg)](https://americanwirenews.com/michelle-obama-reportedly-mia-from-biden-campaign-over-poor-treatment-of-hunters-ex-wife/)
 
-[Biden DHS ‘intel experts’ panel quietly coaxed ‘mothers and teachers’ to report dissent: report](https://americanwirenews.com/biden-dhs-intel-experts-panel-quietly-coaxed-mothers-and-teachers-to-report-dissent-report/)
+[Michelle Obama reportedly MIA from Biden campaign over poor treatment of Hunter’s ex-wife](https://americanwirenews.com/michelle-obama-reportedly-mia-from-biden-campaign-over-poor-treatment-of-hunters-ex-wife/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-braggpresser-1200-x-628-1200x630.jpg)](https://americanwirenews.com/no-ones-above-the-law-da-bragg-drops-charges-on-most-columbia-rioters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-omar-1200x630.jpg)](https://americanwirenews.com/ilhan-omar-accused-of-not-disclosing-lucrative-assets-from-hubbys-sketchy-wine-and-weed-ventures/)
 
-[No one’s above the law? DA Bragg drops charges on most Columbia rioters](https://americanwirenews.com/no-ones-above-the-law-da-bragg-drops-charges-on-most-columbia-rioters/)
+[Ilhan Omar accused of not disclosing lucrative assets from hubby’s sketchy wine and weed ventures](https://americanwirenews.com/ilhan-omar-accused-of-not-disclosing-lucrative-assets-from-hubbys-sketchy-wine-and-weed-ventures/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-kennedy-jr-tapper-1200x630.jpg)](https://americanwirenews.com/rfk-jr-campaign-warns-cnn-debate-moderators-could-see-jailtime-like-micheal-cohen-will-be-violating-the-law/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-longoria-1200x630.jpg)](https://americanwirenews.com/united-digs-deeper-with-dubious-response-to-mom-who-says-she-and-baby-booted-for-using-wrong-prounouns/)
 
-[RFK Jr. campaign warns CNN debate moderators could see jailtime like Micheal Cohen, will be violating the law](https://americanwirenews.com/rfk-jr-campaign-warns-cnn-debate-moderators-could-see-jailtime-like-micheal-cohen-will-be-violating-the-law/)
+[United digs deeper with dubious response to mom who says she and baby booted for using ‘wrong’ prounouns](https://americanwirenews.com/united-digs-deeper-with-dubious-response-to-mom-who-says-she-and-baby-booted-for-using-wrong-prounouns/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-jane-fonda-1200x630.png)](https://americanwirenews.com/hanoi-jane-pronounces-biden-as-perfectly-suited-for-four-more-years/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-briahna-joy-gray-1200x630.jpg)](https://americanwirenews.com/leftist-podcaster-stumbles-on-some-truth-in-call-to-dump-democrat-party-stop-voting-for-them/)
 
-[Hanoi Jane pronounces Biden as ‘perfectly suited’ for four more years](https://americanwirenews.com/hanoi-jane-pronounces-biden-as-perfectly-suited-for-four-more-years/)
+[Leftist podcaster stumbles on some truth in call to dump Democrat Party: ‘Stop voting for them’](https://americanwirenews.com/leftist-podcaster-stumbles-on-some-truth-in-call-to-dump-democrat-party-stop-voting-for-them/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-calreparations-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ca-dem-chokes-back-tears-over-forcing-latinos-and-asians-to-pay-reparations-for-blacks/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/mug-shot-akkan-1200x630.jpg)](https://americanwirenews.com/another-illegal-arrested-for-alleged-rape-of-15-yr-old-ny-girl/)
 
-[CA lawmaker chokes back tears over unfairness of forcing Latinos and Asians to pay reparations for Blacks](https://americanwirenews.com/ca-dem-chokes-back-tears-over-forcing-latinos-and-asians-to-pay-reparations-for-blacks/)
+(Albany County Correctional Facility
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-lue-elizondo-1200x630.jpg)
+[ANOTHER Illegal arrested for alleged rape of 15-yr-old NY girl](https://americanwirenews.com/another-illegal-arrested-for-alleged-rape-of-15-yr-old-ny-girl/)
 
-### ‘I am not suicidal’: UFO whistleblower says he faces ‘threats’, GOP Rep warns his protections are a ‘joke’](https://americanwirenews.com/i-am-not-suicidal-ufo-whistleblower-says-he-faces-threats-gop-rep-warns-his-protections-are-a-joke/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-summer-lee-1200x630.jpg)
+
+### ‘What a disgrace you are!’ Dem Rep slammed for COLD reaction to murder of 12-yr-old Jocelyn Nungaray](https://americanwirenews.com/what-a-disgrace-you-are-dem-rep-slammed-for-cold-reaction-to-murder-of-12-yr-old-jocelyn-nungaray/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Pro-life activist fined while standing silently outside abortion clinic by officers who couldn’t articulate his crime](https://americanwirenews.com/pro-life-activist-fined-while-standing-silently-outside-abortion-clinic-by-officers-who-couldnt-articulate-his-crime/)
+### [MSNBC’s Ali Velshi’s Trump fearmongering inspires mockery: ‘Projection is the left’s superpower’](https://americanwirenews.com/msnbcs-ali-velshis-trump-fearmongering-inspires-mockery-projection-is-the-lefts-superpower/)
 
-### [Ana Navarro drops painfully brain-dead take: Latinos support Trump to ‘pass as’ more American](https://americanwirenews.com/ana-navarro-drops-painfully-brain-dead-take-latinos-support-trump-to-pass-as-more-american/)
+### [Officer reportedly advised Justin Timberlake to get a ride home ‘several minutes’ before DWI arrest](https://americanwirenews.com/officer-reportedly-advised-justin-timberlake-to-get-a-ride-home-several-minutes-before-dwi-arrest/)
 
-### [‘Pure unadulterated evil’: Georgia couple receive paltry sentence for heinous abuse of their 8-week-old child](https://americanwirenews.com/pure-unadulterated-evil-georgia-couple-receive-paltry-sentence-for-heinous-abuse-of-their-8-week-old-child/)
+### [‘I would do it again’: Transgender murder suspect appears to have no remorse after slaying of parents](https://americanwirenews.com/i-would-do-it-again-transgender-murder-suspect-appears-to-have-no-remorse-after-slaying-of-parents/)
 
-### [Jack Smith is asking to gag Trump again, this time to protect law enforcement](https://americanwirenews.com/jack-smith-is-asking-to-gag-trump-again-this-time-to-protect-law-enforcement/)
+### [Authorities say woman tried to poison 71-year-old hubby with chemical used to euthanize animals](https://americanwirenews.com/authorities-say-woman-tried-to-poison-71-year-old-hubby-with-chemical-used-to-euthanize-animals/)
 
-### [Homeless NYC thug on parole for assault arrested for punching elderly woman](https://americanwirenews.com/homeless-nyc-thug-on-parole-for-assault-arrested-for-punching-elderly-woman/)
+### [Code Pink protesters show up at CNN anchor’s home, get hilariously trolled by his KIDS](https://americanwirenews.com/code-pink-protesters-show-up-at-cnn-anchors-home-get-hilariously-trolled-by-his-kids/)
 
-### [MSNBC’s Joy Reid takes racist shot at Rep. Byron Donalds over Trump support](https://americanwirenews.com/msnbcs-joy-reid-takes-racist-shot-at-rep-byron-donalds-over-trump-support/)
+### [Ted Cruz calls for death penalty if illegal aliens who allegedly killed 12yo are found guilty](https://americanwirenews.com/ted-cruz-calls-for-death-penalty-if-illegal-aliens-who-allegedly-killed-12yo-are-found-guilty/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/05/SGDanCrenshaw-220x180.png)](https://americanwirenews.com/seven-high-profile-republicans-to-appear-at-media-event-with-left-wing-activists/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-robot-220x180.jpg)](https://americanwirenews.com/human-skin-cells-used-to-make-robots-appear-more-realistic-is-straight-out-of-a-horror-film/)
 
-[Seven high-profile Republicans to appear at media event with left-wing activists](https://americanwirenews.com/seven-high-profile-republicans-to-appear-at-media-event-with-left-wing-activists/)
+[Human skin cells used to make robots appear more realistic is straight out of a horror film](https://americanwirenews.com/human-skin-cells-used-to-make-robots-appear-more-realistic-is-straight-out-of-a-horror-film/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-jocelyn-220x180.png)](https://americanwirenews.com/ap-dragged-for-fundamentally-dishonest-reporting-of-raped-12-yr-old-girl/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-walgreens-220x180.jpg)](https://americanwirenews.com/walgreens-to-shutter-significant-amount-of-stores-cites-worse-than-expected-consumer-environment/)
 
-[AP dragged for ‘fundamentally dishonest’ reporting of raped 12-yr-old girl](https://americanwirenews.com/ap-dragged-for-fundamentally-dishonest-reporting-of-raped-12-yr-old-girl/)
+[Walgreens to shutter ‘significant’ amount of stores, cites ‘worse than expected consumer environment’](https://americanwirenews.com/walgreens-to-shutter-significant-amount-of-stores-cites-worse-than-expected-consumer-environment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-american-airlines-black-men-220x180.jpg)](https://americanwirenews.com/american-airline-staffers-suspended-after-booting-eight-black-men-off-plane/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-mata-220x180.jpg)](https://americanwirenews.com/migrant-accused-of-shooting-2-nypd-officers-part-of-venezuelan-gang-says-they-smuggle-guns-into-city-shelters/)
 
-[American Airline staffers suspended after booting eight Black men off plane](https://americanwirenews.com/american-airline-staffers-suspended-after-booting-eight-black-men-off-plane/)
+[Migrant accused of shooting 2 NYPD officers part of Venezuelan gang, says they smuggle guns into city shelters](https://americanwirenews.com/migrant-accused-of-shooting-2-nypd-officers-part-of-venezuelan-gang-says-they-smuggle-guns-into-city-shelters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-arnold-220x180.png)](https://americanwirenews.com/schwarzenegger-says-climate-change-dialogue-not-working-we-want-to-terminate-pollution/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Free-Speech-Arrest-220x180.jpg)](https://americanwirenews.com/man-arrested-after-flipping-vermont-officer-the-bird-wins-175000-in-free-speech-suit/)
 
-[Schwarzenegger says ‘climate change dialogue’ not working: ‘We want to terminate pollution’](https://americanwirenews.com/schwarzenegger-says-climate-change-dialogue-not-working-we-want-to-terminate-pollution/)
+[Man arrested after flipping Vermont officer the bird wins $175,000 in free-speech suit](https://americanwirenews.com/man-arrested-after-flipping-vermont-officer-the-bird-wins-175000-in-free-speech-suit/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-1177720715-1-220x180.jpg)](https://americanwirenews.com/fierce-backlash-over-unacceptable-proposal-to-force-women-to-sign-up-for-draft/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-montana-220x180.jpg)](https://americanwirenews.com/judge-rules-state-law-defining-sex-as-only-male-or-female-is-unconstitutional/)
 
-[Fierce backlash over ‘unacceptable’ proposal to force women to sign up for draft](https://americanwirenews.com/fierce-backlash-over-unacceptable-proposal-to-force-women-to-sign-up-for-draft/)
+[Judge rules state law defining sex as only male or female is unconstitutional](https://americanwirenews.com/judge-rules-state-law-defining-sex-as-only-male-or-female-is-unconstitutional/)
 
-Getty Images
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-jamaal-bowman-1-220x180.png)](https://americanwirenews.com/ny-times-updates-headline-blaming-jews-for-bowman-loss/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-basketball-tournament-220x180.jpg)](https://americanwirenews.com/nuttin-but-azz-basketball-tournament-canceled-at-nj-high-school-after-absolutely-horrible-promo-video/)
+[NY Times updates headline blaming Jews for Bowman loss](https://americanwirenews.com/ny-times-updates-headline-blaming-jews-for-bowman-loss/)
 
-[‘Nuttin But Azz’ basketball tournament canceled at NJ high school after ‘absolutely horrible’ promo video](https://americanwirenews.com/nuttin-but-azz-basketball-tournament-canceled-at-nj-high-school-after-absolutely-horrible-promo-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-drphilrfkjr-1200-x-628-220x180.jpg)](https://americanwirenews.com/rfk-jr-offers-biden-a-deal-that-could-be-a-2024-gamechanger/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-fauci-the-view-220x180.jpg)](https://americanwirenews.com/fauci-and-alyssa-farah-griffin-boast-about-trying-to-get-president-trump-to-wear-a-mask-it-didnt-work/)
+[RFK Jr. offers Biden a deal that could be a 2024 gamechanger](https://americanwirenews.com/rfk-jr-offers-biden-a-deal-that-could-be-a-2024-gamechanger/)
 
-[Fauci and Alyssa Farah Griffin boast about trying to get President Trump to wear a mask: ‘It didn’t work’](https://americanwirenews.com/fauci-and-alyssa-farah-griffin-boast-about-trying-to-get-president-trump-to-wear-a-mask-it-didnt-work/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bidentrumpdebate-1200-x-628-220x180.jpg)](https://americanwirenews.com/inflation-bomb-economists-used-to-set-up-trump-blame-ahead-of-debate-are-hardly-unbiased-experts/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-2157821881-1-220x180.jpg)](https://americanwirenews.com/climate-crazies-with-a-celebrity-grudge-make-a-dumb-mistake-targeting-private-jets/)
+[‘Inflation bomb’ economists used to set up Trump blame ahead of debate are hardly unbiased ‘experts’](https://americanwirenews.com/inflation-bomb-economists-used-to-set-up-trump-blame-ahead-of-debate-are-hardly-unbiased-experts/)
 
-[Climate crazies with a celebrity grudge make a DUMB mistake targeting private jets](https://americanwirenews.com/climate-crazies-with-a-celebrity-grudge-make-a-dumb-mistake-targeting-private-jets/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Trump-Smiling-220x180.jpg)](https://americanwirenews.com/liberals-hate-nate-silver-day-polling-guru-says-presidential-election-is-no-longer-a-toss-up/)
 
-(Photo by Just Stop Oil / Handout/Anadolu via Getty Images)
+[Polling guru says presidential election is ‘no longer a toss-up’](https://americanwirenews.com/liberals-hate-nate-silver-day-polling-guru-says-presidential-election-is-no-longer-a-toss-up/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-judge-gavel-220x180.jpg)](https://americanwirenews.com/oregon-judge-takes-heat-for-allowing-second-graders-to-be-jurors-in-hit-and-run-case/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-tucker-carlson-220x180.jpg)](https://americanwirenews.com/tucker-carlson-utterly-decimates-australian-reporter-to-her-face-for-blatant-lies-in-5-min-of-glorious-truth/)
 
-[Oregon judge takes heat for allowing SECOND GRADERS to be jurors in hit-and-run case](https://americanwirenews.com/oregon-judge-takes-heat-for-allowing-second-graders-to-be-jurors-in-hit-and-run-case/)
+[Tucker Carlson utterly decimates Australian reporter to her face for blatant lies in 5 min. of glorious truth](https://americanwirenews.com/tucker-carlson-utterly-decimates-australian-reporter-to-her-face-for-blatant-lies-in-5-min-of-glorious-truth/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-npr-guy-220x180.jpg)](https://americanwirenews.com/pro-abolish-the-police-npr-correspondent-slammed-racist-public-who-call-911-and-they-wonder-why-theres-layoffs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-nyt-bibi-split-1169-x-628-220x180.jpg)](https://americanwirenews.com/the-push-is-officially-on-for-congress-to-call-off-netanyahus-speech/)
 
-[Pro-abolish-the-police NPR correspondent slammed ‘racist public’ who call 911. And they wonder why there’s layoffs?](https://americanwirenews.com/pro-abolish-the-police-npr-correspondent-slammed-racist-public-who-call-911-and-they-wonder-why-theres-layoffs/)
+[The push is officially on for Congress to call off Netanyahu’s speech](https://americanwirenews.com/the-push-is-officially-on-for-congress-to-call-off-netanyahus-speech/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-christian-geovanny-inga-landi-220x180.jpg)](https://americanwirenews.com/illegal-accused-of-raping-13-yr-old-makes-a-sickening-confession/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-border-migrants-220x180.jpg)](https://americanwirenews.com/isis-affiliated-human-smuggling-network-funnels-more-than-400-illegal-aliens-into-us/)
 
-[Illegal accused of raping 13-yr-old makes a sickening confession](https://americanwirenews.com/illegal-accused-of-raping-13-yr-old-makes-a-sickening-confession/)
+[ISIS-affiliated human smuggling network funnels more than 400 illegal aliens into US](https://americanwirenews.com/isis-affiliated-human-smuggling-network-funnels-more-than-400-illegal-aliens-into-us/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bike-accident-1-220x180.jpg)](https://americanwirenews.com/allegedly-drunk-airline-employee-arrested-after-hit-and-run-involving-69-year-old-cyclist/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-eva-longoria-220x180.jpg)](https://americanwirenews.com/desperate-housewives-star-eva-longoria-whines-hollywood-is-not-progressive-enough/)
 
-[Allegedly drunk airline employee arrested after hit-and-run involving 69-year-old cyclist](https://americanwirenews.com/allegedly-drunk-airline-employee-arrested-after-hit-and-run-involving-69-year-old-cyclist/)
+[‘Desperate Housewives’ star Eva Longoria whines Hollywood is not ‘progressive’ enough](https://americanwirenews.com/desperate-housewives-star-eva-longoria-whines-hollywood-is-not-progressive-enough/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-voting-2-220x180.jpg)](https://americanwirenews.com/republicans-cry-foul-when-michigan-dems-change-key-election-law-voters-should-be-outraged/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-1282403922-220x180.jpg)](https://americanwirenews.com/supreme-court-delivers-gut-punch-allows-white-house-coercion-of-social-media-platforms/)
 
-[Republicans sound the alarm when Michigan Dems change key election law: ‘Voters should be outraged’](https://americanwirenews.com/republicans-cry-foul-when-michigan-dems-change-key-election-law-voters-should-be-outraged/)
+[Supreme Court delivers ‘gut punch,’ allows White House coercion of social media platforms](https://americanwirenews.com/supreme-court-delivers-gut-punch-allows-white-house-coercion-of-social-media-platforms/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/getty-migrants-220x180.jpg)](https://americanwirenews.com/migrants-from-isis-hotbed-skyrocket-under-biden-as-terror-org-goes-on-recruitment-spree-report/)
+(Tasos Katopodis/Getty Images)
 
-[Migrants from ISIS hotbed skyrocket under Biden as terror org goes on recruitment spree: report](https://americanwirenews.com/migrants-from-isis-hotbed-skyrocket-under-biden-as-terror-org-goes-on-recruitment-spree-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-fetterman-netanyahu-220x180.png)](https://americanwirenews.com/john-fetterman-meets-with-netanyahu-in-israel-im-so-sorry-for-what-has-been-done-to-this-nation/)
 
-(Photo by Christian Torres/Anadolu via Getty Images)
+[John Fetterman meets with Netanyahu in Israel: ‘I’m so sorry for what has been done to this nation’](https://americanwirenews.com/john-fetterman-meets-with-netanyahu-in-israel-im-so-sorry-for-what-has-been-done-to-this-nation/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-brooklyn-hearing-220x180.jpg)](https://americanwirenews.com/brooklyn-hearing-devolves-into-madness-over-massive-migrant-shelter-after-stabbing/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-trumpnj-1200-x-628-220x180.jpg)](https://americanwirenews.com/a-walking-lying-machine-trump-attacks-biden-on-dishonesty-ahead-of-first-debate/)
 
-[Brooklyn hearing devolves into madness over massive migrant shelter after stabbing](https://americanwirenews.com/brooklyn-hearing-devolves-into-madness-over-massive-migrant-shelter-after-stabbing/)
+[‘A walking LYING MACHINE!’ Trump attacks Biden on dishonesty ahead of first debate](https://americanwirenews.com/a-walking-lying-machine-trump-attacks-biden-on-dishonesty-ahead-of-first-debate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-biden-union-1-220x180.jpg)](https://americanwirenews.com/union-joe-could-be-losing-ground-with-another-core-voting-bloc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-74299678-the-village-people-220x180.jpg)](https://americanwirenews.com/village-people-file-20m-lawsuit-against-disney-for-allegedly-stiffing-group-blackballing-them/)
 
-[‘Union Joe’ could be losing ground with another core voting bloc](https://americanwirenews.com/union-joe-could-be-losing-ground-with-another-core-voting-bloc/)
+[Village People file $20M lawsuit against Disney for allegedly stiffing group, blackballing them](https://americanwirenews.com/village-people-file-20m-lawsuit-against-disney-for-allegedly-stiffing-group-blackballing-them/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-tom-perez-220x180.jpg)](https://americanwirenews.com/biden-adviser-flat-out-denies-voter-poll-favoring-mass-deportations-id-love-to-sit-down-with-your-polling-team/)
+(Photo by Michael Ochs Archives/Getty Images)
 
-[Biden adviser flat-out denies voter poll favoring mass deportations: ‘I’d love to sit down with your polling team’](https://americanwirenews.com/biden-adviser-flat-out-denies-voter-poll-favoring-mass-deportations-id-love-to-sit-down-with-your-polling-team/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-newsom-family-220x180.jpg)](https://americanwirenews.com/newsoms-family-to-exit-state-capital-so-daughter-can-attend-pricey-private-school-in-elite-bay-area/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-963611786-1-220x180.jpg)](https://americanwirenews.com/hollywood-arbys-shutters-after-55-years-20-an-hour-minimum-wage-has-been-the-nail-in-the-coffin/)
+[Newsom’s family to exit state capital so daughter can attend pricey private school in elite Bay Area](https://americanwirenews.com/newsoms-family-to-exit-state-capital-so-daughter-can-attend-pricey-private-school-in-elite-bay-area/)
 
-[Hollywood Arby’s shutters after 55 years: ‘$20-an-hour minimum wage has been the nail in the coffin’](https://americanwirenews.com/hollywood-arbys-shutters-after-55-years-20-an-hour-minimum-wage-has-been-the-nail-in-the-coffin/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/pd-military-contractors-220x180.jpg)](https://americanwirenews.com/wwiii-watch-biden-could-soon-allow-us-military-contractors-in-ukraine/)
 
-(Photo by Rich Fury/Getty Images)
+[WWIII watch: Biden could soon allow US military contractors in Ukraine](https://americanwirenews.com/wwiii-watch-biden-could-soon-allow-us-military-contractors-in-ukraine/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-romney-220x180.jpg)](https://americanwirenews.com/mitt-stubbornly-refuses-to-support-trump-invokes-rape-hoax/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-nickdrag-1200-x-628-220x180.jpg)](https://americanwirenews.com/grooming-machine-nickelodeon-ripped-for-trotting-out-drag-queen-to-target-kiddies/)
 
-[Mitt stubbornly refuses to support Trump, invokes rape hoax](https://americanwirenews.com/mitt-stubbornly-refuses-to-support-trump-invokes-rape-hoax/)
+[‘Grooming machine’ Nickelodeon ripped for trotting out drag queen to target kiddies](https://americanwirenews.com/grooming-machine-nickelodeon-ripped-for-trotting-out-drag-queen-to-target-kiddies/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-kelce-220x180.jpg)](https://americanwirenews.com/travis-kelce-has-great-response-to-the-mistake-made-on-his-super-bowl-ring/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-kjp-220x180.png)](https://americanwirenews.com/bizarre-kjp-claims-grocery-and-gas-prices-have-gone-down-under-biden/)
 
-[Travis Kelce has great response to the mistake made on his Super Bowl ring](https://americanwirenews.com/travis-kelce-has-great-response-to-the-mistake-made-on-his-super-bowl-ring/)
+[‘Bizarre’: KJP claims grocery and gas prices have gone down under Biden](https://americanwirenews.com/bizarre-kjp-claims-grocery-and-gas-prices-have-gone-down-under-biden/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/pxbaygayflag-sgkaine-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/pandering-senate-dems-seek-official-apology-to-lgbt-govt-workers/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-pexels-fake-news-220x180.jpg)](https://americanwirenews.com/trust-the-experts-16-economists-join-to-say-trump-to-detonate-inflation-bomb-in-pure-propaganda-poop/)
 
-[Pandering Senate Dems seek official apology to LGBT gov’t workers](https://americanwirenews.com/pandering-senate-dems-seek-official-apology-to-lgbt-govt-workers/)
+[Trust the ‘experts’: 16 economists join, say Trump will detonate ‘inflation bomb’ in pure propaganda poop](https://americanwirenews.com/trust-the-experts-16-economists-join-to-say-trump-to-detonate-inflation-bomb-in-pure-propaganda-poop/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-patty-morin-220x180.jpg)](https://americanwirenews.com/rachel-morins-mother-blasts-dhs-secretary-mayorkas-for-calling-her-a-murdered-individual/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-yellen-1-220x180.jpg)](https://americanwirenews.com/treasury-sec-janet-yellen-worth-around-20-million-says-she-feels-no-sticker-shock-at-the-grocery-store/)
 
-[Rachel Morin’s mother blasts DHS Secretary Mayorkas for calling her a murdered ‘individual’](https://americanwirenews.com/rachel-morins-mother-blasts-dhs-secretary-mayorkas-for-calling-her-a-murdered-individual/)
+[Treasury Sec. Janet Yellen, worth around $20 million, says she feels no ‘sticker shock’ at the grocery store](https://americanwirenews.com/treasury-sec-janet-yellen-worth-around-20-million-says-she-feels-no-sticker-shock-at-the-grocery-store/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-ocasio-cortez-dolan-220x180.jpg)](https://americanwirenews.com/conservative-group-funds-aocs-primary-challenger-with-brutal-times-square-billboards-slamming-her/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-emmitt-1200-x-628-220x180.jpg)](https://americanwirenews.com/bring-on-the-whites-emmitt-smith-cites-mlb-legend-reggie-jackson-to-defend-dei-in-sports/)
 
-[Conservative group funds AOC’s primary challenger with brutal Times Square billboards slamming her](https://americanwirenews.com/conservative-group-funds-aocs-primary-challenger-with-brutal-times-square-billboards-slamming-her/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-biden-suv-220x180.jpg)](https://americanwirenews.com/heres-another-white-house-cheap-fake-video-trump-team-mocks-biden-over-footage-of-him-getting-into-suv/)
-
-[Here’s another White House ‘cheap fake’ video: Trump team mocks Biden over footage of him getting into SUV](https://americanwirenews.com/heres-another-white-house-cheap-fake-video-trump-team-mocks-biden-over-footage-of-him-getting-into-suv/)
+[Bring on the Whites! Emmitt Smith cites MLB legend Reggie Jackson to defend DEI in sports](https://americanwirenews.com/bring-on-the-whites-emmitt-smith-cites-mlb-legend-reggie-jackson-to-defend-dei-in-sports/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -242,9 +240,19 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-friends-1200x630.jpg)](https://americanwirenews.com/krispy-kreme-excludes-us-from-friends-doughnut-collection-and-fans-want-to-know-why/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-american-airlines-black-men-1200x630.jpg)](https://americanwirenews.com/american-airline-staffers-suspended-after-booting-eight-black-men-off-plane/)
 
-[Krispy Kreme excludes US from ‘Friends’ doughnut collection and fans want to know why](https://americanwirenews.com/krispy-kreme-excludes-us-from-friends-doughnut-collection-and-fans-want-to-know-why/)
+[American Airline staffers suspended after booting eight Black men off plane](https://americanwirenews.com/american-airline-staffers-suspended-after-booting-eight-black-men-off-plane/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-american-airlines-black-men-220x180.jpg)](https://americanwirenews.com/american-airline-staffers-suspended-after-booting-eight-black-men-off-plane/)
+
+[American Airline staffers suspended after booting eight Black men off plane](https://americanwirenews.com/american-airline-staffers-suspended-after-booting-eight-black-men-off-plane/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-963611786-1-220x180.jpg)](https://americanwirenews.com/hollywood-arbys-shutters-after-55-years-20-an-hour-minimum-wage-has-been-the-nail-in-the-coffin/)
+
+[Hollywood Arby’s shutters after 55 years: ‘$20-an-hour minimum wage has been the nail in the coffin’
+
+(Photo by Rich Fury/Getty Images)](https://americanwirenews.com/hollywood-arbys-shutters-after-55-years-20-an-hour-minimum-wage-has-been-the-nail-in-the-coffin/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-friends-220x180.jpg)](https://americanwirenews.com/krispy-kreme-excludes-us-from-friends-doughnut-collection-and-fans-want-to-know-why/)
 
@@ -260,39 +268,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 (Photo by Smith Collection/Gado/Getty Images)](https://americanwirenews.com/over-a-dozen-employees-fired-from-wells-fargo-after-allegations-of-simulation-of-keyboard-activity/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Elon-Musk-Starlink-220x180.jpg)](https://americanwirenews.com/musk-had-affair-with-intern-later-hired-by-spacex-asked-another-employee-to-have-his-babies-wsj/)
-
-[Musk had affair with intern later hired by SpaceX, asked another employee to have his babies: WSJ](https://americanwirenews.com/musk-had-affair-with-intern-later-hired-by-spacex-asked-another-employee-to-have-his-babies-wsj/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-influencer-220x180.jpg)](https://americanwirenews.com/black-female-owned-company-comments-on-firing-of-defiant-white-tiktok-influencer-over-n-word/)
-
-[Black female-owned company comments on firing of defiant white TikTok influencer over ‘n-word’](https://americanwirenews.com/black-female-owned-company-comments-on-firing-of-defiant-white-tiktok-influencer-over-n-word/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/02/SG-Breed-1200x630.jpg)](https://americanwirenews.com/london-breeds-drag-queen-gotcha-moment-during-mayoral-debate-straight-out-of-an-snl-skit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-pelosi-1-1200x630.png)](https://americanwirenews.com/pelosi-blasts-rogue-scotus-as-trump-immunity-decision-looms/)
 
-[London Breed’s drag queen ‘gotcha’ moment during mayoral debate straight out of an SNL skit](https://americanwirenews.com/london-breeds-drag-queen-gotcha-moment-during-mayoral-debate-straight-out-of-an-snl-skit/)
+[Pelosi blasts ‘rogue’ SCOTUS as Trump immunity decision looms](https://americanwirenews.com/pelosi-blasts-rogue-scotus-as-trump-immunity-decision-looms/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/02/SG-Breed-220x180.jpg)](https://americanwirenews.com/london-breeds-drag-queen-gotcha-moment-during-mayoral-debate-straight-out-of-an-snl-skit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-pelosi-1-220x180.png)](https://americanwirenews.com/pelosi-blasts-rogue-scotus-as-trump-immunity-decision-looms/)
 
-[London Breed’s drag queen ‘gotcha’ moment during mayoral debate straight out of an SNL skit](https://americanwirenews.com/london-breeds-drag-queen-gotcha-moment-during-mayoral-debate-straight-out-of-an-snl-skit/)
+[Pelosi blasts ‘rogue’ SCOTUS as Trump immunity decision looms](https://americanwirenews.com/pelosi-blasts-rogue-scotus-as-trump-immunity-decision-looms/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-fbi-texas-220x180.jpg)](https://americanwirenews.com/fbi-shows-up-at-home-of-texas-nurse-who-opposes-transgender-medicine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-hunter-biden-rf-pexels-laptop-220x180.jpg)](https://americanwirenews.com/some-former-officials-pushing-hunters-laptop-disinformation-letter-in-2020-were-active-cia-contractors/)
 
-[FBI shows up at home of Texas nurse who opposes ‘transgender medicine’](https://americanwirenews.com/fbi-shows-up-at-home-of-texas-nurse-who-opposes-transgender-medicine/)
+[Some ‘former’ officials pushing Hunter’s laptop ‘disinformation’ letter in 2020 were ACTIVE CIA contractors](https://americanwirenews.com/some-former-officials-pushing-hunters-laptop-disinformation-letter-in-2020-were-active-cia-contractors/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/08/SG-AOCCNN-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-goes-on-nighttime-rant-on-why-war-criminal-netanyahu-should-not-be-allowed-to-address-congress/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-jamaal-bowman-1-220x180.png)](https://americanwirenews.com/sore-loser-jamaal-bowman-aoc-bestie-delivers-angry-speech-after-primary-loss-blames-sick-society/)
 
-[AOC goes on nighttime rant on why ‘war criminal’ Netanyahu should not be allowed to address Congress](https://americanwirenews.com/aoc-goes-on-nighttime-rant-on-why-war-criminal-netanyahu-should-not-be-allowed-to-address-congress/)
+[Sore loser Jamaal Bowman, AOC bestie, delivers angry speech after primary loss – blames ‘sick society’](https://americanwirenews.com/sore-loser-jamaal-bowman-aoc-bestie-delivers-angry-speech-after-primary-loss-blames-sick-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bibi-biden-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/white-house-calls-off-high-level-meeting-with-israel-in-petty-response-to-netanyahu-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-maralago-doj-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/mar-a-lago-security-cameras-were-turned-off-for-agent-safety-during-fbi-raid-court-docs-say/)
 
-[White House calls off high level meeting with Israel in petty response to Netanyahu video](https://americanwirenews.com/white-house-calls-off-high-level-meeting-with-israel-in-petty-response-to-netanyahu-video/)
+[Mar-a-Lago security cameras were turned off ‘for agent safety’ during FBI raid, court docs say](https://americanwirenews.com/mar-a-lago-security-cameras-were-turned-off-for-agent-safety-during-fbi-raid-court-docs-say/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-queer-eye-220x180.png)](https://americanwirenews.com/meanwhile-at-the-white-house-kamala-harris-does-a-skit-with-queer-eye-cast-because-well-priorities/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bannonwarroom-1200-x-628-220x180.jpg)](https://americanwirenews.com/bannon-puts-lawfare-gang-on-notice-the-people-that-will-be-on-the-list-know-who-they-are/)
 
-[Meanwhile at the White House, Kamala Harris does a skit with ‘Queer Eye’ cast because … well, priorities](https://americanwirenews.com/meanwhile-at-the-white-house-kamala-harris-does-a-skit-with-queer-eye-cast-because-well-priorities/)
+[Bannon puts lawfare gang on notice: ‘The people that will be on the list know who they are’](https://americanwirenews.com/bannon-puts-lawfare-gang-on-notice-the-people-that-will-be-on-the-list-know-who-they-are/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -322,32 +322,30 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-ogle-sheriff-rf-gounaris-1200x630.jpg)](https://americanwirenews.com/wild-video-captures-intense-shootout-at-home-cop-shot-in-face-2-other-officers-hit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-utah-police-1200x630.jpg)](https://americanwirenews.com/utah-father-of-six-kills-his-wife-then-himself-after-odd-facebook-post/)
 
-Image via Ogle County Sheriff's Office
+[Utah father of six kills his wife, then himself after odd Facebook post](https://americanwirenews.com/utah-father-of-six-kills-his-wife-then-himself-after-odd-facebook-post/)
 
-[Wild video captures intense shootout at home – cop shot in face, 2 other officers hit](https://americanwirenews.com/wild-video-captures-intense-shootout-at-home-cop-shot-in-face-2-other-officers-hit/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-utah-police-220x180.jpg)](https://americanwirenews.com/utah-father-of-six-kills-his-wife-then-himself-after-odd-facebook-post/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-ogle-sheriff-rf-gounaris-220x180.jpg)](https://americanwirenews.com/wild-video-captures-intense-shootout-at-home-cop-shot-in-face-2-other-officers-hit/)
+[Utah father of six kills his wife, then himself after odd Facebook post](https://americanwirenews.com/utah-father-of-six-kills-his-wife-then-himself-after-odd-facebook-post/)
 
-[Wild video captures intense shootout at home – cop shot in face, 2 other officers hit
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-adan-carolla-220x180.png)](https://americanwirenews.com/adam-carolla-next-to-bail-on-california-faults-pile-of-sht-gov-newsom/)
 
-Image via Ogle County Sheriff's Office](https://americanwirenews.com/wild-video-captures-intense-shootout-at-home-cop-shot-in-face-2-other-officers-hit/)
+[Adam Carolla next to bail on California, faults ‘pile of sh\*t’ Gov. Newsom](https://americanwirenews.com/adam-carolla-next-to-bail-on-california-faults-pile-of-sht-gov-newsom/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-trumps-dechambeau-220x180.jpg)](https://americanwirenews.com/trump-congratulates-us-open-winner-in-video-cameo-champ-chugs-trump-pour-with-son-eric/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-sewage-sign-220x180.jpg)](https://americanwirenews.com/calif-beaches-warn-sewage-contaminated-water-amid-heat-wave-the-level-of-stress-when-you-smell-the-stench/)
 
-[Trump congratulates US Open winner in video cameo – champ chugs ‘Trump pour’ with son Eric](https://americanwirenews.com/trump-congratulates-us-open-winner-in-video-cameo-champ-chugs-trump-pour-with-son-eric/)
+[Calif. beaches warn ‘sewage contaminated water’ amid heat wave: ‘The level of stress when you smell the stench…’
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-uc-berkeley-220x180.jpg)](https://americanwirenews.com/uc-berkeley-arson-suspect-a-34-year-old-phd-grad-living-in-parents-million-dollar-home/)
+(Image: KGTV screenshot)](https://americanwirenews.com/calif-beaches-warn-sewage-contaminated-water-amid-heat-wave-the-level-of-stress-when-you-smell-the-stench/)
 
-[UC Berkeley arson suspect a 34-year-old PhD grad living in parents’ million-dollar home](https://americanwirenews.com/uc-berkeley-arson-suspect-a-34-year-old-phd-grad-living-in-parents-million-dollar-home/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-phelps-220x180.png)](https://americanwirenews.com/michael-phelps-responds-to-aussie-trashing-team-usa-make-them-eat-every-word/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-bills-220x180.png)](https://americanwirenews.com/nfls-buffalo-bills-thrilled-to-back-local-national-gay-flag-football-league-team/)
+[Michael Phelps responds to Aussie trashing Team USA: ‘Make them eat every word’](https://americanwirenews.com/michael-phelps-responds-to-aussie-trashing-team-usa-make-them-eat-every-word/)
 
-[NFL’s Buffalo Bills ‘thrilled’ to back local National Gay Flag Football League team](https://americanwirenews.com/nfls-buffalo-bills-thrilled-to-back-local-national-gay-flag-football-league-team/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-cognify-220x180.png)](https://americanwirenews.com/scientist-wants-to-use-ai-implants-in-prisoners-to-induce-memories-of-crimes-from-suffering-victims-perspective/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/gw-suspect-sg-crime-scene-220x180.jpg)](https://americanwirenews.com/illegal-immigrant-deported-multiple-times-behind-the-wheel-in-deadly-semi-crash/)
-
-[Illegal immigrant deported multiple times behind the wheel in deadly semi crash](https://americanwirenews.com/illegal-immigrant-deported-multiple-times-behind-the-wheel-in-deadly-semi-crash/)
+[Scientist wants to use AI implants in prisoners to induce ‘memories’ of crimes from suffering victim’s perspective](https://americanwirenews.com/scientist-wants-to-use-ai-implants-in-prisoners-to-induce-memories-of-crimes-from-suffering-victims-perspective/)
 
 © 2024. All Rights Reserved. American Wire News
