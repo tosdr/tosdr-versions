@@ -51,6 +51,8 @@ Get Inspired
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
 
+[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
+
 EnEsPt
 
 ↓
@@ -388,6 +390,8 @@ Transform more conversations into sales, leads, and conversions today
 [Get Started](https://manychat.com/signup)
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-white.93c1c234.svg)](https://manychat.com/)
+
+[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
 
 Manychat
 
