@@ -43,9 +43,9 @@ Search
     * [POL](#)
     * [PRT](#)
     
-* [My Wish List ![](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)![](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)](https://www.cdkeys.com/wishlist/) 
+* [My Wish List ![](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)![](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/white/wishlist.svg)](https://www.cdkeys.com/wishlist/) 
 * 
-* [My Cart ![](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)![](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)](https://www.cdkeys.com/checkout/cart/) 
+* [My Cart ![](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)![](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/white/basket.svg)](https://www.cdkeys.com/checkout/cart/) 
     
 
 Menu
@@ -432,7 +432,7 @@ You acknowledge that you have read, understood, and accepted to be bound by thes
 
 ### We accept
 
-![Visa](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/visa.png) ![MasterCard](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/mastercard.png) ![Maestro](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/maestro.png) ![PayPal](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/paypal.png) ![Apple Pay](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/apple-pay.png) ![IDeal](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/ideal.svg) ![Sofort](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/sofort.png) ![Giro Pay](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/giropay.png) ![Bancontact](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/bancontact.svg) ![Pix](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/pix.svg) ![PromptPay](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/prompt-pay.svg) ![Blik](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/blik.svg) ![Crypto](https://www.cdkeys.com/static/version1718005289/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/crypto.svg)
+![Visa](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/visa.png) ![MasterCard](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/mastercard.png) ![Maestro](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/maestro.png) ![PayPal](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/paypal.png) ![Apple Pay](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/apple-pay.png) ![IDeal](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/ideal.svg) ![Sofort](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/sofort.png) ![Giro Pay](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/giropay.png) ![Bancontact](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/bancontact.svg) ![Pix](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/pix.svg) ![PromptPay](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/prompt-pay.svg) ![Blik](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/blik.svg) ![Crypto](https://www.cdkeys.com/static/version1719384980/frontend/Medialounge/cdkeys/en_GB/images/icons/payment/crypto.svg)
 
 894K likes
 
@@ -452,99 +452,105 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/k/i/kingdom_hearts_remix.jpg)   No 1. \-42%](https://www.cdkeys.com/pc/kingdom-hearts-hd-1-5-2-5-remix-pc-eu-steam)
+1.    [![Mortal Kombat 1 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dadas.jpg)   No 1. \-70%](https://www.cdkeys.com/pc/mortal-kombat-1-pc-steam)
     
-    **[KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)](https://www.cdkeys.com/pc/kingdom-hearts-hd-1-5-2-5-remix-pc-eu-steam "KINGDOM HEARTS -HD 1.5+2.5 ReMIX- PC (Europe & UK)")**
+    **[Mortal Kombat 1 PC](https://www.cdkeys.com/pc/mortal-kombat-1-pc-steam "Mortal Kombat 1 PC")**
     
-    Special Price £24.99 RRP £43.09
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 2. \-24%
-    
-    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
-    
-    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
-    
-    Special Price £31.99 RRP £41.99
+    Special Price £17.99 RRP £59.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Fallout 76 PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fallout_589981919.jpg)   No 3. \-80%](https://www.cdkeys.com/pc/fallout-76-pc-ww-steam)
+2.    [![Destiny 2: 30th Anniversary Pack PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_40_.jpg)   No 2. \-90%
     
-    **[Fallout 76 PC (WW)](https://www.cdkeys.com/pc/fallout-76-pc-ww-steam "Fallout 76 PC (WW)")**
+    DLC](https://www.cdkeys.com/pc/destiny-2-30th-anniversary-pack-pc-dlc-steam)
     
-    Special Price £6.99 RRP £34.99
+    **[Destiny 2: 30th Anniversary Pack PC - DLC](https://www.cdkeys.com/pc/destiny-2-30th-anniversary-pack-pc-dlc-steam "Destiny 2: 30th Anniversary Pack PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Elden Ring PC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/5/d/5de6658946177c5f23698932_24_.jpg)   No 4. \-24%](https://www.cdkeys.com/pc/elden-ring-pc-steam)
-    
-    **[Elden Ring PC (EMEA)](https://www.cdkeys.com/pc/elden-ring-pc-steam "Elden Ring PC (EMEA)")**
-    
-    Special Price £37.99 RRP £49.99
+    Special Price £2.49 RRP £24.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![ELDEN RING Shadow of the Erdtree Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam_1_1_1.jpg)   No 5. \-20%
+3.    [![DAVE THE DIVER PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-21t160225.237.jpg)   No 3. \-53%](https://www.cdkeys.com/pc/dave-the-diver-pc-steam)
     
-    DLC](https://www.cdkeys.com/xbox-live/elden-ring-shadow-of-the-erdtree-xbox-eu)
+    **[DAVE THE DIVER PC](https://www.cdkeys.com/pc/dave-the-diver-pc-steam "DAVE THE DIVER PC")**
     
-    **[ELDEN RING Shadow of the Erdtree Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/elden-ring-shadow-of-the-erdtree-xbox-eu "ELDEN RING Shadow of the Erdtree Xbox (Europe & UK)")**
-    
-    Special Price £27.29 RRP £34.29
+    Special Price £7.99 RRP £16.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-6.    [![ELDEN RING Shadow of the Erdtree Premium Bundle PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree_premium_bundle-steam.jpg)   No 6. \-19%
+4.    [![Mad Max PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_4__3.jpg)   No 4. \-86%](https://www.cdkeys.com/pc/mad-max-pc)
     
-    DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-premium-bundle-pc-dlc-steam-emea)
+    **[Mad Max PC](https://www.cdkeys.com/pc/mad-max-pc "Mad Max PC")**
     
-    **[ELDEN RING Shadow of the Erdtree Premium Bundle PC - DLC (EMEA)](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-premium-bundle-pc-dlc-steam-emea "ELDEN RING Shadow of the Erdtree Premium Bundle PC - DLC (EMEA)")**
-    
-    Special Price £32.49 RRP £39.99
+    Special Price £2.19 RRP £15.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam.jpg)   No 7. \-23%
+5.    [![Squad PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_21_.jpg)   No 5. \-43%](https://www.cdkeys.com/pc/squad-pc-steam)
+    
+    **[Squad PC](https://www.cdkeys.com/pc/squad-pc-steam "Squad PC ")**
+    
+    Special Price £22.99 RRP £39.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-28t153630.660.jpg)   No 6. \-73%](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc)
+    
+    **[Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc "Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC")**
+    
+    Special Price £16.49 RRP £59.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Grand Theft Auto V 5 (GTA 5): Premium Online Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_8_-min.jpg)   No 7. \-84%](https://www.cdkeys.com/pc/grand-theft-auto-v-5-gta-5-premium-online-edition-rockstar-social-club-pc)
+    
+    **[Grand Theft Auto V 5 (GTA 5): Premium Online Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/pc/grand-theft-auto-v-5-gta-5-premium-online-edition-rockstar-social-club-pc "Grand Theft Auto V 5 (GTA 5): Premium Online Edition PC - Rockstar Games Launcher")**
+    
+    Special Price £7.99 RRP £49.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![Horizon Forbidden West Complete Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-10-02t151943.412.jpg)   No 8. \-41%](https://www.cdkeys.com/pc/horizon-forbidden-west-complete-edition-pc-steam)
+    
+    **[Horizon Forbidden West Complete Edition PC](https://www.cdkeys.com/pc/horizon-forbidden-west-complete-edition-pc-steam "Horizon Forbidden West Complete Edition PC")**
+    
+    Special Price £29.49 RRP £49.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Assetto Corsa PC](https://cdn.cdkeys.com/245x340/media/catalog/product/a/d/adsadada.jpg)   No 9. \-94%](https://www.cdkeys.com/pc/assetto-corsa-pc)
+    
+    **[Assetto Corsa PC](https://www.cdkeys.com/pc/assetto-corsa-pc "Assetto Corsa PC")**
+    
+    Special Price £1.49 RRP £23.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+10.    [![ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_shadow_of_the_erdtree-steam.jpg)   No 10. \-26%
     
     DLC](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea)
     
     **[ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)](https://www.cdkeys.com/pc/elden-ring-shadow-of-the-erdtree-pc-dlc-steam-emea "ELDEN RING Shadow of the Erdtree PC - DLC (EMEA)")**
     
-    Special Price £26.99 RRP £34.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2024-01-03t115939.705.jpg)   No 8. \-45%](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam)
-    
-    **[SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC](https://www.cdkeys.com/pc/south-park-snow-day-digital-deluxe-pc-steam "SOUTH PARK: SNOW DAY! Digital Deluxe Edition PC")**
-    
-    Special Price £21.99 RRP £39.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-9.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 9. \-52%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
-    
-    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
-    
-    Special Price £19.99 RRP £41.99
+    Special Price £25.99 RRP £34.99
     
     [Add to Wish List](# "Add to Wish List")
     
