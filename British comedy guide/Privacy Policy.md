@@ -142,21 +142,21 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
-[Bodger & Badger. Simon Bodger (Andy Cunningham)](https://www.comedy.co.uk/quiz/311/)Quiz
+[Educating Rita. Image shows from L to R: Rita (Julie Walters), Dr. Frank Bryant (Michael Caine)](https://www.comedy.co.uk/quiz/312/)Quiz
 
-[British Comedy Quiz #311](https://www.comedy.co.uk/quiz/311/)
+[British Comedy Quiz #312](https://www.comedy.co.uk/quiz/312/)
 
-[Dabbers Bingo Comedy Caller Contest](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)Live
+[Paul Sinha](https://www.comedy.co.uk/competitions/paul-sinha-book/)Competitions
 
-[Finalists ready for Dabbers Bingo Comedy Caller Contest 2024](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)
+[Win a copy of Paul Sinha's book](https://www.comedy.co.uk/competitions/paul-sinha-book/)
 
-[James Barr](https://www.comedy.co.uk/live/random8/james-barr/)Live
+[Martha MacDonald](https://www.comedy.co.uk/live/random8/martha-macdonald/)Live
 
-[Random 8: James Barr](https://www.comedy.co.uk/live/random8/james-barr/)
+[Random 8: Martha MacDonald](https://www.comedy.co.uk/live/random8/martha-macdonald/)
 
-[On The Buses. Jack Harper (Bob Grant)](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)Features
+[Kind Hearts And Coronets. Image shows from L to R: Louis Mazzini (Dennis Price), Sibella (Joan Greenwood). Copyright: Ealing Studios](https://www.comedy.co.uk/features/comedy-rewind/kind-hearts-and-coronets/)Features
 
-[Comedy Chronicles: The bus stop - The post-fame fate of Bob Grant](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)
+[Comedy Rewind: In the family name - Kind Hearts And Coronets](https://www.comedy.co.uk/features/comedy-rewind/kind-hearts-and-coronets/)
 
 #### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
 
@@ -199,7 +199,7 @@ Privacy settings
 
 * * *
 
-Clowns divorce. Custardy battle.[Simon Munnery](https://www.comedy.co.uk/fringe/2015/features/dave_top10_jokes_of_fringe_2015/)
+Money couldn't buy friends, but you got a better class of enemy.[Spike Milligan](https://www.comedy.co.uk/people/spike_milligan/)
 
 © British Comedy Guide
 
