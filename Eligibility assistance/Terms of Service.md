@@ -5,7 +5,7 @@ This site is privately owned and is not affiliated with any government agency. L
 Main Navigation
 ---------------
 
-[![EligibilityAssistance.org](https://assets.eligibilityassistance.org/wp-content/uploads/sites/161/2023/01/EligibilityAssistance_org_logo_tagline-1.svg)](https://eligibilityassistance.org/) 
+[![EligibilityAssistance.org](https://assets.eligibilityassistance.org/wp-content/uploads/sites/161/2023/01/EligibilityAssistance_org_logo_tagline-1.svg)](https://eligibilityassistance.org/)
 
 1Information
 
