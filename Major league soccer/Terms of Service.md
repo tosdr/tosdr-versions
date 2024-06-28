@@ -491,6 +491,12 @@ Under California Civil Code Section 1789.3, California users of the Services are
 
 These Terms of Service constitute the entire agreement between the parties, and supersede all prior and contemporaneous written or oral agreements, proposals or communications with respect to the subject matter herein between you and us. We in our sole discretion may amend these Terms of Service, and your use of the Site or Services after such amendment is posted on the Site will constitute acceptance of it by you. The section headings in these Terms of Service are for convenience only and must not be given any legal import. Except as otherwise specifically provided herein (e.g., the Additional Procedures for Mass Filings in Section 18), if any provision of these Terms of Service is held by a court of competent jurisdiction to be unlawful, void, invalid or unenforceable, the remaining provisions shall remain in full force and effect. MLS's failure to enforce any provisions of these Terms of Service or respond to a breach by you or another user shall not serve to waive MLS's right enforce subsequently any terms or conditions of these Terms of Service or to act with respect to similar breaches.
 
+* [![MLS NEXT Pro](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/mls-next-pro_d3fakn.png)](https://www.mlsnextpro.com/)
+* [![MLS NEXT](https://images.mlssoccer.com/image/upload/v1719428286/assets/logos/mls-next_suwanh.png)](https://www.mlssoccer.com/mlsnext/)
+* [![MLS GO](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/MLS_GO_xcw4eo.png)](https://www.mlssoccer.com/mlsgo/)
+
+* [![Leagues Cup](https://images.mlssoccer.com/image/upload/v1719428284/assets/logos/Leagues_cup-vertical_yuhvsx.png)](https://www.leaguescup.com/)
+
 * About MLS
 * [Fact & Record Book](https://www.mlssoccer.com/about/fact-and-record-book)
 * [Competition Guidelines](https://www.mlssoccer.com/about/competition-guidelines)
