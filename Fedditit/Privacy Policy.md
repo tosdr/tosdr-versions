@@ -135,7 +135,7 @@ Qualora l’interessato ritenga che il trattamento dei dati personali che lo rig
 
 Parti di questi termini di servizio sono state prese da eupolicy.social e adattate da [https://mastodon.nicfab.it/privacy-policy#Informativa\_Privacy\_IT](https://mastodon.nicfab.it/privacy-policy#Informativa_Privacy_IT).
 
-* BE: 0.19.3
+* BE: 0.19.5
 * [Modlog](https://feddit.it/modlog)
 * [Legal](https://feddit.it/legal)
 * [Instances](https://feddit.it/instances)
