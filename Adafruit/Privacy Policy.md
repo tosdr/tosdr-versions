@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of black, rectangular datalogging board.](https://cdn-shop.adafruit.com/230x173/5980-00.jpg)[Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card
+    
+    $14.95](https://www.adafruit.com/product/5980)
+    
     ![Angled Top Shot of the Enclosure for Adafruit TRRS Trinkey showing the Headphone Jack.](https://cdn-shop.adafruit.com/230x173/5981-02.jpg)[Snap-on Enclosure for Adafruit TRRS Trinkey
     
     $2.50](https://www.adafruit.com/product/5981)
@@ -83,13 +87,9 @@ Search
     
     $9.95](https://www.adafruit.com/product/5974)
     
-    ![Video of gloved hands playing with a green LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5920-03.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Green
+    ![Angled shot of USB type C breakout.](https://cdn-shop.adafruit.com/230x173/5978-00.jpg)[Adafruit USB Type C Plug Breakout
     
-    $11.95](https://www.adafruit.com/product/5920)
-    
-    ![Angled shot of black, rectangular breakout board with a green 3-pin terminal block.](https://cdn-shop.adafruit.com/230x173/5976-00.jpg)[Adafruit DS2484 I2C to 1-Wire Bus Adapter Breakout
-    
-    $7.50](https://www.adafruit.com/product/5976)
+    $2.50](https://www.adafruit.com/product/5978)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -101,13 +101,13 @@ Search
     
     $14.95](https://www.adafruit.com/product/5890)
     
+    ![Video of a DIY camera on a lazy susan.](https://cdn-shop.adafruit.com/product-videos/320x240/5420-05.jpg)[MEMENTO - Python Programmable DIY Camera - Bare Board
+    
+    $34.95](https://www.adafruit.com/product/5420)
+    
     ![Overhead shot of TFT driver board connected to a round TFT display, which says, "Hello world!"](https://cdn-shop.adafruit.com/230x173/5800-06.jpg)[Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays
     
     $19.95](https://www.adafruit.com/product/5800)
-    
-    ![Angled shot of black, credit-card-sized development board.](https://cdn-shop.adafruit.com/230x173/5786-00.jpg)[Adafruit Metro RP2040
-    
-    $14.95](https://www.adafruit.com/product/5786)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius”
+“ A strong spirit transcends rules”
 
-[William Blake](http://en.wikipedia.org/wiki/William_Blake)
+[Prince](https://en.wikipedia.org/wiki/Prince_(musician))
 
 [](https://www.adafruit.com/about)
 
