@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/666a5448f9f1762bb1429cc7_clearco-live-question-answer-fintech.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/667c0d62769e2b1889e14c90_667ad005a156cf9513c77126_receipt-reimbursement-clearco-ecommerce-inventory-funding.jpeg)
 
-###### Clearco is hosting a LIVE Q&A with our Founder Success team
+###### Clearco Funding Update: Increasing Capacity on Receipts for up to $1,000,000!
 
-[Read now >](https://clear.co/blog/clearco-is-hosting-ama-ecommerce-funding)
+[Read now >](https://clear.co/blog/ecommerce-inventory-funding-update-increasing-limit-receipts-invoices)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
