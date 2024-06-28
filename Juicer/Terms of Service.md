@@ -41,6 +41,7 @@
         * [Embed Twitter Feed](https://www.juicer.io/blog/embed-twitter-feed-on-website)
         * [Embed LinkedIn Feed](https://www.juicer.io/blog/embed-linkedin-feed-on-website)
         * [Embed Instagram Reels](https://www.juicer.io/blog/embed-instagram-reels-on-website)
+        * [Embed Instagram Stories](https://www.juicer.io/blog/embed-instagram-stories-on-website)
         * [Embed Facebook Feed](https://www.juicer.io/blog/embed-facebook-feed-on-website)
 * [Resources](#)
     * Resources
@@ -94,6 +95,7 @@ Menu
         * [Embed Twitter Feed](https://www.juicer.io/blog/embed-twitter-feed-on-website)
         * [Embed LinkedIn Feed](https://www.juicer.io/blog/embed-linkedin-feed-on-website)
         * [Embed Instagram Reels](https://www.juicer.io/blog/embed-instagram-reels-on-website)
+        * [Embed Instagram Stories](https://www.juicer.io/blog/embed-instagram-stories-on-website)
         * [Embed Facebook Feed](https://www.juicer.io/blog/embed-facebook-feed-on-website)
 * [Resources](#)
     * Resources
