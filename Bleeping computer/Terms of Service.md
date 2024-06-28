@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hackers target new MOVEit Transfer critical auth bypass bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        "Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
-    * [![CDK Global hacked again while recovering from first cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers target new MOVEit Transfer critical auth bypass bug](https://www.bleepingcomputer.com/news/security/hackers-target-new-moveit-transfer-critical-auth-bypass-bug/)
+    * [![Windows 11 KB5039302 update released with 9 changes or fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
-    * [![Microsoft says bug causes Windows 10 apps to display Open With dialogs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 11 KB5039302 update released with 9 changes or fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5039302-update-released-with-9-changes-or-fixes/)
+    * [![Snowblind malware abuses Android security feature to bypass security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
-    * [![ONNX phishing service targets Microsoft 365 accounts at financial firms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Snowblind malware abuses Android security feature to bypass security](https://www.bleepingcomputer.com/news/security/snowblind-malware-abuses-android-security-feature-to-bypass-security/)
+    * [![Plugins on WordPress.org backdoored in supply chain attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
+        Plugins on WordPress.org backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/plugins-on-wordpressorg-backdoored-in-supply-chain-attack/)
     
-    * [![Automate Windows tasks with $58 off this PowerShell training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Former IT employee accessed data of over 1 million US patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Automate Windows tasks with $58 off this PowerShell training bundle](https://www.bleepingcomputer.com/offer/deals/automate-windows-tasks-with-58-off-this-powershell-training-bundle/)
-    * [![CDK warns: threat actors are calling customers, posing as support](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Former IT employee accessed data of over 1 million US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
+    * [![BlackSuit ransomware gang claims attack on KADOKAWA corporation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK warns: threat actors are calling customers, posing as support](https://www.bleepingcomputer.com/news/security/cdk-warns-threat-actors-are-calling-customers-posing-as-support/)
-    * [![Biden bans Kaspersky antivirus software in US over security concerns](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        BlackSuit ransomware gang claims attack on KADOKAWA corporation](https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-gang-claims-attack-on-kadokawa-corporation/)
+    * [![New Unfurling Hemlock threat actor floods systems with malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Biden bans Kaspersky antivirus software in US over security concerns](https://www.bleepingcomputer.com/news/security/biden-bans-kaspersky-antivirus-software-in-us-over-security-concerns/)
-    * [![Phoenix UEFI vulnerability impacts hundreds of Intel PC models](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Unfurling Hemlock threat actor floods systems with malware](https://www.bleepingcomputer.com/news/security/new-unfurling-hemlock-threat-actor-floods-systems-with-malware/)
+    * [![U.S. indicts Russian GRU hacker, offers $10 million reward](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Phoenix UEFI vulnerability impacts hundreds of Intel PC models](https://www.bleepingcomputer.com/news/security/phoenix-uefi-vulnerability-impacts-hundreds-of-intel-pc-models/)
+        U.S. indicts Russian GRU hacker, offers $10 million reward](https://www.bleepingcomputer.com/news/security/us-indicts-russian-gru-hacker-offers-10-million-reward/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,26 +352,26 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![TeamViewer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
-* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    TeamViewer's corporate network was breached in alleged APT hack](https://www.bleepingcomputer.com/news/security/teamviewers-corporate-network-was-breached-in-alleged-apt-hack/)
+* [![CISA](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
+    CISA: Most critical open source projects not using memory safe code](https://www.bleepingcomputer.com/news/security/cisa-most-critical-open-source-projects-not-using-memory-safe-code/)
 
 Latest forum topics
 
-* [Windows sometimes freezes.](https://www.bleepingcomputer.com/forums/t/798378/windows-sometimes-freezes/)
+* [Old Dell running Windows XP](https://www.bleepingcomputer.com/forums/t/798567/old-dell-running-windows-xp/)
     
-    [einstein1969](https://www.bleepingcomputer.com/forums/u/1316674/einstein1969/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
+    [mrdillon](https://www.bleepingcomputer.com/forums/u/1290797/mrdillon/) in [Internal Hardware](https://www.bleepingcomputer.com/forums/f/7/internal-hardware/)
     
-* [Redirecting to bimq.co](https://www.bleepingcomputer.com/forums/t/798375/redirecting-to-bimqco/)
+* [reboot.pro down](https://www.bleepingcomputer.com/forums/t/798565/rebootpro-down/)
     
-    [reinmar](https://www.bleepingcomputer.com/forums/u/421057/reinmar/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [BeigeBochs](https://www.bleepingcomputer.com/forums/u/1031946/beigebochs/) in [General Chat](https://www.bleepingcomputer.com/forums/f/5/general-chat/)
     
-* [Help with UEIF Bootkit](https://www.bleepingcomputer.com/forums/t/798373/help-with-ueif-bootkit/)
+* [reboot.pro down](https://www.bleepingcomputer.com/forums/t/798564/rebootpro-down/)
     
-    [Severartery](https://www.bleepingcomputer.com/forums/u/1316656/severartery/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [BeigeBochs](https://www.bleepingcomputer.com/forums/u/1031946/beigebochs/) in [Web Browsing/Email and Other Internet Applications](https://www.bleepingcomputer.com/forums/f/14/web-browsingemail-and-other-internet-applications/)
     
 
 Latest virus removal guides
@@ -418,7 +418,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,059 _Downloads_**
+    **54,170 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -426,7 +426,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,822 _Downloads_**
+    **41,913 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -434,7 +434,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,135 _Downloads_**
+    **103,208 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -442,7 +442,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,173 _Downloads_**
+    **150,216 _Downloads_**
     
 
 ##### Follow us:
