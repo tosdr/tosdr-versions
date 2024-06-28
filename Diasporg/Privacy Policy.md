@@ -1,5 +1,5 @@
-diaspora - Privacy Policy
-=========================
+diaspora\* - Privacy Policy
+===========================
 
 Our privacy policy applies to information we collect when you use or access our website located at https://diasp.org/ and social networking services, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective six (6) weeks after we post the revised privacy policy to our website (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -32,7 +32,7 @@ We may use information about you for various purposes, including to:
 * Provide, maintain and improve our services;
 * Send you technical notices, updates, security alerts and support and administrative messages;
 * Respond to your comments, questions and requests;
-* Communicate with you about **diaspora**\-related news and information;
+* Communicate with you about **diaspora\***\-related news and information;
 * Monitor and analyze trends, usage and activities in connection with our services; and
 * Personalize and improve our services.
 
@@ -44,8 +44,8 @@ Remember, we don't share your information with advertisers.
 We may share personal information about you as follows:
 
 * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
-* To enforce applicable user agreements or policies, including our [terms of service](https://diasp.org/terms#terms); and to protect **diaspora**, our users or the public from harm or illegal activities;
-* In connection with any merger, sale of **diaspora** assets, financing or acquisition of all or a portion of our business to another company or individual; and
+* To enforce applicable user agreements or policies, including our [terms of service](https://diasp.org/terms#terms); and to protect **diaspora\***, our users or the public from harm or illegal activities;
+* In connection with any merger, sale of **diaspora\*** assets, financing or acquisition of all or a portion of our business to another company or individual; and
 * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
 We may also share aggregated or anonymized information that does not directly identify you.
@@ -53,7 +53,7 @@ We may also share aggregated or anonymized information that does not directly id
 Security
 --------
 
-**diaspora** takes reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+**diaspora\*** takes reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
 Your Information Choices
 ------------------------
