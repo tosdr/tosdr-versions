@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Enter the realm of shadow and fall from grace in the expansion ELDEN RING SHADOW OF THE ERDTREE, available now](https://en.bandainamcoent.eu/elden-ring/news/enter-the-realm-of-shadow-and-fall-grace-the-expansion-elden-ring-shadow-of-the)
-* [Elden Ring - How to enter the Realm of Shadow](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-how-enter-the-realm-of-shadow)
+* [ELDEN RING Shadow of the Erdtree reaches 5 million units sold worldwide](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-reaches-5-million-units-sold-worldwide)
+* [Enjoy the clash between sword and fist in the new DRAGON BALL: Sparking! ZERO Trailer!](https://en.bandainamcoent.eu/dragon-ball/news/enjoy-the-clash-between-sword-and-fist-the-new-dragon-ball-sparking-zero-trailer)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
