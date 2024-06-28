@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjowrcQ3OqgJJhnxMeTLypAAbgqcZ56H6q6unEiahXdLucgXdILBLLek8Qr8K2s3xmPnf:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjowrcQ3OqgJJhnxMeTLypAAbgqcZ56H6q6unEiahXdLucgXdILBLLek8Qr8K2s3xmPnf:0&docurl=https://docs.google.com/document/d/e/2PACX-1vSkQf1wYMi6HyIDhZPJUXwmoQMubP7EgaQfjt57xtpK9a7F7GUYyXRz12Zx8pkwqA/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 Global Tasks - Privacy Policy.docx
 
@@ -20,9 +20,9 @@ We may collect and process the following data about you:
 
 * Information you give us. You may give us information about you from time to time, for example if you email us with questions or comments in relation to the Product. The information you give us may include your name, address, e-mail address and phone number.
 
-Information we receive from other sources. In order to sign in and use the Product, you must use your Google account.  When you do this, we receive information about you from Google, namely your name and email address. We also use Google Analytics to track and report your use of the Product so that we can understand how the Product is used and continuously improve it. Google Analytics uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website but will not store, save, or collect personal information. You can read Google's privacy policy here for further information [http://www.google.com/privacy.html](https://www.google.com/url?q=http://www.google.com/privacy.html&sa=D&source=editors&ust=1719024084692955&usg=AOvVaw0v444qRhoovB9evARULgu5).
+Information we receive from other sources. In order to sign in and use the Product, you must use your Google account.  When you do this, we receive information about you from Google, namely your name and email address. We also use Google Analytics to track and report your use of the Product so that we can understand how the Product is used and continuously improve it. Google Analytics uses cookies to track visitor usage. The software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the website but will not store, save, or collect personal information. You can read Google's privacy policy here for further information [http://www.google.com/privacy.html](https://www.google.com/url?q=http://www.google.com/privacy.html&sa=D&source=editors&ust=1719591389941745&usg=AOvVaw1l46YqNVT9tRWH3mzxtOiA).
 
-Please note that Google will also have its own control of the information obtained through Google Analytics. It will hold this information on its servers in the United States in accordance with its own privacy policies. More information on how Google will use the information from Google Analytics can be found at: [www.google.com/policies/privacy/partners/](https://www.google.com/url?q=https://www.google.com/policies/privacy/partners/&sa=D&source=editors&ust=1719024084693816&usg=AOvVaw0U2TQyhw3IvX_1o9TKqSTN).
+Please note that Google will also have its own control of the information obtained through Google Analytics. It will hold this information on its servers in the United States in accordance with its own privacy policies. More information on how Google will use the information from Google Analytics can be found at: [www.google.com/policies/privacy/partners/](https://www.google.com/url?q=https://www.google.com/policies/privacy/partners/&sa=D&source=editors&ust=1719591389942303&usg=AOvVaw1AA6BnehQzWWP8WS4YWy_s).
 
 How we use your information
 
