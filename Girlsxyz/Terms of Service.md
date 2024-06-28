@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2357 Connecté
+2860 Connecté
 
 [Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
 
@@ -10,42 +10,42 @@
 
 Catégories
 
-* [Anal (838 Live)](https://girls.xyz/anal)
-* [Arabe (12 Live)](https://girls.xyz/arabe)
-* [Asiatique (65 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (132 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (174 Live)](https://girls.xyz/blacks)
-* [Blanches (475 Live)](https://girls.xyz/blanches)
-* [Blondes (236 Live)](https://girls.xyz/blonde)
-* [Brunes (1060 Live)](https://girls.xyz/brune)
-* [Chattes poilues (142 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (988 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (1 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (561 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (631 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (905 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (309 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (1146 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (14 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (684 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (509 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (96 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (312 Live)](https://girls.xyz/grosses)
-* [Indienne (6 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (561 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (1162 Live)](https://girls.xyz/jouets)
-* [Latinas (767 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (7 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (629 Live)](https://girls.xyz/babes)
-* [Musclé (44 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (184 Live)](https://girls.xyz/petite)
-* [Petits seins (309 Live)](https://girls.xyz/petits-seins)
-* [Pornstar (7 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (203 Live)](https://girls.xyz/rousses)
-* [Seins moyens (585 Live)](https://girls.xyz/seins-moyens)
-* [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (390 Live)](https://girls.xyz/sm)
-* [Vieilles (17 Live)](https://girls.xyz/vieilles)
+* [Anal (1047 Live)](https://girls.xyz/anal)
+* [Arabe (30 Live)](https://girls.xyz/arabe)
+* [Asiatique (61 Live)](https://girls.xyz/asiatique)
+* [Belles et rondes (178 Live)](https://girls.xyz/belles-et-rondes)
+* [Blacks (204 Live)](https://girls.xyz/blacks)
+* [Blanches (674 Live)](https://girls.xyz/blanches)
+* [Blondes (328 Live)](https://girls.xyz/blonde)
+* [Brunes (1300 Live)](https://girls.xyz/brune)
+* [Chattes poilues (202 Live)](https://girls.xyz/chattes-poilues)
+* [Chattes rasées (1228 Live)](https://girls.xyz/chattes-ras%C3%A9es)
+* [Enceintes (4 Live)](https://girls.xyz/enceintes)
+* [Etudiantes (673 Live)](https://girls.xyz/lyc%C3%A9ennes)
+* [Femmes au Foyer (785 Live)](https://girls.xyz/femmes-au-foyer)
+* [Femmes fontaines (1171 Live)](https://girls.xyz/squirting)
+* [Femmes mûres (450 Live)](https://girls.xyz/femmes-m%C3%BBres)
+* [Fetiche (1412 Live)](https://girls.xyz/fetiche)
+* [Fumeuses (19 Live)](https://girls.xyz/fumeuses)
+* [Gros cul (857 Live)](https://girls.xyz/gros-cul)
+* [Gros seins (645 Live)](https://girls.xyz/gros-seins)
+* [Gros Seins (133 Live)](https://girls.xyz/seins-enormes)
+* [Grosses (405 Live)](https://girls.xyz/grosses)
+* [Indienne (11 Live)](https://girls.xyz/indienne)
+* [Jeunes 18+ (673 Live)](https://girls.xyz/ados-18)
+* [Jouets sexuels (1484 Live)](https://girls.xyz/jouets)
+* [Latinas (914 Live)](https://girls.xyz/latinas)
+* [Lesbiennes (18 Live)](https://girls.xyz/lesbi%C3%A8nes)
+* [Minettes (773 Live)](https://girls.xyz/babes)
+* [Musclé (55 Live)](https://girls.xyz/muscl%C3%A9)
+* [Petite (198 Live)](https://girls.xyz/petite)
+* [Petits seins (324 Live)](https://girls.xyz/petits-seins)
+* [Pornstar (11 Live)](https://girls.xyz/stars-du-porno)
+* [Rousses (266 Live)](https://girls.xyz/rousses)
+* [Seins moyens (790 Live)](https://girls.xyz/seins-moyens)
+* [Sexe en Groupe (1 Live)](https://girls.xyz/sexe-en-groupe)
+* [SM (478 Live)](https://girls.xyz/sm)
+* [Vieilles (32 Live)](https://girls.xyz/vieilles)
 
 Historique
 
@@ -303,7 +303,7 @@ Lorsqu’elle est activée, la recharge automatique des tokens s’applique chaq
 | 16600 Jetons pour 990.00 € | 90 Jetons | 16600 Jetons pour 990.00 € |
 | 42100 Jetons pour 2,500.00 € | 90 Jetons | 42100 Jetons pour 2,500.00 € |
 
-L’option sera active à partir du moment de son activation jusqu’à sa désactivation à tout moment par l’Abonné dans la section des paramètres du compte (veuillez voir l’hyperlien [http://girls.xyz/account/account-info](https://girls.xyz/account/account-info)). Il n’y a pas de limite au nombre de retraits automatiques de fonds et de recharges de tokens, à savoir qu’après l’activation de l’option, elle s’appliquera chaque fois que le solde de tokens atteindra le montant de tokens spécifié ci-dessus, jusqu’à ce que l’option soit désactivée par l’Abonné. Dans le cas où la transaction de retrait automatique serait refusée pour quelque raison que ce soit lors de la procédure de traitement du paiement trois fois de suite, la transaction sera automatiquement suspendue et le paiement manuel par l’Abonné sera requis.
+L’option sera active à partir du moment de son activation jusqu’à sa désactivation à tout moment par l’Abonné dans la section des paramètres du compte (veuillez voir l’hyperlien [https://girls.xyz/account/account-info](https://girls.xyz/account/account-info)). Il n’y a pas de limite au nombre de retraits automatiques de fonds et de recharges de tokens, à savoir qu’après l’activation de l’option, elle s’appliquera chaque fois que le solde de tokens atteindra le montant de tokens spécifié ci-dessus, jusqu’à ce que l’option soit désactivée par l’Abonné. Dans le cas où la transaction de retrait automatique serait refusée pour quelque raison que ce soit lors de la procédure de traitement du paiement trois fois de suite, la transaction sera automatiquement suspendue et le paiement manuel par l’Abonné sera requis.
 
 L’option de rechargement automatique n’est disponible que pour les abonnés qui ont activé la vérification en deux étapes du compte de l’abonné.
 
@@ -671,7 +671,7 @@ Assistance
 *   
     
 * [Avis des utilisateurs](https://girls.xyz/reviews)
-* [Complaints & Content Removal](https://girls.xyz/content-removal)
+* [Retrait de contenu](https://girls.xyz/content-removal)
 
 Concours / Argent
 
