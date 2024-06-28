@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Paul-Redd-326x245.jpg)](https://cwbchicago.com/2024/06/gunman-shot-paleta-man-during-dispute-over-3-ice-cream-officials-say.html "Gunman shot paleta man during $3 ice cream dispute, officials say")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Candelarious-Garcia-326x245.jpg)](https://cwbchicago.com/2024/06/driver-who-plowed-into-crowd-outside-white-sox-game-gets-4%c2%bd-year-sentence.html "Driver who plowed into crowd outside White Sox game gets 4½-year sentence")
 
 Citywide
 
-### [Gunman shot paleta man during $3 ice cream dispute, officials say](https://cwbchicago.com/2024/06/gunman-shot-paleta-man-during-dispute-over-3-ice-cream-officials-say.html "Gunman shot paleta man during $3 ice cream dispute, officials say")
+### [Driver who plowed into crowd outside White Sox game gets 4½-year sentence](https://cwbchicago.com/2024/06/driver-who-plowed-into-crowd-outside-white-sox-game-gets-4%c2%bd-year-sentence.html "Driver who plowed into crowd outside White Sox game gets 4½-year sentence")
 
-[June 19, 2024 2:51 AM](https://cwbchicago.com/2024/06)
+[June 26, 2024 3:55 AM](https://cwbchicago.com/2024/06)
 
-A dispute over the price of a $3 ice cream ended with a paleta man shot and a SWAT team response by the Chicago Police Department, officials said. Charges have been filed. [](https://cwbchicago.com/2024/06/gunman-shot-paleta-man-during-dispute-over-3-ice-cream-officials-say.html "Gunman shot paleta man during $3 ice cream dispute, officials say")
+A man has been sentenced to more than four years in prison for plowing his car into a group of people outside a White Sox game last June.[](https://cwbchicago.com/2024/06/driver-who-plowed-into-crowd-outside-white-sox-game-gets-4%c2%bd-year-sentence.html "Driver who plowed into crowd outside White Sox game gets 4½-year sentence")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/344-ogden-326x245.jpg)](https://cwbchicago.com/2024/06/ms13-gang-member-sexually-assaulted-his-own-7-year-old-son-inside-west-town-migrant-shelter-officials-say.html "MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say")
+![](https://cwbchicago.com/wp-content/uploads/2024/06/Larry-Neuman-suspects-wanted-and-arrested-JH313876-326x245.jpg)](https://cwbchicago.com/2024/06/cop-killing-teen-was-supposed-to-be-on-home-confinement-for-a-gun-case-prosecutors-say.html "Cop killing teen was supposed to be on home confinement for a gun case, prosecutors say")
+
+Citywide
+
+### [Cop killing teen was supposed to be on home confinement for a gun case, prosecutors say](https://cwbchicago.com/2024/06/cop-killing-teen-was-supposed-to-be-on-home-confinement-for-a-gun-case-prosecutors-say.html "Cop killing teen was supposed to be on home confinement for a gun case, prosecutors say")
+
+[June 25, 2024 7:25 PM](https://cwbchicago.com/2024/06)
+
+A 16-year-old boy was supposed to be on house arrest for a pending gun case when he helped murder retired Chicago Police Officer Larry Neuman last Thursday morning, prosecutors said.[](https://cwbchicago.com/2024/06/cop-killing-teen-was-supposed-to-be-on-home-confinement-for-a-gun-case-prosecutors-say.html "Cop killing teen was supposed to be on home confinement for a gun case, prosecutors say")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/06/1358-elston-shelter-326x245.jpg)](https://cwbchicago.com/2024/06/migrant-carjacked-by-migrants-outside-migrant-shelter-report.html "Migrant carjacked by migrants outside migrant shelter: report")
 
 West Town
 
-### [MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say](https://cwbchicago.com/2024/06/ms13-gang-member-sexually-assaulted-his-own-7-year-old-son-inside-west-town-migrant-shelter-officials-say.html "MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say")
+### [Migrant carjacked by migrants outside migrant shelter: report](https://cwbchicago.com/2024/06/migrant-carjacked-by-migrants-outside-migrant-shelter-report.html "Migrant carjacked by migrants outside migrant shelter: report")
 
-[June 18, 2024 4:29 PM](https://cwbchicago.com/2024/06)
+[June 25, 2024 6:21 AM](https://cwbchicago.com/2024/06)
 
-A migrant who admits to being an MS13 gang member sexually assaulted his own 7-year-old son inside a Chicago migrant shelter this month, officials said.[](https://cwbchicago.com/2024/06/ms13-gang-member-sexually-assaulted-his-own-7-year-old-son-inside-west-town-migrant-shelter-officials-say.html "MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/700-n-union-041A-326x245.jpg)](https://cwbchicago.com/2024/06/man-shot-near-west-loop-encampment1.html "Man shot near West Loop encampment")
-
-West Loop
-
-### [Man shot near West Loop encampment](https://cwbchicago.com/2024/06/man-shot-near-west-loop-encampment1.html "Man shot near West Loop encampment")
-
-[June 18, 2024 8:01 AM](https://cwbchicago.com/2024/06)
-
-A 48-year-old man was shot Tuesday morning near a homeless encampment in the West Loop. Local residents and politicians have been pointing to the area’s tent cities as a source of violent crime for nearly a year.[](https://cwbchicago.com/2024/06/man-shot-near-west-loop-encampment1.html "Man shot near West Loop encampment")
+A group of migrants attacked, robbed, and carjacked another migrant outside the city’s shelter at 1358 North Elston, across from the Salt Shed, on Monday evening.[](https://cwbchicago.com/2024/06/migrant-carjacked-by-migrants-outside-migrant-shelter-report.html "Migrant carjacked by migrants outside migrant shelter: report")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Message
+Phone
 
 Submit
 
