@@ -201,9 +201,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, June 21, 2024**
+**Thursday, June 27, 2024**
 
-**...Invest 92L to Reach the Northeast Florida/Southeast Georgia Coast By Tonight; A Short-Lived Tropical Depression May Develop Prior To Reaching the Coast (60% Chance of Development)...Regardless of Development, Heavy Rainfall, Gusty Winds (Near 30 MPH), and Coastal Impacts Possible...Scattered Showers and Embedded Thunderstorm Across the Northern Peninsula Today And Tonight…Marginal Risk For Flash Flooding Across the Northern Peninsula As Training Bands Producing Heavy Rainfall May Lead To Instances of Flooding…Relatively Drier Conditions Elsewhere Today…High Surf Advisories In Effect Along the Northeast Coast Through This Afternoon For Large Breaking Waves and Hazardous Beach and Boating Conditions...Localized Minor Coastal Flooding and Minor Coastal Erosion Possible At Times Of High Tide Along the East Coast...Heat Indices In The Upper 90s And Triple Digits (100-104) Nearly Statewide...Locally Sensitive Wildfire Conditions In the Panhandle...High Risk For Rip Currents Along Panhandle and East Coast…Another Tropical Disturbance in the Southwest Gulf This Weekend (60% Chance of Development); Nor Direct Threat To Florida...**
+**...Upper-Level Disturbance and Approaching Frontal Boundary to Elevate Shower and Thunderstorm Activity Across North Florida With the Sea Breezes...Scattered to Numerous Showers and Thunderstorms Statewide This Afternoon and Evening...Marginal Risk For Severe Weather Along the I-10 Corridor...Frequent Lightning, Gusty Winds (40-60 MPH), and Heavy Downpours Possible Statewide With Strong to Severe Thunderstorms...Slow-Moving Storms and Heavy Downpours Could Lead to Localized Flooding for Urban and Low-Lying/Poor Drainage Areas...Heat Indices In the Upper 90s and Triple Digits (100-105) This Afternoon...Moderate Risk for Rip Currents Along Panhandle and East Coast; Locally High Risk for Bay County...Tropical Wave Over Western Caribbean (Invest 94L) Has A Low (30%) Chance for Development Through 7 Days; No Direct Threat to Florida...Another Tropical Wave Over Eastern Tropical Atlantic (Invest 95L) Has A High (70%) Chance for Development Through 7 Days; No Direct Threat to Florida Over Next 7-10 Days But Will Be Monitored...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
