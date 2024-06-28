@@ -401,7 +401,7 @@ Please also read our full [Privacy Policy](#fullpp)
     This Site is controlled and operated by the Provider. Whether you access the services through any of our family sites, you may contact the Provider by any of the means in the Contact Us section on the Site. If your questions are not answered online, you can email us at privacy@flexjobs.com or write to us at Auxiliant S.à.r.l, 1A, rue Thomas Edison, L-1445 Strassen, Luxembourg or to BOLD LLC at City View Plaza II, Suite 6000, 48 Road 165, Guaynabo PR 00968.
     
 
-##### Find Remote Work From Home & Flexible Jobs
+Find Remote Work From Home & Flexible Jobs
 
 * [Full-Time Remote Jobs](https://www.flexjobs.com/remote-jobs/full-time)
 * [Part-Time Remote Jobs](https://www.flexjobs.com/remote-jobs/part-time)
@@ -418,7 +418,7 @@ Please also read our full [Privacy Policy](#fullpp)
 * [Entry Level Remote Jobs](https://www.flexjobs.com/remote-jobs/entry-level)
 * [Top Remote Jobs](https://www.flexjobs.com/jobs/top-searched-remote-work-from-home-jobs)
 
-##### About FlexJobs
+About FlexJobs
 
 * [How FlexJobs Works](https://www.flexjobs.com/About.aspx)
 * [What Is A Remote Job?](https://www.flexjobs.com/blog/post/what-is-a-remote-job/)
@@ -435,7 +435,7 @@ Please also read our full [Privacy Policy](#fullpp)
 * [Fraud Awareness](https://www.flexjobs.com/fraud-awareness)
 * [FlexJobs Reviews](https://www.flexjobs.com/reviews-success-stories)
 
-##### Job Search Resources
+Job Search Resources
 
 * [Stay at Home Jobs for Moms and Dads](https://www.flexjobs.com/blog/post/10-great-work-home-jobs-stay-home-moms/)
 * [Side Hustle Jobs from Home](https://www.flexjobs.com/blog/post/remote-side-jobs-done-from-home-hiring-now-2/)
@@ -452,11 +452,11 @@ Please also read our full [Privacy Policy](#fullpp)
 * [Online Resume Builder](https://www.myperfectresume.com/resume/builder)
 * [Professional Resume Templates](https://zety.com/resume-templates)
 
-##### Follow Us on
+Follow Us on
 
 * [](https://www.facebook.com/flexjobs "follow on Facebook")
 * [](https://www.linkedin.com/company/flexjobs-com/ "follow on LinkedIn")
-* [](https://twitter.com/flexjobs "follow on Twitter")
+* [](https://twitter.com/flexjobs "follow on X")
 * [](https://www.youtube.com/flexjobs "follow on YouTube")
 * [](https://www.pinterest.com/flexjobs/ "follow on Pinterest")
 * [](https://www.instagram.com/flexjobs/ "follow on Instagram")
@@ -464,11 +464,11 @@ Please also read our full [Privacy Policy](#fullpp)
 * [](https://www.reddit.com/user/flexjobs/ "follow on Reddit")
 * [](https://t.me/flexjobsofficial "follow on telegram")
 
-##### Reviews of FlexJobs
+Reviews of FlexJobs
 
 ![FlexJobs BBB Business Review](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BBB logo")
 
-##### Partner Sites
+Partner Sites
 
 [![Remote.co](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Remote.co logo")](https://remote.co/)[![Job Hunt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Job Hunt logo")](https://www.job-hunt.org/)
 
