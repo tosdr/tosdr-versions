@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Henry Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=135159954)  
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=187667287)  
+Website Café (PTY) LTD
+
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=212429512)  
+Glass and Allied Industries
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=195580372)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=152634049)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=79784436)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=77713617)  
+Kainos (Pty) Ltd
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=128282456)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=111164995)  
 IAS Logistics ta Multi transit
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=159872617)  
-MSPCloud (Pty) Ltd
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=170182291)  
-Abandoned Vehicle and Truck Solutions
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=109071736)  
-All Trucking Solutions
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=213024677)  
-Cooper Logistics (Pty) Ltd
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=113750054)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=42652595)  
-Firstweb Hosting & Design
-
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=76998204)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79123814)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=188112188)  
-West Coast Horse Trails
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=156912748)  
-BD Maintenance
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79667463)  
-SLOANE STAR MEAT MARKET
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=51738854)  
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=200232213)  
 Blue Sky Solar Services
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=34642565)  
-Lily Fern & Co
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=212304787)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=186711376)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=171614880)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=18221345)  
+Repairs In Motion
+
+![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=52550778)  
+Zwashu Bed Manufacturing
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=108196279)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=bc8922c7ab3bcc2b73d065bba91d1bc6feef043f18ad29c31657b320a61e7164&c=140424151)  
+Adele Jordaan T/A Joyful Noise Music Room
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
