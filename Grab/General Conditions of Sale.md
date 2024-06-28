@@ -233,7 +233,7 @@
 Terms of Service: Transport, Delivery and Logistics
 ===================================================
 
-Last modified: 19 June 2024
+Last modified: 27 June 2024
 
 **TERMS OF SERVICE**
 
@@ -901,127 +901,7 @@ Where you are a Merchant, Grab may allow you to access, view, retrieve, disclose
 
 5.9 **Advertising**: We may attach banners, java applets and/or such other materials in GrabAds Shop for the purposes of advertising our or third parties’ products and/or services. For the avoidance of doubt, you shall not be entitled to receive any payment, fee and/or commission in respect of any such advertising or other promotional materials.
 
-**6\. Grab for Business**
-
-**6.1** **Provision of Services**
-
-6.1.1 Access to Services:
-
-This section applies to you if you are a corporate Consumer (“**Corporate User**”) and sets out the terms under which you may utilise the Grab for Business Portal (“**Portal**”) in conjunction with the Solutions accessed by you or your authorised Consumers (“**Authorised User**”) through the Application or the Platform. Your and your Authorised Users’ use of the Application and Solutions are subject to the applicable terms in these Terms of Service. The Terms of Service and this section apply to you upon your completion of the account sign-up page on [https://www.business.grab.com](https://www.business.grab.com/), and constitute a binding agreement between you and Grab. In the event of any conflict in the terms under this section and the rest of these Terms of Service, the terms in this section shall prevail to the extent that such inconsistency relates to Grab for Business.
-
-6.1.2 After verification and acceptance by Grab, Grab will establish a **Corporate User Account** for you in accordance to your preferred mode of payment of charges incurred by Authorised Users for the Solutions, be it (i) Corporate Billing (as defined below), (ii) reimbursement, (iii) corporate credit card billing, or (iv) any other payment mode made available by Grab from time to time (“**Corporate User Account Payment Mode**“). Using your Corporate User Account, you may permit Authorised Users with an Active Account (as defined below) to pay for Solutions using Corporate Billing (as defined below). You acknowledge that Authorised Users employing Corporate Billing will be incurring User Charges to your Corporate User Account and not to the Authorised User’s personal account or credit card. You agree to pay all User Charges incurred under Corporate Billing, as well as any applicable fees incurred by Authorised Users in using the Solutions, in accordance with the terms and conditions herein. **“Corporate Billing”** means the enterprise billing and payment process for the Service provided by Grab or its Affiliates to you hereunder for User Charges, whereby you make payment at the agreed date via your designated payment method under the GrabPay Terms of Service, subject to a monthly statement made available by Grab to you on a monthly basis.
-
-6.2 Active Account Required
-
-6.2.1 You acknowledge and agree that before an Authorised User is authorised, and before the Authorised User can access the Grab for Business’s functionalities relating to the Service pursuant to this Agreement (“**Proposed User**”), such Proposed User must (i) download and install the Application on a compatible mobile device, (ii) register for and maintain an active personal user account (“**Active Account**“) until the Corporate User Account is terminated. The Proposed User’s registration requires the entry of personal data and may require a personal credit card number or any other payment method authorised by Grab. The Proposed User must also confirm the mobile number provided during the registration process. Grab’s use of any personal data and credit card or other authorised payment method information to establish an Active Account shall be as set forth in the Privacy Notice.
-
-6.2.2 You acknowledge that certain Proposed or Authorised Users may be suspended or banned from use of the Service due to future or past violations of the Terms of Service, and that Grab shall have no obligation or liability related to a Proposed or Authorised User that is unable to obtain or maintain an Active Account for the purposes of Corporate Billing due to such violations.
-
-6.3 User Account Linking
-
-6.3.1 To enable Grab for Business features for a Proposed User with an Active Account, you shall provide Grab with (i) such Active Account holder’s full name, (ii) the Active Account holder’s company email address on the top level domain of Corporate User (e.g., name@companydomain.com), and (iii) other identifying information about the Active Account holder as reasonably requested by Grab (“**Linking Data**”). Grab will use the Linking Data provided for the purpose of authenticating the identified Active Account holder and linking such Active Account with the Grab for Business account to establish the Active Account holder as an Authorised User, and verifying the status of such Authorised User from time to time during the term of this Agreement. All Proposed Users invited to enable Grab for Business features will receive an email to the email address in the Linking Data with instructions for linking their individual Active Account with the Corporate User Account. Upon the linking of the Corporate User Account to an Active Account and where Corporate Billing applies, such Proposed User shall be provided the option, on a ride by ride basis, to apply User Charges to your Corporate User Account via the Corporate Billing option.
-
-6.3.2 You acknowledge that the verification and linking described above will require Grab to contact each such Proposed User using the Linking Data, and by providing Linking Data, you confirm that you have obtained all necessary consents from each Proposed User for Grab to contact such Proposed User for the purpose of implementing the Grab for Business account in the applicable Active Account. You shall ensure that Linking Data provided to Grab is accurate and complete, and Grab shall not be liable to you, an Authorised User, a Proposed User or any other party with respect to inaccurate or incomplete Linking Data supplied by you.
-
-6.3.3 You agree to (i) notify each Proposed User that by linking Proposed User’s personal Active Account with your Corporate User Account for Grab for Business that Grab will provide you with detailed trip/booking information for the rides or other bookings charged to your account, and (ii) obtain any necessary consent from each Authorised User for Grab to share detailed trip/booking information with you.
-
-6.3.4 An Authorised User’s personal account may be unlinked from your account and the Corporate Billing option at any time by you unlinking the Authorised User through the Portal.
-
-6.4 Responsibility for User Account Activity
-
-You agree that (a) you are responsible for all User Charges incurred by Authorised Users on a then-current Authorised User list regardless of whether such User Charge was authorised between Authorised User and you and (b) User Charges may be subject to price changes at any time, including, without limitation, occasional increases during surge periods and other amounts as further described in the Terms of Service. Further, you agree that Grab shall not be responsible for User Charges incurred by an Authorised User after you have attempted removal of such Authorised User from the Corporate User Account Payment Mode option to the extent you provide incomplete or inaccurate Authorised User removal information via the Portal. Finally, as between you and Grab, you shall be responsible for the User Charges incurred due to fraudulent or other prohibited activity on the part of Authorised User’s use of Corporate User Account Payment Mode for the Service. You shall notify Grab promptly upon discovery of fraudulent or prohibited activity occurring under your account.
-
-6.5 Restrictions
-
-You agree to, and to cause all Authorised Users to, use the Service and Application solely as set forth in these Terms of Service. Grab reserves the right to suspend participation in Corporate Billing to you and/or any Authorised Users for violations of these Terms of Service. In the event that an Authorised User’s Active Account is suspended or terminated pursuant to these Terms of Service, such Authorised User’s access to Corporate Billing shall also be suspended. Corporate User shall not, and shall not authorise others to, (a) decompile, disassemble, reverse engineer or otherwise attempt to derive the source code or underlying technology, methodologies or algorithms of the Service or Application, except to the extent allowed by applicable law, (b) sublicense, lease, rent, sell, give, or otherwise transfer or provide the Service or Application to any unaffiliated third party, (c) upcharge, increase or otherwise modify the User Charges as calculated through the Application for any usage of the Service or (d) impose any additional fees or charges on an Authorised User related to use of the Service. Grab reserves all rights not expressly granted to you or Authorised Users under these Terms of Service.
-
-**6.6** **Account Administration**
-
-6.6.1 Grab for Business Portal
-
-You will be provided with access to the Portal. Grab’s primary contact with you shall be by way of your appointed administrator set forth on the account creation form associated with this Agreement (“**Company Admin**”). The Portal may enable you to (a) view a current list of all Proposed Users who have been invited, and Authorised Users who have been linked, (b) provide additional Linking Data to invite additional Proposed Users, (c) revoke any Authorised User’s access to Corporate Billing (d) view relevant trip/booking information as determined by Grab from time to time (“**Portal Data**“) and prepare and review activity reports using Portal Data, (e) disable all current Authorised Users from using Corporate Billing methods, (f) manage and update the Authorised Users on file, (g) view current, appoint new, and remove Company Admins . You agree to use Portal Data solely for legitimate business purposes including, but not limited to, business expense processing, accounting, and budgeting purposes. Grab reserves the right to add, remove and update features and functionality of the Grab for Business Portal at any time without any notice to you.
-
-6.6.2 Administration
-
-You may appoint additional Company Admins at your discretion, and Grab will provide the necessary Portal login credentials to you. You agree to (a) maintain all Portal login credentials in confidence, (b) only permit the lead Company Admin and your other authorised company administrators to access the Portal, and (c) update all information of the lead Company Admin and other authorised administrators to ensure that it is current, accurate, and complete. You shall limit access to Portal Data to only those personnel who have a legitimate business need to access such Portal Data. You shall be responsible for all activities that occur under your Portal login credentials including keeping and maintaining an accurate list of current Authorised Users entitled to access Corporate Billing methods via the Portal. Grab may review the current list of Authorised Users from time to time via the Portal to maintain and support the Application and Service and ensure compliance with the Terms of Service.
-
-**6.7** **Fees and Payments**
-
-6.7.1 Fees
-
-In consideration of the provision of the Solution and Platform provided by Grab, including Corporate Billing, Grab may charge a service or portal fee, **including fees for additional services on the GFB Portal** (the “**Fees**”) as determined by Grab from time to time, **and agreed to by you, in writing (including electronic mail)**. You shall pay to Grab all User Charges and the Fees on the terms set forth below.
-
-6.7.2 Payment Terms
-
-Subject to terms and conditions determined by Grab in its sole discretion, you will be able to access monthly reports (each, a “**Monthly Report**“) for User Charges incurred by Authorised Users utilising Corporate Billing during the preceding month (“**Monthly Billing**“). If you qualify for and elect to participate in Monthly Billing through the Portal, User Charges and Fees shall be billed to you monthly as set forth in the Monthly Report, and each such Monthly Report shall be payable in full by you within thirty (30) days from the date of such Monthly Report.
-
-If you have not enabled Corporate Billing and instead you have opted for a reimbursement or corporate credit card method of payment, Grab shall charge the Authorised User for User Charges at the end of each Authorised User’s trip/booking on a per trip/booking charge basis via the payment methods selected by the Authorised User.
-
-Fees
-
-All Fees shall be exclusive of Value Added Tax (VAT). VAT includes Goods and Services Tax (GST) and/or similar sales taxes. If VAT is chargeable on any Fees, you shall pay the VAT amount to Grab when making payment of the Fees. Fees paid shall be paid free of any deduction for withholding tax (if applicable).
-
-User Charges
-
-Unless otherwise indicated on an Authorised User receipt, all payments made pursuant to these Terms of Service are exclusive of applicable taxes, and you agree to be responsible for the payment of any such taxes assessed on User Charges, including VAT. You agree to provide information that Grab may reasonably request in order for Grab to be able to comply with its tax reporting obligations including, but not limited to, your registered company name, billing address, tax number (where applicable) and any other evidence that Grab may require to show that you are a business conducting an economic activity. If you are participating in Monthly Billing, the Monthly Report will indicate Fees in the currency applicable to the place of incorporation only. If you are not participating in Monthly Billing, all payments shall be processed in the local currency applicable to the geography of the Authorised User’s applicable ride. All payments are non-refundable unless otherwise stated.
-
-For the purpose of clarity, all payments shall be made by you to the Grab entity that is stated in the Grab for Business account sign-up page **on** [https://www.business.grab.com](https://www.business.grab.com/)(or if there is no such entity stated, Grabtaxi Pte Ltd and Grabcar Pte Ltd).
-
-6.7.3 Nonpayment
-
-Grab reserves the right to immediately suspend your account and suspend any or all Corporate Billing by all Authorised Users in the event of any unpaid User Charges and/or Fees by you due to past due Monthly Reports (as applicable), an invalid credit on your Corporate User Account, or a rejected transaction. Grab further reserves the right to pursue any and all remedies available to it under applicable law, including reporting you to applicable credit reporting agencies, in the event of any unpaid User Charges and/or Fees hereunder. Re-establishing your account after full payment of late User Charges and/or Fees shall be at Grab’s sole discretion. All late payments shall bear interest at 2% per month or the maximum allowed by applicable law.
-
-**6.8** **Term and Termination**
-
-6.8.1 These terms shall apply from the date of your Corporate User Account creation and shall remain in effect until it is terminated.
-
-6.8.2 Either you or Grab may terminate this Agreement with or without cause upon 30 days’ advance written notice to the other party. All outstanding payment obligations and Clauses 6.7 to 6.13 of this section shall survive such termination.
-
-**6.9** **Warranties and Disclaimer of Liability**
-
-6.9.1 You represent and warrant that (a) you have the full right, power and authority to enter to this Agreement, and that (b) your acceptance of these Terms of Service and performance of your obligations herein do not and will not violate any other agreement which you are party to.
-
-6.9.2 You further represent and warrant that: (a) you have all rights and permissions necessary to provide Grab with the Linking Data and any other information provided to Grab hereunder in connection with the Service and Corporate Billing; (b) you have obtained legally adequate consent from Proposed Users and Authorised Users as necessary to provide Grab with any personal data in connection with the Service and corporate payment methods including Corporate Billing, (c) you have notified, and obtained legally adequate consent from, Proposed Users and Authorised Users that Grab will provide you with detailed trip/booking information for the rides or other bookings charged to your account, and (d) you are in compliance, and shall remain in compliance during the term of this Agreement, with all applicable local, city, state, federal, national, and international laws, rules and regulations relating to data protection, privacy, identity theft, data breach, consumer protection, and data security, and any applicable industry standards relating to privacy and data security.
-
-6.9.3 OTHER THAN WITH RESPECT TO A BREACH OF CONFIDENTIALITY OR DATA PRIVACY, (A) IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, OR FOR LOSS OF BUSINESS OR PROFITS, SUFFERED BY THE OTHER PARTY OR ANY THIRD PARTY ARISING OUT OF THIS AGREEMENT, WHETHER BASED ON CONTRACT, TORT OR ANY OTHER LEGAL THEORY, EVEN IF GRAB OR CORPORATE USER (OR THEIR AGENTS) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND (B) IN NO EVENT SHALL EITHER PARTY BE LIABLE UNDER THIS AGREEMENT FOR ANY DIRECT DAMAGES IN AN AMOUNT EXCEEDING THE GREATER OF (I) TEN THOUSAND SINGAPORE DOLLARS (SGD10,000) (OR LOCAL CURRENCY EQUIVALENT THEREOF), AND (II) THE TOTAL FEES PAID OR PAYABLE BY YOU TO GRAB HEREUNDER.
-
-**6.10** **Proprietary Rights**
-
-6.10.1 No Publicity
-
-Neither party may use or reference the other party’s name, logo, trademarks or service marks in a press release or otherwise without the prior consent of such other party in each instance.
-
-6.10.2 Ownership
-
-Grab and its affiliate companies are and shall remain the owners of all right, title and interest in and to the Service, Application and Portal including any updates, enhancements and new versions thereof, and all related documentation and materials provided or available to you or any Proposed User or Authorised User in connection with these Terms of Service.
-
-6.10.3 Geo Data
-
-6.10.3.1 Grab grants a limited, non-exclusive, non-transferable, revocable, royalty-free licence in Singapore for the duration of your Corporate User Account, subject to the licence restrictions set out in Clause 6.10.3.2 and the other terms in this Agreement, to use the Grab Geo Data for the purposes of accessing and viewing of the Transaction Records for your internal business purposes.
-
-For the purposes of this Clause 6.10.3:  
-“**Transaction Records**” means the transaction records of Authorised Users who utilise the Solutions and which Authorised Users shall be permitted to view, retain and retrieve, in such form as determined by Grab in its sole discretion.  
-“**Grab Geo Data**” means any geolocation data including but not limited to any aggregated or point of interest data, address, distance, and place name made accessible to you by Grab relating to the Authorised User’s access of the Solutions.
-
-6.10.3.2 You and Authorised Users shall:
-
-(a) not use the Grab Geo Data for any purpose not permitted under this Agreement or in any manner contrary to any law or regulation or any regulatory code, guidance or request; and
-
-(b) not extract, export, scrape, utilise, use, exploit, distribute, redistribute, disseminate, copy or store the Grab Geo Data or Transaction Records for any purpose not expressly permitted by this Agreement; and
-
-(c) at any time within 10 days of request from Grab or upon the termination or expiry of this Agreement, destroy and purge from all its internal and backup systems any and all Grab Geo Data (including any extracts and copies thereof), save that Transaction Records may be retained solely for carrying out the purposes stated in Clause 6.10.3.1.
-
-**6.11** **Force Majeure**
-
-Non-performance of either party of any obligations hereunder shall be excused to the extent and during the period that performance is rendered impossible by strike, fire, flood, earthquakes, governmental acts or orders or restrictions, failure of suppliers, or contractors, or any other reason where failure to perform is beyond the reasonable control and not caused by the negligence of the non-performing party.
-
-**6.12** **Assignment**
-
-Notwithstanding anything contained in this Agreement, either party may assign this Agreement without the consent but with notice to the other party in connection with a merger or a sale of all of the equity or assets of said party. Subject to the foregoing, this Agreement shall be binding upon all successors and assigns of a party.
-
-**6.13** **Legal Fees**
-
-In any legal proceedings between the parties, the prevailing party shall be entitled to reasonable attorney fees and all costs of proceedings incurred in enforcing this agreement.
+**6\. \[Not in use\]**
 
 **7\. Purchase and Use of GrabGifts**
 
@@ -1417,7 +1297,7 @@ Grab may terminate the GrabUnlimited subscription plans at our discretion withou
 * [3\. For GrabMerchants ("Merchants")](#clause-b3)
 * [4\. For GrabHitch Partners](#clause-b4)
 * [5\. For GrabAds Shops Consumers](#clause-b5)
-* [6\. Grab for Business](#clause-b6)
+* [6\. \[Not in use\]](#clause-b6)
 * [7\. Purchase and Use of GrabGifts](#clause-b7)
 * [8\. GrabAds Terms](#clause-b8)
 * [9\. GrabGeo Additional Terms of Use](#clause-b9)
