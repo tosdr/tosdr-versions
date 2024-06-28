@@ -18,7 +18,7 @@ Donate Today
 * [Skip to Main Content](#main)
 * [Skip to Footer](#footer)
 
-OpenSecrets Launches New State and Federal Lobbying Tool [Read the press release  ›](#)[](https://www.opensecrets.org/news/2024/01/press-release-opensecrets-launches-first-of-its-kind-tool-to-track-spending-on-state-and-federal-lobbying/)
+Your Opinion Counts! [Take a quick survey to help make OpenSecrets even better.  ›](#)[](https://www.surveymonkey.com/r/V6M3NQG)
 
 Is a transparent government important to you?
 ---------------------------------------------
