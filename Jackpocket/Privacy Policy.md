@@ -358,7 +358,7 @@ Please contact Jackpocket with any questions or comments about this Privacy Poli
 
 © 2024 Jackpocket, Inc.
 
-GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY).  18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com/tos](http://jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Number one lottery app based on iOS download data collected by Sensor Tower.
+GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY).  18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com/tos](http://jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. \*Number one lottery app based on iOS download data collected by Sensor Tower.
 
 * [Terms of Service](https://jackpocket.com/tos/)
 * [Privacy Policy](https://jackpocket.com/privacy/)
