@@ -114,7 +114,7 @@ Privacy Policy
 Table of Contents
 -----------------
 
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/linuxandubuntu.com).
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/linuxandubuntu.com?ref=linuxandubuntu.com).
 
 Who we are
 ----------
