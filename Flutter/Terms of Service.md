@@ -1,3 +1,5 @@
+[Skip to main content](#site-content-title)
+
 docs.flutter.dev uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. [Learn more](https://policies.google.com/technologies/cookies).
 
 OK, got it
@@ -218,7 +220,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [macOS](https://flutter.dev/platform-integration/macos)
         * [Add macOS as build target](https://flutter.dev/platform-integration/macos/install-macos)
         * [Build a macOS app](https://flutter.dev/platform-integration/macos/building)
-        * [C interop](https://flutter.dev/platform-integration/macos/c-interop)
+        * [Bind to native code](https://flutter.dev/platform-integration/macos/c-interop)
     * [Web](https://flutter.dev/platform-integration/web)
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
@@ -585,7 +587,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [macOS](https://flutter.dev/platform-integration/macos)
         * [Add macOS as build target](https://flutter.dev/platform-integration/macos/install-macos)
         * [Build a macOS app](https://flutter.dev/platform-integration/macos/building)
-        * [C interop](https://flutter.dev/platform-integration/macos/c-interop)
+        * [Bind to native code](https://flutter.dev/platform-integration/macos/c-interop)
     * [Web](https://flutter.dev/platform-integration/web)
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
