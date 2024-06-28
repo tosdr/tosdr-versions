@@ -1,8 +1,6 @@
-[![](/wp-content/uploads/2024/04/forrester_logo-k.png)
+ [![](/wp-content/uploads/2024/02/TMR-Logo-HORZ.png) Listen Now
 
-Report: The Future of Insurance
-
-DOWNLOAD NOW](https://www.jornaya.com/lander/report-the-future-of-insurance/)
+New episode available.](https://www.jornaya.com/the-marketing-rapport-podcast/)
 
 * [myJornaya](https://app.jornaya.com/login)
 * [Support](https://marketing.verisk.com/helpcenter/)
@@ -39,9 +37,9 @@ DOWNLOAD NOW](https://www.jornaya.com/lander/report-the-future-of-insurance/)
             * [Strategic Alliances](https://marketing.verisk.com/partners/)
             * [Services](https://marketing.verisk.com/services/)
 * [Resources](https://marketing.verisk.com/category/resources/)
-    * * ![Forrester-Website-Sidebar-Card](https://marketing.verisk.com/wp-content/uploads/2024/04/Forrester-Website-Sidebar-Card-1.png)Report: The Future of Insurance
+    * * ![TMR-Website-Sidebar-Card-24](https://marketing.verisk.com/wp-content/uploads/2024/01/TMR-Website-Sidebar-Card-24.png)New Episodes Available
             
-            [Download Now](https://www.jornaya.com/lander/report-the-future-of-insurance/)
+            [Listen Now](https://www.jornaya.com/the-marketing-rapport-podcast/)
             
     * * [All Resources](https://www.jornaya.com/category/resources/)
             * [Events](https://www.jornaya.com/eventlisting/event-listing/)
