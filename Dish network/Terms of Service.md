@@ -349,14 +349,6 @@ Movies for Purchase
 Privacy & Security Agreements
 -----------------------------
 
-Facebook Set-top Box Application
-
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/privacy---security-agreements/privacypolicy-fb.pdf)
-
-Fixed Wireless Internet Privacy Notice
-
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/privacy---security-agreements/fixedwirelessinternetprivacynotice.pdf)
-
 High-Speed Internet Privacy Notice
 
 [English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/privacy---security-agreements/dish-hsi-policy.pdf)
