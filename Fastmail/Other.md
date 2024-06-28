@@ -4,7 +4,7 @@
 
 [Help Center](https://www.fastmail.com/hc/en-us)
 
-[View or create a support ticket](https://fastmail.com/support) [Try for free](https://www.fastmail.com/signup/)
+[View or create a support ticket](https://support.fastmail.com/support) [Try for free](https://www.fastmail.com/signup/)
 
 How can we help?
 
@@ -102,7 +102,7 @@ Popular articles
     Use the right-hand sidebar to keep all your most important information readil...
     
 
-Need help? [Contact our support team](https://fastmail.com/support)
+Need help? [Contact our support team](https://support.fastmail.com/support)
 
 ##### Get Support
 
