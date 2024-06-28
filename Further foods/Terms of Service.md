@@ -40,6 +40,7 @@ Menu Close
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Plant-BasedProtein.png) Plant-Based Protein](https://www.furtherfood.com/products/unflavored-plant-based-protein)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/SubscribeSave20.png) Subscribe & Save 20%](https://www.furtherfood.com/pages/subscribe-and-save)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/ValueBundles.png) Value Bundles](https://www.furtherfood.com/collections/bundles)
+        *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Build-a-Bundle.png) Build-a-Bundle](https://www.furtherfood.com/a/account/custom-tools/dynamic-box?product=7175941881965)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GiftCards.png) Gift Cards](https://www.furtherfood.com/products/further-food-gift-card)
     * [Best Sellers](#)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/UnflavoredCollagen.png) Unflavored Collagen](https://www.furtherfood.com/products/collagen-peptides-powder)
@@ -89,7 +90,7 @@ Menu Close
 * [Protein](https://www.furtherfood.com/collections/plant-based-protein-powder "Protein")
 * [Gelatin](https://www.furtherfood.com/products/premium-gelatin-powder "Gelatin")
 * [Matcha](https://www.furtherfood.com/collections/matcha-collection "Matcha")
-* [Bundles](https://www.furtherfood.com/collections/bundles "Bundles")
+* [Value Bundles](https://www.furtherfood.com/collections/bundles "Value Bundles")
 
  
 
@@ -105,6 +106,7 @@ Cancel
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Plant-BasedProtein.png) Plant-Based Protein](https://www.furtherfood.com/products/unflavored-plant-based-protein)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/SubscribeSave20.png) Subscribe & Save 20%](https://www.furtherfood.com/pages/subscribe-and-save)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/ValueBundles.png) Value Bundles](https://www.furtherfood.com/collections/bundles)
+        *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Build-a-Bundle.png) Build-a-Bundle](https://www.furtherfood.com/a/account/custom-tools/dynamic-box?product=7175941881965)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GiftCards.png) Gift Cards](https://www.furtherfood.com/products/further-food-gift-card)
         
     * Best Sellers
