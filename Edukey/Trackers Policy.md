@@ -132,7 +132,7 @@ International schoolsUK editionAustralia edition
 Cookies Policy
 ==============
 
-LAST UPDATED 17 JUNE 2024 Open all
+LAST UPDATED 28 JUNE 2024 Open all
 
 1\. What are cookies?
 
@@ -400,6 +400,8 @@ Back to top
     
 * [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
     
+    * [Safeguarding](https://www.tes.com/en-gb/advice-hub/safeguarding)
+        
     * [Get into teaching](https://www.tes.com/en-gb/advice-hub/get-into-teaching)
         
     * [Early career teachers](https://www.tes.com/en-gb/advice-hub/early-career-teachers)
