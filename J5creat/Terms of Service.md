@@ -75,7 +75,7 @@
 * [Android™](https://en.j5create.com/collections/android-accessories)
 * [Apple®](https://en.j5create.com/collections/apple-accesories)
 
-[Chargers](https://en.j5create.com/collections/charging)
+[Chargers & Power Adapter](https://en.j5create.com/collections/charging)
 
 * [Wall Chargers](https://en.j5create.com/collections/wall-chargers)
 * [Charging Stations](https://en.j5create.com/collections/charging-stations)
@@ -204,7 +204,7 @@ FREE US SHIPPING on all orders $75+
     * [Mobile Accessories](https://en.j5create.com/collections/mobile-accessories)
         * [Android™](https://en.j5create.com/collections/android-accessories)
         * [Apple®](https://en.j5create.com/collections/apple-accesories)
-    * [Chargers](https://en.j5create.com/collections/charging)
+    * [Chargers & Power Adapter](https://en.j5create.com/collections/charging)
         * [Wall Chargers](https://en.j5create.com/collections/wall-chargers)
         * [Charging Stations](https://en.j5create.com/collections/charging-stations)
         * [Car Chargers](https://en.j5create.com/collections/car-chargers)
