@@ -1,4 +1,4 @@
-[Skip to content](#main)
+![](https://www.facebook.com/tr?id=1790945618044813&ev=PageView&noscript=1)      [Skip to content](#main)
 
 * [About](https://duradek.com/about-duradek/)
     * [About Duradek](https://duradek.com/about-duradek/)
