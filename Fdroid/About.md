@@ -171,42 +171,42 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [225K downloads/week? Those are rookie numbers, lets update Termux!](https://f-droid.org/en/2024/06/27/twif.html) Jun 27, 2024
 * [Additional repos shaping the UI](https://f-droid.org/en/2024/06/20/twif.html) Jun 20, 2024
 * [One twenty for everyone](https://f-droid.org/en/2024/06/13/twif.html) Jun 13, 2024
 * [Dozens of new apps](https://f-droid.org/en/2024/06/06/twif.html) Jun 06, 2024
 * [Want the Universe?](https://f-droid.org/en/2024/05/30/twif.html) May 30, 2024
-* [Finally an alternative to Big Tech, your new open-source mobile ecosystem - Mobifree](https://f-droid.org/en/2024/05/24/mobifree.html) May 24, 2024
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/org.totschnig.myexpenses/en-US/icon_zWawBtP0U6S03MdPDF6m-Zh9Tbt6MmuSM-w68Ug-58o=.png)
+[![](https://f-droid.org/repo/threads.thor/en-US/icon_h529wR-N5X9khCqHqY3bSG-AQel7uSZNzBmL9YUQ0ws=.png)
 
-#### My Expenses
+#### Thor
 
-Easy to use personal finance manager: rich functionality and Open Source](https://f-droid.org/en/packages/org.totschnig.myexpenses/)[![](https://f-droid.org/repo/net.alexbarry.calc_android/en-US/icon_vP0BvHeqchBW8T9TgUQ-gnh4O7uBdGwpRoxEMLCU2uE=.png)
+Web browser which supports magnet and pns URLs](https://f-droid.org/en/packages/threads.thor/)[![](https://f-droid.org/repo/threads.server/en-US/icon_sWorSWpbmIWO9Qq4aLDTz0sOcqs-we772prGunW4-DM=.png)
+
+#### Odin
+
+IPFS Lite node with modern UI to support standard use cases of IPFS](https://f-droid.org/en/packages/threads.server/)[![](https://f-droid.org/repo/spam.blocker/en-US/icon_NvpPfzS3J8Gx5PNIZUjNWQwk8ECPl6nVjaQ_6-8FsxY=.png)
+
+#### SpamBlocker (Call & SMS)
+
+Spam Call/SMS blocker](https://f-droid.org/en/packages/spam.blocker/)
+
+### Latest Apps
+
+[![](https://f-droid.org/repo/net.alexbarry.calc_android/en-US/icon_vP0BvHeqchBW8T9TgUQ-gnh4O7uBdGwpRoxEMLCU2uE=.png)
 
 #### AlexCalc
 
-Scientific calculator with LaTeX equation display](https://f-droid.org/en/packages/net.alexbarry.calc_android/)[![](https://f-droid.org/repo/lying.fengfeng.foodrecords/en-US/icon_RJGg36wokusre3RGMlbGC6kB-0kcTtsZTTK0OiO8gAk=.png)
+Scientific calculator with LaTeX equation display](https://f-droid.org/en/packages/net.alexbarry.calc_android/)[![](https://f-droid.org/repo/com.example.notificationalerter/en-US/icon_Oltgjy9BWau-vDbMXRuL2Ueh8dAu_QF42cEmrznr-do=.jpg)
 
-#### Fridgey
+#### Notification Listener
 
-A Fridgey to help recording your food!](https://f-droid.org/en/packages/lying.fengfeng.foodrecords/)
+Get notified only of important notifications.](https://f-droid.org/en/packages/com.example.notificationalerter/)[![](https://f-droid.org/repo/com.keshav.capturesposed/en-US/icon_W6M--rmiIW-m3bNPTNGDM2WiFlOGfyN_RpTrVn9Y5Ak=.png)
 
-### Nýjustu forrit
+#### CaptureSposed
 
-[![](https://f-droid.org/repo/org.fdroid.basic/en-US/icon_0slNR8J9edqDZDoyWABFZrqQONU9EyiNVwM6B3Jui_Q=.png)
+Add support for blocking the Screenshot Detection API introduced in Android 14!](https://f-droid.org/en/packages/com.keshav.capturesposed/)
 
-#### F-Droid Basic
-
-Forritasafnið sem virðir frelsi og gagnaleynd](https://f-droid.org/en/packages/org.fdroid.basic/)[![](https://f-droid.org/repo/com.calcitem.sanmill/en-US/icon_pLxsR3w1KB0A_H3Nv9gDiPAwTVrVmmQiYY2dOnHPk3A=.png)
-
-#### Mylla
-
-Mylla leikjafórítæki sem styður mismunandi reglubreytingar](https://f-droid.org/en/packages/com.calcitem.sanmill/)[![](https://f-droid.org/repo/net.kollnig.missioncontrol.fdroid/en-US/icon_kZAFyqHgQyTcEvB9N2Q6i8ejeNwBAoqVAG43qIEPOqE=.png)
-
-#### TrackerControl
-
-TrackerControl allows to monitor and control hidden data collection in apps.](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/)
-
-© 2010-2024 F-Droid Contributors (F-Droid 2024-06-20, fdroid-website [2.238](https://gitlab.com/fdroid/fdroid-website/tree/482edebe00)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-06-27, fdroid-website [2.239](https://gitlab.com/fdroid/fdroid-website/tree/dca930116b)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
