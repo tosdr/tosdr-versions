@@ -37,7 +37,7 @@ In unserer Datenschutzerklärung haben wir alle wesentlichen Informationen über
 Diese Datenschutzerklärung gilt für die Nutzung dieser Website und aller Anwendungen, Dienstleistungen, Produkte und Tools von Kleinanzeigen (zusammenfassend „Services“), unabhängig davon, wie Sie diese Services aufrufen oder verwenden, einschließlich des Zugriffs über Mobilgeräte und per App.
 
   
-Wir können diese Datenschutzerklärung jederzeit ändern, indem wir die geänderte Fassung [hier](https://themen.ebay-kleinanzeigen.de/datenschutzerklaerung/) veröffentlichen und den Zeitpunkt des Inkrafttretens der geänderten Fassung angeben. Alle wesentlichen Änderungen dieser Datenschutzerklärung werden Ihnen per E-Mail mitgeteilt, sofern Sie sich bei uns registriert haben.
+Wir können diese Datenschutzerklärung jederzeit ändern, indem wir die geänderte Fassung [hier](https://themen.kleinanzeigen.de/datenschutzerklaerung/) veröffentlichen und den Zeitpunkt des Inkrafttretens der geänderten Fassung angeben. Alle wesentlichen Änderungen dieser Datenschutzerklärung werden Ihnen per E-Mail mitgeteilt, sofern Sie sich bei uns registriert haben.
 
 2\. Verantwortlicher
 --------------------
@@ -355,7 +355,7 @@ Möchten Sie Ihre Einstellungen im Hinblick auf Marketingmitteilungen von Kleina
 9\. Cookies und ähnliche Technologien
 -------------------------------------
 
-Wenn Sie unsere Services nutzen, können wir und ausgewählte Dritte Cookies und ähnliche Technologien nutzen, um Ihnen ein besseres, schnelleres und sichereres Nutzungserlebnis zu bieten oder um Ihnen personalisierte Werbung zu zeigen. Bei Cookies handelt es sich um kleine Textdateien, die Ihr Browser automatisch erstellt und die auf Ihrem Endgerät gespeichert werden, wenn Sie die Services nutzen. Detaillierte Informationen zu unserer Nutzung von Cookies und ähnlichen Technologien und Ihren Wahlmöglichkeiten finden Sie auch in unserer [Erklärung zur Verwendung von Cookies, Web-Beacons und ähnlichen Technologien](https://themen.ebay-kleinanzeigen.de/cookieverwendung/).
+Wenn Sie unsere Services nutzen, können wir und ausgewählte Dritte Cookies und ähnliche Technologien nutzen, um Ihnen ein besseres, schnelleres und sichereres Nutzungserlebnis zu bieten oder um Ihnen personalisierte Werbung zu zeigen. Bei Cookies handelt es sich um kleine Textdateien, die Ihr Browser automatisch erstellt und die auf Ihrem Endgerät gespeichert werden, wenn Sie die Services nutzen. Detaillierte Informationen zu unserer Nutzung von Cookies und ähnlichen Technologien und Ihren Wahlmöglichkeiten finden Sie auch in unserer [Erklärung zur Verwendung von Cookies, Web-Beacons und ähnlichen Technologien](https://themen.kleinanzeigen.de/cookieverwendung/).
 
   
 Unsere Cookies und ähnlichen Technologien haben unterschiedliche Funktionen:  
@@ -389,7 +389,7 @@ Wenn Sie sich gegen eine Verarbeitung Ihrer personenbezogenen Daten zu Werbezwec
 10\. Datensicherheit
 --------------------
 
-Wir schützen Ihre personenbezogenen Daten durch technische und organisatorische Sicherheitsmaßnahmen, um Risiken im Zusammenhang mit deren Verlust, Missbrauch, unberechtigtem Zugriff sowie unberechtigter Weitergabe und Änderung zu minimieren. Hierzu setzen wir beispielsweise Firewalls und Datenverschlüsselung ein, aber auch physische Zutrittsbeschränkungen für unsere Rechenzentren und Berechtigungskontrollen für den Datenzugriff. Weitere Informationen zum Thema Sicherheit finden Sie auf unserer entsprechenden [Ratgeberseite](https://themen.ebay-kleinanzeigen.de/sicherheitshinweise/).
+Wir schützen Ihre personenbezogenen Daten durch technische und organisatorische Sicherheitsmaßnahmen, um Risiken im Zusammenhang mit deren Verlust, Missbrauch, unberechtigtem Zugriff sowie unberechtigter Weitergabe und Änderung zu minimieren. Hierzu setzen wir beispielsweise Firewalls und Datenverschlüsselung ein, aber auch physische Zutrittsbeschränkungen für unsere Rechenzentren und Berechtigungskontrollen für den Datenzugriff. Weitere Informationen zum Thema Sicherheit finden Sie auf unserer entsprechenden [Ratgeberseite](https://themen.kleinanzeigen.de/sicherheitshinweise/).
 
 11\. Weitere wichtige Informationen zum Datenschutz
 ---------------------------------------------------
