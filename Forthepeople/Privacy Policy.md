@@ -42,7 +42,6 @@ Call Us Today - It's Free!+18776674265
         * [Ocala](https://www.forthepeople.com/office-locations/florida/ocala/)
         * [Orange Park](https://www.forthepeople.com/office-locations/florida/orange-park/)
         * [Orlando](https://www.forthepeople.com/office-locations/florida/orlando/)
-        * [Orlando: Pine Hills](https://www.forthepeople.com/office-locations/florida/orlando-pine-hills/)
         * [Orlando: South Semoran](https://www.forthepeople.com/office-locations/florida/orlando-south-semoran/)
         * [Palm Harbor](https://www.forthepeople.com/office-locations/florida/palm-harbor/)
         * [Panama City](https://www.forthepeople.com/office-locations/florida/panama-city/)
@@ -234,7 +233,6 @@ Call Us Today - It's Free!+18776674265
         * [Insurance Company Data Breach Attorneys](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/insurance-company-data-breach-attorneys/)
     * Dangerous Drugs
         * [Dangerous Drugs](https://www.forthepeople.com/practice-areas/dangerous-drug-lawyers/)
-        * [Eye Drops](https://www.forthepeople.com/practice-areas/defective-product-lawyers/ezricare-eye-drops-recall/)
         * [Gardasil](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/gardasil-lawsuit/)
         * [Tepezza](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/tepezza-lawsuit/)
         * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
@@ -242,7 +240,6 @@ Call Us Today - It's Free!+18776674265
     * Defective Products
         * [Exploding Airbags](https://www.forthepeople.com/practice-areas/defective-product-lawyers/exploding-airbags/)
         * [Faulty ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
-        * [Abbott Baby Formula Recall](https://www.forthepeople.com/practice-areas/defective-product-lawyers/abbott-baby-formula-recall/)
         * [ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
         * [Exactech Knee and Ankle Replacement](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/exactech-knee-and-ankle-replacement-recall/)
         * [Hair Relaxer](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/hair-relaxer-lawsuit/)
@@ -251,7 +248,6 @@ Call Us Today - It's Free!+18776674265
         * [Boppy Pillows](https://www.forthepeople.com/practice-areas/defective-product-lawyers/boppy-pillow/)
         * [Instant Pot](https://www.forthepeople.com/practice-areas/product-liability-attorneys/instant-pot-lawsuit/)
         * [Paraquat](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
-        * [Juul](https://www.forthepeople.com/practice-areas/defective-product-lawyers/juul-lawsuit/)
         * [Takata](https://www.forthepeople.com/practice-areas/defective-product-lawyers/takata-airbag-recall/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
         * [View All](https://www.forthepeople.com/practice-areas/defective-product-lawyers/)
@@ -277,7 +273,6 @@ Call Us Today - It's Free!+18776674265
     * Mass Arbitration
         * [Video Streaming](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/video-privacy-violation-claim/)
         * [Mass Arbitration](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/)
-        * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
         * [Arise Virtual Solutions Lawsuit](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/arise-virtual-solutions-lawsuit/employee-misclassification-lawsuit/)
     * Mass Tort
         * [Maui Wildfire](https://www.forthepeople.com/practice-areas/insurance-attorney/wildfire-lawyers/maui-wildfire-attorneys/)
