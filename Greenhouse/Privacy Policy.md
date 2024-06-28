@@ -132,7 +132,7 @@ Close mobile sub-navigation
     
     Learn how to bring skills-based hiring forward in 2024 – so you can make more effective, inclusive hiring decisions.
     
-    [Register now](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
+    [Watch on-demand](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
     
 
 [Request a demo](https://www.greenhouse.io/uk/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
@@ -172,13 +172,13 @@ Legal – Privacy policy
 Privacy policy
 --------------
 
-**Date last updated**: October 19, 2023
+**Date last updated**: June 27, 2024
 
   
 Introduction
 ---------------
 
-Greenhouse Software, Inc. ("**Greenhouse**") respects your privacy and is committed to protecting it in accordance with applicable laws and using generally-accepted industry practices. This Privacy Policy explains who we are, how we collect, share, and use personal information about you, and how you can exercise your privacy rights. For purposes of this Privacy Policy, “**Personal Information**” means any information that is available to Greenhouse and that is protected explicitly by the European Union General Data Protection Regulation of 2016 (the “**EU GDPR**”); the EU GDPR as saved into United Kingdom law by virtue of section 3 of the United Kingdom's European Union (Withdrawal) Act 2018 (the "**UK GDPR**"); and the California Consumer Protection Act “**CCPA**”), to the extent applicable.
+Greenhouse Software, Inc. ("**Greenhouse**") respects your privacy and is committed to protecting it in accordance with applicable laws and using generally-accepted industry practices. This Privacy Policy explains who we are, how we collect, share, and use personal information about you, and how you can exercise your privacy rights. For purposes of this Privacy Policy, “**Personal Information**” means any information that is available to Greenhouse and that is protected explicitly by the European Union General Data Protection Regulation of 2016 (the “**EU GDPR**”); the EU GDPR as saved into United Kingdom law by virtue of section 3 of the United Kingdom’s European Union (Withdrawal) Act 2018 (the "**UK GDPR**"); and the California Consumer Protection Act “**CCPA**”), to the extent applicable.
 
 If you have any questions or concerns about Greenhouse’s collection and use of your Personal Information, please contact us using the contact details provided below. If however, your questions or concerns are related to a Greenhouse customer’s collection and use of your Personal Information, please contact that customer directly.
 
@@ -326,6 +326,7 @@ Data Protection Rights
 **As an EEA, Swiss, or UK data subject, you have the following data protection rights:
 
 * If you wish to access, correct, update or request deletion of your Personal Information, you can do so at any time by contacting us at privacy@greenhouse.io.
+* If you wish to opt out of (i) the disclosure of your Personal Information to a third party, or (ii) the use of your Personal Information for a purpose materially different from the purpose(s) for which it was originally collected or subsequently authorized by you, you can exercise these rights at any time by contacting us at privacy@greenhouse.io. In any event, unless Greenhouse has affirmative express consent from you, Greenhouse will not (i) disclose sensitive information (i.e., personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), or (ii) use sensitive personal information for a purpose other than those for which it was originally collected or subsequently authorized by you through the exercise of opt-in-choice. Greenhouse will treat as sensitive any Personal Information received from a third party where the third party identifies and treats it as sensitive.
 * You can object to processing of your Personal Information, ask us to restrict processing of your Personal Information or request portability of your Personal Information. Again, you can exercise these rights by contacting us at privacy@greenhouse.io.
 * Similarly, if we have collected and process your Personal Information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
 * You have the right to complain to a data protection authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority.
@@ -363,11 +364,27 @@ With regard to onward transfers of personal data to third parties, Greenhouse is
 Interseller
 --------------
 
-This “Interseller” section is applicable only to Interseller, and excludes all other Greenhouse products and services, including, but not limited to, Greenhouse Recruiting, Greenhouse Onboarding and Greenhouse Sourcing Automation. For information on the privacy practices related to Interseller, please refer to the [Interseller privacy page](https://www.interseller.io/privacy) and the [Interseller privacy ccpa page](https://www.interseller.io/privacy-ccpa), and to request deletion of your personal information or to request that Greenhouse not sell your personal information through Interseller, submit the opt out form found on the [Interseller do not sell page](https://www.interseller.io/do-not-sell), or email [hi@interseller.io](mailto:hi@interseller.io) with “Attn: Privacy” in the subject line.
+This “Interseller” section is applicable only to Interseller, and excludes all other Greenhouse products and services, including, but not limited to, Greenhouse Recruiting, Greenhouse Onboarding and Greenhouse Sourcing Automation. For information on the privacy practices related to Interseller, please refer to the [Interseller privacy page](https://www.interseller.io/privacy) and the [Interseller privacy ccpa page](https://www.interseller.io/privacy-ccpa).
+
+**2023 Data Broker Requests**
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+|     | **Number of requests** | **Requests granted** | **Requests denied** | **Median number of days for substantive response** | **Mean number of days for substantive response** |
+| Requests to delete personal information | 26  | 26  | 0   | 1   | 1.5 |
+| Requests to know or access what personal information the data broker was collecting | 4   | 4   | 0   | 1   | 1   |
+| Requests to know what personal information the data broker was selling or sharing and to whom | 0   | 0   | 0   | N/A | N/A |
+| Requests to opt out of sale or sharing of personal information | 19  | 19  | 0   | 1   | 1.63 |
+| Requests to limit the data broker’s use and disclosure of sensitive personal information | 0   | 0   | 0   | N/A | N/A |
+
+**\*Please note that Interseller is no longer a data broker**
 
   
+
+---
+
 Updates to this privacy policy
----------------------------------
+------------------------------
 
 We may update this Privacy Policy from time to time in response to changing legal, technical, or business developments. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Policy changes if and where this is required by applicable data protection laws.
 
@@ -398,7 +415,7 @@ Learn more about Greenhouse
 
 [Our company](https://www.greenhouse.com/uk/company)
 
-be\_ixf;ym\_202406 d\_21; ct\_50
+be\_ixf;ym\_202406 d\_28; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/uk/privacy-policy
