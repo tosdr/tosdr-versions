@@ -112,21 +112,21 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 [![](//imp.accesstra.de/img.php?rk=0055ck000ymk)](https://click.accesstra.de/adv.php?rk=0055ck000ymk)
 
-* [![Red Bull's new flavor,  lychee flavored ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/07/redbull-blue-edition-00-150x150.jpg "Red Bull's new flavor,  lychee flavored ")
-    
-    Red Bull's new flavor, lychee flavored "Red Bull Blue Edition"!](https://saiganak.com/review/redbull-blue-edition/ "Red Bull's new flavor,  lychee flavored ")
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
-    
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
-    
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-    
-    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
 * [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
     
     New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+    
+    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
+* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+    
+    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
+    
+    "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
+* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
+    
+    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
 
 [](#top)
 
