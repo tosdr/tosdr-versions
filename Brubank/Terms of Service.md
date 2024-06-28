@@ -36,10 +36,6 @@ Muy Pronto
 
 Muy Pronto
 
-[Caja de seguridad](http://www.brubank.com/caja-de-seguridad)
-
-Muy Pronto
-
 [#### Pagos](#)
 
 [Pago QR](https://brubank.com/pago-con-qr)
@@ -91,6 +87,10 @@ Muy Pronto
 Muy Pronto
 
 [Biometría](https://brubank.com/seguridad#biometria)
+
+Muy Pronto
+
+[Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
 
 Muy Pronto
 
@@ -210,8 +210,6 @@ Facilidades
 
 [#### Préstamos Hipotecarios UVA](http://www.brubank.com/prestamos-hipotecarios-uva)
 
-[#### Caja de seguridad](http://www.brubank.com/caja-de-seguridad)
-
 Promociones
 
 [#### Promociones](https://brubank.com/promociones)
@@ -245,6 +243,8 @@ Inversiones
 [#### Pausar tarjeta](https://brubank.com/seguridad#pausar-tarjeta)
 
 [#### Biometría](https://brubank.com/seguridad#biometria)
+
+[#### Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
 
 Pensando para tu desarrollo 💼
 
@@ -441,8 +441,6 @@ Términos y condiciones
 
 [Pausar tarjeta](#)[Biometria](#)[Atención 24/7](#)
 
-[Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
-
 [#### Pagos](#)
 
 [Pagos QR](https://www.brubank.com/pago-con-qr)[Tarjeta de crédito](https://www.brubank.com/tarjeta-de-credito)[Pago Apple Pay](https://www.brubank.com/pago-apple-pay)[Pago Google Pay](https://www.brubank.com/pago-google-pay)[Pago de servicios](https://www.brubank.com/pago-de-servicios)
@@ -469,6 +467,8 @@ de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Dólar ahorr
 [#### Seguridad](https://www.brubank.com/sobre-brubank)
 
 [Recomendaciones](https://www.brubank.com/seguridad)[Biometría](https://www.brubank.com/seguridad#biometria)[Pausar tarjeta](https://www.brubank.com/seguridad#pausar-tarjeta)
+
+[Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
 
 [#### Estructura](https://www.brubank.com/sobre-brubank)
 
