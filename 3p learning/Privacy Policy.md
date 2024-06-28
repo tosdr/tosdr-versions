@@ -49,6 +49,15 @@ By Solution* [](http://www.3plearning.com/software/mathletics/)
     Brightpath ProgressPowerful assessment for writing and maths that show visible proof of progress.
     
 
+Packages* [](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
+    
+    Better Ways to Learn Literacy PackageLiteracy Package
+    
+* [](http://www.3plearning.com/packages/better-ways-to-learn-maths/)
+    
+    Better Ways to Learn MathsThe complete maths solution for student progress
+    
+
 * [Product SupportFind walkthroughs and guides for all of our programs](https://support.3plearning.com/)
 * [Technical SupportFind minimum computer requirements, supported browsers and more](https://support.3plearning.com/tech)
 * [WebinarsFind weekly webinars on how to get the most out of our programs](https://support.3plearning.com/webinar-schedules/)
@@ -626,12 +635,14 @@ Follow us
 * Subjects
     * [Mathematics](http://www.3plearning.com/mathematics/)
     * [Literacy](http://www.3plearning.com/literacy/)
-* [Packages](https://www.3plearning.com/packages/better-ways-to-learn-maths/)
 * [Solutions](http://www.3plearning.com/software/)
     * [Mathletics](http://www.3plearning.com/software/mathletics/)
     * [Mathseeds](http://www.3plearning.com/software/mathseeds/)
     * [Reading Eggs](http://www.3plearning.com/software/reading-eggs/)
     * [Brightpath Progress](http://www.3plearning.com/software/brightpath/)
+* Packages
+    * [Better Ways to Learn Literacy Package](http://www.3plearning.com/packages/better-ways-to-learn-literacy/)
+    * [Better Ways to Learn Maths](http://www.3plearning.com/packages/better-ways-to-learn-maths/)
 * Company
     * [About 3P](http://www.3plearning.com/about-3p/)
     * [World Maths Day](https://www.3plearning.com/world-maths-day/)
