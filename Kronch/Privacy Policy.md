@@ -1,4 +1,4 @@
-               Privacyverklaring | Kronch diervoeders                                
+               Privacyverklaring | Kronch diervoeders                         
 
 top of page
 
