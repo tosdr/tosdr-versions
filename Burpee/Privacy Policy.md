@@ -20,7 +20,7 @@ Sign in
 * [Sign In](https://www.burpee.com/customer/account/login/referer/aHR0cHM6Ly93d3cuYnVycGVlLmNvbS9wcml2YWN5LXBvbGljeQ~~/)
 * [Create an Account](https://www.burpee.com/customer/account/create/)
 
-[![Burpee](https://www.burpee.com/static/version1718260233/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
+[![Burpee](https://www.burpee.com/static/version1719403091/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
 
 Close
 
