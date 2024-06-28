@@ -795,12 +795,12 @@
             * [Esplora Procedure](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure.html)
             * [Procedura Cedolino della pensione](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cedolino-della-pensione.html)
             * [Procedura Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-fascicolo-previdenziale-del-cittadino.html)
-            * [Procedura Domanda Pensione, Ricostituzione, Ratei, ECOCERT, APE Sociale e Beneficio precoci](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-domanda-pensione--ricostituzione--ratei--ecocert--ape-.html)
             * [Procedura Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-estratto-conto-contributivo.html)
             * [Procedura Maternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-maternit.html)
             * [Procedura Cassetto previdenziale aziende](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cassetto-previdenziale-aziende.html)
             * [Procedura Iscrizione e Variazione azienda](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-iscrizione-e-variazione-azienda.html)
             * [Procedura Portale delle Agevolazioni](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-portale-delle-agevolazioni.html)
+            * [Procedura Domanda Pensione, Ricostituzione, Ratei, ECOCERT, APE Sociale e Beneficio precoci](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-domanda-pensione--ricostituzione--ratei--ecocert--ape-.html)
             
         * [Per le imprese](#)
             
@@ -1899,9 +1899,9 @@ Ti piace il portale?
 Sedi e Contatti [Apri il menu Sedi e Contatti](#collapse-help)
 --------------------------------------------------------------
 
-* [Contact Center](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center.html "Contact Center")
-* [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html "Mappa del sito")
 * [Trova la Sede](https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede.html "Trova la Sede")
+* [Contact Center Multicanale](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center-multicanale.html "Contact Center Multicanale")
+* [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html "Mappa del sito")
 
 Software [Apri il menu Software](#collapse-software)
 ----------------------------------------------------
@@ -1909,7 +1909,7 @@ Software [Apri il menu Software](#collapse-software)
 * [Per i CAF ed i liberi professionisti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-i-caf-ed-i-liberi-professionisti "Per i CAF ed i liberi professionisti")
 * [Per i medici certificatori e Medici di Famiglia](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-i-medici-certificatori-e-medici-di-famiglia "Per i medici certificatori e Medici di Famiglia")
 * [Per il cittadino](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-il-cittadino "Per il cittadino")
-* [Per le azinede ed i Consulenti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-le-aziende-ed-i-consulenti "Per le azinede ed i Consulenti")
+* [Per le aziende ed i Consulenti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-le-aziende-ed-i-consulenti "Per le aziende ed i Consulenti")
 
 Note Legali [Apri il menu Note Legali](#collapse-notelegali)
 ------------------------------------------------------------
