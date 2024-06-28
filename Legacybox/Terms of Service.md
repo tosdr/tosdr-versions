@@ -4,7 +4,7 @@
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
 
-NO TIME TO WASTE... $9 TAPES ARE ON! $9 TAPES (REG. ~$27.50~). THAT'S 60% OFF! Plus, get an extra 10% off with code GETLB10
+THE BEST BANG FOR YOUR BUCK - 50% OFF LEGACYBOX 50% OFF LEGACYBOX WITH CODE: SPARK Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,9 +14,9 @@ NO TIME TO WASTE... $9 TAPES ARE ON! $9 TAPES (REG. ~$27.50~). THAT'S 60% OFF! P
 
 00 SEC
 
-(REG. ~$27.50~). THAT'S OVER 60% OFF! Plus, get an extra 10% off with code GETLB10
+GET STARTED FOR JUST $36! Plus, get an extra 10% off with code GETLB10
 
-[SHOP LOWEST PRICES >](https://legacybox.com/products/legacybox-digitizing-kit-9-tapes-film)
+[SHOP SALE >](https://legacybox.com/products/legacybox-digitizing-kit)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/logo.svg?v=1684795981)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 ===============================================================================================================================================================================================================================================================================================================
