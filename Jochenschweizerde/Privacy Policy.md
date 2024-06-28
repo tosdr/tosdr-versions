@@ -681,7 +681,21 @@ Diese Website arbeitet mit dem Affiliate- und Werbeunternehmen „Impact Tech, I
 
 Die Speicherung und Analyse der Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der korrekten Berechnung seiner Affiliate-Vergütung. Sofern eine entsprechende Einwilligung abgefragt wurde (z. B. eine Einwilligung zur Speicherung von Cookies), erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO; die Einwilligung ist jederzeit widerrufbar.
 
-Die Datenschutzbestimmungen von Impact.com finden Sie unter: [Privacy Policy - impact.com"](http://www.impact.com/privacy-policy/)
+Die Datenschutzbestimmungen von Impact.com finden Sie unter: [Privacy Policy - impact.com"](http://www.impact.com/privacy-policy/)  
+ 
+
+**LinkedIn Insight Tag**
+
+Unsere Website verwendet das Conversion-Tool „LinkedIn Insight Tag“ der LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland. Mit Hilfe des LinkedIn Insight Tags erhalten wir Informationen über die Besucher unserer Website. Ist ein Websitebesucher bei LinkedIn registriert, können wir u. a. die beruflichen Eckdaten (z. B. Karrierestufe, Unternehmensgröße, Land, Standort, Branche und Berufsbezeichnung) unserer Websitebesucher analysieren und so unsere Seite besser auf die jeweiligen Zielgruppen ausrichten. Ferner können wir mit Hilfe von LinkedIn Insight Tags messen, ob die Besucher unserer Webseiten einen Kauf oder eine sonstige Aktion tätigen (Conversion-Messung). Die Conversion-Messung kann auch geräteübergreifend erfolgen (z.B. von PC zu Tablet). LinkedIn Insight Tag bietet außerdem eine Retargeting-Funktion an, mit deren Hilfe wir den Besuchern unserer Website zielgerichtete Werbung außerhalb der Website anzeigen lassen können, wobei laut LinkedIn keine Identifikation des Werbeadressaten stattfindet. LinkedIn selbst erfasst über einen in Ihrem Webbrowser gesetzten Cookie außerdem sogenannte Logfiles (URL, Referrer-URL, IP-Adresse, Geräte- und Browsereigenschaften und Zeitpunkt des Zugriffs). Die IP-Adressen werden gekürzt oder (sofern sie genutzt werden, um LinkedIn-Mitglieder geräteübergreifend zu erreichen) gehasht (pseudonymisiert). Die direkten Kennungen der LinkedIn-Mitglieder werden nach sieben Tagen von LinkedIn gelöscht. Die verbleibenden pseudonymisierten Daten werden dann innerhalb von 180 Tagen gelöscht. Die von LinkedIn erhobenen Daten können von uns als Websitebetreiber nicht bestimmten Einzelpersonen zugeordnet werden.
+
+LinkedIn wird die erfassten personenbezogenen Daten der Websitebesucher auf seinen Servern in den USA speichern und sie im Rahmen eigener Werbemaßnahmen nutzen. Details entnehmen Sie der Datenschutzerklärung von LinkedIn unter [https://www.linkedin.com/legal/privacy-policy#choices-oblig](https://www.linkedin.com/legal/privacy-policy#choices-oblig).
+
+RECHTSGRUNDLAGE: Die Nutzung von LinkedIn Insight erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an effektiven Werbemaßnahmen unter Einschluss der sozialen Medien. Sofern eine entsprechende Einwilligung abgefragt wurde (z. B. eine Einwilligung zur Speicherung von Cookies), erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO; die Einwilligung ist jederzeit widerrufbar. Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: [https://www.linkedin.com/legal/l/dpa](https://www.linkedin.com/legal/l/dpa) und [https://www.linkedin.com/legal/l/eu-sccs](https://www.linkedin.com/legal/l/eu-sccs).
+
+WIDERSPRUCH: Um das Insight-Tag auf unserer Webseite zu deaktivieren („Opt-out“), klicken Sie bitte am Ende dieser Seite auf Cookie Einstellungen und deaktivieren dort das Tool.
+
+Der Analyse des Nutzungsverhaltens sowie der zielgerichteten Werbung durch LinkedIn können Sie unter folgendem Link widersprechen: [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out). Des Weiteren können Mitglieder von LinkedIn die Nutzung ihrer personenbezogenen Daten zu Werbezwecken in den Kontoeinstellungen steuern. Um einer Verknüpfung von auf unserer Website erhobenen Daten durch LinkedIn und Ihrem LinkedIn Account zu vermeiden, müssen Sie sich aus Ihrem LinkedIn-Account ausloggen bevor Sie unsere Website aufsuchen.  
+​​​​​​​
 
 **Microsoft Advertising**
 
