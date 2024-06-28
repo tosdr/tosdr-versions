@@ -272,7 +272,7 @@ Managing the Hosts file in](https://www.alphr.com/hosts-file-windows-10/)
 
 ![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/Brave-Features-You-Will-Not-Find-in-Chrome-Edge-and-Firefox.jpg?fit=100%2C43&ssl=1)
+![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/Brave-Features-You-Will-Not-Find-in-Chrome-Edge-and-Firefox.jpg?resize=100%2C100&ssl=1)
 
 [7 Brave Features You Will Not Find in Chrome, Edge, and Firefox](https://www.alphr.com/best-brave-features/)
 
@@ -280,7 +280,7 @@ Afam Onyimadu June 7, 2024
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Does-Clock-Icon-Mean-on-WhatsApp-and-How-to-Get-Rid-Of-It.jpg?fit=100%2C43&ssl=1)
+![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Does-Clock-Icon-Mean-on-WhatsApp-and-How-to-Get-Rid-Of-It.jpg?resize=100%2C100&ssl=1)
 
 [What Does Clock Icon Mean on WhatsApp and How to Get Rid Of It](https://www.alphr.com/what-does-clock-icon-mean-on-whatsapp/)
 
@@ -288,7 +288,7 @@ Dave Johnson June 4, 2024
 
 ![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Run-AI-Models-Locally-on-Windows-Without-Internet.jpg?fit=100%2C43&ssl=1)
+![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Run-AI-Models-Locally-on-Windows-Without-Internet.jpg?resize=100%2C100&ssl=1)
 
 [How to Run AI Models Locally on Windows Without Internet](https://www.alphr.com/run-ai-models-locally-on-windows-without-internet/)
 
@@ -296,7 +296,7 @@ Afam Onyimadu June 1, 2024
 
 ![How to Use Gemini Mentions to Enhance the Prompt Experience](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![How to Use Gemini Mentions to Enhance the Prompt Experience](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Use-Gemini-Mentions-to-Enhance-the-Prompt-Experience.jpg?fit=100%2C43&ssl=1)
+![How to Use Gemini Mentions to Enhance the Prompt Experience](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Use-Gemini-Mentions-to-Enhance-the-Prompt-Experience.jpg?resize=100%2C100&ssl=1)
 
 [How to Use Gemini Mentions to Enhance the Prompt Experience](https://www.alphr.com/how-to-use-gemini-mentions/)
 
@@ -304,7 +304,7 @@ Afam Onyimadu May 30, 2024
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-a-Picture-on-Top-of-Another-Picture-on-Instagram-Storyy.jpg?fit=100%2C43&ssl=1)
+![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-a-Picture-on-Top-of-Another-Picture-on-Instagram-Storyy.jpg?resize=100%2C100&ssl=1)
 
 [How to Put a Picture on Top of Another Picture on Instagram Story](https://www.alphr.com/put-a-picture-on-another-picture-in-instagram-story/)
 
@@ -312,7 +312,7 @@ Mehvish Mushtaq May 20, 2024
 
 ![replay all social media comments with AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![replay all social media comments with AI](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Reply-All-Social-Media-Comments-With-AI.jpg?fit=100%2C43&ssl=1)
+![replay all social media comments with AI](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Reply-All-Social-Media-Comments-With-AI.jpg?resize=100%2C100&ssl=1)
 
 [How to Reply to All Social Media Comments With AI](https://www.alphr.com/reply-to-all-social-media-comments-with-ai/)
 
@@ -320,7 +320,7 @@ Afam Onyimadu May 15, 2024
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-Full-Picture-on-WhatsApp-Profile.jpg?fit=100%2C43&ssl=1)
+![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-Full-Picture-on-WhatsApp-Profile.jpg?resize=100%2C100&ssl=1)
 
 [How to Put Full Picture on WhatsApp Profile](https://www.alphr.com/put-full-picture-on-whatsapp-profile/)
 
@@ -328,7 +328,7 @@ Mehvish Mushtaq May 11, 2024
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Happens-When-You-Remove-Someone-from-Instagram-or-WhatsApp-Group-Chat.jpg?fit=100%2C43&ssl=1)
+![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Happens-When-You-Remove-Someone-from-Instagram-or-WhatsApp-Group-Chat.jpg?resize=100%2C100&ssl=1)
 
 [What Happens When You Remove Someone From Instagram or WhatsApp Group Chat](https://www.alphr.com/what-happens-remove-someone-from-instagram-or-whatsapp-group/)
 
@@ -336,7 +336,7 @@ Mehvish Mushtaq May 6, 2024
 
 ![How To Watch The UEFA Champions League Semi-Finals](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![How To Watch The UEFA Champions League Semi-Finals](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/04/How-to-Watch-the-Uefa-Champions-League-Semi-Finals_1.jpg?fit=100%2C43&ssl=1)
+![How To Watch The UEFA Champions League Semi-Finals](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/04/How-to-Watch-the-Uefa-Champions-League-Semi-Finals_1.jpg?resize=100%2C100&ssl=1)
 
 [How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
 
@@ -344,7 +344,7 @@ Afam Onyimadu May 1, 2024
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/What-to-Do-If-Facebook-Lock-Profile-Is-Not-Showing.jpg?fit=100%2C43&ssl=1)
+![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/What-to-Do-If-Facebook-Lock-Profile-Is-Not-Showing.jpg?resize=100%2C100&ssl=1)
 
 [What to Do If Facebook Lock Profile Is Not Showing](https://www.alphr.com/what-to-do-if-facebook-lock-profile-is-not-showing/)
 
@@ -352,7 +352,7 @@ Mehvish Mushtaq June 19, 2024
 
 ![X-Rules-for-Extending-Your-Laptop's-Battery-Life-in-the-Wild](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![X-Rules-for-Extending-Your-Laptop's-Battery-Life-in-the-Wild](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/X-Rules-for-Extending-Your-Laptops-Battery-Life-in-the-Wild.jpg?fit=100%2C43&ssl=1)
+![X-Rules-for-Extending-Your-Laptop's-Battery-Life-in-the-Wild](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/X-Rules-for-Extending-Your-Laptops-Battery-Life-in-the-Wild.jpg?resize=100%2C100&ssl=1)
 
 [11 Rules for Extending Your Laptop’s Battery Life in the Wild](https://www.alphr.com/rules-for-extending-your-laptops-battery-life-in-the-wild/)
 
