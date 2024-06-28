@@ -2,12 +2,13 @@
 
   [![Lumma Cups](//mylumma.com/cdn/shop/files/lumma-branco.svg?v=17083912383540878057) ![Lumma Cups](//mylumma.com/cdn/shop/files/lumma-branco.svg?v=17083912383540878057) ![Lumma Cups](//mylumma.com/cdn/shop/files/lumma-branco.svg?v=17083912383540878057)](https://mylumma.com/)
 
-* [Shop](https://mylumma.com/products/menstrual-disc)
+* [Shop](https://mylumma.com/collections/main-products)
     
 * [About](https://mylumma.com/pages/about-lumma)
     
 * [How to Use](https://mylumma.com/pages/how-to-use)
 * [Find your Size](https://mylumma.com/pages/find-your-size)
+* [Blog](https://mylumma.com/blogs/insider)
 
 [](https://mylumma.com/search)
 
