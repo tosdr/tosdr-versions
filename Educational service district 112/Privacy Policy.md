@@ -114,7 +114,7 @@ Search for:
             * [Early Childhood Education Assistance Program (ECEAP)](https://www.esd112.org/ece/eceap/)
             * [ECE Volunteer Team](https://www.esd112.org/ece/volunteer/)
             * [Transitional Kindergarten](https://www.esd112.org/ece/transitional-kindergarten/)
-            * [White Salmon Community Preschool](https://www.esd112.org/ece/white-salmon-community-preschool/)
+            * [White Salmon Early Learning Center](https://www.esd112.org/ece/white-salmon-community-preschool/)
         * School Readiness & Family Support
             * [1-2-3 Grow and Learn](https://www.esd112.org/ece/1-2-3-grow-and-learn/)
             * [Early Childhood Education Assistance Program (ECEAP)](https://www.esd112.org/ece/eceap/)
