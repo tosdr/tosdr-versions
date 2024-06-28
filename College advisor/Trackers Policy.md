@@ -322,4 +322,4 @@ Personalized and effective college advising for high school students.
 
 By using the College Advisor site and/or working with College Advisor, you agree to our updated [Terms and Conditions](https://www.collegeadvisor.com/terms-and-conditions/) and [Privacy Policy](https://www.collegeadvisor.com/privacy-policy/), including an arbitration clause that covers any disputes relating to our policies and your use of our products and services.
 
-![](https://www.collegeadvisor.com/akam/13/pixel_291c0b1c?a=dD0xNzFmYjY1YmY3ODQ4MjA2ZTdhNWVlMTBjNTQxMjA5MzI5MjY1MjU5JmpzPW9mZg==)
+![](https://www.collegeadvisor.com/akam/13/pixel_5fae126?a=dD03YjUxYzliNzg0ZDkwNTU3MWM0YmQ2NjRjN2EyOTdjYjE0NDE5YzkwJmpzPW9mZg==)
