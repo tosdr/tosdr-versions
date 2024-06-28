@@ -107,19 +107,19 @@ Cookie Policy
 
 ### Introduction
 
-THESE TERMS & CONDITIONS WERE LAST UPDATED ON 1st SEPTEMBER 2017
+THIS COOKIE POLICY WAS LAST UPDATED ON 27th JUNE 2024
 
-During the course of visiting guinnessworldrecords.com, related sub-domains, counterpart sites in other languages and any other GWR website that links to GWR’s Privacy Policy (the/ this "Site"), Guinness World Records Limited (“GWR” or "us" or "we" or "our"), and certain third parties, may set cookies on your computer, tablet or mobile ‘phone (each a “device”). 
+During the course of visiting guinnessworldrecords.com, gwrstore.com, related sub-domains, counterpart sites in other languages, the GWR Events app and any other GWR website or application owned or operated by Guinness World Records Limited (the "GWR Services"), Guinness World Records Limited (“GWR” or "us" or "we" or "our"), and certain third parties, may set cookies on your computer, tablet or mobile ‘phone (each a “device”). 
 
 Cookies are small pieces of information that are stored by your browser on your device's hard drive. The cookies that we set on your device do not contain any personally identifiable information, but they do enable us to provide features such as personalisation and in certain cases, to provide targeted advertising to you based on previous sites you have visited. 
 
 Most web browsers automatically accept cookies, but you can usually change your browser. For additional information on finding and controlling your cookies, please see the provisions at the end of this Cookie Policy entitled "HOW TO FIND AND CONTROL YOUR COOKIES". 
 
-Cookies in themselves do not identify the individual user, just the device used (although certain cookies will be associated with your personal information, where such information is used in the related account (for example your account on the Site or your Facebook, Google+ or Twitter account if applicable) where you choose to interact with the Site with that account. 
+Cookies in themselves do not identify the individual user, just the device used (although certain cookies will be associated with your personal information, where such information is used in the related account (for example your account on the GWR Services or your Facebook, Google, Instagram, TikTok, or Twitter account, if applicable) where you choose to interact with the GWR Services with that account. 
 
-We also use what are known as web beacons. The Site therefore contains electronic images (called a "single-pixel gif" or "Web beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web site, including an ad banner, can act as a web beacon. Web beacons are typically very small, 1 by 1 pixel size, banner like files. 
+We also use what are known as web beacons. The GWR Services therefore contain electronic images (called a "single-pixel gif" or "Web beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web site, including an ad banner, can act as a web beacon. Web beacons are typically very small, 1 by 1 pixel size, banner like files. 
 
-The web beacons that we use do not collect, gather, monitor or share any personal information about visitors to the Site, they are just the technique we use to compile our anonymous, aggregated statistics about web site usage. The Web Beacon system we use to collect this information is called Google Analytics (www.google.com/analytics) provided by Google, Inc. 
+The web beacons that we use do not collect, gather, monitor or share any personal information about visitors to the GWR Services, they are just the technique we use to compile our anonymous, aggregated statistics about web site usage. The Web Beacon system we use to collect this information on this website is called Google Analytics (www.google.com/analytics) provided by Google, Inc. 
 
 Web beacons achieve a similar effect to cookies and references to cookies in this policy, are to both pure-form cookies and web beacons.
 
