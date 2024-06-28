@@ -500,6 +500,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![Beneficiaries of A New Leaf](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/new-leaf-main-image.png.webp?itok=egsOOggk)
+
+**Helping Arizonans turn a new leaf**
+
+Read how A New Leaf addresses the needs of Arizonans with the help of Bonterra
+
+[Read their story onHelping Arizonans turn a new leaf](https://www.everyaction.com/case-studies/helping-arizonans-turn-new-leaf)
+
+Impact Powered by:
+
 ![Two people participating in a Pride celebration](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/bonterra-hudson-pride_header-photo.jpg.webp?itok=JwWZ5Ree)
 
 **Expanding support to the LGBTQ+ community**
@@ -555,24 +565,6 @@ How Project QUEST uses better data to raise more and serve more San Antonians
 
 Impact Powered by:
 
-![Woman sketching a business plan on a placard at a creative office](/sites/default/files/styles/carousel_square_450x450_/public/2023-09/istock-912338074.jpg.webp?itok=APB8lGPQ)
-
-**How BOK Financial invests in community engagement**
-
-See how BOK Financial uses technology to scale its community engagement programs, covering everything from managing volunteer events to handling disbursements and reporting impact.
-
-[Read their story onBOK Financial](https://www.everyaction.com/case-studies/bok-financial)
-
-Impact Powered by:
-
-* Corporate Social Responsibility
-* Volunteerism
-* Corporations
-* Financial institutions
-* Corporate social responsibility
-* Employee giving
-* Employee volunteering
-
 Previous Next
 
 [See all](https://www.everyaction.com/case-studies)
@@ -580,30 +572,34 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![A group of volunteer embrace after a successful event.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1411288793-1.jpg?h=2b0deddb&itok=6-nlypOR)
+* ![A group of adults sit at a shared desk with books and papers in front of them while taking part in a reentry program.](/sites/default/files/styles/card_image_short/public/2023-05/istock-518142730.jpg?h=f2fcf546&itok=tuyJkTjS)
     
-    ### [4 techniques for turning volunteers into donors](https://www.everyaction.com/blog/turn-volunteers-to-donors)
+    ### [4 elements of successful reentry programs for inmates](https://www.everyaction.com/blog/successful-reentry-programs)
     
-    * Digital communications & marketing
+    * Coordinating social services
+    * Public agencies
+    * Program Management
+    * Human services
+    * Social justice
+    
+* ![This group of peers are talking and laughing on a porch.](/sites/default/files/styles/card_image_short/public/2023-05/bonterra_peer-to-peer_feature.jpg?h=119335f7&itok=nmDL5kpi)
+    
+    ### [3 pillars of successful peer-to-peer fundraising campaigns](https://www.everyaction.com/blog/successful-peer-to-peer-fundraising-campaigns)
+    
     * Fundraising ideas
+    * Peer-to-peer fundraising
     * Nonprofits
-    * Mobilize
+    * Fundraising
     
-* ![A woman consults with a doctor online](/sites/default/files/styles/card_image_short/public/2024-05/427383288.jpg?h=140710cd&itok=O--6aXa_)
+* ![Three women smile and chat while volunteering at a community food drive, representing the importance of starting an employee volunteer program.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1282319753.jpg?h=2992ba0a&itok=WBCvqsiF)
     
-    ### [Battling stigma unlocks access to mental healthcare](https://www.everyaction.com/blog/battling-stigma-unlocks-access-mental-healthcare)
+    ### [9 steps for starting an employee volunteer program](https://www.everyaction.com/blog/starting-an-employee-volunteer-program)
     
-    * Medical affairs
-    * Community Outreach
-    
-* ![A woman in an office smiles as she shows her coworker information about the company’s donation matching program.](/sites/default/files/styles/card_image_short/public/2024-05/donation-matching_0.png?h=0a365b51&itok=504Ot3BM)
-    
-    ### [Corporate donation matching: Complete guide for companies](https://www.everyaction.com/blog/donation-matching)
-    
-    * Employee giving
-    * Giving day
+    * Corporate social responsibility
+    * Employee volunteering
     * Corporations
-    * Giving & Matching
+    * Volunteerism
+    * Volunteerism
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
