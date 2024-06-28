@@ -6,7 +6,7 @@
 
 [Home](https://www.ivars.com/) Order Locations Menus Reservations [Group Dining](https://www.ivars.com/group-dining)
 
-[Promos](https://www.ivars.com/promos) Gift Cards [Carte Clam](https://www.ivars.com/carte-clam) [Newsletter](https://www.ivars.com/newsletter) [Jobs](https://apply.jobappnetwork.com/ivars)
+[Promos](https://www.ivars.com/promos) Store [Carte Clam](https://www.ivars.com/carte-clam) [Newsletter](https://www.ivars.com/newsletter) [Jobs](https://apply.jobappnetwork.com/ivars)
 
 Back [Seafood Bars](https://order.online/business/26134/en-US) [Acres of Clams](https://order.online/store/ivar's-acres-of-clams-seattle-968977/?hideModal=true&pickup=true) [Salmon House](https://order.online/store/ivar's-salmon-house-seattle-41227/?hideModal=true&pickup=true) [Mukilteo Landing](https://order.online/store/ivar's-mukilteo-landing-mukilteo-969063/?hideModal=true&pickup=true)
 
@@ -16,7 +16,7 @@ Back [Acres of Clams](https://www.ivars.com/acres-menus) [Salmon House](https://
 
 Back [Reservations](https://www.ivars.com/reservations-1) [Acres of Clams](https://www.exploretock.com/ivarsacresofclams?tock_medium=search_nav&tock_source=tock) [Salmon House](https://www.exploretock.com/ivarssalmonhouse?tock_medium=search_nav&tock_source=tock) [Mukilteo Landing](https://www.exploretock.com/ivarsmukilteolanding?tock_medium=search_nav&tock_source=tock) [Group Dining](https://www.ivars.com/group-dining)
 
-Back [Purchase & Balance](https://www.ivars.com/purchase-balance) [Store](https://ivars.mybigcommerce.com/)
+Back [Gift Card Purchase & Balance](https://www.ivars.com/purchase-balance) [Shirts & More](https://ivars.mybigcommerce.com/)
 
 [](https://www.facebook.com/IvarsRestaurants)[](https://www.instagram.com/ivarsclam/)
 
@@ -26,7 +26,7 @@ Back [Purchase & Balance](https://www.ivars.com/purchase-balance) [Store](https:
 
 [![Ivar&#39;s](//images.squarespace-cdn.com/content/v1/5e13a2dab276bd1e787dfcd1/1583341785686-XRCYGUNXPVDYZBTMO75O/IvarsLogoWhite.png)](https://www.ivars.com/)
 
-[Promos](https://www.ivars.com/promos) [Gift Cards](https://www.ivars.com/giftcards) [Purchase & Balance](https://www.ivars.com/purchase-balance) [Store](https://ivars.mybigcommerce.com/) [Carte Clam](https://www.ivars.com/carte-clam)[Newsletter](https://www.ivars.com/newsletter)[Jobs](https://apply.jobappnetwork.com/ivars)
+[Promos](https://www.ivars.com/promos) [Store](https://www.ivars.com/store) [Gift Card Purchase & Balance](https://www.ivars.com/purchase-balance) [Shirts & More](https://ivars.mybigcommerce.com/) [Carte Clam](https://www.ivars.com/carte-clam)[Newsletter](https://www.ivars.com/newsletter)[Jobs](https://apply.jobappnetwork.com/ivars)
 
 Privacy Policy
 ==============
@@ -68,4 +68,4 @@ Keep Clam & connect with us:
 
 [](https://www.facebook.com/IvarsRestaurants)[](https://www.instagram.com/ivarsclam/)
 
-[Locations](https://www.ivars.com/locations)[Reservations](https://www.ivars.com/reservations-1)[Group Dining](https://www.ivars.com/group-dining)[Promos](https://www.ivars.com/promos)[Jobs](https://apply.jobappnetwork.com/ivars)[Carte Clam](https://www.ivars.com/carte-clam)[Newsletter](https://www.ivars.com/newsletter)[Our Story](https://www.ivars.com/our-story)[Our Fish](https://www.ivars.com/our-fish)[Gift Cards](https://www.ivars.com/giftcards)[Store](https://ivars.mybigcommerce.com/)[Partners](https://www.ivars.com/our-fish#partners)[Resources](https://www.ivars.com/our-fish#resources)[Firearm Policy](https://www.ivars.com/firearm-policy)[Nutritionals](https://www.ivars.com/nutritionals)[Press Room](https://www.ivars.com/press-room)[Corporate Giving](https://www.ivars.com/corporate-giving)[Privacy Policy](https://www.ivars.com/privacy-policy)[Contact Us](https://www.ivars.com/contact-us)[Feedback](https://go.reviewpush.com/feedback/b/9429)
+[Locations](https://www.ivars.com/locations)[Reservations](https://www.ivars.com/reservations-1)[Group Dining](https://www.ivars.com/group-dining)[Promos](https://www.ivars.com/promos)[Jobs](https://apply.jobappnetwork.com/ivars)[Carte Clam](https://www.ivars.com/carte-clam)[Newsletter](https://www.ivars.com/newsletter)[Our Story](https://www.ivars.com/our-story)[Our Fish](https://www.ivars.com/our-fish)[Gift Cards](https://www.ivars.com/purchase-balance)[Store](https://ivars.mybigcommerce.com/)[Partners](https://www.ivars.com/our-fish#partners)[Resources](https://www.ivars.com/our-fish#resources)[Firearm Policy](https://www.ivars.com/firearm-policy)[Nutritionals](https://www.ivars.com/nutritionals)[Press Room](https://www.ivars.com/press-room)[Corporate Giving](https://www.ivars.com/corporate-giving)[Privacy Policy](https://www.ivars.com/privacy-policy)[Contact Us](https://www.ivars.com/contact-us)[Feedback](https://go.reviewpush.com/feedback/b/9429)
