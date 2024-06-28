@@ -42,7 +42,7 @@
     * [Portal de escolarización](https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/infantil-a-bachillerato "Portal de escolarización")
     * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
     * [Formación Profesional](https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/fp "Formación Profesional")
-    * [PASEN](https://seneca.juntadeandalucia.es/seneca/jsp/portalpasen/ "PASEN")
+    * [Matriculación](https://www.juntadeandalucia.es/temas/estudiar/fp/matriculacion.html "Matriculación")
     * [Portal del Docente](https://www.juntadeandalucia.es/educacion/portaldocente/ "Portal del Docente")
     
 * [Trabajar](https://www.juntadeandalucia.es/temas/trabajar.html "Trabajar")
