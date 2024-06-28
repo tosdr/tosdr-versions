@@ -204,15 +204,17 @@ Une semaine à l'Assemblée
 
 Inscrivez-vous à notre lettre Une semaine à l'Assemblée et recevez tous les vendredis dans votre messagerie les temps forts de l'actualité de la semaine à venir !
 
-Votre adresse de messagerie est uniquement utilisée pour vous envoyer les lettres de l'Assemblée nationale. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la lettre. [En savoir plus sur la gestion de vos données et de vos droits](https://www.assemblee-nationale.fr/faq.asp)
+Votre adresse de messagerie est uniquement utilisée pour vous envoyer les lettres de l'Assemblée nationale. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la lettre. [En savoir plus sur la gestion de vos données et de vos droits](https://www.assemblee-nationale.fr/dyn/info-site)
 
 [Abonnez-vous à la lettre d'actualité](https://se.assemblee-nationale.fr/form/60903/12/form.aspx)
 
-[S'ABONNER À UN SERVICE](https://www.assemblee-nationale.fr/abonnement.asp "S'abonner aux autres services en ligne")
+[S'ABONNER À UN SERVICE](https://www.assemblee-nationale.fr/dyn/s-abonner-aux-services-en-ligne-de-l-assemblee-nationale "S'abonner aux autres services en ligne")
 
 [OUTIL D'ÉVALUATION LEXIMPACT](https://leximpact.an.fr/ "Accéder à l'outil d'évaluation Leximpact")
 
-©Tous droits réservés Assemblée nationale 2019 | [Mentions légales](https://www.assemblee-nationale.fr/faq.asp "Accéder aux mentions légales de l'Assemblée nationale") | [Accessibilité : partiellement conforme](https://www2.assemblee-nationale.fr/static/accessibilite/declaration_accessibilite_assemblee-2023.pdf "Accessibilité : partiellement conforme") | [Contacter le webmestre](https://www.assemblee-nationale.fr/faq.asp "Contacter le webmestre") | [Fils RSS](https://www.assemblee-nationale.fr/rss/ "Accéder aux fils RSS")
+©Tous droits réservés Assemblée nationale 2019
+
+[Mentions légales](https://www.assemblee-nationale.fr/dyn/info-site "Accéder aux mentions légales de l'Assemblée nationale") | [Accessibilité : partiellement conforme](https://www2.assemblee-nationale.fr/static/accessibilite/declaration_accessibilite_assemblee-2023.pdf "Accessibilité : partiellement conforme") | [Contacter le webmestre](https://www.assemblee-nationale.fr/dyn/info-site "Contacter le webmestre") | [Fils RSS](https://www.assemblee-nationale.fr/dyn/les-fils-rss-de-l-assemblee-nationale "Accéder aux fils RSS") | [Gestion des cookies](https://www.assemblee-nationale.fr/dyn/gestion-des-cookies "Gestion des cookies")
 
 Assemblée nationale - 126 Rue de l'Université, 75355 Paris 07 SP - Standard 01 40 63 60 00
 
