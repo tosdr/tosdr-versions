@@ -68,7 +68,7 @@ MenuSearch
     * [Marketplace](https://www.jobvite.com/marketplace/)
     * [Partners](https://www.jobvite.com/partners/)
     * [Evolve Framework](https://www.jobvite.com/evolve-framework/)
-    * [Employ HireEd](https://www.jobvite.com/academy/)
+    * [Employ HireEd](https://www.jobvite.com/?page_id=29143)
 * [Company](https://www.jobvite.com/company/)
     
     * [About](https://www.jobvite.com/company/)
@@ -324,7 +324,7 @@ Employ is committed to working with you to obtain a fair resolution of any compl
     * [Marketplace](https://www.jobvite.com/marketplace/)
     * [Partners](https://www.jobvite.com/partners/)
     * [Evolve Framework](https://www.jobvite.com/evolve-framework/)
-    * [Employ HireEd](https://www.jobvite.com/academy/)
+    * [Employ HireEd](https://www.jobvite.com/?page_id=29143)
 * [Company](https://www.jobvite.com/company/)
     * [About](https://www.jobvite.com/company/)
     * [Careers](https://careers.employinc.com/)
