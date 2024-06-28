@@ -96,7 +96,7 @@
     
     * [All SCM & Operations Jobs](https://www.iimjobs.com/c/scm-operations-jobs)
     * [Supply Chain Jobs](https://www.iimjobs.com/k/supply-chain-jobs)
-    * [Operations Jobs](https://www.iimjobs.com/k/operations-jobs)
+    * [Operations Jobs](https://www.iimjobs.com/k/scm-operations-jobs)
     * [Procurement Jobs](https://www.iimjobs.com/k/procurement-jobs)
     * [Inventory Management Jobs](https://www.iimjobs.com/k/inventory-management-jobs)
     * [Plant Operations Jobs](https://www.iimjobs.com/k/plant-operations-jobs)
@@ -251,7 +251,7 @@
 * [SCM & Operations](https://www.iimjobs.com/c/scm-operations-jobs)
     * [All SCM & Operations Jobs](https://www.iimjobs.com/c/scm-operations-jobs)
     * [Supply Chain Jobs](https://www.iimjobs.com/k/supply-chain-jobs)
-    * [Operations Jobs](https://www.iimjobs.com/k/operations-jobs)
+    * [Operations Jobs](https://www.iimjobs.com/k/scm-operations-jobs)
     * [Procurement Jobs](https://www.iimjobs.com/k/procurement-jobs)
     * [Inventory Management Jobs](https://www.iimjobs.com/k/inventory-management-jobs)
     * [Plant Operations Jobs](https://www.iimjobs.com/k/plant-operations-jobs)
@@ -347,7 +347,7 @@ However, if you are dissatisfied with any of the paid services on iimjobs.com, p
 Cancellation:  
 If you upgraded to the Pro Plan by mistake, please drop us a mail at hello@iimjobs.com within one day from the upgrade. We will cancel your pro-membership and refund the amount.
 
-### [Finance Jobs](https://www.iimjobs.com/c/finance-jobs)
+### [Finance Jobs](https://www.iimjobs.com/c/banking-finance-jobs)
 
 * [Finance and Accounts Jobs](https://www.iimjobs.com/k/finance-and-accounts-jobs)
 * [Banking Jobs](https://www.iimjobs.com/k/banking-jobs)
@@ -365,7 +365,7 @@ If you upgraded to the Pro Plan by mistake, please drop us a mail at hello@iimjo
 * [Marketing Communications Jobs](https://www.iimjobs.com/k/marketing-communications-jobs)
 * [Market Research Jobs](https://www.iimjobs.com/k/market-research-jobs)
 
-### [Consulting Jobs](https://www.iimjobs.com/c/consulting-jobs)
+### [Consulting Jobs](https://www.iimjobs.com/c/consulting-general-mgmt-jobs)
 
 * [Strategy Consulting Jobs](https://www.iimjobs.com/k/strategy-consulting-jobs)
 * [Research Jobs](https://www.iimjobs.com/k/research-jobs)
@@ -374,7 +374,7 @@ If you upgraded to the Pro Plan by mistake, please drop us a mail at hello@iimjo
 * [Consulting - BFSI Jobs](https://www.iimjobs.com/k/consulting-bfsi-jobs)
 * [Consulting - Consumer Goods Jobs](https://www.iimjobs.com/k/consulting-consumer-goods-jobs)
 
-### [HR Jobs](https://www.iimjobs.com/c/hr-jobs)
+### [HR Jobs](https://www.iimjobs.com/c/hr-ir-jobs)
 
 * [HR Generalist Jobs](https://www.iimjobs.com/k/hr-generalist-jobs)
 * [HR Business Partner Jobs](https://www.iimjobs.com/k/hr-business-partner-jobs)
@@ -392,10 +392,10 @@ If you upgraded to the Pro Plan by mistake, please drop us a mail at hello@iimjo
 * [IT Product Management Jobs](https://www.iimjobs.com/k/it-product-management-jobs)
 * [IT Business Analyst Jobs](https://www.iimjobs.com/k/it-business-analyst-jobs)
 
-### [Operations Jobs](https://www.iimjobs.com/c/operations-jobs)
+### [Operations Jobs](https://www.iimjobs.com/c/scm-operations-jobs)
 
 * [Supply Chain Jobs](https://www.iimjobs.com/k/supply-chain-jobs)
-* [Operations Jobs](https://www.iimjobs.com/k/operations-jobs)
+* [Operations Jobs](https://www.iimjobs.com/k/scm-operations-jobs)
 * [Procurement Jobs](https://www.iimjobs.com/k/procurement-jobs)
 * [Inventory Management Jobs](https://www.iimjobs.com/k/inventory-management-jobs)
 * [Plant Operations Jobs](https://www.iimjobs.com/k/plant-operations-jobs)
@@ -578,23 +578,23 @@ Posting
 
 [#### Featured Employer
 
-![](https://d3qr48lsanmyop.cloudfront.net/1708670071087.jpeg) Cognizant Technology Solutions](https://showcase.iimjobs.com/v2/rscp-cognizant-technology-solutions-9.html?ref=jssearch)
+![](https://d3qr48lsanmyop.cloudfront.net/1701755163643.jpeg) AkzoNobel India Ltd](https://showcase.iimjobs.com/v2/rscp-akzonobel-india-ltd-150.html?ref=jssearch)
 
-[![](https://d3qr48lsanmyop.cloudfront.net/1708670013708.jpeg)](https://showcase.iimjobs.com/v2/rscp-cognizant-technology-solutions-9.html?ref=jssearch)
+[![](https://d3qr48lsanmyop.cloudfront.net/1701755167883.jpeg)](https://showcase.iimjobs.com/v2/rscp-akzonobel-india-ltd-150.html?ref=jssearch)
 
-[](https://showcase.iimjobs.com/v2/rscp-cognizant-technology-solutions-9.html?ref=jssearch)
+[](https://showcase.iimjobs.com/v2/rscp-akzonobel-india-ltd-150.html?ref=jssearch)
 
-[Cognizant (Nasdaq: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 194 on the Fortune 500 and is consistently listed among the most admired companies in the world..](https://showcase.iimjobs.com/v2/rscp-cognizant-technology-solutions-9.html?ref=jssearch) [Read More](https://showcase.iimjobs.com/v2/rscp-cognizant-technology-solutions-9.html?ref=jssearch)
+[AkzoNobel has a passion for paint. We’re experts in the proud craft of making paints and coatings, setting the standard in color and protection since 1792. Our world class portfolio of brands – including Dulux, International, Sikkens and Interpon – is trusted by customers around the globe. Headquartered in the Netherlands, we are active in over 150 countries and employ around 34,500 talented people who are passionate about delivering the high-performance products and services our customers expect.](https://showcase.iimjobs.com/v2/rscp-akzonobel-india-ltd-150.html?ref=jssearch) [Read More](https://showcase.iimjobs.com/v2/rscp-akzonobel-india-ltd-150.html?ref=jssearch)
 
-[See inside the office of Cognizant Technology Solutions](https://showcase.iimjobs.com/v2/rscp-cognizant-technology-solutions-9.html?ref=jssearch)
+[See inside the office of AkzoNobel India Ltd](https://showcase.iimjobs.com/v2/rscp-akzonobel-india-ltd-150.html?ref=jssearch)
 
 #### Recent Searches
 
-[Finance](https://www.iimjobs.com/c/finance-jobs) [Sales & Marketing](https://www.iimjobs.com/c/sales-marketing-jobs) [Consulting](https://www.iimjobs.com/c/consulting-jobs) [HR](https://www.iimjobs.com/c/hr-jobs) [IT & Systems](https://www.iimjobs.com/c/it-systems-jobs) [Operations](https://www.iimjobs.com/c/operations-jobs) [Legal](https://www.iimjobs.com/c/legal-jobs) [BPO](https://www.iimjobs.com/c/bpo-jobs)
+[Finance](https://www.iimjobs.com/c/banking-finance-jobs) [Sales & Marketing](https://www.iimjobs.com/c/sales-marketing-jobs) [Consulting](https://www.iimjobs.com/c/consulting-general-mgmt-jobs) [HR](https://www.iimjobs.com/c/hr-ir-jobs) [IT & Systems](https://www.iimjobs.com/c/it-systems-jobs) [Operations](https://www.iimjobs.com/c/scm-operations-jobs) [Legal](https://www.iimjobs.com/c/legal-jobs) [BPO](https://www.iimjobs.com/c/bpo-jobs)
 
 #### Top Employers
 
-[![Virtusa](https://d3qr48lsanmyop.cloudfront.net/1708671126105.jpeg)](https://showcase.iimjobs.com/v2/rscp-virtusa-2949.html?ref=jssearch)[![EMCURE](https://d3qr48lsanmyop.cloudfront.net/1648454641329.jpeg)](https://showcase.iimjobs.com/v2/rscp-emcure-2579.html?ref=jssearch)[![Egon Zehnder](https://d3qr48lsanmyop.cloudfront.net/1655890992417.jpeg)](https://showcase.iimjobs.com/v2/rscp-egon-zehnder-2505.html?ref=jssearch)[![CRISIL](https://d3qr48lsanmyop.cloudfront.net/1708670813545.jpeg)](https://showcase.iimjobs.com/v2/rscp-crisil-17.html?ref=jssearch)[![Franklin Templeton](https://d3qr48lsanmyop.cloudfront.net/1667972123197.jpeg)](https://showcase.iimjobs.com/v2/rscp-franklin-templeton-396.html?ref=jssearch)[![Adani Enterprises](https://d3qr48lsanmyop.cloudfront.net/1718954403243.jpeg)](https://www.iimjobs.com/refund/?ref=jssearch)
+[![Mondelez](https://d3qr48lsanmyop.cloudfront.net/1660629814644.jpeg)](https://showcase.iimjobs.com/v2/rscp-mondelez-2460.html?ref=jssearch)[![Udaan](https://d3qr48lsanmyop.cloudfront.net/1664279767458.jpeg)](https://showcase.iimjobs.com/v2/rscp-udaan-2464.html?ref=jssearch)[![Egon Zehnder](https://d3qr48lsanmyop.cloudfront.net/1655890992417.jpeg)](https://showcase.iimjobs.com/v2/rscp-egon-zehnder-2505.html?ref=jssearch)[![Hackett Group (India) Limited](https://d3qr48lsanmyop.cloudfront.net/1719212360969.jpeg)](https://showcase.iimjobs.com/v2/rscp-hackett-group-india-limited-2980.html?ref=jssearch)[![Adani Enterprises](https://d3qr48lsanmyop.cloudfront.net/1718954403243.jpeg)](https://www.iimjobs.com/refund/?ref=jssearch)
 
 #### Trending Courses
 
