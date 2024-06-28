@@ -46,7 +46,7 @@ Install App
     
 [* AI Voices](https://www.101soundboards.com/boards/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
-    [iOS App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Android App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Google Home](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Donate](https://www.101soundboards.com/pages/donate) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Merch](https://www.101soundboards.com/pages/donate#merch)
+    [iOS App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Android App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Google Home](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
     [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [TikTok Song Generators](https://www.101soundboards.com/boards/tts#song_generators) [No-Queue TTS Voices](https://www.101soundboards.com/boards/tts#noqueue_tts_boards)
     
@@ -55,6 +55,8 @@ Install App
     [Feature Suggestions & Bugs](https://www.101soundboards.com/pages/about#feature-suggestions-and-bugs "<strongSsuggest a new feature or report a bug")
     
 * [Login/Register](https://www.101soundboards.com/login)
+
+Sticker drop! Pack of 101soundboards stickers for $3.99 with free shipping ➡ [101soundboards Sticker Shop](https://shop.101soundboards.com/)
 
 × Your AdBlocker was detected as enabled 😔😞😭 Ads fund this site. It costs money to run.  
 Consider disabling or [donating](https://www.101soundboards.com/pages/support)  
