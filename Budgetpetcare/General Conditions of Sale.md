@@ -80,7 +80,7 @@ Use Code : SUMMER10
     * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
 
-* [Home](https://www.budgetpetcare.com/)
+* [Homes](https://www.budgetpetcare.com/)
 * Shipping Policy
 
 Shipping Policy
