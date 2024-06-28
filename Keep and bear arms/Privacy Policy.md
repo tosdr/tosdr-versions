@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 488 active visitors** | **Friday, June 21, 2024** |
+| **You are 1 of 688 active visitors** | **Friday, June 28, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**No man's life, liberty, or property are safe while the legislature is in session. � Mark Twain
+ **QUOTES TO REMEMBER**If you have always believed that everyone should play by the same rules and be judged by the same standards, that would have gotten you labeled a radical 50 years ago, a liberal 25 years ago, and a racist today. �THOMAS SOWELL
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
