@@ -341,7 +341,8 @@ _Last updated: August 30, 2021_
 #### Support
 
 * [1-855-334-BABY (2229)](tel:(855)334-2229 "Phone: 1-855-334-BABY (2229)")
-* [Contact Support](https://www.evenflofeeding.com/company/contact-evenflo-support "E-Mail Us")
+* [support@evenflofeeding.com](mailto:support@evenflofeeding.com)  
+    
 * [8200 Becket Park Dr. Suite 111 West Chester, OH 45069](https://www.google.com/maps/place/9277+Centre+Pointe+Dr+%23160,+West+Chester+Township,+OH+45069)
 
 * [](https://www.instagram.com/evenflofeeding)
