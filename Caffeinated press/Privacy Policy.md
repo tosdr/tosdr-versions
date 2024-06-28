@@ -205,10 +205,6 @@ Slotbiru adalah situs dari judi [slot online](https://pafimanado.org/) hari ini 
 
 WhiteSlots adalah situs [slot](https://littlebarandgrilled.com/) gacor online paling sangat gacor hari ini jamin maxwin daftar dengan link resmi terbaru dengan game pragmatic play server amrik.
 
-Link versi [Wap Sbobet](https://www.asantekotoko.com/) adalah Link Sbobet resmi mobile yang dirancang khusus pengguna seluler dan dijadikan sebagai sarana alternatif login untuk akses situs Sbobet.com yang aman, ringan, mudah dan terpercaya.
-
-Slotfafa88 situs slot gacor terpercaya dan [slot](https://www.panmn.org/) paling menyala abangkuh, Raih untung belitung main slot gacor !! GASSS Dong yakali gak spin.
-
 WHITESLOTS merupakan link daftar dari situs judi [slot online](https://www.westshorecoffee.com/) terbaru hari ini 2024 dengan game slot gampang menang bisa maxwin lisensi pragmatic play dan pg soft resmi.
 
 Sip33 sebagai situs judi [slot online](https://www.tethabyte.com/) gacor terbaik dengan pilihan slot88 terpercaya banyak memberikan keuntungan bagi setiap member slot gacor hari ini yang tergabung dengan komunitas terbesar Indonesia.
@@ -287,7 +283,7 @@ Hoki99 adalah daftar situs [slot gacor](https://effdebate.org/) online terbaru d
 
 MADU303 adalah situs judi [slot](https://www.spiceofamerica.com/) gacor hari ini yang menyediakan daftar rtp slot maxwin terbaru dengan pola konsep slot88 gampang menang terpercaya.
 
-Mansion77 adalah situs judi online terbaik & [slot online](https://schmittfarms.com/) terpercaya tahun 2023. Bersama Agen Slot Gacor Slot88 anda bisa meraih jackpot maxwin slot hingga jutaan rupiah.
+Mansion77 adalah situs judi online terbaik & [slot online](https://www.lafayetteacademyno.org/) terpercaya tahun 2023. Bersama Agen Slot Gacor Slot88 anda bisa meraih jackpot maxwin slot hingga jutaan rupiah.
 
 [rtp roma77](https://orangroma.com/) adalah situs resmi roma slot pragmatic terbaik dan slot77 gacor terpercaya Indonesia, daftar roman77 slot sekarang juga.
 
