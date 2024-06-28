@@ -2,9 +2,13 @@
 
 ![KidRated.com is listed by the kidSAFE Seal Program.](https://www.kidsafeseal.com/sealimage/2023533681629644689/kidrated_small_darktm.png)](https://www.kidsafeseal.com/certifiedproducts/kidrated.html)
 
-[![](https://www.kidrated.com/kidrated/wp-content/themes/kidrated/img/search.svg)](https://www.kidrated.com/?s=&location= "Search")
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20105%2050'%3E%3C/svg%3E)
 
-[![Kidrated](https://www.kidrated.com/kidrated/wp-content/themes/kidrated/images/Kidrated-Logo-v2.svg "Kidrated")](https://www.kidrated.com/ "KidRated")
+![](https://www.kidrated.com/kidrated/wp-content/themes/kidrated/img/search.svg)](https://www.kidrated.com/?s=&location= "Search")
+
+[![Kidrated](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2091%2090'%3E%3C/svg%3E "Kidrated")
+
+![Kidrated](https://www.kidrated.com/kidrated/wp-content/themes/kidrated/images/Kidrated-Logo-v2.svg "Kidrated")](https://www.kidrated.com/ "KidRated")
 
 The best family days out in London and beyond rated by kids and teens
 
