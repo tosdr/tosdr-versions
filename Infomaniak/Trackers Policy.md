@@ -47,10 +47,10 @@ Events & Marketing
         kDrive Store, collaborate and share your files](https://www.infomaniak.com/en/kdrive)
     * [![mail service](/img/common/suite/new-mail.svg)
         
-        Email Service Create your own email addresses with your domain](https://www.infomaniak.com/en/hosting/service-mail)
+        Mail Service Create your email addresses with your domain](https://www.infomaniak.com/en/hosting/service-mail)
     * [![kChat](/img/nav-v2/kChat.svg)
         
-        kChat Communicate live with your team](https://www.infomaniak.com/en/kchat)
+        kChat Communicate live with your teams](https://www.infomaniak.com/en/kchat)
     * [![kmeet](/img/common/suite/meet.svg)
         
         kMeet Organise your meetings online in complete security](https://www.infomaniak.com/en/kmeet)
@@ -69,7 +69,7 @@ Events & Marketing
     
     ![](/img/nav-v2/web-domain.svg)
     
-    Find the right web hosting solution for you
+    Find the web hosting solution you need
     
     [Compare our web hosting solutions →](https://www.infomaniak.com/en/hosting/our-web-offers)
     
@@ -81,10 +81,10 @@ Events & Marketing
         Site Creator Create your website with ease](https://www.infomaniak.com/en/create-a-website/site-creator)
     * [![web hosting](/img/common/suite/new-web-hosting.svg)
         
-        Web Hosting Create your website with more than 100 CMS](https://www.infomaniak.com/en/hosting/web-and-mail/web-hosting)
+        Web Hosting Create your website with over 100 CMS](https://www.infomaniak.com/en/hosting/web-and-mail/web-hosting)
     * [![web hosting](/img/common/suite/wordpress.svg)
         
-        Wordpress hosting Create your WordPress website easily](https://www.infomaniak.com/en/create-a-website/wordpress-hosting)
+        Wordpress Hosting Create your WordPress website easily](https://www.infomaniak.com/en/create-a-website/wordpress-hosting)
     * [![Cloud Server](/img/common/suite/managed-cloud.svg)
         
         Cloud Server Power up your sites with guaranteed resources](https://www.infomaniak.com/en/hosting/managed-cloud-server)
@@ -99,7 +99,7 @@ Events & Marketing
         Domain Privacy Protect your domains’ private data](https://www.infomaniak.com/en/domains/domain-privacy)
     * [![DNS Fast Anycast](/img/suite/dns.svg)
         
-        FastAnycast DNS Speed up your website access times](https://www.infomaniak.com/en/domains/dns-anycast)
+        FastAnycast DNS Speed up your site access times](https://www.infomaniak.com/en/domains/dns-anycast)
     * [![Dyn DNS](/img/common/suite/dyndns.svg)
         
         DynDNS Access your devices remotely](https://www.infomaniak.com/en/dyndns)
@@ -121,10 +121,10 @@ Events & Marketing
         Swiss Backup Back up your devices in the Cloud](https://www.infomaniak.com/en/swiss-backup)
     * [![VPS Lite](/img/common/suite/vps-lite.svg)
         
-        VPS Lite Creez un serveur Windows/Linux a un cout avantageux](https://www.infomaniak.com/en/hosting/vps-lite)
+        VPS Lite Create a Windows/Linux server at a low cost](https://www.infomaniak.com/en/hosting/vps-lite)
     * [![nas synology](/img/common/suite/nas.svg)
         
-        Synology NAS Rent a NAS in our secure data centers](https://www.infomaniak.com/en/backup-and-storage/nas-synology)
+        NAS Synology Rent a NAS in our secure data centers](https://www.infomaniak.com/en/backup-and-storage/nas-synology)
     * [![jelastic cloud](/img/common/suite/jelastic.svg)
         
         Jelastic Cloud (PaaS) Create your own customised environments](https://www.infomaniak.com/en/hosting/dedicated-and-cloud-servers/jelastic-cloud)
@@ -139,11 +139,11 @@ Events & Marketing
         Housing Install your servers in our data centers](https://www.infomaniak.com/en/hosting/datacenter-housing)
     * [![llm api](/img/common/suite/llm.svg)
         
-        AI Tools Integrate sovereign generative AI into your applications](https://www.infomaniak.com/en/hosting/ai-tools)
+        AI Tools Integrate sovereign AI services into your apps](https://www.infomaniak.com/en/hosting/ai-tools)
     
     ![](/img/nav-v2/ticketing-event.svg)
     
-    Infomaniak Events, the local and independent events portal
+    Infomaniak Events, the independent local events portal
     
     Online ticketing service with a wide choice of concerts, shows and events.
     
@@ -151,10 +151,10 @@ Events & Marketing
     
     * [![online shop](/img/common/suite/ktickets.svg)
         
-        Ticketing Create your ticketing service and sell tickets.](https://www.infomaniak.com/en/etickets)
+        Ticketing Create your ticketing service and sell tickets](https://www.infomaniak.com/en/etickets)
     * [![kdrive](/img/common/suite/etickets.svg)
         
-        Access Control Easily control access to your events.](https://www.infomaniak.com/en/etickets/access-control)
+        Access Control Easily control access to your events](https://www.infomaniak.com/en/etickets/access-control)
     * [![kdrive](/img/common/suite/event.svg)
         
         Guest manager Automate your event invitations](https://www.infomaniak.com/en/marketing-events/invitation-manager)
@@ -164,44 +164,55 @@ Events & Marketing
     
     * [![Streaming radio](/img/common/suite/radio.svg)
         
-        Streaming radio Create and broadcast your own live online radio station](https://www.infomaniak.com/en/multimedia/streaming-radio)
+        Streaming radio Create and broadcast your own live radio station online](https://www.infomaniak.com/en/multimedia/streaming-radio)
     * [![streaming video](/img/common/suite/streaming.svg)
         
-        Streaming Video Create and broadcast live events and online TV](https://www.infomaniak.com/en/multimedia/streaming/video)
+        Video-Streaming Create and broadcast live events and TV online](https://www.infomaniak.com/en/multimedia/streaming/video)
     * [![VOD and AOD](/img/common/suite/vod.svg)
         
-        VOD & AOD service Host and distribute your recordings without limits](https://www.infomaniak.com/en/multimedia/vod-aod)
+        VOD & AOD service Host and broadcast your recordings without limits](https://www.infomaniak.com/en/multimedia/vod-aod)
     
-* Support
+* Resources
     
-    * [Contact us By chat, telephone or e-mail
-        
-        ![icon chevron](/img/nav-v2/chevron-right.svg)](https://www.infomaniak.com/en/help)
-    * [FAQs 1000 FAQs, 500 tutorials and instructional videos
-        
-        ![icon chevron](/img/nav-v2/chevron-right.svg)](https://www.infomaniak.com/en/support/faq/admin2)
-    * Sales contact For companies, NGOs and public authorities
-        
-        ![icon chevron](/img/nav-v2/chevron-right.svg)
-    * [Documentation for developers API references
-        
-        ![icon chevron](/img/nav-v2/chevron-right.svg)](https://developer.infomaniak.com/getting-started)
-    * [About the support service Close and attentive to our customers
-        
-        ![icon chevron](/img/nav-v2/chevron-right.svg)](https://www.infomaniak.com/en/support)
-    * [Premium support Assistance 24/7
-        
-        ![icon chevron](/img/nav-v2/chevron-right.svg)](https://www.infomaniak.com/en/support/support-premium)
+    ![documentation icon](/img/nav-v2/documentation-icon.svg) Documentation
+    
+    [Guides & tutorials](https://www.infomaniak.com/en/support/faq/admin2)
+    
+    [API documentation](https://developer.infomaniak.com/getting-started)
+    
+    ![special offers icon](/img/nav-v2/special-offers-icon.svg) Special offers
+    
+    [Get started for free](https://www.infomaniak.com/en/special-offers)
+    
+    [Become an affiliate](https://www.infomaniak.com/en/registration/affiliation)
+    
+    ![partner program icon](/img/nav-v2/partner-program-icon.svg) Partner programme
+    
+    [Find a partner](https://www.infomaniak.com/en/create-a-website/professionnal/our-partner-agencies)
+    
+    [Become a partner](https://www.infomaniak.com/en/partners)
+    
+    ![support icon](/img/nav-v2/support-icon.svg) Support & contact
+    
+    [Contact Support](https://www.infomaniak.com/en/help)
+    
+    [Premium support - 24/7](https://www.infomaniak.com/en/support/support-premium)
+    
+    Contact our sales department
+    
+    [Hiring an expert](https://www.infomaniak.com/en/create-a-website/professionnal/submit-your-project)
     
 * About us
     
-    ![solar pannels](/img/nav-v2/solar-pannels.jpg)
+    ![forest](/img/nav-v2/forest.jpg)
     
-    Ecological commitment
+    ![icon](/img/nav-v2/ecology-leaf.svg) Ecological commitment
+    
+    We pollute. But we are taking action to reduce the footprint of our services and infrastructure
     
     [Discover our commitment →](https://www.infomaniak.com/en/ecology)
     
-    About Infomaniak
+    ![icon](/img/nav-v2/about-ik.svg) About Infomaniak
     
     [Our vision, our values](https://www.infomaniak.com/en/about)
     
@@ -213,17 +224,7 @@ Events & Marketing
     
     [Blog and news](https://www.infomaniak.com/en/news)
     
-    Partners and resellers
-    
-    [Become an Infomaniak partner](https://www.infomaniak.com/en/partners)
-    
-    [Consult the list of partners](https://www.infomaniak.com/en/create-a-website/professionnal/our-partner-agencies)
-    
-    [Create a call for tenders](https://www.infomaniak.com/en/create-a-website/professionnal/submit-your-project)
-    
-    [Sales contact](https://www.infomaniak.com/en/sales)
-    
-    Security
+    ![icon](/img/nav-v2/security-icon.svg) Security
     
     [Data confidentiality](https://www.infomaniak.com/en/legal/confidentiality-policy)
     
