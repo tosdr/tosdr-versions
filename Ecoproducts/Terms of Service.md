@@ -202,7 +202,8 @@ Search
 
 1. [Home](https://ecoproducts.com/)
 
-#### Terms of Use
+Terms of Use
+============
 
   
   
@@ -336,7 +337,6 @@ GREEN IS ALL WE DO™
 * [Stories](https://ecoproducts.com/all-stories/)
 * [Company](https://ecoproducts.com/company)
 * [Learn](https://ecoproducts.com/learn)
-* [Locator](https://ecoproducts.com/locator)
 * [Store Locator](https://ecoproducts.com/store-locator)
 * [The Dish](https://ecoproducts.com/the-dish)
 * [Sitemap](https://www.ecoproducts.com/sitemap.php)
