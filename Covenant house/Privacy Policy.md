@@ -50,7 +50,7 @@
     
 * Get Involved
     
-    [How It Works](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060)
+    [Donate](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060#donate)
     
     Ways to Give
     
@@ -153,7 +153,7 @@
     
     Join us in a one-week challenge to log 40 minutes of activity per day - running! walking! biking! swimming! dancing! - in support of LGBTQ+ youth overcoming homelessness at Covenant House
     
-    [How It Works](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060)
+    [Donate](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060#donate)
     
     Ways to Give
     
