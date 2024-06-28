@@ -26,7 +26,7 @@ Resources
 
 [Subscribe](https://one.managedhealthcareexecutive.com/subscribe/)
 
-Choose Specialty
+Choose Topic
 
 [Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
 
@@ -164,7 +164,7 @@ Spotlight -
 
 [](https://www.managedhealthcareexecutive.com/search)
 
-Choose Specialty
+Choose Topic
 
 [Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
 
