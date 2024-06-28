@@ -16,7 +16,7 @@ We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](h
     
 * [About](https://www.interfolio.com/about)About
     
-* [Support center](https://www.interfolio.com/support)Support
+* [Customer support](https://www.interfolio.com/support)Support
     
 
 [Publish with us](https://www.interfolio.com/researcher/author/publish-with-us)
@@ -90,7 +90,7 @@ About our privacy policy
 
 This privacy policy applies to our websites, apps and other services, including programs and events, that refer or link to this privacy policy (each, a “Service”). This policy may be supplemented by additional privacy statements, terms or notices provided to you or by the Service. The Elsevier company that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service.
 
-For information about the handling of personal information contained in our Service content, please read our [processing notices.](https://www.interfolio.com/legal/processing-notices) For information about our processing of personal information as required by applicable U.S. laws, see our [U.S. Consumer Privacy Notice](https://www.interfolio.com/legal/us-consumer-privacy-notice)
+For information about the handling of personal information contained in our Service content, please read our [processing notices.](https://www.interfolio.com/legal/processing-notices) For information about our processing of personal information as required by applicable U.S. laws, see our [U.S. Consumer Privacy Notice](https://www.interfolio.com/legal/us-consumer-privacy-notice).
 
 Information we collect
 ----------------------
