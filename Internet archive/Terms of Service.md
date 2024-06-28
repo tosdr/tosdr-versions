@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent)
 
-We will keep fighting for all libraries - [stand with us!](https://blog.archive.org/2023/03/25/the-fight-continues/)
+We’re fighting to restore access to 500,000+ books in court this week. [Join us!](https://blog.archive.org/2024/06/26/were-fighting-for-library-rights-in-court-this-friday-join-us/)
 
  
 
@@ -284,6 +284,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=626851265)
+![](//analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=166550413)
 
-![](//analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=2133626649)
+![](//analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1001497895)
