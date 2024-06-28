@@ -1,6 +1,6 @@
 Loading...
 
-![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/town-v5.jpg)![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/homepage_legendary_contest.jpg)
+![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/homepage_path_event.jpg)
 
 [![](https://hh2.hh-content.com/design/ic_arrow-back.svg)](https://www.hentaiheroes.com/home.html)[![](https://hh2.hh-content.com/design/ic_legal.svg)
 
