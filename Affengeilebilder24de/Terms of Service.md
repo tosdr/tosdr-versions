@@ -693,7 +693,7 @@ Folge uns
 
 Partner
 
-[![](https://api.lionshome.de/seal/seal.png)](https://www.lionshome.de/) [![](https://affengeilebilder24.brands-unique.com/moebelde/siegel-de-m.png)](https://www.moebel.de/)
+[![partner lionshome](https://api.lionshome.de/seal/seal.png)](https://www.lionshome.de/) [![partner moebel.de](https://affengeilebilder24.brands-unique.com/moebelde/siegel-de-m.png)](https://www.moebel.de/)
 
  Sprache Deutsch
 
