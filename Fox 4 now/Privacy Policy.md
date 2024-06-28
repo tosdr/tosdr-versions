@@ -101,7 +101,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[BREAKING: LaBelle property where deputies got sick given the "all clear"](https://www.fox4now.com/labelle/urgent-people-sick-from-possible-haz-mat-in-labelle-homeland-security-responds)
+[LATEST: No sign of suspect in deadly shooting that evacuated Lee County park](https://www.fox4now.com/news/local-news/lee-county/deputies-on-scene-near-alico-road-exit-on-i-75)
 
 Privacy Policy
 ==============
