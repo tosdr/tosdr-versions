@@ -27,7 +27,7 @@ Update
 
 Check Out
 
-[FREE SHIPPING ON ORDERS OVER $100!](https://estesrockets.com/discount/FLASHSAVINGS?redirect=%2Fcollections%2Fsale-rockets)
+[D12 Engine Service Bulletin](https://estesrockets.com/pages/d12-engine-service-bulletin)
 
           
 
@@ -299,6 +299,8 @@ Unfortunately, we are unable to expedite shipping. Our Model Rocket Engines cont
     [FAQs](https://help.estesrockets.com/hc/en-us/categories/8439472379277-Estes-General)
     
     [Rocket Rewards](https://estesrockets.com/pages/rocket-rewards?_pos=1&_psq=rewards&_ss=e&_v=1.0)
+    
+    [Consumer Bulletin](https://estesrockets.com/pages/d12-engine-service-bulletin)
     
 * ### ESTES INDUSTRIES
     
