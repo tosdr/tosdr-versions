@@ -152,3 +152,13 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
+
+Last Chance!
+
+Our Fiscal Year ends Sunday.
+
+**Help close the gap before it’s too late.**
+
+[Make a year-end gift now.](https://freespeech.org/donate-all/)
+
+×
