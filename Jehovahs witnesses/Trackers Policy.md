@@ -96,9 +96,9 @@ SHOW MENU
 
 CLOSE
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/2208d1720a/images/siteLogo-jworg-print.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/ff2bd2cedc/images/siteLogo-jworg-print.png)
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/2208d1720a/images/siteLogo-jworg-print-rtl.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/ff2bd2cedc/images/siteLogo-jworg-print-rtl.png)
 
 [JW.ORG](https://www.jw.org/en/ "Go to the JW.ORG home page")
 
@@ -224,7 +224,7 @@ English
 
 Cookies and Similar Technologies Used by Several of Our Websites
 
-https://assetsnffrgf-a.akamaihd.net/assets/ct/2208d1720a/images/syn\_placeholder\_sqr.png
+https://assetsnffrgf-a.akamaihd.net/assets/ct/ff2bd2cedc/images/syn\_placeholder\_sqr.png
 
 ### Use of Personal Data
 
