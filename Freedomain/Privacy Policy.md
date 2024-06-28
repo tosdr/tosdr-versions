@@ -8,6 +8,7 @@
 * [Documentaries](https://freedomain.com/documentaries/)
 * [Blog](https://freedomain.com/blog/)
 * [Connect](https://freedomain.com/connect/)
+* [Books](https://freedomain.com/books/)
 * [Call In Requests](https://freedomain.com/call/)
 
 [![](https://freedomain.com/wp-content/uploads/2022/04/freedomain-logo.png)](https://freedomain.com/)
@@ -20,6 +21,7 @@
 * [Documentaries](https://freedomain.com/documentaries/)
 * [Blog](https://freedomain.com/blog/)
 * [Connect](https://freedomain.com/connect/)
+* [Books](https://freedomain.com/books/)
 * [Call In Requests](https://freedomain.com/call/)
 
 PRIVACY POLICY
