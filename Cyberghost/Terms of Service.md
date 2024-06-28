@@ -395,3 +395,14 @@ Defend your data like a goalkeeper:
 ![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
 
 ![](https://assets.cyberghostvpn.com/photos/cg/experiments/exit-intent/ei-cg-sport24-experiment.svg)
+
+×
+
+![](https://dev-assets-cms.cyberghostvpn.com/photos/cg/campaigns/ghostie-hello.svg)
+
+Do you use CyberGhost VPN for gaming?
+-------------------------------------
+
+Let us know what you are looking for in a good gaming VPN.
+
+[Take the Survey](https://cyberghostvpn.typeform.com/to/eBOeIPN5)
