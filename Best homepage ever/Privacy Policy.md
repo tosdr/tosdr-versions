@@ -17,11 +17,15 @@ Begin legal stuff here: This Privacy Policy governs the manner in which Best Hom
 
 ### Privacy Policy
 
-Last updated: November 6, 2023
+Last updated: June 24, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 I use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+
+### Microsoft Clarity
+
+"I partner with Microsoft Clarity to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine online activity. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement)."
 
 ### Interpretation and Definitions
 
