@@ -501,18 +501,6 @@ The following are trademarks for one or more DEWALT power tools, accessories, an
 * [DEWALT Patent Information](https://www.dewalt.com/legal/dewalt-patent-information)
 * [Shop Safe](https://www.dewalt.com/support/shop-safe)
 
-![zendesk icon](https://bynder.sbdinc.com/m/2bd9230c9c0d515e/original/DW_Zendesk_Duplo_Icon_circular_LFL1.png)
-
-![](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
-
-DEWALT® Support
-
-Hi there 👋Welcome to DeWalt! Stanley Black & Decker and its vendors use your communications here to provide technical support services and improve customer support. This chat uses an automated bot to respond. By continuing, you consent to the collection, use and sharing of the communications in this chat for the purposes mentioned above and as provided in our Privacy Policy.
-
-!['s avatar](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
-
-I agree to the terms above and want to proceed Please, choose an option no yes
-
 ### Notice
 
 You are now leaving our website and will be directed to an external website. Would you like to continue?
