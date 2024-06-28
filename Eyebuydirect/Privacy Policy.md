@@ -26,17 +26,17 @@
     
     [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
     
-    [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
+    [Designer Clearance](https://www.eyebuydirect.com/campaign/brands-promo "Designer Clearance")
     
     [![Grandpa Core](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Grandpa Core](https://img.ebdcdn.com/cms/Top_Nav_320_424_2a47d98da6.jpg?q=85&seo=grandpa-core)
     
-    Grandpa Core](https://www.eyebuydirect.com/collections/grandpa-core "Grandpa Core")[![Pride On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Grandpa Core](https://www.eyebuydirect.com/collections/grandpa-core "Grandpa Core")[![5 TO SEE®](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Pride On](https://img.ebdcdn.com/cms/Top_Nav_320_424_1f6285a91e.jpg?q=85&seo=pride-on)
+    ![5 TO SEE®](https://img.ebdcdn.com/cms/Top_Nav_320_424_7c616eb2c8.jpg?q=85&seo=5-to-see®)
     
-    Pride On](https://www.eyebuydirect.com/collections/pride-on "Pride On")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    5 TO SEE®](https://www.eyebuydirect.com/collections/5-to-see "5 TO SEE®")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Transitions® GEN S™](https://img.ebdcdn.com/cms/Top_Nav_320_424_73b18d42b5.jpg?q=85&seo=transitions®-gen-s™)
     
