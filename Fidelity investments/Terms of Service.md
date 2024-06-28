@@ -2,19 +2,19 @@
 
 [Site navigation](javascript:void(0))
 
-[Fidelity.com Home](https://www.fidelity.com/?bar=p)
+[Fidelity.com Home](https://www.fidelity.com/) [Fidelity.com Home](https://digital.fidelity.com/ftgw/digital/portfolio/summary)
 
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
 * [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
-* [Log In](https://digital.fidelity.com/prgw/digital/login/full-page?AuthRedUrl=digital.fidelity.com/ftgw/digital/portfolio/summary)
+* [Log In](https://digital.fidelity.com/prgw/digital/login/full-page)
 
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
 * [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
-* [Log Out](https://login.fidelity.com/ftgw/Fidelity/RtlCust/Logout/Init?AuthRedUrl=https://www.fidelity.com/customer-service/customer-logout)
+* [Log Out](https://digital.fidelity.com/prgw/digital/login/full-page?ccview=logout&AuthRedUrl=https://www.fidelity.com/customer-service/customer-logout)
 
 * [Accounts & Trade](#)
     
@@ -44,8 +44,6 @@
     * [Tax Forms & Information](https://www.fidelity.com/tax-information/overview)
     * [Retirement Distributions Log In Required](https://digital.fidelity.com/ftgw/digital/mrdhub)
     * [Fidelity Rewards+![registered trademark](https://www.fidelity.com/bin-public/060_www_fidelity_com/images/icon/registration-symbol.png) Log In Required](https://digital.fidelity.com/ftgw/digital/fidelityrewards/rewards/status)
-    * [Fidelity Rewards+![registered trademark](https://www.fidelity.com/bin-public/060_www_fidelity_com/images/icon/registration-symbol.png) Log In Required](https://digital.fidelity.com/ftgw/digital/fidelityrewards/rewards/eligibility)
-    * [New Account Checklist Log In Required](https://digital.fidelity.com/ftgw/digital/new-account-tasks/tasks)
     * [Lending Solutions![-](https://www.fidelity.com/bin-public/060_www_fidelity_com/images/icon/em-dash-for-global-nav.png)Line of Credit Log In Required](https://digital.fidelity.com/ftgw/digital/cbl/ls)
     * [Refer a Friend](https://www.fidelity.com/customer-service/friendsandfamily3a)
     
@@ -63,7 +61,7 @@
     * [Life Events](https://myguidance.fidelity.com/ftgw/pna/public/lifeevents/content/overview)
     * [Saving & Investing for a Child](https://www.fidelity.com/building-savings/child-saving-and-investing)
     * [Charitable Giving](https://www.fidelity.com/building-savings/charity-and-philanthropy)
-    * [Life Insurance & Long Term Care Planning](https://www.fidelity.com/life-insurance/overview)
+    * [Long-Term Care Planning](https://www.fidelity.com/life-insurance/long-term-care/overview)
     
 * [News & Research](#)
     
@@ -120,13 +118,13 @@
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
 * [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
-* [Log In](https://digital.fidelity.com/prgw/digital/login/full-page?AuthRedUrl=digital.fidelity.com/ftgw/digital/portfolio/summary)
+* [Log In](https://digital.fidelity.com/prgw/digital/login/full-page)
 
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
 * [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
-* [Log Out](https://login.fidelity.com/ftgw/Fidelity/RtlCust/Logout/Init?AuthRedUrl=https://www.fidelity.com/customer-service/customer-logout)
+* [Log Out](https://digital.fidelity.com/prgw/digital/login/full-page?ccview=logout&AuthRedUrl=https://www.fidelity.com/customer-service/customer-logout)
 
 * [**Home**](https://www.fidelity.com/)»
 
