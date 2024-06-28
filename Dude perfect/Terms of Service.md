@@ -2,7 +2,7 @@
 
   
 
-FREE shipping on USA orders of $99+
+FREE shipping on USA orders of $75+
 
     
 
