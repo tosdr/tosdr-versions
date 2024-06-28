@@ -1,4 +1,4 @@
-         
+          
 
 Terms of Use
 ============
@@ -298,6 +298,8 @@ Copyright © 1998-2024 Huawei Device Co., Ltd. All rights reserved.
 * [Legal](https://consumer.huawei.com/en/legal/ "Legal")
 
 [Global - English](https://consumer.huawei.com/en/worldwide/ "Global - English")[](https://consumer.huawei.com/en/worldwide/ "globe")
+
+ 
 
 Leaving consumer.huawei.com
 
