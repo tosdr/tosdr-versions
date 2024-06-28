@@ -280,8 +280,8 @@ Table of Contents Table of Contents Toggle navigation
     
     * [Homepage look and feel](javascript:void(0);)
         
-        * [Homepage Overview](https://www.knowledgeowl.com/help/homepage-overview)
-        * [Change the welcome text on my home page](https://www.knowledgeowl.com/help/change-the-welcome-text-on-my-home-page)
+        * [Homepage overview](https://www.knowledgeowl.com/help/homepage-overview)Updated
+        * [Change the homepage welcome text](https://www.knowledgeowl.com/help/change-the-welcome-text-on-my-home-page)Updated
         * [Add a background image to my homepage](https://www.knowledgeowl.com/help/add-homepage-background)
         * [Change the background image on my homepage](https://www.knowledgeowl.com/help/change-the-background-image-on-my-home-page)
         * [Remove the homepage welcome text](https://www.knowledgeowl.com/help/remove-home-page-title)
