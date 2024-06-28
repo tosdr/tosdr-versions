@@ -12,11 +12,9 @@ x icon
 
 Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenska繁體中文
 
-[Contact sales](https://asana.com/sales)
-
 [Log In](https://app.asana.com/-/login)
 
-[Get started](https://asana.com/create-account "Get started")
+[Contact sales](https://asana.com/sales "Contact sales")[Get started](https://asana.com/create-account "Get started")
 
 Featureschevron-down icon
 
