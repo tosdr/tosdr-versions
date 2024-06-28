@@ -1,3 +1,9 @@
+[×](#)
+
+### Independence Day
+
+All BankNorth locations will be closed on Thursday, July 4th. As always, our online and mobile banking services remain available 24/7 for your convenience.
+
 * [About Us](https://www.ibanknorth.com/about/)
 * [Banking](https://www.ibanknorth.com/banking/)
 * [Loans](https://www.ibanknorth.com/lending/)
