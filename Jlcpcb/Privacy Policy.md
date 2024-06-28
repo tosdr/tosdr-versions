@@ -3,11 +3,11 @@ This website requires JavaScript.
 Privacy Policy
 ==============
 
-[](https://jlcpcb.com/)
+[](https://jlcpcb.com/jp/)
 
-[Help Center](https://jlcpcb.com/help) [Q&A](https://jlcpcb.com/help/answers) [News](https://jlcpcb.com/help/news) [Blog](https://jlcpcb.com/blog) [Contact](https://jlcpcb.com/help/contact)
+[Help Center](https://jlcpcb.com/jp/help) [Q&A](https://jlcpcb.com/jp/help/answers) [News](https://jlcpcb.com/jp/help/news) [Blog](https://jlcpcb.com/jp/blog) [Contact](https://jlcpcb.com/jp/help/contact)
 
-[Order now](https://cart.jlcpcb.com/quote)
+[Order now](https://cart.jlcpcb.com/jp/quote)
 
 Sign in
 
@@ -346,32 +346,32 @@ We will review your requests as soon as possible and respond to you after verify
 Last updated on Mar 26, 2024
 
 * Company
-* [About JLCPCB](https://jlcpcb.com/aboutUs)
-* [News](https://jlcpcb.com/help/news)
-* [Blog](https://jlcpcb.com/blog)
-* [How we work](https://jlcpcb.com/aboutUs/howWorks)
-* [Quality Management](https://jlcpcb.com/aboutUs/qualityControl)
-* [Security](https://jlcpcb.com/aboutUs/security)
-* [Certifications](https://jlcpcb.com/help/article/26-Certifications)
+* [About JLCPCB](https://jlcpcb.com/jp/aboutUs)
+* [News](https://jlcpcb.com/jp/help/news)
+* [Blog](https://jlcpcb.com/jp/blog)
+* [How we work](https://jlcpcb.com/jp/aboutUs/howWorks)
+* [Quality Management](https://jlcpcb.com/jp/aboutUs/qualityControl)
+* [Security](https://jlcpcb.com/jp/aboutUs/security)
+* [Certifications](https://jlcpcb.com/jp/help/article/26-Certifications)
 
 * Support
-* [Help Center](https://jlcpcb.com/help)
-* [Shipping Info](https://jlcpcb.com/help/article/65-Shipping-Methods-and-Delivery-Time)
-* [How To Order](https://jlcpcb.com/help/catalog/11-How-To-Order)
-* [How To Track](https://jlcpcb.com/help/article/51-How-to-Track-My-Order)
-* [Contact Us](https://jlcpcb.com/help/contact)
-* [Support Team](https://jlcpcb.com/ourTeam)
+* [Help Center](https://jlcpcb.com/jp/help)
+* [Shipping Info](https://jlcpcb.com/jp/help/article/65-Shipping-Methods-and-Delivery-Time)
+* [How To Order](https://jlcpcb.com/jp/help/catalog/11-How-To-Order)
+* [How To Track](https://jlcpcb.com/jp/help/article/51-How-to-Track-My-Order)
+* [Contact Us](https://jlcpcb.com/jp/help/contact)
+* [Support Team](https://jlcpcb.com/jp/ourTeam)
 
 * Network Sites
 * [EasyEDA - PCB Design Tool](https://easyeda.com/)
-* [JLC3DP - 3D Printing&CNC Machining](https://jlc3dp.com/?source=jlcpcb-footer)
+* [JLC3DP - 3D Printing&CNC Machining](https://jlc3dp.com/jp/?source=jlcpcb-footer)
 * [JLCMC - Mechatronic Parts](https://jlcmc.com/?href=jlc-footer&source=jlc)
 * [OSHWLAB - Open Source Hardware](https://oshwlab.com/?source=jlcpcb-footer)
 
-[](https://jlcpcb.com/)
+[](https://jlcpcb.com/jp/)
 
 Connect with us
 
 [](https://www.facebook.com/jlcpcb)[](https://twitter.com/jlcpcb)[](https://www.instagram.com/jlcpcb)[](https://www.youtube.com/JLCPCB)[](https://www.linkedin.com/company/jlcpcb)[](https://www.reddit.com/r/JLCPCBLab/)
 
-© 2024 JLCPCB.COM All Rights Reserved. [Privacy Policy](https://jlcpcb.com/help/article/31-Privacy-Policy) [Terms & Conditions](https://jlcpcb.com/help/article/30-Terms-%26-Conditions)
+© 2024 JLCPCB.COM All Rights Reserved. [Privacy Policy](https://jlcpcb.com/jp/help/article/31-Privacy-Policy) [Terms & Conditions](https://jlcpcb.com/jp/help/article/30-Terms-%26-Conditions)
