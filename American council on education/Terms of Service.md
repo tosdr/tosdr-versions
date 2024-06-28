@@ -147,13 +147,13 @@ Contact Public Affairs
 
 Spotlight
 
-ACE Member Partnership Makes Transferring Seamless
+ACE MEMBER INITIATIVE INSPIRES ACTIVE CITIZENSHIP
 
-The transfer program ADVANCE at Northern Virginia Community College and George Mason University merges student support services for transfer students.
+Wesleyan University is making civic education a priority through an initiative called Democracy 2024, or D2024.
 
-[Read More](https://www.acenet.edu/News-Room/Pages/Member-Spotlight-NOVA-Mason-ADVANCE.aspx)
+[Read More](https://www.acenet.edu/News-Room/Pages/Member-Spotlight-Wesleyan-D2024.aspx)
 
-![Students wearing ADVANCE tshirts sit outside looking at reading material.](/PublishingImages/Photo-Library/ADVANCE%20students%20on%20bench.jpg?RenditionID=12)
+![Anand Giridharadas (left) with Wesleyan President Michael S. Roth at the Democracy in Action convening.](/PublishingImages/Photo-Library/1200x660-anand.jpg?RenditionID=12)
 
 [Joining ACE](https://www.acenet.edu/Membership-Advancement/Pages/Membership/Membership.aspx)
 
