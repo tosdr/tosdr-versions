@@ -1,4 +1,4 @@
-[79º](https://www.ksat.com/weather/)
+[95º](https://www.ksat.com/weather/)
 
 [](https://www.ksat.com/)
 
@@ -158,6 +158,10 @@ Search
 * [Entertainment](https://www.ksat.com/entertainment/)
 * [Features](https://www.ksat.com/features/)
 
+WEATHER ALERT
+
+[### A flood warning in effect for McMullen County](https://www.ksat.com/weather/alerts)
+
 #### [Station](https://www.ksat.com/station)
 
 * * *
@@ -181,30 +185,30 @@ Tags: [Station](https://www.ksat.com/topic/Station/)
 
 * * *
 
-[](https://www.ksat.com/news/local/2024/06/22/san-antonio-church-deemed-a-habitual-noise-violator-has-its-speakers-confiscated-by-city/)
+[](https://www.ksat.com/news/local/2024/06/28/man-acting-erratically-dies-in-sapd-custody/)
 
-[3 hours ago](https://www.ksat.com/news/local/2024/06/22/san-antonio-church-deemed-a-habitual-noise-violator-has-its-speakers-confiscated-by-city/)[### San Antonio church deemed a ‘habitual noise violator’ has its speakers confiscated by city](https://www.ksat.com/news/local/2024/06/22/san-antonio-church-deemed-a-habitual-noise-violator-has-its-speakers-confiscated-by-city/)
+[1 hour ago](https://www.ksat.com/news/local/2024/06/28/man-acting-erratically-dies-in-sapd-custody/)[### Man ‘acting erratically’ dies in SAPD custody](https://www.ksat.com/news/local/2024/06/28/man-acting-erratically-dies-in-sapd-custody/)
 
-[](https://www.ksat.com/news/local/2024/06/22/san-antonio-family-gathers-to-honor-life-of-man-killed-in-house-fire/)
+[](https://www.ksat.com/news/local/2024/06/28/mean-girls-the-musical-coming-to-the-majestic-theatre-this-fall/)
 
-[3 hours ago](https://www.ksat.com/news/local/2024/06/22/san-antonio-family-gathers-to-honor-life-of-man-killed-in-house-fire/)[### San Antonio family gathers to honor life of man killed in house fire](https://www.ksat.com/news/local/2024/06/22/san-antonio-family-gathers-to-honor-life-of-man-killed-in-house-fire/)
+[1 hour ago](https://www.ksat.com/news/local/2024/06/28/mean-girls-the-musical-coming-to-the-majestic-theatre-this-fall/)[### ‘Mean Girls: The Musical’ coming to the Majestic Theatre this fall](https://www.ksat.com/news/local/2024/06/28/mean-girls-the-musical-coming-to-the-majestic-theatre-this-fall/)
 
-[](https://www.ksat.com/weather/2024/06/21/deja-vu-in-the-gulf-a-rainfall-update-and-a-warmer-weekend-for-san-antonio/)
+[](https://www.ksat.com/news/local/2024/06/28/10-count-indictment-released-in-case-against-former-uvalde-school-district-chief/)
 
-[4 hours ago](https://www.ksat.com/weather/2024/06/21/deja-vu-in-the-gulf-a-rainfall-update-and-a-warmer-weekend-for-san-antonio/)[### Potential development in the Gulf](https://www.ksat.com/weather/2024/06/21/deja-vu-in-the-gulf-a-rainfall-update-and-a-warmer-weekend-for-san-antonio/)
+[2 hours ago](https://www.ksat.com/news/local/2024/06/28/10-count-indictment-released-in-case-against-former-uvalde-school-district-chief/)[### 10-count indictment released in case against former Uvalde school district police chief](https://www.ksat.com/news/local/2024/06/28/10-count-indictment-released-in-case-against-former-uvalde-school-district-chief/)
 
-[](https://www.ksat.com/news/local/2024/06/21/full-interview-san-antonio-mayoral-candidate-manny-pelaez-discusses-his-vision-for-san-antonio/)
+[](https://www.ksat.com/news/local/2024/06/28/district-9-to-host-military-city-usa-expo-this-weekend/)
 
-[7 hours ago](https://www.ksat.com/news/local/2024/06/21/full-interview-san-antonio-mayoral-candidate-manny-pelaez-discusses-his-vision-for-san-antonio/)[### FULL INTERVIEW: San Antonio mayoral candidate Manny Pelaez discusses his vision for San Antonio](https://www.ksat.com/news/local/2024/06/21/full-interview-san-antonio-mayoral-candidate-manny-pelaez-discusses-his-vision-for-san-antonio/)
+[5 hours ago](https://www.ksat.com/news/local/2024/06/28/district-9-to-host-military-city-usa-expo-this-weekend/)[### District 9 to host Military City USA Expo this weekend](https://www.ksat.com/news/local/2024/06/28/district-9-to-host-military-city-usa-expo-this-weekend/)
 
 [KSAT DEALS](https://www.ksat.com/deals)
 ----------------------------------------
 
 * * *
 
-[](https://www.ksat.com/deals/2024/06/12/these-must-have-insider-deal-household-items-are-at-unbeatable-prices/)
+[](https://www.ksat.com/deals/2024/06/25/snag-these-new-insider-deals-before-they-are-gone/)
 
-[### These must-have Insider Deal household items are at unbeatable prices!](https://www.ksat.com/deals/2024/06/12/these-must-have-insider-deal-household-items-are-at-unbeatable-prices/)
+[### Snag these new Insider Deals before they are gone](https://www.ksat.com/deals/2024/06/25/snag-these-new-insider-deals-before-they-are-gone/)
 
 #### [Station](https://www.ksat.com/station)
 
@@ -445,7 +449,7 @@ Cookie Preferences
 
 [![Omne Results Logo](https://www.ksat.com/static-resources/shared/images/omneLogo.svg)](https://omneresults.com/)
 
-If you need help with the Public File, call (210) 351-1241.
+If you need help with the Public File, call (210) 351-1251.
 
 At KSAT, we are committed to informing and delighting our audience. In our commitment to covering our communities with innovation and excellence, we incorporate Artificial Intelligence (AI) technologies to enhance our news gathering, reporting, and presentation processes. [Read our article](https://www.ksat.com/station/2024/04/18/how-we-are-using-ai-at-graham-media-group/) to see how we are using Artificial Intelligence.
 
