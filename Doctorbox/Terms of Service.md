@@ -280,7 +280,7 @@ Videosprechstunde Support
 
 [Tel.: +49 30 34045468](tel:+49 30 34045468)
 
-[pro@doctorbox.de](mailto:pro@doctorbox.de)
+[info@doctorbox.de](mailto:info@doctorbox.de)
 
 Mein Shop
 
