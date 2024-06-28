@@ -10,6 +10,8 @@
     
     [Studio DRM](https://www.jwplayer.com/studio-drm/)
     
+    [JWP for Freely](https://www.jwplayer.com/jwp-and-freely/)
+    
     [PLAYOUT](https://www.jwplayer.com/web-player/)
     
     [Web Player](https://www.jwplayer.com/web-player/)
@@ -52,9 +54,9 @@
     
 * [Advertisers](https://www.jwplayer.com/advertisers/)
     
-* [About](https://www.jwplayer.com/resources/#case-study)
+* [About](https://www.jwplayer.com/about-us/)
     
-    [RESULTS](https://dashboard.jwplayer.com/login)
+    [RESULTS](https://www.jwplayer.com/resources/#case-study)
     
     [Case Studies](https://www.jwplayer.com/resources/#case-study)
     
@@ -78,13 +80,13 @@
     
     [Careers](https://www.jwplayer.com/careers/)
     
-* [Login](https://www.jwplayer.com/pricing)
+* [Login](https://dashboard.jwplayer.com/)
     
     [JWP Dashboard](https://dashboard.jwplayer.com/login)
     
     [InPlayer Dashboard](https://dashboard.inplayer.com/login)
     
-* [Pricing](https://jwplayer.com/pricing)
+* [Pricing](https://www.jwplayer.com/pricing)
     
 
 [Contact Sales](https://jwplayer.com/contact-us/)
@@ -92,21 +94,26 @@
 * Products
     * [Live & VOD Streaming](https://www.jwplayer.com/live-vod-streaming)
     * [Studio DRM](https://www.jwplayer.com/studio-drm)
+    * [JWP on Freely](https://jwplayer.com/jwp-and-freely/)
     * [Web Player](https://www.jwplayer.com/web-player)
     * [OTT Apps](https://jwplayer.com/ott-video-apps/)
-    * [Subscriptions and Payments](https://jwplayer.com/subscriptions-and-payments/)
-    * [Web App](https://jwplayer.com/web-app/)
+    * [Mobile SDK](https://jwplayer.com/mobile-sdk/)
+    * [Recommendations](https://www.jwplayer.com/video-engagement/#recommendations)
+    * [Article Matching](https://www.jwplayer.com/video-engagement/#article-matching)
+    * [Analytics](https://www.jwplayer.com/video-engagement/#analytics)
+    * [Subscriptions and Payment](https://jwplayer.com/subscriptions-and-payments/)
+    * [Identity Management](https://www.jwplayer.com/subscriptions-and-payments/#identity-management)
+* Capabilities
+    * [Delivery](https://www.jwplayer.com/video-delivery/)
+    * [Playout](https://www.jwplayer.com/web-player/)
+    * [Engage](https://www.jwplayer.com/video-engagement/)
+    * [Monetization](https://www.jwplayer.com/video-monetization-2/)
 * Solutions
     * [Broadcasters](https://www.jwplayer.com/broadcasters)
     * [Publishers](https://www.jwplayer.com/publishers)
     * [Sports](https://www.jwplayer.com/sports)
     * [Faith](https://www.jwplayer.com/faith)
     * [Online Courses](https://www.jwplayer.com/online-courses)
-* Capabilities
-    * [Delivery](https://www.jwplayer.com/video-delivery/)
-    * [Playout](https://www.jwplayer.com/web-player/)
-    * [Engage](https://www.jwplayer.com/video-engagement/)
-    * [Monetization](https://www.jwplayer.com/video-monetization-2/)
 * Results
     * [Case Studies](https://www.jwplayer.com/resource_types/case-study/)
     * [TEI Publishers](https://www.jwplayer.com/tei-of-jw-player-for-publishers/)
