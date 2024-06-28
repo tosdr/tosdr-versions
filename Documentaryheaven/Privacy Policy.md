@@ -123,44 +123,44 @@ Advertisement
     The Struggle For Oil
     
     In April 2010, the drilling rig deepwater horizon blew up in the Gulf of Mexico, approximately 780 million liters of crude oil poured into the Gulf, unleashing the most severe ecological disaster in ...](https://documentaryheaven.com/struggle-for-oil/ "The Struggle For Oil")
-* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
+* [![Ball of Light](/wp-content/thumbnails/5709-100x70.jpg?x53432)
     
-    The Mary Bell Case
+    Ball of Light
     
-    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s...](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    This 15 minute documentary tells the story of Denis Smith, professional light painter. Two years ago, Denis was in a high pressure sales job, struggling with drink, debt and depression. His family lif...](https://documentaryheaven.com/ball-of-light/ "Ball of Light")
+* [![Britain’s Nuclear Secrets: Inside Sellafield](/wp-content/thumbnails/10044-100x70.jpg?x53432)
     
-    The new world order – Illuminati, Freemasons and other secret societies
+    Britain’s Nuclear Secrets: Inside Sellafield
     
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+    Lying on the remote north west coast of England is one of the most secret places in the country. 65 years ago it helped make Britain a world superpower and within it's is material that could devastate...](https://documentaryheaven.com/britains-nuclear-secrets-inside-sellafield/ "Britain’s Nuclear Secrets: Inside Sellafield")
 
 ###### Throwback Documentaries
 
-* [![The Terror of Zimbabwe Documentary](/wp-content/thumbnails/614-100x70.png?x53432)
+* [![Motivations](/wp-content/thumbnails/7015-100x70.jpg?x53432)
     
-    The Terror of Zimbabwe Documentary
+    Motivations
     
-    This documentary shows us stories about people like Tonderai Ndira was a shrewd choice for assassination: young, courageous and admired. Kill him and fear would pulse through a thousand spines. He was](https://documentaryheaven.com/the-terror-of-zimbabwe-documentary/ "The Terror of Zimbabwe Documentary")
-* [![Cashing In On Degrees](/wp-content/thumbnails/6345-100x70.jpg?x53432)
+    What happens when "normal" gets turned upside-down...and what obstacles must you face to get back? "Motivations" is a look inside the everyday struggles of my mother as she battles progressive Multi](https://documentaryheaven.com/motivations/ "Motivations")
+* [![Seattle is Dying](/wp-content/thumbnails/14530-100x70.jpg?x53432)
     
-    Cashing In On Degrees
+    Seattle is Dying
     
-    With students facing massive increases in their fees, Dispatches investigates the pay, perks and privileges enjoyed by universities’ top earners. Journalist Laurie Penny reveals the increasing commer](https://documentaryheaven.com/cashing-in-on-degrees/ "Cashing In On Degrees")
-* [![Tokyo Time](/wp-content/thumbnails/3742-100x70.jpg?x53432)
+    KOMO's Eric Johnson asks the question what if Seattle is dying and the citizens of the United States don't even know it? This is a story about a seething, simmering anger that is now boiling over into](https://documentaryheaven.com/seattle-is-dying/ "Seattle is Dying")
+* [![Nations At War: Pacific Raiders](/wp-content/thumbnails/16605-100x70.jpg?x53432)
     
-    Tokyo Time
+    Nations At War: Pacific Raiders
     
-    This is a short documentary about two college students on a journey through Japan. From the serene temples of Kyoto to the bloody Tsukiji fish market, Tokyo Time is an account of culture shock and per](https://documentaryheaven.com/tokyo-time/ "Tokyo Time")
-* [![Female Fighters of Kurdistan](/wp-content/thumbnails/7593-100x70.jpg?x53432)
+    1787, the Pacific Northwest has become a new frontier for international trade. Lured by the promise of riches American and European merchants were prepared to enter hostile waters, proud by a people](https://documentaryheaven.com/nations-at-war-pacific-raiders/ "Nations At War: Pacific Raiders")
+* [![Seven Ages Of Starlight](/wp-content/thumbnails/8006-100x70.jpg?x53432)
     
-    Female Fighters of Kurdistan
+    Seven Ages Of Starlight
     
-    From Boudica of the British Celts to Corporal Klinger, few things unsettle the male mind like a lady in arms. The Kurds of Northern Iraq have long recognized this principle and incorporated it into th](https://documentaryheaven.com/female-fighters-kurdistan/ "Female Fighters of Kurdistan")
-* [![Football Beasts](/wp-content/thumbnails/13931-100x70.jpg?x53432)
+    This is the epic story of the stars, and how discovering their tale has transformed our own understanding of the universe.Once we thought the sun and stars were gods and giants. Now we know, in a](https://documentaryheaven.com/seven-ages-of-starlight/ "Seven Ages Of Starlight")
+* [![Jesus Freaks](/wp-content/thumbnails/1175-100x70.jpg?x53432)
     
-    Football Beasts
+    Jesus Freaks
     
-    This is a tale of the age old hooliganism which has surrounded the sport of football for decades, these are the people who relish in the violence and formulate plans of attack weeks in advance of matc](https://documentaryheaven.com/football-beasts/ "Football Beasts")
+    This is Creationfest, a four-day Christian rock show-cum-revival held every summer in Eastern Washington where religion, politics, and music collide.It is here that thousands of eager young Christ](https://documentaryheaven.com/jesus-freaks/ "Jesus Freaks")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
