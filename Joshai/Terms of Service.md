@@ -1,4 +1,4 @@
-[](https://www.josh.ai/)
+Connect with a Josh Pro today. [Get Josh](https://www.josh.ai/get-josh/form)
 
 [](https://www.josh.ai/)
 
@@ -16,9 +16,29 @@ INTEGRATORS
 
 CONTACT
 
-[Get Josh](https://www.josh.ai/get-josh/) [Sales](https://www.josh.ai/contact/index.html#sales) [Press](https://www.josh.ai/contact/index.html#press) [Support](https://www.josh.ai/contact/index.html#support) [Jobs](https://www.josh.ai/jobs/)
+[Get Josh](https://www.josh.ai/get-josh) [Sales](https://www.josh.ai/contact/index.html#sales) [Press](https://www.josh.ai/contact/index.html#press) [Support](https://www.josh.ai/contact/index.html#support) [Jobs](https://www.josh.ai/jobs/)
 
 [LOG IN](https://portal.josh.ai/)
+
+[](https://www.josh.ai/)
+
+PRODUCTS
+
+[Josh Core](https://www.josh.ai/core/) [Josh One](https://www.josh.ai/one/) [Josh Micro](https://www.josh.ai/micro/) [Josh Nano](https://www.josh.ai/nano/) [Josh Remotes](https://www.josh.ai/remotes/) [Josh App](https://www.josh.ai/app/) [Josh Touchscreen](https://www.josh.ai/touchscreen/)
+
+ABOUT
+
+[Our Story](https://www.josh.ai/about/) [Team](https://www.josh.ai/team/) [Press](https://www.josh.ai/press/) [Patents](https://www.josh.ai/patents/) [Privacy](https://www.josh.ai/privacy/) [Josh Store](https://www.josh.ai/store/) [JoshGPT](https://www.josh.ai/joshgpt/)
+
+INTEGRATORS
+
+[Dealer Orders](https://portal.josh.ai/store) [Dealer Resources](https://portal.josh.ai/dealer/dashboard) [Works With](https://www.josh.ai/devices/) [Dealer Application](https://www.josh.ai/integrators/) [FAQs & Help](https://help.josh.ai/)
+
+CONTACT
+
+[Get Josh](https://www.josh.ai/get-josh) [Sales](https://www.josh.ai/contact/index.html#sales) [Press](https://www.josh.ai/contact/index.html#press) [Support](https://www.josh.ai/contact/index.html#support) [Jobs](https://www.josh.ai/jobs/)
+
+[LOG IN](https://portal.josh.ai/)[GET JOSH](https://www.josh.ai/get-josh/form)
 
 ### TERMS OF SERVICE
 
@@ -296,7 +316,7 @@ We use cookies to ensure that we give you the best experience on our website. Ou
 
 [About](https://www.josh.ai/about/)[Josh Micro](https://www.josh.ai/micro/)[Josh App](https://www.josh.ai/app/)[Devices](https://www.josh.ai/devices/)[Blog](https://joshdotai.medium.com/)
 
-[Press](https://www.josh.ai/press/)[Integrators](https://www.josh.ai/integrators/)[Get Josh](https://www.josh.ai/get-josh/)[FAQs](https://www.josh.ai/faq/)[Jobs](https://www.josh.ai/jobs/)
+[Press](https://www.josh.ai/press/)[Integrators](https://www.josh.ai/integrators/)[Get Josh](https://www.josh.ai/get-josh)[FAQs](https://www.josh.ai/faq/)[Jobs](https://www.josh.ai/jobs/)
 
 ![](https://d35408cyocioye.cloudfront.net/legacy/new2/getjosh/white_josh_outline_small.png)
 
