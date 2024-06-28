@@ -79,7 +79,7 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-5.60.30
+5.60.38
 
 * [About Us](https://www.byutv.org/about)
 * [Contact Us](https://www.byutv.org/contact)
