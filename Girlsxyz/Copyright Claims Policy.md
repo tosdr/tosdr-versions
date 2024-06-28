@@ -1,80 +1,80 @@
 [](https://girls.xyz/)
 
-2357 Connecté
+2859 Online
 
-[Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
+[Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
-[](https://en.girls.xyz/ "Anglais")[](https://fr.girls.xyz/ "Français")[](https://rt.girls.xyz/ "Russe")[](https://cz.girls.xyz/ "Tchèque")[](https://ee.girls.xyz/ "Estonien")[](https://lt.girls.xyz/ "Lituanien")[](https://bg.girls.xyz/ "Bulgare")[](https://lv.girls.xyz/ "Letton")[](https://pl.girls.xyz/ "Polonais")[](https://ua.girls.xyz/ "Ukrainien")[](https://fi.girls.xyz/ "Finlandais")[](https://rs.girls.xyz/ "Serbe")[](https://si.girls.xyz/ "Slovaque")[](https://dk.girls.xyz/ "Danois")[](https://no.girls.xyz/ "Norvégien")[](https://es.girls.xyz/ "Espagnol")[](https://se.girls.xyz/ "Suédois")[](https://gr.girls.xyz/ "Grecque")[](https://hu.girls.xyz/ "Hongrois")[](https://sk.girls.xyz/ "Slovaque")[](https://ro.girls.xyz/ "Roumain")[](https://pt.girls.xyz/ "Portugais")[](https://hr.girls.xyz/ "Croate")[](https://fr.girls.xyz/ "Français")[](https://it.girls.xyz/ "Italien")[](https://de.girls.xyz/ "Allemand")[](https://mk.girls.xyz/ "Macédonien")[](https://nl.girls.xyz/ "Hollandais")[](https://tr.girls.xyz/ "Turque")[](https://cn.girls.xyz/ "Chinois")[](https://kr.girls.xyz/ "Coréen")[](https://jp.girls.xyz/ "Japonais")[](https://in.girls.xyz/ "Hindi")[](https://pt.girls.xyz/ "Portugais")[](https://ar.girls.xyz/ "Arabe")[](https://il.girls.xyz/ "Hébreu")
+[](https://en.girls.xyz/ "English")[](https://fr.girls.xyz/ "French")[](https://rt.girls.xyz/ "Russian")[](https://cz.girls.xyz/ "Czech")[](https://ee.girls.xyz/ "Estonian")[](https://lt.girls.xyz/ "Lithuanian")[](https://bg.girls.xyz/ "Bulgarian")[](https://lv.girls.xyz/ "Latvian")[](https://pl.girls.xyz/ "Polish")[](https://ua.girls.xyz/ "Ukrainian")[](https://fi.girls.xyz/ "Finnish")[](https://rs.girls.xyz/ "Serbian")[](https://si.girls.xyz/ "Slovenian")[](https://dk.girls.xyz/ "Danish")[](https://no.girls.xyz/ "Norwegian")[](https://es.girls.xyz/ "Spanish")[](https://se.girls.xyz/ "Swedish")[](https://gr.girls.xyz/ "Greek")[](https://hu.girls.xyz/ "Hungarian")[](https://sk.girls.xyz/ "Slovakian")[](https://ro.girls.xyz/ "Romanian")[](https://pt.girls.xyz/ "Portuguese")[](https://hr.girls.xyz/ "Croatian")[](https://fr.girls.xyz/ "French")[](https://it.girls.xyz/ "Italian")[](https://de.girls.xyz/ "German")[](https://mk.girls.xyz/ "Macedonian")[](https://nl.girls.xyz/ "Dutch")[](https://tr.girls.xyz/ "Turkish")[](https://cn.girls.xyz/ "Chinese")[](https://kr.girls.xyz/ "Korean")[](https://jp.girls.xyz/ "Japanese")[](https://in.girls.xyz/ "Hindi")[](https://pt.girls.xyz/ "Portuguese")[](https://ar.girls.xyz/ "Arabic")[](https://il.girls.xyz/ "Hebrew")
 
-[Tous les modèles](https://girls.xyz/all-models)
+[All models](https://girls.xyz/all-models)
 
-Catégories
+Categories
 
-* [Anal (838 Live)](https://girls.xyz/anal)
-* [Arabe (12 Live)](https://girls.xyz/arabe)
-* [Asiatique (65 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (132 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (174 Live)](https://girls.xyz/blacks)
-* [Blanches (475 Live)](https://girls.xyz/blanches)
-* [Blondes (236 Live)](https://girls.xyz/blonde)
-* [Brunes (1060 Live)](https://girls.xyz/brune)
-* [Chattes poilues (142 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (988 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (1 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (561 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (631 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (905 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (309 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (1146 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (14 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (684 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (509 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (96 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (312 Live)](https://girls.xyz/grosses)
-* [Indienne (6 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (561 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (1162 Live)](https://girls.xyz/jouets)
-* [Latinas (767 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (7 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (629 Live)](https://girls.xyz/babes)
-* [Musclé (44 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (184 Live)](https://girls.xyz/petite)
-* [Petits seins (309 Live)](https://girls.xyz/petits-seins)
-* [Pornstar (7 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (203 Live)](https://girls.xyz/rousses)
-* [Seins moyens (585 Live)](https://girls.xyz/seins-moyens)
-* [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (390 Live)](https://girls.xyz/sm)
-* [Vieilles (17 Live)](https://girls.xyz/vieilles)
+* [Anal (1047 Live)](https://girls.xyz/anal)
+* [Arab (30 Live)](https://girls.xyz/arab)
+* [Asian (61 Live)](https://girls.xyz/asian)
+* [Babes (773 Live)](https://girls.xyz/babes)
+* [BBW (178 Live)](https://girls.xyz/bbw)
+* [Big Ass (857 Live)](https://girls.xyz/big-ass)
+* [Big Tits (645 Live)](https://girls.xyz/big-tits)
+* [Blonde (328 Live)](https://girls.xyz/blonde)
+* [Bondage (478 Live)](https://girls.xyz/bondage)
+* [Brunette (1300 Live)](https://girls.xyz/brunette)
+* [College Girls (673 Live)](https://girls.xyz/college-girls)
+* [Curvy (405 Live)](https://girls.xyz/curvy)
+* [Ebony (204 Live)](https://girls.xyz/ebony)
+* [Fetish (1412 Live)](https://girls.xyz/fetish)
+* [Granny (32 Live)](https://girls.xyz/granny)
+* [Group Sex (1 Live)](https://girls.xyz/group-sex)
+* [Hairy Pussy (202 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (785 Live)](https://girls.xyz/housewives)
+* [Huge Tits (133 Live)](https://girls.xyz/huge-tits)
+* [Indian (11 Live)](https://girls.xyz/indian)
+* [Latina (914 Live)](https://girls.xyz/latina)
+* [Lesbian (18 Live)](https://girls.xyz/lesbian)
+* [Mature (450 Live)](https://girls.xyz/mature)
+* [Medium Tits (790 Live)](https://girls.xyz/medium-tits)
+* [Muscle (55 Live)](https://girls.xyz/muscle)
+* [Petite (198 Live)](https://girls.xyz/petite)
+* [Pornstar (11 Live)](https://girls.xyz/pornstar)
+* [Pregnant (4 Live)](https://girls.xyz/pregnant)
+* [Redhead (266 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1228 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (324 Live)](https://girls.xyz/small-tits)
+* [Smoking (19 Live)](https://girls.xyz/smoking)
+* [Squirt (1171 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (673 Live)](https://girls.xyz/teens-18)
+* [Toys (1484 Live)](https://girls.xyz/toys)
+* [White Girls (674 Live)](https://girls.xyz/white-girls)
 
-Historique
+History
 
-[Toutes les promotions](https://girls.xyz/free-tokens) [Concours](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
+[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
 
-Politique sur les droits d’auteur et la propriété intellectuelle
-================================================================
+Copyright and Intellectual Property Policy
+==========================================
 
-### Plainte du DMCA
+### DMCA complaint
 
-Remplir cette page correctement permettra à votre avis de retrait d’être conforme avec le Digital Millenium Copyright Act afin que nous le prenions en compte rapidement. Veuillez noter que les informations contenues dans cet avis légal seront transmises à la personne ayant fourni le contenu prétendument contrevenant.
+Filling this page correctly will make your take-down notice complaint with the Digital Millenium Copyright Act and allow us to address it expeditiously. Note that the information provided in this legal notice will be forwarded to the person who provided the allegedly infringing content.
 
-Plainte du DMCA
----------------
+DMCA complaint
+--------------
 
-\*URL(s) en violation
+\*Infringing URL(s)
 
-Effacer ajouter plus
+add more
 
-\*Adresse mail
+\*Email address
 
-\*Plus d’information
+\*More information
 
-Prouvez que vous êtes humain :
+Prove you are human:
 
-Envoyer
+Send
 
-Politique sur les droits d’auteur et la propriété intellectuelle
-----------------------------------------------------------------
+Copyright and Intellectual Property Policy
+------------------------------------------
 
 We respect the intellectual property rights of others, and we ask our business partners to do the same. Material available on our website or through other websites may be protected by copyright and the intellectual property laws of the European Union and/or other countries (including United States). It is our policy, in appropriate circumstances and at our discretion, to remove infringing material and disable and/or terminate the accounts of users who may infringe or repeatedly infringe the copyrights or other intellectual property rights of our company and/or others.
 
@@ -83,20 +83,20 @@ Digital Millennium Copyright Act
 
 If you are a copyright owner or an agent thereof and believe that any content on our website infringes upon your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA").
 
-La plainte du DMCA doit contenir les informations suivantes (voir 17 U.S.C 512(c)(3)) pour plus de détails):
+DMCA Complain should contain the following information (see 17 U.S.C 512(c)(3)) for further detail):
 
-1. Une signature physique ou électronique du propriétaire du droit d’auteur ou d’une personne autorisée à agir en son nom;
-2. Une identification de l’œuvre protégée par des droits d’auteurs qui a invoqué la violation;
-3. Une description de la nature et de l’emplacement exact du contenu que vous revendiquez comme violant votre droit d’auteur, avec assez de détails pour que nous puissions trouver et identifier ce contenu. Par exemple, nous avons besoin d’un lien d’un message spécifique avec le contenu et une description indiquant quelle partie du message – une image, un lien, du texte, etc.;
-4. Votre nom, adresse, numéro de téléphone et adresse email;
-5. Une déclaration indiquant que vous pensez de bonne foi que l’utilisation du contenu de la manière alléguée n’est pas autorisée par le propriétaire du droit d’auteur, son agent ou la loi; et
-6. Une déclaration indiquant que les informations contenues dans l’avis sont correctes et, sous peine de parjure, que vous êtes autorisé à agir au nom du propriétaire d’un droit exclusif qui a été prétendument violé.
+1. A physical or electronic signature of the copyright owner or a person authorized to act on their behalf;
+2. An identification of the copyrighted work claimed to have been infringed;
+3. A description of the nature and exact location of the material that you claim to infringe your copyright, in sufficient detail to find and positively identify that material. For example, we require a link to the specific post that contains the material and a description of which specific portion of the post – an image, a link, the text, etc. your complaint refers to;
+4. Your name, address, telephone number and email address;
+5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+6. A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Your written Notification of Claimed Infringement must be sent to our Designated Copyright Agent at the email address listed below. We will review and address all notices that substantially comply with the requirements identified above. If your notice fails to substantially comply with all of these requirements, we may not be able respond to your notice.
 
 The Designated Copyright Agent's email address is [dmca@webcamsupport.net](mailto:dmca@webcamsupport.net)
 
-Langues Disponibles
+Supported Languages
 
 * [English](https://en.girls.xyz/)
 * [Русский](https://rt.girls.xyz/)
@@ -133,37 +133,37 @@ Langues Disponibles
 * [العربية](https://ar.girls.xyz/)
 * [עברית](https://il.girls.xyz/)
 
-Assistance
+Support
 
 * [FAQ](https://girls.xyz/user-faq)
-* [Service d'Assistance](https://girls.xyz/contact-support)
-* [Service de conciergerie](https://girls.xyz/concierge-service)
-* [Politique de Confidentialité](https://girls.xyz/privacy)
-* [Termes et Conditions d'Utilisation](https://girls.xyz/terms)
-* [Politique sur les droits d’auteur et la propriété intellectuelle](https://girls.xyz/dmca)
-* [Loi européenne sur les services numériques](https://girls.xyz/digital-services)
-* [Guide de contrôle parental](https://girls.xyz/parental-control-guidance)
+* [Contact Support](https://girls.xyz/contact-support)
+* [Concierge Service](https://girls.xyz/concierge-service)
+* [Privacy Policy](https://girls.xyz/privacy)
+* [Terms & Conditions](https://girls.xyz/terms)
+* [Copyright and Intellectual Property Policy](https://girls.xyz/dmca)
+* [EU Digital Services Act](https://girls.xyz/digital-services)
+* [Parental Control Guidance](https://girls.xyz/parental-control-guidance)
 *   
     
-* [Avis des utilisateurs](https://girls.xyz/reviews)
+* [Reviews](https://girls.xyz/reviews)
 * [Complaints & Content Removal](https://girls.xyz/content-removal)
 
-Concours / Argent
+Contest / Money
 
-* [Top 100 de la Semaine](https://girls.xyz/contest/queen-of-queens)
-* [Toutes les promotions](https://girls.xyz/free-tokens)
-* [Inscription Partenaire](https://fr.bongacash.com/ref?c=696088)
+* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens)
+* [All Promotions](https://girls.xyz/free-tokens)
+* [Affiliate Sign up](https://en.bongacash.com/ref?c=696088)
 
-[Visiter](https://girls.xyz/user-faq)
+[Take a tour](https://girls.xyz/user-faq)
 
-Réseaux sociaux
+Social Networks
 
 [Twitter](https://twitter.com/BongacamsM "Twitter") [Instagram](https://www.instagram.com/media.bongacams "Instagram") [Blog](https://blog.bongacams.com/en "Blog") [Telegram](https://t.me/bongacamsofficial "Telegram")
 
-Disponible sur smartphones
+Smartphone compatible
 
-Avertissement: tous les membres et personnes qui apparaissent sur ce site, se sont déclarés comme ayant 18 ans ou plus.
+Disclaimer: All members and persons appearing on this site have contractually represented to us that they are 18 years of age or older.
 
-[Déclaration de Conformité aux Conditions de Tenue d'Archives 18 U.S.C. 2257](https://girls.xyz/2257)
+[18 U.S.C. 2257 Record Keeping Requirements Compliance Statement](https://girls.xyz/2257)
 
-© Tous droits réservés. 2024 [www.girls.xyz](https://girls.xyz/)    Visitez aussi [EPOCH](https://www.epoch.com/) et [SEGPAY](https://www.segpay.com/), nos agents commerciaux agréés. This site is Managed & Operated by ![Adresse 13](//i.wlicdn.com/images/replace/10/arial/999/bnct_v2.svg) ![Adresse 16](//i.wlicdn.com/images/replace/10/arial/999/bnct_add1_v2.svg) ![Adresse 19](//i.wlicdn.com/images/replace/10/arial/999/bnct_add2.svg)
+© All Rights Reserved. 2024 [www.girls.xyz](https://girls.xyz/)    Please visit [EPOCH](https://www.epoch.com/) and [SEGPAY](https://www.segpay.com/), our authorized sales agents. This site is Managed & Operated by ![Address 13](//i.wlicdn.com/images/replace/10/arial/999/bnct_v2.svg) ![Address 16](//i.wlicdn.com/images/replace/10/arial/999/bnct_add1_v2.svg) ![Address 19](//i.wlicdn.com/images/replace/10/arial/999/bnct_add2.svg)
