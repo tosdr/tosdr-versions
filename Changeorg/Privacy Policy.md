@@ -27,18 +27,18 @@ Change.org’s mission is to empower people everywhere to create the change they
 
 Table of contents
 
-1. [Data Controller and Regional/National Representatives](https://www.change.org/policies/privacy#1)
-2. [Information we collect](https://www.change.org/policies/privacy#2)
-3. [How we use your information](https://www.change.org/policies/privacy#3)
-4. [Who may receive your information](https://www.change.org/policies/privacy#4)
-5. [Your privacy choices](https://www.change.org/policies/privacy#5)
-6. [Data retention and security](https://www.change.org/policies/privacy#6)
+1. [Data Controller and Regional/National Representatives](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#1)
+2. [Information we collect](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#2)
+3. [How we use your information](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#3)
+4. [Who may receive your information](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#4)
+5. [Your privacy choices](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#5)
+6. [Data retention and security](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#6)
 
-7. [Cross-border transfers](https://www.change.org/policies/privacy#7)
-8. [Links to other websites](https://www.change.org/policies/privacy#8)
-9. [California Consumer Privacy Act (CCPA)](https://www.change.org/policies/privacy#9)
-10. [CARU COPPA Safe Harbor Program (“CARU COPPA Safe Harbor”)](https://www.change.org/policies/privacy#10)
-11. [Policy updates and contacting us](https://www.change.org/policies/privacy#11)
+7. [Cross-border transfers](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#7)
+8. [Links to other websites](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#8)
+9. [California Consumer Privacy Act (CCPA)](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#9)
+10. [CARU COPPA Safe Harbor Program (“CARU COPPA Safe Harbor”)](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#10)
+11. [Policy updates and contacting us](https://www.change.org/policies/privacy?cs_tk=&utm_campaign=1704b4b8e8804d13bcd04bf97caf875f&utm_content=initial_v0_1_0&utm_medium=email&utm_source=petition_signer_confirmation_reminder_2&utm_term=cs#11)
 
 ### 1\. Data Controller and Regional/National Representatives
 
