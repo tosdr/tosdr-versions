@@ -216,21 +216,6 @@
         * [Mensuration](https://www.geeksforgeeks.org/mensuration/?ref=outind)
         * [Logarithms](https://www.geeksforgeeks.org/logarithms/?ref=outind)
         * [Calculus](https://www.geeksforgeeks.org/math-calculus/?ref=outind)
-    * Commerce
-        * [Business Studies](https://www.geeksforgeeks.org/business-studies/?ref=outind)
-        * [Accountancy](https://www.geeksforgeeks.org/accountancy/?ref=outind)
-        * [Microeconomics](https://www.geeksforgeeks.org/microeconomics/?ref=outind)
-        * [Statistics for Economics](https://www.geeksforgeeks.org/statistics-for-economics/?ref=outind)
-        * [Macroeconomics](https://www.geeksforgeeks.org/macroeconomics/?ref=outind)
-        * [Human Resource Management (HRM)](https://www.geeksforgeeks.org/human-resource-management-hrm/?ref=outind)
-        * [Management](https://www.geeksforgeeks.org/management/?ref=outind)
-        * [Finance](https://www.geeksforgeeks.org/finance/?ref=outind)
-        * [Commerce Complete Guide](https://www.geeksforgeeks.org/commerce/?ref=outind)
-    * Aptitude
-        * [Aptitude Question and Answers](https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=outind)
-        * [Quantitative Aptitude](https://www.geeksforgeeks.org/quantitative-aptitude/?ref=outind)
-        * [Logical Reasoning](https://www.geeksforgeeks.org/logical-reasoning/?ref=outind)
-        * [Verbal Ability](https://www.geeksforgeeks.org/verbal-ability/?ref=outind)
 * DSA
     * Data Structures
         * [Arrays](https://www.geeksforgeeks.org/complete-guide-to-arrays-data-structure/?ref=outind)
@@ -334,8 +319,7 @@
         * [FAANG Coding Sheet](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=outind)
         * [Product-Based Coding Sheet](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=outind)
         * [Company-Wise Preparation Sheet](https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=outind)
-    * Top Interview Questions
-        * [Top 100 DSA Interview Questions Topic-wise](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outind)
+    * [Top Interview Questions](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outind)
     * Puzzles
         * [All Puzzles](https://www.geeksforgeeks.org/puzzles/?ref=outind)
         * [Top 100 Puzzles Asked In Interviews](https://www.geeksforgeeks.org/top-100-puzzles-asked-in-interviews/?ref=outind)
@@ -388,7 +372,6 @@
         * [Angular Cheat Sheet](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/?ref=outind)
         * [jQuery Cheat Sheet](https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/?ref=outind)
         * [Bootstrap Cheat Sheet](https://www.geeksforgeeks.org/bootstrap-cheatsheet-a-basic-guide-to-bootstrap/?ref=outind)
-    * [JavaScript Projects](https://www.geeksforgeeks.org/top-javascript-projects/?ref=outind)
     * [Learn Complete Web Development](https://www.geeksforgeeks.org/web-development/?ref=outind)
 * Courses
     * [Coding for Everyone](https://www.geeksforgeeks.org/courses/coding-for-everyone?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
@@ -1038,7 +1021,6 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * Company
 * [About Us](https://www.geeksforgeeks.org/about/?ref=outindfooter)
 * [Legal](https://www.geeksforgeeks.org/legal/?ref=outindfooter)
-* [Careers](https://geeksforgeeks.zohorecruit.in/careers?ref=outindfooter)
 * [In Media](https://www.geeksforgeeks.org/press-release/?ref=outindfooter)
 * [Contact Us](https://www.geeksforgeeks.org/about/contact-us/?ref=outindfooter)
 * [Advertise with us](https://www.geeksforgeeks.org/advertise-with-us/?ref=outindfooter)
