@@ -6,7 +6,7 @@ Search
 
 [Need Help](https://www.feedingamerica.org/need-help-find-food)
 
-Sign UpSign up for our Newsletter
+Sign up
 
 * [Donate](https://give.feedingamerica.org/a/donate)
     * [Give Today](https://give.feedingamerica.org/a/donate)
@@ -24,7 +24,7 @@ Search
     * [Give Monthly](https://give.feedingamerica.org/a/donate-monthly)
     * [Give in Honor](https://give.feedingamerica.org/a/donate-in-honor "Give in Honor")
 
-Toggle navigation
+Menu toggle
 
 * [Hunger  
     in America](https://www.feedingamerica.org/hunger-in-america)
@@ -97,6 +97,7 @@ Sidebar
         * [Entertainment Council](https://www.feedingamerica.org/partners/entertainment-council "Entertainment Council")
         * [Current Promotions](https://www.feedingamerica.org/partners/current-promotions "Current Promotions")
         * [Disaster Partners](https://www.feedingamerica.org/partners/disaster-relief-partners "Disaster Partners")
+        * [COVID-19 Response Partners](https://www.feedingamerica.org/partners/covid-19-response-partners "COVID-19 Response Partners")
     * [Leadership](https://www.feedingamerica.org/about-us/leadership "Our Leadership")
     * [History](https://www.feedingamerica.org/about-us/our-history "Our History")
     * [Annual Report](https://www.feedingamerica.org/about-us/financials "Annual Report")
