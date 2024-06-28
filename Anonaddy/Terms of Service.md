@@ -105,7 +105,7 @@ Questions, comments and requests regarding these terms of service are welcomed a
 
 Company
 
-[Privacy](https://anonaddy.com/privacy/ "Privacy") [Terms](https://anonaddy.com/terms/ "Terms") [Brand](https://anonaddy.com/brand/ "Brand") [Roadmap](https://github.com/anonaddy/anonaddy/projects/1 "Roadmap") [Status](https://status.addy.io/ "Status")
+[Privacy](https://anonaddy.com/privacy/ "Privacy") [Terms](https://anonaddy.com/terms/ "Terms") [Brand](https://anonaddy.com/brand/ "Brand") [Roadmap](https://github.com/orgs/anonaddy/projects/1/views/1 "Roadmap") [Status](https://status.addy.io/ "Status")
 
 Development
 
