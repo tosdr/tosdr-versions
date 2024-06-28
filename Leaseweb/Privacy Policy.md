@@ -1,6 +1,6 @@
 Skip to Header Skip to Main Content Skip to Footer
 
-[Due to a system upgrade, new orders at our US and Canada locations may be delayed. You can contact us here.](https://www.leaseweb.com/en/contact)
+[Our sizzling summer sale has started! Buy now](https://www.leaseweb.com/en/c/summer-sale-2024?utm_source=website&amp;utm_medium=ribbon&amp;utm_campaign=Summer_Sale&amp;utm_content=Global%22)
 
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
@@ -52,9 +52,9 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [Cloud Products](https://www.leaseweb.com/en/products-services/cloud "Cloud Products")
     
-    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
-    
     [Virtual Private Server](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server "Virtual Private Server")
+    
+    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
     
     [Elastic Compute](https://www.leaseweb.com/en/products-services/cloud/elastic-compute "Elastic Compute")
     
@@ -310,9 +310,9 @@ Language
     
     [Cloud Products](https://www.leaseweb.com/en/products-services/cloud "Cloud Products")
     
-    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
-    
     [Virtual Private Server](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server "Virtual Private Server")
+    
+    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
     
     [Elastic Compute](https://www.leaseweb.com/en/products-services/cloud/elastic-compute "Elastic Compute")
     
@@ -580,7 +580,8 @@ The Service Level Agreement set forth the performance metrics such as service le
 [Policies](https://nl.object-storage.io/leaseweb-download/legal-security/LSW_DE_B2B_Sales_Contract_Schedule_v1April2024_Leaseweb_Policies.pdf)  
 [Services Specifications](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_DE_B2B_Sales_Contract_Schedule_v1March2024_Services_Specifications.pdf)  
 [Service Level Agreement](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_DE_B2B_Sales_Contract_Schedule_v1March2024_Service%20Level%20Agreement.pdf)  
-[Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_DE_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
+[Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_DE_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)  
+[Data Processor Agreement](https://nl.object-storage.io/legal-files/june-2024/LSW_DE_B2B_v2024.1_Data-processor-Agreement_LSW-as-Processor.pdf)
 
 ![a high tower in United Kingdom](https://shop-api.leaseweb.com/medias/UnitedKingdom.png?context=bWFzdGVyfHJvb3R8NTY5OTR8aW1hZ2UvcG5nfGFERTRMMmd6TXk4NE56azROemMyTXpZd09Ua3dMMVZ1YVhSbFpFdHBibWRrYjIwdWNHNW58Y2U4NTU2OTZlNWI0NzZjN2ZiNjkxOWZjMTFmYTA2MWUzNzc2OWQzODQyYmNjNGUwYTUzYjY2MzQ1ODkzM2MwZQ)
 
@@ -632,7 +633,7 @@ The Service Level Agreement set forth the performance metrics such as service le
 [Service Level Agreement](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/LSW_JP_B2B_Sales_Contract_Schedule_v1March2024_Service%20Level%20Agreement.pdf)  
 [Reseller Terms and Conditions](https://nl.object-storage.io/leaseweb-download/legal-security/sales-contracts-update/Reseller-Terms/LSW_JP_B2B_1March_2024_Reseller_Terms_and_Conditions.pdf)
 
-![UnitedStates.png](https://shop-api.leaseweb.com/medias/UnitedStates.png?context=bWFzdGVyfHJvb3R8NjEwNjd8aW1hZ2UvcG5nfGFEazFMMmd6WkM4NE56azROemMyTmpnNE5qY3dMMVZ1YVhSbFpGTjBZWFJsY3k1d2JtY3wxZGM0ZWIzOWQ2MmFiN2M4Y2Q2ZTA5NDNkYWJlMWU5N2E3MzQwZDQyMTAwNjZjZWYwNjlhODhlZDMyY2NiNzA0)
+![Leaseweb-US-Legal-image.png](https://shop-api.leaseweb.com/medias/Leaseweb-US-Legal-image.png?context=bWFzdGVyfGltYWdlc3wxMDg0NzB8aW1hZ2UvcG5nfGFHWTBMMmhoTkM4NU1ERTVNRFExT0RjeE5qUTJMMHhsWVhObGQyVmlMVlZUTFV4bFoyRnNMV2x0WVdkbExuQnVad3xhNjhkYWZlMThmZThjYTZmYzY1YjJmZjI1YTY3OTExMTNjNzcxZjViOTY1NGJhNzI0NzJlMzkzMmMyODc5ZDc4)
 
 ### Leaseweb USA, Inc. - United States
 
