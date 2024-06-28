@@ -217,8 +217,6 @@ Are you ready to start facing your fear and living your bucket list?
 
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
 
-![Annette White the Owner of Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='300'%20viewBox='0%200%20240%20300'%3E%3C/svg%3E "Bucket List Template Annette")
-
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Bucket-List-Template-Annette-240x300.jpg "Bucket List Template Annette")
 
 ###### **Hey Bucket Listers!**  
