@@ -12,7 +12,7 @@ Sharing
 Allgemeine Nutzungsbedingungen für Kleinanzeigen
 ------------------------------------------------
 
-### **Diese Nutzungsbedingungen gelten ab dem 17. Februar 2024. Die bis zum 16. Februar 2024 geltenden Nutzungsbedingungen finden Sie [hier](https://themen.ebay-kleinanzeigen.de/nutzungsbedingungen_alt/).**
+### **Diese Nutzungsbedingungen gelten ab dem 17. Februar 2024. Die bis zum 16. Februar 2024 geltenden Nutzungsbedingungen finden Sie [hier](https://themen.kleinanzeigen.de/nutzungsbedingungen_alt/).**
 
 Die kleinanzeigen.de GmbH, Albert-Einstein-Ring 26, 14532 Kleinmachnow, betreibt unter der Bezeichnung „Kleinanzeigen“ eine deutschsprachige Website sowie weitere Dienste, lokale und mobile Anwendungen, Services und Tools (im Folgenden zusammen „Kleinanzeigen-Dienste“).
 
