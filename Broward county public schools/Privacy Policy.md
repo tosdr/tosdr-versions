@@ -46,7 +46,7 @@ Select a School
 * [Coral Cove Elementary](https://www.browardschools.com/Domain/65)
 * [Coral Glades High](https://www.browardschools.com/Domain/201)
 * [Coral Park Elementary](https://www.browardschools.com/Domain/66)
-* [Coral Springs High](https://www.browardschools.com/Domain/28)
+* [Coral Springs High School](https://www.browardschools.com/Domain/28)
 * [Coral Springs Middle](https://www.browardschools.com/Domain/165)
 * [Coral Springs Elementary](https://www.browardschools.com/Domain/67)
 * [Country Hills Elementary](https://www.browardschools.com/Domain/68)
