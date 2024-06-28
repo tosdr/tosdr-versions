@@ -45,18 +45,25 @@ Toggle navigation
     
 * Solutions
     
-    For
+    By size
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
-    * [Education](https://education.github.com/)
     
-    By Solution
+    By industry
+    
+    * [Healthcare](https://github.com/solutions/industries/healthcare)
+    * [Financial services](https://github.com/solutions/industries/financial-services)
+    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
+    
+    By use case
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
+    
+* Resources
     
     Resources
     
@@ -144,8 +151,8 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [M66B](https://github.com/M66B) / **[FairEmail](https://github.com/M66B/FairEmail)** Public
 
 * [Notifications](https://github.com/login?return_to=%2FM66B%2FFairEmail) You must be signed in to change notification settings
-* [Fork 634](https://github.com/login?return_to=%2FM66B%2FFairEmail)
-* [Star 2.8k](https://github.com/login?return_to=%2FM66B%2FFairEmail)
+* [Fork 636](https://github.com/login?return_to=%2FM66B%2FFairEmail)
+* [Star 2.9k](https://github.com/login?return_to=%2FM66B%2FFairEmail)
     
 
 * [Code](https://github.com/M66B/FairEmail)
