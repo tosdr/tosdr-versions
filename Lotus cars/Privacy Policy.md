@@ -1,6 +1,6 @@
 You need to enable JavaScript to run this app.
 
-[](https://www.lotuscars.com/login?redirect_url=%2Fmy-lotus)
+  [![](/sitecore/media library/Project/Portal Site/Icons/Others/Log in)  My Lotus](https://www.lotuscars.com/login?redirect_url=%2Fmy-lotus)
 
 MODELS
 
