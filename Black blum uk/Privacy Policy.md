@@ -133,7 +133,7 @@ Search
 
 Cart](https://black-blum.com/cart)
 
-![1% for the planet](//black-blum.com/cdn/shop/files/1percent_170x.png?v=1687989027)
+[![1% for the planet](//black-blum.com/cdn/shop/files/1percent_170x.png?v=1687989027)](https://black-blum.com/pages/sustainability)
 
 * UK | £
     
