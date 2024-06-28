@@ -272,7 +272,6 @@ Footer menu
     * [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
     * [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
     * [Assessment](https://info.badgr.com/k12/products/mastery)
-    * [Elevate Analytics](https://info.badgr.com/k12/products/elevate/elevate-k12-analytics)
     * [Impact](https://info.badgr.com/k12/products/impact)
     * [LearnPlatform](https://info.badgr.com/k12/products/learnplatform)
     * [Services](https://info.badgr.com/services)
@@ -332,5 +331,6 @@ Social
 * [Twitter](https://twitter.com/Instructure)
 * [Facebook](https://www.facebook.com/CanvasLMS)
 * [Instagram](https://www.instagram.com/canvaslms/?hl=en)
+* [Youtube](https://www.youtube.com/@CanvasLMS)
 
 Copyright © 2008-2024 Instructure, Inc. All rights reserved. Various trademarks held by their respective owners.
