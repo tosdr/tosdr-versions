@@ -48,7 +48,7 @@ Explore
 
 [* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html "Working Relationship Index")
 
-[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
+[* Copilot+ PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html "Copilot+ PCs")
 
 * PCs
 
@@ -120,15 +120,15 @@ Shop
 
 [* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals "Weekly Deals")
 
+[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education "Student discounts")
+
 [* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html "New HP All-In Plan")
 
 [* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor "HP Business Technology Advisors")
 
-[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education "Student discounts")
-
 [* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery "#MyHP")
 
-[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11 "Copilot+ PCs")
+[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs "Copilot+ PCs")
 
 [* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes "HP Tech Takes")
 
@@ -281,7 +281,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)
+[* Security](https://www.hp.com/us-en/security/endpoint-security-solutions.html)[* Hybrid Work](https://www.hp.com/us-en/solutions/hybrid-work.html)[* HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html)[* Instant Ink](https://www.hp.com/us-en/printers/instant-ink.html)[* 3D Print](https://www.hp.com/us-en/printers/3d-printers.html)[* Construction Layout Robot](https://www.hp.com/us-en/printers/site-print/layout-robot.html)[* Government & Education](https://www.hp.com/us-en/solutions/us-public-sector.html)[* Small & Medium Business](https://www.hp.com/us-en/smb/small-and-medium-business-solutions.html)[* Working Relationship Index](https://www.hp.com/us-en/work-relationship-index.html)[* Copilot+ PCs](https://www.hp.com/us-en/ai-solutions/next-gen-ai-pcs.html)
 
 * PCs
 
@@ -297,7 +297,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-in-windows11)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)[* HP Tech Takes](https://www.hp.com/us-en/shop/tech-takes)
 
 * Shop PCs
 
@@ -581,7 +581,7 @@ Document Part No: 832555-001
 
 [Related links](javascript:void(0))
 
-[Laptop Care Packs](https://www.hp.com/us-en/shop/vwa/laptop-carepacks) [How to Factory Reset a Windows...](https://www.hp.com/us-en/shop/tech-takes/how-to-factory-reset-windows-laptop) [How to Reset BIOS Settings on...](https://www.hp.com/us-en/shop/tech-takes/how-to-reset-bios-settings-on-windows-pcs) [HP.com](https://www.hp.com/us-en/home.html) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP Care Pack - Printer Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-print.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [HP Computer Support Services - Commerical PC Support](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/support.html)
+[Laptop Care Packs | Warranty & Insurance](https://www.hp.com/us-en/shop/vwa/laptop-carepacks) [How to Factory Reset a Windows...](https://www.hp.com/us-en/shop/tech-takes/how-to-factory-reset-windows-laptop) [How to Reset BIOS Settings on...](https://www.hp.com/us-en/shop/tech-takes/how-to-reset-bios-settings-on-windows-pcs) [HP Consumer Tech Support & Hardware](https://www.hp.com/us-en/services/consumer/services-overview.html) [HP+ Smart Printing System](https://www.hp.com/us-en/printers/hp-plus.html) [HP Care Pack - PC Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-pc.html) [HP Care Pack - Printer Repair, Extended Warranty & Support](https://www.hp.com/us-en/services/consumer/carepack-print.html) [HP Fraud Alert: Protecting Yourself from Scams](https://www.hp.com/us-en/hpfraud-alert.html) [HP ZBook Firefly 14 Mobile...](https://www.hp.com/us-en/shop/pdp/hp-zbook-14u-g6-mobile-workstation#!) [HP Computer Support Services - Commerical PC Support](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/support.html)
 
 Select Your Country/Region and Language
 ---------------------------------------
@@ -778,7 +778,7 @@ popUpSREndingLabelString
 * [Contact HP](https://www.hp.com/us-en/contact-hp/contact.html)
 * [Careers](https://jobs.hp.com/)
 * [Investor relations](https://investor.hp.com/home/default.aspx)
-* [Sustainable impact](https://www.hp.com/us-en/hp-information/sustainable-impact.html)
+* [Sustainable impact](https://www.hp.com/us-en/sustainable-impact.html)
 * [Diversity, Equity and Inclusion](https://www.hp.com/us-en/hp-information/about-hp/diversity.html)
 * [Press center](https://press.hp.com/us/en.html)
 * [The Garage](https://garage.hp.com/us/en.html)
