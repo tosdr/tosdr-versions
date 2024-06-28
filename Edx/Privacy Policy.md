@@ -4,7 +4,7 @@
 
 Toggle mobile menu
 
-* [Sign In](https://courses.edx.org/login)[Register for free](https://courses.edx.org/register)
+* [Sign In](https://authn.edx.org/login)[Register for free](https://authn.edx.org/register)
 * [All Courses & Programs](https://www.edx.org/search)
 * Degrees & ProgramsNew
     
