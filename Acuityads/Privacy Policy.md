@@ -1,7 +1,3 @@
-WEBINAR July 23 - Political Advertising With L2's Paul Westcott
-
-[Register](https://illumin.com/insights/podcasts-webinars/webinar-high-interest-low-turnout-20-billion-ad-spend-year/)
-
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
 * [Product](#)
@@ -29,9 +25,9 @@ WEBINAR July 23 - Political Advertising With L2's Paul Westcott
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Best Father’s Day ads of 2024](https://illumin.com/wp-content/uploads/2024/06/Blog-image-teasers-2024-263x300.jpg)
+    * ![Uber opens the doors to programmatic buying](https://illumin.com/wp-content/uploads/2024/06/Uber-programmatic-buying-263x300.png)
         
-        Best Father’s Day ads of 2024[Read More](https://illumin.com/insights/blog/best-fathers-day-ads-of-2024/)
+        Uber opens the doors to programmatic buying[Read More](https://illumin.com/insights/blog/uber-programmatic-buying/)
         
 * [Company](#)
     * [Company](#)
@@ -214,6 +210,6 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
 
-![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
-
 ![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
