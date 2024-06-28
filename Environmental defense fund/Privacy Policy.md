@@ -1,7 +1,5 @@
 [Donate today for a $2-for-$1 match and triple your impact for people and nature](https://www.edf.org/donate/?addl_info=earth-day-sf) [Give now](https://www.edf.org/donate/?addl_info=earth-day-sf)
 
-[Celebrate World Rainforest Day! Unlock our $3-for-$1 match by donating today.](https://www.edf.org/donate/?addl_info=earth-day-sf) [Give now](https://www.edf.org/donate/?addl_info=earth-day-sf)
-
       
 
 [Skip to main content](#main-content)
