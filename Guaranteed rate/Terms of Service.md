@@ -73,7 +73,7 @@ Receive funds within days.](https://www.rate.com/personal-loans)
 
 Fund your life if you’re near retirement.](https://www.rate.com/hecm-reverse-mortgage)
 
-[**Guaranteed Rate Insurance\***
+[**Rate Insurance\***
 
 100+ top carriers.
 
