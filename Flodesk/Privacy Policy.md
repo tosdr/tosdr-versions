@@ -166,7 +166,7 @@ Did this answer your question?
 
 [![Flodesk Help Center](https://downloads.intercomcdn.com/i/o/435002/a15ede81807d21626d07a3b4/1ab24cd1227b36f899eb4f0140cc6a52.png)](https://help.flodesk.com/en/)
 
-To contact our help desk, send us an email to support@flodesk.com.
+To contact our help desk, send us an email to support\[@\]flodesk.com.
 
 * [![](https://intercom.help/flodeskinc/assets/svg/icon:social-facebook/737a80)](https://www.facebook.com/flodeskinc)
 * [![](https://intercom.help/flodeskinc/assets/svg/icon:social-twitter/737a80)](https://www.twitter.com/flodeskinc)
