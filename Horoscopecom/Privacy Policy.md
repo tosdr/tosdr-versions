@@ -1,5 +1,3 @@
-Tap Into the Cosmic Energy of the Summer Solstice by Getting [Your Own Ritual](https://store.horoscope.com/reading/summer-solstice-ritual-report/?utm_source=direct&utm_medium=store&utm_campaign=horo-store) Now! Tap Into the Cosmic Energy of the Summer Solstice by Getting [Your Own Ritual](https://store.horoscope.com/reading/summer-solstice-ritual-report/?utm_source=direct&utm_medium=store&utm_campaign=horo-store) Now!
-
 [](javascript:void(0);)[![horoscope.com](/images-US/horoscope-logo.svg)](https://www.horoscope.com/us/index.aspx)
 
 [Horoscopes](https://www.horoscope.com/us/index.aspx)
