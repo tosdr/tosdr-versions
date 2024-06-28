@@ -117,9 +117,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Benefits of selected specialty food ingredients for gut health](https://www.euractiv.com/section/agriculture-food/infographic/benefits-of-selected-specialty-food-ingredients-for-gut-health/)
+    * [Used cooking oil: there is a cobra in the room](https://www.euractiv.com/section/agriculture-food/opinion/used-cooking-oil-there-is-a-cobra-in-the-room/)
     * [REFIT and Reseal: Why the EU Must Uphold the Ban on Trade in Seal Products](https://www.euractiv.com/section/agriculture-food/opinion/refit-and-reseal-why-the-eu-must-uphold-the-ban-on-trade-in-seal-products/)
-    * [As Russia shifts from gas exports to fertilizers, it is time for the EU to act](https://www.euractiv.com/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/)
-    * [Why Europe needs to rethink its pesticide classifications](https://www.euractiv.com/section/agriculture-food/opinion/why-europe-needs-to-rethink-its-pesticide-classifications/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -204,11 +204,15 @@ Toggle navigation
     * [Biosolutions – the hi-tech ecosystem accelerating Europe’s Green Deal](https://www.euractiv.com/section/energy-environment/special_report/biosolutions-the-hi-tech-ecosystem-accelerating-europes-green-deal/)
     * [Certification as a tool to reduce greenhouse gas emissions](https://www.euractiv.com/section/energy-environment/special_report/certification-as-a-tool-to-reduce-greenhouse-gas-emissions/)
     
+    ##### Events
+    
+    * 24 September - [Media Partnership - Ensuring Resilience in the European Energy Transition](https://events.euractiv.com/event/info/media-partnership-ensuring-resilience-in-the-european-energy-transition)
+    
     ##### Promoted Content
     
+    * [Used cooking oil: there is a cobra in the room](https://www.euractiv.com/section/agriculture-food/opinion/used-cooking-oil-there-is-a-cobra-in-the-room/)
     * [The Hidden Key to Sustainable Buildings](https://www.euractiv.com/section/energy-environment/opinion/the-hidden-key-to-sustainable-buildings/)
     * [Charting the Path to Climate Neutrality and Energy Resilience](https://www.euractiv.com/section/energy-environment/opinion/charting-the-path-to-climate-neutrality-and-energy-resilience/)
-    * [The New Council Conclusion on the 8th EAP: A new step towards a Water-Smart Strategy](https://www.euractiv.com/section/energy-environment/opinion/the-new-council-conclusion-on-the-8th-eap-a-new-step-towards-a-water-smart-strategy/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -289,11 +293,11 @@ Toggle navigation
     
     ##### Special Reports
     
+    * [Europe’s personalised medicine sector boosted by Sino-EU PerMed project](https://www.euractiv.com/section/health-consumers/special_report/europes-peronalised-medicines-sector-boosted-by-sino-eu-permed-project/)
     * [Alzheimer’s Disease: detection, diagnosis, treatment](https://www.euractiv.com/section/health-consumers/special_report/alzheimers-disease-detection-diagnosis-treatment/)
     * [Europe needs new 360 rare diseases strategy](https://www.euractiv.com/section/health-consumers/special_report/europe-needs-new-360-rare-diseases-strategy/)
     * [Diabetes care in Europe: The path forward](https://www.euractiv.com/section/health-consumers/special_report/diabetes-care-in-europe-the-path-forward/)
     * [Transplantation in the EU: From the waiting lists to post-transplantation journey](https://www.euractiv.com/section/health-consumers/special_report/transplantation-in-the-eu-from-the-waiting-lists-to-post-transplantation-journey/)
-    * [The complexity and rewards of gene treatments for rare diseases](https://www.euractiv.com/section/health-consumers/special_report/the-complexity-and-rewards-of-gene-treatments-for-rare-diseases/)
     
     ##### Promoted Content
     
@@ -371,9 +375,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Enabling Green and Digital Growth: Making Sustainability Reporting Work for SMEs](https://www.euractiv.com/section/digital/opinion/enabling-green-and-digital-growth-making-sustainability-reporting-work-for-smes/)
+    * [Journalists facing online threats: a growing risk to democracy](https://www.euractiv.com/section/digital/opinion/journalists-facing-online-threats-a-growing-risk-to-democracy/)
     * [Do We Have All the Right Networks for the Future?](https://www.euractiv.com/section/digital/opinion/do-we-have-all-the-right-networks-for-the-future/)
-    * [How Open Digital Ecosystems Can Boost Europe’s Competitiveness](https://www.euractiv.com/section/digital/opinion/how-open-digital-ecosystems-can-boost-europes-competitiveness/)
-    * [A New Era for Business – E-invoicing as the Critical Enabler of Europe’s Digital and Competitive Growth](https://www.euractiv.com/section/digital/opinion/a-new-era-for-business-e-invoicing-as-the-critical-enabler-of-europes-digital-and-competitive-growth/)
     
 * [Transport](https://www.euractiv.com/sections/transport/)
     
@@ -967,16 +971,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 
 ### Most read articles
 
-* 1[As Russia shifts from gas exports to fertilizers, it is time for the EU to act](http://en.euractiv.eu/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/?utm_source=website&utm_campaign=popular)
-* 2[EU countries rubberstamp Nature Restoration Law after months of deadlock](http://en.euractiv.eu/section/agriculture-food/news/breaking-eu-countries-rubberstamp-nature-restoration-law-after-months-of-deadlock/?utm_source=website&utm_campaign=popular)
-* 3[EU 'not worried' as China probes bloc's pork imports](http://en.euractiv.eu/section/agriculture-food/news/eu-not-worried-as-china-probes-blocs-pork-imports/?utm_source=website&utm_campaign=popular)
-* 4[China tells US it would prevail in a Taiwan conflict without using nukes](http://en.euractiv.eu/section/china/news/china-tells-us-it-would-prevail-in-a-taiwan-conflict-without-using-nukes/?utm_source=website&utm_campaign=popular)
-* 5[Putin to visit Vietnam, sparking US rebuke of Hanoi](http://en.euractiv.eu/section/global-europe/news/putin-to-visit-vietnam-sparking-us-rebuke-of-hanoi/?utm_source=website&utm_campaign=popular)
-* 6[Europe's solar power surge hits prices, exposing storage needs](http://en.euractiv.eu/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/?utm_source=website&utm_campaign=popular)
-* 7[Nature restoration: Austrian conservatives charge Gewessler for abuse of office](http://en.euractiv.eu/section/energy-environment/news/nature-restoration-austrian-conservatives-charge-gewessler-for-abuse-of-office/?utm_source=website&utm_campaign=popular)
-* 8[Why EU leaders were forced to delay the bloc’s top job deal](http://en.euractiv.eu/section/elections/news/why-eu-leaders-were-forced-to-delay-the-blocs-top-job-deal/?utm_source=website&utm_campaign=popular)
-* 9[EU approves 14th Russia sanctions package, includes first-ever LNG sector measures](http://en.euractiv.eu/section/eu-russia/news/eu-approves-14th-russia-sanctions-package-includes-first-ever-lng-sector-measures/?utm_source=website&utm_campaign=popular)
-* 10[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
+* 1[Used cooking oil: there is a cobra in the room](http://en.euractiv.eu/section/agriculture-food/opinion/used-cooking-oil-there-is-a-cobra-in-the-room/?utm_source=website&utm_campaign=popular)
+* 2[Car industry warns EU leaders against reversing 2035 combustion engine ban](http://en.euractiv.eu/section/electricity/news/car-industry-warns-eu-leaders-against-reversing-2035-combustion-engine-ban/?utm_source=website&utm_campaign=popular)
+* 3[EU Court ruling casts shadows on Europe's largest steelmaking plant](http://en.euractiv.eu/section/economy-jobs/news/eu-court-ruling-casts-shadows-on-europes-largest-steelmaking-plant/?utm_source=website&utm_campaign=popular)
+* 4[EU backs 650-billion-euro plan to help cities reach net zero by 2030](http://en.euractiv.eu/section/energy-environment/news/eu-backs-650-billion-euro-plan-to-help-cities-reach-net-zero-by-2030/?utm_source=website&utm_campaign=popular)
+* 5[Germany wants upcoming Commission to pursue 'EU only' free trade agenda](http://en.euractiv.eu/section/economy-jobs/news/germany-wants-upcoming-commission-to-pursue-eu-only-free-trade-agenda/?utm_source=website&utm_campaign=popular)
+* 6[Trump reviews plan to halt US military aid to Ukraine unless it negotiates peace with Moscow](http://en.euractiv.eu/section/global-europe/news/trump-reviews-plan-to-halt-us-military-aid-to-ukraine-unless-it-negotiates-peace-with-moscow/?utm_source=website&utm_campaign=popular)
+* 7[Poland, Baltics call for 'defence line' along Europe's Eastern border](http://en.euractiv.eu/section/defence-and-security/news/poland-baltics-call-for-defence-line-along-europes-eastern-border/?utm_source=website&utm_campaign=popular)
+* 8[Spat over subsidies breaks EU consensus on future of farming](http://en.euractiv.eu/section/agriculture-food/news/spat-over-subsidies-breaks-eu-consensus-on-future-of-farming/?utm_source=website&utm_campaign=popular)
+* 9[CBAM: European businesses grapple with ‘bureaucratic madness’](http://en.euractiv.eu/section/emissions-trading-scheme/news/cbam-european-businesses-grapple-with-bureaucratic-madness/?utm_source=website&utm_campaign=popular)
+* 10[Green Deal is 'no longer an ecological, but an economic agenda', says EU climate official](http://en.euractiv.eu/section/energy-environment/news/green-deal-is-no-longer-an-ecological-but-an-economic-agenda-says-senior-eu-climate-official/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
