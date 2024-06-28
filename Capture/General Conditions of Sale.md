@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[☀️ Summer Savings! Get 40% Off with code: SAVE40 at checkout! 🏖️](https://www.capture.com/collections/all)
+[Costco Members get exclusive deals and services through Costco Next - Shop Now](https://www.capture.com/costco?utm_source=website&utm_medium=costco&utm_campaign=banner)
 
      
 
@@ -11,12 +11,12 @@
     #### Popular Formats
     
     [VHS to Digital](https://www.capture.com/products/vhs-to-digital) [VHS-C to Digital](https://www.capture.com/products/vhs-c-to-digital) [MiniDV to Digital](https://www.capture.com/products/minidv-to-digital) [Video8 To Digital](https://www.capture.com/products/video-8-to-digital) [Betamax To Digital](https://www.capture.com/products/betamax-to-digital)  
-      
-    [Help Me Start an Order](https://www.capture.com/products/video-conversion-service)
+    [Start an Order](https://www.capture.com/products/video-conversion-service)
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Accepted Formats](https://www.capture.com/pages/video-transfer-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)  
+    [Shop All Video Formats](https://www.capture.com/pages/video-transfer-service)
     
     #### Popular Formats
     
@@ -24,14 +24,14 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Accepted Formats](https://www.capture.com/pages/video-transfer-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)  
-    [Help Me Start an Order](https://www.capture.com/products/video-conversion-service)
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)  
+    [Start an Order](https://www.capture.com/products/video-conversion-service)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_video2x.jpg?v=1709060786&width=400)
     
-    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2023 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
+    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2024 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
     
-    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2023 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
+    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2024 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
     
 * Film
     
@@ -41,20 +41,23 @@
     
     [8mm Films to Digital](https://www.capture.com/products/8mm-film-to-digital) [Super8 Films to Digital](https://www.capture.com/products/convert-super-8-to-digital) [16mm Films to Digital](https://www.capture.com/products/16mm-to-digital)  
       
-    [Help Me Start an Order](https://www.capture.com/products/film-transfer)
+    [Start an Order](https://www.capture.com/products/film-transfer)
     
     #### What’s Right for Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Accepted Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film)
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Transfer Resources](https://www.capture.com/blogs/film)  
+      
+      
+    [Shop All Film Formats](https://www.capture.com/pages/transfer-film-to-digital)
     
     #### Popular Formats
     
     [8mm Films to Digital](https://www.capture.com/products/8mm-film-to-digital) [Super8 Films to Digital](https://www.capture.com/products/convert-super-8-to-digital) [16mm Films to Digital](https://www.capture.com/products/16mm-to-digital)
     
-    #### What’s Right for Me?
+    #### What's Right For Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Accepted Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film)  
-    [Help Me Start an Order](https://www.capture.com/products/film-transfer)
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [View All Film Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film)  
+    [Start an Order](https://www.capture.com/products/film-transfer)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Film2x.jpg?v=1681842932&width=400)
     
@@ -70,11 +73,12 @@
     
     [Photos to Digital](https://www.capture.com/products/photo-digitization) [Slides to Digital](https://www.capture.com/products/convert-slides-to-digital) [35mm slides to Digital](https://www.capture.com/products/35mm-slides-to-digital) [Negatives to Digital](https://www.capture.com/products/convert-negatives-to-digital-photos) [35mm negatives to Digital](https://www.capture.com/products/35mm-negatives-to-digital)  
       
-    [Help Me Start an Order](https://www.capture.com/products/photo-digitization)
+    [Start an Order](https://www.capture.com/products/photo-digitization)
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Accepted Formats](https://www.capture.com/pages/scan-photos-to-digital) [Photo Digitization Resources](https://www.capture.com/blogs/photo)
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Digitization Resources](https://www.capture.com/blogs/photo)  
+    [Shop All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital)
     
     #### Popular Formats
     
@@ -82,8 +86,8 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [photo Digitization Resources](https://www.capture.com/pages/scan-photos-to-digital/%3EPhoto%20Accepted%20Formats%3C/a%3E%0A%20%20%20%20%20%20%3Ca%20href=)  
-    [Help Me Start an Order](https://www.capture.com/products/photo-digitization)
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [View All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital) [photo Digitization Resources](https://www.capture.com/blogs/photo)  
+    [Start an Order](https://www.capture.com/products/photo-digitization)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Photo2x.jpg?v=1681842923&width=400)
     
@@ -99,11 +103,14 @@
     
     [Secure Digital (SD) to DVD](https://www.capture.com/products/sd-card-to-dvd-transfer-service) [DVD to Digital](https://www.capture.com/products/dvd-to-digital) [CD to Digital](https://www.capture.com/products/convert-cd-to-digital)  
       
-    [Help Me Start an Order](https://www.capture.com/products/digital-scanning)
+    [Start an Order](https://www.capture.com/products/digital-scanning)
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Accepted Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)  
+      
+      
+    [Shop All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service)
     
     #### Popular Formats
     
@@ -111,8 +118,8 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Accepted Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)  
-    [Help Me Start an Order](https://www.capture.com/products/digital-scanning)
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [View All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)  
+    [Start an Order](https://www.capture.com/products/digital-scanning)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_DM2x.jpg?v=1681842895&width=400)
     
@@ -143,8 +150,18 @@
     * [Capture vs. Competitors](https://www.capture.com/pages/capture-comparison)
     * [Our Story](https://www.capture.com/pages/our-story)
     
+* Resources
+    
+    Resources
+    
+    * [Gift Ideas](https://www.capture.com/pages/gift-ideas)
+    * [Video Digitization Tips](https://www.capture.com/blogs/video)
+    * [Film Reel Digitization Tips](https://www.capture.com/blogs/film)
+    * [Slide Digitization Tips](https://www.capture.com/blogs/slide)
+    * [Photo Digitization Tips](https://www.capture.com/blogs/photo)
+    * [Blog](https://www.capture.com/pages/blog)
+    
 * [Reviews](https://www.capture.com/pages/capture-reviews)
-* [Gift Ideas](https://www.capture.com/pages/gift-ideas)
 * [Help](https://help.capture.com/hc/en-us)
 
 [![Capture](//www.capture.com/cdn/shop/files/Main_Logo_Green_2x_30be17c6-8887-490a-9c3c-3a212950599c.png?v=1663961049)](https://www.capture.com/)
@@ -154,12 +171,12 @@
     #### Popular Formats
     
     [VHS to Digital](https://www.capture.com/products/vhs-to-digital) [VHS-C to Digital](https://www.capture.com/products/vhs-c-to-digital) [MiniDV to Digital](https://www.capture.com/products/minidv-to-digital) [Video8 To Digital](https://www.capture.com/products/video-8-to-digital) [Betamax To Digital](https://www.capture.com/products/betamax-to-digital)  
-      
-    [Help Me Start an Order](https://www.capture.com/products/video-conversion-service)
+    [Start an Order](https://www.capture.com/products/video-conversion-service)
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Accepted Formats](https://www.capture.com/pages/video-transfer-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)  
+    [Shop All Video Formats](https://www.capture.com/pages/video-transfer-service)
     
     #### Popular Formats
     
@@ -167,14 +184,14 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Accepted Formats](https://www.capture.com/pages/video-transfer-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)  
-    [Help Me Start an Order](https://www.capture.com/products/video-conversion-service)
+    [Digitize Any Videotapes](https://www.capture.com/products/video-conversion-service) [Videotape Conversion Resources](https://www.capture.com/blogs/video)  
+    [Start an Order](https://www.capture.com/products/video-conversion-service)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_video2x.jpg?v=1709060786&width=400)
     
-    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2023 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
+    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2024 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
     
-    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2023 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
+    [How to Repair a VHS Tape](https://www.capture.com/blogs/video/vhs-tape-repair/) [VHS to Digital Converters 2024 Guide](https://www.capture.com/blogs/video/vhs-to-digital-converter/)
     
 * Film
     
@@ -182,20 +199,23 @@
     
     [8mm Films to Digital](https://www.capture.com/products/8mm-film-to-digital) [Super8 Films to Digital](https://www.capture.com/products/convert-super-8-to-digital) [16mm Films to Digital](https://www.capture.com/products/16mm-to-digital)  
       
-    [Help Me Start an Order](https://www.capture.com/products/film-transfer)
+    [Start an Order](https://www.capture.com/products/film-transfer)
     
     #### What’s Right for Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Accepted Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film)
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Transfer Resources](https://www.capture.com/blogs/film)  
+      
+      
+    [Shop All Film Formats](https://www.capture.com/pages/transfer-film-to-digital)
     
     #### Popular Formats
     
     [8mm Films to Digital](https://www.capture.com/products/8mm-film-to-digital) [Super8 Films to Digital](https://www.capture.com/products/convert-super-8-to-digital) [16mm Films to Digital](https://www.capture.com/products/16mm-to-digital)
     
-    #### What’s Right for Me?
+    #### What's Right For Me?
     
-    [Digitize Any Films](https://www.capture.com/products/film-transfer) [Film Accepted Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film)  
-    [Help Me Start an Order](https://www.capture.com/products/film-transfer)
+    [Digitize Any Films](https://www.capture.com/products/film-transfer) [View All Film Formats](https://www.capture.com/pages/transfer-film-to-digital) [Film Transfer Resources](https://www.capture.com/blogs/film)  
+    [Start an Order](https://www.capture.com/products/film-transfer)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Film2x.jpg?v=1681842932&width=400)
     
@@ -209,11 +229,12 @@
     
     [Photos to Digital](https://www.capture.com/products/photo-digitization) [Slides to Digital](https://www.capture.com/products/convert-slides-to-digital) [35mm slides to Digital](https://www.capture.com/products/35mm-slides-to-digital) [Negatives to Digital](https://www.capture.com/products/convert-negatives-to-digital-photos) [35mm negatives to Digital](https://www.capture.com/products/35mm-negatives-to-digital)  
       
-    [Help Me Start an Order](https://www.capture.com/products/photo-digitization)
+    [Start an Order](https://www.capture.com/products/photo-digitization)
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Accepted Formats](https://www.capture.com/pages/scan-photos-to-digital) [Photo Digitization Resources](https://www.capture.com/blogs/photo)
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [Photo Digitization Resources](https://www.capture.com/blogs/photo)  
+    [Shop All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital)
     
     #### Popular Formats
     
@@ -221,8 +242,8 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [photo Digitization Resources](https://www.capture.com/pages/scan-photos-to-digital/%3EPhoto%20Accepted%20Formats%3C/a%3E%0A%20%20%20%20%20%20%3Ca%20href=)  
-    [Help Me Start an Order](https://www.capture.com/products/photo-digitization)
+    [Digitize Any Photos](https://www.capture.com/products/photo-digitization) [View All Photo Formats](https://www.capture.com/pages/scan-photos-to-digital) [photo Digitization Resources](https://www.capture.com/blogs/photo)  
+    [Start an Order](https://www.capture.com/products/photo-digitization)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_Photo2x.jpg?v=1681842923&width=400)
     
@@ -236,11 +257,14 @@
     
     [Secure Digital (SD) to DVD](https://www.capture.com/products/sd-card-to-dvd-transfer-service) [DVD to Digital](https://www.capture.com/products/dvd-to-digital) [CD to Digital](https://www.capture.com/products/convert-cd-to-digital)  
       
-    [Help Me Start an Order](https://www.capture.com/products/digital-scanning)
+    [Start an Order](https://www.capture.com/products/digital-scanning)
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Accepted Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)  
+      
+      
+    [Shop All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service)
     
     #### Popular Formats
     
@@ -248,8 +272,8 @@
     
     #### What’s Right for Me?
     
-    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [Digital Devices Accepted Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)  
-    [Help Me Start an Order](https://www.capture.com/products/digital-scanning)
+    [Digitize Any Digital Device](https://www.capture.com/products/digital-scanning) [View All Digital Devices Formats](https://www.capture.com/pages/digital-scanning-service) [Digital Devices Digitization Resources](https://www.capture.com/blogs/insights)  
+    [Start an Order](https://www.capture.com/products/digital-scanning)
     
     ![](//www.capture.com/cdn/shop/files/MegaMenu_DM2x.jpg?v=1681842895&width=400)
     
@@ -274,8 +298,16 @@
     * [Capture vs. Competitors](https://www.capture.com/pages/capture-comparison)
     * [Our Story](https://www.capture.com/pages/our-story)
     
+* Resources
+    
+    * [Gift Ideas](https://www.capture.com/pages/gift-ideas)
+    * [Video Digitization Tips](https://www.capture.com/blogs/video)
+    * [Film Reel Digitization Tips](https://www.capture.com/blogs/film)
+    * [Slide Digitization Tips](https://www.capture.com/blogs/slide)
+    * [Photo Digitization Tips](https://www.capture.com/blogs/photo)
+    * [Blog](https://www.capture.com/pages/blog)
+    
 * [Reviews](https://www.capture.com/pages/capture-reviews)
-* [Gift Ideas](https://www.capture.com/pages/gift-ideas)
 * [Help](https://help.capture.com/hc/en-us)
 
 [Cart](https://www.capture.com/cart)
