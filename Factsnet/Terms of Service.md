@@ -206,21 +206,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![17 Facts About Perplexity AI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2274%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
+[![13 Facts About Medjool Dates ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/nutrition/13-facts-about-medjool-dates/)
 
-Technology
+Nutrition
 
-21 Jun 2024
+27 Jun 2024
 
-[17 Facts About Perplexity AI](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
+[13 Facts About Medjool Dates](https://facts.net/fitness-and-wellbeing/nutrition/13-facts-about-medjool-dates/)
 
-[![30 Facts About World War III ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
+[![13 Facts About Politifact ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/13-facts-about-politifact/)
 
-Historical Events
+Society & Social Sciences
 
-21 Jun 2024
+27 Jun 2024
 
-[30 Facts About World War III](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
+[13 Facts About Politifact](https://facts.net/society-and-social-sciences/13-facts-about-politifact/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
