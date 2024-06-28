@@ -19,7 +19,7 @@
     * [Case Studies](https://cidilabs.com/news-and-events/case-studies/)
     * [Webinars](https://cidilabs.com/webinars/)
     * [White Papers](https://cidilabs.com/white-papers/)
-    * [Blog](https://cidilabs.com/design-matters-blog/)
+    * [Design Matters Blog](https://cidilabs.com/design-matters-blog/)
 * [Contact](https://cidilabs.com/contact-cidi-labs/)
 
 Menu
@@ -43,7 +43,7 @@ Menu
     * [Case Studies](https://cidilabs.com/news-and-events/case-studies/)
     * [Webinars](https://cidilabs.com/webinars/)
     * [White Papers](https://cidilabs.com/white-papers/)
-    * [Blog](https://cidilabs.com/design-matters-blog/)
+    * [Design Matters Blog](https://cidilabs.com/design-matters-blog/)
 * [Contact](https://cidilabs.com/contact-cidi-labs/)
 
 [Request Demo](https://cidilabs.com/request-live-demo/)
