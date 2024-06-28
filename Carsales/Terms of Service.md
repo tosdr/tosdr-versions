@@ -123,7 +123,7 @@ Welcome to the carsales Network
 
   
 
-CAR Group Limited (formerly carsales.com Ltd) is pleased to provide you with access to the network of websites, apps and related services operated by CAR Group Limited and its related bodies corporate (“carsales”) including, but not limited to [www.carsales.com.au,](http://www.carsales.com.au/) [www.bikesales.com.au,](http://www.bikesales.com.au/) [www.boatsales.com.au,](http://www.boatsales.com.au/) [www.caravancampingsales.com.au,](http://www.caravancampingsales.com.au/) [www.trucksales.com.au,](http://www.trucksales.com.au/) [www.farmmachinerysales.com.au,](http://www.farmmachinerysales.com.au/) [www.constructionsales.com.au,](http://www.constructionsales.com.au/) [www.tyresales.com.au,](http://www.tyresales.com.au/) [www.tyreconnect.com.au,](http://www.tyreconnect.com.au/) [www.autogate.co,](http://www.autogate.co/) the carsales vehicle search engine wherever distributed on the internet and carsales’ broader e-commerce platforms on the above websites allowing the sale of non-vehicle products by third parties (“Stores”) (together the "carsales Network").
+carsales.com.au Pty Ltd is pleased to provide you with access to the network of websites, apps and related services operated by carsales.com.au Pty Ltd and its related bodies corporate (“carsales”) including, but not limited to [www.carsales.com.au,](http://www.carsales.com.au/) [www.bikesales.com.au,](http://www.bikesales.com.au/) [www.boatsales.com.au,](http://www.boatsales.com.au/) [www.caravancampingsales.com.au,](http://www.caravancampingsales.com.au/) [www.trucksales.com.au,](http://www.trucksales.com.au/) [www.farmmachinerysales.com.au,](http://www.farmmachinerysales.com.au/) [www.constructionsales.com.au,](http://www.constructionsales.com.au/) [www.tyresales.com.au,](http://www.tyresales.com.au/) [www.tyreconnect.com.au,](http://www.tyreconnect.com.au/) [www.autogate.co,](http://www.autogate.co/) the carsales vehicle search engine wherever distributed on the internet and carsales’ broader e-commerce platforms on the above websites allowing the sale of non-vehicle products by third parties (“Stores”) (together the "carsales Network").
 
 By accessing or using the carsales Network, you agree to be bound by these terms and conditions of use (“Terms”) and any other terms and conditions referred to in these Terms or notified to you on the carsales Network- each as amended from time to time in accordance with these Terms.
 
@@ -303,7 +303,7 @@ Email - complaints:
 
 [Complaints form](https://help.carsales.com.au/hc/en-gb/requests/new?ticket_form_id=26179)
 
-_Version 9 (31 January 2024)_
+_Version 10 (1 July 2024)_
 
 Contact
 
@@ -348,7 +348,7 @@ Download the carsales app
 * [](https://play.google.com/store/apps/details?id=au.com.carsales&ret=carsales-desktop-footer)
 * App Store and the Apple logo are trademarks of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
 
-© CAR Group Ltd 1999-2024
+© carsales.com.au Pty Ltd 1999-2024
 
 * [](http://www.facebook.com/carsales.com.au "Visit our facebook page")
 * [](http://twitter.com/carsales "Read our Twitter feed")
