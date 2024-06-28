@@ -1,4 +1,4 @@
- [![](/_nuxt/image/87eca8.svg) GitLab 17 & the future of AI-driven development Register now
+ [![](/_nuxt/image/87eca8.svg) GitLab 17 & the future of AI-driven development Watch now
 
 ![](/_nuxt/image/65fccb.svg)](https://about.gitlab.com/seventeen/)
 
