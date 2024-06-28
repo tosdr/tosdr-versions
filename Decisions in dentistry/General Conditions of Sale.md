@@ -137,6 +137,30 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[![Earn 2 CEUs with Tackling Early Childhood Caries⁠
+By Denise M. McKinney, PhD, RDH and Adaira L. Howell, RDH, BSDH, MS⁠
+⁠
+Interprofessional cooperation is key to effective prevention of tooth decay. Link in bio.⁠
+⁠
+@the_dr.denise_c⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8nAKHaPNlR/)
+
+[Tips for deciding between immediate or delayed imp ![Tips for deciding between immediate or delayed implant placement post-molar extraction. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8hUJDktLbr/) 
+
+[Oral myiasis is a rare but serious condition cause ![Oral myiasis is a rare but serious condition caused by parasitic infestation of living or dead tissue, bodily fluids, or ingested food. Myiasis occurs when fly larvae infest human tissue, using it as an intermediate host. It primarily affects individuals living in rural areas with close contact with cattle. However, it can also occur in urban populations, particularly among those with poor oral hygiene and sanitation or individuals with cognitive disabilities. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8e2OZ1Nmb2/) 
+
 [CAD/CAM-Driven�Full-Arch Restorations by Ahmad M ![CAD/CAM-Driven�Full-Arch Restorations by Ahmad M. Alawadi, DDS, MS and Antonella A. Botto, DDS, MS, FACP⁠
 ⁠
 This guide to digital workflow supports the precision of this therapy in addressing edentulism.⁠
@@ -165,26 +189,6 @@ Link in bio.⁠
 ---⁠
 ⁠@tokuyamadental⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8XA9klNx4S/) 
-
-[With temperatures heating up, an ice-cold drink is ![With temperatures heating up, an ice-cold drink is highly appealing to most patients. However, what happens to patients who chew the ice once their refreshing drink is gone? Link in bio.⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8UjDTWMQcI/) 
-
-[Unlock financial success with “Art’s Golden Ru ![Unlock financial success with “Art’s Golden Rules of Financial Planning” led by expert dental CPA Art Wiederman. Master key strategies for retirement, investments, and estate planning. Learn practical tips like the “65/25/10 rule” to confidently secure your financial future. Don’t miss this essential guide for informed decision-making and long-term prosperity. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8R_nYANMD8/) 
-
-[Unfortunately, it is common in the United States t ![Unfortunately, it is common in the United States to find people suffering from serious dental problems — from gum disease to wisdom teeth impaction — who don’t have the funds or the ability to get to a dental office. And when issues — such as an abscessed tooth — worsen, life-threatening infection can set in. Virginia Commonwealth University (VCU) School of Dentistry’s Urgent Care Clinic in Richmond is trying to turn this tide. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8PSlsZNIdZ/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
