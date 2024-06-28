@@ -31,6 +31,7 @@
     
     #### Compliance
     
+    * [Google Consent Mode](https://www.enzuzo.com/google-consent-mode-certified-cmp)
     * [Consent Management](https://www.enzuzo.com/consent-management-software)
     * [Manage Data Requests (DSARs)](https://www.enzuzo.com/dsar-software)
     * [Data Mapping](https://www.enzuzo.com/enterprise)
