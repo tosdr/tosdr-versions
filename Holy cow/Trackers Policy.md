@@ -136,15 +136,15 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
-[In the heart of the game, England reigns supreme. ![In the heart of the game, England reigns supreme.  Order takeaway and enjoy every moment of England's match today at 5:00 pm www.holycowonline.com  #Delivery  #UEFA2024 #ConvenienceCuisine #TasteAtHome #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[Kicking off flavor goals, one bite at a time! Ord ![Kicking off flavor goals, one bite at a time!  Order and visit us at: www.holycowonline.com  #FlavourKickoff #SpiceUpYourPlate #CulinaryChampions #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![In the heart of the game, England reigns supreme.  Order takeaway and enjoy every moment of England's match today at 5:00 pm www.holycowonline.com  #Delivery  #UEFA2024 #ConvenienceCuisine #TasteAtHome #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8bvFipIari/) 
+![Kicking off flavor goals, one bite at a time!  Order and visit us at: www.holycowonline.com  #FlavourKickoff #SpiceUpYourPlate #CulinaryChampions #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8twpl6oboe/) 
 
-[Winning flavours that will leave you cheering for ![Winning flavours that will leave you cheering for more!  Order here at: www.holycowonline.com  #KickstartYourCravings #SizzleAndSavour #WinningRecipes #TasteTheChampion #HolyCowFinelndianFood #AuthenticIndianCuisine
+[United in spirit, unstoppable in play. Grab a tak ![United in spirit, unstoppable in play.  Grab a takeaway and cheer on England tonight at 8:00Pm! Order at: www.holycowonline.com  #EuroGlory #UEFAVictory #EuroPassion #UEFA2024 #ScoreWithSpice #GameDay #HolyCowFinelndianFood #AuthenticIndianCuisine
 #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Winning flavours that will leave you cheering for more!  Order here at: www.holycowonline.com  #KickstartYourCravings #SizzleAndSavour #WinningRecipes #TasteTheChampion #HolyCowFinelndianFood #AuthenticIndianCuisine
-#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8WlfpioMFV/) 
+![United in spirit, unstoppable in play.  Grab a takeaway and cheer on England tonight at 8:00Pm! Order at: www.holycowonline.com  #EuroGlory #UEFAVictory #EuroPassion #UEFA2024 #ScoreWithSpice #GameDay #HolyCowFinelndianFood #AuthenticIndianCuisine
+#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8onD2eIneO/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
