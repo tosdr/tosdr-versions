@@ -95,8 +95,8 @@ Management](https://later.com/)
 Privacy Policies
 
 * [Later / Victory Square Media](#overview)
-* [Influencer Marketing Solution by Mavrck](#mavrck-overview)
-* [Influencer Marketing Solution powered by Mavrck’s Cookie Policy](#mavrck-cookie-overview)
+* [Later Influence Influencer Marketing Solution Privacy Policy](#mavrck-overview)
+* [Later Influence Cookie Policy](#mavrck-cookie-overview)
 
 Menu
 
@@ -477,52 +477,53 @@ Sections
 * [Your California Privacy Rights](#your-california-privacy-rights)
 * [Do Not Track Signals](#do-not-track-signals)
 * [Other Terms and Conditions](#other-terms-and-conditions)
-* [Changes to Mavrck’s Privacy Policy](#changes-to-mavrcks-privacy-policy)
+* [Changes to Later Influence’s Privacy Policy](#changes-to-mavrcks-privacy-policy)
 * [International Users](#international-users)
+* [EU-US Data Privacy Framework](#eu-us-data-privacy-framework)
 * [Contact Us](#mavrck-contact-us)
 
-Influencer Marketing Solution by Mavrck Privacy Policy
-------------------------------------------------------
+**Later Influence Influencer Marketing Solution Privacy Policy**
+----------------------------------------------------------------
 
-Effective date: April 25, 2024
+Effective date: June 25, 2024
 
 * * *
 
 ### **Overview**
 
-Later’s Influencer Marketing Solution is powered by Mavrck LLC (“**Mavrck**”, “**we**” “**us**” and/or “**our**”). Mavrck is a part of the Later Group of Companies and owns and operates certain web sites, including http://Mavrck.co (the “**Web Sites**”), a proprietary influencer marketing platform (the “**Influencer Marketing Platform**”), and makes available other marketing and promotional services, including through various “community” web sites affiliated with Brands (as defined below) (collectively, the Web Sites, Influencer Marketing Platform, and such services, including any future features and applications, the “**Mavrck Services**”). The Mavrck Services are designed to offer users of the Mavrck Services (collectively, “**Users**,” “**you**,” or “**your**”) the opportunity to connect with each other and the third parties to which Mavrck provides marketing and promotional services (“**Brands**”), share information about and opinions on products and services offered by our Brands, and participate in certain sweepstakes, contests, challenges and other promotions (“**Promotions**”).
+Later’s Influencer Marketing Solution is powered by Mavrck LLC (formerly called “Mavrck” and now referred to as “**Later Influence**”, “**we**” “**us**” and/or “**our**”). Later Influence is a part of the Later Group of Companies and owns and operates proprietary web-based influencer marketing platform available at app.mavrck.co (the “**Influencer Marketing Platform**”), and makes available other associated marketing and promotional services, including through various “community” websites affiliated with Brands (as defined below) (collectively, the Web Sites, Influencer Marketing Platform, and such services, including any future features and applications, the “**Later Influence** **Services**”). The Later Influence Services are designed to offer users of the Later Influence Services (collectively, “**Users**,” “**you**,” or “**your**”) the opportunity to connect with each other and the third parties to which Later Influence provides marketing and promotional services (“**Brands**”), share information about and opinions on products and services offered by our Brands, and participate in certain sweepstakes, contests, challenges and other promotions (“**Promotions**”).
 
-For clarity, this Privacy Policy does not apply to your use of Later’s Social Media Management Solution including your use of the following Later websites, products and services” [http://www.later.com](http://www.later.com/) website, [http://www.latergram.me](http://www.latergram.me/) website, [http://www.lat.gr](http://www.lat.gr/) website, [http://www.linkin.bio](http://www.linkin.bio/) website, [https://app.later.com](https://app.later.com/), [http://www.submit.media](http://www.submit.media/) email, the Later Community (the “Community”) and the Later mobile application (the “**Social Media Management Solution**”). The Social Media Management Solution is owned and operated by Victory Square Media Inc. and subject to a separate privacy policy. 
+For clarity, this Privacy Policy does not apply to your use of Later’s Social Media Management Solution (also referred to as Later Social), including your use of the following Later websites, products and services” [http://www.later.com](http://www.later.com/) website, [http://www.latergram.me](http://www.latergram.me/) website, [http://www.lat.gr](http://www.lat.gr/) website, [http://www.linkin.bio](http://www.linkin.bio/) website, [https://app.later.com](https://app.later.com/), [http://www.submit.media](http://www.submit.media/) email, the Later Community (the “Community”) and the Later mobile application (the “**Social Media Management Solution**”). The Social Media Management Solution is owned and operated by Victory Square Media Inc. and subject to a separate Victory Square Media Inc. privacy policy.
 
-This Privacy Policy sets forth Mavrck’s policy with respect to information that, alone or in combination with other information, could be used to identify you (“**Personal Data**”) and other information that is collected from Users. **This Privacy Policy explains what Personal Data we collect through the Mavrck Services, how we use and share that data, and your choices concerning our data practices.** This Privacy Policy forms part of our Terms of Use, which are available at: https://later.com/terms/.
+This Privacy Policy sets forth Later Influence’s policy with respect to information that, alone or in combination with other information, could be used to identify you (“**Personal Data**”) and other information that is collected from Users. **This Privacy Policy explains what Personal Data we collect through the Later Influence Services, how we use and share that data, and your choices concerning our data practices.** This Privacy Policy forms part of our Influencer Terms of Use for Influencer Marketing Solution, which are available at: https://later.com/terms/.
 
-This Privacy Policy does not apply to Personal Data that our Brands provide to us or otherwise make available to the Mavrck Services, that we process on our Brands’ behalf. Our practices concerning this data are addressed in our contract with the applicable Brand. 
+This Privacy Policy does not apply to Personal Data that our Brands provide to us or otherwise make available to the Later Influence Services, that we process on our Brands’ behalf. Our practices concerning this data are addressed in our contract with the applicable Brand. 
 
-By using the Mavrck Services you acknowledge and agree to the practices and policies disclosed in this Privacy Policy.
+By using the Later Influence Services you acknowledge and agree to the practices and policies disclosed in this Privacy Policy.
 
 ### **1\. Information We Collect**
 
-When you interact with us through the Mavrck Services, we may collect Personal Data and other information from you, as described below:
+When you interact with us through the Later Influence Services, we may collect Personal Data and other information from you, as described below:
 
-Customer Account and Inquiries: If you are a Brand or prospective customer, we collect and process your Personal Data when you (i) visit the Web Sites, sign up for a Mavrck webcast or other event or make a request to receive information about Mavrck or the Mavrck Services, including to book a demo, (ii) contact Mavrck’s sales team or customer support team, and (iii) sign up for a Mavrck account and use the Mavrck Services. The Personal Data we collect may include your first and last name, job title, company name, email address, mailing address, payment and billing information, phone number, country location.
+Customer Account and Inquiries: If you are a Brand or prospective customer, we collect and process your Personal Data when you (i) visit the Influencer Marketing Platform, sign up for a Later Influence webcast or other event or make a request to receive information about Later Influence or the Later Influence Services, including to book a demo, (ii) contact Later Influence’s sales team or customer support team, and (iii) sign up for a Later Influence account and use the Later Influence Services. The Personal Data we collect may include your first and last name, job title, company name, email address, mailing address, payment and billing information, phone number, country location.
 
-Personal Data That You Provide Through the Mavrck Services: We collect Personal Data from you when you voluntarily provide such information in connection with your use of the Mavrck Services, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Mavrck Services or use certain Mavrck Services, including when done so through their integration into social media services, such as Facebook and Twitter (“Social Media Services”) (for more information on the information we may receive from Social Media Services, please see the “Personal Data From Social Media Services” section below).  Data collected may include: First Name, Last Name, Profile Photo, Email, Birthday, Gender, Location, Hometown, Current City, Current State, Current Country, Brands you mention, IP Address, Topics/Keywords you use, and your social post performance.
+Personal Data That You Provide Through the Later Influence Services: We collect Personal Data from you when you voluntarily provide such information in connection with your use of the Later Influence Services, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Later Influence Services or use certain Later Influence Services, including when done so through their integration into social media services, such as Facebook and Twitter (“Social Media Services”) (for more information on the information we may receive from Social Media Services, please see the “Personal Data From Social Media Services” section below).  Data collected may include: First Name, Last Name, Profile Photo, Email, Birthday, Gender, Location, Hometown, Current City, Current State, Current Country, Brands you mention, IP Address, Topics/Keywords you use, and your social post performance.
 
-Personal Data From Social Media Services: When you provide Mavrck access to your Social Media Services account, we will collect relevant information necessary to enable the Mavrck Services to access that Social Media Service, however you will provide your login information, like your password, directly to such Social Media Service (and not to Mavrck).
+Personal Data From Social Media Services: When you provide Later Influence access to your Social Media Services account, we will collect relevant information necessary to enable the Later Influence Services to access that Social Media Service, however you will provide your login information, like your password, directly to such Social Media Service (and not to Later Influence).
 
-As part of the integration of the Mavrck Services with your Social Media Services account, the Social Media Service will provide Mavrck with access to certain information that you have provided to such Social Media Service, including but not limited to post-related meta data from your Facebook wall (e.g., post type, date of creation, date of update, post creator, permanent link, and the number of “Likes” and “Comments”). To access your Social Media Services account, we provide a link that directs you to a Social Media Service, like Facebook, where you may access the Mavrck Services directly. We will use, store and disclose such information in accordance with this Privacy Policy and, if and to the extent applicable, the policies of such Social Media Services. However, please remember that the manner in which Social Media Services use, store and disclose your information is governed by the policies of the applicable Social Media Services provider, and, as a result, Mavrck shall not have any liability or responsibility for the privacy practices or other actions of Social Media Services that may be enabled within and/or otherwise accessible through the Mavrck Services.
+As part of the integration of the Later Influence Services with your Social Media Services account, the Social Media Service will provide Later Influence with access to certain information that you have provided to such Social Media Service, including but not limited to post-related meta data from your Facebook wall (e.g., post type, date of creation, date of update, post creator, permanent link, and the number of “Likes” and “Comments”). To access your Social Media Services account, we provide a link that directs you to a Social Media Service, like Facebook, where you may access the Later Influence Services directly. We will use, store and disclose such information in accordance with this Privacy Policy and, if and to the extent applicable, the policies of such Social Media Services. However, please remember that the manner in which Social Media Services use, store and disclose your information is governed by the policies of the applicable Social Media Services provider, and, as a result, Later Influence shall not have any liability or responsibility for the privacy practices or other actions of Social Media Services that may be enabled within and/or otherwise accessible through the Later Influence Services.
 
-Personal Data Obtained from Other Sources: We collect information about you from publicly accessible sources. For example, we may collect information that you have made publicly available online or that we obtain from other public sources, including Social Media Services (please refer to the “Personal Data From Social Media Services” section above) and third-party influencer databases and platforms.
+Personal Data Obtained from Other Sources: We may collect information about you from publicly accessible sources in compliance with applicable laws. For example, we may collect information that you have made publicly available online or that we obtain from other public sources, including Social Media Services (please refer to the “Personal Data From Social Media Services” section above) and third-party influencer databases and platforms.
 
-Personal Data Collected on Behalf of Brands: We collect under the direction of our Brands information about influencers with whom Brands engage on Social Media Services. We have no direct relationship with the individuals whose Personal Data we process on behalf of Brands. If you are a User of one of our Brands and would no longer like to be contacted by one of our Brands that use the Mavrck Services or you would like to access, correct or request deletion of your data, please contact the Brand that you interact with directly.
+Personal Data Collected on Behalf of Brands: When using the Later Influence Services, you may choose to enter into a relationship directly with Brands by applying for campaigns offered by those Brands. We collect under the direction of our Brands information about influencers with whom Brands engage on Social Media Services. If you are a User of one of our Brands and would no longer like to be contacted by one of our Brands that use the Later Influence Services or you would like to access, correct or request deletion of your data, please contact the Brand that you interact with directly.
 
-Passively Collected Data: When you interact with the Mavrck Services, we and third parties that provide functionality on the Mavrck Services, may passively collect and store certain types of information through automatic data collection tools including cookies, pixel tags, web beacons, embedded web links and similar technology.  Such information may include but is not limited to information about your device, referring/exit pages and URLs and number of clicks. Please see the “Cookies” section below to learn more about how we use cookies and other similar technologies. Mavrck may store such information itself or such information may be included in databases owned and maintained by Brands, agents or service providers including, but not limited to, Amazon Web Services Inc., Netra, Indico.io, Front, Endpoint Direct, and Zendesk. The Mavrck Services may use such information and pool it with other information to track, for example, the total number of Users, the number of visitors to each page of our Web Sites, and the domain names of our Users’ internet service providers.
+Passively Collected Data: When you interact with the Later Influence Services, we and third parties that provide functionality on the Later Influence Services, may passively collect and store certain types of information through automatic data collection tools including cookies, pixel tags, web beacons, embedded web links and similar technology.  Such information may include but is not limited to information about your device, referring/exit pages and URLs and number of clicks. Please see the “Cookies” section below to learn more about how we use cookies and other similar technologies. Later Influence may store such information itself or such information may be included in databases owned and maintained by Brands, agents or service providers including, but not limited to, Amazon Web Services Inc., Netra, Indico.io, Front, Endpoint Direct, and Zendesk. The Later Influence Services may use such information and pool it with other information to track, for example, the total number of Users, the number of visitors to each page of our Web Sites, and the domain names of our Users’ internet service providers.
 
 ### **2\. Our Use of Your Personal Data**
 
-Mavrck uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.  In particular, Mavrck uses your Personal Data for the following purposes:
+Later Influence uses the Personal Data you provide in a manner that is consistent with this Privacy Policy.  In particular, Later Influence uses your Personal Data for the following purposes:
 
-To provide Brands with access to the Mavrck Services.  This processing is necessary to perform our contract with our Brands.
+To provide Brands and Users with access to the Later Influence Services.  This processing is necessary to perform our contract with our Brands.
 
 As necessary for certain legitimate business interests, which include the following:
 
@@ -532,22 +533,20 @@ As necessary for certain legitimate business interests, which include the follow
     
 * To pursue the interest of our Users in connecting with each other and with Brands;
     
-* To personalize the content you see. For example, we use information about your use of the Mavrck Services, including information that we obtain through cookies and other technologies, to better understand your needs and interests in order to personalize your experience by presenting on the Mavrck Services products and services tailored to your interests;
+* To personalize the content you see. For example, we use information about your use of the Later Influence Services, including information that we obtain through cookies and other technologies, to better understand your needs and interests in order to personalize your experience by presenting on the Later Influence Services products and services tailored to your interests;
     
-* To send administrative information to you, for example, information regarding the Mavrck Services, and changes to our terms, conditions, and policies;
+* To send administrative information to you, for example, information regarding the Later Influence Services, and changes to our terms, conditions, and policies;
     
-* To analyze usage of the Mavrck Services and provide, maintain and improve the content and functionality of the Mavrck Services. For example, we regularly fix bugs or User experience issues that may be tied to particular User accounts. We use cookies to analyze how Users interact with the Mavrck Services. And that analysis can help us improve the Mavrck Services;
+* To analyze usage of the Later Influence Services and provide, maintain and improve the content and functionality of the Later Influence Services. For example, we regularly fix bugs or User experience issues that may be tied to particular User accounts. We use cookies to analyze how Users interact with the Later Influence Services. And that analysis can help us improve the Later Influence Services;
     
 * If you ask us to delete your data and we are required to fulfill your request, to keep basic data to identify you and prevent further unwanted processing;
     
-* To prevent fraud, criminal activity, or misuses of the Mavrck Services and to ensure the security of our IT systems, architecture and networks;
+* To prevent fraud, criminal activity, or misuses of the Later Influence Services and to ensure the security of our IT systems, architecture and networks;
     
 * To comply with legal obligations and legal process and to protect our rights, privacy, safety or property, and/or that of our affiliates, you or other third parties.
     
 
-For information about what we mean by legitimate interests and the rights of individuals in the European Union (“EU”), please see the “EU Visitors” section below.
-
-Marketing. We or our affiliates may contact you to tell you about services or products we believe will be of interest to you. If we do, where required by law, for example laws in the EU, we will only send you marketing information if you consent to us doing so at the time you provide us with your Personal Data. You may opt-out of receiving such emails by following the instructions contained in each promotional email we send you. In addition, if at any time you do not wish to receive future marketing communications, please contact us (refer to the “Contact Us” section below). If you unsubscribe from our marketing list, we will continue to contact you via email regarding the provision of the Mavrck Services and to respond to your requests.
+Marketing. We or our affiliates may contact you to tell you about services or products we believe will be of interest to you. If we do, where required by law, for example laws in the EU, we will only send you marketing information if you consent to us doing so at the time you provide us with your Personal Data. You may opt-out of receiving such emails by following the instructions contained in each promotional email we send you. In addition, if at any time you do not wish to receive future marketing communications, please contact us (refer to the “Contact Us” section below). If you unsubscribe from our marketing list, we will continue to contact you via email regarding the provision of the Later Influence Services and to respond to your requests.
 
 ### **3\. Our Disclosure of Your Personal Data.**
 
@@ -555,17 +554,17 @@ We consider your Personal Data to be a vital part of our relationship with you. 
 
 Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale of all or a portion of our assets, transition of service to another provider, merger, reorganization, financing due diligence, bankruptcy, receivership, dissolution or similar event, Personal Data may be part of the transferred assets. For added certainty, we may also share your Personal Data internally with our affiliates for the purposes described in this Privacy Policy.
 
-Brands: Many of the Mavrck Services are offered in connection with a specific Brand.  Mavrck shares the information you provide, including Personal Data, with Brands who provide you content targeted to your interests (including opportunities to participate in community forums and other interactive experiences), in accordance with the following: (i) with your informed consent (when we or our Brands have a direct interaction with you), or (ii) when we do not obtain your Personal Data directly from you (as described above), as necessary for our, our Brands’ and/or our Users’ legitimate interests (described above) and as permitted by applicable law (you may object at any time to such sharing, as described below). A Brand may use and disclose the Personal Data it receives from Mavrck Services according to the Brand’s individual privacy policies.
+Brands: Many of the Later Influence Services are offered in connection with a specific Brand.  Later Influence shares the information you provide, including Personal Data, with Brands who provide you content targeted to your interests (including opportunities to participate in community forums and other interactive experiences), in accordance with the following: (i) with your informed consent (when we or our Brands have a direct interaction with you), or (ii) when we do not obtain your Personal Data directly from you (as described above), as necessary for our, our Brands’ and/or our Users’ legitimate interests (described above) and as permitted by applicable law (you may object at any time to such sharing, as described below). A Brand may use and disclose the Personal Data it receives from Later Influence Services according to the Brand’s individual privacy policies.
 
-Agents, Service Providers: Mavrck, like many businesses, sometimes hires other companies to perform certain business-related functions and to help us understand and improve the use of our Services. Such parties providers of database storage and management services, customer support services, email management solutions, Mavrck Services hosting and other information technology providers, processing payments, providers of website analytics and direct marketing campaigns services, providers of artificial intelligence-based and machine learning solutions (such as providers of visual intelligence and visual search applications for pictures and videos). We may share your Personal Data with vendors and service providers retained in connection with providing the Mavrck Services on our behalf and under our instructions.
+Agents, Service Providers: Later Influence, like many businesses, sometimes hires other companies to perform certain business-related functions and to help us understand and improve the use of our Services. Such parties providers of database storage and management services, customer support services, email management solutions, Later Influence Services hosting and other information technology providers, processing payments, providers of website analytics and direct marketing campaigns services, providers of artificial intelligence-based and machine learning solutions (such as providers of visual intelligence and visual search applications for pictures and videos). We may share your Personal Data with vendors and service providers retained in connection with providing the Later Influence Services on our behalf and under our instructions. For Personal Data transferred to us from the UK, EU or EEA member countries and Switzerland in accordance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF or the Swiss-U.S. DPF, we will remain liable under the Data Privacy Framework if third-party agents or service providers that we engage to process the personal information on our behalf do so in a manner inconsistent with the Data Privacy Framework (Please see further the “Data Privacy Framework” section below.)
 
-Legal Requirements: Mavrck may disclose your Personal Data if required to do so by law, in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Mavrck or our Brands, (iii) act in urgent circumstances to protect the personal safety of Users or the public, (iv) protect against legal liability or suspected fraud, or (v) investigate, prevent, or take action regarding violations of Mavrck’s Terms of Use.
+Legal Requirements: Later Influence may disclose your Personal Data if required to do so by law, in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Later Influence or our Brands, (iii) act in urgent circumstances to protect the personal safety of Users or the public, (iv) protect against legal liability or suspected fraud, or (v) investigate, prevent, or take action regarding violations of Later Influence’s Terms of Use.
 
 For information on your choices and means for limiting use and disclosure of your Personal Data, please see the “Users’ Rights” section below.
 
 ### **4\. Account Deactivation and Deletion**
 
-If you no longer desire to use the Mavrck Services, you may deactivate or delete your account by sending an email to support@Mavrck.co. Note that de-activating your account with Mavrck may not fully remove the data collected from Facebook and other Social Media Services, or the data held or collected by Brands.
+If you no longer desire to use the Later Influence Services, you may deactivate or delete your account by sending an email to support@mavrck.co. Note that de-activating your account with Later Influence may not fully remove the data collected from Facebook and other Social Media Services, or the data held or collected by Brands.
 
 ### **5\. Data Retention**
 
@@ -577,17 +576,19 @@ To determine the appropriate retention period for your Personal Data, we will co
 
 ### **6\. Exclusions**
 
-This Privacy Policy does not apply to any information collected by Mavrck other than Personal Data collected through the Mavrck Services.
+This Privacy Policy does not apply to any information collected by Later Influence other than Personal Data collected through the Later Influence Services.
 
-Notice for Residents of the United States: If you are a resident of the United States, please note that, this Privacy Policy shall not apply to any unsolicited information you provide to Mavrck through the Mavrck Services or through any other means. This includes, but is not limited to, questions, comments, suggestions, ideas, feedback or other information provided by a User to Mavrck or posted by a User to any public areas of the Mavrck Services, including those integrated with or into Social Media Services (e.g., bulletin boards, community web sites, or your Facebook wall); any ideas for new products or modifications to existing products; and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Mavrck shall be free to reproduce, use, disclose, and distribute such Unsolicited Information for any purpose, commercial or otherwise, to others without limitation or attribution.
+Notice for Residents of the United States: If you are a resident of the United States, please note that, this Privacy Policy shall not apply to any unsolicited information you provide to Later Influence through the Later Influence Services or through any other means. This includes, but is not limited to, questions, comments, suggestions, ideas, feedback or other information provided by a User to Later Influence or posted by a User to any public areas of the Later Influence Services, including those integrated with or into Social Media Services (e.g., bulletin boards, community web sites, or your Facebook wall); any ideas for new products or modifications to existing products; and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and Later Influence shall be free to reproduce, use, disclose, and distribute such Unsolicited Information for any purpose, commercial or otherwise, to others without limitation or attribution.
 
-### **7\. EU Visitors**
+  
 
-Scope. This section applies if you are visitor to or User of the Mavrck Services in the EU (for these purposes, reference to the EU also includes the European Economic Area countries of Iceland, Liechtenstein and Norway and, to the extent applicable, Switzerland).
+### **7\. EU, Switzerland, and UK Visitors**
 
-Data Controller. Mavrck is the data controller for processing Personal Data that we collect from or about you, but we act as a data processor for Personal Data provided or otherwise made available to us by Brands through the Mavrck Services, which we process on Brands’ behalf pursuant to our contract with the applicable Brand . To find the contact information of our representative in the EU for purposes of the General Data Protection Regulation, please see the “Contact Us” section below.
+**Scope.** This section applies if you are visitor to or User of the Later Influence Services in the EU (for these purposes, reference to the EU also includes the European Economic Area countries of Iceland, Liechtenstein and Norway and, to the extent applicable, Switzerland) or the United Kingdom.
 
-Your Rights. Subject to applicable EU law, you have the following rights in relation to your Personal Data:
+**Data Controller.** Later Influence is the data controller for processing Personal Data that we collect from or about you through the Influencer Marketing Platform, but we act as a data processor for Personal Data provided or otherwise made available to us by Brands through the Later Influence Services, which we process on Brands’ behalf pursuant to our contract with the applicable Brand. To find the contact information of our representative in the EU for purposes of the General Data Protection Regulation, please see the “Contact Us” section below.
+
+**Your Rights.** Subject to applicable EU law, you have the following rights in relation to your Personal Data:
 
 * Right of access: If you ask us, we will confirm whether we are processing your Personal Data and, if so, provide you with a copy of that Personal Data along with certain other details. If you require additional copies, we may need to charge a reasonable fee.
     
@@ -601,10 +602,10 @@ Your Rights. Subject to applicable EU law, you have the following rights in rela
     
 * Right to object: You may ask us at any time to stop processing your Personal Data, and we will do so:
     
-    * If we are relying on a legitimate interest to process your Personal Data (refer to the “Our Use of Your Personal Data” section above) — unless we demonstrate compelling legitimate grounds for the processing or
-        
-    * If we are processing your Personal Data for direct marketing.
-        
+* If we are relying on a legitimate interest to process your Personal Data (refer to the “Our Use of Your Personal Data” section above) — unless we demonstrate compelling legitimate grounds for the processing or
+    
+* If we are processing your Personal Data for direct marketing.
+    
 * Right to withdraw consent: If we rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. Withdrawal of consent will not affect any processing of your data before we received notice that you wished to withdraw consent.
     
 * Right to lodge a complaint with the data protection authority: If you have a concern about our privacy practices, including the way we handled your Personal Data, you can report it to the data protection authority that is authorized to hear those concerns.
@@ -612,41 +613,39 @@ Your Rights. Subject to applicable EU law, you have the following rights in rela
 
 Please see the “Contact Us” section below for information on how to exercise your rights.
 
-Legitimate Interest. “Legitimate interests” means our interests in conducting our business, managing and delivering the best services to you. It also refers to our Brands’ and Users’ interest in creating engagement with Brands and each other. This Privacy Policy describes when we process your Personal Data for such legitimate interests, what these interests are and your rights. We will not use your Personal Data for activities where the impact on you overrides our interests, unless we have your consent or those activities are otherwise required or permitted by law.
+**Legitimate Interest.** “Legitimate interests” means our interests in conducting our business, managing and delivering the best services to you. It also refers to our Brands’ and Users’ interest in creating engagement with Brands and each other. This Privacy Policy describes when we process your Personal Data for such legitimate interests, what these interests are and your rights. We will not use your Personal Data for activities where the impact on you overrides our interests, unless we have your consent or those activities are otherwise required or permitted by law.
 
 ### **8\. Children**
 
-Mavrck does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Mavrck Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Mavrck Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Mavrck through the Mavrck Services, please contact us, and we will delete that information from our databases.
-
-  
+Later Influence does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Later Influence Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Later Influence Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Later Influence through the Later Influence Services, please contact us, and we will delete that information from our databases.
 
 ### **9\. Links to Other Web Sites**
 
-This Privacy Policy applies only to the Mavrck Services. The Mavrck Services may contain links to other web sites or provide you the opportunity to post to third party sites not operated or controlled by Mavrck (the “External Sites”). The policies and procedures we described here do not apply to the External Sites. The links from the Mavrck Services do not imply that Mavrck endorses or has reviewed the External Sites. We suggest contacting those sites directly for information on their privacy policies.
+This Privacy Policy applies only to the Later Influence Services. The Later Influence Services may contain links to other web sites or provide you the opportunity to post to third party sites not operated or controlled by Later Influence (the “External Sites”). The policies and procedures we described here do not apply to the External Sites. The links from the Later Influence Services do not imply that Later Influence endorses or has reviewed the External Sites. We suggest contacting those sites directly for information on their privacy policies.
 
 ### **10\. Social Media**
 
-Through the Mavrck Services, you may choose to access certain Social Media Services. When you elect to access and use the Social Media Services, you will be sharing your information (which will include Personal Data) with those Social Media Services. As with other External Sites, the information that you share with the Social Media Services will be governed by the privacy policies and terms of service of the providers of such Social Media Services and not by the Mavrck’s policies and procedures. You may also be able to modify your privacy settings with these Social Media Services to, for example, control what information the Social Media Services disclose to other entities, including Mavrck.
+Through the Later Influence Services, you may choose to access certain Social Media Services. When you elect to access and use the Social Media Services, you will be sharing your information (which will include Personal Data) with those Social Media Services. As with other External Sites, the information that you share with the Social Media Services will be governed by the privacy policies and terms of service of the providers of such Social Media Services and not by the Later Influence’s policies and procedures. You may also be able to modify your privacy settings with these Social Media Services to, for example, control what information the Social Media Services disclose to other entities, including Later Influence.
 
 ### 11\. Cookies
 
-We use cookies and other technologies to operate and administer the Mavrck Services, make it easier for you to use the Mavrck Services during future visits, and gather usage data on the Mavrck Services.
+We use cookies and other technologies to operate and administer the Later Influence Services, make it easier for you to use the Later Influence Services during future visits, and gather usage data on the Later Influence Services.
 
-What Are Cookies. A “cookie” is a piece of information sent to your browser by a website you visit. By choosing to use the Mavrck Services after having been notified of our use of cookies in the ways described in this Privacy Policy, and, in applicable jurisdictions, through notice and unambiguous acknowledgement of your consent, you agree to such use.
+What Are Cookies. A “cookie” is a piece of information sent to your browser by a website you visit. By choosing to use the Later Influence Services after having been notified of our use of cookies in the ways described in this Privacy Policy, and, in applicable jurisdictions, through notice and unambiguous acknowledgement of your consent, you agree to such use.
 
-Some cookies expire after a certain amount of time, or upon logging out (session cookies), others remain on your computer or terminal device for a longer period (persistent cookies). The Mavrck Services use first party cookies (cookies set directly by Mavrck) as well as third party cookies, as described below. For more details on cookies please visit All About Cookies.
+Some cookies expire after a certain amount of time, or upon logging out (session cookies), others remain on your computer or terminal device for a longer period (persistent cookies). The Later Influence Services use first party cookies (cookies set directly by Later Influence) as well as third party cookies, as described below. For more details on cookies please visit All About Cookies.
 
-Type of Cookies Used. The Mavrck Services use the following technologies:
+Type of Cookies Used. The Later Influence Services use the following technologies:
 
-* Strictly Necessary Cookies: Used to provide you (notably, when you log in at app.Mavrck.co) with the services available through the Mavrck Services and to use some of their features, such as the ability to log-in and access secure areas. These cookies are served by Mavrck and are essential for using and navigating the Mavrck Services. Without these cookies, basic functions of the Mavrck Services would not work. Because these cookies are strictly necessary to deliver the Mavrck Services, you cannot refuse them.
+* Strictly Necessary Cookies: Used to provide you (notably, when you log in at app.mavrck.co) with the services available through the Later Influence Services and to use some of their features, such as the ability to log-in and access secure areas. These cookies are served by Later Influence and are essential for using and navigating the Later Influence Services. Without these cookies, basic functions of the Later Influence Services would not work. Because these cookies are strictly necessary to deliver the Later Influence Services, you cannot refuse them.
     
-* Analytics/Performance Cookies: Used to recognize and count the number of visitors and to see how visitors move around the Mavrck Services when they are using them. This helps us improve the way the Mavrck Services work, for example, by making sure Users are finding what they need easily. The Mavrck Services use:
+* Analytics/Performance Cookies: Used to recognize and count the number of visitors and to see how visitors move around the Later Influence Services when they are using them. This helps us improve the way the Later Influence Services work, for example, by making sure Users are finding what they need easily. The Later Influence Services use:
     
-* Google Analytics, a web analytics service provided by Google Inc. (“Google”). The information collected by Google (including your IP address) will be transmitted to and stored by Google on servers in the United States. How long a Google Analytics cookie remains on your computer or device depends on what it is and what it is used for. Some Google Analytics cookies expire at the end of your browser session, whilst others can remain for up to two years. You can prevent your data from being collected by Google Analytics on the Mavrck Services by downloading and installing the Google Analytics Opt-out Browser Add-on for your current web browser. For more information on Google Analytics privacy practices, read here.
+* Google Analytics, a web analytics service provided by Google Inc. (“Google”). The information collected by Google (including your IP address) will be transmitted to and stored by Google on servers in the United States. How long a Google Analytics cookie remains on your computer or device depends on what it is and what it is used for. Some Google Analytics cookies expire at the end of your browser session, whilst others can remain for up to two years. You can prevent your data from being collected by Google Analytics on the Later Influence Services by downloading and installing the Google Analytics Opt-out Browser Add-on for your current web browser. For more information on Google Analytics privacy practices, visit: https://policies.google.com/privacy.
     
-* Snowplow, a web analytics service provided by Snowplow Analytics Limited. For more information on Snowplow’s privacy practices, read here.
+* Snowplow, a web analytics service provided by Snowplow Analytics Limited. For more information on Snowplow’s privacy practices, visit: https://snowplow.io/privacy-policy/.
     
-* Advertising Cookies: We use cookies from ClickMeter, a tool (provided by PositiveADV SRL SU) that enables us to track clicks on our links. For more information on ClickMeter’s privacy practices click here.
+* Advertising Cookies: If you use, or request that we use on your behalf, trackable links, we use Everflow, a tool (provided by Everflow Technologies Inc.) that uses cookies to enable tracking clicks on our links. For more information on EverFlows’s privacy practices visit: https://www.everflow.io/legal/privacy-policy.
     
 
 Other Technologies. From time to time we may provide our influencers and partners with pixel tags to get information about visitors’ usage of a website. Pixel tags are a technology similar to cookies that can be embedded in online content or within the body of an email for the purpose of tracking activity on websites (for example, to know when content has been shown to you), or to know when you have viewed particular contente. Please review the privacy or cookie policies or pop-ups provided on the applicable website you interact with to receive more information on the use of such technologies.
@@ -662,21 +661,21 @@ Your Choices. On most web browsers, you will find a “help” section on the to
 * Apple Safari
     
 
-Please note that if you limit the ability of websites to set cookies, you may be unable to access certain parts of the Mavrck Services and you may not be able to benefit from the full functionality of the Mavrck Services.
+Please note that if you limit the ability of websites to set cookies, you may be unable to access certain parts of the Later Influence Services and you may not be able to benefit from the full functionality of the Later Influence Services.
 
-If you access the Mavrck Services on your mobile device, you may not be able to control tracking technologies through the settings.
+If you access the Later Influence Services on your mobile device, you may not be able to control tracking technologies through the settings.
 
-We partner with third parties to display advertising on Mavrck Services or to manage our advertising on other sites, as described above. Our third-party partners may use cookies or similar tracking technologies to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org and follow the opt-out instructions there or if located in the European Union, visit the European Interactive Digital Advertising Alliance’s Your Online Choices opt-out tool here.  Please note that you will continue to receive generic ads.
+We partner with third parties to display advertising on Later Influence Services or to manage our advertising on other sites, as described above. Our third-party partners may use cookies or similar tracking technologies to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising, visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org and follow the opt-out instructions there or if located in the European Union, visit the European Interactive Digital Advertising Alliance’s Your Online Choices opt-out tool here.  Please note that you will continue to receive generic ads.
 
 ### **12\. Security**
 
-You use Mavrck at your own risk. Mavrck takes reasonable and appropriate measures to protect the Personal Data provided via the Mavrck Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. These measures are regularly assessed and improved according to technological developments in the field. However, no Internet or email transmission is ever fully secure or error-free. In particular, email sent to or from the Mavrck Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Mavrck via the Internet. We cannot control the actions of other Users with whom you may choose to share information. Therefore, we cannot, and do not, guarantee that information or content posted by a User on or through the Mavrck Services will not be viewed by unauthorized persons. we are not responsible for circumvention of any privacy settings or security measures contained on the Mavrck services or Social Media Services.
+You use Later Influence at your own risk. Later Influence takes reasonable and appropriate measures to protect the Personal Data provided via the Later Influence Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. These measures are regularly assessed and improved according to technological developments in the field. However, no Internet or email transmission is ever fully secure or error-free. In particular, email sent to or from the Later Influence Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Later Influence via the Internet. We cannot control the actions of other Users with whom you may choose to share information. Therefore, we cannot, and do not, guarantee that information or content posted by a User on or through the Later Influence Services will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Later Influence services or Social Media Services.
 
 ### **13\. Your California Privacy Rights**
 
 In accordance with the California Consumer Privacy Act (“CCPA”), this section is intended to inform California residents of (1) the Personal Information that we collect and how we disclose that information, and (2) the privacy rights California residents may have relating to their Personal Information and how those rights can be exercised.
 
-#### Personal Information Collection and Disclosure
+#### \[H4\] Personal Information Collection and Disclosure
 
 The following disclosures are intended to provide additional information about (1) the categories of Personal Information we collect, and (2) how and to whom we disclose that Personal Information. Nothing in this section limits our ability to use or disclose information as described elsewhere in this Privacy Policy.
 
@@ -696,7 +695,7 @@ The following disclosures are intended to provide additional information about (
     
 * Categories of Personal Information Disclosed for a Business Purpose: In the past 12 months, we have disclosed for a business purpose all of the above categories of Personal Information to service providers and as described in the “Our Disclosure of Your Personal Data” section above.
     
-* Categories of Personal Information Sold: Mavrck does not make your Personal Information available for purchase or otherwise share your information in exchange for monetary compensation. Certain sharing of your information, however, may be considered a “sale” under the CCPA’s broad definition.  In particular, in the last 12 months, if you have visited our Sites, we may have shared your Identification Information, Demographic Information and Online Activity Information with advertising partners to match and serve our targeted advertisements on third party websites.  (You can find additional information about cookies in the “Cookies” section above.)  See below for information about how to opt out of the sharing of your Personal Information for these purposes.
+* Categories of Personal Information Sold: Later Influence does not make your Personal Information available for purchase or otherwise share your information in exchange for monetary compensation. Certain sharing of your information, however, may be considered a “sale” under the CCPA’s broad definition.  In particular, in the last 12 months, if you have visited our Sites, we may have shared your Identification Information, Demographic Information and Online Activity Information with advertising partners to match and serve our targeted advertisements on third party websites.  (You can find additional information about cookies in the “Cookies” section above.)  See below for information about how to opt out of the sharing of your Personal Information for these purposes.
     
 
 #### California Privacy Rights
@@ -722,31 +721,41 @@ Authorized Agents: You may submit a request to know or a request to delete your 
 
 ### **14\. Do Not Track Signals**
 
-The Mavrck Services currently do not respond to “Do Not Track” (“DNT”) signals and operate as described in this Privacy Policy whether or not a DNT signal is received. If we do respond to DNT signals in the future, we will update this Privacy Policy to describe how we do so.
+The Later Influence Services currently do not respond to “Do Not Track” (“DNT”) signals and operate as described in this Privacy Policy whether or not a DNT signal is received. If we do respond to DNT signals in the future, we will update this Privacy Policy to describe how we do so.
 
 ### **15\. Other Terms and Conditions**
 
-Your access to and use of the Mavrck Services is subject to any additional terms applicable to such Mavrck Services that may be posted on the Mavrck Services from time to time, including without limitation, Mavrck’s Terms of Use available at [https://later.com/terms/](https://later.com/terms/) and additional terms and conditions set forth by our Brands, including those related to Promotions.
+Your access to and use of the Later Influence Services is subject to any additional terms applicable to such Later Influence Services that may be posted on the Later Influence Services from time to time, including without limitation, Later Influence’s Terms of Use available at [https://later.com/terms/](https://later.com/terms/) and additional terms and conditions set forth by our Brands, including those related to Promotions.
 
-### **16\. Changes to Mavrck’s Privacy Policy**
+### **16\. Changes to Later Influence’s Privacy Policy**
 
-The Mavrck Services and our business may change from time to time. As a result, at times it may be necessary for Mavrck to make changes to this Privacy Policy. Mavrck reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Mavrck strives to provide notifications to Users in a timely manner, but is not responsible for lost or late notifications. If the changes are significant, we will, in our sole discretion unless required by the law, post a notice on the homepage of our Web Sites or notify you at the email address we have on file for your account and provide you with an opportunity to opt-out of your continued use of our Services. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Mavrck Services after any changes or revisions to this Privacy Policy (or after we have notified you, if applicable) shall indicate your agreement with the terms of such revised Privacy Policy.
+The Later Influence Services and our business may change from time to time. As a result, at times it may be necessary for Later Influence to make changes to this Privacy Policy. Later Influence reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Later Influence strives to provide notifications to Users in a timely manner, but is not responsible for lost or late notifications. If the changes are significant, we will, in our sole discretion unless required by the law, post a notice on the homepage of our Web Sites or notify you at the email address we have on file for your account and provide you with an opportunity to opt-out of your continued use of our Services. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Later Influence Services after any changes or revisions to this Privacy Policy (or after we have notified you, if applicable) shall indicate your agreement with the terms of such revised Privacy Policy.
 
 ### **17\. International Users**
 
-If you are using the Mavrck Services from outside of the United States, you expressly acknowledge and agree that your Personal Data and other information will be processed in the United States and in other third countries. Privacy and data security laws may be  less stringent than or otherwise different from the laws in effect in your country of residence.  You expressly agree to the processing of your Personal Data and other information in accordance with this Policy. If you are using the Mavrck Services from the EU or the EEA, your Personal Data will be processed and transferred to the United States as explained in this Privacy Policy.
+If you are using the Later Influence Services from outside of the United States, you expressly acknowledge and agree that your Personal Data and other information will be processed in the United States and in other third countries. Privacy and data security laws may be  less stringent than or otherwise different from the laws in effect in your country of residence.  You expressly agree to the processing of your Personal Data and other information in accordance with this Policy. If you are using the Later Influence Services from the EU or the EEA, your Personal Data will be processed and transferred to the United States in accordance with the Data Privacy Framework Principles as explained below.
 
-EU and Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact Mavrck at:
+### **18\. EU-US Data Privacy Framework**
 
-\[ChiefPrivacyOfficer@Mavrck.co\]
+General: Later Influence complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Later Influence has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Later Influence has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-Your Rights: You have the right to access the Personal Data in our possession that you have previously submitted via the Mavrck Services and to correct, change, update, or delete your Personal Data. You have also the right to object to the disclosure of your information to third parties as described in this Privacy Policy, except for disclosures made to agents and service providers, as well as to the use of your information for a purpose that is materially different from the purposes for which it was originally collected or subsequently authorized by you. You may contact us as specified below to exercise these rights.
+Later Influence is subject to the investigatory and enforcement powers of the Federal Trade Commission and of other relevant US statutory bodies authorized to verify and ensure compliance with the Data Privacy Framework Principles.
 
-### 18\. Contact details
+Complaints: In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), Later Influence commits to resolve complaints about our collection or use of your personal information transferred to the U.S. pursuant to the EU-U.S. DPF, the UK extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. EU, UK, and Swiss individuals with inquiries or complaints should first contact Later Influence at privacy@mavrck.co. 
 
-Please feel free to contact us if you have any questions about this Privacy Policy or the information practices of the Mavrck Services.
+Later Influence has further committed to refer unresolved DPF Principles-related complaints to a U.S.-based independent dispute resolution mechanism, BBB NATIONAL PROGRAMS. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbbprograms.org/dpf-complaints for more information and to file a complaint. This service is provided free of charge to you.
 
-You may contact us at privacy@Mavrck.co or by regular mail addressed to:
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf 
+
+Your Rights: You have the right to access the Personal Data in our possession that you have previously submitted via the Later Influence Services and to correct, change, update, or delete your Personal Data. You have also the right to object to the disclosure of your information to third parties as described in this Privacy Policy, except for disclosures made to agents and service providers, as well as to the use of your information for a purpose that is materially different from the purposes for which it was originally collected or subsequently authorized by you. You may contact us as specified below to exercise these rights.
+
+  
+
+### 19\. Contact details
+
+Please feel free to contact us if you have any questions about this Privacy Policy or the information practices of the Later Influence Services.
+
+You may contact us at privacy@mavrck.co or by regular mail addressed to:
 
 Mavrck LLC, a Delaware limited liability company
 
@@ -756,12 +765,14 @@ Boston, MA 02109
 
 General Data Protection Regulation (GDPR) – European Representative
 
-Pursuant to Article 27 of the General Data Protection Regulation (GDPR), your company has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), our company has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
 
 * by using EDPO’s online request form: https://edpo.com/gdpr-data-request/
     
 * by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
     
+
+  
 
 Sections
 
@@ -777,16 +788,16 @@ Sections
 * [Changes to our Cookie Policy](#mavrck-cookies-changes-to-our-cookie-policy)
 * [Contact details](#mavrck-cookies-contact-details)
 
-Influencer Marketing Solution powered by Mavrck’s Cookie Policy (EU)
---------------------------------------------------------------------
+**Later Influence Cookie Policy**
+---------------------------------
 
-Last updated: June 28, 2022
+Last updated: June 25, 2024
 
 This Cookie Policy applies to citizens and legal permanent residents of the European Economic Area and Switzerland
 
 ### 1\. Introduction
 
-Our website, [https://www.mavrck.co](https://www.mavrck.co/) (hereinafter: “the website") uses cookies and other related technologies. Note, for simplicity, all technologies are referred to as “cookies". Cookies are also placed by third parties we have engaged. In the document below we inform you about the use of cookies on our website. This Cookie Policy should be read in conjunction with our [Privacy Policy](https://www.mavrck.co/legal/privacypolicy/). If you have any questions or concerns about the Cookie Policy or its implementation, please contact us at 1-844-MAVRCK1 or as otherwise described in our [Privacy Policy](https://www.mavrck.co/legal/privacypolicy/).
+Our website, [app.mavrck.co](https://later.com/privacy/app.mavrck.co) (hereinafter: “the website") uses cookies and other related technologies. Note, for simplicity, all technologies are referred to as “cookies". Cookies are also placed by third parties we have engaged. In the document below we inform you about the use of cookies on our website. This Cookie Policy should be read in conjunction with our [Privacy Policy](https://www.mavrck.co/legal/privacypolicy/). If you have any questions or concerns about the Cookie Policy or its implementation, please contact us at 1-844-MAVRCK1 or as otherwise described in our [Privacy Policy](https://www.mavrck.co/legal/privacypolicy/).
 
 ### 2\. What are cookies?
 
@@ -1364,14 +1375,14 @@ We keep our Cookie Policy under regular review, and we will place any updates on
 
 For questions and/or comments about our Cookie Policy and this statement, please contact us by using the following contact details:
 
-Mavrck  
+Mavrck LLC  
 53 State Street  
 21st Floor – Suite 2105  
 Boston, MA 02109  
 United States  
-Website: [https://mavrck.co](https://mavrck.co/)Email: mavrckboston@mavrck.co  
-Phone number: 1-844-MAVRCK1  
-This Cookie Policy was synchronized with [cookiedatabase.org](https://cookiedatabase.org/) on June 10, 2022.
+Website: app.mavrck.co  
+Email: [privacy@mavrck.co](mailto:privacy@mavrck.co)  
+Phone number: 1-844-MAVRCK1
 
 [](#root)
 
@@ -1459,6 +1470,7 @@ The best social media marketing app, influencer marketing management platform & 
     Use Cases
     
     * [CPG](https://later.com/cpg-influencers/)
+    * [Food & Beverage](https://later.com/food-beverage-influencers/)
     * [E-Commerce](https://later.com/ecommerce-influencers/)
     
     Demo
