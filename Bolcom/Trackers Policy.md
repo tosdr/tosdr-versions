@@ -67,25 +67,25 @@
     * [Outlet](https://www.bol.com/nl/nl/sf/outlet/ "Outlet")
     * [Klus- en Tuinaanbiedingen](https://www.bol.com/nl/nl/cmp/klusentuinaanbiedingen/1935/ "Klus- en Tuinaanbiedingen")
     * [Retourdeals: tot 15% goedkoper \*](https://www.bol.com/nl/nl/sf/retourdeals/ "Retourdeals: tot 15% goedkoper *")
-    * [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/m/speelgoed-aanbiedingen/ "Speelgoed aanbiedingen")
-    * [Film & Muziek Acties](https://www.bol.com/nl/nl/m/games-film-muziek-acties/ "Film & Muziek Acties")
+    * [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/cmp/speelgoeddeals/1889/ "Speelgoed aanbiedingen")
+    * [Film & Muziek Acties](https://www.bol.com/nl/nl/cmp/film-en-muziekdeals/1892/ "Film & Muziek Acties")
     * [Exclusieve Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1826/ "Exclusieve Select-Deals")
     * [Gaming deals](https://www.bol.com/nl/nl/cmp/gamingdeals/1906/ "Gaming deals")
     
     * [Zomer in je bol](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/ "Zomer in je bol")
-    * [Tot 50% korting\* op zonbescherming](https://www.bol.com/nl/nl/ra/hoge-korting-op-zonbescherming/336009 "Tot 50% korting* op zonbescherming")
-    * [Korting\* op zwembaden & hottubs](https://www.bol.com/nl/nl/ra/korting-op-zwembaden-hottubs/336609 "Korting* op zwembaden & hottubs")
-    * [Hoge korting\* op camera's](https://www.bol.com/nl/nl/ra/hoge-korting-op-camera-s-/331093 "Hoge korting* op camera's")
+    * [Tot 40% korting\* op dames zomerkleding](https://www.bol.com/nl/nl/ra/korting-op-dames-zomerkleding/333058 "Tot 40% korting* op dames zomerkleding")
+    * [Korting\* op waterspeelgoed](https://www.bol.com/nl/nl/ra/korting-op-waterspeelgoed/329932 "Korting* op waterspeelgoed")
+    * [Hoge korting\* op lounge in de tuin](https://www.bol.com/nl/nl/ra/hoge-korting-op-lounge-in-de-tuin/333096 "Hoge korting* op lounge in de tuin")
     
     * [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/ "Voorraaddeals")
     * [Tot 60% korting\* op wasmiddelen & wasverzachters](https://www.bol.com/nl/nl/ra/korting-op-wasmiddel/326592 " Tot 60% korting* op wasmiddelen & wasverzachters")
-    * [Tot 50% korting\* op toiletpapier en tissues](https://www.bol.com/nl/nl/ra/hoge-korting-op-page-en-kleenex/330621 "Tot 50% korting* op toiletpapier en tissues")
-    * [Tot 25% korting\* op koffie](https://www.bol.com/nl/nl/ra/koffie/340334 "Tot 25% korting* op koffie")
+    * [50% korting\* op zonbescherming van o.a. NIVEA en Biodermal](https://www.bol.com/nl/nl/ra/hoge-korting-op-zonbescherming/309671 "50% korting* op zonbescherming van o.a. NIVEA en Biodermal")
+    * [Tot 50% korting\* op toiletpapier en keukenpapier](https://www.bol.com/nl/nl/ra/hoge-korting-op-page-en-kleenex/330621 "Tot 50% korting* op toiletpapier en keukenpapier")
     
-    * [EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/ "EK voetbal")
-    * [Hoge korting\* op televisies](https://www.bol.com/nl/nl/ra/hoge-korting-op-televisies/329802 "Hoge korting* op televisies")
-    * [Oranje feest- en verkleedartikelen](https://www.bol.com/nl/nl/ra/klaar-voor-het-ek-met-oranje-feest-en-verkleedartikelen/332343 "Oranje feest- en verkleedartikelen")
-    * [Hoge korting\* op JBL Bar 300 Pro soundbar](https://www.bol.com/nl/nl/p/jbl-bar-300-pro-soundbar-zwart/9300000112512513/ "Hoge korting* op JBL Bar 300 Pro soundbar")
+    * [Fashion sale](https://www.bol.com/nl/nl/cmp/Presale/1975/ "Fashion sale")
+    * [Tot 30% korting\* op badmode](https://www.bol.com/nl/nl/ra/tot-40-korting-op-badmode/336085 "Tot 30% korting* op badmode")
+    * [Tot 40% korting\* op korte broeken voor heren](https://www.bol.com/nl/nl/ra/tot-40-korting-herenkleding/336208+47425/4295784332 "Tot 40% korting* op korte broeken voor heren")
+    * [Tot 40% korting\* op rugzakken en reisbagage](https://www.bol.com/nl/nl/ra/tot-30-korting-op-rugzakken-en-reisbagage/334549 "Tot 40% korting* op rugzakken en reisbagage")
     
     \* op de adviesprijs
     
@@ -97,7 +97,7 @@
 * NL
     
 
-[EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/?promo=HEAD_907_Mnav_1_CRS_ekvoetbal_1)[Zomerlezengeschenk](https://www.bol.com/nl/nl/sf/lees/?promo=HEAD_907_Mnav_1_CRS_zomerlezen_2)[Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3)[Fashion sale](https://www.bol.com/nl/nl/cmp/Presale/1975/?promo=HEAD_907_Mnav_1_CRS_presale_4)[Zomerdeals](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/?promo=HEAD_907_Mnav_1_CRS_prezomer_5)
+[EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/?promo=HEAD_907_Mnav_1_CRS_ekvoetbal_1)[Zomerlezengeschenk](https://www.bol.com/nl/nl/sf/lees/?promo=HEAD_907_Mnav_1_CRS_zomerlezen_2)[Festival](https://www.bol.com/nl/nl/cmp/Festival-2024/1963/?promo=HEAD_907_Mnav_1_CRS_festival_3)[Hitte](https://www.bol.com/nl/nl/sf/hitte/?promo=HEAD_907_Mnav_1_CRS_hitte_4)[Zomerdeals](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/?promo=HEAD_907_Mnav_1_CRS_prezomer_5)
 
 Inhoudsopgave
 
