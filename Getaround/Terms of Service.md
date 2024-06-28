@@ -39,8 +39,6 @@ with trip liability insurance included
 
 4.6/5 from 100k ratings in app stores
 
-![mobile app](https://getaround-assets.gumlet.io/images/shared/illustrations/hand-ga-app-phone2-US.png?compress=true&h=748&mode=crop&w=520)
-
 Discover the new way  
 _to rent a car_
 
@@ -78,13 +76,13 @@ Available all over the United States
 
 [Las Vegas](https://www.getaround.com/car-rental/las-vegas-nv)
 
-[Phoenix](https://www.getaround.com/car-rental/phoenix-az)
+[Baltimore](https://www.getaround.com/car-rental/baltimore-md)
 
-[Washington D.C.](https://www.getaround.com/car-rental/washington-dc)
+[Houston](https://www.getaround.com/car-rental/houston-tx)
 
-[Sacramento](https://www.getaround.com/car-rental/sacramento-ca)
+[Oakland](https://www.getaround.com/car-rental/oakland-ca)
 
-[Austin](https://www.getaround.com/car-rental/austin-tx)
+[Seattle](https://www.getaround.com/car-rental/seattle-wa)
 
 ![location-us](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
@@ -104,19 +102,19 @@ Earn up to $800 per month by sharing your car with Getaround Connect.
 
 What's new
 
-[#Inspiration
+[#Owners
 
-Security and traffic perimeters during the Games
+Turn your car into a pay check
 
-Wondering how to get around Paris during the Games? Learn more about control perimeters](https://getaround.com/blog/security-traffic-perimeters-2024-olympic-games/)[#Inspiration
+Buying, insuring, and maintaining your car is expensive — but you can change that](https://getaround.com/blog/turn-your-car-into-a-pay-check/)[#Inspiration
 
-The opening ceremony of the 2024 Olympic Games
+The best San Francisco to Los Angeles road trip
 
-Coming to Paris? We've gathered all the information you need to know about the Opening Ceremony](https://getaround.com/blog/opening-ceremony-paris-2024-olympic-games/)[#Inspiration
+A direct trip can take 7 hours. There's so much to see in California, so why not make a few stops?](https://getaround.com/blog/road-trip-san-francisco-los-angeles/)[#Inspiration
 
-What are the best things to do in San Francisco?
+The 2024 Olympic Games program
 
-San Francisco offers many cultural & historical tours. Let's see why it is so famous for visitors!](https://getaround.com/blog/best-things-to-do-san-francisco/)
+If you're looking for the 2024 Olympic Games program day by day, we've got you covered](https://getaround.com/blog/2024-olympic-games-program/)
 
 Getaround car rental
 --------------------
