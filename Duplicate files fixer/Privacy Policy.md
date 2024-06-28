@@ -1,4 +1,4 @@
- [![Duplicate Files Fixer](https://cdn.systweak.com/content/wp/dff/v2/dff-logo.png "Duplicate Files Fixer")](https://www.duplicatefilesfixer.com/)![Duplicate File Fixer](https://cdn.systweak.com/content/wp/dff/v2/menu-icon.png)
+[![Duplicate Files Fixer](https://cdn.systweak.com/content/wp/dff/v2/dff-logo.webp "Duplicate Files Fixer")](https://www.duplicatefilesfixer.com/)
 
 * [Home](https://www.duplicatefilesfixer.com/ "Home")
 * Features
@@ -23,11 +23,11 @@
 * [Support](https://www.duplicatefilesfixer.com/support/ "Support")
 * [Buy Now](https://www.duplicatefilesfixer.com/price/ "Buy Now")
 
-[![Duplicate Files Fixer](https://cdn.systweak.com/content/wp/dff/v2/dff-logo-fixed.png "Duplicate Files Fixer")](https://www.duplicatefilesfixer.com/)
+[![Duplicate Files Fixer](https://cdn.systweak.com/content/wp/dff/v2/dff-logo-fixed.webp "Duplicate Files Fixer")](https://www.duplicatefilesfixer.com/)
 
  [![Duplicate Files Fixer](https://cdn.systweak.com/content/wp/dff/v2/arrow-down.svg) Download Now](https://www.duplicatefilesfixer.com/download/ "Download Now")
 
-![Privacy Policy](https://cdn.systweak.com/content/wp/dff/v2/privacy-policy.png)
+![Privacy Policy](https://cdn.systweak.com/content/wp/dff/v2/privacy-policy.webp)
 
 Privacy Policy
 ==============
@@ -111,10 +111,10 @@ We will occasionally update “Privacy Policy” as necessary to protect you to 
   
   
 
-* ![Intel Technology Provider](https://cdn.systweak.com/content/wp/dff/v2/foot-icon03.png "Intel Technology Provider")
-* ![Google Safe Browsing](https://cdn.systweak.com/content/wp/dff/v2/foot-icon04.png "Google Safe Browsing")
-* ![Trustpilot](https://cdn.systweak.com/content/wp/dff/v2/foot-icon05.png "Trustpilot")
-* ![AppEsteem Certified](https://cdn.systweak.com/content/wp/dff/v2/foot-icon07.png "AppEsteem")
+* ![Intel Technology Provider](https://cdn.systweak.com/content/wp/dff/v2/foot-icon03.webp "Intel Technology Provider")
+* ![Google Safe Browsing](https://cdn.systweak.com/content/wp/dff/v2/foot-icon04.webp "Google Safe Browsing")
+* ![Trustpilot](https://cdn.systweak.com/content/wp/dff/v2/foot-icon05.webp "Trustpilot")
+* ![AppEsteem Certified](https://cdn.systweak.com/content/wp/dff/v2/foot-icon07.svg "AppEsteem")
 
 Site Links
 ----------
@@ -153,7 +153,7 @@ Follow Us
 
 Copyright © Systweak Software All rights reserved.
 
-This website uses cookies to ensure you get the best experience on our website. [Learn more](https://www.duplicatefilesfixer.com/privacy-policy/#cookies)
+This website uses cookies to ensure you get the best experience on our website. [View Privacy Policy](https://www.duplicatefilesfixer.com/privacy-policy/#cookies)
 
 OK
 
