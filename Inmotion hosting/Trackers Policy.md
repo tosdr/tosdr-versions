@@ -5,9 +5,9 @@ Open Menu [![InMotion Hosting Logo](https://design.inmotionhosting.com/assets/lo
 * [Chat Now Start a Live Chat](javascript:void(0) "Chat Now")
 * [Call Us](javascript:void(0) "Call Us")
     
-    [1-757-416-6575](tel:+1757-416-6575 "Call 1-757-416-6575")
+    [+1 757 416 6575](tel:+17574166575 "Call +1 757 416 6575")
     
-    [44-20-4576-3722](tel:+442045763722 "Call 44-20-4576-3722")
+    [+44 2045 763722](tel:+442045763722 "Call +44 2045 763722")
     
 * [Visit Our Support Center](https://www.inmotionhosting.com/support/ "Support")
 * [0 Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
@@ -57,8 +57,8 @@ Close Menu Main Menu
     
 
 * [Start a Live Chat](javascript:void(0) "Sales Chat")
-* [757-416-6575](tel:+1757-416-6575 "Call 757.416.6575")
-* [44-20-4576-3722](tel:+442045763722 "Call 44.20.4576.3722")
+* [+1 757 416 6575](tel:+1757-416-6575 "Call 757.416.6575")
+* [+44 2045 763722](tel:+442045763722 "Call 44.20.4576.3722")
 * [](javascript:void(0) "Call Us")
     
     [1-757-416-6575](tel:+1757-416-6575 "Call 1-757-416-6575")
@@ -190,8 +190,8 @@ Hosting Tools
 Support
 
 * Live Chat
-* [757-416-6575](tel:+1757-416-6575)
-* [44-20-4576-3722](tel:+442045763722)
+* [+1 757 416 6575](tel:+17574166575)
+* [+44 2045 763722](tel:+442045763722)
 * [Support Center](https://www.inmotionhosting.com/support/)
 * [Community Support](https://www.inmotionhosting.com/support/questions/)
 * [WordPress Tutorials](https://www.inmotionhosting.com/support/edu/wordpress/)
