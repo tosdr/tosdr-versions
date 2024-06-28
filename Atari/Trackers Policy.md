@@ -653,7 +653,19 @@ For general questions, contact us at [support@atari.com](mailto:support@atari.c
 
 ##### Anything Else ?
 
-[![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
+[![CX40+ Joystick](files/ProductImage-A_1_e56ae0f0-3526-4f45-b93a-df2994106fa2.jpg)
+
+![CX40+ Joystick](files/ProductImage-BV2.jpg)
+
+Available Worldwide
+
+##### CX40+ Joystick
+
+Regular price Sale price $24.99
+
+Regular price $24.99
+
+Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
 
@@ -661,9 +673,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99
-
 Regular price $39.99 Sale price $39.99
+
+Regular price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) [![Atari Distressed Logo Tee](products/ATRI103D-AT.png)
 
@@ -673,9 +685,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $30
-
 Regular price $30 Sale price $30.00
+
+Regular price $30
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       [![Atari Katakana Logo Hoodie](products/ATRI189-AFTH.png)
 
@@ -683,9 +695,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $48
-
 Regular price $48 Sale price $48.00
+
+Regular price $48
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
@@ -717,9 +729,9 @@ Available Worldwide
 
 ##### CX40+ Joystick
 
-Regular price $24.99
-
 Regular price Sale price $24.99
+
+Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -731,9 +743,9 @@ Available Worldwide
 
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99
-
 Regular price $39.99 Sale price $39.99
+
+Regular price $39.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -745,9 +757,9 @@ USA Exclusive
 
 ##### Atari Distressed Logo Tee
 
-Regular price $30
-
 Regular price $30 Sale price $30.00
+
+Regular price $30
 
 Unit price /  per](https://www.atari.com/products/atari-distressed-logo-tee)       
 
@@ -757,9 +769,9 @@ USA Exclusive
 
 ##### Atari Katakana Logo Hoodie
 
-Regular price $48
-
 Regular price $48 Sale price $48.00
+
+Regular price $48
 
 Unit price /  per](https://www.atari.com/products/atari-kanji-logo-hoodie) 
 
