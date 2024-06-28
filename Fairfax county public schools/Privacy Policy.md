@@ -792,7 +792,7 @@ Full Menu
         * [Substance Webinar](https://www.fcps.edu/resources/student-safety-and-wellness/substance-webinar)
         * [Virginia Department of Health (VDOH) Youth Survey](https://www.fcps.edu/family-resources/student-safety-and-wellness/virginia-department-health-vdoh-youth-survey)
         * [Virginia School Climate Survey Information](https://www.fcps.edu/family-resources/student-safety-and-wellness/virginia-school-climate-survey-information)
-        * [Wellness Leadership](https://www.fcps.edu/resources/student-safety-and-wellness/wellness-leadership)
+        * [Wellness Leadership](https://www.fcps.edu/family-resources/student-safety-and-wellness/wellness-leadership)
         * [Fairfax County Youth Survey](https://www.fcps.edu/resources/student-safety-and-wellness/youth-survey)
         * [Gang Prevention and Education](https://www.fcps.edu/family-resources/student-safety-and-wellness/gang-prevention-and-education)
         * [Bullying Prevention and Intervention](https://www.fcps.edu/resources/student-safety-and-wellness/bullying-prevention-and-intervention "Bullying Prevention and Intervention")
@@ -1016,11 +1016,11 @@ Full Menu
 [Fairfax County Public Schools
 =============================](https://www.fcps.edu/ "Home")
 
-![](https://openweathermap.org/img/wn/02d.png)
+![](https://openweathermap.org/img/wn/03d.png)
 
-91°F
+68°F
 
-Few clouds
+Scattered clouds
 
 * [Alerts](https://www.fcps.edu/alerts)
 
