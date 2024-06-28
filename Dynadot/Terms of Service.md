@@ -4,7 +4,7 @@
 
 Voulez-vous Dynadot enfrançais?[OUI](https://www.dynadot.com/fr/terms-of-use)
 
-[⚡️ FLASH SALE ⚡️ Register 1st year .NET domains for only $3.49 with coupon code FLASHYNET until 6/21/2024 23:59 EST!](https://www.dynadot.com/domain/net?utm_source=Promobar&utm_campaign=NET%20Promobar%20June%202024&utm_medium=net%20flash&drefid=4532) [Bring people together online with a .CO domain for $3.29 or a .CLUB domain for $1.99 until 6/23/2024!](https://www.dynadot.com/exclusive-flash-sales?utm_source=Promobar&utm_campaign=CO%20CLUB%20Promobar%20June%202024&utm_medium=co%20club%20flash&drefid=4511)
+[Last chance to save on .INC! Get 25% off registrations and renewals with code INC25OFF and RENEW25INC until 6/30/2024.](https://www.dynadot.com/domain/inc?utm_source=Promobar&utm_campaign=INC%20Promobar%20June%202024&utm_medium=inc&drefid=4514) [Share your creations online by registering a .DESIGN domain for $3.99 or a .BIZ domain for $4.49 until 6/30/2024!](https://www.dynadot.com/exclusive-flash-sales?utm_source=Promobar&utm_campaign=DESIGN%20BIZ%20Promobar%20June%202024&utm_medium=design%20biz%20flash&drefid=4512)
 
 EN
 
@@ -122,7 +122,7 @@ Support
 
 Help Center
 
-**Chat** : Busy
+**Chat** : Online
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -269,7 +269,7 @@ Support
 
 Help Center
 
-Chat: Busy
+Chat: Online
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
