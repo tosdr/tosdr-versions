@@ -21,7 +21,7 @@ Search
         * [Business VPN](https://www.comparitech.com/blog/vpn-privacy/business-vpn/)
         * [Netflix](https://www.comparitech.com/blog/vpn-privacy/netflix-vpn-unblock-proxy-error/)
         * [Kodi](https://www.comparitech.com/blog/vpn-privacy/best-vpn-kodi/)
-        * [Torrenting](https://www.comparitech.com/blog/vpn-privacy/best-vpns-for-torrenting-and-p2p-filesharing/)
+        * [Torrenting](https://www.comparitech.com/blog/vpn-privacy/vpn-torrenting/)
         * [Hulu](https://www.comparitech.com/blog/vpn-privacy/hulu-vpn-blocked-5-best-vpns-that-work-with-hulu/)
         * [Sky Go](https://www.comparitech.com/blog/vpn-privacy/unblock-and-watch-sky-go-abroad-with-a-vpn-dns/)
         * [Gaming](https://www.comparitech.com/blog/vpn-privacy/best-vpns-for-gaming/)
