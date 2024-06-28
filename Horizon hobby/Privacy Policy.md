@@ -1,12 +1,10 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Axialfest Sale** Save up to $200! [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+**Save up to $200!** Ends in: [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
 
  
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf532906d/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 Search Name or Part Number
 
@@ -41,11 +39,11 @@ My Account
 * [Order Status](https://www.horizonhobby.com/orderstatus)
 * [View My Points](https://www.horizonhobby.com/rcclub?rurl=6)
 
-  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0
+  ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwa86ca990/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw284d4afd/images/new-cart-icon-hover.svg) 0
 
 Cart
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwa86ca990/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw284d4afd/images/new-cart-icon-hover.svg) 0
 
 Cart](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
@@ -71,7 +69,7 @@ water
 
 [Shop Boats](https://www.horizonhobby.com/boats/)
 
-  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dweb6162df/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwe4f37649/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
+  [![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dwa86ca990/images/new-cart-icon.svg) ![mini cart](/on/demandware.static/Sites-horizon-us-Site/-/default/dw284d4afd/images/new-cart-icon-hover.svg) 0](https://www.horizonhobby.com/cart "Cart 0 Item(s)")
 
 [My store
 
@@ -79,17 +77,15 @@ Select A Store](javascript:void(0))
 
 My store
 
-![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)
+![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf532906d/images/horizon-hobby-logo-blue.svg)
 
 [icon-arrow-white Back](#)
 
-[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dw9fd267a2/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
+[![Horizon Hobby](/on/demandware.static/Sites-horizon-us-Site/-/default/dwf532906d/images/horizon-hobby-logo-blue.svg)](https://www.horizonhobby.com/ "Horizon Hobby Home")
 
 [](#)
 
-**Axialfest Sale** Save up to $200! [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
-
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+**Save up to $200!** Ends in: [Shop Now](https://www.horizonhobby.com/axialfest-sale/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -925,7 +921,7 @@ Be the first to know about new products, deals, and events.
 
 10% discount does not apply to E-Gift Cards or discounted items.
 
-_\*Some exclusions may apply._
+_\*Some exclusions may apply. First time subscribers only. Your discount code will be emailed to you._
 
  SIGN UP
 
