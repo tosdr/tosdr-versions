@@ -330,11 +330,11 @@ Update für die offene Beta der neuen Homematic IP App](https://homematic-ip.com
 
 [Jun.
 
-20-22
+27-29
 
 Event
 
-BAUHAUS Leipzig: Faszination Smart-Home live erleben - im Homematic IP Roadshow-Truck.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-06-20-bauhaus-leipzig)
+BAUHAUS Wildau: Faszination Smart-Home live erleben - im Homematic IP Roadshow-Truck.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-06-27-bauhaus-wildau)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/datenschutz-app)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/data-protection-app)
