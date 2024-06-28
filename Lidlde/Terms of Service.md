@@ -18,6 +18,10 @@
         
         Noch kein Konto bei Lidl?[Ganz einfach dein Konto erstellen!](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
         
+        * [Meine Bestellungen](https://www.lidl.de/css/order-history)
+        * [Zugangsdaten](https://www.lidl.de/css/manage-account/access-data)
+        * [Meine Daten](https://www.lidl.de/css/manage-account/addresses)
+        
 8. 1. [](https://www.lidl.de/otc/cart)
     
 
@@ -41,7 +45,7 @@ Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
 2. [Garten-Welt](https://www.lidl.de/c/garten-welt/s10037956)
-3. [Filial-Angebote](https://www.lidl.de/c/fussballfest-ab-17-06/a10048392?tabCode=Current_Sales_Week)
+3. [Filial-Angebote](https://www.lidl.de/c/xxl-ab-24-06/a10048766?tabCode=Current_Sales_Week)
 4. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
 5. [Sale](https://www.lidl.de/q/query/supersale)
 6. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
@@ -68,7 +72,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/fussballfest-ab-17-06/a10048392?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/xxl-ab-24-06/a10048766?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
@@ -79,11 +83,10 @@ Main Navigation[Zurück](#)
 9. [Eigenmarken Food](https://www.lidl.de/c/eigenmarken-food/s10007656)
 
 1. [Lidl PlusÖffnen](https://www.lidl.de/c/lidl-plus/s10007388)
-2. [Lidl Plus Gewinnspiel](https://www.lidl.de/c/lidl-plus-gewinnspiel/s10007516)
-3. [Wie funktioniert Lidl Plus](https://www.lidl.de/c/wie-funktioniert-lidl-plus/s10011363)
-4. [Lidl Babyboxen](https://www.lidl.de/c/lidl-babyboxen/s10011221)
-5. [Services](https://www.lidl.de/c/services/s10007279)
-6. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
+2. [Wie funktioniert Lidl Plus](https://www.lidl.de/c/wie-funktioniert-lidl-plus/s10011363)
+3. [Lidl Babyboxen](https://www.lidl.de/c/lidl-babyboxen/s10011221)
+4. [Services](https://www.lidl.de/c/services/s10007279)
+5. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
 
 1. [ThemenweltenÖffnen](https://www.lidl.de/c/themenwelten/s10007142)
 2. [Lidl Live](https://www.lidl.de/c/lidl-live/s10007981)
