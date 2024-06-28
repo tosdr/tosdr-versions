@@ -141,8 +141,8 @@ Corporate Engagement
 
 Bletchley Park offers a range of exclusive opportunities for companies. We can work with your business to deliver tailored benefits designed to meet your objectives.
 
-Learning, virtual & outreach Sessions
--------------------------------------
+Learning visits & outreach Sessions
+-----------------------------------
 
 We offer award-winning learning sessions tailored to pupils of any age.
 
