@@ -5,6 +5,7 @@
 End of search dropdown.
 
 * [Hej! Log in or sign up](https://www.ikea.com/us/en/profile/login/) [Hej!](https://www.ikea.com/us/en/profile/login/) [IK Hej {{firstName}}!](https://www.ikea.com/us/en/profile/login/)
+* EN
 * [Track order](https://www.ikea.com/us/en/customer-service/track-manage-order/)
 * [Favorites](https://www.ikea.com/us/en/favorites/)
 * [Shopping bag](https://www.ikea.com/us/en/shoppingcart/)
@@ -20,6 +21,10 @@ Close menu
 * [Design & planning](https://www.ikea.com/us/en/planners/)
 * [Deals](https://www.ikea.com/us/en/offers/)
 * [Services & support](https://www.ikea.com/us/en/customer-service/services/)
+
+Select your preferred language
+
+EnglishEspañol
 
 You’re viewing the United States ikea.com[Change country/region](https://www.ikea.com/)
 
