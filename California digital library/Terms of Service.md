@@ -122,7 +122,7 @@ University of California
 1111 Franklin Street  
 Oakland, CA 94607
 
-Please note that the information provided in the written notification may be forwarded to the person responsible for the allegedly infringing activity. The notification will also be sent to the [Lumen database](https://www.lumendatabase.org/) (https://www.lumendatabase.org/). Lumen will remove personal contact information like street addresses before adding the notification to its publicly accessible database.
+Please note that the information provided in the written notification may be forwarded to the person responsible for the allegedly infringing activity. The notification will also be sent to the [Lumen database](https://www.lumendatabase.org/ "Lumen database (link to external stie)") (https://www.lumendatabase.org/). Lumen will remove personal contact information like street addresses before adding the notification to its publicly accessible database.
 
 Also note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability for damages. Don’t make false claims!
 
@@ -157,7 +157,7 @@ The text of this site is licensed under a Creative Commons Attribution 4.0 Inter
 
 Terms:
 
-* [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) – Anyone can distribute, adapt, and build upon a work, even commercially, as long as they give credit for the original creation. When reusing site content under this license, please provide attribution to California Digital Library, a link to the source, and a link to [the license deed on the Creative Commons site](https://creativecommons.org/licenses/by/4.0/).
+* [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/ "Attribution 4.0 International (CC BY 4.0) (link to external stie)") – Anyone can distribute, adapt, and build upon a work, even commercially, as long as they give credit for the original creation. When reusing site content under this license, please provide attribution to California Digital Library, a link to the source, and a link to [the license deed on the Creative Commons site](https://creativecommons.org/licenses/by/4.0/ "the license deed on the Creative Commons site (link to external stie)").
 * What’s included: the text of the pages and blog posts created by UC employees for use on this site and rendered in HTML. Look for the Creative Commons license in the footer.
 * What’s not included: Content for which UC does not own copyright, and hosted or embedded content like images, PDFs, or Word Documents. This site contains a wide range of works, not all of which are appropriate for a CC license. If something you would like to share or adapt is not covered by the license, contact us and we may be able to add a CC license to it, or give you separate permission.
 
