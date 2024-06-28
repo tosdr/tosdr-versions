@@ -8,7 +8,7 @@
 
 [Series](https://www.cricbuzz.com/cricket-schedule/series)
 
-[ICC Mens T20 World Cup 2024](https://www.cricbuzz.com/cricket-series/7476/icc-mens-t20-world-cup-2024 "ICC Mens T20 World Cup 2024") [Indian Premier League 2024](https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024 "Indian Premier League 2024") [India tour of Zimbabwe, 2024](https://www.cricbuzz.com/cricket-series/7546/india-tour-of-zimbabwe-2024 "India tour of Zimbabwe, 2024") [T20 Blast 2024](https://www.cricbuzz.com/cricket-series/7336/t20-blast-2024 "T20 Blast 2024") [Major League Cricket 2024](https://www.cricbuzz.com/cricket-series/8098/major-league-cricket-2024 "Major League Cricket 2024") [The Hundred Mens Competition 2024](https://www.cricbuzz.com/cricket-series/7525/the-hundred-mens-competition-2024 "The Hundred Mens Competition 2024") [West Indies tour of England, 2024](https://www.cricbuzz.com/cricket-series/6780/west-indies-tour-of-england-2024 "West Indies tour of England, 2024") [South Africa Women tour of India, 2024](https://www.cricbuzz.com/cricket-series/8069/south-africa-women-tour-of-india-2024 "South Africa Women tour of India, 2024") [Womens Asia Cup T20, 2024](https://www.cricbuzz.com/cricket-series/7765/womens-asia-cup-t20-2024 "Womens Asia Cup T20, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series)
+[ICC Mens T20 World Cup 2024](https://www.cricbuzz.com/cricket-series/7476/icc-mens-t20-world-cup-2024 "ICC Mens T20 World Cup 2024") [Indian Premier League 2024](https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024 "Indian Premier League 2024") [Balkan Cup 2020](https://www.cricbuzz.com/cricket-series/8440/balkan-cup-2020 "Balkan Cup 2020") [India tour of Zimbabwe, 2024](https://www.cricbuzz.com/cricket-series/7546/india-tour-of-zimbabwe-2024 "India tour of Zimbabwe, 2024") [T20 Blast 2024](https://www.cricbuzz.com/cricket-series/7336/t20-blast-2024 "T20 Blast 2024") [Major League Cricket 2024](https://www.cricbuzz.com/cricket-series/8098/major-league-cricket-2024 "Major League Cricket 2024") [The Hundred Mens Competition 2024](https://www.cricbuzz.com/cricket-series/7525/the-hundred-mens-competition-2024 "The Hundred Mens Competition 2024") [West Indies tour of England, 2024](https://www.cricbuzz.com/cricket-series/6780/west-indies-tour-of-england-2024 "West Indies tour of England, 2024") [South Africa Women tour of India, 2024](https://www.cricbuzz.com/cricket-series/8069/south-africa-women-tour-of-india-2024 "South Africa Women tour of India, 2024") [Womens Asia Cup T20, 2024](https://www.cricbuzz.com/cricket-series/7765/womens-asia-cup-t20-2024 "Womens Asia Cup T20, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series)
 
 [Teams](https://www.cricbuzz.com/cricket-team)
 
@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs ENG - RSA Won](https://www.cricbuzz.com/live-cricket-scores/87808/rsa-vs-eng-45th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "South Africa v England, 45th Match, Super 8 Group 2 - RSA Won")[USA vs WI - Preview](https://www.cricbuzz.com/live-cricket-scores/87815/usa-vs-wi-46th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v West Indies, 46th Match, Super 8 Group 2 - Preview")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/87822/ind-vs-ban-47th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Bangladesh, 47th Match, Super 8 Group 1 - Preview")[BAN vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/87801/ban-vs-aus-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Bangladesh v Australia, 44th Match, Super 8 Group 1 - AUS Won")[IND vs AFG - IND Won](https://www.cricbuzz.com/live-cricket-scores/87794/ind-vs-afg-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Afghanistan, 43rd Match, Super 8 Group 1 - IND Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[INDW vs RSAW - Tea](https://www.cricbuzz.com/live-cricket-scores/94514/indw-vs-rsaw-one-off-test-south-africa-women-tour-of-india-2024 "India Women v South Africa Women, One-off Test - Tea")[IND vs ENG - IND Won](https://www.cricbuzz.com/live-cricket-scores/87871/ind-vs-eng-semi-final-2-icc-mens-t20-world-cup-2024 "India v England, Semi Final 2 - IND Won")[SLW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/96296/slw-vs-wiw-3rd-t20i-west-indies-women-tour-of-sri-lanka-2024 "Sri Lanka Women v West Indies Women, 3rd T20I - WIW Won")[AFG vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/87864/afg-vs-rsa-semi-final-1-icc-mens-t20-world-cup-2024 "Afghanistan v South Africa, Semi Final 1 - RSA Won")[AFG vs BAN - AFG Won](https://www.cricbuzz.com/live-cricket-scores/87857/afg-vs-ban-52nd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Afghanistan v Bangladesh, 52nd Match, Super 8 Group 1 - AFG Won")
 
 AllLive NowToday
 
@@ -56,153 +56,121 @@ AllLive NowToday
     
     ICC Mens T20 World Cup 2024
     
-    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/87787/wi-vs-eng-42nd-match-super-8-group-2-icc-mens-t20-world-cup-2024 "West Indies v England, 42nd Match, Super 8 Group 2 - ENG Won")
+    [Afghanistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/87864/afg-vs-rsa-semi-final-1-icc-mens-t20-world-cup-2024 "Afghanistan v South Africa, Semi Final 1 - RSA Won")
     
-    42nd Match, Super 8 Group 2
+    Semi Final 1
     
-* [India vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/87794/ind-vs-afg-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Afghanistan, 43rd Match, Super 8 Group 1 - IND Won")
+* [India vs England](https://www.cricbuzz.com/live-cricket-scores/87871/ind-vs-eng-semi-final-2-icc-mens-t20-world-cup-2024 "India v England, Semi Final 2 - IND Won")
     
-    43rd Match, Super 8 Group 1
+    Semi Final 2
     
-* [Bangladesh vs Australia](https://www.cricbuzz.com/live-cricket-scores/87801/ban-vs-aus-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Bangladesh v Australia, 44th Match, Super 8 Group 1 - AUS Won")
+* [South Africa vs India](https://www.cricbuzz.com/live-cricket-scores/87878/rsa-vs-ind-final-icc-mens-t20-world-cup-2024 "South Africa v India, Final - Upcoming")
     
-    44th Match, Super 8 Group 1
+    Final
     
-* [South Africa vs England](https://www.cricbuzz.com/live-cricket-scores/87808/rsa-vs-eng-45th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "South Africa v England, 45th Match, Super 8 Group 2 - RSA Won")
+* Serbia tour of Slovenia, 2024
     
-    45th Match, Super 8 Group 2
+    [Slovenia vs Serbia](https://www.cricbuzz.com/live-cricket-scores/100409/slv-vs-srb-1st-t20i-serbia-tour-of-slovenia-2024 "Slovenia v Serbia, 1st T20I - Upcoming")
     
-* [United States vs West Indies](https://www.cricbuzz.com/live-cricket-scores/87815/usa-vs-wi-46th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v West Indies, 46th Match, Super 8 Group 2 - Preview")
+    1st T20I
     
-    46th Match, Super 8 Group 2
+* [Slovenia vs Serbia](https://www.cricbuzz.com/live-cricket-scores/100418/slv-vs-srb-2nd-t20i-serbia-tour-of-slovenia-2024 "Slovenia v Serbia, 2nd T20I - Upcoming")
     
-* [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/87822/ind-vs-ban-47th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Bangladesh, 47th Match, Super 8 Group 1 - Preview")
+    2nd T20I
     
-    47th Match, Super 8 Group 1
+* [Slovenia vs Serbia](https://www.cricbuzz.com/live-cricket-scores/100425/slv-vs-srb-3rd-t20i-serbia-tour-of-slovenia-2024 "Slovenia v Serbia, 3rd T20I - Upcoming")
     
-* [Afghanistan vs Australia](https://www.cricbuzz.com/live-cricket-scores/87829/afg-vs-aus-48th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Afghanistan v Australia, 48th Match, Super 8 Group 1 - Upcoming")
+    3rd T20I
     
-    48th Match, Super 8 Group 1
+* Kenya Quadrangular Cup 2024
     
-* [United States vs England](https://www.cricbuzz.com/live-cricket-scores/87836/usa-vs-eng-49th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v England, 49th Match, Super 8 Group 2 - Upcoming")
+    [Kenya vs Zambia](https://www.cricbuzz.com/live-cricket-scores/99120/ken-vs-zmb-1st-match-kenya-quadrangular-cup-2024 "Kenya v Zambia, 1st Match - Preview")
     
-    49th Match, Super 8 Group 2
+    1st Match
     
-* T20 LEAGUE
+* [Rwanda vs Malawi](https://www.cricbuzz.com/live-cricket-scores/99122/rwa-vs-mwi-2nd-match-kenya-quadrangular-cup-2024 "Rwanda v Malawi, 2nd Match - Preview")
     
-    T20 Blast
+    2nd Match
     
-    [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/84742/glam-vs-gloucs-south-group-t20-blast "Glamorgan v Gloucestershire, South Group - GLOUCS Won")
+* [Malawi vs Zambia](https://www.cricbuzz.com/live-cricket-scores/99129/mwi-vs-zmb-3rd-match-kenya-quadrangular-cup-2024 "Malawi v Zambia, 3rd Match - Upcoming")
     
-    South Group
+    3rd Match
     
-* [Surrey vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/84728/sur-vs-mdx-south-group-t20-blast "Surrey v Middlesex, South Group - SUR Won")
+* [Kenya vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/99138/ken-vs-rwa-4th-match-kenya-quadrangular-cup-2024 "Kenya v Rwanda, 4th Match - Upcoming")
     
-    South Group
+    4th Match
     
-* [Sussex vs Kent](https://www.cricbuzz.com/live-cricket-scores/84763/sus-vs-kent-south-group-t20-blast "Sussex v Kent, South Group - SUS Won")
+* [Kenya vs Malawi](https://www.cricbuzz.com/live-cricket-scores/99147/ken-vs-mwi-5th-match-kenya-quadrangular-cup-2024 "Kenya v Malawi, 5th Match - Upcoming")
     
-    South Group
-    
-* [Hampshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84756/ham-vs-ess-south-group-t20-blast "Hampshire v Essex, South Group - ESS Won")
-    
-    South Group
-    
-* [Warwickshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/84749/warks-vs-nhnts-north-group-t20-blast "Warwickshire v Northamptonshire, North Group - WARKS Won")
-    
-    North Group
-    
-* [Yorkshire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84735/yorks-vs-lancs-north-group-t20-blast "Yorkshire v Lancashire, North Group - YORKS Won")
-    
-    North Group
-    
-* [Worcestershire vs Warwickshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84770/worcs-vs-warks-north-group-t20-blast "Worcestershire v Warwickshire, North Group - Live")
-    
-    North Group
-    
-* [Somerset vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/84784/som-vs-gloucs-south-group-t20-blast "Somerset v Gloucestershire, South Group - Ings Break")
-    
-    South Group
-    
-* [Durham vs Yorkshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84777/dur-vs-yorks-north-group-t20-blast "Durham v Yorkshire, North Group - Live")
-    
-    North Group
-    
-* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/84812/nhnts-vs-leic-north-group-t20-blast "Northamptonshire v Leicestershire, North Group - Ings Break")
-    
-    North Group
-    
-* [Nottinghamshire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/84805/notts-vs-derby-north-group-t20-blast "Nottinghamshire v Derbyshire, North Group - Ings Break")
-    
-    North Group
-    
-* [Glamorgan vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84798/glam-vs-sur-south-group-t20-blast "Glamorgan v Surrey, South Group - Ings Break")
-    
-    South Group
-    
-* [Kent vs Essex](https://www.cricbuzz.com/live-cricket-scores/84791/kent-vs-ess-south-group-t20-blast "Kent v Essex, South Group - Ings Break")
-    
-    South Group
-    
-* [Sussex vs Hampshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84819/sus-vs-ham-south-group-t20-blast "Sussex v Hampshire, South Group - Live")
-    
-    South Group
+    5th Match
     
 * DOMESTIC
     
     County Division 1
     
-    [Nottinghamshire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84359/notts-vs-som-38th-match-county-division-1 "Nottinghamshire v Somerset, 38th Match - Upcoming")
-    
-    38th Match
-    
-* [Kent vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84352/kent-vs-lancs-37th-match-county-division-1 "Kent v Lancashire, 37th Match - Upcoming")
-    
-    37th Match
-    
-* [Essex vs Durham](https://www.cricbuzz.com/live-cricket-scores/84348/ess-vs-dur-36th-match-county-division-1 "Essex v Durham, 36th Match - Upcoming")
-    
-    36th Match
-    
-* [Worcestershire vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84369/worcs-vs-sur-40th-match-county-division-1 "Worcestershire v Surrey, 40th Match - Upcoming")
+    [Surrey vs Worcestershire](https://www.cricbuzz.com/live-cricket-scores/84369/sur-vs-worcs-40th-match-county-division-1 "Surrey v Worcestershire, 40th Match - SUR Won")
     
     40th Match
     
-* [Warwickshire vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84366/warks-vs-ham-39th-match-county-division-1 "Warwickshire v Hampshire, 39th Match - Upcoming")
+* [Hampshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/84366/ham-vs-warks-39th-match-county-division-1 "Hampshire v Warwickshire, 39th Match - Match drawn")
     
     39th Match
     
+* [Nottinghamshire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84359/notts-vs-som-38th-match-county-division-1 "Nottinghamshire v Somerset, 38th Match - Match drawn")
+    
+    38th Match
+    
+* [Kent vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84352/kent-vs-lancs-37th-match-county-division-1 "Kent v Lancashire, 37th Match - LANCS Won")
+    
+    37th Match
+    
+* [Durham vs Essex](https://www.cricbuzz.com/live-cricket-scores/84348/dur-vs-ess-36th-match-county-division-1 "Durham v Essex, 36th Match - Match drawn")
+    
+    36th Match
+    
 * County Division 2
     
-    [Yorkshire vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85440/yorks-vs-gloucs-32nd-match-county-division-2 "Yorkshire v Gloucestershire, 32nd Match - Upcoming")
+    [Yorkshire vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85440/yorks-vs-gloucs-32nd-match-county-division-2 "Yorkshire v Gloucestershire, 32nd Match - YORKS Won")
     
     32nd Match
     
-* [Sussex vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85437/sus-vs-leic-31st-match-county-division-2 "Sussex v Leicestershire, 31st Match - Upcoming")
+* [Sussex vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85437/sus-vs-leic-31st-match-county-division-2 "Sussex v Leicestershire, 31st Match - SUS Won")
     
     31st Match
     
-* [Middlesex vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85433/mdx-vs-derby-30th-match-county-division-2 "Middlesex v Derbyshire, 30th Match - Upcoming")
+* [Middlesex vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85433/mdx-vs-derby-30th-match-county-division-2 "Middlesex v Derbyshire, 30th Match - MDX Won")
     
     30th Match
     
-* [Glamorgan vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85430/glam-vs-nhnts-29th-match-county-division-2 "Glamorgan v Northamptonshire, 29th Match - Upcoming")
+* [Northamptonshire vs Glamorgan](https://www.cricbuzz.com/live-cricket-scores/85430/nhnts-vs-glam-29th-match-county-division-2 "Northamptonshire v Glamorgan, 29th Match - Match drawn")
     
     29th Match
+    
+* SL U-19 tour of ENG, 2024
+    
+    [England U19 vs Sri Lanka U19](https://www.cricbuzz.com/live-cricket-scores/89455/engu19-vs-slu19-1st-youth-odi-sl-u-19-tour-of-eng-2024 "England U19 v Sri Lanka U19, 1st Youth ODI - Upcoming")
+    
+    1st Youth ODI
     
 * WOMEN
     
     India Women v South Africa Women, 2024
     
-    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94505/indw-vs-rsaw-3rd-odi-icc-championship-match-india-women-v-south-africa-women-2024 "India Women v South Africa Women, 3rd ODI (ICC Championship Match) - Upcoming")
+    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94514/indw-vs-rsaw-one-off-test-india-women-v-south-africa-women-2024 "India Women v South Africa Women, One-off Test - Tea")
     
-    3rd ODI (ICC Championship Match)
+    One-off Test
     
 * Sri Lanka Women v West Indies Women
     
-    [Sri Lanka Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/96269/slw-vs-wiw-3rd-odi-icc-championship-match-sri-lanka-women-v-west-indies-women "Sri Lanka Women v West Indies Women, 3rd ODI (ICC Championship Match) - SLW Won")
+    [Sri Lanka Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/96296/slw-vs-wiw-3rd-t20i-sri-lanka-women-v-west-indies-women "Sri Lanka Women v West Indies Women, 3rd T20I - WIW Won")
     
-    3rd ODI (ICC Championship Match)
+    3rd T20I
+    
+* ENGW v NZW, 2024
+    
+    [New Zealand Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/76626/nzw-vs-engw-1st-odi-engw-v-nzw-2024 "New Zealand Women v England Women, 1st ODI - ENGW Won")
+    
+    1st ODI
     
 
 Privacy Policy
@@ -511,41 +479,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/130818/buttler-not-always-a-nice-man-to-know "Buttler, not always a nice man to know")
+  [](https://www.cricbuzz.com/cricket-news/130891/buttler-admits-tactical-mistake-in-not-bowling-moeen-ali "Buttler admits tactical mistake in not bowling Moeen Ali")
 
-[Buttler, not always a nice man to know](https://www.cricbuzz.com/cricket-news/130818/buttler-not-always-a-nice-man-to-know "Buttler, not always a nice man to know")
+[Buttler admits tactical mistake in not bowling Moeen Ali](https://www.cricbuzz.com/cricket-news/130891/buttler-admits-tactical-mistake-in-not-bowling-moeen-ali "Buttler admits tactical mistake in not bowling Moeen Ali")
 
-22m ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130817/athapaththu-nisansala-power-sls-cleansweep-of-odis-against-wi "Athapaththu, Nisansala power SL's cleansweep of ODIs against WI")
+  [](https://www.cricbuzz.com/cricket-news/130890/kpis-for-body-language-hot-spots-evaluation-how-afghanistan-are-getting-better-in-the-field "KPIs for body language, hot spots evaluation: How Afghanistan are getting better in the field")
 
-[Athapaththu, Nisansala power SL's cleansweep of ODIs against WI](https://www.cricbuzz.com/cricket-news/130817/athapaththu-nisansala-power-sls-cleansweep-of-odis-against-wi "Athapaththu, Nisansala power SL's cleansweep of ODIs against WI")
+[KPIs for body language, hot spots evaluation: How Afghanistan are getting better in the field](https://www.cricbuzz.com/cricket-news/130890/kpis-for-body-language-hot-spots-evaluation-how-afghanistan-are-getting-better-in-the-field "KPIs for body language, hot spots evaluation: How Afghanistan are getting better in the field")
 
-3h ago
+7h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130816/bangladesh-remain-unsure-about-afghanistan-tour "Bangladesh remain unsure about Afghanistan series")
+  [](https://www.cricbuzz.com/cricket-news/130889/india-fly-with-a-vice-like-grip-on-conditions "India fly with a vice-like grip on conditions")
 
-[Bangladesh remain unsure about Afghanistan series](https://www.cricbuzz.com/cricket-news/130816/bangladesh-remain-unsure-about-afghanistan-tour "Bangladesh remain unsure about Afghanistan series")
+[India fly with a vice-like grip on conditions](https://www.cricbuzz.com/cricket-news/130889/india-fly-with-a-vice-like-grip-on-conditions "India fly with a vice-like grip on conditions")
 
-4h ago
+7h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130815/openers-in-focus-as-india-look-to-close-in-on-semis-berth "Openers in focus as India look to close in on semis berth")
+  [](https://www.cricbuzz.com/cricket-news/130888/rohit-axar-kuldeep-star-in-crushing-win-as-india-storm-into-final "Rohit, Axar, Kuldeep star in crushing win as India storm into final")
 
-[Openers in focus as India look to close in on semis berth](https://www.cricbuzz.com/cricket-news/130815/openers-in-focus-as-india-look-to-close-in-on-semis-berth "Openers in focus as India look to close in on semis berth")
+[Rohit, Axar, Kuldeep star in crushing win as India storm into final](https://www.cricbuzz.com/cricket-news/130888/rohit-axar-kuldeep-star-in-crushing-win-as-india-storm-into-final "Rohit, Axar, Kuldeep star in crushing win as India storm into final")
 
-6h ago
+12h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130814/russell-narine-and-warner-headline-ilt20s-retention-list "Russell, Narine and Warner headline ILT20's retention list")
+  [](https://www.cricbuzz.com/cricket-news/130887/south-africa-are-in-the-final-who-knew "South Africa are in the final? Who knew?")
 
-[Russell, Narine and Warner headline ILT20's retention list](https://www.cricbuzz.com/cricket-news/130814/russell-narine-and-warner-headline-ilt20s-retention-list "Russell, Narine and Warner headline ILT20's retention list")
+[South Africa are in the final? Who knew?](https://www.cricbuzz.com/cricket-news/130887/south-africa-are-in-the-final-who-knew "South Africa are in the final? Who knew?")
 
-6h ago
+15h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130813/india-to-tour-south-africa-for-short-t20i-series-in-november "India to tour South Africa for short T20I series in November")
+  [](https://www.cricbuzz.com/cricket-news/130886/bcb-to-provide-nocs-to-contracted-players-after-afghanistan-series-postponement "BCB to provide NOCs to contracted players after Afghanistan series postponement")
 
-[India to tour South Africa for short T20I series in November](https://www.cricbuzz.com/cricket-news/130813/india-to-tour-south-africa-for-short-t20i-series-in-november "India to tour South Africa for short T20I series in November")
+[BCB to provide NOCs to contracted players after Afghanistan series postponement](https://www.cricbuzz.com/cricket-news/130886/bcb-to-provide-nocs-to-contracted-players-after-afghanistan-series-postponement "BCB to provide NOCs to contracted players after Afghanistan series postponement")
 
-10h ago
+16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
