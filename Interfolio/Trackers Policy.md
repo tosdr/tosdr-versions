@@ -16,7 +16,7 @@ We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](h
     
 * [About](https://www.interfolio.com/about)About
     
-* [Support center](https://www.interfolio.com/support)Support
+* [Customer support](https://www.interfolio.com/support)Support
     
 
 [Publish with us](https://www.interfolio.com/researcher/author/publish-with-us)
