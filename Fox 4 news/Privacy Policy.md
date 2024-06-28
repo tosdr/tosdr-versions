@@ -94,15 +94,9 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
+[Excessive Heat Warning
 
-until SUN 1:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[River Flood Warning
-
-until SUN 1:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
+from FRI 12:00 PM CDT until FRI 7:00 PM CDT, Cooke County, Fannin County, Wise County, Denton County, Collin County, Hunt County, Parker County, Tarrant County, Dallas County, Rockwall County, Kaufman County, Hood County, Somervell County, Johnson County, Ellis County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -415,35 +409,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Robert-Isom.jpg?ve=1&tl=1)
+ [![Dallas Mavericks trade up in NBA Draft to select French star](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-1240759969.jpg?ve=1&tl=1)
 
- ![American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Robert-Isom.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-ceo-aims-rebuild-trust-after-black-passengers-removed-from-flight)
+ ![Dallas Mavericks trade up in NBA Draft to select French star](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-1240759969.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-mavericks-trade-up-nba-draft-select-french-star)
 
-### [American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://www.fox4news.com/news/american-airlines-ceo-aims-rebuild-trust-after-black-passengers-removed-from-flight)
+### [Dallas Mavericks trade up in NBA Draft to select French star](https://www.fox4news.com/sports/dallas-mavericks-trade-up-nba-draft-select-french-star)
 
- [!['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Thomas-Guiry.jpg?ve=1&tl=1)
+ [![Biden, Trump face off in 1st 2024 presidential debate](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Biden-Trump-2024-debate.jpg?ve=1&tl=1)
 
- !['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Thomas-Guiry.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/actor-thomas-guiry-sandlot-arrested)
+ ![Biden, Trump face off in 1st 2024 presidential debate](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Biden-Trump-2024-debate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-live-biden-trump-1st-2024-presidential-debate)
 
-### ['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://www.fox4news.com/news/actor-thomas-guiry-sandlot-arrested)
+### [Biden, Trump face off in 1st 2024 presidential debate](https://www.fox4news.com/news/watch-live-biden-trump-1st-2024-presidential-debate)
 
- [![U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-SHAUN-GPPD_US-MARSHALS-VIOLENT-CRIME-5P_00.00.44.18.jpg?ve=1&tl=1)
+ [![Panama scores late goal, beats shorthanded U.S. 2-1 at Copa America after Weah red card](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2158937051.jpg?ve=1&tl=1)
 
- ![U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-SHAUN-GPPD_US-MARSHALS-VIOLENT-CRIME-5P_00.00.44.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/u-s-marshals-deputy-director-meets-north-texas-law-enforcement-discuss-violent-crime-reduction)
+ ![Panama scores late goal, beats shorthanded U.S. 2-1 at Copa America after Weah red card](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2158937051.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/panama-scores-late-goal-beats-shorthanded-u-s-2-1-copa-america-after-weah-red-card)
 
-### [U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://www.fox4news.com/news/u-s-marshals-deputy-director-meets-north-texas-law-enforcement-discuss-violent-crime-reduction)
+### [Panama scores late goal, beats shorthanded U.S. 2-1 at Copa America after Weah red card](https://www.fox4news.com/sports/panama-scores-late-goal-beats-shorthanded-u-s-2-1-copa-america-after-weah-red-card)
 
- [![Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Hail-slush-still.jpg?ve=1&tl=1)
+ [![Burnes shackles Rangers over 7 innings and Orioles hit 4 HRs in 11-2 rout of defending champs](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-2159607176.jpg?ve=1&tl=1)
 
- ![Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Hail-slush-still.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-hail-flows-like-lava-during-severe-thunderstorm-nebraska)
+ ![Burnes shackles Rangers over 7 innings and Orioles hit 4 HRs in 11-2 rout of defending champs](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-2159607176.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/burnes-shackles-rangers-over-7-innings-orioles-hit-4-hrs-11-2-rout-defending-champs)
 
-### [Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://www.fox4news.com/news/watch-hail-flows-like-lava-during-severe-thunderstorm-nebraska)
+### [Burnes shackles Rangers over 7 innings and Orioles hit 4 HRs in 11-2 rout of defending champs](https://www.fox4news.com/sports/burnes-shackles-rangers-over-7-innings-orioles-hit-4-hrs-11-2-rout-defending-champs)
 
- [![Grieving mom wants to build new Dallas playground in honor of later daughter](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-ALEX-OLD-CITY-PARK-NEW-PLAYGROUND-530P_00.01.02.52.jpg?ve=1&tl=1)
+ [![Presidential debate fact check: A look at some of the false claims made by Biden, Trump](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/GettyImages-2159612234.jpg?ve=1&tl=1)
 
- ![Grieving mom wants to build new Dallas playground in honor of later daughter](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-ALEX-OLD-CITY-PARK-NEW-PLAYGROUND-530P_00.01.02.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/old-city-park-avy-hill-new-playground-the-cedars)
+ ![Presidential debate fact check: A look at some of the false claims made by Biden, Trump](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/GettyImages-2159612234.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-debate-fact-biden-trump-false-claims)
 
-### [Grieving mom wants to build new Dallas playground in honor of later daughter](https://www.fox4news.com/news/old-city-park-avy-hill-new-playground-the-cedars)
+### [Presidential debate fact check: A look at some of the false claims made by Biden, Trump](https://www.fox4news.com/news/presidential-debate-fact-biden-trump-false-claims)
 
 ###### [News](https://www.fox4news.com/news)
 
