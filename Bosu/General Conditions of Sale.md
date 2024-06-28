@@ -170,36 +170,16 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 
 Refund policy
 =============
