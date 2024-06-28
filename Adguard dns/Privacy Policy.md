@@ -68,7 +68,7 @@ Other products
 
 [AdGuard Assistant](https://adguard.com/adguard-assistant/overview.html)
 
-[AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html?aid=34549)
+[AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html)
 
 [All products](https://adguard.com/products.html)
 
@@ -144,7 +144,7 @@ Other tools for content blocking
 
 [AdGuard Assistant](https://adguard.com/adguard-assistant/overview.html)
 
-[AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html?aid=34549)
+[AdGuard Temp Mail](https://adguard.com/adguard-temp-mail/overview.html)
 
 [All products](https://adguard.com/products.html)
 
