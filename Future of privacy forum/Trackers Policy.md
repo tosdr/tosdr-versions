@@ -16,7 +16,7 @@
     * [Careers](https://fpf.org/about/career-opportunities/)
 * [Issues](https://fpf.org/cornerstone-issues)
     * [Ad Tech](https://fpf.org/issue/ad-tech-guidance/)
-    * [Center for Artificial Intelligence](https://fpf.org/issue/ai-ml/)
+    * [Artificial Intelligence](https://fpf.org/issue/ai-ml/)
     * [Biometrics](https://fpf.org/issue/biometrics/)
     * [Europe](https://fpf.org/global/europe)
     * [Global](https://fpf.org/global)
