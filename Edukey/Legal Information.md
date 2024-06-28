@@ -132,7 +132,7 @@ International schoolsUK editionAustralia edition
 Privacy Notice
 ==============
 
-LAST UPDATED 17 JUNE 2024 Open all
+LAST UPDATED 28 JUNE 2024 Open all
 
 Latest Changes to this Policy
 
@@ -540,6 +540,8 @@ Back to top
     
 * [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
     
+    * [Safeguarding](https://www.tes.com/en-gb/advice-hub/safeguarding)
+        
     * [Get into teaching](https://www.tes.com/en-gb/advice-hub/get-into-teaching)
         
     * [Early career teachers](https://www.tes.com/en-gb/advice-hub/early-career-teachers)
