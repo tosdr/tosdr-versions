@@ -32,12 +32,12 @@ Cookie Policy | Datadog
     
     * [Application Performance Monitoring](https://www.datadoghq.com/product/apm/)
     * [Universal Service Monitoring](https://www.datadoghq.com/product/universal-service-monitoring/)
-    * [Service Catalog](https://www.datadoghq.com/product/service-catalog/)
     * [Continuous Profiler](https://www.datadoghq.com/product/code-profiling/)
     * [Dynamic Instrumentation](https://www.datadoghq.com/product/dynamic-instrumentation/)
     * [Data Streams Monitoring](https://www.datadoghq.com/product/data-streams-monitoring/)
     * [Database Monitoring](https://www.datadoghq.com/product/database-monitoring/)
     * [Data Jobs Monitoring](https://www.datadoghq.com/product/data-jobs-monitoring/)
+    * [LLM Observability](https://www.datadoghq.com/product/llm-observability/)
     
     Logs
     
@@ -82,6 +82,7 @@ Cookie Policy | Datadog
     
     * [Browser Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/)
     * [Mobile Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/mobile-rum/)
+    * [Product Analytics](https://www.datadoghq.com/product/product-analytics/)
     * [Session Replay](https://www.datadoghq.com/product/real-user-monitoring/session-replay/)
     * [Synthetic Monitoring](https://www.datadoghq.com/product/synthetic-monitoring/)
     * [Mobile App Testing](https://www.datadoghq.com/product/mobile-app-testing/)
@@ -143,6 +144,7 @@ Cookie Policy | Datadog
     
     AI Observability
     
+    * [LLM Observability](https://www.datadoghq.com/product/llm-observability/)
     * [AI Integrations](https://www.datadoghq.com/product/platform/integrations/#cat-aiml)
     
     AIOps
@@ -166,9 +168,13 @@ Cookie Policy | Datadog
     Built-in Features
     
     * [Bits AI](https://www.datadoghq.com/product/platform/bits-ai/)
+    * [Watchdog](https://www.datadoghq.com/product/platform/watchdog/)
     * [Alerts](https://www.datadoghq.com/product/platform/alerts/)
     * [Dashboards](https://www.datadoghq.com/product/platform/dashboards/)
-    * [Watchdog](https://www.datadoghq.com/product/platform/watchdog/)
+    * [Notebooks](https://docs.datadoghq.com/notebooks/)
+    * [Mobile App](https://docs.datadoghq.com/service_management/mobile/?tab=ios)
+    * [Fleet Automation](https://docs.datadoghq.com/agent/fleet_automation/)
+    * [Access Control](https://docs.datadoghq.com/account_management/rbac/?tab=datadogapplication)
     
     Workflows & Collaboration
     
@@ -179,6 +185,7 @@ Cookie Policy | Datadog
     * [App Builder](https://www.datadoghq.com/product/app-builder/)
     * [Cloudcraft](https://www.cloudcraft.co/)
     * [CoScreen](https://www.datadoghq.com/product/coscreen/)
+    * [Teams](https://docs.datadoghq.com/account_management/teams/)
     
     Extensibility
     
@@ -186,6 +193,7 @@ Cookie Policy | Datadog
     * [Integrations](https://www.datadoghq.com/product/platform/integrations/)
     * [IDE Plugins](https://www.datadoghq.com/product/platform/ides/)
     * [API](https://docs.datadoghq.com/api/)
+    * [Marketplace](https://www.datadoghq.com/marketplacepartners/)
     
 * [Customers](https://www.datadoghq.com/customers/)
 * [Pricing](https://www.datadoghq.com/pricing/)
@@ -285,12 +293,12 @@ Toggle navigation
         
         * [Application Performance Monitoring](https://www.datadoghq.com/product/apm/)
         * [Universal Service Monitoring](https://www.datadoghq.com/product/universal-service-monitoring/)
-        * [Service Catalog](https://www.datadoghq.com/product/service-catalog/)
         * [Continuous Profiler](https://www.datadoghq.com/product/code-profiling/)
         * [Dynamic Instrumentation](https://www.datadoghq.com/product/dynamic-instrumentation/)
         * [Data Streams Monitoring](https://www.datadoghq.com/product/data-streams-monitoring/)
         * [Database Monitoring](https://www.datadoghq.com/product/database-monitoring/)
         * [Data Jobs Monitoring](https://www.datadoghq.com/product/data-jobs-monitoring/)
+        * [LLM Observability](https://www.datadoghq.com/product/llm-observability/)
     * Logs
         
         * [Log Management](https://www.datadoghq.com/product/log-management/)
@@ -311,6 +319,7 @@ Toggle navigation
         
         * [Browser Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/)
         * [Mobile Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/mobile-rum/)
+        * [Product Analytics](https://www.datadoghq.com/product/product-analytics/)
         * [Session Replay](https://www.datadoghq.com/product/real-user-monitoring/session-replay/)
         * [Synthetic Monitoring](https://www.datadoghq.com/product/synthetic-monitoring/)
         * [Mobile App Testing](https://www.datadoghq.com/product/mobile-app-testing/)
@@ -334,15 +343,21 @@ Toggle navigation
         * [Watchdog](https://www.datadoghq.com/product/platform/watchdog/)
     * AI
         
+        * [LLM Observability](https://www.datadoghq.com/product/llm-observability/)
+        * [AI Integrations](https://www.datadoghq.com/product/platform/integrations/#cat-aiml)
         * [Bits AI](https://www.datadoghq.com/product/platform/bits-ai/)
         * [Watchdog](https://www.datadoghq.com/product/platform/watchdog/)
         * [Event Management](https://www.datadoghq.com/product/event-management/)
     * Platform Capabilities
         
         * [Bits AI](https://www.datadoghq.com/product/platform/bits-ai/)
+        * [Watchdog](https://www.datadoghq.com/product/platform/watchdog/)
         * [Alerts](https://www.datadoghq.com/product/platform/alerts/)
         * [Dashboards](https://www.datadoghq.com/product/platform/dashboards/)
-        * [Watchdog](https://www.datadoghq.com/product/platform/watchdog/)
+        * [Notebooks](https://docs.datadoghq.com/notebooks/)
+        * [Mobile App](https://docs.datadoghq.com/service_management/mobile/?tab=ios)
+        * [Fleet Automation](https://docs.datadoghq.com/agent/fleet_automation/)
+        * [Access Control](https://docs.datadoghq.com/account_management/rbac/?tab=datadogapplication)
         * [Incident Management](https://www.datadoghq.com/product/incident-management/)
         * [Case Management](https://www.datadoghq.com/product/case-management/)
         * [Event Management](https://www.datadoghq.com/product/event-management/)
@@ -350,10 +365,12 @@ Toggle navigation
         * [App Builder](https://www.datadoghq.com/product/app-builder/)
         * [Cloudcraft](https://www.cloudcraft.co/)
         * [CoScreen](https://www.datadoghq.com/product/coscreen/)
+        * [Teams](https://docs.datadoghq.com/account_management/teams/)
         * [OpenTelemetry](https://www.datadoghq.com/solutions/opentelemetry/)
         * [Integrations](https://www.datadoghq.com/product/platform/integrations/)
         * [IDE Plugins](https://www.datadoghq.com/product/platform/ides/)
         * [API](https://docs.datadoghq.com/api/)
+        * [Marketplace](https://www.datadoghq.com/marketplacepartners/)
 * [Customers](https://www.datadoghq.com/customers/)
 * [Pricing](https://www.datadoghq.com/pricing/)
 * [Solutions](#)
@@ -506,9 +523,9 @@ Download mobile app
 
 Product
 
-[Infrastructure Monitoring](https://www.datadoghq.com/product/infrastructure-monitoring/) [Container Monitoring](https://www.datadoghq.com/product/container-monitoring/) [Network Performance Monitoring](https://www.datadoghq.com/product/network-monitoring/network-performance-monitoring/) [Network Device Monitoring](https://www.datadoghq.com/product/network-monitoring/network-device-monitoring/) [Serverless](https://www.datadoghq.com/product/serverless-monitoring/) [Cloud Cost Management](https://www.datadoghq.com/product/cloud-cost-management/) [Cloudcraft](https://www.cloudcraft.co/) [Application Performance Monitoring](https://www.datadoghq.com/product/apm/) [Service Catalog](https://www.datadoghq.com/product/service-catalog/) [Universal Service Monitoring](https://www.datadoghq.com/product/universal-service-monitoring/) [Data Streams Monitoring](https://www.datadoghq.com/product/data-streams-monitoring/) [Data Jobs Monitoring](https://www.datadoghq.com/product/data-jobs-monitoring/) [Database Monitoring](https://www.datadoghq.com/product/database-monitoring/) [Continuous Profiler](https://www.datadoghq.com/product/code-profiling/) [Dynamic Instrumentation](https://www.datadoghq.com/product/dynamic-instrumentation/) [Log Management](https://www.datadoghq.com/product/log-management/) [Sensitive Data Scanner](https://www.datadoghq.com/product/sensitive-data-scanner/) [Audit Trail](https://www.datadoghq.com/product/audit-trail/) [Observability Pipelines](https://www.datadoghq.com/product/observability-pipelines/) [Cloud Security Management](https://www.datadoghq.com/product/cloud-security-management/) [Cloud Security Posture Management](https://www.datadoghq.com/product/cloud-security-management/cloud-security-posture-management/) [Cloud Workload Security](https://www.datadoghq.com/product/cloud-security-management/cloud-workload-security/) [Identity & Entitlement Management](https://www.datadoghq.com/product/cloud-security-management/#entitlement-management) [Application Security Management](https://www.datadoghq.com/product/application-security-management/) [Software Composition Analysis](https://www.datadoghq.com/product/software-composition-analysis/) [Cloud SIEM](https://www.datadoghq.com/product/cloud-siem/)
+[Infrastructure Monitoring](https://www.datadoghq.com/product/infrastructure-monitoring/) [Container Monitoring](https://www.datadoghq.com/product/container-monitoring/) [Network Performance Monitoring](https://www.datadoghq.com/product/network-monitoring/network-performance-monitoring/) [Network Device Monitoring](https://www.datadoghq.com/product/network-monitoring/network-device-monitoring/) [Serverless](https://www.datadoghq.com/product/serverless-monitoring/) [Cloud Cost Management](https://www.datadoghq.com/product/cloud-cost-management/) [Cloudcraft](https://www.cloudcraft.co/) [Application Performance Monitoring](https://www.datadoghq.com/product/apm/) [Service Catalog](https://www.datadoghq.com/product/service-catalog/) [Universal Service Monitoring](https://www.datadoghq.com/product/universal-service-monitoring/) [Data Streams Monitoring](https://www.datadoghq.com/product/data-streams-monitoring/) [Data Jobs Monitoring](https://www.datadoghq.com/product/data-jobs-monitoring/) [Database Monitoring](https://www.datadoghq.com/product/database-monitoring/) [Continuous Profiler](https://www.datadoghq.com/product/code-profiling/) [Dynamic Instrumentation](https://www.datadoghq.com/product/dynamic-instrumentation/) [Log Management](https://www.datadoghq.com/product/log-management/) [Sensitive Data Scanner](https://www.datadoghq.com/product/sensitive-data-scanner/) [Audit Trail](https://www.datadoghq.com/product/audit-trail/) [Observability Pipelines](https://www.datadoghq.com/product/observability-pipelines/) [Cloud Security Management](https://www.datadoghq.com/product/cloud-security-management/) [Cloud Security Posture Management](https://www.datadoghq.com/product/cloud-security-management/cloud-security-posture-management/) [Cloud Workload Security](https://www.datadoghq.com/product/cloud-security-management/cloud-workload-security/) [Identity & Entitlement Management](https://www.datadoghq.com/product/cloud-security-management/#entitlement-management) [Application Security Management](https://www.datadoghq.com/product/application-security-management/) [Software Composition Analysis](https://www.datadoghq.com/product/software-composition-analysis/) [Cloud SIEM](https://www.datadoghq.com/product/cloud-siem/) [Browser Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) [Mobile Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/mobile-rum/) [Product Analytics](https://www.datadoghq.com/product/product-analytics/) [Session Replay](https://www.datadoghq.com/product/real-user-monitoring/session-replay/)
 
-[Browser Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/) [Mobile Real User Monitoring](https://www.datadoghq.com/product/real-user-monitoring/mobile-rum/) [Session Replay](https://www.datadoghq.com/product/real-user-monitoring/session-replay/) [Synthetic Monitoring](https://www.datadoghq.com/product/synthetic-monitoring/) [Mobile App Testing](https://www.datadoghq.com/product/mobile-app-testing/) [Continuous Testing](https://www.datadoghq.com/product/continuous-testing/) [Error Tracking](https://www.datadoghq.com/product/error-tracking/) [CI Visibility](https://www.datadoghq.com/product/ci-cd-monitoring/) [Test Visibility & Intelligent Test Runner](https://www.datadoghq.com/product/test-visibility-intelligent-test-runner/) [Service Level Objectives](https://www.datadoghq.com/product/service-level-objectives/) [Incident Management](https://www.datadoghq.com/product/incident-management/) [Event Management](https://www.datadoghq.com/product/event-management/) [Case Management](https://www.datadoghq.com/product/case-management/) [Bits AI](https://www.datadoghq.com/product/platform/bits-ai/) [AI Integrations](https://www.datadoghq.com/product/platform/integrations/#cat-aiml) [Watchdog](https://www.datadoghq.com/product/platform/watchdog/) [Workflow Automation](https://www.datadoghq.com/product/workflow-automation/) [App Builder](https://www.datadoghq.com/product/app-builder/) [CoScreen](https://www.datadoghq.com/product/coscreen/) [Dashboards](https://www.datadoghq.com/product/platform/dashboards/) [OpenTelemetry](https://www.datadoghq.com/solutions/opentelemetry/) [Alerts](https://www.datadoghq.com/product/platform/alerts/) [Integrations](https://www.datadoghq.com/product/platform/integrations/) [IDE Plugins](https://www.datadoghq.com/product/platform/ides/) [API](https://docs.datadoghq.com/api/)
+[Synthetic Monitoring](https://www.datadoghq.com/product/synthetic-monitoring/) [Mobile App Testing](https://www.datadoghq.com/product/mobile-app-testing/) [Continuous Testing](https://www.datadoghq.com/product/continuous-testing/) [Error Tracking](https://www.datadoghq.com/product/error-tracking/) [CI Visibility](https://www.datadoghq.com/product/ci-cd-monitoring/) [Test Visibility & Intelligent Test Runner](https://www.datadoghq.com/product/test-visibility-intelligent-test-runner/) [Service Level Objectives](https://www.datadoghq.com/product/service-level-objectives/) [Incident Management](https://www.datadoghq.com/product/incident-management/) [Event Management](https://www.datadoghq.com/product/event-management/) [Case Management](https://www.datadoghq.com/product/case-management/) [Bits AI](https://www.datadoghq.com/product/platform/bits-ai/) [Watchdog](https://www.datadoghq.com/product/platform/watchdog/) [LLM Observability](https://www.datadoghq.com/product/llm-observability/) [AI Integrations](https://www.datadoghq.com/product/platform/integrations/#cat-aiml) [Workflow Automation](https://www.datadoghq.com/product/workflow-automation/) [App Builder](https://www.datadoghq.com/product/app-builder/) [CoScreen](https://www.datadoghq.com/product/coscreen/) [Teams](https://docs.datadoghq.com/account_management/teams/) [Dashboards](https://www.datadoghq.com/product/platform/dashboards/) [Notebooks](https://docs.datadoghq.com/notebooks/) [Mobile App](https://docs.datadoghq.com/service_management/mobile/?tab=ios) [Fleet Automation](https://docs.datadoghq.com/agent/fleet_automation/) [Access Control](https://docs.datadoghq.com/account_management/rbac/?tab=datadogapplication) [OpenTelemetry](https://www.datadoghq.com/solutions/opentelemetry/) [Alerts](https://www.datadoghq.com/product/platform/alerts/) [Integrations](https://www.datadoghq.com/product/platform/integrations/) [IDE Plugins](https://www.datadoghq.com/product/platform/ides/) [API](https://docs.datadoghq.com/api/) [Marketplace](https://www.datadoghq.com/marketplacepartners/)
 
 Resources
 
