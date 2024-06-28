@@ -396,3 +396,7 @@ MENUMENU
 * [Register](https://www.fizzcreations.com/my-account/)
 
 [](https://www.facebook.com/FizzCreations "Facebook")[](https://twitter.com/fizzinyourbizz "Twitter")[](https://www.instagram.com/fizz.creations/ "Instagram")[](https://www.linkedin.com/company/5048472/ "LinkedIn")
+
+                                                                    
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
