@@ -141,81 +141,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Tatjana_0809](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1195565-1540940544.jpg)](https://lyricstranslate.com/en/translator/tatjana0809 "Tatjana_0809")
-
-New song
-
-[Karol G - Si Antes Te Hubiera Conocido](https://lyricstranslate.com/en/karol-g-si-antes-te-hubiera-conoc-lyrics)
-
-Spanish
-
-[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1675532528.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
+[![Micchi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/micchi "Micchi")
 
 New translation
 
-[La Familia - Pentru bagabonții care mă susțin](https://lyricstranslate.com/en/la-familia-pentru-bagabontii-care-ma-english)
+[Fuyu ni wakarete - 冬にわかれて (Fuyu ni wakarete)](https://lyricstranslate.com/en/fuyu-ni-wakarete-fuyu-ni-wakarete-transliteration)
 
-Romanian → English
+Japanese → Transliteration
 
-[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1639743181.jpg)](https://lyricstranslate.com/en/translator/want "want")
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
 New song
 
-[CLONNEX - Emo Makeup](https://lyricstranslate.com/en/clonnex-emo-makeup-lyrics)
+[Ricky Skaggs - Waitin' For The Sun To Shine](https://lyricstranslate.com/en/ricky-skaggs-waitin-sun-sh-lyrics)
 
 English
 
-[![matnot4u](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610383-1709145459.jpg)](https://lyricstranslate.com/en/translator/finnishenglishhh "matnot4u")
+[![Micchi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/micchi "Micchi")
 
 New translation
 
-[Jann - LOOKATME](https://lyricstranslate.com/en/jann-lookatme-finnish)
+[Fuyu ni wakarete - おかしなラストプレイ (Okashina rasutopurei)](https://lyricstranslate.com/en/fuyu-ni-wakarete-okashina-rasutopurei-transliteration)
 
-English → Finnish
+Japanese → Transliteration
 
-[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
-
-New comment
-
-I also hear "flex" but it doesn't make any sence. ...  [more](https://lyricstranslate.com/en/comment/1150661#comment-1150661)
-
-[![Musapyr](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/musapyr "Musapyr")
-
-New song
-
-[Unknown artist (Chinese) - 请别说没没没爱的方向](https://lyricstranslate.com/en/unknown-artist-chinese-qing-bie-shuo-mei-mei-mei-lyrics)
-
-Chinese
-
-[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1639743181.jpg)](https://lyricstranslate.com/en/translator/want "want")
-
-New song
-
-[CMH - бэйслайн бизнес](https://lyricstranslate.com/en/cmh-bassline-business-lyrics)
-
-Russian
-
-[![vaalentin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/vaalentin "vaalentin")
-
-New request
-
-[Konets Solnechnykh Dney - юный эскапист (yunyy eskapist)](https://lyricstranslate.com/en/request/%D1%8E%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D1%82)
-
-Russian → English
-
-[![AisaManahan](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/aisamanahan "AisaManahan")
-
-New comment
-
-Can someone please dona transliteration for this ...  [more](https://lyricstranslate.com/en/comment/1150660#comment-1150660)
-
-[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Jeremy Renner - Love is a war](https://lyricstranslate.com/en/jeremy-renner-love-war-hebrew)
+[Mario Castelnuovo - La ballata dei fiori gialli](https://lyricstranslate.com/en/mario-castelnuovo-la-ballata-dei-fiori-gial-english)
 
-English → Hebrew
+Italian → English
+
+[![Micchi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/micchi "Micchi")
+
+New translation
+
+[Fuyu ni wakarete - もうすぐ雨は (Mousugu ame wa)](https://lyricstranslate.com/en/fuyu-ni-wakarete-mousugu-ame-wa-transliteration)
+
+Japanese → Transliteration
+
+[![hairy_fairy](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1246436-1611269150.jpg)](https://lyricstranslate.com/en/translator/hairyfairy "hairy_fairy")
+
+New translation
+
+[Amorphis - My Name is Night](https://lyricstranslate.com/en/amorphis-my-name-night-persian)
+
+English → Persian
+
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+
+New song
+
+[Ricky Skaggs - You May See Me Walkin'](https://lyricstranslate.com/en/ricky-skaggs-you-may-see-me-walkin-lyrics)
+
+English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Mario Castelnuovo - L'orologio a pendolo](https://lyricstranslate.com/en/mario-castelnuovo-lorologio-pendolo-english)
+
+Italian → English
+
+[![Micchi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/micchi "Micchi")
+
+New translation
+
+[Tegomass - パスタ (pasta)](https://lyricstranslate.com/en/tegomass-pasta-transliteration)
+
+Japanese → Transliteration
+
+[![Micchi](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/micchi "Micchi")
+
+New translation
+
+[NUUAMM - MAHO (Maho)](https://lyricstranslate.com/en/nuuamm-maho-transliteration)
+
+Japanese → Transliteration
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
