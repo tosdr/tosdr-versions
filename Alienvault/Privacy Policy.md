@@ -111,9 +111,9 @@
             
             Product Brief
             
-            ##### Help keep employees connected and protected virtually anywhere
+            ##### Fight Ransomware and Quickly Respond to Advanced Cyberattacks
             
-            [Learn more](https://cyber.levelblue.com/m/6106c2f72cc6634c/original/PB-Keep-Employees-Connected-Anywhere.pdf)
+            [Learn more](https://cyber.levelblue.com/m/2e612b10850c8daf/original/PB-Fight-Ransomware-Quickly-Respond-Cyberattacks.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -121,9 +121,9 @@
             
             Solution Brief
             
-            ##### Securing Operational Technology
+            ##### Enhancing Organizations’ Privacy Program Strategy with LevelBlue
             
-            [Learn more](https://cyber.levelblue.com/m/8ebd7a710d88573/original/SB-OT-Pen-Testing.pdf)
+            [Learn more](https://cyber.levelblue.com/m/272a0d1f014bd23b/original/SB-Privacy-Program-Strategy.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -163,9 +163,9 @@
             
             Blog: Security Essentials
             
-            ##### The Best Proxy Servers for Multi-Accounting
+            ##### Memory Dump Analysis: Using LiME for Acquisition and Volatility for Initial Setup
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/the-best-proxy-servers-for-multi-accounting)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/memory-dump-analysis-using-lime-for-acquisition-and-volatility-for-initial-setup)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -173,9 +173,9 @@
             
             ebook
             
-            ##### Cloud Detection and Response: Market Growth as an Enterprise Requirement
+            ##### Focusing on Cyber Resilience, Not Just Security
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/cloud-detection-and-response-market-growth-as-an-enterprise-requirement)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/focusing-on-cyber-resilience-not-just-security)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -193,9 +193,9 @@
             
             Whitepaper
             
-            ##### LevelBlue Labs: Indicators of Compromise for SquidLoader Malware
+            ##### Cyber Resilience is Mission Critical for Business
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -436,13 +436,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Anas Baig](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Kushalveer Singh Bachchas](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Anas Baig
+#### Kushalveer Singh Bachchas
 
-Jun 20, 2024
+Jun 27, 2024
 
-### [The Best Proxy Servers for Multi-Accounting](https://cybersecurity.att.com/blogs/security-essentials/the-best-proxy-servers-for-multi-accounting)
+### [Memory Dump Analysis: Using LiME for Acquisition and Volatility for Initial Setup](https://cybersecurity.att.com/blogs/security-essentials/memory-dump-analysis-using-lime-for-acquisition-and-volatility-for-initial-setup)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
