@@ -1,11 +1,5 @@
   
 
-[](https://community.klaviyo.com/events/klaviyo-ai-roadmap-reveal-211)
-
-Klaviyo AI: Roadmap Reveal
-
-(Wed, 12 Jun, 6:00 pm)
-
 * [Home](https://community.klaviyo.com/)
 * Terms
 
