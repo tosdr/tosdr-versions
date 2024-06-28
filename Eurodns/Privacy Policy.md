@@ -283,10 +283,10 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 #### Latest blog articles
 
+* 27.06.2024[Why It Matters to Renew Your Domain on Time?](https://www.eurodns.com/blog/expired-domain-names-missed-domain-renewal)
 * 20.06.2024[What is Domain Privacy? Why is it Important?](https://www.eurodns.com/blog/what-is-domain-privacy-why-is-it-important)
 * 19.06.2024[13 popular domain extensions for tech businesses](https://www.eurodns.com/blog/13-popular-domain-extensions-for-tech-businesses)
-* 13.06.2024[The Power of ccTLDs in Local and Regional Branding](https://www.eurodns.com/blog/boost-local-branding-with-cctlds)
-* 06.06.2024[Branding and Domain Names: Impact of Domain Name on Brand Identity and Customer Perception](https://www.eurodns.com/blog/domain-names-brand-identity)
+* 14.06.2024[10 ways to collect customer data for your e-commerce site](https://www.eurodns.com/blog/ways-to-collect-customer-data-for-your-ecommerce)
 
 #### Domain Name Discounts
 
