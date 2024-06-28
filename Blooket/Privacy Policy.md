@@ -2,7 +2,7 @@
 
 Blooket Privacy Policy
 
-Last updated May 30, 2024
+Last updated June 25, 2024
 
 Blooket LLC operates Blooket.com. We have recently experienced exponential growth. We would like to thank the users and educators who have made this success possible. The privacy of our users is very important to us.
 
@@ -282,9 +282,13 @@ UK: DP Data Protection Services UK Ltd., Attn: Blooket LLC, 16 Great Queen Stree
 
 We will take steps to remedy issues arising out of Blooket's alleged failure to comply with the principles set out in this Privacy Policy. We will respond to your complaints within thirty (30) days. If your complaint cannot be resolved through our internal processes, we will direct you to the state or national data protection authority in the jurisdiction where you reside.
 
-EEA Residents
+EEA, UK, and Switzerland Residents
 
 EEA residents and residents from the United Kingdom (UK) will have the right to lodge a complaint to the EU Data Protection Authorities or the Swiss Federal Data and Information Commissioner (FDPIC), Blooket will comply with the advice of competent European Union authorities in such cases, and will provide appropriate recourse. Blooket is also subject to the investigatory and enforcement powers of the US Federal Trade Commission.
+
+Blooket LLC complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Blooket LLC has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Blooket LLC has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Blooket LLC commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to TrustArc, an alternative dispute resolution provider based in the United States If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://trustarc.com/ for more information or to file a complaint. The services of TrustArc are provided at no cost to you. Blooket LLC is obligated to arbitrate claims and follow the terms as set forth in Annex I of the DPF Principles, provided that an individual has invoked binding arbitration by delivering notice to your organization and following the procedures and subject to conditions set forth in Annex I of Principles.
 
 Liability
 
