@@ -1,11 +1,5 @@
 [Skip to content](#content "Skip to content")
 
-![LIPA Bell Alert Icon 24x24px for Announcement Bar top of page.](https://www.lipower.org/wp-content/uploads/2024/01/bell-icon-24x24-1.svg) Alert Icon
-
-Upcoming Event:
-
-Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee Meeting](https://www.lipower.org/board-of-trustees/board-meetings/2024-06-26/06-26-24-finance-and-audit-committee-meeting/) – LIPA, 333 Earle Ovington Blvd. 4th Floor, Uniondale, NY 11553
-
 [](https://www.lipower.org/ "Return to the homepage")
 
 * [About Us](#0)
@@ -67,6 +61,7 @@ Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee
     * [Reformed Management Contract with PSEG Long Island](https://www.lipower.org/operational-partners/reformed-management-contract-with-pseg-long-island/ "Reformed Management Contract with PSEG Long Island")
     * [Contracts & Reports](https://www.lipower.org/contracts-and-reports/ "Contracts & Reports")
     * [Performance Metrics](https://www.lipower.org/operational-partners/performance-metrics/ "Performance Metrics")
+    * [Management and Operations Audits](https://www.lipower.org/procurement/management-and-operations-audits/ "Management and Operations Audits")
     
     ![Missing ALT Text](https://www.lipower.org/wp-content/uploads/2024/01/vendormanagement.jpg)
     
