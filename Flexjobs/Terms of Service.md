@@ -427,7 +427,7 @@ Questions about these Terms may be sent to support@flexjobs.com or as otherwise 
     The Site is operated by FlexJobs. Whether you access the Services through any of our Internet properties or family sites you may contact us using the information provided herein. Please forward any comments or complaints about the Site to support@flexjobs.com. City View Plaza II, Suite 6000, Guaynabo, PR 00968, United States of America or to Auxiliant S.à.r.l, 1A, rue Thomas Edison, L-1445 Strassen, Luxembourg.
     
 
-##### Find Remote Work From Home & Flexible Jobs
+Find Remote Work From Home & Flexible Jobs
 
 * [Full-Time Remote Jobs](https://www.flexjobs.com/remote-jobs/full-time)
 * [Part-Time Remote Jobs](https://www.flexjobs.com/remote-jobs/part-time)
@@ -444,7 +444,7 @@ Questions about these Terms may be sent to support@flexjobs.com or as otherwise 
 * [Entry Level Remote Jobs](https://www.flexjobs.com/remote-jobs/entry-level)
 * [Top Remote Jobs](https://www.flexjobs.com/jobs/top-searched-remote-work-from-home-jobs)
 
-##### About FlexJobs
+About FlexJobs
 
 * [How FlexJobs Works](https://www.flexjobs.com/About.aspx)
 * [What Is A Remote Job?](https://www.flexjobs.com/blog/post/what-is-a-remote-job/)
@@ -461,7 +461,7 @@ Questions about these Terms may be sent to support@flexjobs.com or as otherwise 
 * [Fraud Awareness](https://www.flexjobs.com/fraud-awareness)
 * [FlexJobs Reviews](https://www.flexjobs.com/reviews-success-stories)
 
-##### Job Search Resources
+Job Search Resources
 
 * [Stay at Home Jobs for Moms and Dads](https://www.flexjobs.com/blog/post/10-great-work-home-jobs-stay-home-moms/)
 * [Side Hustle Jobs from Home](https://www.flexjobs.com/blog/post/remote-side-jobs-done-from-home-hiring-now-2/)
@@ -478,11 +478,11 @@ Questions about these Terms may be sent to support@flexjobs.com or as otherwise 
 * [Online Resume Builder](https://www.myperfectresume.com/resume/builder)
 * [Professional Resume Templates](https://zety.com/resume-templates)
 
-##### Follow Us on
+Follow Us on
 
 * [](https://www.facebook.com/flexjobs "follow on Facebook")
 * [](https://www.linkedin.com/company/flexjobs-com/ "follow on LinkedIn")
-* [](https://twitter.com/flexjobs "follow on Twitter")
+* [](https://twitter.com/flexjobs "follow on X")
 * [](https://www.youtube.com/flexjobs "follow on YouTube")
 * [](https://www.pinterest.com/flexjobs/ "follow on Pinterest")
 * [](https://www.instagram.com/flexjobs/ "follow on Instagram")
@@ -490,11 +490,11 @@ Questions about these Terms may be sent to support@flexjobs.com or as otherwise 
 * [](https://www.reddit.com/user/flexjobs/ "follow on Reddit")
 * [](https://t.me/flexjobsofficial "follow on telegram")
 
-##### Reviews of FlexJobs
+Reviews of FlexJobs
 
 ![FlexJobs BBB Business Review](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BBB logo")
 
-##### Partner Sites
+Partner Sites
 
 [![Remote.co](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Remote.co logo")](https://remote.co/)[![Job Hunt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Job Hunt logo")](https://www.job-hunt.org/)
 
