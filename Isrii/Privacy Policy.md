@@ -113,7 +113,3 @@ McLean, VA 22101 USA
 * [![](https://isrii.org/content/themes/Capital/images/icons/twitter.png)](https://twitter.com/TheISRII)
 
 Copyright © 2023 — International Society for Research on Internet Interventions (ISRII)
-
-X
-
-RETURNING MEMBERS: To access the new portal and the members-only section of the ISRII Website, please reset your password by clicking "having trouble logging in?" on [this page](https://isrii.app.neoncrm.com/login)
