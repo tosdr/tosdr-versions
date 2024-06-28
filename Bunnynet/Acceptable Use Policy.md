@@ -448,7 +448,7 @@ Some examples of illegal use as described above include sites distributing spywa
 Start Your 14 Day Free Trial
 ----------------------------
 
-Join over 40.000+ satisfied customers already using bunny.net
+Join over 40,000+ satisfied customers already using bunny.net
 
 [Start FREE Trial](https://dash.bunny.net/auth/register?pk_buttonlocation=footer&pk_buttonurl=acceptableuse)
 
