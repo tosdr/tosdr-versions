@@ -4,21 +4,7 @@
 
 [⚽️ Score big savings on private cloud storage! Up to 75% OFF all plans!](https://internxt.com/pricing)
 
-[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
-
-[Pricing](https://internxt.com/pricing)
-
-Products
-
-[Internxt Drive](https://internxt.com/drive)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
-
-Our Values
-
-[Privacy](https://internxt.com/privacy)[Open Source](https://internxt.com/open-source)
-
-[About Us](https://internxt.com/about)
-
-[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
+[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
 [Pricing](https://internxt.com/pricing)
 
@@ -1221,7 +1207,7 @@ New](https://internxt.com/vpn)[Pricing](https://internxt.com/pricing)
 
 ### Company
 
-[About Us](https://internxt.com/about)[Privacy](https://internxt.com/privacy)[Security](https://blog.internxt.com/how-internxt-protects-your-data/)[Open Source](https://internxt.com/open-source)[Legal](https://internxt.com/legal)[Media Area](https://internxt.com/media-area)[Use Cases](https://internxt.com/use-cases)
+[About Us](https://internxt.com/about)[Privacy](https://internxt.com/privacy)[Security](https://blog.internxt.com/how-internxt-protects-your-data/)[Open Source](https://internxt.com/open-source)[Legal](https://internxt.com/legal)[Media Area](https://internxt.com/media-area)
 
 ### Join Us
 
@@ -1229,7 +1215,7 @@ New](https://internxt.com/vpn)[Pricing](https://internxt.com/pricing)
 
 ### Resources
 
-[Blog](https://blog.internxt.com/)[Cloud Storage Comparison](https://internxt.com/cloud-storage-comparison)[pCloud Alternative](https://internxt.com/pcloud-alternative)[Directory of Privacy Organizations](https://internxt.com/privacy-directory)[Cyber Awareness](https://internxt.com/cyber-awareness)[What Google Knows](https://internxt.com/what-does-google-know-about-me)[Library](https://internxt.com/internxt-library)
+[Blog](https://blog.internxt.com/)[Cloud Storage Comparison](https://internxt.com/cloud-storage-comparison)[pCloud Alternative](https://internxt.com/pcloud-alternative)[Directory of Privacy Organizations](https://internxt.com/privacy-directory)[Cyber Awareness](https://internxt.com/cyber-awareness)[What Google Knows](https://internxt.com/what-does-google-know-about-me)
 
 ### Free Tools
 
@@ -1267,12 +1253,24 @@ Kick off your privacy journey!
 
 Choose plan
 
+Hold on! Special 75% OFF deal!
+
+There's an exclusive offer waiting for you.
+
+75% OFF all plans
+
+30-day money-back guarantee
+
+![Internxt Drive](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Ffreeuser%2FInternxt_storage.webp&w=1080&q=75)
+
 Get 75% OFF all our Premium Plans
 ---------------------------------
 
 Special offer: store files in privacy for less
 
-Get the dealContinue with free plan
+Get the deal
+
+Continue with free plan
 
 30-day money-back guarantee
 
