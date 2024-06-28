@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=3161474&fmt=gif)
 
-[![Jupiter](/assets/images/header-white.svg?v=6fa9b831b3)](https://jupiter.money/)
+[![Jupiter](/assets/images/header-white.svg?v=c3dec6bd57)](https://jupiter.money/)
 
 * [Community](https://community.jupiter.money/)
 * [Products](https://jupiter.money/products/)
@@ -27,11 +27,11 @@
 * [Careers](https://jupiter.money/careers)
 * [Download Jupiter](https://jptr.onelink.me/TOMp/81c06bec)
 
-[![Jupiter](/assets/images/header-white.svg?v=6fa9b831b3)](https://jupiter.money/)
+[![Jupiter](/assets/images/header-white.svg?v=c3dec6bd57)](https://jupiter.money/)
 
 [Download Jupiter](https://jptr.onelink.me/TOMp/81c06bec)
 
-[![Jupiter](/assets/images/header-white.svg?v=6fa9b831b3)](https://jupiter.money/)
+[![Jupiter](/assets/images/header-white.svg?v=c3dec6bd57)](https://jupiter.money/)
 
 * [Community](https://community.jupiter.money/)
 * [Products](https://jupiter.money/products)
@@ -1363,29 +1363,29 @@ By agreeing to these Networth Terms, you agree that you have read and understood
 
 More from Jupiter
 
-[![Astronauts](/assets/images/footer-astronauts.svg?v=6fa9b831b3)
+[![Astronauts](/assets/images/footer-astronauts.svg?v=c3dec6bd57)
 
 #### Co-created community
 
-We’re building Jupiter hand-in-hand with users like you. Envision the bank you would want to be a part of.](https://community.jupiter.money/)[![Astronauts](/assets/images/finforall.svg?v=6fa9b831b3)
+We’re building Jupiter hand-in-hand with users like you. Envision the bank you would want to be a part of.](https://community.jupiter.money/)[![Astronauts](/assets/images/finforall.svg?v=c3dec6bd57)
 
 #### Demystifying your money
 
 Fun filled insights from FinForAll by Jupiter helps you make smarter financial decisons](https://jupiter.money/resources/finforall-by-jupiter/)
 
-![Astronauts](/assets/images/tnc.svg?v=6fa9b831b3)
+![Astronauts](/assets/images/tnc.svg?v=c3dec6bd57)
 
 New age banking demands [transparent terms and conditions](https://jupiter.money/terms-and-conditions/)
 
-![Astronauts](/assets/images/rupee.svg?v=6fa9b831b3)
+![Astronauts](/assets/images/rupee.svg?v=c3dec6bd57)
 
 No fine prints on Jupiter. Simple to understand [fees and charges.](https://jupiter.money/fees-rates-charges/)
 
 Check us out on our socials
 
-[![Email](/assets/images/mail.svg?v=6fa9b831b3)](mailto:support@jupiter.money) [![Facebook](/assets/images/facebook.svg?v=6fa9b831b3)](https://www.facebook.com/Jupiter-App-110524370493863) [![LinkedIn](/assets/images/linkedin.svg?v=6fa9b831b3)](https://in.linkedin.com/company/jupiter-money) [![YouTube](/assets/images/youtube.svg?v=6fa9b831b3)](https://www.youtube.com/channel/UCVST4WhYtGRlyt1u9CDNNVQ) [![Twitter](/assets/images/twitter.svg?v=6fa9b831b3)](https://twitter.com/TheJupiterApp)
+[![Email](/assets/images/mail.svg?v=c3dec6bd57)](mailto:support@jupiter.money) [![Facebook](/assets/images/facebook.svg?v=c3dec6bd57)](https://www.facebook.com/Jupiter-App-110524370493863) [![LinkedIn](/assets/images/linkedin.svg?v=c3dec6bd57)](https://in.linkedin.com/company/jupiter-money) [![YouTube](/assets/images/youtube.svg?v=c3dec6bd57)](https://www.youtube.com/channel/UCVST4WhYtGRlyt1u9CDNNVQ) [![Twitter](/assets/images/twitter.svg?v=c3dec6bd57)](https://twitter.com/TheJupiterApp)
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTExIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMTExIDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMzEuMTAyNSAxNy45Nzk5QzMxLjEwMjUgMTcuOTc5OSAyOS40MzM3IDIyLjEwNDggMjcuMzUzOCAyMS45MTQyQzI2LjIyMTcgMjEuODEwOSAyNS44NjM3IDIwLjg4MiAyNS44NjUxIDIwLjMxMzhMMjUuODkwOSA2LjI4NTE2SDIwLjI2NzZWMjAuNjU5M0MyMC4yNjI3IDIzLjAwMyAyMS45NjY0IDI1LjE0NzEgMjQuOTgyMiAyNS4yODQ2QzI3LjgyMDcgMjUuNDE0NCAzMS4wOTc2IDIxLjIyNiAzMS4wOTc2IDIxLjIyNkwzMS4wOTIgMjQuODM0NEwzNi42ODg4IDI0Ljc4ODNMMzYuNzIzIDYuMjg3OTVIMzEuMTI4M0wzMS4xMDI1IDE3Ljk3OTlaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDkuODg4NyA2LjM2ODc3QzQ3LjgyOTEgNi4zNjUyOCA0Ni4wMTU4IDcuMzkxOTYgNDQuNzcgOC45NTExNkw0NC43NDk3IDYuMjg3MTFIMzkuMTc3M0wzOS4xMzQ4IDMxLjk5MUw0NC43MzIzIDMyLjAwMDFMNDQuNzQ0MSAyMi42OTU4QzQ1Ljc3MTUgMjQuMTg5NCA0Ny42ODc0IDI1LjMyOTEgNDkuODUzOCAyNS4zMzMzQzUzLjcyNTMgMjUuMzQwMyA1Ny4xMDYxIDIxLjQwNDYgNTcuMTE2NiAxNS44NjQzQzU3LjEyNzEgMTAuMzI0IDUzLjc2MDIgNi4zNzU3NSA0OS44ODg3IDYuMzY4NzdaTTQ4LjExODcgMjIuOTAxN0M0Ni43MzMzIDIyLjkwMTcgNDUuMjgwMiAyMS4yNDEzIDQ0Ljc0OTcgMTkuODkwN0w0NC43NjQ0IDExLjc5NDZDNDUuMjk5NyAxMC40NDYyIDQ2Ljc1ODQgOC43OTM0MyA0OC4xNDMxIDguNzkzNDNDNTAuMTMyMyA4Ljc5NjkyIDUxLjA1MjIgMTEuMTI4NyA1MS4wNDMxIDE1Ljg1MjRDNTEuMDM0IDIwLjU3NjEgNTAuMTA3MSAyMi45MDUyIDQ4LjExODcgMjIuOTAxN1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik01OS4xMjExIDI0LjkwNDhINjQuNzEzTDY0Ljc0NzkgNi4yODc4NEg1OS4xMjExVjI0LjkwNDhaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNODYuMDI1NCA2LjMyNjlDODAuMzQyNyA2LjMyNjkgNzYuODE4OCAxMC42Nzc5IDc2LjgxMjUgMTUuNzkyNEM3Ni44MDIxIDIxLjMzMjcgODAuNzQyNiAyNS4wNjQ2IDg1LjYzOCAyNS4yOTE0Qzg3Ljg3ODQgMjUuMzk0NyA5MC45OTU0IDI0LjAwMDIgOTIuNDc3OSAyMi40NzhMOTEuNTY5OCAyMS4xNjUyQzg4LjYxMzMgMjMuNzE5IDg3LjI5ODQgMjMuNDA5OCA4Ny4yOTg0IDIzLjQwOThDODMuNjA0OSAyMy40MDM1IDgyLjk0NjcgMjAuNTI0NSA4Mi45NTY1IDE1LjU4NzlMOTMuODIzNSAxNS42MDc1QzkzLjUzNzMgOS43Mjg2OCA5MC4xMTg4IDYuMzI2MjEgODYuMDI1NCA2LjMyNjlaTTg4LjM4OTMgMTMuODc0NUw4Mi45NTc5IDEzLjg2NDdDODIuOTYzNSAxMC45NTIyIDgzLjc4MzYgNy4yODU4OCA4Ni4wMjEyIDcuMjg1ODhDODcuNzQzIDcuMjg1ODggODguNTc0MyAxMS40OTAzIDg4LjM4OTMgMTMuODc0NVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik03Ny4zNzE3IDYuMTk0OTVMNzQuMjg4OSA2LjE4NjU4TDc0LjI5ODcgMEw2Ni4yMjA3IDcuOTQ2NzlMNjguNiA3Ljk1MjM3TDY4LjYxNjcgMjQuODgwM0g3NC4yNDE1TDc0LjI4NDcgNy45MTI1OUw3Ny4zNjc2IDcuOTIwOTZMNzcuMzcxNyA2LjE5NDk1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwNS43MjUgNi4xMzE0MkMxMDMuOTkgNi42MzM5MyAxMDIuMzMgOC4wMTU4NiAxMDEuMTk0IDkuNDExNzVMMTAxLjE5OSA2LjIxMjM4SDk1LjU3MjNWMjQuODI5M0g5OC41NDEzTDEwMS4xNjkgMjQuODM0MkwxMDEuMTg3IDEyLjc5OTZWMTIuMjQxMkMxMDEuOTQ2IDEwLjk1OTggMTAzLjI3MyA5LjEzNTM3IDEwNC42MzIgOS4yNTk2QzEwNS41MzkgOS4zNDMzNSAxMDYuMjkzIDEwLjMzOTMgMTA2LjI5NiAxMS4yNTcxTDExMC4yIDcuNDMyMzhDMTEwLjI3NSA3LjM1NyAxMDguMDQyIDUuNDYxMzkgMTA1LjcyNSA2LjEzMTQyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTExLjY5MjcgNS4yNDc3M0MxMS42ODIyIDguNDY2NjQgMTEuNjcyNCAyMC40NjI5IDExLjY2MTkgMjMuNjgzOUMxMS42NTI5IDI2LjYzODMgMTAuMzk4IDI4LjcwOTEgNy41MzM2MSAyOC42OTMxQzQuMDMyMDIgMjguNjcxNCAyLjg5Mjk4IDI2LjIgMi4zNDY0OSAyMy4zNTE3QzIuODgyMzcgMjMuNzQ5NyAzLjQ5MDMzIDI0LjA0IDQuMTM2NzEgMjQuMjA2N0M0LjM4NzY2IDI0LjI2ODMgNC42NDkzNCAyNC4yNzIgNC45MDE5NCAyNC4yMTc2QzUuMTU0NTQgMjQuMTYzMSA1LjM5MTQzIDI0LjA1MTggNS41OTQ2NyAyMy44OTIyQzUuNzk3OSAyMy43MzI2IDUuOTYyMTUgMjMuNTI4OSA2LjA3NDk4IDIzLjI5NjRDNi4xODc4MSAyMy4wNjQgNi4yNDYyNiAyMi44MDg5IDYuMjQ1OSAyMi41NTA0VjE3LjA3ODZIMFYyMC42NTk3TDAuMDEyNTYyNSAyMC42OEMwLjMwOTE4OSAzMC4xNjM2IDYuMjUyMTggMzEuODg5NiA5LjE5NDcxIDMxLjk2NzhDOS44NzY0OCAzMS45ODcxIDEwLjU1ODMgMzEuOTMxMSAxMS4yMjc4IDMxLjgwMUMxMy4xMzg4IDMxLjQyNjIgMTQuODc3NCAzMC4zOTExIDE2LjAzNjcgMjguODE1OUMxNy41NTEyIDI2Ljc1NTYgMTcuNzY3NiAyNC4yOTA0IDE3Ljc3MzEgMjEuODEzNEMxNy43Nzg3IDE4Ljc0ODEgMTcuNzg1IDkuNDU5ODIgMTcuNzkxMyA2LjM5NTg1TDE3LjgwMzggMC4wMTI0NTEySDExLjcwODdDMTEuNzA0MSAxLjc1NzMxIDExLjY5ODcgMy41MDI0IDExLjY5MjcgNS4yNDc3M1oiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=) [![](/assets/images/lrs/play-store.png?v=a1610f080b)](https://jptr.onelink.me/TOMp/81c06bec) [![](/assets/images/lrs/app-store.png?v=6fa9b831b3alt="")](https://jptr.onelink.me/TOMp/47e82735)
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTExIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMTExIDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMzEuMTAyNSAxNy45Nzk5QzMxLjEwMjUgMTcuOTc5OSAyOS40MzM3IDIyLjEwNDggMjcuMzUzOCAyMS45MTQyQzI2LjIyMTcgMjEuODEwOSAyNS44NjM3IDIwLjg4MiAyNS44NjUxIDIwLjMxMzhMMjUuODkwOSA2LjI4NTE2SDIwLjI2NzZWMjAuNjU5M0MyMC4yNjI3IDIzLjAwMyAyMS45NjY0IDI1LjE0NzEgMjQuOTgyMiAyNS4yODQ2QzI3LjgyMDcgMjUuNDE0NCAzMS4wOTc2IDIxLjIyNiAzMS4wOTc2IDIxLjIyNkwzMS4wOTIgMjQuODM0NEwzNi42ODg4IDI0Ljc4ODNMMzYuNzIzIDYuMjg3OTVIMzEuMTI4M0wzMS4xMDI1IDE3Ljk3OTlaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNDkuODg4NyA2LjM2ODc3QzQ3LjgyOTEgNi4zNjUyOCA0Ni4wMTU4IDcuMzkxOTYgNDQuNzcgOC45NTExNkw0NC43NDk3IDYuMjg3MTFIMzkuMTc3M0wzOS4xMzQ4IDMxLjk5MUw0NC43MzIzIDMyLjAwMDFMNDQuNzQ0MSAyMi42OTU4QzQ1Ljc3MTUgMjQuMTg5NCA0Ny42ODc0IDI1LjMyOTEgNDkuODUzOCAyNS4zMzMzQzUzLjcyNTMgMjUuMzQwMyA1Ny4xMDYxIDIxLjQwNDYgNTcuMTE2NiAxNS44NjQzQzU3LjEyNzEgMTAuMzI0IDUzLjc2MDIgNi4zNzU3NSA0OS44ODg3IDYuMzY4NzdaTTQ4LjExODcgMjIuOTAxN0M0Ni43MzMzIDIyLjkwMTcgNDUuMjgwMiAyMS4yNDEzIDQ0Ljc0OTcgMTkuODkwN0w0NC43NjQ0IDExLjc5NDZDNDUuMjk5NyAxMC40NDYyIDQ2Ljc1ODQgOC43OTM0MyA0OC4xNDMxIDguNzkzNDNDNTAuMTMyMyA4Ljc5NjkyIDUxLjA1MjIgMTEuMTI4NyA1MS4wNDMxIDE1Ljg1MjRDNTEuMDM0IDIwLjU3NjEgNTAuMTA3MSAyMi45MDUyIDQ4LjExODcgMjIuOTAxN1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik01OS4xMjExIDI0LjkwNDhINjQuNzEzTDY0Ljc0NzkgNi4yODc4NEg1OS4xMjExVjI0LjkwNDhaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNODYuMDI1NCA2LjMyNjlDODAuMzQyNyA2LjMyNjkgNzYuODE4OCAxMC42Nzc5IDc2LjgxMjUgMTUuNzkyNEM3Ni44MDIxIDIxLjMzMjcgODAuNzQyNiAyNS4wNjQ2IDg1LjYzOCAyNS4yOTE0Qzg3Ljg3ODQgMjUuMzk0NyA5MC45OTU0IDI0LjAwMDIgOTIuNDc3OSAyMi40NzhMOTEuNTY5OCAyMS4xNjUyQzg4LjYxMzMgMjMuNzE5IDg3LjI5ODQgMjMuNDA5OCA4Ny4yOTg0IDIzLjQwOThDODMuNjA0OSAyMy40MDM1IDgyLjk0NjcgMjAuNTI0NSA4Mi45NTY1IDE1LjU4NzlMOTMuODIzNSAxNS42MDc1QzkzLjUzNzMgOS43Mjg2OCA5MC4xMTg4IDYuMzI2MjEgODYuMDI1NCA2LjMyNjlaTTg4LjM4OTMgMTMuODc0NUw4Mi45NTc5IDEzLjg2NDdDODIuOTYzNSAxMC45NTIyIDgzLjc4MzYgNy4yODU4OCA4Ni4wMjEyIDcuMjg1ODhDODcuNzQzIDcuMjg1ODggODguNTc0MyAxMS40OTAzIDg4LjM4OTMgMTMuODc0NVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik03Ny4zNzE3IDYuMTk0OTVMNzQuMjg4OSA2LjE4NjU4TDc0LjI5ODcgMEw2Ni4yMjA3IDcuOTQ2NzlMNjguNiA3Ljk1MjM3TDY4LjYxNjcgMjQuODgwM0g3NC4yNDE1TDc0LjI4NDcgNy45MTI1OUw3Ny4zNjc2IDcuOTIwOTZMNzcuMzcxNyA2LjE5NDk1WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEwNS43MjUgNi4xMzE0MkMxMDMuOTkgNi42MzM5MyAxMDIuMzMgOC4wMTU4NiAxMDEuMTk0IDkuNDExNzVMMTAxLjE5OSA2LjIxMjM4SDk1LjU3MjNWMjQuODI5M0g5OC41NDEzTDEwMS4xNjkgMjQuODM0MkwxMDEuMTg3IDEyLjc5OTZWMTIuMjQxMkMxMDEuOTQ2IDEwLjk1OTggMTAzLjI3MyA5LjEzNTM3IDEwNC42MzIgOS4yNTk2QzEwNS41MzkgOS4zNDMzNSAxMDYuMjkzIDEwLjMzOTMgMTA2LjI5NiAxMS4yNTcxTDExMC4yIDcuNDMyMzhDMTEwLjI3NSA3LjM1NyAxMDguMDQyIDUuNDYxMzkgMTA1LjcyNSA2LjEzMTQyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTExLjY5MjcgNS4yNDc3M0MxMS42ODIyIDguNDY2NjQgMTEuNjcyNCAyMC40NjI5IDExLjY2MTkgMjMuNjgzOUMxMS42NTI5IDI2LjYzODMgMTAuMzk4IDI4LjcwOTEgNy41MzM2MSAyOC42OTMxQzQuMDMyMDIgMjguNjcxNCAyLjg5Mjk4IDI2LjIgMi4zNDY0OSAyMy4zNTE3QzIuODgyMzcgMjMuNzQ5NyAzLjQ5MDMzIDI0LjA0IDQuMTM2NzEgMjQuMjA2N0M0LjM4NzY2IDI0LjI2ODMgNC42NDkzNCAyNC4yNzIgNC45MDE5NCAyNC4yMTc2QzUuMTU0NTQgMjQuMTYzMSA1LjM5MTQzIDI0LjA1MTggNS41OTQ2NyAyMy44OTIyQzUuNzk3OSAyMy43MzI2IDUuOTYyMTUgMjMuNTI4OSA2LjA3NDk4IDIzLjI5NjRDNi4xODc4MSAyMy4wNjQgNi4yNDYyNiAyMi44MDg5IDYuMjQ1OSAyMi41NTA0VjE3LjA3ODZIMFYyMC42NTk3TDAuMDEyNTYyNSAyMC42OEMwLjMwOTE4OSAzMC4xNjM2IDYuMjUyMTggMzEuODg5NiA5LjE5NDcxIDMxLjk2NzhDOS44NzY0OCAzMS45ODcxIDEwLjU1ODMgMzEuOTMxMSAxMS4yMjc4IDMxLjgwMUMxMy4xMzg4IDMxLjQyNjIgMTQuODc3NCAzMC4zOTExIDE2LjAzNjcgMjguODE1OUMxNy41NTEyIDI2Ljc1NTYgMTcuNzY3NiAyNC4yOTA0IDE3Ljc3MzEgMjEuODEzNEMxNy43Nzg3IDE4Ljc0ODEgMTcuNzg1IDkuNDU5ODIgMTcuNzkxMyA2LjM5NTg1TDE3LjgwMzggMC4wMTI0NTEySDExLjcwODdDMTEuNzA0MSAxLjc1NzMxIDExLjY5ODcgMy41MDI0IDExLjY5MjcgNS4yNDc3M1oiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=) [![](/assets/images/lrs/play-store.png?v=a1610f080b)](https://jptr.onelink.me/TOMp/81c06bec) [![](/assets/images/lrs/app-store.png?v=c3dec6bd57alt="")](https://jptr.onelink.me/TOMp/47e82735)
 
 * ABOUT
 * [Roadmap](https://trello.com/b/gehmc4Ig/building-jupiter)
@@ -1467,7 +1467,7 @@ Check us out on our socials
 | Health Insurance | AFTPL through its brand Jupiter has partnered with Onsurity to provide Health Insurance Products to consumers. |
 | Gift Cards | AFTPL through its brand Jupiter has partnered with Pine Labs to provide Pre Paid Gift Card Products to consumers. |
 
-![](/assets/images/bg_footer.svg?v=6fa9b831b3)
+![](/assets/images/bg_footer.svg?v=c3dec6bd57)
 
 We work with trusted partners
 
@@ -1475,11 +1475,11 @@ Jupiter deploys high level security standards to keep your money safe
 
 ##### SECURITY PARTNERS
 
-![Security partners logos](/assets/images/security-partners.svg?v=6fa9b831b3)
+![Security partners logos](/assets/images/security-partners.svg?v=c3dec6bd57)
 
 ##### BANKING AND PAYMENT PARTNERS
 
-![Banking partners logos](/assets/images/bank-partners.svg?v=6fa9b831b3)
+![Banking partners logos](/assets/images/bank-partners.svg?v=c3dec6bd57)
 
 The savings account, bank deposits and cobranded VISA Debit Card are issued by Federal Bank - a scheduled commercial bank. All funds in the account are insured up to approved limits by DICGC. Your Savings Account and bank deposits are hosted by our partner bank and follows all security standards prescribed by the bank/regulator. Co-branded Credit Cards : AFTPL through its brand Jupiter is a marketplace and promotes co-branded cards distributed by Europa Neo Marketing Pvt Ltd in partnership with the following issuers: Federal Bank and CSB Bank. Approval of your credit card application is subject to issuer banks eligibility criteria. 'Jupiter' itself is not a bank and doesn't hold or claim to hold a banking license. Your money is always safe with our partner bank. Amica Investment Advisers Private Limited, is a SEBI registered Investment Adviser - INA000015507. Mutual Funds investments are subject to market risks, read all scheme related documents carefully. Past performance is not an indicator for future returns.
 
