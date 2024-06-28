@@ -8,7 +8,7 @@
 
 [team](https://facepunch.com/team)
 
-[careers (3)](https://facepunch.com/careers)
+[careers (2)](https://facepunch.com/careers)
 
 [contact](https://facepunch.com/contact)
 
@@ -20,7 +20,7 @@ Open Menu Close Menu
 
 [team](https://facepunch.com/team)
 
-[careers (3)](https://facepunch.com/careers)
+[careers (2)](https://facepunch.com/careers)
 
 [contact](https://facepunch.com/contact)
 
@@ -30,7 +30,7 @@ Open Menu Close Menu
 
 [team](https://facepunch.com/team)
 
-[careers (3)](https://facepunch.com/careers)
+[careers (2)](https://facepunch.com/careers)
 
 [contact](https://facepunch.com/contact)
 
