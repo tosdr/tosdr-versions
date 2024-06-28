@@ -160,7 +160,7 @@ If you have any questions or concerns about our Privacy Policy or its implementa
 
 #### Was this article helpful?
 
-[7457](#) [2118](#)
+[7460](#) [2120](#)
 
 #### Related Questions:
 
