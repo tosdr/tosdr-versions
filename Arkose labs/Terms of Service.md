@@ -20,7 +20,7 @@
     * Business Model Abuse
     * [Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/ "Web Scraping and Content Theft")
     * [GPT Prompt Compromise](https://www.arkoselabs.com/latest-news/arkose-labs-first-bot-management-company-roll-out-protections-enterprise-gpt-applications/ "GPT Prompt Compromise")
-    * [LLM Platform Abuse](https://www.arkoselabs.com/blog/navigating-frontier-ai-driven-cybersecurity-threats/ "LLM Platform Abuse")
+    * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
     * In Platform Abuse
     * [API Security](https://www.arkoselabs.com/solutions/api-abuse/ "API Security")
@@ -166,7 +166,7 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
     
     Business Model Abuse* [Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/ "Web Scraping and Content Theft")
     * [GPT Prompt Compromise](https://www.arkoselabs.com/latest-news/arkose-labs-first-bot-management-company-roll-out-protections-enterprise-gpt-applications/ "GPT Prompt Compromise")
-    * [LLM Platform Abuse](https://www.arkoselabs.com/blog/navigating-frontier-ai-driven-cybersecurity-threats/ "LLM Platform Abuse")
+    * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
     In Platform Abuse* [API Security](https://www.arkoselabs.com/solutions/api-abuse/ "API Security")
     * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
