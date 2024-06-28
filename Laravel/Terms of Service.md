@@ -1,3 +1,7 @@
+[Laravel Vapor](https://vapor.laravel.com/)
+
+[Sign in](https://vapor.laravel.com/login) [Get Started](https://vapor.laravel.com/register)
+
 Laravel Vapor Terms of Service
 ==============================
 
@@ -98,3 +102,23 @@ The failure of Laravel Vapor to exercise or enforce any right or provision of th
 **Statute Of Limitations**
 
 You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of Laravel Vapor services or the Terms of Service must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+[Laravel Vapor](https://vapor.laravel.com/)
+
+#### Ecosystem
+
+* [Laravel](https://laravel.com/)
+* [Laracasts](https://laracasts.com/)
+* [Forge](https://forge.laravel.com/)
+* [Envoyer](https://envoyer.io/)
+* [Nova](https://nova.laravel.com/)
+
+#### Legal
+
+* [Privacy](https://vapor.laravel.com/privacy)
+* [Terms of Service](https://vapor.laravel.com/terms)
+* [Data Processing Agreement](https://vapor.laravel.com/agreement)
+
+![](https://d2n6cmh8j179w8.cloudfront.net/82721c8a-19b8-4be7-b5f4-5e42237ddbb0/build/assets/cubes-wide-1497e4f0.png)
+
+Copyright © Laravel Holdings Inc. - 2024
