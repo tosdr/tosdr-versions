@@ -1047,6 +1047,58 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [HR Business Partner](https://cvcompiler.com/hr-business-partner-resume-examples)
 
+[Digital Marketing Specialist](https://cvcompiler.com/digital-marketing-specialist-resume-examples)
+
+[Instructional Designer](https://cvcompiler.com/instructional-designer-resume-examples)
+
+[Entry-Level Administrative Assistant](https://cvcompiler.com/entry-level-administrative-assistant-resume-examples)
+
+[Junior Accountant](https://cvcompiler.com/junior-accountant-resume-examples)
+
+[Node.js Developer](https://cvcompiler.com/node-js-developer-resume-examples)
+
+[Preschool Teacher Assistant](https://cvcompiler.com/preschool-teacher-assistant-resume-examples)
+
+[AWS Full Stack Developer](https://cvcompiler.com/aws-full-stack-developer-resume-examples)
+
+[Customer Service Executive](https://cvcompiler.com/customer-service-executive-resume-examples)
+
+[Inside Sales](https://cvcompiler.com/inside-sales-resume-examples)
+
+[Bank Manager](https://cvcompiler.com/bank-manager-resume-examples)
+
+[Leasing Agent](https://cvcompiler.com/leasing-agent-resume-examples)
+
+[Salesforce Administrator](https://cvcompiler.com/salesforce-administrator-resume-examples)
+
+[Operations Director](https://cvcompiler.com/operations-director-resume-examples)
+
+[Marketing Coordinator](https://cvcompiler.com/marketing-coordinator-resume-examples)
+
+[Computer Science Intern](https://cvcompiler.com/computer-science-intern-resume-examples)
+
+[Engineering Intern](https://cvcompiler.com/engineering-intern-resume-examples)
+
+[Marketing Specialist](https://cvcompiler.com/marketing-specialist-resume-examples)
+
+[Chief Technology Officer](https://cvcompiler.com/chief-technology-officer-resume-examples)
+
+[Entry-Level Social Worker](https://cvcompiler.com/entry-level-social-worker-resume-examples)
+
+[Chartered Accountant](https://cvcompiler.com/chartered-accountant-resume-examples)
+
+[Elementary School Teacher](https://cvcompiler.com/elementary-school-teacher-resume-examples)
+
+[IT Recruiter](https://cvcompiler.com/it-recruiter-resume-examples)
+
+[Freelance Photographer](https://cvcompiler.com/freelance-photographer-resume-examples)
+
+[General Manager](https://cvcompiler.com/general-manager-resume-examples)
+
+[HR Director](https://cvcompiler.com/hr-director-resume-examples)
+
+[Travel Agent](https://cvcompiler.com/travel-agent-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
