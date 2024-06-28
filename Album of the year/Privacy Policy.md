@@ -93,18 +93,6 @@ Advertisement
 
 [New Album Releases](https://www.albumoftheyear.org/releases/this-week/)
 
-NR
-
-[JPEGMAFIA
-
-don't rely on other men](https://www.albumoftheyear.org/album/987002-jpegmafia-dont-rely-on-other-men.php)
-
-NR
-
-[Aphex Twin
-
-#19](https://www.albumoftheyear.org/album/988725-aphex-twin-19.php)
-
 90
 
 [Charli xcx
@@ -117,11 +105,23 @@ The girl, so confusing version with lorde](https://www.albumoftheyear.org/album/
 
 The Secret of Us](https://www.albumoftheyear.org/album/944069-gracie-abrams-the-secret-of-us.php)
 
+80
+
+[Alcest
+
+Les Chants de l'Aurore](https://www.albumoftheyear.org/album/882830-alcest-les-chants-de-laurore.php)
+
+74
+
+[Kehlani
+
+CRASH](https://www.albumoftheyear.org/album/958422-kehlani-crash.php)
+
 NR
 
-[King Krule
+[SOPHIE
 
-SHHHHHHH!](https://www.albumoftheyear.org/album/990792-king-krule-shhhhhhh.php)
+Reason Why](https://www.albumoftheyear.org/album/995294-sophie-reason-why.php)
 
 [More Releases](https://www.albumoftheyear.org/releases/this-week/)
 
@@ -133,25 +133,25 @@ SHHHHHHH!](https://www.albumoftheyear.org/album/990792-king-krule-shhhhhhh.php)
 
 [![Ulcerate - Cutting the Throat of God](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/901868-ulcerate-cutting-the-throat-of-god.php "Ulcerate - Cutting the Throat of God")
 
+[![Mabe Fratti - Sentir Que No Sabes](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/943868-mabe-fratti-sentir-que-no-sabes.php "Mabe Fratti - Sentir Que No Sabes")
+
 [![Knocked Loose - You Won't Go Before You're Supposed To](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/887049-knocked-loose-you-wont-go-before-youre-supposed-to.php "Knocked Loose - You Won't Go Before You're Supposed To")
 
-[![Mdou Moctar - Funeral For Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral For Justice")
-
-[![A. G. Cook - Britpop](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/878112-a-g-cook-britpop.php "A. G. Cook - Britpop")
+[![Mdou Moctar - Funeral for Justice](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/888230-mdou-moctar-funeral-for-justice.php "Mdou Moctar - Funeral for Justice")
 
 [![Jessica Pratt - Here in the Pitch](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/874771-jessica-pratt-here-in-the-pitch.php "Jessica Pratt - Here in the Pitch")
-
-[![Arooj Aftab - Night Reign](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign.php "Arooj Aftab - Night Reign")
 
 [![Beth Gibbons - Lives Outgrown](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/863906-beth-gibbons-lives-outgrown.php "Beth Gibbons - Lives Outgrown")
 
 [![Billie Eilish - HIT ME HARD AND SOFT](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/924853-billie-eilish-hit-me-hard-and-soft.php "Billie Eilish - HIT ME HARD AND SOFT")
 
+[![Arooj Aftab - Night Reign](https://cdn.albumoftheyear.org/images/clear.gif)](https://www.albumoftheyear.org/album/928256-arooj-aftab-night-reign.php "Arooj Aftab - Night Reign")
+
 Advertisement
 
   
 
-[May Playlist](https://open.spotify.com/playlist/4WAbeBDUsAKNCGZKbu14gV?si=36f3773661ab4fa7)
+[June Playlist](https://open.spotify.com/playlist/54vFjAT3LJfuZFl2jUIcjB?si=88f712e42acf4ade)
 
 [Go Ad-Free](https://www.albumoftheyear.org/donate/)
 
