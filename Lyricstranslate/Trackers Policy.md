@@ -171,85 +171,81 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Icey](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1172336-1552661453.png)](https://lyricstranslate.com/en/translator/icey "Icey")
+[![hyunslove](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1530436-1711986496.jpg)](https://lyricstranslate.com/en/translator/hyunslove "hyunslove")
 
 New translation
 
-[Avril Lavigne - I Can Do Better](https://lyricstranslate.com/en/avril-lavigne-i-can-do-better-italian)
+[NAYEON - ABCD](https://lyricstranslate.com/en/nayeon-abcd-serbian)
 
-English → Italian
+English → Serbian
 
-[![Jacob De Camillis](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/jacob-de-camillis "Jacob De Camillis")
-
-New translation
-
-[Marem Gökhan Şen - Mэжей мэжей](https://lyricstranslate.com/en/marem-gokhan-sen-mezhey-mezhey-turkish)
-
-Circassian → Turkish
-
-[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1715971153.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
 New translation
 
-[Chris Norman - All Alone](https://lyricstranslate.com/en/chris-norman-all-alone-romanian)
+[LISA - ROCKSTAR](https://lyricstranslate.com/en/lisa-rockstar-russian)
 
-English → Romanian
+English → Russian
 
-[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
-
-New translation
-
-[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-transliteration)
-
-English → Transliteration
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[French Children's Songs - Petit Papa Noël](https://lyricstranslate.com/en/petit-papa-noel-beloved-kris-kringle.html-1)
+[Luca Barbarossa - Piazza Navona](https://lyricstranslate.com/en/luca-barbarossa-piazza-navona-english)
 
-French → English
+Italian → English
 
-[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1706555942.jpg)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New comment
+
+I'm quite aware of that - But this is not the ...  [more](https://lyricstranslate.com/en/comment/1151731#comment-1151731)
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1706555942.jpg)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
 
 New translation
 
-[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-english)
+[Elisabeth das Musical - Quand je veux danser \[Wenn ich tanzen will\]](https://lyricstranslate.com/en/elisabeth-das-musica-quand-je-veux-danser-wen-portuguese)
 
-English → English
+French → Portuguese
 
-[![Jacob De Camillis](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/jacob-de-camillis "Jacob De Camillis")
+[![Don Tornado](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/don-tornado "Don Tornado")
+
+New translation
+
+[Ros Serey Sothea - បើបងស្រឡាញ់ខ្ញុំ (Bae Bong Sralanh Khn’om)](https://lyricstranslate.com/en/ros-serey-sothea-bae-bong-sralanh-khnom-english)
+
+Khmer → English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Luca Barbarossa - Con i jeans e gli stivali](https://lyricstranslate.com/en/luca-barbarossa-con-i-jeans-e-gli-stivali-english)
+
+Italian → English
+
+[![Bloomidoly](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/bloomidoly "Bloomidoly")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1151730#comment-1151730)
+
+[![Famau](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1622449-1719531159.png)](https://lyricstranslate.com/en/translator/famau "Famau")
+
+New request
+
+[Olakira - Sere](https://lyricstranslate.com/en/request/sere-2)
+
+English (Nigerian Pidgin) → Portuguese
+
+[![Don Tornado](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/don-tornado "Don Tornado")
 
 New song
 
-[Marem Gökhan Şen - Mэжей мэжей](https://lyricstranslate.com/en/marem-gokhan-sen-mezhey-mezhey-lyrics)
+[Ros Serey Sothea - បើបងស្រឡាញ់ខ្ញុំ](https://lyricstranslate.com/en/ros-serey-sothea-bae-bong-sralanh-khnom-lyrics)
 
-Circassian
-
-[![Hikari_chan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611896-1710403464.jpg)](https://lyricstranslate.com/en/translator/hikarichan "Hikari_chan")
-
-New translation
-
-[NAYEON - NO PROBLEM](https://lyricstranslate.com/en/nayeon-no-problem-hungarian)
-
-English → Hungarian
-
-[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
-
-New translation
-
-[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-portuguese)
-
-English → Portuguese
-
-[![merinabi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554994-1709935735.jpg)](https://lyricstranslate.com/en/translator/merinabi "merinabi")
-
-New translation
-
-[Coldplay - all my love](https://lyricstranslate.com/en/coldplay-all-my-love-turkish)
-
-English → Turkish
+Khmer
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
