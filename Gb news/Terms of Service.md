@@ -70,7 +70,7 @@
 
 [Comment](#comments)Share[Next](#)
 
-[DON'T LET THEM SILENCE YOU—SUPPORT GB NEWS](https://www.gbnews.uk/support "DON'T LET THEM SILENCE YOU – SUPPORT GB NEWS")
+[ELECTION NIGHT PARTY—GET YOUR TICKETS NOW](https://www.universe.com/events/the-gb-news-election-night-watch-party-tickets-1QZ7WG "ELECTION NIGHT PARTY - GET YOUR TICKETS NOW")
 
 ### Share this
 
@@ -84,7 +84,7 @@ Terms
 GB News Terms of Use
 --------------------
 
-**Last updated: 28th March 2024**
+**Last updated: 26th June 2024**
 
 Welcome to the GB News website and app (the "Service"). The Service includes anything made available on our website and application, including features, functionalities, user interfaces, and any other content (such as comments, articles, games, graphics, software, video clips, programmes and channels) (“Content”).
 
@@ -238,6 +238,18 @@ GB News welcomes donations in order to support its invaluable work as the home o
 * Severance: If any paragraph or section of these Terms of Use is held to be unlawful, invalid or unenforceable by a court or legal authority, that paragraph or section shall be treated as removed. The validity and enforceability of the remaining parts of these Terms of Use shall continue and will not be affected.
 * Waiver: To the extent we fail to or decide not to exercise any right of claim against you to which we are entitled, this will not constitute a waiver of that right unless otherwise indicated to you in writing.
 * Governing law and jurisdiction: These Terms of Use shall be governed by and construed in accordance with the laws of England and Wales. However, these Terms of Use will not limit any consumer protection rights that you may be entitled to under the mandatory laws of your country of residence. If you live in the UK, you will only be able to bring a claim related to or arising from these Terms of Use in the courts of England and Wales. If you do not live in the UK, you can bring a claim in the courts of your territory of residence
+
+**16\. Voting – Terms and conditions**  
+
+* Answer the promoted yes or no question by sending GBYES (Yes) or GBNO (No) to 63333. Texts cost 50p plus your standard network rate.
+* Users of the service must be 18 or over and have the bill payer’s permission.
+* Votes are open to UK residents only.
+* Votes sent outside of the vote window will not be counted but may be charged.
+* The only way to vote is via SMS message.
+* Multiple votes are permitted.
+* If you enter a vote, we may send you SMS marketing messages relating to the vote which are free to receive. If you do not wish to receive further messages, there will be an opportunity to opt out as detailed in the text message(s) you will receive.
+* For queries, the customer helpline number is 0333 202 3390 (cost national rate).
+* The result to the vote will be announced on air after the end of the vote window.
 
 About Us
 
