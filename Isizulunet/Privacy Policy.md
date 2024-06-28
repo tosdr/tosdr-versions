@@ -17,7 +17,7 @@ When you visit my website, or use its OpenSearch interface or its API, your web 
 
 * The [IP address](https://en.wikipedia.org/wiki/IP_address) of the requesting computer, e.g.: **51.195.149.220**
 * The API username if applicable, e.g.: **johndoe**
-* The date and time of the request, e.g.: **22/Jun/2024:07:16:48**
+* The date and time of the request, e.g.: **28/Jun/2024:20:42:00**
 * The HTTP request [method](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods), e.g.: **GET**
 * The requested [URL path](https://en.wikipedia.org/wiki/URL#Syntax), e.g.: **/pvc/**
 * The HTTP version used in the request, e.g.: **HTTP/1.1**
