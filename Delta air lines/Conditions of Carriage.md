@@ -3,7 +3,7 @@ Contract of Carriage: International
 
 * * *
 
-Last Update: June 13, 2024.  [**Plain language version PDF**](https://www.delta.com/content/dam/delta-www/pdfs/dl-igr-master-13-jun-24.pdf)
+Last Update: June 25, 2024.  [**Plain language version PDF**](https://www.delta.com/content/dam/delta-www/pdfs/dl-igr-master-25-jun-24.pdf)
 
 |     |     |     |
 | --- | --- | --- |Contract Of Carriage: International
@@ -580,7 +580,7 @@ a)    it was not reasonably possible for him/her to give such notice, or
 b)    that notice was not given due to fraud on the part of Carrier, or  
 c)    the management of Carrier had knowledge of damage to passenger's baggage.  
   
-2) Any right to damages against Carrier shall be extinguished unless an action is brought within two years from the earliest to of the date of arrival at the destination, or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
+2) Any right to damages against Carrier shall be extinguished unless an action is brought within two years from the earliest to occur of the date of arrival at the destination, or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
 
 E)  OVERRIDING LAW\- Insofar as any provision contained or referred to in the ticket or in these Conditions of Carriage may be contrary to a law, government regulation, order or requirement which severally cannot be waived by agreement of the parties, such provisions shall remain applicable and be considered as part of the Contract of Carriage to the extent only that such provision is not contrary thereto.  The invalidity of any provision shall not affect any other part.  
   
@@ -624,7 +624,7 @@ Minimum check-in time of 2 hours will apply, except in the case of, Istanbul, Tu
 
 In the event of extended tarmac delays on flights operated by a Delta Codeshare Partner, the contingency plan for lengthy tarmac delays of the Operating Carrier will apply.
 
-**C. Additional Services Provided by Delta Codeshare Partners**
+**6\. Additional Services Provided by Delta Codeshare Partners**
 
 Delta Codeshare Partners may, in their discretion, accept more, larger or heavier items of checked baggage, accept specialty baggage items, accept additional carry-on items, accept unaccompanied minors, accept animals in the cabin or as cargo, and permit later check-in times. The Delta Codeshare Partner may charge a fee for any additional discretionary services it provides.  Any additional services provided at the discretion of the Delta Codeshare Partner are not within Delta’s control, are subject to change at any time, and do not form any part of the Contract of Carriage between you and Delta.
 
@@ -791,11 +791,11 @@ c. Rule 12(E) applies for validity of voluntarily exchanged/reissued tickets.
 
 When a passenger moves from one class of service to another while in flight, an additional collection will be made in an amount equal to the difference between:
 
-1\. The one-way fare applicable to the class of service used from passenger's point of origin on such flight to the last scheduled stop prior to the passenger's change in class of service, plus the one-way fare in the new class of service from such stop to the passenger's destination on such flight, and
+a. The one-way fare applicable to the class of service used from passenger's point of origin on such flight to the last scheduled stop prior to the passenger's change in class of service, plus the one-way fare in the new class of service from such stop to the passenger's destination on such flight, and
 
-2\. The fare paid for transportation from the passenger's origin to destination on such flight.
+b. The fare paid for transportation from the passenger's origin to destination on such flight.
 
-When the amount described in 1) above is less than the amount described in 2) above, no additional collection will be made. The acceptance of such passenger in the class of service to which he/she is moving for travel beyond the next scheduled stopping point in the flight is subject to availability. Discounts will not apply.
+When the amount described in a) above is less than the amount described in b) above, no additional collection will be made. The acceptance of such passenger in the class of service to which he/she is moving for travel beyond the next scheduled stopping point in the flight is subject to availability. Discounts will not apply.
 
 **B. Ticket reissue procedures**
 
