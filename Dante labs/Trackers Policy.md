@@ -1,8 +1,8 @@
          [Skip to content](#main-content)
 
-[Prime Access to Health: Dante Genome Test for $199](https://us.dantelabs.com/products/whole-genome-sequencing)
+[Prime Access to Health: Dante Genome Test for $249](https://us.dantelabs.com/products/whole-genome-sequencing)
 
-[Prime Access to Health: Dante Genome + All Panels Package $299](https://us.dantelabs.com/products/whole-genome-sequencing?variant=41097218949186)
+[Prime Access to Health: Dante Genome + All Panels Package $349](https://us.dantelabs.com/products/whole-genome-sequencing?variant=41097218949186)
 
 [Prime Access to Health: All Panels Package for $199](https://us.dantelabs.com/products/all-panels-package)
 
