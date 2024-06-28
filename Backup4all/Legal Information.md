@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
+* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to clear the backup](https://www.backup4all.com/how-to-clear-the-backup-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
     
-* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
     
-* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
+* [How to backup your data to LeoNovus](https://www.backup4all.com/how-to-backup-your-data-to-leonovus-kb.html)  
     
 
 Choose language:
