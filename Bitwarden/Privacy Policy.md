@@ -465,7 +465,7 @@ Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
 #### Company
 
-[About](https://bitwarden.com/about/)[Open Source](https://bitwarden.com/open-source/)[Careers](https://bitwarden.com/careers/)[Events](https://bitwarden.com/events/)[Media Spotlight](https://bitwarden.com/media-spotlight/)[Press Room](https://bitwarden.com/press-room/)[Blog](https://bitwarden.com/blog/)[Partners](https://bitwarden.com/partners/)
+[About](https://bitwarden.com/about/)[Open Source](https://bitwarden.com/open-source/)[Careers](https://bitwarden.com/careers/)[Events](https://bitwarden.com/events/)[Open Source Security Summit](https://bitwarden.com/open-source-security-summit/)[Press Room](https://bitwarden.com/press-room/)[Blog](https://bitwarden.com/blog/)[Partners](https://bitwarden.com/partners/)
 
 #### Resources
 
