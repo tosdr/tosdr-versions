@@ -13,7 +13,7 @@ Our name has changed but our mission has not: We save lives through cell therapy
 
 [](https://bethematch.org/ "Return to the homepage")
 
-[Give](https://bethematch.org/giveb/) [Join](https://my.bethematch.org/s/join?language=en_US&joinCode=headerjoin)
+[Give](https://bethematch.org/givea/) [Join](https://my.bethematch.org/s/join?language=en_US&joinCode=headerjoin)
 
 [Volunteer](https://bethematch.org/support-the-cause/participate/volunteer/) [Advocate](https://bethematch.org/support-the-cause/participate/join-our-legislative-advocacy-efforts/)
 
@@ -283,6 +283,7 @@ Search
     * [News Releases](https://bethematch.org/news/news-releases/)
         * [NMDP to Present New Stem Cell Transplantation Data at the 2024 American Society of Clinical Oncology Annual Meeting](https://bethematch.org/news/news-releases/nmdp-to-present-new-stem-cell-transplantation-data-at-the-2024-american-society-of-clinical-oncology-annual-meeting/)
         * [NMDP and CIBMTR to Present New Promising Stem Cell Transplantation Trial Data using Mismatched Unrelated Donors at 2024 ASCO Annual Meeting](https://bethematch.org/news/news-releases/nmdp-and-cibmtr-to-present-new-promising-stem-cell-transplantation-trial-data-using-mismatched-unrelated-donors-at-2024-asco-annual-meeting/)
+        * [NMDP Hires New Leaders to Executive Team to Continue Advancing Five-Year Strategic Plan](https://bethematch.org/news/news-releases/nmdp-hires-new-leaders-to-executive-team-to-continue-advancing-five-year-strategic-plan/)
     * [Media contacts](https://bethematch.org/news/media-contacts/)
     * [Maps](https://bethematch.org/news/maps/)
     * [Public service announcements](https://bethematch.org/news/public-service-announcements/)
