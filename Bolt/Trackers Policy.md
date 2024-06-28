@@ -53,7 +53,7 @@ Request a ride
 
 Order food
 
-Get the Bolt appGet the Bolt Food app[Request a ride online](https://m.bolt.eu/)
+Get the Bolt appGet the Bolt Food app
 
 [](https://www.facebook.com/Bolt/)[](https://x.com/Boltapp/)[](https://www.instagram.com/bolt/)[](https://www.linkedin.com/company/bolt-eu/)[](https://www.tiktok.com/@bolt)
 
