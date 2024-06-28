@@ -9,8 +9,6 @@ Connect with us
 
 Hi, what are you looking for?
 
- 
-
 [![Gearedtoyou](https://www.gearedtoyou.com/wp-content/uploads/2020/09/Geared_To_You_Logo_red-white.png)](https://www.gearedtoyou.com/)
 
 Gearedtoyou
@@ -101,20 +99,6 @@ Advertisement
 
 #### Trending
 
-[![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/Screenshot-2024-05-24-at-11.53.38 AM-100x100.png)](https://www.gearedtoyou.com/a-close-look-at-ferrari-12cilindri/)
-
-### Super Cars
-
-[A Close Look At The Ferrari 12Cilindri
---------------------------------------](https://www.gearedtoyou.com/a-close-look-at-ferrari-12cilindri/)
-
-[![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/shutterstock_2178429225-100x100.jpg)](https://www.gearedtoyou.com/all-you-need-to-know-about-the-convertible-ferrari-812-gts/)
-
-### Super Cars
-
-[All You Need To Know About The Convertible Ferrari 812 GTS
-----------------------------------------------------------](https://www.gearedtoyou.com/all-you-need-to-know-about-the-convertible-ferrari-812-gts/)
-
 [![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/shutterstock_1927122695-100x100.jpg)](https://www.gearedtoyou.com/exquisite-2021-ferrari-monza-sp2-is-up-for-auction/)
 
 ### Super Cars
@@ -122,19 +106,33 @@ Advertisement
 [The Exquisite 2021 Ferrari Monza SP2 Is Up For Auction
 ------------------------------------------------------](https://www.gearedtoyou.com/exquisite-2021-ferrari-monza-sp2-is-up-for-auction/)
 
-[![](https://www.gearedtoyou.com/wp-content/uploads/2024/03/shutterstock_2399025411-100x100.jpg)](https://www.gearedtoyou.com/introducing-the-legendary-chiron-by-bugatti-sur-mesure/)
-
-### Super Cars
-
-[Introducing The Legendary Chiron By Bugatti Sur Mesure
-------------------------------------------------------](https://www.gearedtoyou.com/introducing-the-legendary-chiron-by-bugatti-sur-mesure/)
-
 [![](https://www.gearedtoyou.com/wp-content/uploads/2024/05/Screenshot-2024-05-31-at-11.47.35 AM-100x100.png)](https://www.gearedtoyou.com/porsche-starts-testing-its-2026-911-gt2-rs-at-the-iconic-nurburgring/)
 
 ### Videos
 
 [Porsche Starts Testing Its 2026 911 GT2 RS At The Iconic Nurburgring
 --------------------------------------------------------------------](https://www.gearedtoyou.com/porsche-starts-testing-its-2026-911-gt2-rs-at-the-iconic-nurburgring/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2022/12/shutterstock_1392081296-100x100.jpg)](https://www.gearedtoyou.com/the-bugatti-chiron-sport-cross-a-mark-of-257-mph-on-the-german-autobahn/)
+
+### Videos
+
+[The Bugatti Chiron Sport Cross A Mark Of 257 MPH On The German Autobahn
+-----------------------------------------------------------------------](https://www.gearedtoyou.com/the-bugatti-chiron-sport-cross-a-mark-of-257-mph-on-the-german-autobahn/)
+
+[![](https://www.gearedtoyou.com/wp-content/uploads/2024/06/shutterstock_2455676095-100x100.jpg)](https://www.gearedtoyou.com/an-exclusive-2023-bmw-3-0-csl-is-now-up-for-sale/)
+
+### Super Cars
+
+[An Exclusive 2023 BMW 3.0 CSL Is Now Up For Sale
+------------------------------------------------](https://www.gearedtoyou.com/an-exclusive-2023-bmw-3-0-csl-is-now-up-for-sale/)
+
+[![Image Source:Hennessey Performance/ Youtube](https://www.gearedtoyou.com/wp-content/uploads/2024/06/maxresdefault-4-100x100.jpg)](https://www.gearedtoyou.com/exciting-drag-race-shmee150s-ford-gt-vs-hennesseys-1200-hp-beast-ram-trx/)
+
+### Super Cars
+
+[Exciting Drag Race: Shmee150’s Ford GT vs Hennessey’s 1,200 HP Beast RAM TRX
+----------------------------------------------------------------------------](https://www.gearedtoyou.com/exciting-drag-race-shmee150s-ford-gt-vs-hennesseys-1200-hp-beast-ram-trx/)
 
 Advertisement
 
