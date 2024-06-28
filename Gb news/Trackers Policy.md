@@ -70,7 +70,7 @@
 
 [Comment](#comments)Share[Next](#)
 
-[DON'T LET THEM SILENCE YOU—SUPPORT GB NEWS](https://www.gbnews.uk/support "DON'T LET THEM SILENCE YOU – SUPPORT GB NEWS")
+[ELECTION NIGHT PARTY—GET YOUR TICKETS NOW](https://www.universe.com/events/the-gb-news-election-night-watch-party-tickets-1QZ7WG "ELECTION NIGHT PARTY - GET YOUR TICKETS NOW")
 
 ### Share this
 
