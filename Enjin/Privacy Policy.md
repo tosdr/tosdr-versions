@@ -34,7 +34,7 @@ Get cENJ for testing on the canary network](https://faucet.canary.enjin.io/)
 
 More INfo
 
-[BUILD A WEB3 APP](https://www.enjin.com/join)
+[START BUILDING](https://www.enjin.com/join)
 
 ![](https://cdn.prod.website-files.com/60f57c496975b84c29335fb7/6658d73ab5a484b57adb9267_Website%20CTAs%20(2600%20x%201720%20px).jpg)[###### GET 200K
 
@@ -58,7 +58,7 @@ Ecosystem
 
 Browse Projects
 
-[Explore Ecosystem](https://www.enjin.com/ecosystem)
+[Explore the Ecosystem](https://www.enjin.com/ecosystem)
 
 [Games
 
@@ -74,7 +74,7 @@ Find creatives to collaborate with](https://enjin.io/ecosystem?category-2=Creato
 
 More INfo
 
-[JOIN ECOSYSTEM](https://www.enjin.com/join)
+[BUILD WITH ENJIN](https://www.enjin.com/join)
 
 [Enjin Spark](https://www.enjin.com/join)[Collab Network](https://enjin.io/join#collab-network)[Governance](https://www.enjin.com/governance-and-staking)[Blog](https://www.enjin.com/blog)
 
@@ -106,7 +106,7 @@ Earn rewards for engaging in fun content creation competitions](https://www.enji
 
 More INfo
 
-[JOIN COMMUNITY](https://www.enjin.com/community)
+[JOIN THE COMMUNITY](https://www.enjin.com/community)
 
 [Provide Feedback](https://www.enjin.com/feedback)[Talk to Support](#)[Learning Center](https://www.enjin.com/learning-hub)[Whitepaper](https://www.enjin.com/whitepaper)
 
@@ -122,21 +122,23 @@ News
 
 Latest Adopters
 
+[CyberCrew
+
+CyberCrew uses its GameStop NFT experience to expand the Enjin Multiverse](https://www.enjin.com/ecosystem/cybercrew)
+
+[Crypto Rabbit Hole
+
+The Crypto Rabbit Hole Targets Billion-Dollar TCG Industry with Enjin](https://www.enjin.com/ecosystem/crypto-rabbit-hole)
+
 [SITEnetwork
 
 SITEnetwork Ignites $39 Billion Virtual Tourism Market](https://www.enjin.com/ecosystem/sitenetwork)
 
-[BeamGo
-
-Beamgo Brings Bingo to 1.0 Billion Telegram Users](https://www.enjin.com/ecosystem/beamgo)
-
-[Subscan
-
-Explore dynamic Enjin Blockchain status and transactions with Subscan](https://www.enjin.com/ecosystem/subscan)
-
 Lastest News
 
 [Explore Blog](https://www.enjin.com/blog)
+
+[What is a Web3 Crypto Game? A Guide for New Players](https://www.enjin.com/blog/what-is-a-crypto-game-a-guide-for-new-players)
 
 [What Is Crypto Staking & Is It Safe?](https://www.enjin.com/blog/what-is-crypto-staking-is-it-safe)
 
@@ -147,8 +149,6 @@ Lastest News
 [Announcing Quick Wallet: Claim Enjin NFTs Anytime, Anywhere](https://www.enjin.com/blog/quick-wallet)
 
 [Recapping the Biggest Developments Across the Enjin Ecosystem in Q1 2024](https://www.enjin.com/blog/ecosystem-update-q1-2024)
-
-[Announcing the Ecosystem Collab Network: A Support System for Enjin Adopters](https://www.enjin.com/blog/announcing-the-ecosystem-collab-network-a-support-system-for-enjin-adopters)
 
 [ADD YOUR PROJECT](https://www.enjin.com/join)
 
@@ -578,6 +578,16 @@ An intuitive NFT marketplace that _anyone_ can use – create, distribute, and 
 Latest news
 -----------
 
+[.](https://www.enjin.com/blog/what-is-a-crypto-game-a-guide-for-new-players)
+
+![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6674d48911b4cea8a510c233_what_is_crypto_gaming_-_blog.jpg)
+
+Education
+
+June 21, 2024
+
+What is a Web3 Crypto Game? A Guide for New Players
+
 [.](https://www.enjin.com/blog/what-is-crypto-staking-is-it-safe)
 
 ![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6673d2d75f69b2aa1f48e8d4_1%20(1).jpg)
@@ -603,16 +613,6 @@ Ecosystem
 June 13, 2024
 
 Enjin scales RWAs and NFTs to millions of artists with tokenized vinyl records
-
-[.](https://www.enjin.com/blog/june-2024-token-supply-update)
-
-![](https://cdn.prod.website-files.com/60f93c8e038fc32afa829f7d/6663144c19005ef34f3ba436_BLOG-Token%20Update%20(2600%20x%201720%20px).png)
-
-Ecosystem
-
-June 7, 2024
-
-Enjin Coin 95% Unlocked: June 2024 Token Supply Update
 
 [Read More](https://www.enjin.com/blog)
 
