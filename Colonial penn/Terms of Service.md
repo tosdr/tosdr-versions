@@ -175,32 +175,25 @@ Colonial Penn Life Insurance company has over $3.6 billion of life insurance in
 
 Colonial Penn currently has over 810,000 life insurance policies in force2 helping to provide peace of mind to so many Americans.
 
-### Colonial Penn on “Sherri”
+### Your acceptance is guaranteed!
 
-Jonathan Lawson appeared on “Sherri” to discuss how life insurance can benefit not only you, but more importantly your family. #ad
+Ease the burden of final expenses with this popular plan featuring coverage that can last your lifetime. You can’t be turned down due to your health, and once you’re insured, your rate will never go up!
 
-#### Life Insurance Overview
+###### Life Insurance Overview
 
 * Options start at $9.95/month
 * Available for ages 50-85 in most states
-* You can never be turned down due to health
-
-[Call Now](tel:800-239-6415)
-
-[Product Terms](javascript:void(0);)
+* 30-Day Try-It-On Period… cancel your plan for a full refund.
 
 Jonathan Lawson  
-chats with  
-Sherri Shepherd…
+Insurance Professional &  
+Dedicated Employee
 
-![](/documents/7880008/7878581/Sherri_Logo.webp/a439ba28-bcea-783c-1bcb-bcf1f321b226?t=1678784635606)
+Call to get a free quote today.
 
-Jonathan Lawson  
-Insurance Professional & Dedicated Employee
+[1-877-877-8052](tel:1-877-877-8052 "phone number")
 
-[800-239-6415](tel:800-239-6415 "phone number")
-
-Call to get a free quote today. 9 AM to 7 PM ET
+'
 
 #### We make **customer service simple.**
 
