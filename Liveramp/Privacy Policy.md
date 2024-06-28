@@ -208,6 +208,7 @@ Company
 * [Your Online Choices](http://youronlinechoices.eu/)
 * [Your Rights](https://submit-irm.trustarc.eu/services/validation/fd815e29-bd78-48aa-9c9d-bb0a29835fc1)
 * [Privacy](https://liveramp.uk/privacy/)
+* [Privacy Settings](https://liveramp.uk/privacy-settings/)
 * [Sitemap](https://liveramp.uk/sitemap/)
 
 * [LinkedIn](https://www.linkedin.com/company/liveramp/)
