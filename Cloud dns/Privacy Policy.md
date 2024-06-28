@@ -2,11 +2,6 @@
 
 [](javascript:void(0);)
 
-* [Light theme](https://www.cloudns.net/main/theme/light/)
-* [Dark theme](https://www.cloudns.net/main/theme/dark/)
-
-[](javascript:void(0);)
-
 * [Русский](https://www.cloudns.net/privacy-policy/lang/ru/)
 * [Deutsch](https://www.cloudns.net/privacy-policy/lang/de/)
 * [Français](https://www.cloudns.net/privacy-policy/lang/fr/)
@@ -39,6 +34,7 @@
     * [Reverse DNS](https://www.cloudns.net/reverse-dns/)
     * [DNSSEC](https://www.cloudns.net/dnssec/)
     * [DNS Failover](https://www.cloudns.net/dns-failover/)
+    * [Backup DNS**NEW**](https://www.cloudns.net/dns-backups/)
     * [Managed DNS](https://www.cloudns.net/managed-dns/)
     * [Anycast DNS](https://www.cloudns.net/anycast-dns/)
     * [Monitoring](https://www.cloudns.net/monitoring/)
@@ -48,8 +44,7 @@
     * [SSL Certificates](https://www.cloudns.net/ssl-certificates/)
     * [Private DNS servers](https://www.cloudns.net/private-dns-servers/)
     * [Domain Parking](https://www.cloudns.net/domain-parking/)
-    * [DNS for TLDs**NEW**](https://www.cloudns.net/dns-for-tlds/)
-    * [DDoS Protected VPS](https://www.cloudprima.com/?utm_source=footer&utm_campaign=ClouDNS+Web)
+    * [DNS for TLDs](https://www.cloudns.net/dns-for-tlds/)
 * [Monitoring](https://www.cloudns.net/monitoring/)
     * [DNS](https://www.cloudns.net/dns-monitoring/)
     * [ICMP Ping](https://www.cloudns.net/ping-monitoring/)
@@ -101,6 +96,7 @@
 * [Light theme](https://www.cloudns.net/privacy-policy/theme/light/)
 * [Dark theme](https://www.cloudns.net/privacy-policy/theme/dark/)
 
+* [Dark theme](https://www.cloudns.net/privacy-policy/theme/dark/)
 * [DNS Hosting](javascript: void(0);)
     * [Premium DNS](https://www.cloudns.net/premium/)
     * [DDoS Protected DNS](https://www.cloudns.net/ddos-protected-plans/)
@@ -113,6 +109,7 @@
     * [Reverse DNS](https://www.cloudns.net/reverse-dns/)
     * [DNSSEC](https://www.cloudns.net/dnssec/)
     * [DNS Failover](https://www.cloudns.net/dns-failover/)
+    * [Backup DNS**NEW**](https://www.cloudns.net/dns-backups/)
     * [Managed DNS](https://www.cloudns.net/managed-dns/)
     * [Anycast DNS](https://www.cloudns.net/anycast-dns/)
     * [Monitoring](https://www.cloudns.net/monitoring/)
@@ -123,7 +120,6 @@
     * [Private DNS servers](https://www.cloudns.net/private-dns-servers/)
     * [Domain Parking](https://www.cloudns.net/domain-parking/)
     * [DNS for TLDs**NEW**](https://www.cloudns.net/dns-for-tlds/)
-    * [DDoS Protected VPS](https://www.cloudprima.com/?utm_source=footer&utm_campaign=ClouDNS+Web)
 * [Monitoring](javascript: void(0);)
     * [DNS](https://www.cloudns.net/dns-monitoring/)
     * [Web](https://www.cloudns.net/web-monitoring/)
@@ -199,20 +195,21 @@ Privacy policy
 * [Dynamic DNS](https://www.cloudns.net/dynamic-dns/)
 * [Reverse DNS](https://www.cloudns.net/reverse-dns/)
 * [DNS Failover](https://www.cloudns.net/dns-failover/)
-* [Anycast DNS](https://www.cloudns.net/anycast-dns/)
-* [Email Forwarding](https://www.cloudns.net/email-forwarding/)
-* [Domain names](https://www.cloudns.net/domain-pricing-list/)
-* [Private DNS servers](https://www.cloudns.net/private-dns-servers/)
-* [DNS for TLDs](https://www.cloudns.net/dns-for-tlds/)
-
-* [Secondary DNS](https://www.cloudns.net/secondary-dns/)
-* [DNSSEC](https://www.cloudns.net/dnssec/)
 * [Managed DNS](https://www.cloudns.net/managed-dns/)
 * [Monitoring](https://www.cloudns.net/monitoring/)
 * [Google Workspace](https://www.cloudns.net/google-workspace/)
 * [SSL Certificates](https://www.cloudns.net/ssl-certificates/)
 * [Domain Parking](https://www.cloudns.net/domain-parking/)
 * [DDoS Protected VPS](https://www.cloudprima.com/?utm_source=footer&utm_campaign=ClouDNS+Web)
+
+* [Secondary DNS](https://www.cloudns.net/secondary-dns/)
+* [DNSSEC](https://www.cloudns.net/dnssec/)
+* [Backup DNS](https://www.cloudns.net/dns-backups/)
+[](https://www.cloudns.net/dns-backups/)* [](https://www.cloudns.net/dns-backups/)[Anycast DNS](https://www.cloudns.net/anycast-dns/)
+* [Email Forwarding](https://www.cloudns.net/email-forwarding/)
+* [Domain names](https://www.cloudns.net/domain-pricing-list/)
+* [Private DNS servers](https://www.cloudns.net/private-dns-servers/)
+* [DNS for TLDs](https://www.cloudns.net/dns-for-tlds/)
 
 [Monitoring](https://www.cloudns.net/monitoring/)
 
