@@ -2,15 +2,15 @@ Ad
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1719471089/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1719471089/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1719471089/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1719471089/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 SectionsMy Region
 
@@ -292,7 +292,7 @@ Tracking and Targeting
 
 [Tracking and Targeting Policy](https://www.canberratimes.com.au/tracking-and-targeting/)
 
-[![The Canberra Times](/static/1718770888/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1719471089/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
 
 [](https://www.facebook.com/CanberraTimes/)[](https://twitter.com/canberratimes)[](https://www.instagram.com/canberratimes)
 
@@ -348,7 +348,7 @@ Our Sites
 
 [AgTrader](https://www.agtrader.com.au/search/act?page=1%20target=/)
 
-[Whizz](https://whizz.com.au/)
+[Farmer's Finance](https://farmersfinance.com.au/)
 
 [Garage Sales](https://garagesales.acmcloud.io/?lat=-35.282071&lng=149.128667)
 
