@@ -606,6 +606,7 @@ The best social media marketing app, influencer marketing management platform & 
     Use Cases
     
     * [CPG](https://later.com/cpg-influencers/)
+    * [Food & Beverage](https://later.com/food-beverage-influencers/)
     * [E-Commerce](https://later.com/ecommerce-influencers/)
     
     Demo
