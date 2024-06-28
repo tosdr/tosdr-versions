@@ -367,13 +367,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/06/VSA_Webinar_2024-IT-Future-Surveys-2-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2022/09/CITlocal-washington-dc-300x200.png)
     
-    2024 IT Futures Surveys
+    Connect Local Washington DC
     
-    June 27
-    
-    Thursday @ 2PM EST
+    July 11
     
     [View All Events](https://www.kaseya.com/events/)
     
