@@ -906,4 +906,4 @@ We remind you that at any time you can turn to the DPO of Mondadori Group in the
 
 Moreover, you have the right to lodge a complaint to the control authority: without prejudice to your right to turn to any other administrative or judicial authority, in case you consider the Processing of your Personal Data, led by the Processing Owner and/or the Processing Co-owners, taking place in violation of the Regulation and/or of the applicable legislation, you can lodge a complaint to the Competent Authority for Personal Data Protection or to another competent control authority.
 
-Latest update: June 14, 2024
+Latest update: June 27, 2024
