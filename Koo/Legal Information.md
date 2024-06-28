@@ -62,7 +62,7 @@
     
 * [Compliance](#)
     
-    [માસિક અનુપાલન અહેવાલો](https://info.kooapp.com/monthly-compliance-reports/)[Guidelines for Law Enforcement Agencies](https://info.kooapp.com/?post_type=page&p=963)[Monthly Compliance Reports](https://info.kooapp.com/?post_type=page&p=957)[Compliance Statement](https://info.kooapp.com/?post_type=page&p=34)[Annual Returns](https://info.kooapp.com/?post_type=page&p=982)
+    [કાયદા અમલીકરણ એજન્સીઓ માટે માર્ગદર્શિકા](https://info.kooapp.com/guidelines-for-law-enforcement-agencies/)[અનુપાલન નિવેદન](https://info.kooapp.com/compliance-statement/)[માસિક અનુપાલન અહેવાલો](https://info.kooapp.com/monthly-compliance-reports/)[Guidelines for Law Enforcement Agencies](https://info.kooapp.com/?post_type=page&p=963)[Monthly Compliance Reports](https://info.kooapp.com/?post_type=page&p=957)[Compliance Statement](https://info.kooapp.com/?post_type=page&p=34)[Annual Returns](https://info.kooapp.com/?post_type=page&p=982)
     
 * [Koo Coins](#)
 * [Policies](#)
@@ -105,10 +105,6 @@ March 23, 2022
 
 **Bombinate Technologies Pvt. Ltd.** (BTPL) is a company registered under the Companies Act, 2013 (CIN U72900KA2015PTC084475) and has its registered office at 849, 11th Main, 2nd Cross, HAL 2nd Stage, Indiranagar, Bangalore, Karnataka – 560008 India. BTPL operates Koo App (for iOS & Android), a regional language microblogging platform, and the website [Koo App Website](https://www.kooapp.com/)
 
-##### Significant Social Media Intermediary
-
-BTPL is a Significant Social Media Intermediary and has implemented policies and procedures to comply with the requirements of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (hereinafter the “Rules”).
-
 ##### Due Diligence
 
 1. BTPL’s [Privacy Policy](https://info.kooapp.com//privacy-policy/), [Terms of Service](https://info.kooapp.com//terms-of-service/) and [Community Guidelines](https://info.kooapp.com//community-guidelines/) (collectively “Koo Policies”) are available on its website as well as within the Koo App. BTPL informs users of any changes in the Koo Policies at least once in a calendar year. Similarly, Koo also informs users, at least once in a calendar year, that in case of non-compliance of Koo Policies, Koo may terminate the access or the usage rights of the users immediately or remove non-compliant information or both as the case may be.
@@ -144,7 +140,9 @@ This Compliance Statement is with reference to Rule 5 of the Information Technol
 ##### Koo Moderation Policy
 
 Koo is an intermediary that primarily enables online interaction between two or more users and allows them to create, upload, share, disseminate, modify or access information using Koo’s services.  
-Koo does not undertake any obligation to monitor user generated content, except where specifically mandated under applicable law.  
+  
+We reserve the right to withdraw or suspend or terminate Services at any time without prior notice. Grievance Redressal Services or responses to requests will be delayed during such withdrawal or suspension or termination.Koo does not undertake any obligation to monitor user generated content, except where specifically mandated under applicable law.  
+  
 Resolution of grievances or disputes or claims relating to violation of legal or personal or public or community rights (collectively known as grievances) is solely within the domain of judicial or other authorities. Koo cannot and does not adjudicate any grievances.
 
 ##### Koo Grievance Redressal Process
@@ -163,11 +161,15 @@ If you would like to submit an order from a judicial or other authority [please
 ##### Reinstatement Procedure for Removed Koo
 
 In accordance with the Rules, Koo provides User(s) with an adequate and reasonable opportunity to dispute an action taken on the content of a user. Such User(s) may request for reinstatement of access to such content. These requests will be decided within a reasonable time in accordance with law.  
+  
+We reserve the right to withdraw or suspend or terminate Services at any time without prior notice. Grievance Redressal Services or responses to requests will be delayed during such withdrawal or suspension or termination.  
+  
 If you are a content creator and a moderation action has been taken on your Koo, you may request for reinstatement of your Koo by clicking  [here](https://forms.zohopublic.in/bombinatetechnologiespvtltd/form/FormforReinstatementofKooasperRule48oftheInformati/formperma/XMp2Qi20CeViy-VZGWpJklQtZZp2eHV3-TYhCorVHcQ)
 
 ##### Process for reporting intellectual property violations
 
 Koo does not undertake any obligation to monitor user-generated content, except to the extent required by law. Koo is only an intermediary that primarily enables online interaction between two or more users and allows them to create, upload, share, disseminate, modify or access information using Koo’s services.  
+We reserve the right to withdraw or suspend or terminate Services at any time without prior notice. Grievance Redressal Services or responses to requests will be delayed during such withdrawal or suspension or termination.  
 While Koo supports valid and legitimate claims of intellectual property ownership, it cannot and does not adjudicate any claims. In the first instance, parties must resolve any disputes relating to intellectual property amongst themselves or through the legal process, before reporting to Koo  
 If you believe that someone is violating your or anyone else’s intellectual property, you may report it by filling out this [form](https://forms.zohopublic.in/bombinatetechnologiespvtltd/form/FormforReportingViolationsofIntellectualPropertyRi/formperma/J3ChpO1grsdun2-Yi-3TC9REsaFpUGtu-DKVHRgvBuw).  
 Please ensure that you submit complete details of the violation and ownership of the intellectual property in order for us to process the report. Such reports will typically be processed within 48 hours. Orders or directions of courts or legal authorities will be honoured on priority.  
@@ -219,15 +221,15 @@ Your email address will not be published. Required fields are marked \*
     
 * ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
     
-    [Koo Accounts of Eminence](https://info.kooapp.com/compliance-statement/)
+    [Terms of Service](https://info.kooapp.com/compliance-statement/)
     
-    2022-04-25 10:17:12
+    2022-03-23 11:55:22
     
 
 ##### Categories
 
 * [About Us](https://info.kooapp.com/category/about-us/) (6)
-* [Compliance](https://info.kooapp.com/category/compliance/) (5)
+* [Compliance](https://info.kooapp.com/category/compliance/) (7)
 * [Koo Coins](https://info.kooapp.com/category/policies/koo-coins/) (0)
 * [Policies](https://info.kooapp.com/category/policies/) (52)
 * [Resources](https://info.kooapp.com/category/resources/) (6)
