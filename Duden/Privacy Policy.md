@@ -182,7 +182,7 @@
 
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
 
-[Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Sommeraktion 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
+[Nur noch bis 30. Juni 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Nur noch bis 30. Juni 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Nur noch bis 30. Juni 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Nur noch bis 30. Juni 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/) [Nur noch bis 30. Juni 2024: 50% Rabatt bei Duden-Mentor – jetzt testen und sparen!](https://angebot.mentor.duden.de/premium_angebot_so24_2024_06/)
 
 Datenschutz­erklärung
 =====================
