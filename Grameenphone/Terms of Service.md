@@ -507,10 +507,6 @@ By visiting [www.grameenphone.com](http://www.grameenphone.com/), you agree that
 
 grameenphone
 
-Please take a minute to fill up a short survey to help us improve your experience.
-
-Take Survey
-
 #### Share this page with your friends & family
 
 * [](https://www.facebook.com/sharer/sharer.php?u=https://www.grameenphone.com/terms-use)
