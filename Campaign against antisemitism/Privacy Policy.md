@@ -251,3 +251,7 @@ You can read about our cookies and privacy settings in detail on our Privacy Pol
 [Terms of use and privacy policy](https://antisemitism.org/terms/)
 
 [Accept settings](# "Allow to use cookies, you always can modify used cookies and services")[Hide notification only](# "Do not allow to use cookies or services - some functionality on our site might not work as expected.")
+
+[![](https://antisemitism.org/wp-content/uploads/2024/06/Crowdfunder-video.001.png)](https://www.charityextra.com/fightforourfuture/teamcaa)
+
+×
