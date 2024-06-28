@@ -323,8 +323,6 @@ Get Started For Free
 
 Follow Me On The Gram  
 
-========================
-
 [](https://www.instagram.com/amyporterfield)[### @amyporterfield](https://www.instagram.com/amyporterfield)[](https://www.instagram.com/amyporterfield)
 
 [earnings disclaimer](https://www.amyporterfield.com/earnings-disclaimer)[privacy policy](https://www.amyporterfield.com/privacy)[terms and conditions](#/)[contact](https://www.amyporterfield.com/contact)[careers](https://www.amyporterfield.com/careers)[© 2024 Amy Porterfield LLC.
