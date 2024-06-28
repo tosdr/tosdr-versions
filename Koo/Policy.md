@@ -62,7 +62,7 @@
     
 * [Compliance](#)
     
-    [માસિક અનુપાલન અહેવાલો](https://info.kooapp.com/monthly-compliance-reports/)[Guidelines for Law Enforcement Agencies](https://info.kooapp.com/?post_type=page&p=963)[Monthly Compliance Reports](https://info.kooapp.com/?post_type=page&p=957)[Compliance Statement](https://info.kooapp.com/?post_type=page&p=34)[Annual Returns](https://info.kooapp.com/?post_type=page&p=982)
+    [કાયદા અમલીકરણ એજન્સીઓ માટે માર્ગદર્શિકા](https://info.kooapp.com/guidelines-for-law-enforcement-agencies/)[અનુપાલન નિવેદન](https://info.kooapp.com/compliance-statement/)[માસિક અનુપાલન અહેવાલો](https://info.kooapp.com/monthly-compliance-reports/)[Guidelines for Law Enforcement Agencies](https://info.kooapp.com/?post_type=page&p=963)[Monthly Compliance Reports](https://info.kooapp.com/?post_type=page&p=957)[Compliance Statement](https://info.kooapp.com/?post_type=page&p=34)[Annual Returns](https://info.kooapp.com/?post_type=page&p=982)
     
 * [Koo Coins](#)
 * [Policies](#)
@@ -146,15 +146,15 @@ Your email address will not be published. Required fields are marked \*
     
 * ![](https://info.kooapp.com/wp-content/themes/kootheme/images/comment-user.png)
     
-    [Koo Accounts of Eminence](https://info.kooapp.com/chat-room-policy/)
+    [Terms of Service](https://info.kooapp.com/chat-room-policy/)
     
-    2022-04-25 10:17:12
+    2022-03-23 11:55:22
     
 
 ##### Categories
 
 * [About Us](https://info.kooapp.com/category/about-us/) (6)
-* [Compliance](https://info.kooapp.com/category/compliance/) (5)
+* [Compliance](https://info.kooapp.com/category/compliance/) (7)
 * [Koo Coins](https://info.kooapp.com/category/policies/koo-coins/) (0)
 * [Policies](https://info.kooapp.com/category/policies/) (52)
 * [Resources](https://info.kooapp.com/category/resources/) (6)
