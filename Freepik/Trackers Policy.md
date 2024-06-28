@@ -1,37 +1,125 @@
- [![](https://www.freepikcompany.com/img/logo.svg) ![](https://www.freepikcompany.com/img/logo-light.svg)](https://www.freepikcompany.com/)
+Toggle menu
 
-* [About us](https://www.freepikcompany.com/about_us)
-* [Jobs](https://www.freepikcompany.com/jobs)
-* [Freelancers](https://www.freepikcompany.com/freelancers)
-* [Business](https://www.freepikcompany.com/business)
-* [ ]  [Projects](#)
-    * [Freepik](https://www.freepikcompany.com/freepik)
-    * [Flaticon](https://www.freepikcompany.com/flaticon)
-    * [Slidesgo](https://www.freepikcompany.com/slidesgo)
-    * [Wepik](https://www.freepikcompany.com/wepik)
-* [Blog](https://www.freepikcompany.com/newsroom/)
+* Tools
+    
+    [AI image generatorCreate images from words in real time](https://www.freepik.com/ai/image-generator)
+    
+    [DesignernewEdit templates from your browser](https://www.freepik.com/designer)
+    
+    [Mockup generatorBring designs to life, effortlessly](https://www.freepikcompany.com/mockup-generator)
+    
+    [ReimaginenewCreate image variations with AI](https://www.freepik.com/ai/reimagine)
+    
+    [Sketch to imageTransform a doodle into an image in real time](https://www.freepik.com/ai/sketch-to-image)
+    
+    [Background removernewErase the background from an image](https://www.freepikcompany.com/ai/background-remover)
+    
+    [Image editorEdit photos easily online, no software needed](https://www.freepikcompany.com/photo-editor/new-artboard)
+    
+    [Freepik AIDiscover how AI boosts our tools and features, as well as your creativity](https://www.freepik.com/ai)
+    
+* Images
+    
+    Vectors
+    
+    PhotosAI Images
+    
+    [Explore all images](https://www.freepikcompany.com/images)
+    
+    [Illustrations](https://www.freepikcompany.com/illustrations)[Backgrounds](https://www.freepikcompany.com/backgrounds)[Textures](https://www.freepikcompany.com/textures)[Patterns](https://www.freepikcompany.com/patterns)[Cartoons](https://www.freepikcompany.com/cartoons)[Clip art](https://www.freepikcompany.com/clip-art)[Drawings](https://www.freepikcompany.com/drawings)[Symbols and signs](https://www.freepikcompany.com/symbols-and-signs)[Silhouettes](https://www.freepikcompany.com/silhouettes)
+    
+    [Explore all vectors](https://www.freepikcompany.com/vectors)
+    
+    [![Vector collections](https://fps.cdnpk.net/menu-top/collection_vector.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/vector-collections "Vector collections")[Vector collections](https://www.freepikcompany.com/vector-collections)
+    
+* Icons
+    
+    [Black filled](https://www.freepikcompany.com/search?icon_color=solid-black&format=search&shape=fill&type=icon)[Hand drawn](https://www.freepikcompany.com/search?format=search&type=icon&shape=hand-drawn)[Black outline](https://www.freepikcompany.com/search?icon_color=solid-black&format=search&shape=outline&type=icon)[Lineal color](https://www.freepikcompany.com/search?format=search&type=icon&shape=lineal-color)[Flat](https://www.freepikcompany.com/search?icon_color=multicolor&format=search&type=icon&shape=fill)[Gradient](https://www.freepikcompany.com/search?icon_color=gradient&format=search&type=icon)
+    
+    [Explore all icons](https://www.freepikcompany.com/icons)
+    
+    [![Free SVG icons](https://fps.cdnpk.net/menu-top/free_svg_icons.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/search?format=search&freeSvg=free&last_filter=freeSvg&last_value=free&type=icon "Free SVG icons")[Free SVG icons](https://www.freepikcompany.com/search?format=search&freeSvg=free&last_filter=freeSvg&last_value=free&type=icon)
+    
+* Videos
+    
+    [Backgrounds and others](https://www.freepikcompany.com/videos/category/backgrounds-others)[Nature](https://www.freepikcompany.com/videos/category/nature)[Travel and places](https://www.freepikcompany.com/videos/category/travel-places)[Business and technology](https://www.freepikcompany.com/videos/category/business-technology)[People and emotions](https://www.freepikcompany.com/videos/category/people-emotions)[Events](https://www.freepikcompany.com/videos/category/events)[Food and drinks](https://www.freepikcompany.com/videos/category/food-drinks)[Sports](https://www.freepikcompany.com/videos/category/sports)
+    
+    [Explore all videos](https://www.freepikcompany.com/videos)
+    
+* Templates
+    
+    [Logo maker](https://www.freepikcompany.com/create/logo-maker)[Poster maker](https://www.freepikcompany.com/create/poster-maker)[Flyer maker](https://www.freepikcompany.com/create/flyer-maker)[Business card maker](https://www.freepikcompany.com/create/business-card-maker)[Resume maker](https://www.freepikcompany.com/create/resume-maker)[Banner maker](https://www.freepikcompany.com/create/banner-maker)
+    
+    [Explore all templates](https://www.freepikcompany.com/templates)
+    
+* PSD
+    
+    [Stationery](https://www.freepikcompany.com/stationery)[Social media](https://www.freepikcompany.com/social-media)[Greeting cards](https://www.freepikcompany.com/greeting-cards)[Flyers](https://www.freepikcompany.com/flyers)[Business cards](https://www.freepikcompany.com/business-cards)[Posters](https://www.freepikcompany.com/posters)[Invitation cards](https://www.freepikcompany.com/invitation-cards)[Banners](https://www.freepikcompany.com/banners)[Logos](https://www.freepikcompany.com/logos)
+    
+    [Explore all PSD](https://www.freepikcompany.com/popular-psd)
+    
+    [![PSD collections](https://fps.cdnpk.net/menu-top/collection_psd.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/psd-collections "PSD collections")[PSD collections](https://www.freepikcompany.com/psd-collections)
+    
+* Mockupsnew
+    
+    [Apparel](https://www.freepikcompany.com/mockups/category/apparel)[T-shirt](https://www.freepikcompany.com/search?format=search&type=mockup&query=t-shirt)[Devices](https://www.freepikcompany.com/mockups/category/devices)[iPhone](https://www.freepikcompany.com/search?format=search&query=iphone&type=mockup)[Print](https://www.freepikcompany.com/mockups/category/print)[Books](https://www.freepikcompany.com/search?format=search&type=mockup&query=book)[Packaging](https://www.freepikcompany.com/mockups/category/packaging)[Business card](https://www.freepikcompany.com/search?format=search&type=mockup&query=business+card)
+    
+    [Explore all mockups](https://www.freepikcompany.com/mockups)
+    
+    [![Free mockups](https://fps.cdnpk.net/menu-top/collection_mockup.webp?w=640&h=1920&q=75)](https://www.freepikcompany.com/search?format=search&last_filter=selection&last_value=1&selection=1&type=mockup "Free mockups")[Free mockups](https://www.freepikcompany.com/search?format=search&last_filter=selection&last_value=1&selection=1&type=mockup)
+    
+* More
+    
+    Sister companies
+    
+    [FlaticonFree customizable icons](https://www.flaticon.com/)
+    
+    [WepikEdit your Freepik templates](https://wepik.com/)
+    
+    [SlidesgoFree presentation templates](https://slidesgo.com/)
+    
+    [StorysetFree editable illustrations](https://storyset.com/)
+    
+    [VidevoFree videos in 4K and Full HD](https://www.videvo.net/)
+    
+    Enhanced solutions
+    
+    [APISolutions to enhance your enterprise](https://freepik.com/api)
+    
+    [Sell your contentJoin Freepik’s contributors and cash in your creations](https://contributor.freepik.com/)
+    
+    More content
+    
+    [3DRealistic, pre-rendered images in FBX and OBJ files](https://www.freepikcompany.com/3d-models)
+    
+    [FontsFree fonts for book covers, merchandise, magazines...](https://www.freepikcompany.com/fonts)
+    
+    [DisneyEditable design templates featuring beloved classics](https://www.freepikcompany.com/author/Disney)
+    
+    [Calendar of festivitiesFind here all the important dates and festivities](https://www.freepikcompany.com/calendar)
+    
+    [CollectionsDiscover incredible collections curated by our authors](https://www.freepikcompany.com/collections)
+    
+    Apps and plugins
+    
+    [Freepik for FigmaImages for your Figma projects](https://www.figma.com/community/plugin/893426972424060133/freepik)
+    
+    [Flaticon for FigmaIcons right on your Figma canvas](https://www.figma.com/community/plugin/1183020129233350982/flaticon)
+    
+    [Storyset for FigmaIllustrations for your Figma projects](https://www.figma.com/community/plugin/865232148477039928/storyset-by-freepik)
+    
+    [Mockup Baker for PhotoshopCustomize PSD files based on 3D models](https://www.freepikcompany.com/mockup-baker)
+    
+    [AI Figma pluginGenerate your own unique AI images directly in Figma](https://www.figma.com/community/plugin/1253173167259963280/ai-image-generator-by-freepik)
+    
 
-* [](https://www.facebook.com/Freepik)
-* [](https://twitter.com/freepik)
-* [](https://www.pinterest.es/freepik/)
-* [](https://www.instagram.com/freepik/?hl=es)
-* [](https://es.linkedin.com/company/freepik-company)
-* [](https://dribbble.com/freepik)
-* [](https://www.youtube.com/channel/UC9wPXN2TIWoUamqONb7v8Pw)
+* [Pricing](https://www.freepikcompany.com/pricing)
 
-Navigation
+Log inSign up
 
-* [Terms of use](https://www.freepikcompany.com/legal)
-* [Privacy policy](https://www.freepikcompany.com/privacy)
-* [Cookie policy](https://www.freepikcompany.com/cookie)
-* [Copyrights Infringement Notification](https://www.freepikcompany.com/copyright)
-* [Digital Services Act](https://www.freepikcompany.com/digital-services-act)
-* [Support](https://support.freepik.com/hc/en-us)
-* [Become a contributor](https://contributor.freepik.com/?utm_source=home-com&utm_medium=cpc&utm_campaign=earn-money-freepikes)
-* [Contributor support](https://support.freepik.com/hc/en-us/articles/212799769-FAQs-for-contributors)
-* [Acceptable Use Policy](https://www.freepikcompany.com/acceptable-use-policy)
+Menu
 
-* [Terms of use](https://www.freepikcompany.com/legal)
+* [Terms of use](https://www.freepikcompany.com/legal/terms-of-use)
     * [Freepik](#nav-freepik)
         * [1\. Services Offered](#nav-freepik-services)
         * [2\. Authorized use](#nav-freepik-authorized)
@@ -47,19 +135,19 @@ Navigation
         * [12\. Changes and Closure of the Website](#nav-freepik-modification)
         * [13\. General and Contact Information](#nav-freepik-generalities)
     * [Freepik Online Editors](#nav-freepik-online-editor)
-        * [1\. USE OF OUR SERVICE](#nav-freepik-online-editor-use-service)
-        * [2\. FREEPIK ACCOUNTS](#nav-freepik-online-editor-accounts)
-        * [3\. SERVICE RULES](#nav-freepik-online-editor-service-rules)
-        * [4\. USE OF CONTENT ON THE SERVICE](#nav-freepik-online-editor-use-content-service)
-        * [5\. USER CONTENT](#nav-freepik-online-editor-user-content)
-        * [6\. GRANTING OF THE FREEPIK EDITOR DESIGN LICENSE](#nav-freepik-online-editor-granting)
-        * [7\. OUR PROPRIETARY RIGHTS](#nav-freepik-online-editor-proprietary-rights)
-        * [8\. THIRD PARTY LINKS AND APPLICATIONS](#nav-freepik-online-editor-third-party)
-        * [9\. INDEMNITY](#nav-freepik-online-editor-indemnity)
-        * [10\. NO WARRANTY](#nav-freepik-online-editor-no-warranty)
-        * [11\. LIMITATION OF LIABILITY](#nav-freepik-online-editor-limitation-liability)
-        * [12\. CHANGES TO AND TERMINATION OF THE WEBSITE](#nav-freepik-online-editor-changes-termination)
-        * [13\. GENERAL AND CONTACT INFORMATION](#nav-freepik-online-editor-contact)
+        * [1\. Use of our Service](#nav-freepik-online-editor-use-service)
+        * [2\. Freepik Accounts](#nav-freepik-online-editor-accounts)
+        * [3\. Service Rules](#nav-freepik-online-editor-service-rules)
+        * [4\. Use of Content on the Service](#nav-freepik-online-editor-use-content-service)
+        * [5\. User Content](#nav-freepik-online-editor-user-content)
+        * [6\. Granting of the Freepik Editor Design License](#nav-freepik-online-editor-granting)
+        * [7\. Our Propietary Rights](#nav-freepik-online-editor-proprietary-rights)
+        * [8\. Third Party Links and Applications](#nav-freepik-online-editor-third-party)
+        * [9\. Indemnity](#nav-freepik-online-editor-indemnity)
+        * [10\. No Warranty](#nav-freepik-online-editor-no-warranty)
+        * [11\. Limitation of Liability](#nav-freepik-online-editor-limitation-liability)
+        * [12\. Changes to and Termination of the Website](#nav-freepik-online-editor-changes-termination)
+        * [13\. General and Contact Information](#nav-freepik-online-editor-contact)
     * [API Services](#api-services)
         * [1\. Definitions](#api-services-definitions)
         * [2\. The Terms and conditions](#api-services-terms)
@@ -80,30 +168,6 @@ Navigation
         * [17\. Warranties and Exclusion of Liability](#api-services-warranties)
         * [18\. Liability](#api-services-liability)
         * [19\. General Provisions](#api-services-general-provisions)
-    * [Flaticon](#nav-flaticon)
-        * [1\. Services Offered](#nav-flaticon-services)
-        * [2\. Authorized use](#nav-flaticon-authorized)
-        * [3\. Registration](#nav-flaticon-registration)
-        * [4\. Content](#nav-flaticon-content)
-        * [5\. Storage and content offer for collaborators](#nav-flaticon-storage)
-        * [6\. Liability](#nav-flaticon-responsibility)
-        * [7\. Intellectual property](#nav-flaticon-property)
-        * [8\. License Agreement for Flaticon Content](#nav-flaticon-agreement)
-        * [9\. Conditions for the Subscription](#nav-flaticon-conditions)
-        * [10\. Changes and Closure of the Website](#nav-flaticon-modification)
-        * [11\. General and Contact Information](#nav-flaticon-generalities)
-    * [Slidesgo](#nav-slidesgo)
-        * [1\. Offered Services](#nav-slidesgo-services)
-        * [2\. Authorised Use of the Slidesgo Website](#nav-slidesgo-authorized)
-        * [3\. Registration](#nav-slidesgo-registration)
-        * [4\. Content](#nav-slidesgo-content)
-        * [5\. Responsibility](#nav-slidesgo-liability)
-        * [6\. Intellectual Property](#nav-slidesgo-intellectual)
-        * [7\. License Agreement for Slidesgo Contents](#nav-slidesgo-license)
-        * [8\. Conditions for the Subscription](#nav-slidesgo-conditions)
-        * [9\. Administrator and Guest User Accounts](#nav-slidesgo-accounts)
-        * [10\. Changes and Closure of the Slidesgo Website](#nav-slidesgo-changes)
-        * [11\. General and Contact Information](#nav-slidesgo-general)
     * [AI Products](#nav-ai-products)
     * [Disney EULA](#nav-disney-eula)
         * [1\. Legal Agreement](#nav-disney-eula-agreement)
@@ -114,7 +178,7 @@ Navigation
         * [6\. Indemnity](#nav-disney-eula-indemnity)
         * [7\. Governing Law and Dispute Resolution](#nav-disney-eula-resolution)
         * [8\. Miscellaneous](#nav-disney-eula-miscellaneous)
-* [Privacy policy](https://www.freepikcompany.com/privacy)
+* [Privacy policy](https://www.freepikcompany.com/legal/privacy)
     * [1\. Data controller](#priv-controller)
     * [2\. Website Use under Terms and Conditions](#priv-website-use)
     * [3\. Our purposes and lawful basis of data we collect](#priv-lawful-basis)
@@ -125,39 +189,32 @@ Navigation
     * [8\. Data Security](#priv-security)
     * [9\. International Data Transfers](#priv-transfer)
     * [10\. Complaint Submission](#priv-complain)
-* [Cookie policy](https://www.freepikcompany.com/cookie)
+* [Cookies policy](https://www.freepikcompany.com/legal/cookies)
     * [1\. What are cookies?](#cookie-what)
     * [2\. Types of cookies and Purpose](#cookie-type)
     * [2.1. First-party cookies](#cookie-type-own)
     * [2.2. Third-party cookies in Freepik](#cookie-type-freepik)
     * [2.3. Third-party cookies in Flaticon](#cookie-type-flaticon)
     * [2.4. Third-party cookies in Slidesgo](#cookie-type-slidesgo)
-    * [2.5. Third-party cookies in Freepik Company](#cookie-type-fpcompany)
-    * [2.6. Third-party cookies in Wepik](#cookie-type-wepik)
-    * [2.7. Third-party cookies in Storyset](#cookie-type-storyset)
+    * [2.5. Third-party cookies in Wepik](#cookie-type-wepik)
+    * [2.6. Third-party cookies in Storyset](#cookie-type-storyset)
     * [3\. Changes in the cookie policy](#cookie-update)
-* [Copyrights Infringement Notification](https://www.freepikcompany.com/copyright)
-    * [Copyright Notification Guidelines](#copy-notification)
-    * [Freepik Copyright Contact Information](#copy-info)
-    * [Reporting Abuse](#copy-abuse)
-* [Payment Processing Agreement](https://www.freepikcompany.com/payment-processing-agreement)
-* [Digital Services Act](https://www.freepikcompany.com/digital-services-act)
+* [Freepik Company Intellectual Property Policy](https://www.freepikcompany.com/legal/copyright)
 * [Support](https://support.freepik.com/hc/en-us)
-* [Become a contributor](https://contributor.freepik.com/?utm_source=home-com&utm_medium=cpc&utm_campaign=earn-money-freepikes)
+* [Become a contributor](https://contributor.freepik.com/)
 * [Contributor support](https://support.freepik.com/hc/en-us/articles/212799769-FAQs-for-contributors)
-* [Acceptable Use Policy](https://www.freepikcompany.com/acceptable-use-policy)
+* [Acceptable Use Policy](https://www.freepikcompany.com/legal/acceptable-use-policy)
 
 Cookies policy
 ==============
 
-###### November 2023
+#### November 2023
 
 FREEPIK COMPANY, S.L.U., hereafter Freepik, is the owner, and thus responsible, of the projects indicated below, including any of their subdomains and sections, hereafter “Website”:
 
 * [www.freepik.com](https://www.freepik.com/) and [www.freepik.es](https://www.freepik.es/)
 * [www.flaticon.com](https://www.flaticon.com/) and [www.flaticon.es](https://www.flaticon.es/)
 * [www.slidesgo.com](https://www.slidesgo.com/)
-* [www.freepikcompany.com](https://www.freepikcompany.com/)
 * [www.wepik.com](https://www.wepik.com/)
 * [www.storyset.com](https://storyset.com/)
 
@@ -232,7 +289,7 @@ You can find out complete information about the data processing carried out by t
 
 You will find detailed information about all cookies used on each of our websites in the cookie table at the end of this text.
 
-###### Information on the processing of data shared with our advertising partners
+#### Information on the processing of data shared with our advertising partners
 
 ##### Preliminary information
 
@@ -306,26 +363,20 @@ We remind you again that you can exercise your rights of access, restrictions of
 
 **Pinterest**:
 
-|     |     |
-| --- | --- |
-| Privacy Policy | [https://policy.pinterest.com/en/privacy-policy](https://policy.pinterest.com/en/privacy-policy) |
-| Cookies Policy | [https://policy.pinterest.com/en/cookies](https://policy.pinterest.com/en/cookies) |
+* Privacy Policy: [https://policy.pinterest.com/en/privacy-policy](https://policy.pinterest.com/en/privacy-policy)
+* Cookies Policy: [https://policy.pinterest.com/en/cookies](https://policy.pinterest.com/en/cookies)
 
 **Google**:
 
-|     |     |
-| --- | --- |
-| Privacy Policy | [https://policies.google.com/privacy?hl=en-GB](https://policies.google.com/privacy?hl=en-GB) |
-| Cookies Policy | [https://policies.google.com/technologies/cookies?hl=en-GB](https://policies.google.com/technologies/cookies?hl=en-GB) |
+* Privacy Policy: [https://policies.google.com/privacy?hl=en-GB](https://policies.google.com/privacy?hl=en-GB)
+* Cookies Policy: [https://policies.google.com/technologies/cookies?hl=en-GB](https://policies.google.com/technologies/cookies?hl=en-GB)
 
 **Twitter**:
 
-|     |     |
-| --- | --- |
-| Privacy Policy | [https://twitter.com/en/privacy](https://twitter.com/en/privacy) |
-| Cookies Policy | [https://help.twitter.com/en/rules-and-policies/twitter-cookies](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
+* Privacy Policy: [https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+* Cookies Policy: [https://help.twitter.com/en/rules-and-policies/twitter-cookies](https://help.twitter.com/en/rules-and-policies/twitter-cookies)
 
-###### Freepik Company’s cookie table
+#### Freepik Company’s cookie table
 
 In the table below you will find detailed information about all cookies used on Freepik's web pages.
 
@@ -812,16 +863,6 @@ In the table below you will find detailed information about all cookies used on 
 | \_opt\_utmc |
 | \_opt\_expid | This cookie is created when running a redirect experiment. It stores the experiment ID, the variant ID and the referring URL of the page being redirected to. |
 
-##### Third-party cookies in [www.freepikcompany.com](https://www.freepikcompany.com/)
-
-| THIRD PARTY | DESCRIPTION | MORE INFO |
-| --- | --- | --- |
-| **Google Analytics** (Analysis) | We collect information of how users interact with the content of the web. When a user browses the pages of a website, information about the page the user has viewed is colected; for example, URL, time spent on the website, number of pages viewed. It allows us to generate labels or objectives to know if you have bought, what item, how many times ... It also collects demographic and navigation data, that is; where does the user come from, how does he get to our website or what campaign does he come from | [Here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) |
-| **Hotjar** (Analysis) | Heat map to analyze user behavior on the different pages of the web. Hotjar cookies collect standard registration information and data on the habits of visitors anonymously. More information: https://www.hotjar.com/terms. They are used to measure web activity and to create user navigation profiles in order to introduce improvements based on the analysis of user usage data. | [Here](https://help.hotjar.com/hc/en-us/articles/115011789248) |
-| **Pinterest** (Advertising / Analysis) | We will impact users who have visited the website or are registered on it with an advertising banner, we will use the data of registered users so as not to impact campaigns whose objective is premium subscription and we will look for users with similar online behavior to registered users or who have visited the web. This set of data will be used both to reach our target audience through online campaign segmentation and to measure their results. | [Here](https://policy.pinterest.com/es/cookies) |
-| **Google Tag Manager** (Advertising / Analysis) | Google Tag Manager is a tag management system that allows third parties to add functionality to websites, video content, and mobile applications. Examples of such solutions include web analytics, campaign analytics, audience measurement, personalization, allows you to quickly and easily update tags and code snippets on a website or your mobile applications, such as those intended for analytics traffic and optimize marketing campaigns. You can add and update custom, third-party or AdWords tags, Google Analytics, Firebase Analytics and Floodlight, Facebbok Ads, Twitter Ads, Hotjar. It is used in order to manage the different conversion codes of the online Marketing and retargeting tools | [Here](https://support.google.com/tagmanager/answer/6102821?hl=en) |
-| **OneTrust** | GOptanonConsent and OptanonAlertBoxClosed are cookies related to our Cookie Compliance Solution. They are used to store your preferences with regards to cookies and other trackers and identify and interpret user interactions with the banner (for example, closing a banner means rejection of non-essential trackers). | [Here](https://www.onetrust.com/cookie-policy/) |
-
 ##### Third-party cookies in [www.wepik.com](https://www.wepik.com/)
 
 | THIRD PARTY | COOKIE | DESCRIPTION | MORE INFO |
@@ -861,51 +902,63 @@ In any case, Freepik will notify or announce the new content and the dates on wh
 
 **Last edited: November 2023**
 
- Content
+Content
 
-* [About us](https://www.freepikcompany.com/about_us)
-* [Jobs](https://www.freepikcompany.com/jobs)
-* [Freelancers](https://www.freepikcompany.com/freelancers)
-* [Business](https://www.freepikcompany.com/business)
-* [Projects](https://www.freepikcompany.com/#home__projects)
-* [Blog](https://www.freepikcompany.com/newsroom/?utm_source=freepikcompany&utm_medium=referral-content&utm_campaign=footer&utm_term=blog)
+* [Calendar of festivities](https://www.freepikcompany.com/calendar)
+* [New assets](https://www.freepikcompany.com/new)
+* [The most popular content](https://www.freepikcompany.com/popular)
+* [Search trends](https://www.freepikcompany.com/tags)
+* [Blog](https://www.freepik.com/blog/)
 
- Extra
+Information
 
-* [Styleguide](https://design.freepikcompany.com/?utm_source=freepikcompany&utm_medium=referral-content&utm_campaign=footer&utm_term=styleguide)
-* [Freepik contributor](https://contributor.freepik.com/?utm_source=freepikcompany&utm_medium=referral-content&utm_campaign=footer&utm_term=contributor)
-* [Contact](https://www.freepik.com/profile/support?flash_digest=5845e2ed004966e323c2ed7aaf31e04c99dbd734&utm_source=freepikcompany)
+* [Pricing](https://www.freepikcompany.com/pricing)
+* [About us](https://www.freepikcompany.com/company/about-us)
+* [Press room](https://www.freepikcompany.com/newsroom/category/latest-news)
+* [API](https://freepik.com/api)
+* [Jobs](https://jobs.freepik.com/)
+* [Sell content](https://contributor.freepik.com/)
+* [Freepik brand guidelines](https://freepik.design/)
+* [Events](https://lu.ma/freepik-sf)
 
- Legal
+Legal
 
-* [Terms and conditions](https://www.freepikcompany.com/legal)
-* [Privacy policy](https://www.freepikcompany.com/privacy)
-* [Cookies policy](https://www.freepikcompany.com/cookie)
-* Cookies settings
-* [Copyright](https://www.freepikcompany.com/copyright)
+* [Terms of use](https://www.freepikcompany.com/legal/terms-of-use#nav-freepik)
+* [License agreement](https://www.freepikcompany.com/legal/terms-of-use#nav-freepik-agreement)
+* [Privacy policy](https://www.freepikcompany.com/legal/privacy)
+* [Copyright information](https://www.freepikcompany.com/legal/copyright)
+* [Cookies policy](https://www.freepikcompany.com/legal/cookies)
+* Cookie settings
 
-###### Social
+Support
 
-* [](https://www.facebook.com/Freepik)
-* [](https://twitter.com/freepik)
-* [](https://www.pinterest.es/freepik/)
-* [](https://www.instagram.com/freepik/?hl=es)
-* [](https://es.linkedin.com/company/freepik-company)
-* [](https://dribbble.com/freepik)
-* [](https://www.youtube.com/channel/UC9wPXN2TIWoUamqONb7v8Pw)
+* [FAQ](https://support.freepik.com/s/?language=en_US)
+* [Search guide](https://www.freepikcompany.com/help/search-guide#freepik_home_apply_footer)
+* [Contact](https://www.freepikcompany.com/profile/support)
 
-[![Freepik Company](https://www.freepikcompany.com/img/b2b/freepikcompany-footer.svg)](https://www.freepikcompany.com/ "Freepik Company")
+Social media
 
-Copyright ©  2010-2023 Freepik Company S.L. All rights reserved
+* [Facebook](https://www.facebook.com/Freepik)
+* [Twitter](https://twitter.com/freepik)
+* [Pinterest](https://www.pinterest.es/freepik/)
+* [Instagram](https://www.instagram.com/freepik)
+* [Youtube](https://www.youtube.com/channel/UC9wPXN2TIWoUamqONb7v8Pw)
+* [Linkedin](https://www.linkedin.com/company/freepik-corp/)
 
-English Español
+Get exclusive assets sent straight to your inbox
 
-###### Freepik Company projects
+[Sign up](https://www.freepik.com/sign-up?client_id=freepik&lang=en)
+
+English
+
+[](https://www.freepikcompany.com/)
+
+Copyright © 2010-2024 Freepik Company S.L. All rights reserved.
+
+Freepik Company projects
 
 * [Freepik](https://www.freepik.com/)
 * [Flaticon](https://www.flaticon.com/)
-* [Slidesgo](https://www.slidesgo.com/)
-* [Wepik](https://www.wepik.com/)
+* [Slidesgo](https://slidesgo.com/)
+* [Wepik](https://wepik.com/)
 * [Videvo](https://www.videvo.net/)
-
-![](https://www.facebook.com/tr?id=1470657753234558&ev=PageView&noscript=1)
