@@ -73,6 +73,14 @@ United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
     
     Latest  News
     
+    ![](/media/bdqhzrcx/picture1_loughborough-university-students-design-sustainable-and-creative-office-wear.png?anchor=center&mode=crop&width=350&height=450&rnd=133638789198070000)
+    
+    Posted 26th June 2024
+    
+    Loughborough University students design sustainable and creative office wear as part of competition
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/loughborough-university-students-design-sustainable-and-creative-office-wear-as-part-of-competition/)
+    
     ![](/media/l4gf0ixu/couple-collaborating-evo-hi-res.jpg?center=0.40713451647890281,0.69400103211811637&mode=crop&width=350&height=450&rnd=133626558714530000)
     
     Posted 12th June 2024
