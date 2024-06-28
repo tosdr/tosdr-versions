@@ -2,7 +2,7 @@ ADVERTISEMENT
 
 Skip ads.[Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
 
-SUBSCRIBE
+Activate your premium subscription today
 
 [SUBSCRIBE](https://www.manoramaonline.com/myaccount/subscribe-plan.html "SUBSCRIBE")
 
@@ -42,7 +42,7 @@ SUBSCRIBE
 
  [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manorama Online") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manorama Online")](https://www.manoramaonline.com/)
 
-[Mobile E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Mobile E-paper")
+[Today's E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Today's E-paper")
 
 * [SIGN IN](javascript:void(0) "SIGN IN")
     
@@ -464,5 +464,7 @@ Activate your premium subscription today.
     
 
 [View More](https://www.manoramaonline.com/services.html)
+
+ 
 
 6iqnrupk339uji4fu572vi8geq
