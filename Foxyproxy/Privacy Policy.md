@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Awesome, great service as always!
+I like your service - it works fine for me and I have already taken out a new and longer subscription.
 
-Guy Cracknell
+Ian Strachan
