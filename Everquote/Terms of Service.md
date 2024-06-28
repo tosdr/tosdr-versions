@@ -2,7 +2,7 @@
 
 menu
 
-* [Auto](https://auto.everquote.com/)down
+* [Auto](https://auto.everquote.com/?tid=2818)down
 * [Home](https://home.everquote.com/)down
 * [Renters](https://renters.everquote.com/)down
 * [Life](https://life.everquote.com/)down
