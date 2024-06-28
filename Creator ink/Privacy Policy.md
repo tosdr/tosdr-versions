@@ -1,5 +1,9 @@
 [Skip to content](#MainContent)
 
+Pause slideshow Play slideshow
+
+[Take an additional 24% Off on Our VidCon Sale!Use Code: VIDCON2024](https://creatorink.com/collections/vidcon-sale)
+
 icon-X Close menu
 
 * [Creators](https://creatorink.com/collections)
@@ -69,7 +73,7 @@ icon-X Close menu
     * [All FNAF](https://creatorink.com/collections/five-nights-at-freddys)
         
     
-* [Sale](https://creatorink.com/collections/evergreen-sale-collection)
+* [VidCon Sale](https://creatorink.com/collections/vidcon-sale)
 * [Log in](https://creatorink.com/account)
     
 
@@ -176,7 +180,7 @@ icon-X Close menu
     * [VIP Secret Sale](https://creatorink.com/collections/ink-insiders-secret-sale)
     * [All FNAF](https://creatorink.com/collections/five-nights-at-freddys)
     
-* [Sale](https://creatorink.com/collections/evergreen-sale-collection)
+* [VidCon Sale](https://creatorink.com/collections/vidcon-sale)
 
 [account Log in](https://creatorink.com/account) [icon-search Search](https://creatorink.com/search) icon-hamburger Site navigation [icon-bag-minimalCart](https://creatorink.com/cart)
 
