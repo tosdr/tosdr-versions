@@ -1,4 +1,4 @@
-Open the menu[![Mailo logo](https://images.mailo.com/img-20240207/mailo/common/mailo/logo_only_mailo.svg)![Mailo logo](https://images.mailo.com/img-20240207/mailo/common/mailo/logo_mailo_35.svg)](https://www.mailo.com/ "Mailo home page")
+Open the menu[![Mailo logo](https://images.mailo.com/img-20240624/mailo/common/mailo/logo_only_mailo.svg)![Mailo logo](https://images.mailo.com/img-20240624/mailo/common/mailo/logo_mailo_35.svg)](https://www.mailo.com/ "Mailo home page")
 
 [Sign up](https://www.mailo.com/mailo/auth/signup.php)[Sign in](https://www.mailo.com/?language=en&page=id)[Sign in](https://www.mailo.com/?language=en&page=id "Sign in")[Language selection](javascript: "Language selection")
 
@@ -11,7 +11,8 @@ Open the menu[![Mailo logo](https://images.mailo.com/img-20240207/mailo/common/m
 * [Terms of use](https://www.mailo.com/mailo/en/terms-of-use.php)
 * [Privacy rules](https://www.mailo.com/mailo/en/privacy-rules.php)
 * [Mailo services](https://www.mailo.com/mailo/en/mailo-services.php)
-* [Features](https://www.mailo.com/mailo/en/features.php)
+* [](https://www.mailo.com/mailo/en/.php)
+* [Features+](https://www.mailo.com/mailo/en/features.php)
 * [Change your e-mail address](https://www.mailo.com/mailo/en/change-your-e-mail-address.php)
 * [Access+](https://www.mailo.com/mailo/en/access.php)
 * [E-mail+](https://www.mailo.com/mailo/en/e-mail.php)
@@ -25,11 +26,11 @@ Open the menu[![Mailo logo](https://images.mailo.com/img-20240207/mailo/common/m
 * [Fight against spam](https://www.mailo.com/mailo/en/fight-against-spam.php)
 * [PGP encryption+](https://www.mailo.com/mailo/en/pgp-encryption.php)
 * [Keyboard shortcuts](https://www.mailo.com/mailo/en/keyboard-shortcuts.php)
-* [Mailo Premium packs](https://www.mailo.com/mailo/en/packs.php)
-* [Premium pack](https://www.mailo.com/mailo/en/premium-pack.php)
-* [Premium+ packs](https://www.mailo.com/mailo/en/premium%2B-packs.php)
-* [Family pack](https://www.mailo.com/mailo/en/family-pack.php)
-* [Pro packs](https://www.mailo.com/mailo/en/pro-packs.php)
+* [Subscriptions](https://www.mailo.com/mailo/en/subscriptions.php)
+* [Premium offer](https://www.mailo.com/mailo/en/premium-offer.php)
+* [Premium+ offers](https://www.mailo.com/mailo/en/premium%2B-offers.php)
+* [Family offer](https://www.mailo.com/mailo/en/family-offer.php)
+* [Pro offers](https://www.mailo.com/mailo/en/pro-offers.php)
 * [Mailo Junior](https://www.mailo.com/mailo/en/mailo-junior.php)
 * [Security for children](https://www.mailo.com/mailo/en/security-for-children.php)
 * [Graphism for children](https://www.mailo.com/mailo/en/graphism-for-children.php)
@@ -43,6 +44,7 @@ Open the menu[![Mailo logo](https://images.mailo.com/img-20240207/mailo/common/m
 * [For municipalities+](https://www.mailo.com/mailo/en/for-municipalities.php)
 * [Domain names+](https://www.mailo.com/mailo/en/domain-names.php)
 * [Websites](https://www.mailo.com/mailo/en/websites.php)
+* [Resellers](https://www.mailo.com/mailo/en/resellers.php)
 * [Mailo Universe](https://www.mailo.com/mailo/en/mailo-universe.php)
 
 |     |     |
@@ -103,6 +105,14 @@ The Mailo charter
 * [Mailo documentation](https://www.mailo.com/mailo/en/mailo.php "Mailo documentation")
 * [The Mailo blog](https://blog.mailo.com/ "The Mailo blog")
 * [The FAQ](https://faq.mailo.com/ "The FAQ")
+* ### Social networks
+    
+    * [](https://www.facebook.com/hellomailo)
+    * [](https://www.x.com/HELLOMAILO)
+    * [](https://mastodon.social/@hellomailo)
+    * [](https://www.linkedin.com/company/mailofr)
+    * [](https://www.instagram.com/hellomailo)
+    * [](https://www.threads.net/@hellomailo)
 
 ### Useful links
 
@@ -117,22 +127,11 @@ The Mailo charter
 * [Mailo Edu](https://edu.mailo.com/ "Mailo Edu")
 * [Mailo Pro](https://pro.mailo.com/ "Mailo Pro")
 * [Mailo Secure Cloud](https://www.mailosecurecloud.com/ "Mailo Secure Cloud")
+* Mailo Continuity
 
 ### More info on Mailo
 
 * [Who are we?](https://www.mailo.com/mailo/en/who-are-we.php "Who are we?")
 * [Contact us](https://www.mailo.com/mailo/en/contact-us.php "Contact us")
+* [Become a reseller](https://www.mailo.com/mailo/en/resellers.php "Become a reseller")
 * [Press area](https://presse.mailo.com/ "Press area")
-* ### Social networks
-    
-    * [![](https://images.mailo.com/img-20240207/mailo/common/logos/icon_social_facebook)](https://www.facebook.com/hellomailo)
-    * [![](https://images.mailo.com/img-20240207/mailo/common/logos/icon_social_twitter)](https://www.twitter.com/HELLOMAILO)
-    * [![](https://images.mailo.com/img-20240207/mailo/common/logos/icon_social_mastodon)](https://mastodon.social/@hellomailo)
-    * [![](https://images.mailo.com/img-20240207/mailo/common/logos/icon_social_linkedin)](https://www.linkedin.com/company/mailofr)
-    * [![](https://images.mailo.com/img-20240207/mailo/common/logos/icon_social_instagram)](https://www.instagram.com/hellomailo)
-
-Notifications![X](https://images.mailo.com/img-20240207/mailo/en/include/default/icon_close.png "Close")
-
-The session has expired
-
-Warning: you seem to be offline
