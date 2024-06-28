@@ -558,7 +558,7 @@ If you are a customer resident in the EU, you also have the right to use the Eur
 
 * * *
 
-[Denmark](https://www.foodora.dk/ "foodora in Denmark") | [Norway](https://www.foodora.no/ "foodora in Norway") | [Sweden](https://www.foodora.se/ "foodora in Sweden") | [Austria](https://www.foodora.at/ "foodora in Austria") | [Hungary](https://www.foodora.hu/ "foodora in Hungary") | [Czech Republic](https://www.foodora.cz/ "foodora in Czech Republic") | [Slovakia](https://www.foodora.sk/ "foodora in Slovakia")
+[Norway](https://www.foodora.no/ "foodora in Norway") | [Sweden](https://www.foodora.se/ "foodora in Sweden") | [Austria](https://www.foodora.at/ "foodora in Austria") | [Hungary](https://www.foodora.hu/ "foodora in Hungary") | [Czech Republic](https://www.foodora.cz/ "foodora in Czech Republic")
 
 ![nordea](https://micro-assets.foodora.com/img/banks_logo/nordea.svg "nordea")![osuuspankki](https://micro-assets.foodora.com/img/banks_logo/osuuspankki.svg "osuuspankki")![danske](https://micro-assets.foodora.com/img/banks_logo/danske.svg "danske")![spankki](https://micro-assets.foodora.com/img/banks_logo/spankki.svg "spankki")![aktia](https://micro-assets.foodora.com/img/banks_logo/aktia.svg "aktia")![alandsbanken](https://micro-assets.foodora.com/img/banks_logo/alandsbanken.svg "alandsbanken")![handelsbanken](https://micro-assets.foodora.com/img/banks_logo/handelsbanken.svg "handelsbanken")![pop](https://micro-assets.foodora.com/img/banks_logo/pop.svg "pop")![saastopankki](https://micro-assets.foodora.com/img/banks_logo/saastopankki.svg "saastopankki")![omasp](https://micro-assets.foodora.com/img/banks_logo/omasp.svg "omasp")
 
