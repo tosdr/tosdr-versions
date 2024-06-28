@@ -257,7 +257,7 @@ Have questions?
 * [Contact sales](https://www.elastic.co/contact?storm=global-header-en)
 * [Get support](https://www.elastic.co/support)
 
-[Pricing](https://www.elastic.co/pricing)[Docs](https://www.elastic.co/guide/index.html)
+[Pricing](https://www.elastic.co/pricing)[Docs](https://www.elastic.co/docs)
 
 General Privacy Statement
 =========================
