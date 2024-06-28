@@ -214,9 +214,9 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        21 June 2024
+        26 June 2024
         
-        Market update - June 20, 2024
+        Market Update - June 26, 2024
         -----------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
