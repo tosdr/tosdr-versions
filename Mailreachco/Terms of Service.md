@@ -6,15 +6,15 @@
 
 MailReach x Stripe Climate](https://climate.stripe.com/Y1e1kL)
 
-Great Resources
-
-[Improve your Email Deliverability](https://www.mailreach.co/blog/improve-email-deliverability)[The Best Cold Email Deliverability Sending Strategy](https://www.mailreach.co/blog/cold-email-deliverability-sending-strategy)[Why Are My Emails Going To Spam ?](https://www.mailreach.co/blog/why-are-my-emails-going-to-spam)[How To Warm Up Email Domain](https://www.mailreach.co/blog/how-to-warm-up-email-domain)[Why To Always Be Warming To Maintain Your Deliverability](https://www.mailreach.co/blog/keep-email-warming-to-maintain-deliverability)[How Email Warming Can Help You Improve Email Deliverability](https://www.mailreach.co/blog/how-an-email-warming-service-can-help-you-improve-email-deliverability)[Deliverability Test : How to Do it Right](https://www.mailreach.co/blog/deliverability-test-how-to-do-it-right)[Email Deliverability Tools](https://www.mailreach.co/blog/email-deliverability-tools)[MailReach VS Other solutions](https://www.mailreach.co/mailreach-vs-other-solutions)
-
-Services
+Quick Links
 
 [Email warm up](https://www.mailreach.co/email-warmup)[Email spam test](https://www.mailreach.co/email-spam-test)[Competitors Overview](https://www.mailreach.co/mailreach-vs-other-solutions)[Best Mailwarm alternative](https://www.mailreach.co/mailwarm-alternative)
 
-[Email spam checker tool](https://www.mailreach.co/email-spam-checker-tool)[Email spam test API](https://www.mailreach.co/email-spam-test-api)[Email warm up API](https://www.mailreach.co/email-warmup-api)[SPF checker](https://www.mailreach.co/spf-checker)[DKIM checker](https://www.mailreach.co/dkim-checker)
+[Email spam checker tool](https://www.mailreach.co/email-spam-checker-tool)[Email spam test API](https://www.mailreach.co/email-spam-test-api)[Email warm up API](https://www.mailreach.co/email-warmup-api)[SPF checker](https://www.mailreach.co/spf-checker)[DKIM checker](https://www.mailreach.co/dkim-checker)[Reviews](https://www.mailreach.co/mailreach-reviews)
+
+Great Resources
+
+[Improve your Email Deliverability](https://www.mailreach.co/blog/improve-email-deliverability)[The Best Cold Email Deliverability Sending Strategy](https://www.mailreach.co/blog/cold-email-deliverability-sending-strategy)[Why Are My Emails Going To Spam ?](https://www.mailreach.co/blog/why-are-my-emails-going-to-spam)[How To Warm Up Email Domain](https://www.mailreach.co/blog/how-to-warm-up-email-domain)[Why To Always Be Warming To Maintain Your Deliverability](https://www.mailreach.co/blog/keep-email-warming-to-maintain-deliverability)[How Email Warming Can Help You Improve Email Deliverability](https://www.mailreach.co/blog/how-an-email-warming-service-can-help-you-improve-email-deliverability)[Deliverability Test : How to Do it Right](https://www.mailreach.co/blog/deliverability-test-how-to-do-it-right)[Email Deliverability Tools](https://www.mailreach.co/blog/email-deliverability-tools)[MailReach VS Other solutions](https://www.mailreach.co/mailreach-vs-other-solutions)
 
 Legal
 
