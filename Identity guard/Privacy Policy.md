@@ -8,21 +8,19 @@ Features
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
-[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[VPN & Online Privacy](https://www.identityguard.com/vpn)[Antivirus](https://www.identityguard.com/antivirus)
+[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-protection/insurance)[VPN & Online Privacy](https://www.identityguard.com/vpn)
 
-[Password Manager & Vault](https://www.identityguard.com/password-manager)[Parental Controls & Safe Gaming](https://www.identityguard.com/parental-controls)[Spam Call Protection](https://www.identityguard.com/spam-call-message-protection)
+[Antivirus](https://www.identityguard.com/antivirus)[Password Manager & Vault](https://www.identityguard.com/password-manager)[Spam Call Protection](https://www.identityguard.com/spam-call-message-protection)[Parental Controls & Safe Gaming](https://www.identityguard.com/parental-controls)[Find Your Perfect Plan](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/64e64cdf63f9ecf823fa0f0f_Frame%206960196.svg)
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/667d3973ba335e59256c67a9_Mask%20group.png)
 
 Digital Security 101
 
-Gift Aura
+Find Your Perfect Plan
 
-New
+Take our simple quiz to discover the best plan for your needs.
 
-Give the gift of safety to your loved ones or a business
-
-[Learn More](https://www.identityguard.com/gift-aura)
+[Take Quiz](https://my.aura.com/enrollment/v95/1?cc=a_pchp1)
 
 Resources
 
