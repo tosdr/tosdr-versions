@@ -250,6 +250,10 @@ Latest reviews
 
 |     |     |
 | --- | --- |
+| [![Pentax 17 review](https://3.img-dpreview.com/files/p/E~C1267x802S2042x2042T60x60~articles/9053926755/Pentax-17-camera.jpeg)](https://www.dpreview.com/reviews/pentax-17-film-camera-review) | [Pentax 17](https://www.dpreview.com/reviews/pentax-17-film-camera-review) |
+
+|     |     |
+| --- | --- |
 | [![Nikon Z6III](https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/nikon_z6iii/a854777ca1d44d4c8956aa4c2b215fcd.png)](https://www.dpreview.com/reviews/nikon-z6iii-initial-review) | [Nikon Z6III](https://www.dpreview.com/reviews/nikon-z6iii-initial-review) |
 
 |     |     |
@@ -264,24 +268,20 @@ Latest reviews
 | --- | --- | --- |
 | [![Sony a9 III](https://1.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/sony_a9iii/431c25348b5d4393a9ea8d1ac7a91bf5.png)](https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review) | [Sony a9 III](https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review) | 91% |
 
-|     |     |
-| --- | --- |
-| [![Fujifilm X-T50](https://1.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/fujifilm_xt50/19402c037631437c91f7e42b043762db.png)](https://www.dpreview.com/reviews/fujifilm-x-t50-initial-review) | [Fujifilm X-T50](https://www.dpreview.com/reviews/fujifilm-x-t50-initial-review) |
-
 [See all reviews](https://www.dpreview.com/reviews) »
 
 Finished challenges
 
 |     |     |     |
 | --- | --- | --- |
-| [![Beautiful Summer](https://g3.img-dpreview.com/9501518B849A45558B8A6BD4575AC36D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247591) | [![Duck in Flight](https://g3.img-dpreview.com/C88F0432508C4C42B44DC37D16996C30.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247490) | [![Stained glass in Lincoln cathedral](https://g4.img-dpreview.com/1261AC9CA805406E96BDB59E418F5025.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247408) |
-| Beautiful Summer by Xiaomao  <br>from DPReview Editors' Challenge \| Natural worlds | Duck in Flight by amami  <br>from A Big Year 2024 | Stained glass in Lincoln cathedral by Mike Engles  <br>from Windows |
+| [![Cold Nights along with Steam Rider](https://g3.img-dpreview.com/E909127955854228AC491BB992BEA7B5.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247779) | [![Glasswing](https://g1.img-dpreview.com/4F77713FBBA74821B5E6C3CF697C64DA.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247604) | [![Beautiful Summer](https://g3.img-dpreview.com/9501518B849A45558B8A6BD4575AC36D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247591) |
+| Cold Nights along with Steam Rider by ojas22  <br>from People at Train Stations. | Glasswing by Minas\_Eye  <br>from Fortnight 27: My Best Non-bird Photo Shot after 2024-05-27 | Beautiful Summer by Xiaomao  <br>from DPReview Editors' Challenge \| Natural worlds |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Nikon Z6III10.1%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Canon EOS R79.4%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Zf1.8%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.3%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.2%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Panasonic Lumix DC-GH71.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Panasonic Lumix DC-S5II1.0%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
+[Canon EOS R77.1%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Z6III3.5%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Nikon Zf1.5%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.4%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.3%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Fujifilm X100VI1.2%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Panasonic Lumix DC-S91.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs9)[Panasonic Lumix DC-S5II1.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)[Nikon Z81.1%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -295,26 +295,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 77  | [What is fueling the trend back to film?](https://www.dpreview.com/forums/post/67771492) |
-| 57  | [Hypothetical poll question...Would you buy a APSC version of the Z6iii?](https://www.dpreview.com/forums/post/67771753) |
-| 40  | [To many photos](https://www.dpreview.com/forums/post/67771903) |
-| 37  | [Do Nikon FX bodies have to be bigger than DX bodies?](https://www.dpreview.com/forums/post/67773333) |
-| 35  | [Pentax, what happened to you?](https://www.dpreview.com/forums/post/67772380) |
-| 32  | [X-Trans 1 why so expensive.](https://www.dpreview.com/forums/post/67772411) |
-| 30  | [Lenses I am jealous from other systems...](https://www.dpreview.com/forums/post/67773392) |
-| 30  | [For Zf owners](https://www.dpreview.com/forums/post/67773610) |
-| 29  | [Are we anticipating a fixed lens Gfx](https://www.dpreview.com/forums/post/67772430) |
-| 28  | [Birds anyone?](https://www.dpreview.com/forums/post/67772861) |
-| 28  | [Is Sony making too many different cameras?](https://www.dpreview.com/forums/post/67773330) |
-| 27  | [Z8 or Z6iii?](https://www.dpreview.com/forums/post/67771537) |
-| 27  | [Nikon Lens Roadmap](https://www.dpreview.com/forums/post/67774519) |
-| 25  | [Going from FF to 4/3 for macro?](https://www.dpreview.com/forums/post/67772724) |
-| 24  | [Exported image quality low](https://www.dpreview.com/forums/post/67772647) |
-| 23  | [Upgrading from Pen-F](https://www.dpreview.com/forums/post/67772916) |
-| 21  | [Godox X3 trigger and Z8 HSS - banding?](https://www.dpreview.com/forums/post/67773416) |
-| 20  | [Canon has refurbished RF 100-500 at a great price](https://www.dpreview.com/forums/post/67773337) |
-| 20  | [Even NEWER flower thread](https://www.dpreview.com/forums/post/67773551) |
-| 20  | [Z50 / Z6ii shenanigans](https://www.dpreview.com/forums/post/67774224) |
+| 150 | [\*\*Weekly Image Thread 24 06 26 #888\*\*](https://www.dpreview.com/forums/post/67784487) |
+| 67  | [How much would you pay for a Z70/80/90?](https://www.dpreview.com/forums/post/67785165) |
+| 61  | [Latest Firmware Update is Available for X-H2S, X-H2, X-T5 and X-S20](https://www.dpreview.com/forums/post/67785289) |
+| 52  | [Nikon Lens Strategy](https://www.dpreview.com/forums/post/67784603) |
+| 45  | [My Z6 III tech thread](https://www.dpreview.com/forums/post/67784373) |
+| 45  | [I bought a red dot sight](https://www.dpreview.com/forums/post/67784925) |
+| 38  | [Lowest shutter speed to avoid motion blur (Z8 + 180-600mm)](https://www.dpreview.com/forums/post/67783904) |
+| 37  | [Picture upload help needed](https://www.dpreview.com/forums/post/67785214) |
+| 32  | [Why I unfortunately sold my Sigma equipment ...](https://www.dpreview.com/forums/post/67784610) |
+| 32  | [Building a light weight hiking kit](https://www.dpreview.com/forums/post/67784747) |
+| 28  | [A gear shot (I'm assuming fitting for a gear forum)](https://www.dpreview.com/forums/post/67783912) |
+| 27  | [What's your favorite Pentax of all time? 😍](https://www.dpreview.com/forums/post/67786100) |
+| 26  | [From m43 to Full Frame: Would 180-600mm be too heavy?](https://www.dpreview.com/forums/post/67786982) |
+| 26  | [best versatile lens for travel?? Oly 12-45 F4.0 or PL 12-60 F2.8-4.0](https://www.dpreview.com/forums/post/67785613) |
+| 25  | [Lightroom AI - Denoise or DXO PureRaw for my use case](https://www.dpreview.com/forums/post/67784097) |
+| 24  | [Peak Design Tripod with GFX System?](https://www.dpreview.com/forums/post/67785001) |
+| 23  | [f/22 in MFT can easily be more than usable - example of a processed picture from dpreview gallery](https://www.dpreview.com/forums/post/67785216) |
+| 22  | [First Cat Photos with Z6III](https://www.dpreview.com/forums/post/67785175) |
+| 21  | [Animal Subject Detection X-H2S firmware v7.0](https://www.dpreview.com/forums/post/67785557) |
+| 21  | [Lenses with worst value retention in E-mount](https://www.dpreview.com/forums/post/67785872) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
