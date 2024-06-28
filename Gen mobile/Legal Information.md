@@ -8,8 +8,6 @@ Search
 
 [Cart (00)](https://www.genmobile.com/cart)
 
-[Easy Pay](https://www.genmobile.com/pages/easypay) [Activate](https://activate.genmobile.com/)
-
 * [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
     
 
@@ -29,6 +27,14 @@ Search
     * [Easy Pay](https://www.genmobile.com/pages/easypay)
 * [Cart (00)](https://www.genmobile.com/cart)
     
+
+[MyAccount
+
+![](//www.genmobile.com/cdn/shop/t/48/assets/gm-myaccount.svg?v=73238960155695954641719252988)](https://myaccount.genmobile.com/SignIn.php)[Activate
+
+![](//www.genmobile.com/cdn/shop/t/48/assets/gm-phone.svg?v=41062798527791431101719253003)](https://activate.genmobile.com/)[Find a Store
+
+![](//www.genmobile.com/cdn/shop/t/48/assets/gm-findstore.svg?v=88663615024655658451719253009)](https://www.genmobile.com/apps/store-locator)
 
 Gen Mobile Consumer Policies & Privacy Notice
 =============================================
