@@ -20,7 +20,7 @@ In processing Users' and Visitors' data, we are guided by the following principl
 
 Who we are
 
-Aidlab, a brand operated under Aidmed Sp. z o.o. based in Gdańsk, Partyzantów 76 Street, 80-254 Gdańsk, KRS: 0000724567, NIP: 5833290208, REGON: 369656602, e-mail address: contact (at) aidmed.ai ("Aidmed") is the administrator of Users' and Visitors' personal data obtained in connection with Users' or Visitors' use of the Website or services provided through the Website.
+Aidlab, a brand operated under Aidmed Sp. z o.o. based in Gdańsk, Partyzantów 76 Street, 80-254 Gdańsk, KRS: 0000721886, NIP: 5833290208, REGON: 369656602, e-mail address: contact (at) aidmed.ai ("Aidmed") is the administrator of Users' and Visitors' personal data obtained in connection with Users' or Visitors' use of the Website or services provided through the Website.
 
 What personal information do we collect from the people who visit our websites, use our devices, or interact with our apps?
 
