@@ -1,6 +1,6 @@
 Menu
 
- [![AP Logo](https://assets.apnews.com/fa/ba/9258a7114f5ba5c7202aaa1bdd66/aplogo.svg)](https://apnews.com/)
+ [![Image](https://assets.apnews.com/fa/ba/9258a7114f5ba5c7202aaa1bdd66/aplogo.svg)](https://apnews.com/)
 
 Menu
 
@@ -107,7 +107,6 @@ Menu
     * [Business](https://apnews.com/business)
         
         * [Inflation](https://apnews.com/hub/inflation)
-        * [Personal finance](https://apnews.com/hub/personal-finance)
         * [Financial Markets](https://apnews.com/hub/financial-markets)
         * [Business Highlights](https://apnews.com/hub/business-highlights)
         * [Financial wellness](https://apnews.com/hub/financial-wellness)
@@ -208,7 +207,6 @@ Show Search
 * [Business](https://apnews.com/business)
     
     * [Inflation](https://apnews.com/hub/inflation)
-    * [Personal finance](https://apnews.com/hub/personal-finance)
     * [Financial Markets](https://apnews.com/hub/financial-markets)
     * [Business Highlights](https://apnews.com/hub/business-highlights)
     * [Financial wellness](https://apnews.com/hub/financial-wellness)
@@ -253,7 +251,7 @@ Show Search
 * [My Account](https://apnews.com/myaccount)
     
 
-*   ![](https://dims.apnews.com/dims4/default/94c503b/2147483647/strip/true/crop/640x236+0+0/resize/320x118!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F4c%2F65482a7b452db66043542c093eaf%2Fpromo-2x.png)
+*   ![Image](https://dims.apnews.com/dims4/default/94c503b/2147483647/strip/true/crop/640x236+0+0/resize/320x118!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F4c%2F65482a7b452db66043542c093eaf%2Fpromo-2x.png)
     
     The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.
     
@@ -291,15 +289,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Donald Sutherland dies](https://apnews.com/article/donald-sutherland-dies-68b0713a89774964b88ce0a1cc55cc18)
+[Live: Biden-Trump debate](https://apnews.com/live/presidential-debate-2024-updates)
+
+[Illinois sinkhole](https://apnews.com/article/sinkhole-soccer-field-illinois-limestone-566c32bd68d8098c13004ab49059f8bc)
+
+[Walgreens closures](https://apnews.com/article/walgreens-guidance-cut-store-closings-0c3b1b823cc18447cc6c35cd87157929)
+
+[Bronny James drafted](https://apnews.com/article/nba-draft-bronny-james-lebron-dd285416b77e565a01eb766316a14bc4)
 
 [Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
-
-[Copa America](https://apnews.com/article/canada-argentina-score-69ffea8264d44a35eb0f686635e45a00)
-
-[Ten Commandments](https://apnews.com/article/governor-jeff-landry-louisiana-conservative-bef181b17cb5a5819514c7c68ae8f2e1)
-
-[Taylor Swift](https://apnews.com/article/taylor-swift-eras-tour-london-6b25a44d14749d93d607064c77523151)
 
 The Associated Press
 ====================
@@ -622,7 +620,7 @@ For claims of copyright infringement under the Digital Millennium Copyright Act:
 
 Copyright 2024 The Associated Press.
 
-  [![](https://dims.apnews.com/dims4/default/8650001/2147483647/strip/true/crop/992x617+0+0/resize/225x140!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F24%2F7ff11448446fb8500bc984551325%2Faplogo-with-tagline.png)](https://apnews.com/)
+  [![Image](https://dims.apnews.com/dims4/default/8650001/2147483647/strip/true/crop/992x617+0+0/resize/225x140!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F24%2F7ff11448446fb8500bc984551325%2Faplogo-with-tagline.png)](https://apnews.com/)
 
 The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.
 
