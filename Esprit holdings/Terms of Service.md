@@ -175,8 +175,8 @@ f +1 212 401-1130
     * [Contact](https://www.esprit.com/en/company/corporate/contact)
     * [Esprit Worldwide](https://www.esprit.com/en/company/corporate/esprit-worldwide)
 
-跟我們來[](https://www.facebook.com/esprit)[](https://www.instagram.com/esprit/)[](https://www.youtube.com/user/esprit)[](https://www.snapchat.com/add/espritofficial)[](https://twitter.com/espritofficial)[](https://www.pinterest.de/espritofficial/)
+Follow us[](https://www.facebook.com/esprit)[](https://www.instagram.com/esprit/)[](https://www.youtube.com/user/esprit)[](https://www.snapchat.com/add/espritofficial)[](https://twitter.com/espritofficial)[](https://www.pinterest.de/espritofficial/)
 
-聯絡我們[](https://www.linkedin.com/company/esprit/)[](https://www.xing.com/companies/esprit)
+Connect with us[](https://www.linkedin.com/company/esprit/)[](https://www.xing.com/companies/esprit)
 
 © 2024 Esprit Global Image
