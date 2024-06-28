@@ -424,8 +424,6 @@ This page was not helpful because the content
 
 [![Facebook](/themes/custom/dhs_uswds/img/social-icons/facebook.svg)](https://www.dhs.gov/facebook)
 
-[![X](/themes/custom/dhs_uswds/img/social-icons/x.svg)](https://www.dhs.gov/twitter)
-
 [![YouTube](/themes/custom/dhs_uswds/img/social-icons/youtube.svg)](https://www.dhs.gov/youtube)
 
 [![Flickr](/themes/custom/dhs_uswds/img/social-icons/flickr.svg)](https://www.dhs.gov/flicker)
