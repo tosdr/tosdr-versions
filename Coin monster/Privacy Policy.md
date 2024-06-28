@@ -8,7 +8,7 @@
 
  
 
-Cart
+0Cart 0
 
 * Shop by Brand
     
