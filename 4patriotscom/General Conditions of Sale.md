@@ -32,19 +32,19 @@ We Champion Freedom & Self-Reliance
         
         ###### Super-Charged Solar Generator Bundle
         
-        688 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        686 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
         [![ Patriot Power Generator 2000K as seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-PPG-2KX-NEW-FOX-FRIENDS-1024x1024_360x.png?v=1689169558)
         
         ###### Patriot Power Generator 2000X
         
-        82 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        61 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
         
         ###### 3-Month Survival Food Kit
         
-        3298 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3297 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -59,23 +59,23 @@ We Champion Freedom & Self-Reliance
     * [Patriot Pure Air Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
     * [Shop All New Arrivals](https://4patriots.com/collections/newly-added)
     
-    * [![ The Ultimate Car Safety Kit. Power, Food & Safety All-In-1. Array of Patriot Power All-in-1 Emergency Car Kit with bonuses.](//4patriots.com/cdn/shop/files/STOREFRONT-ARRAY-CAR-ALL-BONUSES_647x547_a32bfc2b-f129-4331-b5b1-f38e3d1f5464_360x.png?v=1717437588)
+    * [![ Ultimate Portable Power Station Package + 2 Solar Panels](//4patriots.com/cdn/shop/files/PPGS-X-ARRAY-NO-BURST-647x647_360x.jpg?v=1709311383)
         
-        ###### Patriot Power All-in-1 Emergency Car Kit
+        ###### Ultimate Portable Power Station Package + 2 Solar Panels
         
-        9 reviews](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
+        6 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
         
         [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
         
         ###### 3-Month Survival Food Kit PlatinumXL
         
-        20 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
+        22 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
         
         [![ 4Patriots Ultimate Meat Medley Jumbo Survival Food Kit.](//4patriots.com/cdn/shop/files/MAIN-ARRAY-1-UMM-1024x1024_360x.jpg?v=1684934486)
         
         ###### Ultimate Meat Medley Jumbo Survival Food Kit
         
-        29 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        30 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -102,13 +102,13 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Survival Food Kit
         
-        3298 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3297 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
         ###### 4-Week Survival Food Kit
         
-        1026 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        1032 reviews](https://4patriots.com/products/4-week-survival-food-kit)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
@@ -127,19 +127,19 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Generator 2000X
         
-        82 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        61 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
         
         ###### Portable Power Station - Patriot Power Cell CX
         
-        1694 reviews](https://4patriots.com/products/patriot-power-cell)
+        1703 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
         ###### HaloXT Tactical Solar Flashlight
         
-        571 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        573 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
@@ -168,7 +168,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Water Filter
         
-        39 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        40 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -187,7 +187,7 @@ We Champion Freedom & Self-Reliance
         
         ###### StarFire Camp Stove
         
-        86 reviews](https://4patriots.com/products/starfire-camp-stove)
+        88 reviews](https://4patriots.com/products/starfire-camp-stove)
         
         [![ Freedom fridge](//4patriots.com/cdn/shop/products/FRIDGE-1_1_360x.jpg?v=1642003425)
         
@@ -223,7 +223,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Emergency Go-Tote
         
-        5 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
+        7 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
         
         [![ Patriot Power Greens - 1Canister Double Size.](//4patriots.com/cdn/shop/products/ARRAY-PGR1-DS-1024x1024_360x.png?v=1681143255)
         
@@ -253,7 +253,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Super-Charged Solar Generator Bundle
         
-        688 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        686 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
         [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
@@ -265,7 +265,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Greens - 1 Regular Size Can
         
-        7 reviews](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
+        13 reviews](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
         
     
 * [Learn](https://4patriots.com/blogs/news)
@@ -288,6 +288,12 @@ We Champion Freedom & Self-Reliance
 * [Contact Us](https://4patriots.com/pages/contact-us)
 
  [](#)
+
+[⭐ Deluxe 3-Month Food Kit Lasts 25 Years
+
+Shop Now >>](https://4patriots.com/products/3-month-survival-food-kit?position=hellobar&collection=3mo)
+
+Enter some text...
 
 [Home](https://4patriots.com/) / Returns & Refund Policy
 
@@ -405,72 +411,6 @@ How to request service:
   
 
 If Shipping Protection Service is not purchased, the customer will be responsible for filing a claim with the applicable carrier for the lost, stolen, or damaged package. Shipping Protection Service is non-refundable and cannot be canceled after an order has shipped.
-
-4Patriots
-
-Attn: Returns Department
-
-735 S Auto Mall Dr.
-
-American Fork, UT 84003
-
-**Or**
-
-4Patriots
-
-Attn: Returns Department
-
-242 Westfork CT
-
-Lithia Springs, GA 30122
-
-**For Freeze-Drying System:**
-
-Due to the Freeze-Drying System's weight and size, please contact our friendly Customer Service Team at [800-304-4202](tel:8003044202) or e-mail at [help@4patriots.com](mailto:help@4patriots.com) to start the special return process. Due to the weight and size of the product as well as special handling requirements associated with the return of the unit, a 10% restocking fee will be applied to your refund for cases of return that fall outside of standard warranty, repair or replacement issues. Please do not return your Freeze-Drying Systems to the return address on file.
-
-  
-
-**For Patriot Power Generators (Patriot Power Generator 1800 and Patriot Power Generator 2000-X):**
-
-Due to government regulations regarding the shipping of lithium-iron-phosphate batteries, returns containing our Patriot Power Generator require a special box for the unit to ensure they are not damaged in transit. As a result, the return box, along with return labels for the generator and box containing the solar panel and cord, along with select bonus items, require a flat return and restocking fee, deducted from your refund once received.
-
-  
-
-Note: The Patriot Power Sidekick sold by itself or with a 40-watt panel are not subject to the government regulations mentioned above. Therefore, this product is subject to the normal 4Patriots return policy and instructions mentioned above. If the Patriot Power Sidekick is purchased with or received as a bonus with a PPG, the above PPG specific return process is applicable.
-
-  
-
-**Please contact our team by phone at** [**800-680-8504**](tel:8006808504) **to begin the return process.**
-
-  
-
-**For all other products, please return to:**
-
-4Patriots
-
-Attn: Returns Department
-
-6935 W 2100 S,
-
-West Valley City, UT 84128
-
-**Or**
-
-4Patriots
-
-Attn: Returns Department
-
-355 Davis Lake Rd
-
-Locust Grove, GA 30248
-
-  
-
-**If you have any questions about your return, please e-mail your question to** [help@4patriots.com](mailto:help@4patriots.com) or call us at [800-304-4202](tel:8003044202) Monday-Friday from 8 a.m. to 7 p.m. CT, Saturday from 10 a.m. to 4 p.m. or Sunday 11 a.m. to 4 p.m. CT.
-
-  
-
-If you are returning a product, we would sincerely appreciate an explanation as to why you are dissatisfied. While this is completely optional, the truth is that we as a company want happy customers, and the only way for us to improve a product (or process) is to learn from our mistakes. Therefore, your total satisfaction is very important to us, and we will do whatever we can to make things right regarding your order.
 
 Contact Us
 
