@@ -278,6 +278,13 @@ Cookies are used for the functionality of our Mastodon instance. These are purel
 3. Other Mastodon instances submit information to us such as about comments and other interactions. We process this information and store it temporarily. The other Mastodon instances also transmit to us when they have deleted a comment, for example. Our Mastodon instance then also deletes it automatically.
 4. The recipient of postings is the public, potentially everyone. When you share or recommend a post on Mastodon, this is visible to everyone who follows you. If you reply to ours, you can set yourself (as with your own posts) who this is visible to.
 
+**Type: Video conferencing system OpenTalk**
+
+1. Stored data: IP addresses, browser and session IDs, login time, other data passed by the browser, all inputs made by the customer, chat, audio and video data
+2. Purpose: provision of services under the contract
+3. Data will be deleted: as soon as the video conference room is deleted by the customer
+4. Accessed by: system administration, support/helpdesk
+
 11\. Overview of your rights
 
 **Right to confirmation**
@@ -387,7 +394,7 @@ A company data protection officer has been appointed for our company. You can re
 
 [privacy@heinlein-support.de](mailto:privacy@heinlein-support.de)
 
-**As of: 5th December 2023**
+**As of: 25th June 2024**
 
 * zurück
 * nach Oben
