@@ -514,6 +514,7 @@ LanguageEnglish
 * [Translation API](https://www.deepl.com/pro-api)
 * [DeepL Write](https://www.deepl.com/write-mobile)
 * [Apps](https://www.deepl.com/app)
+* [Document Translation](https://www.deepl.com/en/features/document-translation)
 
 * Download
 * [DeepL for Android](https://www.deepl.com/android-app)
