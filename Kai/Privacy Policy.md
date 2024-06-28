@@ -1,9 +1,5 @@
 [Skip to content](#content)
 
-[![](https://kai.ai/wp-content/uploads/2022/11/Kai-white-logo-.svg)](https://kai.ai/)
-
-Sign up for a free demo
-
 Privacy Policy
 --------------
 
@@ -203,7 +199,7 @@ We will do our best to resolve your issue in a timely manner.
 
 Last updated: August 30, 2021.
 
-[![](https://kai.ai/wp-content/uploads/2023/07/spark-lighter-bckg@4x-1024x1024.png)](https://kai.ai/)
+[![](https://kai.ai/wp-content/uploads/2023/07/Kai-logo-Aug-rough-cut@4x-1024x521.png)](https://kai.ai/)
 
 Copyright © 2024 Kai. All rights reserved.
 ------------------------------------------
