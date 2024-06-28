@@ -26,13 +26,13 @@ $24.99 Sold Out](https://coromega.com/products/kids-good-eyes)
 
 [Kids Omega-3
 
-From $18.99](https://coromega.com/products/kids-omega-3)
+From $21.99](https://coromega.com/products/kids-omega-3)
 
 [![Omega-3 Main Image Front of Pack](//coromega.com/cdn/shop/files/81O0HSiygML._AC_SL1500_5f9cb753-b91d-4fce-8cdc-c9789fa538b9_1024x1024.jpg?v=1698799460)](https://coromega.com/products/omega-3)[](#)[](#)
 
 [Omega-3
 
-From $18.99](https://coromega.com/products/omega-3)
+From $21.99](https://coromega.com/products/omega-3)
 
 [![Max Omega 3 Packing Image, Plus Vitamin D3](//coromega.com/cdn/shop/files/81Wx2_WFaIL._AC_SL1500_c81aa0c4-4115-4ef5-ae30-785cdc8be948_1024x1024.jpg?v=1698799332)](https://coromega.com/products/max-omega-3)[](#)[](#)
 
