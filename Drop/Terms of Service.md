@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[MT3 BOGO is Back
+[Drop + Bees.Keys DCD Hundred Acres
 
-Seeing double? Try saving double.
+Type with Winnie-the-Pooh.
 
-BOGO NOW
+Preorder Now
 
-_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/MT3BOGO)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-bees-keys-dcd-hundred-acres-keycap-set)
 
 Free Standard Shipping in the US on orders over $99
 
