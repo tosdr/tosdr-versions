@@ -34,7 +34,7 @@
         * [Dev Visibility](https://www.gitkraken.com/features/visibility)
         * [Security & Admin](https://www.gitkraken.com/features/jira-security-and-admin)
         
-* [Top Dev Pains](# "Top Dev Pains")
+* [Dev Life Ain’t Easy](# "Dev Life Ain't Easy")
     * * [Git Is Complicated](https://www.gitkraken.com/developer-problems/git-is-complicated)
         * [PR & Code Review Friction](https://www.gitkraken.com/developer-problems/pr-and-code-review)
         * [Context Switching](https://www.gitkraken.com/developer-problems/context-switching)
@@ -63,7 +63,7 @@
         
 * [Pricing](https://www.gitkraken.com/pricing "Pricing")
 * [Sign In](https://gitkraken.dev/login "Sign In")
-* [Sign Up](https://gitkraken.dev/register "Sign Up")
+* [Start Free Trial](https://gitkraken.dev/trial "Start Free Trial")
 
 * [GitKraken Desktop features](https://www.gitkraken.com/git-client "GitKraken Desktop features")
 * [GitLens features](https://www.gitkraken.com/gitlens "GitLens features")
