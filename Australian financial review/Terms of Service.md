@@ -319,57 +319,59 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3035%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_306%2C$y_318/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1ff74a6d1f7b529ea9f7bce9d98d26f1b9f8dbdd)](https://www.afr.com/life-and-luxury/fashion-and-style/the-under-the-radar-watch-brands-worth-your-time-20240603-p5jitk)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a909d0ac9bbb25064b5f72654cf1b1a57e070cf1)](https://www.afr.com/life-and-luxury/food-and-wine/this-australian-chef-is-the-first-to-win-three-michelin-stars-20240601-p5jifb)
 
-### [The under-the-radar watch brands worth your time](https://www.afr.com/life-and-luxury/fashion-and-style/the-under-the-radar-watch-brands-worth-your-time-20240603-p5jitk)
+### [This Australian chef is the first to win three Michelin stars](https://www.afr.com/life-and-luxury/food-and-wine/this-australian-chef-is-the-first-to-win-three-michelin-stars-20240601-p5jifb)
 
-* Bani McSpedden
+* Hans van Leeuwen
 
-* ### [Wedgwood smashes tradition](https://www.afr.com/life-and-luxury/design/wedgwood-smashes-tradition-20240618-p5jmnf)
+* ### [Acclaimed restaurant duo Ross and Sunny Lusted to open in Melbourne](https://www.afr.com/life-and-luxury/food-and-wine/acclaimed-restaurant-duo-ross-and-sunny-lusted-to-open-in-melbourne-20240618-p5jmo2)
     
-* ### [The sixth generation is making its mark on this 175-year-old business](https://www.afr.com/life-and-luxury/food-and-wine/the-sixth-generation-is-making-its-mark-on-this-175-year-old-business-20240528-p5jh9i)
+* ### [‘The most exciting thing about Australian cuisine right now’](https://www.afr.com/life-and-luxury/food-and-wine/the-most-exciting-thing-about-australian-cuisine-right-now-20240517-p5jeep)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![.](https://static.ffx.io/images/$zoom_0.1961%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_232%2C$y_76/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f5f3cb3ccdfe5b5700acadc32c1f078011240ca3)](https://www.afr.com/work-and-careers/leaders/tax-cuts-will-prolong-rate-pain-directors-20240617-p5jmfb)
+[![Productivity Commission chairwoman Danielle Wood.](https://static.ffx.io/images/$zoom_0.6547%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_134%2C$y_107/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d52ed463c5cf9125b66efb1a1909d0e50f4a2aa6)](https://www.afr.com/work-and-careers/leaders/you-smile-too-much-what-danielle-wood-would-tell-her-younger-self-20240628-p5jpir)
 
-### [Tax cuts will prolong rate pain: directors](https://www.afr.com/work-and-careers/leaders/tax-cuts-will-prolong-rate-pain-directors-20240617-p5jmfb)
+### [‘You smile too much’: the early career advice Danielle Wood ignored](https://www.afr.com/work-and-careers/leaders/you-smile-too-much-what-danielle-wood-would-tell-her-younger-self-20240628-p5jpir)
 
-* Patrick Durkin and Sally Patten
+* 57 mins ago
+* Lucy Dean
 
-* ### [ANZ’s openly gay chairman warns on ASX’s sexuality disclosure](https://www.afr.com/work-and-careers/leaders/anz-s-openly-gay-chairman-warns-on-asx-s-sexuality-disclosure-20240618-p5jmt7)
+* ### [Why Anna Meares chased the job of leading the Aussie Olympic team](https://www.afr.com/companies/sport/why-anna-meares-chased-the-job-of-leading-the-aussie-olympic-team-20240610-p5jkjy)
     
-* ### [What do Nobel, Dulux and Australia’s first high-rise have in common?](https://www.afr.com/work-and-careers/workplace/from-goldrush-to-green-explosives-orica-s-forgotten-150-year-history-20240530-p5jhzy)
+* ### [‘I shot Bambi’: Women leaders on their toughest decisions](https://www.afr.com/work-and-careers/leaders/i-shot-bambi-women-leaders-on-their-toughest-decisions-20240617-p5jme5)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Lexus NX450h+ F Sport](https://static.ffx.io/images/$zoom_0.3537%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_108%2C$y_244/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b0e4910228315ccaa8bab331813f5ae6f7ed7126)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/is-lexus-plug-in-hybrid-the-best-nx-on-the-market-20240611-p5jkrw)
+[![Melissa on the Joondalup parkrun.](https://static.ffx.io/images/$zoom_0.6271%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_93%2C$y_124/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9bd9d146cc6bb6af0babc79dc42290041e1facba)](https://www.afr.com/life-and-luxury/health-and-wellness/founder-takes-coastal-path-to-fitness-friends-and-freedom-20240619-p5jn0h)
 
-### [Is Lexus’ plug-in hybrid the best NX on the market?](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/is-lexus-plug-in-hybrid-the-best-nx-on-the-market-20240611-p5jkrw)
+### [Founder takes coastal path to fitness, friends and freedom](https://www.afr.com/life-and-luxury/health-and-wellness/founder-takes-coastal-path-to-fitness-friends-and-freedom-20240619-p5jn0h)
 
-* Tony Davis
+* Life & Leisure
 
-* ### [Renaissance renditions of Bee Gees? Only at one festival](https://www.afr.com/life-and-luxury/arts-and-culture/renaissance-renditions-of-bee-gees-only-at-one-festival-20240606-p5jjuy)
+* ### [Experts reveal the best places in Paris to eat, drink, shop and unwind](https://www.afr.com/life-and-luxury/fashion-and-style/experts-reveal-the-best-places-in-paris-to-eat-drink-shop-and-unwind-20240603-p5jiqz)
     
-* ### [‘This is an exceptional pinot noir’](https://www.afr.com/life-and-luxury/food-and-wine/this-is-an-exceptional-pinot-noir-20240612-p5jl9x)
+* ### [How a blend of prosecco and limoncello proved a smash hit for winery](https://www.afr.com/life-and-luxury/food-and-wine/how-a-blend-of-prosecco-and-limoncello-proved-a-smash-hit-for-winery-20240619-p5jn5k)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_189/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/97be9128aa602abf7bbbd5f0ab43bd0a0fa00c83)](https://www.afr.com/property/residential/dubbo-rich-lister-wes-maas-buys-manly-s-most-expensive-home-20240619-p5jn4f)
+[![Some of the world’s largest fast food chains are eyeing Australia for growth at the same time as Guzman y Gomez and other local operators are doing the same.](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/5c28d216d7e11827e3a4cecd961446d1e609f1f0)](https://www.afr.com/companies/retail/guzman-y-gomez-isn-t-the-only-fast-food-giant-with-big-plans-20240625-p5jooi)
 
-### [Rich Lister buys Manly’s most expensive home](https://www.afr.com/property/residential/dubbo-rich-lister-wes-maas-buys-manly-s-most-expensive-home-20240619-p5jn4f)
+### [Guzman y Gomez isn’t the only fast food giant with big plans](https://www.afr.com/companies/retail/guzman-y-gomez-isn-t-the-only-fast-food-giant-with-big-plans-20240625-p5jooi)
 
-* Bonnie Campbell
+* 1 hr ago
+* Simon Evans and Carrie LaFrenz
 
-* ### [The day everything changed for Young Rich Lister Tash Oakley](https://www.afr.com/life-and-luxury/fashion-and-style/the-day-everything-changed-for-young-rich-lister-tash-oakley-20240523-p5jfyy)
+* ### [Caravan king Gerry Ryan puts $50m safari lodge on the market](https://www.afr.com/property/commercial/caravan-king-gerry-ryan-puts-50m-safari-lodge-on-the-market-20240627-p5jp7p)
     
-* ### [Rich List Snow family sets sights on Canberra’s next landmark](https://www.afr.com/property/commercial/rich-list-snow-family-sets-sights-on-canberra-s-next-landmark-20240620-p5jnep)
+* ### [Tim Gurner takes wellness ‘obsession’ to new level](https://www.afr.com/life-and-luxury/health-and-wellness/tim-gurner-takes-wellness-obsession-to-new-level-20240621-p5jno0)
     
 
 [The Australian Financial Review](https://www.afr.com/)
