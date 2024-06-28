@@ -77,6 +77,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [My Go-To Sunglasses for Summer](https://www.artofmanliness.com/style/accessories/huckberry-weekender-sunglasses/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/facial-hair/how-to-trim-your-eyebrows/)
+
+[How to Trim Your Eyebrows](https://www.artofmanliness.com/style/facial-hair/how-to-trim-your-eyebrows/)
+
 [![An illustration of a bearded man conversing with another man.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/facial-hair/your-no-nonsense-guide-to-choosing-the-right-beard-style/)
 
 [Your No-Nonsense Guide to Choosing the Right Beard Style](https://www.artofmanliness.com/style/facial-hair/your-no-nonsense-guide-to-choosing-the-right-beard-style/)
@@ -88,10 +92,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A man is brushing his beard in front of the mirror while pressing his beard oil.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/facial-hair/beard-oil-faq/)
 
 [Beard Oil FAQs: Answering All Your Pressing Beardly Questions](https://www.artofmanliness.com/style/facial-hair/beard-oil-faq/)
-
-[![A man is grooming his beard with a comb as part of his routine.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/facial-hair/beard-grooming-products-routine/)
-
-[Beard Grooming 101: The Lowdown on Products and Routine](https://www.artofmanliness.com/style/facial-hair/beard-grooming-products-routine/)
 
 [![An illustration of a man and a boy demonstrating how to tie a tie.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/style/ties/how-to-tie-a-tie/)
 
@@ -202,6 +202,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [5 Ways Fathers Hugely Influence Their Daughters](https://www.artofmanliness.com/people/fatherhood/5-ways-fathers-hugely-influence-on-their-daughters/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-1002-the-fascinating-differences-between-male-and-female-friendships/)
+
+[Podcast #1,002: The Fascinating Differences Between Male and Female Friendships](https://www.artofmanliness.com/people/relationships/podcast-1002-the-fascinating-differences-between-male-and-female-friendships/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
 
 [Podcast #997: The Laws of Connection — The Scientific Secrets of Building Stronger Relationships](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
@@ -213,10 +217,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Two human hands reaching towards each other, with a plain, light background, illustrating the concept of ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/sunday-firesides-you-cant-want-it-more-than-they-do/)
 
 [Sunday Firesides: You Can’t Want It More Than They Do](https://www.artofmanliness.com/people/relationships/sunday-firesides-you-cant-want-it-more-than-they-do/)
-
-[![A couple wearing sunglasses embraces and shares a passionate kiss against a pastel yellow background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/50-random-things-in-men-that-turn-women-on/)
-
-[50 Random Things in Men That Turn Women On](https://www.artofmanliness.com/people/relationships/50-random-things-in-men-that-turn-women-on/)
 
 [![Two individuals sit at a desk in an office, fist-bumping. A laptop displaying a pie chart and bar graph is open in the background, alongside plants and large windows overlooking city buildings.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-995-why-youre-so-bad-at-giving-and-receiving-compliments-and-how-to-fix-that/)
 
@@ -256,6 +256,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Skill of the Week: Throw a Boomerang](https://www.artofmanliness.com/skills/how-to/how-to-throw-a-boomerang/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-open-a-can-without-an-opener/)
+
+[Skill of the Week: Open a Can Without a Can Opener](https://www.artofmanliness.com/skills/manly-know-how/how-to-open-a-can-without-an-opener/)
+
 [![Illustration of a vintage car hydroplaning through water, depicted in a dynamic sketch style with bold lines and shading.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-when-your-vehicle-hydroplanes/)
 
 [Skill of the Week: Handle a Car That’s Hydroplaning](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-when-your-vehicle-hydroplanes/)
@@ -268,9 +272,9 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Skill of the Week: Mount a Horse](https://www.artofmanliness.com/skills/manly-know-how/how-to-mount-a-horse/)
 
-[![A stylized illustration of a person performing a Dumpster Jump into a dumpster.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-jump-from-a-building-into-a-dumpster/)
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/take-your-first-backpacking-trip-this-year/)
 
-[Skill of the Week: Jump From a Building Into a Dumpster](https://www.artofmanliness.com/skills/manly-know-how/how-to-jump-from-a-building-into-a-dumpster/)
+[Take Your First Backpacking Trip This Year](https://www.artofmanliness.com/skills/outdoor-survival/take-your-first-backpacking-trip-this-year/)
 
 [![Illustration of a man in a hat crawling through quicksand, with a pained expression on his face.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-quicksand-an-illustrated-guide/)
 
@@ -283,10 +287,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a man crawling through a subway vent shaft with caution tape visible, conveying a sense of stealth or escape.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-fall-onto-subway-tracks/)
 
 [Skill of the Week: Survive a Fall Onto Subway Tracks](https://www.artofmanliness.com/skills/outdoor-survival/how-to-survive-a-fall-onto-subway-tracks/)
-
-[![Illustration showing a man using bedsheets to climb out of a window onto a ledge, with another person inside pointing at him.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/escape-building-using-bedsheets/)
-
-[Skill of the Week: Escape From a Building Using Bedsheets](https://www.artofmanliness.com/skills/outdoor-survival/escape-building-using-bedsheets/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
@@ -649,6 +649,18 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-1002-the-fascinating-differences-between-male-and-female-friendships/)
+
+[Podcast #1,002
+
+###### The Fascinating Differences Between Male and Female Friendships](https://www.artofmanliness.com/people/relationships/podcast-1002-the-fascinating-differences-between-male-and-female-friendships/)
+
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/career/podcast-1001-systems-and-tools-for-stealing-back-hours-of-productivity/)
+
+[Podcast #1,001
+
+###### Systems and Tools for Stealing Back Hours of Productivity](https://www.artofmanliness.com/career-wealth/career/podcast-1001-systems-and-tools-for-stealing-back-hours-of-productivity/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1000-rules-for-the-modern-man/)
 
 [Podcast #1000! Rules for the Modern Man](https://www.artofmanliness.com/character/advice/podcast-1000-rules-for-the-modern-man/)
@@ -658,18 +670,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #999
 
 ###### The Epic Adventures of America’s Forgotten Mountain Man](https://www.artofmanliness.com/character/knowledge-of-men/podcast-999-the-epic-adventures-of-americas-forgotten-mountain-man/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
-
-[Podcast #998
-
-###### Dad’s Essential Role in Making Kids Awesome](https://www.artofmanliness.com/podcast/podcast-998-dads-essential-role-in-making-kids-awesome/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
-
-[Podcast #997
-
-###### The Laws of Connection — The Scientific Secrets of Building Stronger Relationships](https://www.artofmanliness.com/people/relationships/podcast-997-the-laws-of-connection-the-scientific-secrets-of-building-stronger-relationships/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
