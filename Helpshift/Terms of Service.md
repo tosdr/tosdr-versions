@@ -222,7 +222,7 @@ Enterprise Terms
 
 Effective date:  **9 December 2021**
 
-##### Privacy Notice Table of Contents
+##### Table of Contents
 
 PLEASE READ THESE ENTERPRISE TERMS (“TERMS”) CAREFULLY BEFORE USING THE SERVICES OFFERED BY HELPSHIFT, INC. (“HELPSHIFT”). BY MUTUALLY EXECUTING ONE OR MORE ORDER FORMS WITH HELPSHIFT WHICH REFERENCE THESE TERMS (EACH, AN “ORDER FORM”), YOU (“CUSTOMER”) AGREE TO BE BOUND BY THESE TERMS (TOGETHER WITH ALL ORDER FORMS, THE “AGREEMENT”) TO THE EXCLUSION OF ALL OTHER TERMS. IN ADDITION, ANY ONLINE ORDER FORM WHICH YOU SUBMIT VIA HELPSHIFT’S STANDARD ONLINE PROCESS AND WHICH IS ACCEPTED BY HELPSHIFT SHALL BE DEEMED TO BE MUTUALLY EXECUTED. IF THE TERMS OF THIS AGREEMENT ARE CONSIDERED AN OFFER, ACCEPTANCE IS EXPRESSLY LIMITED TO SUCH TERMS.
 
@@ -376,7 +376,7 @@ Company
 * [Legal](https://www.helpshift.com/legal/)
 * [Privacy](https://www.helpshift.com/legal/privacy/)
 * [Security](https://www.helpshift.com/security/)
-* Cookie Settings
+* [Cookie Settings](https://www.helpshift.com/legal/cookie-notice/)
 
 * [](https://www.facebook.com/helpshift)
 * [](https://www.instagram.com/helpshift/)
