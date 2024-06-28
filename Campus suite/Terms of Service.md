@@ -175,8 +175,8 @@ Partner network
 
 Collaborate for customer success](https://www.schoolnow.com/partner-program)
 
-Campus Suite Terms and Conditions
-=================================
+SchoolNow Terms and Conditions
+==============================
 
 ### **General Criteria**
 
