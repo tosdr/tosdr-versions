@@ -287,6 +287,30 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A person wearing glasses, looking worried, sits at a desk with financial documents scattered around, including a prominent bankruptcy notice. The background shows a home office with dim lighting, creating a somber mood. Icons representing long-term financial impact, such as a broken piggy bank, a declining bar graph, and clock symbols, surround the character. The image illustrates the serious and reflective theme of the long-term effects of bankruptcy on credit.](https://creditnerds.com/wp-content/uploads/2024/06/Bankruptcy-1-30x30.webp)](https://creditnerds.com/the-long-term-effects-of-bankruptcy-on-your-credit/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+June 27, 2024
+
+#### [The Long-Term Effects of Bankruptcy on Your Credit](https://creditnerds.com/the-long-term-effects-of-bankruptcy-on-your-credit/)
+
+Bankruptcy can provide much-needed relief for those drowning in debt, but it comes with significant long-term consequences for your credit score. Understanding the long-term effects of bankruptcy on your credit is crucial for anyone considering this option. In this blog post, we will analyze how bankruptcy impacts your credit over time and provide actionable steps …
+
+[Read More](https://creditnerds.com/the-long-term-effects-of-bankruptcy-on-your-credit/)
+
+[![A young professional wearing glasses stands in front of an office building, holding a resume in one hand and a credit score report in the other, looking thoughtful. Icons representing employment opportunities, such as briefcases, graphs, and checkmarks, surround the character. The background features a modern office environment with other professionals walking by, conveying an informative and slightly serious atmosphere, illustrating the impact of credit scores on employment opportunities.](https://creditnerds.com/wp-content/uploads/2024/06/Employment-30x30.webp)](https://creditnerds.com/how-credit-scores-affect-employment-opportunities/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+June 25, 2024
+
+#### [How Credit Scores Affect Employment Opportunities](https://creditnerds.com/how-credit-scores-affect-employment-opportunities/)
+
+In today's competitive job market, your credit score can play a surprising role in your employment opportunities. While it's well known that credit scores affect your ability to get loans and credit cards, fewer people realize that some employers also use credit reports in their hiring process. Understanding the connection between credit scores and employment …
+
+[Read More](https://creditnerds.com/how-credit-scores-affect-employment-opportunities/)
+
 [![A realistic cartoon-style illustration for a blog post titled 'The Impact of Credit Inquiries on Your Score.' The central character is an African American person with dark skin, curly hair, and glasses, wearing a green shirt and jeans. They are carefully examining a credit report with a magnifying glass. In the background, a large credit score gauge with a fluctuating needle is prominent, surrounded by icons representing different types of credit inquiries: a house, a car, and a credit card. The scene is enriched with abstract patterns in blue and green, adding vibrancy. The character's expression shows a thoughtful mix of curiosity and concern, emphasizing the importance of understanding credit inquiries.](https://creditnerds.com/wp-content/uploads/2024/06/Inquiries-30x30.webp)](https://creditnerds.com/the-impact-of-credit-inquiries-on-your-score/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -370,30 +394,6 @@ May 28, 2024
 11 Signs Your Credit Card Has Been Hacked Credit card fraud is prevalent. In 2023, it was the most common type of identity theft, according to the Federal Trade Commission (FTC). With so much information stored and transmitted digitally, your credit card information can be hacked and used without your card ever leaving your wallet. …
 
 [Read More](https://creditnerds.com/11-signs-your-credit-card-has-been-hacked/)
-
-[![Cartoon-style image of a young man wearing glasses, standing in a park with American flags and memorial wreaths, smiling and holding a small American flag, with people in the background paying respects at a memorial.](https://creditnerds.com/wp-content/uploads/2024/05/Memorial-Day-30x30.webp)](https://creditnerds.com/honoring-our-heroes-financial-stability-for-veterans/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 27, 2024
-
-#### [Honoring Our Heroes: Financial Stability for Veterans](https://creditnerds.com/honoring-our-heroes-financial-stability-for-veterans/)
-
-As we celebrate Memorial Day, we take time to honor and remember the brave men and women who have made the ultimate sacrifice for our country. At Credit Nerds, we understand that the best way to honor their legacy is by supporting the veterans and families who continue to serve our nation in countless ways. …
-
-[Read More](https://creditnerds.com/honoring-our-heroes-financial-stability-for-veterans/)
-
-[![A semi-realistic cartoon-style illustration of a thoughtful person with glasses sitting at a desk, looking at a computer screen displaying "Account Balances Impact Credit". The character is holding a financial statement and is surrounded by icons like credit scores, dollar signs, and bar graphs. The character is dressed in casual clothes, appearing focused and contemplative. The background shows a home office setting with a bulletin board and a window displaying a neutral sky, emphasizing the importance of managing finances.](https://creditnerds.com/wp-content/uploads/2024/05/Credit-Balances-30x30.webp)](https://creditnerds.com/how-account-balances-impact-your-credit/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-May 27, 2024
-
-#### [How Account Balances Impact Your Credit](https://creditnerds.com/how-account-balances-impact-your-credit/)
-
-Understanding how your account balances affect your credit is crucial in managing your financial health. This article explores the dynamics between your balances and credit scores, detailing strategies for optimal management. The Influence of Account Balances on Credit Scores Account balances directly impact your credit if they are reported to credit bureaus. The way these …
-
-[Read More](https://creditnerds.com/how-account-balances-impact-your-credit/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
