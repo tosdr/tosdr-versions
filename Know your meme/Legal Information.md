@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/806/Screenshot_2024-06-21_at_10.31.28_E2_80_AFAM.png "What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained")
+* [![2024 CNN Presidential Debate refers to a debate between the preliminary Republican and Democratic Presidential candidates, Donald Trump and Joe Biden, that took place on CNN in late June 2024. It was the first debate between the candidates ahead of the 2024 elections. Many Republican and potential Democrat voters questioned Joe Biden's mental aptitude in the aftermath of the debate.](https://i.kym-cdn.com/featured_items/icons/wide/000/024/896/presidential.jpg "The First Presidential Debate Ahead Of The 2024 U.S. Election Sparks Concern And Memes Across The Internet")
     
-    What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained](https://knowyourmeme.com/editorials/guides/what-does-mythical-reel-pull-mean-the-mythic-fyp-pull-trend-on-instagram-and-tiktok-explained)
+    The First Presidential Debate Ahead Of The 2024 U.S. Election Sparks Concern And Memes Across The Internet](https://knowyourmeme.com/memes/events/2024-cnn-presidential-debate)
     
-* [![justin timberlake mugshot](https://i.kym-cdn.com/featured_items/icons/wide/000/024/805/RUINTHETOURCOVER.jpg "Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/895/it's_joever.jpg "Where Did 'It's Joever' Come From? Memes About How 'It's Over' For Joe Biden Explained")
     
-    Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase](https://knowyourmeme.com/memes/this-is-going-to-ruin-the-tour)
+    Where Did 'It's Joever' Come From? Memes About How 'It's Over' For Joe Biden Explained](https://trending.knowyourmeme.com/editorials/guides/where-did-its-joever-come-from-memes-about-how-its-over-for-joe-biden-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/804/Screen_Shot_2019-03-22_at_2.47.05_PM.jpg "OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/894/cover6.jpg "Did The '1 Guy 1 Jar' Man Aleksey Tatarov Die In Ukraine? Fact-Checking The Death Rumor")
     
-    OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics](https://knowyourmeme.com/news/openais-mira-murati-says-ai-may-kill-some-jobs-that-shouldnt-have-been-jobs-in-the-first-place-and-draws-ire-from-ais-critics)
+    Did The '1 Guy 1 Jar' Man Aleksey Tatarov Die In Ukraine? Fact-Checking The Death Rumor](https://knowyourmeme.com/editorials/guides/did-the-1-guy-1-jar-man-aleksey-tatarov-die-in-ukraine-fact-checking-the-death-rumor)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/803/cover5.jpg "Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/893/Mimic_tear_cover.jpg "What's The Matter With Mimic Tear? The Controversial Tool For 'Elden Ring' Players Explained")
     
-    Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies](https://knowyourmeme.com/editorials/guides/did-the-author-of-i-might-go-homeless-comic-really-become-homeless-the-story-of-the-viral-meme-and-its-parodies--2)
+    What's The Matter With Mimic Tear? The Controversial Tool For 'Elden Ring' Players Explained](https://trending.knowyourmeme.com/editorials/guides/whats-the-matter-with-mimic-tear-the-controversial-tool-for-elden-ring-players-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/802/1.jpg "Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/892/Screenshot_2024-06-27_at_12.39.36_PM.jpg "Social Media Rocked By Tale Of Gamer Who Flew From New Jersey To Florida To Beat An Allegedly Toxic Player With A Hammer")
     
-    Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained](https://knowyourmeme.com/editorials/guides/why-is-the-disney-show-the-acolyte-so-reviled-the-lowest-rated-star-wars-show-ever-and-its-controversies-explained)
+    Social Media Rocked By Tale Of Gamer Who Flew From New Jersey To Florida To Beat An Allegedly Toxic Player With A Hammer](https://knowyourmeme.com/news/social-media-rocked-by-tale-of-gamer-who-flew-from-new-jersey-to-florida-to-beat-an-allegedly-toxic-player-with-a-hammer)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[2024 CNN Presidential Debate](https://knowyourmeme.com/memes/events/2024-cnn-presidential-debate "2024 CNN Presidential Debate") [Suicide Squad ISEKAI](https://knowyourmeme.com/memes/subcultures/suicide-squad-isekai "Suicide Squad ISEKAI") [Piss Christ](https://knowyourmeme.com/memes/cultures/piss-christ "Piss Christ") [The New Norm Show](https://knowyourmeme.com/memes/subcultures/the-new-norm-show "The New Norm Show") [2024 Bolivia Coup D'état Attempt](https://knowyourmeme.com/memes/events/2024-bolivia-coup-detat-attempt "2024 Bolivia Coup D'état Attempt") [The Grimace Effect](https://knowyourmeme.com/memes/grimace-mets-win-streak-the-grimace-effect "The Grimace Effect") [LGBTQ Crowd Mad Because Hawk Tuah Stealing Attention](https://knowyourmeme.com/memes/the-lgbtq-crowd-is-mad-because-the-hawk-tuah-girl-is-stealing-their-attention "LGBTQ Crowd Mad Because Hawk Tuah Stealing Attention")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +188,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
