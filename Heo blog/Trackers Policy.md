@@ -93,14 +93,13 @@
 
 [友链](javascript:void(0);)
 
-* [友链鱼塘](https://blog.zhheo.com/moments/)
 * [友情链接](https://blog.zhheo.com/link/)
 * [宝藏博主](javascript:travelling())
 
 [我的](javascript:void(0);)
 
 * [我的装备](https://blog.zhheo.com/equipment/)
-* [在线工具](https://blog.zhheo.com/tlink/)
+* [我的项目](https://blog.zhheo.com/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/)
 * [关于本站](https://blog.zhheo.com/about/)
 
 标签
@@ -235,14 +234,13 @@ P
 
 [友链](javascript:void(0);)
 
-* [友链鱼塘](https://blog.zhheo.com/moments/)
 * [友情链接](https://blog.zhheo.com/link/)
 * [宝藏博主](javascript:travelling())
 
 [我的](javascript:void(0);)
 
 * [我的装备](https://blog.zhheo.com/equipment/)
-* [在线工具](https://blog.zhheo.com/tlink/)
+* [我的项目](https://blog.zhheo.com/categories/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE/)
 * [关于本站](https://blog.zhheo.com/about/)
 
 [](https://www.travellings.cn/go.html "随机前往一个开往项目网站")
