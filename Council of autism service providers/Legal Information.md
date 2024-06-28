@@ -1,9 +1,5 @@
 [Skip to content](#content)
 
-[![](https://assets-002.noviams.com/novi-file-uploads/casp/auto-files/image_1717618805854.jpg)](https://www.casproviders.org/events/delegated-credentialing-and-facility-credentialing)
-
-[ACKNOWLEDGE](##)
-
 [**0 Items** in your cart View Cart](https://www.casproviders.org/products/checkout)
 
 * [0 Cart](https://www.casproviders.org/products/checkout)
@@ -16,85 +12,68 @@
 
 [![Council of Autism Service Providers Logo](https://assets-002.noviams.com/novi-file-uploads/casp/structure/casp_wide_color.png)](https://www.casproviders.org/)[](javascript:void(0);)
 
- * [](https://www.casproviders.org/)
+ * [![](https://assets-002.noviams.com/novi-file-uploads/casp/icons/manicon.jpg)](https://www.casproviders.org/membership-information)
     
-     HOME 
+     JOIN 
     
-* [](#join-modal)
+* [![](https://assets-002.noviams.com/novi-file-uploads/casp/icons/accreditationicon3.jpg)](https://www.casproviders.org/the-autism-commission-on-quality)
     
-    JOIN
+    ACCREDITATION
     
-* [](https://www.casproviders.org/casp-members)
+* [![](https://assets-002.noviams.com/novi-file-uploads/casp/icons/advocacyicon2.jpg)](https://www.casproviders.org/advocacy)
     
-    MEMBER DIRECTORY
+    ADVOCACY
     
-* [](https://www.casproviders.org/products/)
+* [![](https://assets-002.noviams.com/novi-file-uploads/casp/icons/resourcesicon3.jpg)](https://www.casproviders.org/resources)
     
-    STORE
+    RESOURCES
     
-* [](https://community.casproviders.org/main/groups/72939/lounge)
+* [![](https://assets-002.noviams.com/novi-file-uploads/casp/icons/newcommunityicon.jpg)](https://community.casproviders.org/main/groups/72939/lounge)
     
     COMMUNITY
 
 [](https://www.casproviders.org/)
 
 * [About Us](javascript:void(0);)
+    * [Apply for Membership](https://www.casproviders.org/membership-information)
     * [Mission & History](https://www.casproviders.org/history-and-mission)
-    * [Our Team](https://www.casproviders.org/team)
-    * [Board of Directors](https://www.casproviders.org/board-of-directors)
-    * [Explore Membership](https://www.casproviders.org/membership-information)
-    * [Legal](https://www.casproviders.org/legal)
-* [Accreditation](javascript:void(0);)
-    * [Autism Commission on Quality (ACQ)](https://www.casproviders.org/the-autism-commission-on-quality)
-* [Advocacy](javascript:void(0);)
-    * [Action Alerts](https://www.casproviders.org/advocacy-and-public-policy)
-    * [State Advocacy](https://www.casproviders.org/state-advocacy)
-        * [California](https://www.casproviders.org/california)
-    * [Federal Advocacy](https://www.casproviders.org/federal-advocacy)
-    * [Search Legislation](https://www.casproviders.org/search-legislation)
-* [SIGs & Sections](javascript:void(0);)
-    * [About](https://www.casproviders.org/sigs-and-sections)
-    * [Find your Community](https://community.casproviders.org/)
-* [Resources](javascript:void(0);)
-    * [CEU Center](javascript:void(0);)
-        * [FAQ and New Visitors](https://www.casproviders.org/ceu-center)
-        * [Visit Now](https://caspceucenter.thinkific.com/)
-    * [Recorded Webinars (no CEU)](https://www.casproviders.org/products/recorded-webinars)
-    * [About ABA](javascript:void(0);)
-        * [ABA as a Career](https://www.casproviders.org/aba-as-a-career)
-        * [Facts For Professionals](https://www.casproviders.org/about-aba-for-professionals)
-        * [Facts For Consumers](https://www.casproviders.org/about-aba-for-consumers)
-    * [Standards](javascript:void(0);)
-        * [ASD Practice Guidelines](https://www.casproviders.org/asd-guidelines)
-        * [Organizational Guidelines](https://www.casproviders.org/organizational-guidelines)
-        * [Practice Parameters for Telehealth](https://www.casproviders.org/practice-parameters-for-telehealth)
-    * [Appeals Guide](https://www.casproviders.org/appealsguide)
-    * [ABA Coding Coalition](https://www.casproviders.org/aba-coding-coalition)
-    * [News](https://www.casproviders.org/news/)
+    * [Staff & Board](https://www.casproviders.org/staff-and-board)
+    * [About ABA](https://www.casproviders.org/about-aba)
+    * [About ACQ Accreditation](https://www.casproviders.org/the-autism-commission-on-quality)
+* [For Members](javascript:void(0);)
+    * [Your Benefits](https://www.casproviders.org/member-compass)
+    * [Find Your Community](javascript:void(0);)
+        * [Special Interest Groups](https://www.casproviders.org/sigs-and-sections)
+        * [Discussion Boards](https://community.casproviders.org/main/groups/72939/lounge)
+    * [Advocacy](https://www.casproviders.org/advocacy)
+        * [Action Alerts](https://www.casproviders.org/advocacy-and-public-policy)
+        * [State Advocacy Groups](https://community.casproviders.org/main/groups/72464/lounge)
+        * [Search Legislation](https://www.casproviders.org/search-legislation)
+    * [Resources](https://www.casproviders.org/resources)
+        * [CEU Center](https://www.casproviders.org/ceu-center)
+        * [Standards & Guidelines](https://www.casproviders.org/standards-and-guidelines)
+        * [Appeals Guide](https://www.casproviders.org/appealsguide)
+        * [ABA Coding Coalition](https://www.casproviders.org/aba-coding-coalition)
+    * [Store](https://www.casproviders.org/products/)
 * [Affiliates](https://www.casproviders.org/affiliate-program-descriptions)
-    * [Business Affiliates](javascript:void(0);)
-        * [Learn More/Apply](https://www.casproviders.org/business-affiliate)
-        * [BA Benefits Portal](https://www.casproviders.org/casp-business-affiliate-benefits-portal)
-        * [Community](https://community.casproviders.org/main/groups/69742/lounge)
-    * [Training Affiliates](javascript:void(0);)
-        * [Learn More/Apply](https://www.casproviders.org/casp-training-affiliate)
-        * [TA Benefits Portal](https://www.casproviders.org/training-affiliate-benefits-portal)
-        * [Community](https://community.casproviders.org/main/groups/69742/lounge)
-    * [Allied Affiliates](javascript:void(0);)
-        * [Learn More/Apply](https://www.casproviders.org/casp-allied-affiliate)
-        * [AA Benefits Portal](https://www.casproviders.org/allied-affiliate-benefits-portal)
-        * [Community](https://community.casproviders.org/main/groups/69742/lounge)
+    * [Become an Affiliate](javascript:void(0);)
+        * [Business Affiliate](https://www.casproviders.org/business-affiliate)
+        * [Training Affiliate](https://www.casproviders.org/casp-training-affiliate)
+        * [Allied Affiliate](https://www.casproviders.org/casp-allied-affiliate)
+    * [Benefit Portals](javascript:void(0);)
+        * [For Business Affiliates](https://www.casproviders.org/casp-business-affiliate-benefits-portal)
+        * [For Training Affiliates](https://www.casproviders.org/training-affiliate-benefits-portal)
+        * [For Allied Affiliates](https://www.casproviders.org/allied-affiliate-benefits-portal)
     * [Member Feedback](https://www.casproviders.org/affiliate-feedback)
-* [Events](https://www.casproviders.org/events/)
+* [News & Events](https://www.casproviders.org/events/)
     * [Calendar](https://www.casproviders.org/events)
-    * [Annual Conference](javascript:void(0);)
-        * [2024](https://www.casproviders.org/events/2024-conference)
-        * [2023](https://www.casproviders.org/events/2023-casp-annual-conference)
-    * [Leadership Summit](javascript:void(0);)
-        * [2023](https://www.casproviders.org/events/2023-casp-leadership-summit)
-        * [2024](https://www.casproviders.org/events/2024-casp-leadership-summit)
-    * [CEO Retreat](https://www.casproviders.org/events/2024-ceo-retreat)
-    * [Ally Program](https://www.casproviders.org/casp-conference-ally-program-2023-private)
+    * [Annual Events](javascript:void(0);)
+        * [2024 Conference](https://www.casproviders.org/events/2024-conference)
+        * [2024 Leadership Summit](https://www.casproviders.org/events/2024-casp-leadership-summit)
+        * [2024 CEO Retreat](https://www.casproviders.org/events/2024-ceo-retreat)
+        * [Past Events](https://www.casproviders.org/past-events)
+    * [Blogs & Press Releases](https://www.casproviders.org/news/)
+    * [PodCASP](https://www.casproviders.org/news/the-podcasp)
     * [CASP Mission Awards](https://www.casproviders.org/mission-awards)
     * [Event Policies](https://www.casproviders.org/event-policies)
 * [Directories](javascript:void(0);)
