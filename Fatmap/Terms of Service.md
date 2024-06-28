@@ -2,17 +2,15 @@
 
 [](https://about.fatmap.com/search)
 
-ABOUT Journal [EXPLORE](http://explore.fatmap.com/) [FAQs](https://fatmap.zendesk.com/hc/en-us/)
+ABOUT [EXPLORE](http://explore.fatmap.com/) [FAQs](https://fatmap.zendesk.com/hc/en-us/)
 
 [GO TO MAP](https://fatmap.com/adventures)
 
-Back [Our Vision](https://about.fatmap.com/our-vision) [Careers](https://about.fatmap.com/careers) [News + Press](https://about.fatmap.com/news-and-press)
-
-Back [Blog](https://about.fatmap.com/journal) [Adventure News](https://about.fatmap.com/journal-digest/tag/Adventure%20News) [Newsletter](https://about.fatmap.com/journal-digest/fatmap-newsletters)
+Back [Our Vision](https://about.fatmap.com/our-vision)
 
 [](http://www.facebook.com/fatmapski)[](https://www.instagram.com/fatmap_official)[](https://twitter.com/fatmap)[](https://www.linkedin.com/company/fatmap/)
 
-[ABOUT](https://about.fatmap.com/about) [Our Vision](https://about.fatmap.com/our-vision) [Careers](https://about.fatmap.com/careers) [News + Press](https://about.fatmap.com/news-and-press) [Journal](https://about.fatmap.com/journal-1) [Blog](https://about.fatmap.com/journal) [Adventure News](https://about.fatmap.com/journal-digest/tag/Adventure%20News) [Newsletter](https://about.fatmap.com/journal-digest/fatmap-newsletters) [EXPLORE](http://explore.fatmap.com/)[FAQs](https://fatmap.zendesk.com/hc/en-us/)
+[ABOUT](https://about.fatmap.com/about) [Our Vision](https://about.fatmap.com/our-vision) [EXPLORE](http://explore.fatmap.com/)[FAQs](https://fatmap.zendesk.com/hc/en-us/)
 
 [![FATMAP](//images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/aa459d1a-9d06-4a67-b862-23011819f43a/Weclome+to+FATMAP+-+Black.png)](https://about.fatmap.com/)
 
@@ -220,18 +218,6 @@ Each of the terms of this User Agreement operates separately. If any court or co
 Support
 
 [FAQs](https://fatmap.zendesk.com/hc/) [SIGN IN](https://fatmap.com/account/login/?utm_medium=footer&utm_source=aboutpage&utm_campaign=login) [Privacy](https://about.fatmap.com/privacy) [Terms](https://about.fatmap.com/terms) [Contact](mailto:hello@fatmap.com)
-
-Discover
-
-[Careers](https://about.fatmap.com/careers) [Journal](https://about.fatmap.com/journal) [Newsletter](https://about.fatmap.com/journal-digest/fatmap-newsletters) [Vision](https://about.fatmap.com/our-vision) [News + Press](https://about.fatmap.com/news-and-press)
-
-Follow
-
-[Facebook](https://facebook.com/fatmap.official) [Twitter](https://twitter.com/fatmap/) [Instagram](https://instagram.com/fatmap_official) [LinkedIn](https://www.linkedin.com/company/10017145) [YouTube](https://www.youtube.com/c/FATMAP_official/)
-
-Connect
-
-[Join Explore](https://explore.fatmap.com/) [Get the app](https://app.adjust.com/amppgd5?adgroup=footer&creative=get-the-app) [Got a Voucher? Claim it here!](https://about.fatmap.com/got-a-voucher-claim-it-here)
 
 ![](https://images.squarespace-cdn.com/content/v1/5b2917eaaf209608f4e3bab5/5e4323bc-ec89-433e-a4ce-105b40b6cb61/lockup%403x.png)
 
