@@ -207,8 +207,8 @@ Join the community
 
 Stay tuned
 
+* [](https://www.facebook.com/GDevelopApp "facebook")
+* [](https://www.instagram.com/gdevelopapp/ "instagram")
 * [](https://twitter.com/GDevelopApp "twitter")
 * [](https://www.reddit.com/r/gdevelop/ "reddit")
 * [](https://www.tiktok.com/@gdevelop "tiktok")
-* [](https://www.facebook.com/GDevelopApp "facebook")
-* [](https://www.instagram.com/gdevelopapp/ "instagram")
