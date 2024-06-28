@@ -6,6 +6,10 @@ Terms of service
 
 Last Modified: 06/13/2023
 
+  
+
+  
+
 ****1\. Introduction****
 
 This Terms of Use (hereinafter the "Agreement") is an agreement between you (hereinafter "you" or "user") and Anker Innovations Technology Co., Ltd and its affiliates (collectively, “Anker”, “we”, “us” and “our”) . The Agreement is applicable to all the users or browsers accessing Anker’s websites or applications that reference or link to this Agreement.
@@ -167,9 +171,7 @@ Legal Department
 
 Anker Innovations Limited
 
-Room 1318-19,Hollywood Commercial Center 610 Nathan Road, Mongkok Kowloon
-
-Hong Kong, 999077 China
+Unit 56, 8th Floor, Tower 2, Admiralty Centre, 18 Harcourt Road, Hong Kong
 
 Email: legal@anker.com
 
@@ -202,6 +204,8 @@ You accept that, as a limited liability entity, we have an interest in limiting 
 Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in the Agreement will protect our officers, employees, agents, subsidiaries, successors, assigns and sub-contractors as well as us and Anker Companies.
 
 eufy utilizes technology provided by third-party service providers to offer certain artificial intelligence products. Please note that if you choose to use our AI product (AVA) to assist in responding to your inquiries, eufy makes no representations or warranties regarding the accuracy, completeness, or reliability of the outputs. Furthermore, the company shall not be liable for any responsibility or obligation in any manner arising from your use of the outputs or any omissions or errors contained within the outputs. We advise you to seek professional and independent advice before taking any action based on the suggestions included in the outputs, or relying on the accuracy of the outputs. If you encounter any issues, feel free to contact our human customer service team email [support@eufy.com](mailto:support@eufy.com) at any time.
+
+  
 
 ****15\. Indemnity****  
 
