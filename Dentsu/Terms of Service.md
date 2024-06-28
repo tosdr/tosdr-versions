@@ -64,7 +64,7 @@ Main Menu
     * [dentsu health](https://www.dentsu.com/dentsu-health)
     * [Identity Solutions](https://www.dentsu.com/identity-solutions)
     * [Marketing Maturity Assessment](https://www.dentsu.com/schema)
-    * [Merkle B2B](https://www.dentsu.com/merkle-b2b)
+    * [dentsu B2B](https://www.dentsu.com/dentsu-b2b)
 * [Our thinking](#)
     * [Our latest thinking](https://www.dentsu.com/our-latest-thinking)
     * [Blog](https://www.dentsu.com/blog)
