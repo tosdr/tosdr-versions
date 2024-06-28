@@ -10,11 +10,11 @@
 
 [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink) [VIEW E-EDITION](https://eedition.reviewjournal.com/html5/reader/production/default.aspx?pubname=&pubid=139ee3b9-eb9c-430e-a300-9ce1f1a0636c&utm_campaign=eedition&utm_medium=top_menu&utm_source=lvrj)
 
-[SUBSCRIBE](https://checkout.reviewjournal.com/def2?g2i_source=lvrj&g2i_medium=button&g2i_campaign=default&g2i_or_p=default)
+[99¢ for 6 mos](https://checkout.reviewjournal.com/def2?g2i_source=lvrj&g2i_medium=button&g2i_campaign=default&g2i_or_p=default)
 
 Support local journalism.
 
-[Only 99¢ per month](https://checkout.reviewjournal.com/def2?g2i_source=lvrj&g2i_medium=button&g2i_campaign=default&g2i_or_p=default)
+[Only 99¢ for 6 months](https://checkout.reviewjournal.com/def2?g2i_source=lvrj&g2i_medium=button&g2i_campaign=default&g2i_or_p=default)
 
 [MANAGE](https://account.reviewjournal.com/) [ACTIVATE](#) [SIGN IN](#)
 
@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[86°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[104°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/Windy.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,9 +39,9 @@ Hi
 
 [](#)
 
-86°F
+104°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png) Clear
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/Windy.png) Windy
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
