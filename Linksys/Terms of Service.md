@@ -295,7 +295,7 @@ Partner Links
 
 Change region
 
-[Privacy & Security](https://www.linksys.com/privacy-and-security.html) | [Accessibility](https://www.linksys.com/accessibility.html) | [Documentation](https://www.linksys.com/documentation.html) | [Terms of Use](https://www.linksys.com/support-article?articleNum=59242) | [Modern Slavery Act](https://www.linksys.com/support-article?articleNum=49407) | Cookie Settings
+[Privacy & Security](https://www.linksys.com/privacy-and-security.html) | [Accessibility](https://www.linksys.com/accessibility.html) | [Documentation](https://www.linksys.com/documentation.html) | [Terms of Use](https://www.linksys.com/support-article?articleNum=59242) | [Modern Slavery Act](https://www.linksys.com/support-article?articleNum=49407) | [PSTI Compliance](https://downloads.linksys.com/support/assets/others/UK_PTSI_Statement_of_Compliance_w_products.pdf) | Cookie Settings
 
 [](https://www.twitter.com/Linksys "link to twitter account")[](https://www.facebook.com/linksys "link to facebook account")[](https://www.instagram.com/linksys "link to instagram account")[](https://www.linkedin.com/company/linksys/ "link to linkedin account")[](https://www.youtube.com/user/OfficialLinksys "link to youtube account")
 
