@@ -47,6 +47,10 @@ Toggle Nav
         
         * * *
         
+        [Shop By Series](https://www.barefootbooks.com/barefoot-series)
+        
+        * * *
+        
         [On Sale](https://www.barefootbooks.com/on-sale)
         
         * * *
@@ -255,6 +259,10 @@ Toggle Nav
         
         * * *
         
+        [Shop By Series](https://www.barefootbooks.com/barefoot-series)
+        
+        * * *
+        
         [On Sale](https://www.barefootbooks.com/on-sale)
         
         * * *
@@ -444,7 +452,7 @@ Toggle Nav
 
 [Account](#store.links)
 
-[![Logo](https://www.barefootbooks.com/static/version1714481604/frontend/Codazon/fastest_ellyana/en_US/images/BFB_Logo_Horiz_RGB.svg)](https://www.barefootbooks.com/)
+[![Logo](https://www.barefootbooks.com/static/version1719407097/frontend/Codazon/fastest_ellyana/en_US/images/BFB_Logo_Horiz_RGB.svg)](https://www.barefootbooks.com/)
 
 [Skip to Content](#contentarea)
 
@@ -599,7 +607,7 @@ Comment
 
 Submit
 
-![Loading...](https://www.barefootbooks.com/static/version1714481604/frontend/Codazon/fastest_ellyana/en_US/images/loader-1.gif)
+![Loading...](https://www.barefootbooks.com/static/version1719407097/frontend/Codazon/fastest_ellyana/en_US/images/loader-1.gif)
 
 Join Our Email List!
 
@@ -699,7 +707,7 @@ USD
 
 ##### You Are Supporting
 
-![chevron](https://www.barefootbooks.com/static/version1714481604/frontend/Codazon/fastest_ellyana/en_US/images/chevron.svg)
+![chevron](https://www.barefootbooks.com/static/version1719407097/frontend/Codazon/fastest_ellyana/en_US/images/chevron.svg)
 
 Very Long Event Name Goes Here
 
