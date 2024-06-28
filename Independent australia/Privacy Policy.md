@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/duttons-nuclear-lights-are-out-and-no-ones-home,18701)
+[Julian Assange is free: Two-faced media welcomes him home as a hero](https://independentaustralia.net/article-display/julian-assange-is-free-two-faced-media-welcomes-him-home-as-a-hero,18716)
 
 [IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
 
-[The fable of the Under Down Land](https://independentaustralia.net/article-display/the-fable-of-the-under-down-land,18691)
+[Assange release heralds dark legacy for press freedom](https://independentaustralia.net/article-display/assange-release-heralds-dark-legacy-for-press-freedom,18718)
 
-[A Coalition pie-in-the-sky nuclear nightmare](https://independentaustralia.net/article-display/a-coalition-pie-in-the-sky-nuclearnightmare,18704)
+[Anzac religion unfitting in multicultural Australia](https://independentaustralia.net/article-display/anzac-religion-unfitting-in-multicultural-australia,18717)
 
-[Australian media stretches the truth on pro-Palestine movement](https://independentaustralia.net/article-display/australian-media-stretches-the-truth-on-pro-palestine-movement,18696)
+[Dutton's climate policy nothing but hot air](https://independentaustralia.net/article-display/duttons-climate-policy-nothing-but-hot-air,18714)
 
 Privacy Policy
 
@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/duttons-nuclear-lights-are-out-and-no-ones-home,18701 "Permanent Link : Dutton’s nuclear lights are out and no one’s home")
-* [Getting around Gough](https://independentaustralia.net/article-display/getting-around-gough,18697 "Permanent Link : Getting around Gough")
-* [A Coalition pie-in-the-sky nuclear nightmare](https://independentaustralia.net/article-display/a-coalition-pie-in-the-sky-nuclearnightmare,18704 "Permanent Link : A Coalition pie-in-the-sky nuclear nightmare")
-* [The Far-Right's war against women in America](https://independentaustralia.net/article-display/the-far-rights-war-against-women-in-america,18700 "Permanent Link : The Far-Right's war against women in America")
-* [Finally! Vanilla Ice makes a zombie movie](https://independentaustralia.net/article-display/finally-vanilla-ice-makes-a-zombie-movie,18702 "Permanent Link : Finally! Vanilla Ice makes a zombie movie")
-* [Feathers ruffled over Fossil Free Books' stance on artwashing](https://independentaustralia.net/article-display/feathers-ruffled-over-fossil-free-books-stance-on-artwashing,18703 "Permanent Link : Feathers ruffled over Fossil Free Books' stance on artwashing")
-* [DR ABUL RIZVI: Is Australia's great multicultural experiment over?](https://independentaustralia.net/article-display/dr-abul-rizvi-is-australias-great-multicultural-experiment-over,18699 "Permanent Link : DR ABUL RIZVI: Is Australia's great multicultural experiment over?")
+* [Julian Assange is free: Two-faced media welcomes him home as a hero](https://independentaustralia.net/article-display/julian-assange-is-free-two-faced-media-welcomes-him-home-as-a-hero,18716 "Permanent Link : Julian Assange is free: Two-faced media welcomes him home as a hero")
+* [WikiLeaks and press freedom in the digital age](https://independentaustralia.net/article-display/wikileaks-and-press-freedom-in-the-digital-age,18724 "Permanent Link : WikiLeaks and press freedom in the digital age")
+* [America's gathering storm: The danger of a second Trump presidency](https://independentaustralia.net/article-display/americas-gathering-storm-the-danger-of-a-second-trump-presidency,18723 "Permanent Link : America's gathering storm: The danger of a second Trump presidency")
+* [You might also rebel if you were Peter Dutton's kid](https://independentaustralia.net/article-display/you-might-also-rebel-if-you-were-peter-duttons-kid,18720 "Permanent Link : You might also rebel if you were Peter Dutton's kid")
+* [Assange release heralds dark legacy for press freedom](https://independentaustralia.net/article-display/assange-release-heralds-dark-legacy-for-press-freedom,18718 "Permanent Link : Assange release heralds dark legacy for press freedom")
+* [Anzac religion unfitting in multicultural Australia](https://independentaustralia.net/article-display/anzac-religion-unfitting-in-multicultural-australia,18717 "Permanent Link : Anzac religion unfitting in multicultural Australia")
+* [EDITORIAL: Julian Assange is free: Two-faced media welcomes him home as a hero](https://independentaustralia.net/article-display/editorial-julian-assange-is-free-two-faced-media-welcomes-him-home-as-a-hero,18715 "Permanent Link : EDITORIAL: Julian Assange is free: Two-faced media welcomes him home as a hero")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
