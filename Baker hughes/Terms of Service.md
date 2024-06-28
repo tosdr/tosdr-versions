@@ -967,7 +967,7 @@ External
                 
             * [Baker Hughes Italia](https://www.bakerhughes.com/baker-hughes-italia)
                 
-            * [Florence Learning Center](https://www.bakerhughes.com/florence-learning-center)
+            * [Florence Learning Center](https://www.bakerhughes.com/learning-centers/florence-learning-center)
                 
             
         
@@ -1930,7 +1930,7 @@ Search
                 
             * [Baker Hughes Italia](https://www.bakerhughes.com/baker-hughes-italia)
                 
-            * [Florence Learning Center](https://www.bakerhughes.com/florence-learning-center)
+            * [Florence Learning Center](https://www.bakerhughes.com/learning-centers/florence-learning-center)
                 
             
         
