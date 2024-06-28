@@ -120,7 +120,7 @@ Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing A
     
     [General Terms](#general-terms)
     
-* [Intercom Additional Product Terms](https://www.intercom.com/terms-and-policies/additional-product-terms)
+* [Intercom Additional Product Terms](http://www.intercom.com/legal/terms-and-policies/additional-product-terms)
     
 * [Privacy Policy](https://www.intercom.com/legal/privacy)
     
@@ -674,7 +674,7 @@ Sitemap
     * [Watch a Demo](https://www.intercom.com/resources/demos?on_pageview_event=demos_footer)
     * [Glossary](https://www.intercom.com/glossary)
     * [Academy](https://academy.intercom.com/?on_pageview_event=academy_footer)
-    * [Webinars](https://www.intercom.com/webinars?on_pageview_event=webinars_footer)
+    * [Events](https://www.intercom.com/webinars?on_pageview_event=webinars_footer)
     * [Product Changes](https://www.intercom.com/changes?on_pageview_event=change_log_footer)
     * [App Store](https://www.intercom.com/app-store?on_pageview_event=app_store_footer)
     * [Docs](https://www.intercom.com/help?on_pageview_event=docs_footer)
