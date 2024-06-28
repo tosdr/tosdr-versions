@@ -478,7 +478,7 @@ Discover the latest data on the future of AI-powered scheduling.](https://calend
     
 * [Calendly for Android](https://play.google.com/store/apps/details?id=com.calendly.app&hl=en_US&gl=US&utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=android&utm_term=android)
     
-* [Chrome Extension](https://chrome.google.com/webstore/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
+* [Chrome Extension](https://chromewebstore.google.com/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
     
 * [Firefox Extension](https://addons.mozilla.org//firefox/addon/calendly-meeting-scheduling/?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=firefox&utm_term=firefox)
     
@@ -489,7 +489,7 @@ Discover the latest data on the future of AI-powered scheduling.](https://calend
     
 * [Calendly for Android](https://play.google.com/store/apps/details?id=com.calendly.app&hl=en_US&gl=US&utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=android&utm_term=android)
     
-* [Chrome Extension](https://chrome.google.com/webstore/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
+* [Chrome Extension](https://chromewebstore.google.com/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
     
 * [Firefox Extension](https://addons.mozilla.org//firefox/addon/calendly-meeting-scheduling/?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=firefox&utm_term=firefox)
     
