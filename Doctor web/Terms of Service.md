@@ -1,11 +1,11 @@
-{"status":"ok","data":"\\n
+{"data":"\\n
 
 SUBLICENSE AGREEMENT
 --------------------
 
 \\n
 
-\\n N 2106.2024.45485835 from 2024-06-21  
+\\n N 2806.2024.45485835 from 2024-06-28  
 \\n about transferring the non-exclusive right to use the Dr.Web software\\n
 
 \\n
@@ -106,4 +106,4 @@ The User enters into this Agreement when he/she downloads and starts using the S
 \\n Phone: +7 (495) 789-45-86  
 \\n
 
-"}
+","status":"ok"}
