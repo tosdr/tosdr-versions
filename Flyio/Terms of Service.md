@@ -29,6 +29,7 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
 * [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
 * [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
+* [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
 * [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
@@ -125,6 +126,13 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Search logs](https://fly.io/docs/metrics-and-logs/search-logs/)
 * [Export logs](https://fly.io/docs/metrics-and-logs/exporting-logs/)
 
+[Security](https://fly.io/docs/security/) Toggle Security section
+
+* [SSO for organizations](https://fly.io/docs/security/sso/)
+* [TLS termination](https://fly.io/docs/security/tls-termination/)
+* [Security practices and compliance](https://fly.io/docs/security/security-at-fly-io/)
+* [App Security by Arcjet](https://fly.io/docs/reference/arcjet/)
+
 [Reference](https://fly.io/docs/reference/) Toggle Reference section
 
 * [flyctl](https://fly.io/docs/flyctl/)
@@ -156,7 +164,6 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Engineering Jobs](https://fly.io/docs/hiring/)
 * [Healthcare on Fly.io](https://fly.io/docs/about/healthcare/)
 * [Support](https://fly.io/docs/about/support/)
-* [Security](https://fly.io/docs/about/security/)
 * [Extensions Program](https://fly.io/docs/about/extensions/)
 * [Extensions API](https://fly.io/docs/reference/extensions_api/)
 * [Open Source](https://fly.io/docs/about/open-source/)
