@@ -249,6 +249,8 @@ We reserve the right to update, change or replace any part of these Terms in our
     * **7.6.1.1** per the terms outlined in the Order or, where such terms are not present,
     * **7.6.1.2** on the basis of the terms outlined on the Klevu website [here](https://www.klevu.com/wp-content/uploads/Klevu-Overage-Charges.pdf).
 * **7.6.2** for all other subscriptions, in line with the terms outlined in your Contract or, where such terms are not present, per the Klevu website [here](https://www.klevu.com/wp-content/uploads/2024/05/BV2-Add-on.pdf). 
+* **7.6.3** Overusage is defined as average usage, measured over a 3 month period, exceeding the limits set out in the Client’s contract or Order 
+    * **7.6.3.1** Overusage will be charged for a minimum of 3 months
 
 8 Warranties
 ------------
