@@ -166,9 +166,9 @@ MAXFLOW BV, a limited liability company under Belgian law with registered office
 
 (the “**Site**”). This privacy policy applies to all of CrazyGames services and products. You should be aware that CrazyGames cannot be held responsible for the privacy policy of other sites and sources.
 
-CrazyGames will act as the data controller in the framework of this Privacy Policy. By using this Site, you accept this Privacy Policy and you affirm that you are of legal age to agree to the terms of this Privacy Policy.
+CrazyGames will act as the data controller in the framework of this Privacy Policy. By clicking “**Agree & Continue**”, you provide your consent with the specific aspects of this Privacy Policy and you affirm that you are of legal age to agree to the terms of this Privacy Policy.
 
-Whenever important changes are made to this Privacy Policy, your continued use of the Site will be considered as your consent with the revised Privacy Policy. CrazyGames respects the privacy of all users of its Site and shall ensure the personal information you provide is treated confidentially.
+Whenever important changes are made to this Privacy Policy, we will notify you. CrazyGames respects the privacy of all users of its Site and shall ensure the personal information you provide is treated confidentially.
 
 We are aware of the trust you place in us. We see it as our responsibility to protect your privacy. On this page, we will let you know what information we collect when you use our Site, why we collect it and how we improve your user experience. Thus, you will understand exactly how we work.
 
@@ -212,11 +212,13 @@ When we receive Personal Information from third parties we will inform you perso
 II. WHY DO WE COLLECT THESE DATA? BASED ON WHICH LEGAL GROUND?
 --------------------------------------------------------------
 
-Your personal data will be used to enable us to optimise the services we render and the content we provide on the Site. In certain cases when we are under a legal requirement to process personal data, like age limits, we will process said personal data.
+Your personal data will be used to enable us to optimise the services we render and the content we provide on the Site. In certain cases when we are under a legal requirement to process personal data, like age limits, we will process these personal data.
 
 We may also use your personal data for direct marketing purposes, such as updates on new or existing games and newsletters.
 
 We may opt to use your personal data for statistical purposes and to improve our services and product. These processing activities are thus based on a justified legitimate interest of CrazyGames.
+
+We do not carry out any automated individual decision-making, including profiling, within the meaning of article 22 of the General Data Protection Regulation (EU 2016/679) which would require your explicit consent.
 
 Advertisers on our website might use information gathered by the use cookies and/or web beacons for the purpose of online behavioral advertising and/or multisite advertising. Further information as regards the use of cookies and web beacons is set out in Section V below.
 
@@ -244,7 +246,7 @@ Moreover, you have the right to data portability for the personal data you have 
 
 [https://www.dataprotectionauthority.be/](https://www.dataprotectionauthority.be/).
 
-To exercise these rights, we ask you to send a clear request, to the address mentioned below, that states clearly what it is you want to know, rectify or erase. This request needs to be signed and dated and contain a copy of the front side of your identity card or driver’s license.
+To exercise these rights, we ask you to send a clear request, to the address mentioned below, that states clearly what it is you want to know, rectify or erase. This request needs to be signed and dated and contain a copy of the front side of your identity card.
 
 You should specifically motivate your request if you want to rectify or erase personal data or restrict the processing thereof. Once these conditions are fulfilled, CrazyGames will execute your request as soon as possible and send you a message on this matter.
 
@@ -275,11 +277,12 @@ We may offer games from third-party game distributors on our portal. By playing 
 
 * Game Distribution: [Privacy Policy](https://azerion.com/business/privacy.html)
 * Famobi: [Privacy Policy](https://famobi.com/privacy-policy/?locale=en)
+* Gamepix: [Privacy Policy](https://company.gamepix.com/privacy-policy/)
 * Gamerina: [Privacy Policy](https://prinxy.app/tos/privacy/)
 * Coolgames: [Privacy Policy](https://www.coolgames.com/privacy-policy)
 * FRVR: [Privacy Policy](https://frvr.com/legal#PrivacyPolicy)
 
-#### Your acceptance of this Privacy Policy by using the Site, entails that third parties may drop cookies and/or use web beacons for advertising and tracking purposes.\*\*
+**Via our Consent Management Platform (CMP), which you can access at the right top corner of this page via the Show Preferences button, you can configure your cookie preferences.**
 
 Third parties might use information gathered by cookies and/or web beacons for the purpose of online behavioral advertising and/or multisite advertising. The types of information that is gathered by third party cookies and/or web beacons as well as the purpose(s) for which this information is used, are set out in the privacy policy of said third parties which CrazyGames encourages you to review. CrazyGames declines all and any liability for any third party cookies or web beacons deployed by third parties for whatever purpose.
 
@@ -314,7 +317,9 @@ Google Analytics is a free service by Google to collect statistics of websites a
 
 You can do so by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. Contact us if you need any help in doing so.
 
-We also work with the following ID providers:
+### ID Providers
+
+We work with the following ID providers:
 
 * [Unified ID](https://www.thetradedesk.com/industry-initiatives/unified-id-solution) - [Privacy Policy](https://www.thetradedesk.com/general/privacy)
 * [ID5](https://www.id5.io/) - [Privacy Policy](https://www.id5.io/privacy-policy)
