@@ -2,7 +2,21 @@ Menu
 
 [](https://www.everydayhealth.com/)
 
-Newsletters
+NewslettersSearch
+
+[Health Conditions A-Z](https://www.everydayhealth.com/conditions/)
+
+[Wellness & Self-Care](https://www.everydayhealth.com/wellness/)
+
+[News](https://www.everydayhealth.com/news/)
+
+[Product Reviews](https://www.everydayhealth.com/product-reviews/)
+
+[Find a Doctor](https://www.everydayhealth.care/)
+
+[Tools & Resources](https://www.everydayhealth.com/tools-resources/)
+
+[About Us](https://www.everydayhealth.com/about-us/)
 
 Privacy Policy & Terms
 ----------------------
