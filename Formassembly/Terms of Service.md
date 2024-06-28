@@ -1,7 +1,3 @@
-**Dynamic Forms, Deeper Insights: The Key to Stronger Salesforce Experience Pages** | Webinar, Tues, June 25th @ 11 AM ET.
-
-[REGISTER](https://www.formassembly.com/webinar/salesforce-experience-forms-authentication/)
-
 [Skip to content](#primary)
 
 [![FormAssembly](https://www.formassembly.com/wp-content/uploads/2023/04/FormAssembly-lockup-logo.svg)](https://www.formassembly.com/)
