@@ -132,7 +132,7 @@ Close mobile sub-navigation
     
     Learn how to bring skills-based hiring forward in 2024 – so you can make more effective, inclusive hiring decisions.
     
-    [Register now](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
+    [Watch on-demand](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
     
 
 [Request a demo](https://www.greenhouse.com/uk/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
@@ -396,7 +396,7 @@ _For transfers to (sub-) processors, also describe the specific technical and or
 
 As at the Effective Date of this DPA, Controller has authorized the use of the following Subprocessors listed in [Greenhouse's subprocessors in use](https://www.greenhouse.com/subprocessors-in-use) page.
 
-be\_ixf;ym\_202406 d\_21; ct\_50
+be\_ixf;ym\_202406 d\_28; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/uk/data-processing-addendum
