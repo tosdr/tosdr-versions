@@ -211,7 +211,7 @@ Shopping List
         * [Hand Soaps & Sanitizers](https://www.aldi.us/products/personal-care/hand-soaps-sanitizers/ "Shop for hand soaps & sanitizers at ALDI. Discover a variety of quality personal care products at affordable prices when you shop at ALDI. Learn more.")
             
         
-    * [Fan Favorites](https://www.aldi.us/products/fan-favorites/ "View our 2022 “Fan Favorites” product winners and learn how to find these popular items online or at an ALDI store near you.")
+    * [Fan Favorites](https://www.aldi.us/products/fan-favorites/ "Explore our 2023 Fan Favorites product winners and learn how to vote for 2024 Fan Favorites.")
         
     * [Seasonal Products](https://www.aldi.us/products/seasonal-products/ "ALDI is ready for summer with limited time seasonal foods. Browse our selection of ice cream, hot dogs and chips. Learn more!")
         
