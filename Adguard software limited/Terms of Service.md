@@ -66,7 +66,7 @@ Other products
 
 [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html)
 
-[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549)
+[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html)
 
 [All products](https://adguard.com/en/products.html)
 
@@ -142,7 +142,7 @@ Other tools for content blocking
 
 [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html)
 
-[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549)
+[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html)
 
 [All products](https://adguard.com/en/products.html)
 
@@ -434,7 +434,7 @@ Products
 
 Other products
 
-[AdGuard Pro for iOS](https://adguard.com/en/adguard-ios-pro/overview.html) [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html) [AdGuard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html) [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) [AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
+[AdGuard Pro for iOS](https://adguard.com/en/adguard-ios-pro/overview.html) [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html) [AdGuard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html) [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) [AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) [All products](https://adguard.com/en/products.html)
 
 Support
 
