@@ -39,9 +39,6 @@ Enter Now Don't remind me
 Bensound: Privacy Policy
 ========================
 
-Beware of scammers impersonating Bensound with fake job offers! You’ll find all our legitimate job offers on bensound.com/careers.  
-Please report suspicious activity to support@bensound.com
-
 COOKIES
 =======
 
@@ -104,7 +101,6 @@ Support
 * [Become an Ambassador](https://www.bensound.com/contact?become-an-ambassador)
 * [Claim on YouTube](https://www.bensound.com/youtube-copyright-notices)
 * Cookie setting
-* [Jobs](https://www.bensound.com/careers)
 
 Bensound’s [Royalty Free Music](https://www.bensound.com/royalty-free-music "Bensound’s Royalty Free Music") \- Copyright © 2012-2024
 
