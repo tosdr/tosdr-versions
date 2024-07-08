@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1003019336716211&ev=PageView&noscript=1)  https://www.americanguesthouse.com/       
+![](https://www.facebook.com/tr?id=1003019336716211&ev=PageView&noscript=1)         
 
 ![fbpx](https://www.facebook.com/tr?id=1003019336716211&ev=PageView&noscript=1)
 
