@@ -2,7 +2,9 @@
 
 Previous
 
-[Pick a free gift on $85+ after checkout. No code needed.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
+[25% off sitewide.\* Plus, pick a free gift on $85+ after checkout. No code needed.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
+
+[Last call. Enjoy up to 50% off on select products.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
