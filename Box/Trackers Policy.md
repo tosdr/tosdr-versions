@@ -1,6 +1,8 @@
 Close
 
-All the answers and deep insights you need: Get unlimited Box AI queries now with Enterprise Plus! [Read blog](https://blog.box.com/box-announces-powerful-enhancements-box-ai-intelligent-content-management)
+Box Hubs is here! Enable secure, intelligent portals — and surface great content faster.
+
+[Learn more](https://www.box.com/hubs)
 
 [](https://www.box.com/home)Main Navigation
 
