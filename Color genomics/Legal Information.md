@@ -25,7 +25,6 @@ Learn about Color's copilot tool in collaboration with OpenAI [here](https://www
 * [Resources](#)
     * [Blog](https://www.color.com/blog)
     * [Library](https://www.color.com/library)
-    * [Patient Resources](https://www.color.com/patient-resources)
 
 * [Activate Kit](https://home.color.com/activate)
 * [Contact Us](https://www.color.com/contact-us)
