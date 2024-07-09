@@ -36,7 +36,7 @@ Instance privacy aims to bring transparency to the data collected by frontends a
 Additional information
 ----------------------
 
-* Version: 1.2.5
+* Version: 1.2.3
 * Country: Canada
 * Provider: Oracle
 * Using Cloudflare?: No
