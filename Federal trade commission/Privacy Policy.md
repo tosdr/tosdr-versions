@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -224,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Final Eyeglass Rule Implementing Updates to Promote Competition and Expand Consumer Choice](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-announces-final-eyeglass-rule-implementing-updates-promote-competition-expand-consumer-choice)
+    ### [FTC Issues Annual Report on Refunds to Consumers; Agency Returned $324M in 2023](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-issues-annual-report-refunds-consumers-agency-returned-324m-2023)
     
-    June 27, 2024
+    June 21, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jul01
+    Nov14
     
-    ### [Closed Commission Meeting - July 1, 2024](https://www.ftc.gov/news-events/events/2024/07/closed-commission-meeting-july-1-2024)
+    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
     
-    Monday, July 1, 2024 | 11:00AM
+    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -316,8 +318,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
