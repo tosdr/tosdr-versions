@@ -322,6 +322,7 @@ Consistent with the requirements of the DMCA, the Company will terminate, in app
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
+* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
@@ -397,6 +398,7 @@ Consistent with the requirements of the DMCA, the Company will terminate, in app
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
+* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
