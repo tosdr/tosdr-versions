@@ -463,7 +463,7 @@ Plans
 Community
 ---------
 
-* [Clubs](https://community.codecademy.com/c/start-here/)
+* [Chapters](https://community.codecademy.com/chapters)
 * [Code Crew](https://try.codecademy.com/code-crew/)
 * [Discord](https://discord.com/invite/codecademy)
 * [Events](https://www.codecademy.com/events)
