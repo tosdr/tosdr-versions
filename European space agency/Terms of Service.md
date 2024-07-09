@@ -7,7 +7,7 @@ Agency
 Terms and conditions
 ====================
 
-192897 views 1499 likes
+192636 views 1498 likes
 
 [ESA](https://www.esa.int/) / [Services](https://www.esa.int/Services)
 
