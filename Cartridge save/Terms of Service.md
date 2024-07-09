@@ -50,7 +50,7 @@
     Show all brands
     
 
-Show prices inc. VAT
+Show prices ex. VAT
 
 * Menu
 * Search
