@@ -222,8 +222,6 @@ Update policy notice to reflect the UK leaving the EU and the EU changing the US
 * [Trademark Policy](https://www.collaboraoffice.com/trademark-policy/)
 * [Privacy Notice](https://www.collaboraoffice.com/privacy-notice/)
 
-### Stay in touch
-
 * [LinkedIn](https://www.linkedin.com/company/collaboraproductivity)
 * [Reddit](https://www.reddit.com/r/CollaboraOffice/)
 * [Twitter](https://twitter.com/CollaboraOffice)
@@ -233,7 +231,7 @@ Update policy notice to reflect the UK leaving the EU and the EU changing the US
 * [Mastodon](https://mastodon.social/@CollaboraOffice)
 * [YouTube](https://www.youtube.com/collaboraoffice)
 
-### Subscribe to our newsletter
+Subscribe to our newsletter
 
 [![](https://www.collaboraoffice.com/wp-content/uploads/2023/01/2uk-badges2.png)](https://www.collaboraoffice.com/wp-content/uploads/2023/01/2uk-badges2.png)
 
