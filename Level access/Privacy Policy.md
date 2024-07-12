@@ -1,14 +1,14 @@
 [Skip To main content](#maincontent)
 
-Now available:
+Live webinar
 
-  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MjE5OjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MjIwOjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
+  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MjI4OjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MjI5OjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
 
-the 2024 Gartner® Market Guide for Digital Accessibility |
+| Accessibility Outlook: Laws, Lawsuits, and Learnings Shaping Compliance in 2024 |
 
-[Request the complimentary guide.](https://www.levelaccess.com/resources/2024-gartner-market-guide-for-digital-accessibility/)
+[Register today](https://www.levelaccess.com/resources/webinar-accessibility-outlook-laws-lawsuits-and-learnings-shaping-compliance-in-2024/)
 
-[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MjQ0OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
+[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MjUzOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
 
 Main menu
 
@@ -33,7 +33,7 @@ Main menu
         [Platform & Services overview](https://www.levelaccess.com/platform-services-overview/)
     * [What we offer](#) [Auditing and Testing](https://www.levelaccess.com/auditing-and-testing/) [Designer Tools](https://www.levelaccess.com/designer-tools/) [Automated Remediation and User Personalization](https://www.levelaccess.com/automated-remediation-and-user-personalization/) [Developer Tools](https://www.levelaccess.com/developer-tools/) [Reporting and Analytics](https://www.levelaccess.com/reporting-and-analytics/) [Collaboration and Workflow Management](https://www.levelaccess.com/collaboration-and-workflow-management/) [VPATs, ACRs, and Conformance Statements](https://www.levelaccess.com/vpats-acrs-and-conformance-statements/) [Integrations and API](https://www.levelaccess.com/integrations-and-api/) [Legal Expertise](https://www.levelaccess.com/legal-expertise/) [Governance and Program Management](https://www.levelaccess.com/governance-and-program-management/) [Academy and Training](https://www.levelaccess.com/academy-and-training/)
         
-    * [Fast Track](#) [VPATs, Certifications, and Statements](https://www.levelaccess.com/vpats-and-acrs/) [Demand Letter Review](https://www.levelaccess.com/demand-letter/) [Accessibility Audit](https://www.levelaccess.com/accessibility-audit/) [ADA Title II Compliance Support](https://www.levelaccess.com/ada-title-ii-compliance-support/)
+    * [Fast Track](#) [VPATs, Certifications, and Statements](https://www.levelaccess.com/vpats-and-acrs/) [ADA Title II Compliance Support](https://www.levelaccess.com/ada-title-ii-compliance-support/) [Accessibility Audit](https://www.levelaccess.com/accessibility-audit/) [Demand Letter Review](https://www.levelaccess.com/demand-letter/)
         
     
 * Resources
@@ -45,7 +45,7 @@ Main menu
     * A library of insights and resources for expert perspectives to improve your knowledge and advance your strategy.
         
         [Insights and Resources overview](https://www.levelaccess.com/resources/)
-    * [Insights](#) [State of Digital Accessibility](https://www.levelaccess.com/state-of-digital-accessibility/) [Agile Accessibility](https://www.levelaccess.com/agile-accessibility/)
+    * [Insights](#) [ADA Title II Compliance Resources](https://www.levelaccess.com/ada-title-ii-compliance-resources/) [Agile Accessibility](https://www.levelaccess.com/agile-accessibility/) [State of Digital Accessibility](https://www.levelaccess.com/state-of-digital-accessibility/)
         
     * [Resources](#) [Compliance Laws](https://www.levelaccess.com/compliance-overview/) [Blogs](https://www.levelaccess.com/blog/) [Webinars](https://www.levelaccess.com/webinar/) [Guides](https://www.levelaccess.com/guides/) [Info Sheets](https://www.levelaccess.com/info-sheets/)
         
@@ -295,7 +295,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](data:image/svg+xml;nitro-empty-id=NzkyOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Level Access logo](data:image/svg+xml;nitro-empty-id=ODA1OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -306,11 +306,11 @@ Arlington, VA 22201
 Follow us
 ---------
 
-[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODExOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODI0OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODIwOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODMzOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODI5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODQyOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
 
 ### Solutions
 
@@ -327,8 +327,9 @@ Follow us
 ### Insight & Resources
 
 * [Insight and Resources](https://www.levelaccess.com/resources/)
-* [State of Digital Accessibility](https://www.levelaccess.com/state-of-digital-accessibility/)
+* [ADA Title II Compliance Resources](https://www.levelaccess.com/ada-title-ii-compliance-resources/)
 * [Agile Accessibility](https://www.levelaccess.com/agile-accessibility/)
+* [State of Digital Accessibility](https://www.levelaccess.com/state-of-digital-accessibility/)
 * [Compliance Laws](https://www.levelaccess.com/compliance-overview/)
 * [Blogs](https://www.levelaccess.com/blog/)
 * [Webinars](https://www.levelaccess.com/webinar/)
