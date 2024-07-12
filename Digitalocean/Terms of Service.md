@@ -474,6 +474,17 @@ Copyright 2023 DigitalOcean, LLC. All rights reserved. No part of DigitalOceanâ€
 * Effective on February 5, 2022 Prior TOS available [here](https://www.digitalocean.com/legal/terms-of-service-agreement-2022/).
 * Effective on October 22, 2020 Prior TOS available [here](https://www.digitalocean.com/legal/terms-of-service-agreement-2019/).
 
+Get started for free
+--------------------
+
+Sign up and get $200 in credit for your first 60 days with DigitalOcean.\*
+
+[Get started](https://cloud.digitalocean.com/registrations/new?refcode=f6fcd01aaffb)
+
+![](https://www.digitalocean.com/api/static-content/v1/images?src=%2F_next%2Fstatic%2Fmedia%2Fsign-up-cta-background.73e1c8f4.svg&width=3840)
+
+\* This promotional offer applies to new accounts only.
+
 ###### Company
 
 * [About](https://www.digitalocean.com/about)
@@ -528,7 +539,6 @@ Copyright 2023 DigitalOcean, LLC. All rights reserved. No part of DigitalOceanâ€
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
@@ -604,7 +614,6 @@ Copyright 2023 DigitalOcean, LLC. All rights reserved. No part of DigitalOceanâ€
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
