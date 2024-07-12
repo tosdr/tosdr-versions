@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much for your understanding and co-operation. That's very professional and ethical of you.
+I love your service. It works flawlessly and when you have an issue you are good about communicating. If I need support you are quick to provide it.
 
-Paul Kube
+Susan Porter
