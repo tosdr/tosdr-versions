@@ -1,6 +1,6 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13200)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13200)en](https://www.cyberghostvpn.com/terms) 
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13205)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13205)en](https://www.cyberghostvpn.com/terms) 
         * [English](https://www.cyberghostvpn.com/terms)
         * [Čeština](https://www.cyberghostvpn.com/cs/terms)
         * [Dansk](https://www.cyberghostvpn.com/da/terms)
@@ -25,7 +25,7 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/terms)
         * [한국어](https://www.cyberghostvpn.com/ko/terms)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13200)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13205)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -63,7 +63,7 @@
 * [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13200)en](https://www.cyberghostvpn.com/terms) 
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13205)en](https://www.cyberghostvpn.com/terms) 
         * [English](https://www.cyberghostvpn.com/terms)
         * [Čeština](https://www.cyberghostvpn.com/cs/terms)
         * [Dansk](https://www.cyberghostvpn.com/da/terms)
@@ -92,7 +92,7 @@
 * [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13200)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13205)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -253,7 +253,7 @@ You can terminate a subscription at any time by following the process below:
 
 [How can I cancel my subscription](https://support.cyberghostvpn.com/hc/en-us/articles/360017373799-How-Can-I-Cancel-or-Reactivate-My-Subscription)
 
-In case you terminate your subscription within the below specified timeframe (depending on the type of your subscription) and contact support (support@cyberghost.ro or support@cyberghost.com) to request a refund, we shall refund the full amount paid in accordance with our money-back warranty: [Refund Policy 45 Days Money Back Guarantee.](https://support.cyberghostvpn.com/hc/en-us/articles/213834369-CyberGhost-VPN-s-Refund-Policy) Note: If you purchased a CyberGhost VPN subscription via the App Store or iTunes, your account is subject to Apple’s terms of service. You will need to request a refund through the App Store. Similarly, if you purchased a CyberGhost VPN subscription through a third-party seller, you will need to contact the seller for their respective refund policy.
+In case you terminate your subscription within the below specified timeframe (depending on the type of your subscription) and contact support (support@cyberghost.ro) to request a refund, we shall refund the full amount paid in accordance with our money-back warranty: [Refund Policy 45 Days Money Back Guarantee.](https://support.cyberghostvpn.com/hc/en-us/articles/213834369-CyberGhost-VPN-s-Refund-Policy) Note: If you purchased a CyberGhost VPN subscription via the App Store or iTunes, your account is subject to Apple’s terms of service. You will need to request a refund through the App Store. Similarly, if you purchased a CyberGhost VPN subscription through a third-party seller, you will need to contact the seller for their respective refund policy.
 
 |     |     |
 | --- | --- |
@@ -298,17 +298,17 @@ Any money-back-guarantee or other guarantee or warranty of similar content grant
 
 ### 12.3. Exercise the Right of Revocation
 
-To exercise the right of revocation, the Consumer must inform CyberGhost VPN (through cleverbridge (cleverbridge AG, Gereonstr. 43-65, 50670 Cologne, Germany, tel: +49 221 - 222 45 – 0, fax: +49 221 - 222 45 – 19, email: cs@cleverbridge.com or Crossrider Sports via [https://www.cyberghostvpn.com/en\_US/support](https://support.cyberghostvpn.com/hc/en-us).) by making a clear declaration of his decision to revoke the contract (e.g. by letter sent by regular mail, fax, or email.) The Consumer can use the model revocation form following these revocation instructions for this purpose, but it is not a requirement.
+To exercise the right of revocation, the Consumer must inform CyberGhost VPN (through cleverbridge (cleverbridge AG, Gereonstr. 43-65, 50670 Cologne, Germany, tel: +49 221 - 222 45 – 0, fax: +49 221 - 222 45 – 19, email: cs@cleverbridge.com or Noblepay UK Limited via [https://www.cyberghostvpn.com/en\_US/support](https://support.cyberghostvpn.com/hc/en-us).) by making a clear declaration of his decision to revoke the contract (e.g. by letter sent by regular mail, fax, or email.) The Consumer can use the model revocation form following these revocation instructions for this purpose, but it is not a requirement.
 
 To meet the revocation deadline, it is sufficient for the Consumer to send notice that he is exercising his right of revocation prior to the expiration of the revocation period.
 
 ### 12.4 Legal Consequences of Revocation
 
-12.4.1 If the Consumer revokes this contract, cleverbridge or Crossrider Sports must promptly refund all of the payments cleverbridge or Crossrider Sports received from the Consumer, including delivery costs, no later than fourteen days from the date on which the notice of revocation of the contract was received by cleverbridge or Crossrider Sports (with the exception of additional costs incurred because the Consumer has chosen a different mode of delivery than the most cost-effective one, i.e. the standard mode of delivery offered by cleverbridge or Crossrider Sports). For this refund, cleverbridge or Crossrider Sports shall use the same means of payment that was used by the Consumer in the original transaction, unless otherwise expressly agreed with the Consumer. In no case shall the Consumer be charged a fee for the refund.
+12.4.1 If the Consumer revokes this contract, cleverbridge or Noblepay UK Limited must promptly refund all of the payments cleverbridge or Noblepay UK Limited received from the Consumer, including delivery costs, no later than fourteen days from the date on which the notice of revocation of the contract was received by cleverbridge or Noblepay UK Limited (with the exception of additional costs incurred because the Consumer has chosen a different mode of delivery than the most cost-effective one, i.e. the standard mode of delivery offered by cleverbridge or Noblepay UK Limited). For this refund, cleverbridge or Noblepay UK Limited shall use the same means of payment that was used by the Consumer in the original transaction, unless otherwise expressly agreed with the Consumer. In no case shall the Consumer be charged a fee for the refund.
 
-12.4.2 In the case of a contract for Services, the following shall apply: If the Consumer requested that the Services commence during the revocation period, the Consumer shall pay cleverbridge/Crossrider Sports a reasonable amount, which corresponds to the percentage of Services provided by the time the Consumer informs cleverbridge/Crossrider Sports of the exercise of his right to revoke the contract, as compared to the total scope of the Services contemplated by the contract.
+12.4.2 In the case of a contract for Services, the following shall apply: If the Consumer requested that the Services commence during the revocation period, the Consumer shall pay cleverbridge/Noblepay UK Limited a reasonable amount, which corresponds to the percentage of Services provided by the time the Consumer informs cleverbridge/Noblepay UK Limited of the exercise of his right to revoke the contract, as compared to the total scope of the Services contemplated by the contract.
 
-12.4.3 If there is a purchase contract for the delivery of goods, the following shall apply: cleverbridge/Crossrider Sports can refuse to make a refund until it has received the goods back or until the Consumer proves that he has sent the goods back, whichever is earlier. The Consumer shall promptly return or send the goods to cleverbridge/Crossrider Sports no later than fourteen days from the date on which the Consumer informed cleverbridge/Crossrider Sports of the revocation of the contract. The deadline is met if the Consumer sends the goods before the expiration of the fourteen-day period. The Consumer shall bear the direct costs of returning the goods.
+12.4.3 If there is a purchase contract for the delivery of goods, the following shall apply: cleverbridge/Noblepay UK Limited can refuse to make a refund until it has received the goods back or until the Consumer proves that he has sent the goods back, whichever is earlier. The Consumer shall promptly return or send the goods to cleverbridge/Noblepay UK Limited no later than fourteen days from the date on which the Consumer informed cleverbridge/Noblepay UK Limited of the revocation of the contract. The deadline is met if the Consumer sends the goods before the expiration of the fourteen-day period. The Consumer shall bear the direct costs of returning the goods.
 
 The Consumer must pay for the diminished value of the goods if the diminished value is attributable to his treating the goods in an unnecessary manner to examine their quality, characteristics, and functionality.
 
