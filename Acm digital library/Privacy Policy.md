@@ -42,6 +42,7 @@ Search
         * [Stop Harassment](https://www.acm.org/about-acm/policy-against-harassment "Stop Harassment")
         * [Report Unacceptable Behavior](https://www.acm.org/about-acm/reporting-unacceptable-behavior "Report Unacceptable Behavior")
         * [Policy on Complaint Process Disclosure](https://www.acm.org/about-acm/disclosure-policy "Policy on Complaint Process Disclosure")
+        * [ACM Statements](https://www.acm.org/about-acm/acm-statements "ACM Statements")
         * [ACM in the News](https://www.acm.org/media-center/acm-in-the-news "ACM in the News")
         * [Media Center](https://www.acm.org/media-center "Media Center")
         * [Contact Us](https://www.acm.org/about-acm/contact-us "Contact Us")
@@ -249,7 +250,7 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [Avi Wigderson Receives 2023 A.M. Turing Award](https://awards.acm.org/about/2023-turing)
+    * [Avi Wigderson Delivers Turing Lecture at STOC 2024](https://youtube.com/live/f2NiGO8zC1c)
         
         [![2023 ACM Prize recipient Amanda Randles](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-prize.jpg)](https://awards.acm.org/about/2023-acm-prize)
         
@@ -286,9 +287,9 @@ Search
         
         [Chip Huyen TechTalk](https://events.zoom.us/ev/AuK2GHiGErlhKuJWYRGND-S4fQfnvCgfPO50QMGDk0trhQ2ykP5H~Ap6ZKkpo6vqQbiFjSSw9AR3_1BLffDPbOk8pIR_HvO6MdTbC0_WpovE81A)
         
-        [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+        [![Image of Ramón Cáceres](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/ramon-caceres-bytecast.jpg)](https://learning.acm.org/bytecast/ep56-ramon-caceres)
         
-        [ByteCast Ep55: Juan Gilbert](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+        [ByteCast Ep56: Ramón Cáceres](https://learning.acm.org/bytecast/ep56-ramon-caceres)
         
     
 * [Learning Center](#)
@@ -400,6 +401,7 @@ Search
 * [Stop Harassment](https://www.acm.org/about-acm/policy-against-harassment "Stop Harassment")
 * [Report Unacceptable Behavior](https://www.acm.org/about-acm/reporting-unacceptable-behavior "Report Unacceptable Behavior")
 * [Policy on Complaint Process Disclosure](https://www.acm.org/about-acm/disclosure-policy "Policy on Complaint Process Disclosure")
+* [ACM Statements](https://www.acm.org/about-acm/acm-statements "ACM Statements")
 * [ACM in the News](https://www.acm.org/media-center/acm-in-the-news "ACM in the News")
 * [Media Center](https://www.acm.org/media-center "Media Center")
 * [Contact Us](https://www.acm.org/about-acm/contact-us "Contact Us")
