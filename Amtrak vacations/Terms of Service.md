@@ -46,9 +46,9 @@ Main navigation
     
     Save $600](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
     
-    For a limited time only, save $600 per couple on our most popular vacations inclusive of 15 nights or more!
+    Upgrade your rail journey! Save $600 per couple on our vacations inclusive of 15 nights or more!
     
-    [View Details](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
+    [View Trips](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
     
 * [Travel Styles](https://www.amtrakvacations.com/vacation-types?nav=)
     
@@ -141,7 +141,7 @@ Main navigation
     
     Save $500](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
-    For a limited time only, save $500 per couple on our most popular vacations inclusive of 10 nights or more!
+    Upgrade your rail journey! Save $500 per couple on our vacations inclusive of 10 nights or more!
     
     [View Trips](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
