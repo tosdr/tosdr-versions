@@ -18,7 +18,7 @@
 * [Seite auf Deutsch](https://dict.leo.org/pages/about/ende/termsOfUsage_de.html?lang=en)
     
 
-##### [Advertising](https://dict.leo.org/pages/advertise/endeadvertising_en.html "Werbung auf leo.org") - [LEO ohne Werbung? LEO Pur](https://dict.leo.org/myleo/subscription?lp=ende&lang=en)
+##### [Advertising](https://dict.leo.org/pages/advertise/endeadvertising_en.html "Werbung auf leo.org") - [LEO without ads? LEO Pur](https://dict.leo.org/myleo/subscription?lp=ende&lang=en)
 
 ![LEO](/img/svg/leo-detailed.svg "LEO")
 
