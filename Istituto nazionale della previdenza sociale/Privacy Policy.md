@@ -177,12 +177,12 @@
             Uffici di supporto agli organi
             
             * [Esplora Uffici di supporto agli organi](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi.html)
-            * [Segreteria del Presidente e del Consiglio di Amministrazione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-del-presidente-e-del-consiglio-di.html)
-            * [Segreteria tecnica del Collegio dei Sindaci](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-tecnica-del-collegio-dei-sindaci.html)
+            * [Direzione centrale Segreteria del Presidente e del Consiglio di Amministrazione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/Direzione-centrale-Segreteria-del-Presidente-e-del-Consiglio-di-Amministrazione.html)
             * [Segreteria del Consiglio di Indirizzo e Vigilanza](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-del-consiglio-di-indirizzo-e-vigilanza.html)
-            * [Segreteria tecnica del Direttore Generale](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-tecnica-del-direttore-generale.html)
-            * [Segreteria tecnica del Magistrato della Corte dei Conti](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-tecnica-del-magistrato-della-corte-dei-conti.html)
+            * [Segreteria del Direttore Generale](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-del-direttore-generale.html)
+            * [Segreteria del Magistrato della Corte dei Conti](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-del-magistrato-della-corte-dei-conti.html)
             * [Struttura tecnica permanente di supporto all’OIV](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/struttura-tecnica-permanente-di-supporto-all-oiv.html)
+            * [Segreteria del Collegio dei Sindaci](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-di-supporto-agli-organi/segreteria-del-collegio-dei-sindaci.html)
             
         * [Direzioni Centrali](#)
             
@@ -196,17 +196,18 @@
             * [Direzione Centrale Credito Welfare e Strutture Sociali](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-credito-welfare-e-strutture-sociali.html)
             * [Direzione Centrale Entrate](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-entrate.html)
             * [Direzione Centrale Formazione e Accademia Inps](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-formazione-e-accademia-inps.html)
-            * [Direzione Centrale Inclusione e invalidità civile](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-inclusione-e-invalidit--civile.html)
+            * [Direzione Centrale Inclusione e Sostegno alla Famiglia e alla Genitorialità](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/Direzione-Centrale-Inclusione-e-Sostegno-alla-Famiglia-e-alla-Genitorialita.html)
+            * [Direzione Centrale Internal Audit, Risk Management, Compliance e Antifrode](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/Direzione-Centrale-Internal-Audit-Risk-Management-Compliance-e-Antifrode.html)
             * [Direzione Centrale Organizzazione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-organizzazione.html)
-            * [Direzione Centrale Patrimonio e Investimenti](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-patrimonio-e-investimenti.html)
+            * [Direzione Centrale Partecipazioni societarie e Politiche di investimento per l’innovazione dei servizi](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-partecipazioni-societarie-e-politiche-di-inve.html)
+            * [Direzione Centrale Patrimonio](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-patrimonio.html)
             * [Direzione Centrale Pensioni](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-pensioni.html)
             * [Direzione Centrale Pianificazione e Controllo di Gestione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-pianificazione-e-controllo-di-gestione.html)
             * [Direzione Centrale Risorse strumentali e Centrale Unica Acquisti](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-risorse-strumentali-e-centrale-unica-acquisti.html)
             * [Direzione Centrale Risorse umane](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-risorse-umane.html)
-            * [Direzione Centrale Risk Management, Compliance e Antifrode](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-risk-management-compliance-e-antifrode.html)
+            * [Direzione Centrale Salute e prestazioni di Disabilità](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-salute-e-prestazioni-di-disabilita.html)
             * [Direzione Servizi al Territorio](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-servizi-al-territorio.html)
             * [Direzione Centrale Studi e Ricerche](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-studi-e-ricerche.html)
-            * [Direzione Centrale Supporto agli Organi e Internal Audit](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-supporto-agli-organi-e-Internal-audit.html)
             * [Direzione Centrale Tecnologia, Informatica e Innovazione](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/direzioni-centrali/direzione-centrale-tecnologia--informatica-e-innovazione.html)
             
         * [Uffici centrali](#)
@@ -214,6 +215,7 @@
             Uffici centrali
             
             * [Esplora Uffici centrali](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-centrali.html)
+            * [Struttura di supporto al Responsabile della prevenzione della corruzione e della trasparenza](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-centrali/struttura-di-supporto-al-responsabile-della-prevenzione-della-co.html)
             * [Ufficio Incarichi e Funzioni Speciali presso la Presidenza del Consiglio dei Ministri](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-centrali/ufficio-incarichi-e-funzioni-speciali-presso-la-presidenza-del-c.html)
             * [Ufficio Procedimenti disciplinari e della responsabilità amministrativa](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-centrali/ufficio-procedimenti-disciplinari-e-della-responsabilit--amminis.html)
             * [Ufficio del Responsabile della Protezione dei Dati](https://www.inps.it/it/it/l-istituto/struttura-organizzativa/uffici-centrali/ufficio-del-responsabile-della-protezione-dei-dati.html)
@@ -795,12 +797,12 @@
             * [Esplora Procedure](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure.html)
             * [Procedura Cedolino della pensione](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cedolino-della-pensione.html)
             * [Procedura Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-fascicolo-previdenziale-del-cittadino.html)
-            * [Procedura Domanda Pensione, Ricostituzione, Ratei, ECOCERT, APE Sociale e Beneficio precoci](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-domanda-pensione--ricostituzione--ratei--ecocert--ape-.html)
             * [Procedura Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-estratto-conto-contributivo.html)
             * [Procedura Maternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-maternit.html)
             * [Procedura Cassetto previdenziale aziende](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cassetto-previdenziale-aziende.html)
             * [Procedura Iscrizione e Variazione azienda](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-iscrizione-e-variazione-azienda.html)
             * [Procedura Portale delle Agevolazioni](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-portale-delle-agevolazioni.html)
+            * [Procedura Domanda Pensione, Ricostituzione, Ratei, ECOCERT, APE Sociale e Beneficio precoci](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-domanda-pensione--ricostituzione--ratei--ecocert--ape-.html)
             
         * [Per le imprese](#)
             
@@ -1049,6 +1051,7 @@
         * [Analisi e approfondimenti tematici](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/analisi-e-approfondimenti-tematici.html)
         * [Osservatori statistici](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/osservatori-statistici.html)
         * [Statistiche della previdenza e dell‘assistenza sociale](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/statistiche-della-previdenza-e-dell-assistenza-sociale.html)
+        * [Dati Cartacei - ADI e SFL](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/dati-cartacei---adi-e-sfl.html)
         
     * [File per la ricerca (MFR)](https://www.inps.it/it/it/dati-e-bilanci/File-per-la-ricerca-MFR.html)
     * [Rapporti Annuali](#)
@@ -1874,14 +1877,14 @@ Gli Interessati che ritengono che il trattamento dei dati personali a loro rifer
 
 Ulteriori informazioni in ordine ai diritti degli Interessati sono reperibili sul sito web del Garante per la protezione dei dati personali all'indirizzo [www.garanteprivacy.it](https://www.garanteprivacy.it/ "Vai al sito").
 
-Torna su
-
 Il tuo parere è importante
 --------------------------
 
 Tutti i suggerimenti, i feedback e le opinioni degli utenti che navigano il Portale sono fondamentali per migliorarlo e soddisfare le vostre esigenze
 
 Ti piace il portale?
+
+Torna su
 
 * [Pensione e Previdenza](https://www.inps.it/it/it/previdenza.html "Pensione e Previdenza")
 * [Lavoro](https://www.inps.it/it/it/lavoro.html "Lavoro")
@@ -1899,9 +1902,9 @@ Ti piace il portale?
 Sedi e Contatti [Apri il menu Sedi e Contatti](#collapse-help)
 --------------------------------------------------------------
 
-* [Contact Center](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center.html "Contact Center")
-* [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html "Mappa del sito")
 * [Trova la Sede](https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede.html "Trova la Sede")
+* [Contact Center Multicanale](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center-multicanale.html "Contact Center Multicanale")
+* [Mappa del sito](https://www.inps.it/it/it/assistenza/mappa-del-sito.html "Mappa del sito")
 
 Software [Apri il menu Software](#collapse-software)
 ----------------------------------------------------
@@ -1909,7 +1912,7 @@ Software [Apri il menu Software](#collapse-software)
 * [Per i CAF ed i liberi professionisti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-i-caf-ed-i-liberi-professionisti "Per i CAF ed i liberi professionisti")
 * [Per i medici certificatori e Medici di Famiglia](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-i-medici-certificatori-e-medici-di-famiglia "Per i medici certificatori e Medici di Famiglia")
 * [Per il cittadino](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-il-cittadino "Per il cittadino")
-* [Per le azinede ed i Consulenti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-le-aziende-ed-i-consulenti "Per le azinede ed i Consulenti")
+* [Per le aziende ed i Consulenti](https://www.inps.it/it/it/software.html?tipologiaSoftware=tipologia-software:per-le-aziende-ed-i-consulenti "Per le aziende ed i Consulenti")
 
 Note Legali [Apri il menu Note Legali](#collapse-notelegali)
 ------------------------------------------------------------
