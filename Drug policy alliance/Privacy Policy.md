@@ -62,7 +62,7 @@ As we adopt additional technologies, we may also gather additional information t
 
 **Contact Information**. You may contact DPA about this Policy through any of the following ways:
 
-* :**By Email****:** [\[email protected\]](https://drugpolicy.org/cdn-cgi/l/email-protection)
+* **By Email****:** [\[email protected\]](https://drugpolicy.org/cdn-cgi/l/email-protection)
 
 * **By Mail:**
 
