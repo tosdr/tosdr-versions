@@ -40,9 +40,9 @@
     
     [](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-dial-2.html)[Inspiroy Dial 2](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-dial-2.html)
     
-    [](https://www.huion.com/products/pen_tablet/InspiroyPro/kd200.html)[Inspiroy Keydial](https://www.huion.com/products/pen_tablet/InspiroyPro/kd200.html)
-    
     [](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-giano.html)[Inspiroy Giano](https://www.huion.com/products/pen_tablet/InspiroyPro/inspiroy-giano.html)
+    
+    [](https://www.huion.com/products/pen_tablet/InspiroyPro/kd200.html)[Inspiroy Keydial](https://www.huion.com/products/pen_tablet/InspiroyPro/kd200.html)
     
     Pen Computer
     
