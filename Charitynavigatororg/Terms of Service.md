@@ -1,4 +1,4 @@
-* [Sign in](https://www.charitynavigator.org/index.cfm?bay=my.login)
+* [Sign in](https://www.charitynavigator.org/profile)
 * [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html)
 * [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
 * [](https://www.charitynavigator.org/basket/checkout)
@@ -15,12 +15,13 @@
     * [Mental Health](https://www.charitynavigator.org/discover-charities/best-charities/suicide-prevention-depression-awareness.html)
     
     * [Popular Charities](https://www.charitynavigator.org/discover-charities/popular-charities.html)
-    * [Community Choice Awards](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners.html)
+    * [2023 Community Choice Awards Winners](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners.html)
     * [Charities Everyone's Heard Of](https://www.charitynavigator.org/discover-charities/popular-charities/well-known-charities.html)
     * [Most Followed Charities](https://www.charitynavigator.org/discover-charities/popular-charities/most-followed-charities.html)
     * [Most Frequently Viewed Charities](https://www.charitynavigator.org/discover-charities/popular-charities/most-viewed-charities.html)
     
     * [Where To Give Now](https://www.charitynavigator.org/discover-charities/where-to-give.html)
+    * [Hurricane Beryl](https://www.charitynavigator.org/discover-charities/where-to-give/hurricane-beryl.html)
     * [Humanitarian Crisis in Israel and Gaza](https://www.charitynavigator.org/discover-charities/where-to-give/israel-hamas-conflict.html)
     * [Humanitarian Assistance in Sudan](https://www.charitynavigator.org/discover-charities/where-to-give/2023-sudan-conflict.html)
     * [Ukraine Relief & Recovery](https://www.charitynavigator.org/discover-charities/where-to-give/ukranian-crisis.html)
@@ -91,6 +92,7 @@
     * [Mission](https://www.charitynavigator.org/about-us/#about_mission)
     * [Values](https://www.charitynavigator.org/about-us/#about_values)
     * [Our History](https://www.charitynavigator.org/about-us/#about_history)
+    * [Our Team](https://www.charitynavigator.org/about-us/our-team.html)
     
 
 [](https://www.charitynavigator.org/basket/checkout)
@@ -109,12 +111,13 @@
     * [Mental Health](https://www.charitynavigator.org/discover-charities/best-charities/suicide-prevention-depression-awareness.html)
     
     * [Popular Charities](https://www.charitynavigator.org/discover-charities/popular-charities.html)
-    * [Community Choice Awards](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners.html)
+    * [2023 Community Choice Awards Winners](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners.html)
     * [Charities Everyone's Heard Of](https://www.charitynavigator.org/discover-charities/popular-charities/well-known-charities.html)
     * [Most Followed Charities](https://www.charitynavigator.org/discover-charities/popular-charities/most-followed-charities.html)
     * [Most Frequently Viewed Charities](https://www.charitynavigator.org/discover-charities/popular-charities/most-viewed-charities.html)
     
     * [Where To Give Now](https://www.charitynavigator.org/discover-charities/where-to-give.html)
+    * [Hurricane Beryl](https://www.charitynavigator.org/discover-charities/where-to-give/hurricane-beryl.html)
     * [Humanitarian Crisis in Israel and Gaza](https://www.charitynavigator.org/discover-charities/where-to-give/israel-hamas-conflict.html)
     * [Humanitarian Assistance in Sudan](https://www.charitynavigator.org/discover-charities/where-to-give/2023-sudan-conflict.html)
     * [Ukraine Relief & Recovery](https://www.charitynavigator.org/discover-charities/where-to-give/ukranian-crisis.html)
@@ -185,9 +188,10 @@
     * [Mission](https://www.charitynavigator.org/about-us/#about_mission)
     * [Values](https://www.charitynavigator.org/about-us/#about_values)
     * [Our History](https://www.charitynavigator.org/about-us/#about_history)
+    * [Our Team](https://www.charitynavigator.org/about-us/our-team.html)
     
 
-[Sign in](https://www.charitynavigator.org/index.cfm?bay=my.login) [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html) [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
+[Sign in](https://www.charitynavigator.org/profile) [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html) [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
 
 1. [Home](https://www.charitynavigator.org/content/cn/us/en/homepage.html) 
 2. [About Us](https://www.charitynavigator.org/about-us.html) 
