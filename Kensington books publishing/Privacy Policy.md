@@ -1,6 +1,6 @@
 [Skip to Main Content (Press Enter)](#mainblock)
 
-[GET PERSONALIZED BOOK RECS 📚](https://sites.prh.com/sign-up)
+[BECOME A BOOK EXPERT 📚](https://sites.prh.com/sign-up)
 
 Books
 
@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/06/12120535/ReadDown-2024-1200x628_nav.jpg)
     
-    30 Great LGBTQ+ Picture Books for Kids
+    New Releases
     
-    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
 
 * * *
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102159/PRH_Site_600x314_nav-JUN.jpg)
+* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
-    New Releases
+    30 Great LGBTQ+ Picture Books for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
+    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
 
 * <
     
@@ -236,7 +236,7 @@ Popular
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
@@ -800,7 +800,7 @@ Because electronic communications are not always secure, please do not include c
 
 [Back to Top](#top)
 
-[GET PERSONALIZED BOOK RECS 📚](https://sites.prh.com/sign-up)
+[BECOME A BOOK EXPERT 📚](https://sites.prh.com/sign-up)
 
 Connect
 
