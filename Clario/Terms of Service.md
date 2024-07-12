@@ -49,7 +49,7 @@ Disagree Agree
     * [Affiliate program](https://clario.co/affiliate-program/)
     * [Press Center](https://clario.co/press-center/)
     
-* [Pricing.](https://link-bg.clario.co/link/a4bdb02c-c179-4983-8668-e8fa9b159c07?utm-source=%2Feula&utm-medium=header)
+* [Pricing.](https://link-bg.clario.co/link/cee2ced1-d67d-41ce-9f8b-dba5abd33ccc?utm-source=%2Feula&utm-medium=header)
 * Which protection is best for you? Let’s quickly check.
     
     [Start now](https://link-bg.clario.co/link/a4bdb02c-c179-4983-8668-e8fa9b159c07?utm-source=/eula&utm-medium=hamburger-menu)
