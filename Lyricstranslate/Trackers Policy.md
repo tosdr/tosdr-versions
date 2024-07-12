@@ -6,41 +6,6 @@ Search
 
 [![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
 
-* [Lyrics](#)
-    * [Artists](https://lyricstranslate.com/en/artists)
-    * [Songs](https://lyricstranslate.com/en/songs)
-    * [Translations](https://lyricstranslate.com/en/translations)
-    * [Languages](https://lyricstranslate.com/en/languages.html)
-    * [Requests](https://lyricstranslate.com/en/requests)
-    * [Transcription requests](https://lyricstranslate.com/en/transrequests)
-    * [Subtitles](https://lyricstranslate.com/en/songs/0/none/none/0/none/1)
-    * [Idioms](https://lyricstranslate.com/en/phrases)
-    * [Collections](https://lyricstranslate.com/en/collections)
-* [Actions](#)
-    * [Add new translation](https://lyricstranslate.com/en/add/translate)
-    * [Add new song](https://lyricstranslate.com/en/add/song)
-    * [Request a translation](https://lyricstranslate.com/en/add/request)
-    * [Request lyrics transcription](https://lyricstranslate.com/en/add/transrequest)
-    * [Start forum thread](https://lyricstranslate.com/en/node/add/forum)
-* [Community](#)
-    * [Members](https://lyricstranslate.com/en/members)
-    * [Forum](https://lyricstranslate.com/en/forum)
-    * [New forum topics](https://lyricstranslate.com/en/newforumtopics)
-    * [Recent comments](https://lyricstranslate.com/en/recent-comments)
-    * [Popular Content / Site statistics](https://lyricstranslate.com/en/topnodes)
-* [Help](#)
-    * [Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)
-    * [Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
-    * [Website Rules](https://lyricstranslate.com/en/lt-site-rules)
-    * [Frequently Asked Questions](https://lyricstranslate.com/en/faq)
-    * [Useful Resources](https://lyricstranslate.com/en/resources)
-    * [lyricstranslate.com forum](https://lyricstranslate.com/en/forums/general-forums/lyricstranslatecom)
-* [Interface language](#)
-    * DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
-        
-* [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
-* [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=cookies-policy)
-
 * [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=cookies-policy)
 * [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=cookies-policy)
 * [Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
@@ -171,85 +136,83 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Icey](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1172336-1552661453.png)](https://lyricstranslate.com/en/translator/icey "Icey")
-
-New translation
-
-[Avril Lavigne - I Can Do Better](https://lyricstranslate.com/en/avril-lavigne-i-can-do-better-italian)
-
-English → Italian
-
-[![Jacob De Camillis](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/jacob-de-camillis "Jacob De Camillis")
-
-New translation
-
-[Marem Gökhan Şen - Mэжей мэжей](https://lyricstranslate.com/en/marem-gokhan-sen-mezhey-mezhey-turkish)
-
-Circassian → Turkish
-
-[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
-
-New translation
-
-[Chris Norman - All Alone](https://lyricstranslate.com/en/chris-norman-all-alone-romanian)
-
-English → Romanian
-
-[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
-
-New translation
-
-[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-transliteration)
-
-English → Transliteration
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
-
-New translation
-
-[French Children's Songs - Petit Papa Noël](https://lyricstranslate.com/en/petit-papa-noel-beloved-kris-kringle.html-1)
-
-French → English
-
-[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
-
-New translation
-
-[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-english)
-
-English → English
-
-[![Jacob De Camillis](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/jacob-de-camillis "Jacob De Camillis")
+[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
 
 New song
 
-[Marem Gökhan Şen - Mэжей мэжей](https://lyricstranslate.com/en/marem-gokhan-sen-mezhey-mezhey-lyrics)
+[Forgotten Tomb - This Sickness Withered My Heart](https://lyricstranslate.com/en/forgotten-tomb-sickness-withered-my-lyrics)
 
-Circassian
+English
 
-[![Hikari_chan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611896-1710403464.jpg)](https://lyricstranslate.com/en/translator/hikarichan "Hikari_chan")
-
-New translation
-
-[NAYEON - NO PROBLEM](https://lyricstranslate.com/en/nayeon-no-problem-hungarian)
-
-English → Hungarian
-
-[![FireAries](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1503540-1717762518.jpg)](https://lyricstranslate.com/en/translator/firearies "FireAries")
+[![siriwithluv](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517077-1659143626.jpg)](https://lyricstranslate.com/en/translator/siriwithluv "siriwithluv")
 
 New translation
 
-[Gesu no Kiwami Otome - Gut Feeling](https://lyricstranslate.com/en/gesu-no-kiwami-otome-gut-feeling-portuguese)
+[Jessica Shy - Dėl Tavęs](https://lyricstranslate.com/en/jessica-shy-del-taves-english-0)
 
-English → Portuguese
+Lithuanian → English
 
-[![merinabi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554994-1709935735.jpg)](https://lyricstranslate.com/en/translator/merinabi "merinabi")
+[![hyunslove](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1530436-1711986496.jpg)](https://lyricstranslate.com/en/translator/hyunslove "hyunslove")
 
 New translation
 
-[Coldplay - all my love](https://lyricstranslate.com/en/coldplay-all-my-love-turkish)
+[ENHYPEN - Hundred Broken Hearts](https://lyricstranslate.com/en/enhypen-hundred-broken-hearts-serbian)
 
-English → Turkish
+English → Serbian
+
+[![HinKyto](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109319-1557258566.png)](https://lyricstranslate.com/en/translator/hinkyto "HinKyto")
+
+New song
+
+[Anne Iben - Tynd is](https://lyricstranslate.com/en/anne-iben-tynd-lyrics)
+
+Danish
+
+[![HinKyto](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109319-1557258566.png)](https://lyricstranslate.com/en/translator/hinkyto "HinKyto")
+
+New translation
+
+[Anne Iben - Tynd is](https://lyricstranslate.com/en/anne-iben-tynd-english)
+
+Danish → English
+
+[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
+
+New song
+
+[Wolfheart - Evenfall](https://lyricstranslate.com/en/wolfheart-evenfall-lyrics)
+
+English
+
+[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+
+New translation
+
+[Adriano Celentano - Verità da marciapiede](https://lyricstranslate.com/en/adriano-celentano-verita-da-marciapiede-polish)
+
+Italian → Polish
+
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+
+New song
+
+[Richard Thompson - Poor Ditching Boy](https://lyricstranslate.com/en/richard-thompson-poor-ditching-boy-lyrics)
+
+English
+
+[![quarup](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1509758-1628678098.jpg)](https://lyricstranslate.com/en/translator/quarup "quarup")
+
+New comment
+
+😃  [more](https://lyricstranslate.com/en/comment/1154210#comment-1154210)
+
+[![Azalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1259793-1706434928.jpg)](https://lyricstranslate.com/en/translator/azalia "Azalia")
+
+New translation
+
+[Frida Boccara - Et je suis seule](https://lyricstranslate.com/en/frida-boccara-et-je-suis-seule-polish)
+
+French → Polish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
