@@ -170,49 +170,41 @@ News
 
 [All News](https://www.lwsd.org/fs/pages/1009)
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/a-vote-for-diplomacy-evergreen-creates-model-united-nations-for-first-time-at-school)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/timberline-chosen-for-million-bazillion-live-game-show)
 
-[A vote for diplomacy – Evergreen creates Model United Nations for first time at school](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/a-vote-for-diplomacy-evergreen-creates-model-united-nations-for-first-time-at-school)
+[Timberline chosen for Million Bazillion Live game show](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/timberline-chosen-for-million-bazillion-live-game-show) 
 
-Jun 21 2024
+Jun 27 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/two-lwsd-students-take-top-spots-in-regional-holocaust-writing-art-and-film-contest)
+[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/ospi-recognizes-35-lwsd-schools-through-the-washington-school-recognition-program)
 
-[Two LWSD students take top spots in regional Holocaust writing, art and film contest](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/two-lwsd-students-take-top-spots-in-regional-holocaust-writing-art-and-film-contest)
+[OSPI recognizes 35 LWSD schools through the Washington School Recognition Program](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/ospi-recognizes-35-lwsd-schools-through-the-washington-school-recognition-program)
 
-Jun 17 2024
+Jun 27 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/movin-on-up-lwsd-earns-level-one-district-recognition-three-schools-earn-sustaining-level-in-king-county-green-schools-program)
+[](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lake-washington-school-district-receives-grant-funding-for-two-additional-zero-emission-buses)
 
-[Movin’ on up – LWSD earns Level One District recognition, three schools earn Sustaining level in King County Green Schools program](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/movin-on-up-lwsd-earns-level-one-district-recognition-three-schools-earn-sustaining-level-in-king-county-green-schools-program) 
+[Lake Washington School District receives grant funding for two additional zero-emission buses](https://www.lwsd.org/programs-and-services/communications/news/news-details/~board/2023-24-announcements/post/lake-washington-school-district-receives-grant-funding-for-two-additional-zero-emission-buses)
 
-Jun 17 2024
+Jun 27 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/several-students-place-at-or-near-the-top-at-deca-international-competition-2024)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/elementary-schools/post/video-mcauliffe-elementary-blasts-off-into-summer)
 
-[Several students place at or near the top at DECA International competition](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/high-schools/post/several-students-place-at-or-near-the-top-at-deca-international-competition-2024)
+[Video: McAuliffe Elementary blasts off into summer](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/elementary-schools/post/video-mcauliffe-elementary-blasts-off-into-summer)
 
-Jun 13 2024
+Jun 25 2024
 
-[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/ems-students-learn-about-emergency-response-from-rfd)
+[](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/coast-to-coast-influence-lwsd-grad-nominates-tesla-stem-teacher-for-cornell-university-award)
 
-[EMS students learn about emergency response from RFD](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/middle-schools/post/ems-students-learn-about-emergency-response-from-rfd)
+[Coast to coast influence – LWSD grad nominates Tesla STEM teacher for Cornell University award](https://www.lwsd.org/programs-and-services/communications/news/school-news-for-direct-link/~board/students-and-schools/post/coast-to-coast-influence-lwsd-grad-nominates-tesla-stem-teacher-for-cornell-university-award)
 
-Jun 13 2024
+Jun 25 2024
 
 Events
 ------
 
 [Full Calendar](https://www.lwsd.org/about-us/district-calendar)
 
-Mon Jun. 24
-
-[LWSD - School Board Study Session](#)
-
-Mon Jun. 24
-
-[LWSD - School Board Meeting](#)
-
 Mon Aug. 05
 
 [LWSD - School Board Study Session](#)
@@ -229,13 +221,21 @@ Mon Aug. 19
 
 [LWSD - School Board Meeting](#)
 
-Mon Sep. 09
+Mon Sep. 02
 
-[LWSD - School Board Study Session](#)
+[No School - Labor Day](#)
 
-Mon Sep. 09
+Tue Sep. 03
 
-[LWSD - School Board Meeting](#)
+[LWSD - First Day of School (grades 1-12)](#)
+
+Tue Sep. 03
+
+[LWSD - Kindergarten Family Connection Meetings](#)
+
+Wed Sep. 04
+
+[LWSD - Kindergarten Family Connection Meetings](#)
 
 X
 -
