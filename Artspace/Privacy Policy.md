@@ -25,8 +25,8 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     
     * [ART](https://www.artspace.com/art)
         
-        * [New and Now](https://www.artspace.com/tags/june-featured-new-now/)
-        * [Best Sellers](https://www.artspace.com/tags/may-featured-best-sellers/)
+        * [New and Now](https://www.artspace.com/tags/featured-new-and-now/)
+        * [Best Sellers](https://www.artspace.com/tags/featured-best-sellers/)
         * [Iconic Artists](https://www.artspace.com/collections/iconic-artists)
         * [Curated Collections](https://www.artspace.com/collections/curated-collections)
         * [Shop by Medium](https://www.artspace.com/collections/shop-by-medium)
@@ -59,8 +59,8 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     
 * [ART](https://www.artspace.com/art)
     
-    * [New and Now](https://www.artspace.com/tags/june-featured-new-now/)
-    * [Best Sellers](https://www.artspace.com/tags/may-featured-best-sellers/)
+    * [New and Now](https://www.artspace.com/tags/featured-new-and-now/)
+    * [Best Sellers](https://www.artspace.com/tags/featured-best-sellers/)
     * [Iconic Artists](https://www.artspace.com/collections/iconic-artists)
     * [Curated Collections](https://www.artspace.com/collections/curated-collections)
     * [Shop by Medium](https://www.artspace.com/collections/shop-by-medium)
