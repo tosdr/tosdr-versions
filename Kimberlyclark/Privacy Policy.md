@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 03/26/2024
+Last Updated : 06/28/2024
 
 [](javascript:void(0))
 
@@ -692,7 +692,7 @@ State- or Country-Specific Disclosures
 California Privacy Rights Act Statement
 ---------------------------------------
 
-**Updated: 12/11/2023**  
+**Updated: 07/01/2024**  
   
 
 This California Consumer Privacy Statement (“Statement”) supplements Kimberly-Clark Corporation’s [Privacy Policy](https://www.kimberly-clark.com/en-us/global-privacy-policy) . It applies solely to California consumers and addresses personal information we collect online and offline. Some of the rights and choices described in this Statement may not take effect until January 1, 2023. This Statement does not apply to Kimberly-Clark personnel. Sections 2-5 of this Statement do not apply to job applicants.  
@@ -856,30 +856,35 @@ Read more Read less
 
   
 
-**CCPA Metrics For the Prior Calendar Year.** As reflected in this Statement, the CCPA provides California residents with specific rights, such as the right to know, delete, correct, opt-out of sale/sharing personal information, and limit the use of sensitive personal information. Under the CCPA, certain businesses that process these requests must publish information about these rights. That information for California residents for the period of January 1, 2022 through December 31, 2022 is below.
+**CCPA Metrics For the Prior Calendar Year.** As reflected in this Statement, the CCPA provides California residents with specific rights, such as the right to know, delete, correct, opt-out of sale/sharing personal information, and limit the use of sensitive personal information. Under the CCPA, certain businesses that process these requests must publish information about these rights. That information for California residents for the period of January 1, 2023 through December 31, 2023 is below.
 
 |     |     |
 | --- | --- |
-| **Right to Access or Right to Know Requests** | **Jan.-Dec. 2022** |
-| Total Number of Access or Right to Know Requests Received | **8** |
-| Total Number of Access or Right to Know Requests complied with in whole or part | **3** |
-| Total Number of Access or Right to Know Requests Denied | **5** |
+| **Right to Know Requests** | **Jan.-Dec. 2023** |
+| Total Number of Access Requests Received | **138** |
+| Total Number of Access Requests complied with in whole or part | **10** |
+| Total Number of Access Requests Denied | **128** |
 | _Note: The mean number of days within which K-C substantively responded to requests to know was 6 weeks._ |     |     |
-| **Right to Delete Requests** | **Jan.-Dec. 2022** |
-| Total Number of Deletion Requests Received | **24** |
-| Total Number of Deletion Requests complied with in whole or part | **15** |
-| Total Number of Deletion Requests Denied | **9** |
+| **Right to Delete Requests** | **Jan.-Dec. 2023** |
+| Total Number of Deletion Requests Received | **279** |
+| Total Number of Deletion Requests complied with in whole or part | **180** |
+| Total Number of Deletion Requests Denied | **99** |
 | _Note: The mean number of days within which K-C substantively responded to requests to delete was 3 weeks._ |     |     |
-| **Do Not Sell or Share Requests** | **Jan.-Dec. 2022** |
-| Total Number of Do Not Sell or Share Requests Received | **17523** |
-| Total Number of Do Not Sell or Share Requests complied with in whole or part | **17523** |
+| **Do Not Sell or Share Requests** | **Jan.-Dec. 2023** |
+| Total Number of Do Not Sell or Share Requests Received | **512** |
+| Total Number of Do Not Sell or Share Requests complied with in whole or part | **512** |
 | Total Number of Do Not Sell or Share Requests Denied | **0** |
-| _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 days._ |     |     |
-| **Limit the Use of Sensitive Personal Information Requests** | **Jan.-Dec. 2022** |
-| Total Number of Limit the Use of Sensitive Personal Information Requests Received | **1963** |
-| Total Number of Limit the Use of Sensitive Personal Information Requests complied with in whole or part | **1963** |
-| Total Number of Limit the Use of Sensitive Personal Information Requests Denied | **0** |
-| _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 days._ |     |     |
+| _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 business days._ |     |     |
+| **Limit Use Requests** | **Jan.-Dec. 2023** |
+| Total Number of Limit Use Requests Received | **427** |
+| Total Number of Limit Use Requests complied with in whole or part | **427** |
+| Total Number of Limit Use Requests Denied | **0** |
+| _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 business days._ |     |     |
+| **Right to Correction / rectification requests** | **Jan.-Dec. 2023** |
+| Total Number of Rectification Requests Received | **57** |
+| Total Number of Rectification Requests complied with in whole or part | **6** |
+| Total Number of Rectification Requests Denied | **51** |
+| _Note: The mean number of days within which K-C substantively responded to requests to know was 6 weeks._ |     |     |
 
   
 
