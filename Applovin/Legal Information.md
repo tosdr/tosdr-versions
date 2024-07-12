@@ -49,13 +49,13 @@
 
 ###### Featured posts
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/CoffeeandCreative_Ai_Ad_Production_Web_Pop_up2x-ezgif.com-webp-to-jpg-converter-1.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/success_stories_thumbnail_experian-1.jpg)
 
-###### Webinar: AI in Ad Production](https://try.applovin.com/coffee-creative-ai-webinar)
+###### Experian Scales with AppDiscovery](https://www.applovin.com/success-stories/experian/)
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_Blog-Header_Resource-Center-Launch-1.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/admin-ajax-1.jpeg)
 
-###### Grow with Our Resource Center](https://www.applovin.com/blog/grow-your-business-with-our-resource-center/)
+###### Cannes Lions 2024 Insights](https://www.applovin.com/blog/cannes-lions-2024-audience-reach-on-the-french-riviera/)
 
 ###### More about us
 
