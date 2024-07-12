@@ -67,7 +67,7 @@ and events in your area.
 
 [Donate](https://supporters.eff.org/donate/site-m--m)
 
-[![](https://www.eff.org/files/htfi-walsh-hoffman-site2.png)Podcast Episode: AI in Kitopia](https://www.eff.org/deeplinks/2024/06/podcast-episode-ai-kitopia "Podcast Episode: AI in Kitopia") [![](https://www.eff.org/files/htfi-walsh-hoffman-site1.png)](https://www.eff.org/deeplinks/2024/06/podcast-episode-ai-kitopia "Podcast Episode: AI in Kitopia")[](https://www.eff.org/ "Close")
+[![](https://www.eff.org/files/htfi-doctorow-site2.png)Podcast Episode: Fighting Enshittification](https://www.eff.org/deeplinks/2024/06/podcast-episode-fighting-enshittification "Podcast Episode: Fighting Enshittification") [![](https://www.eff.org/files/htfi-doctorow-site1.png)](https://www.eff.org/deeplinks/2024/06/podcast-episode-fighting-enshittification "Podcast Episode: Fighting Enshittification")[](https://www.eff.org/ "Close")
 
 [Electronic Frontier Foundation](https://www.eff.org/)
 
