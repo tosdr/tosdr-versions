@@ -11,12 +11,12 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/e870de7b3d28)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -51,13 +51,13 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/e870de7b3d28)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -82,27 +82,36 @@ Privacy Policy
 
 * * *
 
-**Effective & Last Updated On: 06-18-2024**
+**Effective & Last Updated On: 06-30-2024**
 
 Alpha Media (“Alpha,” “we,” “us,” or “our”) is a diverse multimedia company sharing your favorite music, sports and news across a variety of platforms. In fulfilling this mission, we collect, use, and share certain information about you. We take your privacy seriously, and this Privacy Policy is meant to help you understand how and why we collect, use, and share your personal information. This Privacy Policy also describes certain choices and rights you may have.
 
 This Privacy Policy covers Alpha’s privacy practices, including but not limited to all Alpha websites, including [www.alphamediausa.com](https://www.alphamediausa.com/) and the websites of our individual radio stations, and other online services (collectively, “Services”), as well as Alpha’s offline privacy practices.
 
-This Privacy Policy, unless otherwise specified, applies to all U.S. consumers. Residents of California, Nevada and Virginia have additional privacy rights, and accordingly, some information in this Privacy Policy only applies if you are a resident of that state.
+This Privacy Policy, unless otherwise specified, applies to all U.S. consumers. Residents of certain states have additional privacy rights, and accordingly, some information in this Privacy Policy only applies if you are a resident of those state.
 
 If you do not consent to the collection, use, or sharing of your information in the manner described in this Privacy Policy, please do not provide us with such information.
 
 **Table of Contents**
 
-**Section 1: General Privacy Practices**  
-[A. Personal Information We Collect About You](#personalinfocollect)[B. Cookies and Online Tracking](#cookies)[C. Personalized Advertising](#personalad)[D. Personal Information We Share](#personalinfoshare)[E. Your Choices](#choices)[F. Security Safeguards](#safeguards)[G. Amendments to Privacy Policy](#amendments)[H. Contact Information](#contact)
+[**Section 1: General Privacy Practices**](#section-1)[A. Personal Information We Collect About You](#personal-information-we-collect)[B. Cookies and Online Tracking](#cookies)[C. Personalized Advertising](#personalized-advertising)D. Personal Information We Share  
+[E. Your Choices](#choices)[F. Security Safeguards](#security-safeguards)[G. Amendments to Privacy Policy](#amendments)[H. Contact Information](#contact)
 
-**Section 2: Notices and Rights for California Residents**  
-[A. Consumer Rights Under California Law](#consumerrights)[B. How California Residents Can Exercise Their Rights](#carights)[C. How California Residents Can Designate an Authorized Agent](#authorizedagent)[D. How We Verify California Residents’ Requests to Know/Requests for Access and Requests for Deletion](#verifyresident)[E. Notice at Collection of Personal Information](#cacollection)[F. Notice of Right to Opt-Out of Sale of Personal Information](#caoptout)[G. Notice of Financial Incentive](#caincentive)
+[**Section 2: Notices and Rights for California Residents**](#section-2)[A. Consumer Rights Under California Law](#consumer-rights)  
+[B. How California Residents Can Exercise Their Rights](#ca-exercise-rights)C. How California Residents Can Designate an Authorized Agent  
+[D. How We Verify California Residents’ Requests to Know/Requests for Access and Requests for Deletion](#ca-verify-deletion)E. Notice at Collection of Personal Information  
+F. Notice of Right to Opt-Out of Sale of Personal Information  
+[G. Notice of Financial Incentive](#ca-financial-incentive)
 
-**Section 1: General Privacy Practices**
+[**Section 3: Additional Information for Nevada Residents**](#section-3)  
 
-1. **Personal Information We Collect About You**
+[**Section 4: Additional Information for Oregon, Texas, Utah and Virginia Residents**](#section-4)
+
+[**Section 5: Text Opt-In Information**](#section-5)
+
+### **Section 1: General Privacy Practices**
+
+**A. Personal Information We Collect About You**
 
 Alpha Media collects personal information—which is information that identifies you. We collect personal information from and about you. This section explains the categories of information we collect, as well as the sources from which we collect that information and the purposes for which we collect it.
 
@@ -158,15 +167,15 @@ Alpha Media collects personal information—which is information that identifies
 –  Entities that acquire us or all or substantially all of our assets, or assets related to our Services, or entities that engage in due diligence to consider doing so;  
 –  Law enforcement
 
-1. **Cookies and Online Tracking**
+**B. Cookies and Online Tracking**
 
 Our Services use a variety of online tracking devices or technologies, including log files, device identifiers (like mobile advertising identifiers), location information, cookies, pixel tags (also called web beacons or tracking beacons), and analytics services. We or our third-party partners or service providers may place cookies (which are small text files) on your device for a variety of reasons, including for security and to optimize your interaction on our Services. You may be able to opt-out of the use of certain cookies, although doing so may limit certain features on our Services. See [Your Choices below for more information on how to customize your cookie options.](https://www.alphamediausa.com/privacy-policy/#choices)
 
-1. **Personalized Advertising**
+**C. Personalized Advertising**
 
 We partner with various third parties to provide personalized content to you when you visit our Services. This may include advertising content from our partners. If you interact with certain advertising on our Services, the third-party partner may place a cookie on your device to collect information about you. These cookies may track your activities beyond our Services. We do not control the privacy practices of these third parties.
 
-1. **Your Choices**
+**D. Your Choices**
 
 **_Cookies and Online Tracking_**. You can modify your cookie settings on your browser. If you delete or choose not to accept our cookies, certain features of our Services may not work as intended or be optimized or personalized.  
 **_Online Behavioral Advertising._** You may opt-out of certain online behavioral advertising practices on our Services and on third-party sites and apps using the following programs and tools: (1) Digital Advertising Alliance (DAA), http://www.aboutads.info/appchoices/ and http://optout.aboutads.info, and/or (2) http://www.networkadvertising.org/choices/.  
@@ -175,19 +184,23 @@ We partner with various third parties to provide personalized content to you whe
 **_Do Not Track._** Our systems are not configured to recognize or respond to Do Not Track headers or signals.  
 **_State-specific choices_**. Residents of certain states have additional choices, which are explained in Section 2-4 below.
 
-1. **Security Safeguards**
+**F. Security Safeguards**
 
 Alpha uses reasonable and appropriate measures designed to protect your personal information. But we cannot guarantee the security of your information because no security measures are 100% effective.
 
-1. **Amendments to Privacy Policy**
+**G.** **Data Retention**
+
+Unless otherwise required by law, it is our policy to not retain Personal Information for longer than is reasonably necessary to achieve the purpose for which it was collected. The criteria we use to determine specific retention periods include: the type of data; whether there are other legal grounds for the continued processing; and whether retention or deletion is necessary to comply with legal obligations.
+
+**H. Amendments to Privacy Policy**
 
 Any changes we may make to our Privacy Policy will be posted here. Please check this Privacy Policy frequently. If you do not agree or consent to these changes, do not continue to use our Services.
 
-1. **Contact Information**
+**I. Contact Information**
 
 If you have any questions or concerns about the content in this Privacy Policy or our privacy practices, please contact us at: [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection).
 
-#### **Section 2: Privacy Notice for California Residents**
+### **Section 2: Privacy Notice for California Residents**
 
 _This section only applies to California residents. The notices and rights in this section do not extend to individuals who are not California residents._
 
@@ -225,7 +238,7 @@ _–_ _Financial_ _Information._ When needed to process a transaction, such as 
 –  For purposes disclosed at the time you provide your information or otherwise with your consent.  
 –  We may also sell your information for one of above-listed purposes, see [Sale of Personal Information.](https://www.alphamediausa.com/privacy-policy/#sale)
 
-1. **Consumer Rights Under California Law**
+**A. Consumer Rights Under California Law**
 
 **_Right to Know._**  California residents have the right to request that Alpha disclose what information we have collected, used, disclosed, or sold about you. Once we receive and confirm your verifiable consumer request for such information, we may disclose to you, based on your specific request:  
 –  The categories of personal information we collected about you;  
@@ -258,7 +271,7 @@ We may, however, offer you certain financial incentives permitted by the CCPA. P
 
 **_California Shine the Light Rights._** Under California’s Shine the Light law, California residents may request certain details about how their information is shared with third-parties for direct marketing purposes.
 
-1. **How California Residents Can Exercise Their Rights**
+**B. How California Residents Can Exercise Their Rights**
 
 You or your authorized agent may submit a verifiable consumer request using the contact information listed below.
 
@@ -271,13 +284,13 @@ Call us at 866-593-4937;
 Fill out this [form](https://www.alphamediausa.com/ccpa-opt-out/); or  
 Email us at [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
 
-1. **How We Verify California Residents’ Requests to Know/Requests for Access and Requests for Deletion**
+**C. How We Verify California Residents’ Requests to Know/Requests for Access and Requests for Deletion**
 
 We will not respond to certain consumer requests unless we can verify your identity to a reasonable degree of certainty. To verify your identity, when feasible, we will use information about you that we already have; however, we may need to request additional information, which we will use only for the purposes of verification. We may also use a third-party identity verification service.
 
 The information we need to verify your request will depend on the nature and scope of your request. Upon receipt of your request, we will notify you if we need additional information from you to verify your request.
 
-1. **Notice of Financial Incentive**
+**D. Notice of Financial Incentive**
 
 This Notice of Financial Incentive is part of Alpha’s [Privacy Policy](https://www.alphamediausa.com/privacy-policy/) and includes an explanation of financial incentives we offer California residents. This Notice of Financial Incentive applies solely to California residents (“California consumers” or “you”). We adopt this Notice of Financial Incentive in accordance with the California Consumer Privacy Act of 2018 (“CCPA”) and any terms defined in the CCPA have the same meaning when used in this Notice of Financial Incentive.
 
@@ -289,33 +302,31 @@ Call us at 866-593-4937;
 Fill out this [form](https://www.alphamediausa.com/ccpa-opt-out/); or  
 Email us at [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
 
-**Section 3: Additional Information for Nevada Residents**
+### **Section 3: Additional Information for Nevada Residents**
 
 This section of the Privacy Policy only applies to residents of Nevada. If you are not a resident of Nevada, this section does not apply to you. Terms that are capitalized are defined in the Nevada law.
 
 As defined under Nevada law, we do not sell Covered Information.  However, Nevada Consumers may submit a verified request at any time directing that we not make any Sale of any Covered Information that we have collected or will collect about the consumer, as defined under the Nevada law. To submit such a request, you can email [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
 
-**Section 4: Additional Information for Virginia Residents**
+### **Section 4: Additional Information for Oregon, Texas, Utah and Virginia Residents**
 
-This section of the Privacy Policy only applies to residents of Virginia. If you are not a resident of Virginia, this section does not apply to you. Terms that are capitalized are defined in the Virginia law.
+This section of the Privacy Policy only applies to residents of Oregon, Texas, Utah, and Virginia. If you are not a resident of one of these states, this section does not apply to you. 
 
-Pursuant Virginia’s Consumer Data Protection Act, as amended (“VCDPA”), Virginia residents may have certain data privacy rights. This section describes your rights under the VCDPA and supplements our privacy policy. 
+Residents of these states may have certain data privacy rights. This section describes your rights under relevant laws and supplements our privacy policy.
 
-Your Virginia Rights: If you are a resident of Virginia, you have the following consumer rights:  
+**Right of Access.** You may confirm whether or not we are processing your personal information and access such personal information; 
 
-**Right of Access.** Virginia residents may confirm whether or not we are processing your personal information and access such personal information; 
+**Right of Correction**. You have the right to correct personal data that is inaccurate; 
 
-**Right of Correction**. Virginia residents have the right to correct personal data that is inaccurate; 
+**Right of Deletion.** You have the right to delete your personal information; 
 
-**Right of Deletion.** Virginia residents have the right to delete your personal information; 
+**Right of Portability**. You have the right to obtain a copy of your personal information that you have previously provided to us; and 
 
-**Right of Portability**. Virginia residents have the right to obtain a copy of your personal information that you have previously provided to us; and 
+**Right to Opt-Out.**  You have the right to opt-out of targeted advertising, the sale of personal information, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you
 
-**Right to Opt-Out.**  Virginia residents have the right to opt-out of targeted advertising, the sale of personal information, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you
+**Targeted Advertising:**  We use digital technologies, including online identifiers, to provide you with personalized advertisements. We may disclose these online identifiers to our advertising partners. Under relevant laws, this is considered to be a Targeted Advertising and you have the right to opt-out of this processing [here](https://www.987thebull.com/notice-of-right-to-opt-out).
 
-Targeted Advertising:  We use digital technologies, including online identifiers, to provide you with personalized advertisements.  We may disclose these online identifiers to our advertising partners. The VCDPA considers this to be a Targeted Advertising and Virginia residents have the right to opt-out of this processing [here](https://www.987thebull.com/notice-of-right-to-opt-out).
-
-Additionally, we may share your information with co-sponsors of our contests and promotions, which also could be considered a Sale under the VCDPA.  To opt-out of this sharing of your information or to exercise your other rights, please contact us using one of the methods listed below. 
+Additionally, we may share your information with co-sponsors of our contests and promotions, which also could be considered a Sale under relevant laws. To opt-out of this sharing of your information or to exercise your other rights, please contact us using one of the methods listed below.
 
 Call us at 866-593-4937;  
 Fill out this [form](https://www.alphamediausa.com/ccpa-opt-out/); or  
@@ -325,9 +336,9 @@ We will not respond to certain consumer requests unless we can verify your ident
 
 The information we need to verify your request will depend on the nature and scope of your request. Upon receipt of your request, we will notify you if we need additional information from you to verify your request.
 
-If we cannot verify your identity, we may deny your request in whole or in part. Under the VCDPA, you may appeal our decision with regard to your request. To do so, please send an email to [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection), with the word “Appeal” in the subject line. 
+If we cannot verify your identity, we may deny your request in whole or in part. You may appeal our decision with regard to your request. To do so, please send an email to [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection), with the word “Appeal” in the subject line.
 
-**Section 5: Text Opt-In Information**
+### **Section 5: Text Opt-In Information**
 
 Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
@@ -336,36 +347,13 @@ Recently Played
 
 |     |
 | --- |
-| HurricaneLuke Combs<br><br>3:47am |
-| White HorseChris Stapleton<br><br>3:37am |
-| Called CrazyKassi Ashton<br><br>3:33am |
-| Thinkin 'Bout MeMorgan Wallen<br><br>3:31am |
-| Hey DriverZach Bryan Ft The War And Treaty<br><br>3:27am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:54pm |
+| Blue TacomaRussell Dickerson<br><br>5:50pm |
+| Different 'Round HereRiley Green Ft Luke Combs<br><br>5:48pm |
+| She'S Somebody'S DaughterDrew Baldridge<br><br>5:44pm |
+| Singles You UpJordan Davis<br><br>5:41pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
-
-* * *
-
-You Might Also Like
--------------------
-
-![Morgan Wallen  Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/wp-content/uploads/2023/09/Morgan-Wallen-2-Radio-Promo-Pic-640x400.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Morgan Wallen Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/morgan-wallen-foundation-makes-massive-donation-to-hometown/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-13/Getty_ScottyMcCreeryTurqoiseTshirt.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Scotty McCreery's certain he doesn't want to be a judge on 'American Idol'](https://www.987thebull.com/scotty-mccreerys-certain-he-doesnt-want-to-be-a-judge-on-american-idol/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-11/M_JellyRollPerformanceAmericanIdol2024DisneyEricMcCandless.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll takes "Halfway to Hell" to #1](https://www.987thebull.com/jelly-roll-takes-halfway-to-hell-to-1/)
-
-* * *
 
 [![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/)
 
@@ -382,10 +370,10 @@ You Might Also Like
     If you have a disability preventing you from viewing this file, please contact [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
     
 * [FCC Applications](https://www.987thebull.com/fcc-applications)
-* [Cookie Preference](#cc-settings)
-* [CA Residents: Privacy Notice at Collection of Personal Information](https://www.987thebull.com/privacy-policy#caresidents)
-* [CA Residents: Privacy Notice of Financial Incentive](https://www.987thebull.com/privacy-policy#caincentive)
-* [CA/VA Residents: Do Not Sell Or Share My Personal Information](https://www.987thebull.com/notice-of-right-to-opt-out)
+* [Cookie Preferences](#cc-settings)
+* [![](https://www.987thebull.com/wp-content/themes/blacklab/assets/img/svg/privacyoptions.svg)Your Privacy Choices](https://www.987thebull.com/notice-of-right-to-opt-out)
+* [CA Residents: Notice at Collection](https://www.987thebull.com/privacy-policy/#section-2)
+* [CA Residents: Privacy Notice of Financial Incentive](https://www.987thebull.com/privacy-policy/#ca-financial-incentive)
 
 Discover Brands By...
 ---------------------
@@ -507,14 +495,6 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -522,6 +502,14 @@ Spanish • Western
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
