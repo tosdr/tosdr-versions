@@ -7,21 +7,14 @@
 
 Subscribe
 
-[#### Parenthood](https://www.healthline.com/parenthood)
+[#### Sexual Health](https://www.healthline.com/sexual-health)
 
-* Stages
-    
-    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
-    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
-    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
-    * [Baby](https://www.healthline.com/parenthood/baby)
-    * [Toddler](https://www.healthline.com/parenthood/toddler)
-    
-* [Fertility](https://www.healthline.com/parenthood/fertility)
-* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
-* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
-* [Relationships](https://www.healthline.com/parenthood/relationships)
-* [Products](https://www.healthline.com/parenthood/products-gear)
+* [Birth control](https://www.healthline.com/sexual-health/birth-control)
+* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
+* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
+* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
+* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
+* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
 
 Privacy Policy
 ==============
