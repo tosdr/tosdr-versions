@@ -435,6 +435,11 @@ Location of Processing: **US, EU**
 Contact person’s name, position and contact details: **Alchemer can request from Subprocessor**  
 Description of processing (including a clear delimitation of responsibilities in case several sub-processors are authorised): **AI analysis of response data (data respondent responses to survey questions)**
 
+Data Privacy Framework (DPF)
+----------------------------
+
+Alchemer is a participant in the Data Privacy Framework Program (DPF) and is committed to remaining compliant with its requirements. Alchemer self-certifies that it is currently compliant with the DPF.
+
 Data archiving / Deletion
 -------------------------
 
@@ -487,7 +492,7 @@ As we are constantly improving our services and expanding our business, we reser
 
 Effective: May 25, 2018
 
-Updated:  April 23, 2024
+Updated:  July 2, 2024
 
 [![](https://www.alchemer.com/wp-content/uploads/2022/12/alchemer-gold-logo.png)](https://www.alchemer.com/)
 
@@ -518,6 +523,12 @@ Compare Alchemer
 [Alchemer vs. Qualtrics](https://www.alchemer.com/alchemer-vs-qualtrics/)
 
 [Alchemer vs. Survey Monkey](https://www.alchemer.com/alchemer-vs-survey-monkey/)
+
+[Alchemer vs. Medallia](https://www.alchemer.com/alchemer-vs-medallia/)
+
+[Alchemer vs. Forsta](https://www.alchemer.com/alchemer-vs-forsta/)
+
+[Alchemer vs. QuestionPro](https://www.alchemer.com/alchemer-vs-questionpro/)
 
 [![The Denver Post Top Workplace Award 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201222%20622'%3E%3C/svg%3E)
 
@@ -553,7 +564,7 @@ Request a demo so you can see what’s possible for your organization.
 
 [×](#)
 
-                                 
+                                  
 
 Close GDPR Cookie Settings
 
