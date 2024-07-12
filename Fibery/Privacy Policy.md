@@ -2,7 +2,7 @@
 
 +[AI Now!](https://fibery.io/ai)
 
-Solutions
+Use cases
 
 [Feedback  
 managementCentralize feedback in one place, link it to features with the help of AI, and close the feedback loop once the feature goes live.](https://fibery.io/feedback-management)
@@ -44,7 +44,7 @@ Resources
 
 •••
 
-Solutions
+Use cases
 
 [Feedback management](https://fibery.io/feedback-management "Feedback management solution")
 
@@ -395,9 +395,13 @@ Inspired by inventors
 
 Product discovery & development platform
 
-Rated 4.8 on [G2](https://www.g2.com/products/fibery/reviews) and [Capterra](https://www.capterra.com/p/210658/Fibery/#reviews)[](https://www.g2.com/products/fibery/reviews)[](https://www.capterra.com/p/210658/Fibery/#reviews)
+Rated 4.8 on [G2](https://www.g2.com/products/fibery/reviews) and [Capterra](https://www.capterra.com/p/210658/Fibery/#reviews)
 
-Solutions
+[Enterprise-level security](https://fibery.io/security)
+
+[![SOC 2 Compliance](/img/policies/soc2.png)](https://fibery.io/security)[![GDPR](/img/policies/gdpr.png)](https://fibery.io/security)
+
+Use cases
 
 [Feedback management](https://fibery.io/feedback-management "Feedback management solution")
 
