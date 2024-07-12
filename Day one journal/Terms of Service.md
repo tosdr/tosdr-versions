@@ -321,6 +321,7 @@ You will not distribute, publish, send, or facilitate the sending of unsolicited
     * [About Day One](https://dayoneapp.com/about/)
     * [Privacy Pledge](https://dayoneapp.com/privacy-pledge/)
     * [Blog](https://dayoneapp.com/blog/)
+    * [Release Notes](https://dayoneapp.com/guides/release-notes/)
     * [Press](https://dayoneapp.com/press/)
     * [Partner With Us](https://dayoneapp.com/partnerships/)
 * [Help](#)
