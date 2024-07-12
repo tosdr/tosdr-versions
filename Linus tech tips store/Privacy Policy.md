@@ -6,6 +6,8 @@ Accept & Dismiss
 
 [Skip to content](#MainContent)
 
+[LIME DAY is almost here! Sign up to get first dibs on some of our biggest deals of the year](https://www.lttstore.com/pages/lime-day)
+
 New orders are expected to ship by
 
      
@@ -40,7 +42,7 @@ New orders are expected to ship by
     * [Jackets](https://www.lttstore.com/jackets)
     * [Bottoms](https://www.lttstore.com/bottoms)
     
-    * [Pants](https://www.lttstore.com/pants)
+    * [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=manual)
     * [Shorts](https://www.lttstore.com/shorts)
     * [Unisex](https://www.lttstore.com/unisex)
     
@@ -77,7 +79,7 @@ New orders are expected to ship by
     
     [Tops](https://www.lttstore.com/tops) [T-Shirts](https://www.lttstore.com/tshirts) [Sweaters](https://www.lttstore.com/sweaters) [Long Sleeves](https://www.lttstore.com/long-sleeves) [Jackets](https://www.lttstore.com/jackets)
     
-    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/pants) [Shorts](https://www.lttstore.com/shorts)
+    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=manual) [Shorts](https://www.lttstore.com/shorts)
     
     [Unisex](https://www.lttstore.com/unisex) [Mens](https://www.lttstore.com/mens) [Womens](https://www.lttstore.com/womens) [Underwear](https://www.lttstore.com/underwear) [Headwear](https://www.lttstore.com/headwear)
     
@@ -271,7 +273,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/110/assets/ltt-logo.svg?v=133296236752336137041717631269)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/112/assets/ltt-logo.svg?v=133296236752336137041719943538)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
