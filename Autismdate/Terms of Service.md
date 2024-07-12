@@ -98,7 +98,7 @@ You agree with the Dutch Law of May 15, 1829, laying down general provisions of 
 **Refund Policy**  
   
 Autism Date will issue a refund within 72 hours if premium access has been provided and none of the Services have been utilized. Beyond these conditions, requests for refunds will be at the sole discretion of Autism Date and will be reviewed on a member to member basis.  
-If you want a refund, please contact us on info@autismdate.com.  
+If you want a refund, please contact us on [\[email protected\]](https://www.autismdate.com/cdn-cgi/l/email-protection).  
   
   
 **Copyright Policy**  
