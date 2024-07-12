@@ -1,10 +1,8 @@
-         [Skip to content](#main-content)
+          [Skip to content](#main-content)
 
-[Prime Access to Health: Dante Genome Test for €199](https://dantelabs.com/products/whole-genome-sequencing)
+[Enjoy Dante Days Offer + 10% Off Your Next Purchase!](https://dantelabs.com/products/whole-genome-sequencing)
 
-[Prime Access to Health: Dante Genome + All Panels for €299](https://www.dantelabs.com/products/whole-genome-sequencing?variant=41346146304135)
-
-[Prime Access to Health: All Panels for €199](https://dantelabs.com/products/all-panels-package)
+[Exclusive Bundle: Dante Premium + All Panels + 3 Years of Updates at 40% off!](https://www.dantelabs.com/products/whole-genome-sequencing?variant=41734309118087)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
