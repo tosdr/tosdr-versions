@@ -1,15 +1,15 @@
-Friday, June 21 2024
+Friday, July 12 2024
 
 Breaking News
 
-* [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
-* [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
-* [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
-* [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
-* [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
-* [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
-* [Huge Percentage Of EV Owners Want To Go Back To Normal Cars, Study Finds](https://www.conservativedailynews.com/2024/06/huge-percentage-of-ev-owners-want-to-go-back-to-normal-cars-study-finds/)
-* [Wealthy Liberals Barrel Ahead With Plans To Block The Sun](https://www.conservativedailynews.com/2024/06/wealthy-liberals-barrel-ahead-with-plans-to-block-the-sun/)
+* [World’s Most Populous Nation Has Put Solar Out To Pasture. Other Countries Should Follow Suit](https://www.conservativedailynews.com/2024/07/worlds-most-populous-nation-has-put-solar-out-to-pasture-other-countries-should-follow-suit/)
+* [US Army Base Holds Training Class Calling Pro-Life Orgs ‘Terrorist Groups’](https://www.conservativedailynews.com/2024/07/us-army-base-holds-training-class-calling-pro-life-orgs-terrorist-groups/)
+* [Radio Station Says Biden Campaign Pressured It Into Editing Biden Interview After He Used The Term ‘Blacks’](https://www.conservativedailynews.com/2024/07/radio-station-says-biden-campaign-pressured-it-into-editing-biden-interview-after-he-used-the-term-blacks/)
+* [Judge Throws Out Blue City’s Climate Case Against Oil Giants](https://www.conservativedailynews.com/2024/07/judge-throws-out-blue-citys-climate-case-against-oil-giants/)
+* [Pentagon Schools Encouraged Students To Be Left-Wing Activists, Pushed DEI On Kids And Teachers, Docs Show](https://www.conservativedailynews.com/2024/07/pentagon-schools-encouraged-students-to-be-left-wing-activists-pushed-dei-on-kids-and-teachers-docs-show/)
+* [Democrats Have Mastered The Art Of Inflation](https://www.conservativedailynews.com/2024/07/democrats-have-mastered-the-art-of-inflation/)
+* [Dems Don’t Care For Marriage All That Much, Survey Reveals](https://www.conservativedailynews.com/2024/07/dems-dont-care-for-marriage-all-that-much-survey-reveals/)
+* [Trump’s Tariffs Would Not Reignite Inflation](https://www.conservativedailynews.com/2024/07/trumps-tariffs-would-not-reignite-inflation/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -103,82 +103,82 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/07/house-passes-bill-aiming-to-keep-illegal-immigrants-from-voting/)
     
-    [The Democratic Subversion of Democracy](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
+    [House Passes Bill Aiming To Keep Illegal Immigrants From Voting](https://www.conservativedailynews.com/2024/07/house-passes-bill-aiming-to-keep-illegal-immigrants-from-voting/)
     
-    June 19, 2024
+    July 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+* [![Biden energy policy](https://www.conservativedailynews.com/wp-content/uploads/2023/03/mrz030523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/bidens-signature-policies-likely-to-supercharge-your-electricity-bill-banking-giant-says/)
     
-    [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+    [Biden’s Signature Policies Likely To Supercharge Your Electricity Bill, Banking Giant Says](https://www.conservativedailynews.com/2024/07/bidens-signature-policies-likely-to-supercharge-your-electricity-bill-banking-giant-says/)
     
-    June 19, 2024
+    July 8, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/05/Solar-grid-India-220x150.jfif)](https://www.conservativedailynews.com/2024/07/worlds-most-populous-nation-has-put-solar-out-to-pasture-other-countries-should-follow-suit/)
     
-    [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+    [World’s Most Populous Nation Has Put Solar Out To Pasture. Other Countries Should Follow Suit](https://www.conservativedailynews.com/2024/07/worlds-most-populous-nation-has-put-solar-out-to-pasture-other-countries-should-follow-suit/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![Joe Biden wind energy renewable green](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-60-220x150.png)](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/07/us-army-base-holds-training-class-calling-pro-life-orgs-terrorist-groups/)
     
-    [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+    [US Army Base Holds Training Class Calling Pro-Life Orgs ‘Terrorist Groups’](https://www.conservativedailynews.com/2024/07/us-army-base-holds-training-class-calling-pro-life-orgs-terrorist-groups/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5144-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/Oops-mistake-shock-1.png)](https://www.conservativedailynews.com/2024/07/radio-station-says-biden-campaign-pressured-it-into-editing-biden-interview-after-he-used-the-term-blacks/)
     
-    [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+    [Radio Station Says Biden Campaign Pressured It Into Editing Biden Interview After He Used The Term ‘Blacks’](https://www.conservativedailynews.com/2024/07/radio-station-says-biden-campaign-pressured-it-into-editing-biden-interview-after-he-used-the-term-blacks/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Gavin-Newsom-2.png)](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/07/judge-throws-out-blue-citys-climate-case-against-oil-giants/)
     
-    [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+    [Judge Throws Out Blue City’s Climate Case Against Oil Giants](https://www.conservativedailynews.com/2024/07/judge-throws-out-blue-citys-climate-case-against-oil-giants/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![Mayorkas illegal immigration](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv062124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/victims/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/07/pentagon-schools-encouraged-students-to-be-left-wing-activists-pushed-dei-on-kids-and-teachers-docs-show/)
     
-    [Victims](https://www.conservativedailynews.com/2024/06/victims/)
+    [Pentagon Schools Encouraged Students To Be Left-Wing Activists, Pushed DEI On Kids And Teachers, Docs Show](https://www.conservativedailynews.com/2024/07/pentagon-schools-encouraged-students-to-be-left-wing-activists-pushed-dei-on-kids-and-teachers-docs-show/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/image-8-220x150.png)](https://www.conservativedailynews.com/2024/07/democrats-have-mastered-the-art-of-inflation/)
     
-    [Why the Left Hates It When You Point Out We’re ‘a Republic, Not a Democracy’](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+    [Democrats Have Mastered The Art Of Inflation](https://www.conservativedailynews.com/2024/07/democrats-have-mastered-the-art-of-inflation/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![Camp David](https://www.conservativedailynews.com/wp-content/uploads/2017/06/Camp-David.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/couple-talking.jpg)](https://www.conservativedailynews.com/2024/07/dems-dont-care-for-marriage-all-that-much-survey-reveals/)
     
-    [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+    [Dems Don’t Care For Marriage All That Much, Survey Reveals](https://www.conservativedailynews.com/2024/07/dems-dont-care-for-marriage-all-that-much-survey-reveals/)
     
-    June 21, 2024
+    July 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/Tariffs.jpg)](https://www.conservativedailynews.com/2024/07/trumps-tariffs-would-not-reignite-inflation/)
     
-    [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+    [Trump’s Tariffs Would Not Reignite Inflation](https://www.conservativedailynews.com/2024/07/trumps-tariffs-would-not-reignite-inflation/)
     
-    June 20, 2024
+    July 11, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [New: Federal Field & Range Gun Cases](https://www.thegunpage.com/new-federal-field-range-gun-cases/10608901)
-* [NRA President Bob Barr To Speak At 2024 Daisy BB Gun Nationals Opening Ceremony](https://www.thegunpage.com/nra-president-bob-barr-to-speak-at-2024-daisy-bb-gun-nationals-opening-ceremony/10608897)
-* [New: Smith & Wesson Model 1854 With Walnut Furniture](https://www.thegunpage.com/new-smith-wesson-model-1854-with-walnut-furniture/10608894)
-* [An Abbreviated Competition Program: 1941 National Matches](https://www.thegunpage.com/an-abbreviated-competition-program-1941-national-matches/10608893)
-* [USA Shooting: Shotgun Team Claims Four Medals At Final World Cup Before Paris 2024 Olympics](https://www.thegunpage.com/usa-shooting-shotgun-team-claims-four-medals-at-final-world-cup-before-paris-2024-olympics/10608890)
-* [Violent crime skyrocketing under Biden, according to Biden’s favorite data source](https://www.thegunpage.com/violent-crime-skyrocketing-under-biden-according-to-bidens-favorite-data-source/10608886)
-* [NRA World Shooting Championship: The Experience](https://www.thegunpage.com/nra-world-shooting-championship-the-experience/10608885)
-* [ISSF Lonato World Cup: Vincent Hancock, Austen Smith Win Skeet Mixed Team Gold](https://www.thegunpage.com/issf-lonato-world-cup-vincent-hancock-austen-smith-win-skeet-mixed-team-gold/10608882)
-* [Even the CDC admits its latest anti-gun report is misleading and full of holes](https://www.thegunpage.com/even-the-cdc-admits-its-latest-anti-gun-report-is-misleading-and-full-of-holes/10608875)
-* [Hillsdale College, USA Shooting Celebrate Partnership](https://www.thegunpage.com/hillsdale-college-usa-shooting-celebrate-partnership/10608881)
+* [CZ 99 – A Good Pistol Developed in a Bad Time](https://www.thegunpage.com/cz-99-a-good-pistol-developed-in-a-bad-time/10609215)
+* [POTD: Finnish Conscripts Train with U.S. Service Weapons](https://www.thegunpage.com/potd-finnish-conscripts-train-with-u-s-service-weapons/10609216)
+* [Concealed Carry Corner: Switching Your Carry Gun Too Often](https://www.thegunpage.com/concealed-carry-corner-switching-your-carry-gun-too-often/10609217)
+* [Lone Star Armory: An Inside Look At Premium Firearms Manufacturing](https://www.thegunpage.com/lone-star-armory-an-inside-look-at-premium-firearms-manufacturing-2/10609213)
+* [Vista Outdoors Board Recommends Selling Ammo Business To CSG](https://www.thegunpage.com/vista-outdoors-board-recommends-selling-ammo-business-to-csg/10609209)
+* [Century Arms Centurion 11: Affordable 1911 Action](https://www.thegunpage.com/century-arms-centurion-11-affordable-1911-action/10609210)
+* [Pistol And Smallbore Only: 1947 National Matches](https://www.thegunpage.com/pistol-and-smallbore-only-1947-national-matches/10609211)
+* [TFB Behind The Gun Podcast #123: Guns at Lynx Brutality w/ Les Winner](https://www.thegunpage.com/tfb-behind-the-gun-podcast-123-guns-at-lynx-brutality-w-les-winner/10609203)
+* [Interview with SIG's CEO Ron Cohen: Wins, Controversies, and Drones?](https://www.thegunpage.com/interview-with-sigs-ceo-ron-cohen-wins-controversies-and-drones/10609204)
+* [2024 Daisy BB Gun Nationals: Promoting The Spirit Of Competition](https://www.thegunpage.com/2024-daisy-bb-gun-nationals-promoting-the-spirit-of-competition/10609208)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,15 +220,15 @@ Contact Us
 
 Recent Comments
 
-* James Martin on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775837)
-* KayCee on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775781)
-* KayCee on [If You Don’t Want To Be Killed, Don’t Take Hostages](https://www.conservativedailynews.com/2024/06/if-you-dont-want-to-be-killed-dont-take-hostages/#comment-775704)
-* Jeff L. on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775675)
-* [Capt. Bligh](https://obbop.wordpress.com/) on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775668)
-* KayCee on [Cortez Claims Trump Will Throw Her In Jail](https://www.conservativedailynews.com/2024/06/cortez-claims-trump-will-throw-her-in-jail/#comment-775642)
-* KayCee on [Wise Guys](https://www.conservativedailynews.com/2024/06/wise-guys/#comment-775638)
-* KayCee on [Major Automaker Throws Hail Mary As It Hemorrhages Cash On Electric Vehicles](https://www.conservativedailynews.com/2024/06/major-automaker-throws-hail-mary-as-it-hemorrhages-cash-on-electric-vehicles/#comment-775637)
-* KayCee on [Red Lights Are Flashing As Biden Ignores Them](https://www.conservativedailynews.com/2024/06/red-lights-are-flashing-as-biden-ignores-them/#comment-775636)
+* KayCee on [Let’s Talk About Transparency, Then We Can Talk About The President](https://www.conservativedailynews.com/2024/07/lets-talk-about-transparency-then-we-can-talk-about-the-president/#comment-776675)
+* KayCee on [COVID Commission Lays Out Ways US Could Recoup Trillions In Pandemic Damages From China](https://www.conservativedailynews.com/2024/07/covid-commission-lays-out-ways-us-could-recoup-trillions-in-pandemic-damages-from-china/#comment-776674)
+* KayCee on [Will ‘Senility-Gate’ Force Biden To Resign?](https://www.conservativedailynews.com/2024/07/will-senility-gate-force-biden-to-resign/#comment-776673)
+* KayCee on [Joe Biden Just Destroyed Himself and the Media](https://www.conservativedailynews.com/2024/07/joe-biden-just-destroyed-himself-and-the-media/#comment-776528)
+* Jeff L. on [The Democrat News-Media Colluding Comedians](https://www.conservativedailynews.com/2024/07/the-democrat-news-media-colluding-comedians/#comment-776388)
+* Jeff L. on [The Democrat News-Media Colluding Comedians](https://www.conservativedailynews.com/2024/07/the-democrat-news-media-colluding-comedians/#comment-776387)
+* Dr. Ramón Argila de Torres y Sandoval on [America In The Age Of Stupidity: It’s Time To Stop Making Fun Of Joe Biden](https://www.conservativedailynews.com/2024/07/america-in-the-age-of-stupidity-its-time-to-stop-making-fun-of-joe-biden/#comment-776357)
+* RichWall on [America In The Age Of Stupidity: It’s Time To Stop Making Fun Of Joe Biden](https://www.conservativedailynews.com/2024/07/america-in-the-age-of-stupidity-its-time-to-stop-making-fun-of-joe-biden/#comment-776340)
+* [ROBERT DAVI](http://thehill/) on [Who Is Running This Show](https://www.conservativedailynews.com/2024/07/who-is-running-this-show-2/#comment-776328)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
