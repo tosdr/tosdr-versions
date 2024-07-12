@@ -309,7 +309,7 @@ Contact
 
 Search  
 
-* [Follow on Twitter](https://twitter.com/lexology)
+* [Follow on X](https://x.com/lexology)
 * [Follow on LinkedIn](https://www.linkedin.com/company/lexology)
 
 [© Copyright 2006 - 2024 Law Business Research](https://www.lexology.com/Copyright)
