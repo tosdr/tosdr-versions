@@ -18,7 +18,15 @@ For exclusive announcement and offers
     
     [Auto Attendant](https://www.magicjackforbusiness.com/features/auto-attendant/) [Virtual Fax](https://www.magicjackforbusiness.com/features/virtual-fax/) [VoIP Phones](https://www.magicjackforbusiness.com/phones/) [Mobile App](https://www.magicjackforbusiness.com/mobile-app/) [Desktop App](https://www.magicjackforbusiness.com/desktop-app/) [Accessories](https://www.magicjackforbusiness.com/accessories/) [See All Features](https://www.magicjackforbusiness.com/features/)
     
+* [Features](#)
+    
+    [Auto Attendant](https://www.magicjackforbusiness.com/features/auto-attendant/) [Virtual Fax](https://www.magicjackforbusiness.com/features/virtual-fax/) [VoIP Phones](https://www.magicjackforbusiness.com/phones/) [Mobile App](https://www.magicjackforbusiness.com/mobile-app/) [Desktop App](https://www.magicjackforbusiness.com/desktop-app/) [Accessories](https://www.magicjackforbusiness.com/accessories/) [See All Features](https://www.magicjackforbusiness.com/features/)
+    
 * [Pricing](https://www.magicjackforbusiness.com/pricing/)
+* [Resources](#)
+    
+    [Support](https://faq.magicjackforbusiness.com/s/) [Product Help](https://www.magicjackforbusiness.com/product-help/) [Case Studies](https://www.magicjackforbusiness.com/case-studies/) [Blog](https://www.magicjackforbusiness.com/blog/)
+    
 * [Resources](#)
     
     [Support](https://faq.magicjackforbusiness.com/s/) [Product Help](https://www.magicjackforbusiness.com/product-help/) [Case Studies](https://www.magicjackforbusiness.com/case-studies/) [Blog](https://www.magicjackforbusiness.com/blog/)
