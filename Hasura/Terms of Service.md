@@ -1,6 +1,6 @@
-[Is GraphQL dead? We debate on this month's Community Call. Join us on 6/27](https://hasura.io/events/community-call/2024/june?utm_campaign=2024-06-community-call&utm_source=&utm_medium=website&utm_content=)
+[Webinar: How good subgraphs lead to great GraphQL federation. Register now](https://hasura.io/events/webinar/good-subgraphs-lead-to-great-graphql-federation?utm_campaign=2024-07-wb-sub-good-subgraphs-lead-to-great-graphql-federation&utm_source=hasura&utm_medium=website&utm_content=top-cta)
 
-[](https://hasura.io/)
+[![](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
 /
 
