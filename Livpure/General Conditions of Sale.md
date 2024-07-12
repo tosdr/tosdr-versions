@@ -1,6 +1,4 @@
-□
-
-           Sales Return Policy – Livpure                                                   Sales Return Policy                                  [Skip to content](#MainContent)
+[Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
@@ -68,12 +66,10 @@ Snapmint | 0% EMI | No credit card needed
     Mattress
     
     * [Lumbar](https://www.livpure.com/products/lumbar)
-    * [Duos Versa: Reversible](https://www.livpure.com/products/duos-versa)
+    * [Duos: Reversible](https://www.livpure.com/products/duos-versa)
     * [Ortho CurvX](https://www.livpure.com/products/ortho-curvx)
     * [Ortho Luxe](https://www.livpure.com/products/ortho-luxe-orthopaedic-latex-mattress)
     * [Regal](https://www.livpure.com/products/regal)
-    * [Jeeva : Natural Mattress](https://www.livpure.com/products/jeeva-natural-mattress)
-    * [Mattress Grid Topper](https://www.livpure.com/products/mattress-grid-topper)
     * [Know more about Mattresses](https://www.livpure.com/pages/shop-by-collection)
     * [Mattress Buying Guide](https://www.livpure.com/pages/mattress-buying-guide)
     
@@ -130,12 +126,10 @@ Snapmint | 0% EMI | No credit card needed
 * Mattress
     
     * [Lumbar](https://www.livpure.com/products/lumbar)
-    * [Duos Versa: Reversible](https://www.livpure.com/products/duos-versa)
+    * [Duos: Reversible](https://www.livpure.com/products/duos-versa)
     * [Ortho CurvX](https://www.livpure.com/products/ortho-curvx)
     * [Ortho Luxe](https://www.livpure.com/products/ortho-luxe-orthopaedic-latex-mattress)
     * [Regal](https://www.livpure.com/products/regal)
-    * [Jeeva : Natural Mattress](https://www.livpure.com/products/jeeva-natural-mattress)
-    * [Mattress Grid Topper](https://www.livpure.com/products/mattress-grid-topper)
     * [Know more about Mattresses](https://www.livpure.com/pages/shop-by-collection)
     * [Mattress Buying Guide](https://www.livpure.com/pages/mattress-buying-guide)
     
@@ -373,16 +367,6 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 * Paytm
 * RuPay
 
-New to Livpure ?
-
-Create an account with us to view your order status online. Your details can also be saved for faster checkout.
-
-[SIGN UP TODAY](javascript:void(0))
-
-[ALREADY REGISTERED? SIGN IN](javascript:void(0))
-
-[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
-
 ★ Judge.me Reviews
 
 ### Let customers speak for us
@@ -470,6 +454,16 @@ Overall recommended product.
 Thank you for your valuable review. We are glad that you are loving our products. We would love to serve you again!
 
 123
+
+New to Livpure ?
+
+Create an account with us to view your order status online. Your details can also be saved for faster checkout.
+
+[SIGN UP TODAY](javascript:void(0))
+
+[ALREADY REGISTERED? SIGN IN](javascript:void(0))
+
+[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
 
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
