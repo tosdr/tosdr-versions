@@ -3,9 +3,25 @@
 [Skip to content](#content "Skip to content")
 
 * [Sign In](https://uk.backdrop.cloud/login)
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=1&strip=1&webp=1)UK](https://www.imperosoftware.com/contentkeeper/ "UK")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    * [![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=1&strip=1&webp=1)US](https://www.imperosoftware.com/us/contentkeeper/ "US")
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=2&strip=1&webp=1)
+    
+    UK](https://www.imperosoftware.com/contentkeeper/ "UK")
+    
+    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=2&strip=1&webp=1)
+        
+        US](https://www.imperosoftware.com/us/contentkeeper/ "US")
 
 * [Connect Login](https://connect.backdrop.cloud/)
 * [Company](#)
@@ -17,9 +33,9 @@
 * [Support](https://www.imperosoftware.com/impero-support/)
 * [Blog](https://www.imperosoftware.com/blog/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
 * [Education Products](#)
     
@@ -60,14 +76,30 @@
 
 [Book a demo](https://www.imperosoftware.com/book-a-demo/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
 [Demo](https://www.imperosoftware.com/book-a-demo/)
 
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=1&strip=1&webp=1)UK](https://www.imperosoftware.com/contentkeeper/ "UK")
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=1&strip=1&webp=1)US](https://www.imperosoftware.com/us/contentkeeper/ "US")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=2&strip=1&webp=1)
+    
+    UK](https://www.imperosoftware.com/contentkeeper/ "UK")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=2&strip=1&webp=1)
+    
+    US](https://www.imperosoftware.com/us/contentkeeper/ "US")
 * [Home](https://www.imperosoftware.com/)
 * [Sign In](https://uk.backdrop.cloud/login)
 * [Remote Access](#)
@@ -113,8 +145,24 @@
 
 ×
 
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=1&strip=1&webp=1)UK](https://www.imperosoftware.com/contentkeeper/ "UK")
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=1&strip=1&webp=1)US](https://www.imperosoftware.com/us/contentkeeper/ "US")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=2&strip=1&webp=1)
+    
+    UK](https://www.imperosoftware.com/contentkeeper/ "UK")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=2&strip=1&webp=1)
+    
+    US](https://www.imperosoftware.com/us/contentkeeper/ "US")
 * [Home](https://www.imperosoftware.com/)
 * [Sign In](https://uk.backdrop.cloud/login)
 * [Remote Access](#)
@@ -167,11 +215,15 @@ Web Filtering and Security Platform for Schools. Unmatched Cross-Platform Protec
 
 [Book a Demo](#book-a-demo)
 
-![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/03/threat_diagrams-edu_UK-2023-resized.jpg?lossy=1&strip=1&webp=1 "threat_diagrams-edu_UK-2023-resized")
+![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/03/threat_diagrams-edu_UK-2023-resized.jpg?lossy=2&strip=1&webp=1 "threat_diagrams-edu_UK-2023-resized")
 
-![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/bb-plugin/img/pixel.png?lossy=1&strip=1&webp=1)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![block-screens-03](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/block-screens-03.png?lossy=1&strip=1&webp=1 "block-screens-03")
+![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/bb-plugin/img/pixel.png?lossy=2&strip=1&webp=1)
+
+![block-screens-03](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "block-screens-03")
+
+![block-screens-03](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/block-screens-03.png?lossy=2&strip=1&webp=1 "block-screens-03")
 
 Real-time protection
 --------------------
@@ -185,9 +237,13 @@ Our web filter for schools uses AI categorisation to analyse web traffic and aut
 
 Reliable SSL inspection and granular domain controls eliminate over-blocking, so schools can provide safe access to popular domains including Vimeo, Google and YouTube that add value to learning.
 
-![urls-webcheck](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/06/urls-webcheck-780x1024.png?lossy=1&strip=1&webp=1 "urls-webcheck")
+![urls-webcheck](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "urls-webcheck")
 
-![webcheck-map](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/06/webcheck-map-261x300.png?lossy=1&strip=1&webp=1 "webcheck-map")
+![urls-webcheck](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/06/urls-webcheck-780x1024.png?lossy=2&strip=1&webp=1 "urls-webcheck")
+
+![webcheck-map](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "webcheck-map")
+
+![webcheck-map](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/06/webcheck-map-261x300.png?lossy=2&strip=1&webp=1 "webcheck-map")
 
 Protect Students anywhere
 -------------------------
@@ -199,7 +255,9 @@ Deeper Insights for Smarter Action
 
 IT administrators know that if you can’t measure it – it doesn’t matter. But it’s challenging to monitor, manage, secure and report on all web activity, particularly with today’s hybrid learning environment. Impero's reporting solution makes it easy to monitor web usage and security threats in real-time. So, you can minimize risk, monitor activity, secure your network, and share detailed insights for policy compliance and smarter decision-making.
 
-![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/03/CIOdash_monitor02_reporting-page-300x246.png?lossy=1&strip=1&webp=1 "CIOdash_monitor02_reporting page")
+![#image_title](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "CIOdash_monitor02_reporting page")
+
+![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/03/CIOdash_monitor02_reporting-page-300x246.png?lossy=2&strip=1&webp=1 "CIOdash_monitor02_reporting page")
 
 See All Web Activity And Share Results with Ease
 ------------------------------------------------
@@ -211,37 +269,49 @@ Are you ready to get started? 
 See and Share the Complete Picture
 ----------------------------------
 
-![visibility control](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/visibility-control-2.png?lossy=1&strip=1&webp=1 "visibility control")
+![visibility control](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "visibility control")
+
+![visibility control](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/visibility-control-2.png?lossy=2&strip=1&webp=1 "visibility control")
 
 ### Visibility & Control
 
 Intelligent 360-degree dashboards display who, what, when, and where data is accessed and how it is used on and off campus. Real-time visibility and granular policy-based domain (and sub-domain) controls ensure dangerous activities, rogue apps, ransomware, inappropriate content, and VPN workarounds can be seen and prevented immediately.
 
-![superior security](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/superior-security-2.png?lossy=1&strip=1&webp=1 "superior security")
+![superior security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "superior security")
+
+![superior security](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/superior-security-2.png?lossy=2&strip=1&webp=1 "superior security")
 
 ### Superior Security
 
 ContentKeeper Cloud doubles-down on security, providing intelligence and analytics well beyond traditional Chrome-dependent cloud-based filtering solutions with reliable SSL inspection and cross-platform control. Filtering intelligence, AI, and machine learning work together to detect threats and enable safe web access for students without over-blocking access to popular domains.
 
-![mobile intelligence](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/mobile-intelligence-2.png?lossy=1&strip=1&webp=1 "mobile intelligence")
+![mobile intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "mobile intelligence")
+
+![mobile intelligence](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/mobile-intelligence-2.png?lossy=2&strip=1&webp=1 "mobile intelligence")
 
 ### Cross-Platform Intelligence
 
 ContentKeeper Cloud works across every web browser, device, and platform (iOS, Mac, Windows, Chrome, IoT, BYOD, and more). So, you can ensure safety and security in hybrid learning environments while supporting effective instruction with centralize management of school-issued and student-owned devices.
 
-![flexibility scalability](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/flexibility-scalability-2.png?lossy=1&strip=1&webp=1 "flexibility scalability")
+![flexibility scalability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "flexibility scalability")
+
+![flexibility scalability](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/flexibility-scalability-2.png?lossy=2&strip=1&webp=1 "flexibility scalability")
 
 ### Flexibility & Scalability
 
 Whether you choose 100% Cloud, Hybrid, or On-Prem, our seamless deployments won’t interrupt operations and provide scalability on demand to expand coverage when and where you need it. Plus, our cloud-based framework lets you filter off-site devices without having to send traffic back to the school’s network.
 
-![forensic-level detail](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/forensic-level-detail-2.png?lossy=1&strip=1&webp=1 "forensic-level detail")
+![forensic-level detail](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "forensic-level detail")
+
+![forensic-level detail](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/forensic-level-detail-2.png?lossy=2&strip=1&webp=1 "forensic-level detail")
 
 ### Real-Time Monitoring & Analytics
 
 See and share everything happening on your network with 360-degree intelligence dashboards, in-depth analytics, real-time monitoring and alerts, and comprehensive forensic-level reporting for policy compliance and a safer, more productive learning environment.
 
-![cut costs complexity](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/cut-costs-complexity-2.png?lossy=1&strip=1&webp=1 "cut costs complexity")
+![cut costs complexity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "cut costs complexity")
+
+![cut costs complexity](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/cut-costs-complexity-2.png?lossy=2&strip=1&webp=1 "cut costs complexity")
 
 ### Cut Costs & Complexity
 
@@ -252,19 +322,25 @@ Flexible Deployment
 
 Impero’s flexible deployment options provide limitless configuration options using combinations of device-based agents, cloud services or on-premises hardware to meet the needs of ANY customer.
 
-![cloud 2](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/cloud-2.png?lossy=1&strip=1&webp=1 "cloud 2")
+![cloud 2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "cloud 2")
+
+![cloud 2](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/cloud-2.png?lossy=2&strip=1&webp=1 "cloud 2")
 
 ### Cloud
 
 Fast and easy to deploy, cloud-hosted filtering scales on demand so schools can expand coverage when needed while minimizing administrative burdens and overhead. Utilizing installed agents on managed devices and cloud-based DNS filtering for non-managed devices, ALL your devices are covered, including BYOD and IoT.
 
-![on-premises 2](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/on-premises-2.png?lossy=1&strip=1&webp=1 "on-premises 2")
+![on-premises 2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "on-premises 2")
+
+![on-premises 2](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/on-premises-2.png?lossy=2&strip=1&webp=1 "on-premises 2")
 
 ### On-Premises
 
 On-premises deployments feature in-line hardware and services for maximum control and security. Agents on your managed devices allow consistent filtering when students use devices at home or off-premise.
 
-![hybrid 1](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/hybrid-1.png?lossy=1&strip=1&webp=1 "hybrid 1")
+![hybrid 1](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "hybrid 1")
+
+![hybrid 1](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/hybrid-1.png?lossy=2&strip=1&webp=1 "hybrid 1")
 
 ### Hybrid
 
@@ -277,9 +353,13 @@ _“The degree of control we have allows us to do more for our students. \[And\]
 
 [Read the Case Study](https://www.imperosoftware.com/wp-content/uploads/2023/04/CS-Lewisville-ISD-2.pdf)
 
-[![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/bb-plugin/cache/Lewislville-ISD-logo-square-1583cb1eb10fb07dd0d06a4594cf7925-r6sabutkdijo.png?lossy=1&strip=1&webp=1 "Lewislville ISD logo")](https://www.imperosoftware.com/wp-content/uploads/2023/04/CS-Lewisville-ISD-2.pdf)
+[![#image_title](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Lewislville ISD logo")
 
-![datasheet preview](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/datasheet-preview-231x300.png?lossy=1&strip=1&webp=1 "datasheet preview")
+![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/bb-plugin/cache/Lewislville-ISD-logo-square-1583cb1eb10fb07dd0d06a4594cf7925-r6sabutkdijo.png?lossy=2&strip=1&webp=1 "Lewislville ISD logo")](https://www.imperosoftware.com/wp-content/uploads/2023/04/CS-Lewisville-ISD-2.pdf)
+
+![datasheet preview](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "datasheet preview")
+
+![datasheet preview](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/08/datasheet-preview-231x300.png?lossy=2&strip=1&webp=1 "datasheet preview")
 
 ContentKeeper Features:
 -----------------------
@@ -300,7 +380,9 @@ Prevent Prohibited Apps and Protect Your Network
 
 With the shift to remote work, it’s even harder to prevent the use of unwanted applications that circumvent security policies and can undermine compliance. Suspicious and prohibited apps can open a backdoor to malware, eat up bandwidth, and threaten your data, users, and network performance. ContentKeeper’s App Defender makes it easy to identify and block unwanted applications – providing unmatched protection against malware, ensuring policy compliance, and improving security across your entire organization.
 
-![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/03/CIOdash_monitor_appDefender02.png?lossy=1&strip=1&webp=1 "CIOdash_monitor_appDefender02")
+![#image_title](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "CIOdash_monitor_appDefender02")
+
+![#image_title](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2023/03/CIOdash_monitor_appDefender02.png?lossy=2&strip=1&webp=1 "CIOdash_monitor_appDefender02")
 
 Book a Demo
 -----------
@@ -327,7 +409,7 @@ Number of devices
 
 Message
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -346,7 +428,9 @@ We’re also 100% channel focused. We know you are our front line – and we pos
 
 [Deal Registration](https://www.imperosoftware.com/contentkeeper-partner-deal-registration/)
 
-![logo-white-norm](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/logo-white-norm.png?lossy=1&strip=1&webp=1 "logo-white-norm")
+![logo-white-norm](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-white-norm")
+
+![logo-white-norm](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/logo-white-norm.png?lossy=2&strip=1&webp=1 "logo-white-norm")
 
 Impero Solutions Ltd, a company registered in England and Wales with company registration number 06106013 and registered office address Seventh Floor, East West, Tollhouse Hill, Nottingham, UK NG1 5FS
 
@@ -354,7 +438,9 @@ Impero Solutions Ltd, a company registered in England and Wales with company reg
 
 [](https://twitter.com/ImperoSoftware)[](https://www.facebook.com/imperosoftware/)[](https://www.linkedin.com/company/impero-software/)
 
-![Certification Badges_CMYK (White) ASSETS_(Mar 21)](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/27001-MONO-White-300x300-1.jpeg?lossy=1&strip=1&webp=1 "Certification Badges_CMYK (White) ASSETS_(Mar 21)")
+![Certification Badges_CMYK (White) ASSETS_(Mar 21)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Certification Badges_CMYK (White) ASSETS_(Mar 21)")
+
+![Certification Badges_CMYK (White) ASSETS_(Mar 21)](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/27001-MONO-White-300x300-1.jpeg?lossy=2&strip=1&webp=1 "Certification Badges_CMYK (White) ASSETS_(Mar 21)")
 
 Solutions
 ---------
