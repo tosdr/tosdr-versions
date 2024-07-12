@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
-[Kimberly Guilfoyle’s Most Controversial Fashion Fumbles ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/1-4-e1718800200720.jpeg)](https://herbeauty.co/fashion/kimberly-guilfoyle-s-most-controversial-fashion-fumbles/) 
+[Never Date Anyone Without These 11 Green Flags ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/07/GettyImages-2159145035.jpg)](https://herbeauty.co/relationships/never-date-anyone-without-these-11-green-flags/) 
 
-[Spring Onion Coffee – The Trend You Didn’t See Coming ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-1.webp)](https://herbeauty.co/foodtravel/spring-onion-coffee-the-trend-you-didn-t-see-coming/) 
+[12  Moments You’ll Only Understand If You Have Big Hips ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/07/GettyImages-1387342852.jpg)](https://herbeauty.co/beauty/12-moments-you-ll-only-understand-if-you-have-big-hips/) 
 
-[Celebs Who Are No Longer Friends With Meghan Markle ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-5.jpg)](https://herbeauty.co/entertainment/celebs-who-are-no-longer-friends-with-meghan-markle/) 
+[Who Is Suri Cruise’s Rumored Boyfriend, Toby? ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/07/1.jpeg)](https://herbeauty.co/entertainment/who-is-suri-cruise-s-rumored-boyfriend-toby/) 
 
 Advertisements
 
