@@ -12,11 +12,11 @@
 
 [Membership](https://www.gbnews.uk/membership/)
 
-[Puzzles](https://www.gbnews.uk/membership/puzzles/)[GB News Uncut](https://www.gbnews.uk/membership/uncut/)[Polls](https://www.gbnews.uk/membership/polls/)
+[Puzzles](https://www.gbnews.uk/membership/puzzles/)[GB News Uncut](https://www.gbnews.uk/membership/uncut/)[Polls](https://www.gbnews.uk/membership/polls/)[Rewards](https://www.gbnews.uk/membership/rewards/)
 
 [Politics](https://www.gbnews.uk/politics/)
 
-[UK Politics](https://www.gbnews.uk/politics/uk/)[Rishi Sunak](https://www.gbnews.uk/politics/uk/rishi-sunak/)[Keir Starmer](https://www.gbnews.uk/politics/uk/keir-starmer/)[Conservative Party](https://www.gbnews.uk/politics/uk/conservative-party/)[Labour Party](https://www.gbnews.uk/politics/uk/labour-party/)[SNP](https://www.gbnews.uk/politics/uk/snp/)[US Politics](https://www.gbnews.uk/politics/us/)
+[UK Politics](https://www.gbnews.uk/politics/uk/)[Rishi Sunak](https://www.gbnews.uk/politics/uk/rishi-sunak/)[Keir Starmer](https://www.gbnews.uk/politics/uk/keir-starmer/)[Conservatives](https://www.gbnews.uk/politics/uk/conservative-party/)[Labour](https://www.gbnews.uk/politics/uk/labour-party/)[SNP](https://www.gbnews.uk/politics/uk/snp/)[Reform UK](https://www.gbnews.uk/politics/uk/reform-uk/)[Lib Dems](https://www.gbnews.uk/politics/uk/liberal-democrats/)[US Politics](https://www.gbnews.uk/politics/us/)
 
 [America](https://www.gbnews.uk/us/)
 
@@ -58,7 +58,7 @@
 
 [Catch Up](https://www.gbnews.uk/watch/catch-up/)[Breakfast with Eamonn and Isabel](https://www.gbnews.uk/shows/breakfast-with-eamonn-and-isabel/)[Dewbs & Co](https://www.gbnews.uk/shows/dewbs-co/)[Patrick Christys](https://www.gbnews.uk/shows/patrick-christys/)[Nana Akua](https://www.gbnews.uk/shows/nana-akua/)[Breakfast with Stephen and Anne](https://www.gbnews.uk/shows/breakfast-with-stephen-and-anne/)[Mark Dolan Tonight](https://www.gbnews.uk/shows/mark-dolan-tonight/)[Camilla Tominey Show](https://www.gbnews.uk/shows/the-camilla-tominey-show/)[Sunday with Michael Portillo](https://www.gbnews.uk/shows/sunday-with-michael-portillo/)[Neil Oliver - Live](https://www.gbnews.uk/shows/neil-oliver-live/)[Free Speech Nation](https://www.gbnews.uk/shows/free-speech-nation/)[Headliners](https://www.gbnews.uk/shows/headliners/)
 
-[Your Say](https://www.gbnews.uk/yoursay)[Support](https://www.gbnews.uk/support)[News Alerts](https://www.gbnews.uk/alerts)[Latest](https://www.gbnews.uk/latest)[Puzzles](https://www.gbnews.uk/membership/puzzles/)[Win](https://www.gbnews.uk/win)[BBC](https://www.gbnews.uk/celebrity/bbc/)[Pensions](https://www.gbnews.uk/money/pensions/)[Weather](https://www.gbnews.uk/weather/)[Cars](https://www.gbnews.uk/lifestyle/cars/)[Meghan Markle](https://www.gbnews.uk/royal/meghan-markle/)[Michelle Dewberry](https://www.gbnews.uk/presenters/michelle-dewberry/)[Prince Harry](https://www.gbnews.uk/royal/prince-harry/)[Brexit](https://www.gbnews.uk/news/uk/brexit/)
+[GBN Shop](https://gbnews.store/)[Your Say](https://www.gbnews.uk/yoursay)[Support Us](https://www.gbnews.uk/support)[News Alerts](https://www.gbnews.uk/alerts)[Latest](https://www.gbnews.uk/latest)[Puzzles](https://www.gbnews.uk/membership/puzzles/)[Win](https://www.gbnews.uk/win)[BBC](https://www.gbnews.uk/celebrity/bbc/)[Pensions](https://www.gbnews.uk/money/pensions/)[Weather](https://www.gbnews.uk/weather/)[Cars](https://www.gbnews.uk/lifestyle/cars/)[Meghan Markle](https://www.gbnews.uk/royal/meghan-markle/)[Michelle Dewberry](https://www.gbnews.uk/presenters/michelle-dewberry/)[Prince Harry](https://www.gbnews.uk/royal/prince-harry/)[Brexit](https://www.gbnews.uk/news/uk/brexit/)
 
 [Presenters](https://www.gbnews.uk/presenters/)
 
@@ -70,7 +70,7 @@
 
 [Comment](#comments)Share[Next](#)
 
-[DON'T LET THEM SILENCE YOU—SUPPORT GB NEWS](https://www.gbnews.uk/support "DON'T LET THEM SILENCE YOU – SUPPORT GB NEWS")
+[WATCH IN FULL: BRITAIN'S FAR LEFT EXPOSED](https://www.gbnews.uk/news/britains-far-left-exposed-documentary-charlie-peters "WATCH IN FULL: BRITAIN'S FAR LEFT EXPOSED")
 
 ### Share this
 
@@ -84,7 +84,7 @@ Terms
 GB News Terms of Use
 --------------------
 
-**Last updated: 28th March 2024**
+**Last updated: 26th June 2024**
 
 Welcome to the GB News website and app (the "Service"). The Service includes anything made available on our website and application, including features, functionalities, user interfaces, and any other content (such as comments, articles, games, graphics, software, video clips, programmes and channels) (“Content”).
 
@@ -238,6 +238,26 @@ GB News welcomes donations in order to support its invaluable work as the home o
 * Severance: If any paragraph or section of these Terms of Use is held to be unlawful, invalid or unenforceable by a court or legal authority, that paragraph or section shall be treated as removed. The validity and enforceability of the remaining parts of these Terms of Use shall continue and will not be affected.
 * Waiver: To the extent we fail to or decide not to exercise any right of claim against you to which we are entitled, this will not constitute a waiver of that right unless otherwise indicated to you in writing.
 * Governing law and jurisdiction: These Terms of Use shall be governed by and construed in accordance with the laws of England and Wales. However, these Terms of Use will not limit any consumer protection rights that you may be entitled to under the mandatory laws of your country of residence. If you live in the UK, you will only be able to bring a claim related to or arising from these Terms of Use in the courts of England and Wales. If you do not live in the UK, you can bring a claim in the courts of your territory of residence
+
+**16\. Voting – Terms and conditions**  
+
+* Answer the promoted yes or no question by sending GBYES (Yes) or GBNO (No) to 63333. Texts cost 50p plus your standard network rate.
+* Users of the service must be 18 or over and have the bill payer’s permission.
+* Votes are open to UK residents only.
+* Votes sent outside of the vote window will not be counted but may be charged.
+* The only way to vote is via SMS message.
+* Multiple votes are permitted.
+* If you enter a vote, we may send you SMS marketing messages relating to the vote which are free to receive. If you do not wish to receive further messages, there will be an opportunity to opt out as detailed in the text message(s) you will receive.
+* For queries, the customer helpline number is 0333 202 3390 (cost national rate).
+* The result to the vote will be announced on air after the end of the vote window.
+* If you are watching on catch-up your votes won’t be counted but you may still be charged.
+
+[ROYAL BREAKING](https://www.gbnews.com/royal/princess-anne-health-update-pictures-latest-royal-news)
+-----------------------------------------------------------------------------------------------------
+
+### [Princess Anne seen for the first time since suffering head injuries](https://www.gbnews.com/royal/princess-anne-health-update-pictures-latest-royal-news)
+
+1720791731.722
 
 About Us
 
