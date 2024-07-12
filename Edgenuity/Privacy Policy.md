@@ -1,5 +1,7 @@
 ![](https://px.ads.linkedin.com/collect/?pid=3724420&fmt=gif)        Online Curricula and Solutions | Imagine Learning - Imagine Learning                                                        
 
+[![](https://www.imaginelearning.com/wp-content/uploads/2024/07/IL-logo_monogram-W.svg)](https://www.imaginelearning.com/)
+
 * [![](https://www.imaginelearning.com/wp-content/uploads/2023/08/IL-tagline-standard_Web.svg)](https://www.imaginelearning.com/)
 * [Solutions](https://www.imaginelearning.com/solutions/)
     * * * [SolutionsTeaching solutions to drive better student outcomes](https://www.imaginelearning.com/solutions/)
@@ -290,6 +292,7 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 * [Spanish Language Arts and Literacy](https://www.edgenuity.com/products/spanish-language-arts)
 * [Social and Emotional Learning](https://www.edgenuity.com/solutions/social-emotional-learning)
 * [Products By Grade Level](https://www.edgenuity.com/products/grade-level)
+* [Product Updates](https://www.edgenuity.com/product-updates)
 
 [Support](https://www.edgenuity.com/support)[](#collapse-support)
 
