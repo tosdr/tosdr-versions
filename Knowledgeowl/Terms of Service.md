@@ -170,11 +170,11 @@ Table of Contents Table of Contents Toggle navigation
             * [Image best practices](javascript:void(0);)
                 
                 * [Intro](https://www.knowledgeowl.com/help/image-best-practice-intro)
-                * [File types for screenshots/larger images](https://www.knowledgeowl.com/help/file-types-for-larger-images)New
-                * [File types for icons](https://www.knowledgeowl.com/help/file-types-for-icons)New
-                * [Resizing images](https://www.knowledgeowl.com/help/resizing-images)New
-                * [Accessible images](https://www.knowledgeowl.com/help/accessible-images)New
-                * [Gif and animation usage](https://www.knowledgeowl.com/help/gif-usage)New
+                * [File types for screenshots/larger images](https://www.knowledgeowl.com/help/file-types-for-larger-images)
+                * [File types for icons](https://www.knowledgeowl.com/help/file-types-for-icons)
+                * [Resizing images](https://www.knowledgeowl.com/help/resizing-images)
+                * [Accessible images](https://www.knowledgeowl.com/help/accessible-images)
+                * [Gif and animation usage](https://www.knowledgeowl.com/help/gif-usage)
         * [Add videos to articles](javascript:void(0);)
             
             * [Add videos to your articles](https://www.knowledgeowl.com/help/videos)
@@ -280,19 +280,19 @@ Table of Contents Table of Contents Toggle navigation
     
     * [Homepage look and feel](javascript:void(0);)
         
-        * [Homepage Overview](https://www.knowledgeowl.com/help/homepage-overview)
-        * [Change the welcome text on my home page](https://www.knowledgeowl.com/help/change-the-welcome-text-on-my-home-page)
+        * [Homepage overview](https://www.knowledgeowl.com/help/homepage-overview)Updated
+        * [Change the homepage welcome text](https://www.knowledgeowl.com/help/change-the-welcome-text-on-my-home-page)Updated
         * [Add a background image to my homepage](https://www.knowledgeowl.com/help/add-homepage-background)
         * [Change the background image on my homepage](https://www.knowledgeowl.com/help/change-the-background-image-on-my-home-page)
         * [Remove the homepage welcome text](https://www.knowledgeowl.com/help/remove-home-page-title)
         * [Change the color of the homepage welcome text](https://www.knowledgeowl.com/help/change-the-color-of-the-homepage-title)
         * [Add category icons to your homepage category panels](https://www.knowledgeowl.com/help/add-category-icons-to-homepage)
         * [Article Lists](https://www.knowledgeowl.com/help/article-lists)
-        * [New Articles List](https://www.knowledgeowl.com/help/new-articles-list)
-        * [Updated Articles List](https://www.knowledgeowl.com/help/updated-articles-list)
-        * [Popular Articles List](https://www.knowledgeowl.com/help/popular-articles-list)
-        * [Recent Articles List](https://www.knowledgeowl.com/help/recent-articles-list)
-        * [Create a custom home page articles list](https://www.knowledgeowl.com/help/create-a-custom-home-page-articles-list)
+        * [New Articles list](https://www.knowledgeowl.com/help/new-articles-list)
+        * [Updated Articles list](https://www.knowledgeowl.com/help/updated-articles-list)
+        * [Popular Articles list](https://www.knowledgeowl.com/help/popular-articles-list)
+        * [Recent Articles list](https://www.knowledgeowl.com/help/recent-articles-list)
+        * [Create a custom homepage articles list](https://www.knowledgeowl.com/help/create-a-custom-homepage-articles-list)
         * [Add a custom banner with built-in div styles](https://www.knowledgeowl.com/help/add-a-custom-banner-div-styles)
         * [Add a custom icon and header link on your homepage](https://www.knowledgeowl.com/help/add-a-custom-icon-and-header-link)
     * [Overall look and feel](javascript:void(0);)
@@ -378,7 +378,7 @@ Table of Contents Table of Contents Toggle navigation
     * [Table of contents & organization](https://www.knowledgeowl.com/help/table-of-contents)
         
         * [Display categories open by default](https://www.knowledgeowl.com/help/display-open-categories)
-        * [Add Home button to table of contents](https://www.knowledgeowl.com/help/add-home-button)
+        * [Add Home link to table of contents](https://www.knowledgeowl.com/help/add-home-toc)
         * [Add search bar to table of contents](https://www.knowledgeowl.com/help/add-search-bar-to-table-of-contents)
         * [Add glossary link to table of contents](https://www.knowledgeowl.com/help/add-glossary-link-to-table-of-contents)
         * [Add a link to the full PDF download to table of contents](https://www.knowledgeowl.com/help/add-a-link-to-the-full-pdf-download-to-your-table-of-contents)
@@ -409,7 +409,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Add a print icon to the Glossary page](https://www.knowledgeowl.com/help/add-glossary-print)
     * [Default HTML and CSS](https://www.knowledgeowl.com/help/default-html-css)
         
-        * [Default Home Page HTML](https://www.knowledgeowl.com/help/default-home-page-html)
+        * [Default Homepage HTML](https://www.knowledgeowl.com/help/default-homepage-html)
         * [Default Body HTML](https://www.knowledgeowl.com/help/default-body-html)
         * [Default Top Navigation HTML](https://www.knowledgeowl.com/help/default-top-navigation-html)
         * [Default Article HTML](https://www.knowledgeowl.com/help/default-article-html)
@@ -420,7 +420,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Default Restricted Access Page HTML](https://www.knowledgeowl.com/help/default-restricted-access-page-html)
         * [Default Right Column HTML](https://www.knowledgeowl.com/help/default-right-column-html)
         * [Default CSS](https://www.knowledgeowl.com/help/default-css)
-        * [Default Home Page Article HTML (deprecated)](https://www.knowledgeowl.com/help/home-page-article-html)
+        * [Default Homepage Article HTML (deprecated)](https://www.knowledgeowl.com/help/home-page-article-html)
     * [Merge codes](https://www.knowledgeowl.com/help/merge-codes)
         
         * [What are merge codes?](https://www.knowledgeowl.com/help/about-merge-codes)
@@ -917,7 +917,7 @@ Table of Contents Table of Contents Toggle navigation
         * [GDPR](https://www.knowledgeowl.com/help/gdpr)
         * [Maintain GDPR compliance with your own data](https://www.knowledgeowl.com/help/maintaining-gdpr-compliance-with-your-own-data)
         * [Uptime SLAs](https://www.knowledgeowl.com/help/uptime-sla)
-        * [List of Sub-processors](https://www.knowledgeowl.com/help/security-privacy-and-compliance-list-of-sub-processors)
+        * [List of Sub-processors](https://www.knowledgeowl.com/help/security-privacy-and-compliance-list-of-sub-processors)Updated
         * [Supported cipher suites](https://www.knowledgeowl.com/help/supported-cipher-suites)
         * [Required IP addresses](https://www.knowledgeowl.com/help/required-ip-addresses)
         * [Vulnerability Disclosure Policy](https://www.knowledgeowl.com/help/vulnerability-disclosure-policy)
@@ -948,6 +948,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Pause or suspend subscription](https://www.knowledgeowl.com/help/pause-or-put-my-account-on-hold)
         * [Cancel my account](https://www.knowledgeowl.com/help/cancel-my-account)
         * [Resolve payment](https://www.knowledgeowl.com/help/resolve-payment)
+        * [Why is an American company charging me, a non-American, sales tax?](https://www.knowledgeowl.com/help/canadian-sales-tax-hstgstpstqst)
     * [Company and Product Info](javascript:void(0);)
         
         * [Company Website](https://www.knowledgeowl.com/help/company-website)
