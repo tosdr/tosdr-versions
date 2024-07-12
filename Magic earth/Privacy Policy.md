@@ -46,7 +46,7 @@ We may use the information we collect for the following reasons:
 • To help improve the safety and reliability of our App.  
 • To create anonymous data (where such data does not enable the identification of a specific user).
 
-**A list with the information that we use, collect and store, along with the period of time for which this is retained, can be found [here](https://www.magicearth.com/wp-content/uploads/2019/09/MagicEarth-User-Data-Privacy_20190902.pdf).**
+**A list with the information that we use, collect and store, along with the period of time for which this is retained, can be found [here](https://www.magicearth.com/wp-content/uploads/2024/07/MagicEarth-User-Data-Privacy-20240703.pdf).**
 
 We do not sell or rent the information to marketers or third parties. We may, however, share or disclose the information as follows:  
 • Members of our group. We may share the information to any members of our group, subsidiaries and branch offices, to which it is reasonably necessary or desirable for us to disclose the information in order to carry out the above-mentioned information processing purposes.  
