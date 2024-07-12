@@ -26,7 +26,7 @@ Toggle menu
     * [Video Tutorials](https://ezcast-pro.com/video-tutorials/)
 * [WHERE TO BUY](https://ezcast-pro.com/where-to-buy/)
     * [Where to Buy](https://ezcast-pro.com/where-to-buy/)
-    * [Online Store](https://store.ezcast.com/collections/quattropod)
+    * [Online Store](https://37dea8-42.myshopify.com/)
 * [ABOUT US](https://ezcast-pro.com/about-us/)
     * [Contact Us](https://ezcast-pro.com/contact-us/)
     * [About Us](https://ezcast-pro.com/about-us/)
