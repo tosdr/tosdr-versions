@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=679542016055742&ev=PageView&noscript=1)                                Terms of Service – BubbleTree USA                                                                 
+![](https://www.facebook.com/tr?id=679542016055742&ev=PageView&noscript=1)                                Terms of Service – BubbleTree USA                                                                   
 
 On-line purchasing temporary unavailable
 
