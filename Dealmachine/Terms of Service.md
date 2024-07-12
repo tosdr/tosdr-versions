@@ -1,8 +1,3 @@
-**The Future is Calling.** Join us on July 1st for something big.
------------------------------------------------------------------
-
-[Save Your Spot](https://www.dealmachine.com/unveiled?hsLang=en)
-
 ![DealMachine](https://www.dealmachine.com/hubfs/Pictures/DealMachineLogo.svg "DealMachine")
 
 ![DealMachine](https://www.dealmachine.com/hubfs/Pictures/DealMachineLogo.svg "DealMachine")
