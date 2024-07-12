@@ -69,8 +69,8 @@ Toggle navigation [![IPQualityScore](/templates/frontend/img/logo.svg)](https://
 Privacy Policy
 ==============
 
-_Last Revised March 20, 2024_  
-**IPQualityScore (IPQS) values your privacy and is fully compliant with GDPR, CCPA, VCDPA, and similar regulations. All data shared with IPQualityScore (IPQS) is kept confidential and is never sold or made publicly available. Please also review our [Data Processing Agreement](https://www.ipqualityscore.com/data-processing-agreement) for more details.**
+_Last Revised June 25, 2024_  
+**IPQualityScore (IPQS) values your privacy and is fully compliant with GDPR, CCPA, VCDPA, and similar regulations. All data shared with IPQualityScore (IPQS) API endpoints is confidential and securely processed. Please also review our [Data Processing Agreement](https://www.ipqualityscore.com/data-processing-agreement) for more details.**
 
 IPQualityScore (IPQS) Privacy Policy Overview
 
@@ -98,9 +98,9 @@ IPQualityScore does not collect more information than is necessary to provide ac
 
 Data Sharing & Data Processing
 
-Clients using our service may provide IPQualityScore with transactional information, which may include IP addresses, email addresses, billing details, phone numbers, and similar user data. This information is processed through our services to detect behavioral intent and analyze the risk profile of transactions and users. This data is used to identify patterns of fraud within our system and improve your account's personal machine learning algorithms.
+Clients using our service may provide IPQualityScore with transactional information, which may include IP addresses, email addresses, billing details, phone numbers, and similar user data. This information is securely processed through our services to detect behavioral intent and analyze the risk profile of transactions, users, and similar events. This data is used to identify patterns of fraud within our system and improve your account's personal machine learning algorithms.
 
-IPQualityScore will **NEVER** sell or make publicly available any of your account's data or transaction/user information that is processed via our APIs or tools. Any data shared with IPQualityScore will be kept confidential, secured, and stored in the safest manner above industry standards.
+IPQualityScore does not sell your personal data or the personal data of your end users. Any data shared with IPQualityScore will be confidential, securely processed, and maintained in-line with industry security standards. Your account's contact details may be shared with CRMs and marketing platforms which meet our standards for adequate security techniques and data processing safeguards.
 
 This safeguards within this section shall provide IPQualityScore the right to share necessary data with third parties for any false-positive reports submitted through our feedback forms to [unblock an IP address](https://www.ipqualityscore.com/unblock-ip-address), [report a false-positive](https://www.ipqualityscore.com/report-false-positive), or [register an IP address](https://www.ipqualityscore.com/register-ip-address-business-organization). This data may be shared with third parties to improve accuracy.
 
@@ -122,7 +122,7 @@ If you believe that the information we have recorded about you is incorrect, you
 
 CCPA Opt-Out — "Do Not Sell Or Share My Personal Information"
 
-Privacy laws, such as the California Consumer Privacy Act (CCPA) or the Virginia Consumer Data Privacy Act (VCDPA), afford residents of some states the right to opt out of the sale or sharing of personal information, defined in a way that may include the transfer and sharing of data to third parties to predict your preferences or interests to personalize ads for you on those third-party platforms.
+Privacy laws, such as the California Consumer Privacy Act (CCPA) or the Virginia Consumer Data Privacy Act (VCDPA), afford residents of some states the right to opt out of the sale or sharing of personal information, defined in a way that may include the transfer and sharing of data to third parties to predict your preferences or interests to personalize ads for you on those third party platforms.
 
 In order to comply with your "do not share" request, we may ask you to verify your identity. Please contact us at [Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom) to submit your request or [contact us](https://www.ipqualityscore.com/contact-us) using our support form.
 
