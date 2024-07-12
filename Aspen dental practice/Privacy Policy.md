@@ -2,9 +2,9 @@
 
 [![brand logo](https://images.ctfassets.net/m8zwsu9tyucg/7jzYqWlL2Z1NyUWPgR7mpc/922ffe5db0d5cd28bcb42653e7d9a5e6/AspenLogoDark.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.aspendental.com/)
 
-[Schedule](https://www.aspendental.com/schedule-an-appointment/)
+[](https://www.aspendental.com/search/)[Schedule](https://www.aspendental.com/schedule-an-appointment/)
 
-​
+[Find an office](https://www.aspendental.com/search/)
 
 [Notice of data security incident](https://www.aspendental.com/data-security-incident/)
 
@@ -371,7 +371,7 @@ Chat with us
 
 Follow us
 
-[![Facebook logo](https://images.ctfassets.net/m8zwsu9tyucg/6NhuoroPOC95yZKtXxemIv/735aac4c80d1c0fbaeb5e272a743b386/Icn_Facebook.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.facebook.com/AspenDental/)[![YouTube logo](https://images.ctfassets.net/m8zwsu9tyucg/7tqZtG8VUtNnAWVrevSdRt/09b869c7da6b7665956ad41a2a7e724f/ico-youtube.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.youtube.com/user/smilestories)[![Twitter logo](https://images.ctfassets.net/m8zwsu9tyucg/3kbYwJXJpn5wRzhhsDsG58/a5a7cd333d3080716e55d610aa7c60be/ico-twitter.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://twitter.com/aspendental)
+[![Facebook logo](https://images.ctfassets.net/m8zwsu9tyucg/6NhuoroPOC95yZKtXxemIv/25d21075c14e23061a940b270225742a/Untitled-1_1.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.facebook.com/AspenDental/)[![YouTube logo](https://images.ctfassets.net/m8zwsu9tyucg/7tqZtG8VUtNnAWVrevSdRt/09b869c7da6b7665956ad41a2a7e724f/ico-youtube.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://www.youtube.com/user/smilestories)[![Twitter logo](https://images.ctfassets.net/m8zwsu9tyucg/3kbYwJXJpn5wRzhhsDsG58/a5a7cd333d3080716e55d610aa7c60be/ico-twitter.svg?q=90&fit=fill&f=face&bg=rgb%3A321032&fm=webp)](https://twitter.com/aspendental)
 
 [(800) 277-3633](tel:(800) 277-3633)© 2024 Aspen Dental Management, Inc. All rights reserved.
 
