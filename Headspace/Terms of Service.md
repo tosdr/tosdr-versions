@@ -470,6 +470,20 @@ If any provision of these Terms is found unenforceable, then that provision will
   
 Headspace is located at 2417 Michigan Avenue, Santa Monica, CA 90404.
 
+![](https://images.ctfassets.net/v3n26e09qg2r/3eJ46JoVs0ZjGp2063sfgo/e1d6d20d6946693a64f7276e9ff3e55f/Frame_231.svg?fm=&w=256&q=75)
+
+![](https://images.ctfassets.net/v3n26e09qg2r/3eJ46JoVs0ZjGp2063sfgo/e1d6d20d6946693a64f7276e9ff3e55f/Frame_231.svg?fm=&w=256&q=75)
+
+#### Stay in the loop
+
+Be the first to get updates on our latest content, special offers, and new features.
+
+By signing up, you’re agreeing to receive marketing emails from Headspace. You can unsubscribe at any time. For more details, check out our [Privacy Policy.](https://www.headspace.com/privacy-policy)
+
+Email address
+
+Subscribe
+
 #### Get some Headspace
 
 * [Send a gift](https://www.headspace.com/buy/gift)
