@@ -1,4 +1,4 @@
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:132-2423121-0209713:EEX6W7Y1AEX6VKCSCGBV$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DEEX6W7Y1AEX6VKCSCGBV:0)      
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:139-4493533-9136869:J35EMRCPT759E0Z0RVWX$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DJ35EMRCPT759E0Z0RVWX:0)      
 
 Menu
 
@@ -18,7 +18,7 @@ Watch
 
 Awards & Events
 
-[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[ABFF](https://www.imdb.com/festival-central/abff/?ref_=nv_ev_csegabff)[Pride](https://www.imdb.com/spotlight/?ref_=nv_ev_csegpride)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[Festival Central](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[All Events](https://www.imdb.com/event/all/?ref_=nv_ev_all)
+[San Diego Comic-Con](https://www.imdb.com/comic-con/?ref_=nv_ev_csegsdcc)[Oscars](https://www.imdb.com/oscars/?ref_=nv_ev_csegosc)[Emmys](https://www.imdb.com/emmys/?ref_=nv_ev_csegemy)[STARmeter Awards](https://www.imdb.com/starmeterawards/?ref_=nv_ev_sma)[Awards Central](https://www.imdb.com/awards-central/?ref_=nv_ev_csegawds)[Festival Central](https://www.imdb.com/festival-central/?ref_=nv_ev_csegfest)[All Events](https://www.imdb.com/event/all/?ref_=nv_ev_all)
 
 Celebs
 
@@ -55,15 +55,6 @@ Community
 [](https://www.imdb.com/?ref_=nv_home)
 
 All
-
-* All
-* Titles
-* TV Episodes
-* Celebs
-* Companies
-* Keywords
-
-[Advanced Search](https://www.imdb.com/search/?ref_=nv_sr_menu_adv)
 
 [](https://pro.imdb.com/login/ap?u=/login/lwa&imdbPageAction=signUp&rf=cons_nb_hm&ref_=cons_nb_hm)
 
@@ -245,4 +236,4 @@ IMDb, an Amazon company
 
 © 1990-2024 by IMDb.com, Inc.
 
-![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:132-2423121-0209713:EEX6W7Y1AEX6VKCSCGBV$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DEEX6W7Y1AEX6VKCSCGBV:0)
+![](//fls-na.amazon.com/1/batch/1/OP/A1EVAM02EL8SFB:139-4493533-9136869:J35EMRCPT759E0Z0RVWX$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DJ35EMRCPT759E0Z0RVWX:0)
