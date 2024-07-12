@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/666a5448f9f1762bb1429cc7_clearco-live-question-answer-fintech.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/666aff826396a5fd2b80ab82_how-to-ecommerce-store-growth.jpeg)
 
-###### Clearco is hosting a LIVE Q&A with our Founder Success team
+###### How Google's bank-based payments impact DTC ecommerce brands' Google Ad spend
 
-[Read now >](https://clear.co/blog/clearco-is-hosting-ama-ecommerce-funding)
+[Read now >](https://clear.co/blog/how-googles-bank-based-payments-impact-ecommerce-brands-google-ad-spend)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
