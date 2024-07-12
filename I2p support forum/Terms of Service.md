@@ -1,4 +1,4 @@
-[![I2P support forum](./styles/elegance/theme/images/logo.png)](http://i2pforum.net/index.php?sid=0287e38142aaeaee2ffab9f6bcdb2371 "Board index")
+[![I2P support forum](./styles/elegance/theme/images/logo.png)](http://i2pforum.net/index.php?sid=f4aa334ad2760a10f58c98fe4d168dd4 "Board index")
 
 I2P support forum
 
@@ -6,30 +6,30 @@ Help, support, and discussion about I2P
 
 [Skip to content](#start_here)
 
- Search [Advanced search](http://i2pforum.net/search.php?sid=0287e38142aaeaee2ffab9f6bcdb2371 "Advanced search") 
+ Search [Advanced search](http://i2pforum.net/search.php?sid=f4aa334ad2760a10f58c98fe4d168dd4 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](http://i2pforum.net/search.php?search_id=unanswered&sid=0287e38142aaeaee2ffab9f6bcdb2371)
-    * [Active topics](http://i2pforum.net/search.php?search_id=active_topics&sid=0287e38142aaeaee2ffab9f6bcdb2371)
+    * [Unanswered topics](http://i2pforum.net/search.php?search_id=unanswered&sid=f4aa334ad2760a10f58c98fe4d168dd4)
+    * [Active topics](http://i2pforum.net/search.php?search_id=active_topics&sid=f4aa334ad2760a10f58c98fe4d168dd4)
     
-    * [Search](http://i2pforum.net/search.php?sid=0287e38142aaeaee2ffab9f6bcdb2371)
+    * [Search](http://i2pforum.net/search.php?sid=f4aa334ad2760a10f58c98fe4d168dd4)
     
-* [Forums](http://i2pforum.net/index.php?sid=0287e38142aaeaee2ffab9f6bcdb2371)
+* [Forums](http://i2pforum.net/index.php?sid=f4aa334ad2760a10f58c98fe4d168dd4)
 
-* [FAQ](http://i2pforum.net/app.php/help/faq?sid=0287e38142aaeaee2ffab9f6bcdb2371 "Frequently Asked Questions")
-* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=0287e38142aaeaee2ffab9f6bcdb2371 "Login")
-* [Register](http://i2pforum.net/ucp.php?mode=register&sid=0287e38142aaeaee2ffab9f6bcdb2371)
+* [FAQ](http://i2pforum.net/app.php/help/faq?sid=f4aa334ad2760a10f58c98fe4d168dd4 "Frequently Asked Questions")
+* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=f4aa334ad2760a10f58c98fe4d168dd4 "Login")
+* [Register](http://i2pforum.net/ucp.php?mode=register&sid=f4aa334ad2760a10f58c98fe4d168dd4)
 
-* [Search](http://i2pforum.net/search.php?sid=0287e38142aaeaee2ffab9f6bcdb2371)
-* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=0287e38142aaeaee2ffab9f6bcdb2371 "Login")
-* [Register](http://i2pforum.net/ucp.php?mode=register&sid=0287e38142aaeaee2ffab9f6bcdb2371)
+* [Search](http://i2pforum.net/search.php?sid=f4aa334ad2760a10f58c98fe4d168dd4)
+* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=f4aa334ad2760a10f58c98fe4d168dd4 "Login")
+* [Register](http://i2pforum.net/ucp.php?mode=register&sid=f4aa334ad2760a10f58c98fe4d168dd4)
 
-* [Board index](http://i2pforum.net/index.php?sid=0287e38142aaeaee2ffab9f6bcdb2371)
-* [Search](http://i2pforum.net/search.php?sid=0287e38142aaeaee2ffab9f6bcdb2371 "View the advanced search options")
-* [](# "It is currently 22 Jun 2024 03:56")
+* [Board index](http://i2pforum.net/index.php?sid=f4aa334ad2760a10f58c98fe4d168dd4)
+* [Search](http://i2pforum.net/search.php?sid=f4aa334ad2760a10f58c98fe4d168dd4 "View the advanced search options")
+* [](# "It is currently 12 Jul 2024 15:48")
     
-    * It is currently 22 Jun 2024 03:56
+    * It is currently 12 Jul 2024 15:48
     * All times are UTC
     
 
@@ -42,20 +42,18 @@ Our forums are powered by phpBB (hereinafter “they”, “them”, “their”
   
 You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “I2P support forum” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “I2P support forum” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “I2P support forum” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
 
-* [Board index](http://i2pforum.net/index.php?sid=0287e38142aaeaee2ffab9f6bcdb2371)
+* [Board index](http://i2pforum.net/index.php?sid=f4aa334ad2760a10f58c98fe4d168dd4)
 * All times are UTC
-* [Delete cookies](http://i2pforum.net/ucp.php?mode=delete_cookies&sid=0287e38142aaeaee2ffab9f6bcdb2371)
-* [About us](http://i2pforum.net/app.php/aboutus?sid=0287e38142aaeaee2ffab9f6bcdb2371)
-*  [Policies](http://i2pforum.net/app.php/privacypolicy/policy?sid=0287e38142aaeaee2ffab9f6bcdb2371 "Display the Privacy &Cookie policies for this board")
+* [Delete cookies](http://i2pforum.net/ucp.php?mode=delete_cookies&sid=f4aa334ad2760a10f58c98fe4d168dd4)
+* [About us](http://i2pforum.net/app.php/aboutus?sid=f4aa334ad2760a10f58c98fe4d168dd4)
+*  [Policies](http://i2pforum.net/app.php/privacypolicy/policy?sid=f4aa334ad2760a10f58c98fe4d168dd4 "Display the Privacy &Cookie policies for this board")
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
 Style by [Arty](https://www.artodia.com/) - phpBB 3.3 by MrGaby
 
-[Privacy](http://i2pforum.net/ucp.php?mode=privacy&sid=0287e38142aaeaee2ffab9f6bcdb2371 "Privacy") | [Terms](http://i2pforum.net/ucp.php?mode=terms&sid=0287e38142aaeaee2ffab9f6bcdb2371 "Terms")
+[Privacy](http://i2pforum.net/ucp.php?mode=privacy&sid=f4aa334ad2760a10f58c98fe4d168dd4 "Privacy") | [Terms](http://i2pforum.net/ucp.php?mode=terms&sid=f4aa334ad2760a10f58c98fe4d168dd4 "Terms")
 
 [](#)
 
 [](#)
-
-![](/app.php/cron/cron.task.core.tidy_search?sid=0287e38142aaeaee2ffab9f6bcdb2371)
