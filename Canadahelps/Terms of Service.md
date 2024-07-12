@@ -1,4 +1,4 @@
-[It’s the 10th Annual Great Canadian Giving Challenge. Enter Today >>>](https://www.canadahelps.org/en/givingchallenge/?utm_source=skinny&utm_medium=banner&utm_campaign=GCGC)
+[Support Crisis Relief for Hurricane Beryl](https://www.canadahelps.org/en/crisis-relief-center/donate-to-charities-responding-to-hurricane-beryl-relief-crc/)
 
  
 
@@ -142,6 +142,8 @@ Please verify your request\*
 * [Terms of Use](https://www.canadahelps.org/en/terms-of-use/)
 * [Privacy Policy](https://www.canadahelps.org/en/privacy-policy/)
 * [Land Acknowledgement](https://www.canadahelps.org/en/land-acknowledgement/)
+* [](#cookie-consent)
+    
 * [Français](https://www.canadahelps.org/fr/politique-dutilisation/)
 
 © CanadaHelps 2024. CanadaHelps is a registered charity | Charity Registration Number 896568417RR0001
