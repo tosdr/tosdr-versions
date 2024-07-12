@@ -1,38 +1,12 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)   
 
-![](https://img.gg.deals/9d/8b/7314e31ccd842e30ff3abd689019c673fa84_1224cr120_Q100.jpg)
-
-![](https://img.gg.deals/9d/8b/7314e31ccd842e30ff3abd689019c673fa84_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/gb/redirect/46f9f7d60f41bf69f6665a4ba020dfeca223721b/?utm_source=page%2Fpage)
-
 Region: United Kingdom
-
-* Australia
-* Belgium
-* Brazil
-* Canada
-* Denmark
-* Europe
-* Finland
-* France
-* Germany
-* Ireland
-* Italy
-* Netherlands
-* Norway
-* Poland
-* Spain
-* Sweden
-* Switzerland
-* United Kingdom
-* United States
 
 Keyshops: Enabled
 
 * Enable
 * Disable
-* [More info](https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained)
+* [More info about keyshops integration on GG.deals](https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained)
 
 Light Dark
 
@@ -54,108 +28,11 @@ Light Dark
     [Community](https://forum.gg.deals/)
     
 
-* [Region & Currency](#)
-* [Keyshops: Enabled](#)
-* Theme: Light Dark
-
-[Region & Currency](#)
-
-* Australia
-* Belgium
-* Brazil
-* Canada
-* Denmark
-* Europe
-* Finland
-* France
-* Germany
-* Ireland
-* Italy
-* Netherlands
-* Norway
-* Poland
-* Spain
-* Sweden
-* Switzerland
-* United Kingdom
-* United States
-
-[Keyshops: Enabled](#)
-
-Keyshops are usually cheaper than official stores and will help you save money. However, buying there comes with some risks.
-
-[Read more](https://gg.deals/page/keyshops-risks/)
-
-Enable Keyshops
-
-Note: keyshop integration on GG.deals in not completed yet. We will gradually expand keyshop support in upcoming updates.
-
-[Read more](https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained)
-
 * Games
 * Prepaids
 * News
 
-### Trending Searches:
-
-* [Destiny 2 The Final Shape](#)
-* [Black Ops 6](#)
-* [Elden Ring Shadow of the Erdtree](#)
-* [Black Myth Wukong](#)
-* [Ghost of Tsushima](#)
-* [Diablo IV Vessel of Hatred](#)
-* [Assassin's Creed Shadows](#)
-* [Helldivers 2](#)
-* [Test Drive Unlimited Solar Crown](#)
-* [Xbox Game Pass](#)
-
 * [Sign in through **Steam**](https://gg.deals/user/login/?return=%2Fterms%2F)
-* * [Login with Steam](https://gg.deals/user/login/?return=%2Fterms%2F)
-    * [Wishlist Sign in](#login-form)
-    * [Alerts Sign in](#login-form)
-    * [Collection Sign in](#login-form)
-    * [Ignorelist Sign in](#login-form)
-    * [Notifications Sign in](#login-form)
-    * [Settings Sign in](#login-form)
-    
-    * [Region & Currency](#)
-    * [Keyshops: Enabled](#)
-    * Theme: Light Dark
-    
-    [Region & Currency](#)
-    
-    * Australia
-    * Belgium
-    * Brazil
-    * Canada
-    * Denmark
-    * Europe
-    * Finland
-    * France
-    * Germany
-    * Ireland
-    * Italy
-    * Netherlands
-    * Norway
-    * Poland
-    * Spain
-    * Sweden
-    * Switzerland
-    * United Kingdom
-    * United States
-    
-    [Keyshops: Enabled](#)
-    
-    Keyshops are usually cheaper than official stores and will help you save money. However, buying there comes with some risks.
-    
-    [Read more](https://gg.deals/page/keyshops-risks/)
-    
-    Enable Keyshops
-    
-    Note: keyshop integration on GG.deals in not completed yet. We will gradually expand keyshop support in upcoming updates.
-    
-    [Read more](https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained)
-    
 
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
@@ -416,7 +293,7 @@ n. take any actions that could destabilise or harm the Website.
 
 ![GG.logo](/images/logo/logo-black.svg?v=31ff8e2d)
 
-#### Tutorials
+Tutorials
 
 * [How to activate Steam CD key?](https://gg.deals/page/how-to-activate-steam-cd-key/)
 * [How to activate Origin CD key?](https://gg.deals/page/how-to-activate-origin-cd-key/)
@@ -424,11 +301,11 @@ n. take any actions that could destabilise or harm the Website.
 * [How to activate Epic Games CD key?](https://gg.deals/page/how-to-activate-epic-games-cd-key/)
 * [How to activate GOG CD key?](https://gg.deals/page/how-to-activate-gog-cd-key/)
 
-#### Disclaimer
+Disclaimer
 
 Powered by Steam, a registered trademark of Valve Corporation. GG.deals is in no way affiliated with or endorsed by Valve Corporation. We cannot guarantee the accuracy or availability of the displayed offers - before you buy something in a store, make sure that the prices are correct. We make use of affiliate programs for monetizing links on our site. GG.deals is a participant in the Amazon Services LLC Associates Program.
 
-#### GG.deals
+GG.deals
 
 * [Stores](https://gg.deals/stores/)
 * [Presets](https://gg.deals/presets/)
@@ -447,9 +324,7 @@ Powered by Steam, a registered trademark of Valve Corporation. GG.deals is in no
 
 Back To Top
 
-#### Sign in
-
-##### Sign in through Steam to customize your experience!  
+Sign in Sign in through Steam to customize your experience!  
 **Don't worry - Steam never shares your login and password with 3rd parties.** GG.deals will only access your public profile to sync your wishlist and collection.
 
 * Create price drop alerts
