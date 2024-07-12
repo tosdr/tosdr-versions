@@ -1,7 +1,7 @@
-diaspora - Terms of Service Last Updated: 10th January, 2023
-============================================================
+diaspora\* - Terms of Service Last Updated: 10th January, 2023
+==============================================================
 
-Here are the important things you need to know about accessing and using the **diaspora** (https://diasp.org/) website and service (collectively, "Service"). These are our terms of service ("Terms"). Please read them carefully.
+Here are the important things you need to know about accessing and using the **diaspora\*** (https://diasp.org/) website and service (collectively, "Service"). These are our terms of service ("Terms"). Please read them carefully.
 
 Accepting these Terms
 ---------------------
@@ -25,7 +25,7 @@ For information about how we collect and use information about users of the Serv
 Third-Party Services
 --------------------
 
-From time to time, we may provide you with links to third party websites or services that we do not own or control. Your use of the Service may also include the use of applications that are developed or owned by a third party. Your use of such third party applications, websites, and services is governed by that party’s own terms of service or privacy policies. We encourage you to read the terms and conditions and privacy policy of any third party application, website or service that you visit or use. Note that while **diaspora** itself does not work directly with advertisers, third party applications may contain advertising or marketing materials provided by such third parties.
+From time to time, we may provide you with links to third party websites or services that we do not own or control. Your use of the Service may also include the use of applications that are developed or owned by a third party. Your use of such third party applications, websites, and services is governed by that party’s own terms of service or privacy policies. We encourage you to read the terms and conditions and privacy policy of any third party application, website or service that you visit or use. Note that while **diaspora\*** itself does not work directly with advertisers, third party applications may contain advertising or marketing materials provided by such third parties.
 
 Creating Accounts
 -----------------
@@ -38,7 +38,7 @@ Supporting the pod is not optional, donation or other help is required for using
 
 When you create an account you only create one account, multiple accounts for spam or placeholders will be deleted and you will be banned. Accounts are intended for real users to use for real purposes.
 
-When you create an account you also agree to maintain the security of your password and accept all risks of unauthorized access to your account data and any other information you provide to **diaspora**.
+When you create an account you also agree to maintain the security of your password and accept all risks of unauthorized access to your account data and any other information you provide to **diaspora\***.
 
 If you discover or suspect any Service security breaches, please let us know as soon as possible. For security holes in the diaspora\* software itself, please contact [the developers directly](mailto:security@diasporafoundation.org).
 
@@ -59,7 +59,7 @@ You can remove the content that you posted by deleting it. Once you delete your 
 
 Since diaspora\* is a distributed social network, it is possible, depending on the visibility rules set to your content, that your content has been distributed to other diaspora\* pods. When you delete your content, we will request those other pods to also delete the content. Our responsibility on the content being deleted from those other pods ends here. If for some reason, some other pod does not delete the content, we cannot be held responsible.
 
-In order to make **diaspora** a great place for all of us, please do not post, link and otherwise make available on or through the Service any of the following:
+In order to make **diaspora\*** a great place for all of us, please do not post, link and otherwise make available on or through the Service any of the following:
 
 * Pornographic content of any kind; http://www.merriam-webster.com/dictionary/pornography
 * Artistic content that depics minors or images/language that sexulises minors;
@@ -92,7 +92,7 @@ For full details about the diaspora\* server [see here](https://github.com/diasp
 Hyperlinks and Third Party Content
 ----------------------------------
 
-**diaspora** makes no claim or representation regarding, and accepts no responsibility for third party websites accessible by hyperlink from the Service or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern.
+**diaspora\*** makes no claim or representation regarding, and accepts no responsibility for third party websites accessible by hyperlink from the Service or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern.
 
 A lot of the content on the Service is from you and others, and we don't review, verify or authenticate it, and it may include inaccuracies or false information. We make no representations, warranties, or guarantees relating to the quality, suitability, truth, accuracy or completeness of any content contained in the Service. You acknowledge sole responsibility for and assume all risk arising from your use of or reliance on any content.
 
@@ -101,7 +101,7 @@ Unavoidable Legal Stuff
 
 **The Service and any other service and content included on or otherwise made available to you through the Service are provided to you on an as is or as available basis without any representations or warranties of any kind. We disclaim any and all warranties and representations (express or implied, oral or written) with respect to the Service and content included on or otherwise made available to you through the Service whether alleged to arise by operation of law, by reason of custom or usage in the trade, by course of dealing or otherwise.**
 
-**In no event will **diaspora** be liable to you or any third party for any special, indirect, incidental, exemplary or consequential damages of any kind arising out of or in connection with the Service or any other service and/or content included on or otherwise made available to you through the Service, regardless of the form of action, whether in contract, tort, strict liability or otherwise, even if we have been advised of the possibility of such damages or are aware of the possibility of such damages. This section will be given full effect even if any remedy specified in this agreement is deemed to have failed of its essential purpose.**
+**In no event will **diaspora\*** be liable to you or any third party for any special, indirect, incidental, exemplary or consequential damages of any kind arising out of or in connection with the Service or any other service and/or content included on or otherwise made available to you through the Service, regardless of the form of action, whether in contract, tort, strict liability or otherwise, even if we have been advised of the possibility of such damages or are aware of the possibility of such damages. This section will be given full effect even if any remedy specified in this agreement is deemed to have failed of its essential purpose.**
 
 You agree to defend, indemnify and hold us harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys' fees, costs, penalties, interest and disbursements) we incur in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third party relating to your use of the Service or the use of the Service by any person using your account, including any claim that your use of the Service violates any applicable law or regulation, or the rights of any third party, and/or your violation of these Terms.
 
@@ -113,7 +113,7 @@ The validity of these Terms and the rights, obligations, and relations of the pa
 Jurisdiction & Waiver of Representative Actions
 -----------------------------------------------
 
-You expressly agree that exclusive jurisdiction for any dispute with **diaspora**, or in any way relating to your use of the **diaspora** website or Service, resides in the courts of Oregon, USA and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of Oregon, USA in connection with any such dispute including any claim involving **diaspora**. You further agree that you and **diaspora** will not commence against the other a class action, class arbitration or other representative action or proceeding.
+You expressly agree that exclusive jurisdiction for any dispute with **diaspora\***, or in any way relating to your use of the **diaspora\*** website or Service, resides in the courts of Oregon, USA and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of Oregon, USA in connection with any such dispute including any claim involving **diaspora\***. You further agree that you and **diaspora\*** will not commence against the other a class action, class arbitration or other representative action or proceeding.
 
 Termination
 -----------
@@ -123,12 +123,12 @@ If you breach any of these Terms, we have the right to suspend or disable your a
 Entire Agreement
 ----------------
 
-These Terms constitute the entire agreement between you and **diaspora** regarding the use of the Service, superseding any prior agreements between you and **diaspora** relating to your use of the Service.
+These Terms constitute the entire agreement between you and **diaspora\*** regarding the use of the Service, superseding any prior agreements between you and **diaspora\*** relating to your use of the Service.
 
 Feedback
 --------
 
-We love feedback. Please let us know what you think of the Service, these Terms and, in general, **diaspora**. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, **diaspora**, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
+We love feedback. Please let us know what you think of the Service, these Terms and, in general, **diaspora\***. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, **diaspora\***, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
 
 Questions & Contact Information
 -------------------------------
