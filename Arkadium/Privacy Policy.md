@@ -2,7 +2,7 @@
 
 [](https://www.arkadium.com/)Sign inCreate a free profileCreate profile
 
-[Home](https://www.arkadium.com/)[All Games](https://www.arkadium.com/free-online-games/)[Best](https://www.arkadium.com/free-online-games/best/)[New](https://www.arkadium.com/free-online-games/new/)[Categories](https://www.arkadium.com/categories/)[Spring Favorites](https://www.arkadium.com/free-online-games/spring-favorites/)
+[Home](https://www.arkadium.com/)[All Games](https://www.arkadium.com/free-online-games/)[Best](https://www.arkadium.com/free-online-games/best/)[New](https://www.arkadium.com/free-online-games/new/)[Categories](https://www.arkadium.com/categories/)[Seasonal Games](https://www.arkadium.com/free-online-games/seasonal-games/)
 
 Search
 
