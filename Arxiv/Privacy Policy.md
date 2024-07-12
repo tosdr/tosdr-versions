@@ -161,7 +161,7 @@ Initializing search
     Brand
     
     * [Our Brand](https://info.arxiv.org/brand/index.html)
-    * [Logo Use](https://info.arxiv.org/brand/brand-guidelines.html)
+    * [Name and logo use](https://info.arxiv.org/brand/brand-guidelines.html)
     * [Brand pillars](https://info.arxiv.org/brand/brand-pillars.html)
     * [Colors](https://info.arxiv.org/brand/colors.html)
     * [Fonts](https://info.arxiv.org/brand/fonts.html)
