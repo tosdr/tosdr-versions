@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-5.357 Tb/s
+5.287 Tb/s
 
 Peak
 
@@ -24,7 +24,7 @@ Peak
 
 [ASNS
 
-878](https://www.ams-ix.net/ams/connected-networks)
+872](https://www.ams-ix.net/ams/connected-networks)
 
 [GET STARTED](https://www.ams-ix.net/ams/get-started)
 
