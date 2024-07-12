@@ -1,3 +1,5 @@
+ 
+
 [Skip to content](#content)
 
 Call us today  [(800) 452-6700](tel:8004526700 "call us (800) 452-6700")
@@ -6,7 +8,7 @@ Call us today  [(800) 452-6700](tel:8004526700 "call us (800) 452-6700")
 
 [×](javascript:void(0))
 
-* [Home](https://charactersforhire.com/)
+* [The #1 Party Entertainment Services Trusted by Major Corporations. Book and Save Now. It’s that easy!](https://charactersforhire.com/)
 * [About CFH](https://charactersforhire.com/about-us-at-characters-for-hire/)
     * [About CFH](https://charactersforhire.com/about-us-at-characters-for-hire/)
     * [Copyrights](https://charactersforhire.com/copyrights/)
@@ -95,16 +97,6 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors.
 
 These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Contents** [hide](#)
-
-[1 Privacy Policy](#Privacy_Policy)
-
-[1.1 What information do we collect?](#What_information_do_we_collect)
-
-[1.2 How do we protect your information?](#How_do_we_protect_your_information)
-
-[1.3 Do we use cookies?](#Do_we_use_cookies)
 
 * [Blog](https://charactersforhire.com/characters-for-hire-blog/)
 * [Casting](https://charactersforhire.com/performer-casting/)
