@@ -16,7 +16,7 @@ Terms of Service \- A Wiki.
 * [15
     
     Likes](https://gamebanana.com/wikis/likes/334)
-* [10
+* [11
     
     Subscribers](https://gamebanana.com/wikis/subscribers/334)
 * [0
