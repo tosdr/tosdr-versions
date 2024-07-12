@@ -57,7 +57,7 @@ Install
 * Hello, please [SIGN-UP FOR A FREE](https://www.ironmaglabs.com/forums/index.php?register/) account and become a member of our community!  
     You will then be able to start threads, post comments and send messages to other members. Thanks!
     
-* Check Out [IronMag Labs Andro Hard](https://www.ironmaglabs.com/product/andro-hard/)® - Powered by R-Andro & Epi-Andro!
+* **Check Out [IronMag Labs® KSM-66 Max](https://www.ironmaglabs.com/product/ksm-66-max/) - Recovery and Anabolic Growth Complex**
     
 
 * [Forums](https://www.ironmaglabs.com/forums/) 
