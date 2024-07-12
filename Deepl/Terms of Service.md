@@ -1,6 +1,4 @@
-[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)
-
-[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator-mobile)
+[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
 
 DeepL Translator (free)
 
@@ -28,8 +26,9 @@ LanguageEnglish
 * [Русский](https://www.deepl.com/ru/pro-license "Русский")
 * [简体中文](https://www.deepl.com/zh/pro-license "简体中文")
 * [Українська](https://www.deepl.com/uk/pro-license "Українська")
+* [العربية](https://www.deepl.com/ar/pro-license "العربية")
 
-[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/translator-mobile)
+[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/translator)
 
 * Resources
 * [Help Center](https://support.deepl.com/hc/en-us)
@@ -42,12 +41,13 @@ LanguageEnglish
 * [Cancel subscriptions here](https://support.deepl.com/hc/en-us/requests/new?ticket_form_id=13384459519132)
 
 * Product
-* [Free translator](https://www.deepl.com/translator-mobile)
+* [Free translator](https://www.deepl.com/translator)
 * [Features](https://www.deepl.com/features)
 * [DeepL Pro](https://www.deepl.com/pro?cta=footer-pro)
 * [Translation API](https://www.deepl.com/pro-api)
-* [DeepL Write](https://www.deepl.com/write-mobile)
+* [DeepL Write](https://www.deepl.com/write)
 * [Apps](https://www.deepl.com/app)
+* [Document Translation](https://www.deepl.com/en/features/document-translation)
 
 * Download
 * [DeepL for Android](https://www.deepl.com/android-app)
