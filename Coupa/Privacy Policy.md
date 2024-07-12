@@ -455,7 +455,6 @@ To see Coupa’s full DPF Statement and learn about how Coupa complies with the 
         * [White Papers](https://www.coupa.com/resources?resource=3832#resources)
         * [Upcoming Webinars](https://www.coupa.com/events?field_event_type=4361#resources)
         * [Events](https://www.coupa.com/events?field_event_type=4356#resources)
-        * [Inspire](https://www.coupa.com/inspire)
         * [Suppliers](https://supplier.coupa.com/)
         * [The Community Forums](https://coupa-external.okta.com/)
 * * Partners
