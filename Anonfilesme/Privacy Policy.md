@@ -1,5 +1,4 @@
-File sharing platform, anonymous and free
-=========================================
+#### File sharing platform, anonymous and free
 
 No expiration Remove after 1 day Remove after 7 days Remove after 31 days 
 
