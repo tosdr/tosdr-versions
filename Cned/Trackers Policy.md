@@ -60,8 +60,10 @@ Fermer le menu de navigation[![Page d'accueil du Cned](/themes/custom/ud_cned/di
 * Qui sommes-nous ?Qui sommes-nous ?
     
     * [En bref](https://www.cned.fr/le-cned-en-bref)
-    * [Notre histoire](https://www.cned.fr/l-histoire-du-cned)
-    * [L'international](https://www.cned.fr/international)
+    * [Notre histoire](https://www.cned.fr/le-cned-en-bref/l-histoire-du-cned)
+    * [L'international](https://www.cned.fr/le-cned-en-bref/le-cned-a-l-international)
+    * [Notre gouvernance](https://www.cned.fr/le-cned-en-bref/notre-gouvernance)
+    * [Nos implantations](https://www.cned.fr/le-cned-en-bref/nos-implantations)
     * [Nos publications](https://www.cned.fr/nos-publications)
     * [Financer sa formation](https://www.cned.fr/financer-sa-formation)
     
@@ -485,8 +487,10 @@ Retrouvez-nous sur
 * Qui sommes-nous ? Qui sommes-nous ?
     
     * [En bref](https://www.cned.fr/le-cned-en-bref)
-    * [Notre histoire](https://www.cned.fr/l-histoire-du-cned)
-    * [L'international](https://www.cned.fr/international)
+    * [Notre histoire](https://www.cned.fr/le-cned-en-bref/l-histoire-du-cned)
+    * [L'international](https://www.cned.fr/le-cned-en-bref/le-cned-a-l-international)
+    * [Notre gouvernance](https://www.cned.fr/le-cned-en-bref/notre-gouvernance)
+    * [Nos implantations](https://www.cned.fr/le-cned-en-bref/nos-implantations)
     * [Nos publications](https://www.cned.fr/nos-publications)
     * [Financer sa formation](https://www.cned.fr/financer-sa-formation)
     
