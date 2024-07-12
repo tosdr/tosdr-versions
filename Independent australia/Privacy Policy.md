@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/duttons-nuclear-lights-are-out-and-no-ones-home,18701)
+[The Brittany Higgins 'diabolical plot to bring down the House' explained](https://independentaustralia.net/article-display/the-brittany-higgins-diabolical-plot-to-bring-down-the-house-explained,18760)
 
 [IA Writing Competition wants YOU](https://independentaustralia.net/article-display/calling-all-writers-ia-wants-you,17378)
 
-[The fable of the Under Down Land](https://independentaustralia.net/article-display/the-fable-of-the-under-down-land,18691)
+[Dominique Grubisa faces penalty hearing in Federal Court](https://independentaustralia.net/article-display/dominique-grubisa-faces-penalty-hearing-in-federal-court,18754)
 
-[A Coalition pie-in-the-sky nuclear nightmare](https://independentaustralia.net/article-display/a-coalition-pie-in-the-sky-nuclearnightmare,18704)
+[John Shipton delivers triumphant speech at Julian Assange's birthday](https://independentaustralia.net/article-display/john-shipton-delivers-triumphant-speech-at-julian-assanges-birthday,18753)
 
-[Australian media stretches the truth on pro-Palestine movement](https://independentaustralia.net/article-display/australian-media-stretches-the-truth-on-pro-palestine-movement,18696)
+[ABC failing to fact-check the powerful](https://independentaustralia.net/article-display/abc-failing-to-fact-check-the-powerful,18751)
 
 Privacy Policy
 
@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Dutton’s nuclear lights are out and no one’s home](https://independentaustralia.net/article-display/duttons-nuclear-lights-are-out-and-no-ones-home,18701 "Permanent Link : Dutton’s nuclear lights are out and no one’s home")
-* [Getting around Gough](https://independentaustralia.net/article-display/getting-around-gough,18697 "Permanent Link : Getting around Gough")
-* [A Coalition pie-in-the-sky nuclear nightmare](https://independentaustralia.net/article-display/a-coalition-pie-in-the-sky-nuclearnightmare,18704 "Permanent Link : A Coalition pie-in-the-sky nuclear nightmare")
-* [The Far-Right's war against women in America](https://independentaustralia.net/article-display/the-far-rights-war-against-women-in-america,18700 "Permanent Link : The Far-Right's war against women in America")
-* [Finally! Vanilla Ice makes a zombie movie](https://independentaustralia.net/article-display/finally-vanilla-ice-makes-a-zombie-movie,18702 "Permanent Link : Finally! Vanilla Ice makes a zombie movie")
-* [Feathers ruffled over Fossil Free Books' stance on artwashing](https://independentaustralia.net/article-display/feathers-ruffled-over-fossil-free-books-stance-on-artwashing,18703 "Permanent Link : Feathers ruffled over Fossil Free Books' stance on artwashing")
-* [DR ABUL RIZVI: Is Australia's great multicultural experiment over?](https://independentaustralia.net/article-display/dr-abul-rizvi-is-australias-great-multicultural-experiment-over,18699 "Permanent Link : DR ABUL RIZVI: Is Australia's great multicultural experiment over?")
+* [The Brittany Higgins 'diabolical plot to bring down the House' explained](https://independentaustralia.net/article-display/the-brittany-higgins-diabolical-plot-to-bring-down-the-house-explained,18760 "Permanent Link : The Brittany Higgins 'diabolical plot to bring down the House' explained")
+* [IA Writing Competition: MAY | JUNE WINNERS!](https://independentaustralia.net/article-display/ia-writing-competition-may-june-winners,18756 "Permanent Link : IA Writing Competition: MAY | JUNE WINNERS!")
+* [UN says population slowing, but we're now living longer](https://independentaustralia.net/article-display/un-says-population-slowing-but-were-now-living-longer,18768 "Permanent Link : UN says population slowing, but we're now living longer")
+* [America's gathering storm: Trump turns Republican Party into cult machine](https://independentaustralia.net/article-display/americas-gathering-storm-trump-turns-republican-party-into-cult-machine,18766 "Permanent Link : America's gathering storm: Trump turns Republican Party into cult machine")
+* [Zionist lobby shaking up politics in Australia and UK](https://independentaustralia.net/article-display/zionist-lobby-shaking-up-politics-in-australia-and-uk,18764 "Permanent Link : Zionist lobby shaking up politics in Australia and UK")
+* [If Biden can't do the job, Democrats need to consider alternatives](https://independentaustralia.net/article-display/if-biden-cant-do-the-job-democrats-need-to-consider-alternatives,18763 "Permanent Link : If Biden can't do the job, Democrats need to consider alternatives")
+* [War Memorial's ignorance of Frontier Wars must end](https://independentaustralia.net/article-display/war-memorials-ignorance-of-frontier-wars-must-end,18762 "Permanent Link : War Memorial's ignorance of Frontier Wars must end")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
