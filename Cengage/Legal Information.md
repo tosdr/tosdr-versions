@@ -61,7 +61,7 @@ Cengage Group Privacy Notice
 Read our Privacy Notice Below: 
 -------------------------------
 
-[PDF version of the Privacy Notice (Effective as of January 12, 2024)](https://cengage.widen.net/view/pdf/hk69f4p7oq/cengage-privacy-notice-october-2020-1508150.pdf?t.download=true&u=lpaabn)
+[PDF version of the Privacy Notice (Effective as of July 10, 2024)](https://cengage.widen.net/view/pdf/hk69f4p7oq/cengage-privacy-notice-october-2020-1508150.pdf?t.download=true&u=lpaabn)
 
 [Cengage](https://www.cengage.com/)
 
