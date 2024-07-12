@@ -5,7 +5,7 @@
 Main Navigation
 ---------------
 
-[![Healthy First](https://cdn.healthy-first.org/wp-content/uploads/sites/201/2020/10/healthy-first_logo.svg)](https://healthy-first.org/) 
+[![Healthy First](https://cdn.healthy-first.org/wp-content/uploads/sites/201/2020/10/healthy-first_logo.svg)](https://healthy-first.org/)
 
 1Information
 
