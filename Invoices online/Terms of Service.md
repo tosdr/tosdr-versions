@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Henry Venter
+Shaun Gartshore
 
-![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=135159954)  
-IAS Logistics ta Multi transit
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=194886542)  
+TurboFibre
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=159872617)  
-MSPCloud (Pty) Ltd
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=42242453)  
+Vplay Letsheng Mall
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=170182291)  
-Abandoned Vehicle and Truck Solutions
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=60481091)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=109071736)  
-All Trucking Solutions
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=71462835)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=213024677)  
-Cooper Logistics (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=169264555)  
+MONSTER SECURITY GUARDING
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=113750054)  
-Entidee Enterprise PTY (ltd)
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=208333864)  
+Itroniq (Pty) Ltd
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=42652595)  
-Firstweb Hosting & Design
+![valued client HI KINGDOM ATS](https://www.invoicesonline.co.za/scripts/image.php?bid=8187&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=202400827)  
+HI KINGDOM ATS
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=76998204)  
-INVOICES/JOBCARDS ONLINE
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=176777970)  
+Electro-Heat
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79123814)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Khiya Technology Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=5545&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=158831460)  
+Khiya Technology Solutions
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=188112188)  
-West Coast Horse Trails
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=71586717)  
+PROGRAPHIX PTY LTD
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=156912748)  
-BD Maintenance
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=96987872)  
+OXYAIDER (PTY) LTD
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79667463)  
-SLOANE STAR MEAT MARKET
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=194927614)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=51738854)  
-Blue Sky Solar Services
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=171784285)  
+Salvage Genie
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=34642565)  
-Lily Fern & Co
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=161066231)  
+Glass and Allied Industries
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=186711376)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Reliable Store](https://www.invoicesonline.co.za/scripts/image.php?bid=6792&file=logo_300_100&type=&fe=b69f919636d1fefa3d0a9cc1fcbc2d1c4302baa05479d90c68e739e5c065583e&c=43485163)  
+Reliable Store
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
