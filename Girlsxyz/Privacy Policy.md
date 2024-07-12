@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2357 Connecté
+2862 Connecté
 
 [Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
 
@@ -10,42 +10,42 @@
 
 Catégories
 
-* [Anal (838 Live)](https://girls.xyz/anal)
-* [Arabe (12 Live)](https://girls.xyz/arabe)
-* [Asiatique (65 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (132 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (174 Live)](https://girls.xyz/blacks)
-* [Blanches (475 Live)](https://girls.xyz/blanches)
-* [Blondes (236 Live)](https://girls.xyz/blonde)
-* [Brunes (1060 Live)](https://girls.xyz/brune)
-* [Chattes poilues (142 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (988 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (1 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (561 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (631 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (905 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (309 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (1146 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (14 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (684 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (509 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (96 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (312 Live)](https://girls.xyz/grosses)
-* [Indienne (6 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (561 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (1162 Live)](https://girls.xyz/jouets)
-* [Latinas (767 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (7 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (629 Live)](https://girls.xyz/babes)
-* [Musclé (44 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (184 Live)](https://girls.xyz/petite)
-* [Petits seins (309 Live)](https://girls.xyz/petits-seins)
+* [Anal (977 Live)](https://girls.xyz/anal)
+* [Arabe (22 Live)](https://girls.xyz/arabe)
+* [Asiatique (78 Live)](https://girls.xyz/asiatique)
+* [Belles et rondes (164 Live)](https://girls.xyz/belles-et-rondes)
+* [Blacks (214 Live)](https://girls.xyz/blacks)
+* [Blanches (660 Live)](https://girls.xyz/blanches)
+* [Blondes (290 Live)](https://girls.xyz/blonde)
+* [Brunes (1291 Live)](https://girls.xyz/brune)
+* [Chattes poilues (196 Live)](https://girls.xyz/chattes-poilues)
+* [Chattes rasées (1217 Live)](https://girls.xyz/chattes-ras%C3%A9es)
+* [Enceintes (5 Live)](https://girls.xyz/enceintes)
+* [Etudiantes (655 Live)](https://girls.xyz/lyc%C3%A9ennes)
+* [Femmes au Foyer (755 Live)](https://girls.xyz/femmes-au-foyer)
+* [Femmes fontaines (1108 Live)](https://girls.xyz/squirting)
+* [Femmes mûres (441 Live)](https://girls.xyz/femmes-m%C3%BBres)
+* [Fetiche (1336 Live)](https://girls.xyz/fetiche)
+* [Fumeuses (19 Live)](https://girls.xyz/fumeuses)
+* [Gros cul (745 Live)](https://girls.xyz/gros-cul)
+* [Gros seins (610 Live)](https://girls.xyz/gros-seins)
+* [Gros Seins (124 Live)](https://girls.xyz/seins-enormes)
+* [Grosses (380 Live)](https://girls.xyz/grosses)
+* [Indienne (15 Live)](https://girls.xyz/indienne)
+* [Jeunes 18+ (655 Live)](https://girls.xyz/ados-18)
+* [Jouets sexuels (1413 Live)](https://girls.xyz/jouets)
+* [Latinas (853 Live)](https://girls.xyz/latinas)
+* [Lesbiennes (25 Live)](https://girls.xyz/lesbi%C3%A8nes)
+* [Minettes (747 Live)](https://girls.xyz/babes)
+* [Musclé (52 Live)](https://girls.xyz/muscl%C3%A9)
+* [Petite (141 Live)](https://girls.xyz/petite)
+* [Petits seins (342 Live)](https://girls.xyz/petits-seins)
 * [Pornstar (7 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (203 Live)](https://girls.xyz/rousses)
-* [Seins moyens (585 Live)](https://girls.xyz/seins-moyens)
+* [Rousses (261 Live)](https://girls.xyz/rousses)
+* [Seins moyens (765 Live)](https://girls.xyz/seins-moyens)
 * [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (390 Live)](https://girls.xyz/sm)
-* [Vieilles (17 Live)](https://girls.xyz/vieilles)
+* [SM (466 Live)](https://girls.xyz/sm)
+* [Vieilles (19 Live)](https://girls.xyz/vieilles)
 
 Historique
 
@@ -148,7 +148,7 @@ The processing of your data takes place within the framework of contractual re
 
 Consent for processing the aforementioned data can be revoked at any time. Please note that services based on such data may then no longer be available.
 
-Further information on the chargeable Chats modes can be found in the Terms and Conditions of Use ([http://girls.xyz/terms](https://girls.xyz/terms)).
+Further information on the chargeable Chats modes can be found in the Terms and Conditions of Use ([https://girls.xyz/terms](https://girls.xyz/terms)).
 
 ### Log data
 
@@ -539,7 +539,7 @@ Assistance
 *   
     
 * [Avis des utilisateurs](https://girls.xyz/reviews)
-* [Complaints & Content Removal](https://girls.xyz/content-removal)
+* [Retrait de contenu](https://girls.xyz/content-removal)
 
 Concours / Argent
 
