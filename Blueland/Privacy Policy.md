@@ -8,9 +8,6 @@
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refill Packs](https://www.blueland.com/collections/refills)
-    * [Subscribe & Save
-        
-        Save up to 20%](https://www.blueland.com/collections/subscriptions)
     
     Offset
     
@@ -40,9 +37,6 @@ Toggle navigation menu
 0
 
 * [Shop All](https://www.blueland.com/collections/all)
-* [Subscribe & Save
-    
-    Up to 20% off](https://www.blueland.com/collections/subscriptions)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
@@ -399,7 +393,6 @@ Oops, something went wrong
 * ### Shop
     
     * [All](https://www.blueland.com/collections/all)
-    * [Subscribe & Save](https://www.blueland.com/collections/subscriptions)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refills](https://www.blueland.com/collections/refills)
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
