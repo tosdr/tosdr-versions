@@ -506,7 +506,7 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.16.7. For the avoidance of doubt, Sections 4, 5.1.7, 5.1.11 and 5.3 (“_Pertinent Sections_”) shall be applicable to Your Content and your use of the MTIP (including uploading, publishing, displaying, distributing or making Your Content available on the MTIP). This Section 13.16 and the Pertinent Sections, to the greatest extent practicable, will be construed to be consistent with each other, but in the event of a conflict they will govern in the following order of precedence: (i) this Section 13.16; and (ii) the Pertinent Sections.
 
-* [About Piriform](https://www.ccleaner.com/about)
+* About Piriform
 * [Press Releases](https://newsroom.gendigital.com/ccleaner)
 * Offices
 * [Partner Program](https://www.ccleaner.com/partners)
@@ -562,4 +562,5 @@ For press inquiries and more information please [contact us](https://www.ccleane
 
 © Copyright 2005-2024 Gen Digital Inc - All rights reserved.  
 [Terms of Use](https://www.ccleaner.com/about/terms-of-use) - [Supplier Guidelines](https://www.ccleaner.com/legal/supplier-guidelines) - [Modern Slavery Statement](https://s1.pir.fm/pf/legal/2019-2020%20Avast%20MS%20Transparency%20Statement.pdf) - [General Privacy Policy](https://www.ccleaner.com/legal/general-privacy-policy) - [Do Not Sell or Share My Personal Information](https://www.ccleaner.com/legal/do-not-sell) - [Consent Policy](https://www.ccleaner.com/legal/consent-policy) - [Products Policy](https://www.ccleaner.com/legal/products-policy) - [Cookies Policy](https://www.ccleaner.com/about/cookies-policy) - [Accessibility Policy](https://www.ccleaner.com/legal/accessibility-policy)  
-CCleaner, Defraggler, Recuva and Speccy are all registered trademarks of Gen Digital Inc.
+CCleaner, Defraggler, Recuva and Speccy are all registered trademarks of Gen Digital Inc.  
+Affiliate Disclosure: Gen Digital may receive a commission for purchases made through this product.
