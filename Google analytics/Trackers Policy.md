@@ -84,7 +84,7 @@ Google Analytics Advertising Features let you enable features in Analytics that 
 
 By enabling the Advertising Features, you enable Google Analytics to collect data about your traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types/) and identifiers, in addition to data collected through a standard Google Analytics implementation. Regardless of how you send data to Google Analytics (for example, via the Google Analytics tracking code, Google Analytics SDK, or the Measurement Protocol), if you use Google Analytics Advertising Features, you must adhere to this policy.
 
-When you use Google Analytics Advertising Features, you are the sole controller under all applicable data protection legislation.
+When you use Google Analytics Advertising Features, you are the sole controller under all applicable data protection legislation. By linking your Analytics property to your Google Ads account, you enable data to flow between the products. Data exported from your Analytics property into Google Ads is subject to the Google Ads terms of service, while Google Ads data imported into Analytics is subject to the Analytics terms of service.
 
 This means you will not identify users or facilitate the merging of personally identifiable information with additional information collected through any Google advertising product or feature unless you have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that identification or merger, and are using a Google Analytics feature that expressly supports such identification or merger. Irrespective of users’ consent, you must not attempt to disaggregate data that Google reports in aggregate.
 
@@ -115,7 +115,7 @@ If you've enabled interest-based advertising, including Remarketing, with Google
 
 Because laws across countries and territories vary, and because Google Analytics can be used in many ways, Google is unable to provide the exact language you need to include in your privacy policy. Only you understand the unique aspects and special considerations of your business, and your privacy policy should account for this information that only you can provide.
 
-This policy was last updated April 27, 2022.
+This policy was last updated May 16, 2024.
 
 Was this helpful?
 -----------------
@@ -244,7 +244,7 @@ Google apps
 
 Main menu
 
-1520695355670833532
+6022866980622611886
 
 true
 
