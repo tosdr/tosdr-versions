@@ -149,11 +149,3 @@ Hol dir jetzt die neue heycar App und finde dein Traumauto mit Garantie – jede
 [](https://heycar.page.link/vyJw)
 
 © Copyright 2024 Mobility Trader GmbH. Alle Rechte vorbehalten.
-
-Mit Klick auf "Akzeptieren" erteilst du uns deine Einwilligung, dass wir deine Nutzung unserer Plattform durch Cookies und andere Technologien (von heycar und Dritten) nachverfolgen, um deine Nutzungserfahrung und dir angezeigte Werbung zu analysieren und personalisieren ([**mehr Details**](https://hey.car/privacy)).
-
-Du stimmst damit auch zu, dass deine Daten hierbei ohne geeignete Datenschutzgarantien an Partner in sog. Drittländern übermittelt werden können, die kein angemessenes Datenschutzniveau bieten, wie z.B. die USA aufgrund staatlicher Zugriffsmöglichkeiten.
-
-Alternativ kannst du deine Einstellungen im [**Cookie Richtlinie**](https://hey.car/cookie-richtlinie) jetzt und jederzeit später individuell anpassen. Willst du **keine Einwilligung** erteilen, dann klick bitte **hier**.
-
-[Details anzeigen](https://hey.car/cookie-richtlinie)Akzeptieren
