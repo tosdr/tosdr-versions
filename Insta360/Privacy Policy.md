@@ -24,13 +24,13 @@ MORE CAMERAS![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8
 
 [Accessories](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
 
-Action Cameras
+Wide-Angle Cameras
 
 [Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 
 Handheld Gimbals
 
-[Insta360 Flow](https://www.insta360.com/product/insta360-flow)
+[Insta360 Flow Pro Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
 
 Webcams
 
@@ -550,11 +550,11 @@ No
 
 * [Insta360 X4](https://www.insta360.com/product/insta360-x4)
 * [Insta360 X3](https://www.insta360.com/product/insta360-x3)
-* [Instal360 GO 3S & Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
+* [Insta360 GO 3S & Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
 * [Insta360 Ace Pro & Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 * [Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)
 * [Insta360 ONE RS 1-Inch 360](https://www.insta360.com/product/insta360-oners/1inch-360)
-* [Insta360 Flow](https://www.insta360.com/product/insta360-flow)
+* [Insta360 Flow Pro & Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
 * [Insta360 Link](https://www.insta360.com/product/insta360-link)
 
 ### Support
