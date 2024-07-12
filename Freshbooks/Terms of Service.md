@@ -8,23 +8,30 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
-****Hot Summer Savings ☀️**** 60% Off for 4 Months. **[BUY NOW & SAVE](https://www.freshbooks.com/pricing)**
+[****Hot Summer Savings ☀️**** 60% Off for 4 Months. **Buy Now & Save**
 
 📣 Only
 
 0 0 Days : 0 0 Hours : 0 0 Minutes : 0 0 Seconds
 
-Left to Get 60% Off for 4 Months [**BUY NOW & SAVE**](https://www.freshbooks.com/pricing)
+Left to Get 60% Off for 4 Months **BUY NOW & SAVE**
 
-**60% Off for 4 Months [Buy Now & Save](https://www.freshbooks.com/pricing)**
+**60% Off for 4 Months Buy Now & Save**
 
-Back [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
+![Close promo banner](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/promo-topbar-close.965a416c.svg)](https://www.freshbooks.com/pricing)
 
-[Try It Free](https://www.freshbooks.com/signup) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
+[![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
-![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/header/nav-hamburger.svg) ![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/header/nav-close.svg)
+[Buy Now & Save](https://www.freshbooks.com/pricing) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
+
+![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/header/nav-hamburger.svg)
+
+![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/header/nav-close.svg)
+
+![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logomark.7bd46e0e.svg) ![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/arrow-right-midnight.e7cbd64c.svg) Back
 
 * Features
+    
     * [Bill & Get Paid](#0)
         * [Invoicing
             
@@ -76,7 +83,8 @@ Back [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress
         * [iOS & Android Apps
             
             Send invoices, track time, manage payments, and more…from anywhere.](https://www.freshbooks.com/mobile-apps)
-* For Small Businesses
+* Small Businesses
+    
     * Business Size
         * [Freelancers](https://www.freshbooks.com/for-freelancers)
         * [Self-Employed Professionals](https://www.freshbooks.com/self-employed-professionals)
@@ -90,51 +98,43 @@ Back [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress
         * [IT & Technology](https://www.freshbooks.com/accounting-software/for-technology-companies)
         * [Legal](https://www.freshbooks.com/accounting-software/for-law-firms)
         * [Business & Prof. Services](https://www.freshbooks.com/accounting-software/professional-services)
-* For Accountants
+* Accountants
+    
     * [Accounting Partner Program](https://www.freshbooks.com/accountants)
     * [Collaborative Accounting™](https://www.freshbooks.com/accountants/collaborative-accounting)
     * [Accountant Hub](https://www.freshbooks.com/accountants/hub)
 * Resources
+    
     * [Learning](#0)
         * [Blog](https://www.freshbooks.com/blog/)
         * [Glossary](https://www.freshbooks.com/glossary)
         * [Hub](https://www.freshbooks.com/hub)
         * [Reports Library](https://www.freshbooks.com/research-data-reports-library)
-        * [Podcasts](https://www.freshbooks.com/podcast)
     * [Compare](#0)
         * [FreshBooks vs QuickBooks](https://www.freshbooks.com/compare/quickbooks-vs-freshbooks)
         * [FreshBooks vs HoneyBook](https://www.freshbooks.com/honeybook-vs-freshbooks)
         * [FreshBooks vs Harvest](https://www.freshbooks.com/compare/freshbooks-vs-harvest-time-tracking)
         * [FreshBooks vs Wave](https://www.freshbooks.com/compare/freshbooks-vs-wave-accounting)
         * [FreshBooks vs Xero](https://www.freshbooks.com/compare/freshbooks-vs-xero)
-    * [Tools](#0)
-        * [Free Invoice Generator](https://www.freshbooks.com/tools/invoice-generator)
-        * [Invoice Templates](https://www.freshbooks.com/invoice-templates)
-        * [Accounting Templates](https://www.freshbooks.com/accounting-templates)
-        * [Business Name Generator](https://www.freshbooks.com/business-name-generator)
-        * [Estimate Templates](https://www.freshbooks.com/estimate-templates)
+    * [Partners](#0)
+        * [Partners Hub](https://www.freshbooks.com/partner)
+* [Pricing](https://www.freshbooks.com/pricing)
+* [Contact Us](#0)
+    
     * [Support](#0)
         * [Help Center](https://support.freshbooks.com/hc/en-us)
-    * [Partners](#0)
-        * [Partners](https://www.freshbooks.com/partner)
-    * [Calculators](#0)
-        * [Business Loan Calculator](https://www.freshbooks.com/tools/business-loan-calculator)
-        * [Mark Up Calculator](https://www.freshbooks.com/tools/markup-calculator)
-* [Pricing](https://www.freshbooks.com/pricing)
+        * [Contact Us](https://www.freshbooks.com/contact)
+    * [Contact Sales](#0)
+        * [1-888-674-3175](tel:1-888-674-3175)
 
-[Contact Us](https://www.freshbooks.com/contact)
+ [![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/user-icon.df69b14b.svg) Log In](https://auth.freshbooks.com/service/auth/integrations/sign_in)
 
-Call Toll Free: [1.866.303.6061](tel:18663036061)
-
-[1-888-674-3175](tel:18886743175)
-
-[Try It Free](https://www.freshbooks.com/signup) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
-
-[Login](https://auth.freshbooks.com/service/auth/integrations/sign_in) [Try it Free](https://www.freshbooks.com/signup)
+[Buy Now & Save](https://www.freshbooks.com/pricing) [Try It Free](https://www.freshbooks.com/signup) [![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/user-icon.df69b14b.svg) Log In](https://auth.freshbooks.com/service/auth/integrations/sign_in) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
 
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
 * Features
+    
     * [Bill & Get Paid](#0)
         * [Invoicing
             
@@ -186,7 +186,8 @@ Call Toll Free: [1.866.303.6061](tel:18663036061)
         * [iOS & Android Apps
             
             Send invoices, track time, manage payments, and more…from anywhere.](https://www.freshbooks.com/mobile-apps)
-* For Small Businesses
+* Small Businesses
+    
     * Business Size
         * [Freelancers](https://www.freshbooks.com/for-freelancers)
         * [Self-Employed Professionals](https://www.freshbooks.com/self-employed-professionals)
@@ -200,39 +201,36 @@ Call Toll Free: [1.866.303.6061](tel:18663036061)
         * [IT & Technology](https://www.freshbooks.com/accounting-software/for-technology-companies)
         * [Legal](https://www.freshbooks.com/accounting-software/for-law-firms)
         * [Business & Prof. Services](https://www.freshbooks.com/accounting-software/professional-services)
-* For Accountants
+* Accountants
+    
     * [Accounting Partner Program](https://www.freshbooks.com/accountants)
     * [Collaborative Accounting™](https://www.freshbooks.com/accountants/collaborative-accounting)
     * [Accountant Hub](https://www.freshbooks.com/accountants/hub)
 * Resources
+    
     * [Learning](#0)
         * [Blog](https://www.freshbooks.com/blog/)
         * [Glossary](https://www.freshbooks.com/glossary)
         * [Hub](https://www.freshbooks.com/hub)
         * [Reports Library](https://www.freshbooks.com/research-data-reports-library)
-        * [Podcasts](https://www.freshbooks.com/podcast)
     * [Compare](#0)
         * [FreshBooks vs QuickBooks](https://www.freshbooks.com/compare/quickbooks-vs-freshbooks)
         * [FreshBooks vs HoneyBook](https://www.freshbooks.com/honeybook-vs-freshbooks)
         * [FreshBooks vs Harvest](https://www.freshbooks.com/compare/freshbooks-vs-harvest-time-tracking)
         * [FreshBooks vs Wave](https://www.freshbooks.com/compare/freshbooks-vs-wave-accounting)
         * [FreshBooks vs Xero](https://www.freshbooks.com/compare/freshbooks-vs-xero)
-    * [Tools](#0)
-        * [Free Invoice Generator](https://www.freshbooks.com/tools/invoice-generator)
-        * [Invoice Templates](https://www.freshbooks.com/invoice-templates)
-        * [Accounting Templates](https://www.freshbooks.com/accounting-templates)
-        * [Business Name Generator](https://www.freshbooks.com/business-name-generator)
-        * [Estimate Templates](https://www.freshbooks.com/estimate-templates)
+    * [Partners](#0)
+        * [Partners Hub](https://www.freshbooks.com/partner)
+* [Pricing](https://www.freshbooks.com/pricing)
+* [Contact Us](#0)
+    
     * [Support](#0)
         * [Help Center](https://support.freshbooks.com/hc/en-us)
-    * [Partners](#0)
-        * [Partners](https://www.freshbooks.com/partner)
-    * [Calculators](#0)
-        * [Business Loan Calculator](https://www.freshbooks.com/tools/business-loan-calculator)
-        * [Mark Up Calculator](https://www.freshbooks.com/tools/markup-calculator)
-* [Pricing](https://www.freshbooks.com/pricing)
+        * [Contact Us](https://www.freshbooks.com/contact)
+    * [Contact Sales](#0)
+        * [1-888-674-3175](tel:1-888-674-3175)
 
-[1.866.303.6061](tel:18663036061) [1-888-674-3175](tel:18886743175) [Contact Us](https://www.freshbooks.com/contact) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in) [Try It Free](https://www.freshbooks.com/signup) [Try it Free](https://www.freshbooks.com/signup) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
+[Login](https://auth.freshbooks.com/service/auth/integrations/sign_in?_gl) [Buy Now & Save](https://www.freshbooks.com/pricing) [Try It Free](https://www.freshbooks.com/signup) [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
 
 Privacy and Security:
 
@@ -513,74 +511,6 @@ privacy@FreshBooks.com
 
 [![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
 
-* Company
-    * [About Us](https://www.freshbooks.com/about)
-    * [Our Story](https://www.freshbooks.com/about/ourstory)
-    * [Diversity and Inclusivity](https://www.freshbooks.com/diversity-and-inclusivity)
-    * [Careers](https://www.freshbooks.com/careers)
-    * [Contact](https://www.freshbooks.com/contact)
-    * [Press Center](https://www.freshbooks.com/press)
-* Features
-    * [All FreshBooks Features](https://www.freshbooks.com/features)
-    * [Accounting](https://www.freshbooks.com/accounting)
-    * [AppsStore](https://appstore.freshbooks.com/)
-    * [Bookkeeping](https://www.freshbooks.com/bookkeeping)
-    * [Clients](https://www.freshbooks.com/client-management-software)
-    * [Expenses & Receipts](https://www.freshbooks.com/expenses-and-receipts-tracking)
-    * [Estimates](https://www.freshbooks.com/estimating-software)
-    * [Invoicing](https://www.freshbooks.com/invoice)
-    * [Mileage Tracking](https://www.freshbooks.com/mileage-tracking-app)
-    * [Mobile](https://www.freshbooks.com/mobile-apps)
-    * [Payments](https://www.freshbooks.com/accept-payments)
-    * [Payroll](https://www.freshbooks.com/payroll-software)
-    * [Projects](https://www.freshbooks.com/projects-and-collaboration)
-    * [Proposals](https://www.freshbooks.com/proposal-software)
-    * [Reports](https://www.freshbooks.com/financial-reporting)
-    * [Time Tracking](https://www.freshbooks.com/timesheets-and-time-tracking)
-* Who It’s For
-    * BUSINESS SIZE
-        * [Freelancers](https://www.freshbooks.com/for-freelancers)
-        * [Businesses With Contractors](https://www.freshbooks.com/businesses-with-contractors)
-        * [Businesses With Employees](https://www.freshbooks.com/businesses-with-employees)
-        * [Self-Employed Professionals](https://www.freshbooks.com/self-employed-professionals)
-    * BUSINESS INDUSTRY
-        * [Accountants](https://www.freshbooks.com/accountants)
-        * [Construction](https://www.freshbooks.com/accounting-software/construction)
-        * [Consultants](https://www.freshbooks.com/accounting-software/for-consultants)
-        * [IT & Technology](https://www.freshbooks.com/accounting-software/for-technology-companies)
-        * [Legal](https://www.freshbooks.com/accounting-software/for-law-firms)
-        * [Marketing & Agencies](https://www.freshbooks.com/accounting-software/marketing-advertising-agencies)
-        * [Creatives](https://www.freshbooks.com/accounting-software/for-creatives)
-        * [Professional Services](https://www.freshbooks.com/accounting-software/professional-services)
-* Partners
-    * [Partners](https://www.freshbooks.com/partner)
-    * [Affiliate Program](https://www.freshbooks.com/affiliate-program)
-    * [Apps](https://appstore.freshbooks.com/)
-    * [Developers](https://www.freshbooks.com/developers)
-    * [Education](https://www.freshbooks.com/education)
-    * [Referral Program](https://www.freshbooks.com/referral-program)
-* Helpful Links
-    * [Accounting Software](https://www.freshbooks.com/accounting-software)
-    * [Accounting Templates](https://www.freshbooks.com/accounting-templates)
-    * [Blog](https://www.freshbooks.com/blog/)
-    * [Glossary](https://www.freshbooks.com/glossary)
-    * [Free Invoice Generator](https://www.freshbooks.com/tools/invoice-generator)
-    * [Invoice Templates](https://www.freshbooks.com/invoice-templates)
-    * [Estimate Templates](https://www.freshbooks.com/estimate-templates)
-    * [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
-    * [Pricing](https://www.freshbooks.com/pricing)
-    * [QuickBooks Alternative](https://www.freshbooks.com/compare/quickbooks-online-alternative)
-    * [Resource Hub](https://www.freshbooks.com/hub)
-    * [Sign Up](https://www.freshbooks.com/signup)
-    * [Sitemap](https://www.freshbooks.com/sitemap)
-    * [Support](https://support.freshbooks.com/hc/en-us)
-    * [Tools](https://www.freshbooks.com/tools)
-* Policies
-    * [Accessibility](https://www.freshbooks.com/accessibility)
-    * [Privacy Policy](https://www.freshbooks.com/policies/privacy)
-    * [Security Safeguards](https://www.freshbooks.com/policies/security-safeguards)
-    * [Terms of Service](https://www.freshbooks.com/policies/terms-of-service)
-
 United States
 
 [Australia](https://www.freshbooks.com/en-au/) [Canada](https://www.freshbooks.com/en-ca/) [European Union](https://www.freshbooks.com/en-eu/) [Mexico](https://www.freshbooks.mx/) [South Africa](https://www.freshbooks.com/en-za/) [United Kingdom](https://www.freshbooks.com/en-gb/) [United States](https://www.freshbooks.com/policies/terms-of-service)
@@ -589,10 +519,66 @@ English
 
 [English](https://www.freshbooks.com/en-au/) [English](https://www.freshbooks.com/en-ca/) [English](https://www.freshbooks.com/en-eu/) [English](https://www.freshbooks.com/en-za/) [English](https://www.freshbooks.com/en-gb/) [English](https://www.freshbooks.com/policies/terms-of-service)
 
- [![App Store](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/app-stores/app-store-en-us.8c4986ee.svg)](https://apps.apple.com/app/apple-store/id1052884030?pt=63077)[![Google Play](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/app-stores/google-play-en-us.250a06f1.svg)](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda)
+* Company
+    * [About Us](https://www.freshbooks.com/about)
+    * [Our Story](https://www.freshbooks.com/about/ourstory)
+    * [Careers](https://www.freshbooks.com/careers)
+    * [Diversity and Inclusivity](https://www.freshbooks.com/diversity-and-inclusivity)
+    * [Press Center](https://www.freshbooks.com/press)
+    * [Contact](https://www.freshbooks.com/contact)
+    * [Blog](https://www.freshbooks.com/blog/)
+* Product
+    * [Invoice Software](https://www.freshbooks.com/invoice)
+    * [Expenses and Receipts](https://www.freshbooks.com/expenses-and-receipts-tracking)
+    * [Accounting](https://www.freshbooks.com/accounting)
+    * [Time Tracking](https://www.freshbooks.com/timesheets-and-time-tracking)
+    * [Managing Projects](https://www.freshbooks.com/projects-and-collaboration)
+    * [Estimating Software](https://www.freshbooks.com/estimating-software)
+    * [Online Payments](https://www.freshbooks.com/accept-payments)
+    * [Financial Reports](https://www.freshbooks.com/financial-reporting)
+    * [Mobile Apps](https://www.freshbooks.com/mobile-apps)
+    * [Pricing](https://www.freshbooks.com/pricing)
+    * [High Volume Billing](https://www.freshbooks.com/select)
+    * [All FreshBooks Features](https://www.freshbooks.com/features)
+* Who It’s For
+    * [Freelancers](https://www.freshbooks.com/for-freelancers)
+    * [Businesses With Contractors](https://www.freshbooks.com/businesses-with-contractors)
+    * [Businesses With Employees](https://www.freshbooks.com/businesses-with-employees)
+    * [Self-Employed Professionals](https://www.freshbooks.com/self-employed-professionals)
+    * [Accountants](https://www.freshbooks.com/accountants)
+    * [Construction](https://www.freshbooks.com/accounting-software/construction)
+    * [Consultants](https://www.freshbooks.com/accounting-software/for-consultants)
+    * [IT and Technology](https://www.freshbooks.com/accounting-software/for-technology-companies)
+    * [Legal](https://www.freshbooks.com/accounting-software/for-law-firms)
+    * [Marketing and Agencies](https://www.freshbooks.com/accounting-software/marketing-advertising-agencies)
+    * [Creatives](https://www.freshbooks.com/accounting-software/for-creatives)
+    * [Professional Services](https://www.freshbooks.com/accounting-software/professional-services)
+* Partners
+    * [Integrations](https://appstore.freshbooks.com/)
+    * [Education](https://www.freshbooks.com/education)
+    * [Referral Program](https://www.freshbooks.com/referral-program)
+    * [Affiliate Program](https://www.freshbooks.com/affiliate-program)
+    * [Reseller Program](https://www.freshbooks.com/partner)
+    * [Developers](https://www.freshbooks.com/developers)
+* Helpful Links
+    * [Login](https://auth.freshbooks.com/service/auth/integrations/sign_in)
+    * [Support](https://support.freshbooks.com/hc/en-us)
+    * [Sitemap](https://www.freshbooks.com/sitemap)
+    * [QuickBooks Alternative](https://www.freshbooks.com/compare/quickbooks-online-alternative)
+    * [Support Webinars](https://freshbookswebinars.splashthat.com/)
+    * [Accounting Software](https://www.freshbooks.com/accounting-software)
+    * [Invoice Template](https://www.freshbooks.com/invoice-templates)
+    * [Accounting Templates](https://www.freshbooks.com/accounting-templates)
+    * [Resource Hub](https://www.freshbooks.com/hub)
+    * [Tools](https://www.freshbooks.com/tools)
+* Policies
+    * [Accessibility](https://www.freshbooks.com/accessibility)
+    * [Privacy Policy](https://www.freshbooks.com/policies/privacy)
+    * [Terms of Service](https://www.freshbooks.com/policies/terms-of-service)
+    * [Security Safeguards](https://www.freshbooks.com/policies/security-safeguards)
 
- [![Twitter](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-twitter.5f091a5a.svg)](https://twitter.com/freshbooks)[![Facebook](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-fb.cc01ba2a.svg)](https://www.facebook.com/FreshBooks)[![YouTube](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-yt.f2747138.svg)](https://www.youtube.com/user/freshbooks)[![Instagram](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-ig.3cf1de26.svg)](https://www.instagram.com/freshbooks/)
+ [![App Store](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/app-stores/app-store-en-us.1eeb5ad4.svg)](https://apps.apple.com/app/apple-store/id1052884030?pt=63077)[![Google Play](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/app-stores/google-play-en-us.39fc2dfd.svg)](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda)
 
-© 2000-2024 FreshBooks
+ [![X](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-x.9f5b560f.svg)](https://x.com/freshbooks)[![Facebook](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-fb.cc01ba2a.svg)](https://www.facebook.com/FreshBooks)[![YouTube](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-yt.f2747138.svg)](https://www.youtube.com/user/freshbooks)[![Instagram](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/footer/icon-ig.3cf1de26.svg)](https://www.instagram.com/freshbooks/)
 
-[![Freshbooks Logo](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logo.svg)](https://www.freshbooks.com/)
+© 2024 FreshBooks | Call Toll Free: 1.866.303.6061
