@@ -78,7 +78,6 @@ Rechercher sur Le Parisien
     
     * [Législatives 2024](https://www.leparisien.fr/elections/legislatives/)
     * [Résultats législatives 2024](https://www.leparisien.fr/resultats-elections/)
-    * [Européennes 2024](https://www.leparisien.fr/elections/europeennes/)
     
 * [International](https://www.leparisien.fr/international/)
     
@@ -701,7 +700,7 @@ Si l'une quelconque des dispositions des CGV/CGU est déclarée nulle ou sans ob
 ---------------------------------
 
 L’Utilisateur a la possibilité de recourir, en cas de contestation, à une procédure de médiation conventionnelle ou à tout autre mode de règlement des différends.  
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, la Société adhère au Service du Médiateur CMAP, soit en utilisant le formulaire à sa disposition sur le site internet du CMAP ([www.mediateur-conso.cmap.fr](http://www.mediateur-conso.cmap.fr/)), soit en remplissant le formulaire ([www.cmap.fr/consommateurs](https://www.leparisien.fr/cgu/www.cmap.fr/consommateurs)), soit par courrier postal (CMAP Service Médiation de la consommation, 39, avenue F.D. Roosevelt, 75008 PARIS).
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, la Société adhère au Service du Médiateur CMAP, soit en utilisant le formulaire à sa disposition sur le site internet du CMAP ([www.mediateur-conso.cmap.fr](http://www.mediateur-conso.cmap.fr/)), soit en remplissant le formulaire ([www.cmap.fr/consommateurs](https://www.cmap.fr/consommateurs)), soit par courrier postal (CMAP Service Médiation de la consommation, 39, avenue F.D. Roosevelt, 75008 PARIS).
 
 18.3 Service Client
 -------------------
@@ -820,9 +819,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=689)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=705)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=689)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=705)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
@@ -830,7 +829,7 @@ Profitez des avantages de l’offre numérique
 
 [2024](https://www.leparisien.fr/archives/2024/)[2023](https://www.leparisien.fr/archives/2023/)[2022](https://www.leparisien.fr/archives/2022/)[2021](https://www.leparisien.fr/archives/2021/)[2020](https://www.leparisien.fr/archives/2020/)[2019](https://www.leparisien.fr/archives/2019/)[2018](https://www.leparisien.fr/archives/2018/)[2017](https://www.leparisien.fr/archives/2017/)[2016](https://www.leparisien.fr/archives/2016/)
 
-[Fête de la Musique 2024](https://www.leparisien.fr/etudiant/sortir/paris/fete-de-la-musique/)
+[Résultats du Bac 2024](https://www.leparisien.fr/etudiant/examens/bac/resultats-du-bac-O7CQF5NTSFPQ7GJBL6D3YO6ZJQ.php)
 
 [Codes de réduction](https://www.leparisien.fr/codes-promo/marques/)
 
