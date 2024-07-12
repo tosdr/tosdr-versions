@@ -2,39 +2,6 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-Voulez-vous Dynadot enfrançais?[OUI](https://www.dynadot.com/fr/terms-of-use)
-
-[⚡️ FLASH SALE ⚡️ Register 1st year .NET domains for only $3.49 with coupon code FLASHYNET until 6/21/2024 23:59 EST!](https://www.dynadot.com/domain/net?utm_source=Promobar&utm_campaign=NET%20Promobar%20June%202024&utm_medium=net%20flash&drefid=4532) [Bring people together online with a .CO domain for $3.29 or a .CLUB domain for $1.99 until 6/23/2024!](https://www.dynadot.com/exclusive-flash-sales?utm_source=Promobar&utm_campaign=CO%20CLUB%20Promobar%20June%202024&utm_medium=co%20club%20flash&drefid=4511)
-
-EN
-
-* [Español](https://www.dynadot.com/es/terminos-de-uso)
-* [中文](https://www.dynadot.com/zh/terms-of-use)
-* [العربية](https://www.dynadot.com/ar/terms-of-use)
-* [Deutsch](https://www.dynadot.com/de/terms-of-use)
-* [Português](https://www.dynadot.com/pt/terms-of-use)
-* [Français](https://www.dynadot.com/fr/terms-of-use)
-* [Русский](https://www.dynadot.com/ru/terms-of-use)
-* [हिन्दी](https://www.dynadot.com/hi/terms-of-use)
-* [Italiano](https://www.dynadot.com/it/terms-of-use)
-* [日本語](https://www.dynadot.com/ja/terms-of-use)
-* [한국어](https://www.dynadot.com/ko/terms-of-use)
-* [Indonesia](https://www.dynadot.com/id/terms-of-use)
-* [Српски](https://www.dynadot.com/sr/terms-of-use)
-
-EUR (€)
-
-* [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
-* [Euro EUR (€)](https://www.dynadot.com/terms-of-use)
-* [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
-* [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
-* [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
-* [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
-* [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
-* [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
-* [Australian Dollar AUD (AU$)](https://www.dynadot.com/change_currency.html?chg_currency=AUD&pg=%2Fterms-of-use)
-
 [](https://www.dynadot.com/)
 
 * Domains  
@@ -122,7 +89,7 @@ Support
 
 Help Center
 
-**Chat** : Busy
+**Chat** : Online
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -172,14 +139,14 @@ EN
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-EUR (€)
+GBP (£)
 
 * [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
-* [Euro EUR (€)](https://www.dynadot.com/terms-of-use)
+* [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
 * [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
 * [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
 * [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
+* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
@@ -269,7 +236,7 @@ Support
 
 Help Center
 
-Chat: Busy
+Chat: Online
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -2134,14 +2101,14 @@ EN  
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-EUR (€)  
+GBP (£)  
 
 * [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
-* [Euro EUR (€)](https://www.dynadot.com/terms-of-use)
+* [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
 * [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
 * [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
 * [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
+* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
@@ -2267,14 +2234,14 @@ EN  
 * [Indonesia](https://www.dynadot.com/id/terms-of-use)
 * [Српски](https://www.dynadot.com/sr/terms-of-use)
 
-EUR (€)  
+GBP (£)  
 
 * [US Dollar USD ($)](https://www.dynadot.com/change_currency.html?chg_currency=USD&pg=%2Fterms-of-use)
-* [Euro EUR (€)](https://www.dynadot.com/terms-of-use)
+* [Euro EUR (€)](https://www.dynadot.com/change_currency.html?chg_currency=EUR&pg=%2Fterms-of-use)
 * [人民币 CNY (¥)](https://www.dynadot.com/change_currency.html?chg_currency=CNY&pg=%2Fterms-of-use)
 * [Canadian Dollar CAD (C$)](https://www.dynadot.com/change_currency.html?chg_currency=CAD&pg=%2Fterms-of-use)
 * [Pesos Mexicanos MXN (MX$)](https://www.dynadot.com/change_currency.html?chg_currency=MXN&pg=%2Fterms-of-use)
-* [British Pound GBP (£)](https://www.dynadot.com/change_currency.html?chg_currency=GBP&pg=%2Fterms-of-use)
+* [British Pound GBP (£)](https://www.dynadot.com/terms-of-use)
 * [Real Brasileiro BRL (R$)](https://www.dynadot.com/change_currency.html?chg_currency=BRL&pg=%2Fterms-of-use)
 * [Indian Rupee INR (Rs.)](https://www.dynadot.com/change_currency.html?chg_currency=INR&pg=%2Fterms-of-use)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
