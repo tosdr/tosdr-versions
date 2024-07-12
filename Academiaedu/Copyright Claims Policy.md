@@ -153,7 +153,7 @@ Need an account? [Click here to sign up](https://www.academia.edu/signup)
 * [People](https://www.academia.edu/Directory/People)
 * [Papers](https://www.academia.edu/documents)
 * [Topics](https://www.academia.edu/topics)
-* [Academia.edu Publishing](https://www.academia.edu/publishing)
+* [Academia.edu Journals](https://www.academia.edu/journals)
 *  [**We're Hiring!**](https://www.academia.edu/hiring)
 *  [**Help Center**](https://support.academia.edu/)
 
