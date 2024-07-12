@@ -19,6 +19,7 @@
 * [Google Workspace](https://www.ionos.com/terms-gtc/google-workspace/)
 * [IONOS Partner Program](https://www.ionos.com/terms-gtc/partner-program/)
 * [Logo Generator](https://www.ionos.com/terms-gtc/logo-generator/)
+* [Abmahnschutz](https://www.ionos.com/terms-gtc/abmahnschutz/)
 
 Privacy policy
 ==============
@@ -64,6 +65,20 @@ Google Analytics plants a permanent cookie on your web browser to identify you a
 We use the information received from Google Analytics only to improve services on this Site.  We do not combine the information collected through the use of Google Analytics with personally identifiable information.
 
 Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Privacy Policy.  You can prevent Google Analytics from recognizing you on return visits to this Site by disabling the Google Analytics cookie on your browser ([https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).)
+
+### Custom Audiences
+
+We use services such as Meta Custom Audiences, LinkedIn Matched Audiences, TikTok Custom Audiences, Reddit Custom Audiences and Google Customer Match to deliver targeted advertising in the form of advertisements on our marketing partners' portals. We transmit personal data (email address, telephone number, postcode, country) in an anonymized (hashed) format to our marketing partners, including Meta (Facebook), Google, TikTok, LinkedIn, and Reddit. Further information on data processing by our partners can be found at:
+
+[](https://www.facebook.com/privacy/policy)[https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+[https://www.tiktok.com/legal/page/row/privacy-policy/en](https://www.tiktok.com/legal/page/row/privacy-policy/en)
+
+[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
+
+[https://www.reddit.com/de-de/policies/privacy-policy](https://www.reddit.com/de-de/policies/privacy-policy)
 
 ### HubSpot
 
@@ -123,9 +138,9 @@ Any questions concerning this Privacy Policy may be directed by e-mail to [Priva
 
 To report abuse, please send an e-mail to [abuse@ionos.com.](mailto:abuse@ionos.com.)
 
-Revised: October 12, 2018
+Revised: July 9 , 2024
 
-© 2019 IONOS Inc. All rights reserved.
+© 2024 IONOS Inc. All rights reserved.
 
 ### Content
 
@@ -134,6 +149,7 @@ Revised: October 12, 2018
 * [Log Files](https://www.ionos.com/terms-gtc/privacy-policy/#c9195)
 * [How we Use and Share this information](https://www.ionos.com/terms-gtc/privacy-policy/#c9193)
 * [Google Analytics](https://www.ionos.com/terms-gtc/privacy-policy/#c9191)
+* [Custom Audiences](https://www.ionos.com/terms-gtc/privacy-policy/#c10586)
 * [HubSpot](https://www.ionos.com/terms-gtc/privacy-policy/#c9189)
 * [Special Offers and Updates](https://www.ionos.com/terms-gtc/privacy-policy/#c9187)
 * [Service Announcements](https://www.ionos.com/terms-gtc/privacy-policy/#c9185)
