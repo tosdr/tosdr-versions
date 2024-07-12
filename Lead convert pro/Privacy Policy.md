@@ -149,7 +149,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Meta ads conversion tracking (Meta pixel)
@@ -164,7 +164,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Facebook Audience Network
     
@@ -182,7 +182,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### ShareThis (Sharethis Inc.)
@@ -197,7 +197,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Analytics
@@ -237,7 +237,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Wordpress Stats
     
@@ -251,7 +251,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Facebook Analytics for Apps
     
@@ -265,7 +265,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Google Analytics Advertising Reporting Features
     
@@ -281,7 +281,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Google Analytics Demographics and Interests reports
     
@@ -297,7 +297,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Analytics collected directly (leadconvertpro.com)
     
@@ -325,7 +325,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Communication
     
@@ -354,7 +354,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Contacting the User
     
@@ -368,7 +368,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Mailing list or newsletter (leadconvertpro.com)
     
@@ -428,7 +428,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Gravatar
     
@@ -443,7 +443,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Handling activities related to productivity
     
@@ -470,7 +470,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Handling payments
     
@@ -520,7 +520,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Hosting and backend infrastructure
     
@@ -585,7 +585,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Twitter Tweet button and social widgets (X Corp.)
     
@@ -599,7 +599,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Interaction with live chat platforms
     
@@ -618,7 +618,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Managing contacts and sending messages
     
@@ -637,7 +637,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Lead Convert Pro Lead Management
@@ -671,7 +671,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Platform services and hosting
     
@@ -708,7 +708,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Facebook Authentication
     
@@ -722,7 +722,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Facebook Oauth
     
@@ -736,7 +736,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Remarketing and behavioral targeting
     
@@ -759,7 +759,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Facebook Custom Audience
@@ -776,7 +776,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Remarketing with Google Analytics
@@ -791,7 +791,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Google Signals
@@ -808,7 +808,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Google Ads Remarketing
@@ -825,7 +825,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### LinkedIn Website Retargeting (LinkedIn Corporation)
@@ -840,7 +840,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
     #### Twitter Remarketing (X Corp.)
@@ -855,7 +855,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Social features
@@ -916,7 +916,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 * ### Traffic optimization and distribution
     
@@ -937,7 +937,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
     #### Sucuri CloudProxy (Sucuri, Inc.)
     
@@ -952,7 +952,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     
 
 Information on opting out of interest-based advertising
@@ -1426,6 +1426,6 @@ This privacy policy relates solely to leadconvertpro.com, if not stated otherwis
 
 Latest update: March 08, 2024
 
-[iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/privacy-and-cookie-policy-generator). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
 [Show the simplified Privacy Policy](https://www.iubenda.com/privacy-policy/13075706 "Show the simplified Privacy Policy")
