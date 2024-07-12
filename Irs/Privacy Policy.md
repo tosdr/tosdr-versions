@@ -383,20 +383,20 @@ IRS privacy policy
 
 ### More In Our Agency
 
-* [IRS Organization](https://www.irs.gov/about-irs/irs-organization "IRS Organization")
-* [A Closer Look](https://www.irs.gov/a-closer-look "A Closer Look")
-* [Financial and Budget Reports](https://www.irs.gov/about-irs/financial-and-budget-reports "Financial and Budget Reports")
-* [Tax Statistics](https://www.irs.gov/statistics "Tax Statistics")
-* [Do Business with the IRS](https://www.irs.gov/about-irs/procurement "Do Business with the IRS")
+* [IRS organization](https://www.irs.gov/about-irs/irs-organization "IRS organization")
+* [A closer look](https://www.irs.gov/a-closer-look "A closer look")
+* [Financial and budget reports](https://www.irs.gov/about-irs/financial-and-budget-reports "Financial and budget reports")
+* [Tax statistics](https://www.irs.gov/statistics "Tax statistics")
+* [Do business with the IRS](https://www.irs.gov/about-irs/procurement "Do business with the IRS")
 * [Criminal Investigation](https://www.irs.gov/compliance/criminal-investigation "Criminal Investigation")
 * [Whistleblower Office](https://www.irs.gov/compliance/whistleblower-office "Whistleblower Office")
 * [Volunteer](https://www.irs.gov/individuals/irs-tax-volunteers "Volunteer")
 * [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information "Freedom of Information Act")
-* [Privacy Policy](https://www.irs.gov/privacy-disclosure/irs-privacy-policy "Privacy Policy")
+* [Privacy policy](https://www.irs.gov/privacy-disclosure/irs-privacy-policy "Privacy policy")
     * [Privacy Impact Assessment](https://www.irs.gov/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessment")
-    * [Safeguards Program](https://www.irs.gov/privacy-disclosure/safeguards-program "Safeguards Program")
-* [Civil Rights](https://www.irs.gov/about-irs/protecting-taxpayer-civil-rights "Civil Rights")
-* [Vulnerability Disclosure Policy](https://www.irs.gov/about-irs/vulnerability-disclosure-policy "Vulnerability Disclosure Policy")
+    * [Safeguards program](https://www.irs.gov/privacy-disclosure/safeguards-program "Safeguards program")
+* [Civil rights](https://www.irs.gov/about-irs/protecting-taxpayer-civil-rights "Civil rights")
+* [Vulnerability disclosure policy](https://www.irs.gov/about-irs/vulnerability-disclosure-policy "Vulnerability disclosure policy")
 
 Thank you for visiting the Internal Revenue Service's website, an official United States Government System, and reviewing our privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which might be used to identify you. The IRS uses this website to provide information about IRS services and programs. This website includes specific applications which provide more services or enable us to respond to specific questions from website visitors.
 
@@ -476,7 +476,7 @@ For more information on taxpayer burden see Pub. 5743. If you have comments conc
 
 The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://uscode.house.gov/ "Internal Revenue Code"), the [Privacy Act of 1974](https://www.gpo.gov/fdsys/pkg/USCODE-2010-title5/html/USCODE-2010-title5-partI-chap5-subchapII-sec552a.htm "Privacy Act of 1974 - U.S. Government Printing Office"), the [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information "IRS Freedom of Information"), and IRS policies and practices. Visit the [IRS Electronic Freedom of Information Act Reading Room](https://www.irs.gov/privacy-disclosure/foia-library "FOIA Library") for more information about these laws. We document much of our internal policy on these laws in [IRM 10.5.1, Privacy Policy](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy").
 
-The Senior Agency Official for Privacy (SAOP), as mandated by [OMB M-16-24](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_24_0.pdf " ")PDF, has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy. The [SAOP for the IRS](https://home.treasury.gov/footer/privacy-act "U.S. Department of the Treasury | Privacy Act") is positioned at the Department of Treasury. 
+The Senior Agency Official for Privacy (SAOP), as mandated by [OMB M-16-24 PDF](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_24_0.pdf " "), has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy. The [SAOP for the IRS](https://home.treasury.gov/footer/privacy-act "U.S. Department of the Treasury | Privacy Act") is positioned at the Department of Treasury. 
 
 #### [Privacy policy topics](#collapseCollapsible1705618165977_381141)
 
@@ -544,7 +544,7 @@ Exemptions to the Privacy Act can be found near the end of each individual SORN,
 
 #### [IRS Privacy Program Plan](#collapseCollapsible1705618165967_256635)
 
-Ensuring the IRS preserves and enhances public confidence by properly protecting, retaining and disclosing taxpayer information is the main purpose of the [IRS Privacy Program Plan](https://www.irs.gov/pub/irs-pdf/p5499.pdf "0224 Publ 5499                           (PDF)")PDF. 
+Ensuring the IRS preserves and enhances public confidence by properly protecting, retaining and disclosing taxpayer information is the main purpose of the [IRS Privacy Program Plan PDF](https://www.irs.gov/pub/irs-pdf/p5499.pdf "0224 Publ 5499                           (PDF)"). 
 
 The plan provides an overview of the:
 
@@ -646,7 +646,7 @@ Washington, DC 20224
 
 [What you should know](https://www.irs.gov/taxpayer-bill-of-rights)
 
-Page Last Reviewed or Updated: 05-Mar-2024
+Page Last Reviewed or Updated: 11-Jul-2024
 
 * [Share](#)
     *  Facebook
