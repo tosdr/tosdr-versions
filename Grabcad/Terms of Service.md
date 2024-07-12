@@ -273,8 +273,6 @@ Shop
 
 [Engineering Managers](https://grabcad.com/shop/3d-printing-management-software)
 
-[Pricing](https://grabcad.com/shop/pricing)
-
 PARTNERS
 
 [Software Partners](https://grabcad.com/featured-software-partners)
