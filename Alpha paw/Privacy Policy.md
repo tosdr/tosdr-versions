@@ -50,7 +50,7 @@ Checkout
 
 Error
 
-Save 15% today with code: GIFT15
+Save 15% today with code: SUMFUN15
 
        
 
