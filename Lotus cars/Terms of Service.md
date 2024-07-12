@@ -1,6 +1,8 @@
 You need to enable JavaScript to run this app.
 
-[](https://www.lotuscars.com/login?redirect_url=%2Fmy-lotus)
+<iframe :src="\`https://www.googletagmanager.com/ns.html?id=${gtmUid?.value}\`" height="0" width="0" style="display:none;visibility:hidden" />
+
+  [![](/sitecore/media library/Project/Portal Site/Icons/Others/Log in)  My Lotus](https://www.lotuscars.com/login?redirect_url=%2Fmy-lotus)
 
 MODELS
 
