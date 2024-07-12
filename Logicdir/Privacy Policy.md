@@ -14,7 +14,7 @@ Privacy Policy
 
 Print
 
-Created on 1 March, 2023 | 2,052 views | 1 minutes read
+Created on 1 March, 2023 | 2,227 views | 1 minutes read
 
 The privacy policy explains what personal information we collect and how it is used. The Site collects this information to analyze and provide better experiences with our services. If you do not want to agree to the Privacy Policy, you must not access or u
 
