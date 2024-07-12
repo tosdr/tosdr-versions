@@ -98,6 +98,7 @@ EN
     * [Español](https://imazing.com/es/licensing-policy)
     * [Italiano](https://imazing.com/it/licensing-policy)
     * [Português](https://imazing.com/pt/licensing-policy)
+    * [Українська](https://imazing.com/uk/licensing-policy)
     * [Pусский](https://imazing.com/ru/licensing-policy)
     * [العربية](https://imazing.com/ar/licensing-policy)
     * [中文](https://imazing.com/zh/licensing-policy)
