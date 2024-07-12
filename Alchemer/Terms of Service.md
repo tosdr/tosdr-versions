@@ -308,6 +308,12 @@ Compare Alchemer
 
 [Alchemer vs. Survey Monkey](https://www.alchemer.com/alchemer-vs-survey-monkey/)
 
+[Alchemer vs. Medallia](https://www.alchemer.com/alchemer-vs-medallia/)
+
+[Alchemer vs. Forsta](https://www.alchemer.com/alchemer-vs-forsta/)
+
+[Alchemer vs. QuestionPro](https://www.alchemer.com/alchemer-vs-questionpro/)
+
 [![The Denver Post Top Workplace Award 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201222%20622'%3E%3C/svg%3E)
 
 ![The Denver Post Top Workplace Award 2024](https://www.alchemer.com/wp-content/uploads/2024/05/TWP_Denver_2024_WhiteNoBG.png)](https://www.alchemer.com/resources/blog/alchemer-named-to-denver-posts-top-workplaces-for-2024/)
@@ -342,7 +348,7 @@ Request a demo so you can see what’s possible for your organization.
 
 [×](#)
 
-                                 
+                                  
 
 Close GDPR Cookie Settings
 
