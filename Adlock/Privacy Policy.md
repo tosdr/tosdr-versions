@@ -313,24 +313,6 @@ Latest news
 
 ### How to Easily Block Ads on Android Devices](https://adlock.com/blog/how-to-block-ads-on-android-phone/)
 
-GET ADLOCK FOR YOUR DEVICE
-
-[![AdLock for Android](/wp-content/uploads/2022/06/Group-267.png)
-
-#### AdLock for Android](https://adlock.com/adlock-for-android/)[Download](https://adlock.com/apk/)
-
-[![AdLock for Windows](/wp-content/uploads/2022/06/Group-268.png)
-
-#### AdLock for Windows](https://adlock.com/adlock-for-windows/)[Download](https://adlock.com/exe/)
-
-[![AdLock for iOS](/wp-content/uploads/2022/06/Group-265-e1687768853626.png)
-
-#### AdLock for iOS](https://adlock.com/adlock-for-ios/)[Download](https://apps.apple.com/us/app/ad-blocker-for-safari-adlock/id1506604517/)
-
-[![AdLock for macOS](/wp-content/uploads/2022/06/Group-266.png)
-
-#### AdLock for macOS](https://adlock.com/adlock-for-macos/)[Download](https://adlock.com/dmg/)
-
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adlock-for-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
 [About us](https://adlock.com/about-us/)[Partnership](https://adlock.com/for-partners/)[FAQ](https://adlock.com/frequently-asked-questions/)[Blog](https://adlock.com/blog/)[Acknowledgements](https://adlock.com/acknowledgements/)[Affiliate](https://adlock.com/affiliate/)[User Guide](https://adlock.com/user-guide/)[Refund Policy](https://adlock.com/refund-policy/)[EULA](https://adlock.com/eula/ "EULA")[Privacy Policy](https://adlock.com/privacy-policy/ "Privacy Policy")
