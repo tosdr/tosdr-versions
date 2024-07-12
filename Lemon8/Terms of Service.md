@@ -14,8 +14,6 @@
     
 * Singapore
     
-* UK
-    
 * US
     
 
