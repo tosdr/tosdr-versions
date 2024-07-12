@@ -152,7 +152,9 @@ En
 Cookies
 -------
 
-For magic to happen, we use cookies. Read our [Privacy Policy](https://www.lalal.ai/privacy-policy/) to learn more.
+We use cookies to improve your experience, including possible ad personalization. Read our [Privacy Policy](https://www.lalal.ai/privacy-policy/) to learn more.
+
+By continuing to use this site, you also consent to [Google’s use of your personal data](https://business.safety.google/privacy/). Click Manage to control your cookie preferences.
 
 ### Necessary
 
