@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
-* [\[ June 15, 2024 \] Doing the Right Thing for Schools, and the Education of Our Children National News](https://americanfreepress.net/doing-the-right-thing-for-schools-and-the-education-of-our-children/ "Doing the Right Thing for Schools, and the Education of Our Children")
-* [\[ June 15, 2024 \] U.S. Public Schools Collapsing Subscriber Only](https://americanfreepress.net/u-s-public-schools-collapsing/ "U.S. Public Schools Collapsing")
-* [\[ June 14, 2024 \] Israel-First Lobby Fails to Unseat Non-Interventionist Congressman Subscriber Only](https://americanfreepress.net/israel-first-lobby-fails-to-unseat-non-interventionist-congressman/ "Israel-First Lobby Fails to Unseat Non-Interventionist Congressman")
-* [\[ June 14, 2024 \] American Attendees of Bilderberg 2024 Conspiracy Buzz](https://americanfreepress.net/american-attendees-of-bilderberg-2024/ "American Attendees of Bilderberg 2024")
-* [\[ June 14, 2024 \] Trump Sees Unexpected Rise in Support from Blacks, Hispanics Subscriber Only](https://americanfreepress.net/trump-sees-unexpected-rise-in-support-from-blacks-hispanics/ "Trump Sees Unexpected Rise in Support from Blacks, Hispanics")
+* [\[ June 29, 2024 \] Economic Collapse Only Way to Prevent World War III National News](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/ "Economic Collapse Only Way to Prevent World War III")
+* [\[ June 29, 2024 \] Anti-WHO Declaration, Legislation Passed Subscriber Only](https://americanfreepress.net/anti-who-declaration-legislation-passed/ "Anti-WHO Declaration, Legislation Passed")
+* [\[ June 28, 2024 \] Biden Says Violent Crime Rate Dropping, But Honest Statistics Counter the Claim National News](https://americanfreepress.net/biden-says-violent-crime-rate-dropping-but-honest-statistics-counter-the-claim/ "Biden Says Violent Crime Rate Dropping, But Honest Statistics Counter the Claim")
+* [\[ June 28, 2024 \] Small Business Owners Scared They Won’t Survive Biden’s Economic Policies Subscriber Only](https://americanfreepress.net/small-business-owners-scared-they-wont-survive-bidens-economic-policies/ "Small Business Owners Scared They Won’t Survive Biden’s Economic Policies")
+* [\[ June 27, 2024 \] Issue 25/26 2024 News You May Have Missed National News](https://americanfreepress.net/issue-25-26-2024-news-you-may-have-missed/ "Issue 25/26 2024 News You May Have Missed")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -254,7 +254,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/25&26_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_25_26_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/27&28_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_27&28_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -268,18 +268,18 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
-* [Doing the Right Thing for Schools, and the Education of Our Children](https://americanfreepress.net/doing-the-right-thing-for-schools-and-the-education-of-our-children/)
-* [U.S. Public Schools Collapsing](https://americanfreepress.net/u-s-public-schools-collapsing/)
-* [Israel-First Lobby Fails to Unseat Non-Interventionist Congressman](https://americanfreepress.net/israel-first-lobby-fails-to-unseat-non-interventionist-congressman/)
-* [Pope Shows Disdain for Conservatives, Promotes Illegal Immigration](https://americanfreepress.net/pope-shows-disdain-for-conservatives-promotes-illegal-immigration/)
-* [American Attendees of Bilderberg 2024](https://americanfreepress.net/american-attendees-of-bilderberg-2024/)
+* [Economic Collapse Only Way to Prevent World War III](https://americanfreepress.net/economic-collapse-only-way-to-prevent-world-war-iii/)
+* [Anti-WHO Declaration, Legislation Passed](https://americanfreepress.net/anti-who-declaration-legislation-passed/)
+* [Israel Targets U.S. Congressmen With Fake Media Accounts, Propaganda](https://americanfreepress.net/israel-targets-u-s-congressmen-with-fake-media-accounts-propaganda/)
+* [What About the Biden Family’s Other Crimes?](https://americanfreepress.net/what-about-the-biden-familys-other-crimes/)
+* [Biden Says Violent Crime Rate Dropping, But Honest Statistics Counter the Claim](https://americanfreepress.net/biden-says-violent-crime-rate-dropping-but-honest-statistics-counter-the-claim/)
 
 ###### Recent Comments
 
+* James Jaeger on [American Attendees of Bilderberg 2024](https://americanfreepress.net/american-attendees-of-bilderberg-2024/#comment-54073)
+* [Wesley Mcgranor](https://www.tumblr.com/american-protestant) on [Pope Shows Disdain for Conservatives, Promotes Illegal Immigration](https://americanfreepress.net/pope-shows-disdain-for-conservatives-promotes-illegal-immigration/#comment-54053)
 * Karl C. Gaiser on [U.S. Public Schools Collapsing](https://americanfreepress.net/u-s-public-schools-collapsing/#comment-54042)
 * [Wesley Mcgranor](https://www.tumblr.com/american-protestant) on [Culture War Victories for America](https://americanfreepress.net/culture-war-victories-for-america/#comment-53992)
-* Albert on [U.S. Fertility Rates Plunge](https://americanfreepress.net/u-s-fertility-rates-plunge/#comment-53973)
-* Gary on [Contents of Ashley Biden Journal Suppressed by Mainstream Media](https://americanfreepress.net/contents-of-ashley-biden-journal-suppressed-by-mainstream-media/#comment-53509)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=356779846)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=2137080619)
