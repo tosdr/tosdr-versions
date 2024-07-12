@@ -1,8 +1,8 @@
-[Skip to main content](#maincontent) [Skip to footer content](#footercontent)
+[Skip to main content](#main-content) [Skip to footer content](#footercontent) [Navigate to Accessibility Statement](https://www.conair.com/en/conair-digital-accessibility-statement.html?lang=en_US)
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
- [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwae3a0e27/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwae3a0e27/images/logo.png)](https://www.conair.com/en "Conair Home")
+ [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw32623ae3/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw32623ae3/images/logo.png)](https://www.conair.com/en "Conair Home")
 
 ☰
 
@@ -16,7 +16,7 @@ https://www.conair.com/en/cart?lang=en\_US
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwae3a0e27/images/logo.png)](https://www.conair.com/en "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw32623ae3/images/logo.png)](https://www.conair.com/en "Conair Home")
 
 ☰
 
@@ -26,7 +26,7 @@ https://www.conair.com/en/cart?lang=en\_US
 
 0
 
-* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw6807c4fb/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
+* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw732ef836/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
 * [Hair](https://www.conair.com/en/hair?lang=en_US)
     
     * [Hair Dryers](https://www.conair.com/en/dryers?lang=en_US)
@@ -727,7 +727,7 @@ https://www.conair.com/en/cart?lang=en\_US
         * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
 * [Featured](https://www.conair.com/en/featured?lang=en_US)
 * [Sale](https://www.conair.com/en/sale?lang=en_US)
-* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwbdc4b64b/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
+* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw899d0e44/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
 
    
 
