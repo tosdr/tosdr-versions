@@ -1,4 +1,4 @@
-![icon](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                             [Skip to content](#site-main)
+![icon](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                              [Skip to content](#site-main)
 
 * [SHOP](https://www.furtherfood.com/collections/all-products)
 * [SUBSCRIBE](https://www.furtherfood.com/pages/subscribe-and-save)
@@ -40,6 +40,7 @@ Menu Close
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Plant-BasedProtein.png) Plant-Based Protein](https://www.furtherfood.com/products/unflavored-plant-based-protein)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/SubscribeSave20.png) Subscribe & Save 20%](https://www.furtherfood.com/pages/subscribe-and-save)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/ValueBundles.png) Value Bundles](https://www.furtherfood.com/collections/bundles)
+        *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Build-a-Bundle.png) Build-a-Bundle](https://www.furtherfood.com/a/account/custom-tools/dynamic-box?product=7175941881965)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GiftCards.png) Gift Cards](https://www.furtherfood.com/products/further-food-gift-card)
     * [Best Sellers](#)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/UnflavoredCollagen.png) Unflavored Collagen](https://www.furtherfood.com/products/collagen-peptides-powder)
@@ -89,7 +90,7 @@ Menu Close
 * [Protein](https://www.furtherfood.com/collections/plant-based-protein-powder "Protein")
 * [Gelatin](https://www.furtherfood.com/products/premium-gelatin-powder "Gelatin")
 * [Matcha](https://www.furtherfood.com/collections/matcha-collection "Matcha")
-* [Bundles](https://www.furtherfood.com/collections/bundles "Bundles")
+* [Value Bundles](https://www.furtherfood.com/collections/bundles "Value Bundles")
 
  
 
@@ -105,6 +106,7 @@ Cancel
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Plant-BasedProtein.png) Plant-Based Protein](https://www.furtherfood.com/products/unflavored-plant-based-protein)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/SubscribeSave20.png) Subscribe & Save 20%](https://www.furtherfood.com/pages/subscribe-and-save)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/ValueBundles.png) Value Bundles](https://www.furtherfood.com/collections/bundles)
+        *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Build-a-Bundle.png) Build-a-Bundle](https://www.furtherfood.com/a/account/custom-tools/dynamic-box?product=7175941881965)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GiftCards.png) Gift Cards](https://www.furtherfood.com/products/further-food-gift-card)
         
     * Best Sellers
