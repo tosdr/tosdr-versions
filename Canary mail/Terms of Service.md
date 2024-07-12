@@ -2,7 +2,7 @@
 
 * [Home](https://canarymail.io/product.html)
 * [Why Canary?](https://canarymail.io/why-canary.html)
-* [Enterprise](https://canarymail.io/enterprise.html)
+* [Teams](https://canarymail.io/teams.html)
 * [Pricing](https://canarymail.io/pricing.html)
 * Resources
     
@@ -158,7 +158,7 @@ Menu
 
 * [Home](https://canarymail.io/index.html)
 * [Why Canary?](https://canarymail.io/why-canary.html)
-* [Enterprise](https://canarymail.io/enterprise.html)
+* [Teams](https://canarymail.io/teams.html)
 * [Pricing](https://canarymail.io/pricing.html)
 
 * [FAQ](https://canarymail.io/faq.html)
