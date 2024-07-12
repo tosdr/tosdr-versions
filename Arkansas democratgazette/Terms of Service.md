@@ -33,6 +33,7 @@
     * [UAPB](https://www.arkansasonline.com/news/sports/college/uapb/)
     * [Outdoors](https://www.arkansasonline.com/news/Outdoors/)
     * [High School](https://www.arkansasonline.com/news/sports/highschool/)
+    * [Golf](https://www.arkansasonline.com/news/golf/)
     * [Betting](https://www.arkansasonline.com/news/betting/)
     * [Horse Racing](https://www.arkansasonline.com/news/horseracing/)
     * [NASCAR](https://www.arkansasonline.com/news/sports/nascar/)
@@ -127,6 +128,7 @@ Open user options menu
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
 * [Obits](https://www.arkansasonline.com/obituaries/)
 * [Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
+* [Golf](https://www.arkansasonline.com/news/golf/)
 * [Games](https://www.arkansasonline.com/games/)
 
 * [](https://www.facebook.com/arkansasonline/)
@@ -355,6 +357,7 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [UAPB](https://www.arkansasonline.com/news/sports/college/uapb/)
     * [Outdoors](https://www.arkansasonline.com/news/Outdoors/)
     * [High School](https://www.arkansasonline.com/news/sports/highschool/)
+    * [Golf](https://www.arkansasonline.com/news/golf/)
     * [Betting](https://www.arkansasonline.com/news/betting/)
     * [Horse Racing](https://www.arkansasonline.com/news/horseracing/)
     * [NASCAR](https://www.arkansasonline.com/news/sports/nascar/)
