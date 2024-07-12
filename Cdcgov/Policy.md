@@ -2,15 +2,15 @@
 
 [Español](https://www.cdc.gov/spanish/) | [Other Languages](https://wwwn.cdc.gov/pubs/other-languages/)
 
-![U.S. flag](/TemplatePackage/5.0/img/uswds/us_flag_small.png) An official website of the United States government Here's how you know
+![U.S. flag](/TemplatePackage/4.0/assets/imgs/uswds/us_flag_small.png) An official website of the United States government Here's how you know
 
-![Official icon](/TemplatePackage/5.0/img/uswds/icon-dot-gov.svg)
+![Official icon](/TemplatePackage/4.0/assets/imgs/uswds/icon-dot-gov.svg)
 
 **Official websites use .gov**
 
 A .gov website belongs to an official government organization in the United States.
 
-![Lock icon](/TemplatePackage/5.0/img/uswds/icon-https.svg)
+![Lock icon](/TemplatePackage/4.0/assets/imgs/uswds/icon-https.svg)
 
 **Secure .gov websites use HTTPS**
 
@@ -76,18 +76,14 @@ Source: [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 home[Using CDC.gov](https://www.cdc.gov/other/index.html)
 
 * [Accessibility](https://www.cdc.gov/other/accessibility.html)
-* [About CDC.gov](https://www.cdc.gov/other/about_cdcgov.html)[plus icon](#nav-group-7cf76)
-    
-    * [plus icon](#nav-group-1c527)
-        * [CDC Web Archive](https://www.cdc.gov/other/archived-content.html)
-        * [CDC Email Updates](https://www.cdc.gov/other/emailupdates/index.html)[plus icon](#nav-group-0191b)
-            * [Featured Newsletters](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx#featured)
-            * [Frequently Asked Questions](https://www.cdc.gov/other/emailupdates/faqs.html)
-            * [Manage Subscriptions](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx#manage)
-            * [Subscribe to Newsletters](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx#subscribe)
-    
-    * [Search Tips](https://www.cdc.gov/other/searchtips.html)
-* [Policies and Regulations](https://www.cdc.gov/other/policies.html)[plus icon](#nav-group-be7b5)
+* [About CDC.gov](https://www.cdc.gov/other/about_cdcgov.html)[plus icon](#nav-group-57c9c)
+    * [CDC Web Archive](https://www.cdc.gov/other/archived-content.html)
+    * [CDC Email Updates](https://www.cdc.gov/other/emailupdates/index.html)[plus icon](#nav-group-70703)
+        * [Featured Newsletters](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx#featured)
+        * [Frequently Asked Questions](https://www.cdc.gov/other/emailupdates/faqs.html)
+        * [Manage Subscriptions](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx#manage)
+        * [Subscribe to Newsletters](https://tools.cdc.gov/campaignproxyservice/subscriptions.aspx#subscribe)
+* [Policies and Regulations](https://www.cdc.gov/other/policies.html)[plus icon](#nav-group-b5698)
     * [CDC Nondiscrimination notice](https://www.cdc.gov/other/nondiscrimination.html)
     * [Enterprise Risk Management](https://www.cdc.gov/other/riskmanagement.html)
     * [Guidelines for Public Comments](https://www.cdc.gov/other/public-comments.html)
@@ -95,7 +91,7 @@ home[Using CDC.gov](https://www.cdc.gov/other/index.html)
     * [Linking to CDC.gov](https://www.cdc.gov/other/link.html)
     * [Phone Scams and Phishing Attacks](https://www.cdc.gov/other/phishing.html)
     * [Plain Writing](https://www.cdc.gov/other/plainwriting.html)
-    * [Privacy Policy](https://www.cdc.gov/other/privacy.html)[plus icon](#nav-group-ab5ec)
+    * [Privacy Policy](https://www.cdc.gov/other/privacy.html)[plus icon](#nav-group-c2e96)
         * [Information Received and Retained](https://www.cdc.gov/other/information-received.html)
         * [Mobile Privacy Policy](https://www.cdc.gov/other/mobileprivacypolicy.html)
         * [Our Cookie Policy](https://www.cdc.gov/other/cookies.html)
