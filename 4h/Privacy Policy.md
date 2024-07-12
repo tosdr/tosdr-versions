@@ -1,6 +1,6 @@
 [4-H ![4-H Logo](https://4-h.org/wp-content/themes/4h/assets/images/4-h-logo.svg)](https://4-h.org/) 
 
-[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG24Stub&utm_content=mobile_menu_donate&utm_term=general_3012024&utm_date=3012024&cag=0001392-5)
+[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-6)
 
 [![Search Icon](https://4-h.org/wp-content/themes/4h/assets/images/icons/close.svg)](#)
 
@@ -99,7 +99,7 @@
     * [Overview](#)
     * ### Give to 4-H
         
-        * [Make a Donation](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG24Stub&utm_content=SupportNav_donate&utm_term=general_3012024&utm_date=3012024&cag=0001392-17)
+        * [Make a Donation](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-17)
         * [Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=support_nav)
         * [Support Opportunity4All](https://4-h.org/support/opportunity4all/)
         * [Shop with Purpose](https://4-h.org/support/ways-to-give/explore-current-partner-promotions/)
@@ -119,7 +119,7 @@
 
  [![Login / Sign up to Clover](https://www.4-h.org/wp-content/uploads/2022/09/08114857/cropped-4-H-Clover-RGB_digital.jpg) Login / Sign up to Clover](https://4-h.org/clover/login/)[![Shop 4-H](https://www.4-h.org/wp-content/uploads/2022/09/08114857/cropped-4-H-Clover-RGB_digital.jpg) Shop 4-H](https://shop4-h.org/?utm_source=4-h_web&utm_medium=website&utm_campaign=Shop4H&utm_content=navigation_text&utm_term=universal_nav)
 
-[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG24Stub&utm_content=mobile_header_donate&utm_term=general_3012024&utm_date=3012024&cag=0001392-6)
+[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-5)
 
  [![Search](https://4-h.org/wp-content/themes/4h/assets/images/icons/search.svg)](#search)[![Avatar](https://4-h.org/wp-content/themes/4h/assets/images/icon-user.svg)](javascript:openProfile();)
 
@@ -143,7 +143,7 @@
 
 [![Menu](https://4-h.org/wp-content/themes/4h/assets/images/icons/hamburger.svg)](#hamburger)
 
-[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG24Stub&utm_content=desktop_header_donate&utm_term=general_3012024&utm_date=3012024&cag=0001392-7)
+[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-7)
 
  Clear 
 
@@ -315,7 +315,7 @@ We endeavor to incorporate commercially reasonable safeguards to help protect an
 
 ### Help 4‑H Provide Equal #Opportunity4All Kids
 
-[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG24Stub&utm_content=footer_donate_button&utm_term=general_3012024&utm_date=3012024&cag=0001392-3) ![Donate](https://4-h.org/wp-content/themes/4h/assets/images/donate-right.png)
+[Donate](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-3) ![Donate](https://4-h.org/wp-content/themes/4h/assets/images/donate-right.png)
 
 About
 -----
@@ -356,7 +356,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -371,7 +371,7 @@ Follow us on social media
 
 We're a trusted charity
 
-Our mission is to give young people access to opportunity. [Donate today!](https://national4h.givenow.stratuslive.com/give-donate?slca=0001321&slcag=0001321-1&_ga=2.251849152.898714362.1652351482-1534541145.1652264622)
+Our mission is to give young people access to opportunity. [Donate today!](https://ignite.stratuslive.com/4-h/get-involved/donate/give-now?utm_source=website&utm_medium=N/A&utm_campaign=IG25&utm_content=donation_link&utm_term=general_7012024&utm_date=7012024&cag=0001403-4)
 
 [![logo-charity-navigator 3](https://www.4-h.org/wp-content/uploads/2022/09/26145238/logo-charity-navigator-3.png "logo-charity-navigator 3")](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=5254)
 
