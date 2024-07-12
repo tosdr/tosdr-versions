@@ -160,7 +160,7 @@ create profitable partnerships.
 Follow Us
 ---------
 
-[Facebook Facebook](https://www.facebook.com/flexoffers/)[Twitter Twitter](https://twitter.com/flexoffers?lang=en)[Linkedin Linkedin](https://www.linkedin.com/company/flexoffers/)[Instagram Instagram](https://www.instagram.com/flexoffers/?hl=en)
+[Facebook](https://www.facebook.com/flexoffers/)[Twitter](https://twitter.com/flexoffers?lang=en)[Linkedin Linkedin](https://www.linkedin.com/company/flexoffers/)[Instagram Instagram](https://www.instagram.com/flexoffers/?hl=en)
 
 Company
 -------
