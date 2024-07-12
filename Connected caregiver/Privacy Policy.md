@@ -1,4 +1,4 @@
-**Call now for FREE devices, $0 activation fees, and FREE shipping! [(888) 298-4894](tel:(888)%20298-4894)**
+**Call now for FREE devices, $0 activation fees, and FREE shipping! [(888) 298-4894](tel:(888)%20298-4894)**
 
 [![](https://myconnectedcaregiver.com/wp-content/uploads/2024/02/Asset-1-3-300x81.png "Asset-1-3")](https://myconnectedcaregiver.com/)
 
@@ -49,6 +49,10 @@
 [0 Items](https://myconnectedcaregiver.com/checkout/)
 
 **Privacy Policy**
+
+My Connected Caregiver built the My Connected Caregiver app as a Free app. This SERVICE is provided by My Connected Caregiver at no cost and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 **At Connected Caregiver, we respect your privacy and are committed to protecting it.**
 ---------------------------------------------------------------------------------------
@@ -302,4 +306,4 @@ If we make any changes to how we treat our registered users’ personal informat
 
 [About Us](https://myconnectedcaregiver.com/about-us)     [Contact](https://myconnectedcaregiver.com/contact-us)     [Help Center](https://connected-caregiver.helpscoutdocs.com/)     Resources     [For Professional Caregivers](https://myconnectedcaregiver.com/professional-caregivers/)     Open Source Acknowledgements     [Terms & Conditions](https://myconnectedcaregiver.com/terms/)     [Privacy Policy](https://myconnectedcaregiver.com/privacy)     [FAQs](https://myconnectedcaregiver.com/faqs)
 
-![](https://www.facebook.com/tr?id=7037245686379372&ev=PageView&noscript=1&eid=70372456863793727a7b7691-7399-46c5-81c4-67c2c94f7ece&cd%5Bpage_title%5D=Privacy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7938&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=myconnectedcaregiver.com%2Fprivacy%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=7037245686379372&ev=PageView&noscript=1&eid=703724568637937248781a03-13be-42e7-9962-446b79acad71&cd%5Bpage_title%5D=Privacy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7938&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=myconnectedcaregiver.com%2Fprivacy%2F&cd%5Buser_role%5D=guest)
