@@ -8,13 +8,9 @@
 * [Partners](#)
 * [Support](#)
 
-Discover the latest trends for fashion ecommerce: [Fashion Lookbook](https://www.klevu.com/ebook/current-trends-for-fashion-ecommerce-success/)
+Klevu has been positioned in the inaugural [2024 Gartner® Magic Quadrant™ for Search and Product Discovery](https://www.klevu.com/magic-quadrant-for-search-and-product-discovery/)
 
-Boost your Home & Garden ecommerce strategy: [Home, Garden & DIY Lookbook](https://www.klevu.com/ebook/current-trends-for-home-ecommerce-success/)
-
-Discover the latest trends for fashion ecommerce: [Fashion Lookbook](https://www.klevu.com/ebook/current-trends-for-fashion-ecommerce-success/)
-
-Boost your Home & Garden ecommerce strategy: [Home, Garden & DIY Lookbook](https://www.klevu.com/ebook/current-trends-for-home-ecommerce-success/)
+Klevu has been positioned in the inaugural [2024 Gartner® Magic Quadrant™ for Search and Product Discovery](https://www.klevu.com/magic-quadrant-for-search-and-product-discovery/)
 
 [![Klevu Logo](https://www.klevu.com/wp-content/uploads/2022/07/klevu-color.svg)](https://www.klevu.com/)
 
