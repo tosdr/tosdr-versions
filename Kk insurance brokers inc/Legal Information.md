@@ -11,13 +11,13 @@
 | ![](/PublishingImages/WE-TAKE-FUN.jpg) |     |
 |     |     |
 
- [![Skip navigation links](/WebResource.axd?d=0U9nd5Xymyq5ax78y4UuTlDEQuuGjPYB5OGrb1w1w868plMccUGZPvgoWQxprSXbVghOnfQ7mexTFiYqGbgEWyVEMkivcE9WM0_NMHrGlJE1&t=637818511026898580)](#zz1_GlobalNav1_SkipLink)[Home](https://www.kandkcanada.com/Pages/Home.aspx)[About Us](https://www.kandkcanada.com/Pages/CompanyProfile.aspx)[Agent/Broker](https://www.kandkcanada.com/Pages/Agents.aspx)[Claims](https://www.kandkcanada.com/Pages/Claims.aspx)[Contact Us](https://www.kandkcanada.com/Pages/ContactUs.aspx)[Markets](https://www.kandkcanada.com/Pages/Markets.aspx)[FAQ](https://www.kandkcanada.com/Pages/FAQ.aspx)[Marketing Sheet](https://www.kandkcanada.com/Documents/2002_CANADA_PROGRAMS_9-21.pdf)
+ [![Skip navigation links](/WebResource.axd?d=0U9nd5Xymyq5ax78y4UuTlDEQuuGjPYB5OGrb1w1w868plMccUGZPvgoWQxprSXbVghOnfQ7mexTFiYqGbgEWyVEMkivcE9WM0_NMHrGlJE1&t=638459680569584809)](#zz1_GlobalNav1_SkipLink)[Home](https://www.kandkcanada.com/Pages/Home.aspx)[About Us](https://www.kandkcanada.com/Pages/CompanyProfile.aspx)[Agent/Broker](https://www.kandkcanada.com/Pages/Agents.aspx)[Claims](https://www.kandkcanada.com/Pages/Claims.aspx)[Contact Us](https://www.kandkcanada.com/Pages/ContactUs.aspx)[Markets](https://www.kandkcanada.com/Pages/Markets.aspx)[FAQ](https://www.kandkcanada.com/Pages/FAQ.aspx)[Marketing Sheet](https://www.kandkcanada.com/Documents/2002_CANADA_PROGRAMS_9-21.pdf)
 
 [Company Profile](https://www.kandkcanada.com/Pages/CompanyProfile.aspx)[Company History](https://www.kandkcanada.com/Pages/CompanyHistory.aspx)[Employment](https://www.kandkcanada.com/Pages/Employment.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
  
 
@@ -27,57 +27,57 @@ Select a Category[Adventure Tourism](https://www.kandkcanada.com/AdventureTouris
 
 [Dude/Guest Ranches](https://www.kandkcanada.com/AdventureTourism/Pages/DudeGuestRanches.aspx)[Hunting & Fishing](https://www.kandkcanada.com/AdventureTourism/Pages/Hunting-Fishing.aspx)[Mountaineering, Ropes Courses & Climbing Walls](https://www.kandkcanada.com/AdventureTourism/Pages/Mountaineering-Ropes-Courses.aspx)[Outfitters & Guides](https://www.kandkcanada.com/AdventureTourism/Pages/Outfitters-Guides.aspx)[Tour Operators](https://www.kandkcanada.com/AdventureTourism/Pages/TourOperators.aspx)[Whitewater Rafting](https://www.kandkcanada.com/AdventureTourism/Pages/Whitewater-Rafting.aspx)[Zip Line Supplemental](https://www.kandkcanada.com/Documents/Zip%20Lines%20Supplemental%20Aplication%20fillable.pdf)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Camps](https://www.kandkcanada.com/Camps/Pages/CampsProgram.aspx)[Campgrounds](https://www.kandkcanada.com/Camps/Pages/Campgrounds.aspx)[Sports Camps & Clinics](https://www.kandkcanada.com/Camps/Pages/Youth-Sports-Camps.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Adverse Weather](https://www.kandkcanada.com/EventsLiability/Pages/AdverseWeather.aspx)[Concert Promoters](https://www.kandkcanada.com/EventsLiability/Pages/ConcertPromoters.aspx)[Event Cancellation & Non-Appearance](https://www.kandkcanada.com/EventsLiability/Pages/Event-Cancellation.aspx)[Fairs & Fairgrounds](https://www.kandkcanada.com/EventsLiability/Pages/Fairs-Fairgrounds.aspx)[Festivals](https://www.kandkcanada.com/EventsLiability/Pages/Festivals.aspx)[Special Events](https://www.kandkcanada.com/EventsLiability/Pages/Special-Events.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Health Clubs](https://www.kandkcanada.com/HealthFitness/Pages/Health-Clubs.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Casinos](https://www.kandkcanada.com/Gaming/Pages/Casinos.aspx)[Horsetracks/Pari-Mutuel Racing](https://www.kandkcanada.com/Gaming/Pages/HorsetracksPari-MutuelRacing.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Motorsports Facilities & Events](https://www.kandkcanada.com/Motorsports/Pages/Motorsports-Facilities-Events.aspx)[Motorsports Temporary Events](https://www.kandkcanada.com/Motorsports/Pages/MotorsportsTemporaryEvents.aspx)[Motorsports Independent Clubs](https://www.kandkcanada.com/Motorsports/Pages/Motorsports-Independent-Clubs.aspx)[Motorsports Off-course & Storage](https://www.kandkcanada.com/Motorsports/Pages/Motorsports-Off-course-Storage.aspx)[Motorsports Racing Owners & Sponsors](https://www.kandkcanada.com/Motorsports/Pages/Racing-Owners-Sponsors.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Amusement Parks](https://www.kandkcanada.com/Recreation/Pages/AmusementParks.aspx)[Aquariums](https://www.kandkcanada.com/Recreation/Pages/Aquariums.aspx)[Axe Throwing](https://www.kandkcanada.com/Recreation/Pages/Axe%20Throwing.aspx)[Billiard / Bowling Centres](https://www.kandkcanada.com/Recreation/Pages/Bowling-Billiard-Centers.aspx)[Convention Centers - Civic and Social Clubs](https://www.kandkcanada.com/Recreation/Pages/Community-Centers.aspx)[Dance Schools](https://www.kandkcanada.com/Recreation/Pages/Dance-Schools.aspx)[Escape Rooms](https://www.kandkcanada.com/Recreation/Pages/Escape%20Rooms.aspx)[Family Fun Centres](https://www.kandkcanada.com/Recreation/Pages/FamilyFunCentres.aspx)[Go-Karts](https://www.kandkcanada.com/Recreation/Pages/GoKarts.aspx)[Indoor Playgrounds](https://www.kandkcanada.com/Recreation/Pages/IndoorPlaygrounds.aspx)[Inflatable Bounce Operators](https://www.kandkcanada.com/Recreation/Pages/InflatableBounceOperators.aspx)[Laser Tag](https://www.kandkcanada.com/Recreation/Pages/LaserTag.aspx)[Themed Attractions](https://www.kandkcanada.com/Recreation/Pages/ThemedAttractions.aspx)[Waterparks](https://www.kandkcanada.com/Recreation/Pages/Waterparks.aspx)[Zoos](https://www.kandkcanada.com/Recreation/Pages/Zoos.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Amateur Sports-Teams, Leagues & Associations](https://www.kandkcanada.com/Sports/Pages/Amateur-Sports-TLA.aspx)[Amateur Sports- Tournaments & Events](https://www.kandkcanada.com/Sports/Pages/Amateur-Sports-TE.aspx)[Martial Arts](https://www.kandkcanada.com/Sports/Pages/Martial-Arts-Schools.aspx)[Professional Sports Teams](https://www.kandkcanada.com/Sports/Pages/Professional-Sports-Teams.aspx)[Sports Camps and Clinics](https://www.kandkcanada.com/Sports/Pages/Sports-Camps.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 [Amphitheaters](https://www.kandkcanada.com/Venues/Pages/Amphitheaters.aspx)[Arenas & Stadiums](https://www.kandkcanada.com/Venues/Pages/Arenas-Stadiums.aspx)[Auditoriums](https://www.kandkcanada.com/Venues/Pages/Auditoriums.aspx)[In-line Skate Park](https://www.kandkcanada.com/Venues/Pages/In-lineSkatePark.aspx)[Skating Rinks & Hockey Arenas](https://www.kandkcanada.com/Venues/Pages/SkatingRinksHockeyArenas.aspx)[Sports Complexes (indoor/outdoor)](https://www.kandkcanada.com/Venues/Pages/Sports-Complexes.aspx)[Theaters & Performing Arts Centers](https://www.kandkcanada.com/Venues/Pages/Theaters-Performing-Arts-Centers.aspx)
 
-![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=637818511026898580)
+![Scroll up](/WebResource.axd?d=Yk1pX1-Wh5chrRRILOLQWaCBL4tMzIliIfcnesW8oOYPFO5LPYNAUP4O9run5OAeNtRmk0oeexmx954UBMPhvrvHwG6_y2OWM5guhZemlLujI5fCOGStrAYU2wLIakkl0&t=638459680569584809)
 
-![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=637818511026898580)
+![Scroll down](/WebResource.axd?d=4bSNNbZx7cBFfUQhUFINC3Jx4UJ1zuN1M2ROZRGRbCO19-8Tzwkn3PtAJ1QgbPZIQh3_zCrEZmVHR3rXqV2EIUuKklkgT9bdAYfzo-S8rDH5mLnkS01fII1Xvc6D3ldr0&t=638459680569584809)
 
 * * *
 
