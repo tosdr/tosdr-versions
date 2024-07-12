@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: lex m/m (mature OR explicit) 
+* Work Search  tip: arthur merlin words>1000 sort:hits 
     
 
 DMCA Policy
@@ -133,6 +133,6 @@ Adapted from Wikipedia's DMCA policy.
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.370.6](https://github.com/otwcode/otwarchive/commits/v0.9.370.6)
+    * [otwarchive v0.9.372.2](https://github.com/otwcode/otwarchive/commits/v0.9.372.2)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "The Organization for Transformative Works")
