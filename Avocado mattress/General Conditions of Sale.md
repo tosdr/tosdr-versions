@@ -1,12 +1,14 @@
+[Skip to main content](#main-content)
+
 [![Avocado Help Center](https://downloads.intercomcdn.com/i/o/240710/37645d851b7dc003192c005e/1adb86d13fac5b6971b2bf83fe368be2.png)](https://help.avocadogreenmattress.com/en/)
 
-[Go to Avocado](https://www.avocadogreenmattress.com/)
+[Go to Avocado Help Center](https://www.avocadogreenmattress.com/)
 
 EnglishFrançais;
 
 English
 
-[Go to Avocado](https://www.avocadogreenmattress.com/)
+[Go to Avocado Help Center](https://www.avocadogreenmattress.com/)
 
 EnglishFrançais;
 
@@ -30,9 +32,10 @@ Written by Mark Abrials
 
 Updated over a week ago
 
-Avocado's trial and return policy varies by product and is limited to our service area within the United States, including Hawaii and Alaska. [Terms, conditions, and exclusions](#h_7d9bd1a936) apply and are detailed below.
+Return Policy
+=============
 
-* * *
+Avocado's trial and return policy varies by product and is limited to our service area within the United States, including Hawaii and Alaska. [Terms, conditions, and exclusions](#h_7d9bd1a936) apply and are detailed below.
 
 Mattresses, Foundations, Metal Bed Frames & Bunkie Boards
 ---------------------------------------------------------
