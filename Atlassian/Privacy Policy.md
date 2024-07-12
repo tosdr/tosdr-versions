@@ -227,7 +227,7 @@ Choose your language
     
     Deliver exceptional operations and support services.
     
-    ![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-it-hover.svg)](https://www.atlassian.com/software)
+    ![](https://wac-cdn.atlassian.com/misc-assets/adg4-nav/nav-it-hover.svg)](https://www.atlassian.com/teams/it)
     
     ##### solution
     
@@ -360,7 +360,7 @@ Back
 
 [Try now](https://www.atlassian.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1832)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=1931)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.atlassian.com/legal)
 
 * [Legal information](https://www.atlassian.com/legal)
 * [Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
@@ -770,7 +770,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1832)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=1931)
 
 [Company](https://www.atlassian.com/company)
 
@@ -836,10 +836,10 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 Copyright © 2024 Atlassian
 
-[Privacy Policy](https://www.atlassian.com/trust)
+[Privacy Policy](https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers)
 
 [Terms](https://www.atlassian.com/trust)
 
 [Impressum](https://www.atlassian.com/trust)
 
-Choose language Deutsch English Español Français Italiano 한국어 Magyar Nederlands 日本語 Polski Português русский 中文
+Choose language Deutsch English Español Français Italiano 한국어 Nederlands 日本語 Polski Português русский 中文
