@@ -41,7 +41,7 @@
     * [ヒストリー](https://www.bandainamcoent.co.jp/corporate/history/)
     * [法定公告](https://www.bandainamcoent.co.jp/finance/)
     * [バンダイナムコグループ](https://www.bandainamcoent.co.jp/corporate/group/)
-    * [会社案内PDF](https://www.bandainamcoent.co.jp/corporate/doc/bne_corporate_profile_Japanese.pdf?2024040101)
+    * [会社案内PDF](https://www.bandainamcoent.co.jp/corporate/doc/bne_corporate_profile_Japanese.pdf?20240701)
     
 * [サステナビリティ](https://www.bandainamcoent.co.jp/sustainability/)
 * 採用情報
