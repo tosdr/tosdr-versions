@@ -5,10 +5,10 @@
 * [Podcasts](https://audioboom.com/podcasts)
 * [Advertisers](https://audioboom.com/advertisers)
 * [Creators](https://audioboom.com/hosting)
-* [Help & Support](https://audioboom.com/support)
+* [Help & support](https://audioboom.com/support)
 
-* [Sign Up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
-* [Sign In](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
+* [Sign up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
+* [Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
 * 
 
 [](#)
@@ -21,15 +21,15 @@
 
 [Creators](https://audioboom.com/hosting)
 
-[Help & Support](https://audioboom.com/support)
+[Help & support](https://audioboom.com/support)
 
 Search podcasts
 
-[Sign Up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
+[Sign up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
 
-[Sign In](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
+[Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fprivacy)
 
-Privacy Policy
+Privacy policy
 ==============
 
 Introduction and User Consent
