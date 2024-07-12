@@ -213,7 +213,7 @@ AI cooling off period projected by Helpshift in 2024
 
 [Read more](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
 
-[Free Trial](https://get.helpshift.com/evaluation-sign-up)
+[Free Trial](https://get.helpshift.com/experience-helpshift)
 
 [Request Demo](https://www.helpshift.com/schedule-your-demo/)
 
@@ -224,7 +224,7 @@ Effective date:  **7 July 2023**
 
 Last Updated:  **7 July 2023**
 
-##### Privacy Notice Table of Contents
+##### Table of Contents
 
 Keywords Studios Group (“Keywords”, “we”, “us” or “our”) knows that you care about how your Personal Data is used and shared, and we take your privacy seriously. When we reference Personal Data, we mean any information which Keywords has or obtains or which an individual provides to us from which that individual can be directly or indirectly personally identified or as that term (or similar term) is defined under applicable law.
 
@@ -282,7 +282,7 @@ We collect Personal Data about you from the following categories of sources:
         * When you voluntarily provide information in free-form text boxes through the Services or through responses to surveys or questionnaires.
         * When you send us an email or otherwise contact us.
         * When you use the Website and/or Services and such information is collected automatically, for example:
-        * Through Cookies (defined in our Cookie Notice which is available on the Website).
+        * Through Cookies (defined in our [Cookie Notice](https://www.helpshift.com/legal/cookie-notice/) which is available on the Website).
         * If you download one of our mobile applications or use a location-enabled browser, we may receive information about your location and mobile device, as applicable.
         * If you download and install certain applications and software that we make available, we may receive and collect information transmitted from your computing device for the purpose of providing you the relevant Website and/or Services.
         * Third Parties
@@ -682,9 +682,6 @@ If you have any questions or queries about this Privacy Notice, the ways in whic
 * Email: [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection); [\[email protected\]](https://www.helpshift.com/cdn-cgi/l/email-protection) or
 * Address:  South County Business Park, Leopardstown, Dublin 18, D18 T9P8, Ireland.
 
-17\. Cookie List
-----------------
-
 Features
 
 * [Help Center](https://www.helpshift.com/help-center/)
@@ -741,7 +738,7 @@ Company
 * [Legal](https://www.helpshift.com/legal/)
 * [Privacy](https://www.helpshift.com/legal/privacy/)
 * [Security](https://www.helpshift.com/security/)
-* Cookie Settings
+* [Cookie Settings](https://www.helpshift.com/legal/cookie-notice/)
 
 * [](https://www.facebook.com/helpshift)
 * [](https://www.instagram.com/helpshift/)
