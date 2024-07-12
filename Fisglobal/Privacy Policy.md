@@ -499,7 +499,7 @@ Worldpay Privacy Notice
 
 [Spanish](https://www.fisglobal.com/-/media/fisglobal/files/PDF/policy/Privacy/Worldpay-Privacy-Notice-Spanish.pdf)
 
-![](/-/media/fisglobal/files/Microsites/privacy-policy/privacy-hero-052423.jpg?sc_lang=en)
+![](/-/media/fisglobal/files/Microsites/privacy-policy/privacy-hero-052423.jpg?extension=webp)
 
 Your privacy and trust are important to us.
 -------------------------------------------
@@ -654,7 +654,7 @@ You can see when this page was last updated by checking the “last updated” d
 
 Last update: April 15th, 2024
 
-![Store owner talks on phone while writing in ledger](/-/media/fisglobal/files/Microsites/privacy-policy/intro-definitions-052423.jpg?sc_lang=en)
+![Store owner talks on phone while writing in ledger](/-/media/fisglobal/files/Microsites/privacy-policy/intro-definitions-052423.jpg?extension=webp)
 
 Definitions
 -----------
@@ -758,7 +758,7 @@ Name:            SeokPil Oh
 Address:        FIS 18FL, O2 Tower 83 Uisadang-daero, Yeongdeungpo-gu, Seoul, Korea 07325  
 Email:            seokpil.oh@fisglobal.com
 
-![People using public transportation using personal electronic devices](/-/media/fisglobal/files/Microsites/privacy-policy/individual-rights-052423.jpg?sc_lang=en)
+![People using public transportation using personal electronic devices](/-/media/fisglobal/files/Microsites/privacy-policy/individual-rights-052423.jpg?extension=webp)
 
 Individual rights under privacy and data protection law
 -------------------------------------------------------
@@ -1002,7 +1002,7 @@ If you join our Talent Network, we will retain your personal data (even if you h
 | Compliance with a legal or regulatory obligation (when carrying out background checks to confirm a candidate is eligible to work in the relevant country) | Article 6.1.c GDPR<br><br>Article 10 GDPR<br><br>Article 13.(3) PIPL |
 | In order to take steps prior to entering into a contract with the candidate | Article 13.(2) PIPL |
 
-![Two colleagues having a discussion in an open office space.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-clients-052423.jpg?sc_lang=en)
+![Two colleagues having a discussion in an open office space.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-clients-052423.jpg?extension=webp)
 
 Clients
 -------
@@ -1037,7 +1037,7 @@ To carry out the above checks, we process the information (including personal da
 | Our legitimate interest in safeguarding FIS against inadvertently dealing with the proceeds of criminal activities or assisting in any other unlawful or fraudulent activities (for example, terrorism) | Article 6.1.f GDPR |
 | Our legitimate interest in sending you direct marketing communications to keep you informed about our products and services and to invite you for relevant events | Article 6.1.f GDPR |
 
-![Customer inserts chip card into a credit card terminal.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-customers-052423.jpg?sc_lang=en)
+![Customer inserts chip card into a credit card terminal.](/-/media/fisglobal/files/Microsites/privacy-policy/notices-customers-052423.jpg?extension=webp)
 
 Consumers ("buyers")
 --------------------
@@ -1365,7 +1365,7 @@ Click here for an overview of your rights under applicable privacy and data prot
 | --- | --- |
 | Explicit consent | Article 6.1.a GDPR<br><br>Article 9.2.a GDPR<br><br>Article 13.(1) PIPL |
 
-![Two colleagues working in a shop.](/-/media/fisglobal/files/Microsites/privacy-policy/worldpay-intro-052423.jpg?sc_lang=en)
+![Two colleagues working in a shop.](/-/media/fisglobal/files/Microsites/privacy-policy/worldpay-intro-052423.jpg?extension=webp)
 
 Worldpay
 --------
@@ -1662,7 +1662,7 @@ South Africa
 
 In accordance with the South African Protection of Personal Information Act, 2013 (“**POPIA**”), FIS Worldpay South Africa (Pty) Ltd is the entity responsible for collecting, storing, or using your personal data for the purposes of any merchant services offered out of South Africa. For any enquiries, please contact Worldpay’s South African Information Officer.
 
-The Information Regulator is the competent authority under section 39 of POPIA to deal with complaints and claims that in relation to non-compliance with the personal data protection requirements under POPIA. The Information Regulator’s contact details are available at [https://www.justice.gov.za/inforeg/contact.html](https://www.justice.gov.za/inforeg/contact.html).
+The Information Regulator is the competent authority under section 39 of POPIA to deal with complaints and claims that in relation to non-compliance with the personal data protection requirements under POPIA. The Information Regulator’s contact details are available at [https://www.justice.gov.za/contact/contact\_list.html](https://www.justice.gov.za/contact/contact_list.html).
 
 With whom do we share your personal data
 ----------------------------------------
