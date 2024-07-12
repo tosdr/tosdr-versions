@@ -124,6 +124,7 @@ To be effective, the notification must be a written communication that includes 
 * [Support](https://www.dealer.com/support/)
     * [Contact: 877.327.8422](tel:8773278422)
     * [Support: 888.895.2994](tel:8888952994)
+    * [Help Center](https://casfx.my.site.com/ddc/s/)
 
 * We-Are-A-Certified-Google-Partner
 * We-Are-A-Certified-Bing-Partner
