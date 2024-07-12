@@ -89,11 +89,11 @@ Upon receipt of the notice containing the required information, freeup.net may:
 
 ### Recent Posts
 
-* [Beyond the Search: Why FreeUp Makes the Cut for Best Freelance Websites](https://freeup.net/blog/business-tips/beyond-the-search-why-freeup-makes-the-cut-for-best-freelance-websites/)
-* [How to Build Trust With Freelancers](https://freeup.net/blog/business-tips/how-to-build-trust-with-freelancers/)
-* [The Value of Freelancers: Will AI Replace Humans?](https://freeup.net/blog/business-tips/the-value-of-freelancers-will-ai-replace-humans/)
-* [Communication Tips for Working with Freelancers: How to Get the Results You Need](https://freeup.net/blog/business-tips/communication-tips-for-working-with-freelancers-how-to-get-the-results-you-need/)
-* [How to Delegate to Freelancers Effectively](https://freeup.net/blog/business-tips/how-to-delegate-to-freelancers-effectively/)
+* [Prime Day 2024: How Freelancers Can Help You Get Ready](https://freeup.net/blog/business-tips/prime-day-2024-how-freelancers-can-help-you-get-ready/)
+* [How to Create a Checklist to Help You Hire Your Next Freelancer](https://freeup.net/blog/business-tips/how-to-create-a-checklist-to-help-you-hire-your-next-freelancer/)
+* [FreeUp Your Time & Resources: Essential E-Commerce Services for Busy Businesses](https://freeup.net/blog/business-tips/freeup-your-time-resources-essential-e-commerce-services-for-busy-businesses/)
+* [Summertime Productivity Tips for Business Owners](https://freeup.net/blog/business-tips/summertime-productivity-tips-for-business-owners/)
+* [The AI Debate: Should You Have Your Freelancer Use AI?](https://freeup.net/blog/business-tips/the-ai-debate-should-you-have-your-freelancer-use-ai/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
