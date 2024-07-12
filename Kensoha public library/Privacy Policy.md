@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1718975323463)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1720790435432)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -115,6 +115,7 @@ Search
     * [Staff Picks](https://mykpl.info/explore/?post-type=staff-list)
     * [KPL Blog](https://mykpl.info/blogs/)
     * [Award Winners](https://mykpl.bibliocommons.com/explore/awards)
+    * [KPL News](https://mykpl.info/news)
     * [Bestsellers](https://mykpl.bibliocommons.com/explore/bestsellers)
     * [Explore New Titles](https://mykpl.info/browse-new/)
     * [Favorite Authors Club](https://www.lakeshores.lib.wi.us/FavAuthors/kpl_fac)
@@ -134,6 +135,7 @@ Search
     * [Storytimes](https://my.nicheacademy.com/mykpl?category=18860)
     * [Browse](https://mykpl.info/digital-library/)
     
+* [KPL Kids](https://mykpl.info/kids)
 * [Learn & ExploreLearn & Explore, collapsed](#learn_explore_menu)
     
     Learn & Explore
@@ -193,6 +195,7 @@ Search
     * [Notary Public](https://rooms.mykpl.info/appointments/notary)
     * [Proctoring Information Call](https://rooms.mykpl.info/appointments/proctor)
     * [Technology Appointments](https://rooms.mykpl.info/appointments/tech)
+    * [Microsoft Certification Exams](https://rooms.mykpl.info/appointments/MicrosoftCertification)
     
 * [EventsEvents, collapsed](#events_menu)
     
@@ -220,6 +223,8 @@ Search
     * [Storytimes](https://mykpl.bibliocommons.com/v2/events?audiences=62097b7c13e56b37002fd547%2C61db8fe640ff262f00614d5e%2C61db8ff133f5d02800a5bc37%2C625b0ad3cfa7703000de08ad%2C61db8fc58a5e404100b97254%2C61db8fcd950fa036000bc0bd%2C6209678013e56b37002fd267&types=6201b3613828d529000ce40c)
     * [Arts & Crafts](https://mykpl.bibliocommons.com/v2/events?&audiences=62097b7c13e56b37002fd547%2C61db8fe640ff262f00614d5e%2C61db8ff133f5d02800a5bc37%2C625b0ad3cfa7703000de08ad%2C61db8fc58a5e404100b97254%2C61db8fcd950fa036000bc0bd&types=6201b2cf13e56b37002f49e1)
     * [Big Kids (ages 5-12)](https://mykpl.bibliocommons.com/v2/events?audiences=61db8ff133f5d02800a5bc37%2C625b0ad3cfa7703000de08ad%2C625b0adda17f678726ec8578)
+    
+    * [Southport Literary Fair](https://www.mykpl.info/southport-literary-fair)
     
 * [myKPLmyKPL, collapsed](#mykpl_menu)
     
@@ -261,9 +266,9 @@ Search
     * [Boys & Girls Club](https://mykpl.info/locations/bgclub/)
     * [YMCA](https://mykpl.info/locations/ymca/)
     
-* [2023 NEA Big Read: Homegoing](https://mykpl.info/neabigread-homegoing/)
-* [KPL Kids @ Uptown](https://mykpl.info/uptown-childrens-library/)
 * [Research, Register, Vote](https://mykpl.info/vote/)
+* [Summer Reading Program](https://mykpl.info/summerreading/)
+* [Director Search](https://mykpl.info/director-search/)
 * [SupportSupport, collapsed](#support_menu)
     
     Support
@@ -273,8 +278,6 @@ Search
     * [Kenosha Library Foundation](https://mykpl.info/foundation/)
     * [Friends of the Library](https://mykpl.info/friends/)
     
-* [Summer Reading Program](https://mykpl.info/summerreading/)
-* [Director Search](https://mykpl.info/director-search/)
 
 [Close Dialog](#close-overlay)
 
@@ -527,7 +530,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp02 Version 4.20.0 Last updated 2024/06/12 09:17
+BiblioWeb: webapp05 Version 4.20.0 Last updated 2024/06/12 09:24
 
 [Back to Top](#top)
 
