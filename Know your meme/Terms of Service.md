@@ -1,5 +1,3 @@
-👉 [Bring your favorite memes into the real world by visiting The Meme Store!](https://thememestore.com/) 👈
-
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -99,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/806/Screenshot_2024-06-21_at_10.31.28_E2_80_AFAM.png "What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/110/gen_z_boss_and_a_mini_meme.jpg "What's The 'Gen Z Boss And A Mini' Video? The Cringe Instagram Reel Explained")
     
-    What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained](https://knowyourmeme.com/editorials/guides/what-does-mythical-reel-pull-mean-the-mythic-fyp-pull-trend-on-instagram-and-tiktok-explained)
+    What's The 'Gen Z Boss And A Mini' Video? The Cringe Instagram Reel Explained](https://knowyourmeme.com/editorials/guides/whats-the-gen-z-boss-and-a-mini-video-the-cringe-instagram-reel-from-tbhskincare_-explained)
     
-* [![justin timberlake mugshot](https://i.kym-cdn.com/featured_items/icons/wide/000/024/805/RUINTHETOURCOVER.jpg "Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase")
+* [![This Blorbo Chart Shows Just How Much Every Character Needs Therapy (And How Much They Would Resist The Idea)](https://i.kym-cdn.com/featured_items/icons/wide/000/025/109/cover8.jpg "This Blorbo Chart Shows Just How Much Every Character Needs Therapy (And How Much They Would Resist The Idea)")
     
-    Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase](https://knowyourmeme.com/memes/this-is-going-to-ruin-the-tour)
+    This Blorbo Chart Shows Just How Much Every Character Needs Therapy (And How Much They Would Resist The Idea)](https://knowyourmeme.com/memes/needs-so-much-therapy-alignment-chart)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/804/Screen_Shot_2019-03-22_at_2.47.05_PM.jpg "OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/108/talking_to_brick_wall_cover.jpg "What's The 'Talking To Brick Wall' Meme? The Viral Image Macro Of A Guy Attempting An Impossible Conversation Explained")
     
-    OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics](https://knowyourmeme.com/news/openais-mira-murati-says-ai-may-kill-some-jobs-that-shouldnt-have-been-jobs-in-the-first-place-and-draws-ire-from-ais-critics)
+    What's The 'Talking To Brick Wall' Meme? The Viral Image Macro Of A Guy Attempting An Impossible Conversation Explained](https://knowyourmeme.com/editorials/guides/whats-the-talking-to-brick-wall-meme-the-viral-image-macro-of-a-guy-attempting-an-impossible-conversation-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/803/cover5.jpg "Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/107/Richard-Lintern-Photo-by-Mark-Douet.jpg "'Elden Ring's' Igon Voice Actor Richard Charles Lintern Reveals He Had No Idea Who 'Bayle' Was In First Interview Since Rise To Memedom")
     
-    Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies](https://knowyourmeme.com/editorials/guides/did-the-author-of-i-might-go-homeless-comic-really-become-homeless-the-story-of-the-viral-meme-and-its-parodies--2)
+    'Elden Ring's' Igon Voice Actor Richard Charles Lintern Reveals He Had No Idea Who 'Bayle' Was In First Interview Since Rise To Memedom](https://knowyourmeme.com/news/igon-voice-actor-richard-charles-lintern-reveals-he-had-no-idea-who-bayle-was-in-first-interview-since-rise-to-memedom)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/802/1.jpg "Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/025/106/boots_and_a_slick_back_bun_trend.jpg "What's The 'Boots And A Slick Back Bun' And 'Sambas And A Little Red Bag' TikTok Trend? The Viral Trend Explained")
     
-    Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained](https://knowyourmeme.com/editorials/guides/why-is-the-disney-show-the-acolyte-so-reviled-the-lowest-rated-star-wars-show-ever-and-its-controversies-explained)
+    What's The 'Boots And A Slick Back Bun' And 'Sambas And A Little Red Bag' TikTok Trend? The Viral Trend Explained](https://knowyourmeme.com/editorials/guides/whats-the-boots-and-a-slick-back-bun-and-sambas-and-a-little-red-bag-tiktok-trend-the-trend-amy-poehler-just-did-explained)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[Biden Dropping Out Of Election Speculation](https://knowyourmeme.com/memes/events/joe-biden-dropping-out-of-2024-presidential-election-speculation "Biden Dropping Out Of Election Speculation") [Cat and Girl AI Art Redraws](https://knowyourmeme.com/memes/cat-standing-in-front-of-girls-face-ai-art-redraw "Cat and Girl AI Art Redraws") [Noko Shikanoko Entering a Classroom](https://knowyourmeme.com/memes/noko-shikanoko-entering-a-classroom "Noko Shikanoko Entering a Classroom")
 
 Terms of Service and Use
 ========================
@@ -263,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
