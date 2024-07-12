@@ -269,16 +269,12 @@ The failure of us to exercise or enforce any right or provision of these Terms o
 These Terms of Service and any policies or operating rules posted by us on this site or in respect to The Service constitutes the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications, and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).  
 Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.
 
-****SECTION 18**** ****–**** ****GOVERNING LAW****
-
-These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of the UK.
-
-****SECTION 19**** ****–**** ****CHANGES TO TERMS OF SERVICE****
+****SECTION 18**** ****–**** ****CHANGES TO TERMS OF SERVICE****
 
 You can review the most current version of the Terms of Service at any time at this page.  
 We reserve the right, at our sole discretion, to update, change, or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
 
-****SECTION 20**** ****–**** ****CONTACT INFORMATION****
+****SECTION 19**** ****–**** ****CONTACT INFORMATION****
 
 Questions about the Terms of Service should be sent to us at
 
@@ -755,4 +751,4 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427cb0a693d-3289-4ffd-8cc8-22dcc4dda41a&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=38672405262842730d6fd88-0e18-455f-9e38-b6bfa3a361ed&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
