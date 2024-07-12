@@ -6,9 +6,7 @@ By using our website you consent that Clue may use cookies and third-party servi
 
 Read more on our [Privacy Policy](https://helloclue.com/privacy) how we use cookies.
 
-Accept all
-
-Manage preferencesEssential cookies only
+Accept allReject allManage preferences
 
 [Exclusive web offer 🎁 25% off Clue PlusSubscribe now](https://helloclue.com/pricing?discount_code=BANNER25)
 
@@ -611,7 +609,7 @@ by [Ida Tin](https://helloclue.com/authors/ida-tin)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: d176609932024-06-21 13:44:17
+v: 3a49486e82024-07-11 21:36:40
 
 English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
@@ -664,4 +662,4 @@ English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: d176609932024-06-21 13:44:17
+v: 3a49486e82024-07-11 21:36:40
