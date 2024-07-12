@@ -1,4 +1,4 @@
-\-->   August Home Cookie Policy | Our Terms & Agreements                                                                                 [Accessibility Statement](https://august.com/pages/accessibility)
+\-->   August Home Cookie Policy | Our Terms & Agreements                                                                                       [Accessibility Statement](https://august.com/pages/accessibility)
 
 [Skip To Main Content](#mainContentDivider)
 
