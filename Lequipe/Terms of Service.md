@@ -367,176 +367,166 @@ Les commentaires ont été désactivés.
 
 filtrer : tous les sports
 
-[09:45
+[20:37
 
-Tennis,
+Wimbledon (H)
 
-ATP
+Medvedev : «Alcaraz te fait rater des coups faciles»](https://www.lequipe.fr/Tennis/Actualites/Daniil-medvedev-battu-en-demi-finales-de-wimbledon-alcaraz-te-fait-rater-des-coups-faciles/1482104 "Medvedev : «Alcaraz te fait rater des coups faciles»")
 
-Djokovic déjà de retour à l'entraînement](https://www.lequipe.fr/Tennis/Actualites/Novak-djokovic-de-retour-a-l-entrainement-a-un-peu-plus-d-une-semaine-de-wimbledon/1476636 "Djokovic déjà de retour à l'entraînement")
+[20:35
 
-[09:35
+Wimbledon (H)
+
+Alcaraz : «Un haut niveau de confiance, un haut niveau de tennis»](https://www.lequipe.fr/Tennis/Actualites/Carlos-alcaraz-apres-sa-qualification-pour-la-finale-de-wimbledon-un-haut-niveau-de-confiance-un-haut-niveau-de-tennis/1482103 "Alcaraz : «Un haut niveau de confiance, un haut niveau de tennis»")
+
+[20:35
+
+JO 2024
+
+Nasser al-Khelaïfi devrait porter la flamme olympique](https://www.lequipe.fr/Jo-2024-paris/Football/Actualites/Le-president-du-psg-nasser-al-khelaifi-devrait-porter-la-flamme-olympique/1482102 "Nasser al-Khelaïfi devrait porter la flamme olympique")
+
+[20:35
+
+JO 2024,
+
+Basket (F),
+
+Prépa
+
+Les Bleues maîtrisent la Serbie](https://www.lequipe.fr/Jo-2024-paris/Basket/Actualites/Les-bleues-maitrisent-la-serbie-lors-de-leur-troisieme-match-de-preparation-des-jo-2024/1482100 "Les Bleues maîtrisent la Serbie")
+
+[20:30
 
 Euro 2024,
 
-Bleus
+Podcast
 
-Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»](https://www.lequipe.fr/Football/Article/Le-debrief-de-rudi-garcia-apres-le-match-nul-de-l-equipe-de-france-les-bleus-inspirent-la-crainte-meme-sans-mbappe/1476632 "Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»")
+Espagne-Angleterre, sommet inédit et inattendu](https://www.lequipe.fr/Football/Actualites/Podcast-big-five-espagne-angleterre-deux-identites-un-sommet/1481920 "Espagne-Angleterre, sommet inédit et inattendu")
 
-[09:34
+[20:28
+
+Tour de France
+
+Les Visma ont-ils dépensé trop de forces ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/L-equipe-visma-lease-a-bike-a-t-elle-depense-trop-de-forces-lors-de-l-etape-entre-agen-et-pau/1482098 "Les Visma ont-ils dépensé trop de forces ?")
+
+[20:18
+
+Tour de France,
+
+Podcast
+
+Mais où sont passés les Ineos ?](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mais-ou-sont-passes-les-ineos/1482096 "Mais où sont passés les Ineos ?")
+
+[20:15
+
+Foot,
+
+Transferts
+
+Renato Veiga, encore un jeune qui débarque à Chelsea](https://www.lequipe.fr/Football/actu-en-direct/mercato-d-ete-2024-live/11245 "Renato Veiga, encore un jeune qui débarque à Chelsea")
+
+[20:10
+
+Foot,
+
+Enquête
+
+Ben Yedder, accord secret et manipulations](https://www.lequipe.fr/Football/Article/Grand-recit-accord-secret-manipulations-transfert-de-fonds-l-enquete-sur-wissam-ben-yedder/1481955 "Ben Yedder, accord secret et manipulations")
+
+[20:09
+
+Foot,
+
+Justice
+
+Le licenciement d'El Ghazi par Mayence annulé](https://www.lequipe.fr/Football/Actualites/Le-licenciement-d-anwar-el-ghazi-mayence-annule-par-la-justice-allemande/1482092 "Le licenciement d'El Ghazi par Mayence annulé")
+
+[20:07
+
+Foot,
+
+Amical
+
+Brest domine Avranches pour sa première sortie](https://www.lequipe.fr/Football/Actualites/Brest-domine-avranches-pour-sa-premiere-sortie/1482091 "Brest domine Avranches pour sa première sortie")
+
+[20:00
+
+Wimbledon (F)
+
+Krejcikova : «On se soucie des qualités ou des réseaux sociaux ?»](https://www.lequipe.fr/Tennis/Article/Barbora-krejcikova-finaliste-de-wimbledon-regrette-son-manque-de-notoriete-je-pensais-que-ca-allait-etre-different/1482031 "Krejcikova : «On se soucie des qualités ou des réseaux sociaux ?»")
+
+[19:53
+
+Tour de France,
+
+Baromètre des favoris
+
+Pogacar perd un atout, Roglic à l'arrêt](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-barometre-des-favoris-du-tour-de-france-pogacar-diminue-roglic-a-l-arret/1482089 "Pogacar perd un atout, Roglic à l'arrêt")
+
+[19:47
+
+Volley,
+
+Marmara SpikeLigue
+
+Vers la fin de Nantes-Rezé ?](https://www.lequipe.fr/Volley-ball/Actualites/Vers-la-fin-de-nantes-reze-en-grande-difficulte-financiere/1482084 "Vers la fin de Nantes-Rezé ?")
+
+[19:47
 
 Rugby,
 
 Top 14,
 
-La Rochelle
+Lyon
 
-Jégou : «C'est triste»](https://www.lequipe.fr/Rugby/Actualites/Oscar-jegou-apres-toulouse-la-rochelle-c-est-triste/1476634 "Jégou : «C'est triste»")
+Gibbes vient renforcer le staff](https://www.lequipe.fr/Rugby/Actualites/Jono-gibbes-renforce-le-staff-du-lou/1482083 "Gibbes vient renforcer le staff")
 
-[09:32
+[19:45
 
-Hockey,
+Rugby
 
-Coupe Continentale
+Codorniou dévoile son plan pour la présidence de la FFR](https://www.lequipe.fr/Rugby/Article/Didier-codorniou-devoile-son-ambitieux-programme-pour-la-presidence-de-la-ffr-un-defi-a-relever/1482075 "Codorniou dévoile son plan pour la présidence de la FFR")
 
-Grenoble face à Aalborg et Katowice](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Grenoble-face-a-aalborg-et-katowice-en-coupe-continentale/1476633 "Grenoble face à Aalborg et Katowice")
+[19:35
 
-[09:30
+JO 2024
 
-Euro 2024,
+Objectif Paris, le journal du 12 juillet 2024](https://www.lequipe.fr/tv/replay/le-replay-du-journal-objectif-paris-du-12-juillet/20194086 "Objectif Paris, le journal du 12 juillet 2024")
 
-Turquie
+[19:17
 
-Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»](https://www.lequipe.fr/Football/Article/Orkun-kokcu-turquie-j-ai-reve-avec-la-generation-doree-de-l-euro-2008/1476624 "Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»")
+JO 2024
 
-[09:00
+Répétition générale de la cérémonie d'ouverture le 20 juillet](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/La-repetition-generale-de-la-ceremonie-d-ouverture-des-jeux-olympiques-aura-lieu-le-20-juillet/1482066 "Répétition générale de la cérémonie d'ouverture le 20 juillet")
 
-Prix Richard Martin 2024
-
-Participez au grand concours international de photos de sport de L'Équipe](https://www.lequipe.fr/landing/prix-richard-martin/ "Participez au grand concours international de photos de sport de L'Équipe")
-
-[08:59
-
-Rugby,
-
-Top 14
-
-Stade Français, une saison pleine de secousses](https://www.lequipe.fr/Rugby/Article/Stade-francais-une-saison-pleine-de-secousses-avant-la-demi-finale-du-top-14-face-a-bordeaux-begles/1476494 "Stade Français, une saison pleine de secousses")
-
-[08:58
-
-Hockey,
-
-TQO (H)
-
-Les dates de la préparation des Bleus](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-dates-de-la-preparation-de-l-equipe-de-france-avant-le-tqo-des-jeux-2026/1476629 "Les dates de la préparation des Bleus")
-
-[08:56
-
-Foot,
-
-Copa America
-
-Le Chili tenu en échec par le Pérou](https://www.lequipe.fr/Football/Actualites/Le-chili-tenu-en-echec-par-le-perou-a-la-copa-america/1476628 "Le Chili tenu en échec par le Pérou")
-
-[08:55
-
-Cyclisme,
-
-Championnat de France
-
-Laporte peut-il gagner tout seul ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/Malgre-une-malchance-tenace-en-2024-christophe-laporte-reve-d-une-victoire-en-solitaire/1476532 "Laporte peut-il gagner tout seul ?")
-
-[08:54
-
-Euro 2024
-
-Les supporters des Bleus ont été à la hauteur](https://www.lequipe.fr/Football/Actualites/En-inferiorite-numerique-les-supporters-francais-ont-rivalise-avec-les-neerlandais/1476627 "Les supporters des Bleus ont été à la hauteur")
-
-[08:51
+[19:07
 
 Golf,
 
-PGA Championship (F)
+Evian Championship
 
-Schmelzel et Yang en tête, Boutier 12e](https://www.lequipe.fr/Golf/Actualites/Schmelzel-et-yang-en-tete-boutier-12e-du-kpmg-women-s-pga-championship/1476626 "Schmelzel et Yang en tête, Boutier 12e")
+Le 2e tour interrompu par un orage, Boutier à l'abri à -5](https://www.lequipe.fr/Golf/Actualites/Le-deuxieme-tour-de-l-evian-championship-interrompu-par-un-orage-celine-boutier-a-l-abri-a-5/1482065 "Le 2e tour interrompu par un orage, Boutier à l'abri à -5")
 
-[08:41
-
-JO 2024,
-
-Tennis
-
-Les doubles tricolores dans l'inconnu](https://www.lequipe.fr/Jo-2024-paris/Tennis/Article/Contraints-a-des-paires-inedites-les-doubles-tricolores-dans-l-inconnu-aux-jo-de-paris/1476561 "Les doubles tricolores dans l'inconnu")
-
-[08:40
-
-Natation,
-
-États-Unis,
-
-Trials
-
-Dressel impressionne sur 50m et défendra son titre aux JO](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/Apres-son-echec-sur-100-m-caeleb-dressel-se-qualifie-sur-50-m-pour-les-jo-de-paris-et-defendra-son-titre/1476625 "Dressel impressionne sur 50m et défendra son titre aux JO")
-
-[08:30
-
-JO,
-
-Boxe
-
-Tout savoir sur Amina Zidani](https://www.lequipe.fr/Boxe/Fiche-guide/Athlete/Amina-zidani/58 "Tout savoir sur Amina Zidani")
-
-[08:27
+[19:05
 
 Euro 2024,
 
-Bleus,
+Angleterre
 
-Tactique
-
-Deschamps obtient ce qu'il cherche](https://www.lequipe.fr/Football/Article/Le-debrief-tactique-de-pays-bas-france-deschamps-obtient-ce-qu-il-cherche/1476613 "Deschamps obtient ce qu'il cherche")
-
-[08:23
-
-Euro 2024
-
-Le onze des «papis»](https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-giroud-modric-le-onze-des-papis-de-l-euro-2024/1476572 "Le onze des «papis»")
-
-[08:13
-
-JO 2024,
-
-Natation
-
-Quelles ambitions pour les Bleus ?](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/Marchand-manaudou-grousset-quelles-ambitions-pour-les-nageurs-bleus-aux-jo-de-paris/1476549 "Quelles ambitions pour les Bleus ?")
-
-[08:12
-
-Euro 2024,
-
-Roumanie
-
-Stanciu, capitaine abandonné](https://www.lequipe.fr/Football/Actualites/Nicolae-stanciu-un-capitaine-fache-avec-les-supporters-mais-apprecie-par-ses-coequipiers/1476466 "Stanciu, capitaine abandonné")
-
-[08:12
-
-Athlé,
-
-Perche
-
-Collet, un record mais toujours plus d'ambitions](https://www.lequipe.fr/Athletisme/Actualites/Pour-thibaut-collet-un-nouveau-record-mais-toujours-plus-d-ambitions/1476530 "Collet, un record mais toujours plus d'ambitions")
+Watkins, le sauveur venu de D6](https://www.lequipe.fr/Football/Article/En-ollie-watkins-l-angleterre-a-trouve-un-heros-inattendu-pour-eliminer-les-pays-bas-en-demi-finales/1481879 "Watkins, le sauveur venu de D6")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/691/covers/Preview-MEDIUM-33576.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/720/covers/Preview-MEDIUM-35094.jpg?v=4)
 
 lire l'édition
 
 réglages accessibilité
 
 * [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
-* [Euro 2024](https://www.lequipe.fr/Football/Euro/)
+* [Euro](https://www.lequipe.fr/Football/Euro/)
+* [Le Tour](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
+* [Wimbledon](https://www.lequipe.fr/Tennis/Wimbledon/)
 * [Copa America](https://www.lequipe.fr/Football/Copa-america/)
 
 * [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
@@ -579,6 +569,7 @@ réglages accessibilité
     
 * [handball](https://www.lequipe.fr/Handball/)
     
+* [Jeux olympiques](https://www.lequipe.fr/Jo/)
 * [golf](https://www.lequipe.fr/Golf/)
     
 * [combat](https://www.lequipe.fr/Sports-de-combat/)
@@ -590,8 +581,7 @@ réglages accessibilité
 * [médias](https://www.lequipe.fr/Medias/)
 * [dopage](https://www.lequipe.fr/Dopage/)
 * [coaching](https://www.lequipe.fr/Coaching/)
-* [Jeux olympiques](https://www.lequipe.fr/Jo/)
-* [Jeux paralympiques](https://www.lequipe.fr/Jeux-Paralympiques/)
+* [aviron](https://www.lequipe.fr/Aviron/)
 * les autres sports de A à Z...
 
 * accès rapide
@@ -646,6 +636,14 @@ réglages accessibilité
 
 liens rapides
 
+Tour de France 2024
+
+* [l'actu du Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
+* [classement général](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-classement-individuel/general)
+* [parcours du Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1478123)
+* [Tadej Pogacar](https://www.lequipe.fr/Cyclisme-sur-route/CyclismeFicheCoureur12983.html)
+* [Jonas Vingegaard](https://www.lequipe.fr/Cyclisme-sur-route/CyclismeFicheCoureur12320.html)
+
 [Euro 2024 (foot)](https://www.lequipe.fr/Football/Euro/)
 
 * [Kylian Mbappé](https://www.lequipe.fr/Football/Kylian-mbappe/)
@@ -656,23 +654,13 @@ liens rapides
 
 Jeux Olympiques
 
-* [JO Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
 * [guide des JO 2024](https://www.lequipe.fr/collection/guide-athletes-france-jo-paris-2024/)
 * [Parcours de la flamme olympique](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Carte-et-parcours-du-relais-de-la-flamme-olympique-2024-decouvrez-la-carte-des-etapes-dans-toute-la-france/1470636)
 * [les dates des JO de Paris 2024](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Jo-de-paris-2024-dates-echeances-et-evenements-pre-olympiques/1434278)
 * [qualifiés français pour les JO de Paris 2024](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Les-qualifies-francais-sport-par-sport-pour-les-jeux-olympiques-de-paris-2024/1420674)
 
-[Tour de France 2024](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
-
-* [Parcours détaillé du Tour de France 2024](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1475115)
-* [Classement Tour de France 2023](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-classement-individuel/general)
-* [tour de france en direct](https://www.lequipe.fr/Cyclisme-sur-route/Directs/)
-* [Résultats par étape](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-calendrier-resultats)
-* [Palmarès du Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/tour-de-france/page-palmares-individuel/par-annee)
-
 [football](https://www.lequipe.fr/Football/)
 
-* [Chaine et heure de la finale de la Ligue des champions Dortmund - Real Madrid](https://www.lequipe.fr/Football/Actualites/Borussia-dortmund-real-madrid-a-quelle-heure-et-sur-quelle-chaine-suivre-la-finale-de-ligue-des-champions/1471375)
 * [Champions League](https://www.lequipe.fr/Football/ligue-des-champions/page-calendrier-resultats)
 * [Europa League](https://www.lequipe.fr/Football/ligue-europa/page-calendrier-resultats)
 * [Europa Conference League](https://www.lequipe.fr/Football/Ligue-europa-conference/)
@@ -682,18 +670,13 @@ Jeux Olympiques
 * [Bundesliga](https://www.lequipe.fr/Football/championnat-d-allemagne/page-calendrier-resultats)
 * [Serie A](https://www.lequipe.fr/Football/championnat-d-italie/page-calendrier-resultats)
 * [Liga NOS](https://www.lequipe.fr/Football/championnat-du-portugal/page-calendrier-resultats)
-* [Coupe du monde 2022](https://www.lequipe.fr/Football/Coupe-du-monde/)
-* [Équipe de France](https://www.lequipe.fr/Football/France/)
-* [Kylian Mbappé](https://www.lequipe.fr/Football/FootballFicheJoueur58221.html)
 * [matchs ce soir](https://www.lequipe.fr/Programmes-tv/)
-* [matchs de foot en direct](https://www.lequipe.fr/Football/Directs)
 
 [rugby](https://www.lequipe.fr/Rugby/)
 
 * [Top 14](https://www.lequipe.fr/Rugby/top-14/page-calendrier-resultats)
 * [classement top 14](https://www.lequipe.fr/Rugby/top-14/page-classement-equipes/general)
 * [calendrier et résultats Top 14](https://www.lequipe.fr/Rugby/top-14/page-calendrier-resultats)
-* [Pro D2](https://www.lequipe.fr/Rugby/pro-d2/page-calendrier-resultats)
 * [Champions Cup](https://www.lequipe.fr/Rugby/coupe-des-champions/page-calendrier-resultats)
 * [XV de France](https://www.lequipe.fr/Rugby/France/)
 
@@ -703,34 +686,16 @@ Jeux Olympiques
 * [classement WTA](https://www.lequipe.fr/Tennis/wta/epreuve-simple-dames/page-classement-individuel/general)
 * [Open d'Australie](https://www.lequipe.fr/Tennis/Open-d-australie/)
 * [Roland-Garros](https://www.lequipe.fr/Tennis/Roland-garros/)
-* [Monte Carlo](https://www.lequipe.fr/Tennis/Monte-carlo/)
-* [Novak Djokovic](https://www.lequipe.fr/Tennis/TennisFicheJoueur3153.html)
-* [Rafael Nadal](https://www.lequipe.fr/Tennis/TennisFicheJoueur2862.html)
-* [Carlos Alcaraz](https://www.lequipe.fr/Tennis/TennisFicheJoueur9993.html)
-* [Ons Jabeur](https://www.lequipe.fr/Tennis/TennisFicheJoueur6063.html)
 
 [cyclisme](https://www.lequipe.fr/Cyclisme/)
-
-* [calendrier](https://www.lequipe.fr/Cyclisme-sur-route/uci/page-calendrier-saison)
-* [Tour de France](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Parcours-du-tour-de-france-2024-etape-par-etape/1475115)
-* [Giro](https://www.lequipe.fr/Cyclisme-sur-route/Tour-d-italie/)
-* [Vuelta](https://www.lequipe.fr/Cyclisme-sur-route/Tour-d-espagne/)
 
 [basket](https://www.lequipe.fr/Basket/)
 
 * [NBA](https://www.lequipe.fr/Basket/Nba/)
-* [Guide NBA 2024](https://www.lequipe.fr/special/Basket/guide/v5/nba-2023-2024/)
 * [Saison Régulière NBA](https://www.lequipe.fr/Basket/nba/page-calendrier-resultats)
 * [Victor Wembanyama](https://www.lequipe.fr/Basket/Victor-wembanyama/)
 * [Betclic Elite](https://www.lequipe.fr/Basket/Betclic-elite/)
-* [Pro B](https://www.lequipe.fr/Basket/Pro-b/)
 * [Euroligue](https://www.lequipe.fr/Basket/Euroligue-h/)
-
-[handball](https://www.lequipe.fr/Handball/)
-
-* [Mondial féminin 2023](https://www.lequipe.fr/Handball/Championnat-du-monde-f/)
-* [Liqui Moly Starligue](https://www.lequipe.fr/Handball/Liqui-moly-starligue/)
-* [Ligue des Champions (H)](https://www.lequipe.fr/Handball/Ligue-des-champions-h/)
 
 [formule 1](https://www.lequipe.fr/Formule-1/)
 
@@ -740,34 +705,12 @@ Jeux Olympiques
 
 [auto-moto](https://www.lequipe.fr/Auto-moto/)
 
-* [l'actu rallye WRC](https://www.lequipe.fr/Rallye/)
-* [Rallye Monte-Carlo](https://www.lequipe.fr/Rallye/Rallye-monte-carlo/)
-* [l'actu moto gp](https://www.lequipe.fr/Moto/)
 * [calendrier moto gp](https://www.lequipe.fr/Moto/CAL_MOTO.html)
 * [classement moto gp](https://www.lequipe.fr/Moto/CLA_MOTOGP.html)
 
 Combat
 
 * [MMA](https://www.lequipe.fr/Mma/)
-
-[coaching](https://www.lequipe.fr/Coaching/)
-
-* [jeune intermittent](https://www.lequipe.fr/Coaching/Bien-etre/Actualites/Bien-etre-6-methodes-de-jeune-intermittent/1216266)
-* [se muscler les triceps](https://www.lequipe.fr/Coaching/Musculation/Actualites/4-exercices-pour-avoir-les-triceps-muscles/1266528)
-* [sport à la maison](https://www.lequipe.fr/Coaching/Sport-a-la-maison/)
-* [se muscler les pecs sans matériel](https://www.lequipe.fr/Coaching/Musculation/Actualites/Comment-muscler-vos-pectoraux-sans-materiel/919470)
-* [exercices abdos](https://www.lequipe.fr/Coaching/Musculation/Actualites/Comment-se-muscler-les-abdominaux-sans-materiel-en-5-exercices/1183208)
-* [perdre du ventre](https://www.lequipe.fr/Coaching/Musculation/Actualites/Comment-perdre-du-ventre-top-3-des-exercices-a-faire-pour-obtenir-un-ventre-plat/741472)
-* [séances sport à la maison](https://www.lequipe.fr/Coaching/Sport-a-la-maison/Actualites/Toutes-les-seances-de-la-semaine-de-notre-programme-de-sport-a-la-maison/1194123)
-
-[tous les directs](https://www.lequipe.fr/Directs)
-
-* [Calendrier des évènements sportifs de l'année 2024](https://www.lequipe.fr/Tous-sports/Actualites/Le-calendrier-sportif-2024-une-annee-riche-en-competitions/1439075)
-* [Les épreuves de biathlon en live](https://www.lequipe.fr/Biathlon/Directs)
-* [matchs de foot ce soir](https://www.lequipe.fr/Football/Directs)
-* [matchs rugby ce soir](https://www.lequipe.fr/Rugby/Directs)
-* [tennis en direct](https://www.lequipe.fr/Tennis/Directs)
-* [cyclisme en direct](https://www.lequipe.fr/Cyclisme-sur-route/Directs)
 
 [la chaine L'Equipe](https://www.lequipe.fr/tv/)
 
@@ -777,18 +720,10 @@ Combat
 * [L'Equipe de Greg](https://www.lequipe.fr/tv/collection/replays-emissions/lequipedegreg/)
 * [L'Equipe du Soir](https://www.lequipe.fr/tv/collection/replays-emissions/l-equipe-du-soir/)
 
-[calendrier des évènements sportifs](https://sportsnconnect.lequipe.fr/calendrier-evenements/)
-
-* [cyclosportives Paris](https://sportsnconnect.lequipe.fr/calendrier-evenements/departement/paris)
-* [calendrier triathlon](https://sportsnconnect.lequipe.fr/calendrier-evenements/sport/triathlon)
-* [calendrier running](https://sportsnconnect.lequipe.fr/calendrier-evenements/sport/course-a-pied)
-* [calendrier marathon](https://sportsnconnect.lequipe.fr/calendrier-evenements/categorie/marathon)
-
 [Ligue des Champions](https://www.lequipe.fr/Football/Ligue-des-champions/)
 
 * [l'actu de Champions League](https://www.lequipe.fr/Football/Ligue-des-champions/)
 * [calendrier et résultats Ligue des Champions](https://www.lequipe.fr/Football/ligue-des-champions/page-calendrier-resultats)
-* [le PSG en Ligue des champions](https://www.lequipe.fr/Football/ligue-des-champions/page-calendrier-resultats/groupe-f)
 
 [Ligue 1](https://www.lequipe.fr/Football/Ligue-1/)
 
@@ -800,8 +735,5 @@ Combat
 Services
 
 * [guide d'achat](https://www.lequipe.fr/Guide-d-achat/)
-* [Flux RSS](https://www.lequipe.fr/Tous-sports/Actualites/Les-flux-rss-de-l-equipe/1299546)
-* [les éditions l'Équipe](https://www.lequipe.fr/Tous-sports/Actualites/Les-editions-l-equipe/1012117)
-* [location des studios TV de la chaine l'Equipe](https://www.lequipe.fr/Tous-sports/Actualites/Invitez-vous-sur-les-plateaux-tv-de-la-chaine-l-equipe/1408121)
 
 © L’Équipe 24/24 - 2024 accessibilité revenir en haut
