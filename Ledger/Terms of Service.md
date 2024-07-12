@@ -9,6 +9,7 @@
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
+    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
@@ -53,6 +54,7 @@
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
+    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
     * [Supported crypto](https://www.ledger.com/supported-crypto-assets "Supported crypto")
@@ -98,6 +100,7 @@
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
+    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
@@ -142,6 +145,7 @@
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
+    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
     * [Supported crypto](https://www.ledger.com/supported-crypto-assets "Supported crypto")
@@ -287,7 +291,7 @@ With Ledger Live, you can (including without limitation)
     * Stake your Crypto Assets on Proof-Of-Stake networks
         
 
-**5.1.2 Supported Crypto Assets.** Ledger Live and Ledger Devices are only capable of supporting certain Crypto Assets. A non-exhaustive list of supported Crypto Assets and compatible Wallets is available [here](https://support.ledger.com/hc/en-us/articles/115005304449-Supported-crypto-assets#targetText=Ledger%20Live%20supports%2022%20crypto,as%20send%20and%20receive%20them). This list is subject to change at the discretion of Ledger.
+**5.1.2 Supported Crypto Assets.** Ledger Live and Ledger Devices are only capable of supporting certain Crypto Assets. A non-exhaustive list of supported Crypto Assets and compatible Wallets is available [here](https://support.ledger.com/hc/en-us/articles/10479755500573-Supported-Coins-and-Tokens-in-Ledger-Live?docs=true). This list is subject to change at the discretion of Ledger.
 
 **5.1.3 Services availability.** We may change, update or suspend the Services, temporarily or indefinitely, so as to carry out works including, but not limited to: firmware and software updates, maintenance operations, amendments to the servers, bug fixes, etc. We will make reasonable efforts to give you prior notice of any significant disruption of the Services. Ledger does not guarantee the correct functioning of the Services in the event of the installation or use of programs or applications that do not conform to Service specifications and technical standards. Please note that when a Service is unavailable or suspended, you can always recover your Private Keys using your 24-Recovery Phrase on any compatible Wallet.
 
@@ -436,9 +440,9 @@ Register to newsletter
 
 English
 
-Copyright © Ledger SAS. All rights reserved. Ledger, Ledger Stax, Ledger Nano S, Ledger Vault, Bolos are trademarks owned by Ledger SAS
+Copyright © Ledger SAS. All rights reserved. Ledger, Ledger Stax, Ledger Nano S, Ledger Vault, BOLOS are trademarks owned by Ledger SAS
 
-1 rue du mail, 75002, Paris, France
+106 Rue du Temple, 75003 Paris, France
 
 Payment methods
 
