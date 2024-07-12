@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows MSHTML zero-day used in malware attacks for over a year](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        "Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
-    * [![CDK Global hacked again while recovering from first cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows MSHTML zero-day used in malware attacks for over a year](https://www.bleepingcomputer.com/news/security/windows-mshtml-zero-day-used-in-malware-attacks-for-over-a-year/)
+    * [![Chinese APT40 hackers hijack SOHO routers to launch attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
-    * [![Microsoft says bug causes Windows 10 apps to display Open With dialogs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Chinese APT40 hackers hijack SOHO routers to launch attacks](https://www.bleepingcomputer.com/news/security/chinese-apt40-hackers-hijack-soho-routers-to-launch-attacks/)
+    * [![Microsoft fixes Windows 11 bug causing reboot loops, taskbar freezes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
-    * [![ONNX phishing service targets Microsoft 365 accounts at financial firms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft fixes Windows 11 bug causing reboot loops, taskbar freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-bug-causing-reboot-loops-taskbar-freezes/)
+    * [![US disrupts AI-powered bot farm pushing Russian propaganda on X](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
+        US disrupts AI-powered bot farm pushing Russian propaganda on X](https://www.bleepingcomputer.com/news/security/us-disrupts-ai-powered-bot-farm-pushing-russian-propaganda-on-x/)
     
-    * [![Automate Windows tasks with $58 off this PowerShell training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![ARRL finally confirms ransomware gang stole data in cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Automate Windows tasks with $58 off this PowerShell training bundle](https://www.bleepingcomputer.com/offer/deals/automate-windows-tasks-with-58-off-this-powershell-training-bundle/)
-    * [![CDK warns: threat actors are calling customers, posing as support](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        ARRL finally confirms ransomware gang stole data in cyberattack](https://www.bleepingcomputer.com/news/security/arrl-finally-confirms-ransomware-gang-stole-data-in-cyberattack/)
+    * [![Signal downplays encryption key flaw, fixes it after X drama](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK warns: threat actors are calling customers, posing as support](https://www.bleepingcomputer.com/news/security/cdk-warns-threat-actors-are-calling-customers-posing-as-support/)
-    * [![Biden bans Kaspersky antivirus software in US over security concerns](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Signal downplays encryption key flaw, fixes it after X drama](https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/)
+    * [![Store data in the cloud and on disk with $231 off a 2TB storage deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Biden bans Kaspersky antivirus software in US over security concerns](https://www.bleepingcomputer.com/news/security/biden-bans-kaspersky-antivirus-software-in-us-over-security-concerns/)
-    * [![Phoenix UEFI vulnerability impacts hundreds of Intel PC models](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Store data in the cloud and on disk with $231 off a 2TB storage deal](https://www.bleepingcomputer.com/offer/deals/store-data-in-the-cloud-and-on-disk-with-231-off-a-2tb-storage-deal/)
+    * [![Google increases bug bounty rewards five times, up to $151K](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Phoenix UEFI vulnerability impacts hundreds of Intel PC models](https://www.bleepingcomputer.com/news/security/phoenix-uefi-vulnerability-impacts-hundreds-of-intel-pc-models/)
+        Google increases bug bounty rewards five times, up to $151K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,26 +352,26 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
-* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Windows MSHTML zero-day used in malware attacks for over a year](https://www.bleepingcomputer.com/news/security/windows-mshtml-zero-day-used-in-malware-attacks-for-over-a-year/)
+* [![GitLab](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
+    GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)
 
 Latest forum topics
 
-* [Windows sometimes freezes.](https://www.bleepingcomputer.com/forums/t/798378/windows-sometimes-freezes/)
+* [Netgear Orbi RBR 850 Router/RBS 850 Satellite](https://www.bleepingcomputer.com/forums/t/798907/netgear-orbi-rbr-850-routerrbs-850-satellite/)
     
-    [einstein1969](https://www.bleepingcomputer.com/forums/u/1316674/einstein1969/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
+    [muusicman](https://www.bleepingcomputer.com/forums/u/1318020/muusicman/) in [Networking](https://www.bleepingcomputer.com/forums/f/21/networking/)
     
-* [Redirecting to bimq.co](https://www.bleepingcomputer.com/forums/t/798375/redirecting-to-bimqco/)
+* [Can't Uninstall Bing](https://www.bleepingcomputer.com/forums/t/798905/cant-uninstall-bing/)
     
-    [reinmar](https://www.bleepingcomputer.com/forums/u/421057/reinmar/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [Judy\_Cl](https://www.bleepingcomputer.com/forums/u/1318007/judy-cl/) in [Windows 10 Support](https://www.bleepingcomputer.com/forums/f/229/windows-10-support/)
     
-* [Help with UEIF Bootkit](https://www.bleepingcomputer.com/forums/t/798373/help-with-ueif-bootkit/)
+* [Gaming/Work Laptop Recommendation](https://www.bleepingcomputer.com/forums/t/798903/gamingwork-laptop-recommendation/)
     
-    [Severartery](https://www.bleepingcomputer.com/forums/u/1316656/severartery/) in [Virus, Trojan, Spyware, and Malware Removal Help](https://www.bleepingcomputer.com/forums/f/22/virus-trojan-spyware-and-malware-removal-help/)
+    [chiiibill](https://www.bleepingcomputer.com/forums/u/1013497/chiiibill/) in [Questions and advice for Buying a New Computer](https://www.bleepingcomputer.com/forums/f/171/questions-and-advice-for-buying-a-new-computer/)
     
 
 Latest virus removal guides
@@ -408,7 +408,7 @@ Latest Downloads
     
     [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
     
-    Version: 5.1.5.116
+    Version: 5.1.6.117
     
     **5M+ _Downloads_**
     
@@ -418,7 +418,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,059 _Downloads_**
+    **54,399 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -426,7 +426,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,822 _Downloads_**
+    **42,115 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -434,7 +434,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,135 _Downloads_**
+    **103,393 _Downloads_**
     
 * ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -442,7 +442,7 @@ Latest Downloads
     
     Version: NA
     
-    **150,173 _Downloads_**
+    **150,317 _Downloads_**
     
 
 ##### Follow us:
