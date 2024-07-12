@@ -100,7 +100,7 @@ Originally adapted from the [WordPress Terms of Service](http://en.wordpress.com
 
 * [Home](https://forum.livingwithfibro.org/)
 * [Categories](https://forum.livingwithfibro.org/categories)
-* [FAQ/Guidelines](https://forum.livingwithfibro.org/guidelines)
+* [Guidelines](https://forum.livingwithfibro.org/guidelines)
 * [Terms of Service](https://forum.livingwithfibro.org/tos)
 * [Privacy Policy](https://forum.livingwithfibro.org/privacy)
 
