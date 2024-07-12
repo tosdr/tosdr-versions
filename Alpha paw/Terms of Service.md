@@ -50,7 +50,7 @@ Checkout
 
 Error
 
-Save 15% today with code: GIFT15
+Save 15% today with code: SUMFUN15
 
        
 
@@ -217,7 +217,7 @@ Apply
     
     [Regular price
     
-    From $149.99
+    $149.99
     
     Regular price
     
@@ -225,7 +225,7 @@ Apply
     
     Sale price
     
-    From $149.99 Save $80.00 (34%)
+    $149.99 Save $80.00 (34%)
     
     Unit price
     
@@ -237,11 +237,11 @@ Apply
     
     2 colors
     
-    6450 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6462 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
-    From $149.99
+    $149.99
     
     Regular price
     
@@ -249,7 +249,7 @@ Apply
     
     Sale price
     
-    From $149.99 Save $80.00 (34%)
+    $149.99 Save $80.00 (34%)
     
     Unit price
     
@@ -261,7 +261,7 @@ Apply
     
     2 colors
     
-    6450 total reviews
+    6462 total reviews
     
 * On sale
     
@@ -289,7 +289,7 @@ Apply
     
     in your cart
     
-    6 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
+    9 total reviews](https://www.alphapaw.com/collections/bestsellers/products/stairwedge)
     
     Regular price
     
@@ -311,7 +311,7 @@ Apply
     
     in your cart
     
-    6 total reviews
+    9 total reviews
     
 * On sale
     
@@ -343,7 +343,7 @@ Apply
     
     3 sizes
     
-    3686 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
+    3688 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawproof-throw-blanket)
     
     Regular price
     
@@ -369,7 +369,7 @@ Apply
     
     3 sizes
     
-    3686 total reviews
+    3688 total reviews
     
 * On sale
     
@@ -399,7 +399,7 @@ Apply
     
     3 sizes
     
-    3313 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
+    3325 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-pee-pads-xl)
     
     Regular price
     
@@ -423,7 +423,7 @@ Apply
     
     3 sizes
     
-    3313 total reviews
+    3325 total reviews
     
 * On sale
     
@@ -453,7 +453,7 @@ Apply
     
     3 sizes
     
-    3313 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
+    3325 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-dog-pee-pads)
     
     Regular price
     
@@ -477,7 +477,7 @@ Apply
     
     3 sizes
     
-    3313 total reviews
+    3325 total reviews
     
 * On sale
     
@@ -505,7 +505,7 @@ Apply
     
     in your cart
     
-    1306 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
+    1309 total reviews](https://www.alphapaw.com/collections/bestsellers/products/magic-mouthwash-for-dogs)
     
     Regular price
     
@@ -527,7 +527,7 @@ Apply
     
     in your cart
     
-    1306 total reviews
+    1309 total reviews
     
 * On sale
     
@@ -541,11 +541,11 @@ Apply
     
     Regular price
     
-    ~$35.00~
+    ~$39.99~
     
     Sale price
     
-    $29.99 Save $5.01 (14%)
+    $29.99 Save $10.00 (25%)
     
     Unit price
     
@@ -563,11 +563,11 @@ Apply
     
     Regular price
     
-    ~$35.00~
+    ~$39.99~
     
     Sale price
     
-    $29.99 Save $5.01 (14%)
+    $29.99 Save $10.00 (25%)
     
     Unit price
     
@@ -687,7 +687,7 @@ Apply
     
     2 total reviews
     
-* On sale
+* Sold out
     
     [![PupRug™ Faux Fur Orthopedic Dog Bed - Rectangle White with Brown Accents](//www.alphapaw.com/cdn/shop/files/3_2091e318-3a42-47b4-8381-e19821019c9d_533x.png?v=1712597247)
     
@@ -971,7 +971,7 @@ Apply
     
     2 colors
     
-    391 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-modern-pet-portrait)
+    392 total reviews](https://www.alphapaw.com/collections/bestsellers/products/custom-modern-pet-portrait)
     
     Regular price
     
@@ -997,7 +997,7 @@ Apply
     
     2 colors
     
-    391 total reviews
+    392 total reviews
     
 
 * $00 Product Title 3 colors
