@@ -129,7 +129,7 @@ This document is CC-BY-SA. It was last updated November 1, 2021.
 
 * [Home](https://forum.livingwithfibro.org/)
 * [Categories](https://forum.livingwithfibro.org/categories)
-* [FAQ/Guidelines](https://forum.livingwithfibro.org/guidelines)
+* [Guidelines](https://forum.livingwithfibro.org/guidelines)
 * [Terms of Service](https://forum.livingwithfibro.org/tos)
 * [Privacy Policy](https://forum.livingwithfibro.org/privacy)
 
