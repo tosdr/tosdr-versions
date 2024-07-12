@@ -193,7 +193,22 @@ Um Cookies und sonstige Technologien zu verwalten, nutzen wir den Dienst Usercen
   
 Nähere Hinweise zum Einsatz von Cookies auf unserer Website sowie Ihren Einstellungsmöglichkeiten finden Sie unter "Cookie-Einstellungen". Dort informieren wir Sie auch über die von uns eingebundenen Plug-Ins sowie deren Anbieter und stellen Ihnen weitergehende Datenschutzhinweise hierzu zur Verfügung. Sämtliche Marketing- und Trackingmaßnahmen im Zusammenhang mit unserer Website erfolgen ausschließlich auf Grundlage Ihrer Einwilligungserklärung (Art. 6 Abs. 1 lit. a DSGVO), die Sie jederzeit unter "Cookie-Einstellungen" modifizieren oder widerrufen können.  
   
-Gerne können Sie sich unsere Datenschutzerklärung [**hier**](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/datenschutzerklaerung_mpk.pdf) als PDF herunterladen.
+Gerne können Sie sich unsere Datenschutzerklärung [**hier**](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/datenschutzerklaerung_mpk.pdf) als PDF herunterladen.  
+  
+
+### § 14 Nutzung von etracker  
+
+In unserem Angebot nutzen wir Technologien der etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg, zur Analyse von Nutzungsdaten über unsere Dienste. setzen "etracker" ein, um die Nutzung unserer Website zu analysieren, zu verbessern und für Sie als Nutzer interessanter gestalten zu können. Wir führen Reichweiten-Analysen, eine Erfolgsmessung unserer Online-Marketing-Maßnahmen sowie Testverfahren durch, um z.B. unterschiedliche Versionen unseres Online-Angebotes oder seiner Bestandteile zu testen und zu optimieren. Wir beschränken uns bei der Verarbeitung Ihrer Daten dabei auf das für diesen Zweck notwendige Mindestmaß an Daten.  
+  
+Für die Besuchererkennung werden ausschließlich Informationen wie Browser- oder Header-Informationen verarbeitet, die zwangsläufig oder aufgrund von (Browser-)Einstellungen des Endgerätes übermittelt werden. Es erfolgt kein "Zugriff auf Informationen, die bereits in der Endeinrichtung gespeichert sind" i.S.v. § 25 Abs. 1 TDDDG. Außerdem werden keine Eigenschaften eines Endgerätes ausgelesen. Der Einsatz von etracker erfolgt daher auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, soweit überhaupt personenbezogene Daten verarbeitet werden. Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die Optimierung unseres Online-Angebotes und unseres Webauftritts. Da uns die Privatsphäre unserer Besucher wichtig ist, werden die Daten, die möglicherweise einen Bezug zu einer einzelnen Person zulassen, wie die IP-Adresse, Anmelde- oder Gerätekennungen, frühestmöglich anonymisiert oder pseudonymisiert. etracker wurde unabhängig geprüft, zertifiziert und mit dem Datenschutz-Gütesiegel  [**ePrivacyseal**](https://www.eprivacy.eu/kunden/vergebene-siegel/firma/etracker-gmbh/) ausgezeichnet. Mit etracker besteht eine Auftragsverarbeitungsvereinbarung.  
+  
+Sie können der Verarbeitung Ihrer personenbezogenen Daten jederzeit widersprechen:  
+  
+[](#)  
+  
+Der Widerspruch hat keine nachteiligen Folgen für Sie. Im Falle eines Widerspruchs wird ein technisch erforderlicher Cookie i.S.v. § 25 Abs. 2 Nr. 2 TDDDG gesetzt.  
+  
+Weitere Informationen zum Datenschutz bei etracker finden Sie hier: [**https://www.etracker.com/datenschutz/**](https://www.etracker.com/datenschutz/)
 
 * [SONDERANGEBOTE](https://www.medikamente-per-klick.de/sonderangebote)
 * [AKTIONSARTIKEL](https://www.medikamente-per-klick.de/aktionsartikel)
@@ -271,9 +286,9 @@ Meist verkaufte Produkte
     
      1
     
-* [Voltaren Schmerzgel forte 23,2 mg/g - Gel mit Diclofenac](https://www.medikamente-per-klick.de/voltaren-schmerzgel-forte-23-2-mg-g-180g-11240397)
+* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
-    21,33 €\*
+    6,16 €\*
     
      1
     
@@ -300,25 +315,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Ladival allergische Haut Sonnenschutzgel LSF30 200ml](https://www.medikamente-per-klick.de/product?artnr=03373492&simpleContentAttachmentId=14183&wochenklick)  
-\*\*\*inkl. 2EUR Aktionsrabatt - Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/03373492_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=03373492&simpleContentAttachmentId=14183&wochenklick)
+[GAVISCON Dual Suspension mit Zweifachwirkung gegen Sodbrennen (48x10 ml)](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)  
+\*\*\*Sonderpreis\*\*\*  
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/16511079_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)
 
-UVP2:
+VK1:
 
-24,30 €\*
+44,98 €\*
 
 Ihr Preis:
 
-12,45 €\*
+29,28 €\*
 
 Sie sparen:
 
-11,85 € \-49%
+15,70 € \-35%
 
-2024-06-24 09:00:00
+2024-07-18 10:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=03373492&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=16511079&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -360,7 +375,7 @@ Auszeichnung von n-tv & DISQ
 
 Service & Info
 
-* [![Magnesium Verla](/images/generic_attachments/attachments/medikamenteperklick/Verla-190x60.jpg "Magnesium Verla")](https://www.medikamente-per-klick.de/themenshops/mineralstoffe-vitamine/magnesium-verla)
+* [![Sebamed](/images/generic_attachments/attachments/medikamenteperklick/Sebamed_Medi_per_Klick_Duschen_190x60_70012340_19_L01.jpg "Sebamed")](https://www.medikamente-per-klick.de/search/sebamed%20dusche)
 * [![Doppelherz Kollagen Beauty](/images/generic_attachments/attachments/medikamenteperklick/Kollagen_190x60_Headline.jpg "Doppelherz Kollagen Beauty")](https://www.medikamente-per-klick.de/product?artnr=13332904)
 * [![zum Partnershop - Saniklick](/images/generic_attachments/attachments/medikamenteperklick/sani2.jpg "zum Partnershop - Saniklick")](https://www.saniklick.de/)
 
@@ -609,4 +624,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=zrwnlfujahnnuszgdixodvccemthsvhn&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=hiyeamolayizfqojlcdsqnhatuxpyypq&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
