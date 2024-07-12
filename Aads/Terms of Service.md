@@ -7,7 +7,7 @@ Create
 * [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/campaigns/new/)
     
     [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
@@ -83,7 +83,7 @@ Learn about
     [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/campaigns/new/)
 * [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content Publication order  
@@ -211,7 +211,7 @@ Room 1404, 14/F, Blissful Building
 
 Sheung Wan, Hong Kong
 
-AADS crypto ad network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high-quality crypto ads to amplify your campaign's impact
+AADS Crypto Ad Network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high quality crypto ads to increase the impact of your campaign. If you're looking to buy crypto traffic or attract visitors interested in cryptocurrencies, our service is ideal for you. Join our crypto advertising platform and discover the exceptional service we offer!
 
 Advertising
 
