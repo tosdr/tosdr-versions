@@ -25,7 +25,7 @@
 Privacy Policy
 ==============
 
-Last Update: 05/09/2024
+Last Update: 07/09/2024
 
 This privacy policy discloses the privacy practices of iPromote.
 
@@ -74,7 +74,7 @@ iPromote may also collect information we receive directly from you. If you conta
 
 #### D. Type of Information: Information We Receive From Third Parties Service Providers
 
-Such information generally consist of contact information and other information the customer voluntarily provides. iPromote does not retain sensitive Personal Information.
+Such information generally consist of contact information and other information the customer voluntarily provides. iPromote does not retain sensitive Personal Information other than financial information you provide us to use our services, which will require you to enter the information to iPromote’s secured process. This will require you to opt-in to provide this information.
 
 iPromote may obtain Personal Information from third parties service providers such as landing page, call tracking, and call recording providers.
 
@@ -100,7 +100,7 @@ iPromote will not share any personal information collected from you with third p
 
 * iPromote's Clients: iPromote may share your information when it operates as a service provider and enters into a contract with its clients. iPromote’s contract provides that such data may only be processed for limited and specified purposes consistent with the consent provided by the individual and that the recipient will provide the same level of protection under the DPF Obligations and applicable data privacy rules, and will notify the client if it a determination is made that it can no longer meet this obligation. The contract shall provide that when such a determination is made, the client ceases processing or takes other reasonable and appropriate steps to remediate. iPromote may remain liable when transferring personal data to third parties. iPromote may also provide your information as part of an analytics report it provides to its clients;
 * Legal Requirement: iPromote will share your information if it is required to do so in order to comply with the DPF Obligations and any applicable law, regulation, legal process or governmental request (e.g., to comply with a court order, comply with tax authorities, pursuant to law enforcement inquiries, etc.);
-* Third Party Service Providers: iPromote may disclose your information to trusted service providers in order to perform requested services on iPromote's behalf. For example, third party cloud and storage services, to store and retain your data. iPromote may transfer you to a third party's service provider site or platform in order to process required information required to perform iPromote's services, such as for billing purposes;
+* Third Party Service Providers: iPromote may disclose your information to trusted service providers in order to perform. For example, third party cloud and storage services, to store and retain your data. iPromote may transfer you to a third party's service provider site or platform in order to process required information required to perform iPromote's services, such as for billing purposes;
 * iPromote's Rights: iPromote may share your information, as required, in order to exercise its rights or enforce its policies and agreements and to investigate any potential violations, as well as to defend against legal claims;
 * Third Party Rights: iPromote may share your information, as required, in order to prevent harm to the rights of its users, business partners and any third party's rights, property or safety;
 * Business Transfers: iPromote may share personal information in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, the affiliated companies or acquiring company will assume the rights and obligations as described in this Privacy Policy;
@@ -126,11 +126,8 @@ The following table describes the categories of Cookies we use and why we use th
 | Type of Cookie | What these Cookies do | Cookie Names and Source | Purpose |
 | --- | --- | --- | --- |
 | Essential Cookies | These cookies are necessary to provide you some of the features and services on our websites. Without these cookies, certain features could not function. These cookies do not store any personally identifiable information. | Marketing (marketing) | Cookie that is set by the privacy/cookie pop-up banner on www.ipromote.com and is used to hide the banner |
-| Session ID (sid) | Cookie that establishes a session between a user and the iPromote website for tracking and authentication (sign-on) purposes |
-| Sbsessionid sb\_localip | Anonymous storage of preferences and visitor session values including:<br><br>* Language/translation choice for content<br>* Understand your user location (if prompt accepted by you)<br>* Recognize you when you return to our site<br>* Grant you access to the restricted sections on the site |
 | Analytics Cookies | These cookies are used by iPromote and third parties to collect information on how you use our websites and services. | Conversion (ctc) | Cookie that helps register a conversion |
 | Frequency (frq) | Cookie that contains a numeric ad ID and a counter value that keeps track of how many times a browser renders an ad from iPromote within a given time window |
-| mp\_<session\_id>\_ | Provides iPromote and third-parties with information on how visitors use the website.<br><br>You may read more about how Mixpanel uses your Personal Information here:<br><br>* [Mixpanel privacy policy](https://mixpanel.com/legal/privacy-policy/)<br><br>You can opt-out of Mixpanel Analytics here:<br><br>* [Opt-out Mixpanel Analytics](https://help.mixpanel.com/hc/en-us/articles/360000679006-Managing-Personal-Information#optout-users) |
 | Advertising Cookies | These cookies are deployed by iPromote or third parties in order to deliver advertisements to you based on your personalized interests. | Campaign (crt) | Cookie that helps retarget based on a specific iPromote campaign ID |
 | Category (cat2) | Cookie that helps retarget based on a specific iPromote campaign ID |
 | EDAA (edaa) | Cookie that is placed if a user clicks an AdChoices link to inquire about opting-out of ad viewing |
@@ -212,13 +209,13 @@ PE1 9XX
 United Kingdom  
 art-27-rep-2kdirect@rickert-services.uk
 
-#### Data Privacy Shield Framework
+#### Data Privacy Framework Principles
 
 iPromote complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. iPromote has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. iPromote has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. iPromote also receives some data in reliance on other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-iPromote is committed to subject all personal data received from the EU UK and Switzerland to the principles of the Framework, including: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+iPromote is committed to subject all personal data received from the EU, UK and Switzerland to the principles of the Framework Principles, including: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
 
-As required by the Privacy Shield Framework:
+As required by the Privacy Framework Principles:
 
 * The Federal Trade Commission has jurisdiction over iPromote’s compliance with the DPF Obligation;
 * Under certain conditions, individuals may invoke binding arbitration;
@@ -233,7 +230,7 @@ iPromote also adheres to the IAB Europe OBA Framework and is committed to follow
 
 #### Commitment to Subject to the Principles
 
-iPromote has further committed to refer unresolved EU Privacy complaints to the European Data Protection Authorities as an alternative dispute resolution provider. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en) for more information or to file a complaint. The services of the European Data Protection Authorities are provided at no cost to you. If the European Data Protection Authorities finds us to be in violation of any privacy principle, we will correct the situation and stop processing the data of the user bringing the complaint. The Data Protection Authorities can address both HR and NON-HR data concerns.
+iPromote has further committed to refer unresolved EU Privacy complaints to the European Data Protection Authorities as an alternative dispute resolution provider. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [https://edpb.europa.eu/about-edpb/about-edpb/members\_en;](https://edpb.europa.eu/about-edpb/about-edpb/members_en) [https://www.edoeb.admin.ch/edoeb/en/home/datenschutz/datenschutz-services.html;](https://www.edoeb.admin.ch/edoeb/en/home/datenschutz/datenschutz-services.html) and [https://ico.org.uk/for-the-public/](https://ico.org.uk/for-the-public/) for more information or to file a complaint. The services of the European Data Protection Authorities are provided at no cost to you. If the European Data Protection Authorities finds us to be in violation of any privacy principle, we will correct the situation and stop processing the data of the user bringing the complaint. The Data Protection Authorities can address both HR and NON-HR data concerns.
 
 #### Recourse, Enforcement and Liability
 
