@@ -2,12 +2,13 @@
 
   [![Lumma Cups](//mylumma.com/cdn/shop/files/lumma-branco.svg?v=17083912383540878057) ![Lumma Cups](//mylumma.com/cdn/shop/files/lumma-branco.svg?v=17083912383540878057) ![Lumma Cups](//mylumma.com/cdn/shop/files/lumma-branco.svg?v=17083912383540878057)](https://mylumma.com/)
 
-* [Shop](https://mylumma.com/products/menstrual-disc)
+* [Shop](https://mylumma.com/collections/main-products)
     
 * [About](https://mylumma.com/pages/about-lumma)
     
 * [How to Use](https://mylumma.com/pages/how-to-use)
 * [Find your Size](https://mylumma.com/pages/find-your-size)
+* [Blog](https://mylumma.com/blogs/insider)
 
 [](https://mylumma.com/search)
 
@@ -107,7 +108,8 @@ USA
 
   
 
-[contact@lummacups.com](mailto:contact@lummacups.com)
+[contact@lummacups.com](mailto:contact@lummacups.com)  
+![](https://cdn.shopify.com/s/files/1/0859/6206/4186/files/whatsapp-icon.svg?v=1720551361) [+55 11 94148 1987](https://wa.me/5511941481987)
 
 ### Info
 
@@ -131,7 +133,7 @@ Thanks for subscribing
 
 ![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20124%2033%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2077%2037%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-![master](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![visa](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![american express](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![diners club](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![discover](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![bancontact](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![ideal](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![paypal](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![apple pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![google pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![metapay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![amazon](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![shopify pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)
+![master](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![visa](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![american express](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![diners club](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![discover](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![paypal](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)
 
 Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
 
@@ -142,6 +144,12 @@ Not enough items available. Only \[max\] left.
  
 
 Shopping cart
+
+Surprise Gift! Just add a menstrual disc to discover
+
+Surprise Gift! Just add a menstrual disc to discover
+
+Great! You just won 1 Puzzy by Anitta - Intimate Perfume!
 
 Your cart is empty.
 
