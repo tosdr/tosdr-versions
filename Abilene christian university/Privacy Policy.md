@@ -176,7 +176,7 @@ This privacy policy only applies to information collected on acu.edu affiliated 
 
 ### Online Advertising
 
-ACU uses Online Advertising Features including Google, Bing, and Yahoo advertising and cookie tracking implemented on [acu.edu](https://www.acu.edu/), [gradapply.acu.edu/apply](https://gradapply.acu.edu/apply), and [apply.acu.edu/apply](http://apply.acu.edu/apply). ACU also uses some or all of the following Facebook, LinkedIn, YouTube and Twitter cookie tracking, web beacons or similar technologies to collect or receive visitor information. These features allow ACU to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes and track rich media assisted conversions. If you wish to opt out of these online advertising features, follow the instructions on the corresponding pages:
+ACU uses Online Advertising Features including Google, Bing, and Yahoo advertising and cookie tracking implemented on [acu.edu](https://www.acu.edu/), [onlinedegrees.acu.edu](http://onlinedegrees.acu.edu/), [apply.acu.edu/apply](http://apply.acu.edu/apply), and [gradapply.acu.edu/apply](https://gradapply.acu.edu/apply). ACU also uses some or all of the following Facebook, LinkedIn, YouTube and Twitter cookie tracking, web beacons or similar technologies to collect or receive visitor information. These features allow ACU to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes and track rich media assisted conversions. If you wish to opt out of these online advertising features, follow the instructions on the corresponding pages:
 
 Google: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
@@ -192,7 +192,7 @@ Twitter: [https://support.twitter.com/articles/20170405](https://support.twitte
 
 ### SMS Text
 
-By completing a Request Information Form on acu.edu or grad.acu.edu for online graduate programs, you opt in to text communication and consent to receive mobile text from our Enrollment Admissions team. Consent to receive text messages is not required as a condition of purchasing any goods or services.
+By completing a Request Information Form on [acu.edu](http://acu.edu/) or [onlinedegrees.acu.edu](http://onlinedegrees.acu.edu/) for online degree programs, you opt in to text communication and consent to receive mobile text from our Enrollment Admissions team. Consent to receive text messages is not required as a condition of purchasing any goods or services. No mobile information will be shared with third parties/affiliates for marketing/promotional purposes.
 
 ### STOP Information
 
