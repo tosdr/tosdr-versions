@@ -176,7 +176,8 @@ There's just one more thing we want you to know — your access to and use of th
 
 ##### Contacting ClickMagick
 
-If you have any questions about this Privacy Policy or the privacy-related practices of this website please contact us via one of the methods above.
+If you have any questions about this Privacy Policy or the privacy-related practices of this website please contact us via one of the methods above.  
+  
 
 This Privacy Policy was last updated July 15, 2022.
 
