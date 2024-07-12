@@ -14,7 +14,7 @@ Terms of Service
 
 Print
 
-Created on 1 March, 2023 | 495 views | 6 minutes read
+Created on 1 March, 2023 | 516 views | 6 minutes read
 
 The terms of service establish the rules for accessing and using the LogicDir, including any content functionality and services offered by Site, whether as a guest or registered user.
 
