@@ -2,7 +2,7 @@
 
 [Skip to content](#content)
 
-[**Important Notice to Our Valued Patients**](https://adhdonline.com/articles/important-notice-to-our-valued-patients/) | Considering Switching Your Provider? [**Learn More**](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)
+**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
 ✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
 
@@ -256,21 +256,3 @@ In this form, your practitioner will request that ADHD Online continue to provid
 #### **Return** **the form to us**
 
 You or your practitioner can return this form to us [\[email protected\]](https://adhdonline.com/cdn-cgi/l/email-protection)or fax it to 616-210-3118
-
- ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
-
-**Looking to take our Assessment?**  
-It's available every day, anytime, and anywhere convenient for you!
----------------------------------------------------------------------------------------------------------
-
-[Start my Assessment](https://patients.adhdonline.com/signup?_gl=1*9n9406*_gcl_au*MTcxNjgzNTkzMi4xNjg2ODU3MzU2&_ga=2.139146611.1991447896.1687188572-481719545.1686857356)
-
-Looking to schedule your next appointment?
-
-Our portal is always open to schedule your next appointment. However, in-person phone support and live chats will be unavailable on Thursday, July 4, and Friday, July 5. Please [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message, and we will prioritize them upon our return.
-
-We genuinely appreciate your understanding. Full-office operations will resume on Monday, July 8.
-
-Already on our Treatment Path?
-
-Each clinician sets their own holiday hours, so please check with them for their availability.
