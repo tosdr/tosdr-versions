@@ -408,6 +408,7 @@ Company
 * [Politique de Confidentialité de nos Produits et Services](https://liveramp.fr/politique-de-confidentialite-de-nos-produits-et-services-2/)
 * [Politique de confidentialité Marketing](https://liveramp.fr/politique-confidentialite-produits-services/politique-confidentialite-marketing-site-internet/)
 * [Vos données personnelles, vos droits](https://liveramp.fr/vos-donnees-personnelles-vos-droits/)
+* [Paramètres de Confidentialité](https://liveramp.fr/parametres-de-confidentialite/)
 * [Sitemap](https://liveramp.fr/sitemap/)
 
 * [LinkedIn](https://www.linkedin.com/company/liveramp/)
