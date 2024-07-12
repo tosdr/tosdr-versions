@@ -715,37 +715,37 @@ Powered By
 
 ### Other top stories on FutureLearn
 
-* [![Engineer at work.](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-51-150x150.png)](https://www.futurelearn.com/info/blog/engineering-degree-guide)
+* [![Computer scientist at work.](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-68-150x150.png)](https://www.futurelearn.com/info/blog/why-study-computer-science)
     
-    [A complete guide to engineering degrees](https://www.futurelearn.com/info/blog/engineering-degree-guide)
-    ---------------------------------------------------------------------------------------------------------
+    [Why study computer science?](https://www.futurelearn.com/info/blog/why-study-computer-science) 
+    ------------------------------------------------------------------------------------------------
     
-    Find out everything you need to know about getting an engineering degree and what you …
+    Find out how an online computer science degree could propel you into a highly paid …
     
-* [![Cyber security analyst working](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-50-150x150.png)](https://www.futurelearn.com/info/blog/cyber-security-degree-guide)
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [IT & Computer Science](https://www.futurelearn.com/info/it-computer-science)
     
-    [A complete guide to cyber security degrees](https://www.futurelearn.com/info/blog/cyber-security-degree-guide)
+* [![Two doctors at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-67-150x150.png)](https://www.futurelearn.com/info/blog/public-health-degree-jobs)
+    
+    [What can you do with a public health degree?](https://www.futurelearn.com/info/blog/public-health-degree-jobs)
     ---------------------------------------------------------------------------------------------------------------
     
-    Interested in shaping our digital future? Discover more about cybersecurity degrees in this guide – …
+    Discover everything you need to know about online public health degrees and the career opportunities …
     
-    Category: [Digital Skills](https://www.futurelearn.com/info/blog/digitalskills)
+    Category: [Healthcare & Medicine](https://www.futurelearn.com/info/healthcare-medicine)
     
-* [![Psychologist at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-53-150x150.png)](https://www.futurelearn.com/info/blog/psychology-degree-guide)
+* [![Two nurses at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-66-150x150.png)](https://www.futurelearn.com/info/blog/how-hard-is-a-nursing-degree)
     
-    [A complete guide to psychology degrees](https://www.futurelearn.com/info/blog/psychology-degree-guide)
-    -------------------------------------------------------------------------------------------------------
+    [How hard is a nursing degree? Tips and what to expect](https://www.futurelearn.com/info/blog/how-hard-is-a-nursing-degree)
+    ---------------------------------------------------------------------------------------------------------------------------
     
-    Here, we unravel what a psychology degree entails, how to get a place on one, …
+    Interested in a nursing degree but not sure how difficult it will be? Find out …
     
-    Category: [Psychology & Mental Health](https://www.futurelearn.com/info/psychology-mental-health)
+* [![Office worker with manager](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-65-150x150.png)](https://www.futurelearn.com/info/blog/leadership-masters-degree-guide)
     
-* [![Student in library](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-52-150x150.png)](https://www.futurelearn.com/info/blog/humanities-degree-guide)
+    [Leadership master’s degrees – a complete guide](https://www.futurelearn.com/info/blog/leadership-masters-degree-guide)
+    -----------------------------------------------------------------------------------------------------------------------
     
-    [A complete guide to humanities degrees](https://www.futurelearn.com/info/blog/humanities-degree-guide)
-    -------------------------------------------------------------------------------------------------------
-    
-    Wondering whether a humanities degree is right for you? Explore your subject options, how to …
+    Discover what a leadership master's degree entails and what you can do with one in …
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
