@@ -25,7 +25,7 @@ Close
 
 * [Store](https://arstechnica.com/store/)
 * [Subscribe](https://arstechnica.com/store/product/subscriptions/)
-* [Videos](http://video.arstechnica.com/)
+* [Videos](http://arstechnica.com/video/)
 * [Features](https://arstechnica.com/features/)
 * [Reviews](https://arstechnica.com/reviews/)
 
@@ -94,7 +94,7 @@ Join the Ars Orbital Transmission mailing list to get weekly updates delivered t
 
 CNMN Collection  
 WIRED Media Group  
-© 2024 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.condenast.com/user-agreement/) (updated 1/1/20) and [Privacy Policy and Cookie Statement](https://www.condenast.com/privacy-policy/) (updated 1/1/20) and [Ars Technica Addendum](https://arstechnica.com/amendment-to-conde-nast-user-agreement-privacy-policy/) (effective 8/21/2018). Ars may earn compensation on sales from links on this site. [Read our affiliate link policy](https://arstechnica.com/affiliate-link-policy/).  
+© 2024 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.condenast.com/user-agreement/) (updated 1/1/20) and [Privacy Policy](https://www.condenast.com/privacy-policy/) and [Ars Technica Addendum](https://arstechnica.com/amendment-to-conde-nast-user-agreement-privacy-policy/). Ars may earn compensation on sales from links on this site. [Read our affiliate link policy](https://arstechnica.com/affiliate-link-policy/).  
 [Your California Privacy Rights](https://www.condenast.com/privacy-policy/#california) | ![](https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/privacyoptions123x59-c5c9972158.png) Do Not Sell My Personal Information  
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.  
 [Ad Choices](https://www.aboutads.info/)
