@@ -1,6 +1,8 @@
 You need to enable JavaScript to run this app.
 
-[](https://www.lotuscars.com/login?redirect_url=%2Fmy-lotus)
+<iframe :src="\`https://www.googletagmanager.com/ns.html?id=${gtmUid?.value}\`" height="0" width="0" style="display:none;visibility:hidden" />
+
+[My Lotus](https://www.lotuscars.com/login?redirect_url=%2Fmy-lotus)
 
 MODELS
 
@@ -33,6 +35,10 @@ MODELS
 LOCATION:
 
 United States
+
+SYSTEM UPGRADE  
+AND MAINTENANCE  
+IN PROGRESS
 
 **STAY IN**
 
@@ -71,5 +77,3 @@ SERVICES
 [Privacy notice](https://www.lotuscars.com/en-US/privacy)[Terms and conditions](https://www.lotuscars.com/en-US/terms-conditions)
 
 United States
-
-\* These figures are target figures. The target figures are based upon simulated results for the WLTP test procedure. These figures may not reflect real life driving results, which will depend upon a number of factors including the options fitted, variations in weather, driving styles and vehicle load.
