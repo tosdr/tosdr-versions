@@ -4,7 +4,7 @@ Terms of Use
 PLEASE READ THESE TERMS OF USE BEFORE USING THE WEBSITE AND EXTENSION.
 ----------------------------------------------------------------------
 
-Acceptance of the Terms of Use These terms of use are entered into by and between you and the Custom Cursor ("Service", “Blife Team”, “we" or "us"). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "Terms of Use"), govern your access to and use of website custom-cursor.com and its browser extension, including any content, functionality and services offered on or through our service (together, the "Service").
+Acceptance of the Terms of Use These terms of use are entered into by and between you and the Custom Cursor ("Service", “BLife Team”, “we" or "us"). The following terms and conditions, together with any documents they expressly incorporate by reference (collectively, these "Terms of Use"), govern your access to and use of website custom-cursor.com and its browser extension, including any content, functionality and services offered on or through our service (together, the "Service").
 
 Please read the Terms of Use carefully before you start to use the Service. By using the website or extension you accept and agree to be bound and abide by these Terms of Use. If you do not to agree to these Terms of Use or the Privacy Policy, you must not access or use the Website and Extension.
 
