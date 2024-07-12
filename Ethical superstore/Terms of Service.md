@@ -263,8 +263,8 @@ Customer Services Helpline
             * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
-            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
             * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
+            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
         
         * [Dental Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/)
             * [Toothbrushes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/toothbrushes/)
@@ -362,7 +362,7 @@ Customer Services Helpline
 
 **Subtotal** (excluding delivery): **£ 0.00**
 
-Delivery options from £0.99
+Delivery options from £4.95
 
  
 
@@ -401,8 +401,8 @@ You are here:
 
 You haven't viewed any products yet
 
-* [99p Standard Delivery\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
-* [33% Off Faith In Nature\*](https://www.ethicalsuperstore.com/products/faith-in-nature/)
+* [Special Offers](https://www.ethicalsuperstore.com/special-offers/)
+* [FREE Delivery on orders over £50\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
 * [30 day no-quibble returns policy](https://www.ethicalsuperstore.com/help-returns-and-refunds/)
 
 Ethical Superstore Policies and Conditions of Use
