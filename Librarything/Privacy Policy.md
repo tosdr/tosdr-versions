@@ -51,10 +51,6 @@
 * [Turkish](http://tr.librarything.com/)
 * [Welsh](http://cym.librarything.com/)
 
-![](https://image.librarything.com/pics/hunt/hunt_clue_2024_06_16.png) [Come join our latest LibraryThing Hunt!](https://www.librarything.com/hunt/32)
-
-Dismiss
-
 Privacy and TOS
 
 [About LibraryThing](https://www.librarything.com/about)[Privacy and TOS](https://www.librarything.com/privacy)[Press Information](https://www.librarything.com/press)[Who We Are](https://www.librarything.com/whoweare.php)[Contact Us](https://www.librarything.com/contact)
@@ -627,7 +623,3 @@ Want
 [Blog](https://blog.librarything.com/)[WikiThing](https://wiki.librarything.com/)[Common Knowledge](https://www.librarything.com/commonknowledge/)[Early Reviewers](https://www.librarything.com/ner)[Legacy Libraries](https://www.librarything.com/legacylibraries)[Local](https://www.librarything.com/local)[TinyCat](https://www.librarycat.org/)
 
 [Verdana Standard](# "verdant_14")[Verdana Small](# "verdant_12")[The Lorax](# "verdant_tight_12")[System Standard](# "system_14")[System Large](# "system_15")[Georgia](# "georgia_14")[Large Text](# "system_large")[Atkinson](# "atkinson_16")
-
-I Agree
-
-This site uses cookies to deliver our services, improve performance, for analytics, and (if not signed in) for advertising. By using LibraryThing you acknowledge that you have read and understand our [Terms of Service and Privacy Policy](https://www.librarything.com/privacy). Your use of the site and services is subject to these policies and terms.
