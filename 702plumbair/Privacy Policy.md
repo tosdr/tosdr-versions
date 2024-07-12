@@ -98,7 +98,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
 * [](https://www.instagram.com/702.plumber?igshid=ss76hcznbt8x "Instagram")
 * [](https://www.bbb.org/us/nv/henderson/profile/plumber/702-plumber-llc-1086-90065495 "BBB.org")
 
-[Contact Us](https://www.702plumbair.com/contact-us/)
+[Schedule Now!](https://www.702plumbair.com/scheduler/)
 
 [Top](#SiteTop "Back To Top")
 
