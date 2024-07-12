@@ -18,37 +18,37 @@ Welcome to Tropical Sun Ltd.’s privacy policy.
 
 Tropical Sun respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our websites (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please also use the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy/#glo) to understand the meaning of some of the terms used in this privacy policy.
+This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please also use the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy#glo) to understand the meaning of some of the terms used in this privacy policy.
 
-1. [Important Information and Who We Are](https://www.clips4sale.com/clips/page/privacypolicy/#importantinfo)
+1. [Important Information and Who We Are](https://www.clips4sale.com/clips/page/privacypolicy#importantinfo)
     
-2. [The Data We Collect About You](https://www.clips4sale.com/clips/page/privacypolicy/#datac)
+2. [The Data We Collect About You](https://www.clips4sale.com/clips/page/privacypolicy#datac)
     
-3. [How Is Your Personal Data Collected](https://www.clips4sale.com/clips/page/privacypolicy/#hpd)
+3. [How Is Your Personal Data Collected](https://www.clips4sale.com/clips/page/privacypolicy#hpd)
     
-4. [How We Use Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy/#hup)
+4. [How We Use Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy#hup)
     
-5. [Disclosures of Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy/#dpd)
+5. [Disclosures of Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy#dpd)
     
-6. [International Transfers](https://www.clips4sale.com/clips/page/privacypolicy/#it)
+6. [International Transfers](https://www.clips4sale.com/clips/page/privacypolicy#it)
     
-7. [Data Security](https://www.clips4sale.com/clips/page/privacypolicy/#ds)
+7. [Data Security](https://www.clips4sale.com/clips/page/privacypolicy#ds)
     
-8. [Data Retention](https://www.clips4sale.com/clips/page/privacypolicy/#dr)
+8. [Data Retention](https://www.clips4sale.com/clips/page/privacypolicy#dr)
     
-9. [Accessing and Correcting Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy/#acp)
+9. [Accessing and Correcting Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy#acp)
     
-10. [Withdrawing Your Consent](https://www.clips4sale.com/clips/page/privacypolicy/#wc)
+10. [Withdrawing Your Consent](https://www.clips4sale.com/clips/page/privacypolicy#wc)
     
-11. [Do Not Track Policy](https://www.clips4sale.com/clips/page/privacypolicy/#dtp)
+11. [Do Not Track Policy](https://www.clips4sale.com/clips/page/privacypolicy#dtp)
     
-12. [US State Privacy Rights](https://www.clips4sale.com/clips/page/privacypolicy/#usp)
+12. [US State Privacy Rights](https://www.clips4sale.com/clips/page/privacypolicy#usp)
     
-13. [Your Canadian Privacy Rights](https://www.clips4sale.com/clips/page/privacypolicy/#ycp)
+13. [Your Canadian Privacy Rights](https://www.clips4sale.com/clips/page/privacypolicy#ycp)
     
-14. [Your EEA/UK Legal Rights](https://www.clips4sale.com/clips/page/privacypolicy/#yel)
+14. [Your EEA/UK Legal Rights](https://www.clips4sale.com/clips/page/privacypolicy#yel)
     
-15. [Glossary](https://www.clips4sale.com/clips/page/privacypolicy/#glo)
+15. [Glossary](https://www.clips4sale.com/clips/page/privacypolicy#glo)
     
 
 1\. Important Information and Who We Are
@@ -66,7 +66,7 @@ Controller
 
 Tropical Sun Ltd. is the controller and responsible for your personal data (collectively referred to as “Tropical Sun,” “we,” “us,” or “our” in this privacy policy).
 
-We have appointed a data protection officer (DPO) who is responsible for overseeing questions regarding this privacy policy. If you have any questions about this privacy policy, including any requests to exercise [Your EEA/UK Legal Rights](https://www.clips4sale.com/clips/page/privacypolicy/#yel) , please contact the DPO using the details set out below.
+We have appointed a data protection officer (DPO) who is responsible for overseeing questions regarding this privacy policy. If you have any questions about this privacy policy, including any requests to exercise [Your EEA/UK Legal Rights](https://www.clips4sale.com/clips/page/privacypolicy#yel) , please contact the DPO using the details set out below.
 
 Contact Details
 
@@ -183,7 +183,7 @@ We will only use your personal data when the law allows us to. Most commonly, we
 * Where we need to comply with a legal obligation.
     
 
-Visit the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy/#glo) to find out more about the types of lawful basis that we will rely on to process your personal data.
+Visit the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy#glo) to find out more about the types of lawful basis that we will rely on to process your personal data.
 
 Generally, we do not rely on consent as a legal basis for processing your personal data although we will get your consent before collecting Special Categories of Personal Data or sending third-party direct marketing communications to you by email or text message. You may withdraw consent to processing Special Categories of Personal Data or marketing at any time by contacting us.
 
@@ -227,7 +227,7 @@ Third-Party Marketing and Tracking
 
 We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
 
-Where you have provided us your consent, we may use technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). See our [Do Not Track Policy](https://www.clips4sale.com/clips/page/privacypolicy/#dtp) for information on how you can withdraw your consent to behavioral tracking on our websites and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
+Where you have provided us your consent, we may use technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). See our [Do Not Track Policy](https://www.clips4sale.com/clips/page/privacypolicy#dtp) for information on how you can withdraw your consent to behavioral tracking on our websites and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
 
 Where you withdraw your consent for receiving these marketing messages, this will not affect the lawfulness of the processing before your withdrawal.
 
@@ -252,11 +252,11 @@ Please note that we may process your personal data without your knowledge or con
 5\. Disclosures of Your Personal Data
 -------------------------------------
 
-We may share your personal data with the parties set out below for the purposes set out in the table ( [Purposes for Which We Will Use Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy/#pwd) ) above.
+We may share your personal data with the parties set out below for the purposes set out in the table ( [Purposes for Which We Will Use Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy#pwd) ) above.
 
-* Internal Third Parties as set out in the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy/#glo) .
+* Internal Third Parties as set out in the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy#glo) .
     
-* External Third Parties as set out in the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy/#glo) .
+* External Third Parties as set out in the [Glossary](https://www.clips4sale.com/clips/page/privacypolicy#glo) .
     
 * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
     
@@ -299,7 +299,7 @@ By law we have to keep basic information about our studios and customers (includ
 
 Details of retention periods for any other aspects of your personal data are available on request by contacting us.
 
-In some circumstances you can ask us to delete your data: see [Accessing and Correcting Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy/#acp) and [Your EEA/UK Legal Rights](https://www.clips4sale.com/clips/page/privacypolicy/#yel) below for further information.
+In some circumstances you can ask us to delete your data: see [Accessing and Correcting Your Personal Data](https://www.clips4sale.com/clips/page/privacypolicy#acp) and [Your EEA/UK Legal Rights](https://www.clips4sale.com/clips/page/privacypolicy#yel) below for further information.
 
 In some circumstances we will anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
 
@@ -371,19 +371,19 @@ If you need to contact us about your personal data or believe that we have viola
 
 If you live in the EEA or UK, under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
 
-* [Request access to your personal data](https://www.clips4sale.com/clips/page/privacypolicy/#rap) .
+* [Request access to your personal data](https://www.clips4sale.com/clips/page/privacypolicy#rap) .
     
-* [Request correction of your personal data](https://www.clips4sale.com/clips/page/privacypolicy/#rcp) .
+* [Request correction of your personal data](https://www.clips4sale.com/clips/page/privacypolicy#rcp) .
     
-* [Request erasure of your personal data](https://www.clips4sale.com/clips/page/privacypolicy/#rep) .
+* [Request erasure of your personal data](https://www.clips4sale.com/clips/page/privacypolicy#rep) .
     
-* [Object to processing of your personal data](https://www.clips4sale.com/clips/page/privacypolicy/#oppd) .
+* [Object to processing of your personal data](https://www.clips4sale.com/clips/page/privacypolicy#oppd) .
     
-* [Request restriction of processing your personal data](https://www.clips4sale.com/clips/page/privacypolicy/#rspd) .
+* [Request restriction of processing your personal data](https://www.clips4sale.com/clips/page/privacypolicy#rspd) .
     
-* [Request transfer of your personal data](https://www.clips4sale.com/clips/page/privacypolicy/#rtpd) .
+* [Request transfer of your personal data](https://www.clips4sale.com/clips/page/privacypolicy#rtpd) .
     
-* [Right to withdraw consent](https://www.clips4sale.com/clips/page/privacypolicy/#rwcpd) .
+* [Right to withdraw consent](https://www.clips4sale.com/clips/page/privacypolicy#rwcpd) .
     
 
 If you wish to exercise any of the rights set out above, please contact us at [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection).
