@@ -126,7 +126,7 @@ We updated our Privacy Policy to comply with requirements of General Data Protec
 
 ### Security of Your Personal Data
 
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+The security of Your Personal Data is important to Us. [We use physical, technical, and organizational security measures to protect Your data.](https://support.awesomescreenshot.com/hc/en-us/articles/15556118596505-How-do-you-protect-my-personal-or-and-our-workspace-data) While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security. If You worry about the security of Your data very much, You have the option to save recordings and screenshots to Local (Your computer) instead of using any Cloud storage provided by Us or other third parties.
 
 Children's Privacy
 ------------------
@@ -145,16 +145,14 @@ We have no control over and assume no responsibility for the content, privacy po
 Changes to this Privacy Policy
 ------------------------------
 
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page. If We make any material changes, We will send You a link to Our new policy along with a summary of Our updated content via email.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 Contact Us
 ----------
 
-If you have any questions about this Privacy Policy, You can contact us:
-
-By email: [care@awesomescreenshot.com](mailto:care@awesomescreenshot.com)
+If you have any questions about this Privacy Policy, You can [contact us](https://www.awesomescreenshot.com/contact_us).
 
 Get Awesome Screenshot for free
 ===============================
