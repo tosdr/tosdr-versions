@@ -1,15 +1,18 @@
 [Antidote](https://www.antidote.info/en)
 
-* [Applications](#)
+* Applications
+    
 * [Antidote**+**](https://www.antidote.info/en/antidote-plus)
 * [Organizations](https://www.antidote.info/en/organizations)
 
 * [Store](https://www.antidote.info/en/store)
 * [Blog](https://www.antidote.info/en/blog)
 * [Help Centre](https://www.antidote.info/en/help-centre)
-* [EN](#)
+* EN
+    
 
-* [Log In](#)
+* Log In
+    
 
 Conditions of Use for Antidote Applications and Websites
 ========================================================
