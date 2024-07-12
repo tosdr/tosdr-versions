@@ -1,4 +1,4 @@
-       [Skip to content](#MainContent)
+        [Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
