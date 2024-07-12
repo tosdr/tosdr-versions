@@ -111,9 +111,6 @@
 Privacy Policy
 ==============
 
-Table of Contents
------------------
-
 We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/linuxandubuntu.com).
 
 Who we are
@@ -193,7 +190,7 @@ An error occurred, please try again later.
 
 LinuxAndUbuntu
 
-Linux Tutorials, FOSS Reviews, Security News - LinuxAndUbuntu
+LinuxAndUbuntu is a blog dedicated to help new users learn Linux. We regularly post Linux tips, tricks, and hacks to educate you about the best operating system, Linux.
 
 Navigation
 
