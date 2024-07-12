@@ -160,7 +160,7 @@ Depending on your relationship with Calendly, you may exercise your rights and c
         
     * **Clearbit**. You may opt out of Clearbit’s services using their opt-out feature: [https://claim.clearbit.com/claim](https://claim.clearbit.com/claim). For more information on the privacy practices of Clearbit, please visit their privacy policy: [https://clearbit.com/privacy](https://clearbit.com/privacy).
         
-    * **Facebook Pixel**. You may opt out of Facebook Pixel’s services using their opt-out feature: [https://facebook.com/help/568137493302217](https://facebook.com/help/568137493302217). For more information on the privacy practices of Facebook, please visit their Data Policy: [https://facebook.com/about/privacy](https://www.facebook.com/about/privacy)
+    * **Facebook Pixel**. You may opt out of Facebook Pixel’s services using their opt-out feature: [https://facebook.com/help/568137493302217](https://www.facebook.com/help/568137493302217). For more information on the privacy practices of Facebook, please visit their Data Policy: [https://facebook.com/about/privacy](https://www.facebook.com/about/privacy)
         
     * **MNTN.** You may opt out of TV advertising using their opt-out feature: [https://mountain.com/opt-out/](https://mountain.com/opt-out/). For more information on the privacy practices of MNTN, please visit their privacy policy: [https://mountain.com/privacy-policy/](https://mountain.com/privacy-policy/) 
         
@@ -182,7 +182,7 @@ Depending on your relationship with Calendly, you may exercise your rights and c
         
     * The right to withdraw your consent under certain circumstances; and
         
-    * The right to lodge a complaint with the relevant data protection supervisory authority. Where applicable, you can find contact information for your data protection supervisory authority on the European Data Protection Board’s website, [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en), or through other publicly available sources. 
+    * The right to lodge a complaint with the relevant data protection supervisory authority. Where applicable, you can find contact information for your data protection supervisory authority on the European Data Protection Board’s website, [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), or through other publicly available sources. 
         
 
 If you are located in California and access the Website, our use of certain cookies could be considered a “sale” or “share” under the CCPA/CPRA. If you are a California, Virginia, Colorado,Connecticut or Utah resident, you may opt out of use of cookies and other technologies for targeted advertising purposes by navigating to the “Your Privacy Choices” or  “Cookie Settings” link in the footer of the Website or clicking through the option in the banner that appears when you first visit our website to opt out of targeting cookies. In addition to opting out with Calendly, there are other mechanisms generally available by advertising groups for consumers to opt out of interest-based advertising from a large number of advertising providers at once, including but not limited to, using the following links: [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/) and [http://www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that these mechanisms are not managed by Calendly and Calendly is not an advertising provider.
@@ -463,7 +463,7 @@ Discover the latest data on the future of AI-powered scheduling.](https://calend
     
 * [Calendly for Android](https://play.google.com/store/apps/details?id=com.calendly.app&hl=en_US&gl=US&utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=android&utm_term=android)
     
-* [Chrome Extension](https://chrome.google.com/webstore/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
+* [Chrome Extension](https://chromewebstore.google.com/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
     
 * [Firefox Extension](https://addons.mozilla.org//firefox/addon/calendly-meeting-scheduling/?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=firefox&utm_term=firefox)
     
@@ -474,7 +474,7 @@ Discover the latest data on the future of AI-powered scheduling.](https://calend
     
 * [Calendly for Android](https://play.google.com/store/apps/details?id=com.calendly.app&hl=en_US&gl=US&utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=android&utm_term=android)
     
-* [Chrome Extension](https://chrome.google.com/webstore/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
+* [Chrome Extension](https://chromewebstore.google.com/detail/calendly-meeting-scheduli/cbhilkcodigmigfbnphipnnmamjfkipp?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=chrome&utm_term=chrome)
     
 * [Firefox Extension](https://addons.mozilla.org//firefox/addon/calendly-meeting-scheduling/?utm_source=calendly&utm_medium=marketing_site&utm_campaign=footer&utm_content=firefox&utm_term=firefox)
     
