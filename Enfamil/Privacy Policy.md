@@ -55,8 +55,6 @@ Main Menu
         
         [Vitamins & Supplements](https://www.enfamil.com/products/baby-vitamins-and-supplements/)
         
-        [Feeding Accessories](https://www.enfamil.com/products/baby-feeding-accessories/)
-        
         FEATURED
         
         [Enfamil® NeuroPro™ Infant Formula Powder
@@ -126,12 +124,12 @@ Main Menu
         
         FEATURED
         
-        * [![](https://d28v1qz47twks.cloudfront.net/media/cache/4/2/3/1/1/c/42311c8a25f5feb0a812e2423aa50660803aa1ff.webp)
+        * [![Dad bottle feeding newborn](https://d28v1qz47twks.cloudfront.net/media/cache/b/b/b/a/7/a/bbba7af2193f5d7e7c5ff0b9cf55b3fb8019c38d.webp)
             
             Signs of a Hungry Baby From Birth to 6 Months
             
             2 min read](https://www.enfamil.com/articles/signs-of-a-hungry-baby/)
-        * [![](https://d28v1qz47twks.cloudfront.net/media/cache/c/c/2/6/1/f/cc261f6a02074e0ca07150d674f6e306104a0f33.webp)
+        * [![Dad and baby listening together](https://d28v1qz47twks.cloudfront.net/media/cache/f/9/d/5/9/8/f9d5983f934c9b684b5ec1d294458b6ce1b058ab.webp)
             
             Infant Games for Development
             
@@ -662,6 +660,7 @@ Follow us
 * [Facebook](https://www.facebook.com/Enfamil/)
 * [Twitter](https://twitter.com/enfamil)
 * [Created with sketchtool.youtube](https://www.youtube.com/user/enfamil)
+* [TikTok](https://www.tiktok.com/@enfamil)
 
 [![](https://d28v1qz47twks.cloudfront.net/media/cache/f/0/0/c/b/4/f00cb4b37695bb0442ab49326cfd96737b4e7564.webp)Chat with us](https://www.enfamil.com/help-center/#live-chat)
 
@@ -737,6 +736,7 @@ Follow us
 * [Facebook](https://www.facebook.com/Enfamil/)
 * [Twitter](https://twitter.com/enfamil)
 * [Created with sketchtool.youtube](https://www.youtube.com/user/enfamil)
+* [TikTok](https://www.tiktok.com/@enfamil)
 
 ![Reckitt | MeadJohnson Nutrition](https://d28v1qz47twks.cloudfront.net/media/cache/2/9/f/5/1/6/29f5167c7237dc1e2742465d8eab5395dc904ba8.webp)
 
