@@ -6,6 +6,7 @@ Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/
 
 DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
+*  [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-Justice](https://www.bfmtv.com/police-justice/ "Police-Justice")
@@ -13,7 +14,6 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Société](https://www.bfmtv.com/societe/ "Société")
 * [Économie](https://www.bfmtv.com/economie/ "Économie")
 * [Tech](https://www.bfmtv.com/tech/ "Tech")
-* [Auto](https://www.bfmtv.com/auto/ "Auto")
 * [Sport](https://rmcsport.bfmtv.com/ "Sport")
 * [Santé](https://www.bfmtv.com/sante/ "Santé")
 * [People](https://www.bfmtv.com/people/ "People")
@@ -33,6 +33,12 @@ Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
 [![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
+
+À la une
+
+* [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
+
+Parcourir
 
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Émissions](https://www.bfmtv.com/replay-emissions/ "Émissions")
@@ -391,15 +397,15 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Le Rassemblement national, le Front populaire et Ensemble pour la République sont les trois principaux blocs en lice pour obtenir une majorité à l'Assemblée lors des élections législatives des 30 juin et 7 juillet.](https://images.bfmtv.com/OD4XOm26JmYJMcDTxQaE_m9_Dd0=/0x0:1920x1080/300x0/images/RN-NFP-Ensemble-Legislatives-1888204.jpg)
+1. [![Le premier conseil des ministres du gouvernement Attal, le 12 janvier 2024.](https://images.bfmtv.com/9uPRejUc4y6OPsMWw9G1OHZQzRo=/0x212:2048x1364/300x0/images/Le-premier-conseil-des-ministres-du-gouvernement-Attal-le-12-janvier-2024-1901422.jpg)
     
-    ![Le Rassemblement national, le Front populaire et Ensemble pour la République sont les trois principaux blocs en lice pour obtenir une majorité à l'Assemblée lors des élections législatives des 30 juin et 7 juillet.](https://images.bfmtv.com/OD4XOm26JmYJMcDTxQaE_m9_Dd0=/0x0:1920x1080/300x0/images/RN-NFP-Ensemble-Legislatives-1888204.jpg)
+    ![Le premier conseil des ministres du gouvernement Attal, le 12 janvier 2024.](https://images.bfmtv.com/9uPRejUc4y6OPsMWw9G1OHZQzRo=/0x212:2048x1364/300x0/images/Le-premier-conseil-des-ministres-du-gouvernement-Attal-le-12-janvier-2024-1901422.jpg)
     
-    ### Smic à 1.600 euros, baisse de la TVA… Combien coûtent les promesses électorales des trois grands blocs?](https://www.bfmtv.com/economie/economie-social/smic-a-1-600-euros-baisse-de-la-tva-combien-coutent-les-promesses-electorales-des-trois-grands-blocs_AV-202406200791.html "Smic à 1.600 euros, baisse de la TVA… Combien coûtent les promesses électorales des trois grands blocs?")
-2. [### "Va à la niche": indignation à gauche après des images d'une femme subissant le racisme de ses voisins partisans du RN](https://www.bfmtv.com/politique/elections/legislatives/va-a-la-niche-divine-filmee-subissant-le-racisme-de-ses-voisins-partisans-du-rn-la-gauche-s-insurge_AN-202406210050.html ""Va à la niche": indignation à gauche après des images d'une femme subissant le racisme de ses voisins partisans du RN")
-3. [### "Les mêmes symptômes": de nouvelles intoxications dans la Marne où le mystère reste entier](https://www.bfmtv.com/sante/ce-sont-toujours-les-memes-symptomes-de-nouvelles-intoxications-dans-la-marne-le-mystere-reste-entier_AV-202406210243.html ""Les mêmes symptômes": de nouvelles intoxications dans la Marne où le mystère reste entier")
-4. [### "Les touristes, on leur vend plus cher": les dealers marseillais veulent tirer profit des Jeux olympiques](https://www.bfmtv.com/marseille/les-touristes-on-leur-vend-plus-cher-les-dealers-marseillais-veulent-tirer-profit-des-jeux-olympiques_AN-202406210104.html ""Les touristes, on leur vend plus cher": les dealers marseillais veulent tirer profit des Jeux olympiques")
-5. [### Euro 2024: le masque bleu-blanc-rouge de Mbappé ne devrait pas être validé par l'UEFA... mais les Bleus ont d'autres solutions](https://rmcsport.bfmtv.com/football/euro/euro-2024-le-masque-bleu-blanc-rouge-de-mbappe-ne-devrait-pas-etre-valide-par-l-uefa-mais-les-bleus-ont-d-autres-solutions_AV-202406200985.html "Euro 2024: le masque bleu-blanc-rouge de Mbappé ne devrait pas être validé par l'UEFA... mais les Bleus ont d'autres solutions")
+    ### "Il faut que ça s'arrête": ces ministres pressés d'en finir avec le gouvernement actuel](https://www.bfmtv.com/politique/gouvernement/il-faut-que-ca-s-arrete-ces-ministres-presses-d-en-finir-avec-le-gouvernement-actuel_GN-202407100832.html ""Il faut que ça s'arrête": ces ministres pressés d'en finir avec le gouvernement actuel")
+2. [### SONDAGE BFMTV. Seuls 30% des Français favorables à un gouvernement uniquement NFP](https://www.bfmtv.com/politique/elections/legislatives/sondage-bfmtv-seuls-30-des-francais-favorables-a-un-gouvernement-uniquement-nfp_AN-202407100686.html "SONDAGE BFMTV. Seuls 30% des Français favorables à un gouvernement uniquement NFP")
+3. [### Médicaments, produits solaires, tatouages... L'ANSM rappelle les bonnes pratiques pour l'été](https://www.bfmtv.com/sante/medicaments-produits-solaires-tatouages-l-ansm-rappelle-les-bonnes-pratiques-pour-l-ete_AN-202407100837.html "Médicaments, produits solaires, tatouages... L'ANSM rappelle les bonnes pratiques pour l'été")
+4. [### France-Espagne: masque de Mbappé, colère puis abattement de Deschamps, amertume de Griezmann… les coulisses de l’élimination des Bleus](https://rmcsport.bfmtv.com/football/euro/france-espagne-masque-de-mbappe-colere-puis-abattement-de-deschamps-amertume-de-griezmann-les-coulisses-de-l-elimination-des-bleus_AV-202407100754.html "France-Espagne: masque de Mbappé, colère puis abattement de Deschamps, amertume de Griezmann… les coulisses de l’élimination des Bleus")
+5. [### Tour de France 2024: tactique hasardeuse, suspicion de fringale… mais à quoi Pogacar a-t-il joué?](https://rmcsport.bfmtv.com/cyclisme/tour-de-france/tour-de-france-2024-tactique-hasardeuse-suspicion-de-fringale-mais-a-quoi-pogacar-a-t-il-joue_AV-202407100805.html "Tour de France 2024: tactique hasardeuse, suspicion de fringale… mais à quoi Pogacar a-t-il joué?")
 
 ![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
