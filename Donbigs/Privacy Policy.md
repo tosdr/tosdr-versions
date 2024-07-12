@@ -28,77 +28,90 @@ Search
 Privacy Policy
 ==============
 
-All content on Donbigs website, including but not limited to text, images, graphics, videos, and audio, is the property of Donbigs, unless otherwise stated. This content is protected by copyright laws and may not be used, reproduced, distributed, or modified without our prior written consent.
+Who we are
+----------
 
-You may not use any content from Donbigs website for commercial purposes without our permission. You may, however, use content from Donbigs website for non-commercial purposes, provided that you credit Donbigs and provide a link back to our website.
+Our website address is: https://donbigs.com.
 
-PRIVACY POLICY
---------------
+Comments
+--------
 
-At Donbigs, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines the types of personal information we collect when you visit our website, how we use your personal information, and your choices regarding your personal information.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-Information We Collect
-----------------------
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-We may collect personal information from you when you visit Donbigs website, such as your name, email address, and IP address. We may also collect non-personal information such as browser type, device type, and operating system.
+Media
+-----
 
-How We Use Your Information
----------------------------
-
-We may use your personal information to provide you with services or information you have requested, to respond to your inquiries or comments, and to send you marketing communications that we believe may be of interest to you. We may also use your information to analyze and improve Donbigs website and services.
-
-Disclosure of Your Information
-------------------------------
-
-We may share your personal information with third-party service providers that assist us with our business operations, such as web hosting, analytics, and marketing. We may also disclose your personal information if required by law or if we believe that such disclosure is necessary to protect our rights, property, or safety.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
 Cookies
 -------
 
-We may use cookies to improve your experience on Donbigs website. Cookies are small files that are stored on your computer when you visit our website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which remain on your computer until they expire or you delete them.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Third-Party Links
------------------
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-Donbigs website may contain links to third-party websites. We are not responsible for the content or privacy practices of these websites. We encourage you to read the privacy policies of these websites before providing any personal information.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Google Adsense
---------------
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-We may use Google Adsense to serve ads on Donbigs website. Google uses cookies to serve ads based on your visits to this website and other websites. You may opt-out of personalized advertising by visiting Ads Settings on Google or by visiting [www.aboutads.info](http://www.aboutads.info/).
+Embedded content from other websites
+------------------------------------
 
-Changes to This Privacy Policy
-------------------------------
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on Donbigs website. You are advised to review this Privacy Policy periodically for any changes.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-Contact Us
-----------
+Where we send your data
+-----------------------
 
-If you have any questions or concerns about our Privacy Policy, please contact us at \[[\[email protected\]](https://www.donbigs.com/cdn-cgi/l/email-protection)\].
+Visitor comments may be checked through an automated spam detection service.
+
+This privacy and policy applies to the site and all product and services offered by [DonBigs.com](https://www.donbigs.com/)
+
+### Personal Identification Information
+
+We may collect personal identification information from Users in a variety of ways, including but limited to, when users visit our site, subscribe to our newsletter, fill out a form, and in connection to other activities, services, features or resources we make available on our site.  
+Users may be asked for as appropriate, name, email address, Users may, however, visit our site anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site-related activities.
+
+### Non-Personal Identification Information
+
+We may collect non-personal identification information about users when they interact with our site. The non-personal identification information may include the browser name, the type of computer and technical information about user means of connection to our site such as the operating system, and the internet service providers utilized and other similar information.
+
+### Web browser cookies
+
+Our site may use “cookies” to enhance user experience. User’s web browsers place cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies or to alert you when cookies are been sent. If they do so know that some of the sites may not function properly.
+
+### How we use collected information
+
+Donbigs.com may collect and use users information for the following purpose;
+
+* To improve customer service  
+    The information you provide helps us respond to your customer service requests and supports needs more efficiently.
+* To send periodic emails  
+    If the user decides to opt-in our mailing, they will receive emails that may include company news, updates, related product or service information, etc. If at any period the user wants to unsubscribe from receiving future email, we include detailed unsubscribe instructions at the bottom of each mail.
+
+### How we protect your information
+
+We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our site.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent user’s personal identification information to others. we may share generic aggregated demographic information not linked to any personal identification regarding visitors and our users with our business partner, trusted affiliates and advertisers for the purpose outlined above.
+
+### Changes to this privacy policy
+
+[Donbigs](https://www.donbigs.com/) has the discretion to update this policy anytime when we do we will post a notification on the main page of our website, revise the updated date at the bottom of this page. we encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect, you acknowledge to agree that it is your responsibility to review this privacy policy periodically and become aware of modifications
+
+### Your acceptance of these terms
+
+By using this site you signify your acceptance of this policy. If you do not accept this policy please do not use our site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 Search
 
 Scholarship
 ===========
-
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUYAAAD1AQMAAAAWMM7cAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACBJREFUGBntwQEBAAAAgqD+r3ZIwAAAAAAAAAAAAIADASgyAAE+xCGLAAAAAElFTkSuQmCC)
-
-![](https://www.donbigs.com/wp-content/themes/mh-magazine-lite/images/placeholder-medium.png)](https://www.donbigs.com/mrs-oil-scholarship/)
-
-##### [MRS Oil Nigeria Plc Scholarship Grant 2022](https://www.donbigs.com/mrs-oil-scholarship/)
-
-[![easiest law school to get into canada](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![easiest law school to get into canada](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/02/easiest-law-school-to-get-into-canada.png?resize=326%2C245&ssl=1)](https://www.donbigs.com/canadian-law-school/)
-
-##### [Easiest Law Schools to get into Canada 2023](https://www.donbigs.com/canadian-law-school/)
-
-[![Dataville Research LLC Fellowship in Proposal and Grant Writing](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![Dataville Research LLC Fellowship in Proposal and Grant Writing](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/10/Dataville-Research-LLC-Fellowship-in-Proposal-and-Grant-Writing.webp?resize=326%2C245&ssl=1)](https://www.donbigs.com/dataville-fellowship-in-proposal-and-grant-writing/)
-
-##### [Dataville Research LLC Fellowship in Proposal and Grant Writing 2022](https://www.donbigs.com/dataville-fellowship-in-proposal-and-grant-writing/)
 
 [![MTN Foundation MUSON Music Scholarship Program](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
 
@@ -112,69 +125,57 @@ Scholarship
 
 ##### [World Bank Group Africa Fellowship Program 2022/2023 | Fully-funded to Washington, DC](https://www.donbigs.com/world-bank-group-africa-fellowship-program/)
 
+[![Grooming Centre University Grant Scheme 2022](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
+
+![Grooming Centre University Grant Scheme 2022](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/07/Grooming-Centre-University-Grant-Scheme-2022.jpeg?resize=326%2C245&ssl=1)](https://www.donbigs.com/grooming-university-grant/)
+
+##### [Grooming Centre University Grant Scheme 2022 for Undergraduate & Postgraduate Students | 20 Million Naira](https://www.donbigs.com/grooming-university-grant/)
+
+[![UNILAG African Cluster Centre](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
+
+![UNILAG African Cluster Centre](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/07/UNILAG-African-Cluster-Centre.jpg?resize=326%2C245&ssl=1)](https://www.donbigs.com/unilag-african-cluster-centre-postdoctoral-fellowship/)
+
+##### [University of Lagos (UNILAG) African Cluster Centre (ACC) Postdoctoral Fellowship in African and Diaspora Studies 2022](https://www.donbigs.com/unilag-african-cluster-centre-postdoctoral-fellowship/)
+
+[![MTN Scholarship Scheme 2020 for Students Studying Science & Technology Related Courses and Blind Students | N200,000 Annually Till Graduation](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
+
+![MTN Scholarship Scheme 2020 for Students Studying Science & Technology Related Courses and Blind Students | N200,000 Annually Till Graduation](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2020/07/MTN-Scholarship.jpg?resize=326%2C245&ssl=1)](https://www.donbigs.com/mtn-scholarship/)
+
+##### [MTN Scholarship Scheme 2022/2023](https://www.donbigs.com/mtn-scholarship/)
+
 [More Recent scholarship](https://www.donbigs.com/scholarship/)  
 
-Jobs
-====
-
-[![check nin on phone](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![check nin on phone](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2021/11/enroll-for-nin.jpeg?resize=326%2C245&ssl=1)](https://www.donbigs.com/enroll-for-nin/)
-
-##### [How to enroll for National Identity Number (NIN)](https://www.donbigs.com/enroll-for-nin/)
-
-[![Nigerian Navy Recruitment List Batch 33](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![Nigerian Navy Recruitment List Batch 33](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/08/Nigerian-Navy-Recruitment.jpg?resize=300%2C245&ssl=1)](https://www.donbigs.com/nigerian-navy-recruitment-list-batch-33/)
-
-##### [Nigerian Navy Basic Training School Batch 33: List of Successful Candidates](https://www.donbigs.com/nigerian-navy-recruitment-list-batch-33/)
-
-[![Nigerian Navy Recruitment List Batch 33](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![Nigerian Navy Recruitment List Batch 33](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/08/Nigerian-Navy-Recruitment.jpg?resize=300%2C245&ssl=1)](https://www.donbigs.com/apply-for-nigerian-navy-recruitment/)
-
-##### [See How to Apply for Nigerian Navy Recruitment Exercise 2022 | NNBTS Batch 34](https://www.donbigs.com/apply-for-nigerian-navy-recruitment/)
-
-[![check nin on phone](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![check nin on phone](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2021/11/enroll-for-nin.jpeg?resize=326%2C245&ssl=1)](https://www.donbigs.com/check-nin-on-phone/)
-
-##### [See How to Check NIN on Phone using USSD Code](https://www.donbigs.com/check-nin-on-phone/)
-
-[![Shell Internship Programme](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![Shell Internship Programme](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/07/Shell-Nigeria-programme.jpeg?resize=326%2C245&ssl=1)](https://www.donbigs.com/shell-graduate-programme/)
-
-##### [Shell Graduate Programme 2022 for Nigerian Graduates](https://www.donbigs.com/shell-graduate-programme/)
+Recent Jobs
+===========
 
 [More Job news](https://www.donbigs.com/job/)  
 
 JAMB News
 =========
 
-[![How to accept admission offer on jamb caps](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![How to accept admission offer on jamb caps](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2020/12/How-to-accept-admission-offer-on-jamb-caps.jpg?resize=326%2C245&ssl=1)](https://www.donbigs.com/accept-admission-jamb-caps/)
-
-##### [HOW to ACCEPT or REJECT ADMISSION Offer on JAMB CAPS 2022/2023](https://www.donbigs.com/accept-admission-jamb-caps/)
-
-[![Jamb result](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![Jamb result](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2019/08/jamb-2017-e1512974306985.jpg?resize=326%2C227&ssl=1)](https://www.donbigs.com/jamb-registration-form/)
-
-##### [Joint Admissions and Matriculation Board (JAMB) Registration Form 2023 - Registration & Guidelines](https://www.donbigs.com/jamb-registration-form/)
-
-[![no-registration-for-cbt-centres-not-using-laptops](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
-
-![no-registration-for-cbt-centres-not-using-laptops](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/01/Check-jamb-admission-status.jpg?resize=300%2C245&ssl=1)](https://www.donbigs.com/no-registration-for-cbt-centres-not-using-laptops/)
-
-##### [JAMB will no longer register CBT centers not using laptops](https://www.donbigs.com/no-registration-for-cbt-centres-not-using-laptops/)
-
 [![JAMB USSD CODE](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
 
 ![JAMB USSD CODE](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/02/JAMB-USSD-CODE.jpeg?resize=326%2C245&ssl=1)](https://www.donbigs.com/jamb-scraps-mop-up-utme/)
 
 ##### [Joint Admissions and Matriculation Board, JAMB Scraps Mop-up UTME, Insists on no Biometrics, no Examinations](https://www.donbigs.com/jamb-scraps-mop-up-utme/)
+
+[![jamb](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
+
+![jamb](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2021/11/jamb.png?resize=231%2C218&ssl=1)](https://www.donbigs.com/check-jamb-result/)
+
+##### [JAMB RESULT 2022: How to Check JAMB Result Via Online/SMS](https://www.donbigs.com/check-jamb-result/)
+
+[![JAMB Mop-up result](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
+
+![JAMB Mop-up result](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/01/Check-jamb-admission-status.jpg?resize=300%2C245&ssl=1)](https://www.donbigs.com/jamb-mop-up-result-checking/)
+
+##### [How to Check JAMB Mop-Up Result 2022](https://www.donbigs.com/jamb-mop-up-result-checking/)
+
+[![Original jamb result slip](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAD1AQMAAACIr55VAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwQEBAAAAgqD+r3ZIwAAAAADgXBMkAAGkOHe9AAAAAElFTkSuQmCC)
+
+![Original jamb result slip](https://i0.wp.com/www.donbigs.com/wp-content/uploads/2022/01/Original-jamb-result-slip.jpg?resize=300%2C245&ssl=1)](https://www.donbigs.com/print-original-jamb-result-slip/)
+
+##### [How to Print Original JAMB Result Slip from 1978 till Date](https://www.donbigs.com/print-original-jamb-result-slip/)
 
 [More Jamb news](https://www.donbigs.com/jamb/)  
 
