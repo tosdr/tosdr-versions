@@ -29,7 +29,7 @@
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 Privacy policy
 ==============
@@ -328,7 +328,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 [Linear \- Designed Worldwide](https://linear.app/)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 ### Product
 
@@ -396,7 +396,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 * [](https://linear.app/homepage)
 * [Product](https://linear.app/features)
@@ -443,7 +443,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 * [Features](https://linear.app/features)
 * [Pricing](https://linear.app/pricing)
@@ -457,11 +457,11 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Careers](https://linear.app/careers)
 * [Docs](https://linear.app/docs)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 Privacy policy
 ==============
@@ -1055,7 +1055,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 [Linear \- Designed Worldwide](https://linear.app/)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 ### Product
 
@@ -1094,9 +1094,9 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 [Linear \- Designed Worldwide](https://linear.app/)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
-[](https://twitter.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
 
 ### Product
 
