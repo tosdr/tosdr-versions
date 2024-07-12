@@ -200,7 +200,7 @@ _Destiny 2 & all related media © Bungie_
 
 [Terms](https://www.light.gg/terms/) / [Privacy](https://www.light.gg/privacy/)
 
-© 2024 - light.gg v2.2.8932.12456 (Node: JUPITER)
+© 2024 - light.gg v2.2.8954.30618 (Node: MERCURY)
 
 **Follow us:**
 
