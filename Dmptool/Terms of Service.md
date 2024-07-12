@@ -140,5 +140,5 @@ This statement was last revised on December 19, 2023 and may be revised at any t
 
 ![CDL](/assets/logo-cdl-bcf0b0f9a801df5e34d7127fc76f15111852dd880dd5e0e1734fc2c7c985b130.png)
 
-DMP Tool is a service of the California Digital Library, a division of the University of California Office of the President. Version: v5.16  
+DMP Tool is a service of the California Digital Library, a division of the University of California Office of the President. Version: v5.20  
 © 2024 The Regents of the University of California
