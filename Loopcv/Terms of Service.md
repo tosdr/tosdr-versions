@@ -21,7 +21,7 @@
 * Features
     * [Auto apply](http://www.loopcv.pro/autoapply)
     * [One click apply](http://www.loopcv.pro/manual)
-    * [Organize your search](http://www.loopcv.pro/kanban)
+    * [Job Application Tracker](http://www.loopcv.pro/kanban)
     * [Dynamic Emails](http://www.loopcv.pro/templates)
     * [CV Improvements](http://www.loopcv.pro/stats)
     * [Exclude Companies](http://www.loopcv.pro/exclude)
@@ -56,7 +56,7 @@
 * [Features](#)
     * [Auto apply](http://www.loopcv.pro/autoapply)
     * [One click apply](http://www.loopcv.pro/manual)
-    * [Organize your search](http://www.loopcv.pro/kanban)
+    * [Job Application Tracker](http://www.loopcv.pro/kanban)
     * [Dynamic Emails](http://www.loopcv.pro/templates)
     * [CV Improvements](http://www.loopcv.pro/stats)
     * [Exclude Companies](http://www.loopcv.pro/exclude)
