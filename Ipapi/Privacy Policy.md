@@ -118,7 +118,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Analytics
@@ -131,7 +131,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Backup saving and management
@@ -193,7 +193,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Handling payments
@@ -226,7 +226,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Hosting and backend infrastructure
@@ -308,7 +308,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Platform services and hosting
@@ -353,7 +353,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Registration and authentication provided directly by this Application
@@ -393,7 +393,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### SPAM protection
@@ -415,7 +415,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a sale in California
+    * a Sale in California
     * a Sharing in California
     
 * ### Traffic optimization and distribution
