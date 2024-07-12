@@ -4,10 +4,8 @@
 
 [![LG Ad Solutions](https://lgads.tv/wp-content/uploads/2022/11/lg-ad-solution-allblack-1.png "lg-ad-solution-allblack")](https://lgads.tv/ "lg-ad-solution-allblack")
 
-* [Solutions](https://lgads.tv/media-solutions/)
-    * [Overview](https://lgads.tv/media-solutions/)
-    * [Case Studies](https://lgads.tv/case-studies/)
-* [Technology](https://lgads.tv/tv-data/)
+* [Solutions](https://lgads.tv/solutions/)
+* [Technology](https://lgads.tv/technology/)
 * [Resources](https://lgads.tv/resources/)
     * [Reports](https://lgads.tv/reports/)
     * [Webinars](https://lgads.tv/webinars/)
@@ -111,8 +109,8 @@ LG Ad Solutions is a global leader in connected TV and cross-screen advertising,
 * [Facebook](https://www.facebook.com/LGAdSolutions%20 "Facebook")
 * [LinkedIn](https://www.linkedin.com/company/lgads/ "LinkedIn")
 
-* [Media Solutions](https://lgads.tv/media-solutions/)
-* [TV Data](https://lgads.tv/tv-data/)
+* [Solutions](https://lgads.tv/solutions/)
+* [Technology](https://lgads.tv/technology/)
 * [Resources](https://lgads.tv/resources/)
 * [Newsletter Sign Up](https://lgads.tv/newsletter/)
 
