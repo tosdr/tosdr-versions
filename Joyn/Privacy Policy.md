@@ -51,13 +51,13 @@ Datenschutz bei Joyn - Das Wichtigste auf einen Blick:
 
 \- Wir verarbeiten im Rahmen der Bereitstellung der Joyn-Dienste gegebenenfalls Ihre Wiedergabedaten (soweit Sie Inhalte ansehen), Ihre Registrierungsdaten (soweit Sie ein Joyn-Konto haben), Ihre Ausweisdaten (soweit eine Freigabe für Inhalte ab 16 oder 18 Jahren benötigt wird), Ihre Kontaktdaten (soweit Sie uns kontaktieren, Feedback geben oder wir Ihnen Mitteilungen senden), Ihre Community-Beiträge und -Inhalte (soweit Sie die Joyn Community nutzen) und Ihre Vertrags- und Zahlungsdaten (soweit Sie kostenpflichtige Inhalte bestellen oder abonnieren).
 
-\- Wir setzen Cookies und vergleichbare Technologien ein (darunter auch solche von Drittanbietern), einschließlich Identifier wie Ihre Joyn-ID, und verarbeiten Nutzungsdaten, um Ihnen das bestmögliche Joyn-Erlebnis zu bieten, Empfehlungen für Inhalte aufgrund Ihres Nutzungsverhaltens zu personalisieren und zu Ihren Interessen passende Werbeanzeigen zu schalten.
+\- Wir setzen Cookies und vergleichbare Technologien ein (darunter auch solche von Drittanbietern), einschließlich Identifier wie Ihre Joyn-ID oder Ihren NetID Identifier, und verarbeiten Nutzungsdaten, um Ihnen das bestmögliche Joyn-Erlebnis zu bieten, Empfehlungen für Inhalte aufgrund Ihres Nutzungsverhaltens zu personalisieren und zu Ihren Interessen passende Werbeanzeigen zu schalten.
 
 \- In der ausführlichen Datenschutzerklärung erfahren Sie, wie Sie Ihre Cookie- und weitere Datenschutzeinstellungen ändern können und welche Datenschutzrechte Sie haben.  
 
 \- Ausführliche Informationen zu den verwendeten Cookies, insbesondere auch zu deren Zwecken und zu unseren Partnern (den sog. Vendoren), finden Sie in unserer CMP. Auch Ihre Einwilligung können Sie jederzeit mit Wirkung für die Zukunft in der CMP widerrufen. Sie können diese jederzeit über die Cookie-Einstellungen im Footer öffnen.
 
-Diese Datenschutzerklärung ist an Nutzer aus dem Europäischen Wirtschaftsraum und explizit aus Deutschland gerichtet, weshalb die genannten Informationen, einschließlich der Rechtsgrundlagen und Betroffenenrechte, den Anforderungen der DSGVO, des BDSG, des TTDSG und anderen EU- und deutschen Gesetzen entsprechen. Für Nutzer aus Ländern außerhalb des Europäischen Wirtschaftsraums siehe Ziff. 10.
+Diese Datenschutzerklärung ist an Nutzer aus dem Europäischen Wirtschaftsraum und explizit aus Deutschland gerichtet, weshalb die genannten Informationen, einschließlich der Rechtsgrundlagen und Betroffenenrechte, den Anforderungen der DSGVO, des BDSG, des TDDDG und anderen EU- und deutschen Gesetzen entsprechen. Für Nutzer aus Ländern außerhalb des Europäischen Wirtschaftsraums siehe Ziff. 10.
 
 **Ansprechpartner und Verantwortlicher**
 
@@ -145,7 +145,9 @@ Ansprechpartner und Verantwortlicher
 
 3.4.5. Reichweitenmessung
 
-3.5. Nutzungsanalyse bei unserer Facebook-Fanpage (Seiten-Insights). 
+3.5. Nutzungsanalyse bei unserer Facebook-Fanpage (Seiten-Insights).
+
+3.6. Verwendung des NetID Identifier
 
 4\. Angeforderte Berechtigungen bei Nutzung der Joyn App
 
@@ -243,6 +245,8 @@ Die Registrierungsdaten werden zur Einrichtung des Joyn-Accounts  und zur Vorbe
 
 Für die Registrierung und den Zugang zum Joyn-Account ist ein eigenständiges 7Pass-Konto beim zentralen Anmeldeservice 7Pass erforderlich. 7Pass ist ein Angebot der ProSiebenSat.1 Digital Data GmbH. Es gelten die AGB und Datenschutzbestimmungen von 7Pass (unter www.7pass.de). Bei der Registrierung bei Joyn werden die Zugangsdaten zum (ggf. gleichzeitig abgeschlossenen oder bereits vorhandenen) 7Pass-Konto gespeichert. Eine Verwaltung der bei 7Pass gespeicherten Daten ist über www.7Pass.de möglich. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO.
 
+Alternativ zur Anmeldung via 7Pass ermöglichen wir die Nutzung von Joyn mithilfe eines bestehenden Kontos bei Amazon (etwa für einen Amazon Fire TV). In diesem Fall gelten für die Verarbeitung Ihrer Kontodaten durch Amazon Europe Core S.à.r.l., John F. Kennedy, L-1855 Luxemburg, deren Datenschutzhinweise unter: [https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010](https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010). An Joyn wird dabei insbesondere Ihre E-Mail-Adresse und ein Autorisationscode zur Anmeldung übermittelt. Zudem wird eine Joyn-ID angelegt. Soweit Sie sich später mithilfe von 7Pass über ein anderes Gerät anmelden, erkennen wir Sie als Joyn-Nutzer wieder und können Ihre Kontodaten zusammenführen. Im Falle der Nutzung kostenpflichtiger Abonnements erfolgt die Zahlung gegenüber Amazon. An Joyn wird in diesem Fall lediglich die Information übermittelt, dass eine Zahlung für ein bestimmtes Konto eingegangen ist.
+
 Weitere Informationen und Details zu den technisch-notwendigen Diensten entnehmen Sie der Übersicht unter dem Zweck “Registrierung” zu eingesetzten Technologien. Die Übersicht finden Sie unter Ziffer 2.
 
 **1.4. Download aus einem App-Store, In-App-Käufe.**Um die Joyn App aus einem App-Store (Google Play, Apple AppStore oder einem anderen App Store über Ihren SmartTV) herunterladen und installieren zu können, müssen Sie sich ggf. zunächst bei dem Anbieter des jeweiligen App-Stores für ein Nutzerkonto registrieren und einen entsprechenden Nutzungsvertrag abschließen. Auf dessen Inhalt haben wir keinen Einfluss, insbesondere sind wir nicht Partei eines solchen Nutzungsvertrags. Beim Herunterladen und Installieren der App werden die dafür notwendigen Informationen an den jeweiligen Anbieter des App-Stores (z. B. Google oder Apple) übertragen, insbesondere Ihr Nutzername, Ihre E-Mail-Adresse und die Kundennummer Ihres AppStore-Accounts, der Zeitpunkt des Downloads und die individuelle Gerätekennziffer. Auf diese Datenerhebung haben wir keinen Einfluss und wir sind nicht dafür verantwortlich. Wir verarbeiten diese bereitgestellten Daten nur, soweit dies für das Herunterladen und die Installation der App auf Ihrem mobilen Endgerät (z. B. iPhone, iPad oder Android Device) notwendig ist. Darüber hinaus werden diese Daten von uns nicht weiter gespeichert.
@@ -261,11 +265,13 @@ Weitere Informationen und Details zu den technisch-notwendigen Diensten entnehme
 
 **1.6. Zahlungsabwicklung.**Wenn Sie kostenpflichtige Inhalte bestellen oder kostenpflichtige Kanäle abonnieren, ist zunächst der Abschluss eines entsprechenden Nutzungsvertrages über die jeweiligen kostenpflichtigen Inhalte mit Joyn erforderlich. Die diesbezüglichen Details sind in den Allgemeinen Geschäftsbedingungen unter [https://www.joyn.de/agb](https://www.joyn.de/agb) und den jeweiligen Leistungsbeschreibungen der Inhalte enthalten.
 
+Für das Management der Abonnements und der damit verbundenen Zahlungen verwenden wir die Dienste der Billwerk+ Germany GmbH, Mainzer Landstraße 51, 60329 Frankfurt am Main, Deutschland, sowie der nexnet GmbH, Schöneberger Str. 21 A, 10963 Berlin, Deutschland. Im Rahmen der Nutzung von Billwerk+ speichern und verarbeiten wir insbesondere Ihren Vor- und Nachnamen, Ihre Joyn-ID, Ihre Abonnementen-ID, Ihren Zahlungsanbieter (z.B. Stripe, Klarna, PayPal), Ihre Zahlungsmethode, die Währung und weitere von der Zahlungsmethode abhängige Zahlungsinformationen (bei Kreditkarten: Karteninhaber, Kartentyp, letzte vier Ziffern der Kreditkarte, Ablaufdatums der Kreditkarte; bei PayPal: E-Mail-Adresse des Kontos; bei SEPA: IBAN, BIC) sowie die Art, den Preis, den Beginn, die Vertragsnummer und die Kündigungsfrist des Abonnements. Zudem werden wir dort Ihre Rechnungen archivieren und zum Herunterladen bereithalten. nexnet nutzen wir für die Finanzbuchhaltung, wobei dort nur pseudonymisierte Zahlungsdaten verarbeitet werden. Rechtsgrundlage für die damit verbundenen Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO.
+
 Zur Zahlungsabwicklung verwenden wir die Dienste der Stripe Payments Europe, Ltd. The One Building ,1 Grand Canal Street Lower, Dublin 2, Ireland(„Stripe“). In Verbindung mit der Verarbeitung der Zahlung des Entgelts speichern wir keine Kreditkarteninformationen. Vielmehr werden Kreditkartendaten oder die Bankverbindung direkt an Stripe geleitet. Weitere Informationen zur Datenverarbeitung durch Stripe entnehmen Sie bitte der Datenschutzerklärung von Stripe unter [https://stripe.com/en-it/privacy](https://stripe.com/en-it/privacy). Rechtsgrundlage für die mit dem Einsatz von Stripe verbundene Datenverarbeitung ist Art. 6 Abs. 1 lit. b DSGVO.
 
 Stripe erhebt für eigene Zwecke wie zur Missbrauchsprävention und Weiterentwicklung seiner Produkte sowie zu Marketingzwecke weitere Daten. Hierzu gehören insbesondere technische Nutzungsdaten (IP-Adresse, Geräte-Identifier oder Angaben zum Betriebssystem).
 
-Die Datenverarbeitung durch Stripe findet teilweise auf Servern in den USA statt. Für den Fall, dass personenbezogene Daten in die USA übertragen werden und sichergestellt werden muss, dass ein internationaler Datentransfer durch einen Datentransfermechanismus geregelt wird, haben wir die EU-Standardvertragsklauseln abgeschlossen. Stripe hat sich damit verpflichtet die europäischen Datenschutzgrundsätze und das hiesige Datenschutzniveau auch im Rahmen der in den USA stattfindenden Datenverarbeitung zu gewährleisten.
+Die Datenverarbeitung durch Stripe findet teilweise auf Servern in den USA statt. Für den Fall, dass personenbezogene Daten von Stripe Payments Europe Ltd. zu Stripe Inc. in den USA übertragen werden, ist die Datenübermittlung aufgrund der Zertifizierung von Stripe Inc. für das EU-US Data Privacy Framework durch den Angemessenheitsbeschluss für die USA gerechtfertigt.
 
 Nach Abwicklung der Zahlung erhalten Sie einen Zahlungsbeleg per E-Mail. Stripe teilt uns den Zahlungseingang mit und wir speichern insofern die Information zum Zahlungseingang sowie die Angaben zum bestellten Inhalt bzw. die Art des Abos, die Laufzeit, das Entgelt, Kündigungsbedingungen und die gewählte Zahlungsmethode in Verbindung mit Ihrem Joyn-Accounts, um eingegangene Zahlungen zuordnen und nachweisen und Ihre bestellten Inhalte in Ihrem Joyn-Accounts verwalten zu können. Die Angaben über erfolgte Zahlungen werden aus buchhalterischen Gründen im Zusammenhang mit den Registrierungsdaten für die Dauer von sechs Jahren aufbewahrt. Rechtsgrundlage für diese Aufbewahrung ist Art. 6 Abs. 1 lit. c DSGVO in Verbindung mit § 257 HGB sowie § 147 AO.
 
@@ -327,7 +333,7 @@ Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. c DSGVO zur Er
 
 **2\. Eingesetzte Dienste.**Wir haben Ihnen eine umfassende Übersicht über alle eingesetzten Dienste zusammengestellt. Hier finden Sie Informationen zum Zweck sowie eine Beschreibung des Einsatzes. Überdies werden im Falle von Cookies und ähnlichen Technologien, diese benannt, deren Laufzeit festgesetzt sowie die Art der Implementierung aufgezeigt. 
 
-Die Details zu den jeweils eingesetzten Diensten finden sie unter: [https://static.joyn.de/Technisch-notwendige+Dienste.pdf](https://static.joyn.de/Technisch-notwendige+Dienste.pdf)
+Die Details zu den jeweils eingesetzten notwendigen Diensten finden sie unter: [https://static.joyn.de/Technisch-notwendige+Dienste.pdf](https://static.joyn.de/Technisch-notwendige+Dienste.pdf).
 
 **2.1. Joyn Mitteilungsfunktionen und Newsletter.**Joyn sendet an Nutzerinnen und Nutzer bzw. Nutzergruppe Mitteilungen, wie Vertragsabschlussbestätigung, Kündigungsbestätigungen oder andere vertraglich relevante Kommunikation (Vertragskommunikation) sowie einen Newsletter. Diese Kommunikation wird im Rahmen des vertraglich geschuldeten Umfangs personalisiert. Ferner werden Mitteilungen über In-Browser-Nachrichten, In-App-Nachrichten, Push-Benachrichtigungen (etwa um auf neue Serien und Inhalte oder neue Staffeln von auf den Merklisten vermerkten Serien hinzuweisen) und Live-Events versandt (Joyn-Benachrichtungen). Im Rahmen des normalen Verbindungsaufbaus werden notwendigerweise der HTTP-Header einschließlich IP-Adresse und User-Agent verarbeitet.
 
@@ -407,7 +413,7 @@ Je nachdem, welchen Zweck Sie bei der Nutzung unserer Fanpage verfolgen, erfolgt
 
 **3. Cookie Hinweise**
 
-Die Details zu den jeweils eingesetzten Diensten finden sie unter: [https://static.joyn.de/Eingesetzte+Technologien.pdf](https://static.joyn.de/Eingesetzte+Technologien.pdf)
+Die Details zu den jeweils eingesetzten optionalen Diensten finden Sie unter: [https://static.joyn.de/Eingesetzte+Technologien.pdf](https://static.joyn.de/Eingesetzte+Technologien.pdf). Unter Ziffer 2 finden Sie darüber hinaus eine Übersicht zu den notwendigen Diensten.
 
 **3.1. Allgemeines zu Cookies und vergleichbaren Technologien.**Wenn Sie die Joyn-Dienste nutzen, werden unterschiedliche Cookies und vergleichbare Technologien (z.B. Speicherung von Daten im lokalen Speicher des Endgeräts, sog. Local Storage Technik oder Zählpixel, die der (Zwischen-)Speicherung von Informationen zu spezifischen Nutzern oder Nutzungsvorgängen dienen) eingesetzt. Cookies sind kleine Textdateien, die im Speicher Ihres Webbrowsers oder Endgerätes abgelegt werden und Informationen enthalten, mit denen Sie bei späteren Besuchen von Webservern wiedererkannt werden können. 
 
@@ -471,7 +477,7 @@ Bei Vorliegen einer gültigen Rechtsgrundlage können Verarbeitungen für folgen
 
 \- Feature 3: Empfangen und Verwenden automatisch gesendeter Geräteeigenschaften für die Identifikation.
 
-Die Adressen der eingesetzten Anbieter der Tools, die konkret verfolgten Zwecke und genutzten Funktionen, die verarbeiteten Daten und die Speicherdauer der auf dem Endgerät gespeicherten Informationen können Nutzer den entsprechenden Unterseiten der CMP entnehmen.
+Die Adressen der eingesetzten Anbieter der Tools, die konkret verfolgten Zwecke und genutzten Funktionen, die verarbeiteten Daten und die Speicherdauer der auf dem Endgerät gespeicherten Informationen können Nutzer den entsprechenden Unterseiten der CMP entnehmen. Klicken Sie hierfür auf „Cookie Einstellungen“ in der Fußzeile der Website. Dort finden Sie auch weitere Informationen zur Verwendung des NetID Identifier (Ziffer 3.6).
 
 **3.3. Technische Funktionalität (Notwendige Cookies).**Diese Cookies sind für die Funktionsweise unserer Plattform unbedingt erforderlich. Sie garantieren, dass unsere Plattform sicher und so wie von Dir gewünscht funktioniert. Daher kann man sie nicht deaktivieren. 
 
@@ -583,6 +589,36 @@ Da Joyn keinen Zugriff auf die von Meta Platforms erhobenen Seiten-Insights-Date
 
 Bitte beachten Sie, dass Ihre Daten bei jedem Zugriff auf eine Fanpage und sonstige Facebook-Inhalte von Meta Platforms auch zu weiteren Zwecken verarbeitet. Auf diese Datenverarbeitung bei Facebook haben wir keinen Einfluss und sind hierfür auch nicht verantwortlich. Detaillierte Information zur weiteren Datenverarbeitung durch Meta Platforms finden Sie in den Datenschutzhinweisen von Facebook unter [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/)
 
+**3.6. Verwendung des netID Identifier.**Joyn nutzt auf der Grundlage Ihrer Einwilligung Ihre netID ([https://netid.de/](https://netid.de/)), um Sie auf unserem Joyn-Dienst zu identifizieren bzw. wiederzuerkennen und auf dieser Grundlage weitere Verarbeitungen durchzuführen.
+
+Wozu verwenden wir den netID Identifier?
+
+Sofern Sie eine Einwilligung für die „Identifikation“ über netID erteilt haben, erhalten wir von Ihrem netID Account-Anbieter den netID Identifier, um Sie beim Besuch unserer Angebote und Inhalte wieder zu erkennen. Anhand dieser zentralen ID können wir Daten über Sie erfassen, zuordnen und verarbeiten. Welche Daten das sind und zu welchen Zwecken wir diese Daten verarbeiten, können Sie dem Abschnitt 3.2.2. Transparency & Consent Framework und der CMP entnehmen. Soweit wir Ihre Daten für weitere Zwecke verwenden, können Sie weitere Informationen hierüber zusätzlich auch in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter](https://broker.netid.de/privacycenter)) einsehen. Wichtig: Soweit wir auf der Basis des netID Identifiers Nutzerprofile erstellen, fließen in diese Nutzerprofile keine „sensiblen“ Daten zur rassischen oder ethnischen Herkunft, politischen Überzeugungen, eventuellen Gewerkschaftszugehörigkeit, Gesundheit oder Sexualität ein. Diese Nutzerprofile werden auch nicht dazu verwendet, solche oder vergleichbare Erkenntnisse über Ihre Persönlichkeit zu gewinnen.
+
+Was genau ist der netID Identifier?
+
+Der netID Identifier ist eine eindeutige Kombination aus Ziffern und Buchstaben, die Ihnen von Ihrem netID Account-Anbieter zugewiesen wird.
+
+Wie funktioniert das technisch?
+
+Wir erhalten den netID Identifier von Ihrem netID Account-Anbieter. Mehr Informationen zur technischen Umsetzung erhalten Sie bei diesem in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter](https://broker.netid.de/privacycenter)).
+
+Wer bekommt Ihre Daten?
+
+Informationen über die Weitergabe von Daten an Dritte erhalten Sie im Abschnitt 7. Empfänger und in der CMP.
+
+Wie lange wird der netID Identifier gespeichert?
+
+Der netID Identifier wird von uns aus bestehenden Datensätzen grundsätzlich gelöscht, wenn Sie Ihre Einwilligung zur Identifikation widerrufen. Wir werden den netID Identifier aus bestehenden Datensätzen regelmäßig auch dann löschen, wenn Sie unsere Joyn-Dienste, auf denen der netID Identifier zum Einsatz kommt, länger als 36 Monate nicht genutzt haben. Eine Speicherung des netID Identifier über die in den vorangegangenen Sätzen genannten Zeitpunkte hinaus erfolgt nur dann, soweit wir aus rechtlichen Gründen berechtigt oder verpflichtet sind, den netID Identifier weiter zu speichern.
+
+Welche Widerrufsmöglichkeiten haben Sie?
+
+Sie können Ihre Einwilligung für die Verwendung des netID Identifier durch uns jederzeit widerrufen. Sie haben die im Abschnitt 9. Widerrufs- und Widerspruchsrecht beschriebene Möglichkeit, Ihre Einwilligung zu widerrufen. Sie können einen Widerruf auch in Ihrem netID Privacy Center ([https://broker.netid.de/privacycenter)](https://broker.netid.de/privacycenter)) vornehmen.
+
+Welche Folgen hat ein Widerruf der Einwilligung?
+
+Nach einem Widerruf werden wir bei Ihrem Besuch unserer Angebote nicht länger Ihren netID Identifier erhalten. Außerdem löschen wir den netID Identifier aus unseren Datensätzen, soweit wir nicht aus anderen rechtlichen Gründen berechtigt oder verpflichtet sind, den netID Identifier weiter zu speichern.
+
 **4\. Angeforderte Berechtigungen bei Nutzung der Joyn App.**Für einige Funktionen muss die Joyn App auf bestimmte Dienste und Daten Ihres Endgerätes zugreifen können. Um alle Funktionen der Joyn App nutzen zu können, müssen Sie jeweils Ihre ausdrückliche Zugriffsfreigabe erteilen. Nachfolgend erläutern wir Ihnen, welche Berechtigungen die Joyn App abfragt und für welche Art von Funktionen diese Berechtigungen erforderlich sind.
 
 **4.1. iOS.**\-Benachrichtigungen / Push-Mitteilungen. Wenn Sie die Frage „Darf Joyn Ihnen Push-Mitteilungen senden“ mit „Erlauben“ beantworten, erlauben Sie der Joyn App Sie durch Push-Mitteilungen auf bestimmte Ereignisse und Themen (insbesondere Hinweise auf neue Inhalte und Erinnerungen an Sendetermine oder auch Hinweis zum Ausfall des Joyn- Dienstes wg. Wartungsarbeiten) hinzuweisen, wenn Sie die Joyn App gerade nicht geöffnet haben. Die Hinweise können mittels Tönen, Meldungen (z. B. in Gestalt von Bildschirm-Bannern) und/oder Symbol-Kennzeichen (ein Bild oder eine Ziffer auf dem Joyn App-Icon) erfolgen. Weitere Informationen zu Push-Benachrichtigungen und zu Ihren Konfigurationsmöglichkeiten finden Sie unter Ziffer 5.
@@ -635,6 +671,8 @@ Darüber hinaus kann eine Weitergabe in Zusammenhang mit behördlichen Anfragen,
 
 Innerhalb unseres Konzerns erfolgt zudem eine Weitergabe der erhobenen Daten an die Seven.One Entertainment Group GmbH, Medienallee 7, 85774 München, Deutschland (“SOEG”) als technischem Dienstleister.
 
+Im Übrigen finden Sie weitere Empfänger Ihrer Daten in der CMP. Klicken Sie hierfür auf „Cookie Einstellungen“ in der Fußzeile dieser Website.
+
 **8\. Ihre Rechte.**Ihnen stehen folgende Betroffenenrechte nach der DSGVO zu:
 
 \- Art. 15 DSGVO: Ihnen steht jederzeit das Recht zu, Auskunft über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu verlangen. Wir werden Ihnen im Rahmen der Auskunftserteilung die Datenverarbeitung erläutern und eine Übersicht der über Ihre Person gespeicherten Daten zur Verfügung stellen.
@@ -655,11 +693,11 @@ Sie haben schließlich das Recht sich bei einer Datenschutzaufsichtsbehörde zu 
 
 Soweit wir Ihre Daten auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 lit. f DSGVO verarbeiten, haben Sie gemäß Art. 21 DSGVO das Recht, Widerspruch gegen die Verarbeitung Ihrer Daten einzulegen und uns Gründe zu nennen, die sich aus Ihrer besonderen Situation ergeben und die Ihrer Meinung nach für ein Überwiegen Ihrer schutzwürdigen Interessen sprechen. Geht es um einen Widerspruch gegen die Datenverarbeitung zu Zwecken der Direktwerbung, haben Sie ein generelles Widerspruchsrecht, das auch ohne die Angabe von Gründen von uns umgesetzt wird.
 
-Das Widerrufs- und Widerspruchsrecht gegen die Nutzungsdatenverarbeitung können Sie zudem über die "Cookie Einstellungen" in der CMP ausüben.
+Das Widerrufs- und Widerspruchsrecht gegen die Nutzungsdatenverarbeitung können Sie zudem über die "Cookie Einstellungen" in der CMP ausüben. Dies gilt auch in Hinblick auf die Verwendung des NetID Identifier (Ziffer 3.6).
 
 Möchten Sie von Ihrem Widerrufs- oder Widerspruchsrecht Gebrauch machen, genügt auch eine formlose Mitteilung an die oben genannten Kontaktdaten.
 
-**10\. Hinweis zum Datenschutzrecht außerhalb des Europäischen Wirtschaftsraums.**Diese Datenschutzerklärung ist an Nutzer aus dem Europäischen Wirtschaftsraum und explizit aus Deutschland gerichtet, weshalb die genannten Informationen, einschließlich der Rechtsgrundlagen und Betroffenenrechte, den Anforderungen der DSGVO, des BDSG, des TTDSG und anderen EU- und deutschen Gesetzen entsprechen.
+**10\. Hinweis zum Datenschutzrecht außerhalb des Europäischen Wirtschaftsraums.**Diese Datenschutzerklärung ist an Nutzer aus dem Europäischen Wirtschaftsraum und explizit aus Deutschland gerichtet, weshalb die genannten Informationen, einschließlich der Rechtsgrundlagen und Betroffenenrechte, den Anforderungen der DSGVO, des BDSG, des TDDDG und anderen EU- und deutschen Gesetzen entsprechen.
 
 Für Nutzer außerhalb der Europäischen Union können ausgehend von dem für sie anwendbaren Recht andere gesetzliche Rechtsgrundlagen und Betroffenenrechte einschlägig sein. Soweit erforderlich, holen wir jedoch stets die Einwilligung der Nutzer zur Verarbeitung Ihrer Daten ein. Für die Ausübung der Rechte der Nutzer gelten ausgehend von dem für sie anwendbaren Recht bestimmte Voraussetzungen und Ausnahmen. Je nach Rechtslage kann bzw. muss Joyn daher bestimmte Anfragen ablehnen.
 
@@ -667,10 +705,12 @@ Als Unternehmen mit Sitz in Deutschland erfolgt beim Aufruf dieser Website eine 
 
 Hinweise zu den eingesetzten Tools auf dieser Website, einschließlich der auf dem Endgerät gespeicherten Informationen wie Cookies sowie zu den Maßnahmen zu deren Blockierung durch die Browser-Einstellungen, erhalten Nutzer in dieser Datenschutzerklärung und im eingesetzten Einwilligungsbanner.
 
+Für die Nutzung von Joyn-Diensten für andere Länder als Deutschland verweisen wir zudem auf die entsprechenden Datenschutzhinweise der jeweiligen länderspezifischen Dienste, insbesondere für Österreich auf joyn.at und für die Schweiz auf joyn.ch.
+
 **11\. Änderungen.**Joyn behält sich das Recht vor, diese Datenschutzerklärung zu ändern. Die aktuelle Fassung der Datenschutzerklärung können Sie jederzeit über die App oder Website einsehen.
 
   
-Version: 1.15
+Version: 1.16
 
 [Über Joyn](https://www.joyn.de/ueber-joyn)[Kontakt](https://community.joyn.de/)[Abo hier kündigen](https://www.joyn.de/abo-kuendigen) Feedback[Tech blog](https://medium.com/tech-p7s1)[Karriere](https://jobs.prosiebensat1.com/)[Impressum](https://www.joyn.de/impressum)[Jugendschutz](https://www.joyn.de/jugendschutz)[Datenschutz](https://www.joyn.de/datenschutz)[Transparenzhinweise](https://www.joyn.de/transparenzhinweise) Cookie Einstellungen[AGB](https://www.joyn.de/agb)[Compliance](https://www.prosiebensat1.com/investor-relations/corporate-governance/compliance)
 
@@ -682,7 +722,7 @@ Version: 1.15
 
 * ![Apple App Store](/_next/static/media/ico-app-store.6d1db71b.svg)
 * ![Google Play Store](/_next/static/media/ico-google-play-store.114746ef.svg)
-* ![Amazon FireTV](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-fire.15af3810.webp&w=384&q=100&dpl=dpl_8jvjhYMu5TcWC85MfuyW4wDrfMkC)
-* ![Huawei](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhuawei-badge.c6892e50.webp&w=384&q=100&dpl=dpl_8jvjhYMu5TcWC85MfuyW4wDrfMkC)
+* ![Amazon FireTV](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon-fire.15af3810.webp&w=384&q=100&dpl=dpl_8g2Lze5H9uVKJ7U4YWYhDmSiLhGM)
+* ![Huawei](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhuawei-badge.c6892e50.webp&w=384&q=100&dpl=dpl_8g2Lze5H9uVKJ7U4YWYhDmSiLhGM)
 
 © 2024 Joyn GmbH
