@@ -1,6 +1,6 @@
 Skip to Header Skip to Main Content Skip to Footer
 
-[Due to a system upgrade, new orders at our US and Canada locations may be delayed. You can contact us here.](https://www.leaseweb.com/en/contact)
+[Our sizzling summer sale has started! Buy now](https://www.leaseweb.com/en/c/summer-sale-2024?utm_source=website&amp;utm_medium=ribbon&amp;utm_campaign=Summer_Sale&amp;utm_content=Global%22)
 
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
@@ -52,9 +52,9 @@ Skip to Header Skip to Main Content Skip to Footer
     
     [Cloud Products](https://www.leaseweb.com/en/products-services/cloud "Cloud Products")
     
-    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
-    
     [Virtual Private Server](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server "Virtual Private Server")
+    
+    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
     
     [Elastic Compute](https://www.leaseweb.com/en/products-services/cloud/elastic-compute "Elastic Compute")
     
@@ -310,9 +310,9 @@ Language
     
     [Cloud Products](https://www.leaseweb.com/en/products-services/cloud "Cloud Products")
     
-    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
-    
     [Virtual Private Server](https://www.leaseweb.com/en/products-services/cloud/virtual-private-server "Virtual Private Server")
+    
+    [Public Cloud](https://www.leaseweb.com/en/products-services/cloud/public-cloud "Public Cloud")
     
     [Elastic Compute](https://www.leaseweb.com/en/products-services/cloud/elastic-compute "Elastic Compute")
     
