@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Enter the realm of shadow and fall from grace in the expansion ELDEN RING SHADOW OF THE ERDTREE, available now](https://en.bandainamcoent.eu/elden-ring/news/enter-the-realm-of-shadow-and-fall-grace-the-expansion-elden-ring-shadow-of-the)
-* [Elden Ring - How to enter the Realm of Shadow](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-how-enter-the-realm-of-shadow)
+* [ELDEN RING - Who are Miquella’s Followers?](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-who-are-miquellas-followers)
+* [ACE COMBAT 7: SKIES UNKNOWN – Deluxe Edition is now available on Nintendo Switch](https://en.bandainamcoent.eu/ace-combat/news/ace-combat-7-skies-unknown-deluxe-edition-now-available-nintendo-switch)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
