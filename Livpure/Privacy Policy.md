@@ -1,6 +1,4 @@
-□
-
-           Comprehensive Livpure Privacy Policy: Safeguarding Your Information                                                   Comprehensive Livpure Privacy Policy: Safeguarding Your Information                                  [Skip to content](#MainContent)
+[Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
@@ -68,12 +66,10 @@ Snapmint | 0% EMI | No credit card needed
     Mattress
     
     * [Lumbar](https://www.livpure.com/products/lumbar)
-    * [Duos Versa: Reversible](https://www.livpure.com/products/duos-versa)
+    * [Duos: Reversible](https://www.livpure.com/products/duos-versa)
     * [Ortho CurvX](https://www.livpure.com/products/ortho-curvx)
     * [Ortho Luxe](https://www.livpure.com/products/ortho-luxe-orthopaedic-latex-mattress)
     * [Regal](https://www.livpure.com/products/regal)
-    * [Jeeva : Natural Mattress](https://www.livpure.com/products/jeeva-natural-mattress)
-    * [Mattress Grid Topper](https://www.livpure.com/products/mattress-grid-topper)
     * [Know more about Mattresses](https://www.livpure.com/pages/shop-by-collection)
     * [Mattress Buying Guide](https://www.livpure.com/pages/mattress-buying-guide)
     
@@ -130,12 +126,10 @@ Snapmint | 0% EMI | No credit card needed
 * Mattress
     
     * [Lumbar](https://www.livpure.com/products/lumbar)
-    * [Duos Versa: Reversible](https://www.livpure.com/products/duos-versa)
+    * [Duos: Reversible](https://www.livpure.com/products/duos-versa)
     * [Ortho CurvX](https://www.livpure.com/products/ortho-curvx)
     * [Ortho Luxe](https://www.livpure.com/products/ortho-luxe-orthopaedic-latex-mattress)
     * [Regal](https://www.livpure.com/products/regal)
-    * [Jeeva : Natural Mattress](https://www.livpure.com/products/jeeva-natural-mattress)
-    * [Mattress Grid Topper](https://www.livpure.com/products/mattress-grid-topper)
     * [Know more about Mattresses](https://www.livpure.com/pages/shop-by-collection)
     * [Mattress Buying Guide](https://www.livpure.com/pages/mattress-buying-guide)
     
@@ -169,8 +163,8 @@ Snapmint | 0% EMI | No credit card needed
 
  
 
-Updated on 18-May-2023
-======================
+Updated on 09-July-2024
+=======================
 
 ##### 1.INTRODUCTION
 
@@ -260,8 +254,10 @@ In order to remove Your contact information, please visit Unsubscribe.
 In compliance with Information Technology Act, 2000 and rules made thereunder, the name and contact details of the Grievance Officer are provided below:  
 **Name**: Livpure Smart Homes Private Limited  
 **Address**: 221, PHASE – 1, UDYOG VIHAR, GURGAON, HARYANA – 122016  
-**Phone**: +91-124 403 5614  
-**Email**: grievance.officer@sar-group.com  
+**Phone**: +91-124 403 5614
+
+**Grievance Officer**: Prashant Agarwal  
+**Email**: [grievances.officer@sar-group.com](mailto:grievances.officer@sar-group.com)  
 **Time**: 9:00 AM to 6:00 PM  
 
 ##### 11. UPDATES TO THIS PRIVACY POLICY
