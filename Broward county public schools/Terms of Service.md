@@ -46,7 +46,7 @@ Select a School
 * [Coral Cove Elementary](https://www.browardschools.com/Domain/65)
 * [Coral Glades High](https://www.browardschools.com/Domain/201)
 * [Coral Park Elementary](https://www.browardschools.com/Domain/66)
-* [Coral Springs High](https://www.browardschools.com/Domain/28)
+* [Coral Springs High School](https://www.browardschools.com/Domain/28)
 * [Coral Springs Middle](https://www.browardschools.com/Domain/165)
 * [Coral Springs Elementary](https://www.browardschools.com/Domain/67)
 * [Country Hills Elementary](https://www.browardschools.com/Domain/68)
@@ -443,7 +443,7 @@ Our Schools
     * [Food and Nutrition Services](https://www.browardschools.com/domain/13481)
     * [Gifted & Talented](https://www.browardschools.com/domain/13483)
     * [Grants Administration](https://www.browardschools.com/domain/13484)
-    * [Head Start/Early Intervention Services](https://www.browardschools.com/domain/12440)
+    * [Early Childhood Education](https://www.browardschools.com/domain/12440)
     * [Home School Education](https://www.browardschools.com/domain/25443)
     * [Human Resources](https://www.browardschools.com/Page/31910)
     * [Information and Technology](https://www.browardschools.com/domain/13490)
@@ -786,7 +786,8 @@ Our Schools
     * [Shared App District's Information](https://www.browardschools.com/domain/16746)
 * [Back-to-School](https://www.browardschools.com/domain/20591)
     
-    "* [Back-to-School (COVID)](https://www.browardschools.com/domain/18451)
+    "* [Choose BCPCS](https://www.browardschools.com/domain/26056)
+    * [Back-to-School (COVID)](https://www.browardschools.com/domain/18451)
     * [Covid -19 Dashboard](https://www.browardschools.com/domain/18816)
     * [Ready for You](https://www.browardschools.com/domain/20645)
     
