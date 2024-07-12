@@ -1,8 +1,6 @@
-[![](/wp-content/uploads/2024/04/forrester_logo-k.png)
+ [![](/wp-content/uploads/2024/02/TMR-Logo-HORZ.png) Listen Now
 
-Report: The Future of Insurance
-
-DOWNLOAD NOW](https://www.jornaya.com/lander/report-the-future-of-insurance/)
+New episode available.](https://www.jornaya.com/the-marketing-rapport-podcast/)
 
 * [myJornaya](https://app.jornaya.com/login)
 * [Support](https://marketing.verisk.com/helpcenter/)
@@ -39,9 +37,9 @@ DOWNLOAD NOW](https://www.jornaya.com/lander/report-the-future-of-insurance/)
             * [Strategic Alliances](https://marketing.verisk.com/partners/)
             * [Services](https://marketing.verisk.com/services/)
 * [Resources](https://marketing.verisk.com/category/resources/)
-    * * ![Forrester-Website-Sidebar-Card](https://marketing.verisk.com/wp-content/uploads/2024/04/Forrester-Website-Sidebar-Card-1.png)Report: The Future of Insurance
+    * * ![TMR-Website-Sidebar-Card-24](https://marketing.verisk.com/wp-content/uploads/2024/01/TMR-Website-Sidebar-Card-24.png)New Episodes Available
             
-            [Download Now](https://www.jornaya.com/lander/report-the-future-of-insurance/)
+            [Listen Now](https://www.jornaya.com/the-marketing-rapport-podcast/)
             
     * * [All Resources](https://www.jornaya.com/category/resources/)
             * [Events](https://www.jornaya.com/eventlisting/event-listing/)
@@ -188,6 +186,14 @@ Discover the data and insights to future-proof omnichannel personalization.
 Additional Resources to Guide You
 ---------------------------------
 
+[](https://marketing.verisk.com/access-consumer-insights-through-snowflake-marketplace/ "Responsibly Enrich First-Party Data Through New Snowflake Native App")![Responsibly Enrich First-Party Data Through New Snowflake Native App](https://marketing.verisk.com/wp-content/uploads/2024/04/snowflake-partner-feature-2-1024x576.png)
+
+#### Responsibly Enrich First-Party Data Through New Snowflake Native App
+
+Seamlessly infuse marketing workflows and advertising strategies with actionable consumer insights. Maintaining the most current and detailed view of your \[…\]
+
+[Read more](https://marketing.verisk.com/access-consumer-insights-through-snowflake-marketplace/ "Read more")
+
 [](https://marketing.verisk.com/how-marketers-can-build-industry-leading-customer-segmentation-strategies/ "How Marketers Can Build Industry-Leading Customer Segmentation Strategies")![How Marketers Can Build Industry-Leading Customer Segmentation Strategies](https://marketing.verisk.com/wp-content/uploads/2024/04/customer-grid-1024x576.jpg)
 
 #### How Marketers Can Build Industry-Leading Customer Segmentation Strategies
@@ -203,14 +209,6 @@ How do you define data accuracy in your customer segmentation strategy? What mak
 You have probably heard by now: The FCC has placed stricter TCPA rules on explicit consent. Marketers must now provide \[…\]
 
 [Read more](https://marketing.verisk.com/lead-generation-experts-weigh-in-on-fccs-new-explicit-consent-rulings/ "Read more")
-
-[](https://marketing.verisk.com/consumer-data-shapes-our-world-and-wallets-heres-how/ "Consumer Data Shapes Our World and Wallets — Here’s How")![Consumer Data Shapes Our World and Wallets — Here's How](https://marketing.verisk.com/wp-content/uploads/2024/02/consumer-data-shaping-world-1024x576.jpg)
-
-#### Consumer Data Shapes Our World and Wallets — Here’s How
-
-“The marketing industry is undergoing a significant transformation, driven by changing consumer expectations and the increasing scrutiny of data privacy \[…\]
-
-[Read more](https://marketing.verisk.com/consumer-data-shapes-our-world-and-wallets-heres-how/ "Read more")
 
 ### Stay connected on the latest from Verisk Marketing Solutions
 
