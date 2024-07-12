@@ -98,10 +98,10 @@ Products
 About Herbalife
 
 * [Our Company](https://www.herbalife.com/en-us/about-herbalife/our-company)
-* [Our Distributors](https://www.herbalife.com/en-us/about-herbalife/our-distributor-difference)
 * [Our Athletes](https://www.herbalife.com/en-us/about-herbalife/our-athletes)
 * [Our Global Impact](https://www.herbalife.com/en-us/about-herbalife/our-global-impact)
 * [Our Experts](https://www.herbalife.com/en-us/about-herbalife/our-experts)
+* [Our Distributors](https://www.herbalife.com/en-us/about-herbalife/our-distributors)
 
       ![FLaytout Menu](/dmassets/hn-one/en-us/hybrid/icons/hamburger_icon.jpg)
 
@@ -404,13 +404,13 @@ About Herbalife
 * [Back](javascript:;)
 * [Our Company](https://www.herbalife.com/en-us/about-herbalife/our-company)
     
-* [Our Distributors](https://www.herbalife.com/en-us/about-herbalife/our-distributor-difference)
-    
 * [Our Athletes](https://www.herbalife.com/en-us/about-herbalife/our-athletes)
     
 * [Our Global Impact](https://www.herbalife.com/en-us/about-herbalife/our-global-impact)
     
 * [Our Experts](https://www.herbalife.com/en-us/about-herbalife/our-experts)
+    
+* [Our Distributors](https://www.herbalife.com/en-us/about-herbalife/our-distributors)
     
 
 Privacy Policy
@@ -423,6 +423,7 @@ Privacy Policy
 4. [Ethics and Compliance](https://www.herbalife.com/en-us/footer/ethics-and-compliance)
 5. [Refund policy](https://www.herbalife.com/en-us/footer/refund-policy)
 6. [Herbalife Terms and Conditions of Purchase](https://www.herbalife.com/en-us/footer/supplier-terms)
+7. [Consumer Health Data](https://www.herbalife.com/en-us/footer/consumer-health-data)
 
 Privacy Policy
 ==============
@@ -445,7 +446,7 @@ For Distributors
 
 [Distributor Login](https://www.myherbalife.com/en-US/) [Business Opportunity](https://www.herbalife.com/en-us/business-opportunity)
 
-[Site Map](https://www.herbalife.com/en-us/sitemap) [Terms of Use](https://www.herbalife.com/en-us/footer/terms-of-use) [Privacy Policy](https://www.herbalife.com/en-us/footer/privacy-policy) [CCPA Supplemental Notice](https://www.herbalife.com/en-us/footer/privacy-policy#CaliforniaSupplement)
+[Site Map](https://www.herbalife.com/en-us/sitemap) [Terms of Use](https://www.herbalife.com/en-us/footer/terms-of-use) [Privacy Policy](https://www.herbalife.com/en-us/footer/privacy-policy) [CCPA Supplemental Notice](https://www.herbalife.com/en-us/footer/privacy-policy#CaliforniaSupplement) [Consumer Health Data](https://www.herbalife.com/en-us/footer/consumer-health-data)
 
 Do Not Sell or Share My Personal Information/Opt-out of Targeted Advertising
 
