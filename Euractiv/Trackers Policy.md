@@ -117,9 +117,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Benefits of selected specialty food ingredients for gut health](https://www.euractiv.com/section/agriculture-food/infographic/benefits-of-selected-specialty-food-ingredients-for-gut-health/)
+    * [Used cooking oil: there is a cobra in the room](https://www.euractiv.com/section/agriculture-food/opinion/used-cooking-oil-there-is-a-cobra-in-the-room/)
     * [REFIT and Reseal: Why the EU Must Uphold the Ban on Trade in Seal Products](https://www.euractiv.com/section/agriculture-food/opinion/refit-and-reseal-why-the-eu-must-uphold-the-ban-on-trade-in-seal-products/)
-    * [As Russia shifts from gas exports to fertilizers, it is time for the EU to act](https://www.euractiv.com/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/)
-    * [Why Europe needs to rethink its pesticide classifications](https://www.euractiv.com/section/agriculture-food/opinion/why-europe-needs-to-rethink-its-pesticide-classifications/)
     
 * [Economy](https://www.euractiv.com/sections/economy-jobs/)
     
@@ -144,8 +144,8 @@ Toggle navigation
     
     ##### Special Reports
     
+    * [Financing and insuring the future](https://www.euractiv.com/section/economy-jobs/special_report/financing-and-insuring-the-future/)
     * [Industrial Competitiveness](https://www.euractiv.com/section/economy-jobs/special_report/industrial-competitiveness/)
-    * [Just Transition](https://www.euractiv.com/section/economy-jobs/special_report/just-transition/)
     * [European resilience and opportunities in the global economy](https://www.euractiv.com/section/economy-jobs/special_report/fnf/)
     
     ##### Promoted Content
@@ -204,11 +204,15 @@ Toggle navigation
     * [Biosolutions – the hi-tech ecosystem accelerating Europe’s Green Deal](https://www.euractiv.com/section/energy-environment/special_report/biosolutions-the-hi-tech-ecosystem-accelerating-europes-green-deal/)
     * [Certification as a tool to reduce greenhouse gas emissions](https://www.euractiv.com/section/energy-environment/special_report/certification-as-a-tool-to-reduce-greenhouse-gas-emissions/)
     
+    ##### Events
+    
+    * 24 September - [Media Partnership - Ensuring Resilience in the European Energy Transition](https://events.euractiv.com/event/info/media-partnership-ensuring-resilience-in-the-european-energy-transition)
+    
     ##### Promoted Content
     
-    * [The Hidden Key to Sustainable Buildings](https://www.euractiv.com/section/energy-environment/opinion/the-hidden-key-to-sustainable-buildings/)
-    * [Charting the Path to Climate Neutrality and Energy Resilience](https://www.euractiv.com/section/energy-environment/opinion/charting-the-path-to-climate-neutrality-and-energy-resilience/)
-    * [The New Council Conclusion on the 8th EAP: A new step towards a Water-Smart Strategy](https://www.euractiv.com/section/energy-environment/opinion/the-new-council-conclusion-on-the-8th-eap-a-new-step-towards-a-water-smart-strategy/)
+    * [From 9 to 45 TWh: Urgent intervention for UHS needed for a cost-effective & swift energy transition](https://www.euractiv.com/section/energy-environment/opinion/from-9-to-45-twh-urgent-intervention-for-uhs-needed-for-a-cost-effective-swift-energy-transition/)
+    * [Biodiversity problems, power sector solutions](https://www.euractiv.com/section/energy-environment/opinion/biodiversity-problems-power-sector-solutions/)
+    * [Decarbonising district heating will require power-to-heat technology](https://www.euractiv.com/section/energy-environment/opinion/decarbonising-district-heating-will-require-power-to-heat-technology/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -289,17 +293,17 @@ Toggle navigation
     
     ##### Special Reports
     
+    * [Europe’s personalised medicine sector boosted by Sino-EU PerMed project](https://www.euractiv.com/section/health-consumers/special_report/europes-peronalised-medicines-sector-boosted-by-sino-eu-permed-project/)
     * [Alzheimer’s Disease: detection, diagnosis, treatment](https://www.euractiv.com/section/health-consumers/special_report/alzheimers-disease-detection-diagnosis-treatment/)
     * [Europe needs new 360 rare diseases strategy](https://www.euractiv.com/section/health-consumers/special_report/europe-needs-new-360-rare-diseases-strategy/)
     * [Diabetes care in Europe: The path forward](https://www.euractiv.com/section/health-consumers/special_report/diabetes-care-in-europe-the-path-forward/)
     * [Transplantation in the EU: From the waiting lists to post-transplantation journey](https://www.euractiv.com/section/health-consumers/special_report/transplantation-in-the-eu-from-the-waiting-lists-to-post-transplantation-journey/)
-    * [The complexity and rewards of gene treatments for rare diseases](https://www.euractiv.com/section/health-consumers/special_report/the-complexity-and-rewards-of-gene-treatments-for-rare-diseases/)
     
     ##### Promoted Content
     
-    * [Future of health: Time for Europe to connect the dots](https://www.euractiv.com/section/health-consumers/opinion/future-of-health-time-for-europe-to-connect-the-dots/)
-    * [EHPM 2024-2029 Manifesto: Together for healthy citizens and a prosperous economy in the EU](https://www.euractiv.com/section/health-consumers/video/ehpm-2024-2029-manifesto-together-for-healthy-citizens-and-a-prosperous-economy-in-the-eu/)
-    * [Beating cancer in Europe: A health priority within our grasp](https://www.euractiv.com/section/health-consumers/opinion/beating-cancer-in-europe-a-health-priority-within-our-grasp/)
+    * [Unlocking Access: Implementing Innovative Policies to Remove Barriers to Fertility Treatment](https://www.euractiv.com/section/health-consumers/opinion/unlocking-access-implementing-innovative-policies-to-remove-barriers-to-fertility-treatment/)
+    * [Inclusion is still a problem in museums, an app is trying to fill the gap](https://www.euractiv.com/section/digital/opinion/inclusion-is-still-a-problem-in-museums-an-app-is-trying-to-fill-the-gap/)
+    * [Europe-China cooperation in personalised medicine: paving the way for a scientific common path](https://www.euractiv.com/section/health-consumers/opinion/europe-china-cooperation-in-personalised-medicine-paving-the-way-for-a-scientific-common-path/)
     
 * [Politics](https://www.euractiv.com/sections/politics/)
     
@@ -371,9 +375,9 @@ Toggle navigation
     
     ##### Promoted Content
     
-    * [Do We Have All the Right Networks for the Future?](https://www.euractiv.com/section/digital/opinion/do-we-have-all-the-right-networks-for-the-future/)
-    * [How Open Digital Ecosystems Can Boost Europe’s Competitiveness](https://www.euractiv.com/section/digital/opinion/how-open-digital-ecosystems-can-boost-europes-competitiveness/)
-    * [A New Era for Business – E-invoicing as the Critical Enabler of Europe’s Digital and Competitive Growth](https://www.euractiv.com/section/digital/opinion/a-new-era-for-business-e-invoicing-as-the-critical-enabler-of-europes-digital-and-competitive-growth/)
+    * [Electronics Manufacturing: The Achilles’ Heel of EU Strategic Autonomy](https://www.euractiv.com/section/digital/opinion/electronics-manufacturing-the-achilles-heel-of-eu-strategic-autonomy/)
+    * [Inclusion is still a problem in museums, an app is trying to fill the gap](https://www.euractiv.com/section/digital/opinion/inclusion-is-still-a-problem-in-museums-an-app-is-trying-to-fill-the-gap/)
+    * [The Imperative of Net Neutrality for Europe’s Startup Ecosystem](https://www.euractiv.com/section/digital/opinion/the-imperative-of-net-neutrality-for-europes-startup-ecosystem/)
     
 * [Transport](https://www.euractiv.com/sections/transport/)
     
@@ -465,16 +469,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 
 ### Most read articles
 
-* 1[As Russia shifts from gas exports to fertilizers, it is time for the EU to act](http://en.euractiv.eu/section/agriculture-food/opinion/as-russia-shifts-from-gas-exports-to-fertilizers-it-is-time-for-the-eu-to-act/?utm_source=website&utm_campaign=popular)
-* 2[EU countries rubberstamp Nature Restoration Law after months of deadlock](http://en.euractiv.eu/section/agriculture-food/news/breaking-eu-countries-rubberstamp-nature-restoration-law-after-months-of-deadlock/?utm_source=website&utm_campaign=popular)
-* 3[EU 'not worried' as China probes bloc's pork imports](http://en.euractiv.eu/section/agriculture-food/news/eu-not-worried-as-china-probes-blocs-pork-imports/?utm_source=website&utm_campaign=popular)
-* 4[China tells US it would prevail in a Taiwan conflict without using nukes](http://en.euractiv.eu/section/china/news/china-tells-us-it-would-prevail-in-a-taiwan-conflict-without-using-nukes/?utm_source=website&utm_campaign=popular)
-* 5[Putin to visit Vietnam, sparking US rebuke of Hanoi](http://en.euractiv.eu/section/global-europe/news/putin-to-visit-vietnam-sparking-us-rebuke-of-hanoi/?utm_source=website&utm_campaign=popular)
-* 6[Europe's solar power surge hits prices, exposing storage needs](http://en.euractiv.eu/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/?utm_source=website&utm_campaign=popular)
-* 7[Nature restoration: Austrian conservatives charge Gewessler for abuse of office](http://en.euractiv.eu/section/energy-environment/news/nature-restoration-austrian-conservatives-charge-gewessler-for-abuse-of-office/?utm_source=website&utm_campaign=popular)
-* 8[Why EU leaders were forced to delay the bloc’s top job deal](http://en.euractiv.eu/section/elections/news/why-eu-leaders-were-forced-to-delay-the-blocs-top-job-deal/?utm_source=website&utm_campaign=popular)
-* 9[EU approves 14th Russia sanctions package, includes first-ever LNG sector measures](http://en.euractiv.eu/section/eu-russia/news/eu-approves-14th-russia-sanctions-package-includes-first-ever-lng-sector-measures/?utm_source=website&utm_campaign=popular)
-* 10[EU leaders expected to agree to top job 'package deal' over dinner](http://en.euractiv.eu/section/elections/news/eu-leaders-expected-to-agree-to-top-job-package-deal-over-dinner/?utm_source=website&utm_campaign=popular)
+* 1[XNXX joins list of porn sites subject to EU digital rulebook](http://en.euractiv.eu/section/platforms/news/xnxx-joins-list-of-porn-sites-subject-to-eu-digital-rulebook/?utm_source=website&utm_campaign=popular)
+* 2[Germany embarks on 'radical change' to finance renewables](http://en.euractiv.eu/section/energy-environment/news/germany-embarks-on-radical-change-to-finance-renewables/?utm_source=website&utm_campaign=popular)
+* 3[Ukraine navy chief says Russia is losing Crimean hub in Black Sea](http://en.euractiv.eu/section/global-europe/news/ukraine-navy-chief-says-russia-is-losing-crimean-hub-in-black-sea/?utm_source=website&utm_campaign=popular)
+* 4[Pro-EU forces to block ‘Patriots’ in Parliament, ECR from rule of law committee](http://en.euractiv.eu/section/politics/news/pro-eu-forces-to-block-patriots-in-parliament-ecr-from-rule-of-law-committee/?utm_source=website&utm_campaign=popular)
+* 5[Orbán and Le Pen form new far-right group ‘Patriots for Europe’](http://en.euractiv.eu/section/politics/news/orban-and-le-pen-form-new-far-right-group-patriots-for-europe/?utm_source=website&utm_campaign=popular)
+* 6[French far-right RN set to join Orbán's 'Patriots for Europe'](http://en.euractiv.eu/section/eu-institutions/news/le-rn-devrait-rejoindre-le-groupe-de-viktor-orban-au-parlement-europeen/?utm_source=website&utm_campaign=popular)
+* 7[EU member states lash out at Hungary over rogue Ukraine diplomacy](http://en.euractiv.eu/section/europe-s-east/news/eu-member-states-lash-out-at-hungary-over-rogue-ukraine-diplomacy/?utm_source=website&utm_campaign=popular)
+* 8[EU member states to seek clarity on Hungary's Russia, China shuttle diplomacy](http://en.euractiv.eu/section/eu-russia/news/eu-member-states-seek-clarity-on-hungarys-russia-china-shuttle-diplomacy/?utm_source=website&utm_campaign=popular)
+* 9[French elections: Major surprise as left coalition on course to beat far right](http://en.euractiv.eu/section/elections/news/french-elections-major-surprise-as-left-coalition-on-course-to-beat-far-right/?utm_source=website&utm_campaign=popular)
+* 10[From Trump-whisperer to NATO chief: Rutte's task to navigate troubled waters](http://en.euractiv.eu/section/defence-and-security/news/from-trump-whisperer-to-nato-chief-ruttes-task-to-navigate-troubled-waters/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
