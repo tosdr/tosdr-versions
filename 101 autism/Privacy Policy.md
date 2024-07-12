@@ -56,56 +56,13 @@
 * [101 Autism – Living with Autism – Autism Resources for Daylife](https://101autism.com/)
 * [Autism Journeys: Personal Stories and Insights](https://101autism.com/autism/personal/ "Autism Journeys")
 
-* [Understanding Autism](https://101autism.com/understanding-autism-a-comprehensive-guide-for-parents-and-educators/ "Understanding Autism: A Comprehensive Guide for Parents and Educators")
-    * [What are the causes of Autism?](https://101autism.com/understanding-autism/factors-that-cause-autism/)
-    * [What You need to Know About the Risk Factors for Autism – Who is at risk?](https://101autism.com/understanding-autism/greatest-risk-factors-for-autism/)
-    * [Autistic Commons](https://101autism.com/symptoms-of-autism/common-things-found-in-autistic-people/)
-    * [Understanding Autism: Who Can Diagnose It?](https://101autism.com/understanding-autism-who-can-diagnose-it/)
-    * [Understanding Autism in Adults: Signs, Diagnosis, and Support](https://101autism.com/understanding-autism-in-adults-signs-diagnosis-and-support/)
-    * [Understanding Autism in Girls: A Comprehensive Guide](https://101autism.com/understanding-autism-in-girls-a-comprehensive-guide/)
-    * [What is the effect of Autism on families?](https://101autism.com/treatment-options-for-asd/does-autism-effect-families/)
-* [Autism Symptoms](https://101autism.com/symptoms-of-autism/)
-    * [Autism Early signs](https://101autism.com/symptoms-of-autism/early-signs-shown-by-autistic-children/)
-    * [Childhood Symptoms](https://101autism.com/symptoms-of-autism/symptoms-shown-in-childhood/)
-    * [Signs of Autism in Children:](https://101autism.com/symptoms-of-autism/symptoms-shown-in-childhood/)
-    * [Symptoms Videos](https://101autism.com/autism/symptoms/)
-    * [Adulthood symptoms](https://101autism.com/symptoms-of-autism/adulthood-symptoms/)
-    * [Other symptoms](https://101autism.com/symptoms-of-autism/other-symptoms-of-autism/)
-    * [Evaluation](https://101autism.com/symptoms-of-autism/having-an-evaluation-done/)
-* [Diagnosing Autism](https://101autism.com/diagnosing-autism/)
-    * [Frequently Asked Questions About Autism Diagnosis: A Guide for Parents](https://101autism.com/frequently-asked-questions-about-autism-diagnosis-a-guide-for-parents/)
-    * [Diagnostic criteria](https://101autism.com/diagnosing-autism/diagnostic-criteria-for-autism/)
-    * [Aspergers criteria](https://101autism.com/diagnosing-autism/diagnositc-criteria-for-asperger-disorder/)
-    * [Take The AQ Test](https://101autism.com/quiz/)
-    * [Accuracy of the Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS-R) Test](https://101autism.com/accuracy-of-the-ritvo-autism-asperger-diagnostic-scale-revised-raads-r-test/)
-    * [The Ritvo Autism & Asperger Diagnostic Scale (RAADS-14): everything you need to know](https://101autism.com/the-ritvo-autism-asperger-diagnostic-scale-raads-14-everything-you-need-to-know/)
-    * [Can a school psychologist diagnose autism](https://101autism.com/can-a-school-psychologist-diagnose-autism/)
-    * [African American and Hispanic children were less likely to be diagnosed with ASD than white children](https://101autism.com/african-american-and-hispanic-children-were-less-likely-to-be-diagnosed-with-asd-than-white-children/)
-    * [10 Essential Books for Parents Navigating an Autism Diagnosis](https://101autism.com/10-essential-for-parents-navigating-an-autism-diagnosis/)
-    * [Kids with Autism May Be Diagnosed with ADHD](https://101autism.com/kids-with-autism-may-be-over-diagnosed-with-adhd/)
-* [Treatment Options for ASD:](https://101autism.com/treatment-options-for-asd/)
-    * [Adolescence](https://101autism.com/treatment-options-for-asd/the-years-of-adolescence/)
-    * [Dietary](https://101autism.com/treatment-options-for-asd/dietary-and-other-involvements/)
-    * [Medications](https://101autism.com/treatment-options-for-asd/medications-that-are-used-in-treatment/)
-    * [Autism Depression and Anxiety](https://101autism.com/treatment-options-for-asd/depression-and-anxiety/)
-    * [Behavioral Problems Among Autistic People and How to Take Care of Them](https://101autism.com/treatment-options-for-asd/behavioral-problems/)
-    * [Inattention Hyperactivity](https://101autism.com/treatment-options-for-asd/inattention-and-hyperactivity/)
-    * [Psychotropic medication use in autism spectrum disorders](https://101autism.com/treatment-options-for-asd/psychotropic-drugs-simply-decrease-the-symptoms-they-do-not-remove-them-completely/)
-    * [Treatment for Autistic Children: A Parent-Focused Approach](https://101autism.com/treatment-options-for-asd/principles-of-treatment/)
-    * [Symptoms](https://101autism.com/autism/symptoms/)
-* [Autism Resources](https://101autism.com/autism/autism-resources/)
-    * [Autism Schools](https://101autism.com/autism/schools/)
-    * [Latest Autism News and Research](https://101autism.com/autism/autism-news/)
-    * [Opinion for the Autistic community](https://101autism.com/autism/opinion-for-the-autistic-community/)
-    * [Good for people with autism](https://101autism.com/autism/opinion-for-the-autistic-community/good-for-people-with-autism/)
-    * [Games for autistic kids](https://101autism.com/autism/opinion-for-the-autistic-community/good-for-people-with-autism/games-for-autistic-kids/)
-    * [Toilet Training for autistic kids](https://101autism.com/autism/toilet-training-for-autistic-kids/)
-        * [The complete toilet training pack for an autistic child](https://101autism.com/the-complete-toilet-training-pack/)
-    * [Weighted Blanket For Autism](https://101autism.com/autism/opinion-for-the-autistic-community/good-for-people-with-autism/weighted-blanket-for-autism/)
-    * [Autism Reality](https://101autism.com/autism/autism-reality/)
-    * [Autism Insurance Advice](https://101autism.com/autism/autism-insurance/)
-* [101 Autism – Living with Autism – Autism Resources for Daylife](https://101autism.com/)
-* [Autism Journeys: Personal Stories and Insights](https://101autism.com/autism/personal/ "Autism Journeys")
+* [Home](https://101autism.com/)
+* [About Us – 101Autism](https://101autism.com/about/)
+* [Autism Essentials: Products to Support Everyday Life](https://101autism.com/autism-products/)
+* [News](https://101autism.com/autism/autism_news/)
+* [Autism Jobs](https://101autism.com/autism-jobsautism-friendly-job-opportunities/ "Autism-Friendly Job Opportunities")
+* [Contact Us](https://101autism.com/contact-us/)
+* [Privacy policy](https://101autism.com/privacy-policy-for-101-autism/ "Privacy policy")
 
 Search for:  
 
@@ -223,11 +180,11 @@ Follow:
 
 ### Advertisement
 
-* [Understanding the Autism Diagnostic Observation Schedule (ADOS)](https://101autism.com/understanding-the-autism-diagnostic-observation-schedule-ados/)
-* [Understanding Autism in Girls: A Comprehensive Guide](https://101autism.com/understanding-autism-in-girls-a-comprehensive-guide/)
-* [Does Autism Have Physical Signs?](https://101autism.com/does-autism-have-physical-signs/)
-* [Worst States for Autism Services: A Comprehensive Analysis](https://101autism.com/worst-states-for-autism-services-a-comprehensive-analysis/)
-* [Measuring Camouflaging in Autism with the CAT-Q](https://101autism.com/measuring-camouflaging-in-autism-with-the-cat-q/)
+* [Toyk Aqua Magic Mat: Mess-Free Educational Drawing Fun](https://101autism.com/toyk-aqua-magic-mat-mess-free-educational-drawing-fun/)
+* [Autism Support Groups Across the United States](https://101autism.com/autism-support-groups-across-the-united-states/)
+* [Autism Diet Plan: Evidence-Based Nutrition Strategies for ASD Management](https://101autism.com/autism-diet-plan-evidence-based-nutrition-strategies-for-asd-management/)
+* [Am I Autistic? A Comprehensive Guide to Autism Quizzes and Tests in 2024](https://101autism.com/am-i-autistic-a-comprehensive-guide-to-autism-quizzes-and-tests-in-2024/)
+* [Autism-Friendly Job Opportunities](https://101autism.com/autism-jobsautism-friendly-job-opportunities/)
 
 [![weighted blankets for autism](https://static.shareasale.com/image/64644/littlegirlinpink.jpeg)](https://shareasale.com/r.cfm?b=1905074&u=475781&m=64644&urllink=&afftrack=)
 
@@ -239,7 +196,7 @@ Search for:
 
 ### Tags
 
-[ADHD](https://101autism.com/tag/adhd/) [adult](https://101autism.com/tag/adult/) [ASD](https://101autism.com/tag/asd/) [Asperger](https://101autism.com/tag/asperger/) [Autism](https://101autism.com/tag/autism/) [autism awareness](https://101autism.com/tag/autism-awareness/) [autism schools](https://101autism.com/tag/autism-schools/) [Autism schools By State](https://101autism.com/tag/autism-schools-by-state/) [autism spectrum disorder](https://101autism.com/tag/autism-spectrum-disorder/) [Autistic](https://101autism.com/tag/autistic/) [autistic children](https://101autism.com/tag/autistic-children/) [Auto](https://101autism.com/tag/auto/) [behavior](https://101autism.com/tag/behavior/) [child](https://101autism.com/tag/child/) [Children](https://101autism.com/tag/children/) [children with autism](https://101autism.com/tag/children-with-autism/) [com](https://101autism.com/tag/com/) [Day](https://101autism.com/tag/day/) [diagnosis](https://101autism.com/tag/diagnosis/) [disorder](https://101autism.com/tag/disorder/) [Draft](https://101autism.com/tag/draft/) [education](https://101autism.com/tag/education/) [family](https://101autism.com/tag/family/) [love](https://101autism.com/tag/love/) [parents](https://101autism.com/tag/parents/) [PDD-NOS](https://101autism.com/tag/pdd-nos/) [People](https://101autism.com/tag/people/) [potty](https://101autism.com/tag/potty/) [reality](https://101autism.com/tag/reality/) [school](https://101autism.com/tag/school/) [school for autistic children](https://101autism.com/tag/school-for-autistic-children/) [schools](https://101autism.com/tag/schools/) [SENSORY](https://101autism.com/tag/sensory/) [signs](https://101autism.com/tag/signs/) [spectrum](https://101autism.com/tag/spectrum/) [study](https://101autism.com/tag/study/) [Symptoms](https://101autism.com/tag/symptoms/) [test](https://101autism.com/tag/test/) [Therapy](https://101autism.com/tag/therapy/) [toilet training](https://101autism.com/tag/toilet-training/) [toys](https://101autism.com/tag/toys/) [toys for autistic children](https://101autism.com/tag/toys-for-autistic-children/) [training](https://101autism.com/tag/training/) [treatment](https://101autism.com/tag/treatment/) [www](https://101autism.com/tag/www/)
+[ADHD](https://101autism.com/tag/adhd/) [adult](https://101autism.com/tag/adult/) [advocacy](https://101autism.com/tag/advocacy/) [ASD](https://101autism.com/tag/asd/) [Asperger](https://101autism.com/tag/asperger/) [Autism](https://101autism.com/tag/autism/) [autism awareness](https://101autism.com/tag/autism-awareness/) [autism schools](https://101autism.com/tag/autism-schools/) [Autism schools By State](https://101autism.com/tag/autism-schools-by-state/) [autism spectrum disorder](https://101autism.com/tag/autism-spectrum-disorder/) [Autistic](https://101autism.com/tag/autistic/) [autistic children](https://101autism.com/tag/autistic-children/) [Auto](https://101autism.com/tag/auto/) [behavior](https://101autism.com/tag/behavior/) [child](https://101autism.com/tag/child/) [Children](https://101autism.com/tag/children/) [children with autism](https://101autism.com/tag/children-with-autism/) [com](https://101autism.com/tag/com/) [Day](https://101autism.com/tag/day/) [diagnosis](https://101autism.com/tag/diagnosis/) [disorder](https://101autism.com/tag/disorder/) [Draft](https://101autism.com/tag/draft/) [education](https://101autism.com/tag/education/) [family](https://101autism.com/tag/family/) [love](https://101autism.com/tag/love/) [parents](https://101autism.com/tag/parents/) [People](https://101autism.com/tag/people/) [potty](https://101autism.com/tag/potty/) [reality](https://101autism.com/tag/reality/) [school](https://101autism.com/tag/school/) [school for autistic children](https://101autism.com/tag/school-for-autistic-children/) [schools](https://101autism.com/tag/schools/) [SENSORY](https://101autism.com/tag/sensory/) [signs](https://101autism.com/tag/signs/) [spectrum](https://101autism.com/tag/spectrum/) [study](https://101autism.com/tag/study/) [Symptoms](https://101autism.com/tag/symptoms/) [test](https://101autism.com/tag/test/) [Therapy](https://101autism.com/tag/therapy/) [toilet training](https://101autism.com/tag/toilet-training/) [toys](https://101autism.com/tag/toys/) [toys for autistic children](https://101autism.com/tag/toys-for-autistic-children/) [training](https://101autism.com/tag/training/) [treatment](https://101autism.com/tag/treatment/) [www](https://101autism.com/tag/www/)
 
 101Autism.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
 
