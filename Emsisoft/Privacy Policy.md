@@ -347,7 +347,7 @@ We are publishing this Transparency Report on whether we have received governmen
 
 We believe it is important to let our users know in cases we are required to disclose information with governments.
 
-As of today, June 21, 2024, we can confirm that:
+As of today, July 12, 2024, we can confirm that:
 
 * Emsisoft has never modified its software for the purpose of collecting data due to political pressure.
 * Emsisoft has never modified its software to prevent detection of any malicious software due to political pressure.
@@ -451,7 +451,7 @@ Yes. Please download and sign the [Emsisoft Data Processing Agreement](https://w
 
 [](https://www.emsisoft.com/en/ "Emsisoft")
 
-[© 2003-2024 Emsisoft - 06/21/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
+[© 2003-2024 Emsisoft - 07/12/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
 
 * [English](#)
     * [English](https://www.emsisoft.com/en/privacy/)
