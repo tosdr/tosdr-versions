@@ -143,6 +143,58 @@ Protože jsou statistiky sledovány anonymně, není vyžadováno žádné povol
 6\. Umístěné cookies
 --------------------
 
+### WordPress
+
+Funkční
+
+Consent to service wordpress 
+
+#### Užívání
+
+Používáme WordPress pro website development.
+
+#### Sdílení údajů
+
+Tato data nejsou sdílena s třetími stranami.
+
+#### Funkční
+
+##### Název
+
+WP\_DATA\_USER\_\*
+
+##### Expirace
+
+session
+
+##### Funkce
+
+Store user preferences
+
+##### Název
+
+wordpress\_test\_cookie
+
+##### Expirace
+
+session
+
+##### Funkce
+
+Read if cookies can be placed
+
+##### Název
+
+wordpress\_logged\_in\_\*
+
+##### Expirace
+
+trvalé
+
+##### Funkce
+
+Store logged in users
+
 ### Google Analytics
 
 Statistiky
@@ -645,6 +697,14 @@ dracula\_mode\_admin
 
 ##### Funkce
 
+##### Název
+
+dracula\_last\_review\_popup
+
+##### Expirace
+
+##### Funkce
+
 7\. Souhlas
 -----------
 
@@ -697,7 +757,7 @@ Telefonní číslo: 724501041
   
 SEO specialista a copywriter Daniel Beránek  
 _SEO a copy_  
-Křenová 79, 602 00 Brno  
+Vachova 36/1, 602 00 Brno  
 [724 501 041](tel:724501041)  
 [danielberanek@gmail.com](mailto:danielberanek%40gmail.com)  
 [danielberanek.cz](https://danielberanek.cz/ "SEO specialista Daniel Beránek")  
