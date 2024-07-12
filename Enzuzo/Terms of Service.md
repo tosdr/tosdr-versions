@@ -1,56 +1,59 @@
 [Skip to content](#main-content)
 
-[Discover if Enzuzo is a good fit for your business 👋 Book a Demo →](https://www.enzuzo.com/demo)
+[![Enzuzo Logo](https://www.enzuzo.com/hubfs/Enzuzo%20Logo.svg "Enzuzo Logo")](https://www.enzuzo.com/)
 
-[![Enzuzo Logo](https://www.enzuzo.com/hs-fs/hubfs/Frame%203%20(7).png?width=121&height=18&name=Frame%203%20(7).png "Enzuzo Logo")](https://www.enzuzo.com/)
-
+* [Products](https://www.enzuzo.com/)
+    
+    #### Build a privacy program
+    
+    * [Manage Data Requests (DSARs)](https://www.enzuzo.com/dsar-software)
+    * [Data Mapping](https://www.enzuzo.com/enterprise)
+    * [Privacy Impact Assessment](https://www.enzuzo.com/enterprise)
+    * [Vendor Risk Management](https://www.enzuzo.com/enterprise)
+    
+    #### Consent management
+    
+    * [Consent Management](https://www.enzuzo.com/consent-management-software)
+    * [Cookie Banner Generator](https://www.enzuzo.com/cookie-banner-generator)
+    * [Google Consent Mode](https://www.enzuzo.com/google-consent-mode-certified-cmp)
+    
+    #### Business legal policies
+    
+    * [Privacy Policy Generator](https://www.enzuzo.com/privacy-policy-generator)
+    * [Terms of Service Generator](https://www.enzuzo.com/terms-of-service-generator)
+    * [End User License Agreement](https://www.enzuzo.com/eula-generator)
+    * [Subscription Services Agreement](https://www.enzuzo.com/subscription-services-agreement-generator)
+    * [Returns Policy Generator](https://www.enzuzo.com/return-policy-generator)
+    * [Shipping Policy Generator](https://www.enzuzo.com/return-policy-generator)
+    
+    #### Integrations
+    
+    * [Shopify App](https://www.enzuzo.com/shopify-plus)
+    * [Webflow Consent Plugin](https://www.enzuzo.com/webflow-cookie-consent-plugin)
+    
 * [Solutions](https://www.enzuzo.com/)
     
     * [Privacy Policy Generator](https://www.enzuzo.com/ecommerce-privacy-policy-generator)
     * [Cookie Banner Generator](https://www.enzuzo.com/cookie-banner-generator)
     * [Terms of Service Generator](https://www.enzuzo.com/terms-of-service-generator)
     
-    #### Enzuzo For
+    #### By Industry
     
+    * [Ecommerce / Retail](https://www.enzuzo.com/ecommerce-retail)
+    * [Agency](https://www.enzuzo.com/agencies)
+    * [Mobile Apps](https://www.enzuzo.com/mobile-apps)
     * [Enterprise](https://www.enzuzo.com/enterprise)
-    * [Agencies](https://www.enzuzo.com/agencies)
-    * [Ecommerce](https://www.enzuzo.com/ecommerce-retail)
     * [Shopify Plus](https://www.enzuzo.com/shopify-plus)
-    * [Mobile and Web Apps](https://www.enzuzo.com/mobile-apps)
-    * [Partner / Reseller](https://www.enzuzo.com/partner-reseller)
     
-    #### Regulations
+    #### By Regulation
     
     * [GDPR](https://www.enzuzo.com/gdpr-compliance-software)
-    * [CCPA/CPRA](https://www.enzuzo.com/ccpa-compliance-software)
-    * [LGPD](https://www.enzuzo.com/lgpd-compliance-software)
-    * [Quebec Law 25](https://www.enzuzo.com/quebec-law-25-compliance-software)
+    * [California's CCPA/CPRA](https://www.enzuzo.com/ccpa-compliance-software)
+    * [Brazil's LGPD](https://www.enzuzo.com/lgpd-compliance-software)
+    * [Quebec's Law 25](https://www.enzuzo.com/quebec-law-25-compliance-software)
     * [PDPL](https://www.enzuzo.com/saudi-arabia-pdpl-compliance-software)
     
-* [Products](https://www.enzuzo.com/)
-    
-    #### Compliance
-    
-    * [Consent Management](https://www.enzuzo.com/consent-management-software)
-    * [Manage Data Requests (DSARs)](https://www.enzuzo.com/dsar-software)
-    * [Data Mapping](https://www.enzuzo.com/enterprise)
-    * [Privacy Impact Assessment](https://www.enzuzo.com/enterprise)
-    * [Vendor Risk Management](https://www.enzuzo.com/enterprise)
-    * [Website Compliance Scanner](https://www.enzuzo.com/privacy-compliance-scanner)
-    
-    #### Legal Policies
-    
-    * [Privacy Policy Generator](https://www.enzuzo.com/privacy-policy-generator)
-    * [Terms of Service Generator](https://www.enzuzo.com/terms-of-service-generator)
-    * [Cookie Banner Generator](https://www.enzuzo.com/cookie-banner-generator)
-    * [Returns Policy Generator](https://www.enzuzo.com/return-policy-generator)
-    * [Shipping Policy Generator](https://www.enzuzo.com/return-policy-generator)
-    * [End User License Agreement (EULA)](https://www.enzuzo.com/eula-generator)
-    * [Subscription Services Agreement](https://www.enzuzo.com/subscription-services-agreement-generator)
-    * [Webflow Cookie Consent Plugin](https://www.enzuzo.com/webflow-cookie-consent-plugin)
-    
-    [![Compliance Checklist Cover (7)](https://www.enzuzo.com/hs-fs/hubfs/Compliance%20Checklist%20Cover%20(7).png?width=217&height=280&name=Compliance%20Checklist%20Cover%20(7).png)](https://www.enzuzo.com/data-privacy-compliance-checklist)
-    
+* [Pricing](https://www.enzuzo.com/pricing)
 * [Resources](https://www.enzuzo.com/)
     
     * [Privacy Compliance Scanner](https://www.enzuzo.com/privacy-compliance-scanner)
@@ -60,31 +63,27 @@
     * [Website Compliance Scanner](https://www.enzuzo.com/privacy-compliance-scanner)
     * [Help Center](https://help.enzuzo.com/en/)
     
-    #### Learn
+    #### Powered by enzuzo
+    
+    * [Customer Showcase](https://www.enzuzo.com/showcase)
+    * [Case Studies](https://www.enzuzo.com/case-studies)
+    * [Become a partner / reseller](https://www.enzuzo.com/partner-reseller)
+    * [Affiliate program](https://www.enzuzo.com/partner-reseller)
+    
+    #### Become an expert
     
     * [Blog](https://www.enzuzo.com/blog)
-    * [What Is Enzuzo?](https://www.enzuzo.com/what-is-enzuzo)
-    * [Privacy 101 Guides](https://www.enzuzo.com/learn)
+    * [Support Center](https://help.enzuzo.com/en)
+    * [Privacy 101](https://www.enzuzo.com/learn)
     * [Legal Glossary](https://www.enzuzo.com/glossary)
+    * [What Is Enzuzo?](https://www.enzuzo.com/what-is-enzuzo)
+    * [Free Website Compliance Scanner](https://www.enzuzo.com/privacy-compliance-scanner)
     
-    #### Get Inspired
-    
-    * [Case Studies](https://www.enzuzo.com/case-studies)
-    
-    #### Support
-    
-    * [Help Center](https://help.enzuzo.com/en)
-    * [Request a Demo](https://www.enzuzo.com/demo)
-    * [Contact Us](https://www.enzuzo.com/contact)
-    
-    [![Compliance Checklist Cover (5)](https://www.enzuzo.com/hs-fs/hubfs/Compliance%20Checklist%20Cover%20(5).png?width=210&height=272&name=Compliance%20Checklist%20Cover%20(5).png)](https://www.enzuzo.com/enzuzo-case-study-beacn)
-    
-* [Pricing](https://www.enzuzo.com/pricing)
-* [Demo](https://www.enzuzo.com/demo)
-* [Login](https://app.enzuzo.com/login)
-* [Start For Free](https://app.enzuzo.com/register)
+* [Log in](https://app.enzuzo.com/login)
+* [Get a demo](https://www.enzuzo.com/demo)
+* [Create a free account](https://app.enzuzo.com/register)
 
-[Login](https://app.enzuzo.com/login) [Start For Free](https://app.enzuzo.com/register)
+[Log in](https://app.enzuzo.com/login) [Get a demo](https://www.enzuzo.com/demo) [Create a free account](https://app.enzuzo.com/register)
 
    
 
