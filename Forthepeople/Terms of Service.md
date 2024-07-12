@@ -1,10 +1,8 @@
-![hidden overlay](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)
-
-[Skip to main content](#main-content)
-
-Call Us Today - It's Free!+18776674265
+![hidden overlay](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+) [Skip to main content](#main-content)
 
 [](https://www.forthepeople.com/)
+
+##### Main navigation
 
 * Locations
     * Alabama
@@ -42,7 +40,6 @@ Call Us Today - It's Free!+18776674265
         * [Ocala](https://www.forthepeople.com/office-locations/florida/ocala/)
         * [Orange Park](https://www.forthepeople.com/office-locations/florida/orange-park/)
         * [Orlando](https://www.forthepeople.com/office-locations/florida/orlando/)
-        * [Orlando: Pine Hills](https://www.forthepeople.com/office-locations/florida/orlando-pine-hills/)
         * [Orlando: South Semoran](https://www.forthepeople.com/office-locations/florida/orlando-south-semoran/)
         * [Palm Harbor](https://www.forthepeople.com/office-locations/florida/palm-harbor/)
         * [Panama City](https://www.forthepeople.com/office-locations/florida/panama-city/)
@@ -71,11 +68,11 @@ Call Us Today - It's Free!+18776674265
     * [Hawaii](https://www.forthepeople.com/office-locations/hawaii/honolulu/)
     * [Idaho](https://www.forthepeople.com/office-locations/idaho/boise/)
     * [Illinois](https://www.forthepeople.com/office-locations/illinois/chicago/)
+    * [Iowa](https://www.forthepeople.com/office-locations/iowa/des-moines/)
+    * [Kansas](https://www.forthepeople.com/office-locations/kansas/wichita/)
     * Indiana
         * [Indianapolis](https://www.forthepeople.com/office-locations/indiana/indianapolis/)
         * [New Albany](https://www.forthepeople.com/office-locations/indiana/new-albany/)
-    * [Iowa](https://www.forthepeople.com/office-locations/iowa/des-moines/)
-    * [Kansas](https://www.forthepeople.com/office-locations/kansas/wichita/)
     * Kentucky
         * [Bowling Green](https://www.forthepeople.com/office-locations/kentucky/bowling-green/)
         * [Covington](https://www.forthepeople.com/office-locations/kentucky/covington/)
@@ -146,20 +143,6 @@ Call Us Today - It's Free!+18776674265
     * [Wyoming](https://www.forthepeople.com/office-locations/wyoming/cheyenne/)
     * [View All Locations](https://www.forthepeople.com/office-locations/)
 * Practice Areas
-    * Car Accidents
-        * [Car Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/)
-        * [Motorcycle Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/motorcycle-accident-attorneys/)
-        * [Truck Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/trucking-accident-attorneys/)
-        * [Bike Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/bike-accidents/)
-        * [Train & Railroad Accidents](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/train-accident-attorneys/)
-        * [Plane Crashes](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/aviation-attorneys/)
-        * [Cruise Ship Injuries](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/maritime-admiralty-attorneys/cruise-ship/)
-        * [Helicopter Crashes](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/aviation-attorneys/helicopter-crash-attorney/)
-        * [Tesla Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/tesla/fires/)
-        * [Scooter Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/scooter-accident-lawyers/)
-        * [Golf Cart Wrecks](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/golf-cart-accident-lawyers/)
-        * [Pedestrian Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/pedestrian-accidents/)
-        * [ATV Accidents](https://www.forthepeople.com/practice-areas/product-liability-attorneys/atv/)
     * Personal Injury
         * [Personal Injury](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/)
         * [Auto Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/)
@@ -172,6 +155,7 @@ Call Us Today - It's Free!+18776674265
         * [Bus Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/bus-accidents/)
         * [Cell Tower Accidents](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/cell-tower-accident-lawyers/)
         * [Child Sexual Abuse](https://www.forthepeople.com/practice-areas/child-sexual-abuse/)
+        * [Cruise Ship Injuries](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/maritime-admiralty-attorneys/cruise-ship/)
         * [Dog Bite](https://www.forthepeople.com/practice-areas/slip-and-fall-attorneys/dog-bite-lawyers/)
         * [Motorcycle Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/motorcycle-accident-attorneys/)
         * [Sexual Assault](https://www.forthepeople.com/practice-areas/sexual-assault-lawyers/)
@@ -215,12 +199,6 @@ Call Us Today - It's Free!+18776674265
         * [Sick and Fired](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/sick-and-fired/)
         * [Teenager Summer Job Safety](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/teenager-summer-job-safety/)
         * [Pacesetter Personnel Services Lawsuit](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/pacesetter-personnel-services-lawsuit/)
-    * Business Litigation
-        * [Accounting Malpractice](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/accounting-malpractice/)
-        * [Breach of Contract](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/breach-of-contract/)
-        * [Construction Litigation](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/construction-litigation/)
-        * [Professional Malpractice](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/professional-malpractice/)
-        * [Unpaid Commissions](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/unpaid-commissions/)
     * Civil Rights
         * [Civil Rights & Liberties](https://www.forthepeople.com/practice-areas/civil-rights-lawyers/)
         * [Jail Injury](https://www.forthepeople.com/practice-areas/civil-rights-lawyers/jail-injury-lawyers/)
@@ -234,24 +212,19 @@ Call Us Today - It's Free!+18776674265
         * [Insurance Company Data Breach Attorneys](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/insurance-company-data-breach-attorneys/)
     * Dangerous Drugs
         * [Dangerous Drugs](https://www.forthepeople.com/practice-areas/dangerous-drug-lawyers/)
-        * [Eye Drops](https://www.forthepeople.com/practice-areas/defective-product-lawyers/ezricare-eye-drops-recall/)
         * [Gardasil](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/gardasil-lawsuit/)
         * [Tepezza](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/tepezza-lawsuit/)
         * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
     * [Data Breach](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/)
     * Defective Products
         * [Exploding Airbags](https://www.forthepeople.com/practice-areas/defective-product-lawyers/exploding-airbags/)
-        * [Faulty ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
-        * [Abbott Baby Formula Recall](https://www.forthepeople.com/practice-areas/defective-product-lawyers/abbott-baby-formula-recall/)
         * [ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
-        * [Exactech Knee and Ankle Replacement](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/exactech-knee-and-ankle-replacement-recall/)
         * [Hair Relaxer](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/hair-relaxer-lawsuit/)
         * [NEC Baby Formula](https://www.forthepeople.com/practice-areas/defective-product-lawyers/toxic-baby-formula/)
         * [One-Wheel Skateboard](https://www.forthepeople.com/practice-areas/defective-product-lawyers/one-wheel-skateboard/)
         * [Boppy Pillows](https://www.forthepeople.com/practice-areas/defective-product-lawyers/boppy-pillow/)
         * [Instant Pot](https://www.forthepeople.com/practice-areas/product-liability-attorneys/instant-pot-lawsuit/)
         * [Paraquat](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
-        * [Juul](https://www.forthepeople.com/practice-areas/defective-product-lawyers/juul-lawsuit/)
         * [Takata](https://www.forthepeople.com/practice-areas/defective-product-lawyers/takata-airbag-recall/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
         * [View All](https://www.forthepeople.com/practice-areas/defective-product-lawyers/)
@@ -268,7 +241,6 @@ Call Us Today - It's Free!+18776674265
         * [Hurricane & Storm Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/hurricane-insurance-claim-dispute-assistance/)
         * [Life Insurance Benefits](https://www.forthepeople.com/practice-areas/insurance-attorney/life-insurance-benefits/)
         * [Lightning Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/lightning-damage-insurance/)
-        * [Long-Term Disability](https://www.forthepeople.com/practice-areas/insurance-attorney/long-term-disability-insurance/)
         * [Motor Vehicles](https://www.forthepeople.com/practice-areas/insurance-attorney/car-insurance-disputes/)
         * [PIP Claims](https://www.forthepeople.com/office-locations/florida/auto-accident-attorneys/florida-pip-insurance/)
         * [Sinkholes](https://www.forthepeople.com/practice-areas/insurance-attorney/sinkholes/)
@@ -277,8 +249,7 @@ Call Us Today - It's Free!+18776674265
     * Mass Arbitration
         * [Video Streaming](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/video-privacy-violation-claim/)
         * [Mass Arbitration](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/)
-        * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
-        * [Arise Virtual Solutions Lawsuit](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/arise-virtual-solutions-lawsuit/employee-misclassification-lawsuit/)
+        * [Arise Virtual Solutions Lawsuit](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
     * Mass Tort
         * [Maui Wildfire](https://www.forthepeople.com/practice-areas/insurance-attorney/wildfire-lawyers/maui-wildfire-attorneys/)
         * [Camp Lejeune](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/camp-lejeune-toxic-water-lawsuit/)
@@ -287,11 +258,11 @@ Call Us Today - It's Free!+18776674265
         * [Exactech Knee and Ankle Replacement](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/exactech-knee-and-ankle-replacement-recall/)
         * [Paraquat](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
+        * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
     * [Mesothelioma](https://www.forthepeople.com/practice-areas/mesothelioma-attorneys/)
     * [Sexual Abuse](https://www.forthepeople.com/practice-areas/child-sexual-abuse/)
     * [Social Security Disability](https://www.forthepeople.com/practice-areas/social-security-disability-attorney/)
     * Toxics and Environmental
-        * [Toxics and Environmental](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/)
         * [Benzene](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/benzene/)
         * [California Oil Spill](https://www.forthepeople.com/office-locations/california/toxic-tort-environmental-lawyer/california-oil-spill/)
         * [Citizen Suits](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/citizen-suits/)
@@ -304,13 +275,14 @@ Call Us Today - It's Free!+18776674265
         * [Lead Smelting](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/lead-smelting/)
         * [Medical Monitoring](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/medical-monitoring/)
         * [Ohio Railroad Disaster](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/east-palestine-train-lawsuit/)
-        * [PFAS Contamination and Exposure](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/pfas-contamination-exposure-lawsuits/)
+        * [PFAS Contamination and Exposure](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/personal-injury/)
         * [Personal Injury](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/personal-injury/)
         * [Petroleum](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/petroleum/)
         * [Property Damage](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/property-damage/)
         * [Soil Contamination](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/soil-contamination/)
         * [Solvent Exposure](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/solvent-exposure/)
         * [Toxic Emissions](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/toxic-emissions/)
+        * [Toxics and Environmental](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/)
         * [AFFF](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/afff-lawsuit/)
     * [Veteran Benefits Denied](https://www.forthepeople.com/practice-areas/veterans-benefits/)
     * [Whistleblower & Qui Tam](https://www.forthepeople.com/practice-areas/whistleblower-qui-tam-lawyers/)
@@ -325,7 +297,7 @@ Call Us Today - It's Free!+18776674265
     * [FAQ](https://www.forthepeople.com/faq/)
     * [In the Media](https://www.forthepeople.com/in-the-media/)
     * [Pound Law](https://www.forthepeople.com/pound-law/)
-    * [Referrals](https://www.forthepeople.com/attorney-referrals/)
+    * [Referrals](https://www.themorganconnection.com/about)
     * [TV Commercials](https://www.forthepeople.com/commercials/)
     * Careers
         * [Employment Opportunities](https://www.forthepeople.com/employment/)
@@ -336,19 +308,19 @@ Call Us Today - It's Free!+18776674265
 * [Our Results](https://www.forthepeople.com/verdicts-and-settlements/)
 * [Contact](https://www.forthepeople.com/free-case-evaluation/)
 
-+18776674265 Call Now - Open 24/7 877 667 4265
-
 Popular Topics
 
-* [Orlando Office](https://www.forthepeople.com/search-solr?query=Orlando%20Office)
-* [Car Accidents](https://www.forthepeople.com/search-solr?query=Car%20Accidents)
-* [Mesothelioma](https://www.forthepeople.com/search-solr?query=Mesothelioma)
-* [Bus Accidents](https://www.forthepeople.com/search-solr?query=Bus%20Accidents)
-* [Workplace](https://www.forthepeople.com/search-solr?query=Workplace)
-* [Matt Morgan](https://www.forthepeople.com/search-solr?query=Matt%20Morgan)
-* [Personal Injury](https://www.forthepeople.com/search-solr?query=Personal%20Injury)
-* [Social Security](https://www.forthepeople.com/search-solr?query=Social%20Security)
-* [Medical Malpractice](https://www.forthepeople.com/search-solr?query=Medical%20Malpractice)
+* [Orlando Office](https://www.forthepeople.com/search?query=Orlando%20Office)
+* [Car Accidents](https://www.forthepeople.com/search?query=Car%20Accidents)
+* [Mesothelioma](https://www.forthepeople.com/search?query=Mesothelioma)
+* [Bus Accidents](https://www.forthepeople.com/search?query=Bus%20Accidents)
+* [Workplace](https://www.forthepeople.com/search?query=Workplace)
+* [Matt Morgan](https://www.forthepeople.com/search?query=Matt%20Morgan)
+* [Personal Injury](https://www.forthepeople.com/search?query=Personal%20Injury)
+* [Social Security](https://www.forthepeople.com/search?query=Social%20Security)
+* [Medical Malpractice](https://www.forthepeople.com/search?query=Medical%20Malpractice)
+
+877-667-4265 Call Now - Open 24/7 877-667-4265
 
 DISCLAIMERS AND TERMS OF USE
 ============================
@@ -523,65 +495,79 @@ To view our Mobile Terms and Conditions please visit our [Mobile Terms and Condi
 
 Copyright ©1998-2020 Morgan & Morgan, P.A. All rights reserved. All materials presented on this site are copyrighted and owned by Morgan & Morgan, P.A., unless in the public domain or attributed to another source. Any republication, retransmission, reproduction, downloading, storing or distribution of all or part of any materials found on this site is expressly prohibited.
 
-![Morgan & Morgan logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Get a FREE case evaluation today
+--------------------------------
 
-Quick Links
------------
+As the largest personal injury law firm in America, Morgan & Morgan has recovered over $20 billion. Contact us today for a free case evaluation.
 
-* [Accessibility](https://www.forthepeople.com/accessibility/)
-* [Careers](https://www.forthepeople.com/employment/)
-* [Complaints](https://www.forthepeople.com/complaints/)
-* [Referrals](https://www.forthepeople.com/attorney-referrals/)
-* [Privacy Policy](https://www.forthepeople.com/privacy-policy/)
-* [Reviews](https://www.forthepeople.com/morgan-morgan-reviews/)
-* [Terms & Conditions](https://www.forthepeople.com/disclaimer-and-terms-of-use/)
-* [Opt Out](https://www.forthepeople.com/opt-out/)
-
-Trending News
--------------
-
-[The Snowflake Attack Piling Up To Be the Largest Data Breach Yet](https://www.forthepeople.com/blog/snowflake-attack-piling-be-largest-data-breach-yet/)
-
-[The Week in Recalls: June 14, 2024](https://www.forthepeople.com/blog/week-recalls-june-14-2024/)
-
-[How Many Car Accidents Are Caused by Texting and Driving?](https://www.forthepeople.com/blog/how-many-car-accidents-are-caused-texting-and-driving/)
-
-[Read more blog posts](https://www.forthepeople.com/blog/)
-
-Most Asked Questions
+Free Case Evaluation
 --------------------
 
-[Why Morgan & Morgan?](https://www.forthepeople.com/faq/) [What Damages Are Available in Mass Torts?](https://www.forthepeople.com/faq/mass-torts/) [Why File a Mass Tort?](https://www.forthepeople.com/faq/mass-torts/)
+Tell us about your situation so we can get started fighting for you. We tailor each case to meet our clients' needs.
 
-[Read more frequently asked questions](https://www.forthepeople.com/faq/)
+    
 
-* [![Businesstrialgroup.com logo](/sites/default/files/theme-assets/ftp/images/businesstrialgroup.png)](https://www.businesstrialgroup.com/)
-* [![Whistleblowerattorneys.com logo](/sites/default/files/theme-assets/ftp/images/whistleblower.png)](https://www.whistleblowerattorneys.com/)
-* [![Injury.com logo](/sites/default/files/theme-assets/ftp/images/injury.svg)](https://injury.com/?utm_source=forthepeople&utm_medium=referral)
-* [![Abogados.com logo](/sites/default/files/theme-assets/ftp/images/abogados.png)](https://abogados.com/)
-* [![ClassAction.com logo](/sites/default/files/theme-assets/ftp/images/classaction.png)](https://classaction.com/)
+First Name 
 
-* [Twitter ![Twitter](/themes/custom/ftp/images/icons/twitter-white.svg)](https://twitter.com/forthepeople "For The People Twitter page") 
-* [LinkedIn ![LinkedIn](/themes/custom/ftp/images/icons/linkedin-white.svg)](https://www.linkedin.com/company/morgan-&-morgan-llc "For The People LinkedIn page") 
-* [Facebook ![Facebook](/themes/custom/ftp/images/icons/facebook-white.svg)](https://www.facebook.com/MMForthePeople "For The People Facebook page") 
-* [Instagram ![Instagram](/themes/custom/ftp/images/icons/instagram-brands-white.svg)](https://www.instagram.com/forthepeople/ "For The People Instagram page") 
-* [Youtube ![YouTube](/themes/custom/ftp/images/icons/youtube-play-white.svg)](https://www.youtube.com/user/mmforthepeople "For The People YouTube page") 
-* [TikTok ![TikTok](/themes/custom/ftp/images/icons/tiktok-white.svg)](https://www.tiktok.com/@forthepeople "For The People TikTok page") 
+Last Name 
 
-      
+Phone Number 
 
-© 2024. All Rights Reserved.
+Zip Code 
 
-[Sitejabber customer ratings ![Sitejabber customer rating badge](/sites/default/files/images/svg/badge-sitejabber-1700.svg "4.9 star rating")](https://sitejabber.com/reviews/forthepeople.com)   
-Results may vary depending on your particular facts and legal circumstances.
+E-mail 
 
-[![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.png)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
+\- Case Type - \- Case Type -Airbag InjuryAnimal AttackBirth InjuryBusiness DisputeCamp LejeuneCar AccidentChildhood Sex AbuseCivil RightsClass ActionDangerous DrugsData BreachDefective ProductsEmployment IssueEnvironmental IssuesGardasilHair RelaxerHurt at WorkInsurance DisputeMaui WildfireMedical InjuryMesotheliomaNursing HomeOtherOther InjuryProduct InjurySlip & FallSocial Media HarmSocial SecurityTepezzaTrip and FallUnpaid Wages/EarningsVeteran DisabilityWeight Loss DrugWorkplace Discrimination
 
-[![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.png)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
+Please describe what happened
 
-Florida headquarters: 20 North Orange Ave, Suite 1600, Orlando, FL 32801.  
-For a full list of locations in your area please visit our [Office Locations page](https://www.forthepeople.com/office-locations/).
+I hereby expressly consent to receive automated communications including calls, texts, emails, and/or prerecorded messages.  
+  
+By submitting this form, you agree to our [Terms](https://www.forthepeople.com/disclaimer-and-terms-of-use/) & acknowledge our [Privacy Policy](https://www.forthepeople.com/privacy-policy/).
 
-This site is designed to be accessible to and usable by people with and without disabilities. Please [contact us](https://www.forthepeople.com/complaints/) if you encounter an accessibility or usability issue on this site. Attorney advertising. Prior results do not guarantee a similar outcome. 
+          SUBMIT FORMFREE CASE EVALUATION
 
-© 2024. All Rights Reserved.
+Extra info 
+
+Results may vary depending on your particular facts and legal circumstances. ©2024 Morgan and Morgan, P.A. All rights reserved.
+
+[![Morgan & Morgan logo](/themes/custom/morgan/logo.svg)](https://www.forthepeople.com/ "Home")
+
+* ### About Us
+    
+    [Our Results](https://www.forthepeople.com/verdicts-and-settlements/) [Who We Are](https://www.forthepeople.com/who-we-are/) [In The Community](https://www.forthepeople.com/in-the-community/) [Pound Law](https://www.forthepeople.com/pound-law/) [Referrals](https://www.themorganconnection.com/about) [Careers | Join Our Team](https://www.forthepeople.com/employment/) [Shop](https://shop.forthepeople.com/) [Testimonials](https://www.forthepeople.com/testimonials/)
+* ### Resources
+    
+    [Blog](https://www.forthepeople.com/blog/) [Testimonials](https://www.forthepeople.com/testimonials/) [FAQ](https://www.forthepeople.com/faq/) [In The Media](https://www.forthepeople.com/in-the-media/) [TV commercials](https://www.forthepeople.com/commercials/) [Accessibility](https://www.forthepeople.com/accessibility/) [Complaints](https://www.forthepeople.com/complaints/) [Opt Out](https://www.forthepeople.com/opt-out/) [Sitemap](https://www.forthepeople.com/sitemap/)
+* ### Quick Links
+    
+    [Car Accident Lawyer](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/) [Slip and Fall Lawyer](https://www.forthepeople.com/practice-areas/slip-and-fall-attorneys/) [Truck Accident Lawyer](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/trucking-accident-attorneys/) [Personal Injury Lawyer](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/) [Labor and Employment Lawyer](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/) [Medical Malpractice Lawyer](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/) [Birth Injury Lawyer](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/birth-injury-attorneys/) [Brain Injury Lawyer](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/brain-injury-attorneys/)
+
+### Social
+
+* [](https://x.com/forthepeople)
+* [](https://www.facebook.com/MMForthePeople)
+* [](https://www.youtube.com/user/mmforthepeople)
+* [](https://www.instagram.com/forthepeople/)
+* [](https://www.linkedin.com/company/morgan-&-morgan-llc)
+
+ [![themorganconnection.com](/themes/custom/morgan/images/logos/morganconnection.svg)](https://www.themorganconnection.com/)[![business trial group](/themes/custom/morgan/images/logos/businesstrialgroup.svg)](https://www.businesstrialgroup.com/)[![the whistleblower](/themes/custom/morgan/images/logos/whistleblower.svg)](https://www.whistleblowerattorneys.com/)[![abogados.com](/themes/custom/morgan/images/logos/abogados.svg)](https://www.abogados.com/)[![class action com](/themes/custom/morgan/images/logos/classaction.svg)](https://www.classaction.com/)
+
+[![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.jpg)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
+
+[![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
+
+### Subscribe to our newsletter
+
+       
+
+20 North Orange Ave, Suite 1600, Orlando, FL 32801  
+For a full list of locations in your area please visit our [Office Locations](https://www.forthepeople.com/office-locations/) page.
+
+This site is designed to be accessible to and usable by people with and without disabilities. Please [contact us](https://www.forthepeople.com/complaints/) if you encounter an accessibility or usability issue on this site. Attorney advertising. Prior results do not guarantee a similar outcome.
+
+©2024 Morgan and Morgan, P.A. All rights reserved
+
+[Privacy Policy](https://www.forthepeople.com/privacy-policy/) [Disclaimers and Terms of Use](https://www.forthepeople.com/disclaimer-and-terms-of-use/)
+
+Call Us Today - It's Free!863-373-1023
