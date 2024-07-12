@@ -1,3 +1,7 @@
+[Laravel Vapor](https://vapor.laravel.com/)
+
+[Sign in](https://vapor.laravel.com/login) [Get Started](https://vapor.laravel.com/register)
+
 Laravel Vapor Privacy Policy
 ============================
 
@@ -193,3 +197,23 @@ Effective Date
 --------------
 
 This Privacy Policy became effective on: June 1, 2019.
+
+[Laravel Vapor](https://vapor.laravel.com/)
+
+#### Ecosystem
+
+* [Laravel](https://laravel.com/)
+* [Laracasts](https://laracasts.com/)
+* [Forge](https://forge.laravel.com/)
+* [Envoyer](https://envoyer.io/)
+* [Nova](https://nova.laravel.com/)
+
+#### Legal
+
+* [Privacy](https://vapor.laravel.com/privacy)
+* [Terms of Service](https://vapor.laravel.com/terms)
+* [Data Processing Agreement](https://vapor.laravel.com/agreement)
+
+![](https://d2n6cmh8j179w8.cloudfront.net/24d40b64-f145-4132-a277-7233ac209fc3/build/assets/cubes-wide-1497e4f0.png)
+
+Copyright © Laravel Holdings Inc. - 2024
