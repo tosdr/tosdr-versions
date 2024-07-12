@@ -1,4 +1,4 @@
-**Call now for FREE devices, $0 activation fees, and FREE shipping! [(888) 298-4894](tel:(888)%20298-4894)**
+**Call now for FREE devices, $0 activation fees, and FREE shipping! [(888) 298-4894](tel:(888)%20298-4894)**
 
 [![](https://myconnectedcaregiver.com/wp-content/uploads/2024/02/Asset-1-3-300x81.png "Asset-1-3")](https://myconnectedcaregiver.com/)
 
@@ -262,4 +262,4 @@ We also provide promotional partners with reports about the performance of their
 
 [About Us](https://myconnectedcaregiver.com/about-us)     [Contact](https://myconnectedcaregiver.com/contact-us)     [Help Center](https://connected-caregiver.helpscoutdocs.com/)     Resources     [For Professional Caregivers](https://myconnectedcaregiver.com/professional-caregivers/)     Open Source Acknowledgements     [Terms & Conditions](https://myconnectedcaregiver.com/terms/)     [Privacy Policy](https://myconnectedcaregiver.com/privacy)     [FAQs](https://myconnectedcaregiver.com/faqs)
 
-![](https://www.facebook.com/tr?id=7037245686379372&ev=PageView&noscript=1&eid=70372456863793724eda53c3-0325-4e01-9513-4b945ad838a1&cd%5Bpage_title%5D=Terms+%26+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=428&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=myconnectedcaregiver.com%2Fterms%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=7037245686379372&ev=PageView&noscript=1&eid=703724568637937272872f15-ca99-4bf9-880b-3dc60a5c2f77&cd%5Bpage_title%5D=Terms+%26+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=428&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=myconnectedcaregiver.com%2Fterms%2F&cd%5Buser_role%5D=guest)
