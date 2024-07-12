@@ -1,7 +1,5 @@
 [Cal.com logo](https://cal.com/)®
 
-[Hiring](https://cal.com/jobs)
-
 * [Pricing](https://cal.com/pricing)
     
 * Products
@@ -354,8 +352,6 @@ Let people book when it works for both of you
 
 [Cal logo](https://cal.com/)
 
-[Hiring](https://cal.com/jobs)
-
 ®
 
 Cal.com® and Cal® are a registered trademark by Cal.com, Inc. All rights reserved.
@@ -434,6 +430,7 @@ English
 * [Timekit](https://cal.com/scheduling/timekit-alternative)
 * [YouCanBook.Me](https://cal.com/scheduling/youcanbookme-alternative)
 * [Meetingbird](https://cal.com/scheduling/meetingbird-alternative)
+* [Hubspot Meetings Scheduling](https://cal.com/scheduling/hubspot-alternative)
 * [Doodle](https://cal.com/scheduling/doodle-alternative)
 * [Woven](https://cal.com/scheduling/woven-alternative)
 * [Harmonizely](https://cal.com/scheduling/harmonizely-alternative)
