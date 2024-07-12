@@ -517,18 +517,17 @@ THE ABBVIE WEBSITES, THE SITE CONTENT, AND THE PRODUCTS AND SERVICES PROVIDED ON
 
 You agree that these Online Terms of Use and the [Privacy Policy](https://www.abbvie.com/privacy.html) describe the entire agreement between us with respect to its subject matter. The AbbVie websites were created and are operated under the laws of the State of Illinois. The laws of the State of Illinois will control the terms provided in these Online Terms and Conditions, to the extent that the laws of the State of Illinois are not overridden by applicably mandatory law, e.g. consumer protection laws applying to you. If a court of competent jurisdiction finds that any provision of these Online Terms of Use is invalid or unenforceable, you agree that the other provisions of these Online Terms of Use will remain in full force and effect.
 
-![AbbVie logo](https://s7d9.scene7.com/is/content/abbviecorp/abbvie-logo-header?ts=1682716844485&dpr=off "AbbVie logo")
+![AbbVie logo](https://s7d9.scene7.com/is/content/abbviecorp/abbvie-logo-header?ts=1718999533190&dpr=off "AbbVie logo")
 
 * [Who We Are](https://www.abbvie.com/who-we-are.html)
 * [Science](https://www.abbvie.com/science.html)
-* [Patients](https://www.abbvie.com/patients.html)
+* [Patients!](https://www.abbvie.com/patients.html)
 * [Join Us](https://www.abbvie.com/join-us.html)
 * [Sustainability](https://www.abbvie.com/sustainability.html)
 
-* [![](/content/dam/abbvie-com2/icons/footer-facebook.svg)](https://www.facebook.com/AbbVieGlobal)
+* [![Facebook Logo](/content/dam/abbvie-com2/icons/footer-facebook.svg)](https://www.facebook.com/AbbVieGlobal)
 * [![Twitter Logo](/content/dam/abbvie-com2/icons/footer-twitter.svg)](https://twitter.com/abbvie)
 * [![Instagram Logo](/content/dam/abbvie-com2/icons/footer-instagram.svg)](https://www.instagram.com/abbvie/?hl=en)
-* [![](/content/dam/abbvie-com2/icons/footer-tiktok.svg)](https://www.tiktok.com/@abbvie)
 * [![LinkedIn Logo](/content/dam/abbvie-com2/icons/footer-linkedin.svg)](https://www.linkedin.com/company/abbvie)
 * [![YouTube Logo](/content/dam/abbvie-com2/icons/footer-youtube.svg)](https://www.youtube.com/user/AbbVie)
 
