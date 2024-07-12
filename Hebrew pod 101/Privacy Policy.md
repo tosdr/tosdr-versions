@@ -1,8 +1,8 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://vkt979ywwg.execute-api.us-east-1.amazonaws.com/ProdStage)
 
-[![Get 45% off with the 6-month challenge. Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/June/6MC/HP/homepage_web-banner-hebrew.png)](https://www.hebrewpod101.com/6months-lp?src=banner_hp)
+[![Get 40% off with the Now or Never sale. Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/July/PowerUp/HP/homepage_web-banner-hebrew.png)](https://www.hebrewpod101.com/nowornever-lp?src=banner_hp)
 
-[![Get 45% off with the 6-month challenge. Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/June/6MC/HP/homepage_mob-banner.gif)](https://www.hebrewpod101.com/6months-lp?src=mbanner_hp)
+[![Get 40% off with the Now or Never sale. Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/July/PowerUp/HP/mob-banner-homepage.gif)](https://www.hebrewpod101.com/nowornever-lp?src=mbanner_hp)
 
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
