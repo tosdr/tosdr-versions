@@ -6,7 +6,7 @@
 
 Products
 
-![](//flirc.tv/cdn/shop/files/interface.Plus.Thin.Silver.192px.png?v=5301542566170801699)![](//flirc.tv/cdn/shop/files/-.png?4352)
+![](//flirc.tv/cdn/shop/files/interface.Plus.Thin.Silver.192px.png?v=5301542566170801699)![](//flirc.tv/cdn/shop/files/-.png?4361)
 
 Featured
 ========
@@ -20,7 +20,7 @@ Remotes
 
 The Skip 1s Universal Remote Control
 
-£34.00](https://flirc.tv/products/skip1s-remote-universal-remote-control)
+£33.00](https://flirc.tv/products/skip1s-remote-universal-remote-control)
 
 Cases
 =====
@@ -68,19 +68,19 @@ Receivers
 
 Flirc Fire TV Edition
 
-£17.00](https://flirc.tv/products/flirc-fire-tv-edition)
+£16.00](https://flirc.tv/products/flirc-fire-tv-edition)
 
 [![Flirc Streacom Edition](//flirc.tv/cdn/shop/files/FlircStreacom1.png?v=1687593054)
 
 Flirc Streacom Edition
 
-£19.00](https://flirc.tv/products/flirc-streacom)
+£18.00](https://flirc.tv/products/flirc-streacom)
 
 [![Flirc USB](//flirc.tv/cdn/shop/files/ps-USB1.png?v=1687593076)
 
 Flirc USB
 
-£19.00](https://flirc.tv/products/flirc-usb-receiver)
+£18.00](https://flirc.tv/products/flirc-usb-receiver)
 
 Misc
 ====
@@ -141,9 +141,9 @@ Shop
 
 The Skip 1s Universal Remote Control
 
-£37.00
+£36.00
 
-£34.00](https://flirc.tv/products/skip1s-remote-universal-remote-control)
+£33.00](https://flirc.tv/products/skip1s-remote-universal-remote-control)
 
 [![Flirc Raspberry Pi 5 Case](//flirc.tv/cdn/shop/files/2_54c949d3-378f-4f58-81c9-4e15177790a4.png?v=1695868423)
 
@@ -177,19 +177,19 @@ Flirc Raspberry Pi 4 Case (Kodi Edition)
 
 Flirc Fire TV Edition
 
-£17.00](https://flirc.tv/products/flirc-fire-tv-edition)
+£16.00](https://flirc.tv/products/flirc-fire-tv-edition)
 
 [![Flirc Streacom Edition](//flirc.tv/cdn/shop/files/FlircStreacom1.png?v=1687593054)
 
 Flirc Streacom Edition
 
-£19.00](https://flirc.tv/products/flirc-streacom)
+£18.00](https://flirc.tv/products/flirc-streacom)
 
 [![Flirc USB](//flirc.tv/cdn/shop/files/ps-USB1.png?v=1687593076)
 
 Flirc USB
 
-£19.00](https://flirc.tv/products/flirc-usb-receiver)
+£18.00](https://flirc.tv/products/flirc-usb-receiver)
 
 [View all Receivers](#)
 
