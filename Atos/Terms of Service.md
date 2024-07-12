@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        21 June 2024
+        11 July 2024
         
-        Market update - June 20, 2024
-        -----------------------------
+        Eviden and the IOTA Foundation announce Digital Passport Solution “powered by IOTA”
+        -----------------------------------------------------------------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
@@ -278,20 +278,20 @@ Homepage](https://atos.net/en)
         Client Stories
         --------------
         
+        * [Scottish Water and Atos: Partnership in action](https://atos.net/en/client-stories/scottish-water-and-atos-partnership-in-action)
         * [UGAP: Leveraging the move to cloud](https://atos.net/en/client-stories/ugap-leveraging-the-move-to-cloud)
         * [Intelligent networks and integrated service desk at Siemens Healthineers](https://atos.net/en/client-stories/intelligent-networks-and-integrated-service-desk-at-siemens-healthineers)
         * [Streamlining manufacturing business with cloud-SAP for Siemens](https://atos.net/en/client-stories/streamlining-manufacturing-business-with-cloud-sap-for-siemens)
-        * [Accelerating WA health system digitalization](https://atos.net/en/client-stories/accelerating-wa-health-system-digitalization)
         
         **[All client stories](https://atos.net/en/client-stories)**
         
         Latest Client Story
         -------------------
         
-        26 February 2024
+        30 May 2024
         
-        UGAP: Leveraging the move to cloud
-        ----------------------------------
+        Scottish Water and Atos: Partnership in action
+        ----------------------------------------------
         
     * [Our Publications](https://atos.net/en/insights-and-innovation/thought-leadership)˅
         
