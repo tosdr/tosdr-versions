@@ -1,4 +1,4 @@
-![Close](/img/icons/ico_close.svg?1716491272)
+![Close](/img/icons/ico_close.svg?1720037275)
 
 Bitcoin.org is a community funded project, donations are appreciated and used to improve the website.
 
@@ -28,7 +28,7 @@ $50.00
 
  
 
-[![Bitcoin](/img/icons/logotop.svg?1716491272)](https://bitcoin.org/en/)
+[![Bitcoin](/img/icons/logotop.svg?1720037275)](https://bitcoin.org/en/)
 
 * Introduction
     * [Individuals](https://bitcoin.org/en/bitcoin-for-individuals)
@@ -186,7 +186,7 @@ Scam Coins
 
 Be careful when investing in alternative coins (altcoins). Amongst altcoins there may be scam coins, enticing users to invest via private sales, or with presale discounts. Scam coins may feature a flashy website and/or boast a large community to create a fear of missing out effect on people who discover it. This helps early holders pump up the price so that they can dump and exit their positions for a profit. Scam coins without large communities may do airdrops - offering free coins (or tokens) to people in exchange for joining their communities. This enables scam coins to present their initiatives with inflated traction metrics to make investors feel like they're missing out when it comes time for them to decide if they'd like to buy-in. Scam coins may also use the word Bitcoin in them in an effort to trick or mislead people into thinking there is a legitimate relationship.
 
-[![Bitcoin](/img/icons/logo-footer.svg?1716491272)](https://bitcoin.org/en/)
+[![Bitcoin](/img/icons/logo-footer.svg?1720037275)](https://bitcoin.org/en/)
 
 Support Bitcoin.org: Donate
 
