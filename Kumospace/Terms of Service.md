@@ -183,6 +183,39 @@ Recording
 
 Users of the Services may choose to record virtual events only if they comply with all recording laws.
 
+Kumospace Subscriptions
+-----------------------
+
+All subscriptions are recurring on a monthly or annual basis and will automatically renew at the end of each paid subscription period.  
+  
+Kumospace paid services are billed on a subscription basis (“Subscription(s)”). You will be billed in advance at the start of each billing cycle (“Billing Cycle”) or upon the addition of seats to the subscription plan. Billing cycles are typically either monthly or annual, depending on the type of subscription plan the user selects when purchasing a Subscription.  
+  
+Subscriptions are billed on a per-seat basis. These seats are referred to by Kumospace as Members and come with certain premium user features. The billed rate is in accordance with the subscription plan selected or at the negotiated per-Member rate.
+
+### Changes to Existing Subscription
+
+Any addition of new Members to a subscription becomes effective immediately and will be billed in accordance with the Subscription monthly or annual commitment. The addition of a new Member mid-billing cycle will result in a pro-rata billing rate for their billing cycle.
+
+The addition of new Members to a subscription becomes effective immediately and will be billed in accordance with the subscription's monthly or annual commitment at their per-Member rate. Adding a new Member mid-billing cycle will result in a pro-rata billing amount for that billing cycle.
+
+The subtraction or removal of existing Members will take effect at the end of the current billing cycle. No pro-rata discount or credit will be applied for the removal of existing Members. These Members are billed at the full billing cycle rate. These Members are billed at the full billing cycle rate and their access to those premium features will remain unchanged until the end of the billing cycle.
+
+Refunds
+-------
+
+Kumospace is not responsible for errors related to the subscription’s size, number of Members, or failure to cancel a subscription plan prior to the start of the next billing cycle. Kumospace has no obligation to issue refunds, especially for the following reasons:
+
+* You have not had a chance to use the product within the free trial or subscription period.
+* You are requesting a refund due to a financial or personal situation/goodwill.
+* You do not have sufficient expertise to use the product.
+
+That being said, our knowledgeable support team is here to assist you and ensure you are satisfied. We understand that human error can happen and are happy to evaluate refund requests on a case-by-case basis.
+
+Subscription Plans Questions
+----------------------------
+
+Users with subscription plans get priority support. Our team is here to help you get the most out of your Kumospace experience. This includes dedicated onboarding support, technical support, and assistance with billing-related questions. To get in touch with your account executive, please email us at [hello@kumospace.com](mailto:hello@kumospace.com).
+
 Feedback
 --------
 
