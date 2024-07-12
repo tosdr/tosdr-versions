@@ -776,6 +776,8 @@ Download the FREE Loop app now.
 
 ![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
 
+![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+
 ![Loop logo](https://loop.homes/wp-content/uploads/2023/06/logo-reversed.svg "logo-reversed")
 
 ### About
@@ -818,11 +820,78 @@ Subscribe to our newsletter to become part of the Loop community, receive update
 
 [Subscribe](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
 
+### Are solar panels right for you?
+
+Subscribe to our solar newsletter for expert guidance on all things solar power.
+
+[Subscribe](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
+
+![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+
+![Loop logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-reversed")
+
+![Loop logo](https://loop.homes/wp-content/uploads/2023/06/logo-reversed.svg "logo-reversed")
+
+### About
+
+[About us](https://loop.homes/loop-trust-power/)
+
+[Blog](https://blog.loop.homes/)
+
+[My Account](https://www.loophome.app/)
+
+[\[email protected\]](https://loop.homes/cdn-cgi/l/email-protection)
+
+[**Sign Up for FREE**](https://www.loophome.app/signup/)
+
+### Follow us
+
+[](https://www.facebook.com/loophomes)
+
+[Facebook](https://www.facebook.com/loophomes)
+
+[](https://twitter.com/loophomes)
+
+[X (Twitter)](https://twitter.com/loophomes)
+
+[](https://www.tiktok.com/@loop.homes)
+
+[TikTok](https://www.tiktok.com/@loop.homes)
+
+[](https://www.instagram.com/loop.homes/)
+
+[Instagram](https://www.instagram.com/loop.homes/)
+
+[](https://www.youtube.com/@loophomes)
+
+[YouTube](https://www.youtube.com/@loophomes)
+
+### Stay in the loop
+
+Subscribe to our newsletter to become part of the Loop community, receive updates and special offers.
+
+[Subscribe](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
+
+### Are solar panels right for you?
+
+Subscribe to our solar newsletter for expert guidance on all things solar power
+
+[Subscribe](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxOSIsInRvZ2dsZSI6ZmFsc2V9)
+
 © Loop | The leading FREE smart meter app | 2024
 
 [Privacy & Cookies Policy](https://loop.homes/policies/)
 
 Cookie Settings
+
+Are solar panels right for you?
+
+Subscribe to our solar newsletter for expert guidance on all things solar power.
+
+  
+  
+
+CLOSE
 
 Get a solar quote
 
