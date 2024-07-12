@@ -19,12 +19,7 @@ Sign Up for Free
 * Integrations
     
     * INTEGRATIONS
-    * CRM
-    * Storage
-    * Payment
-    * Email
-    * [See 100+ integrations](https://www.jotform.com/integrations/)
-    * * FEATURED INTEGRATIONS
+        * FEATURED INTEGRATIONS
         *  [![PayPal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) PayPal](https://www.jotform.com/integrations/paypal-business)
         *  [![Slack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Slack](https://www.jotform.com/integrations/slack)
         *  [![Sheets](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Google Sheets](https://www.jotform.com/integrations/google-sheets)
@@ -35,7 +30,8 @@ Sign Up for Free
         *  [![Hubspot](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Hubspot](https://www.jotform.com/integrations/hubspot)
         *  [![Salesforce](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Salesforce](https://www.jotform.com/integrations/salesforce)
         * [See more Integrations](https://www.jotform.com/integrations/ "See More Integrations")
-    * * CRM
+    * CRM
+        * CRM
         *  [![Salesforce](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Salesforce](https://www.jotform.com/integrations/salesforce)
         *  [![Hubspot](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Hubspot](https://www.jotform.com/integrations/hubspot)
         *  [![Zoho CRM](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Zoho CRM](https://www.jotform.com/integrations/zoho-crm)
@@ -46,7 +42,8 @@ Sign Up for Free
         *  [![Keap](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Keap](https://www.jotform.com/integrations/keap)
         *  [![EngageBay](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) EngageBay](https://www.jotform.com/integrations/engageBay)
         * [See more CRM Integrations](https://www.jotform.com/integrations/category/crm "See More CRM Integrations")
-    * * STORAGE
+    * Storage
+        * STORAGE
         *  [![Google Drive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Google Drive](https://www.jotform.com/integrations/google-drive)
         *  [![Dropbox](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Dropbox](https://www.jotform.com/integrations/dropbox)
         *  [![OneDrive](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) OneDrive](https://www.jotform.com/integrations/onedrive)
@@ -55,7 +52,8 @@ Sign Up for Free
         *  [![FTP](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) FTP](https://www.jotform.com/integrations/ftp)
         *  [![Galleria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Galleria](https://www.jotform.com/integrations/galleria)
         * [See more Storage Integrations](https://www.jotform.com/integrations/category/file-sharing-and-storage "See More Storage Integrations")
-    * * PAYMENT
+    * Payment
+        * PAYMENT
         *  [![Paypal Personal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Paypal Personal](https://www.jotform.com/integrations/paypal-personal)
         *  [![Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Square](https://www.jotform.com/integrations/square)
         *  [![Paypal Business](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Paypal Business](https://www.jotform.com/integrations/paypal-business)
@@ -66,7 +64,8 @@ Sign Up for Free
         *  [![Mollie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Mollie](https://www.jotform.com/integrations/mollie)
         *  [![Venmo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Venmo](https://www.jotform.com/integrations/venmo)
         * [See more Payment Integrations](https://www.jotform.com/online-payments/gateways/ "See More Payment Integrations")
-    * * EMAIL
+    * Email
+        * EMAIL
         *  [![Constant Contact](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Constant Contact](https://www.jotform.com/integrations/constant-contact)
         *  [![Mailchimp](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Mailchimp](https://www.jotform.com/integrations/mailchimp)
         *  [![ActiveCampaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) ActiveCampaign](https://www.jotform.com/integrations/activecampaign)
@@ -77,6 +76,7 @@ Sign Up for Free
         *  [![Mad Mimi](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Mad Mimi](https://www.jotform.com/integrations/mad-mimi)
         *  [![Blue and Big I Image for iContact](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) iContact](https://www.jotform.com/integrations/icontact)
         * [See more Email Integrations](https://www.jotform.com/integrations/category/emailing "See More Email Integrations")
+    * [See 100+ integrations](https://www.jotform.com/integrations/)
     
 * Products
     
@@ -119,7 +119,7 @@ Sign Up for Free
     * [Healthcare](https://www.jotform.com/enterprise/healthcare/)
     * [Education](https://www.jotform.com/enterprise/education/)
     * [Non-profit](https://www.jotform.com/enterprise/nonprofit/)
-    * [Contact Sales](https://www.jotform.com/enterprise/contact-sales?utm_medium=referral&utm_source=jotform.com&utm_content=products_menu&utm_campaign=enterprise_common_header)
+    * [Contact Sales](https://www.jotform.com/enterprise/contact-sales/?utm_medium=referral&utm_source=jotform.com&utm_content=products_menu&utm_campaign=enterprise_common_header)
     
 * Support
     
@@ -471,7 +471,7 @@ Jotform
     * [Paperform Alternatives](https://www.jotform.com/blog/paperform-alternatives/)
     * [Adobe Sign Alternatives](https://www.jotform.com/products/sign/adobe-sign-alternatives/)
     * [PandaDoc Alternatives](https://www.jotform.com/products/sign/pandadoc-alternatives/)
-    * [DocuSign Alternatives](https://www.jotform.com/products/sign/docusign-alternatives/)
+    * [Docusign Alternatives](https://www.jotform.com/products/sign/docusign-alternatives/)
     * [Jotform Alternatives](https://www.jotform.com/blog/jotform-alternatives/)
 
 Marketplace
