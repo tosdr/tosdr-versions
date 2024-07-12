@@ -448,5 +448,4 @@ Like lots of websites, our website downloads tiny files called “cookies” ont
 
   
 
-[LEGO BrickLink, Inc. Privacy Policy](https://www.bricklink.com/v3/privacy_policy.page)  
-[LEGO Education Privacy Policy](https://education.lego.com/support/privacy-policy)
+[LEGO BrickLink, Inc. Privacy Policy](https://www.bricklink.com/v3/privacy_policy.page)
