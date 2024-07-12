@@ -880,6 +880,7 @@ Quick Links
 * [News](https://www.cranepi.com/en/news)
 * [Events](https://www.cranepi.com/en/resource-center?entity_type=events)
 * [Case Studies](https://www.cranepi.com/en/resource-center?entity_type=case_studies)
+* [Careers](https://www.cranepi.com/en/careers)
 * [Legal](https://www.cranepi.com/en/more/legal)
 * [Privacy Policy](https://www.cranepi.com/en/privacy-policy)
 * Cookie Preferences
