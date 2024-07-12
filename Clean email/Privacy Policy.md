@@ -7,7 +7,7 @@
 Privacy Policy and Terms of Service
 ===================================
 
-Last updated on Jun 11, 2024
+Last updated on Jul 9, 2024
 
 Privacy Policy
 --------------
@@ -300,7 +300,7 @@ Resources[About](https://clean.email/about)[Blog](https://clean.email/blog)[Affi
 
 Platforms[iPhone and iPad](https://apps.apple.com/us/app/clean-email/id1219660920)[macOS](https://apps.apple.com/us/app/clean-email/id1441250616?mt=12)[Android](https://play.google.com/store/apps/details?id=email.clean.android)[Web](https://app.clean.email/?utm_source=Website&utm_medium=footer&utm_content=privacy-en)
 
-Follow us [Facebook](https://www.facebook.com/cleanemail/) [TikTok](https://www.tiktok.com/@inboxacademy) [Twitter](https://twitter.com/clean_email) [Youtube](https://www.youtube.com/channel/UC5LF-x5GSt3zI7j2dAfRS4g)
+Follow us [Facebook](https://www.facebook.com/cleanemail/) [Twitter](https://twitter.com/clean_email) [Youtube](https://www.youtube.com/channel/UC5LF-x5GSt3zI7j2dAfRS4g)
 
 [Privacy policy](https://clean.email/privacy)•[Contact us](https://clean.email/support)•[Vulnerability Disclosure Program](https://clean.email/vdp)
 
