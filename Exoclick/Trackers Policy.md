@@ -69,29 +69,29 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Blog](https://www.exoclick.com/blog/)
 --------------------------------------
 
-* [![asynchronous ad code  asynchronous ad tags asynchronous ads synchronous vs asynchronous ads load ads asynchronously to improve website speed Serve multiple zones with a single request ad zones loading with website content  speed up ad loading time improve Google rankings with async Attract contextual Advertisers](https://www.exoclick.com/wp-content/uploads/2024/06/Copy-of-Copy-of-banner-ads-320x180.png)](https://www.exoclick.com/how-to-make-the-most-out-of-asynchronous-ads/)
+* [![Enhancing user experience Improve user experience Improve the filters section in campaign setup New ad server advertiser feature improvement Enhanced Advertiser campaign setup](https://www.exoclick.com/wp-content/uploads/2024/07/Copy-of-Copy-of-banner-ads-320x180.png)](https://www.exoclick.com/enhanced-advertiser-campaign-setup-in-your-admin-panel/)
     
-    ### [How to make the most out of Asynchronous ads](https://www.exoclick.com/how-to-make-the-most-out-of-asynchronous-ads/)
+    ### [Enhanced Advertiser campaign setup in your Admin Panel](https://www.exoclick.com/enhanced-advertiser-campaign-setup-in-your-admin-panel/)
     
-    Learn the 7 main reasons why you should use Asynchronous ads and how to make the most of ExoClick’s Asynchronous ad tags!
+    We’ve implemented key changed to the “Filters” section in the campaign setup to help Advertisers configure their campaigns quicker & easier.
     
-    [Read More](https://www.exoclick.com/how-to-make-the-most-out-of-asynchronous-ads/)
+    [Read More](https://www.exoclick.com/enhanced-advertiser-campaign-setup-in-your-admin-panel/)
     
-* [![how to create a high converting landing page to maximize your offers landing page optimization best practices for Advertisers landing page best practices to maximize your offers conversion landing page best practices landing page best practices 2024 for Advertisers landing page best practices examples  advertising landing page tips for beginners advertiser landing pages creation tips 3 golden rules for maximizing landing page conversions](https://www.exoclick.com/wp-content/uploads/2024/06/Copy-of-banner-ads-320x180.png)](https://www.exoclick.com/how-to-create-a-high-converting-landing-page-to-maximize-your-offers/)
+* [![Create high quality Video ads with AI](https://www.exoclick.com/wp-content/uploads/2024/07/Video-AI-1-320x180.png)](https://www.exoclick.com/create-high-quality-video-ads-with-ai/)
     
-    ### [How to create a high converting landing page to maximize your offers](https://www.exoclick.com/how-to-create-a-high-converting-landing-page-to-maximize-your-offers/)
+    ### [Create high quality Video ads with AI](https://www.exoclick.com/create-high-quality-video-ads-with-ai/)
     
-    We tell you how to create a high converting landing page to maximize your offers and we give you tip Advertiser landing pages creation tips.
+    In this article we explore the best software tools for creating AI Video ads and how to create high quality Video ads with AI.
     
-    [Read More](https://www.exoclick.com/how-to-create-a-high-converting-landing-page-to-maximize-your-offers/)
+    [Read More](https://www.exoclick.com/create-high-quality-video-ads-with-ai/)
     
-* [![Best ad formats in Sports Betting 2024](https://www.exoclick.com/wp-content/uploads/2024/05/sports-offer-2-320x180.png)](https://www.exoclick.com/the-best-ad-formats-to-promote-sports-offers-in-2024/)
+* [![What is it like to work in Ad Tech?](https://www.exoclick.com/wp-content/uploads/2024/07/HR-1-320x180.png)](https://www.exoclick.com/meet-the-hr-team-what-is-it-like-to-work-in-ad-tech/)
     
-    ### [The best ad formats to promote Sports Offers in 2024](https://www.exoclick.com/the-best-ad-formats-to-promote-sports-offers-in-2024/)
+    ### [Meet the HR team: What is it like to work in Ad Tech?](https://www.exoclick.com/meet-the-hr-team-what-is-it-like-to-work-in-ad-tech/)
     
-    This article we will share the best ad formats to promote Sports Offers in 2024! Read on for exclusive network data and our top tips
+    Have you ever wondered what it is like working in Ad Tech? In this article, we delve into ExoClick, an Ad Tech company with a strong culture.
     
-    [Read More](https://www.exoclick.com/the-best-ad-formats-to-promote-sports-offers-in-2024/)
+    [Read More](https://www.exoclick.com/meet-the-hr-team-what-is-it-like-to-work-in-ad-tech/)
     
 
 [Tutorials](https://www.youtube.com/playlist?list=PL_vgYj9CKceY3zVm3W_G7_Sdiu1OXrJja)
