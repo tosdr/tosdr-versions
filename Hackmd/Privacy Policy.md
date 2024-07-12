@@ -2,7 +2,7 @@
     
     HackMD Dev
     
-     Linked with GitHub
+    Linked with GitHub
     
 
 * [6](#)[](#)[](#)
@@ -19,7 +19,7 @@ HackMD Dev
 
 用開放寫作凝聚社群能量。 Build a community with open collaboration.
 
-[6](#) 70519[](#)
+[6](#) 72341[](#)
 
 * * *
 
