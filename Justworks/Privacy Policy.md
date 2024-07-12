@@ -23,10 +23,6 @@ As our services evolve and we perceive the need or desirability of using informa
 
 For the Canadian Privacy Policy, click [here](https://justworks.com/privacy-policy-canada).
 
-Contents
-
-[General Information](https://justworks.com/privacy-policy#general-information)[Information You Provide Us](https://justworks.com/privacy-policy#information-you-provide-us)[Information Automatically Collected](https://justworks.com/privacy-policy#information-automatically-collected)[Protecting Children's Privacy](https://justworks.com/privacy-policy#protecting-childrens-privacy)[Cookies](https://justworks.com/privacy-policy#cookies)[Use of Information](https://justworks.com/privacy-policy#use-of-information)[Disclosing Your Information](https://justworks.com/privacy-policy#disclosing-your-information)[Opt-Out Rights](https://justworks.com/privacy-policy#opt-out-rights)[Accessing Your Information](https://justworks.com/privacy-policy#accessing-your-information)[Security](https://justworks.com/privacy-policy#security)[California Privacy Rights](https://justworks.com/privacy-policy#california-privacy-rights)[Links to Third-Party Sites](https://justworks.com/privacy-policy#links-to-third-party-sites)[Do Not Track Signals](https://justworks.com/privacy-policy#do-not-track-signals)[International Transfers](https://justworks.com/privacy-policy#international-transfers)[Changes to Our Privacy Policy](https://justworks.com/privacy-policy#changes-to-our-privacy-policy)[Contacting Us](https://justworks.com/privacy-policy#contacting-us)
-
 Application of This Privacy Policy: This Privacy Policy applies to your use of (regardless of means of access) any of the current set of products from Company, collectively referred to as “Company Products”, such as our website ([www.justworks.com](https://justworks.com/)). The Company Products are owned and provided by Company.
 
 You can access through applications on Devices. A “Device” is any computer used to access the Company Products, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic Device.
@@ -210,12 +206,13 @@ About
 * [Our Customers](https://justworks.com/our-customers)
 * [Justworks.org](https://justworks.com/lp/justworks-org)
 * [Justworks Labs](https://justworks.com/lp/justworks-labs)
+* [FAQs](https://justworks.com/faq)
 
 Resources
 
 * [Blog](https://justworks.com/blog)
 * [Downloads](https://justworks.com/resources)
-* [Partner With Us](https://justworks.com/partners)
+* [Integrations](https://justworks.com/integrations)
 * [Refer and Earn](https://justworks.com/referrals)
 * [MWBE Directory](https://justworks.com/mwbe-directory)
 * [Employment Law Updates](https://justworks.com/the-scoop)
