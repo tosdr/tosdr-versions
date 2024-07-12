@@ -165,8 +165,8 @@ Be the first to read new articles from eLife
 eLife is a non-profit organisation inspired by research funders and led by scientists. Our mission is to help scientists accelerate discovery by operating a platform for research communication that encourages and recognises the most responsible behaviours in science. eLife Sciences Publications, Ltd is a limited liability non-profit non-stock corporation incorporated in the State of Delaware, USA, with company number 5030732, and is registered in the UK with company number FC030576 and branch number BR015634 at the address:
 
 eLife Sciences Publications, Ltd  
-Westbrook Centre, Milton Road  
-Cambridge CB4 1YG  
+95 Regent Street  
+Cambridge CB2 1AW  
 UK
 
 © 2024 eLife Sciences Publications Ltd. Subject to a [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/), except where otherwise noted. ISSN: 2050-084X
