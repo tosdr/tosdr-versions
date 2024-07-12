@@ -11,21 +11,21 @@
 * [Solutions](https://www.arkoselabs.com/solutions/ "Solutions")
     
     * Account Registration & Login
-    * [Fake Account Creation](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/ "Fake Account Creation")
-    * [Bonus Abuse](https://www.arkoselabs.com/blog/what-is-promo-abuse-fraud-in-igaming/ "Bonus Abuse")
+    * [New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution/ "New Account Fraud")
+    * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/ "Bonus Abuse")
     * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/ "SMS Toll Fraud")
     * [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution/ "Account Takeover")
-    * [Loyalty Point Theft](https://www.arkoselabs.com/blog/travel-alert-how-bot-attacks-are-exploiting-loyalty-programs/ "Loyalty Point Theft")
+    * [Loyalty Fraud](https://www.arkoselabs.com/solutions/loyalty-fraud/ "Loyalty Fraud")
     
     * Business Model Abuse
     * [Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/ "Web Scraping and Content Theft")
-    * [GPT Prompt Compromise](https://www.arkoselabs.com/latest-news/arkose-labs-first-bot-management-company-roll-out-protections-enterprise-gpt-applications/ "GPT Prompt Compromise")
-    * [LLM Platform Abuse](https://www.arkoselabs.com/blog/navigating-frontier-ai-driven-cybersecurity-threats/ "LLM Platform Abuse")
+    * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/ "GPT Prompt Compromise")
+    * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
     * In Platform Abuse
     * [API Security](https://www.arkoselabs.com/solutions/api-abuse/ "API Security")
     * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
-    * [Fake Listings/Reviews](https://www.arkoselabs.com/blog/industry-alert-how-fake-reviews-bogus-rates-are-impacting-travel/ "Fake Listings/Reviews")
+    * [Fake Listings/Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/ "Fake Listings/Reviews")
     * Phishing
     * [Man-in-the-Middle](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "Man-in-the-Middle")
     
@@ -475,20 +475,20 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
     
 * Use Cases
     
-    Account Registration* [Fake Account Creation](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution "Fake Account Creation")
-    * [Bonus Abuse](https://www.arkoselabs.com/blog/what-is-promo-abuse-fraud-in-igaming/ "Bonus Abuse")
+    Account Registration* [New Account Fraud](https://www.arkoselabs.com/new-account-fraud/new-account-fraud-solution "New Account Fraud")
+    * [Bonus Abuse](https://www.arkoselabs.com/solutions/bonus-abuse/ "Bonus Abuse")
     * [SMS Toll Fraud](https://www.arkoselabs.com/solutions/sms-toll-fraud/ "SMS Toll Fraud")
     
     Login* [Account Takeover](https://www.arkoselabs.com/account-takeover/account-takeover-solution "Account Takeover")
-    * [Loyalty Point Theft](https://www.arkoselabs.com/blog/travel-alert-how-bot-attacks-are-exploiting-loyalty-programs/ "Loyalty Point Theft")
+    * [Loyalty Frqaud](https://www.arkoselabs.com/solutions/loyalty-fraud/ "Loyalty Frqaud")
     
-    Business Model Abuse* [Web Scraping and Content Theft](https://www.arkoselabs.com/solutions/scraping/ "Web Scraping and Content Theft")
-    * [GPT Prompt Compromise](https://www.arkoselabs.com/latest-news/arkose-labs-first-bot-management-company-roll-out-protections-enterprise-gpt-applications/ "GPT Prompt Compromise")
-    * [LLM Platform Abuse](https://www.arkoselabs.com/blog/navigating-frontier-ai-driven-cybersecurity-threats/ "LLM Platform Abuse")
+    Business Model Abuse* [Web Scraping and Content Theft](https://www.arkoselabs.com/web-scraping/web-scraping-solution "Web Scraping and Content Theft")
+    * [GPT Prompt Compromise](https://www.arkoselabs.com/solutions/gpt-prompt-compromise/ "GPT Prompt Compromise")
+    * [LLM Platform Abuse](https://www.arkoselabs.com/solutions/llm-platform-abuse/ "LLM Platform Abuse")
     
-    In Platform Abuse* [API Security](https://www.arkoselabs.com/solutions/api-abuse/ "API Security")
+    In Platform Abuse* [API Security](https://www.arkoselabs.com/solutions/api-security/ "API Security")
     * [Inventory Hoarding](https://www.arkoselabs.com/inventory-hoarding/inventory-hoarding-solution/ "Inventory Hoarding")
-    * [Fake Listings/Reviews](https://www.arkoselabs.com/blog/industry-alert-how-fake-reviews-bogus-rates-are-impacting-travel/ "Fake Listings/Reviews")
+    * [Fake Listings/Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/ "Fake Listings/Reviews")
     
     Phishing* [Man-in-the-Middle](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/ "Man-in-the-Middle")
     
@@ -546,6 +546,6 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
 X
 
-EY Announces the CEO Kevin Gosschalk as an Entrepreneur Of The Year® 2024 Bay Area Award Winner
+Learn How to Leverage Active Bot Defense to Detect and Counter Today’s Cybercrime-as-a-Service Threats
 
-[Learn More](https://www.arkoselabs.com/latest-news/ey-announces-kevin-gosschalk-arkose-labs-entrepreneur-of-the-year-2024-bay-area-award-winner/)
+[Here](https://www.arkoselabs.com/course/disrupting-cybercrime-as-a-service/)
