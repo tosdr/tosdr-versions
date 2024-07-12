@@ -140,7 +140,7 @@ Last Update: 02/03/2016
 
 ### From Our Blog
 
-[Exploring the Benefits of Botox for TMJ Disorder and Cosmetic Dentistry](https://www.henrichdental.com/2024/06/exploring-the-benefits-of-botox-for-tmj-disorder-and-cosmetic-dentistry/)[Can Dental Crowns Restore Your Smile?](https://www.henrichdental.com/2024/05/can-dental-crowns-restore-your-smile/)[The Benefits of a Custom Mouthguard](https://www.henrichdental.com/2024/04/the-benefits-of-a-custom-mouthguard-tulsa-ok/)
+[Times You May Need Porcelain Veneers](https://www.henrichdental.com/2024/07/times-you-may-need-porcelain-veneers/)[Exploring the Benefits of Botox for TMJ Disorder and Cosmetic Dentistry](https://www.henrichdental.com/2024/06/exploring-the-benefits-of-botox-for-tmj-disorder-and-cosmetic-dentistry/)[Can Dental Crowns Restore Your Smile?](https://www.henrichdental.com/2024/05/can-dental-crowns-restore-your-smile/)
 
 * * *
 
