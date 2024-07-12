@@ -1,4 +1,4 @@
-\-->   August Home Warranty | Our Policies & Agreements                                                                                 [Accessibility Statement](https://august.com/pages/accessibility)
+\-->   August Home Warranty | Our Policies & Agreements                                                                                       [Accessibility Statement](https://august.com/pages/accessibility)
 
 [Skip To Main Content](#mainContentDivider)
 
