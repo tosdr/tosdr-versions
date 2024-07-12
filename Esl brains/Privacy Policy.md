@@ -57,10 +57,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Rule of three: third spaces](https://eslbrains.com/rule-of-three-third-spaces/ "Rule of three: third spaces")
-* [When crowds fund your project](https://eslbrains.com/when-crowds-fund-your-project/ "When crowds fund your project")
-* [I’ll do it better next time!](https://eslbrains.com/ill-do-it-better-next-time/ "I’ll do it better next time!")
-* [When exercise meets cosy…](https://eslbrains.com/when-exercise-meets-cosy/ "When exercise meets cosy…")
+* [Is free speech hate speech?](https://eslbrains.com/is-free-speech-hate-speech/ "Is free speech hate speech?")
+* [I was wondering if… (making requests)](https://eslbrains.com/i-was-wondering-if-making-requests/ "I was wondering if… (making requests)")
+* [Shakespeare: the be-all and end-all?](https://eslbrains.com/shakespeare-the-be-all-and-end-all/ "Shakespeare: the be-all and end-all?")
+* [Eating and cooking](https://eslbrains.com/lesson-set/eating-and-cooking/ "Eating and cooking")
 
 © ESL Brains 2023
 
@@ -84,6 +84,6 @@ Password
 
 or continue with
 
-[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fprivacy-policy%2F)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fprivacy-policy%2F)
+[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fmy-account)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fmy-account)
 
 Don't have an account? [SIGN UP](https://eslbrains.com/pricing "Not a member? Register")
