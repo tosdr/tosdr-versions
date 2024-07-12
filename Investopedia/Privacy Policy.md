@@ -79,7 +79,7 @@ Accept All Reject All Show Purposes
     * [Best Credit Cards](https://www.investopedia.com/best-credit-cards-4801582)
     * [View All](https://www.investopedia.com/financial-product-reviews-7110783)
 
-[Trade](https://www.investopedia.com/simulator/?inv_to_sim=global_nav)
+[Live](https://www.investopedia.com/dow-jones-today-07122024-8677059)
 
 * Search  Search
     
@@ -861,8 +861,8 @@ The parties have agreed that this contract and all related documents be drafted 
 [](https://www.investopedia.com/)
 
 * [](https://www.facebook.com/Investopedia/)
-* [](https://www.instagram.com/investopedia/?hl=en)
 * [](https://twitter.com/investopedia)
+* [](https://www.instagram.com/investopedia/?hl=en)
 * [](https://www.linkedin.com/company/investopedia-ulc)
 * [](https://www.investopedia.com/investopedia-newsletter-opt-in-7095821)
 
