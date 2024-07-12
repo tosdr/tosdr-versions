@@ -1,6 +1,6 @@
 <img src="https://trc.taboola.com/1321591/log/3/unip?en=page\_view" width="0" height="0" style="display:none">
 
-<img height="1" width="1" src="https://www.facebook.com/tr?id=3025180660855843&amp;ev=PageView%20&amp;noscript=1">
+<img height="1" width="1" src="https://www.facebook.com/tr?id=3025180660855843&amp;ev=PageView &amp;noscript=1">
 
               
 
@@ -16,7 +16,6 @@
 * [Solutions](#)
     * [Analyst Services](https://www.logically.ai/analyst-services)
     * [Logically Intelligence®](https://www.logically.ai/logically-intelligence)
-    * [Logically Intelligence® Focus](https://www.logically.ai/logically-intelligence-focus)
     * [Logically Scout®](https://www.logically.ai/logically-scout)
     * [Point Solutions](https://www.logically.ai/point-solutions)
     * [Trust and Safety](https://www.logically.ai/trust-and-safety)
@@ -53,7 +52,6 @@
 * Solutions ![Drop down arrow Icon](/hubfs/images/logically-theme-2/chevron-down-white.svg)
     * [– Analyst Services](https://www.logically.ai/analyst-services)
     * [– Logically Intelligence®](https://www.logically.ai/logically-intelligence)
-    * [Logically Intelligence® Focus](https://www.logically.ai/logically-intelligence-focus)
     * [– Logically Scout®](https://www.logically.ai/logically-scout)
     * [– Point Solutions](https://www.logically.ai/point-solutions)
     * [– Trust and Safety](https://www.logically.ai/trust-and-safety)
@@ -336,7 +334,7 @@ Effective date: 12 October 2022
 
 ![Logically Logo](/hubfs/images/logos/Logically-logo-type-light.svg)
 
- [![Instagram Logo](/hubfs/images/logically-theme-2/instagram-logo.svg)](https://www.instagram.com/logicallyai/ "Logically Instagram")[![LinkedIn Logo](/hubfs/images/logically-theme-2/linkedin-logo.svg)](https://www.linkedin.com/organization-guest/company/joinlogically?trk=public_profile_topcard_current_company&challengeId=AQFMcqt4mCrvhwAAAXMO9rZmsLGdpv-KIKgYWcMaYXizUM_SLTptdqjffHCKHZ1hwmgORhbLIMQta3dYq9s4MzWOZJU57PAePA&submissionId=b73f6cf8-13e7-1d16-1025-6e42ad71893a "Logically Linkedin")[![TikTok Logo](/hubfs/images/logically-theme-2/tiktok-logo.svg)](https://www.tiktok.com/@logicallyai "Logically tiktok")[![X Logo](/hubfs/images/logically-theme-2/x.png)](https://twitter.com/Logicallyai "Logically X")[![YouTube Logo](/hubfs/images/logically-theme-2/youtube-logo.svg)](https://www.youtube.com/channel/UCMngeRNkQ62dsWJbNc3iazQ/ "Logically Youtube")
+ [![Instagram Logo](/hubfs/images/logically-theme-2/instagram-logo.svg)](https://www.instagram.com/logicallyai/ "Logically Instagram")[![LinkedIn Logo](/hubfs/images/logically-theme-2/linkedin-logo.svg)](https://uk.linkedin.com/organization-guest/company/joinlogically?trk=public_profile_topcard_current_company&challengeId=AQFMcqt4mCrvhwAAAXMO9rZmsLGdpv-KIKgYWcMaYXizUM_SLTptdqjffHCKHZ1hwmgORhbLIMQta3dYq9s4MzWOZJU57PAePA&submissionId=b73f6cf8-13e7-1d16-1025-6e42ad71893a "Logically Linkedin")[![TikTok Logo](/hubfs/images/logically-theme-2/tiktok-logo.svg)](https://www.tiktok.com/@logicallyai "Logically tiktok")[![X Logo](/hubfs/images/logically-theme-2/x.png)](https://twitter.com/Logicallyai "Logically X")[![YouTube Logo](/hubfs/images/logically-theme-2/youtube-logo.svg)](https://www.youtube.com/channel/UCMngeRNkQ62dsWJbNc3iazQ/ "Logically Youtube")
 
 * [Contact Us](https://www.logically.ai/contact-us)
 * [Press](https://www.logically.ai/press)
