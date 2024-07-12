@@ -111,9 +111,9 @@
             
             Product Brief
             
-            ##### Help keep employees connected and protected virtually anywhere
+            ##### LevelBlue Email Security with Check Point
             
-            [Learn more](https://cyber.levelblue.com/m/6106c2f72cc6634c/original/PB-Keep-Employees-Connected-Anywhere.pdf)
+            [Learn more](https://cyber.levelblue.com/m/6e87ba5057e8a5f4/original/PB-Email-Security-Check-Point.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -121,9 +121,9 @@
             
             Solution Brief
             
-            ##### Securing Operational Technology
+            ##### AI Cyber Risk Management: A Blueprint for Safeguarding Your Organization
             
-            [Learn more](https://cyber.levelblue.com/m/8ebd7a710d88573/original/SB-OT-Pen-Testing.pdf)
+            [Learn more](https://cyber.levelblue.com/m/2ae8a003df843dcf/original/SB-AI-Governance-and-Risk-Management.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -131,9 +131,9 @@
             
             video
             
-            ##### LevelBlue Company Announcement at RSAC 2024
+            ##### Focusing on Cyber Resilience, Not Just Security
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-company-announcement-at-rsac-2024)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/focusing-on-cyber-resilience-not-just-security)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -141,9 +141,9 @@
             
             Customer Story
             
-            ##### LevelBlue Helps Small Firm with Vulnerability Management and Web Application Protection
+            ##### LevelBlue helps large non-profit organization level up their endpoint security
             
-            [Learn more](https://cyber.levelblue.com/m/61627ac93a01665b/original/CS-Investment-Firm-Manages-Vulnerabilities-with-MVP.pdf)
+            [Learn more](https://cyber.levelblue.com/m/56f771501f1c5fb2/original/CS-Non-Profit-Combats-Cyberattacks-with-Managed-Endpoint-Security.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
@@ -153,9 +153,9 @@
             
             Analyst Report
             
-            ##### 2024 Company of the Year: In the Global Managed SASE Service Industry
+            ##### IDC MarketScape: Worldwide Emerging Managed Detection and Response Services 2024
             
-            [Learn more](https://cybersecurity.att.com/resource-center/analyst-reports/frost-radar-2024-company-of-the-year-global-managed-sase-service)
+            [Learn more](https://cybersecurity.att.com/resource-center/analyst-reports/idc-marketscape-emerging-mdr-2024)
             
             [View all Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
             
@@ -163,9 +163,9 @@
             
             Blog: Security Essentials
             
-            ##### The Best Proxy Servers for Multi-Accounting
+            ##### 2024 Cyber Resilience Research Unveils Healthcare Sector Challenges
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/the-best-proxy-servers-for-multi-accounting)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/2024-cyber-resilience-research-unveils-healthcare-sector-challenges)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -173,9 +173,9 @@
             
             ebook
             
-            ##### Cloud Detection and Response: Market Growth as an Enterprise Requirement
+            ##### Your Guide to Endpoint Security Compliance
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/cloud-detection-and-response-market-growth-as-an-enterprise-requirement)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/your-guide-to-endpoint-security-compliance)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -193,9 +193,9 @@
             
             Whitepaper
             
-            ##### LevelBlue Labs: Indicators of Compromise for SquidLoader Malware
+            ##### Cyber Resilience is Mission Critical for Business
             
-            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/ioc-for-squidloader)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/cyber-resilience-is-mission-critical-for-business)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -436,13 +436,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Anas Baig](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Anas Baig
+#### Theresa Lanowitz
 
-Jun 20, 2024
+Jul 11, 2024
 
-### [The Best Proxy Servers for Multi-Accounting](https://cybersecurity.att.com/blogs/security-essentials/the-best-proxy-servers-for-multi-accounting)
+### [2024 Cyber Resilience Research Unveils Healthcare Sector Challenges](https://cybersecurity.att.com/blogs/security-essentials/2024-cyber-resilience-research-unveils-healthcare-sector-challenges)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
