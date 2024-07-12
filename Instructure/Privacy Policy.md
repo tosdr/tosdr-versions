@@ -108,6 +108,13 @@ Main
                 
                 The data-driven support and communication solution that improves edtech adoption.
                 
+            * [Intelligent Insights](https://www.instructure.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
+                
         * Column
             * [LearnPlatform by Instructure](https://www.instructure.com/k12/products/learnplatform)
                 
@@ -157,6 +164,13 @@ Main
                 ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
                 
                 Data-driven support and communication solution to maximize the use of campus technology.
+                
+            * [Intelligent Insights](https://www.instructure.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
                 
             * [Services](https://www.instructure.com/services)
                 
@@ -252,15 +266,15 @@ Main
             * [AI Resources](https://www.instructure.com/resources/artificial-intelligence)
             * [All Resources](https://www.instructure.com/resources)
     * Column
-        *   ![Global Research Study & Trends - The State of Student Success & Engagement in Higher Education](/sites/default/files/styles/small_hq/public/image/2023-10/2023_SoHE_Stateof_HigherEd_DigitalAssets_Web_OG_Img_1920x1080.jpg?itok=uYDpW5wn)
+        *   ![](/sites/default/files/styles/small_hq/public/image/2024-06/2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg?itok=cb1Y7Px- "2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg")
             
-            Global Research Report
+            The EdTech Top 40:
             
             #### 
             
-            2023 State of Student Success and Engagement in Higher Education
+            K-12 EdTech Engagement
             
-            [Learn More](https://www.instructure.com/research/state-of-higher-education?utm_source=INST&utm_medium=RS&CampaignID=7013m000001Nz6CAAS)
+            [Learn More](https://www.instructure.com/edtech-top40)
             
 * News & Events
     * Column
@@ -305,7 +319,7 @@ Main
     * Column
         * The EdTech Collective
             * [Our Partner Ecosystem](https://www.instructure.com/partners/our-partners)
-            * [Become a Partner](https://www.instructure.com/partners)
+            * [Become an EdCo Partner](https://www.instructure.com/partners)
             * [Channel Partners](https://www.instructure.com/partners/channel-partners)
             * [Evidence as a Service](https://www.instructure.com/partners/evidence-as-a-service)
 
@@ -351,6 +365,13 @@ Main
                 
                 The data-driven support and communication solution that improves edtech adoption.
                 
+            * [Intelligent Insights](https://www.instructure.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
+                
         * Column
             * [LearnPlatform by Instructure](https://www.instructure.com/k12/products/learnplatform)
                 
@@ -400,6 +421,13 @@ Main
                 ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
                 
                 Data-driven support and communication solution to maximize the use of campus technology.
+                
+            * [Intelligent Insights](https://www.instructure.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
                 
             * [Services](https://www.instructure.com/services)
                 
@@ -495,15 +523,15 @@ Main
             * [AI Resources](https://www.instructure.com/resources/artificial-intelligence)
             * [All Resources](https://www.instructure.com/resources)
     * Column
-        *   ![Global Research Study & Trends - The State of Student Success & Engagement in Higher Education](/sites/default/files/styles/small_hq/public/image/2023-10/2023_SoHE_Stateof_HigherEd_DigitalAssets_Web_OG_Img_1920x1080.jpg?itok=uYDpW5wn)
+        *   ![](/sites/default/files/styles/small_hq/public/image/2024-06/2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg?itok=cb1Y7Px- "2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg")
             
-            Global Research Report
+            The EdTech Top 40:
             
             #### 
             
-            2023 State of Student Success and Engagement in Higher Education
+            K-12 EdTech Engagement
             
-            [Learn More](https://www.instructure.com/research/state-of-higher-education?utm_source=INST&utm_medium=RS&CampaignID=7013m000001Nz6CAAS)
+            [Learn More](https://www.instructure.com/edtech-top40)
             
 * News & Events
     * Column
@@ -548,7 +576,7 @@ Main
     * Column
         * The EdTech Collective
             * [Our Partner Ecosystem](https://www.instructure.com/partners/our-partners)
-            * [Become a Partner](https://www.instructure.com/partners)
+            * [Become an EdCo Partner](https://www.instructure.com/partners)
             * [Channel Partners](https://www.instructure.com/partners/channel-partners)
             * [Evidence as a Service](https://www.instructure.com/partners/evidence-as-a-service)
 
@@ -999,7 +1027,6 @@ Footer menu
     * [Canvas Studio](https://www.instructure.com/higher-education/products/canvas/canvas-studio)
     * [Canvas Catalog](https://www.instructure.com/higher-education/products/canvas/canvas-catalog)
     * [Assessment](https://www.instructure.com/k12/products/mastery)
-    * [Elevate Analytics](https://www.instructure.com/k12/products/elevate/elevate-k12-analytics)
     * [Impact](https://www.instructure.com/k12/products/impact)
     * [LearnPlatform](https://www.instructure.com/k12/products/learnplatform)
     * [Services](https://www.instructure.com/services)
@@ -1059,5 +1086,6 @@ Social
 * [Twitter](https://twitter.com/Instructure)
 * [Facebook](https://www.facebook.com/CanvasLMS)
 * [Instagram](https://www.instagram.com/canvaslms/?hl=en)
+* [Youtube](https://www.youtube.com/@CanvasLMS)
 
 Copyright © 2008-2024 Instructure, Inc. All rights reserved. Various trademarks held by their respective owners.
