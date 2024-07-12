@@ -1,3 +1,3 @@
-[![black Beam formerly Edquity logo](https://assets-global.website-files.com/63112ade7dc51d16a327a7be/636e8990f2c48f72146a219c_Beam_formerlyEdquity_Logo_Black.png)](https://www.edquity.co/)
+[![black Beam formerly Edquity logo](https://cdn.prod.website-files.com/63112ade7dc51d16a327a7be/636e8990f2c48f72146a219c_Beam_formerlyEdquity_Logo_Black.png)](https://www.edquity.co/)
 
 [Solutions](https://www.edquity.co/solutions)[Our Team](https://www.edquity.co/our-team)[Insights](https://www.edquity.co/insights)[Newsroom](https://www.edquity.co/newsroom)[Contact Us](https://www.edquity.co/contact-us)
