@@ -19,6 +19,7 @@
 * [Google Workspace](https://www.ionos.com/terms-gtc/google-workspace/)
 * [IONOS Partner Program](https://www.ionos.com/terms-gtc/partner-program/)
 * [Logo Generator](https://www.ionos.com/terms-gtc/logo-generator/)
+* [Abmahnschutz](https://www.ionos.com/terms-gtc/abmahnschutz/)
 
 General Terms and Conditions
 ============================
