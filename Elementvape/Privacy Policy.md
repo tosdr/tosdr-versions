@@ -126,13 +126,13 @@ Search
         * [SPACEMAN](https://www.elementvape.com/spaceman)
         * [Geek Bar](https://www.elementvape.com/geek-bar)
         * [SWFT](https://www.elementvape.com/swft)
-        * [VIHO](https://www.elementvape.com/viho)
+        * [FIFTY BAR](https://www.elementvape.com/fifty-bar)
         * [Pillow Talk](https://www.elementvape.com/pillow-talk)
         * [ORION BAR](https://www.elementvape.com/lost-vape)
         * [SOFI](https://www.elementvape.com/sofi)
         * [RAZ](https://www.elementvape.com/raz)
         
-        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
+        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![Hidden Hills x Fifty Bar](https://www.elementvape.com/media/promobanners/Hidden_Hills_x_Fifty_Bar_-_Megamenu_Banner.jpg)Hidden Hills x Fifty Bar](https://www.elementvape.com/hidden-hills-x-fifty-bar-20k-disposable "Hidden Hills x Fifty Bar")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_E-LIQUIDS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ E-LIQUIDS](https://www.elementvape.com/e-liquids)
     * * ![All E-Liquids](https://www.elementvape.com/media/subcategory_icons/All_E-Liquids.jpg) [All E-Liquids](https://www.elementvape.com/e-liquids)
@@ -153,13 +153,13 @@ Search
         * [Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)
         * [7 Daze E-Liquid](https://www.elementvape.com/7-daze-e-liquids)
         * [Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)
-        * [Humble Juice Co.](https://www.elementvape.com/humble-juice-eliquid)
+        * [Vapetasia](https://www.elementvape.com/vapetasia)
         * [Twist E-Liquids](https://www.elementvape.com/twist-e-liquid)
         * [Ruthless Vapor](https://www.elementvape.com/ruthless)
         * [Hi-Drip E-Liquid](https://www.elementvape.com/hi-drip)
         * [BLVK E-Liquid](https://www.elementvape.com/blvk-unicorn)
         
-        [![Finest E-Liquid](https://www.elementvape.com/media/promobanners/The_Finest_-_Megamenu_Banner.jpg)Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)[![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.png)Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)[![Monster Vape Labs](https://www.elementvape.com/media/promobanners/Monster_Vape_Labs_-_Megamenu_Banner.jpg)Monster Vape Labs](https://www.elementvape.com/jam-monster-liquids)[![Humble Juice Co.](https://www.elementvape.com/media/promobanners/Megamenu_Humble_Juice_360_x_240.jpg)Humble Juice Co](https://www.elementvape.com/humble-juice-eliquid "Humble Juice Co")
+        [![Finest E-Liquid](https://www.elementvape.com/media/promobanners/The_Finest_-_Megamenu_Banner.jpg)Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)[![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.png)Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)[![Monster Vape Labs](https://www.elementvape.com/media/promobanners/Monster_Vape_Labs_-_Megamenu_Banner.jpg)Monster Vape Labs](https://www.elementvape.com/jam-monster-liquids)[![Vapetasia](https://www.elementvape.com/media/promobanners/Vapetasia_-_Megamenu_Banner_1_.jpg)Vapetasia](https://www.elementvape.com/vapetasia "Vapetasia")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_TANKS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ TANKS & RDA](https://www.elementvape.com/tanks)
     * * ![All Sub-Ohm Tanks](https://www.elementvape.com/media/subcategory_icons/All_Sub-Ohm_Tanks_1.jpg) [All Sub-Ohm Tanks](https://www.elementvape.com/premium-sub-ohm-tanks)
@@ -246,7 +246,7 @@ Search
         * [Lookah](https://www.elementvape.com/lookah)
         * [The Kind Pen](https://www.elementvape.com/the-kind-pen)
         
-        [![YoCan](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_YOCAN.jpg)YoCan](https://www.elementvape.com/yocan)[![PAX Labs](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_PAX.jpg)PAX Labs](https://www.elementvape.com/pax-labs)[![Hamilton Devices](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_hamilton_devices.jpg)Hamilton Devices](https://www.elementvape.com/hamilton-devices)[![Puffco](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_Puffco.jpg)PuffCo](https://www.elementvape.com/puffco)
+        [![YoCan](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_YOCAN.jpg)YoCan](https://www.elementvape.com/yocan)[![Lookah](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Lookah.jpg)Lookah](https://www.elementvape.com/lookah "Lookah")[![Hamilton Devices](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_hamilton_devices.jpg)Hamilton Devices](https://www.elementvape.com/hamilton-devices)[![Puffco](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_Puffco.jpg)PuffCo](https://www.elementvape.com/puffco)
         
 *  [_![https://www.elementvape.com/media/promobanners/mobile_icons/All_Glass_-_Mobile_Icon_Transparent_1_.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ GLASS](https://www.elementvape.com/glass)
     * * ![All Glass](https://www.elementvape.com/media/promobanners/mobile_icons/All_Glass_-_Mobile_Icon.png) [All Glass](https://www.elementvape.com/glass)
@@ -285,17 +285,17 @@ Search
         
         ### Accessories Brands
         
-        * [Coilology](https://www.elementvape.com/coilology)
-        * [Efest](https://www.elementvape.com/efest)
+        * [ZYN](https://www.elementvape.com/zyn)
+        * [LUCY](https://www.elementvape.com/lucy-nicotine-pouches)
         * [Nitecore](https://www.elementvape.com/nitecore)
         * [Hohm Tech](https://www.elementvape.com/hohm-tech-inc)
-        * [Wotofo](https://www.elementvape.com/wotofo)
+        * [PuffCo](https://www.elementvape.com/puffco)
         * [Vandy Vape](https://www.elementvape.com/vandy-vape)
         * [Geek Vape](https://www.elementvape.com/geek-vape)
         * [SMOK](https://www.elementvape.com/smoktech)
         * [Suorin](https://www.elementvape.com/suorin)
         
-        [![Nitecore](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_NITECORE.jpg)Nitecore](https://www.elementvape.com/nitecore) [![Hohm Tech](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_Hohmtech.jpg)Hohm Tech](https://www.elementvape.com/hohm-tech-inc) [![UWELL](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_UWELL.jpg)UWELL](https://www.elementvape.com/uwell)[![Efest](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_EFEST.jpg)Efest](https://www.elementvape.com/efest)
+        [![Nitecore](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_NITECORE.jpg)Nitecore](https://www.elementvape.com/nitecore) [![Hohm Tech](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_Hohmtech.jpg)Hohm Tech](https://www.elementvape.com/hohm-tech-inc) [![UWELL](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_UWELL.jpg)UWELL](https://www.elementvape.com/uwell)[![LUCY](https://www.elementvape.com/media/promobanners/Lucy_Nicotine_Pouches_-_Megamenu_Banner.jpg)LUCY](https://www.elementvape.com/lucy-nicotine-pouches "LUCY")
         
 
 [Menu](#store.menu)
@@ -396,13 +396,13 @@ Search
         * [SPACEMAN](https://www.elementvape.com/spaceman)
         * [Geek Bar](https://www.elementvape.com/geek-bar)
         * [SWFT](https://www.elementvape.com/swft)
-        * [VIHO](https://www.elementvape.com/viho)
+        * [FIFTY BAR](https://www.elementvape.com/fifty-bar)
         * [Pillow Talk](https://www.elementvape.com/pillow-talk)
         * [ORION BAR](https://www.elementvape.com/lost-vape)
         * [SOFI](https://www.elementvape.com/sofi)
         * [RAZ](https://www.elementvape.com/raz)
         
-        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
+        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![Hidden Hills x Fifty Bar](https://www.elementvape.com/media/promobanners/Hidden_Hills_x_Fifty_Bar_-_Megamenu_Banner.jpg)Hidden Hills x Fifty Bar](https://www.elementvape.com/hidden-hills-x-fifty-bar-20k-disposable "Hidden Hills x Fifty Bar")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_E-LIQUIDS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ E-LIQUIDS](https://www.elementvape.com/e-liquids)
     * * ![All E-Liquids](https://www.elementvape.com/media/subcategory_icons/All_E-Liquids.jpg) [All E-Liquids](https://www.elementvape.com/e-liquids)
@@ -423,13 +423,13 @@ Search
         * [Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)
         * [7 Daze E-Liquid](https://www.elementvape.com/7-daze-e-liquids)
         * [Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)
-        * [Humble Juice Co.](https://www.elementvape.com/humble-juice-eliquid)
+        * [Vapetasia](https://www.elementvape.com/vapetasia)
         * [Twist E-Liquids](https://www.elementvape.com/twist-e-liquid)
         * [Ruthless Vapor](https://www.elementvape.com/ruthless)
         * [Hi-Drip E-Liquid](https://www.elementvape.com/hi-drip)
         * [BLVK E-Liquid](https://www.elementvape.com/blvk-unicorn)
         
-        [![Finest E-Liquid](https://www.elementvape.com/media/promobanners/The_Finest_-_Megamenu_Banner.jpg)Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)[![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.png)Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)[![Monster Vape Labs](https://www.elementvape.com/media/promobanners/Monster_Vape_Labs_-_Megamenu_Banner.jpg)Monster Vape Labs](https://www.elementvape.com/jam-monster-liquids)[![Humble Juice Co.](https://www.elementvape.com/media/promobanners/Megamenu_Humble_Juice_360_x_240.jpg)Humble Juice Co](https://www.elementvape.com/humble-juice-eliquid "Humble Juice Co")
+        [![Finest E-Liquid](https://www.elementvape.com/media/promobanners/The_Finest_-_Megamenu_Banner.jpg)Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)[![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.png)Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)[![Monster Vape Labs](https://www.elementvape.com/media/promobanners/Monster_Vape_Labs_-_Megamenu_Banner.jpg)Monster Vape Labs](https://www.elementvape.com/jam-monster-liquids)[![Vapetasia](https://www.elementvape.com/media/promobanners/Vapetasia_-_Megamenu_Banner_1_.jpg)Vapetasia](https://www.elementvape.com/vapetasia "Vapetasia")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_TANKS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ TANKS & RDA](https://www.elementvape.com/tanks)
     * * ![All Sub-Ohm Tanks](https://www.elementvape.com/media/subcategory_icons/All_Sub-Ohm_Tanks_1.jpg) [All Sub-Ohm Tanks](https://www.elementvape.com/premium-sub-ohm-tanks)
@@ -516,7 +516,7 @@ Search
         * [Lookah](https://www.elementvape.com/lookah)
         * [The Kind Pen](https://www.elementvape.com/the-kind-pen)
         
-        [![YoCan](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_YOCAN.jpg)YoCan](https://www.elementvape.com/yocan)[![PAX Labs](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_PAX.jpg)PAX Labs](https://www.elementvape.com/pax-labs)[![Hamilton Devices](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_hamilton_devices.jpg)Hamilton Devices](https://www.elementvape.com/hamilton-devices)[![Puffco](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_Puffco.jpg)PuffCo](https://www.elementvape.com/puffco)
+        [![YoCan](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_YOCAN.jpg)YoCan](https://www.elementvape.com/yocan)[![Lookah](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Lookah.jpg)Lookah](https://www.elementvape.com/lookah "Lookah")[![Hamilton Devices](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_hamilton_devices.jpg)Hamilton Devices](https://www.elementvape.com/hamilton-devices)[![Puffco](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_Puffco.jpg)PuffCo](https://www.elementvape.com/puffco)
         
 *  [_![https://www.elementvape.com/media/promobanners/mobile_icons/All_Glass_-_Mobile_Icon_Transparent_1_.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ GLASS](https://www.elementvape.com/glass)
     * * ![All Glass](https://www.elementvape.com/media/promobanners/mobile_icons/All_Glass_-_Mobile_Icon.png) [All Glass](https://www.elementvape.com/glass)
@@ -555,17 +555,17 @@ Search
         
         ### Accessories Brands
         
-        * [Coilology](https://www.elementvape.com/coilology)
-        * [Efest](https://www.elementvape.com/efest)
+        * [ZYN](https://www.elementvape.com/zyn)
+        * [LUCY](https://www.elementvape.com/lucy-nicotine-pouches)
         * [Nitecore](https://www.elementvape.com/nitecore)
         * [Hohm Tech](https://www.elementvape.com/hohm-tech-inc)
-        * [Wotofo](https://www.elementvape.com/wotofo)
+        * [PuffCo](https://www.elementvape.com/puffco)
         * [Vandy Vape](https://www.elementvape.com/vandy-vape)
         * [Geek Vape](https://www.elementvape.com/geek-vape)
         * [SMOK](https://www.elementvape.com/smoktech)
         * [Suorin](https://www.elementvape.com/suorin)
         
-        [![Nitecore](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_NITECORE.jpg)Nitecore](https://www.elementvape.com/nitecore) [![Hohm Tech](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_Hohmtech.jpg)Hohm Tech](https://www.elementvape.com/hohm-tech-inc) [![UWELL](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_UWELL.jpg)UWELL](https://www.elementvape.com/uwell)[![Efest](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_EFEST.jpg)Efest](https://www.elementvape.com/efest)
+        [![Nitecore](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_NITECORE.jpg)Nitecore](https://www.elementvape.com/nitecore) [![Hohm Tech](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_Hohmtech.jpg)Hohm Tech](https://www.elementvape.com/hohm-tech-inc) [![UWELL](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_UWELL.jpg)UWELL](https://www.elementvape.com/uwell)[![LUCY](https://www.elementvape.com/media/promobanners/Lucy_Nicotine_Pouches_-_Megamenu_Banner.jpg)LUCY](https://www.elementvape.com/lucy-nicotine-pouches "LUCY")
         
 
 [Account](#store.links)
@@ -903,13 +903,13 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         * [SPACEMAN](https://www.elementvape.com/spaceman)
         * [Geek Bar](https://www.elementvape.com/geek-bar)
         * [SWFT](https://www.elementvape.com/swft)
-        * [VIHO](https://www.elementvape.com/viho)
+        * [FIFTY BAR](https://www.elementvape.com/fifty-bar)
         * [Pillow Talk](https://www.elementvape.com/pillow-talk)
         * [ORION BAR](https://www.elementvape.com/lost-vape)
         * [SOFI](https://www.elementvape.com/sofi)
         * [RAZ](https://www.elementvape.com/raz)
         
-        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![MORF BAR](https://www.elementvape.com/media/promobanners/Megamenu_-_Morfbar_-_Disposables_360_x_240.jpg)MORF BAR](https://www.elementvape.com/morf-bar-touch-20k "MORF BAR")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
+        [![Pod Juice](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Pod_Juice.jpg)Pod Juice](https://www.elementvape.com/pod-juice-disposables)[![Hidden Hills x Fifty Bar](https://www.elementvape.com/media/promobanners/Hidden_Hills_x_Fifty_Bar_-_Megamenu_Banner.jpg)Hidden Hills x Fifty Bar](https://www.elementvape.com/hidden-hills-x-fifty-bar-20k-disposable "Hidden Hills x Fifty Bar")[![Geek Bar Disposables](https://www.elementvape.com/media/promobanners/Megamenu_Banner_-_Geek_Bar.jpg)Geek Bar](https://www.elementvape.com/geek-bar)[![SnowWolf](https://www.elementvape.com/media/promobanners/Megamenu_-_Ronaldinho_-_Disposables_360_x_240.jpg)Ronaldinho](https://www.elementvape.com/ronaldinho-15k "Ronaldinho")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_E-LIQUIDS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ E-LIQUIDS](https://www.elementvape.com/e-liquids)
     * * ![All E-Liquids](https://www.elementvape.com/media/subcategory_icons/All_E-Liquids.jpg) [All E-Liquids](https://www.elementvape.com/e-liquids)
@@ -930,13 +930,13 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         * [Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)
         * [7 Daze E-Liquid](https://www.elementvape.com/7-daze-e-liquids)
         * [Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)
-        * [Humble Juice Co.](https://www.elementvape.com/humble-juice-eliquid)
+        * [Vapetasia](https://www.elementvape.com/vapetasia)
         * [Twist E-Liquids](https://www.elementvape.com/twist-e-liquid)
         * [Ruthless Vapor](https://www.elementvape.com/ruthless)
         * [Hi-Drip E-Liquid](https://www.elementvape.com/hi-drip)
         * [BLVK E-Liquid](https://www.elementvape.com/blvk-unicorn)
         
-        [![Finest E-Liquid](https://www.elementvape.com/media/promobanners/The_Finest_-_Megamenu_Banner.jpg)Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)[![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.png)Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)[![Monster Vape Labs](https://www.elementvape.com/media/promobanners/Monster_Vape_Labs_-_Megamenu_Banner.jpg)Monster Vape Labs](https://www.elementvape.com/jam-monster-liquids)[![Humble Juice Co.](https://www.elementvape.com/media/promobanners/Megamenu_Humble_Juice_360_x_240.jpg)Humble Juice Co](https://www.elementvape.com/humble-juice-eliquid "Humble Juice Co")
+        [![Finest E-Liquid](https://www.elementvape.com/media/promobanners/The_Finest_-_Megamenu_Banner.jpg)Finest E-Liquid](https://www.elementvape.com/the-finest-e-liquid)[![Pod Juice](https://www.elementvape.com/media/promobanners/Pod_Juice_-_Megamenu.png)Pod Juice](https://www.elementvape.com/pod-juice-e-liquid)[![Monster Vape Labs](https://www.elementvape.com/media/promobanners/Monster_Vape_Labs_-_Megamenu_Banner.jpg)Monster Vape Labs](https://www.elementvape.com/jam-monster-liquids)[![Vapetasia](https://www.elementvape.com/media/promobanners/Vapetasia_-_Megamenu_Banner_1_.jpg)Vapetasia](https://www.elementvape.com/vapetasia "Vapetasia")
         
 *  [_![https://www.elementvape.com/media/Dckap/menu-level1/Mobile_Menu_Category_TANKS_70x62.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ TANKS & RDA](https://www.elementvape.com/tanks)
     * * ![All Sub-Ohm Tanks](https://www.elementvape.com/media/subcategory_icons/All_Sub-Ohm_Tanks_1.jpg) [All Sub-Ohm Tanks](https://www.elementvape.com/premium-sub-ohm-tanks)
@@ -1023,7 +1023,7 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         * [Lookah](https://www.elementvape.com/lookah)
         * [The Kind Pen](https://www.elementvape.com/the-kind-pen)
         
-        [![YoCan](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_YOCAN.jpg)YoCan](https://www.elementvape.com/yocan)[![PAX Labs](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_PAX.jpg)PAX Labs](https://www.elementvape.com/pax-labs)[![Hamilton Devices](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_hamilton_devices.jpg)Hamilton Devices](https://www.elementvape.com/hamilton-devices)[![Puffco](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_Puffco.jpg)PuffCo](https://www.elementvape.com/puffco)
+        [![YoCan](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_YOCAN.jpg)YoCan](https://www.elementvape.com/yocan)[![Lookah](https://www.elementvape.com/media/promobanners/Megamenu_Banners_-_Lookah.jpg)Lookah](https://www.elementvape.com/lookah "Lookah")[![Hamilton Devices](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_hamilton_devices.jpg)Hamilton Devices](https://www.elementvape.com/hamilton-devices)[![Puffco](https://www.elementvape.com/media/promobanners/Megamenu_-_VAPORIZERS_-_Puffco.jpg)PuffCo](https://www.elementvape.com/puffco)
         
 *  [_![https://www.elementvape.com/media/promobanners/mobile_icons/All_Glass_-_Mobile_Icon_Transparent_1_.png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=)_ GLASS](https://www.elementvape.com/glass)
     * * ![All Glass](https://www.elementvape.com/media/promobanners/mobile_icons/All_Glass_-_Mobile_Icon.png) [All Glass](https://www.elementvape.com/glass)
@@ -1062,17 +1062,17 @@ New customer? [Start Here.](https://www.elementvape.com/customer/account/create/
         
         ### Accessories Brands
         
-        * [Coilology](https://www.elementvape.com/coilology)
-        * [Efest](https://www.elementvape.com/efest)
+        * [ZYN](https://www.elementvape.com/zyn)
+        * [LUCY](https://www.elementvape.com/lucy-nicotine-pouches)
         * [Nitecore](https://www.elementvape.com/nitecore)
         * [Hohm Tech](https://www.elementvape.com/hohm-tech-inc)
-        * [Wotofo](https://www.elementvape.com/wotofo)
+        * [PuffCo](https://www.elementvape.com/puffco)
         * [Vandy Vape](https://www.elementvape.com/vandy-vape)
         * [Geek Vape](https://www.elementvape.com/geek-vape)
         * [SMOK](https://www.elementvape.com/smoktech)
         * [Suorin](https://www.elementvape.com/suorin)
         
-        [![Nitecore](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_NITECORE.jpg)Nitecore](https://www.elementvape.com/nitecore) [![Hohm Tech](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_Hohmtech.jpg)Hohm Tech](https://www.elementvape.com/hohm-tech-inc) [![UWELL](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_UWELL.jpg)UWELL](https://www.elementvape.com/uwell)[![Efest](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_EFEST.jpg)Efest](https://www.elementvape.com/efest)
+        [![Nitecore](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_NITECORE.jpg)Nitecore](https://www.elementvape.com/nitecore) [![Hohm Tech](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_Hohmtech.jpg)Hohm Tech](https://www.elementvape.com/hohm-tech-inc) [![UWELL](https://www.elementvape.com/media/promobanners/Megamenu_-_ACC_-_UWELL.jpg)UWELL](https://www.elementvape.com/uwell)[![LUCY](https://www.elementvape.com/media/promobanners/Lucy_Nicotine_Pouches_-_Megamenu_Banner.jpg)LUCY](https://www.elementvape.com/lucy-nicotine-pouches "LUCY")
         
 
 
