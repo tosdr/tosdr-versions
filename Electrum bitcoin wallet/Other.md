@@ -45,20 +45,36 @@ Toggle navigation
     
 * Solutions
     
-    For
+    By size
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
-    * [Education](https://education.github.com/)
     
-    By Solution
+    By industry
+    
+    * [Healthcare](https://github.com/solutions/industries/healthcare)
+    * [Financial services](https://github.com/solutions/industries/financial-services)
+    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
+    
+    By use case
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
     
-    Resources
+* Resources
+    
+    Topics
+    
+    * [AI](https://github.com/resources/articles/ai)
+    * [DevOps](https://github.com/resources/articles/devops)
+    * [Innersource](https://github.com/resources/articles/innersource)
+    * [Open Source](https://github.com/resources/articles/open-source)
+    * [Security](https://github.com/resources/articles/security)
+    * [Software Development](https://github.com/resources/articles/software-development)
+    
+    Explore
     
     * [Learning Pathways](https://resources.github.com/learn/pathways)
     * [White papers, Ebooks, Webinars](https://resources.github.com/)
@@ -149,8 +165,8 @@ You signed in with another tab or window. Reload to refresh your session. You si
     
 
 * [Code](https://github.com/spesmilo/electrum)
-* [Issues 1k](https://github.com/spesmilo/electrum/issues)
-* [Pull requests 57](https://github.com/spesmilo/electrum/pulls)
+* [Issues 1.1k](https://github.com/spesmilo/electrum/issues)
+* [Pull requests 59](https://github.com/spesmilo/electrum/pulls)
 * [Security](https://github.com/spesmilo/electrum/security)
 * [Insights](https://github.com/spesmilo/electrum/pulse)
 
@@ -161,137 +177,6 @@ Additional navigation options
 * [Pull requests](https://github.com/spesmilo/electrum/pulls)
 * [Security](https://github.com/spesmilo/electrum/security)
 * [Insights](https://github.com/spesmilo/electrum/pulse)
-
-   Files
------
-
- 1102ea5
-
-Breadcrumbs
------------
-
-1. [electrum](https://github.com/spesmilo/electrum/tree/1102ea50e878d02c126cbb27480abb39e74e0534)
-
-/
-
-LICENCE
-=======
-
-Blame
-
-Blame
-
-Latest commit
--------------
-
-History
--------
-
-[History](https://github.com/spesmilo/electrum/commits/1102ea50e878d02c126cbb27480abb39e74e0534/LICENCE)
-
-[](https://github.com/spesmilo/electrum/commits/1102ea50e878d02c126cbb27480abb39e74e0534/LICENCE)
-
-20 lines (17 loc) · 1.02 KB
-
- 1102ea5
-
-Breadcrumbs
------------
-
-1. [electrum](https://github.com/spesmilo/electrum/tree/1102ea50e878d02c126cbb27480abb39e74e0534)
-
-/
-
-LICENCE
-=======
-
-Top
-
-File metadata and controls
---------------------------
-
-* Code
-    
-* Blame
-    
-
-20 lines (17 loc) · 1.02 KB
-
-[Raw](https://github.com/spesmilo/electrum/raw/1102ea50e878d02c126cbb27480abb39e74e0534/LICENCE)
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-The MIT License (MIT)
-
-Permission is hereby granted, free of charge, to any person obtaining
-
-a copy of this software and associated documentation files (the
-
-"Software"), to deal in the Software without restriction, including
-
-without limitation the rights to use, copy, modify, merge, publish,
-
-distribute, sublicense, and/or sell copies of the Software, and to
-
-permit persons to whom the Software is furnished to do so, subject to
-
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Footer
 ------
