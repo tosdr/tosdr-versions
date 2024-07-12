@@ -18,7 +18,7 @@
 * [Port to Airtel](https://www.airtel.in/mnp/?icid=header)
 * [Free Sim Delivery](https://www.airtel.in/free-sim-home-delivery?icid=header)
 
-### BROADBAND
+### Wi-Fi
 
 * [Pay Bill](https://www.airtel.in/broadband-bill-pay?icid=header)
 * [Buy New Connection](https://www.airtel.in/broadband/?icid=header)
@@ -140,7 +140,7 @@ We may occasionally amend this Cookie Notice to reflect company and customer fee
 * [Prepaid Recharge](https://www.airtel.in/prepaid-recharge/?icid=footer)
 * [Postpaid Bill Payment](https://www.airtel.in/postpaid-bill-pay?icid=footer)
 * [DTH Recharges](https://www.airtel.in/dth-recharge?icid=footer)
-* [Broadband Bill Payment](https://www.airtel.in/broadband-bill-pay?icid=footer)
+* [Wi-Fi Bill Payment](https://www.airtel.in/broadband-bill-pay?icid=footer)
 * [Exciting Offers](https://www.airtel.in/offers/?icid=footer)
 * [Airtel Payments Bank](https://www.airtel.in/bank?icid=footer)
 * [Airtel Thanks App](https://www.airtel.in/airtel-thanks-app?icid=footer)
@@ -159,7 +159,7 @@ We may occasionally amend this Cookie Notice to reflect company and customer fee
 * [Manage Your account](https://www.airtel.in/s/selfcare?normalLogin&icid=footer)
 * [ISP Near Me](https://www.airtel.in/internet-provider-near-me/?icid=footer)
 * [Wynk Music](https://wynk.in/music?utm_source=airtelWeb&utm_medium=footer&utm_campaign=discovery)
-* [Broadband FAQs](https://www.airtel.in/broadband-faqs?icid=footer)
+* [Wi-Fi FAQs](https://www.airtel.in/broadband-faqs?icid=footer)
 * [DTH FAQs](https://www.airtel.in/dth-faqs?icid=footer)
 * [Airtel Xstream FAQs](https://www.airtel.in/airtel-xstream-faqs?icid=footer)
 * [Postpaid FAQs](https://www.airtel.in/postpaid-faqs?icid=footer)
@@ -194,8 +194,6 @@ We may occasionally amend this Cookie Notice to reflect company and customer fee
 ### Back to top    
 
  
-
-[](https://www.facebook.com/AirtelIndia)[](https://www.linkedin.com/company/airtel)[](https://twitter.com/airtelindia)[](https://www.youtube.com/user/INAirtel)
 
 * * *
 
