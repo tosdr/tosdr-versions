@@ -499,6 +499,7 @@ Download the Air Arabia app for free and enjoy great deals wherever you are!
 * [Group booking](https://www.airarabia.com/group-travel-requests)
 * [Charter booking](https://www.airarabia.com/charter-flights-requests)
 * [Travelling from Dubai](https://flights.airarabia.com/en/travelling_from_dubai)
+* [Flights to Dubai](https://flights.airarabia.com/en/flights-to-dubai)
 
 #### Flying with us
 
