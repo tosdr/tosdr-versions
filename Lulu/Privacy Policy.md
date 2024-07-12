@@ -1,24 +1,24 @@
 [![Lulu Logo](https://images.ctfassets.net/9htf9uzhsn4z/3tSSOSmHDmAKXuhUbZD27g/a3af19924d8e4eb75ce6a09514a1f2ea/lulu-logo.svg)](https://www.lulu.com/)
 
-* Products
+* [Products](https://www.lulu.com/products)
     
-* Pricing
+* [Pricing](https://www.lulu.com/pricing)
     
     [Book Pricing](https://www.lulu.com/pricing)[Bulk Ordering](https://www.lulu.com/pricing/volume-discounts)
     
-* Create
+* [Create](https://www.lulu.com/create)
     
     [Print Books](https://www.lulu.com/create/print-books)[Photo Books](https://www.lulu.com/create/photo-books)[Notebooks](https://www.lulu.com/create/notebooks)[Calendars](https://www.lulu.com/create/calendars)[Children's Books](https://www.lulu.com/create/childrens-books)[Comic Books](https://www.lulu.com/create/comic-books)[Magazines](https://www.lulu.com/create/magazines)[Cookbooks](https://www.lulu.com/create/cookbooks)[Yearbooks](https://www.lulu.com/create/yearbooks)[Educational Books](https://www.lulu.com/create/educational-books)[Ebooks](https://www.lulu.com/create/ebooks)
     
-* Sell
+* [Sell](https://www.lulu.com/sell)
     
     [Sell on Lulu Bookstore](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
     
-* Resources
+* [Resources](https://www.lulu.com/resources)
     
     [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
     
-* Bookstore
+* [Bookstore](https://www.lulu.com/shop)
     
 
 * Sign inRegister
@@ -35,13 +35,12 @@ Welcome to Lulu Press, Inc. (“Lulu”, “we”, “us”, and its derivatives
 
 If you have any questions or comments about this Privacy Policy, please contact us at [\[email protected\]](https://www.lulu.com/cdn-cgi/l/email-protection).
 
-**_REVISED:_** _February 8, 2022_
+_REVISED: June 28, 2024_
 
 ### 1\. Data Types and Overview
 
 * **Personal Data** means data that allows someone to identify or contact you, (for example, your name, address, telephone number, and e-mail address) as well as any other non-public information about you that can be associated with or linked to any data that allows the identification of individuals.
     
-
 * **Anonymous Data** means data that is not associated with or linked to your Personal Data. Anonymous Data does not, by itself, permit the identification of individual people. We collect Personal Data and Anonymous Data, as described below.  We collect and use both Personal Data and Anonymous Data about users to (i) provide, measure, and improve the Services, (ii) communicate with you about your Account (as defined below) or transactions, (iii) send you information about changes to the Services or our policies, (iv) send you offers and promotions, (v) personalize content for you on the Services, (vi) detect, investigate and prevent activities that may violate our policies or applicable law, and (vii) as otherwise described in this Policy.
     
 
@@ -63,9 +62,11 @@ If you have any questions or comments about this Privacy Policy, please contact 
         
     * We also collect other types of Personal Data that you may provide to us voluntarily in connection with support for the Services, such as your operating system and version and mobile device or computer type. 
         
-    * If you participate in a survey, contest or giveaway on our Site, we may ask for your e-mail address and/or phone number (to notify you if you win or not). We may also ask for first and last names, and sometimes post office addresses to verify your identity or to send prizes. Surveys and contests are voluntary and you should read the rules for each contest that you enter. 
+    * If you participate in a survey, contest, or giveaway on our Site, we may ask for your e-mail address and/or phone number (to notify you if you win or not). We may also ask for first and last names, and sometimes post office addresses to verify your identity or to send prizes. Surveys and contests are voluntary, and you should read the rules for each contest that you enter. 
         
     * We may also collect Personal Data at other points during your use of our Site or Services that state that Personal Data is being collected.
+        
+    * We use cookies to help keep track of items you put into your shopping cart, including when you have abandoned it. This information is used to determine when to send cart reminder messages via SMS to U.S. residents.
         
 * **Information Collected via Technology**
     
@@ -156,6 +157,8 @@ If you have any questions or comments about this Privacy Policy, please contact 
     
     * **Other Disclosures.** Regardless of any choices you make regarding your Personal Data (as described below), we may disclose Personal Data if we believe in good faith that such disclosure is necessary (i) in connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on Company; (iii) to protect or defend the rights or property of Company or users of the Site or Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our [Terms & Conditions](https://www.lulu.com/terms-and-conditions).
         
+    * The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+        
 
 ### 4\. Protecting Your Content
 
@@ -175,15 +178,12 @@ Our Site and Services may contain links to third party websites. The links to th
 
 You have several choices regarding the use of information with our Services: 
 
-* **Email Communications.**  We may periodically send you newsletters and e-mails that promote our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or updating your preferences in your Account Profile pages of the Site(s). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our [Terms & Conditions](https://www.lulu.com/terms-and-conditions)[](http://www.lulu.com/about/legal) or this Policy, via the email address associated with your Account. 
+* **Email Communications.**  We may periodically send you newsletters and e-mails that promote our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or updating your preferences in your Account Profile pages of the Site(s). Despite your indicated e-mail preferences, we may send you service related communications, including notices of any updates to our [Terms & Conditions](https://www.lulu.com/terms-and-conditions) or this Policy, via the email address associated with your Account. 
     
-
 * **Cookies.**  If you decide at any time that you no longer wish to accept Cookies from our Service, you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Services or all functionality of the Services. If you have any questions about how to disable or modify Cookies, please let us know at [\[email protected\]](https://www.lulu.com/cdn-cgi/l/email-protection).
     
-
 * **Changing or Deleting Your Personal Data.** All users may review, update, correct or delete the Personal Data in their Account via the “My Account” page within the Services. If you completely delete all of your Personal Data, then your Account may be deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
     
-
 * **Security of Credit Card and Bank Account Information.** For online payments and/or Automated Clearing House (ACH) payouts, we use the payment services of Adyen B.V. ([https://www.adyen.com](https://www.adyen.com/)) and PayPal Holdings, Inc. ([https://www.paypal.com](https://www.paypal.com/)). We do not process, record or maintain your credit card or bank account information. For more information on how payments are handled, or to understand the data security and privacy afforded such information, please refer to [https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy) and [https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full).
     
 
