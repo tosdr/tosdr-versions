@@ -51,6 +51,7 @@
     * [Contact Merch Team](https://www.cleetusmcfarland.com/pages/contact)
     
 * [Motion Raceworks](https://www.motionraceworks.com/)
+* [Giveaway](https://www.cleetusmcfarland.com/pages/giveaway-rules)
 
 [Log in](https://www.cleetusmcfarland.com/customer_identity/redirect?locale=en)
 
@@ -349,6 +350,7 @@ United Kingdom | USD $
     * [Contact Merch Team](https://www.cleetusmcfarland.com/pages/contact)
     
 * [Motion Raceworks](https://www.motionraceworks.com/)
+* [Giveaway](https://www.cleetusmcfarland.com/pages/giveaway-rules)
 
  Search [Log in](https://www.cleetusmcfarland.com/customer_identity/redirect?locale=en) [Cart](https://www.cleetusmcfarland.com/cart)
 
@@ -492,17 +494,17 @@ Email Events: [events@fffl.com](mailto:events@fffl.com)
 
 20400 SR 64, Bradenton, FL 34212
 
-\*SUPERCHARGED GMC GIVEAWAY.
-----------------------------
+\*MINI TRX GIVEAWAY.
+--------------------
 
-NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT  
-INCREASE YOUR CHANCES OF WINNING. Open to residents of the 48 contiguous United States (except for  
-AK & HI), the District of Columbia, and Canada (excluding Quebec), who are age of majority & licensed  
-drivers.  Void in the states of AK, HI, the Province of Quebec, and where prohibited. Begins March 8, 2024  
-and ends 11:59:59 PM ET on April 19, 2024. Skill-testing question required if Canadian-selected entrant.   
-Grand Prize is valued at $85,000 USD. Odds of winning depend upon the number of eligible entries  
-received.  See [Official Rules](https://www.cleetusmcfarland.com/pages/giveaway-rules "Giveaway Rules") for complete details including how to enter without making a purchase.  
- Sponsor: GForce Media LLC, 3809 Lorraine Road, Bradenton, FL 34211.
+NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE  
+YOUR CHANCES OF WINNING. Open to residents of the 48 contiguous United States (except for AK & HI),  
+the District of Columbia, and Canada (excluding Quebec), who are age of majority & licensed drivers.  Void in  
+the states of AK, HI, the Province of Quebec, and where prohibited. Begins July 3, 2024 and ends 11:59:59  
+PM ET on August 16, 2024. Skill-testing question required if Canadian-selected entrant.  Grand Prize is  
+valued at $90,000 USD. Odds of winning depend upon the number of eligible entries received.  See [Official  
+Rules](https://www.cleetusmcfarland.com/pages/giveaway-rules "Giveaway Rules") for complete details including how to enter without making a purchase.  Sponsor: GForce Media  
+LLC, 3809 Lorraine Road, Bradenton, FL 34211.
 
 Subscribe to our emails
 -----------------------
