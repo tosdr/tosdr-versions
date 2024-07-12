@@ -599,7 +599,7 @@ Get news and updates
 
 Enter your email
 
-#### Canary
+![](https://cdn.sanity.io/images/8iokmtkl/production/d4a90276f5218180e147b5a2d47f462e11af0b2e-155x56.svg?auto=format)
 
 © 2014-2024 Canary Connect, Inc.  
 Designed in NYC
