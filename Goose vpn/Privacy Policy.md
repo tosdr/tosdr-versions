@@ -431,13 +431,3 @@ Please note: we do not provide telephone support but are available 24/7 by email
 * [Sitemap](https://goosevpn.com/sitemap)
 
 © 2024 GOOSEVPN. All rights reserved.
-
-Close this module
-
-Choose for lifetime privacyGet 50% discount on our Lifetime VPN! 🧡
-
-Pay only once and take advantage of the best deal and be assured of secure and borderless internet for a lifetime!
-
-[TAKE THIS DISCOUNT](https://my.goosevpn.com/sign-up)
-
-[No I do not want a discount](#)
