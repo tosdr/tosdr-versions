@@ -36,10 +36,10 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
     * [Collaborative Indexing](https://en.geneanet.org/indexation/)
 * [Resources](javascript:;)
     * [Blog](https://en.geneanet.org/genealogyblog)
+    * [Search your French ancestors](https://en.geneanet.org/explore/french-ancestors/)
     * [Origin of Last Names](https://en.geneanet.org/surnames/)
     * [Origin of First Names](https://en.geneanet.org/first-name/)
     * [Postcards](https://en.geneanet.org/postcards/)
-    * [Search your French Ancestors](https://en.geneanet.org/explore/french-ancestors/)
 * [Community](javascript:;)
     * [Search for Relatives](https://en.geneanet.org/product/cousinage)
     * [Forums](https://en.geneanet.org/forum/en)
@@ -94,13 +94,13 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 [Blog](https://en.geneanet.org/genealogyblog)
 
+[Search your French ancestors](https://en.geneanet.org/explore/french-ancestors/)
+
 [Origin of Last Names](https://en.geneanet.org/surnames/)
 
 [Origin of First Names](https://en.geneanet.org/first-name/)
 
 [Postcards](https://en.geneanet.org/postcards/)
-
-[Search your French Ancestors](https://en.geneanet.org/explore/french-ancestors/)
 
 [Community](javascript:;)
 -------------------------
