@@ -273,6 +273,7 @@ N1H 3A1
 TTY 519-826-9771  
 [\[email protected\]](https://guelph.ca/cdn-cgi/l/email-protection)
 
+* [Accessibility](https://guelph.ca/accessibility/)
 * [Contact us](https://guelph.ca/city-hall/contact-us/)
 * [Social media](https://guelph.ca/news/social-media/)
 * [Privacy policy](https://guelph.ca/city-hall/access-to-information/privacy-policy/)
