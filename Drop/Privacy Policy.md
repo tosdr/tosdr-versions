@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[MT3 BOGO is Back
+[Drop ALT V2 High-Profile Chroma Case
 
-Seeing double? Try saving double.
+Get all the colors on your ALT.
 
-BOGO NOW
+Preorder now
 
-_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/MT3BOGO)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-alt-high-profile-mirror-pvd-case)
 
 Free Standard Shipping in the US on orders over $99
 
@@ -129,6 +129,8 @@ Please read this Privacy Policy to understand how we collect, use, disclose, tra
 4. Our products/services or advertisements provided on or through third party sites/services (e.g. advertisements delivered by third parties and data we collect through promotions on third party sites), or via social media (e.g. when we correspond with you via social media, when we access information provided by social media platforms in relation to our pages on those platforms, and when you reference or interact with our posts on social media).
     
 5. Our offline services, for example, when we interact with customers at a conference, trade show, event, or over the phone, and our support services (e.g. when you contact us through online form or chat).
+    
+6. Our Services may include YouTube API Services. By accessing or using our Services that include YouTube API Services, You agree to [YouTube's Terms of Service](https://www.youtube.com/t/terms) and [Google Privacy Policy](http://www.google.com/policies/privacy). For the YouTube application, you can revoke YouTube application’s access to your data via the [Google security settings page](https://security.google.com/settings/security/permissions).
     
 
 Unless explicitly stated otherwise, any new products , services, or features of our Service will be subject to this Privacy Policy.
