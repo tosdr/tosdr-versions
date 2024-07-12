@@ -116,7 +116,7 @@ We're building an open financial system for the world.
 
 
 
-[Sign in](https://www.coinbase.com/login "Sign in")Sign up
+[Sign in](https://www.coinbase.com/login "Sign in")[Sign up](https://www.coinbase.com/create-account "Sign up")
 
 Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 mins to learn more](https://www.coinbase.com/uk-fca-info)
 
@@ -195,6 +195,12 @@ We may update this Cookie Policy from time to time to reflect, for example, chan
 © 2024 Coinbase
 
 [Blog](https://www.coinbase.com/blog)•[Twitter](https://twitter.com/coinbase)•[Facebook](https://www.facebook.com/Coinbase)
+
+
+
+United Kingdom
+
+English
 
 Company
 -------
