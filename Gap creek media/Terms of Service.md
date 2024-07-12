@@ -32,11 +32,11 @@ By using this website, you imply agreement with our [Privacy Policy](https://gap
 Onboarding starts at just $800
 ------------------------------
 
-Current Openings: 11
+Current Openings: 7
 
  [](https://gapcreekmedia.com/pricing/onboarding/)
 
-[](https://t.me/gapcreekmedia "Gap Creek Media on Telegram")[](https://facebook.com/gapcreekmedia "Gap Creek Media on Facebook")[](https://www.instagram.com/gapcreekmedia/ "Gap Creek Media on Instagram")[](https://www.pinterest.com/gapcreekmedia/ "Gap Creek Media on Pinterest")[](https://www.youtube.com/channel/UCVO5M67Y4cK5Fm3FpUYyBag "Gap Creek Media on YouTube")
+[](https://facebook.com/gapcreekmedia "Gap Creek Media on Facebook")[](https://www.instagram.com/gapcreekmedia/ "Gap Creek Media on Instagram")[](https://www.pinterest.com/gapcreekmedia/ "Gap Creek Media on Pinterest")[](https://www.youtube.com/channel/UCVO5M67Y4cK5Fm3FpUYyBag "Gap Creek Media on YouTube")
 
 [Contact Us](https://gapcreekmedia.com/contact-us/ "Call now for Web Presence Management & Consulting services")
 
@@ -135,11 +135,11 @@ Recent Blog Posts
 Onboarding starts at just $800
 ------------------------------
 
-Current Openings: 11
+Current Openings: 7
 
  [](https://gapcreekmedia.com/pricing/onboarding/)
 
-[](https://t.me/gapcreekmedia "Gap Creek Media on Telegram")[](https://facebook.com/gapcreekmedia "Gap Creek Media on Facebook")[](https://www.pinterest.com/gapcreekmedia/ "Gap Creek Media on Pinterest")[](https://www.instagram.com/gapcreekmedia/ "Gap Creek Media on Instagram")[](https://www.youtube.com/channel/UCVO5M67Y4cK5Fm3FpUYyBag "Gap Creek Media on YouTube")
+[](https://facebook.com/gapcreekmedia "Gap Creek Media on Facebook")[](https://www.pinterest.com/gapcreekmedia/ "Gap Creek Media on Pinterest")[](https://www.instagram.com/gapcreekmedia/ "Gap Creek Media on Instagram")[](https://www.youtube.com/channel/UCVO5M67Y4cK5Fm3FpUYyBag "Gap Creek Media on YouTube")
 
 [Contact Us](https://gapcreekmedia.com/contact-us/ "Call now for Web Presence Management & Consulting services")
 
