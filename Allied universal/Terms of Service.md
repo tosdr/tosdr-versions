@@ -358,7 +358,7 @@ Also of Interest
 * [Privacy Policy](https://www.aus.com/privacy-policy "Privacy Policy")
 * [Terms of Use](https://www.aus.com/terms-of-use)
 * [Site Map](https://www.aus.com/sitemap "Site Map")
-* [Code of Ethics](https://www.aus.com/sites/default/files/2023-02/AU%202023%20NA%20Code%20of%20Ethics.pdf)
+* [Code of Ethics](https://www.aus.com/sites/default/files/2024-06/2024%20AU%20Global%20Code.pdf)
 * [Speak Out hotline](https://secure.ethicspoint.com/domain/media/en/gui/63141/index.html)
 * [Whistleblower Policy](https://www.aus.com/sites/default/files/2022-05/Whistleblower%20Policy%202019_updated.pdf)
 * [Supplier Diversity Policy](https://www.aus.com/sites/default/files/2023-06/POL-1513%20NA%20Supplier%20Diversity%20Policy%2011142022.pdf)
