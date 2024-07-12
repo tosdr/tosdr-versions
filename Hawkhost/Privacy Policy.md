@@ -102,7 +102,7 @@ Our service is not available to children under the age of 13, and we will not in
 
 _$_2.24/mo
 
-[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=june2024)
+[GET STARTED NOW](https://my.hawkhost.com/store/shared-hosting/primary?billingcycle=biennially&promocode=july2024)
 
 [![](/images/icon-contact-support.webp)Contact Support](https://my.hawkhost.com/submitticket.php)
 
