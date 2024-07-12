@@ -12,11 +12,11 @@
 
 [Membership](https://www.gbnews.uk/membership/)
 
-[Puzzles](https://www.gbnews.uk/membership/puzzles/)[GB News Uncut](https://www.gbnews.uk/membership/uncut/)[Polls](https://www.gbnews.uk/membership/polls/)
+[Puzzles](https://www.gbnews.uk/membership/puzzles/)[GB News Uncut](https://www.gbnews.uk/membership/uncut/)[Polls](https://www.gbnews.uk/membership/polls/)[Rewards](https://www.gbnews.uk/membership/rewards/)
 
 [Politics](https://www.gbnews.uk/politics/)
 
-[UK Politics](https://www.gbnews.uk/politics/uk/)[Rishi Sunak](https://www.gbnews.uk/politics/uk/rishi-sunak/)[Keir Starmer](https://www.gbnews.uk/politics/uk/keir-starmer/)[Conservative Party](https://www.gbnews.uk/politics/uk/conservative-party/)[Labour Party](https://www.gbnews.uk/politics/uk/labour-party/)[SNP](https://www.gbnews.uk/politics/uk/snp/)[US Politics](https://www.gbnews.uk/politics/us/)
+[UK Politics](https://www.gbnews.uk/politics/uk/)[Rishi Sunak](https://www.gbnews.uk/politics/uk/rishi-sunak/)[Keir Starmer](https://www.gbnews.uk/politics/uk/keir-starmer/)[Conservatives](https://www.gbnews.uk/politics/uk/conservative-party/)[Labour](https://www.gbnews.uk/politics/uk/labour-party/)[SNP](https://www.gbnews.uk/politics/uk/snp/)[Reform UK](https://www.gbnews.uk/politics/uk/reform-uk/)[Lib Dems](https://www.gbnews.uk/politics/uk/liberal-democrats/)[US Politics](https://www.gbnews.uk/politics/us/)
 
 [America](https://www.gbnews.uk/us/)
 
@@ -58,7 +58,7 @@
 
 [Catch Up](https://www.gbnews.uk/watch/catch-up/)[Breakfast with Eamonn and Isabel](https://www.gbnews.uk/shows/breakfast-with-eamonn-and-isabel/)[Dewbs & Co](https://www.gbnews.uk/shows/dewbs-co/)[Patrick Christys](https://www.gbnews.uk/shows/patrick-christys/)[Nana Akua](https://www.gbnews.uk/shows/nana-akua/)[Breakfast with Stephen and Anne](https://www.gbnews.uk/shows/breakfast-with-stephen-and-anne/)[Mark Dolan Tonight](https://www.gbnews.uk/shows/mark-dolan-tonight/)[Camilla Tominey Show](https://www.gbnews.uk/shows/the-camilla-tominey-show/)[Sunday with Michael Portillo](https://www.gbnews.uk/shows/sunday-with-michael-portillo/)[Neil Oliver - Live](https://www.gbnews.uk/shows/neil-oliver-live/)[Free Speech Nation](https://www.gbnews.uk/shows/free-speech-nation/)[Headliners](https://www.gbnews.uk/shows/headliners/)
 
-[Your Say](https://www.gbnews.uk/yoursay)[Support](https://www.gbnews.uk/support)[News Alerts](https://www.gbnews.uk/alerts)[Latest](https://www.gbnews.uk/latest)[Puzzles](https://www.gbnews.uk/membership/puzzles/)[Win](https://www.gbnews.uk/win)[BBC](https://www.gbnews.uk/celebrity/bbc/)[Pensions](https://www.gbnews.uk/money/pensions/)[Weather](https://www.gbnews.uk/weather/)[Cars](https://www.gbnews.uk/lifestyle/cars/)[Meghan Markle](https://www.gbnews.uk/royal/meghan-markle/)[Michelle Dewberry](https://www.gbnews.uk/presenters/michelle-dewberry/)[Prince Harry](https://www.gbnews.uk/royal/prince-harry/)[Brexit](https://www.gbnews.uk/news/uk/brexit/)
+[GBN Shop](https://gbnews.store/)[Your Say](https://www.gbnews.uk/yoursay)[Support Us](https://www.gbnews.uk/support)[News Alerts](https://www.gbnews.uk/alerts)[Latest](https://www.gbnews.uk/latest)[Puzzles](https://www.gbnews.uk/membership/puzzles/)[Win](https://www.gbnews.uk/win)[BBC](https://www.gbnews.uk/celebrity/bbc/)[Pensions](https://www.gbnews.uk/money/pensions/)[Weather](https://www.gbnews.uk/weather/)[Cars](https://www.gbnews.uk/lifestyle/cars/)[Meghan Markle](https://www.gbnews.uk/royal/meghan-markle/)[Michelle Dewberry](https://www.gbnews.uk/presenters/michelle-dewberry/)[Prince Harry](https://www.gbnews.uk/royal/prince-harry/)[Brexit](https://www.gbnews.uk/news/uk/brexit/)
 
 [Presenters](https://www.gbnews.uk/presenters/)
 
@@ -70,7 +70,7 @@
 
 [Comment](#comments)Share[Next](#)
 
-[DON'T LET THEM SILENCE YOU—SUPPORT GB NEWS](https://www.gbnews.uk/support "DON'T LET THEM SILENCE YOU – SUPPORT GB NEWS")
+[WATCH IN FULL: BRITAIN'S FAR LEFT EXPOSED](https://www.gbnews.uk/news/britains-far-left-exposed-documentary-charlie-peters "WATCH IN FULL: BRITAIN'S FAR LEFT EXPOSED")
 
 ### Share this
 
@@ -284,6 +284,13 @@ The detail – the key information you should be aware of
 _The practices described in this privacy policy statement are current as of 1st February 2023._
 
 _Updated 10th November 2023_
+
+[ROYAL BREAKING](https://www.gbnews.com/royal/princess-anne-health-update-pictures-latest-royal-news)
+-----------------------------------------------------------------------------------------------------
+
+### [Princess Anne seen for the first time since suffering head injuries](https://www.gbnews.com/royal/princess-anne-health-update-pictures-latest-royal-news)
+
+1720791731.722
 
 About Us
 
