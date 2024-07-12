@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=112814549383458&ev=PageView&noscript=1)      
 
-[![iSchoolConnect Logo - iSchoolConnect](https://cdn.ischoolconnect.com/iSchoolConnect/b2c/images/iSchoolConnect-logo.svg "iSchoolConnect")](https://ischoolconnect.com/en/)
+[![iSchoolConnect Logo - iSchoolConnect](https://cdn.ischoolconnect.com/iSchoolConnect/b2c/images/iSchoolConnect-logo.svg "iSchoolConnect")](https://ischoolconnect.com/)
 
 * [Explore](https://ischoolconnect.com/)
     
@@ -18,87 +18,87 @@
     
     #### IELTS
     
-    [IELTS Overview](https://ischoolconnect.com/en/exams/ielts/overview)
+    [IELTS Overview](https://ischoolconnect.com/exams/ielts/overview)
     
-    [IELTS Eligibility](https://ischoolconnect.com/en/exams/ielts/eligibility/)
+    [IELTS Eligibility](https://ischoolconnect.com/exams/ielts/eligibility/)
     
-    [IELTS Syllabus](https://ischoolconnect.com/en/exams/ielts/syllabus)
+    [IELTS Syllabus](https://ischoolconnect.com/exams/ielts/syllabus)
     
-    [IELTS Exam Pattern](https://ischoolconnect.com/en/exams/ielts/exam-pattern/)
+    [IELTS Exam Pattern](https://ischoolconnect.com/exams/ielts/exam-pattern/)
     
-    [IELTS Preparation Ideas](https://ischoolconnect.com/en/exams/ielts/preparation-ideas/)
+    [IELTS Preparation Ideas](https://ischoolconnect.com/exams/ielts/preparation-ideas/)
     
-    [IELTS Practice Tests](https://ischoolconnect.com/en/exams/ielts/practice-tests/)
+    [IELTS Practice Tests](https://ischoolconnect.com/exams/ielts/practice-tests/)
     
     #### TOEFL
     
-    [TOEFL Overview](https://ischoolconnect.com/en/exams/toefl/overview/)
+    [TOEFL Overview](https://ischoolconnect.com/exams/toefl/overview/)
     
-    [TOEFL Eligibility](https://ischoolconnect.com/en/exams/toefl/eligibility/)
+    [TOEFL Eligibility](https://ischoolconnect.com/exams/toefl/eligibility/)
     
-    [TOEFL Syllabus](https://ischoolconnect.com/en/exams/toefl/syllabus/)
+    [TOEFL Syllabus](https://ischoolconnect.com/exams/toefl/syllabus/)
     
-    [TOEFL Exam Pattern](https://ischoolconnect.com/en/exams/toefl/exam-pattern/)
+    [TOEFL Exam Pattern](https://ischoolconnect.com/exams/toefl/exam-pattern/)
     
-    [TOEFL Preparation Ideas](https://ischoolconnect.com/en/exams/toefl/preparation-ideas/)
+    [TOEFL Preparation Ideas](https://ischoolconnect.com/exams/toefl/preparation-ideas/)
     
-    [TOEFL Practice Tests](https://ischoolconnect.com/en/exams/toefl/practice-tests/)
+    [TOEFL Practice Tests](https://ischoolconnect.com/exams/toefl/practice-tests/)
     
     #### PTE
     
-    [PTE Overview](https://ischoolconnect.com/en/exams/pte/overview/)
+    [PTE Overview](https://ischoolconnect.com/exams/pte/overview/)
     
-    [PTE Eligibility](https://ischoolconnect.com/en/exams/pte/eligibility/)
+    [PTE Eligibility](https://ischoolconnect.com/exams/pte/eligibility/)
     
-    [PTE Syllabus](https://ischoolconnect.com/en/exams/pte/syllabus/)
+    [PTE Syllabus](https://ischoolconnect.com/exams/pte/syllabus/)
     
-    [PTE Exam Pattern](https://ischoolconnect.com/en/exams/pte/exam-pattern/)
+    [PTE Exam Pattern](https://ischoolconnect.com/exams/pte/exam-pattern/)
     
-    [PTE Preparation Ideas](https://ischoolconnect.com/en/exams/pte/preparation-ideas/)
+    [PTE Preparation Ideas](https://ischoolconnect.com/exams/pte/preparation-ideas/)
     
-    [PTE Practice Tests](https://ischoolconnect.com/en/exams/pte/practice-tests/)
+    [PTE Practice Tests](https://ischoolconnect.com/exams/pte/practice-tests/)
     
     #### GRE
     
-    [GRE Overview](https://ischoolconnect.com/en/exams/gre/overview)
+    [GRE Overview](https://ischoolconnect.com/exams/gre/overview)
     
-    [GRE Eligibility](https://ischoolconnect.com/en/exams/gre/eligibility)
+    [GRE Eligibility](https://ischoolconnect.com/exams/gre/eligibility)
     
-    [GRE Syllabus](https://ischoolconnect.com/en/exams/gre/syllabus)
+    [GRE Syllabus](https://ischoolconnect.com/exams/gre/syllabus)
     
-    [GRE Exam Pattern](https://ischoolconnect.com/en/exams/gre/exam-pattern/)
+    [GRE Exam Pattern](https://ischoolconnect.com/exams/gre/exam-pattern/)
     
-    [GRE Preparation Ideas](https://ischoolconnect.com/en/exams/gre/preparation-ideas/)
+    [GRE Preparation Ideas](https://ischoolconnect.com/exams/gre/preparation-ideas/)
     
-    [GRE Practice Tests](https://ischoolconnect.com/en/exams/gre/practice-tests/)
+    [GRE Practice Tests](https://ischoolconnect.com/exams/gre/practice-tests/)
     
     #### GMAT
     
-    [GMAT Overview](https://ischoolconnect.com/en/exams/gmat/overview)
+    [GMAT Overview](https://ischoolconnect.com/exams/gmat/overview)
     
-    [GMAT Eligibility](https://ischoolconnect.com/en/exams/gmat/eligibility/)
+    [GMAT Eligibility](https://ischoolconnect.com/exams/gmat/eligibility/)
     
-    [GMAT Syllabus](https://ischoolconnect.com/en/exams/gmat/syllabus/)
+    [GMAT Syllabus](https://ischoolconnect.com/exams/gmat/syllabus/)
     
-    [GMAT Exam Pattern](https://ischoolconnect.com/en/exams/gmat/exam-pattern/)
+    [GMAT Exam Pattern](https://ischoolconnect.com/exams/gmat/exam-pattern/)
     
-    [GMAT Preparation Ideas](https://ischoolconnect.com/en/exams/gmat/preparation-ideas/)
+    [GMAT Preparation Ideas](https://ischoolconnect.com/exams/gmat/preparation-ideas/)
     
-    [GMAT Practice Tests](https://ischoolconnect.com/en/exams/gmat/practice-tests/)
+    [GMAT Practice Tests](https://ischoolconnect.com/exams/gmat/practice-tests/)
     
     #### SAT
     
-    [SAT Overview](https://ischoolconnect.com/en/exams/sat/overview/)
+    [SAT Overview](https://ischoolconnect.com/exams/sat/overview/)
     
-    [SAT Eligibility](https://ischoolconnect.com/en/exams/sat/eligibility/)
+    [SAT Eligibility](https://ischoolconnect.com/exams/sat/eligibility/)
     
-    [SAT Syllabus](https://ischoolconnect.com/en/exams/sat/syllabus/)
+    [SAT Syllabus](https://ischoolconnect.com/exams/sat/syllabus/)
     
-    [SAT Exam Pattern](https://ischoolconnect.com/en/exams/sat/exam-pattern/)
+    [SAT Exam Pattern](https://ischoolconnect.com/exams/sat/exam-pattern/)
     
-    [SAT Preparation Ideas](https://ischoolconnect.com/en/exams/sat/preparation-ideas/)
+    [SAT Preparation Ideas](https://ischoolconnect.com/exams/sat/preparation-ideas/)
     
-    [SAT Practice Tests](https://ischoolconnect.com/en/exams/sat/practice-tests/)
+    [SAT Practice Tests](https://ischoolconnect.com/exams/sat/practice-tests/)
     
 * [Our Experts](https://ischoolconnect.com/pages/meet-our-counsellors/)
 * [iSchoolPrep](https://ischoolprep.com/)
@@ -116,10 +116,10 @@
     Analyze and check plagiarism for your easy or statement of purpose](#writing-mentor)
     
 * [Blog](https://ischoolconnect.com/blog/)
-* [PRICING](https://ischoolconnect.com/en/pricing/)
+* [PRICING](https://ischoolconnect.com/pricing/)
 * Login
 
-[Download App](https://ischoolconnect.com/en/download-app/)
+[Download App](https://ischoolconnect.com/download-app/)
 
 Footer
 ------
@@ -150,30 +150,30 @@ Studio 4, Plot 3, Block A, Sector 4, Noida, Uttar Pradesh 201301
 
 ### USEFUL LINKS
 
-* [How it Works](https://ischoolconnect.com/en/how-it-works/)
-* [About Us](https://ischoolconnect.com/en/about-us/)
+* [How it Works](https://ischoolconnect.com/how-it-works/)
+* [About Us](https://ischoolconnect.com/about-us/)
 * [For Institutions](https://ischool360.net/)
 * [Scholarship](https://ischoolconnect.com/scholarship/)
 * [Community](https://ischoolconnect.com/community/)
 * [Ask an expert](https://ischoolconnect.com/discuss/)
 * [iSchoolPrep](https://ischoolprep.com/)
 * [Blog](https://ischoolconnect.com/blog/)
-* [Careers](https://ischoolconnect.com/en/careers/)
-* [Contact Us](https://ischoolconnect.com/en/contact-us/)
+* [Careers](https://ischoolconnect.com/careers/)
+* [Contact Us](https://ischoolconnect.com/contact-us/)
 
 ### TOP UNIVERSITIES
 
-* [Harvard University](https://ischoolconnect.com/en/universities/usa/harvard-university/)
-* [Oxford University](https://ischoolconnect.com/en/universities/gbr/university-of-oxford/)
-* [Stanford University](https://ischoolconnect.com/en/universities/usa/stanford-university/)
-* [University of Toronto](https://ischoolconnect.com/en/universities/can/university-of-toronto-mississauga/)
-* [University of Cambridge](https://ischoolconnect.com/en/universities/gbr/university-of-cambridge/)
-* [Conestoga College](https://ischoolconnect.com/en/universities/can/conestoga-college-doon/)
-* [Centennial College](https://ischoolconnect.com/en/universities/can/centennial-college-downsview-campus/)
-* [Columbia University](https://ischoolconnect.com/en/universities/usa/columbia-university-new-york/)
-* [Seneca College](https://ischoolconnect.com/en/universities/can/seneca-college-newnham/)
-* [University of British Columbia](https://ischoolconnect.com/en/universities/can/university-of-british-columbia-okanagan/)
-* [View All Universities](https://ischoolconnect.com/en/explore-schools)
+* [Harvard University](https://ischoolconnect.com/universities/usa/harvard-university/)
+* [Oxford University](https://ischoolconnect.com/universities/gbr/university-of-oxford/)
+* [Stanford University](https://ischoolconnect.com/universities/usa/stanford-university/)
+* [University of Toronto](https://ischoolconnect.com/universities/can/university-of-toronto-mississauga/)
+* [University of Cambridge](https://ischoolconnect.com/universities/gbr/university-of-cambridge/)
+* [Conestoga College](https://ischoolconnect.com/universities/can/conestoga-college-doon/)
+* [Centennial College](https://ischoolconnect.com/universities/can/centennial-college-downsview-campus/)
+* [Columbia University](https://ischoolconnect.com/universities/usa/columbia-university-new-york/)
+* [Seneca College](https://ischoolconnect.com/universities/can/seneca-college-newnham/)
+* [University of British Columbia](https://ischoolconnect.com/universities/can/university-of-british-columbia-okanagan/)
+* [View All Universities](https://ischoolconnect.com/explore-schools)
 
 ### OUR PRODUCTS
 
