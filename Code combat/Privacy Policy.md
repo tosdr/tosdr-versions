@@ -50,6 +50,10 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies, it will turn off some of the features that make your site experience more efficient and some of our services will not function properly.
 
+**Delete Your Account**
+
+To delete your account and all personal data relating to your account, go to [https://codecombat.com/account/settings](https://codecombat.com/account/settings) and scroll down to the section Delete Your Account . Enter your email address and password, and click Delete this account permanently. All user data will then be deleted.
+
 **Third Party Disclosure**
 
 We do not sell or trade to outside parties your personally identifiable information, and do not otherwise transfer it except as described in this privacy notice.
