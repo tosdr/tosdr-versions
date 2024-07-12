@@ -94,6 +94,7 @@ Registered in England and Wales.
 [Help Centre](https://citationsy.com/help)  
 [Newsletter](https://citationsy.com/newsletter)  
 [Privacy](https://citationsy.com/privacy)  
+[ToS](https://citationsy.com/tos)  
 
 [Twitter](https://twitter.com/Citationsy)  
 [Instagram](https://instagram.com/citationsy_)  
