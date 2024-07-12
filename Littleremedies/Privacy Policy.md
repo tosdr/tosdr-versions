@@ -55,174 +55,173 @@ Back
     
     Videos](https://www.littleremedies.com/videos)
 
-Page Title
-==========
+Privacy Notice
+==============
 
-Prestige Consumer Healthcare Website Privacy Statement
-------------------------------------------------------
+**Effective Date: June 1, 2024**
 
-### [1\. Purpose of the Privacy Policy](#top-of-page)
+WHO WE ARE
+----------
 
-Prestige Consumer Healthcare Inc. and each of its affiliates and subsidiary entities (collectively "Prestige", "we", "our", "us") are committed to maintaining the accuracy, confidentiality, and security of your Personal Data. This Website Privacy Policy explains how we collect, use, and disclose Personal Data that we obtain when you visit our website or communicate with us both on the website and offline.
+Prestige Consumer Healthcare Inc. and each of its affiliates and subsidiary entities (collectively, “Prestige,” “we,” “our,” or “us”) are committed to protecting your personal data. We are headquartered in Tarrytown, NY and we market, sell, manufacture, and distribute consumer healthcare products to retail outlets in the US, Canada, Australia, and certain other international markets. Unless stated otherwise, this Privacy Notice applies to and explains the types of personal data we collect, how we use your personal data, how we may share your personal data, and the security we employ to protect your personal data in connection with our collection of it. For persons residing in the European Economic Area (“EEA”), UK or Switzerland, please click [here](https://www.littleremedies.com/eea-privacy-notice) for the applicable supplement to this Privacy Notice.
 
-This Privacy Policy applies to individuals residing within the United States and who do not also reside within the European Union or the United Kingdom. If you are a resident of the European Union or the United Kingdom, please click [here](https://www.prestigebrands.com/about-us/prestige-uk#:~:text=Prestige%20Brands%20%28UK%29%20Ltd.%20was%20established%20in%202000%2C,our%20customers%20care%20for%20themselves%20and%20their%20families.) for the applicable Privacy Policy.
+In this Privacy Notice, “you” means anyone who uses our Website (as defined in our Terms of Use), our products or services, or otherwise communicates with us. Personal data means information that identifies, describes, or is reasonably capable of being associated with or linked to, directly or indirectly, an individual or household. We also have [Terms of Use,](https://www.littleremedies.com/terms-of-use) which applies to your use and access of our Website, and which you may access by clicking on the hyperlink.
 
-This Privacy Policy addresses the following topics:
+TABLE OF CONTENTS
 
-* [Types of Personal Information Collected by Prestige](#section-2)
-* [When Prestige Collects Your Personal Information](#section-3)
-* [How Prestige Uses Your Personal Information](#section-4)
-* [Disclosure or Sale of Personal Information](#section-5)
-* [Data Retention Practices](#section-6)
-* [Protecting Personal Information](#section-7)
-* [Children](#section-8)
-* [Links](#section-9)
-* [Raising a Complaint](#section-10)
-* [Changes to this Privacy Policy](#section-11)
-* [Contact Details](#section-12)
-* [California Consumer Privacy Act Rights and Additional Information](#section-ccpa)
+* [Contact Us](#section-2)
+* [Modification](#section-3)
+* [Personal Data We Collect](#section-4)
+* [How We May Use Your Personal Data](#section-5)
+* [How We May Share Your Personal Data](#section-6)
+* [How We Protect Your Personal Data](#section-7)
+* [Retention of Data](#section-8)
+* [Cookies](#section-9)
+* [Children's Privacy](#section-10)
+* [Linked Sites](#section-11)
+* [International Transfers of Data](#section-12)
+* [Data Subject Rights](#section-13)
+* [Jurisdiction-Specific Privacy Notices](#section-14)
+    * [California Privacy Notice](https://www.littleremedies.com/california-privacy-notice)
+    * [Nevada Privacy Notice](https://www.littleremedies.com/nevada-privacy-notice)
+    * [European Economic Area (EEA)](https://www.littleremedies.com/eea-privacy-notice)
 
-### [2\. Types of Personal Data Collected by Prestige](#top-of-page)
+### [Contact Us](#top-of-page)
 
-_Personal Data_ is defined as any information that can be used to identify an individual either on its own or when combined with other available data.
+You may contact us at Prestige Consumer Healthcare Inc., ATTN: Privacy, 660 White Plains Rd., #250, Tarrytown, NY 10591. You also may reach us by email at privacy@PrestigeBrands.com, or at the Prestige Privacy toll-free number, 1-877-297-0721.
 
-Information Prestige Collect from You
+### [MODIFICATION](#top-of-page)
 
-Prestige collects information that you provide directly to us or through this website. The categories of Personal Data you may provide Prestige include:
+We reserve the right to modify this Privacy Notice at any time. If we make material changes to this Privacy Notice, we will provide an appropriate notice under applicable law. The date at the top tells you when we last updated this Privacy Notice. Changes to this Privacy Notice are effective when posted. By clicking on the accept box following any changes, you affirmatively acknowledge and confirm that you have read and understand our data collection practices and acknowledge the changes reflected in the updated Privacy Notice. _If you do not agree, you may not use our Website or submit information to us._
 
-* first and last name
-* age/date of birth
-* gender
-* mailing address
-* telephone number
-* email address
-* IP address (we may also derive your approximate location from your IP address)
-* demographic information and any other information provided by you that does not reveal your specific identity, and
-* any other identifier that permits Prestige to contact you
+### [PERSONAL DATA WE COLLECT](#top-of-page)
 
-Prestige does not generally seek to collect special categories (sensitive) of Personal Data through our website. _Special categories_ of Personal Data for purposes of this Privacy Policy are information relating to racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, health or sex life, sexual orientation, genetic or biometric information. We ask that you not send us, and you do not disclose to us, any special categories of Personal Data. If we require any such information, Prestige will, at the time of collection, ask for your explicit consent to the proposed use of that information, as required by applicable law.
+We may collect personal data about you from you directly, through technology that automatically collects information from your browser or device, and/or from third party sources. We provide examples below. These examples are not exhaustive and we may collect personal data that is not specifically listed below which we use consistent with this Privacy Notice. We also may provide supplemental information about our data collection or privacy practices in disclosures about specific products, services, or in other circumstances, or in some cases, at the time we collect personal information from you. Any personal data that we collect will be used and processed in a manner consistent with this Privacy Notice.
 
-Prestige also automatically collects, stores, and uses information about your visits to our website and about the device through which you access the website. See our [_Cookie Policy_](https://www.prestigebrands.com/privacy-policy#section-4) for further information.
+**Personal Data You Provide To Us.** Personal data we may collect from you includes information you choose to submit to us in connection with your access to and use of our Website, when you sign up for email alerts, participate in contests, promotions, or surveys we may have, or when you otherwise communicate with us. Such information may include:
 
-### [3\. When Prestige Collects Your Personal Data](#top-of-page)
+* Contact information like your first and last name, mailing address, email address, telephone number, gender, age/date of birth, and other similar information.
+* If you seek employment from us, we will seek employer-related information, such as background, work experience, and education, for hiring purposes.
+* If you reach out to our call center to make a complaint or provide feedback regarding a product, including your location, how you believe you may have been harmed, and the sound of your voice.
+* If you send us pictures relating to a product, we may collect your image.
 
-Prestige collects your Personal Data as follows:
+**Personal Data We Collect Automatically.** We collect personal data from you automatically when you interact with us or engage with our Website, including:
 
-* when you voluntarily provide it to us on the website or offline
-* when you sign up to receive emails, alerts, or other communications
-* when you communicate with us either on the website or offline,
-* when you participate in Prestige surveys, contests, or promotions, and
-* from third-party sources
+* Your device and browser (such as browser type and version) data, and geolocation, through the use of cookies, web-beacons, or pixels for identity and security purposes, and also to improve user experience (for more information about cookies and advertising, please see our [Advertising and Cookie Policy](https://www.littleremedies.com/advertising-and-cookie-policy) (hereinafter, “Cookie Policy”).
+* This Website uses pixel tags, also known as web beacons or pixel gifs, to collect information about your visit, such as the pages you view, the links you click, and other actions you take on our Website. We use this information to track website activities to analyze and improve the performance of our Website, personalize your experience, measure the effectiveness of our marketing campaigns, and for advertising. We may share this information for targeted advertising.
+* Your online activity like the dates, times, and duration you visited or accessed our Website, the browser you used, URLs you come from and go to. For example, online activity data may include how and when you navigated within our Website, and which links or features you clicked on. This data may be anonymized or pseudonymized.
+* Network and connection information, such as the Internet protocol (IP) address used to connect your computer or other device to the Internet and information about your Internet service provider (we may also derive your approximate location from your IP address), and geolocation data; and
+* Metrics, such as Website usage, occurrences of technical errors, diagnostic reports, backup information, API calls, and other logs.
 
-Prestige will only use your Personal Information for the purposes for which it was collected, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose, or as otherwise required by law.
+**Personal Data We Collect From Third Parties.** We may receive information from third parties, including reports regarding adverse reactions to our products, or from third-party providers for analytic purposes, such as Google Analytics. If you seek employment with us, we may obtain information about you from employment agencies or websites, referrals, or from your former employers (as referrals), regarding your employment history.
 
-### [4\. How We Use Your Personal Data](#top-of-page)
+### [**HOW WE MAY USE YOUR PERSONAL DATA**](#top-of-page)
 
-Prestige's uses your Personal Data for various purposes including:
+We use the personal data we collect about you to render our services for you and your company, namely to operate and improve our products and services, our Website and its related technologies and infrastructure; to improve your experiences with our products and services, and Website; to coordinate with others in connection with our products and services; to contact and communicate with you; to protect our rights; to protect the rights of others; to enforce our Terms of Use; and/or to prevent fraud and abuse in connection with our products and services or our Website, or our other systems or networks. If you seek employment with us, we will use your information for employment hiring purposes.
 
-* **Providing website functionality and fulfilling your requests**. This includes, for example, providing a tailored website experience and responding to your questions, suggestions, and/or complaints submitted through Prestige's online contact forms.
-* **Meeting pharmacovigilance-related obligations.** Reports of adverse events related to a Prestige product will be reviewed and shared in order to comply with Prestige's pharmacovigilance-related obligations including reporting to relevant health authorities. In these circumstances, only details about the incident are reported and only limited Personal Data is shared (_e.g._, age, gender, and initials of a patient or initials, profession, and contact information of a reporting physician or pharmacist).
-* **Providing you with our marketing materials and other information**. Prestige uses your Personal Data to send you marketing-related emails, with information about Prestige's products, services, and other news about the company. Recipients of marketing-related emails may opt-out of receiving these types of communications.
-* **Providing personalized services**. Prestige uses your data to understand your interests and preferences so that Prestige can personalize our interactions with you and provide you with information and/or offers tailored to your interests.
-* **Allowing participation in surveys, contests, and promotions**. Prestige uses your data to offer you the opportunity to participate in (and to track your participation in) surveys, contests, and promotions. Some of these surveys, contests, or promotions include additional information about how we will use and disclose your Personal Data. Please read this additional information before choosing to participate.
-* **Accomplishing Prestige's business purposes.** Prestige uses personal data to continually improve its business. For example, we may use data analysis to improve the efficiency of our website or to help us understanding which parts of our products and services are of most interest to our users so we can focus our energies on meeting our users' interests.
+**By accessing and using our Website, and by clicking the “ACCEPT” box, or by agreeing to these privacy terms that may be provided to you by other means, you expressly confirm that you have read, understand, and consent to the practices set forth in our Privacy Notice and that you have given us your consent to use or share your information:**
 
-### [5\. Disclosure or Sale of Personal Information](#top-of-page)
+* to contact you, identify/verify who you are, or to address customer service-related aspects, like how to improve our Website, our products and services, to respond to your inquiries, to provide personalized responses and services, and/or to otherwise share your information as described in this Privacy Notice.
+* to improve our Website, products, and services, including to conduct analytics and generate internal reports about its use, and to assist with security and fraud prevention, including to detect, investigate and prevent activities that may violate our Terms of Use, be harmful to others or be illegal, and to make suggestions and draw inferences about you.
+* for our own marketing purposes, whether through the use of pixels, web beacons, or other technologies. We may use your information to improve the quality and/or your personal experience with our Website, products, and services. At times, we may collaborate with others to provide products and services, including informational experiences.
+* to offer you the opportunity to participate in (and to track your participation in) surveys, contests, and promotions. Some of these surveys, contests, or promotions include additional information about how we will use and disclose your personal data. Please read this additional information before choosing to participate.
+* to personalize content, features, advertisements, or other marketing messages presented by us and third parties, both on the Website and elsewhere online.
+* to enforce our rights or to comply with applicable law; or to detect or prevent fraud (financial or otherwise), intellectual property infringement, potential misuse of our Website or breach of our Terms of Use. We may use your information to manage third-party risks or other risks to our business, and to protect the reputation of our business.
+* to satisfy our pharmacovigilance-related obligations. For example, reports of adverse events related to a Prestige product will be reviewed and shared in order to comply with Prestige's pharmacovigilance-related obligations including reporting to relevant health authorities. In these circumstances, only details about the incident are reported and only limited Personal Data is shared (e.g., age, gender, and initials of a patient or initials, profession, and contact information of a reporting physician or pharmacist).
 
-Prestige does not share your Personal Information with third parties except as provided in this Privacy Policy.
+We may anonymize, aggregate, or combine information we collect online or elsewhere for the above purposes or other purposes, to improve our Website to develop new products or services, and/or to analyze statistics on usage and trends. Please note that aggregated or de-identified data may not constitute personal data or information under applicable law.
 
-In the preceding 12 months, Prestige, for business purposes, disclosed the following categories of Personal Information to third-parties:
+### [**HOW WE MAY SHARE YOUR PERSONAL DATA**](#top-of-page)
 
-* Identifiers
-* Personal Information categories (e.g., name and contact information)
-* Commercial information
-* Internet or other electronic network activity (e.g., "cookies" or other tracking tags)
-* Geolocation data
-* Audio, electronic, visual, similar information
-* Professional or employment-related information
+We may share the personal data we collect about you from our Website through the use of pixels, web beacons, or other technologies, or information you provide to us directly by other means, for the purpose of providing and advertising our products and services, rendering our business operations, including the sharing of information with third-party service providers, vendors, or other organizations we may collaborate with.
 
-Prestige may disclose Personal Information for a business purpose to the following categories of third-parties:
+_**Third-Party Service Providers.**_ We may share your personal data with our service providers, which are third parties who help us operate our Website, help us offer other products or services, and/or help us with our business operations. Examples can include email delivery and other technology service providers such as cloud-infrastructure companies who provide services and assist us with the operation of our Website and information systems. The information we share includes identifiers like your name, address, online identifier, a unique account number, or IP address, or other information like Internet or other electronic network activity information, inquiry and browsing history, and/or your interaction with us and our Website, products, or services.
 
-* Affiliated or Related Entities: Prestige shares your Personal Data with our affiliated or related entities as necessary to carry out the purposes for which the information was supplied or collected.
-* Business Partners and/or Service Providers: Prestige uses third-parties to assist with the running of the website and providing our products and services including, for example, web-hosting providers and IT providers. To obtain these services, Prestige needs to share your Personal Data with such third-parties.
+These service providers may have access to personal data needed to perform their functions, but may not use it for other purposes. Further, they must process that information in accordance with this Privacy Notice, any associated data processing agreement, and as permitted under applicable data protection law.
 
-In addition, Prestige may disclose information about you in the following circumstances:
+_**Third-Party Collaborators**_ Sometimes, we team up and collaborate with other organizations in connection with our products and services. Any such third-party collaborator, to the extent we share your information with them, must process that information we provide in accordance with this Privacy Notice, any associated agreement, and as permitted under applicable data protection law.
 
-* If Prestige sells or buys any business or assets, we may confidentially disclose your Personal Information to the prospective seller or buyer of such business or assets, including to permit the due diligence required to decide whether to proceed with a transaction,
-* If all or substantially all of Prestige's assets are acquired by a third-party, Personal Information held by Prestige about its customers will be one of the transferred assets,
-* If Prestige is under a duty to disclose or share your Personal Information to comply with any legal or regulatory obligation,
-* If necessary, to protect the vital interests of a person,
-* To enforce or apply our terms and conditions or to establish, exercise, or defend the rights of Prestige, our employees, customers, or others,
-* To third-party sponsors of surveys, contests, and providers, and
-* With your consent
+_**Social media.**_ If you access our Website from a social media account, like Google or Facebook, you give us permission to collect and share pixel information with such social media provider.
 
-### [6\. Data Retention Practices](#top-of-page)
+_**Business Transfers.**_ We might sell or buy businesses or services. In such transactions, personal data generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the individual consents otherwise). Also, in the event that Prestige or substantially all of its assets are acquired, your personal data will of course be one of the transferred assets.
 
-Prestige retains your Personal Information no longer than is reasonably necessary for the purposes for which it was collected and processed and in accordance with Prestige's data retention policy, except as required by applicable law or to comply with our legal obligations, resolve disputes, and enforce our agreements.
+_**Direct Marketing.**_ We may share your personal information with third parties for direct marketing purposes. This includes sending promotional emails, targeted advertisements, or other marketing communications related to our products, services, or events. We share personal data with third parties for direct marketing of our products and services, including through the use of pixels and website activities.
 
-### [7\. Protecting Personal Information](#top-of-page)
+If you wish to opt out of such marketing communications, please click on the unsubscribe link in your email, manage your Privacy Preferences by clicking on this [Opt-Out button](#), or you may contact privacy@PrestigeBrands.com. Please note that even if you opt out of direct marketing, you may still receive non-promotional communications related to account management, service updates, or transactional notifications.
 
-In accordance with applicable data protection laws, Prestige has implemented appropriate physical, electronic, and administrative safeguards to protect your Personal Information from loss, misuse, unauthorized access, disclosure, alteration, destruction, or modification.
+_**Protection of Us and Others**_ We may share your information when we believe its release is appropriate to comply with the law, enforce or apply our accompanying Terms of Use, comply with our agreements as a data processor or service provider, or to protect the rights, property, or security of others. This includes exchanging information with other companies and organizations for fraud prevention and detection, and risk reduction.
 
-These measures are regularly reviewed, evaluated, and updated to proactively identify new or emerging security threats.
+### [**HOW WE PROTECT YOUR PERSONAL DATA**](#top-of-page)
 
-Where data processing is carried out on Prestige's behalf by a third-party, Prestige takes steps to ensure that appropriate security measures are in place to prevent unauthorized disclosure of Personal Information.
+We employ reasonable physical, technical, and administrative safeguards designed to protect the security of personal data that we collect in connection with our Website and information systems. Safeguards we employ include building security, firewall barriers, encryption techniques, multi-factor authentication procedures, antivirus/anti-malware solutions, and access controls to help protect personal data against loss, theft, misuse, and unauthorized access, disclosure, alteration, or destruction. These safeguards vary depending upon a variety of factors including the sensitivity of the information.
 
-### [8\. Children](#top-of-page)
+Despite all reasonable practices, no security method is infallible. We cannot guarantee the security of the networks, systems, servers, devices, and databases we operate, that are operated on our behalf, or which you employ to access our Website and information systems. Nor can we guarantee the security of third-party networks, including any cellular networks and storage servers, used in connection with our Website and information systems.
 
-This website is not directed at children, and Prestige will not knowingly accept or request Personal Information from individuals under the age of 16 years. If we learn that we have collected Personal Information from a child under 16, subject to applicable law, we will either (i) delete this information from our databases, in accordance with our deletion procedures; or (ii) obtain verifiable parental consent in accordance with applicable law.
+### [**RETENTION OF PERSONAL DATA**](#top-of-page)
 
-### [9\. Links](#top-of-page)
+We retain your personal information no longer than is reasonably necessary for the purposes for which it was collected and processed and in accordance with Prestige's data retention policy, except as required by applicable law, contract, or otherwise to comply with our legal obligations, resolve disputes, and/or to enforce our agreements.
 
-This website may, from time to time, contain links to and from the websites of our advertisers and affiliates, including social media networks. If you follow a link to any of these websites, please note that these websites have their own data privacy policies, and Prestige does not accept any responsibility or liability for these policies. Please check these policies before you submit any Personal Information to these websites.
+### [**COOKIES**](#top-of-page)
 
-### [10\. Raising a Complaint](#top-of-page)
+_Cookies_ are small files commonly employed by numerous websites and online services, including our Website, to store user information on their devices or computers, and are utilized by the Website. These cookies can include HTTP and HTML5 cookies, along with various forms of local storage, enabling us to offer valuable features to our users. For more details on cookies in general, you can visit [https://www.allaboutcookies.org.](https://www.allaboutcookies.org/)
 
-Prestige only processes your Personal Information as described in this Privacy Policy and in accordance with applicable data protection laws. If, however, you wish to raise a complaint regarding the processing of your Personal Information or are unsatisfied with how we have handled your information please contact us as provided in the **Contact Details** section below.
+To explore cookies we use on our Website and how you can control or disable cookies on your computer, please see our [Cookie Policy](https://www.littleremedies.com/advertising-and-cookie-policy), which you may access by clinking on the hyperlink.
 
-### [11\. Changes to this Privacy Policy](#top-of-page)
+**"Do Not Track" Signals**
 
-Prestige may change this Privacy Policy from time to time. Any changes will be posted on this page with a last updated date. If we make any material changes to this Privacy Policy, we will notify you by email or by means of a prominent notice on the website before the change becomes effective. If new Policy terms materially affect only registered users of the website, those users will be notified separately.
+Your browser settings might enable the automatic transmission of a "Do Not Track" signal to the websites and online services you visit. Currently, there is no universally agreed-upon interpretation of the "do not track" signal within the industry. Similar to numerous other websites, our Website is not set up to acknowledge or respond to "Do Not Track" signals initiated by browsers.
 
-### [12\. Contact Details](#top-of-page)
+### [**CHILDREN'S PRIVACY**](#top-of-page)
 
-If you have any questions regarding this Privacy Policy, your rights, or Prestige's use of your Personal Information, please contact:
+Our Website is not designed to attract children 13 years or younger. In fact, you must be eighteen (18) years old or older to use it. As a general matter, if we learn we have collected or received personal data from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13 without parental consent, please contact us via the contact methods above.
 
-Prestige Privacy toll-free at 1-877-297-0721
+### [**LINKED SITES (Third-Party Sites)**](#top-of-page)
 
-Or you can visit our Privacy Preference Center and choose your own privacy preferences and/or submit a personal data request to Prestige [_here_](https://www.prestigebrands.com/privacy-policy#section-12).
+Our Website may contain links to other websites (“Linked Sites”) for your convenience and information. If it does, these Linked Sites may be operated by organizations that are not affiliated with us. Linked Sites may have their own privacy policies or notices, and we strongly encourage you review them if you visit any Linked Site. We are not responsible for the content of any Linked Site not affiliated with us, any use of those Linked Sites, or the privacy practices or processing or personal data of them.
+
+### [**INTERNATIONAL DATA TRANSFERS**](#top-of-page)
+
+We operate internationally. Depending on where you live, your personal data may be transferred to jurisdictions other than your home country, including the United States, and those other jurisdictions may have different or less protective data protection laws than the jurisdiction where you live. In addition, the rights of authorities to access your personal data in other jurisdictions may not be the same as in your home jurisdiction. We typically transfer personal data to the United States, which is where we are headquartered and where many of our business operations are located, including our Website.
+
+By continuing to use our Website, or otherwise communicating with us, you understand and consent to the transfer and processing of your personal data outside your home country, which may have data protection rules that are different or less protective from those of your home country, including the United States. We will only transfer personal data as permitted by law, and we will only process personal data in accordance with this Privacy Notice. We will take steps designed to ensure appropriate protection of your personal data. If you have questions about international transfers of personal data, please contact us using the information above. For residents of Europe or countries with aligned data protection laws, additional information is provided in the jurisdiction-specific privacy notices below that are required under European data protection laws.
 
 * * *
 
-[California Consumer Privacy Act Rights and Additional Information](#top-of-page)
----------------------------------------------------------------------------------
+### [**DATA SUBJECT RIGHTS**](#top-of-page)
 
-Residents of California are afforded specific rights under the California Consumer Privacy Act ("CCPA"). These rights are discussed below and apply _only_ to residents of California.
+Sometimes we are a controller when processing your information. At times, we may be a processor. In the United States, the following states recognize data subject rights over your personal data: California, Connecticut, Colorado, Utah, and Virginia. If you live in one of those states, you may make the requests listed below, subject to certain conditions or exceptions as set forth under applicable law. We may be required or permitted by law to decline your request. Please note that if you reside in a state without specific privacy legislation, we may consider and address your request at our sole discretion. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
 
-Your Rights
+* You may request to confirm whether or not we have or are processing your personal data, and to access and obtain a copy of your personal data (rights to know, access, and portability).
+* You may request to have inaccuracies in your personal data corrected (right of correction).
+* You may request to have your personal data deleted (right of deletion).
+* You may opt-out of the sale of your personal data, AI, and profiling. Currently we do not sell personal data.
 
-California residents have the following rights related to their Personal Information:
+**No Discrimination** We will not discriminate against any consumer for exercising their data subject rights over their personal data under applicable law.
 
-* **Right to Know.** You have the right to request that we disclose the following to you: (1) the specific pieces of Personal Information we have collected about you; (2) the categories of Personal Information we have collected about you; (3) the categories of sources from which we have collected your Personal Information; (4) the categories of Personal Information we have disclosed for a business purpose; and (5) the categories of third parties to whom we have shared your Personal Information. You also have the right to request that we disclose the business purpose(s) for collecting or sharing your Personal Information.
-* **Right to Access.** You have the right to access the Personal Information we hold about you. When requested (as described below), we will provide, free of charge, the Personal Information as required by the CCPA. To the extent possible, the information will be provided in a portable and commonly used format so that it can be transferred to another entity.
-* **Right to Request Deletion.** In certain circumstances, you have the right to request the erasure of your Personal Information. Upon verifying the validity of your deletion request, we will delete your Personal Information from our records, and direct any service providers to delete your information, as required by the CCPA.
-* **Right to Opt-Out of the Sale of Personal Information.** You have the right to opt-out of the sale of your Personal Information. To exercise the right to Opt-Out, please click on the DO NOT SELL MY INFORMATION button [DO NOT SELL MY PERSONAL INFORMATION](#)
-* **Right to Non-discrimination.** You have the right not to be discriminated against in service or price if you exercise any of your CCPA data privacy rights.
+You may submit a US Data Subject Request via an online form [here](#).
 
-Please note that the above rights are not absolute, and Prestige may be entitled to refuse or limit the requests, where exceptions under the applicable law apply.
+In the event that we are unable to fulfill your request, we will provide a clear explanation for the denial. This may include instances where legal obligations prevent compliance or if we do not have the corresponding record on file. Transparency and communication regarding the reasons for any limitations in fulfilling requests are integral to our commitment to safeguarding your privacy and ensuring a thorough understanding of the process.
 
-Exercising Your Rights under the CCPA
+**Verifiable Requests**
 
-You can exercise any of your rights as described in this Privacy Policy and under applicable data protection laws by contacting Prestige as provided in the **Contact Details** section above. Prestige will not discriminate against you for exercising such rights.
+To ensure the secure and accurate verification of data subject requests, we employ a robust authentication process that involves validating data points through our service provider, Ketch. We will verify your request using only the necessary information required to validate your identity. We aim to enhance the reliability of our verification process, safeguard against unauthorized access and maintain the privacy and security of our users' information.
 
-Except as provided under the CCPA, there is no charge for the exercise of your legal rights. However, if your requests are manifestly unfounded or excessive, in particular because of their repetitive character, Prestige may either: (a) charge a reasonable fee taking into account the administrative costs of providing the information or taking the action requested; or (b) refuse to act on the request.
+**Right to appeal**
 
-Verifying Consumer Requests
+If we decline to take action in any request that you submit in connection with the rights described above, you may ask that we reconsider our response by sending an email to privacy@PrestigeBrands.com. You must ask us to reconsider our decision within 45 days after we send you our decision. We will respond to your appeal in accordance with the timeline set forth under applicable law.
 
-Prestige verifies each data subject access request individually and confirms that the request is made by the individual owner of the email address used for or provided in connection with such request. If Prestige is not reasonably able to confirm the identity of the person making the request, we may require additional information in order to confirm such identity. Where Prestige has reasonable doubts concerning the identity of the person making the request, we may deny and closeout such request.
+If we are acting as a data processor or service provider, we will forward your request to the applicable data controller, and reasonably assist the controller in honoring your request. We do not discriminate against any individual for exercising his or her data rights.
 
-**Effective Date: February 15, 2022  
-Last Updated: February 15, 2022**
+Jurisdiction-Specific Privacy Notices
+-------------------------------------
+
+Provided below are links to additional privacy notices that supplement our main Privacy Notice, depending upon whether you live in one of the jurisdictions.
+
+### [California](https://www.littleremedies.com/california-privacy-notice)
+
+### [Nevada](https://www.littleremedies.com/nevada-privacy-notice)
+
+### [European Economic Area (EEA)](https://www.littleremedies.com/eea-privacy-notice)
 
 Footer Navigation
 -----------------
@@ -267,9 +266,9 @@ Footer Navigation
         
     * [Contact Us](https://www.littleremedies.com/contact-us)
         
-    * [Privacy Policy](https://www.littleremedies.com/privacy-policy)
+    * [Privacy Notice](https://www.littleremedies.com/privacy-policy)
         
-    * [Terms and Conditions](https://www.littleremedies.com/terms-of-use)
+    * [Terms of Use](https://www.littleremedies.com/terms-of-use)
         
     * [Accessibility Statement](https://www.littleremedies.com/accessibility)
         
@@ -279,6 +278,8 @@ Footer Navigation
 * [Cookie Policy](https://www.littleremedies.com/cookie-policy)
     
 * Your Privacy Choices
+    
+* [EEA Privacy Notice](https://www.littleremedies.com/eea-privacy-notice)
     
 
 ©2024 Prestige Consumer Healthcare Inc. All rights reserved.
