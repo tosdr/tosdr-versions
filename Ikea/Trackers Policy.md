@@ -5,6 +5,7 @@
 End of search dropdown.
 
 * [Hej! Log in or sign up](https://www.ikea.com/us/en/profile/login/) [Hej!](https://www.ikea.com/us/en/profile/login/) [IK Hej {{firstName}}!](https://www.ikea.com/us/en/profile/login/)
+* EN
 * [Track order](https://www.ikea.com/us/en/customer-service/track-manage-order/)
 * [Favorites](https://www.ikea.com/us/en/favorites/)
 * [Shopping bag](https://www.ikea.com/us/en/shoppingcart/)
@@ -20,6 +21,10 @@ Close menu
 * [Design & planning](https://www.ikea.com/us/en/planners/)
 * [Deals](https://www.ikea.com/us/en/offers/)
 * [Services & support](https://www.ikea.com/us/en/customer-service/services/)
+
+Select your preferred language
+
+EnglishEspañol
 
 You’re viewing the United States ikea.com[Change country/region](https://www.ikea.com/)
 
@@ -91,7 +96,7 @@ Kitchen & appliances](https://www.ikea.com/us/en/rooms/kitchen/)
 
 Dorm room](https://www.ikea.com/us/en/campaigns/starting-college/)
 
-[![](https://www.ikea.com/images/a-living-space-with-a-small-workstation-placed-behind-a-sofa-9e43689862e00ac3cae42ccc4045f027.jpg?imwidth=300)
+[![](https://www.ikea.com/ext/ingkadam/m/2345c6d3fe01268b/original/PH199092.jpg?imwidth=300)
 
 Home office](https://www.ikea.com/us/en/rooms/home-office/)
 
@@ -131,9 +136,11 @@ All Rooms](https://www.ikea.com/us/en/rooms/)
 
 * [Dorm laundry & bathroom essentials](https://www.ikea.com/us/en/campaigns/starting-college/college-laundry-bathroom-essentials-pub02794a10)
 * [Dorm & college kitchen essentials](https://www.ikea.com/us/en/campaigns/starting-college/college-kitchen-essentials-pub893c4d50)
+* [Dorm desk organizers](https://www.ikea.com/us/en/campaigns/starting-college/college-desk-organization-pub1a6111d0)
+* [Dorm room lights](https://www.ikea.com/us/en/campaigns/starting-college/college-dorm-lights-pubbc5a1640)
 
-* [Save up to 15% on college essential starter boxes
-    -------------------------------------------------](https://www.ikea.com/us/en/campaigns/starting-college/#e6ef65e0-01d7-11ef-bd23-2fadf544a0f5)
+* [Save up to 30% on college essentials until 7/23!
+    ------------------------------------------------](https://www.ikea.com/us/en/campaigns/starting-college/event-pub4550f730)
 
 * [See all in Home accessories](https://www.ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20)
 * [Shop by category](https://www.ikea.com/us/en/campaigns/shop-marketplace-categories-pubff037650)
@@ -169,9 +176,11 @@ All Rooms](https://www.ikea.com/us/en/rooms/)
 * [Appliance deals & offers](https://www.ikea.com/us/en/campaigns/appliance-deals-and-offers-pub075ee210)
 * [Home essentials under $10](https://www.ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0)
 * [As-is online](https://www.ikea.com/us/en/customer-service/shopping-at-ikea/as-is-online-pubce1eedc0)
+* [30% off select office chairs](https://www.ikea.com/us/en/offers/family-offers/?filters=f-subcategories%3A20652#product-list-skip)
+* [30% off STARKVIND floor air purifiers](https://www.ikea.com/us/en/cat/air-quality-products-49081/?filters=f-special-price%3Atrue#product-list-skip)
 
-* [Save up to 50% at the IKEA Midsummer sale!
-    ------------------------------------------](https://www.ikea.com/us/en/campaigns/midsummer-pubaa5b2500?itm_campaign=Promo&itm_element=Navigation-Text&itm_content=Midsummer_sale)
+* [Get $20 off Taskrabbit assembly now until 7/23/24\*
+    ---------------------------------------------------](https://www.ikea.com/us/en/customer-service/services/taskrabbit-and-ikea-partnership-pubddab78f4)
 
 * [See all in Services & support](https://www.ikea.com/us/en/customer-service/services/)
 * [IKEA Family](https://www.ikea.com/us/en/ikea-family/)
