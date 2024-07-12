@@ -1,104 +1,43 @@
-![](https://www.facebook.com/tr?id=157204581336210&ev=PageView&noscript=1)     European Union General Data Protection Regulation (GDPR) (valid May 25, 2018) | Homepage of DW's corporate website. | DW | 29.05.2018                  
+[](https://dw.com/ "Home")
 
-![](https://logs1242.xiti.com/hit.xiti?s=510544&s2=2&p=About+DW::European+Union+General+Data+Protection+Regulation+%28GDPR%29+%28valid+May+25%2C+2018%29&di=&an=&ac=&x1=1&x2=2&x3=18265246&x4=30688&x6=&x7=http%3A%2F%2Fcorporate.dw.com%2Fen%2Feuropean-union-general-data-protection-regulation-gdpr-valid-may-25-2018%2Fa-18265246&x8=&x9=20160512&x13=1&x14=&x15=19990034&x16=null&x17=&x18=&x20=Kommunikation)
-
-1. [Inhalt](#bodyContent)
-2. [Navigation](#navMain)
-3. [Weitere Inhalte](#aside)
-4. [Metanavigation](#navMeta)
-5. [Suche](#search)
-6. [Choose from 30 Languages](#langSelect)
-
-[](#close "close")
-
-* [Albanian Shqip](https://dw.com/sq/fokus/s-10250 "FOKUS")
-* [Amharic አማርኛ](https://dw.com/am/%E1%8B%AD%E1%8B%98%E1%89%B5/s-11646 "ይዘት")
-* [Arabic العربية](https://dw.com/ar/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/s-9106 "DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي")
-* [Bengali বাংলা](https://dw.com/bn/%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F/s-11929 "বিষয়")
-* [Bosnian B/H/S](https://dw.com/bs/teme/s-10037 "TEME")
-* [Bulgarian Български](https://dw.com/bg/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE/s-10257 "Начало")
-* [Chinese (Simplified) 简](https://dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058?&zhongwen=simp "在线报导")
-* [Chinese (Traditional) 繁](https://dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058?&zhongwen=trad "在線報導")
-
-* [Croatian Hrvatski](https://dw.com/hr/teme/s-9747 "TEME")
-* [Dari دری](https://dw.com/fa-af/%D8%AF%D9%88%D9%8A%DA%86%D9%87-%D9%88%D9%84%D9%87-%D8%AF%D8%B1%DB%8C/s-10259 "دويچه وله دری")
-* [English English](https://dw.com/en/top-stories/s-9097 "News and current affairs from Germany and around the world")
-* [French Français](https://dw.com/fr/actualit%C3%A9s/s-10261 "ACTUALITÉS")
-* [German Deutsch](https://dw.com/de/themen/s-9077 "Nachrichten & Analysen: der globale Blick auf Schlagzeilen")
-* [Greek Ελληνικά](https://dw.com/el/%CE%B8%CE%B5%CE%BC%CE%B1%CF%84%CE%B1/s-10507 "ΘΕΜΑΤΑ")
-* [Hausa Hausa](https://dw.com/ha/batutuwa/s-11603 "BATUTUWA")
-* [Hindi हिन्दी](https://dw.com/hi/%E0%A4%96%E0%A4%AC%E0%A4%B0%E0%A5%87%E0%A4%82/s-11931 "खबरें")
-
-* [Indonesian Indonesia](https://dw.com/id/beranda/s-11546 "BERANDA")
-* [Kiswahili Kiswahili](https://dw.com/sw/idhaa-ya-kiswahili/s-11588 "IDHAA YA KISWAHILI")
-* [Macedonian Македонски](https://dw.com/mk/%D1%82%D0%B5%D0%BC%D0%B8/s-10339 "Теми")
-* [Pashto پښتو](https://dw.com/ps/%D8%AF%D9%88%D9%8A%DA%86%D9%87-%D9%88%D9%8A%D9%84%D9%87-%D9%BE%DA%9A%D8%AA%D9%88/s-11722 "دويچه ويله پښتو")
-* [Persian فارسی](https://dw.com/fa-ir/%D8%AF%D9%88%DB%8C%DA%86%D9%87-%D9%88%D9%84%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/s-9993 "دویچه وله فارسی")
-* [Polish Polski](https://dw.com/pl/start/s-11394 "Niemcy – najnowsze wiadomości z Niemiec, Europy i świata")
-* [Portuguese Português para África](https://dw.com/pt-002/not%C3%ADcias/s-13918 "NOTÍCIAS")
-* [Portuguese Português do Brasil](https://dw.com/pt-br/not%C3%ADcias/s-7111 "DW Brasil | Notícias e análises do Brasil e do mundo")
-
-* [Romanian Română](https://dw.com/ro/focus/s-10575 "FOCUS")
-* [Russian Русский](https://dw.com/ru/%D1%82%D0%B5%D0%BC%D1%8B-%D0%B4%D0%BD%D1%8F/s-9119 "Новости и аналитика о Германии, России, Украине, Европе, мире")
-* [Serbian Српски/Srpski](https://dw.com/sr/rubrike/s-10682 "RUBRIKE")
-* [Spanish Español](https://dw.com/es/actualidad/s-30684 "ACTUALIDAD")
-* [Turkish Türkçe](https://dw.com/tr/g%C3%BCndem/s-10201 "GÜNDEM")
-* [Ukrainian Українська](https://dw.com/uk/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0/s-9874 "Новини й аналітика про Німеччину, Україну, Європу та світ")
-* [Urdu اردو](https://dw.com/ur/%D8%B9%D9%86%D9%88%D8%A7%D9%86%D8%A7%D8%AA/s-11933 "عنوانات")
-
-[](#close "close")
-
-Wrong language? Change it here DW.COM has chosen English as your language setting.
-
-[DW.COM in 30 languages](javascript:void(0);)
-
-[DW AKADEMIE](https://akademie.dw.com/en/home/s-9519 "DW AKADEMIE")
-
-[DW.COM](https://www.dw.com/en/top-stories/s-9097 "News and current affairs from Germany and around the world")
-
-[Deutsche Welle](https://dw.com/en/about-dw/profile/s-30688 "About DW's history and mission.")
-
-![Deutsche Welle](/cssi/dwlogo-print.gif)
-
-   
-
-* [Who We Are](https://dw.com/en/about-dw/profile/s-30688 "About DW's history and mission.")
+* About DW
     
-    * [Figures](https://dw.com/en/figures/s-57107623 "DW's facts and figures")
-    * [Diversity](https://dw.com/en/diversity/s-57420255 "Diversity at DW")
+    * [Who We Are](https://dw.com/en/who-we-are/s-3325)
+    * [Organization](https://dw.com/en/organization/s-3326)
+* Working at DW
     
-* [Organization](https://dw.com/en/organization/s-3326 "DW as an organization: leadership, oversight and structures")
+    * [Open Positions](https://jobs.dw.com/Jobs/2)
+* DW Media Services
     
-* [Press](https://dw.com/en/press/s-3293 "DW's press releases")
+    * [Press](https://dw.com/en/press/s-3293)
+    * [Our Experts](https://dw.com/en/our-experts/s-36745711)
+* Experience DW
     
-    * [Contact](https://dw.com/en/contact/s-4155 "Contact")
+    * [Visitor Service](https://dw.com/en/visitor-service/s-9898)
+    * [GMF](https://dw.com/en/gmf/s-43101535)
+    * [Digital Offers](https://dw.com/en/digital-offers/s-51995939)
+    * [Regional Reception](https://dw.com/en/regional-reception/s-6809)
+    * [Contact](https://dw.com/en/contact/s-30606)
+    * [FAQs about DW](https://dw.com/en/faqs-about-dw/s-30600)
+* DW as a Partner
     
-* [GMF](https://dw.com/en/gmf/s-43101535 "DW's international conference: Global Media Forum.")
-    
-    * [Global Media Forum 2023](https://dw.com/en/global-media-forum-2023/s-66664941 "Past GMFs: The Global media forum of 2023")
-    * [Global Media Forum 2022](https://dw.com/en/global-media-forum-2022/s-60549163 "Past GMFs: Global Media Forum 2022")
-    * [Global Media Forum 2021](https://dw.com/en/global-media-forum-2021/s-58092617 "Past GMFs: The Global media forum of 2021")
-    * [Global Media Forum 2020](https://dw.com/en/global-media-forum-2020/s-56345019 "Past GMFs: The Global media forum of 2020")
-    
-* [Business & Sales](https://dw.com/en/business-sales/s-3303 "DW's distribution possibilities")
-    
-    * [DW Transtel](https://dw.com/en/dw-transtel/s-7089 "DW Transtel: Content for international partners")
-    * [Contact](https://dw.com/en/contact/s-13147 "Contact")
-    
-* [Advertising](https://dwadsales.com/ "Advertising and sales opportunities.")
-    
+    * [Business & Sales](https://dw.com/en/business-sales/s-3303)
+    * [DW Transtel](https://dw.com/en/dw-transtel/s-7089)
+    * [Content for Travelers](https://dw.com/en/content-for-travelers/s-3972)
+    * [Advertising](https://dw.com/en/advertising/s-101376)
 
-* [Figures](https://dw.com/en/figures/s-57107623 "DW's facts and figures")
-* [Diversity](https://dw.com/en/diversity/s-57420255 "Diversity at DW")
+Choose language
 
-#### About DW
+EN | English
 
-European Union General Data Protection Regulation (GDPR) (valid May 25, 2018)
-=============================================================================
+* [EnglishEnglish](https://dw.com/en)
+* [GermanDeutsch](https://dw.com/de)
+* [SpanishEspañol](https://dw.com/es)
+
+Data Privacy Policy
+===================
 
 The protection of your personal data is very important to us at Deutsche Welle. We want you to feel safe when using our websites. We explain here what data we collect and how we use it.
-
-[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-Facebook-sharing)[](https://twitter.com/intent/tweet?source=webclient&text=European%20Union%20General%20Data%20Protection%20Regulation%20%28GDPR%29%20%28valid%20May%2025%2C%202018%29+https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-Twitter-sharing)[](https://www.reddit.com/submit?url=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-reddit-sharing)[](mailto:?body=https%3A%2F%2Fwww.dw.com%2Fen%2Feuropean-union-general-data-protection-regulation-gdpr-valid-may-25-2018%2Fa-18265246%3Fmaca%3Den-EMail-sharing&subject=European%20Union%20General%20Data%20Protection%20Regulation%20%28GDPR%29%20%28valid%20May%2025%2C%202018%29)[](https://www.facebook.com/dialog/send?app_id=161807964535758&redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-Facebook%2BMessenger%2BWeb-sharing&link=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-Facebook%2BMessenger%2BWeb-sharing&display=popup)[](https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-Whatsapp%2BWeb-sharing+European%20Union%20General%20Data%20Protection%20Regulation%20%28GDPR%29%20%28valid%20May%2025%2C%202018%29)[](https://telegram.me/share/url?url=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-Telegram-sharing&text=Data%20Privacy%20Policy)[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fp.dw.com%2Fp%2F1Edck%3Fmaca%3Den-linkedin-sharing&title=European%20Union%20General%20Data%20Protection%20Regulation%20%28GDPR%29%20%28valid%20May%2025%2C%202018%29&source=DW.COM)
 
 Data collection and logging
 ---------------------------
@@ -121,7 +60,7 @@ Personal data
 
 You can obviously use the content on DW.COM without disclosing any personal data. Personally data means information that could be used to disclose your identity such as your name, your email address and country.
 
-In certain individual cases (for example competitions, newsletters, blogs or communities), we do, however, need to use personal data. In such cases we will expressly draw your attention to this and will, on principle, kindly ask for your consent to collect and process your personal data. See also our **terms of use** [https://www.dw.com/en/conditions-of-participation/a-16372765](https://www.dw.com/en/conditions-of-participation/a-16372765)
+In certain individual cases (for example competitions, newsletters, blogs or communities), we do, however, need to use personal data. In such cases we will expressly draw your attention to this and will, on principle, kindly ask for your consent to collect and process your personal data. See also our **terms of use**[https://www.dw.com/en/conditions-of-participation/a-16372765](https://www.dw.com/en/conditions-of-participation/a-16372765)
 
 for further information. When we collect, process and use such personal data, we always do so only for the stated purpose. The data will be treated confidentially, stored on secure servers and will not be forwarded to third parties or used for other purposes.
 
@@ -305,53 +244,37 @@ T. +49.228.429-0
 
 [datenschutz@dw.com](mailto:datenschutz@dw.com)
 
-* **Feedback**: [Send us an e-mail. Please include your name and country in your reply.](#)
-* **Print** [Print this page](javascript:window.print())
-* **Permalink** https://p.dw.com/p/1Edck
+Send us your feedback
 
-* [Send us your feedback.](#)
-* **Print** [Print this page](javascript:window.print())
-* **Permalink** https://p.dw.com/p/1Edck
+Footer
+------
 
-![EINSCHRÄNKUNG DW Personenfoto | Corporate Communications | Carla Hagemann](https://static.dw.com/image/65625243_301.webp "EINSCHRÄNKUNG DW Personenfoto | Corporate Communications | Carla Hagemann")
+DW Offers
 
-Carla Hagemann
---------------
+* [DW.com](https://www.dw.com/en/top-stories/s-9097)
+* [Latest Videos](https://www.dw.com/en/latest-videos/s-62391524)
+* [Learn German](https://learngerman.dw.com/en/learn-german/s-9528)
+* [DW Akademie](https://akademie.dw.com/en/home/s-9519)
 
-Corporate Spokesperson and Head of Corporate Communications
+Services
 
-T +49.228.429.2042
+* [Newsletters](https://dw.com/en/newsletter-registration/a-15718229)
+* [FAQ](https://dw.com/en/faqs-about-dw/s-30600)
+* [Contact](https://dw.com/en/contact/s-30606)
 
-communication@dw.com
+Follow us on
 
-* [TOP STORIES](https://www.dw.com/en/top-stories/s-9097 "News and current affairs from Germany and around the world")
-* [Germany](https://www.dw.com/en/germany/s-1432 "Germany | News and in-depth reporting from Berlin and beyond")
-* [Business](https://www.dw.com/en/business/s-1431 "Business | Economy and finance news from a German perspective")
-* [Science](https://www.dw.com/en/science/s-12526 "Science | In-depth reporting on science and technology")
-* [Environment](https://www.dw.com/en/environment/s-11798 "Environment | All topics from climate change to conservation")
-* [Culture](https://www.dw.com/en/culture/s-1441 "Culture | Arts, music and lifestyle reporting from Germany")
-* [Sports](https://www.dw.com/en/sports/s-8171 "Sports | German football and major international sports news")
+* [](https://facebook.com/deutschewelle)
+* [](https://de.linkedin.com/company/deutsche-welle)
+* [](https://www.instagram.com/dw.communications)
+* [](https://x.com/DeutscheWelle)
 
-* [A - Z Index](https://dw.com/en/a-z-index/index-en)
+© 2024 Deutsche Welle
 
-* [LEARN GERMAN](https://learngerman.dw.com/en/learn-german/s-9528 "LEARN GERMAN")
-* [German XXL](https://learngerman.dw.com/en/learn-german/s-9528 "German XXL")
-* [Community D](https://learngerman.dw.com/en/learn-german/s-9528 "Community D")
-* [Teaching German](https://learngerman.dw.com/de/deutsch-unterrichten/s-61686839 "Teaching German")
+[Privacy Policy](https://dw.com/en/european-union-general-data-protection-regulation-gdpr-valid-may-25-2018/a-18265246)
 
-* [ABOUT DW](https://dw.com/en/about-dw/profile/s-30688 "Homepage of DW's corporate website.")
-* [Who We Are](https://dw.com/en/about-dw/profile/s-30688 "About DW's history and mission.")
-* [Organization](https://dw.com/en/organization/s-3326 "DW as an organization: leadership, oversight and structures")
-* [Press](https://dw.com/en/press/s-3293 "DW's press releases")
-* [GMF](https://dw.com/en/gmf/s-43101535 "DW's international conference: Global Media Forum.")
-* [Business & Sales](https://dw.com/en/business-sales/s-3303 "DW's distribution possibilities")
-* [Advertising](https://dwadsales.com/ "Advertising and sales opportunities.")
+[Legal notice](https://dw.com/en/legal-notice/a-15718492)
 
-* [SERVICE](https://dw.com/en/regional-reception/s-6809 "Service")
-* [Regional Reception](https://dw.com/en/regional-reception/s-6809 "Accessing DW's content via TV and radio")
-* [Digital Offers](https://dw.com/en/digital-offers/s-51995939 "Accessing DW's content via digital devices and platforms")
-* [Newsletters & Co.](https://dw.com/newsletter-registration/a-15718229 "Newsletters & Co.")
-* [All FAQs about DW](https://dw.com/en/all-faqs-about-dw/s-30600 "FAQs About DW")
-* [Contact](https://dw.com/en/contact/s-30606 "Central contact page for DW")
+[Privacy Settings](#!)
 
-© 2024 Deutsche Welle | [Privacy Policy](https://dw.com/en/european-union-general-data-protection-regulation-gdpr-valid-may-25-2018/a-18265246) | [Privacy Settings](https://dw.com/en/privacy-settings) | [Accessibility Statement](https://dw.com/en/accessibility-statement/a-54925999) | [Legal notice](https://dw.com/en/legal-notice/a-15718492) | [Contact](https://dw.com/en/contact/s-30606) | [Mobile version](https://m-corporate.dw.com/en/european-union-general-data-protection-regulation-gdpr-valid-may-25-2018/a-18265246)
+[Accessibility Statement](https://dw.com/en/accessibility-statement/a-54925999)
