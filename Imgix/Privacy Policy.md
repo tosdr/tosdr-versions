@@ -1,4 +1,4 @@
-[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/old-home-2)
+[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/?r=0)
 
 [Solutions](https://www.imgix.com/solutions)
 
@@ -80,13 +80,13 @@ Latest Blog Posts
 
 NEW](https://blog.imgix.com/2023/11/17/improving-google-spanner-efficiency)[AVIF: The Best Image Format That You Might Be Missing](https://blog.imgix.com/2023/10/23/avif-best-image-format)[AI super resolution is Now Available ON imgix](https://blog.imgix.com/2023/09/20/ai-powered-image-super-resolution)[Optimising Performance With Headless CMS and Image CDN](https://blog.imgix.com/2023/09/12/headless-cms-image-cdn-for-web-performance-cosmic)
 
-en
+English
 
 ![](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/65b3a4d4ac10ba8a6a46b10a_Rectangle%2034624101.svg)
 
 [English](https://www.imgix.com/privacy)
 
-[Japanese](https://www.imgix.com/jp/privacy)
+[日本語](https://www.imgix.com/ja/privacy)
 
 [Sign In](https://dashboard.imgix.com/sign-in)[Sign up](https://dashboard.imgix.com/sign-up)[Contact us](https://www.imgix.com/contact)
 
@@ -94,19 +94,13 @@ Close
 
 MENU
 
-NAVIGATION
-
 [Video Optimisation](https://www.imgix.com/solutions/video-api)[Image Optimisation](https://www.imgix.com/solutions/image-enhancement)[Visual Media CDN](https://www.imgix.com/solutions/cdn-delivery)[Asset Management](https://www.imgix.com/solutions/asset-management)[View More
 
 ![](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/65b2b398577da3141bf92d82_svgexport-33.svg)](#)
 
-NAVIGATION
-
 [Api References](https://docs.imgix.com/apis/rendering?_gl=1*1dujnox*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)[Setup guide](https://docs.imgix.com/setup?_gl=1*1yjn4d2*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)[Creating Sources](https://docs.imgix.com/setup/creating-sources?_gl=1*1yjn4d2*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)[Client libraries](https://docs.imgix.com/libraries?_gl=1*1yjn4d2*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.#sts=Client%20Libraries)[View More
 
 ![](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/65b2b398577da3141bf92d82_svgexport-33.svg)](https://docs.imgix.com/?_gl=1*1yjn4d2*_gcl_au*Mzg2MjIyODMzLjE3MDM4MzAyODU.)
-
-NAVIGATION
 
 [Solutions](https://www.imgix.com/solutions)[Blog](https://www.imgix.com/blog)[About Us](https://www.imgix.com/about)[Press Kit](https://www.imgix.com/press)[Careers](https://www.imgix.com/careers)
 
@@ -116,13 +110,13 @@ en
 
 [English](https://www.imgix.com/?r=0)
 
-[Japanese](https://www.imgix.com/jp)
+[日本語](https://www.imgix.com/ja)
 
 [CONTACT US](https://www.imgix.com/contact)
 
 NAVIGATION
 
-[Home](https://www.imgix.com/?r=0)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Developers](https://docs.imgix.com/)[Sign In](https://dashboard.imgix.com/sign-in)
+[Home](https://www.imgix.com/draft-pages/old-home-3)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Developers](https://docs.imgix.com/)[Sign In](https://dashboard.imgix.com/sign-in)
 
 Privacy Policy
 ==============
@@ -215,7 +209,7 @@ If you have any questions about this Privacy Policy, please contact us at [priva
 
 ‍
 
-[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/old-home-2)
+[![imgix logo.](https://cdn.prod.website-files.com/6592a3700f76be8f77834042/6596dff761874cab2e9f614d_svgexport-14.svg)](https://www.imgix.com/?r=0)
 
 © 2011 - 2024 imgix, Inc.
 
@@ -225,7 +219,7 @@ If you have any questions about this Privacy Policy, please contact us at [priva
 
 NAVIGATION
 
-[Home](https://www.imgix.com/old-home-2)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Why imgix?](https://www.imgix.com/why-imgix)
+[Home](https://www.imgix.com/?r=0)[Solutions](https://www.imgix.com/solutions)[Pricing](https://www.imgix.com/pricing)[Customers](https://www.imgix.com/customers)[Why imgix?](https://www.imgix.com/why-imgix)
 
 DEVELOPERS
 
