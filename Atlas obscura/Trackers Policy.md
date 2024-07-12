@@ -1,5 +1,3 @@
-   
-
 [](https://www.atlasobscura.com/)
 
 [Trips](https://www.atlasobscura.com/adventures/) [Experiences](https://www.atlasobscura.com/events) [Courses](https://www.atlasobscura.com/online-courses) [Places](https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map) [Foods](https://www.atlasobscura.com/gastro) [Stories](https://www.atlasobscura.com/articles) [Newsletters](https://www.atlasobscura.com/newsletters)
@@ -16,17 +14,208 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
 
-Loading...
+Take your next trip with Atlas Obscura!
+---------------------------------------
 
-Loading...
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
 
-Loading...
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
 
-Loading...
+Trips Highlight
 
-Loading...
+   [![Scenic view of agricultural fields near Niigata](https://img.atlasobscura.com/xYCxTpAmFCNDzpyjWpXCUxH7vSTwTrlQt2uSW200jcE/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy83MGQ5/YmZmOS01Yzg5LTRi/ODItODhmNy0xYWZl/YmJhNzMwMGE4OTFh/NTViYWFmY2Q0ZTc1/NTRfSmFwYW5fU2Nl/bmljIFZpZXcgT2Yg/QWdyaWN1bHR1cmFf/RGF5IDJOaWlnYXRh/LVNoaSwgSmFwYW5f/IEZpZWxkIGluIEdl/dHR5SW1hZ2VzLTEx/OTg3ODYzNzAuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/japan-sado-island)
+
+Japan • 9 days, 8 nights
+
+[Hidden Japan: Sado Island & Beyond](https://www.atlasobscura.com/adventures/trips/japan-sado-island)
+
+from
+
+   [![Djerba Island](https://img.atlasobscura.com/jokxLGonTZZONdjtnkVdZAGxGKg6WmxbuoFvfNNX3UU/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9iZTcz/NDg5Ny0zMmUyLTQx/MzItYTFlZi1jMGVj/NDY0NGMxM2M5ZDJi/ZTc5NmM0MTZjNzlj/YjJfdHVuaXNpYS1k/amVyYmEtaXNsYW5k/LWNpdHktdmlldy1k/YXktNi1zaHV0dGVy/c3RvY2tfMTMwNjc5/NDAzMS5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/tunisia-sands)
+
+Tunisia • 13 days, 12 nights
+
+[Tunisia & the Sands of Time](https://www.atlasobscura.com/adventures/trips/tunisia-sands)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
+
+Upcoming Experiences
+
+[View All Experiences »](https://www.atlasobscura.com/events)
+
+   [![](https://img.atlasobscura.com/4kw2dBEMRf81KbfmRrgXDMDl8bm0y-677lOMRIAcyq0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hODdm/MjZkYS1jOTc1LTQ0/Y2UtYWQwOC01ODRm/YzQyY2RjYmJiYTBl/ZmIwYjYwYzlmMjIz/YjVfYWxleC1mV0Q3/S3Fsc0N3RS11bnNw/bGFzaC5qcGVn.jpg)
+
+Members Only
+
+Summer Camp: Reading the Skies, Befriending Birds, & Scary Films](https://www.atlasobscura.com/experiences/summer-camp-course-membership)
+
+   [![](https://img.atlasobscura.com/bpd8ZDX-jv9xoO-NUmP0MPnZjJQ326E7zRA5STE_DEQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82Njg1/ZjFjMC05ZGE2LTRi/ZjctODMwZi1jMGQ1/MTBjNTM4MzAxOGU1/NDk0OTliYjM1NjQ0/NjZfcmVpZC16dXJh/LXJTckstUDBXaXBz/LXVuc3BsYXNoLmpw/Zw.jpg)
+
+Members Only
+
+Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-8)
+
+   [![](https://img.atlasobscura.com/sfT_TsPh59b05UG946CyzxSVqTVdyyfqqd60PUexnAM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy80ZTk1/MzYwZi0wZGNhLTQ1/ZmMtYmZiMC05NmMy/M2Y2NTYwMGExYTNh/YWI2YWVkNTIyYTNl/YWVfYW50b24tZGFy/aXVzLXpqR2EyUlFw/aFJBLXVuc3BsYXNo/LmpwZw.jpg)
+
+Members Only
+
+Monster of the Month w/ Colin Dickey: Venusians](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-venusians)
+
+   [![](https://img.atlasobscura.com/MDlbgrscgl4pTuejh83Ze0mRK673tS4b5gu6Yl5Vxjk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MWE1/ZjNkOC1mZjYyLTRi/ZDktOWM5NC0yNDgy/MjIzZDYzNjU3ZmM4/N2U1OTExMzVlODJi/ZDFfYTFhNDU5NzQt/NDBjZC00MzBiLWJk/YzUtYjc3ZjEzOWE3/Zjk4MDNlNjI3Y2Ex/NmJjMWViYjdlX2Q4/ZTllYjI5LWUyYWQt/NGFiYS04YzAxLTIw/OTEwODFhMGM2OGUx/MmU1YWI0Y2E4ZTY0/OGQ5MF9BY2NpZGVu/dGFsIGRpc2NvdmVy/aWVzX2V4cGVyaWVu/Y2VzIGltYWdlIDEy/MDB4MTYwMCAoMSku/cG5n.png)
+
+Members Only
+
+Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-7)
+
+   [![](https://img.atlasobscura.com/MTt0wC9s_yXGKlahFmlhGRqiXnUs0OaI7S0S0wHcNmk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy85NDYy/ZGNjYy1lNzQ0LTRl/NWMtODhlMS1iZmIy/MDhmM2FiMjc4NmJm/YWRlYjI2NDFiMTA1/MDlfaW1hZ2UxLmpw/ZWc.jpg)
+
+Members Only
+
+Antiques and Their Afterlives](https://www.atlasobscura.com/experiences/antiques-and-their-afterlives-2)
+
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/ZIK-T75ttnDo0lcuerknjmyWE8BIEfwY83DoLGY4hVA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9mM2Ix/ZGExZC0zYWQzLTRh/OWQtYjc3OS03NWM2/ZDZjZmZkOTcxNGM2/MTBjZDk2ZDk1ZmYy/NjRfYWxleC1mV0Q3/S3Fsc0N3RS11bnNw/bGFzaC5qcGVn.jpg)
+
+Summer Camp: Reading the Skies, Befriending Birds, & Scary Films](https://www.atlasobscura.com/experiences/summer-camp-online-course)
+
+   [![](https://img.atlasobscura.com/rXGvWx7jkgmQw-8k0Rr6EAwFH_MHyrOJ_tFI5MEqSdM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84MjRi/NTI5ZS0yMTRhLTQ5/NmEtYmVmOC1jYTdm/YjJhZGY0YjNmYTc2/MTY1YWUzOWU4Nzlj/N2NfXzIwMjNfU2Fz/a2lhX2J5Tmlra2lO/aXhvbi0yMDIzLmpw/Zw.jpg)
+
+Making Scents: Experimental Perfumery With Saskia Wilson-Brown](https://www.atlasobscura.com/experiences/perfume-online-course)
+
+   [![](https://img.atlasobscura.com/8NaEq48wyV76l97OfNx1ths_RsKDEXKJEEnRMwkCGVg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xZTA4/ZWJmZS1jNTdiLTRh/NDUtOTMyMS02OTNi/NjNkMjIwNGFkOTAw/MmJkNzYzNDEwNzQw/MzBfQU9fWW9vamlu/S2ltNC5KUEc.jpg)
+
+3D Paper Art: Pop-Ups and Paper Engineering With Yoojin Kim](https://www.atlasobscura.com/experiences/3d-paper-art-online-course)
+
+   [![](https://img.atlasobscura.com/rZ09wOxXg2EgJoESnVaWU78q_mjTHbK0VtjwFlbHdxw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kMTQ0/MmE2OC02MTQ5LTRl/YzUtYjgwMy05MzNl/MDU0NGRiMWY4OGEz/ZWY1NTMyNjA0MWZi/OGJfRFNDXzAyMjgu/SlBH.jpg)
+
+Writing the Food Memoir: A Workshop With Gina Rae La Cerva](https://www.atlasobscura.com/experiences/course-food-writing)
+
+   [![](https://img.atlasobscura.com/SW72rjsX3sVdKvm76FHx3EDsX3nwbVrAmX5ZXWknaKM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hN2U5/MmZkMi0wMDZiLTQx/NzUtYjk0Yy0xY2Uw/ODllYjU1N2ZlOGE4/MTI2ZDRhYjc4ZTJk/YWJfMjAyMjA0MDZf/MDkyOTE1LTAxICgx/KS5qcGVn.jpg)
+
+Nature Printing With Latifat Apatira](https://www.atlasobscura.com/experiences/nature-printing-course)
+
+Top Destinations
+
+Latest Places
+
+[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
+
+Top Destinations
+
+[View All Destinations »](https://www.atlasobscura.com/destinations)
+
+### Countries
+
+* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
+* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
+* [China](https://www.atlasobscura.com/things-to-do/china "China")
+* [France](https://www.atlasobscura.com/things-to-do/france "France")
+* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
+* [India](https://www.atlasobscura.com/things-to-do/india "India")
+* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
+* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
+
+### Cities
+
+* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
+* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
+* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
+* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
+* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
+* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
+* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
+* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
+* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
+* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
+* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
+* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
+* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
+* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
+* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
+* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
+* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
+* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
+* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
+* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
+* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
+* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
+* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
+* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
+
+Latest Places
+
+[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
+
+   [![William Rosenberg built an empire upon his fried-dough foundation.](https://img.atlasobscura.com/YJsg4EAOsWJ29lSSOK3bE9EZZjFO_DbeEyax2H0_FlI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOWYz/ZTgxMi0yYWNkLTRj/YTctYTlmNS04NzY0/MzI3ZmRlMzY3ZDk3/ZDhlMTFlNWI2N2E2/YTZfSU1HXzU0NzEu/anBlZw.jpg)
+
+Grave of Dunkin' Donuts founder](https://www.atlasobscura.com/places/grave-of-dunkin-donuts-founder-massachusetts)
+
+   [![These meat substitutes come close to the real thing.](https://img.atlasobscura.com/HgANCYwirQZehSJ-GpCjT-bIzQO0EmoOdCtNoM8Xw7Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYzU2/NjM4Zi05NmJkLTQ3/NDgtYmY5MS00Yjcx/NWI5MGFjYzNiOGY3/NzRjMTdiMWMwZTQ1/ZmFfSU1HXzUyNjcu/anBlZw.jpg)
+
+Bodhi Village](https://www.atlasobscura.com/places/bodhi-village)
+
+   [![Matthew McConaughey](https://img.atlasobscura.com/G4mS4wD-V5wj_PGquOBFco18sKNyDP1FXDlQcQeON-w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS9h/cHBfdXBsb2Fkcy9w/bGFjZV9pbWFnZXMv/dXNlcl8zODQ2NTA4/X2M2YTI5MWRjLTMx/ZjAtNDk1Yi04MzJi/LTdkMDk0ZDNkNGQy/OQ.jpg)
+
+Giant Matthew McConaughey](https://www.atlasobscura.com/places/giant-matthew-mcconaughey)
+
+   [![This shrine allegedly contains a real lock of the soccer star's hair.](https://img.atlasobscura.com/pXi45ofwrUIvkATvINpb7hTRoJ6qtXDNu5CXmRBc1EM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZTg4/ZDNjM2I3MmZhMTNh/ZTBfR2V0dHlJbWFn/ZXMtMTI4Nzg2Nzg1/Mi5qcGc.jpg)
+
+Bar Nilo](https://www.atlasobscura.com/places/maradona-altar-naples)
+
+Latest Places to Eat & Drink
+
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![William Rosenberg built an empire upon his fried-dough foundation.](https://img.atlasobscura.com/YJsg4EAOsWJ29lSSOK3bE9EZZjFO_DbeEyax2H0_FlI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOWYz/ZTgxMi0yYWNkLTRj/YTctYTlmNS04NzY0/MzI3ZmRlMzY3ZDk3/ZDhlMTFlNWI2N2E2/YTZfSU1HXzU0NzEu/anBlZw.jpg)
+
+Grave of Dunkin' Donuts founder](https://www.atlasobscura.com/places/grave-of-dunkin-donuts-founder-massachusetts)
+
+   [![These meat substitutes come close to the real thing.](https://img.atlasobscura.com/HgANCYwirQZehSJ-GpCjT-bIzQO0EmoOdCtNoM8Xw7Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYzU2/NjM4Zi05NmJkLTQ3/NDgtYmY5MS00Yjcx/NWI5MGFjYzNiOGY3/NzRjMTdiMWMwZTQ1/ZmFfSU1HXzUyNjcu/anBlZw.jpg)
+
+Bodhi Village](https://www.atlasobscura.com/places/bodhi-village)
+
+   [![This shrine allegedly contains a real lock of the soccer star's hair.](https://img.atlasobscura.com/pXi45ofwrUIvkATvINpb7hTRoJ6qtXDNu5CXmRBc1EM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZTg4/ZDNjM2I3MmZhMTNh/ZTBfR2V0dHlJbWFn/ZXMtMTI4Nzg2Nzg1/Mi5qcGc.jpg)
+
+Bar Nilo](https://www.atlasobscura.com/places/maradona-altar-naples)
+
+   [![Check out the distillery's equipment.](https://img.atlasobscura.com/Z6uv7BW5SXIrd7MPPkOF0aePIZfqJb2kxMDH2TL0W_w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ODMx/ODgyNS0yZTZhLTRm/ZDgtYjk1Yy0xMDQx/ZmYzZWIyOTRiMWJk/OTljMjk1ZDg3NDUz/ZGVfMjAyMjA5MjRf/MTAzMzM1LmpwZw.jpg)
+
+Lindores Abbey Distillery](https://www.atlasobscura.com/places/lindores-abbey-distillery-scotland)
+
+   [![This ham-cured tomahawk pork chop is enlivened with a strawberry and hibiscus gastrique.](https://img.atlasobscura.com/8DEIS7KzibDyyVl8RiEnYZdhkubB_nkMTHESectKZzU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81M2Vi/MDg1OTkyOTlhZjc2/MDZfNDM1ODcxMDU4/XzE3OTYzMTczOTE2/NzMyMzczXzc2Njgx/OTc1ODU4NzgyNzEz/MzRfbi5qcGc.jpg)
+
+Hickory](https://www.atlasobscura.com/places/hickory-virginia)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![Small rocks can be great souvenirs from camp and other summertime adventures—they can also reveal secrets about Earth's deep history.](https://img.atlasobscura.com/lndktYNk2zb5Q9BD-UjxW22zgXjUQZP6MLFDS2EA-sw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zY2VkZmY2YzM5/MGMyNTdhZTBfQXRs/YXNfT2JzY3VyYV9S/b2NrcyAzLmpwZw.jpg)
+
+How to Identify Rocks, the Ultimate Summer Camp Souvenir](https://www.atlasobscura.com/articles/how-to-identify-rocks)
+
+   [![Both Krishna and Shiva are sometimes depicted wielding a rope tied in a pasha knot, which is associated with binding souls—and the occasional demon or evil spirit.](https://img.atlasobscura.com/16sdsZksT09E9FEVK-G_nUGBM2vLJ48t7UgBDEy00LI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yMjNjYmQyZjlm/YzI0MmYxOWFfa25v/dHNfcGFzaGFfdXBk/YXRlLmpwZw.jpg)
+
+How to Tie Knots That Have Tales to Tell](https://www.atlasobscura.com/articles/how-to-tie-historical-knots)
+
+   [![Rare greens and native plants alike find their way from Farm & Market’s greenhouses to its restaurant next door.](https://img.atlasobscura.com/QbEDnNcHUAeevZRI0fzZC4CVq4SW6XxuVoFHUTAWdBo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82ZWQ5OTFkODFl/NThlYjFhOTNfQXRs/YXMgT2JzY3VyYSBM/aWNlbnNlZCBJbWFn/ZXMtMS5qcGc.jpg)
+
+In Colorado, Chefs Are Taking Farm-to-Table to a Whole New Level](https://www.atlasobscura.com/articles/in-colorado-chefs-are-taking-farm-to-table-to-a-whole-new-level)
+
+   [![Crystal River Preserve State Park is great for hiking, kayaking, and birdwatching.](https://img.atlasobscura.com/mBbciIJAuGiMazc9x0wWkmxaQuqUPs0F7HpPSx5mjpU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mODM4ZmZmN2Q2/MGVlZTc4YmJfSU1H/X0U2NTM0IENyeXN0/YWwgUml2ZXIgUHJl/c2VydmUuSlBH.jpg)
+
+10 Reasons to Explore Citrus County: Forests, Springs, and a Hippo Citizen](https://www.atlasobscura.com/articles/10-reasons-to-explore-citrus-county-forests-springs-and-a-hippo-citizen-1dd9987e-b6e1-401b-935a-2c95dedf2fa0)
 
 No search results found for  
 “”
