@@ -47,6 +47,12 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei FreeBuds 5 HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeBuds-5-400x240.jpg)
+        
+        Huawei FreeBuds 5 is grabbing HarmonyOS 4.2 enhancements](https://www.huaweicentral.com/huawei-freebuds-5-is-grabbing-harmonyos-4-2-enhancements/)
+    * [![Huawei FreeBuds 6i July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeBuds-6i-img-400x240.jpg)
+        
+        Huawei FreeBuds 6i users grabbing July 2024 improvements update](https://www.huaweicentral.com/huawei-freebuds-6i-users-grabbing-july-2024-improvements-update/)
     * [![Huawei FreeBuds 6i first update](https://www.huaweicentral.com/wp-content/uploads/2024/06/FreeBuds-6i-400x240.jpg)
         
         Huawei FreeBuds 6i receives first update with triple tap gesture optimizations](https://www.huaweicentral.com/huawei-freebuds-6i-receives-first-update-with-triple-tap-gesture-optimizations/)
@@ -56,30 +62,24 @@ Huawei Central
     * [![Huawei M-Pencil 3 May 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/05/M-pencil-device-400x240.jpg)
         
         Huawei M-Pencil 3 grabs May 2024 update with new optimizations](https://www.huaweicentral.com/huawei-m-pencil-3-grabs-may-2024-update-with-new-optimizations/)
-    * [![Huawei FreeClip HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/04/Huawei-FreeClip-400x240.jpg)
-        
-        Huawei FreeClip gets HarmonyOS 4.2 with new ‘volume gestures’ feature](https://www.huaweicentral.com/huawei-freeclip-gets-harmonyos-4-2-with-new-volume-gestures-feature/)
-    * [![Huawei FreeBuds Pro 3 April 2024 Update](https://www.huaweicentral.com/wp-content/uploads/2024/04/FreeBuds-Pro-3-April-2024-400x240.jpg)
-        
-        Huawei FreeBuds Pro 3 is getting April 2024 optimizations update](https://www.huaweicentral.com/huawei-freebuds-pro-3-is-getting-april-2024-optimizations-update/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
-    * [![Huawei Watch 4 Pro Space Bluetooth update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-4-Pro-Space-400x240.jpg)
+    * [![Huawei Watch Buds July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Buds-400x240.jpg)
         
-        New update for Huawei Watch 4 Pro Space Edition optimizes Bluetooth calling](https://www.huaweicentral.com/new-update-for-huawei-watch-4-pro-space-edition-optimizes-bluetooth-calling/)
-    * [![Huawei Watch 3 series June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-3-series-update-400x240.jpg)
+        Huawei Watch Buds users getting July 2024 improvements update](https://www.huaweicentral.com/huawei-watch-buds-users-getting-july-2024-improvements-update/)
+    * [![Huawei Watch D July 2024 improvements](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-D-400x240.jpg)
         
-        Huawei Watch 3 series fetches June 2024 update with system stability](https://www.huaweicentral.com/huawei-watch-3-series-fetches-june-2024-update-with-system-stability/)
-    * [![Huawei Band 9 stable HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/06/Huawei-Band-9-400x240.jpg)
+        Huawei Watch D welcomes July 2024 system stability improvements](https://www.huaweicentral.com/huawei-watch-d-welcomes-july-2024-system-stability-improvements/)
+    * [![Huawei Watch Fit 2 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Fit-2-400x240.jpg)
         
-        Huawei Band 9 starts receiving stable HarmonyOS 4.2 update](https://www.huaweicentral.com/huawei-band-9-starts-receiving-stable-harmonyos-4-2-update/)
-    * [![Huawei Watch Fit 3 UI optimizations](https://www.huaweicentral.com/wp-content/uploads/2024/06/Watch-Fit-3-400x240.jpg)
+        Huawei optimizes Watch Fit 2 with July 2024 update](https://www.huaweicentral.com/huawei-optimizes-watch-fit-2-with-july-2024-update/)
+    * [![Huawei Watch GT 5 series](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-GT-5-series-400x240.jpg)
         
-        New update for Huawei Watch Fit 3 brings UI enhancements](https://www.huaweicentral.com/new-update-for-huawei-watch-fit-3-brings-ui-enhancements/)
-    * [![Huawei Children's Watch 4 Pro June 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/06/Childrens-Watch-4-Pro-400x240.jpg)
+        Leak hints Huawei Watch GT 5 series coming soon](https://www.huaweicentral.com/leak-hints-huawei-watch-gt-5-series-coming-soon/)
+    * [![Huawei Watch 3 series June 2024 firmware](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-3-seriess-400x240.jpg)
         
-        Huawei Children’s Watch 4 Pro bags June 2024 improvements update](https://www.huaweicentral.com/huawei-childrens-watch-4-pro-bags-june-2024-improvements-update/)
+        Global Huawei Watch 3 series gets June 2024 firmware](https://www.huaweicentral.com/global-huawei-watch-3-series-gets-june-2024-firmware/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
