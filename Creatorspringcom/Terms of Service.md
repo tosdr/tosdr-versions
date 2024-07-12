@@ -119,7 +119,7 @@ New launches and artist collaborations coming soon
 
 [Powered by](https://www.spri.ng/)
 
-![Country Picker country flag](/_next/image?url=https%3A%2F%2Fflagcdn.com%2F32x24%2Fus.png&w=64&q=75)USD
+![Country Picker country flag](/_next/image?url=https%3A%2F%2Fflagcdn.com%2F32x24%2Feu.png&w=64&q=75)GBP
 
 * [Privacy Policy](https://www.creator-spring.com/privacy-policy)
 * [Terms of use](https://www.creator-spring.com/terms-of-use)
