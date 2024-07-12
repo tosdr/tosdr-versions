@@ -1,6 +1,6 @@
 |     |     |
 | --- | --- |
-| [![LinuxQuestions.org](https://www.linuxquestions.org/questions/images/LinuxQuestions.png)](https://www.linuxquestions.org/questions/) | [Review](https://www.linuxquestions.org/reviews/index.php/cat/2) your favorite Linux distribution. |
+| [![LinuxQuestions.org](https://www.linuxquestions.org/questions/images/LinuxQuestions.png)](https://www.linuxquestions.org/questions/) | Latest LQ Deal: [Latest LQ Deals](https://deals.linuxquestions.org/search?query=linux) |
 
 |     |
 | --- |
@@ -15,12 +15,12 @@
 
 |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Home](https://www.linuxquestions.org/) | [Forums](https://www.linuxquestions.org/questions/) | [Tutorials](https://www.linuxquestions.org/linux/answers/?s=740dc07679482c124d5f10a98a2b5008) | [Articles](https://www.linuxquestions.org/linux/articles/?s=740dc07679482c124d5f10a98a2b5008) | [Register](https://www.linuxquestions.org/questions/register.php) | [Search](https://www.linuxquestions.org/questions/search.php) | [Today's Posts](https://www.linuxquestions.org/questions/search.php?do=getdaily) | [Mark Forums Read](https://www.linuxquestions.org/questions/forumdisplay.php?do=markread&markreadhash=guest) |
+| [Home](https://www.linuxquestions.org/) | [Forums](https://www.linuxquestions.org/questions/) | [Tutorials](https://www.linuxquestions.org/linux/answers/?s=55bda8fba02cf81a26be33e0b55c7dc3) | [Articles](https://www.linuxquestions.org/linux/articles/?s=55bda8fba02cf81a26be33e0b55c7dc3) | [Register](https://www.linuxquestions.org/questions/register.php) | [Search](https://www.linuxquestions.org/questions/search.php) | [Today's Posts](https://www.linuxquestions.org/questions/search.php?do=getdaily) | [Mark Forums Read](https://www.linuxquestions.org/questions/forumdisplay.php?do=markread&markreadhash=guest) |
 
 |     |     |     |
 | --- | --- | --- |
-| [![Go Back](https://www.linuxquestions.org/questions/images/misc/navbits_start.gif)](#?s=740dc07679482c124d5f10a98a2b5008) |     | [LinuxQuestions.org](https://www.linuxquestions.org/) |
-| [![Reload this Page](https://www.linuxquestions.org/questions/images/misc/navbits_finallink.gif)](https://www.linuxquestions.org/linux/privacy.html?s=740dc07679482c124d5f10a98a2b5008) **Privacy Policy** |     |     |
+| [![Go Back](https://www.linuxquestions.org/questions/images/misc/navbits_start.gif)](#?s=55bda8fba02cf81a26be33e0b55c7dc3) |     | [LinuxQuestions.org](https://www.linuxquestions.org/) |
+| [![Reload this Page](https://www.linuxquestions.org/questions/images/misc/navbits_finallink.gif)](https://www.linuxquestions.org/linux/privacy.html?s=55bda8fba02cf81a26be33e0b55c7dc3) **Privacy Policy** |     |     |
 
  
 
@@ -36,7 +36,7 @@
 |     |
 | --- |
 | Notices |
-| Welcome to **LinuxQuestions.org**, a friendly and active Linux Community.  <br>  <br>You are currently viewing LQ as a guest. By joining our community you will have the ability to post topics, receive our newsletter, use the advanced search, subscribe to threads and access many other special features. Registration is quick, simple and absolutely free. [**Join our community**](https://www.linuxquestions.org/questions/register.php) today!  <br>  <br>**Note that registered members see fewer ads, and ContentLink is completely disabled once you log in.**  <br>  <br>Are you new to LinuxQuestions.org? Visit the following links:  <br>[Site Howto](https://www.linuxquestions.org/linux/answers/LinuxQuestions_org/How_to_Use_LinuxQuestions_org?s=740dc07679482c124d5f10a98a2b5008) \| [Site FAQ](https://www.linuxquestions.org/questions/faq.php) \| [Sitemap](https://www.linuxquestions.org/linux/sitemap.html?s=740dc07679482c124d5f10a98a2b5008) \| [Register Now](https://www.linuxquestions.org/questions/register.php)  <br>  <br>If you have any problems with the registration process or your account login, please [contact us](https://www.linuxquestions.org/questions/sendmessage.php). If you need to reset your password, [click here](https://www.linuxquestions.org/questions/login.php?do=lostpw).  <br>  <br>**Having a problem logging in? Please visit [this page](https://www.linuxquestions.org/removecookies.php) to clear all LQ-related cookies.**<br><br>  <br>Get a [virtual cloud desktop](https://www.shells.com/l/en-US/linux-questions-org-exclusive?_a=RCzIFy) with the Linux distro that you want in less than five minutes with Shells! With over 10 pre-installed distros to choose from, the worry-free installation life is here! Whether you are a digital nomad or just looking for flexibility, Shells can put your Linux machine on the device that you want to use.  <br>  <br>Exclusive for LQ members, get up to 45% off per month. [Click here](https://www.shells.com/l/en-US/linux-questions-org-exclusive?_a=RCzIFy) for more info. |
+| Welcome to **LinuxQuestions.org**, a friendly and active Linux Community.  <br>  <br>You are currently viewing LQ as a guest. By joining our community you will have the ability to post topics, receive our newsletter, use the advanced search, subscribe to threads and access many other special features. Registration is quick, simple and absolutely free. [**Join our community**](https://www.linuxquestions.org/questions/register.php) today!  <br>  <br>**Note that registered members see fewer ads, and ContentLink is completely disabled once you log in.**  <br>  <br>Are you new to LinuxQuestions.org? Visit the following links:  <br>[Site Howto](https://www.linuxquestions.org/linux/answers/LinuxQuestions_org/How_to_Use_LinuxQuestions_org?s=55bda8fba02cf81a26be33e0b55c7dc3) \| [Site FAQ](https://www.linuxquestions.org/questions/faq.php) \| [Sitemap](https://www.linuxquestions.org/linux/sitemap.html?s=55bda8fba02cf81a26be33e0b55c7dc3) \| [Register Now](https://www.linuxquestions.org/questions/register.php)  <br>  <br>If you have any problems with the registration process or your account login, please [contact us](https://www.linuxquestions.org/questions/sendmessage.php). If you need to reset your password, [click here](https://www.linuxquestions.org/questions/login.php?do=lostpw).  <br>  <br>**Having a problem logging in? Please visit [this page](https://www.linuxquestions.org/removecookies.php) to clear all LQ-related cookies.**<br><br>  <br>Get a [virtual cloud desktop](https://www.shells.com/l/en-US/linux-questions-org-exclusive?_a=RCzIFy) with the Linux distro that you want in less than five minutes with Shells! With over 10 pre-installed distros to choose from, the worry-free installation life is here! Whether you are a digital nomad or just looking for flexibility, Shells can put your Linux machine on the device that you want to use.  <br>  <br>Exclusive for LQ members, get up to 45% off per month. [Click here](https://www.shells.com/l/en-US/linux-questions-org-exclusive?_a=RCzIFy) for more info. |
 
   
 
@@ -59,16 +59,16 @@
 
   
 
-All times are GMT -5. The time now is 03:35 AM.
+All times are GMT -5. The time now is 02:07 PM.
 
   
 
-**[Contact Us](https://www.linuxquestions.org/questions/sendmessage.php) - [Advertising Info](https://www.linuxquestions.org/linux/adinfo.html?s=740dc07679482c124d5f10a98a2b5008) - [Rules](https://www.linuxquestions.org/linux/rules.html?s=740dc07679482c124d5f10a98a2b5008) - [Privacy](https://www.linuxquestions.org/linux/privacy.html?s=740dc07679482c124d5f10a98a2b5008) - [LQ Merchandise](http://www.zazzle.com/linuxquestions*) - [Donations](https://www.linuxquestions.org/linux/donation.html?s=740dc07679482c124d5f10a98a2b5008) - [Contributing Member](https://www.linuxquestions.org/linux/member.html?s=740dc07679482c124d5f10a98a2b5008) - [LQ Sitemap](https://www.linuxquestions.org/linux/sitemap.html?s=740dc07679482c124d5f10a98a2b5008) -**
+**[Contact Us](https://www.linuxquestions.org/questions/sendmessage.php) - [Advertising Info](https://www.linuxquestions.org/linux/adinfo.html?s=55bda8fba02cf81a26be33e0b55c7dc3) - [Rules](https://www.linuxquestions.org/linux/rules.html?s=55bda8fba02cf81a26be33e0b55c7dc3) - [Privacy](https://www.linuxquestions.org/linux/privacy.html?s=55bda8fba02cf81a26be33e0b55c7dc3) - [LQ Merchandise](http://www.zazzle.com/linuxquestions*) - [Donations](https://www.linuxquestions.org/linux/donation.html?s=55bda8fba02cf81a26be33e0b55c7dc3) - [Contributing Member](https://www.linuxquestions.org/linux/member.html?s=55bda8fba02cf81a26be33e0b55c7dc3) - [LQ Sitemap](https://www.linuxquestions.org/linux/sitemap.html?s=55bda8fba02cf81a26be33e0b55c7dc3) -**
 
 |     |
 | --- |
 | Main Menu |
-| * [Linux Forum](https://www.linuxquestions.org/questions/)<br>* [Search](https://www.linuxquestions.org/questions/search.php)<br>* [LQ Tags](https://www.linuxquestions.org/questions/tags/)<br>* [Linux Tutorials](https://www.linuxquestions.org/linux/answers/?s=740dc07679482c124d5f10a98a2b5008)<br>* [LQ Deals](https://deals.linuxquestions.org/)<br>* [Linux Wiki](http://wiki.linuxquestions.org/)<br>* [Download Linux](http://iso.linuxquestions.org/)<br>* [Social Groups](https://www.linuxquestions.org/questions/groups/)<br>* [LQ Blogs](https://www.linuxquestions.org/questions/blog/)<br><br>[(Con't)](https://www.linuxquestions.org/linux/privacy.html#main_cont?s=740dc07679482c124d5f10a98a2b5008) |
+| * [Linux Forum](https://www.linuxquestions.org/questions/)<br>* [Search](https://www.linuxquestions.org/questions/search.php)<br>* [LQ Tags](https://www.linuxquestions.org/questions/tags/)<br>* [Linux Tutorials](https://www.linuxquestions.org/linux/answers/?s=55bda8fba02cf81a26be33e0b55c7dc3)<br>* [LQ Deals](https://deals.linuxquestions.org/)<br>* [Linux Wiki](http://wiki.linuxquestions.org/)<br>* [Download Linux](http://iso.linuxquestions.org/)<br>* [Social Groups](https://www.linuxquestions.org/questions/groups/)<br>* [LQ Blogs](https://www.linuxquestions.org/questions/blog/)<br><br>[(Con't)](https://www.linuxquestions.org/linux/privacy.html#main_cont?s=55bda8fba02cf81a26be33e0b55c7dc3) |
 
 Advertisement
 
@@ -81,7 +81,7 @@ Advertisement
 |     |
 | --- |
 | My LQ |
-| * [Login](https://www.linuxquestions.org/questions/lqlogin.php?s=740dc07679482c124d5f10a98a2b5008)<br>* [Register](https://www.linuxquestions.org/questions/register.php)<br><br>[![](https://rev.linuxquestions.org/www/delivery/avw.php?zoneid=3&n=8cac360)](https://www.linuxquestions.org/'https://rev.linuxquestions.org/www/delivery/ck.php?n=8cac360\%27) |
+| * [Login](https://www.linuxquestions.org/questions/lqlogin.php?s=55bda8fba02cf81a26be33e0b55c7dc3)<br>* [Register](https://www.linuxquestions.org/questions/register.php)<br><br>[![](https://rev.linuxquestions.org/www/delivery/avw.php?zoneid=3&n=8cac360)](https://www.linuxquestions.org/'https://rev.linuxquestions.org/www/delivery/ck.php?n=8cac360\%27) |
 
 |     |
 | --- |
@@ -91,7 +91,7 @@ Advertisement
 |     |
 | --- |
 | Main Menu |
-| * [LQ Calendar](https://www.linuxquestions.org/questions/calendar.php)<br>* [LQ Rules](https://www.linuxquestions.org/linux/rules.html?s=740dc07679482c124d5f10a98a2b5008)<br>* [LQ Sitemap](https://www.linuxquestions.org/linux/sitemap.html?s=740dc07679482c124d5f10a98a2b5008)<br>* [Site FAQ](https://www.linuxquestions.org/questions/faq.php)<br>* [View New Posts](https://www.linuxquestions.org/questions/search.php?do=getnew)<br>* [View Latest Posts](https://www.linuxquestions.org/questions/lqsearch.php?do=getnew&daysprune=7)<br>* [Zero Reply Threads](https://www.linuxquestions.org/questions/lqsearch.php?do=noreplies)<br>* [LQ Wiki Most Wanted](http://wiki.linuxquestions.org/wiki/Special:Wantedpages)<br>* [Jeremy's Blog](http://jeremy.linuxquestions.org/)<br>* [Report LQ Bug](https://www.linuxquestions.org/questions/project.php) |
+| * [LQ Calendar](https://www.linuxquestions.org/questions/calendar.php)<br>* [LQ Rules](https://www.linuxquestions.org/linux/rules.html?s=55bda8fba02cf81a26be33e0b55c7dc3)<br>* [LQ Sitemap](https://www.linuxquestions.org/linux/sitemap.html?s=55bda8fba02cf81a26be33e0b55c7dc3)<br>* [Site FAQ](https://www.linuxquestions.org/questions/faq.php)<br>* [View New Posts](https://www.linuxquestions.org/questions/search.php?do=getnew)<br>* [View Latest Posts](https://www.linuxquestions.org/questions/lqsearch.php?do=getnew&daysprune=7)<br>* [Zero Reply Threads](https://www.linuxquestions.org/questions/lqsearch.php?do=noreplies)<br>* [LQ Wiki Most Wanted](http://wiki.linuxquestions.org/wiki/Special:Wantedpages)<br>* [Jeremy's Blog](http://jeremy.linuxquestions.org/)<br>* [Report LQ Bug](https://www.linuxquestions.org/questions/project.php) |
 
 |     |
 | --- |
