@@ -1,3 +1,15 @@
+WEBINAR: Give With Purpose Using Tax-Smart Strategies  |   July 18th, 3:00 p.m. ET
+
+[Register now](https://events.fidelitycharitable.org/smart-charitable-strategies/psite)
+
+WEBINAR: Give With Purpose Using  
+Tax-Smart Strategies  
+July 18th, 3:00 p.m. ET
+
+[Register now](https://events.fidelitycharitable.org/smart-charitable-strategies/psite)
+
+[×](#)
+
    [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
 
 [Try our demo](https://www.fidelitycharitable.org/giving-account/demo.html)
