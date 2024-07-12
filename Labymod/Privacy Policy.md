@@ -1,3 +1,5 @@
+[⚽ **FOOTBALL SPECIAL!** - Get, collect and open **MYSTERY BALLS** with amazing surprises! ⚽](https://www.labymod.net/en/shop)
+
 Menu
 
 [![Logo](/page/tpl/assets/images/logo.png)](https://www.labymod.net/en/)
