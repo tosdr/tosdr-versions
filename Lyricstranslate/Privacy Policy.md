@@ -6,41 +6,6 @@ Search
 
 [![Sign Up](/sites/all/themes/lt7/images/user-add.svg)](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
 
-* [Lyrics](#)
-    * [Artists](https://lyricstranslate.com/en/artists)
-    * [Songs](https://lyricstranslate.com/en/songs)
-    * [Translations](https://lyricstranslate.com/en/translations)
-    * [Languages](https://lyricstranslate.com/en/languages.html)
-    * [Requests](https://lyricstranslate.com/en/requests)
-    * [Transcription requests](https://lyricstranslate.com/en/transrequests)
-    * [Subtitles](https://lyricstranslate.com/en/songs/0/none/none/0/none/1)
-    * [Idioms](https://lyricstranslate.com/en/phrases)
-    * [Collections](https://lyricstranslate.com/en/collections)
-* [Actions](#)
-    * [Add new translation](https://lyricstranslate.com/en/add/translate)
-    * [Add new song](https://lyricstranslate.com/en/add/song)
-    * [Request a translation](https://lyricstranslate.com/en/add/request)
-    * [Request lyrics transcription](https://lyricstranslate.com/en/add/transrequest)
-    * [Start forum thread](https://lyricstranslate.com/en/node/add/forum)
-* [Community](#)
-    * [Members](https://lyricstranslate.com/en/members)
-    * [Forum](https://lyricstranslate.com/en/forum)
-    * [New forum topics](https://lyricstranslate.com/en/newforumtopics)
-    * [Recent comments](https://lyricstranslate.com/en/recent-comments)
-    * [Popular Content / Site statistics](https://lyricstranslate.com/en/topnodes)
-* [Help](#)
-    * [Request new lyrics translation](https://lyricstranslate.com/en/how-request-translation)
-    * [Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
-    * [Website Rules](https://lyricstranslate.com/en/lt-site-rules)
-    * [Frequently Asked Questions](https://lyricstranslate.com/en/faq)
-    * [Useful Resources](https://lyricstranslate.com/en/resources)
-    * [lyricstranslate.com forum](https://lyricstranslate.com/en/forums/general-forums/lyricstranslatecom)
-* [Interface language](#)
-    * DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
-        
-* [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
-* [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=privacy-policy)
-
 * [Log in](https://lyricstranslate.com/en/user/login?tag=menubar&destination=privacy-policy)
 * [Sign up](https://lyricstranslate.com/en/user/register?tag=menubar&destination=privacy-policy)
 * [Become a translator](https://lyricstranslate.com/en/how-add-new-translation)
@@ -141,81 +106,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Tatjana_0809](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1195565-1540940544.jpg)](https://lyricstranslate.com/en/translator/tatjana0809 "Tatjana_0809")
+[![eleventhour11](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1545564-1690913604.jpg)](https://lyricstranslate.com/en/translator/eleventhour11 "eleventhour11")
 
 New song
 
-[Karol G - Si Antes Te Hubiera Conocido](https://lyricstranslate.com/en/karol-g-si-antes-te-hubiera-conoc-lyrics)
+[Elvana Gjata - NIHNA](https://lyricstranslate.com/en/elvana-gjata-nihna-lyrics)
 
-Spanish
+Albanian
 
-[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1675532528.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
+[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
 
 New translation
 
-[La Familia - Pentru bagabonții care mă susțin](https://lyricstranslate.com/en/la-familia-pentru-bagabontii-care-ma-english)
+[KidsTV123 - Numbers Song](https://lyricstranslate.com/en/kidstv123-numbers-song-other-1)
 
-Romanian → English
+English → Other
 
-[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1639743181.jpg)](https://lyricstranslate.com/en/translator/want "want")
-
-New song
-
-[CLONNEX - Emo Makeup](https://lyricstranslate.com/en/clonnex-emo-makeup-lyrics)
-
-English
-
-[![matnot4u](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610383-1709145459.jpg)](https://lyricstranslate.com/en/translator/finnishenglishhh "matnot4u")
+[![musucal_buddy](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1537683-1665817304.jpg)](https://lyricstranslate.com/en/translator/musucalbuddy "musucal_buddy")
 
 New translation
 
-[Jann - LOOKATME](https://lyricstranslate.com/en/jann-lookatme-finnish)
+[Chappell Roan - Good Luck, Babe!](https://lyricstranslate.com/en/chappell-roan-good-luck-babe-serbian)
 
-English → Finnish
+English → Serbian
 
-[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
-
-New comment
-
-I also hear "flex" but it doesn't make any sence. ...  [more](https://lyricstranslate.com/en/comment/1150661#comment-1150661)
-
-[![Musapyr](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/musapyr "Musapyr")
-
-New song
-
-[Unknown artist (Chinese) - 请别说没没没爱的方向](https://lyricstranslate.com/en/unknown-artist-chinese-qing-bie-shuo-mei-mei-mei-lyrics)
-
-Chinese
-
-[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1639743181.jpg)](https://lyricstranslate.com/en/translator/want "want")
-
-New song
-
-[CMH - бэйслайн бизнес](https://lyricstranslate.com/en/cmh-bassline-business-lyrics)
-
-Russian
-
-[![vaalentin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/vaalentin "vaalentin")
-
-New request
-
-[Konets Solnechnykh Dney - юный эскапист (yunyy eskapist)](https://lyricstranslate.com/en/request/%D1%8E%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D1%82)
-
-Russian → English
-
-[![AisaManahan](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/aisamanahan "AisaManahan")
-
-New comment
-
-Can someone please dona transliteration for this ...  [more](https://lyricstranslate.com/en/comment/1150660#comment-1150660)
-
-[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+[![Lukas Skully](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1388200-1554974371.jpg)](https://lyricstranslate.com/en/translator/lukas-skully "Lukas Skully")
 
 New translation
 
-[Jeremy Renner - Love is a war](https://lyricstranslate.com/en/jeremy-renner-love-war-hebrew)
+[Black Sabbath - Hole in the Sky](https://lyricstranslate.com/en/black-sabbath-hole-sky-slovak)
 
-English → Hebrew
+English → Slovak
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New song
+
+[Humbert Humbert - 愛のさざなみ](https://lyricstranslate.com/en/humbert-humbert-ai-no-sazanami-lyrics)
+
+Japanese
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1715971153.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New translation
+
+[ENHYPEN - Brought The Heat Back](https://lyricstranslate.com/en/enhypen-brought-heat-back-english)
+
+English → English
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New translation
+
+[Humbert Humbert - ぼくらの魔法 (Bokura no mahō)](https://lyricstranslate.com/en/humbert-humbert-bokura-no-maho-transliteration)
+
+Japanese → Transliteration
+
+[![Musunee](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1355936-1596495268.jpg)](https://lyricstranslate.com/en/translator/musunee "Musunee")
+
+New translation
+
+[Marika Hackman - Ophelia](https://lyricstranslate.com/en/marika-hackman-ophelia-spanish)
+
+English → Spanish
+
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New song
+
+[Masaaki Fujioka - 朝靄](https://lyricstranslate.com/en/masaaki-fujioka-asamoya-lyrics)
+
+Japanese
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1715971153.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New translation
+
+[ENHYPEN - Your Eyes Only](https://lyricstranslate.com/en/enhypen-your-eyes-only-english)
+
+English → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
