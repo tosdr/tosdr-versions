@@ -50,14 +50,14 @@
     
 
 * [](https://apps.disroot.org/)[](https://status.disroot.org/)[](https://user.disroot.org/)
-* English
+* EN
     
-    * [English](https://disroot.org/en/tos)
-    * [Español](https://disroot.org/es/tos)
-    * [Français](https://disroot.org/fr/tos)
-    * [Italiano](https://disroot.org/it/tos)
-    * [Deutsch](https://disroot.org/de/tos)
-    * [Русский](https://disroot.org/ru/tos)
+    * [EN](https://disroot.org/en/tos)
+    * [ES](https://disroot.org/es/tos)
+    * [FR](https://disroot.org/fr/tos)
+    * [IT](https://disroot.org/it/tos)
+    * [DE](https://disroot.org/de/tos)
+    * [РУ](https://disroot.org/ru/tos)
     
 
 By using any of the services provided by disroot.org you agree to the following TERMS OF USE:
