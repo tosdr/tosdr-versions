@@ -1,6 +1,6 @@
-**For just $6,500 / year**, your team can adopt our rigorous, standards-aligned, **EdReports green-rated curriculum, CommonLit 360**! [Connect with our team to learn more](https://www.commonlit.org/en/contact/chat?channel=In-Product%3A%20CL%20Banner). Dismiss Announcement Dismiss Announcement
+**CommonLit does more so that you can spend less.** Maximize growth and minimize costs with a partnership starting at just **$2,500 / year**! [Connect with our team to learn more](https://www.commonlit.org/en/contact/chat?channel=In-Product%3A%20CL%20Banner). Dismiss Announcement Dismiss Announcement
 
-                                                                         
+                                                                          
 
     
 
@@ -322,7 +322,7 @@ Resources
 ---------
 
 * [Blog](https://www.commonlit.org/blog)
-* [Frequently Asked Questions](https://support.commonlit.org/hc/en-us)
+* [Frequently Asked Questions](https://support.commonlit.org/)
 * [Webinar Sign-Up](https://info.commonlit.org/webinars)
 * [Security](https://www.commonlit.org/en/security)
 
