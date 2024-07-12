@@ -13,8 +13,6 @@ My new cookbook Everyday Grand is available now! [Order Here →](https://grandb
 * [Twitter](https://twitter.com/GrandbabyCake)
 * [YouTube](https://www.youtube.com/user/grandbabycakes?feature=watch)
 
-![Grandbaby Cakes Cookbook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20253%20159'%3E%3C/svg%3E)
-
 ![Grandbaby Cakes Cookbook](https://grandbaby-cakes.com/wp-content/uploads/2016/05/book.png)
 
 ORDER NOW:  
