@@ -6,7 +6,7 @@
 
 Welcome! | [Log In](https://hj2.huntandjump.com/)
 
-FOREST SERVER | **Year: 132 Era: 15**  
+FOREST SERVER | **Year: 133 Era: 15**  
 
 * ![](/images/coloricons/icon_nav_home_color.png)My Stable
     
@@ -146,28 +146,50 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+7/11/2024 11:15 PM EST
+
+July Super Sale!
+----------------
+
+50% off BC tokens, 1000-stall barns, and 60 and 100-acre pastures
+
+7/10/2024 3:06 AM EST
+
+\*\*GE feedback is due July 15th\*\*
+------------------------------------
+
+  
+
+Massive Sale now in the GMT lab!
+--------------------------------
+
+7/1/2024 9:30 AM EST
+
+[SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**Sabino 2**  
+![](https://www.huntandjump.com/images/grsExamples/sb2.png)  
+**White 8**  
+![](https://www.huntandjump.com/images/grsExamples/w8.png)  
+**Axiom Blue**  
+![](https://www.huntandjump.com/images/grsExamples/axB.png)  
+**Rainbow Riot Paintbrush Warm**  
+![](https://www.huntandjump.com/images/grsExamples/pbw.png)  
+**Phantom Jellyfish**  
+![](https://www.huntandjump.com/images/grsExamples/phjlyf.png)  
+**Appaloosa Spot Regulator 1**  
+![](https://www.huntandjump.com/images/grsExamples/asr1.png)
+
+6/29/2024 5:12 AM EST
+
+Sales end soon!
+---------------
+
+June Celebration sales end Sunday night at rollover. Don't miss your shot at these deals. Many of these won't be on sale again until December.
+
 6/20/2024 4:32 AM EST
 
 ![](https://www.huntandjump.com/images/breednavicons/17.png)  
 The Dutch Warmblood has launched. Please check out the huge forum post about it, game status updates, and send us your feedback on recent changes. Thanks!
-
-6/15/2024 11:15 PM EST
-
-Thank you for the reports about image generation issues. We are very aware of the problem and doing everything we can at the moment to address it. We are working on a fix, it just is taking some time.
-
-6/11/2024 1:27 AM EST
-
-Please see the change long for important changes to max out limiting. Thank you.
-
-6/2/2024 12:36 AM EST
-
-Bluegrass server is open for registration for June celebration month!
----------------------------------------------------------------------
-
-6/1/2024 10:47 AM EST
-
-Happy June 1st, and Happy Pride Month!  
-If your sea ponies are not holding on to their colorful tack pack tails add them using the old tack system instead of the advanced tack editor. Once added you can edit them in the advanced tack editor. We are working on a fix for this.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
