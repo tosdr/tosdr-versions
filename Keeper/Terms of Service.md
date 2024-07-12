@@ -1,91 +1,93 @@
-* [Keeper](https://www.keepersecurity.com/ "Keeper")
+* [Keeper](https://www.keepersecurity.com/)
 
 * Products
     
     * Password Manager
-        * [Enterprise](https://www.keepersecurity.com/enterprise.html "Enterprise")
-        * [Business](https://www.keepersecurity.com/business.html "Business")
-        * [MSP](https://www.keepersecurity.com/msp-password-manager.html "MSP")
-        * [Public Sector](https://www.keepersecurity.com/government-cloud/ "Public Sector")
-        * [Personal](https://www.keepersecurity.com/personal.html "Personal")
-        * [Family](https://www.keepersecurity.com/family-plan.html "Family")
-    * [Privileged Access Manager](https://www.keepersecurity.com/privileged-access-management/ "Privileged Access Manager")
-    * [Secrets Manager](https://www.keepersecurity.com/secrets-manager.html "Secrets Manager")
-    * [Connection Manager](https://www.keepersecurity.com/connection-manager.html "Connection Manager")
+        * [Enterprise](https://www.keepersecurity.com/enterprise.html)
+        * [Business](https://www.keepersecurity.com/business.html)
+        * [MSP](https://www.keepersecurity.com/msp-password-manager.html)
+        * [Public Sector](https://www.keepersecurity.com/government-cloud/)
+        * [Personal](https://www.keepersecurity.com/personal.html)
+        * [Family](https://www.keepersecurity.com/family-plan.html)
+    * [Privileged Access Manager](https://www.keepersecurity.com/privileged-access-management/)
+    * [Secrets Manager](https://www.keepersecurity.com/secrets-manager.html)
+    * [Connection Manager](https://www.keepersecurity.com/connection-manager.html)
+    * [Remote Browser Isolation](https://www.keepersecurity.com/solutions/remote-browser-isolation/)
     
     Every few seconds, a person or organization is victimized with ransomware.
     
     Keeper will protect you.
     
-    [Download Apps](https://www.keepersecurity.com/download.html "Download Apps")
+    [Download Apps](https://www.keepersecurity.com/download.html)
     
 * Pricing
     
-    * [Business and Enterprise](https://www.keepersecurity.com/pricing/business-and-enterprise.html "Business and Enterprise")
-    * [Personal and Family](https://www.keepersecurity.com/pricing/personal-and-family.html "Personal and Family")
-    * [Student](https://www.keepersecurity.com/student-discount-50off.html "Student")
-    * [Military and Medical](https://www.keepersecurity.com/id-me-verification.html "Military and Medical")
+    * [Business and Enterprise](https://www.keepersecurity.com/pricing/business-and-enterprise.html)
+    * [Personal and Family](https://www.keepersecurity.com/pricing/personal-and-family.html)
+    * [Student](https://www.keepersecurity.com/student-discount-50off.html)
+    * [Military and Medical](https://www.keepersecurity.com/id-me-verification.html)
     
-* [Download](https://www.keepersecurity.com/download.html "Download")
-* [Use Cases](https://www.keepersecurity.com/resources/solutions/use-cases/ "Use Cases")
+* [Download](https://www.keepersecurity.com/download.html)
+* [Use Cases](https://www.keepersecurity.com/resources/solutions/use-cases/)
     
-    * [**Password Management** Protect and manage your organization's passwords, metadata and files](https://www.keepersecurity.com/solutions/enterprise-password-management.html "Password Management Protect and manage your organization's passwords, metadata and files")
-    * [**Single Sign-On Security** Seamlessly and quickly strengthen SAML-compliant IdPs, AD and LDAP](https://www.keepersecurity.com/solutions/single-sign-on.html "Single Sign-On Security Seamlessly and quickly strengthen SAML-compliant IdPs, AD and LDAP")
-    * [**Password Sharing**Securely share passwords and sensitive information with users and teams](https://www.keepersecurity.com/features/password-sharing.html "Password Sharing Securely share passwords and sensitive information with users and teams")
-    * [**Passwordless Authentication** Enable passwordless authentication for fast, secure access to applications](https://www.keepersecurity.com/solutions/passwordless-authentication.html "Passwordless Authentication Enable passwordless authentication for fast, secure access to applications")
-    * [**Secrets Management for DevOps** Protect critical infrastructure, CI/CD pipelines and eliminate secret sprawl](https://www.keepersecurity.com/secrets-manager.html "Secrets Management for DevOps Protect critical infrastructure, CI/CD pipelines and eliminate secret sprawl")
-    * [**Credential Governance & Controls** Achieve visibility, control and security across the entire organization](https://www.keepersecurity.com/solutions/role-based-access-control.html "Credential Governance & Controls Achieve visibility, control and security across the entire organization")
-    * [**Privileged Session Management**Securely manage applications and services for users, teams and nodes](https://www.keepersecurity.com/solutions/privileged-session-management.html "Privileged Session Management Securely manage applications and services for users, teams and nodes")
-    * [**SSH Key Management** Manage and protect SSH keys and digital certificates across your tech stack](https://www.keepersecurity.com/solutions/ssh-key-management.html "SSH Key Management Manage and protect SSH keys and digital certificates across your tech stack")
-    * [**Remote Infrastructure Access** Initiate secure remote access with RDP, SSH and other common protocols](https://www.keepersecurity.com/solutions/remote-infrastructure-access.html "Remote Infrastructure Access Initiate secure remote access with RDP, SSH and other common protocols")
-    * [**Secure Remote Database Access** Restrict secure access to authorized users with RBAC and policies](https://www.keepersecurity.com/solutions/remote-database-access.html "Secure Remote Database Access Restrict secure access to authorized users with RBAC and policies")
-    * [**Zero-Trust Security** Strengthen your organization with zero-trust security and policies](https://www.keepersecurity.com/solutions/zero-trust-security.html "Zero-Trust Security Strengthen your organization with zero-trust security and policies")
-    * [**Industry Compliance & Reporting** Achieve industry compliance and audit reporting including SOX and FedRAMP](https://www.keepersecurity.com/solutions/industry-compliance-reporting.html "Industry Compliance & Reporting Achieve industry compliance and audit reporting including SOX and FedRAMP")
-    * [**Password Rotation** Automate credential rotation to drastically reduce the risk of credential-based attacks](https://www.keepersecurity.com/solutions/password-rotation/ "Password Rotation Automate credential rotation to drastically reduce the risk of credential-based attacks")
+    * [**Password Management**Protect and manage your organization's passwords, metadata and files](https://www.keepersecurity.com/solutions/enterprise-password-management.html)
+    * [**Single Sign-On Security**Seamlessly and quickly strengthen SAML-compliant IdPs, AD and LDAP](https://www.keepersecurity.com/solutions/single-sign-on.html)
+    * [**Password Sharing**Securely share passwords and sensitive information with users and teams](https://www.keepersecurity.com/features/password-sharing.html)
+    * [**Passwordless Authentication**Enable passwordless authentication for fast, secure access to applications](https://www.keepersecurity.com/solutions/passwordless-authentication.html)
+    * [**Secrets Management for DevOps**Protect critical infrastructure, CI/CD pipelines and eliminate secret sprawl](https://www.keepersecurity.com/secrets-manager.html)
+    * [**Credential Governance & Controls** Achieve visibility, control and security across the entire organization](https://www.keepersecurity.com/solutions/role-based-access-control.html)
+    * [**Privileged Session Management**Securely manage applications and services for users, teams and nodes](https://www.keepersecurity.com/solutions/privileged-session-management.html)
+    * [**SSH Key Management**Manage and protect SSH keys and digital certificates across your tech stack](https://www.keepersecurity.com/solutions/ssh-key-management.html)
+    * [**Remote Infrastructure Access**Initiate secure remote access with RDP, SSH and other common protocols](https://www.keepersecurity.com/solutions/remote-infrastructure-access.html)
+    * [**Secure Remote Database Access**Restrict secure access to authorized users with RBAC and policies](https://www.keepersecurity.com/solutions/remote-database-access.html)
+    * [**Zero-Trust Security**Strengthen your organization with zero-trust security and policies](https://www.keepersecurity.com/solutions/zero-trust-security.html)
+    * [**Industry Compliance & Reporting**Achieve industry compliance and audit reporting including SOX and FedRAMP](https://www.keepersecurity.com/solutions/industry-compliance-reporting.html)
+    * [**Password Rotation**Automate credential rotation to drastically reduce the risk of credential-based attacks](https://www.keepersecurity.com/solutions/password-rotation/)
     
 * Resources
     
-    * [Blog](https://www.keepersecurity.com/blog/ "Blog")
-    * [Security](https://www.keepersecurity.com/security.html "Security")
-    * [Resource Library](https://www.keepersecurity.com/resources/ "Resource Library")
+    * [Blog](https://www.keepersecurity.com/blog/)
+    * [Security](https://www.keepersecurity.com/security.html)
+    * [Resource Library](https://www.keepersecurity.com/resources/)
+    * [Keeper Versus the Competition](https://www.keepersecurity.com/vs/competitors/)
     * Free Cybersecurity Tools
-        * [Personal Dark Web Scan](https://www.keepersecurity.com/free-data-breach-scan.html "Personal Dark Web Scan")
-        * [Business Dark Web Scan](https://www.keepersecurity.com/data-breach-scan-for-business.html "Business Dark Web Scan")
-        * [Secure Password Generator](https://www.keepersecurity.com/features/password-generator.html "Secure Password Generator")
-        * [Secure Passphrase Generator](https://www.keepersecurity.com/features/passphrase-generator/ "Secure Passphrase Generator")
-        * [Encrypted Messaging App](https://www.keepersecurity.com/keeperchat.html "Encrypted Messaging App")
+        * [Personal Dark Web Scan](https://www.keepersecurity.com/free-data-breach-scan.html)
+        * [Business Dark Web Scan](https://www.keepersecurity.com/data-breach-scan-for-business.html)
+        * [Secure Password Generator](https://www.keepersecurity.com/features/password-generator.html)
+        * [Secure Passphrase Generator](https://www.keepersecurity.com/features/passphrase-generator/)
+        * [Encrypted Messaging App](https://www.keepersecurity.com/keeperchat.html)
     * [Glossary](https://www.keepersecurity.com/resources/glossary/ "Keeper IAM Glossary")
-    * [Cyber Threats Database](https://www.keepersecurity.com/threats/ "Cyber Threats Database")
-    * [Passkeys Directory](https://www.keepersecurity.com/passkeys-directory/ "Passkeys Directory")
+    * [Cyber Threats Database](https://www.keepersecurity.com/threats/)
+    * [Passkeys Directory](https://www.keepersecurity.com/passkeys-directory/)
     * Keeper Training
-        * [Keeper 101 Videos](https://www.keepersecurity.com/getting-started.html "Keeper 101 Videos")
-        * [Documentation](https://docs.keeper.io/home/ "Documentation")
-        * [End-User Guides](https://docs.keeper.io/user-guides/ "End-User Guides")
-        * [Enterprise Guide](https://docs.keeper.io/enterprise-guide/ "Enterprise Guide")
-        * [MSP Admin Guide](https://docs.keeper.io/enterprise-guide/keeper-msp "MSP Admin Guide")
+        * [Keeper 101 Videos](https://www.keepersecurity.com/getting-started.html)
+        * [Documentation](https://docs.keeper.io/home/)
+        * [End-User Guides](https://docs.keeper.io/user-guides/)
+        * [Enterprise Guide](https://docs.keeper.io/enterprise-guide/)
+        * [MSP Admin Guide](https://docs.keeper.io/enterprise-guide/keeper-msp)
     
     Every few seconds, a person or organization is victimized with ransomware.
     
     Keeper will protect you.
     
-    [Download Apps](https://www.keepersecurity.com/download.html "Download Apps")
+    [Download Apps](https://www.keepersecurity.com/download.html)
     
 * Partners
     
-    * [Partners Portal](https://partners.keeper.io/ "Partners Portal")
-    * [Register a Deal](https://www.keepersecurity.com/deal-registration.html "Register a Deal")
-    * [Become a Reseller](https://www.keepersecurity.com/partner-program.html "Become a Reseller")
-    * [Find a Reseller](https://www.keepersecurity.com/our-partners.html?s=channelPartners "Find a Reseller")
-    * [Keeper for MSPs](https://www.keepersecurity.com/business-partner.html?p=MSP%20Program&program=MSP%20Program "Keeper for MSPs")
-    * [Affiliate Partner Program](https://www.keepersecurity.com/partnerships.html "Affiliate Partner Program")
-    * [Our Partners](https://www.keepersecurity.com/our-partners.html?s=securityTechnologyProviders "Our Partners")
-    * [Integrations](https://www.keepersecurity.com/integrations.html "Integrations")
+    * [Partners Portal](https://partners.keeper.io/)
+    * [Register a Deal](https://www.keepersecurity.com/deal-registration.html)
+    * [Become a Reseller](https://www.keepersecurity.com/partner-program.html)
+    * [Find a Reseller](https://www.keepersecurity.com/our-partners.html?s=channelPartners)
+    * [Keeper for MSPs](https://www.keepersecurity.com/business-partner.html?p=MSP%20Program&program=MSP%20Program)
+    * [Affiliate Partner Program](https://www.keepersecurity.com/partnerships.html)
+    * [Our Partners](https://www.keepersecurity.com/our-partners.html?s=securityTechnologyProviders)
+    * [Integrations](https://www.keepersecurity.com/integrations.html)
     
 * Contact
     
-    * [Support](https://www.keepersecurity.com/support.html "Support")
-    * [Business Sales](https://www.keepersecurity.com/contact.html?t=b&r=sales "Business Sales")
-    * [Press Inquiries](https://www.keepersecurity.com/press.html?t=news "Press Inquiries")
+    * [Support](https://www.keepersecurity.com/support.html)
+    * [Business Sales](https://www.keepersecurity.com/contact.html?t=b&r=sales)
+    * [Press Inquiries](https://www.keepersecurity.com/press.html?t=news)
     * Call Us
     * Connect with Us
         * [LinkedIn](https://www.linkedin.com/company/keeper-security-inc-/)
@@ -94,18 +96,18 @@
         * [Reddit](https://www.reddit.com/r/KeeperSecurity/)
         * [Twitter](https://twitter.com/keepersecurity)
     
-* [Get a Quote](https://www.keepersecurity.com/request-quote.html "Get a Quote") Try It Free [Try It Free](https://www.keepersecurity.com/start-business-trial.html "Try It Free") [Try It Free](https://www.keepersecurity.com/get-keeper.html "Try It Free") [View Careers](https://apply.workable.com/keepersecurity/ "View Careers")
+* [Get a Quote](https://www.keepersecurity.com/request-quote.html) Try It Free [Try It Free](https://www.keepersecurity.com/start-business-trial.html) [Try It Free](https://www.keepersecurity.com/get-keeper.html) [View Careers](https://apply.workable.com/keepersecurity/)
 * Login
     
-    * [Web Vault](https://www.keepersecurity.com/vault "Web Vault")
-    * [Admin Console](https://www.keepersecurity.com/console "Admin Console")
+    * [Web Vault](https://www.keepersecurity.com/vault)
+    * [Admin Console](https://www.keepersecurity.com/console)
     
 
-* [Get a Quote](https://www.keepersecurity.com/request-quote.html "Get a Quote") Try It Free [Try It Free](https://www.keepersecurity.com/start-business-trial.html "Start Free Trial") [Try It Free](https://www.keepersecurity.com/get-keeper.html "Try It Free") [View Careers](https://apply.workable.com/keepersecurity/ "View Careers")
+* [Get a Quote](https://www.keepersecurity.com/request-quote.html) Try It Free [Try It Free](https://www.keepersecurity.com/start-business-trial.html) [Try It Free](https://www.keepersecurity.com/get-keeper.html) [View Careers](https://apply.workable.com/keepersecurity/)
 * Login
     
-    * [Web Vault](https://www.keepersecurity.com/vault "Web Vault")
-    * [Admin Console](https://www.keepersecurity.com/console "Admin Console")
+    * [Web Vault](https://www.keepersecurity.com/vault)
+    * [Admin Console](https://www.keepersecurity.com/console)
     
 
 Terms of Use
@@ -1057,6 +1059,7 @@ Solutions
 * [Enterprise Password Management](https://www.keepersecurity.com/enterprise.html "Enterprise Password Management")
 * [Business Password Management](https://www.keepersecurity.com/business.html "Business Password Management")
 * [Privileged Access Management](https://www.keepersecurity.com/privileged-access-management/ "Privileged Access Management")
+* [Remote Browser Isolation](https://www.keepersecurity.com/solutions/remote-browser-isolation/ "Remote Browser Isolation")
 * [Public Sector](https://www.keepersecurity.com/government-cloud/ "Public Sector")
 * [Managed Service Providers](https://www.keepersecurity.com/msp-password-manager.html "Managed Service Providers")
 * [Personal Password Manager](https://www.keepersecurity.com/personal.html "Personal Password Manager")
@@ -1097,6 +1100,7 @@ Free Tools
 Resources
 
 * [Download](https://www.keepersecurity.com/download.html "Download")
+* [Keeper Versus the Competition](https://www.keepersecurity.com/vs/competitors/ "Keeper Versus the Competition")
 * [Resource Library](https://www.keepersecurity.com/resources/ "Resource Library")
 * [Enterprise Guide](https://docs.keeper.io/enterprise-guide/ "Enterprise Guide")
 * [User Guides](https://docs.keeper.io/user-guides/ "User Guides")
@@ -1120,16 +1124,6 @@ Download
 * [Edge](https://www.keepersecurity.com/edge-password-manager.html "Edge")
 * [Opera](https://www.keepersecurity.com/opera-password-manager.html "Opera")
 * [Beta Program](https://www.keepersecurity.com/beta-password-manager.html?t=b "Beta Program")
-
-Keeper Versus
-
-* [LastPass](https://www.keepersecurity.com/vs/lastpass.html "Keeper vs LastPass")
-* [Dashlane](https://www.keepersecurity.com/vs/dashlane.html "Keeper vs Dashlane")
-* [1Password](https://www.keepersecurity.com/vs/1password.html "Keeper vs 1Password")
-* [KeePass](https://www.keepersecurity.com/vs/keepass.html "Keeper vs KeePass:")
-* [Bitwarden](https://www.keepersecurity.com/vs/bitwarden.html "Keeper vs Bitwarden")
-* [N-able Passportal](https://www.keepersecurity.com/vs/nable-passportal.html "Keeper vs PassPortal:")
-* [Teleport](https://www.keepersecurity.com/vs/teleport.html "Teleport")
 
 English (US)
 
@@ -1257,6 +1251,7 @@ Try It Free
     * [Privileged Access Manager](https://www.keepersecurity.com/privileged-access-management/)
     * [Secrets Manager](https://www.keepersecurity.com/secrets-manager.html)
     * [Connection Manager](https://www.keepersecurity.com/connection-manager.html)
+    * [Remote Browser Isolation](https://www.keepersecurity.com/solutions/remote-browser-isolation/)
 * Pricing
     * [Business and Enterprise](https://www.keepersecurity.com/pricing/business-and-enterprise.html)
     * [Personal and Family](https://www.keepersecurity.com/pricing/personal-and-family.html)
