@@ -133,7 +133,7 @@ Search
 
 Cart](https://black-blum.com/cart)
 
-![1% for the planet](//black-blum.com/cdn/shop/files/1percent_170x.png?v=1687989027)
+[![1% for the planet](//black-blum.com/cdn/shop/files/1percent_170x.png?v=1687989027)](https://black-blum.com/pages/sustainability)
 
 * UK | £
     
@@ -160,7 +160,7 @@ For UK: Trade Counter Distribution Ltd, c/o Black+Blum, Mendlesham Industrial
 
 For Europe: BLACK+BLUM s/p Brain E-Log, Boulevard de la Technicité 1A, 7110 Houdeng Goegnies, Belgique
 
-For USA: Black+Blum Returns, c/o Entermarket, 4420 Stout Field North, Indianapolis, IN 46241, USA
+For USA: Black+Blum Returns, c/o Entermarket,445 Airtech Pkwy, Plainfield, IN 46168
 
   
 SECTION 3 - REFUNDS  
