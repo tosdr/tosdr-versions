@@ -319,7 +319,7 @@
     
     * * *
     
-    * [Twilio MessagingX logo
+    * [Twilio Messaging logo
         
         **Messaging**](https://www.twilio.com/en-us/pricing/messaging)
         
@@ -670,7 +670,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
     
     * * *
     
-    * [Twilio MessagingX logo
+    * [Twilio Messaging logo
         
         **Messaging**](https://www.twilio.com/en-us/pricing/messaging)
         
@@ -909,6 +909,10 @@ While there is no such thing as perfect security, we are committed to maintainin
 [Handling disputes](https://www.twilio.com/legal/privacy/disputes "Handling disputes")
 
 In the unlikely event that we are unable to resolve a privacy concern quickly and thoroughly, we provide a path of dispute resolution.
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Twilio commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States, the European Union, the United Kingdom, and/or Switzerland. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://urldefense.com/v3/__https://www.jamsadr.com/DPF-Dispute-Resolution__;!!NCc8flgU!f1ztldEV_nvf-IceAuxAbF7zS2KUNURHASprB9EK8gHzSzaaBpafCzIt1KtnQbMiU6D3LxcZ9ZT020KjfdyD9o-C$) for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance that are not resolved by any of the other DPF mechanisms. You can find additional information in DPF [ANNEX-I-introduction](https://urldefense.com/v3/__https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction__;!!NCc8flgU!dDkOuYLS4xvQQZ_9JHqO9dP7eQXWgMdV2Pdi0Hzwz5ERdYA0F0H7Cd-NuxilDjOEfE5b9lm3GBLKfu9mClbi9-0N$).
 
 * * *
 
