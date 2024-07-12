@@ -23,11 +23,11 @@
     
     For homeowners
     
-    [Get solar](https://start.enphase.com/form-enph/?lsid=692) [Find an installer](https://enphase.com/installer-locator) [Find an EV charger](https://enphase.com/ev-chargers/find-an-ev-charger)
+    [Get solar](https://start.enphase.com/form-enph/?lsid=692) [Find an installer](https://enphase.com/installer-locator) [Find an EV charger](https://enphase.com/r/ev-chargers/find-an-ev-charger)
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -250,19 +250,6 @@ Your session expired. Please login again to continue to purchase.
     * [Design my system](https://estimator.enphase.com/)
     * [Find an installer](https://enphase.com/installer-locator)
     
-* IQ Battery 3T/10T
-    
-    * [Systems](https://enphase.com/installers/systems)
-    * [IQ Battery 3](https://enphase.com/store/storage/gen2/iq-battery-3)
-    * [IQ Battery 10](https://enphase.com/store/storage/gen2/iq-battery-10)
-    * [IQ Battery 3T](https://enphase.com/store/storage/gen2/iq-battery-3t)
-    * [IQ Battery 10T](https://enphase.com/store/storage/gen2/iq-battery-10t)
-    * [IQ System Controller 2](https://enphase.com/store/storage/gen2/iq-system-controller-2)
-    * [IQ System Controller](https://enphase.com/store/storage/gen2/iq-system-controller)
-    * [IQ Combiner 4/4C](https://enphase.com/store/communication/gen2/iq-gateway-and-combiner/iq-combiner-4-cell-modem)
-    * [IQ Load Controller](https://enphase.com/store/accessories/gen2/accessories-storage/iq-load-controller)
-    * [Generator Support](https://enphase.com/installers/storage/gen2/generator)
-    
 * Business owners
     
     * [EV chargers](https://enphase.com/ev-chargers/business)
@@ -290,7 +277,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage)
+    * [Storage](https://enphase.com/installers/storage/gen2)
     
 * Support
     
@@ -308,7 +295,7 @@ Your session expired. Please login again to continue to purchase.
     * [ESG](https://enphase.com/company/sustainability)
     * [Press releases](https://investor.enphase.com/news-releases)
     * [Patents](https://enphase.com/patents)
-    * [Leadership](https://enphase.com/leadership)
+    * [Leadership](https://enphase.com/leadership/)
     * [Investors](https://investor.enphase.com/)
     * [Careers](https://enphase.com/careers)
     * [Blog](https://enphase.com/blog)
