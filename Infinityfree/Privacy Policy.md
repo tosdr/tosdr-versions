@@ -174,6 +174,19 @@ About Us
 
 InfinityFree is an independent free hosting initiative, dedicated to providing reliable free hosting services.
 
+Support
+-------
+
+* [Knowledge Base](https://forum.infinityfree.com/docs)
+* [Support Forum](https://forum.infinityfree.com/)
+
+Our Partners
+------------
+
+* [iFastNet Premium Hosting](https://infinityfree.net/go/ifastnet)
+* [Site.Pro Website Builder](https://infinityfree.net/go/sitepro)
+* [Namesilo Domains](https://infinityfree.net/go/namesilo)
+
 Company
 -------
 
@@ -181,18 +194,6 @@ Company
 * [Terms of Service](https://infinityfree.net/terms/)
 * [Privacy Policy](https://infinityfree.net/privacy/)
 * [Responsible Disclosure](https://infinityfree.net/responsible-disclosure/)
-
-Support
--------
-
-* [Knowledge Base](https://forum.infinityfree.com/docs)
-* [Support Forum](https://forum.infinityfree.com/)
-
-InfinityFree
-------------
-
-* NL CoC Number: 82523878
-* EU VAT ID: NL003692975B57
 
 [Sign Up Now ![->](/images/arrow.png)](https://dash.infinityfree.com/register) 
 
