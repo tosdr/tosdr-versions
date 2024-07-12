@@ -1,6 +1,6 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[FREE BATTERY WITH SELECT EBIKE PURCHASE!](https://www.aventon.com/collections/sale)
+[ENDING JULY 31ST: $500 SAVINGS WITH SELECT EBIKES](https://www.aventon.com/collections/sale)
 
 — —
 
@@ -8,7 +8,7 @@ View All Offers 6
 
 SUPPORT
 
-[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty)
+[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty) [Order Cancelation](https://www.aventon.com/pages/terms-of-service#cancelations)
 
 Send us a message
 
@@ -120,7 +120,7 @@ YOUR OFFERS
         
         Commuter Ebike
         
-    * ![](//www.aventon.com/cdn/shop/files/pace-500-green-nav.jpg?v=1680658033&width=288)
+    * ![Pace 500.3 Step-Through Basalt SKUs: 1E038-0023709, 1E038-0024509](//www.aventon.com/cdn/shop/files/pace-basalt-01.jpg?v=1714067904&width=288)
         
         Pace 500
         
@@ -313,6 +313,9 @@ YOUR OFFERS
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
+    * [Liquid error (snippets/anatta-mobile-menu line 427): invalid url input
+        
+        \>](https://www.aventon.com/pages/terms-of-service#cancelations)
     
     Send us a message
     
@@ -433,7 +436,7 @@ Open menu
         Level
         
         Commuter Ebike](https://www.aventon.com/collections/ebikes?constraint=__level)
-    * [![](//www.aventon.com/cdn/shop/files/pace-500-green-nav.jpg?v=1680658033&width=288)
+    * [![Pace 500.3 Step-Through Basalt SKUs: 1E038-0023709, 1E038-0024509](//www.aventon.com/cdn/shop/files/pace-basalt-01.jpg?v=1714067904&width=288)
         
         Pace 500
         
@@ -564,6 +567,9 @@ Open menu
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
+    * [Liquid error (snippets/anatta-header-nav line 181): invalid url input
+        
+        \>](https://www.aventon.com/pages/terms-of-service#cancelations)
     
 * [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
