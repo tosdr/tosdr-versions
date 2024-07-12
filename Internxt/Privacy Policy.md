@@ -1,24 +1,10 @@
-⚽️ Score big savings on private cloud storage! Up to 75% OFF all plans!
+😎 Secure hot summer savings! 80% OFF all plans!
 
 [Choose plan](https://internxt.com/pricing)
 
-[⚽️ Score big savings on private cloud storage! Up to 75% OFF all plans!](https://internxt.com/pricing)
+[😎 Secure hot summer savings! 80% OFF all plans!](https://internxt.com/pricing)
 
-[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
-
-[Pricing](https://internxt.com/pricing)
-
-Products
-
-[Internxt Drive](https://internxt.com/drive)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
-
-Our Values
-
-[Privacy](https://internxt.com/privacy)[Open Source](https://internxt.com/open-source)
-
-[About Us](https://internxt.com/about)
-
-[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
+[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
 [Pricing](https://internxt.com/pricing)
 
@@ -266,7 +252,7 @@ Payment
 
 (b) Except where otherwise indicated via the Storage Services, we will charge all Fees to a payment method designated by you via the Storage Services that is acceptable to us. You represent and warrant that you are authorized to use the payment method you designate via the Storage Services and authorize us to charge all Fees to that method. If your payment method cannot be verified, is invalid, or is not otherwise acceptable, your right to use the Storage Services may be suspended automatically. Fees will be charged on a monthly basis based on the prior month’s usage. You can avoid incurring Fees at any time by discontinuing your use of the Storage Services to store your Storage Materials.
 
-(c) Users with a free account who do not log in to their account for a period of one year will be considered inactive. Users will receive an email notice 7 days prior to reaching inactive status. Once a free account reaches that status, its files will be removed from the network in order to free up space for those free users who are actively using their account.
+(c) Users who do not log in to their account for a period of one year will be considered inactive. Users will receive an email notice 7 days prior to reaching inactive status. Once an account reaches that status, its files will be removed from the network to free up space for those free users who are actively using their account.
 
 (d) Accounts on any of our premium plans who fail to renew their plan within a period of 7 days will be terminated.
 
@@ -803,7 +789,7 @@ Payment
 
 (b) Except where otherwise indicated via the Storage Services, we will charge all Fees to a payment method designated by you via the Storage Services that is acceptable to us. You represent and warrant that you are authorized to use the payment method you designate via the Storage Services and authorize us to charge all Fees to that method. If your payment method cannot be verified, is invalid, or is not otherwise acceptable, your right to use the Storage Services may be suspended automatically. Fees will be charged on a monthly basis based on the prior month’s usage. You can avoid incurring Fees at any time by discontinuing your use of the Storage Services to store your Storage Materials.
 
-(c) Users with a free account who do not log in to their account for a period of one year will be considered inactive. Users will receive an email notice 7 days prior to reaching inactive status. Once a free account reaches that status, its files will be removed from the network in order to free up space for those free users who are actively using their account.
+(c) Users who do not log in to their account for a period of one year will be considered inactive. Users will receive an email notice 7 days prior to reaching inactive status. Once an account reaches that status, its files will be removed from the network to free up space for those free users who are actively using their account.
 
 (d) Accounts on any of our premium plans who fail to renew their plan within a period of 7 days will be terminated.
 
@@ -1221,7 +1207,7 @@ New](https://internxt.com/vpn)[Pricing](https://internxt.com/pricing)
 
 ### Company
 
-[About Us](https://internxt.com/about)[Privacy](https://internxt.com/privacy)[Security](https://blog.internxt.com/how-internxt-protects-your-data/)[Open Source](https://internxt.com/open-source)[Legal](https://internxt.com/legal)[Media Area](https://internxt.com/media-area)[Use Cases](https://internxt.com/use-cases)
+[About Us](https://internxt.com/about)[Privacy](https://internxt.com/privacy)[Security](https://blog.internxt.com/how-internxt-protects-your-data/)[Open Source](https://internxt.com/open-source)[Legal](https://internxt.com/legal)[Media Area](https://internxt.com/media-area)
 
 ### Join Us
 
@@ -1229,7 +1215,7 @@ New](https://internxt.com/vpn)[Pricing](https://internxt.com/pricing)
 
 ### Resources
 
-[Blog](https://blog.internxt.com/)[Cloud Storage Comparison](https://internxt.com/cloud-storage-comparison)[pCloud Alternative](https://internxt.com/pcloud-alternative)[Directory of Privacy Organizations](https://internxt.com/privacy-directory)[Cyber Awareness](https://internxt.com/cyber-awareness)[What Google Knows](https://internxt.com/what-does-google-know-about-me)[Library](https://internxt.com/internxt-library)
+[Blog](https://blog.internxt.com/)[Cloud Storage Comparison](https://internxt.com/cloud-storage-comparison)[pCloud Alternative](https://internxt.com/pcloud-alternative)[Directory of Privacy Organizations](https://internxt.com/privacy-directory)[Cyber Awareness](https://internxt.com/cyber-awareness)[What Google Knows](https://internxt.com/what-does-google-know-about-me)
 
 ### Free Tools
 
@@ -1259,20 +1245,33 @@ Copyright © 2024, Internxt Universal Technologies SL
 
 [![Internxt logo](../../logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-![Internxt's spring sale](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcampaigns%2Feuro%2Fbanner.webp&w=384&q=75)
+![Internxt's summer discount](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fbanners%2Finternxt_summer_discount.webp&w=384&q=75)
 
-Save 75%
+Save 80%
 
-Kick off your privacy journey!
+Sun's out,  
+sale's on!
 
 Choose plan
 
-Get 75% OFF all our Premium Plans
+Hold on! Special 80% OFF deal!
+
+There's an exclusive offer waiting for you.
+
+80% OFF all plans
+
+30-day money-back guarantee
+
+![Internxt Drive](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Ffreeuser%2FInternxt_storage.webp&w=1080&q=75)
+
+Get 80% OFF all our Premium Plans
 ---------------------------------
 
 Special offer: store files in privacy for less
 
-Get the dealContinue with free plan
+Get the deal
+
+Continue with free plan
 
 30-day money-back guarantee
 
