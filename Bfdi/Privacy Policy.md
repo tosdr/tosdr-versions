@@ -72,7 +72,7 @@ Hauptmenü
     
     * [Ba­sis­wis­sen In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/Basiswissen/Basiswissen_node.html)
     * [Wis­sens­wer­tes zum IFG-An­trag](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IFG-Antrag/IFG-Antrag_node.html)
-    * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IF-Konferenzen/IF-Konferenzen_node.html)
+    * [In­for­ma­ti­ons­frei­heits­kon­fe­ren­zen](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IF-Konferenzen/IF-Konferenzen_node.html)
     
     [All­ge­mei­ne Ver­wal­tung](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Allgemeine-Verwaltung_node.html)
     -----------------------------------------------------------------------------------------------------------------------
@@ -265,7 +265,7 @@ Schließen
     * Informationsfreiheit
         * [Ba­sis­wis­sen In­for­ma­ti­ons­frei­heit](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/Basiswissen/Basiswissen_node.html)
         * [Wis­sens­wer­tes zum IFG-An­trag](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IFG-Antrag/IFG-Antrag_node.html)
-        * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IF-Konferenzen/IF-Konferenzen_node.html)
+        * [In­for­ma­ti­ons­frei­heits­kon­fe­ren­zen](https://www.bfdi.bund.de/DE/Buerger/Informationsfreiheit/IF-Konferenzen/IF-Konferenzen_node.html)
     * Allgemeine Verwaltung
         * [Fi­nan­zen und Steu­ern](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/FinanzenSteuern/FinanzenSteuern-node.html "Finanzen und Steuern")
         * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Meldewesen-Statistik/Meldewesen-Statistik_node.html)
