@@ -353,13 +353,13 @@ Search for:
 
 ### MOST RATED
 
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CN-SCN1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cn-scn1-icon.png) EITC/CN/SCN1 Computer networking 1](https://eitca.org/certification/eitccnscn1-computer-networking-1/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AI2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-ai2-icon.png) EITC/CG/AI2 Design and development of visual identity (Adobe Illustrator)](https://eitca.org/certification/eitccgai2-design-and-development-of-visual-identity-adobe-illustrator/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-ARL-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-arl-icon.png) EITC/AI/ARL Advanced Reinforcement Learning](https://eitca.org/certification/eitc-ai-arl-advanced-reinforcement-learning/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2022/01/EITC-IS-CCTF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2022/01/eitc-is-cctf-icon.png) EITC/IS/CCTF Computational Complexity Theory Fundamentals](https://eitca.org/certification/eitc-is-cctf-computational-complexity-theory-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-ECIM-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-ecim-icon.png) EITC/BI/ECIM eCommerce and Internet marketing fundamentals](https://eitca.org/certification/eitcbiecim-ecommerce-and-internet-marketing-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/eitca-el-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitca-el-icon.png) EITCA/EL E-Learning Didactics Technologies Academy](https://eitca.org/certification/eitcael-e-learning-didactics-technologies-academy/) € 1,100.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-CL-GCP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-cl-gcp-icon.png) EITC/CL/GCP Google Cloud Platform](https://eitca.org/certification/eitc-cl-gcp-google-cloud-platform/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-INT-IT1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-int-it1-icon.png) EITC/INT/IT1 Internet technologies 1](https://eitca.org/certification/eitcintit1-internet-technologies-1/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-MLP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-mlp-icon.png) EITC/AI/MLP Machine Learning with Python](https://eitca.org/certification/eitc-ai-mlp-machine-learning-with-python/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-FAIS1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-fais-icon.png) EITC/IS/FAIS Formal aspects of information security](https://eitca.org/certification/eitcisfais-formal-aspects-of-information-security/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-OOC-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-ooc-icon.png) EITC/BI/OOC Spreadsheets software fundamentals (OpenOffice)](https://eitca.org/certification/eitcbiooc-spreadsheets-software-fundamentals-openoffice/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-EG-IEEGP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-eg-ieegp-icon.png) EITC/EG/IEEGP Introduction to European e-Government programmes](https://eitca.org/certification/eitcegieegp-introduction-to-european-e-government-programmes/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-wff-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-wff-icon.png) EITC/WD/WFF Webflow Fundamentals](https://eitca.org/certification/eitc-wd-wff-webflow-fundamentals/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-GIMP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-gimp-icon.png) EITC/CG/GIMP Raster graphics processing software (GIMP)](https://eitca.org/certification/eitccggimp-raster-graphics-processing-software-gimp/) € 110.00
 
 ### What are you looking for?
 
