@@ -1,4 +1,4 @@
-   ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3ODciIGhlaWdodD0iNDQxIj48cmVjdCB3aWR0aD0iNzg3IiBoZWlnaHQ9IjQ0MSIgZmlsbC1vcGFjaXR5PSIwIiAvPjwvc3ZnPg==)
+   ![Adobe General Terms of Use](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3ODciIGhlaWdodD0iNDQxIj48cmVjdCB3aWR0aD0iNzg3IiBoZWlnaHQ9IjQ0MSIgZmlsbC1vcGFjaXR5PSIwIiAvPjwvc3ZnPg==)
 
 [Play button](#terms)
 
