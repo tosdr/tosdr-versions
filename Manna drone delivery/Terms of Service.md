@@ -1,30 +1,30 @@
-[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/6101367aa9c1cdffaba6125a_Manna_Inline_Contained.svg)![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61435d2da9813f83a57a721f_Manna_Inline_Contained_On_Dark.svg)](https://www.manna.aero/)
+[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/6101367aa9c1cdffaba6125a_Manna_Inline_Contained.svg)![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61435d2da9813f83a57a721f_Manna_Inline_Contained_On_Dark.svg)](https://www.manna.aero/)
 
 [Try it now](https://www.manna.aero/download)
 
 [Download](https://oranmore.manna.aero/homecoming#HowItWorks)[Contact](#)[News](#)[Menu](#)
 
-![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61376ac52400d3a91e2d84dc_Hamburger%20Menu.svg)
+![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61376ac52400d3a91e2d84dc_Hamburger%20Menu.svg)
 
 [Explore](https://www.manna.aero/)[Careers](https://www.manna.aero/careers)[Contact](https://www.manna.aero/contact-us)[Media](https://www.manna.aero/media)
 
-[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308e7e5a65ff3bc81c1b9a_YouTube.svg)](https://www.youtube.com/channel/UCXtQNa7UrM1-_o1MRurtpiQ)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308ebf2ac5e7afa580571a_LinkedIn.svg)](https://ie.linkedin.com/company/mannaaero)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308ea0bd32ebbd7285afb3_Instagram.svg)](https://www.instagram.com/manna.aero/)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308e93bea4c41bb0e8b507_Twitter.svg)](https://twitter.com/MannaAero)
+[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308e7e5a65ff3bc81c1b9a_YouTube.svg)](https://www.youtube.com/channel/UCXtQNa7UrM1-_o1MRurtpiQ)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308ebf2ac5e7afa580571a_LinkedIn.svg)](https://ie.linkedin.com/company/mannaaero)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308ea0bd32ebbd7285afb3_Instagram.svg)](https://www.instagram.com/manna.aero/)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308e93bea4c41bb0e8b507_Twitter.svg)](https://twitter.com/MannaAero)
 
 [Need help?  
 
 Contact Us
 
-![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/6124c7acc1e28846a4a47fa8_Forward%20Arrow.svg)](https://www.manna.aero/contact-us)[Got a question?  
+![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/6124c7acc1e28846a4a47fa8_Forward%20Arrow.svg)](https://www.manna.aero/contact-us)[Got a question?  
 
 Visit FAQ
 
-![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/6124c7acc1e28846a4a47fa8_Forward%20Arrow.svg)](https://www.manna.aero/faq)[](https://www.manna.aero/faq)
+![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/6124c7acc1e28846a4a47fa8_Forward%20Arrow.svg)](https://www.manna.aero/faq)[](https://www.manna.aero/faq)
 
 © 2024 Manna Drone Delivery. All rights reserved.
 
-[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308e7e5a65ff3bc81c1b9a_YouTube.svg)](https://www.youtube.com/channel/UCXtQNa7UrM1-_o1MRurtpiQ)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308ebf2ac5e7afa580571a_LinkedIn.svg)](https://ie.linkedin.com/company/mannaaero)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308ea0bd32ebbd7285afb3_Instagram.svg)](https://www.instagram.com/mannadronedelivery/)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308e93bea4c41bb0e8b507_Twitter.svg)](https://twitter.com/MannaAero)
+[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308e7e5a65ff3bc81c1b9a_YouTube.svg)](https://www.youtube.com/channel/UCXtQNa7UrM1-_o1MRurtpiQ)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308ebf2ac5e7afa580571a_LinkedIn.svg)](https://ie.linkedin.com/company/mannaaero)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308ea0bd32ebbd7285afb3_Instagram.svg)](https://www.instagram.com/mannadronedelivery/)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308e93bea4c41bb0e8b507_Twitter.svg)](https://twitter.com/MannaAero)
 
-[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/610bed456b2b3a931defb700_Manna-Inline%201.svg)](#)
+[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/610bed456b2b3a931defb700_Manna-Inline%201.svg)](#)
 
 Terms
 =====
@@ -511,7 +511,7 @@ Please send your feedback, comments, requests for technical support by email: [t
 
 ‍
 
-![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/612f9dd5ba768448fcd7103e_MANNA_LOGO.png)
+![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/612f9dd5ba768448fcd7103e_MANNA_LOGO.png)
 
 Try drone delivery
 
@@ -542,7 +542,7 @@ Resources
 
 © 2024 Manna Drone Delivery. All rights reserved.
 
-[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61308e4fbf97092813630f68_YouTube.svg)](https://www.youtube.com/channel/UCXtQNa7UrM1-_o1MRurtpiQ)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61309240abcb602f7b8db75f_LinkedIn.svg)](https://ie.linkedin.com/company/mannaaero)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61309253fd939b5a18eb0908_Instagram.svg)](https://www.instagram.com/mannadronedelivery/)[![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/61309261ee11e74867223392_Twitter.svg)](https://twitter.com/MannaAero)
+[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61308e4fbf97092813630f68_YouTube.svg)](https://www.youtube.com/channel/UCXtQNa7UrM1-_o1MRurtpiQ)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61309240abcb602f7b8db75f_LinkedIn.svg)](https://ie.linkedin.com/company/mannaaero)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61309253fd939b5a18eb0908_Instagram.svg)](https://www.instagram.com/mannadronedelivery/)[![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/61309261ee11e74867223392_Twitter.svg)](https://twitter.com/MannaAero)
 
 We use cookies to help personalise content, tailor and measure ads, and provide a better experience. By clicking OK or turning an option on in Cookie Settings, you agree to this, as outlined in our [Privacy Policy.](https://www.manna.aero/privacy) To change preferences or withdraw consent, please update your Cookie Settings.[](https://www.manna.aero/privacy)
 
@@ -550,7 +550,7 @@ We use cookies to help personalise content, tailor and measure ads, and provide 
 
 Cookies[](https://www.manna.aero/privacy)
 
-![](https://assets-global.website-files.com/61011ab5480baf6a01caeee8/620e831e3d3e6cf0e49113aa_Settings.svg)
+![](https://cdn.prod.website-files.com/61011ab5480baf6a01caeee8/620e831e3d3e6cf0e49113aa_Settings.svg)
 
 Cookie Settings
 
