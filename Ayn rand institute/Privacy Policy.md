@@ -305,6 +305,4 @@ STAY IN TOUCH
 
 Copyright © 1985 – 2024 The Ayn Rand Institute (ARI). Reproduction of content and images in whole or in part is prohibited. All rights reserved. ARI is a 501(c)(3) nonprofit organization. Contributions to ARI in the United States are tax-exempt to the extent provided by law. Objectivist Conferences (OCON), Ayn Rand Conference (ARC), Ayn Rand University (ARU) and the Ayn Rand Institute eStore are operated by ARI. Payments to OCON, ARC, ARU or the Ayn Rand Institute eStore do not qualify as tax-deductible contributions to the Ayn Rand Institute. AYN RAND, AYN RAND INSTITUTE, ARI, AYN RAND UNIVERSITY and the AYN RAND device are trademarks of the Ayn Rand Institute. All rights reserved.
 
-![](https://www.facebook.com/tr?id=166841928455126&ev=PageView&noscript=1&eid=1668419284551267050fa0e-5876-476d-b4b6-234a72f489f4&cd%5Bpage_title%5D=AYN+RAND+INSTITUTE+PRIVACY+POLICY&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=aynrand.org%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
-
-[Go to mobile version](https://aynrand.org/privacy-policy/?amp=1)
+![](https://www.facebook.com/tr?id=166841928455126&ev=PageView&noscript=1&eid=166841928455126d0c48fc4-38fa-4e30-9e84-a1ec1a9a446d&cd%5Bpage_title%5D=AYN+RAND+INSTITUTE+PRIVACY+POLICY&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=aynrand.org%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
