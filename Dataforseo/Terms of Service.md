@@ -1,4 +1,12 @@
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -66,6 +74,7 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -92,7 +101,15 @@
 * [Try for free](https://app.dataforseo.com/register)
 * [Login](https://app.dataforseo.com/signin)
 
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -160,6 +177,7 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -188,7 +206,9 @@
 
 [](javascript:void(0))
 
-[![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
+[![mobile-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
 * #### Products
     
@@ -255,6 +275,7 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
