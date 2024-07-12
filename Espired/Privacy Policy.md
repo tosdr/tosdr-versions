@@ -5,6 +5,7 @@
 * [Homeschool Curriculum](https://www.homeschoolbuyersco-op.org/)
 * [Kids News](https://espired.com/kids-news/)
 * [Ventures](https://espired.com/ventures/)
+* [Curriculum Development](https://espired.com/curriculum-development/)
 * [Our Mission](https://espired.com/our-mission/)
 * [About Us](https://espired.com/about-us/)
 * [Log In](https://members.espired.com/)
