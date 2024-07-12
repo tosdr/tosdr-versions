@@ -60,6 +60,6 @@ The iMenuPro service is not intended for use by minors under the age of 13. We d
 
 Please don't hesitate to contact us at our [company contact page](https://imenupro.com/company.htm) if you have questions or concerns.
 
-![](https://cdn.imenupro.com/img/softcafe-logo.svg)Designed by SoftCafe in Maryland. All rights reserved. © 2022 SoftCafe, LLC.  [Company](https://imenupro.com/company) [Support](https://helpdocs.imenupro.com/) [Terms](https://imenupro.com/terms) [Privacy](https://imenupro.com/privacy)
+![](https://cdn.imenupro.com/img/softcafe-logo.svg)Designed by SoftCafe in Maryland. All rights reserved. © 2024 SoftCafe, LLC.  [Company](https://imenupro.com/company) [Support](https://helpdocs.imenupro.com/) [Terms](https://imenupro.com/terms) [Privacy](https://imenupro.com/privacy)
 
 "These go to 11." – Nigel Tufnel
