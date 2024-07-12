@@ -90,9 +90,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/014-hmip-mood-24-people-menue_0.jpg.webp?itok=QsCSb_57)](https://homematic-ip.com/de/energiemanagement)
             
             [Energiemanagement](https://homematic-ip.com/de/energiemanagement)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/015_HmIP_Mood_People_0.jpg.webp?itok=G77QYYfN)](https://homematic-ip.com/de/produkt/app)
-            
-            [App nutzen](https://homematic-ip.com/de/produkt/app)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/paar-feedback-geben.jpg.webp?itok=-dNchbUQ)](https://homematic-ip.com/de/feedback-geben)
             
             [Feedback geben](https://homematic-ip.com/de/feedback-geben)
@@ -121,9 +118,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmipw-drap-1-1.png.webp?itok=oU8IOTyX)](https://homematic-ip.com/de/produkt/wired-access-point)
             
             [Wired Access Point](https://homematic-ip.com/de/produkt/wired-access-point)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_0.png.webp?itok=-_mbySOH)](https://homematic-ip.com/de/produkt/app)
-            
-            [App](https://homematic-ip.com/de/produkt/app)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/weitere-produkte_1.png.webp?itok=B7_x94sM)](https://homematic-ip.com/de/produkte)
             
             [weitere Produke](https://homematic-ip.com/de/produkte)
@@ -143,9 +137,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-sk13-1-1.png.webp?itok=OVrk2AHd)](https://homematic-ip.com/de/produkt/starter-set-heizen-wlan)
             
             [Starter-Set Heizen - WLAN](https://homematic-ip.com/de/produkt/starter-set-heizen-wlan)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_0.png.webp?itok=-_mbySOH)](https://homematic-ip.com/de/produkt/app)
-            
-            [App](https://homematic-ip.com/de/produkt/app)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/weitere-produkte_1.png.webp?itok=B7_x94sM)](https://homematic-ip.com/de/produkte-heizung-und-raumklima?f%5B0%5D=category%3A66)
             
             [weitere Produkte](https://homematic-ip.com/de/produkte-heizung-und-raumklima?f%5B0%5D=category%3A66)
@@ -168,9 +159,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmipw-drd3-1-1.png.webp?itok=Wp_JEwXi)](https://homematic-ip.com/de/produkt/wired-dimmaktor-3-fach/technische-daten)
             
             [Wired Dimmaktor](https://homematic-ip.com/de/produkt/wired-dimmaktor-3-fach/technische-daten)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_0.png.webp?itok=-_mbySOH)](https://homematic-ip.com/de/produkt/app)
-            
-            [App](https://homematic-ip.com/de/produkt/app)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/weitere-produkte_1.png.webp?itok=B7_x94sM)](https://homematic-ip.com/de/produkte-licht?f%5B0%5D=category%3A69)
             
             [weitere Produkte](https://homematic-ip.com/de/produkte-licht?f%5B0%5D=category%3A69)
@@ -193,9 +181,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmipw-drbl4-1-1.png.webp?itok=dAQ5qVAb)](https://homematic-ip.com/de/produkt/wired-jalousieaktor-4-fach)
             
             [Wired Jalousieaktor](https://homematic-ip.com/de/produkt/wired-jalousieaktor-4-fach)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_0.png.webp?itok=-_mbySOH)](https://homematic-ip.com/de/produkt/app)
-            
-            [App](https://homematic-ip.com/de/produkt/app)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/weitere-produkte_1.png.webp?itok=B7_x94sM)](https://homematic-ip.com/de/produkte-beschattung?f%5B0%5D=category%3A72)
             
             [weitere Produkte](https://homematic-ip.com/de/produkte-beschattung?f%5B0%5D=category%3A72)
@@ -218,9 +203,6 @@ Menü
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-swd-1-1.png.webp?itok=23IH551k)](https://homematic-ip.com/de/produkt/wassersensor)
             
             [Wassersensor](https://homematic-ip.com/de/produkt/wassersensor)
-        *  [![](/sites/default/files/styles/product_view_teaser/public/images/hmip-app-1-1_0.png.webp?itok=-_mbySOH)](https://homematic-ip.com/de/produkt/app)
-            
-            [App](https://homematic-ip.com/de/produkt/app)
         *  [![](/sites/default/files/styles/product_view_teaser/public/images/weitere-produkte_1.png.webp?itok=B7_x94sM)](https://homematic-ip.com/de/produkte-sicherheit-und-alarm?f%5B0%5D=category%3A75)
             
             [weitere Produkte](https://homematic-ip.com/de/produkte-sicherheit-und-alarm?f%5B0%5D=category%3A75)
@@ -316,25 +298,25 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
- [![Außenansicht des Kinderhauses Hentruper Mühle](/sites/default/files/styles/thumbnail/public/images/kinderhaus-hentruper-muehle-aussenansicht-10.jpg.webp?itok=5UqWSGif)
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_update-news_0.jpg.webp?itok=2hGymB9J)
 
 News
 
-Das Kinderhaus Hentruper Mühle spart 42 % Heizenergie](https://homematic-ip.com/de/news/das-kinderhaus-hentruper-muehle-spart-42-heizenergie)
+Neue Homematic IP App veröffentlicht](https://homematic-ip.com/de/news/neue-homematic-ip-app-veroeffentlicht)
 
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_update-news.jpg.webp?itok=JHs0tuvp)
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten-press_news_anthrazitlaunch.jpg.webp?itok=sZlb7oyy)
 
 News
 
-Update für die offene Beta der neuen Homematic IP App](https://homematic-ip.com/de/news/update-fuer-offene-beta)
+Homematic IP erweitert Produktsortiment in elegantem Anthrazit](https://homematic-ip.com/de/news/homematic-ip-erweitert-produktsortiment-elegantem-anthrazit)
 
-[Jun.
+[Jul.
 
-20-22
+11-13
 
 Event
 
-BAUHAUS Leipzig: Faszination Smart-Home live erleben - im Homematic IP Roadshow-Truck.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-06-20-bauhaus-leipzig)
+BAUHAUS Lübeck: Faszination Smart-Home live erleben - im Homematic IP Roadshow-Truck.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-07-11-bauhaus-luebeck)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/eula)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/eula)
