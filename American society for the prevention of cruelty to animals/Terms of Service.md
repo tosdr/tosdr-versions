@@ -327,3 +327,16 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
+    
+
+ ![Tiny kitten](https://www.aspca.org/sites/default/files/modal-mobile/votelightboxmobile.jpg)
+
+**Help Us Name One of Our Adorable Kittens!**
+
+[![Kitten names](https://www.aspca.org/sites/default/files/kitten-pet-name-tags.png)](https://secure.aspca.org/take-action/2024-kitten-name-vote?ms=wb_con_lightbox-2024-kitten-name-vote-20240630&initialms=wb_con_lightbox-2024-kitten-name-vote-20240630)
+
+**Help Us Name One of Our Adorable Kittens!**
+
+[![Kitten names](https://www.aspca.org/sites/default/files/kitten-pet-name-tags.png)](https://secure.aspca.org/take-action/2024-kitten-name-vote?ms=wb_con_lightbox-2024-kitten-name-vote-20240630&initialms=wb_con_lightbox-2024-kitten-name-vote-20240630)
+
+[CAST YOUR VOTE](http://aspca.org/kittenvote)
