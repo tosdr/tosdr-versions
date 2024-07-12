@@ -99,15 +99,3 @@ Your Internet Explorer is outdated. For optimal security settings and a better e
 [Download Safari](https://support.apple.com/downloads/#safari)
 
 Ok! I'm aware that I'm using an older browser.
-
-RESEARCH
-
-* [Welcome](https://www.crohnscolitisfoundation.org/research/plexus)
-* About IBD Plexus
-    * [What is IBD Plexus?](https://www.crohnscolitisfoundation.org/research/plexus/what-is-ibd-plexus)
-    * [Leadership](https://www.crohnscolitisfoundation.org/research/plexus/leadership)
-* [Working with IBD Plexus](https://www.crohnscolitisfoundation.org/research/plexus/working-with-ibd-plexus)
-* [Publications](https://www.crohnscolitisfoundation.org/research/plexus/publications)
-* [Contact Us](https://www.crohnscolitisfoundation.org/research/plexus/contact-us)
-
-[Request a Consult](https://www.crohnscolitisfoundation.org/request-a-consult)
