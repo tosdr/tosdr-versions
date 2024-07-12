@@ -62,27 +62,28 @@ Open/close search
 Use of cookies and similar technologies
 =======================================
 
-Updated Feb 12, 2024
+Updated Jul 09, 2024
 
 person icon
 
-The information in this article applies to all Dropbox users.
+The information in this article applies to all Dropbox , Dropbox Sign, DocSend, and FormSwift websites.
 
-Dropbox uses cookies and similar technologies, such as pixels, to provide, improve, protect, and promote our services. For the purposes of this policy we will refer to all of these technologies as “cookies.” This page includes information on the what, who, and how of these technologies in connection with the Dropbox website and services.
+Dropbox uses cookies and similar technologies to provide, improve, protect, and promote our services.   
+ 
 
-**[Looking for information on DocSend cookies? Click here.](https://www.docsend.com/cookie-policy/)**
+A cookie is a small data file sent to your browser when you visit a website. We use our own cookies as well as third-party cookies. See the “How does Dropbox use cookies?” section below for information on third-party cookies we use.  
+ 
 
-What are cookies?
------------------
+In addition to cookies, we use similar technologies, such as pixel tags ("pixels"), which are small pieces of code belonging to a third party that can be embedded on websites and emails. Another example of a similar technology is local storage, which allows us to store information locally on your browser or device to improve your experience, such as remembering your settings for whether you prefer to view your folders in a list or as thumbnails.
 
-A cookie is small data file sent to your browser when you visit a website. A pixel tag ("pixel") is a small piece of code belonging to a third-party that can be embedded on websites and in emails. We use both our own cookies as well as third-party cookies. See the “How does Dropbox use cookies” section below for further information on third-party cookies we use.
+warning icon
 
-We also use local storage, including HTML5 local storage and browser cache. Local storage allows us to store information locally on your browser or device to improve your experience, such as to remember your settings for whether you prefer to view your folders in a list or as thumbnails. 
+**Important:** For the purposes of this article, we’ll refer to all of these technologies as “cookies.”
 
 How does Dropbox use cookies?
 -----------------------------
 
-Dropbox uses different categories of cookies to provide, protect, improve, and promote our website and services. Dropbox only retains personal data for as long as is needed for the purposes for which it was collected. Information on these categories and their purposes are described below.
+Dropbox uses different categories of cookies to provide, protect, improve, and promote our website and services. Dropbox only retains personal data for as long as necessary for the purposes for which it was collected. Information on these categories and their purposes is described below.
 
 Strictly necessary cookies
 --------------------------
@@ -92,7 +93,7 @@ These are cookies that are essential in order to operate the website and service
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Category** | **Purpose** | **Data elements** | **Expiration** | **Third parties** |
-| Strictly necessary | Cookies that are used to operate the website and services, such as to log you in and keep your account secure. | Categories of data collected for these purposes include authentication data, unique ID, browser information, and language settings. | These cookies are set to expire after times ranging from 30 days to 5 years. | Third party providers used include Google. |
+| Strictly necessary | Cookies that are used to operate the website and services, such as to log you in and keep your account secure. | Categories of data collected for these purposes include authentication data, unique ID, browser information, and language settings. | These cookies are set to expire after times ranging from 30 days to 5 years. | Third-party providers used include Google. |
 
 Non-essential cookies  
 
@@ -103,34 +104,31 @@ These are all other cookies that are not considered strictly necessary but are u
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Category** | **Purpose** | **Data elements** | **Expiration** | **Third parties** |
-| Analytics | Cookies that help us and our partners understand how our websites are engaged with, such as usage statistics or to reconstruct viewed UI elements, in order to improve and customize our services. | Categories of data collected for these purposes include website usage data, number of visits, browser and/or device information, and unique ID. | These cookies are set to expire after times ranging from session (~20 minutes) to 2 years. | Third party providers used include Google, Salesforce, Coveo, and Tealium. |
-| General marketing and advertising | Cookies that are used by Dropbox and our partners to better understand the types of individuals who are interested in our products and services and how we can promote those services based on that information. | Categories of data collected for these purposes include cross website tracking data, browser information, version data, and advertisement conversion data. | These cookies are set to expire after times ranging from session (~20 minutes) to 2 years. | Third party providers used include Adobe, Marketo, Yahoo, and Google. |
-| Performance and functionality | Cookies which help us remember your preferences and settings in order to improve your experience when interacting with our sites and services. | Categories of data collected for these purposes include website usage data, previous help center or chat history, email address, and unique ID. | These cookies are set to expire after times ranging from session (~20 minutes) to 3 years. | Third party providers used include SnapEngage. |
-| Social media advertising | Cookies that are used by Dropbox and our partners to understand the effectiveness of our advertisements on social media services. These cookies also help them understand your advertising preferences so they can more effectively show you our advertisements which are relevant to your interests. | Categories of data collected for these purposes include social media account details, browser and/or device data, advertisement conversion data, website usage and/or activity data, and unique ID. | These cookies are set to expire after times ranging from session (~20 minutes) to 2 years. | Third party providers used include Facebook, X (formerly Twitter), and LinkedIn. |
+| Analytics | Cookies that help us and our partners understand how our websites are engaged with, such as usage statistics or to reconstruct viewed UI elements, in order to improve and customize our services. | Categories of data collected for these purposes include website usage data, number of visits, browser and/or device information, and unique ID. | These cookies are set to expire after times ranging from session (~20 minutes) to 2 years. | Third-party providers used include Google, Salesforce, Coveo, and Tealium. |
+| General marketing and advertising | Cookies that are used by Dropbox and our partners to better understand the types of individuals who are interested in our products and services and how we can promote those services based on that information. | Categories of data collected for these purposes include cross-website tracking data, browser information, version data, and advertisement conversion data. | These cookies are set to expire after times ranging from session (~20 minutes) to 2 years. | Third-party providers used include Adobe, Marketo, and Google. |
+| Performance and functionality | Cookies which help us remember your preferences and settings in order to improve your experience when interacting with our sites and services. | Categories of data collected for these purposes include website usage data, previous help center or chat history, email address, and unique ID. | These cookies are set to expire after times ranging from session (~20 minutes) to 3 years. | Third-party providers used include SnapEngage. |
+| Social media advertising | Cookies that are used by Dropbox and our partners to understand the effectiveness of our advertisements on social media services. These cookies also help them understand your advertising preferences so they can more effectively show you our advertisements which are relevant to your interests. | Categories of data collected for these purposes include social media account details, browser and/or device data, advertisement conversion data, website usage and/or activity data, and unique ID. | These cookies are set to expire after times ranging from session (~20 minutes) to 2 years. | Third-party providers used include Facebook, X (formerly Twitter), and LinkedIn. |
 
 How can I control the data collected through cookies?  
 
 --------------------------------------------------------
 
-**Browser settings:**
+**Browser settings**
 
-You can set your browser to not accept cookies, but this may limit your ability to use our services. Due to a lack of an agreed upon standard for interpreting Do Not Track (DNT) signals, our systems currently don’t respond to DNT:1 signals from browsers visiting our websites.
+Dropbox websites and services recognize and respect some browser-enabled opt-out signals, such as the Global Privacy Control. Additionally there are other ways to set your browser to not accept cookies, but this may limit your ability to use our services. Due to a lack of an agreed upon standard for interpreting Do Not Track (DNT) signals, our systems currently don’t respond to DNT:1 signals from browsers visiting our websites.  
+**  
+  
+Cookie preferences**  
 
-**Cookie preferences:**
+When you use our services, you can select which cookies you consent to by clicking the **Cookies & CCPA Preferences** link. This link can be found in the footer of this page under **Support**, as well as throughout our websites and services.  
+**  
+  
+California Consumer Privacy Act (CCPA)**  
 
-When you use Dropbox’s services, you can select which cookies you consent for Dropbox to use in by clicking **Cookies & CCPA Preferences** in the footer of this page under **Support**.
-
-**California Consumer Privacy Act (CCPA):**
-
-You can opt out of the selling or sharing of personal information by Dropbox or update your preferences, as described in the California Consumer Privacy Act, by clicking **Cookies & CCPA Preferences** in the footer of this page under **Support**. As described in our [Privacy Policy](https://www.dropbox.com/privacy), Dropbox does not sell personal information.
-
-**Self-Regulatory:**
-
-Dropbox adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising ("Principles"). You can opt out of collection of information by third-parties that adhere to the Principles, and that we use to help us promote our services, by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices/).
-
-Dropbox also adheres to the European Interactive Digital Advertising Alliance’s self-regulatory program for data-driven advertising. You can opt out of collection of information used for online behavior advertising by third-parties that adhere to the program by visiting [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).
-
-For more information on how to control and access your personal data, please see our [privacy policy FAQ](https://help.dropbox.com/accounts-billing/security/privacy-policy-faq?fallback=true). If you’d like to reach out to Dropbox regarding the use of data collected from cookies, contact our Data Protection Officer at [privacy@dropbox.com](mailto:privacy@dropbox.com).
+In accordance with the California Consumer Privacy Act, you can opt out of the selling or sharing of personal information and update your preferences by clicking the **Cookies & CCPA Preferences** link mentioned above. As described in the Dropbox [Privacy Policy](https://www.dropbox.com/privacy), the Dropbox Sign [Privacy Policy](https://www.dropboxsign.com/about/privacy), the DocSend [Privacy Policy](https://www.docsend.com/privacy-policy/), and the FormSwift [Privacy Policy](https://formswift.com/privacy), we don’t sell personal information.  
+  
+  
+For more information on how to control and access your personal data, please see the privacy policies linked above. If you’d like more information regarding the use of data collected from cookies, contact our Data Protection Officer at [privacy@dropbox.com](mailto:privacy@dropbox.com).
 
 Was this article helpful?
 
