@@ -21,7 +21,6 @@ Fedora Project
 
 * [ARM Single Board Computers](https://docs.fedoraproject.org/en-US/arm-sbc/)
 * [Ask Fedora SOPs](https://docs.fedoraproject.org/en-US/ask-fedora-sops/)
-* [CommOps](https://docs.fedoraproject.org/en-US/commops/)
 * [Community Architecture (CommArch)](https://docs.fedoraproject.org/en-US/community/)
 * [Community Platform Engineering](https://docs.fedoraproject.org/en-US/cpe/)
 * [Defensive Coding Guide](https://docs.fedoraproject.org/en-US/defensive-coding/)
@@ -33,6 +32,7 @@ Fedora Project
 * [Fedora Asahi Remix](https://docs.fedoraproject.org/en-US/fedora-asahi-remix/)
 * [Fedora Badges](https://docs.fedoraproject.org/en-US/badges/)
 * [Fedora CI](https://docs.fedoraproject.org/en-US/ci/)
+* [Fedora Community Ops](https://docs.fedoraproject.org/en-US/commops/)
 * [Fedora Container Docs](https://docs.fedoraproject.org/en-US/containers/)
 * [Fedora CoreOS](https://docs.fedoraproject.org/en-US/fedora-coreos/)
 * [Fedora Council](https://docs.fedoraproject.org/en-US/council/)
@@ -267,7 +267,7 @@ All Fedora Documentation content available under [CC BY-SA 4.0](http://creativec
 * [Code of Conduct](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
 * [Sponsors](https://getfedora.org/en/sponsors/)
 
-Last build: 2024-06-21 21:50:07 UTC | Last content update: 2023-04-03
+Last build: 2024-07-12 10:50:08 UTC | Last content update: 2023-04-03
 
 ![Sponsored by Red Hat Logo](../../_/img/logo-sponsored-by-red-hat.png)
 
