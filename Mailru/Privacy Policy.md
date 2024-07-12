@@ -1,11 +1,3 @@
-[Mail.ru](https://trk.mail.ru/c/i02y74?mt_sub1=help)[Почта](https://trk.mail.ru/c/cptmm9?mt_sub1=help)[Мой Мир](https://trk.mail.ru/c/psc3a5?mt_sub1=help)[Одноклассники](https://trk.mail.ru/c/jr23b4?mt_sub1=help)[ВКонтакте](https://trk.mail.ru/c/gqhkg6?mt_sub1=mail.ru&mt_campaign=newpromomail&mt_sub2=navinew)[Игры](https://trk.mail.ru/c/fvhzw7?mt_sub1=help)[Знакомства](https://trk.mail.ru/c/t6ks72?mt_sub1=help)[Новости](https://trk.mail.ru/c/bwzm48?mt_sub1=help)[Календарь](https://trk.mail.ru/c/yr65t1?mt_sub1=help)[Облако](https://trk.mail.ru/c/bgt8c3?mt_sub1=help)[Заметки](https://trk.mail.ru/c/jrfnb3?mt_sub1=help)[Все проекты](https://trk.mail.ru/c/uym884?mt_sub1=help)[_Все проекты_](#)
-
-|     |     |
-| --- | --- |
-|     | [выход](https://r.mail.ru/cls1074201/auth.mail.ru/cgi-bin/logout?next=1&lang=ru_RU&page= "выход") |
-
-[Регистрация](https://r.mail.ru/clb1126011/account.mail.ru/signup?from=navi&lang=ru_RU&siteid=119)[Вход](https://r.mail.ru/cls951827/e.mail.ru/login?lang=ru_RU&page=)
-
 _s_
 
 _s_
@@ -95,35 +87,6 @@ _s_
     * [Postmaster](https://help.mail.ru/legal/terms/postmaster)
         * [Условия использования](https://help.mail.ru/legal/terms/postmaster/policy)
         * [Terms of Postmaster Use](https://help.mail.ru/legal/terms/postmaster/policy/eng)
-    * [ICQ New](https://help.mail.ru/legal/terms/icq)
-        * [Русский](https://help.mail.ru/legal/terms/icq/ru)
-            * [Лицензионное соглашение конечного пользователя «ICQ New»](https://help.mail.ru/legal/terms/icq/ru/LA)
-            * [Политика конфиденциальности ICQ New](https://help.mail.ru/legal/terms/icq/ru/privacy)
-            * [Уведомление об использовании](https://help.mail.ru/legal/terms/icq/ru/acknotice)
-            * [Уведомление о нарушении авторских прав](https://help.mail.ru/legal/terms/icq/ru/copyright)
-            * [Соглашение о присоединении к сети разработчиков «ICQ New»](https://help.mail.ru/legal/terms/icq/ru/developersagreement)
-            * [Условия обслуживания ICQ New Video](https://help.mail.ru/legal/terms/icq/ru/videoterms)
-            * [Условия использования IrCQ-Net (Сервис ICQ New IRC)](https://help.mail.ru/legal/terms/icq/ru/ircterms)
-            * [Политика использования cookie-файлов «ICQ New»](https://help.mail.ru/legal/terms/icq/ru/cookiepolicy)
-            * [Инструкция по использованию ICQ New](https://help.mail.ru/legal/terms/icq/ru/instruction)
-        * [English](https://help.mail.ru/legal/terms/icq/eng)
-            * [ICQ New End User License Agreement](https://help.mail.ru/legal/terms/icq/eng/LA)
-            * [ICQ New Privacy Policy](https://help.mail.ru/legal/terms/icq/eng/privacy)
-            * [Notice of Acknowledgment](https://help.mail.ru/legal/terms/icq/eng/acknotice)
-            * [Copyright Complaints Notice](https://help.mail.ru/legal/terms/icq/eng/copyright)
-            * [Developer Network Agreement](https://help.mail.ru/legal/terms/icq/eng/developersagreement)
-            * [ICQ New Video Terms of service](https://help.mail.ru/legal/terms/icq/eng/videoterms)
-            * [IrCQ-Net (ICQ IRC Service) Terms of Use](https://help.mail.ru/legal/terms/icq/eng/ircterms)
-            * ["ICQ New" cookie policy](https://help.mail.ru/legal/terms/icq/eng/cookiepolicy)
-        * [EU](https://help.mail.ru/legal/terms/icq/eu)
-            * [ICQ New End User License Agreement EU](https://help.mail.ru/legal/terms/icq/eu/LA)
-            * [ICQ New Privacy Policy EU](https://help.mail.ru/legal/terms/icq/eu/privacy)
-            * [Notice of Acknowledgment EU](https://help.mail.ru/legal/terms/icq/eu/acknotice)
-            * [Copyright Complaints Notice EU](https://help.mail.ru/legal/terms/icq/eu/copyright)
-            * [Developer Network Agreement EU](https://help.mail.ru/legal/terms/icq/eu/developersagreement)
-            * ["ICQ New" Video Terms of service](https://help.mail.ru/legal/terms/icq/eu/videoterms)
-            * [IrCQ-Net (ICQ New IRC Service) Terms of Use EU](https://help.mail.ru/legal/terms/icq/eu/ircterms)
-            * ["ICQ New" cookie policy EU](https://help.mail.ru/legal/terms/icq/eu/cookiepolicy)
     * [ТамТам](https://help.mail.ru/legal/terms/tamtam)
         * [Русский](https://help.mail.ru/legal/terms/tamtam/ru)
             * [Лицензионное соглашение для конечного пользователя мессенджера «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/LA)
@@ -401,7 +364,7 @@ _Редакция от 10.10.2023 г._
 
 |     |     |
 | --- | --- |
-| [Mail.ru](https://r.mail.ru/n154506914?sz=36&rnd=285750740)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=285750740)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=285750740)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=285750740) |     |
+| [Mail.ru](https://r.mail.ru/n154506914?sz=36&rnd=945369364)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=945369364)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=945369364)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=945369364) |     |
 
             
 
