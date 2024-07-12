@@ -232,14 +232,14 @@ the Escalent family.
 
 * [Full Research library](https://javelinstrategy.com/research)
 * [Identity Fraud Study](https://javelinstrategy.com/annual-identity-fraud-study)
-* [Child Identity Fraud Study](https://javelinstrategy.com/child-identity-fraud-study)
+* [Child and Family Cybersecurity Study](https://javelinstrategy.com/Child-and-Family-Cybersecurity-Study)
 * [Scorecard Reports](https://javelinstrategy.com/scorecard-reports)
 * [Whitepapers](https://javelinstrategy.com/whitepaper)
 
 #### Research Practices
 
 * [Digital Banking](https://javelinstrategy.com/digital-banking-practice-area)
-* [Fraud & Security](https://javelinstrategy.com/fraud-security)
+* [Fraud & Security](https://javelinstrategy.com/fraud-and-security)
 * [Payments](https://javelinstrategy.com/payment)
 * [Wealth Management](https://javelinstrategy.com/wealth-management)
 
@@ -254,9 +254,9 @@ the Escalent family.
 
 ©2024 Escalent and/or its affiliates. All right reserved.
 
-* [![LinkedIn](https://javelinstrategy.com/sites/default/files/footer_contact_block/logo__linkedin_3.png)](https://www.linkedin.com/company/javelin-strategy-&-research/)
-* [![Twitter](https://javelinstrategy.com/sites/default/files/footer_contact_block/X_logo_2023_%28white%29.png)](https://twitter.com/JavelinStrategy)
+* [![LinkedIn](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/logo__linkedin_3.png)](https://www.linkedin.com/company/javelin-strategy-&-research/)
+* [![Twitter](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/X_logo_2023_%28white%29.png)](https://twitter.com/JavelinStrategy)
 
-![PART OF THE ESCALENT FAMILY](https://javelinstrategy.com/sites/default/files/footer_contact_block/part__logo_1.png)
+![PART OF THE ESCALENT FAMILY](https://www.javelinstrategy.com/sites/default/files/footer_contact_block/part__logo_1.png)
 
 [](#)
