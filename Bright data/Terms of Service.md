@@ -278,10 +278,13 @@ Service Agreement
 * [Specific Service Terms](#toc_1_10)
 * [Miscellaneous](#toc_1_11)
 
+[](https://brightdata.com/)
+
 * [Products](https://brightdata.com/products)
     * [Datasets Marketplace](https://brightdata.com/products/datasets/marketplace)
     * [Custom Datasets](https://brightdata.com/products/datasets/custom)
-    * [Web Scraper IDE](https://brightdata.com/products/web-scraper)
+    * [Web Scraper API](https://brightdata.com/products/web-scraper)
+    * [Serverless Functions](https://brightdata.com/products/web-scraper/functions)
     * [Scraping Browser](https://brightdata.com/products/scraping-browser)
     * [SERP API](https://brightdata.com/products/serp-api)
     * [Bright Insights](https://brightdata.com/products/insights)
@@ -302,7 +305,7 @@ Service Agreement
 * Pricing
     
     * [Proxy Network](https://brightdata.com/pricing/proxy-network)
-    * [Web Scraper IDE](https://brightdata.com/pricing/web-scraper)
+    * [Serverless Functions](https://brightdata.com/pricing/web-scraper/functions)
     * [Scraping Browser](https://brightdata.com/pricing/scraping-browser)
     * [SERP API](https://brightdata.com/pricing/serp)
     * [Datasets](https://brightdata.com/pricing/datasets)
@@ -353,7 +356,7 @@ Service Agreement
 
 Contact Us
 
-[](https://wa.me/972543536332)[\[email protected\]](https://brightdata.com/cdn-cgi/l/email-protection)[](weixin://dl/chat?wxid_xpl3dtqu9hih22)[](https://t.me/bright_data)[](https://brightdata.com/contact)
+[](https://wa.me/972543536332)[\[email protected\]](https://brightdata.com/cdn-cgi/l/email-protection)[](https://t.me/bright_data)
 
 Follow Us
 
