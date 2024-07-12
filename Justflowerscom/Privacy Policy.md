@@ -183,6 +183,6 @@ In business since 1996.
 
 �
 
-Select an Occasion like Birthday, Anniversary, etc... All Occasion Father's Day Birthday Sympathy Funeral Service Get Well Thinking of You Just Because Thank You Love Anniversary Congratulations New Baby Business Prom-Weddings Other \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Select an Occasion like Birthday, Anniversary, etc... All Occasion Birthday Sympathy Funeral Service Get Well Thinking of You Just Because Thank You Love Anniversary Congratulations New Baby Business Prom-Weddings \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Select a product like Flowers, Roses, Baskets, etc... All Products Best Sellers Flowers Roses Plants Balloons Teddy Bears Fruit Baskets Gift Baskets Chocolate Farm Fresh Wine Faux Flowers Cookies Scented/Bath \_\_\_\_\_\_\_\_\_\_\_\_\_\_
