@@ -130,7 +130,7 @@ Menu Close
     * [Classroom Conversations Podcast](https://www.gpb.org/blogs/classroom-conversations)
     * [GASHA Go! World](https://www.gpb.org/education/gasha-go-world)
     * [Georgia Farmcraft®](https://www.gpb.org/education/georgia-farmcraft)
-    * [Georgia Home Classroom](https://www.gpb.org/education/learn)
+    * [Georgia Classroom](https://www.gpb.org/education/learn)
     * [Georgia Studies Collection](https://www.gpb.org/education/georgia-studies)
     * [Econ Express](https://www.gpb.org/education/econ-express)
     * [Let’s Go Enviro](https://www.gpb.org/education/lets-go-enviro)
@@ -265,7 +265,7 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [Elections Central](https://www.gpb.org/politics/election2024)
+* [WATCH: GPB - ALL ARTS LIVE](https://www.allarts.org/)
 * [Explore GPB Passport](https://www.gpb.org/explore)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
