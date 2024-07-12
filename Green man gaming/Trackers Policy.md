@@ -77,15 +77,21 @@ Toggle navigation
 
 Top Searches
 
+[Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
+
+[Hitman](https://www.greenmangaming.com/games/hitman-world-of-assassination-pc/)
+
+[Horizon](https://www.greenmangaming.com/games/horizon-forbidden-west-complete-edition-pc/)
+
 [God of War Ragnarok](https://www.greenmangaming.com/games/god-of-war-ragnarok-pc/)
+
+[Batman](https://www.greenmangaming.com/games/telltale-batman-shadows-edition-pc/)
+
+[Destiny](https://www.greenmangaming.com/games/destiny-2-the-final-shape-annual-pass-pc/)
 
 [Dave the Diver](https://www.greenmangaming.com/games/dave-the-diver-pc/)
 
-[Ghost of Tsushima](https://www.greenmangaming.com/games/ghost-of-tsushima-directors-cut-pc/)
-
 [SaGa](https://www.greenmangaming.com/games/romancing-saga-minstrel-song-remastered-pc/)
-
-[Final Fantasy](https://www.greenmangaming.com/games/final-fantasy-xiv-dawntrail-digital-collectors-edition-eu-pc/)
 
 [Helldivers](https://www.greenmangaming.com/games/helldivers-2-pc/)
 
@@ -103,11 +109,15 @@ Top Searches
 
 [DOOM](https://www.greenmangaming.com/games/doom-eternal-pc/)
 
-[Horizon](https://www.greenmangaming.com/games/horizon-forbidden-west-complete-edition-pc/)
-
 You can search things like: Games, Franchises, DLC
 
 * [All Games](https://www.greenmangaming.com/all-games/)
+    * [Shop Publishers](https://www.greenmangaming.com/all-games/publishers/)
+    * [Shop Genres](https://www.greenmangaming.com/all-games/genres/)
+    * [PC Games](https://www.greenmangaming.com/all-games/platforms-os/pc/)
+    * [On Sale](https://www.greenmangaming.com/all-games/on-sale/)
+    * [Bestsellers](https://www.greenmangaming.com/all-games/bestsellers/)
+    * [All Games](https://www.greenmangaming.com/all-games/)
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
 * [New](https://www.greenmangaming.com/new-gmg/)
@@ -119,6 +129,7 @@ You can search things like: Games, Franchises, DLC
 * [XBOX](https://www.greenmangaming.com/xbox/)
 
 * [All Games](https://www.greenmangaming.com/all-games/)
+    
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
 * [New](https://www.greenmangaming.com/new-gmg/)
