@@ -37,7 +37,7 @@ Follow us:
 * [](https://www.instagram.com/closetsbydesign/)
 * [](https://www.facebook.com/closetsbydesign)
 
-[Call Closet by Design 1-800-500-9210](tel:+18005009210) [Let's Get Started](https://www.closetsbydesign.com/ScheduleRequests/)
+Call Closet by Design [Let's Get Started](https://www.closetsbydesign.com/ScheduleRequests/)
 
 * [Home](https://www.closetsbydesign.com/)
 * [Closets](#)
@@ -232,6 +232,7 @@ Closets By Design
 * [Cincinnati OH](https://cincinnati.closetsbydesign.com/)
 * [Cleveland OH](https://cleveland.closetsbydesign.com/)
 * [Coastal South Carolina](https://coastalsouthcarolina.closetsbydesign.com/)
+* [Columbia SC](https://columbia.closetsbydesign.com/)
 * [Columbus OH](https://columbus.closetsbydesign.com/)
 * [West Connecticut](https://westconnecticut.closetsbydesign.com/)
 * [Dallas TX](https://dallas.closetsbydesign.com/)
@@ -282,7 +283,7 @@ Closets By Design
 * [Vancouver BC](https://vancouver.closetsbydesign.com/)
 * [Washington DC](https://washington.closetsbydesign.com/)
 
-© 2022 All Rights Reserved. | Closets by Design®, Inc.
+© 2024 All Rights Reserved. | Closets by Design®, Inc.
 
 * [Get started](https://www.closetsbydesign.com/ScheduleRequests)
 
@@ -292,4 +293,4 @@ Thank you for your interest in a career opportunity with Closets by Design. To f
 
  
 
-![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=2129477524259968f8cffbe-83a4-40bb-931a-0b79f78b9e7f&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![](https://www.facebook.com/tr?id=212947752425996&ev=PageView&noscript=1&eid=212947752425996762bbbd7-2322-49bc-a9f1-1a1ee7817282&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=15906&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=www.closetsbydesign.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
