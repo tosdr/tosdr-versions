@@ -11,6 +11,8 @@ Site navigation
 
 [Individuals](#)
 
+[Pricing](#)
+
 [Catalog](#)
 
 [Resources](https://www.itpro.tv/resources/)
@@ -263,7 +265,8 @@ Centennial, CO 80112
 
 Business Solutions
 
-* [myACI Learn](https://www.itpro.tv/myaci-learn/)
+* [Corporate Training](https://www.itpro.tv/enterprises/)
+* [myACI Learn — Preview](https://www.itpro.tv/myaci-learn/)
 * [Audit Training](https://www.itpro.tv/auditpro/)
 * [Private Bootcamps](https://www.itpro.tv/live-online-training/)
 * [Channel & Reseller](https://www.itpro.tv/channel-reseller/)
@@ -273,7 +276,6 @@ Content Packages
 
 * [ITPro](https://www.itpro.tv/itpro/)
 * [AuditPro](https://www.itpro.tv/auditpro/)
-* [Cyberskills](https://www.itpro.tv/cyberskills/)
 
 Company
 
