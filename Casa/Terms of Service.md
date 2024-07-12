@@ -4,7 +4,7 @@
 
 learn more
 
-[Self custody](https://keys.casa/learn-more/self-custody)[private keys](https://keys.casa/learn-more/private-keys)[multisig wallet](https://keys.casa/learn-more/multisig-wallets)[Ethereum Wallet](https://keys.casa/learn-more/ethereum-wallet)[bitcoin wallet](https://keys.casa/learn-more/bitcoin-wallet)
+[Self-custody](https://keys.casa/learn-more/self-custody)[private keys](https://keys.casa/learn-more/private-keys)[multisig wallet](https://keys.casa/learn-more/multisig-wallets)[Ethereum Wallet](https://keys.casa/learn-more/ethereum-wallet)[bitcoin wallet](https://keys.casa/learn-more/bitcoin-wallet)
 
 [inheritance](https://keys.casa/inheritance)
 
