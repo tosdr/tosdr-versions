@@ -1,3 +1,5 @@
+[Skip to main content](#site-content-title)
+
 docs.flutter.dev uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. [Learn more](https://policies.google.com/technologies/cookies).
 
 OK, got it
@@ -143,9 +145,9 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Send data to a new screen](https://flutter.dev/cookbook/navigation/passing-data)
     * [Return data from a screen](https://flutter.dev/cookbook/navigation/returning-data)
     * [Add a drawer to a screen](https://flutter.dev/cookbook/design/drawer)
-    * [Setup deep linking](https://flutter.dev/ui/navigation/deep-linking)
-    * [Setup app links for Android](https://flutter.dev/cookbook/navigation/set-up-app-links)
-    * [Setup universal links for iOS](https://flutter.dev/cookbook/navigation/set-up-universal-links)
+    * [Set up deep linking](https://flutter.dev/ui/navigation/deep-linking)
+    * [Set up app links for Android](https://flutter.dev/cookbook/navigation/set-up-app-links)
+    * [Set up universal links for iOS](https://flutter.dev/cookbook/navigation/set-up-universal-links)
     * [Configure web URL strategies](https://flutter.dev/ui/navigation/url-strategies)
 * [Animations & transitions](#header-sidenav-15)
     * [Introduction](https://flutter.dev/ui/animations)
@@ -198,6 +200,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Android](https://flutter.dev/platform-integration/android)
         * [Add Android as build target](https://flutter.dev/platform-integration/android/install-android)
         * [Add a splash screen](https://flutter.dev/platform-integration/android/splash-screen)
+        * [Add predictive back](https://flutter.dev/platform-integration/android/predictive-back)
         * [Bind to native code](https://flutter.dev/platform-integration/android/c-interop)
         * [Host a native Android view](https://flutter.dev/platform-integration/android/platform-views)
         * [Restore state on Android](https://flutter.dev/platform-integration/android/restore-state-android)
@@ -218,7 +221,8 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [macOS](https://flutter.dev/platform-integration/macos)
         * [Add macOS as build target](https://flutter.dev/platform-integration/macos/install-macos)
         * [Build a macOS app](https://flutter.dev/platform-integration/macos/building)
-        * [C interop](https://flutter.dev/platform-integration/macos/c-interop)
+        * [Bind to native code](https://flutter.dev/platform-integration/macos/c-interop)
+        * [Host a native macOS view](https://flutter.dev/platform-integration/macos/platform-views)
     * [Web](https://flutter.dev/platform-integration/web)
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
@@ -510,9 +514,9 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Send data to a new screen](https://flutter.dev/cookbook/navigation/passing-data)
     * [Return data from a screen](https://flutter.dev/cookbook/navigation/returning-data)
     * [Add a drawer to a screen](https://flutter.dev/cookbook/design/drawer)
-    * [Setup deep linking](https://flutter.dev/ui/navigation/deep-linking)
-    * [Setup app links for Android](https://flutter.dev/cookbook/navigation/set-up-app-links)
-    * [Setup universal links for iOS](https://flutter.dev/cookbook/navigation/set-up-universal-links)
+    * [Set up deep linking](https://flutter.dev/ui/navigation/deep-linking)
+    * [Set up app links for Android](https://flutter.dev/cookbook/navigation/set-up-app-links)
+    * [Set up universal links for iOS](https://flutter.dev/cookbook/navigation/set-up-universal-links)
     * [Configure web URL strategies](https://flutter.dev/ui/navigation/url-strategies)
 * [Animations & transitions](#fixed-sidenav-15)
     * [Introduction](https://flutter.dev/ui/animations)
@@ -565,6 +569,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Android](https://flutter.dev/platform-integration/android)
         * [Add Android as build target](https://flutter.dev/platform-integration/android/install-android)
         * [Add a splash screen](https://flutter.dev/platform-integration/android/splash-screen)
+        * [Add predictive back](https://flutter.dev/platform-integration/android/predictive-back)
         * [Bind to native code](https://flutter.dev/platform-integration/android/c-interop)
         * [Host a native Android view](https://flutter.dev/platform-integration/android/platform-views)
         * [Restore state on Android](https://flutter.dev/platform-integration/android/restore-state-android)
@@ -585,7 +590,8 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [macOS](https://flutter.dev/platform-integration/macos)
         * [Add macOS as build target](https://flutter.dev/platform-integration/macos/install-macos)
         * [Build a macOS app](https://flutter.dev/platform-integration/macos/building)
-        * [C interop](https://flutter.dev/platform-integration/macos/c-interop)
+        * [Bind to native code](https://flutter.dev/platform-integration/macos/c-interop)
+        * [Host a native macOS view](https://flutter.dev/platform-integration/macos/platform-views)
     * [Web](https://flutter.dev/platform-integration/web)
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
@@ -714,8 +720,6 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [API reference](https://api.flutter.dev/)
     * [flutter CLI reference](https://flutter.dev/reference/flutter-cli)
 
-[_description_](https://github.com/flutter/website/tree/main/src/content/tos/index.md "View page source") [_bug\_report_](https://github.com/flutter/website/issues/new?template=1_page_issue.yml&title=[PAGE%20ISSUE]:%20%27Terms%20of%20Service%27&page-url=https://docs.flutter.dev/tos/&page-source=https://github.com/flutter/website/tree/main/src/content/tos/index.md "Report an issue with this page")
-
 Terms of Service
 ================
 
@@ -726,6 +730,8 @@ The "Flutter" name and the Flutter logo ![Flutter logo](/assets/images/branding/
 As noted above, Google owns the Flutter trademarks, but we license them so they can be used by the developer community to support the Flutter SDK, including through training materials and other community content.
 
 At the same time, it's important to make sure that people don't use the marks in ways that could cause confusion or otherwise misuse the marks, so we have prepared [brand guidelines](https://flutter.dev/brand) that describe the allowed uses of the marks. Our goal in protecting the Flutter trademarks is to benefit the entire community by ensuring that the marks are only used in ways that are consistent with Google's mission to provide a free and open source SDK.
+
+Unless stated otherwise, the documentation on this site reflects the latest stable version of Flutter. Page last updated on 2024-06-05. [View source](https://github.com/flutter/website/tree/main/src/content/tos/index.md) or [report an issue](https://github.com/flutter/website/issues/new?template=1_page_issue.yml&&page-url=https://docs.flutter.dev/tos/&page-source=https://github.com/flutter/website/tree/main/src/content/tos/index.md "Report an issue with this page").
 
 ![Flutter Logo](/assets/images/branding/flutter/logo/flutter-mono-81x100.png)
 
