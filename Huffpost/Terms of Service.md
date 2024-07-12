@@ -20,6 +20,9 @@
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
         * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
+        * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
         * [Virginia](https://guce.yahoo.com/state-controls?locale=en-US&state=VA)
         * [Washington](https://www.verizonmedia.com/us/en/yahoo/privacy/states/washington/mhmd/index.html)
@@ -29,6 +32,9 @@
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
         * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
+        * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
         * [Virginia](https://guce.yahoo.com/state-controls?locale=en-US&state=VA)
         * [Washington](https://www.verizonmedia.com/us/en/yahoo/privacy/states/washington/mhmd/index.html)
@@ -69,6 +75,9 @@
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
         * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
+        * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
         * [Virginia](https://guce.yahoo.com/state-controls?locale=en-US&state=VA)
         * [Washington](https://www.verizonmedia.com/us/en/yahoo/privacy/states/washington/mhmd/index.html)
@@ -78,6 +87,9 @@
         * [California](https://guce.yahoo.com/state-controls?locale=en-US&state=CA)
         * [Colorado](https://guce.yahoo.com/state-controls?locale=en-US&state=CO)
         * [Connecticut](https://guce.yahoo.com/state-controls?locale=en-US&state=CT)
+        * [Florida](https://guce.yahoo.com/state-controls?locale=en-US&state=FL)
+        * [Oregon](https://guce.yahoo.com/state-controls?locale=en-US&state=OR)
+        * [Texas](https://guce.yahoo.com/state-controls?locale=en-US&state=TX)
         * [Utah](https://guce.yahoo.com/state-controls?locale=en-US&state=UT)
         * [Virginia](https://guce.yahoo.com/state-controls?locale=en-US&state=VA)
         * [Washington](https://www.verizonmedia.com/us/en/yahoo/privacy/states/washington/mhmd/index.html)
@@ -661,15 +673,34 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
             
         15. _EU Digital Services Act_
             
-            1. Restrictions on use of Yahoo Services.
+            1. Restrictions on use of our Services. The EU Digital Services Act (“DSA”) requires us to provide users in the European Union with details of any restrictions we may impose on the use of certain Services. These restrictions enable us to take action to address content on our Services that is illegal and/or in violation of our [Community Guidelines](https://www.verizonmedia.com/us/en/yahoo/guidelines/index.html).
                 
-                The EU Digital Services Act requires us to inform users in the European Union that we impose certain restrictions on user-provided content that is hosted on Yahoo sites, including moderating user comments. We also enable users to report and request the removal of illegal content. We follow Yahoo’s internal policies and procedures, including where appropriate human review, to identify illegal content. Where necessary, pursuant to our [community guidelines](https://www.verizonmedia.com/us/en/yahoo/guidelines/index.html), we take action to remove that content.
+                1. For Yahoo and AOL Search:
+                    
+                    1. Use of algorithmic tools to restrict the visibility of search results containing adult content in certain cases, including where users are identified as under 18 years;
+                    2. Use of algorithmic tools to restrict the visibility of search results containing illegal content;
+                    3. Dereferencing of search results in order to uphold an individual’s rights under EU privacy law (known as the “Right To Be Forgotten”);
+                    4. Use of algorithmic tools to insert additional content within certain search results, including warning labels and law enforcement contact information, to dissuade a user from engaging with illegal and harmful content;
+                    5. Use of human review to block the display of certain suggested search terms to “autocomplete” a user’s typed-in query where the suggested search terms would contain prohibited words or phrases in violation of Yahoo’s Community Guidelines; and
+                    6. Referring complaints about illegal search content to Microsoft Bing, the search engine that generates Yahoo’s general algorithmic and advertising search results.
+                2. For user comments on our Services:
+                    
+                    1. Taking action in response to notices from individuals or entities about user comments on our Services that are illegal or in violation of our Community Guidelines, including using human review to restrict visibility of or remove user comments, and disabling access to the user comments function on our Services for repeated violations; and
+                    2. Using algorithmic tools to detect, identify, and address content contained in user comments on our Services that is illegal or in violation of our Community Guidelines.
+                3. For Mail:
+                    
+                    1. Taking action in response to notices from individuals or entities about email content on the Services that is illegal or in violation of our Community Guidelines, including terminating an individual’s email account after their account has been used for repeated violations following human review; and
+                    2. Taking action in response to credible reports that an email account or accounts are being used in a way that compromises the security of our Services (including email accounts associated with spam, scam advertisements, ransomware and malware), including terminating email accounts following human review.
+                4. For all of our Services:
+                    
+                    1. Taking action in response to EU Member State authorities’ orders to remove illegal content.
+                    2. Users in the European Union may contact us to raise any queries or complaints under the DSA via the “Points of Contact” section below. Complaints are reviewed by our Legal and Member Services Teams.
             2. Points of Contact
                 
                 1. If you are a representative of a Member State of the European Union, the European Commission or the European Board for Digital Services you can communicate with us at the following email address: dsa@yahooinc.com. Our preferred language of communication is English.
                 2. If you are a user residing within the European Union, you can use our [contact form](https://uk.help.yahoo.com/kb/account?locale=en_GB&sclb=1&ct=TOP_HIDE_INHELP_EMEA_DSA&sbct=ISS_EMEA_DSA).
 
-_Last updated: 27 May, 2024_
+_Last updated: 08 July, 2024_
 
 ©2024 Yahoo. All Rights Reserved.
 
