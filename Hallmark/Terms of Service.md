@@ -87,8 +87,6 @@ We found suggestions
     
     [View all Celebrations](#)
     
-    [Pride Month (6/1-6/30)](https://www.hallmark.com/lgbtqia/)
-    
     [Anniversary](https://www.hallmark.com/anniversary/)
     
     [Baby](https://www.hallmark.com/new-baby/)
@@ -385,6 +383,8 @@ We found suggestions
     
     [Ornament Events](https://www.hallmark.com/keepsake-ornament-events/)
     
+    [Ornament Premiere](https://www.hallmark.com/keepsake-ornament-events/ornament-premiere/)
+    
     [Collection](#)
     ---------------
     
@@ -398,7 +398,7 @@ We found suggestions
     
     [Specialty Ornaments](https://www.hallmark.com/ornaments/specialty-ornaments/)
     
-    [Archives](https://www.hallmark.com/ornaments/?prefn1=collections&prefv1=Keepsake+Archives#productgrid)
+    [Archives](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=collections&prefv1=Keepsake+Archives#productgrid)
     
     [Feature](#)
     ------------
@@ -447,21 +447,21 @@ We found suggestions
     
     [View all Pop Culture](#)
     
-    [Barbie](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=characters&prefv1=Barbie#productgrid)
+    [Barbie](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Barbie#productgrid)
     
     [Disney](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Disney#productgrid)
     
-    [Harry Potter™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Harry+Potter#productgrid)
+    [Harry Potter™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Harry+Potter)
     
     [Marvel](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Marvel#productgrid)
     
-    [Nintendo](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Nintendo#productgrid)
+    [Nintendo](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Nintendo)
     
     [Peanuts®](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Peanuts#productgrid)
     
     [Star Wars™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Star+Wars#productgrid)
     
-    [The Haunted Mansion](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=characters&prefv1=The+Haunted+Mansion#productgrid)
+    [The Haunted Mansion](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=The+Haunted+Mansion#productgrid)
     
 * Gift Wrap
     
@@ -652,7 +652,7 @@ We found suggestions
     [Contact Us](https://care.hallmark.com/)
     
 
-Buy two, get one free Hallmark Celebrate! [Shop party supplies](https://www.hallmark.com/party-supplies/?prefn1=collections&prefv1=Hallmark+Celebrate%21&icid=glbl_rib_061724_bogo-hallmarkcelebrate#productgrid)
+2 for $22: Select Hallmark Mugs [Shop now](https://www.hallmark.com/mug-promo/?icid=glbl_rib_070124_mug-promo)
 
 Hallmark Terms of Use
 ---------------------
@@ -1001,7 +1001,7 @@ Customer Care Customer Care
 
 * [Contact us](https://care.hallmark.com/s/)
 * [Store locator](https://www.hallmark.com/stores/)
-* [Gift cards](https://www.hallmark.com/gift-cards/)
+* [Gift cards](https://www.hallmark.com/gift-cards)
 
 Memberships Memberships & Services
 ----------------------------------
@@ -1014,7 +1014,7 @@ Order Information Order Information
 
 * [Order status](https://www.hallmark.com/order-history/)
 * [Shipping & delivery](https://www.hallmark.com/shipping-and-delivery/)
-* [Returns](https://www.hallmark.com/return-policy/)
+* [Returns](https://www.hallmark.com/return-policy)
 
 About Hallmark About Hallmark
 -----------------------------
@@ -1022,9 +1022,8 @@ About Hallmark About Hallmark
 * [About us](https://corporate.hallmark.com/)
 * [Careers](https://careers.hallmark.com/?utm_source=careersite)
 * [Hallmark Channel](https://www.hallmarkchannel.com/)
-* [Hallmark Movies Now](https://www.hmnow.com/)
-* [Hallmark Christmas Experience](https://experiencehallmarkchristmas.com/)
-* [More from Hallmark](https://www.hallmark.com/more-from-hallmark/)
+* [Hallmark Movies Now](https://www.hallmarkchannel.com/videos/hallmark-movies-now)
+* [More from Hallmark](https://www.hallmark.com/more-from-hallmark)
 
 Connect with us
 ---------------
