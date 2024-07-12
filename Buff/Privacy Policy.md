@@ -1,6 +1,4 @@
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2036'%3E%3C/svg%3E)
-
-![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)](https://www.buff.game/)
+[![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)](https://www.buff.game/)
 
 * [Start](https://www.buff.game/#how)
 * [Games](https://www.buff.game/#games)
@@ -34,13 +32,9 @@ Menu
 * [iOS](https://apps.apple.com/il/app/buff-game/id1556876835)
 * [Android](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2043%2052'%3E%3C/svg%3E)
+[![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
 
-![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2039%2052'%3E%3C/svg%3E)
-
-![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
+[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
 [Download](https://download.overwolf.com/install/Download?PartnerId=3762)
 
@@ -121,23 +115,9 @@ Note that we may have to undertake a process to identify a Data Subject exercisi
 
 Do Not Track Notices. You are also advised that Company does not respond to “Do Not Track” signals. You can manage your cookie settings [here](#). Last Date Updated: December 20, 2021.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2036'%3E%3C/svg%3E)
-
 ![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Discord.svg)](https://discord.com/invite/fAhV4SY)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Twitter.svg)](https://l.linklyhq.com/l/1guEn)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Instagram.svg)](https://l.linklyhq.com/l/1gu4Q)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/Facebook.svg)](https://www.facebook.com/buff.game)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/YouTube.svg)](https://www.youtube.com/channel/UCzVXqxjcAjSHTxABpHngnPQ)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
-
-![](/rebrand/footer/tiktok.svg)](https://l.linklyhq.com/l/1guG8)
+[![](/rebrand/footer/Discord.svg)](https://discord.com/invite/fAhV4SY) [![](/rebrand/footer/Twitter.svg)](https://l.linklyhq.com/l/1guEn) [![](/rebrand/footer/Instagram.svg)](https://l.linklyhq.com/l/1gu4Q) [![](/rebrand/footer/Facebook.svg)](https://www.facebook.com/buff.game) [![](/rebrand/footer/YouTube.svg)](https://www.youtube.com/channel/UCzVXqxjcAjSHTxABpHngnPQ) [![](/rebrand/footer/tiktok.svg)](https://l.linklyhq.com/l/1guG8)
 
 ###### Menu
 
@@ -178,8 +158,6 @@ BUFF.GAME isn’t endorsed by Riot Games and doesn’t reflect the views or opin
 [Terms of Use](https://www.buff.game/website-terms-of-use/) | [Privacy Policy](https://www.buff.game/buff-privacy-policy/)
 
 [](#)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20961%20497'%3E%3C/svg%3E)
 
 ![](https://www.buff.game/wp-content/uploads/2023/04/Pop.png)
 
