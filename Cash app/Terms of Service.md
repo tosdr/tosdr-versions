@@ -199,6 +199,8 @@ It is a condition of these General Terms that, in pre-contract negotiations and 
 
 [Additional Point of Sale Terms](https://squareup.com/gb/legal/general/pos)
 
+[Additional Payment Services Terms of Service](https://squareup.com/gb/legal/general/additional-payment-services-tos)
+
 [Commercial Entity Agreement](https://squareup.com/gb/legal/general/cea)
 
 [Declaration of Conformity](https://squareup.com/gb/legal/general/dc)
@@ -219,9 +221,9 @@ It is a condition of these General Terms that, in pre-contract negotiations and 
 
 [E-Sign Consent](https://squareup.com/gb/legal/general/sign)
 
-[Clearpay Merchant Terms of Service](https://squareup.com/gb/legal/general/clearpay-merchant-terms)
-
 [Intellectual Property Policy](https://squareup.com/gb/legal/general/copyright)
+
+[Clearpay Merchant Terms of Service](https://squareup.com/gb/legal/general/clearpay-merchant-terms)
 
 [Products](#)
 
