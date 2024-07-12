@@ -240,11 +240,16 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
+![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
 
   
-[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
+
+### Free for Open Source Projects
+
+We love open source projects. Contact us with details of your project.  
+  
+[Contact Us](https://www.dynu.com/Support/ContactUs)
 
 ### News
 
@@ -308,6 +313,6 @@ HELP
 
 ##### Copyright © 1997-2024 Dynu Systems, Inc. All rights reserved.
 
-Version 3.30.8931.22911
+Version 3.30.8950.4780
 
 Loading...
