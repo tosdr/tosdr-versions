@@ -201,9 +201,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, June 21, 2024**
+**Thursday, July 11, 2024**
 
-**...Invest 92L to Reach the Northeast Florida/Southeast Georgia Coast By Tonight; A Short-Lived Tropical Depression May Develop Prior To Reaching the Coast (60% Chance of Development)...Regardless of Development, Heavy Rainfall, Gusty Winds (Near 30 MPH), and Coastal Impacts Possible...Scattered Showers and Embedded Thunderstorm Across the Northern Peninsula Today And Tonight…Marginal Risk For Flash Flooding Across the Northern Peninsula As Training Bands Producing Heavy Rainfall May Lead To Instances of Flooding…Relatively Drier Conditions Elsewhere Today…High Surf Advisories In Effect Along the Northeast Coast Through This Afternoon For Large Breaking Waves and Hazardous Beach and Boating Conditions...Localized Minor Coastal Flooding and Minor Coastal Erosion Possible At Times Of High Tide Along the East Coast...Heat Indices In The Upper 90s And Triple Digits (100-104) Nearly Statewide...Locally Sensitive Wildfire Conditions In the Panhandle...High Risk For Rip Currents Along Panhandle and East Coast…Another Tropical Disturbance in the Southwest Gulf This Weekend (60% Chance of Development); Nor Direct Threat To Florida...**
+**...Drier Conditions Across North Florida Today As A Weak Frontal Boundary Sags Towards the I-4 Corridor...Scattered Showers and Thunderstorms Along and South of The Frontal Boundary And Along Afternoon Sea Breezes Across the Peninsula Today...Isolated Strong to Severe Thunderstorms Capable of Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Cannot Be Ruled Out...Localized Flooding and Ponding of Water Possible Over Urban and Low-Lying/Poor Drianage Areas, Especially Over already Saturdated Grounds....Heat Indices In the Upper 90s and Triple Digits (100-103) Across North Florida, The Western Peninsula, and Keys...Moderate to High Risk For Rip Currents Along Several Panhandle and East Coast Beaches...A Broad Area of Low Pressure Located A Few Hundred Miles Off the Southeast U.S. Coast Has A Low (10%) Chance of Development Through 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
