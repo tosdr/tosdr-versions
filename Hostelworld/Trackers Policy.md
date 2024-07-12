@@ -1,24 +1,43 @@
 Language
 
-* [English](https://www.hostelworld.com/st/cookiespolicy/)
-* [Français](https://www.french.hostelworld.com/st/cookiespolicy/)
-* [Deutsch](https://www.german.hostelworld.com/st/cookiespolicy/)
-* [Español](https://www.spanish.hostelworld.com/st/cookiespolicy/)
-* [Italiano](https://www.italian.hostelworld.com/st/cookiespolicy/)
-* [Português](https://www.portuguese.hostelworld.com/st/cookiespolicy/)
-* [Português (Brasil)](https://www.brazilian.hostelworld.com/st/cookiespolicy/)
-* [Svenska](https://www.swedish.hostelworld.com/st/cookiespolicy/)
-* [Polski](https://www.polish.hostelworld.com/st/cookiespolicy/)
-* [Suomi](https://www.finnish.hostelworld.com/st/cookiespolicy/)
-* [Dansk](https://www.danish.hostelworld.com/st/cookiespolicy/)
-* [Nederlands](https://www.dutch.hostelworld.com/st/cookiespolicy/)
-* [Norsk](https://www.norwegian.hostelworld.com/st/cookiespolicy/)
-* [český](https://www.czech.hostelworld.com/st/cookiespolicy/)
-* [Русский](https://www.russian.hostelworld.com/st/cookiespolicy/)
-* [Türk](https://www.turkish.hostelworld.com/st/cookiespolicy/)
-* [中文](https://www.chinese.hostelworld.com/st/cookiespolicy/)
-* [日本語](https://www.japanese.hostelworld.com/st/cookiespolicy/)
-* [한국어](https://www.korean.hostelworld.com/st/cookiespolicy/)
+* English
+    
+* Français
+    
+* Deutsch
+    
+* Español
+    
+* Italiano
+    
+* Português
+    
+* Português (Brasil)
+    
+* Svenska
+    
+* Polski
+    
+* Suomi
+    
+* Dansk
+    
+* Nederlands
+    
+* Norsk
+    
+* český
+    
+* Русский
+    
+* Türk
+    
+* 中文
+    
+* 日本語
+    
+* 한국어
+    
 
 [![Hostelworld](https://a.hwstatic.com/raw/upload/f_auto,q_auto/wds/logos/brand/hw-full.svg "Hostelworld")](https://www.hostelworld.com/)
 
@@ -52,82 +71,6 @@ Destination Dates Guests
  Check Out
 
 3 nights selected
-
-June 2024
-
-Mon
-
-Tue
-
-Wed
-
-Thu
-
-Fri
-
-Sat
-
-Sun
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
 
 July 2024
 
@@ -1972,6 +1915,84 @@ Sun
 29
 
 30
+
+July 2026
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
 
 Guests
 
