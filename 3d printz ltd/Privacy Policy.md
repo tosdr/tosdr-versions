@@ -1,4 +1,4 @@
-![](https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAACkWnQEiAA==&s=U6P7Kqg29QNXBefqWV2qFTZcZ0llTTdJrS4WIOMCJHI=)                     
+![](https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAACkWnQEiAA==&s=U6P7Kqg29QNXBefqWV2qFTZcZ0llTTdJrS4WIOMCJHI=)                      
 
 [Menu](#)
 
