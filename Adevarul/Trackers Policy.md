@@ -1,6 +1,6 @@
 ![search](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-search'%3e%3ccircle cx='11' cy='11' r='8'%3e%3c/circle%3e%3cline x1='21' y1='21' x2='16.65' y2='16.65'%3e%3c/line%3e%3c/svg%3e)
 
-Joi, 20 Iunie 2024
+Duminică, 7 Iulie 2024
 
 [![Adevărul](/logo.svg)](https://adevarul.ro/ "Adevărul")
 
@@ -14,7 +14,7 @@ Joi, 20 Iunie 2024
 
 ![menu](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-menu'%3e%3cline x1='3' y1='12' x2='21' y2='12'%3e%3c/line%3e%3cline x1='3' y1='6' x2='21' y2='6'%3e%3c/line%3e%3cline x1='3' y1='18' x2='21' y2='18'%3e%3c/line%3e%3c/svg%3e)
 
-[Ultimele știri ⏱️](https://adevarul.ro/ultimele-stiri)[România la EURO 2024](https://adevarul.ro/topic/romania-la-euro-2024)[Alegeri locale 2024](https://adevarul.ro/topic/alegeri-locale-2024)[Alegeri europarlamentare 2024](https://adevarul.ro/topic/alegeri-europarlamentare-2024)[România alege](https://adevarul.ro/romania-alege)[Război în Ucraina](https://adevarul.ro/tag/razboi%20in%20ucraina)[Război în Israel](https://adevarul.ro/tag/razboi%20in%20israel)[Istoria zilei](https://adevarul.ro/istoria-zilei)
+[Ultimele știri ⏱️](https://adevarul.ro/ultimele-stiri)[EURO 2024](https://adevarul.ro/topic/euro-2024)[Alegeri prezidențiale 2024](https://adevarul.ro/topic/alegeri-prezidentiale-2024)[Alegeri parlamentare 2024](https://adevarul.ro/topic/alegeri-parlamentare-2024)[România alege](https://adevarul.ro/romania-alege)[Război în Ucraina](https://adevarul.ro/tag/razboi%20in%20ucraina)[Război în Israel](https://adevarul.ro/tag/razboi%20in%20israel)[Istoria zilei](https://adevarul.ro/istoria-zilei)
 
 Politica de colectare cookies
 -----------------------------
