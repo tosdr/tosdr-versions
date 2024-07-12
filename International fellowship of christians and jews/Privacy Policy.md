@@ -411,7 +411,7 @@ A 501(c)(3) tax-exempt, non-profit organization.
 _The Fellowship_’s tax identification number is 36-3256096.
 
 * [Privacy Policy](https://www.ifcj.org/privacy-policy)
-* [Canada](https://www.ifcj.ca/site/SPageServer/)
+* [Canada](https://www.ifcj.ca/)
 
 [Donate Now](https://help.ifcj.org/donate/15/0)
 
