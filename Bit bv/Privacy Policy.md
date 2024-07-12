@@ -124,7 +124,7 @@ Europees wetsvoorstel
 
 ### [Blogs](https://www.bit.nl/blogs)
 
-#### [Waarom iedere website een security.txt nodig heeft](https://www.bit.nl/news/3560/293/Waarom-iedere-website-een-security.txt-nodig-heeft)
+#### [Statistieken in de BIT Portal](https://www.bit.nl/news/3565/293/Statistieken-in-de-BIT-Portal)
 
 [](https://www.bit.nl/blogs)
 
@@ -138,7 +138,7 @@ Europees wetsvoorstel
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[28-06-24 Onderhoud dieselaggregaten BIT-2A](https://www.bit.nl/news/3554/92/Onderhoud-dieselaggregaten-BIT-2A) [02-07-24 Glasvezelonderhoud BIT-2 - Interxion Science Park (AMS9)](https://www.bit.nl/news/3552/92/Glasvezelonderhoud-BIT-2-Interxion-Science-Park-AMS9) [03-07-24 Onderhoud Microsoft SQL instances servers](https://www.bit.nl/news/3558/92/Onderhoud-Microsoft-SQL-instances-servers)
+[16-07-24 Verplaatsing core netwerk apparatuur BIT-1](https://www.bit.nl/news/3561/92/Verplaatsing-core-netwerk-apparatuur-BIT-1) [17-07-24 Verplaatsing core netwerk apparatuur BIT-1](https://www.bit.nl/news/3562/92/Verplaatsing-core-netwerk-apparatuur-BIT-1) [01-08-24 Periodiek onderhoud brandmeldinstallatie BIT-1](https://www.bit.nl/news/3566/92/Periodiek-onderhoud-brandmeldinstallatie-BIT-1)
 
 [](https://www.bit.nl/onderhoud)
 
