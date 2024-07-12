@@ -319,7 +319,7 @@ Email: [\[email protected\]](https://imaginationlibrary.com/cdn-cgi/l/email-pro
 
 #### Archives
 
-Archives Select Month May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 November 2016 October 2016 June 2016 May 2016 February 2016 July 2015 May 2013
+Archives Select Month July 2024 May 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 November 2016 October 2016 June 2016 May 2016 February 2016 July 2015 May 2013
 
 **SITE SEARCH**
 
@@ -355,9 +355,9 @@ EIN: 62-1348105
 
 #### Recent Posts
 
+* [Over 244 Million Free Books Gifted As Of June 2024](https://imaginationlibrary.com/over-244-million-free-books-gifted-as-of-june-2024/) July 1, 2024
+* [Over 241 Million Free Books Gifted As Of May 2024](https://imaginationlibrary.com/over-241-million-free-books-gifted-as-of-may-2024/) May 31, 2024
 * [Oregon Kicks Off Statewide Expansion of Dolly Parton’s Imagination Library](https://imaginationlibrary.com/oregon-kicks-off-statewide-expansion-of-dolly-partons-imagination-library/) May 8, 2024
-* [Over 238 Million Free Books Gifted As Of April 2024](https://imaginationlibrary.com/over-238-million-free-books-gifted-as-of-april-2024/) April 30, 2024
-* [Over 235 Million Free Books Gifted As Of March 2024](https://imaginationlibrary.com/over-235-million-free-books-gifted-as-of-march-2024/) March 31, 2024
 
 **Information & Resources**
 
