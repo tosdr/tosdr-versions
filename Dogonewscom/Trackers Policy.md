@@ -4,18 +4,18 @@ Open main menu
 
 [DOGOnews
 
-ELA • Science • Social Studies](https://www.dogonews.com/)
+ELA • Ciencias • Estudios Sociales](https://www.dogonews.com/)
 
-Search
+Búsqueda
 
-[DOGObooks](https://www.dogobooks.com/)[Teachers](https://www.dogonews.com/teachers)[Librarians](https://www.dogonews.com/school-libraries)[Parents](https://www.dogonews.com/homeschool) [Sign In](https://accounts.dogonews.com/auth/signin?callbackUrl=https%3A%2F%2Fwww.dogonews.com%2Fpages%2Fcookie-policy)
+[DOGObooks](https://www.dogobooks.com/)[Profesores](https://www.dogonews.com/teachers)[Bibliotecarios](https://www.dogonews.com/school-libraries)[Madres](https://www.dogonews.com/homeschool) [Acceder](https://accounts.dogonews.com/auth/signin?callbackUrl=https%3A%2F%2Fwww.dogonews.com%2Fpages%2Fcookie-policy)
 
-* [Current Events](https://www.dogonews.com/)
-* [Science](https://www.dogonews.com/category/science)
-* [Social Studies](https://www.dogonews.com/category/social-studies)
-* [Civics](https://www.dogonews.com/category/civics)
-* [World](https://www.dogonews.com/category/world)
-* [Environment](https://www.dogonews.com/category/environment)
+* [Eventos actuales](https://www.dogonews.com/)
+* [Ciencia](https://www.dogonews.com/category/science)
+* [Estudios sociales](https://www.dogonews.com/category/social-studies)
+* [Civismo](https://www.dogonews.com/category/civics)
+* [Mundo](https://www.dogonews.com/category/world)
+* [Medio ambiente](https://www.dogonews.com/category/environment)
 
 May 18, 2018
 
@@ -96,33 +96,33 @@ Further information about our data processing can be found in our Privacy Policy
 
 Any changes we may make to this Cookie Policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated.
 
-### Popular Articles
+### Articulos populares
 
-* Week
+* Semana
     
-    * [![Hermit Crabs Are Increasingly Using Plastic Trash As Homes](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/7/hermit-crabs-are-increasingly-using-plastic-trash-as-homes)
+    * [![Scream For Ice Cream ! July Is National Ice Cream Month](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/28/scream-for-ice-cream-july-is-national-ice-cream-month)
         
-        [Hermit Crabs Are Increasingly Using Plastic Trash As Homes](https://www.dogonews.com/2024/6/7/hermit-crabs-are-increasingly-using-plastic-trash-as-homes)
+        [Scream For Ice Cream ! July Is National Ice Cream Month](https://www.dogonews.com/2024/6/28/scream-for-ice-cream-july-is-national-ice-cream-month)
+        
+    * [![Three Young Explorers Discover A Rare, Teenage T. Rex](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/24/three-young-explorers-discover-a-rare-teenage-t-rex)
+        
+        [Three Young Explorers Discover A Rare, Teenage T. Rex](https://www.dogonews.com/2024/6/24/three-young-explorers-discover-a-rare-teenage-t-rex)
+        
+    * [![Athletes To Look Out For At The Paris Summer Olympics](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/26/athletes-to-look-out-for-at-the-paris-summer-olympics)
+        
+        [Athletes To Look Out For At The Paris Summer Olympics](https://www.dogonews.com/2024/6/26/athletes-to-look-out-for-at-the-paris-summer-olympics)
         
     * [![National Donut Day: A Sweet Celebration With A Rich History](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/4/national-donut-day-a-sweet-celebration-with-a-rich-history)
         
         [National Donut Day: A Sweet Celebration With A Rich History](https://www.dogonews.com/2024/6/4/national-donut-day-a-sweet-celebration-with-a-rich-history)
         
-    * [![Gloucestershire's Cheese Rolling Competition Is Like None Other](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
+    * [![The World's Biggest Glacier May Be Melting Faster Than Previously Believed](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/21/the-worlds-biggest-glacier-may-be-melting-faster-than-previously-believed)
         
-        [Gloucestershire's Cheese Rolling Competition Is Like None Other](https://www.dogonews.com/2024/6/12/gloucestershires-cheese-rolling-competition-is-like-none-other)
-        
-    * [![June Solstice Marks The Start Of The Northern Hemisphere Summer](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/14/june-solstice-marks-the-start-of-the-northern-hemisphere-summer)
-        
-        [June Solstice Marks The Start Of The Northern Hemisphere Summer](https://www.dogonews.com/2024/6/14/june-solstice-marks-the-start-of-the-northern-hemisphere-summer)
-        
-    * [![Juneteenth, Explained](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48"%3E%3C/svg%3E)](https://www.dogonews.com/2024/6/10/juneteenth-explained)
-        
-        [Juneteenth, Explained](https://www.dogonews.com/2024/6/10/juneteenth-explained)
+        [The World's Biggest Glacier May Be Melting Faster Than Previously Believed](https://www.dogonews.com/2024/6/21/the-worlds-biggest-glacier-may-be-melting-faster-than-previously-believed)
         
     
-* Month
-* Year
+* Mes
+* Año
 
 #### Learning Activities
 
@@ -157,39 +157,39 @@ Footer
 
 DOGOnews
 
-### Empowering literacy, reading fluency and global awareness through current events and books.
+### Potenciar la alfabetización, la fluidez lectora y la conciencia global a través de eventos y libros actuales.
 
-[Learn More](https://www.dogonews.com/pages/about-dogonews)
+[Aprende más](https://www.dogonews.com/pages/about-dogonews)
 
 [![Student Privacy Pledge](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118 50"%3E%3C/svg%3E)](https://studentprivacypledge.org/)[![Google for Education Premium Partner](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 50"%3E%3C/svg%3E)](https://edu.google.com/intl/ALL_us/get-started/apps/)
 
-### Company
+### Compañía
 
-* [About](https://www.dogonews.com/pages/about-dogonews)
-* [Promotions & Sponsorships](https://www.dogonews.com/pages/advertising-sponsorships)
+* [Acerca de](https://www.dogonews.com/pages/about-dogonews)
+* [Promociones y patrocinios](https://www.dogonews.com/pages/advertising-sponsorships)
 
-### Products
+### Productos
 
-* [PRO Teachers](https://www.dogonews.com/teachers)
-* [PRO Homeschool](https://www.dogonews.com/homeschool)
-* [Library Edition](https://www.dogonews.com/school-libraries)
-* [Workbooks](https://www.dogonews.com/workbooks)
+* [Profesores PRO](https://www.dogonews.com/teachers)
+* [Educación en el hogar PRO](https://www.dogonews.com/homeschool)
+* [Edición de biblioteca](https://www.dogonews.com/school-libraries)
+* [Libros de trabajo](https://www.dogonews.com/workbooks)
 
 ### Legal
 
-* [Privacy Policy](https://www.dogonews.com/pages/privacy-policy)
-* [Cookie Policy](https://www.dogonews.com/pages/cookie-policy)
-* [Copyright Policy](https://www.dogonews.com/pages/copyright-policy)
-* [Terms & Conditions](https://www.dogonews.com/pages/terms-and-conditions)
+* [Política de privacidad](https://www.dogonews.com/pages/privacy-policy)
+* [Política de cookies](https://www.dogonews.com/pages/cookie-policy)
+* [Política de derechos de autor](https://www.dogonews.com/pages/copyright-policy)
+* [Términos y condiciones](https://www.dogonews.com/pages/terms-and-conditions)
 
-### Approved resource for:
+### Recurso aprobado para:
 
-[![Catholic Schools Academic Junior High Decathlon](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 130"%3E%3C/svg%3E)](https://www.catholicajhd.org/)
+[![Escuelas Católicas Academic Junior High Decathlon](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 130"%3E%3C/svg%3E)](https://www.catholicajhd.org/)
 
-### Integrations
+### Integraciones
 
-[![Available in the Chrome Web Store](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 165"%3E%3C/svg%3E)](https://chrome.google.com/webstore/detail/dogonews/pcolnnhmiknpeonnnmoadeficjagocgf?hl=en-US)[![Available in the G Suite Marketplace](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 165"%3E%3C/svg%3E)](https://gsuite.google.com/marketplace/app/dogonews/1014466925635)[![Get it from Microsoft](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 138"%3E%3C/svg%3E)](https://www.microsoft.com/en-us/store/p/dogonews/9nfkvdmz7nt0)[![Install Clever App](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 161"%3E%3C/svg%3E)](https://clever.com/app-gallery/dogonews)[![Install Amazon Alexa App](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 81"%3E%3C/svg%3E)](https://www.amazon.com/DOGO-Media-Inc-DOGOnews/dp/B08KS8XMQ7)
+[![Disponible en la Chrome Web Store](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 165"%3E%3C/svg%3E)](https://chrome.google.com/webstore/detail/dogonews/pcolnnhmiknpeonnnmoadeficjagocgf?hl=en-US)[![Disponible en el Marketplace de G Suite](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 165"%3E%3C/svg%3E)](https://gsuite.google.com/marketplace/app/dogonews/1014466925635)[![Obténgalo de Microsoft](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 138"%3E%3C/svg%3E)](https://www.microsoft.com/en-us/store/p/dogonews/9nfkvdmz7nt0)[![Instale la aplicación Clever](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 161"%3E%3C/svg%3E)](https://clever.com/app-gallery/dogonews)[![Instale la aplicación Amazon Alexa](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 81"%3E%3C/svg%3E)](https://www.amazon.com/DOGO-Media-Inc-DOGOnews/dp/B08KS8XMQ7)
 
 [Facebook](https://www.facebook.com/people/DOGONews/100049130445746/)[Twitter](https://twitter.com/dogonews)
 
-© 2024 DOGO Media, Inc. All rights reserved.
+© 2024 DOGO Media, Inc. Todos los derechos reservados.
