@@ -63,8 +63,9 @@ If you post content or material to our Websites, or otherwise make (or allow any
 * the Content does not contain or install any malware or other harmful or destructive content;
 * the Content is not spam, is not machine or randomly generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
 * the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
-* you will not use our Websites to promote other drone flying clubs, groups, forums or web sites
-* you will not post or share “audit” videos
+* you will not use our Websites to promote other drone clubs, flying associations, groups, forums or web sites
+* you will not post “auditor” videos or links
+* you will not post political views or religious beliefs
 * your content is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, blogs and web sites, and similar unsolicited promotional methods;
 * your content is not named in a manner that misleads your readers into thinking that you are another person or company; and
 * you have, in the case of Content that includes computer code, accurately categorised and/or described the type, nature, uses and effects of the materials, whether requested to do so by Grey Arrows Drone Club Limited or otherwise.
@@ -180,9 +181,9 @@ Competitions winners will be invited to take part in a publicity opportunity. Th
 
 [@GADC\_Committee](https://greyarro.ws/u/gadc_committee) conducts post-draw audit to ensure no member is excessive in their ticket purchases. If you are worried about gambling please reach out to one of the following services for help, advice and support:
 
-![](https://d1q8cepst0v8xp.cloudfront.net/original/3X/9/7/97516b75c573f9be7f5e66765073e2790a540772.png) [begambleaware.org](https://www.begambleaware.org/)
+![](https://d1q8cepst0v8xp.cloudfront.net/original/3X/7/f/7fa9158d4fd8fd251933bf22f31407ef1274ce68.png) [gambleaware.org](https://www.gambleaware.org/)
 
-### [GambleAware®: Gambling Help & Gambling Addiction](https://www.begambleaware.org/)
+### [GambleAware®: Gambling Help & Gambling Addiction](https://www.gambleaware.org/)
 
 Free, confidential help and support to anyone who’s worried about their – or someone else’s – gambling. If gambling’s on your mind, we’re here to help.
 
@@ -211,7 +212,7 @@ Please contact us to discuss your requirements before registering your account i
 
 Grey Arrows Drone Club Limited reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Website following the posting of any changes to this Agreement constitutes acceptance of those changes. Grey Arrows Drone Club Limited may also, in the future, offer new services and/or features through the Website (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement. If we decide to change our terms of service, we will post those changes on this page.
 
-This document was last updated 11/02/24.
+This document was last updated 01/07/24.
 
 * [Home](https://greyarro.ws/)
 * [Categories](https://greyarro.ws/categories)
