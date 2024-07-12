@@ -44,13 +44,15 @@ All Don Pablo specialty coffees are freshly roasted to order and usually ship wi
 
 If we are experiencing a high volume of orders, shipments may be delayed by a few days.
 
-Orders **$50** **or more** inside the contiguous US will receive **free shipping.** If your order inside the contiguous US is **below $50,** the flat shipping rate is **$6.**
+Whole bean and ground coffee orders **$50** **or more** inside the contiguous US will receive **free shipping.** If your order inside the contiguous US is **below $50,** the flat shipping rate is **$6.**
 
 **Please note: _To qualify for free shipping, the order delivery location must be inside the contiguous US and also be $50 or more, including any discount or promotion._**
 
-**_\*Orders shipped anywhere outside the contiguous US will be charged actual shipping rates._**
+**_\*Orders shipped anywhere outside the contiguous US will be charged actual carrier shipping rates._**
 
-**_Please note: We reserve the right to determine the shipping carrier and method so your coffee arrives fresh and fast! We use the following carriers: UPS, USPS, and FedEx._**
+**_\*\*Cold brew is exempt from flat rate and free shipping and uses actual carrier shipping rates_**
+
+_Please note: We reserve the right to determine the shipping carrier and method so your coffee arrives fresh and fast! We use the following carriers: UPS, USPS, and FedEx._
 
 Please contact us anytime if you have any questions or concerns.  We appreciate your support!
 
@@ -62,6 +64,10 @@ Miami, Fl 33179
 
 Phone: 305-249-5628   
 8AM – 6PM (EST) Monday – Friday[](mailto:Info@donpablocoffee.com)
+
+#### 
+
+Sign up for our newsletter
 
 ![](//donpablocoffee.com/cdn/shop/files/invert_300x.png?v=1641333893)
 
