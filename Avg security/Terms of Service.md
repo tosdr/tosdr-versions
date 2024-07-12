@@ -1,8 +1,8 @@
-[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003763/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
+[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003802/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
 
-![menu](https://static2.avg.com/10003763/web/i/components/menu-mobile.svg)
+![menu](https://static2.avg.com/10003802/web/i/components/menu-mobile.svg)
 
-[![AVG logo](https://static2.avg.com/10003763/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-us/homepage)
+[![AVG logo](https://static2.avg.com/10003802/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-us/homepage)
 
 [Skip to content](#body-inner)
 
@@ -84,7 +84,7 @@
     * [Business Support & Contact](https://support.avg.com/business?l=en)
     * [Installation Files](https://www.avg.com/en-us/installation-files-business)
 
-[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003763/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003802/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [< Back to AVG Policies](https://www.avg.com/en-us/policies)
 
@@ -526,13 +526,6 @@ The following special terms apply to certain Solutions. If these special terms c
 
 [Please click here to view other EULAs (including archived versions)](https://www.avg.com/en-us/eula-all)
 
-![Chrome browser logo](https://static2.avg.com/10003763/web/i/other/ico-chrome-75.png)
-
-AVG recommends using  
-the **FREE** Chrome™ internet browser.
-
-[Download Chrome](https://www.google.com/chrome/browser/?brand=AVSF&installdataindex=googlehomepage&hl=en)
-
 #### About AVG
 
 * [Profile](https://www.avg.com/en-us/profile)
@@ -575,11 +568,11 @@ the **FREE** Chrome™ internet browser.
 * [LinkedIn](http://www.linkedin.com/company/avg)
 * [YouTube](https://www.youtube.com/user/officialAVG)
 
-[English ![](https://static2.avg.com/10003763/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[English ![](https://static2.avg.com/10003802/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_footer)
 
-[Privacy](https://www.avg.com/en-us/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-us/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003763/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-us/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-us/subscription-details) |  
+[Privacy](https://www.avg.com/en-us/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-us/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003802/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-us/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-us/subscription-details) |  
   [All third party trademarks are the property of their respective owners.](https://www.avg.com/en-us/trademarks) | © 2024 Gen Digital Inc. All rights reserved.
 
 [Skip to content](#body-inner) [Skip to menu](#navigation-links)
