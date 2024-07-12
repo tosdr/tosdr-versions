@@ -48,7 +48,7 @@ MENU [](https://www.barracuda.com/)
 
 * * *
 
-[![Barracuda provides a comprehensive cybersecurity platform that includes Email Protection, Application Protection, Network Protection, Data Protection, and Managed XDR.](/content/experience-fragments/barracuda-corp/us/en/site/header/master/_jcr_content/root/container/header/mega-menu/tabItem-mega-menu-0-1635182815730/horizontal_tab/tab0-1694733144258/container/image.coreimg.svg/1717005033350/platform-diagram.svg)](https://www.barracuda.com/products)
+[![Barracuda provides a comprehensive cybersecurity platform that includes Email Protection, Application Protection, Network Protection, Data Protection, and Managed XDR.](/content/experience-fragments/barracuda-corp/us/en/site/header/master/_jcr_content/root/container/header/mega-menu/tabItem-mega-menu-0-1635182815730/horizontal_tab/tab0-1694733144258/container/image.coreimg.svg/1720567926455/platform-diagram.svg)](https://www.barracuda.com/products)
 
 [EXPLORE THE PLATFORM](https://www.barracuda.com/products)
 
@@ -174,7 +174,7 @@ Barracuda’s cloud-first SASE Platform
 
 [TECHNOLOGIES](#)
 
-[![Featured: Ransomware Protection](/adobe/dynamicmedia/deliver/dm-aid--02caa0fa-b2db-47e0-b0cc-5e0d144ca12c/solutions-ransomware-protection.jpg?quality=95&preferwebp=true)](https://www.barracuda.com/solutions/ransomware)
+![](/adobe/dynamicmedia/deliver/dm-aid--02caa0fa-b2db-47e0-b0cc-5e0d144ca12c/solutions-ransomware-protection.jpg?quality=95&preferwebp=true)
 
 **Ransomware Protection**
 
@@ -182,15 +182,15 @@ Protect your business and users from ransomware attacks in three easy steps.
 
 [**LEARN MORE**](https://www.barracuda.com/solutions/ransomware)
 
-[\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
+![](/adobe/dynamicmedia/deliver/dm-aid--e14a8b44-bfd1-44c3-9717-1c62e7ab30fd/technology-ai-cybersecurity.jpg?quality=95&preferwebp=true)
 
-**Phishing Protection**
+**AI in Cybersecurity**
 
-Our advanced AI blocks the most advanced email impersonation attacks from reaching your users.
+While AI is accelerating cybersecurity risks, find out how you can harness its power to stay ahead.
 
-[\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
+[**LEARN MORE**](https://www.barracuda.com/solutions/ai-in-cybersecurity)
 
-[![Featured: Zero Trust Access](/adobe/dynamicmedia/deliver/dm-aid--09c85f36-d6bf-47e8-9c6e-015672fd48e7/featured-zero-trust-access.png?quality=95&preferwebp=true)](https://www.barracuda.com/products/network-protection/secureedge/zero-trust-access)
+![](/adobe/dynamicmedia/deliver/dm-aid--09c85f36-d6bf-47e8-9c6e-015672fd48e7/featured-zero-trust-access.png?quality=95&preferwebp=true)
 
 **Zero Trust Access**
 
@@ -221,6 +221,8 @@ Secure access to your applications and data from any device – safer than VPN!
 [Microsoft Azure Get security and networking solutions that are deployed natively in Microsoft Azure.](https://www.barracuda.com/solutions/azure)
 
 [Google Cloud Platform (GCP) Check out our security products for Google Cloud Platform.](https://www.barracuda.com/solutions/google-cloud)
+
+[AI in Cybersecurity While AI is accelerating cybersecurity risks, find out how you can harness its power to stay ahead.](https://www.barracuda.com/solutions/ai-in-cybersecurity)
 
 [Barracuda Security Insights Check out our real-time view of global cyber threats, collected from millions of data points.](https://www.barracuda.com/solutions/cyber-security-insights)
 
