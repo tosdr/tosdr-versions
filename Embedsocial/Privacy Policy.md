@@ -30,10 +30,10 @@ Search
     
     * [Display Reviews](https://embedsocial.com/display-reviews/ "Display Reviews")
     * [AI Reviews](https://embedsocial.com/ai-reviews/ "AI Reviews")
-    * [Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Reviews Forms")
-    * [Request Emails + SMS](https://embedsocial.com/products/reviews/email/ "Request Emails + SMS")
     * [SEO Snippet](https://embedsocial.com/products/reviews/seo-snippet/ "SEO Snippet")
     * [Reviews Widgets](https://embedsocial.com/p/templates/reviews "Reviews Widgets")
+    * [Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Reviews Forms")
+    * [Request Emails + SMS](https://embedsocial.com/products/reviews/email/ "Request Emails + SMS")
     * [Google Posts Scheduler](https://embedsocial.com/google-posts-scheduler/ "Google Posts Scheduler")
     
     [EmbedStoriesInstagram stories platform](https://embedsocial.com/stories/)
@@ -154,6 +154,11 @@ Search
          ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)
         
         Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
+    * [![Google reviews logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Google reviews logo](https://embedsocial.com/wp-content/uploads/2024/03/google-gmb-logo-36x36.png)
+        
+        Free Google Reviews Widget](https://embedsocial.com/free-google-reviews-widget/ "Free Google Reviews Widget")
     
     New: Widgets Templates Library
     
@@ -550,11 +555,11 @@ By email: [privacy@embedsocial.com.](mailto:privacy@embedsocial.com)
 * [50+ Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/)
     
 
-© EmbedSocial 2023 All rights reserved. Privacy Policy | Terms of use |
+© EmbedSocial 2024 All rights reserved. Privacy Policy | Terms of use |
 
 * [](https://www.facebook.com/embedreviews "Facebook")
 * [](https://www.instagram.com/embedsocial/ "Instagram")
-* [](https://www.youtube.com/c/ImMkapps "YouTube")
+* [](https://www.youtube.com/EmbedSocial "YouTube")
 * [](https://www.linkedin.com/company/embedsocial "LinkedIn")
 
 We use cookies to personalize your experience.  
