@@ -23,14 +23,15 @@
         * [Prepaid Tarife im Vergleich](https://www.congstar.de/prepaid/)
         * [Prepaid Allnet XL (20 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xl/)
         * [Prepaid Allnet L (15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-l/)
-        * [Prepaid Allnet M (10 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
+        * [Prepaid Allnet M (9 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
         * [Prepaid Allnet S (3 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-s/)
+        * [Prepaid Allnet XS (1 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xs/)
         * [Prepaid Halbjahres-Paket (6 GB/Monat)](https://www.congstar.de/prepaid/tarife/prepaid-halbjahrespaket/)
         * [Prepaid wie ich will (1 bis 15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-wie-ich-will/)
     
     * [Optionen](#)
         * [Zubuchbare Optionen](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/prepaid/)
-        * [Datenvolumen zubuchen](https://www.congstar.de/prepaid/datenvolumen-zubuchen/)
+        * [Datenvolumen zubuchen](https://www.congstar.de/hilfe-service/mein-vertrag/datenvolumen-zubuchen/)
     
     * [Tipps & Service](#)
         * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
@@ -52,6 +53,7 @@
         * [Allnet Flat M mit GB+ (30 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
         * [Allnet Flat S Extra mit GB+ (10 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
         * [Allnet Flat S mit GB+ (5 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s/)
+        * [Tarife für alle von 18 - 27](https://www.congstar.de/young/)
     
     * [Optionen](#)
         * [Zubuchbare Optionen](https://www.congstar.de/hilfe-service/mein-vertrag/zubuchbare-optionen/tarife/)
@@ -61,10 +63,9 @@
         * [5G Option](https://www.congstar.de/handytarife/5g/)
     
     * [Tarifvorteile bei congstar](#)
-        * [YOUNG Vorteil](https://www.congstar.de/young/)
-        * [Handytarife Angebote - Angebote und Aktionen](https://www.congstar.de/handytarife/angebote/)
-        * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
+        * [Angebote und Aktionen](https://www.congstar.de/handytarife/angebote/)
         * [Zweit- und Partnerkarte mit Kundenrabatt](https://www.congstar.de/partnerkarte/)
+        * [Rufnummernmitnahme](https://www.congstar.de/hilfe-service/auftrag-lieferung/rufnummernmitnahme/)
         * [eSIM - Tarif mit eSIM bestellen](https://www.congstar.de/esim/)
         * [MultiSIM](https://www.congstar.de/multisim/)
     
@@ -80,7 +81,6 @@
         * [Alle Hersteller](https://www.congstar.de/geraete/)
         * [Apple](https://www.congstar.de/geraete/apple/)
         * [Samsung](https://www.congstar.de/geraete/samsung/)
-        * [CAT](https://www.congstar.de/geraete/cat/)
         * [Fairphone](https://www.congstar.de/geraete/fairphone/)
         * [Google](https://www.congstar.de/geraete/google/)
         * [Xiaomi](https://www.congstar.de/geraete/xiaomi/)
@@ -88,7 +88,7 @@
     
     * [Gerätekategorien](#)
         * [Handys](https://www.congstar.de/geraete/handy/)
-        * [Neuwertige & gebrauchte Smartphones](https://www.congstar.de/geraete/neuwertig)
+        * [Neuwertige & gebrauchte Smartphones](https://www.congstar.de/geraete/neuwertig/)
         * [Tablets](https://www.congstar.de/geraete/tablet/)
         * [Wearables & Gadgets](https://www.congstar.de/geraete/?category=Wearable%2CGadget)
     
@@ -104,9 +104,9 @@
     * [Internet über LTE](#)
         * [Homespot Tarife im Vergleich](https://www.congstar.de/festnetz-internet/congstar-homespot-im-vergleich/)
         * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
-        * [Homespot 200](https://www.congstar.de/festnetz-internet/homespot-200/)
-        * [Homespot 100](https://www.congstar.de/festnetz-internet/homespot-100/)
-        * [Homespot 30](https://www.congstar.de/festnetz-internet/homespot-30/)
+        * [Homespot 200](https://www.congstar.de/internet/homespot/homespot-200/)
+        * [Homespot 100](https://www.congstar.de/internet/homespot/homespot-100/)
+        * [Homespot 30](https://www.congstar.de/internet/homespot/homespot-30/)
     
     * [Internet & Telefonie über DSL](#)
         * [DSL-Tarife im Vergleich](https://www.congstar.de/festnetz-internet/komplettpakete/)
@@ -156,7 +156,7 @@
     
     * [Kontakt & Hilfe](#)
         * [FAQs](https://www.congstar.de/hilfe-service/faq/)
-        * [congstar Forum](http://forum.congstar.de/community)
+        * [congstar Forum](https://forum.congstar.de/community)
         * [Formulare](https://www.congstar.de/hilfe-service/downloads/congstar-formulare/)
         * [Anleitungen](https://www.congstar.de/hilfe-service/anleitungen/)
         * [Newsletter](https://www.congstar.de/das-ist-congstar/newsletter/)
@@ -168,7 +168,7 @@
     
     * [congstar](#)
         * [Jobs & Karriere](https://www.congstar.de/das-ist-congstar/jobs-karriere/)
-        * [Newsroom](http://newsroom.congstar.de/)
+        * [Newsroom](https://newsroom.congstar.de/)
         * [Auszeichnungen](https://www.congstar.de/das-ist-congstar/auszeichnungen/)
         * [Fairnessheld\*innen](https://www.congstar.de/fairnessheldinnen/)
     
@@ -244,7 +244,7 @@ Rückgabe
 * * *
 
 * [congstar Shop](https://www.congstar.de/)
-* [Lieferung & Zahlung](https://www.congstar.de/lieferung-zahlung/)
+* [Lieferung & Zahlung](https://www.congstar.de/verbraucherinformation/#lieferung)
 * [Tarife mit Vertrag](https://www.congstar.de/handytarife/)
 * [Prepaid](https://www.congstar.de/prepaid/)
 * [Handys & Smartphones](https://www.congstar.de/geraete/)
@@ -259,7 +259,7 @@ Rückgabe
 * [Newsletter](https://www.congstar.de/das-ist-congstar/newsletter/)
 * [Feedback](https://www.congstar.de/dein-feedback/)
 * [FAQ](https://www.congstar.de/hilfe-service/faq/)
-* [Support Forum](http://forum.congstar.de/community)
+* [Support Forum](https://forum.congstar.de/community)
 * [Roaming](https://www.congstar.de/hilfe-service/roaming/)
 
 * [Über congstar](https://www.congstar.de/das-ist-congstar/)
