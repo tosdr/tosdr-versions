@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=860260667395192&ev=PageView&noscript=1&a=magento2-0.0.0-1.4.6)  
+![](https://www.facebook.com/tr?id=860260667395192&ev=PageView&noscript=1&a=magento2-0.0.0-1.4.6)   
 
 The store will not work correctly when cookies are disabled.
 
@@ -20,10 +20,11 @@ Sign in
 * [Sign In](https://www.burpee.com/customer/account/login/referer/aHR0cHM6Ly93d3cuYnVycGVlLmNvbS90ZXJtcy1hbmQtY29uZGl0aW9ucw~~/)
 * [Create an Account](https://www.burpee.com/customer/account/create/)
 
-[![Burpee](https://www.burpee.com/static/version1718260233/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
+[![Burpee](https://www.burpee.com/static/version1720692863/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
 
 Close
 
+* [SALE](https://www.burpee.com/sale-shop/)
 * [NEW](https://www.burpee.com/new-for-2024)
 * [Vegetables](https://www.burpee.com/vegetables/)
 * [Flowers](https://www.burpee.com/Flowers/)
