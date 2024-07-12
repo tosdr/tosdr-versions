@@ -42,11 +42,15 @@ As soon as the customer purchases the plan, fulfillment happens online and #clas
 
 ##### Refund Policy:
 
-We have a no-questions asked money-back guarantee for all valid credits remaining in your account as of the date the refund is requested.
+The amount of refund payable shall only be limited to the amount paid by the customer for services which were not rendered to the customer by WhiteHat Jr. In case of refund of EMI transactions, customers will be charged interest & foreclosure charges as per bank or lending partners’ terms and conditions which the customer may have agreed to. Further the deduction shall be made towards the value of any cashback, discounts or rewards, including vouchers (if applicable).  
+  
+Any refund claimed shall be subject to the Refund Policy made available to you during your enrollment and the amount of refund payable shall only be limited to the amount paid by the customer for services which were not rendered to the customer by WhiteHat Jr. For a copy of our current Refund Policy, please click on this [link](https://s3-cdnwhjr.whjr.online/abb938fe-d80b-431f-a2c7-022cf63d241a.pdf)  
+  
+A refund request will be deemed valid only if it is made through an email to [support@whitehatjr.com](mailto:support@whitehatjr.com)
 
 ##### Refund Process:
 
-We aim to process and refund requests within 7-10 business days of receiving the request.If request is made as per our refund policy However, if there is a delay, please notify us at [support@whitehatjr.com](mailto:support@whitehatjr.com). During the refund process, we may request that you validate key information required to process your refund.
+We aim to process and refund requests within 30 business days of receiving the request. If request is made as per our refund policy However, if there is a delay, please notify us at [support@whitehatjr.com](mailto:support@whitehatjr.com). During the refund process, we may request that you validate key information required to process your refund.
 
 * * *
 
@@ -58,8 +62,10 @@ As soon as the customer purchases the plan, fulfillment happens online and #clas
 
 ##### Refund Policy:
 
-We have a no-questions asked money-back guarantee for all valid credits remaining in your account as of the date the refund is requested.
+Any refund claimed shall be subject to the Refund Policy made available to you during your enrollment and the amount of refund payable shall only be limited to the amount paid by the customer for services which were not rendered to the customer by WhiteHat Jr. For a copy of our current Refund Policy, please click on this [link](https://s3-cdnwhjr.whjr.online/abb938fe-d80b-431f-a2c7-022cf63d241a.pdf)  
+  
+A refund request will be deemed valid only if it is made through an email to [support@whitehatjr.com](mailto:support@whitehatjr.com)
 
 ##### Refund Process:
 
-We aim to process and refund requests within 7-10 business days of receiving the request.If request is made as per our refund policy However, if there is a delay, please notify us at [support@whitehatjr.com](mailto:support@whitehatjr.com). During the refund process, we may request that you validate key information required to process your refund.
+We aim to process and refund requests within 30 business days of receiving the request. If request is made as per our refund policy However, if there is a delay, please notify us at [support@whitehatjr.com](mailto:support@whitehatjr.com). During the refund process, we may request that you validate key information required to process your refund.
