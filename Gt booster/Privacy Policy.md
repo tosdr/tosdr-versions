@@ -1,68 +1,19 @@
-          
+Cookie Settings
+
+        
 
 GT Booster’s Privacy Policy informs you of how we collect, use and share your personal data, and our privacy practices.
 =======================================================================================================================
 
-[![GT Booster Logo](https://www.gtbooster.com/v1/PrivacyPolicy/img/logo_gt_booster.svg)](https://www.gtbooster.com/)
+[![GT Booster Logo](https://www.gtbooster.com/v1/PrivacyPolicy/img/logo_gt_booster_b.svg)](https://www.gtbooster.com/)
 
-* Solutions
-* [About](https://www.gtbooster.com/about)
+* [Internet Accelerator](https://www.gtbooster.com/aiflow)
+* [AI QoS](https://www.gtbooster.com/ark-engine)
+* [About Us](https://www.gtbooster.com/about)
 
-#### Network Visibility & Intelligence
-
-[![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_a.svg)
-
-ARK Engine
-
-AI visibility solution that gives context to your traffic intelligence.](https://www.gtbooster.com/ark-engine)
-
-#### Network Traffic Management
-
-[![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_b.svg)
-
-AIFlow
-
-PC software that empowers you with traffic monitoring and management.](https://www.gtbooster.com/aiflow)[![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_c.svg)
-
-ARK AI QoE
-
-Smart and dynamic AI QoE that greatly enhances router performance.](https://www.gtbooster.com/ark-ai-qoe)[![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_d.svg)
-
-ARK Parental Control
-
-Ever-evolving content filtering feature to protect children 24/7.](https://www.gtbooster.com/ark-parental-control)
-
-#### Network Acceleration Service
-
-[![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_e.svg)
-
-GT Net
-
-A smart pathfinder for lowest latencies and best connections.](https://www.gtbooster.com/gt-net)
-
-[REQUEST DEMO](mailto:sales@gtbooster.com)
-
-* [Solutions](javascript:void(0);)
-    
-    #### Network Visibility & Intelligence
-    
-    ![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_a.svg) [ARK Engine](https://www.gtbooster.com/ark-engine)
-    
-    #### Network Traffic Management
-    
-    ![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_b.svg) [AIFlow](https://www.gtbooster.com/aiflow)
-    
-    ![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_c.svg) [ARK AI QoE](https://www.gtbooster.com/ark-ai-qoe)
-    
-    ![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_d.svg) [ARK Parental Control](https://www.gtbooster.com/ark-parental-control)
-    
-    #### Network Acceleration Service
-    
-    ![](https://www.gtbooster.com/v1/PrivacyPolicy/img/ico/submenu_ico_e.svg) [GT Net](https://www.gtbooster.com/gt-net)
-    
-* [About](https://www.gtbooster.com/about)
-
-[REQUEST DEMO](mailto:sales@gtbooster.com)
+* [Internet Accelerator](https://www.gtbooster.com/aiflow)
+* [AI QoS](https://www.gtbooster.com/ark-engine)
+* [About Us](https://www.gtbooster.com/about)
 
 GT Booster Privacy Policy
 -------------------------
@@ -71,7 +22,7 @@ GT Booster Privacy Policy
   
 
   
-Last updated: 27 June 2023. These Terms replace and supersede all prior versions.  
+Last updated: 27 July 2022.  
   
 **IMPORTANT! PLEASE READ CAREFULLY.**  
   
@@ -81,7 +32,7 @@ Our Privacy Policy, together with any privacy-related notices or statements that
   
 We define personal data in accordance to guidelines stipulated by the General Data Protection Regulation ("**GDPR**") – meaning that all data that directly or reasonably used to identify you is considered personal data. Also in accordance with GDPR and for the purposes of this document, data that has been aggregated and anonymized does not constitute personal data.  
   
-This Privacy Policy does not apply to any personal data we process on behalf of our business partners when we provide services. The contracts we have with our business partners control how we process your personal data in this context. In such circumstances, we suggest that you first contact our business partner if you have questions about your personal data, and, if needed, we will provide assistance to our partner in responding to your inquiries.  
+This Privacy Policy does not apply to any personal data we process on behalf of our business partners when we provide services. The contracts we have with our business partners control how we process your personal data in this context. In such circumstances, we suggest that you first contact our business partner if you have questions about your personal data, and, if needed, we will provide assistance to our partner in responding to your inquiries.
 
 ### 1\. Personal Data We May Collect From You
 
@@ -121,7 +72,7 @@ We may share personal data with our affiliated companies, third party service pr
 * **Service Providers.** We may engage third party service providers to handle certain aspects of our business on our behalf, such as processing or storing data (including personal data), processing payment, fraud prevention services, and customer support among others. GT Booster service providers are obligated or required to handle personal data consistent with this Privacy Policy and according to our instructions. They cannot use the personal data we share for their own purposes and must delete or return the personal data once they've fulfilled our request.
 * **GT Booster Partners**  
     We may integrate our Software and Services into our third-party partner's products. If you purchase products that bundle our Software and Services as part of our partner's product offering, we create a customer ID that is unique to you and the product's manufacturer. In such cases, we may share information related to your usage of the products or our Services and Software to the respective partner in order to improve your user experience.
-* **Others.** We may also share your information:
+* **Others.** We may also share your information:  
     1. With your consent or at your direction;
     2. Disclosure is necessary or appropriate for purposes of national security, law enforcement, or other issues of public importance;
     3. If there is a lawful basis for doing so;
@@ -133,7 +84,7 @@ We may share personal data with our affiliated companies, third party service pr
 
 GT Booster, as well as our third party service providers and partners, operate around the world. This means that when we collect your personal data, we may transfer the data to adequate countries other than the country in which you reside; these transfers are permitted and legal under the GDPR. These countries may have different data protection laws to the laws of your country. Whenever GT Booster transfers personal data beyond the country of origin, we will do so in accordance with all applicable local privacy laws and regulations.  
   
-When transferring personal data originating in the European Economic Area ("**EEA**") to a GT Booster entity, third party service providers or partners located in a country that does not have an "adequate level of protection" as determined by the European Commission, we do so on the basis of the European Commission's [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).  
+When transferring personal data originating in the European Economic Area ("**EEA**") to a GT Booster entity, third party service providers or partners located in a country that does not have an "adequate level of protection" as determined by the European Commission, we do so on the basis of our EEA Binding Corporate Rules and/or the European Commission's Standard Contractual Clauses.  
   
 As to the processing of personal data relating to individuals in China outside of China, it will be done in compliance with local laws, including the Personal Information Protection Law.
 
@@ -154,7 +105,6 @@ GT Booster respects your privacy rights. Under the law of some jurisdictions, yo
 * Object to the processing of your personal data;
 * Opt-out of marketing communication emails (click the "unsubscribe" or "opt-out" link in the emails directly) or other forms of marketing.
 
-  
 In certain cases, these rights may be limited – for example, if fulfilling your request would reveal personal data about another person, if you ask us to delete information which we are required by law to keep or if the request would otherwise undermine other legitimate uses of the data. Please note that withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than the consent. If we are unable to resolve your concerns, you may lodge a complaint with the data protection authorities handling data protection in your country or region.  
   
 We will not discriminate against you for exercising your rights and choices, but please note some of the functionality and features available in our Services and Software depend on the personal data you make available to us. As a result, some functionality and features available in our Services and Software may change or no longer be available to you according to your choices.
@@ -171,15 +121,13 @@ The cookies we generally use fit into one of the categories below:
 * **Targeting Cookies.** These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
 * **Social Media Cookies.** These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
 
-  
-You may choose to block some types of cookies, however, please note that disabling some types of cookies may prevent you from being able to access certain parts of our Services. Also, note that changing your cookie preferences will not delete or overwrite existing cookies. You will need to go to your browser settings to configure or delete them. Click on the links below for more information on how to access cookie settings for some of the most common and widely-used browsers.
+You may choose to block some types of cookies, however, please note that disabling some types of cookies may prevent you from being able to access certain parts of our Services. Also, note that changing your cookie preferences will not delete or overwrite existing cookies. You will need to go to your browser settings to configure or delete them. You can manage your cookie preferences by clicking on the **Cookie Settings** link at the bottom of the website or through browser settings. Click on the links below for more information on how to access cookie settings for some of the most common and widely-used browsers.
 
 * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop)
 * [Mozilla Firefox](https://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer)
 * [Microsoft Edge](https://support.microsoft.com/microsoft-edge/view-cookies-in-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879#:~:text=View%20Cookies%20in%20Microsoft%20Edge%201%20Open%20Microsoft,all%20cookies%20saved%20on%20your%20device.%20See%20More.)
 * [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac)
 
-  
 GT Booster and our service providers may implement web beacons (often a transparent graphic pixel GIF or PNG image) and other technologies on websites or in emails to measure the effectiveness of campaigns or promotions. We may use the information, such as page visits, email open rate, and link clicks to further improve our Services.  
   
 Many browsers have a "Do Not Track" feature that allows you to tell websites you do not want to have your online activities tracked. Currently, there is no industry agreed upon standard on how companies should respond to the "Do Not Track" signals, and so accordingly, our Services do not currently recognize or respond to these signals.
@@ -193,7 +141,6 @@ We do not monetize your personal information except to the extent permitted unde
 * Object to having your personal data sold, as defined by the California Consumer Privacy Act ("**CCPA**");
 * Request for deletion of your personal data (with exceptions as defined by the CCPA).
 
-  
 We do not discriminate against you if you choose to exercise these rights. To exercise your rights, please contact our Data Protection Officer directly at [dpo@gtbooster.com.](mailto:dpo@gtbooster.com) Upon receipt of your email, our Data Protection Officer will review and respond to you within 14 days. In some cases, we may require additional information or let you know that we need additional time to respond.
 
 ### 10\. Changes to Our Privacy Policy
@@ -206,31 +153,35 @@ If the changes are material or significant, we may use reasonable efforts to not
 
 If you have any questions or concerns about GT Booster's Privacy Policy or privacy practices, would like to exercise your privacy rights as described in section 7 (Exercising Your Rights), or would like to submit a privacy-related complaint, please contact our Data Protection Officer at [dpo@gtbooster.com.](mailto:dpo@gtbooster.com) All communications will be treated confidentially. Upon receipt of your email, our Data Protection Officer will review and respond to you within 14 days. In some cases, we may require additional information or let you know that we need additional time to respond.
 
- [![GT Booster Logo](https://www.gtbooster.com/v1/PrivacyPolicy/img/logo_gt_booster.svg)](https://www.gtbooster.com/)[CONTACT US](mailto:support@gtbooster.com)
+Company
 
-* [Terms of Use](https://www.gtbooster.com/legal/terms)
-* [Privacy Policy](https://www.gtbooster.com/legal/privacy)
+* [About Us](https://www.gtbooster.com/about)
+* [Career](https://www.gtbooster.com/career)
 
-20F-3, No. 118, Ciyun Rd. East Dist., Hsinchu City 300, Taiwan (R.O.C.)  
-Copyright © 2024 GT Booster Inc. All rights reserved.
+Support
+
+* [Contact Us](mailto:support@gtbooster.com)
 
 ###### Company
 
-* [About](https://www.gtbooster.com/about)
-* [Careers](https://www.gtbooster.com/jobs)
-* News (Coming Soon)
+* [About Us](https://www.gtbooster.com/about)
+* [Career](https://www.gtbooster.com/career)
 
-###### Solutions
+###### Support
 
-* [ARK Engine](https://www.gtbooster.com/ark-engine)
-* [ARK Parental Control](https://www.gtbooster.com/ark-parental-control)
-* [AIFlow](https://www.gtbooster.com/aiflow)
-* [GT Net](https://www.gtbooster.com/gt-net)
-* [ARK AI QoE](https://www.gtbooster.com/ark-ai-qoe)
+* [Contact Us](mailto:support@gtbooster.com)
 
-* [Terms of Use](https://www.gtbooster.com/legal/terms)
-* [Privacy Policy](https://www.gtbooster.com/legal/privacy)
+###### ![GT Booster Logo](https://www.gtbooster.com/v1/PrivacyPolicy/img/logo_gt_booster_w.svg)
 
-20F-3, No. 118, Ciyun Rd. East Dist., Hsinchu City 300, Taiwan (R.O.C.)  
-  
-© 2024 GT Booster Inc. All rights reserved.
+![](https://www.gtbooster.com/v1/PrivacyPolicy/img/landmark.png)
+
+###### 20F-3, No. 118, Ciyun Rd. East Dist.,  
+Hsinchu City 300, Taiwan (R.O.C.)
+
+![](https://www.gtbooster.com/v1/PrivacyPolicy/img/phone.png)
+
+###### +886-3-579-0128​
+
+Copyright © 2022 GT Booster Inc. All rights reserved.
+
+[Terms of Use](https://www.gtbooster.com/legal/terms)  |  [Privacy Policy](https://www.gtbooster.com/legal/privacy)  |  Cookie Settings
