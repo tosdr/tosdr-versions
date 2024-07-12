@@ -1,6 +1,6 @@
 ![](https://amazoncustomerservice.d2.sc.omtrdc.net/b/ss/acsus-prod/1/H.25.2--NS/0)             
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-1278456-1811105:J237D07FCYVHHZHNZH0S$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DJ237D07FCYVHHZHNZH0S:0)       ![](https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB587940754_.png)              
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:131-8107573-6373439:333NBY37D356MCM999A0$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D333NBY37D356MCM999A0:0)       ![](https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB587940754_.png)              
 
 Skip to main content
 
@@ -9,24 +9,6 @@ Skip to main content
 Deliver to United Kingdom
 
    
-
-Amazon
-
-lens
-
-Search with any image
-
-#### Unsupported image file format.
-
-Upload a JPEG, PNG, WEBP, GIF, SVG, AVIF, BMP, ICO image file.
-
-#### Image file size is too large.
-
-Upload an image file size of 5MB or less.
-
-Drag an image here
-
-Upload an image 
 
 All
 
@@ -101,7 +83,7 @@ Thanks! While we're unable to respond directly to your feedback, we'll use this 
 * EU-US and Swiss-US Data Privacy Framework
 * [About Cookies](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GVASXV5UZ64R4Y25)
 * [California Supply Chain Transparency Act Statement](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GXYZF9M33FRJ5TMA)
-* [Human Rights and Environmental Complaints](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=TivzDyH2V40i5W1JMn)
+* [Human Rights and Environmental Grievances](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=TivzDyH2V40i5W1JMn)
 * [Law Enforcement Information Requests](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GYSDRGWQ2C2CRYEF)
 * [Request Your Personal Information](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=TP1zlemejtTn6pwYKS)
 * [Communications from Amazon.com](https://www.amazon.com/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=GSTY9GWL8BB4RCFB)
@@ -197,7 +179,6 @@ Let Us Help You
 * [Shipping Rates & Policies](https://www.amazon.com/gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates)
 * [Returns & Replacements](https://www.amazon.com/gp/css/returns/homepage.html?ref_=footer_hy_f_4)
 * [Manage Your Content and Devices](https://www.amazon.com/gp/digital/fiona/manage?ref_=footer_myk)
-* [Amazon Assistant](https://www.amazon.com/gp/BIT/ref=footer_bit_v2_us_A0029?bitCampaignCode=A0029)
 * [Help](https://www.amazon.com/gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he)
 
 [](https://www.amazon.com/?ref_=footer_logo)
@@ -221,4 +202,4 @@ Let Us Help You
 
 © 1996-2024, Amazon.com, Inc. or its affiliates
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-1278456-1811105:J237D07FCYVHHZHNZH0S$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DJ237D07FCYVHHZHNZH0S:0)
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:131-8107573-6373439:333NBY37D356MCM999A0$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D333NBY37D356MCM999A0:0)
