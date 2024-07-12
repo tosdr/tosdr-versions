@@ -13,6 +13,7 @@
             * [Preconsent](https://www.cookiehub.com/preconsent)
             * [Consent log](https://www.cookiehub.com/consent-log)
             * [Google Certified CMP](https://www.cookiehub.com/google-certified-cmp)
+            * [Consent Mode](https://www.cookiehub.com/consent-mode)
             * [TCF 2.2 compliance](https://www.cookiehub.com/iab-tcf-compliance)
             * [Languages](https://www.cookiehub.com/languages)
         * [Regulations](https://www.cookiehub.com/regulations)
@@ -146,7 +147,7 @@ Sign up today and create a custom cookie banner for your website
 
 [See Pricing](https://www.cookiehub.com/pricing)
 
-[![CookieHub](https://www.cookiehub.com/wp-content/uploads/2023/06/logo-primary.svg)](https://www.cookiehub.com/)
+[![CookieHub](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDIiIGhlaWdodD0iNjIiIHZpZXdCb3g9IjAgMCAxMDIgNjIiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://www.cookiehub.com/)
 
 * [![English](https://www.cookiehub.com/wp-content/uploads/flags/united-kingdom-46.png)](https://www.cookiehub.com/terms-and-conditions)
 * [![Danish](https://www.cookiehub.com/wp-content/uploads/flags/denmark-46.png)](https://www.cookiehub.com/da/vilkaar-og-betingelser)
@@ -201,9 +202,9 @@ Sign up today and create a custom cookie banner for your website
 * [Privacy Policy](https://www.cookiehub.com/privacy-policy)
 * [Terms and conditions](https://www.cookiehub.com/terms-and-conditions)
 
-![Google Certified CMP Partner](https://www.cookiehub.com/wp-content/uploads/2023/06/google-cmp.png)
+![Google Certified CMP Partner](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI3NiIgdmlld0JveD0iMCAwIDcwIDc2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
-![IAB TCF Certification](https://www.cookiehub.com/wp-content/uploads/elementor/thumbs/iab_tcf_certification-qdx4rb0hfmn51ncf1n43lvd19h7k4g535402rlg9h4.webp "IAB TCF Certification")
+![IAB TCF Certification](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "IAB TCF Certification")
 
 [](https://www.cookiehub.com/)
 
@@ -213,6 +214,7 @@ Sign up today and create a custom cookie banner for your website
         * [Cookie Declaration](https://www.cookiehub.com/cookie-declaration)
         * [Preconsent](https://www.cookiehub.com/preconsent)
         * [Consent log](https://www.cookiehub.com/consent-log)
+        * [Consent Mode](https://www.cookiehub.com/consent-mode)
         * [TCFv2 Compliance](https://www.cookiehub.com/tcf)
         * [Languages](https://www.cookiehub.com/languages)
     * [Regulations](https://www.cookiehub.com/regulations)
