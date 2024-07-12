@@ -423,6 +423,17 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [June 14, 2022](https://digitalocean-legal.nyc3.cdn.digitaloceanspaces.com/DigitalOcean_Privacy_Policy_06.14.2022.pdf)
 * [July 30, 2020](https://digitalocean-legal.nyc3.cdn.digitaloceanspaces.com/DigitalOcean_Privacy_Policy_07.31.2020.pdf)
 
+Get started for free
+--------------------
+
+Sign up and get $200 in credit for your first 60 days with DigitalOcean.\*
+
+[Get started](https://cloud.digitalocean.com/registrations/new?refcode=f6fcd01aaffb)
+
+![](https://www.digitalocean.com/api/static-content/v1/images?src=%2F_next%2Fstatic%2Fmedia%2Fsign-up-cta-background.73e1c8f4.svg&width=3840)
+
+\* This promotional offer applies to new accounts only.
+
 ###### Company
 
 * [About](https://www.digitalocean.com/about)
@@ -477,7 +488,6 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
@@ -553,7 +563,6 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
