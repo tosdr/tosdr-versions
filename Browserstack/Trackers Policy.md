@@ -198,6 +198,8 @@ Developers
 
 [Pricing](https://www.browserstack.com/pricing "Pricing")
 
+Contact Sales
+
 [Sign in](https://www.browserstack.com/users/sign_in "Sign in")
 
 [Free Trial](https://www.browserstack.com/users/sign_up "Free Trial")
@@ -246,11 +248,11 @@ Products
 * [Percy](https://www.browserstack.com/percy)
 * [App Live](https://www.browserstack.com/app-live)
 * [App Automate](https://www.browserstack.com/app-automate)
-* [App Percy New](https://www.browserstack.com/app-percy)
-* [Test Management New](https://www.browserstack.com/test-management)
-* [Test Observability New](https://www.browserstack.com/test-observability)
-* [Accessibility Testing New](https://www.browserstack.com/accessibility-testing)
-* [Accessibility Automation New](https://www.browserstack.com/accessibility-testing/features/automated-tests)
+* [App Percy](https://www.browserstack.com/app-percy)
+* [Test Management](https://www.browserstack.com/test-management)
+* [Test Observability](https://www.browserstack.com/test-observability)
+* [Accessibility Testing](https://www.browserstack.com/accessibility-testing)
+* [Accessibility Automation](https://www.browserstack.com/accessibility-testing/features/automated-tests)
 * [App Accessibility Testing Beta](https://www.browserstack.com/app-accessibility-testing)
 * [Low Code Automation Beta](https://www.browserstack.com/low-code-automation)
 * [Nightwatch.js](https://nightwatchjs.org/)
