@@ -86,9 +86,9 @@ Not sure how to find the product that’s right for you? We’re here to help yo
         
         Amplify business and social impact by building lasting partnerships with the nonprofits most aligned to your organization and employees.
         
-    * [Unify Giving and Grantmaking](https://www.bonterratech.com/product/grants-management-software)
+    * [Scale Corporate Funding](https://www.bonterratech.com/product/grants-management-software)
         
-    * [Scale Corporate Funding](https://www.bonterratech.com/product/corporate-giving-software)
+    * [Unify Giving & Grantmaking](https://www.bonterratech.com/product/corporate-giving-software)
         
     * [Boost Employee Participation](https://www.bonterratech.com/product/employee-giving-software)
         
@@ -105,9 +105,9 @@ Not sure how to find the product that’s right for you? We’re here to help yo
     
 * **Maximize Impact of Your Programs**
     
-    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Go beyond standard case management with our portfolio of unified impact management platforms")
+    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Elevate your case management with our portfolio of unified impact management solutions")
         
-        Go beyond standard case management with our portfolio of unified impact management platforms
+        Elevate your case management with our portfolio of unified impact management solutions
         
     
 * **Connect With Causes You Care About**
@@ -138,7 +138,7 @@ Not sure how to find the product that’s right for you? We’re here to help yo
         
         View upcoming events, register for webinars, and watch on-demand recordings.
         
-    * [Training](https://www.everyaction.com/training)
+    * [Bonterra Academy](https://www.everyaction.com/training)
         
     
 * **By Topic**
@@ -249,9 +249,9 @@ Coffee talk with the PepsiCo Foundation
         
         Amplify business and social impact by building lasting partnerships with the nonprofits most aligned to your organization and employees.
         
-    * [Unify Giving and Grantmaking](https://www.bonterratech.com/product/grants-management-software)
+    * [Scale Corporate Funding](https://www.bonterratech.com/product/grants-management-software)
         
-    * [Scale Corporate Funding](https://www.bonterratech.com/product/corporate-giving-software)
+    * [Unify Giving & Grantmaking](https://www.bonterratech.com/product/corporate-giving-software)
         
     * [Boost Employee Participation](https://www.bonterratech.com/product/employee-giving-software)
         
@@ -266,9 +266,9 @@ Coffee talk with the PepsiCo Foundation
     
 * **Maximize Impact of Your Programs**
     
-    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Go beyond standard case management with our portfolio of unified impact management platforms")
+    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Elevate your case management with our portfolio of unified impact management solutions")
         
-        Go beyond standard case management with our portfolio of unified impact management platforms
+        Elevate your case management with our portfolio of unified impact management solutions
         
     
 * **Connect With Causes You Care About**
@@ -297,7 +297,7 @@ Coffee talk with the PepsiCo Foundation
         
         View upcoming events, register for webinars, and watch on-demand recordings.
         
-    * [Training](https://www.everyaction.com/training)
+    * [Bonterra Academy](https://www.everyaction.com/training)
         
     
 * **By Topic**
@@ -404,7 +404,7 @@ Find the Bonterra SLA that governs all Bonterra Products after January 1, 2024.
 
 Find the Bonterra Customer Support SLA that governs all Bonterra Products after January 1, 2024.
 
-[Review the Customer Support Service Level Agreement](https://www.everyaction.com/sites/default/files/2024-06/platinum_support_slas_v2.pdf)
+[Review the Customer Support Service Level Agreement](https://www.everyaction.com/sites/default/files/2024-07/premium_support_slas.pdf)
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
 
