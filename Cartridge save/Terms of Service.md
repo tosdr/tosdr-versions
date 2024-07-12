@@ -50,7 +50,7 @@
     Show all brands
     
 
-Show prices ex. VAT
+Show prices inc. VAT
 
 * Menu
 * Search
@@ -119,7 +119,7 @@ Payment, unless otherwise specifically agreed in writing between the seller and 
 
 In general any dealings which the seller may enter into, including any contracts for the supply of goods which may subsequently be entered into, with other parties including buyers shall be contracted by the conditions 1 to 9 above mentioned. In addition, the seller will ensure that no condition which the buyer may seek to impose on any subsequent contract between buyer and seller conflicts with any of the previous conditions under which the seller operates. Should such conflicts be discovered subsequent to the commencement of a contract then the seller reserves the right to terminate without further notice any such agreement, in which case the seller will have no liability in respect of any losses or damage or expenses arising therefrom.
 
-### Intellectual Property
+### 11\. INTELLECTUAL PROPERTY
 
 TO THE FULLEST EXTENT PERMITTED AT LAW, Cartridge Save IS PROVIDING THIS WEB SITE AND ITS CONTENTS ON AN "AS IS" BASIS AND MAKES NO (AND EXPRESSLY DISCLAIMS ALL) REPRESENTATIONS OR WARRANTIES OF ANY KIND WITH RESPECT TO THIS WEB SITE OR ITS CONTENTS INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN ADDITION, Cartridge Save DOES NOT REPRESENT OR WARRANT THAT THE INFORMATION ACCESSIBLE VIA THIS WEB SITE IS ACCURATE, COMPLETE OR CURRENT.
 
