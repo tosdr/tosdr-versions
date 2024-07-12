@@ -107,7 +107,7 @@ Please read this Agreement carefully before accessing or using the Platform. By 
 
 © Copyright 2023 iNaturalist. All rights reserved.
 
-Revised on July 11, 2023 06:23 PM by [![carrieseltzer](https://static.inaturalist.org/attachments/users/icons/7580/mini.jpg?1690990943 "carrieseltzer")](https://www.inaturalist.org/users/7580) [carrieseltzer](https://www.inaturalist.org/people/carrieseltzer "carrieseltzer")
+Revised on July 8, 2024 05:48 PM by [![tiwane](https://static.inaturalist.org/attachments/users/icons/28/mini.jpg?1655830738 "tiwane")](https://www.inaturalist.org/users/28) [tiwane](https://www.inaturalist.org/people/tiwane "tiwane")
 
 [About](https://www.inaturalist.org/pages/about)
 
