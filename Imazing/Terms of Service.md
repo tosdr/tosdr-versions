@@ -98,6 +98,7 @@ EN
     * [Español](https://imazing.com/es)
     * [Italiano](https://imazing.com/it)
     * [Português](https://imazing.com/pt)
+    * [Українська](https://imazing.com/uk)
     * [Pусский](https://imazing.com/ru)
     * [العربية](https://imazing.com/ar)
     * [中文](https://imazing.com/zh)
