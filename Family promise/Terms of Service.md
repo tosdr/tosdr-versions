@@ -18,7 +18,7 @@ M
 * [Get Involved](https://familypromise.org/get-involved/)
     * [Volunteer](https://familypromise.org/get-involved/volunteer/)
     * [Become a Partner](https://familypromise.org/who-we-are/partners/)
-    * [Join the Promise Guild](https://familypromise.org/donate-old-iframe/join-the-promise-guild/)
+    * [Join the Promise Guild](https://familypromise.org/donate/join-the-promise-guild/)
     * [Join Our Team](https://familypromise.org/get-involved/employment/)
 * [Who We Are](https://familypromise.org/who-we-are/)
     * [Story](https://familypromise.org/who-we-are/story/)
