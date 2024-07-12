@@ -16,15 +16,22 @@ Try Enhance Select hearing aids risk-free for 100 days. [Shop now](https://www.l
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
-![](/cdn-cgi/image/width=3840,quality=10,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
-
 Previous
+
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
+
+New
+
+It’s your hearing. Let’s make the most of it.
+---------------------------------------------
+
+The Select 500 has the **clearest** sound we offer in the **smallest** hearing aid we make.
+
+[Shop now](https://www.listenlively.com/product)
 
 Hear better with Jabra Enhance
 ==============================
@@ -40,18 +47,7 @@ sound, our most discreet design _Shop the Select 500_](https://www.listenlively.
 
 “Best if you're new to hearing aids”
 
-![](/cdn-cgi/image/width=3840,quality=80,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
-
-Meet the Select 500
--------------------
-
-The **smallest, clearest-sounding** hearing aid we offer. It’s your hearing. Make the most of it.
-
-[Shop now](https://www.listenlively.com/product)[Start your 100-day trial ›](https://www.listenlively.com/survey)
-
 Next
-
-![](/cdn-cgi/image/width=3840,quality=10,format=auto/_next/static/media/es500-carousel-desktop.af0828e4.jpg)
 
 What you get with Jabra Enhance Select
 --------------------------------------
@@ -87,7 +83,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3377 reviews)
+4.6 out of 5(3477 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -134,7 +130,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3377 reviews)
+4.6 out of 5(3477 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
