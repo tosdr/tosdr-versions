@@ -6,7 +6,7 @@ STANDARD-Datenschutzerklärung
 
 In dieser Datenschutzerklärung informieren wir Sie über unsere Verarbeitungstätigkeiten in unseren unterschiedlichen Produktkategorien. In unserer [Cookie-Erklärung](#cookie-policy) finden Sie außerdem Informationen zu den Datenverarbeitungen auf unserer Webseite. So sehen Sie auf einen Blick, welche Ihrer personenbezogenen Daten wir zu welchen Zwecken und aufgrund welcher Rechtsgrundlage verarbeiten.
 
-**Medienprivileg:** Da wir als Medium überwiegend redaktionelle Datenverarbeitungen durchführen, ist die DSGVO bei einem Großteil unserer Datenverarbeitungen nicht anwendbar, da diese unter das Medienprivileg fallen (siehe hierzu auch Punkt III. dieser Datenschutzerklärung).
+**Medienprivileg:** Da wir als Medium überwiegend redaktionelle Datenverarbeitungen durchführen, ist die DSGVO bei einem Großteil unserer Datenverarbeitungen nur eingeschränkt anwendbar, da diese unter das Medienprivileg fallen (siehe hierzu auch Punkt III. dieser Datenschutzerklärung).
 
 Anwendungsbereich und Kontakt
 -----------------------------
@@ -32,7 +32,7 @@ Mit **personenbezogenen Daten** sind Daten gemeint, anhand derer eine natürlich
 
 Die **Zweckbindung** ist das zentrale Grundprinzip des Datenschutzes. Dies bedeutet, dass Ihre Daten nur für einen bestimmten Zweck verarbeitet werden dürfen. Außerdem dürfen sie auch nur so lange verarbeitet werden, wie dieser Zweck besteht. Damit sind Datenverarbeitungen sowohl in ihrer Grundlage als auch in ihrer Dauer nur beschränkt möglich.
 
-Das Datenschutzrecht geht von einem Verbotsprinzip aus: Die Verarbeitung personenbezogener Daten ist grundsätzlich verboten. Rechtmäßig ist die Verarbeitung nur dann, wenn ein Erlaubnistatbestand zur Anwendung kommt. Hierfür kommen mehrere **Rechtsgrundlagen** in Betracht: Die Rechtsgrundlagen, die in der Praxis am häufigsten zur Anwendung kommen, sind die Vertragserfüllung, die Einwilligung und das berechtigte Interesse.
+Das Datenschutzrecht geht von einem Verbotsprinzip aus: Die Verarbeitung personenbezogener Daten ist grundsätzlich verboten. Rechtmäßig ist die Verarbeitung nur dann, wenn ein Erlaubnistatbestand zur Anwendung kommt. Hierfür kommen mehrere **Rechtsgrundlagen** in Betracht: Die Rechtsgrundlagen, die in der Praxis am häufigsten zur Anwendung kommen, sind die Vertragserfüllung, die Einwilligung und das berechtigte Interesse. Darüber hinaus gibt es eine eigene Rechtsgrundlage für Verarbeitungen zu journalistischen Zwecken (siehe hierzu auch Punkt III. dieser Datenschutzerklärung).
 
 **Vertragserfüllung:** Wenn die Verarbeitung Ihrer Daten Voraussetzung für die Erfüllung eines abgeschlossenen Vertrages ist, müssen wir diese Daten verarbeiten können. Dies ist etwa bei unseren Abonnementverträgen und bei unseren Verträgen über die Forennutzung der Fall.
 
@@ -69,7 +69,10 @@ Wir bieten Ihnen die Möglichkeit, den STANDARD online mit dem PUR-Abonnement au
 
 Zudem führen wir die folgenden Datenverarbeitungen auf unserer Webseite durch, die auf Ihrer **Einwilligung** beruhen:
 
+* Social Login: Im Zuge der Registrierung auf unserer Website können Sie sich auch dafür entscheiden, sich über Ihren bestehenden Account bei Google oder Apple zu authentifizieren. Wir erhalten von Google oder Apple Ihre E-Mail-Adresse. Informieren Sie sich näher dazu in den Datenschutzerklärungen von Google und Apple.
 * Browser-Notifications: Sie können Push-Notifications unserer Webseite über Ihren Browser abonnieren, und dort auch verwalten und wieder abbestellen. Über unsere Push-Benachrichtigungen erhalten Sie regelmäßig Informationen über die von Ihnen gewählten Themen aus unserem Nachrichtenangebot.
+* Leseliste: Sie können Ihre eigene Liste an Artikeln, die Sie später lesen möchten, erstellen und bearbeiten. Die Leseliste ist verknüpft mit Ihrer STANDARD-Registrierung. Die volle Funktionalität der Leseliste ist nur mit Smart-Abonnement verfügbar.
+* A/B-Tests: Zur Weiterentwicklung unseres Online-Angebots testen wir verschiedene Versionen unserer Webseite mit unterschiedlichen User:innen-Gruppen.
 * Personalisiertes Targeting: Um ein einheitliches Bild von unseren User:innen zu bekommen, und Vertragsbeziehungen besser verwalten zu können, führen wir Kund:innendaten aus unseren CRM-Datenbanken mit den Nutzungsdaten unserer Webseite zusammen. Dies nutzen wir auch um Sie gezielter auf unsere Produkte aufmerksam machen zu können, die Ihnen etwa mittels Pop-ups angezeigt werden. Hierzu führen wir auch gelegentlich Umfragen auf unserer Webseite durch.
 
 Sie können Ihre Einwilligung jederzeit widerrufen. Ein Widerruf berührt nicht die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zu Ihrem Widerruf erfolgten Verarbeitung.
@@ -117,7 +120,7 @@ Als [STANDARD Unterstützer:in](https://abo.derstandard.at/unterstuetzung/ "STAN
 
 **Datenkategorien:** Im Rahmen Ihres Online-Abonnements verarbeiten wir Ihre STANDARD-Registrierung (E-Mail und Passwort), die von Ihnen hinterlegten Zahlungsinformationen sowie eine eindeutige Kennung Ihres Endgeräts.
 
-**Zwecke:** Wir führen die folgenden Verarbeitungstätigkeiten durch, um Ihr Online-Abonnement abwickeln zu können. Die angeführten Verarbeitungen beruhen auf der **Vertragserfüllung** als Rechtsgrundlage.
+**Zwecke:** Wir führen die folgenden Verarbeitungstätigkeiten durch, um Ihr Online-Abonnement abwickeln zu können. Die angeführten Verarbeitungen beruhen auf der **Vertragserfüllung** als Rechtsgrundlage.
 
 * Verwaltung
 * Korrespondenz
@@ -125,9 +128,13 @@ Als [STANDARD Unterstützer:in](https://abo.derstandard.at/unterstuetzung/ "STAN
 * Reklamationsabwicklung
 * Buchhaltung
 
-**Empfänger:innen:** Die Daten werden auch durch die folgenden Empfänger:innen verarbeitet: unsere IT-Dienstleistenden gemäß der Bindung an unseren Auftrag und Unternehmen der STANDARD-Gruppe aufgrund des überwiegenden berechtigten Interesses an internen Verwaltungstätigkeiten. Darüber hinaus werden Ihre Daten für die Zwecke der Abrechnung an die abwickelnden Bankinstitute und Zahlungsdienstleistenden und für Buchhaltungszwecke gegebenenfalls an Inkassodienstleistende übergeben. In der Zusammenarbeit mit Zahlungsdienstleistenden arbeiten wir insbesondere mit PCI-zertifizierten Unternehmen zusammen.
+Wir führen die folgenden Verarbeitungstätigkeiten durch, um Ihnen die Abwicklung der Abonnementbestellung zu erleichtern. Die angeführten Verarbeitungen beruhen auf Ihrer **Einwilligung** als Rechtsgrundlage.
 
-**Dauer der Datenverarbeitung:** Sämtliche Daten aus dem Vertragsverhältnis werden bis zum Ablauf der steuerrechtlichen Aufbewahrungsfrist (sieben Jahre) gespeichert und danach gegebenenfalls bis zum Ablauf der Verjährungsfristen für potenzielle Rechtsansprüche (z.B. drei Jahre) aufbewahrt.
+* **Zahlungsdaten merken:** Im Zuge der Bestellung können Sie sich dafür entscheiden, die Zahlungsdaten für eine spätere Abo-Bestellung zu speichern.
+
+**Empfänger:innen:** Die Daten werden auch durch die folgenden Empfänger:innen verarbeitet: unsere IT-Dienstleistenden gemäß der Bindung an unseren Auftrag und Unternehmen der STANDARD-Gruppe aufgrund des überwiegenden berechtigten Interesses an internen Verwaltungstätigkeiten. Darüber hinaus werden Ihre Daten für die Zwecke der Abrechnung an die abwickelnden Bankinstitute und Zahlungsdienstleistenden und für Buchhaltungszwecke gegebenenfalls an Inkassodienstleistende übergeben. In der Zusammenarbeit mit Zahlungsdienstleistenden arbeiten wir insbesondere mit PCI-zertifizierten Unternehmen zusammen.
+
+**Dauer der Datenverarbeitung:** Sämtliche Daten aus dem Vertragsverhältnis werden bis zum Ablauf der steuerrechtlichen Aufbewahrungsfrist (sieben Jahre) gespeichert und danach gegebenenfalls bis zum Ablauf der Verjährungsfristen für potenzielle Rechtsansprüche (z.B. drei Jahre) aufbewahrt. Ihre Zahlungsdaten speichern wir während dieses Zeitraumes bis zum Widerruf Ihrer Einwilligung.
 
 ### D. Abonnement redaktioneller Newsletter
 
@@ -191,7 +198,7 @@ Wir führen die folgenden Verarbeitungstätigkeiten durch, um den Diskurs in uns
 * Diskursanalysen im öffentlichen Interesse
 * Forschung zu wirksamen Maßnahmen gegen Hass im Netz
 
-**Empfänger:innen:** Die Daten werden auch durch die folgenden Empfänger:innen verarbeitet: unsere IT-Dienstleistenden gemäß der Bindung an unseren Auftrag und Unternehmen der STANDARD-Gruppe aufgrund des überwiegenden berechtigten Interesses an internen Verwaltungstätigkeiten. Darüber hinaus haben wir laufende Kooperationen mit Forschungseinrichtungen. Die eingesetzten Artificial-Intelligence-Komponenten (wie etwa: „Foromat“, „De-Escalation-Bot“, „Sexismus-Classifier“ oder „Hate Speech Detector“) ermöglichen es, Postings durch semantische Analysen in verschiedenen Kategorien zu klassifizieren, wodurch die Forenmoderation schneller auf relevante Postings oder Entwicklungen in einem Diskurs aufmerksam wird. Hierbei wird kein personenbezogenes Profiling durchgeführt. Im Rahmen von Forschungsprojekten kommt es auch zu Datenübermittlungen an unsere jeweiligen Kooperationspartner:innen.
+**Empfänger:innen:** Die Daten werden auch durch die folgenden Empfänger:innen verarbeitet: unsere IT-Dienstleistenden gemäß der Bindung an unseren Auftrag und Unternehmen der STANDARD-Gruppe aufgrund des überwiegenden berechtigten Interesses an internen Verwaltungstätigkeiten. Darüber hinaus haben wir laufende Kooperationen mit Forschungseinrichtungen. Die eingesetzten Artificial-Intelligence-Komponenten (insb. „Foromat“) ermöglichen es, Postings durch semantische Analysen in verschiedenen Kategorien zu klassifizieren, wodurch die Forenmoderation schneller auf relevante Postings oder Entwicklungen in einem Diskurs aufmerksam wird. Hierbei wird kein personenbezogenes Profiling durchgeführt. Im Rahmen von Forschungsprojekten kommt es auch zu Datenübermittlungen an unsere jeweiligen Kooperationspartner:innen.
 
 **Dauer der Datenverarbeitung:** Unveröffentlichte Postings löschen wir nach einem Jahr. Zuerst veröffentlichte und von uns im Rahmen der Forenmoderation nachträglich offline gestellte Postings löschen wir nach drei Jahren. Diese Löschfristen richten sich nach der Zweckbindung und den Verjährungsfristen für potenzielle Rechtsansprüche.
 
@@ -220,7 +227,7 @@ Sie haben außerdem die Möglichkeit, sich auf unserer Immobilien- und Jobplattf
 
 **Empfänger:innen:** Die Daten werden auch durch die folgenden Empfänger:innen verarbeitet: unsere IT-Dienstleistenden gemäß der Bindung an unseren Auftrag und Unternehmen der STANDARD-Gruppe aufgrund des überwiegenden berechtigten Interesses an internen Verwaltungstätigkeiten.
 
-**Dauer der Datenverarbeitung:** Wenn Sie entgeltliche Inserate bei uns schalten, werden sämtliche Daten aus dem Vertragsverhältnis bis zum Ablauf der steuerrechtlichen Aufbewahrungsfrist (sieben Jahre) gespeichert und danach gegebenenfalls bis zum Ablauf der Verjährungsfristen für potenzielle Rechtsansprüche (z.B. drei Jahre) aufbewahrt. Wenn Sie als Privatkund:in unentgeltliche Inserate bei uns schalten, werden diese Daten nach 2 Jahren gelöscht. Ihre Registrierung auf unserer Immobilien- oder Jobplattform wird nach 2 Jahren Inaktivität gelöscht. Wenn Sie unsere Immobilien- oder Jobplattform verwenden oder Suchagenten bei uns einstellen, bewahren wir Ihre Daten für die Dauer von drei Monaten auf.
+**Dauer der Datenverarbeitung:** Wenn Sie entgeltliche Inserate bei uns schalten, werden sämtliche Daten aus dem Vertragsverhältnis bis zum Ablauf der steuerrechtlichen Aufbewahrungsfrist (sieben Jahre) gespeichert und danach gegebenenfalls bis zum Ablauf der Verjährungsfristen für potenzielle Rechtsansprüche (z.B. drei Jahre) aufbewahrt. Wenn Sie als Privatkund:in unentgeltliche Inserate bei uns schalten, werden diese Daten nach zwei Jahren gelöscht. Ihre Registrierung auf unserer Immobilien- oder Jobplattform wird nach zwei Jahren Inaktivität gelöscht. Wenn Sie unsere Immobilien- oder Jobplattform verwenden oder Suchagenten bei uns einstellen, bewahren wir Ihre Daten für die Dauer von drei Monaten auf.
 
 ### H. Anzeigenschaltungen
 
@@ -275,11 +282,19 @@ Wir führen regelmäßig **Gewinnspiele** durch und bieten diese auch in Koopera
 III. Verarbeitungstätigkeiten in unserer Redaktion
 --------------------------------------------------
 
-Hinsichtlich unserer redaktionellen Tätigkeiten zu journalistischen Zwecken überwiegen die Grundrechte auf Meinungsäußerungsfreiheit und Informationsfreiheit Ihr Recht auf Privatsphäre. Aus diesem Grund finden Ihre Rechte auf Löschung, Auskunft und Berichtigung sowie Ihre Rechte auf Einschränkung der Verarbeitung, Datenportabilität und Widerspruch auf unsere redaktionellen Inhalte grundsätzlich keine Anwendung. Medienrechtliche Regelungen bleiben hiervon unberührt.
+### A. Redaktionelle Verarbeitungen
 
-Betroffene können von Suchmaschinenbetreibern in bestimmten Fällen verlangen, dass bei Eingabe ihres Namens bestimmte Suchergebnisse oder Links nicht mehr als Suchtreffer aufscheinen. Redaktionelle Inhalte fallen unter den Schutz des datenschutzrechtlichen Medienprivilegs (§ 9 Abs 1 DSG), daher findet das "Recht auf Vergessenwerden" bei redaktionellen Artikeln keine Anwendung. Da uns als Medienunternehmen bei datenschutzrechtlichen Löschersuchen außerdem auch keine Verpflichtung trifft, Ihr Löschersuchen auch an Dritte weiterzuleiten, möchten wir Sie bitten sich mit Ihrem Löschersuchen direkt an die gängigen Suchmaschinenbetreiber (insbesondere [Google](https://reportcontent.google.com/forms/rtbf "Google"), [Yahoo](https://io.help.yahoo.com/contact/index?page=contactform&locale=de_DE&token=Zh%2FBBVqXzLHlIbokbUqVWTUbuuQeXGkGjaQoOBfekYbh41COhGk655mERAL2EiKOwRHsi9MBYAa5KzSh8fwT%2Bv83y4ngb4OrA5j3k8wkDekuliQHSQEsEMsnKSfduNjasXPbylSqCU2ASRY7wDh5fw%3D%3D&selectedChannel=email-icon&yid= "Yahoo"), [Bing](https://www.bing.com/webmaster/tools/eu-privacy-request?setlang=de "Bing")) zu wenden.
+Hinsichtlich unserer redaktionellen Tätigkeiten besteht ein Spannungsverhältnis zwischen den Grundrechten auf Meinungsäußerungsfreiheit und Informationsfreiheit sowie Ihrem Recht auf Privatsphäre. Aus diesem Grund finden Ihre Rechte auf Löschung, Auskunft und Berichtigung sowie Ihre Rechte auf Einschränkung der Verarbeitung, Datenportabilität und Widerspruch auf unsere redaktionellen Inhalte eingeschränkt Anwendung (§ 9 Abs 1 DSG). Medienrechtliche Regelungen bleiben hiervon unberührt.
 
-Wenn Sie medienrechtliche Fragen oder Anliegen haben, wenden Sie sich bitte an [redaktion@derstandard.at](mailto:redaktion@derstandard.at).
+**Datenkategorien:** Im Rahmen unserer redaktionellen Tätigkeiten können folgende Daten verarbeitet werden: insb. Name, Adresse, E-Mail-Adresse sowie die Inhalte der Veröffentlichung, die auch die in Art. 9 Abs. 1 DSGVO genannten besonderen Kategorien personenbezogener Daten und Daten über strafrechtliche Verurteilungen umfassen können.
+
+**Zwecke:** Die redaktionellen Verarbeitungen werden zu **journalistischen Zwecken** als Rechtsgrundlage durchgeführt.
+
+**Empfänger:innen:** Die Daten werden durch die folgenden Empfänger:innen verarbeitet: unsere IT-Dienstleistenden gemäß der Bindung an unseren Auftrag und Unternehmen der STANDARD-Gruppe aufgrund des überwiegenden berechtigten Interesses an internen Verwaltungstätigkeiten. Außerdem verarbeiten wir im Zuge von Recherchekooperationen Daten gegebenenfalls gemeinsam mit anderen Medienhäusern.
+
+**Dauer der Datenverarbeitung:** Zur Bewahrung der Vollständigkeit unseres Pressearchivs können Artikel grundsätzlich nicht gelöscht werden. Da uns als Medienunternehmen bei datenschutzrechtlichen Löschersuchen außerdem auch keine Verpflichtung trifft, Ihr Löschersuchen auch an Dritte weiterzuleiten, möchten wir Sie bitten sich mit Ihrem Löschersuchen direkt an die gängigen Suchmaschinenbetreiber (insbesondere [Google](https://reportcontent.google.com/forms/rtbf), [Yahoo](https://io.help.yahoo.com/contact/index?page=contactform&locale=de_DE&token=Zh%2FBBVqXzLHlIbokbUqVWTUbuuQeXGkGjaQoOBfekYbh41COhGk655mERAL2EiKOwRHsi9MBYAa5KzSh8fwT%2Bv83y4ngb4OrA5j3k8wkDekuliQHSQEsEMsnKSfduNjasXPbylSqCU2ASRY7wDh5fw%3D%3D&selectedChannel=email-icon&yid=), [Bing](https://www.bing.com/webmaster/tools/eu-privacy-request?setlang=de)) zu wenden.
+
+### B. Hosting von redaktionellen Inhalten
 
 Um redaktionelle Inhalte im audiovisuellen Bereich zur Verfügung stellen zu können, nutzen wir Hosting-Plattformen. Weiters binden wir IT-Dienstleistende ein, um Ihnen das Teilen von redaktionellen Inhalten mittels Short-URL zu ermöglichen sowie Ihnen weitere redaktionelle Inhalte anbieten und empfehlen zu können.
 
@@ -298,20 +313,47 @@ Um redaktionelle Inhalte im audiovisuellen Bereich zur Verfügung stellen zu kö
 
 **Dauer der Datenverarbeitung:** Die Daten werden fallweise zur Durchführung von rein statistischen Analysen bis zu zwei Jahre aufbewahrt. Dabei handelt es sich nicht um personenbezogene Verarbeitungen.
 
+### C. Social Media-Seiten
+
+Wir veröffentlichen unsere redaktionellen Inhalte nicht nur auf unserer Website und in der Print-Ausgabe, sondern auch in sozialen Netzwerken. Dabei sind für die Verarbeitungen auf den Social Media-Plattformen teilweise wir, teilweise die Plattformen selbst verantwortlich. Bitte beachten Sie, dass wir trotz der gemeinsamen Verantwortlichkeit kaum Einfluss auf die Datenverarbeitungen der jeweiligen Plattformen haben.
+
+**Datenkategorien:** Dabei können folgende Daten verarbeitet werden: Benutzernamen in den jeweiligen sozialen Netzwerken, um mit den User:innen zu interagieren. Die diversen Nutzungsanalysen der Plattformen stehen uns nur aggregiert (und daher nicht personenbezogen) zur Verfügung.
+
+**Zwecke:** Wir führen diese Verarbeitungen zu **journalistischen Zwecken** als Rechtsgrundlage durch.
+
+* Teilen von journalistischen Inhalten
+* Interaktion mit den User:innen
+
+**Empfänger:innen:** Ihre Daten werden auch durch folgende Empfänger:innen verarbeitet: die jeweiligen Social Media-Plattformen gemäß der Bindung an unseren Auftrag sowie gemäß den Vereinbarungen, die Sie bei der Registrierung auf den jeweiligen Plattformen mit den Unternehmen abgeschlossen haben. Bitte informieren Sie sich weiterführend in den Datenschutzerklärungen der jeweiligen Plattformen.
+
 IV. Ihre Rechte
 ---------------
 
 Ihnen stehen grundsätzlich die folgenden Rechte zu:
 
 * **Auskunft:** Sie haben das Recht, von uns Auskunft darüber zu verlangen, wie Ihre Daten verwendet werden, und Sie können eine Kopie Ihrer durch uns verarbeiteten Daten anfordern. Die Ausübung Ihres Auskunftsrechts darf die Rechte anderer Personen nicht beeinträchtigen. Bei umfangreichen Datenverarbeitungen beschränken wir die Auskunft vorerst auf einen Ausschnitt davon, sofern das Auskunftsbegehren nicht explizit auf eben jene Datenverarbeitungen abzielt.
+* **Auskunft zu redaktionellen Datenverarbeitungen:** Sie haben das Recht, von uns Auskunft über redaktionelle Daten zu verlangen, auf deren Grundlage bereits eine Veröffentlichung erfolgt ist. In Ihrem Auskunftsersuchen ist die Veröffentlichung konkret zu bezeichnen, Ihre Betroffenheit individuell zu begründen und ein Nachweis über die Zahlung des Entgelts iHv € 9,- zu erbringen. Die Ausübung Ihres Auskunftsrechts darf weder die Rechte anderer Personen noch das datenschutzrechtliche Redaktionsgeheimnis oder die Meinungsäußerungs- und Informationsfreiheit unverhältnismäßig beeinträchtigen.
 * **Löschung:** Sie haben das Recht, die Löschung Ihrer Daten zu verlangen. Ihr Recht auf Löschung ist ausgeschlossen, soweit die Datenverarbeitung zur Ausübung der Rechte auf Meinungsäußerungsfreiheit und Informationsfreiheit erforderlich ist, die Daten aufgrund anderer Rechtsvorschriften noch länger aufzubewahren sind oder sonst ein Rechtsgrund zur weiteren Verarbeitung vorliegt.
 * **Berichtigung:** Sie haben das Recht, die Berichtigung Ihrer Daten zu verlangen. Dies schließt auch die Vervollständigung unvollständiger personenbezogener Daten mit ein.
-* **Datenportabilität:** Sie haben das Recht, jene Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen, maschinenlesbaren Format von uns zu erhalten, wenn die Verarbeitung auf Ihrer Einwilligung oder der Vertragserfüllung beruht und die Verarbeitung automatisiert erfolgt. In unserem Forum ist das Recht auf Datenportabilität ausgeschlossen, da die Rechte auf Meinungsäußerungsfreiheit und Informationsfreiheit diesem Recht diesfalls entgegenstehen.
 * **Einschränkung der Verarbeitung:** Falls Sie die Richtigkeit Ihrer von uns verarbeiteten Daten bestreiten oder Sie im Fall einer behaupteten unrechtmäßigen Datenverarbeitung von Ihrem Löschrecht keinen Gebrauch machen wollen, können Sie die Einschränkung der Verarbeitung verlangen. Sie haben auch die Möglichkeit, die eingeschränkte Weiterverarbeitung Ihrer Daten zu verlangen, wenn wir zwar Ihre Daten für unsere Zwecke nicht länger verarbeiten und daher an sich löschen würden, Sie Ihre Daten aber noch zur Ausübung von Rechtsansprüchen uns gegenüber benötigen.
+* **Löschung, Berichtigung und Einschränkung der Verarbeitung bei redaktionellen Inhalten:** Ihre Rechte auf Löschung, Berichtigung und Einschränkung der Verarbeitung finden bei redaktionellen Inhalten keine Anwendung, wenn die medienrechtlichen Bestimmungen dem Datenschutzrecht vorgehen. Betroffene können aber von Suchmaschinenbetreibern in bestimmten Fällen verlangen, dass bei Eingabe ihres Namens bestimmte Suchergebnisse oder Links nicht mehr als Suchtreffer aufscheinen. Wenden Sie sich damit bitte direkt an die gängigen Suchmaschinenbetreiber (insbesondere [Google](https://reportcontent.google.com/forms/rtbf), [Yahoo](https://io.help.yahoo.com/contact/index?page=contactform&locale=de_DE&token=Zh%2FBBVqXzLHlIbokbUqVWTUbuuQeXGkGjaQoOBfekYbh41COhGk655mERAL2EiKOwRHsi9MBYAa5KzSh8fwT%2Bv83y4ngb4OrA5j3k8wkDekuliQHSQEsEMsnKSfduNjasXPbylSqCU2ASRY7wDh5fw%3D%3D&selectedChannel=email-icon&yid=), [Bing](https://www.bing.com/webmaster/tools/eu-privacy-request?setlang=de)).
+* **Datenportabilität:** Sie haben das Recht, jene Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen, maschinenlesbaren Format von uns zu erhalten, wenn die Verarbeitung auf Ihrer Einwilligung oder der Vertragserfüllung beruht und die Verarbeitung automatisiert erfolgt.
 * **Widerruf Ihrer Einwilligung:** Wenn wir Ihre Daten auf der Grundlage Ihrer Einwilligung verarbeiten, können Sie diese Einwilligung jederzeit widerrufen. Der Widerruf Ihrer Einwilligung berührt nicht die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung.
 * **Widerspruch gegen die Verarbeitung:** Wenn wir Ihre Daten auf der Grundlage von berechtigten Interessen verarbeiten, können Sie jederzeit Widerspruch gegen die Verarbeitung einlegen. In diesem Fall sind wir gesetzlich angehalten, eine Interessenabwägung durchführen. Sollte diese Interessenabwägung ergeben, dass unsere berechtigten Interessen im jeweiligen Fall dennoch überwiegen, werden wir Ihren Widerspruch begründet zurückweisen.
 
 Bitte richten Sie Ihre datenschutzrechtlichen Anfragen an [datenschutz@derstandard.at](mailto:datenschutz@derstandard.at). Wenn Sie von Ihren Rechten Gebrauch machen wollen, bitten wir Sie aus Datensicherheitsgründen um den Nachweis Ihrer Identität mittels Ausweiskopie. Wenn Sie Ihre Einwilligung widerrufen wollen, wenden Sie sich bitte an [widerruf@derstandard.at](mailto:widerruf@derstandard.at).
+
+Wenn Sie Ihr Auskunftsrecht zu redaktionellen Inhalten in Anspruch nehmen möchten, dann überweisen Sie vor der Übermittlung des Auskunftsersuchens € 9,- an das folgende Konto:
+
+**Kontoinhaber:** STANDARD Verlagsgesellschaft m.b.H  
+**Bankinstitut:** Unicredit Bank Austria AG  
+**BIC:** BKAUATWW  
+**IBAN:** AT02 1200 0006 9723 7204  
+**Verwendungszweck:** Auskunftsersuchen § 9 DSG - Familienname  
+
+Im Verwendungszweck ist “Familienname” durch Ihren Familiennamen zu ersetzen.
+
+Bei der Übermittlung Ihres Auskunftsersuchens an [datenschutz@derStandard.at](mailto:datenschutz@derstandard.at) ist die konkrete Veröffentlichung zu bezeichnen, Ihre individuelle Betroffenheit zu begründen und die Zahlungsbestätigung beizulegen. Wir machen sie darauf aufmerksam, dass wir nur Auskunftsersuchen behandeln, die diesen Vorgaben vollinhaltlich nachkommen. Es besteht kein Anspruch auf Rücküberweisung der 9 Euro.
 
 Sie haben das Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche verletzt wurden, steht Ihnen die Datenschutzbehörde unter [www.dsb.gv.at](http://www.dsb.gv.at/) zur Verfügung.
 
@@ -403,8 +445,9 @@ Cookies werden grundsätzlich dazu verwendet, um zusätzliche Funktionen auf ein
 
 Wir nutzen Webanalyse-Dienste, um eine Analyse Ihrer Nutzung unserer Webseite zu ermöglichen. Wir verarbeiten Ihre Daten auf Grundlage Ihrer Zustimmung. Folgende Auftragsverarbeiter gem. Art. 28 DSGVO unterstützen uns bei diesen Verarbeitungen:
 
-* **Google Analytics, Tag Manager und Optimize**: Wir nutzen den Google Tag-Manager zur Verwaltung verschiedener Code-Snippets und Zählpixel (= Tags), Google Analytics zur Webanalyse und Google Optimize für die Durchführung von Webseitenexperimenten wie A/B-Tests. Wir setzen diese Google Services ausschließlich mit aktivierter IP-Anonymisierung ein: Ihre IP-Adresse wird vor der Übermittlung an Google durch uns anonymisiert und nur in anonymisierter Form an Google übermittelt und von Google in den USA verarbeitet. Informieren Sie sich näher in der [Datenschutzerklärung von Google](https://policies.google.com/privacy?hl=de).
+* **Google Analytics und Tag Manager**: Wir nutzen den Google Tag-Manager zur Verwaltung verschiedener Code-Snippets und Zählpixel (= Tags) und Google Analytics zur Webanalyse. Wir setzen diese Google Services ausschließlich mit aktivierter IP-Anonymisierung ein: Ihre IP-Adresse wird vor der Übermittlung an Google durch uns anonymisiert und nur in anonymisierter Form an Google übermittelt und von Google in den USA verarbeitet. Informieren Sie sich näher in der [Datenschutzerklärung von Google](https://policies.google.com/privacy?hl=de).
 * **ÖWA-Webanalyse**: Wir nutzen die Österreichische Webanalyse zur Reichweitenmessung der Nutzung unserer Online-Angebote. Diese Zählung und Prüfung durch einen Dritten (die ÖWA) garantiert unabhängig erhobene, geprüfte und damit vergleichbare Daten als Voraussetzung für den Werbeverkauf. Außerdem nutzen wir die Möglichkeit, mittels ÖWA-Umfragen auf unserer Webseite unsere Community besser kennenzulernen. ÖWA verwendet IP-Anonymisierung: Ihre IP-Adresse wird sofort nach der Übermittlung an ÖWA nur in anonymisierter Form verarbeitet. Informieren Sie sich näher in der [Datenschutzerklärung der ÖWA](http://www.oewa.at/datenschutzerklaerung).
+* **Smartocto:** Wir nutzen Smartocto, um die Nutzung unserer redaktionellen Inhalte zu analysieren und damit unser Angebot zu optimieren. Informieren Sie sich näher in der [Datenschutzerklärung von Smartocto.](https://smartocto.com/privacy/)
 * **Hotjar**: Wir nutzen Hotjar, um die Bedürfnisse unserer Community besser zu verstehen und das Angebot auf dieser Webseite zu optimieren. Das hilft uns, unser Angebot am Feedback unserer Community auszurichten. Ihre IP-Adresse wird nur in anonymisierter Form verarbeitet. Hotjar speichert diese Informationen in einem pseudonymisierten Profil. Informieren Sie sich näher in der [Datenschutzerklärung von Hotjar](https://www.hotjar.com/legal/policies/privacy).
 * **Piano**: Wir nutzen Piano als Dienstleister, um unsere Webseite interaktiv zu gestalten und nach einer bestimmten Anzahl von Interaktionen mit unseren Inhalten auch Pop-ups auszuspielen. Zur Optimierung der Pop-up-Ausspielung führt Piano Segmentierung und Reporting durch. Ihre IP-Adresse wird nach Ablauf einer Woche anonymisiert und dann nur in anonymisierter Form weiterverarbeitet. Informieren Sie sich näher in der [Datenschutzerklärung von Piano](https://piano.io/privacy-policy/).
 
@@ -414,7 +457,7 @@ Wir nutzen aus wirtschaftlichen Gründen die Möglichkeit, unsere Webseite Dritt
 
 * **LimeSurvey**: Um Werbung möglichst gut an die Bedürfnisse unserer User:innen anzupassen, erheben wir mittels Fragebögen Interessen und soziodemographische Eigenschaften. Dazu verwenden wir LimeSurvey zur Ausspielung von Fragebögen an unsere User:innen. Das anonymisiert erhobene Surfverhalten unserer Community wird mit den Informationen aus diesen Umfragen zu Lookalike-Profilen kombiniert. Die Verarbeitung in den Fragebögen von LimeSurvey findet ausschließlich in Deutschland statt. Informieren Sie sich näher in der [Datenschutzerklärung von LimeSurvey](https://www.limesurvey.org/de/datenschutzhinweise).
 * **Adition**: Wir nutzen Adition als Dienstleisterin zur Auslieferung von Werbung. Ihre IP-Adresse wird innerhalb von 48 Stunden nach der Übermittlung an Adition nur in anonymisierter Form verarbeitet. Adition verwendet für Datenverarbeitungen ausschließlich die Rechenzentren der Virtual Minds Gruppe in Deutschland. Informieren Sie sich näher in der [Datenschutzerklärung von Adition](https://www.adition.com/kontakt/datenschutz/).
-* **Google Ad Manager**: Wir nutzen auch Google zur Auslieferung von Werbung. Informieren Sie sich näher in der [Datenschutzinformation von Google Ad Manager](https://support.google.com/admanager/answer/9035987?hl=de).
+* **Google Ad Manager**: Wir nutzen auch Google zur Auslieferung von Werbung. Dabei verwenden wir die Google Publisher Provided Identifier (PPID). Die PPID ist ein anonymer Identifikator, der beim Frequency Capping, bei der Zielgruppensegmentierung, beim Zielgruppen-Targeting, bei der sequenziellen Anzeigenrotation und bei anderen Funktionen zur zielgruppenbasierten Anzeigenauslieferung auf beliebigen Geräten verwendet wird. Informieren Sie sich näher in der [Datenschutzinformation von Google Ad Manager](https://support.google.com/admanager/answer/9035987?hl=de).
 * **Piano**: Um Werbung nach Produktinteressen zu ermöglichen verwenden wir Piano für personalisiertes Targeting. Bei dieser Datenverarbeitung handelt es sich um Profiling. Ihre IP-Adresse wird nach Ablauf einer Woche nur in anonymisierter Form verarbeitet. Informieren Sie sich näher in der [Datenschutzinformation von Piano](https://piano.io/de/privacy-policy/).
 * **Meta**: Wir nutzen Meta als Werbesystemdienstleister in den Bereichen Immobilien und Jobs sowie auf finden.at, um Ihnen auf den von Meta betriebenen Plattformen für Sie maßgeschneiderte Werbeinformationen anzuzeigen und um festzustellen, ob User:innen durch eine Anzeige auf einer von Meta betriebenen Plattform auf unsere Webseite gelangt ist und eine Anfrage oder Bewerbung abgesendet hat. Die durch die eingesetzen Cookies erzeugten Informationen werden auf die Server von Meta in der Europäischen Union (Irland) als auch in die USA übertragen und dort gespeichert. Informieren Sie sich näher in der [Datenschutzinformation von Meta](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0).
 
@@ -472,7 +515,7 @@ Bitte beachten Sie, dass gerade bei in Cookies regelmäßig verarbeiteten Daten 
 
 Sie haben das **Recht auf Beschwerde** bei der zuständigen Aufsichtsbehörde. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche verletzt wurden, steht Ihnen die Datenschutzbehörde unter [www.dsb.gv.at](http://www.dsb.gv.at/) zur Verfügung.
 
-Zuletzt aktualisiert am 11.12.2023
+Zuletzt aktualisiert am 1.07.2024
 
 Anhang — Cookies, die auf den Webseiten der STANDARD Verlagsgesellschaft m. b. H. verarbeitet werden
 ----------------------------------------------------------------------------------------------------
@@ -726,7 +769,7 @@ Wenn unsere Produkte in der Werbeversion verwendet werden, werden zusätzlich zu
 | \_hjMinimizedPolls | Dieser Cookie wird gesetzt, wenn Sie das Hotjar Feedback-Umfrage-Widget minimieren. Es dient dazu sicherzustellen, dass das Widget minimiert bleibt, solange Sie auf der Seite navigieren. | 1 Jahr |
 | \_hjIncludedInSample | Dieser Cookie wird gesetzt, um Hotjar wissen zu lassen, ob Sie einer ausgewählten Gruppe angehören, die dazu dient, Funnels zu generieren. Ein Funnel ist der Weg, den Sie auf der Seite zurücklegen, bis Sie einen von uns als Ziel definierten Punkt erreichen. | 1 Jahr |
 | \_hjid | Dieser Cookie wird gesetzt, wenn ein:e User:in zum ersten Mal auf einer Seite landet wo das Hotjar Skript implementiert ist. Es dient zur Identifizierung von User:innen auf der Seite. Das Cookie dient dazu das Verhalten in aufeinanderfolgenden Besuchen derselben ID zuzuordnen. | 1 Jahr |
-| \_hjSessionBenutzer\_{site\_id} | Dieser Cookie wird gesetzt, wenn ein Benutzer zum ersten Mal eine Seite aufruft. Speichert die Hotjar-Benutzer-ID, die für diese Seite eindeutig ist. Hotjar verfolgt Benutzer nicht über verschiedene Websites hinweg. | 1 Jahr |
+| \_hjSessionBenutzer\_{site\_id} | Dieser Cookie wird gesetzt, wenn ein Benutzer zum ersten Mal eine Seite aufruft. Speichert die Hotjar-Benutzer-ID, die für diese Seite eindeutig ist. Hotjar verfolgt Benutzer nicht über verschiedene Websites hinweg. | 1 Jahr |
 | \_hjAbsoluteSessionInProgress | Dieser Cookie wird verwendet, um den ersten Seitenaufruf eines Benutzers bezogen auf die Sitzung zu erkennen. Wird bei Benutzeraktivität verlängert. | 30 Minuten |
 | \_hjFirstSeen | Dieser Cookie identifiziert die erste Sitzung eines neuen Benutzers. Wird bei Benutzeraktivität verlängert. | 30 Minuten |
 | \_hjSession | Dieser Cookie enthält die aktuellen Sitzungsdaten. Stellt sicher, dass nachfolgende Anfragen im Sitzungsfenster der gleichen Sitzung zugeordnet werden. | 30 Minuten |
@@ -779,6 +822,32 @@ Wenn unsere Produkte in der Werbeversion verwendet werden, werden zusätzlich zu
 | cX\_G | Dieser Cookie speichert eine globale Piano ID, um ein Userprofil über mehrere Seiten erstellen zu können. | 13 Monate |
 | cX\_S | Dieser Cookie speichert die Session-ID für die Piano DMP. | Session |
 | cX\_cons | Dieser Cookie speichert die Zustimmung zu den Consent-Klassen in der Piano DMP. | Permanent |
+
+##### Smartocto
+
+|     |     |     |
+| --- | --- | --- |Analyse-Cookies
+| Cookie | Beschreibung | Lebensdauer |
+| --- | --- | --- |
+| \_sotmpid | Dieser Cookie wird zur Unterscheidung von User:innen verwendet. | 2 Jahre |
+| \_sotmsid | Dieser Cookie speichert eine Session ID. | Session |
+| Sotm-event | Dieser Pixel wird zur Auswertung von Daten über Seitenaufrufe verwendet. | Session |
+| Tentacles\_activefilter | Dieser Cookie wird für active filter bei der Verwendung von der Extension Smartocto Tentacles verwendet. | Permanent |
+| tentacles\_brand\_\[visited domain\] | Dieser Cookie speichert bestimmte Einstellungen für Tentacles. | Permanent |
+| tentacles\_currentHostname | Dieser Cookie speichert bestimmte Einstellungen für Tentacles. | Permanent |
+| tentacles\_basePaths | Dieser Cookie speichert bestimmte Einstellungen für Tentacles. | Permanent |
+| tentacles-deskvisible | Dieser Cookie speichert für Tentacles, ob das Dock sichtbar ist. | Permanent |
+| Tentacles-dockside | Dieser Cookie speichert für Tentacles,wo das Dock positioniert ist. | Permanent |
+| Tentacles\_mystoriesfilter | Dieser Cookie speichert für Tentacles, ob my Stories anwendbar ist. | Permanent |
+| tentacles\_domainregex | Dieser Cookie wird zur Erkennung von Inhalten auf der Seite verwendet. | Permanent |
+| tentacles\_domainsearchpath | Dieser Cookie wird zur Erkennung von Inhalten auf der Seite verwendet. | Permanent |
+| tentacles\_linkClick | Dieser Cookie speichert die URL, wenn sie angeklickt wird. | Permanent |
+| tentacles\_showranking | Dieser Cookie speichert Einstellungen zur Anzeige eines Rankings. | Permanent |
+| tentacles\_urls | Dieser Cookie wird zur Anzeige von Inhalten auf der Seite verwendet. | Permanent |
+| tentacles\_urls\_time | Dieser Cookie wird zur Anzeige von Inhalten auf der Seite verwendet. | Permanent |
+| tentacles\_user\_id | Dieser Cookie wird zur Unterscheidung von User:innen verwendet. | Permanent |
+| tentaclesEnabled | Dieser Cookie speichert bestimmte Einstellungen für Tentacles. | Permanent |
+| tentacles\_reading\_time | Dieser Cookie wird für die Verarbeitung der Lesezeit verwendet. | Permanent |
 
 Anhang — Verarbeitungstätigkeiten Dritter
 -----------------------------------------
@@ -913,6 +982,7 @@ Wir schließen mit all unseren Geschäftspartner:innen Verträge, in denen wir s
 
 #### Unsere programmatischen Kooperationspartner:innen:
 
+* ConnectAd: [Datenschutzerklärung ConnectAd](https://www.connectadrealtime.com/privacy)
 * Criteo: [Datenschutzerklärung Criteo](https://www.criteo.com/privacy/)
 * Google Ad Exchange: [Datenschutzerklärung Google Ad Exchange](https://policies.google.com/technologies/partner-sites)
 * Improve Digital: [Datenschutzerklärung Improve Digital](http://www.improvedigital.com/platform-privacy-policy)
