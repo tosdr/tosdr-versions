@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
-* [Congress wants to restore nukes on conventional B-52 bombers](https://www.defensenews.com/air/2024/06/18/congress-wants-to-restore-nukes-on-conventional-b-52-bombers/)  
-    06/18/24 03:34pm  
+* [Pentagon to accept deliveries of Lockheed F-35s after yearlong pause](https://www.defensenews.com/air/2024/07/11/pentagon-to-accept-deliveries-of-lockheed-f-35s-after-year-long-pause/)  
+    07/11/24 04:16pm  
     
-    A B-52 Stratofortress assigned to the 2nd Bomb Wing at Barksdale Air Force Base, La., takes off in support of a Bomber Task Force mission from Navy Support Facility, Diego Garcia, March 26, 2024. Congress is moving to restore the ability to carry and release nuclear weapons from about 30 B-52s, which were converted to only carry conventional weapons as part of the New START treaty. (Master Sgt. Staci Kasischke/Air Force)
+    An F-35A Lightning II performs a strafing run over Barry M. Goldwater Range, Ariz., April 24, 2024. The F-35 program has decided to accept the newest jets with a partial version of the software powering its latest upgrades, and deliveries could resume this month. (Airman 1st Class Mason Hargrove/Air Force)
     
-* [How many F-35s to buy? Draft defense bills disagree](https://www.defensenews.com/air/2024/06/17/how-many-f-35s-to-buy-draft-defense-bills-disagree/)  
-    06/17/24 03:40pm  
+* [Sixth-gen jet selection likely in ‘24, Air Combat Command chief says](https://www.defensenews.com/air/2024/07/11/sixth-gen-jet-selection-likely-in-24-air-combat-command-chief-says/)  
+    07/11/24 03:26pm  
     
-    Two F-35s from Hill Air Force Base, Utah, return to base after participating in a competition at the Savannah Air National Guard base in Savannah, Ga., on Sept. 15, 2023. (Senior Airman Zachary Rufus/U.S. Air Force)
+    The Air Force still plans to award an engineering and manufacturing development contract for the Next Generation Air Dominance family of systems this year, the head of Air Combat Command said Wednesday. His comments came after NGAD's high cost and looming tight budgets have prompted the Air Force to look for ways to rethink the family of systems and bring its price down. (File)
     
-* [No 30-year-old drone wingmen: US Air Force eyes regular CCA overhauls](https://www.defensenews.com/air/2024/06/15/no-30-year-old-drone-wingmen-us-air-force-eyes-regular-cca-overhauls/)  
-    06/14/24 11:49pm  
+* [Slovakia’s F-16 top-up plans reopen political battles over Ukraine aid](https://www.defensenews.com/global/europe/2024/07/11/slovakias-f-16-top-up-plans-reopen-political-battles-over-ukraine-aid/)  
+    07/11/24 07:39am  
     
-    A conceptual design of low-cost, attritable drones serving as wingmen for a crewed fighter jet. (U.S. Air Force)
+    A U.S. Air Force instructor pilot conducts an F-16 training sortie over White Sands Missile Range, New Mexico, Aug. 22, 2023. (Master Sgt. Roidan Carlson/Air Force)
     
-* [Romania launches expansion of air base near Ukraine](https://www.defensenews.com/global/europe/2024/06/13/romania-launches-expansion-of-air-base-near-ukraine/)  
-    06/13/24 04:50pm  
+* [F-16s to be ‘flying in the skies of Ukraine this summer,’ US says](https://www.defensenews.com/air/2024/07/10/f-16s-to-be-flying-in-the-skies-of-ukraine-this-summer-us-says/)  
+    07/10/24 12:16pm  
     
-    A Eurofighter Typhoon with the British Royal Air Force takes off at the Mihail Kogalniceanu Air Base in Romania. (Elisabeth Gosselin-Malo/Staff)
+    U.S. Air Force F-16 Fighting Falcons taxi at Kunsan Air Base, South Korea, on Dec. 13, 2023. (Tech. Sgt. Emili Koonce/U.S. Air Force)
     
 
 Recent parts by keyword  
 
-* [AP4500](https://aerobasegroup.com/search/?term=AP4500)
-* [l43418](https://aerobasegroup.com/search/?term=l43418)
-* [33c](https://aerobasegroup.com/search/?term=33c)
-* [nasm970](https://aerobasegroup.com/search/?term=nasm970)
-* [ms24667-32](https://aerobasegroup.com/search/?term=ms24667-32)
-* [pr-1664d](https://aerobasegroup.com/search/?term=pr-1664d)
-* [kw205s-dp](https://aerobasegroup.com/search/?term=kw205s-dp)
+* [h306](https://aerobasegroup.com/search/?term=h306)
+* [bacr15ft6d](https://aerobasegroup.com/search/?term=bacr15ft6d)
+* [ms20470b3-3](https://aerobasegroup.com/search/?term=ms20470b3-3)
+* [1370-l598](https://aerobasegroup.com/search/?term=1370-l598)
+* [nmc-cl141n2](https://aerobasegroup.com/search/?term=nmc-cl141n2)
+* [nmc-cl141n](https://aerobasegroup.com/search/?term=nmc-cl141n)
+* [nmc-cl](https://aerobasegroup.com/search/?term=nmc-cl)
 
 The AeroBase Group Family ..
 
