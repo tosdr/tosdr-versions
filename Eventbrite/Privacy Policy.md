@@ -13,7 +13,7 @@ Help Center](https://www.eventbrite.com/help/en-us/)
 Eventbrite Privacy Policy
 =========================
 
-Last Updated: February 9, 2024
+Last Updated: June 26th, 2024
 
 To learn more about Eventbrite's Legal Terms, take a look [here](https://www.eventbrite.com/l/LegalTerms).
 
@@ -180,7 +180,7 @@ In addition, if you are a member of Facebook (or another social media platform),
 
 e. Third party services and integrations.
 
-Eventbrite may provide you with opportunities to contract directly with third parties, and/or to integrate with third party services or applications, through our platform. In such instances, we will disclose your Personal Data to other entities in order to fulfill a request by you, or to provide services you have requested.
+Eventbrite may provide you with opportunities to contract directly with third parties, to integrate with third party services or applications through our platform, and/or to access Eventbrite’s Services through certain third party services. In such instances, we will disclose your Personal Data to other entities in order to fulfill a request by you, or to provide services you have requested. If you access Eventbrite via a third-party service, we may disclose information to those services, including information about your purchase or checkout activity, for reporting purposes.
 
 5.7 Legal Requirements.
 
@@ -339,9 +339,9 @@ However, if you register for an event as a Consumer, we will process your Person
 17-18
 -----
 
-17\. CALIFORNIA, VIRGINIA, COLORADO, CONNECTICUT,  UTAH, and NEVADA RESIDENTS ONLY.
+17\. RESIDENTS OF CERTAIN STATES
 
-If you are a resident of California, Virginia, Colorado, Connecticut, Utah or Nevada, we provide additional information about our information practices and you may have certain rights with respect to your information. For more information, please see the State-Specific Supplemental Privacy Notices [here](https://www.eventbrite.com/help/en-us/articles/212596/supplemental-privacy-notice-for-california-residents/). 
+If you are a resident of a state that has implemented a law that provides you with additional rights regarding your personal data including California, Virginia, Colorado, Connecticut, Utah or Nevada, we provide additional information about our information practices and you may have certain rights with respect to your information. For more information, please see the State-Specific Supplemental Privacy Notices [here](https://www.eventbrite.com/help/en-us/articles/212596/supplemental-privacy-notice-for-california-residents/supplemental-privacy-notice-for-california-residents/).
 
 18\. BRAZIL ONLY.
 
