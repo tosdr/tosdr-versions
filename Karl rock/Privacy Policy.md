@@ -123,7 +123,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [January 31, 2020](https://blog.karlrock.com/can-indians-visit-pakistan-full-pakistan-india-visa-guide/)
-* [76 Comments on Can Indians Visit Pakistan? Full Pakistan/India VISA Guide](https://blog.karlrock.com/can-indians-visit-pakistan-full-pakistan-india-visa-guide/#comments)
+* [78 Comments on Can Indians Visit Pakistan? Full Pakistan/India VISA Guide](https://blog.karlrock.com/can-indians-visit-pakistan-full-pakistan-india-visa-guide/#comments)
 * Sticky post
 
 ![Can Indians Visit Pakistan? How to Get a Visa for Pakistan?](https://blog.karlrock.com/wp-content/uploads/2019/12/Can-Indians-Visit-Pakistan.jpg)
@@ -177,6 +177,67 @@ The Most Authentic Old Dehli Style Chole Bhature Recipe. Photo by Rishabh Mathur
 If you’ve read the best places in Delhi to eat Chole Bhature then you know I’m crazy about this delicious savoury and spicy quintessential Delhi dish. Some days I’d eat it for breakfast, lunch and dinner. The best Chole Bhature restaurants keep their recipe a guarded secret. Their unique recipe is the reason for their success. I \[…\]
 
 * Tags [Indian Food](https://blog.karlrock.com/tag/indian-food/), [Recipe](https://blog.karlrock.com/tag/recipe/), [Street Food](https://blog.karlrock.com/tag/street-food/), [Vegetarian](https://blog.karlrock.com/tag/vegetarian/)
+
+* * *
+
+Categories
+
+[Europe](https://blog.karlrock.com/category/europe/)
+
+[Accused of Pooping in the Shower? How to Contest Fake Hotel Fees!](https://blog.karlrock.com/how-to-contest-fake-hotel-fees/)
+------------------------------------------------------------------------------------------------------------------------------
+
+* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
+* Post date [July 12, 2024](https://blog.karlrock.com/how-to-contest-fake-hotel-fees/)
+* [No Comments on Accused of Pooping in the Shower? How to Contest Fake Hotel Fees!](https://blog.karlrock.com/how-to-contest-fake-hotel-fees/#respond)
+
+![The hotel where this happened](https://blog.karlrock.com/wp-content/uploads/2024/07/hotel-Outside-1200x675.jpeg)
+
+Travelling should be a joyous experience, but that wasn’t the case with my parent’s stay in Budapest! I’ll walk you through their disgusting ordeal at a hotel in Budapest and tell you exactly how I got them a refund. Who pooped in the hotel shower? After checking out and boarding a train to Vienna, my \[…\]
+
+* Tags [Europe](https://blog.karlrock.com/tag/europe/), [Hotels](https://blog.karlrock.com/tag/hotels/), [Scams](https://blog.karlrock.com/tag/scams/), [Travel](https://blog.karlrock.com/tag/travel/)
+
+* * *
+
+Categories
+
+[Legal](https://blog.karlrock.com/category/legal/)
+
+[What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/)
+------------------------------------------------------------------------------------------------------------------------------
+
+* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
+* Post date [July 1, 2024](https://blog.karlrock.com/what-do-lawyers-in-india-charge/)
+* [No Comments on What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/#respond)
+
+![The Tis Hazari Court Complex in New Delhi, India.](https://blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India-1200x675.jpeg)
+
+Lawyers and their offices at the New Delhi's Tis Hazari Court in India.
+
+When I first needed legal advice in India, I was totally overwhelmed by all the different fees and the lack of clear information. After several consultations and hiring different lawyers, I’ve learnt a lot about how lawyers charge in India. In this post, I’ll share how and what lawyers charge to help make this daunting \[…\]
+
+* Tags [Courts](https://blog.karlrock.com/tag/courts/), [India](https://blog.karlrock.com/tag/india/), [Law](https://blog.karlrock.com/tag/law/), [Lawyers](https://blog.karlrock.com/tag/lawyers/)
+
+* * *
+
+Categories
+
+[Legal](https://blog.karlrock.com/category/legal/)
+
+[How to Hire a Lawyer in India (and Not Get Scammed!)](https://blog.karlrock.com/how-to-hire-a-lawyer-in-india/)
+----------------------------------------------------------------------------------------------------------------
+
+* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
+* Post date [June 27, 2024](https://blog.karlrock.com/how-to-hire-a-lawyer-in-india/)
+* [No Comments on How to Hire a Lawyer in India (and Not Get Scammed!)](https://blog.karlrock.com/how-to-hire-a-lawyer-in-india/#respond)
+
+![Karl Rock trying to hire a lawyer in India.](https://blog.karlrock.com/wp-content/uploads/2024/06/How-to-Hire-a-Lawyer-in-India-1200x675.jpeg)
+
+Me trying to navigate the Tis Hizari Court Complex in India.
+
+Navigating the legal landscape in a foreign country is daunting and stressful, especially in a diverse and complex country like India. I know; I live here and have had my fair share of legal issues. Whether you’re dealing with business matters, trying to get married, immigration issues such as blacklisting, or personal legal matters, hiring \[…\]
+
+* Tags [Courts](https://blog.karlrock.com/tag/courts/), [Immigration](https://blog.karlrock.com/tag/immigration/), [India](https://blog.karlrock.com/tag/india/), [Law](https://blog.karlrock.com/tag/law/), [Lawyers](https://blog.karlrock.com/tag/lawyers/)
 
 * * *
 
@@ -260,20 +321,20 @@ False music copyright claims are rampant on Facebook, so in this post, I’ll sh
 
 Categories
 
-[Blacklist](https://blog.karlrock.com/category/blacklist/)
+[Blacklist](https://blog.karlrock.com/category/blacklist/) [Legal](https://blog.karlrock.com/category/legal/)
 
 [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/)
 ----------------------------------------------------------------------------------------------
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [November 21, 2023](https://blog.karlrock.com/how-to-get-off-indias-blacklist/)
-* [2 Comments on How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/#comments)
+* [4 Comments on How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/#comments)
 
 ![Karl Rock's announcement on why he's been blacklisted by the Government of India](https://blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist-1200x675.jpg)
 
 In October 2020, I was added to India’s blacklist and couldn’t return to my wife and family in India until it expired 500 days later. In this post, I’ll cover exactly what India’s blacklist is and everything I did to try to get removed from it. The following information is to the best of my \[…\]
 
-* Tags [Blacklist](https://blog.karlrock.com/tag/blacklist/), [India](https://blog.karlrock.com/tag/india/)
+* Tags [Blacklist](https://blog.karlrock.com/tag/blacklist/), [Courts](https://blog.karlrock.com/tag/courts/), [India](https://blog.karlrock.com/tag/india/), [Law](https://blog.karlrock.com/tag/law/), [Legal](https://blog.karlrock.com/tag/legal/)
 
 * * *
 
@@ -305,70 +366,13 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [August 22, 2023](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/)
-* [2 Comments on Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/#comments)
+* [7 Comments on Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/#comments)
 
 ![Karl Rock and his Royal Enfield Himalayan outside the Golden Temple in Amritsar, India.](https://blog.karlrock.com/wp-content/uploads/2023/08/img_9105-1200x900.jpg)
 
 I wanted to take my Indian-bought and registered Royal Enfield Himalayan motorcycle to Pakistan via the Attari-Wagah border. So I rode to the Attari-Wagah border Customs office to find out if it was possible because there was no information online! Here is what I found out… Can you take an Indian-bought vehicle to Pakistan? The \[…\]
 
 * Tags [India](https://blog.karlrock.com/tag/india/), [Motorcycle](https://blog.karlrock.com/tag/motorcycle/), [Pakistan](https://blog.karlrock.com/tag/pakistan/), [Royal Enfield](https://blog.karlrock.com/tag/royal-enfield/)
-
-* * *
-
-Categories
-
-[Motorcycle Travel](https://blog.karlrock.com/category/motorcycle-travel/)
-
-[How to Take a Motorcycle on a Train in India (Real Experience Guide!)](https://blog.karlrock.com/how-to-take-a-motorcycle-on-a-train-in-india/)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
-* Post date [June 13, 2023](https://blog.karlrock.com/how-to-take-a-motorcycle-on-a-train-in-india/)
-* [5 Comments on How to Take a Motorcycle on a Train in India (Real Experience Guide!)](https://blog.karlrock.com/how-to-take-a-motorcycle-on-a-train-in-india/#comments)
-
-![](https://blog.karlrock.com/wp-content/uploads/2023/06/img_8230-1200x900.jpg)
-
-Travelling with your motorcycle in India isn’t fun or simple, and chances are your bike will, at minimum, sustain some scratches. Still, it’s a cost-effective way to beat the summer heat when returning from a ride in the Himalayas. In this post, I’ll show you exactly how I took my motorcycle on an 8.5 hour \[…\]
-
-* Tags [India](https://blog.karlrock.com/tag/india/), [Motorbike](https://blog.karlrock.com/tag/motorbike/), [Motorcycle](https://blog.karlrock.com/tag/motorcycle/), [Royal Enfield](https://blog.karlrock.com/tag/royal-enfield/), [Trains](https://blog.karlrock.com/tag/trains/)
-
-* * *
-
-Categories
-
-[Dubai](https://blog.karlrock.com/category/dubai/)
-
-[How to Buy Gold in Dubai & Check It’s REAL!](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/)
---------------------------------------------------------------------------------------------------------------
-
-* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
-* Post date [April 26, 2023](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/)
-* [1 Comment on How to Buy Gold in Dubai & Check It’s REAL!](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/#comments)
-
-![Dubai Gold Souk Entrance](https://blog.karlrock.com/wp-content/uploads/2023/04/Dubai-Gold-Souk-Entrance-1200x675.jpg)
-
-Dubai is known for its luxurious shopping experiences, and one of the most sought-after items is gold jewellery. But with so many stores selling gold, it can be overwhelming to know where to buy and how to ensure that the gold is genuine. In this post, I’ll guide you through the process of buying real \[…\]
-
-* Tags [Counterfeit](https://blog.karlrock.com/tag/counterfeit/), [Dubai](https://blog.karlrock.com/tag/dubai/), [Gold](https://blog.karlrock.com/tag/gold/), [Shopping](https://blog.karlrock.com/tag/shopping/)
-
-* * *
-
-Categories
-
-[Cybercrime](https://blog.karlrock.com/category/cybercrime/)
-
-[I Got a Fake YouTube Copyright Claim – Here’s What I Did Next!](https://blog.karlrock.com/how-to-deal-with-false-youtube-copyright-claims/)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
-* Post date [April 22, 2023](https://blog.karlrock.com/how-to-deal-with-false-youtube-copyright-claims/)
-* [No Comments on I Got a Fake YouTube Copyright Claim – Here’s What I Did Next!](https://blog.karlrock.com/how-to-deal-with-false-youtube-copyright-claims/#respond)
-
-![YouTube Copyright Claim](https://blog.karlrock.com/wp-content/uploads/2023/04/YouTube-Copyright-Claim-1200x675.png)
-
-Roha Entertainment, run by Sharat Chandra and Shyam Reddy Maruthi in Telangana, India, sent multiple false copyright claims to YouTubers, including myself, Jim Browning, and Deeveeaar. Roha Entertainment is a YouTube Certified Partner and therefore has access to YouTube’s Content ID system, allowing them to send copyright claims for the creators they represent. In this \[…\]
-
-* Tags [Content ID](https://blog.karlrock.com/tag/content-id/), [Copyright](https://blog.karlrock.com/tag/copyright/), [India](https://blog.karlrock.com/tag/india/), [Video](https://blog.karlrock.com/tag/video/), [YouTube](https://blog.karlrock.com/tag/youtube/)
 
 * * *
 
@@ -398,25 +402,25 @@ Top
     
     [List of common Hindi swear words (with formatting for blocklists)](https://blog.karlrock.com/list-of-common-hindi-swear-words/ "List of common Hindi swear words (with formatting for blocklists)")
     
-* [![How to Shop Tax-free in Europe (and Get the Refund!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/img_1936-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/ "How to Shop Tax-free in Europe (and Get the Refund!)")
+* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
-    [How to Shop Tax-free in Europe (and Get the Refund!)](https://blog.karlrock.com/how-to-shop-tax-free-in-europe/ "How to Shop Tax-free in Europe (and Get the Refund!)")
+    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
 * [![How to Book a Train Ticket in India (For Foreigners)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/pexels-vishnudeep-dixit-1260805.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+* [![Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9105-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
-    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
-    
-* [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
-    
-    [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
+    [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
     
 * [![Keys to Learning Hindi: 1. Learn to Read First!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Hindi-Script.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
     [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
+    
+* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
+    
+    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
