@@ -1,10 +1,10 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-            
+             
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
 
-NO TIME TO WASTE... $9 TAPES ARE ON! $9 TAPES (REG. ~$27.50~). THAT'S 60% OFF! Plus, get an extra 10% off with code GETLB10
+THE BEST BANG FOR YOUR BUCK — 50% OFF LEGACYBOX SPARKS FLY! SHOP 50% OFF LEGACYBOX. Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,9 +14,9 @@ NO TIME TO WASTE... $9 TAPES ARE ON! $9 TAPES (REG. ~$27.50~). THAT'S 60% OFF! P
 
 00 SEC
 
-(REG. ~$27.50~). THAT'S OVER 60% OFF! Plus, get an extra 10% off with code GETLB10
+GET STARTED FOR JUST $36! Plus, get an extra 10% off with code GETLB10
 
-[SHOP LOWEST PRICES >](https://legacybox.com/products/legacybox-digitizing-kit-9-tapes-film)
+[SHOP SALE >](https://legacybox.com/products/legacybox-digitizing-kit)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/logo.svg?v=1684795981)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 ===============================================================================================================================================================================================================================================================================================================
@@ -157,6 +157,8 @@ Professionally digitized, future-proof, & ready to relive.™ Choose what you’
 
 [Shop Now](https://legacybox.com/products/legacybox-digitizing-kit)
 
+[FAQ](https://legacybox.com/pages/frequently-asked-questions)
+
 [My Orders](https://legacybox.com/pages/order-tracking)
 
 #### Track Your Order
@@ -285,6 +287,8 @@ Professionally digitized, future-proof, & ready to relive.™ Choose what you’
 [Learn More](https://help.legacybox.com/hc/en-us)
 
 [Shop Now](https://legacybox.com/products/legacybox-digitizing-kit)
+
+[FAQ](https://legacybox.com/pages/frequently-asked-questions)
 
 * [MY ORDERS](https://legacybox.com/pages/order-tracking)
 * [LEGACYBOX BACKUP](https://legacybox.com/pages/backup-login?view=backup-login)
@@ -553,7 +557,6 @@ Mail: 1110 Market Street, Suite 318, Chattanooga, Tennessee, 37402
 * [Reviews](https://legacybox.com/pages/legacybox-reviews)
 * [Analog Blog](https://legacybox.com/blogs/analog)
 * [FAQs](https://legacybox.com/pages/frequently-asked-questions)
-* [Holiday Delivery](https://legacybox.com/pages/christmas-delivery)
 
 ### Blog
 
@@ -561,7 +564,7 @@ Mail: 1110 Market Street, Suite 318, Chattanooga, Tennessee, 37402
 
  [](https://www.facebook.com/Legacybox)[](https://www.instagram.com/legacybox/)[](https://www.youtube.com/channel/UCtrczFsRT_WQ655Y4fKMWNA)
 
-Copyright © 2023 LEGACYBOX. All rights reserved. LEGACYBOX is a registered trademark of AMB Media LLC.
+Copyright © 2024 LEGACYBOX. All rights reserved. LEGACYBOX is a registered trademark of AMB Media LLC.
 
 * [Website Terms](https://legacybox.com/pages/website-terms-of-use)
 * [Service Terms](https://legacybox.com/pages/services-terms-and-condition)
