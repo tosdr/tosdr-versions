@@ -1,6 +1,6 @@
-![Botão para abrir o Menu](/assets/img/header/icon-menu-open.1712930781.svg) ![Botão para fechar o Menu](/assets/img/header/icon-menu-close.1712930781.svg)
+![Botão para abrir o Menu](/assets/img/header/icon-menu-open.1720710818.svg) ![Botão para fechar o Menu](/assets/img/header/icon-menu-close.1720710818.svg)
 
-[![Logo da empresa Alura](/assets/img/home/alura-logo.1712930781.svg)](https://www.alura.com.br/)
+[![Logo da empresa Alura](/assets/img/home/alura-logo.1720710818.svg)](https://www.alura.com.br/)
 
 [Entrar](https://cursos.alura.com.br/loginForm) [Ver planos](https://www.alura.com.br/planos-cursos-online)
 
@@ -152,7 +152,7 @@ De tempos em tempos, a ALURA aprimora suas práticas e políticas de privacidade
     Caso Você tenha qualquer dúvida sobre esta Política ou sobre o tratamento dos seus Dados pela ALURA, entre em contato conosco pelo nosso Canal de Comunicação: [\[email protected\]](https://www.alura.com.br/cdn-cgi/l/email-protection). O nosso encarregado pelo tratamento dos Dados pessoais é Claudio Abbate, que poderá ser contatado pelo e-mail acima indicado.
     
 
-[![Alura](/assets/img/home/alura-logo.1712930781.svg)](https://www.alura.com.br/)
+[![Alura](/assets/img/home/alura-logo.1720710818.svg)](https://www.alura.com.br/)
 
 AOVS Sistemas de Informática S.A CNPJ 05.555.382/0001-33
 
@@ -213,8 +213,8 @@ Novidades e Lançamentos
 Parceiros
 ---------
 
-* ![Programa de aceleração Scale-Up Endeavor](/assets/img/footer/scale-up-endeavor.1712930781.png) Nós, da Alura, somos uma das Scale-Ups selecionadas pela Endeavor, programa de aceleração das empresas que mais crescem no país.
-* ![Growth Academy 2021 do Google For Startups](/assets/img/footer/google-alumni-2021.1712930781.png) Fomos uma das 7 startups selecionadas pelo Google For Startups a participar do programa Growth Academy em 2021.
+* ![Programa de aceleração Scale-Up Endeavor](/assets/img/footer/scale-up-endeavor.1720710818.png) Nós, da Alura, somos uma das Scale-Ups selecionadas pela Endeavor, programa de aceleração das empresas que mais crescem no país.
+* ![Growth Academy 2021 do Google For Startups](/assets/img/footer/google-alumni-2021.1720710818.png) Fomos uma das 7 startups selecionadas pelo Google For Startups a participar do programa Growth Academy em 2021.
 
 Cursos
 ------
@@ -245,7 +245,7 @@ Cursos
 
 [Cursos de Mobile](https://www.alura.com.br/cursos-online-mobile)
 
-[React Native](https://www.alura.com.br/cursos-online-mobile/react-native) | [Flutter](https://www.alura.com.br/cursos-online-mobile/flutter-mobile) | [iOS e Swift](https://www.alura.com.br/cursos-online-mobile/ios) | [Android, Kotlin](https://www.alura.com.br/cursos-online-mobile/android) | [Jogos](https://www.alura.com.br/cursos-online-mobile/jogos)
+[Flutter](https://www.alura.com.br/cursos-online-mobile/flutter-mobile) | [iOS e Swift](https://www.alura.com.br/cursos-online-mobile/ios) | [Android, Kotlin](https://www.alura.com.br/cursos-online-mobile/android) | [Jogos](https://www.alura.com.br/cursos-online-mobile/jogos)
 
 [Cursos de Inovação & Gestão](https://www.alura.com.br/cursos-online-inovacao-gestao)
 
@@ -260,24 +260,24 @@ Alura
 
 * Educação em Tecnologia
     
-    *  [![logo fiap](https://www.alura.com.br/assets/img/caelumFooter/fiap.1712930780.svg) FIAP](https://www.fiap.com.br/)
-    *  [![logo casa do codigo](https://www.alura.com.br/assets/img/caelumFooter/cdc.1712930780.svg) Casa do Código](https://www.casadocodigo.com.br/)
-    *  [![logo pm3](https://www.alura.com.br/assets/img/caelumFooter/pm3.1712930780.svg) PM3 - Cursos de Produto](https://www.cursospm3.com.br/)
+    *  [![logo fiap](https://www.alura.com.br/assets/img/caelumFooter/fiap.1720710817.svg) FIAP](https://www.fiap.com.br/)
+    *  [![logo casa do codigo](https://www.alura.com.br/assets/img/caelumFooter/cdc.1720710817.svg) Casa do Código](https://www.casadocodigo.com.br/)
+    *  [![logo pm3](https://www.alura.com.br/assets/img/caelumFooter/pm3.1720710817.svg) PM3 - Cursos de Produto](https://www.cursospm3.com.br/)
 * Mais Alura
     
-    *  [![logo alura start](https://www.alura.com.br/assets/img/caelumFooter/alurastart.1712930780.svg) Alura Start](https://www.alurastart.com.br/)
-    *  [![logo alura lingua](https://www.alura.com.br/assets/img/caelumFooter/aluralingua.1712930780.svg) Alura Língua](https://www.aluralingua.com.br/)
-    *  [![logo alura para empresas](https://www.alura.com.br/assets/img/caelumFooter/alura-empresas.1712930780.svg) Alura Para Empresas](https://www.alura.com.br/empresas)
-    *  [![logo alura latam](https://www.alura.com.br/assets/img/caelumFooter/alura.1712930780.svg) Alura LATAM](https://www.aluracursos.com/)
+    *  [![logo alura start](https://www.alura.com.br/assets/img/caelumFooter/alurastart.1720710817.svg) Alura Start](https://www.alurastart.com.br/)
+    *  [![logo alura lingua](https://www.alura.com.br/assets/img/caelumFooter/aluralingua.1720710817.svg) Alura Língua](https://www.aluralingua.com.br/)
+    *  [![logo alura para empresas](https://www.alura.com.br/assets/img/caelumFooter/alura-empresas.1720710817.svg) Alura Para Empresas](https://www.alura.com.br/empresas)
+    *  [![logo alura latam](https://www.alura.com.br/assets/img/caelumFooter/alura.1720710817.svg) Alura LATAM](https://www.aluracursos.com/)
 * Comunidade
     
-    *  [![logo tech guide](https://www.alura.com.br/assets/img/caelumFooter/techguide.1712930780.svg) Tech Guide](https://techguide.sh/)
-    *  [![logo 7 days of code](https://www.alura.com.br/assets/img/caelumFooter/7days.1712930780.svg) 7 days of code](https://7daysofcode.io/)
-    *  [![logo Hipsters ponto Jobs](https://www.alura.com.br/assets/img/caelumFooter/hipstersjobs.1712930780.svg) Hipsters ponto Jobs](https://hipsters.jobs/)
+    *  [![logo tech guide](https://www.alura.com.br/assets/img/caelumFooter/techguide.1720710817.svg) Tech Guide](https://techguide.sh/)
+    *  [![logo 7 days of code](https://www.alura.com.br/assets/img/caelumFooter/7days.1720710817.svg) 7 days of code](https://7daysofcode.io/)
+    *  [![logo Hipsters ponto Jobs](https://www.alura.com.br/assets/img/caelumFooter/hipstersjobs.1720710817.svg) Hipsters ponto Jobs](https://hipsters.jobs/)
 * Podcasts
     
-    *  [![logo Hipsters ponto Tech](https://www.alura.com.br/assets/img/caelumFooter/hipsterstech.1712930780.svg) Hipsters ponto Tech](https://hipsters.tech/)
-    *  [![logo Dev sem fronteiras](https://www.alura.com.br/assets/img/caelumFooter/devsemfronteiras.1712930780.svg) Dev sem Fronteiras](https://www.devsemfronteiras.tech/)
-    *  [![logo Layers ponto Tech](https://www.alura.com.br/assets/img/caelumFooter/layerstech.1712930780.svg) Layers ponto Tech](https://layerspontotech.com.br/)
+    *  [![logo Hipsters ponto Tech](https://www.alura.com.br/assets/img/caelumFooter/hipsterstech.1720710817.svg) Hipsters ponto Tech](https://hipsters.tech/)
+    *  [![logo Dev sem fronteiras](https://www.alura.com.br/assets/img/caelumFooter/devsemfronteiras.1720710817.svg) Dev sem Fronteiras](https://www.devsemfronteiras.tech/)
+    *  [![logo Layers ponto Tech](https://www.alura.com.br/assets/img/caelumFooter/layerstech.1720710817.svg) Layers ponto Tech](https://layerspontotech.com.br/)
 
 ![](https://dc.ads.linkedin.com/collect/?pid=465017&fmt=gif)
