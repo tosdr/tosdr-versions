@@ -3,7 +3,7 @@
 [Home](https://divestos.org/index.html)[Search 🔎](https://divestos.org/pages/search)Get Started[Device Downloads](https://divestos.org/pages/devices)[Installation](https://divestos.org/pages/bootloader)[Post Install](https://divestos.org/pages/post_install)[Our Apps](https://divestos.org/pages/our_apps)[Recommended Apps](https://divestos.org/pages/recommended_apps)[Community](https://divestos.org/pages/community)[Donate 🧡](https://divested.dev/donate)Docs[FAQ](https://divestos.org/pages/faq)[News](https://divestos.org/pages/news)[History](https://divestos.org/pages/history)[Screenshots](https://divestos.org/pages/screenshots)[Known Issues](https://divestos.org/pages/broken)[Functionality Tables](https://divestos.org/pages/functionality_tables)[Troubleshooting](https://divestos.org/pages/troubleshooting)[Bug Reporting](https://divestos.org/pages/bug_reporting)[Patch Levels](https://divestos.org/pages/patch_levels)[Patch Counts](https://divestos.org/pages/patch_counts)[Patch History](https://divestos.org/pages/patch_history)[Technical Details](https://divestos.org/pages/technical_details)[Network Connections](https://divestos.org/pages/network_connections)[Saving Data](https://divestos.org/pages/saving_data)[Browser Tables](https://divestos.org/pages/browsers)[Messenger Tables](https://divestos.org/pages/messengers)[Verified Boot Hashes](https://divestos.org/pages/verified_boot_hashes)[Build Guide](https://divestos.org/pages/build)[Source Code on Codeberg](https://codeberg.org/divested-mobile)[Source Code on GitHub](https://github.com/divested-mobile)[Source Code on GitLab](https://gitlab.com/divested-mobile)[About](https://divestos.org/pages/about)  
   
 
-Privacy Policy (2024-01-01)
+Privacy Policy (2024-07-01)
 ---------------------------
 
 History of this privacy policy can be viewed: [Codeberg](https://codeberg.org/divested-mobile/divestos-website/blame/branch/master/stubs/privacy_policy.html), [GitHub](https://github.com/Divested-Mobile/DivestOS-Website/blame/master/stubs/privacy_policy.html), [GitLab](https://gitlab.com/divested-mobile/divestos-website/-/blame/master/stubs/privacy_policy.html)
@@ -81,6 +81,7 @@ History of this privacy policy can be viewed: [Codeberg](https://codeberg.org/di
 * When it will be deleted: Messages are not deleted per default MAM policy, but are pruned after backups. Access logs are deleted weekly. IP addresses are not stored in the access logs.
 * What else will it be used for: Nothing else
 * How to anonymize: Use a throwaway JID and nickname. Route your XMPP client over Tor.
+* Please note: third party volunteers may be appointed as moderators and be able to see your JID.
 
 ### What data third parties collect[¶](#3rdparty)
 
@@ -148,4 +149,4 @@ Powered by [mini.css](https://web.archive.org/web/20220418142847/https://minicss
 [Onion #1](http://divestoseb5nncsydt7zzf5hrfg44md4bxqjs5ifcv4t7gt7u6ohjyyd.onion/)  
 [Onion #2](http://2ceyag7ppvhliszes2v25n5lmpwhzqrc7sv72apqka6hwggfi42y2uid.onion/)  
 [Wayback Machine](https://web.archive.org/web/20300000000000/https://divestos.org/)  
-Generated: 2024-06-20T18:24:54+00:00
+Generated: 2024-07-11T17:28:35+00:00
