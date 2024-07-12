@@ -12,21 +12,13 @@ Buy Art
 
 More
 
-[About](https://www.andreasvarro.com/about)[Awards](https://www.andreasvarro.com/awards)[Press](https://www.andreasvarro.com/press)[Dystopia](https://www.andreasvarro.com/dystopia)[Journal](https://www.andreasvarro.com/journal)
+[About](https://www.andreasvarro.com/about)[Awards](https://www.andreasvarro.com/awards)[Press](https://www.andreasvarro.com/press)[Journal](https://www.andreasvarro.com/journal)
 
 [Design Tool](https://www.andreasvarro.com/design-tool)
 
-[Exhibitions](https://www.andreasvarro.com/exhibitions)
+[Dystopia](https://www.andreasvarro.com/dystopia)
 
-[Visual art gallery](https://www.andreasvarro.com/gallery)
-
-[Commercial & advertising images](https://www.andreasvarro.com/advertising-photography)
-
-[Commercial art gallery](https://www.andreasvarro.com/commercial-art-portfolio)
-
-[Contact](https://www.andreasvarro.com/contact)
-
-[Become a member](https://www.andreasvarro.com/contact)
+[Gallery - Commercial art](https://www.andreasvarro.com/advertising-photography)[Gallery - Visual Art](https://www.andreasvarro.com/gallery)[Exhibitions](https://www.andreasvarro.com/exhibitions)[Contact](https://www.andreasvarro.com/contact)[Become a member](https://www.andreasvarro.com/sign-up)
 
 Log out
 
@@ -307,6 +299,6 @@ Navigation
 
 [Photographer Stockholm](https://www.andreasvarro.com/lp/fotograf-stockholm)
 
-[![](https://assets-global.website-files.com/61eb0c29b03a59986d1a4667/64f47bda75a40718257255cc_snap-to-top.svg)](#)
+[![](https://cdn.prod.website-files.com/61eb0c29b03a59986d1a4667/64f47bda75a40718257255cc_snap-to-top.svg)](#)
 
-[![](https://assets-global.website-files.com/61eb0c29b03a59986d1a4667/64f47172487abf2c397aa9e5_instagram.svg)](https://www.instagram.com/andreas.varro)
+[![](https://cdn.prod.website-files.com/61eb0c29b03a59986d1a4667/64f47172487abf2c397aa9e5_instagram.svg)](https://www.instagram.com/andreas.varro)
