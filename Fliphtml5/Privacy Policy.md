@@ -20,6 +20,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Online Sharing](https://fliphtml5.com/features/share/)
     * [Offline Reading](https://fliphtml5.com/features/share?id=offline_reading)
     * [Embed](https://fliphtml5.com/features/embed/)
+    * [Security](https://fliphtml5.com/features/security/)
     
     * [Custom Domain](https://fliphtml5.com/features/custom-domain/)
     * [Branding & Self-hosting](https://fliphtml5.com/features/branding/)
@@ -208,6 +209,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
         * [Online Sharing](https://fliphtml5.com/features/share/)
         * [Offline Reading](https://fliphtml5.com/features/share?id=offline_reading)
         * [Embed](https://fliphtml5.com/features/embed/)
+        * [Security](https://fliphtml5.com/features/security/)
     * Know Content & Audience
         
         * [Statistics](https://fliphtml5.com/features/statistics/)
