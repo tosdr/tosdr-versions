@@ -122,7 +122,7 @@
 
 * [Αρχική Σελίδα](https://linux-user.gr/)
 * [Κατηγορίες](https://linux-user.gr/categories)
-* [Συχνές Ερωτήσεις/Οδηγίες](https://linux-user.gr/guidelines)
+* [Οδηγίες](https://linux-user.gr/guidelines)
 * [Όροι Χρήσης](https://linux-user.gr/tos)
 * [Πολιτική Ιδιωτικότητας](https://linux-user.gr/privacy)
 
