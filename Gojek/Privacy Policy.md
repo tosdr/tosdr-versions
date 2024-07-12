@@ -486,15 +486,15 @@ Browse Topics
 * [![logo](https://lelogama.go-jek.com/service_icon/bluebird_favicon_color.svg)GoBluebird](https://www.gojek.com/en-id/terms-and-condition/gobluebird)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPay](https://www.gojek.com/en-id/terms-and-condition/gopay)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoPayLater](https://www.gojek.com/en-id/terms-and-condition/gopaylater)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Third-Party](https://www.gojek.com/en-id/terms-and-condition/third-party)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-blue.svg)GoTagihan](https://www.gojek.com/en-id/terms-and-condition/gotagihan)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoFood](https://www.gojek.com/en-id/terms-and-condition/gofood)
-* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoBox](https://www.gojek.com/en-id/terms-and-condition/gobox)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoMart](https://www.gojek.com/en-id/terms-and-condition/gomart)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-red.svg)GoShop](https://www.gojek.com/en-id/terms-and-condition/goshop)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Gojek](https://www.gojek.com/en-id/terms-and-condition/gojek)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoRide](https://www.gojek.com/en-id/terms-and-condition/goride)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoBox](https://www.gojek.com/en-id/terms-and-condition/gobox)
 * [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)GoSend](https://www.gojek.com/en-id/terms-and-condition/gosend)
+* [![logo](https://lelogama.go-jek.com/prime/upload/image/solv-logo-green.svg)Third-Party](https://www.gojek.com/en-id/terms-and-condition/third-party)
 
 ![logo-white](https://lelogama.go-jek.com/prime/upload/gojek-horizontal-logo-white.svg)
 
