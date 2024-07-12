@@ -1,4 +1,4 @@
-Privacy Policy for Blife
+Privacy Policy for BLife
 ========================
 
 At Custom Cursor, accessible from custom-cursor.com or via Chrome extension, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Custom Cursor website and extension and how we use it.
