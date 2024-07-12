@@ -1,14 +1,6 @@
 Toggle navigation ☰
 
-[gamehitzone](http://www.gamehitzone.com/)
-
-[PC Games](http://www.gamehitzone.com/all-free-games/)
-
-[Online Games](http://www.gamehitzone.com/play-online/)
-
-[Software](http://www.gamehitzone.com/download-free-software/)
-
-[Giveaways](http://www.gamehitzone.com/game-giveaways/)
+[gamehitzone](http://www.gamehitzone.com/) [PC Games](http://www.gamehitzone.com/all-free-games/) [Online Games](http://www.gamehitzone.com/play-online/) [Software](http://www.gamehitzone.com/download-free-software/) [Giveaways](http://www.gamehitzone.com/game-giveaways/)
 
      ![Search](/static/mobile/media/images/search.png)
 
