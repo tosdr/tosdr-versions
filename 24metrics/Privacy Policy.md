@@ -95,7 +95,3 @@ Copyrights® 24metrics. All Rights Reserved.
 * [Contact](https://www.24metrics.com/contact/)
 * [Help](https://www.24metrics.com/)
 * [Service Operational Status](https://status.24metrics.com/)
-
-                                                             
-
-Please note that we use cookies to ensure that we give you the best experience on our website.[Ok](#)[Privacy policy](https://www.24metrics.com/privacy-policy/)
