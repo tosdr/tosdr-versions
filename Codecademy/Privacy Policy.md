@@ -7,7 +7,7 @@
 Codecademy Privacy Policy
 =========================
 
-This Policy was last updated April 5, 2022.
+This Policy was last updated July 11, 2024.
 
 Codecademy LLC (“Codecademy,” “we,” “our,” or “us”) is committed to protecting your privacy. Our Privacy Policy (the “Policy”) explains how we collect, use, disclose, and protect information about you or associated with you (“personal information”), and your choices about the collection and use of your information. This Privacy Policy applies to the online services offered by Codecademy such as our website at [www.codecademy.com](http://www.codecademy.com/), our mobile app Codecademy Go, and any other online service location (collectively the “Service”) that makes this Privacy Policy available to you.
 
@@ -64,23 +64,17 @@ In addition, we automatically collect information when you use the Service. The 
 
 We use various current – and later – developed tracking technologies to automatically collect information when you use the Service, including the following:
 
-*     __Log Files__, which are files that record events that occur in connection with your use of the Service. 	
-        
+* **Log Files**, which are files that record events that occur in connection with your use of the Service.
     
-*     __Cookies__, which are small data files stored on your device that act as a unique tag to identify your browser. We use two types of cookies: session cookies and persistent cookies. Session cookies make it easier for you to navigate our website and expire when you close your browser. Persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features. Additionally, persistent cookies allow us to bring you advertising both on and off the Service. Persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings.
-        
+* **Cookies**, which are small data files stored on your device that act as a unique tag to identify your browser. We use two types of cookies: session cookies and persistent cookies. Session cookies make it easier for you to navigate our website and expire when you close your browser. Persistent cookies help with personalizing your experience, remembering your preferences, and supporting security features. Additionally, persistent cookies allow us to bring you advertising both on and off the Service. Persistent cookies may remain on your device for extended periods of time, and generally may be controlled through your browser settings.
     
-*     __Pixels__ (also known as web beacons), which is code embedded in a website, video, email, or advertisement that sends information about your use to a server. There are various types of pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or a separate entity to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from separate entities that allow us to track our conversions, bring you advertising both on and off the Service, and provide you with additional functionality, such as the ability to connect our Service with your social media account.  
-        
+* **Pixels** (also known as web beacons), which is code embedded in a website, video, email, or advertisement that sends information about your use to a server. There are various types of pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or a separate entity to drop or read cookies on your browser. Pixels are used in combination with cookies to track activity by a particular browser on a particular device. We may incorporate pixels from separate entities that allow us to track our conversions, bring you advertising both on and off the Service, and provide you with additional functionality, such as the ability to connect our Service with your social media account.
     
-*     __Device Fingerprinting__, which is the process of analyzing and combining sets of data elements from your device’s browser, such as JavaScript objects and installed fonts, to create a “fingerprint” of your device and uniquely identify your browser and device.
-        
+* **Device Fingerprinting**, which is the process of analyzing and combining sets of data elements from your device’s browser, such as JavaScript objects and installed fonts, to create a “fingerprint” of your device and uniquely identify your browser and device.
     
-*     __App Technologies__, which are technologies included in our apps that are not browser-based like cookies and cannot be controlled by browser settings. For example, our apps may include SDKs, which is code that sends information about your use to a server. These SDKs allow us track our conversions, bring you advertising both on and off the Service, and provide you with additional functionality, such as the ability to connect our Service with your social media account.
-        
+* **App Technologies**, which are technologies included in our apps that are not browser-based like cookies and cannot be controlled by browser settings. For example, our apps may include SDKs, which is code that sends information about your use to a server. These SDKs allow us track our conversions, bring you advertising both on and off the Service, and provide you with additional functionality, such as the ability to connect our Service with your social media account.
     
-*     __Location-Identifying Technologies__, which are technologies used to collect your location. For example, GPS, WiFi, and Bluetooth may be used to collect precise location data when you consent to precise location tracking through our apps. Location data may be used for purposes such as verifying your device’s location and delivering or restricting relevant content and advertising based on that location.
-        
+* **Location-Identifying Technologies**, which are technologies used to collect your location. For example, GPS, WiFi, and Bluetooth may be used to collect precise location data when you consent to precise location tracking through our apps. Location data may be used for purposes such as verifying your device’s location and delivering or restricting relevant content and advertising based on that location.
     
 
 For further information on how we use tracking technologies for analytics and advertising, and your rights and choices regarding them, see the “Analytics and Advertising” and “Your Rights and Choices” sections below.
@@ -147,19 +141,15 @@ We share information we collect in accordance with the practices described in th
     
 * **Promotions**. When you voluntarily enter a sweepstakes, contest, or other promotion, we share information as set out in the official rules that govern the promotion as well as for administrative purposes and as required by law (e.g., on a winners list). By entering a promotion, you agree to the official rules that govern that promotion, and may, except where prohibited by applicable law, allow the sponsor and/or other entities to use your name, voice and/or likeness in advertising or marketing materials.
     
-*     __Public Information__. We share information you make public through the Service, such as information in your profile or that you post on public boards or other public sections of the Service. Please think carefully before making information public as you are solely responsible for any information you make public. Once you have posted information, you may not be able to edit or delete such information, subject to additional rights set out in the “Your Rights and Choices” section below.
-        
+* **Public Information**. We share information you make public through the Service, such as information in your profile or that you post on public boards or other public sections of the Service. Please think carefully before making information public as you are solely responsible for any information you make public. Once you have posted information, you may not be able to edit or delete such information, subject to additional rights set out in the “Your Rights and Choices” section below.
     
-*     __Merger or Acquisition__. We share information in connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another business. 
-        
+* **Merger or Acquisition**. We share information in connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another business.
     
 * **Security and Compelled Disclosure**. We share information to comply with the law or other legal process, and where required, in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We also share information to protect the rights, property, life, health, security and safety of us, the Service or anyone else.
     
-*     __Facilitating Requests__. We share information at your request or direction, such as when you choose to share information with a social network about your activities on the Service. 
-        
+* **Facilitating Requests**. We share information at your request or direction, such as when you choose to share information with a social network about your activities on the Service.
     
-*     __Consent__. We share information with notice to you and your consent.
-        
+* **Consent**. We share information with notice to you and your consent.
     
 
 Notwithstanding the above, we may share information that does not identify you (including information that has been aggregated or de-identified) except as prohibited by applicable law. For information on your rights and choices regarding how we share information about you, please see the “Your Rights and Choices” section below.
@@ -231,6 +221,12 @@ Please note that if you opt out using any of these methods, the opt out will onl
     
 
 Please note that your opt out is limited to the email address and device used and will not affect subsequent subscriptions.
+
+### 5\. Portability, Deletion, Management.
+
+You may request information about the data we collected, solicit we delete your personal information, or mange your settings regarding your personal information. In all three instances, you’ll need to submit a request through our online [privacy hub](https://privacy.codecademy.com/), or contact us through our [Help Center](https://help.codecademy.com/hc/en-us). In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your request to know or delete.
+
+If personal information about you has been processed by us as a service provider on behalf of a corporate customer or school customer and you wish to exercise any rights you have with such personal information, please inquire with our corporate or school customer directly. If you wish to make your request directly to us, please provide the name of the corporate customer or school customer on whose behalf we processed your personal information. We will refer your request to that corporate customer or school customer and will support them to the extent required by applicable law in responding to your request.
 
 Children’s Privacy
 ------------------
@@ -463,7 +459,7 @@ Plans
 Community
 ---------
 
-* [Chapters](https://community.codecademy.com/chapters)
+* [Clubs](https://community.codecademy.com/c/start-here/)
 * [Code Crew](https://try.codecademy.com/code-crew/)
 * [Discord](https://discord.com/invite/codecademy)
 * [Events](https://www.codecademy.com/events)
