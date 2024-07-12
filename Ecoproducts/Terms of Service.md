@@ -58,6 +58,7 @@ Back[](#)
     * [RESOURCES](# "RESOURCES")
         
         * [CIRC Program](https://www.ecoproducts.com/circ-program "CIRC Program")
+        * [Product Carbon Footprint](https://www.ecoproducts.com/product-carbon-footprint "Product Carbon Footprint")
         * [Access & Recovery](https://www.ecoproducts.com/access-recovery "Access & Recovery")
         * [Circularity](https://www.ecoproducts.com/circularity "Circularity")
         * [Support Composting](https://www.ecoproducts.com/support-composting "Support Composting")
@@ -172,7 +173,7 @@ Search
         * [World Art Paper Containers & Lids](https://ecoproducts.com/shop-all/paper-food-containers/world-art-paper-containers-lids)
         * [BlueStripe Paper Food Container Lids](https://ecoproducts.com/shop-all/paper-food-containers/bluestripe-paper-food-container-lids)
         * [GreenStripe Paper Containers & Lids](https://ecoproducts.com/shop-all/paper-food-containers/greenstripe-paper-containers-lids)
-        * [Food Trays](https://ecoproducts.com/paper-products/food-trays)
+        * [Food Trays](https://ecoproducts.com/shop-all/paper-products/food-trays)
     * [Vanguard | No-Added PFAS](https://ecoproducts.com/shop-all/vanguard-no-added-pfas)
         * [Clamshells](https://ecoproducts.com/shop-all/vanguard/clamshells)
         * [Dinnerware](https://ecoproducts.com/shop-all/vanguard-no-added-pfas/dinnerware)
@@ -202,7 +203,8 @@ Search
 
 1. [Home](https://ecoproducts.com/)
 
-#### Terms of Use
+Terms of Use
+============
 
   
   
@@ -336,7 +338,6 @@ GREEN IS ALL WE DO™
 * [Stories](https://ecoproducts.com/all-stories/)
 * [Company](https://ecoproducts.com/company)
 * [Learn](https://ecoproducts.com/learn)
-* [Locator](https://ecoproducts.com/locator)
 * [Store Locator](https://ecoproducts.com/store-locator)
 * [The Dish](https://ecoproducts.com/the-dish)
 * [Sitemap](https://www.ecoproducts.com/sitemap.php)
