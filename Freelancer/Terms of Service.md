@@ -758,7 +758,11 @@ Each of these policies may be changed from time to time. Changes take effect whe
 48\. General
 ------------
 
+Address for correspondence and legal notices depends on your Payment Administration Agent:
+
 Freelancer International Pty Limited is located at Level 37, Grosvenor Place, 225 George Street, Sydney NSW 2000, Australia.
+
+Freelancer Outsourcing UK Limited is located at Level 1, 345 Old Street, London, EC1V 9LL, United Kingdom.
 
 This Agreement contains the entire understanding and agreement between you and Freelancer. The following Sections survive any termination of this Agreement: Fees And Services (with respect to fees owed for our services), Release, Content, No Warranty As To Content, Limitation Of Liability, Indemnity, Bar To Action, No Class Actions, Legal Limitations, and Disputes With Us.
 
