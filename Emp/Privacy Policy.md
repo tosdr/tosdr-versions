@@ -156,13 +156,13 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/sommer/?pmid=SAM-1226_20per_3999_ALLIN_EUR)
+[](https://www.emp.de/extra-sale/ "Jetzt sparen!")
 
-Ab in die Ferien!
+Mach' dich fit für den Pit!
 
-\-20%\*
+\-50%\*
 
-[Jetzt sparen!](https://www.emp.de/sommer/?pmid=SAM-1226_20per_3999_ALLIN_EUR "Jetzt sparen!") Code **SAVE20** kopieren
+[Jetzt sparen!](https://www.emp.de/extra-sale/ "Jetzt sparen!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -497,7 +497,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Kundenservice ist am nächsten Tag wieder erreichbar von 09:00 Uhr bis 14:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
