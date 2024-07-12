@@ -2,7 +2,7 @@
 
    
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/)
 
 * [For Consumer](https://www.bitdefender.com/solutions/)
     
@@ -81,7 +81,7 @@
         [GravityZone Products](https://www.bitdefender.com/business/products/security-products.html)
         
         * [CSPM+](https://www.bitdefender.com/business/products/gravityzone-cspm-plus.html) _NEW_
-        * [Endpoint Detection and Response (EDR)](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html)
+        * [Endpoint Detection and Response (EDR)](https://www.bitdefender.com/business/products/endpoint-detection-response.html)
         * [Extended Detection and Response (XDR)](https://www.bitdefender.com/business/products/gravityzone-xdr.html)
         * [Security for Containers (Linux)](https://www.bitdefender.com/business/products/container-security.html)
         * [Cloud and Server Security](https://www.bitdefender.com/business/products/cloud-server-security.html)
@@ -325,7 +325,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
 
   [Home](https://www.bitdefender.com/) [Site](https://www.bitdefender.com/site.html) [View](https://www.bitdefender.com/site/view.html) [Legal Intellectual Property](https://www.bitdefender.com/site/view/legal-intellectual-property.html)
 
