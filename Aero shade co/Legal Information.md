@@ -1,150 +1,151 @@
-[Skip to content](#content)
+Call Us For A Free Estimate: [(323) 655-2411](tel:3236552411)
 
-[![Aero Shade Co. Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20105'%3E%3C/svg%3E)
+[![Aero Shade logo](https://aeroshadeco.com/wp-content/uploads/2024/05/AeroShadeNewLogo-Teal.svg)](https://aeroshadeco.com/)
 
-![Aero Shade Co. Logo](https://aeroshadeco.com/wp-content/uploads/2016/04/aero-shade-logo.png)](https://aeroshadeco.com/)
-
-### 
-
-Questions about Window Treatments?  
-Call Us: [323.655.2411](tel:323.655.2411;)
-
-Search for: 
-
-[](#)
-
-* [Blinds](https://aeroshadeco.com/custom-blinds/)
-    
-    * [Vertical Blinds](https://aeroshadeco.com/custom-vertical-blinds/)
-        
-    * [Metal Blinds](https://aeroshadeco.com/custom-metal-blinds/)
-        
-    * [Wood Blinds](https://aeroshadeco.com/wood-blinds/)
-        
-    
-* [Shutters](https://aeroshadeco.com/window-shutters/)
-    
-    * [Plantation Shutters](https://aeroshadeco.com/custom-plantation-shutters/)
-        
-    * [Stained Shutters](https://aeroshadeco.com/stained-shutters/)
-        
-    * [Synthetic Shutters](https://aeroshadeco.com/synthetic-shutters/)
-        
-    * [Wood Shutters](https://aeroshadeco.com/wood-shutters/)
-        
-    
-* [Shades, Drapes](https://aeroshadeco.com/shades/)
-    
-    * [Roller Shades](https://aeroshadeco.com/custom-roller-shades/)
-        
-    * [Exterior Roller Shades](https://aeroshadeco.com/exterior-roller-shades/)
-        
+* [Shades](https://aeroshadeco.com/shades/)
+    * [Roller Shades](https://aeroshadeco.com/roller-shades/)
+    * [Outdoor Roller Shades](https://aeroshadeco.com/outdoor-roller-shades/)
     * [Roman Shades](https://aeroshadeco.com/roman-shades/)
-        
+    * [Pleated Shades](https://aeroshadeco.com/pleated-shades/)
+    * [Cellular Shades](https://aeroshadeco.com/cellular-shades/)
     * [Woven Wood Shades](https://aeroshadeco.com/woven-wood-shades/)
-        
+    * [Matchstick Shades](https://aeroshadeco.com/matchstick-shades/)
+    * [Blackout Shades](https://aeroshadeco.com/blackout-shades/)
     * [Stationary Shades](https://aeroshadeco.com/stationary-shades/)
-        
-    * [Custom Drapes](https://aeroshadeco.com/custom-drapes/)
-        
-    
-* [Awnings](https://aeroshadeco.com/custom-awnings/)
-    
-    * [Motorized Awnings](https://aeroshadeco.com/motorized-awnings/)
-        
-    * [Stationary Awnings](https://aeroshadeco.com/stationary-awnings/)
-        
-    * [Slide Wire Cable](https://aeroshadeco.com/slide-wire-cable-awnings/)
-        
-    * [Manual Retractable](https://aeroshadeco.com/manual-retractable-awnings/)
-        
-    
+* [Blinds, Drapes](https://aeroshadeco.com/blinds-drapes/)
+    * [Vertical Blinds](https://aeroshadeco.com/vertical-blinds/)
+    * [Venetian Blinds](https://aeroshadeco.com/venetian-blinds/)
+    * [Wood Blinds](https://aeroshadeco.com/wood-blinds/)
+    * [Drapes, Curtains](https://aeroshadeco.com/drapes/)
+* [Shutters](https://aeroshadeco.com/shutters/)
+    * [Plantation Shutters](https://aeroshadeco.com/plantation-shutters/)
+    * [Arched Shutters](https://aeroshadeco.com/arched-shutters/)
+    * [Cafe Shutters](https://aeroshadeco.com/cafe-shutters/)
+    * [Sliding Shutters](https://aeroshadeco.com/sliding-shutters/)
 * [Motorization & Light](https://aeroshadeco.com/motorization/)
-    * [Tinting and Frosting](https://aeroshadeco.com/tinting-and-frosting/)
-* [Lutron Shades](https://aeroshadeco.com/lutron/)
+    * [Lutron® Systems](https://aeroshadeco.com/lutron-systems/)
+    * [Hunter Douglas](https://aeroshadeco.com/hunter-douglas/)
+    * [Somfy Motorization](https://aeroshadeco.com/somfy-motorization/)
+    * [Tinting & Frosting](https://aeroshadeco.com/tinting-frosting/)
+* [Awnings](https://aeroshadeco.com/awnings/)
+    * [Commercial Awnings](https://aeroshadeco.com/commercial-awnings/)
+    * [Motorized Awnings](https://aeroshadeco.com/motorized-awnings/)
+    * [Retractable Awnings](https://aeroshadeco.com/manual-retractable-awnings/)
+    * [Fixed Awnings](https://aeroshadeco.com/fixed-awnings/)
+    * [Patio Awnings](https://aeroshadeco.com/patio-awnings/)
+    * [Slide-Wire Cable Awnings](https://aeroshadeco.com/slide-wire-cable-awnings/)
+    * [Dome Awnings](https://aeroshadeco.com/dome-awnings/)
+    * [Shade Sails](https://aeroshadeco.com/shade-sails/)
 * [Contact Us](https://aeroshadeco.com/contact-us/)
     * [About Us](https://aeroshadeco.com/about-us/)
-    * [Photo Gallery](https://aeroshadeco.com/photo-gallery/)
-    * [Service Area](https://aeroshadeco.com/cities-served/)
-    * [Testimonials](https://aeroshadeco.com/testimonials-and-reviews/)
+    * [Service Area](https://aeroshadeco.com/service-area/)
     * [News & Blog](https://aeroshadeco.com/blog/)
+    * [Testimonials](https://aeroshadeco.com/testimonials/)
 
-Disclaimer
-==========
+Aero Shade Co. Privacy Policy
+=============================
 
-Disclaimer[aeroshade](https://aeroshadeco.com/author/matt/ "Posts by aeroshade")2023-06-22T19:49:40+00:00
+Who we are
+----------
 
-Our Disclaimer
+Our website address is: [https://aeroshadeco.com](https://aeroshadeco.com/).
+
+General Policy
 --------------
 
-The materials on Aero Shade Co. Inc.’s web site are provided “as is”. Aero Shade Co. Inc. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Aero Shade Co. Inc. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+We don’t sell or share your personal information. Ever. Only Aero Shade employees and people working on behalf of Aero Shade ever have access to it, and in most cases, data is anonymized.
 
-Limitations
------------
+We don’t store credit card and other financial information online.
 
-In no event shall Aero Shade Co. Inc. or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Aero Shade Co. Inc.’s Internet site, even if Aero Shade Co. Inc. or a Aero Shade Co. Inc. authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+Comments
+--------
 
-Revisions and Errata
---------------------
+When visitors leave comments on the site, we collect the data shown in the comments form, as well as the visitor’s IP address and browser user agent string, to help detect spam.
 
-The materials appearing on Aero Shade Co. Inc.’s web site could include technical, typographical, or photographic errors. Aero Shade Co. Inc. does not warrant that any of the materials on its web site are accurate, complete, or current. Aero Shade Co. Inc. may make changes to the materials contained on its web site at any time without notice. Aero Shade Co. Inc. does not, however, make any commitment to update the materials.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: [https://automattic.com/privacy/](https://automattic.com/privacy/).
 
-Links
+After your comment is approved, your profile picture is visible to the public in the context of your comment.
+
+Media
 -----
 
-Aero Shade Co. Inc. has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Aero Shade Co. Inc. of the site. Use of any such linked web site is at the user’s own risk.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Site Terms of Use Modifications
--------------------------------
+Cookies
+-------
 
-Aero Shade Co. Inc. may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+If you leave a comment on our site, you may opt to save your name, email address, and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Governing Law
--------------
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-Any claim relating to Aero Shade Co. Inc.’s web site shall be governed by the laws of the State of California without regard to its conflict of law provisions.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-General Terms and Conditions applicable to Use of a Web Site.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-#### Contact Details
+Embedded content from other websites
+------------------------------------
 
-Free Local In-Home Estimates
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Tel: [323.655.2411](tel:323.655.2411) or [310.479.3605](tel:310.479.3605)  
-Fax: 323.655.3180
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-License # 294471
+Who we share your data with
+---------------------------
 
-Store Hours:  
-Monday – Friday 8:30 am – 5:00 pm
+If you request a password reset, your IP address will be included in the reset email.
 
-Visit Us at:  
-8404 W. 3rd St., Los Angeles, CA 90048
+How long we retain your data
+----------------------------
 
-![Credit Cards Accepted](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20318%2076'%3E%3C/svg%3E)
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-![Credit Cards Accepted](https://aeroshadeco.com/wp-content/uploads/2017/09/Amex-Multi-4-Horiz-318x76.jpg)
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-#### About Aero Shade Co.
+What rights you have over your data
+-----------------------------------
 
-Working evenings and weekends for 12 years while holding down a full-time job doesn’t sound like the ideal way of entering the window coverings business. It just happens to be the route taken by Jack Pitson and Mario Soulema of Aero Shade Co. Inc., Los Angeles, CA.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Pitson and Soulema were working at jobs outside the industry when, in 1976, Pitson’s father-in-law, Herman Blumenfeld, suggested selling mini-blinds.
+Where we send your data
+-----------------------
 
-[Read More](https://aeroshadeco.com/about-us/)
+Visitor comments may be checked through an automated spam detection service.
 
-#### Site Policy
+[Contact Us](https://aeroshadeco.com/contact-us/)
 
-* [Terms of Service](https://aeroshadeco.com/terms-of-services/)
-* [Privacy Policy](https://aeroshadeco.com/privacy-policy/)
-* [Disclaimer](https://aeroshadeco.com/disclaimer/)
+Aero Shade Co.
 
-© Aero Shade Co. All Rights Reserved.
+8404 W. 3rd St.,  
+Los Angeles, CA 90048
 
-[Facebook](https://www.facebook.com/Aero-Shade-Co-Inc-199201583516031/ "Facebook")[X](https://twitter.com/aeroshadeco "X")
+Contact
 
-[Page load link](#)
+Phone: (323) 655-2411
 
-                                                                               
+FAX: (323) 655-3180
 
-[Go to Top](#)
+Store Hours
+
+Monday – Friday  
+8:30 am – 5:00 pm
+
+Mission
+
+Our goal is to provide the highest quality window treatments to LA-area homes and businesses — at a fair price.
+
+Social
+
+[![X icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![X icon](https://aeroshadeco.com/wp-content/uploads/2023/10/as-x-icon.svg)](https://twitter.com/aeroshadeco)
+
+[![Facebook icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![Facebook icon](https://aeroshadeco.com/wp-content/uploads/2023/10/as-facebook-icon.svg)](https://www.facebook.com/Aero-Shade-Co-Inc-199201583516031/)
+
+Resources
+
+[Privacy Policy](https://aeroshadeco.com/privacy-policy/)  
+[Our Service Area](https://aeroshadeco.com/service-area/)  
+[Articles & How-Tos](https://aeroshadeco.com/blog/)  
+[Sitemap](https://aeroshadeco.com/html-sitemap/)
