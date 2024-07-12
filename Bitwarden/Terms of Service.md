@@ -383,7 +383,7 @@ This Terms of Service is available under a Creative Commons license (CC BY 4.0).
 
 #### Company
 
-[About](https://bitwarden.com/about/)[Open Source](https://bitwarden.com/open-source/)[Careers](https://bitwarden.com/careers/)[Events](https://bitwarden.com/events/)[Media Spotlight](https://bitwarden.com/media-spotlight/)[Press Room](https://bitwarden.com/press-room/)[Blog](https://bitwarden.com/blog/)[Partners](https://bitwarden.com/partners/)
+[About](https://bitwarden.com/about/)[Open Source](https://bitwarden.com/open-source/)[Careers](https://bitwarden.com/careers/)[Events](https://bitwarden.com/events/)[Open Source Security Summit](https://bitwarden.com/open-source-security-summit/)[Press Room](https://bitwarden.com/press-room/)[Blog](https://bitwarden.com/blog/)[Partners](https://bitwarden.com/partners/)
 
 #### Resources
 
