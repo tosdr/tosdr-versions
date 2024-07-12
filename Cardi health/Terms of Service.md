@@ -105,7 +105,7 @@ shall mean **Diabetes Solutions UAB** , code 305571148, with the registered offi
 
 5.8.2. Unless Client cancels the subscription, Company will automatically renew the applicable service when it comes up for renewal and will take payment from the payment method associated with the Service in Client's account.
 
-5.8.3. The Company may change the subscription plans and the price of the Services from time to time. Renewals will be charged at Company's then current rates, which Client acknowledges and agrees may be higher or lower than the rates for the original service period.
+5.8.3. Companies may change the subscription plans and the price of the Services from time to time. Renewals will be charged at Company’s then-current rates, which Client acknowledges and agrees may be higher or lower than the rates for the original service period. Limited time offers might be subject to different terms of automatic renewal. The price of our Services shown in the offers might be valid only for the initial term of your Subscription. If you decide not to continue with our services, you can cancel your subscription before the charge occurs by following the cancellation procedure described in our T&C.
 
 5.8.4. IF CLIENT DOES NOT WISH FOR SERVICE TO AUTOMATICALLY RENEW, he may elect to cancel the subscription at least 48 hours before the end of current period, in which case, the Services will be terminated upon expiration of the then current term, unless he manually renews the Services prior to that date.
 
