@@ -145,6 +145,7 @@
         
         * [Xueting Huang](https://secuso.aifb.kit.edu/english/Staff_2681.php)
         * [Zi Le Leow](https://secuso.aifb.kit.edu/english/Staff_2626.php)
+        * [Thanusha Santhakumar](https://secuso.aifb.kit.edu/english/Staff_2723.php)
         * [Leonie Schmidt-Enke](https://secuso.aifb.kit.edu/english/Staff_2161.php)
         * [Patrick Schneider](https://secuso.aifb.kit.edu/english/Staff_2214.php)
         
@@ -391,8 +392,7 @@
         [Theses](https://secuso.aifb.kit.edu/english/121.php)
         
         * [Open](https://secuso.aifb.kit.edu/english/121.php)
-        * [Ongoing](https://secuso.aifb.kit.edu/english/140.php)
-        * [Completed](https://secuso.aifb.kit.edu/english/141.php)
+        * [Archive until 2023](https://secuso.aifb.kit.edu/english/141.php)
         
     
 * [SECUSO for Citizens](https://secuso.aifb.kit.edu/english/642.php)
@@ -543,11 +543,6 @@ Kaiserstr. 89
 
 ### Externe Veranstaltungen
 
-**Monday, 08 Jul 2024**  
-[9th IEEE European Symposium on Security and Privacy (EuroS&P) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51517#calendar_top)
-
-* * *
-
 **Monday, 15 Jul 2024**  
 [Privacy Enhancing Technologies Symposium (PETS) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51520#calendar_top)
 
@@ -555,6 +550,11 @@ Kaiserstr. 89
 
 **Tuesday, 30 Jul 2024**  
 [19th International Conference on Availability, Reliability and Security (ARES) 2024](https://secuso.aifb.kit.edu/english/77.php/event/51522#calendar_top)
+
+* * *
+
+**Sunday, 11 Aug 2024**  
+[20th Symposium on Usable Security and Privacy (SOUPS)](https://secuso.aifb.kit.edu/english/77.php/event/51519#calendar_top)
 
 * * *
 
