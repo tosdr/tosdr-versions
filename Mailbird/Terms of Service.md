@@ -30,7 +30,7 @@ Terms of Service
 
 Please read this agreement before using this software
 
-Last updated : Jun 30th, 2021
+Last updated : July 1st, 2024
 
 Mailbird, Inc.
 
@@ -38,7 +38,7 @@ Mailbird™ Software License Agreement
 
 PLEASE READ THIS SOFTWARE LICENSE AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE. BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE.
 
-1. License Grant. This Agreement constitutes a legally binding agreement between you (either an individual or a single entity) (“Customer”) and “Mailbird, Inc” (“Mailbird”), for the Software and any and all associated media, printed materials, and “online” or electronic documentation (collectively, the “Product”). Subject to the terms herein as well as in any restrictions set forth in the mutually agreed upon ordering document, Mailbird hereby grants Customer, a non-exclusive, non-transferable, revocable, limited license to download, install and execute the Product: (a) with respect to any non-paying customer accessing the Product for free as part of a free trial, solely for such Customer’s personal (i.e. non-commercial) or internal business use during the applicable trial period, (b) with respect to any paying individual customer (i.e. not a company or other legal entity) accessing the Product for a personal (i.e. non-commercial) license fee, solely for Customer’s personal use, and (c) with respect to paying customer that is a company or other legal entity and is accessing the Product for a business license fee, or a customer who is a 501(c)(3) not-for-profit entity, solely for such Customer’s internal business purposes. Without limiting the foregoing, Customer may use the Product solely in accordance with the number of user seats and devices for which applicable fees have been paid. Use is limited to a maximum of 3 strictly personal devices per user per license key.
+1. Licence Grant. This Agreement constitutes a legally binding agreement between you, either an individual or a single entity ("Customer"), and "Mailbird, Inc" ("Mailbird"), for the Software and any and all associated media, printed materials, and "online" or electronic documentation (collectively, the "Product"). Subject to the terms herein as well as in any restrictions set forth in the mutually agreed upon ordering document, Mailbird hereby grants Customer a non-exclusive, non-transferable, revocable, limited license to download, install, and execute the Product under the following conditions: Free Trial Users: For any non-paying customer accessing the Product as part of a free trial, the license is granted solely for the Customer's personal (i.e., non-commercial) or internal business use during the applicable trial period. Paying Individual Customers: For any paying individual customer (i.e., not a company or other legal entity) accessing the Product for a personal (i.e., non-commercial) license fee, the license is granted solely for the Customer's personal use. Paying Corporate Customers: For paying customers that are companies or other legal entities accessing the Product for a business license fee, or customers who are 501(c)(3) not-for-profit entities, the license is granted solely for the Customer's internal business purposes. Without limiting the foregoing, the Customer may use the Product solely in accordance with the number of user seats and devices specified in the plan selected and for which applicable fees have been paid. The number of allowed devices per user is determined by the chosen subscription plan.
 2. Ownership. Mailbird retains all rights, title and interest in and to the Product, including all intellectual property rights therein.
 3. Other Restrictions. Customer may not use, copy or distribute the Product without Mailbird’s authorization, except that Customer may make one or more copies of the Product solely for backup or archival purposes.
     
@@ -109,7 +109,7 @@ Company
 Support
 
 * [License Key Retrieval](https://www.getmailbird.com/license-retrieval/)
-* [Become a Mailbird tester](https://www.getmailbird.com/alpha-testers/)
+* [Become a Mailbird early adopter](https://www.getmailbird.com/alpha-testers/)
 * [Unsubscribe from Newsletter](https://www.getmailbird.com/to-unsubscribe/)
 * [Support](https://support.getmailbird.com/)
 
