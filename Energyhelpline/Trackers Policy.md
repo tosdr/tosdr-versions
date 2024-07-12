@@ -1,5 +1,3 @@
-This website uses cookies to ensure you get the best experience on our website. [Find out more.](https://www.energyhelpline.com/terms/) Okay
-
 [![](/images/logos/logo-blue.svg)](https://www.energyhelpline.com/)
 
 ![](/images/logos/logo-blue.svg)
@@ -88,11 +86,11 @@ You can stop cookies being used on your device by activating the setting on your
 
 * [Follow us on LinkedIn](https://www.linkedin.com/company/energyhelpline)
 
-* [Terms & Conditions](https://www.energyhelpline.com/terms-conditions)
-* [Privacy](https://www.energyhelpline.com/privacy-policy)
-* [Cookies](https://www.energyhelpline.com/cookie-policy)
-* [Anti-Slavery Policy](https://www.energyhelpline.com/anti-slavery-policy)
-* [ESG](https://www.energyhelpline.com/environmental-social-governance-statement)
+* [Terms & Conditions](https://www.energyhelpline.com/about-us/terms-conditions)
+* [Privacy](https://www.energyhelpline.com/about-us/privacy-policy)
+* [Cookies](https://www.energyhelpline.com/about-us/cookie-policy)
+* [Anti-Slavery Policy](https://www.energyhelpline.com/about-us/anti-slavery-policy)
+* [ESG](https://www.energyhelpline.com/about-us/environmental-social-governance-statement)
 
 Copyright © 2024, energyhelpline. All rights reserved
 
