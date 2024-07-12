@@ -1,11 +1,11 @@
 [Skip to content](#content)
 
-BigBlueButton World 2024  |  June 25th – 27th
+InstructureCon 2024  |  July 9th – 11th
 
-BigBlueButton World 2024  
-June 25th – 27th
+InstructureCon 2024  
+July 9th – 11th
 
-[**REGISTER NOW »**](https://conference.bigbluebutton.org/)
+[**LEARN MORE »**](https://bigbluebutton.org/instructurecon-2024/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -40,7 +40,7 @@ Menu
     * [Features](https://bigbluebutton.org/features/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
-    * [Accessibility](https://bigbluebutton.org/accessibility/)
+    * [Accessibility](https://bigbluebutton.org/?page_id=216)
     * [Integrations](https://bigbluebutton.org/integrations/)
     * [Support](https://bigbluebutton.org/support/)
     * [Hosting](https://bigbluebutton.org/hosting/)
@@ -52,7 +52,7 @@ Menu
     * [Features](https://bigbluebutton.org/features/)
     * [Pedagogy](https://bigbluebutton.org/pedagogy/)
 * [Schools](#)
-    * [Accessibility](https://bigbluebutton.org/accessibility/)
+    * [Accessibility](https://bigbluebutton.org/?page_id=216)
     * [Integrations](https://bigbluebutton.org/integrations/)
     * [Support](https://bigbluebutton.org/support/)
     * [Hosting](https://bigbluebutton.org/hosting/)
@@ -183,7 +183,7 @@ Menu
 * [Knowledge Base](https://support.bigbluebutton.org/)
 * [Community Support](https://bigbluebutton.org/community-support/)
 * [Commercial Support](https://bigbluebutton.org/commercial-support/)
-* [Accessibility](https://bigbluebutton.org/accessibility-2023/)
+* [Accessibility](https://bigbluebutton.org/accessibility/)
 
 ### Subscribe to our Newsletter
 
