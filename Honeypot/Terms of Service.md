@@ -25,7 +25,7 @@ Terms of Service of Honeypot
 
 ### For Talents
 
-New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsgericht Hamburg, HRB 148078, Executive Board: Petra von Strombeck (CEO), Ingo Chu, Frank Hassler, Chair of the Supervisory Board: Martin Weiss, VAT-ID: DE 230144235 (hereinafter referred to as "Honeypot" or "us" ) operates the online job marketplace platform Honeypot via [https://www.honeypot.io/](https://www.honeypot.io/) and other channels (the "Service" ). The Service connects companies ( "Company" or "Companies" ), and candidates ( "Talent" or "Talents" ) with each other trying to match the right person with the right job. Talents are natural persons seeking new employment or freelance contracts through the Service. Companies are natural persons or business entities searching for new employees or contractors through the Service.
+New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsgericht Hamburg, HRB 148078, Executive Board: Petra von Strombeck (CEO), Ingo Chu, Chair of the Supervisory Board: Tom Bureau, VAT-ID: DE 230144235 (hereinafter referred to as "Honeypot" or "us" ) operates the online job marketplace platform Honeypot via [https://www.honeypot.io/](https://www.honeypot.io/) and other channels (the "Service" ). The Service connects companies ( "Company" or "Companies" ), and candidates ( "Talent" or "Talents" ) with each other trying to match the right person with the right job. Talents are natural persons seeking new employment or freelance contracts through the Service. Companies are natural persons or business entities searching for new employees or contractors through the Service.
 
 #### 1\. Scope
 
@@ -282,7 +282,7 @@ New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsge
 
 ### For Employers
 
-New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsgericht Hamburg, HRB 148078, Executive Board: Petra von Strombeck (CEO), Ingo Chu, Frank Hassler, Chair of the Supervisory Board: Martin Weiss, VAT-ID: DE 230144235 (hereinafter referred to as "Honeypot" or "us" ) operates the online job marketplace platform Honeypot via [https://www.honeypot.io/](https://www.honeypot.io/) and other channels (the "Service" ). The Service connects companies (“Company” or “Companies”), and candidates (“Talent” or “Talents”) with each other trying to match the right person with the right job. Talents are natural persons seeking new employment or freelance contracts through the Service. Companies are natural persons or business entities searching for new employees or contractors through the Service. Agreement shall mean the Recruiting Partnership Agreement and these Terms of Service. The Agreement grants Companies access to the Service as well as a specific number of Hiring Credits. These Hiring Credits can be used to make placements of Talents via the Service.
+New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsgericht Hamburg, HRB 148078, Executive Board: Petra von Strombeck (CEO), Ingo Chu, Chair of the Supervisory Board: Tom Bureau, VAT-ID: DE 230144235 (hereinafter referred to as "Honeypot" or "us" ) operates the online job marketplace platform Honeypot via [https://www.honeypot.io/](https://www.honeypot.io/) and other channels (the "Service" ). The Service connects companies (“Company” or “Companies”), and candidates (“Talent” or “Talents”) with each other trying to match the right person with the right job. Talents are natural persons seeking new employment or freelance contracts through the Service. Companies are natural persons or business entities searching for new employees or contractors through the Service. Agreement shall mean the Recruiting Partnership Agreement and these Terms of Service. The Agreement grants Companies access to the Service as well as a specific number of Hiring Credits. These Hiring Credits can be used to make placements of Talents via the Service.
 
 #### 1\. Scope
 
@@ -484,7 +484,7 @@ New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, Commercial Register: Amtsge
 
 #### 15\. Governing Law / Jurisdiction
 
-1. This Agreement shall be governed by and construed in accordance with the laws of Germany. The Company irrevocably submits to the exclusive jurisdiction of the German courts in Berlin over any claim, dispute or matter arising under or in connection with this Agreement or its enforceability.
+1. This Agreement shall be governed by and construed in accordance with the laws of Germany. The Company irrevocably submits to the exclusive jurisdiction of the German courts in Hamburg over any claim, dispute or matter arising under or in connection with this Agreement or its enforceability.
     
 
 #### 16\. General Provisions
