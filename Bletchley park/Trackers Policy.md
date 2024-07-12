@@ -42,7 +42,7 @@ Back
 
 * See & Do
 * [What's On](https://bletchleypark.org.uk/whats-on/)
-* [EXPLORE OUR STORY](https://bletchleypark.org.uk/our-story/)
+* [OUR STORY](https://bletchleypark.org.uk/our-story/)
 * Join and Support
 * Learning
 * Find a Veteran
@@ -111,10 +111,10 @@ Events at Bletchley Park
 
 We have a range of events to enjoy at Bletchley Park throughout the year.
 
-Explore Our Story
------------------
+Our Story
+---------
 
-Explore Bletchley Park’s stories, find out more about the history of the site, the people who worked here.
+Explore Bletchley Park’s history and discover the incredible achievements of Britain's World War Two Codebreakers.
 
 Join and Support
 ----------------
@@ -141,8 +141,8 @@ Corporate Engagement
 
 Bletchley Park offers a range of exclusive opportunities for companies. We can work with your business to deliver tailored benefits designed to meet your objectives.
 
-Learning, virtual & outreach Sessions
--------------------------------------
+Learning visits & outreach Sessions
+-----------------------------------
 
 We offer award-winning learning sessions tailored to pupils of any age.
 
