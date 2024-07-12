@@ -273,7 +273,7 @@ How to contact us:
 
 If you have any questions or concerns with regard to this policy or our use of your personal data, please contact us at: [support@kaz-type.com](#).
 
-![](/images/ico_certificate.jpg)
+![](/images/ico_certificate.jpg) ![](/images/DofEcompletion_certificate.jpg)
 
 Our website uses cookies to enhance your online experience. For more information please see our [Privacy Policy](https://kaz-type.com/privacy)
 
