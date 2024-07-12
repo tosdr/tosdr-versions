@@ -354,6 +354,6 @@ This Agreement constitutes the entire agreement of the Parties with respect to t
 * [CA Do Not Sell My Info](https://www.mail.com/donotsell/)
 * [Environment](https://www.mail.com/company/environment/)
 * [Jobs](https://www.mail-and-media.com/en/jobs.html)
-* [Help Center](https://support.mail.com/index.html)
+* [Help Center](https://support.mail.com/)
 * [Newsletter](https://www.mail.com/newsletter/)
 * [Press Room](https://www.mail.com/blog/tags/press_release/)
