@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=293669006432525&ev=PageView&noscript=1)         Privacy Policy – Magical Brands                                                                                                   [Skip to content](#MainContent)
+![](https://www.facebook.com/tr?id=293669006432525&ev=PageView&noscript=1)         Privacy Policy – Magical Brands                                                                                                     [Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
@@ -28,6 +28,8 @@ Taxes and [shipping](https://magicalbutter.com/policies/shipping-policy) calcula
 Update
 
 Complete Checkout
+
+[July 4th Sale! | Additional 10% Off Site | Save automatically at Cart](https://magicalbutter.com/collections/bundle-deals)
 
           
 
