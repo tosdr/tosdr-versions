@@ -1,5 +1,3 @@
-New E-book: HOW QUANTUM CAN FUEL OPERATIONAL EXCELLENCE TODAY   [Download The Free E-Book](https://www.dwavesys.com/how-quantum-can-fuel-operational-excellence-today/?utm_source=Website&utm_medium=Banner&utm_campaign=E-Book_2023?banner=1)
-
 [![Logo](/media/j31olsrx/d-wave.svg)](https://www.dwavesys.com/)
 
 * [INVESTORS](https://ir.dwavesys.com/overview/default.aspx)
