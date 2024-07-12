@@ -1,7 +1,3 @@
-![](https://privacy.cyberlink.com/stat/policy/img/dz.png)
-
-![](https://privacy.cyberlink.com/stat/policy/img/ml.png)
-
 [![](https://privacy.cyberlink.com/stat/policy/img/cl.png)](https://www.cyberlink.com/)
 
 [Entities collecting your personal information](#p1)
