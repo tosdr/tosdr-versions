@@ -6,6 +6,7 @@
     * [Overview![book icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161029/Nav-Overview.svg)](https://web.hypothes.is/solutions/)
     * [Education![open book icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161342/Group-1201-2.svg)](https://web.hypothes.is/education/ "Annotation for teachers and students")
     * [Everyone![people icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161335/Group-121-12.svg)](https://web.hypothes.is/everyone/)
+    * [Business![briefcase icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161036/Nav-Careers.svg)](https://web.hypothes.is/business/)
     * [Research![magnifying glass icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161341/Group-1211-2.svg)](https://web.hypothes.is/research/ "Annotation for researchers")
     * [Request a Quote![comment bubble icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161038/Nav-Press.svg)](https://web.hypothes.is/request-a-quote/)
 * [About Us](https://web.hypothes.is/about/ "Learn more about Hypothesis")
