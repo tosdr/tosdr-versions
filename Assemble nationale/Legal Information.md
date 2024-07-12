@@ -36,25 +36,25 @@ Travaux parlementaires
 
 ![](/dyn/assets/images/icons/icon_travaux.png)
 
-[Séance publique](https://www.assemblee-nationale.fr/dyn/seance-publique) [Commissions et autres organes](https://www.assemblee-nationale.fr/dyn/commissions-et-autres-organes) [Europe et International](https://www.assemblee-nationale.fr/dyn/europe-et-international) [Contrôle et évaluation](https://www.assemblee-nationale.fr/dyn/16/travaux-de-controle) [Congrès](https://www2.assemblee-nationale.fr/le-congres-du-parlement) [Pétitions](https://www.assemblee-nationale.fr/dyn/petitions)
+[Séance publique](https://www.assemblee-nationale.fr/dyn/seance-publique) [Commissions et autres organes](https://www.assemblee-nationale.fr/dyn/commissions-et-autres-organes) [Europe et International](https://www.assemblee-nationale.fr/dyn/europe-et-international) [Contrôle et évaluation](https://www.assemblee-nationale.fr/dyn/17/travaux-de-controle) [Congrès](https://www2.assemblee-nationale.fr/le-congres-du-parlement) [Pétitions](https://www.assemblee-nationale.fr/dyn/petitions)
 
 [Documents parlementaires](https://www.assemblee-nationale.fr/dyn/documents-parlementaires)
 
 * [Projets de loi](https://www2.assemblee-nationale.fr/documents/liste/(type)/projets-loi)
 * [Propositions de loi](https://www2.assemblee-nationale.fr/documents/liste/(type)/propositions-loi)
-* [Amendements](https://www.assemblee-nationale.fr/dyn/16/amendements)
+* [Amendements](https://www.assemblee-nationale.fr/dyn/17/amendements)
 * [Textes adoptés](https://www2.assemblee-nationale.fr/documents/liste/(type)/ta)
 
-* [Rapports d'information](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-information/(legis)/16)
-* [Rapports d'enquête](https://www2.assemblee-nationale.fr/16/autres-commissions/commissions-d-enquete)
+* [Rapports d'information](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-information/(legis)/17)
+* [Rapports d'enquête](https://www2.assemblee-nationale.fr/17/autres-commissions/commissions-d-enquete)
 * [Rapports législatifs](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports)
-* [Rapports sur l'application des lois](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-application-loi/(legis)/16)
+* [Rapports sur l'application des lois](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-application-loi/(legis)/17)
 * [Baromètre de l’application des lois](https://www.assemblee-nationale.fr/dyn/taux-application-lois)
 
-* [Dossiers législatifs](https://www.assemblee-nationale.fr/dyn/16/dossiers)
+* [Dossiers législatifs](https://www.assemblee-nationale.fr/dyn/17/dossiers)
 * [Budget et sécurité sociale](https://www2.assemblee-nationale.fr/dans-l-hemicycle/budget-et-securite-sociale)
-* [Questions écrites et orales](https://www.assemblee-nationale.fr/dyn/16/questions)
-* [Comptes rendus des débats](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance)
+* [Questions écrites et orales](https://www.assemblee-nationale.fr/dyn/17/questions)
+* [Comptes rendus des débats](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance)
 
 Connaître l'Assemblée
 
@@ -67,12 +67,12 @@ Connaître l'Assemblée
 [Organisation de l'Assemblée](https://www.assemblee-nationale.fr/dyn/organisation-de-assemblee)
 
 * [Présidence](https://presidence.assemblee-nationale.fr/)
-* [Conférence des Présidents](https://www2.assemblee-nationale.fr/16/la-conference-des-presidents)
-* [Bureau](https://www2.assemblee-nationale.fr/16/le-bureau-de-l-assemblee-nationale)
-* [Collège des Questeurs](https://www2.assemblee-nationale.fr/16/le-college-des-questeurs)
+* [Conférence des Présidents](https://www2.assemblee-nationale.fr/17/la-conference-des-presidents)
+* [Bureau](https://www2.assemblee-nationale.fr/17/le-bureau-de-l-assemblee-nationale)
+* [Collège des Questeurs](https://www2.assemblee-nationale.fr/17/le-college-des-questeurs)
 * [Services](https://www.assemblee-nationale.fr/infos/services.asp)
 
-[Statistiques et chiffres clés](https://www2.assemblee-nationale.fr/16/statistiques-de-l-activite-parlementaire) [Transparence et déontologie](https://www.assemblee-nationale.fr/dyn/transparence-et-deontologie) [Documents de référence( Constitution | Règlement de l'Assemblée ... )](https://www.assemblee-nationale.fr/dyn/documents-de-reference)
+[Statistiques et chiffres clés](https://www2.assemblee-nationale.fr/17/statistiques-de-l-activite-parlementaire) [Transparence et déontologie](https://www.assemblee-nationale.fr/dyn/transparence-et-deontologie) [Documents de référence( Constitution | Règlement de l'Assemblée ... )](https://www.assemblee-nationale.fr/dyn/documents-de-reference)
 
 [Histoire](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine) [Juniors](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/juniors) [Anciennes législatures](http://archives.assemblee-nationale.fr/) [Liens vers les sites publics](https://www.assemblee-nationale.fr/liens.asp)
 
@@ -204,15 +204,17 @@ Une semaine à l'Assemblée
 
 Inscrivez-vous à notre lettre Une semaine à l'Assemblée et recevez tous les vendredis dans votre messagerie les temps forts de l'actualité de la semaine à venir !
 
-Votre adresse de messagerie est uniquement utilisée pour vous envoyer les lettres de l'Assemblée nationale. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la lettre. [En savoir plus sur la gestion de vos données et de vos droits](https://www.assemblee-nationale.fr/faq.asp)
+Votre adresse de messagerie est uniquement utilisée pour vous envoyer les lettres de l'Assemblée nationale. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la lettre. [En savoir plus sur la gestion de vos données et de vos droits](https://www.assemblee-nationale.fr/dyn/info-site)
 
 [Abonnez-vous à la lettre d'actualité](https://se.assemblee-nationale.fr/form/60903/12/form.aspx)
 
-[S'ABONNER À UN SERVICE](https://www.assemblee-nationale.fr/abonnement.asp "S'abonner aux autres services en ligne")
+[S'ABONNER À UN SERVICE](https://www.assemblee-nationale.fr/dyn/s-abonner-aux-services-en-ligne-de-l-assemblee-nationale "S'abonner aux autres services en ligne")
 
 [OUTIL D'ÉVALUATION LEXIMPACT](https://leximpact.an.fr/ "Accéder à l'outil d'évaluation Leximpact")
 
-©Tous droits réservés Assemblée nationale 2019 | [Mentions légales](https://www.assemblee-nationale.fr/faq.asp "Accéder aux mentions légales de l'Assemblée nationale") | [Accessibilité : partiellement conforme](https://www2.assemblee-nationale.fr/static/accessibilite/declaration_accessibilite_assemblee-2023.pdf "Accessibilité : partiellement conforme") | [Contacter le webmestre](https://www.assemblee-nationale.fr/faq.asp "Contacter le webmestre") | [Fils RSS](https://www.assemblee-nationale.fr/rss/ "Accéder aux fils RSS")
+©Tous droits réservés Assemblée nationale 2019
+
+[Mentions légales](https://www.assemblee-nationale.fr/dyn/info-site "Accéder aux mentions légales de l'Assemblée nationale") | [Accessibilité : partiellement conforme](https://www2.assemblee-nationale.fr/static/accessibilite/declaration_accessibilite_assemblee-2023.pdf "Accessibilité : partiellement conforme") | [Contacter le webmestre](https://www.assemblee-nationale.fr/dyn/info-site "Contacter le webmestre") | [Fils RSS](https://www.assemblee-nationale.fr/dyn/les-fils-rss-de-l-assemblee-nationale "Accéder aux fils RSS") | [Gestion des cookies](https://www.assemblee-nationale.fr/dyn/gestion-des-cookies "Gestion des cookies")
 
 Assemblée nationale - 126 Rue de l'Université, 75355 Paris 07 SP - Standard 01 40 63 60 00
 
@@ -254,9 +256,9 @@ Travaux parlementaires
 
 [Documents parlementaires](https://www.assemblee-nationale.fr/dyn/documents-parlementaires)
 
-[Projets de loi](https://www2.assemblee-nationale.fr/documents/liste/(type)/projets-loi) [Propositions de loi](https://www2.assemblee-nationale.fr/documents/liste/(type)/propositions-loi) [Amendements](https://www.assemblee-nationale.fr/dyn/16/amendements) [Textes adoptés](https://www2.assemblee-nationale.fr/documents/liste/(type)/ta)  
-[Rapports d'information](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-information/(legis)/16) [Rapports d'enquête](https://www2.assemblee-nationale.fr/16/autres-commissions/commissions-d-enquete) [Rapports législatifs](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports) [Rapports sur l'application des lois](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-application-loi/(legis)/16) [Baromètre de l’application des lois](https://www.assemblee-nationale.fr/dyn/taux-application-lois)  
-[Dossiers législatifs](https://www.assemblee-nationale.fr/dyn/16/dossiers) [Budget et sécurité sociale](https://www2.assemblee-nationale.fr/dans-l-hemicycle/budget-et-securite-sociale) [Questions écrites et orales](https://www.assemblee-nationale.fr/dyn/16/questions) [Comptes rendus des débats](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance)
+[Projets de loi](https://www2.assemblee-nationale.fr/documents/liste/(type)/projets-loi) [Propositions de loi](https://www2.assemblee-nationale.fr/documents/liste/(type)/propositions-loi) [Amendements](https://www.assemblee-nationale.fr/dyn/17/amendements) [Textes adoptés](https://www2.assemblee-nationale.fr/documents/liste/(type)/ta)  
+[Rapports d'information](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-information/(legis)/17) [Rapports d'enquête](https://www2.assemblee-nationale.fr/17/autres-commissions/commissions-d-enquete) [Rapports législatifs](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports) [Rapports sur l'application des lois](https://www2.assemblee-nationale.fr/documents/liste/(type)/rapports-application-loi/(legis)/17) [Baromètre de l’application des lois](https://www.assemblee-nationale.fr/dyn/taux-application-lois)  
+[Dossiers législatifs](https://www.assemblee-nationale.fr/dyn/17/dossiers) [Budget et sécurité sociale](https://www2.assemblee-nationale.fr/dans-l-hemicycle/budget-et-securite-sociale) [Questions écrites et orales](https://www.assemblee-nationale.fr/dyn/17/questions) [Comptes rendus des débats](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance)
 
 ![](/dyn/assets/images/icons/icon_connaissance.png)
 
@@ -269,14 +271,14 @@ Connaître l'Assemblée
 [Organisation de l'Assemblée](https://www.assemblee-nationale.fr/dyn/organisation-de-assemblee)
 
 * [Présidence](https://presidence.assemblee-nationale.fr/)
-* [Conférence des Présidents](https://www2.assemblee-nationale.fr/16/la-conference-des-presidents)
-* [Bureau](https://www2.assemblee-nationale.fr/16/le-bureau-de-l-assemblee-nationale)
-* [Collège des Questeurs](https://www2.assemblee-nationale.fr/16/le-college-des-questeurs)
+* [Conférence des Présidents](https://www2.assemblee-nationale.fr/17/la-conference-des-presidents)
+* [Bureau](https://www2.assemblee-nationale.fr/17/le-bureau-de-l-assemblee-nationale)
+* [Collège des Questeurs](https://www2.assemblee-nationale.fr/17/le-college-des-questeurs)
 * [Services](https://www.assemblee-nationale.fr/infos/services.asp)
 
 * * *
 
-[Statistiques et chiffres clés](https://www2.assemblee-nationale.fr/16/statistiques-de-l-activite-parlementaire) [Transparence et déontologie](https://www.assemblee-nationale.fr/dyn/transparence-et-deontologie) [Documents de référence  
+[Statistiques et chiffres clés](https://www2.assemblee-nationale.fr/17/statistiques-de-l-activite-parlementaire) [Transparence et déontologie](https://www.assemblee-nationale.fr/dyn/transparence-et-deontologie) [Documents de référence  
 ( Constitution | Règlement de l'Assemblée ... )](https://www.assemblee-nationale.fr/dyn/documents-de-reference)
 
 * * *
