@@ -2,17 +2,6 @@
 
 [![Flip logo](/content/experience-fragments/flipgrid/us/en/site/header/master3/_jcr_content/root/container_copy/image.coreimg.png/1699998211401/flip-logo-light.png)](https://info.flip.com/en-us.html)
 
-* [Getting Started](https://info.flip.com/en-us/getting-started.html)
-    
-* [Blog](https://info.flip.com/en-us/blog.html)
-    
-* [Events](https://info.flip.com/en-us/events.html)
-    
-* [Help Center](https://help.flip.com/hc/en-us)
-    
-* [Download the Flip App](https://info.flip.com/en-us/download-the-flip-app.html)
-    
-
 [Log In](https://auth.flipgrid.com/)
 
 [Sign Up](https://auth.flipgrid.com/signup)
@@ -343,27 +332,14 @@ Telephone: +1 (425) 882 8080.
 * [Math Solver](https://math.microsoft.com/en)
     
 
-#### [Blog](https://info.flip.com/en-us/blog.html)
+#### [Help Center](https://help.flip.com/hc/en-us)
 
-* [Tips, Tricks, and Tutorials](https://info.flip.com/en-us/blog/tips.html)
-    
-* [Get Inspired](https://info.flip.com/en-us/blog/get-inspired.html)
-    
-* [Product Updates](https://info.flip.com/en-us/blog/product-updates.html)
+* [New Chapter for Flip](https://help.flip.com/hc/articles/23985951972375-A-New-Chapter-for-Flip-FAQ)
     
 
 #### [Events](https://info.flip.com/en-us/events.html)
 
-* [Live Streamed Events](https://info.flip.com/en-us/events/flip-events.html)
-    
-* [Professional Development](https://info.flip.com/en-us/events/professional-development.html)
-    
 * [Community Moments](https://info.flip.com/en-us/events/community-moments.html)
-    
-
-#### [Help Center](https://help.flip.com/hc/en-us)
-
-* [Remote Learning](https://help.flip.com/hc/en-us/articles/360053569714-Remote-Learning-with-Flipgrid)
     
 
 #### [Trust and Safety](https://info.flip.com/en-us/about/trust-and-safety.html)
@@ -375,15 +351,6 @@ Telephone: +1 (425) 882 8080.
 * [Consumer Health Privacy](https://go.microsoft.com/fwlink/?linkid=2259814)
     
 
-#### [App Download](https://info.flip.com/en-us/getting-started/app-download.html)
-
-* [Android](https://play.google.com/store/apps/details?id=com.vidku.app.flipgrid)
-    
-* [iOS](https://apps.apple.com/us/app/flipgrid/id756972930?ign-mpt=uo%3D4)
-    
-
-![Microsoft](/content/experience-fragments/flipgrid/us/en/site/footer/footer-2-col/_jcr_content/root/container_1768149434/image_copy.coreimg.svg/1697082804089/msft-logo.svg)
+![Microsoft](/content/experience-fragments/flipgrid/us/en/site/footer/footer-2-col2/_jcr_content/root/container_1768149434/image_copy.coreimg.svg/1719846860119/msft-logo.svg)
 
 © Microsoft {YEAR}
-
-[](https://www.facebook.com/MicrosoftFlip "Visit us on facebook")[](https://www.twitter.com/MicrosoftFlip "Visit us on twitter")[](https://www.linkedin.com/company/microsoftflip "Visit us on linkedin")[](https://www.youtube.com/c/microsoftflip "Visit us on youtube")[](https://www.instagram.com/MicrosoftFlip "Visit us on instagram")
