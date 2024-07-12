@@ -67,7 +67,6 @@
     * [Music](https://store.leapfrog.com/en-us/app-center/c?content_type=493 "Music")
     * [Expansion Packs](https://store.leapfrog.com/en-us/app-center/c?content_type=614 "Expansion Packs")
     * [Flash Cards](https://store.leapfrog.com/en-us/app-center/c?content_type=620 "Flash Cards")
-    * [Foreign Language](https://store.leapfrog.com/en-us/app-center/c?content_type=597 "Foreign Language")
     
     * SHOP APPS BY PRICE
     * [$5 and under](https://store.leapfrog.com/en-us/app-center/c?price_filter=83 "$5 and under")
@@ -160,7 +159,8 @@ By accessing and using our Services, you acknowledge that you have read and unde
 
 [Update Cookie Settings](#)
 
-**Cookies**
+Cookies
+-------
 
 LeapFrog may use cookies and web beacons on certain areas of our Services. Cookies are small text files that we may store on your computer or device to remember certain things about your use of our Services. This Cookie Policy describes the categories of cookies we use, the purposes for which we use them and how you can change your preferences.
 
@@ -178,7 +178,8 @@ We use the following types of cookies on our Services:
 
 Besides selecting (or updating) your preferences on our website’s cookie interface, you may also opt out of receiving cookies from a range of ad servers by going to either [www.youronlinechoices.com/uk/](https://www.youronlinechoices.com/uk/) or [www.networkadvertising.org](https://www.networkadvertising.org/) and follow the instructions provided.
 
-**Web Beacons**
+Web Beacons
+-----------
 
 Our Services and e-mail communications may contain electronic images known as web beacons which generally work in conjunction with cookies. We may use web beacons to combine information we collect about you. The following are examples of how we may use web beacons:
 
@@ -194,7 +195,8 @@ When used in an e-mail, web beacons can tell us:
 * If and how many times it was forwarded,
 * What links customers click on from within the e-mail message.
 
-**Disabling/Enabling Cookies on Your Browser**
+Disabling/Enabling Cookies on Your Browser
+------------------------------------------
 
 Besides selecting (or updating) your preferences on our website’s cookie interface, most web browsers also allow you to modify your settings to block cookies entirely, alert you every time they are being sent or allow their use by only those websites you approve. You can also delete cookies that are currently stored on your computer's hard drive. To do this, look for the cookie control settings in your web browser (usually under Tools, Options/Internet Options, Privacy/Security tab) and then make your desired selections. To learn more about cookies and how to enable/disable them go to [www.aboutcookies.org](https://www.aboutcookies.org/).
 
