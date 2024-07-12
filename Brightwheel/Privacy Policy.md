@@ -2,7 +2,9 @@
 
 [Skip to main content](#content)
 
- [![brightwheel logo](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/brightwheel-logo-white.svg)](https://mybrightwheel.com/)[Get a demo](https://mybrightwheel.com/demo/)
+[![brightwheel logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20209%2034'%3E%3C/svg%3E)
+
+![brightwheel logo](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/brightwheel-logo-white.svg)](https://mybrightwheel.com/)[Get a demo](https://mybrightwheel.com/demo/)
 
 * [Solutions](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare management solutions are built to save you and your staff time.")
     * [Preschools & Child Care](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare software enables you to simplify your billing, increase enrollment, and build deeper connections with families and staff.")
