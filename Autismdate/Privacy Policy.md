@@ -64,7 +64,7 @@ If you have created a Autism Date profile through a partner website and you do n
 
 Does Autism Date collect any other personal information about me?
 
-If you contact our Customer Support team via info@autismdate.com, we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).
+If you contact our Customer Support team via [\[email protected\]](https://www.autismdate.com/cdn-cgi/l/email-protection), we will receive your email address, and may track your IP address as well as the information you send to us to help resolve your query. We will keep records of our communications with you, including any complaints that we receive from you about other users (and from other users about you).
 
 Will Autism Date contact me?
 
@@ -166,7 +166,7 @@ Can I deactivate or delete my Profile?
 
 Users of the Autism Date network have the following choices to delete their profile from our database:
 
-1. Send a message via [info@autismdate.com](mailto:info@autismdate.com)
+1. Send a message via [\[email protected\]](https://www.autismdate.com/cdn-cgi/l/email-protection)
 2. Sign in with your password and delete your profile. These options are available from your “Settings” page.
 
 To prevent abuse and/or misuse of Autism Date by a user following termination or deletion of a profile/account we shall retain such information as we deem in our sole discretion may be necessary to ensure that user does not open a new account and profile in breach of our Terms of Use and to ensure compliance with all laws and regulations.
@@ -181,7 +181,7 @@ If your account is not confirmed in 30 days after registration via the confirmat
 
 ​Your Autism Date account is non-transferable and any rights to your profile or contents within your account will be cancelled upon your death.
 
-If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [info@autismdate.com](mailto:info@autismdate.com)
+If you have questions about our Privacy Policy or how we collect and use information, drop us a line via [\[email protected\]](https://www.autismdate.com/cdn-cgi/l/email-protection)
 
 This Privacy Policy was last updated on 25th of december 2020.
 
