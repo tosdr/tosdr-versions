@@ -582,7 +582,9 @@ The best social media marketing app, influencer marketing management platform & 
     
     Tools
     
+    * [Influencer Database](https://later.com/influencer-marketing-tools/influencer-database/)
     * [Find Influencers](https://later.com/influencer-marketing-tools/find-influencers/)
+    * [Influencer Outreach](https://later.com/influencer-marketing-tools/influencer-outreach/)
     * [Influencer Campaigns](https://later.com/influencer-marketing-tools/influencer-campaign-platform/)
     * [Manage Influencers](https://later.com/influencer-marketing-tools/influencer-management-platform/)
     * [Pay Influencers](https://later.com/influencer-marketing-tools/influencer-payments/)
@@ -606,6 +608,8 @@ The best social media marketing app, influencer marketing management platform & 
     Use Cases
     
     * [CPG](https://later.com/cpg-influencers/)
+    * [Retail](https://later.com/retail-influencers/)
+    * [Food & Beverage](https://later.com/food-beverage-influencers/)
     * [E-Commerce](https://later.com/ecommerce-influencers/)
     
     Demo
