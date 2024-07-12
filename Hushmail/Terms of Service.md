@@ -74,11 +74,11 @@ Any rights not expressly granted herein are reserved.
 
 ### From the Blog
 
-#### [HIPAA Security Rule updates: What it means for small healthcare practices](https://blog.hushmail.com/blog/2024-hipaa-updates/)
+#### [3 great reasons to use email templates in your healthcare practice](https://blog.hushmail.com/blog/using-email-templates/)
 
-Published on June 14, 2024
+Published on July 8, 2024
 
-Get ahead of the HIPAA Security Rule updates! This non-intimidating guide is for small healthcare practices looking for an actionable plan. [Read more.](https://blog.hushmail.com/blog/2024-hipaa-updates/)
+Writing the same emails over and over? Learn how to use templates to save time, reduce errors, and email like a pro. [Read more.](https://blog.hushmail.com/blog/using-email-templates/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -133,7 +133,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=FC4D7C0E649764E1D195F63930373694)
+![](https://hushforms.com/visitorid?visitorid=1E1030A06F4A919DD8A864090D6112A2)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
