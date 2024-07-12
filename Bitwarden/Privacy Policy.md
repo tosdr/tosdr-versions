@@ -79,15 +79,17 @@
 Bitwarden Inc. Privacy Policy
 -----------------------------
 
-[](#eu-u-s-data-privacy-framework "#eu-u-s-data-privacy-framework")
+[](#data-privacy-framework "#data-privacy-framework")
 
-### EU-U.S. Data Privacy Framework
+### Data Privacy Framework
 
-Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce. Bitwarden has certified to the Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Bitwarden has certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce. Bitwarden has certified to the Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. Bitwarden has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
 
-[](#eu-u-s-data-privacy-framework-principles "#eu-u-s-data-privacy-framework-principles")
+If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
 
-### EU-U.S. Data Privacy Framework (Principles)
+[](#data-privacy-framework-principles "#data-privacy-framework-principles")
+
+### Data Privacy Framework (Principles)
 
 * [Notice](#notice)
     
@@ -335,7 +337,7 @@ We use applicable, approved information transfer mechanisms where required, such
 
 You may contact us about our practices or to make a complaint and seek recourse according to these methods available to you, and subject to applicable enforcement powers.
 
-In compliance with the EU-U.S. Data Privacy Principles, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
 
 If you have an unresolved complaint, Bitwarden has agreed to participate in the DPF independent dispute resolution mechanism operated by JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information or to file a complaint. 
 
@@ -465,7 +467,7 @@ Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
 #### Company
 
-[About](https://bitwarden.com/about/)[Open Source](https://bitwarden.com/open-source/)[Careers](https://bitwarden.com/careers/)[Events](https://bitwarden.com/events/)[Media Spotlight](https://bitwarden.com/media-spotlight/)[Press Room](https://bitwarden.com/press-room/)[Blog](https://bitwarden.com/blog/)[Partners](https://bitwarden.com/partners/)
+[About](https://bitwarden.com/about/)[Open Source](https://bitwarden.com/open-source/)[Careers](https://bitwarden.com/careers/)[Events](https://bitwarden.com/events/)[Open Source Security Summit](https://bitwarden.com/open-source-security-summit/)[Press Room](https://bitwarden.com/press-room/)[Blog](https://bitwarden.com/blog/)[Partners](https://bitwarden.com/partners/)
 
 #### Resources
 
