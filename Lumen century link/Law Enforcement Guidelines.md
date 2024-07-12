@@ -15,6 +15,10 @@ Menu
 [Sign In](https://www.lumen.com/login/)* SOLUTIONS
     
     back SOLUTIONS* [Why Lumen](https://www.centurylink.com/en-us/why-lumen.html)
+        back Why Lumen* [Lumen Digital](https://www.centurylink.com/en-us/lumen-digital.html)
+        * [Why Lumen?](https://www.centurylink.com/en-us/why-lumen.html)
+        * [Black Lotus Labs](https://www.centurylink.com/en-us/security/black-lotus-labs.html)
+        * [Network Maps](https://www.centurylink.com/en-us/resources/network-maps.html)
     * By Business Size
         back By Business Size* [Enterprise Business](https://www.centurylink.com/en-us/solutions/business-size/large-enterprise.html)
         * [Midsize Business](https://www.centurylink.com/en-us/solutions/business-size/midsize.html)
@@ -38,7 +42,6 @@ Menu
         * [Security](https://www.centurylink.com/en-us/solutions/connected-security.html)
     * By Use Case
         back By Use Case* [Branch Transformation](https://www.centurylink.com/en-us/solutions/use-case/branch-transformation.html)
-        * [ExaSwitch](https://www.centurylink.com/en-us/solutions/use-case/exaswitch.html)
         * [Network-as-a-Service](https://www.centurylink.com/en-us/solutions/use-case/network-on-demand.html)
         * [Secure Your Workforce](https://www.centurylink.com/en-us/solutions/use-case/secure-workforce.html)
     * Technology Partners
@@ -50,6 +53,11 @@ Menu
         * [Microsoft](https://www.centurylink.com/en-us/alliances/microsoft.html)
         * [SAP](https://www.centurylink.com/en-us/managed-it-services/sap-ecosystems.html)
         * [VMware](https://www.centurylink.com/en-us/alliances/vmware.html)
+    
+    back SOLUTIONS* [Lumen Digital](https://www.centurylink.com/en-us/lumen-digital.html)
+    * [Why Lumen?](https://www.centurylink.com/en-us/why-lumen.html)
+    * [Black Lotus Labs](https://www.centurylink.com/en-us/security/black-lotus-labs.html)
+    * [Network Maps](https://www.centurylink.com/en-us/resources/network-maps.html)
     
     back SOLUTIONS* [Enterprise Business](https://www.centurylink.com/en-us/solutions/business-size/large-enterprise.html)
     * [Midsize Business](https://www.centurylink.com/en-us/solutions/business-size/midsize.html)
@@ -73,7 +81,6 @@ Menu
     * [Security](https://www.centurylink.com/en-us/solutions/connected-security.html)
     
     back SOLUTIONS* [Branch Transformation](https://www.centurylink.com/en-us/solutions/use-case/branch-transformation.html)
-    * [ExaSwitch](https://www.centurylink.com/en-us/solutions/use-case/exaswitch.html)
     * [Network-as-a-Service](https://www.centurylink.com/en-us/solutions/use-case/network-on-demand.html)
     * [Secure Your Workforce](https://www.centurylink.com/en-us/solutions/use-case/secure-workforce.html)
     
