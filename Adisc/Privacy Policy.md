@@ -81,7 +81,7 @@ Privacy Policy
 
 Messages
 
-3,489
+3,508
 
 * May 26, 2018
 
@@ -151,7 +151,7 @@ We collect the following categories of information:
 * We only share data about you in limited circumstances, such as:
     * The data is public, such as your posts to public forums, or the public information on your profile. Visitors to this site, including Google, can see public data.
     * It is necessary in order to fulfill your wishes/requests. For example, if you are gifting us money, we may have to share limited information about the gift with our payment processor, in order for them to process the gift.
-    * It is necessary in order for ADISC's services and infrastructure to work. For example, if, we route our outgoing 'please verify your email address' email through a third party email service, then we will have to share your email with them for that to work.
+    * It is necessary in order for ADISC's services and infrastructure to work. For example, if, we route our outgoing 'please verify your email address' email through a third party email service, then we will have to share your email address with them for that to work. Another example: If we're using a web analytics platform, we have to share information on page view requests with them in order for that to work.
     * Exceptional circumstances apply. This would include, but is not limited to, situations where doing so is required in order to comply with the law, alert authorities to a suicidal person needing help, report a serious crime, or similarly deal with a vital emergency. This also covers situations where we are defending ourselves, our reputation, or our rights.
 
 **Google Analytics**  
@@ -184,14 +184,16 @@ Automated Decision-Making**
     * We may decide to block you from accessing or participating in our community in future. We're a support community run by volunteers. Our staff doesn't get paid for the work they do here. Members who create disproportionately large amounts of administrative hassle for us (such as by submitting extremely time-consuming GDPR requests, especially invalid ones) are just not worth the trouble to have as members. ADISC is private property, and we are under no obligation to let someone use it if we don't want to.
 
   
-**Gifts / Donations**  
-We are funded by gifts of money to our admin.  
-Our payment processor must retain records of money we are sent, just as they retain records for all other money transfers on their platform.  
-  
+**Gifts, Donations, Etc**  
+
+* If you gift us money, you also agree to the privacy policy of whichever payment processor you use to send us the money.
+* The payment processor may retain a record of it, just as they retain records for all other money transfers on their platform.
+
   
 **Effective Date**  
 
 * This privacy policy is effective from Mar 31st, 2019.
+* The latest clarifying update to this policy was made June 25th, 2024.
 
 **Country**  
 
@@ -209,12 +211,12 @@ Our payment processor must retain records of money we are sent, just as they ret
 
 * Please use the [requests forum](https://www.adisc.org/forum/forumdisplay.php?f=10) to contact us.
 
-Last edited: Jan 1, 2022
+Last edited: Jun 25, 2024
 
 * ![Like](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Like")
 * ![Wow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wow")
 
-Reactions: LittleRobbie, Woncrinklz, Ellie and 1 other person
+Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 2 others
 
 [You must log in or register to reply here.](https://www.adisc.org/forum/login/)
 
@@ -245,7 +247,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1718968642%2C5284374116188f095ad989b827a6db83) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1718968642%2C5284374116188f095ad989b827a6db83)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1720746993%2C7c5ffabd1b03621cd4db9357cec2e7c5) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1720746993%2C7c5ffabd1b03621cd4db9357cec2e7c5)
     
     * Essential cookies
     
