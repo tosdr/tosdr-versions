@@ -78,7 +78,7 @@ Close mobile sub-navigation
     
     Topics
     
-     [![Greenhouse DEI Icon and two coworkers collaborating2x](https://sharp.services.greenhouse.io/production/Greenhouse-DEI-Icon-and-two-coworkers-collaborating2x.png?auto=format&fit=max&lossless=true&q=90&w=360&s=04507143a542b674b1ed1f44bee0aab0a1be418ac376e3ba0807aeb87406a975) DE&I](https://www.greenhouse.com/uk/content-topic/diversity-inclusion)[![Greenhouse scorecard icon thumbs up and two women coworkers talking2x](https://sharp.services.greenhouse.io/production/Greenhouse-scorecard-icon-thumbs-up-and-two-women-coworkers-talking2x.png?auto=format&fit=max&lossless=true&q=90&w=360&s=14660e38010d9977b9171dff90b9f7ff3eb0df593b4a8fb74e73c2a2919ac44b) Structured hiring](https://www.greenhouse.com/uk/content-topic/structured-hiring)[![Greenhouse AI icon and coworkers sitting at a table2x](https://sharp.services.greenhouse.io/production/Greenhouse-AI-icon-and-coworkers-sitting-at-a-table2x.png?auto=format&fit=max&lossless=true&q=90&w=360&s=ac14312d22edfb5cf5ea7507e9b612cfb4b955d42d8e467d12d8d0b915da56a5) AI and automation](https://www.greenhouse.com/uk/content-topic/ai-automation)[![Hiring maturity curve and woman in office2x](https://sharp.services.greenhouse.io/production/Hiring-maturity-curve-and-woman-in-office2x.png?auto=format&fit=max&lossless=true&q=90&w=360&s=833e2aec4cac32cd02eca1fc3957e084a4ba36faeda240093cdeae826b41bf24) Hiring Maturity](https://www.greenhouse.com/uk/content-topic/hiring-maturity)
+     [![Greenhouse DEI Icon and office worker facing cameria in collared shirt](https://sharp.services.greenhouse.io/production/Greenhouse-DEI-Icon-and-office-worker-facing-cameria-in-collared-shirt.png?auto=format&fit=max&lossless=true&q=90&w=360&s=c29bf719d36093be3102884d71399e9ef2a02cc02f4bcc3a7af9e5babc8152a3) DE&I](https://www.greenhouse.com/uk/content-topic/diversity-inclusion)[![Greenhouse scorecard icon thumbs up and office worker waving to person virtually](https://sharp.services.greenhouse.io/production/Greenhouse-scorecard-icon-thumbs-up-and-office-worker-waving-to-person-virtually.png?auto=format&fit=max&lossless=true&q=90&w=360&s=2e7bb257c9befe1d2b756aaea401461d1ae127c8a580d5239a3c066a5a0c2059) Structured hiring](https://www.greenhouse.com/uk/content-topic/structured-hiring)[![Greenhouse AI icon and office worker sitting at a table](https://sharp.services.greenhouse.io/production/Greenhouse-AI-icon-and-office-worker-sitting-at-a-table.png?auto=format&fit=max&lossless=true&q=90&w=360&s=d3b45477b2182b4ba3806e9d46a63a57eed23e261b804a389546a647b129ee6f) AI and automation](https://www.greenhouse.com/uk/content-topic/ai-automation)[![Hiring maturity curve and woman in white suit in brightly lit office](https://sharp.services.greenhouse.io/production/Hiring-maturity-curve-and-woman-in-white-suit-in-brightly-lit-office.png?auto=format&fit=max&lossless=true&q=90&w=360&s=c47d867737eb9b7dfd206ae6b5052659aa9831a7683f4c66e84f1d7c32b74103) Hiring Maturity](https://www.greenhouse.com/uk/content-topic/hiring-maturity)
     
     Support
     
@@ -132,7 +132,7 @@ Close mobile sub-navigation
     
     Learn how to bring skills-based hiring forward in 2024 – so you can make more effective, inclusive hiring decisions.
     
-    [Register now](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
+    [Watch on-demand](https://www.greenhouse.com/uk/events/from-credentials-to-competencies-mastering-skills-based-hiring)  
     
 
 [Request a demo](https://www.greenhouse.com/uk/demo) [Sign in](https://app.greenhouse.io/users/sign_in)
@@ -394,7 +394,7 @@ Archived versions[](https://www.greenhouse.com/subprocessors-in-use-march-8-2024
 
 [Subprocessors in use - March 8, 2024](https://www.greenhouse.com/subprocessors-in-use-march-8-2024)
 
-be\_ixf;ym\_202406 d\_21; ct\_50
+be\_ixf;ym\_202407 d\_11; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/uk/subprocessors-in-use
