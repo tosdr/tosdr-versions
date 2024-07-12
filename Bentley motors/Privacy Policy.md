@@ -31,7 +31,9 @@ Introduction**
 Welcome to the Bentley Motors Limited (“Bentley”) privacy policy.
 
   
-For visitors to the Bentley Motors website browsing from the United States, please view the Bentley Motors Inc. privacy statement which can be found [here](https://americas.bentleymotors.com/en/misc/bmi-privacy-statement.html?utm_medium=referral&utm_source=bmwebsite). This privacy statement also includes information about California privacy rights.
+For visitors to the Bentley Motors website browsing from the United States, please view the Bentley Motors Inc. privacy policy which can be found [here](https://americas.bentleymotors.com/en/misc/bmi-privacy-statement.html?utm_medium=referral&utm_source=bmwebsite). This privacy statement also includes information about California privacy rights.
+
+For visitors to the Bentley Motors website browsing from Korea, please view the Bentley Motors Korea privacy policy which can be found [here.](https://www.bentleymotors.com/en/pages/korean-privacy-policy.html)
 
   
 Bentley respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data and tell you about your privacy rights and how the law protects you.
