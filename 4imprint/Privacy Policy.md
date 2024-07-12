@@ -310,7 +310,7 @@ video about why you should buy from 4imprint](https://www.4imprint.com/info/whyb
 * [FAQ](https://www.4imprint.com/info/faq)
 * [Newsletters](https://info.4imprint.com/library/content-type/enews/)
 * [Press Releases](https://info.4imprint.com/library/content-type/press-release/)
-* [Product Reviews](https://www.4imprint.com/reviews/)
+* [Product Reviews](https://www.4imprint.com/reviews)
 * [Request a Catalog](https://www.4imprint.com/catalogrequest)
 * [Swagging Rights®](https://www.4imprint.com/swaggingrights)
 * [Transparency in Coverage opens in new window](https://transparency-in-coverage.uhc.com/)
@@ -346,6 +346,6 @@ Shopping at 4imprint is secure and 100% guaranteed
 © 1994 - 2024 4imprint Inc. All rights reserved. [Legal information](https://info.4imprint.com/legal-statement/).  
 Glide is protected by U.S. Pat. No. 7,979,318  
 Here's some stuff you don't need to know, but we do!  
-aw0mdwk0004AY
+aw0mdwk0004CR
 
 [To Top of page](#)
