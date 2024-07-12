@@ -1,10 +1,10 @@
-[Skip to content](#MainContent)
+               Reseller Policy – BulbHead                                                                                [Skip to content](#MainContent)
 
     
 
 Free standard shipping on **orders over $49**
 
-  [![BulbHead](//www.bulbhead.com/cdn/shop/files/Logo.png?v=1679292382&width=93) ![BulbHead](//www.bulbhead.com/cdn/shop/files/BH_LOGO-Horizontal-_BH_2.png?v=1668771639&width=180) ![BulbHead](//www.bulbhead.com/cdn/shop/files/Logo.png?v=1679292382&width=60)](https://www.bulbhead.com/)
+  [![BulbHead](//www.bulbhead.com/cdn/shop/files/MemDay-BH-Logo-Anim-400x438-flag.gif?v=1676694275&width=400) ![BulbHead](//www.bulbhead.com/cdn/shop/files/BH_LOGO-Horizontal-_BH_2.png?v=1668771639&width=180) ![BulbHead](//www.bulbhead.com/cdn/shop/files/Logo.png?v=1679292382&width=60)](https://www.bulbhead.com/)
 
  Got Problems? We Have Solutions!  
 
@@ -343,3 +343,13 @@ Yes Cancel
 #### You will no longer receive emails about wishlist activities from this store.
 
 Close
+
+##### Guest shopper
+
+You are currently shopping anonymously!
+
+Login to save your wishlist.
+
+[Login](https://www.bulbhead.com/account/login)
+
+[Copy link to share ![Email Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy guest wishlist link")](#)
