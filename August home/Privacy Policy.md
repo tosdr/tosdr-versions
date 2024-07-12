@@ -1,4 +1,4 @@
-\-->   Privacy Policy                                                                                  [Accessibility Statement](https://august.com/pages/accessibility)
+\-->   Privacy Policy                                                                                        [Accessibility Statement](https://august.com/pages/accessibility)
 
 [Skip To Main Content](#mainContentDivider)
 
