@@ -1,6 +1,6 @@
 ### Terms and Conditions
 
-Effective Date, August 23, 2022
+Effective Date: July 5, 2024
 
 ### Terms and Conditions of Grocery Delivery E-Services USA INC.
 
@@ -272,3 +272,19 @@ Where HelloFresh requires that you provide an email address, you are responsible
 ### 34\. SWEEPSTAKES
 
 NO PURCHASE OR PAYMENT OF ANY KIND NECESSARY TO ENTER OR WIN A SWEEPSTAKES. A PURCHASE OF A HELLOFRESH SUBSCRIPTION WILL AUTOMATICALLY ENTER YOU INTO OUR SWEEPSTAKES, HOWEVER, A PURCHASE WILL NOT INCREASE YOUR ODDS OF WINNING. CHANCES OF WINNING A SWEEPSTAKES WILL DEPEND ON THE TOTAL NUMBER OF ENTRIES RECEIVED. AFFIDAVIT OF ELIGIBILITY/RELEASE OF LIABILITY/PRIZE ACCEPTANCE AGREEMENT MAY BE REQUIRED. ALL DISPUTES WILL BE RESOLVED SOLELY BY BINDING ARBITRATION AND ENTRANTS WAIVE THE ABILITY TO BRING CLAIMS IN A CLASS ACTION FORMAT. BY PARTICIPATING IN A SWEEPSTAKES, YOU AGREE TO THE APPLICABLE OFFICIAL RULES. OPEN ONLY TO LEGAL RESIDENTS OF THE 50 UNITED STATES AND D.C. OR OLDER. VOID WHERE PROHIBITED BY LAW.
+
+### TERMS & CONDITIONS – HELLOFRESH CASH FUNDS
+
+  
+
+1. The following HelloFresh Cash Funds terms and conditions apply and supplement the general terms and conditions available above and at [http://www.hellofresh.com/about/termsandconditions](https://www.hellofresh.com/about/termsandconditions) (“General Terms and Conditions”). In case of any conflicts, the General Terms and Conditions shall prevail.
+    
+2. HelloFresh allows you to acquire and top-up HelloFresh Cash funds on your customer account. With this function, you can use a prepaid balance for future purchases of goods and services available on our website or mobile application. You may top-up HelloFresh Cash funds to your customer account through the provided payment methods on our website or mobile application, provided these amounts will not exceed $400.00 in total. With each top-up you will receive an additional balance on your customer account by HelloFresh as laid out under the following link: [https://www.hellofresh.com/account-settings/payment-methods](https://www.hellofresh.com/account-settings/payment-methods). Any top-up of this balance cannot be redeemed back into cash.
+    
+3. If a balance on your customer account is not sufficient to charge the total amount of an order, HelloFresh will use an additional payment method made available by you to charge the remaining amount of the respective order. HelloFresh reserves the right to charge the balance on your customer account to cover previous unpaid orders before charging an amount of the additional payment method.
+    
+4. HelloFresh Cash funds can only be used on your customer account, but not transferred to other accounts or individuals. For the avoidance of doubt, HelloFresh Cash funds are not gift cards, cannot be used in HelloFresh markets or HelloFresh brands other than this website or mobile application where they were redeemed, and cannot be redeemed for cash.
+    
+5. In order to fulfill a legal obligation, HelloFresh reserves at any time the right to limit the amount of HelloFresh Cash funds that can be transferred or redeemed to your customer account.
+    
+6. HelloFresh may suspend or terminate the top-up function or usage of HelloFresh Cash funds on your customer account by electronic notification at least one (1) month in advance, including but not limited to as a consequence to adjustments of services, legal requirements, court rulings or changes in market conditions. In this case, any refund of remaining HelloFresh Cash funds on your customer account and its limitations shall then be governed by the applicable provisions of the General Terms and Conditions. HelloFresh may also suspend or terminate the top-up function or your usage of HelloFresh Cash funds for good cause, in case you violate these terms or in the event of fraudulent or abusive behavior in connection with the top-up function or your subscription to our services.
