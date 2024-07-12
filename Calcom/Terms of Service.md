@@ -1,7 +1,5 @@
 [Cal.com logo](https://cal.com/)®
 
-[Hiring](https://cal.com/jobs)
-
 * [Pricing](https://cal.com/pricing)
     
 * Products
@@ -73,7 +71,7 @@ At the end of each Billing Cycle, your Subscription will automatically renew und
 
 A valid payment method, including credit card or PayPal, is required to process the payment for your subscription. You shall provide Cal.com, Inc. with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize Cal.com, Inc. to charge all Subscription fees incurred through your account to any such payment instruments.
 
-Should automatic billing fail to occur for any reason, Meet Technologies Inc. will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+Should automatic billing fail to occur for any reason, Cal.com, Inc. will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 
 Free Trial
 ----------
@@ -206,11 +204,11 @@ aygun is automated error monitoring software provided by Raygun Limited. Privacy
 Links To Other Web Sites
 ------------------------
 
-Our Service may contain links to third party web sites or services that are not owned or controlled by Meet Technologies Inc..
+Our Service may contain links to third party web sites or services that are not owned or controlled by Cal.com, Inc..
 
 Cal.com, Inc. has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
-YOU ACKNOWLEDGE AND AGREE THAT CALENDSO LTD SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH THIRD PARTY WEB SITES OR SERVICES.
+YOU ACKNOWLEDGE AND AGREE THAT CAL.COM INC SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGE OR LOSS CAUSED OR ALLEGED TO BE CAUSED BY OR IN CONNECTION WITH USE OF OR RELIANCE ON ANY SUCH CONTENT, GOODS OR SERVICES AVAILABLE ON OR THROUGH ANY SUCH THIRD PARTY WEB SITES OR SERVICES.
 
 WE STRONGLY ADVISE YOU TO READ THE TERMS OF SERVICE AND PRIVACY POLICIES OF ANY THIRD PARTY WEB SITES OR SERVICES THAT YOU VISIT.
 
@@ -294,8 +292,6 @@ Let people book when it works for both of you
 
 [Cal logo](https://cal.com/)
 
-[Hiring](https://cal.com/jobs)
-
 ®
 
 Cal.com® and Cal® are a registered trademark by Cal.com, Inc. All rights reserved.
@@ -374,6 +370,7 @@ English
 * [Timekit](https://cal.com/scheduling/timekit-alternative)
 * [YouCanBook.Me](https://cal.com/scheduling/youcanbookme-alternative)
 * [Meetingbird](https://cal.com/scheduling/meetingbird-alternative)
+* [Hubspot Meetings Scheduling](https://cal.com/scheduling/hubspot-alternative)
 * [Doodle](https://cal.com/scheduling/doodle-alternative)
 * [Woven](https://cal.com/scheduling/woven-alternative)
 * [Harmonizely](https://cal.com/scheduling/harmonizely-alternative)
