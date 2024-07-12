@@ -34,10 +34,10 @@
     * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin)
 * [Lernen & Wissen](https://www.blocktrainer.de/wissen)
     * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger)
+    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Mehr Wissen zu Bitcoin & Co.](https://www.blocktrainer.de/wissen/mehr-wissen-zu-bitcoin-co)
     * [Blocktrainer Podcast](https://www.blocktrainer.de/wissen/blocktrainer-podcast)
     * [Bitcoin-Bücher](https://www.blocktrainer.de/tools-services/bitcoin-buecher)
-    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen)
     * [Glossar](https://www.blocktrainer.de/wissen/glossar)
 * [Tools & Services](https://www.blocktrainer.de/tools-services)
@@ -55,6 +55,8 @@
 * [Forum](https://forum.blocktrainer.de/)
 * [Events](https://www.blocktrainer.de/bitcoin-events)
 * [Shop](https://www.blocktrainer.de/shop/alle-produkte)
+    * [Bücher](https://www.blocktrainer.de/shop/buecher)
+    * [Wallet Backups](https://www.blocktrainer.de/shop/wallet-backups)
 * [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
 
 * [Startseite](https://www.blocktrainer.de/ "Startseite")
@@ -563,13 +565,14 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
     * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/Blocktrainer_ABG_15042024.pdf "AGB")
 * ÜBER UNS
     * [Unser Gründer](https://www.blocktrainer.de/unser-gruender "Unser Gründer")
-    * [Unsere Autoren](https://www.blocktrainer.de/autoren "Unsere Autoren")
+    * [Unsere Autoren](https://www.blocktrainer.de/ueber-uns/unsere-autoren "Unsere Autoren")
     * [Brand](https://www.blocktrainer.de/brand "Brand")
 * UNTERSTÜTZEN
     * [Spenden](https://www.blocktrainer.de/unterstuetze-uns "Spenden")
     * [Patenschaft](https://www.blocktrainer.de/patenschaft "Patenschaft")
 * SONSTIGES
     * [Shop](https://www.blocktrainer.de/shop/alle-produkte "Shop")
+    * [RSS Feed](https://www.blocktrainer.de/feed "RSS Feed")
     * [Newsletter](https://www.blocktrainer.de/newsletter "Newsletter")
     * [Status](https://status.blocktrainer.de/ "Status")
 
