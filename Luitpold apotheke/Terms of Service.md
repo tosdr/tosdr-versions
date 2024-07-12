@@ -304,9 +304,9 @@ Meist verkaufte Produkte
     
      1
     
-* [Voltaren Schmerzgel forte 23,2 mg/g - Gel mit Diclofenac](https://www.medikamente-per-klick.de/voltaren-schmerzgel-forte-23-2-mg-g-180g-11240397)
+* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
-    21,33 €\*
+    6,16 €\*
     
      1
     
@@ -333,25 +333,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Ladival allergische Haut Sonnenschutzgel LSF30 200ml](https://www.medikamente-per-klick.de/product?artnr=03373492&simpleContentAttachmentId=14183&wochenklick)  
-\*\*\*inkl. 2EUR Aktionsrabatt - Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/03373492_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=03373492&simpleContentAttachmentId=14183&wochenklick)
+[GAVISCON Dual Suspension mit Zweifachwirkung gegen Sodbrennen (48x10 ml)](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)  
+\*\*\*Sonderpreis\*\*\*  
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/16511079_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)
 
-UVP2:
+VK1:
 
-24,30 €\*
+44,98 €\*
 
 Ihr Preis:
 
-12,45 €\*
+29,28 €\*
 
 Sie sparen:
 
-11,85 € \-49%
+15,70 € \-35%
 
-2024-06-24 09:00:00
+2024-07-18 10:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=03373492&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=16511079&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -393,7 +393,7 @@ Auszeichnung von n-tv & DISQ
 
 Service & Info
 
-* [![Magnesium Verla](/images/generic_attachments/attachments/medikamenteperklick/Verla-190x60.jpg "Magnesium Verla")](https://www.medikamente-per-klick.de/themenshops/mineralstoffe-vitamine/magnesium-verla)
+* [![Sebamed](/images/generic_attachments/attachments/medikamenteperklick/Sebamed_Medi_per_Klick_Duschen_190x60_70012340_19_L01.jpg "Sebamed")](https://www.medikamente-per-klick.de/search/sebamed%20dusche)
 * [![Doppelherz Kollagen Beauty](/images/generic_attachments/attachments/medikamenteperklick/Kollagen_190x60_Headline.jpg "Doppelherz Kollagen Beauty")](https://www.medikamente-per-klick.de/product?artnr=13332904)
 * [![zum Partnershop - Saniklick](/images/generic_attachments/attachments/medikamenteperklick/sani2.jpg "zum Partnershop - Saniklick")](https://www.saniklick.de/)
 
@@ -642,4 +642,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=xzuldesflxgzeebbctvumjhexciiffay&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=dpxqcjseeawpjyddtkcxjufxhkvtnrfh&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
