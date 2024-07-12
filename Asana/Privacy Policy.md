@@ -12,6 +12,8 @@ x icon
 
 Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenska繁體中文
 
+Choose your preferred language
+
 [Contact sales](https://asana.com/sales)
 
 [Log In](https://app.asana.com/-/login)
@@ -497,7 +499,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/site-map)
+* [Sitemap](https://asana.com/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
