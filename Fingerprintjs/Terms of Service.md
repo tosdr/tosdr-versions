@@ -30,7 +30,7 @@ FINGERPRINT IDENTIFICATION
 * [Introduction](https://dev.fingerprintjs.com/docs/introduction)
 * [Fingerprint Identification vs FingerprintJS](https://dev.fingerprintjs.com/docs/identification-vs-fingerprintjs)
 * [Understanding our 99.5% accuracy](https://dev.fingerprintjs.com/docs/understanding-our-995-accuracy)
-* [Understanding your confidence score](https://dev.fingerprintjs.com/docs/understanding-your-confidence-score)
+* [Understanding your confidence score](https://dev.fingerprintjs.com/docs/understanding-your-confidence-score-v11)
 * [Identification using pseudonymized IP Address](https://dev.fingerprintjs.com/docs/identification-using-pseudonymized-ip-address)
 * [Glossary](https://dev.fingerprintjs.com/docs/glossary)
 
@@ -121,6 +121,7 @@ Integrations And Frameworks
     * [Google Tag Manager](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-google-tag-manager)
     * [Matomo / Piwik](https://dev.fingerprintjs.com/docs/matomo-piwik)
     * [Segment Data Integration](https://dev.fingerprintjs.com/docs/segment)
+    * [Fastly VCL Proxy Integration](https://dev.fingerprintjs.com/docs/fastly-vcl-proxy-integration)
 * [Backend libraries](https://dev.fingerprintjs.com/docs/backend-libraries)
     * [Go Server API SDK](https://dev.fingerprintjs.com/docs/fingerprint-pro-server-api-go-sdk)
     * [Java Server API SDK](https://dev.fingerprintjs.com/docs/java-server-api-sdk)
@@ -256,7 +257,7 @@ These Terms of Service, as amended from time to time (“**Terms**”), are ente
 
 \[1\] By way of example, a visitor who accesses the Customer Website via Google Chrome on a given device in a given calendar month counts as one (1) Unique Browser Instance. If the same visitor accesses the Customer Website via Firefox or a different device in the same calendar month, that counts as two (2) Unique Browser Instances (one (1) for the Google Chrome instance on the initial device and one (1) for the Firefox instance on the same device or the Google Chrome instance on a different device, respectively) in the applicable calendar month.
 
-Updated 9 days ago
+Updated 30 days ago
 
 * * *
 
