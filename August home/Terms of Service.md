@@ -1,4 +1,4 @@
-\-->   End User Agreement | Our Terms & Agreements | August Home                                                                                 [Accessibility Statement](https://august.com/pages/accessibility)
+\-->   End User Agreement | Our Terms & Agreements | August Home                                                                                       [Accessibility Statement](https://august.com/pages/accessibility)
 
 [Skip To Main Content](#mainContentDivider)
 
