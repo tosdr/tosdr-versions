@@ -32,7 +32,7 @@
         * [What is a Search Aggregator and Why Should I Use it?](https://www.juicer.io/blog/what-is-a-search-aggregator-and-why-should-i-use-it)
         * [How Content Aggregator Websites Can Transform Your Business in a Few Easy Steps](https://www.juicer.io/blog/how-content-aggregator-websites-can-transform-your-business-in-a-few-easy-steps)
         * [Taggbox vs. Juicer: Which Social Feed Widget Should You Choose?](https://www.juicer.io/blog/taggbox-alternatives-comparing-social-media-feed-widgets) 
-        * [Why is Content Moderation Important For User Generated Campaigns?](https://www.juicer.io/blog/why-is-content-moderation-important-for-user-generated-campaigns)
+        * [Why is Content Moderation Important For User-Generated Campaigns?](https://www.juicer.io/blog/why-is-content-moderation-important-for-user-generated-campaigns)
         * [What is Social Retail and How Can Your Brand Utilize It?](https://www.juicer.io/blog/what-is-social-retail)
         * [View more articles on blog](https://www.juicer.io/blog)
 * [How To](#)
@@ -41,6 +41,7 @@
         * [Embed Twitter Feed](https://www.juicer.io/blog/embed-twitter-feed-on-website)
         * [Embed LinkedIn Feed](https://www.juicer.io/blog/embed-linkedin-feed-on-website)
         * [Embed Instagram Reels](https://www.juicer.io/blog/embed-instagram-reels-on-website)
+        * [Embed Instagram Stories](https://www.juicer.io/blog/embed-instagram-stories-on-website)
         * [Embed Facebook Feed](https://www.juicer.io/blog/embed-facebook-feed-on-website)
 * [Resources](#)
     * Resources
@@ -85,7 +86,7 @@ Menu
         * [What is a Search Aggregator and Why Should I Use it?](https://www.juicer.io/blog/what-is-a-search-aggregator-and-why-should-i-use-it)
         * [How Content Aggregator Websites Can Transform Your Business in a Few Easy Steps](https://www.juicer.io/blog/how-content-aggregator-websites-can-transform-your-business-in-a-few-easy-steps)
         * [Taggbox vs. Juicer: Which Social Feed Widget Should You Choose?](https://www.juicer.io/blog/taggbox-alternatives-comparing-social-media-feed-widgets) 
-        * [Why is Content Moderation Important For User Generated Campaigns?](https://www.juicer.io/blog/why-is-content-moderation-important-for-user-generated-campaigns)
+        * [Why is Content Moderation Important For User-Generated Campaigns?](https://www.juicer.io/blog/why-is-content-moderation-important-for-user-generated-campaigns)
         * [What is Social Retail and How Can Your Brand Utilize It?](https://www.juicer.io/blog/what-is-social-retail)
         * [View more articles on blog](https://www.juicer.io/blog)
 * [How To](#)
@@ -94,6 +95,7 @@ Menu
         * [Embed Twitter Feed](https://www.juicer.io/blog/embed-twitter-feed-on-website)
         * [Embed LinkedIn Feed](https://www.juicer.io/blog/embed-linkedin-feed-on-website)
         * [Embed Instagram Reels](https://www.juicer.io/blog/embed-instagram-reels-on-website)
+        * [Embed Instagram Stories](https://www.juicer.io/blog/embed-instagram-stories-on-website)
         * [Embed Facebook Feed](https://www.juicer.io/blog/embed-facebook-feed-on-website)
 * [Resources](#)
     * Resources
@@ -173,7 +175,7 @@ Juicer helps to aggregate all of your brands’ hashtag and social media posts i
 
 ### Pages
 
-* [Homepage](https://www.juicer.io/)
+* [Homepage](https://www.juicer.io/homepage-4)
 * [Pricing](https://www.juicer.io/pricing)
 * [Login](https://www.juicer.io/log-in)
 * [Register](https://www.juicer.io/sign-up)
@@ -183,7 +185,7 @@ Juicer helps to aggregate all of your brands’ hashtag and social media posts i
 * [EU Privacy Policy](https://www.juicer.io/eu-privacy)
 * [Cookie Policy](https://www.juicer.io/cookie-policy)
 
-* [Homepage](https://www.juicer.io/)
+* [Homepage](https://www.juicer.io/homepage-4)
 * [Pricing](https://www.juicer.io/pricing)
 * [Login](https://www.juicer.io/log-in)
 * [Register](https://www.juicer.io/sign-up)
