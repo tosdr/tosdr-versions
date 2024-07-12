@@ -1,7 +1,5 @@
 * [Skip to content](#content-anchor)
 
-Install App
-
 * [Search](https://www.101soundboards.com/search) Find a sound
 * [Funny](https://www.101soundboards.com/?sort=funny#sort_filters) Funny sounds
 * [Topics](#collapseCategoriesSidebar) Topics
@@ -46,7 +44,7 @@ Install App
     
 [* AI Voices](https://www.101soundboards.com/boards/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
-    [iOS App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Android App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Google Home](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Donate](https://www.101soundboards.com/pages/donate) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Merch](https://www.101soundboards.com/pages/donate#merch)
+    [iOS App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Android App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Google Home](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
     [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [TikTok Song Generators](https://www.101soundboards.com/boards/tts#song_generators) [No-Queue TTS Voices](https://www.101soundboards.com/boards/tts#noqueue_tts_boards)
     
@@ -57,7 +55,7 @@ Install App
 * [Login/Register](https://www.101soundboards.com/login)
 
 × Your AdBlocker was detected as enabled 😔😞😭 Ads fund this site. It costs money to run.  
-Consider disabling or [donating](https://www.101soundboards.com/pages/support)  
+Consider disabling or [buying a sticker pack (with free shipping)](https://shop.101soundboards.com/) so we can continue running this awesome service!  
   
  [![Ko-fi](/img/kofi_cup.png) Support Us on Ko-fi](https://ko-fi.com/B0B8H3JMY) [![CashApp](/img/cashapp-2.svg) CashApp](https://cash.app/$101soundboards) [![PayPal](/img/paypal-2.svg) PayPal](https://www.paypal.com/donate/?hosted_button_id=7FBV3YC5ZMJT8)
 
@@ -74,15 +72,25 @@ Help
 
 ##### How can I download sounds?
 
-To download a sound, right click on the sound and press 'download sound'. You can earn free download credits by waching an advert.
+To download a sound, right click on the sound and press 'download sound'. You can get free download credits by waching an advert.
 
-Skipping the advert or using an advertising blocker may prevent receiving your free download credits. These adverts help fund this free site. It wouldn't exist otherwise. This site makes lots of people happy.
+##### Why are there adverts?
 
-Your AdBlocker status is: Unknown.
+Advertising helps support this free site. It costs money in hosting, and a lot of time and effort making and maintaining the site.
 
-Your AdBlocker status is: Active/Blocked.
+We've tried many different ways over the years to fund this site, including charging for downloads, donations, selling merchandise and stickers, but there was little to no support.
 
-Your AdBlocker status is: Inactive/Not Blocked.
+##### Why is my AdBlocker stopping downloads?
+
+Ask your AdBlocker to stop blocking downloads.
+
+##### How do I make a sound into a ringtone?
+
+Download the MP3 sound (see above for instructions), and then follow [this guide for iOS](https://www.techadvisor.co.uk/how-to/apple/custom-ringtone-iphone-3622959/) or this [guide for Android](https://www.androidauthority.com/set-own-music-mp3-custom-notification-ringtone-166052/).
+
+##### How do I delete a Text-To-Speech phrase I created? I no longer want it to appear on the site.
+
+Right-click the sound (or press and hold on mobile) and press 'Report sound'. We typically respond to reports within one hour.
 
 ##### Do you have a smartphone or desktop app?
 
@@ -90,17 +98,9 @@ We have smartphone apps available for Android and iOS available on the [Apps pag
 
 If you have Google Chrome for desktop, you can also install 101soundboards. Just go to the menu in the top right (three dots) and press 'Install 101soundboards'.
 
-##### How do I make a sound into a ringtone?
-
-Download the MP3 sound (see above for instructions), and then follow [this guide for iOS](https://www.techadvisor.co.uk/how-to/apple/custom-ringtone-iphone-3622959/) or this [guide for Android](https://www.androidauthority.com/set-own-music-mp3-custom-notification-ringtone-166052/).
-
 ##### Why did my text-to-speech sound get deleted?
 
 We use Artificial Intelligence and Machine Learning to block phrases that include hate, harrassment and sexual content. Except for [Ghostface (Scream) TTS Computer AI Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice), because his character is a serial killer.
-
-##### How do I delete a Text-To-Speech phrase I created? I no longer want it to appear on the site.
-
-Right-click the sound (or press and hold on mobile) and press 'Report sound'.
 
 ##### Why soundboards?
 
@@ -149,16 +149,6 @@ We recognize that many of our users are autistic. Here is a great [list of resou
 ##### How do I hide the banner adverts?
 
 If you create and log in to a free account, the banner adverts will be hidden. The download adverts are still required for earning your free download credits.
-
-##### Why are there adverts when downloading?
-
-Advertising helps support this free site. It costs money in hosting, and a lot of time and effort making and maintaining the site. This site was created to help people have fun playing sounds.
-
-Your AdBlocker status is: Unknown.
-
-Your AdBlocker status is: Active/Blocked.
-
-Your AdBlocker status is: Inactive/Not Blocked.
 
 ##### How do I hide the adverts when downloading?
 
