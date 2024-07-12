@@ -34,49 +34,53 @@
 
 [](#)
 
+![search open](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![search open](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![search open](https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-loupe.svg)
 
-[![Alphr](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='65'%20height='20'%20viewBox='0%200%2065%2020'%3E%3C/svg%3E)
+[![Alphr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Alphr](https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg)](https://www.alphr.com/)
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='24'%20height='24'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+ ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-loupe.svg)
 
-[![Alphr](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='75'%20height='23'%20viewBox='0%200%2075%2023'%3E%3C/svg%3E)
+[![Alphr](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Alphr](https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg)](https://www.alphr.com/)
 
 * [Gaming](https://www.alphr.com/category/video-games/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/xbox.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/xbox.png)
     
-    Xbox](https://www.alphr.com/category/video-games/gaming-devices/xbox/) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    Xbox](https://www.alphr.com/category/video-games/gaming-devices/xbox/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/nintendo.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/nintendo.png)
     
-    Nintendo](https://www.alphr.com/category/video-games/gaming-devices/nintendo/) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    Nintendo](https://www.alphr.com/category/video-games/gaming-devices/nintendo/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/playstation.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/playstation.png)
     
-    PlayStation](https://www.alphr.com/category/video-games/gaming-devices/playstation/) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    PlayStation](https://www.alphr.com/category/video-games/gaming-devices/playstation/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/twitch.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/twitch.png)
     
-    Twitch](https://www.alphr.com/category/video-games/gaming-social/twitch/) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    Twitch](https://www.alphr.com/category/video-games/gaming-social/twitch/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/discord.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/discord.png)
     
-    Discord](https://www.alphr.com/category/video-games/gaming-social/discord/) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    Discord](https://www.alphr.com/category/video-games/gaming-social/discord/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/minecraft.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/minecraft.png)
     
-    Minecraft](https://www.alphr.com/category/video-games/games/minecraft/) [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
+    Minecraft](https://www.alphr.com/category/video-games/games/minecraft/) [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2022/03/steam.png?fit=32%2C32&ssl=1)
+    ![](https://www.alphr.com/wp-content/uploads/2022/03/steam.png)
     
     Steam](https://www.alphr.com/category/video-games/gaming-social/steam/)
     
@@ -105,6 +109,10 @@
     [Kodi](https://www.alphr.com/use-vpn-with-kodi/) [Xbox](https://www.alphr.com/use-vpn-xbox-one/) [On a Router](https://www.alphr.com/wp-admin/post.php?post=292243&action=edit) [Android](https://www.alphr.com/use-vpn-android/) [Firestick](https://www.alphr.com/technology/1006524/how-to-install-vpn-fire-tv-stick/)
     
 * [About Us](https://www.alphr.com/about-alphr/)
+
+![search open](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![search open](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![search open](https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-loupe.svg)
 
@@ -166,7 +174,55 @@ Please read this Agreement carefully before accessing or using the Website. By a
 Most Popular
 ------------
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](/wp-content/themes/alphr/images/profile.svg)
+
+Posted by Afam Onyimadu on July 9, 2024
+
+How to Merge and Center in Excel Without Losing Sorting and Selection Features](https://www.alphr.com/merge-and-center-in-excel-without-losing-sorting-selection/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -174,7 +230,27 @@ Posted by Afam Onyimadu on June 7, 2024
 
 7 Brave Features You Will Not Find in Chrome, Edge, and Firefox](https://www.alphr.com/best-brave-features/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -182,7 +258,27 @@ Posted by Dave Johnson on June 4, 2024
 
 What Does Clock Icon Mean on WhatsApp and How to Get Rid Of It](https://www.alphr.com/what-does-clock-icon-mean-on-whatsapp/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -190,7 +286,27 @@ Posted by Afam Onyimadu on June 1, 2024
 
 How to Run AI Models Locally on Windows Without Internet](https://www.alphr.com/run-ai-models-locally-on-windows-without-internet/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -198,7 +314,27 @@ Posted by Afam Onyimadu on May 30, 2024
 
 How to Use Gemini Mentions to Enhance the Prompt Experience](https://www.alphr.com/how-to-use-gemini-mentions/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -206,7 +342,27 @@ Posted by Mehvish Mushtaq on May 20, 2024
 
 How to Put a Picture on Top of Another Picture on Instagram Story](https://www.alphr.com/put-a-picture-on-another-picture-in-instagram-story/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -214,7 +370,27 @@ Posted by Afam Onyimadu on May 15, 2024
 
 How to Reply to All Social Media Comments With AI](https://www.alphr.com/reply-to-all-social-media-comments-with-ai/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -222,7 +398,27 @@ Posted by Mehvish Mushtaq on May 11, 2024
 
 How to Put Full Picture on WhatsApp Profile](https://www.alphr.com/put-full-picture-on-whatsapp-profile/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -230,7 +426,27 @@ Posted by Mehvish Mushtaq on May 6, 2024
 
 What Happens When You Remove Someone From Instagram or WhatsApp Group Chat](https://www.alphr.com/what-happens-remove-someone-from-instagram-or-whatsapp-group/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -238,7 +454,27 @@ Posted by Afam Onyimadu on May 1, 2024
 
 How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](/wp-content/themes/alphr/images/profile.svg)
 
@@ -246,14 +482,14 @@ Posted by Will on August 2, 2021
 
 Managing the Hosts file in](https://www.alphr.com/hosts-file-windows-10/)
 
-[![TechJunkie](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='123'%20height='35'%20viewBox='0%200%20123%2035'%3E%3C/svg%3E)
+[![TechJunkie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![TechJunkie](https://www.alphr.com/wp-content/themes/alphr/images/logo_new.svg)](https://www.alphr.com/)
 
-* [![Facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)
+* [![Facebook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Facebook](https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-facebook.svg)](https://www.facebook.com/alphrdotcom/ "Facebook")
-* [![Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='19'%20height='19'%20viewBox='0%200%2019%2019'%3E%3C/svg%3E)
+* [![Twitter](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Twitter](https://www.alphr.com/wp-content/themes/alphr/images/icons/icon-twitter.svg)](https://twitter.com/alphr "Twitter")
 
@@ -270,93 +506,93 @@ Managing the Hosts file in](https://www.alphr.com/hosts-file-windows-10/)
 
 ###### Latest
 
-![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![How-to-Merge-and-Center-in-Excel-Without-Losing-Sorting-and-Selection-Features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/Brave-Features-You-Will-Not-Find-in-Chrome-Edge-and-Firefox.jpg?fit=100%2C43&ssl=1)
+![How-to-Merge-and-Center-in-Excel-Without-Losing-Sorting-and-Selection-Features](https://www.alphr.com/wp-content/uploads/2024/07/How-to-Merge-and-Center-in-Excel-Without-Losing-Sorting-and-Selection-Features-100x100.jpg)
+
+[How to Merge and Center in Excel Without Losing Sorting and Selection Features](https://www.alphr.com/merge-and-center-in-excel-without-losing-sorting-selection/)
+
+Afam Onyimadu July 9, 2024
+
+![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Brave-Features-You-Will-Not-Find-in-Chrome,-Edge,-and-Firefox](https://www.alphr.com/wp-content/uploads/2024/06/Brave-Features-You-Will-Not-Find-in-Chrome-Edge-and-Firefox-100x100.jpg)
 
 [7 Brave Features You Will Not Find in Chrome, Edge, and Firefox](https://www.alphr.com/best-brave-features/)
 
 Afam Onyimadu June 7, 2024
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Does-Clock-Icon-Mean-on-WhatsApp-and-How-to-Get-Rid-Of-It.jpg?fit=100%2C43&ssl=1)
+![](https://www.alphr.com/wp-content/uploads/2024/05/What-Does-Clock-Icon-Mean-on-WhatsApp-and-How-to-Get-Rid-Of-It-100x100.jpg)
 
 [What Does Clock Icon Mean on WhatsApp and How to Get Rid Of It](https://www.alphr.com/what-does-clock-icon-mean-on-whatsapp/)
 
 Dave Johnson June 4, 2024
 
-![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Run-AI-Models-Locally-on-Windows-Without-Internet.jpg?fit=100%2C43&ssl=1)
+![How-to-Run-AI-Models-Locally-on-Windows-Without-Internet](https://www.alphr.com/wp-content/uploads/2024/05/How-to-Run-AI-Models-Locally-on-Windows-Without-Internet-100x100.jpg)
 
 [How to Run AI Models Locally on Windows Without Internet](https://www.alphr.com/run-ai-models-locally-on-windows-without-internet/)
 
 Afam Onyimadu June 1, 2024
 
-![How to Use Gemini Mentions to Enhance the Prompt Experience](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![How to Use Gemini Mentions to Enhance the Prompt Experience](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![How to Use Gemini Mentions to Enhance the Prompt Experience](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Use-Gemini-Mentions-to-Enhance-the-Prompt-Experience.jpg?fit=100%2C43&ssl=1)
+![How to Use Gemini Mentions to Enhance the Prompt Experience](https://www.alphr.com/wp-content/uploads/2024/05/How-to-Use-Gemini-Mentions-to-Enhance-the-Prompt-Experience-100x100.jpg)
 
 [How to Use Gemini Mentions to Enhance the Prompt Experience](https://www.alphr.com/how-to-use-gemini-mentions/)
 
 Afam Onyimadu May 30, 2024
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-a-Picture-on-Top-of-Another-Picture-on-Instagram-Storyy.jpg?fit=100%2C43&ssl=1)
+![](https://www.alphr.com/wp-content/uploads/2024/05/How-to-Put-a-Picture-on-Top-of-Another-Picture-on-Instagram-Storyy-100x100.jpg)
 
 [How to Put a Picture on Top of Another Picture on Instagram Story](https://www.alphr.com/put-a-picture-on-another-picture-in-instagram-story/)
 
 Mehvish Mushtaq May 20, 2024
 
-![replay all social media comments with AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![replay all social media comments with AI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![replay all social media comments with AI](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Reply-All-Social-Media-Comments-With-AI.jpg?fit=100%2C43&ssl=1)
+![replay all social media comments with AI](https://www.alphr.com/wp-content/uploads/2024/05/How-to-Reply-All-Social-Media-Comments-With-AI-100x100.jpg)
 
 [How to Reply to All Social Media Comments With AI](https://www.alphr.com/reply-to-all-social-media-comments-with-ai/)
 
 Afam Onyimadu May 15, 2024
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/How-to-Put-Full-Picture-on-WhatsApp-Profile.jpg?fit=100%2C43&ssl=1)
+![](https://www.alphr.com/wp-content/uploads/2024/05/How-to-Put-Full-Picture-on-WhatsApp-Profile-100x100.jpg)
 
 [How to Put Full Picture on WhatsApp Profile](https://www.alphr.com/put-full-picture-on-whatsapp-profile/)
 
 Mehvish Mushtaq May 11, 2024
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/05/What-Happens-When-You-Remove-Someone-from-Instagram-or-WhatsApp-Group-Chat.jpg?fit=100%2C43&ssl=1)
+![](https://www.alphr.com/wp-content/uploads/2024/05/What-Happens-When-You-Remove-Someone-from-Instagram-or-WhatsApp-Group-Chat-100x100.jpg)
 
 [What Happens When You Remove Someone From Instagram or WhatsApp Group Chat](https://www.alphr.com/what-happens-remove-someone-from-instagram-or-whatsapp-group/)
 
 Mehvish Mushtaq May 6, 2024
 
-![How To Watch The UEFA Champions League Semi-Finals](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![How To Watch The UEFA Champions League Semi-Finals](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![How To Watch The UEFA Champions League Semi-Finals](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/04/How-to-Watch-the-Uefa-Champions-League-Semi-Finals_1.jpg?fit=100%2C43&ssl=1)
+![How To Watch The UEFA Champions League Semi-Finals](https://www.alphr.com/wp-content/uploads/2024/04/How-to-Watch-the-Uefa-Champions-League-Semi-Finals_1-100x100.jpg)
 
 [How to Watch the UEFA Champions League Semi-Finals](https://www.alphr.com/how-to-watch-the-uefa-champions-league-semi-finals/)
 
 Afam Onyimadu May 1, 2024
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/What-to-Do-If-Facebook-Lock-Profile-Is-Not-Showing.jpg?fit=100%2C43&ssl=1)
+![](https://www.alphr.com/wp-content/uploads/2024/06/What-to-Do-If-Facebook-Lock-Profile-Is-Not-Showing-100x100.jpg)
 
 [What to Do If Facebook Lock Profile Is Not Showing](https://www.alphr.com/what-to-do-if-facebook-lock-profile-is-not-showing/)
 
 Mehvish Mushtaq June 19, 2024
-
-![X-Rules-for-Extending-Your-Laptop's-Battery-Life-in-the-Wild](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![X-Rules-for-Extending-Your-Laptop's-Battery-Life-in-the-Wild](https://i0.wp.com/www.alphr.com/wp-content/uploads/2024/06/X-Rules-for-Extending-Your-Laptops-Battery-Life-in-the-Wild.jpg?fit=100%2C43&ssl=1)
-
-[11 Rules for Extending Your Laptop’s Battery Life in the Wild](https://www.alphr.com/rules-for-extending-your-laptops-battery-life-in-the-wild/)
-
-Afam Onyimadu June 17, 2024
 
 © Guiding Tech Media 2024
 
