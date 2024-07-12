@@ -1,12 +1,12 @@
 [Skip to content](#MainContent)
 
-[Subscribe & Get 15% OFF your 1st Subscription Order! CODE: SUBSCRIBE15](https://elsenutrition.com/pages/subscribe-and-save)
+Free Shipping On Orders Over $59 📦
 
-  [![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943) ![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943&width=80)](https://elsenutrition.com/)
+  [![Else Nutrition]( files/freedomcarribeanblue-_1.png) ![Else Nutrition](//elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935&width=110)](https://elsenutrition.com/)
 
 [shop now](https://elsenutrition.com/collections/all)
 
- [![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943) ![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943&width=80)](https://elsenutrition.com/)
+ [![Else Nutrition](files/freedomcarribeanblue-_1.png) ![Else Nutrition](files/freedomcarribeanblue-_1.png)](https://elsenutrition.com/)
 
 * Shop All
     
@@ -23,11 +23,15 @@
     
     * [Blog](https://elsenutrition.com/blogs/news)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
+* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
+* [Affiliates](https://elsenutrition.com/pages/affiliates)
 * [Investors](https://investors.elsenutrition.com/)
 
 [Shop Now](https://elsenutrition.com/collections/all)
@@ -63,11 +67,15 @@ Menu
     
     * [Blog](https://elsenutrition.com/blogs/news)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
+* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
+* [Affiliates](https://elsenutrition.com/pages/affiliates)
 * [Investors](https://investors.elsenutrition.com/)
 * [Log in](https://elsenutrition.com/account/login)
 
@@ -92,11 +100,15 @@ Menu
     
     * [Blog](https://elsenutrition.com/blogs/news)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
+* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
+* [Affiliates](https://elsenutrition.com/pages/affiliates)
 * [Investors](https://investors.elsenutrition.com/)
 * [Log in](https://elsenutrition.com/account/login)
 
@@ -111,8 +123,6 @@ Your cart is empty
 Already have an account? [Log in](https://elsenutrition.com/account/login) to check out faster.
 
 Loading...
-
-Checkout $0.00 USD
 
 ![](https://cdn.shopify.com/s/files/1/0292/6385/5675/files/Presentation1_f1435f11-119f-4a12-841e-287314a15070.jpg)
 
@@ -284,6 +294,7 @@ Shop Now
 
 Else World
 
+* [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
 * [Blog](https://elsenutrition.com/blogs/news)
 * [Recipes](https://elsenutrition.com/blogs/else-recipes)
 * [Our Story](https://elsenutrition.com/pages/our-story)
