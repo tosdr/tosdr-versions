@@ -45,20 +45,36 @@ Toggle navigation
     
 * Solutions
     
-    For
+    By size
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
-    * [Education](https://education.github.com/)
     
-    By Solution
+    By industry
+    
+    * [Healthcare](https://github.com/solutions/industries/healthcare)
+    * [Financial services](https://github.com/solutions/industries/financial-services)
+    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
+    
+    By use case
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
     
-    Resources
+* Resources
+    
+    Topics
+    
+    * [AI](https://github.com/resources/articles/ai)
+    * [DevOps](https://github.com/resources/articles/devops)
+    * [Innersource](https://github.com/resources/articles/innersource)
+    * [Open Source](https://github.com/resources/articles/open-source)
+    * [Security](https://github.com/resources/articles/security)
+    * [Software Development](https://github.com/resources/articles/software-development)
+    
+    Explore
     
     * [Learning Pathways](https://resources.github.com/learn/pathways)
     * [White papers, Ebooks, Webinars](https://resources.github.com/)
@@ -144,12 +160,12 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [HermanMartinus](https://github.com/HermanMartinus) / **[bearblog](https://github.com/HermanMartinus/bearblog)** Public
 
 * [Notifications](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog) You must be signed in to change notification settings
-* [Fork 72](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
-* [Star 2.3k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Fork 73](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
+* [Star 2.4k](https://github.com/login?return_to=%2FHermanMartinus%2Fbearblog)
     
 
 * [Code](https://github.com/HermanMartinus/bearblog)
-* [Issues 14](https://github.com/HermanMartinus/bearblog/issues)
+* [Issues 13](https://github.com/HermanMartinus/bearblog/issues)
 * [Pull requests 4](https://github.com/HermanMartinus/bearblog/pulls)
 * [Actions](https://github.com/HermanMartinus/bearblog/actions)
 * [Projects 0](https://github.com/HermanMartinus/bearblog/projects)
@@ -179,7 +195,9 @@ All the Bear documentation has moved to [https://docs.bearblog.dev](https://docs
 
 ### Toggle table of contents Pages 1
 
-* [Home](https://github.com/HermanMartinus/bearblog/wiki)
+* Loading
+    
+    [Home](https://github.com/HermanMartinus/bearblog/wiki)
     
 
 ##### Clone this wiki locally
