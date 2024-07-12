@@ -613,6 +613,8 @@ downloads
 
 [Prices](https://bluespice.com/buy/prices/configure-your-price/)
 
+[FAQ](https://bluespice.com/buy/faq/)
+
 #### [Ressourcen](#3571772bc3740d875)
 
 [Helpdesk](https://en.wiki.bluespice.com/wiki/Main_Page)
@@ -680,6 +682,8 @@ downloads
 * [Find partner](https://bluespice.com/buy/order/find-partner/)
     
 * [Prices](https://bluespice.com/buy/prices/configure-your-price/)
+    
+* [FAQ](https://bluespice.com/buy/faq/)
     
 
 * **Ressources**
