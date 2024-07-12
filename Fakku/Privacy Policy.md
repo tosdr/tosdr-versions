@@ -12,6 +12,10 @@ Search [Notifications](https://www.fakku.net/notifications) [Cart](https://www.f
 
 Search 
 
+[Our Summer Sale](https://www.fakku.net/sale/summer-sale-2024) is still running until the 14th - up to 80% off on over 2000 digital titles!
+
+Hide Notice
+
 Privacy Policy
 ==============
 
