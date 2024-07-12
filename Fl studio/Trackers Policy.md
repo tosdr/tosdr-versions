@@ -29,11 +29,7 @@
 Cookies
 =======
 
-![cookies and privacy icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![cookies and privacy icon](https://www.image-line.com/innovaeditor/assets/legal/Privacy-legal.png)
-
-**PRIVACY & COOKIE STATEMENT IMAGE LINE**
+![cookies and privacy icon](https://www.image-line.com/innovaeditor/assets/legal/Privacy-legal.png)**PRIVACY & COOKIE STATEMENT IMAGE LINE**
 
 **We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.**
 
