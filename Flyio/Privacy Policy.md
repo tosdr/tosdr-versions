@@ -20,16 +20,19 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
+* [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
+* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
+* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
+* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
+* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
 * [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 * [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
-* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
+* [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
 * [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
-* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
+* [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
 * [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
-* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
-* [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
 * [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
 
@@ -124,6 +127,15 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Live tail logs](https://fly.io/docs/metrics-and-logs/live-tail-logs/)
 * [Search logs](https://fly.io/docs/metrics-and-logs/search-logs/)
 * [Export logs](https://fly.io/docs/metrics-and-logs/exporting-logs/)
+* [Error Codes](https://fly.io/docs/metrics-and-logs/error-codes/)
+
+[Security](https://fly.io/docs/security/) Toggle Security section
+
+* [SSO for organizations](https://fly.io/docs/security/sso/)
+* [TLS termination](https://fly.io/docs/security/tls-termination/)
+* [Deploy Tokens](https://fly.io/docs/security/deploy-tokens/)
+* [Security practices and compliance](https://fly.io/docs/security/security-at-fly-io/)
+* [App Security by Arcjet](https://fly.io/docs/reference/arcjet/)
 
 [Reference](https://fly.io/docs/reference/) Toggle Reference section
 
@@ -136,8 +148,6 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Fine-tune and Benchmark](https://fly.io/docs/reference/fine-tune-apps/)
 * [Builders](https://fly.io/docs/reference/builders/)
 * [Concurrency Settings](https://fly.io/docs/reference/concurrency/)
-* [Deploy Tokens](https://fly.io/docs/reference/deploy-tokens/)
-* [Error Codes](https://fly.io/docs/reference/error-codes/)
 * [Sentry Error Tracking](https://fly.io/docs/reference/sentry/)
 * [Fly Launch](https://fly.io/docs/reference/fly-launch/)
 * [Load Balancing](https://fly.io/docs/reference/load-balancing/)
@@ -145,6 +155,7 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Monorepo Apps](https://fly.io/docs/reference/monorepo/)
 * [Multiple Processes in Apps](https://fly.io/docs/app-guides/multiple-processes/)
 * [OpenID Connect](https://fly.io/docs/reference/openid-connect/)
+* [Going to Production](https://fly.io/docs/reference/going-to-production/)
 * [Regions](https://fly.io/docs/reference/regions/)
 * [Build Secrets](https://fly.io/docs/reference/build-secrets/)
 * [Runtime Secrets](https://fly.io/docs/reference/secrets/)
@@ -156,7 +167,6 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Engineering Jobs](https://fly.io/docs/hiring/)
 * [Healthcare on Fly.io](https://fly.io/docs/about/healthcare/)
 * [Support](https://fly.io/docs/about/support/)
-* [Security](https://fly.io/docs/about/security/)
 * [Extensions Program](https://fly.io/docs/about/extensions/)
 * [Extensions API](https://fly.io/docs/reference/extensions_api/)
 * [Open Source](https://fly.io/docs/about/open-source/)
@@ -167,7 +177,7 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 Fly.io Privacy Statement
 ========================
 
-Effective date: March 27, 2018
+Effective date: June 24, 2024
 
 Thanks for entrusting fly.io with your source code, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we’re handling it.
 
