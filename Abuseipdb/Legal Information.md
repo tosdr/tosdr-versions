@@ -1,6 +1,11 @@
 [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagespeed.ce.CI8T6WsXU7.png)](https://www.abuseipdb.com/)
 
+[Login](https://www.abuseipdb.com/login) [Sign Up](https://www.abuseipdb.com/pricing)
+
 Toggle navigation [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagespeed.ce.CI8T6WsXU7.png)](https://www.abuseipdb.com/)
+
+* [Login](https://www.abuseipdb.com/login)
+* [Sign Up](https://www.abuseipdb.com/pricing)
 
 * [Home](https://www.abuseipdb.com/ "AbuseIPDB")
 * [**Report IP**](https://www.abuseipdb.com/report "Report Abusive IP")
@@ -28,8 +33,6 @@ Toggle navigation [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagesp
     * [Ping IP](https://www.abuseipdb.com/tools/ping)
     * [DNS Lookup](https://www.abuseipdb.com/tools/dns-lookup)
 * [Contact](https://www.abuseipdb.com/contact "Contact Us")
-
-[Login](https://www.abuseipdb.com/login) [Sign Up](https://www.abuseipdb.com/pricing)
 
 1. [AbuseIPDB](https://www.abuseipdb.com/)
 2. Legal Information
