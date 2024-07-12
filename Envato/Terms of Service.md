@@ -43,6 +43,8 @@ Search  ![Search icon](https://author.envato.com/hub/wp-content/themes/envatoaut
 Update to Elements Author Agreement and Market Author Terms
 -----------------------------------------------------------
 
+_From 2 August 2024, we will be including audio content as part of our third party distribution and licensing plans. If you are an audio author, please check your email for more information and to see how you can opt out of this._
+
 #### Effective from June 1, 2023.
 
 We want to let you know about some important changes we’re making to the current [Elements Author Agreement](https://elements-contributors.envato.com/agreement) and [Envato Market Author Terms](https://themeforest.net/legal/author) that affect you as a creative contributor to our platform.
@@ -58,9 +60,9 @@ The terms changes proposed are intended to allow us to explore a range of new op
 
 **Examples of these types of opportunities might include:**
 
-* Reseller arrangements
+* Developing generative AI models
 * Augmenting a partner content offering with our library
-* Integrating our content into creative tools or creating ethical AI tools
+* Integrating our content into creative tools
 
 To avoid doubt, where Envato enters into a third party arrangement as described above, the respective licensing terms will not include rights for that third party to publicly perform, display broadcast or communicate your items for their own purposes, ie. for marketing and promotion or incorporation into “End Products”
 
@@ -82,7 +84,7 @@ Without having full details of future arrangements, we cannot provide you with d
 **When will the updates take effect?**
 --------------------------------------
 
-These updates will take effect 20 days from now, on **1 June, 2023** and are available to be viewed here: 
+These updates took effect on **1 June, 2023** and are available to be viewed here: 
 
 * [Elements Author Agreement](https://author.envato.com/hub/elements-author-agreement-1-june-2023) effective 1 June, 2023
 * [Market Author Terms](http://author.envato.com/hub/market-author-terms-1-june-2023) effective 1 June, 2023
@@ -183,4 +185,5 @@ If we plan to start using Code, Web and Audio items as part of third party arran
 
 * [Privacy Policy](https://www.envato.com/privacy/)
 * [Cookies](https://www.envato.com/cookies/)
+* [Cookie Settings](#)
 * [Do not sell or share my personal information](https://www.envato.com/privacy/#my-personal-information)
