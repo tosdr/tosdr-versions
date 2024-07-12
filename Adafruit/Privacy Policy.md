@@ -75,23 +75,27 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled Top Shot of the Enclosure for Adafruit TRRS Trinkey showing the Headphone Jack.](https://cdn-shop.adafruit.com/230x173/5981-02.jpg)[Snap-on Enclosure for Adafruit TRRS Trinkey
+    ![Angled shot of a long, rectangular USB-C assembled on a half-size breadboard with a USB-C cable.](https://cdn-shop.adafruit.com/230x173/5993-04.jpg)[Adafruit USB Type C Vertical Breakout - Downstream Connection
     
-    $2.50](https://www.adafruit.com/product/5981)
+    $2.95](https://www.adafruit.com/product/5993)
     
-    ![Angled Shot of the Adafruit HX711 24-bit ADC.](https://cdn-shop.adafruit.com/230x173/5974-00.jpg)[Adafruit HX711 24-bit ADC for Load Cells / Strain Gauges
+    ![Angled shot of black, rectangular temperature and humidity sensor breakout.](https://cdn-shop.adafruit.com/230x173/5989-05.jpg)[Adafruit HDC3021 Precision Temperature & Humidity Sensor
     
-    $9.95](https://www.adafruit.com/product/5974)
+    $8.95](https://www.adafruit.com/product/5989)
     
-    ![Video of gloved hands playing with a green LED strip.](https://cdn-shop.adafruit.com/product-videos/320x240/5920-03.jpg)[Flexible 12V LED Strip - 480 LEDs per meter - 1m long - Green
+    ![Angled shot of black, rectangular IR transceiver board.](https://cdn-shop.adafruit.com/230x173/5990-00.jpg)[Adafruit Infrared IR Remote Transceiver - STEMMA JST PH 2mm
     
-    $11.95](https://www.adafruit.com/product/5920)
+    $5.95](https://www.adafruit.com/product/5990)
     
-    ![Angled shot of black, rectangular breakout board with a green 3-pin terminal block.](https://cdn-shop.adafruit.com/230x173/5976-00.jpg)[Adafruit DS2484 I2C to 1-Wire Bus Adapter Breakout
+    ![Angled shot of black, square-shaped UART RS232 board.](https://cdn-shop.adafruit.com/230x173/5987-00.jpg)[Adafruit RS232 Pal - Two Channel UART to RS-232 Level Shifters
     
-    $7.50](https://www.adafruit.com/product/5976)
+    $3.95](https://www.adafruit.com/product/5987)
     
     Featured Products[view all](https://www.adafruit.com/featured)
+    
+    ![Angled shot of black, rectangular datalogging board.](https://cdn-shop.adafruit.com/230x173/5980-00.jpg)[Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card
+    
+    $14.95](https://www.adafruit.com/product/5980)
     
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
@@ -101,13 +105,9 @@ Search
     
     $14.95](https://www.adafruit.com/product/5890)
     
-    ![Overhead shot of TFT driver board connected to a round TFT display, which says, "Hello world!"](https://cdn-shop.adafruit.com/230x173/5800-06.jpg)[Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays
+    ![Video of a DIY camera on a lazy susan.](https://cdn-shop.adafruit.com/product-videos/320x240/5420-05.jpg)[MEMENTO - Python Programmable DIY Camera - Bare Board
     
-    $19.95](https://www.adafruit.com/product/5800)
-    
-    ![Angled shot of black, credit-card-sized development board.](https://cdn-shop.adafruit.com/230x173/5786-00.jpg)[Adafruit Metro RP2040
-    
-    $14.95](https://www.adafruit.com/product/5786)
+    $34.95](https://www.adafruit.com/product/5420)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -402,9 +402,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius”
+“ Things do not happen. Things are made to happen”
 
-[William Blake](http://en.wikipedia.org/wiki/William_Blake)
+[John F. Kennedy](http://library.und.edu/digital/john-f-kennedy-archive/delivered.php)
 
 [](https://www.adafruit.com/about)
 
