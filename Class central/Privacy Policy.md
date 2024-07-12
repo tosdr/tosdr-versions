@@ -1,6 +1,6 @@
- [### ![](/images/promobar/lightning-yellow.svg) BloomTech’s Downfall: A Long Time Coming
+ [### ![](/images/promobar/lightning-yellow.svg) Grokking GenAI: 9 Unique Ways
 
-View](https://www.classcentral.com/report/bloomtech-downfall/)
+View](https://www.classcentral.com/report/learn-generative-ai-llm/)
 
 Close
 
@@ -98,7 +98,14 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Anatomy](https://www.classcentral.com/subject/anatomy)
 * [Veterinary Science](https://www.classcentral.com/subject/veterinary-science)
 * [Continuing Medical Education (CME)](https://www.classcentral.com/subject/cme)
+* [Wellbeing](https://www.classcentral.com/subject/wellbeing)
+* [Women's Health](https://www.classcentral.com/subject/women-s-health)
+* [Hygiene](https://www.classcentral.com/subject/hygiene)
+* [Healthcare Innovation](https://www.classcentral.com/subject/healthcare-innovation)
 * [Music Therapy](https://www.classcentral.com/subject/music-therapy)
+* [Holistic Health](https://www.classcentral.com/subject/holistic-health)
+* [Ayurveda](https://www.classcentral.com/subject/ayurveda)
+* [Herbalism](https://www.classcentral.com/subject/herbalism)
 * [View all Health & Medicine](https://www.classcentral.com/subject/health)
 
 ### Mathematics
@@ -120,9 +127,9 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Group Theory](https://www.classcentral.com/subject/group-theory)
 * [Differential Equations](https://www.classcentral.com/subject/differential-equations)
 * [Polynomials](https://www.classcentral.com/subject/polynomials)
-* [Sobolev Spaces](https://www.classcentral.com/subject/sobolev-spaces)
-* [Jacobians](https://www.classcentral.com/subject/jacobians)
-* [Mathematical Puzzles](https://www.classcentral.com/subject/mathematical-puzzles)
+* [Integration](https://www.classcentral.com/subject/integration)
+* [Mathematical Analysis](https://www.classcentral.com/subject/mathematical-analysis)
+* [Mathematical Thinking](https://www.classcentral.com/subject/mathematical-thinking)
 * [View all Mathematics](https://www.classcentral.com/subject/maths)
 
 ### Business
@@ -169,7 +176,8 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Crisis Management](https://www.classcentral.com/subject/crisis-management)
 * [Games](https://www.classcentral.com/subject/games)
 * [Emergency Management](https://www.classcentral.com/subject/emergency-management)
-* [Language Arts](https://www.classcentral.com/subject/language-arts)
+* [Performing Arts](https://www.classcentral.com/subject/performing-arts)
+* [Religious Studies](https://www.classcentral.com/subject/religious-studies)
 * [View all Humanities](https://www.classcentral.com/subject/humanities)
 
 ### Engineering
@@ -193,6 +201,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Petroleum Engineering](https://www.classcentral.com/subject/petroleum-engineering)
 * [Control Theory](https://www.classcentral.com/subject/control-theory)
 * [Environmental Engineering](https://www.classcentral.com/subject/environmental-engineering)
+* [Energy Conversion](https://www.classcentral.com/subject/energy-conversion)
 * [View all Engineering](https://www.classcentral.com/subject/engineering)
 
 ### Science
@@ -213,6 +222,10 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Fire Science](https://www.classcentral.com/subject/fire-science)
 * [Sensory Science](https://www.classcentral.com/subject/sensory-science)
 * [Ergonomics](https://www.classcentral.com/subject/ergonomics)
+* [Physical Sciences](https://www.classcentral.com/subject/physical-sciences)
+* [Complex Systems](https://www.classcentral.com/subject/complex-systems)
+* [Scientific Method](https://www.classcentral.com/subject/scientific-method)
+* [Medicine](https://www.classcentral.com/subject/medicine)
 * [View all Science](https://www.classcentral.com/subject/science)
 
 ### Education & Teaching
@@ -229,9 +242,14 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Homeschooling](https://www.classcentral.com/subject/homeschooling)
 * [Special Education](https://www.classcentral.com/subject/special-education)
 * [Adult Education](https://www.classcentral.com/subject/adult-education)
-* [Computing Education](https://www.classcentral.com/subject/computing-education)
-* [School Counseling](https://www.classcentral.com/subject/school-counseling)
-* [Reading Assessment](https://www.classcentral.com/subject/reading-assessment)
+* [Course Design](https://www.classcentral.com/subject/course-design)
+* [Online Learning](https://www.classcentral.com/subject/online-learning)
+* [Educational Technology](https://www.classcentral.com/subject/educational-technology)
+* [Curriculum Development](https://www.classcentral.com/subject/curriculum-development)
+* [Student-Centered Learning](https://www.classcentral.com/subject/student-centered-learning)
+* [Student Engagement](https://www.classcentral.com/subject/student-engagement)
+* [Classroom Management](https://www.classcentral.com/subject/classroom-management)
+* [Early Childhood Education](https://www.classcentral.com/subject/early-childhood-education)
 * [View all Education & Teaching](https://www.classcentral.com/subject/education)
 
 ### Social Sciences
@@ -250,8 +268,12 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Social Work](https://www.classcentral.com/subject/social-work)
 * [Early Childhood Development](https://www.classcentral.com/subject/childhood-development)
 * [Structural Equation Modeling](https://www.classcentral.com/subject/structural-equation-modeling)
-* [Social Care](https://www.classcentral.com/subject/social-care)
-* [Rural Development](https://www.classcentral.com/subject/rural-development)
+* [Cultural Studies](https://www.classcentral.com/subject/cultural-studies)
+* [Research Methods](https://www.classcentral.com/subject/research-methods)
+* [Community Engagement](https://www.classcentral.com/subject/community-engagement)
+* [Philanthropy](https://www.classcentral.com/subject/philanthropy)
+* [Behavioral Science](https://www.classcentral.com/subject/behavioral-science)
+* [Media Studies](https://www.classcentral.com/subject/media-studies)
 * [View all Social Sciences](https://www.classcentral.com/subject/social-sciences)
 
 ### Art & Design
@@ -262,6 +284,18 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Design & Creativity](https://www.classcentral.com/subject/design-and-creativity)
 * [Art Therapy](https://www.classcentral.com/subject/art-therapy)
 * [Art Composition](https://www.classcentral.com/subject/art-composition)
+* [Character Design](https://www.classcentral.com/subject/character-design)
+* [Fashion Design](https://www.classcentral.com/subject/fashion-design)
+* [Inspiration](https://www.classcentral.com/subject/inspiration)
+* [Golden Ratio](https://www.classcentral.com/subject/golden-ratio)
+* [Pattern Design](https://www.classcentral.com/subject/pattern-design)
+* [Geometric Patterns](https://www.classcentral.com/subject/geometric-patterns)
+* [Jewelry Design](https://www.classcentral.com/subject/jewelry-design)
+* [Botanical Drawing](https://www.classcentral.com/subject/botanical-drawing)
+* [Animal Illustration](https://www.classcentral.com/subject/animal-illustration)
+* [Anime Drawing](https://www.classcentral.com/subject/anime-drawing)
+* [Observational Drawing](https://www.classcentral.com/subject/observational-drawing)
+* [Clay Modeling](https://www.classcentral.com/subject/clay-modeling)
 * [View all Art & Design](https://www.classcentral.com/subject/art-and-design)
 
 ### Data Science
@@ -275,8 +309,17 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Process Mining](https://www.classcentral.com/subject/process-mining)
 * [Stata](https://www.classcentral.com/subject/stata)
 * [Text Mining](https://www.classcentral.com/subject/text-mining)
-* [Data Bias](https://www.classcentral.com/subject/data-bias)
-* [Topological Data Analysis](https://www.classcentral.com/subject/topological-data-analysis)
+* [Social Network Analysis](https://www.classcentral.com/subject/social-network-analysis)
+* [Computational Analysis](https://www.classcentral.com/subject/computational-analysis)
+* [Data Collection](https://www.classcentral.com/subject/data-collection)
+* [Information Retrieval](https://www.classcentral.com/subject/information-retrieval)
+* [Data Processing](https://www.classcentral.com/subject/data-processing)
+* [Data Wrangling](https://www.classcentral.com/subject/data-wrangling)
+* [Data Extraction](https://www.classcentral.com/subject/data-extraction)
+* [Data Manipulation](https://www.classcentral.com/subject/data-manipulation)
+* [Monte Carlo Simulation](https://www.classcentral.com/subject/monte-carlo-simulation)
+* [Network Analysis](https://www.classcentral.com/subject/network-analysis)
+* [Data Preparation](https://www.classcentral.com/subject/data-preparation)
 * [View all Data Science](https://www.classcentral.com/subject/data-science)
 
 ### Programming
@@ -292,6 +335,12 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Hardware Description Languages (HDL)](https://www.classcentral.com/subject/hdl)
 * [Aspect-oriented programming](https://www.classcentral.com/subject/aspect-oriented-programming)
 * [Object-oriented programming](https://www.classcentral.com/subject/object-oriented-programming)
+* [Visual Programming](https://www.classcentral.com/subject/visual-programming)
+* [Competitive Programming](https://www.classcentral.com/subject/competitive-programming)
+* [Database Programming](https://www.classcentral.com/subject/database-programming)
+* [Generic Programming](https://www.classcentral.com/subject/generic-programming)
+* [Programming Language Development](https://www.classcentral.com/subject/programming-language-development)
+* [Leetcode](https://www.classcentral.com/subject/leetcode)
 * [View all Programming](https://www.classcentral.com/subject/programming-and-software-development)
 
 ### Personal Development
@@ -301,14 +350,21 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Self Improvement](https://www.classcentral.com/subject/self-improvement)
 * [Presentation Skills](https://www.classcentral.com/subject/presentation-skills)
 * [Resilience](https://www.classcentral.com/subject/resilience)
-* [Charisma](https://www.classcentral.com/subject/charisma)
-* [Self-Acceptance](https://www.classcentral.com/subject/self-acceptance)
-* [Mental Toughness](https://www.classcentral.com/subject/mental-toughness)
-* [Self-Doubt Management](https://www.classcentral.com/subject/self-doubt-management)
-* [Kindness](https://www.classcentral.com/subject/kindness)
-* [Self-love](https://www.classcentral.com/subject/self-love)
-* [Personal Empowerment](https://www.classcentral.com/subject/personal-empowerment)
-* [Habit Tracking](https://www.classcentral.com/subject/habit-tracking)
+* [Self-Control](https://www.classcentral.com/subject/self-control)
+* [Creativity](https://www.classcentral.com/subject/creativity)
+* [Gratitude](https://www.classcentral.com/subject/gratitude)
+* [Growth Mindset](https://www.classcentral.com/subject/growth-mindset)
+* [Self-Assessment](https://www.classcentral.com/subject/self-assessment)
+* [Survival Skills](https://www.classcentral.com/subject/survival-skills)
+* [Sleep Improvement](https://www.classcentral.com/subject/sleep-improvement)
+* [Career Planning](https://www.classcentral.com/subject/career-planning)
+* [Empowerment](https://www.classcentral.com/subject/empowerment)
+* [Generosity](https://www.classcentral.com/subject/generosity)
+* [Personal Growth](https://www.classcentral.com/subject/personal-growth)
+* [Courage](https://www.classcentral.com/subject/courage)
+* [Humility](https://www.classcentral.com/subject/humility)
+* [Social Skills](https://www.classcentral.com/subject/social-skills)
+* [Dog Training](https://www.classcentral.com/subject/dog-training)
 * [View all Personal Development](https://www.classcentral.com/subject/personal-development)
 
 ### Information Security (InfoSec)
@@ -329,21 +385,21 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 
 [The Report](https://www.classcentral.com/report/)
 
-[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-annual-report-10k%2Fcoursera-annual-report%2F?auto=format&ixlib=php-4.1.0&s=3eab2deb4983ee534bf204e3ad42aa63)](https://www.classcentral.com/report/coursera-annual-report-2023/)
+[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Flearn-generative-ai-llm%2Fdall-e-grok-generative-ai-banner-image%2F?auto=format&ixlib=php-4.1.0&s=97fd6ce49838f63ccbefd70ad8adb897)](https://www.classcentral.com/report/learn-generative-ai-llm/)
 
-#### [Coursera’s 2023 Annual Report: Big 5 Domination, Layoffs, Lawsuit, and Patents](https://www.classcentral.com/report/coursera-annual-report-2023/)
+#### [9 Weird & Wonderful Ways to Grok Generative AI and Large Language Models](https://www.classcentral.com/report/learn-generative-ai-llm/)
 
-Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprietary content while relying on Big 5 partners.
+A human neural network trained on Anime subtitles was used to generate this article.
 
-[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Mar 04, 2024
+[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Jul 08, 2024
 
 ##### Latest
 
-1. [10 Best NumPy Courses for 2024: Efficient Scientific Computing](https://www.classcentral.com/report/best-numpy-courses/)
-2. [5 Best Arduino Courses for Beginners in 2024](https://www.classcentral.com/report/best-arduino-courses/)
-3. [6 Best Oceanography Courses for 2024](https://www.classcentral.com/report/best-oceanography-courses/)
-4. [24 Most Popular Online Courses Starting in July 2024](https://www.classcentral.com/report/most-popular-july-2024/)
-5. [10 Best iOS Development Courses for 2024: Into the Walled Garden](https://www.classcentral.com/report/best-ios-development-courses/)
+1. [Stanford Medicine Offers Courses with Free Certificate & CME Credit](https://www.classcentral.com/report/stanford-med-free-certificates/)
+2. [5 Best Free Web Development Courses for 2024: Over 900 Hours of Learning](https://www.classcentral.com/report/best-web-development-courses/)
+3. [5 Best Notion Courses for 2024: Boost Your Productivity](https://www.classcentral.com/report/best-notion-courses/)
+4. [Beginning to Program: Review of CS50 Scratch Course](https://www.classcentral.com/report/review-cs50-scratch/)
+5. [1000+ Open University Free Certificates](https://www.classcentral.com/report/open-university-free-certificates/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -354,38 +410,38 @@ Coursera sees headcount decrease and faces lawsuit in 2023, invests in proprieta
 Most common
 -----------
 
-1. excel
+1. finance
     
-2. web development
+2. html
     
-3. html
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Graphic Design
     
-    2,837 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Software Development
+    3,345 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Management & Leadership
     
-    5,147 courses](https://www.classcentral.com/subject/software-development)
-3. [Digital Skills
+    1,597 courses](https://www.classcentral.com/subject/management-and-leadership)
+3. [Artificial Intelligence
     
-    286 courses](https://www.classcentral.com/subject/digital-skills)
+    5,041 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Cyber Security
+1. [What is a Mind?
     
-    CEC](https://www.classcentral.com/course/swayam-cyber-security-13978)
-2. [The Musculoskeletal System: The Science of Staying Active into Old Age
+    University of Cape Town](https://www.classcentral.com/course/what-is-a-mind-3314)
+2. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms
     
-    Newcastle University](https://www.classcentral.com/course/musculoskeletal-6738)
-3. [An Introduction to Interactive Programming in Python (Part 1)
+    Stanford University](https://www.classcentral.com/course/algorithms-divide-conquer-374)
+3. [Best Practices for Biomedical Research Data Management (HE)
     
-    Rice University](https://www.classcentral.com/course/interactivepython1-408)
+    Harvard Medical School](https://www.classcentral.com/course/canvas-network-best-practices-for-biomedical-research-data-management-he-10172)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
