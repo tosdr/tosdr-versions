@@ -308,7 +308,7 @@ Mochahost is a WHG Company
 
 [World Host Group US Inc](https://worldhost.group/)  
 200 Continental Drive, Suite 401  
-Newark, New Jersey, 19713
+Newark, Delaware, 19713
 
 World Host Group is the world's best hosting group. With clients in over 180 countries, every brand we run is dedicated to offering excellent reliable hosting backed by friendly expert technical support.
 
