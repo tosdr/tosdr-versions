@@ -283,7 +283,7 @@ Plans
 Community
 ---------
 
-* [Chapters](https://community.codecademy.com/chapters)
+* [Clubs](https://community.codecademy.com/c/start-here/)
 * [Code Crew](https://try.codecademy.com/code-crew/)
 * [Discord](https://discord.com/invite/codecademy)
 * [Events](https://www.codecademy.com/events)
