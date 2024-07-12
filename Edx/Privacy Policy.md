@@ -4,7 +4,7 @@
 
 Toggle mobile menu
 
-* [Sign In](https://courses.edx.org/login)[Register for free](https://courses.edx.org/register)
+* [Sign In](https://authn.edx.org/login)[Register for free](https://authn.edx.org/register)
 * [All Courses & Programs](https://www.edx.org/search)
 * Degrees & ProgramsNew
     
@@ -32,6 +32,8 @@ Explore the Career resources resources
 Try a course for free.
 
 [Free online courses](https://www.edx.org/free-online-courses)
+
+Celebrate summer by saving big — get up to 30% off select programs until July 23. Use code **EDXSUMMER24**. [Learn more](https://www.edx.org/summer-promotion).
 
 Close site banner.
 
