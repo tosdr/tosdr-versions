@@ -20,12 +20,10 @@
 * [Home Page](https://lawandcrime.com/)
 * [Live](https://lawandcrime.com/live-trials/)
     * [Watch Live: Law & Crime Network](https://lawandcrime.com/stream/)
-    * [Watch the Karen Read trial: An angry girlfriend callously leaving cop to die in a blizzard — or a grand conspiracy?](https://lawandcrime.com/live-trials/live-trials-current/watch-the-karen-read-trial-an-angry-girlfriend-callously-leaving-cop-to-die-in-a-blizzard-or-a-grand-conspiracy/)
     * [WATCH LIVE: Young Thug YSL racketeering trial](https://lawandcrime.com/live-trials/live-trials-current/watch-live-young-thug-ysl-racketeering-trial/)
     * [9 Shocking Times Defendants Testified at Trial](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/groves-loyd-and-more-9-shocking-times-defendants-testified-at-trial/)
     * [10 Most Memorable Law&Crime Network Trials](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/godejohn-nelson-and-more-10-most-memorable-lawcrime-network-trials/)
     * [Watch Live: Brevard County Bond Court](https://lawandcrime.com/live-trials/live-trials-current/brevard-county-bond-court/brevard-county-bond-court/)
-    * [View All Live Trials](https://lawandcrime.com/live-trials)
 * [Where to Watch](https://lawandcrime.com/where-to-watch/)
 * [TV Schedule](https://lawandcrime.com/schedule)
 * [Bodycam Videos](https://www.youtube.com/playlist?list=PLoW1SIeAWaWYnLs3HdjyU9MTTAV9Ve982)
@@ -60,12 +58,10 @@
 * [Home Page](https://lawandcrime.com/)
 * [Live](https://lawandcrime.com/live-trials/)
     * [Watch Live: Law & Crime Network](https://lawandcrime.com/stream/)
-    * [Watch the Karen Read trial: An angry girlfriend callously leaving cop to die in a blizzard — or a grand conspiracy?](https://lawandcrime.com/live-trials/live-trials-current/watch-the-karen-read-trial-an-angry-girlfriend-callously-leaving-cop-to-die-in-a-blizzard-or-a-grand-conspiracy/)
     * [WATCH LIVE: Young Thug YSL racketeering trial](https://lawandcrime.com/live-trials/live-trials-current/watch-live-young-thug-ysl-racketeering-trial/)
     * [9 Shocking Times Defendants Testified at Trial](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/groves-loyd-and-more-9-shocking-times-defendants-testified-at-trial/)
     * [10 Most Memorable Law&Crime Network Trials](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/godejohn-nelson-and-more-10-most-memorable-lawcrime-network-trials/)
     * [Watch Live: Brevard County Bond Court](https://lawandcrime.com/live-trials/live-trials-current/brevard-county-bond-court/brevard-county-bond-court/)
-    * [View All Live Trials](https://lawandcrime.com/live-trials)
 * [Where to Watch](https://lawandcrime.com/where-to-watch/)
 * [TV Schedule](https://lawandcrime.com/schedule)
 * [Bodycam Videos](https://www.youtube.com/playlist?list=PLoW1SIeAWaWYnLs3HdjyU9MTTAV9Ve982)
@@ -262,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Hunter Biden, Garrett Ziegler](https://am24.mediaite.com/lc/cnt/uploads/2024/03/Hunter-Biden-Garrett-Ziegler-432x243.jpg)](https://lawandcrime.com/lawsuit/judge-rules-trump-wh-policy-analyst-turned-biden-laptop-report-poster-must-face-hunters-hacking-lawsuit-after-failed-recusal-bid/)
+1. [![Seminole County Circuit Court Judge Wayne Culver (YouTube, WKMG screenshot)](https://am23.mediaite.com/lc/cnt/uploads/2024/07/adf-432x243.jpg)](https://lawandcrime.com/high-profile/i-asked-you-a-f-ing-question-a-florida-judge-faces-suspension-over-intemperate-conduct-from-bench/)
     
-    ### [Judge rules Trump WH policy analyst turned 'Biden Laptop Report' poster must face Hunter's 'hacking' lawsuit after failed recusal bid](https://lawandcrime.com/lawsuit/judge-rules-trump-wh-policy-analyst-turned-biden-laptop-report-poster-must-face-hunters-hacking-lawsuit-after-failed-recusal-bid/)
+    ### ['I asked you a f---ing question, a------': Florida judge faces suspension over 'intemperate conduct' from bench](https://lawandcrime.com/high-profile/i-asked-you-a-f-ing-question-a-florida-judge-faces-suspension-over-intemperate-conduct-from-bench/)
     
-2. [![Jamie Komoroski, on the left; Aric Hutchinson and Samantha Miller, on the right](https://am23.mediaite.com/lc/cnt/uploads/2023/05/Jamie-Komoroski-432x243.jpg)](https://lawandcrime.com/high-profile/husband-of-bride-killed-by-alleged-drunk-driver-after-wedding-reception-reaches-1-37-million-wrongful-death-settlement-with-local-bars-and-other-businesses/)
+2. [![Deja Rollins and Justin Rollins (Jacksonville Police Dept.) and Arkansas Children's Hospital (YouTube, THV11 screenshot)](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Deja-Rollins-and-Justin-Rollins-Jacksonville-Police-Dept.-and-Arkansas-Childrens-Hospital-YouTube-THV11-screenshot-432x243.jpg)](https://lawandcrime.com/crime/2-year-old-dies-after-being-left-to-roast-in-hot-car-parked-at-childrens-hospital-while-parents-were-inside-being-arrested-for-abusing-3-year-old-police/)
     
-    ### [Husband of bride killed by alleged drunk driver after wedding reception reaches $1.37 million wrongful death settlement with local bars and other businesses](https://lawandcrime.com/high-profile/husband-of-bride-killed-by-alleged-drunk-driver-after-wedding-reception-reaches-1-37-million-wrongful-death-settlement-with-local-bars-and-other-businesses/)
+    ### [2-year-old dies after being left to roast in hot car parked at children's hospital while parents were inside being arrested for abusing 3-year-old: Police](https://lawandcrime.com/crime/2-year-old-dies-after-being-left-to-roast-in-hot-car-parked-at-childrens-hospital-while-parents-were-inside-being-arrested-for-abusing-3-year-old-police/)
     
-3. [![Supreme Court Justice Clarence Thomas](https://am24.mediaite.com/lc/cnt/uploads/2021/04/GettyImages-1232480534-432x243.jpg)](https://lawandcrime.com/supreme-court/justice-thomas-stands-alone-against-major-gun-ruling-disarming-accused-domestic-abusers-puts-at-risk-the-2nd-amendment-rights-of-many-more/)
+3. [![Noah Bush (GoFundMe) and the area where he drowned in May (WTOC screenshot)](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Noah-Bush-GoFundMe-and-the-area-where-he-drowned-in-May-WTOC-screenshot-432x243.jpg)](https://lawandcrime.com/crime/10-year-old-and-11-year-old-charged-in-death-of-8-year-old-who-drowned-in-local-borrow-pit/)
     
-    ### [Justice Thomas stands alone against major gun ruling: Disarming accused domestic abusers 'puts at risk the 2nd Amendment rights of many more'](https://lawandcrime.com/supreme-court/justice-thomas-stands-alone-against-major-gun-ruling-disarming-accused-domestic-abusers-puts-at-risk-the-2nd-amendment-rights-of-many-more/)
+    ### [10-year-old and 11-year-old charged in death of 8-year-old who drowned in local 'borrow pit'](https://lawandcrime.com/crime/10-year-old-and-11-year-old-charged-in-death-of-8-year-old-who-drowned-in-local-borrow-pit/)
     
-4. [![Kuachua Brillion Xiong (Cass County Sheriff's Office) and Joe Biden ((Photo by OLIVIER DOULIERY / AFP)](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Kuachua-Brillion-Xiong-Cass-County-Sheriffs-Office-and-Joe-Biden-Photo-by-OLIVIER-DOULIERY-AFP-432x243.jpg)](https://lawandcrime.com/crime/he-plans-on-dying-while-fighting-evil-demons-at-the-white-house-man-with-carload-of-weapons-and-hit-list-that-included-biden-obama-and-clinton-gets-years-in-prison/)
+4. [![Shannon Lynn Eberhart appears in a booking photo](https://am22.mediaite.com/lc/cnt/uploads/2024/07/Shannon-Lynn-Eberhart-432x243.jpg)](https://lawandcrime.com/crime/you-are-nothing-but-a-con-artist-judge-tears-into-caregiver-who-faked-stage-4-cancer-to-derail-trial-for-stealing-cash-jewelry-from-elderly-patients/)
     
-    ### ['He plans on dying while fighting evil demons at the White House': Man with carload of weapons and 'hit list' that included Biden, Obama and Clinton gets years in prison](https://lawandcrime.com/crime/he-plans-on-dying-while-fighting-evil-demons-at-the-white-house-man-with-carload-of-weapons-and-hit-list-that-included-biden-obama-and-clinton-gets-years-in-prison/)
+    ### ['You are nothing but a con artist’: Judge tears into caregiver who faked Stage 4 cancer to derail trial for stealing cash, jewelry from elderly patients](https://lawandcrime.com/crime/you-are-nothing-but-a-con-artist-judge-tears-into-caregiver-who-faked-stage-4-cancer-to-derail-trial-for-stealing-cash-jewelry-from-elderly-patients/)
     
-5. [![Dominick Taylor mug shots](https://am22.mediaite.com/lc/cnt/uploads/2024/06/Dominick-Taylor-432x243.jpg)](https://lawandcrime.com/crime/full-time-caregiver-who-strangled-blind-unable-to-walk-nephew-in-bedroom-and-bought-one-way-amtrak-ticket-from-chicago-wont-get-out-of-prison-now/)
+5. [![Veronica Carrillo, the cat she's accused of trying to burn alive, and the cage and grill allegedly used (Moore City Police Dept.)](https://am22.mediaite.com/lc/cnt/uploads/2024/07/Veronica-Carrillo-the-cat-shes-accused-of-trying-to-burn-alive-and-the-cage-and-grill-allegedly-used-Moore-City-Police-Dept-432x243.jpg)](https://lawandcrime.com/crime/it-had-to-be-done-mom-allegedly-tried-to-burn-daughters-cat-alive-on-family-grill/)
     
-    ### ['Full-time' caregiver who strangled blind, 'unable to walk' nephew in bedroom and bought one-way Amtrak ticket from Chicago won't get out of prison now](https://lawandcrime.com/crime/full-time-caregiver-who-strangled-blind-unable-to-walk-nephew-in-bedroom-and-bought-one-way-amtrak-ticket-from-chicago-wont-get-out-of-prison-now/)
+    ### ['It had to be done': Mom allegedly tried to burn daughter's cat alive on family grill](https://lawandcrime.com/crime/it-had-to-be-done-mom-allegedly-tried-to-burn-daughters-cat-alive-on-family-grill/)
     
 
 [](http://eepurl.com/c89Jdb)
