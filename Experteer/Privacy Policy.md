@@ -29,7 +29,7 @@
     
     Login
     
-    [Forgotten your password?](https://us.experteer.com/account/send_password)
+    [Forgotten your password?](https://us.experteer.com/accounts/password/new)
     
      
     
@@ -503,4 +503,4 @@ _Munich, May 25, 2018_
 
 © 2024 [Experteer GmbH](https://us.experteer.com/)
 
-Experteer uses cookies. [Information on data protection](https://us.experteer.com/terms/privacy_policy) Send
+Experteer uses cookies. [Information on data protection](https://us.experteer.com/terms/privacy_policy) [Send](#)
