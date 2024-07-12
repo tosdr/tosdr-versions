@@ -1,6 +1,6 @@
-[![1000Pip Builder logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](https://www.facebook.com/tr?id=1621984168343964&ev=PageView&noscript=1)  
 
-![1000Pip Builder logo](https://www.1000pipbuilder.com/wp-content/plugins/new-modules/images/logo.png)](javascript:void(0))
+[![1000Pip Builder logo](https://www.1000pipbuilder.com/wp-content/plugins/new-modules/images/logo.png)](javascript:void(0))
 
 * [Home](https://www.1000pipbuilder.com/#home-bnr)
 * [About us](https://www.1000pipbuilder.com/#about-us)
