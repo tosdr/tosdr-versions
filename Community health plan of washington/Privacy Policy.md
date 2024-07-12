@@ -277,6 +277,8 @@ Community Health Plan of Washington (CHPW) was founded in 1992 by Washington’s
 
 ##### Language Assistance
 
+Language assistance services, including interpreters and translation of printed materials, are available free of charge.
+
 [Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…](https://www.chpw.org/contact-us/language-assistance/ "Language Assistance Services")
 
 [![Adobe Reader Icon](https://www.chpw.org/wp-content/themes/chpw/images/icons/get-adobe-reader-icon.jpg)](https://get.adobe.com/reader/otherversions/ "Click to download Adobe PDF Reader/Haz clic para descargar Adobe PDF Reader")
