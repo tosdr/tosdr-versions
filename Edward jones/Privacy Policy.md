@@ -53,7 +53,13 @@ Learn more: [Read the full Edward Jones Privacy Policy](https://www.edwardjones.
 
 The California Consumer Privacy Act (CCPA) provides California residents with specific rights regarding how their personal information is collected and maintained, [which is more fully explained in our California Privacy Notice](https://www.edwardjones.com/us-en/privacy/california-privacy-notice "California Privacy Notice"). 
 
-[Use our portal](https://privacyportal-cdn.onetrust.com/dsarwebform/72962654-4344-4857-b8ef-0b74022632d7/cd516469-d0ab-4ee6-812c-631a7b239556.html), powered by OneTrust, to submit a consumer data rights request to the Edward Jones Privacy team. For questions, contact the Privacy team at 855-898-6102 or [\[email protected\]](https://www.edwardjones.com/cdn-cgi/l/email-protection).
+### Oregon Consumer Privacy Act
+
+The Oregon Consumer Privacy Act provides Oregon residents with specific rights regarding how their personal information is collected and maintained.
+
+### Consumer Data Rights Request
+
+[Use our portal](https://privacyportal.onetrust.com/webform/72962654-4344-4857-b8ef-0b74022632d7/cd516469-d0ab-4ee6-812c-631a7b239556), powered by OneTrust, to submit a consumer data rights request to the Edward Jones Privacy team. For questions, contact the Privacy team at 855-898-6102 or [\[email protected\]](https://www.edwardjones.com/cdn-cgi/l/email-protection).
 
 [Do Not Sell and Do Not Share my Personal Information](https://www.edwardjones.com/cookie-management "Do Not Sell and Do Not Share my Personal Information")
 
@@ -119,6 +125,6 @@ Follow us to stay up to date
 
 * [![BrokerCheck by FINRA](/sites/default/files/acquiadam/2020-09/brokercheck-by-finra-vector-logo%202%402x.png)](https://brokercheck.finra.org/)
 
-Copyright © 2024 Edward Jones. All rights reserved. Member [SIPC](https://www.sipc.org/ "SIPC"). 
+Copyright © 2024 Edward Jones. All rights reserved. Member [SIPC](https://www.sipc.org/). 
 
 This site is designed for U.S. residents only. The services offered within this site are available exclusively through our U.S. financial advisors. Edward Jones' U.S. financial advisors may only conduct business with residents of the states for which they are properly registered. Please note that not all of the investments and services mentioned are available in every state.
