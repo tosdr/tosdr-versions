@@ -6,8 +6,8 @@
 * EURO 2024
     * Euro 2024
         * [News](https://www.goal.com/en/european-championship/news/8tddm56zbasf57jkkay4kbf11)
-        * [Fixtures](https://www.goal.com/en/european-championship/fixtures-results/8tddm56zbasf57jkkay4kbf11)
-        * [Tables](https://www.goal.com/en/european-championship/table/8tddm56zbasf57jkkay4kbf11)
+        * [Matches](https://www.goal.com/en/european-championship/fixtures-results/8tddm56zbasf57jkkay4kbf11)
+        * [Standings](https://www.goal.com/en/european-championship/table/8tddm56zbasf57jkkay4kbf11)
 * LATEST
     * Latest
         * [News](https://www.goal.com/en/news)
