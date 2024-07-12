@@ -67,6 +67,7 @@ The Fine Print of Acorns
 * [Mighty Oak Card](https://www.acorns.com/mighty-oak-terms-and-conditions/)
 * [Long Game Sweepstakes Terms](https://www.acorns.com/longgamesweepstakes/)
 * [Premium Tier Tunsgten Promotions Terms](https://www.acorns.com/tungsten-promotions-terms/)
+* [Later Match Terms & Conditions](https://www.acorns.com/later-match-terms/)
 * [Referral Promotion Terms](https://www.acorns.com/ref-terms/)
 * [Earn Rewards Match](https://sqy7rm.media.zestyio.com/Earn-Rewards-Match-TC--9_25-Update-.pdf)
 * [Program Agreement](https://www.acorns.com/program-agreement/)
@@ -257,7 +258,9 @@ Questions? Contact us at support@acorns.com
 
 11\. **Invest,** an individual investment account which invests in a portfolio of ETFs (exchange traded funds) recommended to clients based on their investment objectives, time horizon, and risk tolerance. 
 
-12\. **Later**, an Individual Retirement Account (either Traditional, ROTH or SEP IRA) selected for clients based on their answers to a suitability questionnaire. Please consult your tax advisor with any questions.
+12\. **Later**, an Individual Retirement Account (either Traditional, ROTH or SEP IRA) selected for clients based on their answers to a suitability questionnaire. Please consult your tax advisor with any questions. Existing customers in Acorns Premium or Personal Plus subscription plans can opt into the Acorns Later Match feature and receive either a 3% or 1% IRA match, respectively, on new contributions made to an Acorns Later account. New customers in these subscription tiers are automatically eligible for the Later Match feature at the applicable 3% and 1% match rate. All Later funds for both new and existing customers must be held in an Acorns Later account for at least four years to keep the earned IRA match and all or a portion of IRA Match may be subject to recapture by Acorns if customer downgrades to a Subscription Tier with a lower monthly fee.  
+  
+For informational purposes only. This is solely intended to provide notification of an available product or service. This is not a recommendation to buy, sell, hold, or roll over any asset, adopt an investment strategy, or use a particular account type. This information does not consider the specific investment objectives, tax and financial conditions or particular needs of any specific person. Investors should discuss their specific situation with their financial professional.
 
 13\. **Early**, an UTMA/UGMA investment account managed by an adult custodian until the minor beneficiary comes of age, at which point they assume control of the account. Money in a custodial account is the property of the minor. 
 
