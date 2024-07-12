@@ -138,7 +138,7 @@ Search
         
         ### [Family and Community Engagement Program](https://www.commonsense.org/face)
         
-* [Meet us at ISTE](https://www.commonsense.org/education/ISTE2024)
+* [Get Our Newsletter](https://www.commonsense.org/education/newsletter)
 * [Donate](https://www.commonsensemedia.org/donate)
 
 [Privacy Policy](https://www.commonsense.org/education/privacy-policy)
