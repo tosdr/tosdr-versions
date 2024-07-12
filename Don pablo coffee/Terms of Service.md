@@ -144,6 +144,10 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 **SECTION 20 - CONTACT INFORMATION**  
 Questions about the Terms of Service should be sent to us at info@donpablocoffee.com.
 
+#### 
+
+Sign up for our newsletter
+
 ![](//donpablocoffee.com/cdn/shop/files/invert_300x.png?v=1641333893)
 
 ![](//donpablocoffee.com/cdn/shop/files/invert_2048x2048.png?v=1641333893)
