@@ -96,13 +96,7 @@ Search site
 
 [River Flood Warning
 
-until SUN 1:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[River Flood Warning
-
-until SUN 1:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
+until FRI 7:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
 
 Privacy Policy
 ==============
@@ -415,35 +409,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Robert-Isom.jpg?ve=1&tl=1)
+ [![Michael Irvin opening new North Texas sports bar with two-day celebration](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/playmakers.jpg?ve=1&tl=1)
 
- ![American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Robert-Isom.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-ceo-aims-rebuild-trust-after-black-passengers-removed-from-flight)
+ ![Michael Irvin opening new North Texas sports bar with two-day celebration](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/playmakers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michael-irvin-sports-bar-the-colony)
 
-### [American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://www.fox4news.com/news/american-airlines-ceo-aims-rebuild-trust-after-black-passengers-removed-from-flight)
+### [Michael Irvin opening new North Texas sports bar with two-day celebration](https://www.fox4news.com/news/michael-irvin-sports-bar-the-colony)
 
- [!['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Thomas-Guiry.jpg?ve=1&tl=1)
+ [![AT&T hack: ‘Nearly all' customers' call, text records exposed in data breach](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-1760544559.jpg?ve=1&tl=1)
 
- !['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Thomas-Guiry.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/actor-thomas-guiry-sandlot-arrested)
+ ![AT&T hack: ‘Nearly all' customers' call, text records exposed in data breach](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-1760544559.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/att-says-nearly-all-customers-call-text-records-stolen-data-breach)
 
-### ['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://www.fox4news.com/news/actor-thomas-guiry-sandlot-arrested)
+### [AT&T says ‘nearly all’ of its customers’ call and text records exposed in data breach](https://www.fox4news.com/news/att-says-nearly-all-customers-call-text-records-stolen-data-breach)
 
- [![U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-SHAUN-GPPD_US-MARSHALS-VIOLENT-CRIME-5P_00.00.44.18.jpg?ve=1&tl=1)
+ [![Dallas Love Field asks travelers to arrive 3 hours before flight for second consecutive day](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/snapshot-67.jpg?ve=1&tl=1)
 
- ![U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-SHAUN-GPPD_US-MARSHALS-VIOLENT-CRIME-5P_00.00.44.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/u-s-marshals-deputy-director-meets-north-texas-law-enforcement-discuss-violent-crime-reduction)
+ ![Dallas Love Field asks travelers to arrive 3 hours before flight for second consecutive day](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/snapshot-67.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-love-field-tsa-wait-times-friday-july-12)
 
-### [U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://www.fox4news.com/news/u-s-marshals-deputy-director-meets-north-texas-law-enforcement-discuss-violent-crime-reduction)
+### [Dallas Love Field asks travelers to arrive 3 hours before flight for second consecutive day](https://www.fox4news.com/news/dallas-love-field-tsa-wait-times-friday-july-12)
 
- [![Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Hail-slush-still.jpg?ve=1&tl=1)
+ [![Police chase ends in shootout in Midlothian, suspect injured](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/snapshot-66.jpg?ve=1&tl=1)
 
- ![Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Hail-slush-still.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-hail-flows-like-lava-during-severe-thunderstorm-nebraska)
+ ![Police chase ends in shootout in Midlothian, suspect injured](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/snapshot-66.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-chase-shootout-midlothian)
 
-### [Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://www.fox4news.com/news/watch-hail-flows-like-lava-during-severe-thunderstorm-nebraska)
+Developing
 
- [![Grieving mom wants to build new Dallas playground in honor of later daughter](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-ALEX-OLD-CITY-PARK-NEW-PLAYGROUND-530P_00.01.02.52.jpg?ve=1&tl=1)
+### [Police chase ends in shootout in Midlothian, suspect injured](https://www.fox4news.com/news/police-chase-shootout-midlothian)
 
- ![Grieving mom wants to build new Dallas playground in honor of later daughter](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-ALEX-OLD-CITY-PARK-NEW-PLAYGROUND-530P_00.01.02.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/old-city-park-avy-hill-new-playground-the-cedars)
+ [![Leader of Princeton forced labor ring had 15 women sleeping on floor while paying of their 'debt:' police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-DAVID-PRINCETON-HUMAN-LABOR-TRAFICKING-9P_00.00.08.34.jpg?ve=1&tl=1)
 
-### [Grieving mom wants to build new Dallas playground in honor of later daughter](https://www.fox4news.com/news/old-city-park-avy-hill-new-playground-the-cedars)
+ ![Leader of Princeton forced labor ring had 15 women sleeping on floor while paying of their 'debt:' police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-DAVID-PRINCETON-HUMAN-LABOR-TRAFICKING-9P_00.00.08.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/santhosh-katkoori-arrest-alleged-ring-leader)
+
+### [Leader of Princeton forced labor ring had 15 women sleeping on floor while paying of their 'debt:' police](https://www.fox4news.com/news/santhosh-katkoori-arrest-alleged-ring-leader)
 
 ###### [News](https://www.fox4news.com/news)
 
