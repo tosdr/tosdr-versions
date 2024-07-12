@@ -168,7 +168,7 @@ To manage your use of cookies there are various resources available to you. For 
 
 **Learn more about Cookies Settings** >
 
-![JPMorganChase logo links to homepage](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
+![JPMorganChase logo](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
 
 [](https://www.linkedin.com/company/jpmorgan-chase/)[](https://www.facebook.com/jpmorganchase)[](https://instagram.com/jpmorgan)[](https://www.youtube.com/jpmorgan)
 
