@@ -4,36 +4,36 @@ Proudly Hosting over 100,000 Fast Websites since 2010
 
 [Skype](skype:live:.cid.8d40f046dfaeecee?chat)
 
- [![host4geeks-logo](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/logo-new-red-1.svg)](https://host4geeks.com/)![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/ic-hamburger.svg)
+ [![host4geeks-logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://host4geeks.com/)![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
 
 * [Home](https://host4geeks.com/)
-* [Services ![](https://host4geeks.com/wp-content/uploads/unlimited_elements/ic-arrow-down.svg)](#) 
+* [Services ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](#) 
     
-    ###### ![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/unlimited_elements/ic-web-server.svg) CPANEL HOSTING
+    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) CPANEL HOSTING
     
     * [Shared Hosting](https://host4geeks.com/shared-hosting/)
     * [Semi Dedicated Hosting](https://host4geeks.com/semi-dedicated-hosting/)
     * 
     
-    ###### ![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/unlimited_elements/ic-web-server.svg) RESELLER HOSTING
+    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) RESELLER HOSTING
     
     * [Premium Reseller Hosting](https://host4geeks.com/reseller-hosting/)
     * [Budget Reseller Hosting](https://host4geeks.com/cheap-reseller-hosting/)
     * 
     
-    ###### ![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/unlimited_elements/ic-web-server.svg) VPS HOSTING
+    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) VPS HOSTING
     
     * [Managed VPS](https://host4geeks.com/managed-vps/)
     * [Unmanaged VPS](https://host4geeks.com/unmanaged-vps/)
     * 
     
-    ###### ![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/unlimited_elements/ic-web-server.svg) DEDICATED SERVER
+    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) DEDICATED SERVER
     
     * [Managed Dedicated Servers](https://host4geeks.com/dedicated/)
     * 
     * 
     
-    ###### ![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/unlimited_elements/ic-web-server.svg) APPLICATION HOSTING
+    ###### ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) APPLICATION HOSTING
     
     * [WordPress Hosting](https://host4geeks.com/managed-wordpress-hosting/)
     * [Odoo Hosting](https://host4geeks.com/odoo-hosting/)
@@ -47,7 +47,7 @@ Proudly Hosting over 100,000 Fast Websites since 2010
 * [SSL Certificates](https://host4geeks.com/ssl-certificates/)
 * [Blog](https://host4geeks.com/blog/)
 * [Contact Us](https://host4geeks.com/contact-us/)
-* [About Us ![](https://host4geeks.com/wp-content/uploads/unlimited_elements/ic-arrow-down.svg)](#) 
+* [About Us ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](#) 
     
     [About Us](https://host4geeks.com/about-us/) [Reviews](https://host4geeks.com/reviews/) [Support](https://host4geeks.com/support/) [Datacenter](https://host4geeks.com/datacenters/)
     
@@ -298,21 +298,21 @@ AWARD-WINNING SUPPORT TEAM
 
 [Knowledgebase](https://kb.host4geeks.com/)
 
-[![logo new white](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/logo-new-white.svg "logo new white")](https://host4geeks.com/)
+[![logo new white](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs= "logo new white")](https://host4geeks.com/)
 
-8+ years in business, hosting over 100,000 websites.
+14 years in business, hosting over 100,000 websites.
 
-![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Visa.svg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDcwIDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
-![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Mastercard.svg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDcwIDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
-![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Maestro.svg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDcwIDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
-![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/American-Express.svg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDcwIDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
-![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Paypal.svg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDcwIDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
-![](/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2021/01/Bitcoin.svg)
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI0NCIgdmlld0JveD0iMCAwIDcwIDQ0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
 
 Hosting
 
