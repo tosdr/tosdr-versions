@@ -8,7 +8,7 @@ English
 
 What is Cookiebot
 
-[Cookiebot™ Consent Solution](https://www.cookiebot.com/en/cookie-consent-solution/) [Cookiebot CMP Features](https://www.cookiebot.com/en/cookiebot-cmp-features/) [Cookiebot™ for Wix by Usercentrics](https://www.cookiebot.com/en/cookiebot-for-wix-by-usercentrics-app/) [WordPress Plugin](https://www.cookiebot.com/en/new-wp-cookie-plugin/)
+[Cookiebot™ Consent Solution](https://www.cookiebot.com/en/cookie-consent-solution/) [Cookiebot CMP Features](https://www.cookiebot.com/en/cookiebot-cmp-features/) [Cookiebot™ for Wix by Usercentrics](https://www.cookiebot.com/en/cookiebot-for-wix-by-usercentrics-app/) [Cookiebot™ WordPress Plugin](https://www.cookiebot.com/en/new-wp-cookie-plugin/)
 
 Regulations
 
@@ -41,7 +41,7 @@ Share
 
 ![Facebook Logo - Cookiebot](/img/icons/white-facebook.svg?2)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F)
 
-Last update: May 2, 2024
+Last update: July 1, 2024
 
 1\. Agreement Between You and Usercentrics A/S
 ----------------------------------------------
@@ -50,7 +50,7 @@ Last update: May 2, 2024
 
 1.2. Our services are directed exclusively at Business to Business customers.
 
-1.3. The Terms were last updated on May 2, 2024 and are effective between you and Usercentrics as of the date when you place an order or set up an account at [www.cookiebot.com](https://www.cookiebot.com/). Usercentrics reserves the right to change the Terms from time to time. If such changes are considered material, Usercentrics will inform registered customers about the changes by email, and the changes will take effect one month after such emails have been sent. Your continued use of our website or services after any changes will constitute acknowledgment and acceptance of the modified Terms.
+1.3. The Terms were last updated on July 1, 2024 and are effective between you and Usercentrics as of the date when you place an order or set up an account at [www.cookiebot.com](https://www.cookiebot.com/). Usercentrics reserves the right to change the Terms from time to time. If such changes are considered material, Usercentrics will inform registered customers about the changes by email, and the changes will take effect one month after such emails have been sent. Your continued use of our website or services after any changes will constitute acknowledgment and acceptance of the modified Terms.
 
 1.4. The prevailing Terms shall always be those available on our website [www.cookiebot.com](https://www.cookiebot.com/). In the event of any discrepancies between the wording of our website or the wording of earlier Terms and these Terms, these Terms prevail.
 
@@ -129,7 +129,7 @@ Last update: May 2, 2024
 * a banner available in multiple languages.  
     
 
-3.1.4.7. If your domain contains 50 pages or fewer, we have a Premium Lite version including all the premium features mentioned above. For the Premium Lite, customer care and technical support is a self-serve solution with access to guides in our helpdesk as described on [www.cookiebot.com/en/helpdesk](https://www.cookiebot.com/en/helpdesk).
+3.1.4.7. If your single domain contains 50 pages or fewer, we have a Premium Lite version including all the premium features mentioned above. For the Premium Lite, customer care and technical support is a self-serve solution with access to guides in our helpdesk as described on [www.cookiebot.com/en/helpdesk](https://www.cookiebot.com/en/helpdesk). If you have additional domains, you will automatically be moved to our Small package.
 
 3.1.5. _Free Subscription_
 
@@ -321,7 +321,7 @@ In conjunction with the Disclaimer of Warranty as explained above, you expressly
 
 12.3. Should one or more provisions of these Terms and Conditions be ineffective, the remainder of the contract shall remain effective. The invalid provision shall be replaced by the relevant statutory provision.
 
-Click [here](https://www.cookiebot.com/en/terms-of-service-valid-until-may-2024/) to see the previous Terms of Service valid until May 1, 2024.
+Click [here](https://www.cookiebot.com/en/terms-of-service-valid-until-june-2024/) to see the previous Terms of Service valid until June 30, 2024.
 
      
 
