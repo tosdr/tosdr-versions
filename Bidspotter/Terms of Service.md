@@ -7,11 +7,11 @@
 Bidder Terms And Conditions
 ===========================
 
-**Last Updated: April 27, 2021**
+**Last Updated: June 24, 2024**
 
 **Please read these Bidder Terms and Conditions (“Bidder Terms”) carefully. By checking the box indicating you accept these Bidder Terms or by using the Services (defined below) to participate in any third-party auction made available via the Services (“Auction”), you agree to be legally bound by these Bidder Terms and all terms incorporated by reference. If you do not agree to these Bidder Terms, you may not use the Services to participate in any Auction.**
 
-BidSpotter, Inc. and our affiliated companies, including ATG Media US, Inc. (collectively, ("**we**," or “**BidSpotter**”) may make Auctions available to you (“**you**” or “**Bidder User**”) via [www.bidspotter.com](https://www.bidspotter.com/) (the “**Services**”). Your use of the Services to participate in any Auction provided by a third-party auctioneer (“ **Auctioneer**”) are governed by these Bidder Terms in addition to our [Website Terms and Conditions](https://www.bidspotter.com/en-us/about-us/legal/website-terms-and-conditions), which are incorporated herein by reference. Please note that additional terms and conditions established by an Auctioneer (“ **Auctioneer Terms**”) may apply to your use of the Auctioneer’s website or your purchase of any items in connection with an Auction.
+Proxibid Inc, DBA Bidspotter ("**we**," or “**BidSpotter**”) may make Auctions available to you (“**you**” or “**Bidder User**”) via [www.bidspotter.com](https://www.bidspotter.com/) (the “**Services**”). Your use of the Services to participate in any Auction provided by a third-party auctioneer (“ **Auctioneer**”) are governed by these Bidder Terms in addition to our [Website Terms and Conditions](https://www.bidspotter.com/en-us/about-us/legal/website-terms-and-conditions), which are incorporated herein by reference. Please note that additional terms and conditions established by an Auctioneer (“ **Auctioneer Terms**”) may apply to your use of the Auctioneer’s website or your purchase of any items in connection with an Auction.
 
 _Summary of our Services_
 -------------------------
