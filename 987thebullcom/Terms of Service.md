@@ -11,12 +11,12 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/e870de7b3d28)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -51,13 +51,13 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/e870de7b3d28)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -210,36 +210,13 @@ Recently Played
 
 |     |
 | --- |
-| HurricaneLuke Combs<br><br>3:47am |
-| White HorseChris Stapleton<br><br>3:37am |
-| Called CrazyKassi Ashton<br><br>3:33am |
-| Thinkin 'Bout MeMorgan Wallen<br><br>3:31am |
-| Hey DriverZach Bryan Ft The War And Treaty<br><br>3:27am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:54pm |
+| Blue TacomaRussell Dickerson<br><br>5:50pm |
+| Different 'Round HereRiley Green Ft Luke Combs<br><br>5:48pm |
+| She'S Somebody'S DaughterDrew Baldridge<br><br>5:44pm |
+| Singles You UpJordan Davis<br><br>5:41pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
-
-* * *
-
-You Might Also Like
--------------------
-
-![Morgan Wallen  Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/wp-content/uploads/2023/09/Morgan-Wallen-2-Radio-Promo-Pic-640x400.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Morgan Wallen Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/morgan-wallen-foundation-makes-massive-donation-to-hometown/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-13/Getty_ScottyMcCreeryTurqoiseTshirt.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Scotty McCreery's certain he doesn't want to be a judge on 'American Idol'](https://www.987thebull.com/scotty-mccreerys-certain-he-doesnt-want-to-be-a-judge-on-american-idol/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-11/M_JellyRollPerformanceAmericanIdol2024DisneyEricMcCandless.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll takes "Halfway to Hell" to #1](https://www.987thebull.com/jelly-roll-takes-halfway-to-hell-to-1/)
-
-* * *
 
 [![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/)
 
@@ -256,10 +233,10 @@ You Might Also Like
     If you have a disability preventing you from viewing this file, please contact [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
     
 * [FCC Applications](https://www.987thebull.com/fcc-applications)
-* [Cookie Preference](#cc-settings)
-* [CA Residents: Privacy Notice at Collection of Personal Information](https://www.987thebull.com/privacy-policy#caresidents)
-* [CA Residents: Privacy Notice of Financial Incentive](https://www.987thebull.com/privacy-policy#caincentive)
-* [CA/VA Residents: Do Not Sell Or Share My Personal Information](https://www.987thebull.com/notice-of-right-to-opt-out)
+* [Cookie Preferences](#cc-settings)
+* [![](https://www.987thebull.com/wp-content/themes/blacklab/assets/img/svg/privacyoptions.svg)Your Privacy Choices](https://www.987thebull.com/notice-of-right-to-opt-out)
+* [CA Residents: Notice at Collection](https://www.987thebull.com/privacy-policy/#section-2)
+* [CA Residents: Privacy Notice of Financial Incentive](https://www.987thebull.com/privacy-policy/#ca-financial-incentive)
 
 Discover Brands By...
 ---------------------
@@ -381,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Spanish • Western
+Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Sports • Midwest
+Country • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
