@@ -1,4 +1,4 @@
-[NEW MEMBERS: GET YOUR FIRST 6 BOTTLES FOR $55 ($150+ VALUE)](https://www.brightcellars.com/pages/wine-quiz)[NEW IN THE SHOP: ALFRESCO BUNDLE, TOP-RATED BRANDS, & MORE!](https://www.brightcellars.com/pages/shop-all)
+[NEW MEMBERS: GET YOUR FIRST 6 BOTTLES FOR $55 ($150+ VALUE)](https://www.brightcellars.com/pages/wine-quiz)[CELEBRATE THE 4TH OF JULY WITH 40% OFF IN THE WINE SHOP](https://www.brightcellars.com/collections/shop)
 
 [Text](https://www.brightcellars.com/)
 
