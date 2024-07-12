@@ -18,7 +18,7 @@
 * [What’s On](https://www.epsomcollege.org.uk/privacy-policy/menu-id-257)
 
 * [Information for Parents](https://www.epsomcollege.org.uk/information-for-parents/)
-* [Extranet](https://home.epsomcollege.org.uk/)
+* [Parent Portal](https://epsomcollege.parents.isamshosting.cloud/)
 * [Royal Medical Foundation](https://www.royalmedicalfoundation.org/)
 * [Pupil Portal](https://pupilp.epsomcollege.org.uk/)
 * [Epsom College in Malaysia](https://www.epsomcollege.edu.my/)
@@ -142,7 +142,7 @@ Our website address is: https://www.epsomcollege.org.uk.
 
 This policy explains how Epsom College collects and uses information via its website. Please click on the following links for more information on how the College uses information about pupils and parents.
 
-[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1719007731) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1719007731) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1719007731) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1719007731)
+[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1720780136) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1720780136) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1720780136) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1720780136)
 
 For further information, to receive support or make a complaint relating to the College’s use of your personal data please contact our Bursar, Mr Paul Ratcliffe at [bursar@epsomcollege.org.uk](mailto:bursar@epsomcollege.org.uk)
 
