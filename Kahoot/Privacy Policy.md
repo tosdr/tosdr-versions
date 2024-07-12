@@ -16,7 +16,7 @@ GDPR and data privacy
 
 [Return to Trust Center](https://trust.kahoot.com/)
 
-Modified: November 8th 2023
+Modified: July 10th 2024
 
 Kahoot! Privacy Policy
 ======================
@@ -64,8 +64,6 @@ The Personal Information we process depends on the context of your interactions 
 * Log data whereby our web servers keep log files that record data each time a device accesses those servers and the nature of each access, including originating IP-addresses and your activity in the Services (such as the date/time stamps associated with your usage, participation in Kahoot! games, results, pages and files viewed, searches and other actions you take (for example, which features you used)). We may also access metadata and other information associated with files that you upload into our Service.
 
 * Cookies which allow us to collect information such as browser type and other anonymous traffic data. Please see our [Cookie Notice](https://trust.kahoot.com/cookie-notice/) for more information on our use of cookies.
-
-* Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of our Users, measure the success of marketing campaigns and compile statistics about usage of the Services and response rates.
 
 Information we collect from other sources: From time to time, we may collect Personal Information about you from other sources, such as our Partners, integrations or other third parties, for example where you have given permission to the third party to share your information with us.
 
