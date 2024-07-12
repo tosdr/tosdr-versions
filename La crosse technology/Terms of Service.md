@@ -136,7 +136,7 @@ Your cart is currently empty.
     
     331-09667V2 Wireless Pool Thermometer
     
-    $42.99](https://www.lacrossetechnology.com/products/331-09667v2-wireless-pool-thermometer)
+    $61.99](https://www.lacrossetechnology.com/products/331-09667v2-wireless-pool-thermometer)
     
 * [Support](https://lacrossetechnology.zendesk.com/hc/en-us)
     
