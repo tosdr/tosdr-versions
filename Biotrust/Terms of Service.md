@@ -158,7 +158,7 @@
 
 * [Purchase History](https://www.biotrust.com/account)
 * [Manage Subscriptions](https://www.biotrust.com/account)
-* [Track My Order](https://helpcenter.biotrust.com/en-US)
+* [Track My Order](https://www.biotrust.com/account)
 * [Forgot Password](https://www.biotrust.com/account/login#recover)
 * [Create Account](https://www.biotrust.com/account/register)
 * [Customer Support](https://helpcenter.biotrust.com/en-US)
@@ -362,15 +362,15 @@ Last updated: June 18, 2024
 
 The BioTRUST mobile message service (the "Service") is operated by BioTRUST (“BioTRUST”, “we”, or “us”). Your use of the Service constitutes your agreement to these terms and conditions (“Mobile Terms”). We may modify or cancel the Service or any of its features without notice. To the extent permitted by applicable law, we may also modify these Mobile Terms at any time and your continued use of the Service following the effective date of any such changes shall constitute your acceptance of such changes.
 
-By consenting to BioTRUST’s SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of BioTRUST through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list. Text messages may be sent using an automatic telephone dialing system or other technology. The service will include promotional messages such as promotions, specials, coupons, and other marketing offers; it will also include transactional messages such as order updates and account alerts.
+By consenting to BioTRUST’s SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of BioTRUST through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list. Text messages may be sent using an automatic telephone dialing system or other technology. The service will include promotional messages such as promotions, specials, coupons, and other marketing offers (including cart reminders).
 
 You understand that you do not have to sign up for this program in order to make any purchases, and your consent is not a condition of any purchase with BioTRUST. Your participation in this program is completely voluntary.
 
 We do not charge for the Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. Message frequency varies. Message and data rates may apply. Check your mobile plan and contact your wireless provider for details. You are solely responsible for all charges related to SMS/text messages, including charges from your wireless provider.
 
-You may opt-out of the Service at any time. Text the single keyword command STOP to +18336916751 or click the unsubscribe link (where available) in any text message to cancel. You'll receive a one-time opt-out confirmation text message. No further messages will be sent to your mobile device, unless initiated by you. If you have subscribed to other BioTRUST mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms.
+You may opt-out of the Service at any time. Text the single keyword command STOP to **35268** or click the unsubscribe link (where available) in any text message to cancel. You'll receive a one-time opt-out confirmation text message. No further messages will be sent to your mobile device, unless initiated by you. If you have subscribed to other BioTRUST mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms.
 
-For Service support or assistance, text HELP to +18336916751 or email [support@biotrust.com](mailto:support@biotrust.com).
+For Service support or assistance, text HELP to **35268** or email [support@biotrust.com](mailto:support@biotrust.com).
 
 We may change any short code or telephone number we use to operate the Service at any time and will notify you of these changes. You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number we have changed may not be received and we will not be responsible for honoring requests made in such messages.
 
@@ -405,7 +405,7 @@ CUSTOMER SUPPORT
 * [Purchase History](https://www.biotrust.com/account)
 * [Manage Subscriptions](https://www.biotrust.com/account)
 * [Subscribe & Save FAQ](https://www.biotrust.com/pages/subscribe-save-faq)
-* [Track My Order](https://helpcenter.biotrust.com/en-US)
+* [Track My Order](https://www.biotrust.com/account)
 * [Shipping Policies](https://www.biotrust.com/pages/shipping)
 * [Return Policy](https://www.biotrust.com/pages/return-exchange-policy)
 * [Forgot Password](https://www.biotrust.com/account/login#recover)
