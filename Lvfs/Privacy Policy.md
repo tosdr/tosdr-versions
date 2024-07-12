@@ -116,7 +116,7 @@ Being transparent and providing accessible information to individuals about how 
 
 ### Firmware Reports[¶](#firmware-reports "Link to this heading")
 
-* **What:** Machine ID (hashed), failure string and checksum of failing file, OS distribution name and version.
+* **What:** IP address, Machine ID (hashed), failure string and checksum of failing file, OS distribution name and version.
     
 * **Why collected:** Allows the hardware vendor to assess if the firmware update is working on real hardware.
     
@@ -191,6 +191,7 @@ Contents:
 * [Getting an Account](https://lvfs.readthedocs.io/en/latest/apply.html)
 * [Metadata](https://lvfs.readthedocs.io/en/latest/metainfo.html)
 * [Uploading Firmware](https://lvfs.readthedocs.io/en/latest/upload.html)
+* [Downloading Firmware](https://lvfs.readthedocs.io/en/latest/download.html)
 * [Firmware Testing](https://lvfs.readthedocs.io/en/latest/testing.html)
 * [Claims](https://lvfs.readthedocs.io/en/latest/claims.html)
 * [User Telemetry](https://lvfs.readthedocs.io/en/latest/telemetry.html)
