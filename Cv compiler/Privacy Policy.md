@@ -1047,6 +1047,170 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [HR Business Partner](https://cvcompiler.com/hr-business-partner-resume-examples)
 
+[Digital Marketing Specialist](https://cvcompiler.com/digital-marketing-specialist-resume-examples)
+
+[Instructional Designer](https://cvcompiler.com/instructional-designer-resume-examples)
+
+[Entry-Level Administrative Assistant](https://cvcompiler.com/entry-level-administrative-assistant-resume-examples)
+
+[Junior Accountant](https://cvcompiler.com/junior-accountant-resume-examples)
+
+[Node.js Developer](https://cvcompiler.com/node-js-developer-resume-examples)
+
+[Preschool Teacher Assistant](https://cvcompiler.com/preschool-teacher-assistant-resume-examples)
+
+[AWS Full Stack Developer](https://cvcompiler.com/aws-full-stack-developer-resume-examples)
+
+[Customer Service Executive](https://cvcompiler.com/customer-service-executive-resume-examples)
+
+[Inside Sales](https://cvcompiler.com/inside-sales-resume-examples)
+
+[Bank Manager](https://cvcompiler.com/bank-manager-resume-examples)
+
+[Leasing Agent](https://cvcompiler.com/leasing-agent-resume-examples)
+
+[Salesforce Administrator](https://cvcompiler.com/salesforce-administrator-resume-examples)
+
+[Operations Director](https://cvcompiler.com/operations-director-resume-examples)
+
+[Marketing Coordinator](https://cvcompiler.com/marketing-coordinator-resume-examples)
+
+[Computer Science Intern](https://cvcompiler.com/computer-science-intern-resume-examples)
+
+[Engineering Intern](https://cvcompiler.com/engineering-intern-resume-examples)
+
+[Marketing Specialist](https://cvcompiler.com/marketing-specialist-resume-examples)
+
+[Chief Technology Officer](https://cvcompiler.com/chief-technology-officer-resume-examples)
+
+[Entry-Level Social Worker](https://cvcompiler.com/entry-level-social-worker-resume-examples)
+
+[Chartered Accountant](https://cvcompiler.com/chartered-accountant-resume-examples)
+
+[Elementary School Teacher](https://cvcompiler.com/elementary-school-teacher-resume-examples)
+
+[IT Recruiter](https://cvcompiler.com/it-recruiter-resume-examples)
+
+[Freelance Photographer](https://cvcompiler.com/freelance-photographer-resume-examples)
+
+[General Manager](https://cvcompiler.com/general-manager-resume-examples)
+
+[HR Director](https://cvcompiler.com/hr-director-resume-examples)
+
+[Travel Agent](https://cvcompiler.com/travel-agent-resume-examples)
+
+[Special Education Teacher](https://cvcompiler.com/special-education-teacher-resume-examples)
+
+[Entry-Level Substitute Teacher](https://cvcompiler.com/entry-level-substitute-teacher-resume-examples)
+
+[English Teacher](https://cvcompiler.com/english-teacher-resume-examples)
+
+[Social Media Content Creator](https://cvcompiler.com/social-media-content-creator-resume-examples)
+
+[Operations Supervisor](https://cvcompiler.com/operations-supervisor-resume-examples)
+
+[Contractor](https://cvcompiler.com/contractor-resume-examples)
+
+[Experienced Data Analyst](https://cvcompiler.com/experienced-data-analyst-resume-examples)
+
+[Java Backend Developer](https://cvcompiler.com/java-backend-developer-resume-examples)
+
+[Entry-Level Software Testing](https://cvcompiler.com/entry-level-software-testing-resume-examples)
+
+[Photographer](https://cvcompiler.com/photographer-resume-examples)
+
+[Backend Developer](https://cvcompiler.com/backend-developer-resume-examples)
+
+[Chief Operating Officer](https://cvcompiler.com/chief-operating-officer-resume-examples)
+
+[Receptionist](https://cvcompiler.com/receptionist-resume-examples)
+
+[Experienced Teacher](https://cvcompiler.com/experienced-teacher-resume-examples)
+
+[Outside Sales](https://cvcompiler.com/outside-sales-resume-examples)
+
+[Entry-Level Accountant](https://cvcompiler.com/entry-level-accountant-resume-examples)
+
+[Freelance Graphic Designer](https://cvcompiler.com/freelance-graphic-designer-resume-examples)
+
+[Pharmaceutical](https://cvcompiler.com/pharmaceutical-resume-examples)
+
+[IT Technician](https://cvcompiler.com/it-technician-resume-examples)
+
+[ESL Teacher](https://cvcompiler.com/esl-teacher-resume-examples)
+
+[Game Developer](https://cvcompiler.com/game-developer-resume-examples)
+
+[Entry-Level Filmmaker](https://cvcompiler.com/entry-level-filmmaker-resume-examples)
+
+[Biotechnology](https://cvcompiler.com/biotechnology-resume-examples)
+
+[Chief Financial Officer](https://cvcompiler.com/chief-financial-officer-resume-examples)
+
+[Android Developer](https://cvcompiler.com/android-developer-resume-examples)
+
+[Research Scientist](https://cvcompiler.com/research-scientist-resume-examples)
+
+[UI Designer](https://cvcompiler.com/ui-designer-resume-examples)
+
+[Dental Receptionist](https://cvcompiler.com/dental-receptionist-resume-examples)
+
+[Logistics Operations Manager](https://cvcompiler.com/logistics-operations-manager-resume-examples)
+
+[Assistant Property Manager](https://cvcompiler.com/assistant-property-manager-resume-examples)
+
+[Tax Preparer](https://cvcompiler.com/tax-preparer-resume-examples)
+
+[Legal Intern](https://cvcompiler.com/legal-intern-resume-examples)
+
+[IT Helpdesk](https://cvcompiler.com/it-helpdesk-resume-examples)
+
+[Retail Store Manager](https://cvcompiler.com/retail-store-manager-resume-examples)
+
+[IT Systems Analyst](https://cvcompiler.com/it-systems-analyst-resume-examples)
+
+[Controller](https://cvcompiler.com/controller-resume-examples)
+
+[Node.js Backend Developer](https://cvcompiler.com/node-js-backend-developer-resume-examples)
+
+[CPA](https://cvcompiler.com/cpa-resume-examples)
+
+[Tax Accountant](https://cvcompiler.com/tax-accountant-resume-examples)
+
+[Computer Science Student](https://cvcompiler.com/computer-science-student-resume-examples)
+
+[Human Resources Manager](https://cvcompiler.com/human-resources-manager-resume-examples)
+
+[Entry-Level Civil Engineer](https://cvcompiler.com/entry-level-civil-engineer-resume-examples)
+
+[Luxury Retail Manager](https://cvcompiler.com/luxury-retail-manager-resume-examples)
+
+[Computer Programmer](https://cvcompiler.com/computer-programmer-resume-examples)
+
+[UX Research](https://cvcompiler.com/ux-research-resume-examples)
+
+[SEO Manager](https://cvcompiler.com/seo-manager-resume-examples)
+
+[Mortgage Underwriter](https://cvcompiler.com/mortgage-underwriter-resume-examples)
+
+[Sales Account Executive](https://cvcompiler.com/sales-account-executive-resume-examples)
+
+[Business Systems Analyst](https://cvcompiler.com/business-systems-analyst-resume-examples)
+
+[Entry-Level Event Planner](https://cvcompiler.com/entry-level-event-planner-resume-examples)
+
+[Dietician](https://cvcompiler.com/dietician-resume-examples)
+
+[Strategy Consulting](https://cvcompiler.com/strategy-consulting-resume-examples)
+
+[Career Coach](https://cvcompiler.com/career-coach-resume-examples)
+
+[Junior AWS Cloud Engineer](https://cvcompiler.com/junior-aws-cloud-engineer-resume-examples)
+
+[Risk Management](https://cvcompiler.com/risk-management-resume-examples)
+
+[Entry-Level Financial Analyst](https://cvcompiler.com/entry-level-financial-analyst-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
