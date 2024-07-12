@@ -809,4 +809,4 @@ Copyright © 2024 Albertsons Companies, Inc. All rights reserved.
 
 © Albertsons Companies. All rights reserved
 
-[Powered By Q4 Inc. 5.126.0.2 (opens in new window)](https://www.q4inc.com/Powered-by-Q4/)
+[Powered By Q4 Inc. 5.129.1.3 (opens in new window)](https://www.q4inc.com/Powered-by-Q4/)
