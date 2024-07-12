@@ -19,7 +19,7 @@ Privacy Policy
 
 **PRIVACY NOTICE**
 
-**Last updated November 28, 2022**
+**Last updated June 25, 2024**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at [hello@codeium.com](mailto:hello@codeium.com).
 
@@ -216,9 +216,11 @@ If you have questions or comments about this notice, you may email us at [hello@
 
 Exafunction, Inc.
 
-450 Stratford Park Ct
+321 Castro Street
 
-San Jose, CA 95136
+Suite 200
+
+Mountain View, CA 94041
 
 United States
 
