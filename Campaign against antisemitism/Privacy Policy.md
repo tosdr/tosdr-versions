@@ -148,7 +148,7 @@ We may revise these terms from time to time so please check this page occasional
 
 [Return to home page](https://antisemitism.org/)
 
-We are seeking to recruit [a General Counsel](https://antisemitism.org/jobs/general-counsel/) [a Paralegal](https://antisemitism.org/jobs/paralegal/) [a Video and Content Creator](https://antisemitism.org/jobs/video-and-content-creator/) [an Executive Assistant](https://antisemitism.org/jobs/executive-assistant/) to join our London office
+We are seeking to recruit [a General Counsel](https://antisemitism.org/jobs/general-counsel/) [a Paralegal](https://antisemitism.org/jobs/paralegal/) [a Video and Content Creator](https://antisemitism.org/jobs/video-and-content-creator/) to join our London office
 
 Join the fight
 --------------
