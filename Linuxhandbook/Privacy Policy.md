@@ -1,5 +1,3 @@
-                                       
-
 [Skip to main content](#main)
 
 [![Linux Handbook](https://linuxhandbook.com/content/images/2021/08/linux-handbook-cover.png)](https://linuxhandbook.com/)
