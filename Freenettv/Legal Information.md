@@ -10,7 +10,7 @@ Menü
 * [Hilfecenter](https://www.freenet.tv/hilfe "Gehe zu den Hilfeseiten von freenet TV")
 * [Shop](https://www.freenet.tv/shop "Gehe zum Online-Shop von freenet TV")
 
-* [Mein Konto](https://www.freenet.tv/meinkonto "Registrieren oder Anmelden")
+* [Mein Konto](https://www.freenet.tv/mein-konto "Registrieren oder Anmelden")
 * [Warenkorb](https://www.freenet.tv/shop "Gehe zum Shop")
     
     ### Zum Warenkorb hinzugefügt
