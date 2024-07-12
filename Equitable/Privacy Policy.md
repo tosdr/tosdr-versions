@@ -103,7 +103,7 @@ We are continuously improving our digital accessibility, recognizing the importa
                 * [Structured Capital Strategies® Income custom report](https://equitable.com/financial-professionals/annuities/structured-capital-strategies-income-variable-annuity/create-report)
                 * [Structured Capital Strategies PLUS® custom report](https://equitable.com/financial-professionals/annuities/structured-capital-strategies-plus-variable-annuity/create-report)
                 * [Investment Edge® custom report](https://equitable.com/financial-professionals/annuities/investment-edge-variable-annuity/create-report)
-            * [Callan chart](https://equitable.com/financial-professionals/investments/Investment-returns-by-asset-class)
+            * [Callan chart](https://equitable.com/financial-professionals/investments/investment-returns-by-asset-class)
             * [Sales concept finder for life insurance](https://equitable.com/financial-professionals/life-insurance/life-insurance-sales-concepts)
             * [Tax calculators](https://equitable.com/tax-strategies/tax-calculators)
             * [Retirement calculator](https://equitable.com/goals/retirement-planning/calculator)
