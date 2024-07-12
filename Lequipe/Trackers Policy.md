@@ -36,9 +36,9 @@ Il existe deux grandes catégories de cookies : les cookies de session et les co
 
 **Les cookies persistants** aident le Site à se souvenir de vos informations et de vos paramètres lorsque vous le consulterez dans le futur. Cela résulte en un accès plus rapide et plus pratique pour vous.
 
-L'ÉQUIPE
-
 Lors de votre première visite, le Site est présenté en mode par défaut. Au cours de votre visite, vous sélectionnez vos préférences, lesquelles sont gardées en mémoire pour votre prochaine consultation du Site grâce à l'utilisation des Cookies persistants.
+
+L'ÉQUIPE
 
 Les cookies persistants se divisent à leur tour en deux catégories :  
 \- Les cookies émis par notre Site : lequipe.fr  
@@ -140,171 +140,159 @@ L'ÉQUIPE
 
 filtrer : tous les sports
 
-[09:45
+[20:37
 
-Tennis,
+Wimbledon (H)
 
-ATP
+Medvedev : «Alcaraz te fait rater des coups faciles»](https://www.lequipe.fr/Tennis/Actualites/Daniil-medvedev-battu-en-demi-finales-de-wimbledon-alcaraz-te-fait-rater-des-coups-faciles/1482104 "Medvedev : «Alcaraz te fait rater des coups faciles»")
 
-Djokovic déjà de retour à l'entraînement](https://www.lequipe.fr/Tennis/Actualites/Novak-djokovic-de-retour-a-l-entrainement-a-un-peu-plus-d-une-semaine-de-wimbledon/1476636 "Djokovic déjà de retour à l'entraînement")
+[20:35
 
-[09:35
+Wimbledon (H)
+
+Alcaraz : «Un haut niveau de confiance, un haut niveau de tennis»](https://www.lequipe.fr/Tennis/Actualites/Carlos-alcaraz-apres-sa-qualification-pour-la-finale-de-wimbledon-un-haut-niveau-de-confiance-un-haut-niveau-de-tennis/1482103 "Alcaraz : «Un haut niveau de confiance, un haut niveau de tennis»")
+
+[20:35
+
+JO 2024
+
+Nasser al-Khelaïfi devrait porter la flamme olympique](https://www.lequipe.fr/Jo-2024-paris/Football/Actualites/Le-president-du-psg-nasser-al-khelaifi-devrait-porter-la-flamme-olympique/1482102 "Nasser al-Khelaïfi devrait porter la flamme olympique")
+
+[20:35
+
+JO 2024,
+
+Basket (F),
+
+Prépa
+
+Les Bleues maîtrisent la Serbie](https://www.lequipe.fr/Jo-2024-paris/Basket/Actualites/Les-bleues-maitrisent-la-serbie-lors-de-leur-troisieme-match-de-preparation-des-jo-2024/1482100 "Les Bleues maîtrisent la Serbie")
+
+[20:30
 
 Euro 2024,
 
-Bleus
+Podcast
 
-Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»](https://www.lequipe.fr/Football/Article/Le-debrief-de-rudi-garcia-apres-le-match-nul-de-l-equipe-de-france-les-bleus-inspirent-la-crainte-meme-sans-mbappe/1476632 "Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»")
+Espagne-Angleterre, sommet inédit et inattendu](https://www.lequipe.fr/Football/Actualites/Podcast-big-five-espagne-angleterre-deux-identites-un-sommet/1481920 "Espagne-Angleterre, sommet inédit et inattendu")
 
-[09:34
+[20:28
+
+Tour de France
+
+Les Visma ont-ils dépensé trop de forces ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/L-equipe-visma-lease-a-bike-a-t-elle-depense-trop-de-forces-lors-de-l-etape-entre-agen-et-pau/1482098 "Les Visma ont-ils dépensé trop de forces ?")
+
+[20:18
+
+Tour de France,
+
+Podcast
+
+Mais où sont passés les Ineos ?](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mais-ou-sont-passes-les-ineos/1482096 "Mais où sont passés les Ineos ?")
+
+[20:15
+
+Foot,
+
+Transferts
+
+Renato Veiga, encore un jeune qui débarque à Chelsea](https://www.lequipe.fr/Football/actu-en-direct/mercato-d-ete-2024-live/11245 "Renato Veiga, encore un jeune qui débarque à Chelsea")
+
+[20:10
+
+Foot,
+
+Enquête
+
+Ben Yedder, accord secret et manipulations](https://www.lequipe.fr/Football/Article/Grand-recit-accord-secret-manipulations-transfert-de-fonds-l-enquete-sur-wissam-ben-yedder/1481955 "Ben Yedder, accord secret et manipulations")
+
+[20:09
+
+Foot,
+
+Justice
+
+Le licenciement d'El Ghazi par Mayence annulé](https://www.lequipe.fr/Football/Actualites/Le-licenciement-d-anwar-el-ghazi-mayence-annule-par-la-justice-allemande/1482092 "Le licenciement d'El Ghazi par Mayence annulé")
+
+[20:07
+
+Foot,
+
+Amical
+
+Brest domine Avranches pour sa première sortie](https://www.lequipe.fr/Football/Actualites/Brest-domine-avranches-pour-sa-premiere-sortie/1482091 "Brest domine Avranches pour sa première sortie")
+
+[20:00
+
+Wimbledon (F)
+
+Krejcikova : «On se soucie des qualités ou des réseaux sociaux ?»](https://www.lequipe.fr/Tennis/Article/Barbora-krejcikova-finaliste-de-wimbledon-regrette-son-manque-de-notoriete-je-pensais-que-ca-allait-etre-different/1482031 "Krejcikova : «On se soucie des qualités ou des réseaux sociaux ?»")
+
+[19:53
+
+Tour de France,
+
+Baromètre des favoris
+
+Pogacar perd un atout, Roglic à l'arrêt](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-barometre-des-favoris-du-tour-de-france-pogacar-diminue-roglic-a-l-arret/1482089 "Pogacar perd un atout, Roglic à l'arrêt")
+
+[19:47
+
+Volley,
+
+Marmara SpikeLigue
+
+Vers la fin de Nantes-Rezé ?](https://www.lequipe.fr/Volley-ball/Actualites/Vers-la-fin-de-nantes-reze-en-grande-difficulte-financiere/1482084 "Vers la fin de Nantes-Rezé ?")
+
+[19:47
 
 Rugby,
 
 Top 14,
 
-La Rochelle
+Lyon
 
-Jégou : «C'est triste»](https://www.lequipe.fr/Rugby/Actualites/Oscar-jegou-apres-toulouse-la-rochelle-c-est-triste/1476634 "Jégou : «C'est triste»")
+Gibbes vient renforcer le staff](https://www.lequipe.fr/Rugby/Actualites/Jono-gibbes-renforce-le-staff-du-lou/1482083 "Gibbes vient renforcer le staff")
 
-[09:32
+[19:45
 
-Hockey,
+Rugby
 
-Coupe Continentale
+Codorniou dévoile son plan pour la présidence de la FFR](https://www.lequipe.fr/Rugby/Article/Didier-codorniou-devoile-son-ambitieux-programme-pour-la-presidence-de-la-ffr-un-defi-a-relever/1482075 "Codorniou dévoile son plan pour la présidence de la FFR")
 
-Grenoble face à Aalborg et Katowice](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Grenoble-face-a-aalborg-et-katowice-en-coupe-continentale/1476633 "Grenoble face à Aalborg et Katowice")
+[19:35
 
-[09:30
+JO 2024
 
-Euro 2024,
+Objectif Paris, le journal du 12 juillet 2024](https://www.lequipe.fr/tv/replay/le-replay-du-journal-objectif-paris-du-12-juillet/20194086 "Objectif Paris, le journal du 12 juillet 2024")
 
-Turquie
+[19:17
 
-Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»](https://www.lequipe.fr/Football/Article/Orkun-kokcu-turquie-j-ai-reve-avec-la-generation-doree-de-l-euro-2008/1476624 "Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»")
+JO 2024
 
-[09:00
+Répétition générale de la cérémonie d'ouverture le 20 juillet](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/La-repetition-generale-de-la-ceremonie-d-ouverture-des-jeux-olympiques-aura-lieu-le-20-juillet/1482066 "Répétition générale de la cérémonie d'ouverture le 20 juillet")
 
-Prix Richard Martin 2024
-
-Participez au grand concours international de photos de sport de L'Équipe](https://www.lequipe.fr/landing/prix-richard-martin/ "Participez au grand concours international de photos de sport de L'Équipe")
-
-[08:59
-
-Rugby,
-
-Top 14
-
-Stade Français, une saison pleine de secousses](https://www.lequipe.fr/Rugby/Article/Stade-francais-une-saison-pleine-de-secousses-avant-la-demi-finale-du-top-14-face-a-bordeaux-begles/1476494 "Stade Français, une saison pleine de secousses")
-
-[08:58
-
-Hockey,
-
-TQO (H)
-
-Les dates de la préparation des Bleus](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-dates-de-la-preparation-de-l-equipe-de-france-avant-le-tqo-des-jeux-2026/1476629 "Les dates de la préparation des Bleus")
-
-[08:56
-
-Foot,
-
-Copa America
-
-Le Chili tenu en échec par le Pérou](https://www.lequipe.fr/Football/Actualites/Le-chili-tenu-en-echec-par-le-perou-a-la-copa-america/1476628 "Le Chili tenu en échec par le Pérou")
-
-[08:55
-
-Cyclisme,
-
-Championnat de France
-
-Laporte peut-il gagner tout seul ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/Malgre-une-malchance-tenace-en-2024-christophe-laporte-reve-d-une-victoire-en-solitaire/1476532 "Laporte peut-il gagner tout seul ?")
-
-[08:54
-
-Euro 2024
-
-Les supporters des Bleus ont été à la hauteur](https://www.lequipe.fr/Football/Actualites/En-inferiorite-numerique-les-supporters-francais-ont-rivalise-avec-les-neerlandais/1476627 "Les supporters des Bleus ont été à la hauteur")
-
-[08:51
+[19:07
 
 Golf,
 
-PGA Championship (F)
+Evian Championship
 
-Schmelzel et Yang en tête, Boutier 12e](https://www.lequipe.fr/Golf/Actualites/Schmelzel-et-yang-en-tete-boutier-12e-du-kpmg-women-s-pga-championship/1476626 "Schmelzel et Yang en tête, Boutier 12e")
+Le 2e tour interrompu par un orage, Boutier à l'abri à -5](https://www.lequipe.fr/Golf/Actualites/Le-deuxieme-tour-de-l-evian-championship-interrompu-par-un-orage-celine-boutier-a-l-abri-a-5/1482065 "Le 2e tour interrompu par un orage, Boutier à l'abri à -5")
 
-[08:41
-
-JO 2024,
-
-Tennis
-
-Les doubles tricolores dans l'inconnu](https://www.lequipe.fr/Jo-2024-paris/Tennis/Article/Contraints-a-des-paires-inedites-les-doubles-tricolores-dans-l-inconnu-aux-jo-de-paris/1476561 "Les doubles tricolores dans l'inconnu")
-
-[08:40
-
-Natation,
-
-États-Unis,
-
-Trials
-
-Dressel impressionne sur 50m et défendra son titre aux JO](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/Apres-son-echec-sur-100-m-caeleb-dressel-se-qualifie-sur-50-m-pour-les-jo-de-paris-et-defendra-son-titre/1476625 "Dressel impressionne sur 50m et défendra son titre aux JO")
-
-[08:30
-
-JO,
-
-Boxe
-
-Tout savoir sur Amina Zidani](https://www.lequipe.fr/Boxe/Fiche-guide/Athlete/Amina-zidani/58 "Tout savoir sur Amina Zidani")
-
-[08:27
+[19:05
 
 Euro 2024,
 
-Bleus,
+Angleterre
 
-Tactique
-
-Deschamps obtient ce qu'il cherche](https://www.lequipe.fr/Football/Article/Le-debrief-tactique-de-pays-bas-france-deschamps-obtient-ce-qu-il-cherche/1476613 "Deschamps obtient ce qu'il cherche")
-
-[08:23
-
-Euro 2024
-
-Le onze des «papis»](https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-giroud-modric-le-onze-des-papis-de-l-euro-2024/1476572 "Le onze des «papis»")
-
-[08:13
-
-JO 2024,
-
-Natation
-
-Quelles ambitions pour les Bleus ?](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/Marchand-manaudou-grousset-quelles-ambitions-pour-les-nageurs-bleus-aux-jo-de-paris/1476549 "Quelles ambitions pour les Bleus ?")
-
-[08:12
-
-Euro 2024,
-
-Roumanie
-
-Stanciu, capitaine abandonné](https://www.lequipe.fr/Football/Actualites/Nicolae-stanciu-un-capitaine-fache-avec-les-supporters-mais-apprecie-par-ses-coequipiers/1476466 "Stanciu, capitaine abandonné")
-
-[08:12
-
-Athlé,
-
-Perche
-
-Collet, un record mais toujours plus d'ambitions](https://www.lequipe.fr/Athletisme/Actualites/Pour-thibaut-collet-un-nouveau-record-mais-toujours-plus-d-ambitions/1476530 "Collet, un record mais toujours plus d'ambitions")
+Watkins, le sauveur venu de D6](https://www.lequipe.fr/Football/Article/En-ollie-watkins-l-angleterre-a-trouve-un-heros-inattendu-pour-eliminer-les-pays-bas-en-demi-finales/1481879 "Watkins, le sauveur venu de D6")
 
 L'ÉQUIPE
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/691/covers/Preview-MEDIUM-33576.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/720/covers/Preview-MEDIUM-35094.jpg?v=4)
 
 lire l'édition
 
@@ -315,7 +303,9 @@ L'ÉQUIPE
 réglages accessibilité
 
 * [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
-* [Euro 2024](https://www.lequipe.fr/Football/Euro/)
+* [Euro](https://www.lequipe.fr/Football/Euro/)
+* [Le Tour](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
+* [Wimbledon](https://www.lequipe.fr/Tennis/Wimbledon/)
 * [Copa America](https://www.lequipe.fr/Football/Copa-america/)
 
 * [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
@@ -358,6 +348,7 @@ réglages accessibilité
     
 * [handball](https://www.lequipe.fr/Handball/)
     
+* [Jeux olympiques](https://www.lequipe.fr/Jo/)
 * [golf](https://www.lequipe.fr/Golf/)
     
 * [combat](https://www.lequipe.fr/Sports-de-combat/)
@@ -369,8 +360,6 @@ réglages accessibilité
 * [médias](https://www.lequipe.fr/Medias/)
 * [dopage](https://www.lequipe.fr/Dopage/)
 * [coaching](https://www.lequipe.fr/Coaching/)
-* [Jeux olympiques](https://www.lequipe.fr/Jo/)
-* [Jeux paralympiques](https://www.lequipe.fr/Jeux-Paralympiques/)
 * [aviron](https://www.lequipe.fr/Aviron/)
 * [badminton](https://www.lequipe.fr/Badminton/)
 * [baseball](https://www.lequipe.fr/Baseball/)
