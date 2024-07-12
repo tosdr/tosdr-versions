@@ -249,30 +249,9 @@ Cookies
 | help\_center\_data | Zendesk Inc | ANALYTICS | Stores the text string of an end-user’s search term in the Help Center Functionality. It stores this so that it can check whether a ticket was created after that term was searched. A user identifier is not stored so it is not possible to specify which user completed the search at the time of reporting. | 48 hours |
 | \_help\_center\_session | Zendesk Inc | ESSENTIAL | Essential to keeping the Zendesk help desk site functioning. Stores unique session key for the Zendesk Help Center product. | Session |
 | hideLayout | Lucid Software Inc | ESSENTIAL | Indicates if certain things in the layout should be hidden. | Session |
-| \_hjAbsoluteSessionInProgress | Hotjar Ltd | ANALYTICS | Used to detect the first pageview session of a user. | 30 minutes duration, extended on user activity |
-| hjActiveviewportIds | Hotjar Ltd | ANALYTICS | Local storage item; stores user active viewports IDs. Also stores an expirationTimestamp that is used to validate active viewports on script initialization. | No explicit expiration |
-| \_hjClosedSurveyInvites | Hotjar Ltd | ANALYTICS | Set when a user interacts with a Link Survey invitation modal. Ensures the same invite does not reappear if it has already been shown. | 1 year |
-| \_hjCookieTest | Hotjar Ltd | ANALYTICS | Checks to see if the Hotjar Tracking Code can use cookies. If it can, a value of 1 is set. Deleted almost immediately after it is created. | < 100ms |
-| \_hjDonePolls | Hotjar Ltd | ANALYTICS | Set when a user completes an on-site Survey. Ensures the same Survey does not reappear if it has already been filled in. | 1 year |
-| \_hjFirstSeen | Hotjar Ltd | ANALYTICS | Identifies a new user’s first session. Used by Recording filters to identify new user sessions. | 30 minutes duration, extended on user activity. |
-| \_hjHasCachedUserAttributes | Hotjar Ltd | ANALYTICS | Enables us to know whether the data set in \_hjUserAttributes Local Storage item is up to date or not. | Session |
 | \_hjid | Hotjar LTD | ANALYTICS | This is an old cookie that Hotjar does not set anymore, but if a user has it unexpired in their browser, we will reuse its value and migrate to \_hjSessionUser\_{site\_id}. Set when a user first lands on a page. Persists the Hotjar User ID which is unique to that site. Ensures data from subsequent visits to the same site are attributed to the same user ID. | 1 year |
-| \_hjIncludedInPageviewSample | Hotjar Ltd | ANALYTICS | Set to determine if a user is included in the data sampling defined by your site's pageview limit. | 2 minutes duration, extended every 30 seconds. |
-| \_hjIncludedInSessionSample\_ | Hotjar Ltd | ANALYTICS | Set to determine if a user is included in the data sampling defined by your site's daily session limit. | 3 minutes |
-| \_hjLocalStorageTest | Hotjar Ltd | ANALYTICS | Checks if the Hotjar Tracking Code can use Local Storage. If it can, a value of 1 is set. Data stored in \_hjLocalStorageTest has no expiration time, but it is deleted almost immediately after it is created. | < 100 ms |
-| \_hjMinimizedPolls | Hotjar Ltd | ANALYTICS | Set when a user minimizes an on-site Survey. Ensures that the Survey stays minimized when the user navigates through your site. | 1 year |
-| \_hjRecordingEnabled | Hotjar Ltd | ANALYTICS | Session storage item; Set when a Recording starts. Read when the Recording module is initialized to see if the user is already in a recording in a particular session. | Session |
-| \_hjRecordingLastActivity | Hotjar Ltd | ANALYTICS | Session storage item; Updated when a user recording starts and when data is sent to the server (the user performs an action that Hotjar records). | Session |
-| \_hjSession\_ | Hotjar Ltd | ANALYTICS | Holds current session data. Ensures subsequent requests in the session window are attributed to the same session. | 30 minutes |
 | \_hjSessionResumed | Hotjar LTD | ANALYTICS | Set when a session/recording is reconnected to Hotjar servers after a break in connection. | Session |
-| \_hjSessionStorageTest | Hotjar Ltd | ANALYTICS | Checks if the Hotjar Tracking Code can use Session Storage. If it can, a value of 1 is set. Data stored in \_hjSessionStorageTest has no expiration time, but it is deleted almost immediately after it is created. | < 100 ms |
-| \_hjSessionTooLarge | Hotjar Ltd | ANALYTICS | Causes Hotjar to stop collecting data if a session becomes too large. Determined automatically by a signal from the server if the session size exceeds the limit. | Session |
-| \_hjSessionUser\_ | Hotjar Ltd | ANALYTICS | Set when a user first lands on a page. Persists the Hotjar User ID which is unique to that site. Hotjar does not track users across different sites. Ensures data from subsequent visits to the same site are attributed to the same user ID. | 1 year |
-| \_hjShownFeedbackMessage | Hotjar Ltd | ANALYTICS | Set when a user minimizes or completes a Feedback widget. Ensures the Feedback widget will load as minimized if the user navigates to another page where it is set to show. | 1 day |
 | \_hjTLDTest | Hotjar LTD | ANALYTICS | We try to store the \_hjTLDTest cookie for different URL substring alternatives until it fails. Enables us to try to determine the most generic cookie path to use, instead of page hostname. It means that cookies can be shared across subdomains (where applicable). After this check, the cookie is removed. | Session |
-| \_hjUserAttributes | Hotjar Ltd | ANALYTICS | Local storage item; stores User Attributes sent through the Hotjar Identify API. | No explicit expiration |
-| \_hjUserAttributesHash | Hotjar Ltd | ANALYTICS | Enables us to know when any User Attribute has changed and needs to be updated. | 2 minutes |
-| hjViewportId | Hotjar Ltd | ANALYTICS | Session storage item; stores user viewport details such as size and dimensions. | Session |
 | \_hmcc | Lucid Software Inc | ESSENTIAL | Used to store a hidden monthly coupon code during registration/payment. | Session |
 | ime | Lucid Software Inc | ESSENTIAL | Input method editor (for language options). | 4 hours |
 | init-username | Lucid Software Inc | ESSENTIAL | Used on login page to store username | Session |
@@ -359,6 +338,7 @@ Cookies
 | registrationUseCase | Lucid Software Inc | ESSENTIAL | Used to persist a user's selected use case through registration. | Session |
 | return\_url | Lucid Software Inc | ESSENTIAL | Stores the url that should be redirected to after a flow is complete. | 30 minutes |
 | ^RUL$ | Google Ads | MARKETING | Used by Google Ads. | 12 months |
+| sa\_granted | Lucid Software Inc | ESSENTIAL | This cookie is used to detect storage access permission has been granted by the browser so that integrations work properly. | 365 days |
 | samlRegisterSource | Lucid Software Inc | ESSENTIAL | Indicates where a user registered from. Used by Lucid internal tools to provide the right experience for users. | 30 minutes |
 | SAML\_SIMULATOR\_FLOW | Lucid Software Inc | ESSENTIAL | Indicates we are simulating a SAML sign in. | Session |
 | saved\_id | Lucid Software Inc | ESSENTIAL | Used in Support-A during impersonation | Session |
