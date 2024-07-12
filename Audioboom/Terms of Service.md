@@ -5,10 +5,10 @@
 * [Podcasts](https://audioboom.com/podcasts)
 * [Advertisers](https://audioboom.com/advertisers)
 * [Creators](https://audioboom.com/hosting)
-* [Help & Support](https://audioboom.com/support)
+* [Help & support](https://audioboom.com/support)
 
-* [Sign Up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
-* [Sign In](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
+* [Sign up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
+* [Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
 * 
 
 [](#)
@@ -21,13 +21,13 @@
 
 [Creators](https://audioboom.com/hosting)
 
-[Help & Support](https://audioboom.com/support)
+[Help & support](https://audioboom.com/support)
 
 Search podcasts
 
-[Sign Up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
+[Sign up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
 
-[Sign In](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
+[Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fterms%2F3)
 
 Terms & Conditions
 ==================
