@@ -1,4 +1,4 @@
-CARD GAMES [Crazy Eights](https://cardgames.io/crazyeights/) [Cribbage](https://cardgames.io/cribbage/) [Euchre](https://cardgames.io/euchre/) [Gin Rummy](https://cardgames.io/ginrummy/) [Go Fish](https://cardgames.io/gofish/) [Hearts](https://cardgames.io/hearts/) [Idiot](https://cardgames.io/idiot/) [Lockup](https://cardgames.io/lockup/) [Manni](https://cardgames.io/manni/) [Oh Hell!](https://cardgames.io/ohhell/) [Pinochle](https://cardgames.io/pinochle/) [Rummy](https://cardgames.io/rummy/) [Spades](https://cardgames.io/spades/) [Spit](https://cardgames.io/spit/) [Switch](https://cardgames.io/switch/) [Thirteen](https://cardgames.io/thirteen/) [War](https://cardgames.io/war/) [Whist](https://cardgames.io/whist/)
+CARD GAMES [Canasta](https://cardgames.io/canasta/) [Crazy Eights](https://cardgames.io/crazyeights/) [Cribbage](https://cardgames.io/cribbage/) [Euchre](https://cardgames.io/euchre/) [Gin Rummy](https://cardgames.io/ginrummy/) [Go Fish](https://cardgames.io/gofish/) [Hearts](https://cardgames.io/hearts/) [Idiot](https://cardgames.io/idiot/) [Lockup](https://cardgames.io/lockup/) [Manni](https://cardgames.io/manni/) [Oh Hell!](https://cardgames.io/ohhell/) [Pinochle](https://cardgames.io/pinochle/) [Rummy](https://cardgames.io/rummy/) [Spades](https://cardgames.io/spades/) [Spit](https://cardgames.io/spit/) [Switch](https://cardgames.io/switch/) [Thirteen](https://cardgames.io/thirteen/) [War](https://cardgames.io/war/) [Whist](https://cardgames.io/whist/)
 
 SOLITAIRES [Addiction](https://cardgames.io/addiction/) [Canfield Solitaire](https://cardgames.io/canfieldsolitaire/) [Clock Solitaire](https://cardgames.io/clocksolitaire/) [Crescent Solitaire](https://cardgames.io/crescentsolitaire/) [FreeCell](https://cardgames.io/freecell/) [Golf Solitaire](https://cardgames.io/golfsolitaire/) [Kings in the Corners](https://cardgames.io/kingsinthecorners/) [Pyramid Solitaire](https://cardgames.io/pyramidsolitaire/) [Scorpion Solitaire](https://cardgames.io/scorpionsolitaire/) [Solitaire](https://cardgames.io/solitaire/) [Spider Solitaire](https://cardgames.io/spidersolitaire/) [Tri Peaks Solitaire](https://cardgames.io/tripeakssolitaire/) [Yukon Solitaire](https://cardgames.io/yukonsolitaire/)
 
@@ -12,7 +12,7 @@ CLOSE GAME MENU [Customize...](#customize-menu)
 
 Advertisement
 
-[Hearts](https://cardgames.io/hearts/) [Solitaire](https://cardgames.io/solitaire/) [Spades](https://cardgames.io/spades/) [FreeCell](https://cardgames.io/freecell/) [Cribbage](https://cardgames.io/cribbage/) [Yahtzee](https://cardgames.io/yahtzee/) [Gin Rummy](https://cardgames.io/ginrummy/) [More games...](#more-games)
+[Hearts](https://cardgames.io/hearts/) [Solitaire](https://cardgames.io/solitaire/) [Spades](https://cardgames.io/spades/) [FreeCell](https://cardgames.io/freecell/) [Cribbage](https://cardgames.io/cribbage/) [Yahtzee](https://cardgames.io/yahtzee/) [Gin Rummy](https://cardgames.io/ginrummy/) [Canasta](https://cardgames.io/canasta/) [More games...](#more-games)
 
 PRIVACY POLICY
 ==============
@@ -113,7 +113,7 @@ If you would like more information about any of the above, please do not hesitat
 
 Click here to go back to the frontpage.
 
-This is version 1.13.3 of CardGames.io.
+This is version 1.15.2 of CardGames.io.
 
 Game failed to load
 -------------------
