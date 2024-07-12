@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[86°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[103°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,9 +39,9 @@ Hi
 
 [](#)
 
-86°F
+103°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png) Clear
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyDay.png) Cloudy
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
@@ -214,6 +214,7 @@ Hi
         * [Gold IRA](https://www.reviewjournal.com/bp/business/gold-ira/)
         * [Verizon Business](https://www.reviewjournal.com/bp/business/verizon-business/)
     * [Education](https://www.reviewjournal.com/bp/education/)
+        * [Touro University](https://www.reviewjournal.com/bp/education/touro-university/)
     * [Entertainment](https://www.reviewjournal.com/bp/entertainment/)
         * [Casinos](https://www.reviewjournal.com/bp/entertainment/casinos/)
         * [Dating](https://www.reviewjournal.com/bp/entertainment/dating/)
