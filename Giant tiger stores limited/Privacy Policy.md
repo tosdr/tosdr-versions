@@ -15,7 +15,7 @@ PRIVACY POLICY
 
 All articles
 
-PRIVACY POLICYUpdated 18 days ago
+PRIVACY POLICYUpdated a month ago
 =================================
 
   
