@@ -171,7 +171,7 @@ JPMorgan Chase is the marketing name for JPMorgan Chase & Co. and its subsidiari
 
 The user's access to and use of the Web site, and the terms of this disclaimer are governed by the laws of the State of New York.
 
-![JPMorganChase logo links to homepage](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
+![JPMorganChase logo](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
 
 [](https://www.linkedin.com/company/jpmorgan-chase/)[](https://www.facebook.com/jpmorganchase)[](https://instagram.com/jpmorgan)[](https://www.youtube.com/jpmorgan)
 
