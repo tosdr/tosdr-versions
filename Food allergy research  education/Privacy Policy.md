@@ -416,6 +416,8 @@ FARE (Food Allergy Research & Education) is a 501(c)(3) charitable organization 
 * [Contact Us](https://www.foodallergy.org/contact-us)
 * [Careers](https://www.foodallergy.org/careers)
 
+[![CHARITY NAVIGATOR - Four Star Charity Image](/themes/custom/fare/assets/images/charity_nav_bw.png)](https://www.charitynavigator.org/ein/133905508)
+
 © 2024 FARE (Tax ID: 13-3905508) is a charitable organization as described in section 501(c)(3) of the Internal Revenue Code.
 
 * [Terms of Use](https://www.foodallergy.org/terms-use)
