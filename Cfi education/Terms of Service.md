@@ -214,6 +214,11 @@ Menu
         * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
         
     
+* Pricing
+    
+    * [For Individuals](https://corporatefinanceinstitute.com/pricing/)
+    * [For Teams](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
+    
 * Resources
     
     * [Card](#)
@@ -236,8 +241,6 @@ Menu
         
         * [Corporate Finance Resources](https://corporatefinanceinstitute.com/resources/)
     
-* [For Individuals](https://corporatefinanceinstitute.com/pricing/)
-* [For Teams](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
 
 * [My Account](#)
     
@@ -276,7 +279,7 @@ Menu
     
 * [Categories](#)
     
-    * [Corporate Finance (FP&A)](https://corporatefinanceinstitute.com/wp_course_category/corporate-finance-fpa/)
+    * [Corporate Finance (FP&A)](#)
         * [Certifications](#)
         * [Financial Modeling & Valuation Analyst (FMVA®) Certification](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
         * [Popular Corporate Finance (FP&A) courses](#)
@@ -284,7 +287,7 @@ Menu
         * [Accounting Fundamentals](https://corporatefinanceinstitute.com/course/learn-accounting-fundamentals-corporate-finance/)
         * [Financial Analysis Fundamentals](https://corporatefinanceinstitute.com/course/financial-analysis-fundamentals/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86431)
-    * [Investment Banking](https://corporatefinanceinstitute.com/wp_course_category/investment-banking/)
+    * [Investment Banking](#)
         * [Certifications](#)
         * [Financial Modeling & Valuation Analyst (FMVA®) Certification](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
         * [Popular Investment Banking courses](#)
@@ -292,7 +295,7 @@ Menu
         * [Excel Fundamentals – Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
         * [PowerPoint & Pitchbooks](https://corporatefinanceinstitute.com/course/powerpoint-pitchbook/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86428)
-    * [Private Equity](https://corporatefinanceinstitute.com/wp_course_category/private-equity/)
+    * [Private Equity](#)
         * [Certifications](#)
         * [Financial Modeling & Valuation Analyst (FMVA®) Certification](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
         * [Popular Private Equity courses](#)
@@ -300,7 +303,7 @@ Menu
         * [DCF Valuation Modeling](https://corporatefinanceinstitute.com/course/dcf-valuation-modeling/)
         * [Comparable Valuation Analysis](https://corporatefinanceinstitute.com/course/comparable-valuation-analysis/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86427)
-    * [Business Intelligence & Analytics](https://corporatefinanceinstitute.com/wp_course_category/business-intelligence-analytics/)
+    * [Business Intelligence & Analytics](#)
         * [Certifications](#)
         * [Business Intelligence & Data Analyst (BIDA®) Certification](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
         * [Popular Business Intelligence & Analytics courses](#)
@@ -308,7 +311,7 @@ Menu
         * [Tableau](https://corporatefinanceinstitute.com/topic/tableau/)
         * [Power Query](https://corporatefinanceinstitute.com/topic/power-query/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86432)
-    * [Commercial Banking](https://corporatefinanceinstitute.com/wp_course_category/commercial-banking/)
+    * [Commercial Banking](#)
         * [Certifications](#)
         * [Commercial Banking & Credit Analyst (CBCA®) Certification](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
         * [Popular Commercial Banking courses](#)
@@ -316,7 +319,7 @@ Menu
         * [Venture Debt](https://corporatefinanceinstitute.com/course/venture-debt/)
         * [Lending to Complex Structures](https://corporatefinanceinstitute.com/course/lending-to-complex-structures/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86425)
-    * [Asset Management](https://corporatefinanceinstitute.com/wp_course_category/asset-management/)
+    * [Asset Management](#)
         * [Certifications](#)
         * [Capital Markets & Securities Analyst (CMSA®) Certification](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
         * [Popular Asset Management courses](#)
@@ -324,7 +327,7 @@ Menu
         * [Hedge Fund Fundamentals](https://corporatefinanceinstitute.com/course/hedge-fund-fundamentals/)
         * [Prime Services and Securities Lending](https://corporatefinanceinstitute.com/course/prime-services-and-securities-lending/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86430)
-    * [Capital Markets](https://corporatefinanceinstitute.com/wp_course_category/capital-markets/)
+    * [Capital Markets](#)
         * [Certifications](#)
         * [Capital Markets & Securities Analyst (CMSA®) Certification](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
         * [Popular Capital Markets courses](#)
@@ -332,7 +335,7 @@ Menu
         * [Applied Fixed Income](https://corporatefinanceinstitute.com/course/applied-fixed-income/)
         * [Convertible Bonds](https://corporatefinanceinstitute.com/course/convertible-bonds-course/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86426)
-    * [Wealth Management](https://corporatefinanceinstitute.com/wp_course_category/wealth-management/)
+    * [Wealth Management](#)
         * [Certifications](#)
         * [Financial Planning & Wealth Management (FPWM™) Certification](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
         * [Popular Wealth Management courses](#)
@@ -386,7 +389,7 @@ Corporate Finance Institute® Website Terms of Use
 
 By using our website you agree to these terms and conditions of use.
 
-Last Updated: January 23, 2023.
+##### Last Updated: January 23, 2023.
 
 This website is owned and operated by CFI Education Inc.
 
@@ -394,75 +397,77 @@ Please carefully read these Website Terms of Use before using the CFI website. T
 
 By using the CFI website, you acknowledge and signify that you have read, understand and agree to these terms of use. If you do not agree to these terms of use, then you may not use the CFI website.
 
-**1.               Your Acceptance of these Website Terms of Use**
+##### **1\. Your Acceptance of these Website Terms of Use**
 
 These Website Terms of Use are a binding agreement between you and CFI Education Inc. (“**CFI**”) regarding your access to and use of the CFI website (the “**Website**”). Each time you use the Website, you signify your unconditional acceptance and agreement, without limitation or qualification, to the most current version of these Website Terms of Use. If you do not unconditionally accept and agree to these Website Terms of Use, then you may not use the Website.
 
 In this Agreement, a reference to the Website includes all of the Website’s content (including all text, graphics, images, video, and other elements available on or through the Website) and the design, structure, selection, arrangement and look and feel of each element of Website content and the Website as a whole.
 
-**2.                Other Agreements**
+##### **2\. Other Agreements**
 
 These Website Terms of Use related to the Website only. Products and services advertised on or available through the Website are governed by other applicable agreements prescribed by CFI or its corporate affiliates, including the [Corporate Finance Institute® Terms of Service](https://corporatefinanceinstitute.com/about-cfi/cfi-terms-of-service/).
 
 Certain features or functionalities of the Website are restricted to individuals who hold a valid and subsisting CFI account, which is governed by the Corporate Finance Institute® Terms of Service.
 
-**3.                Changes to these Website Terms of Use**
+##### **3\. Changes to these Website Terms of Use**
 
 CFI in its discretion may change these Website Terms of Use at any time and from time to time, without any prior notice, by posting the changed Website Terms of Use on the Website. The changed Website Terms of Use are effective immediately on posting on the Website, unless the changed Website Terms of Use expressly state otherwise. It is your responsibility to check the “Last Updated” date at the top of these Website Terms of Use and review any changes since the previous version. By using the Website after these Website Terms of Use have been changed by CFI, you signify your unconditional acceptance and agreement to be bound by the changed Website Terms of Use. You may not change these Website Terms of Use in any manner.
 
-**4.                Permitted Users**
+##### **4\. Permitted Users**
 
 The Website may be used only by individuals (natural persons) who are the age of majority in the jurisdiction in which they live and are capable of forming a binding contract under applicable law. You may not use the Website if you do not accept and agree to these Website Terms of Use, if you have breached these Website Terms of Use or if your permission to use the Website has been suspended or terminated by CFI.
 
-**5.                Personal Information Privacy**
+##### **5\. Personal Information Privacy**
 
 By using the Website, you consent to the collection, use, disclosure and retention of your personal information by or on behalf of CFI as explained in the [Corporate Finance Institute® Privacy Policy](https://corporatefinanceinstitute.com/about-cfi/privacy-policy/), as revised from time to time, and as otherwise permitted by applicable law.
 
-**6.                No Advice**
+##### **6\. No Advice**
 
 The Website is for informational and educational purposes only. The Website is not intended to be a comprehensive or detailed statements concerning the matters addressed, and is not professional advice or recommendations (including financial, legal or other professional advice). It is your responsibility to obtain appropriate advice suitable to your particular circumstances from a qualified professional before acting or omitting to act based on any information obtained on or through the Website.
 
-**7.                Permitted and Prohibited Use of the Website**
+##### **7\. Permitted and Prohibited Use of the Website**
 
 Subject to these Website Terms of Use and all applicable laws, you may use the Website for your lawful, personal use for non-commercial purposes only, only in the manner purposefully made available by the Website and subject to these Website Terms of Use and all applicable laws. Use of the Website for any other purpose or in any other manner is strictly prohibited.
 
 You will not: (a) use the Website in any manner or for any purpose except as expressly permitted by these Website Terms of Use; (b) use the Website for a commercial or business purpose (whether or not for profit) or on behalf of, or for the benefit of, any other person; (c) attempt to circumvent the ordinary navigational structure, technical delivery systems or display of the Website or attempt to access or use the Website by any means that is not purposely made available for that purpose by CFI; (d) use the Website in a way that interferes with or disrupts the security, integrity, functionality, operation or performance of the Website or any related computer system, network or data; (e) license, sublicense, grant, sell, resell, lend, rent, lease, loan, share, transfer, assign, pledge, copy, reproduce, distribute, imitate, publish, republish, translate, repost, publicly display, publicly perform, transmit, distribute, create any interest in, commercially exploit, or otherwise give or make available or permit access or use of the Website to or for the benefit of any other person, whether as a service bureau or otherwise, and with or without charge; (f) index, crawl, catalogue, mirror, frame, scrape, cache, or otherwise collect or mine data from the Website for any purpose whatsoever, using any technologies, tools or methods (including robots, spiders, crawlers, or other automatic devices, programs or methodologies) whatsoever; (g) alter, violate, circumvent, conceal, modify or remove any notices (including proprietary rights notices), proprietary codes or locks, means of identification, digital rights tools or management information, technological protection measures, security or control measures, or agreements on, in or in relation to the Website; or (h) authorize, permit, assist, encourage or enable any other person to do any of the foregoing or to use the Website in a way that would constitute an infringement of the rights of CFI or a breach of these Website Terms of Use if it were done by you. The foregoing restrictions do not apply if and to the extent, but only to the extent, that the restrictions are prohibited by applicable law.
 
-**8.                CFI™ Marketplace**
+##### **8\. CFI™ Marketplace**
 
-(a)              Application: This Section 8 applies to your use of the CFI™ Marketplace portion of the Website and your purchase of products made available to you through the CFI™ Marketplace (each a “Product”).
+(a)  Application: This Section 8 applies to your use of the CFI™ Marketplace portion of the Website and your purchase of products made available to you through the CFI™ Marketplace (each a “Product”).
 
-(b)             CFI™ Marketplace Vendors:  Certain Products may be provided or supplied by vendors (each a “Vendor”) that are separate from and not affiliated with CFI. CFI has no responsibility or liability for Vendors and does not guarantee the accuracy, veracity or completeness of any Product. You are solely responsible for your selection and use of Products and your interactions with Vendors, and you access and use the CFI Marketplace at your own risk. You will not make any claim against CFI arising from, connected with or relating to the CFI™ Marketplace, Products or Vendors. All complaints, claims, concerns, requests or questions regarding a Product provided by a Vendor must be directed to that Vendor.
+(b) CFI™ Marketplace Vendors:  Certain Products may be provided or supplied by vendors (each a “Vendor”) that are separate from and not affiliated with CFI. CFI has no responsibility or liability for Vendors and does not guarantee the accuracy, veracity or completeness of any Product. You are solely responsible for your selection and use of Products and your interactions with Vendors, and you access and use the CFI Marketplace at your own risk. You will not make any claim against CFI arising from, connected with or relating to the CFI™ Marketplace, Products or Vendors. All complaints, claims, concerns, requests or questions regarding a Product provided by a Vendor must be directed to that Vendor.
 
-(c)              Online Payment Service: For your convenience, the Website may provide access to an online payment service (the “Payment Service”) that you may use to pay outstanding amounts under an existing purchase order that you have placed with CFI for the purchase of a Product. You will ensure that all information you provide through the Payment Service (including your credit card numbers and their expiration dates) is true, accurate and complete and you will retain a copy of each payment confirmation you receive in connection with your use of the Payment Service. The processing of your payment through the Payment Service may be delayed. You will be solely responsible and liable for your use and misuse of the Payment Service and for any and all loss, damage and additional costs that you, CFI or any other person may incur as a result of your misuse of the Payment Service, your submission of any false, incorrect or incomplete information or any delays in processing your payment through the Payment Service.
+(c)  Online Payment Service: For your convenience, the Website may provide access to an online payment service (the “Payment Service”) that you may use to pay outstanding amounts under an existing purchase order that you have placed with CFI for the purchase of a Product. You will ensure that all information you provide through the Payment Service (including your credit card numbers and their expiration dates) is true, accurate and complete and you will retain a copy of each payment confirmation you receive in connection with your use of the Payment Service. The processing of your payment through the Payment Service may be delayed. You will be solely responsible and liable for your use and misuse of the Payment Service and for any and all loss, damage and additional costs that you, CFI or any other person may incur as a result of your misuse of the Payment Service, your submission of any false, incorrect or incomplete information or any delays in processing your payment through the Payment Service.
 
-(d)             Product Availability: CFI cannot guarantee that Products advertised on the Website will be available when ordered or thereafter, and does not warrant that the specifications and descriptions of Products on the CFI™ Marketplace are accurate or complete. CFI reserves the right to change or remove the Products advertised on the CFI™ Marketplace, limit quantities of Products available for sale or sold or refuse any order you place for a Product, all at any time without prior notice or liability to you or any other person.
+(d) Product Availability: CFI cannot guarantee that Products advertised on the Website will be available when ordered or thereafter, and does not warrant that the specifications and descriptions of Products on the CFI™ Marketplace are accurate or complete. CFI reserves the right to change or remove the Products advertised on the CFI™ Marketplace, limit quantities of Products available for sale or sold or refuse any order you place for a Product, all at any time without prior notice or liability to you or any other person.
 
-(e)              CFI™ Marketplace Refund Policy:  In general, Products are non-refundable. However, we want you to be satisfied with Products and we understand that there may be technical or other issues with a Product from time to time. If you are dissatisfied with a Product you have purchased through the CFI™ Marketplace from CFI, you may contact CFI at [\[email protected\]](https://corporatefinanceinstitute.com/cdn-cgi/l/email-protection) within seven (7) days after the date on which you purchased the Product. If you are dissatisfied with a Product you have purchased through the CFI™ Marketplace from a Vendor, please contact the Vendor directly using the contact information provided to you by the Vendor within seven (7) days after the date on which you purchased the Product with: (i) proof of purchase of the Product; and (ii) a description of the technical or other issue you have experienced with the Product. If the issue has not been resolved to your satisfaction after you have contacted the applicable Vendor, you may contact CFI at [\[email protected\]](https://corporatefinanceinstitute.com/cdn-cgi/l/email-protection) within seven (7) days after the date on which you first contacted the Vendor with your issue. CFI may in its discretion, but is not obligated to, respond to requests you send to CFI outside the time periods set out above. CFI reserves the right to refuse a refund request for any reason.
+(e)  CFI™ Marketplace Refund Policy:  In general, Products are non-refundable. However, we want you to be satisfied with Products and we understand that there may be technical or other issues with a Product from time to time. If you are dissatisfied with a Product you have purchased through the CFI™ Marketplace from CFI, you may contact CFI at [\[email protected\]](https://corporatefinanceinstitute.com/cdn-cgi/l/email-protection) within seven (7) days after the date on which you purchased the Product. If you are dissatisfied with a Product you have purchased through the CFI™ Marketplace from a Vendor, please contact the Vendor directly using the contact information provided to you by the Vendor within seven (7) days after the date on which you purchased the Product with: (i) proof of purchase of the Product; and (ii) a description of the technical or other issue you have experienced with the Product. If the issue has not been resolved to your satisfaction after you have contacted the applicable Vendor, you may contact CFI at [\[email protected\]](https://corporatefinanceinstitute.com/cdn-cgi/l/email-protection) within seven (7) days after the date on which you first contacted the Vendor with your issue. CFI may in its discretion, but is not obligated to, respond to requests you send to CFI outside the time periods set out above. CFI reserves the right to refuse a refund request for any reason.
 
-**9.                Currency/Errors, Changes, Prices**
+##### **9\. Currency/Errors, Changes, Prices**
 
 The information and content on or available through the Website is updated periodically, but is not intended to be a comprehensive, current or complete statement of all matters and developments concerning CFI and its business, products and services. The information and content on or available through the Website might not be accurate, current or complete, and misprints, errors, inaccuracies or omissions (including incorrect specifications for prices, products and services) or other errors might not be corrected. CFI does not warrant that the content of the Website (including specifications for prices, products and services) is accurate or complete. CFI does not accept any liability for any information or content on or available through the Website. CFI reserves the right to (a) correct any error, inaccuracy or omission at any time without prior notice or liability to you or any other person; (b) change at any time the content of the Website, including any promotional offers without any notice or liability to you or any other. The advertisements on the Website are invitations to make offers to purchase products and services and are not offers to sell. All prices and other amounts appearing on the Website are quoted in US dollars.
 
-**10.             Your Information**
+##### **10\. Your Information**
 
 You will ensure that all information you provide to CFI, through the Website or otherwise, including purchase order information (including your legal name, residential address, email address and order number), payment information (including your credit card numbers and their expiration dates) and transaction-related information is true, accurate, current and complete. CFI will rely on the information you provide. You will be solely responsible and liable for any and all loss, damage and additional costs that you, CFI or any other person may incur as a result of your submission of any false, incorrect or incomplete information or your failure to promptly update your information if it changes.
 
-**11.             Ownership of Website**
+##### **11\. Ownership of Website**
 
 Copyright © 2019. CFI Education Inc. All Rights Reserved. The Website and the technologies and data used to operate the Website and all related proprietary rights (including copyright) are owned solely by CFI and its licensors and are protected by Canadian and international intellectual property laws. You will not acquire any right, title or interest in, to or associated with the Website or any related technologies and data. Read CFI’s entire Copyright Notice.
 
-**12.             Trademarks**
+##### **12\. Trademarks**
 
 Corporate Finance Institute®, the CFI logo and other related trademarks and symbols are registered or unregistered trademarks, service marks and trade names owned or used under license by CFI. Other product and company names and logos appearing on the Website may be registered or unregistered trademarks, service marks or trade names of their respective owners. Any use of the trademarks, service marks or trade names displayed on the Website is strictly prohibited, and nothing appearing on the Website will be construed as granting, by implication, estoppel, or otherwise, any licence or right to use any of those trademarks, service marks or trade names. [Read CFI’s entire Trademark Notice](https://corporatefinanceinstitute.com/about-cfi/copyright-trademark-notice/).
 
-**13.             Linked Sites**
+##### **13\. Linked Sites**
 
 For your convenience, the Website may provide links or references to Internet sites or resources operated by independent persons (collectively “**Linked Sites**”). Linked Sites are independent from CFI, and CFI does not endorse, and have responsibility or liability for or control over, any Linked Site, any products, services or content available through a Linked Site or the collection of your personal information through a Linked Site or by the owner or operator of a Linked Site. Your use of a Linked Site and your dealings with the owner or operator of a Linked Site are at your own risk, and you will not make any claim against CFI arising from, connected with, or relating to your use of a Linked Site, your dealings with the owner or operator of a Linked Site or any product, service or content available through a Linked Site.
 
-**14.             Disclaimers**
+##### **14\. Disclaimers**
 
-**General Disclaimers:**  To the fullest extent permitted by applicable law, the Website is made available and provided to you on an “as is”, “as available” and “with all faults” basis and without any representations, warranties, conditions or guarantees of any nature or kind whatsoever, whether express, implied or statutory, or arising from custom or trade usage or by any course of dealing or course of performance, including any representations, warranties, conditions or guarantees of or relating to accuracy, capacity, completeness, delays, durability, errors, fitness for a particular purpose, lack of negligence, viruses or other harmful component, interrupted service, merchantability, non-infringement, performance, results, quality, timeliness, title or workmanlike effort, all of which are hereby waived by you and disclaimed by CFI Group to the fullest extent permitted by applicable law; and no representations, warranties, conditions or guarantees will be created by any advice or information, whether oral or written, provided by or on behalf of CFI Group. If you are dissatisfied with the Website, your sole remedy is to discontinue use of the Website.
+**General Disclaimers:** 
+
+To the fullest extent permitted by applicable law, the Website is made available and provided to you on an “as is”, “as available” and “with all faults” basis and without any representations, warranties, conditions or guarantees of any nature or kind whatsoever, whether express, implied or statutory, or arising from custom or trade usage or by any course of dealing or course of performance, including any representations, warranties, conditions or guarantees of or relating to accuracy, capacity, completeness, delays, durability, errors, fitness for a particular purpose, lack of negligence, viruses or other harmful component, interrupted service, merchantability, non-infringement, performance, results, quality, timeliness, title or workmanlike effort, all of which are hereby waived by you and disclaimed by CFI Group to the fullest extent permitted by applicable law; and no representations, warranties, conditions or guarantees will be created by any advice or information, whether oral or written, provided by or on behalf of CFI Group. If you are dissatisfied with the Website, your sole remedy is to discontinue use of the Website.
 
 **Technology Disclaimers:**  The Website may be subject to limitations, delays and other problems inherent in the use of the Internet and electronic communications. CFI Group is not responsible or liable for any delays, delivery failures or other damage or loss resulting from any of those problems.
 
@@ -472,21 +477,21 @@ For your convenience, the Website may provide links or references to Internet si
 
 **Definition:**  In these Website Terms of Use, “**CFI Group**” means CFI and its corporate affiliates, and each of their respective licensors, suppliers and service providers, and each of their respective directors, officers, employees, contractors, agents, shareholders, distributors, and representatives, jointly and severally.
 
-**15.             Liability Exclusions**
+##### **15\. Liability Exclusions**
 
 To the fullest extent permitted by applicable law, in no event and under no circumstances will CFI Group be liable to you or any other person for any loss, damage or liability (including direct, indirect, special, incidental, consequential and punitive damages) arising from, connected with or relating to your use of, or inability to use, the Website or any related matter, under any theory (including contract, tort, strict liability, statutory liability or any other theory of law), regardless of any negligence or other fault or wrongdoing (including fundamental breach or gross negligence) by or on behalf of CFI Group, even if other remedies are not available or do not adequately compensate you or any other person for the loss, damage and liability and even if CFI Group knew or should have known of the possibility of the potential loss, damage or liability being incurred.
 
-**16.             Restrictions/Changes/Termination**
+##### **16\. Restrictions/Changes/Termination**
 
 The Website may contain technologies that restrict or limit the use of the Website (including restrictions based on time or location). CFI in its discretion may change, suspend or terminate the Website, or limit, suspend or terminate your use of the Website, effective immediately at any time and without any prior notice or liability to you or any other person. The Website may be interrupted or unavailable from time to time, including for maintenance or due to causes beyond the control of CFI, all without notice or liability to you or any other person.
 
 If your permission to use the Website is terminated for any reason, then these Website Terms of Use will continue to apply and be binding regarding your access to and use of the Website before termination and all related matters (including any related dispute).
 
-**17.             Governing Law**
+##### **17\. Governing Law**
 
 CFI has its head offices in Vancouver, British Columbia. These Website Terms of Use and the Website and all related matters are governed by, and will be construed and interpreted solely in accordance with, the laws of the Province of British Columbia, Canada and applicable federal laws of Canada, excluding any rules of private international law or the conflict of laws that would lead to the application of the laws of any other jurisdiction.
 
-**18.             Disputes**
+##### **18\. Disputes**
 
 Except as expressly set out below, and unless applicable law requires otherwise, the courts of British Columbia, Canada sitting in the city of Vancouver, British Columbia, Canada will have original and exclusive jurisdiction over any and all disputes, controversies and claims arising under, out of, in connection with, or in relation to these Website Terms of Use or the Website or any related matter (each a “**Dispute**”), and you and CFI each hereby unconditionally and irrevocably submit and attorn to the original and exclusive jurisdiction of those courts regarding a Dispute.
 
@@ -494,9 +499,11 @@ Notwithstanding the foregoing, CFI may commence legal proceedings against you in
 
 You will commence legal proceedings regarding a Dispute within twelve (12) months after the Dispute arises, after which time any and all legal proceedings by you regarding the Dispute will be forever barred. Any shorter time limit provided by law remains unaffected.
 
-**19.             General Matters**
+##### **19\. General Matters**
 
-**Miscellaneous:**  These Website Terms of Use are binding on you and your heirs, executors, administrators, successors and personal representatives. These Website Terms of Use are for the benefit of CFI Group. No consent or waiver by CFI to or of any breach of these Website Terms of Use by you will be effective unless in writing and signed by CFI or will be considered to be a consent to or waiver of a continuing breach or any other breach by you. The rights and remedies of CFI Group under these Website Terms of Use are cumulative and not exhaustive or exclusive of any other rights or remedies to which CFI Group may be lawfully entitled under these Website Terms of Use or at law, and CFI Group may pursue any and all rights and remedies concurrently, consecutively and alternatively. You will not assign or transfer these Website Terms of Use or any of your rights and obligations under these Website Terms of Use without the express prior written consent of CFI, which consent may be withheld in CFI’s discretion. CFI may, without your consent, assign its rights and obligations under these Website Terms of Use. If any provision of these Website Terms of Use is held by a court or arbitrator of competent jurisdiction to be unenforceable or invalid for any reason, then the provision will be deemed severed from these Website Terms of Use and the remaining provisions will continue in full force and effect unless as a result of the severance these Website Terms of Use would fail in their essential purpose.
+**Miscellaneous:** 
+
+These Website Terms of Use are binding on you and your heirs, executors, administrators, successors and personal representatives. These Website Terms of Use are for the benefit of CFI Group. No consent or waiver by CFI to or of any breach of these Website Terms of Use by you will be effective unless in writing and signed by CFI or will be considered to be a consent to or waiver of a continuing breach or any other breach by you. The rights and remedies of CFI Group under these Website Terms of Use are cumulative and not exhaustive or exclusive of any other rights or remedies to which CFI Group may be lawfully entitled under these Website Terms of Use or at law, and CFI Group may pursue any and all rights and remedies concurrently, consecutively and alternatively. You will not assign or transfer these Website Terms of Use or any of your rights and obligations under these Website Terms of Use without the express prior written consent of CFI, which consent may be withheld in CFI’s discretion. CFI may, without your consent, assign its rights and obligations under these Website Terms of Use. If any provision of these Website Terms of Use is held by a court or arbitrator of competent jurisdiction to be unenforceable or invalid for any reason, then the provision will be deemed severed from these Website Terms of Use and the remaining provisions will continue in full force and effect unless as a result of the severance these Website Terms of Use would fail in their essential purpose.
 
 **Interpretation:**  In these Website Terms of Use: (a) a reference to “**Website Terms of Use**” refers to these Website Terms of Use as a whole, and not just to the particular provision in which those words appear; (b) headings are for reference only; (c) words importing the singular number only include the plural, and vice versa; (d) “**person**” includes an individual, corporation and any other legal entity; (e) “**including**” or “**includes**” means including or includes (as applicable) without limitation or restriction; (f) “**law**” includes common law, equity, statutes and regulations; and (g) “**discretion**” mean a person’s sole, absolute and unfettered discretion.
 
@@ -509,8 +516,6 @@ If you have any questions or comments regarding these Website Terms of Use, plea
 **IF YOU DO NOT ACCEPT AND AGREE TO THESE TERMS** **OF USE****, THEN YOU MAY NOT USE THE WEBSITE.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-[](https://corporatefinanceinstitute.com/collections/ "Corporate Finance Institute")
 
 * [Company](https://corporatefinanceinstitute.com/about-cfi/)
     * [About CFI](https://corporatefinanceinstitute.com/about-cfi/)
@@ -566,7 +571,7 @@ If you have any questions or comments regarding these Website Terms of Use, plea
 
 0 search results for ‘’
 
-People also search for: excel esg Free courses accounting Free real estate Forex trading courses
+People also search for: excel esg Free courses the Free E accounting
 
 Explore Our Certifications
 
