@@ -56,11 +56,8 @@ Recent announcements and media coverage.](https://www.appcast.io/news/)[Contact 
 
 We’d love to connect! Reach out and we’ll get back to you as quickly as possible.](https://www.appcast.io/contact/)
 
-[Begin your journey
-------------------
-
-with Appcast
-------------](https://www.appcast.io/careers/)
+[Learn more
+----------](https://www.appcast.io/10-year-anniversary/)
 
 Resources
 
@@ -102,11 +99,11 @@ AppcastOne and Appcast Brand and Creative Terms & Conditions
 
 **Effective October 24, 2023**
 
-**(Last Updated: February 14, 2024)**
+**(Last Updated: June 26, 2024)**
 
 These Appcast General Terms & Conditions of Service (the “Terms & Conditions”), along with the Insertion Order signed by you and any exhibits attached herein (to the extent applicable),  govern use of the services Appcast provides to you or any Customer and your use of the Appcast Platforms (defined below) (collectively “the Services) and collectively form the agreement (the “Agreement”) between (1) you and the company or organization that employes you (referred to herein as “you”, “your”, and “Customer”) and (2) Appcast, Inc. and its affiliates, subsidiaries, directors, officers, employees, agents, and representatives (referred to herein as “Appcast,” “we,” “us” and “our”). Capitalized terms used but not defined in these Terms & Conditions shall have the meanings ascribed to them in any applicable Insertion Order.
 
-Please read these Terms & Conditions carefully before you use the Appcast Platforms or Services. By accessing or using the Appcast Platforms or the Services, you accept and agree to be bound and abide by these Terms, our [Privacy Policy](https://www.appcast.io/privacy-policy/) incorporated herein by reference, and all applicable federal, state, and local laws and regulations. These Terms & Conditions constitute a binding agreement between you and Appcast. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS & CONDITIONS, YOU ARE NOT AUTHORIZED TO AND ARE PROHIBITED FROM ACCESSING THE APPCAST PLATFORMS OR THE SERVICES. We may revise and update these Terms & Conditions at any time by posting revisions to the Site and your continued use of the Appcast Platforms or Services indicates your agreement to the revised Terms & Conditions. All changes are effective immediately when we post them to the Site (as indicated in the “Last Updated” date) and apply to all access to and use of the Appcast Platforms or Services thereafter. Accordingly, we urge you to regularly review these Terms & Conditions as they are binding on you. We may update the content on the Appcast Platforms from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Appcast Platforms may be out of date at any given time, and we are under no obligation to update such material. The Appcast Platforms are offered and available to users who are eighteen (18) years of age or older. By using the Appcast Platforms or Services, you represent and warrant that you are of legal age to form a binding contract with Appcast and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Appcast Platforms or the Services.
+Please read these Terms & Conditions carefully before you use the Appcast Platforms or Services. By accessing or using the Appcast Platforms or the Services, you accept and agree to be bound and abide by these Terms, and all applicable federal, state, and local laws and regulations. These Terms & Conditions constitute a binding agreement between you and Appcast. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS & CONDITIONS, YOU ARE NOT AUTHORIZED TO AND ARE PROHIBITED FROM ACCESSING THE APPCAST PLATFORMS OR THE SERVICES. We may revise and update these Terms & Conditions at any time by posting revisions to the Site and your continued use of the Appcast Platforms or Services indicates your agreement to the revised Terms & Conditions. All changes are effective immediately when we post them to the Site (as indicated in the “Last Updated” date) and apply to all access to and use of the Appcast Platforms or Services thereafter. Accordingly, we urge you to regularly review these Terms & Conditions as they are binding on you. We may update the content on the Appcast Platforms from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Appcast Platforms may be out of date at any given time, and we are under no obligation to update such material. The Appcast Platforms are offered and available to users who are eighteen (18) years of age or older. By using the Appcast Platforms or Services, you represent and warrant that you are of legal age to form a binding contract with Appcast and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Appcast Platforms or the Services.
 
 If Customer is purchasing media or related Services through Appcast, then Exhibit A of these Terms & Conditions shall apply.   If Customer is purchasing branding or creative Services through Appcast, then Exhibit B of these Terms & Conditions shall apply. 
 
@@ -258,9 +255,7 @@ provided, however, that the provisions of an amendment, or Insertion Order will 
 
 11.10   Force Majeure.  Except for the obligation to make payments, neither party will be liable for any failure or delay in its performance under the Agreement due to any cause beyond its reasonable control, including acts of war, acts of God, earthquake, flood, embargo, riot, pandemic, sabotage, labor shortage or dispute, governmental act or failure of the Internet, provided that the delayed party: (a) gives the other party prompt notice of such cause, and (b) uses its reasonable commercial efforts to promptly correct such failure or delay in performance.  If Appcast is unable to provide the Services for a period of thirty (30) consecutive days as a result of a continuing force majeure event, Customer may cancel the affected service(s).
 
-11.11   Diversity & Inclusion Data.  If Customer opts into the Diversity and Inclusion Data service via the Appcast Platforms, then Appcast may place a third-party image tag on your job advertisements that collects aggregated demographic information regarding job seekers who click on those advertisements.
-
-11.12  Agency of Record.  Customer authorizes Appcast to act on its behalf and at the direction of Customer in the negotiation and purchase of advertising services related to recruiting candidates to be employed by, or otherwise work for, Customer. In negotiating and purchasing services on Customer’s behalf, Appcast shall have the right to act as an agent for Customer, its disclosed principal, provided the expenditure for such purchase was expressly approved by Customer in accordance with the terms hereof. Customer authorizes Appcast to receive invoices on its behalf for such services. Customer acknowledges and agrees that Customer is still ultimately responsible for financial commitments made to any media by Appcast on Customer’s behalf.  Customer further hereby agrees that when Appcast engages with LinkedIn, Indeed, Ziprecruiter, Craigslist, The Stepstone Group, Facebook or any other media on Customer’s behalf, Appcast may, at its sole discretion, agree to such companies’ respective legal terms and conditions of service, as-is written, with no changes to such terms and conditions. If Customer notifies Appcast in writing that it requests changes to legal terms and conditions for certain media services that Appcast is obtaining for Customer on its behalf, then Appcast will work with Customer in good faith to attempt to negotiate those terms with the respective media party, but does not guarantee that such terms will be successfully negotiated.
+11.11  Agency of Record.  Customer authorizes Appcast to act on its behalf and at the direction of Customer in the negotiation and purchase of advertising services related to recruiting candidates to be employed by, or otherwise work for, Customer. In negotiating and purchasing services on Customer’s behalf, Appcast shall have the right to act as an agent for Customer, its disclosed principal, provided the expenditure for such purchase was expressly approved by Customer in accordance with the terms hereof. Customer authorizes Appcast to receive invoices on its behalf for such services. Customer acknowledges and agrees that Customer is still ultimately responsible for financial commitments made to any media by Appcast on Customer’s behalf.  Customer further hereby agrees that when Appcast engages with LinkedIn, Indeed, Ziprecruiter, Craigslist, The Stepstone Group, Facebook or any other media on Customer’s behalf, Appcast may, at its sole discretion, agree to such companies’ respective legal terms and conditions of service, as-is written, with no changes to such terms and conditions. If Customer notifies Appcast in writing that it requests changes to legal terms and conditions for certain media services that Appcast is obtaining for Customer on its behalf, then Appcast will work with Customer in good faith to attempt to negotiate those terms with the respective media party, but does not guarantee that such terms will be successfully negotiated.
 
 **  
 Exhibit A: AppcastOne Terms**
@@ -492,7 +487,7 @@ Appcast Cost-Per-Click Publisher Terms of Service
 ### Appcast™ Publisher Standard Terms & Conditions for Cost per Click
 
 **  
-(Effective – October 20th, 2020)**
+(Revised and Effective – July 9th, 2024)**
 
 These Standard Terms & Conditions (the “Standard Terms”) apply to any party who (i) publishes, accesses, or otherwise uses any information or content that Appcast, Inc. (“we”, “us”, “our”, and “Appcast”) makes available to you (“Appcast Content”), including (a) any job search results, pay-per-click advertisements, links, insertion code, other elements that Appcast provides to you for use on your website (the “Publisher Site”) or other Publisher property (“Appcast Elements”), and (b) any information that Appcast makes available to you via any website owned by Appcast (an “Appcast Site”, and such information “Appcast Site Information”); or (ii) otherwise assents to these Standard Terms. The Standard Terms govern your use of and access to (i) the Appcast Content and (ii) any Appcast Site. All such persons subject to these terms are referred to herein as “you”, “your”, or “Publisher”. By accessing or using any Appcast Content or any Appcast Site, you accept these Standard Terms in their entirety and without modification. These Standard Terms constitute a binding agreement between you and Appcast.
 
@@ -538,7 +533,7 @@ You will maintain and comply with privacy policies and practices (i) that comply
 
 Without limiting your obligation to comply with all Applicable Laws, (i) you will comply with all privacy laws, rules, and regulations including but not limited to the Telephone Consumer Protection Act (“TCPA”) codified at 47 U.S.C. § 227 and the California Consumer Privacy Act (“CCPA”), including all rules and regulations promulgated thereunder and amendments thereto, (ii) you will maintain and regularly update in accordance with all Applicable Law records of telephone numbers listed on any state or federal “do-not-call” list in order to prevent soliciting or otherwise contacting any such person listed thereon, (iii) you will not contact any person listed on a state or federal “do-not-call” list.
 
-Appcast enables a third-party pixel on select job ads to collect information for interest-based advertising and aggregated demographic analysis.
+Appcast enables a third-party pixel on select job ads to collect information for interest-based advertising.
 
 ##### Confidentiality
 
@@ -588,7 +583,7 @@ Appcast Xcelerate Publisher Terms of Service
 
 ### Appcast™ Publisher Standard Terms & Conditions
 
-**(Effective – March 1st, 2023)**
+**(Revised and Effective – July 9th, 2024)**
 
 These Standard Terms & Conditions (the “Standard Terms”) apply to any party who (i) publishes, accesses, or otherwise uses any information or content that Appcast, Inc. (“we”, “us”, “our”, and “Appcast”) makes available to you (“Appcast Content”), including (a) any job search results, pay-per-click advertisements, links, insertion code, other elements that Appcast provides to you for use on your website (the “Publisher Site”) or other Publisher property (“Appcast Elements”), and (b) any information that Appcast makes available to you via any website owned by Appcast (an “Appcast Site”, and such information “Appcast Site Information”); or (ii) otherwise assents to these Standard Terms. The Standard Terms govern your use of and access to (i) the Appcast Content and (ii) any Appcast Site. All such persons subject to these terms are referred to herein as “you”, “your”, or “Publisher”. By accessing or using any Appcast Content or any Appcast Site, you accept these Standard Terms in their entirety and without modification. These Standard Terms constitute a binding agreement between you and Appcast.
 
@@ -636,7 +631,7 @@ You will maintain and comply with privacy policies and practices (i) that comply
 
 Without limiting your obligation to comply with all Applicable Laws, (i) you will comply with all privacy laws, rules, and regulations including but not limited to the Telephone Consumer Protection Act (“TCPA”) codified at 47 U.S.C. § 227 and the California Consumer Privacy Act (“CCPA”), including all rules and regulations promulgated thereunder and amendments thereto, (ii) you will maintain and regularly update in accordance with all Applicable Law records of telephone numbers listed on any state or federal “do-not-call” list in order to prevent soliciting or otherwise contacting any such person listed thereon, and (iii) you will not contact any person listed on a state or federal “do-not-call” list.
 
-Appcast enables a third-party pixel on select job ads to collect information for interest-based advertising and aggregated demographic analysis.
+Appcast enables a third-party pixel on select job ads to collect information for interest-based advertising.
 
 ###### Confidentiality
 
@@ -868,9 +863,9 @@ We may terminate our relationship with other individuals and organizations worki
 
 ![](https://www.appcast.io/wp-content/uploads/2024/05/footer-10-years@2x.png)
 
-We’re celebrating our 10th anniversary. A decade of award-winning programmatic job advertising technology.
+We’re celebrating our 10th anniversary and a decade of award-winning programmatic job advertising technology.
 
-[read more](https://www.prweb.com/releases/appcast-marks-a-decade-of-innovation-and-growth-celebrating-10-years-of-leadership-in-recruitment-marketing-302145721.html)
+[read more](https://www.appcast.io/10-year-anniversary/)
 
 [![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
 
