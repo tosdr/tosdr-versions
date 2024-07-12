@@ -3,9 +3,25 @@
 [Skip to content](#content "Skip to content")
 
 * [Sign In](https://uk.backdrop.cloud/login)
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=1&strip=1&webp=1)UK](https://www.imperosoftware.com/privacy/ "UK")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    * [![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=1&strip=1&webp=1)US](https://www.imperosoftware.com/us/privacy/ "US")
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=2&strip=1&webp=1)
+    
+    UK](https://www.imperosoftware.com/privacy/ "UK")
+    
+    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=2&strip=1&webp=1)
+        
+        US](https://www.imperosoftware.com/us/privacy/ "US")
 
 * [Connect Login](https://connect.backdrop.cloud/)
 * [Company](#)
@@ -17,9 +33,9 @@
 * [Support](https://www.imperosoftware.com/impero-support/)
 * [Blog](https://www.imperosoftware.com/blog/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
 * [Education Products](#)
     
@@ -60,14 +76,30 @@
 
 [Book a demo](https://www.imperosoftware.com/book-a-demo/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
-[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=1&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
+[![logo](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2021/05/logo-1.png?lossy=2&strip=1&webp=1 "logo")](https://www.imperosoftware.com/)
 
 [Demo](https://www.imperosoftware.com/book-a-demo/)
 
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=1&strip=1&webp=1)UK](https://www.imperosoftware.com/privacy/ "UK")
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=1&strip=1&webp=1)US](https://www.imperosoftware.com/us/privacy/ "US")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=2&strip=1&webp=1)
+    
+    UK](https://www.imperosoftware.com/privacy/ "UK")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=2&strip=1&webp=1)
+    
+    US](https://www.imperosoftware.com/us/privacy/ "US")
 * [Home](https://www.imperosoftware.com/)
 * [Sign In](https://uk.backdrop.cloud/login)
 * [Remote Access](#)
@@ -113,8 +145,24 @@
 
 ×
 
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=1&strip=1&webp=1)UK](https://www.imperosoftware.com/privacy/ "UK")
-* [![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=1&strip=1&webp=1)US](https://www.imperosoftware.com/us/privacy/ "US")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png?lossy=2&strip=1&webp=1)
+    
+    UK](https://www.imperosoftware.com/privacy/ "UK")
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://b3044747.smushcdn.com/3044747/wp-content/uploads/flags/us.png?lossy=2&strip=1&webp=1)
+    
+    US](https://www.imperosoftware.com/us/privacy/ "US")
 * [Home](https://www.imperosoftware.com/)
 * [Sign In](https://uk.backdrop.cloud/login)
 * [Remote Access](#)
@@ -365,7 +413,9 @@ This version was last updated on 6 October 2021.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
-![logo-white-norm](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/logo-white-norm.png?lossy=1&strip=1&webp=1 "logo-white-norm")
+![logo-white-norm](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "logo-white-norm")
+
+![logo-white-norm](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/logo-white-norm.png?lossy=2&strip=1&webp=1 "logo-white-norm")
 
 Impero Solutions Ltd, a company registered in England and Wales with company registration number 06106013 and registered office address Seventh Floor, East West, Tollhouse Hill, Nottingham, UK NG1 5FS
 
@@ -373,7 +423,9 @@ Impero Solutions Ltd, a company registered in England and Wales with company reg
 
 [](https://twitter.com/ImperoSoftware)[](https://www.facebook.com/imperosoftware/)[](https://www.linkedin.com/company/impero-software/)
 
-![Certification Badges_CMYK (White) ASSETS_(Mar 21)](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/27001-MONO-White-300x300-1.jpeg?lossy=1&strip=1&webp=1 "Certification Badges_CMYK (White) ASSETS_(Mar 21)")
+![Certification Badges_CMYK (White) ASSETS_(Mar 21)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Certification Badges_CMYK (White) ASSETS_(Mar 21)")
+
+![Certification Badges_CMYK (White) ASSETS_(Mar 21)](https://b3044747.smushcdn.com/3044747/wp-content/uploads/2022/05/27001-MONO-White-300x300-1.jpeg?lossy=2&strip=1&webp=1 "Certification Badges_CMYK (White) ASSETS_(Mar 21)")
 
 Solutions
 ---------
