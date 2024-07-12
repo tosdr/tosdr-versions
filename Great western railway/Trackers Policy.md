@@ -1,5 +1,9 @@
 [Skip to main content](#main-content)
 
+Rail services will be disrupted on Sunday 14 July. Please check your journey on Sunday morning before travelling.
+
+[Find out more](https://www.gwr.com/travel-update)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
