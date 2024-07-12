@@ -75,7 +75,7 @@ Menu Site navigation
     
     Wild Wolf Hoodie
     
-    Regular price £37
+    Regular price £36
     
     View](https://americanwolves.com/products/wild-wolf-hoodie)
     
@@ -83,7 +83,7 @@ Menu Site navigation
     
     Embroidered Paw Snapback Wolf Hat
     
-    Regular price £29
+    Regular price £28
     
     View](https://americanwolves.com/products/embroidered-paw-snapback-wolf-hat)
     
@@ -91,7 +91,7 @@ Menu Site navigation
     
     Wolf on Wolf T-Shirt
     
-    Regular price £25
+    Regular price £24
     
     View](https://americanwolves.com/products/wolf-on-wolf-t-shirt)
     
@@ -99,7 +99,7 @@ Menu Site navigation
     
     Business Wolf T-Shirt
     
-    Regular price £25
+    Regular price £24
     
     View](https://americanwolves.com/products/business-wolf-t-shirt)
     
@@ -136,7 +136,7 @@ Menu Site navigation
     
     Silver Steel Double Headed Wolf Bracelet
     
-    Regular price £33
+    Regular price £32
     
     View](https://americanwolves.com/products/silver-steel-double-headed-wolf-bracelet)
     
@@ -152,7 +152,7 @@ Menu Site navigation
     
     22-inch Diamond Gold Wolf Necklace
     
-    Regular price £37
+    Regular price £36
     
     View](https://americanwolves.com/products/22-inch-diamond-gold-wolf-necklace)
     
@@ -170,7 +170,7 @@ Menu Site navigation
     
     Tribal Wolf Mug
     
-    Regular price £17
+    Regular price £16
     
     View](https://americanwolves.com/products/tribal-wolf-mug)
     
@@ -186,7 +186,7 @@ Menu Site navigation
     
     Hunting Alpha Wolf Mug
     
-    Regular price £17
+    Regular price £16
     
     View](https://americanwolves.com/products/hunting-alpha-wolf-mug)
     
@@ -211,7 +211,7 @@ Menu Site navigation
     
     Black Origami 3D Wolf Head Wall Art
     
-    Regular price ~£117~ Sale price £85
+    Regular price ~£115~ Sale price £83
     
     Sale
     
@@ -229,7 +229,7 @@ Menu Site navigation
     
     Dark Side Of The Moon Wolf Wall Art
     
-    From £21
+    From £20
     
     View](https://americanwolves.com/products/dark-side-of-the-moon-wolf-wall-art)
     
@@ -253,7 +253,7 @@ Menu Site navigation
     
     Milo Wolf Plush
     
-    Regular price £41
+    Regular price £40
     
     View](https://americanwolves.com/products/milo-wolf-plush)
     
@@ -261,7 +261,7 @@ Menu Site navigation
     
     Gray Wolf Figurine
     
-    Regular price £17
+    Regular price £16
     
     View](https://americanwolves.com/products/gray-wolf-figurine)
     
@@ -269,7 +269,7 @@ Menu Site navigation
     
     Little Wolf Plush
     
-    Regular price £41
+    Regular price £40
     
     View](https://americanwolves.com/products/little-wolf-plush)
     
