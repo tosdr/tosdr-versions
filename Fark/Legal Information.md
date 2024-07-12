@@ -220,11 +220,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -324,16 +325,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [23 pairs of twins graduate from same middle school. Mirror Maze to follow at prom](https://www.fark.com/goto/13296562) ( [msn.com](https://www.fark.com/goto/13296562) ) » [(2 comments)](https://www.fark.com/comments/13296562/-23-pairs-of-twins-graduate-from-same-middle-school-Mirror-Maze-to-follow-at-prom) |
-| [Discussion](https://www.fark.com/discussion/) | [And it's all your fault I screen my phone calls. No matter who calls I gotta screen the MSNBC Discussion Thread, live at 7:00 PM ET](https://www.fark.com/goto/13297034) ( [msnbc.com](https://www.fark.com/goto/13297034) ) » [(0 comments)](https://www.fark.com/comments/13297034/And-its-all-your-fault-I-screen-my-phone-calls-No-matter-who-calls-I-gotta-screen-MSNBC-Discussion-Thread-live-at-700-PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Meh: Jeff Fisher goes 8-8 again. Fark: it's AFL teams folded / teams still playing](https://www.fark.com/goto/13296834) ( [timesunion.com](https://www.fark.com/goto/13296834) ) » [(3 comments)](https://www.fark.com/comments/13296834/Meh-Jeff-Fisher-goes-8-8-again-Fark-its-AFL-teams-folded-teams-still-playing) |
-| [Business](https://www.fark.com/business/) | [Today in "I am Jack's complete lack of surprise": IRS warns vast majority of $86 billion in Employee Retention Credit claims are clearly erroneous or have unacceptable risk. How bootstrappy of those business owners](https://www.fark.com/goto/13296098) ( [apnews.com](https://www.fark.com/goto/13296098) ) » [(4 comments)](https://www.fark.com/comments/13296098/Today-in-I-am-Jacks-complete-lack-of-surprise-IRS-warns-vast-majority-of-$86-billion-in-Employee-Retention-Credit-claims-are-clearly-erroneous-have-unacceptable-risk-How-bootstrappy-of-those-business-owners) |
-| [STEM](https://www.fark.com/stem/) | [Gravitational waves carry much, much more energy than almost anyone realizes. Could they themselves possibly create a black hole?](https://www.fark.com/goto/13296538) ( [bigthink.com](https://www.fark.com/goto/13296538) ) » [(6 comments)](https://www.fark.com/comments/13296538/Gravitational-waves-carry-much-much-more-energy-than-almost-anyone-realizes-Could-they-themselves-possibly-create-a-black-hole) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Shatner speaks out - politely - about salmon net fishing](https://www.fark.com/goto/13296886) ( [youtube.com](https://www.fark.com/goto/13296886) ) » [(2 comments)](https://www.fark.com/comments/13296886/Shatner-speaks-out-politely-about-salmon-net-fishing) |
-| [Fandom](https://www.fark.com/fandom/) | [Game developers are clamoring for jobs. Then sauna man, a Polish game designer, offers them a job designing a sauna-related game, including naked sauna sessions, and they decline. Perhaps he spent too much time in the heat](https://www.fark.com/goto/13296902) ( [eurogamer.net](https://www.fark.com/goto/13296902) ) » [(8 comments)](https://www.fark.com/comments/13296902/Game-developers-are-clamoring-for-jobs-Then-sauna-man-a-Polish-game-designer-offers-them-a-job-designing-a-sauna-related-game-including-naked-sauna-sessions-they-decline-Perhaps-he-spent-too-much-time-in-heat) |
-| [D'awww](https://www.fark.com/dawww/) | [Perhaps Diesel should be renamed Diarzan after running away from home in 2019 and only recently been spotted living with a herd of wild elk. The owner has been notified, but they letting him live his best life out on the range](https://www.fark.com/goto/13295626) ( [cnn.com](https://www.fark.com/goto/13295626) ) » [(8 comments)](https://www.fark.com/comments/13295626/Perhaps-Diesel-should-be-renamed-Diarzan-after-running-away-from-home-in-2019-only-recently-been-spotted-living-with-a-herd-of-wild-elk-The-owner-has-been-notified-but-they-letting-him-live-his-best-life-out-on-range) |
-| [Food](https://www.fark.com/food/) | [Shatner speaks out - politely - about salmon net fishing](https://www.fark.com/goto/13296886) ( [youtube.com](https://www.fark.com/goto/13296886) ) » [(2 comments)](https://www.fark.com/comments/13296886/Shatner-speaks-out-politely-about-salmon-net-fishing) |
-| [Politics](https://www.fark.com/politics/) | [GOP to push early and mail-in voting, because when they do it it's fine](https://www.fark.com/goto/13296022) ( [cbsnews.com](https://www.fark.com/goto/13296022) ) » [(3 comments)](https://www.fark.com/comments/13296022/GOP-to-push-early-mail-in-voting-because-when-they-do-it-its-fine) |
+| [Main](https://www.fark.com/) | [Holy crap, folks, we may have reached peak youth pastor here](https://www.fark.com/goto/13319432) ( [msn.com](https://www.fark.com/goto/13319432) ) » [(10 comments)](https://www.fark.com/comments/13319432/Holy-crap-folks-we-may-have-reached-peak-youth-pastor-here) |
+| [Discussion](https://www.fark.com/discussion/) | [Why did medieval artists frequently depict Death as a character who liked to cut a rug?](https://www.fark.com/goto/13319430) ( [publicdomainreview.org](https://www.fark.com/goto/13319430) ) » [(4 comments)](https://www.fark.com/comments/13319430/Why-did-medieval-artists-frequently-depict-Death-as-a-character-who-liked-to-cut-a-rug) |
+| [Sports](https://www.fark.com/sports/) | [Can Gatorade outrun this lawsuit?](https://www.fark.com/goto/13319322) ( [sports.yahoo.com](https://www.fark.com/goto/13319322) ) » [(1 comment)](https://www.fark.com/comments/13319322/Can-Gatorade-outrun-this-lawsuit) |
+| [Business](https://www.fark.com/business/) | [Privacy consultant gets nine years in federal prison for cyberstalking](https://www.fark.com/goto/13319468) ( [usatoday.com](https://www.fark.com/goto/13319468) ) » [(0 comments)](https://www.fark.com/comments/13319468/Privacy-consultant-gets-nine-years-in-federal-prison-for-cyberstalking) |
+| [STEM](https://www.fark.com/stem/) | [Strange 'eyeball' planet spied by James Webb telescope might be habitable for us humans. Maybe we should poke it some more](https://www.fark.com/goto/13318904) ( [livescience.com](https://www.fark.com/goto/13318904) ) » [(16 comments)](https://www.fark.com/comments/13318904/Strange-eyeball-planet-spied-by-James-Webb-telescope-might-be-habitable-for-us-humans-Maybe-we-should-poke-it-some-more) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Never spend your own money](https://www.fark.com/goto/13319422) ( [variety.com](https://www.fark.com/goto/13319422) ) » [(5 comments)](https://www.fark.com/comments/13319422/Never-spend-your-own-money) |
+| [Fandom](https://www.fark.com/fandom/) | [♫Spider-Man, Spider-Man, uncomfortable facts about Spider-Man♫](https://www.fark.com/goto/13319404) ( [cracked.com](https://www.fark.com/goto/13319404) ) » [(3 comments)](https://www.fark.com/comments/13319404/Spider-Man-Spider-Man-uncomfortable-facts-about-Spider-Man) |
+| [D'awww](https://www.fark.com/dawww/) | [Kids adopt classroom robot so boy battling cancer can read and play with his buddies](https://www.fark.com/goto/13318588) ( [metro.co.uk](https://www.fark.com/goto/13318588) ) » [(3 comments)](https://www.fark.com/comments/13318588/Kids-adopt-classroom-robot-so-boy-battling-cancer-can-read-play-with-his-buddies) |
+| [Food](https://www.fark.com/food/) | [Since the 1940s, folks in New England have been doing this one weird thing differently - and better than - the rest of America](https://www.fark.com/goto/13319334) ( [wbur.org](https://www.fark.com/goto/13319334) ) » [(8 comments)](https://www.fark.com/comments/13319334/Since-1940s-folks-in-New-England-have-been-doing-this-one-weird-thing-differently-better-than-rest-of-America) |
+| [Politics](https://www.fark.com/politics/) | [MAGA Ohio Senate candidate Bernie Moreno: "Bring on the tough questions." Reporter: "Okay, what's your stance on abor--" Moreno: Leaves chicken-shaped hole in wall fleeing](https://www.fark.com/goto/13319414) ( [rawstory.com](https://www.fark.com/goto/13319414) ) » [(8 comments)](https://www.fark.com/comments/13319414/MAGA-Ohio-Senate-candidate-Bernie-Moreno-Bring-on-tough-questions-Reporter-Okay-whats-your-stance-on-abor-Moreno-Leaves-chicken-shaped-hole-in-wall-fleeing) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -343,7 +344,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 21 2024 18:43:36  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 12 2024 06:42:08  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
