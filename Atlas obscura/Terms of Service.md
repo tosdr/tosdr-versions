@@ -1,5 +1,3 @@
-   
-
 [](https://www.atlasobscura.com/)
 
 [Trips](https://www.atlasobscura.com/adventures/) [Experiences](https://www.atlasobscura.com/events) [Courses](https://www.atlasobscura.com/online-courses) [Places](https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map) [Foods](https://www.atlasobscura.com/gastro) [Stories](https://www.atlasobscura.com/articles) [Newsletters](https://www.atlasobscura.com/newsletters)
