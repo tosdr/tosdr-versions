@@ -414,52 +414,51 @@ If you are not satisfied with our response, you can contact our Data Protection 
 
  [![Download on the App Store](https://cdn-assets.dzcdn.net/common/images/apple-store-badge/en.svg)](https://apps.apple.com/us/app/deezer-music-podcast-player/id292738169?itsct=apps_box&itscg=30200)[![Get it on Google Play](https://cdn-assets.dzcdn.net/common/images/play-store-badge/en.svg)](https://play.google.com/store/apps/details?id=deezer.android.app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-* [Deezer](https://www.deezer.com/en/)
-* [Plans](https://www.deezer.com/en/offers)
+* Useful links
+    
+* [Download the Deezer app](https://www.deezer.com/explore/download/)
+* [Offers](https://www.deezer.com/en/offers)
 * [Discount](https://www.deezer.com/en/offers/discount)
 * [Reviews](https://www.deezer.com/explore/reviews/)
-* [Devices](https://www.deezer.com/explore/devices/)
-* [Download the desktop app](https://www.deezer.com/explore/download/)
-* [Gift card](https://www.deezer.com/payment/go.php?id=1&gift=1&origin=footer-gift-card)
-* [Help](https://support.deezer.com/hc/en-gb)
-* [Community & feedback](https://en.deezercommunity.com/)
-* [The Backstage](https://www.thebackstage-deezer.com/)
+* [Use a promo code](https://www.deezer.com/en/gift)
+* [Buy a gift card](https://www.deezer.com/payment/go.php?id=1&gift=1&origin=footer-gift-card)
+* [FAQ](https://support.deezer.com/hc/en-gb)
+* [Contact Deezer](https://support.deezer.com/hc/en-gb/requests/new)
 
 * [Features](https://www.deezer.com/explore/features/)
 * [Flow](https://www.deezer.com/explore/features/flow/)
-* [Identify songs](https://www.deezer.com/explore/features/songcatcher/)
-* [Transfer your library](https://www.deezer.com/explore/features/transfer-playlist/)
-* [Lyrics](https://www.deezer.com/explore/features/lyrics/)
-* [Offline listening](https://www.deezer.com/explore/features/offline/)
-* [High Fidelity (HiFi)](https://www.deezer.com/explore/features/hifi/)
+* [Song identifier](https://www.deezer.com/explore/features/songcatcher/)
+* [Transfer your music](https://www.deezer.com/explore/features/transfer-playlist/)
+* [Listen with lyrics](https://www.deezer.com/explore/features/lyrics/)
+* [Offline mode](https://www.deezer.com/explore/features/offline/)
+* [HiFi sound quality](https://www.deezer.com/explore/features/hifi/)
+* [Shared playlists](https://www.deezer.com/explore/features/shaker/)
+* [Play Music Quiz](https://www.deezer.com/explore/features/music-quiz/)
+* [Compatible devices](https://www.deezer.com/explore/devices/)
 
-* [Explore](https://www.deezer.com/en/channels/explore)
-* [Charts](https://www.deezer.com/en/channels/charts)
-* [Most popular release](https://www.deezer.com/en/channels/popular)
-* [New releases](https://www.deezer.com/en/channels/new)
-* [Radio](https://www.deezer.com/en/channels/radios)
-* [Podcasts](https://www.deezer.com/en/channels/podcasts)
-* [Music for all moments](https://www.deezer.com/explore/moments/)
-* [Zen by deezer](https://zen-deezer.com/)
-* [Newsroom](https://www.newsroom-deezer.com/)
-
-* Who are we?
+* Live the Music
     
+* [Explore the catalogue](https://www.deezer.com/en/channels/explore)
+* [Top songs](https://www.deezer.com/en/channels/charts)
+* [New releases](https://www.deezer.com/en/channels/new)
+* [The Backstage - Deezer Blog](https://www.thebackstage-deezer.com/)
+* [Deezer Community](https://en.deezercommunity.com/)
+
+* [About us](https://www.deezer.com/en/)
+* [Press & News](https://www.newsroom-deezer.com/)
+* [Artist-Centric Payment System (ACPS)](https://www.deezer.com/explore/artist-remuneration/)
+* [Deezer for Creators](https://www.deezer.com/explore/deezer_for_creators/)
 * [Investors](https://www.deezer-investors.com/)
 * [Brand Partnerships](https://www.deezer-brandpartnerships.com/)
-* [Musicians and podcasters](https://creators.deezer.com/)
-* [Developers](https://developers.deezer.com/)
-* [Press](https://www.deezer-blog.com/press/)
 * [Careers](https://www.deezerjobs.com/)
-* [ACPS](https://www.deezer.com/explore/artist-remuneration/)
 
 * [Legal](https://www.deezer.com/legal/legal)
 * [Terms and Conditions](https://www.deezer.com/legal/cgu)
 * [Privacy policy](https://www.deezer.com/legal/personal-datas)
 * Cookies
 * [Modern Slavery Act](https://e-cdn-files.dzcdn.net/pdfs/legal/legal_uk_2023.pdf)
-* [Open Source Software Report (EN)](https://www.deezer.com/explore/licenses)
-* [Vulnerabilities Disclosure Privacy (EN)](https://vdp.deezer.com/p/Welcome)
+* [Open Source Software Report](https://www.deezer.com/explore/licenses)
+* [Vulnerability Disclosure Policy](https://vdp.deezer.com/p/Welcome)
 
 [](https://www.deezer.com/en/)
 
