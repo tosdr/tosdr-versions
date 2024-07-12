@@ -66,10 +66,6 @@ Log in
 
 [Health](https://www.klarna.com/us/shopping/t/10/Health-Beauty/)[Clothing](https://www.klarna.com/us/shopping/t/141/Clothing-Accessories/)[Toys](https://www.klarna.com/us/shopping/t/1493/Toys-Hobbies/)[Home](https://www.klarna.com/us/shopping/t/34/Home-Appliances/)[Sound & TV](https://www.klarna.com/us/shopping/t/1/TV-Audio/)[Sports](https://www.klarna.com/us/shopping/t/27/Sports-Outdoor/)[Electronics](https://www.klarna.com/us/shopping/t/2/Computers-Tablets/)[DIY](https://www.klarna.com/us/shopping/t/182/Home-Improvement/)[Photography](https://www.klarna.com/us/shopping/t/17/Photography/)[Gaming](https://www.klarna.com/us/shopping/t/19/Gaming-Entertainment/)[Phones](https://www.klarna.com/us/shopping/t/4/Phones-Smartwatches/)[Kids](https://www.klarna.com/us/shopping/t/35/Kids-Family/)[Mobility](https://www.klarna.com/us/shopping/t/11/Automotive/)[Garden](https://www.klarna.com/us/shopping/t/1424/Garden-Patio/)[Kitchen](https://www.klarna.com/us/shopping/t/14/Kitchen-Appliances/)[Household](https://www.klarna.com/us/shopping/t/3/Home-Appliances/)[Media](https://www.klarna.com/us/shopping/t/40/Books-Movies-Music/)[Office](https://www.klarna.com/us/shopping/t/36/Office-Equipment/)[Sale](https://www.klarna.com/us/shopping/sale/)
 
-![Pay securely with Klarna](https://locker.klarna.com/transform/901941b3-e2a2-454c-b4f5-0610cee133fa/BrandAssetLibrary_2024_ConsumerBenefit_Seatbelt_16x9?w=3840&q=75)
-
-![Pay securely with Klarna](https://locker.klarna.com/transform/61dfb347-c9a3-4b39-b318-c6a8542e4c26/BrandAssetLibrary_2024_ConsumerBenefit_Seatbelt_4x5?w=3840&q=75)
-
 Secure and private. By design.
 ==============================
 
