@@ -217,33 +217,33 @@ If you have any questions about this Policy, or the privacy practices of Attinda
 
 Please note that this Policy may be amended from time to time. Unless otherwise indicated, any changes to this Policy will apply immediately upon posting to the Platform so please check our site periodically for updates.  You can see when this Policy was last updated by reviewing the “Last Updated” legend at the top of this page.  We will provide notice of material changes by updating the Policy here, and communicating with you in the manner and format in which we typically communicate with you in our regular course of business, as required by applicable law.  
 
-![FAQ](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/Group.svg) Help
+![FAQ](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/Group.svg) Help
 
- [![FAQ](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/faq-q.svg) FAQ](https://www.mycomfees.com/faq/)
+ [![FAQ](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/faq-q.svg) FAQ](https://www.mycomfees.com/faq/)
 
- [![Contact us](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/contact.svg) Contact us](https://www.mycomfees.com/contactus/)
+ [![Contact us](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/contact.svg) Contact us](https://www.mycomfees.com/contactus/)
 
-![Call](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
+![Call](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
 
-![Call](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
+![Call](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
 
-![Close](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/close.svg)
+![Close](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/close.svg)
 
-![agent-img](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/agent-image-desktop.jpg)
+![agent-img](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/attindas/default/images/floating-contact/agent-image-desktop.jpg)
 
 Call us
 
 Support agent
 
-[![Logo](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/footer/logo_white.png)](https://www.mycomfees.com/)
+[![Logo](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/comfees/default/images/footer/logo_white.png)](https://www.mycomfees.com/)
 
- [![aria-label="facebook"](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/facebook.svg)](https://www.facebook.com/mycomfees/)[![Instagram](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/instagram.svg)](https://www.instagram.com/Mycomfees_USA/?hl=en)[![Twitter](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/twitter.svg)](https://twitter.com/mycomfees)
+ [![aria-label="facebook"](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/comfees/default/images/facebook.svg)](https://www.facebook.com/mycomfees/)[![Instagram](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/comfees/default/images/instagram.svg)](https://www.instagram.com/Mycomfees_USA/?hl=en)[![Twitter](https://www.mycomfees.com/static/version1720675934/frontend/Attindas/comfees/default/images/twitter.svg)](https://twitter.com/mycomfees)
 
 **Contact Us:** [800-351-1538](tel:800-351-1538)
 
 **Email Us:** [mycomfees@attindas.com](mailto:mycomfees@attindas.com)
 
-© 2024 Comfees, by Attindas Hygiene Partners [Privacy Policy](https://www.mycomfees.com/comfees-privacy-policy/) | [Global Privacy Statement](https://www.mycomfees.com/global-privacy-statement/) | [Terms of service](https://www.mycomfees.com/comfees-terms-of-service/) | [Satisfaction Gaurenteed Policy](https://www.mycomfees.com/comfees-satisfaction-gauranteed-policy/) | [Spring Giveway Rules](https://www.mycomfees.com/spring-giveaway-rules/)
+© 2024 Comfees, by Attindas Hygiene Partners [Privacy Policy](https://www.mycomfees.com/comfees-privacy-policy/) | [Global Privacy Statement](https://www.mycomfees.com/global-privacy-statement/) | [Terms of service](https://www.mycomfees.com/comfees-terms-of-service/) | [Satisfaction Guarantee Policy](https://www.mycomfees.com/comfees-satisfaction-guarantee-policy/) | [Spring Giveway Rules](https://www.mycomfees.com/spring-giveaway-rules/)
 
 Technical
 
