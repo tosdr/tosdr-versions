@@ -1,74 +1,78 @@
 [Skip to content](#content)
 
-* [Submissions](https://www.libertyfund.org/contact-us/online-submissions/)
-* [Contact](https://www.libertyfund.org/contact-us/)
+* [Submissions](https://about.libertyfund.org/contact-us/online-submissions/)
+* [Contact](https://about.libertyfund.org/contact-us/)
 * [Liberty Fund Network](#)
-    * [About](https://www.libertyfund.org/about/)
-    * [Contact Us](https://www.libertyfund.org/contact-us/)
-    * [For Educators](https://www.libertyfund.org/educators/)
+    * [About](https://about.libertyfund.org/about/)
+    * [Contact Us](https://about.libertyfund.org/contact-us/)
+    * [For Educators](https://about.libertyfund.org/educators/)
     * [Liberty Fund Sites](#)
     * [Econlib](https://www.econlib.org/)
     * [OLL](https://oll.libertyfund.org/)
     * [AdamSmithWorks](https://www.adamsmithworks.org/)
     * [Law & Liberty](https://lawliberty.org/)
 
-[![Liberty Fund](https://www.libertyfund.org/wp-content/themes/liberty-fund-theme/src/img/logo-liberty-fund.svg)](https://www.libertyfund.org/ "Liberty Fund Home")
+[![Liberty Fund](https://about.libertyfund.org/wp-content/themes/liberty-fund-theme/src/img/logo-liberty-fund.svg)](https://www.libertyfund.org/ "Liberty Fund Home")
 
 [](https://www.libertyfund.org/cart/ "View your shopping cart")[My Account](https://www.libertyfund.org/my-account "Store Account")
 
-* [Submissions](https://www.libertyfund.org/contact-us/online-submissions/)
-* [Contact](https://www.libertyfund.org/contact-us/)
+* [Submissions](https://about.libertyfund.org/contact-us/online-submissions/)
+* [Contact](https://about.libertyfund.org/contact-us/)
 * [Liberty Fund Network](#)
-    * [About](https://www.libertyfund.org/about/)
-    * [Contact Us](https://www.libertyfund.org/contact-us/)
-    * [For Educators](https://www.libertyfund.org/educators/)
+    * [About](https://about.libertyfund.org/about/)
+    * [Contact Us](https://about.libertyfund.org/contact-us/)
+    * [For Educators](https://about.libertyfund.org/educators/)
     * [Liberty Fund Sites](#)
     * [Econlib](https://www.econlib.org/)
     * [OLL](https://oll.libertyfund.org/)
     * [AdamSmithWorks](https://www.adamsmithworks.org/)
     * [Law & Liberty](https://lawliberty.org/)
 
-* [About](https://www.libertyfund.org/about/)
-    * [About Liberty Fund](https://www.libertyfund.org/about/)
-    * [History](https://www.libertyfund.org/about/history/)
-    * [Our People](https://www.libertyfund.org/about/our-people/)
-    * [Liberty Fund Library](https://www.libertyfund.org/about/liberty-fund-library/)
+* [About](https://about.libertyfund.org/about/)
+    * [About Liberty Fund](https://about.libertyfund.org/about/)
+    * [History](https://about.libertyfund.org/about/history/)
+    * [Our People](https://about.libertyfund.org/about/our-people/)
+    * [Liberty Fund Library](https://about.libertyfund.org/about/liberty-fund-library/)
     * [Goodrich Seminar Room](https://www.libertyfund.org/goodrich-seminar-room/story/index.html)
-    * [Testimonials](https://www.libertyfund.org/about/testimonials/)
-    * [Careers](https://www.libertyfund.org/contact-us/careers/)
-* [Books](https://www.libertyfund.org/books/)
-    * [Browse Books](https://www.libertyfund.org/books/)
-    * [American Founding](https://www.libertyfund.org/product-category/american-founding/)
-    * [American History](https://www.libertyfund.org/product-category/american-history/)
-    * [Economics](https://www.libertyfund.org/product-category/economics/)
-    * [Education](https://www.libertyfund.org/product-category/education/)
-    * [History](https://www.libertyfund.org/product-category/history/)
-    * [Law](https://www.libertyfund.org/product-category/law/)
-    * [Natural Law and Enlightenment Classics](https://www.libertyfund.org/product-category/natural-law-and-enlightenment-classics-2/)
-    * [Political Thought](https://www.libertyfund.org/product-category/political-thought/)
-    * [Promotions](https://www.libertyfund.org/promotions/)
-* [Events](https://www.libertyfund.org/about/calendar-of-events/)
-    * [Conferences](https://www.libertyfund.org/conferences/)
-    * [Conference Topics](https://www.libertyfund.org/conferences/topics/)
+    * [Testimonials](https://about.libertyfund.org/about/testimonials/)
+    * [Careers](https://about.libertyfund.org/contact-us/careers/)
+* [Books](https://about.libertyfund.org/books/)
+    * [Browse Books](https://about.libertyfund.org/books/)
+    * [American Founding](https://about.libertyfund.org/product-category/american-founding/)
+    * [American History](https://about.libertyfund.org/product-category/american-history/)
+    * [Economics](https://about.libertyfund.org/product-category/economics/)
+    * [Education](https://about.libertyfund.org/product-category/education/)
+    * [History](https://about.libertyfund.org/product-category/history/)
+    * [Law](https://about.libertyfund.org/product-category/law/)
+    * [Natural Law and Enlightenment Classics](https://about.libertyfund.org/product-category/natural-law-and-enlightenment-classics-2/)
+    * [Political Thought](https://about.libertyfund.org/product-category/political-thought/)
+    * [Promotions](https://about.libertyfund.org/promotions/)
+* [Events](https://about.libertyfund.org/about/calendar-of-events/)
+    * [Conferences](https://about.libertyfund.org/conferences/)
+    * [Conference Topics](https://about.libertyfund.org/conferences/topics/)
         
-        * [Economics](https://www.libertyfund.org/conferences/topic/economics/)
-        * [Education](https://www.libertyfund.org/conferences/topic/education/)
-        * [Fine Arts](https://www.libertyfund.org/conferences/topic/fine-arts/)
-        * [History](https://www.libertyfund.org/conferences/topic/history/)
-        * [Law](https://www.libertyfund.org/conferences/topic/law/)
-        * [Literature](https://www.libertyfund.org/conferences/topic/literature/)
-        * [Science & Technology](https://www.libertyfund.org/conferences/topic/science-technology/)
-        * [Theology & Philosophy](https://www.libertyfund.org/conferences/topic/theology-philosophy/)
-        * [Political Theory](https://www.libertyfund.org/conferences/topic/political-theory/)
+        * [Economics](https://about.libertyfund.org/conferences/topic/economics/)
+        * [Education](https://about.libertyfund.org/conferences/topic/education/)
+        * [Fine Arts](https://about.libertyfund.org/conferences/topic/fine-arts/)
+        * [History](https://about.libertyfund.org/conferences/topic/history/)
+        * [Law](https://about.libertyfund.org/conferences/topic/law/)
+        * [Literature](https://about.libertyfund.org/conferences/topic/literature/)
+        * [Science & Technology](https://about.libertyfund.org/conferences/topic/science-technology/)
+        * [Theology & Philosophy](https://about.libertyfund.org/conferences/topic/theology-philosophy/)
+        * [Political Theory](https://about.libertyfund.org/conferences/topic/political-theory/)
         
-    * [Calendar of Events](https://www.libertyfund.org/about/calendar-of-events/)
-    * [The George F. Will Award](https://www.libertyfund.org/about/george-will-award/)
-* [Help](https://www.libertyfund.org/customer-service/)
-    * [Customer Support](https://www.libertyfund.org/customer-service/)
-    * [Full Catalog](https://www.libertyfund.org/customer-service/full-catalog/)
-    * [Subject Catalogs](https://www.libertyfund.org/customer-service/subject-catalogs/)
-    * [Permission to Reprint Request](https://www.libertyfund.org/customer-service/permission-to-reprint/)
-    * [Library Access](https://www.libertyfund.org/about/liberty-fund-library/)
+    * [Calendar of Events](https://about.libertyfund.org/about/calendar-of-events/)
+    * [The George F. Will Award](https://about.libertyfund.org/about/george-will-award/)
+* [Podcasts](https://about.libertyfund.org/podcasts/)
+    * [Econtalk](https://www.econtalk.org/)
+    * [Future Of Liberty](https://about.libertyfund.org/podcasts/future-of-liberty/)
+    * [Law and Liberty](https://lawliberty.org/podcasts/)
+* [Help](https://about.libertyfund.org/customer-service/)
+    * [Customer Support](https://about.libertyfund.org/customer-service/)
+    * [Full Catalog](https://about.libertyfund.org/customer-service/full-catalog/)
+    * [Subject Catalogs](https://about.libertyfund.org/customer-service/subject-catalogs/)
+    * [Permission to Reprint Request](https://about.libertyfund.org/customer-service/permission-to-reprint/)
+    * [Library Access](https://about.libertyfund.org/about/liberty-fund-library/)
 
 * * *
 
@@ -79,7 +83,7 @@ Privacy Policy
 
 Liberty Fund, Inc. (“Company,” “Us,” or “We”) respects your privacy and are committed to protecting it through our compliance with this policy.
 
-This policy describes the type of information we may collect from you or that you may provide to us when you visit the website [https://www.libertyfund.org/](https://www.libertyfund.org/) (our “Site”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+This policy describes the type of information we may collect from you or that you may provide to us when you visit the website [https://about.libertyfund.org/](https://about.libertyfund.org/) (our “Site”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -368,45 +372,45 @@ USA
 
 [](https://twitter.com/liberty_fund)[](https://www.facebook.com/LibertyFundInc/)[](https://www.instagram.com/libertyfund/)
 
-[Books](https://www.libertyfund.org/books/)
+[Books](https://about.libertyfund.org/books/)
 
-* [American History](https://www.libertyfund.org/product-category/american-history/)
-* [American Founding](https://www.libertyfund.org/product-category/american-founding/)
-* [Economics](https://www.libertyfund.org/product-category/economics/)
-* [Education](https://www.libertyfund.org/product-category/education/)
-* [History](https://www.libertyfund.org/product-category/history/)
-* [Law](https://www.libertyfund.org/product-category/law/)
-* [Political Thought](https://www.libertyfund.org/product-category/political-thought/)
-* [Full Catalog](https://www.libertyfund.org/customer-service/full-catalog/)
-* [Subject Catalogs](https://www.libertyfund.org/customer-service/subject-catalogs/)
+* [American History](https://about.libertyfund.org/product-category/american-history/)
+* [American Founding](https://about.libertyfund.org/product-category/american-founding/)
+* [Economics](https://about.libertyfund.org/product-category/economics/)
+* [Education](https://about.libertyfund.org/product-category/education/)
+* [History](https://about.libertyfund.org/product-category/history/)
+* [Law](https://about.libertyfund.org/product-category/law/)
+* [Political Thought](https://about.libertyfund.org/product-category/political-thought/)
+* [Full Catalog](https://about.libertyfund.org/customer-service/full-catalog/)
+* [Subject Catalogs](https://about.libertyfund.org/customer-service/subject-catalogs/)
 
-[About](https://www.libertyfund.org/about/)
+[About](https://about.libertyfund.org/about/)
 
-* [History](https://www.libertyfund.org/about/history/)
-* [Our People](https://www.libertyfund.org/about/our-people/)
-* [Goodrich Seminar Room](https://www.libertyfund.org/?page_id=137)
-* [Liberty Fund Library](https://www.libertyfund.org/about/liberty-fund-library/)
-* [Testimonials](https://www.libertyfund.org/about/testimonials/)
+* [History](https://about.libertyfund.org/about/history/)
+* [Our People](https://about.libertyfund.org/about/our-people/)
+* [Goodrich Seminar Room](https://about.libertyfund.org/?page_id=137)
+* [Liberty Fund Library](https://about.libertyfund.org/about/liberty-fund-library/)
+* [Testimonials](https://about.libertyfund.org/about/testimonials/)
 
-[Customer Service](https://www.libertyfund.org/customer-service/)
+[Customer Service](https://about.libertyfund.org/customer-service/)
 
-* [Permission to Reprint](https://www.libertyfund.org/customer-service/permission-to-reprint/)
-* [Privacy Policy](https://www.libertyfund.org/privacy-policy/)
+* [Permission to Reprint](https://about.libertyfund.org/customer-service/permission-to-reprint/)
+* [Privacy Policy](https://about.libertyfund.org/privacy-policy/)
 
-[Online Resources](https://www.libertyfund.org/resources/)
+[Online Resources](https://about.libertyfund.org/resources/)
 
-* [Online Library of Liberty](https://www.libertyfund.org/resources/online-library-of-liberty/)
-* [Econlib](https://www.libertyfund.org/resources/econlib/)
-* [Law & Liberty](https://www.libertyfund.org/resources/law-liberty/)
-* [AdamSmithWorks](https://www.libertyfund.org/resources/adamsmithworks/)
+* [Online Library of Liberty](https://about.libertyfund.org/resources/online-library-of-liberty/)
+* [Econlib](https://about.libertyfund.org/resources/econlib/)
+* [Law & Liberty](https://about.libertyfund.org/resources/law-liberty/)
+* [AdamSmithWorks](https://about.libertyfund.org/resources/adamsmithworks/)
 
-[Educators](https://www.libertyfund.org/educators/)
+[Educators](https://about.libertyfund.org/educators/)
 
-[Conferences](https://www.libertyfund.org/conferences/)
+[Conferences](https://about.libertyfund.org/conferences/)
 
-[Contact Us](https://www.libertyfund.org/contact-us/)
+[Contact Us](https://about.libertyfund.org/contact-us/)
 
-[My Account](https://www.libertyfund.org/my-account/)
+[My Account](https://about.libertyfund.org/my-account/)
 
 ### Sign up for our newsletter
 
@@ -416,7 +420,7 @@ Stay connected with Liberty Fund’s quarterly newsletter featuring the latest n
     
 * Email\*
     
-* Phone
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
