@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
-* [George Strait Reveals To Crowd Of...](https://classiccountrymusic.com/george-strait-reveals-to-crowd-of-110905-fans-his-favorite-song-hes-ever-recorded/)
-* [Reba Shares Sneak Peek Of “Happy’s...](https://classiccountrymusic.com/reba-shares-sneak-peek-of-happys-place-with-new-teaser-photos/)
-* [3 Of Roy Rogers & Dale...](https://classiccountrymusic.com/3-of-roy-rogers-dale-evans-duet-performances/)
+* [Oak Ridge Boys Reshare Their Powerful...](https://classiccountrymusic.com/oak-ridge-boys-reshare-their-powerful-song-about-heaven-after-joe-bonsalls-death/)
+* [Dolly Parton Shares Exclusive Behind-The-Scenes Look...](https://classiccountrymusic.com/dolly-parton-shares-exclusive-behind-the-scenes-look-at-dollywoods-newest-attraction/)
+* [Oak Ridge Boys Deliver Moving Rendition...](https://classiccountrymusic.com/oak-ridge-boys-deliver-moving-rendition-of-mamas-table-at-one-of-joe-bonsalls-last-shows/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Meet Willie Nelson’s Loving Wife Of...](https://classiccountrymusic.com/meet-willie-nelsons-loving-wife-of-over-30-years-annie-dangelo/)
+* [George Strait Delivers Rollicking Tribute To...](https://classiccountrymusic.com/george-strait-delivers-rollicking-tribute-to-johnny-cash-with-folsom-prison-blues/)
 * [Willie Nelson & Ray Charles Perform...](https://classiccountrymusic.com/willie-nelson-ray-charles-perform-seven-spanish-angels-duet/)
-* [Merle Haggard Honors Those Who Sacrificed...](https://classiccountrymusic.com/merle-haggard-honors-those-who-sacrificed-their-lives-in-soldiers-last-letter/)
-* [Kenny Chesney & Kid Rock Come...](https://classiccountrymusic.com/kenny-chesney-kid-rock-come-together-to-honor-waylon-jennings-with-luckenbach-texas/)
 
 Privacy Policy
 ==============
