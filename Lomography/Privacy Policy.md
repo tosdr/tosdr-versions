@@ -52,7 +52,7 @@ We and our partners use technologies, such as cookies, to recognize you and show
     * [Lenses](https://www.lomography.com/lenses)
     * [Countries & Regions](https://www.lomography.com/countries)
     * [Cities](https://www.lomography.com/cities)
-    * [Dates](https://www.lomography.com/dates)
+    * [Years](https://www.lomography.com/dates)
     * [Times](https://www.lomography.com/times)
     * [Search](https://www.lomography.com/search)
     * [Shoutbox](https://www.lomography.com/shoutbox)
