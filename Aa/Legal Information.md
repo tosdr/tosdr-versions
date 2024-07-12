@@ -63,6 +63,10 @@ Close
     * [Home insurance claim](https://www.theaa.com/home-insurance/claims)
     * [Manage your policy](https://auth.theaa.com/login/?RelayState=https:%2F%2Fwww.theaa.com%2Fproducts)
     
+* [Accident Assist
+    
+    * * *](https://www.theaa.com/breakdown-cover/accident-assist)
+    
 * Vehicle maintenance
     
     * * *
@@ -210,7 +214,7 @@ Below we have set out the types of information we and our underwriters use or ho
 * Pricing and risk data about you, your beneficiaries or policyholders. This data is used, for example, to assess or make a decision about policy risk, decide or set pricing or risk levels, and decide whether we can offer or continue to offer you a product or service. This may use details such as your AA product or service holdings and use (including usage, claims or breakdown data), credit data, marketing data and risk profiles, suspected fraud, data from third parties (see below), vehicle and driving details, and telematics details;
 * Marketing information, including records of marketing communications, details of what you may be interested in, analysis and profiles we build up about you and your interests, and whether you open or read communications or links;
 * Vehicle information, including make, model, age, usage, breakdowns, repairs, and faults;
-* Telematics and connected car information about your vehicle (including assessing and predicting faults or issues), driving style (including recommending improvements and assessing risk associated with your driving style), location and routes taken. This will be the case if you have Smart Insurance, Smart Breakdown or a Car Genie device or one of our other telematics or connected car products;
+* Telematics and connected car information about your vehicle (including assessing and predicting faults or issues), driving style (including recommending improvements and assessing risk associated with your driving style), and where permitted, the location and routes taken. This will be the case if you have the Vixa app;
 * Information which we obtain from Credit Reference Agencies and Fraud Prevention Agencies (see below);
 * Fraud, debt and theft information related to any of the products you hold with the AA;
 * Information about your health or if you are a vulnerable customer - for example, details of assistance required – if these are needed to provide your policy to you;
@@ -252,7 +256,7 @@ The information is used by us and our underwriter(s). The reasons for using your
     5. To manage the operation of our business and those of our in-house or partner insurers or re-insurers;
     6. To manage the operation of our business and business partners that help support your policy;
     7. To carry out checks at Credit Reference and Fraud Prevention Agencies at pre-application, application, and periodically after that;
-    8. For analysing and profiling aspects of your vehicle or driving (including assessing and predicting faults or issues), driving style (including recommending improvements and assessing risk associated with your driving style), location and routes taken as part of providing, quoting for, and managing your policy (if, for example, you hold Smart Breakdown or another telematics product);
+    8. For analysing and profiling aspects of your vehicle or driving (including assessing and predicting faults or issues), driving style (including recommending improvements and assessing risk associated with your driving style), where permitted the location and routes taken, as part of providing, quoting for, and managing your policy (if, for example, you are a Vixa app customer);
     9. Updating your records, tracing your whereabouts, and recovering debt;
     10. To enable other AA Group and branded companies to provide you with your products and services, quote for products and services, or manage products and services you hold;
     11. To share information as needed with business partners as required for managing your policy or assessing application account beneficiaries, service and payment providers or as part of providing, administering or developing our products and services or our business; and
@@ -413,8 +417,8 @@ You can use the contact details in your policy book or you can go to the Contact
 * [Financial services privacy notice](https://www.theaa.com/privacy-notice-financial-services "Financial services privacy notice")
 * [Insurance privacy notice](https://www.theaa.com/privacy-notice-insurance "Insurance privacy notice")
 * [AA underwriting privacy notice](https://www.theaa.com/privacy-notice-aauicl "AA underwriting privacy notice")
-* [AA-X app privacy notice](https://www.theaa.com/privacy-notice-aa-x-app)
-* [AA-X repair service privacy notice](https://www.theaa.com/privacy-notice-aa-x-repair-service)
+* [Vixa app privacy notice](https://www.theaa.com/privacy-notice-vixa-app)
+* [Vixa repair service privacy notice](https://www.theaa.com/privacy-notice-vixa-repair-service)
 * [Safety cameras privacy notice](https://www.theaa.com/privacy-notice-safety-cameras)
 * [Wimbledon parking privacy notice](https://www.theaa.com/privacy-notice-wimbledon-parking)
 * [Terms and conditions](https://www.theaa.com/terms-and-conditions "Terms and conditions")
