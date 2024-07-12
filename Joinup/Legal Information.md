@@ -97,7 +97,7 @@ Privacy Statement
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.108.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.108.0)
+[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
 
 Useful links
 ------------
@@ -234,7 +234,7 @@ Privacy Statement
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.108.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.108.0)
+[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
 
 Useful links
 ------------
@@ -636,7 +636,7 @@ Privacy Statement
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.108.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.108.0)
+[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
 
 Useful links
 ------------
@@ -676,7 +676,7 @@ Useful links
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.108.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.108.0)
+[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
 
 Useful links
 ------------
@@ -716,7 +716,7 @@ Useful links
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.108.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.108.0)
+[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
 
 ### About us
 
