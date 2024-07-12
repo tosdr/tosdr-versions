@@ -16,7 +16,7 @@ We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](h
     
 * [About](https://www.interfolio.com/about)About
     
-* [Support center](https://www.interfolio.com/support)Support
+* [Customer support](https://www.interfolio.com/support)Support
     
 
 [Publish with us](https://www.interfolio.com/researcher/author/publish-with-us)
@@ -90,7 +90,7 @@ About our privacy policy
 
 This privacy policy applies to our websites, apps and other services, including programs and events, that refer or link to this privacy policy (each, a “Service”). This policy may be supplemented by additional privacy statements, terms or notices provided to you or by the Service. The Elsevier company that owns or administers the Service, as identified therein, is the primary controller of your personal information provided to, or collected by or for, the Service.
 
-For information about the handling of personal information contained in our Service content, please read our [processing notices.](https://www.interfolio.com/legal/processing-notices) For information about our processing of personal information as required by applicable U.S. laws, see our [U.S. Consumer Privacy Notice](https://www.interfolio.com/legal/us-consumer-privacy-notice)
+For information about the handling of personal information contained in our Service content, please read our [processing notices.](https://www.interfolio.com/legal/processing-notices) For information about our processing of personal information as required by applicable U.S. laws, see our [U.S. Consumer Privacy Notice](https://www.interfolio.com/legal/us-consumer-privacy-notice).
 
 Information we collect
 ----------------------
@@ -474,9 +474,8 @@ Useful links
 
 Support
 
-* [Resource center](https://service.elsevier.com/app/overview/elsevier/)
 * [Customer support](https://www.interfolio.com/support)
-* [Modern slavery act statement](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/relx-slavery-statement-2024.pdf)
+* [Resource center](https://service.elsevier.com/app/overview/elsevier/)
 
 About
 
@@ -484,6 +483,7 @@ About
 * [Careers](https://www.interfolio.com/about/careers)
 * [Global Press Office](https://www.interfolio.com/about/global-press-office)
 * [Advertising, reprints & supplements](https://www.elsmediakits.com/?utm_source=elsevier.com&utm_medium=referral&dgcid=4168448395)
+* [Modern slavery act statement](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/relx-slavery-statement-2024.pdf)
 
 Global | English
 
@@ -494,6 +494,6 @@ Global | English
 Copyright © 2024 Elsevier, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
 
 * [Terms & Conditionsopens in new tab/window](https://www.interfolio.com/legal/elsevier-website-terms-and-conditions)
-* [Privacy policyopens in new tab/window](https://www.elsevier.com/legal/privacy-policy)
+* [Privacy policyopens in new tab/window](https://www.interfolio.com/legal/privacy-policy)
 * [Accessibilityopens in new tab/window](https://www.interfolio.com/about/accessibility)
 * Cookie settings
