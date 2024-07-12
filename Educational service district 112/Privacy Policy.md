@@ -113,8 +113,8 @@ Search for:
             * [CTE Job Shadowing Program](https://www.esd112.org/ece/cte-job-shadowing/)
             * [Early Childhood Education Assistance Program (ECEAP)](https://www.esd112.org/ece/eceap/)
             * [ECE Volunteer Team](https://www.esd112.org/ece/volunteer/)
-            * [Transitional Kindergarten](https://www.esd112.org/ece/transitional-kindergarten/)
-            * [White Salmon Community Preschool](https://www.esd112.org/ece/white-salmon-community-preschool/)
+            * [Transition to Kindergarten](https://www.esd112.org/ece/transitional-kindergarten/)
+            * [White Salmon ECE Center](https://www.esd112.org/ece/white-salmon-community-preschool/)
         * School Readiness & Family Support
             * [1-2-3 Grow and Learn](https://www.esd112.org/ece/1-2-3-grow-and-learn/)
             * [Early Childhood Education Assistance Program (ECEAP)](https://www.esd112.org/ece/eceap/)
@@ -233,8 +233,8 @@ Search for:
     * Events
         * [Event News](https://www.esd112.org/category/events/)
         * [Event Calendar](https://www.esd112.org/events/)
-        * [Professional Development](https://www.esd112.org/events/category/professional-development/)
-        * [Recruitment Events](https://www.esd112.org/events/category/recruitment-events/)
+        * [Professional Development](https://www.esd112.org/calendar/category/professional-development/)
+        * [Recruitment Events](https://www.esd112.org/calendar/category/recruitment-events/)
         * Special Events
         * [Regional High School Art Show](https://www.esd112.org/artshow/)
 
