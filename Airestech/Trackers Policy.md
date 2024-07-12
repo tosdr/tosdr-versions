@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[SUMMER TRAVEL SALE: 15% OFF $100, 20% OFF $250, 25% OFF $400+ No code required. SUMMER TRAVEL SALE: 15% OFF $100, 20% OFF $250, 25% OFF $400+ No code required.](https://www.airestech.com/pages/store)
+FREE SHIPPING ON ORDERS $100+ FREE SHIPPING ON ORDERS $100+
 
     
 
