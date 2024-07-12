@@ -88,7 +88,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – Privacy Policy – Opt Out.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -126,7 +126,7 @@ Personal Data processed: Data communicated while using the service; Trackers.
 
 Place of processing: Italy – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -142,7 +142,7 @@ By filling in the contact form with their Data, the User authorizes Blue Ocean L
 
 Personal Data processed: city; company name; country; email address; fax number; field of activity; first name; last name; phonenumber; physical address; profession; state; various types of Data; website; ZIP/Postal code.
 
-Category of personal information collected according to the CCPA: identifiers; commercial information; internet or otherelectronic network activity information; employment related information.
+Category of Personal Information collected according to the CCPA: identifiers; commercial information; internet or otherelectronic network activity information; employment related information.
 
 
 
@@ -154,7 +154,11 @@ By registering on the mailing list or for the newsletter, the User’s email add
 
 Personal Data processed: email address; first name.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
+
+This processing constitutes:
+
+a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
 
 
 
@@ -166,7 +170,7 @@ Users that provided their phone number might be contacted for commercial or prom
 
 Personal Data processed: phone number.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 
 
@@ -186,9 +190,9 @@ Users may add comments to blog posts (subject to moderator approval).
 
 Legal basis for processing: Consent.
 
-
-
 Content performance and features testing (A/B testing)
+
+
 
 The services contained in this section allow the Owner to track and analyze the User response concerning web traffic or behaviorregarding changes to the structure, text or any other component of Blue Ocean Law Group.
 
@@ -204,7 +208,7 @@ Personal Data processed: Trackers; Usage Data.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -226,7 +230,7 @@ Personal Data processed: Trackers; Usage Data.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -266,15 +270,17 @@ Unless otherwise specified, Blue Ocean Law Group processes any payments by credi
 
 PayPal (PayPal Inc.)
 
-
-
 PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments.
 
 Personal Data processed: various types of Data as specified in the privacy policy of the service.
 
 Place of processing: See the PayPal privacy policy – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
+
+This processing constitutes:
+
+a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
 
 
 
@@ -288,7 +294,7 @@ Personal Data processed: billing address; first name; last name; payment info; v
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers; commercial information.
+Category of Personal Information collected according to the CCPA: identifiers; commercial information.
 
 
 
@@ -320,7 +326,7 @@ Personal Data processed: various types of Data as specified in the privacy polic
 
 Place of processing: Australia – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 
 
@@ -342,7 +348,7 @@ Personal Data processed: Trackers.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -350,7 +356,11 @@ Interaction with external social networks and platforms
 
 
 
-This type of service allows interaction with social networks or other external platforms directly from the pages of Blue OceanLaw Group.The interaction and information obtained through Blue Ocean Law Group are always subject to the User’s privacy settings foreach social network.This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.It is recommended to log out from the respective services in order to make sure that the processed data on Blue Ocean LawGroup isn’t being connected back to the User’s profile.
+This type of service allows interaction with social networks or other external platforms directly from the pages of Blue OceanLaw Group.
+
+The interaction and information obtained through Blue Ocean Law Group are always subject to the User’s privacy settings foreach social network.This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.It is recommended to log out from the respective services in order to make sure that the processed data on Blue Ocean LawGroup isn’t being connected back to the User’s profile.
+
+
 
 Twitter Tweet button and social widgets (X Corp.)
 
@@ -362,7 +372,7 @@ Personal Data processed: Trackers; Usage Data.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -384,7 +394,7 @@ Personal Data processed: answers to questions; contents of the email or message;
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers; internet or other electronic network activityinformation; audio, electronic, visual, thermal, olfactory, or similar information; inferences drawn from other personalinformation.
+Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activityinformation; audio, electronic, visual, thermal, olfactory, or similar information; inferences drawn from other personalinformation.
 
 
 
@@ -408,7 +418,7 @@ Legal basis for processing: Consent.
 
 Place of processing: various places depending on the company that provides the service – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 
 
@@ -422,11 +432,17 @@ Personal Data processed: email address; first name.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
+
+This processing constitutes:
+
+a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
 
 
 
 Operations
+
+
 
 Cloud-based Legal Practice Management System (AU \& USA)
 
@@ -474,7 +490,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – Privacy Policy – Opt out.
 
-Category of personal information collected according to the CCPA: identifiers; internet or other electronic network activityinformation.
+Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activityinformation.
 
 
 
@@ -506,13 +522,15 @@ This type of service helps the Owner to sell goods, provide services or monetize
 
 Chargebee (Chargebee Inc.)
 
+
+
 Chargebee is a subscription management tool provided by Chargebee Inc, which allows the Owner to manage subscriptions,invoicing, pricing models, and subscription and revenue analytics.
 
 Personal Data processed: Data communicated while using the service; Trackers; Usage Data.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -546,7 +564,7 @@ Personal Data processed: answers to questions; clicks; keypress events; motion s
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information;inferences drawn from other personal information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information;inferences drawn from other personal information.
 
 
 
@@ -568,7 +586,7 @@ Personal Data processed: Trackers; Usage Data.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -576,7 +594,9 @@ Traffic optimization and distribution
 
 
 
-This type of service allows Blue Ocean Law Group to distribute their content using servers located across different countries andto optimize their performance.Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function isto filter communications between Blue Ocean Law Group and the User's browser.Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that maycontain Personal Information of the User are transferred.
+This type of service allows Blue Ocean Law Group to distribute their content using servers located across different countries andto optimize their performance.Which Personal Data are processed depends on the characteristics and the way these services are implemented. Their function isto filter communications between Blue Ocean Law Group and the User's browser.
+
+Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that maycontain Personal Information of the User are transferred.
 
 
 
@@ -592,7 +612,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 
 
@@ -628,7 +648,7 @@ Personal Data processed: email address; phone number; Trackers; various types of
 
 Place of processing: United States – Privacy Policy.
 
-Category of personal information collected according to the CCPA: identifiers; internet or other electronic network activityinformation.
+Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activityinformation.
 
 Information on opting out of interest-based advertising
 
@@ -644,11 +664,9 @@ End-to-End Encrypted Email
 
 
 
-Email Security and Compliance Standards are 100% compliant with HIPAA/HITECH, PII, GDPR, FSA, FINRA, FERPA,CCPA.
+Email Security and Compliance Standards are 100% compliant with HIPAA/HITECH, PII, GDPR, FSA, FINRA, FERPA, CCPA.
 
 Award-winning email security platform.
-
-
 
 The Service is not directed to children under the age of 13
 
@@ -657,6 +675,8 @@ The Service is not directed to children under the age of 13
 Users declare themselves to be adult according to their applicable legislation. Minors may use Blue Ocean Law Group only withthe assistance of a parent or guardian. Under no circumstance persons under the age of 13 may use Blue Ocean Law Group.
 
 Cookie Policy
+
+
 
 Blue Ocean Law Group uses Trackers. To learn more, Users may consult the Cookie Policy.
 
@@ -670,7 +690,7 @@ Legal basis of processing
 
 The Owner may process Personal Data relating to Users if one of the following applies:
 
-Users have given their consent for one or more specific purposes.provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractualobligations thereof;processing is necessary for compliance with a legal obligation to which the Owner is subject;processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in theOwner;processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+Users have given their consent for one or more specific purposes.provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligationsthereof;processing is necessary for compliance with a legal obligation to which the Owner is subject;processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in theOwner;processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whetherthe provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
@@ -712,13 +732,15 @@ Verify and seek rectification. Users have the right to verify the accuracy of th
 
 Restrict the processing of their Data. Users have the right to restrict the processing of their Data. In this case, the Ownerwill not process their Data for any purpose other than storing it.
 
-Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data fromthe Owner.
+Have their Personal Data deleted or otherwise removed. Users have the right to obtain the erasure of their Data from theOwner.
 
-Receive their Data and have it transferred to another controller. Users have the right to receive their Data in astructured, commonly used and machine readable format and, if technically feasible, to have it transmitted to anothercontroller without any hindrance.
+Receive their Data and have it transferred to another controller. Users have the right to receive their Data in astructured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another
+
+controller without any hindrance.
 
 Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
 
-Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organizationgoverned by public international law or set up by two or more countries, such as the UN, and about the security measures takenby the Owner to safeguard their Data.
+Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organization governedby public international law or set up by two or more countries, such as the UN, and about the security measures taken by theOwner to safeguard their Data.
 
 
 
@@ -766,13 +788,11 @@ Why we process your personal information
 
 
 
-To find out why we process your personal information, you can read the sections titled “Detailed information on the processingof Personal Data” and “The purposes of processing” within this document.
+To find out why we process your personal information, you can read the sections titled “Detailed information on the processing ofPersonal Data” and “The purposes of processing” within this document.
 
 
 
 Your Brazilian privacy rights, how to file a request and our response to your requests
-
-
 
 Your Brazilian privacy rights
 
@@ -780,9 +800,7 @@ Your Brazilian privacy rights
 
 You have the right to:
 
-obtain confirmation of the existence of processing activities on your personal information;access to your personal information;have incomplete, inaccurate or outdated personal information rectified;
-
-obtain the anonymization, blocking or elimination of your unnecessary or excessive personal information, or ofinformation that is not being processed in compliance with the LGPD;obtain information on the possibility to provide or deny your consent and the consequences thereof;obtain information about the third parties with whom we share your personal information;obtain, upon your express request, the portability of your personal information (except for anonymized information) toanother service or product provider, provided that our commercial and industrial secrets are safeguarded;obtain the deletion of your personal information being processed if the processing was based upon your consent, unless oneor more exceptions provided for in art. 16 of the LGPD apply;revoke your consent at any time;lodge a complaint related to your personal information with the ANPD (the National Data Protection Authority) or withconsumer protection bodies;oppose a processing activity in cases where the processing is not carried out in compliance with the provisions of the law;request clear and adequate information regarding the criteria and procedures used for an automated decision; andrequest the review of decisions made solely on the basis of the automated processing of your personal information, whichaffect your interests. These include decisions to define your personal, professional, consumer and credit profile, or aspectsof your personality.
+obtain confirmation of the existence of processing activities on your personal information;access to your personal information;have incomplete, inaccurate or outdated personal information rectified;obtain the anonymization, blocking or elimination of your unnecessary or excessive personal information, or ofinformation that is not being processed in compliance with the LGPD;obtain information on the possibility to provide or deny your consent and the consequences thereof;obtain information about the third parties with whom we share your personal information;obtain, upon your express request, the portability of your personal information (except for anonymized information) toanother service or product provider, provided that our commercial and industrial secrets are safeguarded;obtain the deletion of your personal information being processed if the processing was based upon your consent, unless oneor more exceptions provided for in art. 16 of the LGPD apply;revoke your consent at any time;lodge a complaint related to your personal information with the ANPD (the National Data Protection Authority) or withconsumer protection bodies;oppose a processing activity in cases where the processing is not carried out in compliance with the provisions of the law;request clear and adequate information regarding the criteria and procedures used for an automated decision; andrequest the review of decisions made solely on the basis of the automated processing of your personal information, whichaffect your interests. These include decisions to define your personal, professional, consumer and credit profile, or aspectsof your personality.
 
 You will never be discriminated against, or otherwise suffer any sort of detriment, if you exercise your rights.
 
@@ -816,17 +834,15 @@ We are allowed to transfer your personal information outside of the Brazilian te
 
 when the transfer is necessary for international legal cooperation between public intelligence, investigation and prosecutionbodies, according to the legal means provided by the international law;when the transfer is necessary to protect your life or physical security or those of a third party;when the transfer is authorized by the ANPD;when the transfer results from a commitment undertaken in an international cooperation agreement;when the transfer is necessary for the execution of a public policy or legal attribution of public service;when the transfer is necessary for compliance with a legal or regulatory obligation, the carrying out of a contract orpreliminary procedures related to a contract, or the regular exercise of rights in judicial, administrative or arbitrationprocedures.
 
-Further information for California consumers
+Further information for Users in the United States
 
+This part of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the business running Blue Ocean Law Group and, if the case may be, its parent, subsidiaries and affiliates (for thepurposes of this section referred to collectively as “we”, “us”, “our”).
 
+The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”),who are residents in the following states: California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana.
 
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the business running Blue Ocean Law Group and, if the case may be, its parent, subsidiaries and affiliates (for thepurposes of this section referred to collectively as “we”, “us”, “our”).
+For such Users, this information supersedes any other possibly divergent or conflicting provisions contained in the privacy policy.
 
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing inthe state of California, United States of America, according to the "California Consumer Privacy Act of 2018" (the "CCPA"), as
-
-updated by the "California Privacy Rights Act" (the "CPRA") and subsequent regulations. For such consumers, this sectionsupersedes any other possibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the terms “personal information” (and “sensitive personal information”) as defined in theCalifornia Consumer Privacy Act (CCPA).
+This part of the document uses the term Personal Information (and Sensitive Personal Information).
 
 
 
@@ -834,309 +850,345 @@ Notice at collection
 
 
 
-Categories of personal information collected, used, sold, or shared
+The following Notice at collection provides you with timely notice about the categories of Personal Information collected ordisclosed in the past 12 months so that you can exercise meaningful control over our use of that Information.
 
 
 
-In this section we summarize the categories of personal information that we've collected, used, sold, or shared and the purposesthereof. You can read about these activities in detail in the section titled “Detailed information on the processing ofPersonal Data” within this document.
+While such categorization of Personal Information is mainly based on California privacy laws, it can also be helpful for anyonewho is not a California resident to get a general idea of what types of Personal Information are collected.
 
 
 
-Information we collect: the categories of personal information we collect
+Identifiers
 
 
 
-We have collected the following categories of personal information about you: identifiers, commercial information, internet orother electronic network activity information, audio, electronic, visual, thermal, olfactory, or similar information, employmentrelated information and inferences drawn from other personal information.
+Personal Information collected or disclosed: First name, Last name, Phone number, Company name, Profession,Physical address, Fax number, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity,Website, Various types of data as specified in the privacy policy of the service, Trackers, Usage data, Billing address, Datacommunicated while using the service, Answers to questions, User content, Profile picture, Date of the message, Time themessage was sent, Sender of the message
 
-We have collected the following categories of sensitive personal information: payment info and contents of the email or message
 
-We will not collect additional categories of personal information without notifying you.
 
+Sensitive Personal Information collected or disclosed ℹ: payment info, contents of the email or message
 
 
-Your right to limit the use or disclosure of your sensitive personal information and how you can exercise it
 
+Purposes:
 
 
-You have the right to request that we limit the use or disclosure of your sensitive personal information to only that which isnecessary to perform the services or provide the goods, as is reasonably expected by an average consumer.
 
-We can also use your sensitive personal information to perform specific purposes set forth by the law (such as, including but notlimited to, helping to ensure security and integrity; undertaking activities to verify or maintain the quality or safety of ourservice) and as authorized by the relevant regulations.
+Contacting the UserUser database managementHandling paymentsManaging contacts and sending messagesFurther information about Personal DataPlatform services and hostingInteraction with live chat platformsHosting and backend infrastructure
 
-Outside of the aforementioned specific purposes, you have the right to freely request, at any time, that we do not use or discloseyour sensitive personal information. This means that whenever you ask us to stop using your sensitive personal information, wewill abide by your request and we will instruct our service providers and contractors to do the same.
 
-To fully exercise your right to limit the use or disclosure of your sensitive personal information you can contact us at any time,using the contact details provided in this document.
 
-For a simplified method you can also use the privacy choices link provided on Blue Ocean Law Group.
+Retention period: for the time necessary to fulfill the purpose
 
-We use any personal information collected from you in connection with the submission of your request solely for the purposes ofcomplying with the request.
 
-Once you have exercised this right, we are required to wait at least 12 months before asking whether you have changed yourmind.
 
+Sold or Shared ℹ: Yes
 
 
-What are the purposes for which we use your personal information?
 
+Targeted Advertising: ℹ: No
 
 
-We may use your personal information to allow the operational functioning of Blue Ocean Law Group and features thereof(“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to thebusiness purpose for which it was collected, and strictly within the limits of compatible operational purposes.
 
-We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section“Detailed information on the processing of Personal Data” within this document), as well as for complying with the law anddefending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.
+Third-parties: HubSpot, Inc., PayPal Inc., Blue Ocean Law Group, The Rocket Science Group, LLC., Webflow, Inc.,Stripe, Inc., Meta Platforms, Inc., Amazon Web Services, Inc.
 
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed,without your consent.
 
 
+Service providers or contractors: Blue Ocean Law Group, Blue Ocean Law Group
 
-How long do we keep your personal information?
 
 
+Commercial information
 
-Unless stated otherwise inside the “Detailed information on the processing of Personal Data” section, we will not retain yourpersonal information for longer than is reasonably necessary for the purpose(s) they have been collected for.
 
 
+Personal Information collected or disclosed: First name, Last name, Phone number, Company name, Profession,Physical address, Fax number, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity,Website, Various types of data as specified in the privacy policy of the service, Billing address
 
-How we collect information: what are the sources of the personal information we collect?
 
-We collect the above-mentioned categories of personal information, either directly or indirectly, from you when you use BlueOcean Law Group.
 
-For example, you directly provide your personal information when you submit requests via any forms on Blue Ocean LawGroup. You also provide personal information indirectly when you navigate Blue Ocean Law Group, as personal informationabout you is automatically observed and collected.
+Sensitive Personal Information collected or disclosed ℹ: payment info
 
-Finally, we may collect your personal information from third parties that work with us in connection with the Service or with thefunctioning of this Application and features thereof.
 
 
+Purposes:
 
-How we use the information we collect: disclosing of your personal information with third parties for a business purpose
 
 
+Contacting the UserHandling payments
 
-For our purposes, the word “third party” means a person who is not any of the following: a service provider or a contractor, asdefined by the CCPA.
 
-We disclose your personal information with the third parties listed in detail in the section titled “Detailed information on theprocessing of Personal Data” within this document. These third parties are grouped and categorized in accordance with thedifferent purposes of processing.
 
+Retention period: for the time necessary to fulfill the purpose
 
 
-No sale of your personal information
 
+Sold or Shared ℹ: Yes
 
 
-We do not sell or share your personal information. In case we should decide to, we will inform you beforehand and will grantyour right to opt out of such sale.
 
+Targeted Advertising: ℹ: No
 
+Third-parties: Stripe, Inc.
 
-What are the purposes for which we use your personal information?
 
 
+Service providers or contractors: Blue Ocean Law Group
 
-We may use your personal information to allow the operational functioning of Blue Ocean Law Group and features thereof(“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to thebusiness purpose for which it was collected, and strictly within the limits of compatible operational purposes.
 
-We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section“Detailed information on the processing of Personal Data” within this document), as well as for complying with the law anddefending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.
 
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed,without your consent.
+Internet or other electronic network activity information
 
 
 
-How long do we keep your personal information?
+Personal Information collected or disclosed: First name, Last name, Phone number, Company name, Profession,Physical address, Fax number, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity,Website, Various types of data as specified in the privacy policy of the service, Trackers, Usage data, Answers to questions,Clicks, Keypress events, Motion sensor events, Mouse movements, Scroll position, Touch events, Data communicatedwhile using the service, User content, Profile picture, Date of the message, Time the message was sent, Sender of themessage
 
 
 
-Unless stated otherwise inside the “Detailed information on the processing of Personal Data” section, we will not retain yourpersonal information for longer than is reasonably necessary for the purpose(s) they have been collected for.
+Sensitive Personal Information collected or disclosed ℹ: contents of the email or message
 
 
 
-Your privacy rights under the California Consumer Privacy Act and how to exercise them
+Purposes:
 
 
 
-The right to access personal information: the right to know and to portability
+Contacting the UserUser database managementSpam and bots protectionContent performance and features testing (A/B testing)Displaying content from external platformsInteraction with external social networks and platformsSelling goods and services onlinePlatform services and hostingTag ManagementTraffic optimization and distributionInfrastructure monitoringAnalyticsInteraction with live chat platformsCollection of privacy-related preferences
 
 
 
-You have the right to request that we disclose to you:
+Retention period: for the time necessary to fulfill the purpose
 
-the categories of personal information that we collect about you;the sources from which the personal information is collected;the purposes for which we use your information;to whom we disclose such information;the specific pieces of personal information we have collected about you.
 
-You also have the right to know what personal information is sold or shared and to whom. In particular, you have the rightto request two separate lists from us where we disclose:
 
-the categories of personal information that we sold or shared about you and the categories of third parties to whom thepersonal information was sold or shared;the categories of personal information that we disclosed about you for a business purpose and the categories of persons towhom it was disclosed for a business purpose.
+Sold or Shared ℹ: Yes
 
-The disclosure described above will be limited to the personal information collected or used over the past 12 months.
 
-If we deliver our response electronically, the information enclosed will be "portable", i.e. delivered in an easily usable format toenable you to transmit the information to another entity without hindrance — provided that this is technically feasible.
 
-The right to request the deletion of your personal information
+Targeted Advertising: ℹ: No
 
 
 
-You have the right to request that we delete any of your personal information, subject to exceptions set forth by the law (such as,including but not limited to, where the information is used to identify and repair errors on Blue Ocean Law Group, to detectsecurity incidents and protect against fraudulent or illegal activities, to exercise certain rights etc.).
+Third-parties: HubSpot, Inc., Google Inc., Optimizely, Inc., Twitter, Inc., Chargebee Inc., Webflow, Inc., Google LLC,Cloudflare, Inc., Bugsnag Inc., Meta Platforms, Inc., iubenda srl
 
-If no legal exception applies, as a result of exercising your right, we will delete your personal information and notify any of ourservice providers and all third parties to whom we have sold or shared the personal information to do so — provided that this istechnically feasible and doesn’t involve disproportionate effort.
 
 
+Service providers or contractors: Blue Ocean Law Group
 
-The right to correct inaccurate personal information
 
 
+Employment related information
 
-You have the right to request that we correct any inaccurate personal information we maintain about you, taking into account thenature of the personal information and the purposes of the processing of the personal information.
 
 
+Personal Information collected or disclosed: First name, Last name, Phone number, Company name, Profession,Physical address, Fax number, Country, State, Email address, Zip/postal code, Various types of data, City, Field of activity,Website
 
-The right to opt out of sale or sharing of personal information and to limit the use of your sensitive personal information
 
 
+Purposes:
 
-You have the right to opt out of the sale or sharing of your personal information. You also have the right to request that we limitour use or disclosure of your sensitive personal information.
 
 
+Contacting the User
 
-The right of no retaliation following opt-out or exercise of other rights (the right to non-discrimination)
 
 
+Retention period: for the time necessary to fulfill the purpose
 
-We will not discriminate against you for exercising your rights under the CCPA. This means that we will not discriminate againstyou, including, but not limited to, by denying goods or services, charging you a different price, or providing a different level orquality of goods or services just because you exercised your consumer privacy rights.
 
-However, if you refuse to provide your personal information to us or ask us to delete or stop selling your personal information,and that personal information or sale is necessary for us to provide you with goods or services, we may not be able to completethat transaction.
 
-To the extent permitted by the law, we may offer you promotions, discounts, and other deals in exchange for collecting, keeping,or selling your personal information, provided that the financial incentive offered is reasonably related to the value of yourpersonal information.
+Sold or Shared ℹ: Yes
 
 
 
-How to exercise your rights
+Targeted Advertising: ℹ: No
 
 
 
-To exercise the rights described above, you need to submit your verifiable request to us by contacting us via the details providedin this document.
+Service providers or contractors: Blue Ocean Law Group
 
-For us to respond to your request, it’s necessary that we know who you are. Therefore, you can only exercise the above rights bymaking a verifiable request which must:
 
-provide sufficient information that allows us to reasonably verify you are the person about whom we collected personalinformation or an authorized representative;describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 
-We will not respond to any request if we are unable to verify your identity and therefore confirm the personal information in ourpossession actually relates to you.
+Inferences drawn from other personal information
 
-Making a verifiable consumer request does not require you to create an account with us. We will use any personal informationcollected from you in connection with the verification of your request solely for the purposes of verification and shall not furtherdisclose the personal information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.
 
-If you cannot personally submit a verifiable request, you can authorize a person registered with the California Secretary of Stateto act on your behalf.
 
-If you are an adult, you can make a verifiable request on behalf of a child under your parental authority.
+Personal Information collected or disclosed: Usage data, Trackers, Answers to questions, Clicks, Keypress events,Motion sensor events, Mouse movements, Scroll position, Touch events, First name, Last name, Phone number, Datacommunicated while using the service, User content, Profile picture, Date of the message, Time the message was sent,Sender of the message
 
-You can submit a maximum number of 2 requests over a period of 12 months.
 
 
+Sensitive Personal Information collected or disclosed ℹ: contents of the email or message
 
-How and when we are expected to handle your request
+Purposes:
 
 
 
-We will confirm receipt of your verifiable request within 10 days and provide information about how we will process yourrequest.
+Spam and bots protectionInteraction with live chat platforms
 
-We will respond to your request within 45 days of its receipt. Should we need more time, we will explain to you the reasons why,and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
 
-Our disclosure(s) will cover the preceding 12-month period. Only with regard to personal information collected on or afterJanuary 1, 2022, you have the right to request that we disclose information beyond the 12-month period, and we will providethem to you unless doing so proves impossible or would involve a disproportionate effort.
 
-Should we deny your request, we will explain you the reasons behind our denial.
+Retention period: for the time necessary to fulfill the purpose
 
-We do not charge a fee to process or respond to your verifiable request unless such request is manifestly unfounded or excessive.In such cases, we may charge a reasonable fee, or refuse to act on the request. In either case, we will communicate our choicesand explain the reasons behind it.
 
-Further information for Virginia consumers
 
+Sold or Shared ℹ: Yes
 
 
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the controller running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposesof this section referred to collectively as “we”, “us”, “our”).
 
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing inthe Commonwealth of Virginia, according to the “Virginia Consumer Data Protection Act" (the "VCDPA"), and, for suchconsumers, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.
+Targeted Advertising: ℹ: No
 
-This part of the document uses the term “personal data” as defined in the VCDPA.
 
 
+Third-parties: Google Inc., Meta Platforms, Inc.
 
-Categories of personal data processed
 
 
+Audio, electronic, visual, thermal, olfactory, or similar information
 
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. You can read aboutthese activities in detail in the section titled “Detailed information on the processing of Persona Data” within thisdocument.
 
 
+Personal Information collected or disclosed: First name, Last name, Phone number, Data communicated while using theservice, Answers to questions, User content, Profile picture, Date of the message, Time the message was sent, Sender of themessage
 
-Categories of personal data we collect
 
 
+Sensitive Personal Information collected or disclosed ℹ: contents of the email or message
 
-We have collected the following categories of personal data: identifiers, commercial information, internet information, sensorialinformation, employment related information and inferred information
 
-We do not collect sensitive data.
 
-We will not collect additional categories of personal data without notifying you.
+Purposes:
 
 
 
-Why we process your personal data
+Interaction with live chat platforms
 
 
 
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing ofPersonal Data” and “The purposes of processing” within this document.
+Retention period: for the time necessary to fulfill the purpose
 
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed,without your consent.You can freely give, deny, or withdraw such consent at any time using the contact details provided in this document.
 
 
+Sold or Shared ℹ: Yes
 
-How we use the data we collect: sharing of your personal data with third parties
 
 
+Targeted Advertising: ℹ: No
 
-We share your personal data with the third parties listed in detail in the section titled “Detailed information on the processingof Personal Data” within this document. These third parties are grouped and categorized in accordance with the differentpurposes of processing.For our purposes, the word "third party" means "a natural or legal person, public authority, agency, or body other than theconsumer, controller, processor, or an affiliate of the processor or the controller" as defined by the VCDPA.
 
 
+Third-parties: Meta Platforms, Inc.
 
-Sale of your personal data
 
 
+ℹ You can read the definitions of these concepts inside the “Definitions and legal references section” of the privacy policy.
 
-We do not sell your personal data. In case we should decide to, we will inform you beforehand and will grant your right to opt outof such sale.
 
 
+To know more about your rights in particular to opt out of certain processing activities and to limit the use of yoursensitive personal information (“Limit the Use of My Sensitive Personal Information”) you can refer to the “Your privacy
 
-Processing of your personal data for targeted advertising
+rights under US state laws” section of our privacy policy.
 
 
 
-We do not process your personal data for targeted advertising. If we decide to do so, we will inform you beforehand and willgrant your right to opt out of the processing of your personal data for targeted advertising.
+For more details on the collection of Personal Information, please read the section “Detailed information on the processing ofPersonal Data” of our privacy policy.
 
+We won’t process your Information for unexpected purposes, or for purposes that are not reasonably necessary to and compatiblewith the purposes originally disclosed, without your consent.
 
 
-Your privacy rights under the Virginia Consumer Data Protection Act and how to exercise them
 
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
+What are the sources of the Personal Information we collect?
 
 
 
-access personal data: the right to know. You have the right to request that we confirm whether or not we are processingyour personal data. You also have the right to access such personal data.
+We collect the above-mentioned categories of Personal Information, either directly or indirectly, from you when you use BlueOcean Law Group.
 
-correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data we maintainabout you, taking into account the nature of the personal data and the purposes of the processing of the personal data.
+For example, you directly provide your Personal Information when you submit requests via any forms on Blue Ocean LawGroup. You also provide Personal Information indirectly when you navigate Blue Ocean Law Group, as Personal Informationabout you is automatically observed and collected.
 
-request the deletion of your personal data. You have the right to request that we delete any of your personal data.
+Finally, we may collect your Personal Information from third parties that work with us in connection with the Service or with thefunctioning of Blue Ocean Law Group and features thereof.
 
-obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows youto transfer data easily to another entity — provided that this is technically feasible.
 
-opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal data, or
 
-profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+Your privacy rights under US state laws
 
-non-discrimination. We will not discriminate against you for exercising your rights under the VCDPA. This means thatwe will not, among other things, deny goods or services, charge you a different price, or provide a different level or qualityof goods or services just because you exercised your consumer privacy rights. However, if you refuse to provide yourpersonal data to us or ask us to delete or stop selling your personal data, and that personal data or sale is necessary for us toprovide you with goods or services, we may not be able to complete that transaction. To the extent permitted by the law, wemay offer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or servicesfor no fee, if you have exercised your right to opt out, or our offer is related to your voluntary participation in a bona fideloyalty, rewards, premium features, discounts, or club card program.
 
 
+You may exercise certain rights regarding your Personal Information. In particular, to the extent permitted by applicable law, youhave:
 
-How to exercise your rights
+
+
+the right to access Personal Information: the right to know. You have the right to request that we confirm whether ornot we are processing your Personal Information. You also have the right to access such Personal Information;
+
+the right to correct inaccurate Personal Information. You have the right to request that we correct any inaccuratePersonal Information we maintain about you;
+
+the right to request the deletion of your Personal Information. You have the right to request that we delete any of yourPersonal Information;
+
+the right to obtain a copy of your Personal Information. We will provide your Personal Information in a portable andusable format that allows you to transfer data easily to another entity – provided that this is technically feasible;
+
+the right to opt out from the Sale of your Personal Information; We will not discriminate against you for exercisingyour privacy rights.
+
+the right to non-discrimination.
+
+Additional rights for Users residing in California
+
+
+
+In addition to the rights listed above common to all Users in the United States, as a User residing in California, you have
+
+
+
+The right to opt out of the Sharing of your Personal Information for cross-context behavioral advertising;
+
+The right to request to limit our use or disclosure of your Sensitive Personal Information to only that which isnecessary to perform the services or provide the goods, as is reasonably expected by an average consumer. Please note thatcertain exceptions outlined in the law may apply, such as, when the collection and processing of Sensitive PersonalInformation is necessary to verify or maintain the quality or safety of our service.
+
+
+
+Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon and Montana
+
+
+
+In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado,Connecticut, Texas and Oregon, you have
+
+
+
+The right to opt out of the processing of your personal information for Targeted Advertising or profiling in furtheranceof decisions that produce legal or similarly significant effects concerning you;
+
+The right to freely give, deny or withdraw your consent for the processing of your Sensitive Personal Information.
+
+Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection andprocessing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested bythe consumer.
+
+
+
+Additional rights for users residing in Utah
+
+
+
+In addition to the rights listed above common to all Users in the United States, as a User residing in Utah, you have
+
+
+
+The right to opt out of the processing of your Personal Information for Targeted Advertising;
+
+The right to opt out of the processing of your Sensitive Personal Information. Please note that certain exceptionsoutlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive PersonalInformation is necessary for the provision of a product or service specifically requested by the consumer.
+
+
+
+How to exercise your privacy rights under US state laws
 
 
 
 To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided inthis document.
 
-For us to respond to your request, we need to know who you are.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and thereforeconfirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additionalinformation which is reasonably necessary to authenticate you and your request.
-
-Making a consumer request does not require you to create an account with us. However, we may require you to use your existingaccount. We will use any personal data collected from you in connection with your request solely for the purposes ofauthentication, without further disclosing the personal data, retaining it longer than necessary for purposes of authentication, orusing it for unrelated purposes.
+For us to respond to your request, we must know who you are. We will not respond to any request if we are unable to verify youridentity and therefore confirm the Personal Information in our possession relates to you. You are not required to create an accountwith us to submit your request. We will use any Personal Information collected from you in connection with the verification ofyour request solely for verification and shall not further disclose the Personal Information, retain it longer than necessary forpurposes of verification, or use it for unrelated purposes.
 
 If you are an adult, you can make a request on behalf of a child under your parental authority.
+
+
+
+How to exercise your rights to opt out
+
+
+
+In addition to what is stated above, to exercise your right to opt-out of Sale or Sharing and Targeted Advertising you can also usethe privacy choices link provided on Blue Ocean Law Group.
+
+If you want to submit requests to opt out of Sale or Sharing and Targeted Advertising activities via a user-enabled global privacycontrol, such as for example the Global Privacy Control (“GPC”), you are free to do so and we will abide by such request in africtionless manner.
 
 
 
@@ -1144,343 +1196,11 @@ How and when we are expected to handle your request
 
 
 
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should weneed more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that wemay take up to 90 days to fulfill your request.
+We will respond to your request without undue delay, but in all cases within the timeframe required by applicable law. Should weneed more time, we will explain to you the reasons why, and how much more time we need.
 
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and atthe latest within 45 days of receipt of the request. It is your right to appeal such decision by submitting a request to us via thedetails provided in this document. Within 60 days of receipt of the appeal, we will inform you in writing of any action taken ornot taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied youmay contact the Attorney General to submit a complaint.
+Should we deny your request, we will explain to you the reasons behind our denial (where envisaged by applicable law you maythen contact the relevant authority to submit a complaint).
 
-We do not charge a fee to respond to your request, for up to two requests per year. If your request is manifestly unfounded,excessive or repetitive, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate ourchoices and explain the reasons behind them.
-
-Further information for Colorado consumers
-
-
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the controller running Blue Ocean Law Group and, if the case may be, its parent, subsidiaries and affiliates (for thepurposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing inthe State of Colorado, according to the “Colorado Privacy Act" (the "CPA"), and, for such consumers, it supersedes any otherpossibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the CPA.
-
-
-
-Categories of personal data processed
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. You can read aboutthese activities in detail in the section titled “Detailed information on the processing of Persona Data” within thisdocument.
-
-
-
-Categories of personal data we collect
-
-
-
-We have collected the following categories of personal data: identifiers, commercial information, internet information, sensorialinformation, employment related information and inferred information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-
-
-Why we process your personal data
-
-
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing ofPersonal Data” and “The purposes of processing” within this document.
-
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed,without your consent.You can freely give, deny, or withdraw such consent at any time using the contact details provided in this document.
-
-
-
-How we use the data we collect: sharing of your personal data with third parties
-
-
-
-We share your personal data with the third parties listed in detail in the section titled “Detailed information on the processingof Personal Data” within this document. These third parties are grouped and categorized in accordance with the differentpurposes of processing.
-
-For our purposes, the word "third party" means "a person, public authority, agency, or body other than a consumer, controller,processor, or affiliate of the processor or the controller." as defined by the CPA.
-
-
-
-Sale of your personal data
-
-
-
-We do not sell your personal data. In case we should decide to, we will inform you beforehand and will grant your right to opt outof such sale.
-
-For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other valuableconsideration by a controller to a third party" as defined by the CPA.
-
-Please note that according to the CPA, the disclosure of personal data to a processor that processes personal data on behalf of acontroller does not constitute a sale. In addition, other specific exceptions set forth in the CPA may apply, such as, but not limitedto, the disclosure of personal data to a third party for the provision of a product or service requested by you.
-
-
-
-Processing of your personal data for targeted advertising
-
-
-
-We do not process your personal data for targeted advertising. If we decide to do so, we will inform you beforehand and willgrant your right to opt out of the processing of your personal data for targeted advertising.
-
-For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is selected based onpersonal data obtained or inferred over time from the consumer's activities across nonaffiliated websites, applications, or onlineservices to predict consumer preferences or interests" as defined by CPA.
-
-Please note that according to the CPA, targeted advertising does not include: “advertisements directed to a consumer in responseto the consumer's request for information or feedback; advertisements based on activities within a controller's own websites oronline applications or any affiliated website or online application; advertisements based on the context of a consumer's currentsearch query, visit to an internet web site or online application; or processing personal data solely to measure or reportadvertising frequency, performance or reach”.
-
-
-
-Your privacy rights under the Colorado Privacy Act and how to exercise them
-
-
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal data, orprofiling in furtherance of decisions that produce legal or similarly significant effects concerning you.access personal data. You have the right to request that we confirm whether or not we are processing your personal data.You also have the right to access such personal data.
-
-correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data we maintainabout you, taking into account the nature of the personal data and the purposes of the processing of the personal data.request the deletion of your personal data. You have the right to request that we delete any of your personal data.obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows you totransfer data easily to another entity – provided that this is technically feasible.
-
-In any case, we will not increase the cost of, or decrease the availability of, a product or service, based solely on the exercise ofany of your rights and unrelated to the feasibility or the value of a service. However, to the extent permitted by the law, we mayoffer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee,if our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club cardprogram.
-
-
-
-How to exercise your rights
-
-
-
-To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided inthis document.
-
-For us to respond to your request, we need to know who you are and which right you wish to exercise.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and thereforeconfirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additionalinformation which is reasonably necessary to authenticate you and your request.
-
-Making a consumer request does not require you to create an account with us. However, we may require you to use your existingaccount. We will use any personal data collected from you in connection with your request solely for the purposes ofauthentication, without further disclosing the personal data, retaining it longer than necessary for purposes of authentication, orusing it for unrelated purposes.
-
-If you are an adult, you can make a request on behalf of a child under your parental authority.
-
-
-
-How and when we are expected to handle your request
-
-
-
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should weneed more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that wemay take up to 90 days to fulfill your request.
-
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and atthe latest within 45 days of receipt of the request. It is your right to appeal such decision by submitting a request to us via thedetails provided in this document. Within 45 days of receipt of the appeal, we will inform you in writing of any action taken ornot taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied youmay contact the Attorney General to submit a complaint.
-
-We do not charge a fee to respond to your request, for up to two requests per year.
-
-Further information for Connecticut consumers
-
-
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the controller running Blue Ocean Law Group and, if the case may be, its parent, subsidiaries and affiliates (for thepurposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies o all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing inthe State of Connecticut, according to “An Act Concerning Personal Data Privacy and Online Monitoring " (also known as "TheConnecticut Data Privacy Act" or the “CTDPA"), and, for such consumers, it supersedes any other possibly divergent orconflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the CTDPA.
-
-
-
-Categories of personal data processed
-
-
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. You can read aboutthese activities in detail in the section titled “Detailed information on the processing of Persona Data” within thisdocument.
-
-
-
-Categories of personal data we collect
-
-
-
-We have collected the following categories of personal data: identifiers, commercial information, internet information, sensorialinformation, employment related information and inferred information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-
-
-Why we process your personal data
-
-
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing ofPersonal Data” and “The purposes of processing” within this document.
-
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed,without your consent.You can freely give, deny, or withdraw such consent at any time using the contact details provided in this document.
-
-
-
-How we use the data we collect: sharing of your personal data with third parties
-
-
-
-We share your personal data with the third parties listed in detail in the section titled “Detailed information on the processingof Personal Data” within this document. These third parties are grouped and categorized in accordance with the differentpurposes of processing.
-
-For our purposes, the word "third party" means "a person, public authority, agency, or body other than a consumer, controller,processor, or affiliate of the processor or the controller." as defined by the CTDPA.
-
-
-
-Sale of your personal data
-
-
-
-We do not sell your personal data. In case we should decide to, we will inform you beforehand and will grant your right to opt outof such sale.
-
-For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other valuableconsideration by a controller to a third party" as defined by the CTDPA.
-
-Please note that according to the CTDPA, the disclosure of personal data to a processor that processes personal data on behalf ofa controller does not constitute a sale. In addition, other specific exceptions set forth in the CTDPA may apply, such as, but notlimited to, the disclosure of personal data to a third party for the provision of a product or service requested by you.
-
-
-
-Processing of your personal data for targeted advertising
-
-
-
-We do not process your personal data for targeted advertising. If we decide to do so, we will inform you beforehand and willgrant your right to opt out of the processing of your personal data for targeted advertising.
-
-For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is selected based onpersonal data obtained or inferred over time from the consumer's activities across non affiliated websites, applications, or onlineservices to predict consumer preferences or interests" as defined by CTDPA.
-
-Please note that according to the CTDPA, targeted advertising does not include: “advertisements based on activities within acontroller's own web sites or online applications; advertisements based on the context of a consumer's current search query, visitto an internet web site or online application; advertisements directed to a consumer in response to the consumer's request forinformation or feedback; or processing personal data solely to measure or report advertising frequency, performance or reach”.
-
-
-
-Your privacy rights under the Connecticut Data Privacy Act and how to exercise them
-
-
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-access personal data. You have the right to request that we confirm whether or not we are processing your personal data.You also have the right to access such personal data.correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data we maintainabout you, taking into account the nature of the personal data and the purposes of the processing of the personal data.request the deletion of your personal data. You have the right to request that we delete any of your personal data.obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows you totransfer data easily to another entity – provided that this is technically feasible.opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal data, orprofiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
-
-In any case, we will not increase the cost of, or decrease the availability of, a product or service, based solely on the exercise ofany of your rights and unrelated to the feasibility or the value of a service. However, to the extent permitted by the law, we mayoffer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee,if our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club cardprogram.
-
-How to exercise your rights
-
-
-
-To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided inthis document.
-
-For us to respond to your request, we need to know who you are and which right you wish to exercise.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and thereforeconfirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additionalinformation which is reasonably necessary to authenticate you and your request.
-
-Making a consumer request does not require you to create an account with us. However, we may require you to use your existingaccount. We will use any personal data collected from you in connection with your request solely for the purposes ofauthentication, without further disclosing the personal data, retaining it longer than necessary for purposes of authentication, orusing it for unrelated purposes.
-
-If you are an adult, you can make a request on behalf of a child under your parental authority.
-
-
-
-How and when we are expected to handle your request
-
-
-
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should weneed more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that wemay take up to 90 days to fulfill your request.
-
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and atthe latest within 45 days of receipt of the request. It is your right to appeal such decision by submitting a request to us via thedetails provided in this document. Within 45 days of receipt of the appeal, we will inform you in writing of any action taken ornot taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, youmay contact the Attorney General to submit a complaint.
-
-We do not charge a fee to respond to your request, for up to one request per year.
-
-Further information for Utah consumers
-
-
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the controller running Blue Ocean Law Group and, if the case may be, its parent, subsidiaries and affiliates (for thepurposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing inthe State of Utah, according to the “Consumer Privacy Act" (the “UCPA"), and, for such consumers, it supersedes any otherpossibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the UCPA.
-
-
-
-Categories of personal data processed
-
-
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. You can read aboutthese activities in detail in the section titled “Detailed information on the processing of Persona Data” within thisdocument.
-
-
-
-Categories of personal data we collect
-
-
-
-We have collected the following categories of personal data: identifiers, commercial information, internet information, sensorialinformation, employment related information and inferred information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-
-
-Why we process your personal data
-
-
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing ofPersonal Data” and “The purposes of processing” within this document.
-
-
-
-How we use the data we collect: sharing of your personal data with third parties
-
-We share your personal data with the third parties listed in detail in the section titled “Detailed information on the processingof Personal Data” within this document. These third parties are grouped and categorized in accordance with the differentpurposes of processing.
-
-For our purposes, the word "third party" means "a person other than: the consumer, controller, or processor; or an affiliate orcontractor of the controller or the processor" as defined by the UCPA.
-
-
-
-Sale of your personal data
-
-
-
-We do not sell your personal data. In case we should decide to, we will inform you beforehand and will grant your right to opt outof such sale.
-
-For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other valuableconsideration by a controller to a third party" as defined by the UCPA.
-
-Please note that according to the UCPA, the disclosure of personal data to a processor that processes personal data on behalf of acontroller does not constitute a sale. In addition, other specific exceptions set forth in the UCPA may apply, such as, but notlimited to, the disclosure of personal data to a third party for the provision of a product or service requested by you.
-
-
-
-Processing of your personal data for targeted advertising
-
-
-
-We do not process your personal data for targeted advertising. If we decide to do so, we will inform you beforehand and willgrant your right to opt out of the processing of your personal data for targeted advertising.
-
-For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is selected based onpersonal data obtained or inferred over time from the consumer's activities across nonaffiliated websites, applications, or onlineservices to predict consumer preferences or interests" as defined by UCPA.
-
-Please note that according to the UCPA, targeted advertising does not include: “advertisements based on activities within acontroller's own websites or online applications or any affiliated website or online application; advertisements based on thecontext of a consumer's current search query, visit to an web site or online application; advertisements directed to a consumer inresponse to the consumer's request for information, product, a service or feedback; or processing personal data solely to measureor report advertising performance, reach or frequency.”
-
-
-
-Your privacy rights under the Utah Consumer Privacy Act and how to exercise them
-
-
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-access personal data. You have the right to request that we confirm whether or not we are processing your personal data.You also have the right to access such personal data.request the deletion of your personal data. You have the right to request that we delete any of your personal data.obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows you totransfer data easily to another entity – provided that this is technically feasible.opt out of the processing of your personal data for the purposes of targeted advertising or the sale of personal data.
-
-In any case, we will not increase the cost of, or decrease the availability of, a product or service, based solely on the exercise ofany of your rights and unrelated to the feasibility or the value of a service. However, to the extent permitted by the law, we mayoffer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee,if our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club cardprogram.
-
-
-
-How to exercise your rights
-
-
-
-To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided inthis document.
-
-For us to respond to your request, we need to know who you are and which right you wish to exercise.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and thereforeconfirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additionalinformation which is reasonably necessary to authenticate you and your request. We may retain your email address to respond toyour request.
-
-If you are an adult, you can make a request on behalf of a child under your parental authority.
-
-
-
-How and when we are expected to handle your request
-
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should weneed more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that wemay take up to 90 days to fulfill your request.
-
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and atthe latest within 45 days of receipt of the request.
-
-We do not charge a fee to respond to your request, for up to one request per year.
+We do not charge a fee to process or respond to your request unless such request is manifestly unfounded or excessive and in allother cases where it is permitted by the applicable law. In such cases, we may charge a reasonable fee or refuse to act on therequest. In either case, we will communicate our choices and explain the reasons behind them.
 
 Additional information about Data collection and processing
 
@@ -1526,101 +1246,25 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consentfrom the User, where required.
 
-Further information for Users in Brazil
-
-
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and isprovided by the entity running Blue Ocean Law Group and, if the case may be, its parent, subsidiaries and affiliates (for thepurposes of this section referred to collectively as “we”, “us”, “our”).This section applies to all Users in Brazil (Users are referred to below, simply as “you”, “your”, “yours”), according to the "LeiGeral de Proteção de Dados" (the "LGPD"), and for such Users, it supersedes any other possibly divergent or conflictinginformation contained in the privacy policy.This part of the document uses the term “personal information“ as it is defined in the LGPD.
-
-
-
-The grounds on which we process your personal information
-
-
-
-We can process your personal information solely if we have a legal basis for such processing. Legal bases are as follows:
-
-your consent to the relevant processing activities;compliance with a legal or regulatory obligation that lies with us;the carrying out of public policies provided in laws or regulations or based on contracts, agreements and similar legalinstruments;studies conducted by research entities, preferably carried out on anonymized personal information;the carrying out of a contract and its preliminary procedures, in cases where you are a party to said contract;the exercising of our rights in judicial, administrative or arbitration procedures;protection or physical safety of yourself or a third party;the protection of health – in procedures carried out by health entities or professionals;
-
-our legitimate interests, provided that your fundamental rights and liberties do not prevail over such interests; andcredit protection.
-
-To find out more about the legal bases, you can contact us at any time using the contact details provided in this document.
-
-
-
-Categories of personal information processed
-
-
-
-To find out what categories of your personal information are processed, you can read the section titled “Detailed information onthe processing of Personal Data” within this document.
-
-
-
-Why we process your personal information
-
-
-
-To find out why we process your personal information, you can read the sections titled “Detailed information on the processingof Personal Data” and “The purposes of processing” within this document.
-
-
-
-Your Brazilian privacy rights, how to file a request and our response to your requests
-
-
-
-Your Brazilian privacy rights
-
-
-
-You have the right to:
-
-obtain confirmation of the existence of processing activities on your personal information;access to your personal information;have incomplete, inaccurate or outdated personal information rectified;obtain the anonymization, blocking or elimination of your unnecessary or excessive personal information, or ofinformation that is not being processed in compliance with the LGPD;obtain information on the possibility to provide or deny your consent and the consequences thereof;obtain information about the third parties with whom we share your personal information;obtain, upon your express request, the portability of your personal information (except for anonymized information) toanother service or product provider, provided that our commercial and industrial secrets are safeguarded;obtain the deletion of your personal information being processed if the processing was based upon your consent, unless oneor more exceptions provided for in art. 16 of the LGPD apply;revoke your consent at any time;lodge a complaint related to your personal information with the ANPD (the National Data Protection Authority) or withconsumer protection bodies;oppose a processing activity in cases where the processing is not carried out in compliance with the provisions of the law;request clear and adequate information regarding the criteria and procedures used for an automated decision; andrequest the review of decisions made solely on the basis of the automated processing of your personal information, whichaffect your interests. These include decisions to define your personal, professional, consumer and credit profile, or aspectsof your personality.
-
-You will never be discriminated against, or otherwise suffer any sort of detriment, if you exercise your rights.
-
-
-
-How to file your request
-
-
-
-You can file your express request to exercise your rights free from any charge, at any time, by using the contact details providedin this document, or via your legal representative.
-
-
-
-How and when we will respond to your request
-
-
-
-We will strive to promptly respond to your requests.In any case, should it be impossible for us to do so, we’ll make sure to communicate to you the factual or legal reasons thatprevent us from immediately, or otherwise ever, complying with your requests. In cases where we are not processing yourpersonal information, we will indicate to you the physical or legal person to whom you should address your requests, if we are inthe position to do so.
-
-In the event that you file an access or personal information processing confirmation request, please make sure that you specifywhether you’d like your personal information to be delivered in electronic or printed form.You will also need to let us know whether you want us to answer your request immediately, in which case we will answer in asimplified fashion, or if you need a complete disclosure instead.In the latter case, we’ll respond within 15 days from the time of your request, providing you with all the information on the originof your personal information, confirmation on whether or not records exist, any criteria used for the processing and the purposesof the processing, while safeguarding our commercial and industrial secrets.
-
-In the event that you file a rectification, deletion, anonymization or personal information blocking request, we will make sureto immediately communicate your request to other parties with whom we have shared your personal information in order to
-
-enable such third parties to also comply with your request — except in cases where such communication is proven impossible orinvolves disproportionate effort on our side.
-
-
-
-Transfer of personal information outside of Brazil permitted by the law
-
-
-
-We are allowed to transfer your personal information outside of the Brazilian territory in the following cases:
-
-when the transfer is necessary for international legal cooperation between public intelligence, investigation and prosecutionbodies, according to the legal means provided by the international law;when the transfer is necessary to protect your life or physical security or those of a third party;when the transfer is authorized by the ANPD;when the transfer results from a commitment undertaken in an international cooperation agreement;when the transfer is necessary for the execution of a public policy or legal attribution of public service;when the transfer is necessary for compliance with a legal or regulatory obligation, the carrying out of a contract orpreliminary procedures related to a contract, or the regular exercise of rights in judicial, administrative or arbitrationprocedures.
-
 
 
 Definitions and legal references
 
 
 
-Personal Data (or Data)
+Personal Data (or Data) / Personal Information (or Information)
 
 
 
-Any information that directly, indirectly, or in connection with other information — including a personal identification number— allows for the identification or identifiability of a natural person.
+Any information that directly, indirectly, or in connection with other information — including a personal identification number —allows for the identification or identifiability of a natural person.
+
+
+
+Sensitive Personal Information
+
+
+
+Sensitive Personal Information means any Personal Information that is not publicly available and reveals information consideredsensitive according to the applicable privacy law.
 
 
 
@@ -1637,8 +1281,6 @@ User
 
 
 The individual using Blue Ocean Law Group who, unless otherwise specified, coincides with the Data Subject.
-
-
 
 Data Subject
 
@@ -1680,7 +1322,33 @@ The service provided by Blue Ocean Law Group as described in the relative terms 
 
 
 
+Sale
+
+
+
+Sale means any exchange of Personal Information by the Owner to a third party, for monetary or other valuableconsideration, as defined by the applicable privacy US state law. Please note that the exchange of Personal Information with aservice provider pursuant to a written contract that meets the requirements set by the applicable law, does not constitute a Sale ofyour Personal Information.
+
+
+
+Sharing
+
+
+
+Sharing means any sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwisecommunicating orally, in writing, or by electronic or other means, a consumer's Personal Information by the business to a thirdparty for cross-context behavioral advertising, whether for monetary or other valuable consideration, including transactionsbetween a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money isexchanged, as defined by the California privacy laws. Please note that the exchange of Personal Information with a serviceprovider pursuant to a written contract that meets the requirements set by the California privacy laws, does not constitute sharingof your Personal Information.
+
+
+
+Targeted advertising
+
+
+
+Targeted advertising means displaying advertisements to a consumer where the advertisement is selected based on PersonalInformation obtained from that consumer’s activities over time and across nonaffiliated websites or online applications to predictsuch consumer’s preferences or interests, as defined by the applicable privacy US state law.
+
+
+
 European Union (or EU)
+
+
 
 Unless otherwise specified, all references made within this document to the European Union include all current member states tothe European Union and the European Economic Area.
 
