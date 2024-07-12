@@ -4,7 +4,7 @@
 * [Sweeps](https://bestdayeversweeps.com/sweeps/)
 * [News](https://bestdayeversweeps.com/news/)
 * [Contests](https://bestdayeversweeps.com/contests/)
-* [Sign Up](https://bestdayeversweeps.com/sign-up/)
+* [Sign Up for Alerts](https://bestdayeversweeps.com/alerts-sign-up/)
 
 Select Page
 
@@ -80,7 +80,7 @@ Should any part of this Agreement be held invalid or unenforceable, that portion
 
 If you have any questions, please email [\[email protected\]](https://bestdayeversweeps.com/cdn-cgi/l/email-protection) or write to BestDayEverSweeps, 15015 Westheimer Pkwy Suite I-2-176 Houston, TX 77082.
 
-[Rules](https://bestdayeversweeps.com/rules) | [Terms and Conditions](https://bestdayeversweeps.com/terms-conditions) | [Privacy Policy](https://bestdayeversweeps.com/privacy-policy) | [Privacy Notice](https://bestdayeversweeps.com/privacy-notice) | [How It Works](https://bestdayeversweeps.com/How-it-works) | [Accessibility Notice](https://bestdayeversweeps.com/accessibility-notice) | [Do Not Sell or Share My Information](https://bestdayeversweeps.com/do-not-sell-my-information) | [Unsubscribe](https://www.bestdayeversweeps.com/unsub.aspx)  
+[Rules](https://bestdayeversweeps.com/rules) | [Terms and Conditions](https://bestdayeversweeps.com/terms-conditions) | [Privacy Policy](https://bestdayeversweeps.com/privacy-policy) | [SMS Privacy Policy](https://bestdayeversweeps.com/sms-program-privacy-policy/) | [SMS Terms and Conditions](https://bestdayeversweeps.com/sms-program-terms-and-conditions) | [How It Works](https://bestdayeversweeps.com/How-it-works) | [Accessibility Notice](https://bestdayeversweeps.com/accessibility-notice) | [Do Not Sell or Share My Information](https://bestdayeversweeps.com/do-not-sell-my-information) | [Unsubscribe](https://www.bestdayeversweeps.com/unsub.aspx)  
 
 Copyright © C4R Media Corp. All Rights Reserved
 
