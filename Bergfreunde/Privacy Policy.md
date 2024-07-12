@@ -10,13 +10,13 @@ Bergfreund Hannes
 
 Ein Kundenkonto bietet Dir viele Vorteile:
 
-Bestellstatus & -historie einsehen
+5€ Willkommensrabatt \*\*
 
-Sendungsverfolgung
+Exklusiver Zugang zu Rabattaktionen
 
-Persönlicher Merkzettel
+Schneller bestellen
 
-5 € Gutschein bei Anmeldung zum Newsletter
+Speichere Produkte auf Deinem Merkzettel
 
 [Noch kein Konto? loader](https://www.bergfreunde.de/konto-eroeffnen/ "Noch kein Konto?")
 
@@ -65,17 +65,13 @@ Portofrei ab € 69 (Deutschland) Finde mehr Info zu den Versandkosten hier! Öf
 
 [100 Tage Rückgaberecht Gehe hier zu den Rückgabe-Richtlinien Öffnet sich in einer Infobox](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
- [![](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-small.png) 4.86 von 5 Sternen bei Trusted Shops Finde alle Infos hier!](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+ [![](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-small.png) 4.87 von 5 Sternen bei Trusted Shops Finde alle Infos hier!](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 Portofrei ab € 69 (DE)
 
 100 Tage Rückgaberecht
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
-
-[Midsummer-Deals | Bis zu 50 % Rabatt](https://www.bergfreunde.de/p/midsummer-deal/?listorderby=bfdiscountpercent&listorder=desc)
-
-Midsummer-Deals | Bis zu 50 % Rabatt  »
 
 Menü
 
@@ -299,7 +295,7 @@ Menü
         * [Fahrradschlösser](https://www.bergfreunde.de/fahrradschloesser/ "Fahrradschlösser anzeigen")
         * [Fahrradcomputer](https://www.bergfreunde.de/fahrradcomputer/ "Fahrradcomputer anzeigen")
         * [Fahrradanhänger](https://www.bergfreunde.de/fahrradanhaenger/ "Fahrradanhänger anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/fahrradzubehoer/ "Fahrradzubehör anzeigen' anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/fahrradzubehoer/ "Fahrradzubehör anzeigen")
     * [Fahrradteile](https://www.bergfreunde.de/fahrradteile/ "Fahrradteile anzeigen")
         * [Fahrradpedale](https://www.bergfreunde.de/fahrradpedale/ "Fahrradpedale anzeigen")
         * [Fahrradsättel](https://www.bergfreunde.de/fahrradsaettel/ "Fahrradsättel anzeigen")
@@ -389,22 +385,22 @@ Menü
     
 * [Winter](https://www.bergfreunde.de/winterausruestung/)
     
-    * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
+    * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
         * [Skijacken](https://www.bergfreunde.de/skijacken/ "Skijacken anzeigen")
         * [Skihosen](https://www.bergfreunde.de/skihosen/ "Skihosen anzeigen")
         * [Skiunterwäsche](https://www.bergfreunde.de/skiunterwaesche/ "Skiunterwäsche anzeigen")
         * [Skisocken](https://www.bergfreunde.de/skisocken/ "Skisocken anzeigen")
-        * [Skihandschuhe](https://www.bergfreunde.de/handschuhe/einsatzbereich--/ "Skihandschuhe anzeigen")
-        * [Skipullover](https://www.bergfreunde.de/pullover-hoodies/einsatzbereich--/ "Skipullover anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
-    * [Winterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]= "Winterbekleidung anzeigen")
+        * [Skihandschuhe](https://www.bergfreunde.de/handschuhe/einsatzbereich--ski/ "Skihandschuhe anzeigen")
+        * [Skipullover](https://www.bergfreunde.de/pullover-hoodies/einsatzbereich--ski/ "Skipullover anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
+    * [Winterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]=expedition "Winterbekleidung anzeigen")
         * [Winterjacken](https://www.bergfreunde.de/winterjacken/ "Winterjacken anzeigen")
         * [Daunenjacken](https://www.bergfreunde.de/daunenjacken/ "Daunenjacken anzeigen")
         * [Winterhosen](https://www.bergfreunde.de/winterhosen/ "Winterhosen anzeigen")
         * [Merinounterwäsche](https://www.bergfreunde.de/merinounterwaesche/ "Merinounterwäsche anzeigen")
         * [Merinosocken](https://www.bergfreunde.de/merinosocken/ "Merinosocken anzeigen")
         * [Handschuhe](https://www.bergfreunde.de/handschuhe/ "Handschuhe anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]= "Winterbekleidung anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/?bfc-einsatzbereich[]=snowboard&bfc-einsatzbereich[]=langlauf&bfc-einsatzbereich[]=eisklettern&bfc-einsatzbereich[]=expedition "Winterbekleidung anzeigen")
     * [Ski-Ausrüstung](https://www.bergfreunde.de/ski-ausruestung/ "Ski-Ausrüstung anzeigen")
         * [Skihelme](https://www.bergfreunde.de/skihelme/ "Skihelme anzeigen")
         * [Skibrillen](https://www.bergfreunde.de/skibrillen/ "Skibrillen anzeigen")
@@ -445,77 +441,77 @@ Menü
         * [Wandersocken](https://www.bergfreunde.de/wandersocken/ "Wandersocken anzeigen")
         * [Wanderrucksäcke](https://www.bergfreunde.de/wanderrucksaecke/ "Wanderrucksäcke anzeigen")
         * [Wanderstöcke](https://www.bergfreunde.de/trekkingstoecke/ "Wanderstöcke anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/wandern/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/wandern/ "Wandern anzeigen")
     * [Bike](https://www.bergfreunde.de/fahrrad/ "Bike anzeigen")
         * [Fahrradbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--bike/ "Fahrradbekleidung anzeigen")
         * [Fahrradschuhe](https://www.bergfreunde.de/fahrradschuhe/ "Fahrradschuhe anzeigen")
         * [Fahrradhelme](https://www.bergfreunde.de/fahrradhelme/ "Fahrradhelme anzeigen")
         * [Fahrradbrillen](https://www.bergfreunde.de/fahrradbrillen/ "Fahrradbrillen anzeigen")
         * [Fahrradzubehör](https://www.bergfreunde.de/fahrradzubehoer/ "Fahrradzubehör anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/fahrrad/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/fahrrad/ "Bike anzeigen")
     * [Klettern & Bouldern](https://www.bergfreunde.de/klettern-bouldern/ "Klettern & Bouldern anzeigen")
         * [Kletterbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--klettern/ "Kletterbekleidung anzeigen")
         * [Kletterschuhe](https://www.bergfreunde.de/kletterschuhe/ "Kletterschuhe anzeigen")
         * [Klettergurte](https://www.bergfreunde.de/klettergurte/ "Klettergurte anzeigen")
         * [Karabiner & Express-Sets](https://www.bergfreunde.de/karabiner-express-sets/ "Karabiner & Express-Sets anzeigen")
         * [Kletter- & Boulderzubehör](https://www.bergfreunde.de/kletter-boulderzubehoer/ "Kletter- & Boulderzubehör anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/klettern-bouldern/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/klettern-bouldern/ "Klettern & Bouldern anzeigen")
     * [Running](https://www.bergfreunde.de/running/ "Running anzeigen")
         * [Laufbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--running/ "Laufbekleidung anzeigen")
         * [Laufschuhe](https://www.bergfreunde.de/laufschuhe/ "Laufschuhe anzeigen")
         * [Trailrunningschuhe](https://www.bergfreunde.de/trailrunningschuhe/ "Trailrunningschuhe anzeigen")
         * [Laufausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--running/ "Laufausrüstung anzeigen")
         * [Pulsuhren](https://www.bergfreunde.de/uhren/einsatzbereich--running/ "Pulsuhren anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/running/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/running/ "Running anzeigen")
     * [Wintersport](https://www.bergfreunde.de/wintersport/ "Wintersport anzeigen")
-        * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--/ "Skibekleidung anzeigen")
+        * [Skibekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--ski/ "Skibekleidung anzeigen")
         * [Ski-Ausrüstung](https://www.bergfreunde.de/ski-ausruestung/ "Ski-Ausrüstung anzeigen")
         * [Winterschuhe](https://www.bergfreunde.de/winterschuhe/ "Winterschuhe anzeigen")
         * [Schneeschuhe](https://www.bergfreunde.de/schneeschuhe/ "Schneeschuhe anzeigen")
         * [Lawinenrucksäcke](https://www.bergfreunde.de/lawinenrucksaecke/ "Lawinenrucksäcke anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/wintersport/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/wintersport/ "Wintersport anzeigen")
     * [Camping & Reisen](https://www.bergfreunde.de/camping/ "Camping & Reisen anzeigen")
         * [Zelte](https://www.bergfreunde.de/zelte/ "Zelte anzeigen")
         * [Outdoor-Küche](https://www.bergfreunde.de/kochen-verpflegung/ "Outdoor-Küche anzeigen")
         * [Campingstühle](https://www.bergfreunde.de/campingstuehle/ "Campingstühle anzeigen")
         * [Kulturbeutel](https://www.bergfreunde.de/kulturbeutel/ "Kulturbeutel anzeigen")
         * [Reisetaschen](https://www.bergfreunde.de/reisetaschen/ "Reisetaschen anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/camping/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/camping/ "Camping & Reisen anzeigen")
     * [Urban Outdoor](https://www.bergfreunde.de/urban-outdoor/ "Urban Outdoor anzeigen")
         * [Alltagsbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--freizeit/ "Alltagsbekleidung anzeigen")
         * [Freizeitschuhe](https://www.bergfreunde.de/outdoor-schuhe/einsatzbereich--freizeit/ "Freizeitschuhe anzeigen")
         * [Daypacks](https://www.bergfreunde.de/daypacks/ "Daypacks anzeigen")
         * [Freizeitjacken](https://www.bergfreunde.de/freizeitjacken/ "Freizeitjacken anzeigen")
         * [Caps](https://www.bergfreunde.de/caps/ "Caps anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/urban-outdoor/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/urban-outdoor/ "Urban Outdoor anzeigen")
     * [Hochtouren & Expedition](https://www.bergfreunde.de/hochtouren/ "Hochtouren & Expedition anzeigen")
         * [Hochtourenbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--hochtouren/ "Hochtourenbekleidung anzeigen")
         * [Hochtouren- & Gletscherschuhe](https://www.bergfreunde.de/outdoor-schuhe/einsatzbereich--hochtouren/ "Hochtouren- & Gletscherschuhe anzeigen")
         * [Hochtourenausrüstung](https://www.bergfreunde.de/hochtouren-eisklettern/ "Hochtourenausrüstung anzeigen")
         * [Steigeisen](https://www.bergfreunde.de/steigeisen/ "Steigeisen anzeigen")
         * [Outdoor Lebensmittel](https://www.bergfreunde.de/outdoor-lebensmittel/ "Outdoor Lebensmittel anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/hochtouren/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/hochtouren/ "Hochtouren & Expedition anzeigen")
     * [Trekking](https://www.bergfreunde.de/trekking/ "Trekking anzeigen")
         * [Trekkingbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--trekking/ "Trekkingbekleidung anzeigen")
         * [Trekkingschuhe](https://www.bergfreunde.de/wanderschuhe/ "Trekkingschuhe anzeigen")
         * [Trekkingausrüstung](https://www.bergfreunde.de/outdoor-ausruestung/einsatzbereich--trekking/ "Trekkingausrüstung anzeigen")
         * [Trekkingzelte](https://www.bergfreunde.de/zelte/einsatzbereich--trekking/ "Trekkingzelte anzeigen")
         * [Riegel](https://www.bergfreunde.de/riegel/ "Riegel anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/trekking/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/trekking/ "Trekking anzeigen")
     * [Fitness & Yoga](https://www.bergfreunde.de/fitness/ "Fitness & Yoga anzeigen")
         * [Fitnessbekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--fitness/ "Fitnessbekleidung anzeigen")
         * [Fitnessschuhe](https://www.bergfreunde.de/outdoor-schuhe/einsatzbereich--fitness/ "Fitnessschuhe anzeigen")
         * [Yogabekleidung](https://www.bergfreunde.de/outdoor-bekleidung/einsatzbereich--yoga/ "Yogabekleidung anzeigen")
         * [Fitness-Ausrüstung](https://www.bergfreunde.de/yoga-training/ "Fitness-Ausrüstung anzeigen")
         * [Trinkflaschen](https://www.bergfreunde.de/trinkflaschen/ "Trinkflaschen anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/fitness/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/fitness/ "Fitness & Yoga anzeigen")
     * [Wassersport](https://www.bergfreunde.de/schwimmen-wassersport/ "Wassersport anzeigen")
         * [Bademode](https://www.bergfreunde.de/bademode/ "Bademode anzeigen")
         * [Wassersportschuhe](https://www.bergfreunde.de/wassersportschuhe/ "Wassersportschuhe anzeigen")
         * [Packsäcke](https://www.bergfreunde.de/packsaecke/ "Packsäcke anzeigen")
         * [Wassersport-Ausrüstung](https://www.bergfreunde.de/wassersport/ "Wassersport-Ausrüstung anzeigen")
         * [Schwimm- & Strandzubehör](https://www.bergfreunde.de/schwimm-strandzubehoer/ "Schwimm- & Strandzubehör anzeigen")
-        * [» Alles anzeigen](https://www.bergfreunde.de/schwimmen-wassersport/ "» Alles anzeigen")
+        * [» Alles anzeigen](https://www.bergfreunde.de/schwimmen-wassersport/ "Wassersport anzeigen")
     
 * [Marken](https://www.bergfreunde.de/marken/ "Alle Outdoor Marken & Hersteller anzeigen")
     
@@ -524,23 +520,23 @@ Menü
         * [Vaude](https://www.bergfreunde.de/marken/vaude/ "Marken-Shop von 'Vaude' anzeigen")
         * [Jack Wolfskin](https://www.bergfreunde.de/marken/jack-wolfskin/ "Marken-Shop von 'Jack Wolfskin' anzeigen")
         * [The North Face](https://www.bergfreunde.de/marken/the-north-face/ "Marken-Shop von 'The North Face' anzeigen")
-        * [Salewa](https://www.bergfreunde.de/marken/salewa/ "Marken-Shop von 'Salewa' anzeigen")
         * [Patagonia](https://www.bergfreunde.de/marken/patagonia/ "Marken-Shop von 'Patagonia' anzeigen")
-        * [Haglöfs](https://www.bergfreunde.de/marken/hagloefs/ "Marken-Shop von 'Haglöfs' anzeigen")
-    * * [Dynafit](https://www.bergfreunde.de/marken/dynafit/ "Marken-Shop von 'Dynafit' anzeigen")
-        * [Arc'teryx](https://www.bergfreunde.de/marken/arcteryx/ "Marken-Shop von 'Arc'teryx' anzeigen")
         * [Didriksons](https://www.bergfreunde.de/marken/didriksons/ "Marken-Shop von 'Didriksons' anzeigen")
-        * [Columbia](https://www.bergfreunde.de/marken/columbia/ "Marken-Shop von 'Columbia' anzeigen")
-        * [HOKA](https://www.bergfreunde.de/marken/hoka/ "Marken-Shop von 'HOKA' anzeigen")
-        * [La Sportiva](https://www.bergfreunde.de/marken/la-sportiva/ "Marken-Shop von 'La Sportiva' anzeigen")
-        * [Mammut](https://www.bergfreunde.de/marken/mammut/ "Marken-Shop von 'Mammut' anzeigen")
-    * * [Gore-Tex](https://www.bergfreunde.de/marken/gore-tex/ "Marken-Shop von 'Gore-Tex' anzeigen")
+        * [Scarpa](https://www.bergfreunde.de/marken/scarpa/ "Marken-Shop von 'Scarpa' anzeigen")
+    * * [Salomon](https://www.bergfreunde.de/marken/salomon/ "Marken-Shop von 'Salomon' anzeigen")
+        * [Arc'teryx](https://www.bergfreunde.de/marken/arcteryx/ "Marken-Shop von 'Arc'teryx' anzeigen")
+        * [Mountain Equipment](https://www.bergfreunde.de/marken/mountain-equipment/ "Marken-Shop von 'Mountain Equipment' anzeigen")
+        * [super.natural](https://www.bergfreunde.de/marken/supernatural/ "Marken-Shop von 'super.natural' anzeigen")
         * [Icebreaker](https://www.bergfreunde.de/marken/icebreaker/ "Marken-Shop von 'Icebreaker' anzeigen")
+        * [Hestra](https://www.bergfreunde.de/marken/hestra/ "Marken-Shop von 'Hestra' anzeigen")
+        * [La Sportiva](https://www.bergfreunde.de/marken/la-sportiva/ "Marken-Shop von 'La Sportiva' anzeigen")
+    * * [On](https://www.bergfreunde.de/marken/on/ "Marken-Shop von 'On' anzeigen")
+        * [Gore-Tex](https://www.bergfreunde.de/marken/gore-tex/ "Marken-Shop von 'Gore-Tex' anzeigen")
         * [Deuter](https://www.bergfreunde.de/marken/deuter/ "Marken-Shop von 'Deuter' anzeigen")
+        * [Mammut](https://www.bergfreunde.de/marken/mammut/ "Marken-Shop von 'Mammut' anzeigen")
         * [Stoic](https://www.bergfreunde.de/marken/stoic/ "Marken-Shop von 'Stoic' anzeigen")
         * [Heber Peak](https://www.bergfreunde.de/marken/heber-peak/ "Marken-Shop von 'Heber Peak' anzeigen")
         * [E9](https://www.bergfreunde.de/marken/e9/ "Marken-Shop von 'E9' anzeigen")
-        * [Grivel](https://www.bergfreunde.de/marken/grivel/ "Marken-Shop von 'Grivel' anzeigen")
     * Highlights
         * * [![Marken-Shop von 'Mammut' anzeigen](https://www.bergfreunde.de/out/pictures/generated/manufacturer/iconsw/80_60_90/mammut-logo-sw.png)](https://www.bergfreunde.de/marken/mammut/ "Marken-Shop von 'Mammut' anzeigen")
             * [![Marken-Shop von 'Patagonia' anzeigen](https://www.bergfreunde.de/out/pictures/generated/manufacturer/iconsw/80_60_90/patagonia-sw-logo.png)](https://www.bergfreunde.de/marken/patagonia/ "Marken-Shop von 'Patagonia' anzeigen")
@@ -602,6 +598,7 @@ Rechtliches
 
 * [Impressum](https://www.bergfreunde.de/impressum/ "Impressum anzeigen")
 * [AGB](https://www.bergfreunde.de/agb/ "AGB anzeigen")
+* [AGB Kundenkonto](https://www.bergfreunde.de/agb-kundenkonto/ "AGB Kundenkonto anzeigen")
 * [Widerruf / Kundeninformationen](https://www.bergfreunde.de/kundeninformationen/ "Widerruf / Kundeninformationen anzeigen")
 * [Datenschutz](https://www.bergfreunde.de/datenschutz/ "Datenschutz anzeigen")
 * [Hinweisgeberstelle](https://www.bergfreunde.de/hinweisgeberstelle/ "Hinweisgeberstelle anzeigen")
@@ -637,11 +634,15 @@ Bewerberdaten: Unter dem Link „Jobs“ können Sie sich bei uns bewerben. In d
 
 ### 2.1 Ihr Kundenkonto
 
-Auf unserer Internetseite bieten wir Nutzern die Möglichkeit, sich unter Angabe personenbezogener Daten zu registrieren. Die Daten werden dabei in eine Eingabemaske eingegeben und an uns übermittelt und gespeichert. Eine Weitergabe der Daten an Dritte findet nicht statt. Im Zeitpunkt der Registrierung werden zudem ihre aktuelle IP-Adresse sowie Datum und Uhrzeit der Registrierung erfasst. Im Rahmen des Registrierungsprozesses wird Ihre Einwilligung zur Verarbeitung dieser Daten eingeholt. Die Einrichtung eines Kundenkontos ist zur Durchführung einer Bestellung jedoch nicht zwingend erforderlich. Es besteht ebenso die Möglichkeit, Bestellungen über die „Gast- Funktion“ durchzuführen.
+Auf unserer Internetseite bieten wir Ihnen die Möglichkeit, sich unter Angabe Ihres Vornamens und ihrer Emailadresse zu registrieren. Die Daten werden dabei in eine Eingabemaske eingegeben, an uns übermittelt und gespeichert. Im Zeitpunkt der Registrierung werden zudem Ihre aktuelle IP-Adresse sowie Datum und Uhrzeit der Registrierung erfasst. Im Rahmen des Registrierungsprozesses wird Ihre Einwilligung zur Verarbeitung dieser Daten eingeholt. Im Kundenkonto stehen Ihnen verschiedene Funktionen und Services zur Verfügung. Die Einrichtung eines Kundenkontos ist zur Durchführung einer Bestellung jedoch nicht zwingend erforderlich. Es besteht ebenso die Möglichkeit, Bestellungen über die „Gast-Funktion“ durchzuführen.
 
-Wenn Sie sich für ein persönliches Kundenkonto registrieren, verarbeiten wir die Registrierungsdaten zur Einrichtung und Verwaltung Ihres Kundenkontos sowie für die Abwicklung künftiger Bestellungen. Als registrierter Kunde haben Sie (mittels Ihrer E-Mail-Adresse und des von Ihnen selbst gewählten Passworts) Zugang zu Ihrem persönlichen Kundenkonto, in dem Sie u.a. Ihre Bestellhistorie einsehen und Ihre persönlichen Einstellungen (z.B. Passworteinstellungen, Newslettereinstellungen, Rechnungs- und Liefereinstellungen) speichern und ändern können. Darüber hinaus können Sie Produkte unseres Angebots bewerten, öffentlich Fragen zu Produkten stellen oder diese öffentlich kommentieren. Für diese Funktionen gelten die AGB unserer Produktbewertungen.
+Wenn Sie sich für ein persönliches Kundenkonto registrieren, verarbeiten wir die dabei angegebenen Registrierungsdaten zur Einrichtung und Verwaltung Ihres Kundenkontos, sowie für die Abwicklung künftiger Bestellungen. Als registrierter Kunde haben Sie (mittels Ihrer E-Mail-Adresse und des von Ihnen selbst gewählten Passworts) Zugang zu Ihrem persönlichen Kundenkonto und können auf die dort zur Verfügung gestellten Funktionen und Dienste zugreifen. So können Sie u.a. in Ihre Bestellhistorie einsehen und Ihre persönlichen Einstellungen (z.B. Passworteinstellungen, Newslettereinstellungen, Rechnungs- und Liefereinstellungen) speichern und ändern. Darüber hinaus können Sie Produkte unseres Angebots bewerten, öffentlich Fragen zu Produkten stellen oder diese öffentlich kommentieren. Weitere Informationen hierzu finden in unseren unter Punkt 2.2. ff. nachfolgenden Datenschutzhinweisen. Weiterhin finden unsere [Allgemeinen Nutzungsbedingungen für das Bergfreunde-Kundenkonto](https://www.bergfreunde.de/agb-kundenkonto/ "Allgemeinen Nutzungsbedingungen für das Bergfreunde-Kundenkonto") Anwendung.
 
-Rechtsgrundlage für die Verarbeitung ist unser berechtigtes Interesse nach Art. 6 (1) lit. f DSGVO, den oben beschriebenen Dienst "Kundenkonto" für Sie zu erbringen bzw. die Durchführung eines Nutzungsvertrags mit Ihnen (Art. 6 (1) lit. b DSGVO).
+Als registrierter Kunde verwenden wir Ihre unter Ziffer 2.6.1. aufgeführten Daten, um ihnen auf sie zugeschnittene Angebote und Produktempfehlungen anzubieten. Hierzu erhalten sie von uns regelmäßig E-Mail- und Postnachrichten (“Werbung”). Näheres zum Thema Werbung finden Sie unter Punkt. 2.6.
+
+Um unsere werblichen Informationen personalisiert auf ihre Interessen abzustimmen und ihnen im Rahmen unserer Google Ads und Facebook Werbeaktivitäten möglichst relevante Informationen anzuzeigen, übermitteln wir mit ihrer gesonderten ausdrücklichen Einwilligung zudem ihre pseudonymisierte E-Mail-Adresse an Google Ads und Facebook, um ihnen individuelle Angebote zu unterbreiten (“Customer-Match”). Wenn sie nicht bei Google oder Facebook registriert sind, werden ihre Daten nicht übermittelt und die Anbieter können nicht auf ihre Daten zugreifen. Weitere Informationen finden sie unten in unseren Hinweisen zur Anwendung von Google Ads (Punkt 4.2.5.) und in unseren Hinweisen zur Facebook- Fanpage (Punkt 5.2.)
+
+Rechtsgrundlage für die Verarbeitung Ihrer Daten bei Eröffnung eines Kundenkontos ist zum einen unser berechtigtes Interesse nach Art. 6 (1) lit. f DSGVO unsere Dienste und Serviceleistungen innerhalb des Kundenkontos für Sie zu erbringen. Dient die Eröffnung und Nutzung des Kundenkontos zudem der Begründung und Erfüllung eines Vertragsverhältnisses, ist die Rechtsgrundlage zudem Art. 6 (1) lit. b DSGVO. Die Verarbeitung Ihrer Daten zu Werbezwecke erfolgt auf Grundlage ihrer ausdrücklichen Einwilligung nach Art. 6 (1) lit. a DSGVO.
 
 Diese Daten werden gelöscht, wenn die Registrierung auf unserer Webseite bzw. das Kundenkonto aufgehoben oder abgeändert wird. Auch nach Abschluss des Vertrages und Löschung des Kundenkontos kann es im Übrigen erforderlich sein, Ihre personenbezogenen Daten zu speichern, um unseren vertraglichen oder gesetzlichen Verpflichtungen nachzukommen. In diesem Fall werden die Daten unverzüglich nach Ablauf der gesetzlichen Aufbewahrungsfristen gelöscht.
 
@@ -701,23 +702,23 @@ Wir verarbeiten in einer Kundendatenbank folgende personenbezogenen Daten, die w
 
 Diese Daten verarbeiten wir einmal, um unsere werblichen Informationen personalisiert auf Ihre Interessen abzustimmen, d.h. um Ihnen möglichst relevante Informationen anzuzeigen, die Ihren Interessen entsprechen, sowie Ihnen darauf abgestimmte individuelle Angebote zu unterbreiten.
 
-Die derart verarbeiteten Daten nutzen wir außerdem, um mehr über die Nachfrage nach unseren Angeboten und Dienstleistungen sowie die Art und Weise der Nutzung unserer Webseite und unserer Newsletter zu lernen und um unsere Angebote und Dienstleistungen zu verbessern (Produktentwicklung). Dabei erfolgt die Nutzung Ihrer Serverlog-Daten für alle Nutzer bis zu Ihrem Widerspruch grundsätzlich für diesen Zweck nicht personenbezogen und verknüpft mit den anderen Daten, sondern lediglich pseudonymisiert; eine personenbezogene Nutzung der Serverlog-Daten erfolgt, sofern Sie uns dazu eine Einwilligung im Rahmen der Einwilligung zu Cookies erteilt haben.
+Die derart verarbeiteten Daten nutzen wir außerdem, um mehr über die Nachfrage nach unseren Angeboten und Dienstleistungen sowie die Art und Weise der Nutzung unserer Webseite und unserer Werbemails zu lernen und um unsere Angebote und Dienstleistungen zu verbessern (Produktentwicklung). Dabei erfolgt die Nutzung Ihrer Serverlog-Daten für alle Nutzer bis zu Ihrem Widerspruch grundsätzlich für diesen Zweck nicht personenbezogen und verknüpft mit den anderen Daten, sondern lediglich pseudonymisiert; eine personenbezogene Nutzung der Serverlog-Daten erfolgt, sofern Sie uns dazu eine Einwilligung im Rahmen der Einwilligung zu Cookies erteilt haben.
 
 Sofern wir zum Betrieb der Datenbank und der Analyse technische Dienstleister einschalten, haben diese keinen Zugriff auf personalisierte Daten, sondern allenfalls auf pseudonyme Daten.
 
 Rechtsgrundlage für die Verarbeitung sind bezogen auf die Nutzungsdaten Ihre Einwilligung (Art. 6 (1) lit. a DSGVO) und bezogen auf die Stammdaten und Bestelldaten sowie die Nutzung der Daten zur Produktentwicklung unsere berechtigten Interessen (Art. 6 (1) lit. f DSGVO). Sie können der Verarbeitung für Zwecke der Werbung und Produktentwicklung jederzeit widersprechen (zur Umsetzung des Widerspruchs siehe Ziffer 2.6.6).
 
-#### 2.6.2 E-Mail-Newsletter
+#### 2.6.2 E-Mail-Werbung
 
-Auf Basis einer ausdrücklichen Einwilligung können Sie unseren kostenfreien E-Mail-Newsletter, bestehend aus unserem Bergfreunde-Newsletter (mit Produktinformationen und Aktionen wie Gewinnspielen etc.) und Bergfreunde-Deals (besondere Angebote für ein Produkt) auf unserer Webseite abonnieren. Mit unserem E-Mail-Newsletter informieren wir Sie regelmäßig über alle Bereiche unseres Angebots. Um den E-Mail-Newsletter möglichst gut auf Ihre Interessen anzupassen, bieten wir bei Anmeldung die Auswahl, E-Mail-Newsletter mit Produktinformationen überwiegend für Männer oder für Frauen zu erhalten. Zudem verarbeiten wir dazu (a) die bei der Anmeldung von Ihnen erhobenen Daten (die als Pflichtfelder angezeigten Daten sind für den Erhalt zwingend erforderlich, freiwillig gekennzeichnete Daten dienen der persönlicheren Ansprache), (b) von Ihnen auf freiwilliger Basis ggfs. ausgewählte Interessen, (c) Daten über Ihr Nutzungsverhalten, nachdem wir Ihnen E-Mails zugeschickt haben (z.B. Klickverhalten), sowie (d) die Angaben aus unserer Kundendatenbank (vgl. Ziffer 2.6.1). Das Abonnement kann über die Newslettereinstellungen, die in jedem E-Mail-Newsletter verlinkt sind, verwaltet werden.
+Als registrierter Inhaber eines Kundenkontos (Ziff. 2.1.) erhalten Sie auf Basis Ihrer ausdrücklich erteilten Einwilligung Emailwerbung, in Form von Produktinformationen und Aktionen wie Gewinnspielen etc. und Bergfreunde-Deals (besondere Angebote für ein Produkt). Unabhängig vom Bestehen eines Kundenkontos haben Sie zudem die Möglichkeit, unseren Newsletter-Service zu abonnieren.
 
-Ihre Anmeldung zum E-Mail-Newsletter wird mit Ihrer Bestätigung wirksam; dafür müssen Sie einen Link betätigen, den wir Ihnen in unserer Bestätigungsemail zusenden. Der Bestätigungslink führt zu den Newslettereinstellungen, die für jeden Abonnenten angelegt werden. Wenn Sie nichts weiter tun, erhalten Sie zukünftig die Bergfreunde-Newsletter und Bergfreunde-Deals. Sie können dort außerdem freiwillige Angaben ergänzen (dienen der Individualisierung), auswählen, ob man nur Bergfreunde-Newsletter oder Bergfreunde-Deals möchte sowie Interessen für bestimmte Produktkategorien markieren. Sie können dem Erhalt unseres Newsletters jederzeit widersprechen (zur Umsetzung des Widerspruchs siehe Ziffer 2.6.6). Rechtsgrundlage für die Verarbeitung sind Ihre Einwilligung (Art. 6 (1) lit. a DSGVO) in Verbindung mit § 7 Abs. 2 UWG.
+Mit unseren Werbemails informieren wir Sie regelmäßig über alle Bereiche unseres Angebots. Um den E-Mailinhalt möglichst gut auf Ihre Interessen anzupassen, bieten wir innerhalb des Kundenkontos die Auswahl, E-Mail-Werbung mit Produktinformationen überwiegend für Männer oder für Frauen zu erhalten. Zudem verarbeiten wir dazu (a) die bei der Anmeldung von Ihnen erhobenen Daten (die als Pflichtfelder angezeigten Daten sind für den Erhalt zwingend erforderlich, freiwillig gekennzeichnete Daten dienen der persönlicheren Ansprache), (b) von Ihnen auf freiwilliger Basis ggfs. ausgewählte Interessen, (c) Daten über Ihr Nutzungsverhalten, nachdem wir Ihnen E-Mails zugeschickt haben (z.B. Klickverhalten), sowie (d) die Angaben aus unserer Kundendatenbank (vgl. Ziffer 2.6.1). Das Abonnement kann über das Kundenkonto sowie über die Werbemail-Einstellungen, die in jeder Werbeemail verlinkt sind, verwaltet werden.
 
-Rechtsgrundlage für die Verarbeitung sind Ihre Einwilligung (Art. 6 (1) lit. a DSGVO) in Verbindung mit § 7 Abs. 2 UWG.
+Ihre Anmeldung zur E-Mail-Werbung wird mit Ihrer Bestätigung wirksam; dafür müssen Sie einen Link betätigen, den wir Ihnen bei Registrierung Ihres Kundenkontos oder bei Anmeldung zum Newsletter in unserer Bestätigungsemail zusenden. Sie können Ihrer zum Erhalt unseres Newsletters erteilte Einwilligung jederzeit widerrufen (zur Umsetzung des Widerrufs siehe Ziffer 2.6.6).
 
-#### 2.6.3 Service-Mails
+Rechtsgrundlage für die Verarbeitung ist Ihre Einwilligung (Art. 6 (1) lit. a DSGVO) in Verbindung mit § 7 Abs. 2 UWG.
 
-Ohne gesonderte Einwilligung zu unserem E-Mail-Newsletter kontaktieren wir Kunden, die einen Kauf getätigt haben, individuell per E-Mail mit Service-Mails, die auf den Kunden und seine Bestellungen zugeschnittene Serviceinformationen wie Pflegeanleitungen, Herstellerinformationen oder seinen Bestellungen ähnliche Angebote sowie Kunden-Zufriedenheitsbefragungen enthalten. Die Kunden-Zufriedenheitsumfragen bzw. –Bewertungen können von uns angefragt werden bzw. von der Trusted Shops GmbH in unserem Auftrag im Rahmen unseres Trustbadges (siehe Ziffer 3.2.2). Die Service-Mails schicken wir, jedoch nur dann und soweit (a) wir Ihre E-Mail-Adresse im Zusammenhang mit dem Verkauf einer Ware oder Dienstleistung von Ihnen erhalten haben, (b) wir diese E-Mail-Adresse für Direktwerbung für eigene ähnliche Waren oder Dienstleitungen nutzen, und (c) Sie dem Erhalt nicht widersprochen haben. Über diese Nutzung und Ihr Widerspruchsrecht informieren wir Sie jeweils, wenn Sie Ihre E-Mail-Adresse eingeben
+Ohne gesonderte Einwilligung zum Erhalt von Werbemails kontaktieren wir Kunden, die einen Kauf als Gast ohne Kundenkonto getätigt und dabei keinen Newsletter-Dienst abonniert haben, individuell per E-Mail mit Service-Mails, die auf den Kunden und seine Bestellungen zugeschnittene Serviceinformationen wie Pflegeanleitungen, Herstellerinformationen oder seinen Bestellungen ähnliche Angebote sowie Kunden-Zufriedenheitsbefragungen enthalten. Die Kunden-Zufriedenheitsumfragen bzw. -Bewertungen können von uns angefragt werden bzw. von der Trusted Shops GmbH in unserem Auftrag im Rahmen unseres Trustbadges (siehe Ziffer 3.2.2). Die Service-Mails schicken wir, jedoch nur dann und soweit (a) wir Ihre E-Mail-Adresse im Zusammenhang mit dem Verkauf einer Ware oder Dienstleistung von Ihnen erhalten haben, (b) wir diese E-Mail-Adresse für Direktwerbung für eigene ähnliche Waren oder Dienstleitungen nutzen, und (c) Sie dem Erhalt nicht widersprochen haben. Über diese Nutzung und Ihr Widerspruchsrecht informieren wir Sie jeweils, wenn Sie Ihre E-Mail-Adresse eingeben.
 
 Um die Service-Mails möglichst gut auf Ihre Interessen anzupassen, verarbeiten wir dazu (a) die beim Erwerb der Waren bzw. Dienstleistung von Ihnen erhobenen Daten, (b) Daten über Ihr Nutzungsverhalten, nachdem wir Ihnen E-Mails zugeschickt haben (z.B. Klickverhalten), sowie (c) die Angaben aus unserer Kundendatenbank (vgl. Ziffer 2.6.1). Die Service-Mails können über die Newslettereinstellungen, die in jedem E-Mail-Newsletter verlinkt sind, verwaltet werden.
 
@@ -725,7 +726,7 @@ Sie können dem Erhalt unserer Service-Mails jederzeit widersprechen (zur Umsetz
 
 Rechtsgrundlage für die Verarbeitung sind unsere berechtigten Interessen (Art. 6 (1) lit. f DSGVO) in Verbindung mit § 7 Abs. 3 UWG.
 
-#### 2.6.4 Telefon Werbung
+#### 2.6.3 Telefon Werbung
 
 Auf Basis einer ausdrücklichen Einwilligung informieren wir Sie per Telefon über persönlich auf Sie und Ihre Interessen bzw. Nutzung zugeschnittenen Informationen, Angeboten und Vorteilsaktionen zu Bergfreunde-Leistungen über alle Bereiche unseres Angebots.
 
@@ -735,7 +736,7 @@ Sie können Anrufen jederzeit widersprechen (zur Umsetzung des Widerspruchs sieh
 
 Rechtsgrundlage für die Verarbeitung sind Ihre Einwilligung (Art. 6 (1) lit. a DSGVO) in Verbindung mit § 7 Abs. 2 UWG.
 
-#### 2.6.5 Briefwerbung
+#### 2.6.4 Briefwerbung
 
 Per schriftlicher postalischer Werbung kontaktieren wir Sie auch ohne Einwilligung ggfs. im gesetzlich zulässigen Umfang für Bergfreunde-Leistungen.
 
@@ -745,7 +746,7 @@ Sie können Briefwerbung jederzeit widersprechen, worüber wir Sie in jeder Brie
 
 Rechtsgrundlage für die Verarbeitung sind unsere berechtigten Interessen (Art. 6 (1) lit. f DSGVO).
 
-#### 2.6.6 Widerspruch gegen Werbung
+#### 2.6.5 Widerspruch gegen Werbung
 
 Wie wir Sie bei Erhebung der Kontaktdaten und bei jeder Direktwerbung informieren, können Sie der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Produktentwicklung sowie der dafür erfolgenden Kontaktaufnahme über eine bestimmte Form jederzeit insgesamt oder teilweise widersprechen oder ggf. erteilte Einwilligungen widerrufen.
 
@@ -762,7 +763,7 @@ Alle uns zugehenden und durch uns bestätigten Widersprüche werden ab 6:00 Uhr 
 
 Ihre Daten werden nach Ihrem Widerspruch bzw. dem Widerruf ggf. erteilter Einwilligungen oder sonst spätestens nach Beendigung der Nutzung durch uns gelöscht bzw. nur in aggregierter, anonymisierter Form gespeichert. Soweit erforderlich, werden wir die Tatsache Ihres Widerspruchs und Ihre jeweiligen Kontaktdaten speichern, um zu verhindern, dass Sie weiter kontaktiert werden.
 
-### 2.7 Ihre Bewerbung
+### 2.6 Ihre Bewerbung
 
 Um Ihre unter „Jobs“ abgegebenen Bewerbungen zu erfassen, zu prüfen, Bewerbungsgespräche durchzuführen, soweit erforderlich und zulässig zusätzliche Recherchen anzustellen, unsere internen Entscheidungen über Ihre Bewerbung und eine Zu- bzw. Absage auszusprechen, verarbeiten wir die von Ihnen übermittelten, aus öffentlichen Quellen wie dem Internet oder von vorherigen Arbeitgebern erteilten Informationen.
 
@@ -772,7 +773,7 @@ Wir speichern Ihre Daten, solange sie für die vorgenannten Zwecke erforderlich 
 
 Für das Online-Bewerbermanagement setzen wir teilweise den Dienstleister New Work SE („Onlyfy“) (siehe auch Ziffer 3.1 und 3.2.4) ein. Wenn Sie sich bei uns online unter dem Link „Jobs“ bewerben, erstellt Onlyfy für Sie ein Kandidatenprofil, in dem Sie Ihre anderen abgegebenen Bewerbungen einsehen und verwalten können. Auf dieses Kandidatenprofil haben wir keinen Zugriff. Für dieses Kandidatenprofil ist Onlyfy verantwortlich.
 
-### 2.8 Zur Bereitstellung der Webseite und Erbringung der Dienste
+### 2.7 Zur Bereitstellung der Webseite und Erbringung der Dienste
 
 Die Verarbeitung der Server-Logdaten ist zur Bereitstellung der Webseiten und zur Erbringung der Dienste aus technischen Gründen und danach zur Sicherstellung der Systemsicherheit erforderlich.
 
@@ -782,7 +783,7 @@ Diese Daten werden spätestens nach 12 Tagen gelöscht.
 
 Die Serverlog-Daten werden danach ggf. zu statistischen Zwecken und zur Verbesserung der Qualität unseres Internetauftritts anonymisiert ausgewertet. Eine Verknüpfung der Server-Logdaten mit Ihren personenbezogenen Daten oder eine Zusammenführung der Server-Logdaten mit anderen personenbezogenen Datenquellen erfolgen nicht.
 
-### 2.9 Podcasts
+### 2.8 Podcasts
 
 Wir stellen Ihnen ggfs. Podcasts zum Anhören über verschiedene Wege, wie Webplayer, Podcast-Dienste wie Apple Podcasts oder Spotify, oder Plattformen wie Youtube bereit. Sofern wir den Podcast selbst auf Servern zum Abruf bereithalten (z.B. bei Webplayern oder Podcast-Diensten), verarbeiten wir die Server-Logdaten zur Bereitstellung des Podcast und zur Erbringung dieses Dienstes aus technischen Gründen und danach zur Sicherstellung der Systemsicherheit.
 
@@ -825,11 +826,9 @@ Die Datenschutzhinweise von Paypal zu deren Verarbeitung Ihrer personenbezogenen
 
 (2) Klarna
 
-Bei einer Zahlung per **Sofortüberweisung** übermitteln wir die Zahlungsinformationen an Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Schweden. Rechtsgrundlage für die Übermittlung ist die Durchführung des Vertrags mit Ihnen, Art. 6 (1) lit. b DSGVO.
+Bei einer Zahlung mit Klarna übermitteln wir die Zahlungsinformationen an die Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Schweden. Rechtsgrundlage für die Übermittlung ist die Durchführung des Vertrags mit Ihnen, Art. 6 (1) lit. b DSGVO.
 
-Bei Auswahl der angebotenen Zahlungsoption **Klarna Rechnung** übermitteln wir die Zahlungsinformationen über eine technische Schnittstelle ebenfalls an die Klarna Bank AB (publ), Sveavägen 46, 111 34 Stockholm, Schweden. Rechtsgrundlage für die Übermittlung ist die Durchführung des Vertrags mit Ihnen, Art. 6 (1) lit. b DSGVO.
-
-Zum Zweck der Entscheidung über den Ankauf der Forderung führen die o.g. Firmen eine Bonitätsprüfung als eigene Verantwortliche durch.
+Zum Zweck der Entscheidung über den Ankauf der Forderung bei Kauf auf Rechnung und Ratenkauf führen die o.g. Firmen eine Bonitätsprüfung als eigene Verantwortliche durch.
 
 Rechtsgrundlage für die zu diesem Zwecke erfolgende Datenübermittlung durch uns ist unser berechtigtes Interesse an der wirtschaftlichen Absicherung bei diesen Zahlarten sowie die Erfüllung der uns nach dem Zivilrecht obliegenden Pflichten zur Herausgabe der erforderlichen Informationen an den Forderungskäufer (Art. 6 (1) lit. f DSGVO). Unsere Interessen sind bei Auswahl dieser Zahlart zwingend, weil sonst eine Prüfung der Bonität und damit ein Forderungskauf nicht mehr möglich sind; Ein Widerruf gegen diese Datenverarbeitung (Art. 21 (1) DSGVO) bei Beibehaltung dieser Zahlart ist daher nicht möglich. Gerne können sie aber eine andere Zahlart auswählen.
 
@@ -897,7 +896,7 @@ Im Rahmen der zwischen uns und der Trusted Shops GmbH bestehenden gemeinsamen Ve
 
 #### 3.2.3 Logistikunternehmen
 
-Zur Warenbeförderung durch uns an Sie übermitteln wir Ihre Adress- und Kontaktdaten, soweit erforderlich, an Logistikunternehmen (z.B. DHL), insbesondere Namen, ggfs. Firma, sowie Postadresse / Paketstation sowie dazugehörige Adresszusätze. In diesem Zusammenhang übermitteln wir Ihnen ggfs. Links oder Codes zur Sendungsnachverfolgung. Wir werden für diese Zwecke den Logistikunternehmen ggfs. auch Ihre E-Mail-Adressen weitergeben, damit das Logistikunternehmen mit Ihnen direkt kommunizieren kann, z.B. um Rückfragen zur Adresse, Vereinbarung von Zustellzeiten, Abstellorte etc. abzustimmen; dadurch können Fehler oder Verzögerungen bei der Lieferung verringert werden. Wenn Sie von dem Logistikunternehmen unmittelbar angeschrieben werden, liegt dies daran oder daran, dass Sie eine entsprechende Dienstleistung bei dem Logistik- und Paketbeförderungsunternehmen abonniert und dieser Nutzung dort eingewilligt haben. In anderen Liefer-Ländern können aufgrund der Art der Zustellung bzw. wegen der dortigen Gegebenheiten zusätzliche Angaben erforderlich sein (z.B. Telefonnummer), damit der Zusteller Sie finden bzw. erreichen kann; dies wird Ihnen dann im Rahmen der Adress-Eingaben angezeigt. Rechtsgrundlage für die Übermittlung ist die Durchführung des Vertrags mit Ihnen, Art. 6 (1) lit. b DSGVO bzw. unser Interesse an einer möglichst reibungslosen, verzögerungsfreien und komfortablen Zustellung, Art. 6 (1) lit. f DSGVO.
+Zur Warenbeförderung durch uns an Sie übermitteln wir Ihre Adress- und Kontaktdaten, soweit erforderlich, an Logistikunternehmen (z.B. DHL), insbesondere Namen, ggfs. Firma, sowie Postadresse / Paketstation sowie dazugehörige Adresszusätze. In diesem Zusammenhang übermitteln wir Ihnen ggfs. Links oder Codes zur Sendungsnachverfolgung. Wir werden für diese Zwecke den Logistikunternehmen ggfs. auch Ihre E-Mail-Adressen weitergeben, damit das Logistikunternehmen mit Ihnen direkt kommunizieren kann, z.B. um Rückfragen zur Adresse, Vereinbarung von Zustellzeiten, Abstellorte etc. abzustimmen; dadurch können Fehler oder Verzögerungen bei der Lieferung verringert werden. Wenn Sie von dem Logistikunternehmen unmittelbar angeschrieben werden, liegt dies daran oder daran, dass Sie eine entsprechende Dienstleistung bei dem Logistik- und Paketbeförderungsunternehmen abonniert und dieser Nutzung dort eingewilligt haben. In einigen Lieferländern können aufgrund der Art der Zustellung bzw. wegen der dortigen Gegebenheiten zusätzliche Angaben erforderlich sein (z.B. Telefonnummer), damit der Zusteller Sie finden bzw. erreichen kann; dies wird Ihnen dann im Rahmen der Adress-Eingaben angezeigt. Rechtsgrundlage für die Übermittlung ist die Durchführung des Vertrags mit Ihnen, Art. 6 (1) lit. b DSGVO bzw. unser Interesse an einer möglichst reibungslosen, verzögerungsfreien und komfortablen Zustellung, Art. 6 (1) lit. f DSGVO.
 
 Für Rücksendungen von Ihnen an uns bieten wir Ihnen als freiwilligen Service (zur Vereinfachung und als Kostenersparnis) an, das Porto und das Rücksende-Label über unsere Webseite zu generieren. Zur Generierung des Labels werden Sie von unserer Webseite auf das Retourenportal der DHL weitergeleitet (selbstverständlich können Sie dies auch unmittelbar bei einem Logistikunternehmen bestellen). Um Ihnen den größtmöglichen Service zu bieten, übermitteln wir die zur Erstellung des Labels notwendigen personenbezogenen Daten Ihrer Bestellung an DHL (d.h. Belegnummer, PLZ, Name und Adresse sowie Email-Adresse). Diese Angaben sind notwendig, damit das Label richtig ausgefüllt, Ihnen per Email zum Selbstausdrucken zugeschickt und abgerechnet werden kann. Die Erleichterung für Sie besteht darin, dass Sie diese Angaben nicht gesondert eingeben müssen; wir müssen diese Angaben dafür (über ein gesichertes Formular) an DHL weiterleiten. Wir weisen Sie auf unserer Webseite vor Nutzung dieses Dienstes gesondert darauf hin. Rechtsgrundlage für die Übermittlung ist die Erbringung eines von Ihnen angefragten Services, Art. 6 (1) lit. b DSGVO.
 
@@ -991,7 +990,7 @@ Rechtsgrundlage für den Einsatz der Marketing-Cookies und die Verarbeitung Ihre
 
 #### 4.2.5 Einsatz von Google Ads mit Remarketing und Conversion Tracking
 
-(1) Wir nutzen das Angebot Google Ads, um mit Hilfe von Werbeanzeigen auf unsere Angebote aufmerksam zu machen. Sofern Sie über eine Google-Anzeige auf unsere Website gelangen, wird von Google Ads ein Cookie in ihrem Endgerät gespeichert.
+(1) Wir nutzen das Angebot Google Ads, um mit Hilfe von Werbeanzeigen auf unsere Angebote aufmerksam zu machen. Sofern Sie über eine Google-Anzeige auf unsere Website gelangen, wird von Google Ads ein Cookie in ihrem Endgerät gespeichert. Wenn sie uns ihre ausdrückliche Einwilligung erteilt haben, übermitteln wir ihre pseudonymisierte E-Mail-Adresse in einer Liste an Google, um Google Ads zu nutzen (“Customer Match”).
 
 (2) Die Werbemittel werden durch Google über sog. "Ad Server" ausgeliefert. Dazu nutzen wir und andere Webseiten sog. Ad Server-Cookies, durch die bestimmte Parameter zur Erfolgsmessung, wie Einblendung der Anzeigen oder Klicks durch die Nutzer, gemessen werden können. Über die auf unserer Website gespeicherten Google Ads-Cookies können wir Informationen über den Erfolg unserer Werbekampagnen erhalten. Diese Cookies sollen nicht dazu dienen, Sie persönlich zu identifizieren. Zu diesem Cookie werden in der Regel als Analyse-Werte die Unique Cookie-ID, Anzahl Ad Impressions pro Platzierung (Frequency), letzte Impression (relevant für Post-View-Conversions) sowie Opt-out-Informationen (Markierung, dass ein Nutzer nicht mehr angesprochen werden möchte) gespeichert.
 
@@ -1003,9 +1002,9 @@ Rechtsgrundlage für den Einsatz der Marketing-Cookies und die Verarbeitung Ihre
 
 (6) Wir nutzen Google Ads zudem mit der zusätzlichen Anwendung "Google Remarketing". Mit diesem Verfahren können wir Werbeanzeigen auf Basis vorhandener Informationen über Sie erstellen und Sie bei Ihrer weiteren Internetnutzung erneut ansprechen. Dies erfolgt mittels bei Besuch unserer Angebote (in der Regel durch Cookies) gesetzter Cookies, über die Ihr Nutzungsverhalten bei Besuch verschiedener Websites durch Google erfasst und pseudonymisiert ausgewertet wird. Eine Zusammenführung der im Rahmen des Remarketings erhobenen Daten mit Ihren personenbezogenen Daten, die ggf. von Google gespeichert werden, findet durch Google laut eigenen Aussagen nicht statt.
 
-(7) Rechtsgrundlage für die vorbenannte Verarbeitung Ihrer Daten ist stets Art. 6 Abs. 1 S. 1 lit. a DS-GVO, dh die Einbindung der Google- Ads Anwendungen erfolgt nur nach Ihrer ausdrücklichen Einwilligung über unseren [Consent- Manager](#).
+(7) Rechtsgrundlage für die vorbenannte Verarbeitung Ihrer Daten ist stets Art. 6 Abs. 1. S. 1 lit. a DS-GVO, d.h. die Einbindung der Google- Ads Anwendungen erfolgt nur nach Ihrer ausdrücklichen Einwilligung über unseren [Consent- Manager](#) oder nach ihrer ausdrücklichen Einwilligung innerhalb ihres Kundenkontos.
 
-(8) Der Widerruf Ihrer Einwilligung ist jederzeit möglich, ohne dass davon die Zulässigkeit der Verarbeitung bis zum Widerruf berührt wird. Den Widerruf können Sie am einfachsten über unseren [Consent-Manager](#) durchführen oder über die folgenden Funktionen:
+Der Widerruf Ihrer Einwilligung ist jederzeit möglich, ohne dass davon die Zulässigkeit der Verarbeitung bis zum Widerruf berührt wird. Den Widerruf können Sie am einfachsten über unseren [Consent-Manager](#) bzw. wenn sie in ihrem Kundenkonto angemeldet sind, durchführen oder über die folgenden Funktionen:
 
 a) durch eine entsprechende Einstellung Ihrer Browser-Software, insbesondere führt die Unterdrückung von Drittcookies dazu, dass Sie keine Anzeigen von Drittanbietern erhalten;
 
@@ -1054,9 +1053,21 @@ Wir binden auf einigen unserer Internetseiten auch bei YouTube gespeicherte Vide
 
 Die Einbindung von YouTube-Inhalten erfolgt nur im "erweiterten Datenschutzmodus". Diesen stellt YouTube selbst bereit und sichert damit zu, dass YouTube zunächst keine Cookies auf Ihrem Gerät speichert. Beim Aufruf der YouTube Videos in einem neuen Fenster werden allerdings die IP-Adresse sowie weitere Daten Ihres Browsers übertragen und so insbesondere mitgeteilt, welche unserer Internetseiten Sie besucht haben. Weitere Informationen zu den Datenverarbeitungen durch YouTube finden Sie in den Datenschutzhinweisen von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, unter: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
-### 5.3. Facebook Fanpage
+### 5.3. Facebook Fanpage / Meta Platforms
 
-Wir betreiben auf Facebook eine Fanpage zur Information über unsere Produkte und Aktionen. Diese finden Sie unter: [https://www.facebook.com/bergfreunde](https://www.facebook.com/bergfreunde). Über Besucher unserer Fanpage werden Daten für verschiedene Zwecke erhoben und verarbeitet.
+Wir betreiben auf Facebook eine Fanpage zur Information über unsere Produkte und Aktionen. Diese finden Sie unter: [https://www.facebook.com/bergfreunde](https://www.facebook.com/bergfreunde), Über Besucher unserer Fanpage werden Daten für verschiedene Zwecke erhoben und verarbeitet.
+
+Wir verwenden „Meta-Pixel“ von Meta Platforms Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland auf unserer Website, um die allgemeine Nutzung unserer Webseite zu analysieren und die Wirksamkeit unserer Werbung nachzuvollziehen. Zudem nutzen wir Meta-Pixel, um Ihnen anhand Ihres Interesses für unsere Produkte individualisierte Werbebotschaften in den sozialen Netzwerken von Meta, wie Facebook und Instagram, anzuzeigen. Durch das Auslösen des Meta-Pixel kann Meta Ihr Verhalten, beispielsweise den Erwerb eines Produktes, plattformübergreifend verfolgen und protokollieren. Die Analyse der daraus gewonnenen Daten ermöglicht es uns, unsere Werbemaßnahmen zu optimieren und zukünftig besser auf Sie sowie Ihre Interessen anzupassen.
+
+Die dabei erhobenen Daten werden pseudonymisiert verarbeitet, sodass wir daraus keine Rückschlüsse auf die Identität eines Benutzers ziehen können. Meta speichert und verarbeitet jedoch Daten, die eine Verbindung zu Ihrem Nutzerprofil ermöglichen, und es Meta ermöglichen, Ihre Daten für Werbezwecke gemäß der Meta-Datenschutzrichtlinie zu nutzen. Dadurch können Meta und seine Partner Anzeigen innerhalb und außerhalb von Meta-Produkten schalten.
+
+Für diese Zwecke kann ein Cookie auf Ihrem Computer gespeichert, ein JavaScript ausgeführt sowie mittels anderer Technologien auf ihr Endgerät zugegriffen werden. Wenn sie uns ihre ausdrückliche Einwilligung erteilt haben, übermitteln wir zudem ihre pseudonymisierte E-Mail-Adresse an Meta, um ihre Nutzung unserer Webseite zu analysieren und ihnen individuelle Werbebotschaften und Angebote anzuzeigen ("Meta-Kundenlisten").
+
+Meta verwendet die erhobenen Event-Daten darüber hinaus auch zu eigenen Zwecken, insbesondere zum Schutz und zur Sicherheit der Produkte von Meta, zu Forschungs- und Entwicklungszwecken sowie für den Erhalt der Integrität der Produkte und deren Verbesserung. Weitere Informationen finden sie in den [Datensicherheitsbedingungen](https://www.facebook.com/legal/terms/data_security_terms) sowie in der [Datenrichtlinie](https://www.facebook.com/privacy/center/) von Meta.
+
+Rechtsgrundlage für die vorbenannte Verarbeitung Ihrer Daten ist stets Art. 6 Abs. 1. S. 1 lit. a DS-GVO, dh die Einbindung des Meta-Pixels erfolgt nur nach Ihrer ausdrücklichen Einwilligung über unseren Consent- Manager oder für die Meta-Kundenlisten innerhalb ihres Kundenkontos.
+
+Sie können ihre erteilte Einwilligung für das Meta-Pixel jederzeit mit Wirkung für die Zukunft über unseren Consent-Manager, Ihre Einwilligung für das Teilen von Meta-Kundenlisten über Ihr Kundenkonto widerrufen. Wenn sie ein Facebook- oder Instagram-Konto besitzen, können sie die Werbepersonalisierung auch unter den Einstellungen über nutzungsbasierte Werbung deaktivieren.
 
 Zum einen erstellt Facebook anhand der Daten über die Nutzung der Fanpage anonymisierte Auswertungen, die wir zur Verbesserung unseres Angebots zur Verfügung gestellt bekommen. Diese Auswertung, genannt "Insights" erfolgt in gemeinsamer Verantwortung zwischen Facebook und uns. Die Grundlage hierfür ist eine Vereinbarung zwischen gemeinsam Verantwortlichen gemäß Art. 26 DSGVO, die Sie [hier](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen können. Dementsprechend ist primärer Verantwortlicher für die Datenverarbeitung und die Befolgung der Betroffenenrechte, insbesondere auf Auskunft, Löschung oder Widerspruch Facebook Ireland Ltd. Sie finden nähere Informationen über die Datenverarbeitung durch Facebook Ireland für Insights und über die Geltendmachung der Betroffenenrechte [hier](https://www.facebook.com/legal/terms/information_about_page_insights_data).
 
@@ -1112,7 +1123,7 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
   
 
-Stand: Februar 2023
+Stand: Juli 2024
 
 ![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
 
@@ -1124,11 +1135,11 @@ Stand: Februar 2023
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 44493 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 44549 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.493 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 44.549 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
@@ -1148,21 +1159,24 @@ Finde hier nützliche Tools, die Dich bei einer bewussten Kaufentscheidung unter
 
 Wenn wir draußen unterwegs sind, bekommst Du hier jederzeit online Antworten auf Deine Fragen!
 
-Newsletter & Neuigkeiten
-
-    
-
- 
-
-Lass Dir Top-Angebote & Neues nicht entgehen - Wir spendieren Dir die ersten € 5!
+Kundenkonto eröffnen
 
   
 
-Ja, ich willige in den Erhalt von Newslettern von der Bergfreunde GmbH per Mail ein, bestehend aus Bergfreunde-Newsletter (Produktinformationen, Aktionen) und Bergfreunde-Deals (besondere Angebote) zu Outdoor Produkten sowie gelegentlichen Umfragen zu meinen Interessen und Informationen rund um die Bergfreunde GmbH. Diese können durch eine Auswertung der E-Mail-Nutzung sowie mein Käuferverhalten individualisiert werden. Die Anmeldung wird erst mit meiner Bestätigung wirksam; eine Abmeldung ist jederzeit möglich. Nähere Informationen finde ich in den [Datenschutzhinweisen](https://www.bergfreunde.de/datenschutz/ "Informiere Dich über die Datenschutzhinweise von Bergfreunde.de").
+ 
 
-Mehr anzeigen
+* 5€ Willkommensrabatt \*\*
+    
+* Exklusiver Zugang zu Rabattaktionen
+    
+* Speichere Produkte auf Deinem Merkzettel
+    
+* Geburtstagsüberraschung
+    
 
-[](https://www.facebook.com/bergfreunde "Werde Bergfreund auf Facebook!")[](https://www.instagram.com/bergfreundede "Folge uns auf Instagram!")[](https://www.youtube.com/channel/UCl5nIYjIB2VwWoMHh2hgMQg "Folge uns auf Youtube!")[](https://www.bergfreunde.de/blog/category/bergfreunde/podcast/ "Hör rein in unseren Bergfreunde Outdoor-Podcast!")
+  
+
+[](https://www.instagram.com/bergfreundede "Folge uns auf Instagram!")[](https://www.youtube.com/channel/UCl5nIYjIB2VwWoMHh2hgMQg "Folge uns auf Youtube!")[](https://www.bergfreunde.de/blog/category/bergfreunde/podcast/ "Hör rein in unseren Bergfreunde Outdoor-Podcast!")
 
 Wir tauschen uns gerne aus - Wir sind auf Deine Meinung gespannt!
 
@@ -1182,7 +1196,7 @@ Kundenservice
 
 * [Über uns](https://www.bergfreunde.de/ueber-die-bergfreunde/ "Über uns - Die Bergfreunde stellen sich vor")
 * [Jobs & Praktika](https://www.bergfreunde.de/jobs/ "Wir suchen Dich! Jobs & Praktika bei Bergfreunde.de")
-* [Newsletter](https://www.bergfreunde.de/newsletter/ "Sicher Dir unsere exklusiven Angebote, Infos zu Produktneuheiten und Gutscheine per Mail")
+* [Newsletter](https://www.bergfreunde.de/newsletter/ "Sicher Dir unsere exklusiven Angebote, Infos zu Produktneuheiten und Gutscheine per Mail") | [Registriere Dich jetzt](https://www.bergfreunde.de/konto-eroeffnen/)
 * [Gutscheine](https://www.bergfreunde.de/gutscheine/ "Bergfreunde.de-Gutschein - genau das richtige Geschenk")
 * [Partnerprogramm](https://www.bergfreunde.de/partnerprogramm/ "Empfehle Bergfreunde.de und verdiene mit - Infos zum Partnerprogramm")
 * [Impressum](https://www.bergfreunde.de/impressum/ "Impressum von Bergfreunde.de")
@@ -1190,6 +1204,7 @@ Kundenservice
 * [Nachhaltigkeit](https://www.bergfreunde.de/nachhaltigkeit/ "Nachhaltigkeit bei den Bergfreunden")
 
 * \* Die durchgestrichenen Preise entsprechen unseren Markteinführungspreisen der aktuellen Saison.
+* \*\* Der Gutschein gilt ab einem Mindestabnahmewert (nach Retoure) von 40 Euro. Gutscheine für die Erstellung eines Kundenkonto können nur einmal pro Person und Bestellung eingelöst werden. Der Gutschein kann nicht für bereits ausgeführte Bestellungen benutzt werden und ist nicht mit weiteren Gutscheinen kombinierbar.
 
 Highlights
 
@@ -1229,10 +1244,4 @@ Highlights
 
 Alle Inhalte im Überblick gibt es in der [Sitemap](https://www.bergfreunde.de/sitemap/ "Sitemap Bergfreunde.de").
 
-€ 5 sofort
-
-Für deine nächste Bestellung
-
-Newsletter abonnieren loader Newsletter abonnieren & € 5 sichern loader
-
-Nein, danke.
+loader
