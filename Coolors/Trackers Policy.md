@@ -101,16 +101,6 @@ Something we missed? [Email us](https://coolors.co/contact)
 Cookie Policy of Coolors
 ------------------------
 
-To find more information on California consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/32878568/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Virginia consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/32878568/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Colorado consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/32878568/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Connecticut consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/32878568/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
-To find more information on Utah consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/32878568/legal?from_cookie_policy=true&no_markup=true "Show the complete Privacy Policy").
-
 This document informs Users about the technologies that help Coolors to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with Coolors.
 
 For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.  
@@ -153,7 +143,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 ### Handling payments
 
@@ -169,7 +159,7 @@ Legal basis for processing: Contract.
 
 Place of processing: United Kingdom – [Privacy Policy](https://paddle.com/privacy-buyers/).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 ### Collection of privacy-related preferences
 
@@ -186,7 +176,7 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/94654098).
 
-Data retention period: Keeping the Data as long as required by relevant national law.
+Data retention period: Keeping the data as long as required by relevant national law.
 
 Storage duration:
 
@@ -202,7 +192,7 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/36700132).
 
-Data retention period: Keeping the Data as long as required by relevant national law.
+Data retention period: Keeping the data as long as required by relevant national law.
 
 Storage duration:
 
@@ -232,7 +222,7 @@ Place of processing: United States – [Privacy Policy.](https://www.apple.com/l
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 ### Other activities involving the use of Trackers
 
@@ -255,7 +245,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 ### Interaction with external social networks and platforms
 
@@ -274,7 +264,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
 
-Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
 
 Storage duration:
 
@@ -290,7 +280,7 @@ Legal basis for processing: Consent.
 
 Place of processing: Ireland – [Privacy Policy](https://www.facebook.com/about/privacy/).
 
-Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
 
 Storage duration:
 
@@ -306,7 +296,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
 
 Storage duration:
 
@@ -323,7 +313,7 @@ Storage duration:
 
 #### Measurement
 
-Coolors uses Trackers to measure traffic and analyze User behavior to improve the Service.
+Coolors uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
 ### Anonymized analytics services
 
@@ -343,7 +333,7 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 Storage duration:
 
@@ -355,7 +345,7 @@ Storage duration:
 
 #### Marketing
 
-Coolors uses Trackers to deliver personalized marketing content based on User behavior and to operate, serve and track ads.
+Coolors uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
 
 Some of the advertising services used by the Owner adhere to the [IAB Transparency and Consent Framework](https://iabeurope.eu/transparency-consent-framework/), an initiative that facilitates responsible privacy practices across the digital advertising industry - providing Users with enhanced transparency and control over how their data are used for advertising tracking purposes. Users can customize their advertising preferences at any time by accessing the advertising preferences panel from within the cookie notice or via the relevant link on Coolors.
 
@@ -378,7 +368,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy?__hstc=194719090.209d2d0efcd7c95a674eaa2f39bb001d.1615826940169.1615826940169.1615826940169.1&__hssc=194719090.1.1615826940169&__hsfp=4053646362).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
 #### Carbon (Magnite, Inc. (Carbon AI Limited))
 
@@ -390,7 +380,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United Kingdom – [Privacy Policy](https://carbonrmp.com/privacy/) – [Opt out](https://carbonrmp.com/privacy/).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
 Storage duration:
 
@@ -411,7 +401,7 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
 #### Hotjar Form Analysis & Conversion Funnels (Hotjar Ltd.)
 
@@ -424,7 +414,7 @@ Legal basis for processing: Consent.
 
 Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/legal/policies/privacy) – [Opt Out](https://www.hotjar.com/legal/compliance/opt-out).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
 Storage duration:
 
@@ -460,23 +450,23 @@ Personal Data processed: device information, Trackers, unique device identifiers
 
 Legal basis for processing: Consent.
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-### How to manage preferences and provide or withdraw consent
+### How to manage preferences and provide or withdraw consent on Coolors
 
-There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:
+Whenever the use of Trackers is based on consent, users can provide or withdraw such consent by setting or updating their preferences via the relevant privacy choices panel available on Coolors.
 
-Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.
+With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
-Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.
+#### How to control or delete Cookies and similar technologies via your device settings
 
-It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User’s initial consent preferences.
+Users may use their own browser settings to:
 
-Other Trackers in the browser’s local memory may be cleared by deleting the browsing history.
+* See what Cookies or other similar technologies have been set on the device;
+* Block Cookies or similar technologies;
+* Clear Cookies or similar technologies from the browser.
 
-With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
-
-#### Locating Tracker Settings
+The browser settings, however, do not allow granular control of consent by category.
 
 Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:
 
