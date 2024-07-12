@@ -1,4 +1,4 @@
-[![Codewars by Andela](https://cdn.prod.website-files.com/62e3ee10882dc50bcae8d07a/64c17e87883a17f4153b301f_codewars-by-andela-dark.svg)](https://www.codewars.com/)
+[![Codewars by Andela](https://cdn.prod.website-files.com/6674f0cdb5b7b401612cf015/6674f0cdb5b7b401612cf0ee_codewars-by-andela-dark.svg)](https://www.codewars.com/)
 
 Dojo
 
@@ -252,7 +252,7 @@ All notices of copyright infringement claims should be sent to [legal@andela.com
 
 All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [info@codewars.com](mailto:info@codewars.com).
 
-[![](https://cdn.prod.website-files.com/62e3ee10882dc50bcae8d07a/631aaf6b1a176ea0525b6983_codewars-logomark.svg)](#)
+[![](https://cdn.prod.website-files.com/6674f0cdb5b7b401612cf015/6674f0cdb5b7b401612cf067_codewars-logomark.svg)](#)
 
 Achieve mastery  
 through challenge.
