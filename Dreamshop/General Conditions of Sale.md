@@ -1,4 +1,4 @@
-**Happy World Music Day! Enjoy 20% OFF Music-Related Items! (Excluding EP Boxes and CDs)**[**Get Them Here!**](https://dream.shop/collections/world-voice-day "World Music Day")
+[Out with the old, IN WITH THE BOLD! We're making room for new things. **Enjoy up to 50% off!**](https://dream.shop/collections/summerblowout "Summer Blowout")
 
 Menu [![DREAM](//dream.shop/cdn/shop/files/shf-logo_410x.png?v=1651257958)](https://dream.shop/ "DREAM")
 
@@ -30,7 +30,7 @@ Menu [![DREAM](//dream.shop/cdn/shop/files/shf-logo_410x.png?v=1651257958)](http
     * [Skeppy](https://skeppyshop.com/)
 * [Login](https://dream.shop/account/login)
 
-**Happy World Music Day! Enjoy 20% OFF Music-Related Items! (Excluding EP Boxes and CDs)**[**Get Them Here!**](https://dream.shop/collections/world-voice-day "World Music Day")
+[Out with the old, IN WITH THE BOLD! We're making room for new things. **Enjoy up to 50% off!**](https://dream.shop/collections/summerblowout "Summer Blowout")
 
 [![DREAM](//dream.shop/cdn/shop/files/shf-logo_410x.png?v=1651257958)](https://dream.shop/ "DREAM")
 
