@@ -22,7 +22,7 @@ Privacy Policy
 
 All articles
 
-Privacy PolicyUpdated 14 days ago
+Privacy PolicyUpdated a month ago
 =================================
 
 Last updated: June 3, 2024
