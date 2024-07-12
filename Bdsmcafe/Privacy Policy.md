@@ -38,6 +38,7 @@
 * [BDSM Games](https://www.sexyfuckgames.com/tags/bdsm)
 * [BDSM Hookups](https://www.kinkculture.com/lp/10.1/4/3)
 * [Meet Kinksters](https://affiliates.meet.kinksters.dating/b.php?id=102_1)
+* [porn reviews](https://x3guide.com/home)
 
  [![bdsmcafe.com BDSM Stories](https://bdsmcafe.com/wp-content/uploads/2014/07/bdsmcafe-logo-1.gif) ![bdsmcafe.com BDSM Stories](https://bdsmcafe.com/wp-content/uploads/2014/07/bdsmcafe-logo-1.gif)
 
@@ -100,6 +101,7 @@ FREE BDSM Stories, Novels, Movies and Information
 * [BDSM Games](https://www.sexyfuckgames.com/tags/bdsm)
 * [BDSM Hookups](https://www.kinkculture.com/lp/10.1/4/3)
 * [Meet Kinksters](https://affiliates.meet.kinksters.dating/b.php?id=102_1)
+* [porn reviews](https://x3guide.com/home)
 
 Privacy Policy
 ==============
