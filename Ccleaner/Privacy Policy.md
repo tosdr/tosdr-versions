@@ -755,7 +755,7 @@ These are the third-party analytics tools we use for Speccy:
 
 For further information regarding our third-party analytics partners, including their privacy policies, please refer to our [General Privacy Policy](https://www.ccleaner.com/legal/general-privacy-policy).
 
-* [About Piriform](https://www.ccleaner.com/about)
+* About Piriform
 * [Press Releases](https://newsroom.gendigital.com/ccleaner)
 * Offices
 * [Partner Program](https://www.ccleaner.com/partners)
@@ -811,4 +811,5 @@ For press inquiries and more information please [contact us](https://www.ccleane
 
 © Copyright 2005-2024 Gen Digital Inc - All rights reserved.  
 [Terms of Use](https://www.ccleaner.com/about/terms-of-use) - [Supplier Guidelines](https://www.ccleaner.com/legal/supplier-guidelines) - [Modern Slavery Statement](https://s1.pir.fm/pf/legal/2019-2020%20Avast%20MS%20Transparency%20Statement.pdf) - [General Privacy Policy](https://www.ccleaner.com/legal/general-privacy-policy) - [Do Not Sell or Share My Personal Information](https://www.ccleaner.com/legal/do-not-sell) - [Consent Policy](https://www.ccleaner.com/legal/consent-policy) - [Products Policy](https://www.ccleaner.com/legal/products-policy) - [Cookies Policy](https://www.ccleaner.com/about/cookies-policy) - [Accessibility Policy](https://www.ccleaner.com/legal/accessibility-policy)  
-CCleaner, Defraggler, Recuva and Speccy are all registered trademarks of Gen Digital Inc.
+CCleaner, Defraggler, Recuva and Speccy are all registered trademarks of Gen Digital Inc.  
+Affiliate Disclosure: Gen Digital may receive a commission for purchases made through this product.
