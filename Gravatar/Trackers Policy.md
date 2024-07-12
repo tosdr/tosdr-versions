@@ -278,7 +278,7 @@ If you have any questions about our use of cookies, you can find the most releva
 * [Consent and Choices for Advertisements on Our Users’ Sites Through Ou…](#consent-and-choices-for-advertisements-on-our-userse28099-sites-through-our-ads-program)
 * [Contact Us](#contact-us)
 
-[Field guide](https://automattic.com/fieldguide/)
+[Field Guide](https://automattic.com/fieldguide/)
 
 [Contact](https://automattic.com/contact/)
 
@@ -309,7 +309,7 @@ If you have any questions about our use of cookies, you can find the most releva
     
     *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,137 other subscribers
+    Join 10,174 other subscribers
     
         
     
