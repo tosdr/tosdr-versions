@@ -137,54 +137,47 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
-[CAD/CAM-Driven�Full-Arch Restorations by Ahmad M ![CAD/CAM-Driven�Full-Arch Restorations by Ahmad M. Alawadi, DDS, MS and Antonella A. Botto, DDS, MS, FACP⁠
-⁠
-This guide to digital workflow supports the precision of this therapy in addressing edentulism.⁠
-⁠
-Link in bio.⁠
-⁠
-⁠@alawadi.dds⁠
-@prostho_nella⁠
-⁠
+[A recent study reveals a significant connection be ![A recent study reveals a significant connection between poor oral health, particularly periodontitis, and the risk of cryptogenic ischemic strokes in young adults. The findings suggest that severe periodontitis and recent invasive dental procedures can markedly increase the likelihood of stroke, underscoring the need for integrated dental and medical care to mitigate these risks. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8cRi3xt1L5/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9SWHzztW-L/) 
 
-[In a significant development for the dental profes ![In a significant development for the dental profession, Colorado and Minnesota have joined the Dentist and Dental Hygienist Compact, becoming the eighth and ninth states to participate. This compact, aimed at supporting license portability, allows dental professionals to practice across participating states without the need to obtain individual licenses in each one. This move has been hailed as a major step forward in addressing workforce shortages and enhancing professional mobility within the dental field. Link in bio.⁠
+[Recent research presented at the Endocrine Society ![Recent research presented at the Endocrine Society’s 2024 annual meeting highlights the complex interplay between hormonal changes during menopause and various health risks, including bone loss and periodontal diseases. The study reveals that while periodontal disease may not directly cause bone loss, both conditions share common risk factors. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8Zso-vtfqP/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9NMiDqtfTQ/) 
 
-[With OMNICHROMA, the single-shade family of compos ![With OMNICHROMA, the single-shade family of composites, restorations will look esthetically pleasing, withstand the wear and tear of life, and look just as natural as the day of the restoration even after 6 months, 1 year, and longer. Read more via the link in bio.⁠
+[Explore the intricacies of retirement planning wit ![Explore the intricacies of retirement planning with Art Wiederman, CPA. This educational video covers essential topics like different types of retirement plans, strategies for late starters, and lifestyle adjustments to ensure a financially secure future as a dental professional. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
-⁠@tokuyamadental⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8XA9klNx4S/) 
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9Ko3y5y8nB/) 
 
-[With temperatures heating up, an ice-cold drink is ![With temperatures heating up, an ice-cold drink is highly appealing to most patients. However, what happens to patients who chew the ice once their refreshing drink is gone? Link in bio.⁠
+[Updated nondiscrimination regulations under the Af ![Updated nondiscrimination regulations under the Affordable Care Act’s Section 1557 will take effect on July 5, expanding protections for pregnant and LGBTQI+ individuals in federally funded health programs, including Medicaid in which some dental practices participate. The regulations also introduce provisions for language assistance, nondiscriminatory use of artificial intelligence in patient care, and telehealth services, requiring covered entities to comply by specific deadlines. Link in bio.⁠
+⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8UjDTWMQcI/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9IC8y4toS9/) 
 
-[Unlock financial success with “Art’s Golden Ru ![Unlock financial success with “Art’s Golden Rules of Financial Planning” led by expert dental CPA Art Wiederman. Master key strategies for retirement, investments, and estate planning. Learn practical tips like the “65/25/10 rule” to confidently secure your financial future. Don’t miss this essential guide for informed decision-making and long-term prosperity. Link in bio.⁠
+[Receive free samples and product information from ![Receive free samples and product information from the advertisers featured in our current issue! Click the link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8R_nYANMD8/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9FXTSitSrk/) 
 
-[Unfortunately, it is common in the United States t ![Unfortunately, it is common in the United States to find people suffering from serious dental problems — from gum disease to wisdom teeth impaction — who don’t have the funds or the ability to get to a dental office. And when issues — such as an abscessed tooth — worsen, life-threatening infection can set in. Virginia Commonwealth University (VCU) School of Dentistry’s Urgent Care Clinic in Richmond is trying to turn this tide. Link in bio.⁠
+[A recent study explored the effects of essential-o ![A recent study explored the effects of essential-oil vaporization in dental practices, revealing that it significantly reduces acute anxiety, especially in women and those with high trait anxiety. The findings suggest aromatherapy as a cost-effective, safe, and beneficial strategy for managing dental fear and anxiety. Link in bio.⁠
 ⁠
 ⁠
 ---⁠
 ⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8PSlsZNIdZ/) 
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9C5XHzNtuL/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
