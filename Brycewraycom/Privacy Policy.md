@@ -1,5 +1,5 @@
 * [](https://www.brycewray.com/ "Home page")
-* [Latest](https://www.brycewray.com/posts/2024/06/slash-pages-existing-new/ "The most recently added post on the site")
+* [Latest](https://www.brycewray.com/posts/2024/07/firefox-esr-native-css-nesting/ "The most recently added post on the site")
 * [Archive](https://www.brycewray.com/posts/ "Archive")
 * [Search](https://www.brycewray.com/search/ "Site search")
 * [Sitemap](https://www.brycewray.com/sitemap/ "Sitemap")
