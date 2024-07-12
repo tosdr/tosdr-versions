@@ -24,11 +24,11 @@
     
     * [Featured News
         
-        ![](https://goldalliance.com/wp-content/uploads/2024/05/shutterstock_732606160-410x249.jpg)
+        ![An image of the bill introduced to block central bank digital currencies](https://goldalliance.com/wp-content/uploads/2024/05/CBDC-anti-surveillance-state-act-410x249.png)
         
-        Have We Reached Peak Gold?
+        New “Anti-Surveillance” Bill Joins Battle to Block CBDCs 
         
-        View Article](https://goldalliance.com/blog/market-insights/have-we-reached-peak-gold/)
+        View Article](https://goldalliance.com/blog/market-insights/new-anti-surveillance-bill-joins-battle-to-block-cbdcs/)
         
         [View All News](https://goldalliance.com/blog/)
     * [Precious Metal Price Charts](https://goldalliance.com/gold-ounce-price-calculator/)
@@ -167,10 +167,10 @@ DISCOVER
 
 * [Reviews](https://goldalliance.com/reviews/)
 * [Why Gold](https://goldalliance.com/learning-center/gold/why-gold/)
-* [6 Potential Catalysts for Record-High Gold Prices in 2024](https://goldalliance.com/blog/market-insights/6-potential-catalysts-for-record-high-gold-prices-in-2024/)
+* [6 Potential Catalysts for Record-High Gold Prices in 2024](https://goldalliance.com/?p=10465)
 * [Gold Ounce Price Calculator & Precious Metal Charts](https://goldalliance.com/gold-ounce-price-calculator/)
-* [Highest Historical Gold Price](https://goldalliance.com/blog/market-insights/gold-price-highest-ever/)
-* [Will We Face a Debt Crisis in 2024?](https://goldalliance.com/blog/market-news/will-america-face-a-debt-crisis-in-2024/) 
+* [Highest Historical Gold Price](https://goldalliance.com/?p=5264)
+* [Will We Face a Debt Crisis in 2024?](https://goldalliance.com/?p=10432) 
 * [Affiliate Program](https://goldalliance.com/affiliate-program/)
 
 Get in touch with us
