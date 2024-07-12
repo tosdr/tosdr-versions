@@ -1,7 +1,7 @@
 [Skip to main content](#main-content)[IBM Quantum Platform](https://quantum-computing.ibm.com/)
 
 * [Dashboard](https://quantum-computing.ibm.com/)
-* [Systems](https://quantum-computing.ibm.com/services/resources)
+* [Compute resources](https://quantum-computing.ibm.com/services/resources)
 * [Jobs](https://quantum-computing.ibm.com/jobs)
 
 Search
@@ -169,6 +169,10 @@ t. No right or cause of action for any third-party is created by this Agreement,
 u. This Agreement and all related claims shall be governed by the laws of the State of New York, U.S.A., without regard to its conflict and choice-of-law principles. You consent to the exclusive jurisdiction and venue of the U.S. federal or state courts in New York, U.S.A., to resolve disputes or claims related to this Agreement. The Parties expressly waive the right to trial by jury in any matter which arises under this Agreement. Nothing in this Agreement affects statutory rights that cannot be waived or limited by contract. The United Nations Convention on Contracts for the International Sale of Goods does not apply to transactions under this Agreement.
 
 v. This Agreement is the complete agreement between the Parties regarding its subject matter and supersedes any prior oral or written communications or understandings between the Parties related to its subject matter.
+
+#### Copyright notice
+
+[Copyright and trademark information](https://www.ibm.com/legal/copyright-trademark)
 
 Focus sentinel
 
