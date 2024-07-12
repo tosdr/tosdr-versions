@@ -1,5 +1,9 @@
 [Skip to main content](#main-content)
 
+Rail services will be disrupted on Sunday 14 July. Please check your journey on Sunday morning before travelling.
+
+[Find out more](https://www.gwr.com/travel-update)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
@@ -34,7 +38,7 @@ Terms and conditions
 Key terms
 ---------
 
-1. Your use of the Site is governed by these Terms so please take a few minutes to read over the Terms below. These Terms form a legally binding agreement between you and us and set out our liability to you, and your liability to us, in the unlikely event that anything goes wrong. If you buy tickets via the Site, that purchase is additionally governed by the [National Rail Conditions of Travel](http://www.nationalrail.co.uk/times_fares/46427.aspx)\*.  
+1. Your use of the Site is governed by these Terms so please take a few minutes to read over the Terms below. These Terms form a legally binding agreement between you and us and set out our liability to you, and your liability to us, in the unlikely event that anything goes wrong. If you buy tickets via the Site, that purchase is additionally governed by the [National Rail Conditions of Travel](https://www.nationalrail.co.uk/travel-information/your-rights-and-obligations-as-a-passenger/)\*.  
       
     
 2. Any personal information you provide to us will be dealt with in accordance with our [Privacy and Cookies Policy](https://www.gwr.com/privacy-policy).  
