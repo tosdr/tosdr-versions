@@ -7,7 +7,7 @@
 * [Watch](https://www.mlssoccer.com/video/index)
 * [Standings](https://www.mlssoccer.com/standings/2024/conference)
 * [Stats](https://www.mlssoccer.com/stats/index)
-* [All-Star](https://www.mlssoccer.com/all-star/2024/index)
+* [All-Star](https://www.mlssoccer.com/all-star/index)
 * * [Clubs](https://www.mlssoccer.com/clubs/index)
     * [Competitions](https://www.mlssoccer.com/competitions/index)
     * [Rosters](https://www.mlssoccer.com/players/index)
@@ -28,7 +28,7 @@
 * [Watch](https://www.mlssoccer.com/video/index)
 * [Standings](https://www.mlssoccer.com/standings/2024/conference)
 * * [Stats](https://www.mlssoccer.com/stats/index)
-    * [All-Star](https://www.mlssoccer.com/all-star/2024/index)
+    * [All-Star](https://www.mlssoccer.com/all-star/index)
     * [Clubs](https://www.mlssoccer.com/clubs/index)
     * [Competitions](https://www.mlssoccer.com/competitions/index)
     * [Rosters](https://www.mlssoccer.com/players/index)
@@ -50,7 +50,7 @@
 * [Watch](https://www.mlssoccer.com/video/index)
 * * [Standings](https://www.mlssoccer.com/standings/2024/conference)
     * [Stats](https://www.mlssoccer.com/stats/index)
-    * [All-Star](https://www.mlssoccer.com/all-star/2024/index)
+    * [All-Star](https://www.mlssoccer.com/all-star/index)
     * [Clubs](https://www.mlssoccer.com/clubs/index)
     * [Competitions](https://www.mlssoccer.com/competitions/index)
     * [Rosters](https://www.mlssoccer.com/players/index)
@@ -861,6 +861,12 @@ New York, NY 10018
 
 Attention: Privacy Administrator/Legal Department
 
+* [![MLS NEXT Pro](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/mls-next-pro_d3fakn.png)](https://www.mlsnextpro.com/)
+* [![MLS NEXT](https://images.mlssoccer.com/image/upload/v1719428286/assets/logos/mls-next_suwanh.png)](https://www.mlssoccer.com/mlsnext/)
+* [![MLS GO](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/MLS_GO_xcw4eo.png)](https://www.mlssoccer.com/mlsgo/)
+
+* [![Leagues Cup](https://images.mlssoccer.com/image/upload/v1719428284/assets/logos/Leagues_cup-vertical_yuhvsx.png)](https://www.leaguescup.com/)
+
 * About MLS
 * [Fact & Record Book](https://www.mlssoccer.com/about/fact-and-record-book)
 * [Competition Guidelines](https://www.mlssoccer.com/about/competition-guidelines)
@@ -1087,5 +1093,6 @@ Vancouver Vancouver
 * [Terms of Service](https://www.mlssoccer.com/legal/terms-of-service)
 * [Privacy Policy](https://www.mlssoccer.com/legal/privacy-policy)
 * [Do Not Sell or Share My Personal Information](https://forms.office.com/Pages/ResponsePage.aspx?id=hslDPaqBtU-nNMOAt8hHpZWgX73AZz1HidlattlTrqdURTJaS09NR0tWRk1DQzRKWFBKVEZPWUpUMy4u)
+* [Manage Cookies](https://www.mlssoccer.com/legal/cookie-settings)
 
 * [©2024 MLS. The Major League Soccer and MLS name and shield are registered trademarks of Major League Soccer, L.L.C. (“MLS”). The names and logos of MLS teams are registered and/or common law trademarks of MLS or are used with the permission of their owners. Any unauthorized use is forbidden.](#)
