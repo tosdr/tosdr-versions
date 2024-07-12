@@ -86,9 +86,9 @@ Not sure how to find the product that’s right for you? We’re here to help yo
         
         Amplify business and social impact by building lasting partnerships with the nonprofits most aligned to your organization and employees.
         
-    * [Unify Giving and Grantmaking](https://www.bonterratech.com/product/grants-management-software)
+    * [Scale Corporate Funding](https://www.bonterratech.com/product/grants-management-software)
         
-    * [Scale Corporate Funding](https://www.bonterratech.com/product/corporate-giving-software)
+    * [Unify Giving & Grantmaking](https://www.bonterratech.com/product/corporate-giving-software)
         
     * [Boost Employee Participation](https://www.bonterratech.com/product/employee-giving-software)
         
@@ -105,9 +105,9 @@ Not sure how to find the product that’s right for you? We’re here to help yo
     
 * **Maximize Impact of Your Programs**
     
-    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Go beyond standard case management with our portfolio of unified impact management platforms")
+    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Elevate your case management with our portfolio of unified impact management solutions")
         
-        Go beyond standard case management with our portfolio of unified impact management platforms
+        Elevate your case management with our portfolio of unified impact management solutions
         
     
 * **Connect With Causes You Care About**
@@ -138,7 +138,7 @@ Not sure how to find the product that’s right for you? We’re here to help yo
         
         View upcoming events, register for webinars, and watch on-demand recordings.
         
-    * [Training](https://www.everyaction.com/training)
+    * [Bonterra Academy](https://www.everyaction.com/training)
         
     
 * **By Topic**
@@ -249,9 +249,9 @@ Coffee talk with the PepsiCo Foundation
         
         Amplify business and social impact by building lasting partnerships with the nonprofits most aligned to your organization and employees.
         
-    * [Unify Giving and Grantmaking](https://www.bonterratech.com/product/grants-management-software)
+    * [Scale Corporate Funding](https://www.bonterratech.com/product/grants-management-software)
         
-    * [Scale Corporate Funding](https://www.bonterratech.com/product/corporate-giving-software)
+    * [Unify Giving & Grantmaking](https://www.bonterratech.com/product/corporate-giving-software)
         
     * [Boost Employee Participation](https://www.bonterratech.com/product/employee-giving-software)
         
@@ -266,9 +266,9 @@ Coffee talk with the PepsiCo Foundation
     
 * **Maximize Impact of Your Programs**
     
-    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Go beyond standard case management with our portfolio of unified impact management platforms")
+    * [Impact Management](https://www.bonterratech.com/pricing/impact-management "Elevate your case management with our portfolio of unified impact management solutions")
         
-        Go beyond standard case management with our portfolio of unified impact management platforms
+        Elevate your case management with our portfolio of unified impact management solutions
         
     
 * **Connect With Causes You Care About**
@@ -297,7 +297,7 @@ Coffee talk with the PepsiCo Foundation
         
         View upcoming events, register for webinars, and watch on-demand recordings.
         
-    * [Training](https://www.everyaction.com/training)
+    * [Bonterra Academy](https://www.everyaction.com/training)
         
     
 * **By Topic**
@@ -402,16 +402,6 @@ Improve community outcomes, simplify business processes, and measure your succes
 
 [Discover Impact Management](https://www.bonterratech.com/product/impact-management)
 
-![A group of diverse employees standing in an office, having a conversation, and smiling. ](/sites/default/files/styles/quilt_image/public/2023-06/istock-1365562800_0.jpg.webp?itok=VJlXuhYt)
-
-Bonterra Platinum Support
-
-Gain the time, resources, and knowledge to maximize your programs’ potential with prioritized support, dedicated experts, hands-on training and more.
-
-[Learn more about Platinum Support](https://www.bonterratech.com/platinum-support)
-
-![A group of diverse employees standing in an office, having a conversation, and smiling. ](/sites/default/files/styles/quilt_image/public/2023-06/istock-1365562800_0.jpg.webp?itok=VJlXuhYt)
-
 We power those who power social impact.
 
 Software for social good
@@ -500,6 +490,42 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![A young child hugs her smiling mother, who is working on a laptop computer and reading handwritten notes.](/sites/default/files/styles/carousel_square_450x450_/public/2023-08/istock-1369908422.jpg.webp?itok=GOos_lYQ)
+
+**First 5 Riverside: Strengthening families with data**
+
+In this case study, discover how Bonterra Impact Management helped First 5 Riverside County dramatically increase efficiency around data.
+
+[Read their story onFirst 5 Riverside: Strengthening families with data](https://www.everyaction.com/case-studies/first-5-riverside-strengthening-families-data)
+
+Impact Powered by:
+
+* Program Management
+* Human services
+* Nonprofits
+* Public agencies
+* Coordinating social services
+
+![Girl smiling at the camera holding a bowl of food](/sites/default/files/styles/carousel_square_450x450_/public/2024-07/bonterra-sonoma-county_header-photo.jpg.webp?itok=we_jLa18)
+
+**Driving evidence-based change in Sonoma County**
+
+How Sonoma County uses data to drive evidence-based change
+
+[Read their story onDriving evidence-based change in Sonoma County](https://www.everyaction.com/case-studies/driving-evidence-based-change-sonoma-county)
+
+Impact Powered by:
+
+![Beneficiaries of A New Leaf](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/new-leaf-main-image.png.webp?itok=egsOOggk)
+
+**Helping Arizonans turn a new leaf**
+
+Read how A New Leaf addresses the needs of Arizonans with the help of Bonterra
+
+[Read their story onHelping Arizonans turn a new leaf](https://www.everyaction.com/case-studies/helping-arizonans-turn-new-leaf)
+
+Impact Powered by:
+
 ![Two people participating in a Pride celebration](/sites/default/files/styles/carousel_square_450x450_/public/2024-06/bonterra-hudson-pride_header-photo.jpg.webp?itok=JwWZ5Ree)
 
 **Expanding support to the LGBTQ+ community**
@@ -535,44 +561,6 @@ Impact Powered by:
 * Nonprofits
 * Medical affairs
 
-![Person under sea with a turtle](/sites/default/files/styles/carousel_square_450x450_/public/2024-05/sylvia-with-turtle-mission-blue-1.jpg.webp?itok=tI3vmZJa)
-
-**Conserving the ocean with data and donations**
-
-Equipped with mapping technology and far-reaching fundraising solutions, Mission Blue is saving precious marine ecosystems.
-
-[Read their story onConserving the ocean with data and donations](https://www.everyaction.com/case-studies/mission-blue)
-
-Impact Powered by:
-
-![A picture of a grandmother being kissed on the cheeks by her granddaughters](/sites/default/files/styles/carousel_square_450x450_/public/2024-05/project-quest-cover-image-2.jpeg.webp?itok=ZhYlKPYz)
-
-**Reducing poverty, job by job**
-
-How Project QUEST uses better data to raise more and serve more San Antonians
-
-[Read their story onReducing poverty, job by job](https://www.everyaction.com/case-studies/reducing-poverty-job-by-job)
-
-Impact Powered by:
-
-![Woman sketching a business plan on a placard at a creative office](/sites/default/files/styles/carousel_square_450x450_/public/2023-09/istock-912338074.jpg.webp?itok=APB8lGPQ)
-
-**How BOK Financial invests in community engagement**
-
-See how BOK Financial uses technology to scale its community engagement programs, covering everything from managing volunteer events to handling disbursements and reporting impact.
-
-[Read their story onBOK Financial](https://www.everyaction.com/case-studies/bok-financial)
-
-Impact Powered by:
-
-* Corporate Social Responsibility
-* Volunteerism
-* Corporations
-* Financial institutions
-* Corporate social responsibility
-* Employee giving
-* Employee volunteering
-
 Previous Next
 
 [See all](https://www.everyaction.com/case-studies)
@@ -580,30 +568,31 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![A group of volunteer embrace after a successful event.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1411288793-1.jpg?h=2b0deddb&itok=6-nlypOR)
+* ![A group of community members wearing matching green shirts put clothes into donation boxes, emphasizing the importance of hosting a Giving Day on GivingTuesday. ](/sites/default/files/styles/card_image_short/public/2023-05/istock-1403251030.jpg?h=a141e9ea&itok=_o9b5rIe)
     
-    ### [4 techniques for turning volunteers into donors](https://www.everyaction.com/blog/turn-volunteers-to-donors)
+    ### [4 reasons to host a nonprofit Giving Day on GivingTuesday](https://www.everyaction.com/blog/givingtuesday-giving-day)
+    
+    * Giving day
+    * Nonprofits
+    * Giving Days
+    
+* ![A smiling woman looks at her phone and reads an email created using our GivingTuesday email template.](/sites/default/files/styles/card_image_short/public/2023-05/givingtuesday-email-template_feature.jpg?h=38ee85f3&itok=piFgtMoY)
+    
+    ### [Promoting #GivingTuesday: An email template for nonprofits](https://www.everyaction.com/blog/givingtuesday-email-template)
     
     * Digital communications & marketing
-    * Fundraising ideas
     * Nonprofits
-    * Mobilize
+    * Donor Engagement
     
-* ![A woman consults with a doctor online](/sites/default/files/styles/card_image_short/public/2024-05/427383288.jpg?h=140710cd&itok=O--6aXa_)
+* ![This image shows a group of nonprofit professionals discussing their GivingTuesday fundraising solution.](/sites/default/files/styles/card_image_short/public/2023-09/istock-857377934.jpg?h=51a72048&itok=6RsFUy8x)
     
-    ### [Battling stigma unlocks access to mental healthcare](https://www.everyaction.com/blog/battling-stigma-unlocks-access-mental-healthcare)
+    ### [Find your virtual GivingTuesday fundraising solution](https://www.everyaction.com/blog/giving-tuesday-fundraising-solution)
     
-    * Medical affairs
-    * Community Outreach
-    
-* ![A woman in an office smiles as she shows her coworker information about the company’s donation matching program.](/sites/default/files/styles/card_image_short/public/2024-05/donation-matching_0.png?h=0a365b51&itok=504Ot3BM)
-    
-    ### [Corporate donation matching: Complete guide for companies](https://www.everyaction.com/blog/donation-matching)
-    
-    * Employee giving
+    * Fundraising ideas
     * Giving day
-    * Corporations
-    * Giving & Matching
+    * Peer-to-peer fundraising
+    * Nonprofits
+    * Giving Days
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
