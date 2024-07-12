@@ -164,7 +164,7 @@ For example, we use the services of various third parties to facilitate provisio
   
 \* We have chosen Dalenys and Checkout as a service providers for managing and securing online payments users subscribe to a FAMILEO plan [https://www.dalenys.com/en/](https://www.dalenys.com/en/) [https://www.checkout.com/](https://www.checkout.com/).  
   
-\* We have chosen SendinBlue as a service provider for management of and sending automatic emails from FAMILEO services [https://fr.sendinblue.com/](https://fr.sendinblue.com/).  
+\* We have chosen Brevo as a service provider for management of and sending automatic emails from FAMILEO services [https://www.brevo.com](https://www.brevo.com/)  
   
 \* We have chosen Zendesk as a service provider for setting up the online chat service on our website as well as for processing user support requests [https://www.zendesk.com/](https://www.zendesk.com/).  
   
@@ -242,7 +242,7 @@ We reserve the right to modify this Privacy Policy at any time. The latest versi
   
 If we modify this policy in a manner that we, at our sole discretion, consider to be material, we will notify you by sending an email to the address associated with your account. By continuing to access or using the Services after these changes take effect, you agree to be bound by the terms set out in the new Privacy Policy.  
   
-Most recent update of this document: **March 29th, 2024.**
+Most recent update of this document: **July 3rd, 2024.**
 
 ![](/bundles/web/img/icon/banner/social-network.svg?v10-1)  
 Private and secure family network
