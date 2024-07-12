@@ -130,7 +130,7 @@ Furthermore, mail.com may use this information collected by mail.com for:
 
 ### Third party cookies and tracking
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [network advertising](https://www.networkadvertising.org/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [network advertising](https://thenai.org/privacy-policy/).
 
 ### Disclosure of Information
 
@@ -287,7 +287,7 @@ The version available at the time of your visit always applies.
 
 ### Do we permit third parties to collect information?
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. For more information please [click here](https://content-admin-mailcom-live.poma-uipool.be-prod-iz1-lxa.poinfra.server.lan/company/privacypolicy/#third-party).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. For more information please [click here.](https://www.mail.com/company/privacypolicy/#third-party)
 
 ### Your GDPR and UK GDPR Rights (only for individuals located in the European Union or United Kingdom)
 
@@ -347,7 +347,7 @@ We refer to the ‘Information we collect’ section above which provides detail
 **Cross-border Transfers**  
 Please note that this product is intended for an audience in the United States, and that the information is processed on servers located in the United States. The processing of the information therefore predominantly takes place in this territory. However, it is possible that your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the services you understand that your information may be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.  
   
-Some non-EEA countries are recognized under the UK GDPR and by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en). For transfers of personal information from the UK and/or EEA to countries not considered adequate under the UK GDPR or by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted under the UK GDPR and by the European Commission to protect your personal information. You may obtain a copy of these measures by contacting us. We have a legitimate interest in disclosing or transferring your personal data to third parties in the event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or part of the company, all assets or shares (including in connection with bankruptcy or similar proceedings). Such third parties can include e.g. an acquiring company and its consultants.  
+Some non-EEA countries are recognized under the UK GDPR and by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). For transfers of personal information from the UK and/or EEA to countries not considered adequate under the UK GDPR or by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted under the UK GDPR and by the European Commission to protect your personal information. You may obtain a copy of these measures by contacting us. We have a legitimate interest in disclosing or transferring your personal data to third parties in the event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or part of the company, all assets or shares (including in connection with bankruptcy or similar proceedings). Such third parties can include e.g. an acquiring company and its consultants.  
   
 **Retention Periods**  
 We only store your personal data as long as is necessary to fulfil the purpose for processing the personal data, unless a longer retention period is required or permitted in accordance with applicable law. The criteria used to determine our retention periods include (i) the duration of our business relationship with you (e.g. the period in which you maintain your account with us); (ii) whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records for a certain period of time before we can delete them), or (iii) whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
@@ -375,6 +375,6 @@ Version: May 23, 2023
 * [CA Do Not Sell My Info](https://www.mail.com/donotsell/)
 * [Environment](https://www.mail.com/company/environment/)
 * [Jobs](https://www.mail-and-media.com/en/jobs.html)
-* [Help Center](https://support.mail.com/index.html)
+* [Help Center](https://support.mail.com/)
 * [Newsletter](https://www.mail.com/newsletter/)
 * [Press Room](https://www.mail.com/blog/tags/press_release/)
