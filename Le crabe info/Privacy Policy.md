@@ -2,6 +2,7 @@
 
 Site [Communauté](https://community.lecrabeinfo.net/ "Communauté")
 
+* [S'informer](https://lecrabeinfo.net/cat/sinformer)
 * [Apprendre](https://lecrabeinfo.net/cat/apprendre)
 * [Dépanner](https://lecrabeinfo.net/cat/depanner)
 * [Sécuriser](https://lecrabeinfo.net/cat/securiser)
@@ -103,7 +104,7 @@ Le Crabe Info utilise Cloudflare pour se protéger contre le piratage et les att
 ##### Raccourcis
 
 * [Windows 11](https://lecrabeinfo.net/faq-windows-11.html)
-* [PC portables pas cher 1](https://lecrabeinfo.net/pc-portables-pas-cher-les-meilleurs-a-moins-de-500-euros.html)
+* [PC portables pas cher 0](https://lecrabeinfo.net/pc-portables-pas-cher-les-meilleurs-a-moins-de-500-euros.html)
 * [Meilleurs Antivirus (2024)](https://lecrabeinfo.net/meilleur-antivirus-quel-antivirus-choisir-pour-windows-en-2024.html)
 * [Meilleurs VPN (2024)](https://lecrabeinfo.net/quel-vpn-choisir-le-guide-pour-les-debutants.html)
 * [ISO Windows](https://lecrabeinfo.net/telecharger-iso-de-windows-7-8-10-et-11-gratuitement.html)
@@ -113,14 +114,14 @@ Le Crabe Info utilise Cloudflare pour se protéger contre le piratage et les att
 
 Nos si délicieux cookies... 😔
 
-Vous avez choisi de refuser les cookies : nous ne pouvons donc pas afficher de publicités sur le site.  
-Nous respectons votre choix. Sachez néanmoins que c'est grâce aux cookies et à la publicité que Le Crabe Info est entièrement gratuit.
+Vous avez choisi de refuser les cookies : nous ne pouvons donc pas afficher de publicités personnalisées sur le site.  
+Nous respectons votre choix. Sachez néanmoins que c'est grâce aux cookies et à la publicité personnalisée que Le Crabe Info est entièrement gratuit.
 
 En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crabe Info ! 🦀
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 347 utilisateurs actifs
+##### 377 utilisateurs actifs
 
 Chargement en cours
 
@@ -130,30 +131,30 @@ Chargement en cours
 
 ### À la une
 
-* [Outlook : comment annuler l’envoi d’un e-mail ?](https://lecrabeinfo.net/outlook-comment-annuler-lenvoi-dun-e-mail.html)
-* [Pourquoi mon PC sort de veille tout seul ? 4 raisons possibles !](https://lecrabeinfo.net/pourquoi-mon-pc-sort-de-veille-tout-seul-4-raisons-possibles.html)
-* [WinMerge : comment comparer des dossiers sur Windows ?](https://lecrabeinfo.net/winmerge-comment-comparer-des-dossiers-sur-windows.html)
+* [L’avenir du compte local sur Windows 11 est-il vraiment en péril ?](https://lecrabeinfo.net/lavenir-du-compte-local-sur-windows-11-est-il-vraiment-en-peril.html)
+* [Windows 11 build 26231 : quoi de neuf ?](https://lecrabeinfo.net/windows-11-build-26231-quoi-de-neuf.html)
+* [Télécharger les ISO de Windows 7 (gratuit)](https://lecrabeinfo.net/telecharger-iso-windows-7.html)
 
 ### Tendance
 
 * [Télécharger les ISO de Windows 10](https://lecrabeinfo.net/telecharger-iso-windows-10.html)
-* [Créer une clé USB d'installation de Windows 10](https://lecrabeinfo.net/creer-une-cle-usb-dinstallation-de-windows-10.html)
 * [Les meilleurs serveurs DNS en 2024 (rapides et gratuits)](https://lecrabeinfo.net/les-meilleurs-serveurs-dns-rapides-et-gratuits.html)
+* [Créer une clé USB d'installation de Windows 10](https://lecrabeinfo.net/creer-une-cle-usb-dinstallation-de-windows-10.html)
 
 ### À propos
 
 * [À propos](https://lecrabeinfo.net/about)
-* [Parcourir](https://lecrabeinfo.net/browse)
+* [L'équipe](https://lecrabeinfo.net/authors)
+* [Nous contacter](https://lecrabeinfo.net/contact)
 * [Politique de confidentialité](https://lecrabeinfo.net/politique-de-confidentialite)
-* [Conditions générales d'utilisation](https://lecrabeinfo.net/cgu)
-* [Contacter Le Crabe](https://lecrabeinfo.net/contact)
-* Cookies
+* [Conditions générales d’utilisation](https://lecrabeinfo.net/cgu)
+* Gestion des cookies
 
 ### Statistiques
 
-* 68 287 membres
-* 841 articles
-* 26 227 commentaires
+* 68 341 membres
+* 848 articles
+* 26 313 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
