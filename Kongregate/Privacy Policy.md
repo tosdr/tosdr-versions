@@ -105,7 +105,7 @@ When you access, connect to, sign up to, participate in, create an account for, 
     
 8. **Other Information You Provide.** We collect the following types of personally identifiable information: your contact information (such as name, postal or email address, or phone number), username and password, purchase history on our Platform, game play preferences (such as an interest in a particular type of game or genre), information you provide by interacting with us through social media, and photographs that you submit on our Platform or through our social media channels. By submitting a photograph, you waive any rights thereto and authorize us to copyright, use and publish the same in print or electronically for any lawful purpose.
     
-9. **Information We Automatically Collect.** Kongregate, and our third-party partners in analytics, user acquisition, and advertising, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis.
+9. **Information We Automatically Collect.** Kongregate, Kongregate affiliates, and our third-party partners in analytics, user acquisition, and advertising, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the Site, track users’ movements around the Site, and gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual or aggregated basis.
     
     * **Analytics.** When you visit our Platform, we automatically collect the following types of information: information about the devices you use to access the Internet (such as the IP address and the device, browser, and operating system type), URLs that refer you to our Platform and the dates and times of your visits, information on your gaming behavior on our Platform (e.g., page views, paths you take through our Sites, frequency of visits, referring/exit pages), general geographic location information (e.g., country) that shows where you are when browsing our Sites, search terms that you enter to reach our Sites or enter on our Sites to find products, and the fact that you opened one of our emails. We utilize analytics services to help us track the efficacy of our Platform and help us learn more about our users’ behavior.
         
@@ -149,21 +149,9 @@ When you access, connect to, sign up to, participate in, create an account for, 
     * to determine credit risk. The legal basis of this processing is Article 6(1)(f) of GDPR. We have an interest to assess credit risks in order to protect our economic interest. This interest outweighs the user’s interest in not having personal data processed.
     * or to obtain payment for our Services. The legal basis of this processing is Article 6(1)(b) of GDPR.
     * to outside auditors and regulators in case of legal obligations. The legal basis of this processing is Article 6(1)(c) of GDPR.
-6. **Intra-Group Transfers.** We are part of a group of gaming studios that are owned by our parent company Modern Times Group MTG AB (“MTG”), a Swedish gaming company. This section explains how personal data may be processed with MTG and the reasons behind it:
+6. **Corporate Transaction, Reorganization or Bankruptcy.** In the event of a change of control, sale of some or all of our business or assets, corporate reorganization or bankruptcy, we would share the pertinent customer information (which may include your personal information) with the other business entity (or entities) involved in the transaction. In such an event, we would notify you via email and/or a prominent notice on our Platform of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. The legal basis of this processing is Article 6(1)(f) of GDPR.
     
-    1. What Personal Data is Processed:
-        1. MTG supports us in ensuring compliance with data protection laws. As part of this partnership, we may jointly process personal data such as names, email addresses, usernames, unique identifiers (e.g., game-ID players), and other necessary information to address your data protection requests effectively and in a timely manner.
-    2. Purpose:
-        1. Our objective is to provide you with a high level of data protection when you engage with our games. To achieve this, we receive support from MTG to ensure compliance with relevant data protection laws. This collaboration serves as a legitimate interest for both Kongregate and MTG, as well as our other group of gaming studios, and benefits you as our valued user.
-    3. Recipients of Personal Data:
-        1. The processed personal data may be shared with our providers of office tools and with MTG. These recipients are bound by contractual obligations and are required to maintain the confidentiality and security of your personal data.
-    4. Legal Basis:
-        1. The legal basis for processing your personal data in collaboration with MTG is Art. 6 para. 1 let. c) and f) of the General Data Protection Regulation (GDPR).
-    5. Data Retention:
-        1. To demonstrate our compliance with data protection laws, we retain data protection requests for a specific duration. Due to this, data protection requests of yours will be stored no longer than necessary.
-7. **Corporate Transaction, Reorganization or Bankruptcy.** In the event of a change of control, sale of some or all of our business or assets, corporate reorganization or bankruptcy, we would share the pertinent customer information (which may include your personal information) with the other business entity (or entities) involved in the transaction. In such an event, we would notify you via email and/or a prominent notice on our Platform of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. The legal basis of this processing is Article 6(1)(f) of GDPR.
-    
-8. **Legal Compliance.** We may disclose information upon governmental request, in response to a court order, or when required by law to do so. The legal basis of this processing is Article 6(1)(c) of GDPR.
+7. **Legal Compliance.** We may disclose information upon governmental request, in response to a court order, or when required by law to do so. The legal basis of this processing is Article 6(1)(c) of GDPR.
     
 
 3\. DATA RETENTION
@@ -257,12 +245,12 @@ The personal data that we collect from you may be transferred to and stored at a
 
 Kongregate is the “controller” in line with GDPR and other applicable data protection laws. Our external data protection officer is:
 
+ARTANA Digital GmbH  
 Prof. Dr. Christian Rauda  
-GRAEF Rechtanswälte Digital PartG mbB  
-Jungfrauenthal 8  
-20140 Hamburg, Germany  
-Email:[office@graef.eu](javascript:util.openURL('mailto: office@graef.eu'))  
-Website: [www.graef.eu](javascript:util.openURL('http://www.graef.eu/'))
+Alstertwiete 3  
+20099 Hamburg, Germany  
+Email: [privacy@artana.law](javascript:util.openURL('mailto: privacy@artana.law'))  
+Website: [www.artana.law](javascript:util.openURL('http://www.artana.law/'))
 
 9\. QUESTIONS, CONCERNS OR REQUESTS.
 ------------------------------------
