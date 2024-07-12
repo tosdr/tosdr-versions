@@ -322,37 +322,37 @@ For home
         
          ![Small Business](/content/dam/avast/icon/buisness-11.svg)
         
-        [Essential](https://www.avast.com/business/products/essential), [Premium](https://www.avast.com/en-us/business/products/premium), or [Ultimate](https://www.avast.com/en-us/business/products/ultimate) Business Security managed from integrated, cloud-based Business Hub platform.
+        [Essential](https://www.avast.com/business/products/essential), [Premium](https://www.avast.com/business/products/premium), or [Ultimate](https://www.avast.com/h/business/products/ultimate) Business Security managed from integrated, cloud-based Business Hub platform.
         
     * Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
         Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
         Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
         Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
@@ -503,13 +503,13 @@ Blogs
 
 Americas
 
- [![Argentina](/content/dam/avast/flag/es-ar.svg) Argentina](https://www.avast.com/es-ar/eula)[![Brasil](/content/dam/avast/flag/pt-br.svg) Brasil](https://www.avast.com/pt-br/eula)[![Canada (English)](/content/dam/avast/flag/en-ca.svg) Canada (English)](https://www.avast.com/en-ca/eula)[![Canada (français)](/content/dam/avast/flag/en-ca.svg) Canada (français)](https://www.avast.com/fr-ca/eula)[![Chile](/content/dam/avast/flag/es-cl.svg) Chile](https://www.avast.com/es-cl/eula)[![Colombia](/content/dam/avast/flag/es-co.svg) Colombia](https://www.avast.com/es-co/eula)[![EE.UU. (español)](/content/dam/avast/flag/en-us.svg) EE.UU. (español)](https://www.avast.com/es-us/eula)[![México](/content/dam/avast/flag/es-mx.svg) México](https://www.avast.com/es-mx/index)[![USA (English)](/content/dam/avast/flag/en-us.svg) USA (English)](https://www.avast.com/en-us/eula)
+ [![Argentina](/content/dam/avast/flag/es-ar.svg) Argentina](https://www.avast.com/es-ar/eula)[![Brasil](/content/dam/avast/flag/pt-br.svg) Brasil](https://www.avast.com/pt-br/eula)[![Canada (English)](/content/dam/avast/flag/en-ca.svg) Canada (English)](https://www.avast.com/en-ca/eula)[![Canada (français)](/content/dam/avast/flag/en-ca.svg) Canada (français)](https://www.avast.com/fr-ca/eula)[![Chile](/content/dam/avast/flag/es-cl.svg) Chile](https://www.avast.com/es-cl/eula)[![Colombia](/content/dam/avast/flag/es-co.svg) Colombia](https://www.avast.com/es-co/eula)[![EE.UU. (español)](/content/dam/avast/flag/en-us.svg) EE.UU. (español)](https://www.avast.com/es-us/eula)[![México](/content/dam/avast/flag/es-mx.svg) México](https://www.avast.com/es-mx/eula)[![USA (English)](/content/dam/avast/flag/en-us.svg) USA (English)](https://www.avast.com/en-us/eula)
 
  [![América Latina (español)](/content/dam/avast/flag/es-latin.svg) América Latina (español)](https://www.avast.com/es-ww/eula)
 
 Europe, Middle East & Africa
 
- [![België (Nederlands)](/content/dam/avast/flag/nl-be.svg) België (Nederlands)](https://www.avast.com/nl-be/eula)[![Belgique (français)](/content/dam/avast/flag/nl-be.svg) Belgique (français)](https://www.avast.com/fr-be/eula)[![Česká republika](/content/dam/avast/flag/cs-cz.svg) Česká republika](https://www.avast.com/cs-cz/eula)[![Danmark](/content/dam/avast/flag/da-dk.svg) Danmark](https://www.avast.com/da-dk/index)[![Deutschland](/content/dam/avast/flag/de-de.svg) Deutschland](https://www.avast.com/de-de/eula)[![España](/content/dam/avast/flag/es-es.svg) España](https://www.avast.com/es-es/eula)[![France](/content/dam/avast/flag/fr-fr.svg) France](https://www.avast.com/fr-fr/eula)[![Italia](/content/dam/avast/flag/it-it.svg) Italia](https://www.avast.com/it-it/eula)[![Magyarország](/content/dam/avast/flag/hu-hu.svg) Magyarország](https://www.avast.com/hu-hu/eula)[![Nederland](/content/dam/avast/flag/nl-nl.svg) Nederland](https://www.avast.com/nl-nl/eula)[![Norge](/content/dam/avast/flag/no-no.svg) Norge](https://www.avast.com/no-no/eula)
+ [![België (Nederlands)](/content/dam/avast/flag/nl-be.svg) België (Nederlands)](https://www.avast.com/nl-be/eula)[![Belgique (français)](/content/dam/avast/flag/nl-be.svg) Belgique (français)](https://www.avast.com/fr-be/eula)[![Česká republika](/content/dam/avast/flag/cs-cz.svg) Česká republika](https://www.avast.com/cs-cz/eula)[![Danmark](/content/dam/avast/flag/da-dk.svg) Danmark](https://www.avast.com/da-dk/eula)[![Deutschland](/content/dam/avast/flag/de-de.svg) Deutschland](https://www.avast.com/de-de/eula)[![España](/content/dam/avast/flag/es-es.svg) España](https://www.avast.com/es-es/eula)[![France](/content/dam/avast/flag/fr-fr.svg) France](https://www.avast.com/fr-fr/eula)[![Italia](/content/dam/avast/flag/it-it.svg) Italia](https://www.avast.com/it-it/eula)[![Magyarország](/content/dam/avast/flag/hu-hu.svg) Magyarország](https://www.avast.com/hu-hu/eula)[![Nederland](/content/dam/avast/flag/nl-nl.svg) Nederland](https://www.avast.com/nl-nl/eula)[![Norge](/content/dam/avast/flag/no-no.svg) Norge](https://www.avast.com/no-no/eula)
 
  [![Polska](/content/dam/avast/flag/pl-pl.svg) Polska](https://www.avast.com/pl-pl/eula)[![Portugal](/content/dam/avast/flag/pt-pt.svg) Portugal](https://www.avast.com/pt-pt/eula)[![România](/content/dam/avast/flag/ro-ro.svg) România](https://www.avast.com/ro-ro/eula)[![Schweiz (Deutsch)](/content/dam/avast/flag/de-ch.svg) Schweiz (Deutsch)](https://www.avast.com/de-ch/eula)[![Slovensko (česky)](/content/dam/avast/flag/cs-sk.svg) Slovensko (česky)](https://www.avast.com/cs-sk/eula)[![South Africa](/content/dam/avast/flag/en-za.svg) South Africa](https://www.avast.com/en-za/eula)[![Suisse (français)](/content/dam/avast/flag/de-ch.svg) Suisse (français)](https://www.avast.com/fr-ch/eula)[![Suomi](/content/dam/avast/flag/fi-fi.svg) Suomi](https://www.avast.com/fi-fi/eula)[![Sverige](/content/dam/avast/flag/sv-se.svg) Sverige](https://www.avast.com/sv-se/eula)[![Türkiye](/content/dam/avast/flag/tr-tr.svg) Türkiye](https://www.avast.com/tr-tr/eula)[![United Arab Emirates](/content/dam/avast/flag/en-ae.svg) United Arab Emirates](https://www.avast.com/en-ae/eula)
 
@@ -523,7 +523,7 @@ Asia & Pacific
 
  [![Australia](/content/dam/avast/flag/en-au.svg) Australia](https://www.avast.com/en-au/eula)[![India](/content/dam/avast/flag/hi-in.svg) India](https://www.avast.com/en-in/eula)[![इंडिया (हिंदी)](/content/dam/avast/flag/hi-in.svg) इंडिया (हिंदी)](https://www.avast.com/hi-in/eula)[![Indonesia (English)](/content/dam/avast/flag/id-id.svg) Indonesia (English)](https://www.avast.com/en-id/eula)[![Indonesia (Bahasa Indonesia)](/content/dam/avast/flag/id-id.svg) Indonesia (Bahasa Indonesia)](https://www.avast.com/id-id/eula)[![Malaysia (English)](/content/dam/avast/flag/ms-my.svg) Malaysia (English)](https://www.avast.com/en-my/eula)[![Malaysia (Bahasa Melayu)](/content/dam/avast/flag/ms-my.svg) Malaysia (Bahasa Melayu)](https://www.avast.com/ms-my/eula)[![New Zealand](/content/dam/avast/flag/en-nz.svg) New Zealand](https://www.avast.com/en-nz/eula)[![Philippines (English)](/content/dam/avast/flag/tl-ph.svg) Philippines (English)](https://www.avast.com/en-ph/eula)[![Pilipinas (Filipino)](/content/dam/avast/flag/tl-ph.svg) Pilipinas (Filipino)](https://www.avast.com/tl-ph/eula)[![Singapore](/content/dam/avast/flag/en-sg.svg) Singapore](https://www.avast.com/en-sg/eula)
 
- [![Việt Nam](/content/dam/avast/flag/vi-vn.svg) Việt Nam](https://www.avast.com/vi-vn/eula)[![日本語](/content/dam/avast/flag/ja-jp.svg) 日本語](https://www.avast.co.jp/eula)[![대한민국](/content/dam/avast/flag/ko-kr.svg) 대한민국](https://www.avast.com/ko-kr/eula)[![简体中文](/content/dam/avast/flag/zh-cn.svg) 简体中文](https://www.avast.com/zh-cn/eula)[![繁體中文](/content/dam/avast/flag/zh-tw.svg) 繁體中文](https://www.avast.com/zh-tw/eula)[![ประเทศไทย](/content/dam/avast/flag/th-th.svg) ประเทศไทย](https://www.avast.com/th-th/index)
+ [![Việt Nam](/content/dam/avast/flag/vi-vn.svg) Việt Nam](https://www.avast.com/vi-vn/eula)[![日本語](/content/dam/avast/flag/ja-jp.svg) 日本語](https://www.avast.co.jp/eula)[![대한민국](/content/dam/avast/flag/ko-kr.svg) 대한민국](https://www.avast.com/ko-kr/eula)[![简体中文](/content/dam/avast/flag/zh-cn.svg) 简体中文](https://www.avast.com/zh-cn/eula)[![繁體中文](/content/dam/avast/flag/zh-tw.svg) 繁體中文](https://www.avast.com/zh-tw/eula)[![ประเทศไทย](/content/dam/avast/flag/th-th.svg) ประเทศไทย](https://www.avast.com/th-th/eula)
 
  [![América Latina (español)](/content/dam/avast/flag/es-latin.svg) América Latina (español)](https://www.avast.com/es-ww/eula)
 
@@ -940,7 +940,7 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.15.1. The limited warranty period established by Section [6.1](#limited-warranty-1) is extended for the Appliance to 1 year from the date of purchase (the “_Appliance Warranty Period_”).
 
-13.15.2. You must notify Vendor promptly if the Appliance is or becomes defective. If you notify Vendor of the defect during the Appliance Warranty Period and Vendor is unable to remedy the defect remotely, Vendor at its option and expense within 5business days will either: (a) replace the Appliance with a new or refurbished unit of the Appliance, in which case the warranty established by Section [6.1](https://www.avast.com/limited-warranty-1) will apply for the remainder of the Appliance Warranty Period applicable to the original unit of the Appliance; or (b) terminate your subscription and refund any unearned subscription fees you have previously paid. If the Appliance fails following the end of the Appliance Warranty Period, or if it fails because of misuse, tampering, interference, abuse, casualty, loss or theft, Vendor may charge you its standard price for the replacement unit of the Appliance. Vendor in its sole discretion may replace the Appliance with a new or different appliance that will also be subject to this Agreement (including Section [13.15](#special-terms-15)).
+13.15.2. You must notify Vendor promptly if the Appliance is or becomes defective. If you notify Vendor of the defect during the Appliance Warranty Period and Vendor is unable to remedy the defect remotely, Vendor at its option and expense within 5business days will either: (a) replace the Appliance with a new or refurbished unit of the Appliance, in which case the warranty established by Section [6.1](#limited-warranty-1) will apply for the remainder of the Appliance Warranty Period applicable to the original unit of the Appliance; or (b) terminate your subscription and refund any unearned subscription fees you have previously paid. If the Appliance fails following the end of the Appliance Warranty Period, or if it fails because of misuse, tampering, interference, abuse, casualty, loss or theft, Vendor may charge you its standard price for the replacement unit of the Appliance. Vendor in its sole discretion may replace the Appliance with a new or different appliance that will also be subject to this Agreement (including Section [13.15](#special-terms-15)).
 
 13.16. Mobile Threat Intelligence Platform
 
@@ -1046,7 +1046,7 @@ Company
 
 © 2024 Gen Digital Inc. All rights reserved.
 
-[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://static3.avast.com/10003177/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details) Cookie Preferences
+[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://www.avast.com/content/dam/avast/pdfs/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details) Cookie Preferences
 
  [![](/content/dam/avast/cb/gen-logo-footer.svg)](https://www.avast.com/)
 
