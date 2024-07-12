@@ -196,9 +196,10 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 
 #### Company
 
+* [Awards](https://www.discoveryeducation.co.uk/awards/)
 * [Careers](https://apply.workable.com/discoveryed/)
-* [News](https://www.discoveryeducation.co.uk/news/)
 * [Events](https://www.discoveryeducation.co.uk/events/)
+* [News](https://www.discoveryeducation.co.uk/news/)
 
 #### Not a subscriber?
 
