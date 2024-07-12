@@ -9,6 +9,7 @@ Lesezeichen
 
 * [Startseite](https://www.zeit.de/index)
 
+* [Neu: Politisches Feuilleton](https://www.zeit.de/politisches-feuilleton/index)
 * [Exklusive Artikel](https://www.zeit.de/exklusive-zeit-artikel)
 
 * [Politik](https://www.zeit.de/politik/index)
@@ -66,6 +67,9 @@ Verlagsangebote
 
 Anzeigen
 
+* [Internationaler Master in Madrid](https://www.zeit.de/campus/angebote/management-im-ausland-studieren-iese/index)
+* [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/biel/index)
+* [Tipps für Junior-Consultants](https://www.zeit.de/campus/angebote/5-fragen-junior-consultants/index)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [Eine Reise nach Neuseeland](https://www.zeit.de/angebote/reisen-nach-neuseeland/index)
