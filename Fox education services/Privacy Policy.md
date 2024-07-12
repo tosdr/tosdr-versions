@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20687%20170'%3E%3C/svg%3E)
-
-![](https://foxeducation.com/wp-content/uploads/2023/11/FoxEducation-Logo-with-GS-claim-Blue-Simple.svg)](https://foxeducation.com/de/)
+[![](https://foxeducation.com/wp-content/uploads/2023/11/FoxEducation-Logo-with-GS-claim-Blue-Simple.svg)](https://foxeducation.com/de/)
 
 Toggle Navigation
 
