@@ -9,7 +9,7 @@
 
 * [Log in](https://www.klaviyo.com/login)
 
-[](https://www.klaviyo.com/)
+[](https://www.klaviyo.com/ "Go to the Klaviyo home page")
 
 * Platform
     
@@ -57,7 +57,9 @@
             
             Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
     
-    * * [Watch a video tour of the Klaviyo platform](https://www.klaviyo.com/product/platform-tour)
+    * * [Tour the Klaviyo platform
+            
+            Watch demo](https://www.klaviyo.com/product/platform-tour)
     
 * Integrations
     
@@ -90,50 +92,45 @@
     
 * Resources
     
-    * Considering Klaviyo?
+    * Learn
+        
+        [The Klaviyo Power Up
+        
+        Your all-in-one success center with answers, resources, and community to keep you growing](https://www.klaviyo.com/customer-resources)
+        * [Help center](https://help.klaviyo.com/hc/en-us)
+        * [Academy](https://academy.klaviyo.com/)
+        * [Community](https://community.klaviyo.com/)
+        * [Developers](https://developers.klaviyo.com/en)
+    * Support
+        
+        * [Support overview
+            
+            Onboarding and support resources to get the most out of Klaviyo](https://www.klaviyo.com/success)
+        * [Professional services
+            
+            Enterprise and professional support packages and services](https://www.klaviyo.com/success/premium-support)
+        * [Partner directory
+            
+            Explore partners to work with](https://connect.klaviyo.com/)
+    * Discover more
         
         * [Case studies
             
-            Companies who’ve grown with Klaviyo](https://www.klaviyo.com/customers/case-studies)
-        * [Onboarding and support
-            
-            Resources to get the most out of Klaviyo](https://www.klaviyo.com/success)
-    * Already use Klaviyo?
-        
-        * [Essential resources
-            
-            Onboarding, inspiration, and step-by-step guides to get the most out of Klaviyo](https://www.klaviyo.com/customer-resources)
-        * [Help center
-            
-            In-depth documentation for using Klaviyo](https://help.klaviyo.com/hc/en-us)
-        * [Academy
-            
-            Courses, certifications, and quick primers](https://academy.klaviyo.com/)
-        * [Live training
-            
-            Interactive workshops & strategy sessions](https://www.klaviyo.com/live-training)
-        * [Klaviyo community
-            
-            Learn from 15k+ fellow Klaviyo users](https://community.klaviyo.com/)
-    * Discover more
-        
-        * [Guides and reports
-            
-            Free industry guides & benchmark reports](https://www.klaviyo.com/marketing-resources)
+            Learn from customers who have grown with Klaviyo](https://www.klaviyo.com/customers)
         * [Blog
             
             Industry news and growth strategies](https://www.klaviyo.com/blog)
-        * [Find an agency partner
+        * [Guides and reports
             
-            Digital agencies to support your growth](https://connect.klaviyo.com/)
+            Best practices, strategic guidance, and benchmark reports](https://www.klaviyo.com/marketing-resources)
         * [Trust center
             
             Trust and security information](https://www.klaviyo.com/trust)
-    * * [![](/wp-content/uploads/2024/04/user-hub.jpg)
+    * * [![The Klaviyo Power Up logo with circles showing individuals smiling and looking at the camera](/wp-content/uploads/2024/07/cxc-nav-spotlight-07012024.png)
             
-            Best practices for growing revenue
+            Your all-in-one success center
             
-            How to build your audience, automate sales, optimize conversion, and more](https://www.klaviyo.com/marketing-resources/growth-best-practices)
+            Find the support you need, including help articles, live trainings, and our new guided Power Paths.](https://www.klaviyo.com/customer-resources)
     
 * [Pricing](https://www.klaviyo.com/pricing)
 
@@ -186,7 +183,9 @@
             
             Discover new ways to power smarter digital relationships](https://www.klaviyo.com/product/whats-new)
     
-    * * [Watch a video tour of the Klaviyo platform](https://www.klaviyo.com/product/platform-tour)
+    * * [Tour the Klaviyo platform
+            
+            Watch demo](https://www.klaviyo.com/product/platform-tour)
     
 * Integrations
     
@@ -219,50 +218,45 @@
     
 * Resources
     
-    * Considering Klaviyo?
+    * Learn
+        
+        [The Klaviyo Power Up
+        
+        Your all-in-one success center with answers, resources, and community to keep you growing](https://www.klaviyo.com/customer-resources)
+        * [Help center](https://help.klaviyo.com/hc/en-us)
+        * [Academy](https://academy.klaviyo.com/)
+        * [Community](https://community.klaviyo.com/)
+        * [Developers](https://developers.klaviyo.com/en)
+    * Support
+        
+        * [Support overview
+            
+            Onboarding and support resources to get the most out of Klaviyo](https://www.klaviyo.com/success)
+        * [Professional services
+            
+            Enterprise and professional support packages and services](https://www.klaviyo.com/success/premium-support)
+        * [Partner directory
+            
+            Explore partners to work with](https://connect.klaviyo.com/)
+    * Discover more
         
         * [Case studies
             
-            Companies who’ve grown with Klaviyo](https://www.klaviyo.com/customers/case-studies)
-        * [Onboarding and support
-            
-            Resources to get the most out of Klaviyo](https://www.klaviyo.com/success)
-    * Already use Klaviyo?
-        
-        * [Essential resources
-            
-            Onboarding, inspiration, and step-by-step guides to get the most out of Klaviyo](https://www.klaviyo.com/customer-resources)
-        * [Help center
-            
-            In-depth documentation for using Klaviyo](https://help.klaviyo.com/hc/en-us)
-        * [Academy
-            
-            Courses, certifications, and quick primers](https://academy.klaviyo.com/)
-        * [Live training
-            
-            Interactive workshops & strategy sessions](https://www.klaviyo.com/live-training)
-        * [Klaviyo community
-            
-            Learn from 15k+ fellow Klaviyo users](https://community.klaviyo.com/)
-    * Discover more
-        
-        * [Guides and reports
-            
-            Free industry guides & benchmark reports](https://www.klaviyo.com/marketing-resources)
+            Learn from customers who have grown with Klaviyo](https://www.klaviyo.com/customers)
         * [Blog
             
             Industry news and growth strategies](https://www.klaviyo.com/blog)
-        * [Find an agency partner
+        * [Guides and reports
             
-            Digital agencies to support your growth](https://connect.klaviyo.com/)
+            Best practices, strategic guidance, and benchmark reports](https://www.klaviyo.com/marketing-resources)
         * [Trust center
             
             Trust and security information](https://www.klaviyo.com/trust)
-    * * [![](/wp-content/uploads/2024/04/user-hub.jpg)
+    * * [![The Klaviyo Power Up logo with circles showing individuals smiling and looking at the camera](/wp-content/uploads/2024/07/cxc-nav-spotlight-07012024.png)
             
-            Best practices for growing revenue
+            Your all-in-one success center
             
-            How to build your audience, automate sales, optimize conversion, and more](https://www.klaviyo.com/marketing-resources/growth-best-practices)
+            Find the support you need, including help articles, live trainings, and our new guided Power Paths.](https://www.klaviyo.com/customer-resources)
     
 * [Pricing](https://www.klaviyo.com/pricing)
 
