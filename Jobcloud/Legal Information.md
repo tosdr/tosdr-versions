@@ -1,7 +1,7 @@
 [](# "Start")
 
 * [Careers at JobCloud​](https://careers.jobcloud.ch/en/)
-* [About Us](https://www.jobcloud.ch/c/en/about/)
+* [About us](https://www.jobcloud.ch/c/en/about/)
 * [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
 [![JoubCloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -29,6 +29,7 @@
     * [Employer Branding](https://www.jobcloud.ch/c/en/products/employer-branding/)
     * [International Recruitment](https://www.jobcloud.ch/c/en/products/international-recruitment/)
     
+* [FAQ](https://www.jobcloud.ch/c/en/why-jobcloud/faq/)
 * [Pricing](https://www.jobcloud.ch/c/en/pricing/)
 * [Solutions](#)
     
@@ -42,7 +43,7 @@
     
 
 * [Careers at JobCloud​](https://careers.jobcloud.ch/en/)
-* [About Us](https://www.jobcloud.ch/c/en/about/)
+* [About us](https://www.jobcloud.ch/c/en/about/)
 * [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
 [Log in](https://www.jobcloud.ch/c/en/login/) [Hire Now](https://www.jobcloud.ch/c/en/pricing/)
@@ -311,6 +312,8 @@ We hold contests on a regular basis. The only personal information we use to hol
 
 We use technical and organizational security measures to provide the data under management with state-of-the-art protection against accidental corruption or intentional manipulation, loss, destruction and unauthorized third-party access. Our security precautions are constantly keeping with the latest technological advances.
 
+We use Google ReCAPTCHA to secure our websites against bots and spam software in the best possible way and to protect against misuse by non-human visitors. To protect and optimise our services and combating cyber attacks, certain technical data is collected using cookies. You can find more information in the cookie notice at the end of this privacy policy.
+
 **6\. THIRD-PARTY OFFERS**
 
 JobCloud also presents third-party offers on its platforms and in its e-mails and newsletters or provides links to third-party offers or websites. JobCloud assumes no liability for the collection and treatment of personal data by third parties or their services and IT applications. The data protection provisions applicable to the relevant third party provider will be applicable.
@@ -414,7 +417,7 @@ The use of functional cookies is necessary for our websites to work as well as p
 
 JobCloud uses marketing cookies to ensure that users get more relevant advertising messages by ensuring optimal targeting of the ads; we also use such cookies to measure the effectiveness of the ads.
 
-Find out more about the [tracking technologies](https://www.jobcloud.ch/wp-content/uploads/2024/03/JobCloud_Cookie-Notice_EN_03-2024.pdf) we use here.
+Find out more about the [tracking technologies](https://www.jobcloud.ch/wp-content/uploads/2024/06/JobCloud_Cookie-Notice_EN_03-2024_update-June.pdf) we use here.
 
 **How can you change your cookie settings?**
 
@@ -481,6 +484,7 @@ You can also object to the data processing using this [link](https://www.jobs.ch
 ###### Contact
 
 * [Contact Us](https://www.jobcloud.ch/c/en/contact/)
+* [Press Releases](https://www.jobcloud.ch/c/en/press-releases/)
 
 © 2024 JobCloud — All Rights Reserved.
 
