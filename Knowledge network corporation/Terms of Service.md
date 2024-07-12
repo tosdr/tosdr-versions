@@ -375,9 +375,9 @@ If you have any questions about the Web Services or these Terms of Use, please c
 **Toll Free (Canada):** 1.877.456.6988  
 **Fax:** 604.431.3387
 
-![](https://www-knowledge-ca.azureedge.net/sites/default/files/trademark_luna_name.png)  
-![](https://www-knowledge-ca.azureedge.net/sites/default/files/trademark_chip_name.png)  
-![](https://www-knowledge-ca.azureedge.net/sites/default/files/trademark_inkie_name.png)
+![](/sites/default/files/inline-images/trademark_update-luna.png)  
+![](/sites/default/files/inline-images/trademark_update-chip.png)  
+![](/sites/default/files/inline-images/trademark_update-inkie.png)
 
 Footer Primary
 --------------
