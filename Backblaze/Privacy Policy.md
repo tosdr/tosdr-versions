@@ -1,4 +1,4 @@
-[![Backblaze logo](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64ecb2089097536a884f8d87_Logo%20Group.webp)](https://www.backblaze.com/)
+[![](https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/668ff8bf4b20b0b7c311b669_Backblaze-logo.svg)](https://www.backblaze.com/)
 
 Products
 
