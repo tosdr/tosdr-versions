@@ -224,6 +224,8 @@ Archives Select Month June 2024 March 2024 December 2023 July 2023 June 2023 May
 * [Privacy Policy](https://intercelestial.com/privacy-policy/)
 * [Terms of Service](https://intercelestial.com/terms-of-service/)
 
+Close
+
 [Intercelestial](https://intercelestial.com/)
 ---------------------------------------------
 
