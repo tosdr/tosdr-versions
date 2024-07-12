@@ -69,6 +69,7 @@ Search Keywords  Submit Search
                 * [City University of Hong Kong Calendar](https://www.cityu.edu.hk/lib/digital/calendar/index.htm)
                 * [Office of Education Development and Gateway Education](http://dspace.cityu.edu.hk/handle/2031/5)
         * [Digital CityU Artwork Collection](https://www.cityu.edu.hk/lib/digital/artwork/index.htm)
+        * [Open Books Hong Kong](https://www.cityu.edu.hk/lib/collect/OABook/)
     * [Law Collection](https://www.cityu.edu.hk/lib/collect/law/index.htm)
     * [Media Resources Collection](https://www.cityu.edu.hk/lib/collect/mr/index.htm)
     * [Si Ku Quan Shu Collection](https://www.cityu.edu.hk/lib/collect/skqs/index.htm)
