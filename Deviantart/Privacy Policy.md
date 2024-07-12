@@ -8,7 +8,14 @@
 
 User Menu
 
-[Upgrade to Core](https://www.deviantart.com/core-membership)
+[Upgrade to Core](https://www.deviantart.com/core-membership/buy)
+
+50% off for a limited time!
+
+
+-------------------------------
+
+[Get Core](https://www.deviantart.com/core-membership)
 
 Theme
 
