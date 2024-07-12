@@ -29,6 +29,8 @@
     * [Attend an event](https://www.internetsociety.org/events/upcoming/)
     
 
+[Member Login](https://community.internetsociety.org/s/home-community "Visit the isoc member portal")
+
 en
 
 * [en](https://www.internetsociety.org/sharing-our-content/ "English")
