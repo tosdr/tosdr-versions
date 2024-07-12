@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
     
-* [How to backup your data to Backblaze](https://www.backup4all.com/how-to-backup-your-data-to-backblaze-kb.html)  
+* [How to install Google Drive application](https://www.backup4all.com/how-to-install-google-drive-application-kb.html)  
     
-* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
+* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
     
-* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
+* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
     
-* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
+* [How to activate Backup4all manually](https://www.backup4all.com/how-to-activate-backup4all-manually-kb.html)  
     
 
 Choose language:
