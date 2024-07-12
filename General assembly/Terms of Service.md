@@ -1,4 +1,12 @@
+Set your skills ablaze with **$/£/€1,500 off a short course**.
+
+[Cash in](https://generalassemb.ly/blog/hot-skills-summer-your-skills-on-fire-with-the-seasons-hottest-discounts/)
+
 [Students](https://generalassemb.ly/)
+
+[Employers](https://generalassemb.ly/employers)
+
+[My Account](https://accounts.generalassemb.ly/account)
 
 [Employers](https://generalassemb.ly/employers)
 
@@ -44,30 +52,42 @@ Close menu"
         
     * [Visual Design](https://generalassemb.ly/students/courses/visual-design-short-course)
         
-    * [Workshops](https://generalassemb.ly/students/workshops-and-events)
+* [Workshops](https://generalassemb.ly/students/courses?formatWorkshop=true) Toggle menu
+    
+    * [UX & UI Design Fundamentals in Figma](https://generalassemb.ly/students/courses/ux-ui-design-fundamentals-in-figma-workshop)
         
+    * [Programming with Python Fundamentals](https://generalassemb.ly/students/courses/programming-with-python-fundamentals-workshop)
+        
+    * [Product Management Fundamentals](https://generalassemb.ly/students/courses/product-management-fundamentals-workshop)
+        
+    * [Excel Fundamentals](https://generalassemb.ly/students/courses/excel-fundamentals-workshop)
+        
+    * [Coding Fundamentals - HTML, CSS, & JavaScript](https://generalassemb.ly/students/courses/coding-fundamentals-html-css-javascript-workshop)
+        
+    * [AI for Workplace Productivity](https://generalassemb.ly/students/courses/ai-for-workplace-productivity-workshop)
+        
+    * [AI for Data Analysis and Visualizations](https://generalassemb.ly/students/courses/ai-for-data-analysis-and-visualizations-workshop)
+        
+* [Career Services](https://generalassemb.ly/students/career-services)
+    
 * [Financial Aid](https://generalassemb.ly/students/financing)
     
 * [Resources](#) Toggle menu
     
-    * [Free Classes](https://generalassemb.ly/students/workshops-and-events?free=true&workshops=true)
+    * [Free Classes](https://generalassemb.ly/students/events?free=true&classes=true)
         
-    * [Free Events](https://generalassemb.ly/students/workshops-and-events?free=true&events=true)
+    * [Free Events](https://generalassemb.ly/students/events?free=true&events=true)
         
     * [Blog](https://generalassemb.ly/blog)
-        
-    * [Career Services](https://generalassemb.ly/students/career-services)
         
     * [Our Story](https://generalassemb.ly/about)
         
     * [Our Impact](https://generalassemb.ly/how-we-work/social-impact)
         
 
-[My Account](https://accounts.generalassemb.ly/account)
+[Account](https://accounts.generalassemb.ly/account)
 
 [Request Info](https://generalassemb.ly/students/get-in-touch)
-
-[Employers](https://generalassemb.ly/employers)
 
 GLOBAL TERMS OF SERVICE (TOS)
 =============================
