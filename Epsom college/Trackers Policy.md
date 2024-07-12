@@ -18,7 +18,7 @@
 * [What’s On](https://www.epsomcollege.org.uk/cookies/menu-id-257)
 
 * [Information for Parents](https://www.epsomcollege.org.uk/information-for-parents/)
-* [Extranet](https://home.epsomcollege.org.uk/)
+* [Parent Portal](https://epsomcollege.parents.isamshosting.cloud/)
 * [Royal Medical Foundation](https://www.royalmedicalfoundation.org/)
 * [Pupil Portal](https://pupilp.epsomcollege.org.uk/)
 * [Epsom College in Malaysia](https://www.epsomcollege.edu.my/)
