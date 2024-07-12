@@ -82,6 +82,7 @@ Turn Your Curiosity Into Discovery
 * [Everything Else](https://facts.net/uncategorized/)
 * [Forum](https://discuss.facts.net/)
 * [Gallery](https://facts.net/gallery/)
+* [Quotes](https://quotes.cx/)
 
 ![search](https://facts.net/wp-content/themes/newsanchor/images/svg/search.svg) 
 
@@ -203,24 +204,25 @@ Turn Your Curiosity Into Discovery
 * [Everything Else](https://facts.net/uncategorized/)
 * [Forum](https://discuss.facts.net/)
 * [Gallery](https://facts.net/gallery/)
+* [Quotes](https://quotes.cx/)
 
 Latest Facts
 
-[![17 Facts About Perplexity AI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2274%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
+[![15 Facts About Kris Hallenga ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/15-facts-about-kris-hallenga/)
 
-Technology
+People
 
-21 Jun 2024
+12 Jul 2024
 
-[17 Facts About Perplexity AI](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
+[15 Facts About Kris Hallenga](https://facts.net/history/people/15-facts-about-kris-hallenga/)
 
-[![30 Facts About World War III ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
+[![15 Facts About IUD And Ovarian Cysts ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/15-facts-about-iud-and-ovarian-cysts/)
 
-Historical Events
+Health Science
 
-21 Jun 2024
+12 Jul 2024
 
-[30 Facts About World War III](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
+[15 Facts About IUD And Ovarian Cysts](https://facts.net/fitness-and-wellbeing/health-science/15-facts-about-iud-and-ovarian-cysts/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
@@ -308,7 +310,7 @@ We only share and disclose your information in the following situations:
 
 **Vital Interests and Legal Rights**. We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
-**Vendors, Consultants and Other Third-Party Service Providers**. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking [technology](https://facts.net/technology-facts/ "technology") on the Site, which will enable them to collect data about how you interact with the Site over time. This information may be used to, among other things, analyze and [track](https://facts.net/track-facts/ "track") data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or [trade](https://facts.net/science/geography/16-captivating-facts-about-trade/ "trade") any of your information with third parties for their promotional purposes.
+**Vendors, Consultants and Other Third-Party Service Providers**. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking [technology](https://facts.net/technology-facts/ "technology") on the Site, which will enable them to collect data about how you interact with the Site over time. This information may be used to, among other things, analyze and [track](https://facts.net/track-facts/ "track") data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.
 
 **Business Transfers**. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
@@ -430,7 +432,7 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 The Website works with Mediavine to manage third-party interest-based advertising appearing on the Website. Mediavine serves content and advertisements when you visit the Website, which may use first and third-party cookies. A cookie is a small text file which is sent to your computer or mobile device (referred to in this policy as a “device”) by the web server so that a website can remember some information about your browsing activity on the Website.
 
-First party cookies are created by the website that you are visiting. A third-party cookie is frequently used in behavioral advertising and analytics and is created by a domain other than the website you are visiting. Third-party cookies, tags, pixels, beacons and other similar technologies (collectively, “Tags”) may be placed on the Website to monitor interaction with advertising content and to [target](https://facts.net/target-facts/ "target") and optimize advertising. Each internet browser has functionality so that you can [block](https://facts.net/block-facts/ "block") both first and third-party cookies and clear your browser’s cache. The “help” feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies, how to disable existing cookies and how to clear your browser’s cache. For more information about cookies and how to disable them, you can consult the information at [All About Cookies](https://www.allaboutcookies.org/manage-cookies/).
+First party cookies are created by the website that you are visiting. A third-party cookie is frequently used in behavioral advertising and analytics and is created by a domain other than the website you are visiting. Third-party cookies, tags, pixels, beacons and other similar technologies (collectively, “Tags”) may be placed on the Website to monitor interaction with advertising content and to [target](https://facts.net/target-facts/ "target") and optimize advertising. Each internet browser has functionality so that you can block both first and third-party cookies and clear your browser’s cache. The “help” feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies, how to disable existing cookies and how to clear your browser’s cache. For more information about cookies and how to disable them, you can consult the information at [All About Cookies](https://www.allaboutcookies.org/manage-cookies/).
 
 Without cookies you may not be able to take full advantage of the Website content and features. Please note that rejecting cookies does not mean that you will no longer see ads when you visit our Site. In the event you opt-out, you will still see non-personalized advertisements on the Website.
 
