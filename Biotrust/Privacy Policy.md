@@ -158,7 +158,7 @@
 
 * [Purchase History](https://www.biotrust.com/account)
 * [Manage Subscriptions](https://www.biotrust.com/account)
-* [Track My Order](https://helpcenter.biotrust.com/en-US)
+* [Track My Order](https://www.biotrust.com/account)
 * [Forgot Password](https://www.biotrust.com/account/login#recover)
 * [Create Account](https://www.biotrust.com/account/register)
 * [Customer Support](https://helpcenter.biotrust.com/en-US)
@@ -378,7 +378,7 @@ CUSTOMER SUPPORT
 * [Purchase History](https://www.biotrust.com/account)
 * [Manage Subscriptions](https://www.biotrust.com/account)
 * [Subscribe & Save FAQ](https://www.biotrust.com/pages/subscribe-save-faq)
-* [Track My Order](https://helpcenter.biotrust.com/en-US)
+* [Track My Order](https://www.biotrust.com/account)
 * [Shipping Policies](https://www.biotrust.com/pages/shipping)
 * [Return Policy](https://www.biotrust.com/pages/return-exchange-policy)
 * [Forgot Password](https://www.biotrust.com/account/login#recover)
