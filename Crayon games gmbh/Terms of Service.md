@@ -392,4 +392,4 @@ Web: http://ww.crayon.games
 
 Commercial registry: District Court of Bamberg, HRB 10547  
 VAT No.: DE348361663  
-COO & Co-Founder: Dr. Ralf Sürig, CEO: Viktor Pulz
+Gesetzlich vertreten durch die Alleingesellschafterin YOURE Family GmbH, diese vertreten durch den Geschäftsführer Alejandro Manuel Suárez Cronauer
