@@ -34,7 +34,7 @@ Terms and Conditions
 
 ![Title separator](https://eslbrains.com/wp-content/themes/esl/images/line.svg)
 
-Last updated: Jan, 31, 2022
+Last updated: 2 July 2024
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS WEBSITE AND THE SERVICES. BY USING OR ACCESSING THIS WEBSITE AND THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS, INCLUDING THE PRIVACY POLICY ON THE WEBSITE, AND ANY ADDITIONAL TERMS OR FUTURE MODIFICATIONS AS DESCRIBED HEREIN. IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, THEN PLEASE DO NOT ACCESS OR USE THIS WEBSITE AND THE SERVICES.
 
@@ -53,7 +53,7 @@ For the purposes of these Terms and Conditions:
 * **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where “control” means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 * **Account** means a unique account created for You to access our Service or parts of our Service.
 * **Country** refers to: Poland
-* **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to ESL Brains Saluda & Makarczyk sp.j., Czarnieckiego 4b/36, 61-538 Poznan, Poland.
+* **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to ESL Brains sp. z o.o., Al. Niepodległości 124/18, 02-577 Warszawa, Poland.
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 * **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
 * **Service** refers to the Website.
@@ -305,10 +305,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Rule of three: third spaces](https://eslbrains.com/rule-of-three-third-spaces/ "Rule of three: third spaces")
-* [When crowds fund your project](https://eslbrains.com/when-crowds-fund-your-project/ "When crowds fund your project")
-* [I’ll do it better next time!](https://eslbrains.com/ill-do-it-better-next-time/ "I’ll do it better next time!")
-* [When exercise meets cosy…](https://eslbrains.com/when-exercise-meets-cosy/ "When exercise meets cosy…")
+* [Is free speech hate speech?](https://eslbrains.com/is-free-speech-hate-speech/ "Is free speech hate speech?")
+* [I was wondering if… (making requests)](https://eslbrains.com/i-was-wondering-if-making-requests/ "I was wondering if… (making requests)")
+* [Shakespeare: the be-all and end-all?](https://eslbrains.com/shakespeare-the-be-all-and-end-all/ "Shakespeare: the be-all and end-all?")
+* [Eating and cooking](https://eslbrains.com/lesson-set/eating-and-cooking/ "Eating and cooking")
 
 © ESL Brains 2023
 
@@ -332,6 +332,6 @@ Password
 
 or continue with
 
-[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fterms-and-conditions%2F)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fterms-and-conditions%2F)
+[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fmy-account)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fmy-account)
 
 Don't have an account? [SIGN UP](https://eslbrains.com/pricing "Not a member? Register")
