@@ -18,14 +18,16 @@ Donate Today
 * [Skip to Main Content](#main)
 * [Skip to Footer](#footer)
 
-OpenSecrets Launches New State and Federal Lobbying Tool [Read the press release  ›](#)[](https://www.opensecrets.org/news/2024/01/press-release-opensecrets-launches-first-of-its-kind-tool-to-track-spending-on-state-and-federal-lobbying/)
+Your Opinion Counts! [Take a quick survey to help make OpenSecrets even better.  ›](#)[](https://www.surveymonkey.com/r/V6M3NQG)
 
-Is a transparent government important to you?
----------------------------------------------
+Can you give just $1?
+---------------------
 
-If a transparent and thriving democracy is important to you, we invite you to help support OpenSecrets this month. **Join our Summer New Donor Drive and help us hit our goal of 100 new donors by June 28!** Any gift amount will help us continue providing the free resources and reporting that matters to you.
+You are one of **7 million** annual visitors to OpenSecrets. If you each donated just $1 a year, we'd never worry about funding again.
 
-[Donate Now](https://action.opensecrets.org/a/donate?utm_campaign=donate&utm_medium=2024_summernewdonordrive_2&utm_source=/open-data/terms-of-service&oa_utm_campaign=donate&oa_utm_medium=2024_summernewdonordrive_2&oa_utm_source=/open-data/terms-of-service)
+[Donate Now](https://action.opensecrets.org/a/donate?utm_campaign=donate&utm_medium=$1%20Scrim%202.0&utm_source=/open-data/terms-of-service&oa_utm_campaign=donate&oa_utm_medium=$1%20Scrim%202.0&oa_utm_source=/open-data/terms-of-service)
+
+**We run on donations!**
 
 [Open Secrets following the money in politics](https://www.opensecrets.org/) Menu
 
