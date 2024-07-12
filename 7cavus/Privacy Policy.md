@@ -80,7 +80,7 @@ Help
 
 * [Help](https://7cav.us/help/) 
 
-[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)
+[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)[](https://linktr.ee/7thcavgaming)
 
 Privacy policy
 ==============
@@ -152,7 +152,7 @@ We may make changes to this policy at any time. You may be asked to review and r
 
 * [Help](https://7cav.us/help/) 
 
-[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)
+[Facebook](https://www.facebook.com/7thCavalryGaming/) [Twitter](https://twitter.com/7Cav) [youtube](https://www.youtube.com/@7CavGaming) [Discord](https://discord.7cav.us/) [Steam](https://steamcommunity.com/groups/7Cav) [Instagram](https://www.instagram.com/7thcavgaming/) [GitHub](https://github.com/7cav) [RSS](https://7cav.us/forums/-/index.rss)[](https://linktr.ee/7thcavgaming)
 
 * Change width
 
