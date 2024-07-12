@@ -81,7 +81,7 @@
         [GravityZone Products](https://www.bitdefender.com/business/products/security-products.html)
         
         * [CSPM+](https://www.bitdefender.com/business/products/gravityzone-cspm-plus.html) _NEW_
-        * [Endpoint Detection and Response (EDR)](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html)
+        * [Endpoint Detection and Response (EDR)](https://www.bitdefender.com/business/products/endpoint-detection-response.html)
         * [Extended Detection and Response (XDR)](https://www.bitdefender.com/business/products/gravityzone-xdr.html)
         * [Security for Containers (Linux)](https://www.bitdefender.com/business/products/container-security.html)
         * [Cloud and Server Security](https://www.bitdefender.com/business/products/cloud-server-security.html)
