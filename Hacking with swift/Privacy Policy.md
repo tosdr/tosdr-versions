@@ -40,7 +40,7 @@
 * [SUBSCRIBE](https://www.hackingwithswift.com/plus)
 * 
 
-[WWDC24 SALE: **Save 50% on all my Swift books and bundles!** >>](https://www.hackingwithswift.com/offers)
+[LAST CHANCE: **Save 50% on all my Swift books and bundles!** >>](https://www.hackingwithswift.com/offers)
 
 ![](/img/swift_logo.png)
 
