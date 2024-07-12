@@ -40,13 +40,13 @@ It’s so easy to get started with easyfeedback
 
 Create questionnaire, invite participants and evaluate survey results.
 
-* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/)
+* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
 
 easyfeedback & the Result STUDIO
 
 Let our experts advise you on how you can use easyfeedback.
 
-* [Book your demo](https://easy-feedback.com/personal-consultation/)
+* [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
 
 **Data protection made in Germany** – GDPR | German Server | Certified
 
@@ -86,13 +86,13 @@ It’s so easy to get started with easyfeedback
 
 Create questionnaire, invite participants and evaluate survey results.
 
-* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/)
+* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
 
 easyfeedback & the Result STUDIO
 
 Let our experts advise you on how you can use easyfeedback.
 
-* [Book your demo](https://easy-feedback.com/personal-consultation/)
+* [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
 
 **Data protection made in Germany** – GDPR | German Server | Certified
 
@@ -111,7 +111,7 @@ Popular templates
 * [Employee Satisfaction](https://easy-feedback.com/survey-templates/employee-satisfaction-survey-template/)
 * [Customer Satisfaction](https://easy-feedback.com/survey-templates/customer-satisfaction-survey-template/)
 * [360 Degree Feedback](https://easy-feedback.com/survey-templates/360-degree-feedback-survey-template/)
-* [Net Promoter Score](http://survey-templates/nps-survey-template/)
+* [Net Promoter Score](https://easy-feedback.com/survey-templates/nps-survey-template/)
 * [Seminar Feedback](https://easy-feedback.com/survey-templates/seminar-feedback-survey-template/)
 * [Competitor Analysis](https://easy-feedback.com/survey-templates/competitor-analysis-survey-template/)
 * [User Experience](https://easy-feedback.com/survey-templates/ueq-questionnaire-template/)
@@ -122,13 +122,13 @@ It’s so easy to get started with easyfeedback
 
 Create questionnaire, invite participants and evaluate survey results.
 
-* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/)
+* [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
 
 easyfeedback & the Result STUDIO
 
 Let our experts advise you on how you can use easyfeedback.
 
-* [Book your demo](https://easy-feedback.com/personal-consultation/)
+* [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
 
 **Data protection made in Germany** – GDPR | German Server | Certified
 
