@@ -45,20 +45,36 @@ Toggle navigation
     
 * Solutions
     
-    For
+    By size
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
-    * [Education](https://education.github.com/)
     
-    By Solution
+    By industry
+    
+    * [Healthcare](https://github.com/solutions/industries/healthcare)
+    * [Financial services](https://github.com/solutions/industries/financial-services)
+    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
+    
+    By use case
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
     
-    Resources
+* Resources
+    
+    Topics
+    
+    * [AI](https://github.com/resources/articles/ai)
+    * [DevOps](https://github.com/resources/articles/devops)
+    * [Innersource](https://github.com/resources/articles/innersource)
+    * [Open Source](https://github.com/resources/articles/open-source)
+    * [Security](https://github.com/resources/articles/security)
+    * [Software Development](https://github.com/resources/articles/software-development)
+    
+    Explore
     
     * [Learning Pathways](https://resources.github.com/learn/pathways)
     * [White papers, Ebooks, Webinars](https://resources.github.com/)
@@ -144,12 +160,12 @@ You signed in with another tab or window. Reload to refresh your session. You si
 [gorilla-devs](https://github.com/gorilla-devs) / **[GDLauncher](https://github.com/gorilla-devs/GDLauncher)** Public
 
 * [Notifications](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher) You must be signed in to change notification settings
-* [Fork 260](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher)
+* [Fork 261](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher)
 * [Star 1.2k](https://github.com/login?return_to=%2Fgorilla-devs%2FGDLauncher)
     
 
 * [Code](https://github.com/gorilla-devs/GDLauncher)
-* [Issues 430](https://github.com/gorilla-devs/GDLauncher/issues)
+* [Issues 433](https://github.com/gorilla-devs/GDLauncher/issues)
 * [Pull requests 6](https://github.com/gorilla-devs/GDLauncher/pulls)
 * [Actions](https://github.com/gorilla-devs/GDLauncher/actions)
 * [Wiki](https://github.com/gorilla-devs/GDLauncher/wiki)
