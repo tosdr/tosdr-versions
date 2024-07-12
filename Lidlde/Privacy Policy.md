@@ -1,10 +1,10 @@
    
 
-[SALE - Stark reduzierte Artikel entdecken >> Jetzt sparen!](https://www.lidl.de/q/query/supersale)
+[Onlineshop-Highlights: Tolle Artikel, große Auswahl, jetzt sparen](https://www.lidl.de/c/shop-highlights-juli/a10050098)
 
 [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")2. Menü
 3. [Onlineshop](https://www.lidl.de/)
-4. [Filial-Angebote](https://www.lidl.de/store)
+4. [Filiale](https://www.lidl.de/store)
 
 6. [](https://www.lidl.de/c/online-prospekte/s10005610)
 7. 1. [](https://www.lidl.de/mla/)
@@ -17,6 +17,10 @@
         [Anmelden](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
         
         Noch kein Konto bei Lidl?[Ganz einfach dein Konto erstellen!](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
+        
+        * [Meine Bestellungen](https://www.lidl.de/css/order-history)
+        * [Zugangsdaten](https://www.lidl.de/css/manage-account/access-data)
+        * [Meine Daten](https://www.lidl.de/css/manage-account/addresses)
         
 8. 1. [](https://www.lidl.de/otc/cart)
     
@@ -33,26 +37,25 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 **Achtung:**Bitte aktualisiere deinen Browser, wenn du mit diesem Browser fortfährst, könnte dein Einkaufserlebnis nicht zufriedenstellend sein!
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Filial-Angebote](https://www.lidl.de/store)
+2. [Filiale](https://www.lidl.de/store)
 3. [Mein Konto](https://www.lidl.de/mla/)
 4. Menü
 
 Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Garten-Welt](https://www.lidl.de/c/garten-welt/s10037956)
-3. [Filial-Angebote](https://www.lidl.de/c/fussballfest-ab-17-06/a10048392?tabCode=Current_Sales_Week)
-4. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
-5. [Sale](https://www.lidl.de/q/query/supersale)
-6. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
-7. [Lidl Insider](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
-8. [Weinwelt](https://www.lidl.de/c/weinwelt/s10006418)
-9. [Lidl Reisen](https://www.lidl-reisen.de/)
-10. [Lidl Connect](https://www.lidl.de/c/lidl-connect/s10007717)
-11. [Lidl Strom](https://www.lidl-strom.de/)
-12. [Lidl Fotos](https://www.lidl-fotos.de/)
-13. [Produktversicherung](https://lidl.simplesurance.de/)
-14. [Rezepte](https://www.lidl-kochen.de/)
+2. [Filial-Angebote](https://www.lidl.de/c/gartenparty-ab-08-07/a10049953?tabCode=Current_Sales_Week)
+3. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
+4. [Sale](https://www.lidl.de/q/query/supersale)
+5. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
+6. [Lidl Insider](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
+7. [Weinwelt](https://www.lidl.de/c/weinwelt/s10006418)
+8. [Lidl Reisen](https://www.lidl-reisen.de/)
+9. [Lidl Connect](https://www.lidl.de/c/lidl-connect/s10007717)
+10. [Lidl Strom](https://www.lidl-strom.de/)
+11. [Lidl Fotos](https://www.lidl-fotos.de/)
+12. [Produktversicherung](https://lidl.simplesurance.de/)
+13. [Rezepte](https://www.lidl-kochen.de/)
 
 1. [OnlineshopÖffnen](https://www.lidl.de/)
 2. [Garten & Balkon](https://www.lidl.de/h/garten-balkon/h10006533)
@@ -68,7 +71,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/fussballfest-ab-17-06/a10048392?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/gartenparty-ab-08-07/a10049953?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
@@ -79,11 +82,10 @@ Main Navigation[Zurück](#)
 9. [Eigenmarken Food](https://www.lidl.de/c/eigenmarken-food/s10007656)
 
 1. [Lidl PlusÖffnen](https://www.lidl.de/c/lidl-plus/s10007388)
-2. [Lidl Plus Gewinnspiel](https://www.lidl.de/c/lidl-plus-gewinnspiel/s10007516)
-3. [Wie funktioniert Lidl Plus](https://www.lidl.de/c/wie-funktioniert-lidl-plus/s10011363)
-4. [Lidl Babyboxen](https://www.lidl.de/c/lidl-babyboxen/s10011221)
-5. [Services](https://www.lidl.de/c/services/s10007279)
-6. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
+2. [Wie funktioniert Lidl Plus](https://www.lidl.de/c/wie-funktioniert-lidl-plus/s10011363)
+3. [Lidl Babyboxen](https://www.lidl.de/c/lidl-babyboxen/s10011221)
+4. [Services](https://www.lidl.de/c/services/s10007279)
+5. [Service & Hilfe](https://kundenservice.lidl.de/SelfServiceDE/s/)
 
 1. [ThemenweltenÖffnen](https://www.lidl.de/c/themenwelten/s10007142)
 2. [Lidl Live](https://www.lidl.de/c/lidl-live/s10007981)
@@ -227,7 +229,7 @@ Brand Navigation
         
     
 
-[Datenschutzhinweise Download](https://www.lidl.de/static/assets/20240530_Datenschutzhinweise_v12_21_www_lidl_de-1000183.pdf)
+[Datenschutzhinweise Download](https://www.lidl.de/static/assets/20240710_Datenschutzhinweise_v12_22_www_lidl_de-1056620.pdf)
 
 Zum Betrachten des PDF-Dokumentes benötigst du den kostenlosen [Adobe Acrobat Reader](https://get.adobe.com/reader/).
 
@@ -237,7 +239,7 @@ Datenschutz
 Datenschutz auf www.lidl.de
 ---------------------------
 
-(Version 12.21; Stand 30.05.2024)
+(Version 12.22; Stand 10.07.2024)
 ---------------------------------
 
 Datenschutzbestimmungen für den Lidl Online-Shop, das Lidl-Filialgeschäft und Geschäftspartner
@@ -476,15 +478,9 @@ Die im Rahmen der Betrugsprävention erhobenen Daten werden für Zwecke der Nach
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
-  
-
 Personenbezogene Daten, die Sie uns beim Ausfüllen von Kontaktformularen, per Telefon, per E-Mail oder per Social Media, z.B. bei Anfragen an unseren Kundenservice, überlassen, behandeln wir selbstverständlich vertraulich. Wir verwenden Ihre Daten ausschließlich zweckgebunden, um Ihre Anfrage zu bearbeiten.
 
-  
-
 Sofern Sie an einer unserer Kundenumfragen teilnehmen, geschieht dies auf rein freiwilliger Basis. Bei diesen anonymen Befragungen werden keine Informationen gespeichert, die Rückschlüsse auf die Teilnehmer der Befragungen zulassen. Nur das Datum und die Zeit Ihrer Teilnahme werden gespeichert. Sie können Ihre Angaben über Freitextfelder oder die Erstellung von Screenshots konkretisieren. Sie können sich zudem freiwillig bereit erklären, regelmäßig Einladungen zu Nutzerstudien zu erhalten. Dies sind insbesondere telefonische Interviews, schriftliche Umfragen oder Durchführung von Tests zur Benutzerfreundlichkeit unserer Anwendungen. Zu diesem Zweck speichern wir Ihren Vornamen, Nachnamen und Ihre E-Mail-Adresse. Jede persönliche Information, die Sie bei Umfragen oder Nutzerstudien angeben, wird als freiwillig angegeben angesehen und nach Maßgabe der DSGVO gespeichert. Bitte verzichten Sie bei der Verwendung der Freitextfelder und der Screenshot-Funktionalität darauf, personenbezogene Daten von sich oder anderen Personen zu übermitteln.
-
-  
 
 Rechtsgrundlage für die Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f) bzw. Artikel 6 Absatz 1 Buchstabe b) DSGVO. Unser und Ihr gleichlaufendes (berechtigtes) Interesse an dieser Datenverarbeitung ergibt sich hierbei aus dem Ziel, Ihre Anfragen zu beantworten, ggf. vorliegende Probleme zu lösen und somit Ihre Zufriedenheit als Kunde oder Nutzer unserer Webseite zu erhalten und zu fördern. Im Falle der Abgabe einer Einwilligungserklärung im Rahmen einer Kundenumfrage oder Nutzerstudie ist Artikel 6 Absatz 1 Buchstabe a) DSGVO die Rechtsgrundlage für die auf der Einwilligung basierende Datenverarbeitung. Sofern im Rahmen einer Kundenumfrage oder Nutzerstudie Einwilligungen von Ihnen erklärt worden sind, haben Sie die Möglichkeit, diese Einwilligungen jederzeit mit Wirkung für die Zukunft zu widerrufen. Näheres hierzu ist in diesen Fällen in den speziellen Datenschutzgrundsätzen der jeweiligen Kundenumfrage oder Nutzerstudie geregelt.
 
@@ -492,23 +488,15 @@ Rechtsgrundlage für die Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f) b
 
 Empfänger/ Kategorien von Empfängern:
 
-  
-
 Bei der Beantwortung Ihrer Anfragen und zur Auswertung von Kundenumfragen werden Ihre Daten in unserem Auftrag auch von Auftragsverarbeitern aus dem Bereich Kundenservice und Kundenumfragen verarbeitet. Diese sind jeweils sorgfältig ausgesucht, werden von uns auditiert und zudem vertraglich gemäß Artikel 28 DSGVO verpflichtet.
 
-  
-
-Weiterhin kann es erforderlich sein, dass wir Auszüge Ihrer Anfrage an Vertragspartner (bspw. Lieferanten bei produktspezifischen Anfragen) zur Bearbeitung Ihrer Anfrage weitergeben. In diesen Fällen wird die Anfrage zuvor anonymisiert, so dass der Dritte keinen Bezug zu Ihnen herstellen kann. Sofern im Einzelfall die Weitergabe Ihrer personenbezogenen Daten zweckdienlich erscheinen sollte, werden wir Sie hierüber vorher informieren und Sie um Ihre Einwilligung bitten. Ohne Ihre Einwilligung geben wir Ihre Daten zu diesen Zwecken nicht an Dritte weiter.
-
-  
+Zur Bearbeitung Ihrer Reklamation kann es ferner erforderlich sein, Ihre Kontaktdaten an unsere Servicepartner weiterzugeben, die sich mit Ihnen bzgl. der weiteren Reklamationsbearbeitung (z.B. Vereinbarung eines Abhol- oder Reparaturtermins) in Verbindung setzen. Den Namen des konkreten Servicepartners teilen wir Ihnen im Rahmen unserer Kommunikation mit. Die Datenweitergabe ist zur Erfüllung von Gewährleistungsansprüchen und somit zur Durchführung des Vertragsverhältnisses mit Ihnen gemäß Art. 6 Absatz 1 Buchstabe b) DSGVO erforderlich.
 
 Die Ergebnisse unserer Kundenumfragen werden grundsätzlich rein für interne Auswertungen genutzt. Personenbezogene Daten werden von uns nicht an Dritte weitergegeben, sofern Sie hierzu nicht ausdrücklich eingewilligt haben.
 
   
 
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
-
-  
 
 Alle personenbezogenen Angaben, die Sie uns gegenüber bei Anfragen (Anregung, Lob oder Kritik) über diese Webseite oder per E-Mail zukommen lassen, werden von uns spätestens 95 Tage nach der erteilten finalen Rückantwort gelöscht bzw. anonymisiert. Die Erfahrung hat gezeigt, dass in der Regel nach 95 Tagen Rückfragen zu unseren Antworten nicht mehr vorkommen. Bei Geltendmachung Ihrer Betroffenenrechte (siehe unten) werden Ihre personenbezogenen Daten für 3 Jahre nach finaler Rückantwort zum Nachweis gespeichert, dass wir Ihnen umfassend Auskunft erteilt haben und die gesetzlichen Anforderungen eingehalten werden. Die Speicherdauer von im Rahmen von Kundenumfragen ggfs. erhobenen personenbezogenen Daten wird im Rahmen der konkreten Kundenumfrage vorab mitgeteilt.
 
@@ -1467,7 +1455,7 @@ Kundenservice
 
 1\. Name und Kontaktdaten der für die Verarbeitung Verantwortlichen sowie Kontaktdaten der betrieblichen Datenschutzbeauftragten
 
-Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO für die Beantwortung von Kundenanfragen zum **stationären Handel** in unseren Filialen und **sonstigen Anliegen** ist die **Lidl Dienstleistung GmbH & Co. KG**, Bonfelder Str. 2, 74206 Bad Wimpfen. Sie erreichen die Lidl Dienstleistung GmbH & Co. KG bei Bedarf telefonisch unter 0800 - 43 53 361 oder per E-Mail unter [kontakt@lidl.de](mailto:kontakt@lidl.de). Der betriebliche Datenschutzbeauftragte der Lidl Dienstleistung GmbH & Co. KG ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter datenschutz@lidl.de erreichbar.
+Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO für die Beantwortung von Kundenanfragen zum **stationären Handel** in unseren Filialen und **sonstigen Anliegen** ist die **Lidl Dienstleistung GmbH & Co. KG**, Bonfelder Str. 2, 74206 Bad Wimpfen. Sie erreichen die Lidl Dienstleistung GmbH & Co. KG bei Bedarf telefonisch unter 030 - 2200 5500 oder per E-Mail unter [kontakt@lidl.de](mailto:kontakt@lidl.de). Der betriebliche Datenschutzbeauftragte der Lidl Dienstleistung GmbH & Co. KG ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter datenschutz@lidl.de erreichbar.
 
   
 
@@ -1509,7 +1497,7 @@ Bei der Bearbeitung von Anfragen im Zusammenhang mit Parkraumbewirtschaftern kan
 
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
-Alle personenbezogenen Angaben, die Sie uns gegenüber bei Anfragen (Anregung, Lob oder Kritik) über diese Webseite (inkl. der Interaktion mit einem Bot) oder per E-Mail zukommen lassen, werden von uns spätestens 95 Tage nach der erteilten finalen Rückantwort gelöscht bzw. anonymisiert. Personenbezogene Daten im Bot werden innerhalb weniger Stunden anonymisiert. Die Erfahrung hat gezeigt, dass in der Regel nach 95 Tagen Rückfragen zu unseren Antworten nicht mehr vorkommen. Bei Geltendmachung Ihrer Betroffenenrechte nach Ziffer 21 werden Ihre personenbezogenen Daten für 3 Jahre nach finaler Rückantwort zum Nachweis gespeichert, dass wir Ihnen umfassend Auskunft erteilt haben und die gesetzlichen Anforderungen eingehalten werden.
+Personenbezogene Angaben, die Sie uns gegenüber bei Anfragen (Anregungen, Anfragen, Lob oder Kritik) über diese Webseite (inkl. der Interaktion mit einem Bot) oder per E-Mail zukommen lassen, werden von uns grundsätzlich spätestens 95 Tage nach der erteilten finalen Rückantwort gelöscht bzw. anonymisiert. Personenbezogene Daten im Bot werden innerhalb weniger Stunden anonymisiert. Bei Non Food-Reklamationen und kritischen Anliegen beträgt die Speicherdauer aufgrund von Gewährleistungs- und Verjährungsfristen 720 Tage. Bei Geltendmachung von datenschutzrechtlichen Betroffenenrechten werden Ihre personenbezogenen Daten für 3 Jahre nach finaler Rückantwort zum Nachweis gespeichert, dass wir Ihnen umfassend Auskunft erteilt haben und die gesetzlichen Anforderungen eingehalten werden. Bei Werbesperren beträgt die Speicherdauer standardmäßig 1095 Tage.
 
 3\. Anmeldung und Teilnahme an einer Zufriedenheitsbefragung im Kundenservice
 
@@ -1556,8 +1544,6 @@ Beim Aufrufen unserer Kundenumfrage werden durch den auf Ihrem Endgerät zum Ein
 * der von Ihnen verwendete Browser und ggfs. das Betriebssystem Ihres internetfähigen Rechners sowie
 * der Name Ihres Access-Providers,
 
-  
-
 an den Server unserer Webseite gesendet und temporär in einem sogenannten Log-File für folgende Zwecke gespeichert:
 
 * Gewährleistung eines reibungslosen Verbindungsaufbaus,
@@ -1565,9 +1551,7 @@ an den Server unserer Webseite gesendet und temporär in einem sogenannten Log-F
 * Ausschluss von Betrugsversuchen bei Umfragen und
 * Auswertung der Systemsicherheit und -stabilität.
 
-  
-
-Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. § 25 Abs. 2 Nr. 2 TTDSG. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung; diese Verarbeitung ist insoweit auch technisch erforderlich zum Betrieb der Website, indem die Systemsicherheit gewährleistet wird.
+Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. § 25 Abs. 2 Nr. 2 TDDDG. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung; diese Verarbeitung ist insoweit auch technisch erforderlich zum Betrieb der Website, indem die Systemsicherheit gewährleistet wird.
 
   
 
@@ -1608,9 +1592,7 @@ Im Rahmen des Einsatzes von technisch notwendigen Cookies und ähnlichen notwend
 * Benutzereingaben, um Eingaben über mehrere Unterseiten zu behalten (z.B. Speicherung Ihre Cookie-Einwilligung);
 * sicherheitsrelevante Ereignisse (z.B. Erkennung von betrügerischem Eingabe-Verhalten);
 
-  
-
-Rechtsgrundlage für den Einsatz von Einsatz von technisch notwendigen Cookies ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. 25 Abs. 2 Nr. 2 TTDSG. Wir verarbeiten Ihre Daten also auf Grundlage unseres berechtigten Interesses bzw. aufgrund einer technischen Notwendigkeit zum Betrieb der Website.
+Rechtsgrundlage für den Einsatz von Einsatz von technisch notwendigen Cookies ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. 25 Abs. 2 Nr. 2 TDDDG. Wir verarbeiten Ihre Daten also auf Grundlage unseres berechtigten Interesses bzw. aufgrund einer technischen Notwendigkeit zum Betrieb der Website.
 
   
 
@@ -1632,83 +1614,239 @@ Die Speicherdauer für Cookies können Sie unserer nachstehenden Cookie-Liste en
 
   
 
-**Name:** BrowserID
+**Name**: BrowserID
 
-**Dauer:** 1 Jahr
+**Dauer**: 1 Jahr
 
-**Typ:** Technisch notwendig
+**Typ**: Technisch notwendig
 
-**Zweck:** Wird zum Schutz der Systeme verwendet.
-
-  
-
-**Name:** BrowserId\_sec
-
-**Dauer:** 1 Jahr
-
-**Typ:** Technisch notwendig
-
-**Zweck:** Wird zum Schutz der Systeme verwendet.
+**Zweck**: Wird zum Schutz der Systeme verwendet.
 
   
 
-**Name:** CookieConsentPolicy
+**Name**: BrowserId\_sec
 
-**Dauer:** 1 Jahr
+**Dauer**: 1 Jahr
 
-**Typ:** Technisch notwendig
+**Typ**: Technisch notwendig
 
-**Zweck:** Wird zum Anwenden der Cookie-Einwilligungsvoreinstellungen von Endbenutzern verwendet, die vom clientseitigen Dienstprogramm festgelegt werden.
-
-  
-
-**Name:** LSKey-c$CookieConsentPolicy
-
-**Dauer:** 1 Jahr
-
-**Typ:** Technisch notwendig
-
-**Zweck:** Wird zum Anwenden der Cookie-Einwilligungsvoreinstellungen von Endbenutzern verwendet, die vom clientseitigen Dienstprogramm festgelegt werden.
+**Zweck**: Wird zum Schutz der Systeme verwendet.
 
   
 
-**Name:** renderCtx
+**Name**: CookieConsentPolicy
 
-**Dauer:** Session
+**Dauer**: 1 Jahr
 
-**Typ:** Technisch notwendig
+**Typ**: Technisch notwendig
 
-**Zweck:** Wird zum Anwenden der Cookie-Einwilligungsvoreinstellungen von Endbenutzern verwendet, die vom clientseitigen Dienstprogramm festgelegt werden.
-
-  
-
-**Name:** sfdc-stream
-
-**Dauer:** 3 Stunden
-
-**Typ:** Technisch notwendig
-
-**Zweck:** Wird zum ordnungsgemäßen Weiterleiten von Serveranforderungen für gebundene Sitzungen innerhalb der Salesforce-Infrastruktur verwendet.
+**Zweck**: Wird zum Anwenden der Cookie-Einwilligungsvoreinstellungen von Endbenutzern verwendet, die vom clientseitigen Dienstprogramm festgelegt werden.
 
   
 
-**Name:** ak\_bmsc
+**Name**: LSKey-c$CookieConsentPolicy
 
-**Dauer:** 1 Tag
+**Dauer**: 1 Jahr
 
-**Typ:** Technisch notwendig
+**Typ**: Technisch notwendig
 
-**Zweck:** Dient der Unterscheidung zwischen Menschen und Bots.
+**Zweck**: Wird zum Anwenden der Cookie-Einwilligungsvoreinstellungen von Endbenutzern verwendet, die vom clientseitigen Dienstprogramm festgelegt werden.
 
   
 
-**Name:** bm\_sv
+**Name**: renderCtx
 
-**Dauer:** 1 Tag
+**Dauer**: Session
 
-**Typ:** Technisch notwendig
+**Typ**: Technisch notwendig
 
-**Zweck:** Wird verwendet, um Berichte über potenzielle Bots, die versuchen, auf die Website zuzugreifen, zu erstellen.
+**Zweck**: Wird zum Anwenden der Cookie-Einwilligungsvoreinstellungen von Endbenutzern verwendet, die vom clientseitigen Dienstprogramm festgelegt werden.
+
+  
+
+**Name**: sfdc-stream
+
+**Dauer**: 3 Stunden
+
+**Typ**: Technisch notwendig
+
+**Zweck**: Wird zum ordnungsgemäßen Weiterleiten von Serveranforderungen für gebundene Sitzungen innerhalb der Salesforce-Infrastruktur verwendet.
+
+  
+
+**Name**: ak\_bmsc
+
+**Dauer**: 1 Tag
+
+**Typ**: Technisch notwendig
+
+**Zweck**: Dient der Unterscheidung zwischen Menschen und Bots.
+
+  
+
+**Name**: bm\_sv
+
+**Dauer**: 1 Tag
+
+**Typ**: Technisch notwendig
+
+**Zweck**: Wird verwendet, um Berichte über potenzielle Bots, die versuchen, auf die Website zuzugreifen, zu erstellen.
+
+  
+
+**4\. Online Filialbewertung**
+
+Vielen Dank für das Interesse an der Filialbewertung aus Kundensicht.
+
+  
+
+Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. Wir sind daher bestrebt, Ihr Recht auf informationelle Selbstbestimmung zu gewährleisten. Im Folgenden möchten wir Ihnen erläutern, welche personenbezogenen Daten wir wann und zu welchem Zweck erheben, verarbeiten und nutzen.
+
+  
+
+**1\. Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO**
+
+Sofern in den einzelnen Abschnitten (hervorgehoben durch die Überschriften) dieser Datenschutzgrundsätze nichts Abweichendes angegeben wird, ist die
+
+  
+
+Lidl Dienstleistung GmbH & Co.KG
+
+Datenschutz
+
+Bonfelder Straße 2
+
+74206 Bad Wimpfen
+
+datenschutz@lidl.de
+
+  
+
+der für die Datenverarbeitung Verantwortliche i.S.d. Artikel 4 Ziffer 7 DSGVO.
+
+  
+
+**2\. Benutzung des Bewertungstools**
+
+**2.1 Protokolldateien**
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+
+Beim Aufrufen unserer Webseite werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch und ohne Ihr Zutun
+
+* die IP-Adresse des anfragenden internetfähigen Gerätes,
+* das Datum und die Uhrzeit des Zugriffs,
+* der Name und die URL der abgerufenen Datei,
+* die Webseite/ Applikation, von der aus der Zugriff erfolgte (Referrer-URL),
+* der von Ihnen verwendete Browser und ggfs. das Betriebssystem Ihres internetfähigen Rechners sowie
+* der Name Ihres Access-Providers,
+* eine einzigartige Nutzer ID,
+* die Anzahl Ihrer bisherigen Teilnahmen an Umfragen,
+* die Dauer, die für die Beantwortung der Umfragen benötigt wird,
+
+an den Server unserer Webseite gesendet und temporär in einem sogenannten Log-File für folgende Zwecke gespeichert:
+
+* Gewährleistung eines reibungslosen Verbindungsaufbaus,
+* Gewährleistung einer komfortablen Nutzung unserer Webseite/ Applikation
+* Ausschluss von Betrugsversuchen bei Umfragen und
+* Auswertung der Systemsicherheit und -stabilität.
+
+**Bitte** beachten Sie, dass innerhalb der ersten 7 Tage nach Beendigung der Umfrage eine rein hypotethische Möglichkeit besteht, Rückschlüsse auf Ihre verwendete IP Adresse im Storefinder zu ziehen. Diese Möglichkeit wird von uns nicht genutzt und ist durch interne Richtlinien ausgeschlossen.
+
+  
+
+Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. § 25 Abs. 2 Nr. 2 TDDDG. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung; diese Verarbeitung ist insoweit auch technisch erforderlich zum Betrieb der Website, indem die Systemsicherheit gewährleistet wird.
+
+  
+
+Empfänger/ Kategorien von Empfänger:
+
+Wir setzen im Rahmen der Bereitstellung unserer Kundenumfrage spezialisierte Dienstleister, insbesondere aus dem Bereich Kundenumfragen, ein. Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Art. 28 DSGVO verpflichtet. Sämtliche in unseren vorstehenden Cookieliste als Anbieter aufgeführten Unternehmen sind als Auftragsverarbeiter für uns tätig.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+
+Die Daten bezüglich der Dauer der Beantwortung der Umfragen werden nach 90 Tagen archiviert und sodann nach weitere 14 Tage endgültig gelöscht. Das ist notwendig, um eine langfristige Auswertung der Umfragen unter Ausschluss von Betrugsversuchen zu ermöglichen.
+
+Die restlichen Protokolldaten werden nach 7 Tagen archiviert und nach 14 Tagen endgültig gelöscht.
+
+  
+
+**2.2 Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten**
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+
+Wir, die Lidl Dienstleistung GmbH & Co. KG sind Verantwortliche für die Datenverarbeitungen im Zusammenhang mit dem Einsatz sogenannter Cookies und anderer ähnlicher Technologien zur Verarbeitung von Nutzungsdaten auf allen (Sub-) Domains unter [https://survey2.medallia.eu/?lidl-de-feedless-fs&country=DE&language=DE-DE&prize\_draw=Yes&lidlapp=No&CF=14&TNC=4944](https://survey2.medallia.eu/?lidl-de-feedless-fs&country=DE&language=DE-DE&prize_draw=Yes&lidlapp=No&CF=14&TNC=4944)
+
+Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert werden, wenn Sie unsere Webseite besuchen. Cookies richten auf Ihrem Endgerät keinen Schaden an, enthalten keine Viren, Trojaner oder sonstige Schadsoftware. In dem Cookie werden Informationen abgelegt, die sich jeweils im Zusammenhang mit dem spezifisch eingesetzten Endgerät ergeben. Dies bedeutet jedoch nicht, dass wir dadurch unmittelbar Kenntnis von Ihrer Identität erhalten.
+
+Der Einsatz von technisch notwendigen Cookies und die anderen technisch notwendigen Technologien zur Verarbeitung von Nutzungsdaten dienen der Bereitstellung unserer Umfrage.
+
+Eine Informationsübersicht zu den eingesetzten Cookies und anderen Techniken nebst den jeweiligen Verarbeitungszwecken, den Speicherdauern und etwa eingebundenen Drittanbietern finden Sie unten in unserer Cookieliste.
+
+Im Rahmen des Einsatzes von technisch notwendigen Cookies und ähnlichen notwendigen Techniken zur Verarbeitung von Nutzungsdaten werden abhängig von der Zwecksetzung insbesondere die folgenden Arten personenbezogener Daten verarbeitet:
+
+* Benutzereingaben, um Eingaben über mehrere Unterseiten zu behalten (z.B. Speicherung Ihre Cookie-Einwilligung);
+* sicherheitsrelevante Ereignisse (z.B. Erkennung von betrügerischem Eingabe-Verhalten);
+
+Rechtsgrundlage für den Einsatz von Einsatz von technisch notwendigen Cookies ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. 25 Abs. 2 Nr. 2 TDDDG. Wir verarbeiten Ihre Daten also auf Grundlage unseres berechtigten Interesses bzw. aufgrund einer technischen Notwendigkeit zum Betrieb der Website.
+
+  
+
+Cookieliste
+
+**Kategorie**: Notwendig
+
+**Name**: NSC\_tvswfz.nfebmmjb.dpn
+
+**Provider**: Medallia
+
+**Typ**: Notwendig
+
+Zweck: Cookie wird verwendet um einen Lastausgleich zu ermöglichen
+
+  
+
+**Kategorie**: Notwendig
+
+**Name**: Consent
+
+**Provider**: Medallia
+
+**Typ**: Notwendig
+
+**Zweck**: Zeichnet auf, ob der Befragte die Cookie-Nutzungsbedingungen akzeptiert hat.
+
+  
+
+**Kategorie**: Notwendig
+
+**Name**: ADRUM
+
+**Provider**: AppDynamics
+
+**Typ**: Notwendig
+
+**Zweck**: Hilft dabei die Erfahrung der Befragten zu verstehen und gibt Unterstützung.
+
+  
+
+Empfänger/ Kategorien von Empfänger:
+
+Wir setzen im Rahmen der Datenverarbeitungen mittels Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten spezialisierte Dienstleister, insbesondere aus dem Bereich Kundenumfragen, ein.
+
+Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Art. 28 DSGVO verpflichtet. Sämtliche in unseren vorstehenden Cookieliste als Anbieter aufgeführten Unternehmen sind als Auftragsverarbeiter für uns tätig.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+
+Die Speicherdauer für Cookies können Sie unserer obenstehenden Cookieliste entnehmen.
 
 4\. Online Filialbewertung
 
@@ -1717,6 +1855,8 @@ Vielen Dank für das Interesse an der Filialbewertung aus Kundensicht.
   
 
 Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. Wir sind daher bestrebt, Ihr Recht auf informationelle Selbstbestimmung zu gewährleisten. Im Folgenden möchten wir Ihnen erläutern, welche personenbezogenen Daten wir wann und zu welchem Zweck erheben, verarbeiten und nutzen.
+
+  
 
 ### 1\. Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO
 
@@ -1737,6 +1877,8 @@ datenschutz@lidl.de
   
 
 der für die Datenverarbeitung Verantwortliche i.S.d. Artikel 4 Ziffer 7 DSGVO.
+
+  
 
 ### 2\. Benutzung des Bewertungstools
 
@@ -1767,7 +1909,7 @@ an den Server unserer Webseite gesendet und temporär in einem sogenannten Log-F
 
   
 
-Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. § 25 Abs. 2 Nr. 2 TTDSG. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung; diese Verarbeitung ist insoweit auch technisch erforderlich zum Betrieb der Website, indem die Systemsicherheit gewährleistet wird.
+Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. § 25 Abs. 2 Nr. 2 TDDDG. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung; diese Verarbeitung ist insoweit auch technisch erforderlich zum Betrieb der Website, indem die Systemsicherheit gewährleistet wird.
 
   
 
@@ -1783,7 +1925,9 @@ Die Daten bezüglich der Dauer der Beantwortung der Umfragen werden nach 90 Tage
 
 Die restlichen Protokolldaten werden nach 7 Tagen archiviert und nach 14 Tagen endgültig gelöscht.
 
-#### **2.2 Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten**
+  
+
+#### 2.2 Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
@@ -1800,45 +1944,45 @@ Im Rahmen des Einsatzes von technisch notwendigen Cookies und ähnlichen notwend
 * Benutzereingaben, um Eingaben über mehrere Unterseiten zu behalten (z.B. Speicherung Ihre Cookie-Einwilligung);
 * sicherheitsrelevante Ereignisse (z.B. Erkennung von betrügerischem Eingabe-Verhalten);
 
-Rechtsgrundlage für den Einsatz von Einsatz von technisch notwendigen Cookies ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. 25 Abs. 2 Nr. 2 TTDSG. Wir verarbeiten Ihre Daten also auf Grundlage unseres berechtigten Interesses bzw. aufgrund einer technischen Notwendigkeit zum Betrieb der Website.
+Rechtsgrundlage für den Einsatz von technisch notwendigen Cookies ist Art. 6 Abs. 1 Buchst. f) DSGVO bzw. 25 Abs. 2 Nr. 2 TDDDG. Wir verarbeiten Ihre Daten also auf Grundlage unseres berechtigten Interesses bzw. aufgrund einer technischen Notwendigkeit zum Betrieb der Website.
 
   
 
 Cookieliste
 
-**Kategorie:** Notwendig
+**Kategorie**: Notwendig
 
-**Name:** NSC\_tvswfz.nfebmmjb.dpn
+**Name**: NSC\_tvswfz.nfebmmjb.dpn
 
-**Provider:** Medallia
+**Provider**: Medallia
 
-**Typ:** Notwendig
+**Typ**: Notwendig
 
-**Zweck:** Cookie wird verwendet um einen Lastausgleich zu ermöglichen
-
-  
-
-**Kategorie:** Notwendig
-
-**Name:** Consent
-
-**Provider:** Medallia
-
-**Typ:** Notwendig
-
-**Zweck:** Zeichnet auf, ob der Befragte die Cookie-Nutzungsbedingungen akzeptiert hat.
+**Zweck**: Cookie wird verwendet um einen Lastausgleich zu ermöglichen
 
   
 
-**Kategorie:** Notwendig
+**Kategorie**: Notwendig
 
-**Name:** ADRUM
+**Name**: Consent
 
-**Provider:** AppDynamics
+**Provider**: Medallia
 
-**Typ:** Notwendig
+**Typ**: Notwendig
 
-**Zweck:** Hilft dabei die Erfahrung der Befragten zu verstehen und gibt Unterstützung.
+**Zweck**: Zeichnet auf, ob der Befragte die Cookie-Nutzungsbedingungen akzeptiert hat.
+
+  
+
+**Kategorie**: Notwendig
+
+**Name**: ADRUM
+
+**Provider**: AppDynamics
+
+**Typ**: Notwendig
+
+**Zweck**: Hilft dabei die Erfahrung der Befragten zu verstehen und gibt Unterstützung.
 
   
 
@@ -1854,11 +1998,15 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
 Die Speicherdauer für Cookies können Sie unserer obenstehenden Cookieliste entnehmen.
 
+  
+
 ### 3\. Kundenbefragung zur Einkaufserfahrung
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
 Im Rahmen der Kundenbefragung erheben wir Daten zu Ihrem subjektiven Einkaufserleben. Zweck ist die kontinuierliche Verbesserung Ihres Einkaufserlebens in unseren Filialen.
+
+  
 
 Rechtsgrundlage für diese Verarbeitungen ist unser gleichlaufendes, berechtigtes Interesse an der Verbesserung Ihres Einkaufserlebnisses in unseren Filialen i.S.d. Art. 6 Abs. 1 Buchst. f) DSGVO.
 
@@ -1873,6 +2021,8 @@ Wir setzen im Rahmen der Datenverarbeitungen spezialisierte Dienstleister, insbe
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
 Die Speicherdauer der Umfragedaten beträgt 12 Monate, dann werden alle Werte auf den Beginn des jeweiligen Monats der Umfragedurchführung aggregiert, sodass kein Zeitbezug der Umfragedaten möglich ist.
+
+  
 
 ### 4\. Gewinnspiel
 
@@ -1924,9 +2074,13 @@ Wenden Sie sich bitte in den zuvor genannten Fällen, bei offenen Fragen oder im
 
 Zudem steht Ihnen ein Recht zur Beschwerde bei einer Datenschutz-Aufsichtsbehörde zu. Zuständig ist die Datenschutz-Aufsichtsbehörde des Bundeslandes, in dem Sie wohnen oder in dem der Verantwortliche seinen Sitz hat.
 
+  
+
 ### 7\. Weitere Fragen
 
-Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer persönlichen Daten haben, dann wenden Sie sich bitte an unseren Datenschutzbeauftragten:
+Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer persönlichen Daten haben, dann wenden Sie sich bitte an unseren
+
+Datenschutzbeauftragten:
 
   
 
@@ -1936,7 +2090,7 @@ Datenschutz
 
 Bonfelder Straße 2
 
-74206 Bad Wimpfen
+4206 Bad Wimpfen
 
 datenschutz@lidl.de
 
