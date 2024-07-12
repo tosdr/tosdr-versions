@@ -725,7 +725,7 @@ Microsoft Store
 * [Download Center](https://www.microsoft.com/en-us/download)
 * [Microsoft Store support](https://go.microsoft.com/fwlink/?linkid=2139749)
 * [Returns](https://www.microsoft.com/en-us/store/b/returns)
-* [Order tracking](https://account.microsoft.com/orders)
+* [Order tracking](https://www.microsoft.com/en-us/store/b/order-tracking)
 * [Certified Refurbished](https://www.microsoft.com/en-us/store/b/certified-refurbished-products)
 * [Microsoft Store Promise](https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020)
 * [Flexible Payments](https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc)
