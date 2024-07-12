@@ -8,7 +8,7 @@ Our new report "Honeypots Are Back" is now available!
 
 [![](https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/625f93b2923b4fe58f2e7c34_greynoise-logo-new.svg)](https://greynoise.io/)
 
-[plans](https://greynoise.io/plans)[Blog](https://greynoise.io/blog)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
+[plans](https://greynoise.io/plans)[Blog](https://greynoise.io/blog)[Integrations](https://greynoise.io/integrations)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
 
 Product
 
@@ -112,7 +112,7 @@ Partners
 
 [GreyNoise Partners](https://greynoise.io/partners)[Reseller Partners](https://greynoise.io/partners/reseller-partners)[Technical Alliances](https://greynoise.io/partners/technical-alliances)[OEM Partners](https://greynoise.io/partners/oem-partners)[MSSPs & MDRs](https://greynoise.io/partners/mssp-mdr)
 
-[Pricing](https://greynoise.io/pricing)[Blog](https://greynoise.io/blog)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
+[Pricing](https://greynoise.io/pricing)[Blog](https://greynoise.io/blog)[integrations](https://greynoise.io/integrations)[Documentation](https://docs.greynoise.io/)[Log In](https://viz.greynoise.io/login)
 
 Search plans and pricing, blog posts, company info, and more.
 
