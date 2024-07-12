@@ -561,7 +561,7 @@
 Equifax Privacy Statement
 -------------------------
 
-_Last Updated:  March 2024_  
+_Last Updated:  June 2024_  
 This privacy statement describes how Equifax Inc. ("Equifax") and its United States affiliates (collectively, "Equifax", "we", "us", "our") collect, use, and share personal data about individuals in the United States. Individuals outside the United States should refer to the privacy statements for their country on our country-specific websites.  
  
 
@@ -572,7 +572,7 @@ Please note we restrict the use of personal data collected through our employmen
 Certain Equifax affiliates are consumer reporting agencies, as defined under the federal Fair Credit Reporting Act ("FCRA") and certain similar state laws and regulations. Each of these affiliates comply with the FCRA requirements regarding the collection, use, and sharing of personal data used in consumer reports.
 
 **California Residents**  
-Please note this privacy statement also contains a California Residents Privacy Statement and Notice at Collection section devoted to the rights of California residents under the California Consumer Privacy Act of 2018 ("CCPA"), as amended: [California Residents Privacy Statement and Notice at Collection](#California).
+Please note this privacy statement also contains a California Residents Privacy Statement and Notice at Collection section devoted to the rights of California residents under the California Consumer Privacy Act of 2018, as amended ("CCPA"): [California Residents Privacy Statement and Notice at Collection](#California).
 
 Anchor Text
 
@@ -602,7 +602,7 @@ Equifax collects the following categories of personal data:
 
 **Payment information.** Information required to process payments directly to Equifax, such as your payment card information including its account number and associated security code.
 
-**Financial information.** Information about your financial accounts, such as outstanding balances, bank holdings, loan history, bill payment history, and insurance information. In some cases this includes corresponding account numbers. This information is generally collected in our applicable affiliate's capacity as a credit reporting agency under the FCRA, and, in those instances, our collection, use, and sharing of this information is regulated by the FCRA. We are also provided with this information when acting as a service provider to financial institutions, in which cases our use of the data is regulated by the Gramm-Leach-Bliley Act ("GLBA").
+**Financial information.** Information about your financial accounts, such as outstanding balances, bank holdings, loan history, bill payment history, rental payment history, bank account activity, and insurance information. In some cases this includes corresponding account numbers. This information is generally collected in our applicable affiliate's capacity as a credit reporting agency under the FCRA, and, in those instances, our collection, use, and sharing of this information is regulated by the FCRA. We are also provided with this information when acting as a service provider to financial institutions, in which cases our use of the data is regulated by the Gramm-Leach-Bliley Act ("GLBA").
 
 **Commercial information.** Information regarding products or services you have purchased or considered purchasing, or other purchasing or spending histories or tendencies.
 
@@ -642,7 +642,7 @@ We collect personal data from the following sources:
 
 **Government agencies and contractors.** Federal, state, and local government agencies and contractors provide us with personal data. We receive personal data from government agencies in our role as a service provider for government agencies, when providing compliance solutions for our Workforce Solutions customers, in our affiliates' role as a consumer reporting agency, and when we receive information used for compliance purposes such as government-maintained sanctions lists.
 
-**Public records.** We collect personal data which is sourced from public records made available by federal, state, and local governments. This includes information on real property ownership and sales history, tax assessments, secretary of state filings, court filings, and federally provided sanctions lists.
+**Public records.** We collect personal data which is sourced from public records made available by federal, state, and local governments. This includes information on real property title, lien, ownership and sales history, tax assessments, secretary of state filings, court filings, and federally provided sanctions lists.
 
 #### How We Use Personal Data
 
@@ -689,7 +689,7 @@ We sometimes share personal data with third parties to carry out the above busin
 * Operating systems and platforms
 * Social networks
 
-We do not share personal data collected through mobile phones for authentication purposes with third-party affiliates for marketing purposes. Personal data collected through our websites is not sold or used for targeted advertising. Personal data collected for a business purpose is not sold or used for profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
+We do not share personal data collected through mobile phones for authentication purposes with third-party affiliates for marketing purposes. Personal data collected through our websites is not sold or used for targeted advertising. Personal data collected for one of the above referenced business purposes is not sold or used for profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
 
 We also share personal data for the following reasons:
 
@@ -739,9 +739,11 @@ We may use, disclose, sell, and share the following categories of personal data 
 | Public records information | * Product development<br>* Service delivery | * Consumer credit reporting<br>* Commercial credit reporting<br>* Workforce Solutions<br>* Marketing services<br>* Fraud detection and identity management<br>* Regulatory compliance<br>* Debt recovery |
 | Photos | * Service delivery<br>* Authentication | * Fraud detection and identity management |
 
-We do not sell personal information of consumers under the age of 16 years old.
+We do not “sell” personal information of consumers under the age of 16 years old, as defined in applicable privacy laws.
 
 The entity maintaining this website is a data broker under Texas law. To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website.
+
+In cases where we have data that cannot be reasonably linked to, or used to infer information about you (i.e., de-identified data), we are committed to maintaining and using the information in a de-identified form and not attempting to re-identify the information, except in an effort to confirm the efficacy of the de-identification process.
 
 [**BACK TO TOP**](#Top)
 
@@ -759,7 +761,7 @@ In some instances, when permitted by its clients, EWS uses deidentified employee
 
 #### Notice of Collection, Storage, Use and Destruction of Biometric Information
 
-Equifax Information Services LLC partners with Mitek Systems, Inc. and Acuant, Inc. to offer products through which Equifax, other businesses, and government agencies allow you to verify your identity by submitting photos of yourself and your photo identification. If you utilize one of these products, Equifax Information Services LLC, its partners Mitek Systems, Inc. and Acuant, Inc., and the other business or government agency with which you initiate the transaction (the "Parties"), may collect, capture, transmit, store, maintain, use, and otherwise process information about face geometry and related biometric information derived from the photos and other information (including information from your driver's license/passport) that you submit to us for the purpose of providing identity-verification services.
+Equifax Information Services LLC partners with Mitek Systems, Inc., Private Identity LLC, and Acuant, Inc. to offer products through which Equifax, other businesses, and government agencies allow you to verify your identity by submitting photos of yourself and your photo identification. If you utilize one of these products, Equifax Information Services LLC, its partners Mitek Systems, Inc. and Acuant, Inc., and the other business or government agency with which you initiate the transaction (the "Parties"), may collect, capture, transmit, store, maintain, use, and otherwise process information about face geometry and related biometric information derived from the photos and other information (including information from your driver's license/passport) that you submit to us for the purpose of providing identity-verification services.
 
 The Parties may use this information from the time of your submission of the information to us, and for the duration of the period that we need to retain the information for identity-verification purposes. We will promptly destroy all biometric information after the completion of our verification process, in no case longer than 13 months after your submission of the information to us.
 
@@ -918,7 +920,7 @@ In the preceding 12 months, we may have sold or shared the below categories of p
 | Inferences drawn from other personal information | * Advertising networks<br>* Consumer credit customers<br>* Consumer data resellers<br>* Creditors/collection agencies<br>* Data analytics providers<br>* Data brokers<br>* Employers<br>* Financial Institutions<br>* Fraud detection providers<br>* Government agencies and contractors<br>* Internet service providers<br>* Operating systems and platforms<br>* Social networks |
 | Sensitive Personal Information | * Advertising networks<br>* Consumer credit customers<br>* Consumer data resellers<br>* Creditors/collection agencies<br>* Data analytics providers<br>* Data brokers<br>* Employers<br>* Financial Institutions<br>* Fraud detection providers<br>* Government agencies and contractors<br>* Internet service providers<br>* Operating systems and platforms<br>* Social networks |
 
-We do not sell personal information of consumers under the age of 16 years old.
+We do not “sell” personal information of consumers under the age of 16 years old, as defined in applicable privacy laws.
 
 #### Rights of California Residents
 
@@ -966,29 +968,6 @@ We may deny your limit use and disclosure of sensitive personal information requ
 * Complete the service the information was intended for.
 * If the sensitive personal information that is collected or processed is not intended for the purpose of inferring characteristics about you.
 
-**Right to be Free from Discrimination**
-
-Equifax is prohibited from discriminating against in any way in response to your exercise of any of these rights. This means we will not:
-
-* Deny you goods or services.
-* Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
-* Provide you a different level or quality of goods or services.
-* Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
-* Offer a product enhancement or financial incentive that is contingent on you sharing personal information, unless that incentive is reasonably related to the value provided to us by that collection.
-
-**Individual Rights Requests Metrics Reporting**
-
-The following metrics are representative of individual rights requests submitted by California consumers for the period of January 1, 2022 to December 31, 2022.
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |  
-| Request Type | Total Received | Total Complied With | Total Denied | Average Days to Complete |
-| Right to Know | 424 | 31% | 0%  | 25.48 |
-| Right to Opt-out | 3120 | 100% | 0%  | 1.00 |
-| Right to Delete | 561 | 100% | 0%  | 1.00 |
-
-Number of individual rights requests that did not pass identity verification: 231
-
 **Submit a Verifiable Request, Opt-Out of Sale Request, or Limit Use and Disclosure Request**
 
 To make a verifiable consumer request, opt-out of sale request, limit use and disclosure request, visit [myPrivacy](https://www.equifax.com/personal/my-privacy/) or call our Customer Care team at 1-866-295-6801 (our regular business hours of 9 A.M. - 9 P.M. ET Monday to Friday, and 9 A.M. to 6 P.M. ET Saturday and Sunday, excluding holidays). To exercise your right to opt-out of the sale of your personal information, or to limit the use and disclosure of your sensitive personal information, you may click here: [Your Privacy Choices](https://myprivacy.equifax.com/opt-in-opt-out/personal-info) or call our Customer Care team at the number listed above.
@@ -1028,11 +1007,36 @@ Equifax Information Services LLC
 P.O. Box 740041  
 Atlanta, GA 30348
 
+**Right to be Free from Discrimination**
+
+Equifax is prohibited from discriminating against in any way in response to your exercise of any of these rights. This means we will not:
+
+* Deny you goods or services.
+* Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+* Provide you a different level or quality of goods or services.
+* Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+* Offer a product enhancement or financial incentive that is contingent on you sharing personal information, unless that incentive is reasonably related to the value provided to us by that collection.
+
+**Individual Rights Requests Metrics Reporting**
+
+The following metrics are representative of individual rights requests submitted by California consumers for the period of January 1, 2023, to December 31, 2023.\* The following metrics apply to the CCPA and California Delete Act.
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |  
+| Request Type | Total Received | Total Complied With | Total Denied | Average Days to Complete | Median Days to Complete |
+| Right to Know/Access | 243 | 243 | 0   | 28  | 2   |
+| Right to Correct | 33  | 33  | 0   | 1   | 1   |
+| Right to Delete | 272 | 272 | 0   | 1   | 1   |
+| Right to Opt-out | 73,320 | 73,320 | 0   | 1   | 1   |
+| Right to Limit Use | 2,473 | 2,473 | 0   | 1   | 1   |
+
+\* Equifax does not delete data that is exempt from the requirements of the California Consumer Privacy Act, including data subject to the Fair Credit Reporting Act, Gramm-Leach-Bliley Act, and for fraud prevention purposes.
+
 [**BACK TO TOP**](#Top)
 
 #### Consumer Rights Requests
 
-Residents of Virginia, Utah, Colorado, and Connecticut have the right to submit the following privacy rights requests to Equifax.
+Residents of Colorado, Connecticut, Florida, Montana, Oregon, Texas, Utah, and Virginia have the right to submit the following privacy rights requests to Equifax.
 
 **Know and Access**  
 You have a right to make a verifiable request to Equifax to provide you with the information Equifax maintains about you.
@@ -1041,7 +1045,8 @@ You have a right to make a verifiable request to Equifax to provide you with the
 You have the right to make a verifiable request to Equifax to correct inaccurate personal information, subject to certain exceptions. Equifax has chosen to delete inaccurate personal information from its systems and applications in lieu of correcting inaccurate personal information.
 
 **Deletion**  
-You have the right to make a verifiable request to Equifax to delete the personal information it maintains about you, subject to certain exceptions. Once we receive and confirm your verifiable request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies
+You have the right to make a verifiable request to Equifax to delete the personal information it maintains about you, subject to certain exceptions\*. Once we receive and confirm your verifiable request, we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.  
+\* Equifax does not delete data that is subject to the Fair Credit Reporting Act, Gramm-Leach-Bliley Act, and for fraud prevention purposes.
 
 **Opt-Out**  
 You have the right to request that Equifax no longer sell your personal information or process your personal information for targeted advertising and profiling.  
