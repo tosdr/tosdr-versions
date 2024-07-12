@@ -173,7 +173,7 @@ Honeyfund.com, Inc. reserves the right to change this privacy policy in its sole
 
 Honeyfund.com, Inc. encourages you to learn as much as you can about your privacy on the Internet. To find out more, visit [www.bbbonline.org](http://www.bbbonline.org/) or [https://www.usa.gov/privacy](https://www.usa.gov/privacy).
 
-### More About Honeyfund
+More About Honeyfund
 
 * [About us](https://www.honeyfund.com/about-us)
 * [News](https://www.honeyfund.com/news)
@@ -187,7 +187,7 @@ Honeyfund.com, Inc. encourages you to learn as much as you can about your privac
 * [Get the Honeyfund App](https://www.honeyfund.com/registry-app)
 * [Honeyfund Gift Card](https://shop.honeyfund.com/gift-card?utm_source=honeyfund&utm_medium=web&utm_campaign=Footer)
 
-### Tips & Resources
+Tips & Resources
 
 * [Honeymoon Registry FAQs](https://www.honeyfund.com/honeymoon-registry#faq)
 * [Etiquette & Planning](https://www.honeyfund.com/WeddingPlanning)
@@ -201,14 +201,14 @@ Honeyfund.com, Inc. encourages you to learn as much as you can about your privac
 * [More on Fundraising](https://www.honeyfund.com/fundraising)
 * [Unique Wedding Registry](https://www.honeyfund.com/online-wedding-registry?utm_source=homepage&utm_medium=link&utm_campaign=homepage)
 
-### Follow Us
+Follow Us
 
 * [Facebook](https://www.facebook.com/honeyfund/)
 * [Twitter](https://www.twitter.com/honeyfund)
 * [Pinterest](https://www.pinterest.com/honeyfund/)
 * [Instagram](https://www.instagram.com/honeyfund/)
 
-### Safe and Secure
+Safe and Secure
 
 *   [![Stripe](https://www.honeyfund.com/assets/img/honeymoon-fund/logo-stripe.png) ![Stripe](https://www.honeyfund.com/assets/img/honeymoon-fund/logo-stripe-trademark.png)](https://www.stripe.com/)The Stripe name and logos are trademarks or service marks of Stripe, Inc. or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners.
 * ![PayPal](https://www.honeyfund.com/assets/img/honeymoon-fund/logo02.png)
