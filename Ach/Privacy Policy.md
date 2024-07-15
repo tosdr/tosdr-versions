@@ -53,6 +53,8 @@ Main navigation
             
         * [Rules Archive](https://www.nacha.org/rules/archive)
             
+        * [Operations Bulletins](https://www.nacha.org/news/operations-bulletins)
+            
         * [Compliance](https://www.nacha.org/content/compliance)
             
         * [Nacha Operating Rules Online](https://nachaoperatingrulesonline.org/event-data)
