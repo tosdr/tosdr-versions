@@ -254,9 +254,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -280,7 +280,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -500,7 +502,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -516,7 +518,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -1204,9 +1208,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -1230,7 +1234,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -1450,7 +1456,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -1466,7 +1472,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -1746,9 +1754,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -1772,7 +1780,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -1992,7 +2002,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -2008,7 +2018,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -2288,9 +2300,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -2314,7 +2326,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -2534,7 +2548,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -2550,7 +2564,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -2830,9 +2846,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -2856,7 +2872,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -3076,7 +3094,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -3092,7 +3110,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -3372,9 +3392,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -3398,7 +3418,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -3618,7 +3640,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -3634,7 +3656,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -3912,9 +3936,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -3938,7 +3962,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -4158,7 +4184,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -4174,7 +4200,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -4452,9 +4480,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -4478,7 +4506,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -4772,9 +4802,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -4798,7 +4828,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -5092,9 +5124,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -5118,7 +5150,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8128,9 +8162,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -8168,43 +8202,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
-
-impact
-
-[Sustainability
-
-Environmental and social responsibility](https://www.mapbox.com/esg)[Social Impact
-
-Support for non-profits and positive impact organizations](https://www.mapbox.com/community/impact)
-
-follow us
-
-[LinkedIn](https://www.linkedin.com/company/mapbox)[X](https://twitter.com/mapbox)[Youtube](https://www.youtube.com/channel/UCIHl9sd2brgvjBlSETKYDcg)[Instagram](https://www.instagram.com/mapbox/?hl=en)[TikTok](https://www.tiktok.com/@mapbox)[Discord](#)[Github](#)[Blog](#)
-
-Company
-
-[Who we are
-
-About our company mission and history](https://www.mapbox.com/company)[What we value
-
-About what drives us](https://www.mapbox.com/company/values)[What we do
-
-About Mapbox technologies and data](https://www.mapbox.com/about/maps)
-
-Careers
-
-[Work at Mapbox
-
-HIRING
-
-Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
-
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
-
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -8236,43 +8236,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
-
-impact
-
-[Sustainability
-
-Environmental and social responsibility](https://www.mapbox.com/esg)[Social Impact
-
-Support for non-profits and positive impact organizations](https://www.mapbox.com/community/impact)
-
-follow us
-
-[LinkedIn](https://www.linkedin.com/company/mapbox)[X](https://twitter.com/mapbox)[Youtube](https://www.youtube.com/channel/UCIHl9sd2brgvjBlSETKYDcg)[Instagram](https://www.instagram.com/mapbox/?hl=en)[TikTok](https://www.tiktok.com/@mapbox)[Discord](#)[Github](#)[Blog](#)
-
-Company
-
-[Who we are
-
-About our company mission and history](https://www.mapbox.com/company)[What we value
-
-About what drives us](https://www.mapbox.com/company/values)[What we do
-
-About Mapbox technologies and data](https://www.mapbox.com/about/maps)
-
-Careers
-
-[Work at Mapbox
-
-HIRING
-
-Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
-
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
-
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -8304,9 +8270,77 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
+
+impact
+
+[Sustainability
+
+Environmental and social responsibility](https://www.mapbox.com/esg)[Social Impact
+
+Support for non-profits and positive impact organizations](https://www.mapbox.com/community/impact)
+
+follow us
+
+[LinkedIn](https://www.linkedin.com/company/mapbox)[X](https://twitter.com/mapbox)[Youtube](https://www.youtube.com/channel/UCIHl9sd2brgvjBlSETKYDcg)[Instagram](https://www.instagram.com/mapbox/?hl=en)[TikTok](https://www.tiktok.com/@mapbox)[Discord](#)[Github](#)[Blog](#)
+
+Company
+
+[Who we are
+
+About our company mission and history](https://www.mapbox.com/company)[What we value
+
+About what drives us](https://www.mapbox.com/company/values)[What we do
+
+About Mapbox technologies and data](https://www.mapbox.com/about/maps)
+
+Careers
+
+[Work at Mapbox
+
+HIRING
+
+Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
+
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
+
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
+
+impact
+
+[Sustainability
+
+Environmental and social responsibility](https://www.mapbox.com/esg)[Social Impact
+
+Support for non-profits and positive impact organizations](https://www.mapbox.com/community/impact)
+
+follow us
+
+[LinkedIn](https://www.linkedin.com/company/mapbox)[X](https://twitter.com/mapbox)[Youtube](https://www.youtube.com/channel/UCIHl9sd2brgvjBlSETKYDcg)[Instagram](https://www.instagram.com/mapbox/?hl=en)[TikTok](https://www.tiktok.com/@mapbox)[Discord](#)[Github](#)[Blog](#)
+
+Company
+
+[Who we are
+
+About our company mission and history](https://www.mapbox.com/company)[What we value
+
+About what drives us](https://www.mapbox.com/company/values)[What we do
+
+About Mapbox technologies and data](https://www.mapbox.com/about/maps)
+
+Careers
+
+[Work at Mapbox
+
+HIRING
+
+Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
+
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
+
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 impact
 
@@ -8374,9 +8408,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 Careers
 
@@ -8388,9 +8422,9 @@ HIRING
 
 Opportunities to join our team](https://www.mapbox.com/careers)[Life at Mapbox
 
-How we support your career](https://www.mapbox.com/company/culture)[Diversity & Inclusion
+How we support your career](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion
 
-Building a Mapbox for everyone](https://www.mapbox.com/diversity-inclusion)
+Building a Mapbox for everyone](https://www.mapbox.com/dei)
 
 Work at Mapbox
 
@@ -8418,11 +8452,11 @@ Life at Mapbox
 
 How we support your career
 
-Diversity & Inclusion
+Diversity, Equity & Inclusion
 
 Building a Mapbox for everyone
 
-Diversity & Inclusion
+Diversity, Equity & Inclusion
 
 Building a Mapbox for everyone
 
@@ -8508,7 +8542,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8560,7 +8596,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8606,7 +8644,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8652,7 +8692,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8698,7 +8740,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8744,7 +8788,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Learn
 
@@ -8790,7 +8836,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 News
 
@@ -8802,7 +8850,9 @@ NEW
 
 Stay updated on product launches and new features](https://www.mapbox.com/blog)[Newsroom
 
-The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)
+The latest Mapbox news and press resources](https://www.mapbox.com/newsroom)[Events
+
+Connect with Mapbox at virtual and in-person events](https://www.mapbox.com/events)
 
 Blog
 
@@ -8827,6 +8877,14 @@ The latest Mapbox news and press resources
 Newsroom
 
 The latest Mapbox news and press resources
+
+Events
+
+Connect with Mapbox at virtual and in-person events
+
+Events
+
+Connect with Mapbox at virtual and in-person events
 
 Learn
 
@@ -9172,7 +9230,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -9188,7 +9246,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -9406,7 +9466,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -9422,7 +9482,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -9616,7 +9678,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -9632,7 +9694,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -9852,7 +9916,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -9868,7 +9932,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -10052,7 +10118,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -10068,7 +10134,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -11092,7 +11160,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -11114,7 +11182,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -11132,7 +11200,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 impact
 
@@ -11168,7 +11236,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 Careers
 
@@ -11176,7 +11244,7 @@ Careers
 
 [Work at Mapbox
 
-HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/diversity-inclusion)
+HIRING](https://www.mapbox.com/careers)[Life at Mapbox](https://www.mapbox.com/company/culture)[Diversity, Equity & Inclusion](https://www.mapbox.com/dei)
 
 Work at Mapbox
 
@@ -11262,7 +11330,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -11288,7 +11358,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -11310,7 +11382,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 learn
 
@@ -11332,7 +11406,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 News
 
@@ -11340,7 +11416,9 @@ News
 
 [Blog](https://www.mapbox.com/blog)[Newsroom
 
-NEW](https://www.mapbox.com/newsroom)
+NEW](https://www.mapbox.com/newsroom)[Events
+
+NEW](https://www.mapbox.com/events)
 
 Blog
 
@@ -11351,6 +11429,14 @@ Newsroom
 NEW
 
 Newsroom
+
+NEW
+
+Events
+
+NEW
+
+Events
 
 NEW
 
