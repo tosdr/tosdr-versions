@@ -20,106 +20,29 @@ Check Availability - Mega menu (Upper)
 * [Franchise Info 1-866-877-3033](tel:1-866-877-3033)
 * CHECK AVAILABILITY
 
-* [For Home](https://www.1800gotjunk.com/us_en) Toggle submenu
-    
-    ### 
-    
-    Desktop Title
-    
-    For your Home
-    
-    Desktop Description
-    
-    Fast, easy Junk Removal - relax and let us take care of everything
-    
-    [Go to Home Solutions](https://www.1800gotjunk.com/us_en)
-    
-    ### [Home Solutions](https://www.1800gotjunk.com/us_en)
-    
-    Mobile Description
-    
-    Fast, easy Junk Removal - relax and let us take care of everything
-    
-    * Resources
-        
-        * [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
-            
-        * [Locations](https://www.1800gotjunk.com/us_en/locations)
-            
-        * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
-            
-        * [Blog](https://www.1800gotjunk.com/us_en/blog)
-            
-        * [FAQ](https://www.1800gotjunk.com/us_en/frequently-asked-questions)
-            
-        
-    
-    * How we can help
-        
-        * [Moving](https://www.1800gotjunk.com/us_en/what-we-do/pre-post-move-clean-outs)
-            
-        * [Renovation](https://www.1800gotjunk.com/us_en/what-we-do/residential-construction-renovation-clean-up)
-            
-        * [Storage](https://www.1800gotjunk.com/us_en/what-we-do/storage-unit-clean-outs)
-            
-        * [Disasters](https://www.1800gotjunk.com/us_en/what-we-do/emergency-disaster-clean-up)
-            
-        
-    
-* [For Business](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services) Toggle submenu
-    
-    ### 
-    
-    Desktop Title
-    
-    For your Business
-    
-    Desktop Description
-    
-    Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
-    
-    [Go To Business Solutions](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services)
-    
-    ### [Business Solutions](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services)
-    
-    Mobile Description
-    
-    Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
-    
-    * Resources
-        
-        * [Account Request Form](https://www.1800gotjunk.com/us_en/Commercial/contact_national_accounts)
-            
-        * [Locations](https://www.1800gotjunk.com/us_en/locations)
-            
-        * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
-            
-        * [Blog](https://www.1800gotjunk.com/us_en/blog)
-            
-        * [FAQ](https://www.1800gotjunk.com/us_en/frequently-asked-questions)
-            
-        
-    
-    * How we can help
-        
-        * [Property Management](https://www.1800gotjunk.com/us_en/Commercial/Property_Management)
-            
-        * [Office Cleanouts](https://www.1800gotjunk.com/us_en/Commercial/office_cleanouts)
-            
-        * [Real Estate](https://www.1800gotjunk.com/us_en/Commercial/Real_Estate)
-            
-        * [Renovation](https://www.1800gotjunk.com/us_en/Commercial/Restoration_and_Renovation)
-            
-        * [Store Remodel](https://www.1800gotjunk.com/us_en/Commercial/Retail/Store_Remodel)
-            
-        
-    
-* [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
-    
+Main navigation
+
+* [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
 * [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
-    
-* [Franchising](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
-    
+* [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
+* [Start A Franchise](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
+* More
+
+United States Switch Region
+
+* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
+* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
+* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
+* [Australia](https://www.1800gotjunk.com.au/)
+
+United States
+
+* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
+* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
+* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
+* [Australia](https://www.1800gotjunk.com.au/)
+
+search
 
 Sub Menu
 
@@ -131,6 +54,8 @@ Sub Menu
 * [Book An Appointment](https://request.1800gotjunk.com/us_en/onlinebooking)
 
 search
+
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
 
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
@@ -438,7 +363,7 @@ Company
 
 * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
 * [Locations](https://www.1800gotjunk.com/us_en/locations)
-* [Repurpose & Sustainability](https://www.1800gotjunk.com/us_en/repurpose-sustainability)
+* [Environment](https://www.1800gotjunk.com/us_en/Environment)
 * [Blog](https://www.1800gotjunk.com/us_en/blog)
 * [Careers](https://jobs.1800gotjunk.com/)
 * [Contact](https://www.1800gotjunk.com/us_en/contact-us)
@@ -461,7 +386,7 @@ Company
 
 * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
 * [Locations](https://www.1800gotjunk.com/us_en/locations)
-* [Repurpose & Sustainability](https://www.1800gotjunk.com/us_en/repurpose-sustainability)
+* [Environment](https://www.1800gotjunk.com/us_en/Environment)
 * [Blog](https://www.1800gotjunk.com/us_en/blog)
 * [Careers](https://jobs.1800gotjunk.com/)
 * [Contact](https://www.1800gotjunk.com/us_en/contact-us)
@@ -527,10 +452,7 @@ Sign up for our emails and get exclusive benefits
 
 © 2024 RBDS Rubbish Boys Disposal Service Inc. D.B.A 1-800-GOT-JUNK? 887 Great Northern Way Unit 301 Vancouver, BC, V5T 4T5  \*1-800-GOT-JUNK? is a registered trademark of RBDS Rubbish Boys Disposal Service Inc. 
 
-[Privacy Policy](https://www.1800gotjunk.com/us_en/privacy-legal) | [Accessibility Policy](https://www.1800gotjunk.com/us_en/accessibility) | [Cookie Preferences](#cky-preference-center) | [Do Not Sell or Share My Personal Information](https://www.1800gotjunk.com/us_en/privacy-legal#cky-opt-out)    
-  
-  
- 
+[Privacy Policy](https://www.1800gotjunk.com/us_en/privacy-legal) | [Accessibility Policy](https://www.1800gotjunk.com/us_en/accessibility) | [Cookie Preferences](#cky-preference-center) | [Do Not Sell or Share My Personal Information](https://www.1800gotjunk.com/us_en/privacy-legal#cky-opt-out)
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -824,6 +746,70 @@ Pierre Denis Monteregie Metro 20/11/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Jacob and Connor were a great help
+
+John Tyree Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Marquise and Donnie did an amazing job cleaning out our garage. They were super friendly and very efficient. Highly recommend!
+
+Logan Jarecki Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kevin and Zach did an excellent job removing my junk
+
+Rocco709 Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Marquise and Donnie did a great job
+
+s t Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Quick and easy service! Very friendly! They told me their names but I immediately forgot. My fault, not theirs. Zach and Jason maybe?
+
+liam nolosco Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ were awesome!
+
+Amber Fedosh Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ are very professional and helpful. Great service so far.
+
+Jun-ji Barber Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aaron and DJ were friendly and quick.
+
+Chris Conley Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Hank and Nick were fast and great!
 
 Matt Heath Wisconsin 02/12/2023
@@ -848,65 +834,25 @@ Kolver Matos Wisconsin 02/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jacob and Connor were a great help
+Tay and david was on time and very fast
 
-John Tyree Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kevin and Zach did an excellent job removing my junk
-
-Rocco709 Seattle 02/12/2023
+David Pryor Wisconsin 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Marquise and Donnie did an amazing job cleaning out our garage. They were super friendly and very efficient. Highly recommend!
+Evan and Kenny were fast and efficient.
 
-Logan Jarecki Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick and easy service! Very friendly! They told me their names but I immediately forgot. My fault, not theirs. Zach and Jason maybe?
-
-liam nolosco Seattle 02/12/2023
+Tom Kleewein Wisconsin 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Marquise and Donnie did a great job
+Jake and Brayden did and awesome job, were fast and efficient and very friendly.
 
-s t Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ were awesome!
-
-Amber Fedosh Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ were friendly and quick.
-
-Chris Conley Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aaron and DJ are very professional and helpful. Great service so far.
-
-Jun-ji Barber Seattle 02/12/2023
+Cheryl Wanzo Wisconsin 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -928,22 +874,6 @@ Barb Knott Madison 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nick, Richard, Tanner, Dakota and Mike were a pleasure to work with.
-
-Jack Knott Madison 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Tay and david was on time and very fast
-
-David Pryor Wisconsin 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 The team who came was very efficient and helpful!
 
 Dana Scott Seattle 01/12/2023
@@ -952,17 +882,9 @@ Dana Scott Seattle 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Evan and Kenny were fast and efficient.
+Nick, Richard, Tanner, Dakota and Mike were a pleasure to work with.
 
-Tom Kleewein Wisconsin 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jake and Brayden did and awesome job, were fast and efficient and very friendly.
-
-Cheryl Wanzo Wisconsin 01/12/2023
+Jack Knott Madison 01/12/2023
 
 ### 
 
@@ -980,7 +902,7 @@ Fast, easy Junk Removal for every type of business - let us do the heavy lifting
 
 Mobile Description
 
-Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
+Fast, easy Junk Removal.
 
 ### 
 
@@ -998,7 +920,7 @@ Fast, easy Junk Removal - relax and let us take care of everything
 
 Mobile Description
 
-Fast, easy Junk Removal - relax and let us take care of everything
+Relax and let us take care of everything.
 
 Let's see if we're in your neighborhood.  
 This may take a moment.
