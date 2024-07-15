@@ -14,11 +14,14 @@
 
 [PANELS](https://www.bisecthosting.com/control-panel)
 
-* [Games Control Panel](https://games.bisecthosting.com/)
-* [Web Hosting Panel](https://webserver3.bisecthosting.com:2083/)
-* [VPS Control Panel](https://vps2.bisecthosting.com/)
+* [Premium Minecraft](https://premium.bisecthosting.com/)
+* [Budget Minecraft](https://budget.bisecthosting.com/)
+* [Minecraft Bedrock](https://games.bisecthosting.com/)
+* [Other Games](https://games.bisecthosting.com/)
+* [Web Hosting](https://webserver3.bisecthosting.com:2083/)
+* [Server Features](https://www.bisecthosting.com/game-server-features)
+* [VPS control panel](https://vps2.bisecthosting.com/)
 * [Discord Bot](https://games.bisecthosting.com/)
-* [Mumble Control Panel](https://games.bisecthosting.com/)
 
 [MY ACCOUNT](https://www.bisecthosting.com/clients/clientarea.php)
 
@@ -28,7 +31,6 @@
 * [Why Us](https://www.bisecthosting.com/why-us)
 * [Partners](https://www.bisecthosting.com/partnerships)
 * [Blog](https://www.bisecthosting.com/blog)
-* [Server Features](https://www.bisecthosting.com/games-panel)
 
 . . .USD
 
@@ -136,11 +138,11 @@ Dedicated Servers
 * The dedicated servers that we offer are completely unmanaged, we cannot provide support for any software on the system.
 * If the 'One Time Setup' option is chosen, Multicraft (If requested), PHP, Apache2 and Java will be installed on the server for you. Any additional set-up may incur additional cost.
 
-BisectBoost
------------
+Advanced Support
+----------------
 
-What 'Premium Server BisectBoost' does include:
------------------------------------------------
+What 'Premium Server Advanced Support' does include:
+----------------------------------------------------
 
 1. Individual mod uploads
 2. Plugin installation
@@ -148,15 +150,15 @@ What 'Premium Server BisectBoost' does include:
 4. Making small setting and configuration changes for you
 5. DNS Management for domains purchased with us
 
-What 'Premium Server BisectBoost' does NOT include:
----------------------------------------------------
+What 'Premium Server Advanced Support' does NOT include:
+--------------------------------------------------------
 
 1. Permissions configuration
 2. BungeeCord configuration
 3. Complete server management
 
-What 'Budget Server BisectBoost' does include:
-----------------------------------------------
+What 'Budget Server Advanced Support' does include:
+---------------------------------------------------
 
 1. Unlimited modpack installs + updates
 2. Individual mod uploads
@@ -165,8 +167,8 @@ What 'Budget Server BisectBoost' does include:
 5. Making small setting and configuration changes for you
 6. DNS Management for domains purchased with us
 
-What 'Budget Server BisectBoost' does NOT include:
---------------------------------------------------
+What 'Budget Server Advanced Support' does NOT include:
+-------------------------------------------------------
 
 1. Permissions configuration
 2. BungeeCord configuration
@@ -268,7 +270,7 @@ Cancellations, Refunds, Chargebacks and the 3 day Money-Back Guarantee
 * All Minecraft, game, and web hosting plans have a 3 (three) day money-back guarantee from the initial server setup date.
 * After the 3 (three) day period of the server setup date, the service is no longer eligible for a refund.
     * Any eligible refunds must be requested via a support ticket.
-* BisectBoost Addon, One-time modpack installation/update Addon, BungeeCord setup, are all non-refundable.
+* Advanced Support Addon, One-time modpack installation/update Addon, BungeeCord setup, are all non-refundable.
 * Custom domain registration is non-refundable.
 * Dedicated server orders are non-refundable.
 * Any paysafecard payments that are eligible for a refund can only be refunded via account credits.
@@ -363,12 +365,11 @@ Services
 
 * [minecraft](https://www.bisecthosting.com/minecraft-servers)
 * [Game servers](https://www.bisecthosting.com/game-server-hosting)
-* [Game Panel](https://www.bisecthosting.com/games-panel)
 * [Dedicated](https://www.bisecthosting.com/dedicated-server-hosting)
 * [Web Hosting](https://www.bisecthosting.com/web-hosting)
 * [Mumble Hosting](https://www.bisecthosting.com/mumble-server-hosting)
 * [Discord Bot](https://www.bisecthosting.com/discord-bot-hosting)
-* [Modpacks Directory](https://www.bisecthosting.com/modpacks-directory)
+* [Modpacks Directory](https://www.bisecthosting.com/modpack-server-hosting)
 * [Selector](https://www.bisecthosting.com/selector)
 
 Customers
@@ -406,11 +407,14 @@ USDGBPEURCADAUDNZDSGD
 
 [PANELS](https://www.bisecthosting.com/control-panel)
 
-* [Games Control Panel](https://games.bisecthosting.com/)
-* [Web Hosting Panel](https://webserver3.bisecthosting.com:2083/)
-* [VPS Control Panel](https://vps2.bisecthosting.com/)
+* [Premium Minecraft](https://premium.bisecthosting.com/)
+* [Budget Minecraft](https://budget.bisecthosting.com/)
+* [Minecraft Bedrock](https://games.bisecthosting.com/)
+* [Other Games](https://games.bisecthosting.com/)
+* [Web Hosting](https://webserver3.bisecthosting.com:2083/)
+* [Server Features](https://www.bisecthosting.com/game-server-features)
+* [VPS control panel](https://vps2.bisecthosting.com/)
 * [Discord Bot](https://games.bisecthosting.com/)
-* [Mumble Control Panel](https://games.bisecthosting.com/)
 
 [MY ACCOUNT](https://www.bisecthosting.com/clients/clientarea.php)
 
@@ -420,4 +424,3 @@ USDGBPEURCADAUDNZDSGD
 * [Why Us](https://www.bisecthosting.com/why-us)
 * [Partners](https://www.bisecthosting.com/partnerships)
 * [Blog](https://www.bisecthosting.com/blog)
-* [Server Features](https://www.bisecthosting.com/games-panel)
