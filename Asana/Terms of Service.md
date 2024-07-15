@@ -12,11 +12,9 @@ x icon
 
 Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenska繁體中文
 
-Choose your preferred language
+[Log In](https://app.asana.com/-/login)
 
 [Contact sales](https://asana.com/sales)
-
-[Log In](https://app.asana.com/-/login)
 
 [Get started](https://asana.com/create-account "Get started")
 
@@ -53,9 +51,9 @@ Featureschevron-down icon
 
 ### ALL PLANS
 
-* [list iconStarter](https://asana.com/plan/starter)
-* [premium iconAdvanced](https://asana.com/plan/advanced)
-* [briefcase iconEnterprise](https://asana.com/enterprise)
+* [list iconPersonal](https://asana.com/pricing)
+* [premium iconStarter](https://asana.com/plan/starter)
+* [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
 Solutionschevron-down icon
 
@@ -186,9 +184,9 @@ CAPABILITIES
 
 ALL PLANS
 
-* [list iconStarter](https://asana.com/plan/starter)
-* [premium iconAdvanced](https://asana.com/plan/advanced)
-* [briefcase iconEnterprise](https://asana.com/enterprise)
+* [list iconPersonal](https://asana.com/pricing)
+* [premium iconStarter](https://asana.com/plan/starter)
+* [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
 Teams
 
@@ -479,7 +477,6 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * Asana
 * [Home](https://asana.com/?noredirect)
 * [Product](https://asana.com/product)
-* [What's New](https://asana.com/whats-new)
 * [Pricing](https://asana.com/pricing)
 * [Starter](https://asana.com/plan/starter)
 * [Advanced](https://asana.com/plan/advanced)
@@ -499,7 +496,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/site-map)
+* [Sitemap](https://asana.com/inside-asana/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
