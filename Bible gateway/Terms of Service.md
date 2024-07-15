@@ -21,18 +21,16 @@ account
 * [plus
     
     Bible Gateway  
-    Plus
-    
-    Save 15%](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=topnav&utm_campaign=bgplus&promo=FLASH15)
+    Plus](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=topnav&utm_campaign=bgplus)
 * explore
     
     Explore  
     More
-* * [News & Knowledge](https://www.biblegateway.com/learn/)
-    * [Newsletters](https://www.biblegateway.com/newsletters/)
+* * [Newsletters](https://www.biblegateway.com/newsletters/)
     * [Devotionals](https://www.biblegateway.com/devotionals/)
     * [Bible Gateway App](https://www.biblegateway.com/app/)
     * [Bible Audio App](https://www.biblegateway.com/bible-audio-app/)
+    * [News & Knowledge](https://www.biblegateway.com/learn/)
 * store
     
     Store
@@ -40,11 +38,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[SAVE 15% FOR LIFE. Start BibleGateway+ FREE.](https://www.biblegateway.com/plus/?utm_source=bg&promo=flash15&utm_medium=alert_mobile&utm_campaign=bgplus_alert_bgplus_july2024sale_15%4life20240708)
+[NOW AN EVEN BETTER VALUE in digital Bible study. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_value1010)
 
 close
 
-[Save 15% for life! Now with $3,100 worth of study resources. Try BibleGateway+ free today!](https://www.biblegateway.com/plus/?utm_source=bg&promo=flash15&utm_medium=alert&utm_campaign=bgplus_alert_bgplus_july2024sale_15forlife20240708)
+[For less than $5/mo. get to know the Bible better! Now with $3,100 worth of study resources. Try BibleGateway+ free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_gettoknow_value053024)
 
 close
 
@@ -245,9 +243,9 @@ I HAVE READ THIS AGREEMENT AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE.
 * [Versión en español](https://www.biblegateway.com/languages/update/?language=es&url=%2F)
 * [Preferences](https://www.biblegateway.com/preferences/ "Set your preferences for BibleGateway.com")
 
-Sign Up for Bible Gateway: News & Knowledge
+Sign Up For Weekly Updates
 
-Get weekly Bible news, info, reflections, and deals in your inbox.
+Sign up now for the latest news and deals from Bible Gateway!
 
   
 
