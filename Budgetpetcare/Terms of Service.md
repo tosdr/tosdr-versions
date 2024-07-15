@@ -1,10 +1,10 @@
-BLACK FRIDAY IN JULY SALE!
+SUMMER SUPER SALE!
 
-20% Off + 10% **Cashback**
+10% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : BLACKFJ20
+Use Code : SUMMER10
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
@@ -22,7 +22,7 @@ Use Code : BLACKFJ20
 
  [![Icon-Cart](/images/icon-d/d-Icon-cart.png) 0 Item](https://www.budgetpetcare.com/my_cart.aspx)
 
- [![Icon-heart](/images/icon-d/d-Icon-heart1.png) 116277](https://www.budgetpetcare.com/reviews.aspx)
+ [![Icon-heart](/images/icon-d/d-Icon-heart1.png) 116256](https://www.budgetpetcare.com/reviews.aspx)
 
  ![Icon-Search](/images/icon-d/d-Icon-search1.png)
 
@@ -80,7 +80,7 @@ Use Code : BLACKFJ20
     * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
 
-* [Homes](https://www.budgetpetcare.com/)
+* [Home](https://www.budgetpetcare.com/)
 * Terms & Conditions
 
 Terms of Use
