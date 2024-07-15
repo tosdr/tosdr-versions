@@ -55,7 +55,7 @@
     * [Shopping](https://www.appsflyer.com/solutions/shopping/)
     * [Finance](https://www.appsflyer.com/solutions/finance/)
     * [Food & drink](https://www.appsflyer.com/solutions/food-drink/)
-    * [Health & fitness](https://www.appsflyer.com/solutions/health-fitness/)
+    * [Health & fitness](https://www.appsflyer.com/solutions/health/)
     * [Travel](https://www.appsflyer.com/solutions/travel/)
     
     Platform
