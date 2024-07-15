@@ -56,8 +56,11 @@ Recent announcements and media coverage.](https://www.appcast.io/news/)[Contact 
 
 We’d love to connect! Reach out and we’ll get back to you as quickly as possible.](https://www.appcast.io/contact/)
 
-[Learn more
-----------](https://www.appcast.io/10-year-anniversary/)
+[Begin your journey
+------------------
+
+with Appcast
+------------](https://www.appcast.io/careers/)
 
 Resources
 
@@ -302,9 +305,9 @@ Lebanon, NH, 03766, USA**
 
 ![](https://www.appcast.io/wp-content/uploads/2024/05/footer-10-years@2x.png)
 
-We’re celebrating our 10th anniversary and a decade of award-winning programmatic job advertising technology.
+We’re celebrating our 10th anniversary. A decade of award-winning programmatic job advertising technology.
 
-[read more](https://www.appcast.io/10-year-anniversary/)
+[read more](https://www.prweb.com/releases/appcast-marks-a-decade-of-innovation-and-growth-celebrating-10-years-of-leadership-in-recruitment-marketing-302145721.html)
 
 [![](https://www.appcast.io/wp-content/uploads/2024/05/Logo-Primary.svg)](https://www.appcast.io/)
 
