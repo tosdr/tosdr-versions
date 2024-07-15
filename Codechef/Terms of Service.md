@@ -373,59 +373,43 @@ Other Policies
   
   
 
-Learning Courses
+Learning Resources
 
-[Learn Python](https://www.codechef.com/learn/course/python)
+[Learning courses](https://www.codechef.com/learn)
 
-[Learn JavaScript](https://www.codechef.com/learn/course/javascript)
+[Practice Problems](https://www.codechef.com/practice)
 
-[Learn C++](https://www.codechef.com/learn/course/cpp)
+[CodeChef Blogs](https://www.codechef.com/blogs)
 
-[Learn C](https://www.codechef.com/learn/course/c)
+[FAQ's](https://www.codechef.com/wiki/faq)
 
-[Learn Java](https://www.codechef.com/learn/course/java)
+Programming Tools
 
-[More learning courses](https://www.codechef.com/learn)
-
-Practice Paths
-
-[Practice Python](https://www.codechef.com/practice/python)
-
-[Practice JavaScript](https://www.codechef.com/practice/javascript)
-
-[Practice C++](https://www.codechef.com/practice/cpp)
-
-[Practice C](https://www.codechef.com/practice/c)
-
-[Practice Java](https://www.codechef.com/practice/java)
-
-[More practice paths](https://www.codechef.com/practice)
-
-Online Compilers
-
-[Python online compiler](https://www.codechef.com/python-online-compiler)
-
-[C online compiler](https://www.codechef.com/c-online-compiler)
-
-[C++ online compiler](https://www.codechef.com/cpp-online-compiler)
-
-[Java online compiler](https://www.codechef.com/java-online-compiler)
-
-[JavaScript online compiler](https://www.codechef.com/javascript-online-compiler)
-
-[More compilers](https://www.codechef.com/ide)
-
-Miscellaneous
-
-[Blogs](https://www.codechef.com/blogs)
-
-[CodeChef For Colleges](https://www.codechef.com/college-program)
+[Online IDE](https://www.codechef.com/ide)
 
 [Coding Contests](https://www.codechef.com/contests)
 
+[Host Rated Contest](https://www.codechef.com/hostyourcontest)
+
+[Problem Setting](https://www.codechef.com/problemsetting)
+
+More
+
+[CodeChef For Colleges](https://www.codechef.com/college-program)
+
 [Contact Us](https://www.codechef.com/contactus)
 
-[Privacy Policy](https://www.codechef.com/privacy-policy)
+[Code Of Conduct](https://www.codechef.com/codeofconduct)
+
+[User Ranklist](https://www.codechef.com/rankings)
+
+Usage Policy
+
+[Privacy policy](https://www.codechef.com/privacy-policy)
+
+[Terms](https://www.codechef.com/terms)
+
+[Other Policy](https://www.codechef.com/other-policies)
 
 [www.codechef.com](https://www.codechef.com/)
 
