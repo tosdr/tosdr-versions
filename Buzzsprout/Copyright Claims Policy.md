@@ -1,12 +1,8 @@
 [Buzzsprout](https://www.buzzsprout.com/)
 
-[Features](https://www.buzzsprout.com/features) [Pricing](https://www.buzzsprout.com/pricing) [How to Start a Podcast](https://www.buzzsprout.com/blog/how-to-start-a-podcast) [Blog](https://www.buzzsprout.com/blog) [Buzzsprout Ads](https://www.buzzsprout.com/ads)
-
-Menu
+menu 
 
 [Features](https://www.buzzsprout.com/features) [Pricing](https://www.buzzsprout.com/pricing) [How to Start a Podcast](https://www.buzzsprout.com/blog/how-to-start-a-podcast) [Blog](https://www.buzzsprout.com/blog) [Buzzsprout Ads](https://www.buzzsprout.com/ads)
-
-[Get Started Free](https://www.buzzsprout.com/sign_up) [Log In](https://www.buzzsprout.com/login)
 
 [Log In](https://www.buzzsprout.com/login) [Get Started Free](https://www.buzzsprout.com/sign_up)
 
@@ -118,7 +114,6 @@ Legal
 
 * [](https://www.facebook.com/groups/BuzzsproutCommunity/)
 * [](https://twitter.com/buzzsprout)
-* [](https://www.linkedin.com/company/buzzsprout/)
 * [](https://www.youtube.com/buzzsprout)
 
-[](https://apps.apple.com/app/id6459145367)[](https://play.google.com/store/apps/details?id=com.higherpixels.buzzsprout)[](https://podstandards.org/)
+[![Download on the App Store](https://assets.buzzsprout.com/assets/home/badge_appstore-41adfea95bb50d9c68a1010b569dbcdb2b0dbc5181cc72c53bda3908ac1ed5a8.png)](https://apps.apple.com/app/id6459145367)[](https://podstandards.org/)
