@@ -1,4 +1,4 @@
-🌟 New Course! Enroll in [Prompt Compression and Query Optimization](https://bit.ly/3XMOUCV)
+🌟 New Course! Enroll in [Function-calling and Data Extraction With LLMs](https://bit.ly/3RrUzKT)
 
 [](https://www.deeplearning.ai/)
 
@@ -20,7 +20,7 @@
     * [Careers](https://www.deeplearning.ai/careers/)
     * [Contact](https://www.deeplearning.ai/contact/)
 
-[Start Learning](https://bit.ly/4cwWNAv)
+[Start Learning](https://bit.ly/4c0ve2M)
 
 **TERMS OF USE**
 
