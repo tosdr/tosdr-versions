@@ -283,10 +283,11 @@ DRF.com News Search
     * [Breeding](https://www.drf.com/breeding)
     * [More](https://www.drf.com/news/all-news)
 * Tracks
-    * [Del Mar](https://www.drf.com/horse-racing-tracks/del-mar)
+    * [Belmont at the Big A](https://www.drf.com/horse-racing-tracks/belmont-at-the-big-a)
+    * [Churchill Downs](https://www.drf.com/horse-racing-tracks/churchill-downs)
     * [Gulfstream Park](https://www.drf.com/horse-racing-tracks/gulfstream-park)
-    * [Monmouth Park](https://www.drf.com/horse-racing-tracks/monmouth-park)
     * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
+    * [Monmouth Park](https://www.drf.com/horse-racing-tracks/monmouth-park)
     * [Woodbine](https://www.drf.com/horse-racing-tracks/woodbine)
 * Handicapping & PPs
     * [DRF Classic PPs](https://www.drf.com/classic-pp)
