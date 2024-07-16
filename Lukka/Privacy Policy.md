@@ -23,6 +23,7 @@
         * [Asset Mapping and Standardization Data](https://lukka.tech/solutions/asset-mapping-and-standardization-data/)
         * [Lukka Marketplace & Custodian Data](https://lukka.tech/solutions/lukka-marketplace-custodian-data/)
         * [Lukka Crypto Asset Score](https://lukka.tech/solutions/lukka-crypto-asset-score/)
+        * [Lukka Crypto Sustainability Scores](https://lukka.tech/solutions/lukka-crypto-esg-score/)
         * [Lukka Trading Venue Score](https://lukka.tech/solutions/lukka-trading-venue-score/)
     * Pricing & Market Data
         * [Lukka Prime](https://lukka.tech/solutions/lukka-prime/)
@@ -38,7 +39,6 @@
     * [Lukka Crypto Benchmarks](https://lukka.tech/solutions/lukka-crypto-benchmarks/)
     * [Index Calculation Services](https://lukka.tech/solutions/index-calculation-services/)
     * [Valuation Services](https://lukka.tech/solutions/valuation-service/)
-    * [Lukka Crypto Sustainability Score](https://lukka.tech/solutions/lukka-crypto-sustainability-score/)
 * Partners
     * [S&P DJI](https://www.spglobal.com/spdji/en/index-family/digital-assets/cryptocurrency/#overview)
     * [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/)
@@ -71,6 +71,7 @@ Menu
         * [Asset Mapping and Standardization Data](https://lukka.tech/solutions/asset-mapping-and-standardization-data/)
         * [Lukka Marketplace & Custodian Data](https://lukka.tech/solutions/lukka-marketplace-custodian-data/)
         * [Lukka Crypto Asset Score](https://lukka.tech/solutions/lukka-crypto-asset-score/)
+        * [Lukka Crypto Sustainability Scores](https://lukka.tech/solutions/lukka-crypto-esg-score/)
         * [Lukka Trading Venue Score](https://lukka.tech/solutions/lukka-trading-venue-score/)
     * Pricing & Market Data
         * [Lukka Prime](https://lukka.tech/solutions/lukka-prime/)
@@ -86,7 +87,6 @@ Menu
     * [Lukka Crypto Benchmarks](https://lukka.tech/solutions/lukka-crypto-benchmarks/)
     * [Index Calculation Services](https://lukka.tech/solutions/index-calculation-services/)
     * [Valuation Services](https://lukka.tech/solutions/valuation-service/)
-    * [Lukka Crypto Sustainability Score](https://lukka.tech/solutions/lukka-crypto-sustainability-score/)
 * Partners
     * [S&P DJI](https://www.spglobal.com/spdji/en/index-family/digital-assets/cryptocurrency/#overview)
     * [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/)
@@ -121,6 +121,7 @@ Menu
         * [Asset Mapping and Standardization Data](https://lukka.tech/solutions/asset-mapping-and-standardization-data/)
         * [Lukka Marketplace & Custodian Data](https://lukka.tech/solutions/lukka-marketplace-custodian-data/)
         * [Lukka Crypto Asset Score](https://lukka.tech/solutions/lukka-crypto-asset-score/)
+        * [Lukka Crypto Sustainability Scores](https://lukka.tech/solutions/lukka-crypto-esg-score/)
         * [Lukka Trading Venue Score](https://lukka.tech/solutions/lukka-trading-venue-score/)
     * Pricing & Marketing Data
         * [Lukka Prime](https://lukka.tech/solutions/lukka-prime/)
@@ -137,7 +138,6 @@ Menu
     * [Lukka Crypto Benchmarks](https://lukka.tech/solutions/lukka-crypto-benchmarks/)
     * [Index Calculation Services](https://lukka.tech/solutions/index-calculation-services/)
     * [Valuation Services](https://lukka.tech/solutions/valuation-service/)
-    * [Lukka Crypto Sustainability Score](https://lukka.tech/solutions/lukka-crypto-sustainability-score/)
 * Partners
     * [S&P DJI](https://www.spglobal.com/spdji/en/index-family/digital-assets/cryptocurrency/#overview)
     * [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/)
@@ -171,6 +171,7 @@ Menu
         * [Asset Mapping and Standardization Data](https://lukka.tech/solutions/asset-mapping-and-standardization-data/)
         * [Lukka Marketplace & Custodian Data](https://lukka.tech/solutions/lukka-marketplace-custodian-data/)
         * [Lukka Crypto Asset Score](https://lukka.tech/solutions/lukka-crypto-asset-score/)
+        * [Lukka Crypto Sustainability Scores](https://lukka.tech/solutions/lukka-crypto-esg-score/)
         * [Lukka Trading Venue Score](https://lukka.tech/solutions/lukka-trading-venue-score/)
     * Pricing & Marketing Data
         * [Lukka Prime](https://lukka.tech/solutions/lukka-prime/)
@@ -187,7 +188,6 @@ Menu
     * [Lukka Crypto Benchmarks](https://lukka.tech/solutions/lukka-crypto-benchmarks/)
     * [Index Calculation Services](https://lukka.tech/solutions/index-calculation-services/)
     * [Valuation Services](https://lukka.tech/solutions/valuation-service/)
-    * [Lukka Crypto Sustainability Score](https://lukka.tech/solutions/lukka-crypto-sustainability-score/)
 * Partners
     * [S&P DJI](https://www.spglobal.com/spdji/en/index-family/digital-assets/cryptocurrency/#overview)
     * [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/)
