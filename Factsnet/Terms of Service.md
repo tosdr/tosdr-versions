@@ -82,7 +82,6 @@ Turn Your Curiosity Into Discovery
 * [Everything Else](https://facts.net/uncategorized/)
 * [Forum](https://discuss.facts.net/)
 * [Gallery](https://facts.net/gallery/)
-* [Quotes](https://quotes.cx/)
 
 ![search](https://facts.net/wp-content/themes/newsanchor/images/svg/search.svg) 
 
@@ -204,25 +203,24 @@ Turn Your Curiosity Into Discovery
 * [Everything Else](https://facts.net/uncategorized/)
 * [Forum](https://discuss.facts.net/)
 * [Gallery](https://facts.net/gallery/)
-* [Quotes](https://quotes.cx/)
 
 Latest Facts
 
-[![43 Facts About EhlersDanlos Syndrome ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22111%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/43-facts-about-ehlers-danlos-syndrome/)
+[![17 Facts About Perplexity AI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2274%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
 
-Health Science
+Technology
 
-12 Jul 2024
+21 Jun 2024
 
-[43 Facts About EhlersDanlos Syndrome](https://facts.net/fitness-and-wellbeing/health-science/43-facts-about-ehlers-danlos-syndrome/)
+[17 Facts About Perplexity AI](https://facts.net/science/technology/17-facts-about-perplexity-ai/)
 
-[![25 Facts About Telemundo ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2275%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/mass-media/25-facts-about-telemundo/)
+[![30 Facts About World War III ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
 
-Mass Media
+Historical Events
 
-12 Jul 2024
+21 Jun 2024
 
-[25 Facts About Telemundo](https://facts.net/culture-and-the-arts/mass-media/25-facts-about-telemundo/)
+[30 Facts About World War III](https://facts.net/history/historical-events/30-facts-about-world-war-iii/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
