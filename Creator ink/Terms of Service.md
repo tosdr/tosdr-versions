@@ -55,6 +55,7 @@ icon-X Close menu
         * [Authorized Signature Jackets](https://creatorink.com/collections/authorized)
         * [Pre-Orders](https://creatorink.com/collections/pre-order-1)
         * [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
+        * [Bundles](https://creatorink.com/collections/bundles)
         * [Final Sale!](https://creatorink.com/collections/evergreen-sale-collection)
         * [All Available](https://creatorink.com/collections/all-available)
         
@@ -162,6 +163,8 @@ icon-X Close menu
     [Pre-Orders](https://creatorink.com/collections/pre-order-1)
     
     [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
+    
+    [Bundles](https://creatorink.com/collections/bundles)
     
     [Final Sale!](https://creatorink.com/collections/evergreen-sale-collection)
     
