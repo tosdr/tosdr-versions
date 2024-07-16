@@ -976,9 +976,7 @@ Share on linkedin
 
 #### RECENT NEWS
 
-[![](https://www.gensolve.com/nz/wp-content/uploads/sites/5/2024/07/telehealthhelp.jpg)](https://www.gensolve.com/nz/2024/07/05/gensolve-telehealth-help/)
-
-### [Gensolve Telehealth Help](https://www.gensolve.com/nz/2024/07/05/gensolve-telehealth-help/)
+### [Gensolve Practice Manager and NZ Ministry of Health – Client Search by NHI Number now available.](https://www.gensolve.com/nz/2024/06/07/gensolve-practice-manager-and-moh/)
 
 #### SUBSCRIBE
 
