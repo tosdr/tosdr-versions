@@ -24,11 +24,11 @@ Health Systems & Organizations
 
 [View Organizations Page](https://www.labcorp.com/organizations)
 
-Biopharma & Investigators
+Biopharma
 
-[Nonclinical Research](https://www.labcorp.com/biopharma/nonclinical) [Central Laboratory Services](https://www.labcorp.com/biopharma/central-labs) [Order a Kit](https://www.labcorp.com/biopharma/central-labs/trial-management/kit-orders) [Contact Us](https://www.labcorp.com/biopharma/contact)
+[Nonclinical Research](https://www.labcorp.com/biopharma/nonclinical-research-studies) [Central Laboratory Services](https://www.labcorp.com/biopharma/clinical-trial-testing-labs) [Order a Kit](https://biopharma.labcorp.com/clinical-testing/labs-kits/investigators/order-a-kit.html) [Contact Us](https://biopharma.labcorp.com/contact-us.html)
 
-[View Biopharma Section](https://www.labcorp.com/biopharma)
+[View Biopharma Page](https://www.labcorp.com/biopharma)
 
 [Managing Your Health](https://www.labcorp.com/wellness)
 --------------------------------------------------------
@@ -40,8 +40,8 @@ Biopharma & Investigators
 
 * * *
 
-[Diseases & Therapeutic Areas](https://www.labcorp.com/diseases)
-----------------------------------------------------------------
+[Diseases & Specialties](https://www.labcorp.com/diseases)
+----------------------------------------------------------
 
 * [Cancer & Oncology](https://oncology.labcorp.com/)
 * [Neurology](https://www.labcorp.com/providers/neurology)
@@ -50,45 +50,27 @@ Biopharma & Investigators
 
 * * *
 
-[Treatment Modalities & Methods](https://www.labcorp.com/modalities)
---------------------------------------------------------------------
+[Treatment Methods & Product Testing](https://www.labcorp.com/modalities)
+-------------------------------------------------------------------------
 
-* [Cell & Gene Therapies](https://www.labcorp.com/biopharma/central-labs/modalities/cell-gene-therapy)
-* [Precision Medicine](https://www.labcorp.com/biopharma/central-labs/modalities/precision-medicine)
-* [Vaccines](https://www.labcorp.com/modalities/vaccines/assays)
+* [Cell & Gene Therapies](https://biopharma.labcorp.com/clinical-testing/precision-medicine-solutions/cell-and-gene-therapy.html)
+* [Precision Medicine](https://biopharma.labcorp.com/clinical-testing/precision-medicine-solutions.html)
+* [Vaccines](https://biopharma.labcorp.com/industry-solutions/by-product/vaccines.html)
 * [More](https://www.labcorp.com/modalities)
 
 * * *
 
-[Scientific Lab Disciplines](https://www.labcorp.com/disciplines)
+[Lab Disciplines & Services](https://www.labcorp.com/disciplines)
 -----------------------------------------------------------------
 
 * [Genetics & Genomics](https://www.labcorp.com/genetics-genomics)
-* [Pathology](https://www.labcorp.com/biopharma/nonclinical/disciplines/pathology)
-* [Toxicology](https://www.labcorp.com/biopharma/nonclinical/disciplines/toxicology)
+* [Pathology](https://biopharma.labcorp.com/services/pathology.html)
+* [Toxicology](https://biopharma.labcorp.com/services/safety-assessment.html)
 * [More](https://www.labcorp.com/disciplines)
 
-* * *
+[Reference & Specialty Labs](https://www.labcorp.com/providers/specialists)
 
-[Labs](https://www.labcorp.com/disciplines)
--------------------------------------------
-
-* [Diagnostic Reference & Specialty Labs](https://www.labcorp.com/providers/specialists)
-* [Nonclinical Labs](https://www.labcorp.com/biopharma/nonclinical)
-* [Central Labs](https://www.labcorp.com/biopharma/central-labs)
-
-* * *
-
-Industries
-----------
-
-* [Healthcare](https://www.labcorp.com/organizations/hospitals)
-* [Pharma](https://www.labcorp.com/biopharma)
-* [Medtech](https://medtech.labcorp.com/)
-* [Crop & Agricultural](https://crop-protection.labcorp.com/)
-* [Chemical & Environmental](https://chemical.labcorp.com/)
-
-[Education, events & experts](https://www.labcorp.com/science)
+[Research & Development Labs](https://biopharma.labcorp.com/)
 
 [About us](https://www.labcorp.com/about "About")
 
@@ -694,7 +676,6 @@ Contact Us
 
 * [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry "Patient Contact")
 * [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry "Provider Contact")
-* [Biopharma](https://www.labcorp.com/content/labcorp/us/en/biopharma/contact.html)
 
 * [Go to the Labcorp Linkedin page](https://www.linkedin.com/company/labcorp/)
 * [![](/themes/custom/labcorp/images/twitterx-white.svg)Go to the Labcorp Twitter page](https://twitter.com/Labcorp)
@@ -727,7 +708,6 @@ Mobile Footer Menu
 * [Contact Us](#)
     * [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry "Patient Contact")
     * [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry "Provider Contact")
-    * [Biopharma](https://www.labcorp.com/content/labcorp/us/en/biopharma/contact.html)
 
 * [Labcorp on Linkedin](https://www.linkedin.com/company/labcorp/)
 * [![](/themes/custom/labcorp/images/twitterx-white.svg)Labcorp on Twitter](https://twitter.com/Labcorp)
