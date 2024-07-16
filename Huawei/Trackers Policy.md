@@ -1,4 +1,4 @@
-          
+         
 
 Cookies
 =======
@@ -34,6 +34,7 @@ Products, Solutions and Services for Carrier
 * [PC](https://consumer.huawei.com/en/laptops/ "PC")
 * [Tablet](https://consumer.huawei.com/en/tablets/ "Tablet")
 * [Audio](https://consumer.huawei.com/en/audio/ "Audio")
+* [Vision](https://consumer.huawei.com/en/visions/s/ "Vision")
 * [Router](https://consumer.huawei.com/en/routers/ "Router")
 * [HUAWEI Mobile Services](https://consumer.huawei.com/en/mobileservices/ "HUAWEI Mobile Services")
 
@@ -145,6 +146,7 @@ PRODUCTS
 * [PC](https://consumer.huawei.com/en/laptops/ "PC")
 * [Tablet](https://consumer.huawei.com/en/tablets/ "Tablet")
 * [Audio](https://consumer.huawei.com/en/audio/ "Audio")
+* [Vision](https://consumer.huawei.com/en/visions/ "Vision")
 * [Router](https://consumer.huawei.com/en/routers/ "Router")
 * [Accessories](https://consumer.huawei.com/en/accessories/overview/ "Accessories")
 * [HarmonyOS 4](https://consumer.huawei.com/en/harmonyos-4/ "HarmonyOS 4")
@@ -207,8 +209,6 @@ Copyright © 1998-2024 Huawei Device Co., Ltd. All rights reserved.
 * [Legal](https://consumer.huawei.com/en/legal/ "Legal")
 
 [Global - English](https://consumer.huawei.com/en/worldwide/ "Global - English")[](https://consumer.huawei.com/en/worldwide/ "globe")
-
- 
 
 Leaving consumer.huawei.com
 
