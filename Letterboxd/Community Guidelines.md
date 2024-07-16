@@ -42,8 +42,6 @@ Press Tab to complete, Enter to create
 
 Rating
 
-Who can view (Help) Anyone (public entry) — Friends (people in your inner circle) You (private entry)
-
  Contains spoilers
 
 A moderator has locked this field.
