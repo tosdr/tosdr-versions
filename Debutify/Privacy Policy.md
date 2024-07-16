@@ -18,9 +18,6 @@
     
 * [Pricing](https://debutify.com/pricing/theme/)
 * [Case Studies](https://debutify.com/case-study/)
-* [Demo Store](https://debutifydemo.myshopify.com/)
-* [Affiliate](https://debutify.com/affiliate/)
-* [Influencers](https://debutify.com/influencers/)
 
 * [Book a demo](https://debutify.com/demo/)
 * [Start free trial](https://debutify.com/signup/)
@@ -32,9 +29,6 @@
 
 * [Pricing](https://debutify.com/pricing/theme/)
 * [Case Studies](https://debutify.com/case-study/)
-* [Demo Store](https://debutifymerch.com/)
-* [Affiliate](https://debutify.com/affiliate/)
-* [Influencers](https://debutify.com/influencers/)
 
 * [Log in](https://debutify.com/login/)
 * [Book a demo](https://debutify.com/demo/)
@@ -415,7 +409,7 @@ Sales
 * [Agencies](https://debutify.com/agencies/)
 * [Influencers](https://debutify.com/influencers/)
 * [Integrations](https://debutify.com/integrations/)
-* [Affiliate](https://debutify.com/affiliate/)
+* [Referrals](https://debutify.com/referral/)
 * [Guest Post](https://debutify.com/guest-post/)
 
 * Resources
@@ -464,16 +458,6 @@ Sales
 * [](https://www.tiktok.com/@debutify)
 * [](https://www.instagram.com/debutify)
 * [](https://twitter.com/debutify)
-* [](https://discord.com/invite/DX3x9TTNW6)
-
-* [](https://www.facebook.com/debutifycorp)
-* [](https://www.linkedin.com/company/debutify)
-* [](https://www.youtube.com/channel/UCm4-k3TAP2OPGZo47o-qZ5w)
-* [](https://www.pinterest.com/debutify)
-* [](https://www.tiktok.com/@debutify)
-* [](https://www.instagram.com/debutify)
-* [](https://twitter.com/debutify)
-* [](https://discord.com/invite/DX3x9TTNW6)
 
 * [Refund Policy](https://debutify.com/refund-policy/)
 * [Terms of Use](https://debutify.com/terms-of-use/)
