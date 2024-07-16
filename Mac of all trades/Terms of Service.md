@@ -641,8 +641,8 @@ Consumer is any User qualifying as such under applicable law.
 
 Latest update: August 25, 2023
 
-This document has been created with the iubenda [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). See also the [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/privacy-and-cookie-policy-generator). [iubenda](https://www.iubenda.com/en/) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+[iubenda](https://www.iubenda.com/en/terms-and-conditions-generator "iubenda - Terms and Conditions generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
-Created with the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator) | ![iubenda](https://www.iubenda.com/images/site/logo_min_2.png)
+Terms and Conditions generated with [![iubenda](https://www.iubenda.com/images/site/logo_min_2.png)](https://www.iubenda.com/ "iubenda")
 
-Create your Terms and Conditions
+[Generate yours](https://www.iubenda.com/en/terms-and-conditions-generator "Generate terms and conditions")
