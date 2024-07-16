@@ -1,3 +1,12 @@
+Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account! \*Valid for new accounts only
+
+Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account! \*Valid for new accounts only
+
+[Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account!  
+\*Valid for new accounts only
+
+Learn more](https://manychat.com/)
+
 [Get Started](https://manychat.com/signup)[Sign In](https://manychat.com/signin)
 
 Product
@@ -40,11 +49,7 @@ Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
 
-[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
-
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
-
-[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
 
 EnEsPt
 
@@ -495,8 +500,6 @@ Transform more conversations into sales, leads, and conversions today
 [Get Started](https://manychat.com/signup)
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-white.93c1c234.svg)](https://manychat.com/)
-
-[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
 
 Manychat
 
