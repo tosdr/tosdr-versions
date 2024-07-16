@@ -26,7 +26,7 @@ Resources
 
 [Subscribe](https://one.managedhealthcareexecutive.com/subscribe/)
 
-Choose Topic
+Choose Specialty
 
 [Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
 
@@ -60,8 +60,6 @@ Choose Topic
 
 [Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
 
-[Graft Versus Host Disease](https://www.managedhealthcareexecutive.com/clinical/graft-versus-host-disease)
-
 [HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)
 
 [Heart Failure](https://www.managedhealthcareexecutive.com/clinical/heart-failure)
@@ -89,8 +87,6 @@ Choose Topic
 [Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
 
 [Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
-
-[Pain](https://www.managedhealthcareexecutive.com/clinical/pain)
 
 [Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
 
@@ -168,7 +164,7 @@ Spotlight -
 
 [](https://www.managedhealthcareexecutive.com/search)
 
-Choose Topic
+Choose Specialty
 
 [Asthma](https://www.managedhealthcareexecutive.com/clinical/asthma)
 
@@ -202,8 +198,6 @@ Choose Topic
 
 [Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
 
-[Graft Versus Host Disease](https://www.managedhealthcareexecutive.com/clinical/graft-versus-host-disease)
-
 [HIV](https://www.managedhealthcareexecutive.com/clinical/hiv)
 
 [Heart Failure](https://www.managedhealthcareexecutive.com/clinical/heart-failure)
@@ -231,8 +225,6 @@ Choose Topic
 [Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
 
 [Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
-
-[Pain](https://www.managedhealthcareexecutive.com/clinical/pain)
 
 [Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
 
