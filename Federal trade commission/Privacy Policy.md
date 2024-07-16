@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -149,11 +151,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [On Open-Weights Foundation Models](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/open-weights-foundation-models)
+    ### [Global Perspectives from the International Competition Network Tech Forum](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/06/global-perspectives-international-competition-network-tech-forum)
     
     Staff in the Office of Technology
     
-    July 10, 2024
+    June 13, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -224,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, ICPEN, GPEN Announce Results of Review of Use of Dark Patterns Affecting Subscription Services, Privacy](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-icpen-gpen-announce-results-review-use-dark-patterns-affecting-subscription-services-privacy)
+    ### [FTC Issues Annual Report on Refunds to Consumers; Agency Returned $324M in 2023](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-issues-annual-report-refunds-consumers-agency-returned-324m-2023)
     
-    July 10, 2024
+    June 21, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jul15
+    Nov14
     
-    ### [Horseracing Integrity and Safety Authority Prehearing Conference Before ALJ Jay L. Himes In the Matter of Natalia Lynch, Docket 9423](https://www.ftc.gov/news-events/events/2024/07/horseracing-integrity-safety-authority-prehearing-conference-alj-jay-l-himes-matter-natalia-lynch)
+    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
     
-    Monday, July 15, 2024 | 1:00PM - 3:00PM
+    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -257,17 +259,7 @@ Main Menu Mega
     Follow us on social media
     -------------------------
     
-     [](https://www.facebook.com/federaltradecommission)
-    
-     [](https://www.instagram.com/federaltradecommission)
-    
-     [](https://twitter.com/FTC)
-    
-     [](https://www.linkedin.com/company/163780/)
-    
-     [](https://www.youtube.com/ftcvideos)
-    
-     [](https://www.ftc.gov/news-events/stay-connected#RSS)
+     [](https://www.facebook.com/federaltradecommission)  [](https://twitter.com/FTC)  [](https://www.linkedin.com/company/163780/)  [](https://www.youtube.com/ftcvideos)  [](https://www.ftc.gov/news-events/stay-connected#RSS)
     
     Feature
     -------
@@ -326,8 +318,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
