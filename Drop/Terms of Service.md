@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop ALT V2 High-Profile Chroma Case
+[MT3 BOGO is Back
 
-Get all the colors on your ALT.
+Seeing double? Try saving double.
 
-Preorder now
+BOGO NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-alt-high-profile-mirror-pvd-case)
+_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/MT3BOGO)
 
 Free Standard Shipping in the US on orders over $99
 
