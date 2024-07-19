@@ -1,4 +1,4 @@
-[MERCURY](https://mercury.com/)
+[](https://mercury.com/)
 
 [Log In](https://app.mercury.com/login)[Open Account](https://app.mercury.com/signup)
 
@@ -13,7 +13,7 @@ Have questions about something else? Check out our [Help Center](https://app.mer
 
 Mercury Privacy Policy
 
-Last Modified: January 8, 2024
+Last Modified: July 1, 2024
 
 Mercury Technologies, Inc. and its affiliates (collectively "Mercury," "we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how your personal data (“Personal Data”) is collected, used and disclosed by Mercury. This Privacy Policy applies to all our Services. By accessing or using our Services, or by otherwise demonstrating your consent to this Privacy Policy, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your Personal Data as described in this Privacy Policy and our Terms of Use. If you are an Administrator, you represent and warrant that you are an authorized representative of Company with the authority to bind Company to this Privacy Policy, and that you agree to this Privacy Policy on Company’s and on each User’s behalf.
 
@@ -45,7 +45,7 @@ Table 2.
 | Service Providers | We may share your Personal Data with service providers including third party vendors, consultants, marketing companies, tax professionals and accountants, customer and support services, analytics services and web hosting companies who perform services for us or on our behalf and require access to such information to do that work.  <br>  <br>Specifically, we may share your financial statements and other Personal Data with the following:  <br>  <br>• Amazon Web Services  <br>• Google  <br>• Microsoft (GitHub)  <br>• Plaid  <br>• Slack  <br>• VeryGoodSecurity  <br>• CPA firms where the CPA firm has requested delivery to occur directly from Mercury for independence reasons. | Yes |
 | Law Enforcement | We may share or transfer your Personal Data to third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Mercury, our visitors, or others. | No  |
 | Payment Processors | We may share your Personal Data with our payment processors as necessary to enable them to process payments, and for anti-fraud purposes. | Yes |
-| Business Partners and Affiliates | We may share your Personal Data with our business partners as necessary to provide you with the Services and to operate the Mercury Referral Program.  <br>Specifically, we may share your Personal Data with the following:  <br>  <br>• APEX Clearing Corporation  <br>• Evolve Bank & Trust  <br>• Choice Financial Group  <br>• The CurrencyCloud Ltd.  <br>• Patriot Bank, N.A.  <br>• Morgan Stanley Smith Barney LLC | Yes |
+| Business Partners and Affiliates | We may share your Personal Data with our business partners as necessary to provide you with the Services and to operate the Mercury Referral Program.  <br>Specifically, we may share your Personal Data with the following:  <br>  <br>• APEX Clearing Corporation  <br>• Evolve Bank & Trust  <br>• Choice Financial Group  <br>• Patriot Bank, N.A.  <br>• Morgan Stanley Smith Barney LLC | Yes |
 | Other Third Parties | We may share your Personal Data with other third parties not mentioned above at your direction or with your explicit consent. We may require you to verify your identity prior to sharing the Personal Data. | Yes |
 
 3\. How We Use Cookies and Other Tracking Technology to Collect Information.
@@ -180,4 +180,4 @@ Follow us
 
 [Twitter](https://twitter.com/mercury)[AngelList](https://angel.co/mercury)[LinkedIn](https://www.linkedin.com/company/mercuryhq)[YouTube](https://www.youtube.com/c/mercuryfi)
 
-\*Mercury is a fintech company, [not an FDIC-insured bank](https://mercury.com/how-mercury-works). Banking services provided by Choice Financial Group and Evolve Bank & Trust ®️; Members FDIC. Deposit insurance covers the failure of an insured bank.
+\*Mercury is a fintech company, [not an FDIC-insured bank](https://mercury.com/how-mercury-works). Banking services provided by Choice Financial Group and Evolve Bank & Trust®; Members FDIC. Deposit insurance covers the failure of an insured bank.
