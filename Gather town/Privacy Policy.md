@@ -37,7 +37,7 @@ Resources
 **Gather Data Processing Addendum**
 ===================================
 
-This Data Processing Addendum is effective as of November 14, 2023
+**This Data Processing Addendum is effective as of June 27, 2024**
 
 This Data Processing Addendum and its Annexes (the “Addendum” or “DPA”) reflects the parties’ agreement with respect to the Processing of Personal Data by Gather Presence, Inc. (“Gather”, also “us” or “we”) on behalf of Customer (also “you”) in connection with the site [Terms of Service](https://www.gather.town/terms-of-service), [Gather Privacy Policy](https://www.gather.town/privacy-policy) or other written or electronic agreement between Gather and you which governs your use of the Gather Services (collectively, the “Agreement”). 
 
@@ -101,7 +101,7 @@ Personal Data that Gather Processes on Customer’s behalf will be transferred t
 
 4.1. Gather will not disclose Personal Data to any individual or to a third party other than: (i) at the request of Customer; (ii) as provided in this Addendum; (iii) as necessary to provide the Gather Services; or (iv) as required by applicable law or a valid and binding order of a law enforcement agency. Except as otherwise required by law, Gather will promptly notify Customer of any subpoena, judicial, administrative or arbitral order of an executive or administrative agency or other governmental authority (“Demand”) that it receives, and which relates to the Personal Data. At Customer’s request, Gather will provide Customer with reasonable information in its possession that may be responsive to the Demand and any assistance reasonably required for Customer to respond to the Demand in a timely manner. Customer acknowledges that Gather has no responsibility to interact directly with the entity making the Demand. 
 
-4.2. Gather will ensure that all employees or those who have the authority to access or Process the Personal Data are bound by obligations of confidentiality with respect to Personal Data. Gather will ensure that its employees or those who have the authority to Process Personal Data do not process it except on the instructions of Customer. Gather will ensure all employees have undertaken training in the laws relating to the handling of Personal Data; and are aware both of Gather’s duties and their personal duties and obligations under such laws and this Addendum. 
+4.2. Gather will ensure that all employees or those who have the authority to access or Process the Personal Data are bound by obligations of confidentiality with respect to Personal Data. Gather will ensure that its employees or those who have the authority to Process Personal Data do not process it except on the instructions of Customer. Gather will ensure all employees have undertaken training in the laws relating to the handling of Personal Data; and are aware both of Gather’s duties and their personal duties and obligations under such laws and this Addendum.
 
 **5\. Data Subject Request**
 ----------------------------
@@ -168,9 +168,9 @@ The parties do not anticipate the transfer of sensitive data as part of the Agre
 **Standard Contractual Clauses** 
 ---------------------------------
 
-### SECTION I
+### **SECTION I**
 
-#### **Clause 1**
+**Clause 1**
 
 _Purpose and scope_
 
@@ -185,7 +185,7 @@ _Purpose and scope_
 
 (d) The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses.
 
-#### **Clause 2**
+**Clause 2**
 
 _Effect and invariability of the Clauses_
 
@@ -193,7 +193,7 @@ _Effect and invariability of the Clauses_
 
 (b) These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679.
 
-#### **Clause 3**
+**Clause 3**
 
 _Third-party beneficiaries_
 
@@ -210,7 +210,7 @@ _Third-party beneficiaries_
 
 (b) Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679.
 
-#### **Clause 4**
+**Clause 4**
 
 _Interpretation_
 
@@ -220,19 +220,21 @@ _Interpretation_
 
 (c) These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679.
 
-#### **Clause 5**
+**Clause 5**
 
 _Hierarchy_
 
 In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail.
 
-#### **Clause 6**
+**Clause 6**
 
 _Description of the transfer(s)_
 
 The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B.
 
-#### **Clause 7**
+‍
+
+**Clause 7**
 
 _Docking clause_
 
@@ -244,7 +246,7 @@ _Docking clause_
 
 ### **SECTION II – OBLIGATIONS OF THE PARTIES**
 
-#### **Clause 8**
+**Clause 8**
 
 _Data protection safeguards_
 
@@ -309,7 +311,7 @@ Any onward transfer is subject to compliance by the data importer with all the o
 
 (e) The Parties shall make the information referred to in paragraphs (b) and (c), including the results of any audits, available to the competent supervisory authority on request.
 
-#### **Clause 9**
+**Clause 9**
 
 _Use of Sub-processors_
 
@@ -323,7 +325,7 @@ _Use of Sub-processors_
 
 (e) The data importer shall agree a third-party beneficiary clause with the Sub-processor whereby – in the event the data importer has factually disappeared, ceased to exist in law or has become insolvent – the data exporter shall have the right to terminate the Sub-processor contract and to instruct the Sub-processor to erase or return the personal data.
 
-#### **Clause 10**
+**Clause 10**
 
 _Data subject rights_
 
@@ -333,7 +335,7 @@ _Data subject rights_
 
 (c) In fulfilling its obligations under paragraphs (a) and (b), the data importer shall comply with the instructions from the data exporter.
 
-#### **Clause 11**
+**Clause 11**
 
 _Redress_
 
@@ -352,7 +354,7 @@ _Redress_
 
 (f) The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws.
 
-#### **Clause 12**
+**Clause 12**
 
 _Liability_
 
@@ -370,7 +372,7 @@ _Liability_
 
 (g) The data importer may not invoke the conduct of a Sub-processor to avoid its own liability.
 
-#### **Clause 13**
+**Clause 13**
 
 _Supervision_
 
@@ -384,7 +386,7 @@ _Where the data exporter is not established in an EU Member State, but falls wit
 
 ### **SECTION III – LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES**
 
-#### **Clause 14**
+**Clause 14**
 
 _Local laws and practices affecting compliance with the Clauses_
 
@@ -404,7 +406,7 @@ _Local laws and practices affecting compliance with the Clauses_
 
 (f) Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfill its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g. technical or organizational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply.
 
-#### **Clause 15**
+**Clause 15**
 
 _Obligations of the data importer in case of access by public authorities_
 
@@ -423,7 +425,7 @@ _Obligations of the data importer in case of access by public authorities_
 
 (e) Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses.
 
-**15.2. Review of legality and data minimisation**
+### **15.2. Review of legality and data minimisation**
 
 (a) The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e).
 
@@ -433,7 +435,7 @@ _Obligations of the data importer in case of access by public authorities_
 
 ### **SECTION IV – FINAL PROVISIONS**
 
-#### **Clause 16**
+**Clause 16**
 
 _Non-compliance with the Clauses and termination_
 
@@ -453,13 +455,13 @@ In these cases, it shall inform the competent supervisory authority of such non-
 
 (e) Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679.
 
-#### **Clause 17**
+**Clause 17**
 
 _Governing law_
 
 These Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third-party beneficiary rights. The Parties agree that these Clauses shall be governed in accordance with the 'Contracting Entity; Applicable Law; Notice’ section of the Jurisdiction Specific Terms or if such section does not specify an EU Member State, by the law of the Republic of Ireland (without reference to conflicts of law principles)
 
-#### **Clause 18**
+**Clause 18**
 
 _Choice of forum and jurisdiction_
 
@@ -500,7 +502,7 @@ UK AND SWISS ADDENDUM TO THE STANDARD CONTRACTUAL CLAUSES
 
 ### **ANNEX I**
 
-#### **A. LIST OF PARTIES**
+**A. LIST OF PARTIES**
 
 **DATA EXPORTER**
 
@@ -526,7 +528,7 @@ Activities relevant to the data transferred under these Clauses: Processing of P
 
 **Role (controller/processor):** Data Processor
 
-#### **B. DESCRIPTION OF TRANSFER**
+**B. DESCRIPTION OF TRANSFER**
 
 **Categories of data subjects whose personal data is transferred**
 
@@ -558,7 +560,7 @@ The data is transferred and processed to facilitate the provision of the Site an
 
 We retain your Personal Data only for as long as is necessary for the legitimate business purposes as set in Gather Presence, Inc Privacy Policy ([https://www.gather.town/privacy-policy](https://www.gather.town/privacy-policy)), and no more than thirty days (30) after you close your user account, unless a different policy is otherwise agreed upon in an executed agreement, or if we are legally obligated to retain the data for longer periods.
 
-#### **C. COMPETENT SUPERVISORY AUTHORITY**
+**C. COMPETENT SUPERVISORY AUTHORITY**
 
 For the purposes of the Standard Contractual Clauses, the supervisory authority that shall act as competent supervisory authority is either (i) where Customer is established in an EU Member State, the supervisory authority responsible for ensuring Customer's compliance with the GDPR; (ii) where Customer is not established in an EU Member State but falls within the extra-territorial scope of the GDPR and has appointed a representative, the supervisory authority of the EU Member State in which Customer's representative is established; or (iii) where Customer is not established in an EU Member State but falls within the extra-territorial scope of the GDPR without having to appoint a representative, the supervisory authority of the EU Member State in which the Data Subjects are predominantly located. In relation to Personal Data that is subject to the UK GDPR or Swiss DPA, the competent supervisory authority is the UK Information Commissioner or the Swiss Federal Data Protection and Information Commissioner (as applicable).
 
@@ -609,7 +611,7 @@ Gather has several internal information security policies in place including the
 
 Gather has limited ability to share these policies, and to the extent they are available to be shared requires a confidentiality agreement.   
 
-Gather works with a security consulting firm to ensure SOC 2 compliance and is in the process of obtaining a SOC 2 Type II attestation from a reputable auditor..
+Gather has its SOC 2 compliance certification.
 
 ### **ANNEX III**
 
@@ -617,14 +619,13 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 1.
 
-**Name:** Digital Ocean
+**Name:** Grain
 
-**Webpage:** [https://www.digitalocean.com/](https://www.digitalocean.com/)
+**Webpage:** https://grain.com
 
 **Location:** United States
 
-**Description of processing:** Cloud Hosting Provider  
-‍
+**Description of processing:** Meeting recording, automated note-taking and summarizing
 
 2.
 
@@ -637,8 +638,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 * [https://cloud.google.com/about/locations](https://cloud.google.com/about/locations)
 * [https://www.google.com/about/datacenters/locations/](https://www.google.com/about/datacenters/locations/)
 
-**Description of processing:** Cloud Hosting Provider  
-‍
+**Description of processing:** Cloud Hosting Provider
 
 3.
 
@@ -648,8 +648,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Email Delivery Service  
-‍
+**Description of processing:** Email Delivery Service
 
 4.
 
@@ -659,8 +658,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Cloud Hosting Provider  
-‍
+**Description of processing:** Cloud Hosting Provider
 
 5.
 
@@ -670,8 +668,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Data Analytics  
-‍
+**Description of processing:** Data Analytics
 
 6.
 
@@ -681,8 +678,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Cloud Hosting Provider  
-‍
+**Description of processing:** Cloud Hosting Provider
 
 7.
 
@@ -692,8 +688,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Data Analytics  
-‍
+**Description of processing:** Data Analytics
 
 8.
 
@@ -703,8 +698,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Application Monitoring  
-‍
+**Description of processing:** Application Monitoring
 
 9.
 
@@ -714,8 +708,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Messaging  
-‍
+**Description of processing:** Messaging
 
 10.
 
@@ -725,8 +718,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Video  
-‍
+**Description of processing:** Video
 
 11.
 
@@ -736,8 +728,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** distributed database with standard SQL for cloud applications.  
-‍
+**Description of processing:** distributed database with standard SQL for cloud applications.
 
 12. 
 
@@ -747,8 +738,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** centralized data warehouse   
-‍
+**Description of processing:** centralized data warehouse 
 
 13.
 
@@ -758,8 +748,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** customer feedback repository  
-‍
+**Description of processing:** customer feedback repository
 
 14.
 
@@ -769,8 +758,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** Reverse ETL tool  
-‍
+**Description of processing:** Reverse ETL tool
 
 15.
 
@@ -780,8 +768,7 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 
 **Location:** United States
 
-**Description of processing:** customer relationship management platform  
-‍
+**Description of processing:** customer relationship management platform
 
 16. 
 
@@ -792,6 +779,56 @@ Gather works with a security consulting firm to ensure SOC 2 compliance and is i
 **Location:** United States
 
 **Description of processing:** in-app chat
+
+17. 
+
+**Name:** Statsig
+
+**Webpage:** https://statsig.com/
+
+**Location:** United States
+
+**Description of processing:** Gating and feature flags
+
+18. 
+
+**Name:** Stripe
+
+**Webpage:** https://stripe.com/
+
+**Location:** United States
+
+**Description of processing:** Billing, invoicing and payments. 
+
+19. 
+
+**Name:** Sigma
+
+**Webpage:** https://www.sigmacomputing.com/
+
+**Location:** United States
+
+**Description of processing:** Data Analytics
+
+20. 
+
+**Name:** Zendesk
+
+**Webpage:** https://www.zendesk.com/
+
+**Location:** United States
+
+**Description of processing:** Customer support
+
+21. 
+
+**Name:** Vanta
+
+**Webpage:** https://www.vanta.com/
+
+**Location:** United States
+
+**Description of processing:** Customer requests for security and compliance
 
 [![](https://cdn.prod.website-files.com/63c885e8fb810536398b658a/63ca1ce66ea27add67275f7e_gather-logo-black.svg)](https://www.gather.town/)
 
