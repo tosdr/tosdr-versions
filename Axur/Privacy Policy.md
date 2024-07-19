@@ -345,7 +345,7 @@ Previous versions**:** To access previous versions, please email [privacy@axur.c
 
 ##### Digital Risk Protection
 
-[Data Leakage](https://axur.com/en-us/data-leakage)[Online Piracy](https://axur.com/en-us/online-piracy)[Brand Protection](https://axur.com/en-us/brand-protection)[Deep & Dark Web Intelligence](https://axur.com/en-us/deep-and-dark-web-monitoring)[Executives and VIPs](https://axur.com/en-us/executives-vips)
+[Data Breaches and Leaks](https://axur.com/en-us/data-leakage)[Online Piracy](https://axur.com/en-us/online-piracy)[Brand Protection](https://axur.com/en-us/brand-protection)[Deep & Dark Web Intelligence](https://axur.com/en-us/deep-and-dark-web-monitoring)[Executives and VIPs](https://axur.com/en-us/executives-vips)
 
 ##### INCIDENT RESPONSE
 
