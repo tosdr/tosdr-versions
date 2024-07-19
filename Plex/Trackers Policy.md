@@ -157,7 +157,6 @@ If you do not want to receive tracking pixels, you will need to disable HTML ima
 We do not sell or give your email address to other companies for their own marketing purposes without your permission. However, we may use your email address or other registration data to provide you with technical support, send you communications about the Service or other promotional offers you have elected to receive, and to serve you with marketing offers that are more relevant to your interests. We may occasionally work with data partners to help increase the relevancy of marketing offers we provide to our customers. In doing so, we may provide such companies with information representing an encrypted or hashed value derived from information you have provided to us, such as your email address.
 
 * [Privacy Policy](https://www.plex.tv/about/privacy-legal/)
-* [Privacy Preferences](https://www.plex.tv/about/privacy-legal/privacy-preferences/)
 * [Terms](https://www.plex.tv/about/privacy-legal/plex-terms-of-service/)
 * [Copyright](https://www.plex.tv/about/privacy-legal/plex-copyright-policy/)
 * [Trademarks](https://www.plex.tv/about/privacy-legal/plex-trademarks-and-guidelines/)
@@ -269,8 +268,9 @@ No credit card required.
     * [Discover on Plex](https://www.plex.tv/discover/)
     * [TV Channel Finder](https://www.plex.tv/live-tv-channels/)
     * [What to Watch](https://www.plex.tv/what-to-watch/)
+    * [What To Watch on Netflix](https://www.plex.tv/what-to-watch/netflix/)
     * [What To Watch on Hulu](https://www.plex.tv/what-to-watch/hulu/)
-    * [A24 collection](https://www.plex.tv/a24-movies/)
+    * [A24 movies](https://www.plex.tv/a24-movies/)
 
 Copyright © 2024 Plex
 
