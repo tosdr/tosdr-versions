@@ -13,7 +13,7 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-X750 / Spitz](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x3000.jpg) | ###### Cellular Router<br><br>[GL-E750V2 / Mudi V2 NEW](https://www.gl-inet.com/products/gl-e750/)  <br>[GL-AP1300LTE / Cirrus](https://www.gl-inet.com/products/gl-ap1300/)  <br>[GL-XE3000 / Puli AX NEW](https://www.gl-inet.com/products/gl-xe3000/)  <br>[GL-X3000 / Spitz AX NEW](https://www.gl-inet.com/products/gl-x3000/)  <br>[GL-X750 / Spitz](https://www.gl-inet.com/products/gl-x750/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/)  <br>[GL-XE300 / Puli](https://www.gl-inet.com/products/gl-xe300/) |
+    | ![GL-X750 / Spitz](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x3000.jpg) | ###### Cellular Router<br><br>[GL-E750V2 / Mudi V2 NEW](https://www.gl-inet.com/products/gl-e750/)  <br>[GL-XE3000 / Puli AX NEW](https://www.gl-inet.com/products/gl-xe3000/)  <br>[GL-X3000 / Spitz AX NEW](https://www.gl-inet.com/products/gl-x3000/)  <br>[GL-X750 / Spitz](https://www.gl-inet.com/products/gl-x750/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/)  <br>[GL-XE300 / Puli](https://www.gl-inet.com/products/gl-xe300/) |
     
     |     |     |
     | --- | --- |
@@ -21,11 +21,11 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-MT6000 / Flint 2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt6000.jpg) | ###### Home Wi-Fi<br><br>[GL-MT6000 / Flint 2 NEW](https://www.gl-inet.com/products/gl-mt6000/)  <br>[GL-B3000 / Marble UPCOMING](https://www.gl-inet.com/products/gl-b3000/)  <br>[GL-B2200 / Velica](https://www.gl-inet.com/products/gl-b2200/)  <br>[GL-AX1800 / Flint](https://www.gl-inet.com/products/gl-ax1800/)  <br>[GL-B1300 / Convexa-B](https://www.gl-inet.com/products/gl-b1300/)  <br>[GL-SF1200](https://www.gl-inet.com/products/gl-sf1200/) |
+    | ![GL-MT6000 / Flint 2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt6000.jpg) | ###### Home Wi-Fi<br><br>[GL-MT6000 / Flint 2 NEW](https://www.gl-inet.com/products/gl-mt6000/)  <br>[GL-B3000 / Marble UPCOMING](https://www.gl-inet.com/products/gl-b3000/)  <br>[GL-AX1800 / Flint](https://www.gl-inet.com/products/gl-ax1800/)  <br>[GL-B1300 / Convexa-B](https://www.gl-inet.com/products/gl-b1300/) |
     
     |     |     |
     | --- | --- |
-    | ![GL-X300B / Collie](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x300b-ble.jpg) | ###### Enterprise<br><br>[GL-AP1300 / Cirrus](https://www.gl-inet.com/products/gl-ap1300/)  <br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/) |
+    | ![GL-X300B / Collie](https://static.gl-inet.com/www/images/products/general/product-list/product-list_x300b-ble.jpg) | ###### Enterprise<br><br>[GL-X300B / Collie](https://www.gl-inet.com/products/gl-x300b/) |
     
     |     |     |
     | --- | --- |
