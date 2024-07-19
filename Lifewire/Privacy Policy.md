@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![LifeWire Logo](https://www.lifewire.org/wp-content/uploads/2018/10/LW-Logo-Tagline-CMYK.png)](https://www.lifewire.org/)
+[![LifeWire](https://www.lifewire.org/wp-content/uploads/2024/07/LW-Logo-CMYK.png)](https://www.lifewire.org/)
 
 Menu
 
@@ -18,7 +18,7 @@ Menu
     * [LGTBQIA2S+ Community](https://www.lifewire.org/get-help/lgbtq-community/)
     * [Men](https://www.lifewire.org/get-help/for-men/)
     * [Teens](https://www.lifewire.org/get-help/teens/)
-* [Get Informed](https://www.lifewire.org/get-involved/)
+* [Get Informed](https://www.lifewire.org/get-informed/)
     * [Is This Abuse?](https://www.lifewire.org/get-help/is-this-abuse/)
     * [Thinking of Leaving?](https://www.lifewire.org/get-help/thinking-of-leaving/)
     * [Protecting Yourself in a Digital World](https://www.lifewire.org/get-help/protecting-digital-world/)
@@ -31,7 +31,7 @@ Menu
 * [Get Involved](https://www.lifewire.org/get-involved/)
     * [News Coverage & Press Releases](https://www.lifewire.org/category/news-coverage/)
         * [Newsletter](https://www.lifewire.org/get-informed/news/)
-    * [Events](https://www.lifewire.org/events/)
+    * [Events](https://www.lifewire.org/?page_id=990)
         * [Gala](https://www.lifewire.org/events/gala/)
     * [Impact Reports](https://www.lifewire.org/category/impact-reports/)
     * [Together Against Domestic Violence Blog](https://www.lifewire.org/category/together-against-domestic-violence/)
@@ -98,6 +98,14 @@ Contacting LifeWire
 
 LifeWire works hard to ensure that your giving experience is a positive one. If you would like to have your information removed from our mailing or email lists or if have any questions about this privacy statement, LifeWire’s practices, or this website, please contact us at 425-562-8840 ext. 249 or [comms@lifewire.org](mailto:comms@lifewire.org).
 
+### Follow Us on Social Media
+
+* [Facebook](https://www.facebook.com/LifeWireOrg/)
+* [Instagram](https://www.instagram.com/lifewireorg/)
+* [YouTube](https://www.youtube.com/channel/UCt2NPEzJ3C69nLJ1x4-f7Mw)
+* [X](https://x.com/LifeWireOrg)
+* [LinkedIn](https://www.linkedin.com/company/lifewire/)
+
 Keep in touch
 -------------
 
@@ -118,15 +126,6 @@ Constant Contact Use. Please leave this field blank.
 * * *
 
 By submitting this form, you are consenting to receive marketing emails from: . You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email. [Emails are serviced by Constant Contact](https://www.constantcontact.com/legal/service-provider)
-
-Follow Us on Social Media
--------------------------
-
-* [Facebook](https://www.facebook.com/LifeWireOrg/)
-* [Instagram](https://www.instagram.com/lifewireorg/)
-* [YouTube](https://www.youtube.com/channel/UCt2NPEzJ3C69nLJ1x4-f7Mw)
-* [X](https://x.com/LifeWireOrg)
-* [LinkedIn](https://www.linkedin.com/company/lifewire/)
 
 About
 -----
