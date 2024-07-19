@@ -140,7 +140,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Nestle in the United States](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-07/About-Us-Nav-bar.png?itok=-GIpJNFv)
+    ![Nestle in the United States](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-07/About-Us-Nav-bar.png.webp?itok=HotQ9Nr9)
     
     Nestlé in the U.S. consists of four main businesses: Nestlé USA, Nespresso, Nestlé Health Science, and Nestlé Purina PetCare Company.
     
@@ -185,7 +185,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Our Stories](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2022-09/Website_Stories_Header_V2-01.png?itok=MG_BMD9J)
+    ![Our Stories](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2022-09/Website_Stories_Header_V2-01.png.webp?itok=WlwuxlWz)
     
     [Go to **Our Stories**](https://www.nestleusa.com/stories)
     
@@ -193,7 +193,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Planet](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2020-07/Planet-Main-Navigation.png?h=ca7fa25a&itok=b_u08Y_F)
+    ![Planet](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2020-07/Planet-Main-Navigation.png.webp?itok=pZSvFajT)
     
     Our 2030 Ambition: Strive for zero environmental impact in our operations.
     
@@ -213,7 +213,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Nestle Toll House Brookie](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2022-10/Brookie_Story_Header.png?h=b8626526&itok=VcCqoAHQ)
+    ![Nestle Toll House Brookie](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2022-10/Brookie_Story_Header.png.webp?itok=T3TsE_Fl)
     
     Everything we do starts with you. Wherever you choose to shop, our goal is to delight and surprise you with products you’ll love – from reimagined classics to brand new product innovations.
     
@@ -236,7 +236,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Communities](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-09/Communities-Main-Nav.png?itok=ksIie52Q)
+    ![Communities](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-09/Communities-Main-Nav.png.webp?itok=XXkyIhGa)
     
     Supporting Access to Opportunity, Nutrition, and a Healthy Planet
     
@@ -256,7 +256,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Nestle Brands 2023](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-03/NiM-Portfolio-2023-Nav.png?itok=SUpNMg96)
+    ![Nestle Brands 2023](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2023-03/NiM-Portfolio-2023-Nav.png.webp?itok=H_dFQArZ)
     
     Explore brands from Nestle in the United States, from DiGiorno Pizza to Nespresso Coffee, Stouffer's meals to Purina Beyond petfood, and  
     Gerber baby foods to San Pellegrino water.
@@ -338,7 +338,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Ask Nestle](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2020-06/Ask-Nestle-Main-Nav.png?h=ca7fa25a&itok=3XEXyteR)
+    ![Ask Nestle](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2020-06/Ask-Nestle-Main-Nav.png.webp?itok=X8a9R9uq)
     
     Frequently Asked Questions about topics such as climate, nutrition, community service, animal welfare, and careers at Nestle in the  
     United States
@@ -369,7 +369,7 @@ Secondary menu
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Media](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2020-06/Media-Main-Nav.png?itok=Piz5pem3)
+    ![Media](/sites/g/files/pydnoa536/files/styles/navigation_featured_image/public/2020-06/Media-Main-Nav.png.webp?itok=7KJQ-myG)
     
     Explore our latest news, find press releases and visual assets, or reach out to our media contacts.
     
