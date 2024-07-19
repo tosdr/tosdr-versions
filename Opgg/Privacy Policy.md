@@ -8,7 +8,7 @@
 
 Discover Inkborn Fables](https://tft.op.gg/set/11)
 
-[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/93dc7e79dd2b842b7c9dd86acab04acf.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d5dd7039220ec8680e69ce1558411984.svg?image=q_auto:good,f_png,w_48,h_48)Desktop](https://op.gg/desktop/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/058928c9b0da0c9833f279f65e9bffe9.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/a31ab0f891ab2609ac0a9825c03816e6.svg?image=q_auto:good,f_png,w_48,h_48)Duo](https://duo.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/04a40f3b0d664bf4478e2f215f448f3c.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/f8f51b5a7ef32cf4cdd43545f3ce3574.svg?image=q_auto:good,f_png,w_48,h_48)TalkG](https://talk.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/06f2c5c6f57cb212a207eb1d8f1b2160.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/1f3d8921b286644f2f28a4d4853d8d87.svg?image=q_auto:good,f_png,w_48,h_48)Esports](https://esports.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_48,h_48)GamesBeta](https://games.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/08664e3f401569aca5e12eec15695421.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/968fbbfb3dbebd05e25545bb2d1d9437.svg?image=q_auto:good,f_png,w_48,h_48)GigsNew](https://gigs.op.gg/)
+[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/93dc7e79dd2b842b7c9dd86acab04acf.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d5dd7039220ec8680e69ce1558411984.svg?image=q_auto:good,f_png,w_48,h_48)Desktop](https://op.gg/desktop/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/058928c9b0da0c9833f279f65e9bffe9.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/a31ab0f891ab2609ac0a9825c03816e6.svg?image=q_auto:good,f_png,w_48,h_48)Duo](https://duo.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/04a40f3b0d664bf4478e2f215f448f3c.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/f8f51b5a7ef32cf4cdd43545f3ce3574.svg?image=q_auto:good,f_png,w_48,h_48)TalkG](https://talk.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/06f2c5c6f57cb212a207eb1d8f1b2160.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/1f3d8921b286644f2f28a4d4853d8d87.svg?image=q_auto:good,f_png,w_48,h_48)Esports](https://esports.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/08664e3f401569aca5e12eec15695421.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/968fbbfb3dbebd05e25545bb2d1d9437.svg?image=q_auto:good,f_png,w_48,h_48)GigsNew](https://gigs.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_48,h_48)![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_48,h_48)Games](https://games.op.gg/)
 
 Stats
 
@@ -16,7 +16,7 @@ Stats
 
 * * *
 
-[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/93dc7e79dd2b842b7c9dd86acab04acf.svg?image=q_auto:good,f_png,w_96,h_96)Desktop](https://op.gg/desktop/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/058928c9b0da0c9833f279f65e9bffe9.svg?image=q_auto:good,f_png,w_96,h_96)Duo](https://duo.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/04a40f3b0d664bf4478e2f215f448f3c.svg?image=q_auto:good,f_png,w_96,h_96)TalkG](https://talk.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/06f2c5c6f57cb212a207eb1d8f1b2160.svg?image=q_auto:good,f_png,w_96,h_96)Esports](https://esports.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_96,h_96)BetaGames](https://games.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/08664e3f401569aca5e12eec15695421.svg?image=q_auto:good,f_png,w_96,h_96)NewGigs](https://gigs.op.gg/)
+[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/93dc7e79dd2b842b7c9dd86acab04acf.svg?image=q_auto:good,f_png,w_96,h_96)Desktop](https://op.gg/desktop/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/058928c9b0da0c9833f279f65e9bffe9.svg?image=q_auto:good,f_png,w_96,h_96)Duo](https://duo.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/04a40f3b0d664bf4478e2f215f448f3c.svg?image=q_auto:good,f_png,w_96,h_96)TalkG](https://talk.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/06f2c5c6f57cb212a207eb1d8f1b2160.svg?image=q_auto:good,f_png,w_96,h_96)Esports](https://esports.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/08664e3f401569aca5e12eec15695421.svg?image=q_auto:good,f_png,w_96,h_96)NewGigs](https://gigs.op.gg/)[![](https://s-opgg-kit.op.gg/gnb/config/images/icon/d9bd87f5e857109fedf54a3a3d695c2b.svg?image=q_auto:good,f_png,w_96,h_96)Games](https://games.op.gg/)
 
 * Contact us
 * Help Center
@@ -27,9 +27,9 @@ Sign in
 
 [](https://www.op.gg/)
 
-euwNAEUWEUNEOCEKRJPBRLASLANRUTRSGPHTWVNTHME
+euwNAMEEUWEUNEOCEKRJPBRLASLANRUTRSGPHTWVNTH
 
-![](https://s-lol-web.op.gg/assets/images/regions/01-icon-icon-euw.svg?v=1717557723274)EUW
+![](https://s-lol-web.op.gg/assets/images/regions/01-icon-icon-euw.svg?v=1721383362891)EUW
 
 SearchGame Name +#EUW
 
@@ -38,10 +38,12 @@ SearchGame Name +#EUW
 * [Home](https://www.op.gg/)
 * [Champions](https://www.op.gg/champions)
 * [Game modes](https://www.op.gg/modes/aram)
-* [Arena](https://www.op.gg/modes/arena)
-* [Stats](https://www.op.gg/statistics/champions)
 * [Leaderboards](https://www.op.gg/leaderboards/tier)
+* [Highlights
+    
+    Beta](https://www.op.gg/highlights)
 * [Pro spectate](https://www.op.gg/spectate/live/pro-gamer)
+* [Stats](https://www.op.gg/statistics/champions)
 * [Multi-search](https://www.op.gg/multisearch)
 
 * [My Page](https://www.op.gg/mypage/dashboard)
@@ -252,7 +254,7 @@ If you have any questions about this Policy, please contact us by using one of t
 1. Email: [privacy@op.gg](mailto:privacy@op.gg)
 2. Address: WeWork B/D 1F, 2F, 507, Teheran-ro, Gangnam-gu, Seoul, 06168, Republic of Korea.
 
-**[![OP.GG](https://s-lol-web.op.gg/images/icon/icon-opgglogo-gray.svg?v=1717557723274)](https://www.op.gg/)**
+**[![OP.GG](https://s-lol-web.op.gg/images/icon/icon-opgglogo-gray.svg?v=1721383362891)](https://www.op.gg/)**
 
 **OP.GG**
 
@@ -260,11 +262,11 @@ If you have any questions about this Policy, please contact us by using one of t
 
 **Products**
 
-[League of Legends![League of Legends](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://op.gg/)[Teamfight Tactics![Teamfight Tactics](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://tft.op.gg/)[Valorant![Valorant](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://valorant.op.gg/)[OVERWATCH2![OVERWATCH2](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://overwatch.op.gg/)[PUBG![PUBG](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://pubg.op.gg/)[Desktop![Desktop](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://op.gg/desktop/)[Duo![Duo](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://duo.op.gg/)[TalkG![TalkG](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://talk.op.gg/)[Esports![Esports](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://esports.op.gg/)[Games![Games](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://games.op.gg/)[Gigs![Gigs](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://gigs.op.gg/)
+[League of Legends![League of Legends](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://op.gg/)[Teamfight Tactics![Teamfight Tactics](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://tft.op.gg/)[Valorant![Valorant](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://valorant.op.gg/)[OVERWATCH2![OVERWATCH2](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://overwatch.op.gg/)[PUBG![PUBG](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://pubg.op.gg/)[Desktop![Desktop](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://op.gg/desktop/)[Duo![Duo](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://duo.op.gg/)[TalkG![TalkG](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://talk.op.gg/)[Esports![Esports](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://esports.op.gg/)[Gigs![Gigs](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://gigs.op.gg/)[Games![Games](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://games.op.gg/)
 
 **Apps**
 
-[OP.GG for Mobile Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://play.google.com/store/apps/details?id=gg.op.lol.android)[OP.GG for Mobile iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://itunes.apple.com/app/id605722237)[AllT Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://play.google.com/store/apps/details?id=gg.op.tft)[AllT iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://apps.apple.com/kr/app/allt/id6448737621)[Valorant Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://play.google.com/store/apps/details?id=gg.op.valornento)[Valorant iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://apps.apple.com/kr/app/valornento/id6468704189)[Gigs Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://play.google.com/store/apps/details?id=gg.op.gigs)[Gigs iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://apps.apple.com/app/id6468980658)[TalkG Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://play.google.com/store/apps/details?id=gg.op.talk&hl=ko-KR)[TalkG iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://apps.apple.com/kr/app/id6475250505)[Esports Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://play.google.com/store/apps/details?id=gg.op.esports)[Esports iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1717557723274)](https://apps.apple.com/kr/app/id1557184148)
+[OP.GG for Mobile Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://play.google.com/store/apps/details?id=gg.op.lol.android)[OP.GG for Mobile iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://itunes.apple.com/app/id605722237)[AllT Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://play.google.com/store/apps/details?id=gg.op.tft)[AllT iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://apps.apple.com/kr/app/allt/id6448737621)[Valorant Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://play.google.com/store/apps/details?id=gg.op.valornento)[Valorant iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://apps.apple.com/kr/app/valornento/id6468704189)[Gigs Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://play.google.com/store/apps/details?id=gg.op.gigs)[Gigs iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://apps.apple.com/kr/app/id6468980658)[TalkG Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://play.google.com/store/apps/details?id=gg.op.talk&hl=ko-KR)[TalkG iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://apps.apple.com/kr/app/id6475250505)[Esports Android![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://play.google.com/store/apps/details?id=gg.op.esports)[Esports iOS![game](https://s-lol-web.op.gg/images/icon/icon-game.svg?v=1721383362891)](https://apps.apple.com/kr/app/id1557184148)
 
 **Resources**
 
@@ -276,4 +278,4 @@ If you have any questions about this Policy, please contact us by using one of t
 
 © 2012-2024 OP.GG. OP.GG is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
-[![instagram account](https://s-lol-web.op.gg/images/icon/icon-logo-instagram.svg?v=1717557723274)](https://www.instagram.com/opgg_official)[![twitter account](https://s-lol-web.op.gg/images/icon/icon-logo-youtube.svg?v=1717557723274)](https://www.youtube.com/@opgg_official)[![twitter account](https://s-lol-web.op.gg/images/icon/icon-logo-x.svg?v=1717557723274)](https://twitter.com/opgg_official)[![facebook account](https://s-lol-web.op.gg/images/icon/icon-logo-facebook.svg?v=1717557723274)](https://www.facebook.com/opgg.official/)[![Overwolf](https://s-lol-web.op.gg/static/images/icon/logo/icon-logo-overwolf.svg?v=1717557723274)](https://www.overwolf.com/oneapp/opgg-electron-app)
+[![instagram account](https://s-lol-web.op.gg/images/icon/icon-logo-instagram.svg?v=1721383362891)](https://www.instagram.com/opgg_official)[![twitter account](https://s-lol-web.op.gg/images/icon/icon-logo-youtube.svg?v=1721383362891)](https://www.youtube.com/@opgg_official)[![twitter account](https://s-lol-web.op.gg/images/icon/icon-logo-x.svg?v=1721383362891)](https://twitter.com/opgg_official)[![facebook account](https://s-lol-web.op.gg/images/icon/icon-logo-facebook.svg?v=1721383362891)](https://www.facebook.com/opgg.official/)[![Overwolf](https://s-lol-web.op.gg/static/images/icon/logo/icon-logo-overwolf.svg?v=1721383362891)](https://www.overwolf.com/oneapp/opgg-electron-app)
