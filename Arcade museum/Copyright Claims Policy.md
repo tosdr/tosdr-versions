@@ -75,13 +75,14 @@ International Arcade Museum® — Killer List of Videogames®
     * [Museum of the Game Book Store](https://bookstore.arcade-museum.com/)
     * [Coin Slot Publishing](https://www.arcade-museum.com/coin-slot-books)
     * [Buying and Selling Tips](https://www.arcade-museum.com/buy-sell/faq)
-    * [100 Most Important Game Auctions on eBay Now!](https://www.arcade-museum.com/auctions/ebay-coinop-arcade-videogame)
+    * [100 Most Important Game Auctions on eBay](https://www.arcade-museum.com/auctions/ebay-coinop-arcade-videogame)
     * [Top Coin-Op Auction Results](https://www.arcade-museum.com/auctions)
-    * [VAPS Members - For Sale & Wanted Ad Database](https://www.arcade-museum.com/members/reports)
-    * [Message Forums - Member For Sale & Wanted Discussions](https://forums.arcade-museum.com/forumdisplay.php?f=53)
+    * [VAPS Members - For Sale & Wanted](https://www.arcade-museum.com/members/reports)
+    * [Forums - For Sale & Wanted Discussions](https://forums.arcade-museum.com/forumdisplay.php?f=53)
     * [U.S. Slot Machine Ownership Laws](https://www.arcade-museum.com/buy-sell/slotlaws)
 * [More](#)
     * [Support Our Efforts](https://www.arcade-museum.com/contribute)
+    * [Report Issue](https://www.arcade-museum.com/report)
     * [About Us](https://www.arcade-museum.com/about-us)
     * [Events Calendar](https://www.arcade-museum.com/events)
     * [News & Updates](https://www.arcade-museum.com/news)
@@ -175,7 +176,7 @@ Upon receipt of a Counter-Notification containing the information as outlined in
 * We shall inform the Complaining Party that it will replace the removed material or cease disabling access to it within ten (10) business days.
 * We shall replace the removed material or cease disabling access to the material within ten (10) to fourteen (14) business days following receipt of the Counter Notification, provided our Designated Agent has not received notice from the Complaining Party that an action has been filed seeking a court order to restrain Subscriber from engaging in infringing activity relating to the material on our system.
 
-Notices and Counter-Notices with respect to this website must meet then current statutory requirements imposed by the DMCA; see http://www.copyright.gov for details. If you need help filing or creating a Counter-Notice, there are plenty of resources online. [Chilling Effect's Counter-Notice Generator](http://www.chillingeffects.org/dmca/counter512.pdf) is a well-known resource. Another is the [Scribd DMCA Counter Notification Template](http://support.scribd.com/entries/22993-DMCA-counter-notification-template).
+Notices and Counter-Notices with respect to this website must meet then current statutory requirements imposed by the DMCA; see [http://www.copyright.gov](http://www.copyright.gov/) for details.
 
 If the notice was in error or malicious, file a counter-notice as promptly as possible, even if you do not wish to have the work restored.
 
