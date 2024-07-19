@@ -67,7 +67,7 @@
 * [Back to School Headquarters](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/back-school-resource-hub)
 * [FARE 33](https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-33)
 * [Living Teal](https://www.foodallergy.org/take-action/living-teal)
-* [Diversity and Inclusion](https://www.foodallergy.org/our-initiatives/awareness-campaigns/fares-commitment-diversity-equity-inclusion-and-access)
+* [Health Equity](https://www.foodallergy.org/our-initiatives/awareness-campaigns/fares-commitment-health-equity)
 * [Teal Pumpkin Project](https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/teal-pumpkin-project)
 * [Food Allergy Awareness Girl Scout Patch](https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-girl-scout-patch)
 * [Food Allergy Awareness Week](https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-week)
@@ -204,7 +204,7 @@ You can help improve the lives of 85 million Americans impacted by food allergie
     * [Back to School Headquarters](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/back-school-resource-hub)
     * [FARE 33](https://www.foodallergy.org/our-initiatives/awareness-campaigns/fare-33)
     * [Living Teal](https://www.foodallergy.org/take-action/living-teal)
-    * [Diversity and Inclusion](https://www.foodallergy.org/our-initiatives/awareness-campaigns/fares-commitment-diversity-equity-inclusion-and-access)
+    * [Health Equity](https://www.foodallergy.org/our-initiatives/awareness-campaigns/fares-commitment-health-equity)
     * [Teal Pumpkin Project](https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/teal-pumpkin-project)
     * [Food Allergy Awareness Girl Scout Patch](https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-girl-scout-patch)
     * [Food Allergy Awareness Week](https://www.foodallergy.org/our-initiatives/awareness-campaigns/food-allergy-awareness-week)
@@ -415,6 +415,8 @@ FARE (Food Allergy Research & Education) is a 501(c)(3) charitable organization 
 
 * [Contact Us](https://www.foodallergy.org/contact-us)
 * [Careers](https://www.foodallergy.org/careers)
+
+[![CHARITY NAVIGATOR - Four Star Charity Image](/themes/custom/fare/assets/images/charity_nav_bw.png)](https://www.charitynavigator.org/ein/133905508)
 
 © 2024 FARE (Tax ID: 13-3905508) is a charitable organization as described in section 501(c)(3) of the Internal Revenue Code.
 
