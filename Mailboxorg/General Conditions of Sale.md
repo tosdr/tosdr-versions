@@ -403,7 +403,6 @@ The laws of the Federal Republic of Germany, to the exclusion private internatio
 [Skip navigation](https://mailbox.org/en/t-cs-cancellation-policy#skipNavigation157)
 
 * [About us](https://mailbox.org/en/company "About mailbox.org - Our team, our history, our mission")
-* [Jobs](https://mailbox.org/en/jobs-at-mailbox-org "Current vacancies. Join the team!")
 * [Blog & News](https://mailbox.org/en/blog?year=2024 "Blog & News")
 * [Press](https://mailbox.org/en/press "Press")
 
