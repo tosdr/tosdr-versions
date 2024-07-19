@@ -6,6 +6,8 @@ Use Cases
 
 Resources
 
+[Blog](https://hostedscan.com/blog)
+
 [Log in](https://hostedscan.com/login)[Sign up](https://hostedscan.com/sign-up)
 
 [Data Security](#data-security)[Privacy Policy](#privacy-policy)[Cloud Terms of Service](#cloud-terms-of-service)[Service Level Agreement](#service-level-agreement)
@@ -389,7 +391,7 @@ Comparisons
 * [Qualys vs HostedScan](https://hostedscan.com/qualys-alternative)
 * [Nessus Tenable vs HostedScan](https://hostedscan.com/nessus-tenable-alternative)
 * [Netsparker vs HostedScan](https://hostedscan.com/netsparker-alternative)
-* [Detectify Alternative](https://hostedscan.com/detectify-alternative)
+* [Detectify vs HostedScan](https://hostedscan.com/detectify-alternative)
 
 Scanners
 ========
@@ -514,7 +516,7 @@ Comparisons
 * [Qualys vs HostedScan](https://hostedscan.com/qualys-alternative)
 * [Nessus Tenable vs HostedScan](https://hostedscan.com/nessus-tenable-alternative)
 * [Netsparker vs HostedScan](https://hostedscan.com/netsparker-alternative)
-* [Detectify Alternative](https://hostedscan.com/detectify-alternative)
+* [Detectify vs HostedScan](https://hostedscan.com/detectify-alternative)
 
 Scanners
 ========
@@ -655,7 +657,7 @@ Comparisons
 * [Qualys vs HostedScan](https://hostedscan.com/qualys-alternative)
 * [Nessus Tenable vs HostedScan](https://hostedscan.com/nessus-tenable-alternative)
 * [Netsparker vs HostedScan](https://hostedscan.com/netsparker-alternative)
-* [Detectify Alternative](https://hostedscan.com/detectify-alternative)
+* [Detectify vs HostedScan](https://hostedscan.com/detectify-alternative)
 
 Scanners
 ========
