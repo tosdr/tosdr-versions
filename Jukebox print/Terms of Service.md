@@ -1,6 +1,4 @@
-[Enjoy 10% Off Sitewide! 🎉 Use Code: June10](https://intercom.help/jukeboxprint/en/articles/9415359-june-2024-promotions-10-off-sitewide-and-free-pride-stickers)
-
-[![Jukebox Loves Pride!](https://storage.jukeboxprint.com/s/images/jukebox-pride-logo.svg)![Jukebox Loves Pride!](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.jukeboxprint.com/)
+[![Jukebox Print](https://storage.jukeboxprint.com/s/images/jukebox-logo.svg)![Jukebox Loves Pride!](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.jukeboxprint.com/)
 
 We're here to help:[888-667-0067](tel:888-667-0067)
 
