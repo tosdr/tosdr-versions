@@ -163,46 +163,6 @@ one shift at a time
 
 [](https://apps.apple.com/app/deputy-roster-shift-planner/id477070330)
 
-Company
-
-[About us](https://www.deputy.com/about)
-
-[Careers](https://www.deputy.com/careers)
-
-Join Us
-
-[Partners](https://www.deputy.com/partners)
-
-[Press](https://www.deputy.com/press)
-
-[Why Deputy](https://www.deputy.com/why-deputy)
-
-[Workforce management](https://www.deputy.com/workforce-management)
-
-Product
-
-[Pricing](https://www.deputy.com/pricing)
-
-[Product tour](https://www.deputy.com/features)
-
-[See what's new](https://whatsnew.deputy.com/)
-
-Support
-
-[Deputy training](https://www.deputy.com/training)
-
-[Deputy API](https://developer.deputy.com/)
-
-[GDPR](https://help.deputy.com/hc/en-au/articles/4755716272271)
-
-[Help center](https://help.deputy.com/)
-
-[Security](https://www.deputy.com/security)
-
-[System status](https://status.deputy.com/)
-
-[Trust center](https://trust.deputy.com/)
-
 Features
 
 [Auto scheduling](https://www.deputy.com/features/auto-scheduling)
@@ -210,8 +170,6 @@ Features
 [Break planning compliance](https://www.deputy.com/features/break-planning)
 
 [Demand forecasting](https://www.deputy.com/features/demand-forecasting)
-
-[Employee engagement](https://www.deputy.com/features/employee-engagement)
 
 [Fair workweek compliance](https://www.deputy.com/fair-workweek)
 
@@ -235,11 +193,39 @@ Features
 
 [Task management](https://www.deputy.com/features/tasking)
 
+[Team engagement](https://www.deputy.com/features/employee-engagement)
+
 [Time clock app](https://www.deputy.com/features/employee-time-clock)
 
 [Time tracking](https://www.deputy.com/features/time-and-attendance)
 
 [Workplace communication](https://www.deputy.com/features/collaboration)
+
+HR Software
+
+[Deputy HR](https://www.deputy.com/hr-software)
+
+New
+
+[Hire](https://www.deputy.com/au/hr-software/hire)
+
+[New Hire Onboarding](https://www.deputy.com/hr-software/employee-onboarding)
+
+[Document Management](https://www.deputy.com/hr-software/document-management)
+
+Product
+
+[Pricing](https://www.deputy.com/pricing)
+
+[Product tour](https://www.deputy.com/features)
+
+[See what's new](https://whatsnew.deputy.com/)
+
+Business size
+
+[Enterprise](https://www.deputy.com/enterprise)
+
+[Small or medium-sized](https://www.deputy.com/small-and-medium-business)
 
 Industries served
 
@@ -275,12 +261,6 @@ Industries served
 
 [Supermarkets](https://www.deputy.com/industry/supermarkets)
 
-Business size
-
-[Enterprise](https://www.deputy.com/enterprise)
-
-[Small or medium-sized](https://www.deputy.com/small-and-medium-business)
-
 Resources
 
 [Blog](https://www.deputy.com/blog)
@@ -300,6 +280,38 @@ Resources
 [Refer a friend](https://www.deputy.com/refer-a-friend)
 
 [Scheduling ROI Calculator](https://www.deputy.com/insights/scheduling-roi-calculator)
+
+Support
+
+[Deputy training](https://www.deputy.com/training)
+
+[Deputy API](https://developer.deputy.com/)
+
+[GDPR](https://help.deputy.com/hc/en-au/articles/4755716272271)
+
+[Help center](https://help.deputy.com/)
+
+[Security](https://www.deputy.com/security)
+
+[System status](https://status.deputy.com/)
+
+[Trust center](https://trust.deputy.com/)
+
+Company
+
+[About us](https://www.deputy.com/about)
+
+[Careers](https://www.deputy.com/careers)
+
+Join Us
+
+[Partners](https://www.deputy.com/partners)
+
+[Press](https://www.deputy.com/press)
+
+[Why Deputy](https://www.deputy.com/why-deputy)
+
+[Workforce management](https://www.deputy.com/workforce-management)
 
 Contact us
 
