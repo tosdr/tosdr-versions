@@ -14,7 +14,7 @@ Close
 
 English
 
-[русский](https://ok.ru/dk?cmd=lang&st.lang=ru&st.cmd=helpContent)English[Беларуская](https://ok.ru/dk?cmd=lang&st.lang=be&st.cmd=helpContent)[ქართული](https://ok.ru/dk?cmd=lang&st.lang=ka&st.cmd=helpContent)[українська](https://ok.ru/dk?cmd=lang&st.lang=uk&st.cmd=helpContent)[Татар теле](https://ok.ru/dk?cmd=lang&st.lang=tt&st.cmd=helpContent)[Қазақ тілі](https://ok.ru/dk?cmd=lang&st.lang=kk&st.cmd=helpContent)[Հայերեն](https://ok.ru/dk?cmd=lang&st.lang=hy&st.cmd=helpContent)[O'zbek tili](https://ok.ru/dk?cmd=lang&st.lang=uz&st.cmd=helpContent)[Română (MD)](https://ok.ru/dk?cmd=lang&st.lang=mo&st.cmd=helpContent)[Azərbaycan dili](https://ok.ru/dk?cmd=lang&st.lang=az&st.cmd=helpContent)[Română (RO)](https://ok.ru/dk?cmd=lang&st.lang=ro&st.cmd=helpContent)[Türkçe](https://ok.ru/dk?cmd=lang&st.lang=tr&st.cmd=helpContent)
+русскийEnglishБеларускаяქართულიукраїнськаТатар телеҚазақ тіліՀայերենO'zbek tiliRomână (MD)Azərbaycan diliRomână (RO)Türkçe
 
 [Help](https://ok.ru/help?st.cmd=helpFaq&st.origin=TA)
 
