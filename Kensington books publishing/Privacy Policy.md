@@ -1,6 +1,6 @@
 [Skip to Main Content (Press Enter)](#mainblock)
 
-[GET PERSONALIZED BOOK RECS 📚](https://sites.prh.com/sign-up)
+[BECOME A BOOK EXPERT 📚](https://sites.prh.com/sign-up)
 
 Books
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102159/PRH_Site_600x314_nav-JUN.jpg)
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
-    New Releases
+    Join Our Authors for Upcoming Events
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * <
     
@@ -44,7 +44,7 @@ Audio
 * [New & Noteworthy](https://www.penguinrandomhouse.com/books/all-new-releases)
 * [Bestsellers](https://www.penguinrandomhouse.com/books/all-best-sellers/)
 * [Popular Series](https://www.penguinrandomhouse.com/the-read-down/series/)
-* [The Must-Read Books of 2023](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2023/)
+* [The Must-Read Books of 2024](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2024/)
 * [Popular Books in Spanish](https://www.penguinrandomhouse.com/cc/que-quieres-leer-hoy/?cat=Novedades)
 * [Coming Soon](https://www.penguinrandomhouse.com/books/all-coming-soon/)
 * [Fiction](https://www.penguinrandomhouse.com/books/fiction/)
@@ -64,7 +64,7 @@ Audio
 * [Gray Man](https://www.penguinrandomhouse.com/series/AYX/gray-man)
 * [Dark Star Trilogy](https://www.penguinrandomhouse.com/series/TD5/the-dark-star-trilogy/)
 * [All Souls](https://www.penguinrandomhouse.com/series/AJG/all-souls-series/)
-* [A Joe Pickett Novel](https://www.penguinrandomhouse.com/series/BC9/a-joe-pickett-novel/)
+* [A Song of Ice and Fire](https://www.penguinrandomhouse.com/series/SOO/a-song-of-ice-and-fire/)
 * [Penguin Classics](https://www.penguinrandomhouse.com/series/B45/penguin-clothbound-classics)
 * <
     
@@ -214,7 +214,7 @@ Popular
 
 * * *
 
-[New & Noteworthy](https://www.penguinrandomhouse.com/books/all-new-releases)[Bestsellers](https://www.penguinrandomhouse.com/books/all-best-sellers/)[Popular Series](https://www.penguinrandomhouse.com/the-read-down/series/)[The Must-Read Books of 2023](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2023/)[Popular Books in Spanish](https://www.penguinrandomhouse.com/cc/que-quieres-leer-hoy/?cat=Novedades)[Coming Soon](https://www.penguinrandomhouse.com/books/all-coming-soon/)
+[New & Noteworthy](https://www.penguinrandomhouse.com/books/all-new-releases)[Bestsellers](https://www.penguinrandomhouse.com/books/all-best-sellers/)[Popular Series](https://www.penguinrandomhouse.com/the-read-down/series/)[The Must-Read Books of 2024](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2024/)[Popular Books in Spanish](https://www.penguinrandomhouse.com/cc/que-quieres-leer-hoy/?cat=Novedades)[Coming Soon](https://www.penguinrandomhouse.com/books/all-coming-soon/)
 
 [Fiction](https://www.penguinrandomhouse.com/books/fiction/)
 
@@ -232,11 +232,11 @@ Popular
 
 * * *
 
-[Gray Man](https://www.penguinrandomhouse.com/series/AYX/gray-man)[Dark Star Trilogy](https://www.penguinrandomhouse.com/series/TD5/the-dark-star-trilogy/)[All Souls](https://www.penguinrandomhouse.com/series/AJG/all-souls-series/)[A Joe Pickett Novel](https://www.penguinrandomhouse.com/series/BC9/a-joe-pickett-novel/)[Penguin Classics](https://www.penguinrandomhouse.com/series/B45/penguin-clothbound-classics)[View All \>](https://www.penguinrandomhouse.com/series/)
+[Gray Man](https://www.penguinrandomhouse.com/series/AYX/gray-man)[Dark Star Trilogy](https://www.penguinrandomhouse.com/series/TD5/the-dark-star-trilogy/)[All Souls](https://www.penguinrandomhouse.com/series/AJG/all-souls-series/)[A Song of Ice and Fire](https://www.penguinrandomhouse.com/series/SOO/a-song-of-ice-and-fire/)[Penguin Classics](https://www.penguinrandomhouse.com/series/B45/penguin-clothbound-classics)[View All \>](https://www.penguinrandomhouse.com/series/)
 
 [New Releases
 
-Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-june/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
 
 [Kids](https://www.penguinrandomhouse.com/books/childrens/)
 
@@ -800,7 +800,7 @@ Because electronic communications are not always secure, please do not include c
 
 [Back to Top](#top)
 
-[GET PERSONALIZED BOOK RECS 📚](https://sites.prh.com/sign-up)
+[BECOME A BOOK EXPERT 📚](https://sites.prh.com/sign-up)
 
 Connect
 
