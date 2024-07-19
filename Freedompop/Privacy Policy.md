@@ -65,7 +65,7 @@ We may collect personal information about you from third-party sources, includin
 
 The categories of information we may collect include:
 
-**Retail Partners**
+Retail Partners
 
 * Personal Identifiers, including Name, Email address, Postal address, and Telephone number
 * Commercial Information, including Purchases
