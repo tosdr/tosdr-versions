@@ -226,9 +226,9 @@ Menu
     * [Resources](#)
         * [Resources](#)
         
-        * [eLearning](https://corporatefinanceinstitute.com/topic/elearning/)
+        * [Financial Modeling](https://corporatefinanceinstitute.com/topic/financial-modeling/)
         * [Career](https://corporatefinanceinstitute.com/topic/career/)
-        * [Team Development](https://corporatefinanceinstitute.com/topic/team-development/)
+        * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
         * [Management](https://corporatefinanceinstitute.com/topic/management-skills/)
         * [Excel](https://corporatefinanceinstitute.com/topic/excel/)
         * [Accounting](https://corporatefinanceinstitute.com/topic/accounting/)
@@ -279,7 +279,7 @@ Menu
     
 * [Categories](#)
     
-    * [Corporate Finance (FP&A)](https://corporatefinanceinstitute.com/wp_course_category/corporate-finance-fpa/)
+    * [Corporate Finance (FP&A)](#)
         * [Certifications](#)
         * [Financial Modeling & Valuation Analyst (FMVA®) Certification](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
         * [Popular Corporate Finance (FP&A) courses](#)
@@ -287,7 +287,7 @@ Menu
         * [Accounting Fundamentals](https://corporatefinanceinstitute.com/course/learn-accounting-fundamentals-corporate-finance/)
         * [Financial Analysis Fundamentals](https://corporatefinanceinstitute.com/course/financial-analysis-fundamentals/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86431)
-    * [Investment Banking](https://corporatefinanceinstitute.com/wp_course_category/investment-banking/)
+    * [Investment Banking](#)
         * [Certifications](#)
         * [Financial Modeling & Valuation Analyst (FMVA®) Certification](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
         * [Popular Investment Banking courses](#)
@@ -295,7 +295,7 @@ Menu
         * [Excel Fundamentals – Formulas for Finance](https://corporatefinanceinstitute.com/course/excel-fundamentals-formulas-for-finance/)
         * [PowerPoint & Pitchbooks](https://corporatefinanceinstitute.com/course/powerpoint-pitchbook/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86428)
-    * [Private Equity](https://corporatefinanceinstitute.com/wp_course_category/private-equity/)
+    * [Private Equity](#)
         * [Certifications](#)
         * [Financial Modeling & Valuation Analyst (FMVA®) Certification](https://corporatefinanceinstitute.com/certifications/financial-modeling-valuation-analyst-fmva-program/)
         * [Popular Private Equity courses](#)
@@ -303,7 +303,7 @@ Menu
         * [DCF Valuation Modeling](https://corporatefinanceinstitute.com/course/dcf-valuation-modeling/)
         * [Comparable Valuation Analysis](https://corporatefinanceinstitute.com/course/comparable-valuation-analysis/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86427)
-    * [Business Intelligence & Analytics](https://corporatefinanceinstitute.com/wp_course_category/business-intelligence-analytics/)
+    * [Business Intelligence & Analytics](#)
         * [Certifications](#)
         * [Business Intelligence & Data Analyst (BIDA®) Certification](https://corporatefinanceinstitute.com/certifications/business-intelligence-data-analyst-bida/)
         * [Popular Business Intelligence & Analytics courses](#)
@@ -311,7 +311,7 @@ Menu
         * [Tableau](https://corporatefinanceinstitute.com/topic/tableau/)
         * [Power Query](https://corporatefinanceinstitute.com/topic/power-query/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86432)
-    * [Commercial Banking](https://corporatefinanceinstitute.com/wp_course_category/commercial-banking/)
+    * [Commercial Banking](#)
         * [Certifications](#)
         * [Commercial Banking & Credit Analyst (CBCA®) Certification](https://corporatefinanceinstitute.com/certifications/commercial-banking-credit-analyst-certification-cbca/)
         * [Popular Commercial Banking courses](#)
@@ -319,7 +319,7 @@ Menu
         * [Venture Debt](https://corporatefinanceinstitute.com/course/venture-debt/)
         * [Lending to Complex Structures](https://corporatefinanceinstitute.com/course/lending-to-complex-structures/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86425)
-    * [Asset Management](https://corporatefinanceinstitute.com/wp_course_category/asset-management/)
+    * [Asset Management](#)
         * [Certifications](#)
         * [Capital Markets & Securities Analyst (CMSA®) Certification](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
         * [Popular Asset Management courses](#)
@@ -327,7 +327,7 @@ Menu
         * [Hedge Fund Fundamentals](https://corporatefinanceinstitute.com/course/hedge-fund-fundamentals/)
         * [Prime Services and Securities Lending](https://corporatefinanceinstitute.com/course/prime-services-and-securities-lending/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86430)
-    * [Capital Markets](https://corporatefinanceinstitute.com/wp_course_category/capital-markets/)
+    * [Capital Markets](#)
         * [Certifications](#)
         * [Capital Markets & Securities Analyst (CMSA®) Certification](https://corporatefinanceinstitute.com/certifications/capital-markets-securities-analyst-cmsa/)
         * [Popular Capital Markets courses](#)
@@ -335,7 +335,7 @@ Menu
         * [Applied Fixed Income](https://corporatefinanceinstitute.com/course/applied-fixed-income/)
         * [Convertible Bonds](https://corporatefinanceinstitute.com/course/convertible-bonds-course/)
         * [View All](https://corporatefinanceinstitute.com/collections/?categories=86426)
-    * [Wealth Management](https://corporatefinanceinstitute.com/wp_course_category/wealth-management/)
+    * [Wealth Management](#)
         * [Certifications](#)
         * [Financial Planning & Wealth Management (FPWM™) Certification](https://corporatefinanceinstitute.com/certifications/financial-planning-and-wealth-management-fpwm-program/)
         * [Popular Wealth Management courses](#)
@@ -353,7 +353,7 @@ Menu
     * [Environmental Social Governance (ESG)](https://corporatefinanceinstitute.com/topic/environment-social-governance-esg/)
     * [Excel](https://corporatefinanceinstitute.com/topic/excel/)
     * [Financial Modeling](https://corporatefinanceinstitute.com/topic/financial-modeling/)
-    * [Financial Planning & Analysis (FP&A)](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
+    * [FP&A](https://corporatefinanceinstitute.com/topic/financial-planning-analysis-fpa/)
     * [Foreign Exchange](https://corporatefinanceinstitute.com/topic/foreign-exchange/)
     * [Machine Learning](https://corporatefinanceinstitute.com/topic/data-science-machine-learning/)
     * [Management Skills](https://corporatefinanceinstitute.com/topic/management-skills/)
@@ -531,7 +531,7 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
 
 0 search results for ‘’
 
-People also search for: excel esg Free courses accounting Forex trading courses Free real estate
+People also search for: excel Free courses esg Free accounting real estate TEMPLATE
 
 Explore Our Certifications
 
@@ -549,7 +549,7 @@ Explore Our Certifications
 
 Resources
 
-[Excel Shortcuts PC Mac List of Excel Shortcuts Excel shortcuts\[citation...](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+[Excel Shortcuts PC Mac List of Excel Shortcuts Excel shortcuts - It may seem slower at first if you're used to the mouse, but it's worth the investment to take the time and...](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
 
 [Financial Modeling Guidelines CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks, and...](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
 
