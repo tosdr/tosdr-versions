@@ -443,47 +443,51 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 ‍
 
-[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072823705a32a11_harold.png)![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/59a6ec66145d0f0001042344_hurdlr-logo.svg)](https://www.hurdlr.com/)
+[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072823705a32a11_harold.png)![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/59a6ec66145d0f0001042344_hurdlr-logo.svg)](https://www.hurdlr.com/)
 
 Use Cases
 
-[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072825a69a32a25_blog.svg)
+[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072825a69a32a25_blog.svg)
 
-Invoicing & Payments](https://www.hurdlr.com/invoicing-api)[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/660f67c405aaedb476c4e2ee_ExpenseAPI.png)
+Invoicing & Payments](https://www.hurdlr.com/invoicing-api)[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/660f67c405aaedb476c4e2ee_ExpenseAPI.png)
 
-Business Expense Tracking](https://www.hurdlr.com/expense-tracking-api)[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/65f48e999bca9e79446b279f_accounting.svg)
+Business Expense Tracking](https://www.hurdlr.com/expense-tracking-api)[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/65f48e999bca9e79446b279f_accounting.svg)
 
-Accounting & Bookkeeping](https://www.hurdlr.com/accounting-api)[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072823faba32a1e_incomeTaxes.svg)
+Accounting & Bookkeeping](https://www.hurdlr.com/accounting-api)[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072823faba32a1e_incomeTaxes.svg)
 
 Income Taxes](https://www.hurdlr.com/income-tax-api)
 
 For Developers
 
-[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c07282d7dba32a21_guides.svg)
+[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c07282d7dba32a21_guides.svg)
 
-Documentation](https://www.hurdlr.com/docs)[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/66106b22a5bcede0e8719f85_apiIcon.png)
+Documentation](https://www.hurdlr.com/docs)[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/66106b22a5bcede0e8719f85_apiIcon.png)
 
 API Reference](https://www.hurdlr.com/reference)
 
 Resources
 
-[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c07282c11aa32a23_help.svg)
+[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c07282c11aa32a23_help.svg)
 
-Help Center](https://university.hurdlr.com/en/)[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/65f8c12f5a556450d855a100_taxGuide.png)
+Help Center](https://university.hurdlr.com/en/)[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/65f8c12f5a556450d855a100_taxGuide.png)
 
-Small Business Survey](https://www.hurdlr.com/embedded-accounting-smb-vertical-software-report)[![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072825a69a32a25_blog.svg)
+Small Business Survey](https://www.hurdlr.com/embedded-accounting-smb-vertical-software-report)[![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/621807e6c072825a69a32a25_blog.svg)
 
 Blog](https://www.hurdlr.com/blog)
 
 [Pricing](https://www.hurdlr.com/pricing)[Login](https://web.hurdlr.com/login?utm_source=hurdlr&utm_medium=site&utm_campaign=desktop&utm_content=login)
 
-![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/59a6ec66145d0f0001042344_hurdlr-logo.svg)
+![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/59a6ec66145d0f0001042344_hurdlr-logo.svg)
 
 © 2024 Hurdlr, Inc.
 
-Use Cases
+Products
 
 [Invoicing & Payments](https://www.hurdlr.com/invoicing-api)[Business Expense Tracking](https://www.hurdlr.com/expense-tracking-api)[Financial Statements](https://www.hurdlr.com/financial-statements-api)[Accounting & Bookkeeping](https://www.hurdlr.com/accounting-api)[Income Taxes](https://www.hurdlr.com/income-tax-api)
+
+Use Cases
+
+[Vertical SaaS](https://www.hurdlr.com/embedded-accounting-for-vertical-saas)[Small Business Banking](https://www.hurdlr.com/embedded-accounting-for-small-business-banking)[Virtual Bookkeeping](https://www.hurdlr.com/embedded-accounting-for-virtual-bookkeeping-services)
 
 For Developers
 
@@ -499,13 +503,17 @@ Company
 
 [EULA](https://www.hurdlr.com/eula)[Privacy Policy](https://www.hurdlr.com/privacy)[Terms](https://www.hurdlr.com/terms)
 
-![](https://assets-global.website-files.com/59a6e87e38c73b0001ee52f6/59ad71e3052e560001d67b9f_press-logo-hi-res.png)
+![](https://cdn.prod.website-files.com/59a6e87e38c73b0001ee52f6/59ad71e3052e560001d67b9f_press-logo-hi-res.png)
 
 © 2024 Hurdlr, Inc.
 
-Use Cases
+Products
 
 [Invoicing & Payments](https://www.hurdlr.com/invoicing-api)[Business Expense Tracking](https://www.hurdlr.com/expense-tracking-api)[Financial Statements](https://www.hurdlr.com/financial-statements-api)[Accounting & Bookkeeping](https://www.hurdlr.com/accounting-api)[Income Taxes](https://www.hurdlr.com/income-tax-api)
+
+Use Cases
+
+[Vertical Saas](https://www.hurdlr.com/embedded-accounting-for-vertical-saas)[Small Business Banking](https://www.hurdlr.com/embedded-accounting-for-small-business-banking)[Virtual Bookkeeping](https://www.hurdlr.com/embedded-accounting-for-virtual-bookkeeping-services)
 
 For Developers
 
