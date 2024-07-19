@@ -237,7 +237,7 @@
 Acceptable Use Policy
 =====================
 
-Last Updated on October 14, 2020
+Last Updated on July 16, 2024
 
 This Acceptable Use Policy (this “AUP”) describes material and activities that are not allowed in connection with the Services offered by DigitalOcean. This AUP is not exhaustive, and DigitalOcean reserves the right to take remedial action in connection with content or uses that are not specifically described below.
 
@@ -383,7 +383,6 @@ If you become aware of any suspected violation of this AUP, please notify us by 
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
@@ -459,7 +458,6 @@ If you become aware of any suspected violation of this AUP, please notify us by 
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
