@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [Disguise and deception – how brand-new malware attacks are carried out...](https://www.av-test.org/en/news/disguise-and-deception-how-brand-new-malware-attacks-are-carried-out-on-windows-systems/ "Disguise and deception &ndash; how brand-new malware attacks are carried out on Windows systems ") [](https://www.av-test.org/en/news/disguise-and-deception-how-brand-new-malware-attacks-are-carried-out-on-windows-systems/ "Disguise and deception – how brand-new malware attacks are carried out on Windows systems ")
+    * [17 Security Solutions for Windows 11 Clients](https://www.av-test.org/en/news/17-security-solutions-for-windows-11-clients/ "17 Security Solutions for Windows 11 Clients") [](https://www.av-test.org/en/news/17-security-solutions-for-windows-11-clients/ "17 Security Solutions for Windows 11 Clients")
         
-        [MacOS Sonoma 14.3: The Best Security Solutions Put to the Test](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test") [](https://www.av-test.org/en/news/macos-sonoma-143-the-best-security-solutions-put-to-the-test/ "MacOS Sonoma 14.3: The Best Security Solutions Put to the Test")
+        [Advanced EDR test 2024: Acronis Cyber Protect with advanced security +...](https://www.av-test.org/en/news/advanced-edr-test-2024-acronis-cyber-protect-with-advanced-security-edr-pack/ "Advanced EDR test 2024: Acronis Cyber Protect with advanced security + EDR pack") [](https://www.av-test.org/en/news/advanced-edr-test-2024-acronis-cyber-protect-with-advanced-security-edr-pack/ "Advanced EDR test 2024: Acronis Cyber Protect with advanced security + EDR pack")
         
-        [Kaspersky Safe Kids Premium: Parental Control Test 2023](https://www.av-test.org/en/news/kaspersky-safe-kids-premium-parental-control-test-2023/ "Kaspersky Safe Kids Premium: Parental Control Test 2023") [](https://www.av-test.org/en/news/kaspersky-safe-kids-premium-parental-control-test-2023/ "Kaspersky Safe Kids Premium: Parental Control Test 2023")
+        [Advanced EDR test 2024: Kaspersky Endpoint Detection and Response...](https://www.av-test.org/en/news/advanced-edr-test-2024-kaspersky-endpoint-detection-and-response-expert/ "Advanced EDR test 2024: Kaspersky Endpoint Detection and Response Expert") [](https://www.av-test.org/en/news/advanced-edr-test-2024-kaspersky-endpoint-detection-and-response-expert/ "Advanced EDR test 2024: Kaspersky Endpoint Detection and Response Expert")
         
-        [Cybersecurity: Defense Against the Latest Attacking Techniques in the...](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test") [](https://www.av-test.org/en/news/cybersecurity-defense-against-the-latest-attacking-techniques-in-the-atp-test/ "Cybersecurity: Defense Against the Latest Attacking Techniques in the ATP Test")
+        [Advanced EDR test 2024: WithSecure Elements Endpoint Detection and...](https://www.av-test.org/en/news/advanced-edr-test-2024-withsecure-elements-endpoint-detection-and-response/ "Advanced EDR test 2024: WithSecure Elements Endpoint Detection and Response") [](https://www.av-test.org/en/news/advanced-edr-test-2024-withsecure-elements-endpoint-detection-and-response/ "Advanced EDR test 2024: WithSecure Elements Endpoint Detection and Response")
         
     * News by category
         
@@ -138,7 +138,7 @@ on security**
 
 We want to stay in touch with you! Now there is an easy way to receive regular updates on the latest news and test releases.
 
-[![](/fileadmin/images/facebook-card.png)](https://www.facebook.com/avtestorg)[![](/fileadmin/images/linkedin_45x45.png)](https://www.linkedin.com/company/avtestorg/)[![](/fileadmin/images/twitter-card.png)](https://www.twitter.com/avtestorg)[![](/fileadmin/images/youtube-card.png)](https://www.youtube.com/user/avtestorg)
+[![](/fileadmin/images/facebook-card.png)](https://www.facebook.com/avtestorg)[![](/fileadmin/images/linkedin_45x45.png)](https://www.linkedin.com/company/avtestorg/)[![](/fileadmin/images/Social_Media_Icons/logo_x-sidebar-banner.png)](https://www.x.com/avtestorg)[![](/fileadmin/images/youtube-card.png)](https://www.youtube.com/user/avtestorg)
 
 ### Subscribe to the AV-TEST NewsletterWell-informed on security
 
