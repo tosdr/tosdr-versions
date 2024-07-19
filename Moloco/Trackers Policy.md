@@ -182,6 +182,12 @@
 
 ##### Moloco Ads - Grow your app on the open internet
 
+[##### For Publishers
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/sdk)
+
+##### Moloco SDK - Maximize your app's revenue
+
 [##### For Retailers/Marketplaces
 
 ![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
@@ -193,12 +199,6 @@
 ![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-streaming-monetization)
 
 ##### Moloco Streaming Monetization - Future-proof your streaming ads platform
-
-[##### For Publishers
-
-![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/sdk)
-
-##### Moloco SDK — Maximize your app's revenue
 
 ##### Resources
 
@@ -304,11 +304,11 @@
 
 [##### For Marketers](https://www.molocoads.com/solutions/moloco-ads)[##### Moloco Ads - Grow your app on the open internet](https://www.molocoads.com/solutions/moloco-ads)
 
+[##### For Publishers](https://www.molocoads.com/solutions/sdk)[##### Moloco SDK - Maximize your app's revenue](https://www.molocoads.com/solutions/sdk)
+
 [##### For Retailer/Marketplaces](https://www.molocoads.com/solutions/moloco-commerce-media)[##### Moloco Commerce Media - Build your own performance ads business](https://www.molocoads.com/solutions/moloco-commerce-media)
 
 [##### For Streaming Platforms](https://www.molocoads.com/solutions/moloco-streaming-monetization)[##### Moloco Streaming Monetization - Future-proof your streaming ads platform](https://www.molocoads.com/solutions/moloco-streaming-monetization)
-
-[##### For Publishers](https://www.molocoads.com/solutions/sdk)[##### Moloco SDK — Maximize your app's revenue](https://www.molocoads.com/solutions/sdk)
 
 ##### Resources
 
@@ -508,7 +508,7 @@ EU GDPR Representative: Moloco Germany GmbH, with registered address Am Zirkus 2
 
 #### **Solutions**
 
-[Moloco Ads (Moloco Cloud DSP)](https://www.molocoads.com/solutions/moloco-ads)[Moloco Commerce Media (Retail Media Platform)](https://www.molocoads.com/solutions/moloco-commerce-media)[Moloco Monetization for Streaming & OTT](https://www.molocoads.com/solutions/moloco-streaming-monetization)[Moloco SDK](https://www.molocoads.com/solutions/sdk)
+[Moloco Ads](https://www.molocoads.com/solutions/moloco-ads) [Moloco SDK](https://www.molocoads.com/solutions/sdk)[Moloco Commerce Media](https://www.molocoads.com/solutions/moloco-commerce-media)[Moloco Monetization for Streaming & OTT](https://www.molocoads.com/solutions/moloco-streaming-monetization)
 
 #### **Additional Resources**
 
