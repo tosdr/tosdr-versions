@@ -1,24 +1,24 @@
 [![Lulu Logo](https://images.ctfassets.net/9htf9uzhsn4z/3tSSOSmHDmAKXuhUbZD27g/a3af19924d8e4eb75ce6a09514a1f2ea/lulu-logo.svg)](https://www.lulu.com/)
 
-* Products
+* [Products](https://www.lulu.com/products)
     
-* Pricing
+* [Pricing](https://www.lulu.com/pricing)
     
     [Book Pricing](https://www.lulu.com/pricing)[Bulk Ordering](https://www.lulu.com/pricing/volume-discounts)
     
-* Create
+* [Create](https://www.lulu.com/create)
     
     [Print Books](https://www.lulu.com/create/print-books)[Photo Books](https://www.lulu.com/create/photo-books)[Notebooks](https://www.lulu.com/create/notebooks)[Calendars](https://www.lulu.com/create/calendars)[Children's Books](https://www.lulu.com/create/childrens-books)[Comic Books](https://www.lulu.com/create/comic-books)[Magazines](https://www.lulu.com/create/magazines)[Cookbooks](https://www.lulu.com/create/cookbooks)[Yearbooks](https://www.lulu.com/create/yearbooks)[Educational Books](https://www.lulu.com/create/educational-books)[Ebooks](https://www.lulu.com/create/ebooks)
     
-* Sell
+* [Sell](https://www.lulu.com/sell)
     
     [Sell on Lulu Bookstore](https://www.lulu.com/sell/sell-on-lulu)[Sell Direct](https://www.lulu.com/sell/sell-on-your-site)[Retail Distribution](https://www.lulu.com/sell/retail-distribution)[Order Import](https://www.lulu.com/sell/order-import)[API Printing](https://www.lulu.com/sell/sell-on-your-site/print-api)[Crowdfunding](https://www.lulu.com/resources/kickstarter)
     
-* Resources
+* [Resources](https://www.lulu.com/resources)
     
     [Knowledge Base](https://help.lulu.com/en/support/home)[Guides & Templates](https://www.lulu.com/publishing-toolkit)[Author Tools](https://www.lulu.com/author-toolkit)[Hire A Professional](https://www.lulu.com/partners)[Glossary of Publishing Terms](https://www.lulu.com/glossary/glossary-of-terms)[Videos](https://www.youtube.com/@Luludotcom)[Blog](https://blog.lulu.com/)[Contact Support](https://help.lulu.com/en/support/tickets/new)
     
-* Bookstore
+* [Bookstore](https://www.lulu.com/shop)
     
 
 * Sign inRegister
@@ -31,7 +31,7 @@ Lulu Membership Agreement and Terms of Use
 
 Lulu Press, Inc. 700 Park Offices Drive Suite 250 Research Triangle, NC 27709
 
-**_REVISED:_** _October 17, 2022_
+**_REVISED:_** _June 28, 2024_
 
 Lulu Press Inc (also referred to as “Lulu.com,” “Lulu,” and the “Site”) is an online print-on-demand and self-publishing platform providing free-to-use tools for publishing, printing, shipping, and distributing your work for personal use and/or sale to others. Lulu’s platform includes a marketplace for selling and purchasing goods and services and provides content including videos, guides, and helpful documentation. Lulu also provides applications to integrate our printing and fulfillment network with your online stores under “Lulu Direct.”
 
@@ -459,6 +459,28 @@ If you have any questions or comments regarding these Terms, please contact: [\[
 
 From time to time, (a) we may invite you to try products or features related to our Site that are not generally available to all of our Users or the public or (b) we may release products or features related to our Site that are identified as beta, preview, pilot, limited release, or by a similar designation (collectively, “Beta Services”). Beta Services may be provided for evaluation or testing purposes, and, therefore, may contain bugs or errors, and may not be as reliable as other features of the Site. Beta Services may be provided at a pricing not generally available to all of our Users or the public, which is subject to change at our sole discretion. We may discontinue Beta Services at any time in our sole discretion, and we may decide not to make Beta Services generally available. For the avoidance of doubt, Beta Services are a part of the Site, and, therefore, are subject to the terms of this Agreement, including, without limitation, Sections 18 and 19.
 
+### 24\. Mobile Terms of Service
+
+The Lulu mobile message service (also referred to as the "Mobile Service") is operated by Lulu Press, Inc for U.S. residents only. Your use of the Mobile Service constitutes your agreement to these terms and conditions (“Mobile Terms”). We may modify or cancel the Mobile Service or any of its features without notice. To the extent permitted by applicable law, we may also modify these Mobile Terms at any time and your continued use of the Mobile Service following the effective date of any such changes shall constitute your acceptance of such changes.
+
+By consenting to Lulu’s SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of Lulu through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list. Text messages may be sent using an automatic telephone dialing system or other technology. Service-related messages may include updates, alerts, and information (e.g., order updates, account alerts, etc.). Promotional messages may include promotions, specials, and other marketing offers (e.g., cart reminders).
+
+You understand that you do not have to sign up for this program in order to make any purchases, and your consent is not a condition of any purchase with Lulu. Your participation in this program is completely voluntary.
+
+We do not charge for the Mobile Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider. Message frequency varies. Message and data rates may apply. Check your mobile plan and contact your wireless provider for details. You are solely responsible for all charges related to SMS/text messages, including charges from your wireless provider.
+
+​​You may opt-out of the Service at any time. Text the single keyword command STOP to +18336701476 or click the unsubscribe link (where available) in any text message to cancel. You'll receive a one-time opt-out confirmation text message. No further messages will be sent to your mobile device, unless initiated by you. If you have subscribed to other Lulu mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms.
+
+For Service support or assistance, text HELP to +18336701476 or email [\[email protected\]](https://www.lulu.com/cdn-cgi/l/email-protection).
+
+We may change any short code or telephone number we use to operate the Service at any time and will notify you of these changes. You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number we have changed may not be received and we will not be responsible for honoring requests made in such messages.
+
+The wireless carriers supported by the Mobile Service are not liable for delayed or undelivered messages. You agree to provide us with a valid mobile number. If you get a new mobile number, you will need to sign up for the program with your new number.
+
+To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Mobile Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Mobile Service.
+
+We respect your right to privacy. To see how we collect and use your personal information, please see our [Privacy Policy](https://www.lulu.com/privacy-policy).
+
 Appendix A: ISBN Agreement
 --------------------------
 
@@ -566,7 +588,7 @@ Lulu is not responsible for any changes made by your ecommerce platform that may
 
 * * *
 
-Download a PDF of the previous Terms & Conditions [here](https://assets.lulu.com/media/terms-and-conditions/en/lulu-terms-and-conditions-revised-042521.pdf).
+Download a PDF of the previous Terms & Conditions [here](https://assets.lulu.com/media/terms-and-conditions/en/lulu-terms-and-conditions-en-2023.pdf).
 
 Our Team
 
