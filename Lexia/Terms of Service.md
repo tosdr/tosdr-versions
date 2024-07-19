@@ -51,10 +51,9 @@ Lexia Learning Systems https://www.lexialearning.com https://www.lexialearning.c
     * [Charter Schools](https://www.lexialearning.com/solutions/solutions-by-topic/charter-schools)
     
     * [Solutions By Audience](https://www.lexialearning.com/solutions/solutions-by-audience/)
-    * [Superintendents](https://www.lexialearning.com/solutions/solutions-by-audience/superintendents)
-    * [Curriculum Directors](https://www.lexialearning.com/solutions/solutions-by-audience/curriculum-directors)
-    * [Secondary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/secondary-principals)
+    * [District Administrators](https://www.lexialearning.com/solutions/solutions-by-audience/district-administrators)
     * [Elementary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/elementary-principals)
+    * [Secondary Principals](https://www.lexialearning.com/solutions/solutions-by-audience/secondary-principals)
     
 * [Lexia by State](https://www.lexialearning.com/lexia-by-state/)
 * Why Lexia 
@@ -243,7 +242,7 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 
 * * *
 
-* [Lexia® Core5® Reading (K-5)](https://www.lexialearning.com/core5)
+* [Lexia® Core5® Reading](https://www.lexialearning.com/core5)
 * [Lexia® PowerUp Literacy®](https://www.lexialearning.com/powerup)
 * [Lexia® English](https://www.lexialearning.com/lexia-english)
 * [LETRS® Suite](https://www.lexialearning.com/letrs)
