@@ -72,42 +72,17 @@ Where we send your data
 
 **Suggested text:** Visitor comments may be checked through an automated spam detection service.
 
+[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+
+* [FAQs](https://faircado.de/faqs/)
+* [Blog](https://faircado.de/magazin/)
+* [Newsroom](https://faircado.de/presse-neuigkeiten/)
+
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
 * [Unsere Partner](https://faircado.de/unsere-partner/)
-* [Impressum](https://faircado.de/impressum/)
 * [Kontakt](https://faircado.de/kontakt/)
-* [FAQ](https://faircado.de/faqs/)
-
-* [Magazin](https://faircado.de/magazin/)
-* [Presse](https://faircado.de/presse-neuigkeiten/)
-* [Datenschutz](https://faircado.de/datenschutz/)
-* [AGB](https://faircado.de/agb/)
-
-[Twitter](https://twitter.com/Faircado)
-
-[Instagram](https://www.instagram.com/faircado/?hl=de)
-
-[Linkedin](https://www.linkedin.com/company/faircado/)
-
-* [Partner Werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
-* [Unsere Partner](https://faircado.de/unsere-partner/)
-* [Impressum](https://faircado.com/impressum)
-* [Kontakt](https://faircado.com/kontakt/)
-* [Presse](https://faircado.de/presse-neuigkeiten/)
-* [Datenschutz](https://faircado.de/datenschutz/)
-* [ABG](https://faircado.de/agb/)
-
-[Twitter](https://twitter.com/Faircado)
-
-[Instagram](https://www.instagram.com/faircado/?hl=de)
-
-[Linkedin](https://www.linkedin.com/company/faircado/)
 
 [![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
-
-Copyright 2023 Faircado UG (Haftungsbeschränkt)
-
-![](https://faircado.de/wp-content/uploads/2023/03/Faircado_Logo-Arrow-White-768x768.png)
 
 #### Noch nicht genug Newsletter im Posteingang? Abonniere uns!
 
@@ -119,7 +94,75 @@ senden
 
   Ich stimme zu, E-Mails von faircado zu erhalten und kann dies jederzeit widerrufen.
 
-Copyright 2023 Faircado UG (Haftungsbeschränkt)
+[![](https://faircado.de/wp-content/uploads/2023/09/Faircado_Logo-Full-White-1-1024x182.png)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+
+* [FAQs](https://faircado.de/faqs/)
+* [Blog](https://faircado.de/magazin/)
+* [Newsroom](https://faircado.de/presse-neuigkeiten/)
+
+* [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
+* [Unsere Partner](https://faircado.de/unsere-partner/)
+* [Kontakt](https://faircado.de/kontakt/)
+
+[![Kofinanziert von der europäischen union](https://faircado.de/wp-content/uploads/2023/03/proFIT-logo-blau-1024x215.jpeg)](https://faircado.de/kofinanziert-von-der-europaeischen-union/)
+
+#### Noch nicht genug Newsletter im Posteingang? Abonniere uns!
+
+   
+
+Email 
+
+senden
+
+  Ich stimme zu, E-Mails von faircado zu erhalten und kann dies jederzeit widerrufen.
+
+* Copyright 2023 Faircado UG (Haftungsbeschränkt)
+
+* [Datenschutz](https://faircado.de/datenschutz/)
+
+* [AGB](https://faircado.de/agb/)
+
+* [Impressum](https://faircado.de/impressum/)
+
+[Twitter](https://twitter.com/Faircado)
+
+[Instagram](https://www.instagram.com/faircado/?hl=de)
+
+[Linkedin](https://www.linkedin.com/company/faircado/)
+
+[Youtube](https://www.youtube.com/channel/UCCPgRjxcfQ4LPla9yViBZ5w)
+
+* Copyright 2023 Faircado UG (Haftungsbeschränkt)
+
+* [Datenschutz](https://faircado.de/datenschutz/)
+
+* [AGB](https://faircado.de/agb/)
+
+* [Impressum](https://faircado.de/impressum/)
+
+[Twitter](https://twitter.com/Faircado)
+
+[Instagram](https://www.instagram.com/faircado/?hl=de)
+
+[Linkedin](https://www.linkedin.com/company/faircado/)
+
+[Youtube](https://www.youtube.com/channel/UCCPgRjxcfQ4LPla9yViBZ5w)
+
+* Copyright 2023 Faircado UG (Haftungsbeschränkt)
+
+* [Datenschutz](https://faircado.de/datenschutz/)
+
+* [AGB](https://faircado.de/agb/)
+
+* [Impressum](https://faircado.de/impressum/)
+
+[Twitter](https://twitter.com/Faircado)
+
+[Instagram](https://www.instagram.com/faircado/?hl=de)
+
+[Linkedin](https://www.linkedin.com/company/faircado/)
+
+[Youtube](https://www.youtube.com/channel/UCCPgRjxcfQ4LPla9yViBZ5w)
 
 Wir brauchen deine Zustimmung
 
