@@ -303,6 +303,10 @@ Privacy Policy
 
 [Home](https://www.peoplestrust.com/en/) > [Legal](https://www.peoplestrust.com/en/legal/) > [Privacy & Security](https://www.peoplestrust.com/en/legal/privacy-security/) > Privacy Policy
 
+**Notice:** If you are a merchant processing transactions through PSP Services Inc. or PSiGate, we will no longer be your acquiring financial institution as of August 5, 2024. For questions, please email [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+
+**Attention:** Si vous êtes un commerçant et effectuez des transactions par l'intermédiaire de PSP Services Inc. ou de PSiGate, veuillez prendre note qu'à partir du 5 août 2024, nous ne serons plus votre institution financière acquéreuse. Pour toute question, veuillez envoyer un courriel à [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+
 ### **PRIVACY POLICY**
 
 #### **Protecting your privacy – we’re in it together!**
@@ -750,7 +754,9 @@ Mastercard® is a registered trademark, and the circles design is a trademark of
 Cards issued by Peoples Trust Company under licence by Mastercard International Incorporated.  
 \*Visa Int./Peoples Trust Company, Licensed User.
 
-[![CDIC Deposit Protection](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.cdic.ca/about-deposit-insurance/whats-covered/list-of-member-institutions/)
+Peoples Trust Company is a member of the Canada Deposit Insurance Corporation (CDIC)
+
+[![CDIC Deposit Protection](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.cdic.ca/depositors/list-of-members/)
 
 * [](https://www.facebook.com/PeoplesGroupofCompanies/)
 * [](https://twitter.com/PeoplesGroupfin)
@@ -763,7 +769,9 @@ MD/MC Mastercard est une marque déposée et le concept de cercles est une marqu
 Les cartes sont émises par la Compagnie de Fiducie Peoples sous licence de Mastercard International Incorporated.  
 \*Visa Int./La Compagnie de Fiducie Peoples, utilisée sous licence.
 
-[![CDIC Protection Des Dépôts](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.sadc.ca/a-propos-de-lassurance-depots/quels-depots-sont-proteges/membres-de-la-sadc/)
+Peoples Bank est membre de la Société d’assurance-dépôts du Canada (SADC).
+
+[![CDIC Protection Des Dépôts](https://www.peoplestrust.com/wp-content/themes/pg-theme/dist/images/cdic-logo.png)](https://www.sadc.ca/deposants/liste-des-membres/)
 
 * [](https://www.facebook.com/PeoplesGroupofCompanies/)
 * [](https://twitter.com/PeoplesGroupfin)
