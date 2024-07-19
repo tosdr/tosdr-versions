@@ -1,4 +1,4 @@
-[![ad4mat by advanced store logo ](https://assets-global.website-files.com/638f036cf386b75771ecf6a7/64142a8ea927ac03a3aeda88_ad4mat_by_as.svg)](https://www.ad4mat.com/)
+[![ad4mat by advanced store logo ](https://cdn.prod.website-files.com/638f036cf386b75771ecf6a7/64142a8ea927ac03a3aeda88_ad4mat_by_as.svg)](https://www.ad4mat.com/)
 
 [Products](https://www.ad4mat.com/products)
 
@@ -261,7 +261,7 @@ Please note that we may change or update this privacy policy from time to time. 
 
 \*Please note that this is the convenience translation of the German version. The German version can be found [here](https://www.advanced-store.com/de/datenschutz). In case of inconsistencies between the English and the German version, the German version shall always prevail.  
 
-![logo green short](https://assets-global.website-files.com/638f036cf386b75771ecf6a7/638f082fe8eba9af2fdd2aa1_logo-green-short.svg)
+![logo green short](https://cdn.prod.website-files.com/638f036cf386b75771ecf6a7/638f082fe8eba9af2fdd2aa1_logo-green-short.svg)
 
 Navigation
 
@@ -281,9 +281,9 @@ Socials
 
 [](https://www.linkedin.com/company/76481361/admin/)[](https://www.instagram.com/ad4mat/)
 
-![iab logo](https://assets-global.website-files.com/638f036cf386b75771ecf6a7/64637b5d97c7555498e2fa68_image%2018.png)![iab tranparency and consent framework badge](https://assets-global.website-files.com/638f036cf386b75771ecf6a7/64637b5d0dc05420188b1261_image%2021.png)![code of conduct content marketing](https://assets-global.website-files.com/638f036cf386b75771ecf6a7/64637b5d55c0b2b02beba994_image%2020.png)
+![iab logo](https://cdn.prod.website-files.com/638f036cf386b75771ecf6a7/64637b5d97c7555498e2fa68_image%2018.png)![iab tranparency and consent framework badge](https://cdn.prod.website-files.com/638f036cf386b75771ecf6a7/64637b5d0dc05420188b1261_image%2021.png)![code of conduct content marketing](https://cdn.prod.website-files.com/638f036cf386b75771ecf6a7/64637b5d55c0b2b02beba994_image%2020.png)
 
-![with love from advanced store ](https://assets-global.website-files.com/638f036cf386b75771ecf6a7/64637d026e0d388ae7817876_withLoveFromAdvancedStore.svg)
+![with love from advanced store ](https://cdn.prod.website-files.com/638f036cf386b75771ecf6a7/64637d026e0d388ae7817876_withLoveFromAdvancedStore.svg)
 
 2024 advanced store GmbH
 
