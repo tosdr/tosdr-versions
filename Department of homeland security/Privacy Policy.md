@@ -228,17 +228,17 @@ Breadcrumb
 
 * [Are You Ready to SeeSay?](https://www.dhs.gov/are-you-ready-seesay-privacy-policy)
 * [DHS Intel Mobile Application](https://www.dhs.gov/dhs-intel-mobile-app-privacy-policy)
-* [Eventbrite](https://www.dhs.gov/eventbrite-privacy-policy-and-notice)
 * [Facebook](https://www.dhs.gov/facebook-privacy-policy-and-notice)
 * [Flickr](https://www.dhs.gov/flickr-privacy-policy-and-notice)
 * [GitHub](https://www.dhs.gov/github-privacy-policy-and-notice)
 * [GovDelivery](https://www.dhs.gov/govdelivery-privacy-policy-and-notice)
-* [IdeaScale](https://www.dhs.gov/ideascale-privacy-policy-and-notice)
 * [Instagram](https://www.dhs.gov/instagram-privacy-policy-and-notice)
 * [LinkedIn](https://www.dhs.gov/linkedin-privacy-policy-and-notice)
+* [SnapChat](https://www.dhs.gov/snapchat-privacy-policy-and-notice)
 * [SurveyMonkey](https://www.dhs.gov/surveymonkey-privacy-policy-and-notice)
 * [Threads](https://www.dhs.gov/threads-privacy-policy-and-notice)
-* [Twitter](https://www.dhs.gov/twitter-privacy-policy-and-notice)
+* [WhatsApp](https://www.dhs.gov/whatsapp-privacy-policy-and-notice)
+* [X (formerly Twitter)](https://www.dhs.gov/x-privacy-policy-and-notice)
 * [YouTube](https://www.dhs.gov/youtube-privacy-policy-and-notice)
 
 * [Websites](https://www.dhs.gov/websites "DHS Component Websites")
@@ -423,8 +423,6 @@ This page was not helpful because the content
 ![U.S. Department of Homeland Security Seal](/profiles/dhsd8_gov/themes/custom/dhs_uswds_subtheme/logo-wordmark-blue.svg)
 
 [![Facebook](/themes/custom/dhs_uswds/img/social-icons/facebook.svg)](https://www.dhs.gov/facebook)
-
-[![X](/themes/custom/dhs_uswds/img/social-icons/x.svg)](https://www.dhs.gov/twitter)
 
 [![YouTube](/themes/custom/dhs_uswds/img/social-icons/youtube.svg)](https://www.dhs.gov/youtube)
 
