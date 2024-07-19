@@ -166,8 +166,3 @@ Sat-Sun 6AM-4PM Pacific Time
 Effective date: January 11, 2024
 
 [](#skiptocontent)
-
-Your Cart
----------
-
-Updating your cart items...
