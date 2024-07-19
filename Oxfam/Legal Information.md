@@ -195,6 +195,8 @@ ICO Registration Number (UK): Z8133290
 #### _This Privacy Policy was last updated on 8th June 2021._  
  
 
+Share this page
+
 [social-facebook Facebook](https://facebook.com/sharer/sharer.php?u=https://www.oxfam.org/node/5)
 
 [social-twitter Twitter](https://twitter.com/intent/tweet/?text=Privacy%20Notice%20via%20@Oxfam&url=https://www.oxfam.org/node/5)
