@@ -83,9 +83,9 @@ For US residents, this Privacy Policy should be read alongside our US Privacy No
 
 Depending on your interaction with us, we may collect two types of data from you:
 
-_“Personal Data”_ or _“Personal Information”_ (as defined under applicable US privacy laws) meaning individually identifiable information, namely information that identifies an individual or may, with reasonable effort, be used to identify an individual.
+“**Personal Data**” or “**Personal Information**” (as defined under applicable US privacy laws) meaning individually identifiable information, namely information that identifies an individual or may, with reasonable effort, be used to identify an individual.
 
-_“Non-Personal Data”_ means aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Service. We are not aware of the identity of the user from which the Non-Personal Data is collected. Such Non-Personal Data may include aggregated usage information and technical information transmitted by your device, such as browser version, operating system type and version, mobile network information, device settings, and software data.
+**“Non-Personal Data”** means aggregated, non-personal non-identifiable information, which may be made available or gathered via your access to and use of the Service. We are not aware of the identity of the user from which the Non-Personal Data is collected. Such Non-Personal Data may include aggregated usage information and technical information transmitted by your device, such as browser version, operating system type and version, mobile network information, device settings, and software data.
 
 For the avoidance of doubt, any Non-Personal Data connected or linked to any Personal Data shall be deemed as Personal Data as long as such connection or linkage exists.
 
@@ -219,8 +219,6 @@ Data Protection Officer: OpenWeb has appointed a Data Protection Officer for mo
 ### Advertisers:
 
 * [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
-
-### [OpenWeb Help Center](https://support.openweb.com/hc/en-us)
 
 ### Resources:
 
