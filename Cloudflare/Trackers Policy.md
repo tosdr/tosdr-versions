@@ -86,6 +86,9 @@ Resources
     Learning
     --------
     
+    Trust & compliance
+    ------------------
+    
     Trends & insights
     -----------------
     
@@ -114,9 +117,6 @@ Partners
     
     Peering portal
     --------------
-    
-    Cloudflare Agency Program
-    -------------------------
     
 * [Partner Network](https://www.cloudflare.com/partners/)
 
@@ -343,6 +343,7 @@ Resources
 * [Architecture Center](https://www.cloudflare.com/architecture/)
 * [theNET](https://www.cloudflare.com/the-net/)
 * [Blog](https://blog.cloudflare.com/)
+* [Find an expert](https://www.cloudflare.com/find-an-expert/)
 
 Solutions
 
@@ -382,6 +383,6 @@ Company
 * [Logos & press kit](https://www.cloudflare.com/press-kit/)
 * [Become a partner](https://www.cloudflare.com/partners/)
 
-[](https://www.facebook.com/cloudflare "Facebook")[](https://twitter.com/cloudflare "X")[](https://www.linkedin.com/company/cloudflare "LinkedIn")[](https://www.youtube.com/cloudflare "Youtube")[](https://instagram.com/cloudflare "Instagram")
+[](https://www.facebook.com/cloudflare "Facebook")[](https://x.com/cloudflare "X")[](https://www.linkedin.com/company/cloudflare "LinkedIn")[](https://www.youtube.com/cloudflare "Youtube")[](https://instagram.com/cloudflare "Instagram")
 
 © 2024 Cloudflare, Inc.[Privacy Policy](https://www.cloudflare.com/privacypolicy/)[Terms of Use](https://www.cloudflare.com/website-terms/)[Report Security Issues](https://www.cloudflare.com/disclosure/)![privacy options](/img/privacyoptions.svg)Cookie Preferences[Trademark](https://www.cloudflare.com/trademark/)
