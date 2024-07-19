@@ -17,8 +17,6 @@
 
 On this page you can find **Terms Of Service**, **Privacy Policy** and **Disclaimer**. Mostly stuff that nobody reads. I guess you also don’t give a fu\*k, but it looks good here, I tried to make it as clear as possible.
 
-[![0ut3r.space](https://shields.tosdr.org/en_4563.svg)](https://tosdr.org/en/service/4563)
-
 **Effective Date: 19-03-2018**
 
 **Last Updated: 19-03-2024**
