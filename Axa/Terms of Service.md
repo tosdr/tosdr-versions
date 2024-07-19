@@ -828,7 +828,7 @@ AXA UK
 Social
 ------
 
-[](https://twitter.com/AXAUK/ "Twitter")[](https://en-gb.facebook.com/axainsurance/ "Facebook")[](https://www.linkedin.com/company/axa-uk/ "LinkedIn")[](https://www.youtube.com/channel/UCNsajcgeqUas-L9zkOAFoXQ/ "YouTube")[](https://www.instagram.com/axa_uk/ "Instagram")
+[](https://twitter.com/AXAUK/ "X")[](https://en-gb.facebook.com/axainsurance/ "Facebook")[](https://www.linkedin.com/company/axa-uk/ "LinkedIn")[](https://www.youtube.com/channel/UCNsajcgeqUas-L9zkOAFoXQ/ "YouTube")[](https://www.instagram.com/axa_uk/ "Instagram")[](https://www.tiktok.com/@axa.uk/ "TikTok")
 
 * [Cookie policy](https://www.axa.co.uk/cookie-policy/)
 * [Sitemap](https://www.axa.co.uk/sitemap/)
