@@ -224,11 +224,11 @@ Your email address will only be used to send you our newsletter, as well as upda
 
 Copyright © Ledger SAS. All rights reserved. Ledger, Ledger Stax, Ledger Nano S, Ledger Vault, Bolos are trademarks owned by Ledger SAS.  
   
-1 rue du Mail, 75002 Paris, France  
-  
+106 rue du Temple, 75003 Paris, France
+
 Payment methods  
-![](/wp-content/uploads/2021/11/logo-paypal-s.png?v=2)  ![](/wp-content/uploads/2021/11/logo-crypto-s.png?v=6)  ![](/wp-content/uploads/2021/11/logo-bitpay-s.png?v=6)   
-![](/wp-content/uploads/2021/11/layer1.png?v=2)  ![](/wp-content/uploads/2021/11/logo-visa-s.png?v=2)  ![](/wp-content/uploads/2021/11/logo-maestro-s.png?v=2)  ![](/wp-content/uploads/2021/11/logo-mastercard-s.png?v=2)  ![](/wp-content/uploads/2021/11/logo-cb-s.png?v=2)
+![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-paypal-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-crypto-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-bitpay-s.png)  
+![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/layer1.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-visa-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-maestro-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-mastercard-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-cb-s.png)
 
 * Products
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
