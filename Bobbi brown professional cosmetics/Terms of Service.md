@@ -2,9 +2,7 @@
 
 Previous
 
-[25% off sitewide.\* Plus, pick a free gift on $85+ after checkout. No code needed.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
-
-[Last call. Enjoy up to 50% off on select products.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+[Last call. Enjoy up to 30% off on select products.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -224,6 +222,8 @@ Fragrance
 
 Trending
 
+ [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+
  [Online Exclusives](https://www.bobbibrowncosmetics.com/products/39349/evergreengifting/exclusive_online)
 
  [VITAMIN ENRICHED COLLECTION](https://www.bobbibrowncosmetics.com/vitamin-enriched-collection)
@@ -243,8 +243,6 @@ SPECIAL OFFERS
  [GIFT GUIDE](https://www.bobbibrowncosmetics.com/gift-guide)
 
  [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
-
- [LAST CHANCE](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 Explore Explore
 
@@ -277,9 +275,6 @@ HOW TO VIDEOS
 PERSONALIZED SERVICES
 
 [See All Personalized Services](https://www.bobbibrowncosmetics.com/digital-services "See All Personalized Services")
-
-[Book a Virtual Artistry  
-Consultation](https://www.bobbibrowncosmetics.com/virtual-services)
 
 [Chat with an Artist](https://www.bobbibrowncosmetics.com/beauty-chat)
 
@@ -826,6 +821,8 @@ United States
 [Terms & Conditions](https://www.bobbibrowncosmetics.com/customer-service-corporate#corporate-terms)
 
 [Accessibility](https://www.bobbibrowncosmetics.com/customer-service-accessibility)
+
+[Consumer Health Data Privacy Statement](https://www.bobbibrowncosmetics.com/consumer-health-data-privacy-statement)
 
 Do Not Sell or Share My Personal Information / Targeted Ads
 
