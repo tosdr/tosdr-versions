@@ -28,7 +28,7 @@
 
 [Start a GoFundMe](https://www.gofundme.com/create/fundraiser) [Sign In](https://www.gofundme.com/sign-in)
 
-[Search](https://www.gofundme.com/s?q=)[](https://www.gofundme.com/s?q=)
+[Search](https://www.gofundme.com/s)[](https://www.gofundme.com/s)
 
 For Individuals
 
@@ -78,9 +78,11 @@ Privacy Notice
 
 Questions about our privacy notice? [Contact Us](https://support.gofundme.com/hc)
 
+Our Privacy Notice will be updated, and our updated Privacy Notice will be effective starting on August 1, 2024. To view the updated Privacy Notice, [click here](https://www.gofundme.com/c/gofundme-privacy-notice).
+
 Privacy and security are very important to us at GoFundMe. This Privacy Notice (“Notice”) is meant to help you (the “end user”) understand how we at GoFundMe collect, use, and share your data when you use our products or services on which we make this Notice available – for example, when you use GoFundMe or the Classy Platform or our mobile applications, or when you raise funds on GoFundMe for your campaigns or donate to one of our non-profit partners through Classy.Org (collectively, the “Services”). 
 
-This Policy applies to GoFundMe Group Inc. and its affiliates and subsidiaries, including Classy.org, GoFundMe, Inc. and GoFundMe Ireland Ltd (collectively, “GoFundMe” “we,” “our,” and “us”). (Please see the “Contacting GoFundMe” section below for which of these entities is responsible for processing your data.) You should read this Policy carefully, it contains important information about your privacy rights and choices.
+This Policy applies to GoFundMe Group Inc. and its affiliates and subsidiaries, including Classy.org, GoFundMe, Inc. and GoFundMe Ireland Ltd (collectively, “GoFundMe” “we,” “our,” and “us”). (Please see the “[Contacting GoFundMe](https://www.gofundme.com/c/privacy#contact)” section below for which of these entities is responsible for processing your data.) You should read this Policy carefully, it contains important information about your privacy rights and choices.
 
 Classy, an affiliate of GoFundMe, is a Public Benefit Corporation and a certified B corporation that helps nonprofit organizations maximize their impact through a suite of online fundraising tools to accelerate social impact around the world. Nonprofits use the Classy platform to raise money, engage their communities, and advance their missions. Classy also hosts the Collaborative conference and the Classy Awards to spotlight the innovative work nonprofits are implementing around the globe.
 
@@ -129,7 +131,7 @@ We may engage vendors to provide certain interactive features on our Services. Y
 
 **VIII. Sensitive information:**You can also provide us with information about yourself or other parties that are considered sensitive, such as political opinions, race, ethnicity, health information or religious beliefs.  If you post this information in a fundraiser, you choose to provide such information to be published publicly in relation to your fundraiser, donation or otherwise.  Subject to applicable law, GoFundMe may use any information which has manifestly been made public, including processing information about you that reveals sensitive information. 
 
-When you provide such information to us you consent to the processing of this data by GoFundMe and/or its service providers. We collect the information listed in this section for the purposes described below in the sections “Our Use of Information Collected” and “Our Disclosure of Information Collected Through the Services. 
+When you provide such information to us you consent to the processing of this data by GoFundMe and/or its service providers. We collect the information listed in this section for the purposes described below in the sections “Our Use of Information Collected” and “Our Disclosure of Information Collected Through the Services.” 
 
 **IX. Biometric information:**We sometimes collect biometric information through vendors for identity verification, regulatory compliance and fraud prevention purposes. We or vendors we engage may collect a copy of your government-issued ID (i.e., your driver’s license, state ID card, or passport) and a scan of the picture on your valid and unexpired government-issued ID for identification purposes . Our vendors may, with your consent, employ facial recognition technology to verify your identity and share the results of their analysis with us, if needed. GoFundMe does not have access to or otherwise collect or maintain any biometric information.  
 
@@ -315,7 +317,7 @@ By using our Platform and Services after any such update or modification, you ac
 **CONTACTING GOFUNDME**
 -----------------------
 
-You can contact our Data Protection Officer by emailing dpo@gofundme.com. 
+You can contact our Data Protection Officer by emailing [dpo@gofundme.com](mailto:dpo@gofundme.com). 
 
 To submit a Data Subject Request, please fill out [this form](https://preferences.gofundme.com/privacy) or email [privacy-requests@gofundme.com](mailto:privacy-requests@gofundme.com). 
 
