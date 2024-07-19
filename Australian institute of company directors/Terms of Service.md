@@ -14,6 +14,12 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     * [Executive profiles](https://www.aicd.com.au/about-aicd/who-is-aicd/executive-profiles.html)
     * [Reconciliation Action Plan](https://www.aicd.com.au/about-aicd/who-is-aicd/reconciliation-action-plan.html)
     
+    [Work at AICD](https://www.aicd.com.au/about-aicd/work-aicd.html) Open Sub Menu
+    
+    * [Why work here?](https://www.aicd.com.au/about-aicd/work-aicd/why-work-here.html)
+    * [Types of roles we offer](https://www.aicd.com.au/about-aicd/work-aicd/role-types.html)
+    * [Current vacancies](https://www.aicd.com.au/about-aicd/work-aicd/current-vacancies.html)
+    
     [Membership](https://www.aicd.com.au/about-aicd/aicd-membership.html) Open Sub Menu
     
     * [Practise effective directorship](https://www.aicd.com.au/about-aicd/aicd-membership/effective-directorship.html)
@@ -27,16 +33,11 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     * [Board diversity](https://www.aicd.com.au/about-aicd/governance-and-policy-leadership/board-diversity.html)
     * [The forward governance agenda](https://www.aicd.com.au/about-aicd/governance-and-policy-leadership/forward-governance-agenda.html)
     
+    [AICD Board Insights](https://www.aicd.com.au/about-aicd/board-insights.html)
+    
     [Board Advance](https://www.aicd.com.au/about-aicd/consulting.html) Open Sub Menu
     
-    * [Performance Assessment](https://www.aicd.com.au/about-aicd/consulting/board-advice.html)
     * [In-House Governance Development](https://www.aicd.com.au/about-aicd/consulting/in-house-governance.html)
-    
-    [Work at AICD](https://www.aicd.com.au/about-aicd/work-aicd.html) Open Sub Menu
-    
-    * [Why work here?](https://www.aicd.com.au/about-aicd/work-aicd/why-work-here.html)
-    * [Types of roles we offer](https://www.aicd.com.au/about-aicd/work-aicd/role-types.html)
-    * [Current vacancies](https://www.aicd.com.au/about-aicd/work-aicd/current-vacancies.html)
     
     [Working with AICD](https://www.aicd.com.au/about-aicd/working-with-aicd.html) Open Sub Menu
     
