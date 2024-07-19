@@ -401,6 +401,10 @@ In accordance with Section 22581 of the California Business and Professions Code
 
 FOR RESIDENTS OF NEVADA ONLY. In accordance with SB 220, Nevada consumers may opt-out of the sale of their personal information to third parties. If you reside in Nevada and you have provided us with your personal information, you may choose to opt-out of the sale of such personal information by emailing us at [\[email protected\]](https://www.internetbrands.com/cdn-cgi/l/email-protection) with “Nevada Privacy Right” in the subject line. We may request for additional information from you in order to verify your identity and/or the authenticity of your request.
 
+15.14 Metrics
+
+Privacy metrics required under applicable law can be found [here](http://www.internetbrands.com/privacy/metrics).
+
 16. EU Privacy Rights
 ---------------------
 
@@ -428,7 +432,7 @@ If you have any questions or concerns about this privacy policy or our practices
 
 We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the "Last Updated" date. If our information practices change in a significant way, you will be provided notice by means of notice on our sites or otherwise in writing. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
 
-Last Updated: December 30, 2022
+Last Updated: July 17, 2024
 
 ![Internet Brands](//www.internetbrands.com/images/logo.png)
 
