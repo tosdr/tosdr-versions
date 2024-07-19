@@ -46,7 +46,6 @@ Toggle menu
     * [CERTIFICATION](https://www.maxon.net/en/certification)
     * [CINEVERSITY](https://cineversity.maxon.net/)
     * [ZCLASSROOM](https://zclassroom.com/zclassroom/)
-    * [CINEVERSITY (LEGACY)](https://www.cineversity.com/)
 * [SUPPORT](https://www.maxon.net/en/support-center)
 * [TRY](https://www.maxon.net/en/try)
 * [BUY](https://www.maxon.net/en/buy)
@@ -87,7 +86,6 @@ Toggle menu
     * [CERTIFICATION](https://www.maxon.net/en/certification)
     * [CINEVERSITY](https://cineversity.maxon.net/)
     * [ZCLASSROOM](https://zclassroom.com/zclassroom/)
-    * [CINEVERSITY (LEGACY)](https://www.cineversity.com/)
 * [SUPPORT](https://www.maxon.net/en/support-center)
 * [TRY](https://www.maxon.net/en/try)
 * [BUY](https://www.maxon.net/en/buy)
@@ -118,12 +116,6 @@ LEGAL
 * [EULA](https://www.maxon.net/en/legal/eula)
 
 LEGAL
-
-* [IMPRINT](https://www.maxon.net/en/legal)
-* [PRIVACY](https://www.maxon.net/en/legal/privacy-policy)
-* [TERMS](https://www.maxon.net/en/legal/terms-of-use)
-* [LICENSE TRANSFER](https://www.maxon.net/en/legal/license-transfer)
-* [EULA](https://www.maxon.net/en/legal/eula)
 
 ![](https://maxonassets.imgix.net/images/Fabian_Aerts_3.jpg?fm=webp&auto=format,compress&w=1920&h=1920&ar=16:9&fit=clip&crop=faces&q=10&blur=100)
 
@@ -190,7 +182,7 @@ Here you can find Nemetschek Group’s statement to fulfill the UK Modern Slaver
 
 [**Here you can find Nemetschek Group’s statement to fulfill the requirements of the Australian Modern Slavery Act 2018.**](https://modernslaveryregister.gov.au/statements/16785/)
 
-* [ABOUT](https://www.maxon.net/en/about-maxon/history)
+* [ABOUT](https://www.maxon.net/en/about-maxon/executive-leadership)
 * [CAREERS](https://www.maxon.net/en/about-maxon/careers)
 * [TEAMS PROGRAM](https://www.maxon.net/en/teams)
 * [GET EMAIL UPDATES](https://www.maxon.net/en/email-updates)
