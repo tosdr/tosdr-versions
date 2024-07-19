@@ -263,15 +263,6 @@ If you have any questions about billing, You can contact our Billing Department:
 
 * By email: [\[email protected\]](https://nopecha.com/cdn-cgi/l/email-protection)
 
-Contact
-
-* [\[email protected\]](https://nopecha.com/cdn-cgi/l/email-protection)
-
-Socials
-
-* [](https://nopecha.com/github "GitHub")
-* [](https://nopecha.com/discord "Discord")
-
 Downloads
 
 * [Chrome Web Store](https://nopecha.com/chrome)
