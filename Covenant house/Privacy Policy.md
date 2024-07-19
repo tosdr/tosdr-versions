@@ -50,7 +50,7 @@
     
 * Get Involved
     
-    [How It Works](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060)
+    [Get Involved](https://www.covenanthouse.org/get-involved)
     
     Ways to Give
     
@@ -149,11 +149,11 @@
     
 * Get Involved
     
-    Strides for Pride: June 24-30
+    Join the Movement to End Youth Homelessness
     
-    Join us in a one-week challenge to log 40 minutes of activity per day - running! walking! biking! swimming! dancing! - in support of LGBTQ+ youth overcoming homelessness at Covenant House
+    There are many ways to take action in support of youth facing homelessness.
     
-    [How It Works](https://www.covenanthouseevents.org/index.cfm?fuseaction=donorDrive.event&eventID=1060)
+    [Get Involved](https://www.covenanthouse.org/get-involved)
     
     Ways to Give
     
