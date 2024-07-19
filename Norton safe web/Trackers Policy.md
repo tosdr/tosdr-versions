@@ -92,9 +92,6 @@
 Cookies and Third-Party Analytics
 =================================
 
-1. [Privacy](https://www.nortonlifelock.com/gb/en/privacy/) 
-2. Cookies & Analytics 
-
 **Introduction**
 ----------------
 
@@ -122,13 +119,13 @@ Cookies are small text files that are placed on your computer or device by websi
 * Tailor information presented to you based on your browsing preferences, such as language and geographical region;
 * Collect statistics regarding your website usage;
 * Provide us with business and marketing information; and
-* In some cases, to enable a third party to deliver future advertising for our Services to you when you visit certain websites owned by third parties.
+* In some cases, to enable a third party to deliver future advertising for our Services to you when you use our Private Browser newsfeed or visit certain websites owned by third parties.
 
 The cookies we use include “session” cookies that are erased when you leave our websites, or they may be “persistent" cookies that remain on your computer or device after you leave the site, in preparation for your next visit to our websites.
 
 ### **How We Use Third-Party Cookies**
 
-Cookies may also be placed on our websites by third parties to deliver tailored information and content that may be of interest to you, such as promotions or offerings, when you visit third-party websites after you have left ours. We do not permit these third parties to collect personal data about you (e.g., email address) other than that collected using such  cookies unless such data is provided to the third party in their role as a service provider acting solely on our behalf.
+Cookies may also be placed on our websites by third parties to deliver tailored information and content that may be of interest to you, such as promotions or offerings, when you visit third-party websites after you have left ours. We do not permit these third parties to collect personal data about you (e.g., email address) other than that collected using such cookies unless such data is provided to the third party in their role as a service provider acting solely on our behalf.
 
 ### Your Cookie Rights and Choices
 
@@ -155,24 +152,24 @@ Browser manufacturers provide help pages relating to cookie management in their 
 * Safari (Mobile)
 * [Android Browser](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DAndroid)
 
-For other browsers, please consult the documentation that your browser manufacturer provides.
+For other browsers, including Norton Private Browser, please consult the documentation that your browser manufacturer provides.
 
 You can opt out of interest-based targeting provided by participating ad servers through:
 
-* [http://optout.aboutads.info/](http://optout.aboutads.info/)  by Digital Advertising Alliance
+* [http://optout.aboutads.info/](http://optout.aboutads.info/) by Digital Advertising Alliance
 * [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/) by European Interactive Digital Advertising Alliance  
     
 
 In addition, on your iPhone, iPad or Android, you can change your device settings to control whether you see online interest-based ads in the following manner:
 
 * iOS devices: go to Settings > Privacy > Advertising > enable Limit Ad Tracking. Please note that if you use more than one device, you need to opt-out separately in each device.
-* Android devices: Please follow the instructions set forth at:  [https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en) . Please note that if you use more than one device, you need to opt-out separately in each device.
+* Android devices: Please follow the instructions set forth at: [https://support.google.com/ads/answer/2662922?hl=en](https://support.google.com/ads/answer/2662922?hl=en) . Please note that if you use more than one device, you need to opt-out separately in each device.
 
 Please note that if you disable cookies, our websites may not function properly or at all or your access to our websites and their features may be affected or restricted.
 
 **Do-Not-Track Signals and Similar Mechanisms**
 
-Some mobile and web browsers transmit “do-not-track” signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they are even aware of them. We currently do not respond to these signals.
+Some mobile and web browsers transmit “do-not-track” signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they are even aware of them. We currently accept Global Privacy Control (GPC) signals from U.S. customers.
 
 ### **Categories and Purposes of Cookies**
 
@@ -213,24 +210,25 @@ Some mobile and web browsers transmit “do-not-track” signals. Because of dif
 * Recognition of users
 * Evaluations and surveys
 
-Third Party Analytics and Features In Our Products
---------------------------------------------------
+Third Party Analytics and Features In Our Products and Services
+---------------------------------------------------------------
 
-In some of our products and services we may use analytics tools provided by third-parties to identify potential security and performance issues, facilitate product features, understand how you use our products so we can improve the product functionality as well as your user experience, and to evaluate and improve our campaigns and communications with you. Specific analytics tools or features may vary depending on the operating system of the device. Third-party analytics tools or features may change from time to time. You agree that by using our Services, we agree to terms and privacy polices of our third-party analytics or feature providers including::
+In some of our products and services and web sites we may use analytics tools provided by third-parties to identify potential security and performance issues, facilitate product features, understand how you use our products so we can improve the product functionality as well as your user experience, and to evaluate and improve our campaigns and communications with you. Specific analytics tools or features may vary depending on the operating system of the device. Third-party analytics tools or features may change from time to time. You agree that by using our Services, we agree to terms and privacy polices of our third-party analytics or feature providers including:
 
 |     |     |     |
 | --- | --- | --- |
 | **Tool/Provider** | **Purpose** | **Link to Privacy Policy** |
 | Google Analytics | Product Analytics | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Adobe Analytics | Product Analytics | [https://www.adobe.com/privacy.html](https://www.adobe.com/privacy.html) |
+| Quantum Metric | Product Analytics | [https://www.quantummetric.com/legal/privacy-policy/](https://www.quantummetric.com/legal/privacy-policy/) |
 | AppsFlyer | Attribution, Marketing Analytics | [https://www.appsflyer.com/privacy-policy/](https://www.appsflyer.com/privacy-policy/) |
 | Singular | Attribution, Marketing Analytics | [https://www.singular.net/privacy-policy/](https://www.singular.net/privacy-policy/) |
 | Firebase (Google) | Crashlytics, A/B Testing, Product Analytics | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Sentry.io | Mobile App Error Detection | [https://sentry.io/privacy/](https://sentry.io/privacy/) |
-| Medallia | Customer Support Surveys | [https://www.medallia.com/privacy-policy/](https://www.medallia.com/privacy-policy/) |
+| Qualtrics | Customer Surveys | [https://www.qualtrics.com/privacy-statement/](https://www.qualtrics.com/privacy-statement/) |
 | YouTube | Video Analytics | [YouTube Terms of Service](https://www.youtube.com/t/terms)<br><br>[https://policies.google.com/privacy](https://policies.google.com/privacy) |
 
-Last updated January 11, 2024  
+Last updated June 3, 2024  
   
 
   ![NortonLifeLock logo](/content/dam/nortonlifelock/global/images/non-product/logos/logo_nortonlifelock_179x34.svg)
