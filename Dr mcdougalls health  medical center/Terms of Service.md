@@ -11,6 +11,10 @@
 
 [![Search Icon](https://www.drmcdougall.com/wp-content/themes/wellness-pro/images/McDougall_Logo_DarkGreen_NoSub.svg)](https://www.drmcdougall.com/)
 
+**With a heavy heart, we share the news of Dr. John McDougall’s passing.** A visionary physician and author, beloved husband, father, grandfather, brother, mentor and friend, Dr. McDougall died peacefully at his home on Saturday, June 22nd, at the age of 77.
+
+×
+
  ![Search Icon](https://www.drmcdougall.com/wp-content/themes/wellness-pro/images/Search_Icon_Cream.svg)
 
 * [Recipes](https://www.drmcdougall.com/recipes/)
@@ -37,6 +41,10 @@
  ![Search Icon](https://www.drmcdougall.com/wp-content/themes/wellness-pro/images/Search_Icon_Cream.svg)
 
 [Get Started](https://www.drmcdougall.com/mini-courses/)
+
+**With a heavy heart, we share the news of Dr. John McDougall’s passing.** A visionary physician and author, beloved husband, father, grandfather, brother, mentor and friend, Dr. McDougall died peacefully at his home on Saturday, June 22nd, at the age of 77.
+
+×
 
  
 
