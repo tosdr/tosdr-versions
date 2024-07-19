@@ -93,6 +93,20 @@ Hauptnavigation
     * [Amnesty Shop](https://shop.amnesty.de/)
     
 * [Spenden](https://helfen.amnesty.de/)
+    
+    [Spenden Übersicht](https://www.amnesty.de/spenden)
+    ---------------------------------------------------
+    
+    * [Allgemeine Spende](https://helfen.amnesty.de/allgemeine-spenden/ "Allgemeine Spende")
+    * [Dauerhaft fördern](https://helfen.amnesty.de/foerderschaft/ "Dauerhaft fördern")
+    * [Spendenaktion starten](https://aktion.amnesty.de/ "Spendenaktion starten")
+    * [Spende im Trauerfall](https://helfen.amnesty.de/trauerfall-spenden/ "Spende im Trauerfall")
+    * [Geschenkspende](https://helfen.amnesty.de/geschenkspende/ "Geschenkspende")
+    * [Testamente](https://helfen.amnesty.de/testamentsspende/ "Testamente")
+    * [Großspende](https://helfen.amnesty.de/grossspenden/ "Großspende")
+    * [Unternehmensspende](https://helfen.amnesty.de/unternehmensspenden/ "Unternehmensspende")
+    * [Spendenservice und Ethik](https://helfen.amnesty.de/#weiterfuehrende-informationen "Spendenservice und Ethik")
+    
 * [Presse](https://www.amnesty.de/presse)
 
 [![Frau mit gelbem Regenschirm steht in Hongkong vor der Polizei, die die Demonstration auflösen will.](/sites/default/files/styles/583x329/public/2023-08/Hongkong-Polizei-l%C3%B6st-Proteste-auf-gelber-Regenschirm-November-2014.jpg?h=6781f001&itok=pZQcz5q- "Die Hongkonger Polizei will die Proteste auflösen.")](https://helfen.amnesty.de/checkout/spende-amnesty/)
@@ -1111,11 +1125,15 @@ Fußbereich
 Kontakt
 -------
 
-Amnesty International Deutschland e. V.  
-Zinnowitzer Straße 8, 10115 Berlin  
-Telefon: +49 (0)30 / 420248-0  
+Wir sind umgezogen! Unsere neue Adresse lautet:
+
+Amnesty International Deutschland e. V.
+
+Sonnenallee 221 C
+
+12059 Berlin  
   
-Wir ziehen um! Ab dem 1. Juli 2024 lautet unsere neue Adresse: Sonnenallee 221 C, 12059 Berlin
+Telefon: +49 (0)30 / 420248-0
 
 Spendenkonto
 ------------
