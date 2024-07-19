@@ -13,8 +13,8 @@ Solutions
     * [Outbound call center](https://www.mightycall.com/outbound-call-center-software/)
     * [Phone system](https://www.mightycall.com/business-phone/)
 * By industry
-    * [Real estate](https://www.mightycall.com/industry-solutions/finance/)
-    * [Financial services](https://www.mightycall.com/outbound-call-center-software/)
+    * [Real estate](https://www.mightycall.com/industry-solutions/real-estate/)
+    * [Financial services](https://www.mightycall.com/industry-solutions/finance/)
     
     * [Logistics](https://www.mightycall.com/industry-solutions/logistics/)
     * [Education](https://www.mightycall.com/industry-solutions/education/)
@@ -336,7 +336,7 @@ email: [support@mightycall.com](mailto:support@mightycall.com)
 
 919 North Market Street, Suite 950 Wilmington, DE, 19801
 
-[![facebook](/wp-content/themes/mightycall2021/img/footer/facebook.svg)](https://www.facebook.com/MightyCallApp/) [![instagram](/wp-content/themes/mightycall2021/img/footer/instagram.svg)](https://www.instagram.com/mightycall_voip/) [![twitter](/wp-content/themes/mightycall2021/img/footer/2-twitter.svg)](https://twitter.com/mightycall/)[![LinkedIn](/wp-content/themes/mightycall2021/img/footer/linkedIn.svg)](https://www.linkedin.com/company/mightycall/) [![youtube](/wp-content/themes/mightycall2021/img/footer/youtube.svg)](https://www.youtube.com/user/mightycall)
+[![facebook](/wp-content/themes/mightycall2021/img/footer/facebook.svg)](https://www.facebook.com/MightyCallApp/) [![instagram](/wp-content/themes/mightycall2021/img/footer/instagram.svg)](https://www.instagram.com/mightycall_voip/) [![twitter](/wp-content/themes/mightycall2021/img/footer/2-twitter.svg)](https://x.com/MightyCall)[![LinkedIn](/wp-content/themes/mightycall2021/img/footer/linkedIn.svg)](https://www.linkedin.com/company/mightycall/) [![youtube](/wp-content/themes/mightycall2021/img/footer/youtube.svg)](https://www.youtube.com/user/mightycall)
 
 Company
 
@@ -360,7 +360,7 @@ Features
 
 ![V](/wp-content/themes/mightycall2021/img/footer/arrow-small-button.svg)
 
-[Live Call Monitoring](https://www.mightycall.com/features/call-monitoring/) [Call Recording](https://www.mightycall.com/features/call-recording/) [Preview Dialer](https://www.mightycall.com/features/preview-dialer/) [Call Queue](https://www.mightycall.com/features/call-queues/) [Call Log](https://www.mightycall.com/features/call-logs/) [IVR (Interactive Voice Response)](https://www.mightycall.com/features/ivr/) [Call wisper](https://www.mightycall.com/features/call-whisper/) [All Features](https://www.mightycall.com/features/)
+[Live Call Monitoring](https://www.mightycall.com/features/call-monitoring/) [Call Recording](https://www.mightycall.com/features/call-recording/) [Predictive Dialer](https://www.mightycall.com/features/predictive-dialer/) [Preview Dialer](https://www.mightycall.com/features/preview-dialer/) [Call Queue](https://www.mightycall.com/features/call-queues/) [Call Log](https://www.mightycall.com/features/call-logs/) [IVR (Interactive Voice Response)](https://www.mightycall.com/features/ivr/) [All Features](https://www.mightycall.com/features/)
 
 Solutions
 
