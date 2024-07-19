@@ -2,28 +2,30 @@
 
 ![](https://s3.belkin.com/resources/img/icons/lightning-charge-icon.svg) Up to an extra 50% off! Shop Certified Refurbished. [Buy now.](https://www.belkin.com/shop-by/featured/certified-refurbished/)
 
-Summer savings: Save up to 25%. [Shop now.](https://www.belkin.com/shop-by/special-offers/sale/)
+Summer Travel Sale: Save up to $45. [Shop now.](https://www.belkin.com/shop-by/special-offers/sale/)
 
 Close
 
 Toggle navigation
 
-[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw77880997/images/brand/belkin_logo_notm.svg)](https://www.belkin.com/ "Belkin US Home")
+[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw27ce24f9/images/brand/belkin_logo_notm.svg)](https://www.belkin.com/ "Belkin US Home")
 
 Back
 
 Close ×
 
+* [New Arrivals](https://www.belkin.com/shop-by/special-offers/new-arrivals/ "New Arrivals")
 * [Products](# "Products")
     
     * [Choose Your Device](# "Choose Your Device")
         
         * [iPhone](https://www.belkin.com/shop-by/choose-your-device/iphone/ "iPhone")
-        * [Samsung S24](https://www.belkin.com/shop-by/choose-your-device/samsung-s24/ "Samsung S24")
+        * [Samsung](https://www.belkin.com/shop-by/choose-your-device/samsung/ "Samsung")
         
     * [Special Offers](https://www.belkin.com/shop-by/special-offers/ "Special Offers")
         
         * [New Arrivals](https://www.belkin.com/shop-by/special-offers/new-arrivals/ "New Arrivals")
+        * [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
         * [Certified Refurbished](https://www.belkin.com/shop-by/special-offers/certified-refurbished/ "Certified Refurbished")
         * [Earn Belkin Rewards](https://www.belkin.com/belkin-rewards.html "Earn Belkin Rewards")
         
@@ -32,7 +34,6 @@ Close ×
         * [Travel Accessories](https://www.belkin.com/shop-by/collections/travel-accessories/ "Travel Accessories")
         * [Qi2 Wireless Chargers](https://www.belkin.com/company/blog/qi2-wireless-charging-standard/ "Qi2 Wireless Chargers")
         * [iPhone 15 Favorites](https://www.belkin.com/shop-by/collections/iphone-15-favorites/ "iPhone 15 Favorites")
-        * [USB-C must-haves for iPhone 15](https://www.belkin.com/shop-by/collections/usb-c-must-haves-for-iphone-15/ "USB-C must-haves for iPhone 15")
         * [Samsung Galaxy S24 Favorites](https://www.belkin.com/shop-by/collections/samsung-galaxy-s24-favorites/ "Samsung Galaxy S24 Favorites")
         
     * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
@@ -60,7 +61,7 @@ Close ×
     * [Docks & Hubs](https://www.belkin.com/products/docks-hubs/ "Docks & Hubs")
         
         * [Thunderbolt Docks](https://www.belkin.com/products/docks-hubs/thunderbolt-docks/ "Thunderbolt Docks")
-        * [USB-C Docks](https://www.belkin.com/products/docks-hubs/usb-c-docks/ "USB-C Docks")
+        * [USB-C Docking Stations](https://www.belkin.com/products/docks-hubs/usb-c-docking-stations/ "USB-C Docking Stations")
         * [USB & USB-C Hubs](https://www.belkin.com/products/docks-hubs/usb-usb-c-hubs/ "USB & USB-C Hubs")
         
     * [Screen Protectors](https://www.belkin.com/products/screen-protectors/ "Screen Protectors")
@@ -92,7 +93,7 @@ Close ×
         
     * [AirTag Accessories](https://www.belkin.com/products/airtag-accessories/ "AirTag Accessories")
     * [Computer Accessories](https://www.belkin.com/products/computer-accessories/ "Computer Accessories")
-    * [Vision Pro, phone, tablet & accessories](https://www.belkin.com/products/vision-pro-phone-tablet-accessories/ "Vision Pro, phone, tablet & accessories")
+    * [Tablet & Apple Vision Pro Accessories](https://www.belkin.com/products/tablet-apple-vision-pro-accessories/ "Tablet & Apple Vision Pro Accessories")
     * [Wemo Smart Home](https://www.belkin.com/products/wemo-smart-home/ "Wemo Smart Home")
     * [Phyn Smart Water Assistant](https://www.belkin.com/products/phyn-smart-water-assistant/ "Phyn Smart Water Assistant")
     * [Surge Protectors & Power Strips](https://www.belkin.com/products/surge-protectors-power-strips/ "Surge Protectors & Power Strips")
@@ -111,26 +112,17 @@ Close ×
         [![](https://www.belkin.com/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/en_US/dw98d0d0ea/2-in-1-dock-magsafe-pod.png)](https://www.belkin.com/2-in-1-wireless-charging-dock-with-magsafe-15w/P-WIZ020.html "Discover Fast Wireless Charger for Apple Watch + Power Bank 10K")
         
     
-* [Offers](https://www.belkin.com/offers/ "Offers")
-    
-    * [See All Offers](https://www.belkin.com/shop-by/special-offers/ "See All Offers")
-    * [New Arrivals](https://www.belkin.com/shop-by/special-offers/new-arrivals/ "New Arrivals")
-    * [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
-    * [Exclusive Deals](https://www.belkin.com/shop-by/special-offers/exclusive-deals/ "Exclusive Deals")
-    * [Certified Refurbished](https://www.belkin.com/shop-by/special-offers/certified-refurbished/ "Certified Refurbished")
-    * [Earn Belkin Rewards](https://www.belkin.com/belkin-rewards.html "Earn Belkin Rewards")
-    * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
-    
 * [Shop By](# "Shop By")
     
     * [Choose Your Device](# "Choose Your Device")
         
         * [iPhone](https://www.belkin.com/shop-by/choose-your-device/iphone/ "iPhone")
-        * [Samsung S24](https://www.belkin.com/shop-by/choose-your-device/samsung-s24/ "Samsung S24")
+        * [Samsung](https://www.belkin.com/shop-by/choose-your-device/samsung/ "Samsung")
         
     * [Special Offers](https://www.belkin.com/shop-by/special-offers/ "Special Offers")
         
         * [New Arrivals](https://www.belkin.com/shop-by/special-offers/new-arrivals/ "New Arrivals")
+        * [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
         * [Certified Refurbished](https://www.belkin.com/shop-by/special-offers/certified-refurbished/ "Certified Refurbished")
         * [Earn Belkin Rewards](https://www.belkin.com/belkin-rewards.html "Earn Belkin Rewards")
         
@@ -139,28 +131,20 @@ Close ×
         * [Travel Accessories](https://www.belkin.com/shop-by/collections/travel-accessories/ "Travel Accessories")
         * [Qi2 Wireless Chargers](https://www.belkin.com/company/blog/qi2-wireless-charging-standard/ "Qi2 Wireless Chargers")
         * [iPhone 15 Favorites](https://www.belkin.com/shop-by/collections/iphone-15-favorites/ "iPhone 15 Favorites")
-        * [USB-C must-haves for iPhone 15](https://www.belkin.com/shop-by/collections/usb-c-must-haves-for-iphone-15/ "USB-C must-haves for iPhone 15")
         * [Samsung Galaxy S24 Favorites](https://www.belkin.com/shop-by/collections/samsung-galaxy-s24-favorites/ "Samsung Galaxy S24 Favorites")
         
     * [AT&T Deals](https://www.belkin.com/att-deals/ "AT&T Deals")
     
-* [Support](# "Support")
-    
-    * [Support Center](https://www.belkin.com/support-center/ "Support Center")
-    * [Register a Screen Protector](https://www.belkin.com/support/register-a-screen-protector/ "Register a Screen Protector")
-    * [Register a Product](https://www.belkin.com/product-registration/ "Register a Product")
-    * [Online Order Help](https://www.belkin.com/support-article/?articleNum=80153 "Online Order Help")
-    * [Warranty Exchange](https://www.belkin.com/support/warranty-exchange/ "Warranty Exchange")
-    * [Belkin Rewards FAQ](https://www.belkin.com/support-article/?articleNum=335504 "Belkin Rewards FAQ")
-    
+* [Sale](https://www.belkin.com/shop-by/special-offers/sale/ "Sale")
+* [Rewards](https://www.belkin.com/belkin-rewards.html "Rewards")
 * [Business](# "Business")
     
     * [All Business Solutions](https://www.belkin.com/business/all-business-solutions/ "All Business Solutions")
-    * [Cybersecurity and Secure KVM](https://www.belkin.com/products/product-resources/cybersecurity-skvm/ "Cybersecurity and Secure KVM")
+    * [Cybersecurity and Secure KVM](https://www.belkin.com/business/cybersecurity-and-secure-kvm/ "Cybersecurity and Secure KVM")
     * [Docking Stations](https://www.belkin.com/business/docking-stations/ "Docking Stations")
         
         * [Thunderbolt Docks](https://www.belkin.com/products/docks-hubs/thunderbolt-docks/ "Thunderbolt Docks")
-        * [USB-C Docks](https://www.belkin.com/products/docks-hubs/usb-c-docks/ "USB-C Docks")
+        * [USB-C Docks](https://www.belkin.com/products/docks-hubs/usb-c-docking-stations/ "USB-C Docks")
         * [USB & USB-C Hubs](https://www.belkin.com/products/docks-hubs/usb-usb-c-hubs/ "USB & USB-C Hubs")
         
     * [Cables](https://www.belkin.com/business/cables/ "Cables")
@@ -214,11 +198,20 @@ Close ×
         * [Belkin Apple Accessories](https://brochure.belkin.com/tech-essentials-for-apple-devices/ "Belkin Apple Accessories")
         
     
+* [Support](# "Support")
+    
+    * [Support Center](https://www.belkin.com/support-center/ "Support Center")
+    * [Register a Screen Protector](https://www.belkin.com/support/register-a-screen-protector/ "Register a Screen Protector")
+    * [Register a Product](https://www.belkin.com/product-registration/ "Register a Product")
+    * [Online Order Help](https://www.belkin.com/support-article/?articleNum=80153 "Online Order Help")
+    * [Warranty Exchange](https://www.belkin.com/support/warranty-exchange/ "Warranty Exchange")
+    * [Belkin Rewards FAQ](https://www.belkin.com/support-article/?articleNum=335504 "Belkin Rewards FAQ")
+    
 
 * * [Sign Up/Sign In](https://www.belkin.com/login/)
     * [Where to buy](https://www.belkin.com/where-to-buy/?id=online "Where to buy")
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dwa011b219/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw119f0893/images/globe-white.svg) United States
 
 Change region
 
@@ -230,13 +223,16 @@ Your location
 * [Hong Kong (English)](https://www.belkin.com/hk/en/)
 
 * [India](https://www.belkin.com/in/home/)
+* [Indonesia](https://www.belkin.com/id/home/)
 * [Japan](https://www.belkin.com/jp/home)
 * [Korea](https://www.belkin.com/kr/home/)
-* [Malaysia](https://www.belkin.com/my/home)
 
+* [Malaysia](https://www.belkin.com/my/home)
 * [Philippines](https://www.belkin.com/ph/home/)
 * [Singapore](https://www.belkin.com/sg/home/)
 * [Thailand](https://www.belkin.com/th/home/)
+
+* [Vietnam](https://www.belkin.com/vn/home/)
 
 * [France](https://www.belkin.com/fr/home/)
 * [Germany](https://www.belkin.com/de/home/)
@@ -294,7 +290,7 @@ Email
 
 Submit
 
-  ![man sitting on stairs using a laptop](/on/demandware.static/Sites-BELKUS-Site/-/default/dw777f3f81/images/1x1.png "man sitting on stairs using a laptop")
+  ![man sitting on stairs using a laptop](/on/demandware.static/Sites-BELKUS-Site/-/default/dw553b7a99/images/1x1.png "man sitting on stairs using a laptop")
 
 ![](https://www.belkin.com/on/demandware.static/-/Library-Sites-Belkin-Shared-Library/default/dw18cac008/img/logos/belkin-wemo-logo.png)
 
@@ -362,7 +358,7 @@ To encourage a healthy working relationship with the security research community
 * Perform security tests on their own Belkin products.
 * Perform security tests on Belkin products with the consent of the owner of the product.
 
-![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw2aa2799c/images/brand/belkin_logo.svg)
+![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw84296564/images/brand/belkin_logo.svg)
 
 Welcome. Would you like to be redirected to the Belkin GB website?
 
@@ -376,7 +372,7 @@ NO
 
  Save Preferences
 
-[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw53091551/images/brand/belkin-logo-white-plain.svg)](https://www.belkin.com/ "Belkin US Home")
+[![Belkin US](/on/demandware.static/Sites-BELKUS-Site/-/default/dw64cd0cf2/images/brand/belkin-logo-white-plain.svg)](https://www.belkin.com/ "Belkin US Home")
 
 Account
 
@@ -393,7 +389,7 @@ Products
 * [Adapters](https://www.belkin.com/products/adapters/)
 * [AirTag Accessories](https://www.belkin.com/products/airtag-accessories/)
 * [Computer Accessories](https://www.belkin.com/products/computer-accessories/)
-* [Tablet & Phone Accessories](https://www.belkin.com/products/vision-pro-phone-tablet-accessories/)
+* [Tablet & Phone Accessories](https://www.belkin.com/products/tablet-apple-vision-pro-accessories/)
 
 Company
 
@@ -470,7 +466,7 @@ Your selection has been submitted.
 
 © Belkin 2024  |  All Rights Reserved | [Legal & Privacy](https://www.belkin.com/legal/) | [Your Privacy Choices](#)
 
- ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dwa011b219/images/globe-white.svg) United States
+ ![Commerce Cloud Storefront Reference Architecture](/on/demandware.static/Sites-BELKUS-Site/-/default/dw119f0893/images/globe-white.svg) United States
 
 Change region
 
@@ -482,13 +478,16 @@ Your location
 * [Hong Kong (English)](https://www.belkin.com/hk/en/)
 
 * [India](https://www.belkin.com/in/home/)
+* [Indonesia](https://www.belkin.com/id/home/)
 * [Japan](https://www.belkin.com/jp/home)
 * [Korea](https://www.belkin.com/kr/home/)
-* [Malaysia](https://www.belkin.com/my/home)
 
+* [Malaysia](https://www.belkin.com/my/home)
 * [Philippines](https://www.belkin.com/ph/home/)
 * [Singapore](https://www.belkin.com/sg/home/)
 * [Thailand](https://www.belkin.com/th/home/)
+
+* [Vietnam](https://www.belkin.com/vn/home/)
 
 * [France](https://www.belkin.com/fr/home/)
 * [Germany](https://www.belkin.com/de/home/)
