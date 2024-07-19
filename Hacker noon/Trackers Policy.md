@@ -1,6 +1,6 @@
 ![Search icon](https://hackernoon.imgix.net/search-new.png?w=19&h=19)
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27205%27%20height=%2730%27/%3e)![Hackernoon logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27248%27%20height=%2740%27/%3e)![Hackernoon logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Hackernoon logo](https://hackernoon.imgix.net/hn-logo.png?auto=format&fit=max&w=640)
 
