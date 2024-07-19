@@ -2,15 +2,7 @@
 
 [](https://ethereum.org/en/)
 
-* Learn
-* Use
-* Build
-* Participate
-* Research
-
 Search
-
-Languages EN
 
 1. [Home](https://ethereum.org/en/)/
 2. [Cookie policy](https://ethereum.org/en/cookie-policy/)
@@ -54,7 +46,7 @@ YesNo
     
     * [Cookie Policy](#cookie-policy)
 
-Website last updated: June 19, 2024
+Website last updated: July 10, 2024
 
 Go to top
 
