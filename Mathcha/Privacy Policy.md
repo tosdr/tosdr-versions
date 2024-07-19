@@ -71,7 +71,7 @@ We use cookies to understand and save your preferences for future visits and com
 
 In matters not covered by this Privacy policy, the [Terms of Service](https://www.mathcha.io/terms-of-service) are applicable.
 
-2018-2022 Mathcha.io  
+2018-2023 Mathcha.io  
 team@mathcha.io  
   
 [Privacy Policy](https://www.mathcha.io/privacy-policy)  
