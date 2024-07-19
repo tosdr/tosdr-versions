@@ -96,7 +96,7 @@ Terms of Service
 
 Please note: The official text is the English version of the FreeConferenceCall.com Terms of Service.
 
-**Last Updated: April 2024**
+**Last Updated: July 2024**
 
 **BY CLICKING AND USING YOU AGREE:** The Company is providing you software and services according to the deal we strike below. This is our contract. We should both follow it.
 
@@ -150,7 +150,7 @@ System Requirements. Use of the Services requires one or more compatible devices
     
 3. **TECHNICAL IMPROVEMENT:** From time to time, Company may need to perform maintenance on or upgrade the Software, Products or Company Websites or the underlying infrastructure that enables you to use the Software, Products or Company Websites. This may require Company to temporarily suspend or limit your use of some or all of the Software, Products or Company Websites until such time as this maintenance and/or upgrade can be completed. To the extent possible and unless an intervention is urgently required, Company will publish the time and date of such suspension or limitation on the Company Website in advance. You will not be entitled to claim damages for such suspension or limitation of the use of any Software, Product or Company Website.
     
-4. **SMS OPT-IN:** You agree that, if you have provided a phone number, from time to time Company may send SMS messages to the number provided. Standard messaging rates apply. SMS opt-in will not be shared with any third parties.
+4. **SMS OPT-IN:** You agree that, if you have provided a phone number and opted in to receive messages, from time to time Company may send SMS messages to the number provided. Standard message and data rates may apply. SMS opt-in will not be shared with any third parties. Reply STOP to unsubscribe. Reply HELP for help and customer care details.
     
 5. **NO ACCESS TO EMERGENCY SERVICE:** Neither the Products nor the Software are intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care unit or any other kind of services that connect a user to emergency services personnel or public safety answering points (“Emergency Services”). There are important differences between traditional telephone services and the Products. You acknowledge and agree that: (i) Company is not required to offer access to Emergency Services under any applicable local and/or national rules, regulations or law; (ii) it is your responsibility to purchase, separately from the Products, traditional wireless (mobile) or fixed line telephone services that offer access to Emergency Services, and (iii) the Software and the Products are not a replacement for your primary telephone service.
     
