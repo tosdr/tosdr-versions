@@ -22,7 +22,7 @@
         * [To digital equality](https://www.orange.com/en/oranges-commitment-digital-equality)
         * [To building a safer digital world](https://www.orange.com/en/commitments/oranges-commitment/to-building-a-society-based-on-trust)
         * [To supporting a responsible economy](https://www.orange.com/en/oranges-commitment-responsible-business)
-        * [Our purpose](https://www.orange.com/en/engagements/our-purpose-compass-guides-all-our-future-actions)
+        * [Our purpose](https://www.orange.com/en/commitments/our-purpose-the-compass-that-guides-our-actions)
     * Social responsibility
         * Social responsibility
         * [Our contribution to the Sustainable Development Goals](https://www.orange.com/en/commitments/our-contribution-to-sustainable-development-goals)
@@ -112,7 +112,7 @@
     
       [Contacts](https://www.orange.com/en/contacts)
     
-* [Careers](https://www.orange.com/en/careers)
+* [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
 * [Magazines](https://www.orange.com/en/magazines)
 
