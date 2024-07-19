@@ -255,6 +255,7 @@ You are here:
 * [Home](https://www.amplifiedit.com/home-old-2-2/)
 * [Contact Us](https://www.amplifiedit.com/contact-us/)
 * [Privacy Notice](https://www.cdw.com/content/cdw/en/terms-conditions/privacy-notice/education-privacy-disclosures.html)
+* [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes)
 
 © 2023 by Amplified IT LLC
 
