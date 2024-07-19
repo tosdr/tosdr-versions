@@ -12,6 +12,7 @@
     * [Agriculture](https://ag.dji.com/?site=brandsite&from=nav)
     * [DJI Delivery](https://www.dji.com/uk/delivery?site=brandsite&from=nav)
     * [DJI Automotive](https://auto.dji.com/?site=brandsite&from=nav)
+    * [Drive System](https://www.dji.com/uk/avinox?site=brandsite&from=nav)
     
 * Explore
     
@@ -562,11 +563,11 @@ You may enroll in or withdraw from our financial incentive program at any time b
 
 For questions regarding this California Privacy Notice, contact us by email at [support@privacy.dji.com](mailto:support@privacy.dji.com), or in writing at SZ DJI Technology Co., Ltd.14th Floor, West Wing, Skyworth Semiconductor Design Building, No.18 Gaoxin South 4th Ave, Nanshan District, Shenzhen, China, 518057.
 
-Shop with DJI Store
+Only in the DJI Store App
 
-Get 1% DJI Credit Rewards, Free Shipping on Orders Over USD $149, 14-Day Returns, and other exclusive official offers.
+Try Virtual Flight online for free, and enjoy convenient one-stop device services.
 
-[Shop Now](https://store.dji.com/)
+[Download App](https://plus.dji.com/apps/download?utm_source=OfficialSite&utm_medium=footer&utm_campaign=app_download)
 
 ### Thanks for signing up!
 
