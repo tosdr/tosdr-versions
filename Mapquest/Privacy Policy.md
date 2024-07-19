@@ -378,6 +378,6 @@ Our contact details are shown below:
 
 #### Legal
 
-[Privacy Policy](https://system1.com/terms/privacy-policy) [Terms](https://system1.com/terms/terms-of-use) [CMP](https://system1.com/advertisers) [Healthcare Plan MRFs](https://www.cigna.com/legal/compliance/machine-readable-files)
+[Privacy Policy](https://system1.com/terms/privacy-policy) [Terms](https://system1.com/terms/terms-of-use) [CMP](https://system1.com/advertisers)
 
 Copyright © 2024 System1. All Rights Reserved.
