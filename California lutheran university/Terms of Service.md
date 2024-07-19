@@ -42,7 +42,6 @@ Search CLU:  Go
     * [Academic Centers](https://www.callutheran.edu/academics/centers-institutes.html)
     * [Education Abroad](https://www.callutheran.edu/students/education-abroad/)
     * [Summer Courses](https://www.callutheran.edu/students/summer/)
-    * [Commencement 2024](https://www.callutheran.edu/commencement/)
 * [Admission & Aid](https://www.callutheran.edu/admission/) Show Admission & Aid Menu
     
     * [Apply Online](https://www.callutheran.edu/admission/apply.html)
@@ -71,7 +70,6 @@ Search CLU:  Go
     
     * [CLUsports.com](https://www.clusports.com/)
     * [Become an Athlete](https://clusports.com/sports/2023/7/21/recruit-me.aspx)
-    * [Athletics Virtual Tour](https://www.callutheran.edu/tour/north-aerial)
     * [Hall of Fame](https://www.callutheran.edu/alumni/hof/)
     * [Victory Club](https://clusports.com/sports/2023/6/8/victory-club-index.aspx)
 * [Giving](https://www.callutheran.edu/giving/) Show Giving Menu
