@@ -53,101 +53,101 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 313 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 82 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
-* [Ahmet Umit Bayram](https://packetstormsecurity.com/files/authors/14177) 6 files
-* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 6 files
-* [Amit Roy](https://packetstormsecurity.com/files/authors/17179) 4 files
-* [Furkan Eren Tetik](https://packetstormsecurity.com/files/authors/17171) 4 files
-* [ron190](https://packetstormsecurity.com/files/authors/15365) 4 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 3 files
-* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 3 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 256 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 87 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 31 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
+* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 8 files
+* [Sina Kheirkhah](https://packetstormsecurity.com/files/authors/13586) 7 files
+* [Rodolfo Tavares](https://packetstormsecurity.com/files/authors/14480) 4 files
+* [bRpsd](https://packetstormsecurity.com/files/authors/12095) 3 files
+* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 3 files
+* [h00die-gr3y](https://packetstormsecurity.com/files/authors/16423) 2 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
-[AMD Investigating Breach Claims After Hacker Offers To Sell Data](https://packetstormsecurity.com/news/view/36013/AMD-Investigating-Breach-Claims-After-Hacker-Offers-To-Sell-Data.html)
+[MarineMax Notifying 123,000 Of Data Breach](https://packetstormsecurity.com/news/view/36125/MarineMax-Notifying-123-000-Of-Data-Breach.html)
 
-Posted [Jun 19, 2024](https://packetstormsecurity.com/news/date/2024-06-19/ "11:27:01 UTC")
+Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:57:17 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36013/) | [View](https://www.securityweek.com/amd-investigating-breach-claims-after-hacker-offers-to-sell-data/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36125/) | [View](https://www.securityweek.com/marinemax-notifying-123000-of-data-breach-following-ransomware-attack/)
 
-[Astronomers Witness A Supermassive Black Hole Roaring To Life](https://packetstormsecurity.com/news/view/36012/Astronomers-Witness-A-Supermassive-Black-Hole-Roaring-To-Life.html)
+[Recent Adobe Commerce Vulnerability Exploited In Wild](https://packetstormsecurity.com/news/view/36124/Recent-Adobe-Commerce-Vulnerability-Exploited-In-Wild.html)
 
-Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:44 UTC")
+Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:57:14 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [space](https://packetstormsecurity.com/news/tags/space)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [adobe](https://packetstormsecurity.com/news/tags/adobe)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36012/) | [View](https://gizmodo.com/supermassive-black-hole-awakens-real-time-1851544260)
+[Favorite](https://packetstormsecurity.com/news/favorite/36124/) | [View](https://www.securityweek.com/recent-adobe-commerce-vulnerability-exploited-in-wild/)
 
-[Change Healthcare Attack Financial Support Ends](https://packetstormsecurity.com/news/view/36011/Change-Healthcare-Attack-Financial-Support-Ends.html)
+[Pentagon Leaker Jack Teixeira To Face Military Court-Martial](https://packetstormsecurity.com/news/view/36123/Pentagon-Leaker-Jack-Teixeira-To-Face-Military-Court-Martial.html)
 
-Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:43 UTC")
+Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:57:06 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [military](https://packetstormsecurity.com/news/tags/military)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36011/) | [View](https://www.theregister.com/2024/06/18/support_ends_change_healthcare/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36123/) | [View](https://www.securityweek.com/pentagon-leaker-jack-teixeira-to-face-military-court-martial-air-force-says/)
 
-[Encryption Is Deeply Threatening To Power](https://packetstormsecurity.com/news/view/36010/Encryption-Is-Deeply-Threatening-To-Power.html)
+[Malware Scammers Gearing Up For 2024 Summer Olympics](https://packetstormsecurity.com/news/view/36122/Malware-Scammers-Gearing-Up-For-2024-Summer-Olympics.html)
 
-Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:38 UTC")
+Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:56:56 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [spyware](https://packetstormsecurity.com/news/tags/spyware), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [france](https://packetstormsecurity.com/news/tags/france)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36010/) | [View](https://www.theguardian.com/technology/article/2024/jun/18/encryption-is-deeply-threatening-to-power-meredith-whittaker-of-messaging-app-signal)
+[Favorite](https://packetstormsecurity.com/news/favorite/36122/) | [View](https://www.scmagazine.com/news/malware-scammers-gearing-up-for-2024-summer-olympics-in-paris)
 
-[New TikTag Attack Targets Arm CPU Security Feature](https://packetstormsecurity.com/news/view/36009/New-TikTag-Attack-Targets-Arm-CPU-Security-Feature.html)
+[Vulnerability In Cisco Smart Software Manager Lets Attacker Change Any User Password](https://packetstormsecurity.com/news/view/36121/Vulnerability-In-Cisco-Smart-Software-Manager-Lets-Attacker-Change-Any-User-Password.html)
 
-Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:33 UTC")
+Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:56:47 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password), [cisco](https://packetstormsecurity.com/news/tags/cisco)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36009/) | [View](https://www.securityweek.com/new-tiktag-attack-targets-arm-cpu-security-feature/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36121/) | [View](https://arstechnica.com/security/2024/07/vulnerability-in-cisco-smart-software-manager-lets-attackers-change-any-user-password/)
 
-[New BadSpace Backdoor Deployed In Drive-By Attacks](https://packetstormsecurity.com/news/view/36008/New-BadSpace-Backdoor-Deployed-In-Drive-By-Attacks.html)
+[FIN7 Is Peddling EDR-Nerfing Malware To Ransomware Operators](https://packetstormsecurity.com/news/view/36120/FIN7-Is-Peddling-EDR-Nerfing-Malware-To-Ransomware-Operators.html)
 
-Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:44:26 UTC")
+Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:56:41 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36008/) | [View](https://www.securityweek.com/new-badspace-backdoor-deployed-in-drive-by-attacks/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36120/) | [View](https://www.theregister.com/2024/07/18/russias_fin7_is_peddling_its/)
 
-[How ShinyHunters Hackers Allegedly Pilfered Ticketmaster Data From Snowflake](https://packetstormsecurity.com/news/view/36007/How-ShinyHunters-Hackers-Allegedly-Pilfered-Ticketmaster-Data-From-Snowflake.html)
+[Iran Phishes Israeli Orgs With Custom BugSleep Backdoor](https://packetstormsecurity.com/news/view/36119/Iran-Phishes-Israeli-Orgs-With-Custom-BugSleep-Backdoor.html)
 
-Posted [Jun 18, 2024](https://packetstormsecurity.com/news/date/2024-06-18/ "13:38:37 UTC")
+Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:16:07 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [phish](https://packetstormsecurity.com/news/tags/phish), [iran](https://packetstormsecurity.com/news/tags/iran), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36007/) | [View](https://arstechnica.com/security/2024/06/how-shinyhunters-hackers-allegedly-pilfered-ticketmaster-data-from-snowflake/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36119/) | [View](https://www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/)
 
-[Notorious Cyber Gang UNC3944 Attacks vSphere And Azure To Run VMs Inside Victims' Infrastructure](https://packetstormsecurity.com/news/view/36006/Notorious-Cyber-Gang-UNC3944-Attacks-vSphere-And-Azure-To-Run-VMs-Inside-Victims-Infrastructure.html)
+[Ransomware Continues To Pile On Costs For Critical Infrastructure Victims](https://packetstormsecurity.com/news/view/36118/Ransomware-Continues-To-Pile-On-Costs-For-Critical-Infrastructure-Victims.html)
 
-Posted [Jun 17, 2024](https://packetstormsecurity.com/news/date/2024-06-17/ "15:00:56 UTC")
+Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:16:03 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36006/) | [View](https://www.theregister.com/2024/06/17/unc3944_scattered_spider_tactics_change/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36118/) | [View](https://www.theregister.com/2024/07/17/ransomware_continues_to_pile_on/)
 
-[UK Man Suspected Of Being Scattered Spider Leader Arrested](https://packetstormsecurity.com/news/view/36005/UK-Man-Suspected-Of-Being-Scattered-Spider-Leader-Arrested.html)
+[Atlassian Patches High Severity Vulns In Bamboo, Confluence, Jira](https://packetstormsecurity.com/news/view/36117/Atlassian-Patches-High-Severity-Vulns-In-Bamboo-Confluence-Jira.html)
 
-Posted [Jun 17, 2024](https://packetstormsecurity.com/news/date/2024-06-17/ "15:00:52 UTC")
+Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:15:59 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [britain](https://packetstormsecurity.com/news/tags/britain)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36005/) | [View](https://www.securityweek.com/uk-man-suspected-of-being-scattered-spider-leader-arrested/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36117/) | [View](https://www.securityweek.com/atlassian-patches-high-severity-vulnerabilities-in-bamboo-confluence-jira/)
 
-[Microsoft Patches Zero-Click Outlook Vulnerability](https://packetstormsecurity.com/news/view/36004/Microsoft-Patches-Zero-Click-Outlook-Vulnerability.html)
+[Rite Aid Says Hack Impacts 2.2 Million People](https://packetstormsecurity.com/news/view/36116/Rite-Aid-Says-Hack-Impacts-2.2-Million-People.html)
 
-Posted [Jun 17, 2024](https://packetstormsecurity.com/news/date/2024-06-17/ "15:00:49 UTC")
+Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:15:55 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [email](https://packetstormsecurity.com/news/tags/email), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36004/) | [View](https://www.securityweek.com/microsoft-patches-zero-click-outlook-vulnerability-that-could-soon-be-exploited/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36116/) | [View](https://www.securityweek.com/rite-aid-says-hack-impacts-2-2m-people-as-ransomware-gang-threatens-to-leak-data/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2488665865&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2488665865.1718917536.1718917536.1718917536.1%3B%2B__utmz%3D32867617.1718917536.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2596959511&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2596959511.1721428263.1721428263.1721428263.1%3B%2B__utmz%3D32867617.1721428263.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
