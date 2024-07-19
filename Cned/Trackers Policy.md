@@ -57,15 +57,23 @@ Fermer le menu de navigation[![Page d'accueil du Cned](/themes/custom/ud_cned/di
 * [Pour les établissements](https://www.cned.fr/etablissements)
 * [Pour les professionnels](https://www.cned.fr/professionnels)
 
-* Qui sommes-nous ?Qui sommes-nous ?
+* Qui sommes-nous ?
+    -----------------
+    
+    Qui sommes-nous ?
     
     * [En bref](https://www.cned.fr/le-cned-en-bref)
-    * [Notre histoire](https://www.cned.fr/l-histoire-du-cned)
-    * [L'international](https://www.cned.fr/international)
+    * [Notre histoire](https://www.cned.fr/le-cned-en-bref/l-histoire-du-cned)
+    * [L'international](https://www.cned.fr/le-cned-en-bref/le-cned-a-l-international)
+    * [Notre gouvernance](https://www.cned.fr/le-cned-en-bref/notre-gouvernance)
+    * [Nos implantations](https://www.cned.fr/le-cned-en-bref/nos-implantations)
     * [Nos publications](https://www.cned.fr/nos-publications)
     * [Financer sa formation](https://www.cned.fr/financer-sa-formation)
     
-* Obtenir de l'aideObtenir de l'aide
+* Obtenir de l'aide
+    -----------------
+    
+    Obtenir de l'aide
     
     * [Nous contacter](https://www.cned.fr/nous-contacter)
     * [FAQ](https://www.cned.fr/faq)
@@ -73,7 +81,10 @@ Fermer le menu de navigation[![Page d'accueil du Cned](/themes/custom/ud_cned/di
     * [Réclamations | Recours](https://www.cned.fr/reclamations-recours-usagers-ou-clients)
     * [Médiation](https://www.cned.fr/la-mediation-pour-le-cned)
     
-* Nos fils d'actualitésNos fils d'actualités
+* Nos fils d'actualités
+    ---------------------
+    
+    Nos fils d'actualités
     
     * [École](https://www.cned.fr/l-actualite-de-la-formation/blog-primaire)
     * [Collège](https://www.cned.fr/l-actualite-de-la-formation/blog-college)
@@ -482,15 +493,23 @@ Retrouvez-nous sur
 
 ![République Française. Liberté, Égalité, Fraternité](/themes/custom/ud_cned/dist/img/gouv-logo.svg) [![Qualiopi, processus certifié. République Française. La certification qualité a été délivrée au titre de la catégorie d'action suivante : actions de formation](/themes/custom/ud_cned/dist/img/qualiopi-logo.svg)](https://www.cned.fr/sites/cned.fr/files/2024-02/4202258-cned-certificat-rnq-21092021pdf.pdf)
 
-* Qui sommes-nous ? Qui sommes-nous ?
+* Qui sommes-nous ?
+    -----------------
+    
+    Qui sommes-nous ?
     
     * [En bref](https://www.cned.fr/le-cned-en-bref)
-    * [Notre histoire](https://www.cned.fr/l-histoire-du-cned)
-    * [L'international](https://www.cned.fr/international)
+    * [Notre histoire](https://www.cned.fr/le-cned-en-bref/l-histoire-du-cned)
+    * [L'international](https://www.cned.fr/le-cned-en-bref/le-cned-a-l-international)
+    * [Notre gouvernance](https://www.cned.fr/le-cned-en-bref/notre-gouvernance)
+    * [Nos implantations](https://www.cned.fr/le-cned-en-bref/nos-implantations)
     * [Nos publications](https://www.cned.fr/nos-publications)
     * [Financer sa formation](https://www.cned.fr/financer-sa-formation)
     
-* Obtenir de l'aide Obtenir de l'aide
+* Obtenir de l'aide
+    -----------------
+    
+    Obtenir de l'aide
     
     * [Nous contacter](https://www.cned.fr/nous-contacter)
     * [FAQ](https://www.cned.fr/faq)
@@ -498,7 +517,10 @@ Retrouvez-nous sur
     * [Réclamations | Recours](https://www.cned.fr/reclamations-recours-usagers-ou-clients)
     * [Médiation](https://www.cned.fr/la-mediation-pour-le-cned)
     
-* Nos fils d'actualités Nos fils d'actualités
+* Nos fils d'actualités
+    ---------------------
+    
+    Nos fils d'actualités
     
     * [École](https://www.cned.fr/l-actualite-de-la-formation/blog-primaire)
     * [Collège](https://www.cned.fr/l-actualite-de-la-formation/blog-college)
