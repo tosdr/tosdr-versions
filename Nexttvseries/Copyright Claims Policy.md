@@ -103,7 +103,7 @@ Please allow 1-3 business days for an email response. Note that emailing your co
 [‘Os Eleitos’ Release Date, Trailer, Cast,…](https://nexttvseries.com/os-eleitos-release-date-trailer-cast/)
 ------------------------------------------------------------------------------------------------------------
 
-[](# "Scroll back to top")[Next TV Series](https://nexttvseries.com/?blackhole=a6380c990a "Do NOT follow this link or you will be banned from the site!")
+[](# "Scroll back to top")[Next TV Series](https://nexttvseries.com/?blackhole=3daa93f15c "Do NOT follow this link or you will be banned from the site!")
 
 [About Us](https://nexttvseries.com/about-us/) | [Privacy Policy](https://nexttvseries.com/privacy-policy/) | [Contact Us](https://nexttvseries.com/contact-us/) | [DMCA](https://nexttvseries.com/dmca/) | [Advertise](https://nexttvseries.com/advertise-with-us/)
 
@@ -112,5 +112,3 @@ Search for:
                                              
 
 ![](https://go.ezodn.com/utilcave_com/ezoic.png "ezoic")
-
-x
