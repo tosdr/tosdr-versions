@@ -20,29 +20,106 @@ Check Availability - Mega menu (Upper)
 * [Franchise Info 1-866-877-3033](tel:1-866-877-3033)
 * CHECK AVAILABILITY
 
-Main navigation
-
-* [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
-* [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
+* [For Home](https://www.1800gotjunk.com/us_en) Toggle submenu
+    
+    ### 
+    
+    Desktop Title
+    
+    For your Home
+    
+    Desktop Description
+    
+    Fast, easy Junk Removal - relax and let us take care of everything
+    
+    [Go to Home Solutions](https://www.1800gotjunk.com/us_en)
+    
+    ### [Home Solutions](https://www.1800gotjunk.com/us_en)
+    
+    Mobile Description
+    
+    Fast, easy Junk Removal - relax and let us take care of everything
+    
+    * Resources
+        
+        * [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
+            
+        * [Locations](https://www.1800gotjunk.com/us_en/locations)
+            
+        * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
+            
+        * [Blog](https://www.1800gotjunk.com/us_en/blog)
+            
+        * [FAQ](https://www.1800gotjunk.com/us_en/frequently-asked-questions)
+            
+        
+    
+    * How we can help
+        
+        * [Moving](https://www.1800gotjunk.com/us_en/what-we-do/pre-post-move-clean-outs)
+            
+        * [Renovation](https://www.1800gotjunk.com/us_en/what-we-do/residential-construction-renovation-clean-up)
+            
+        * [Storage](https://www.1800gotjunk.com/us_en/what-we-do/storage-unit-clean-outs)
+            
+        * [Disasters](https://www.1800gotjunk.com/us_en/what-we-do/emergency-disaster-clean-up)
+            
+        
+    
+* [For Business](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services) Toggle submenu
+    
+    ### 
+    
+    Desktop Title
+    
+    For your Business
+    
+    Desktop Description
+    
+    Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
+    
+    [Go To Business Solutions](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services)
+    
+    ### [Business Solutions](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services)
+    
+    Mobile Description
+    
+    Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
+    
+    * Resources
+        
+        * [Account Request Form](https://www.1800gotjunk.com/us_en/Commercial/contact_national_accounts)
+            
+        * [Locations](https://www.1800gotjunk.com/us_en/locations)
+            
+        * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
+            
+        * [Blog](https://www.1800gotjunk.com/us_en/blog)
+            
+        * [FAQ](https://www.1800gotjunk.com/us_en/frequently-asked-questions)
+            
+        
+    
+    * How we can help
+        
+        * [Property Management](https://www.1800gotjunk.com/us_en/Commercial/Property_Management)
+            
+        * [Office Cleanouts](https://www.1800gotjunk.com/us_en/Commercial/office_cleanouts)
+            
+        * [Real Estate](https://www.1800gotjunk.com/us_en/Commercial/Real_Estate)
+            
+        * [Renovation](https://www.1800gotjunk.com/us_en/Commercial/Restoration_and_Renovation)
+            
+        * [Store Remodel](https://www.1800gotjunk.com/us_en/Commercial/Retail/Store_Remodel)
+            
+        
+    
 * [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
-* [Start A Franchise](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
-* More
-
-United States Switch Region
-
-* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
-* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
-* [Australia](https://www.1800gotjunk.com.au/)
-
-United States
-
-* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
-* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
-* [Australia](https://www.1800gotjunk.com.au/)
-
-search
+    
+* [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
+    
+* [Franchising](https://www.1800gotjunk.com/us_en/franchise/business-opportunity)
+    
 
 Sub Menu
 
@@ -61,8 +138,8 @@ Our call center is busier than usual at the moment. For immediate service, pleas
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
 
-Privacy Policy
-==============
+O2E Privacy Notice
+==================
 
 Check Availability
 
@@ -83,211 +160,251 @@ Book Online Mobile Menu
 * [Book Online](https://request.1800gotjunk.com/us_en/onlinebooking)
 * [Call](tel://1-800-619-2981/)
 
-Privacy Policy and Website Terms of Use
-=======================================
+O2E Privacy Notice
+==================
 
-1\. Application of Privacy Policy
+**Last update:** 2024-07-16           
+**Effective date**: 2024-07-16
 
-This Privacy Policy is for O2E Brands Inc. and its various subsidiary and affiliated entities, including, but not limited to, the franchisor entities of the 1-800-GOT-JUNK?, WOW 1 DAY PAINTING, and Shack Shine franchise systems has been updated as of December 13, 2023.
+  
+O2E Brands Inc., and its affiliates and subsidiaries, together with the franchisor entities of the 1-800-GOT-JUNK?, WOW 1 DAY PAINTING, and SHACK SHINE, franchise systems (“**O2E**,” “**we**,” “**us**,” or “**our**”) respect your privacy. This Privacy Notice describes the processing of Personal Information (defined below) that is provided, collected, used or disclosed in the course of providing our products or services to you (“**Services**”) and on the websites, applications, social media pages and other platforms that link to this Privacy Notice (together “**Websites**”), including when you apply for a job with us. It also describes the rights you may have under applicable laws.            
+This Privacy Notice is available to consumers with disabilities. To access this Privacy Notice in an alternative downloadable format, [please click here](https://www.1800gotjunk.com/sites/default/files/2024%20Privacy%20Notice%20-%20O2E%20Brands%20-%20ENGLISH_0.pdf)
 
-#### 2\. Introduction
+####   
+1\. Personal information we collect
 
-Protecting your privacy is important to O2E Brands Inc. and its various subsidiaries and affiliated brands as amended from time to time (collectively, “we”, “us” or “our”). We are committed to maintaining your confidence and trust in all of our activities with you. Our senior management and Legal Department are accountable for the operation of our privacy program and compliance with this privacy policy (the “Privacy Policy”).
+  
+We may collect a range of Personal Information. “Personal Information” means information that uniquely identifies, relates to, describes, or is reasonably capable of being associated, directly or indirectly, with or linked to an individual.           
+  
+The types of Personal Information we collect may include:           
+  
+**Contact Information** – If you submit an inquiry, register for an account, or provide information on or through our Services, we may collect your contact information. This may include your name, address, email address, demographic information, and phone number.           
+  
+**Commercial Information** – This includes information about purchases, information about subscriptions, Services you have shown interest in, and other commercial information. If you make any purchases, we will collect your financial information, including your name and payment information. We may use a third-party service, such as Shop Pay, Amazon Pay, Google Pay, Apple Pay, AfterPay, PayPal, or a social media platform, to collect this information.           
+  
+**Usage Information** – When you use our Websites, our servers may automatically record information, including your Internet Protocol address (IP Address), geolocation of your device, browser type, referring URLs (e.g., the website you visited before coming to our Website), domain names associated with your Internet service provider, or other information regarding your interaction with our Website.           
+  
+**Professional or Employment-related Information** – If you apply for a job with us, we will collect your employment and work history, as well as other Personal Information related to your potential employment. This may include your education and employment history, address and contact information, demographic information, and any other information included in your resume or application.           
+  
+**Communication Information** – We may collect the contents of your communications with us, whether via email, chat functionality, social media, telephone or otherwise, and inferences we may make from other Personal Information we collect. Where permitted by applicable law, we may collect and maintain records of calls and chats with our agents, representatives, or employees via message, chat, post, or similar functionality.
 
-Below is our Privacy Policy governing our collection, use, disclosure and retention of personal information about you that you provide while visiting our websites (the “Site” or “Sites”), booking a service with us, or otherwise corresponding with us.
+####   
+2\. How do we collect Personal Information?
 
-#### 3\. Identifying Purposes
+  
+To the extent permitted by applicable law, we may collect Personal Information:           
+  
+**Directly From You** – We collect Personal Information that you provide to us, for example, if you choose to contact us or request or purchase Services or information from us, or if you create an account with us.           
+  
+**Via Third Parties** – We may collect Personal Information about you via third parties including, business partners, vendors, subcontractors, advertising networks, analytics providers, and search information providers.           
+  
+**Through Digital Tracking Technologies** – We use cookies and similar technologies such as pixels and web beacons to collect Personal Information related to your online activities, including information that may allow us to see your location. For additional information regarding our use of these technologies, see the Cookies and Tracking Technologies section below.
 
-_**Why do we collect and use your personal information?**_
+####   
+3\. How do we use Personal Information?
 
-We collect, use, disclose and retain personal information only for the purposes for which it was obtained or for purposes authorized or required by law. We will not collect, use, disclose or retain personal information for any other purposes unless your consent to do so is obtained.
+  
+To the extent permitted by applicable law, we may use Personal Information:           
+  
+**To provide and personalize our Services**, such as processing or fulfilling orders and transactions, offering or providing our Services, processing payments, providing customer service, maintaining or servicing accounts, verifying customer information, creating and maintaining business records, operating our franchise business, and undertaking or providing similar services.           
+  
+**For internal research and development**, such as testing and verifying the quality of our Services, improving the quality of our Services, and creating new Services.           
+  
+**For marketing**, such as sending information about our Services or those of our affiliates, business partners, or other third parties. This may include using your information to send you messages and notices, newsletters, surveys, promotions, or news about events.           
+  
+**For communicating with you**, such as responding to your questions and comments and notifying you of updates to our Services.           
+  
+**For legal, security, or safety reasons**, such as protecting our and our users’ safety, property, or rights, complying with legal requirements, enforcing our terms, conditions, and policies, detecting, preventing, and responding to security incidents, and protecting against malicious, deceptive, fraudulent, or illegal activity.           
+  
+**As part of a corporate transaction**, such as in connection with the sale of part or all of our assets or business, the acquisition of part or all of another business or another business’ assets, or another corporate transaction, including bankruptcy.           
+  
+**If you are applying for a position with us**, we may use your Personal Information for the following purposes. Please note that this Privacy Notice does not form part of any contract of employment offered to job applicants hired by O2E.           
+  
+**To Manage the Application Process**. We may use your Personal Information to process your job application, to verify the information you have provided in your application, to communicate with you regarding your application, to answer your questions regarding the application process and to confirm your eligibility for a position. We may also save your information for future job openings within O2E.           
+  
+**To Manage the Hiring Process**. We may use your Personal Information in the hiring process to conduct interviews and manage our hiring process. We may also use your Personal Information to perform background and reference checks, with your consent, if you are offered a position.           
+  
+**To Manage the Franchisee Application Process**. We may use your Personal Information to process your franchise application and to manage our franchise relationship with you.           
+  
+**Recruiting**. We may use Personal Information to communicate with you regarding the recruiting process, to learn where you heard about O2E, and to evaluate and improve our recruiting process.           
+  
+**To Communicate with You**. We may use your Personal Information to provide information to you, to respond to your questions, or to notify you of any changes or updates.           
+  
+**Other**. We may use your Personal Information as otherwise permitted or required by applicable law.
 
-We may collect personal information from you for the following purposes:
+####   
+4\. How do we communicate Personal Information?
 
-* To provide you with the service(s) you have requested;
-* To offer you additional products and services we believe you might be interested in; 
-* To administer and conduct customer satisfaction surveys to improve and manage our relationship with you;
-* To provide you with support and to respond to your inquiries, including to address your concerns and monitor and improve our level of service;
-* To inform you of new promotions, products and services offered by us;
-* To comply with legal obligations and regulatory requirements;
-* To detect security incidents and protect against malicious, deceptive, fraudulent or illegal activity;
-* to provide you with service notifications; and;
-* to provide you with franchise information.
+  
+We may disclose your Personal Information in the following circumstances:           
+  
+**Service Providers** – We may disclose your Personal Information with third-party service providers as necessary to enable them to support our Services or other aspects of our business.           
+  
+**Franchisees, Affiliates and Subsidiaries** – We may disclose your information to our franchisees and to the O2E family of companies for their and our business purposes and for marketing purposes, including to provide you information about the products or services we think may interest you and provide our Services.           
+  
+**Business Partners** – We may disclose Personal Information with trusted business partners or corporate affiliates. For example, we may disclose your Personal Information to a company whose products or services we think may be of interest to you or with which we co-sponsor a promotion or service.           
+  
+**Legal Obligation or Safety Reasons** – When we have a good faith belief that access, use, preservation or disclosure of Personal Information is reasonably necessary to (a) satisfy or comply with any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of any agreement you have with us, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, (d) support auditing and compliance functions, or (e) protect the rights, property, or safety of O2E, its users, or the public against harm.           
+  
+**Merger or Change of Control** – If we are involved in a merger, acquisition, or any other transaction involving a change of control in our business including but not limited to a bankruptcy or similar proceeding, Personal Information may be transferred along with the business. Where legally required, we will give you prior notice prior to such a transfer.           
+  
+**Other** – We may disclose your Personal Information as otherwise permitted or required by applicable law.
 
-_**Why do you share my personal information?**_
+####   
+5\. Cookies and Other Tracking Technologies
 
-We may share your personal information with our employees and business partners, and franchisees, only if needed to provide services to you or for the purposes described in this Privacy Policy.
+  
+Subject to applicable laws, we may use and may allow third parties to enable on our Websites, cookies and similar tracking technologies such as pixels, web beacons, and local storage to collect usage and browser information about how you use our Websites. We process the Personal Information collected through such technologies to help operate certain features of our Services, to enhance your experience through personalization, and to help us better understand the features of our Services that you and other users are most interested in. The Personal Information collected via these technologies may be shared with our third-party service providers, advertisers, and social media partners, in accordance with applicable laws.           
+  
+We may allow or enable third parties to collect Personal Information in order to provide their interest-based advertising services, and we use Google Ads and other third parties to serve ads for our Services across various websites. To opt in or opt out, as applicable, of this type of advertising by Google, to customize your ad preferences, or to limit Google’s collection or use of your data, visit Google’s Ad Settings and follow Google’s personalized ad opt-out instructions. Refusing to opt in or opting out will not affect your use of our Services.           
+  
+We use analytics services, including Google Analytics, to assist us with analyzing our Website traffic. These services utilize cookies and other technologies that collect your Personal Information. To learn more about how Google uses data, visit Google’s page on “How Google uses data when you use our partners’ websites or apps.” You may download the Google Analytics Opt-out Browser Add-on for each web browser you use, but this does not prevent the use of other analytics tools. To learn more about Google Analytics cookies, visit Google Analytics Cookie Usage on Websites.           
+  
+In order to manage your preferences with respect to these technologies, please visit our [“Cookie Preferences”](#cky-preference-center) page. In addition, most browsers provide you with the ability to block, delete, or disable cookies, and your mobile device may allow you to disable transmission of unique identifiers and location data. If you choose to reject cookies or block device identifiers, some features of our Services may not be available, or some functionality may be limited or unavailable. Please review the help pages of your browser or mobile device for assistance with changing your settings. We do not respond to Do Not Track (“DNT”) signals sent to us by your browser at this time.
 
-We also may share your personal information with the following entities:
+####   
+6\. How long do we keep Personal Information?
 
-* our affiliated companies;
-* unaffiliated service providers with whom we may subcontract, including website hosting companies, fulfillment companies, payment processing companies, and other third-party service providers;and
-* government agencies and law enforcement officials, when required to do so to respond to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  
+We will retain each category of your Personal Information for as long as necessary to fulfill the purposes described in the _How We Use Personal Information_ section above, unless otherwise required by applicable laws. Criteria we will use to determine how long we will retain your Personal Information include whether we need your Personal Information to provide you with our Services you have requested; we continue to have a relationship with you; you have requested information or Services from us; we have a legal right or obligation to continue to retain your Personal Information; we have an obligation to a third party that involves your Personal Information; our retention or recordkeeping policies and obligations dictate that we retain your Personal Information; we have an interest in providing you with Personal Information about our Services; and we have another business purpose for retaining your Personal Information.
 
-#### 4\. Limiting Collection, Use, Disclosure and Retention
+####   
+7\. How we protect your Personal Information?
 
-_**How much information do you collect from me?**_
+  
+We use commercially reasonable efforts to protect the confidentiality and security of Personal Information we process, including by maintaining appropriate administrative, technical, and physical safeguards that are designed to help protect Personal Information collected or received through our Websites or that you otherwise communicate to us.           
+We limit access to your Personal Information to our employees whom we reasonably believe need to come into contact with that information to provide our Services to you or in order to do their jobs.           
+We also implemented a comprehensive set of policies and practices to protect your Personal Information. These measures take into account the volume, sensitivity, intended use, and format of the information, and generally include the following:           
+ 
 
-We strive to limit the amount of personal information we collect to that necessary and appropriate for the identified purposes. We will not use or disclose your personal information for purposes other than those for which it was collected, except with your consent or as permitted or required by applicable law. Personal Information will only be retained for the period of time required to fulfill the purpose for which we collected it or as may be required by law.
+* A privacy framework governing the protection of Personal Information throughout its lifecycle. This framework defines, among other things, the roles and responsibilities of our personnel, provides a process for handling privacy complaints, and addresses the retention and destruction of Personal Information;
+* Other internal policies and procedures that define the roles and responsibilities of our personnel throughout the information life cycle and limit their access to such information on a “need-to-know” basis;
+* When information is collected or stored in electronic format, technical safeguards such as encryption, firewalls, passwords, antivirus software and similar measures;
+* A designated Privacy Officer to monitor compliance with applicable data protection laws; and
+* Employee privacy and data security training.
 
-#### 5\. Consent
+However, despite these efforts to store Personal Information in a secure operating environment, we cannot guarantee the security of Personal Information during its transmission or its storage on our systems.
 
-_**How do you obtain my consent?**_
+####   
+8\. Your Privacy Rights
 
-We need your consent to provide you with products or services. We will ask for consent to collect, use, disclose or retain your personal information. The exceptions to when we will ask for consent are outlined in this Privacy Policy, or when we are authorized or required by law. Consent can be express, implied/inferred, or given through an authorized representative such as a lawyer, agent, or broker.
+  
+Depending on where you live and subject to certain exceptions, you may have the following rights with respect to your Personal Information under applicable data protection laws:           
+  
+**Access** – You may have the right to know what Personal Information we have collected about you and to access such data.           
+  
+**Data Portability** – You may have the right to receive a copy of your Personal Information in a portable and/or readily usable format.           
+  
+**Deletion** – You may have the right to delete your Personal Information.           
+  
+**Correction** – You may have the right to correct inaccuracies in your Personal Information..           
+  
+**Consent withdrawal** – ​​If we require your consent to process your Personal Information, you may have the right to withdraw your consent from such processing. Such withdrawal of your consent may affect our ability to continue to provide you with our Services.           
+  
+**Opt out of certain processing** – You may have the right to: (a) opt out of the processing of your Personal Information for purposes of targeted advertising, (b) opt out of the sale or sharing of your Personal Information; (c) limit the use of your sensitive Personal Information (if applicable), and (d) opt out of the processing of your Personal Information for profiling in furtherance of decisions that produce legal or similarly significant effect concerning you.           
+  
+To opt out of marketing emails, please email us at legal-department@o2ebrands.com or by following the instructions included in the email or text correspondence. Please note that, even if you unsubscribe from certain correspondence, we may still need to contact you with important transactional or administrative information, as permitted by law. Additionally, if you withdraw your consent or object to the processing of your Personal Information, or if you choose not to provide certain Personal Information, we may be unable to provide some or all of our Services to you.           
+  
+To exercise any of these rights available to you, see the **Exercising Your Individual Privacy Rights** section below.
 
-Express consent may be given orally, in writing, or electronically. Implied consent is when we can reasonably infer consent from your circumstances. For example, when you provide us with your address, it is implied to be used to provide you with our services.
+####   
+9\. International use of our Services
 
-**All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, other than our affiliates and third party service providers.**
+  
+We and our service providers may process your Personal Information from time to time across borders, including in Canada and in the United States. The data protection laws of those other countries might be different from the laws of the jurisdiction in which you reside and might permit the government, government agencies, courts, law enforcement agencies and security authorities in those countries to access your Personal Information without notice. Any such transfers will be undertaken in accordance with this Privacy Notice and in compliance with applicable laws.
 
-#### SMS Terms of Service: 1-800-GOT-JUNK? - Short Code 85865
+####   
+10\. Children’s Privacy
 
-* When you opt-in to the [service](https://request.1800gotjunk.com/us_en/onlinebooking?page=step1), we will send you a message asking you to confirm your signup. Text YES to 85865 to receive 1-800-GOT-JUNK? Alerts. Message and data rates may apply. Message frequency will vary based on your use. Text "HELP" for help. Text "STOP" to cancel.
-* You can cancel this service at any time. Just text "STOP" to 85865. After you send the message "STOP" to us, we will send you a reply message to confirm that you have been unsubscribed. After this, you will no longer receive messages from us. If you want to join again, just sign up as you did the first time and we will start sending messages to you again.
-* If at any time you forget what keywords are supported, just text "HELP" to 85865. After you send the message "HELP" to us, we will respond with instructions on how to use our service as well as how to unsubscribe.
-* Participating carriers: AT&T, Verizon Wireless, Sprint, T-Mobile, U.S. Cellular, Boost Mobile, MetroPCS, Virgin Mobile, Alaska Communications Systems (ACS), Appalachian Wireless (EKN), Bluegrass Cellular, Cellular One of East Central, IL (ECIT), Cellular One of Northeast Pennsylvania, Cricket, Coral Wireless (Mobi PCS), COX, Cross, Element Mobile (Flat Wireless), Epic Touch (Elkhart Telephone), GCI, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri), Illinois Valley Cellular, Inland Cellular, iWireless (Iowa Wireless), Keystone Wireless (Immix Wireless/PC Man), Mosaic (Consolidated or CTC Telecom), Nex-Tech Wireless, NTelos, Panhandle Communications, Pioneer, Plateau (Texas RSA 3 Ltd), Revol, RINA, Simmetry (TMP Corporation), Thumb Cellular, Union Wireless, United Wireless, Viaero Wireless, and West Central (WCC or 5 Star Wireless).
-* T-Mobile is not liable for delayed or undelivered messages.
-* As always, message and data rates may apply for any messages sent to you from us and to us from you. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
-* For all questions about the services provided by this short code, you can send an email to customerservice@1800gotjunk.com (or call our toll free number - 1-888-556-4126).
+  
+We do not knowingly collect or solicit any Personal Information from children under the age of 16. In the event that we learn that we have collected Personal Information from a child, we will promptly take steps to delete that information. If you are a parent or legal guardian and think your child has given us their Personal Information, you can email us at legal-department@o2ebrands.com or contact us using the information listed in the _Contact Us_ section below.
 
-#### 6\. Your Privacy Rights - Data Subject Access Requests (DSAR)
+####   
+11\. Links to Third Party Websites
 
-_**Categories of Personal Information Collected**_
+  
+We are not responsible for the practices employed by any websites or services linked to or from our Services, including the information or content contained within them. We encourage you to investigate and ask questions before disclosing Personal Information to third parties, since any Personal Information disclosed will be subject to the applicable third party’s privacy notice.
 
-The personal information that we collect, or have collected from consumers in the past 12 months includes the following categories:
+####   
+12\. Notice to California Residents
 
-| Category | Examples | Collected |
-| --- | --- | --- |
-| Identifiers & Personal Information | Name, address, email, phone number, online identifier, Internet Protocol (IP) address | Yes |
-| Commercial information | Records of products or services purchased, obtained, or considered, or other purchasing or consuming histories | Yes |
-| Internet or other similar network activity | Information on a consumer’s interaction with a website or advertisement. | Yes |
-| Audio information | Call recordings | Yes |
-| Professional or employment-related information | Name, address, phone number, state identification, current or past job history, education | Yes |
+  
+This section applies to our collection and use of Personal Information if you are a resident of California, as required by the California Consumer Privacy Act of 2018 and its implementing regulations, as amended by the California Privacy Rights Act (“**CCPA**”), where “**Personal Information**” has the definition set forth in the CCPA.
 
-We collect, use, disclose and retain these categories of personal information for the purposes described in section 3 (Identifying Purposes) of this Privacy Policy. Personal Information will only be retained for the period of time required to fulfill the purpose for which we collected it or as may be required by law.
+O2E makes the following disclosures regarding the Personal Information O2E has collected within the 12-month period preceding the Effective Date of this Privacy Policy:
 
-#### Right to Access
+**Sources of Personal Information**           
+We collect Personal Information from the categories of sources detailed in the _How We Collect Personal Information_ section above.
 
-You may have a right to access your personal information held by us. Upon request to access your personal information, we will provide a response within 30 business days. We may require you to verify your identity to ensure that the access request is legitimate. We may request that you specify the type of information you would like to access. If we are unable to fulfill the access request within 30 business days, a written notice of time extension will be provided within 30 days of the request.
+**Use of Personal Information**           
+We collect Personal Information for the business and commercial purposes detailed in the _How We Use Personal Information_ section above.
 
-#### Right to Correct
+**Collection and communication of Personal Information**           
+The categories of Personal Information we collect, and third parties to which we disclose Personal Information for a business or commercial purpose or to whom we sell or share Personal Information, in the past 12 months are summarized in the chart below. We do not knowingly sell or share the Personal Information of minors under the age of 16.
 
-You may also have the right to challenge the accuracy and completeness of the information, and have that information amended as appropriate. Upon request to access your personal information, we will provide a response within 30 business days. We may require you to verify your identity to ensure that the access request is legitimate. We may request that you specify the type of information you would like to access. If we are unable to fulfill the access request within 30 business days, a written notice of time extension will be provided within 30 days of the request.
+|     |     |
+| --- | --- |
+| **Categories of Personal Information We Collect** | **Categories of Recipients to Which We Disclose Personal**  <br>**Information for a Business or Commercial Purpose** |
+| Identifiers | * Affiliates and subsidiaries<br>* Service providers<br>* Business partners<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Personal information, as defined in the California customer records law | * Affiliates and subsidiaries<br>* Service providers<br>* Business partners<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Commercial information | * Affiliates and subsidiaries<br>* Service providers<br>* Business partners<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Characteristics of protected classifications under California or Federal Law | * Affiliates and subsidiaries<br>* Service providers<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Internet or other similar network activity | * Affiliates and subsidiaries<br>* Service providers<br>* Business partners<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Geolocation data | * Affiliates and subsidiaries<br>* Service providers<br>* Business partners<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Inferences drawn from other Personal Information | * Affiliates and subsidiaries<br>* Service providers<br>* Business partners<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
+| Professional or employment-related information | * Affiliates and subsidiaries<br>* Service providers<br>* For legal, security, and safety purposes<br>* In connection with a corporate transaction<br>* Entities to which you have consented to the disclosure |
 
-#### Right to Know and Delete
+  
+ 
 
-Consumers may have the right to delete the personal information we have collected from you. Upon receiving a request, we generally make every attempt to delete your personal information. However, in certain circumstances we will be required to retain your personal information in accordance with the permissible exceptions outlined in applicable law, such as for our lawful internal business purposes or to comply with a legal obligation. If we are not able to honor your deletion request, we will tell you. You may also have the right to know certain information about our data practices in the preceding 12 months. Specifically, you may have the right to request the following from us:
+#### Other California Privacy Rights
 
-* The categories of personal information we have collected about you;
-* The categories of sources from which the personal information was collected;
-* The categories of personal information about you we disclosed for a business purpose or sold;
-* The categories of third parties to whom the personal information was disclosed for a business purpose or sold;
-* The business or commercial purpose for collecting or selling the personal information; and
-* The specific pieces of personal information we have collected about you.
+  
+Under California Civil Code Section 1798.83, individual customers who reside in California and who have an existing business relationship with us may request information about our disclosure of certain categories of Personal Information to third parties for the third parties’ direct marketing purposes, if any. To make such a request, please contact us using the information in the Contact Us section below. Please be aware that not all information sharing is covered by these California privacy rights requirements and only information on covered sharing will be included in our response. This request may be made no more than once per calendar year.
 
-#### Right to Opt-Out
+####   
+13\. Exercising Your Individual Privacy Rights
 
-At any time, you may opt out of receiving marketing or other communications from us. To do so, please contact us at customerservice@1800gotjunk.com, or call us at 1-888-556-4126.
+  
+To exercise any of the privacy rights afforded to you under applicable data protection laws, please submit a request to us by one of the following methods:
 
-#### Right to Opt-Out of Sale or Sharing of Personal Information & Limit the Use of My Personal Information
+* E-mailing us at legal-department@o2ebrands.com
+* Calling us toll-free
 
-You may have the right to opt-out of the sale or sharing of your personal information by us to third parties at any time. You may withdraw or refuse consent to collect, use, disclose or retain personal information. This withdrawal or refusal may prevent us from providing a product or service to you.
+You will not be discriminated against by virtue of your exercise of the rights listed in this Privacy Notice which means we will not deny goods or Services to you, provide different prices or rates for goods or Services to you, or provide a different level or quality of goods or Services to you. Only you, or an authorized agent that you authorize to act on your behalf, may make a request related to your Personal Information. You may also make a request on behalf of your minor child.
 
-You may exercise your right to opt-out by switching the toggle to “out”.
+     
+We must verify your identity before fulfilling your requests, and we cannot respond to your request or provide you with Personal Information if we cannot confirm the Personal Information relates to you. If we cannot initially verify your identity, we may request additional information to complete the verification process. We will only use Personal Information provided in a request to verify the requestor’s identity. If you are an authorized agent making a request on behalf of a consumer, we will also need to verify your identity, which may require proof of your written authorization or evidence of a power of attorney. We endeavor to respond to requests within the time period required by applicable law. If we require more time, we will inform you of the reason and extension period in writing. 
 
-IN ‘Do Not Sell or Share My Personal Information’ switch
+If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.
 
-#### Right to Non-Discrimination
+  
+We do not charge a fee to process or respond to your requests unless it is excessive or repetitive. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
 
-We will not discriminate against you for exercising any of the rights described in this Privacy Policy.
+  
+We may deny certain requests, or only fulfill some in part, as permitted or required by applicable law. For example, if you request to delete Personal Information, we may retain Personal Information that we need to retain for legal purposes.
 
-#### Questions or Concerns
+####   
+14\. Changes to this Privacy Notice
 
-We will not discriminate against you for exercising any of the rights described in this Privacy Policy.
+  
+Please note that we may modify or update this Privacy Notice from time to time, so please review it periodically. We will notify you if material changes are made, as required by applicable law. Unless otherwise indicated, any changes to this Privacy Notice will apply immediately upon posting to our Websites.
 
-If you would like to submit a request (Data Subject Access Request (DSAR)) related to any personal information about you held by us or if you have any questions, concerns or complaints, please submit a written request to:
+####   
+15\. Contact Us
 
+  
+If you have any questions about our practices or this Privacy Notice, please contact our Privacy Officer at  
+legal-department@o2ebrands.com. You may also write to us at:     
+
+   
 O2E Brands Inc.   
 Legal Department   
-Data Privacy Specialist   
+Attn: Privacy Officer  
 301 – 887 Great Northern Way   
-Vancouver, BC, V5T 4T5 
-
-Email: [legal-department@o2ebrands.com](mailto:legal-department@o2ebrands.com)
-
-For a DSAR, you may submit a request by filling out our [contact us](https://www.1800gotjunk.com/ca_en/contact-us) or emailing us at  [legal-department@o2ebrands.com](mailto:legal-department@o2ebrands.com) for a DSAR form, where you can specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you that will be necessary in order to verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete.
-
-**Please Note:** you may have the right to designate an authorized agent to submit requests on your behalf. In order to exercise this right, we will require written proof of the agent’s permission to do so and verify your identity directly.
-
-You have a right to challenge our organization’s compliance with this Privacy Policy. If for any reason you are concerned about our compliance with this Privacy Policy, we encourage you to contact our Legal Department as set out in this Privacy Policy.
-
-#### 7\. Trans Border Data Flow
-
-We may transfer your personal information from time to time across borders to third parties for processing. Any transfers of your personal information across international borders will be in accordance with this Privacy Policy and in compliance with all applicable laws in effect at that time.
-
-#### 8\. Business Transfer
-
-As we continue to develop, we may sell or buy the assets of similar companies. In such transactions, customer and user information generally is one of the transferred business assets. Also, in the event that all or substantially all of our assets are acquired, such information may be one of those transferred assets, and we reserve the right to buy or sell such assets.
-
-Terms of Site Use
------------------
-
-#### 9\. Site Specific Terms of Use
-
-By using this Site or by submitting personal information to us through or in connection with this Site, you acknowledge the collection, use, disclosure and retention of your personal information in accordance with this Privacy Policy. If you do not wish for us to collect, use, disclose and retain of your personal information in accordance with this Privacy Policy, you may not use this Site or our services.
-
-#### 9.1 Tracking Technology
-
-We collect information about our website traffic and usage patterns from technology such as Cookies and pixels.
-
-We use cookies and other tracking technology to understand and save your preferences for future visits, to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may share information collected via these technologies with third party service providers, advertisers, and social media companies.  We may also permit certain third party partners to place similar technologies directly on our site.   . If you prefer, you can choose to turn off all cookies via your browser settings or via our cookie management link. However, if you turn your cookies off, some of our services may not function properly.
-
-#### 9.2 Online Behavioral Advertising
-
-We may permit third-party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We have no control over, and no responsibility or liability for, the practices or technologies used, or any information collected by any third-party advertising companies. If you would like more information about the practices of third-party advertising companies and to know your choices about not having information collected or used by these companies, please visit http://www.networkadvertising.org/.
-
-#### 9.3 Information we Collect Automatically
-
-When you visit the Site, we may collect information about the pages you have visited, types of products purchased, and feedback from our visitors, as well as location data, logs and other communication data, and information about your computer and internet connection, including your IP address, operating system and browser type.
-
-Third-party advertising companies may use information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites. These companies typically use a cookie or third-party web beacon to collect this information. For more information about cookies and how to opt out of third-party data collection, please see the Tracking Technology section of this Privacy Policy.
-
-#### 9.4 Information You Specifically Provide
-
-We collect Information that you voluntarily provide when you register to access and use certain portions of the Site. We also collect Information from you that is necessary to identify you and to process and fulfill your requests for information or services from us, or to provide you with franchise information. If you interact with our Site by booking services, submitting feedback, joining a mailing list, writing a review or comment, or requesting any franchise information, you may provide us with personal information, including but not limited to:
-
-* First and last name
-* Address
-* Email address
-* Phone number
-
-You can choose not to provide certain personal information, but then you may not be able to use certain features of the Site and we may not be able to provide you with certain services or information.
-
-#### 9.5 Our use of Your Personal Information
-
-We use your personal information in order to make the Site more useful and for the purposes set out in Section 3 of this Privacy Policy. 
-
-In addition, we also may use your IP address and information about the web pages you visit to gather broad demographic information, and information about interests and behaviors so that we may better understand our Site users. This information may be used, for example, to analyze and improve our Site design and functionality.
-
-We may also share your information to deliver tailored advertising to you that matches your interests when you visit our Site as well as other websites.
-
-You may opt out of certain uses of your information at any time, subject to applicable legal restrictions and on reasonable notice to us or our third-party advertising partner, as the case may be. To learn more about the use of your information or to choose not to have your information used by our third-party advertising partner by opting out, please visit the Network Advertising Initiative by clicking here.  You can also change your cookie settings by clicking here. If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.
-
-#### 9.6 Children’s Privacy Protection
-
-The Site does not target children or intentionally provide products or services for use by children. We do not knowingly collect information from persons under 18 years of age. If you are under 18 years of age, you may review the Site only under the supervision of a parent or guardian, and you may not use any portion of the Site that would require collection of personal information from you.
-
-#### 9.7 Linked Internet Websites
-
-The Site may provide hypertext links to other websites that may contain privacy provisions that are different from those provided herein. We do not control, and are not responsible for the collection, use, disclosure or retention of any information collected through those websites, and we expressly disclaim any and all liability related to such collection, use, disclosure or retention. You are encouraged to read the privacy policies of any other websites reached through the use of links from the Site.
-
-#### 9.8 Security
-
-We use a variety of standard protections to maintain the security of your online session. Although the Site has security measures in place to protect against the loss, misuse and alteration of information under our control, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your information may not be disclosed or otherwise accessed in any unauthorized manner. Certain information may be transmitted to you by electronic mail. Although it may be illegal to intercept or disclose these messages, these transmissions are not secured.
-
-#### 9.9 Modification
-
-As we grow and add new features to this Site, or as legal requirements change, we may modify this Privacy Policy from time to time in our discretion and without any prior notice or liability to you or any other person. Our collection, use, disclosure and retention of your personal information will be governed by the version of this Privacy Policy in effect at that time. Any changes to this Privacy Policy are effective as of the time they are posted on the Site. Your continued dealings with us or use of this Site subsequent to any changes to this Privacy Policy will signify your consent to the collection, use, disclosure and retention of your personal information in accordance with this Privacy Policy, as amended. Accordingly, when you use this Site, you should check the date of this Privacy Policy and make sure you are aware of any changes since the last version, and that you are familiar with the most current version.
+Vancouver, BC, V5T 4T5        
+Email: [legal-department@o2ebrands.com](mailto:legal-department@o2ebrands.com)  
+Telephone: (866) 234-0057
 
  [![La Plus Grande Entreprise de Ramassage de Déchets du Monde](/sites/default/files/1-800-GOT-JUNK_QUE.svg "La Plus Grande Entreprise de Ramassage de Déchets du Monde") ![The World's Largest Junk Removal Company](/sites/default/files/logo.svg "The World's Largest Junk Removal Company")](https://www.1800gotjunk.com/us_en "Home")
 
@@ -324,16 +441,16 @@ Go
 
 United States Switch Region
 
-* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
-* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
+* [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
+* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
 United States
 
-* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
-* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
+* [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
+* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
 * [Follow us on Facebook](https://www.facebook.com/1800gotjunk)
@@ -363,7 +480,7 @@ Company
 
 * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
 * [Locations](https://www.1800gotjunk.com/us_en/locations)
-* [Environment](https://www.1800gotjunk.com/us_en/Environment)
+* [Repurpose & Sustainability](https://www.1800gotjunk.com/us_en/repurpose-sustainability)
 * [Blog](https://www.1800gotjunk.com/us_en/blog)
 * [Careers](https://jobs.1800gotjunk.com/)
 * [Contact](https://www.1800gotjunk.com/us_en/contact-us)
@@ -386,7 +503,7 @@ Company
 
 * [Reviews](https://www.1800gotjunk.com/us_en/reviews)
 * [Locations](https://www.1800gotjunk.com/us_en/locations)
-* [Environment](https://www.1800gotjunk.com/us_en/Environment)
+* [Repurpose & Sustainability](https://www.1800gotjunk.com/us_en/repurpose-sustainability)
 * [Blog](https://www.1800gotjunk.com/us_en/blog)
 * [Careers](https://jobs.1800gotjunk.com/)
 * [Contact](https://www.1800gotjunk.com/us_en/contact-us)
@@ -397,16 +514,16 @@ Company
 
 United States Switch Region
 
-* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
-* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
+* [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
+* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
 United States
 
-* [United States](https://www.1800gotjunk.com/us_en/privacy-legal)
-* [Canada](https://www.1800gotjunk.com/ca_en/privacy-legal)
-* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/legales-confidentialite)
+* [United States](https://www.1800gotjunk.com/us_en/privacy-notice)
+* [Canada](https://www.1800gotjunk.com/ca_en/privacy-notice)
+* [Canada (Français)](https://www.1800gotjunk.com/ca_fr/avis-de-confidentialite)
 * [Australia](https://www.1800gotjunk.com.au/)
 
 * [Follow us on Facebook](https://www.facebook.com/1800gotjunk)
@@ -452,7 +569,10 @@ Sign up for our emails and get exclusive benefits
 
 © 2024 RBDS Rubbish Boys Disposal Service Inc. D.B.A 1-800-GOT-JUNK? 887 Great Northern Way Unit 301 Vancouver, BC, V5T 4T5  \*1-800-GOT-JUNK? is a registered trademark of RBDS Rubbish Boys Disposal Service Inc. 
 
-[Privacy Policy](https://www.1800gotjunk.com/us_en/privacy-legal) | [Accessibility Policy](https://www.1800gotjunk.com/us_en/accessibility) | [Cookie Preferences](#cky-preference-center) | [Do Not Sell or Share My Personal Information](https://www.1800gotjunk.com/us_en/privacy-legal#cky-opt-out)
+[Privacy Notice](https://www.1800gotjunk.com/us_en/privacy-notice) | [Accessibility Policy](https://www.1800gotjunk.com/us_en/accessibility) | [Cookie Preferences](#cky-preference-center) | [Do Not Sell or Share My Personal Information](#cky-preference-center) | [Terms of Use](https://www.1800gotjunk.com/us_en/terms-of-use)    
+  
+  
+ 
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -506,17 +626,17 @@ Kim Wong Calgary 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nate and Chris did a great job. Fast, efficient and courteous service.
+Amazing service Anton! THX!
 
-Jeff Rowan Niagara 30/11/2023
+Flame .\\/. Calgary 30/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Amazing service Anton! THX!
+Nate and Chris did a great job. Fast, efficient and courteous service.
 
-Flame .\\/. Calgary 30/11/2023
+Jeff Rowan Niagara 30/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -562,6 +682,14 @@ Sal Hoss Niagara 28/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
+
+Alex Niagara 27/11/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Fast, efficient, friendly and responsive!
 
 Dean Reynolds Calgary 27/11/2023
@@ -573,14 +701,6 @@ Dean Reynolds Calgary 27/11/2023
 Trey and Chay were very attentive and friendly. Even when they were delayed they kept me updated. Great job.
 
 Darrin Hill Calgary 27/11/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Guys (Ryan and Jamar) were able to come early and called to confirm. Showed up and got rid of all my junk super quick! Highly recommend!
-
-Alex Niagara 27/11/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -746,46 +866,6 @@ Pierre Denis Monteregie Metro 20/11/2022
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jacob and Connor were a great help
-
-John Tyree Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Marquise and Donnie did an amazing job cleaning out our garage. They were super friendly and very efficient. Highly recommend!
-
-Logan Jarecki Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kevin and Zach did an excellent job removing my junk
-
-Rocco709 Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Marquise and Donnie did a great job
-
-s t Wisconsin 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick and easy service! Very friendly! They told me their names but I immediately forgot. My fault, not theirs. Zach and Jason maybe?
-
-liam nolosco Seattle 02/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Aaron and DJ were awesome!
 
 Amber Fedosh Seattle 02/12/2023
@@ -794,17 +874,17 @@ Amber Fedosh Seattle 02/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Aaron and DJ are very professional and helpful. Great service so far.
+Aaron and DJ were friendly and quick.
 
-Jun-ji Barber Seattle 02/12/2023
+Chris Conley Seattle 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Aaron and DJ were friendly and quick.
+Aaron and DJ are very professional and helpful. Great service so far.
 
-Chris Conley Seattle 02/12/2023
+Jun-ji Barber Seattle 02/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -834,9 +914,57 @@ Kolver Matos Wisconsin 02/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Jacob and Connor were a great help
+
+John Tyree Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kevin and Zach did an excellent job removing my junk
+
+Rocco709 Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Marquise and Donnie did an amazing job cleaning out our garage. They were super friendly and very efficient. Highly recommend!
+
+Logan Jarecki Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Quick and easy service! Very friendly! They told me their names but I immediately forgot. My fault, not theirs. Zach and Jason maybe?
+
+liam nolosco Seattle 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Marquise and Donnie did a great job
+
+s t Wisconsin 02/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Tay and david was on time and very fast
 
 David Pryor Wisconsin 01/12/2023
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The team who came was very efficient and helpful!
+
+Dana Scott Seattle 01/12/2023
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -874,14 +1002,6 @@ Barb Knott Madison 01/12/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The team who came was very efficient and helpful!
-
-Dana Scott Seattle 01/12/2023
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Nick, Richard, Tanner, Dakota and Mike were a pleasure to work with.
 
 Jack Knott Madison 01/12/2023
@@ -902,7 +1022,7 @@ Fast, easy Junk Removal for every type of business - let us do the heavy lifting
 
 Mobile Description
 
-Fast, easy Junk Removal.
+Fast, easy Junk Removal for every type of business - let us do the heavy lifting.
 
 ### 
 
@@ -920,7 +1040,7 @@ Fast, easy Junk Removal - relax and let us take care of everything
 
 Mobile Description
 
-Relax and let us take care of everything.
+Fast, easy Junk Removal - relax and let us take care of everything
 
 Let's see if we're in your neighborhood.  
 This may take a moment.
