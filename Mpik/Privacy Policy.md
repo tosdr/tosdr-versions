@@ -418,6 +418,8 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
                 * [Group Members](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/ulcd/translate-to-english-group-members "Group Members")
                 * [Gallery](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/ulcd/translate-to-english-gallerie "Gallery")
                 * [New Events](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/ulcd/new-events "New Events")
+                    * [Conferences](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/ulcd/new-events/translate-to-english-conferences "Conferences")
+                    * [Granted Beamtime](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/ulcd/new-events/translate-to-english-granted-beamtime "Granted Beamtime")
             * [NEWFO](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/newfo "NEWFO")
                 * [Start](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/newfo "Start")
                 * [Research](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/independent-research-groups/newfo/research "Research")
