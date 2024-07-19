@@ -42,7 +42,7 @@
     * [Security For Cryptocurrency Exchanges And Bitcoin Startups](https://www.nitrokey.com/solutions/cryptocurrencies)
 * Support
     * [Documentation](https://docs.nitrokey.com/)
-    * [FAQ](https://www.nitrokey.com/documentation/frequently-asked-questions-faq)
+    * [FAQ](https://www.nitrokey.com/faq)
     * [Forum](https://support.nitrokey.com/)
     * [Download](https://www.nitrokey.com/download)
 * [Shop](https://shop.nitrokey.com/shop)
