@@ -150,7 +150,7 @@ Welcome to the PepsiCo, Inc. ("PepsiCo") web site. Below you will find our Priva
 
 ### PEPSICO PRIVACY NOTICE
 
-##### Last updated: December 28, 2022 
+##### June 30, 2024
 
 It is our aim through this **PEPSICO UNITED STATES PRIVACY NOTICE (“Notice”)** to explain what information we collect about you and why we collect that information. We also want to make sure you understand how we use and share your information and the choices available to you. Our goal is to earn and keep your trust as you visit websites and applications about our products and brands.
 
@@ -188,7 +188,8 @@ We collect information directly from you. We collect information from you when y
 * Participate in promotions such as sweepstakes or contests.
 * Fill out a survey. 
 * Contact us.
-* Otherwise submit it to us
+* Physically visit one of our site locations.
+* Otherwise submit it to us.
 
 **We collect information from you passively.** We use tracking tools like browser cookies and mobile device IDs. We do this on our websites, in emails that we send to you, and in media advertising. We collect information about usage and browser information over time. We may have third parties collect personal information this way. We also collect information about you from our mobile apps.
 
@@ -204,7 +205,7 @@ We collect information directly from you. We collect information from you when y
 
 **We may use information to improve our products and services.** One of our goals is that you have a positive experience with our sites, apps, and products. Therefore, we may use your information to improve your experience with our sites, apps, and products. We might use your information to personalize your experience with us. We may use information you provide or that third-party partners give us to personalize your experience.
 
-**We may use information for security purposes.** We may use your information to help protect you, our sites and apps, our company, our customers, and our consumers.
+**We may use information for security and safety purposes.** We may use your information to help protect you, our sites and apps, our company, our customers, and our consumers.
 
 **We may use information for marketing purposes.** For example, we might send you information about products, offers, features, or updates. We might also use your information to serve you ads about products and offers. Those ads may appear on third-party platforms which may include social media. These might be our own offers or products, or third-party offers or products we think you might find interesting. We may provide you with information through email or push notification.
 
@@ -243,17 +244,19 @@ _Do-Not-Track Signals and Similar Mechanisms._ Some web browsers transmit "do-no
 * You may have a right to request to confirm whether or not we process your personal information as well as to access and receive a copy of the specific personal information we have collected about you in a portable format. 
 * You may have a right to request deletion of your personal information. 
 * You may have a right to request correction of any inaccurate personal information we hold about you.
-* In some circumstances, you may have the right to opt out of automated decision-making, such as where it produces legal or other significant effects.
+* You may have the right to opt out of the sale, sharing or targeted advertising of personal information to third parties.
+* In some circumstances, you may have the right to opt out of automated decision making and profiling, such as where it produces legal or other significant effects.
+* You may have the right to opt-out of the processing (or limit the use) of your sensitive personal information.
 * You have a right not to receive discriminatory treatment for exercising any of your rights described under this section.
 
-These additional rights are subject to exceptions under applicable laws. For example, we may not be able to honor certain rights requests without taking steps to verify your identity.
+These additional rights are subject to exceptions under applicable laws. For example, we may not be able to honor certain rights requests without taking reasonable steps to verify your identity.
 
 If you would like to exercise these rights under applicable state privacy laws, you or your authorized agent have two options for doing so:
 
 * **Call Us:** You may call us at our toll-free number, **1-833-548-0119**; or
 * **Submit Through Our Portal:** You may submit your request through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
 
-We may verify your request by asking you to provide information to confirm your identity. This information may vary depending on your relationship with us. If you are a consumer in a jurisdiction that recognizes the ability to use an authorized agent and wish to contact us through an authorized agent, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. 
+We may reasonably verify your request by asking you to provide information to confirm your identity. This information may vary depending on your relationship with us. If you are a consumer in a jurisdiction that recognizes the ability to use an authorized agent and wish to contact us through an authorized agent, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. 
 
 If you are in a jurisdiction that recognizes your ability to appeal a decision we have made in connection with your attempt to assert a right under applicable laws, you may submit a request to appeal through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
 
@@ -280,13 +283,25 @@ We keep the categories of personal information described above for as long as is
 
 It is not our intention to collect personal information from children under age 13. If you are a parent or legal guardian and think that your child under 13 has given us information, you can contact us at [https://contact.pepsico.com/pepsico/contact-us](https://contact.pepsico.com/pepsico/contact-us) and we will take appropriate steps. You can also write to us at the address listed below. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children’s privacy online [here](https://consumer.ftc.gov/articles/protecting-your-childs-privacy-online).  
 
+##### Biometric data
+
+**We may collect Biometric Data.** PepsiCo may collect, store, and use biometric data from employees, consumers, or other individuals during the course of conducting PepsiCo’s operations and providing products or services.  PepsiCo will obtain written consent to collect, store, and use any biometric data, as required by law.
+
+**What is biometric data?** Biometric data means data that consists of, or is derived from, biological information or physical characteristics unique to an individual that can be used to identify that individual (such as a fingerprint, handprint, retina or iris scan, voiceprint, or facial geometry scan).  
+
+**Does PepsiCo share biometric data?** PepsiCo will not disclose or disseminate your biometric data to any third party unless it provides you notice and obtains your written consent to such disclosure or dissemination, or as required by law.
+
+**How long does PepsiCo keep biometric data?** Unless otherwise required by an order from a court of competent jurisdiction or applicable law, PepsiCo will permanently destroy biometric data when the first of the following happens: (1) PepsiCo’s initial reason for collecting the biometric data is satisfied; or (2) within two years of an individual’s last interaction with PepsiCo.
+
+**How does PepsiCo protect and store biometric data?** PepsiCo shall use a reasonable standard of care to store, transmit and protect from disclosure any biometric data collected from you.  
+
 ##### Security measures
 
-We use various technical and organizational mechanisms to secure our websites and apps. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be perfectly secure.  
+We use various technical and organizational measures and mechanisms to secure our websites and apps. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be perfectly secure.  
 
 ##### Our services are intended for a United States audience
 
-If you are outside of the United States, please visit the site designated for you. You can find it by going [here](https://www.pepsico.com/global-sites). If you live outside of the United States and choose to use this site or app, you understand that it is at your own risk. You also understand that your information will be sent to and stored in the United States. The United States may not afford the same level of protection as laws in your own country.  
+If you are outside of the United States, please visit the site designated for you. You can find it by going to [PepsiCo.com/global-sites](https://www.pepsico.com/global-sites). If you live outside of the United States and choose to use this site or app, you understand that it is at your own risk. You also understand that your information will be sent to and stored in the United States. The United States may not afford the same level of protection as laws in your own country.  
 
 ##### We may link to other sites or apps or have third-party services and tools on our platform we don't control
 
@@ -304,7 +319,9 @@ If you reside in California, you have the right to ask us one time per year for 
 
 **California Consumer Privacy Act (“CCPA”)**
 
-We have explained our privacy practices in full in the other sections of this Notice. In this section, we provide a list of categories of personal information, as set forth in the CCPA, that have been collected, disclosed for business purposes, shared for cross-context behavioral advertising, or sold for commercial purposes during the preceding 12 months, as well as certain other supplemental information. Some of these categories of personal information that we collect may include information that is considered sensitive under the CCPA. Please see the other sections of this Notice for additional information about our practices and your rights.  
+We have explained our privacy practices in full in the other sections of this Notice. In this section, we provide a list of categories of personal information, as set forth in the CCPA, that have been collected, disclosed for business purposes, shared for cross-context behavioral advertising, or sold for commercial purposes during the preceding 12 months, as well as certain other supplemental information. Some of these categories of personal information that we collect may include information that is considered sensitive under the CCPA.
+
+Please see the other sections of this Notice for additional information about our practices and your rights. The personal information we collect about you may include information within the below noted categories of data. While the categories are as defined under California law, the disclosures below also apply to residents of other states as well.  
 
 |     |     |
 | --- | --- |
@@ -313,7 +330,7 @@ We have explained our privacy practices in full in the other sections of this No
 |     |     |
 | **Commercial information**, such as a record of your purchases | We may use your information to provide you with products, to identify other products and offers that may be relevant to you, and for other business purposes. |
 |     |     |
-| **Biometric information**, such as voice recordings, images, and information about your physical activities that you provide | We use this information to provide you products and the Services and for our other business purposes, such as when we capture voice recordings as part of our customer support. |
+| **Biometric information**, such as voice recordings, images, and information about your physical activities that you provide | We use this information to provide you products and the Services and for our other business purposes, such as when we capture voice recordings as part of our customer support. For more information, please see our [biometric data](#biometricdata) section in this Notice, which includes additional descriptions of how we use, protect, and store biometric data. |
 |     |     |
 | **Internet and electronic network activity information**, such as information about your interactions with our Services | We may use this information to improve our Services, to better understand the visitors who come to our Services and what content is of interest to them, and for other business purposes. |
 |     |     |
@@ -325,21 +342,21 @@ We have explained our privacy practices in full in the other sections of this No
 |     |     |
 | **Characteristics of protected classifications under applicable state or federal law**, such as your gender | We may use this information for our equal employment opportunity program, and for other business purposes. |
 
-View our statistics on CCPA requests [here](https://policy.pepsico.com/privacystats.htm).
+View [our statistics on CCPA requests](https://policy.pepsico.com/privacystats.htm).
 
-As discussed in the other sections of this Notice, we collect these categories of information from you, through our interactions with you and others, and from third parties, and we disclose these categories of personal information within the PepsiCo family of companies and brands, to business partners and third-party vendors that provide us hosting, advertising, and other services, to advertising and analytics partners, and as needed to comply with legal process.
+As discussed in the other sections of this Notice, we collect these categories of information from you, through our interactions with you and others, and from third-parties, and we disclose these categories of personal information within the PepsiCo family of companies and brands, to business partners and third-party vendors that provide us hosting, advertising, and other services, to advertising and analytics partners, and as needed to comply with legal process.
 
-Your personal information may also be disclosed to third parties with whom you interact and third parties that you direct us to disclose your information to through our Services. We may also disclose personal information with third parties in various additional ways, as described elsewhere in this Notice. 
+Your personal information may also be disclosed to third-parties with whom you interact and third parties that you direct us to disclose your information to through our Services. We may also disclose personal information with third-parties in various additional ways, as described elsewhere in this Notice. 
 
 In California, you may have certain additional rights under applicable law, in addition to your rights to access, correct, and delete your personal information as described above. In California, you also may have:
 
 * The right to request other information about our data processing practices, including the categories of personal information that have been collected about you; the categories of sources from which personal information are collected; our business or commercial purpose for collecting, using, disclosing, selling or sharing personal information; the categories of third parties with whom we disclose, sell or share personal information; and the categories of personal information we have disclosed, sold or shared about you for a business purpose.
-* The right to direct us to limit the use and disclosure of your Sensitive Personal Information to certain uses and disclosures, such as those that are reasonably necessary to provide our goods and services or as needed to ensure security and integrity; to prevent fraud or illegal activity; or for physical safety.
+* The right to direct us to limit the use and disclosure of your sensitive personal information to certain uses and disclosures, such as those that are reasonably necessary to provide our goods and services or as needed to ensure security and integrity, to prevent fraud or illegal activity, or for physical safety.
 
 If you would like to exercise these rights under applicable state privacy laws, you or your authorized agent have two options for doing so:
 
-* **Call Us:** You may call us at our toll-free number, **1-833-548-0119**; or
-* **Submit Through Our Portal:** You may submit your request through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
+* **Call us:** You may call us at our toll-free number, **1-833-548-0119**; or
+* **Submit through our portal:** You may submit your request through our secure web portal, [http://mydata.pepsico.com](http://mydata.pepsico.com/).
 
 _Sale or Sharing._ Over the past 12 months, we have worked with advertising partners who assist us with our targeted advertising activities, who may have had access to identifiers, Internet and other electronic network activity information, geolocation data, and other personal information.
 
