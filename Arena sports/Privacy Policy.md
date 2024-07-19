@@ -4,7 +4,7 @@
 * [Member Login](https://apps.daysmartrecreation.com/dash/x/#/online/arenasports/login)
 * [Employment](https://www.arenasports.net/employment-opportunities/)
 
-[Facebook](https://www.facebook.com/arenasports/ "Facebook")[Instagram](https://www.instagram.com/arenasports/ "Instagram")[YouTube](https://www.youtube.com/channel/UCn8goOcXcCQ1sEzZtZa6RnA "YouTube")
+Questions? Call [(206) 590-3278](tel:2065903278)
 
     [![Arena Sports Logo](https://www.arenasports.net/wp-content/uploads/2022/11/AS_Logotype-RGB-Navy.png)  ![Arena Sports Logo](https://www.arenasports.net/wp-content/uploads/2023/12/Arena-Sports-mobile-logo.png)  ![Arena Sports Logo](https://www.arenasports.net/wp-content/uploads/2022/11/AS_Logotype-RGB-Navy.png)](https://www.arenasports.net/)
 
@@ -19,7 +19,6 @@
     * [Adult Indoor](https://www.arenasports.net/adult-leagues/)
     * [Adult 4v4 Outdoor Issaquah](https://www.arenasports.net/issaquah/adult-outdoor-leagues/)
     * [Youth (5-18 yrs)](https://www.arenasports.net/youth-leagues/)
-    * [Skills Institute Soccer League (5-7 yrs)](https://www.arenasports.net/skills-institute-soccer-league/)
     * [Drop-In (16+ yrs)](https://www.arenasports.net/adult-leagues/#drop_in)
     * [Tournaments](https://www.arenasports.net/soccer-tournaments/)
     * [Field Rentals](https://www.arenasports.net/field-rentals/)
