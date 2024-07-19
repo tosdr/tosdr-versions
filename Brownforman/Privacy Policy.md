@@ -6,7 +6,7 @@ Brown-Forman's Global Privacy Notice
     [Bulgarian](https://legal.brown-forman.com/privacy-policy/bulgarian) [Chinese](https://legal.brown-forman.com/privacy-policy/chinese) [Czech](https://legal.brown-forman.com/privacy-policy/czech) [Deutsch](https://legal.brown-forman.com/privacy-policy/deutsch) [Dutch](https://legal.brown-forman.com/privacy-policy/dutch) [English](https://legal.brown-forman.com/privacy-policy/english) [Espanol - Mexico](https://legal.brown-forman.com/privacy-policy/spanish) [Espanol - Spain](https://legal.brown-forman.com/privacy-policy/espanol) [French](https://legal.brown-forman.com/privacy-policy/french) [Hungarian](https://legal.brown-forman.com/privacy-policy/hungarian) [Italian](https://legal.brown-forman.com/privacy-policy/italian) [Japanese](https://legal.brown-forman.com/privacy-policy/japanese) [Polish](https://legal.brown-forman.com/privacy-policy/polish) [Portuguese](https://legal.brown-forman.com/privacy-policy/portuguese) [Romanian](https://legal.brown-forman.com/privacy-policy/romanian) [Slovak](https://legal.brown-forman.com/privacy-policy/slovak)
     
 
-LAST UPDATED: January 31, 2024  
+LAST UPDATED: July 1, 2024  
 
 Whenever you access our products or services or interact with us in other ways, both online and offline, Brown-Forman Corporation and its affiliated companies (“Brown-Forman”, “we”, “us”) collect, use, and otherwise process information about you (referred to as your “personal information”). “Personal information” is information that identifies you as an individual or relates to an identifiable individual. For example, we process your personal information when you engage with us as an existing or prospective customer, visit one of our websites or social media pages, attend one of our in-person events, or in your capacity as an employee of one of our suppliers or vendors.
 
@@ -581,7 +581,7 @@ Privacy Officer, c/o Brown-Forman Corporation, 850 Dixie Highway, Louisville, KY
 
 ©2024 Brown-Forman Corporation. All Rights Reserved.  
 
-**Additional Information Regarding California (CCPA)**\- updated January 1, 2023
+**Additional Information Regarding California and Texas - updated July 09, 2024**
 
 **Collection, Disclosure, Sale, and Sharing of Personal Information**
 
@@ -609,7 +609,7 @@ We collect, process, and disclose sensitive personal information for purposes of
 
 **Individual Requests**
 
-If you are a California resident, you may make the following requests:
+You may, subject to applicable law, make the following requests:
 
 1. You may request to know whether we process your personal information and to access such personal information (including the categories of personal information is collected, the categories of sources from which it is collected, the business or commercial purpose of collecting, sharing or selling, the categories of personal information about you that we disclosed, sold or shared (as defined by the relevant laws) and the categories of third parties with whom we disclosed, sell or share personal information, if relevant).
 2. You may request to correct inaccuracies in your personal information.
