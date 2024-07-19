@@ -10,8 +10,8 @@
 
 * Product
     
-    * [Analysis](https://mixpanel.com/analysis)
-    * [Scale](https://mixpanel.com/scale)
+    * [Features](https://mixpanel.com/features)
+    * [Enterprise](https://mixpanel.com/enterprise)
     * [Developer](https://mixpanel.com/developer)
     * [Integrations](https://mixpanel.com/partners/integrations)
     * [Security & Privacy](https://mixpanel.com/security-privacy)
@@ -40,15 +40,15 @@
     
 * [Pricing](https://mixpanel.com/pricing)
 
-[Talk to Sales](https://mixpanel.com/contact-us/sales)
+[Contact Sales](https://mixpanel.com/contact-us/sales)
 
-[Log In](https://mixpanel.com/login)
+[Login](https://mixpanel.com/login)
 
-[Get Started](https://mixpanel.com/register)
+[Get Started Free](https://mixpanel.com/register)
 
 * Product
-    * [Analysis](https://mixpanel.com/analysis)
-    * [Scale](https://mixpanel.com/scale)
+    * [Features](https://mixpanel.com/features)
+    * [Enterprise](https://mixpanel.com/enterprise)
     * [Developer](https://mixpanel.com/developer)
     * [Integrations](https://mixpanel.com/partners/integrations)
     * [Security & Privacy](https://mixpanel.com/security-privacy)
@@ -60,6 +60,7 @@
     * [Industries](https://mixpanel.com/industries)
 * Community
     * [Customers](https://mixpanel.com/customers)
+    * [Startups](https://mixpanel.com/startups)
     * [Events](https://eventhub.goldcast.io/?eventHubId=b183a53e-dd6e-4f0b-9a23-dd274f39d78d)
     * [Slack](https://mixpanel.com/community-slack)
     * [Expert Directory](https://mixpanel.com/partners/experts)
@@ -71,7 +72,7 @@
 
 [Login](https://mixpanel.com/login)
 
-[Talk to Sales](https://mixpanel.com/contact-us/sales)
+[Contact Sales](https://mixpanel.com/contact-us/sales)
 
 404 Error
 
