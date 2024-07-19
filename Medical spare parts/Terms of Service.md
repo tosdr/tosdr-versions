@@ -10,7 +10,7 @@ Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
 [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1718196896)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721294226)
 
 EN
 
@@ -45,8 +45,6 @@ Your account
 [Log in](https://www.medicalspareparts.com/account/login "Log in")
 
 or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
-
-[Overview](https://www.medicalspareparts.com/account "Overview") [Your profile](https://www.medicalspareparts.com/account/profile "Your profile") [Addresses](https://www.medicalspareparts.com/account/address "Addresses") [Payment methods](https://www.medicalspareparts.com/account/payment "Payment methods") [Orders](https://www.medicalspareparts.com/account/order "Orders") [Subscriptions](https://www.medicalspareparts.com/account/mollie/subscriptions "Subscriptions")
 
 [Shopping cart €0.00\*](https://www.medicalspareparts.com/checkout/cart "Shopping cart")
 
@@ -401,15 +399,11 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 * close
     
 
-About MSP
-
-[About MSP](https://msp-medical.com/general/about-msp/ "About MSP") [Terms & Conditions](https://msp-medical.com/general/terms-conditions/ "Terms & Conditions ") [Privacy](https://msp-medical.com/general/privacy/ "Privacy") [Right of rescission](https://msp-medical.com/general/right-of-rescission/ "Right of rescission") [News](https://msp-medical.com/general/news/ "News") [Our assortment](https://msp-medical.com/general/our-assortment/ "Our assortment") [Careers](https://msp-medical.com/general/careers/ "Careers")
-
 We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1718196896)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721294226)
 
 Language: EN
 
@@ -453,12 +447,10 @@ Categories
 
 MSP is the smarter alternative. Always!
 
-* **Save** money compared to original parts
-* Fully **MDR compliant** spare parts  
-    
-* **Compatible** with your OEM equipment  
-    
-* We **ship within 24 hours** with great customer **service**
+* ✓ **Save** money compared to original parts
+* ✓ Fully **MDR compliant** spare parts
+* ✓ **Compatible** with your OEM equipment
+* ✓ We **ship within 24 hours** with great customer **service**
 
 [Check out our spare parts](https://msp-medical.com/spare-parts/ "MSP is the smarter alternative. Always! ")
 
@@ -569,7 +561,7 @@ In shopping cart
 
 Art. nr.: MSP-TB-SD-00150
 
-incl. VAT €465.85 Excl. VAT €385.00
+incl. VAT €490.05 Excl. VAT €405.00
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
 
@@ -717,15 +709,19 @@ Subscribe to newsletter Unsubscribe from newsletter
 
 Email address\* 
 
+Subscribe
+
 Privacy \*
 
  By selecting continue you confirm that you have read our [data protection information](https://www.medicalspareparts.com/widgets/cms/bd97d78a319043d69c4241acb837f744 "Data protection information") and accepted our [general terms and conditions](https://www.medicalspareparts.com/widgets/cms/b453a7477de949b4adcb37f018d2ffea "general terms and conditions").
+
+Reviews
 
 * [Facebook](https://www.facebook.com/MSP-Group-105409932037027 "Facebook")
 * [Instagram](https://www.instagram.com/msp_medical/ "Instagram")
 * [Twitter](https://twitter.com/MedicalMsp "Twitter")
 * [YouTube](https://www.youtube.com/channel/UCeFLTe6Aqj8KWrctuVvjXew "YouTube")
-* [WhatsApp](https://wa.me/31683508900 "WhatsApp")
+* [WhatsApp](https://wa.me/31630943796 "WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/msp-medical/about/ "LinkedIn")
 
 * [About MSP](https://msp-medical.com/general/about-msp/ "About MSP")
