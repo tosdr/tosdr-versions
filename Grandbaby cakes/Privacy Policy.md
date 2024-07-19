@@ -1,46 +1,22 @@
-My new cookbook Everyday Grand is available now! [Order Here →](https://grandbaby-cakes.com/everydaygrand/)
+[Skip to content](#main-content)
 
-![Connect with Grandbaby Cakes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2044'%3E%3C/svg%3E)
+[Subscribe for Weekly Meals\*](https://grandbaby-cakes.myflodesk.com/ic5fwvb0tg)
 
-![Connect with Grandbaby Cakes](https://grandbaby-cakes.com/wp-content/uploads/2016/05/connect.png)
+[](https://www.facebook.com/GrandbabyCakes)[](https://instagram.com/grandbabycakes)[](https://www.pinterest.com/grandbabycakes/)[](https://twitter.com/GrandbabyCake)[](https://www.youtube.com/user/grandbabycakes?feature=watch)[](https://www.google.com/url?q=https://www.tiktok.com/@grandbabycakes&sa=D&source=docs&ust=1720626431736074&usg=AOvVaw0XfMVHNIoqkPeLOlSm372Z)[](https://www.google.com/url?q=https://www.threads.net/@grandbabycakes?hl%3Den&sa=D&source=docs&ust=1720626431736146&usg=AOvVaw1x-MdjK6xmQqiK4kBH0F2V)
 
-* [Bloglovin](https://www.bloglovin.com/en/blog/4433081)
-* [Email](mailto:info@jdelkadams.com)
-* [Facebook](https://www.facebook.com/GrandbabyCakes)
-* [Instagram](https://instagram.com/grandbabycakes)
-* [Pinterest](https://www.pinterest.com/grandbabycakes/)
-* [Snapchat](https://www.snapchat.com/add/Grandbabycakes)
-* [Twitter](https://twitter.com/GrandbabyCake)
-* [YouTube](https://www.youtube.com/user/grandbabycakes?feature=watch)
+[![Grandbaby Cakes logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20186%2076'%3E%3C/svg%3E)
 
-![Grandbaby Cakes Cookbook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20253%20159'%3E%3C/svg%3E)
+![Grandbaby Cakes logo](https://grandbaby-cakes.com/wp-content/uploads/2024/07/gbc-logo-color.svg)](https://grandbaby-cakes.com/)
 
-![Grandbaby Cakes Cookbook](https://grandbaby-cakes.com/wp-content/uploads/2016/05/book.png)
-
-ORDER NOW:  
-[Amazon](https://www.amazon.com/Grandbaby-Cakes-Recipes-Vintage-Memories/dp/1572841737/ref=sr_1_1?ie=UTF8&qid=1431559658&sr=8-1&keywords=grandbaby+cakes) / [Barnes & Noble](https://www.barnesandnoble.com/w/grandbaby-cakes-jocelyn-delk-adams/1121262569?ean=9781572841734) / [Indiebound](https://www.indiebound.org/book/9781572841734)
-
-[Grandbaby Cakes](https://grandbaby-cakes.com/)
-
-The best source for Southern recipes and Soul Food Recipes with a modern twist including cakes and savory dishes.
-
-* [](https://grandbaby-cakes.com/)
-* [Summer Recipes](https://grandbaby-cakes.com/seasonal-recipes/summer-recipes/)
-* [Recipes](https://grandbaby-cakes.com/blog/)
-    * [Southern Classics](https://grandbaby-cakes.com/cuisines/southern-classics/)
-    * [Main Dishes](https://grandbaby-cakes.com/entrees/)
-    * [Side Dishes](https://grandbaby-cakes.com/side-dishes/)
-    * [Dessert and Baking](https://grandbaby-cakes.com/dessert/)
-    * [Pound Cakes](https://grandbaby-cakes.com/dessert/pound-cakes/)
-* [About Me](https://grandbaby-cakes.com/about/)
-    * [Press](https://grandbaby-cakes.com/press/)
-    * [Privacy Policy](https://grandbaby-cakes.com/privacy-policy/)
-    * [Videos](https://grandbaby-cakes.com/videos/)
-* [Cookbook](https://grandbaby-cakes.com/cookbook/)
+* [About](https://grandbaby-cakes.com/about/)
+* [Cookbooks](https://grandbaby-cakes.com/cookbook/)
+* [All Recipes](https://grandbaby-cakes.com/blog/)
+* [Press & Media](https://grandbaby-cakes.com/press/)
 * [Contact](https://grandbaby-cakes.com/contact/)
-    * [Let’s Work Together!](https://grandbaby-cakes.com/lets-work-together/)
 
-[Top](#0 "Back To Top")
+Search the site
+
+[Grandbaby Cakes](https://grandbaby-cakes.com/) » Privacy Policy
 
 Privacy Policy
 ==============
@@ -71,18 +47,38 @@ If you would like more information about this practice and to know your choices 
 
 For specific information about Mediavine Partners, the data each collects and their data collection and privacy policies, please visit [Mediavine Partners](https://www.mediavine.com/ad-partners/).
 
-#### As Seen On
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20200'%3E%3C/svg%3E)
-
-![](https://grandbaby-cakes.com/wp-content/uploads/2022/03/as-seen-on.png)
+Where Y'all Goin?
 
 * [Home](https://grandbaby-cakes.com/)
+* [Press & Media](https://grandbaby-cakes.com/press/)
 * [About](https://grandbaby-cakes.com/about/)
-* [Press](https://grandbaby-cakes.com/press/)
-* [Blog](https://grandbaby-cakes.com/blog/)
-* [Cookbook](https://grandbaby-cakes.com/cookbook/)
-* [Recipes/Travel](https://grandbaby-cakes.com/recipes-travel/)
+* [Cookbooks](https://grandbaby-cakes.com/cookbook/)
+* [All Recipes](https://grandbaby-cakes.com/blog/)
 * [Contact](https://grandbaby-cakes.com/contact/)
 
-Copyright © 2024 [Grandbaby Cakes](https://grandbaby-cakes.com/) | [Privacy Policy](https://grandbaby-cakes.com/privacy-policy/)
+[](https://www.facebook.com/GrandbabyCakes)[](https://instagram.com/grandbabycakes)[](https://www.pinterest.com/grandbabycakes/)[](https://twitter.com/GrandbabyCake)[](https://www.youtube.com/user/grandbabycakes?feature=watch)[](https://www.google.com/url?q=https://www.tiktok.com/@grandbabycakes&sa=D&source=docs&ust=1720626431736074&usg=AOvVaw0XfMVHNIoqkPeLOlSm372Z)[](https://www.google.com/url?q=https://www.threads.net/@grandbabycakes?hl%3Den&sa=D&source=docs&ust=1720626431736146&usg=AOvVaw1x-MdjK6xmQqiK4kBH0F2V)
+
+Grandbaby Cakes
+
+Welcome to Grandbaby Cakes, a brand inspired by my Grandmother's classic Southern and soul food recipes that have been remixed with modern flavors and fresh twists. I can't wait to get you hooked on cooking and baking just like I was. So start scrolling, get inspired, grab a whisk and master the kitchen like a BOSS!
+
+Join the Grandbaby Cakes Fam
+
+Sign up to grab new weekly recipes and meal plans!
+
+First Name(Required)
+
+Email Address(Required)
+
+Submit       
+
+Δ
+
+![back to top button](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2052%2095'%3E%3C/svg%3E)
+
+![back to top button](https://grandbaby-cakes.com/wp-content/themes/grandbaby-cakes-2024/assets/images/misc/back-to-top.png)
+
+© 2024 All rights reserved.
+
+* [Privacy Policy](https://grandbaby-cakes.com/privacy-policy/)
+* [Terms & Conditions](https://grandbaby-cakes.com/terms-conditions/)
