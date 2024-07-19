@@ -16,8 +16,6 @@ This privacy policy relates to the information collection and use practices of T
 * [dailydot.com](https://www.dailydot.com/) 
 * [nautil.us](https://nautil.us/)
 * [passionfru.it](https://passionfru.it/)
-* [god.dailydot.com](https://god.dailydot.com/)
-* [meetheinternet.com](https://meettheinternet.com/)
 * [nerdsnacks.io](https://nerdsnacks.io/)
 * [one5c.com](https://one5c.com/)
 
