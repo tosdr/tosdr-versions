@@ -611,7 +611,7 @@ by [Ida Tin](https://helloclue.com/authors/ida-tin)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: d176609932024-06-21 13:44:17
+v: 07cf9eddc2024-07-18 12:33:07
 
 English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
@@ -664,4 +664,4 @@ English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: d176609932024-06-21 13:44:17
+v: 07cf9eddc2024-07-18 12:33:07
