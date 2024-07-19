@@ -2,10 +2,6 @@
 
 * [Activities](javascript:void(0))
     
-    [UEFA EURO2024 Contest](https://flightsim.to/euro2024)
-    
-    Predict and earn Loyalty Points!
-    
     [My Feed](https://flightsim.to/feed)
     
     New content from creators you follow
@@ -88,11 +84,11 @@
     
     ### New Categories
     
+    * [CowanSim R22](https://flightsim.to/liveries/cowansim-r22/)
+    * [BravoAirspace Boeing 787](https://flightsim.to/liveries/bravoairspace-boeing-787/)
+    * [PMDG Boeing 777-300ER](https://flightsim.to/liveries/pmdg-boeing-777-300er/)
+    * [Aeroplane Heaven C-47D Skytrain](https://flightsim.to/liveries/aeroplane-heaven-c47d-skytrain/)
     * [Hawk T.2 / MK.127](https://flightsim.to/liveries/hawk-t2-mk-127/)
-    * [A400M](https://flightsim.to/liveries/roland-laborie-a400m/)
-    * [CowanSim H130](https://flightsim.to/liveries/cowansim-h130/)
-    * [FlyBoy Rans - S6S](https://flightsim.to/liveries/flyboy-rans-s6s/)
-    * [PA-38 Tomahawk](https://flightsim.to/liveries/pa-38-tomahawk/)
     
     ### Popular Categories
     
@@ -201,8 +197,8 @@
     * [Aircraft Enhancements](https://flightsim.to/others/aircraft-enhancements/)
     
     * [Applications](https://flightsim.to/others/applications/)
-    * [Cockpit Additions](https://flightsim.to/others/cockpit-additions/)
     * [EFB Wallpapers](https://flightsim.to/others/efb-wallpapers/)
+    * [Cockpit Additions](https://flightsim.to/others/cockpit-additions/)
     * [Paintkits](https://flightsim.to/others/paintkits/)
     * [Miscellaneous](https://flightsim.to/others/miscellaneous/)
     
@@ -291,7 +287,6 @@
 * [Recent Updates](https://flightsim.to/recent-updates)
 * [Trending Today](https://flightsim.to/featured/downloads/today)
 * [Discounts](https://flightsim.to/store/on-sale)
-* [EURO2024](https://flightsim.to/euro2024)
 
 * [All](https://flightsim.to/)
 * [Wallpapers](https://wall.flightsim.to/)
