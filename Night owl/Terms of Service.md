@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Save $100 on a 2-Way Audio 12 Ch DVR System with 2TB HD and 4 Wired 2K Cams - $279.99](https://nightowlsp.com/products/8-channel-4mp-bluetooth-dvr-with-2tb-hard-drive-and-4-wired-4mp-spotlight-cameras-with-2-way-audio-voice-alerts-and-sirens)
+[Save $400 on a 2-Way Audio 12 Ch NVR System with 2TB HD and 8 Wired 4K Cams - $599.99](https://nightowlsp.com/products/8-channel-4k-bluetooth-nvr-with-2tb-hard-drive-and-8-wired-ip-4k-spotlight-cameras-with-2-way-audio-and-audio-alerts-and-sirens)
 
 [Save $100 on a 10 Channel 4K Wi-Fi NVR with 1TB HD & 3 Spotlight Battery Cams with 2-Way Audio - $349.99](https://nightowlsp.com/products/10-channel-4k-bluetooth-wi-fi-nvr-with-1tb-hard-drive-and-3-wire-free-battery-1080p-spotlight-cameras-with-2-way-audio-and-audio-alerts-and-sirens)
 
@@ -32,7 +32,7 @@
     * [Wire Free Accessories](https://nightowlsp.com/collections/wire-free-accessories)
     
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/independence-day-savings-event)
+* [Sale](https://nightowlsp.com/collections/summer-savings-event)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
 * [Support](https://support.nightowlsp.com/hc/en-us)
 
@@ -65,7 +65,7 @@
     * [Wire Free Accessories](https://nightowlsp.com/collections/wire-free-accessories)
     
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/independence-day-savings-event)
+* [Sale](https://nightowlsp.com/collections/summer-savings-event)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
 * [Support](https://support.nightowlsp.com/hc/en-us)
 
@@ -322,7 +322,7 @@ Products
 * [Wireless](https://nightowlsp.com/collections/wireless-systems)
 * [Wire Free](https://nightowlsp.com/collections/wire-free-systems)
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/independence-day-savings-event)
+* [Sale](https://nightowlsp.com/collections/summer-savings-event)
 * [Refurb](https://nightowlsp.com/collections/refurbished)
 
 Company
