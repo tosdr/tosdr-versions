@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjoxfKYv8dTxc_7wE2OQGhj067rEunTspnmu7aHPf4VblWxUNKLWf-zfdeierSd0lOLw3XELu-Jf8LILGzno:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjoxfKYv8dTxc_7wE2OQGhj067rEunTspnmu7aHPf4VblWxUNKLWf-zfdeierSd0lOLw3XELu-Jf8LILGzno:0&docurl=https://docs.google.com/document/d/e/2PACX-1vRqOVFj68Ou_24LyOJdzB6p-QKbfbtSHVxpOow6bD2Lp8lz9rll3EQBy_tw8auDuClFvEe4NoiyE1kl/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 Privacy Policy\_Dystech\_v4
 
@@ -8,7 +8,7 @@ Updated automatically every 5 minutes
 
 PRIVACY POLICY
 
-Dystech Australia Pty Ltd (ACN 617 116 518) (“we”, “us” or “our”) of Shop 1, 19-23 Seymour Street, Traralgon VIC 3844, and the operation of the website at [www.dystech.com.au](https://www.google.com/url?q=http://www.dystech.com.au&sa=D&source=editors&ust=1719008698305419&usg=AOvVaw0D3_DCzH5wr7WD3-KzyUy_) (“Website”) and mobile application (“Application”)(collectively, the “Platform”) is committed to respecting your privacy.
+Dystech Australia Pty Ltd (ACN 617 116 518) (“we”, “us” or “our”) of Shop 1, 19-23 Seymour Street, Traralgon VIC 3844, and the operation of the website at [www.dystech.com.au](https://www.google.com/url?q=http://www.dystech.com.au&sa=D&source=editors&ust=1721381475940681&usg=AOvVaw0_2SBhY3hdT6C4aNKumd7q) (“Website”) and mobile application (“Application”)(collectively, the “Platform”) is committed to respecting your privacy.
 
 Our privacy policy (“Privacy Policy”) sets out how we collect, use, store, share and disclose your Personal Information on our Platform. You can view our terms and conditions at dystech.com.au/terms-and-conditions (“Terms”) and contact us at [hello@dystech.com.au](mailto:hello@dystech.com.au). Definitions within this Privacy Policy have the same meaning as in the Terms.
 
@@ -116,7 +116,7 @@ we may use and process your Personal Information to send you information about S
 5. any person or entity to whom we are required or authorised to disclose your Personal Information to in accordance with the relevant Privacy Laws.
 
 3. As at the date of this Privacy Policy, such third-party recipients (“Recipients”) are located in countries including the United States, United Kingdom, France, Australia and other countries whose laws may not be recognised by the EU Commission as providing an adequate level of protection to Personal Information.
-4. When engaging with our Platform, you expressly and freely consent to your Personal Information being disclosed or transferred to such Recipients. We will take steps reasonably necessary to ensure your Personal Information is treated securely and in accordance with this Privacy Policy. We use reasonable endeavours to ensure that each Recipient receiving your Personal Information is bound by the relevant Privacy Laws (including the standard contractual clauses approved by the European Commission). The standard contractual clauses are available on the European Commission’s Website at [https://ec.europa.eu/info/law/law-topic/data-protection\_en](https://www.google.com/url?q=https://ec.europa.eu/info/law/law-topic/data-protection_en&sa=D&source=editors&ust=1719008698311709&usg=AOvVaw0TJsRTA2Teu-zicpUv-rKQ)
+4. When engaging with our Platform, you expressly and freely consent to your Personal Information being disclosed or transferred to such Recipients. We will take steps reasonably necessary to ensure your Personal Information is treated securely and in accordance with this Privacy Policy. We use reasonable endeavours to ensure that each Recipient receiving your Personal Information is bound by the relevant Privacy Laws (including the standard contractual clauses approved by the European Commission). The standard contractual clauses are available on the European Commission’s Website at [https://ec.europa.eu/info/law/law-topic/data-protection\_en](https://www.google.com/url?q=https://ec.europa.eu/info/law/law-topic/data-protection_en&sa=D&source=editors&ust=1721381475946026&usg=AOvVaw3KZp1J0aPkF3_h7G5vzj2Z)
 
 7. Dystech Platform
 
@@ -148,7 +148,7 @@ we may use and process your Personal Information to send you information about S
 
 1. If you require further information regarding our Privacy Policy or wish to make a privacy complaint, please contact us by email addressed to [hello@dystech.com.au](mailto:hello@dystech.com.au) or by post addressed to 1, 19/23 Seymour Street, Traralgon VIC 3844.  
 2. If we receive a formal written complaint about our privacy practises, we will contact the complainant regarding his or her concerns and attempt to resolve the complaint as soon as possible.  
-3. If you are dissatisfied with the outcome of our handling of your complaint, you can lodge a privacy complaint with the Office of the Australian Information Commissioner (“OIAC”) or the European Data Protection Supervisor (“EDPS”). For further information about the EDPS or OAIC’s privacy complaint handling process, please see: [http://www.oaic.gov.au/privacy/making-a-privacy-complaint](https://www.google.com/url?q=http://www.oaic.gov.au/privacy/making-a-privacy-complaint&sa=D&source=editors&ust=1719008698313514&usg=AOvVaw12F9DBF30WVPQ_qmO-qMCg) or [https://edps.europa.eu/node/75\_en](https://www.google.com/url?q=https://edps.europa.eu/node/75_en&sa=D&source=editors&ust=1719008698313694&usg=AOvVaw2W_zJ4WE3HpNMV_i8TnIJu).
+3. If you are dissatisfied with the outcome of our handling of your complaint, you can lodge a privacy complaint with the Office of the Australian Information Commissioner (“OIAC”) or the European Data Protection Supervisor (“EDPS”). For further information about the EDPS or OAIC’s privacy complaint handling process, please see: [http://www.oaic.gov.au/privacy/making-a-privacy-complaint](https://www.google.com/url?q=http://www.oaic.gov.au/privacy/making-a-privacy-complaint&sa=D&source=editors&ust=1721381475948409&usg=AOvVaw01LEH3cuhFmDlGtaJ2Uyd3) or [https://edps.europa.eu/node/75\_en](https://www.google.com/url?q=https://edps.europa.eu/node/75_en&sa=D&source=editors&ust=1721381475948648&usg=AOvVaw1AQkNMg4urcRy98MvhkqtI).
 
 11. Notices and Revisions
 
