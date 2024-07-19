@@ -29,7 +29,7 @@
     
     Login
     
-    [Forgotten your password?](https://www.experteer.co.uk/account/send_password)
+    [Forgotten your password?](https://www.experteer.co.uk/accounts/password/new)
     
      
     
@@ -207,4 +207,4 @@ _Munich, November 20, 2023_
 
 © 2024 [Experteer GmbH](https://www.experteer.co.uk/)
 
-Experteer uses cookies. [Information on data protection](https://www.experteer.co.uk/terms/privacy_policy) Send
+Experteer uses cookies. [Information on data protection](https://www.experteer.co.uk/terms/privacy_policy) [Send](#)
