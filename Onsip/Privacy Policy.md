@@ -41,30 +41,36 @@ Let's talk
 
 #### Phones
 
-* [Download OnSIP apps](https://www.onsip.com/app/download)
+* [Download apps](https://www.onsip.com/app/download)
 * [Promo Offer](https://info.onsip.com/voip-phone-promo)
-* [Purchase OnSIP Phones](https://www.onsip.com/store)
+
+#### Integrations
+
+* [Odoo](https://info.onsip.com/odoo)
+* [Zendesk](https://info.onsip.com/zendesk)
+* [HubSpot](https://info.onsip.com/hubspot)
 
 #### Resources
 
-* [Educational Content](https://www.onsip.com/voip-resources)
-* [OnSIP Help Pages](https://support.onsip.com/hc/en-us)
-* [OnSIP Network Status](https://www.onsip.com/network-status)
+* [Knowledge base](https://support.onsip.com/hc/en-us)
+* [Help Pages](https://support.onsip.com/hc/en-us)
+* [Network Status](https://www.onsip.com/network-status)
+* [Terms & privacy](https://www.onsip.com/terms)
 
 #### Contact
 
 * [1 (800) 801 3381](https://app.onsip.com/app/call?n=OnSIP&a=welcome%40junctionnetworks.com)
-* [OnSIP Team Directory](https://team.onsip.com/)
 * [Email Us](https://www.onsip.com/contact-us)
+* [Team Directory](https://team.onsip.com/)
 
 #### Work with us
 
 * [Become a Partner](https://www.onsip.com/partner)
-* [Developer Tools](https://developer.onsip.com/)
+* [About us](https://www.onsip.com/about-us)
 * [Careers](https://www.onsip.com/about-us)
 
 [![OnSIP](//www.onsip.com/hubfs/template/logo-onsip_blue.png)](https://www.onsip.com/)[](https://www.twitter.com/onsip)[](https://www.facebook.com/onsip)[](https://www.linkedin.com/company/junction-networks)[](https://www.youtube.com/user/OnSIPvids)
 
-©2024 Junction Networks. [Terms & Privacy Policy](https://www.onsip.com/terms)
+©2024 Junction Networks.
 
 [![Start Free](https://no-cache.hubspot.com/cta/default/516769/f3606ceb-9902-4f53-81bb-9b5319b6e6a6.png)](https://cta-redirect.hubspot.com/cta/redirect/516769/f3606ceb-9902-4f53-81bb-9b5319b6e6a6)
