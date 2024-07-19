@@ -2,11 +2,36 @@ Hey, it looks like you're in **Australia**
 
 [Shop Australian Site ![test](https://flaglog.com/codes/standardized-rectangle-120px/AU.png)](https://shop.mattel.com.au/pages/hot-wheels) 
 
+[](https://shop.mattel.com/)[](https://shop.mattel.com/pages/barbie)[](https://shop.mattel.com/pages/hot-wheels)[](https://shop.mattel.com/pages/fisher-price)[All Brands](https://shop.mattel.com/pages/all-brands)
+
+* [](https://shop.mattel.com/pages/barbie)
+* [](https://shop.mattel.com/pages/hot-wheels)
+* [](https://shop.mattel.com/pages/fisher-price)
+* [](https://www.americangirl.com/)
+* [](https://shop.mattel.com/collections/disney-princess)
+* [](https://shop.mattel.com/collections/disney-frozen)
+* [](https://shop.mattel.com/collections/jurassic-world)
+* [](https://shop.mattel.com/collections/little-people)
+* [](https://shop.mattel.com/collections/mega)
+* [](https://shop.mattel.com/collections/uno)
+* [](https://shop.mattel.com/collections/wwe)
+* [](https://shop.mattel.com/collections/disney-pixar-cars)
+* [](https://shop.mattel.com/collections/monster-high)
+* [](https://shop.mattel.com/collections/power-wheels)
+* [](https://shop.mattel.com/collections/polly-pocket)
+* [](https://shop.mattel.com/collections/thomas-friends)
+* [](https://creations.mattel.com/)
+* [![All Brands](//cdn.optimizely.com/img/627150995/07e7ee0595ec49b6a8ed8b78700cb2f0.png)](https://shop.mattel.com/pages/all-brands)
+
+[](https://shop.mattel.com/)[](https://shop.mattel.com/pages/barbie)[](https://shop.mattel.com/pages/hot-wheels)[](https://shop.mattel.com/pages/fisher-price)[All Brands](https://shop.mattel.com/pages/all-brands)
+
+[](https://shop.mattel.com/)
+
+[0](https://shop.mattel.com/cart)
+
 ![](https://images.mattel.net/image/upload/w_360,c_scale/f_auto/q_auto/shop-contentstack/blt0d48938d4b5e4ff2/61e8aee96eeb29551c34a1fb/US)
 
 United States
-
-[](https://shop.mattel.com/)
 
 * [Corporate](https://corporate.mattel.com/en-us)
 * [Recalls](https://service.mattel.com/us/recall.aspx)
@@ -27,10 +52,6 @@ United States
 Navigation
 
 [](https://shop.mattel.com/)
-
-Close Search Clear
-
- _Search_
 
 * Shop
     
@@ -155,8 +176,6 @@ Close Search Clear
 * [New](https://shop.mattel.com/collections/new-arrivals)
 * [Sign in](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/en-us/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=login&ui_locales=en-us) or [Create account](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/en-us/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=register&ui_locales=en-us)
     
-* [0](https://shop.mattel.com/cart)
-    
 * * [Corporate](https://corporate.mattel.com/en-us)
     * [Recalls](https://service.mattel.com/us/recall.aspx)
     * [For Parents](https://shop.mattel.com/blogs/playroom)
@@ -176,6 +195,12 @@ Close Search Clear
         
         [Create account](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=register&ui_locales=en-us)
         
+
+Close Search Clear
+
+ _Search_
+
+[0](https://shop.mattel.com/cart)
 
 Popular Search
 
@@ -283,7 +308,7 @@ Some _Mattel Sites_ might place their own cookies on your device to offer you 
 
 © 2022 Mattel. All Rights Reserved.
 
-![](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt64084864f63cfc7b/624c57e37737b40a532f8e46/mattel-tagline-EN.png)
+![](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blte2e554e11ac21e7e/668437d93d793f24027694b8/MattelEmpoweringFlag_635x231.png)
 
 Sign up to get the latest from Mattel!
 
@@ -337,8 +362,6 @@ Legal
 * [Accessibility Statement](https://shop.mattel.com/pages/accessibility-statement)
 
 ©2024 Mattel
-
-![](?width=50) ![](?width=50)
 
 Close
 
