@@ -1,26 +1,6 @@
-![fbpx](https://www.facebook.com/tr?id=289159608336712&ev=PageView&noscript=1)         
-
 [Skip to content](#content)
 
-[**Important Notice to Our Valued Patients**](https://adhdonline.com/articles/important-notice-to-our-valued-patients/) | Considering Switching Your Provider? [**Learn More**](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)
-
-✨ **Nurture Your Mind Event | [Save $30 on the Smart Assessment](https://adhdonline.com/)** ✨
-
-**🚧** Important Notice for Today’s Zoom Provider Visits: **[Mobile Service Outage Alert](#mobile-service-outage)**.
-
-**🚧 Scheduled for maintenance: Patient Portal Thursday, September 28 from 5:00 – 6:30 AM ET. [Learn more](#portal-maintenance).**
-
-**Time is up! Promo saving expired on September 5th.**
-
-Days
-
-Hours
-
-Minutes
-
-Seconds
-
-Time is up! Promo savings expired on September 5th.
+**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
 
 [Labor Day Hours](#labor-day)
 
@@ -242,6 +222,24 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 
 **If you are having suicidal thoughts please immediately call or text the National Suicide Prevention Hotline at [988](tel:988)**
 
+### Join Our ADHD Research Study
+
+Mentavi Health is conducting ADHD research and is accepting a limited number of participants. Participants in our clinical study will get an ADHD Assessment at no cost. 
+
+**Who can join?**
+
+* Age 19+
+* Primary language is English
+* Not previously diagnosed with ADHD
+* Not a current patient of ADHD Online or Mentavi Health
+* A resident of any of the 50 US states or DC (not including Puerto Rico or other territories)
+
+**Why participate?**
+
+Your involvement will help improve mental health care for everyone.
+
+[Learn more](https://adhdonline.com/validity-study-recruitment/)
+
 #### **Provide [this form](https://drive.google.com/file/d/1W63Lv39xTnDufGJFXq4LLdJ6sEdV3Djd) to your local practitioner. You could:**
 
 * Send this link
@@ -256,21 +254,3 @@ In this form, your practitioner will request that ADHD Online continue to provid
 #### **Return** **the form to us**
 
 You or your practitioner can return this form to us [\[email protected\]](https://adhdonline.com/cdn-cgi/l/email-protection)or fax it to 616-210-3118
-
- ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
-
-**Looking to take our Assessment?**  
-It's available every day, anytime, and anywhere convenient for you!
----------------------------------------------------------------------------------------------------------
-
-[Start my Assessment](https://patients.adhdonline.com/signup?_gl=1*9n9406*_gcl_au*MTcxNjgzNTkzMi4xNjg2ODU3MzU2&_ga=2.139146611.1991447896.1687188572-481719545.1686857356)
-
-Looking to schedule your next appointment?
-
-Our portal is always open to schedule your next appointment. However, in-person phone support and live chats will be unavailable on Thursday, July 4, and Friday, July 5. Please [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message, and we will prioritize them upon our return.
-
-We genuinely appreciate your understanding. Full-office operations will resume on Monday, July 8.
-
-Already on our Treatment Path?
-
-Each clinician sets their own holiday hours, so please check with them for their availability.
