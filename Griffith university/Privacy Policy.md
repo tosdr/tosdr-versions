@@ -925,7 +925,7 @@ Footer
 * [Griffith College](https://www.griffithcollege.edu.au/)
 * [Health Clinics](https://www.griffith.edu.au/health/clinics)
 * [Library](https://www.griffith.edu.au/library)
-* [Medical](https://www.griffith.edu.au/student-services/health-and-medical-services)
+* [Medical](https://www.griffith.edu.au/student-support/health-service)
 * [Shops](https://www.griffith.edu.au/shops)
 * [Sport](https://www.griffith.edu.au/sport)
 * [What's on](https://www.griffith.edu.au/whats-on)
