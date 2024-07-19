@@ -54,13 +54,12 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [2024 Election](https://www.breitbart.com/2024-election/)
-* [Rachel Morin](https://www.breitbart.com/tag/illegal-immigration/)
-* [Pride Propaganda](https://www.breitbart.com/tag/pride-month/)
-* [Bidenomics Bust](https://www.breitbart.com/tag/bidenomics/)
-* [UK Election](https://www.breitbart.com/tag/uk-election/)
+* [RNC Week](https://www.breitbart.com/tag/republican-national-convention/)
+* [Trump Assassination Attempt](https://www.breitbart.com/tag/secret-service/)
+* [Will Joe Go?](https://www.breitbart.com/tag/joe-biden/)
+* [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
 * [Israel War](https://www.breitbart.com/middle-east/)
-* [AI Mania](https://www.breitbart.com/tag/artificial-intelligence-ai/)
+* [AI Mania](https://www.breitbart.com/tag/ai/)
 
 Breitbart Privacy Policy
 ========================
