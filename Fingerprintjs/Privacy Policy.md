@@ -30,7 +30,7 @@ FINGERPRINT IDENTIFICATION
 * [Introduction](https://dev.fingerprintjs.com/docs/introduction)
 * [Fingerprint Identification vs FingerprintJS](https://dev.fingerprintjs.com/docs/identification-vs-fingerprintjs)
 * [Understanding our 99.5% accuracy](https://dev.fingerprintjs.com/docs/understanding-our-995-accuracy)
-* [Understanding your confidence score](https://dev.fingerprintjs.com/docs/understanding-your-confidence-score)
+* [Understanding your confidence score](https://dev.fingerprintjs.com/docs/understanding-your-confidence-score-v11)
 * [Identification using pseudonymized IP Address](https://dev.fingerprintjs.com/docs/identification-using-pseudonymized-ip-address)
 * [Glossary](https://dev.fingerprintjs.com/docs/glossary)
 
@@ -93,7 +93,7 @@ Features
 
 * [Browser fingerprinting](https://dev.fingerprintjs.com/docs/browser-fingerprinting)
 * [Detecting fraud using visitorId](https://dev.fingerprintjs.com/docs/user-identification)
-* [Useful timestamps](https://dev.fingerprintjs.com/docs/useful-timestamps)
+* [Visitor Footprint Timestamps](https://dev.fingerprintjs.com/docs/useful-timestamps)
 * [Account Limits](https://dev.fingerprintjs.com/docs/account-limits)
 * [Sealed Client Results](https://dev.fingerprintjs.com/docs/sealed-client-results)
 * [Multiple environments](https://dev.fingerprintjs.com/docs/multiple-environments)
@@ -121,6 +121,7 @@ Integrations And Frameworks
     * [Google Tag Manager](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-google-tag-manager)
     * [Matomo / Piwik](https://dev.fingerprintjs.com/docs/matomo-piwik)
     * [Segment Data Integration](https://dev.fingerprintjs.com/docs/segment)
+    * [Fastly VCL Proxy Integration](https://dev.fingerprintjs.com/docs/fastly-vcl-proxy-integration)
 * [Backend libraries](https://dev.fingerprintjs.com/docs/backend-libraries)
     * [Go Server API SDK](https://dev.fingerprintjs.com/docs/fingerprint-pro-server-api-go-sdk)
     * [Java Server API SDK](https://dev.fingerprintjs.com/docs/java-server-api-sdk)
@@ -628,7 +629,7 @@ If you are in the UK, the relevant authority is the Information Commissioner's O
 
 If you are in the EEA, further information about how to contact your local data protection authority is available at [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
 
-If you are in Switzerland, please visit [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html) for more information.
+If you are in Switzerland, please visit [https://www.edoeb.admin.ch/edoeb/en/home/meldeportale.html](https://www.edoeb.admin.ch/edoeb/en/home/meldeportale.html) for more information.
 
 #### 
 
@@ -662,7 +663,7 @@ We may update this European Data Annex from time to time and so you should revie
 
 If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this European Data Annex.
 
-Updated 8 months ago
+Updated 11 days ago
 
 * * *
 
