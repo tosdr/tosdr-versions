@@ -281,6 +281,7 @@ Orange County Public Schools
     
     * [BoardDocs](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103519)
     * [Board Meetings](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103521)
+    * [Meeting Agendas & Minutes](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=2062859)
     * [Policies](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103527)
     * [School Board Members](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1152817)
     * [Strategic Plan 2025](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=308139)
@@ -424,6 +425,7 @@ Orange County Public Schools
 * [School Board](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103517)
     * [BoardDocs](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103519)
     * [Board Meetings](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103521)
+    * [Meeting Agendas & Minutes](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=2062859)
     * [Policies](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=103527)
     * [School Board Members](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=1152817)
     * [Strategic Plan 2025](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=308139)
