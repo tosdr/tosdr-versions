@@ -259,7 +259,7 @@ Victoria, BC V8W 2P3
 * [Umo](https://www.bctransit.com/umo/)
 * [Advertise at BC Transit](https://www.bctransit.com/business/advertise/)
 * [Become a Vendor](https://www.bctransit.com/business/become-a-retailer/)
-* [Supply and Tenders](https://www.bctransit.com/business/supply-and-tenders/)
+* [For Suppliers and Contractors](https://www.bctransit.com/business/supply-and-tenders/)
 * [In Your Community](https://www.bctransit.com/business/in-your-community/)
 * [BusReady](https://busready.bctransit.com/)
 * [Kids Tour Program](https://www.bctransit.com/business/kids-tour-program/)
