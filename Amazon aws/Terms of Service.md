@@ -82,7 +82,7 @@ Close
 AWS Service Terms
 =================
 
-#### Last Updated: June 11, 2024
+#### Last Updated: July 10, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -162,13 +162,17 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.22.4** We may, in our sole discretion, reject your request for tax exempt status or revoke the tax exempt status of your account at any time.
 
+**1.22.5** If you turn on [tax settings inheritance](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-account-payment.html#manage-account-tax-linked-accounts), you warrant that the application of any tax exemption on your Management Account to your Organization’s Member Accounts (both as defined in the AWS Organizations section below) complies with applicable tax laws. If a governmental authority determines that the correct amount of tax has not been collected on your purchases, you will promptly reimburse AWS for any associated costs.
+
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, you will comply with the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, and AWS HealthScribe. The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, AWS HealthScribe, and AWS App Studio (Preview). The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use, the Services to mine cryptocurrency without our prior written approval.
 
 **1.26.** AWS consents to the assignment of an AWS account from one entity to another, subject to the terms of the AWS Account Assignment Requirements, posted [here](https://aws.amazon.com/legal/aws-account-assignment-requirements/).
+
+**1.27**. To benefit from any contract with AWS enabling you to use AWS Services under the same terms as your affiliate's Agreement solely because your accounts are joined as Member Accounts of their Organization (as defined in the AWS Organizations section below), your AWS Contracting Party must be a signatory to your affiliate's Agreement.
 
 #### 2\. Betas and Previews
 
@@ -478,17 +482,19 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 
 #### 20\. AWS Marketplace
 
-**20.1.** Except to the extent Content made available through AWS Marketplace is provided to you under a separate license that expressly states otherwise, neither you nor any End User may, or may attempt to, (a) modify, alter, tamper with, repair, or otherwise create derivative works of any Content, (b) reverse engineer, disassemble, or decompile the Content or apply any other process or procedure to derive the source code of any software included in the Content, (c) resell or sublicense the Content, (d) transfer Content outside the Services without specific authorization to do so, or (e) tamper with or circumvent any controls or make unauthorized copies of the Content.
+**20.1.** Buyer Terms. If you purchase or obtain access to any Content or services through AWS Marketplace, the following AWS Marketplace Buyer Terms apply to you:
 
-**20.2.** AWS may stop providing AWS Marketplace (or any features of or listings within AWS Marketplace), without prior notice to you. In addition, AWS may disable or remove Content you have purchased on AWS Marketplace, if AWS reasonably determines that the Content may violate any Policies or any other regulations, policies, or laws.
+**20.1.1.** Except to the extent Content made available through AWS Marketplace is provided to you under a separate license that expressly states otherwise, neither you nor any End User may, or may attempt to, (a) modify, alter, tamper with, repair, or otherwise create derivative works of any Content, (b) reverse engineer, disassemble, or decompile the Content or apply any other process or procedure to derive the source code of any software included in the Content, (c) resell or sublicense the Content, (d) transfer Content outside the Services without specific authorization to do so, or (e) tamper with or circumvent any controls or make unauthorized copies of the Content.
 
-**20.3.** To the extent authorized by the respective third party provider on AWS Marketplace, AWS may disable access to or remove any Third Party Content you purchased or subscribed to on AWS Marketplace in the event of overdue and uncollected payments, upon AWS providing you with at least 30 days’ advance written notice.
+**20.1.2.** AWS may stop providing AWS Marketplace (or any features of or listings within AWS Marketplace), without prior notice to you. In addition, AWS may disable or remove Content you have purchased on AWS Marketplace, if AWS reasonably determines that the Content may violate any Policies or any other regulations, policies, or laws.
 
-**20.4.** Professional services offered on AWS Marketplace by third parties are subject to separate terms and conditions specified by the respective third party. AWS has no control over and makes no guarantees about such services. 
+**20.1.3.** To the extent authorized by the respective third party provider on AWS Marketplace, AWS may disable access to or remove any Third Party Content you purchased or subscribed to on AWS Marketplace in the event of overdue and uncollected payments, upon AWS providing you with at least 30 days’ advance written notice.
 
-**20.5.** If you are a buyer on AWS Marketplace, you are responsible for collecting tax documentation, withholding as required, and filing all tax forms with your applicable tax authorities for your AWS Marketplace transactions. If you are a buyer making a payment of U.S. source services or royalty income to a non-U.S. third party provider, all such collection, withholding, and filing obligations are yours as we do not act as a Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a).
+**20.1.4.** Professional services offered on AWS Marketplace by third parties are subject to separate terms and conditions specified by the respective third party. AWS has no control over and makes no guarantees about such services. 
 
-**20.6.** For purposes of facilitating your purchases from third parties on AWS Marketplace, the applicable AWS Contracting Party under the Agreement is set out in the table below. Notwithstanding the foregoing, Amazon Web Services, Inc. continues to be the invoicing party for third party products that are resold by Amazon Web Services, Inc. on AWS Marketplace.  
+**20.1.5.** If you are a buyer on AWS Marketplace, you are responsible for collecting tax documentation, withholding as required, and filing all tax forms with your applicable tax authorities for your AWS Marketplace transactions. If you are a buyer making a payment of U.S. source services or royalty income to a non-U.S. third party provider, all such collection, withholding, and filing obligations are yours as we do not act as a Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a). In certain countries, AWS will collect fees and taxes on behalf of the seller and remit the taxes and subscription payment to the seller.
+
+**20.1.6.** For purposes of facilitating your purchases from third parties on AWS Marketplace, the applicable AWS Contracting Party under the Agreement is set out in the table below. Notwithstanding the foregoing, Amazon Web Services, Inc. continues to be the invoicing party for third party products that are resold by Amazon Web Services, Inc. on AWS Marketplace.  
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -496,15 +502,17 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 | Australia<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia |
 | Japan<br><br>(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan |
 | The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](https://aws.amazon.com/legal/aws-emea-countries/)<br><br>(w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg |
-| Any other country that is not listed in this table above, excluding China | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  <br>Seattle, WA 98109-5210  <br>U.S.A. |
+| Any other country that is not listed in this table above | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  <br>Seattle, WA 98109-5210  <br>U.S.A. |
 
 1 Excludes professional services, for which the applicable AWS Contracting Party is Amazon Web Services, Inc. Additionally, this applies only if your purchase on AWS Marketplace is from a third party that has been onboarded to Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the applicable AWS Contracting Party.
 
-**20.7.** If you are an AWS customer located in India, parties agree that this Section 20.7 will be applicable:   
+**20.1.7.** If you are an AWS customer located in India, parties agree that this Section 20.1.7 will be applicable:   
 
-**20.7.1.** If you have provided your Goods and Services Tax (GST) registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.   
+**20.1.7.1.** If you have provided your Goods and Services Tax (GST) registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.   
 
-**20.7.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.
+**20.1.7.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.
+
+**20.2.** Seller Terms. If you promote, license, sell, provide or provide access to any Content or services through AWS Marketplace, the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to you. 
 
 #### 21\. AWS Ground Station
 
@@ -839,7 +847,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 #### 50\. AWS Machine Learning and Artificial Intelligence Services
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Titan, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, PartyRock, an Amazon Bedrock Playground (“PartyRock”), Amazon Personalize, Amazon Polly, Amazon Q, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, and AWS HealthScribe. “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Titan, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, PartyRock, an Amazon Bedrock Playground (“PartyRock”), Amazon Personalize, Amazon Polly, Amazon Q, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, and AWS App Studio (Preview). “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
@@ -1224,9 +1232,19 @@ AWS CodeStar Notifications utilizes one or more of the following: Amazon Simple 
 
 #### 73\. AWS Data Exchange
 
-**73.1.** The AWS Marketplace Service Terms apply to your use of AWS Data Exchange. Your use of Content obtained through AWS Data Exchange remains subject to the AWS Acceptable Use Policy, even if used outside of our Services.
+**73.1.** The [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to your use of AWS Data Exchange. Your use of Content obtained through AWS Data Exchange remains subject to the AWS Acceptable Use Policy, even if used outside of our Services.
 
-**73.2.** You may not use any Content obtained through AWS Data Exchange that was anonymized, de-identified, or otherwise disassociated from an identifiable person in any manner that would attempt to re-identify, de-anonymize, or otherwise associate such Content with an identifiable person.  
+**73.2.** You may not use any Content obtained through AWS Data Exchange that was anonymized, de-identified, or otherwise disassociated from an identifiable person in any manner that would attempt to re-identify, de-anonymize, or otherwise associate such Content with an identifiable person.
+
+**73.3.** If we remove your Data Offering (as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)), then we may also cancel any current associated subscriptions if we determine, in our sole discretion, that your Data Offering: (a) poses a security risk to us or a Subscriber (as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)); (b) could subject us, our affiliates, or any third party to liability; (c) could be fraudulent; or (d) violates the AWS Marketplace Service Terms.  
+
+**73.4.** Except as agreed to in writing between you and the respective Subscriber, otherwise permitted by law, in addition to any other restrictions on your use of Subscriber Information (as defined in the [Service Terms for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)) in the Service Terms for AWS Marketplace Sellers, you may only use Subscriber Information for compliance verification in connection with Subscribers acquiring rights to the underlying content of your Data Offerings. 
+
+**73.5.** You represent and warrant to us that to the extent your Data Offerings contains any data that (i) identifies or can be used by a Subscriber or other third party to identify a natural person; or (ii) otherwise may be deemed to be personal data or personal information under applicable laws or regulations with respect to the Subscriber, then such data (a) has already lawfully been made available to the general public, such as via governmental records, widely distributed media, or legally required public disclosures; and (b) does not include sensitive data or sensitive information about an individual or shall not otherwise be deemed to be sensitive data or sensitive information under applicable laws and regulations, including without limitation, information relating to biometric or genetic data, health, racial or ethnic origin, political opinions, religious or philosophical beliefs, sex or sexual orientation, trade union membership, or personal payment or sensitive personal data.
+
+**73.6.** If you do not specify license rights for your Data Offerings, you agree to license your Data Offerings under the terms of the template Data Subscription Agreement available at [https://aws.amazon.com/marketplace/features/standardized-contracts](https://aws.amazon.com/marketplace/features/standardized-contracts).
+
+**73.7.** Your use of AWS Data Exchange is subject to the fees described in the [AWS Data Exchange User Guide](https://docs.aws.amazon.com/data-exchange/latest/userguide/what-is.html).
 
 #### 74\. AWS End of Support Migration Program for Windows Server
 
