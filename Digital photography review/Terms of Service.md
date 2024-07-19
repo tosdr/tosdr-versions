@@ -1,4 +1,4 @@
-![](https://sb.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=&c5=&c6=&c15=&cj=1&cs_ucfr=0)                         
+![](https://sb.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=&c5=&c6=&c15=&cj=1&cs_ucfr=0)                           
 
 [Instagram](https://www.instagram.com/dpreview) [TikTok](https://www.tiktok.com/@dpreviewtv) [YouTube](https://www.youtube.com/user/dpreviewcom) [Twitter](https://www.twitter.com/dpreview) [Facebook](https://www.facebook.com/dpreview) [Newsletter](https://www.dpreview.com/newsletter) [Submit a News Tip!](https://www.dpreview.com/feedback?category=content-suggestion&url=https%3a%2f%2fwww.dpreview.com%2fmisc%2ftermsandconditions)
 
@@ -115,38 +115,38 @@ Latest reviews
 
 |     |     |
 | --- | --- |
+| [![Canon EOS R5 Mark II](https://2.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/canon_eosr5ii/7acc4124877740d9ab9b0df666e9920e.png)](https://www.dpreview.com/reviews/canon-eos-r5-ii-initial-review) | [Canon EOS R5 Mark II](https://www.dpreview.com/reviews/canon-eos-r5-ii-initial-review) |
+
+|     |     |
+| --- | --- |
+| [![Sony ZV-E10 II](https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/sony_zve10ii/77172f37969948b589e933cee1c9d41f.png)](https://www.dpreview.com/reviews/sony-zv-e10-ii-initial-review) | [Sony ZV-E10 II](https://www.dpreview.com/reviews/sony-zv-e10-ii-initial-review) |
+
+|     |     |
+| --- | --- |
+| [![Leica D-Lux 8](https://4.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/leica_dlux8/cd1fcfa8664d44b38cb04577f0b2ada4.png)](https://www.dpreview.com/reviews/leica-d-lux8-initial-review) | [Leica D-Lux 8](https://www.dpreview.com/reviews/leica-d-lux8-initial-review) |
+
+|     |     |
+| --- | --- |
+| [![Pentax 17 review](https://3.img-dpreview.com/files/p/E~C1267x802S2042x2042T60x60~articles/9053926755/Pentax-17-camera.jpeg)](https://www.dpreview.com/reviews/pentax-17-film-camera-review) | [Pentax 17](https://www.dpreview.com/reviews/pentax-17-film-camera-review) |
+
+|     |     |
+| --- | --- |
 | [![Nikon Z6III](https://3.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/nikon_z6iii/a854777ca1d44d4c8956aa4c2b215fcd.png)](https://www.dpreview.com/reviews/nikon-z6iii-initial-review) | [Nikon Z6III](https://www.dpreview.com/reviews/nikon-z6iii-initial-review) |
-
-|     |     |
-| --- | --- |
-| [![Panasonic Lumix DC-GH7](https://4.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcgh7/390e1f4d37a0442a96986cc4e73f3524.png)](https://www.dpreview.com/reviews/panasonic-gh7-initial-review) | [Panasonic Lumix DC-GH7](https://www.dpreview.com/reviews/panasonic-gh7-initial-review) |
-
-|     |     |
-| --- | --- |
-| [![Panasonic Lumix DC-S9](https://4.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/panasonic_dcs9/8f8ca7a0b2314f5b9aae9ba9fa6f196d.png)](https://www.dpreview.com/reviews/panasonic-s9-initial-review) | [Panasonic Lumix DC-S9](https://www.dpreview.com/reviews/panasonic-s9-initial-review) |
-
-|     |     |     |
-| --- | --- | --- |
-| [![Sony a9 III](https://1.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/sony_a9iii/431c25348b5d4393a9ea8d1ac7a91bf5.png)](https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review) | [Sony a9 III](https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review) | 91% |
-
-|     |     |
-| --- | --- |
-| [![Fujifilm X-T50](https://1.img-dpreview.com/files/p/TS60x60PFFFFFF00~products/fujifilm_xt50/19402c037631437c91f7e42b043762db.png)](https://www.dpreview.com/reviews/fujifilm-x-t50-initial-review) | [Fujifilm X-T50](https://www.dpreview.com/reviews/fujifilm-x-t50-initial-review) |
 
 [See all reviews](https://www.dpreview.com/reviews) »
 
 Finished challenges
 
-|     |     |     |
-| --- | --- | --- |
-| [![Beautiful Summer](https://g3.img-dpreview.com/9501518B849A45558B8A6BD4575AC36D.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247591) | [![Duck in Flight](https://g3.img-dpreview.com/C88F0432508C4C42B44DC37D16996C30.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247490) | [![Stained glass in Lincoln cathedral](https://g4.img-dpreview.com/1261AC9CA805406E96BDB59E418F5025.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1247408) |
-| Beautiful Summer by Xiaomao  <br>from DPReview Editors' Challenge \| Natural worlds | Duck in Flight by amami  <br>from A Big Year 2024 | Stained glass in Lincoln cathedral by Mike Engles  <br>from Windows |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [![Airborn food delivery](https://g1.img-dpreview.com/1FA48BD98BFC49E686DB511CEAF8C8F2.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248141) | [![COMFY!](https://g3.img-dpreview.com/AFB3CC73021C482E91DF5F6B8F53AAC6.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248140) | [![Southern Stingray and Bar Jack](https://g3.img-dpreview.com/1697E1242C89423C8BAE0952684972D2.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248053) | [![jumping spider](https://g1.img-dpreview.com/277A1C4CF4964D2EA74F745ACF3715E2.jpg)](https://www.dpreview.com/challenges/Entry.aspx?ID=1248133) |
+| Airborn food delivery by Okapi001  <br>from A Big Year 2024 | COMFY! by old shutter bugger  <br>from People Asleep | Southern Stingray and Bar Jack by Mushmich  <br>from Underwater Nature – Unlimited | jumping spider by Deadfisheye  <br>from Fortnight 28: My Best Non-bird Photo Shot after 2024-06-10 |
 
 [Discover more challenges](https://www.dpreview.com/challenges/) »
 
 Most popular cameras
 
-[Nikon Z6III10.1%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Canon EOS R79.4%](https://www.dpreview.com/products/canon/slrs/canon_eosr7)[Nikon Zf1.8%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a67001.3%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Sony a7CR1.2%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Panasonic Lumix DC-GH71.1%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcgh7)[Fujifilm X100VI1.1%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_x100vi)[Canon EOS R6 Mark II1.0%](https://www.dpreview.com/products/canon/slrs/canon_eosr6ii)[Nikon Z81.0%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)[Panasonic Lumix DC-S5II1.0%](https://www.dpreview.com/products/panasonic/slrs/panasonic_dcs5ii)
+[Canon EOS R5 Mark II8.5%](https://www.dpreview.com/products/canon/slrs/canon_eosr5ii)[Sony ZV-E10 II2.4%](https://www.dpreview.com/products/sony/slrs/sony_zve10ii)[Sony a67001.9%](https://www.dpreview.com/products/sony/slrs/sony_a6700)[Nikon Zf1.9%](https://www.dpreview.com/products/nikon/slrs/nikon_zf)[Sony a7CR1.8%](https://www.dpreview.com/products/sony/slrs/sony_a7cr)[Nikon Z6III1.6%](https://www.dpreview.com/products/nikon/slrs/nikon_z6iii)[Leica D-Lux 81.5%](https://www.dpreview.com/products/leica/compacts/leica_dlux8)[Fujifilm X-S201.3%](https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20)[OM System OM-51.3%](https://www.dpreview.com/products/olympus/slrs/omsystem_om5)[Nikon Z81.1%](https://www.dpreview.com/products/nikon/slrs/nikon_z8)
 
 [Popular interchangable lens cameras](https://www.dpreview.com/products/slrs/statistics) »
 
@@ -160,26 +160,26 @@ Top threads
 
 |     |     |
 | --- | --- |
-| 77  | [What is fueling the trend back to film?](https://www.dpreview.com/forums/post/67771492) |
-| 57  | [Hypothetical poll question...Would you buy a APSC version of the Z6iii?](https://www.dpreview.com/forums/post/67771753) |
-| 40  | [To many photos](https://www.dpreview.com/forums/post/67771903) |
-| 37  | [Do Nikon FX bodies have to be bigger than DX bodies?](https://www.dpreview.com/forums/post/67773333) |
-| 35  | [Pentax, what happened to you?](https://www.dpreview.com/forums/post/67772380) |
-| 32  | [X-Trans 1 why so expensive.](https://www.dpreview.com/forums/post/67772411) |
-| 30  | [Lenses I am jealous from other systems...](https://www.dpreview.com/forums/post/67773392) |
-| 30  | [For Zf owners](https://www.dpreview.com/forums/post/67773610) |
-| 29  | [Are we anticipating a fixed lens Gfx](https://www.dpreview.com/forums/post/67772430) |
-| 28  | [Birds anyone?](https://www.dpreview.com/forums/post/67772861) |
-| 28  | [Is Sony making too many different cameras?](https://www.dpreview.com/forums/post/67773330) |
-| 27  | [Z8 or Z6iii?](https://www.dpreview.com/forums/post/67771537) |
-| 27  | [Nikon Lens Roadmap](https://www.dpreview.com/forums/post/67774519) |
-| 25  | [Going from FF to 4/3 for macro?](https://www.dpreview.com/forums/post/67772724) |
-| 24  | [Exported image quality low](https://www.dpreview.com/forums/post/67772647) |
-| 23  | [Upgrading from Pen-F](https://www.dpreview.com/forums/post/67772916) |
-| 21  | [Godox X3 trigger and Z8 HSS - banding?](https://www.dpreview.com/forums/post/67773416) |
-| 20  | [Canon has refurbished RF 100-500 at a great price](https://www.dpreview.com/forums/post/67773337) |
-| 20  | [Even NEWER flower thread](https://www.dpreview.com/forums/post/67773551) |
-| 20  | [Z50 / Z6ii shenanigans](https://www.dpreview.com/forums/post/67774224) |
+| 144 | [The negativity around the R5II/R1 is bizarre. What do people want?](https://www.dpreview.com/forums/post/67821086) |
+| 100 | [Something to consider -- what does the R1 mean for the z9 Mark II?](https://www.dpreview.com/forums/post/67821213) |
+| 77  | [R5 to R5II upgrade? totally unnecessary](https://www.dpreview.com/forums/post/67821218) |
+| 54  | [Official Canon EOS R5 Mark II Images & Specifications](https://www.dpreview.com/forums/post/67820855) |
+| 54  | [Understanding and Improving Low-Light Performance in Mirrorless Cameras](https://www.dpreview.com/forums/post/67821579) |
+| 52  | [Am I crazy to buy a Z5 if I have a D7500?](https://www.dpreview.com/forums/post/67822722) |
+| 50  | [Panasonic 15mm f1.7 vs Olympus 17mm f1.8](https://www.dpreview.com/forums/post/67823144) |
+| 46  | [End of photography or exciting new world.](https://www.dpreview.com/forums/post/67821572) |
+| 39  | [R1 at 24MP - Z9 at 45MP](https://www.dpreview.com/forums/post/67821455) |
+| 38  | [Marginal difference of new (or new-to-me) equipment](https://www.dpreview.com/forums/post/67822065) |
+| 36  | [Does anyone know the specifications for the new LP-E6P battery?](https://www.dpreview.com/forums/post/67821953) |
+| 35  | [Dell XPS desktop vs. MacBook pro laptop](https://www.dpreview.com/forums/post/67821995) |
+| 34  | [\* The Weekly Image Thread 24 07 17 #896 \*](https://www.dpreview.com/forums/post/67821849) |
+| 34  | [Any fujifilm converts to Zf here?](https://www.dpreview.com/forums/post/67820871) |
+| 33  | [Rolling shutter for stills R5 Mark II](https://www.dpreview.com/forums/post/67822534) |
+| 33  | [When is enough too much ?](https://www.dpreview.com/forums/post/67823757) |
+| 31  | [Still no high MP camera?](https://www.dpreview.com/forums/post/67822739) |
+| 25  | [Going on Vacation, This Kit Will Deliver!?](https://www.dpreview.com/forums/post/67823133) |
+| 25  | [sadly pixel shift and the moon won't become friends](https://www.dpreview.com/forums/post/67822487) |
+| 24  | [My Fuji GFX 100sII Overexposes Everything By Almost 2 Stops. Is it Defective?](https://www.dpreview.com/forums/post/67824141) |
 
 [www.dpreview.com](https://www.dpreview.com/ "dpreview.com: Digital Photograhy Review")
 
