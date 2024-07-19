@@ -81,7 +81,7 @@
         [GravityZone Products](https://www.bitdefender.com/business/products/security-products.html)
         
         * [CSPM+](https://www.bitdefender.com/business/products/gravityzone-cspm-plus.html) _NEW_
-        * [Endpoint Detection and Response (EDR)](https://www.bitdefender.com/business/enterprise-products/endpoint-detection-response.html)
+        * [Endpoint Detection and Response (EDR)](https://www.bitdefender.com/business/products/endpoint-detection-response.html)
         * [Extended Detection and Response (XDR)](https://www.bitdefender.com/business/products/gravityzone-xdr.html)
         * [Security for Containers (Linux)](https://www.bitdefender.com/business/products/container-security.html)
         * [Cloud and Server Security](https://www.bitdefender.com/business/products/cloud-server-security.html)
@@ -154,7 +154,7 @@
         * [Enable Cyber Resilience](https://www.bitdefender.com/business/solutions/cyber-resilience.html)
         * [Improve Cybersecurity Compliance](https://www.bitdefender.com/business/solutions/cybersecurity-compliance.html)
         * [Provide Managed Security Services](https://www.bitdefender.com/business/solutions/managed-security-services.html)
-        * [Security Cloud Workloads](https://www.bitdefender.com/business/solutions/cloud-workload-protection.html)
+        * [Secure Cloud Workloads](https://www.bitdefender.com/business/solutions/cloud-workload-protection.html)
         * [Secure Datacenters](https://www.bitdefender.com/business/solutions/data-center-security.html)
         * [Secure Endpoints](https://www.bitdefender.com/business/solutions/endpoint-security.html)
         * [Secure Small to Medium Business](https://www.bitdefender.com/business/solutions/small-medium-business-cybersecurity.html)
@@ -272,9 +272,12 @@
         
         * [Contact Us](https://www.bitdefender.com/oem/contact-us.html)
         
-    * [Telco Partners](https://www.bitdefender.com/partners/subscriber-protection-platform.html)
+    * Telco Partners
         
-        [Subscriber Protection Platform](https://www.bitdefender.com/partners/subscriber-protection-platform.html)
+        Resources Center
+        
+        * [Subscriber Protection Platform](https://www.bitdefender.com/partners/subscriber-protection-platform.html)
+        * [Resources](https://www.bitdefender.com/partners/subscriber-protection-platform/resources/)
         
     
 * [Company](https://www.bitdefender.com/company/)
@@ -305,7 +308,12 @@
         
         View All
         
-    * [Brand Portal](https://brand.bitdefender.com/brandcenter/en/bitdefenderhub/component/default/104804)
+    * Brand
+        
+        * [Why Trusted](https://www.bitdefender.com/en-us/trusted/)
+        * [Ferrari Partnership](https://www.bitdefender.com/ferrari/)
+        * [Brand Portal](https://brand.bitdefender.com/point/en/bitdefenderhub/component/default/104804)
+        
     
 
 * [Blog](https://www.bitdefender.com/blog/)
