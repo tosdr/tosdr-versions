@@ -4,19 +4,24 @@
 
 * [Platform](javascript:;)
     * [Features](javascript:;)
-        * [Bank Verification](https://www.dwolla.com/features/bank-verification)
+        * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
+        * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
+        * [Mass Pay](https://www.dwolla.com/features/mass-pay)
         * [Webhooks](https://www.dwolla.com/features/webhooks)
         * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
-        * [Tokenization](https://www.dwolla.com/features/tokenization)
         * [Addenda Records](https://www.dwolla.com/features/addenda-records)
+    * [Security](javascript:;)
+        * [Open Banking Services](https://www.dwolla.com/features/open-banking-services)
+        * [Tokenization](https://www.dwolla.com/features/tokenization)
+        * [Bank Verification](https://www.dwolla.com/features/bank-verification)
+        * [Secure Exchange Solution](https://www.dwolla.com/features/secure-exchange-solution/)
     * [Payment Methods](javascript:;)
         * [Instant Payments](https://www.dwolla.com/features/instant-payments)
         * [Same Day ACH](https://www.dwolla.com/features/same-day-ach/)
         * [Standard ACH](https://www.dwolla.com/features/standard-ach)
-    * [Open Banking Services](https://www.dwolla.com/features/open-banking-services)
-    * [Secure Exchange Solution](https://www.dwolla.com/features/secure-exchange-solution/)
-    * [Sandbox Environment](https://www.dwolla.com/features/sandbox)
-    * [Dedicated Support](https://www.dwolla.com/features/dedicated-support)
+    * [Benefits](javascript:;)
+        * [Sandbox Environment](https://www.dwolla.com/features/sandbox)
+        * [Dedicated Support](https://www.dwolla.com/features/dedicated-support)
 * [Solutions](javascript:;)
     * [Industries](javascript:;)
         * [Insurance](https://www.dwolla.com/industries/insurtech-payment-solutions/)
@@ -41,23 +46,28 @@
 
 [Talk to Sales](https://www.dwolla.com/contact)
 
-[![dwolla-logo-white-text_6091c737](https://www.dwolla.com/hubfs/dwolla-logo-white-text_6091c737.svg)](https://www.dwolla.com/)[![dwolla-logo-white-text_6091c737](https://www.dwolla.com/hubfs/dwolla-logo-white-text_6091c737.svg)](https://www.dwolla.com/)
+[![dwolla-logo-white-text_6091c737](https://www.dwolla.com/hubfs/dwolla-logo-white-text_6091c737.svg)](https://www.dwolla.com/)[![Dwolla Logo](https://www.dwolla.com/hubfs/dwolla-logo-white-text_6091c737.svg)](https://www.dwolla.com/)
 
 * [Platform](javascript:;)
     * [Features](javascript:;)
-        * [Bank Verification](https://www.dwolla.com/features/bank-verification)
+        * [Digital Wallet](https://www.dwolla.com/features/digital-wallet)
+        * [Dwolla Dashboard](https://www.dwolla.com/features/dashboard)
+        * [Mass Pay](https://www.dwolla.com/features/mass-pay)
         * [Webhooks](https://www.dwolla.com/features/webhooks)
         * [Correlation ID](https://www.dwolla.com/features/correlation-id/)
-        * [Tokenization](https://www.dwolla.com/features/tokenization)
         * [Addenda Records](https://www.dwolla.com/features/addenda-records)
+    * [Security](javascript:;)
+        * [Open Banking Services](https://www.dwolla.com/features/open-banking-services)
+        * [Tokenization](https://www.dwolla.com/features/tokenization)
+        * [Bank Verification](https://www.dwolla.com/features/bank-verification)
+        * [Secure Exchange Solution](https://www.dwolla.com/features/secure-exchange-solution/)
     * [Payment Methods](javascript:;)
         * [Instant Payments](https://www.dwolla.com/features/instant-payments)
         * [Same Day ACH](https://www.dwolla.com/features/same-day-ach/)
         * [Standard ACH](https://www.dwolla.com/features/standard-ach)
-    * [Open Banking Services](https://www.dwolla.com/features/open-banking-services)
-    * [Secure Exchange Solution](https://www.dwolla.com/features/secure-exchange-solution/)
-    * [Sandbox Environment](https://www.dwolla.com/features/sandbox)
-    * [Dedicated Support](https://www.dwolla.com/features/dedicated-support)
+    * [Benefits](javascript:;)
+        * [Sandbox Environment](https://www.dwolla.com/features/sandbox)
+        * [Dedicated Support](https://www.dwolla.com/features/dedicated-support)
 * [Solutions](javascript:;)
     * [Industries](javascript:;)
         * [Insurance](https://www.dwolla.com/industries/insurtech-payment-solutions/)
@@ -101,6 +111,12 @@ Transfers in near real-time.
 
 **[Digital Wallet](https://www.dwolla.com/features/digital-wallet)**  
 Initiate faster transactions by utilizing Dwolla's Digital Wallet to hold funds.
+
+**[Dwolla Dashboard](https://www.dwolla.com/features/dashboard)**  
+Access and manage your payments data through the our user-friendly interface.
+
+**[Mass Pay](https://www.dwolla.com/features/mass-pay)**  
+Send multiple bank transfers with a single API request.
 
 [**Webhooks**](https://www.dwolla.com/features/webhooks)  
 Real-time notifications.
