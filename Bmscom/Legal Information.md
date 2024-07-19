@@ -210,9 +210,11 @@ Patients & caregivers _Next Page Icon_
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html)
 
-[Get help paying for your medicines](https://www.bms.com/patient-and-caregivers/get-help-paying-for-your-medicines.html)
+[Survivorship Today](https://www.bms.com/patient-and-caregivers/survivorship-today.html)
 
 [Patient resources](https://www.bms.com/patient-and-caregivers/patient-resources-by-condition.html)
+
+[Get help paying for your medicines](https://www.bms.com/patient-and-caregivers/get-help-paying-for-your-medicines.html)
 
 [Risk evaluation and mitigation strategies (REMS)](https://www.bms.com/patient-and-caregivers/risk-evaluation-and-mitigation-strategies.html)
 
@@ -379,8 +381,6 @@ About us _Next Page Icon_
 QUICK LINKS
 
 [Global Patient Week](https://www.bms.com/about-us/our-company/global-patient-week.html)
-
-[Survivorship Today](https://www.bms.com/about-us/our-company/survivorship-today.html)
 
 [Our technologies](https://www.bms.com/about-us/our-company/our-technologies.html)
 
