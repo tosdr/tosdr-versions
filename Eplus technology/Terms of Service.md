@@ -13,7 +13,8 @@ Search
 ![](/Frontend-Assembly/Telerik.Sitefinity.Frontend.Navigation/assets/dist/images/logo_transparent.png?package=Talon)* [Contact Us](https://www.eplus.com/contact)
 * [Solutions](https://www.eplus.com/solutions)
     
-    [### Solutions](https://www.eplus.com/solutions)
+    [Solutions
+    ---------](https://www.eplus.com/solutions)
     
     At ePlus, our focus is making technology mean more—and do more—to drive positive business outcomes for our customers.
     
@@ -63,6 +64,7 @@ Search
         * [Connectivity](https://www.eplus.com/solutions/networking/connectivity)
         * [Managed Network Services](https://www.eplus.com/solutions/networking/network-support-services)
         * [Technology Expense Management](https://www.eplus.com/solutions/networking/technology-expense-management)
+        * [High Capacity & High Performance Networking](https://www.eplus.com/solutions/networking/high-capacity-and-high-performance-networking)
     * [Collaboration](https://www.eplus.com/solutions/collaboration) [Collaboration](https://www.eplus.com/solutions/collaboration)
         * [Cloud Collaboration](https://www.eplus.com/solutions/collaboration/cloud-collaboration)
         * [Contact Center](https://www.eplus.com/solutions/collaboration/contact-center)
@@ -92,7 +94,8 @@ Search
 * [Solutions](https://www.eplus.com/solutions)
 * [Services](https://www.eplus.com/services)
     
-    [### Services](https://www.eplus.com/services)
+    [Services
+    --------](https://www.eplus.com/services)
     
     ePlus brings a unique outcomes-focused perspective to understand the big picture while also delivering practical approaches to guide you in achieving your ultimate vision—a more modern, secure digital business. With ePlus, Perspective Means Everything
     
@@ -140,7 +143,8 @@ Search
     
 * [Financing](https://www.eplus.com/financing)
     
-    [### Financing](https://www.eplus.com/financing)
+    [Financing
+    ---------](https://www.eplus.com/financing)
     
     Ready to upgrade your technology but not sure it’s within your budget? We offer a variety of financing and leasing options so you can procure technology when and how you need it, at a price point you can manage. Since 1990 we have been providing a wide portfolio of financing solutions to customers across commercial and government enterprises, designing programs that are tailored to fit their unique processes, structures and requirements.
     
@@ -169,7 +173,8 @@ Search
 * [Partners](https://www.eplus.com/partners)
 * [About Us](https://www.eplus.com/about-us)
     
-    [### About Us](https://www.eplus.com/about-us)
+    [About Us
+    --------](https://www.eplus.com/about-us)
     
     Acting as a trusted advisor, an extension of their team, a trainer, a partner or in a capacity to proactively monitor and manage their networks, we are committed to using technology to drive positive business outcomes for our customers.
     
@@ -215,7 +220,8 @@ Search
     
 * [Resources](https://www.eplus.com/Resources)
     
-    [### Resources](https://www.eplus.com/Resources)
+    [Resources
+    ---------](https://www.eplus.com/Resources)
     
     Get the latest industry news, topics and trends from the ePlus experts.
     
@@ -792,4 +798,4 @@ NASDAQ: PLUS
 
 ![](https://px.ads.linkedin.com/collect/?pid=2743713&fmt=gif)
 
-©2000 - 2024 ePlus inc. All Rights Reserved [California Supply Chains Act / UK Modern Slavery Act](https://www.eplus.com/docs/default-source/default-document-library/modern-slavery-act-transparency-statement-2023.pdf?sfvrsn=687d50b1_1)
+©2000 - 2024 ePlus inc. All Rights Reserved [California Supply Chains Act / Modern Slavery Act Transparency Statement](https://www.eplus.com/docs/default-source/default-document-library/modern-slavery-act-transparency-statement-2024.pdf?sfvrsn=a62952b1_1)
