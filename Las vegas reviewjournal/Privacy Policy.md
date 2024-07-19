@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[86°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[91°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -31,17 +31,17 @@ Hi
 * [Opinion](https://www.reviewjournal.com/opinion/)
 * [Crime](https://www.reviewjournal.com/crime/)
 * [Entertainment](https://www.reviewjournal.com/entertainment/)
+* [Food](https://www.reviewjournal.com/entertainment/food/)
 * [Investigations](https://www.reviewjournal.com/investigations/)
-* [Autos](https://www.reviewjournal.com/autos/)
 * [Obits](https://obituaries.reviewjournal.com/)
 
 [](# "search icon")
 
 [](#)
 
-86°F
+91°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png) Clear
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png) Clear
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
@@ -99,6 +99,7 @@ Hi
         * [UNLV Football](https://www.reviewjournal.com/sports/unlv/unlv-football/)
         * [UNLV Basketball](https://www.reviewjournal.com/sports/unlv/unlv-basketball/)
     * [Nevada Preps](https://www.reviewjournal.com/nevada-preps/)
+    * [NBA Summer League](https://www.reviewjournal.com/sports/basketball/nba-summer-league/)
     * [Betting](https://www.reviewjournal.com/sports/betting/)
         * [Sports Betting 101](https://www.reviewjournal.com/tag/betting-101/)
         * [Las Vegas Sportsbooks](https://www.reviewjournal.com/sports/betting/las-vegas-sportsbook-guide-1944738/)
@@ -110,12 +111,9 @@ Hi
         * [Adam Hill](https://www.reviewjournal.com/sports/sports-columns/adam-hill/)
     * [Poker](https://www.reviewjournal.com/sports/poker/)
     * [National Finals Rodeo](https://www.reviewjournal.com/sports/rodeo/national-finals-rodeo/)
-    * [Super Bowl](https://www.reviewjournal.com/sports/football/super-bowl/)
-    * [Where Are They Now?](https://www.reviewjournal.com/tag/where-are-they-now/)
     * [On TV/Radio](https://www.reviewjournal.com/sports/todays-local-and-national-sports-schedule/)
     * [Lights FC](https://www.reviewjournal.com/sports/lights/)
     * [MMA and UFC](https://www.reviewjournal.com/sports/mma-ufc/)
-    * [Boxing](https://www.reviewjournal.com/sports/boxing/)
     * [Golf](https://www.reviewjournal.com/sports/golf/)
 * [Business](https://www.reviewjournal.com/business/)
     * [Casinos & Gaming](https://www.reviewjournal.com/business/casinos-gaming/)
@@ -214,6 +212,7 @@ Hi
         * [Gold IRA](https://www.reviewjournal.com/bp/business/gold-ira/)
         * [Verizon Business](https://www.reviewjournal.com/bp/business/verizon-business/)
     * [Education](https://www.reviewjournal.com/bp/education/)
+        * [Touro University](https://www.reviewjournal.com/bp/education/touro-university/)
     * [Entertainment](https://www.reviewjournal.com/bp/entertainment/)
         * [Casinos](https://www.reviewjournal.com/bp/entertainment/casinos/)
         * [Dating](https://www.reviewjournal.com/bp/entertainment/dating/)
@@ -247,7 +246,7 @@ Privacy Policy
 
 **PRIVACY POLICY**
 
-Updated January 1, 2024.
+Updated July 4, 2024.
 
 We care about your privacy and the security of your information. We believe that protecting your personal information, while also offering you a quality experience with Las Vegas Review-Journal, Inc., is among our most important tasks.
 
@@ -261,24 +260,25 @@ When you use or interact with a website, mobile app or other digital service (ea
 
 **What Information We Obtain**
 
-* Information you provide when you use the LVRJ Services, including when you sign up for subscriptions, create an account or register through the LVRJ Services. This may include your contact, payment or demographic information.
+* Information you provide when you use the LVRJ Services, including, but not limited to, when you sign up for subscriptions, create an account or register through the LVRJ Services. This may include your contact, payment or demographic information.
 * Information you submit when you choose to participate in a survey, sweepstakes, contest, promotion, event or similar initiative.
 * Information you give us about others, such as a friend’s contact information when you order a gift subscription.
 * In email, text or other electronic messages between you and us.
 * Information collected when you interact with advertising or other applications on our website or third party websites, if those advertisements or applications include links to this policy.
 * Information collected by automated means such as cookies or pixels. This may include information about your device and browser, including IP address or mobile device advertising identifiers, as well as information about how you and others use, interact with or respond to the LVRJ Services. This collection may take place while you are using a LVRJ Service or while the LVRJ Service is running in the background of your device.
-* Precise location information associated with your device when location services are active.
+* Geolocation information associated with your device when location services are active.
 * Information we obtain from other sources, such as business partners, data suppliers and social media platforms.
 
 **How We Use Information We Obtain**
 
 * To process your requests and provide you with the LVRJ Services, including to deliver customized content or recommendations. Note that we use your payment card information (such as your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and to protect our rights or the rights of others.
 * To learn about users of the LVRJ Services and analyze how you and others interact with and respond to the LVRJ Services.
-* To communicate with you, including to send you marketing and promotional communications.
-* For advertising and marketing purposes, including to deliver interest-based ads, for cross-device linking and to analyze the performance of advertising and marketing activities.
+* To communicate with you, including by telephone, email, traditional mail and/or text.
+* To send you marketing and promotional communications.
+* For other advertising and marketing purposes, including to deliver targeted advertising and interest-based ads, for cross-device linking and to analyze the performance of advertising and marketing activities.
 * To protect our rights and the rights of others.
 
-**How We Share Information**
+**How We Disclose Information**
 
 * Within the Las Vegas Review-Journal Inc. group of publications and services.
 * With service providers that perform services or handle transactions on our behalf.
@@ -288,6 +288,8 @@ When you use or interact with a website, mobile app or other digital service (ea
 * Other parties when required by law or as necessary to protect our rights, and in the context of corporate transactions.
 * With your consent or otherwise at your direction.
 * With Data Aggregators.
+
+All the above categories exclude text messaging originator opt-in data and consent; this information is not, and will not be, disclosed to any third parties.
 
 **Your Choices, Including Marketing and Interest-Based Ads Opt-Outs**
 
@@ -315,7 +317,7 @@ Las Vegas Review-Journal Inc., P.O. Box 70, Las Vegas, NV 89125 Attn: Privacy Of
 [Introduction](#introduction)  
 [What Information We Obtain](#what-information-we-obtain)  
 [How We Use Information We Obtain](#how-we-use-information-we-obtain)  
-[How We Share Information](#how-we-share-information)  
+[How We Disclose Information](#how-we-share-information)  
 [Your Choices, Including Marketing and Interest-Based Ads Opt-Outs](#your-choices-including-marketing)  
 [Additional Information for California Residents](#additional-information-for-california-residents)  
 [How We Protect Your Information](#how-we-protect-your-information)  
@@ -330,29 +332,29 @@ Las Vegas Review-Journal Inc., P.O. Box 70, Las Vegas, NV 89125 Attn: Privacy Of
 
 **INTRODUCTION**
 
-This Privacy Policy describes the types of information that are collected and used by Las Vegas Review-Journal, Inc. (“Review-Journal”, “LVRJ”, “we”, “us” or “our”) whether while you are at our physical location(s), while using our websites, mobile applications or other online or digital services (each a “LVRJ Service”) linking to this Privacy Policy, purchase our products or services, or when communicating or interacting with us, whether online, in person or through other means. This Privacy Policy describes the privacy practices of the Review-Journal only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the LVRJ Services.  
-Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is to not to use the LVRJ Service, purchase from us, provide us with your information, or otherwise communicate or interact with us. By accessing or using any LVRJ Service, providing us with any information, purchasing our goods or services, or otherwise communicating or interacting with us, you agree to this Privacy Policy. This Privacy Policy may change from time to time (see the Changes to This Privacy Policy section below). Your continued use of the LVRJ Services, our products or services, provision of information, or other communication or interaction with us after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy periodically for updates.  
+This Privacy Policy describes the types of information that are collected and used by Las Vegas Review-Journal, Inc. (“Review-Journal”, “LVRJ”, “we”, “us” or “our”) whether while you are at our physical location(s), while using our websites, mobile applications or other online or digital services (each a “LVRJ Service”) linking to this Privacy Policy, purchase our products or services, or when communicating or interacting with us, whether online, in person or through other means. This Privacy Policy describes the privacy practices of the Review-Journal only and does not cover the practices of other companies, including those that may advertise or sponsor content, products or services on the LVRJ Services.
+
+Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is to not to use the LVRJ Service, purchase from us, provide us with your information, or otherwise communicate or interact with us. By accessing or using any LVRJ Service, providing us with any information, purchasing our goods or services, or otherwise communicating or interacting with us, you agree to this Privacy Policy. This Privacy Policy may change from time to time (see the Changes to This Privacy Policy section below). Your continued use of the LVRJ Services, our products or services, provision of information, or other communication or interaction with us after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy periodically for updates.
+
 Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is to not to use the LVRJ Service, purchase from us, provide us with your information, or otherwise communicate or interact with us. By accessing or using any LVRJ Service, providing us with any information, purchasing our goods or services, or otherwise communicating or interacting with us, you agree to this Privacy Policy. This Privacy Policy may change from time to time (see the Changes to This Privacy Policy section below). Your continued use of the LVRJ Services, our products or services, provision of information, or other communication or interaction with us after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy periodically for updates.
 
 **WHAT INFORMATION WE OBTAIN**
 
-We collect or obtain information from you in a variety of ways, including, when you use an LVRJ Service, when you purchase our goods or services, when you communicate or interact with us through telephone communications, traditional mail, email, text or other methods, through your interaction with advertising or applications on the LVRJ Services or third-party sites (if the advertisement or application references, or links to, this Privacy Policy). This Privacy Policy does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the LVRJ Services if this Privacy Policy is not referenced or linked. Further, this policy does not apply to any personal information collected from or about any of our employees or our affiliates’ employees or the web pages hosting our careers or job opportunities. Any employee information is protected by our employee policies and information obtained through our careers or job opportunities pages is governed by the privacy policy published thereon.  
-The information that we obtain or collect may include information that directly identifies you or your household such as your name, address, or contact information or other identifiers that could be used to identify you or your household (this type of information may be called “personal information”). The information we obtain generally consists of information (1) you give us about yourself, (2) you give us about others, (3) automatically collected about your interactions with the LVRJ Services and our content or ads on third-party websites, apps or other media, and (4) we get from other sources.
+We collect or obtain information from you in a variety of ways, including, when you use an LVRJ Service, when you purchase our goods or services, when you communicate or interact with us through telephone communications, traditional mail, email, text or other methods, through your interaction with advertising or applications on the LVRJ Services or third-party sites. This Privacy Policy does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the LVRJ Services if this Privacy Policy is not referenced or linked. Further, this Privacy Policy does not apply to any personal information collected from or about any of our employees or our affiliates’ employees or the web pages hosting our careers or job opportunities. Any employee information is protected by our employee policies and information obtained through our careers or job opportunities pages is governed by the privacy policy published thereon.  
+The information that we obtain or collect may include information that directly identifies you or your household such as your name, address, or contact information or other identifiers that could be used to identify you or your household (this type of information may be called “personal information”). The information we obtain generally consists of information (1) you give us about yourself, (2) you give us about others, (3) automatically collected about your interactions with the LVRJ Services and our content or ads on third-party websites, apps or other media, and (4) we get from other sources
 
 **Information you give us**
 
-We may ask you to provide information about yourself when you use the LVRJ Services, when you purchase a product or service, or when you communicate or interact with us or the LVRJ Services or you interact with advertising or applications on the LVRJ Service or third party sites. For example, to subscribe to one of our newsletters or news alerts, you will need to give us an email address. You may not be able to use certain features if you choose not to submit the requested information.
-
+We may ask you to provide information about yourself when you use the LVRJ Services, when you purchase a product or service, or when you communicate or interact with us or the LVRJ Services or you interact with advertising or applications on the LVRJ Service or third party sites. For example, to subscribe to one of our newsletters or news alerts, you will need to give us an email address. You may not be able to use certain features if you choose not to submit the requested information.  
 The information you give us may include details such as:
 
-* Contact information (e.g., name, mailing address, email address or phone number).
+* Contact information (e.g., name, mailing address, email address, mobile phone number or other phone number).
 * Demographic, interests and household information (e.g., age, gender or education).
 * Payment information for subscriptions or purchases made through the LVRJ Services (e.g., payment card number, expiration date and billing information).
 * Comments, photos, videos and other content or information you choose to publish on the LVRJ Services or otherwise share with us.
 * Information you provide when you make subscription choices, including your choice of a username, password, and associated email address.
 * Information you provide when you choose to participate in surveys, polls, sweepstakes, contests or promotions (including information about your participation in activities that may generate loyalty or rewards points).
-* Location information, which may include precise location information when you permit the LVRJ Services to access device location. To prevent the collection of precise location information, please refer to
-* instructions provided by your mobile service provider or device manufacturer.
+* Location information, which may include geolocation information when you permit the LVRJ Services to access device location. To prevent the collection of geolocation information, please refer to instructions provided by your mobile service provider or device manufacturer.
 * Other information you may allow us to access through your device’s permissions settings, such as your contacts or address book.
 * Transactional and activity information (e.g., requests, searches or orders).
 
@@ -364,15 +366,15 @@ You may give us information about other people, such as the name and email of a 
 
 The LVRJ Services automatically log certain information about visits to the LVRJ Services, such as the number and frequency of visitors, technical information about browsers and devices used to access the LVRJ Services, and information about crashes or other technical issues. In addition, we and third parties may automatically collect certain information through automated means about your activities over time across the LVRJ Services as well as across third-party sites, apps or other media. The tools that collect this information vary depending on the LVRJ Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and software development kits (“SDKs”). These technologies may be included in our web pages, mobile apps, emails, and other digital content and are as follows:
 
-* **Cookies**. When you use the LVRJ Services, we may place small files, called “cookies” onto your computer. Cookies are data files that websites write onto computer hard drives for record keeping purposes when you visit them. The cookie file then identifies you as a unique user. Cookies make your use of the LVRJ Service more pleasing and efficient by “personalizing” your LVRJ Service experience and gathering website statistical data, such as which parts of the Website you have previously visited, what material you downloaded, your Internet provider’s domain name and country, and the addresses of websites you linked from immediately before and linked to immediately after the LVRJ Service. They enable us to tailor the information you receive and to assist our partners or other third party organizations with whom we have strategic alliances by identifying you as our customer or LVRJ Service user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. You can program your browser not to accept cookies, but if you do, you may not be able to use certain portions of the Website and the Website will not be able to customize certain features according to your preferences.
+* **Cookies.** When you use the LVRJ Services, we may place small files, called “cookies” onto your computer. Cookies are data files that websites write onto computer hard drives for record keeping purposes when you visit them. The cookie file then identifies you as a unique user. Cookies make your use of the LVRJ Service more pleasing and efficient by “personalizing” your LVRJ Service experience and gathering website statistical data, such as which parts of the Website you have previously visited, what material you downloaded, your Internet provider’s domain name and country, and the addresses of websites you linked from immediately before and linked to immediately after the LVRJ Service. They enable us to tailor the information you receive and to assist our partners or other third party organizations with whom we have strategic alliances by identifying you as our customer or LVRJ Service user. Most web browsers automatically accept cookies, unless you have configured yours not to accept them. You can program your browser not to accept cookies, but if you do, you may not be able to use certain portions of the Website and the Website will not be able to customize certain features according to your preferences.
 * **Web Beacons.** Small graphic images or web programming code called web beacons (also known as “pixel tags” or “clear GIFs”) may be included on the pages of the Website and in email messages we send you. Web beacons or other similar technologies may be used for a number of purposes, such as to count visitors to the Website, or to count how many particular articles or links posted on the website were actually viewed.
 
 While specific types of cookies and technologies may change from time to time as we improve and update the Services, cookies used by the Services generally fall into the categories below:
 
-* **Security and Authentication (Strictly Necessary Cookies)**: These cookies are essential to provide you with the Services and to use some of its features, such as access to secure areas. Without these cookies, we can’t provide parts of the LVRJ Services that you request, like secure login accounts and transactional pages.
-* **Performance & Functionality Cookies**: We use performance cookies to analyze how the LVRJ Services are being accessed and used, or how the LVRJ Services are performing in order to maintain, operate and continually improve the LVRJ Services about choices you’ve made and allow us to customize the LVRJ Services to you. When you continue to use or return to the LVRJ Services, we can remember choices you make (such as login credentials, language preference, country location or other online settings) and provide the personalized or enhanced features that you select.
-* **Social Networks**: Some technologies help you to interact with social networks you are signed into while using the LVRJ Services, such as sharing content with the social network, logging in with the social network, and other features you employ with the social network, or that are allowed in the social network’s privacy policy. These may be set and controlled by the social networks, and your preferences with those social networks. You can manage your privacy preferences for these social networks and their tools and widgets via your account with the social network.
-* **Advertising or Targeting Cookies**: These cookies allow us and third parties to gather information about the content you’re browsing, your visit, or your interaction with ads and our communications, and to display ads that are relevant to you and measure their effectiveness. Certain third party cookies may also track your activity across various sites to display ads relevant to you and your interests on third party sites and applications. Most advertising or targeting cookies set by the LVRJ Services belong to our service providers.
+* **Security and Authentication (Strictly Necessary Cookies):** These cookies are essential to provide you with the Services and to use some of its features, such as access to secure areas. Without these cookies, we can’t provide parts of the LVRJ Services that you request, like secure login accounts and transactional pages.
+* **Performance & Functionality Cookies:** We use performance cookies to analyze how the LVRJ Services are being accessed and used, or how the LVRJ Services are performing in order to maintain, operate and continually improve the LVRJ Services about choices you’ve made and allow us to customize the LVRJ Services to you. When you continue to use or return to the LVRJ Services, we can remember choices you make (such as login credentials, language preference, country location or other online settings) and provide the personalized or enhanced features that you select.
+* **Social Networks:** Some technologies help you to interact with social networks you are signed into while using the LVRJ Services, such as sharing content with the social network, logging in with the social network, and other features you employ with the social network, or that are allowed in the social network’s privacy policy. These may be set and controlled by the social networks, and your preferences with those social networks. You can manage your privacy preferences for these social networks and their tools and widgets via your account with the social network.
+* **Advertising or Targeting Cookies:** These cookies allow us and third parties to gather information about the content you’re browsing, your visit, or your interaction with ads and our communications, and to display ads that are relevant to you and measure their effectiveness. Certain third party cookies may also track your activity across various sites to display ads relevant to you and your interests on third party sites and applications. Most advertising or targeting cookies set by the LVRJ Services belong to our service providers.
 
 The tools may assign or collect unique cookie IDs or other identifiers associated with your browser or device. The tools may collect information while you are using our LVRJ Service or while they are running in the background of your device.
 
@@ -398,7 +400,7 @@ We receive information about you from other sources and it may be combined with 
 
 If you make a purchase or place an order through or in connection with an LVRJ Service, through our third-party processor Authorize.net, we use your payment card information (e.g., your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services, and for the purposes described under the section “To protect our rights or the rights of others” below. To find out more information about how Authorize.net collects, uses, and protects your payment card information, please review their Privacy Policy, bearing in mind that, while linked, LVRJ does not control or have any control over third-party websites such as Authorize.net and is not responsible for anything that happens on any third-party website.
 
-**With respect to information other than your payment card information, we use that information:  
+**With respect to information, other than your payment card information, we use that information:  
 To provide you with the LVRJ Services and to sell our products and services. This includes:**
 
 * Processing your requests regarding the LVRJ Services and our subscriptions, products or services, or your participation in a survey, sweepstakes, contest, promotion, event or similar initiative.
@@ -414,7 +416,7 @@ To provide you with the LVRJ Services and to sell our products and services. Thi
 * Learning about users of the LVRJ Services and analyzing how you and others interact with and respond to the LVRJ Services, including by measuring and optimizing usage, reliability and performance, conducting market research, analyzing trends, and supporting our operations (e.g., for accounting, auditing, financial, legal or other purposes).
 * For any other purpose disclosed to you at the time we collect your information or pursuant to your consent.
 
-**To communicate and otherwise interact with you. This includes:**
+**To communicate and otherwise interact with you whether through the LVRJ Services or by telephone, email, traditional mail or text. This includes:**
 
 * Sending you informational messages about the LVRJ Services (e.g., to confirm your subscription or notify you of changes to a LVRJ Service).
 * Delivering marketing or promotional communications, including offers or promotions about our or third parties’ products, services or other initiatives.
@@ -422,14 +424,14 @@ To provide you with the LVRJ Services and to sell our products and services. Thi
 * Communicating with you about surveys, sweepstakes, contests, promotions or events.
 * For any other purpose disclosed to you at the time we collect your information or pursuant to your consent.
 
-**For advertising and marketing purposes, including interest-based advertising.** This includes:
+**For advertising and marketing purposes, including targeted advertising and interest-based advertising.** This includes:
 
 * Developing, managing and conducting advertising and marketing campaigns, promotions and offers, including about our content, products and services or third parties’ products, services and other initiatives.
 * Interest-based advertising (also known as targeted or personalized advertising or ads) is advertising based on your interests as inferred from your activities over time on the LVRJ Services and online services operated by third parties, as well as information from other sources. Interest-based ads may consist of text ads, images, animations or videos and may be displayed to you based on various factors, including the context of the site or app in which they appear (e.g., business or sports section), information you provided to the operator of the site or app (e.g., when you created an account), your activities on the site or app (e.g., pages viewed, searches performed or ads clicked), and information such as your demographic, interests and household information.
 * On the LVRJ Services and on third-party sites, apps or other media, we, our service providers and third parties may use automated means to (a) collect information for interest-based advertising purposes or (b) serve you interest-based ads. These automated means vary depending on the LVRJ Services and include technologies such as cookies, web beacons, tags, scripts, pixels, local shared objects (including HTML5 cookies) and SDKs (software development kits). These technologies may use unique identifiers associated with your browser or device to support interest-based advertising.
 * We may use online and offline information we obtain about you, including your personal information, for interest-based advertising purposes. We may aggregate the information we obtain to create audiences that are most likely to respond to ads based on demographic, interests or household information.
-* Interest-based ads may be displayed to you by third parties, such as ad networks or exchanges.
-* There are steps you can take to limit the collection of your information for interest-based advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. To learn more about interest-based advertising and opt-out choices, see [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) and here.
+* Targeted advertising or interest-based ads may be displayed to you by third parties, such as ad networks or exchanges.
+* There are steps you can take to limit the collection of your information for interest-based advertising purposes. These steps vary for the web and mobile app environments and are browser and device specific. You may learn more about targeted or interest-based advertising and opt out of some or all such advertising by visiting http://preferences-mgr.truste.com/ or http://optout.aboutads.info.
 * In serving interest-based ads, we adhere to the Self-Regulatory Principles for Online Behavioral Advertising developed by the Digital Advertising Alliance.
 * Cross-device linking. If you access the LVRJ Services from multiple browsers or devices, we, our service providers and third parties may try to establish connections among and link the different browsers and devices you use to access the LVRJ Services and our content or ads published elsewhere. This helps us provide you with a seamless experience across the browsers and devices you use and serve you with more relevant content and ads (e.g., so that we don’t show you the same article twice). See here for steps you can take to limit browser and mobile app tracking for interest-based advertising purposes.
 * Analyzing and measuring the performance, effectiveness and reach of our advertising (including interest-based ads) and marketing efforts on the LVRJ Services and elsewhere.
@@ -440,6 +442,8 @@ To provide you with the LVRJ Services and to sell our products and services. Thi
 * Performing audits, assessments and testing or troubleshooting activities.
 * Backing up our systems (including for disaster recovery purposes) and enhancing the overall security of the LVRJ Services.
 * Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas) and fulfilling contractual obligations.
+* Prosecuting, processing, defending or disposing of any claims or potential claims, including with regard to prevention harm to our company, its affiliates and subsidiaries, our products or services or a person or property.
+* These activities may require disclosure of your information to our legal counsel, federal, state and local law enforcement authorities and other regulatory agencies.
 
 There are other disclosures for California residents in Privacy Notice for California Residents, which is available at [https://www.reviewjournal.com/privacy/californiaresidents](https://www.reviewjournal.com/privacy/californiaresidents).
 
@@ -447,35 +451,37 @@ There are other disclosures for California residents in Privacy Notice for Calif
 
 We may share the information we obtain with:
 
-**Affiliates.** We work closely with our affiliates with whom we share your information as necessary or appropriate to operate the LVRJ Services.  
-**Contractors, Third Party Service Providers and Other Third Parties.** In connection with the operation and provision of the LVRJ Services and operations of our businesses, we engage various third parties to provide services or handle transactions on our behalf, such as payment card processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content performance measurement, ad serving and managing sweepstakes, contests, promotions or events. These third parties are contractually bound to keep the information confidential and only use the information we provide to them for the purposes for which we disclose it to them.  
-**Advertisers, Advertising- and Marketing-Related Service Providers and Partners.** We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including interest-based ads. For more information, see Your Choices, Including Marketing and Interest-Based Ads Opt-Outs section below, and for California residents, see our Privacy Notice for California Residents at https://www.reviewjournal.com/privacy/californiaresidents.  
-**Content Measurement Companies.**We and third parties seek to measure the performance of content across the internet, including on the LVRJ Services. We may include third-party measurement software in the LVRJ Services to enable market research or to measure digital and video content consumption. For more information, see Your Choices, Including Marketing and Interest-Based Ads Opt-Outs section below, and for California residents, see our Privacy Notice for California Residents at https://www.reviewjournal.com/privacy/californiaresidents.  
-**Social Media Platforms.** If you interact with social media widgets, share content using social media share buttons, or access features of the LVRJ Services that contain content or features provided by Social Media Platforms, the relevant Social Media Platforms may collect information. We encourage you to review the privacy policies of the Social Media Platforms that you engage with as we are not responsible for their privacy practices.  
-**Business Partners.** We may provide your information to business partners including, without limitation, joint marketing partners and content sponsors, for various purposes. For example, we may partner with a third party to offer products on a co-branded, co-sponsored or cross-promotional basis that involves the sharing of information. These initiatives may be offered on the LVRJ Services or on other media. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see Your Choices, Including Marketing and Interest-Based Ads Opt-Outs section below, and for California residents, see our Privacy Notice for California Residents at https://www.reviewjournal.com/privacy/californiaresidents.
-
-**Other Parties When Required by Law or As Necessary to Protect Our Rights.** We may share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the LVRJ Services or other individuals and entities, or to comply with or enforce applicable industry standards, law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.  
-**Corporate Transactions.** We reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation.  
-**Data Aggregators**  
-**With Your Consent or Otherwise at Your Direction.** In addition, we may share your information with third parties when you consent to or request such sharing.
+**Affiliates.** We work closely with our affiliates with whom we share your information as necessary or appropriate to operate the LVRJ Services.  
+**Contractors, Third Party Service Providers and Other Third Parties.** In connection with the operation and provision of the LVRJ Services and operations of our businesses, we engage various third parties to provide services or handle transactions on our behalf, such as payment card processing, email distribution, list processing, postal mailing, cloud computing, analytics, digital content performance measurement, ad serving and managing sweepstakes, contests, promotions or events. We also disclose information to our legal counsel, financial advisors and other consultants and advisors in the performance of our business. These third parties are contractually bound to keep the information confidential and only use the information we provide to them for the purposes for which we disclose it to them.  
+**Advertisers, Advertising- and Marketing-Related Service Providers and Partners.** We may provide your information to advertisers, advertising agencies, ad networks, ad exchanges, marketing businesses, technology vendors and other entities that create, deliver and assess advertising or marketing campaigns, including interest-based ads. For more information, see Your Choices, Including Marketing and Interest-Based Ads Opt-Outs section below, and for California residents, see our Privacy Notice for California Residents at [https://www.reviewjournal.com/privacy/californiaresidents](https://www.reviewjournal.com/privacy/californiaresidents).  
+**Content Measurement Companies.** We and third parties seek to measure the performance of content across the internet, including on the LVRJ Services. We may include third-party measurement software in the LVRJ Services to enable market research or to measure digital and video content consumption. For more information, see Your Choices, Including Marketing and Interest-Based Ads Opt-Outs section below, and for California residents, see our Privacy Notice for California Residents at [https://www.reviewjournal.com/privacy/californiaresidents](https://www.reviewjournal.com/privacy/californiaresidents).  
+**Social Media Platforms.** If you interact with social media widgets, share content using social media share buttons, or access features of the LVRJ Services that contain content or features provided by Social Media Platforms, the relevant Social Media Platforms may collect information. We encourage you to review the privacy policies of the Social Media Platforms that you engage with as we are not responsible for their privacy practices.  
+**Business Partners.** We may provide your information to business partners including, without limitation, joint marketing partners and content sponsors, for various purposes. For example, we may partner with a third party to offer products on a co-branded, co-sponsored or cross-promotional basis that involves the sharing of information. These initiatives may be offered on the LVRJ Services or on other media. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see Your Choices, Including Marketing and Interest-Based Ads Opt-Outs section below, and for California residents, see our Privacy Notice for California Residents at [https://www.reviewjournal.com/privacy/californiaresidents](https://www.reviewjournal.com/privacy/californiaresidents).  
+**Other Parties When Required by Law or As Necessary to Protect Our Rights.** We may share your information as we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the LVRJ Services or other individuals and entities, or to comply with or enforce applicable industry standards, law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.  
+**Corporate Transactions.** We reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation.  
+**Data Aggregators.**  
+**With Your Consent or Otherwise at Your Direction.** In addition, we may share your information with third parties when you consent to or request such sharing.
 
 * **YOUR CHOICES, INCLUDING MARKETING AND INTEREST-BASED ADS OPT-OUTS**
 
-California residents have additional rights and opt-outs with regard to the use of personal information under applicable law, including but not limited to, , the California Consumer Privacy Act of 2018 (the “CCPA”), as amended by the California Privacy Rights Act of 2022 (“CPRA”). For more information on these additional rights and opt-outs, see the Privacy Notice for California Residents available here: https://www.reviewjournal.com/privacy/californiaresidents
+California residents have additional rights and opt-outs with regard to the use of personal information under applicable law, including but not limited to, the California Consumer Privacy Act of 2018 (the “CCPA”), as amended by the California Privacy Rights Act of 2022 (“CPRA”). For more information on these additional rights and opt-outs, see the Privacy Notice for California Residents available here: [https://www.reviewjournal.com/privacy/californiaresidents](https://www.reviewjournal.com/privacy/californiaresidents)
+
+All the above categories exclude text messaging originator opt-in data and consent; this information is not, and will not be, disclosed to any third parties.
 
 **Direct Marketing Opt-Outs**
 
-* **Email marketing.**You may opt out of receiving marketing or promotional emails from us by clicking on the “unsubscribe” link contained in such emails. Depending on the LVRJ Service you use, you also may be able to opt out of marketing or promotional emails by logging into your account and managing your email preferences. Please keep in mind that if you opt out of receiving marketing or promotional emails, we may still send you transactional emails or other communications relating to your use of the LVRJ Services (e.g., to confirm your subscription, to inform you of changes to an LVRJ Service or in response to your password recovery request).
-* **Text message marketing.**If you choose to participate in a text message marketing campaign or promotion offered in connection with a LVRJ Service, you may opt out of receiving marketing texts from us by following the instructions contained in those messages (e.g., texting the word STOP) or provided to you when you elected to receive text message marketing.
-* **Direct mail.**You may request that we stop sending you postal mail offers through the US post office by notifying us in writing at Las Vegas Review-Journal, P.O. Box 70, Las Vegas, NV 89125, Attn: Privacy Officers. Please indicate in your correspondence the name of the LVRJ Service or publication to which your request applies.
-* **Marketing by Third Parties.**We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at Las Vegas Review-Journal, P.O. Box 70, Las Vegas, NV 89125, Attn: Privacy Officers. Please indicate in your correspondence the name of the LVRJ Service or publication to which your request applies. In addition, you may be able to request that third parties do not use your email address (if we have it) for their own marketing purposes by logging into your account or the preferences center (if available) for the relevant LVRJ Service and adjusting your email preferences.
-* **Co-Branded, Co-Sponsored or Cross-Promotional Offerings.**If you choose to participate in a co-branded, co-sponsored or cross-promotional offering, the brand, sponsor or other third party involved in that offering may use your information for its own purposes, including advertising and marketing purposes. You must contact the relevant third party directly to exercise your opt out choices with respect to such party’s use of your information.
+* Email marketing. You may opt out of receiving marketing or promotional emails from us by clicking on the “unsubscribe” link contained in such emails. Depending on the LVRJ Service you use, you also may be able to opt out of marketing or promotional emails by logging into your account and managing your email preferences. Please keep in mind that if you opt out of receiving marketing or promotional emails, we may still send you transactional emails or other communications relating to your use of the LVRJ Services (e.g., to confirm your subscription, to inform you of changes to an LVRJ Service or in response to your password recovery request).
+* Text message marketing. If you choose to participate in a text message marketing campaign or promotion offered in connection with a LVRJ Service, you may opt out of receiving marketing texts from us by following the instructions contained in those messages (e.g., texting the word STOP) or provided to you when you elected to receive text message marketing.
+* Direct mail. You may request that we stop sending you postal mail offers through the US post office by notifying us in writing at Las Vegas Review-Journal, P.O. Box 70, Las Vegas, NV 89125, Attn: Privacy Officers. Please indicate in your correspondence the name of the LVRJ Service or publication to which your request applies.
+* Marketing by Third Parties. We may provide your contact information to third parties for their own marketing purposes. To request that third parties do not use your postal mailing contact information for their own marketing purposes (if we have your postal address), you may notify us in writing at Las Vegas Review-Journal, P.O. Box 70, Las Vegas, NV 89125, Attn: Privacy Officers. Please indicate in your correspondence the name of the LVRJ Service or publication to which your request applies. In addition, you may be able to request that third parties do not use your email address (if we have it) for their own marketing purposes by logging into your account or the preferences center (if available) for the relevant LVRJ Service and adjusting your email preferences.
+* Co-Branded, Co-Sponsored or Cross-Promotional Offerings. If you choose to participate in a co-branded, co-sponsored or cross-promotional offering, the brand, sponsor or other third party involved in that offering may use your information for its own purposes, including advertising and marketing purposes. You must contact the relevant third party directly to exercise your opt out choices with respect to such party’s use of your information.
 
 **Interest-Based Ads Opt-Outs**
 
-Some of the ads you see on the LVRJ Services are interest-based ads. This means that these ads are customized based on the information we and others obtain about you. We describe below steps you can take to limit tracking of your activities and the delivery of interest-based ads in browsers and mobile apps you use to access the LVRJ Services. Please keep in mind that if you opt out of interest-based ads, you will still see ads, but these ads will not be based on your inferred interests. In addition, if you take the steps described below, some automated means may still be used to collect information about your interactions with the LVRJ Services for the other purposes described in this Privacy Policy (e.g., to remember user preferences or enable specific functionality).
+Some of the ads you see on the LVRJ Services are interest-based or targeted advertising. This means that these ads are customized based on the information we and others obtain about you. We describe below steps you can take to limit tracking of your activities and the delivery of targeted or interest-based ads in browsers and mobile apps you use to access the LVRJ Services. Please keep in mind that if you opt out of interest-based ads, you will still see ads, but these ads will not be based on your inferred interests. In addition, if you take the steps described below, some automated means may still be used to collect information about your interactions with the LVRJ Services for the other purposes described in this Privacy Policy, including, as applicable, our Notice for California Residents, (e.g., to remember user preferences or enable specific functionality).
 
-The technologies used to deliver ads on websites and mobile apps differ. Please also remember that opt-outs are browser and device-specific.
+The technologies used to deliver ads on websites and mobile apps differ. Please also remember that opt-outs are browser and device-specific.  
+You can learn more and opt out of certain targeted or interest-based advertising by visiting http://preferences-mgr.truste.com/ or http://optout.aboutads.info.
 
 **Website (Browser) Opt-Out**
 
@@ -494,9 +500,9 @@ If you choose to disable the use of cookies in your web browser, some features o
 
 **Additional Choices**
 
-* **User account.** If you have created an account on an LVRJ Service, you may be able to review some of your information for that account by logging in and updating your information or user preferences.
-* **Device Settings.** For relevant LVRJ Services, you may be able to review and adjust your preferences by updating the settings on your device (e.g., permitting us to collect precise location information).
-* **Push Notifications.** If an LVRJ Service enables push notifications on your device, you may review and update your push notification preferences by adjusting the settings on your device. For example, you can select the relevant app from “Notifications” (for iOS devices) or “App notifications” (for Android devices) and turn off alerts accordingly.
+* **User account.**If you have created an account on an LVRJ Service, you may be able to review some of your information for that account by logging in and updating your information or user preferences.
+* **Device Settings.** For relevant LVRJ Services, you may be able to review and adjust your preferences by updating the settings on your device (e.g., permitting us to collect geolocation information).
+* **Push Notifications.**. If an LVRJ Service enables push notifications on your device, you may review and update your push notification preferences by adjusting the settings on your device. For example, you can select the relevant app from “Notifications” (for iOS devices) or “App notifications” (for Android devices) and turn off alerts accordingly.
 
 **ADDITIONAL INFORMATION FOR CALIFORNIA RESIDENTS**
 
@@ -520,7 +526,7 @@ We operate the LVRJ Services from the United States. Any information we obtain a
 
 **CHILDREN’S PRIVACY RIGHTS**
 
-The LVRJ Services are not intended for use by children, especially those under the age of 13. Minors under 18 and at least 13 years of age are only permitted to use our Service through an account owned by a parent or legal guardian with their appropriate permission and under their direct supervision. We do not currently market to, solicit, or create special areas for use by children. Those under may not attempt to register for an LVRJ Service or send any information to us, including name, address, telephone number, or email address. In the event that we discover that a child under the age of 13 has provided personal information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at [https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) for more information about this Act), we will delete the child’s personal information from our files to the extent technologically possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@reviewjournal.com](mailto:privacy@reviewjournal.com).
+The LVRJ Services are not intended for use by children, especially those under the age of 13. Minors under 18 and at least 13 years of age are only permitted to use our Service through an account owned by a parent or legal guardian with their appropriate permission and under their direct supervision. We do not currently market to, solicit, or create special areas for use by children. Those under may not attempt to register for an LVRJ Service or send any information to us, including name, address, telephone number, or email address. In the event that we discover that a child under the age of 13 has provided personal information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at [https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) for more information about this Act), we will delete the child’s personal information from our files to the extent technologically possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@reviewjournal.com](mailto:privacy@reviewjournal.com).
 
 **LINKS TO THIRD-PARTY WEBSITES, MOBILE APPS OR OTHER SERVICES**
 
@@ -529,7 +535,7 @@ SPECIAL NOTICE TO CALIFORNIA CONSUMERS: California residents may be provided wit
 
 **DISPUTE RESOLUTION** / [**TERMS OF SERVICE**](https://www.reviewjournal.com/terms-of-service/)
 
-Any dispute concerning the LVRJ Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Service](https://www.reviewjournal.com/terms-of-service/), which govern your use of the LVRJ Services. Please take a few minutes to read the [Terms of Service](https://www.reviewjournal.com/terms-of-service/) before using the LVRJ Services.
+Any dispute concerning the LVRJ Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Service](https://www.reviewjournal.com/terms-of-service/), which govern your access and use of the LVRJ Services. Please take a few minutes to read the [Terms of Service](https://www.reviewjournal.com/terms-of-service/) before using the LVRJ Services and our SMS Terms of Service before engaging in any text or other SMS messaging with us.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -551,15 +557,14 @@ If you use or interact with a LVRJ Service then LVRJ is controlling the collecti
 
 We process personal information for different purposes (as described in the “How We Use Information We Obtain” section, above) on the following legal bases:
 
-* **To perform our contractual obligations to you.**We and our service providers process your information to perform our contractual obligations to you when we use your information to provide you with the Las Vegas Review-Journal Services and related content, products or services and to communicate with you. For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services you request. We also send you informational communications on this basis, including to confirm a subscription or to notify you of a change to a LVRJ Service. Failure to provide requested information could prevent or delay the fulfillment of our contractual obligations.
+* **To perform our contractual obligations to you.** We and our service providers process your information to perform our contractual obligations to you when we use your information to provide you with the Las Vegas Review-Journal Services and related content, products or services and to communicate with you. For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services you request. We also send you informational communications on this basis, including to confirm a subscription or to notify you of a change to a LVRJ Service. Failure to provide requested information could prevent or delay the fulfillment of our contractual obligations.
 * **To pursue our legitimate interests.**We process your information to meet our legitimate interests when we use your information to provide you with the Las Vegas Review-Journal Services and related content, products or services, to communicate with you and for our advertising and marketing purposes. For example, our legitimate interests include making improvements to, customizing and understanding how you interact with the LVRJ Services and related content, products or services, and sending you communications about products and services we think may be of interest to you. To accomplish our legitimate interests, we may share your information with our affiliates and subsidiaries, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction. We maintain safeguards to protect the information we process to pursue our legitimate interests.
 * **To comply with our legal obligations.**We process and share your information as necessary to comply with our legal obligations when we use your information to protect our rights or the rights of others and when we share your information with other parties where required by law or as necessary to protect our rights. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons.
 * **With your consent.**We obtain your consent to process your information when we are required to do so by law. If consent is the legal basis on which we process your personal information, you can withdraw your consent at any time by contacting us using the information provided in the “Contact Us” section above.
 
 **Your Rights Over Your Information**
 
-In certain circumstances, you may have certain rights regarding the use of your personal information, including the right to access or object to the use of personal information that we hold about you (including in relation to direct marketing). Under certain data privacy and protection laws or regulations, individuals also have the right to request that we rectify, update, erase, restrict or to share their personal information in a usable format with another company. All of these requests are subject to applicable law and whether or not such law is applicable to you and to us. We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate.
-
+In certain circumstances, you may have certain rights regarding the use of your personal information, including the right to access or object to the use of personal information that we hold about you (including in relation to direct marketing). Under certain data privacy and protection laws or regulations, individuals also have the right to request that we rectify, update, erase, restrict or to share their personal information in a usable format with another company. All of these requests are subject to applicable law and whether or not such law is applicable to you and to us. We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate.  
 If you would like to discuss or exercise such rights, please contact us at [privacy@reviewjournal.com](mailto:privacy@reviewjournal.com). We will contact you if we need additional information from you in order to honor your requests.
 
 **Storing Your Information**
@@ -570,12 +575,13 @@ We will keep your personal information for as long as we have a relationship wit
 * Comply with record retention requirements under applicable laws or other relevant legal or regulatory requirements.
 * Defend, establish, exercise or bring any existing or potential legal claims.
 * Carry out fraud detection and prevention.
-* Deal with any complaints regarding the LVRJ Services, our products and services.  
-    We will delete your personal information when it is no longer required for these purposes. If there is any information that we are unable, for technical reasons, to delete from our systems, we will put in place appropriate measures to prevent any further processing or use of the data.
+* Deal with any complaints regarding the LVRJ Services, our products and services.
+
+We will delete your personal information when it is no longer required for these purposes. If there is any information that we are unable, for technical reasons, to delete from our systems, we will put in place appropriate measures to prevent any further processing or use of the data.
 
 **International Data Transfers**
 
-Information collected through the LVRJ Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area, UK and Switzerland, we will comply with applicable law and where required put in place appropriate safeguards, including, to the extent required, the European Commission-approved standard contractual clauses. For more information on these safeguards, please contact us at the details provided in the “Contact Us” section above.
+Information collected through the LVRJ Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area, UK and Switzerland, we will, where we are legally required, put in place appropriate safeguards which may include, to the extent required, the European Commission-approved standard contractual clauses. For more information on these safeguards, please contact us at the details provided in the “Contact Us” section above.
 
 **Changes to the PRIVACY POLICY**
 
