@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2356 Connecté
+2272 Connecté
 
 [Connexion](https://girls.xyz/login) [Inscrivez-vous Gratuitement](https://girls.xyz/members/join)
 
@@ -10,42 +10,42 @@
 
 Catégories
 
-* [Anal (838 Live)](https://girls.xyz/anal)
-* [Arabe (12 Live)](https://girls.xyz/arabe)
-* [Asiatique (65 Live)](https://girls.xyz/asiatique)
-* [Belles et rondes (132 Live)](https://girls.xyz/belles-et-rondes)
-* [Blacks (174 Live)](https://girls.xyz/blacks)
-* [Blanches (475 Live)](https://girls.xyz/blanches)
-* [Blondes (236 Live)](https://girls.xyz/blonde)
-* [Brunes (1060 Live)](https://girls.xyz/brune)
-* [Chattes poilues (142 Live)](https://girls.xyz/chattes-poilues)
-* [Chattes rasées (988 Live)](https://girls.xyz/chattes-ras%C3%A9es)
-* [Enceintes (1 Live)](https://girls.xyz/enceintes)
-* [Etudiantes (561 Live)](https://girls.xyz/lyc%C3%A9ennes)
-* [Femmes au Foyer (631 Live)](https://girls.xyz/femmes-au-foyer)
-* [Femmes fontaines (905 Live)](https://girls.xyz/squirting)
-* [Femmes mûres (309 Live)](https://girls.xyz/femmes-m%C3%BBres)
-* [Fetiche (1146 Live)](https://girls.xyz/fetiche)
-* [Fumeuses (14 Live)](https://girls.xyz/fumeuses)
-* [Gros cul (684 Live)](https://girls.xyz/gros-cul)
-* [Gros seins (509 Live)](https://girls.xyz/gros-seins)
-* [Gros Seins (96 Live)](https://girls.xyz/seins-enormes)
-* [Grosses (312 Live)](https://girls.xyz/grosses)
-* [Indienne (6 Live)](https://girls.xyz/indienne)
-* [Jeunes 18+ (561 Live)](https://girls.xyz/ados-18)
-* [Jouets sexuels (1162 Live)](https://girls.xyz/jouets)
-* [Latinas (767 Live)](https://girls.xyz/latinas)
-* [Lesbiennes (7 Live)](https://girls.xyz/lesbi%C3%A8nes)
-* [Minettes (629 Live)](https://girls.xyz/babes)
-* [Musclé (44 Live)](https://girls.xyz/muscl%C3%A9)
-* [Petite (184 Live)](https://girls.xyz/petite)
-* [Petits seins (309 Live)](https://girls.xyz/petits-seins)
-* [Pornstar (7 Live)](https://girls.xyz/stars-du-porno)
-* [Rousses (203 Live)](https://girls.xyz/rousses)
-* [Seins moyens (585 Live)](https://girls.xyz/seins-moyens)
-* [Sexe en Groupe (0 Live)](https://girls.xyz/sexe-en-groupe)
-* [SM (390 Live)](https://girls.xyz/sm)
-* [Vieilles (17 Live)](https://girls.xyz/vieilles)
+* [Anal (725 Live)](https://girls.xyz/anal)
+* [Arabe (18 Live)](https://girls.xyz/arabe)
+* [Asiatique (62 Live)](https://girls.xyz/asiatique)
+* [Belles et rondes (136 Live)](https://girls.xyz/belles-et-rondes)
+* [Blacks (179 Live)](https://girls.xyz/blacks)
+* [Blanches (729 Live)](https://girls.xyz/blanches)
+* [Blondes (294 Live)](https://girls.xyz/blonde)
+* [Brunes (951 Live)](https://girls.xyz/brune)
+* [Chattes poilues (162 Live)](https://girls.xyz/chattes-poilues)
+* [Chattes rasées (995 Live)](https://girls.xyz/chattes-ras%C3%A9es)
+* [Enceintes (2 Live)](https://girls.xyz/enceintes)
+* [Etudiantes (419 Live)](https://girls.xyz/lyc%C3%A9ennes)
+* [Femmes au Foyer (545 Live)](https://girls.xyz/femmes-au-foyer)
+* [Femmes fontaines (772 Live)](https://girls.xyz/squirting)
+* [Femmes mûres (380 Live)](https://girls.xyz/femmes-m%C3%BBres)
+* [Fetiche (1037 Live)](https://girls.xyz/fetiche)
+* [Fumeuses (13 Live)](https://girls.xyz/fumeuses)
+* [Gros cul (635 Live)](https://girls.xyz/gros-cul)
+* [Gros seins (506 Live)](https://girls.xyz/gros-seins)
+* [Gros Seins (95 Live)](https://girls.xyz/seins-enormes)
+* [Grosses (289 Live)](https://girls.xyz/grosses)
+* [Indienne (20 Live)](https://girls.xyz/indienne)
+* [Jeunes 18+ (419 Live)](https://girls.xyz/ados-18)
+* [Jouets sexuels (1069 Live)](https://girls.xyz/jouets)
+* [Latinas (432 Live)](https://girls.xyz/latinas)
+* [Lesbiennes (11 Live)](https://girls.xyz/lesbi%C3%A8nes)
+* [Minettes (645 Live)](https://girls.xyz/babes)
+* [Musclé (20 Live)](https://girls.xyz/muscl%C3%A9)
+* [Petite (117 Live)](https://girls.xyz/petite)
+* [Petits seins (241 Live)](https://girls.xyz/petits-seins)
+* [Pornstar (4 Live)](https://girls.xyz/stars-du-porno)
+* [Rousses (197 Live)](https://girls.xyz/rousses)
+* [Seins moyens (600 Live)](https://girls.xyz/seins-moyens)
+* [Sexe en Groupe (2 Live)](https://girls.xyz/sexe-en-groupe)
+* [SM (288 Live)](https://girls.xyz/sm)
+* [Vieilles (22 Live)](https://girls.xyz/vieilles)
 
 Historique
 
@@ -201,7 +201,7 @@ Assistance
 *   
     
 * [Avis des utilisateurs](https://girls.xyz/reviews)
-* [Complaints & Content Removal](https://girls.xyz/content-removal)
+* [Retrait de contenu](https://girls.xyz/content-removal)
 
 Concours / Argent
 
