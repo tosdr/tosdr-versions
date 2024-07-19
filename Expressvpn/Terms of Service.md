@@ -75,7 +75,7 @@
 ExpressVPN Terms of Service
 ===========================
 
-These Terms of Service (the “**Terms**”), along with the [Privacy Policy](https://cms.kape.com/p/privacy-policy) (the “**Privacy Policy**”), govern the use of and access to the different services offered by Express Technologies Ltd. (“**ExpressVPN**,” “**us,**” “**we**,” or “**our**”), our website (the “**Site**”), applications (the “**Apps,**” including both the mobile and web versions), as well as all content (the “**Content**”) and software (the “**Software**”) associated with our services (collectively referred to as the “**Services**”).
+These Terms of Service (the “**Terms**”), along with the [Privacy Policy](https://www.expressvpn.com/privacy-policy) (the “**Privacy Policy**”), govern the use of and access to the different services offered by Express Technologies Ltd. (“**ExpressVPN**,” “**us,**” “**we**,” or “**our**”), our website (the “**Site**”), applications (the “**Apps,**” including both the mobile and web versions), as well as all content (the “**Content**”) and software (the “**Software**”) associated with our services (collectively referred to as the “**Services**”).
 
 By agreeing to these Terms, you are also agreeing to the Privacy Policy.
 
@@ -113,7 +113,9 @@ Each paid subscription grants you one (1) license to use our VPN Service on up t
 
 You understand that it is your responsibility to keep your Account information confidential and secure. You are solely responsible for all activity on your Account. If you ever discover or suspect that someone has accessed your Account without your authorization, or that any of your passwords have been compromised (i.e., Account password or ExpressVPN Keys primary password), you are advised to inform us immediately so that we can take appropriate action. Please refer to Section 5 for specific information about your ExpressVPN Keys password and recovery code.
 
-### 5\. ExpressVPN Keys
+### 5\. ExpressVPN Keys and Dedicated IP
+
+_**ExpressVPN Keys**_
 
 By registering your Account and subscribing to the Services, you are automatically granted access to our proprietary in-built password manager (“**ExpressVPN Keys**”). You can use ExpressVPN Keys during any free trial period (if available to you), and regardless of the subscription plan you choose, if any.
 
@@ -122,6 +124,25 @@ Your access to ExpressVPN Keys is password-protected. We strongly recommend that
 You can continue to use ExpressVPN Keys even if you decide to stop using our VPN Service. Your Account will remain active, and the information added to ExpressVPN Keys will remain accessible to you even though you have ended your subscription Services.
 
 Each Account will be linked to a single ExpressVPN Keys, regardless of how many devices you choose to connect to our VPN Services.
+
+_**Dedicated IP (applicable to optional add-on service only)**_
+
+Dedicated IP is an optional add-on service that may be purchased at checkout.
+
+**Irreplaceable access code:** Access to your Dedicated IP is protected by an access code of your choice, which is the only way to unlock your Dedicated IP on any of your devices. We recommend using a strong and unique access code, different from your Account password, to ensure that it is not easily guessed.  
+  
+If you lose your access code, you may be able to find it in the ExpressVPN app’s Dedicated IP settings on a device upon which you’ve previously set up or unlocked your Dedicated IP.  
+  
+**Copy or save your access code and keep it somewhere safe:** It cannot be recovered—if you lose the access code and cannot find it on another valid device, you will permanently lose access to your Dedicated IP. No ExpressVPN staff or Service Providers can view or retrieve the access code or Dedicated IP address allocated to you, even with your authorization.
+
+**Inactivity or other rare faults:** To ensure continuous access to your Dedicated IP, ExpressVPN may have to assign you a new Dedicated IP address
+
+* (i) if all of the ExpressVPN apps you unlocked your Dedicated IP on are inactive for
+    * more than one (1) month, if your subscription is one month long
+    * more than two (2) months, if your subscription is more than one month long
+* or (ii) due to rare faults with our IP providers that cause the Dedicated IP address to malfunction.
+
+In such cases, you will be notified through the ExpressVPN app and will be guided to contact our Support Team to reset the configuration and receive a new Dedicated IP address.
 
 ### 6\. Refund Policy
 
