@@ -1,10 +1,8 @@
 [Skip to main content](#content)
 
-* [Visit Beano Shop](https://www.beano.com/external-link-warning-shop?verify=d7b871e26a&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral "Visit Beano Shop")
+[Subscribe to Beano Comic
 
-[Subscribe](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl) [Subscribe to Beano
-
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=1bd07b79ef&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 Open Search
 
@@ -16,20 +14,17 @@ Open Search
 * [Jokes](https://www.beano.com/categories/jokes)
 * [Facts](https://www.beano.com/categories/fun-facts)
 * [Comic](https://www.beano.com/categories/beanotown)
-* [Subscribe](https://www.beano.com/subscribe)
 * [Fun Stuff](https://www.beano.com/categories/fun-stuff)
 
-[Subscribe to Beano](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl) [Subscribe to Beano
+[Subscribe to Beano Comic
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=1bd07b79ef&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 [Subscribe to our Beano comic! Click Here
 
-![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl)
+![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover.png)](https://www.beano.com/external-link-warning-shop?verify=1bd07b79ef&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral)
 
 [![Beano](https://www.beano.com/app/themes/beano/assets/images/logo.svg)](https://www.beano.com/ "Beano")
-
-[Subscribe](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl)
 
 Open Search
 
@@ -51,9 +46,9 @@ Open Search
 * [Facts](https://www.beano.com/categories/fun-facts)
 * [Comic](https://www.beano.com/categories/beanotown)
 * [Fun Stuff](https://www.beano.com/categories/fun-stuff)
-* [Shop](https://www.beano.com/external-link-warning-shop?verify=d7b871e26a&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Shop](https://www.beano.com/external-link-warning-shop?verify=2f839eb133&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 
-[Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=d56e5a7769&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DRoleGateTest%26utm_medium%3Dreferral%26utm_content%3DControl) 
+[Want more Beano? Subscribe ![Beano Comic](https://s3.eu-west-2.amazonaws.com/www.beano.com-assets-test/images/mag-cover-2.png)](https://www.beano.com/external-link-warning-shop?verify=1bd07b79ef&to=https%3A%2F%2Fshop.beano.com%2Fbeano-comic-subscription%3Futm_source%3Dbeano%26utm_campaign%3DSubscribePushButton%26utm_medium%3Dreferral) 
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -70,6 +65,8 @@ Kids!
 This page is for grown ups. It tells grown ups that we send cookies (not the type you eat!) to your computer or mobile to help us make Beano work better and to tell us if Beano has crashed (ooops!!). We hope this is OK but, if not, your grown up can help you get rid of cookies.
 
 Please show this page to your parent or guardian before you use the Beano site. ☺
+
+Cookie policy updated July 2024.
 
 Grown Ups
 ---------
@@ -98,22 +95,38 @@ The law states that we can store cookies on your computer or device if they are 
 
 These cookies are required for beano.com to function properly and for security purposes. Without these cookies, we cannot provide the requested services.
 
-1. * Name: visitor\_id
-    * Purpose: Preserves the visitor’s session state across page requests
-    * Expiry: 2 Years
-    * Cookie Type: 1st Party
-2. * Name: session\_id
-    * Purpose: Preserves the same session state across page requests
-    * Expiry: 2 Years
-    * Cookie Type: 1st Party
-3. * Name: country
-    * Purpose: Determines the preferred language and country-setting of the visitor – This allows the website to show content most relevant to that region and language
-    * Expiry: 29 Days
-    * Cookie Type: 1st Party
-4. * Name: GRECAPTCHA
-    * Purpose: Used by Google to provide spam protection
-    * Expiry: Session
-    * Cookie Type: 3rd Party
+1. * **Name:** visitor\_id
+    * **Purpose:** Preserves the visitor’s session state across page requests
+    * **Expiry:** 2 Years
+    * **Cookie Type:** 1st Party
+2. * **Name:** session\_id
+    * **Purpose:** Preserves the same session state across page requests
+    * **Expiry:** 2 Years
+    * **Cookie Type:** 1st Party
+3. * **Name:** country
+    * **Purpose:** Determines the preferred language and country-setting of the visitor – This allows the website to show content most relevant to that region and language
+    * **Expiry:** 29 Days
+    * **Cookie Type:** 1st Party
+4. * **Name:** GRECAPTCHA
+    * **Purpose:** Used by Google to provide spam protection
+    * **Expiry:** Session
+    * **Cookie Type:** 3rd Party
+5. * **Name:** \_dc\_gtm\_UA-xxxxxxxx
+    * **Purpose:** This cookie is associated with sites using Google Tag Manager to load other scripts and code into a page. Where it is used it may be regarded as Strictly Necessary as without it, other scripts may not function correctly. The end of the name is a unique number which is also an identifier for an associated Google Analytics account.
+    * **Expiry:** A few seconds
+    * **Cookie Type:** First Party
+6. * **Name:** OptanonAlertBoxClosed
+    * **Purpose:** This cookie is set by websites using certain versions of the cookie law compliance solution from OneTrust. It is set after visitors have seen a cookie information notice and in some cases only when they actively close the notice down. It enables the website not to show the message more than once to a user. The cookie has a one-year lifespan and contains no personal information.
+    * **Expiry:** 365 Days
+    * **Cookie Type:** First Party
+7. * **Name:** PHPSESSID
+    * **Purpose:** PHP session cookie associated with embedded content from this domain.
+    * **Expiry:** A few seconds
+    * **Cookie Type:** First Party
+8. * **Name:** OptanonConsent
+    * **Purpose:** This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor.
+    * **Expiry:** 365 Days
+    * **Cookie Type:** First Party
 
 ### Performance Cookies
 
@@ -121,51 +134,18 @@ Performance cookies enable us to test changes to our website in order to improve
 
 Some of our performance cookies are managed for us by third parties. However, we don’t allow the third party to use the cookies for any purpose other than anonymously reporting usage statistics.
 
-1. * Name: \_hjIncludedInSessionSample
-    * Purpose: This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.
-    * Expiry: 1 Year
-    * Cookie Type: 3rd Party
-2. * Name: \_hjAbsoluteSessionInProgress
-    * Purpose: This cookie is used by Hotjar to detect the first pageview session of a user. This is a True/False flag set by the cookie.
-    * Expiry: 30 minutes
-    * Cookie Type: 3rd Party
-3. * Name: \_hjid
-    * Purpose: Hotjar cookie. This cookie is set when the customer first lands on a page with the Hotjar script. It is used to persist the Hotjar User ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
-    * Expiry: 1 Year
-    * Cookie Type: 3rd Party
-4. * Name: \_hjFirstSeen
-    * Purpose: This is set by Hotjar to identify a new user’s first session. It stores a true/false value, indicating whether this was the first time Hotjar saw this user. It is used by Recording filters to identify new user sessions.
-    * Expiry: 1 Year
-    * Cookie Type: 3rd Party
-5. * Name: \_hjTLDTest
-    * Purpose: Hotjar tries to determine the most generic cookie path they should use, instead of the page hostname. This is done so that cookies can be shared across subdomains (where applicable). To determine this, Hotjar tries to store the \_hjTLDTest cookie for different URL substring alternatives until it fails. After this check, the cookie is removed.
-    * Expiry: Session
-    * Cookie Type: 3rd Party
-6. * Name: JSESSIONID
-    * Purpose: Used by New Relic to ensure website is running without performance issue
-    * Expiry: Session
-    * Cookie Type: 3rd Party
-7. * Name: jetpack\_sso\_nonce
-    * Purpose: Used by Jetpack for nonce request and protect website from malicious attack
-    * Expiry: Session
-    * Cookie Type: 3rd Party
-
-### Analytics Cookies
-
-Analytics cookies collect anonymous information about how you use our website – e.g. which pages you visit. These cookies do not collect any information that could identify you. They are only used to help us improve how our website works, understand what interests our users and measure how effective our content is.
-
-1. * Name: \_ga
-    * Purpose: This cookie name is associated with Google Universal Analytics – which is a significant update to Google’s more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
-    * Expiry: 2 Years
-    * Cookie Type: 3rd Party
-2. * Name: \_gat\_gtag\_UA\_xxxxxxxxxx
-    * Purpose: Used by Google Analytics to throttle request rate via Google Tag Manager
-    * Expiry: 1 Day
-    * Cookie Type: 3rd Party
-3. * Name: \_gid
-    * Purpose: This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.
-    * Expiry: 1 Day
-    * Cookie Type: 3rd Party
+1. * **Name:** \_ga
+    * **Purpose:** This cookie name is used by Google Analytics. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports. reports.
+    * **Expiry:** 2 Years
+    * **Cookie Type:** First Party
+2. * **Name:** \_gat\_gtag\_UA\_xxxxxxxxxx
+    * **Purpose:** Used by Google Analytics to throttle request rate via Google Tag Manager
+    * **Expiry:** 1 Day
+    * **Cookie Type:** First Party
+3. * **Name:** \_gid
+    * **Purpose:** This cookie is used by Google Analytics. The cookie is used to store information of how visitors use a website, The data collected includes the number visitors, the source where they have come from, and the pages visited in an anonymous form.
+    * **Expiry:** 1 Day
+    * **Cookie Type:** First Party
 
 ### Delete Cookies
 
@@ -191,29 +171,27 @@ Most browsers allow you to refuse to accept cookies. For example:
 
 ### Control Google Analytics Cookies
 
-A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site. You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting [https://tools.google.com/dlpage/gaoptout](https://www.beano.com/external-link-warning?verify=aa774be314&to=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
+A lot of sites use special types of cookies from Google Analytics to track the traffic on a site and what users do on the site. You can stop being tracked by ALL Google Analytics cookies across ALL sites on your computer or mobile device by visiting [https://tools.google.com/dlpage/gaoptout](https://www.beano.com/external-link-warning?verify=f107c838c0&to=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout).
 
 ### One last thing…
 
 Websites we link to are not covered by this policy. So if you or your child click on a link and access someone else’s site, they might collect and use information about you and your child in a different way to us.
 
-Cookie policy updated August 2021.
-
 Whoopee cushion...
 
  
 
-* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=d7b871e26a&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
+* [Beano Shop](https://www.beano.com/external-link-warning-shop?verify=2f839eb133&to=https%3A%2F%2Fshop.beano.com%2F%3Futm_source%3Dbeano%26utm_campaign%3DCP%26utm_medium%3Dreferral)
 * [Subscription Offers](https://www.beano.com/subscribe)
 * [Parent Zone](https://www.beano.com/parent-zone)
 
-[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=c06dfa52cb&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
+[![KidAware Certified](https://www.beano.com/app/themes/beano/assets/images/footer/footer-kidawarelogo.png)](https://www.beano.com/external-link-warning?verify=5d4b28ebe0&to=https%3A%2F%2Fwww.superawesome.com%2Fkidaware%2F)
 
-[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=5f6c746e4c&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![COPPA - Safe Harbor Certification (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/coppa.png)](https://www.beano.com/external-link-warning?verify=0b97709917&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=5f6c746e4c&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![GDPR - General Data Protection (Kids' Privacy Assured Privo)](https://www.beano.com/app/themes/beano/assets/images/footer/gdpr.png)](https://www.beano.com/external-link-warning?verify=0b97709917&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
-[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=5f6c746e4c&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
+[![Kids' Privacy Assured Privo](https://www.beano.com/app/themes/beano/assets/images/footer/seal.png)](https://www.beano.com/external-link-warning?verify=0b97709917&to=https%3A%2F%2Fcert.privo.com%2F%23%2Fcompanies%2Fbeano_studios)
 
 * [Home](https://www.beano.com/)
 * [Quizzes](https://www.beano.com/categories/quizzes)
@@ -228,7 +206,7 @@ Whoopee cushion...
 * [Contact Us](https://www.beano.com/contact-us)
 * [Cookie Policy](https://www.beano.com/cookie-policy)
 * [Terms and Conditions](https://www.beano.com/terms-and-conditions)
-* [Careers](https://www.beano.com/external-link-warning?verify=3efd6466fc&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
+* [Careers](https://www.beano.com/external-link-warning?verify=a1717727ba&to=https%3A%2F%2Fwww.beanostudios.com%2Fcareers)
 * [Privacy Policy](https://www.beano.com/privacy-policy)
 * [Update Cookie Preferences](https://www.beano.com/)
 
