@@ -7,19 +7,19 @@
 * [](https://t.me/blocktrainergruppe "Telegram")
 * [](https://forum.blocktrainer.de/ "Forum")
 
-![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")
+![Sprachumschaltung](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")
 
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz)
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection)
+* [![Sprachschalter Deutsch](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz)
+* [![Sprachschalter English](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection)
 
 [Anmelden](https://www.blocktrainer.de/login) [Registrieren](https://www.blocktrainer.de/registrierung)
 
  [![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo.svg) ![logo](/_assets/34affc05c601c6c6e98f60d0afa10c28/Images/logo_dark.svg)](https://www.blocktrainer.de/ "Blocktrainer - Bitcoin Bildung")
 
-![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")
+![Sprachumschaltung](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")
 
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz)
-* [![](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection)
+* [![Sprachschalter Deutsch](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-de.png "Deutsch")Deutsch](https://www.blocktrainer.de/datenschutz)
+* [![Sprachschalter English](/_assets/34affc05c601c6c6e98f60d0afa10c28/Flags/flags-en-us-gb.png "English")English](https://www.blocktrainer.de/en/legal-information/data-protection)
 
 [Anmelden](https://www.blocktrainer.de/login) [Registrieren](https://www.blocktrainer.de/registrierung)
 
@@ -34,10 +34,10 @@
     * [Heizen mit Bitcoin](https://www.blocktrainer.de/kaufen-und-anbieter/heizen-mit-bitcoin)
 * [Lernen & Wissen](https://www.blocktrainer.de/wissen)
     * [Artikel für Einsteiger](https://www.blocktrainer.de/wissen/artikel-fuer-einsteiger)
+    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Mehr Wissen zu Bitcoin & Co.](https://www.blocktrainer.de/wissen/mehr-wissen-zu-bitcoin-co)
     * [Blocktrainer Podcast](https://www.blocktrainer.de/wissen/blocktrainer-podcast)
     * [Bitcoin-Bücher](https://www.blocktrainer.de/tools-services/bitcoin-buecher)
-    * [Tutorials](https://www.blocktrainer.de/wissen/tutorials)
     * [Übersetzungen](https://www.blocktrainer.de/wissen/uebersetzungen)
     * [Glossar](https://www.blocktrainer.de/wissen/glossar)
 * [Tools & Services](https://www.blocktrainer.de/tools-services)
@@ -55,6 +55,8 @@
 * [Forum](https://forum.blocktrainer.de/)
 * [Events](https://www.blocktrainer.de/bitcoin-events)
 * [Shop](https://www.blocktrainer.de/shop/alle-produkte)
+    * [Bücher](https://www.blocktrainer.de/shop/buecher)
+    * [Wallet Backups](https://www.blocktrainer.de/shop/wallet-backups)
 * [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
 
 * [Startseite](https://www.blocktrainer.de/ "Startseite")
@@ -560,16 +562,17 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
     * [Impressum](https://www.blocktrainer.de/rechtliche-infos/impressum "Impressum")
     * [Versand & Zahlung](https://www.blocktrainer.de/rechtliche-infos/versand-zahlung "Versand & Zahlung")
     * [Widerrufsrecht](https://www.blocktrainer.de/rechtliche-infos/widerrufsrecht "Widerrufsrecht")
-    * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/Blocktrainer_ABG_15042024.pdf "AGB")
+    * [AGB](https://www.blocktrainer.de/fileadmin/Dateiablage/PDF/BLOCKTRAINER_-_ALLGEMEINE_GESCH%C3%84FTSBEDINGUNGEN.pdf "AGB")
 * ÜBER UNS
     * [Unser Gründer](https://www.blocktrainer.de/unser-gruender "Unser Gründer")
-    * [Unsere Autoren](https://www.blocktrainer.de/autoren "Unsere Autoren")
+    * [Unsere Autoren](https://www.blocktrainer.de/ueber-uns/unsere-autoren "Unsere Autoren")
     * [Brand](https://www.blocktrainer.de/brand "Brand")
 * UNTERSTÜTZEN
     * [Spenden](https://www.blocktrainer.de/unterstuetze-uns "Spenden")
     * [Patenschaft](https://www.blocktrainer.de/patenschaft "Patenschaft")
 * SONSTIGES
     * [Shop](https://www.blocktrainer.de/shop/alle-produkte "Shop")
+    * [RSS Feed](https://www.blocktrainer.de/feed "RSS Feed")
     * [Newsletter](https://www.blocktrainer.de/newsletter "Newsletter")
     * [Status](https://status.blocktrainer.de/ "Status")
 
@@ -585,4 +588,4 @@ Kopieren
 
 [](#)
 
-[![](/fileadmin/_processed_/9/0/csm_RelaiApp_768d3183b2.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_d60a2d5bca.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
