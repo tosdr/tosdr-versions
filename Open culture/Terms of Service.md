@@ -414,7 +414,6 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Artificial Intelligence](https://www.openculture.com/category/artificial-intelligence)
     * [Astronomy](https://www.openculture.com/category/astronomy-2)
     * [Audio Books](https://www.openculture.com/category/audio_books)
-    * [Beat & Tweets](https://www.openculture.com/category/beat_tweets)
     * [Biology](https://www.openculture.com/category/biology-2)
     * [Books](https://www.openculture.com/category/books)
     * [Business](https://www.openculture.com/category/business)
@@ -530,8 +529,8 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     * [Bertrand Russell](https://www.openculture.com/2011/07/bertrand_russell_bbc_lecture_series_.html)
     * [Oxford Philosophy Lectures](https://www.openculture.com/2012/11/take_first-class_philosophy_lectures_anywhere_with_free_oxford_podcasts.html)
     
-* Sign up
-    -------
+* Sign up for Newsletter
+    ----------------------
     
         
     
@@ -545,7 +544,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1718912736&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1721421364&formid=1 "click to reload")
     
 * About Us
     --------
@@ -638,6 +637,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
 * Archives
     --------
     
+    * [July 2024](https://www.openculture.com/2024/07)
     * [June 2024](https://www.openculture.com/2024/06)
     * [May 2024](https://www.openculture.com/2024/05)
     * [April 2024](https://www.openculture.com/2024/04)
@@ -889,4 +889,4 @@ All rights reserved.
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
 
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/79e5dc0cde3611c1642bec2da3768004.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/f377272a60a9164a162d75aaff5d47af.gif "Cleantalk Pixel")
