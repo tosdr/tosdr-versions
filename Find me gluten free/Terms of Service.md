@@ -306,6 +306,7 @@ We may modify the Terms from time to time. When changes are made, we will notify
 * [Toronto](https://www.findmeglutenfree.com/ca/on/toronto)
 * [Washington DC](https://www.findmeglutenfree.com/us/dc/washington)
 * [More cities…](https://www.findmeglutenfree.com/us)
+* [All Countries](https://www.findmeglutenfree.com/countries)
 * [International](https://www.findmeglutenfree.com/international)
 * [Airports](https://www.findmeglutenfree.com/airports)
 
