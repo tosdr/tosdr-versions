@@ -24,7 +24,7 @@ Privacy Policy
 _Privacy Notice_
 ================
 
-****Last Updated on May 22nd, 2024****
+****Last Updated on June 28th, 2024****
 
 **OKWOW.COM PRIVACY NOTICE — IMPORTANT — PLEASE READ**
 
@@ -66,6 +66,8 @@ We do not charge you for receiving mobile text messages, but message and data ra
 
 We might also use your phone number in an encrypted form of matching to verify if you have a current business relationship with another company.
 
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, unless you explicitly consent to share your information with those companies.
+
 **IT IS IMPORTANT TO NOTE THAT, UNLESS YOU EXPLICITLY OPT IN AND AGREE TO RECEIVE SMS TEXT MESSAGES OR PHONE CALLS FROM OK WOW, ADVERTISERS OR OTHER PARTIES, WE DO NOT TRANSFER, LICENSE, OR SHARE YOUR PHONE INFORMATION WITH THIRD PARTIES FOR THE PURPOSE OF UNSOLICITED SMS MESSAGING OR PHONE CALLS.**
 
 **Emails & Newsletters.** When submitting any information on our website you will see a disclaimer for receiving emails from OK WOW, companies owned by the same legal entity as OK WOW and third-party advertisers. You expressly authorize OK WOW, and its Associated Entities to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from them as well. You can expect to receive offers regarding specific products and/or services, newsletters, sweepstakes announcements, promotions, and other similar offers.
@@ -89,7 +91,6 @@ without your explicit consent.
     * Affordable Health Options
     * Cross Country Mortgage
     * Loan Depot
-    * Permissionize
     * TrustedConsumer.com
     * US Disability Partner  
         
