@@ -140,9 +140,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
-            
         * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
+            
+        * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -168,8 +168,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
             * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
+            * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
@@ -259,12 +259,12 @@ Customer Services Helpline
         * [Make-Up](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/)
             * [Face](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/face/)
             * [Eyes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/eyes/)
-            * [Tools](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/tools/)
             * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
+            * [Tools](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/tools/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
-            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
             * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
+            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
         
         * [Dental Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/)
             * [Toothbrushes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/toothbrushes/)
@@ -362,7 +362,7 @@ Customer Services Helpline
 
 **Subtotal** (excluding delivery): **£ 0.00**
 
-Delivery options from £0.99
+Delivery options from £4.95
 
  
 
@@ -401,8 +401,8 @@ You are here:
 
 You haven't viewed any products yet
 
-* [99p Standard Delivery\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
-* [33% Off Faith In Nature\*](https://www.ethicalsuperstore.com/products/faith-in-nature/)
+* [Summer Sale](https://www.ethicalsuperstore.com/summer-sale/)
+* [FREE Delivery on orders over £50\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
 * [30 day no-quibble returns policy](https://www.ethicalsuperstore.com/help-returns-and-refunds/)
 
 Ethical Superstore Policies and Conditions of Use
