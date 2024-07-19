@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[SUMMER TRAVEL SALE: 15% OFF $100, 20% OFF $250, 25% OFF $400+ No code required. SUMMER TRAVEL SALE: 15% OFF $100, 20% OFF $250, 25% OFF $400+ No code required.](https://www.airestech.com/pages/store)
+FREE SHIPPING ON ORDERS $100+ FREE SHIPPING ON ORDERS $100+
 
     
 
@@ -24,7 +24,10 @@
     [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
     * [UFC FIGHTER MAYCEE BARBER](https://www.airestech.com/pages/maycee-barber)
+    * [NHL CAPT JOHN TAVARES](https://www.airestech.com/pages/aires-athletes)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
+    * [UFC OFFICIAL PARTNER](https://investors.airestech.com/2024/05/30/ufc-and-aires-tech-announce-multi-year-global-marketing-partnership/)
+    * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     
 
 Country/region
@@ -549,14 +552,15 @@ United Kingdom (GBP £)
 * [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
     * [UFC FIGHTER MAYCEE BARBER](https://www.airestech.com/pages/maycee-barber)
+    * [NHL CAPT JOHN TAVARES](https://www.airestech.com/pages/aires-athletes)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
+    * [UFC OFFICIAL PARTNER](https://investors.airestech.com/2024/05/30/ufc-and-aires-tech-announce-multi-year-global-marketing-partnership/)
+    * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     
 
  Search our site  
 
 Clear[Log in](https://www.airestech.com/account/login) [Cart](https://www.airestech.com/cart)
-
- 
 
 Privacy Policy
 --------------
