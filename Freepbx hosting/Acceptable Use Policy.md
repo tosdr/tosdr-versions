@@ -1,4 +1,4 @@
-  [![phone icon](https://www.freepbxhosting.com/wp-content/uploads/2021/05/phone@2x.png)1-800-862-5965](tel:18008625965)
+  [![phone icon](https://www.freepbxhosting.com/wp-content/uploads/2021/05/phone@2x.png.webp)1-800-862-5965](tel:18008625965)
 
 [Customer Support Chat](http://www.providesupport.com/?messenger=0ccda2x90oone0mm6d23w6cnn1)
 
@@ -6,7 +6,7 @@
 
 [Client Billing](https://secure.cyberlynk.net/clientarea.php) [VPS Control Panel Login](https://secure.freepbxhosting.com/login.php)
 
- [![](https://www.freepbxhosting.com/wp-content/uploads/2021/10/New-Logo.png)](https://www.freepbxhosting.com/)
+ [![](https://www.freepbxhosting.com/wp-content/uploads/2021/10/New-Logo.png.webp)](https://www.freepbxhosting.com/)
 
 * Search
     
@@ -58,7 +58,7 @@
 
 Search
 
- [![](https://www.freepbxhosting.com/wp-content/uploads/2021/10/New-Logo.png)](https://www.freepbxhosting.com/)
+ [![](https://www.freepbxhosting.com/wp-content/uploads/2021/10/New-Logo.png.webp)](https://www.freepbxhosting.com/)
 
 Search
 
@@ -351,9 +351,9 @@ FTPhosting.com Addendum
 
 [](https://www.facebook.com/freepbxhosting)
 
- [![phone icon](https://www.freepbxhosting.com/wp-content/uploads/2021/05/phone@2x.png)](tel:18008625965)[](http://www.freepbxhosting.com/contact/)
+ [![phone icon](https://www.freepbxhosting.com/wp-content/uploads/2021/05/phone@2x.png.webp)](tel:18008625965)[](http://www.freepbxhosting.com/contact/)
 
- [![Freepbx hosting logo](https://www.freepbxhosting.com/wp-content/uploads/2021/05/FreePBX-Log0-White@2x.png)](http://www.freepbxhosting.com/)
+ [![Freepbx hosting logo](https://www.freepbxhosting.com/wp-content/uploads/2021/05/FreePBX-Log0-White@2x.png.webp)](http://www.freepbxhosting.com/)
 
 CyberLynk Network, LLC
 
