@@ -129,6 +129,6 @@ This Privacy Policy as posted on this Website/Application is the sole statement 
 * [Franchising](https://cicis.com/franchising)
 
 * [Nutrition](https://cicis.com/nutrition)
-* [Ingredients Statements](https://cicis.com/media/zrqbcfjl/cicis-pizza-ingredients-list-121422.pdf)
+* [Ingredients Statements](https://cicis.com/nutrition/ingredient-list)
 
 2024 CICI ENTERPRISES, LP. Cicis is committed to providing a website that is accessible to all individuals. That commitment includes working to update those portions of our website that are covered by Title III of the Americans with Disabilities Act to substantially conform to the Web Content Accessibility Guidelines 2.0 Level AA Success Criteria.
