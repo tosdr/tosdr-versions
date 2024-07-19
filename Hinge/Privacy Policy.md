@@ -127,7 +127,7 @@ We may share data about you with our Affiliates and they may share data about yo
 * Where and as allowed under applicable law, to better understand how people use Match Group services overall, to personalize your experience across Match Group services and to enhance marketing and advertising campaigns.
 * For other legitimate business purposes including corporate / consolidated audit, analysis and reporting.
 
-Learn more about how Match Group companies work together.
+[Learn more](https://hingeapp.zendesk.com/hc/en-us/articles/31216741886611-Why-we-share-across-Match-Group-companies) about how Match Group companies work together.
 
 ### **7\. Cross-Border Data Transfers**
 
@@ -254,5 +254,3 @@ Resources
 Legal
 
 [Security](https://hinge.co/security)[Terms](https://hinge.co/terms)[Privacy](https://hinge.co/privacy)[Cookie Policy](https://hinge.co/cookie-policy)Cookie Settings[Consumer Health Data Privacy Policy](https://hinge.co/consumer-health-data-privacy-policy)
-
-![](https://www.facebook.com/tr?id=3005695776317525&ev=PageView&noscript=1)
