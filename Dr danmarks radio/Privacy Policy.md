@@ -18,11 +18,11 @@ Sektionens indgange
 3. [Cookiepolitik](https://www.dr.dk/service/cookiepolitik)
 4. [Om DR og dine data](https://www.dr.dk/om-dr/dr-og-dine-data/om-dr-og-dine-data)
 
-[Log ind](https://www.dr.dk/hydra/auth/login)
+[Log ind](https://www.dr.dk/auth/drlogin/login)
 
 [](https://www.dr.dk/soeg)
 
-[Log ind](https://www.dr.dk/hydra/auth/login)
+[Log ind](https://www.dr.dk/auth/drlogin/login)
 
 Nyhedssektioner
 ---------------
