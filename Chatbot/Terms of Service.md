@@ -4,7 +4,7 @@
 Terms of Use
 ============
 
-last update: 13/06/2024
+last update: 10/07/2024
 
 ### Table of content
 
@@ -118,7 +118,7 @@ We may change the terms of this Agreement at any time, but we'll give you at lea
 
 2.9. The Customer understands and has become familiar with the technical requirements necessary to access and use the Services and has no objections in respect thereof. The Customer is aware of risks and threats connected with electronic data transmission.
 
-2.10. **text|** may make available Supporting Applications via Marketplace. If Customer elects to procure a Supporting Application, the terms and conditions regarding its use or receipt of the Supporting Applications are between Customer and the provider of those Supporting Applications and any exchange of data between Customer and such third party provider is solely between Customer and the applicable provider. Any questions, concerns or disputes that arise based on Customer’s use of Supporting Application should be addressed with the provider of such Supporting Application. **text|** does not warrant, or support Supporting Application, whether or not they are designated by **text|** as developer or otherwise. **text|** is not responsible for any disclosure, modification or deletion of Customer Data resulting from access by such Supporting Application or its provider. **text|** cannot guarantee the continued availability of any functionality or feature that is made available as the outcome of integration with any Supporting Application and may cease providing them without notice and without entitling the Customer to any refund, credit, or other compensation. Use of such Supporting Application remains volunteer for all Customers therefore **text|** considers use of such Supporting Applications as optional and not being a part of Services.
+2.10. **text|** may make available Supporting Applications via Marketplace. If Customer elects to procure a Supporting Applications, the terms and conditions regarding its use or receipt of the Supporting Applications are between Customer and the provider of those Supporting Applications and any exchange of data between Customer and such third party provider is solely between Customer and the applicable provider. Any questions, concerns or disputes that arise based on Customer’s use of Supporting Applications should be addressed with the provider of such Supporting Applications. **text|** does not warrant, or support Supporting Applications, whether or not they are designated by **text|** as developer or otherwise. **text|** is not responsible for any disclosure, modification or deletion of Customer Data resulting from access by such Supporting Applications or its provider. **text|** cannot guarantee the continued availability of any functionality or feature that is made available as the outcome of integration with any Supporting Applications and may cease providing them without notice and without entitling the Customer to any refund, credit, or other compensation. Use of such Supporting Applications remains volunteer for all Customers therefore **text|** considers use of such Supporting Applications as optional and not being a part of Services.
 
 Legal stuff made easy
 
@@ -282,7 +282,9 @@ The price of the Services may vary depending on the plan you choose. If you don'
 
 7.5.3. Paid services may be discontinued at any time: (i) by you when you close your Account. Prior to closing the Account, it is your responsibility to notify us on chat about your decision and follow the appropriate steps for closing the Account in accordance with the Services you’ve subscribed to. Closing the Account means that further use of the Services using the existing password and login will no longer be possible, and after closing the Customer Account, it will cease to work immediately; (ii) we can close or suspend the Paid Services or any part or function thereof, without prior notice to you, due to a breach of any provision of this Agreement, applicable law, as well as faulty or unlawful use of the Services by the Client, its Agents, Guest-Users or End Users. None of the above methods of closing or suspending the Account before the end of the Subscription Period for which the payment was made shall oblige **text|** to refund the amount for the unused period.
 
-7.5.4. **text|** has no liability of any kind for any damages suffered by the Customer, its Agents, Guest-Users or End-Users, or any other third party arising due to the suspension or closing of the Account by the Customer, or by the Company.
+7.5.4. If you request to discontinue the Services but modify your subscription before the Account is closed, such as by adding new Agents, the Account closure will be canceled, confirming the continuation of your subscription, and prorated charges based on the increased usage from the modification date will apply.
+
+7.5.5. **text|** has no liability of any kind for any damages suffered by the Customer, its Agents, Guest-Users or End-Users, or any other third party arising due to the suspension or closing of the Account by the Customer, or by the Company.
 
 7.6. Subscription availability details for Beta Features and Services are as follows:
 
