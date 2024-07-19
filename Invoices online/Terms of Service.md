@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client IAS Logistics ta Multi transit](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=135159954)  
-IAS Logistics ta Multi transit
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=105087364)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=159872617)  
-MSPCloud (Pty) Ltd
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=144062866)  
+J.M. HUMAN RESOURCES
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=170182291)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=62208433)  
+Cape Adventure Zone
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=51808863)  
+ARCHITEK PTY LTD
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=4780608)  
+Leef in Afrikaans
+
+![valued client Reliable Store](https://www.invoicesonline.co.za/scripts/image.php?bid=6792&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=85740904)  
+Reliable Store
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=147660496)  
+FJW Security Cc
+
+![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=105867681)  
+Zwashu Bed Manufacturing
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=194621807)  
 Abandoned Vehicle and Truck Solutions
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=109071736)  
-All Trucking Solutions
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=150822114)  
+Hydroworld T/A Milliqua
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=213024677)  
-Cooper Logistics (Pty) Ltd
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=78269324)  
+Wiselink Broadband Vryheid
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=113750054)  
-Entidee Enterprise PTY (ltd)
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=71204053)  
+Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=42652595)  
-Firstweb Hosting & Design
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=5537947)  
+Super Sound Man (PTY) Ltd
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=76998204)  
-INVOICES/JOBCARDS ONLINE
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=43813380)  
+Immediate Health (pty)ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79123814)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=188112188)  
-West Coast Horse Trails
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=156912748)  
-BD Maintenance
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=79667463)  
-SLOANE STAR MEAT MARKET
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=51738854)  
-Blue Sky Solar Services
-
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=34642565)  
-Lily Fern & Co
-
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=7755a4ba4f68ef953aef1b5ae0442589364b8af37101e9532d592b67f6e04101&c=186711376)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=186990417)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
