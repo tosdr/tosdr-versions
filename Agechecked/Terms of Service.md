@@ -160,7 +160,7 @@ These Terms of Use will be governed by and construed in accordance with UK law a
 CONTACT
 
 * AGECHECKED LTD
-* 161-165 Farringdon Road, London, EC1R 3AL.
+* 124-128 City Road, London, EC1V 2NX
 * [info@agechecked.com](mailto:info@agechecked.com)
 
 USEFUL LINKS
