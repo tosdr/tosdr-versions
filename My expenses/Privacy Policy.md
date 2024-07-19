@@ -182,7 +182,7 @@ Participate
 With your support, My Expenses keeps growing in functionality, while being distributed ad free and Open Source.
 
 * My Expenses evolves through your reports and suggestions. If you find a problem or think of an improvement, create a [new issue](https://github.com/mtotschnig/MyExpenses/issues/new), in Github's Issue Tracker.
-* If you are interested in helping to test upcoming versions, please join the [My Expenses Testing](https://groups.google.com/g/my-expenses-testing/c/RGiWUEWz154) Google Group.
+* If you are interested in helping to test upcoming versions, please join the [Beta test](https://play.google.com/apps/testing/org.totschnig.myexpenses).
 * You can also help [translate](#translate) My Expenses into new languages.
 * Please consider purchasing one of the [Licence Keys](#premium) and gain access to more features.
 * If you just want to express your support to the project, you can send a donation via [Github Sponsors](https://github.com/sponsors/mtotschnig), [Bitcoin](bitcoin:15WECHs6zGQyyiRYoLmVzWYfoKVDoipmSp) (15WECHs6zGQyyiRYoLmVzWYfoKVDoipmSp) or [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPXNZHMXJE8ZJ).
