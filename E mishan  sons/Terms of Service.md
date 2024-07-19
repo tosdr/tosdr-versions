@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/65a04fcb324f5032c777a5a9/65a052fa81acd2556cd3363b_emson-logo.svg)](https://emsoninc.com/)
+[![Emson Logo](https://cdn.prod.website-files.com/65a04fcb324f5032c777a5a9/65a052fa81acd2556cd3363b_emson-logo.svg)](https://emsoninc.com/)
 
 [Home](https://emsoninc.com/)[Story](https://emsoninc.com/story)[Brands](https://emsoninc.com/brands)[Innovation](https://emsoninc.com/innovation)[Inventors](https://emsoninc.com/inventors)[Media](https://emsoninc.com/media)
 
@@ -45,7 +45,7 @@ Emson, Inc.
 230 5th Avenue  
 New York
 
-[![](https://assets-global.website-files.com/65a04fcb324f5032c777a5a9/65a052fa81acd2556cd3363b_emson-logo.svg)](https://emsoninc.com/)
+[![Emson Logo](https://cdn.prod.website-files.com/65a04fcb324f5032c777a5a9/65a052fa81acd2556cd3363b_emson-logo.svg)](https://emsoninc.com/)
 
 Excellence In Everyday
 
