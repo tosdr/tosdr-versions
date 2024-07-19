@@ -58,7 +58,7 @@ Other products
 
 [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 
-[AdGuard for iOS Pro](https://adguard.com/en/adguard-ios-pro/overview.html)
+[AdGuard Pro for iOS](https://adguard.com/en/adguard-ios-pro/overview.html)
 
 [AdGuard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html)
 
@@ -66,7 +66,7 @@ Other products
 
 [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html)
 
-[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549)
+[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html)
 
 [All products](https://adguard.com/en/products.html)
 
@@ -134,7 +134,7 @@ Other tools for content blocking
 
 [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
 
-[AdGuard for iOS Pro](https://adguard.com/en/adguard-ios-pro/overview.html)
+[AdGuard Pro for iOS](https://adguard.com/en/adguard-ios-pro/overview.html)
 
 [AdGuard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html)
 
@@ -142,7 +142,7 @@ Other tools for content blocking
 
 [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html)
 
-[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549)
+[AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html)
 
 [All products](https://adguard.com/en/products.html)
 
@@ -164,7 +164,7 @@ Dansk Deutsch English Español Français Hrvatski Indonesia Italiano Magyar Nede
 
 [Log in](https://my.adguard.com/account/)
 
-[AdGuard](https://adguard.com/en/welcome.html) [Privacy Policy](https://adguard.com/en/privacy.html) AdGuard Content Blocker
+[AdGuard](https://adguard.com/en/welcome.html) [Privacy policy](https://adguard.com/en/privacy.html) AdGuard Content Blocker
 
 AdGuard Content Blocker Privacy Notice
 ======================================
@@ -184,18 +184,19 @@ Filter updates are checked at user-defined intervals in accordance with the appl
 
 Other documents:
 
-[AdGuard software Limited — End User License Agreement](https://adguard.com/en/eula.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [Privacy policy](https://adguard.com/en/privacy.html)
+[AdGuard software Limited — End User License Agreement](https://adguard.com/en/eula.html) [End-User License Agreement of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Terms and Conditions of AdGuard Account and AdGuard Websites](https://adguard.com/en/terms-and-conditions.html) [Privacy policy](https://adguard.com/en/privacy.html)
 
-* [AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
-* [AdGuard for Android](https://adguard.com/en/privacy/android.html)
-* [AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
-* [AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
 * [AdGuard Browser Extension](https://adguard.com/en/privacy/browser-extension.html)
+* [AdGuard for Android](https://adguard.com/en/privacy/android.html)
+* [AdGuard for iOS](https://adguard.com/en/privacy/ios.html)
+* [AdGuard for Mac](https://adguard.com/en/privacy/mac.html)
+* [AdGuard for Windows](https://adguard.com/en/privacy/windows.html)
 * [AdGuard for Safari](https://adguard.com/en/privacy/safari.html)
 * [AdGuard Assistant](https://adguard.com/en/privacy/assistant.html)
+* [AdGuard Content Blocker](https://adguard.com/en/privacy/content-blocker.html)
 * [AdGuard Home](https://adguard.com/en/privacy/home.html)
-* [AdGuard Temp Mail](https://adguard.com/en/privacy/temp-mail.html)
-* [AdGuard website & Cookies](https://adguard.com/en/privacy/website.html)
+* [Website & Cookies Privacy Notice](https://adguard.com/en/privacy/website.html)
+* [AdGuard Temp Mail Privacy Notice](https://adguard.com/en/privacy/temp-mail.html)
 
 We use essential cookies only. No ads or trackers. [Privacy Policy](https://adguard.com/en/privacy/website.html)
 
@@ -221,7 +222,7 @@ Products
 
 Other products
 
-[AdGuard Pro for iOS](https://adguard.com/en/adguard-ios-pro/overview.html) [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html) [AdGuard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html) [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) [AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html?aid=34549) [All products](https://adguard.com/en/products.html)
+[AdGuard Pro for iOS](https://adguard.com/en/adguard-ios-pro/overview.html) [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) [AdGuard Assistant](https://adguard.com/en/adguard-assistant/overview.html) [AdGuard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html) [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) [AdGuard DNS](https://adguard-dns.io/welcome.html) [AdGuard VPN](https://adguard-vpn.com/welcome.html) [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) [All products](https://adguard.com/en/products.html)
 
 Support
 
@@ -229,7 +230,7 @@ Support
 
 License
 
-[Purchase license](https://adguard.com/en/license.html) [Recover license](https://adguard.com/kb/general/license/what-is/#how-to-recover-a-license-key) [Get free license](https://adguard.com/en/get-adguard-for-free.html) [Distribution](https://adguard.com/en/distribution.html) [Contribute to AdGuard](https://adguard.com/en/contribute.html) [Licenses for developers](https://adguard.com/en/rewards.html) [AdGuard for schools and colleges](https://adguard.com/en/adguard-for-schools.html) [Beta testing program](https://adguard.com/en/beta.html)
+[Purchase license](https://adguard.com/en/license.html) [Recover license](https://adguard.com/kb/general/license/what-is/#how-to-recover-a-license-key) [Get free license](https://adguard.com/en/get-adguard-for-free.html) [Partner with AdGuard](https://adguard.com/en/partners.html) [Contribute to AdGuard](https://adguard.com/en/contribute.html) [Licenses for developers](https://adguard.com/en/rewards.html) [AdGuard for schools and colleges](https://adguard.com/en/adguard-for-schools.html) [Beta testing program](https://adguard.com/en/beta.html)
 
 Legal documents
 
@@ -253,7 +254,7 @@ Support Center Knowledge base Report an issue Check any website AdGuard status A
 
 License
 
-Purchase license Recover license Get free license Distribution Contribute to AdGuard Licenses for developers AdGuard for schools and colleges Beta testing program
+Purchase license Recover license Get free license Partner with AdGuard Contribute to AdGuard Licenses for developers AdGuard for schools and colleges Beta testing program
 
 Legal documents
 
