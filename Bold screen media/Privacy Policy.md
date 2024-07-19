@@ -7,14 +7,6 @@ top of page
     
     ###### [ADVERTISER PRODUCTS](https://www.boldcollective.co/advertiser-products)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_1_051223.png](https://static.wixstatic.com/media/16fa8f_4bc718f400b94793a2fad4dbc01c8566~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_1_051223.png)
-    
-    ###### [Mobile App Installs](https://www.boldcollective.co/mobile-performance)
-    
-    ![1636898_AdvertiserProductsGraphic-Icons_2_051223.png](https://static.wixstatic.com/media/16fa8f_b19c06aa1ebd499d802aef56f36beb62~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_2_051223.png)
-    
-    ###### [Lead Generation](https://www.boldcollective.co/mobile-performance)
-    
     ![1636898_AdvertiserProductsGraphic-Icons_3_051223.png](https://static.wixstatic.com/media/16fa8f_febd7cb50e3641698ceb31f730602ffc~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_3_051223.png)
     
     ###### [CTV](https://www.boldcollective.co/ctv)
@@ -30,6 +22,10 @@ top of page
     ![1636898_AdvertiserProductsGraphic-Icons_6_051223.png](https://static.wixstatic.com/media/16fa8f_daf67c8c9848489ca6f7a74f0d194774~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_6_051223.png)
     
     ###### [DSP](https://www.boldcollective.co/dsp)
+    
+    ![1636898_AdvertiserProductsGraphic-Icons_1_051223.png](https://static.wixstatic.com/media/16fa8f_4bc718f400b94793a2fad4dbc01c8566~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_1_051223.png)
+    
+    ###### [Mobile App Installs](https://www.boldcollective.co/mobile-performance)
     
     ![1636898_AdvertiserProductsGraphic-Icons_7_051223.png](https://static.wixstatic.com/media/16fa8f_0dd41fe7d83f4964b461b44d4d443088~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_7_051223.png)
     
