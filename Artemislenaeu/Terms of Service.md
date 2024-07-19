@@ -28,4 +28,6 @@ O JavaScript deve estar ativado para executar a criptografia em seu navegador
 
 JavaScript måste vara aktiverat för att utföra kryptering i din webbläsare
 
+Для виконання шифрування у вашому браузері має бути ввімкнено JavaScript
+
 必须启用 JavaScript 才能在浏览器中进行加密
