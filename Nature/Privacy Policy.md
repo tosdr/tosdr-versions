@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=9a06e295-370e-4baf-99a2-ad186e3ede7b)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=7d1aed58-983c-451f-8949-eb601ba89cda)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
@@ -19,7 +19,7 @@ Advertisement
 Privacy Policy
 ==============
 
-This policy was last updated on 29th May 2024.
+This policy was last updated on 1st July 2024.
 
 This is the privacy policy (“policy”) for nature.com which is run and provided by Springer Nature Limited (**we, us** and **our**). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW.  We can also be contacted at [feedback@nature.com](mailto:feedback@nature.com).
 
@@ -173,7 +173,7 @@ _​_As an author, we’ll highlight publishing opportunities in the form of rec
 
 For this, the legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR, and for our legitimate interest in optimizing our services and preventing fraud, Article 6 sec. 1 sent. 1 lit. f GDPR.
 
-We use [Permutive](https://permutive.com/privacy/) cookie data to recommend relevant content to you based on your reading history. For this activity, the legal basis to process your data is Article 6 sec. 1 sent. 1 lit. a GDPR. This reflects your consent to non-essential cookies that help with communications and marketing. You can update or withdraw your consent by clicking Your Privacy Choices/Manage cookies in the page footer. You can also opt out of these recommendations at any time by selecting “I do not want recommendations".
+We use Permutive cookie data to recommend relevant content to you based on your reading history. For this activity, the legal basis to process your data is Article 6 sec. 1 sent. 1 lit. a GDPR. This reflects your consent to non-essential cookies that help with communications and marketing. You can update or withdraw your consent by clicking Your Privacy Choices/Manage cookies in the page footer. You can also opt out of these recommendations at any time by selecting “Opt out of personalised recommendations".
 
 Your personal account registration data is, in the absence of exceptions within the specific services mentioned, retained for as long as your account is used. Content and communications, associated with submissions, reviews or decisions made by an account holder will be kept on file. Content may be engaged in relation to the services provided and in the interests of the integrity of published material.  Such a decision will be made under the oversight of the Springer Nature Research Integrity Group. The need for legal actions within the services or payment problems can lead to a longer retention of your personal data.
 
