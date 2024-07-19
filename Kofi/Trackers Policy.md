@@ -1,4 +1,4 @@
-[![](https://assets-global.website-files.com/5c14e387dab576fe667689cf/63d9f22d58edcf1eb910c0d4_logo-white-stroke.png)](https://ko-fi.com/)[|  More](https://more.ko-fi.com/)
+[![](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/63d9f22d58edcf1eb910c0d4_logo-white-stroke.png)](https://ko-fi.com/)[|  More](https://more.ko-fi.com/)
 
 [Terms](https://more.ko-fi.com/)[Creator Kit](https://more.ko-fi.com/brand-assets)[Privacy](#)[Back to Ko-fi](https://ko-fi.com/Manage/)
 
@@ -402,7 +402,7 @@ If we change our Privacy Policy, we will post the changes on this page. If we de
 ‍
 -
 
-[![](https://assets-global.website-files.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png)](https://ko-fi.com/Manage/mypage)
+[![](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png)](https://ko-fi.com/Manage/mypage)
 
 Product
 
