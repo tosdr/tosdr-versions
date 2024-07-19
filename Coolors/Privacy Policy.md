@@ -105,17 +105,11 @@ Coolors collects some Personal Data from its Users.
 
   
 
-This document contains [a section dedicated to California consumers and their privacy rights](#california_info).
-
-This document contains [a section dedicated to Virginia consumers and their privacy rights](#virginia_info).
-
-This document contains [a section dedicated to Colorado consumers and their privacy rights.](#colorado_info)
-
-This document contains [a section dedicated to Connecticut consumers and their privacy rights.](#connecticut_info)
-
-This document contains [a section dedicated to Utah consumers and their privacy rights.](#utah_info)
+This document contains [a section dedicated to Users in the United States and their privacy rights.](#all_us_laws_info)
 
 This document contains [a section dedicated to Brazilian Users and their privacy rights](#brazil_info).
+
+  
 
 This document can be printed for reference by using the print command in the settings of any browser.
 
@@ -188,15 +182,14 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy?__hstc=194719090.209d2d0efcd7c95a674eaa2f39bb001d.1615826940169.1615826940169.1615826940169.1&__hssc=194719090.1.1615826940169&__hsfp=4053646362).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* a sharing according to the CCPA
-* targeted advertising according to the VCDPA, CPA, CTDPA and UCPA
+* a Sale in California
+* a Sharing in California
 
 #### Carbon (Magnite, Inc. (Carbon AI Limited))
 
@@ -208,15 +201,14 @@ Legal basis for processing: Consent.
 
 Place of processing: United Kingdom – [Privacy Policy](https://carbonrmp.com/privacy/) – [Opt out](https://carbonrmp.com/privacy/).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* a sharing according to the CCPA
-* targeted advertising according to the VCDPA, CPA, CTDPA and UCPA
+* a Sale in California
+* a Sharing in California
 
 #### BuySellAds (BuySellAds.com Inc.)
 
@@ -228,15 +220,14 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.buysellads.com/about/privacy).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* a sharing according to the CCPA
-* targeted advertising according to the VCDPA, CPA, CTDPA and UCPA
+* a Sale in California
+* a Sharing in California
 
 #### Hotjar Form Analysis & Conversion Funnels (Hotjar Ltd.)
 
@@ -249,14 +240,13 @@ Legal basis for processing: Consent.
 
 Place of processing: Malta – [Privacy Policy](https://www.hotjar.com/legal/policies/privacy) – [Opt Out](https://www.hotjar.com/legal/compliance/opt-out).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 #### Direct Advertising (Coolors)
 
@@ -270,15 +260,14 @@ Personal Data processed: device information; Trackers; unique device identifiers
 
 Legal basis for processing: Consent.
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: identifiers; internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* a sharing according to the CCPA
-* targeted advertising according to the VCDPA, CPA, CTDPA and UCPA
+* a Sale in California
+* a Sharing in California
 
 ### Analytics
 
@@ -298,14 +287,13 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 ### Collection of privacy-related preferences
 
@@ -322,14 +310,11 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/94654098).
 
-Data retention period: Keeping the Data as long as required by relevant national law.
+Data retention period: Keeping the data as long as required by relevant national law.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
-
-* a sale according to the CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 #### iubenda Cookie Solution (iubenda srl)
 
@@ -341,14 +326,11 @@ Legal basis for processing: Legal obligation.
 
 Place of processing: Italy – [Privacy Policy](https://www.iubenda.com/privacy-policy/36700132).
 
-Data retention period: Keeping the Data as long as required by relevant national law.
+Data retention period: Keeping the data as long as required by relevant national law.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
-
-* a sale according to the CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 ### Contacting the User
 
@@ -360,13 +342,13 @@ Personal Data processed: email address; first name; last name.
 
 Legal basis for processing: Consent.
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 This processing constitutes:
 
-* a sale according to the VCDPA, CPA, CTDPA and UCPA
+* a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
 
 ### Displaying content from external platforms
 
@@ -383,14 +365,13 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 ### Handling payments
 
@@ -406,14 +387,11 @@ Legal basis for processing: Contract.
 
 Place of processing: United Kingdom – [Privacy Policy](https://paddle.com/privacy-buyers/).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
-
-* a sale according to the CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 ### Hosting and backend infrastructure
 
@@ -431,14 +409,11 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
-
-* a sale according to the CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 ### Interaction with external social networks and platforms
 
@@ -457,13 +432,13 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://twitter.com/en/privacy).
 
-Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA and VCDPA
+* a Sale in California
 
 #### Facebook Like button and social widgets (Meta Platforms Ireland Limited)
 
@@ -475,13 +450,13 @@ Legal basis for processing: Consent.
 
 Place of processing: Ireland – [Privacy Policy](https://www.facebook.com/about/privacy/).
 
-Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
+* a Sale in the United States
 
 #### LinkedIn button and social widgets (LinkedIn Corporation)
 
@@ -493,14 +468,13 @@ Legal basis for processing: Consent.
 
 Place of processing: United States – [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).
 
-Data retention period: Keeping the Data for the time necessary to fulfill statistical purposes.
+Data retention period: Keeping the data for the time necessary to fulfill statistical purposes.
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 ### Managing contacts and sending messages
 
@@ -517,15 +491,14 @@ Legal basis for processing: Consent.
 
 Place of processing: France – [Privacy Policy](https://www.mailjet.com/privacy-policy/).
 
-Data retention period: Keeping the Data until consent is withdrawn.
+Data retention period: Keeping the data until consent is withdrawn.
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* a sharing according to the CCPA
-* targeted advertising according to the VCDPA, CPA, CTDPA and UCPA
+* a Sale in California
+* a Sharing in California
 
 ### Platform services and hosting
 
@@ -546,14 +519,11 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
-
-* a sale according to the CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 #### Apple App Store (Apple Inc.)
 
@@ -569,13 +539,11 @@ Place of processing: United States – [Privacy Policy.](https://www.apple.com/l
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
 This processing constitutes:
 
-* a sale according to the VCDPA, CPA, CTDPA and UCPA
-* a sharing according to the CCPA
-* targeted advertising according to the VCDPA, CPA, CTDPA and UCPA
+* a Sharing in California
 
 ### Registration and authentication
 
@@ -593,13 +561,13 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
+* a Sale in the United States
 
 #### Sign in with Apple (Apple Inc.)
 
@@ -611,14 +579,13 @@ Legal basis for processing: Contract.
 
 Place of processing: United States – [Privacy Policy](https://www.apple.com/legal/privacy/).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 ### Registration and authentication provided directly by Coolors
 
@@ -632,14 +599,11 @@ Personal Data processed: email address; first name; password.
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: identifiers.
+Category of Personal Information collected according to the CCPA: identifiers.
 
 This processing constitutes:
-
-* a sale according to the CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 ### Social features
 
@@ -651,14 +615,11 @@ Personal Data processed: email address; first name; geographic position; last na
 
 Legal basis for processing: Contract.
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: identifiers; geolocation data; audio, electronic, visual, thermal, olfactory, or similar information; employment related information.
+Category of Personal Information collected according to the CCPA: identifiers; geolocation data; audio, electronic, visual, thermal, olfactory, or similar information; employment related information.
 
 This processing constitutes:
-
-* a sale according to the VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
 
 ### Tag Management
 
@@ -675,14 +636,13 @@ Legal basis for processing: Contract.
 
 Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 ### Traffic optimization and distribution
 
@@ -701,14 +661,13 @@ Legal basis for processing: Contract.
 
 Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-Data retention period: Keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
+Data retention period: Keeping the data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law).
 
-Category of personal information collected according to the CCPA: internet or other electronic network activity information.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 
 This processing constitutes:
 
-* a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
-* targeted advertising according to the CPA, CTDPA and UCPA
+* a Sale in California
 
 Information on opting out of interest-based advertising
 -------------------------------------------------------
@@ -870,578 +829,202 @@ We are allowed to transfer your personal information outside of the Brazilian te
 * when the transfer is necessary for the execution of a public policy or legal attribution of public service;
 * when the transfer is necessary for compliance with a legal or regulatory obligation, the carrying out of a contract or preliminary procedures related to a contract, or the regular exercise of rights in judicial, administrative or arbitration procedures.
 
-Further information for California consumers
---------------------------------------------
+Further information for Users in the United States
+--------------------------------------------------
 
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running Coolors and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running Coolors and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing in the state of California, United States of America, according to the "[California Consumer Privacy Act of 2018](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)" (the "CCPA"), as updated by the "California Privacy Rights Act" (the "CPRA") and subsequent regulations. For such consumers, this section supersedes any other possibly divergent or conflicting information contained in the privacy policy.
+The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are residents in the following states: California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana.
 
-This part of the document uses the terms “personal information” (and “sensitive personal information”) as defined in the California Consumer Privacy Act (CCPA).
+For such Users, this information supersedes any other possibly divergent or conflicting provisions contained in the privacy policy.
+
+This part of the document uses the term Personal Information (and Sensitive Personal Information).
 
 ### Notice at collection
 
-#### Categories of personal information collected, used, sold, or shared
+The following Notice at collection provides you with timely notice about the **categories of Personal Information collected or disclosed in the past 12 months** so that you can exercise meaningful control over our use of that Information.
+
+_While such categorization of Personal Information is mainly based on California privacy laws, it can also be helpful for anyone who is not a California resident to get a general idea of what types of Personal Information are collected._
+
+* ### Identifiers
+    
+    **Personal Information collected or disclosed:** Email address, First name, Last name, Geographic position, Profession, Picture, Usage data, Trackers, Universally unique identifier (uuid), Device information, Unique device identifiers for advertising (google advertiser id or idfa, for example)
+    
+    **Sensitive Personal Information collected or disclosed ℹ️:** username, password
+    
+    **Purposes:**
+    
+    * Contacting the User
+    * Managing contacts and sending messages
+    * Registration and authentication
+    * Social features
+    * Registration and authentication provided directly by Coolors
+    * Advertising
+    
+    **Retention period:** keeping the Data until consent is withdrawn, keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law)
+    
+    **Sold or Shared ℹ️:** Yes
+    
+    **Targeted Advertising: ℹ️:** Yes
+    
+    **Third-parties:** SAS Mailjet, Apple Inc.
+    
+    **Service providers or contractors:** Coolors
+    
+* ### Internet or other electronic network activity information
+    
+    **Personal Information collected or disclosed:** Various types of data as specified in the privacy policy of the service, Trackers, Usage data, Data communicated while using the service, Various types of data, Universally unique identifier (uuid), Device information, Unique device identifiers for advertising (google advertiser id or idfa, for example)
+    
+    **Purposes:**
+    
+    * Traffic optimization and distribution
+    * Advertising
+    * Displaying content from external platforms
+    * Tag Management
+    * Handling payments
+    * Registration and authentication
+    * Platform services and hosting
+    * Collection of privacy-related preferences
+    * Data transfer outside the EU
+    * Further information about Personal Data
+    * Hosting and backend infrastructure
+    * Analytics
+    * Interaction with external social networks and platforms
+    
+    **Retention period:** keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law), keeping the Data until consent is withdrawn, keeping the Data as long as required by relevant national law, keeping the Data for the time necessary to fulfill statistical purposes
+    
+    **Sold or Shared ℹ️:** Yes
+    
+    **Targeted Advertising: ℹ️:** Yes
+    
+    **Third-parties:** Cloudflare Inc., BuySellAds.com Inc., Google Ireland Limited, Magnite, Inc. (Carbon AI Limited), Paddle.com Market Limited, iubenda srl, Hotjar Ltd., X Corp., Meta Platforms Ireland Limited, LinkedIn Corporation
+    
+    **Service providers or contractors:** Coolors
+    
+* ### Geolocation data
+    
+    **Personal Information collected or disclosed:** First name, Last name, Email address, Geographic position, Profession, Picture
+    
+    **Sensitive Personal Information collected or disclosed ℹ️:** username
+    
+    **Purposes:**
+    
+    * Social features
+    
+    **Retention period:** keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law)
+    
+    **Sold or Shared ℹ️:** Yes
+    
+    **Targeted Advertising: ℹ️:** Yes
+    
+    **Service providers or contractors:** Coolors
+    
+* ### Audio, electronic, visual, thermal, olfactory, or similar information
+    
+    **Personal Information collected or disclosed:** First name, Last name, Email address, Geographic position, Profession, Picture
+    
+    **Sensitive Personal Information collected or disclosed ℹ️:** username
+    
+    **Purposes:**
+    
+    * Social features
+    
+    **Retention period:** keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law)
+    
+    **Sold or Shared ℹ️:** Yes
+    
+    **Targeted Advertising: ℹ️:** Yes
+    
+    **Service providers or contractors:** Coolors
+    
+* ### Employment related information
+    
+    **Personal Information collected or disclosed:** First name, Last name, Email address, Geographic position, Profession, Picture
+    
+    **Sensitive Personal Information collected or disclosed ℹ️:** username
+    
+    **Purposes:**
+    
+    * Social features
+    
+    **Retention period:** keeping the Data for the duration of the contract (upon termination of the contract, if applicable, as long as required by the applicable law)
+    
+    **Sold or Shared ℹ️:** Yes
+    
+    **Targeted Advertising: ℹ️:** Yes
+    
+    **Service providers or contractors:** Coolors
+    
 
-In this section we summarize the categories of personal information that we've collected, used, sold, or shared and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Personal Data” within this document.**
+ℹ️ You can read the definitions of these concepts inside the “[Definitions and legal references section](#definitions_and_legal_references)” of the privacy policy.
 
-##### Information we collect: the categories of personal information we collect
+**To know more about your rights in particular to opt out of certain processing activities and to limit the use of your sensitive personal information (“Limit the Use of My Sensitive Personal Information”) you can refer to the “[Your privacy rights under US state laws](#privacy_rights_under_us_state_laws)” section of our privacy policy.**
 
-We have collected the following categories of personal information about you: identifiers, internet or other electronic network activity information, geolocation data, audio, electronic, visual, thermal, olfactory, or similar information and employment related information.
+For more details on the collection of Personal Information, please read the section “[Detailed information on the processing of Personal Data](#data_processing_detailed_info)” of our privacy policy.
 
-We have collected the following categories of sensitive personal information: username and password
+We won’t process your Information for unexpected purposes, or for purposes that are not reasonably necessary to and compatible with the purposes originally disclosed, without your consent.
 
-We will not collect additional categories of personal information without notifying you.
+### What are the sources of the Personal Information we collect?
 
-###### Your right to limit the use or disclosure of your sensitive personal information and how you can exercise it
+We collect the above-mentioned categories of Personal Information, either directly or indirectly, from you when you use Coolors.
 
-You have the right to request that we limit the use or disclosure of your sensitive personal information to only that which is necessary to perform the services or provide the goods, as is reasonably expected by an average consumer.
+For example, you directly provide your Personal Information when you submit requests via any forms on Coolors. You also provide Personal Information indirectly when you navigate Coolors, as Personal Information about you is automatically observed and collected.
 
-We can also use your sensitive personal information to perform specific purposes set forth by the law (such as, including but not limited to, helping to ensure security and integrity; undertaking activities to verify or maintain the quality or safety of our service) and as authorized by the relevant regulations.
+Finally, we may collect your Personal Information from third parties that work with us in connection with the Service or with the functioning of Coolors and features thereof.
 
-Outside of the aforementioned specific purposes, you have the right to freely request, at any time, that we do not use or disclose your sensitive personal information. This means that whenever you ask us to stop using your sensitive personal information, we will abide by your request and we will instruct our service providers and contractors to do the same.
+### Your privacy rights under US state laws
 
-To fully exercise your right to limit the use or disclosure of your sensitive personal information you can contact us at any time, using the contact details provided in this document.
+You may exercise certain rights regarding your Personal Information. In particular, to the extent permitted by applicable law, you have:
 
-For a simplified method you can also use the privacy choices link provided on Coolors.
+* **the right to access Personal Information: the right to know.** You have the right to request that we confirm whether or not we are processing your Personal Information. You also have the right to access such Personal Information;
+* **the right to correct inaccurate Personal Information.** You have the right to request that we correct any inaccurate Personal Information we maintain about you;
+* **the right to request the deletion of your Personal Information.** You have the right to request that we delete any of your Personal Information;
+* **the right to obtain a copy of your Personal Information.** We will provide your Personal Information in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible;
+* **the right to opt out from the Sale of your Personal Information;** We will not discriminate against you for exercising your privacy rights.
+* **the right to non-discrimination.**
 
-We use any personal information collected from you in connection with the submission of your request solely for the purposes of complying with the request.
+#### Additional rights for Users residing in California
 
-Once you have exercised this right, we are required to wait at least 12 months before asking whether you have changed your mind.
+In addition to the rights listed above common to all Users in the United States, as a User residing in California, you have
 
-##### What are the purposes for which we use your personal information?
+* **The right to opt out of the Sharing of your Personal Information** for cross-context behavioral advertising;
+* **The right to request to limit our use or disclosure of your Sensitive Personal Information** to only that which is necessary to perform the services or provide the goods, as is reasonably expected by an average consumer. Please note that certain exceptions outlined in the law may apply, such as, when the collection and processing of Sensitive Personal Information is necessary to verify or maintain the quality or safety of our service.
 
-We may use your personal information to allow the operational functioning of Coolors and features thereof (“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to the business purpose for which it was collected, and strictly within the limits of compatible operational purposes.
+#### Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon and Montana
 
-We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section “Detailed information on the processing of Personal Data” within this document), as well as for complying with the law and defending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.
+In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado, Connecticut, Texas and Oregon, you have
 
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed, without your consent.
+* **The right to opt out of** the processing of your personal information for **Targeted Advertising or profiling** in furtherance of decisions that produce legal or similarly significant effects concerning you;
+* **The right to freely give, deny or withdraw your consent for the processing of your Sensitive Personal Information.** Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
 
-##### How long do we keep your personal information?
+#### Additional rights for users residing in Utah
 
-Unless stated otherwise inside the “Detailed information on the processing of Personal Data” section, we will not retain your personal information for longer than is reasonably necessary for the purpose(s) they have been collected for.
+In addition to the rights listed above common to all Users in the United States, as a User residing in Utah, you have
 
-##### How we collect information: what are the sources of the personal information we collect?
+* **The right to opt out of** the processing of your Personal Information for **Targeted Advertising**;
+* **The right to opt out of the processing of your Sensitive Personal Information.** Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
 
-We collect the above-mentioned categories of personal information, either directly or indirectly, from you when you use Coolors.
-
-For example, you directly provide your personal information when you submit requests via any forms on Coolors. You also provide personal information indirectly when you navigate Coolors, as personal information about you is automatically observed and collected.
-
-Finally, we may collect your personal information from third parties that work with us in connection with the Service or with the functioning of this Application and features thereof.
-
-##### How we use the information we collect: disclosing of your personal information with third parties for a business purpose
-
-For our purposes, the word “third party” means a person who is not any of the following: a service provider or a contractor, as defined by the CCPA.
-
-We disclose your personal information with the third parties **listed in detail in the section titled “Detailed information on the processing of Personal Data” within this document.** These third parties are grouped and categorized in accordance with the different purposes of processing.
-
-##### Sale or sharing of your personal information
-
-For our purposes, the word “sale” means any “selling, renting, releasing, disclosing, disseminating, making available, transferring or otherwise communicating orally, in writing, or by electronic means, a consumer's personal information by the business to **a third party, for monetary or other valuable consideration**”, as defined by the CCPA.
-
-This means that, for example, a sale can happen whenever an application runs ads, or makes statistical analyses on the traffic or views, or simply because it uses tools such as social network plugins and the like.
-
-For our purposes, the word “sharing” means any “sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer's personal information by the business to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged”, as defined by the CCPA.  
-Please note that the exchange of personal information with a service provider pursuant to a written contract that meets the requirements set by the CCPA, does not constitute a sale or sharing of your personal information.
-
-###### Your right to opt out of the sale or sharing of your personal information and how you can exercise it
-
-We sell or share your personal information with the third parties **listed in detail in the section titled “Detailed information on the processing of Personal Data” within this document.** These third parties are grouped and categorized in accordance with the different purposes of processing.  
-  
-You have the right to opt out of the sale or sharing of your personal information. This means that whenever you request us to stop selling or sharing your personal information, we will abide by your request.  
-Such requests can be made freely, at any time, without submitting any verifiable request.  
-To fully exercise your right to opt out, you can contact us at any time using the contact details provided in this document.  
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-If you want to submit requests to opt out of the sale or sharing of personal information via a user-enabled global privacy control, like the Global Privacy Control (“[GPC](https://globalprivacycontrol.org/)”), you are free to do so and we will abide by such request in a frictionless manner (as defined in the CPRA regulations). The GPC consists of a setting or extension in the browser or mobile device and acts as a mechanism that websites can use to indicate they support the GPC signal. If you want to use GPC, you can download and enable it via a [participating browser](https://globalprivacycontrol.org/#download) or browser extension. More information about downloading GPC is available [here](https://globalprivacycontrol.org/).
-
-We use any personal information collected from you in connection with the submission of your opt-out request solely for the purposes of complying with the opt-out request.
-
-Once you have opted out, we are required to wait at least 12 months before asking whether you have changed your mind.
-
-##### What are the purposes for which we use your personal information?
-
-We may use your personal information to allow the operational functioning of Coolors and features thereof (“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to the business purpose for which it was collected, and strictly within the limits of compatible operational purposes.
-
-We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section “Detailed information on the processing of Personal Data” within this document), as well as for complying with the law and defending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.
-
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed, without your consent.
-
-##### How long do we keep your personal information?
-
-Unless stated otherwise inside the “Detailed information on the processing of Personal Data” section, we will not retain your personal information for longer than is reasonably necessary for the purpose(s) they have been collected for.
-
-### Your privacy rights under the California Consumer Privacy Act and how to exercise them
-
-#### The right to access personal information: the right to know and to portability
-
-You have the right to request that we disclose to you:
-
-* the categories of personal information that we collect about you;
-* the sources from which the personal information is collected;
-* the purposes for which we use your information;
-* to whom we disclose such information;
-* the specific pieces of personal information we have collected about you.
-
-You also have **the right to know what personal information is sold or shared and to whom.** In particular, you have the right to request two separate lists from us where we disclose:
-
-* the categories of personal information that we sold or shared about you and the categories of third parties to whom the personal information was sold or shared;
-* the categories of personal information that we disclosed about you for a business purpose and the categories of persons to whom it was disclosed for a business purpose.
-
-The disclosure described above will be limited to the personal information collected or used over the past 12 months.
-
-If we deliver our response electronically, the information enclosed will be "portable", i.e. delivered in an easily usable format to enable you to transmit the information to another entity without hindrance — provided that this is technically feasible.
-
-#### The right to request the deletion of your personal information
-
-You have the right to request that we delete any of your personal information, subject to exceptions set forth by the law (such as, including but not limited to, where the information is used to identify and repair errors on Coolors, to detect security incidents and protect against fraudulent or illegal activities, to exercise certain rights etc.).
-
-If no legal exception applies, as a result of exercising your right, we will delete your personal information and notify any of our service providers and all third parties to whom we have sold or shared the personal information to do so — provided that this is technically feasible and doesn’t involve disproportionate effort.
-
-#### The right to correct inaccurate personal information
-
-You have the right to request that we correct any inaccurate personal information we maintain about you, taking into account the nature of the personal information and the purposes of the processing of the personal information.
-
-#### The right to opt out of sale or sharing of personal information and to limit the use of your sensitive personal information
-
-You have the right to opt out of the sale or sharing of your personal information. You also have the right to request that we limit our use or disclosure of your sensitive personal information.
-
-#### The right of no retaliation following opt-out or exercise of other rights (the right to non-discrimination)
-
-We will not discriminate against you for exercising your rights under the CCPA. This means that we will not discriminate against you, including, but not limited to, by denying goods or services, charging you a different price, or providing a different level or quality of goods or services just because you exercised your consumer privacy rights.
-
-However, if you refuse to provide your personal information to us or ask us to delete or stop selling your personal information, and that personal information or sale is necessary for us to provide you with goods or services, we may not be able to complete that transaction.
-
-To the extent permitted by the law, we may offer you promotions, discounts, and other deals in exchange for collecting, keeping, or selling your personal information, provided that the financial incentive offered is reasonably related to the value of your personal information.
-
-#### How to exercise your rights
-
-To exercise the rights described above, you need to submit your verifiable request to us by contacting us via the details provided in this document.
-
-For us to respond to your request, it’s necessary that we know who you are. Therefore, you can only exercise the above rights by making a verifiable request which must:
-
-* provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative;
-* describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-
-We will not respond to any request if we are unable to verify your identity and therefore confirm the personal information in our possession actually relates to you.
-
-Making a verifiable consumer request does not require you to create an account with us. We will use any personal information collected from you in connection with the verification of your request solely for the purposes of verification and shall not further disclose the personal information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.
-
-If you cannot personally submit a verifiable request, you can authorize a person registered with the California Secretary of State to act on your behalf.
-
-If you are an adult, you can make a verifiable request on behalf of a child under your parental authority.
-
-You can submit a maximum number of 2 requests over a period of 12 months.
-
-#### How and when we are expected to handle your request
-
-We will confirm receipt of your verifiable request within 10 days and provide information about how we will process your request.
-
-We will respond to your request within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
-
-Our disclosure(s) will cover the preceding 12-month period. Only with regard to personal information collected on or after January 1, 2022, you have the right to request that we disclose information beyond the 12-month period, and we will provide them to you unless doing so proves impossible or would involve a disproportionate effort.
-
-Should we deny your request, we will explain you the reasons behind our denial.
-
-We do not charge a fee to process or respond to your verifiable request unless such request is manifestly unfounded or excessive. In such cases, we may charge a reasonable fee, or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind it.
-
-Further information for Virginia consumers
-------------------------------------------
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the controller running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing in the Commonwealth of Virginia, according to the [“Virginia Consumer Data Protection Act"](https://law.lis.virginia.gov/vacode/title59.1/chapter53/) (the "VCDPA"), and, for such consumers, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the VCDPA.
-
-### Categories of personal data processed
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Persona Data” within this document**.
-
-#### Categories of personal data we collect
-
-We have collected the following categories of personal data: identifiers, internet information, geolocation data, sensorial information and employment related information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-#### Why we process your personal data
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
-
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed, without your consent.  
-You can freely give, deny, or withdraw such consent at any time using the contact details provided in this document.
-
-#### How we use the data we collect: sharing of your personal data with third parties
-
-We share your personal data with the third parties **listed in detail in the section titled “Detailed information on the processing of Personal Data” within this document**. These third parties are grouped and categorized in accordance with the different purposes of processing.  
-For our purposes, the word "third party" means "a natural or legal person, public authority, agency, or body other than the consumer, controller, processor, or an affiliate of the processor or the controller" as defined by the VCDPA.
-
-#### Sale of your personal data
-
-For our purposes, the word “sale” means any “exchange of personal data for monetary consideration by us to a third party“ as defined by the VCDPA.  
-Please note that according to the VCDPA, the disclosure of personal data to a processor that processes personal data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in the VCDPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the provision of a product or service requested by you.  
-As specified in the “Detailed information on the processing of Personal Data” section of this document, our use of your personal information may be considered a sale under VCDPA.
-
-##### Your right to opt out of the sale of your personal data and how you can exercise it
-
-You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop selling your data, we will abide by your request. To fully exercise your right to opt out you can contact us at any time using the contact details provided in this document.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purpose of complying with the request.
-
-#### Processing of your personal data for targeted advertising
-
-For our purposes, the word "targeted advertising" means "displaying advertisements to you where the advertisement is selected based on personal data obtained from your activities over time and across nonaffiliated websites or online applications to predict your preferences or interests" as defined by the VCDPA.  
-  
-Please note that according to the VCDPA, targeted advertising does not include: “advertisements based on activities within a controller's own websites or online applications; advertisements based on the context of a consumer's current search query, visit to a website or online application; advertisements directed to a consumer in response to the consumer's request for information or feedback; or processing personal data solely for measuring or reporting advertising performance, reach, or frequency”.
-
-To find out more details on the processing of your personal data for targeted advertising purposes, you can read the section titled “Detailed information on the processing of Personal Data” within this document.
-
-##### Your right to opt out of the processing of your personal data for targeted advertising and how you can exercise it
-
-You have the right to opt out of the processing of your personal data for targeted advertising. This means that whenever you ask us to stop processing your data for targeted advertising, we will abide by your request. To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purposes of complying with the opt-out request.
-
-### Your privacy rights under the Virginia Consumer Data Protection Act and how to exercise them
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-* **access personal data: the right to know.** You have the right to request that we confirm whether or not we are processing your personal data. You also have the right to access such personal data.
-* **correct inaccurate personal data.** You have the right to request that we correct any inaccurate personal data we maintain about you, taking into account the nature of the personal data and the purposes of the processing of the personal data.
-* **request the deletion of your personal data.** You have the right to request that we delete any of your personal data.
-* **obtain a copy of your personal data.** We will provide your personal data in a portable and usable format that allows you to transfer data easily to another entity — provided that this is technically feasible.
-* **opt out of the processing of your personal data for the purposes of targeted advertising**, the **sale of personal data**, or **profiling** in furtherance of decisions that produce legal or similarly significant effects concerning you.
-* **non-discrimination.** We will not discriminate against you for exercising your rights under the VCDPA. This means that we will not, among other things, deny goods or services, charge you a different price, or provide a different level or quality of goods or services just because you exercised your consumer privacy rights. However, if you refuse to provide your personal data to us or ask us to delete or stop selling your personal data, and that personal data or sale is necessary for us to provide you with goods or services, we may not be able to complete that transaction. To the extent permitted by the law, we may offer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee, if you have exercised your right to opt out, or our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
-
-#### How to exercise your rights
+### How to exercise your privacy rights under US state laws
 
 To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.
 
-For us to respond to your request, we need to know who you are.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and therefore confirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additional information which is reasonably necessary to authenticate you and your request.
-
-Making a consumer request does not require you to create an account with us. However, we may require you to use your existing account. We will use any personal data collected from you in connection with your request solely for the purposes of authentication, without further disclosing the personal data, retaining it longer than necessary for purposes of authentication, or using it for unrelated purposes.
+For us to respond to your request, we must know who you are. We will not respond to any request if we are unable to verify your identity and therefore confirm the Personal Information in our possession relates to you. You are not required to create an account with us to submit your request. We will use any Personal Information collected from you in connection with the verification of your request solely for verification and shall not further disclose the Personal Information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.
 
 If you are an adult, you can make a request on behalf of a child under your parental authority.
 
-#### How and when we are expected to handle your request
+#### How to exercise your rights to opt out
 
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
+In addition to what is stated above, to exercise your right to opt-out of Sale or Sharing and Targeted Advertising you can also use the privacy choices link provided on Coolors.
 
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and at the latest within 45 days of receipt of the request. It is your right to appeal such decision by submitting a request to us via the details provided in this document. Within 60 days of receipt of the appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied you may [contact the Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
-
-We do not charge a fee to respond to your request, for up to two requests per year. If your request is manifestly unfounded, excessive or repetitive, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind them.
-
-Further information for Colorado consumers
-------------------------------------------
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the controller running Coolors and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing in the State of Colorado, according to the “Colorado Privacy Act" (the "CPA"), and, for such consumers, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the CPA.
-
-### Categories of personal data processed
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Persona Data” within this document**.
-
-#### Categories of personal data we collect
-
-We have collected the following categories of personal data: identifiers, internet information, geolocation data, sensorial information and employment related information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-#### Why we process your personal data
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
-
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed, without your consent.  
-You can freely give, deny, or withdraw such consent at any time using the contact details provided in this document.
-
-#### How we use the data we collect: sharing of your personal data with third parties
-
-We share your personal data with the third parties **listed in detail in the section titled “Detailed information on the processing of Personal Data” within this document**. These third parties are grouped and categorized in accordance with the different purposes of processing.
-
-For our purposes, the word "third party" means "a person, public authority, agency, or body other than a consumer, controller, processor, or affiliate of the processor or the controller." as defined by the CPA.
-
-#### Sale of your personal data
-
-As specified in the “Detailed information on the processing of Personal Data” section of this document, our use of your personal data may be considered a sale under the CPA.
-
-For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other valuable consideration by a controller to a third party" as defined by the CPA.
-
-Please note that according to the CPA, the disclosure of personal data to a processor that processes personal data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in the CPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the provision of a product or service requested by you.
-
-##### Your right to opt out of the sale of your personal data and how you can exercise it
-
-You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop selling your data, we will abide by your request.
-
-To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purpose of complying with the request.
-
-#### Processing of your personal data for targeted advertising
-
-As specified in the “Detailed information on the processing of Personal Data” section of this document, we may use your personal data for targeted advertising purposes.
-
-For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is selected based on personal data obtained or inferred over time from the consumer's activities across nonaffiliated websites, applications, or online services to predict consumer preferences or interests" as defined by CPA.  
-  
-Please note that according to the CPA, targeted advertising does not include: “advertisements directed to a consumer in response to the consumer's request for information or feedback; advertisements based on activities within a controller's own websites or online applications or any affiliated website or online application; advertisements based on the context of a consumer's current search query, visit to an internet web site or online application; or processing personal data solely to measure or report advertising frequency, performance or reach”.
-
-##### Your right to opt out of the processing of your personal data for targeted advertising and how you can exercise it
-
-You have the right to opt out of the processing of your personal data for targeted advertising. This means that whenever you ask us to stop processing your data for targeted advertising, we will abide by your request.
-
-To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purposes of complying with the opt-out request.
-
-##### Universal opt-out mechanism: Global privacy control
-
-If you want to submit requests to opt-out of the sale of personal data or the targeted advertising via a user-enabled global privacy control, like the Global Privacy Control (“[GPC](https://globalprivacycontrol.org/)”), you are free to do so and we will abide by such request. The GPC consists of a setting or extension in the browser or mobile device and acts as a mechanism that websites can use to indicate they support the GPC signal. If you want to use GPC, you can download and enable it via a participating browser or browser extension. More information about downloading GPC is available [here](https://globalprivacycontrol.org/).
-
-### Your privacy rights under the Colorado Privacy Act and how to exercise them
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-* opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
-* access personal data. You have the right to request that we confirm whether or not we are processing your personal data. You also have the right to access such personal data.
-* correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data we maintain about you, taking into account the nature of the personal data and the purposes of the processing of the personal data.
-* request the deletion of your personal data. You have the right to request that we delete any of your personal data.
-* obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible.
-
-In any case, we will not increase the cost of, or decrease the availability of, a product or service, based solely on the exercise of any of your rights and unrelated to the feasibility or the value of a service. However, to the extent permitted by the law, we may offer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee, if our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
-
-#### How to exercise your rights
-
-To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.
-
-For us to respond to your request, we need to know who you are and which right you wish to exercise.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and therefore confirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additional information which is reasonably necessary to authenticate you and your request.
-
-Making a consumer request does not require you to create an account with us. However, we may require you to use your existing account. We will use any personal data collected from you in connection with your request solely for the purposes of authentication, without further disclosing the personal data, retaining it longer than necessary for purposes of authentication, or using it for unrelated purposes.
-
-If you are an adult, you can make a request on behalf of a child under your parental authority.
+If you want to submit requests to opt out of Sale or Sharing and Targeted Advertising activities via a user-enabled **global privacy control**, such as for example the Global Privacy Control (“[GPC](https://globalprivacycontrol.org/)”), you are free to do so and we will abide by such request in a frictionless manner.
 
 #### How and when we are expected to handle your request
 
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
+We will respond to your request without undue delay, but in all cases within the timeframe required by applicable law. Should we need more time, we will explain to you the reasons why, and how much more time we need.
 
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and at the latest within 45 days of receipt of the request. It is your right to appeal such decision by submitting a request to us via the details provided in this document. Within 45 days of receipt of the appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied you may contact the Attorney General to submit a complaint.
+Should we deny your request, we will explain to you the reasons behind our denial (where envisaged by applicable law you may then contact the relevant authority to submit a complaint).
 
-We do not charge a fee to respond to your request, for up to two requests per year.
-
-Further information for Connecticut consumers
----------------------------------------------
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the controller running Coolors and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies o all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing in the State of Connecticut, according to “An Act Concerning Personal Data Privacy and Online Monitoring " (also known as "The Connecticut Data Privacy Act" or the “CTDPA"), and, for such consumers, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the CTDPA.
-
-### Categories of personal data processed
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Persona Data” within this document**.
-
-#### Categories of personal data we collect
-
-We have collected the following categories of personal data: identifiers, internet information, geolocation data, sensorial information and employment related information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-#### Why we process your personal data
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
-
-We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes originally disclosed, without your consent.  
-You can freely give, deny, or withdraw such consent at any time using the contact details provided in this document.
-
-#### How we use the data we collect: sharing of your personal data with third parties
-
-We share your personal data with the third parties **listed in detail in the section titled “Detailed information on the processing of Personal Data” within this document**. These third parties are grouped and categorized in accordance with the different purposes of processing.
-
-For our purposes, the word "third party" means "a person, public authority, agency, or body other than a consumer, controller, processor, or affiliate of the processor or the controller." as defined by the CTDPA.
-
-#### Sale of your personal data
-
-As specified in the “Detailed information on the processing of Personal Data” section of this document, our use of your personal data may be considered a sale under the CTDPA.
-
-For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other valuable consideration by a controller to a third party" as defined by the CTDPA.
-
-Please note that according to the CTDPA, the disclosure of personal data to a processor that processes personal data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in the CTDPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the provision of a product or service requested by you.
-
-##### Your right to opt out of the sale of your personal data and how you can exercise it
-
-You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop selling your data, we will abide by your request.
-
-To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purpose of complying with the request.
-
-#### Processing of your personal data for targeted advertising
-
-As specified in the “Detailed information on the processing of Personal Data” section of this document, we may use your personal data for targeted advertising purposes.
-
-For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is selected based on personal data obtained or inferred over time from the consumer's activities across non affiliated websites, applications, or online services to predict consumer preferences or interests" as defined by CTDPA.  
-  
-Please note that according to the CTDPA, targeted advertising does not include: “advertisements based on activities within a controller's own web sites or online applications; advertisements based on the context of a consumer's current search query, visit to an internet web site or online application; advertisements directed to a consumer in response to the consumer's request for information or feedback; or processing personal data solely to measure or report advertising frequency, performance or reach”.
-
-##### Your right to opt out of the processing of your personal data for targeted advertising and how you can exercise it
-
-You have the right to opt out of the processing of your personal data for targeted advertising. This means that whenever you ask us to stop processing your data for targeted advertising, we will abide by your request.
-
-To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purposes of complying with the opt-out request.
-
-##### Universal opt-out mechanism: Global privacy control
-
-If you want to submit requests to opt-out of the sale of personal data or the targeted advertising via a user-enabled global privacy control, like the Global Privacy Control (“[GPC](https://globalprivacycontrol.org/)”), you are free to do so and we will abide by such request. The GPC consists of a setting or extension in the browser or mobile device and acts as a mechanism that websites can use to indicate they support the GPC signal. If you want to use GPC, you can download and enable it via a participating browser or browser extension. More information about downloading GPC is available [here](https://globalprivacycontrol.org/).
-
-### Your privacy rights under the Connecticut Data Privacy Act and how to exercise them
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-* access personal data. You have the right to request that we confirm whether or not we are processing your personal data. You also have the right to access such personal data.
-* correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data we maintain about you, taking into account the nature of the personal data and the purposes of the processing of the personal data.
-* request the deletion of your personal data. You have the right to request that we delete any of your personal data.
-* obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible.
-* opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
-
-In any case, we will not increase the cost of, or decrease the availability of, a product or service, based solely on the exercise of any of your rights and unrelated to the feasibility or the value of a service. However, to the extent permitted by the law, we may offer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee, if our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
-
-#### How to exercise your rights
-
-To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.
-
-For us to respond to your request, we need to know who you are and which right you wish to exercise.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and therefore confirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additional information which is reasonably necessary to authenticate you and your request.
-
-Making a consumer request does not require you to create an account with us. However, we may require you to use your existing account. We will use any personal data collected from you in connection with your request solely for the purposes of authentication, without further disclosing the personal data, retaining it longer than necessary for purposes of authentication, or using it for unrelated purposes.
-
-If you are an adult, you can make a request on behalf of a child under your parental authority.
-
-#### How and when we are expected to handle your request
-
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
-
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and at the latest within 45 days of receipt of the request. It is your right to appeal such decision by submitting a request to us via the details provided in this document. Within 45 days of receipt of the appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may [contact the Attorney General to submit a complaint](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page).
-
-We do not charge a fee to respond to your request, for up to one request per year.
-
-Further information for Utah consumers
---------------------------------------
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the controller running Coolors and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
-
-This section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are consumers residing in the State of Utah, according to the “Consumer Privacy Act" (the “UCPA"), and, for such consumers, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.
-
-This part of the document uses the term “personal data” as defined in the UCPA.
-
-### Categories of personal data processed
-
-In this section, we summarize the categories of personal data that we've processed and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Persona Data” within this document**.
-
-#### Categories of personal data we collect
-
-We have collected the following categories of personal data: identifiers, internet information, geolocation data, sensorial information and employment related information
-
-We do not collect sensitive data.
-
-We will not collect additional categories of personal data without notifying you.
-
-#### Why we process your personal data
-
-To find out why we process your personal data, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
-
-#### How we use the data we collect: sharing of your personal data with third parties
-
-We share your personal data with the third parties **listed in detail in the section titled “Detailed information on the processing of Personal Data” within this document**. These third parties are grouped and categorized in accordance with the different purposes of processing.
-
-For our purposes, the word "third party" means "a person other than: the consumer, controller, or processor; or an affiliate or contractor of the controller or the processor" as defined by the UCPA.
-
-#### Sale of your personal data
-
-As specified in the “Detailed information on the processing of Personal Data” section of this document, our use of your personal data may be considered a sale under the UCPA.
-
-For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other valuable consideration by a controller to a third party" as defined by the UCPA.
-
-Please note that according to the UCPA, the disclosure of personal data to a processor that processes personal data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in the UCPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the provision of a product or service requested by you.
-
-##### Your right to opt out of the sale of your personal data and how you can exercise it
-
-You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop selling your data, we will abide by your request.
-
-To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purpose of complying with the request.
-
-#### Processing of your personal data for targeted advertising
-
-As specified in the “Detailed information on the processing of Personal Data” section of this document, we may use your personal data for targeted advertising purposes.
-
-For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is selected based on personal data obtained or inferred over time from the consumer's activities across nonaffiliated websites, applications, or online services to predict consumer preferences or interests" as defined by UCPA.  
-  
-Please note that according to the UCPA, targeted advertising does not include: “advertisements based on activities within a controller's own websites or online applications or any affiliated website or online application; advertisements based on the context of a consumer's current search query, visit to an web site or online application; advertisements directed to a consumer in response to the consumer's request for information, product, a service or feedback; or processing personal data solely to measure or report advertising performance, reach or frequency.”
-
-##### Your right to opt out of the processing of your personal data for targeted advertising and how you can exercise it
-
-You have the right to opt out of the processing of your personal data for targeted advertising. This means that whenever you ask us to stop processing your data for targeted advertising, we will abide by your request.
-
-To fully exercise your right to opt out you can contact us at any time, using the contact details provided in this document.
-
-For a simplified opt-out method you can also use the privacy choices link provided on Coolors.
-
-We use any personal data collected from you in connection with the submission of your opt-out request solely for the purposes of complying with the opt-out request.
-
-### Your privacy rights under the Utah Consumer Privacy Act and how to exercise them
-
-You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the following:
-
-* access personal data. You have the right to request that we confirm whether or not we are processing your personal data. You also have the right to access such personal data.
-* request the deletion of your personal data. You have the right to request that we delete any of your personal data.
-* obtain a copy of your personal data. We will provide your personal data in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible.
-* opt out of the processing of your personal data for the purposes of targeted advertising or the sale of personal data.
-
-In any case, we will not increase the cost of, or decrease the availability of, a product or service, based solely on the exercise of any of your rights and unrelated to the feasibility or the value of a service. However, to the extent permitted by the law, we may offer a different price, rate, level, quality, or selection of goods or services to you, including offering goods or services for no fee, if our offer is related to your voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
-
-#### How to exercise your rights
-
-To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.
-
-For us to respond to your request, we need to know who you are and which right you wish to exercise.
-
-We will not respond to any request if we are unable to verify your identity using commercially reasonable efforts and therefore confirm that the personal data in our possession actually relate to you. In such cases, we may request that you provide additional information which is reasonably necessary to authenticate you and your request. We may retain your email address to respond to your request.
-
-If you are an adult, you can make a request on behalf of a child under your parental authority.
-
-#### How and when we are expected to handle your request
-
-We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
-
-Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in all cases and at the latest within 45 days of receipt of the request.
-
-We do not charge a fee to respond to your request, for up to one request per year.
+We do not charge a fee to process or respond to your request unless such request is manifestly unfounded or excessive and in all other cases where it is permitted by the applicable law. In such cases, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind them.
 
 Additional information about Data collection and processing
 -----------------------------------------------------------
@@ -1469,91 +1052,15 @@ The Owner reserves the right to make changes to this privacy policy at any time 
   
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
-Further information for Users in Brazil
----------------------------------------
-
-This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running Coolors and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).  
-This section applies to all Users in Brazil (Users are referred to below, simply as “you”, “your”, “yours”), according to the "Lei Geral de Proteção de Dados" (the "LGPD"), and for such Users, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.  
-This part of the document uses the term “personal information“ as it is defined in the **LGPD**.
-
-### The grounds on which we process your personal information
-
-We can process your personal information solely if we have a legal basis for such processing. Legal bases are as follows:
-
-* your consent to the relevant processing activities;
-* compliance with a legal or regulatory obligation that lies with us;
-* the carrying out of public policies provided in laws or regulations or based on contracts, agreements and similar legal instruments;
-* studies conducted by research entities, preferably carried out on anonymized personal information;
-* the carrying out of a contract and its preliminary procedures, in cases where you are a party to said contract;
-* the exercising of our rights in judicial, administrative or arbitration procedures;
-* protection or physical safety of yourself or a third party;
-* the protection of health – in procedures carried out by health entities or professionals;
-* our legitimate interests, provided that your fundamental rights and liberties do not prevail over such interests; and
-* credit protection.
-
-To find out more about the legal bases, you can contact us at any time using the contact details provided in this document.
-
-### Categories of personal information processed
-
-To find out what categories of your personal information are processed, you can read the section titled “Detailed information on the processing of Personal Data” within this document.
-
-### Why we process your personal information
-
-To find out why we process your personal information, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
-
-### Your Brazilian privacy rights, how to file a request and our response to your requests
-
-#### Your Brazilian privacy rights
-
-You have the right to:
-
-* obtain confirmation of the existence of processing activities on your personal information;
-* access to your personal information;
-* have incomplete, inaccurate or outdated personal information rectified;
-* obtain the anonymization, blocking or elimination of your unnecessary or excessive personal information, or of information that is not being processed in compliance with the LGPD;
-* obtain information on the possibility to provide or deny your consent and the consequences thereof;
-* obtain information about the third parties with whom we share your personal information;
-* obtain, upon your express request, the portability of your personal information (except for anonymized information) to another service or product provider, provided that our commercial and industrial secrets are safeguarded;
-* obtain the deletion of your personal information being processed if the processing was based upon your consent, unless one or more exceptions provided for in art. 16 of the LGPD apply;
-* revoke your consent at any time;
-* lodge a complaint related to your personal information with the ANPD (the National Data Protection Authority) or with consumer protection bodies;
-* oppose a processing activity in cases where the processing is not carried out in compliance with the provisions of the law;
-* request clear and adequate information regarding the criteria and procedures used for an automated decision; and
-* request the review of decisions made solely on the basis of the automated processing of your personal information, which affect your interests. These include decisions to define your personal, professional, consumer and credit profile, or aspects of your personality.
-
-You will never be discriminated against, or otherwise suffer any sort of detriment, if you exercise your rights.
-
-#### How to file your request
-
-You can file your express request to exercise your rights free from any charge, at any time, by using the contact details provided in this document, or via your legal representative.
-
-#### How and when we will respond to your request
-
-We will strive to promptly respond to your requests.  
-In any case, should it be impossible for us to do so, we’ll make sure to communicate to you the factual or legal reasons that prevent us from immediately, or otherwise ever, complying with your requests. In cases where we are not processing your personal information, we will indicate to you the physical or legal person to whom you should address your requests, if we are in the position to do so.
-
-In the event that you file an **access** or personal information **processing confirmation** request, please make sure that you specify whether you’d like your personal information to be delivered in electronic or printed form.  
-You will also need to let us know whether you want us to answer your request immediately, in which case we will answer in a simplified fashion, or if you need a complete disclosure instead.  
-In the latter case, we’ll respond within 15 days from the time of your request, providing you with all the information on the origin of your personal information, confirmation on whether or not records exist, any criteria used for the processing and the purposes of the processing, while safeguarding our commercial and industrial secrets.
-
-In the event that you file a **rectification, deletion, anonymization or personal information blocking** request, we will make sure to immediately communicate your request to other parties with whom we have shared your personal information in order to enable such third parties to also comply with your request — except in cases where such communication is proven impossible or involves disproportionate effort on our side.
-
-### Transfer of personal information outside of Brazil permitted by the law
-
-We are allowed to transfer your personal information outside of the Brazilian territory in the following cases:
-
-* when the transfer is necessary for international legal cooperation between public intelligence, investigation and prosecution bodies, according to the legal means provided by the international law;
-* when the transfer is necessary to protect your life or physical security or those of a third party;
-* when the transfer is authorized by the ANPD;
-* when the transfer results from a commitment undertaken in an international cooperation agreement;
-* when the transfer is necessary for the execution of a public policy or legal attribution of public service;
-* when the transfer is necessary for compliance with a legal or regulatory obligation, the carrying out of a contract or preliminary procedures related to a contract, or the regular exercise of rights in judicial, administrative or arbitration procedures.
-
 ### Definitions and legal references
 
-#### Personal Data (or Data)
+#### Personal Data (or Data) / Personal Information (or Information)
 
 Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+
+#### Sensitive Personal Information
+
+Sensitive Personal Information means any Personal Information that is not publicly available and reveals information considered sensitive according to the applicable privacy law.
 
 #### Usage Data
 
@@ -1582,6 +1089,18 @@ The means by which the Personal Data of the User is collected and processed.
 #### Service
 
 The service provided by Coolors as described in the relative terms (if available) and on this site/application.
+
+#### Sale
+
+Sale means any exchange of Personal Information by the Owner to **a third party, for monetary or other valuable consideration**, as defined by the applicable privacy US state law. Please note that the exchange of Personal Information with a service provider pursuant to a written contract that meets the requirements set by the applicable law, does not constitute a Sale of your Personal Information.
+
+#### Sharing
+
+Sharing means any sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer's Personal Information by the business to a **third party for cross-context behavioral advertising**, whether for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged, as defined by the California privacy laws. Please note that the exchange of Personal Information with a service provider pursuant to a written contract that meets the requirements set by the California privacy laws, does not constitute sharing of your Personal Information.
+
+#### Targeted advertising
+
+Targeted advertising means displaying advertisements to a consumer where the advertisement is selected based on Personal Information obtained from that consumer’s activities over time and across nonaffiliated websites or online applications to predict such consumer’s preferences or interests, as defined by the applicable privacy US state law.
 
 #### European Union (or EU)
 
