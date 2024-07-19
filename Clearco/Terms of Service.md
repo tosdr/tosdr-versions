@@ -90,11 +90,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/666a5448f9f1762bb1429cc7_clearco-live-question-answer-fintech.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/669923fded64d894e63f83cc_clearco-big-think-capital-partner-funding-ecommerce.png)
 
-###### Clearco is hosting a LIVE Q&A with our Founder Success team
+###### Clearco partners with Big Think Capital to further our mission of funding ecommerce businesses
 
-[Read now >](https://clear.co/blog/clearco-is-hosting-ama-ecommerce-funding)
+[Read now >](https://clear.co/blog/clearco-partners-with-big-think-capital-funding-ecommerce-businesses)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
