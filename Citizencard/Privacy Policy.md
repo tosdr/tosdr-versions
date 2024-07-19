@@ -74,7 +74,7 @@
 Privacy Policy
 ==============
 
-Last Updated 28 May 2024
+Last Updated 17 July 2024
 
 We are committed to safeguarding the privacy of our website visitors. This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website or purchasing our services you agree to this Privacy Policy in addition to CitizenCard [Terms and Conditions](https://www.citizencard.com/terms-and-conditions).
 
@@ -190,6 +190,26 @@ You can turn off cookies in your browser settings (usually Tools, Options or Pri
 ### Web Analytics Services
 
 We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. Google Analytics uses cookies to allow us to see how you use our site so we can improve your experience. Google's ability to use and share information collected by Google Analytics about your visits to the site is restricted by the Google Analytics Terms of Use available at [marketingplatform.google.com/about/analytics/terms/us/](https://marketingplatform.google.com/about/analytics/terms/us/) and the Google Privacy Policy available at [policies.google.com/privacy](https://policies.google.com/privacy). You can prevent Google Analytics from recognising you on return visits to the site by disabling cookies in your browser. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on available at [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+
+### AWIN Cookies
+
+We participate in the AWIN affiliate marketing program as an Advertiser. This means other brands and websites may publish links to our site to help promote our products and services. When you visit our site through an AWIN link, a cookie may be placed on your device to track your visit and any subsequent purchases. This tracking is necessary for us to attribute sales and pay commissions to the affiliates who refer customers to us.
+
+The AWIN cookies may collect information such as:
+
+* the pages you visit on our site
+* any purchases you make on our site
+* IP address, device information, and browser type
+* referring URLs and timestamps.
+
+AWIN uses this data to:
+
+* track the effectiveness of affiliate links
+* ensure proper attribution of sales and commissions to affiliates
+* provide us with aggregated reports on affiliate performance
+* improve the functionality of their tracking technology.
+
+For detailed information on how they handle your data, you can review Consumers section of [AWIN Privacy Policy](https://www.awin.com/gb/privacy#section_awin-consumers).
 
 * * *
 
