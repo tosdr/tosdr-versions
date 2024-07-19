@@ -102,17 +102,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Data Archiving
 
-Explore the Own Data Platform with Salesforce Ben](https://www.ownbackup.com/blog/explore-the-own-data-platform-with-salesforce-ben)
+How Can Automated Data Archiving Simplify Regulatory Compliance](https://www.ownbackup.com/blog/salesforce-data-retention-for-regulatory-compliance)
 
-[On-Platform Development
+[Data Archiving
 
-What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
+Preserve Your Data with Confidence: Why Data Archiving is Essential During Economic Uncertainty](https://www.ownbackup.com/blog/why-data-archiving-is-essential-during-economic-uncertainty)
 
-[AI
+[Data Archiving
 
-Why Your Metadata is Critical for AI Success](https://www.ownbackup.com/blog/why-metadata-is-so-critical-for-ai-success)
+Spring Clean Your Data: Why Archiving Is the Ultimate Organizational Tool](https://www.ownbackup.com/blog/spring-clean-your-data-with-archive)
 
 Company
 
@@ -308,17 +308,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Data Archiving
 
-Explore the Own Data Platform with Salesforce Ben](https://www.ownbackup.com/blog/explore-the-own-data-platform-with-salesforce-ben)
+How Can Automated Data Archiving Simplify Regulatory Compliance](https://www.ownbackup.com/blog/salesforce-data-retention-for-regulatory-compliance)
 
-[On-Platform Development
+[Data Archiving
 
-What Is Low-Code or No-Code Development?](https://www.ownbackup.com/blog/what-is-low-code-or-no-code-development)
+Preserve Your Data with Confidence: Why Data Archiving is Essential During Economic Uncertainty](https://www.ownbackup.com/blog/why-data-archiving-is-essential-during-economic-uncertainty)
 
-[AI
+[Data Archiving
 
-Why Your Metadata is Critical for AI Success](https://www.ownbackup.com/blog/why-metadata-is-so-critical-for-ai-success)
+Spring Clean Your Data: Why Archiving Is the Ultimate Organizational Tool](https://www.ownbackup.com/blog/spring-clean-your-data-with-archive)
 
 [Support](https://www.ownbackup.com/support)
 
