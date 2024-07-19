@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
-[Kimberly Guilfoyle’s Most Controversial Fashion Fumbles ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/1-4-e1718800200720.jpeg)](https://herbeauty.co/fashion/kimberly-guilfoyle-s-most-controversial-fashion-fumbles/) 
+[5 Simple Yet Surefire Ways to Make Him See You as Irresistible ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/07/cover-2.jpg)](https://herbeauty.co/relationships/5-simple-yet-surefire-ways-to-make-him-see-you-as-irresistible/) 
 
-[Spring Onion Coffee – The Trend You Didn’t See Coming ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-1.webp)](https://herbeauty.co/foodtravel/spring-onion-coffee-the-trend-you-didn-t-see-coming/) 
+[A Tribute to Shannen Doherty: A Life of Talent, Resilience, and Courage ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/07/8-1.jpg)](https://herbeauty.co/entertainment/a-tribute-to-shannen-doherty-a-life-of-talent-resilience-and-courage/) 
 
-[Celebs Who Are No Longer Friends With Meghan Markle ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/06/cover-5.jpg)](https://herbeauty.co/entertainment/celebs-who-are-no-longer-friends-with-meghan-markle/) 
+[Never Date Anyone Without These 11 Green Flags ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/07/GettyImages-2159145035.jpg)](https://herbeauty.co/relationships/never-date-anyone-without-these-11-green-flags/) 
 
 Advertisements
 
