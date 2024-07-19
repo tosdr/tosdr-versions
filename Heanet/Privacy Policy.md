@@ -57,12 +57,11 @@
         * [Network Maps](https://www.heanet.ie/network-maps)
         * [Workshop Resources](https://www.heanet.ie/workshop-resources)
 * [Events](#)
-    * [Conference 2024: Submit Your Talk](https://www.heanet.ie/heanet-conference-2024-submit-your-talk)
-    * [Conference 2024: Save the Date](https://www.heanet.ie/conference-2024)
+    * [HEAnet Conference 2024](https://www.heanet.ie/conference/2024)
     * [Upcoming Events](https://www.heanet.ie/workshops/)
     * [Conference Archive](https://www.heanet.ie/conferences)
 * [Find Us](https://www.heanet.ie/who-we-are/contact-heanet)
-* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=826bf232e0)
+* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=93d5b6b1d6)
 
 [](#)
 
