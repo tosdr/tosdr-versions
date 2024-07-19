@@ -51,10 +51,6 @@
 * [Turkish](http://tr.librarything.com/)
 * [Welsh](http://cym.librarything.com/)
 
-![](https://image.librarything.com/pics/hunt/hunt_clue_2024_06_16.png) [Come join our latest LibraryThing Hunt!](https://www.librarything.com/hunt/32)
-
-Dismiss
-
 Privacy and TOS
 
 [About LibraryThing](https://www.librarything.com/about)[Privacy and TOS](https://www.librarything.com/privacy)[Press Information](https://www.librarything.com/press)[Who We Are](https://www.librarything.com/whoweare.php)[Contact Us](https://www.librarything.com/contact)
