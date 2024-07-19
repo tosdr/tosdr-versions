@@ -1,4 +1,4 @@
-[![Paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/logo.svg)](https://www.paylib.fr/)
+[![Paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/logo_464bf414.svg)](https://www.paylib.fr/)
 
 * [Paylib entre amis](https://www.paylib.fr/paiement-entre-amis)
 * [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe)
@@ -10,38 +10,63 @@
 Politique de protection des données à caractère personnel ﻿
 ===========================================================
 
-Dans le cadre de la fourniture du service de paiement, d’envoi, de réception de fonds (le « Service »), Paylib Services est amenée, en qualité de responsable de traitement, à effectuer des traitements sur les données à caractère personnel (les « Données ») des utilisateurs du Service (les « Utilisateurs »).
+Dans le cadre de la fourniture du service de paiement, d’envoi, de réception de fonds (le « Service »), Paylib Services est amenée à effectuer des traitements sur les données à caractère personnel (les « Données ») des utilisateurs du Service (les « Utilisateurs »).
 
 Le Service se décompose en deux fonctionnalités :
 
-* Paiement sans contact dans un magasin « En magasin » : le Service permet de payer ses achats en magasin de proximité avec son smartphone Android, en sans contact.
-* Virement instantané vers un numéro de téléphone « Entre amis » : le Service permet à des utilisateurs d’envoyer de l’argent vers un bénéficiaire grâce à un simple numéro de téléphone.
+* Paylib en magasin : une opération bancaire permettant de payer ses achats en magasin de proximité avec son smartphone Android, avec le capteur sans contact, à condition que le smartphone en soit équipé.
+* Paylib entre Amis : une opération bancaire permettant d’envoyer de l’argent à un bénéficiaire vers son numéro de téléphone mobile.
 
-La présente Politique de protection des données à caractère personnel (la « Politique ») est destinée à l’ensemble des Utilisateurs des sites internet ou de l’application mobile édités par Paylib Services, qui n’ont pas souscrits au Service directement auprès de l’une des banques partenaires de Paylib Services.
+Paylib Services distribue au grand public – clients et non clients de Paylib Services – une application mobile (**l’Application**) et un site internet qui comprennent des **services additionnels** à **Paylib entre Amis** permettant de faciliter son activation et son usage dans les applications mobiles des banques distribuant **Paylib entre Amis**.
 
-Pour les Utilisateurs qui ont souscrits au Service auprès d’une banque partenaire, ce sont les dispositions de leur politique de confidentialité en lien avec le Service de leur banque qui s’appliquent – Paylib Services intervenant, en effet, en qualité de sous-traitant de ces dernières.
+Ces **services additionnels** comprennent :
+
+Sur l’application mobile exclusivement :
+
+* **La désignation de la banque de réception** pour créer un canal simplifié d’accès à la page de paiement **Paylib entre Amis** dans la banque ;
+* Une fonctionnalité **groupe de dépenses** permettant de calculer et répartir facilement les dépenses dans un groupe de personnes ;
+* La présentation d’un **historique des paiements Paylib entre Amis** sur la  période des 15 derniers jours ;
+* La possibilité de laisser un **avis sur l’utilisation des Services**.
+
+Sur l’application mobile et le site internet paylib.fr :
+
+* **La récupération de fonds de Paylib entre Amis** pour les utilisateurs non-inscrits à un service Paylib dans une banque.
+* Une aide en ligne (FAQ) et la possibilité **d’adresser une question sur Paylib entre Amis au support client**.
+
+L’ensemble de ces **services additionnels** constitue le « **Service additionnel** ». Dans ce cadre, Paylib Services est amené, en qualité de responsable de traitement et sous-traitant de la banque de l’utilisateur, à effectuer des traitements sur les données à caractère personnel (les « **Données** ») des utilisateurs du Service (les « **Utilisateurs** »).
+
+La présente Politique de protection des données à caractère personnel (la « Politique ») est destinée à l’ensemble des Utilisateurs des sites internet ou de l’application mobile édités par Paylib Services, utilisant le Service additionnel.
+
+Pour les utilisateurs des produits Paylib dans leur banque et les données relative au service Paylib entre Amis, s’applique la politique de confidentialité de leur banque, Paylib agissant en tant que sous-traitant.
 
 1\. LES DONNEES COLLECTEES PAR PAYLIB SERVICES
 ----------------------------------------------
 
-### 1.1 Les Données transmises directement par l’Utilisateur
+Paylib Service traite deux sortes de données :
 
-Les Données transmises directement par l’Utilisateur, selon la fonctionnalité du Service utilisée, comprennent notamment :
+* Les données liées aux opérations bancaires Paylib entre Amis régies par la politique de confidentialité des responsables de traitement, c’est-à-dire des banques distribuant ce produit, pour lesquelles Paylib est sous-traitant.
 
-* Ses données d’identification (i.e., nom, prénom, identifiant propre au service) ;
+* Les données liées au Service additionnel, régies par la Politique, pour lesquelles Paylib est responsable de traitement.
+
+Les interventions de Paylib Services, à la demande d’utilisateurs, sur les données, sont par conséquent limitées au périmètre de données du Service additionnel, sous responsabilité de traitement. Pour les autres données en sous-traitance, l’Utilisateur doit s’adresser directement aux banques responsables de traitement.
+
+### 1.1 Les Données transmises directement par l’Utilisateur lors de l’utilisation du Service additionnel
+
+Les Données transmises directement par l’Utilisateur comprennent notamment :
+
+* Ses données d’identification (i.e., nom, prénom saisis dans les écrans d’aide, identifiant interne propre au service) ;
 * Son numéro de téléphone mobile ;
-* L’IBAN renseigné pour la fonctionnalité « Paylib entre Amis » ;
-* Son e-mail ;
+* L’IBAN renseigné pour la fonctionnalité de récupération de fonds du produit « Paylib entre Amis » ;
+* Son e-mail.
 
 ### 1.2 Les Données recueillies indirectement lors de l’utilisation du Service
 
 Paylib Services est amenée à collecter, dans le strict respect de la législation en vigueur et de vos droits, des Données relatives :
 
-* Au numéro de téléphone mobile de l’utilisateur pour l’identifier, retrouver ses identifiants client, ses transactions, ses IBAN et les banques auxquelles ce numéro est rattaché ;
-* Aux caractéristiques du système d’exploitation, du navigateur ou des appareils (ordinateur, tablette, smartphone) que l’Utilisateur utilise pour accéder au Service ;
+* Au numéro de téléphone mobile de l’utilisateur pour l’identifier, retrouver, dans les données de ses transactions, ses identifiants client (s’il les transmet au support client), ses transactions, ses IBAN et les banques auxquelles ce numéro est rattaché.
+* Aux caractéristiques du système d’exploitation, du navigateur ou des appareils (ordinateur, tablette, smartphone) que l’Utilisateur utilise pour accéder au Service.
 * A la géolocalisation de l’Utilisateur.
 * A l’utilisation du Service. Il s’agit de données techniques permettant à Paylib Services d’assurer la sécurité des transactions, de détecter les utilisations frauduleuses, de collecter des statistiques sur l’utilisation du Service afin d’améliorer l’expérience des utilisateurs, et de savoir comment le Service est utilisé. Il s’agit par exemple de données relatives au parcours de navigation de l’Utilisateur sur les interfaces de Paylib Services et de ses interactions avec le contenu des sites ou applications, tels que les pages visitées, les mots-clefs de recherche utilisés, la fréquence de visites.
-* Aux contacts de l’Utilisateur. L’Utilisateur peut relier ses répertoires de contacts à l’application mobile de Paylib Services afin de savoir lesquels de ses contacts utilisent également l’application. Pour faire le lien entre un contact présent dans le carnet d’adresse de l’Utilisateur et un Utilisateur qui utilise le Service, Paylib Services collecte les noms, les prénoms, les numéros et les adresses e-mail présentes dans le carnet d’adresses de l’Utilisateur. Cette option peut être désactivée par l’Utilisateur depuis l’onglet « Paramètres » de l’application.
 * Aux communications avec le support. Paylib Services conserve l’historique des communications que l’Utilisateur a pu avoir avec son service client.
 * Aux transactions et à leurs historiques. Ces données comprennent notamment l’identifiant du client, le numéro de téléphone, nom, prénom, nom de la banque, données sur l’instrument de paiement, date d’envoi, statut technique de la transaction, nom, prénom et/ou numéro de téléphone du bénéficiaire, et toutes autres données techniques liées aux transactions.
 * Au suivi des actions réalisées en back-office, notamment pour assurer le bon fonctionnement des services, gérer et résoudre des incidents techniques et des problèmes utilisateurs.
@@ -49,19 +74,19 @@ Paylib Services est amenée à collecter, dans le strict respect de la législat
 2\. LES FINALITES DE TRAITEMENT DES DONNEES
 -------------------------------------------
 
-Les Données sont collectées pour permettre à Paylib Services de :
+Les Données sont collectées et protégées pour permettre à Paylib Services :
 
-* Assurer la fourniture du Service auquel l’Utilisateur a souscrit ;
-* Améliorer et d’optimiser le Service, le site internet et l’application mobile Paylib ;
-* Communiquer sur le Service et ses évolutions avec l’Utilisateur ;
-* Améliorer la connaissance client des banques partenaires, dans le cas où Paylib Services intervient en qualité de sous-traitant, en respectant la politique de confidentialité des banques partenaires ;
-* Traiter les réclamations des Utilisateurs ;
-* Réaliser des statistiques internes et des sondages ;
-* Répondre à ses obligations légales et assurer le respect du droit et de décisions de justice ;
-* Assurer la réalisation de campagnes de communication pour des services fournis aux utilisateurs ou équivalents (notamment des informations concernant des avantages, évènements et évolutions du service pouvant l’intéresser) ;
-* Assurer une redirection fluide et optimisée de l’utilisateur vers son application mobile bancaire afin d’effectuer des transactions « Entre amis » ou « En magasin » ou s’inscrire à ces services de paiement dans sa banque ;
-* Recueillir un avis anonyme facultatif sur le fonctionnement du service deux fois par an ;
-* Vérifier la fiabilité des numéros de téléphone mobile pour le compte des banques partenaires et envoyer, le cas échéant, des SMS de vérification de fonctionnement des lignes téléphoniques.
+* D’assurer la fourniture du Service auquel l’Utilisateur a souscrit ;
+* D’améliorer et d’optimiser le Service, le site internet et l’application mobile Paylib ;
+* De communiquer sur le Service et ses évolutions avec l’Utilisateur ;
+* D’améliorer la connaissance client des banques partenaires, dans le cas où Paylib Services intervient en qualité de sous-traitant, en respectant la politique de confidentialité des banques partenaires ;
+* De traiter les réclamations des Utilisateurs ;
+* De réaliser des statistiques internes et des sondages ;
+* De satisfaire à ses obligations légales et et répondre aux réquisitions judiciaires ;
+* D’assurer la réalisation de campagnes de communication pour des services fournis aux utilisateurs ou équivalents (notamment des informations concernant des avantages, évènements et évolutions du service pouvant l’intéresser) ;
+* D’assurer une redirection fluide et optimisée de l’utilisateur vers son application mobile bancaire afin d’effectuer des transactions « Entre amis » ou « En magasin » ou s’inscrire à ces services de paiement dans sa banque ;
+* De recueillir un avis anonyme facultatif sur le fonctionnement du service deux fois par an ;
+* De vérifier la fiabilité des numéros de téléphone mobile pour le compte des banques partenaires et envoyer, le cas échéant, des SMS de vérification de fonctionnement des lignes téléphoniques.
 
 3.     DESTINATAIRES DES DONNEES
 --------------------------------
@@ -89,10 +114,10 @@ Conformément à la législation applicable et avec le consentement de l’Utili
 
 * Adresser des messages afin d’animer des communautés d’utilisateurs ;
 * Afficher des contenus marketing ou commerciaux ciblés sur les plateformes de médias sociaux ou sites ;
-* Envoyer des invitations à des événements ou toute autre communication susceptible d’intéresser les Utilisateurs.
+* Envoyer des invitations à des événements ou toute autre communication susceptible d’intéresser les Utilisateurs ;
 * Envoyer une relance pédagogique pour activer le Service ou pour l’utiliser.
 
-L’Utilisateur peut s’opposer à tout moment aux publicités par messages ciblés adressées par Paylib Services en envoyant un e-mail à l’adresse de contact indiquée à l’Article 10
+L’Utilisateur peut s’opposer à tout moment aux publicités par messages ciblés adressées par Paylib Services en envoyant un e-mail à l’adresse de contact indiquée à l’Article 10.
 
 L’Utilisateur peut s’opposer également à tout moment, à la communication des contenus marketing ou commerciaux ciblés de Paylib sur les plateformes de réseaux sociaux (par exemple Facebook, Twitter), en configurant les paramètres relatifs à la publicité de son compte depuis ces plateformes.
 
@@ -126,19 +151,25 @@ Paylib Services a recours à différentes mesures physiques, techniques et organ
 
 L’Utilisateur dispose d’un certain nombre de droits en lien avec le traitement de ses Données.
 
+Dans la mesure où Paylib Services ne dispose d’aucun moyen de vérification lui permettant de s’assurer qu’une demande d’accès, rectification ou suppression de Données pour le Service additionnel émane du titulaire légitime de la ligne téléphonique, le requérant doit fournir une pièce d’identité ainsi qu’une facture de la ligne concernée datant de moins de 3 mois.
+
 ### 7.1 Droit d’accès aux Données concernant l’Utilisateur
 
-L’Utilisateur a le droit de demander l’accès ainsi qu’une copie de ses Données faisant l’objet d’un traitement par Paylib Services.
+L’Utilisateur a le droit de demander l’accès ainsi qu’une copie de ses Données faisant l’objet d’un traitement par Paylib Services, lorsqu’il est responsable de traitement.
 
 ### 7.2 Droit de rectification
 
-L’utilisateur a le droit de demander la correction de toutes inexactitudes ou la modification des Données le concernant.
+L’utilisateur a le droit de demander la correction de toutes inexactitudes ou la modification des Données le concernant, lorsque Paylib Service Services est responsable de traitement.
 
-Paylib Services recommande à l’Utilisateur de lui notifier tous changements – tel qu’un changement de numéro de téléphone mobile, d’adresse ou de coordonnées bancaires – qui pourraient rendre les données concernant l’Utilisateur inexactes.
+Pour toute donnée liée au service Paylib entre Amis, où Paylib Services est sous-traitant, Paylib Services recommande à l’Utilisateur de notifier à sa banque tous changements – tel qu’un changement de numéro de téléphone mobile, d’adresse ou de coordonnées bancaires – qui pourraient rendre les données concernant l’Utilisateur inexactes.
+
+Pour toute donnée liée au Service additionnel, Paylib Services recommande à l’utilisateur de rafraichir l’Application avec son numéro de téléphone à jour.
+
+Pour des raisons de sécurité bancaire, l’IBAN saisi sur le site de récupération de fonds recup.paylib.fr ne peut pas être modifié mais l’utilisateur peut y désinscrire son IBAN sur le lien https://recup.paylib.fr/unregister.
 
 ### 7.3 Droit au blocage des Données de l’Utilisateur
 
-L’Utilisateur peut s’opposer à ce que Paylib Services traite ses Données, en cas de motifs légitimes.
+L’Utilisateur peut s’opposer à ce que Paylib Services traite ses Données, lorsqu’il est responsable de traitement, en cas de motifs légitimes.
 
 Dans les cas où l’Utilisateur a spécifiquement donné son consentement au traitement de ses Données, l’Utilisateur est en droit de le retirer à tout moment en contactant directement Paylib Services aux coordonnées précisées à l’article 10.
 
@@ -163,6 +194,10 @@ L’Utilisateur a le droit de demander à Paylib Services d’effacer ses Donné
 * lesdites Données ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ;
 * le traitement par Paylib Services des Données de l’Utilisateur n’est fondé que sur son consentement et le droit de l’Utilisateur à retirer son consentement à un tel traitement ;
 * les Données de l’Utilisateur ont fait l’objet d’un traitement illégal.
+
+Pour cela l’utilisateur peut à tout moment contacter le délégué à la protection des données de l’application Paylib à l’adresse de contact prévue à l’article 10.
+
+Une fois la demande faite, il reçoit un mail de confirmation de sa prise en charge dans les délais et formes prévues par la loi.
 
 ### 7.8 Instruction sur le traitement des Données de l’Utilisateur après son décès
 
@@ -203,7 +238,7 @@ Posez-nous votre question !
 
 [](https://www.facebook.com/paylib.fr/?fref=ts)[](https://twitter.com/Paylib)[](https://www.instagram.com/paylib/)[](https://www.linkedin.com/company/11066778/)[](https://www.youtube.com/channel/UCFtJX8jWVsUN0AqwTidqRdg)
 
-[Je découvre Paylib](https://www.paylib.fr/a-propos) | [Espace presse](https://www.paylib.fr/paiement-commercants/espace-presse) | [Glossaire](https://www.paylib.fr/glossaire) | [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies) | [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib [![Télécharger dans l'App Store](https://www.paylib.fr/wp-content/themes/paylib/dist/images/apple-store-fr.svg)](https://apps.apple.com/fr/app/paylib-le-paiement-mobile/id1478866769) [![Disponible sur Google Play](https://www.paylib.fr/wp-content/themes/paylib/dist/images/google-store-fr.svg)](https://play.google.com/store/apps/details?id=fr.paylib.paylib)
+[Je découvre Paylib](https://www.paylib.fr/a-propos) | [Espace presse](https://www.paylib.fr/paiement-commercants/espace-presse) | [Glossaire](https://www.paylib.fr/glossaire) | [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies) | [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib [![Télécharger dans l'App Store](https://www.paylib.fr/wp-content/themes/paylib/dist/images/apple-store-fr_03fe40c9.svg)](https://apps.apple.com/fr/app/paylib-le-paiement-mobile/id1478866769) [![Disponible sur Google Play](https://www.paylib.fr/wp-content/themes/paylib/dist/images/google-store-fr_3ed47731.svg)](https://play.google.com/store/apps/details?id=fr.paylib.paylib)
 
 J'active Paylib J'active Paylib [Besoin d'aide ?](https://www.paylib.fr/faq)
 
@@ -211,7 +246,7 @@ J'active Paylib J'active Paylib [Besoin d'aide ?](https://www.paylib.fr/faq)
 
 Payer avec Paylib
 
-[Payer entre amis](https://www.paylib.fr/paiement-entre-amis) [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe) [Payer en magasin](https://www.paylib.fr/paiement-sans-contact) [Besoin d'aide ?](https://www.paylib.fr/faq) [Je découvre Paylib](https://www.paylib.fr/a-propos)
+[Payer entre amis](https://www.paylib.fr/paiement-entre-amis) [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe) [Payer en magasin](https://www.paylib.fr/paiement-sans-contact) [Besoin d'aide ?](https://www.paylib.fr/faq) [Je découvre Wero](https://wero-wallet.eu/fr/consumers)
 
 * * *
 
@@ -226,7 +261,7 @@ Payer avec Paylib
 
 J'active Paylib
 
-![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close.svg)
+![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close_d27a789c.svg)
 
 Activez Paylib directement sur votre téléphone !
 ------------------------------------------------
@@ -293,4 +328,4 @@ Merci, un SMS vous a été envoyé pour activer Paylib dans l'application de vot
 
 Une erreur est survenue, veuillez réessayer
 
-![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup5.png)
+![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup5_65e8356c.png)
