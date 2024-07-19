@@ -13,7 +13,7 @@ Menu 
 
 * [In-Person Camps](https://destinationscience.org/programs/)
     * [![Chemistry_Camp_Icon_100x100](https://destinationscience.org/wp-content/uploads/Chemistry_Camp_Icon_100x100.png "Chemistry_Camp_Icon_100x100")2024 Programs](https://destinationscience.org/programs/)
-        * [Dinobot Builders & Crazy Chem Lab Summer Science Camp](https://destinationscience.org/dinobot-builders-crazy-chem-lab-camp/)
+        * [Dinobot Builders & Crazy Chem Lab Summer Robotics and Science Camp](https://destinationscience.org/dinobot-builders-crazy-chem-lab-camp/)
         * [Superhero Physics Fun Summer Science Camp](https://destinationscience.org/superhero-physics-fun-camp/)
         * [Space Base Astronaut Summer Science Camp](https://destinationscience.org/space-base-astronaut-camp/)
     * [![Chemistry_Camp_Icon_100x100](https://destinationscience.org/wp-content/uploads/Chemistry_Camp_Icon_100x100.png "Chemistry_Camp_Icon_100x100")Locations at a Glance](https://destinationscience.org/find-your-camp/locations-at-a-glance/)
@@ -179,7 +179,7 @@ Get the Best Summer Prices & Special Offers!
         * [In-Person Science Summer Camps – Seattle Locations](https://destinationscience.org/seattle-science-camps/)
 * [In-Person Programs](https://destinationscience.org/programs/)
     * [Superhero Physics Fun Summer Science Camp](https://destinationscience.org/superhero-physics-fun-camp/)
-    * [Dinobot Builders & Crazy Chem Lab Summer Science Camp](https://destinationscience.org/dinobot-builders-crazy-chem-lab-camp/)
+    * [Dinobot Builders & Crazy Chem Lab Summer Robotics and Science Camp](https://destinationscience.org/dinobot-builders-crazy-chem-lab-camp/)
     * [Space Base Astronaut Summer Science Camp](https://destinationscience.org/space-base-astronaut-camp/)
     * [Leaders in Training](https://destinationscience.org/programs/leaders-in-training/)
 * [Parent Information](https://destinationscience.org/login/parent-information/)
