@@ -115,7 +115,7 @@ This Cookie Notice was last updated on July 25, 2018.
 * [Overview](https://www.heroforge.com/intro)
 * [Help & FAQ](https://www.heroforge.com/support)
 * [Info & News](https://www.heroforge.com/information)
-[](https://www.heroforge.com/information)* [](https://www.heroforge.com/information)[Social](https://www.heroforge.com/social)
+* [Social](https://www.heroforge.com/social)
 * [Product Info](https://www.heroforge.com/product-info)
 * [Create Your Character](https://www.heroforge.com/)
 
