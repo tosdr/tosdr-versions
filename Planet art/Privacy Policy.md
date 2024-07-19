@@ -136,7 +136,7 @@ We may use and process PII that is either collected by us or provided by you for
 * Assessing the effectiveness of our advertising and tailoring our advertising so you receive only what is relevant to you;
 * Improving the Services and notifying you about changes;
 * Managing your customer relationship with us;
-* Enabling your participation in our Services\\' interactive, social media, or other similar features;
+* Enabling your participation in our Services' interactive, social media, or other similar features;
 * Integrating social media into your experience with our Services;
 * Carrying out your support requests;
 * Notifying you about unfinished transactions, unused credits, or order status;
@@ -274,7 +274,7 @@ The table below summarizes the Personal Information collected, used and shared b
 | **Professional or employment-related information** | No  | N/A | N/A | N/A | N/A | N/A |
 | **Education information**, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99). | No  | N/A | N/A | N/A | N/A | N/A |
 | **Inferences drawn from personal information,**such as a person’s preferences, characteristics, trends, predispositions, behavior, and attitudes. | Yes | Advertising networks, data analytics providers, and special occasions based on our review of product orders. | Targeted advertising, marketing analytics, reminders of special occasions. | Our Service Providers such as data analytics providers. | Advertisers and social networks | 9 years from the date of your last interaction with us |
-| **Sensitive Personal Information,**such as Social Security, driver\\'s license, passport, or state ID card numbers;account or debit or credit card numbers combined with passwords or codes that would enable access to the accounts; exact geolocation; racial origin, religious beliefs, or union membership; a consumer\\'s mail, email, or text message content (unless the information was intentionally sent to us); genetic data such as DNA samples; and biometric data | Yes | You, if you choose to provide it to us | To fulfill your orders | Our Service Providers such as financial auditors, payment card processors, and fulfillment vendors. | We do not sell or share this category of Personal Information | 9 years from the date of your last interaction with us |
+| **Sensitive Personal Information,**such as Social Security, driver's license, passport, or state ID card numbers; account or debit or credit card numbers combined with passwords or codes that would enable access to the accounts; exact geolocation; racial origin, religious beliefs, or union membership; a consumer's mail, email, or text message content (unless the information was intentionally sent to us); genetic data such as DNA samples; and biometric data | Yes | You, if you choose to provide it to us | To fulfill your orders | Our Service Providers such as financial auditors, payment card processors, and fulfillment vendors. | We do not sell or share this category of Personal Information | 9 years from the date of your last interaction with us |
 
 **Your CCPA Rights and Choices**
 
@@ -282,172 +282,167 @@ The CCPA provides California residents with specific rights regarding Personal I
 
 1. **CCPA Access to Specific Information**  
     If you are a California resident, you have the right to request that we disclose certain information to you about our collection and use of Personal Information about you over the past 12 months. Once we receive and confirm your verifiable CCPA request (see Exercising **CCPA Access and Deletion Rights** below), we will disclose to you:
-
-* The categories of Personal Information we collected about you.
-* The categories of sources for the Personal Information we collected about you.
-* Our business purpose for collecting or selling that Personal Information.
-* The categories of third parties with whom we share that Personal Information.
-* The specific pieces of Personal Information we collected about you.
-* The categories of Personal Information shared for cross-context behavioral advertising purposes, and the categories of recipients to whom the Personal Information were disclosed for those purposes; and
-* The categories of Personal Information sold (if any), and the categories of third parties to whom the Personal Information was sold.
-
-3. **CCPA Deletion Request Rights**  
+2. The categories of Personal Information we collected about you.
+3. The categories of sources for the Personal Information we collected about you.
+4. Our business purpose for collecting or selling that Personal Information.
+5. The categories of third parties with whom we share that Personal Information.
+6. The specific pieces of Personal Information we collected about you.
+7. The categories of Personal Information shared for cross-context behavioral advertising purposes, and the categories of recipients to whom the Personal Information were disclosed for those purposes; and
+8. The categories of Personal Information sold (if any), and the categories of third parties to whom the Personal Information was sold.
+9. **CCPA Deletion Request Rights**  
     California residents have the right to request that we delete any of the Personal Information that we collected from them and retained, subject to certain exceptions. Once we receive and confirm your verifiable CCPA request (see **Exercising Your CCPA Rights** below), we will delete (and direct our Service Providers to delete) Personal Information about you from our records, unless an exception applies.  
       
     We may deny your deletion request if retaining the Personal Information is necessary for us or our service provider(s) to:
-    
-    * Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with law, or otherwise perform our contract with you.
-    * Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities
-    * Debug products to identify and repair errors that impair intended functionality
-    * Exercise free speech, ensure the right of another CCPA user to exercise their free speech rights, or exercise another right provided for by law.
-    * Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
-    * Enable solely internal uses that are reasonably aligned with user expectations based on your relationship with us.
-    * Comply with a legal obligation.
-    * Make other internal and lawful uses of the information that are compatible with the context in which you provided it.
-    
-4. **CCPA Correction Requests**  
+10. Complete the transaction for which we collected the Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with law, or otherwise perform our contract with you.
+11. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities
+12. Debug products to identify and repair errors that impair intended functionality
+13. Exercise free speech, ensure the right of another CCPA user to exercise their free speech rights, or exercise another right provided for by law.
+14. Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
+15. Enable solely internal uses that are reasonably aligned with user expectations based on your relationship with us.
+16. Comply with a legal obligation.
+17. Make other internal and lawful uses of the information that are compatible with the context in which you provided it.
+18. **CCPA Correction Requests**  
     California residents have the right to request that we correct any incorrect Personal Information that we collect or retain about them, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will correct (and direct any of our service providers that hold your data on our behalf to correct) your Personal Information from our records, unless an exception applies. We may deny your correction request if (a) we believe the Personal Information we maintain about you is accurate; (b) correcting the Personal Information would be impossible or involve disproportionate; or (c) if the request conflicts with our legal obligations.
-5. **CCPA Right to Opt Out of Sales or Sharing of Personal Information**  
+19. **CCPA Right to Opt Out of Sales or Sharing of Personal Information**  
     California residents have the right to direct us not to “sell” their Personal Information to third parties for monetary or other valuable consideration, or “share” their Personal Information to third parties for cross-context behavioral advertising purposes.
-6. **Exercising CCPA Rights**  
+20. **Exercising CCPA Rights**  
     To exercise the CCPA rights described above, please submit a verifiable CCPA request to us here: OneTrust Form or email us at [privacy@pallcprivacy.com](mailto:privacy@pallcprivacy.com).  
       
     Only you, or someone legally authorized to act on your behalf, may make a verifiable CCPA request related to Personal Information about you. You may also make a verifiable CCPA request on behalf of your minor child. To designate someone legally authorized to act on your behalf, you may upload proof of the authorization to [privacy@pallcprivacy.com](mailto:privacy@pallcprivacy.com).  
       
     You may make a verifiable CCPA request for access only twice within any 12-month period. The verifiable CCPA request must:  
     
-    * provide sufficient information that allows us to reasonably verify you are either the person we collected Personal Information about or their authorized representative, which may include information that you have already provided to us, such as your name and email address; and
-    * describe your CCPA request in sufficient detail so that we can properly understand your request and respond to it.
-    
-    We may not respond to your CCPA request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information is about you or someone you are legally authorized to act on behalf of. Making a verifiable CCPA request does not require you to create an account with us.  
+21. provide sufficient information that allows us to reasonably verify you are either the person we collected Personal Information about or their authorized representative, which may include information that you have already provided to us, such as your name and email address; and
+22. describe your CCPA request in sufficient detail so that we can properly understand your request and respond to it.
+23. We may not respond to your CCPA request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information is about you or someone you are legally authorized to act on behalf of. Making a verifiable CCPA request does not require you to create an account with us.  
       
     We will use Personal Information provided in a verifiable CCPA request only to verify the requestor’s identity or authority to make the request.  
       
     
-7. **CCPA Response Timing and Format**  
+24. **CCPA Response Timing and Format**  
     We endeavor to respond to verifiable CCPA requests within forty-five (45) days of their receipt. If we require more time (up to 90 days) to respond to your request, we will inform you in writing of the reason and the needed extension period. If you have an account with us, we will deliver our written response to that account. If you do not have an account with us, we will deliver our written response to the email address you provide on the CCPA Request Form.  
       
     Any CCPA disclosures we provide will only cover the 12-month period preceding our receipt of your verifiable CCPA request. Our response will also explain the reasons we are not complying with your CCPA request, if applicable.  
     We do not charge a fee to process or respond to your verifiable CCPA request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the CCPA request warrants a fee, we will tell you why and provide you with a cost estimate before completing your request.  
     
-8. **CCPA Non-Discrimination**  
+25. **CCPA Non-Discrimination**  
     We do not discriminate against California residents for exercising their CCPA rights. Unless permitted by the CCPA, we will not:  
       
     
-    * Deny you goods or services.
-    * Charge you different prices for goods or services, including through granting discounts or other benefits, or imposing penalties.
-    * Provide you with a different level or quality of goods or services.
-    * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
-    
-9. **CCPA Notice of Financial Incentive**  
-    We may offer you financial incentives for the collection, sale, retention, and use of your personal information as permitted by the CCPA that can, without limitation, result in reasonably different prices, rates, or quality levels.  
-      
-    Pursuant to the CCPA, this Notice is to provide you with information regarding any financial incentive or “price or service difference" that we may provide in exchange for your personal information. The Personal Information collected from you in exchange for financial incentive or “price or service difference” may include collecting the following categories of personal information from customers who participate: identifiers; customer records; protected class and demographic information; commercial information and preferences; internet or other electronic network activity information and device information; audio, electronic, visual, or other sensory information; and inferences.  
-      
-    In order to participate in our rewards program(s) and use our services, you may provide Personal Information from time to time, directly or indirectly, in exchange for cash, gift cards, or other financial incentive, or price or service difference, the amount or nature of which will be specified in each instance at the time the Personal Information is to be submitted. You can opt-in to the financial incentive or price or service difference by submitting Personal Information. If you wish to opt-out of the financial incentive or price or service difference, do not submit the Personal Information. If you opt-in and subsequently wish to withdraw from the financial incentive or price or service difference, you may request such withdrawal by contacting us here: [OneTrust Form](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6).  
-      
-    Each financial incentive or price or service difference related to the collection and use of Personal Information is based upon our sole reasonable, good-faith determination of the estimated value of such information to our business, taking into consideration the value of the offer itself and the anticipated revenue generation that may be realized by rewarding brand loyalty. We calculate the value of the offer and financial incentive by using the expense related to the offer. By participating in any of the above promotional programs, you agree that the benefits are reasonably related to the value of the Personal Information collected and contained.
-    
-    **Other California Privacy Rights**
-    
-    In addition to your rights under the CCPA, California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of the Services that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. We do not disclose Personal Information to third parties for their direct marketing purposes. If you would like more information about our compliance with California’s “Shine the Light” law, please send an email to [privacy@pallcprivacy.com](mailto:privacy@pallcprivacy.com) or write us at:  
-      
-    
-    Privacy Program  
-    Attn: Legal Department  
-    23801 Calabasas Road  
-    Calabasas, CA 91302  
-    USA
-    
-    **Changes to this CCPA Notice**
-    
-    We reserve the right to amend this CCPA Notice at our discretion and at any time. When we make changes to this Notice, we will post the updated Notice on the Services and update the Notice’s effective date. **Your continued use of the Services following the posting of any changes to this Notice constitutes your acceptance of those changes.**
-    
-    **CCPA Contact Information**
-    
-    If you have questions or comments about this Notice, the ways in which we collect and use Personal Information, your choices and rights regarding such use, or you wish to exercise your rights under California law, please contact us at:
-    
-    Email: [privacy@planetart.com](mailto:privacy@planetart.com)  
-    Web Form: [OneTrust Form](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6)  
-    Postal Address: Privacy Program, Attention: Legal Department, 23801 Calabasas Road, Calabasas, California 91302-1547
-    
-    ### 16\. Addendum for Persons Located in the European Union, UK, EEA and Switzerland
-    
-    This **Addendum for Persons Located in the European Union, UK, EEA and Switzerland** (this “GDPR Notice”) supplements the information contained in the Privacy Policy and applies solely to persons located in the EU, UK, EEA and Switzerland. We adopt this GDPR Notice to comply with GDPR, and any terms defined in GDPR (including Personal Data) have the same meaning when used in this GDPR Notice.
-    
-    **In General**
-    
-    We **do not** intentionally collect, use, process, share or store special categories of Personal Data, although you may provide information which constitutes special category Personal Data as part of your personalization choices.
-    
-    **Who is Responsible for Personal Data About You?**
-    
-    We are responsible for Personal Data about you. Specifically Personal Data is controlled by:
-    
-    Privacy Program,  
-    Attention: Legal Department  
-    Gateway House, Tollgate, Chandler’s Ford,  
-    Eastleigh, Southampton, S053 3TG,  
-    United Kingdom
-    
-    We have appointed ITG EU & GRCI Law to act as our EU and UK Representatives. If you wish to exercise your rights under EU GDPR or the UK GDPR or have any queries in relation to your rights or privacy matters generally please email from Europe [privacyeu@pallcprivacy.com](mailto:privacyeu@pallcprivacy.com), or from UK [privacyuk@pallcprivacy.com](mailto:privacyuk@pallcprivacy.com).
-    
-    We may need to request additional information from you in order to confirm your identity before responding to your request or question.
-    
-    **On Which EU Legal Basis Do We Process Personal Data About You?**
-    
-    Depending on the specific purpose or purposes for the processing of the Personal Data, we rely on the following legal grounds:
-    
-    * Performance of your customer contract or other contractual obligations or in order to take steps before entering into a contract with you;
-    * Compliance with a legal obligation (such as record obligations for our commercial or tax purposes or other regulatory obligations);
-    * Protection of your vital interests or the vital interests of another natural person; or
-    * Our legitimate interests or those of any third-party recipients that receive the Personal Data, provided that such interests are not overridden by your interests or fundamental rights and freedoms;
-    * Important reasons of public interest;
-    * The establishment, exercise or defense of legal claims.
-    
-    Legitimate interests include, for example, developing and improving our internal administration or business and service processes, marketing and reputation activities, keeping our records up to date, handling and managing our legal and contractual duties and obligations, and compliance with internal and legal policies and regulations that apply to us.
-    
-    In addition, we process Personal Data to let you know about updates to products and services you have purchased from us or expressed interest in before.
-    
-    **Will Personal Data About You be Transferred Outside the EU/EEA?**
-    
-    Our headquarters and operations are in the United States, UK and Ireland. We strive to store and process EU, UK, EEA and Swiss Personal Data in Ireland, on the servers located in the EU. With the exception of Personal Creations and Café Press, all EU/EEA customer Personal Data is processed and stored on Amazon Web Services (AWS) servers located in Ireland (see more information below). Personal Creations and Café Press customer Personal Data is processed and stored on AWS Servers in the U.S.
-    
-    **Notice Re: EU-U.S. and Swiss-U.S. Privacy Shield, CJEU Schrems II Ruling and EU Standard Contract Clauses (SCC)**
-    
-    We have withdrawn from the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States as further described below.
-    
-    On July 16, 2020, the European Court of Justice (CJEU) determined that the EU-U.S. Privacy Shield framework is no longer valid for the transfer of Personal Data from the European Economic Area (EEA) to the U.S. (known as the Schrems II decision). The Schrems II decision also placed additional compliance requirements on the use of EU Standard Contract Clauses (SCC) for the transfer of EU/EEA Personal Data to the U.S. by companies subject to Section 702 of the U.S. Foreign Intelligence Surveillance Act (FISA) and/or Executive Order 12333 (E.O. 12333).
-    
-    We know our customers, website visitors, and business partners care deeply about privacy and data security, and we optimize our work to get these issues right. We’d like to confirm that you can continue to use our Services with regard to EU and EEA Personal Data in compliance with EU law.
-    
-    **First**, please know that it is our good-faith belief that the types of EU/EEA Personal Data we collect, use, process, share and/or store in the U.S. are not of the types of Personal Data that would generally be subject to requests from U.S. government authorities pursuant to FISA Section 702 and/or E.O. 12333.
-    
-    **Second**, please note that as part of our good-faith efforts to comply with applicable data protection laws, we strive to continue to store and process EU, EEA, UK and Swiss Personal Data in Ireland, on servers located in the EU. In compliance with the GDPR and other applicable laws we also implement data encryption, data minimization, data pseudonymization, and need to know access to Personal Data.
-    
-    **Third**, although we have withdrawn from Privacy Shield, we are retaining the data collected during our participation, and are providing adequate protection for such data by another authorized means.
-    
-    **Fourth**, when international transfer of Personal Data is necessary to perform a contract with you, or in individual cases for the purposes of our compelling legitimate business interests and in order to comply with our internal policies, contractual and legal obligations.
-    
-    If you represent one of our service providers or business partners and your organization is a party to an agreement with us that includes EU Standard Contract Clauses (SCC) for compliance with EU/EEA data protection laws, please contact us at [privacy@pallcprivacy.com](mailto:privacy@pallcprivacy.com) to discuss whether any updates to our agreement are needed resulting from the Schrems II decision.
-    
-    Trust is a top priority for us, and we will continue to work vigilantly to ensure that our customers, website visitors, and business partners are able to continue to enjoy the benefits of our Services securely, compliantly, and without disruption.
-    
-    **Your Consent to Transfer of Personal Data**
-    
-    In addition to the above, we may also process, store, and/or transfer Personal Data we collect about you, in and to a country outside the EU including the United States. Those other countries may have different privacy laws that may or may not be as comprehensive as your own.
-    
-    By submitting Personal Data or interacting with our Services, you consent to this transfer, storing, and/or processing including in the United States.
-    
-    * Your Personal Data Use Choices  
-        See Section 8 ([Your Choices About Our Use of Data](#8)) above.
-    * How Can I Access or Correct Personal Data About Me?
-    
-    You may exercise your access, correction or deletion rights by using the form located at the **Manage Personal Information** link at the bottom of each webpage. Alternatively, you may send us an email from Europe at [privacyeu@pallcprivacy.com](mailto:privacyeu@pallcprivacy.com) or from the UK to [privacyuk@pallcprivacy.com](mailto:privacyuk@pallcprivacy.com) to request access to, correction, or deletion of Personal Data that you have provided to us. In some situations, we cannot delete Personal Data about you except by also deleting your user account. Please note that deletion of your account will cause you to lose your stored photos, completed and in-process projects, and all content you have uploaded for sale through any of our Services with Shops or Marketplaces. **If this Data is deleted by us at your request, we will not be able get it back for you if you change your mind in the future.** We may not be able to grant a request to change or delete Personal Data about you if we believe the change or deletion would violate any law or legal requirement or negatively affect the accuracy of the Data.
-    
-    If you delete your User Contributions from our Services, copies may still be viewable in cached and archived pages or where other users have copied or stored them. Our terms of use govern proper access and use of information provided on our Services, including User Contributions.
-    
 
-[![](https://d1i3miknt7yreb.cloudfront.net/planetart/us/images/planetart.svg)](https://www.planetart.com/)
+* Deny you goods or services.
+* Charge you different prices for goods or services, including through granting discounts or other benefits, or imposing penalties.
+* Provide you with a different level or quality of goods or services.
+* Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+**CCPA Notice of Financial Incentive**  
+We may offer you financial incentives for the collection, sale, retention, and use of your personal information as permitted by the CCPA that can, without limitation, result in reasonably different prices, rates, or quality levels.  
+  
+Pursuant to the CCPA, this Notice is to provide you with information regarding any financial incentive or “price or service difference" that we may provide in exchange for your personal information. The Personal Information collected from you in exchange for financial incentive or “price or service difference” may include collecting the following categories of personal information from customers who participate: identifiers; customer records; protected class and demographic information; commercial information and preferences; internet or other electronic network activity information and device information; audio, electronic, visual, or other sensory information; and inferences.  
+  
+In order to participate in our rewards program(s) and use our services, you may provide Personal Information from time to time, directly or indirectly, in exchange for cash, gift cards, or other financial incentive, or price or service difference, the amount or nature of which will be specified in each instance at the time the Personal Information is to be submitted. You can opt-in to the financial incentive or price or service difference by submitting Personal Information. If you wish to opt-out of the financial incentive or price or service difference, do not submit the Personal Information. If you opt-in and subsequently wish to withdraw from the financial incentive or price or service difference, you may request such withdrawal by contacting us here: [OneTrust Form](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6).  
+  
+Each financial incentive or price or service difference related to the collection and use of Personal Information is based upon our sole reasonable, good-faith determination of the estimated value of such information to our business, taking into consideration the value of the offer itself and the anticipated revenue generation that may be realized by rewarding brand loyalty. We calculate the value of the offer and financial incentive by using the expense related to the offer. By participating in any of the above promotional programs, you agree that the benefits are reasonably related to the value of the Personal Information collected and contained.
+
+**Other California Privacy Rights**
+
+In addition to your rights under the CCPA, California’s “Shine the Light” law (Civil Code Section § 1798.83) permits users of the Services that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. We do not disclose Personal Information to third parties for their direct marketing purposes. If you would like more information about our compliance with California’s “Shine the Light” law, please send an email to [privacy@pallcprivacy.com](mailto:privacy@pallcprivacy.com) or write us at:  
+  
+
+Privacy Program  
+Attn: Legal Department  
+23801 Calabasas Road  
+Calabasas, CA 91302  
+USA
+
+**Changes to this CCPA Notice**
+
+We reserve the right to amend this CCPA Notice at our discretion and at any time. When we make changes to this Notice, we will post the updated Notice on the Services and update the Notice’s effective date. **Your continued use of the Services following the posting of any changes to this Notice constitutes your acceptance of those changes.**
+
+**CCPA Contact Information**
+
+If you have questions or comments about this Notice, the ways in which we collect and use Personal Information, your choices and rights regarding such use, or you wish to exercise your rights under California law, please contact us at:
+
+Email: [privacy@planetart.com](mailto:privacy@planetart.com)  
+Web Form: [OneTrust Form](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6)  
+Postal Address: Privacy Program, Attention: Legal Department, 23801 Calabasas Road, Calabasas, California 91302-1547
+
+### 16\. Addendum for Persons Located in the European Union, UK, EEA and Switzerland
+
+This **Addendum for Persons Located in the European Union, UK, EEA and Switzerland** (this “GDPR Notice”) supplements the information contained in the Privacy Policy and applies solely to persons located in the EU, UK, EEA and Switzerland. We adopt this GDPR Notice to comply with GDPR, and any terms defined in GDPR (including Personal Data) have the same meaning when used in this GDPR Notice.
+
+**In General**
+
+We **do not** intentionally collect, use, process, share or store special categories of Personal Data, although you may provide information which constitutes special category Personal Data as part of your personalization choices.
+
+**Who is Responsible for Personal Data About You?**
+
+We are responsible for Personal Data about you. Specifically Personal Data is controlled by:
+
+Privacy Program,  
+Attention: Legal Department  
+Gateway House, Tollgate, Chandler’s Ford,  
+Eastleigh, Southampton, S053 3TG,  
+United Kingdom
+
+We have appointed ITG EU & GRCI Law to act as our EU and UK Representatives. If you wish to exercise your rights under EU GDPR or the UK GDPR or have any queries in relation to your rights or privacy matters generally please email from Europe [privacyeu@pallcprivacy.com](mailto:privacyeu@pallcprivacy.com), or from UK [privacyuk@pallcprivacy.com](mailto:privacyuk@pallcprivacy.com).
+
+We may need to request additional information from you in order to confirm your identity before responding to your request or question.
+
+**On Which EU Legal Basis Do We Process Personal Data About You?**
+
+Depending on the specific purpose or purposes for the processing of the Personal Data, we rely on the following legal grounds:
+
+* Performance of your customer contract or other contractual obligations or in order to take steps before entering into a contract with you;
+* Compliance with a legal obligation (such as record obligations for our commercial or tax purposes or other regulatory obligations);
+* Protection of your vital interests or the vital interests of another natural person; or
+* Our legitimate interests or those of any third-party recipients that receive the Personal Data, provided that such interests are not overridden by your interests or fundamental rights and freedoms;
+* Important reasons of public interest;
+* The establishment, exercise or defense of legal claims.
+
+Legitimate interests include, for example, developing and improving our internal administration or business and service processes, marketing and reputation activities, keeping our records up to date, handling and managing our legal and contractual duties and obligations, and compliance with internal and legal policies and regulations that apply to us.
+
+In addition, we process Personal Data to let you know about updates to products and services you have purchased from us or expressed interest in before.
+
+**Will Personal Data About You be Transferred Outside the EU/EEA?**
+
+Our headquarters and operations are in the United States, UK and Ireland. We strive to store and process EU, UK, EEA and Swiss Personal Data in Ireland, on the servers located in the EU. With the exception of Personal Creations and Café Press, all EU/EEA customer Personal Data is processed and stored on Amazon Web Services (AWS) servers located in Ireland (see more information below). Personal Creations and Café Press customer Personal Data is processed and stored on AWS Servers in the U.S.
+
+**Notice Re: EU-U.S. and Swiss-U.S. Privacy Shield, CJEU Schrems II Ruling and EU Standard Contract Clauses (SCC)**
+
+We have withdrawn from the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States as further described below.
+
+On July 16, 2020, the European Court of Justice (CJEU) determined that the EU-U.S. Privacy Shield framework is no longer valid for the transfer of Personal Data from the European Economic Area (EEA) to the U.S. (known as the Schrems II decision). The Schrems II decision also placed additional compliance requirements on the use of EU Standard Contract Clauses (SCC) for the transfer of EU/EEA Personal Data to the U.S. by companies subject to Section 702 of the U.S. Foreign Intelligence Surveillance Act (FISA) and/or Executive Order 12333 (E.O. 12333).
+
+We know our customers, website visitors, and business partners care deeply about privacy and data security, and we optimize our work to get these issues right. We’d like to confirm that you can continue to use our Services with regard to EU and EEA Personal Data in compliance with EU law.
+
+**First**, please know that it is our good-faith belief that the types of EU/EEA Personal Data we collect, use, process, share and/or store in the U.S. are not of the types of Personal Data that would generally be subject to requests from U.S. government authorities pursuant to FISA Section 702 and/or E.O. 12333.
+
+**Second**, please note that as part of our good-faith efforts to comply with applicable data protection laws, we strive to continue to store and process EU, EEA, UK and Swiss Personal Data in Ireland, on servers located in the EU. In compliance with the GDPR and other applicable laws we also implement data encryption, data minimization, data pseudonymization, and need to know access to Personal Data.
+
+**Third**, although we have withdrawn from Privacy Shield, we are retaining the data collected during our participation, and are providing adequate protection for such data by another authorized means.
+
+**Fourth**, when international transfer of Personal Data is necessary to perform a contract with you, or in individual cases for the purposes of our compelling legitimate business interests and in order to comply with our internal policies, contractual and legal obligations.
+
+If you represent one of our service providers or business partners and your organization is a party to an agreement with us that includes EU Standard Contract Clauses (SCC) for compliance with EU/EEA data protection laws, please contact us at [privacy@pallcprivacy.com](mailto:privacy@pallcprivacy.com) to discuss whether any updates to our agreement are needed resulting from the Schrems II decision.
+
+Trust is a top priority for us, and we will continue to work vigilantly to ensure that our customers, website visitors, and business partners are able to continue to enjoy the benefits of our Services securely, compliantly, and without disruption.
+
+**Your Consent to Transfer of Personal Data**
+
+In addition to the above, we may also process, store, and/or transfer Personal Data we collect about you, in and to a country outside the EU including the United States. Those other countries may have different privacy laws that may or may not be as comprehensive as your own.
+
+By submitting Personal Data or interacting with our Services, you consent to this transfer, storing, and/or processing including in the United States.
+
+* Your Personal Data Use Choices  
+    See Section 8 ([Your Choices About Our Use of Data](#8)) above.
+* How Can I Access or Correct Personal Data About Me?
+
+You may exercise your access, correction or deletion rights by using the form located at the **Manage Personal Information** link at the bottom of each webpage. Alternatively, you may send us an email from Europe at [privacyeu@pallcprivacy.com](mailto:privacyeu@pallcprivacy.com) or from the UK to [privacyuk@pallcprivacy.com](mailto:privacyuk@pallcprivacy.com) to request access to, correction, or deletion of Personal Data that you have provided to us. In some situations, we cannot delete Personal Data about you except by also deleting your user account. Please note that deletion of your account will cause you to lose your stored photos, completed and in-process projects, and all content you have uploaded for sale through any of our Services with Shops or Marketplaces. **If this Data is deleted by us at your request, we will not be able get it back for you if you change your mind in the future.** We may not be able to grant a request to change or delete Personal Data about you if we believe the change or deletion would violate any law or legal requirement or negatively affect the accuracy of the Data.
+
+If you delete your User Contributions from our Services, copies may still be viewable in cached and archived pages or where other users have copied or stored them. Our terms of use govern proper access and use of information provided on our Services, including User Contributions.
+
+[![](https://cdn-cms.planetart.com/planetart/en_US/app_block__navigation/planetart-1720559646.svg)](https://www.planetart.com/home)
 
 * [About](https://www.planetart.com/about)
 * [Press](https://www.planetart.com/press-release)
@@ -455,14 +450,14 @@ The CCPA provides California residents with specific rights regarding Personal I
 * [Internships](https://www.planetart.com/internships)
 * [Contact](https://www.planetart.com/contact)
 
-* [Home](https://www.planetart.com/)
+* [Home](https://www.planetart.com/home)
 * [About](https://www.planetart.com/about)
 * [Press](https://www.planetart.com/press-release)
 * [Jobs](https://apply.workable.com/planetart)
 * [Internships](https://www.planetart.com/internships)
-* [Contact](https://www.planetart.com/contact2)
+* [Contact](https://www.planetart.com/contact)
 
-[![](https://d1i3miknt7yreb.cloudfront.net/planetart/us/images/planetart.svg)](https://www.planetart.com/)
+[![](https://cdn-cms.planetart.com/planetart/en_US/app_block__navigation/planetart-1720559652.svg)](https://www.planetart.com/)
 
 ##### DO NOT SELL OR SHARE MY PERSONAL INFORMATION
 
@@ -470,5 +465,5 @@ We honor the sale and sharing preferences of users. You may exercise your right 
   
 For more information about our privacy practices, please review our [Privacy Policy](https://www.planetart.com/privacy-policy).
 
-[Privacy Policy](https://www.planetart.com/privacy-policy) | [Supplier Code of Conduct](https://www.planetart.com/coc.html) | [Manage Personal Information](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6)  
+[Privacy Policy](https://www.planetart.com/privacy-policy) | [Supplier Code of Conduct](https://www.planetart.com/coc.html) | [Manage Personal Information](https://privacyportal.onetrust.com/webform/4598626a-4210-4619-ad7d-305919e492b9/60beb590-0b2a-46d2-956d-3e3dab7075e6) | [Do Not Sell My Information](#do-not-sell-my-information)  
 Copyright©. All Rights Reserved.
