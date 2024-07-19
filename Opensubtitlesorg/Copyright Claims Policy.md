@@ -1,4 +1,4 @@
-* search in 7400552 subtitles
+* search in 9121624 subtitles
 * [Search](https://www.opensubtitles.org/en/search "subtitles Search")
 * [Upload](https://www.opensubtitles.org/en/upload "subtitles Upload")
 * [Request](https://www.opensubtitles.org/en/request "subtitles Request")
