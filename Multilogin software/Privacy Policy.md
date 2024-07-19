@@ -1,4 +1,4 @@
-<a href="https://www.livechat.com/chat-with/14893845/" rel="nofollow">Chat with us</a>, powered by<!-- --> <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="\_blank">LiveChat</a>
+<a href="https://www.livechat.com/chat-with/14893845/" rel="nofollow">Chat with us</a>, powered by<!-- --> <a href="https://www.livechat.com/?welcome" rel="noreferrer nofollow" target="\_blank">LiveChat</a>
 
 Multilogin | Privacy Policy
 
