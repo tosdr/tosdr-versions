@@ -205,9 +205,9 @@ _The miniOrange Privacy Policy is Copyright of miniOrange, Inc. All Rights Reser
 
 **Business Address:**  
 Ness Web Solutions, LLC  
-#2082  
-3300 Broadway St, STE 502  
-Eureka, CA 95501
+584 Castro St  
+#2009  
+San Francisco, CA 94114-2512
 
 Email Address: hello@nesswebsolutions.com  
 Support Email Address: support@nesswebsolutions.com
