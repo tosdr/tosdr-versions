@@ -2,7 +2,7 @@
 
 [![](https://applelaptopservice.center/wp-content/uploads/2022/02/phone-call.webp)](tel:+919594423645)
 
-        [Skip to content](#content "Skip to content")
+         [Skip to content](#content "Skip to content")
 
 [![Apple Service Center in Mumbai](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
