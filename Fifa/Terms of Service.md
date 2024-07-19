@@ -151,4 +151,4 @@ Nothing in these Terms shall affect the statutory rights of any consumer or excl
 
 Please report any violations of the Terms to FIFA via the [online contact form](https://www.fifa.com/about-fifa/organisation/contact-fifa).
 
-**Last updated:** Wednesday, 6 July 2022 at 09:53
+**Last updated:** Wednesday 6 July 2022 at 09:53
