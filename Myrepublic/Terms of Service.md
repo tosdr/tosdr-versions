@@ -92,22 +92,27 @@ Close
     * [Mobile Add-Ons](https://account.myrepublic.com.sg/)
     * [Mobile FAQs](https://intercom.help/myrepublicsg/en/collections/7710676-mobile-support-4g-5g)
     
-    * [eSIM](https://myrepublic.net/sg/mobile/esim)
-    * [Roaming](https://myrepublic.net/sg/mobile/roaming/)
-    * [Get MyRepublic App](https://myrepublic.net/sg/#mobile-app)
-    * [MR Talk App](https://myrepublic.net/sg/mobile/roaming/talk/)
-    * [IDD](https://myrepublic.net/sg/mobile/roaming/idd)
+    * [Travel](https://myrepublic.net/sg/mobile/travel/)
+    
+    * [Travel Boosters (Roaming)](https://myrepublic.net/sg/mobile/roaming/)
+    * [Pocket Wi-Fi](https://myrepublic.net/sg/mobile/pocket-wifi/)
+    * [Travel eSIM](https://myrepublic.net/sg/mobile/travel-esim/)
+    
+    * News
+    
     * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-3g-service-ending-transition-to-4g-5g)
     
-    * Huge Data Upgrade for all 4G plans!
+    * Boosted 5G Plans!
     
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20230'%3E%3C/svg%3E)
     
-    ![](https://myrepublic.net/sg/wp-content/uploads/2020/12/4G-Fireup-Web-Carousel-KV-promotions.jpg)](https://myrepublic.net//sg/fireup4g)
+    ![](https://myrepublic.net/sg/wp-content/uploads/2020/12/5G-Data-Upsize-Web-Carousel-Mockup-180624.png)](https://myrepublic.net/sg/5g/)
     
-    ### [Boost your mobile experience with all the data you’ll ever need.](https://myrepublic.net//sg/fireup4g)
+    ### [Live on the fast lane from $17.95/mth with 5G speeds and more data.](https://myrepublic.net/sg/5g/)
     
-    [Get Plans](https://myrepublic.net//sg/fireup4g)
+    [Get Plans](https://myrepublic.net/sg/5g/)
+    
+    * [Get MyRepublic App](https://myrepublic.net/sg/#mobile-app)
     
 * [Broadband](https://myrepublic.net/sg/broadband/)
     
@@ -137,7 +142,7 @@ Close
     * [Group Buys](https://myrepublic.net/sg/group-buys-new-homeowners-special/)
     
     * [Get MyRepublic App](https://myrepublic.net/sg/#mobile-app)
-    * [Broadband FAQ](https://support.myrepublic.com.sg/hc/en-us/categories/115000323193-Broadband)
+    * [Broadband FAQ](https://intercom.help/myrepublicsg/en/collections/7710694-broadband-voice-support)
     
     * Promotions
     
@@ -391,25 +396,34 @@ Menu
 * [Mobile Add-Ons](https://account.myrepublic.com.sg/)
 * [Mobile FAQs](https://intercom.help/myrepublicsg/en/collections/7710676-mobile-support-4g-5g)
 
+[Travel](https://myrepublic.net/sg/mobile/travel/)
+--------------------------------------------------
+
 Menu
 
-* [eSIM](https://myrepublic.net/sg/mobile/esim)
-* [Roaming](https://myrepublic.net/sg/mobile/roaming/)
-* [Get MyRepublic App](https://myrepublic.net/sg/app/)
-* [MR Talk App](https://myrepublic.net/sg/mobile/roaming/talk/)
-* [IDD](https://myrepublic.net/sg/mobile/roaming/idd)
+* [Travel Boosters (Roaming)](https://myrepublic.net/sg/mobile/roaming/)
+* [Pocket Wi-Fi](https://myrepublic.net/sg/mobile/pocket-wifi/)
+* [Travel eSIM](https://myrepublic.net/sg/mobile/travel-esim/)
+
+News
+----
+
+Menu
+
 * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-3g-service-ending-transition-to-4g-5g)
 
-Huge Data Upgrade for all 4G plans!
------------------------------------
+Boosted 5G Plans!
+-----------------
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20140%20107'%3E%3C/svg%3E)
 
-![](https://myrepublic.net/sg/wp-content/uploads/2022/08/4G-Fireup-Web-Carousel-KV-230424-mobile.jpg)](https://myrepublic.net//sg/fireup4g)
+![](https://myrepublic.net/sg/wp-content/uploads/2022/08/5G-Data-Upsize-Web-Carousel-Mockup-mob.png)](https://myrepublic.net/sg/5g/)
 
-### [Boost your mobile experience with all the data you’ll ever need.](https://myrepublic.net//sg/fireup4g)
+### [Live on the fast lane from $17.95/mth with 5G speeds and more data.](https://myrepublic.net/sg/5g/)
 
-[Get Plans](https://myrepublic.net//sg/fireup4g)
+[Get Plans](https://myrepublic.net/sg/5g/)
+
+* [Get MyRepublic App](https://myrepublic.net/sg/app/)
 
 Broadband
 ---------
@@ -426,7 +440,7 @@ Menu
 * [Referral Rewards](https://myrepublic.net/sg/fwb/)
 * [Group Buys](https://myrepublic.net/sg/group-buys-new-homeowners-special/)
 * [Get MyRepublic App](https://myrepublic.net/sg/#mobile-app)
-* [Broadband FAQ](https://support.myrepublic.com.sg/hc/en-us/categories/115000323193-Broadband)
+* [Broadband FAQ](https://intercom.help/myrepublicsg/en/collections/7710694-broadband-voice-support)
 
 Promotions
 ----------
@@ -855,9 +869,7 @@ Dated 31 March 2017
 * [Internet Security](https://myrepublic.net/sg/add-ons/internet-security/)
 * [VPN](https://myrepublic.net/sg/vpn/)
 * [Static-IP](https://myrepublic.net/sg/add-ons/static-ip/)
-* [Cabling Services](https://myrepublic.net/sg/add-ons/cabling-for-broadband/)
 * [Broadband One-Time Charges](https://myrepublic.net/sg/residential-broadband-one-time-charges/)
-* [Mobile One-Time Charges](https://myrepublic.net/sg/mobile-one-time-charges/)
 
 ###### Lifestyle
 
