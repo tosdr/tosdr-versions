@@ -682,7 +682,7 @@ Educació
 * [Microsoft Education](https://www.microsoft.com/education)
 * [Dispositius per a l'educació](https://www.microsoft.com/education/devices/overview)
 * [Microsoft Teams for Education](https://www.microsoft.com/education/products/teams)
-* [Microsoft 365 Education](https://www.microsoft.com/education/buy-license/microsoft365)
+* [Microsoft 365 Education](https://www.microsoft.com/education/products/microsoft-365)
 * [Office Education](https://www.microsoft.com/education/products/office)
 * [Formació i desenvolupament d'educadors](https://education.microsoft.com/)
 * [Ofertes per a alumnes i pares](https://www.microsoft.com/en-us/store/b/education)
