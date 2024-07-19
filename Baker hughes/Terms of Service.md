@@ -32,11 +32,11 @@ External
         
     * [Industrial Technology Solutions to improve efficiency and uptime in processing and manufacturing industries](https://www.bakerhughes.com/industrial-technology "Industrial Technology")
         
-    * [Subsea Connect Subsea solutions to enhance production, maximize recovery, and reduce TOTEX](https://www.bakerhughes.com/subsea-connect "Subsea Connect")
-        
-    * [Industrial Solutions Flexible and connected digital solutions for industrial machines, equipment, and systems](https://www.bakerhughes.com/cordant "Industrial Solutions")
+    * [Cordant™ Flexible and connected digital solutions for industrial machines, equipment, and systems](https://www.bakerhughes.com/cordant "Cordant™")
         
     * [Mature Assets Solutions Reviving mature Assets and accelerating impact through integrated solutions](https://www.bakerhughes.com/mature-assets-solutions "Mature Assets Solutions")
+        
+    * [Flare Reduction Creating new opportunities for value recovery and efficiency in flare reduction.](https://www.bakerhughes.com/flare-reduction "Flare Reduction")
         
     * [View All](https://www.bakerhughes.com/featured-solutions "View All")
         
@@ -967,7 +967,7 @@ External
                 
             * [Baker Hughes Italia](https://www.bakerhughes.com/baker-hughes-italia)
                 
-            * [Florence Learning Center](https://www.bakerhughes.com/florence-learning-center)
+            * [Florence Learning Center](https://www.bakerhughes.com/learning-centers/florence-learning-center)
                 
             
         
@@ -995,11 +995,11 @@ Search
         
     * [Industrial Technology Solutions to improve efficiency and uptime in processing and manufacturing industries](https://www.bakerhughes.com/industrial-technology "Industrial Technology")
         
-    * [Subsea Connect Subsea solutions to enhance production, maximize recovery, and reduce TOTEX](https://www.bakerhughes.com/subsea-connect "Subsea Connect")
-        
-    * [Industrial Solutions Flexible and connected digital solutions for industrial machines, equipment, and systems](https://www.bakerhughes.com/cordant "Industrial Solutions")
+    * [Cordant™ Flexible and connected digital solutions for industrial machines, equipment, and systems](https://www.bakerhughes.com/cordant "Cordant™")
         
     * [Mature Assets Solutions Reviving mature Assets and accelerating impact through integrated solutions](https://www.bakerhughes.com/mature-assets-solutions "Mature Assets Solutions")
+        
+    * [Flare Reduction Creating new opportunities for value recovery and efficiency in flare reduction.](https://www.bakerhughes.com/flare-reduction "Flare Reduction")
         
     * [View All](https://www.bakerhughes.com/featured-solutions "View All")
         
@@ -1930,7 +1930,7 @@ Search
                 
             * [Baker Hughes Italia](https://www.bakerhughes.com/baker-hughes-italia)
                 
-            * [Florence Learning Center](https://www.bakerhughes.com/florence-learning-center)
+            * [Florence Learning Center](https://www.bakerhughes.com/learning-centers/florence-learning-center)
                 
             
         
