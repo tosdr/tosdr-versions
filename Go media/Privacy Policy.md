@@ -27,9 +27,9 @@ Main Menu
 Privacy Policy
 ==============
 
-LAST UPDATED: December 20, 2023
+LAST UPDATED: July 1, 2024
 
-This privacy policy (“Privacy Policy”) details the use and collection of your information by the websites (the “Sites”) and Apps operated and owned by G/O Media, Inc. (“G/O”, “us” or “we”) and governs your access to the content and services hosted on our platform (the “Services”) and Apps. These Sites include The A.V. Club, Deadspin, Gizmodo, The Inventory, Jalopnik, Kotaku, The Onion, The Root, The Takeout, Quartz and the Quartz Apps.
+This privacy policy (“Privacy Policy”) details the use and collection of your information by the websites (the “Sites”) and Apps operated and owned by G/O Media, Inc. (“G/O”, “us” or “we”) and governs your access to the content and services hosted on our platform (the “Services”) and Apps. These Sites include The A.V. Club, Gizmodo, The Inventory, Jalopnik, Kotaku, The Onion, The Root, Quartz and the Quartz Apps.
 
 We value your privacy and recognize our role in protecting your personal data. Please read this Privacy Policy carefully before using or proceeding to access the Sites. Your use of the Sites and Services indicate that you are accepting the policies and practices described in this Privacy Policy. To access our terms of use, please click [here](http://g-omedia.com/terms-of-service/).
 
@@ -191,9 +191,11 @@ As indicated above in our privacy policy, we honor the GPC signal. You may enabl
 
 You may authorize an agent to submit requests to exercise any of the rights above to us by having them email us at [privacy@g-omedia.com](mailto:privacy@g-omedia.com). Under the CCPA, an authorized agent is a person or a business registered with the California secretary of state, authorized on your behalf to submit these requests. We will still need to verify your identity unless your agent has a signed power of attorney on your behalf. We reserve the right to deny any request if an agent cannot provide proof that they are authorized.
 
-**XIII.** **Colorado Privacy Rights – Notice to Colorado Users**
+**XIII. Colorado, Connecticut, Oregon, Texas, Utah and Virginia Privacy Rights**
 
-If you are a Colorado resident, you have certain rights with respect to your “Personal Data” as defined and described under the Colorado Privacy Act (“CPA”). These rights include:
+**Opt Out of Targeted Advertising and “Sales or Sharing” of Personal Information**
+
+Residents of certain jurisdictions, including Colorado, Connecticut, Nevada, Oregon, Texas, Utah and Virginia, have the right to opt out of targeted advertising and “sales or sharing” (as defined under applicable law) of their personal information. If you are in one of those jurisdictions, in order to exercise your right to opt out of targeted advertising or “sales” of your personal information, please click on the “Your Privacy Choices” link at the bottom of our website and follow the instructions as provided. You may also have the following rights:
 
 * Right to Access/Know
 * Right to Correct Inaccuracies
@@ -203,7 +205,7 @@ If you are a Colorado resident, you have certain rights with respect to your “
 * Right to Not be Discriminated Against
 * Right to Appeal
 
-To exercise your right to access/know, delete or to opt-out of a sale or share of your Personal Data, please click [here](https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete) or click on the “Your Privacy Choices” link on the footer of our homepage.  You will be directed to a form to exercise your choice or provide further information to process your request. To exercise any of the other rights above, please email [privacy@g-omedia.com](mailto:privacy@g-omedia.com) with your request. For any of the requests above, you may be asked for further information such as your user account name or your state or country of residence so that we may verify your identity. You may also opt-out of the sale of your Personal Data by enabling the GPC as described [here](https://globalprivacycontrol.org/).
+To exercise your right to access/know, delete or to opt-out of a sale or share of your Personal Data, you may click [here](https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete). You will be directed to a form to exercise your choice or provide further information to process your request. To exercise any of the other rights above, please email [privacy@g-omedia.com](mailto:privacy@g-omedia.com) with your request. For any of the requests above, you may be asked for further information such as your user account name or your state or country of residence so that we may verify your identity. You may also opt-out of the sale of your Personal Data by enabling the GPC as described [here](https://globalprivacycontrol.org/).
 
 **Categories and Business Purposes for Processing Personal Data**
 
@@ -224,107 +226,9 @@ We do not sell Personal Data to Third Parties (as defined under the CPA). We act
 
 **Authorized Agent**
 
-You (the “Consumer”) may authorize an agent to submit requests to exercise any of the rights above to us by having them email us at [privacy@g-omedia.com](mailto:privacy@g-omedia.com). Under the CPA, an authorized agent is a person or entity authorized by a Consumer to act on the Consumer’s behalf. We will still need to verify the agent’s authority and your identity unless your agent has a signed power of attorney on your behalf. We reserve the right to deny any request if an agent cannot provide proof that they are authorized.
+In certain states, you (the “Consumer”) may authorize an agent to submit requests to exercise any of the rights above to us by having them email us at privacy@g-omedia.com.  An authorized agent is a person or entity authorized by a Consumer to act on the Consumer’s behalf. We will still need to verify the agent’s authority and your identity unless your agent has a signed power of attorney on your behalf. We reserve the right to deny any request if an agent cannot provide proof that they are authorized.
 
-**XIV.** **Connecticut Privacy Rights – Notice to Connecticut Users**
-
-If you are a Connecticut resident, you have certain rights with respect to your “Personal Data” as defined and described under the Connecticut Data Privacy Act (“CTDPA”). These rights include:
-
-* Right to Access/Know
-* Right to Correct
-* Right to Delete
-* Right to Data Portability
-* Right to Opt-Out
-* Right to Appeal
-* Right to Not be Discriminated Against
-
-To exercise your right to access, delete or to opt-out of a sale or share of your Personal Data, please click [here](https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete) or click on the “Your Privacy Choices” link on the footer of our homepage.  You will be directed to a form to exercise your choice or provide further information to process your request. To exercise any of the other rights above, please email [privacy@g-omedia.com](mailto:privacy@g-omedia.com) with your request. For any of the requests above, you may be asked for further information such as your user account name or your state or country of residence so that we may verify your identity. You may also opt-out of the sale of your Personal Data by enabling the GPC as described [here](https://globalprivacycontrol.org/).
-
-**Categories and Business Purposes for Processing Personal Data**
-
-The categories of Personal Data collected and processed are as indicated in this privacy policy for the business purposes above (please click on each for more information):
-
-* [Submissions to Us](#S1)
-* [Content Submissions](#S2)
-* [Location Data](#S3)
-* [Social Media Interactions](#S4)
-* [Marketing Updates](#S5)
-* [Contests, Surveys, Sweepstakes, Promotions](#S6)
-* [Automatic Usage Data Collection Through Cookies and Similar Technologies](#S7)
-* [Vendor Use in Accordance with our Privacy Policy](#S8)
-
-**Third Parties**
-
-We do not sell Personal Data to third parties (as defined under the VDCPA). We act as controllers and process Personal Data in accordance with our privacy policy.
-
-**Authorized Agent**
-
-You (the “Consumer”) may authorize an agent to submit requests to exercise any of the rights above to us by having them email us at [privacy@g-omedia.com](mailto:privacy@g-omedia.com). Under the CTDPA, an authorized agent is a person or entity authorized by a Consumer to act on the Consumer’s behalf, to opt out of the processing of the consumer’s personal data for one or more purpose listed above. We will still need to verify the agent’s authority and your identity unless your agent has a signed power of attorney on your behalf. We reserve the right to deny any request if an agent cannot provide proof that they are authorized.
-
-**XV.** **Nevada Privacy Rights – Notice to Nevada Users**
-
-If you are a Nevada resident, under Nevada privacy law SB220, you may opt out of companies transacting in your personal data and “selling” it to third parties as defined under the law. To exercise your opt-out right, please contact us at [privacy@g-omedia.com](mailto:privacy@g-omedia.com). Please note that there are legitimate business exceptions that the law affords to companies and your request may not be processed if it falls under such exceptions.
-
-**XVI.** **Virginia Privacy Rights – Notice to Virginia Users**
-
-If you are a Virginia resident, you have certain rights with respect to your Personal Data as described under the Virginia Consumer Data Protection Act (VDCPA). These rights include:
-
-* Right to Access
-* Right to Correct
-* Right to Delete
-* Right to Data Portability
-* Right to Opt-Out
-* Right to Appeal
-
-To exercise your right to know, delete or to opt-out of a sale of your Personal Information, please click [here](https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete) or click on the “Your Privacy Choices” link on the footer of our homepage.  You will be directed to a form to exercise your choice or provide further information to process your request. To exercise any of the other rights above, please email [privacy@g-omedia.com](mailto:privacy@g-omedia.com) with your request. For any of the requests above, you may be asked for further information such as your user account name or your state or country of residence so that we may verify your identity. You may also opt-out of the sale of your Personal Data by enabling the GPC as described [here](https://globalprivacycontrol.org/).
-
-**Categories and Business Purposes for Processing Personal Data**
-
-The categories of Personal Data collected and processed are as indicated in this privacy policy for the business purposes above (please click on each for more information):
-
-* [Submissions to Us](#S1)
-* [Content Submissions](#S2)
-* [Location Data](#S3)
-* [Social Media Interactions](#S4)
-* [Marketing Updates](#S5)
-* [Contests, Surveys, Sweepstakes, Promotions](#S6)
-* [Automatic Usage Data Collection Through Cookies and Similar Technologies](#S7)
-* [Vendor Use in Accordance with our Privacy Policy](#S8)
-
-**Third Parties**
-
-We do not sell Personal Data to third parties (as defined under the VDCPA). We act as controllers and process Personal Data in accordance with our privacy policy.
-
-XVII. Utah Privacy Rights – Notice to Utah Users
-
-If you are a Utah resident, you have certain rights with respect to your Personal Data as described under the Utah Consumer Privacy Act (UCPA). These rights include:
-
-* Right to Access
-* Right to Delete
-* Right to Data Portability
-* Right to Opt-Out of Processing of Personal Data for Targeted Advertising
-* Right to Opt-Out of a “Sale”
-
-To exercise your right to access or delete Personal Data, please click [here](https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete).  You will be directed to a form to exercise your choice or provide further information to process your request. To exercise any of the other rights above, please email [privacy@g-omedia.com](mailto:privacy@g-omedia.com) with your request. For any of the requests above, you may be asked for further information such as your user account name or your state or country of residence so that we may verify your identity. You may also opt-out of the sale of your Personal Data by enabling the GPC as described [here](https://globalprivacycontrol.org/).
-
-Categories and Business Purposes for Processing Personal Data
-
-The categories of Personal Data collected and processed are as indicated in this privacy policy for the business purposes above (please click on each for more information):
-
-* [Submissions to Us](#S1)
-* [Content Submissions](#S2)
-* [Location Data](#S3)
-* [Social Media Interactions](#S4)
-* [Marketing Updates](#S5)
-* [Contests, Surveys, Sweepstakes, Promotions](#S6)
-* [Automatic Usage Data Collection Through Cookies and Similar Technologies](#S7)
-* [Vendor Use in Accordance with our Privacy Policy](#S8)
-
-Third Parties
-
-We do not sell Personal Data to third parties (as defined under the VDCPA). We act as controllers and process Personal Data in accordance with our privacy policy.
-
-**XVIII.** **Changes to this Privacy Policy**
+**XIV.** **Changes to this Privacy Policy**
 
 G/O Media may make changes to this privacy policy at any time. If and when we do, we will inform you by posting the revised privacy policy here. You are responsible for periodically visiting this page to check for any changes. Any changes that are made will apply to both personal information that we help prior to the effective date of the amended privacy policy and any personal information that we collect on or after such effective date. Your continued use of the Sites after this privacy policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the privacy policy, as amended.
 
