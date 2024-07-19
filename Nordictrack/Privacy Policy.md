@@ -12,6 +12,8 @@ X
 
  
 
+[SUMMER SALE](https://www.nordictrack.com/specials)
+
 [Treadmills](https://www.nordictrack.com/treadmills)
 
 [Bikes](https://www.nordictrack.com/exercise-bikes)
@@ -21,8 +23,6 @@ X
 [Rowers](https://www.nordictrack.com/rowers)
 
 [Strength](https://www.nordictrack.com/strength-training)
-
-[NordicTrack+](https://www.nordictrack.com/nordictrack-plus)
 
 iFIT Workouts ![arrow down](https://iconcdn-res.cloudinary.com/image/upload/v1691477389/nordictrack.com/cdn/images/icons/arrow-down.svg) 
 
@@ -57,7 +57,7 @@ iFIT Workouts ![arrow down](https://iconcdn-res.cloudinary.com/image/upload/v169
 
 [Strength](https://www.nordictrack.com/strength-training)
 
-[NordicTrack+](https://www.nordictrack.com/nordictrack-plus)
+[SUMMER SALE](https://www.nordictrack.com/specials)
 
 iFIT Workouts
 
@@ -633,7 +633,7 @@ Contact Us
 
 [Privacy Policy](https://www.ifit.com/privacy-policy) [Cookie Policy](https://www.nordictrack.com/cookie-policy) [Mobile Terms and Conditions](https://www.ifit.com/mobile-terms-and-conditions) [Membership Policy](https://www.ifit.com/terms-of-membership) [Do not sell or share my personal information](https://www.nordictrack.com/cookie-policy)
 
-Pricing valid only within the Continental U.S. Site Last Updated on 20 Jun 2024 | Copyright ©2024 iFIT Inc.
+Pricing valid only within the Continental U.S. Site Last Updated on 19 Jul 2024 | Copyright ©2024 iFIT Inc.
 
 CLOSE
 
@@ -1007,4 +1007,4 @@ Will I be charged fees if I checkout with TD Fit Loan?
 
 No, there are no fees with this TD Fit Loan we are offering at checkout, with participating retailers. That means no late fees, no prepayment fees, no annual fees, and no fees to open or close your account.
 
-prdblc17
+prdblc19
