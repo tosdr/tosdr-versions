@@ -128,11 +128,11 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
-    [![Banking icon](/sites/default/files/2024-04/finance.svg)
+    [![web value calculator icon](/sites/default/files/2024-07/web-value-calculator-icon.svg)
     
-    Finserv Insights
+    What’s observability worth to you?
     
-    Explore how observability revolutionizes finance and insurance industries.](https://newrelic.com/resources/report/state-of-observability-financial)
+    Measure the value of improved uptime, operations, and innovation.](https://newrelic.com/platform/value-calculator)
     
     [![Kubernetes icon](/sites/default/files/2024-04/kubernates.svg)
     
@@ -246,6 +246,7 @@ Submit
     * [New Relic for Students](https://newrelic.com/students)
     * [Newsroom](https://newrelic.com/about/newsroom)
     * [ESG](https://newrelic.com/about/environmental-social-governance)
+    * [Community Forum](https://forum.newrelic.com/s)
     
     * [Resource Library
         
@@ -253,9 +254,9 @@ Submit
     * [New Relic Blog
         
         Industry updates, tips, and best practices.](https://newrelic.com/blog)
-    * [Community Forum
+    * [Observability Value Calculator
         
-        Ask a question, share an answer.](https://forum.newrelic.com/s/)
+        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     * [Events & Webinars
         
         Join us for an upcoming event or training.](https://newrelic.com/events)
@@ -303,7 +304,7 @@ New Relic, Inc.
 General Data Privacy Notice
 ===========================
 
-Last updated December 20, 2023\*
+Last updated July 1, 2024\*
 
 Welcome to New Relic! New Relic's full-stack data analysis platform enables businesses to have a clearer view of what’s happening in their software.
 
@@ -340,7 +341,7 @@ We recommend that you read this General Privacy Notice in full to ensure you are
 
 “Personal Data” means any information relating to an identified or identifiable individual, including, for example, your name, phone number, post code or zip code, Device ID, IP address and email address. Further information about the Personal Data that we collect, where we collect it from, and how we use it is set out below.  
   
-“Sites” means the websites that display or link to this General Privacy Notice, such as [www.newrelic.com](http://www.newrelic.com/),  [status.newrelic.com](http://status.newrelic.com/),  [learn.newrelic.com](http://learn.newrelic.com/),  [discuss.newrelic.com](http://discuss.newrelic.com/),  [www.newrelic.jp](http://www.newrelic.jp/),  [www.newrelic.de](http://www.newrelic.de/), [codestream.com](https://newrelic.com/termsandconditions/%E2%80%9D), [pixielabs.ai](https://newrelic.com/termsandconditions/%E2%80%9D) and any related New Relic website operated by New Relic.  
+“Sites” means the websites that display or link to this General Privacy Notice, such as [www.newrelic.com](http://www.newrelic.com/),  [status.newrelic.com](http://status.newrelic.com/),  [learn.newrelic.com](http://learn.newrelic.com/),  [discuss.newrelic.com](http://discuss.newrelic.com/),  [www.newrelic.jp](http://www.newrelic.jp/),  [www.newrelic.de](http://www.newrelic.de/), [codestream.com](https://newrelic.com/termsandconditions/%E2%80%9D), [pixielabs.ai](https://newrelic.com/termsandconditions/%E2%80%9D), [relibirds.newrelic-es.com](https://relibirds.newrelic-es.com/) and any related New Relic website operated by New Relic.  
   
 Undefined terms used in this General Privacy Notice have the same definition as in our [Terms of Service](https://newrelic.com/termsandconditions/paid/).
 
@@ -354,7 +355,7 @@ For more information about New Relic, please see the [“About Us”](https://ne
 
 3\. The Information We Collect About You  
 
-New Relic collects Personal Data about you both offline and online. Offline information about you originates from our interactions with you, for example, during in-person meetings or at New Relic events, conferences, or workshops. Online information originates from your activities on our Sites and third party sources. The Personal Data we collect includes information such as your name, mailing or billing address, credit card information, username, GitHub ID, email address, company name, IP or MAC address. We collect this information so we know who you are for various reasons, including to communicate with you, bill you correctly, and to enable you to log-in to and use New Relic Sites and New Relic Separate Platforms.  
+New Relic collects Personal Data about you both offline and online. Offline information about you originates from our interactions with you, for example, during in-person meetings or at New Relic events, conferences, or workshops. Online information originates from your activities on our Sites and third party sources. The Personal Data we may collect includes information such as your name, mailing or billing address, credit card information, username, GitHub ID, email address, company name, IP or MAC address. We collect this information so we know who you are for various reasons, including to communicate with you, bill you correctly, and to enable you to log-in to and use New Relic Sites and New Relic Separate Platforms.  
 For more information on the types of Personal Data we collect and how we may receive it, click on “Read more”.
 
 Read more
@@ -366,7 +367,7 @@ a. Personal Data Categories
 |     |     |
 | --- | --- |
 | Personal Data category | Examples of Personal Data included |
-| Contact information | Your name, job title, company name, mailing address, phone number, email address, username, password |
+| Contact information | Your name, job title, company name, mailing address, phone number, email address, username, password. Please note that if you are participating in a New Relic online game, e.g., Relibirds, or in any online forum, e.g., New Relic Explorers Hub, you will be prompted to enter a unique username or alias. As this will be publicly visible, New Relic recommends using an alias here instead of your own name/surname. |
 | Financial & billing information | Your billing name and address, credit card number, bank account information |
 | Event visitor information | Your name, title, company name, mailing address, country, phone number, email address |
 | Community profile information | Username, photo and/or biographical information, such as your occupation, social media profiles, profile on Stack Overflow, Github ID, company name, areas of expertise, custom profiles |
@@ -521,7 +522,7 @@ You can opt out of receiving marketing communications from us at any time by cli
 
 Should you decide to opt-out of receiving future mailings, we will retain a record of your preference (including retaining your email address) and we may share your email address with third parties solely for the purpose of ensuring that you do not receive further marketing communications related to our Services from third parties.
 
-b. We apply certain **data protection rights to all individuals (including individuals covered by the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF)**, regardless of location. Specifically, you may correct or update Personal Data contained in your account by editing your profile within the registration portion of our Sites or sending an email to Privacy@newrelic.com. You may also request we delete your account information by completing this [form](https://support.newrelic.com/s/data-privacy-rights), if you have an account, or by sending an email to Personaldatarequests@newrelic.com. If you would like to remove your Personal Data from a Site testimonial or our blog you can send an email to Personaldatarequests@newrelic.com.
+b. We apply certain **data protection rights to all individuals (including individuals covered by the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF)**, regardless of location. Specifically, you may correct or update Personal Data contained in your account by editing your profile within the registration portion of our Sites or sending an email to Personaldatarequests@newrelic.com. You may also request we delete your account information by completing this [form](https://login.newrelic.com/?login_challenge=06577f1a988841f4bf167b866c0418b9), if you have an account, or by sending an email to Personaldatarequests@newrelic.com. If you would like to remove your Personal Data from a Site testimonial or our blog you can send an email to Personaldatarequests@newrelic.com. If you have participated in an online game, e.g. Relibirds or in any online New Relic forum, e.g. New Relic Explorers hub and would like to have your Personal Data deleted, please send an email to Personaldatarequests@newrelic.com and specify which game and/or forum you participated in; this will enable us to identify your Personal Data and fulfill your request. Please note that if you engage in messaging other users of a public forum, another user may request deletion of the message(s) which means that they will no longer be available for any user to view.
 
 When you reach out to us, we will endeavor to respond without delay in accordance with applicable data protection laws. We may need to ask you additional clarifying questions in order to accurately respond to your request and to verify you are making the request in respect of your own Personal Data.
 
@@ -589,7 +590,9 @@ If we refuse to take action on a data protection request that you have made, you
 
 If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
 
-i. If you are a Utah resident, you have some additional data protection rights under the Utah Consumer Privacy Act in addition to the right to delete Personal Data outlined above.
+i. Utah
+
+If you are a Utah resident, you have some additional data protection rights under the Utah Consumer Privacy Act in addition to the right to delete Personal Data outlined above.
 
 You can request that we confirm if we actually process your Personal Data and request access to such Personal Data. You have the right to request a portable copy of the Personal Data that you provided to us. You have the right to opt out of the processing of the Personal Data for purposes of targeted advertising and the sale of Personal Data. Please note that New Relic does not “sell” your Personal Data as the term “sale” is defined in the Utah Consumer Privacy Act. New Relic engages in targeted advertising as that term is defined under the Utah Consumer Privacy Act. This means that New Relic may disclose Personal Data for targeted advertising in line with your choices.
 
@@ -597,7 +600,31 @@ You may opt out of the disclosure of your Personal Data for targeted advertising
 
 If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us)
 
-j. Australia Supplemental Data Protection Law Disclosures. New Relic will process Personal Data under this General Data Privacy Notice in accordance with the Australian Privacy Act 1988 and the Australia Privacy Principles. If you are **an Australian resident** and you are dissatisfied with our handling of a data subject right request or a complaint, you can always contact us at Privacy@newrelic.com. If you disagree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (“OAIC”) by contacting the OAIC using the methods listed on their website http://www.oaic.gov.au.
+j. Oregon
+
+If you are an Oregon resident, you have some additional data protection rights under the Oregon Consumer Privacy Act in respect of Personal Data that we collect and/or process on you, which are in addition to the rights to correct, update, or request to delete such Personal Data (including any derived data) as outlined above. Where we have collected and processed your Personal Data on the basis of consent, you can withdraw your consent at any time. You should note that withdrawing your consent will not affect the lawfulness of any processing we conducted prior to the withdrawal, nor will it affect the processing of your Personal Data where we relied on lawful bases other than consent. The withdrawal of consent may mean however that certain services are no longer available to you.
+
+You can request that we confirm if we actually process, or processed, your Personal Data and request access to such Personal Data. You have the right to request a copy of your Personal Data processed by us in a portable and, to the extent technically feasible, readily usable format where the processing is carried out by automated means subject to applicable restrictions. You have the right to know what third parties we have disclosed your Personal Data to. You have the right to opt out of the processing of the Personal Data for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of solely automated decisions that produce a legal or other significant impact concerning the consumer. Please note that New Relic does not “sell” your personal data as the term “sale” is defined in the Oregon Consumer Privacy Act. New Relic engages in targeted advertising as that term is defined under the Oregon Consumer Privacy Act. This means that New Relic may disclose personal Data for targeted advertising in line with your choices.
+
+You may opt out of the disclosure of your personal data for targeted advertising by clicking on the Your Privacy Choices tab on www.newrelic.com or by contacting us at privacy@newrelic.com with the subject line “Oregon Do Not Disclose My Data for Targeted Advertising”. You have the right not to be discriminated against based on exercising your data protection rights, and we do not discriminate against any individual for doing so. In order to protect your Personal Data from unauthorized access, we may require you to verify your credentials before you can submit a data protection request. If you do not have an account with us, or if we suspect that your account has been accessed without your authorization, we may ask you to provide additional personal information for verification purposes.
+
+If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 45 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Oregon Attorney General at the following address: [www.doj.state.or.us/consumer-protection/contact-us/](https://www.doj.state.or.us/consumer-protection/contact-us/).
+
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us)](#how_to_contact_us).
+
+k. Texas
+
+If you are a Texas resident, you have some additional data protection rights under the Texas Data Privacy & Security Act in respect of Personal Data that we collect and/or process on you, which are in addition to the rights to correct, update, or request to delete such Personal Data as outlined above.
+
+You can request that we confirm if we actually process your Personal Data and request access to such Personal Data. You have the right to request a copy of your Personal Data processed by us in a portable and, to the extent technically feasible, readily usable format where the processing is carried out by automated means subject to applicable restrictions. You have the right to opt out of the processing of the Personal Data for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of solely automated decisions that produce a legal or other significant impact concerning the consumer. Please note that New Relic does not “sell” your personal data as the term “sale” is defined in the Texas Data Privacy & Security Act. New Relic engages in targeted advertising as that term is defined under the Texas Data Privacy & Security Act. This means that New Relic may disclose personal Data for targeted advertising in line with your choices.
+
+You may opt out of the disclosure of your personal data for targeted advertising by clicking on the Your Privacy Choices tab on www.newrelic.com or by contacting us at privacy@newrelic.com with the subject line “Texas Do Not Disclose My Data for Targeted Advertising”. In order to protect your Personal Data from unauthorized access, we may require you to verify your credentials before you can submit a data protection request. If you do not have an account with us, or if we suspect that your account has been accessed without your authorization, we may ask you to provide additional personal information for verification purposes.
+
+If we refuse to take action on a data protection request that you have made, you may appeal our decision within a reasonable period of time by contacting us at privacy@newrelic.com and specifying that you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to the Connecticut Attorney General by following the instructions here: [www.texasattorneygeneral.gov/contact-us](https://texasattorneygeneral.gov/contact-us).
+
+If you have any questions about New Relic’s privacy practices, you can contact us as described in [Section 16 (How to Contact Us).](#how_to_contact_us)
+
+l. Australia Supplemental Data Protection Law Disclosures. New Relic will process Personal Data under this General Data Privacy Notice in accordance with the Australian Privacy Act 1988 and the Australia Privacy Principles. If you are **an Australian resident** and you are dissatisfied with our handling of a data subject right request or a complaint, you can always contact us at Privacy@newrelic.com. If you disagree with the resolution proposed by us, you may make a complaint to the Office of the Australian Information Commissioner (“OAIC”) by contacting the OAIC using the methods listed on their website http://www.oaic.gov.au.
 
 10\. Do Not Track and Global Privacy Control  
 
@@ -658,10 +685,13 @@ For any complaints regarding our compliance with our privacy and security practi
 
 The data controller of your Personal Data for all countries that New Relic does business is New Relic, Inc., unless you have contracted directly with New Relic, K.K. in Japan, in which case New Relic, K.K. is the data controller.
 
-\*Updated on December 20, 2023 with additional information on uses and disclosures on personal data.
+\*Updated on July 1, 2024 with additional information on uses and disclosures on personal data.
+
+You may download a PDF copy of this Privacy Notice [here](https://newrelic.com/sites/default/files/2024-07/July%202024%20-New%20Relic%20General%20Data%20Privacy%20Notice.pdf).
 
 Prior Versions
 
+[December 20, 2023](https://newrelic.com/termsandconditions/privacy/20dec2023)  
 [November 7, 2023](https://newrelic.com/termsandconditions/privacy/7nov2023)  
 [October 3, 2023](https://newrelic.com/termsandconditions/privacy/3oct2023)  
 [August 10, 2023](https://newrelic.com/termsandconditions/privacy/10aug2022)  
