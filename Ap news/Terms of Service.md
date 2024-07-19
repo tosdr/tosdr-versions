@@ -1,6 +1,6 @@
 Menu
 
- [![AP Logo](https://assets.apnews.com/fa/ba/9258a7114f5ba5c7202aaa1bdd66/aplogo.svg)](https://apnews.com/)
+ [![Image](https://assets.apnews.com/fa/ba/9258a7114f5ba5c7202aaa1bdd66/aplogo.svg)](https://apnews.com/)
 
 Menu
 
@@ -28,17 +28,9 @@ Menu
     
 * [Newsletters](https://apnews.com/newsletters)
     
-* [Video](https://apnews.com/video)
-    
 * [Photography](https://apnews.com/photography)
     
-* [Climate](https://apnews.com/climate-and-environment)
-    
 * [Health](https://apnews.com/health)
-    
-* [Personal Finance](https://apnews.com/hub/personal-finance)
-    
-* [AP Investigations](https://apnews.com/hub/ap-investigations/)
     
 * [Tech](https://apnews.com/technology)
     
@@ -107,7 +99,6 @@ Menu
     * [Business](https://apnews.com/business)
         
         * [Inflation](https://apnews.com/hub/inflation)
-        * [Personal finance](https://apnews.com/hub/personal-finance)
         * [Financial Markets](https://apnews.com/hub/financial-markets)
         * [Business Highlights](https://apnews.com/hub/business-highlights)
         * [Financial wellness](https://apnews.com/hub/financial-wellness)
@@ -122,17 +113,9 @@ Menu
         
     * [Newsletters](https://apnews.com/newsletters)
         
-    * [Video](https://apnews.com/video)
-        
     * [Photography](https://apnews.com/photography)
         
-    * [Climate](https://apnews.com/climate-and-environment)
-        
     * [Health](https://apnews.com/health)
-        
-    * [Personal Finance](https://apnews.com/hub/personal-finance)
-        
-    * [AP Investigations](https://apnews.com/hub/ap-investigations/)
         
     * [Tech](https://apnews.com/technology)
         
@@ -208,7 +191,6 @@ Show Search
 * [Business](https://apnews.com/business)
     
     * [Inflation](https://apnews.com/hub/inflation)
-    * [Personal finance](https://apnews.com/hub/personal-finance)
     * [Financial Markets](https://apnews.com/hub/financial-markets)
     * [Business Highlights](https://apnews.com/hub/business-highlights)
     * [Financial wellness](https://apnews.com/hub/financial-wellness)
@@ -223,17 +205,9 @@ Show Search
     
 * [Newsletters](https://apnews.com/newsletters)
     
-* [Video](https://apnews.com/video)
-    
 * [Photography](https://apnews.com/photography)
     
-* [Climate](https://apnews.com/climate-and-environment)
-    
 * [Health](https://apnews.com/health)
-    
-* [Personal Finance](https://apnews.com/hub/personal-finance)
-    
-* [AP Investigations](https://apnews.com/hub/ap-investigations/)
     
 * [Tech](https://apnews.com/technology)
     
@@ -253,7 +227,7 @@ Show Search
 * [My Account](https://apnews.com/myaccount)
     
 
-*   ![](https://dims.apnews.com/dims4/default/94c503b/2147483647/strip/true/crop/640x236+0+0/resize/320x118!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F4c%2F65482a7b452db66043542c093eaf%2Fpromo-2x.png)
+*   ![Image](https://dims.apnews.com/dims4/default/94c503b/2147483647/strip/true/crop/640x236+0+0/resize/320x118!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc3%2F4c%2F65482a7b452db66043542c093eaf%2Fpromo-2x.png)
     
     The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.
     
@@ -291,15 +265,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Donald Sutherland dies](https://apnews.com/article/donald-sutherland-dies-68b0713a89774964b88ce0a1cc55cc18)
+[Live updates: RNC Day 4](https://apnews.com/live/rnc-trump-biden-election-updates)
 
-[Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
+[Biden and Democrats](https://apnews.com/article/biden-democrats-drop-out-election-2024-3f9e3d15431fd4974771a54e1d0e4ea7)
 
-[Copa America](https://apnews.com/article/canada-argentina-score-69ffea8264d44a35eb0f686635e45a00)
+[Netflix Q2 results](https://apnews.com/article/netflix-video-streaming-subscribers-earnings-second-quarter-d77c9a1f7ce29d1647354a7acf70a7ea)
 
-[Ten Commandments](https://apnews.com/article/governor-jeff-landry-louisiana-conservative-bef181b17cb5a5819514c7c68ae8f2e1)
+[Bob Newhart](https://apnews.com/article/bob-newhart-dead-799460b72b3c47e7aaf4eeb246f00b8c)
 
-[Taylor Swift](https://apnews.com/article/taylor-swift-eras-tour-london-6b25a44d14749d93d607064c77523151)
+[Lou Dobbs](https://apnews.com/article/lou-dobbs-obituary-76c799df42c6b7d4912dece5d180b2de)
 
 The Associated Press
 ====================
@@ -622,7 +596,7 @@ For claims of copyright infringement under the Digital Millennium Copyright Act:
 
 Copyright 2024 The Associated Press.
 
-  [![](https://dims.apnews.com/dims4/default/8650001/2147483647/strip/true/crop/992x617+0+0/resize/225x140!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F24%2F7ff11448446fb8500bc984551325%2Faplogo-with-tagline.png)](https://apnews.com/)
+  [![Image](https://dims.apnews.com/dims4/default/8650001/2147483647/strip/true/crop/992x617+0+0/resize/225x140!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F24%2F7ff11448446fb8500bc984551325%2Faplogo-with-tagline.png)](https://apnews.com/)
 
 The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.
 
