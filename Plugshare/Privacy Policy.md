@@ -431,9 +431,9 @@ We cannot respond to your request or provide you with Personal Information if we
 
 To exercise the rights to opt out of cross-context behavioral advertising, targeted advertising, or the sharing of Personal Information as described above, you will need to opt out based on what platform you are on.  Note that your request to opt out is specific to the device and platform where you submit that request, so you may need to submit multiple requests if you intend to opt out of these specific processing activities for multiple devices and platforms. Please click:
 
-* here to opt out from Plugshare.com (Web platform)
-* here to opt out from Plugshare iOS app
-* here to opt out from Plugshare Android app
+* [here to opt out from Plugshare.com (Web platform)](#)
+* [here to opt out from Plugshare iOS app](plugshare://ad-preferences)
+* [here to opt out from Plugshare Android app](plugshare://ad-preferences)
 
 ### Verification Process
 
@@ -981,9 +981,9 @@ Wir können Ihre Anfrage nicht beantworten oder Ihnen personenbezogene Daten zur
 
 Um wie oben beschrieben Ihr Recht auf Abmeldung von kontextübergreifender verhaltensbezogener Werbung, gezielter Werbung oder der Weitergabe personenbezogener Daten auszuüben, müssen Sie sich von der Plattform abmelden, über die diese Vorgänge stattfinden. Bitte beachten Sie, dass Ihre Abmeldeanfrage nur für das Gerät oder die Plattform gilt, über das/die Sie die Anfrage stellen. Das bedeutet, dass Sie evtl. mehrere Anfragen stellen müssen, um sich von diesen Verarbeitungsvorgängen geräte- oder plattformübergreifend abzumelden. Bitte klicken Sie:
 
-* hier, um sich von Plugshare.com (Web-Plattform) abzumelden.
-* hier, um sich von der PlugShare-iOS-App abzumelden.
-* hier, um sich von der PlugShare-Android-App abzumelden.
+* [hier, um sich von Plugshare.com (Web-Plattform) abzumelden.](#)
+* [hier, um sich von der PlugShare-iOS-App abzumelden.](plugshare://ad-preferences)
+* [hier, um sich von der PlugShare-Android-App abzumelden.](plugshare://ad-preferences)
 
 ### Verifizierungsprozess
 
@@ -1543,9 +1543,9 @@ No podemos responder a su solicitud ni proporcionarle Información personal si n
 
 Para ejercer los derechos de exclusión voluntaria de la publicidad basada en el comportamiento en contextos cruzados, la publicidad dirigida o el intercambio de Información personal como se ha descrito anteriormente, tendrá que excluirse en función de la plataforma en la que se encuentre.  Tenga en cuenta que su solicitud de exclusión voluntaria es específica para el dispositivo y la plataforma en los que presente dicha solicitud, por lo que es posible que tenga que presentar varias solicitudes si pretende excluirse de estas actividades de procesamiento específicas para varios dispositivos y plataformas. Por favor, haga clic:
 
-* aquí para darse de baja de Plugshare.com (plataforma web)
-* aquí para darse de baja de la aplicación iOS de Plugshare
-* aquí para darse de baja de la aplicación Android de Plugshare
+* [aquí para darse de baja de Plugshare.com (plataforma web)](#)
+* [aquí para darse de baja de la aplicación iOS de Plugshare](plugshare://ad-preferences)
+* [aquí para darse de baja de la aplicación Android de Plugshare](plugshare://ad-preferences)
 
 ### Proceso de verificación
 
@@ -2105,9 +2105,9 @@ Nous ne pouvons pas répondre à votre demande ou vous fournir des Renseignement
 
 Pour exercer les droits de retrait de la publicité comportementale inter-contexte, de la publicité ciblée ou du partage des Renseignements personnels tel que décrit ci-dessus, vous devrez vous retirer en fonction de la plateforme sur laquelle vous vous trouvez.  Notez que votre demande de retrait est spécifique à l’appareil et à la plateforme où vous soumettez cette demande, de sorte que vous devrez peut-être soumettre plusieurs demandes si vous avez l’intention de vous retirer de ces activités de traitement spécifiques pour plusieurs appareils et plateformes. Cliquez ici :
 
-* pour vous désinscrire de Plugshare.com (plateforme Web)
-* pour vous désinscrire de l’application iOS Plugshare
-* pour vous désinscrire de l’application Android Plugshare
+* [pour vous désinscrire de Plugshare.com (plateforme Web)](#)
+* [pour vous désinscrire de l’application iOS Plugshare](plugshare://ad-preferences)
+* [pour vous désinscrire de l’application Android Plugshare](plugshare://ad-preferences)
 
 ### Processus de vérification
 
@@ -2667,9 +2667,9 @@ Nous ne pouvons pas répondre à votre demande ou vous fournir des Informations 
 
 Pour exercer les droits de refuser la publicité comportementale ou ciblée transversale, ou le partage d’Informations personnelles tel que décrit ci-dessus, vous devrez vous désinscrire en fonction de la plateforme sur laquelle vous êtes.  Veuillez noter que votre demande de désinscription est spécifique à l’appareil ou à la plateforme à partir desquels vous soumettez cette demande. Vous devrez donc soumettre plusieurs demandes si vous souhaitez refuser ces activités de traitement spécifiques pour plusieurs appareils et plateformes. Veuillez cliquer :
 
-* ici pour vous désinscrire de Plugshare.com (plateforme web)
-* ici pour vous désinscrire de l’application Plugshare pour iOS
-* ici pour vous désinscrire de l’application Plugshare pour Android
+* [ici pour vous désinscrire de Plugshare.com (plateforme web)](#)
+* [ici pour vous désinscrire de l’application Plugshare pour iOS](plugshare://ad-preferences)
+* [ici pour vous désinscrire de l’application Plugshare pour Android](plugshare://ad-preferences)
 
 ### Processus de vérification
 
@@ -3229,9 +3229,9 @@ Non possiamo rispondere alla richiesta dell’utente o fornirgli dati personali 
 
 Per esercitare il diritto di rinunciare alla pubblicità comportamentale intercontestuale, la pubblicità mirata o la condivisione dei dati personali come sopra descritto, l’utente dovrà operare tale rinuncia in base alla piattaforma su cui si trova.  Si noti che la richiesta di rinuncia è specifica per il dispositivo e la piattaforma in cui viene presentata, quindi potrebbe essere necessario presentare più richieste se si intende rinunciare a queste attività di trattamento specifiche per più dispositivi e piattaforme. Fare clic:
 
-* qui per rinunciare a Plugshare.com (piattaforma web)
-* qui per rinunciare all’app Plugshare per iOS
-* qui per rinunciare all’app Android Plugshare
+* [qui per rinunciare a Plugshare.com (piattaforma web)](#)
+* [qui per rinunciare all’app Plugshare per iOS](plugshare://ad-preferences)
+* [qui per rinunciare all’app Android Plugshare](plugshare://ad-preferences)
 
 ### Processo di verifica
 
@@ -3791,9 +3791,9 @@ We kunnen niet reageren op uw verzoek of u Persoonlijke informatie verstrekken a
 
 Om uw rechten uit te oefenen om u af te melden voor contextoverschrijdende gedragsreclame, gerichte reclame of het doorgeven van Persoonlijke informatie zoals hierboven beschreven, moet u zich afmelden volgens de regels van het platform waarop u zich bevindt.  Houd er rekening mee dat uw verzoek tot afmelding specifiek is voor het apparaat en het platform waarop u dat verzoek indient, zodat u mogelijk meerdere verzoeken zult moeten indienen als u zich voor meerdere apparaten en platforms wilt afmelden voor deze specifieke verwerkingsactiviteiten. Klik:
 
-* hier om u af te melden voor Plugshare.com (webplatform)
-* hier om u af te melden voor de Plugshare iOS-app
-* hier om u af te melden voor de Plugshare Android-app
+* [hier om u af te melden voor Plugshare.com (webplatform)](#)
+* [hier om u af te melden voor de Plugshare iOS-app](plugshare://ad-preferences)
+* [hier om u af te melden voor de Plugshare Android-app](plugshare://ad-preferences)
 
 ### Verificatieprocedure
 
@@ -4353,9 +4353,9 @@ Nie możemy odpowiedzieć na wniosek użytkownika ani przekazać mu Danych osobo
 
 Aby skorzystać z prawa do rezygnacji z reklam behawioralnych o różnych kontekstach, reklam ukierunkowanych lub udostępniania Danych osobowych w sposób opisany powyżej, należy dokonać rezygnacji w sposób zależny platformy, z której użytkownik korzysta.  Należy pamiętać, że wniosek związany z rezygnacją dotyczy konkretnego urządzenia i platformy, za pośrednictwem których użytkownik przesyła takie żądanie, dlatego jeśli użytkownik zamierza zrezygnować z konkretnych czynności przetwarzania na wielu urządzeniach i platformach konieczne może być wysłanie wielu wniosków. Należy kliknąć:
 
-* tutaj, aby zrezygnować w witrynie Plugshare.com (platforma internetowa)
-* tutaj, aby zrezygnować w aplikacji Plugshare w systemie iOS
-* tutaj, aby zrezygnować w aplikacji Plugshare w systemie Android
+* [tutaj, aby zrezygnować w witrynie Plugshare.com (platforma internetowa)](#)
+* [tutaj, aby zrezygnować w aplikacji Plugshare w systemie iOS](plugshare://ad-preferences)
+* [tutaj, aby zrezygnować w aplikacji Plugshare w systemie Android](plugshare://ad-preferences)
 
 ### Proces weryfikacji
 
@@ -4915,9 +4915,9 @@ Não podemos responder ao seu pedido ou fornecer-lhe Informações Pessoais se n
 
 Para exercer os direitos de exclusão da publicidade comportamental em contexto cruzado, da publicidade direcionada ou da partilha de Informações Pessoais conforme descrito acima, a exclusão terá de ser efetuada com base na plataforma em que está.  Queira assinalar que o seu pedido de exclusão é específico para o dispositivo e plataforma em que o pedido é apresentado, pelo que poderá ter de enviar vários pedidos caso pretenda autoexcluir-se destas atividades de tratamento específicas no que se refere a vários dispositivos e plataformas. Clique:
 
-* aqui para desativar o Plugshare.com (plataforma da Web)
-* aqui para desativar a aplicação Plugshare para iOS
-* aqui para desativar a aplicação Plugshare para Android
+* [aqui para desativar o Plugshare.com (plataforma da Web)](#)
+* [aqui para desativar a aplicação Plugshare para iOS](plugshare://ad-preferences)
+* [aqui para desativar a aplicação Plugshare para Android](plugshare://ad-preferences)
 
 ### Processo de verificação
 
@@ -5477,9 +5477,9 @@ Nu putem răspunde solicitării dvs. sau nu vă putem furniza Informații cu car
 
 Pentru a vă exercita drepturile de a renunța la publicitatea comportamentală în context încrucișat, dreptul de a renunța la publicitatea direcționată sau partajarea Informațiilor cu caracter personal, după cum este descris mai sus, va trebui să renunțați în funcție de platforma pe care vă aflați.  Rețineți că solicitarea dvs. de a renunța este specifică dispozitivului și platformei pe care transmiteți solicitarea respectivă, așadar este posibil să fie nevoie să înaintați mai multe solicitări dacă intenționați să renunțați la aceste activități de prelucrare specifice pentru mai multe dispozitive și platforme. Vă rugăm să faceți clic:
 
-* aici pentru a renunța la Plugshare.com (Platforma web)
-* aici pentru a renunța la aplicația Plugshare pe iOS
-* aici pentru a renunța la aplicația Plugshare pe Android
+* [aici pentru a renunța la Plugshare.com (Platforma web)](#)
+* [aici pentru a renunța la aplicația Plugshare pe iOS](plugshare://ad-preferences)
+* [aici pentru a renunța la aplicația Plugshare pe Android](plugshare://ad-preferences)
 
 ### Procesul de verificare
 
@@ -5651,6 +5651,6 @@ Rezidenții din Taiwan au, de asemenea, următoarele drepturi: (a) dreptul de a 
 
 [Cookie Policy](https://company.plugshare.com/cookies.html "Cookie Policy") [Privacy Policy](https://company.plugshare.com/privacy.html "Privacy Policy") [Terms of Use](https://company.plugshare.com/terms.html "Terms of Use")
 
-© 2024 PlugShare LLC. All rights reserved.
+Cookie Settings
 
-PlugShare.com uses [Cookies](https://company.plugshare.com/cookies.html) to help us understand how our features are used. We've recently updated our [Privacy Policy](https://company.plugshare.com/privacy.html). Accept
+© 2024 PlugShare LLC. All rights reserved.
