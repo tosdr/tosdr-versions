@@ -1,5 +1,3 @@
-👉 [Bring your favorite memes into the real world by visiting The Meme Store!](https://thememestore.com/) 👈
-
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -99,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/806/Screenshot_2024-06-21_at_10.31.28_E2_80_AFAM.png "What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained")
+* [![These Laughing Emoji Memes Hit Right Where It Hurts: The Deep-Rooted Psychological Problems](https://i.kym-cdn.com/featured_items/icons/wide/000/025/188/cover3.jpg "These Laughing Emoji Memes Hit Right Where It Hurts: The Deep-Rooted Psychological Problems")
     
-    What Does Mythical Reel Pull Mean? The Mythic FYP Pull Trend On Instagram and TikTok Explained](https://knowyourmeme.com/editorials/guides/what-does-mythical-reel-pull-mean-the-mythic-fyp-pull-trend-on-instagram-and-tiktok-explained)
+    These Laughing Emoji Memes Hit Right Where It Hurts: The Deep-Rooted Psychological Problems](https://knowyourmeme.com/memes/existential-roast-emoji-youre-too-invested-in-how-you-are-perceived)
     
-* [![justin timberlake mugshot](https://i.kym-cdn.com/featured_items/icons/wide/000/024/805/RUINTHETOURCOVER.jpg "Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase")
+* [![Genshin Impact Cultural Appropriation And Whitewashing Allegations Becomes Viral Topic On The Internet](https://i.kym-cdn.com/featured_items/icons/wide/000/025/187/genshin_cover.jpg "Genshin Impact Cultural Appropriation And Whitewashing Allegations Becomes Viral Topic On The Internet")
     
-    Reports That Justin Timberlake Told His Arresting Officer 'This Is Going To Ruin The Tour' Inspires A New Viral Catchphrase](https://knowyourmeme.com/memes/this-is-going-to-ruin-the-tour)
+    Genshin Impact Cultural Appropriation And Whitewashing Allegations Becomes Viral Topic On The Internet](https://knowyourmeme.com/memes/events/genshin-impact-cultural-appropriation-and-whitewashing-controversy)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/804/Screen_Shot_2019-03-22_at_2.47.05_PM.jpg "OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics")
+* [![McDonald's Caters To Anime Fans Again, Lets Memers Go Nuts With PNG Of Hands Holding Hashbrowns](https://i.kym-cdn.com/featured_items/icons/wide/000/025/186/mcd_hashbrowns.jpg "McDonald's Caters To Anime Fans Again, Lets Memers Go Nuts With PNG Of Hands Holding Hashbrowns")
     
-    OpenAI's Mira Murati Says AI May Kill Some Jobs That 'Shouldn't Have Been Jobs In The First Place' And Draws Ire From AI's Critics](https://knowyourmeme.com/news/openais-mira-murati-says-ai-may-kill-some-jobs-that-shouldnt-have-been-jobs-in-the-first-place-and-draws-ire-from-ais-critics)
+    McDonald's Caters To Anime Fans Again, Lets Memers Go Nuts With PNG Of Hands Holding Hashbrowns](https://knowyourmeme.com/memes/hands-holding-mcdonalds-hashbrowns)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/803/cover5.jpg "Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies")
+* [![Images Of This Fellow Showing Off His Bands Has Been Showing Up More And More In Memes Lately](https://i.kym-cdn.com/featured_items/icons/wide/000/025/185/cover1.jpg "Images Of This Fellow Showing Off His Bands Has Been Showing Up More And More In Memes Lately")
     
-    Did The Author Of 'I Might Go Homeless?' Comic Really Become Homeless? The Story Of The Viral Meme And Its Parodies](https://knowyourmeme.com/editorials/guides/did-the-author-of-i-might-go-homeless-comic-really-become-homeless-the-story-of-the-viral-meme-and-its-parodies--2)
+    Images Of This Fellow Showing Off His Bands Has Been Showing Up More And More In Memes Lately](https://knowyourmeme.com/memes/fat-black-guy-with-bands)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/024/802/1.jpg "Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained")
+* [![Homework Spelled Backwards meme](https://i.kym-cdn.com/featured_items/icons/wide/000/025/184/homework_spelled_backwards.jpg "'Homework' Spelled Backwards Is 'Krowemoh' Which Means Something Bad According To Google")
     
-    Why Is The Disney+ Show 'The Acolyte' So Reviled? The Lowest Rated 'Star Wars' Show Ever And Its Controversies Explained](https://knowyourmeme.com/editorials/guides/why-is-the-disney-show-the-acolyte-so-reviled-the-lowest-rated-star-wars-show-ever-and-its-controversies-explained)
+    'Homework' Spelled Backwards Is 'Krowemoh' Which Means Something Bad According To Google](https://knowyourmeme.com/memes/homework-spelled-backwards)
     
 
 ##### Also Trending:
 
-[Derp](https://knowyourmeme.com/memes/derp)
+[CrowdStrike Microsoft Global Outage](https://knowyourmeme.com/memes/events/crowdstrike-microsoft-global-outage--2 "CrowdStrike Microsoft Global Outage") [Bumps Into You, Directly Injecting](https://knowyourmeme.com/memes/bumps-into-you-directly-injecting-x-into-your-y "Bumps Into You, Directly Injecting") [Tomboy Milk](https://knowyourmeme.com/memes/femboy-milk-tomboy-milk "Tomboy Milk") ["Homework" Spelled Backwards](https://knowyourmeme.com/memes/homework-spelled-backwards ""Homework" Spelled Backwards")
 
 Copyright Infringement Notice
 =============================
@@ -188,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### 'lo! You must login or signup first!
 
 |     |     |
 | --- | --- |
