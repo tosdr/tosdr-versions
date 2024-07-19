@@ -196,6 +196,10 @@
     
     * * *
     
+    * [Testimonials](https://www.nl-ix.net/about/testimonials/)
+    
+    * * *
+    
 
 * * *
 
@@ -372,6 +376,10 @@
     * * *
     
     * [How the Internet Works](https://www.nl-ix.net/articles-events/article/how-the-internet-works/)
+    
+    * * *
+    
+    * [Testimonials](https://www.nl-ix.net/about/testimonials/)
     
     * * *
     
