@@ -18,6 +18,7 @@ search:
 * [Patches](https://microcosmpublishing.com/catalog/patches)
 * [Stickers](https://microcosmpublishing.com/catalog/stickers)
 * [Buttons](https://microcosmpublishing.com/catalog/buttons)
+* [Enamel Pins](https://microcosmpublishing.com/catalog/enamel-pins)
 * [Posters](https://microcosmpublishing.com/catalog/posters)
 * [Dealz](https://microcosmpublishing.com/catalog/sale)
 * [Cards](https://microcosmpublishing.com/catalog/cards)
