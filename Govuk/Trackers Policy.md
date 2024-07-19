@@ -78,8 +78,6 @@ Search GOV.UK
 
 Search
 
-[Bring photo ID to vote](https://www.gov.uk/how-to-vote/photo-id-youll-need) Check what photo ID you'll need to vote in person in the General Election on 4 July.
-
 1. [Home](https://www.gov.uk/)
 
 Success
