@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+    [](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
     
-    ![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+    [](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
     
-    ![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,109 +141,109 @@ TRENDING
 *   Back
 * The Last of Us
 
-![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/wp-content/uploads/2024/06/Elden-Ring-DLC-Shadow-of-the-Erdtree-Is-a-Brilliant.png)
+![Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/wp-content/uploads/2024/07/Sea-of-Thieves-Season-13-Features-New-Content-and-Villain-Choice.png)
 
-[Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 20, 2024/
-
-Elden Ring DLC: Shadow of the Erdtree is nearly upon the general audience, and the hype regarding Elden Ring’s one…
-
-[Read More](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
-
-![Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/wp-content/uploads/2024/06/Ilya-Sutskever-OpenAIs-Former-Chief-Scientist-Launches-New-AI-Startup.png)
-
-[Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+[Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
 
 
------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-June 20, 2024/
+July 19, 2024/
 
-Ilya Sutskever, one of OpenAI’s co-founders and former Chief Scientist, has announced he will launch a new startup company called…
+Rare has unveiled its new trailer and content for Sea of Thieves Season 13, the popular action-adventure game they developed.…
 
-[Read More](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+[Read More](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
 
-![Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/wp-content/uploads/2024/06/How-to-Earn-and-Spend.png)
+![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
 
-[Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-June 19, 2024/
-
-Since its launch in 2003, Steam has gradually become one of the most popular platforms for purchasing, downloading, and playing…
-
-[Read More](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
-
-![Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/wp-content/uploads/2024/06/Nintendo-Direct-2024.png)
-
-[Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/complete-recap-of-nintendo-direct-2024/)
-
-
------------------------------------------------------------------------------------------------------------------------------
-
-June 19, 2024/
-
-Nintendo Direct 2024 is now a done deal, and while the livestream was short, Nintendo did squeeze in their time…
-
-[Read More](https://player.me/complete-recap-of-nintendo-direct-2024/)
-
-![Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/wp-content/uploads/2024/06/Old-But-Golden-Captain-Blood-Returns-to-Mainstream-Consoles-After-14-Years.png)
-
-[Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/captain-blood-returns-to-mainstream-consoles/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 18, 2024/
-
-In a totally unexpected turn of events, Captain Blood, the action-adventure game inspired by Rafael Sabatini’s 1922 novel Captain Blood:…
-
-[Read More](https://player.me/captain-blood-returns-to-mainstream-consoles/)
-
-![Sims Competitor Life by You Cancelled After Paradox Deemed It a Clear Failure](https://player.me/wp-content/uploads/2024/06/Sims-Competitor-Life-By-You-Cancelled-After-Paradox-Deemed-it-a-Clear-Failure.png)
-
-[Sims Competitor Life by You Cancelled After Paradox Deemed It a Clear Failure](https://player.me/sims-competitor-life-by-you-cancelled-by-paradox/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 18, 2024/
-
-The highly-anticipated Sims competitor, Life by You by Paradox Interactive, has been cancelled after half a decade of development, as…
-
-[Read More](https://player.me/sims-competitor-life-by-you-cancelled-by-paradox/)
-
-![Is Palia Cross-Platform and Cross-Play?](https://player.me/wp-content/uploads/2024/06/Is-Palia-Cross-Platform-and-Cross-Play.png)
-
-[Is Palia Cross-Platform and Cross-Play?](https://player.me/is-palia-cross-platform-and-cross-play/)
-
-
---------------------------------------------------------------------------------------------------------
-
-June 14, 2024/
-
-Palia has been around since August 2023 with its open beta on the Nintendo Switch and PC. With it finally…
-
-[Read More](https://player.me/is-palia-cross-platform-and-cross-play/)
-
-![This Dragon Ball Sparking Zero Feature Has Fans Energy Level Over 9000!](https://player.me/wp-content/uploads/2024/06/This-2-Dragon-Ball-Sparking-Zero-Features-Has-Fans-Ablaze-with-Excitement.png)
-
-[This Dragon Ball Sparking Zero Feature Has Fans Energy Level Over 9000!](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/)
+[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-June 14, 2024/
+July 19, 2024/
 
-Since the official Dragon Ball Sparking Zero (Budokai Tenkaichi 4) announcement in March of last year, many, including us die-hard…
+Meta Quest 4 will be released sometime in 2026 with two variants, The Information reports citing three people in charge…
 
-[Read More](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/)
+[Read More](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/)
+
+![EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/wp-content/uploads/2024/07/9a69fa66-edb0-44e5-a845-bce898155b3d-1.png)
+
+[EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 18, 2024/
+
+Continuing our theme of an EA footballing day, EA Sports College Football 25 is right around the corner, as it…
+
+[Read More](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
+
+![EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/wp-content/uploads/2024/07/EA-Sports-FC-25——-Release-Date-Pre-Order-Bonuses-and-All-You-Need-to-Know.png)
+
+[EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+July 18, 2024/
+
+The annual FIFA series, now known as EA Sports FC, will be grazing football gaming fans’ screens in two months…
+
+[Read More](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
+
+![Resident Evil 7 iOS Is the Latest AAA Port to Flop, with Less than 2000 Purchases](https://player.me/wp-content/uploads/2024/07/Resident-Evil-7-iOS-Is-the-Latest-AAA-Port-to-Flop-with-Less-than-2000-Purchases.png)
+
+[Resident Evil 7 iOS Is the Latest AAA Port to Flop, with Less than 2000 Purchases](https://player.me/resident-evil-7-ios-is-the-latest-aaa-port-to-flop/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 17, 2024/
+
+Capcom’s fantastic survival horror sequel Resident Evil 7, released in 2017, was a massive hit on PlayStation 4, Xbox One and…
+
+[Read More](https://player.me/resident-evil-7-ios-is-the-latest-aaa-port-to-flop/)
+
+![Neverness to Everness, the New Open-World Fantasy RPG, Looks Like a Blend of Genshin Impact and GTA](https://player.me/wp-content/uploads/2024/07/Neverness-to-Everness-the-New-Open-World-Fantasy-RPG-Looks-Like-a-Blend-of-Genshin-Impact-and-GTA.png)
+
+[Neverness to Everness, the New Open-World Fantasy RPG, Looks Like a Blend of Genshin Impact and GTA](https://player.me/neverness-to-everness-the-new-open-world-fantasy-rpg/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 17, 2024/
+
+Neverness to Everness from Chinese gaming giant Perfect World is the latest entry into the open-world fantasy genre, and it…
+
+[Read More](https://player.me/neverness-to-everness-the-new-open-world-fantasy-rpg/)
+
+![Fallout 4 Builds: Which 7 Builds Are the Best for You?](https://player.me/wp-content/uploads/2024/07/Fallout-4-Builds.png)
+
+[Fallout 4 Builds: Which 7 Builds Are the Best for You?](https://player.me/which-7-fallout-4-builds-are-the-best-for-you/)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+July 16, 2024/
+
+Although it has been nine years since Fallout 4’s initial release in 2015, the part RPG, part action-combat first-person shooter…
+
+[Read More](https://player.me/which-7-fallout-4-builds-are-the-best-for-you/)
+
+![What Is an AI Agent? The Comprehensive Guide 2024](https://player.me/wp-content/uploads/2024/07/What-Is-an-AI-Agent.png)
+
+[What Is an AI Agent? The Comprehensive Guide 2024](https://player.me/the-comprehensive-ai-agent-guide-2024/)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+July 16, 2024/
+
+An AI agent is a computational entity designed to perform specific tasks or solve problems autonomously using artificial intelligence techniques.…
+
+[Read More](https://player.me/the-comprehensive-ai-agent-guide-2024/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,135 +276,135 @@ GAMING
 *   Back
 * The Last of Us
 
-![Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/wp-content/uploads/2024/06/Elden-Ring-DLC-Shadow-of-the-Erdtree-Is-a-Brilliant.png)
+![Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/wp-content/uploads/2024/07/Sea-of-Thieves-Season-13-Features-New-Content-and-Villain-Choice.png)
 
-[Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 20, 2024/
-
-Elden Ring DLC: Shadow of the Erdtree is nearly upon the general audience, and the hype regarding Elden Ring’s one…
-
-[Read More](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
-
-![Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/wp-content/uploads/2024/06/Ilya-Sutskever-OpenAIs-Former-Chief-Scientist-Launches-New-AI-Startup.png)
-
-[Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+[Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
 
 
------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-June 20, 2024/
+July 19, 2024/
 
-Ilya Sutskever, one of OpenAI’s co-founders and former Chief Scientist, has announced he will launch a new startup company called…
+Rare has unveiled its new trailer and content for Sea of Thieves Season 13, the popular action-adventure game they developed.…
 
-[Read More](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+[Read More](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
 
-![Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/wp-content/uploads/2024/06/How-to-Earn-and-Spend.png)
+![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
 
-[Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-June 19, 2024/
-
-Since its launch in 2003, Steam has gradually become one of the most popular platforms for purchasing, downloading, and playing…
-
-[Read More](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
-
-![Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/wp-content/uploads/2024/06/Nintendo-Direct-2024.png)
-
-[Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/complete-recap-of-nintendo-direct-2024/)
-
-
------------------------------------------------------------------------------------------------------------------------------
-
-June 19, 2024/
-
-Nintendo Direct 2024 is now a done deal, and while the livestream was short, Nintendo did squeeze in their time…
-
-[Read More](https://player.me/complete-recap-of-nintendo-direct-2024/)
-
-![Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/wp-content/uploads/2024/06/Old-But-Golden-Captain-Blood-Returns-to-Mainstream-Consoles-After-14-Years.png)
-
-[Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/captain-blood-returns-to-mainstream-consoles/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 18, 2024/
-
-In a totally unexpected turn of events, Captain Blood, the action-adventure game inspired by Rafael Sabatini’s 1922 novel Captain Blood:…
-
-[Read More](https://player.me/captain-blood-returns-to-mainstream-consoles/)
-
-![Sims Competitor Life by You Cancelled After Paradox Deemed It a Clear Failure](https://player.me/wp-content/uploads/2024/06/Sims-Competitor-Life-By-You-Cancelled-After-Paradox-Deemed-it-a-Clear-Failure.png)
-
-[Sims Competitor Life by You Cancelled After Paradox Deemed It a Clear Failure](https://player.me/sims-competitor-life-by-you-cancelled-by-paradox/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-June 18, 2024/
-
-The highly-anticipated Sims competitor, Life by You by Paradox Interactive, has been cancelled after half a decade of development, as…
-
-[Read More](https://player.me/sims-competitor-life-by-you-cancelled-by-paradox/)
-
-![Is Palia Cross-Platform and Cross-Play?](https://player.me/wp-content/uploads/2024/06/Is-Palia-Cross-Platform-and-Cross-Play.png)
-
-[Is Palia Cross-Platform and Cross-Play?](https://player.me/is-palia-cross-platform-and-cross-play/)
-
-
---------------------------------------------------------------------------------------------------------
-
-June 14, 2024/
-
-Palia has been around since August 2023 with its open beta on the Nintendo Switch and PC. With it finally…
-
-[Read More](https://player.me/is-palia-cross-platform-and-cross-play/)
-
-![This Dragon Ball Sparking Zero Feature Has Fans Energy Level Over 9000!](https://player.me/wp-content/uploads/2024/06/This-2-Dragon-Ball-Sparking-Zero-Features-Has-Fans-Ablaze-with-Excitement.png)
-
-[This Dragon Ball Sparking Zero Feature Has Fans Energy Level Over 9000!](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/)
+[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-June 14, 2024/
+July 19, 2024/
 
-Since the official Dragon Ball Sparking Zero (Budokai Tenkaichi 4) announcement in March of last year, many, including us die-hard…
+Meta Quest 4 will be released sometime in 2026 with two variants, The Information reports citing three people in charge…
 
-[Read More](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/)
+[Read More](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/)
 
-![What Are the 5 Best Pokemon Games for Beginner Trainers?](https://player.me/wp-content/uploads/2024/06/What-Are-the-5-Best-Pokemon-Games-for-Beginner-Trainers.png)
+![EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/wp-content/uploads/2024/07/9a69fa66-edb0-44e5-a845-bce898155b3d-1.png)
 
-[What Are the 5 Best Pokemon Games for Beginner Trainers?](https://player.me/what-are-the-5-best-pokemon-games-for-beginner-trainers/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-June 13, 2024/
-
-Discovering the best Pokemon games as a starting trainer is like stepping into a world filled with exciting adventures with…
-
-[Read More](https://player.me/what-are-the-5-best-pokemon-games-for-beginner-trainers/)
-
-![Wuthering Waves 6 Arc Storyline Quality Receives Brutal Reaction From Chinese Players](https://player.me/wp-content/uploads/2024/06/Wuthering-Waves-6-Arc-Storyline-Quality-Splits-International-and-Chinese-Fan-Base.png)
-
-[Wuthering Waves 6 Arc Storyline Quality Receives Brutal Reaction From Chinese Players](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/)
+[EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-June 13, 2024/
+July 18, 2024/
 
-Wuthering Waves, the latest “Genshin Impact” killer, has made waves, no pun intended, throughout the gaming community due to its…
+Continuing our theme of an EA footballing day, EA Sports College Football 25 is right around the corner, as it…
 
-[Read More](https://player.me/wuthering-waves-storyline-quality-chinese-reaction/)
+[Read More](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
+
+![EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/wp-content/uploads/2024/07/EA-Sports-FC-25——-Release-Date-Pre-Order-Bonuses-and-All-You-Need-to-Know.png)
+
+[EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+July 18, 2024/
+
+The annual FIFA series, now known as EA Sports FC, will be grazing football gaming fans’ screens in two months…
+
+[Read More](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
+
+![Resident Evil 7 iOS Is the Latest AAA Port to Flop, with Less than 2000 Purchases](https://player.me/wp-content/uploads/2024/07/Resident-Evil-7-iOS-Is-the-Latest-AAA-Port-to-Flop-with-Less-than-2000-Purchases.png)
+
+[Resident Evil 7 iOS Is the Latest AAA Port to Flop, with Less than 2000 Purchases](https://player.me/resident-evil-7-ios-is-the-latest-aaa-port-to-flop/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 17, 2024/
+
+Capcom’s fantastic survival horror sequel Resident Evil 7, released in 2017, was a massive hit on PlayStation 4, Xbox One and…
+
+[Read More](https://player.me/resident-evil-7-ios-is-the-latest-aaa-port-to-flop/)
+
+![Neverness to Everness, the New Open-World Fantasy RPG, Looks Like a Blend of Genshin Impact and GTA](https://player.me/wp-content/uploads/2024/07/Neverness-to-Everness-the-New-Open-World-Fantasy-RPG-Looks-Like-a-Blend-of-Genshin-Impact-and-GTA.png)
+
+[Neverness to Everness, the New Open-World Fantasy RPG, Looks Like a Blend of Genshin Impact and GTA](https://player.me/neverness-to-everness-the-new-open-world-fantasy-rpg/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 17, 2024/
+
+Neverness to Everness from Chinese gaming giant Perfect World is the latest entry into the open-world fantasy genre, and it…
+
+[Read More](https://player.me/neverness-to-everness-the-new-open-world-fantasy-rpg/)
+
+![Fallout 4 Builds: Which 7 Builds Are the Best for You?](https://player.me/wp-content/uploads/2024/07/Fallout-4-Builds.png)
+
+[Fallout 4 Builds: Which 7 Builds Are the Best for You?](https://player.me/which-7-fallout-4-builds-are-the-best-for-you/)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+July 16, 2024/
+
+Although it has been nine years since Fallout 4’s initial release in 2015, the part RPG, part action-combat first-person shooter…
+
+[Read More](https://player.me/which-7-fallout-4-builds-are-the-best-for-you/)
+
+![What Is an AI Agent? The Comprehensive Guide 2024](https://player.me/wp-content/uploads/2024/07/What-Is-an-AI-Agent.png)
+
+[What Is an AI Agent? The Comprehensive Guide 2024](https://player.me/the-comprehensive-ai-agent-guide-2024/)
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+July 16, 2024/
+
+An AI agent is a computational entity designed to perform specific tasks or solve problems autonomously using artificial intelligence techniques.…
+
+[Read More](https://player.me/the-comprehensive-ai-agent-guide-2024/)
+
+![How Balatro Is Breaking 1 Million Games Sales Records in Less than 1 Month](https://player.me/wp-content/uploads/2024/07/How-Balatro-Is-Shattering-1-Million-Games-Sales-Records-in-Less-than-1-Month.png)
+
+[How Balatro Is Breaking 1 Million Games Sales Records in Less than 1 Month](https://player.me/how-balatro-is-breaking-1-million-games-sales-records/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 15, 2024/
+
+Card games have become popular over the years, but not the ones we want. There are only a few popular…
+
+[Read More](https://player.me/how-balatro-is-breaking-1-million-games-sales-records/)
+
+![Are Crash Bandicoot 5 and Phoenix Labs Project Cancelled?](https://player.me/wp-content/uploads/2024/07/Are-Crash-Bandicoot-5-and-Phoenix-Labs-Project-Cancelled-1.png)
+
+[Are Crash Bandicoot 5 and Phoenix Labs Project Cancelled?](https://player.me/crash-bandicoot-5-and-phoenix-labs-project-cancelled/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+July 15, 2024/
+
+Crash Bandicoot fans may want to look away now as Crash Bandicoot 4: It’s About Time former character designer and…
+
+[Read More](https://player.me/crash-bandicoot-5-and-phoenix-labs-project-cancelled/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -417,6 +417,45 @@ ENTERTAINMENT
 * ENTERTAINMENT
 * SCIENCE-HEALTH
 * CRYPTO
+
+![Omniscient Reader’s Viewpoint Becomes Latest Webtoon Anime Adaptation, with Solo Leveling Season 2 Also Confirmed](https://player.me/wp-content/uploads/2024/07/Omniscient-Readers-Viewpoint-Becomes-Latest-Webtoon-Anime-Adaptation-with-Solo-Leveling-Season-2-Also-Confirmed.png)
+
+[Omniscient Reader’s Viewpoint Becomes Latest Webtoon Anime Adaptation, with Solo Leveling Season 2 Also Confirmed](https://player.me/omniscient-readers-viewpoint-receives-anime-adaptation/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 9, 2024/
+
+As announced in Anime Expo 2024, Crunchyroll announced that Omniscient Reader’s Viewpoint, the popular Webtoon by Sing Shong, is the…
+
+[Read More](https://player.me/omniscient-readers-viewpoint-receives-anime-adaptation/)
+
+![15 Best Anime of All Time, Ranked According to MyAnimeList](https://player.me/wp-content/uploads/2024/07/25-Best-Anime-of-All-Time-Ranked-According-to-MyAnimeList.png)
+
+[15 Best Anime of All Time, Ranked According to MyAnimeList](https://player.me/15-best-anime-of-all-time-according-to-myanimelist/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+July 4, 2024/
+
+Over the decades, numerous anime series have captivated audiences worldwide with their unique storytelling, stunning visuals, and profound emotional depth,…
+
+[Read More](https://player.me/15-best-anime-of-all-time-according-to-myanimelist/)
+
+![Dr DisRespect Drama: Comprehensive Rundown About the Former 4 Million Followers Twitch Streamer](https://player.me/wp-content/uploads/2024/06/Dr-DisRespect-Drama.png)
+
+[Dr DisRespect Drama: Comprehensive Rundown About the Former 4 Million Followers Twitch Streamer](https://player.me/comprehensive-rundown-about-the-dr-disrespect-drama/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+June 27, 2024/
+
+Dr DisRespect, aka Herschel “Guy” Beahm IV, is a prominent figure in the gaming scene as a controversial American streamer…
+
+[Read More](https://player.me/comprehensive-rundown-about-the-dr-disrespect-drama/)
 
 ![5 Great Video Streaming Platforms for Movie Watching](https://player.me/wp-content/uploads/2024/03/5-Great-Video-Streaming-Platforms-for-Movie-Watching.jpg)
 
@@ -508,45 +547,6 @@ December 5, 2023/
 The boundaries of AI are always stretching out and going beyond. Previously, creators of artistic content such as music and…
 
 [Read More](https://player.me/new-google-instrument-playground-crafts-music/)
-
-![Google Play Best of 2023 Awards: Full List of the Best Apps and Games](https://player.me/wp-content/uploads/2023/11/Google-Play-Unveils-Top-Apps-and-Games-of-2023.jpg)
-
-[Google Play Best of 2023 Awards: Full List of the Best Apps and Games](https://player.me/google-play-best-of-2023-awards-full-list/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-December 1, 2023/
-
-Entering the final month of each year prompts reflection and analysis, summarising the experiences and events of the past months.…
-
-[Read More](https://player.me/google-play-best-of-2023-awards-full-list/)
-
-![5 Best Must-Watch Video Game Movies](https://player.me/wp-content/uploads/2023/11/5-Best-Must-Watch-Video-Game-Movies-01.png)
-
-[5 Best Must-Watch Video Game Movies](https://player.me/5-best-must-watch-video-game-movies/)
-
-
--------------------------------------------------------------------------------------------------
-
-November 10, 2023/
-
-The recent revelation by Nintendo about their plans to create a live-action Zelda movie, inspired by the renowned franchise series…
-
-[Read More](https://player.me/5-best-must-watch-video-game-movies/)
-
-![Exciting News From Nintendo: A Live-Action Zelda Movie Under Development?](https://player.me/wp-content/uploads/2023/11/Exciting-News-From-Nintendo-A-Live-Action-Zelda-Movie-Under-Development.png)
-
-[Exciting News From Nintendo: A Live-Action Zelda Movie Under Development?](https://player.me/nintendos-creating-a-live-action-zelda-movie/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 9, 2023/
-
-Movie adaptations of video games consistently generate enthusiasm among fans, who eagerly anticipate a fresh visual experience and a new…
-
-[Read More](https://player.me/nintendos-creating-a-live-action-zelda-movie/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,84 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ](https://player.me/wp-content/uploads/2024/07/Meta-Quest-4-and-Quest-Pro-2-Hint-at-2026-and-2027-Release-Window-1.png)
+
+[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 19, 2024/
+
+Meta Quest 4 will be released sometime in 2026 with two variants, The Information reports citing three people in charge…
+
+[Read More](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/)
+
+![Samsung Galaxy Unpacked 2024 Complete Breakdown: Galaxy Ring, Galaxy Z Fold 6 and More](https://player.me/wp-content/uploads/2024/07/Samsung-Galaxy-Unpacked-2024.png)
+
+[Samsung Galaxy Unpacked 2024 Complete Breakdown: Galaxy Ring, Galaxy Z Fold 6 and More](https://player.me/samsung-galaxy-unpacked-2024-complete-breakdown/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 11, 2024/
+
+At the second Samsung Galaxy Unpacked 2024 event in Paris, the Korean company launched a slew of products. Unsurprisingly, AI…
+
+[Read More](https://player.me/samsung-galaxy-unpacked-2024-complete-breakdown/)
+
+![Thrive AI Health: The New AI Health Coach Funded by Arianna Huffington and Sam Altman](https://player.me/wp-content/uploads/2024/07/Thrive-AI-Health.png)
+
+[Thrive AI Health: The New AI Health Coach Funded by Arianna Huffington and Sam Altman](https://player.me/thrive-ai-health-the-new-ai-health-coach/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 9, 2024/
+
+On Monday, OpenAI’s Sam Altman and Thrive Global’s Arianna Huffington announced they are teaming up to find AI solutions for…
+
+[Read More](https://player.me/thrive-ai-health-the-new-ai-health-coach/)
+
+![Noplace Guide: Understanding the Twitter and Myspace Mashup That Hit No. 1 on the App Store](https://player.me/wp-content/uploads/2024/07/Noplace-Guide.png)
+
+[Noplace Guide: Understanding the Twitter and Myspace Mashup That Hit No. 1 on the App Store](https://player.me/understanding-noplace-the-twitter-and-myspace-mashup/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 4, 2024/
+
+Noplace, a recently launched Genz app with tidbits of Twitter and Myspace, has skyrocketed to first place on the App…
+
+[Read More](https://player.me/understanding-noplace-the-twitter-and-myspace-mashup/)
+
+![Figma Disables Its AI Make Designs Tool After Criticisms Reveal Similarities with Apple](https://player.me/wp-content/uploads/2024/07/Figma-Disables-Its-AI-Make-Design-Tool-After-Criticisms-Reveal-Similarities-with-Apple.png)
+
+[Figma Disables Its AI Make Designs Tool After Criticisms Reveal Similarities with Apple](https://player.me/figma-disables-its-ai-make-designs-tool/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+July 3, 2024/
+
+Figma, the collaborative design software company, has quickly pulled out its new Make Designs AI tool after numerous individuals cited…
+
+[Read More](https://player.me/figma-disables-its-ai-make-designs-tool/)
+
+![Affordable PC Accessories for 2024 and Beyond](https://player.me/wp-content/uploads/2024/07/Affordable-PC-Accessories-for-2024-and-Beyond.png)
+
+[Affordable PC Accessories for 2024 and Beyond](https://player.me/affordable-pc-accessories-for-2024-and-beyond/)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+July 1, 2024/
+
+Windows is the most popular operating system globally due to its accessibility. Yes, it’s closed-source software, but the benefits of…
+
+[Read More](https://player.me/affordable-pc-accessories-for-2024-and-beyond/)
+
 ![Elon Musk’s SpaceX Ventures into National Security to Empower Spy Satellite Network for U.S.](https://player.me/wp-content/uploads/2024/03/Elon-Musks-SpaceX-Ventures-into-National-Security_-Empowering-Spy-Satellite-Network-for-US.jpg)
 
 [Elon Musk’s SpaceX Ventures into National Security to Empower Spy Satellite Network for U.S.](https://player.me/elon-musks-spacex-ventures-into-national-security/)
@@ -731,84 +809,6 @@ Elon Musk, the renowned entrepreneur and innovator, has left an indelible mark o
 
 [Read More](https://player.me/elon-musks-startup-ventures-before-spacex-and-tesla/)
 
-![Google I/O 2024 Event Date Set for May 14, 15 with Prospect of New AI Features](https://player.me/wp-content/uploads/2024/03/O-2024-Event-Date-Set-for-May-14-15-with-Prospect-of-New-AI-Features.jpg)
-
-[Google I/O 2024 Event Date Set for May 14, 15 with Prospect of New AI Features](https://player.me/google-i-o-2024-event-date-set-for-may-14-and-15/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 15, 2024/
-
-Google I/O 2024, Google‘s annual developer conference, is taking place on Tuesday, May 14 at 10 am PT. As with…
-
-[Read More](https://player.me/google-i-o-2024-event-date-set-for-may-14-and-15/)
-
-![TikTok Ban: U.S. House to Vote on Bill Amid Trump Resistance – Why the Shift?](https://player.me/wp-content/uploads/2024/03/TikTok-Ban-U.S.-House-to-Vote-on-Bill-Amid-Trump-Resistance—Why-the-Shift.jpg)
-
-[TikTok Ban: U.S. House to Vote on Bill Amid Trump Resistance – Why the Shift?](https://player.me/u-s-house-to-vote-tiktok-ban-amid-trump-resistance/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 14, 2024/
-
-Digital marketing has gained traction over the past few years with multiple applications and tools helping myriads of organisations globally…
-
-[Read More](https://player.me/u-s-house-to-vote-tiktok-ban-amid-trump-resistance/)
-
-![10 Useful Smartphone Transformations Over the Past Decade](https://player.me/wp-content/uploads/2024/03/10-Great-Smartphone-Transformations-Over-the-Past-Decade.jpg)
-
-[10 Useful Smartphone Transformations Over the Past Decade](https://player.me/10-useful-smartphone-transformations/)
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-March 14, 2024/
-
-Smartphones have become an essential item in our daily lives, which works as a daily assistant in many stuff in…
-
-[Read More](https://player.me/10-useful-smartphone-transformations/)
-
-![Google DeepMind’s AI Co-op Companion Takes Your Gaming Experience to the Next Level](https://player.me/wp-content/uploads/2024/03/Google-DeepMinds-AI-Co-op-Companion-Takes-Your-Gaming-Experience-to-the-Next-Level.jpg)
-
-[Google DeepMind’s AI Co-op Companion Takes Your Gaming Experience to the Next Level](https://player.me/google-deepminds-ai-to-level-up-your-gaming-experience/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-March 14, 2024/
-
-Google DeepMind has revealed a groundbreaking advancement that promises to change the way we interact with games. Their latest creation,…
-
-[Read More](https://player.me/google-deepminds-ai-to-level-up-your-gaming-experience/)
-
-![iPhone vs Android: 5 Interesting Differences Both Phones Offer Which the Other Don’t](https://player.me/wp-content/uploads/2024/03/iPhone-vs-Android-5-Interesting-Differences-Both-Phones-Offer-Which-the-Other-Dont.jpg)
-
-[iPhone vs Android: 5 Interesting Differences Both Phones Offer Which the Other Don’t](https://player.me/iphone-vs-android-5-differences/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-March 14, 2024/
-
-Since the emergence of smartphones, which transformed the industry, ushering in a new era of mobile computing and connectivity, iPhone…
-
-[Read More](https://player.me/iphone-vs-android-5-differences/)
-
-![7 Best Flip Phones to Buy in 2024](https://player.me/wp-content/uploads/2024/03/7-Best-Flip-Phones-to-Buy-in-2024.jpg)
-
-[7 Best Flip Phones to Buy in 2024](https://player.me/7-best-flip-phones-to-buy-in-2024/)
-
-
----------------------------------------------------------------------------------------------
-
-March 13, 2024/
-
-The resurgence of flip phones is a welcoming surprise in the current market domination of sleek touchscreen smartphones, as the…
-
-[Read More](https://player.me/7-best-flip-phones-to-buy-in-2024/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -817,58 +817,58 @@ The resurgence of flip phones is a welcoming surprise in the current market domi
 
 player.me
 
-[](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/ "Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)")
+[](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/ "Sea of Thieves Season 13 Features New Content and Villain Choice")
 
-[Elden Ring DLC: Shadow of the Erdtree Becomes Highest Scored DLC of All Time (95/100)](https://player.me/elden-ring-dlc-becomes-metacritic-highest-scored-dlc/)
+[Sea of Thieves Season 13 Features New Content and Villain Choice](https://player.me/sea-of-thieves-season-13-features-new-villain-choice/)
 
-June 20, 2024
+July 19, 2024
 
-[](https://player.me/ilya-sutskever-launches-new-ai-startup/ "Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup")
+[](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/ "Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window ")
 
-[Ilya Sutskever, OpenAI’s Former Chief Scientist, Launches New AI Startup](https://player.me/ilya-sutskever-launches-new-ai-startup/)
+[Meta Quest 4 and Quest Pro 2 Hint at 2026 and 2027 Release Window](https://player.me/meta-quest-4-and-quest-pro-2-hint-at-2026-and-27-release/) 
 
-June 20, 2024
+July 19, 2024
 
-[](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/ "Steam Points Ultimate Guide 2024: How to Earn and Spend")
+[](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/ "EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far")
 
-[Steam Points Ultimate Guide 2024: How to Earn and Spend](https://player.me/steam-points-ultimate-guide-2024-how-to-earn-and-spend/)
+[EA Sports College Football 25: Release Date, Dynasty and Everything You Need to Know So Far](https://player.me/all-you-need-to-know-about-ea-sports-college-football-25/)
 
-June 19, 2024
+July 18, 2024
 
-[](https://player.me/complete-recap-of-nintendo-direct-2024/ "Nintendo Direct 2024: Complete Recap of Everything Announced")
+[](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/ "EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know")
 
-[Nintendo Direct 2024: Complete Recap of Everything Announced](https://player.me/complete-recap-of-nintendo-direct-2024/)
+[EA Sports FC 25: Release Date, Pre-Order Bonuses and All You Need to Know](https://player.me/all-you-need-to-know-about-ea-sports-fc-25/)
 
-June 19, 2024
+July 18, 2024
 
-[](https://player.me/captain-blood-returns-to-mainstream-consoles/ "Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years")
+[](https://player.me/resident-evil-7-ios-is-the-latest-aaa-port-to-flop/ "Resident Evil 7 iOS Is the Latest AAA Port to Flop, with Less than 2000 Purchases")
 
-[Old But Golden Captain Blood Returns to Mainstream Consoles After 14 Years](https://player.me/captain-blood-returns-to-mainstream-consoles/)
+[Resident Evil 7 iOS Is the Latest AAA Port to Flop, with Less than 2000 Purchases](https://player.me/resident-evil-7-ios-is-the-latest-aaa-port-to-flop/)
 
-June 18, 2024
+July 17, 2024
 
-[](https://player.me/sims-competitor-life-by-you-cancelled-by-paradox/ "Sims Competitor Life by You Cancelled After Paradox Deemed It a Clear Failure")
+[](https://player.me/neverness-to-everness-the-new-open-world-fantasy-rpg/ "Neverness to Everness, the New Open-World Fantasy RPG, Looks Like a Blend of Genshin Impact and GTA")
 
-[Sims Competitor Life by You Cancelled After Paradox Deemed It a Clear Failure](https://player.me/sims-competitor-life-by-you-cancelled-by-paradox/)
+[Neverness to Everness, the New Open-World Fantasy RPG, Looks Like a Blend of Genshin Impact and GTA](https://player.me/neverness-to-everness-the-new-open-world-fantasy-rpg/)
 
-June 18, 2024
+July 17, 2024
 
-[](https://player.me/is-palia-cross-platform-and-cross-play/ "Is Palia Cross-Platform and Cross-Play?")
+[](https://player.me/which-7-fallout-4-builds-are-the-best-for-you/ "Fallout 4 Builds: Which 7 Builds Are the Best for You?")
 
-[Is Palia Cross-Platform and Cross-Play?](https://player.me/is-palia-cross-platform-and-cross-play/)
+[Fallout 4 Builds: Which 7 Builds Are the Best for You?](https://player.me/which-7-fallout-4-builds-are-the-best-for-you/)
 
-June 14, 2024
+July 16, 2024
 
-[](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/ "This Dragon Ball Sparking Zero Feature Has Fans Energy Level Over 9000!")
+[](https://player.me/the-comprehensive-ai-agent-guide-2024/ "What Is an AI Agent? The Comprehensive Guide 2024")
 
-[This Dragon Ball Sparking Zero Feature Has Fans Energy Level Over 9000!](https://player.me/this-dragon-ball-sparking-zero-feature-is-over-9000/)
+[What Is an AI Agent? The Comprehensive Guide 2024](https://player.me/the-comprehensive-ai-agent-guide-2024/)
 
-June 14, 2024
+July 16, 2024
 
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 469,846 times, 2,380 visit(s) today
+Visited 529,801 times, 1,501 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
