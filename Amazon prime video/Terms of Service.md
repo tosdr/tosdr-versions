@@ -1,4 +1,4 @@
-![](//fls-eu.amazon.com/1/batch/1/OP/A2MFUE2XK8ZSSY:259-3016432-9407356:ATXWY81NRTE4RP8Q0AMS$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DATXWY81NRTE4RP8Q0AMS:0)           
+![](//fls-eu.amazon.com/1/batch/1/OP/A2MFUE2XK8ZSSY:257-0267456-1799403:EJY4KV8DQJPRD3CW0GD5$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DEJY4KV8DQJPRD3CW0GD5:0)           
 
 [![Prime Video](https://m.media-amazon.com/images/G/01/digital/video/web/Logo-min.png)](https://www.primevideo.com/region/eu/storefront/ref=atv_hom_Topic_c_9zZ8D2_hom)
 
@@ -45,25 +45,6 @@
     
     * [Sign In](https://www.primevideo.com/region/eu/auth-redirect/ref=atv_nb_sign_in?signin=1&returnUrl=%2Fregion%2Feu%2Fhelp%2Fref%3Datv_unknown%3FnodeId%3D202095490%26pop-up%3D1%252Fref%253Datv_hp_cnt)
     
-
-Info
-
-Select your cookie preferences
-------------------------------
-
-We use cookies and similar tools that are necessary to enhance your experiences on Amazon video services, enable you to make purchases, and provide our services, as detailed in our [Cookie Notice](https://www.primevideo.com/help/ref=atv_hp_nd_nav?nodeId=GZVH7DTWNBGPRPDS). We also use these cookies to understand how customers use our services (for example, by measuring visits to our service) so we can make improvements.
-
-If you agree, we'll also use cookies to complement your viewing experience across Amazon video services as described in our Cookie Notice. Your choice applies to using first-party and third-party advertising cookies on this service. Cookies store or access standard device information like a unique identifier. Up to [103 third parties](https://www.primevideo.com/region/eu/privacyprefs/primevideo/partners) use cookies on this service for their purposes of displaying and measuring personalized ads, generating audience insights, and developing and improving products.
-
-To learn more about the personal information Amazon uses for advertising purposes (like Store order history, Prime Video Watch history, or demographic information) and cookies, see our [Privacy Notice](https://www.primevideo.com/region/eu/help/ref=atv_hp_nd_cnt?nodeId=202064890) and [Cookie Notice](https://www.primevideo.com/help/ref=atv_hp_nd_nav?nodeId=GZVH7DTWNBGPRPDS).
-
-Click Decline to reject or Customize to make more detailed advertising choices or learn about how to change your choices.
-
-Accept
-
-Decline
-
-[Customize](https://www.primevideo.com/region/eu/privacyprefs/primevideo?ref_=atv_dma_ATVHelp_cookienotf_popup_custmz)
 
 Help
 ====
@@ -184,4 +165,4 @@ If you signed up for your video-only subscription or membership through a third 
 * [Cookies Notice](https://www.primevideo.com/region/eu/help/ref=atv_hp_nd_cnt?nodeId=GZVH7DTWNBGPRPDS)
 * © 1996-2024, Amazon.com, Inc. or its affiliates
 
-![](//fls-eu.amazon.com/1/batch/1/OP/A2MFUE2XK8ZSSY:259-3016432-9407356:ATXWY81NRTE4RP8Q0AMS$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DATXWY81NRTE4RP8Q0AMS:0)
+![](//fls-eu.amazon.com/1/batch/1/OP/A2MFUE2XK8ZSSY:257-0267456-1799403:EJY4KV8DQJPRD3CW0GD5$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DEJY4KV8DQJPRD3CW0GD5:0)
