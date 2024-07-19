@@ -61,6 +61,8 @@ For displaying maps and surroundings in GeoGuessr, we use [Google Maps, Google E
 
 To provide secure payments, we use [Paddle](https://paddle.com/privacy/) in our check-out on our website, and [App Store](https://www.apple.com/legal/privacy/en-ww/) and [Google Play Store](https://policies.google.com/privacy) (depending on your mobile device) for payments in our app.
 
+For collecting player feedback, we use [Canny](https://canny.io/privacy) on our Support page, where you can report bugs and request features.
+
 For support matters, we use [Kundo](https://www.kundo.se/en/help-support?path=%2Fcategory%2Fsecurity-and-privacy) and [Zendesk](https://www.zendesk.com/company/agreements-and-terms/privacy-policy/) to ensure that your questions get answered.
 
 To provide branded merchandise, we use [Spreadshirt](https://www.spreadshirt.com/privacy-policy-C3259) to manage orders, shipping and related services.
@@ -148,7 +150,7 @@ GeoGuessr AB (Reg.No.556939-8349)
 Katarinavägen 17,  
 116 45 Stockholm, Sweden
 
-This Privacy Statement was last updated on 4/4/2024
+This Privacy Statement was last updated on 28/06/2024
 
 ![](/_next/static/media/notifications-disabled.e5a3a203.svg)
 
