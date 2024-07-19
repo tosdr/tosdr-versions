@@ -1,4 +1,4 @@
-[![Home Page](etc/templates/website2/img/logo.svg)](https://www.apps112.com/ "Home Page")
+[![Apps112](https://www.apps112.com/etc/templates/website2/img/logo.svg)](https://www.apps112.com/ "Home Page")
 
 |     |     |
 | --- | --- |
@@ -177,31 +177,31 @@ last week
 
 [doPDF
 
-10,204](https://dopdf.apps112.com/ "Continue to app")  
-
-[Free Recharge Unlimited App
-
-3,802](https://free-recharge-unlimited-app.apps112.com/ "Continue to app")  
-
-[Girls Random Video Call - Live
-
-3,590](https://girls-random-video-call-live.apps112.com/ "Continue to app")  
-
-[Breezy：IconLibrary
-
-3,302](https://breezy-iconlibrary-ios.apps112.com/ "Continue to app")  
-
-[CashMama- Instant Personal Loan App Online
-
-2,629](https://cashmama-instant-personal-loan-app-online.apps112.com/ "Continue to app")  
-
-[Live Video Call - Girls Random Video Chat app
-
-2,613](https://live-video-call-girls-random-video-chat-app.apps112.com/ "Continue to app")  
+9,645](https://dopdf.apps112.com/ "Continue to app")  
 
 [Daily Cash - Earn Real Money Online
 
-2,398](https://daily-cash-earn-real-money-online.apps112.com/ "Continue to app")  
+4,120](https://daily-cash-earn-real-money-online.apps112.com/ "Continue to app")  
+
+[Free Recharge Unlimited App
+
+4,000](https://free-recharge-unlimited-app.apps112.com/ "Continue to app")  
+
+[Bitcoin Ice Mine
+
+3,200](https://bitcoin-ice-mine.apps112.com/ "Continue to app")  
+
+[MalO ver1.0.0
+
+2,487](https://malo-ver1-0-0.apps112.com/ "Continue to app")  
+
+[CashMama- Instant Personal Loan App Online
+
+2,428](https://cashmama-instant-personal-loan-app-online.apps112.com/ "Continue to app")  
+
+[ML Rewards
+
+2,271](https://ml-rewards-lite.apps112.com/ "Continue to app")  
 
   [View All Top Downloads](https://www.apps112.com/top-downloads-overall.html?categ=)
 
@@ -210,19 +210,19 @@ last week
 Trending Apps
 =============
 
-[PDF Export Pro - PDF Editor](https://pdf-export-pro-all-offline-pdf-ios.apps112.com/ "Continue to app")
+[Xì Dách Offline](https://xi-dach-offline.apps112.com/ "Continue to app")
 
-[MCS 300](https://mcs-300.apps112.com/ "Continue to app")
+[Secret Diary](https://secret-diary.apps112.com/ "Continue to app")
 
-[126 ASTROLOGY: Vedic & KP App](https://birth-chart-analysis-astrology-horoscope.apps112.com/ "Continue to app")
+[Diamond Plusiq](https://diamond-plusiq-ios.apps112.com/ "Continue to app")
 
-[Mindblow: Guess the Word!](https://mindblow-guess-the-word.apps112.com/ "Continue to app")
+[Pompeii Tour - Travel Guide](https://pompeii-tour-travel-guide-ios.apps112.com/ "Continue to app")
 
-[Star Movie](https://star-movie.apps112.com/ "Continue to app")
+[Vampire: Dark Night](https://vampire-dark-night-ios.apps112.com/ "Continue to app")
 
-[Umro Ayar](https://umro-ayar.apps112.com/ "Continue to app")
+[SwapMe-AI Face Swap&Deepfake](https://swapme-ai-face-swap-deepfake-ios.apps112.com/ "Continue to app")
 
-[ফ্রি ইন্টারনেট new Free Net BD](https://new-free-net-bd.apps112.com/ "Continue to app")
+[Antstream Arcade](https://antstream-arcade-ios.apps112.com/ "Continue to app")
 
   
 
@@ -263,4 +263,4 @@ Trending Apps
 
 |     |     |     |
 | --- | --- | --- |
-| ![Logo](etc/templates/website2/img/logo.svg) |     | [© Copyright](https://www.apps112.com/copyright.html "Link to Homepage") **Softland**. All rights reserved. |
+| ![Apps112](https://www.apps112.com/etc/templates/website2/img/logo.svg) |     | [© Copyright](https://www.apps112.com/copyright.html "Link to Homepage") **Softland**. All rights reserved. |
