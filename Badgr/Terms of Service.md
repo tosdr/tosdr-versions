@@ -108,6 +108,13 @@ Main
                 
                 The data-driven support and communication solution that improves edtech adoption.
                 
+            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
+                
         * Column
             * [LearnPlatform by Instructure](https://info.badgr.com/k12/products/learnplatform)
                 
@@ -158,6 +165,13 @@ Main
                 
                 Data-driven support and communication solution to maximize the use of campus technology.
                 
+            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
+                
             * [Services](https://info.badgr.com/services)
                 
                 We offer rollout plans, product training, content development, and more.
@@ -203,6 +217,12 @@ Main
                 ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
                 
                 Data-driven support and communication solution to maximize the use of your edtech.
+                
+            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights needed to make data-informed decisions.
                 
             * [Services](https://info.badgr.com/services)
                 
@@ -252,23 +272,22 @@ Main
             * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
-        *   ![Global Research Study & Trends - The State of Student Success & Engagement in Higher Education](/sites/default/files/styles/small_hq/public/image/2023-10/2023_SoHE_Stateof_HigherEd_DigitalAssets_Web_OG_Img_1920x1080.jpg?itok=uYDpW5wn)
+        *   ![](/sites/default/files/styles/small_hq/public/image/2024-06/2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg?itok=cb1Y7Px- "2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg")
             
-            Global Research Report
+            The EdTech Top 40:
             
             #### 
             
-            2023 State of Student Success and Engagement in Higher Education
+            K-12 EdTech Engagement
             
-            [Learn More](https://www.instructure.com/research/state-of-higher-education?utm_source=INST&utm_medium=RS&CampaignID=7013m000001Nz6CAAS)
+            [Learn More](https://info.badgr.com/edtech-top40)
             
 * News & Events
     * Column
         * Events
             * [Upcoming Events](https://info.badgr.com/events)
+            * [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
             * [InstructureCon 2024](https://info.badgr.com/events/instructurecon)
-            * [InstructureCon 2023](https://info.badgr.com/resources/instructurecon-2023)
-            * [Panda Pros](https://info.badgr.com/panda-pros)
             * [Webinars](https://info.badgr.com/resources/webinars)
         * News
             * [Latest News](https://info.badgr.com/news)
@@ -305,7 +324,7 @@ Main
     * Column
         * The EdTech Collective
             * [Our Partner Ecosystem](https://info.badgr.com/partners/our-partners)
-            * [Become a Partner](https://info.badgr.com/partners)
+            * [Become an EdCo Partner](https://info.badgr.com/partners)
             * [Channel Partners](https://info.badgr.com/partners/channel-partners)
             * [Evidence as a Service](https://info.badgr.com/partners/evidence-as-a-service)
 
@@ -351,6 +370,13 @@ Main
                 
                 The data-driven support and communication solution that improves edtech adoption.
                 
+            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
+                
         * Column
             * [LearnPlatform by Instructure](https://info.badgr.com/k12/products/learnplatform)
                 
@@ -401,6 +427,13 @@ Main
                 
                 Data-driven support and communication solution to maximize the use of campus technology.
                 
+            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights educators need to make  
+                data-informed decisions.
+                
             * [Services](https://info.badgr.com/services)
                 
                 We offer rollout plans, product training, content development, and more.
@@ -446,6 +479,12 @@ Main
                 ![](/sites/default/files/svg/2022-03/Impact_Bug_Square_0.svg)
                 
                 Data-driven support and communication solution to maximize the use of your edtech.
+                
+            * [Intelligent Insights](https://info.badgr.com/products/intelligent-insights)
+                
+                ![](/sites/default/files/svg/2024-06/Inst-logo-bug.svg)
+                
+                The actionable insights needed to make data-informed decisions.
                 
             * [Services](https://info.badgr.com/services)
                 
@@ -495,23 +534,22 @@ Main
             * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
-        *   ![Global Research Study & Trends - The State of Student Success & Engagement in Higher Education](/sites/default/files/styles/small_hq/public/image/2023-10/2023_SoHE_Stateof_HigherEd_DigitalAssets_Web_OG_Img_1920x1080.jpg?itok=uYDpW5wn)
+        *   ![](/sites/default/files/styles/small_hq/public/image/2024-06/2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg?itok=cb1Y7Px- "2024_6_Edtech_Top_40_Digital_Kit_OG_Image.jpg")
             
-            Global Research Report
+            The EdTech Top 40:
             
             #### 
             
-            2023 State of Student Success and Engagement in Higher Education
+            K-12 EdTech Engagement
             
-            [Learn More](https://www.instructure.com/research/state-of-higher-education?utm_source=INST&utm_medium=RS&CampaignID=7013m000001Nz6CAAS)
+            [Learn More](https://info.badgr.com/edtech-top40)
             
 * News & Events
     * Column
         * Events
             * [Upcoming Events](https://info.badgr.com/events)
+            * [InstructureCon 2025](https://info.badgr.com/instructurecon/spokane)
             * [InstructureCon 2024](https://info.badgr.com/events/instructurecon)
-            * [InstructureCon 2023](https://info.badgr.com/resources/instructurecon-2023)
-            * [Panda Pros](https://info.badgr.com/panda-pros)
             * [Webinars](https://info.badgr.com/resources/webinars)
         * News
             * [Latest News](https://info.badgr.com/news)
@@ -548,7 +586,7 @@ Main
     * Column
         * The EdTech Collective
             * [Our Partner Ecosystem](https://info.badgr.com/partners/our-partners)
-            * [Become a Partner](https://info.badgr.com/partners)
+            * [Become an EdCo Partner](https://info.badgr.com/partners)
             * [Channel Partners](https://info.badgr.com/partners/channel-partners)
             * [Evidence as a Service](https://info.badgr.com/partners/evidence-as-a-service)
 
@@ -816,7 +854,6 @@ Footer menu
     * [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
     * [Canvas Catalog](https://info.badgr.com/higher-education/products/canvas/canvas-catalog)
     * [Assessment](https://info.badgr.com/k12/products/mastery)
-    * [Elevate Analytics](https://info.badgr.com/k12/products/elevate/elevate-k12-analytics)
     * [Impact](https://info.badgr.com/k12/products/impact)
     * [LearnPlatform](https://info.badgr.com/k12/products/learnplatform)
     * [Services](https://info.badgr.com/services)
@@ -876,5 +913,6 @@ Social
 * [Twitter](https://twitter.com/Instructure)
 * [Facebook](https://www.facebook.com/CanvasLMS)
 * [Instagram](https://www.instagram.com/canvaslms/?hl=en)
+* [Youtube](https://www.youtube.com/@CanvasLMS)
 
 Copyright © 2008-2024 Instructure, Inc. All rights reserved. Various trademarks held by their respective owners.
