@@ -1,6 +1,6 @@
 Skip Navigation
 
-[![National](/etc/designs/nweb/assets/20240528133547/img/national_logo.svg)](https://www.nationalcar.com/en/home.html)
+[![National](/etc/designs/nweb/assets/20240709161040/img/national_logo.svg)](https://www.nationalcar.com/en/home.html)
 
 [Emerald Club Sign In / Enroll](https://www.nationalcar.com/en/sign-in.html)
 
@@ -261,6 +261,7 @@ Share Like a Pro
 * [Terms of Use](https://www.nationalcar.com/en/legal/terms-of-use.html)
 * [Privacy Policy](https://privacy.ehi.com/en-us/home.html)
 * [Cookie Policy](https://privacy.ehi.com/en-us/home.html)
+* [Consumer Health Data Privacy Statement](https://privacy.ehi.com/health)
 * [Privacy Choices ![](/content/dam/National/functional/icons/privacy-choices.png.timestamped.png/1686770284599.png)](#one_trust) 
 * [AdChoices ![](/content/dam/National/functional/icons/AdChoices Logo.png.timestamped.png/1638365131186.png)](https://optout.aboutads.info/) 
 
