@@ -7,7 +7,7 @@
 [GitHub](https://github.com/osmandapp/)
 
 * [Docs](https://osmand.net/docs/intro)
-* [User guide](https://osmand.net/docs/user/)
+* [User Guide](https://osmand.net/docs/user/)
     
 * [Technical Documentation](https://osmand.net/docs/technical/)
     
@@ -186,7 +186,6 @@ Telegram chat
 * [Italian](https://t.me/itosmand)
 * [Ukrainian](https://t.me/uaosmand)
 * [Polish](https://t.me/osmand_pl)
-* [Russian](https://t.me/ruosmand)
 * [Spanish](https://t.me/osmand_es)
 * [Arabic](https://t.me/+NwG00ihXJlBjZTA0)
 * [Türkçe](https://t.me/OsmAndTR)
