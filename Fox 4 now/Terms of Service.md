@@ -101,8 +101,6 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[BREAKING: LaBelle property where deputies got sick given the "all clear"](https://www.fox4now.com/labelle/urgent-people-sick-from-possible-haz-mat-in-labelle-homeland-security-responds)
-
 Terms of Use
 ============
 
