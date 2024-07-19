@@ -1,3 +1,11 @@
+**July 26th, 12 PM ET**
+
+[**Free Workshop:** Unblocking your teams with Launchpad in the GitKraken DevEx platform](https://event.sessions.us/gitkraken/coordinating-a-team-effort-using-launchpad-within-the-gitkraken-devex-platform?utm_source=gitkrakenwebsite&utm_campaign=julyworkshop&utm_id=workshop)
+
+**[Register now](https://event.sessions.us/gitkraken/coordinating-a-team-effort-using-launchpad-within-the-gitkraken-devex-platform?utm_source=gitkrakenwebsite&utm_campaign=julyworkshop&utm_id=workshop)**
+
+X
+
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
 
 * [Dev Tools](# "Dev Tools")
@@ -19,7 +27,7 @@
         * [PR & Code Review](https://www.gitkraken.com/features/pr-and-code-review)
         * [Security & Admin](https://www.gitkraken.com/features/security-and-admin)
         
-* [Jira Planning Tools](# "Jira Planning Tools")
+* [Planning Tools](# "Planning Tools")
     * Products
         --------
         
@@ -34,7 +42,7 @@
         * [Dev Visibility](https://www.gitkraken.com/features/visibility)
         * [Security & Admin](https://www.gitkraken.com/features/jira-security-and-admin)
         
-* [Top Dev Pains](# "Top Dev Pains")
+* [Developer Problems](# "Developer Problems")
     * * [Git Is Complicated](https://www.gitkraken.com/developer-problems/git-is-complicated)
         * [PR & Code Review Friction](https://www.gitkraken.com/developer-problems/pr-and-code-review)
         * [Context Switching](https://www.gitkraken.com/developer-problems/context-switching)
@@ -63,7 +71,7 @@
         
 * [Pricing](https://www.gitkraken.com/pricing "Pricing")
 * [Sign In](https://gitkraken.dev/login "Sign In")
-* [Sign Up](https://gitkraken.dev/register "Sign Up")
+* [Get Started](https://gitkraken.dev/trial?redirect_uri=https://www.gitkraken.com/typ/trial-start-success "Get Started")
 
 * [GitKraken Desktop features](https://www.gitkraken.com/git-client "GitKraken Desktop features")
 * [GitLens features](https://www.gitkraken.com/gitlens "GitLens features")
