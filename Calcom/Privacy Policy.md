@@ -434,6 +434,7 @@ English
 * [Timekit](https://cal.com/scheduling/timekit-alternative)
 * [YouCanBook.Me](https://cal.com/scheduling/youcanbookme-alternative)
 * [Meetingbird](https://cal.com/scheduling/meetingbird-alternative)
+* [Hubspot Scheduler](https://cal.com/scheduling/hubspot-alternative)
 * [Doodle](https://cal.com/scheduling/doodle-alternative)
 * [Woven](https://cal.com/scheduling/woven-alternative)
 * [Harmonizely](https://cal.com/scheduling/harmonizely-alternative)
