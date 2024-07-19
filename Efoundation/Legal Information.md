@@ -6,7 +6,7 @@
 * [/E/OS](https://e.foundation/e-os/)
 * [CLOUD](https://e.foundation/ecloud/)
 * [GET INVOLVED](https://e.foundation/get-involved/)
-* [GET STARTED](https://e.foundation/get-started/)
+* [GET /E/OS](https://e.foundation/get-e-os/)
 * [SUPPORT E FOUNDATION](https://e.foundation/donate-2/)
 * [English](https://e.foundation/legal-notice-privacy/)
     * [Français](https://e.foundation/fr/legal-notice-privacy/)
@@ -20,7 +20,7 @@ Menü
 * [/E/OS](https://e.foundation/e-os/)
 * [CLOUD](https://e.foundation/ecloud/)
 * [GET INVOLVED](https://e.foundation/get-involved/)
-* [GET STARTED](https://e.foundation/get-started/)
+* [GET /E/OS](https://e.foundation/get-e-os/)
 * [SUPPORT E FOUNDATION](https://e.foundation/donate-2/)
 * [English](https://e.foundation/legal-notice-privacy/)
     * [Français](https://e.foundation/fr/legal-notice-privacy/)
@@ -220,6 +220,6 @@ ABOUT YOUR MURENA CLOUD ACCOUNT
 
 [Telegram](https://t.me/mydataismydata) [Twitter](https://twitter.com/e_mydata) [Mastodon](https://mastodon.social/@e_mydata) [Comments](https://community.e.foundation/) [Gitlab](https://gitlab.e.foundation/e) [Linkedin](https://www.linkedin.com/company/eelo.io/) [Medium](https://edevelopers-blog.medium.com/)
 
-[](https://e.foundation/get-started/)
+[](https://e.foundation/get-e-os/)
 
 Copyright © 2018 - 2024 e.foundation All rights reserved.
