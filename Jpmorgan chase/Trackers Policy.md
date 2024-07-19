@@ -68,11 +68,11 @@ Institute
 
 Latest news
 
-![](/content/dam/jpmc/jpmorgan-chase-and-co/institute/banners/banner-retail-investors.jpg)
+![](/content/dam/jpmorganchase/images/institute/banner-how-households-manage-high-air-condit.png)
 
-The changing demographics of retail investors
+Feeling the Heat: How Households Manage High Air Conditioning Bills
 
-[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/the-changing-demographics-of-retail-investors)
+[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-households-manage-high-air-conditioning-bills)
 
 Careers
 
@@ -117,9 +117,6 @@ Annual Report 2023
 [Learn more](https://www.jpmorganchase.com/ir/annual-report/2023/ar-ceo-letters)
 
 [Newsroom](https://www.jpmorganchase.com/newsroom)
-
-* [Legal](https://www.jpmorganchase.com/legal)
-* Cookies Policy
 
 Cookies
 =======
@@ -168,7 +165,7 @@ To manage your use of cookies there are various resources available to you. For 
 
 **Learn more about Cookies Settings** >
 
-![JPMorganChase logo links to homepage](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
+![JPMorganChase logo](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
 
 [](https://www.linkedin.com/company/jpmorgan-chase/)[](https://www.facebook.com/jpmorganchase)[](https://instagram.com/jpmorgan)[](https://www.youtube.com/jpmorgan)
 
