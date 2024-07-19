@@ -1,4 +1,4 @@
-            
+             
 
 ![Jarrow Formulas Supplements](//jarrow.com/cdn/shop/files/Jarrow_PopUp_Img_600x.png?v=1693434059)
 
@@ -22,13 +22,13 @@ SHOP BY* [Benefit](#)
     
     * Digestive Health
         
-        [Digestive Health](https://jarrow.com/collections/digestive-and-gi-health) [View all Digestive Health](https://jarrow.com/collections/digestive-and-gi-health)
+        [Digestive Health](https://jarrow.com/collections/digestive-gi-health-probiotics) [View all Digestive Health](https://jarrow.com/collections/digestive-gi-health-probiotics)
         
         [![Jarro-Dophilus EPS 25 Billion CFU, 30 Veggie Capsules](//jarrow.com/cdn/shop/files/JEPSHP__042023_894eedbc-d0b2-4a57-bc2c-5a9d07d0bbf3_600x.jpg?v=1693346874)](https://jarrow.com/products/jarro-dophilus-eps-25-billion-cfu-enteric-coated-veggie-caps)
         
         Best Seller
         
-        [Digestive & GI Health](https://jarrow.com/collections/digestive-and-gi-health)
+        [Digestive, GI Health & Probiotics](https://jarrow.com/collections/digestive-gi-health-probiotics)
         
         ###### [Jarro-Dophilus® EPS - 25 Billion CFU](https://jarrow.com/products/jarro-dophilus-eps-25-billion-cfu-enteric-coated-veggie-caps)
         
@@ -40,7 +40,7 @@ SHOP BY* [Benefit](#)
         
         Best Seller
         
-        [Digestive & GI Health](https://jarrow.com/collections/digestive-and-gi-health)
+        [Digestive, GI Health & Probiotics](https://jarrow.com/collections/digestive-gi-health-probiotics)
         
         ###### [Fem-Dophilus® - 5 Billion CFU](https://jarrow.com/products/fem-dophilus-5-billion-cfu-veggie-caps-cool-ship)
         
@@ -52,7 +52,7 @@ SHOP BY* [Benefit](#)
         
         New
         
-        [Digestive & GI Health](https://jarrow.com/collections/digestive-and-gi-health)
+        [Digestive, GI Health & Probiotics](https://jarrow.com/collections/digestive-gi-health-probiotics)
         
         ###### [Fem-Dophilus® Advanced - 10 Billion CFU (Shelf Stable)](https://jarrow.com/products/fem-dophilus-advanced-10-billion-cfu-shelf-stable)
         
@@ -374,7 +374,7 @@ Search🡕
 
 Benefit
 
-* [Digestive Health](https://jarrow.com/collections/digestive-and-gi-health)
+* [Digestive Health](https://jarrow.com/collections/digestive-gi-health-probiotics)
 * [Mental Wellness](https://jarrow.com/collections/mental-wellness-mood-stress-supplements)
 * [Energy Support](https://jarrow.com/collections/energy-support-metabolism)
 * [Heart Health](https://jarrow.com/collections/heart-cardiovascular-health)
@@ -526,7 +526,7 @@ Help
 Shop
 ----
 
-[Digestive Health](https://jarrow.com/collections/digestive-and-gi-health) [Mental Wellness](https://jarrow.com/collections/mental-wellness-mood-stress-supplements) [Energy Support](https://jarrow.com/collections/energy-support-metabolism) [Heart Health](https://jarrow.com/collections/heart-cardiovascular-health) [Bone & Joint Health](https://jarrow.com/collections/bone-and-joint-health) [Immune Health](https://jarrow.com/collections/immune-health) [General Wellness](https://jarrow.com/collections/general-wellness) [Shop All](https://jarrow.com/collections/all)
+[Digestive Health](https://jarrow.com/collections/digestive-gi-health-probiotics) [Mental Wellness](https://jarrow.com/collections/mental-wellness-mood-stress-supplements) [Energy Support](https://jarrow.com/collections/energy-support-metabolism) [Heart Health](https://jarrow.com/collections/heart-cardiovascular-health) [Bone & Joint Health](https://jarrow.com/collections/bone-and-joint-health) [Immune Health](https://jarrow.com/collections/immune-health) [General Wellness](https://jarrow.com/collections/general-wellness) [Shop All](https://jarrow.com/collections/all)
 
 Resellers
 ---------
