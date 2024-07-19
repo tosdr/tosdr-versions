@@ -1,10 +1,10 @@
-[Skip to content](#MainContent)
+               Terms of service – BulbHead                                                                              [Skip to content](#MainContent)
 
     
 
 Free standard shipping on **orders over $49**
 
-  [![BulbHead](//www.bulbhead.com/cdn/shop/files/Logo.png?v=1679292382&width=93) ![BulbHead](//www.bulbhead.com/cdn/shop/files/BH_LOGO-Horizontal-_BH_2.png?v=1668771639&width=180) ![BulbHead](//www.bulbhead.com/cdn/shop/files/Logo.png?v=1679292382&width=60)](https://www.bulbhead.com/)
+  [![BulbHead](//www.bulbhead.com/cdn/shop/files/MemDay-BH-Logo-Anim-400x438-flag.gif?v=1676694275&width=400) ![BulbHead](//www.bulbhead.com/cdn/shop/files/BH_LOGO-Horizontal-_BH_2.png?v=1668771639&width=180) ![BulbHead](//www.bulbhead.com/cdn/shop/files/Logo.png?v=1679292382&width=60)](https://www.bulbhead.com/)
 
  Got Problems? We Have Solutions!  
 
@@ -378,14 +378,11 @@ Payment methods
 * Afterpay
 * Amazon
 * American Express
-* Apple Pay
 * Diners Club
 * Discover
 * Meta Pay
-* Google Pay
 * Mastercard
 * PayPal
-* Shop Pay
 * Venmo
 * Visa
 * ![](//www.bulbhead.com/cdn/shop/files/pay-later-zip.svg?v=15073575595974828375)
@@ -495,10 +492,10 @@ SHARE WISHLIST
 
 ##### Or Share Via
 
-* [![Facebook Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_facebook_1.svg)](#)
+* [![Facebook Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/meta1.svg)](#)
 * [![Pinterest Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_pinterest_1.svg)](#)
-* [![Twitter Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_twitter_1.svg)](#)
-* [![Copy text](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_email_1.svg "Copy wishlist link")](#)
+* [![Twitter Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/twitter1.svg)](#)
+* [![Copy text](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy wishlist link")](#)
 
 ##### Subscribe and get alerts about your Wishlist
 
@@ -533,3 +530,22 @@ Yes Cancel
 #### You will no longer receive emails about wishlist activities from this store.
 
 Close
+
+##### Guest shopper
+
+You are currently shopping anonymously!
+
+Login to save your wishlist.
+
+[Login](https://www.bulbhead.com/account/login)
+
+[Copy link to share ![Email Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy guest wishlist link")](#) 
+
+##### SHARE THIS CREATION
+
+##### Or Share Via
+
+* [![Facebook Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/meta1.svg.svg)](#)
+* [![Pinterest Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_pinterest_1.svg)](#)
+* [![Twitter Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/twitter1.svg)](#)
+* [![Copy text](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy wishlist link")](#)
