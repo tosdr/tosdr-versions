@@ -77,6 +77,6 @@ QUARRY
 
 View More
 
-[Privacy Policy - Updated](https://www.warnermediaprivacy.com/policycenter/b2c/wme/)[Terms of Use](https://www.cinemax.com/terms-of-use)[Ad Choices](https://www.warnermediaprivacy.com/policycenter/b2c/WM/)Do Not Sell My Personal Information
+[Privacy Policy - Updated](https://www.warnermediaprivacy.com/policycenter/b2c/wme/)[Terms of Use](https://www.cinemax.com/terms-of-use)[Ad Choices](https://www.warnermediaprivacy.com/policycenter/b2c/WM/)[Do Not Sell My Personal Information](#compliance-link)
 
 Cinemax® and related channels and service marks are the property of Home Box Office, Inc ©2024 Home Box Office Inc. All Rights Reserved. This website may contain mature content.
