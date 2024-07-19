@@ -71,7 +71,7 @@ You can opt-out of Google Analytics data collection with the Google Analytics Op
 
 If you have registered for an account with us, you may review and update certain personal information in your account profile by logging into the account.
 
-In case you choose to delete your account and all your personal information, you can send us a request, which will be processed within the next 24 hours, by contacting us through the [contact us form](https://cuty.io/contact) or by emailing us using the following email: [\[email protected\]](https://cuty.io/cdn-cgi/l/email-protection)
+In case you choose to delete your account and all your personal information, you can send us a request, which will be processed within the next 24 hours, by contacting us through the [contact us form](https://cuty.io/contact) or by emailing us using the following email: contact@cuty.io
 
 ### Other Sites and Services
 
@@ -101,7 +101,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### Contact Us
 
-For any questions, complaints, and queries or to report any violations, kindly send an email on [\[email protected\]](https://cuty.io/cdn-cgi/l/email-protection)
+For any questions, complaints, and queries or to report any violations, kindly send an email on contact@cuty.io
 
 Ready to start earning with cuty.io?
 ------------------------------------
