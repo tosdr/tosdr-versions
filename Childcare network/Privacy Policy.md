@@ -8,7 +8,7 @@ Search
 
 [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network "careers")
 
-[![Childcare Network](data:image/gif;nitro-empty-id=MjgyOjIyNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://childcarenetwork.com/)
+[![Childcare Network](data:image/gif;nitro-empty-id=Mjk1OjIyNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://childcarenetwork.com/)
 
 * [About Us](https://childcarenetwork.com/about/)
     * [Mission](https://childcarenetwork.com/about/mission/)
@@ -26,6 +26,7 @@ Search
     * [School-Age](https://childcarenetwork.com/programs/school-age/)
     * [School Break Care](https://childcarenetwork.com/programs/school-break-care/)
 * [Resources](https://childcarenetwork.com/resources/)
+    * [Blog](https://childcarenetwork.com/blog/)
     * [How to Enroll](https://childcarenetwork.com/about/how-to-enroll/)
     * [Tour Checklist](https://childcarenetwork.com/tour-checklist/)
     * [First Day Checklist](https://childcarenetwork.com/about/first-day-checklist/)
@@ -170,7 +171,7 @@ Child Development Schools, Inc. reserves the right to revise, amend, or modify t
   
 Revised and Effective as of 09/07/2023.
 
-![Childcare Network](data:image/gif;nitro-empty-id=NTY2OjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![Childcare Network](data:image/gif;nitro-empty-id=NTgwOjIzNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 * [Acquisitions](https://childcarenetwork.com/acquisitions/)
 * [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network)
@@ -185,7 +186,7 @@ Please enable JavaScript in your browser to complete this form.
 
 Email \*
 
-Subscribe![Loading](data:image/svg+xml;nitro-empty-id=NTc1OjE5NzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+Subscribe![Loading](data:image/svg+xml;nitro-empty-id=NTg5OjE5NzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
 
 Connect With Us
 
