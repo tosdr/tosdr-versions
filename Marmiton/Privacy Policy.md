@@ -30,6 +30,7 @@ Connexion
 * En cuisine
     * [Actus food](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
     * [Tendance food](https://www.marmiton.org/cuisine-rapide/tendance-tp121939.html)
+    * [Cuisine variée au Airfryer](https://www.marmiton.org/tout-sur-electromenagers/airfryer-ssc80.html)
     * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
     * [Mieux acheter](https://www.marmiton.org/mieux-acheter/shopping-ssc20.html?utm_source=website&utm_medium=shopping_menu&utm_campaign=all_sous_categorie)
     * [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
@@ -49,11 +50,11 @@ Connexion
 * Livres
     * [Nos livres de cuisine avec](https://www.marmiton.org/recettes/les-livres-de-cuisine-marmiton-tp192022.html)
 
+* [Vos apéros 🥇 avec](https://www.marmiton.org/dossier-vos-aperos-avec-herta)
 * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
-*  [![Viva Italia](https://assets.afcdn.com/recipe/20240506/151164_origin.png) Viva Italia](https://www.marmiton.org/dossier-viva-italia)
-*  [![Petit-déj gourmand !](https://assets.afcdn.com/recipe/20240506/151174_origin.png) Petit-déj gourmand !](https://www.marmiton.org/dossier-petit-dejeuner-et-brunch)
+*  [![Top Chrono !](https://assets.afcdn.com/recipe/20240703/152478_origin.png) Top Chrono !](https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html)
+*  [![Barbecue party](https://assets.afcdn.com/recipe/20240703/152488_origin.png) Barbecue party](https://www.marmiton.org/barbecue-pique-nique/barbecue-tp123357.html)
 * [Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
-* [](https://marmitest.marmiton.org/)
 * [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / POLITIQUE DE PROTECTION DES DONNÉÉS PERSONNELLES / PRIVACY POLICY
