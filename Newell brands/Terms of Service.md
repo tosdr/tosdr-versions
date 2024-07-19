@@ -29,7 +29,7 @@
     
     [Contact Us / FAQs](https://www.newellbrands.com/contact)
     
-    Select a Brand aprica Baby Jogger Ball Bernardin bubba Cadence Calphalon Campingaz Chesapeake Bay Candle Coleman Contigo Crock-Pot Dymo Elmer's ExOfficio Expo Foodsaver graco Krazy Glue Mapa marmot Mr Coffee Mr. Sketch Nuk Oster paper Mate Parker Prismacolor Quickie Reynolds Pens Rotring Rubbermaid Rubbermaid sharpie Sistema Spontex Spontex Stearns sunbeam Tigex Waterman WoodWick X-ACTO Yankee Candle
+    Select a Brand Aprica Baby Jogger Ball Bernardin bubba Cadence Calphalon Campingaz Chesapeake Bay Candle Coleman Contigo Crock-Pot Dymo Elmer's ExOfficio Expo Foodsaver Graco Krazy Glue Mapa Marmot Mr Coffee Mr. Sketch Nuk Oster Paper Mate Parker Prismacolor Quickie Reynolds Pens Rotring Rubbermaid Rubbermaid Commercial Products Sharpie Sistema Spontex Stearns Sunbeam Tigex Waterman WoodWick X-ACTO Yankee Candle
     
 * [Brands](https://www.newellbrands.com/our-brands/)
 * [Our Stories](https://www.newellbrands.com/our-stories/)
@@ -42,6 +42,14 @@
     
     Latest News Releases
     
+    July 12, 2024
+    
+    [Newell Brands to Webcast Second Quarter 2024 Earnings Results](http://ir.newellbrands.com/news-releases/news-release-details/newell-brands-webcast-second-quarter-2024-earnings-results)
+    
+    June 26, 2024
+    
+    [Paper Mate® Helps Thousands Feel the Joy™ with a Movie Ticket Sweepstakes to Celebrate Disney and Pixar's Inside Out 2](http://ir.newellbrands.com/news-releases/news-release-details/paper-mater-helps-thousands-feel-joytm-movie-ticket-sweepstakes)
+    
     June 05, 2024
     
     [DYMO PARTNERS WITH TAYLOR TO OFFER CUSTOM PRE-PRINTED LABELS FOR DYMO LABELWRITER 5 SERIES PRINTERS](http://ir.newellbrands.com/news-releases/news-release-details/dymo-partners-taylor-offer-custom-pre-printed-labels-dymo)
@@ -49,14 +57,6 @@
     June 04, 2024
     
     [Celebrate 140th Anniversary of the Ball® Brand with New Keepsake Jar](http://ir.newellbrands.com/news-releases/news-release-details/celebrate-140th-anniversary-ballr-brand-new-keepsake-jar)
-    
-    May 24, 2024
-    
-    [Newell Brands to Webcast Presentation at the dbAccess Global Consumer Conference](http://ir.newellbrands.com/news-releases/news-release-details/newell-brands-webcast-presentation-dbaccess-global-consumer-0)
-    
-    May 16, 2024
-    
-    [Graco® Introduces Groundbreaking SmartSense™ Soothing Bassinet and SmartSense™ Soothing Swing with Patented Technology](http://ir.newellbrands.com/news-releases/news-release-details/gracor-introduces-groundbreaking-smartsensetm-soothing-bassinet)
     
     [View All Press Releases](http://ir.newellbrands.com/news-releases)
     
