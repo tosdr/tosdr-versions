@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/06/Paul-Redd-326x245.jpg)](https://cwbchicago.com/2024/06/gunman-shot-paleta-man-during-dispute-over-3-ice-cream-officials-say.html "Gunman shot paleta man during $3 ice cream dispute, officials say")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/JH339251-suspects-326x245.jpg)](https://cwbchicago.com/2024/07/16-year-old-charged-with-attacking-robbing-man-on-cta-train-at-least-7-more-suspects-at-large.html "16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large")
+
+CTA
+
+### [16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large](https://cwbchicago.com/2024/07/16-year-old-charged-with-attacking-robbing-man-on-cta-train-at-least-7-more-suspects-at-large.html "16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large")
+
+[July 16, 2024 3:17 PM](https://cwbchicago.com/2024/07)
+
+Police have arrested a 16-year-old boy in connection with the violent attack and robbery of a 63-year-old man on the Orange Line last week. At least seven more attackers remain on the loose.[](https://cwbchicago.com/2024/07/16-year-old-charged-with-attacking-robbing-man-on-cta-train-at-least-7-more-suspects-at-large.html "16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2023/10/Generic-0-edited-326x245.jpg)](https://cwbchicago.com/2024/07/woman-shot-in-albany-park-last-week-has-died-officials-say.html "Woman shot in Albany Park last week has died, officials say")
+
+Albany Park
+
+### [Woman shot in Albany Park last week has died, officials say](https://cwbchicago.com/2024/07/woman-shot-in-albany-park-last-week-has-died-officials-say.html "Woman shot in Albany Park last week has died, officials say")
+
+[July 16, 2024 2:46 PM](https://cwbchicago.com/2024/07)
+
+A 21-year-old woman who was shot in Albany Park last week has died.[](https://cwbchicago.com/2024/07/woman-shot-in-albany-park-last-week-has-died-officials-say.html "Woman shot in Albany Park last week has died, officials say")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/04/Virgil-Gibson-326x245.jpg)](https://cwbchicago.com/2024/07/feds-charge-chicago-rapper-pfg-nuk-with-violent-carjackings-kidnapping-machine-gun-possession.html "Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession")
 
 Citywide
 
-### [Gunman shot paleta man during $3 ice cream dispute, officials say](https://cwbchicago.com/2024/06/gunman-shot-paleta-man-during-dispute-over-3-ice-cream-officials-say.html "Gunman shot paleta man during $3 ice cream dispute, officials say")
+### [Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession](https://cwbchicago.com/2024/07/feds-charge-chicago-rapper-pfg-nuk-with-violent-carjackings-kidnapping-machine-gun-possession.html "Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession")
 
-[June 19, 2024 2:51 AM](https://cwbchicago.com/2024/06)
+[July 16, 2024 2:24 PM](https://cwbchicago.com/2024/07)
 
-A dispute over the price of a $3 ice cream ended with a paleta man shot and a SWAT team response by the Chicago Police Department, officials said. Charges have been filed. [](https://cwbchicago.com/2024/06/gunman-shot-paleta-man-during-dispute-over-3-ice-cream-officials-say.html "Gunman shot paleta man during $3 ice cream dispute, officials say")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/344-ogden-326x245.jpg)](https://cwbchicago.com/2024/06/ms13-gang-member-sexually-assaulted-his-own-7-year-old-son-inside-west-town-migrant-shelter-officials-say.html "MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say")
-
-West Town
-
-### [MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say](https://cwbchicago.com/2024/06/ms13-gang-member-sexually-assaulted-his-own-7-year-old-son-inside-west-town-migrant-shelter-officials-say.html "MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say")
-
-[June 18, 2024 4:29 PM](https://cwbchicago.com/2024/06)
-
-A migrant who admits to being an MS13 gang member sexually assaulted his own 7-year-old son inside a Chicago migrant shelter this month, officials said.[](https://cwbchicago.com/2024/06/ms13-gang-member-sexually-assaulted-his-own-7-year-old-son-inside-west-town-migrant-shelter-officials-say.html "MS13 gang member sexually assaulted his own 7-year-old son inside West Town migrant shelter, officials say")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/06/700-n-union-041A-326x245.jpg)](https://cwbchicago.com/2024/06/man-shot-near-west-loop-encampment1.html "Man shot near West Loop encampment")
-
-West Loop
-
-### [Man shot near West Loop encampment](https://cwbchicago.com/2024/06/man-shot-near-west-loop-encampment1.html "Man shot near West Loop encampment")
-
-[June 18, 2024 8:01 AM](https://cwbchicago.com/2024/06)
-
-A 48-year-old man was shot Tuesday morning near a homeless encampment in the West Loop. Local residents and politicians have been pointing to the area’s tent cities as a source of violent crime for nearly a year.[](https://cwbchicago.com/2024/06/man-shot-near-west-loop-encampment1.html "Man shot near West Loop encampment")
+Federal prosecutors on Tuesday charged Chicago rapper PGF Nuk with committing two violent carjackings earlier this year. CWBChicago first told you about the allegations against Virgil Gibson, 22, after state prosecutors filed charges against him in April.[](https://cwbchicago.com/2024/07/feds-charge-chicago-rapper-pfg-nuk-with-violent-carjackings-kidnapping-machine-gun-possession.html "Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Message
+Phone
 
 Submit
 
