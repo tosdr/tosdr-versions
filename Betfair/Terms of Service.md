@@ -444,9 +444,7 @@ It is important that you take the time to read and understand these General Term
       
     **
     
-    14.1 Save as set out in the clause below, information about inactive Accounts, including applicable administrative fees and the procedure by which you will be informed that such a fee will be charged, can be found in paragraph 7 of the [Betfair Charges](https://www.betfair.com/aboutUs/Betfair.Charges/) page under "Inactive Account Fees".
-    
-    14.2 For all customers other than customers of Betfair Pty Limited ("Australasian Customers") and UK registered customers, if you do not use your Account for a continuous period of 30 months, any funds remaining in your Account may be forfeited to the Malta Gaming Authority pursuant to Maltese gaming regulations. For further information about the MGA please go to [www.mga.org.mt](https://www.mga.org.mt/).
+    14.1 Betfair does not charge inactive account fees.
     
 53. **Safer Gambling**  
       
@@ -701,7 +699,7 @@ It is important that you take the time to read and understand these General Term
   
   
 
-V5 31/05/2023
+V2.24 15/07/24
 
   
   
