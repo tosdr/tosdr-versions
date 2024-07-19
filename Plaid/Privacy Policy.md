@@ -48,7 +48,7 @@
     * [Library](https://plaid.com/resources/library/)
     * [Industry resources](https://plaid.com/resources/)
     * [Customer stories](https://plaid.com/customer-stories/)
-    * [Annual conference](https://plaid.com/events/threads/)
+    * [Annual conference](https://plaid.com/events/effects/)
     * * * *
         
         ###### For consumers
@@ -107,7 +107,7 @@
     * [Library](https://plaid.com/resources/library/)
     * [Industry resources](https://plaid.com/resources/)
     * [Customer stories](https://plaid.com/customer-stories/)
-    * [Annual conference](https://plaid.com/events/threads/)
+    * [Annual conference](https://plaid.com/events/effects/)
     * * * *
         
         ###### For consumers
