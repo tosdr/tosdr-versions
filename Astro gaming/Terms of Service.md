@@ -44,7 +44,7 @@ See More
 
 [Business Support Home](https://prosupport.logi.com/hc) [Support Home](https://www.astrogaming.com/hc/en-us) [Downloads & Apps](https://www.astrogaming.com/hc/articles/360024361233) [Spare Parts](https://www.astrogaming.com/hc/articles/360025903194)
 
-[MyHarmony Support](http://support.myharmony.com/) [Ultimate Ears Support](http://www.ultimateears.com/support) [Compliance Certificates](http://www.logitech.com/compliance)
+[MyHarmony Support](http://support.myharmony.com/) [Compliance Certificates](http://www.logitech.com/compliance)
 
 [Warranty Information](http://www.logitech.com/footer/terms-of-use?id=3101) [Privacy + Security](http://www.logitech.com/footer/privacy) [Accessibility](https://www.logitech.com/en-us/legal/accessibility.html) [Contact Us](https://www.astrogaming.com/hc/en-us/requests/new?ticket_form_id=360000621393)
 
