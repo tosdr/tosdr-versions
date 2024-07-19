@@ -14,8 +14,6 @@ The Fragment Media Group LLC, Daily Dot LLC, Spark Network LLC, and NautilusNext
 * [](https://www.dailydot.com/)[dailydot.com](https://www.dailydot.com/) 
 * [](https://www.dailydot.com/)[nautil.us](https://nautil.us/)
 * [passionfru.it](https://passionfru.it/)
-* [](https://www.dailydot.com/)[god.dailydot.com](https://god.dailydot.com/)
-* [](https://www.dailydot.com/)[meetheinternet.com](https://meettheinternet.com/)
 * [](https://www.dailydot.com/)[nerdsnacks.io](https://nerdsnacks.io/)
 * [one5c.com](https://one5c.com/)
 
