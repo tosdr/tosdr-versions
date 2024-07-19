@@ -18,9 +18,6 @@ A **lock** (![ ](/themes/main/images/icons/icon-gov-lock.svg)) or **https://** m
 
 [![National Credit Union Administration seal](/themes/main/images/logo-image.svg "Home page of NCUA.gov")![ ](/themes/main/images/logo-text.svg)](https://ncua.gov/)
 
-Main navigation
----------------
-
 * [About](https://ncua.gov/about)
     
     [About](https://ncua.gov/about)
@@ -62,6 +59,10 @@ Main navigation
     * [Inspector General](https://ncua.gov/about/inspector-general)
         
         [Inspector General](https://ncua.gov/about/inspector-general)
+        
+    * [Budget & Performance](https://ncua.gov/about/budget-performance)
+        
+        [Budget & Performance](https://ncua.gov/about/budget-performance)
         
     
 * [Regulation & Supervision](https://ncua.gov/regulation-supervision)
@@ -414,30 +415,40 @@ Last modified on
 
 05/29/24
 
-Footer menu
------------
+**Stay Informed**
 
-* [Home](https://ncua.gov/)
-* [Contact Us](https://ncua.gov/contact-us)
-* [News](https://ncua.gov/newsroom)
-* [Careers](https://ncua.gov/about/careers)
+[Get Started](https://ncua.gov/subscribe)
 
-[Facebook](https://www.facebook.com/NCUAgov) [LinkedIn](https://www.linkedin.com/company/ncua) [Twitter](https://twitter.com/TheNCUA) [YouTube](https://www.youtube.com/ncuachannel)
+[](https://www.facebook.com/NCUAgov "Go to the NCUA's Facebook page")[](https://twitter.com/TheNCUA "Go to the NCUA's Twitter page")[](https://www.linkedin.com/company/ncua "Go to the NCUA's LinkedIn page")[](https://www.youtube.com/ncuachannel "Go to the NCUA's YouTube channel")
 
-Footer (Secondary)
-------------------
+**Our Sites**
 
-* [About](https://ncua.gov/about)
-* [FOIA](https://ncua.gov/foia)
-* [No Fear Act](https://ncua.gov/no-fear-act)
-* [Whistleblower Protection](https://ncua.gov/about/inspector-general/whistleblower-protection)
+[![](/themes/main/images/footer-mycu-icon.svg)
+
+**MyCreditUnion.gov**
+
+Trusted resource for consumer financial protection information.](https://mycreditunion.gov/ "Go to the MyCreditUnion.gov site")[![](/themes/main/images/footer-share-insurance-icon.svg)
+
+**Share Insurance**
+
+Learn about credit union fund insurance.](https://ncua.gov/consumers/share-insurance-coverage "Go to the Share Insurance Coverage page")[![](/themes/main/images/footer-research-cu-icon.svg)
+
+**Research a Credit Union**
+
+View information for a specific credit union, download Call Reports, and request Financial Performance Reports.](https://mapping.ncua.gov/ResearchCreditUnion "Go to the Research a Credit Union site")[![](/themes/main/images/footer-cu-locator-icon.svg)
+
+**Credit Union Locator**
+
+Find a credit union by address, credit union name, or charter number.](https://mapping.ncua.gov/ "Go to the Credit Union Locator site")
+
+* [About NCUA](https://ncua.gov/about)
 * [Accessibility](https://ncua.gov/accessibility)
+* [Careers](https://ncua.gov/about/careers)
+* [FOIA](https://ncua.gov/foia)
+* [Inspector General](https://ncua.gov/about/inspector-general)
+* [No Fear Act](https://ncua.gov/no-fear-act)
 * [Privacy](https://ncua.gov/privacy)
 * [USA.gov](https://usa.gov/)
-* [Office of Inspector General](https://ncua.gov/about/inspector-general)
 * [Vulnerability Disclosure](https://ncua.gov/vulnerability-disclosure-policy)
 * [Website Feedback](https://ncua.gov/contact-us/website-feedback)
-
-[Site Index](https://ncua.gov/site-index)
-
-National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314
+* [Whistleblower Protection](https://ncua.gov/about/inspector-general/whistleblower-protection)
