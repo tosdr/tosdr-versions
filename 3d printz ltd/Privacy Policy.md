@@ -1,4 +1,4 @@
-![](https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAACkWnQEiAA==&s=U6P7Kqg29QNXBefqWV2qFTZcZ0llTTdJrS4WIOMCJHI=)                     
+![](https://alb.reddit.com/snoo.gif?q=CAAHAAABAAoACQAAACkWnQEiAA==&s=U6P7Kqg29QNXBefqWV2qFTZcZ0llTTdJrS4WIOMCJHI=)                      
 
 [Menu](#)
 
@@ -44,7 +44,7 @@ Quick Links
         * [PETG 1.75mm](https://3dprintz.co.uk/collections/petg)
         * [PETG Metal Fill](https://3dprintz.co.uk/collections/petg-metal-fill-1-75mm)
     * Specialist Filaments
-        * [PLA Carbon Fibre](https://3dprintz.co.uk/products/pla-carbon-fibre-1-75mm)
+        
     * Other Filament
         * [ABS 1.75mm](https://3dprintz.co.uk/collections/abs-1-75mm)
         * [TPU Flex 1.75mm](https://3dprintz.co.uk/collections/tpu-flex-filament)
@@ -115,7 +115,7 @@ Quick Links
         * [PETG 1.75mm](https://3dprintz.co.uk/collections/petg)
         * [PETG Metal Fill](https://3dprintz.co.uk/collections/petg-metal-fill-1-75mm)
     * Specialist Filaments
-        * [PLA Carbon Fibre](https://3dprintz.co.uk/products/pla-carbon-fibre-1-75mm)
+        
     * Other Filament
         * [ABS 1.75mm](https://3dprintz.co.uk/collections/abs-1-75mm)
         * [TPU Flex 1.75mm](https://3dprintz.co.uk/collections/tpu-flex-filament)
