@@ -23,9 +23,8 @@ Primary Menu
     * [TV Stations](https://www.nexstar.tv/stations/)
     * [Networks](https://www.nexstar.tv/networks/)
     * [Digital Technology & Operations](https://www.nexstar.tv/nxst-digital/)
-    * [Nexstar Ad Sales](https://www.nexstar.tv/nexstar-ad-sales/)
     * [ATSC 3.0 Progress](https://www.nexstar.tv/atsc-3-0-progress/)
-* [Company News](https://www.nexstar.tv/news/)
+* [Newsroom](https://www.nexstar.tv/news/)
     * [Press Releases](https://www.nexstar.tv/press-releases/)
     * [Nexstar in the News](https://www.nexstar.tv/category/nexstar-in-the-news/)
     * [MEDIA CONTACT](https://www.nexstar.tv/press-releases/)
@@ -37,7 +36,7 @@ Primary Menu
     * [Stock Information](https://www.nexstar.tv/stock-information/)
     * [Events and Presentations](https://www.nexstar.tv/events-and-presentations/)
     * [Annual Reports / SEC Filings](https://www.nexstar.tv/investor-relations#reports)
-* [Corporate Social Responsibility](https://www.nexstar.tv/corporate-social-responsibility/)
+* [Social Responsibility](https://www.nexstar.tv/corporate-social-responsibility/)
     * [2023 ESG Report](https://www.nexstar.tv/wp-content/uploads/2024/04/2023_ESG-_Report_Final.pdf)
     * [Letter From Management](https://www.nexstar.tv/corporate-social-responsibility/)
     * [Board of Directors Leadership Structure](https://www.nexstar.tv/corporate-social-responsibility/board-leadership-structure/)
@@ -50,6 +49,7 @@ Primary Menu
     * [Community Involvement](https://www.nexstar.tv/corporate-social-responsibility/community-involvement/)
     * [HR Management; Workforce Diversity, Equity, and Inclusion](https://www.nexstar.tv/corporate-social-responsibility/human-resource-management/)
     * [Environmental Improvements](https://www.nexstar.tv/corporate-social-responsibility/environmental-improvements/)
+* [Advertising](https://www.nexstaradvertising.com/)
 
 Nexstar Media Inc. Standard Advertising Terms and Conditions
 ============================================================
@@ -228,10 +228,10 @@ _Nexstar has the right to change these terms at any time. Nexstar will notify Cl
 
 ### News
 
-* [Nexstar Names Tim Ingram as Vice President and General Manager of its Broadcast and Digital Operations in Baton Rouge, Louisiana](https://www.nexstar.tv/nexstar-names-tim-ingram-as-vp-and-gm-in-baton-rouge-la/)
-* [Nexstar Media Charitable Foundation Donates $3,000 To Embassy Theatre Foundation In Ft. Wayne, IN](https://www.nexstar.tv/nexstar-charitable-foundation-donates-to-embassy-theatre-foundation-in-ft-wayne/)
-* [(WBOY-TV) Mountaineer Boys State receives largest single donation in its history](https://www.nexstar.tv/wboy-tv-mountaineer-boys-state-receives-largest-single-donation-in-its-history/)
-* [Nexstar Names Lisa Taylor as Senior Vice President of Digital Advertising Sales](https://www.nexstar.tv/nexstar-names-lisa-taylor-svp-digital-advertising-sales/)
+* [(CNBC.com) Cramer’s Stop Trading: Nexstar Media Group](https://www.nexstar.tv/cnbc-com-cramers-stop-trading-nexstar-media-group/)
+* [(KSWB-TV) Nexstar Supports Armed Services YMCA Morning News](https://www.nexstar.tv/kswb-tv-nexstar-supports-armed-services-ymca-morning-news/)
+* [Privacy Policy](https://www.nexstar.tv/privacy-policy/)
+* [Nexstar Media Group 2024 Second Quarter Financial Results Webcast](https://www.nexstar.tv/nexstar-media-group-2024-second-quarter-financial-results-webcast/)
 
 ### More
 
