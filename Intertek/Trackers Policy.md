@@ -270,7 +270,7 @@ If you would like to report an Intertek Certified/Tested product that does not a
 
 [ETL-EU Mark](https://ramuk.intertekconnect.com/webclients/its/dlp/euproducts.nsf/$$search?openform)
 
-[ETL Verified Certificates of Conformance for Cabling Products](#)
+[ETL Verified Certificates of Conformance for Cabling Products](https://www.intertek.com/etl-verified-directory/cabling-products/)
 
 [ETL Verified Mark](https://www.intertek.com/directories/etl-verified-mark/)
 
