@@ -6,6 +6,7 @@
 * [Log Out](https://oneprovider.com/account/logout)
 * [Client Area](https://panel.op-net.com/)
 * [Shopping Cart](https://oneprovider.com/checkout/cart)
+* [Wishlist](https://oneprovider.com/wishlist)
 * [Comparison](https://oneprovider.com/comparison)
 * [Contact Us](https://oneprovider.com/contact)
 * USD
@@ -38,7 +39,7 @@ Find a location
 [OneProvider](https://oneprovider.com/)
 
 * [Best Sellers](https://oneprovider.com/promotion/best-sellers)
-* [Spring Sales](https://oneprovider.com/promotion/spring-sales)
+* [Deals](https://oneprovider.com/promotion)
 * [Dedicated Servers](https://oneprovider.com/dedicated-servers)
 * [ONECLOUD](https://oneprovider.com/onecloud/ssd-virtual-servers)
 * [Features](https://oneprovider.com/hosting-provider/why-one-provider)
