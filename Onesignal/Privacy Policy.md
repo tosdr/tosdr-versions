@@ -67,7 +67,7 @@ Javascript must be enabled for the correct page display
 
 [Log In](https://dashboard.onesignal.com/login) [Sign Up](https://dashboard.onesignal.com/signup)
 
-[Log In](https://dashboard.onesignal.com/login) [Sign Up](https://dashboard.onesignal.com/signup) [Get a Demo](https://onesignal.com/contact)
+[Log In](https://dashboard.onesignal.com/login) [Talk to Sales](https://onesignal.com/contact) [Get Started Now](https://dashboard.onesignal.com/signup)
 
 Privacy Policy
 ==============
@@ -674,14 +674,12 @@ We cannot respond to your request or provide you with personal information if we
 
 We will only use personal information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request. 
 
-Get Started Today For Free With Our Tool
-----------------------------------------
+Get Started Today for Free with Our Platform
+--------------------------------------------
 
-We’ll get you going in a matter of minutes.
+Get going in a matter of minutes.
 
-[Get Started Now](https://dashboard.onesignal.com/signup) [Contact Sales](https://onesignal.com/contact)
-
-Have questions? [Chat with an expert.](https://onesignal.com/contact)
+[Get Started Now](https://dashboard.onesignal.com/signup) [Talk to Sales](https://onesignal.com/contact)
 
 Product
 
