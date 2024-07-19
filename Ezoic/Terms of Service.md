@@ -22,7 +22,7 @@ Content & SEO
 
 Resources
 
-[Support](https://support.ezoic.com/) [Newsletter](https://www.ezoic.com/newsletter) [FAQs](https://www.ezoic.com/faq) [Reviews](https://www.ezoic.com/ezoic-reviews) [Advertisers](https://www.ezoic.com/advertisers) [Pricing](https://www.ezoic.com/pricing)
+[Setup](https://www.ezoic.com/setup) [Support](https://support.ezoic.com/) [Newsletter](https://www.ezoic.com/newsletter) [FAQs](https://www.ezoic.com/faq) [Reviews](https://www.ezoic.com/ezoic-reviews) [Advertisers](https://www.ezoic.com/advertisers) [Pricing](https://www.ezoic.com/pricing)
 
 Discover
 
@@ -300,8 +300,8 @@ Product
 * [Sign up](https://pubdash.ezoic.com/join)
 * [Login](https://login.ezoic.com/)
 * [Status](https://www.ezoicstatus.com/)
-* [Pricing](https://www.ezoic.com/pricing)
 * [Security](https://www.ezoic.com/security)
+* [Setup](https://www.ezoic.com/setup)
 
 Company
 
