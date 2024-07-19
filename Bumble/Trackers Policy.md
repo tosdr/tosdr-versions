@@ -125,9 +125,6 @@ Footer
 * [FAQ
     
     Frequently Asked Questions](https://bumble.com/help/)
-* [Israel-Hamas War Response
-    
-    Israel-Hamas War Response](https://bumble.com/the-buzz/bumble-inc-statement-israel-hamas-war)
 * [Events](https://bumble.events/)
 * [Contact Us](https://bumble.com/en/contact-us)
 * [Guidelines](https://bumble.com/en/guidelines)
