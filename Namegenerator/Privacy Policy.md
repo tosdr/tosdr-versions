@@ -1,4 +1,4 @@
-[![](/images/logo.svg?v=4ef83f)](https://namegenerator.com/)
+[![](/images/logo.svg?v=7ec978)](https://namegenerator.com/)
 
 Saved
 
