@@ -62,7 +62,7 @@
         * [Games Blog](https://www.atari.com/blogs/atari)
         
     
-* [Club](https://www.atari.com/pages/club)
+* [Camp](https://www.atari.com/collections/summer-camp)
 * About
     
     About
@@ -76,7 +76,7 @@
         
     
 
-[Sign in](https://www.atari.com/account/login) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
+[Sign in](https://atari.com/customer_identity/redirect?locale=en) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
 * [Twitter](https://www.twitter.com/atari)
 * [Facebook](https://www.facebook.com/atari)
@@ -291,7 +291,7 @@
     
     Enter the Yar-niverse
     
-* [Club](https://www.atari.com/pages/club)
+* [Camp](https://www.atari.com/collections/summer-camp)
 * [About](https://www.atari.com/pages/about)
     
     * ###### Company
@@ -306,7 +306,7 @@
     Since 1972
     
 
- [Log in](https://www.atari.com/account/login)
+ [Log in](https://atari.com/customer_identity/redirect?locale=en)
 
 Bag (0) Cart 0 items
 
@@ -653,7 +653,19 @@ For general questions, contact us at [support@atari.com](mailto:support@atari.c
 
 ##### Anything Else ?
 
-[![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
+[![CX40+ Joystick](files/ProductImage-A_1_e56ae0f0-3526-4f45-b93a-df2994106fa2.jpg)
+
+![CX40+ Joystick](files/ProductImage-BV2.jpg)
+
+Available Worldwide
+
+##### CX40+ Joystick
+
+Regular price $24.99
+
+Regular price Sale price $24.99
+
+Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
 
