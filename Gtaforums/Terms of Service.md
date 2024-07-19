@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-OMG QABETA UPDATE!](https://gtaforums.com/)
+SOFTENING LIFE'S HARSH REALITIES!](https://gtaforums.com/)
 
 * [](#)
 
@@ -12,7 +12,7 @@ OMG QABETA UPDATE!](https://gtaforums.com/)
 
 * [Home](https://gtaforums.com/ "Home")
 
-[GTA Online New Bonuses for 20th June 2024 - Race to Bottom Dollar with Bonuses on Drift and Drag Races, New Community Series, Photograph Wildlife for 2x & More!](https://gtaforums.com/topic/997561-gtao-event-20th-june-2024-race-to-bottom-dollar-with-bonuses-on-drift-and-drag-races-new-community-series-photograph-wildlife-for-2x-more/)
+[GTA Online New Bonuses for 18th July 2024 - "Fore!" Madrazo Needs Your Help With Further Bounty Work, Canis Castigator Out on All Platforms, New Community Series, Hotring Bonuses & More!](https://gtaforums.com/topic/998030-weekly-event-18th-july-2024-fore-madrazo-needs-your-help-with-further-bounty-work-canis-castigator-out-on-all-platforms-new-community-series-hotring-bonuses-more/)
 
 Registration Terms
 ==================
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=72c1e749a74e967f7b7d6d5459e013ea)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=1167136cb66b848a40abf8c3617843ca)
