@@ -12,9 +12,9 @@
 
 {NB\_PLAYERS\_CONNECTED} online players: {IN\_GAME} playing • {WAITING} available
 
-![loading](https://x.boardgamearena.net/data/themereleases/240619-1002/img/logo/waiting.gif)
+![loading](https://x.boardgamearena.net/data/themereleases/240710-1000/img/logo/waiting.gif)
 
-If you see this message, it means that your browser failed to load [this file](https://x.boardgamearena.net/data/themereleases/240619-1002/css/mainsite.css).
+If you see this message, it means that your browser failed to load [this file](https://x.boardgamearena.net/data/themereleases/240710-1000/css/mainsite.css).
 
 You should try the following : check your connection, disable ad-blocker, clear your browser cache, try in private mode, try from another browser/computer/connection.
 
@@ -215,7 +215,7 @@ We collect the following Personal Data about You:
 
 • Identification data such as your Username, if You are over or under 15 years old, your email address for logging into your Account as well as certain data from your third party Account(s) if you choose to associate it/them with your Account;
 
-• Data relating to your personal life such as your first name, surname, and postal address in connection with the creation of your Account on the Developer Site and/or in the context of parental authorisation and the related supporting documents;
+• Data relating to your personal life such as your first name, surname, and postal address in connection with the creation of your Account on the Developer Site and/or in the context of parental authorisation;
 
 • Data relating to your profile created on the Player Site (avatar, genre, preferred colour, languages spoken and preferences in the sounds assigned to play);
 
@@ -242,7 +242,7 @@ We process your Personal Data for the following purposes. Whenever We process yo
 | 3.  | To enable You to communicate on the Applications with other Users | This processing is based on the contract concluded between You and BGA. |
 | 4.  | To ensure compliance with the GTC | This processing is based on the contract concluded between You and BGA. |
 | 5.  | To enable Us to moderate and/or sanction the behaviour of a User in the context of the Applications | This processing is based on the contract concluded between You and BGA. |
-| 6.  | To enable us to detect multi-accounts | This processing is based on the contract concluded between You and BGA. |
+| 6.  | To enable us to detect multi-accounts | This processing is based on BGA's legitimate interest. Indeed, the legitimate interest of the data controller is to ensure a friendly gaming environment by allowing an informational notice to be displayed when two players at the same game table have the same IP address. |
 | 7.  | To provide You with commercial information about the Services and/or the Applications | We consider that it is in our legitimate interest to keep Users informed about our Services and Applications accessible from the BGA Sites, as this helps Us to ensure the continuity and development of our business. However, where the law requires BGA to obtain your consent before sending You such information, BGA will rely on your consent to process it. |
 | 8.  | In connection with a restructuring operation and/or a merger-acquisition of BGA | We consider it to be in our interest to be able to make informed decisions about the future of our company in order to maintain and develop our business. |
 | 9.  | The Content will remain associated with the Username even after deletion of your Account and/or your Personal Data | For the sake of consistency and comprehensibility of the Sites, We consider that it is in our legitimate interest to keep on the Sites your Content associated with the User Name that You have given to your profile during the legal retention periods. You may at any time request the specific deletion of Content that is harmful to a User's interest |
@@ -305,7 +305,7 @@ Statistical data of the Applications (history of games played on the Application
 
 However, in certain cases, Your Personal Data cannot be completely erased in order to ensure a consistent experience for Users of the BGA Sites. For example, games in the Applications that You have played that affect the data and scores of other Users will not be deleted. In this case, Your Personal Data will be kept for ten (10) years from the date of Your last connection and then anonymised.
 
-Connection data (time and place of your activities, username and IP address) are kept for a period of one (1) year, in an active database, from your last connection.
+Connection data (time and place of your activities, username and IP address) are kept for a period of one (1) year, in an active database, from your last connection. Other IP addresses are kept for a period of 30 days, in an active database.
 
 Data of Content communicated on the Applications (in particular through chats) is kept for a period of three (3) months, in an active database, from the date of sending. Private messages are kept until they are expressly deleted.
 
@@ -539,7 +539,7 @@ Nous collectons les Données Personnelles suivantes Vous concernant :
 
 • Données d’identification telles que votre Nom d’Utilisateur, si Vous avez plus ou moins de 15 ans, votre adresse de courrier électronique pour Vous connecter à votre Compte ainsi que certaines données de votre/vos Comptes tiers si vous décidez de les /l’associer à votre Compte ;
 
-• Données relatives à votre vie personnelle telles que votre prénom, nom, et adresse postale dans le cadre de la création de votre Compte sur le Site Développeur et/ou dans le cadre de l’autorisation parentale et les pièces justificatives y afférentes ;
+• Données relatives à votre vie personnelle telles que votre prénom, nom, et adresse postale dans le cadre de la création de votre Compte sur le Site Développeur et/ou dans le cadre de l’autorisation parentale ;
 
 • Données relatives à votre profil créé sur le Site Joueur (avatar, genre, couleur préférée, langues parlées et préférences dans les sons attribués pour jouer) ;
 
@@ -566,7 +566,7 @@ Nous traitons vos Données Personnelles pour les finalités suivantes. Chaque fo
 | 3.  | Pour Vous permettre de communiquer sur les Applications avec les autres Utilisateurs | Ce traitement repose sur le contrat conclu entre Vous et BGA. |
 | 4.  | Pour veiller au respect des CG | Ce traitement repose sur le contrat conclu entre Vous et BGA. |
 | 5.  | Pour Nous permettre de modérer et/ou sanctionner l’attitude d’un Utilisateur dans le cadre des Applications | Ce traitement repose sur le contrat conclu entre Vous et BGA. |
-| 6.  | Pour Nous permettre de détecter les multicomptes | Ce traitement repose sur le contrat conclu entre Vous et BGA. |
+| 6.  | Pour Nous permettre de détecter les multicomptes | Ce traitement repose sur l’intérêt légitime de BGA. En effet, l’intérêt légitime du responsable du traitement est d’assurer une ambiance de jeu conviviale en permettant d’afficher une mention d’information lorsque deux joueurs d’une même Table de jeu ont la même adresse IP. |
 | 7.  | Pour Vous communiquer des informations commerciales sur les Services et/ou les Applications | Nous considérons qu'il est dans notre intérêt légitime de tenir les Utilisateurs informés de nos Services et des Applications qui sont accessibles depuis les Sites BGA, car cela Nous aide à assurer la pérennité et le développement de nos activités. Cependant, lorsque la loi exige que BGA obtienne votre consentement avant de Vous envoyer de tels renseignements, BGA s’appuiera sur votre consentement afin de procéder au traitement. |
 | 8.  | En relation avec une opération de restructuration et/ou d’une fusion-acquisition de BGA | Nous considérons qu’il est dans notre intérêt d’être en mesure de prendre des décisions concernant l’avenir de notre entreprise de manière informée, dans le but de préserver et de développer nos activités commerciales. |
 | 9.  | Les Contenus demeureront associés au Nom d’Utilisateur y compris après effacement de votre Compte et/ou de vos Données Personnelles | Par soucis de cohérence et d’intelligibilité des Sites, Nous considérons qu’il est dans notre intérêt légitime de conserver sur les Sites votre Contenu associé au Nom d’Utilisateur que Vous avez donné à votre profil pendant la durée légale de conservation. Vous pouvez à tout moment demander la suppression spécifique du Contenu qui porterait atteinte à l'intérêt d'un Utilisateur |
@@ -627,7 +627,7 @@ Les données statistiques des Applications (historique des parties jouées sur l
 
 Cependant dans certains cas, Vos Données Personnelles ne peuvent pas être complètement effacées afin d'assurer la cohérence de l'expérience des Utilisateurs les Sites BGA. Par exemple, les parties des Applications que Vous avez jouées et qui affectent les données et les scores des autres Utilisateurs ne seront pas supprimées. Dans ce cas, Vos Données Personnelles seront conservées dix (10) ans à compter de Votre dernière connexion puis anonymisées.
 
-Les données de connexion (temps et lieu de vos activités, identifiant et adresse IP) sont conservées pour une durée d’un (1) an, en base dite active, à compter de votre dernière connexion.
+Les données de connexion (temps et lieu de vos activités, identifiant et adresse IP) sont conservées pour une durée d’un (1) an, en base active, à compter de votre dernière connexion. Vos autres adresses IP sont également conservées pour une durée de 30 jours, en base active.
 
 Les données de Contenus communiqués sur les Applications (notamment à travers les chats) sont conservées pour une durée de trois (3) mois, en base active, à compter de leur date d’envoi. Les messages privés sont conservés jusqu'à ce qu'ils soient expressément supprimés.
 
@@ -2837,7 +2837,7 @@ Get the best from Board Game Arena for only €2 / month.](https://boardgamearen
 
 Top
 
-[![BGA](https://x.boardgamearena.net/data/themereleases/240619-1002/img/logo/logo_white.png)](https://boardgamearena.com/welcome)[](https://boardgamearena.com/welcome)
+[![BGA](https://x.boardgamearena.net/data/themereleases/240710-1000/img/logo/logo_white.png)](https://boardgamearena.com/welcome)[](https://boardgamearena.com/welcome)
 
 ### Help
 
@@ -2861,7 +2861,7 @@ Top
 * [Notify your browser](https://boardgamearena.com/preferences?section=notifications)
 * [Subscribe to our newsletter](https://boardgamearena.com/preferences?section=email)
 
-Board Game Arena 1018 [Board Game Arena](https://boardgamearena.com/) • Release 240619-1002-VO • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
+Board Game Arena 354 [Board Game Arena](https://boardgamearena.com/) • Release 240710-1000-VO • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
 
 1
 
