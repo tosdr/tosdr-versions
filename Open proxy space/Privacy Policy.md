@@ -10,16 +10,6 @@ Soft & Tools
 
 [Proxy Filter](https://openproxy.space/filter) [Proxy Generator](https://openproxy.space/generator) [My IP Address](https://openproxy.space/my-ip-address)
 
-[SSHONIX
-
-Hi-End SSH & SFTP client. Focused on UX/UI experience and Performance.
-
-Free & Open Source](https://github.com/relloccate/sshonix)[Robust Vault
-
-Backup your data from anywhere to anywhere (local drives only).
-
-Free & Open Source](https://github.com/relloccate/robust-vault)
-
 Privacy Policy
 ==============
 
@@ -87,6 +77,6 @@ Information
 
 * * *
 
-© 2022 Open Proxy Space, all rights reserved. Do you have a suggestion or a problem? All communication methods at the contacts page.
+© 2024 Open Proxy Space, all rights reserved. Do you have a suggestion or a problem? All communication methods at the contacts page.
 
 May the proxy be with you.
