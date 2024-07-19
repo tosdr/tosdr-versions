@@ -32,6 +32,7 @@
     * [ApplyToEducation](https://interviewstream.com/resources/integrations/applytoeducation/ "ApplyToEducation")
     * [PowerSchool](https://interviewstream.com/resources/integrations/powerschool/ "PowerSchool")
     * [SAP SuccessFactors](https://interviewstream.com/resources/integrations/sap-successfactors/ "SAP SuccessFactors")
+    * [Integrate with Any System](https://interviewstream.com/resources/integrations/open-api/ "Integrate with Any System")
     * [All Integrations](https://interviewstream.com/resources/integrations/ "All Integrations")
 * [My Account](# "My Account")
     * [Login](https://login.rivs.com/ "Login")
