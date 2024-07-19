@@ -58,6 +58,7 @@ Back[](#)
     * [RESOURCES](# "RESOURCES")
         
         * [CIRC Program](https://www.ecoproducts.com/circ-program "CIRC Program")
+        * [Product Carbon Footprint](https://www.ecoproducts.com/product-carbon-footprint "Product Carbon Footprint")
         * [Access & Recovery](https://www.ecoproducts.com/access-recovery "Access & Recovery")
         * [Circularity](https://www.ecoproducts.com/circularity "Circularity")
         * [Support Composting](https://www.ecoproducts.com/support-composting "Support Composting")
@@ -151,16 +152,17 @@ Search
         * [PHA](https://ecoproducts.com/pha)
         * [PLA](https://ecoproducts.com/straws/pla)
     * [Clear Containers](https://ecoproducts.com/shop-all/clear-containers)
-        * [Round Deli Containers & Lids](https://ecoproducts.com/shop-all/clear-containers/round-deli-containers-lids)
         * [Roval Deli Snack Containers & Lids](https://ecoproducts.com/clear-containers/roval-deli-snack-containers-lids)
         * [Salad Bowls & Lids](https://ecoproducts.com/clear-containers/salad-bowls-lids)
         * [Sandwich Wedge](https://ecoproducts.com/sandwich-wedge)
         * [Sushi Trays With Lids](https://ecoproducts.com/clear-containers/sushi-trays-with-lids)
+        * [Round Deli Containers & Lids](https://ecoproducts.com/shop-all/clear-containers/round-deli-containers-lids)
         * [Clamshells](https://ecoproducts.com/clamshells-1)
         * [Portion Cups & Lids](https://ecoproducts.com/shop-all/clear-containers/portion-cups-lids)
         * [Rectangular Deli Containers](https://ecoproducts.com/shop-all/clear-containers/rectangular-deli-containers)
         * [Premium Take-Out Containers](https://ecoproducts.com/shop-all/clear-containers/premium-take-out-containers)
     * [Paper Products](https://ecoproducts.com/shop-all/paper-products)
+        * [Paper Trays & Boxes](https://ecoproducts.com/shop-all/paper-products/paper-trays-boxes/)
         * [Paper Bags & Wraps](https://ecoproducts.com/shop-all/paper-products/paper-bags-wraps/)
     * [Cutlery](https://ecoproducts.com/shop-all/cutlery)
         * [Cutlerease](https://ecoproducts.com/cutlery/cutlerease)
@@ -172,7 +174,6 @@ Search
         * [World Art Paper Containers & Lids](https://ecoproducts.com/shop-all/paper-food-containers/world-art-paper-containers-lids)
         * [BlueStripe Paper Food Container Lids](https://ecoproducts.com/shop-all/paper-food-containers/bluestripe-paper-food-container-lids)
         * [GreenStripe Paper Containers & Lids](https://ecoproducts.com/shop-all/paper-food-containers/greenstripe-paper-containers-lids)
-        * [Food Trays](https://ecoproducts.com/paper-products/food-trays)
     * [Vanguard | No-Added PFAS](https://ecoproducts.com/shop-all/vanguard-no-added-pfas)
         * [Clamshells](https://ecoproducts.com/shop-all/vanguard/clamshells)
         * [Dinnerware](https://ecoproducts.com/shop-all/vanguard-no-added-pfas/dinnerware)
@@ -202,7 +203,8 @@ Search
 
 1. [Home](https://ecoproducts.com/)
 
-#### Terms of Use
+Terms of Use
+============
 
   
   
@@ -336,7 +338,6 @@ GREEN IS ALL WE DO™
 * [Stories](https://ecoproducts.com/all-stories/)
 * [Company](https://ecoproducts.com/company)
 * [Learn](https://ecoproducts.com/learn)
-* [Locator](https://ecoproducts.com/locator)
 * [Store Locator](https://ecoproducts.com/store-locator)
 * [The Dish](https://ecoproducts.com/the-dish)
 * [Sitemap](https://www.ecoproducts.com/sitemap.php)
