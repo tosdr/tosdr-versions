@@ -14,7 +14,6 @@
 * [Machinery (current)](https://b2bplastics.com/usedmachinery)
 * [Mould](https://b2bplastics.com/mould)
 * [Service Provider](https://b2bplastics.com/servicepartnercategory)
-* [Products](https://b2bplastics.com/products)
 * [Blog](https://b2bplastics.blogspot.com/)
 * [Contact Us](https://b2bplastics.com/contactus)
 * [Login](#)
