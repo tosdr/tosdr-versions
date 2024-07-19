@@ -1,10 +1,10 @@
-828730242944b2529ee9-233c-4d81-829c-452243995fcd:1903cb5375019997
+831462533758f79e5500-19b2-4456-8304-16c2e282cf3e:190ca1f12fa19997
 
 [Skip to main content](#mainContent)
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| [![eBay Home](https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png)](https://www.ebay.com/) |     |     | Customer Service |     |
+| [eBay Home](https://www.ebay.com/) |     |     | Customer Service |     |
 
 * Hi ([Sign in](https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348) to bid or buy)
     
@@ -37,8 +37,7 @@
     * [Collection beta](https://www.ebay.com/collection/hub)
     * [PSA Vault](https://www.ebay.com/collection/category?notionalTypeId=Vault)
     
-* _Notification_
-    
+
 * [](https://cart.ebay.com/)[Expand Cart](#gh-minicart-hover)
     
     Loading...
@@ -990,4 +989,4 @@ Additional site navigation
 |     |     |
 | --- | --- |
 | * [About eBay](https://www.ebayinc.com/)<br>* [Announcements](https://community.ebay.com/t5/Announcements/bg-p/Announcements)<br>* [Community](https://community.ebay.com/)<br>* [Security Center](https://pages.ebay.com/securitycenter/index.html)<br>* [Seller Center](https://pages.ebay.com/seller-center/index.html?utm_source=gf&utm_medium=onsite)<br>* [Policies](https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205)<br>* [Affiliates](https://partnernetwork.ebay.com/)<br>* [Help & Contact](https://www.ebay.com/help/home)<br>* [Site Map](https://pages.ebay.com/sitemap.html) |     |
-| Copyright © 1995-2024 eBay Inc. All Rights Reserved. [Accessibility](https://www.ebayinc.com/accessibility/), [User Agreement](https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259), [Privacy](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260), [Payments Terms of Use](https://pages.ebay.com/payment/2.0/terms.html), [Cookies](https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267), [CA Privacy Notice](https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california), [Your Privacy Choices](https://www.ebay.com/adchoice/ccpa) and [AdChoice](https://www.ebay.com/adchoice) |     |
+| Copyright © 1995-2024 eBay Inc. All Rights Reserved. [Accessibility](https://www.ebayinc.com/accessibility/), [User Agreement](https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259), [Privacy](https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260), [Consumer Health Data](https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/), [Payments Terms of Use](https://pages.ebay.com/payment/2.0/terms.html), [Cookies](https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267), [CA Privacy Notice](https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california), [Your Privacy Choices](https://www.ebay.com/adchoice/ccpa) and [AdChoice](https://www.ebay.com/adchoice) |     |
