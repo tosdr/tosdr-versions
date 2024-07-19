@@ -1,7 +1,3 @@
-[![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![logo](https://neverinstall.com/cdn-cgi/imagedelivery/AvFws3zK3WPu5k1TtWLA1A/logo-blue-text.svg/public)](https://neverinstall.com/)
-
 Neverinstall | Terms of Service
 ===============================
 
