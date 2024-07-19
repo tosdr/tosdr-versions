@@ -88,7 +88,7 @@ In addition to the intellectual property rights mentioned above, "Content" is de
 
 ### Contact Us
 
-For any questions, complaints, and queries or to report any violations, kindly send an email on [\[email protected\]](https://cuty.io/cdn-cgi/l/email-protection)
+For any questions, complaints, and queries or to report any violations, kindly send an email on contact@cuty.io
 
 Ready to start earning with cuty.io?
 ------------------------------------
