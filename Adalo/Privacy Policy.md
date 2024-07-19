@@ -112,7 +112,7 @@ St. Louis, MO 63101
 What App Are You Going to Make Today?
 -------------------------------------
 
-[GET STARTED FOR FREE!](https://app.adalo.com/signup)![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d8bb7272a544b4c1e9aef3a_new-sign-up-prompt-graphic.png)
+[GET STARTED FOR FREE!](https://app.adalo.com/signup)![](https://cdn.prod.website-files.com/5d123a0e13543973a9665271/5d8bb7272a544b4c1e9aef3a_new-sign-up-prompt-graphic.webp)
 
 👋 Join the Adalo Community
 
@@ -138,7 +138,7 @@ Copyright 2024 Adalo, Inc. All rights reserved.
 
 Product
 
-[iOS Apps](https://www.adalo.com/ios-app-apple-app-store)[Android Apps](https://www.adalo.com/native-android-app-google-play-store)[Web Apps](https://www.adalo.com/publish-web-app-no-code)[Responsive Design](https://www.adalo.com/features/responsive-design)[Pricing](https://www.adalo.com/pricing)
+[iOS Apps](https://www.adalo.com/ios-app-apple-app-store)[Android Apps](https://www.adalo.com/native-android-app-google-play-store)[Web Apps](https://www.adalo.com/publish-web-app-no-code)[Responsive Design](https://www.adalo.com/features/responsive-design)[Feature Templates](https://www.adalo.com/web-and-native-app-feature-templates)[Sections](https://www.adalo.com/web-and-native-app-sections)[Pricing](https://www.adalo.com/pricing)
 
 Solutions
 
