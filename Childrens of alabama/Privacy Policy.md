@@ -22,7 +22,7 @@ Close
     * [Clinics](https://www.childrensal.org/patients-visitors/clinics)
     * [Visitation](https://www.childrensal.org/patients-visitors/visitation)
     * [Planning Your Visit](https://www.childrensal.org/patients-visitors/planning-your-visit)
-    * Online Pre-Registration
+    * [Online Pre-Registration](https://www.childrensal.org/form/coa-online-preregistration-form)
     * [Patient Billing Information](https://www.childrensal.org/patients-visitors/patient-billing-information)
     * [Patient Name Change Request Form](https://childrensal-iszsn.formstack.com/forms/namechangerequest)
     * [Financial Assistance](https://www.childrensal.org/patients-visitors/financial-assistance)
@@ -64,7 +64,7 @@ Close
 
 ### Patients & Visitors
 
-[Clinics](https://www.childrensal.org/patients-visitors/clinics) [Visitation](https://www.childrensal.org/patients-visitors/visitation) [Planning Your Visit](https://www.childrensal.org/patients-visitors/planning-your-visit) Online Pre-Registration [Patient Billing Information](https://www.childrensal.org/patients-visitors/patient-billing-information) [Patient Name Change Request Form](https://childrensal-iszsn.formstack.com/forms/namechangerequest) [Financial Assistance](https://www.childrensal.org/patients-visitors/financial-assistance) [Request Medical Records](https://childrensal-iszsn.formstack.com/forms/requestcopyofmedicalrecord) [Request Medical Records (PDF)- English](https://www.childrensal.org/sites/default/files/2023-08/Authorization_for_Release_of_Information_764_Eng.pdf) [Request Medical Records (PDF)-Spanish](https://www.childrensal.org/sites/default/files/2023-08/Authorization_for_Release_of_Information_764_Sp.pdf) [Immunization Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html) [Immunization Catch-up Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/catchup-shell.html)
+[Clinics](https://www.childrensal.org/patients-visitors/clinics) [Visitation](https://www.childrensal.org/patients-visitors/visitation) [Planning Your Visit](https://www.childrensal.org/patients-visitors/planning-your-visit) [Online Pre-Registration](https://www.childrensal.org/form/coa-online-preregistration-form) [Patient Billing Information](https://www.childrensal.org/patients-visitors/patient-billing-information) [Patient Name Change Request Form](https://childrensal-iszsn.formstack.com/forms/namechangerequest) [Financial Assistance](https://www.childrensal.org/patients-visitors/financial-assistance) [Request Medical Records](https://childrensal-iszsn.formstack.com/forms/requestcopyofmedicalrecord) [Request Medical Records (PDF)- English](https://www.childrensal.org/sites/default/files/2023-08/Authorization_for_Release_of_Information_764_Eng.pdf) [Request Medical Records (PDF)-Spanish](https://www.childrensal.org/sites/default/files/2023-08/Authorization_for_Release_of_Information_764_Sp.pdf) [Immunization Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/child-adolescent-shell.html) [Immunization Catch-up Schedule](https://www.cdc.gov/vaccines/schedules/hcp/imz/catchup-shell.html)
 
 ### Ways to Give
 
