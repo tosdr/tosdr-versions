@@ -1,107 +1,117 @@
-[![Clickcease](https://monitor.clickcease.com/stats/stats.aspx)](https://www.clickcease.com/)
+[choozle](https://choozle.com/ "choozle")
 
-Call us at [970.744.3340](tel:970-744-3340)|[Login](https://app.choozle.com/users/login)
+Call us at  [970.744.3340](tel:970-744-3340)
 
-[![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[Login](https://app.choozle.com/users/login?_ga=2.129282191.2076809653.1718177524-77892844.1718177524)
 
-![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Choozle: Digital Advertising Made Easy](https://choozle.com/wp-content/uploads/2017/10/logo-gray-retina.png)](https://choozle.com/)[![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
-![Choozle: Digital Advertising Made Easy](https://choozle.com/wp-content/uploads/2017/10/logo-gray-retina.png)](https://choozle.com/)
-
-[](#)
+Menu
 
 * Solutions
-    * [The Platform](https://choozle.com/the-platform/)
-    * [The Partnership](https://choozle.com/partnership/)
+    
+    * [Platform](https://choozle.com/the-platform)
+    * [Partnership](https://choozle.com/partnership/)
     * [Media Solutions](https://choozle.com/media-solutions/)
     * [Managed + Self Service](https://choozle.com/managed-self-service/)
+    * [Retail Media](https://choozle.com/retail-media/)
+* Channels
+    
+    * [Display](https://choozle.com/channels-display-advertising)
+    * [DOOH](https://choozle.com/channel-dooh-advertising)
+    * [Video](https://choozle.com/channels-video-advertising)
+    * [Audio](https://choozle.com/channel-audio-advertising/)
+    * [Connected TV](https://choozle.com/channels-ctv-advertising)
+    * [Native](https://choozle.com/channel-native-advertising)
+    * [Search](https://choozle.com/search/)
+    * [Social Media](https://choozle.com/social-media/)
+* Industries
+    
+    * [Automotive](https://choozle.com/automotive/)
+    * [CPG: Food & Drink](https://choozle.com/cpg-food-drink/)
+    * [Healthcare](https://choozle.com/healthcare/)
+    * [Government & Politics](https://choozle.com/government-politics/)
+    * [Legal](https://choozle.com/legal/)
+    * [Travel & Tourism](https://choozle.com/travel-tourism/)
+    * [Home & Garden](https://choozle.com/home-garden/)
 * Our Clients
+    
     * [Agencies](https://choozle.com/agencies/)
     * [Brands](https://choozle.com/brands/)
 * Resources
+    
+    * [Blog](https://choozle.com/blog)
     * [Webinars](https://choozle.com/webinars/)
-    * [Blog](https://choozle.com/blog/)
+    * [Case Studies](https://choozle.com/case-studies/)
 * About Us
+    
     * [Our Story](https://choozle.com/our-story/)
+    * [Awards](https://choozle.com/awards/)
     * [Leadership](https://choozle.com/leadership/)
     * [News + Press](https://choozle.com/news-press/)
     * [Careers](https://choozle.com/careers/)
-* [Connect](https://choozle.com/connect/)
+* [](#searchwp-modal-652ea0d21b1427a1bfa685e40d9bc1de)
+* [Contact us](https://choozle.com/connect/)
+* [Get Started](https://choozle.com/digital-advertising-made-easy/)
 
-[](#)
+[Get Started](https://choozle.com/digital-advertising-made-easy)
 
-[![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle: Digital Advertising Made Easy](https://choozle.com/wp-content/uploads/2017/10/logo-gray-retina.png)](https://choozle.com/)[![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle: Digital Advertising Made Easy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Choozle: Digital Advertising Made Easy](https://choozle.com/wp-content/uploads/2017/10/logo-gray-retina.png)](https://choozle.com/)
-
-[](#)
-
-* Solutions
-    * [The Platform](https://choozle.com/the-platform/)
-    * [The Partnership](https://choozle.com/partnership/)
-    * [Media Solutions](https://choozle.com/media-solutions/)
-    * [Managed + Self Service](https://choozle.com/managed-self-service/)
-* Our Clients
-    * [Agencies](https://choozle.com/agencies/)
-    * [Brands](https://choozle.com/brands/)
-* Resources
-    * [Webinars](https://choozle.com/webinars/)
-    * [Blog](https://choozle.com/blog/)
-* About Us
-    * [Our Story](https://choozle.com/our-story/)
-    * [Leadership](https://choozle.com/leadership/)
-    * [News + Press](https://choozle.com/news-press/)
-    * [Careers](https://choozle.com/careers/)
-* [Connect](https://choozle.com/connect/)
+[Contact Us](https://choozle.com/connect)
 
 Privacy Policy
-==============
+--------------
 
 Last Updated: March, 2022
 
 Choozle, Inc. (“Choozle,” “we,” “our,” “us” or “company”) is an advertising services platform, enabling our corporate customers to reach relevant advertising audiences, and accurately measure advertising performance. We are committed to respecting the privacy and security of the information we collect directly from, or on behalf of, our corporate customers. The following privacy policy describes the information we collect and how we use it. By using this website (“Site,” “Platform,” “Website”) or the service offered through our Site or any mobile application (the “Service”), you consent to our Privacy Policy.
 
-In addition to our corporate website privacy policy, we have added privacy information about our Advertising Services Platform (“Platform”) which you can skip to by [\[clicking here\]](#noticeoptout).
-
-If you visited a website where a Choozle cookie has been referenced and would like to opt-out of relevant advertising from Choozle, [\[click here\]](#yourrights)
+In addition to our corporate website privacy policy, we have added privacy information about our Advertising Services Platform (“Platform”) which you can skip to by [\[clicking here\]](https://hubprotechserver.com/choozle/privacy-policy/#noticeoptout).
 
 Quick links – Website
 ---------------------
 
 1. [INFORMATION WE COLLECT](#infowecollect)
+    
 2. [HOW WE USE COLLECTED INFORMATION](#collectedinfouse)
+    
 3. [INFORMATION SHARING](#infosharing)
+    
 4. [YOUR RIGHTS AND CHOICES](#yourrights)
+    
 5. [SECURITY AND DATA RETENTION](#securitydata)
+    
 6. [EU AND OTHER INTERNATIONAL VISITORS](#euvisitors)
+    
 7. [CALIFORNIA PRIVACY STATEMENT](#caliprivacy)
+    
 8. [CHANGES TO THIS POLICY](#policychanges)
+    
 9. [CONTACT US](#contactus)
+    
 
 Quick links – Advertising Services
 ----------------------------------
 
 1. [ADVERTISING SERVICES PLATFORM PRIVACY NOTICE AND OPT-OUT INFORMATION](#noticeoptout)
+    
 2. [INFORMATION WE COLLECT THROUGH OUR ADVERTISING SERVICES PLATFORM](#infowecollectad)
+    
 3. [HOW OUR ADVERTISING SERVICES USE COLLECTED INFORMATION](#collectedinfousead)
+    
 4. [INFORMATION SHARING](#infosharingad)
+    
 5. [YOUR RIGHTS AND CHOICES](#yourrightsad)
+    
 6. [HOW TO OPT OUT OF CHOOZLE ADVERTISING PLATFORM SERVICES](#optoutad)
+    
 
-* * *
+#####   
+**INFORMATION WE COLLECT**
 
-  
-**INFORMATION WE COLLECT**  
 We gather information about how visitors use our Site as well as information from interested or current customers in order to provide our Services.
 
 The following are the types of information we collect:
@@ -113,8 +123,9 @@ The following are the types of information we collect:
    
 [back to top](#backtotop)
 
-  
-**HOW WE USED COLLECTED INFORMATION**  
+#####   
+**HOW WE USED COLLECTED INFORMATION**
+
 By registering for our products and services, or engaging with our brand, you provide us consent to collect and use your personal information for the following purposes:  
 
 * To operate and improve our Sites;
@@ -130,8 +141,9 @@ We may create anonymous or aggregate data from the information we collect. We ma
    
 [back to top](#backtotop)
 
-  
-**INFORMATION SHARING**  
+#####   
+**INFORMATION SHARING**
+
 We may share collected information under the following situations;
 
 * To suppliers, service providers or contractors that provide services to us and are contractually bound to safeguard your personal information. These services include messaging services, credit card processors, website hosting and analytics. These recipients are required by contract to keep confidential the information received on our behalf, and may not use it for any purpose other than to carry out the services they are performing for us;
@@ -145,15 +157,14 @@ Choozle confirms with all third-parties to ensure the data is managed in a lawfu
    
 [back to top](#backtotop)
 
-* * *
+#####   
+**YOUR RIGHTS AND CHOICES**
 
-  
-**YOUR RIGHTS AND CHOICES**  
 We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.
 
 * To update or modify the information you have provided during registration, please log in and update your personal settings;
 * To unsubscribe from a promotional email, please follow the instructions or unsubscribe links available in any email you receive. If you decide not to receive promotional emails, we may still send you transactional communications, such as those about your account, to fulfill orders you have made, or to ask you to rate a product you purchased;
-* You may request that your registration information be deleted by contacting us at [\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection). However, we may maintain limited information about your sales transactions or service inquiries for legal, tax or necessary record keeping purposes;
+* You may request that your registration information be deleted by contacting us at privacy@choozle.com. However, we may maintain limited information about your sales transactions or service inquiries for legal, tax or necessary record keeping purposes;
 
 Choozle also uses our own cookies, as well as cookies implemented by advertising services to assist Choozle with our own corporate advertising efforts. We may allow certain third party advertising services to collect data about your Choozle website viewing behavior and combine this data with information collected from other websites over time for purposes that include interest-based advertising. You can opt-out of these advertising efforts by visiting;  
    
@@ -191,8 +202,9 @@ Links to Other Websites: The Site may contain links, content, and advertisements
    
 [back to top](#backtotop)
 
-  
-**SECURITY AND DATA RETENTION**  
+#####   
+**SECURITY AND DATA RETENTION**
+
 We have implemented commercially reasonable security measures, including physical, electronic, and administrative safeguards, to prevent unauthorized access to, loss, misuse, or alteration of the information collected through our Websites. We take reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage is 100% secure. We make no assurances in this policy about our ability to prevent such loss, misuse, to you or to any third-party arising out of any such loss, misuse, or alteration. If you have any questions about the security of our Sites you can contact us using the information provided below.
 
 **Retention**: We retain the information you provide to us for as long as your account is active or as needed to provide you services or perform the purposes for which it was supplied. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
@@ -202,11 +214,12 @@ We may need to retain certain information for recordkeeping purposes, as require
    
 [back to top](#backtotop)
 
-  
-**EU AND OTHER INTERNATIONAL VISITORS**  
+#####   
+**EU AND OTHER INTERNATIONAL VISITORS**
+
 Choozle is a global company headquartered in the United States. If you access the Platform or any other Sites managed by Choozle, be aware that your information may be transferred to, stored, and processed in the United States. We transfer personal information from the EU, UK or Switzerland to the US by implementing the Standard Contractual Clauses adopted by the European Commission.
 
-We commit to resolve complaints about our collection or use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our use of your personal datashould first contact us at [\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection). If Choozle does not resolve your complaint, you may submit your complaint to your local data protection authority.
+We commit to resolve complaints about our collection or use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our use of your personal datashould first contact us at privacy@choozle.com. If Choozle does not resolve your complaint, you may submit your complaint to your local data protection authority.
 
 As it relates to personal data collected on this site for Residents of the European Union, Switzerland or United Kingdom, you are granted:
 
@@ -216,14 +229,15 @@ As it relates to personal data collected on this site for Residents of the Europ
 
 (c)the right to withdraw consent.
 
-If you are an EU, Swiss or UK resident you may request access to any personally identifiable data that is collected through the Choozle Site or Services by contacting us at [\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection).
+If you are an EU, Swiss or UK resident you may request access to any personally identifiable data that is collected through the Choozle Site or Services by contacting us at privacy@choozle.com.
 
-We process personal information under the legal basis of performance of contract, consent and legitimate interest. Where any processing of personal information is solely dependent upon your consent, you have the right to withdraw such consent at any time. The provision of personal information by you will be for contractual, marketing, analytical purposes, or other purposes as referred to in this Policy. When we receive your request, we may ask you to verify your identity before we can act on your request. We may withhold information where we are required by law to do so or if the search for that information would require disproportionate effort or have a disproportionate effect to, for example, the cost of providing the information, the time it would take to retrieve the data, or how difficult it may be to obtain the information requested. Residents of the European Economic Area (EEA), in conjunction with the General Data Protection Regulation (GDPR), may opt out of our cookie-based marketing efforts by using the IAB Europe’s industry opt-out at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Additional specific requests of data collection, management or use may be directed to us at [\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection).  
+We process personal information under the legal basis of performance of contract, consent and legitimate interest. Where any processing of personal information is solely dependent upon your consent, you have the right to withdraw such consent at any time. The provision of personal information by you will be for contractual, marketing, analytical purposes, or other purposes as referred to in this Policy. When we receive your request, we may ask you to verify your identity before we can act on your request. We may withhold information where we are required by law to do so or if the search for that information would require disproportionate effort or have a disproportionate effect to, for example, the cost of providing the information, the time it would take to retrieve the data, or how difficult it may be to obtain the information requested. Residents of the European Economic Area (EEA), in conjunction with the General Data Protection Regulation (GDPR), may opt out of our cookie-based marketing efforts by using the IAB Europe’s industry opt-out at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Additional specific requests of data collection, management or use may be directed to us at privacy@choozle.com.  
    
 [back to top](#backtotop)
 
-  
-**CALIFORNIA PRIVACY STATEMENT**  
+#####   
+**CALIFORNIA PRIVACY STATEMENT**
+
 The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information including:
 
 (a)The right to know about the personal information a business collects about them and how it is used and shared;
@@ -234,32 +248,36 @@ The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control 
 
 (d)The right to non-discrimination for exercising their CCPA rights.
 
-Please submit your requests to [\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection). For all requests, you must put the statement “Your California Privacy Rights” in the body of your request and include the name of the Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.  
+Please submit your requests to [privacy@choozle.com](mailto:privacy@choozle.com). For all requests, you must put the statement “Your California Privacy Rights” in the body of your request and include the name of the Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.  
    
 [back to top](#backtotop)
 
-  
-**CHANGES TO OUR POLICY**  
+#####   
+**CHANGES TO OUR POLICY**
+
 We may revise this policy at any time. Any changes and/or updates to the policy will be updated directly on this page. Material changes to this policy will be enacted on a going-forward basis.  
    
 [back to top](#backtotop)
 
-  
-**CONTACT US**  
+#####   
+**CONTACT US**
+
 We welcome your questions, comments, and concerns about privacy. Please contact us by mail or email at:  
 Choozle, Inc. 3513 Brighton Blvd #510, Denver, CO 80216  
-[\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection)  
+[privacy@choozle.com](mailto:privacy@choozle.com)  
    
 [back to top](#backtotop)
 
-  
-**ADVERTISING SERVICES PLATFORM PRIVACY NOTICE AND OPT-OUT INFORMATION**  
+#####   
+**ADVERTISING SERVICES PLATFORM PRIVACY NOTICE AND OPT-OUT INFORMATION**
+
 Choozle provides a digital advertising software platform that leverages detailed consumer data to power programmatic advertising campaigns across display, video, mobile, audio, connected tv, digital out-of-home, and other mediums. Our service allows our clients to collect information about their current or potential customers using cookies, pixel tags, web beacons, web bugs, televisions or OTT devices, and other collection technologies. While we do not collect this information on our site, we want you to be aware of how our services can be used to collect your information using publically available data and other collection technologies.  
    
 [back to top](#backtotop)
 
-  
-**INFORMATION WE COLLECT THROUGH OUR ADVERTISING SERVICES PLATFORM**  
+#####   
+**INFORMATION WE COLLECT THROUGH OUR ADVERTISING SERVICES PLATFORM**
+
 Information collected through our service: We and our clients collect, organize, and use information reflecting your interactions with a variety of websites, media types and social networks. _This information may include items such as;_
 
 * the date and time you visited a website;
@@ -288,8 +306,9 @@ Please note that we license Choozle to third parties, such as website publishers
    
 [back to top](#backtotop)
 
-  
-**HOW OUR ADVERTISING SERVICES USE COLLECTED INFORMATION**  
+#####   
+**HOW OUR ADVERTISING SERVICES USE COLLECTED INFORMATION**
+
 We and our clients and partners design and deliver customized advertising campaigns or other relevant content across digital channels. We and our clients may also use this data for related purposes such as to conduct research regarding the results of our online advertising campaigns or to better understand the interests or activities of website visitors.
 
 As noted, we primarily use cookies and mobile advertising identifiers to facilitate relevant ads. In addition, we may work with match partner websites to send us unique identifiers that have been de-identified from an email address or other personal information using a hashing algorithm. We then search our database of client data to determine whether any of our clients is requesting to match data for that particular pseudonymous identifier. If a match occurs, we attempt to associate a cookie with that pseudonymous data and any other information we have matched about the identifier in order to serve the individual with relevant messages or advertisements.
@@ -302,20 +321,23 @@ We may also help clients create an ‘identity graph’ by “matching” or “
    
 [back to top](#backtotop)
 
-  
-**INFORMATION SHARING**  
+#####   
+**INFORMATION SHARING**
+
 As noted below in ‘Your Rights and Choices’, Choozle may share information about your visits to a website with numerous third party advertising services, including social media platforms. Some of these services are listed below, and you can opt-out of data sharing and their associated data use at any time. In addition to the services below, we may also work with various services to deliver relevant ads, which may include sharing information with various ad networks, ad delivery services, ad verification services, or ad exchanges . You may opt-out of many of these services through the industry-wide opt-out choices below.  
    
 [back to top](#backtotop)
 
-  
-**YOUR RIGHTS AND CHOICES**  
+#####   
+**YOUR RIGHTS AND CHOICES**
+
 As part of Choozle’s commitment to respect privacy concerns and implement industry-recognized standards, Choozle complies with the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles for Online Behavioral Advertising, which are designed to inform consumers about data collection and advertising practices across multiple websites and to provide consumers the ability to opt-out.  
    
 [back to top](#backtotop)
 
-  
-**HOW TO OPT OUT OF CHOOZLE ADVERTISING PLATFORM SERVICES**  
+#####   
+**HOW TO OPT OUT OF CHOOZLE ADVERTISING PLATFORM SERVICES**
+
 If you would like to opt-out of Choozle’s advertising services, or services associated with our advertising partners, you may visit:
 
 * The Network Advertising Initiative opt-out at [www.optout.networkadvertising.org](http://www.optout.networkadvertising.org/)
@@ -340,47 +362,223 @@ In addition, we provide you links where you can opt-out of connected TV advertis
 
 You can review the process on connected tv opt-out via Network Advertising Initiative here: [https://www.networkadvertising.org/internet-connected-tv-choices/](https://www.networkadvertising.org/internet-connected-tv-choices/)
 
-To learn more about our involvement with and adherence to industry standards, please contact us at [\[email protected\]](https://choozle.com/cdn-cgi/l/email-protection).  
+To learn more about our involvement with and adherence to industry standards, please contact us at [privacy@choozle.com](mailto:privacy@choozle.com).  
    
 [back to top](#backtotop)
 
 Effective date March 10, 2022
 
-Choozle provides a digital advertising software platform that leverages detailed consumer data to power programmatic advertising campaigns across display, video, mobile, audio, connected tv, digital out-of-home, and other mediums – all from a single, intuitive interface.  
-  
-**_Digital Advertising Made Easy®_**
+[![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-### COMPANY
+![Choozle Logo white](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-* [Our Story](https://choozle.com/our-story/)
-* [Careers](https://choozle.com/careers/)
-* [Awards](https://choozle.com/awards/)
-* [Press](https://choozle.com/recent-press/)
+![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
-[![Choozle is a leader in Demand Side Platform (DSP) on G2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Solution
 
-![Choozle is a leader in Demand Side Platform (DSP) on G2](https://images.g2crowd.com/uploads/report_medal/image/1004595/medal.svg)](https://www.g2.com/products/choozle/reviews?utm_source=rewards-badge "Choozle is a leader in Demand Side Platform (DSP) on G2")
+* [Platform](https://choozle.com/the-platform)
+* [Partnership](https://choozle.com/partnership)
+* [Media Solutions](https://choozle.com/media-solutions)
+* [Managed + Self Service](https://choozle.com/managed-self-service)
+* [Retail Media](https://choozle.com/retail-media)
 
-### RESOURCES
+Channels
 
-* [Webinars](https://choozle.com/webinars/)
-* [Blog](https://choozle.com/blog/)
+* [Display](https://choozle.com/channels-display-advertising)
+* [DOOH](https://choozle.com/channel-dooh-advertising)
+* [Video](https://choozle.com/channels-video-advertising)
+* [Audio](https://choozle.com/channel-audio-advertising)
+* [Connected TV](https://choozle.com/channels-ctv-advertising)
+* [Native](https://choozle.com/channel-native-advertising)
+* [Search](https://choozle.com/search)
+* [Social Media](https://choozle.com/social-media)
 
-### FROM THE BLOG
+Industries
 
-* [Back-To-School Advertising Best Practices with Third-Party Data](https://choozle.com/blog/back-to-school-best-practices-with-third-party-data/)
-* [Amplifying Back-to-School Strategies with Retail Media](https://choozle.com/blog/back-to-school-retail/)
-* [Outcomes-Based Advertising: A Paradigm Shift in Marketing](https://choozle.com/blog/outcomes-based-advertising/)
+* [Automotive](https://choozle.com/automotive)
+* [CPG: Food & Drink](https://choozle.com/cpg-food-drink)
+* [Healthcare](https://choozle.com/healthcare)
+* [Government & Politics](https://choozle.com/government-politics)
+* [Legal](https://choozle.com/legal)
+* [Travel & Tourism](https://choozle.com/travel-tourism)
+* [Home & Garden](https://choozle.com/home-garden)
 
-### CONTACT
+Our Clients
 
-[970.744.3340](tel:970-744-3340)
+* [Agencies](https://choozle.com/agencies)
+* [Brands](https://choozle.com/brands)
 
-Denver, Colorado
+Resources
 
-© Choozle, Inc. 2024    |    [Terms of Service](https://choozle.com/terms-of-service/)    |    [Privacy Policy](https://choozle.com/privacy-policy/)    |    [Opt Out](https://choozle.com/opt-out/)
+* [Blog](https://choozle.com/blog)
+* [Webinars](https://choozle.com/webinars)
+* [Case Studies](https://choozle.com/case-studies)
 
-* [](https://www.facebook.com/choozle "Facebook")
-* [](https://www.instagram.com/choozle/ "Instagram")
-* [](https://www.linkedin.com/company/choozle "LinkedIn")
-* [](https://twitter.com/choozle "Twitter")
+About Us
+
+* [Our Story](https://choozle.com/our-story)
+* [Leadership](https://choozle.com/leadership)
+* [News + Press](https://choozle.com/news-press)
+* [Contact](https://choozle.com/connect)
+* [Careers](https://choozle.com/careers)
+* [Awards](https://choozle.com/awards)
+
+**Subscribe**
+
+Join our mailing list to stay updated on news and releases.
+
+By subscribing, you agree to our Privacy Policy and consent to receive updates from us.
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/users-love-us.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
+
+* © 2024 Choozle. All rights reserved.
+
+* [Privacy Policy](https://choozle.com/privacy-policy)
+* [Terms of Services](https://choozle.com/terms-of-service)
+* [Cookie Settings](https://choozle.com/opt-out)
+* [Data Processing Agreement](https://choozle.com/data-processing-agreement/)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/users-love-us.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/04/footer_cion__1.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/04/footer_icon2.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__3.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/04/footer_icon_4.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__5.png)
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/04/footer_icon__6.png)
+
+[Facebook](https://www.facebook.com/choozle) [Instagram](https://www.instagram.com/choozle/) [X-twitter](https://twitter.com/choozle) [Linkedin](https://www.linkedin.com/company/choozle) [Youtube](https://www.youtube.com/@ChoozleDenver)
+
+![](https://choozle.com/wp-content/uploads/2024/05/image-77-300x300.png)
+
+Annie Wissner – VP Marketing
+----------------------------
+
+Annie Wissner is an accomplished and innovative B2B marketing leader with over 20 years of experience. She has proven success in start-up and enterprise environments, as well as in domestic and international markets. She is recognized for building strong brands using integrated marketing methods and ABM-centric demand generation and has a track record of establishing revenue-generating programs. A key contributor to strategic business planning, with expertise in leading, managing, and developing long-term growth plans and digital transformation.
+
+As Vice President of Marketing, Annie oversees all corporate marketing functions at Choozle, including brand management, go-to-market strategy, product, digital, demand generation, partnerships, and media relations.
+
+Annie earned a Bachelor of Arts degree in Business from the University of Denver and a Project Management certificate from the University of Washington.
+
+x
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/05/image-75-300x300.png)
+
+Joe Forrester – SVP Engineering and Product
+-------------------------------------------
+
+Joe Forrester has over 20 years of broad experience working across corporations to understand their strategic, marketing, data, and technological issues while connecting strategic business needs to their corporate marketing applications and ultimately to the organization’s individual consumer to drive measurable results. He brings a unique background and perspective due to his extensive engagement in multiple technological and business disciplines.
+
+Joe is the Senior Vice President – Engineering and Product at Choozle. He drives innovative solutions for the company, including with their Customer Relationship Management (CRM) programs and building next generation, Cloud-based technology that allows customers to deliver on their programmatic marketing needs.
+
+Joe earned a Bachelor of Science degree in Computer Management from Eastern Illinois University.
+
+x
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/05/image-74-300x300.png)
+
+Martin Smith – SVP Sales
+------------------------
+
+Martin Smith has over 30 years at the leading edge of innovation in media, data and data technology on both the agency and client-side. He is a veteran of businesses in their growth phases including Apple, Audible, MatchLogic and the Lowe Group. Martin has led revenue teams and been a key driver in effectively supporting business transformations enabled by technology and the effective application of data.
+
+Martin is passionate about supporting advertisers and their agencies to maximize their investments in acquiring and developing their customer relationships. He joined Choozle seeing the opportunity to lean in to help scale the adoption of the new Choozle technology platform and service framework.
+
+Martin earned a BA Hons in Social Sciences from University of London.
+
+x
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/05/image-72-1-300x300.png)
+
+Adam Woods – CEO
+----------------
+
+Adam is the Chief Executive Officer (CEO) and held two other roles at Choozle — Chief Client Officer and Chief Technology Officer. Throughout his tenure at Choozle, he’s been improving the way that advertisers buy media through the Choozle platform. He has led initiatives to ensure that Choozle leads the space in terms of being a consultative partner that helps ensure the effective deployment of media through a combination of omnichannel planning, targeting best practices, upfront goal setting, and effective measurement.
+
+Adam was previously the Chief Technology Officer at Wunderman Thompson, a multinational agency that focuses on building real-time solutions at web scale. He joined Choozle with the aim of making industrial-grade advertising solutions available to regional and local businesses in an easy-to-use and coherent manner. He saw this as an opportunity to bring a significant change in the Advertising Technology market, to help companies grow.
+
+x
+
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://choozle.com/wp-content/uploads/2024/05/image-73-2-300x300.png)
+
+Katina Lundberg – Chief People Officer
+--------------------------------------
+
+Katina Lundberg, PHR (Professional in Human Resources) has over 20 years of human resources experience with 15 years in leadership roles. She has a history of proven results with building high performing teams, redesigning total rewards programs, and implementing values and engagement programs.
+
+Katina is the Chief People Officer at Choozle and was previously Vice President – People Operations. Her leadership in building the organizational values and engagement program has led to positive outcomes. She contributes directly to the long and short-term strategic objectives of the company, including mergers and acquisitions, while maximizing organizational effectiveness.
+
+Katina earned a Bachelor of Science degree in Business Administration from Western Colorado University. She is a board member of Khesed Wellness, a Non-Profit organization that provides affordable outpatient mental health therapy to the underinsured.
+
+x
+
+Search for:
