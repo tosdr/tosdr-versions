@@ -24,13 +24,13 @@ MORE CAMERAS![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8
 
 [Accessories](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
 
-Action Cameras
+Wide-Angle Cameras
 
 [Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 
 Handheld Gimbals
 
-[Insta360 Flow](https://www.insta360.com/product/insta360-flow)
+[Insta360 Flow Pro Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
 
 Webcams
 
@@ -550,11 +550,11 @@ No
 
 * [Insta360 X4](https://www.insta360.com/product/insta360-x4)
 * [Insta360 X3](https://www.insta360.com/product/insta360-x3)
-* [Instal360 GO 3S & Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
+* [Insta360 GO 3S & Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
 * [Insta360 Ace Pro & Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)
 * [Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)
 * [Insta360 ONE RS 1-Inch 360](https://www.insta360.com/product/insta360-oners/1inch-360)
-* [Insta360 Flow](https://www.insta360.com/product/insta360-flow)
+* [Insta360 Flow Pro & Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
 * [Insta360 Link](https://www.insta360.com/product/insta360-link)
 
 ### Support
@@ -610,11 +610,7 @@ Call Service: +1 800 692 0360
 
 Office Hours: Mon-Fri 7:00-17:00 (PST)
 
-![tiktok](https://res.insta360.com/static/e3681f1dde1f82c10c7d87adf84f2144/1006.svg)![tiktok](https://res.insta360.com/static/assets/storage/20210420/8088adf76b82f555d0836bf0f2cd9244/icon_tiktok_hover.svg)
-
-![douyin](https://res.insta360.com/static/6303ee160e13636ebd7711940fb94c57/qrcode_tiktok_en_2x.jpg)
-
-[![youtube](https://res.insta360.com/static/fad5413ac440fd1af62b7e998af1de90/10001-(1)%20(1).svg)![youtube](https://res.insta360.com/static/assets/storage/20210420/675916cae0e6dbd60ed9593b2bc220f9/icon_youtube_hover.svg)](https://www.youtube.com/c/insta360)[![twitter](https://res.insta360.com/static/77f76cf49335f413211aa16992550ddb/icon-x.svg)![twitter](https://res.insta360.com/static/430a50a064ee6890dca324cce086eef8/icon-x-hover.svg)](https://twitter.com/insta360)[![facebook](https://res.insta360.com/static/627e398e6e1a009ae8fdca6bde3b833e/10005-(1)%20(1).svg)![facebook](https://res.insta360.com/static/assets/storage/20210420/5627d043dfd5982678bac46e046c8acc/icon_fb_hover.svg)](https://www.facebook.com/Insta360)[![instagram](https://res.insta360.com/static/ee50f7f021ab074ba85eed3a8748a686/10003%20(1).svg)![instagram](https://res.insta360.com/static/assets/storage/20210420/9cdaf4f45d44ea82789605d562f9bbcd/icon_ig_hover.svg)](https://www.instagram.com/insta360/)
+[![tiktok](https://res.insta360.com/static/e3681f1dde1f82c10c7d87adf84f2144/1006.svg)![tiktok](https://res.insta360.com/static/assets/storage/20210420/8088adf76b82f555d0836bf0f2cd9244/icon_tiktok_hover.svg)](https://www.tiktok.com/@insta360_official)[![youtube](https://res.insta360.com/static/fad5413ac440fd1af62b7e998af1de90/10001-(1)%20(1).svg)![youtube](https://res.insta360.com/static/assets/storage/20210420/675916cae0e6dbd60ed9593b2bc220f9/icon_youtube_hover.svg)](https://www.youtube.com/c/insta360)[![twitter](https://res.insta360.com/static/77f76cf49335f413211aa16992550ddb/icon-x.svg)![twitter](https://res.insta360.com/static/430a50a064ee6890dca324cce086eef8/icon-x-hover.svg)](https://twitter.com/insta360)[![facebook](https://res.insta360.com/static/627e398e6e1a009ae8fdca6bde3b833e/10005-(1)%20(1).svg)![facebook](https://res.insta360.com/static/assets/storage/20210420/5627d043dfd5982678bac46e046c8acc/icon_fb_hover.svg)](https://www.facebook.com/Insta360)[![instagram](https://res.insta360.com/static/ee50f7f021ab074ba85eed3a8748a686/10003%20(1).svg)![instagram](https://res.insta360.com/static/assets/storage/20210420/9cdaf4f45d44ea82789605d562f9bbcd/icon_ig_hover.svg)](https://www.instagram.com/insta360/)
 
 [Download the Insta360 App](https://www.insta360.com/download/insta360-x3) ｜ [User Service Agreement](https://www.insta360.com/support/supportcourse?post_id=9142) ｜ [Privacy Policy](https://www.insta360.com/support/supportcourse?post_id=20166)
 
