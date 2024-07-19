@@ -185,6 +185,8 @@ By using and registering as a User on this Website, you expressly and specifical
 
 In accordance with Articles 11 and 12 of Regulation (EU) 2022/2065 (the **“Digital Services Act”** or **“DSA”**), [dsa@pornhub.com](mailto:dsa@pornhub.com) is the designated, single point of contact for communications with recipients of the services offered herein, as well as for European Union Member State authorities, the Commission, and the Board for Digital Services. Please conduct all communication in English or Greek.
 
+For any removal orders pursuant to Regulation (EU) 2021/784 (the “Terrorist Content Online Regulation” or “TCO”), [designated competent EU authorities](https://home-affairs.ec.europa.eu/policies/internal-security/counter-terrorism-and-radicalisation/prevention-radicalisation/terrorist-content-online/list-national-competent-authority-authorities-and-contact-points_en) can complete our [removal form](https://www.pornhub.com/tco-removal). Please use the template provided in [Annex I](https://eur-lex.europa.eu/eli/reg/2021/784#:~:text=p.%C2%A0385).-,ANNEX%20I,-REMOVAL%20ORDER) of the TCO, and conduct all communication in English or Greek.
+
 Accessing this Website and Account Security
 -------------------------------------------
 
