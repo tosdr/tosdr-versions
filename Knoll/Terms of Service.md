@@ -224,6 +224,7 @@
     ##### [Workplace  
     Collections](https://www.knoll.com/design-plan/collections/workplace-collections)
     
+    * [Cove Collection by Knoll](https://www.knoll.com/design-plan/product/cove-collection?section=design)
     * [Antenna Workspaces](https://www.knoll.com/design-plan/collections/workplace/antenna-workspaces)
     * [Dividends Horizon](https://www.knoll.com/design-plan/collections/workplace/dividends-horizon)
     * [Rockwell Unscripted](https://www.knoll.com/design-plan/collections/workplace/rockwell-unscripted)
@@ -296,19 +297,11 @@
     
     We match your needs with research-supported tools, techniques, and insights we've developed over eight decades, applying our holistic understanding of the interplay between people, architecture and furniture, and the experiences they create.
     
-    ##### Our Approach
+    ##### Workplace Perspective
     
-    * [Planning With Knoll](https://www.knoll.com/story/design-plan/planning-with-knoll)
-    * [The Thriving Workplace](https://www.knoll.com/story/design-plan/thriving-workplace)
-    * [Knoll at MillerKnoll Design Days 2023](https://www.knoll.com/design-plan/knoll-design-days-2023)
-    
-    ##### Insights
-    
+    * [Knoll at MillerKnoll Design Days 2024](https://www.knoll.com/story/design-plan/knoll-at-millerknoll-design-days-2024)
     * [Knoll Works 2022](https://www.knoll.com/design-plan/knoll-works-2022)
-    * [r/evolution workplace](https://www.knoll.com/design-plan/planning/revolution-workplace)
-    * [Workplace Themes](https://www.knoll.com/design-plan/planning/workplace-themes)
-    * [Workplace Technology](https://www.knoll.com/design-plan/planning/workplace-technology)
-    * [Holistic Ergonomics](https://www.knoll.com/design-plan/planning/ergonomics)
+    * [Planning With Knoll](https://www.knoll.com/story/design-plan/planning-with-knoll)
     
     ##### Spaces
     
@@ -318,14 +311,7 @@
     * [Outdoor Spaces](https://www.knoll.com/design-plan/planning/outdoor)
     * [Planning Ideas Library](https://www.knoll.com/Typicals/search?change=true&page=1&size=20)
     
-* [Markets](https://www.knoll.com/design-plan/markets)
-    
-    Let's Work Together
-    -------------------
-    
-    At Knoll we pride ourselves on offering specific guidance and solutions for clients across diverse industries. Our specialized sales teams and tailored product offerings help create inspired environments for any kind of work.
-    
-    [Find a Specialist](https://www.knoll.com/design-plan/teams)
+    ##### [Markets](https://www.knoll.com/design-plan/markets)
     
     * [Healthcare](https://www.knoll.com/design-plan/market-focus/knoll-healthcare-solutions)
     * [Education](https://www.knoll.com/design-plan/market-focus/higher-education)
@@ -547,6 +533,7 @@
             Collections](https://www.knoll.com/design-plan/collections/workplace-collections)
             * [###### Workplace  
                 Collections](javascript:;)
+            * [Cove Collection by Knoll](https://www.knoll.com/design-plan/product/cove-collection?section=design)
             * [Antenna Workspaces](https://www.knoll.com/design-plan/collections/workplace/antenna-workspaces)
             * [Dividends Horizon](https://www.knoll.com/design-plan/collections/workplace/dividends-horizon)
             * [Rockwell Unscripted](https://www.knoll.com/design-plan/collections/workplace/rockwell-unscripted)
@@ -607,18 +594,11 @@
         * [###### Planning
             
             We match your needs with research-supported tools, techniques, and insights we've developed over eight decades, applying our holistic understanding of the interplay between people, architecture and furniture, and the experiences they create.](https://www.knoll.com/design-plan/planning)
-        * [Our Approach](https://www.knoll.com/terms-of-use/null)
-            * [###### Our Approach](javascript:;)
-            * [Planning With Knoll](https://www.knoll.com/story/design-plan/planning-with-knoll)
-            * [The Thriving Workplace](https://www.knoll.com/story/design-plan/thriving-workplace)
-            * [Knoll at MillerKnoll Design Days 2023](https://www.knoll.com/design-plan/knoll-design-days-2023)
-        * [Insights](https://www.knoll.com/terms-of-use/null)
-            * [###### Insights](javascript:;)
+        * [Workplace Perspective](https://www.knoll.com/terms-of-use/null)
+            * [###### Workplace Perspective](javascript:;)
+            * [Knoll at MillerKnoll Design Days 2024](https://www.knoll.com/story/design-plan/knoll-at-millerknoll-design-days-2024)
             * [Knoll Works 2022](https://www.knoll.com/design-plan/knoll-works-2022)
-            * [r/evolution workplace](https://www.knoll.com/design-plan/planning/revolution-workplace)
-            * [Workplace Themes](https://www.knoll.com/design-plan/planning/workplace-themes)
-            * [Workplace Technology](https://www.knoll.com/design-plan/planning/workplace-technology)
-            * [Holistic Ergonomics](https://www.knoll.com/design-plan/planning/ergonomics)
+            * [Planning With Knoll](https://www.knoll.com/story/design-plan/planning-with-knoll)
         * [Spaces](https://www.knoll.com/terms-of-use/null)
             * [###### Spaces](javascript:;)
             * [Workstations](https://www.knoll.com/design-plan/planning/open-plan)
@@ -626,21 +606,16 @@
             * [Private Offices](https://www.knoll.com/design-plan/planning/private-offices)
             * [Outdoor Spaces](https://www.knoll.com/design-plan/planning/outdoor)
             * [Planning Ideas Library](https://www.knoll.com/Typicals/search?change=true&page=1&size=20)
-    * [Markets](https://www.knoll.com/design-plan/markets)
-        * [###### Markets
-            
-            At Knoll we pride ourselves on offering specific guidance and solutions for clients across diverse industries. Our specialized sales teams and tailored product offerings help create inspired environments for any kind of work.
-            
-            Find a Specialist](https://www.knoll.com/design-plan/markets)
-        * [](https://www.knoll.com/design-plan/markets)
-        * [Healthcare](https://www.knoll.com/design-plan/market-focus/knoll-healthcare-solutions)
-        * [Education](https://www.knoll.com/design-plan/market-focus/higher-education)
-        * [Small Business and Startups](https://www.knoll.com/design-plan/market-focus/market-focus/small-business-and-start-ups)
-        * [Legal](https://www.knoll.com/design-plan/market-focus/knoll-for-legal)
-        * [Government & GSA](https://www.knoll.com/design-plan/market-focus/knoll-for-government)
-        * [Canadian Federal Government](https://www.knoll.com/design-plan/market-focus/canadian-federal-government)
-        * [Global Business Division](https://www.knoll.com/design-plan/market-focus/knoll-global-business-division)
-        * [Residential](https://www.knoll.com/design-plan/market-focus/knoll-residential)
+        * [Markets](https://www.knoll.com/design-plan/markets)
+            * [###### Markets](javascript:;)
+            * [Healthcare](https://www.knoll.com/design-plan/market-focus/knoll-healthcare-solutions)
+            * [Education](https://www.knoll.com/design-plan/market-focus/higher-education)
+            * [Small Business and Startups](https://www.knoll.com/design-plan/market-focus/market-focus/small-business-and-start-ups)
+            * [Legal](https://www.knoll.com/design-plan/market-focus/knoll-for-legal)
+            * [Government & GSA](https://www.knoll.com/design-plan/market-focus/knoll-for-government)
+            * [Canadian Federal Government](https://www.knoll.com/design-plan/market-focus/canadian-federal-government)
+            * [Global Business Division](https://www.knoll.com/design-plan/market-focus/knoll-global-business-division)
+            * [Residential](https://www.knoll.com/design-plan/market-focus/knoll-residential)
     * [Discover](https://www.knoll.com/design-plan/discover)
         * [###### Discover
             
