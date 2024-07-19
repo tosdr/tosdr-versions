@@ -34,10 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Star Wars: This is The Way (6,806)](https://forum.nationstates.net/viewtopic.php?t=494102&f=19&view=unread#unread ""Star Wars: This is The Way" (6,806 posts)")
-* [American Politics: The Final Four..VP… (9,601)](https://forum.nationstates.net/viewtopic.php?t=548141&f=20&view=unread#unread ""American Politics: The Final Four..VP Choices" (9,601 posts)")
-* [2023 Israel–Hamas War Thread mk3 (4,216)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023 Israel–Hamas War Thread mk3" (4,216 posts)")
-* [The LGBT+ Thread: Rainbow Connections (2,505)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (2,505 posts)")
+* [American Politics: Is It Joever? (5,616)](https://forum.nationstates.net/viewtopic.php?t=552557&f=20&view=unread#unread ""American Politics: Is It Joever?" (5,616 posts)")
+* [\[DRAFT\]About Sustainable Gold Mining (4)](https://forum.nationstates.net/viewtopic.php?t=553034&f=9&view=unread#unread ""[DRAFT]About Sustainable Gold Mining" (4 posts)")
+* [10000 Monkey Genocide III (3,618)](https://forum.nationstates.net/viewtopic.php?t=520528&f=25&view=unread#unread ""10000 Monkey Genocide III" (3,618 posts)")
+* [In The Longest Shadows (Closed, SIC) (13)](https://forum.nationstates.net/viewtopic.php?t=553143&f=5&view=unread#unread ""In The Longest Shadows (Closed, SIC)" (13 posts)")
 
 Advertisement
 
