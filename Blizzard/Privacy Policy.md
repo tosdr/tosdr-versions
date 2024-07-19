@@ -85,9 +85,9 @@ Blizzard will share your personal information with service providers and third p
 
 We may, however, share de-identified, aggregated, and/or public information with third parties. Additionally, we share unique identifiers specific to your device with service providers and third parties to tailor content and to adjust and improve our services.
 
-We may share your personal information with our affiliated companies, [available here](https://www.blizzard.com/en-us/legal/90d332e7-314e-4926-9d43-e46ea63bfe36), including for our affiliated or subsidiary companies’ own marketing purposes such as personalized advertisements. Blizzard is not responsible for the privacy practices of our affiliates and the use of your Information by those companies (such as for product improvement) will be governed by those specific companies’ privacy policies, which you may find on each company’s website.
+We may share your personal information with our affiliated companies, [available here](https://www.blizzard.com/en-us/legal/90d332e7-314e-4926-9d43-e46ea63bfe36), including for our affiliated or subsidiary companies’ own marketing purposes (such as personalized advertisements). Blizzard is not responsible for the privacy practices of our affiliates and the use of your Information by those companies (such as for product improvement) will be governed by those specific companies’ privacy policies, which you may find on each company’s website.
 
-If you purchase a product or license a game from another company on our Battle.net platform or when you link accounts or otherwise interact directly with another company, we may share information we collect such as your account information and game play data with that company so they may establish or maintain a direct relationship with you. Because of that sharing, you may receive communications from that company including for their own marketing purposes such as personalized advertisements. Blizzard is not responsible for the privacy practices of those companies and the use of your Information by those companies.
+If you purchase a product or license a game from another company on our Battle.net platform or when you link accounts or otherwise interact directly with another company, we may share information we collect (such as your account information and game play data) with that company so they may establish or maintain a direct relationship with you. Because of that sharing, you may receive communications from that company including for their own marketing purposes (such as personalized advertisements). Blizzard is not responsible for the privacy practices of those companies and the use of your Information by those companies.
 
 We share some of our players’ game data with our community of developers who create applications and websites that benefit our player community. You may opt-out of having your game data included in this program by opting out of game-data sharing in the Privacy section of Battle.net account management.
 
@@ -358,13 +358,25 @@ We may need to collect your personal information in order to offer you the benef
 
 **Reporting:** The reporting information required by the California Consumer Privacy Act Regulations §7102 is available below. Statistics relate to all individuals in the United States, as Blizzard cannot determine the residence of all consumers submitting requests.
 
-Requests to Know made in the United States: 11,492 Requests completed in whole or in part\*\*: 9,974 Average days to respond: 1 day
+Requests to Know made in the United States: 10,227
 
-Requests to Delete made in the United States: 62,255 Requests completed in whole or in part\*\*: 49,532 Average days to respond: 5 days
+Requests completed in whole or in part\*\*: 9,848
 
-Requests to Opt-out made in the United States\*: 8,727 Requests completed in whole or in part\*\*: 8,727 Average days to respond: Immediate
+Average days to respond: 1 day
 
-\*Only available to residents of states that require Blizzard to accept opt-out requests
+Requests to Delete made in the United States: 61,013
+
+Requests completed in whole or in part\*\*: 48,135
+
+Average days to respond: 6 days
+
+Requests to Opt-out made in the United States\*: 657,080
+
+Requests completed in whole or in part\*\*: 657,080
+
+Average days to respond: Immediate
+
+\*Aggregated opted-out users
 
 \*\*Requests may be unable to be completed due to factors, such as incorrect topic selection in our support forms, an inability to verify a user’s control of an account from which a request is made, a user ceasing to respond to our messages for identity confirmation, or a user cancelling their request.
 
@@ -437,6 +449,6 @@ If you have questions or wish to file a complaint, please e-mail us at DPO@blizz
 
 As mentioned, Blizzard Entertainment is a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at [http://www.esrb.org/privacy/contact.aspx](http://www.esrb.org/privacy/contact.aspx). You may also e-mail them at [privacy@esrb.org](mailto:privacy@esrb.org).
 
-This Privacy Policy was last updated on March 22, 2024.
+This Privacy Policy was last updated on June 28, 2024.
 
 [Back To Directory](http://us.blizzard.com/en-us/legal)
