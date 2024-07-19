@@ -4,7 +4,7 @@
 
 ![fbpx](https://www.facebook.com/tr?id=400974670973922&ev=PageView&noscript=1)
 
-        [Skip to content](#content "Skip to content")
+         [Skip to content](#content "Skip to content")
 
 * [](https://www.facebook.com/jinkosolarus "Facebook")
 * [](https://twitter.com/JinkosolarUS "Twitter")
