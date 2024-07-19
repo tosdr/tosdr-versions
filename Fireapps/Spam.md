@@ -413,18 +413,18 @@ Policy Page 
 * [Disclaimer](https://www.genericday.com/disclaimers)
 * [How To Track Order](https://www.genericday.com/how-to-track-order)
 
-Our Page
+Our Categories
 
-* [Our Blog](https://www.genericday.com/blog)
-* [Contact Us](https://www.genericday.com/contact)
-* [Create an Account](https://www.genericday.com/customer/account/create/)
-* [Our Reviews](https://www.trustpilot.com/review/genericday.com)
+* [Sildenafil](https://www.genericday.com/mens-health/sildenafil.html)
+* [Tadalafil](https://www.genericday.com/mens-health/tadalafil.html)
+* [Avanafil](https://www.genericday.com/mens-health/avanafil.html)
+* [Vardenafil](https://www.genericday.com/mens-health/vardenafil.html)
 
 SHOP LOCATION
 
 *  Email: support@genericday.com
 *  Working Hours: 9:00A.M - 8:00P.M (IST)
-*  Support 24/7
+*  We are open 24\*7
 * * [](https://www.facebook.com/Genericdayusa/)
     * [](https://twitter.com/Genericdayusa)
     * [](https://www.instagram.com/genericdayusa/)
