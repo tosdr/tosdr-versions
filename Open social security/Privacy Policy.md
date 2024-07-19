@@ -1,6 +1,5 @@
 * [HOME](https://opensocialsecurity.com/)
 * [ABOUT](https://opensocialsecurity.com/about)
-* [CONTACT](https://opensocialsecurity.com/contact)
 * [ARTICLES](https://articles.opensocialsecurity.com/)Toggle Dropdown
     * [How to Calculate a Social Security Retirement Benefit](https://articles.opensocialsecurity.com/calculate-retirement-benefit/)
     * [How Are Social Security Spousal Benefits Calculated?](https://articles.opensocialsecurity.com/spousal-benefit-calculation/)
