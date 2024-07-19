@@ -96,13 +96,17 @@ Privacy reglement
 
 ![Privacy reglement](https://over.nos.nl/wp-content/uploads/2021/01/org.1.png)
 
-**2022**
+**202**4
 
-De NOS hecht groot belang aan de bescherming van uw privacy en de veiligheid van persoonsgegevens. Wij verzamelen alleen persoonsgegevens die noodzakelijk zijn voor het tonen van de website(s), apps van de NOS en de daarop aangeboden diensten. Daarnaast bieden wij een aantal diensten aan waarvoor het verwerken van persoonsgegevens noodzakelijk is, zoals een contactformulier en de mogelijkheid tot het aanmelden voor een nieuwsbrief. De persoonsgegevens worden verwerkt in overeenstemming met de Algemene Verordening Gegevensbescherming (AVG) en andere toepasselijke privacy regelgeving. Dit Privacy Reglement betreft de verwerking van persoonsgegevens via [nos.nl](http://nos.nl/), over.nos.nl, jeugdjournaal.nl, lab.nos.nl, werkenbijdenos.nl en alle overige via deze websites bereikbare websites en apps van de NOS (verder: Website(s)).
+In dit Privacy Reglement leest u hoe de NOS omgaat met uw persoonsgegevens.
 
-NOS Privacy Reglement 2022
+Uw persoonsgegevens worden te allen tijde zorgvuldig en in overeenstemming met de AVG en andere toepasselijke privacy regelgeving verwerkt en uitsluitend voor het doel waarvoor ze zijn verkregen.
 
-[](https://over.nos.nl/wp-content/uploads/2022/08/NOS-Privacy-Reglement-2022.pdf)
+Dit Privacy Reglement betreft de verwerking van persoonsgegevens via nos.nl, over.nos.nl, jeugdjournaal.nl, lab.nos.nl, stories.nos.nl, nos.nl/nieuwsuur, werkenbijdenos.nl en alle overige via deze websites bereikbare pagina’s en apps van de NOS. 
+
+NOS Privacy Reglement 2024
+
+[](https://over.nos.nl/wp-content/uploads/2024/07/NOS-Privacy-Regelement-juni-2024.pdf)
 
 Deel dit artikel
 
