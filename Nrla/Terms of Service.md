@@ -89,7 +89,6 @@ Reject Cookies
     * Trade & Retail
         
         * [TradePoint (B&Q)](https://www.nrla.org.uk/services/tradepoint)
-        * [Carpetright](https://www.nrla.org.uk/services/carpetright)
         * [Currys Business](https://www.nrla.org.uk/services/currys)
         * [LOFT Furniture](https://www.nrla.org.uk/services/appliances-and-furniture/loft)
         * [Retailers](https://www.nrla.org.uk/services/retailers)
