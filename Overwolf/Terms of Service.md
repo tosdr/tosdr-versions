@@ -13,7 +13,7 @@
         Make the best games better with apps, mods, addons, and servers - and monetize
         
     * Desktop Apps
-        * [Build an app](https://www.overwolf.com/creators/build-an-app/)
+        * [How Does It Work](https://www.overwolf.com/creators/build-an-app/)
         * [Getting started](https://overwolf.github.io/start/getting-started)
         * [App documentation](https://overwolf.github.io/)
         * [Supported games](https://www.overwolf.com/supported-games/)
@@ -72,20 +72,25 @@
     * [Our culture](https://www.overwolf.com/our-culture/)
     * [Brand Guidelines](https://www.overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
+    * [ISO](https://www.overwolf.com/iso/)
 * [Careers](https://www.overwolf.com/careers/)
 * [Appstore](https://www.overwolf.com/appstore/)
 
 * [Website Terms of use](https://www.overwolf.com/legal/terms)
 * [Website Privacy policy](https://www.overwolf.com/legal/privacy)
 * [Cookies policy](https://www.overwolf.com/legal/cookies)
+* [CCPA](https://www.overwolf.com/legal/privacy/CCPA)
 * [Community Guidelines](https://www.overwolf.com/legal/community-guidelines)
 * [Copyright Notice](https://www.overwolf.com/legal/copyright-notice)
+* [Platform Terms of use](https://www.overwolf.com/legal/client/terms)
+* [Platform Privacy policy](https://www.overwolf.com/legal/client/privacy)
+* [Platform CCPA](https://www.overwolf.com/legal/client/ccpa)
 * [Learn more](https://www.overwolf.com/legal/learn-more)
 
 Overwolf Website terms of use
 =============================
 
-Last updated: June, 2024
+Last updated: June, 23, 2024
 
 These Terms of Use (“**Terms**”) are a legally binding and an enforceable agreement between Overwolf, Ltd. (collectively with its affiliates and subsidiaries shall be referred to as “**Overwolf**”, “**we**”, “**us**”, or “**our**”), and the users and visitors of our website, who access to or otherwise interact with our website and the services therein, available at: [https://www.overwolf.com/](https://www.overwolf.com/) ("**website**" and "**user**", "**you**" or "**your**", respectively), and other landing pages. 
 
@@ -172,6 +177,8 @@ Overwolf, Ltd.
 
 [back to top](#) ![Overwolf](https://www.overwolf.com/.content/assets/images/footer-shield.webp)
 
+[![iso cert](https://www.overwolf.com/.content/assets/images/iso-logo.svg)](https://www.overwolf.com/iso)
+
 * ##### Creators
     
     * [Build an app](https://www.overwolf.com/creators/build-an-app/)
@@ -203,6 +210,7 @@ Overwolf, Ltd.
     * [Brand guidelines](https://overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
     * [Careers](https://overwolf.com/careers/)
+    * [ISO](https://www.overwolf.com/iso/)
 * ##### Support & Privacy
     
     * [Help Center](http://support.overwolf.com/)
