@@ -2,6 +2,16 @@
 
 Previous
 
+Watch the Exploding Kittens Netflix Series! Watch Now.
+
+Close
+
+#### Netflix and No Chill?
+
+Watch the Exploding Kittens Netflix Series!
+
+[WATCH SERIES NOW.](https://www.netflix.com/title/81459282)
+
 Free shipping on orders of $40 or more in the contiguous US. See Details.
 
 Close
@@ -174,9 +184,11 @@ Belgium (EUR €) Canada (CAD $) France (EUR €) Germany (EUR €) Guadeloupe (
 
 ##### Cart
 
-Your cart is empty
+Need to spice up game night?
 
-[Start shopping](https://www.explodingkittens.com/collections/all)
+[Best Sellers](https://www.explodingkittens.com/collections/all)
+
+[Shop All](https://www.explodingkittens.com/collections/all)
 
 ### COOKIES AND HOW THEY BENEFIT YOU
 
@@ -320,7 +332,3 @@ All images, art and game materials are ©2015-2024 Exploding Kittens Inc.
 * [Terms of Service](https://www.explodingkittens.com/pages/terms-of-service)
 * [Cookie Policy](https://www.explodingkittens.com/pages/cookies-in-use-on-this-site)
 * [Sitemap](https://www.explodingkittens.com/sitemap.xml)
-
-12779659 en
-
-GBP
