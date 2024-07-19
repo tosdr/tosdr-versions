@@ -1,10 +1,12 @@
-[Vai alla navigazione](#site-navigation) [Vai al contenuto](#content)
+[Skip to content](#content)
 
 [![Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKcAAABOAQMAAAB/k5TlAAAAA1BMVEVHcEyC+tLSAAAAAXRSTlMAQObYZgAAABVJREFUGBljGAWjYBSMglEwCoYIAAAGtAAB3ZjsgwAAAABJRU5ErkJggg==)
 
 ![Logo](https://www.ga-2.it/wp-content/uploads/2016/11/Logo.png)](https://www.ga-2.it/)
 
-Menù
+[GA-2 s.n.c.](https://www.ga-2.it/)
+
+Scoprire la Sicurezza
 
 * [Home](https://www.ga-2.it/)
 * [Azienda](https://www.ga-2.it/azienda/)
@@ -12,11 +14,13 @@ Menù
 * [Contatti](https://www.ga-2.it/contattaci/)
 * [Login](https://www.ga-2.it/killeriosonowhitehat)
 
-* [Home](https://www.ga-2.it/)
-* [Azienda](https://www.ga-2.it/azienda/)
-* [Articoli](https://www.ga-2.it/blog/)
-* [Contatti](https://www.ga-2.it/contattaci/)
-* [Login](https://www.ga-2.it/killeriosonowhitehat)
+Search
+
+Ricerca per:  
+
+Close ×
+
+Menu
 
 Privacy
 =======
@@ -146,5 +150,6 @@ Via al Bacino, 572
 
 email di contatto: info@ga-2.it
 
-© GA-2 s.n.c. 2024  
-[Privacy](https://www.ga-2.it/privacy/)[Creato con Storefront](https://woocommerce.com/products/storefront/ "Storefront - la piattaforma perfetta per il tuo prossimo progetto WooCommerce.").
+Copyright © 2024 GA-2 s.n.c.
+
+[](#)
