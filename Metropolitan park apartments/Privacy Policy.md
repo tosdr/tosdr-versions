@@ -4,8 +4,8 @@ Menu [Resident's Corner](https://www.metropolitanparkapts.com/apartments/wa/seat
 * [Apply](https://www.metropolitanparkapts.com/apartments/wa/seattle/apply)
 * [Amenities](https://www.metropolitanparkapts.com/apartments/wa/seattle/amenities)
     * [Amenities](https://www.metropolitanparkapts.com/apartments/wa/seattle/amenities)
-    * [Reviews](https://www.metropolitanparkapts.com/apartments/wa/seattle/reviews)
     * [Pet Friendly](https://www.metropolitanparkapts.com/apartments/wa/seattle/pet-friendly)
+    * [Reviews](https://www.metropolitanparkapts.com/apartments/wa/seattle/reviews)
 * [Neighborhood](https://www.metropolitanparkapts.com/apartments/wa/seattle/neighborhood)
 * [Photo Gallery](https://www.metropolitanparkapts.com/apartments/wa/seattle/photo-gallery)
 * [Map & Directions](https://www.metropolitanparkapts.com/apartments/wa/seattle/map-directions)
@@ -22,9 +22,9 @@ DOWN
 
 You are using an older, unsupported browser. Please [visit this link](https://client-leads.g5marketingcloud.com/api/v1/locations/g5-cl-5403pf75n-metrpolitan-park-apartments/html_forms/contact-form_include_unit.html) to contact us.
 
-**Don’t Wait, Get This Special!**  
-Savings of Up to $500 on Vacant 2 Bedroom Apartments.   
-_Immediate Move-ins. Select Vacant Homes. New Move-Ins Only._
+**Hot Summer, Even Hotter Deals!**  
+Savings of Up to 4 Weeks Free - Valued Up To $2299!  
+_Must Move-in Within 10 days. Select Vacant Homes. New Move-Ins Only._
 
 ![Privacy policy for Metropolitan Park Apartments in Seattle, Washington](https://res.cloudinary.com/g5-assets-cld/image/upload/x_699,y_0,h_2133,w_3555,c_crop/q_auto,f_auto,fl_lossy,g_center,h_1200,w_2000/g5/g5-c-icwh344r-acacia-capital-corporation-client/g5-cl-5403pf75n-metrpolitan-park-apartments/uploads/DSC_9203_MET_ROOF_DECK_3_1_dklvcg.jpg)
 
@@ -109,7 +109,7 @@ Questions
 
 If you have any questions regarding this Privacy Policy please contact us.
 
-This Privacy Policy was last updated: **2024-05-30 14:17:22 -0700**
+This Privacy Policy was last updated: **2024-07-03 11:42:32 -0700**
 
 This Privacy Policy is effective as of: **2020-02-25 13:21:36 -0800**
 
