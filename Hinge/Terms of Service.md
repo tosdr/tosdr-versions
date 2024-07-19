@@ -516,5 +516,3 @@ Resources
 Legal
 
 [Security](https://hinge.co/security)[Terms](https://hinge.co/terms)[Privacy](https://hinge.co/privacy)[Cookie Policy](https://hinge.co/cookie-policy)Cookie Settings[Consumer Health Data Privacy Policy](https://hinge.co/consumer-health-data-privacy-policy)
-
-![](https://www.facebook.com/tr?id=3005695776317525&ev=PageView&noscript=1)
