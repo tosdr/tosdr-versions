@@ -49,6 +49,7 @@ My Account
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
 * [Order History](https://www.mheducation.com/account.html#orderHistory)
+* [My Digital Products](https://www.mheducation.com/account.html#myDigitalProducts)
 
 * * *
 
@@ -107,6 +108,7 @@ My Account
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
 * [Order History](https://www.mheducation.com/account.html#orderHistory)
+* [My Digital Products](https://www.mheducation.com/account.html#myDigitalProducts)
 
 * * *
 
@@ -380,19 +382,19 @@ Company Info
 
 * [About Us](https://www.mheducation.com/about.html)
 * [Contact & Locations](https://www.mheducation.com/locations.html)
-* [Careers](http://careers.mheducation.com/)
+* [Careers](http://careers.mheducation.com/ "Opens in a new tab: http://careers.mheducation.com/")
 * [Diversity, Equity & Inclusion](https://www.mheducation.com/about/diversity-equity-inclusion.html)
 * [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
-* [Investor Relations](http://investors.mheducation.com/)
+* [Investor Relations](http://investors.mheducation.com/ "Opens in a new tab: http://investors.mheducation.com")
 * [Social Media Directory](https://www.mheducation.com/social-media-directory.html)
 
 Get Help
 
-* [Place an Order](https://mh.my.site.com/CSOM/s/place-an-order)
+* [Place an Order](https://mh.my.site.com/CSOM/s/place-an-order "Opens in a new tab: https://mh.my.site.com/CSOM/s/place-an-order")
 * [Get Support](https://www.mheducation.com/support.html)
-* [Contact Customer Service](https://mh.my.site.com/CSOM/s/)
+* [Contact Customer Service](https://mh.my.site.com/CSOM/s/ "Opens in a new tab: https://mh.my.site.com/CSOM/s/")
 * [Contact Sales Rep](https://www.mheducation.com/locations.html)
-* [Check System Status](http://status.mheducation.com/)
+* [Check System Status](http://status.mheducation.com/ "Opens in a new tab: http://status.mheducation.com/")
 
 Additional Resources
 
