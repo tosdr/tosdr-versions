@@ -24,7 +24,7 @@
     
     A domain name is your web address, the URL of your website and the basis for your e-mail addresses.
     
-    [More domain names](https://www.combell.com/en/domain-names "Domain name free check") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [More domain names](https://www.combell.com/en/domain-names "Domain name free check") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Domain names your address on the web
     
@@ -44,7 +44,7 @@
     
     Hosting is the webspace that allows you to get your website or application online.
     
-    [Learn more about hosting](https://www.combell.com/en/hosting "Hosting") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [Learn more about hosting](https://www.combell.com/en/hosting "Hosting") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Get your website online with 24/7 support
     
@@ -69,7 +69,7 @@
     
     Create a website or web store you will be proud of by yourself.
     
-    [Learn more about building a website](https://www.combell.com/en/build-your-website "Creating your own website") [Learn more about building a webshop](https://www.combell.com/en/build-your-webshop "Creating your own web store") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [Learn more about building a website](https://www.combell.com/en/build-your-website "Creating your own website") [Learn more about building a webshop](https://www.combell.com/en/build-your-webshop "Creating your own web store") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Building a website without technical knowledge
     
@@ -80,7 +80,7 @@
     
     * [WordPress](https://www.combell.com/en/hosting/wordpress-webhosting "A WordPress website without any restrictions")
     * [Managed WordPress](https://www.combell.com/en/hosting/managed-wordpress "WordPress has never been easier") with automatic updates and AI
-    * [Managed WooCommerce](https://www.combell.com/en/woocommerce-wordpress-webshop "Managed WooCommerce website") a worry-free webshop
+    * [Managed WooCommerce](https://www.combell.com/en/woocommerce-wordpress-webshop "Managed WooCommerce web shop") a worry-free webshop
     
 * [E-mail](https://www.combell.com/en/email-hosting "E-mail")
     
@@ -88,7 +88,7 @@
     
     Everything you need to manage your e-mail professionally
     
-    [Find out more about e-mail](https://www.combell.com/en/email-hosting "Find out more about e-mail") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [Find out more about e-mail](https://www.combell.com/en/email-hosting "Find out more about e-mail") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Mailboxes synced across all devices
     
@@ -107,7 +107,7 @@
     
     All the tools for your online success
     
-    [All tools](https://www.combell.com/en/tools "All tools") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [All tools](https://www.combell.com/en/tools "All tools") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Office
     
@@ -120,6 +120,7 @@
     * [E-mail Marketing](https://www.combell.com/en/email-hosting/email-marketing "E-mail Marketing") 6 months free as a Combell customer
     * [Lead generation](https://www.combell.com/en/leadinfo "Leadinfo - Lead generation software") find out who visits your website
     * [GDPR compliance software](https://www.combell.com/en/iubenda-compliance-manager "Iubenda Compliance Software") generate a privacy policy, cookie banner, etc.
+    * [sGTM tagging server](https://www.combell.com/en/sgtm-server-side-tagging "sGTM tagging server") avoid loss of marketing data
     
 * [Servers](https://www.combell.com/en/servers "Servers")
     
@@ -127,7 +128,7 @@
     
     Powerful solutions to keep your website, shop or app online.
     
-    [More about servers](https://www.combell.com/en/servers "Powerful servers with 24/7 support") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [More about servers](https://www.combell.com/en/servers "Powerful servers with 24/7 support") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Fully managed servers We manage the server for you
     
@@ -138,7 +139,7 @@
     
     * [Dedicated web hosting server](https://www.combell.com/en/servers/dedicated-server "Dedicated web hosting")
     * [Scaling](https://www.combell.com/en/managed-kubernetes "Scaling with Kubernetes") with Kubernetes
-    * [VPS completely renewed](https://www.combell.com/en/servers/vps-server-hosting "VPS hosting & Virtual server hosting.")
+    * [VPS completely updated](https://www.combell.com/en/servers/vps-server-hosting "VPS hosting & Virtual server hosting.")
     
     Self-managed servers
     
@@ -146,9 +147,10 @@
     * [Unmanaged cloud](https://www.combell.com/en/unmanaged-cloud "Unmanaged cloud server: take control yourself")
     * [Colocation](https://www.combell.com/en/colocation "House your own server in our data centre")
     
-    Extras
+    Extra services
     
     * [Cloud backup of your server](https://www.combell.com/en/cloud-back-up "Veeam Cloud Connect")
+    * [sGTM tagging server](https://www.combell.com/en/sgtm-server-side-tagging "sGTM tagging server")
     
 * [Managed Services](https://www.combell.com/en/managed-services "All the managed services provided by Combell")
     
@@ -156,7 +158,7 @@
     
     Tailored IT advice to improve your business and make it more successful. Whatever your needs, we will always find a suitable solution. From €199 per month.
     
-    [All managed services](https://www.combell.com/en/managed-services "All of Combell's managed services") [Customer experiences](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
+    [All managed services](https://www.combell.com/en/managed-services "All of Combell's managed services") [Experiences shared by our customers](https://www.combell.com/en/about-combell/customer-experiences "Combell reviews")
     
     Business needs
     
@@ -265,7 +267,7 @@
     
     * [WordPress](https://www.combell.com/en/hosting/wordpress-webhosting "A WordPress website without any restrictions")
     * [Managed WordPress](https://www.combell.com/en/hosting/managed-wordpress "WordPress has never been easier")
-    * [Managed WooCommerce](https://www.combell.com/en/woocommerce-wordpress-webshop "Managed WooCommerce website")
+    * [Managed WooCommerce](https://www.combell.com/en/woocommerce-wordpress-webshop "Managed WooCommerce web shop")
     
 * [E-mail](https://www.combell.com/en/email-hosting "E-mail")
     
@@ -293,6 +295,7 @@
     * [E-mail Marketing](https://www.combell.com/en/email-hosting/email-marketing "E-mail Marketing")
     * [Lead generation](https://www.combell.com/en/leadinfo "Leadinfo - Lead generation software")
     * [GDPR compliance software](https://www.combell.com/en/iubenda-compliance-manager "Iubenda Compliance Software")
+    * [sGTM tagging server](https://www.combell.com/en/sgtm-server-side-tagging "sGTM tagging server")
     
 * [Servers](https://www.combell.com/en/servers "Servers")
     
@@ -313,9 +316,10 @@
     * [Unmanaged cloud](https://www.combell.com/en/unmanaged-cloud "Unmanaged cloud server: take control yourself")
     * [Colocation](https://www.combell.com/en/colocation "House your own server in our data centre")
     
-    Extras
+    Extra services
     
     * [Cloud backup of your server](https://www.combell.com/en/cloud-back-up "Veeam Cloud Connect")
+    * [sGTM tagging server](https://www.combell.com/en/sgtm-server-side-tagging "sGTM tagging server")
     
 * [Managed Services](https://www.combell.com/en/managed-services "All the managed services provided by Combell")
     
