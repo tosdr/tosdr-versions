@@ -14,6 +14,8 @@
 
 [Standups](https://www.polly.ai/standups)
 
+[Live Quizzes](https://www.polly.ai/live-quizzes)
+
 [Workflows](https://www.polly.ai/workflows)
 
 [Team Building](https://www.polly.ai/team-building)
@@ -121,6 +123,8 @@
 [Pulse Surveys](https://www.polly.ai/pulse-surveys)
 
 [Standups](https://www.polly.ai/standups)
+
+[Live Quizzes](https://www.polly.ai/live-quizzes)
 
 [Workflows](https://www.polly.ai/workflows)
 
@@ -390,6 +394,8 @@ Start using Polly with your team
 [Pulse Surveys](https://www.polly.ai/pulse-surveys)
 
 [Standups](https://www.polly.ai/standups)
+
+[Live Quizzes](https://www.polly.ai/live-quizzes)
 
 [Workflows](https://www.polly.ai/workflows)
 
