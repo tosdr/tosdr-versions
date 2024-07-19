@@ -10,6 +10,7 @@ MenuClose
     * [Moodle LMSEngage your learners with flexible, secure, and accessible online learning spaces.](https://moodle.com/solutions/lms/)
         * [Explore Moodle LMSImprove your teaching and student outcomes with our feature-rich LMS platform.](https://moodle.com/solutions/lms/)
         * [Certified IntegrationsExtend your online learning ecosystem with powerful and trusted add-ons.](https://moodle.com/certified-integrations/)
+            * [Become a Certified Integration Partner](https://moodle.com/become-moodle-partner/apply-certified-integration/)
         * [Moodle AppAccess Moodle from anywhere, on any device online and offline.](https://moodle.com/solutions/moodle-app/)
     * [Moodle WorkplaceStreamline training, onboarding, and compliance management while driving learning outcomes that you can measure.](https://moodle.com/solutions/workplace/)
         * [Explore Moodle WorkplaceStreamline employee training with our flexible, end-to-end corporate LMS platform.](https://moodle.com/solutions/workplace/)
@@ -44,9 +45,9 @@ MenuClose
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
-    * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)Increasing cybersecurity in companies: Harnessing Intelliboard’s learning analytics and Moodle](https://moodle.com/news/increasing-cybersecurity-in-companies-harnessing-intelliboards-learning-analytics-and-moodle/)
-    * [![Moodle Certified Partner Emprove](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-1-200x150.png)Moodle Certified Partner Emprove expands reach to Costa Rica](https://moodle.com/news/moodle-certified-partner-emprove-expands-to-costa-rica/)
-    * [![Connect. Ignite. Transform. MoodleMoot Global 2024.](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-200x150.png)Announcing the provisional agenda for MoodleMoot Global 2024!](https://moodle.com/news/announcing-the-provisional-agenda-for-moodlemoot-global-2024/)
+    * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)MoodleMoot Global 2024 highlights, advice, and insights with Marie Achour](https://moodle.com/news/moodlemoot-global-2024-highlights-and-insights-with-marie-achour/)
+    * [![MoodleMoot Global 2024 early bird registration](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-1-200x150.png)Key tips for networking effectively at MoodleMoot Global 2024](https://moodle.com/news/key-tips-for-networking-effectively-at-moodlemoot-global-2024/)
+    * [![Early bird registrations for MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-200x150.png)Less than two weeks left: Secure your early bird ticket for MoodleMoot Global 2024!](https://moodle.com/news/moodlemoot-global-less-than-two-weeks-left-for-early-bird-registration/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -181,6 +182,7 @@ The tables below list the internal and third-party cookies we use. As the names,
     * [Moodle LMSEngage your learners with flexible, secure, and accessible online learning spaces.](https://moodle.com/solutions/lms/)
         * [Explore Moodle LMSImprove your teaching and student outcomes with our feature-rich LMS platform.](https://moodle.com/solutions/lms/)
         * [Certified IntegrationsExtend your online learning ecosystem with powerful and trusted add-ons.](https://moodle.com/certified-integrations/)
+            * [Become a Certified Integration Partner](https://moodle.com/become-moodle-partner/apply-certified-integration/)
         * [Moodle AppAccess Moodle from anywhere, on any device online and offline.](https://moodle.com/solutions/moodle-app/)
     * [Moodle WorkplaceStreamline training, onboarding, and compliance management while driving learning outcomes that you can measure.](https://moodle.com/solutions/workplace/)
         * [Explore Moodle WorkplaceStreamline employee training with our flexible, end-to-end corporate LMS platform.](https://moodle.com/solutions/workplace/)
@@ -215,9 +217,9 @@ The tables below list the internal and third-party cookies we use. As the names,
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
-    * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)Increasing cybersecurity in companies: Harnessing Intelliboard’s learning analytics and Moodle](https://moodle.com/news/increasing-cybersecurity-in-companies-harnessing-intelliboards-learning-analytics-and-moodle/)
-    * [![Moodle Certified Partner Emprove](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-1-200x150.png)Moodle Certified Partner Emprove expands reach to Costa Rica](https://moodle.com/news/moodle-certified-partner-emprove-expands-to-costa-rica/)
-    * [![Connect. Ignite. Transform. MoodleMoot Global 2024.](https://moodle.com/wp-content/uploads/2024/06/Connect.-Ignite.-Transform-200x150.png)Announcing the provisional agenda for MoodleMoot Global 2024!](https://moodle.com/news/announcing-the-provisional-agenda-for-moodlemoot-global-2024/)
+    * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)MoodleMoot Global 2024 highlights, advice, and insights with Marie Achour](https://moodle.com/news/moodlemoot-global-2024-highlights-and-insights-with-marie-achour/)
+    * [![MoodleMoot Global 2024 early bird registration](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-1-200x150.png)Key tips for networking effectively at MoodleMoot Global 2024](https://moodle.com/news/key-tips-for-networking-effectively-at-moodlemoot-global-2024/)
+    * [![Early bird registrations for MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-200x150.png)Less than two weeks left: Secure your early bird ticket for MoodleMoot Global 2024!](https://moodle.com/news/moodlemoot-global-less-than-two-weeks-left-for-early-bird-registration/)
 
 Empowering educators to improve our world.
 
