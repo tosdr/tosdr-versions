@@ -105,7 +105,7 @@ We implement a variety of security measures when a user enters, submits, or acce
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-In order to request removal of user data, contact [\[email protected\]](https://www.911cellular.com/cdn-cgi/l/email-protection) with a list of the user data you would like have to have removed.
+In order to request removal of user data, contact [support@911cellular.com](mailto:support@911cellular.com) with a list of the user data you would like have to have removed.
 
 ### Do we use cookies?
 
@@ -199,7 +199,7 @@ Solon, OH 44139
 
 United States
 
-[\[email protected\]](https://www.911cellular.com/cdn-cgi/l/email-protection)
+[Support@911Cellular.com](mailto:Support@911Cellular.com)
 
 Last Edited on 12-15-2023
 
@@ -245,7 +245,7 @@ Stay informed on the latest in critical incident management:
 
 [(216) 283-6100](tel:216-283-6100)
 
-[\[email protected\]](https://www.911cellular.com/cdn-cgi/l/email-protection)
+[info@911cellular.com](mailto: info@911cellular.com)
 
 [Privacy policy](https://www.911cellular.com/privacy-policy)
 
