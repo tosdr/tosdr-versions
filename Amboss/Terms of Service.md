@@ -2,7 +2,7 @@
 
 Students
 
-[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)[Student Scores](https://www.amboss.com/us/usmle/scores)[Group Discounts](https://www.amboss.com/us/group-discounts)
+[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)
 
 [USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
 
@@ -10,7 +10,7 @@ Students
 
 [Anki](https://www.amboss.com/us/anki)[Anki meets Qbank](https://www.amboss.com/us/anki/qbank)[Crash Course](https://www.amboss.com/us/anki/crash-course)
 
-[Success Stories](https://www.amboss.com/us/reviews)[AnKing](https://www.amboss.com/us/students/reviews/anking)[Osose](https://www.amboss.com/us/students/reviews/osose)
+[Success Stories](https://www.amboss.com/us/reviews)
 
 Clinicians
 
@@ -32,7 +32,15 @@ Platform
 
 [Free Chrome Extension](https://chromewebstore.google.com/detail/amboss-medical-knowledge/hnlpidgbnmikgkmccephgaljihheckii?hl=en&pli=1)
 
-[Institutions](https://www.amboss.com/us/institutions)[Pricing](https://www.amboss.com/us/pricing)
+Institutions
+
+[Institutional Licenses](https://www.amboss.com/us/institutions)
+
+[Usage Report](https://www.amboss.com/us/institutions/usage-report)
+
+[Step 2 Impact](https://www.amboss.com/us/usmle/scores)
+
+[Pricing](https://www.amboss.com/us/pricing)
 
 [5 days free trial](https://www.amboss.com/us/account/register)[login](https://www.amboss.com/us/account/login)
 
@@ -523,7 +531,7 @@ For this repayment AMBOSS GmbH shall use the same means of payment that the cont
 
 AMBOSS
 
-[For Medical Students](https://www.amboss.com/us/students)[For Clinicians](https://www.amboss.com/us/clinicians)[For Institutions](https://www.amboss.com/us/institutions)[Platform Tour](https://www.amboss.com/us/tour)[Pricing](https://www.amboss.com/us/pricing)
+[For Medical Students](https://www.amboss.com/us/students)[For Clinicians](https://www.amboss.com/us/clinicians)[For Institutions](https://www.amboss.com/us/institutions)[Group Discounts](https://www.amboss.com/us/group-discounts)[Platform Tour](https://www.amboss.com/us/tour)[Pricing](https://www.amboss.com/us/pricing)
 
 Company
 
