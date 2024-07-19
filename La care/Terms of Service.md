@@ -25,8 +25,6 @@ Header Buttons
 * [Member Sign In](https://members.lacare.org/)
 * [Provider Sign in](https://www.lacare.org/providers)
 
-IMPORTANT: Medi-Cal renewals have begun. Your local Medi-Cal office will send you a letter or a renewal form to complete. Complete your renewal by the due date printed on the form. If you don’t, you could lose your Medi-Cal coverage. Go to [benefitscal.com](https://benefitscal.com/) or call the Los Angeles County Department of Public Social Services at [1-866-613-3777](tel:+1-866-613-3777)
-
 Main navigation
 ---------------
 
