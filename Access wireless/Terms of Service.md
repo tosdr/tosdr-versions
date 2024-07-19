@@ -16,7 +16,7 @@
 
 Access Wireless Terms and Conditions and Agreement to Arbitrate Disputes and Judge or Jury Trial Waiver  
 
-**Last Updated:** May 1, 2024  
+**Last Updated:** July 1, 2024  
   
 
 This Agreement governs the provision of the Services by Access Wireless (“Access Wireless” the “Company,” “we,” “us,” or “our”) to you (“your,” “applicant,” “customer,” “subscriber,” “participant,” or “user”) and your use of the Services and Devices. As used in this Agreement, the term: (A) “Services” means voice telephony (“talk”), text messaging (“text”), broadband Internet access services (“data”), and any other services provided to you by Access Wireless, services and devices subject to federal and state Lifeline discounts and Affordable Connectivity Program discounts, and prepaid wireless service; (B) “Device” means any phone, smartphone, accessory, or other device provided or sold to you by Access Wireless or that you activate or use with our Services (note that certain functions are only available when using a voice enabled Device; tablets provided or sold to you by Access Wireless are not voice enabled); and (C) “Underlying Carrier” means the wireless provider whose facilities we use to provide you wireless Services. The complete Agreement between you and Access Wireless consists of:
@@ -486,9 +486,39 @@ You should be aware of two fraudulent practices – Port-Out Fraud and SIM Swap 
 
 Access Wireless has implemented a number of measures to help you protect your account against Port-Out Fraud and SIM Swap Fraud.
 
-**6.2.1. Process for Reporting Fraudulent Number Ports and Fraudulent SIM Changes**
+**6.2.1. Customer Notification of Port-Out and SIM Change Requests**
 
-If you believe that you have been the victim of actual or attempted Port-Out Fraud or SIM Swap Fraud, please contact Access Wireless immediately by calling 866-594-3644 or filling out the Contact Us form, available at [https://www.accesswireless.com/contact-us](https://www.accesswireless.com/contact-us).
+**6.2.1.1. Port-Out Requests**  
+Upon receiving a port-out request, and before effectuating the request, Access Wireless shall provide you immediate notification that a port-out request associated with your account was made, except if the port-out request was made in connection with a legitimate line separation request pursuant to 47 U.S.C. § 345 and Part 64, Subpart II of this chapter, regardless of whether the line separation is technically or operationally feasible.
+
+**6.2.1.2. SIM Change Requests**  
+Upon receiving a SIM change request, and before effectuating the request, Access Wireless shall provide immediate notification you that a SIM change request associated with your account was made, except if the SIM change request was made in connection with a legitimate line separation request pursuant to 47 U.S.C. § 345 and Part 64, Subpart II of this chapter, regardless of whether the line separation is technically or operationally feasible.
+
+**6.2.2. Account Locks to Prevent Porting and SIM Change**
+
+**6.2.2.1. Port Locks**
+
+**6.2.2.1.1. Your Options to Activate and Deactivate Port Locks**  
+You have the option, at no cost, to lock your account to prohibit your number from being ported. Access Wireless shall not fulfill a port-out request until you deactivate the lock on the account, except if the port-out request was made in connection with a legitimate line separation request pursuant to 47 U.S.C. § 345 and Part 64, Subpart II of this chapter, regardless of whether the line separation is technically or operationally feasible.
+
+To request a port lock, or to deactivate a port lock, please contact us by calling 866-594-3644 or filling out the Contact Us form, available at [https://www.accesswireless.com/contact-us](https://www.accesswireless.com/contact-us)
+
+**6.2.2.1.2. Access Wireless’ Right to Activate a Port Lock**  
+Access Wireless may activate a port-out lock on your account when Access Wireless has a reasonable belief that you are at high risk of fraud, and if we do so we will provide your with clear notification that the account lock has been activated with instructions on how you can deactivate the account lock, and promptly comply with the your legitimate request to deactivate the account lock.
+
+**6.2.2.2. SIM Change Locks**
+
+**6.2.2.2.1. Your Options to Activate and Deactivate SIM Change Locks**  
+You have the option, at no cost, to lock your account to prohibit Access Wireless from processing requests to change your SIM. Access Wireless shall not fulfill a SIM change request until the you deactivate the lock on the account, except if the SIM change request was made in connection with a legitimate line separation request pursuant to 47 U.S.C. § 345 and Part 64, Subpart II of this chapter, regardless of whether the line separation is technically or operationally feasible.
+
+To request a SIM change lock, or to deactivate a SIM change lock, please contact us by calling 866-594-3644 or filling out the Contact Us form, available at [https://www.accesswireless.com/contact-us](https://www.accesswireless.com/contact-us)
+
+**6.2.2.2.2. Access Wireless’ Right to Activate a SIM Change**
+
+You may activate a SIM change lock on your account when Access Wireless has a reasonable belief that you are at high risk of fraud, and if we do so we will provide you with clear notification that the account lock has been activated with instructions on how you can deactivate the account lock, and promptly comply with your legitimate request to deactivate the account lock.
+
+**6.2.3. Process for Reporting Fraudulent Number Ports and Fraudulent SIM Changes**  
+If you believe that you have been the victim of actual or attempted Port-Out Fraud or SIM Swap Fraud, please contact Access Wireless immediately by calling 866-594-3644 or filling out the Contact Us form, available at [https://www.accesswireless.com/contact-us](https://www.accesswireless.com/contact-us)
 
 Access Wireless will promptly investigate and take reasonable steps within our control to remediate fraudulent number ports and fraudulent SIM changes.
 
