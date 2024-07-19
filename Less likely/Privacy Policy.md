@@ -1,5 +1,3 @@
-å 
-
 [![](/images/HomeLogo.svg)](https://lesslikely.com/)
 
 * [](https://www.lesslikely.com/)
