@@ -34,13 +34,13 @@
     
     * Inspiratie
     * [Tuininspiratie](https://www.bol.com/nl/nl/sf/tuininspiratie/ "Tuininspiratie")
+    * [Festival inspiratie](https://www.bol.com/nl/nl/sf/festival-inspiratie/ "Festival inspiratie")
     * [Wooninspiratie](https://www.bol.com/nl/nl/sf/wooninspiratie/ "Wooninspiratie")
     * [Boeken inspiratie](https://www.bol.com/nl/nl/sf/lees/ "Boeken inspiratie")
     * [Kinderboeken inspiratie](https://www.bol.com/nl/nl/sf/kinderboeken/ "Kinderboeken inspiratie")
     * [Goede keuze assortiment](https://www.bol.com/nl/nl/sf/goede-keuze-assortiment/ "Goede keuze assortiment")
     * [Smart home](https://www.bol.com/nl/nl/sf/smart-home/ "Smart home")
     * [Thuiswerken](https://www.bol.com/nl/nl/inf/wat-heb-je-nodig-voor-je-thuiswerkplek/52649/ "Thuiswerken")
-    * [Energie besparen](https://www.bol.com/nl/nl/sf/energie-besparen/ "Energie besparen")
     * [Puppywinkel](https://www.bol.com/nl/nl/sf/puppywinkel/ "Puppywinkel")
     * [Kittenwinkel](https://www.bol.com/nl/nl/sf/kittenwinkel/ "Kittenwinkel")
     
@@ -60,32 +60,27 @@
     
     * Aanbiedingen
     * [Alle aanbiedingen](https://www.bol.com/nl/nl/l/aanbiedingen-artikelen/58334/?view=tile "Alle aanbiedingen")
-    * [Topdeals](https://www.bol.com/nl/nl/ra/topdeals/338694 "Topdeals")
+    * [Topdeals](https://www.bol.com/nl/nl/ra/topdeals/348074 "Topdeals")
     * [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/ "Voorraaddeals")
     * [Elektronica acties](https://www.bol.com/nl/nl/cmp/elektronica-acties/1887/ "Elektronica acties")
     * [Woondeals](https://www.bol.com/nl/nl/cmp/woondeals/1912/ "Woondeals")
     * [Outlet](https://www.bol.com/nl/nl/sf/outlet/ "Outlet")
     * [Klus- en Tuinaanbiedingen](https://www.bol.com/nl/nl/cmp/klusentuinaanbiedingen/1935/ "Klus- en Tuinaanbiedingen")
     * [Retourdeals: tot 15% goedkoper \*](https://www.bol.com/nl/nl/sf/retourdeals/ "Retourdeals: tot 15% goedkoper *")
-    * [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/m/speelgoed-aanbiedingen/ "Speelgoed aanbiedingen")
-    * [Film & Muziek Acties](https://www.bol.com/nl/nl/m/games-film-muziek-acties/ "Film & Muziek Acties")
+    * [Speelgoed aanbiedingen](https://www.bol.com/nl/nl/cmp/speelgoeddeals/1889/ "Speelgoed aanbiedingen")
+    * [Film & Muziek Acties](https://www.bol.com/nl/nl/cmp/film-en-muziekdeals/1892/ "Film & Muziek Acties")
     * [Exclusieve Select-Deals](https://www.bol.com/nl/nl/cmp/select-deal/1826/ "Exclusieve Select-Deals")
     * [Gaming deals](https://www.bol.com/nl/nl/cmp/gamingdeals/1906/ "Gaming deals")
     
-    * [Zomer in je bol](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/ "Zomer in je bol")
-    * [Tot 50% korting\* op zonbescherming](https://www.bol.com/nl/nl/ra/hoge-korting-op-zonbescherming/336009 "Tot 50% korting* op zonbescherming")
-    * [Korting\* op zwembaden & hottubs](https://www.bol.com/nl/nl/ra/korting-op-zwembaden-hottubs/336609 "Korting* op zwembaden & hottubs")
-    * [Hoge korting\* op camera's](https://www.bol.com/nl/nl/ra/hoge-korting-op-camera-s-/331093 "Hoge korting* op camera's")
+    * [Sale](https://www.bol.com/nl/nl/cmp/sale-juli/1962/ "Sale")
+    * [Elektronicadeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=3136&sid=3134 "Elektronicadeals")
+    * [Speelgoeddeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=7934 "Speelgoeddeals")
+    * [Woondeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=14035&sid=11764&sid=12001 "Woondeals")
+    * [Mode & sport deals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=46673&sid=47024&sid=16947&sid=21357&sid=14648 "Mode & sport deals")
+    * [Entertainmentdeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=3133&sid=3132&sid=3135&sid=10596&sid=10596 "Entertainmentdeals")
+    * [Beautydeals](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?sid=43228&sid=43228&sid=12442&sid=12541&sid=12542 "Beautydeals")
     
-    * [Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/ "Voorraaddeals")
-    * [Tot 60% korting\* op wasmiddelen & wasverzachters](https://www.bol.com/nl/nl/ra/korting-op-wasmiddel/326592 " Tot 60% korting* op wasmiddelen & wasverzachters")
-    * [Tot 50% korting\* op toiletpapier en tissues](https://www.bol.com/nl/nl/ra/hoge-korting-op-page-en-kleenex/330621 "Tot 50% korting* op toiletpapier en tissues")
-    * [Tot 25% korting\* op koffie](https://www.bol.com/nl/nl/ra/koffie/340334 "Tot 25% korting* op koffie")
-    
-    * [EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/ "EK voetbal")
-    * [Hoge korting\* op televisies](https://www.bol.com/nl/nl/ra/hoge-korting-op-televisies/329802 "Hoge korting* op televisies")
-    * [Oranje feest- en verkleedartikelen](https://www.bol.com/nl/nl/ra/klaar-voor-het-ek-met-oranje-feest-en-verkleedartikelen/332343 "Oranje feest- en verkleedartikelen")
-    * [Hoge korting\* op JBL Bar 300 Pro soundbar](https://www.bol.com/nl/nl/p/jbl-bar-300-pro-soundbar-zwart/9300000112512513/ "Hoge korting* op JBL Bar 300 Pro soundbar")
+    * [Korting op je lijstje? krijg een seintje](https://www.bol.com/nl/nl/sf/slim-shoppen-voordeelseintje/ "Korting op je lijstje? krijg een seintje")
     
     \* op de adviesprijs
     
@@ -97,14 +92,12 @@
 * NL
     
 
-[EK voetbal](https://www.bol.com/nl/nl/cmp/EK-2024/1958/?promo=HEAD_907_Mnav_1_CRS_ekvoetbal_1)[Zomerlezengeschenk](https://www.bol.com/nl/nl/sf/lees/?promo=HEAD_907_Mnav_1_CRS_zomerlezen_2)[Voorraaddeals](https://www.bol.com/nl/nl/cmp/voorraaddeals/1916/?promo=HEAD_907_Mnav_1_CRS_voorraaddeals_3)[Fashion sale](https://www.bol.com/nl/nl/cmp/Presale/1975/?promo=HEAD_907_Mnav_1_CRS_presale_4)[Zomerdeals](https://www.bol.com/nl/nl/cmp/pre-zomer/1970/?promo=HEAD_907_Mnav_1_CRS_prezomer_5)
+[Festival essentials](https://www.bol.com/nl/nl/cmp/Festival-2024/1963/?promo=HEAD_907_Mnav_1_CRS_festival_1)[Klusweken](https://www.bol.com/nl/nl/cmp/klusweken/1966/?promo=HEAD_907_Mnav_1_CRS_klusweken_2)[Sale hardlopers](https://www.bol.com/nl/nl/ra/hardlopers/344106/?promo=HEAD_907_Mnav_1_CRS_salehardlopers_3)[Hitte](https://www.bol.com/nl/nl/sf/hitte/?promo=HEAD_907_Mnav_1_CRS_hitte_4)[Saleop=op](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?promo=HEAD_907_Mnav_1_CRS_sale_5)
 
 Inhoudsopgave
 
 Algemene Voorwaarden Thuiswinkel
 ================================
-
-Deze Algemene Voorwaarden van de Nederlandse Thuiswinkel Organisatie zijn tot stand gekomen in overleg met de Consumentenbond in het kader van de Coördinatiegroep Zelfreguleringsoverleg (CZ) van de Sociaal-Economische Raad en treden in werking per 9 juli 2015.
 
 Inhoudsopgave
 
@@ -342,8 +335,7 @@ Aanvullende dan wel van deze algemene voorwaarden afwijkende bepalingen mogen ni
 Artikel 20 - Wijziging van de algemene voorwaarden Thuiswinkel
 --------------------------------------------------------------
 
-1. De Nederlandse Thuiswinkel Organisatie zal deze algemene voorwaarden niet wijzigen dan in overleg met de Consumentenbond.
-2. Wijzigingen in deze voorwaarden zijn slechts van kracht nadat deze op daartoe geëigende wijze zijn gepubliceerd, met dien verstande, dat bij toepasselijke wijzigingen gedurende de looptijd van een aanbod de voor de consument meest gunstige bepaling zal prevaleren.
+1. Wijzigingen in deze voorwaarden zijn slechts van kracht nadat deze op daartoe geëigende wijze zijn gepubliceerd, met dien verstande, dat bij toepasselijke wijzigingen gedurende de looptijd van een aanbod de voor de consument meest gunstige bepaling zal prevaleren.
 
 Nederlandse Thuiswinkel Organisatie  
 [www.thuiswinkel.org](http://www.thuiswinkel.org/)  
