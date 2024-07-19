@@ -175,4 +175,4 @@ Developers
 
 Flathub
 
-[Switch Language](https://flathub.org/languages)[Terms and Conditions](https://flathub.org/terms-and-conditions)[Privacy Policy](https://flathub.org/privacy-policy)[Statistics](https://flathub.org/statistics)[About](https://flathub.org/about)[Consultants](https://flathub.org/consultants)[Status](https://status.flathub.org/)[Source Code](https://github.com/flathub-infra/website)
+[Setup](https://flathub.org/setup)[Switch Language](https://flathub.org/languages)[Terms and Conditions](https://flathub.org/terms-and-conditions)[Privacy Policy](https://flathub.org/privacy-policy)[Statistics](https://flathub.org/statistics)[About](https://flathub.org/about)[Consultants](https://flathub.org/consultants)[Status](https://status.flathub.org/)[Source Code](https://github.com/flathub-infra/website)
