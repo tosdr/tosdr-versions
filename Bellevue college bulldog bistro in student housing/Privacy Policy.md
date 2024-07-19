@@ -416,6 +416,7 @@ Select language English
 
 * [Privacy policy](https://www.bcfse.com/privacy)
 * [Terms of service](https://www.bcfse.com/terms)
+* Cookie Policy Changes
 
 [Menu](https://www.bcfse.com/menu)
 
