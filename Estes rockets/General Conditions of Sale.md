@@ -27,7 +27,7 @@ Update
 
 Check Out
 
-[FREE SHIPPING ON ORDERS OVER $100!](https://estesrockets.com/discount/FLASHSAVINGS?redirect=%2Fcollections%2Fsale-rockets)
+[D12 Engine Service Bulletin](https://estesrockets.com/pages/d12-engine-service-bulletin)
 
           
 
@@ -84,6 +84,7 @@ Check Out
     
     Engines
     
+    * [All Engines](https://estesrockets.com/collections/engines)
     * Size
         
         Size
@@ -111,26 +112,26 @@ Check Out
         
         Building Supplies
         
-        * [Tools](https://estesrockets.com/collections/tools-supplies)
-        * [Finishing Supplies](https://estesrockets.com/collections/finishing-supplies)
-        * [Body Tubes](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
-        * [Nose Cones](https://estesrockets.com/collections/nose-cones)
-        * [Tube Couplers](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
-        * [Launch Lugs](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
-        * [Engine Mounts](https://estesrockets.com/collections/engine-mounts)
         * [All Parts](https://estesrockets.com/collections/parts)
+        * [Body Tubes](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
+        * [Engine Mounts](https://estesrockets.com/collections/engine-mounts)
+        * [Finishing Supplies](https://estesrockets.com/collections/finishing-supplies)
+        * [Launch Lugs](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
+        * [Nose Cones](https://estesrockets.com/collections/nose-cones)
+        * [Tools](https://estesrockets.com/collections/tools-supplies)
+        * [Tube Couplers](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         
     * Launch Supplies
         
         Launch Supplies
         
-        * [Launch Pads & Rods](https://estesrockets.com/collections/launch-pads-rods)
-        * [Launch Controllers](https://estesrockets.com/collections/launch-controllers)
-        * [Starters](https://estesrockets.com/collections/starters)
-        * [Engine Plugs](https://estesrockets.com/collections/engine-plugs)
-        * [Recovery Wadding](https://estesrockets.com/collections/recovery-wadding)
-        * [Parachutes & Shock Cords](https://estesrockets.com/collections/parachutes-shock-cords)
         * [Boosters](https://estesrockets.com/collections/boosters)
+        * [Engine Plugs](https://estesrockets.com/collections/engine-plugs)
+        * [Launch Controllers](https://estesrockets.com/collections/launch-controllers)
+        * [Launch Pads & Rods](https://estesrockets.com/collections/launch-pads-rods)
+        * [Parachutes & Shock Cords](https://estesrockets.com/collections/parachutes-shock-cords)
+        * [Recovery Wadding](https://estesrockets.com/collections/recovery-wadding)
+        * [Starters](https://estesrockets.com/collections/starters)
         
     
 * [Apparel](https://estesrockets.com/collections/apparel)
@@ -202,6 +203,7 @@ Check Out
     
 * Engines
     
+    * [All Engines](https://estesrockets.com/collections/engines)
     * Size
         
         * [Mini (13 mm)](https://estesrockets.com/collections/mini-13mm)
@@ -221,24 +223,24 @@ Check Out
     
     * Building Supplies
         
-        * [Tools](https://estesrockets.com/collections/tools-supplies)
-        * [Finishing Supplies](https://estesrockets.com/collections/finishing-supplies)
-        * [Body Tubes](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
-        * [Nose Cones](https://estesrockets.com/collections/nose-cones)
-        * [Tube Couplers](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
-        * [Launch Lugs](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
-        * [Engine Mounts](https://estesrockets.com/collections/engine-mounts)
         * [All Parts](https://estesrockets.com/collections/parts)
+        * [Body Tubes](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
+        * [Engine Mounts](https://estesrockets.com/collections/engine-mounts)
+        * [Finishing Supplies](https://estesrockets.com/collections/finishing-supplies)
+        * [Launch Lugs](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
+        * [Nose Cones](https://estesrockets.com/collections/nose-cones)
+        * [Tools](https://estesrockets.com/collections/tools-supplies)
+        * [Tube Couplers](https://estesrockets.com/collections/body-tubes-couplers-launch-lugs)
         
     * Launch Supplies
         
-        * [Launch Pads & Rods](https://estesrockets.com/collections/launch-pads-rods)
-        * [Launch Controllers](https://estesrockets.com/collections/launch-controllers)
-        * [Starters](https://estesrockets.com/collections/starters)
-        * [Engine Plugs](https://estesrockets.com/collections/engine-plugs)
-        * [Recovery Wadding](https://estesrockets.com/collections/recovery-wadding)
-        * [Parachutes & Shock Cords](https://estesrockets.com/collections/parachutes-shock-cords)
         * [Boosters](https://estesrockets.com/collections/boosters)
+        * [Engine Plugs](https://estesrockets.com/collections/engine-plugs)
+        * [Launch Controllers](https://estesrockets.com/collections/launch-controllers)
+        * [Launch Pads & Rods](https://estesrockets.com/collections/launch-pads-rods)
+        * [Parachutes & Shock Cords](https://estesrockets.com/collections/parachutes-shock-cords)
+        * [Recovery Wadding](https://estesrockets.com/collections/recovery-wadding)
+        * [Starters](https://estesrockets.com/collections/starters)
         
     
 * [Apparel](https://estesrockets.com/collections/apparel)
@@ -299,6 +301,8 @@ Unfortunately, we are unable to expedite shipping. Our Model Rocket Engines cont
     [FAQs](https://help.estesrockets.com/hc/en-us/categories/8439472379277-Estes-General)
     
     [Rocket Rewards](https://estesrockets.com/pages/rocket-rewards?_pos=1&_psq=rewards&_ss=e&_v=1.0)
+    
+    [Consumer Bulletin](https://estesrockets.com/pages/d12-engine-service-bulletin)
     
 * ### ESTES INDUSTRIES
     
