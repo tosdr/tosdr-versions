@@ -166,7 +166,7 @@ Adaptavist](https://www.adaptavist.com/)
         
         [code\_2 Icon
         
-        Scripting as a Service](https://www.adaptavist.com/solutions/scripting-as-a-service)
+        Development Services](https://www.adaptavist.com/solutions/development-services)
         
         [Atlassian Cloud Migration](https://www.adaptavist.com/solutions/atlassian-cloud-migration)
         
@@ -207,7 +207,7 @@ Adaptavist](https://www.adaptavist.com/)
         
         [code\_2 Icon
         
-        Scripting as a Service](https://www.adaptavist.com/solutions/scripting-as-a-service)
+        Development Services](https://www.adaptavist.com/solutions/development-services)
         
 3. Productschevron Icon
     * Discover our products
@@ -660,7 +660,7 @@ Adaptavist](https://www.adaptavist.com/)
 
 Company
 
-[About us](https://www.adaptavist.com/company)[Contact us](https://www.adaptavist.com/contact)[Careers](https://www.adaptavist.com/careers)[Partners](https://www.adaptavist.com/partner-programme)[Press](https://www.adaptavist.com/company/press)[Sitemap](https://www.adaptavist.com/sitemap)[Modern Slavery Statement](https://static.adaptavistassets.com/downloads/Adaptavist_MSS_2022.pdf)
+[About us](https://www.adaptavist.com/company)[Contact us](https://www.adaptavist.com/contact)[Careers](https://www.adaptavist.com/careers)[Partners](https://www.adaptavist.com/partner-programme)[Press](https://www.adaptavist.com/company/press)[Sitemap](https://www.adaptavist.com/sitemap)[Modern Slavery Statement](https://static.adaptavistassets.com/downloads/Adaptavist_MSS_2023.pdf)
 
 * ![Atlassian platinum solution partner](https://static.adaptavistassets.com/atlassian-platinum-solution-partner.png)
 * ![Atlassian platinum marketplace partner](https://static.adaptavistassets.com/atlassian-platinum-marketplace-partner.png)
