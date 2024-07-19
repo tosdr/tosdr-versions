@@ -1,12 +1,15 @@
+elsenutrition
+=============
+
 [Skip to content](#MainContent)
 
-[Subscribe & Get 15% OFF your 1st Subscription Order! CODE: SUBSCRIBE15](https://elsenutrition.com/pages/subscribe-and-save)
+Free Shipping On Orders Over $59 📦
 
-  [![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943) ![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943&width=80)](https://elsenutrition.com/)
+  [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
 [shop now](https://elsenutrition.com/collections/all)
 
- [![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943) ![Else Nutrition](//elsenutrition.com/cdn/shop/files/ecom-edit-image-5jvicYrjC4ecom-edit-image-3WBwVJ5TjLdaily_mail_logo.png?v=1712308943&width=80)](https://elsenutrition.com/)
+ [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
 * Shop All
     
@@ -25,9 +28,12 @@
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
+* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
+* [Affiliates](https://elsenutrition.com/pages/affiliates)
 * [Investors](https://investors.elsenutrition.com/)
 
 [Shop Now](https://elsenutrition.com/collections/all)
@@ -65,9 +71,12 @@ Menu
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
+* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
+* [Affiliates](https://elsenutrition.com/pages/affiliates)
 * [Investors](https://investors.elsenutrition.com/)
 * [Log in](https://elsenutrition.com/account/login)
 
@@ -94,9 +103,12 @@ Menu
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
+    * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
     
+* [Reviews](https://elsenutrition.com/pages/reviews)
 * [Rewards Club](https://elsenutrition.com/pages/rewards)
 * [Find Your Store](https://elsenutrition.com/pages/find-a-store)
+* [Affiliates](https://elsenutrition.com/pages/affiliates)
 * [Investors](https://investors.elsenutrition.com/)
 * [Log in](https://elsenutrition.com/account/login)
 
@@ -112,8 +124,6 @@ Already have an account? [Log in](https://elsenutrition.com/account/login) to ch
 
 Loading...
 
-Checkout $0.00 USD
-
 ![](https://cdn.shopify.com/s/files/1/0292/6385/5675/files/Presentation1_f1435f11-119f-4a12-841e-287314a15070.jpg)
 
 ![](https://cdn.shopify.com/s/files/1/0292/6385/5675/files/Frame_14004_2.png?v=1712759161)
@@ -123,12 +133,14 @@ Taxes and [shipping](https://elsenutrition.com/policies/shipping-policy) calcula
 Refund Policy
 =============
 
+**Refund Policy**
+
 **Cancellation, Return and Refund Policy  
 elsenutrition.com**
 
-**Your satisfaction is important to us**. That’s why we, at Else Nutrition US Inc., have established this Cancellation, Return and Refund policy. It explains your right to return Products you’ve purchased from us online at elsenutrition.com. It also explains your rights in case you have believe a product you purchased from us online at elsenutrition.com may be defective. **Please note that this Cancellation, Return and Refund Policy does not apply to gift cards which at this stage are non-refundable, or to purchases made via the 'Buy with prime' option.** Purchases made via the 'Buy with prime' option shall be subject to Amazon's policies and terms and conditions. See the [link here](https://www.amazon.com/b?node=23865204011) for more information.
+Your satisfaction is important to us. That’s why we, at Else Nutrition USA Inc., have established this Cancellation, Return and Refund policy. It explains your right to return Products you’ve purchased from us online at elsenutrition.com. It also explains your rights in case you believe a product you purchased from us online at elsenutrition.com may be defective. **Please note that this Cancellation, Return and Refund Policy does not apply to gift cards which at this stage are non-refundable.**
 
-The terms of this Cancellation, Return and Refund Policy are subject to our Terms of Service located at [https://elsenutrition.com/policies/terms-of-service](https://elsenutrition.com/policies/terms-of-service%22%20%5Ct%20%22_blank) . Capitalized terms not defined in this policy have the meaning ascribed to them in the Terms of Service.
+The terms of this Cancellation, Return and Refund Policy are subject to our Terms of Service located at [https://elsenutrition.com/policies/terms-of-service](https://elsenutrition.com/policies/terms-of-service) . Capitalized terms not defined in this policy have the meaning ascribed to them in the Terms of Service.
 
 **Refunds Owing to Non-Delivery** 
 
@@ -138,33 +150,49 @@ We retain the right to refuse to send to addresses which have previously elicite
 
 **Returns owing to dissatisfaction.** 
 
-**If for any reason, you are not satisfied with your order, you may return it for a refund**, under the following terms:
+If for any reason, you are not satisfied with your order, you may return it for a refund, under the following terms:
 
-1. The Products that you purchased were not designated as non-returnable at the time of purchase.
-2. You contact us to request a refund within thirty (30) days after you received your order, by email to info@elsenutrition.com explaining your dissatisfaction. We will respond with an email request seeking further information from you, which you shall provide in an email response.
-3. If you wish to return only one Product owing to dissatisfaction, there is no need to ship the Product to us. If you wish to return more than one of the same Products owing to dissatisfaction, we will request that you return all the unopened Products, as explained below and in the email instructions we will send you.
-4. You will be responsible for paying the shipping fees to return the unopened Products to us.
-5. Your refund will be credited back to the same payment method used to make the purchase, excluding Shipping and Handling charges.
-6. You may benefit from this arrangement only once for any and all orders you place online at elsenutrition.com. Any further return requests owing to dissatisfaction of the same Product are subject to return and refund in our sole discretion, on a case-by-case basis.
-7. The refund will constitute Else’s sole obligation to you with respect to your dissatisfaction with the Products. You agree that any other claims are waived.
+1.       The Products that you purchased were not designated as non-returnable at the time of purchase.
+
+2.      You contact us to request a refund within thirty (30) days after you received your order, by email to info@elsenutrition.com explaining your dissatisfaction. We will respond with an email request seeking further information from you, including the numbers located either on the bottom of the can or at the lower back part of the pouch (or the numbers located on the top of the tetra for ready-to-drink products (RTDs), depending on the product's packaging. You must provide this information, along with any other details requested by us, in your response email, as it is essential for the completion of your refund request process..
+
+3.      If you wish to return only one Product (excluding RTD shakes) owing to dissatisfaction, there is no need to ship the Product to us. If you wish to return more than one of the same Products owing to dissatisfaction, we will request that you return all the unopened Products, as explained below and in the email instructions we will send you. If you are not satisfied with your purchase of our Ready-to-Drink (RTD) shakes, we do not require you to return the product.
+
+4.      You will be responsible for paying the shipping fees to return the unopened Products (excluding RTD shakes) to us.
+
+5.      Your refund will be credited back to the same payment method used to make the purchase, excluding Shipping and Handling charges.
+
+6.      You may benefit from this arrangement only once for any and all orders you place online at elsenutrition.com. Any further return requests owing to dissatisfaction of the same Product are subject to return and refund in our sole discretion, on a case-by-case basis.
+
+7.      The refund will constitute Else’s sole obligation to you with respect to your dissatisfaction with the Products. You agree that any other claims are waived.
 
 **Returns of defective, non-conforming or expired Product(s)**. 
 
 If you believe one or more Products delivered to you were damaged or spoiled, contain a foreign object, or were delivered to you after the expiration date printed on the Product(s), please contact us for a replacement or refund, subject to the following terms:
 
-1. You must contact us to report the issue within thirty (30) days after you received your order, by email to info@elsenutrition.com explaining the issue in detail. We will respond with an email request seeking further information from you, which you shall provide in an email response.
-2. You will be requested to return all defective, expired, or spoiled Products(opened or unopened) to Else in accordance with the email instructions we will send you. We will provide a shipping label to cover the costs of shipping the Product(s) back to us.
-3. Once we receive the Product(s), we will refund to you the purchase price of the defective, expired, or spoiled Product(s) returned to us, excluding Shipping and Handling charges and Taxes, through the same payment method used to make the purchase. Alternatively, if you inform us in your email that you prefer a replacement, we will ship the replacement Product(s) to you.
-4. The refund or replacement will constitute Else’s sole obligation to you with respect to the damaged, defective, or expired Products. You agree that any other claims are waived.
-5. Do not donate any defective, expired, or spoiled Products(s). Please return them to us as explained above.
+1.       You must contact us to report the issue within thirty (30) days after you received your order, by email to info@elsenutrition.com explaining the issue in detail. We will respond with an email request seeking further information from you, including the numbers located either on the bottom of the can or at the lower back part of the pouch (or the numbers located on the top of the tetra for ready-to-drink products (RTDs), depending on the product's packaging. You must provide this information, along with any other details requested by us, in your response email, as it is essential for the completion of your refund request process.
+
+2.      You will be requested to return all defective, expired, or spoiled Products (excluding RTD shakes) (opened or unopened) to Else in accordance with the email instructions we will send you. For issues related to the quality of RTD shakes, the decision to return the product will be made by us on a case-by-case basis. We will provide a shipping label to cover the costs of shipping the Product(s) back to us.
+
+3.      Once we receive the Product(s), we will refund to you the purchase price of the defective, expired, or spoiled Product(s) returned to us, excluding Shipping and Handling charges and Taxes, through the same payment method used to make the purchase. Alternatively, if you inform us in your email that you prefer a replacement, we will ship the replacement Product(s) to you.
+
+4.      If a return is necessary for an RTD shake, we will cover all shipping costs for both opened and unopened products. We will provide a shipping label to cover the costs of shipping the Product(s) back to us..  
+
+5.      The refund or replacement will constitute Else’s sole obligation to you with respect to the damaged, defective, or expired Products. You agree that any other claims are waived.
+
+6.      Do not donate any defective, expired, or spoiled Products(s). Please return them to us as explained above.
 
 **Returns Further to an Adverse Effect after Consuming the Product (e.g., Allergic Reaction)**
 
-1. You must contact us to report the issue within thirty (30) days after you received your order, by email to info@elsenutrition.com explaining the issue in detail. We will respond with an email request seeking further information from you, which you shall provide in an email response.
-2. You will be requested to return to Else all Product(s)(opened or unopened) from this order in accordance with the email instructions we will send you. We will provide a shipping label to cover the costs of shipping the Product(s) back to us.
-3. Once we receive the Product(s), we will refund you for the purchase price of products returned to us, excluding Shipping and Handling charges, through the same payment method used to make the purchase. Alternatively, if you inform us in your email that you prefer a replacement, we will ship the replacement Product(s) to you.
-4. The refund or replacement will constitute Else’s sole obligation to you with respect to the damaged, defective, or expired Products. You agree that any other claims are waived.
-5. Do not donate any defective, expired, or spoiled Products(s). Please return them to us as explained above.
+1.       You must contact us to report the issue within thirty (30) days after you received your order, by email to info@elsenutrition.com explaining the issue in detail. We will respond with an email request seeking further information from you, including the numbers located either on the bottom of the can or at the lower back part of the pouch (or the numbers located on the top of the tetra for ready-to-drink products (RTDs)), depending on the product's packaging. You must provide this information, along with any other details requested by us, in your response email, as it is essential for the completion of your refund request process.
+
+2.      You will be requested to return to Else all Product(s)(opened or unopened and for both RTD Shakes and other Products) from this order in accordance with the email instructions we will send you. We will provide a shipping label to cover the costs of shipping the Product(s) back to us.
+
+3.      Once we receive the Product(s), we will refund you for the purchase price of products returned to us, excluding Shipping and Handling charges, through the same payment method used to make the purchase. Alternatively, if you inform us in your email that you prefer a replacement, we will ship the replacement Product(s) to you.
+
+4.      The refund or replacement will constitute Else’s sole obligation to you with respect to the damaged, defective, or expired Products. You agree that any other claims are waived.
+
+5.      Do not donate any defective, expired, or spoiled Products(s). Please return them to us as explained above.
 
 **Subscription Cancellations**. 
 
@@ -179,12 +207,9 @@ Notwithstanding any provisions outlined this Refund Policy, products specificall
 
 Please review product descriptions carefully and take note of any "Final Sale" designations before making a purchase. By completing a transaction for an "Final Sale" product, you acknowledge and agree to these specific terms and conditions.
 
-  
-For any questions, inquiries, or customer service requests, please contact us by  
-email at [info@elsenutrition.com](mailto:info@elsenutrition.com).
+For any questions, inquiries, or customer service requests, please contact us by email at [info@elsenutrition.com](mailto:info@elsenutrition.com).  
 
-  
-Last Updated: July 18, 2023.
+Last Updated: July 11, 2024.
 
 Subscribe to get the latest offers and Else news.
 
@@ -217,6 +242,7 @@ Shop Now
 
 Else World
 
+* [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
 * [Blog](https://elsenutrition.com/blogs/news)
 * [Recipes](https://elsenutrition.com/blogs/else-recipes)
 * [Our Story](https://elsenutrition.com/pages/our-story)
