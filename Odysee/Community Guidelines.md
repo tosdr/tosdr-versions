@@ -49,6 +49,7 @@ Search
 * [Copyright Policy](https://help.odysee.tv/copyright/)
 * [Community Guidelines](https://help.odysee.tv/communityguidelines/)
 * [Assets](https://help.odysee.tv/assets/)
+* [Unexpected errors](https://help.odysee.tv/unexpected-errors/)
 * [Payments Chart](https://help.odysee.tv/payments-chart/)
 
 * [](https://help.odysee.tv/)
