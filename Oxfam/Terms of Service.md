@@ -96,6 +96,8 @@ The use of this site is provided by Oxfam International subject to the following
      
 11. If these Terms and Conditions are not accepted in full, the use of the website must be terminated immediately.
 
+Share this page
+
 [social-facebook Facebook](https://facebook.com/sharer/sharer.php?u=https://www.oxfam.org/node/57)
 
 [social-twitter Twitter](https://twitter.com/intent/tweet/?text=Terms%20and%20Conditions%20of%20Use%20via%20@Oxfam&url=https://www.oxfam.org/node/57)
