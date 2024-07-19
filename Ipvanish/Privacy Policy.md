@@ -24,7 +24,7 @@ Privacy Policy for IPVanish Site & Services
 
 ### This Privacy Policy was last updated on June 21, 2024
 
-[Dutch](https://www.ipvanish.com/nl/privacy-policy/), [French](https://www.ipvanish.com/privacy-policy/), [German](https://www.ipvanish.com/de/privacy-policy/), [Portuguese](https://www.ipvanish.com/pt/privacy-policy/), [Spanish](https://www.ipvanish.com/es/privacy-policy/)
+[Dutch](https://www.ipvanish.com/privacy-policy/), [French](https://www.ipvanish.com/privacy-policy/), [German](https://www.ipvanish.com/de/privacy-policy/), [Portuguese](https://www.ipvanish.com/pt/privacy-policy/), [Spanish](https://www.ipvanish.com/privacy-policy/)
 
 We believe everyone has the right to digital privacy. Along with digital privacy, consumers also have the right to transparency. Because you are entrusting us with your data, we believe it is even more important that we are transparent with you regarding **what** information we collect, **how** it is collected, from **where** it is collected, and **why** it is necessary to collect. We wrote this privacy policy with you in mind, attempting our best to provide a comprehensive yet easy to understand document.
 
