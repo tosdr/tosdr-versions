@@ -1,6 +1,4 @@
-[![KidRated.com is listed by the kidSAFE Seal Program.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![KidRated.com is listed by the kidSAFE Seal Program.](https://www.kidsafeseal.com/sealimage/2023533681629644689/kidrated_small_darktm.png)](https://www.kidsafeseal.com/certifiedproducts/kidrated.html)
+[![KidRated.com is listed by the kidSAFE Seal Program.](https://www.kidsafeseal.com/sealimage/2023533681629644689/kidrated_small_darktm.png)](https://www.kidsafeseal.com/certifiedproducts/kidrated.html)
 
 [![](https://www.kidrated.com/kidrated/wp-content/themes/kidrated/img/search.svg)](https://www.kidrated.com/?s=&location= "Search")
 
