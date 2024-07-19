@@ -1,6 +1,6 @@
 [![Mailbird - We strive to make your email experience fly](/assets/imgs/logos/header-mailbird-white.svg)](https://www.getmailbird.com/ "Mailbird")
 
-[Mailbird is now free](https://goto.getmailbird.com/pf)
+[Mailbird is now free](https://www.getmailbird.com/pricing/)
 
 * [Pricing](https://www.getmailbird.com/pricing/)
 * [Features](https://www.getmailbird.com/features/)
@@ -119,7 +119,7 @@ Company
 Support
 
 * [License Key Retrieval](https://www.getmailbird.com/license-retrieval/)
-* [Become a Mailbird tester](https://www.getmailbird.com/alpha-testers/)
+* [Become a Mailbird early adopter](https://www.getmailbird.com/alpha-testers/)
 * [Unsubscribe from Newsletter](https://www.getmailbird.com/to-unsubscribe/)
 * [Support](https://support.getmailbird.com/)
 
