@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [NEW Summer Collection is Here](https://www.bows-n-ties.com/New-Arrivals/?order=product_sale.sale_nbr.desc)
+### [NEW Collections are in - SHOP HERE](https://www.bows-n-ties.com/neckties/?order=product.date_add.desc)
 
 __
 
