@@ -37,7 +37,7 @@
             * [Diploma Services](https://www.parchment.com/platform/higher-education/diploma-services/)
             * [Digital Badge Services](https://www.parchment.com/platform/higher-education/issuing/#digital-badges)
             * [Certificate Services](https://www.parchment.com/platform/higher-education/certificate-services/)
-            * [CLR Services](https://www.parchment.com/platform/higher-education/issuing/#clrs)
+            * [CLR Services](https://www.parchment.com/platform/higher-education/clr-services/)
             * [Verification Services](https://www.parchment.com/platform/higher-education/issuing/#verifications)
             * [Closed School Records Services](https://www.parchment.com/platform/higher-education/issuing/#closed-school-records)
             * [Records Digitization](https://www.parchment.com/platform/higher-education/issuing/#records-digitization)
@@ -104,7 +104,7 @@
     *  ![icon](https://www.parchment.com/wp-content/uploads/2023/01/platform6.svg) International
         * [Issuing
             
-            Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/digitary/core/)
+            Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/)
             * [CORE](https://www.parchment.com/platform/international/digitary/core/)
             * [Digital Badges](https://www.parchment.com/platform/international/digitary/digital-badges/)
         * [Admissions & Enrollment
@@ -136,9 +136,9 @@
         
         [Events & Webinars
         
-        ![2024-InstructureCon-LasVegas](https://www.parchment.com/wp-content/uploads/2024/05/2024-InstructureCon-LasVegas-320x180.jpg)
+        ![WaACRAO-2024](https://www.parchment.com/wp-content/uploads/2024/07/WaACRAO-2024-320x192.jpg)
         
-        InstructureCon 2024](https://www.parchment.com/resources/events-webinars/)
+        2024 WACRAO Conference](https://www.parchment.com/resources/events-webinars/)
         
     *  [![Chat icon](https://www.parchment.com/wp-content/uploads/2023/04/resources3.svg) Podcast](https://www.parchment.com/resources/podcast/)
         
@@ -385,7 +385,7 @@ Higher Education
 * [Diploma Services](https://www.parchment.com/platform/higher-education/diploma-services/)
 * [Digital Badge Services](https://www.parchment.com/platform/higher-education/issuing/#digital-badges)
 * [Certificate Services](https://www.parchment.com/platform/higher-education/certificate-services/)
-* [CLR Services](https://www.parchment.com/platform/higher-education/issuing/#clrs)
+* [CLR Services](https://www.parchment.com/platform/higher-education/clr-services/)
 * [Verification Services](https://www.parchment.com/platform/higher-education/issuing/#verifications)
 * [Closed School Records Services](https://www.parchment.com/platform/higher-education/issuing/#closed-school-records)
 * [Records Digitization](https://www.parchment.com/platform/higher-education/issuing/#records-digitization)
@@ -484,7 +484,7 @@ Platform
     * [Industries](https://www.parchment.com/platform/workforce/industries/)
 * [Power of the Network](https://www.parchment.com/platform/power-of-the-network/)
 * [ ]  International
-    * [Issuing](https://www.parchment.com/platform/international/digitary/core/)
+    * [Issuing](https://www.parchment.com/platform/international/)
     * [Admissions & Enrollment](https://www.parchment.com/platform/international/digitary/receive/)
     * [Verifications](https://www.parchment.com/platform/international/digitary/via/)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
