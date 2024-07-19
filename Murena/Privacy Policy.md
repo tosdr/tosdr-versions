@@ -1,9 +1,3 @@
-![Notification Image](https://murena.com/wp-content/uploads/2024/06/Notification-image.png)
-
-Own a part of Murena !
-
-[Learn More](https://murena.com/fundraising/)
-
  [![Murena wordmark](https://murena.com/wp-content/themes/wp-theme-esolutions/img/murena-logo.svg) ![Murena wordmark](https://murena.com/wp-content/themes/wp-theme-esolutions/img/murena-favicon.svg)](https://murena.com/)
 
 * [Smartphones](https://murena.com/smartphones/)
@@ -34,7 +28,7 @@ murena.com Privacy Policy
 
 As our project focuses on respecting user data, we know that privacy is extremely important to you. We do not share any individual information with anybody.
 
-About this Website
+**About this Website**
 
 The source code of the website can be found  
 at [https://github.com/WordPress/WordPress](https://github.com/WordPress/WordPress). It is licensed under the GPL v2 license.
@@ -66,6 +60,10 @@ We use Stripe, PayPal and Bitpay to process payments on this website.
 
 Your personal information is contained behind secured networks at our partners and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
+**How do we use data for Google account migration?**
+
+During migration, Murena Workspace will access the data of the following apps: Drive, Photos, Contacts and Calendar. These data are imported into Murena Workspace to make migration easier and will be accessible, writable, removable at any time and only by yourself from your Murena Workspace account.
+
 For more information regarding the privacy policies of the following services:
 
 * /e/OS and apps
@@ -75,6 +73,17 @@ For more information regarding the privacy policies of the following services:
 
 please visit  
 [https://e.foundation/](https://e.foundation/)
+
+Murena Workspace’s policy
+-------------------------
+
+Our software does not send any of your user personal data to us.
+
+We use [NextCloud](http://www.nextcloud.com/), [OnlyOffice](https://www.onlyoffice.com/), and [Postfix](http://www.postfix.org/) to provide our cloud services.
+
+The following default apps mail/drive/gallery/calendar/files/tasks are linked to your e.email account and communicate seamlessly with your “own” /e/ server (through our partner Nextcloud). While these apps handle your personal mail, calendar and files, they do not send any personal data to us.
+
+All data on your “own” /e/ server is encrypted and never shared, sold or traded to any third party. We will only disclose the limited user data we possess if legally obliged to do so.
 
 Privacy Policy Changes
 ----------------------
