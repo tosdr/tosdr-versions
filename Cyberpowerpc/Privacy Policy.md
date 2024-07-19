@@ -216,6 +216,8 @@ Keyboards
 
 [CK Series](https://www.cyberpowerpc.com/page/gaming-keyboards/ck60-mechanical-gaming-keyboard/)
 
+[Demon Slayer Keycap](https://www.cyberpowerpc.com/page/gaming-keyboards/demon-slayer-3d-keycap-set/)
+
 Support Home Page
 
 [Support Home Page](https://support.cyberpowerpc.com/hc/en-us)
@@ -413,6 +415,8 @@ EZPC: Builder Tool
 Keyboards
 
 [CK Series](https://www.cyberpowerpc.com/page/gaming-keyboards/ck60-mechanical-gaming-keyboard/)
+
+[Demon Slayer Keycap](https://www.cyberpowerpc.com/page/gaming-keyboards/demon-slayer-3d-keycap-set/)
 
 Search
 
