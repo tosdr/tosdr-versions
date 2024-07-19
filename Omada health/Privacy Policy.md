@@ -171,8 +171,6 @@ TABLE OF CONTENTS:
 **­**
 -----
 
-**\*Note:** _For members enrolling on or after March 26, 2024, this Privacy Policy will be effective immediately. For all other members, these terms will take effect on April 1, 2024._
-
 Privacy Policy
 --------------
 
@@ -464,8 +462,6 @@ Effective Date:  April 1, 2024
 2\. Physical therapists who supply health care services to Omada for Joint & Muscle Health use a specific, web-based application to provide those services. If you are a physical therapist supplying health care services as part of Omada for Joint & Muscle Health, these Terms do not apply to you in that capacity.
 
 * * *
-
-**Aviso:** _Para los miembros que se inscriban a partir del 26 de marzo de 2024, esta Política de privacidad entrarán en vigencia de inmediato. Para todos los demás miembros, estos términos entrarán en vigor el 1 de abril de 2024._
 
 Política de privacidad
 ----------------------
