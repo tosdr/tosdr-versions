@@ -129,7 +129,7 @@ Freelancers Get Paid in Less Than 5 Seconds with Sentz
 * Receive your payments in eUSD.
 * Low transaction fees.
 * Send invoices in seconds.
-* Withdraw as USDT or USDC – bank withdrawals are coming soon to Nigeria!
+* Withdraw to your bank account or as USDT or USDC.\*
 
 [Learn More](https://mobilecoin.com/freelancers)
 
