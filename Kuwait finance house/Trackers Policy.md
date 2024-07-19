@@ -42,13 +42,11 @@ Personal Banking
 
 ### _![](/dam/jcr:88a3c0a8-4585-408b-a003-9b56a3b55993/menu-icon4.png)_ [Financing](https://www.kfh.com/en/home/Personal/Financing.html)
 
+### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
+
 ### _![](/dam/jcr:905bf91f-53ad-47b9-adcf-41588b6fae68/new%20card%20pic%20icon.png)_ [Cards](https://www.kfh.com/en/home/Personal/Cards.html)
 
-### _![](/dam/jcr:f97da4b6-0e13-423e-a674-0505f4689cd2/exclusive-privilege.png)_ [About Us](https://www.kfh.com/en/home/Personal/aboutus.html)
-
 ### _![](/dam/jcr:7c92f0e2-3742-40aa-86d3-f5ae72ee9dad/after-sale-services-icon.png)_ [After Sales Services](https://www.kfh.com/en/home/Personal/After-Sale-Services.html)
-
-### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
 
 Private Banking
 
@@ -158,12 +156,16 @@ KFH (formerly AUB)
 
 * [Installment Finance](https://www.kfh.com/en/home/Personal/Financing/Installment-Financing.html)
 * [Consumer Finance](https://www.kfh.com/en/home/Personal/Financing/Consumer-Financing.html)
-* [Auto Financing](https://www.kfh.com/en/home/Personal/Financing/Auto-Financing.html)
 * [Rescheduling for New financing & Repayment](https://www.kfh.com/en/home/Personal/Financing/Rescheduling-for-New-lending-Repayment.html)
 * [Online Financing "FAQs"](https://www.kfh.com/en/home/Personal/Financing/Tawarouq-FAQ.html)
 * [Q&A ON TAWARRUQ](https://www.kfh.com/en/home/Personal/Financing/Tawarouq-Q-A.html)
 * [Other Services](https://www.kfh.com/en/home/Personal/Financing/Other-Services.html)
 * [With KFH your finance is easier](https://www.kfh.com/en/home/Personal/Financing/Easy_Finance.html)
+
+### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
+
+* [Investment Deposits](https://www.kfh.com/en/home/Personal/Investments/Short-Term.html)
+* [Long Term Investment Plans](https://www.kfh.com/en/home/Personal/Investments/Long-Term-Investment-Plans.html)
 
 ### _![](/dam/jcr:905bf91f-53ad-47b9-adcf-41588b6fae68/new%20card%20pic%20icon.png)_ [Cards](https://www.kfh.com/en/home/Personal/Cards.html)
 
@@ -174,25 +176,11 @@ KFH (formerly AUB)
 * [KFH Travel Tips](https://www.kfh.com/en/home/Personal/Cards/Travel-Tips.html)
 * [Baitak Rewards](https://www.kfh.com/en/home/Personal/Cards/Baitak-Rewards.html)
 
-### _![](/dam/jcr:f97da4b6-0e13-423e-a674-0505f4689cd2/exclusive-privilege.png)_ [About Us](https://www.kfh.com/en/home/Personal/aboutus.html)
-
-* [The Story](https://www.kfh.com/en/home/Personal/aboutus/story.html)
-* [Vision & Mission](https://www.kfh.com/en/home/Personal/aboutus/Vision-Mission.html)
-* [Islamic Banking Services](https://www.kfh.com/en/home/Personal/aboutus/islamic-banking.html)
-* [Global Integrated Banking Operations](https://www.kfh.com/en/home/Personal/aboutus/global-integrated.html)
-* [Investor Relations](https://www.kfh.com/en/home/Personal/aboutus/Investor-Relations.html)
-* [Board of Directors & Management](https://www.kfh.com/en/home/Personal/aboutus/Islamic-Banking-Pioneers.html)
-
 ### _![](/dam/jcr:7c92f0e2-3742-40aa-86d3-f5ae72ee9dad/after-sale-services-icon.png)_ [After Sales Services](https://www.kfh.com/en/home/Personal/After-Sale-Services.html)
 
 * [After Sales Services - Certification](https://www.kfh.com/en/home/Personal/After-Sale-Services/After-Sales-Services---Certification.html)
 * [After Sales Services - Financing Services](https://www.kfh.com/en/home/Personal/After-Sale-Services/After-Sales-Services---Financing-Services.html)
 * [After Sales Services - Banking Cards](https://www.kfh.com/en/home/Personal/After-Sale-Services/After-Sales-Services---Banking-Cards.html)
-
-### _![](/dam/jcr:7b0767f0-8c43-492d-8cb8-c39388f61df9/menu-icon6.png)_ [Investment](https://www.kfh.com/en/home/Personal/Investments.html)
-
-* [Investment Deposits](https://www.kfh.com/en/home/Personal/Investments/Short-Term.html)
-* [Long Term Investment Plans](https://www.kfh.com/en/home/Personal/Investments/Long-Term-Investment-Plans.html)
 
 [![...](/dam/jcr:7ef964dc-a9f2-460f-a9d2-2b5ed1af9141/outline-envelope.png)CONTACT US](https://www.kfh.com/en/home/Personal/Ways-to-bank/contact.html) [![...](/dam/jcr:60f09d4f-0cdf-4f39-ae8c-b9d931385f55/location.png)BRANCH & ATM LOCATOR](https://www.kfh.com/en/home/Personal/Ways-to-bank/Branches_Map.html)
 
@@ -220,7 +208,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DsBGx8476a26_nGP2TWIdwNA9EN-JalF5K3mOlvSlsTVu3KisYItc!-1814423166 "Listen to this page using ReadSpeaker")
     
 
 Cookie Notice
