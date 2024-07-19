@@ -1,4 +1,4 @@
-[Celebrate The Class of 2024](https://www.bobswatches.com/gift-guide/graduation-1.html)
+[Shop New Arrivals](https://www.bobswatches.com/new-arrivals)
 
 100% Certified Authentic
 
@@ -105,7 +105,7 @@ Close Menu
 * Men's Watches
     * [Rolex Watches for Men](https://www.bobswatches.com/rolex/watches-mens)
     * [OMEGA Watches for Men](https://www.bobswatches.com/omega/mens)
-* Womens's Watches
+* Women's Watches
     * [Rolex Watches for Women](https://www.bobswatches.com/rolex/watches-womens)
     * [OMEGA Watches for Women](https://www.bobswatches.com/omega/womens)
 * [Accessories](https://www.bobswatches.com/accessories/)
@@ -345,11 +345,17 @@ INTERNATIONAL BUYERS
 
 Notice: All international buyers assume any and all responsibility for all applicable VAT, taxes, duties, tariffs or customs due. It is the buyer's responsibility for shipping in the event of a customs issue or return.
 
+Terms and Conditions for $5,000 Store Credit giveaway:
+
+This giveaway is sponsored by Bob's Watches, located in Newport Beach, CA. This giveaway is open to residents of the United States of America who are 18 years old or older. By participating, the contestant ("You") agrees to be fully and unconditionally bound by these rules, and You represent and warrant that You meet the eligibility requirements. You agree to accept the decisions of Bob's Watches as final and binding as they relate to the content of this giveaway. Entries will be accepted online starting on July 15, 2024, and ending on September 30, 2024. All online entries must be received by the end of September 30, 2024, at 10 AM PT.
+
+The winner will be selected by Bob's Watches. The winner will be notified by email within 3 days following the selection. Bob's Watches shall have no liability for the winner's failure to receive notices due to spam, junk email, or other security settings, or for the winner's provision of incorrect or otherwise non-functioning contact information. If the winner cannot be contacted, is ineligible, or fails to claim the prize by the offer expiration date, November 2, 2024, at 3 PM PT, the prize may be forfeited. The prize cannot be combined with any other code, offer, promotion, or discount. No cash value. Taxes, shipping, and handling fees are excluded from any discount. Bob's Watches reserves the right to modify or cancel this giveaway at any time without notice. Void where prohibited by law. The giveaway winner's prize will expire on November 2, 2024, at 3 PM PT. The giveaway winner will receive a one-time store credit of $5,000 to be used towards a single purchase; the offer is valid for one-time use only, and any remaining balance after the purchase will be forfeited, with no future use allowed. Any violation of these official rules by the winner (at Bob's Watches' sole discretion) will result in the winner's disqualification from the giveaway, and all privileges as the winner will be immediately terminated.
+
 Contacting us
 
 If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may do so via the [contact form](https://www.bobswatches.com/contact-us "Contact Bob's Watches").
 
-This document was last updated on June 29, 2021
+This document was last updated on July 15, 2024
 
 * [Bob's](https://www.bobswatches.com/)
 * Terms and Conditions
@@ -429,7 +435,5 @@ Our team is ready to assist with all of your watch needs.
 [Email Our Team](https://www.bobswatches.com/contact-us)
 
 Chat Now
-
-![facebook pixel](https://www.facebook.com/tr?id=3018189845106121&ev=PageView&noscript=1)
 
 ![](https://px.ads.linkedin.com/collect/?pid=418828&fmt=gif)
