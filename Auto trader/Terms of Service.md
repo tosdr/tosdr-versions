@@ -217,7 +217,6 @@ Auto Trader Logo
     
 * ### addBuying advice
     
-    * [Owner reviews](https://www.autotrader.co.uk/owner-reviews)
     * [Buying & selling guides](https://www.autotrader.co.uk/content/advice)
     * [Retailer awards](https://www.autotrader.co.uk/retailer-awards)
     * [New car awards](https://www.autotrader.co.uk/cars/new/awards)
