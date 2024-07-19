@@ -1,4 +1,4 @@
- [![Airship](https://www.airship.com/wp-content/uploads/2023/06/Airship_pride_2023-new-2.svg) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
+ [![Airship](https://www.airship.com/wp-content/uploads/2024/07/Airship-logo-navigation.png) ![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
 
 * Product
     
@@ -61,16 +61,16 @@
 * Solutions
     
     * [Lifecycle](https://www.airship.com/solutions/lifecycle/)
-    * [Welcome Series](https://www.airship.com/solutions/lifecycle/acquire/welcome-series/)
-    * [Onboarding](https://www.airship.com/solutions/lifecycle/acquire/onboarding/)
-    * [Cross-Channel Acquisition](https://www.airship.com/solutions/lifecycle/acquire/cross-channel-acquisition/)
-    * [Loyalty](https://www.airship.com/solutions/lifecycle/retain/loyalty/)
+    * [Welcome Series](https://www.airship.com/solutions/welcome-series/)
+    * [Onboarding](https://www.airship.com/solutions/onboarding/)
+    * [Cross-Channel Acquisition](https://www.airship.com/solutions/cross-channel-acquisition/)
+    * [Loyalty](https://www.airship.com/solutions/loyalty/)
     
-    * [Churn Prevention](https://www.airship.com/solutions/lifecycle/retain/churn-prevention/)
-    * [Win Back](https://www.airship.com/solutions/lifecycle/retain/win-back/)
-    * [Upsell / Cross Sell](https://www.airship.com/solutions/lifecycle/grow/upsell-cross-sell/)
-    * [Retargeting](https://www.airship.com/solutions/lifecycle/grow/retargeting/)
-    * [Abandoned Cart](https://www.airship.com/solutions/lifecycle/grow/abandoned-cart/)
+    * [Churn Prevention](https://www.airship.com/solutions/churn-prevention/)
+    * [Win Back](https://www.airship.com/solutions/win-back/)
+    * [Upsell / Cross Sell](https://www.airship.com/solutions/upsell-cross-sell/)
+    * [Retargeting](https://www.airship.com/solutions/retargeting/)
+    * [Abandoned Cart](https://www.airship.com/solutions/abandoned-cart/)
     
     * [Industries](https://www.airship.com/solutions/industries/)
     * [Airlines](https://www.airship.com/solutions/industries/airlines/)
@@ -612,9 +612,7 @@ _Targeting Cookies_
 * [What are iOS Live Activities?](https://www.airship.com/resources/explainer/ios-live-activities-explained/)
 
 * [Platform](#)
-* [App Experience Platform](https://www.airship.com/)
-* [Inside the App](https://www.airship.com/#inside-the-app)
-* [Outside the App](https://www.airship.com/#outside-the-app)
+* [App Experience Platform](https://www.airship.com/platform/app-experience-platform/)
 * [Pricing](https://www.airship.com/app-experience-platform/pricing/)
 * [Partners](https://www.airship.com/app-experience-platform/partners/)
 * [Get a Demo](https://www.airship.com/demo-request/)
