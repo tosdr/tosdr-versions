@@ -80,7 +80,7 @@ Per necessità legate al funzionamento ed alla manutenzione, Altervista e gli ev
 
 Maggiori informazioni in relazione al trattamento dei Dati Personali potranno essere richieste in qualsiasi momento al Titolare del Trattamento utilizzando le informazioni di contatto.
 
-### Diritti dell’Utente
+### Diritti dell’Utente sulla base del Regolamento Generale sulla Protezione dei Dati (GDPR)
 
 I soggetti cui si riferiscono i Dati Personali hanno il diritto in qualunque momento di ottenere la conferma dell'esistenza o meno degli stessi presso il Titolare del Trattamento, di conoscerne il contenuto e l'origine, di verificarne l'esattezza o chiederne l’integrazione, la cancellazione, l'aggiornamento, la rettifica, la trasformazione in forma anonima o il blocco dei Dati Personali trattati in violazione di legge, nonché di opporsi in ogni caso, per motivi legittimi, al loro trattamento. Le richieste vanno rivolte al Titolare del Trattamento.
 
@@ -135,4 +135,5 @@ Questa informativa privacy riguarda esclusivamente Altervista.
 
 Ultima modifica: 30 settembre 2023
 
-[iubenda](https://www.iubenda.com/it/generatore-di-privacy-e-cookie-policy "iubenda - generatore di Privacy Policy") ospita questo contenuto e raccoglie solo [i Dati Personali strettamente necessari](https://www.iubenda.com/privacy-policy/19418041) alla sua fornitura.
+Questo documento è stato creato con il [Generatore di Privacy e Cookie Policy](https://www.iubenda.com/it/generatore-di-privacy-e-cookie-policy) di iubenda. Scopri anche il [Generatore di Termini e Condizioni](https://www.iubenda.com/it/generatore-termini-e-condizioni). [iubenda](https://www.iubenda.com/it/) ospita questo contenuto e raccoglie solo [i Dati Personali strettamente necessari](https://www.iubenda.com/privacy-policy/19418041) alla sua fornitura.  
+(EN) This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/privacy-and-cookie-policy-generator). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator).
