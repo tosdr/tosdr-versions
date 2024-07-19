@@ -20,6 +20,7 @@ Search for:
     * [Online Events](https://isrii.org/online-events/)
     * [Scientific Meeting Archives](https://isrii.org/isrii-scientific-meeting-archives/)
 * [Member Login](https://isrii.app.neoncrm.com/np/oauth/auth?response_type=code&client_id=y93CE8LvsbuHRm3c3Tmy9eAvTTWAN580OeA7qgiYhGjKVesN0LALE_P-JflhJokZ&redirect_uri=https%3A%2F%2Fisrii.org)
+* [Donate to ISRII](https://isrii.org/donate/)
 
 [![ISRII Logo](/content/uploads/2015/04/isrii-logo-sm1.png)](https://isrii.org/)
 
@@ -39,6 +40,7 @@ Search for:
     * [Online Events](https://isrii.org/online-events/)
     * [Scientific Meeting Archives](https://isrii.org/isrii-scientific-meeting-archives/)
 * [Member Login](https://isrii.app.neoncrm.com/np/oauth/auth?response_type=code&client_id=y93CE8LvsbuHRm3c3Tmy9eAvTTWAN580OeA7qgiYhGjKVesN0LALE_P-JflhJokZ&redirect_uri=https%3A%2F%2Fisrii.org)
+* [Donate to ISRII](https://isrii.org/donate/)
 
 [Home](https://isrii.org/) » Privacy Policy
 -------------------------------------------
@@ -113,7 +115,3 @@ McLean, VA 22101 USA
 * [![](https://isrii.org/content/themes/Capital/images/icons/twitter.png)](https://twitter.com/TheISRII)
 
 Copyright © 2023 — International Society for Research on Internet Interventions (ISRII)
-
-X
-
-RETURNING MEMBERS: To access the new portal and the members-only section of the ISRII Website, please reset your password by clicking "having trouble logging in?" on [this page](https://isrii.app.neoncrm.com/login)
