@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Plum Island** | Windows to the Wild](https://video.nhpbs.org/video/windows-to-the-wild-plum-island?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Extended Trailer** | Hotel Portofino](https://video.nhpbs.org/video/extended-trailer-zsee9z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**June 19, 2024 - PBS NewsHour full episode** | PBS News Hour](https://video.nhpbs.org/video/june-19-2024-pbs-newshour-full-episode-1718769601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Eggplant** | Pan Pals](https://video.nhpbs.org/video/eggplant-gydoje?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**June 19, 2024** | Amanpour and Company](https://video.nhpbs.org/video/june-19-2024-btn1dj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Jeff Foxworthy on how every American might be a "redneck"** | American Masters](https://video.nhpbs.org/video/jeff-foxworthy-on-how-every-american-might-be-a-redneck-ovhijp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 2 Preview** | Grantchester](https://video.nhpbs.org/video/episode-2-preview-movjwt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Lise Davidsen in "La Forza del Destino"** | Great Performances](https://video.nhpbs.org/video/lise-davidsen-in-la-forza-del-destino-cfkesc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Adventure Ahead** | Stories from the Stage](https://video.nhpbs.org/video/adventure-ahead-sm6tnu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Surf Nation** | Doc World](https://video.nhpbs.org/video/surf-nation-vqjdnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump to accept nomination days after assassination attempt** | PBS News Hour](https://video.nhpbs.org/video/rnc-day-4-wrap-1721337487?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**July 18, 2024** | Amanpour and Company](https://video.nhpbs.org/video/july-17-2024-utiu16?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**City of Contradictions** | A Boston (R)Evolution](https://video.nhpbs.org/video/city-of-contradictions-0mnr1m?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Sea Change: Peril in the Gulf of Maine Preview** | NOVA](https://video.nhpbs.org/video/sea-change-peril-in-the-gulf-of-maine-preview-vu2mly?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Pay Equity** | Citizen Better](https://video.nhpbs.org/video/pay-equity-m8asd4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Public Truth** | Betrayal](https://video.nhpbs.org/video/the-public-truth-dgabc8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**After serving time, this cook now serves the night owls of Anchorage INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/after-serving-time-this-cook-now-serves-the-night-owls-of-anchorage-indie-alaska-8ux1eo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**A Female Perspective** | Grantchester](https://video.nhpbs.org/video/a-female-perspective-h2fh4k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
