@@ -1,8 +1,6 @@
-👋 What do you think about NuGet.org? We're looking for feedback from developers like you. [Take the survey.](https://aka.ms/NuGetSurvey)
-
 [Skip To Content](# "Skip To Content")
 
-Toggle navigation [![NuGet home](/Content/gallery/img/logo-header.svg)](https://www.nuget.org/)
+Toggle navigation[](https://www.nuget.org/)
 
 * [Packages](https://www.nuget.org/packages)
 * [Upload](https://www.nuget.org/packages/manage/upload)
@@ -146,7 +144,5 @@ Find out the service status of NuGet.org and its related services.
 [FAQ](https://aka.ms/nuget-faq)
 
 Read the Frequently Asked Questions about NuGet and see if your question made the list.
-
-![](/Content/gallery/img/logo-footer.svg)
 
 © Microsoft 2024 - [About](https://www.nuget.org/policies/About) - [Terms of Use](https://www.nuget.org/policies/Terms) - [Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839) - [Trademarks](https://www.microsoft.com/trademarks)
