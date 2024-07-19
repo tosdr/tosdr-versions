@@ -181,9 +181,12 @@ Looking for our previous version? You can visit our [prior Terms of Use](https:
 
 [](https://turbotax.intuit.com/)[](https://creditkarma.com/)[](https://quickbooks.intuit.com/)[](https://mailchimp.com/)
 
+*  [![facebook social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-facebook.svg) Facebook](https://www.facebook.com/CreditKarma)
 *  [![instagram social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-instagram.svg) Instagram](https://www.instagram.com/creditkarma/)
 *  [![twitter social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-twitter.svg) Twitter](https://www.twitter.com/CreditKarma)
-*  [![facebook social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-facebook.svg) Facebook](https://www.facebook.com/CreditKarma)
+*  [![youtube social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-youtube.svg) YouTube](https://www.youtube.com/user/creditkarma)
+*  [![tiktok social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-tiktok.svg) TikTok](https://www.tiktok.com/@creditkarma)
+*  [![pinterest social Icon](https://creditkarma-cms.imgix.net/wp-content/themes/creditkarma/assets/images/social-pinterest.svg) Pinterest](https://www.pinterest.com/creditkarma)
 
 Scan the QR code to download the app
 
@@ -219,19 +222,17 @@ Scan the QR code to download the app
 
 © 2007–2024 Credit Karma, LLC. Credit Karma® is a registered trademark of Credit Karma, LLC. All Rights Reserved. Product name, logo, brands, and other trademarks featured or referred to within Credit Karma are the property of their respective trademark holders. This site may be compensated through third party advertisers.
 
-Credit Karma Mortgage, Inc. NMLS ID# 1588622 | [Licenses](https://www.creditkarma.com/about/home-loans-licenses) | [NMLS Consumer Access](http://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/1588622)
+Credit Karma Mortgage, Inc. NMLS ID# 1588622 | [Licenses](https://www.creditkarma.com/about/mortgage-licenses) | [NMLS Consumer Access](http://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/1588622)
 
 Credit Karma Offers, Inc. NMLS ID# 1628077 | [Licenses](https://www.creditkarma.com/about/loan-licenses) | [NMLS Consumer Access](http://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/1628077)
 
-Credit Karma Credit Builder (McBurberod Financial, Inc.) NMLS 2057952 | [Licenses](https://www.creditkarma.com/about/credit-builder "Follow link") | [NMLS Consumer Access](https://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/2057952 "Follow link")
+Credit Karma Credit Builder (McBurberod Financial, Inc.) NMLS ID# 2057952 | [Licenses](https://www.creditkarma.com/about/credit-builder) | [NMLS Consumer Access](http://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/2057952)
 
-California loans arranged pursuant to Department of Financial Protection and Innovation Finance Lenders License #60DBO-78868.
+California loans arranged pursuant to Dep't of Business Oversight Finance Lenders License #60DBO-78868.
 
 Auto, homeowners, and renters insurance services offered through Karma Insurance Services, LLC (CA resident license #0172748).
 
-Only mortgage activity by Credit Karma Mortgage, LLC., dba Credit Karma is licensed by the State of New York. Credit Karma, Inc. and Credit Karma Offers, Inc. are not registered by the NYS Department of Financial Services.
-
-Insurance related services offered through Credit Karma Insurance Services, LLC, which does business in some states as Karma Insurance Services, LLC.  [Licenses](https://www.creditkarma.com/about/life-insurance-license) | CA license #0172748.
+Only mortgage activity by Credit Karma Mortgage, Inc., dba Credit Karma is licensed by the State of New York. Credit Karma, LLC. and Credit Karma Offers, Inc. are not registered by the NYS Department of Financial Services.
 
 iPhone is a trademark of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
@@ -239,11 +240,9 @@ Android is a trademark of Google Inc.
 
 The Equifax logo is a registered trademark owned by Equifax in the United States and other countries.
 
-Credit Karma is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility guidelines. If you have specific questions about the accessibility of this site, or need assistance with using this site, contact us.
+Credit Karma is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility guidelines.
 
-CREDIT KARMA OFFERS, INC. 1100 Broadway, STE 1800 Oakland, CA 94607 Credit Karma Offers, Inc. NMLS ID# 1628077 | Licenses | NMLS Consumer Access
-
-Please call Member Support at 833-675-0553 or email legal@creditkarma.com or mail at Credit Karma, LLC, P.O. Box 30963, Oakland, CA 94604
+If you have specific questions about the accessibility of this site, or need assistance with using this site, contact us. Please call Member Support at 833-509-1992 or email legal@creditkarma.com
 
 [](https://www.intuit.com/)
 
