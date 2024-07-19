@@ -390,7 +390,7 @@ For the purpose of
 
 we commission processors based in the US and other third countries.
 
-Insofar as we transfer personal data to third countries outside of the EEA, we ensure an appropriate level of data protection through contractual measures (i.e., Standard Contractual Clauses approved by the European Commission). You have the right to receive copies of these contracts. 
+Insofar as we transfer personal data to third countries outside of the EEA, we ensure an appropriate level of data protection through contractual measures (i.e., Standard Contractual Clauses approved by the European Commission).
 
 F. YOUR RIGHTS
 --------------
