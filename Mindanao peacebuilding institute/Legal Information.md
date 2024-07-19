@@ -43,10 +43,11 @@
             
         * [Virtual Peacebuilding Training](https://mpiasia.net/programs/training/online-courses.html)
             
-            * [MPI 2023 Peacebuilding Virtual Training](https://mpiasia.net/programs/training/online-courses.html)
+            * [MPI 2024 Peacebuilding Virtual Training](https://mpiasia.net/programs/training/online-courses.html)
             * [General Information](https://mpiasia.net/programs/training/online-courses/general-information.html)
             
             * [VPTP FAQs](https://mpiasia.net/programs/training/online-courses/vptp-faqs.html)
+            * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2023-virtual-peacebuilding-training-payment-information.html)
             
         * [Grassroots Peacebuilding Mentors Training Program](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
@@ -264,9 +265,10 @@ For more information on our privacy policies and data protection, please see our
             * [Inside the Annual Training](https://mpiasia.net/programs/training/annual-peacebuilding-training/inside-the-annual-training.html)
             * [Annual Peacebuilding Training Reports](https://mpiasia.net/programs/training/annual-peacebuilding-training/annual-peacebuilding-training-reports.html)
         * [Virtual Peacebuilding Training](https://mpiasia.net/programs/training/online-courses.html)
-            * [MPI 2023 Peacebuilding Virtual Training](https://mpiasia.net/programs/training/online-courses.html)
+            * [MPI 2024 Peacebuilding Virtual Training](https://mpiasia.net/programs/training/online-courses.html)
             * [General Information](https://mpiasia.net/programs/training/online-courses/general-information.html)
             * [VPTP FAQs](https://mpiasia.net/programs/training/online-courses/vptp-faqs.html)
+            * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2023-virtual-peacebuilding-training-payment-information.html)
         * [Grassroots Peacebuilding Mentors Training Program](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
     * [Research, Documentation, & Learning](https://mpiasia.net/programs/research-documentation-and-learning.html)
@@ -298,6 +300,7 @@ For more information on our privacy policies and data protection, please see our
         * [Documents from Alumni](https://mpiasia.net/alumni/alumni-home-page/documents-from-alumni.html)
         * [Links of Interest](https://mpiasia.net/alumni/alumni-home-page/weblinks.html)
         * [Support and Connect With MPI](https://mpiasia.net/alumni/alumni-home-page/support-and-connect-with-mpi.html)
+        * [MPI 2024 Downloads](https://mpiasia.net/alumni/alumni-downloads/mpi-2024-downloads.html)
         * [MPI 2023 Downloads](https://mpiasia.net/alumni/alumni-downloads/mpi-2023-downloads.html)
 * [Search](https://mpiasia.net/search-site.html)
 
