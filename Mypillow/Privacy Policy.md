@@ -36,7 +36,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Accessory Pillows](https://www.mypillow.com/accessory-pillows)
     * [Multi-Use MyPillows](https://www.mypillow.com/multi-use-mypillow)
     * [Body Pillow](https://www.mypillow.com/mybody-pillow-special)
-    * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
+    * [Bolster Pillow](https://www.mypillow.com/bedding/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-extravaganza)
     * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
@@ -44,7 +44,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
     * [Blankets](https://www.mypillow.com/bedding/blankets)
     * [Comforters](https://www.mypillow.com/bedding/blankets/downcomforters)
-    * [Duvet Covers](https://www.mypillow.com/mypillow-duvets)
+    * [Duvet Covers](https://www.mypillow.com/bedding/mypillow-duvets)
 * [Mattresses](https://www.mypillow.com/mattress)
     * [The Complete Mattress Sleep System](https://www.mypillow.com/the-complete-mattress-sleep-system)
     * [Coil Mattress](https://www.mypillow.com/mattresses/coil-mattresses)
@@ -57,6 +57,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Mattress Foundation](https://www.mypillow.com/mattressfoundation)
     * [Semi Truck Mattress](https://www.mypillow.com/drivers-dream-truck-mattress)
 * [Mattress Toppers](https://www.mypillow.com/toppers)
+    * [MyMattress Topper](https://www.mypillow.com/mymattress-topper)
     * [MyMattress Topper 2.0](https://www.mypillow.com/mattress-toppers/3-coil-mattress-topper)
     * [3” Mattress Topper](https://www.mypillow.com/mattress-toppers/3inchtopper-50off)
     * [2” Mattress Topper](https://www.mypillow.com/mattress-toppers/2-mattress-topper-new)
@@ -83,6 +84,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
 * [Pet](https://www.mypillow.com/pet)
     * [Pet Blanket](https://www.mypillow.com/pet/pet-blanket)
     * [Dog Beds](https://www.mypillow.com/mypillow-for-pets-extravaganza)
+    * [Limited Edition Dog Bed](https://www.mypillow.com/limited-edition-dog-beds)
 * [Clearance](https://www.mypillow.com/clearance-page)
 * [MyCoffee](https://www.mypillow.com/mycoffee-options)
 * [MyGummies](https://www.mypillow.com/mystore-gummies)
@@ -90,8 +92,6 @@ Customer Service [1-800-308-1299](tel:18003081299)
 Get Even Lower Prices!
 
 Apply
-
-FREE Shipping on Orders Over $75
 
 * [Home](https://www.mypillow.com/ "Go to Home Page")
 * **Privacy Policy**
@@ -198,9 +198,5 @@ Information Links Us
 * [Sitemap](https://www.mypillow.com/site-map)
 * [Accessibility Statement](https://www.mypillow.com/accessibility)
 * [California Consumer Privacy Act](https://www.mypillow.com/california-consumer-privacy-act)
-
-##### Admin Helper
-
-Go to admin Edit CMS Page
 
 ©2024 MyPillow. All right reserved. MyPillow® is not a medical device and is not intended to diagnose, treat, mitigate or cure any disease.
