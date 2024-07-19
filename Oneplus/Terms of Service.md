@@ -79,6 +79,8 @@ Website Terms of Use
 
 2.3 We may update the content on this Site from time to time, but its content is not necessarily complete, up-to-date, or error-free (including content related to product or service availability, specifications, features, or prices). In the event of a pricing or other error, we reserve the right to revoke offers, cancel orders, and correct errors or omissions, including after an order has been placed. Any of the material on the Site may be out of date at any given time, and we are under no obligation to update such material.
 
+2.4 If you need to register or use Products and/or Services provided in a jurisdiction other than your local jurisdiction through your OnePlus Account, you should also comply with all applicable laws in the jurisdiction where such Products and/or Services are provided, as well as the Terms of Service, Community Rules and other rules or policies that may apply to such Products and/or Services.
+
 ### III. Accessing the Site, Accounts, and Security
 
 3.1 Certain features or services offered on or through the Site may require you to open an account (including setting up a OnePlus ID and password). You may access our Site and experience our products and services without the need to register a OnePlus account, but you can enjoy more services and experiences by registering for a OnePlus account. For example, you can receive the latest information on OnePlus, participate in OnePlus activities, upload your personal photos, share comments and feedback, and purchase OnePlus goods through your OnePlus account. Moreover, all OnePlus account holders will become members of Red Cable Club and may thereby qualify for privileges and rewards.
@@ -164,7 +166,7 @@ If you believe that any User Content (as defined in Article VII below) violates 
 
 ### IX. Content Standards
 
-9.1 The following content standards (“Content Standards”) apply to any and all User Content and use of the Site’s interactive features (e.g., OnePlus accounts). User Content must in its entirety comply with all applicable federal, state, local, and international laws and regulations.
+9.1 The following content standards (“Content Standards”) apply to any and all User Content and use of the Site’s interactive features (e.g., OnePlus accounts). All User Content must relate to OnePlus products, services, or other offerings on the Site. Additionally, User Content must in its entirety comply with all applicable federal, state, local, and international laws and regulations.
 
 9.2 Without limiting the foregoing, User Content must not: (i) contain any material that is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable; (ii) promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age; (iii) infringe any patent, trademark, trade secret, copyright, or other intellectual property or other rights of any other person; (iv) violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our [Privacy Policy](https://www.oneplus.com/ca_en/legal/privacy-policy "Privacy Policy"); (v) be likely to deceive any person; (vi) promote any illegal activity, or advocate, promote, or assist any unlawful act; (vii) cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person; (viii) impersonate any person, or misrepresent your identity or affiliation with any person or organization; (ix) involve commercial activities or sales, such as contests, sweepstakes, and other sales promotions, barter, or advertising; or (x) give the impression that they emanate from or are endorsed by us or any other person or entity, if this is not the case.
 
@@ -307,7 +309,7 @@ READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR D
 
 20.4 If OnePlus needs to send any information to you, it will be sent via email, telephone, or to any address and other contact details you provided when you registered a OnePlus account, purchased OnePlus product(s), or published such information through the Site. If the information is sent via electronic communication, it shall be deemed to be delivered on the date sent (with confirmation of transmission) if sent during normal business hours of the recipient, and on the next business day if sent after normal business hours of the recipient; if sent by a nationally recognized overnight courier (receipt requested), it will be deemed delivered when received by the addressee; and if sent by certified or registered mail, return receipt requested, postage prepaid, it will be deemed delivered on the third day after the date mailed.
 
-This document was last updated on June 15, 2022.
+This document was last updated on July, 2024.
 
 {{item.title}}
 
