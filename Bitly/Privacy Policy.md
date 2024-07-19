@@ -1,10 +1,10 @@
 [Skip Navigation](#content)
 
-[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
+[![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)
 
 Menu
 
- [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
+ [![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2021/08/bitly_logo.svg)](https://bitly.com/)Menu
 
 Menu
 
@@ -12,33 +12,33 @@ Menu
     
     ### Products
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/link-icon.svg)[URL Shortener  
         **Customize, share and track links**](https://bitly.com/pages/products/url-shortener)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Codes  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/qr-icon.svg)[QR Codes  
         **Dynamic solutions to fit every business need**](https://bitly.com/pages/products/qr-codes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/barcode-icon.svg)[2D Barcodes  
         **Add a Global Trade Number (GTIN) to QR Codes designed for packaging**](https://bitly.com/pages/products/2d-barcodes)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/analytics-icon.svg)[Analytics  
         **A central place to track and analyze performance of all short links and QR Codes**](https://bitly.com/pages/products/analytics)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/link-in-bio-icon.svg)[Pages  
         **Mobile-friendly, no-code landing pages**](https://bitly.com/pages/products/pages)
     
     ### Features
     
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/link-in-bio-1.svg)[Link-in-bio  
         **Curate and track links and content for social media profiles**](https://bitly.com/pages/features/link-in-bio)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/branded-links.svg)[Branded Links  
         **Customize links with your brand’s URL**](https://bitly.com/pages/features/branded-links)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/mobile-links.svg)[Mobile Links  
         **Short links for SMS messages**](https://bitly.com/pages/features/mobile-links)
-    * ![](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
+    * ![](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2024/05/utm-campaigns.svg)[UTM Campaigns  
         **Track links with UTM parameters**](https://bitly.com/pages/features/utm-links)
     
     ### Integrations
     
-    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
+    [![Logo for Hubspot integration](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2022/12/Hubspot-Logo-150x150.png)
     
-    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
+    Bitly Hubspot Connector](https://bitly.com/pages/marketplace/hubspot-2)[![Logo for Canva integration](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2023/08/canva-logo-app-connectors-150x150.png)
     
     Bitly + Canva Integration](https://bitly.com/pages/marketplace/canva)
     
@@ -110,7 +110,7 @@ Menu
     
     ### What's new
     
-    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
+    [![Creativity with QR Codes Webinar Recap](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2023/09/Site_resource_explosion-qr.png)
     
     webinar
     
@@ -731,7 +731,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
 
 #### Features
 
-[Link- in- bio](https://bitly.com/pages/features/link-in-bio)  
+[Link-in-bio](https://bitly.com/pages/features/link-in-bio)  
 [Branded Links](https://bitly.com/pages/features/branded-links)  
 [Mobile Links](https://bitly.com/pages/features/mobile-links%20)  
 [UTM Campaigns](https://bitly.com/pages/features/utm-links)
@@ -790,7 +790,8 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
 [Cookie Policy](https://bitly.com/pages/cookies)  
 [Terms of Service](https://bitly.com/pages/terms-of-service)  
 [Acceptable Use Policy](https://bitly.com/pages/acceptable-use)  
-[Code of Conduct](https://bitly.com/pages/code-of-conduct)
+[Code of Conduct](https://bitly.com/pages/code-of-conduct)  
+[Transparency Report](https://bitly.com/pages/transparency-report)
 
 #### Resources
 
@@ -823,7 +824,7 @@ We reserve the right to make changes to this Privacy Policy at any time. If we m
 [Reviews](https://bitly.com/pages/reviews)  
 [Accessibility Report](https://s17233.pcdn.co/blog/wp-content/uploads/2024/02/Bitly-Accessibility-Conformance-Report-2023-12-21.pdf)
 
-![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1718730226/pages/wp-content/uploads/2021/08/bitly_logo.svg)
+![Bitly Logo](https://docrdsfx76ssb.cloudfront.net/static/1721154297/pages/wp-content/uploads/2021/08/bitly_logo.svg)
 
 © 2024 Bitly | Handmade in New York City, Denver, Berlin, Bielefeld, and all over the world.
 
