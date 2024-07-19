@@ -371,4 +371,6 @@ Language
 
 Copyright © 2024 Industrial Workers of the World
 
+[](https://www.facebook.com/iww.org/)[](https://x.com/iww)[](https://www.instagram.com/industrialworkersoftheworld/)
+
 Scroll to Top
