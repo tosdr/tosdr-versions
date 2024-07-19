@@ -108,7 +108,7 @@ X
     * [Distributors](https://www.cityhive.net/distributors/get-a-demo)
     * [Suppliers](https://www.cityhive.net/suppliers/get-a-demo)
 * Sign Up
-    * [Merchants](https://onboarding.cityhive.net/signup?header)
+    * [Merchants](https://merchants.cityhive.net/signup.html)
     * [Suppliers](https://suppliers.cityhive.net/signup.html?header)
 
 * Get A Demo
@@ -116,7 +116,7 @@ X
     * [Distributors](https://www.cityhive.net/distributors/get-a-demo)
     * [Suppliers](https://www.cityhive.net/suppliers/get-a-demo)
 * Sign Up
-    * [Merchants](https://onboarding.cityhive.net/signup?header)
+    * [Merchants](https://merchants.cityhive.net/signup.html)
     * [Suppliers](https://suppliers.cityhive.net/signup.html?header)
 
 Terms Of Service
