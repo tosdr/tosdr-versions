@@ -71,7 +71,7 @@ Terms of Service
 
 IPQualityScore Terms and Conditions of Use
 
-_Last Revised August 18, 2023_  
+_Last Revised June 25, 2024_  
 
 1\. User's Acknowledgment and Acceptance of Terms
 
@@ -79,7 +79,7 @@ _Last Revised August 18, 2023_
 
 BY USING THIS SITE, YOU AGREE TO BE BOUND BY THESE TERMS OF USE. IF YOU DO NOT WISH TO BE BOUND BY THE THESE TERMS OF USE, PLEASE EXIT THE SITE NOW. YOUR REMEDY FOR DISSATISFACTION WITH THIS SITE, OR ANY PRODUCTS, SERVICES, CONTENT, OR OTHER INFORMATION AVAILABLE ON OR THROUGH THIS SITE, IS TO STOP USING THE SITE AND/OR THOSE PARTICULAR PRODUCTS OR SERVICES. YOUR AGREEMENT WITH US REGARDING COMPLIANCE WITH THESE TERMS OF USE BECOMES EFFECTIVE IMMEDIATELY UPON COMMENCEMENT OF YOUR USE OF THIS SITE.
 
-These Terms of Use are effective as of August 18, 2023. We expressly reserve the right to change these Terms of Use from time to time without notice to you. You acknowledge and agree that it is your responsibility to review this site and these Terms of Use from time to time and to familiarize yourself with any modifications. Your continued use of this site after such modifications will constitute acknowledgement of the modified Terms of Use and agreement to abide and be bound by the modified Terms of Use.
+These Terms of Use are effective as of June 25, 2024. We expressly reserve the right to change these Terms of Use from time to time without notice to you. You acknowledge and agree that it is your responsibility to review this site and these Terms of Use from time to time and to familiarize yourself with any modifications. Your continued use of this site after such modifications will constitute acknowledgement of the modified Terms of Use and agreement to abide and be bound by the modified Terms of Use.
 
 As used in these Terms of Use, references to our "Affiliates" include our owners, subsidiaries, affiliated companies, officers, directors, suppliers, partners, sponsors, and advertisers, and includes (without limitation) all parties involved in creating, producing, and/or delivering this site and/or its contents.
 
@@ -93,11 +93,11 @@ We reserve the sole right to either modify or discontinue the site, including an
 
 In order to access some of the services on this site, you will be required to (a) use an account and password that can be obtained by completing our online registration form, which requests certain information and data ("Registration Data"), and (b) maintain and update your Registration Data as required. By registering, you agree that all information provided in the Registration Data is true and accurate and that you will maintain and update this information as required in order to keep it current, complete, and accurate.
 
-Upon registration, your account's contact data may be transferred to a CRM which meets our standards for adequate security techniques and data processing safeguards. You may be contacted by automatic or manual methods by our support or marketing team. To opt-out, please submit a support ticket or written notice with your opt-out request.
+Upon registration, your account's contact data may be transferred to a CRM, which meets industry standards for adequate security techniques and data processing safeguards. You may be contacted by automatic or manual methods by our support or marketing team. To opt-out, please submit a support ticket or written notice with your opt-out request.
 
 4\. Data Processing Agreement
 
-IPQualityScore will process data accordingly with our [Data Processing Agreement](https://www.ipqualityscore.com/data-processing-agreement), providing our mechanisms for abiding by relevant privacy laws including the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA). All data shared with IPQualityScore is safeguarded with measures beyond industry standards.
+IPQualityScore will process data accordingly with our [Data Processing Agreement](https://www.ipqualityscore.com/data-processing-agreement), providing our mechanisms for abiding by relevant privacy laws including the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA). All data shared with IPQualityScore is securely safeguarded within industry standards.
 
 5\. Conduct on Site
 
@@ -201,7 +201,7 @@ New users that sign up through an existing user's unique referral URL, known as 
 
 Clients using our service may provide IPQualityScore with transactional or user information, which may include IP addresses, names, email addresses, billing details, phone numbers, and similar user data. This information is processed through our services to detect behavioral intent and analyze the risk profile of transactions and users. This data is used to identify patterns of fraud within our system and improve your IPQS account's personal machine learning algorithms.
 
-With the exception of the IPQS opt-in fraudulent data sharing program (Fraud Fusion™), IPQualityScore will **NEVER** sell or make publicly available any of your account's customer data or transaction & user information that is processed with our APIs and risk analysis tools. Customer and user data shared with IPQualityScore will be kept confidential, secured, and stored with security practices beyond industry standards.
+With the exception of the IPQS opt-in fraudulent data sharing program (Fraud Fusion™), IPQualityScore does **NOT** sell your personal data or the personal data of your end users. Any data shared with IPQualityScore will be confidential, securely processed, and maintained with industry security standards.
 
 19\. Fraud Fusion™ — Opt-In Fraudulent Data Sharing
 
