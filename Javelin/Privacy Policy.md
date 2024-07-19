@@ -274,14 +274,14 @@ the Escalent family.
 
 * [Full Research library](https://javelinstrategy.com/research)
 * [Identity Fraud Study](https://javelinstrategy.com/annual-identity-fraud-study)
-* [Child Identity Fraud Study](https://javelinstrategy.com/child-identity-fraud-study)
+* [Child and Family Cybersecurity Study](https://javelinstrategy.com/Child-and-Family-Cybersecurity-Study)
 * [Scorecard Reports](https://javelinstrategy.com/scorecard-reports)
 * [Whitepapers](https://javelinstrategy.com/whitepaper)
 
 #### Research Practices
 
 * [Digital Banking](https://javelinstrategy.com/digital-banking-practice-area)
-* [Fraud & Security](https://javelinstrategy.com/fraud-security)
+* [Fraud & Security](https://javelinstrategy.com/fraud-and-security)
 * [Payments](https://javelinstrategy.com/payment)
 * [Wealth Management](https://javelinstrategy.com/wealth-management)
 
