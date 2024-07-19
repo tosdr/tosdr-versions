@@ -1,3 +1,7 @@
+**Notice:** If you are a merchant processing transactions through PSP Services Inc. or PSiGate, we will no longer be your acquiring financial institution as of August 5, 2024. For questions, please email [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+
+**Attention:** Si vous êtes un commerçant et effectuez des transactions par l'intermédiaire de PSP Services Inc. ou de PSiGate, veuillez prendre note qu'à partir du 5 août 2024, nous ne serons plus votre institution financière acquéreuse. Pour toute question, veuillez envoyer un courriel à [\[email protected\]](https://www.peoplestrust.com/cdn-cgi/l/email-protection)
+
 ### **Website Terms & Conditions of Use**
 
 > Current as of August 2, 2023
