@@ -133,29 +133,29 @@
 
 #### Latest news
 
-[![Outside a polling station in Wales](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/polling-station-web.jpg?width=1920&height=1085&quality=80)
+[![Man on tablet looking at bills](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/man-on-tablet-looking-at-bills.png?width=1920&height=1085&quality=80)
 
-### Helping to dismiss disinformation around the General Election
+### Ofcom bans mid-contract price rises linked to inflation
 
-19 June 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/helping-to-dismiss-disinformation-around-the-general-election/)
+19 July 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ofcom-bans-mid-contract-price-rises-linked-to-inflation/)
 
-[![Professional cameraman with headphones with HD camcorder in live television](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bulletin-500-web.jpg?width=1920&height=1085&quality=80)
+[![Listed-Events-2024-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/listed-events-2024-web.jpg?width=1920&height=1085&quality=80)
 
-### Marking 500 Broadcast Bulletins
+### What will future rules around showing major sporting events look like?
 
-17 June 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/marking-500-broadcast-bulletins/)
+18 July 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/listed-sporting-events/what-will-future-rules-around-showing-major-sporting-events-look-like/)
 
-[![election-web](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/election-web.jpg?width=1920&height=1085&quality=80)
+[![A person looking at the Welsh BBC news site on a tablet device](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ol-web.jpg?width=1920&height=1085&quality=80)
 
-### Ofcom’s role in a General Election – what you need to know
+### Review of the BBC’s materiality assessment of proposed new music streams on BBC Sounds
 
-29 May 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know/)
+16 July 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/review-of-the-bbcs-materiality-assessment-of-proposed-new-music-streams-on-bbc-sounds/)
 
-[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
+[![The Glastonbury festival 2024](/siteassets/resources/images/-news-centre/thumbnail-images/spectrum/glasto-2024-web.jpg?width=1920&height=1085&quality=80)
 
-### Global online safety regulators map out vision to improve international coordination
+### Ofcom at Glastonbury 2024
 
-24 May 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-map-out-vision-to-improve-international-coordination/)
+5 July 2024](https://www.ofcom.org.uk/spectrum/radio-equipment/ofcom-at-glastonbury-2024/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
