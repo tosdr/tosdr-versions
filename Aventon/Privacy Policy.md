@@ -1,6 +1,6 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[FREE BATTERY WITH SELECT EBIKE PURCHASE!](https://www.aventon.com/collections/sale)
+[ENDING JULY 31ST: $500 SAVINGS WITH SELECT EBIKES](https://www.aventon.com/collections/sale)
 
 — —
 
@@ -8,7 +8,7 @@ View All Offers 6
 
 SUPPORT
 
-[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty)
+[Bike Registration](https://www.aventon.com/pages/bike-registration) [Contact Us](https://rideaventon.zendesk.com/hc/en-us/requests/new) [FAQ](https://rideaventon.zendesk.com/hc/en-us) [Manuals & Guides](https://rideaventon.zendesk.com/hc/en-us/categories/23148443363227-Model-Specific-Information) [Return Policy](https://www.aventon.com/pages/terms-of-service#returns) [Shipping](https://www.aventon.com/pages/terms-of-service#shipping) [Warranty](https://www.aventon.com/pages/warranty) [Order Cancelation](https://www.aventon.com/pages/terms-of-service#cancelations)
 
 Send us a message
 
@@ -22,17 +22,7 @@ US/EN
 
 YOUR OFFERS
 
-![](https://aventon-images.imgix.net/files/65d7ccf93a605798c18c21dc_Promo-Side-Drawer-Aventure2-Free-Battery_67214d35-9d52-4d3f-8287-4dea58d9a74b.jpg?v=1714157335&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/7584c06f-d73c-42cc-9f1a-0dbf71008c0d_Promo-Side-Drawer-Free-Extra-Battery_1_d14c339e-ebcb-4488-8a32-25958b0ed7cd.jpg?v=1714157335&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/d2a969e6-023a-4a7c-aadf-5c48a99ac3cd_Promo-Side-Drawer-Pace5003-Extra-Battery_1_e2628bfe-9ecd-4286-ba13-5baf62766c7c.jpg?v=1714157346&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/2ea46349-70e3-48fe-94ed-331bea68ba28_Promo-Side-Drawer-Sinch-Extra-Battery-1.jpg?v=1717013713&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)
-
-![](https://aventon-images.imgix.net/files/47507d4c-ba48-47b4-a079-687e4691b4b9_Promo-Side-Drawer-Abound-Free-Battery_96c824c3-7310-466a-a97a-e0c1ffe96d5a.jpg?v=1714157346&auto=compress,format&w=10&blur=10)
+[![](https://aventon-images.imgix.net/files/65d7ccf93a605798c18c21dc_Promo-Side-Drawer-Aventure2-Free-Battery_67214d35-9d52-4d3f-8287-4dea58d9a74b.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventure2-ebike)[![](https://aventon-images.imgix.net/files/7584c06f-d73c-42cc-9f1a-0dbf71008c0d_Promo-Side-Drawer-Free-Extra-Battery_1_d14c339e-ebcb-4488-8a32-25958b0ed7cd.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventon-level-commuter-ebike)[![](https://aventon-images.imgix.net/files/d2a969e6-023a-4a7c-aadf-5c48a99ac3cd_Promo-Side-Drawer-Pace5003-Extra-Battery_1_e2628bfe-9ecd-4286-ba13-5baf62766c7c.jpg?v=1714157346&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-ebike)[![](https://aventon-images.imgix.net/files/2ea46349-70e3-48fe-94ed-331bea68ba28_Promo-Side-Drawer-Sinch-Extra-Battery-1.jpg?v=1717013713&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/sinch2-ebike)[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/47507d4c-ba48-47b4-a079-687e4691b4b9_Promo-Side-Drawer-Abound-Free-Battery_96c824c3-7310-466a-a97a-e0c1ffe96d5a.jpg?v=1714157346&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/abound-ebike)
 
 [Aventon](https://www.aventon.com/)
 
@@ -120,7 +110,7 @@ YOUR OFFERS
         
         Commuter Ebike
         
-    * ![](//www.aventon.com/cdn/shop/files/pace-500-green-nav.jpg?v=1680658033&width=288)
+    * ![Pace 500.3 Step-Through Basalt SKUs: 1E038-0023709, 1E038-0024509](//www.aventon.com/cdn/shop/files/pace-basalt-01.jpg?v=1714067904&width=288)
         
         Pace 500
         
@@ -313,6 +303,9 @@ YOUR OFFERS
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
+    * [Liquid error (snippets/anatta-mobile-menu line 427): invalid url input
+        
+        \>](https://www.aventon.com/pages/terms-of-service#cancelations)
     
     Send us a message
     
@@ -433,7 +426,7 @@ Open menu
         Level
         
         Commuter Ebike](https://www.aventon.com/collections/ebikes?constraint=__level)
-    * [![](//www.aventon.com/cdn/shop/files/pace-500-green-nav.jpg?v=1680658033&width=288)
+    * [![Pace 500.3 Step-Through Basalt SKUs: 1E038-0023709, 1E038-0024509](//www.aventon.com/cdn/shop/files/pace-basalt-01.jpg?v=1714067904&width=288)
         
         Pace 500
         
@@ -564,6 +557,9 @@ Open menu
         Peace of mind for you
         
         View Warranty Details >](https://www.aventon.com/pages/warranty)
+    * [Liquid error (snippets/anatta-header-nav line 181): invalid url input
+        
+        \>](https://www.aventon.com/pages/terms-of-service#cancelations)
     
 * [FIND A BIKE SHOP](https://www.aventon.com/pages/electric-bike-shop-dealer-locator)
 
@@ -950,6 +946,7 @@ Footer
 * [Commuting Ebikes](https://www.aventon.com/collections/electric-commuter-bike)
 * [Fat Tire Ebikes](https://www.aventon.com/collections/fat-tire-electric-bike)
 * [Folding Ebikes](https://www.aventon.com/collections/folding-electric-bike)
+* [Mid Drive Ebikes](https://www.aventon.com/collections/mid-drive-ebikes)
 * [Road Ebikes](https://www.aventon.com/collections/electric-road-bike)
 * [Step-Through Ebikes](https://www.aventon.com/collections/step-through-electric-bike)
 * [Accessories](https://www.aventon.com/collections/all-accessories)
@@ -1000,6 +997,7 @@ Footer
 * [Commuting Ebikes](https://www.aventon.com/collections/electric-commuter-bike)
 * [Fat Tire Ebikes](https://www.aventon.com/collections/fat-tire-electric-bike)
 * [Folding Ebikes](https://www.aventon.com/collections/folding-electric-bike)
+* [Mid Drive Ebikes](https://www.aventon.com/collections/mid-drive-ebikes)
 * [Road Ebikes](https://www.aventon.com/collections/electric-road-bike)
 * [Step-Through Ebikes](https://www.aventon.com/collections/step-through-electric-bike)
 * [Accessories](https://www.aventon.com/collections/all-accessories)
