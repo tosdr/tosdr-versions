@@ -11,6 +11,7 @@
         
         * [American History](https://mycompassclassroom.com/how-to-teach-american-history/)
         * [Modernity](https://mycompassclassroom.com/how-to-teach-modernity/)
+        * [Antiquity](https://mycompassclassroom.com/how-to-teach-antiquity/)
         * [Christendom](https://mycompassclassroom.com/how-to-teach-christendom/)
         * [Word Up](https://mycompassclassroom.com/how-to-teach-wordup/)
         * [Devotional Biology](https://mycompassclassroom.com/how-to-teach-devotional-biology/)
