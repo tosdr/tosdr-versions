@@ -8,8 +8,8 @@ Numbers, Facts and Trends Shaping Your World
 
 Read our research on:
 
-* [Gun Policy](https://www.pewresearch.org/topic/politics-policy/political-issues/gun-policy/)
-* [International Conflict](https://www.pewresearch.org/topic/international-affairs/international-issues/war-international-conflict-2/)
+* [Supreme Court](https://www.pewresearch.org/topic/politics-policy/government/supreme-court/)
+* [Climate, Energy & Environment](https://www.pewresearch.org/topic/science/science-issues/climate-energy-environment/)
 * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
 
 [](https://www.pewresearch.org/)[](https://www.pewresearch.org/)[](https://www.pewresearch.org/decoded)
@@ -97,8 +97,8 @@ Search
     
     Read Our Research On:
     
-    * [Gun Policy](https://www.pewresearch.org/topic/politics-policy/political-issues/gun-policy/)
-    * [International Conflict](https://www.pewresearch.org/topic/international-affairs/international-issues/war-international-conflict-2/)
+    * [Supreme Court](https://www.pewresearch.org/topic/politics-policy/government/supreme-court/)
+    * [Climate, Energy & Environment](https://www.pewresearch.org/topic/science/science-issues/climate-energy-environment/)
     * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
     
 
@@ -226,6 +226,5 @@ USA
 * [Terms & Conditions](https://www.pewresearch.org/about/terms-and-conditions/)
 * [Privacy Policy](https://www.pewresearch.org/about/privacy-policy/)
 * [Cookie Settings](https://www.pewresearch.org/)
-* [Reprints, Permissions & Use Policy](https://www.pewresearch.org/reprint-and-citation-guidelines/)
 * [Feedback](https://www.pewresearch.org/contact-form/)
 * [Careers](https://www.pewresearch.org/about/careers/)
