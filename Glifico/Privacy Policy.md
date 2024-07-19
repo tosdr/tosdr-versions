@@ -4,6 +4,7 @@ Privacy Policy of **www.glifico.com**
 This Application collects some Personal Data from its Users.
 
   
+  
 
 This document can be printed for reference by using the print command in the settings of any browser.
 
@@ -43,7 +44,7 @@ Depending on the User's location, data transfers may involve transferring the Us
 
 ### Retention time
 
-Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
 The purposes of processing
 --------------------------
@@ -98,7 +99,7 @@ In any case, the Owner will gladly help to clarify the specific legal basis that
 
 ### Further information about retention time
 
-Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
 Therefore:
 
@@ -124,7 +125,9 @@ In particular, Users have the right to do the following, to the extent permitted
 * **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.
 * **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
 
-Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organisation governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.  
+  
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or enquire with the Owner using the information provided in the contact section.
 
 #### Details about the right to object to processing
 
