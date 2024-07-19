@@ -32,7 +32,7 @@ Follow us
 
 [![Facebook](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641de46e239fcf3dc0f6522d_fb-logo.webp)](https://www.facebook.com/Grindr/)[![Twitter](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc80762f5079d85fddab_tw-logo.webp)](https://twitter.com/grindr)[![Instagram](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc8003749251292dd4d1_ig-logo.webp)](https://www.instagram.com/grindr/)[![YouTube](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc80c22efa2585a8b3c5_yt-logo.webp)](https://www.youtube.com/grindr)[![TikTok](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc809d7a56db658fa084_tt-logo.svg)](https://www.tiktok.com/@grindr)[![LinkedIn](https://cdn.prod.website-files.com/641dc6058ca7b72a1422b5d7/641ddc80012ee877a199b254_lk-logo.svg)](https://www.linkedin.com/company/grindr)
 
-©2023 Grindr LLC  
+©2024 Grindr LLC  
 
 Close
 
