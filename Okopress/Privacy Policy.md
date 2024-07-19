@@ -6,7 +6,7 @@
 
 0:00
 
-Specjalne
+Audio
 
 Menu
 
