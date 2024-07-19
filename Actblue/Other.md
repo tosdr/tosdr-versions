@@ -11,6 +11,8 @@
 The Fine Print
 --------------
 
+**\*\*\* We've updated these terms. Please see the [newer version](https://secure.actblue.com/legal-terms) which takes effect on August 1, 2024. \*\*\***
+
 These terms of use apply to your use of the ActBlue.com website and all associated services (including, but not limited to, e-mail received from ActBlue, and content embedded on other websites) provided by ActBlue and its associated entities (including ActBlue Civics and ActBlue Charities). **If you browse or donate through ActBlue.com, you accept these conditions.**
 
 ### Privacy Policy
