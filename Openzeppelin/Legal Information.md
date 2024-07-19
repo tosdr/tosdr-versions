@@ -1,8 +1,6 @@
-![OpenZeppelin](https://www.openzeppelin.com/hubfs/Cover_OZm-Jul-18-2022-06-15-39-93-PM.png)
-
 [Skip to content](#main-content)
 
-Announcing Defender 2.0 General Availability: our mission-critical security and automation platform.[Read the blog ![Arrow Icon](https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/section-previews/arrow-white.svg)](https://blog.openzeppelin.com/announcing-the-general-availability-of-openzeppelin-defender) 
+Announcing The OpenZeppelin Ecosystem Stack: The Secure Environment for Builders in your Ecosystem.[Learn more details![Arrow Icon](https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/section-previews/arrow-white.svg)](https://www.openzeppelin.com/ecosystems)
 
 [![OpenZeppelin](https://www.openzeppelin.com/hs-fs/hubfs/OZ_logo_color%20(3)-1.png?width=300&height=47&name=OZ_logo_color%20(3)-1.png "OpenZeppelin")](https://openzeppelin.com/)
 
