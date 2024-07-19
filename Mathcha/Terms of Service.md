@@ -49,7 +49,7 @@ We will notify our users by e-mail about any significant changes to the Terms of
 
 All user data is subject to the [Privacy Policy](https://www.mathcha.io/privacy-policy)
 
-2018-2022 Mathcha.io  
+2018-2023 Mathcha.io  
 team@mathcha.io  
   
 [Privacy Policy](https://www.mathcha.io/privacy-policy)  
