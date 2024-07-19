@@ -1,4 +1,4 @@
-\> > >  [Jobs at netcup:](https://www.netcup.eu/jobs) Colleagues wanted! [NETWORK ENGINEER (M/F/D)](https://www.netcup.eu/jobs/network-engineer-m-f-d) and [TEAM LEAD DATA CENTER (M/F/D)](https://www.netcup.eu/jobs/team-lead-data-center-m-w-d)  < < <
+\> > >  [Jobs at netcup:](https://www.netcup.eu/jobs) Colleagues wanted! [CLOUD PLATFORM ENGINEER (M/F/D)](https://www.netcup.eu/jobs/cloud-platform-engineer-m-f-d) and [SENIOR LINUX SYSTEM ENGINEER (M/F/D)](https://www.netcup.eu/jobs/senior-linux-system-engineer-m-f-d)  < < <
 
 EN / [DE](https://www.netcup.de/bestellen/agb.php)
 
