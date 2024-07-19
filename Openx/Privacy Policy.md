@@ -31,7 +31,7 @@ Learn more about our path to Net-Zero at [openx.com/sustainability](https://www.
 OpenX Ad Exchange Privacy Policy
 ================================
 
-Last updated: April 16, 2024
+Last updated: June 28, 2024
 
 1. [Introduction](#section-1)
 2. [What personal data do we collect?](#section-2)
@@ -54,7 +54,7 @@ We know you may have questions and concerns about who is collecting your data, h
 We encourage you to read the whole Privacy Policy, because it provides important information about how we may process your data, and the choices or rights you may have with respect to our processing of your data.  In the meantime, here are some key takeaways:
 
 * **We collect data about you from Publishers, Advertising Partners, and third party data providers.** 
-    * This data may include personal information about you such as your device identifiers, location, browsing history, and specific interests, and it may be collected from a variety of partners, such as Publishers operating news, dating, weather, health, retail, gaming, or streaming websites and apps. 
+    * This data may include personal information about you such as your device identifiers, location, browsing history, and specific interests, and it may be collected from a variety of partners, such as Publishers operating websites and apps. 
 * **We use this data to understand your online activity and interests over time so we can serve you relevant ads.**
     * Using cookies and other persistent identifiers that track your online activity, we collect data about you across different websites and apps, and across different devices. So, we may know you visited a website on Monday from your desktop computer to look at a product, returned to the website on Tuesday from your mobile phone to add the product to your check-out basket, and finally completed your purchase of the product on Wednesday from your tablet. We use this data to learn about your interests over time and understand what products and services may be most relevant to you. 
 * **We share this data with third parties.**
@@ -78,11 +78,10 @@ Unless you contact us directly, we never collect information that directly ident
     * These are persistent identifiers that help us identify you across devices and over time, such as your IP address, cookie ID, mobile advertising ID, hashed email address, and user agent string 
 * **Online and offline activity and interests (including inferences)**
     * This includes information about your online activity and interests, such as your browsing history and online behavior
-    * This may also include information about your offline activity and interests, such as your purchase history and demographics 
+    * This may also include information about your offline activity and interests, such as your purchase history
     * And, this may include information derived or inferred from your online and offline activity and interests, such as your likelihood to be interested in buying a particular product, using a particular service, or visiting a particular website 
 * **Geolocation information**
-    * This typically is information about your or your device’s non-precise location, such as your country, region, metro, zip, or postal code, or non-precise (zip-code level) geographic coordinates, typically as inferred from your IP address
-    * In limited instances, if you have enabled location services for a website or app that we partner with and not opted out of having your precise location shared, this may also include information about your or your device’s precise location, such as precise geographic coordinates
+    * This is information about your or your device’s location, such as your country, region, metro, zip, or postal code, or geographic coordinates, typically as inferred from your IP address
 * **Browser, device, and service information**
     * This is information about the devices you are using to engage online, such as your browser or device type (e.g., Google Chrome, iPhone), screen dimensions, operating system, and preferred language 
 * **Ad reporting and delivery information** 
@@ -218,16 +217,16 @@ If you would like to exercise any of the rights listed above, please reach us [h
 
 **U.S. based individuals**
 
-Residents of California, Colorado, Connecticut, Virginia, and Utah may exercise the following rights regarding your personal data, subject to certain exceptions and limitations:
+Residents of California, Colorado, Connecticut, Oregon, Texas, Virginia, and Utah may exercise the following rights regarding your personal data, subject to certain exceptions and limitations:
 
 * The right to confirm whether we have processed your personal data.
-* The right to know and access, in a portable format that is accessible to you, the categories and specific pieces of personal data we collect, use, share, and sell about you, the categories of sources from which we collected your personal data, our purposes for collecting, using, sharing, and selling your personal data, the categories of your personal data that we have shared or sold for a business purpose, and the categories of third parties with which we have shared or sold your personal data.
+* The right to know and access, in a portable format that is accessible to you, the categories and specific pieces of personal data we collect, use, share, and sell about you, the categories of sources from which we collected your personal data, our purposes for collecting, using, sharing, and selling your personal data, the categories of your personal data that we have shared or sold for a business purpose, and the categories of third parties with which we have shared or sold your personal data. Oregon residents also have the right to obtain a list of third parties (other than our service providers) to which we have disclosed personal data.
 * The right to correct inaccuracies related to the personal data we have collected from or about you.
 * The right to request that we delete the personal data we have collected from or about you.
 * The right to opt out of our processing and sharing of your personal data for purposes of interest-based advertising, also called “cross-context behavioral advertising” or “targeted advertising,” which our services facilitate, as well as the right to opt out of our sales of your personal data.
 * The right not to be discriminated or retaliated against for exercising any of these data rights.
 
-While some states provide residents with additional rights related to “sensitive” personal data, OpenX does not knowingly collect this type of personal data. 
+Certain states provide residents with additional rights related to “sensitive” personal data. OpenX may process limited personal data related to children within our Child-Safe Marketplace, and this data may be considered “sensitive” in certain states. You can learn more about data processing within our Child-Safe Marketplace in our [Child-Safe Marketplace Privacy Policy](https://www.openx.com/privacy-center/marketplace-privacy-policy/). Other than as detailed in our Child-Safe Marketplace Privacy Policy, OpenX does not knowingly collect sensitive personal data as a business, data controller, or equivalent entity.
 
 To exercise any of the above rights, please reach us [here](https://www.requesteasy.com/611c-1551) or call us at (855) 231-3834 . You may be asked to submit verifying information in certain circumstances, as described below. Depending on your state, if you have submitted a request that we have not fulfilled, you may appeal our decision by contacting us [here](https://www.requesteasy.com/611c-1551). 
 
@@ -235,24 +234,24 @@ To exercise any of the above rights, please reach us [here](https://www.requeste
 
 **_Authorized Agent_****:** You may designate an authorized agent to make a data subject request on your behalf by verifying your identity and providing written permission to your agent to make the request for you.
 
-**_Minors’ Personal Data_****:** We do not sell the personal data of consumers that we know to be under 16 years of age or share such data for purposes of interest-based advertising (also known as “targeted” or “cross-context behavioral” advertising).  
+**_Minors’ Personal Data_:** We do not sell the personal data of consumers that we know to be under 18 years of age or share such data for purposes of interest-based advertising (also known as “targeted” or “cross-context behavioral” advertising).  
 
 **_Collection, Sharing, and Sale of Personal Data:_**  
 
 * In the last 12 months, we collected the categories of personal data described above in the “[What personal data do we collect?](#section-2)” section of this Privacy Policy, which correspond to the following categories of personal data under California law: (1) personal and online identifiers; (2) commercial or transactions information; (3) Internet or other electronic network activity information; (4) geolocation information; (4) inferences about your predicted characteristics and preferences; and (5) other information about you that is linked to the “personal information” or “personal data” we collect. 
 * In the last 12 months, we collected these categories of personal data from Publishers, Advertising Partners, service providers (e.g., fraud prevention services), and third party data providers (e.g., consumer data resellers). 
-* In the last 12 months, we collected personal data for our commercial and business purposes, as described in more detail above in the “[Why do we collect, use, and store this personal data?](#section-3)” section of this Privacy Policy. As described in that section, we sell and share personal data for interest-based advertising purposes (also known as “cross-context behavioral” or “targeted” advertising). 
-* In the last 12 months, we sold, shared, or disclosed personal data we collected to the categories of third parties described above in the “[How and to whom do we share your personal data?](#section-4)” section of this Privacy Policy. In particular, we “sold” (as a “sale” is defined under California law) or shared for interest-based advertising purposes each category of personal data we collected to Advertising Partners and third party data providers (e.g., consumer data resellers). We also disclosed each category of personal data we collected with our service providers and affiliates as well as, in limited instances, governmental entities for our business purposes.
+* In the last 12 months, we collected personal data for our commercial and business purposes, as described in more detail above in the “[Why do we collect, use, and store this personal data?](#section-3)” section of this Privacy Policy. As described in that section, we sell and share personal data for interest-based advertising purposes (also known as “cross-context behavioral” or “targeted” advertising). However, we do not sell or use personal data for profiling in furtherance of decisions that produce legal or similarly significant effects on you.
+* In the last 12 months, we sold, shared, or disclosed personal data we collected to the categories of third parties described above in the “[How and to whom do we share your personal data?](#section-4)” section of this Privacy Policy. In particular, we “sold” (as a “sale” is defined under state privacy laws) or shared for interest-based advertising purposes each category of personal data we collected to Advertising Partners and third party data providers (e.g., consumer data resellers). We also disclosed each category of personal data we collected with our service providers and affiliates as well as, in limited instances, governmental entities for our business purposes.
 * In the last 12 months, we stored and retained personal data in accordance with the retention periods described below in the “[How long do we retain your personal data](#section-8)” section of this Privacy Policy.
 
-**_Information About Past Year’s California Requests:_**  In 2022, with respect to requests from California residents submitted under the California Consumer Privacy Act, as amended (“**CCPA**”), OpenX:
+**_Information About Past Year’s California Requests:_**  In 2023, with respect to requests from California residents submitted under the California Consumer Privacy Act, as amended (“**CCPA**”), OpenX:
 
-* Received 87 requests to know, complied with all of them in an average of 38 days, and denied none of them.
-* Received 92 requests to delete, complied with all of them in an average of 36 days, and denied none of them.
-* Received 138 requests to opt-out, complied with all of them in an average of 5 days, and denied none of them.
-* Received 17 requests that did not provide a specific type of request and denied none of them.
+* Received 26 requests to know or access, complied with all of them in an average of 34 days and a median of 42 days, and denied none of them.
+* Received 32 requests to delete, complied with all of them in an average of 18 days and a median of 23 days, and denied none of them.
+* Received 58 unique requests to opt-out, complied with all of them in an average of 15 days and a median of 15 days, and denied none of them.
+* Received 8 requests that did not provide a specific type of request, responded to all of them in an average of 17 days and a median of 17 days, and denied none of them.
 
-In some instances, although we have not denied a request, we cannot fully complete the data subject’s requested action due to an inability to connect the data in our systems to the data provided by the data subject. In such instances, we request additional information from the data subject.
+In some instances, although we have not denied a request, we cannot fully complete the data subject’s requested action due to an inability to connect the data in our systems to the data provided by the data subject. In such instances, we request additional information from the data subject to attempt to verify the request.
 
 **8.** **How long do we retain your personal data?**
 ----------------------------------------------------
