@@ -228,6 +228,8 @@ Toutes les régions
     
 * [Île-de-France](https://www.moncontroletechnique.fr/ile-de-france)
     
+* [La Réunion](https://www.moncontroletechnique.fr/la-reunion)
+    
 * [Martinique](https://www.moncontroletechnique.fr/martinique)
     
 * [Normandie](https://www.moncontroletechnique.fr/normandie)
