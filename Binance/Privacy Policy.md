@@ -79,7 +79,7 @@ Support
 | --- | --- | --- | --- |
 | #### **Where you reside** | #### **Services Provided** | #### **Your Operating Entity** | #### **Contact address** |
 | #### **France** | #### **Digital Asset Services Provider** | #### **Binance France SAS** | #### **17 rue de la Vanne 92129, Montrouge, France.** |
-| #### **Italy** | #### **Digital Asset Services Provider** | #### **Binance Italy S.R.L** | #### **Via Generale Francesco Poli, 31, 73100, Lecce, Lecce, Italy.** |
+| #### **Italy** | #### **Digital Asset Services Provider** | #### **Binance Italy S.R.L** | #### **Corso Europa n. 15, 20122, Milano (MI), Italy** |
 | #### **Spain** | #### **Virtual Assets Services Provider** | #### **Binance Spain SL** | #### **C/ Don Ramón de la Cruz, 38, 28001, Madrid, Spain.** |
 | #### **Sweden** | #### **Financial Institution** | #### **Binance Nordics AB** | #### **Mailbox 625, 114 11 Stockholm Sverige.** |
 | #### **Poland** | #### **Digital Asset Services** | #### **Binance Poland Spółka z Ograniczoną Odpowiedzialnością** | #### **Ul. Aleje Ujazdowskie, No. 41, apt., locality Warsaw, 00-540, Poland.** |
@@ -218,7 +218,7 @@ Support
 
 #### **10\. What Rights Do I Have?**
 
-#### **Subject to applicable law, as outlined below, you have a number of rights in relation to your privacy and the protection of your personal data. You have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. In addition, when you consent to our processing of your personal data for a specified purpose, you may withdraw your consent at any time. If you want to exercise any of your rights please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/99f99939-5a0d-4feb-aef3-ba45f16b6907/207567de-2c3f-440e-8e36-adcae06ed0e5)**.**
+#### **Subject to applicable law, as outlined below, you have a number of rights in relation to your privacy and the protection of your personal data. You have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. In addition, when you consent to our processing of your personal data for a specified purpose, you may withdraw your consent at any time. If you want to exercise any of your rights please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)**.**
 
 #### **These rights may be limited in some situations - for example, where we can demonstrate we have a legal requirement to process your personal data.**
 
@@ -241,7 +241,7 @@ Support
 * **Right to lodge a complaint with the relevant data protection authority: We hope that we can satisfy any queries you may have about the way in which we process your personal data. However, if you have unresolved concerns, you also have the right to complain to the data protection authority in the location in which you live, work or believe a data protection breach has occurred.**
     
 
-#### **If you have any questions or objection as to how we collect and process your personal data, please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/99f99939-5a0d-4feb-aef3-ba45f16b6907/207567de-2c3f-440e-8e36-adcae06ed0e5)**.** 
+#### **If you have any questions or objection as to how we collect and process your personal data, please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)**.** 
 
 #### **11\. How Long Does Binance Keep My Personal Data?**
 
@@ -278,7 +278,7 @@ Support
 
 #### **If you have a question about your account management, or Binance products or services the Data Protection Officer will not be able to assist you. In that case, please contact our Customer Support team using the following** [**link**](http://www.binance.com/en/chat)**.**
 
-[](https://privacyportal-bn.my.onetrust.com/webform/99f99939-5a0d-4feb-aef3-ba45f16b6907/207567de-2c3f-440e-8e36-adcae06ed0e5)
+[](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)
 
 ### Community
 
