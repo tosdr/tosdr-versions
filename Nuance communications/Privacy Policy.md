@@ -83,7 +83,6 @@ Support
     
     * [What we do](https://www.nuance.com/company-overview/what-we-do.html)
     * [Who we are](https://www.nuance.com/company-overview/who-we-are.html)
-    * [Our leadership](https://www.nuance.com/company-overview/leadership.html)
     
 * [News](https://news.nuance.com/)
 * [Research](https://www.nuance.com/about-us/ai-research.html)
@@ -109,7 +108,6 @@ Company overview
     
     * [What we do](https://www.nuance.com/company-overview/what-we-do.html)
     * [Who we are](https://www.nuance.com/company-overview/who-we-are.html)
-    * [Our leadership](https://www.nuance.com/company-overview/leadership.html)
     
 * [News](https://news.nuance.com/)
 * [Research](https://www.nuance.com/about-us/ai-research.html)
