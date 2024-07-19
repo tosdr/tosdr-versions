@@ -42,6 +42,7 @@ Previous Next
 * [Pricing](https://www.alert-1.com/pricing/plans/225)
     * [Compare Competitors](https://www.alert-1.com/pricing/compare-medical-alert-systems/205)
 * [For Healthcare Providers](https://www.alert-1.com/healthcare-labor-shortage)
+* [FOR CURRENT MEMBERS](https://www.alert-1.com/member-care-hub)
 
 * [Help](https://www.alert-1.com/system/faq/208)
 * [My Account](https://www.alert-1.com/my-account.aspx)
@@ -117,6 +118,7 @@ Toggle navigation
 * [Pricing](https://www.alert-1.com/pricing/plans/225)
     * [Compare Competitors](https://www.alert-1.com/pricing/compare-medical-alert-systems/205)
 * [For Healthcare Providers](https://www.alert-1.com/healthcare-labor-shortage)
+* [FOR CURRENT MEMBERS](https://www.alert-1.com/member-care-hub)
 
 Get the latest from Alert1.
 
