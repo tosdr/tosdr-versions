@@ -2,19 +2,17 @@ Don’t invest unless you’re prepared to lose all the money you invest. This i
 
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
-[Buy Crypto](https://paybis.com/ "Buy Bitcoin")
-
-[Sell Crypto](https://paybis.com/sell-bitcoin/ "Sell Bitcoin")
-
-[Crypto Wallet](https://paybis.com/crypto-wallet/ "Bitcoin Wallet")
+[Private](https://paybis.com/) [Corporate](https://paybis.com/corporate/)
 
 Business
 
-* [![On/Off Ramp](https://cdn.paybis.com/resources/icons/widget.svg)
+* [![Swaps & On/Off Ramp](https://cdn.paybis.com/resources/icons/corporate/on-of-ramp-new.svg)
     
-    On/Off Ramp
+    Swaps & On/Off Ramp
     
-    Allow your customers to buy or sell crypto with ease](https://paybis.com/on-off-ramp/)
+    Allow your customers to buy, sell or swap crypto with ease](https://paybis.com/on-off-ramp/)
+
+[Go to Paybis for Businesses](https://paybis.com/on-off-ramp/)
 
 English
 
@@ -27,48 +25,19 @@ English
 * [한국어](https://paybis.com/ko/policies/privacy/)
 * [عربى](https://paybis.com/ar/policies/privacy/)
 
-[Log in](https://paybis.com/user/login/)[Sign up](https://paybis.com/user/register/)
+[Sign In](https://paybis.com/user/login/)
 
 Menu
 
-Close menu
+[Private](https://paybis.com/) [Corporate](https://paybis.com/corporate/)
 
-Personal Business
+[Buy Crypto](https://paybis.com/)
 
-* [![Buy Crypto](https://cdn.paybis.com/resources/icons/buy.svg)
-    
-    Buy Crypto
-    
-    Best place to buy bitcoin and other cryptocurrency](https://paybis.com/)
-* [![Sell Crypto](https://cdn.paybis.com/resources/icons/sell.svg)
-    
-    Sell Crypto
-    
-    Best place to sell bitcoin and other cryptocurrency](https://paybis.com/sell-bitcoin/)
-* [![Crypto Wallet](https://cdn.paybis.com/resources/icons/wallets.svg)
-    
-    Crypto Wallet
-    
-    Everything you need for crypto — all in one place](https://paybis.com/crypto-wallet/)
+[Sell Crypto](https://paybis.com/sell-bitcoin/)
 
-* [![On/Off Ramp](https://cdn.paybis.com/resources/icons/widget.svg)
-    
-    On/Off Ramp
-    
-    Allow your customers to buy or sell crypto with ease](https://paybis.com/on-off-ramp/)
+[Crypto Wallets](https://paybis.com/crypto-wallet/)
 
-[Log in](https://paybis.com/user/login/)[Sign up](https://paybis.com/user/register/)
-
-* [About us Our team and mission](https://paybis.com/about-us/)
-* [News Latest news from Paybis](https://paybis.com/news/)
-
-* [Policies](https://paybis.com/policies/terms-of-service/)
-* [The risk summary](https://support.paybis.com/hc/en-us/articles/13873600620317-Risks-associated-with-cryptocurrency-investments)
-* [Fees](https://support.paybis.com/hc/en-us/articles/9089022363037-Types-of-fees-applied)
-* [FAQ](https://paybis.com/faq/)
-* [Support Portal](https://support.paybis.com/hc/en-us)
-* [Careers](https://paybis.com/career/)
-* [Contacts](https://paybis.com/contacts/)
+[Sign In](https://paybis.com/user/login/)
 
 English
 
@@ -80,6 +49,34 @@ English
 * [Português](https://paybis.com/pt/policies/privacy/)
 * [한국어](https://paybis.com/ko/policies/privacy/)
 * [عربى](https://paybis.com/ar/policies/privacy/)
+
+Business
+
+* [![Swaps & On/Off Ramp](https://cdn.paybis.com/resources/icons/corporate/on-of-ramp-new.svg)
+    
+    Swaps & On/Off Ramp
+    
+    Allow your customers to buy, sell or swap crypto with ease](https://paybis.com/on-off-ramp/)
+
+[Go to Paybis for Businesses](https://paybis.com/on-off-ramp/)
+
+[About us](https://paybis.com/about-us/)
+
+[Policies](https://paybis.com/policies/terms-of-service/)
+
+[FAQ](https://paybis.com/faq/)
+
+[Support Portal](https://support.paybis.com/hc/en-us)
+
+[Careers](https://paybis.com/career/)
+
+[Contacts](https://paybis.com/contacts/)
+
+[Buy Crypto](https://paybis.com/)
+
+[Sell Crypto](https://paybis.com/sell-bitcoin/)
+
+[Crypto Wallets](https://paybis.com/crypto-wallet/)
 
 [Home](https://paybis.com/)
 
