@@ -1,47 +1,61 @@
-[![](https://www.digitalturbine.com/wp-content/uploads/2022/07/logo-1.svg)](https://www.digitalturbine.com/)
+[![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661917c5a7cc10c6a4630e9f_logo-digital-turbine.svg)![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661d1550ed5858b5b592dd33_DT%20footer%20mobile%20logo.svg)](https://www.digitalturbine.com/)
 
-[![](https://www.digitalturbine.com/wp-content/uploads/2022/07/Group.svg)](https://www.digitalturbine.com/)
+[App Developers](https://www.digitalturbine.com/app-developers)
 
-* [App Developers](https://www.digitalturbine.com/app-developers/)
-    * [DT Hub](https://www.digitalturbine.com/dt-hub/)
-    * [Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)
-        * [DT Exchange](https://www.digitalturbine.com/dt-exchange/)
-        * [DT FairBid](https://www.digitalturbine.com/dt-fairbid/)
-        * [DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall/)
-    * [UA Solutions](https://www.digitalturbine.com/ua-solutions/)
-* [Brands & Agencies](https://www.digitalturbine.com/brands-agencies/)
-    * [DT Creative Lab](https://www.digitalturbine.com/dt-creative-lab/)
-* [Telecom](https://www.digitalturbine.com/telecom/)
+[DT Hub](https://www.digitalturbine.com/dt-hub)[Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
 
-* [Company](https://www.digitalturbine.com/?page_id=578)
-    * [About](https://www.digitalturbine.com/about/)
-    * [Careers](https://www.digitalturbine.com/careers/)
-    * [Investors](https://ir.digitalturbine.com/)
-* [Resources](https://www.digitalturbine.com/all-resources/)
-    * [Blog](https://www.digitalturbine.com/blog/)
-    * [Case Studies](https://www.digitalturbine.com/case-studies/)
-    * [Insights](https://www.digitalturbine.com/insights/)
-    * [Mobile Explorers](https://www.digitalturbine.com/mobile-explorers/)
-    * [Engineering Blog](https://www.digitalturbine.com/collection/engineering/)
-    * [Developer Portal](https://developer.digitalturbine.com/hc/en-us)
-* [Login](#)
-    * [Adcolony](https://clients.adcolony.com/login)
-    * [DT Console](https://console.fyber.com/login)
-    * [ACP Offer Wall](https://acp-edge.fyber.com/login)
-* [Contact](#contact)
+[Brands & Agencies](https://www.digitalturbine.com/brands-agencies)
+
+[DT Creative Lab](https://www.digitalturbine.com/dt-creative-lab)
+
+[Telecom](https://www.digitalturbine.com/telecom)
+
+[Company](https://www.digitalturbine.com/about)
+
+[About](https://www.digitalturbine.com/about)[Careers](https://www.digitalturbine.com/careers)[Investors](https://ir.digitalturbine.com/)
+
+[Resources](https://www.digitalturbine.com/all-resources)
+
+[Blog](https://www.digitalturbine.com/blog)[Case Studies](https://www.digitalturbine.com/case-studies)[Insights](https://www.digitalturbine.com/insights)[Mobile Explorers](https://www.digitalturbine.com/mobile-explorers)[Engineering Blog](https://www.digitalturbine.com/collection/engineering)[Developer Portal](https://developer.digitalturbine.com/hc/en-us)
 
 Login
 
-[AdColony](https://clients.adcolony.com/login) [DT Console](https://console.fyber.com/login) [ACP Offer Wall](https://acp-edge.fyber.com/login)
+[AdColony](https://clients.adcolony.com/login)[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
 
-[Contact](#contact)
+[Contact](#)
+
+[](#)
+
+[App Developers](https://www.digitalturbine.com/app-developers)
+
+[DT Hub](https://www.digitalturbine.com/dt-hub)[Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
+
+[Brands & Agencies](https://www.digitalturbine.com/brands-agencies)
+
+[DT Creative Lab](https://www.digitalturbine.com/dt-creative-lab)
+
+[Telecom](https://www.digitalturbine.com/telecom)
+
+[Company](https://www.digitalturbine.com/about)
+
+[About](https://www.digitalturbine.com/about)[Careers](https://www.digitalturbine.com/careers)[Investors](https://ir.digitalturbine.com/)
+
+[Resources](https://www.digitalturbine.com/all-resources)
+
+[Blog](https://www.digitalturbine.com/blog)[Case Studies](https://www.digitalturbine.com/case-studies)[Insights](https://www.digitalturbine.com/insights)[Mobile Explorers](https://www.digitalturbine.com/mobile-explorers)[Engineering Blog](https://www.digitalturbine.com/collection/engineering)[Developer Portal](https://developer.digitalturbine.com/hc/en-us)
+
+[Login](#)
+
+[AdColony](https://clients.adcolony.com/login)[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
+
+[Contact us](#)
 
 Digital Turbine – Cookies and Similar Tracking Technologies Policy
 ==================================================================
 
 This Cookies and Similar Tracking Technologies Policy (this “**Policy**”) provides you with general information about cookies and similar tracking technologies (collectively, “**Tracking Technologies**”) as well as how and for what purposes Digital Turbine, Inc. (“**Digital Turbine**”, “**we**”, “**us**” or “**our**”) use such Tracking Technologies on the Digital Turbine website (“**Website**”).
 
-Please take the time to read this Policy. If you have questions or comments, you are welcome to contact us at: [\[email protected\]](https://www.digitalturbine.com/cdn-cgi/l/email-protection).
+Please take the time to read this Policy. If you have questions or comments, you are welcome to contact us at: [privacy@digitalturbine.com](mailto:privacy@digitalturbine.com).
 
 * [**What Are ‘Cookies’?**](#what)
 * [**For what purposes are Cookies being Used?**](#purposes)
@@ -254,67 +268,42 @@ This category of cookie may be safely disabled.
 | pa  | Pingdom | Registers the website’s speed and performance. This function can be used in context with statistics and load-balancing. | Persistent |
 | VISITOR\_INFO1\_LIVE | Youtube | Tries to estimate the users’ bandwidth on pages with integrated YouTube videos. | Persistent |
 
-[![](https://www.digitalturbine.com/wp-content/uploads/2022/07/logo-1.svg)](https://www.digitalturbine.com/)
+[![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661917c5a7cc10c6a4630e9f_logo-digital-turbine.svg)![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661d1550ed5858b5b592dd33_DT%20footer%20mobile%20logo.svg)](https://www.digitalturbine.com/)
 
-[![](https://www.digitalturbine.com/wp-content/uploads/2022/07/Group.svg)](https://www.digitalturbine.com/)
+Get Started
 
-* Get Started
-    * [Contact Us](#contact)
-* Audiences
-    * [App Developers](https://www.digitalturbine.com/app-developers/)
-        * [DT Hub](https://www.digitalturbine.com/dt-hub/)
-        * [Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)
-            * [DT Exchange](https://www.digitalturbine.com/dt-exchange/)
-            * [DT FairBid](https://www.digitalturbine.com/dt-fairbid/)
-            * [DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall/)
-        * [UA Solutions](https://www.digitalturbine.com/ua-solutions/)
-    * [Brands & Agencies](https://www.digitalturbine.com/brands-agencies/)
-        * [DT Creative Lab](https://www.digitalturbine.com/dt-creative-lab/)
-    * [Telecom](https://www.digitalturbine.com/telecom/)
-* Company
-    * [About](https://www.digitalturbine.com/about/)
-    * [Investors](https://ir.digitalturbine.com/)
-    * [Careers](https://www.digitalturbine.com/careers/)
-    * [Locations](https://www.digitalturbine.com/locations/)
-* Resources
-    * [All Resources](https://www.digitalturbine.com/all-resources/)
-    * [Blog](https://www.digitalturbine.com/blog/)
-    * [Case Studies](https://www.digitalturbine.com/case-studies/)
-    * [Insights](https://www.digitalturbine.com/insights/)
-    * [Mobile Explorers](https://www.digitalturbine.com/mobile-explorers/)
-    * [Engineering Blog](https://www.digitalturbine.com/collection/engineering/)
-    * [Developer Portal](https://developer.digitalturbine.com/hc/en-us)
+[Contact Us](#)
 
-* [App Developers](https://www.digitalturbine.com/app-developers/)
-    * [DT Hub](https://www.digitalturbine.com/dt-hub/)
-    * [Monetization Solutions](https://www.digitalturbine.com/app-developers#monetizationsolutions)
-        * [DT Exchange](https://www.digitalturbine.com/dt-exchange/)
-        * [DT FairBid](https://www.digitalturbine.com/dt-fairbid/)
-        * [DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall/)
-    * [UA Solutions](https://www.digitalturbine.com/ua-solutions/)
-* [Brands & Agencies](https://www.digitalturbine.com/brands-agencies/)
-    * [DT Creative Lab](https://www.digitalturbine.com/dt-creative-lab/)
-* [Telecom](https://www.digitalturbine.com/telecom/)
-* [Resources](#)
-    * [All Resources](https://www.digitalturbine.com/all-resources/)
-    * [Blog](https://www.digitalturbine.com/blog/)
-    * [Case Studies](https://www.digitalturbine.com/case-studies/)
-    * [Insights](https://www.digitalturbine.com/insights/)
-    * [Mobile Explorers](https://www.digitalturbine.com/mobile-explorers/)
-    * [Engineering Blog](https://www.digitalturbine.com/collection/engineering/)
-    * [Developer Portal](https://developer.digitalturbine.com/hc/en-us)
-* [Company](#)
-    * [About](https://www.digitalturbine.com/about/)
-    * [Careers](https://www.digitalturbine.com/careers/)
-    * [Investors](https://ir.digitalturbine.com/)
-* [Contact Us](#contact)
-* [Login](#)
-    * [Ad Colony](https://clients.adcolony.com/login)
-    * [Fyber](https://dashboard.fyber.com/login)
-    * [ACP Offer Wall](https://acp-edge.fyber.com/login)
+Audiences
 
-[![](https://www.digitalturbine.com/wp-content/uploads/2022/07/Group-3.svg)](https://www.twitter.com/digitalturbine) [![](https://www.digitalturbine.com/wp-content/uploads/2022/07/Group-5.svg)](https://www.facebook.com/DigitalTurbineInc) [![](https://www.digitalturbine.com/wp-content/uploads/2022/07/Group-6.svg)](https://www.linkedin.com/company/digital-turbine/) [![](https://www.digitalturbine.com/wp-content/uploads/2022/07/Group-7.svg)](https://www.instagram.com/digital_turbine/)
+[App Developers](https://www.digitalturbine.com/app-developers)
+
+[DT Hub](https://www.digitalturbine.com/dt-hub)[Monetization Solutions](https://www.digitalturbine.com/app-developers/#monetizationsolutions)[DT Exchange](https://www.digitalturbine.com/dt-exchange)[DT FairBid](https://www.digitalturbine.com/dt-fairbid)[DT Offer Wall](https://www.digitalturbine.com/dt-offer-wall)[UA Solutions](https://www.digitalturbine.com/ua-solutions)
+
+[Brands & Agencies](https://www.digitalturbine.com/brands-agencies)
+
+[DT Creative Lab](https://www.digitalturbine.com/dt-creative-lab)
+
+[Telecom](https://www.digitalturbine.com/telecom)
+
+Company
+
+[About](https://www.digitalturbine.com/about)[Investors](https://ir.digitalturbine.com/)[Careers](https://www.digitalturbine.com/careers)[Locations](https://www.digitalturbine.com/locations)
+
+Resources
+
+[All Resources](https://www.digitalturbine.com/all-resources)[Blog](https://www.digitalturbine.com/blog)[Case Studies](https://www.digitalturbine.com/case-studies)[Insights](https://www.digitalturbine.com/insights)[Mobile Explorers](https://www.digitalturbine.com/mobile-explorers)[Engineering Blog](https://www.digitalturbine.com/collection/engineering)[Developer Portal](https://developer.digitalturbine.com/hc/en-us)
+
+[Login](#)
+
+[AdColony](https://clients.adcolony.com/login)[DT Console](https://console.fyber.com/login)[ACP Offer Wall](https://acp-edge.fyber.com/login)
+
+[![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/66680f74c58a74547563dc02_Footer-x-social-icon%201.png)](https://www.twitter.com/digitalturbine)[![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/6641a5169776ba564d99671d_facebook-png.png)](https://www.facebook.com/DigitalTurbineInc)[![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/6641a44fc03b34d20c9d23a6_linkeding-png.png)](https://www.linkedin.com/company/digital-turbine/)[![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/6641a45acf250cf6a0ca0d54_insta-png.png)](https://www.instagram.com/digital_turbine/)
 
 Copyright © 2024 Digital Turbine, Inc. All rights Reserved.
 
-[Terms of Use](https://www.digitalturbine.com/terms-of-use/) [Privacy Policy](https://www.digitalturbine.com/privacy-policy/) [Cookie Policy](https://www.digitalturbine.com/cookie-policy/) [Do Not Sell or Share My Personal Information](https://www.digitalturbine.com/do-not-sell-or-share-my-personal-information-website/) [Legal](https://www.digitalturbine.com/legal/) [Brand Safety Policy](https://www.digitalturbine.com/brand-safety/) [Ad Content Guidelines](https://www.digitalturbine.com/adv-content-guidelines/) [Digital Services Act](https://www.digitalturbine.com/dsa/)
+[Terms of Use](https://www.digitalturbine.com/legal/terms-of-use)[Privacy Policy](https://www.digitalturbine.com/legal/privacy-policy)[Cookie Policy](https://www.digitalturbine.com/legal/cookie-policy)[Do Not Sell or Share My Personal Information](https://www.digitalturbine.com/legal/do-not-sell-or-share-my-personal-information-website)[Legal](https://www.digitalturbine.com/legal)[Brand Safety Policy](https://www.digitalturbine.com/legal/brand-safety)[Ad Content Guidelines](https://www.digitalturbine.com/legal/adv-content-guidelines)[Digital Services Act](https://www.digitalturbine.com/legal/dsa)
+
+We use cookies to operate our site and for marketing purposes. Please view our [Privacy Policy](https://www.digitalturbine.com/legal/privacy-policy) or [Do Not Sell My Personal Information](https://www.digitalturbine.com/legal/do-not-sell-or-share-my-personal-information-website) Policy for more details.
+
+![](“https://www.facebook.com/tr?id=547747572565535&ev=PageView&noscript=1”)
