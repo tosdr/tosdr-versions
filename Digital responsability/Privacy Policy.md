@@ -3,25 +3,25 @@
 [![Digital Respons-Ability](https://respons-ability.net/wp-content/uploads/2016/05/DRA_Logo_Horizontal_Blue_Lg-1-e1664317046211.png)](https://respons-ability.net/)
 
 * [Home](https://respons-ability.net/)
-* [AboutExpand](https://respons-ability.net/about/)
-    * [About Us](https://respons-ability.net/about/)
+* [About UsExpand](https://respons-ability.net/about/)
     * [Press](https://respons-ability.net/media/)
     * [ResourcesExpand](#)
         * [Webinars](https://respons-ability.net/category/webinars/)
         * [Blog Articles](https://respons-ability.net/blog/)
 * [Our ProgramsExpand](https://respons-ability.net/digital-citizenship-programs/)
     * [For EducatorsExpand](#)
-        * [Cybersecurity Courses](https://respons-ability.net/cybersecurity-for-educators/)
-        * [Educator Certification Program](https://respons-ability.net/educator-certification-program/)
-        * [Consulting Services](https://respons-ability.net/consulting-services/)
-    * [For ParentsExpand](#)
-        * [Digital Parenting Program](https://respons-ability.net/digital-parenting-resources/)
+        * [Respons-Able Educator Certification (REC) Program](https://respons-ability.net/educator-certification-program/)
+        * [Cybersecurity For Teachers](https://respons-ability.net/cybersecurity-for-educators/)
     * [For StudentsExpand](#)
         * [Online Student Curriculum](https://respons-ability.net/online-student-curriculum/)
-    * [Best Selling Books](https://respons-ability.net/books-on-digital-citizenship/)
+    * [For ParentsExpand](#)
+        * [Digital Parenting Program](https://respons-ability.net/digital-parenting-resources/)
+    * [For AdministratorsExpand](#)
+        * [Consulting Services](https://respons-ability.net/consulting-services/)
 * [Trainings By StateExpand](#)
     * [Utah](https://respons-ability.net/digital-citizenship-training-in-utah/)
     * [New Mexico](https://respons-ability.net/digital-citizenship-training-in-new-mexico/)
+* [Shop](https://respons-ability.net/shop/)
 
 [Contact Us](https://respons-ability.net/contact)
 
@@ -163,9 +163,8 @@ Effective as of November 02, 2022
 [Linkedin](https://www.linkedin.com/company/digital-respons-ability) [Facebook](https://www.facebook.com/digitalresponsability) [Twitter](https://twitter.com/Digital_Empower) [Instagram](https://www.instagram.com/digitalrespons_ability/) [Pinterest](https://www.pinterest.com/digitalresponsability/) [YouTube](https://www.youtube.com/@DigitalResponsAbility)
 
 * [Home](https://respons-ability.net/)
-* [About](https://respons-ability.net/about/)Expand child menuExpand
+* [About Us](https://respons-ability.net/about/)Expand child menuExpand
     
-    * [About Us](https://respons-ability.net/about/)
     * [Press](https://respons-ability.net/media/)
     * [Resources](#)Expand child menuExpand
         
@@ -175,17 +174,19 @@ Effective as of November 02, 2022
     
     * [For Educators](#)Expand child menuExpand
         
-        * [Cybersecurity Courses](https://respons-ability.net/cybersecurity-for-educators/)
-        * [Educator Certification Program](https://respons-ability.net/educator-certification-program/)
-        * [Consulting Services](https://respons-ability.net/consulting-services/)
-    * [For Parents](#)Expand child menuExpand
-        
-        * [Digital Parenting Program](https://respons-ability.net/digital-parenting-resources/)
+        * [Respons-Able Educator Certification (REC) Program](https://respons-ability.net/educator-certification-program/)
+        * [Cybersecurity For Teachers](https://respons-ability.net/cybersecurity-for-educators/)
     * [For Students](#)Expand child menuExpand
         
         * [Online Student Curriculum](https://respons-ability.net/online-student-curriculum/)
-    * [Best Selling Books](https://respons-ability.net/books-on-digital-citizenship/)
+    * [For Parents](#)Expand child menuExpand
+        
+        * [Digital Parenting Program](https://respons-ability.net/digital-parenting-resources/)
+    * [For Administrators](#)Expand child menuExpand
+        
+        * [Consulting Services](https://respons-ability.net/consulting-services/)
 * [Trainings By State](#)Expand child menuExpand
     
     * [Utah](https://respons-ability.net/digital-citizenship-training-in-utah/)
     * [New Mexico](https://respons-ability.net/digital-citizenship-training-in-new-mexico/)
+* [Shop](https://respons-ability.net/shop/)
