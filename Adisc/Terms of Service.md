@@ -8,7 +8,7 @@
     
 * [What's new](https://www.adisc.org/forum/whats-new/)
     
-    [New posts](https://www.adisc.org/forum/whats-new/posts/) [New media](https://www.adisc.org/forum/whats-new/media/) [New media comments](https://www.adisc.org/forum/whats-new/media-comments/) [New profile posts](https://www.adisc.org/forum/whats-new/profile-posts/) [Latest activity](https://www.adisc.org/forum/whats-new/latest-activity)
+    [Featured content](https://www.adisc.org/forum/featured/) [New posts](https://www.adisc.org/forum/whats-new/posts/) [New media](https://www.adisc.org/forum/whats-new/media/) [New media comments](https://www.adisc.org/forum/whats-new/media-comments/) [New profile posts](https://www.adisc.org/forum/whats-new/profile-posts/) [Latest activity](https://www.adisc.org/forum/whats-new/latest-activity)
     
 * [Media](https://www.adisc.org/forum/media/)
     
@@ -31,11 +31,11 @@
 
  Everywhere Threads This forum This thread
 
-Search titles only
+Search titles only _Note_
 
 By: 
 
-Search [Advanced search…](https://www.adisc.org/forum/search/)
+Search Advanced search…
 
 * [New posts](https://www.adisc.org/forum/whats-new/posts/)
     
@@ -68,14 +68,14 @@ You should upgrade or use an [alternative browser](https://www.google.com/chrome
 The Rules
 =========
 
-* Thread starter [Moo](https://www.adisc.org/forum/members/moo.1/)
-* Start date [Feb 14, 2008](https://www.adisc.org/forum/threads/the-rules.697/)
+* _Thread starter_ Thread starter [Moo](https://www.adisc.org/forum/members/moo.1/)
+* _Start date_ Start date [Feb 14, 2008](https://www.adisc.org/forum/threads/the-rules.697/)
 
 Status
 
 Not open for further replies.
 
-[![Moo](/forum/data/avatars/m/0/1.jpg?1547859760)](https://www.adisc.org/forum/members/moo.1/)
+[![Moo](/forum/data/avatars/m/0/1.jpg?1547859759)](https://www.adisc.org/forum/members/moo.1/)
 
 #### [Moo](https://www.adisc.org/forum/members/moo.1/)
 
@@ -85,7 +85,7 @@ Not open for further replies.
 
 Messages
 
-3,489
+3,521
 
 * Feb 14, 2008
 
@@ -237,9 +237,9 @@ If you do not agree with these rules/terms, you may not use our service.
 
 Last edited: Jun 9, 2024
 
-* ![Like](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Like")
+* ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
 
-Reactions: incunabula, fuzzyfuzzy, theancientmariner and 135 others
+Reactions: LostMyShy, PrincessCarmilla, hiimanew and 139 others
 
 Status
 
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
+[X (Twitter)](#_xfUid-1-1721351573) [LinkedIn](#_xfUid-1-1721351573) [Reddit](#_xfUid-1-1721351573) [Pinterest](#_xfUid-1-1721351573) [Tumblr](#_xfUid-1-1721351573) [WhatsApp](#_xfUid-1-1721351573) [Email](#_xfUid-1-1721351573) [Share](#_xfUid-1-1721351573) [Link](#_xfUid-1-1721351573)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -261,7 +261,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
 * [Help](https://www.adisc.org/forum/help/)
 * [RSS](https://www.adisc.org/forum/forums/-/index.rss "RSS")
 
-[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
+[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
 
@@ -272,7 +272,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1718968643%2C42a9d69b4dc5369c8099c99b8d73f654) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1718968643%2C42a9d69b4dc5369c8099c99b8d73f654)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1721351573%2C5be6a152f1569c1305cbb7d4fa7aeb13) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1721351573%2C5be6a152f1569c1305cbb7d4fa7aeb13)
     
     * Essential cookies
     
