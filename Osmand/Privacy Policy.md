@@ -100,7 +100,6 @@ Telegram chat
 * [Italian](https://t.me/itosmand)
 * [Ukrainian](https://t.me/uaosmand)
 * [Polish](https://t.me/osmand_pl)
-* [Russian](https://t.me/ruosmand)
 * [Spanish](https://t.me/osmand_es)
 * [Arabic](https://t.me/+NwG00ihXJlBjZTA0)
 * [Türkçe](https://t.me/OsmAndTR)
