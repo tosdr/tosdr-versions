@@ -1,6 +1,4 @@
-[![Green Brigit logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20137%2038'%3E%3C/svg%3E)
-
-![Green Brigit logo](https://www.hellobrigit.com/wp-content/uploads/2023/10/Header.svg)](https://www.hellobrigit.com/)
+[![Green Brigit logo](https://www.hellobrigit.com/wp-content/uploads/2023/10/Header.svg)](https://www.hellobrigit.com/)
 
 * [About](#)
     * [Our Story](https://www.hellobrigit.com/about)
@@ -21,9 +19,7 @@
 
 [](#)
 
-[![Green Brigit logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20137%2038'%3E%3C/svg%3E)
-
-![Green Brigit logo](https://www.hellobrigit.com/wp-content/uploads/2023/10/Header.svg)](https://www.hellobrigit.com/)[Sign up free](https://brigit.app.link/6zaZ4kdzsT)
+ [![Green Brigit logo](https://www.hellobrigit.com/wp-content/uploads/2023/10/Header.svg)](https://www.hellobrigit.com/)[Sign up free](https://brigit.app.link/6zaZ4kdzsT)
 
 Brigit Terms of Service
 =======================
