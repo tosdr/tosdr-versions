@@ -30,7 +30,7 @@ Open navigation menu [Open search](https://mezeaudio.com/search)
 * COMMUNITY
     
     * [Artists](https://mezeaudio.com/blogs/artists)
-    * [Journal](https://mezeaudio.com/blogs/news)
+    * [News](https://mezeaudio.com/blogs/news)
     * [Distributors & Dealers](https://mezeaudio.com/pages/dealers)
     
 * [PHILOSOPHY](https://mezeaudio.com/pages/philosophy)
@@ -84,7 +84,7 @@ Country
 
 * COMMUNITY
 * [Artists](https://mezeaudio.com/blogs/artists)
-* [Journal](https://mezeaudio.com/blogs/news)
+* [News](https://mezeaudio.com/blogs/news)
 * [Distributors & Dealers](https://mezeaudio.com/pages/dealers)
 
 * Open-back
@@ -103,6 +103,10 @@ Country
 
 * Limited edition
 * [109 PRO Primal](https://mezeaudio.com/pages/109-pro-primal)
+
+LIMITED TIME OFFER: 30% OFF 99 SERIES HEADPHONES FROM JULY 15TH TO 21ST
+
+[SHOP NOW](https://mezeaudio.com/collections/limited-offer)
 
 Close
 
@@ -409,6 +413,6 @@ Subscribe
 * [](https://www.tiktok.com/@mezeaudio)
 * [](https://www.linkedin.com/company/meze-headphones)
 
-American Express Apple Pay MastercardPayPalVisa  [![](https://cdn.shopify.com/shopifycloud/checkout-web/assets/1bf3da747615450e4b293760dc70186b.svg) Klarna](https://mezeaudio.com/pages/about-klarna)
+Apple Pay Google Pay PayPal  [![](https://cdn.shopify.com/shopifycloud/checkout-web/assets/1bf3da747615450e4b293760dc70186b.svg) Klarna](https://mezeaudio.com/pages/about-klarna)
 
 © 2024, Meze Audio - Sound. Comfort. Design. True high-end.
