@@ -263,10 +263,12 @@ Updated: April 25, 2018
 Site Menu
 ---------
 
-* [What Medicare covers](https://www.medicare.gov/what-medicare-covers "What Medicare covers")
+* [Health & drug plans](https://www.medicare.gov/health-drug-plans)
+* [Medicare basics](https://www.medicare.gov/basics)
+* [Providers & services](https://www.medicare.gov/providers-services)
+* [What Medicare covers](https://www.medicare.gov/coverage)
 * [Drug coverage (Part D)](https://www.medicare.gov/drug-coverage-part-d "Drug coverage (Part D)")
 * [Claims & appeals](https://www.medicare.gov/claims-appeals "Claims & appeals")
-* [Manage your health](https://www.medicare.gov/manage-your-health "Manage your health")
 * [Site map](https://www.medicare.gov/sitemap "Site map")
 
 Take Action
