@@ -1,7 +1,9 @@
-[![Pokémon Sleep](https://www.pokemonsleep.net/wp/wp-content/themes/sleep/img/logo-4.png)](https://www.pokemonsleep.net/en/)
-============================================================================================================================
+[![Pokémon Sleep](/img/logo-4.png)](https://www.pokemonsleep.net/en/)
+=====================================================================
 
-![](https://www.pokemonsleep.net/wp/wp-content/themes/sleep/img/logo-4.png)
+![Pokémon Sleep](/img/logo-4.png)
+
+![Pokémon Sleep](/img/logo-4.png)
 
 * [Home](https://www.pokemonsleep.net/en/)
 * [News](https://www.pokemonsleep.net/en/news/)
