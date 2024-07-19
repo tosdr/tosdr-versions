@@ -24,15 +24,17 @@ A part of the People / Entertainment Weekly Network.
 © 2014 Myspace LLC.  
 All rights reserved
 
+NEW
+
 Privacy Policy
-==============
+=====================
 
 _Privacy Policy_
 ================
 
 Our Privacy Policy has changed. Please review it carefully because your use of Myspace is governed by this updated Privacy Policy and our [Terms of Use](https://myspace.com/pages/terms).
 
-**Effective Date:** This Privacy Policy was last revised on January 9, 2023.
+**Effective Date:** This Privacy Policy was last revised on June 25, 2024.
 
 Myspace LLC ("**Myspace**," "**we**," "**our**," or "**us**") recognizes the importance of consumer privacy and we take this issue seriously. Accordingly, we have designed this Privacy Policy (this "**Policy**") in a format that is easy to navigate so that you can better understand our privacy practices with respect to the information provided or collected on or through any of the [Myspace Services](#1.) (defined below) that contain a link to this Policy. The Myspace Services are operated by Myspace, a company with a mailing address of 2722 Michelson Dr. #100, Irvine, CA 92612, which is owned by the digital media company Viant Technology ("**VIANT**"). Please take a moment to familiarize yourself with this entire Policy prior to providing us with any information through the Myspace Services. Throughout the Policy we use capitalized defined terms. These terms are intended to have the meaning given to them in the Policy.
 
@@ -206,7 +208,14 @@ Privacy Policy
 
 17. CCPA Reporting Metrics
     
-    The California Consumer Privacy Act (CCPA) Regulations require businesses such as MySpace to disclose metrics regarding the number of requests to know, delete and opt-out. MySpace reports on all requests submitted under CCPA and other state data privacy rights as MySpace records all incoming requests received from data subjects regardless of location. To prevent fraud when responding to these requests, consumers are required to click on a confirmation link sent to their email address. Some consumers failed to click on the confirmation link and some consumers made multiple CCPA request submissions while their initial requests were still pending. Those subsequent requests were closed. These consumer requests (i.e., expired links and multiple requests) are captured in the number of requests denied as unverifiable. Additionally, because MySpace offers all consumers the ability to exercise their rights to access and delete their data through self-service options these metrics exclude data regarding the majority of successfully completed access requests made using self-service capabilities. For the calendar year ending December 31, 2022 MySpace received 1,508 Requests to Access, of which 136 were completed and 1,372 were denied/unverified; and 3,161 Requests to Delete, of which 285 were completed, and 2,876 were denied/unverified. MySpace took an average of 20 days to respond to each request.
+    California law requires that we provide certain metrics about consumer rights requests received in the previous calendar year. The metrics provided below include requests Myspace has received globally for the 2023 calendar year.
+    
+    * Requests to Opt Out: 1,771 received, all of which were completed.
+    * Requests to Know: 239 received, of which 204 were completed and 35 were not verified.
+    * Requests to Delete: 974 received, of which 898 were completed and 76 were not verified.
+    * Requests to Correct: 126 received, of which 110 were completed and 16 were not verified.
+    * Requests to limit: 0 received.
+    * Myspace took an average of 11 days to fulfill each request.
     
 
 19. If There Are Changes To The Policy
