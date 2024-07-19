@@ -25,51 +25,15 @@
     
     * Developers
         
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2025'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-book-closed.svg)
-            
-            [Documentation](https://docs.docker.com/) Find guides for Docker products
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-atom.svg)
-            
-            [Getting Started](https://www.docker.com/get-started/)Learn the Docker basics
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-graduation-hat.svg)
-            
-            [Resources](https://www.docker.com/resources/)Search a library of helpful materials
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2022%2016'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-youtube.svg)
-            
-            [Training](https://www.docker.com/resources/trainings/)Skill up your Docker knowledge
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-puzzle-piece.svg)
-            
-            [Extensions SDK](https://www.docker.com/developers/sdk/)Create and share your own extensions
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-heart-hand.svg)
-            
-            [Community](https://www.docker.com/community/)Connect with other Docker developers
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-container.svg)
-            
-            [Open Source](https://www.docker.com/products/trusted-open-source-content/)Explore open source projects
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-eye.svg)
-            
-            [Preview Program](https://www.docker.com/community/get-involved/developer-preview/)Help shape the future of Docker
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-blue-users-01.svg)
-            
-            [Customer Stories](https://www.docker.com/customer-stories/)Get inspired with customer stories
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-book-closed.svg)[Documentation](https://docs.docker.com/) Find guides for Docker products
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-atom.svg)[Getting Started](https://www.docker.com/get-started/)Learn the Docker basics
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-graduation-hat.svg)[Resources](https://www.docker.com/resources/)Search a library of helpful materials
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-youtube.svg)[Training](https://www.docker.com/resources/trainings/)Skill up your Docker knowledge
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-puzzle-piece.svg)[Extensions SDK](https://www.docker.com/developers/sdk/)Create and share your own extensions
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-heart-hand.svg)[Community](https://www.docker.com/community/)Connect with other Docker developers
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-container.svg)[Open Source](https://www.docker.com/products/trusted-open-source-content/)Explore open source projects
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-eye.svg)[Preview Program](https://www.docker.com/community/get-involved/developer-preview/)Help shape the future of Docker
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-blue-users-01.svg)[Customer Stories](https://www.docker.com/customer-stories/)Get inspired with customer stories
         * [Get the latest Docker news](https://www.docker.com/newsletter-subscription/)
     * MORE resources for developers
         
@@ -103,6 +67,14 @@
         * [Docker Store](https://stores.kotisdesign.com/docker) Gear up with exclusive SWAG
         * [Careers](https://www.docker.com/careers/)Apply to join our team
         * [Contact Us](https://www.docker.com/company/contact/)We’d love to hear from you
+    * Company
+        
+        Docker Announces SOC 2 Type 2 Attestation & ISO 27001 Certification
+        
+        Learn what this means for Docker security and compliance
+        
+        [Read more](https://www.docker.com/blog/docker-announces-soc-2-type-2-attestation-iso-27001-certification/)
+        
     
 * [Get started](https://www.docker.com/get-started/)
 * [Docs](https://docs.docker.com/build/cloud/)
@@ -140,51 +112,15 @@
     
     * Developers
         
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2025'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-book-closed.svg)
-            
-            [Documentation](https://docs.docker.com/) Find guides for Docker products
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-atom.svg)
-            
-            [Getting Started](https://www.docker.com/get-started/)Learn the Docker basics
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-graduation-hat.svg)
-            
-            [Resources](https://www.docker.com/resources/)Search a library of helpful materials
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2022%2016'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-youtube.svg)
-            
-            [Training](https://www.docker.com/resources/trainings/)Skill up your Docker knowledge
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-puzzle-piece.svg)
-            
-            [Extensions SDK](https://www.docker.com/developers/sdk/)Create and share your own extensions
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-heart-hand.svg)
-            
-            [Community](https://www.docker.com/community/)Connect with other Docker developers
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-container.svg)
-            
-            [Open Source](https://www.docker.com/products/trusted-open-source-content/)Explore open source projects
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-eye.svg)
-            
-            [Preview Program](https://www.docker.com/community/get-involved/developer-preview/)Help shape the future of Docker
-        * ![icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
-            
-            ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-blue-users-01.svg)
-            
-            [Customer Stories](https://www.docker.com/customer-stories/)Get inspired with customer stories
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-book-closed.svg)[Documentation](https://docs.docker.com/) Find guides for Docker products
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-atom.svg)[Getting Started](https://www.docker.com/get-started/)Learn the Docker basics
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-graduation-hat.svg)[Resources](https://www.docker.com/resources/)Search a library of helpful materials
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-youtube.svg)[Training](https://www.docker.com/resources/trainings/)Skill up your Docker knowledge
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-puzzle-piece.svg)[Extensions SDK](https://www.docker.com/developers/sdk/)Create and share your own extensions
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-heart-hand.svg)[Community](https://www.docker.com/community/)Connect with other Docker developers
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-container.svg)[Open Source](https://www.docker.com/products/trusted-open-source-content/)Explore open source projects
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/05/icon-eye.svg)[Preview Program](https://www.docker.com/community/get-involved/developer-preview/)Help shape the future of Docker
+        * ![icon](https://www.docker.com/wp-content/uploads/2024/06/icon-blue-users-01.svg)[Customer Stories](https://www.docker.com/customer-stories/)Get inspired with customer stories
         * [Get the latest Docker news](https://www.docker.com/newsletter-subscription/)
     * MORE resources for developers
         
@@ -218,6 +154,14 @@
         * [Docker Store](https://stores.kotisdesign.com/docker) Gear up with exclusive SWAG
         * [Careers](https://www.docker.com/careers/)Apply to join our team
         * [Contact Us](https://www.docker.com/company/contact/)We’d love to hear from you
+    * Company
+        
+        Docker Announces SOC 2 Type 2 Attestation & ISO 27001 Certification
+        
+        Learn what this means for Docker security and compliance
+        
+        [Read more](https://www.docker.com/blog/docker-announces-soc-2-type-2-attestation-iso-27001-certification/)
+        
     
 * [Get started](https://www.docker.com/get-started/)
 * [Docs](https://docs.docker.com/build/cloud/)
