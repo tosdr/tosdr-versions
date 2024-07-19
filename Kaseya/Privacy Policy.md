@@ -349,31 +349,31 @@
     
     Blog
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages1-600x400.png)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS-Webinar-Introducing-Kaseya-600x400-1.png)
     
-    Reclaim Your Summer by Automating Daily IT Tasks With RMM Automation
+    What are Update Rings and Why are they Important? 
     
-    June 18
+    July 19
     
-    10 minute read](https://www.kaseya.com/blog/reclaim-your-summer-automate-it-tasks-with-rmm/)
+    7 minute read](https://www.kaseya.com/blog/update-rings/)
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/06/GettyImages-600x400.png)
+    [![](https://www.kaseya.com/wp-content/uploads/2024/07/Badge-Winner-600x400.jpg)
     
-    Kaseya’s Partner First Pledge: Sharing Risks and Rewards With IT Departments and MSPs
+    Kaseya Awarded Over a Dozen Channel Program Badges
     
-    6 minute read](https://www.kaseya.com/blog/kaseya-partner-first-pledge/)
+    July 17
+    
+    1 minute read](https://www.kaseya.com/blog/kaseya-awarded-channel-program-badges/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/06/VSA_Webinar_2024-IT-Future-Surveys-2-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/07/K365-Webinar-Securing-1200x800-px-300x200.jpg)
     
-    2024 IT Futures Surveys
+    Automate Essential Security and Boost Profits With Kaseya 365
     
-    June 27
-    
-    Thursday @ 2PM EST
+    July 25
     
     [View All Events](https://www.kaseya.com/events/)
     
