@@ -162,6 +162,11 @@ United States
 What customers say about Buttondown
 -----------------------------------
 
+Doesn't matter if you're sending out irregular updates to a few dozen friends, or marketing your business to a thousand recipients. It is absolutely a joy to use. The documentation is great. And Justin provides the best support I have ever encountered. Amazon isn't the world's most customer-centric company, Buttondown is.
+
+Tilde Lowengrimm  
+Head of Strategy, Red Queen Dynamics
+
 I made the transition from MailerLite and I have no regrets. I also like that Buttondown focuses on the essentials by design and keeps me grounded and centered on what really matters.
 
 Arthur Cendrier  
