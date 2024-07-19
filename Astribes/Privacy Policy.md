@@ -3,15 +3,12 @@
 Astribes
 
 * [Home](https://astribes.com/ "O Astribes")
-* [Astrology](https://astribes.com/policy/signo "Astrologia")
-* [Download](# "Astrologia")
+* [Astrology](https://astribes.com/policy/astrologia "Astrologia")
+* [Blog](https://astribes.com/blog/ "Blog Astribes")
+* [Download](# "Download Astribes")
 * [Contact](mailto:support@astribes.com "Astrologia")
 
  [![Astribes](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/logo.png) ![Astribes](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/logo.png)](https://astribes.com/)
-
-##### Contact
-
-[support@astribes.com](mailto:support@astribes.com)
 
 ##### Follow us
 
@@ -115,6 +112,95 @@ Download now!
 
 [![download on app store](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/app/badge-apple.png)](https://apps.apple.com/us/app/astribes/id6444350021) [![download on google play](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/app/badge-google.png)](https://play.google.com/store/apps/details?id=com.astribes)  
   
+  
+
+Meanings
+
+**Zodiacs**
+
+[![Aries](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/aries.jpg)](https://astribes.com/en/sign/aries "ARIES")
+
+Sun in
+
+[ARIES](https://astribes.com/en/sign/aries)
+-------------------------------------------
+
+[![Taurus](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/touro.jpg)](https://astribes.com/en/sign/taurus "TAURUS")
+
+Sun in
+
+[TAURUS](https://astribes.com/en/sign/taurus)
+---------------------------------------------
+
+[![Gemini](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/gemeos.jpg)](https://astribes.com/en/sign/gemini "GEMINI")
+
+Sun in
+
+[GEMINI](https://astribes.com/en/sign/gemini)
+---------------------------------------------
+
+[![Cancer](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/cancer.jpg)](https://astribes.com/en/sign/cancer "CANCER")
+
+Sun in
+
+[CANCER](https://astribes.com/en/sign/cancer)
+---------------------------------------------
+
+[![Leo](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/leao.jpg)](https://astribes.com/en/sign/leo "LEO")
+
+Sun in
+
+[LEO](https://astribes.com/en/sign/leo)
+---------------------------------------
+
+[![Virgo](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/virgem.jpg)](https://astribes.com/en/sign/virgo "VIRGO")
+
+Sun in
+
+[VIRGO](https://astribes.com/en/sign/virgo)
+-------------------------------------------
+
+[![Libra](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/libra.jpg)](https://astribes.com/en/sign/libra "LIBRA")
+
+Sun in
+
+[LIBRA](https://astribes.com/en/sign/libra)
+-------------------------------------------
+
+[![Scorpio](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/escorpiao.jpg)](https://astribes.com/en/sign/scorpio "SCORPIO")
+
+Sun in
+
+[SCORPIO](https://astribes.com/en/sign/scorpio)
+-----------------------------------------------
+
+[![Sagittarius](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/sagitario.jpg)](https://astribes.com/en/sign/sagittarius "SAGITTARIUS")
+
+Sun in
+
+[SAGITTARIUS](https://astribes.com/en/sign/sagittarius)
+-------------------------------------------------------
+
+[![Capricorn](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/capricornio.jpg)](https://astribes.com/en/sign/capricorn "CAPRICORN")
+
+Sun in
+
+[CAPRICORN](https://astribes.com/en/sign/capricorn)
+---------------------------------------------------
+
+[![Aquarius](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/aquario.jpg)](https://astribes.com/en/sign/aquarius "AQUARIUS")
+
+Sun in
+
+[AQUARIUS](https://astribes.com/en/sign/aquarius)
+-------------------------------------------------
+
+[![Pisces](https://astribes-cdn.sfo3.cdn.digitaloceanspaces.com/site-assets/img/blog/peixes.jpg)](https://astribes.com/en/sign/pisces "PISCES")
+
+Sun in
+
+[PISCES](https://astribes.com/en/sign/pisces)
+---------------------------------------------
 
  [![Astribes](https://astribes.com/assets/img/logo.png) ![Astribes](https://astribes.com/assets/img/logo.png)](https://astribes.com/)
 
@@ -126,6 +212,7 @@ Download now!
 
 * [Home](https://astribes.com/)
 * [Astrology](https://astribes.com/en/astrologia)
+* [Blog](https://astribes.com/blog/)
 * [Download](https://astribes.com/#download)
 
 #### ASTROLOGY
@@ -138,6 +225,6 @@ Download now!
 #### LEGAL
 
 * [Terms Of Use](https://astribes.com/en/terms)
-* [Privacy Policy](https://astribes.com/en/policy)
+* [Privacy Policy](https://astribes.com/en/privacy)
 
 © 2024 Astribes. All Rights Reserved.
