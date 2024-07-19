@@ -69,7 +69,7 @@
 Select Language: English Français Deutsch Italiano 한국어 日本語 Português Español 简体中文 繁體中文 العربية Dansk Suomi Norwegian Русский Svenska Türkçe
 
 Effective Date: June 15, 2020  
-Last update date: April 05, 2024
+Last update date: July 12, 2024
 
 Privacy Policy
 --------------
@@ -79,6 +79,8 @@ Jam City, Inc., along with its affiliates and subsidiaries (collectively ‘Jam 
 This Privacy Policy may be updated from time to time, so please be sure to check regularly. We will notify you of any material changes by posting the new Privacy Policy on the primary access points to the Services or as otherwise required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use our Services after the new Privacy Policy takes effect.
 
 Specific games may have additional privacy disclosures not covered in this policy – make sure to review the privacy disclosures applicable to every game you play.
+
+California Notice at Collection – For residents of California, at or before the time of collection of your personal information, you have the right to receive notice of our data practices. Click [here](https://www.jamcity.com/privacyandterms/#subSection011) to view the section regarding California specific disclosures.
 
 ### Meaning of Personal Data
 
@@ -166,7 +168,7 @@ _Functionality Related._ We may use Technologies that allow us to offer you enha
 
 _Advertising or Targeting Related._ We may use first party or third-party Technologies to deliver content, including ads relevant to your interests, on our Services or on third-party digital properties.
 
-For more information about your ability to control the use of these Technologies, please see [Your Rights and Choices](https://docs.google.com/document/d/1YzIBzz5ZCuv_wmFWp-_hRmRJ6tq_u1Pl/edit#heading=h.tyjcwt) below.
+For more information about your ability to control the use of these Technologies, please see [Your Rights and Choices](https://www.jamcity.com/privacyandterms/#subSection06) below.
 
 **_Data We Receive From Other Sources_**
 
@@ -194,7 +196,7 @@ _To Market Our Products and Services_ including to provide you with materials ab
 
 _To Create De-Identified and Aggregate Reports._ We may use Personal Data and other information about you to create de-identified and/or aggregated information, such as de-identified demographic information, de-identified location information, de-identified or aggregated trends, reports, or statistics, de-identified or aggregated information about the computer or device from which you access our Services, or other analyses we create. 
 
-_To Engage in Automated Decision Making_. We may engage in automated decision making, including profiling. For example, we may engage in automated decision making to match you with users of a similar skill level in online matches. Jam City’s processing of your Personal Data will not result in a decision based solely on automated processing that significantly affects you unless such a decision is necessary as part of a contract we have with you, we have your consent, or we are permitted by law to engage in such automated decision making. If you have questions about our automated decision making, you may contact us as set forth in ‘[Contact Us](https://docs.google.com/document/d/1YzIBzz5ZCuv_wmFWp-_hRmRJ6tq_u1Pl/edit#heading=h.26in1rg)‘ below.
+_To Engage in Automated Decision Making_. We may engage in automated decision making, including profiling. For example, we may engage in automated decision making to match you with users of a similar skill level in online matches. Jam City’s processing of your Personal Data will not result in a decision based solely on automated processing that significantly affects you unless such a decision is necessary as part of a contract we have with you, we have your consent, or we are permitted by law to engage in such automated decision making. If you have questions about our automated decision making, you may contact us as set forth in ‘[Contact Us](https://www.jamcity.com/privacyandterms/#subSection121)‘ below.
 
 _Other Uses._ We may use Personal Data to pursue our legitimate interests, research (including marketing research), network and information security, and fraud prevention. In addition, Jam City may use Personal Data for other purposes that are clearly disclosed to you at the time you provide Personal Data or with your consent.
 
@@ -230,7 +232,7 @@ Jam City may sell, transfer, or otherwise share some or all of its assets, inclu
 
 _APIs/SDKs:_
 
-We may use third party APIs and software development kits (‘SDKs’) as part of the functionality of our Services. APIs and SDKs may allow third parties including advertising partners to collect your Personal Data to provide content that is more relevant to you. For more information about our use of APIs and SDKs, please [contact us](https://docs.google.com/document/d/1YzIBzz5ZCuv_wmFWp-_hRmRJ6tq_u1Pl/edit#heading=h.26in1rg) as set forth below.
+We may use third party APIs and software development kits (‘SDKs’) as part of the functionality of our Services. APIs and SDKs may allow third parties including advertising partners to collect your Personal Data to provide content that is more relevant to you. For more information about our use of APIs and SDKs, please [contact us](https://www.jamcity.com/privacyandterms/#subSection121) as set forth below.
 
 _Advertising Partners:_ 
 
@@ -338,7 +340,7 @@ All Personal Data collected by Jam City may be transferred, processed, and store
 
 If we transfer Personal Data which originates in the European Economic Area, Switzerland, and/or the United Kingdom to a country that has not been found to provide an adequate level of protection under applicable data protection laws, one of the safeguards we may use to support such transfer is the [EU Standard Contractual Clauses](https://commission.europa.eu/publications/standard-contractual-clauses-international-transfers_en).
 
-For more information about the safeguards we use for internal transfers of your Personal Data, please refer to the table below or [contact us](https://docs.google.com/document/d/1YzIBzz5ZCuv_wmFWp-_hRmRJ6tq_u1Pl/edit#heading=h.26in1rg) as set forth below.
+For more information about the safeguards we use for internal transfers of your Personal Data, please refer to the table below or [contact us](https://www.jamcity.com/privacyandterms/#subSection121) as set forth below.
 
 Table titles:
 
@@ -419,18 +421,23 @@ The information we have collected within the last twelve (12) months about you, 
 
 We may use or disclose the Personal Data we collect for the purposes outlined in Use of Information above. Where required under applicable law, we will not collect additional categories of Personal Data or use the Personal Data we have collected for materially different, unrelated, or incomplete purposes without first providing you notice.
 
-**_Sales/Sharing of Personal Data:_**
+**_Sales/Sharing/Targeted Advertising:_**
 
-Jam City does not ‘sell’ Personal Data, nor do we have actual knowledge of any ‘sale’ of Personal Data of minors under 16 years of age as the term ‘sale’ is commonly understood. That said, we may share information with third-party advertising partners for the purpose of promoting our Services as described above and to generate revenue in our games. You may limit such sharing by following the instructions found above in the section titled, [Your Rights and Choices](https://docs.google.com/document/d/1YzIBzz5ZCuv_wmFWp-_hRmRJ6tq_u1Pl/edit#heading=h.tyjcwt) -> Cookies and Interest-Based Advertising, or by contacting us set forth in ‘[Contact Us’](https://docs.google.com/document/d/1YzIBzz5ZCuv_wmFWp-_hRmRJ6tq_u1Pl/edit#heading=h.26in1rg) below.
+Some of our disclosures of Personal Data may be considered a “sale” or “share” as those terms are defined under applicable law. In many states, a “sale” is broadly defined to include a disclosure for something of value, and, in California, a “share” is broadly defined to include a disclosure for cross-context behavioral advertising. We collect, sell, or share the categories of Personal Data as described in the table above.
 
-**_Your Rights and Choices:_**
+**_Your Rights:_**
 
-Subject to applicable law, if you are a resident of California, Virginia, Connecticut, Utah, or Colorado, you may have the following rights:
+Subject to applicable law (and verification as applicable) you have the right to request the following from us:
 
-* **To Know and Access:** to obtain a copy of the specific pieces of Personal Data we have collected about you. (Note that this right only applies to Personal Data relating to you, and not to any other user.)
-* **Deletion:** to request that we delete your Personal Data. This right may be limited to the extent that we are permitted or required by applicable law to retain certain information. (Note that if you request deletion of your Personal Data, you may no longer be able to use or access the Services. If you decide to use or access the Services again, we may consider this a new account, and may collect Personal Data associated with that account in accordance with this Privacy Policy.)
-* **Opt-Out of ‘Sale’ and Certain Sharing Practices:** you have the right to opt-out of certain information sharing practices with third parties who do not act as our service providers. In some states, like California, this information sharing may qualify as a ‘share’ or a ‘sale,’ while in other states, like Virginia, this information sharing may qualify as ‘targeted advertising’ (collectively, ‘personalized advertising’). If you wish to opt-out of personalized advertising, you can opt out of said sharing by contacting us as set forth in ‘Contact Us’ below.
-* **Correction:** to request the correction of inaccurate Personal Data that we may have on file about you.
+* **To Know and Access:** a copy of the specific pieces of Personal Data we have collected about you. You also have the right to confirm whether we are processing your Personal Data and what Personal Data we have collected about you, the categories from which Personal Data was collected, the business or commercial purposes for collecting, selling, or sharing Personal Data, the categories of Personal Data that we sold, shared, or disclosed for a business purpose, and the categories of third parties to whom we disclosed Personal Data. To exercise this privacy right, you may submit a request at [https://support.jamcity.com/privacyrequest](https://support.jamcity.com/privacyrequest), or by contacting us at [privacy@jamcity.com](mailto:privacy@jamcity.com).
+
+* **Deletion:** that we delete your Personal Data. This right may be limited to the extent that we are permitted or required by applicable law to retain certain information. (Note that if you request deletion of your Personal Data, you may no longer be able to use or access the Services. If you decide to use or access the Services again, we may consider this a new account, and may collect Personal Data associated with that account in accordance with this Privacy Policy.) To exercise this privacy right, you may submit a request at [https://support.jamcity.com/privacyrequest](https://support.jamcity.com/privacyrequest), or by contacting us at [privacy@jamcity.com](mailto:privacy@jamcity.com).
+
+* **Opt-Out of Sales/Sharing/Targeted Advertising:**  
+    You have the right to opt-out of us selling or sharing your Personal Data to third parties, or processing your Personal Data for purposes of targeted advertising. To opt out of such selling, sharing, and targeting advertising based on online cookies specific to our websites, you may click the “Do Not Sell or Share My Personal Information” link in the footers of our websites and click the “Deny” button in our cookie manager. Please note that, because these activities are based on online cookies, your opt-out choice is specific to each website. If you access other digital properties (including mobile apps) of Jam City, you will need to make your election for each. Also, if you clear your cookies on your browser or use another browser or device, you may need to opt out again on each website. To opt out of such selling, sharing, and targeted advertising within our apps, you may provide the information requested in this opt out form: [https://support.jamcity.com/stateoptout](https://support.jamcity.com/stateoptout) (which is also linked in our cookie manager on our websites) or email us at [ccpaoptout@jamcity.com](mailto:ccpaoptout@jamcity.com).
+
+* **Correction:** the correction of inaccurate Personal Data that we have on file about you. To exercise this privacy right, you may contact us at [privacy@jamcity.com](mailto:privacy@jamcity.com).
+
 * **Obtain additional details regarding our information practices:** You may have the right to request disclosures regarding our information practices. (Note that this information is generally available in this Privacy Policy.)
 
 We will not discriminate against you, in terms of price or services that we offer, if you exercise any of the rights listed above.
@@ -439,7 +446,7 @@ _Verification and Appeal Process:_ We are required by law to take reasonable ste
 
 If you are a resident of Colorado, Virginia, or Connecticut, you have the right to appeal a request we deny when we have verified your identity and still decline to honor your request. The process for that appeal will be sent to you separately if your request is denied. 
 
-_Authorized Agent:_ Depending on where you live, you may have the right to use an authorized agent on their behalf to exercise a privacy right discussed above. If you are an authorized agent acting on behalf of a user to communicate with us or to exercise a privacy right discussed above, you must be able to demonstrate that you have the requisite authorization to act on behalf of the user, and have sufficient access to that user’s laptop, desktop, or mobile device to exercise that user’s right digitally. If you are an authorized agent trying to exercise rights on behalf of one of our users, then you can make a request on the user’s behalf by contacting us as set forth below in the ‘Contact Us’ section. Such requests must include the following information: (1) a written authorization from the consumer that includes the consumer’s full name, address, telephone number and valid email address used by the consumer to interact with us, that is signed by the consumer and clearly bestows upon the agent the proper authority; and (2) a certificate of good standing with your state of organization.  Alternatively, an acting agent can provide a valid power of attorney signed by the consumer on the agent’s behalf and a valid email address used by the consumer to interact with us.  The email address of the consumer will be used to separately verify the agent’s authority with the consumer.    
+_Authorized Agent:_ Depending on where you live, you may have the right to use an authorized agent on your behalf to exercise a privacy right discussed above. If you are an authorized agent acting on behalf of a user to exercise a privacy right discussed above, you must be able to demonstrate that you have the requisite authorization to act on behalf of the consumer. If you are an authorized agent trying to opt out of selling, sharing, and targeting advertising on behalf of a consumer, then you can make a request on the consumer’s behalf by providing the information requested in this opt out form: [https://support.jamcity.com/stateoptout](https://support.jamcity.com/stateoptout), or by contacting us at [ccpaoptout@jamcity.com](mailto:ccpaoptout@jamcity.com). If you are an authorized agent trying to exercise data access or deletion rights on behalf of a consumer, then you can make a request on the consumer’s behalf by providing the information requested in this form: [https://support.jamcity.com/privacyrequest](https://support.jamcity.com/privacyrequest), or by contacting us at [privacy@jamcity.com](mailto:privacy@jamcity.com). If you are an authorized agent trying to exercise any other privacy right on behalf of a consumer, you may contact us at [privacy@jamcity.com](mailto:privacy@jamcity.com). To the extent permitted by applicable law, such requests must include the following information: (1) a written authorization from the consumer that includes the consumer’s first name, last name, and valid email address used by the consumer to interact with us, that is signed by the consumer and clearly bestows upon the agent the proper authority; and (2) a certificate of good standing with your state of organization. Alternatively, an acting agent can provide a valid power of attorney signed by the consumer on the agent’s behalf and a valid email address used by the consumer to interact with us. The email address of the consumer will be used to separately verify the agent’s authority with the consumer. The consumer may then be directed to submit a request through the designated methods above.
 
 _Refer-a-Friend, Promotions, and Similar Incentive Programs:_ We may offer referral programs, promotions such as sweepstakes, or other incentivized information collection programs. We may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide Personal Data regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) Alternatively, we may ask you to provide your Personal Data in exchange for a reward or participation in a promotion. These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your information to us depends on how you ultimately use our Services, whereas the value of the referred party’s information to us depends on whether the referred party ultimately uses our Services. Said value will be reflected in the incentive offered in connection with each program. You may withdraw from the incentives at any time. In order to withdraw from the financial incentive, please contact us as described below. 
 
