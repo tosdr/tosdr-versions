@@ -4,6 +4,8 @@
 
  ![logo arcinfo](/_nuxt/5c6a719766aa9effb2bde1fbee0e4264.svg) ![logo arcinfo](/_nuxt/85050b8c12c57bf6bcaac44d1fc9bfbd.svg)
 
+[Je m'abonne](https://www.arcinfo.ch/pages/nos-offres-d-abonnement/)
+
 * [Notre sélection](https://www.arcinfo.ch/pages/conditions-generales-sur-arcinfo/)
     
     * [Votre été](https://www.arcinfo.ch/culture-loisirs/votre-ete/)
@@ -131,7 +133,17 @@ Avenue du Vignoble 3
 
 Tél. 032 723 53 00
 
-Les présentes conditions générales règlent les relations entre La Société Neuchâteloise de Presse SA; ci-après collectivement « nous » ou « SNP », en leur qualité de fournisseur de produits et de services, en particulier nos offres éditoriales print (ci-après « produits »), digitales, ainsi que les applications mobiles (ci-après « offres numériques ») et vous, en votre qualité d’utilisateur de ces produits et offres numériques.
+Et les espaces publicitaires sont commercialisés par:
+
+Impactmédias SA
+
+Av. du Vignoble 3, 
+
+2000 Neuchâtel
+
+Tél. 032 723 52 00
+
+Les présentes conditions générales règlent les relations entre La Société Neuchâteloise de Presse SA et Impactmédias SA; ci-après collectivement « nous » ou « SNP », en leur qualité de fournisseur de produits et de services, en particulier nos offres éditoriales print (ci-après « produits »), digitales, ainsi que les applications mobiles (ci-après « offres numériques ») et vous, en votre qualité d’utilisateur de ces produits et offres numériques.
 
 En utilisant nos produits et nos offres numériques, vous acceptez sans réserve que les présentes conditions générales fassent partie intégrante de notre relation contractuelle. Notre politique en matière de protection des données fait partie intégrante des présentes conditions générales (voir point G).
 
