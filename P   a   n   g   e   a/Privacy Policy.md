@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-130,361 members - 450,418,791 ads shown  
+130,662 members - 450,807,051 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 130,361 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 130,662 MEMBERS!  
   
   
 
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://colormyads.com/banner2.gif)](https://colormyads.com/lunerhive)
+[![](https://bannerwiz.com/banners/gr8banners/1jase3tier125whitejfif.png)](https://jasemedical.com/?rstr=21674)
+
+[![](https://geniecoop.com/ban33.gif)](https://geniecoop.com/nightmagic)
+
+[![](https://websitetrafficrewards.com/banners/banner125x125-1.gif)](https://websitetrafficrewards.com/?r=nightmagic&t=9)
 
 [![](https://topdogsrotator.com/b125.gif)](https://topdogsrotator.com/sabdev)
-
-[![](https://cherrytraffic.com/ban2.gif)](https://cherrytraffic.com/pickinpea)
-
-[![](https://1goldmine.com/ban5.gif)](https://1goldmine.com/sabdev)
 
 ![](26yrs0.gif)
 
