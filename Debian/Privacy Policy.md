@@ -187,6 +187,6 @@ How to set [the default document language](https://www.debian.org/intro/cn)
 
 See our [contact page](https://www.debian.org/contact) to get in touch. Web site source code is [available](https://salsa.debian.org/webmaster-team/webwml).
 
-Last Modified: Tue, Feb 13 13:41:50 UTC 2024   Last Built: Fri, Jun 7 23:48:44 UTC 2024  
+Last Modified: Tue, Feb 13 13:41:50 UTC 2024   Last Built: Sat, Jun 29 23:48:10 UTC 2024  
 Copyright © 1997-2024 [SPI](https://www.spi-inc.org/) and others; See [license terms](https://www.debian.org/license)  
 Debian is a registered [trademark](https://www.debian.org/trademark) of Software in the Public Interest, Inc.
