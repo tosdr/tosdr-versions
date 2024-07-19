@@ -199,7 +199,7 @@ You use the Service at your own risk. We implement commercially reasonable techn
 
 **9\. YOUR CHOICES**
 
-In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Services, you may be unable to use those features. You can also log in to your Dutchie account or [contact us](#contact-us) to request updates or corrections to your Personal Information. If you have questions or concerns about other Personal Information collected by us or are unable to use your Dutchie account and would like assistance accessing that information, please contact our Privacy Officer at [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Services, you may be unable to use those features. You can also log in to your Dutchie account or [contact us](#contact-us) to request updates or corrections to your Personal Information. If you have questions or concerns about other Personal Information collected by us or are unable to use your Dutchie account and would like assistance accessing that information, please contact our Privacy Officer at [**privacy@dutchie.com**](mailto:privacy@dutchie.com).
 
 You may opt out of marketing-related communications by following the opt out or unsubscribe instructions contained in the marketing communication we send you, or by updating your settings through your account. If you unsubscribe from our marketing lists, you will no longer receive marketing communications from us but we will continue to contact you to provide the Services, regarding management of your account, other administrative matters, and to respond to your requests.
 
@@ -209,7 +209,7 @@ The Services and our business may change from time to time. As a result, we may 
 
 **11\. CONTACT US**
 
-If you have any questions or complaints about our Privacy Policy or information practices, or would like to request a version of this notice in an accessible format, please feel free to contact us at our designated request address: [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+If you have any questions or complaints about our Privacy Policy or information practices, or would like to request a version of this notice in an accessible format, please feel free to contact us at our designated request address: [**privacy@dutchie.com**](mailto:privacy@dutchie.com).
 
 **SCHEDULE A**
 
@@ -282,7 +282,7 @@ The CCPA affords eligible data subjects with certain individual rights with resp
 
 Your ability to exercise the rights described above are limited pursuant to the scope and limitations of the CCPA, including any available exceptions. If the exercise of these rights limits our ability to process Personal Information (for example, in the event of a deletion request), we may no longer be able to provide you with Services or engage with you in the same manner.
 
-Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [privacy@dutchie.com](mailto:privacy@dutchie.com).
 
 Once a request has been submitted, we may ask you for additional information in order to verify your identity or to provide additional details to help us respond to your request. This may include your name, email address, phone number or other details related to your use of the Services. Where applicable, these requests can be submitted by an authorized agent through the channels described above in accordance with the applicable law. In these instances, we will take steps to verify the authorized agent's authority to act on your behalf.
 
@@ -307,7 +307,7 @@ The VCDPA affords eligible data subjects with certain individual rights with res
 * **Right to Opt Out:** You have the right to opt out of (a) targeted advertising, (b) the sale of Personal Information, and (c) profiling in furtherance of decisions that product legal or similarly significant effects. Note, however, that Dutchie does not sell your Personal Information.
     
 
-Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [privacy@dutchie.com](mailto:privacy@dutchie.com).
 
 Once an individual rights request has been submitted, Dutchie may ask you for additional information in order to verify your identity or to provide additional details to help us respond to your request. This may include your name, email address, phone number or other details related to your use of the Services. Where applicable, these requests can be submitted by an authorized agent through the channels described above in accordance with the applicable law. These include requests made on behalf of a minor by the individual's parent or legal guardian can also be made via the individual rights portal above. In these cases, in order to verify the authorized agent's authority, we generally require evidence of that individual's authority to act on behalf of the individual. All individual rights requests will be managed in accordance with the requirements set out in the VCDPA.
 
@@ -334,7 +334,7 @@ The CPA affords eligible data subjects with certain individual rights with respe
 * **Right to Opt Out:** You have the right to opt out of (a) targeted advertising, (b) the sale of Personal Information, and (c) profiling in furtherance of decisions that product legal or similarly significant effects. Note, however, that Dutchie does not sell your Personal Information.
     
 
-Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [privacy@dutchie.com](mailto:privacy@dutchie.com).
 
 Once an individual rights request has been submitted, Dutchie may ask you for additional information in order to verify your identity or to provide additional details to help us respond to your request. This may include your name, email address, phone number or other details related to your use of the Services. Where applicable, these requests can be submitted by an authorized agent through the channels described above in accordance with the applicable law. These include requests made on behalf of a minor by the individual's parent or legal guardian can also be made via the individual rights portal above. In these cases, in order to verify the authorized agent's authority, we generally require evidence of that individual's authority to act on behalf of the individual. All individual rights requests will be managed in accordance with the requirements set out in the CPA.
 
@@ -361,7 +361,7 @@ The CTDPA affords eligible data subjects with certain individual rights with res
 * **Right to Opt Out:** You have the right to opt out of (a) targeted advertising, (b) the sale of Personal Information, and (c) profiling in furtherance of decisions that product legal or similarly significant effects. Note, however, that Dutchie does not sell your Personal Information.
     
 
-Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [privacy@dutchie.com](mailto:privacy@dutchie.com).
 
 Once an individual rights request has been submitted, Dutchie may ask you for additional information in order to verify your identity or to provide additional details to help us respond to your request. This may include your name, email address, phone number or other details related to your use of the Services. Where applicable, these requests can be submitted by an authorized agent through the channels described above in accordance with the applicable law. These include requests made on behalf of a minor by the individual's parent or legal guardian can also be made via the individual rights portal above. In these cases, in order to verify the authorized agent's authority, we generally require evidence of that individual's authority to act on behalf of the individual. All individual rights requests will be managed in accordance with the requirements set out in the CTDPA.
 
@@ -383,7 +383,7 @@ Dutchie will not collect, use, or disclose your Personal Information except for 
 
 You may have the right to request access to and to correct the Personal Information that we hold about you, subject to certain conditions and limitations. Subject to applicable law and your relationship with us, this may include a right to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us. You may also have the right to access information about the ways in which your Personal Information is or has been used and the names of individuals and/or organizations to which your information has been disclosed.
 
-Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+Dutchie has established an individual rights portal for the purposes of submitting such individual rights requests, which can be found [here](https://privacy.dutchie.com/). You may also submit requests via email to [privacy@dutchie.com](mailto:privacy@dutchie.com).
 
 We will respond to your request as soon as reasonably practicable, and within the time period required by law. You will not be charged to exercise these rights. Once an individual rights request has been submitted, Dutchie may ask you for additional information in order to verify your identity or to provide additional details to help us respond to your request. This may include your name, email address, phone number or other details related to your use of Dutchie's Services.
 
@@ -401,7 +401,7 @@ We also impose appropriate safeguards for the transfer of Personal Information a
 
 Company
 
-[About](https://dutchie.com/about)[Careers](https://dutchie.com/careers)[Customer Support](https://help.dutchie.com/)[Product Support](https://support.dutchie.com/)[\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection)
+[About](https://dutchie.com/about)[Careers](https://dutchie.com/careers)[Customer Support](https://help.dutchie.com/)[Product Support](https://support.dutchie.com/)[Press & Media](mailto:press@dutchie.com)
 
 Solutions for Dispensaries
 
