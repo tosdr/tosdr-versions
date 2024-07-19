@@ -17,7 +17,7 @@ In order to use this site and many of its features, including accessing your pro
 Privacy Policy
 ==============
 
-**Last modified on January 19, 2023.** 
+**Last modified on July 9, 2024.** 
 
 As noted in the policy below, the English language version of the Privacy Policy and Terms of Use will govern your relationship with Life.Church. You can also use an automatic translation tool like Google Translate to view the documents in your language.
 
@@ -154,7 +154,7 @@ It is your choice whether to create, access, or store Life.Church information an
 
 We communicate with you through push notification, email, or in-app messages. If we communicate to you through email, you may unsubscribe to these messages via the unsubscribe link in the emails providing these messages. You can update your push notification settings at any time within the settings menu of the Life.Church App.
 
-We may also communicate with you via text message, and you consent to us sending you texts when you create an account in one of our Life.Church sites. We may text you about things like events, new content, and requests for volunteer or donation support. The frequency of these messages may vary, and message and data rates may apply. Some of the text messages we send may include links to websites, which will require a web browser and internet access. You may text STOP to opt out or HELP for help at any time to 82686 or 405-939-1120 or email us at [dataprivacy@life.church](mailto:dataprivacy@life.church "mailto:dataprivacy@life.church"). Certain carriers may not be liable for delayed or undeliverable messages.
+By subscribing, you have provided Life.Church with consent to send you text messages. We may text you about things like events, new content, and requests for volunteer or donation support. The frequency of these messages may vary, and message and data rates may apply. Some of the text messages we send may include links to websites, which will require a web browser and internet access. You may text STOP to opt out or HELP for help at any time to any SMS or MMS message you receive from us or email us at [dataprivacy@life.church](mailto:dataprivacy@life.church). Certain carriers may not be liable for delayed or undeliverable messages.
 
 **Recommendations and General Information**
 
@@ -313,6 +313,7 @@ We will post any changes to our Privacy Policy on this page. If we make material
 * [June 8, 2020](https://www.life.church/privacy/archive/2020/06/)
 * [September 8, 2023](https://www.life.church/privacy/archive/2023/09)
 * [May 25, 2018 - Open Network](https://www.life.church/privacy/archive/open-network/2018/05/)
+* [July 9, 2024](https://www.life.church/privacy/archive/2024/07/)
 
 **Contact Information**
 
