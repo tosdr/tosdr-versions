@@ -178,8 +178,8 @@ English
 Privacy Policy
 ==============
 
-Effective Date: October 5, 2023
--------------------------------
+Effective Date: July 1, 2024
+----------------------------
 
 This Privacy Policy describes how KAYAK Software Corporation and its subsidiaries, or subsidiaries of our parent company Booking Holdings Inc. that we manage **“KAYAK”**, **“we”**, **“our”** or **“us”**) collect, use, process and share personal information. This Policy applies to visitors and users (individually, **“you”** of KAYAK's websites (including but not limited to KAYAK, momondo, HotelsCombined, SWOODOO, Cheapflights, checkfelix, Mundi and roomsearch), applications, social media accounts, and other services (collectively, our **“Services”**). You can identify the KAYAK company that hosts a particular Service and is responsible for your information under this Policy [here](https://www.kayak.com/about/contacts). Please note that your use of our Services is additionally subject to the KAYAK [Terms and Conditions](https://www.kayak.com/terms-of-use).
 
@@ -531,11 +531,3 @@ Please keep in mind that, without cookies, you may not have access to certain fe
 **Privacy Policy.** Please review our [privacy policy](#privacypolicy) for additional details about how we collect, use, and disclose information in connection with our Sites, including personal information obtained from cookies.
 
 **Contact.** If you have any questions about our use of cookies, please use our [feedback](https://www.kayak.com/feedback/form) form.
-
-[Top International Flight Routes](https://www.kayak.com/Top-Flight-Routes.tfr.html).
-
-Cheap flights, [hotels](https://www.kayak.com/hotels), rental cars and travel deals:
-
-KAYAK searches hundreds of other travel sites at once to find the best deals on airline tickets, cheap hotels, cheap cruises, vacations and rental cars.
-
-Not what you’re looking for? Find thousands of other [hotels](https://www.kayak.com/stays), [flights](https://www.kayak.com/flights), [car rentals](https://www.kayak.com/cars) and [package deals](https://www.kayak.com/packages) with KAYAK.
