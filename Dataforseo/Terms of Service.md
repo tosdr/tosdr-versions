@@ -1,4 +1,12 @@
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -66,6 +74,7 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -84,6 +93,8 @@
         * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
     * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
+    * [Make Integration](https://dataforseo.com/make-integration)
+    * [Make Integration](https://dataforseo.com/make-integration)
     * [Our data](https://dataforseo.com/our-data)
     * [Status Page](https://status.dataforseo.com/)
     * [DataForSEO AI Assistant](https://chat.dataforseo.com/)
@@ -92,7 +103,15 @@
 * [Try for free](https://app.dataforseo.com/register)
 * [Login](https://app.dataforseo.com/signin)
 
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -160,6 +179,7 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
@@ -178,6 +198,8 @@
         * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
     * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
+    * [Make Integration](https://dataforseo.com/make-integration)
+    * [Make Integration](https://dataforseo.com/make-integration)
     * [Our data](https://dataforseo.com/our-data)
     * [Status Page](https://status.dataforseo.com/)
     * [DataForSEO AI Assistant](https://chat.dataforseo.com/)
@@ -188,7 +210,9 @@
 
 [](javascript:void(0))
 
-[![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
+[![mobile-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
 * #### Products
     
@@ -255,6 +279,7 @@
         * [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
         * [Reputation Management Tool](https://dataforseo.com/solutions/api-driven-reputation-management)
         * [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        * [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
 * [Pricing](https://dataforseo.com/pricing)
 * [Docs](https://docs.dataforseo.com/v3)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
@@ -272,6 +297,8 @@
         * [SERP Volatility Index](https://dataforseo.com/free-seo-stats/serp-volatility-index)
     * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
+    * [Make Integration](https://dataforseo.com/make-integration)
+    * [Make Integration](https://dataforseo.com/make-integration)
     * [Our data](https://dataforseo.com/our-data)
     * [Status Page](https://status.dataforseo.com/)
     * [DataForSEO AI Assistant](https://chat.dataforseo.com/)
@@ -409,6 +436,7 @@ Email: [\[email protected\]](https://dataforseo.com/cdn-cgi/l/email-protection)
 * [SERP Features](https://dataforseo.com/serp-features)
 * [Top 1000 Sites](https://dataforseo.com/top-1000-websites)
 * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
+* [Make Integration](https://dataforseo.com/make-integration)
 * [DataForSEO Trends Tool](https://trends.dataforseo.com/)
 * [Our data](https://dataforseo.com/our-data)
 * [Status Page](https://status.dataforseo.com/)
