@@ -130,6 +130,7 @@ MENUMENU
     * [Join Our Network](https://www.chpw.org/provider-center/join-our-network/)
     * [CHPW Press Room](https://www.chpw.org/about-chpw/chpw-on-press/)
     * [Member Advisory Council](https://www.chpw.org/about-chpw/member-advisory-council/)
+    * [Our Contact Information](https://www.chpw.org/contact-us/vcard/)
 
 [![Home Page](https://www.chpw.org/wp-content/themes/chpw/images/icons/icon_home.png)](https://www.chpw.org/ "Go to Homepage")
 
@@ -294,6 +295,8 @@ Last Update Date: June 29, 2020
 Community Health Plan of Washington (CHPW) was founded in 1992 by Washington’s community health centers. CHPW is committed to Washington's health. To enroll in a Community Health Plan of Washington [Apple Health (Medicaid)](https://www.chpw.org/find-health-plan/apple-health-plan/our-regions/), [Medicare Advantage](https://medicare.chpw.org/contact-us/chpw-representatives/), or [Individual & Family Cascade Select](https://individualandfamily.chpw.org/individual-and-family-plans/cascade-select-plan-finder/) plans, you must be eligible and live in the service areas. This is not a complete description of benefit. Please contact us for more information.
 
 ##### Language Assistance
+
+Language assistance services, including interpreters and translation of printed materials, are available free of charge.
 
 [Español | 中文 | Tiếng Việt | 한국어 | Tagalog | Pусский | العربية | Kreyòl | Français | Polski | Português | Italiano | Deutsch | 日本語 | فارسی | Other Languages…](https://www.chpw.org/contact-us/language-assistance/ "Language Assistance Services")
 
