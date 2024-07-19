@@ -7,7 +7,7 @@ Create
 * [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/campaigns/new/)
     
     [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
@@ -68,7 +68,7 @@ Learn about
     Attract advertisers to AADS for a fee](https://a-ads.com/crypto-referral-program/)
     
 
-[Stats](https://a-ads.com/statistics/) [Help](#)
+[Stats](https://a-ads.com/statistics/)
 
 [Sign In](https://a-ads.com/user/sign_in) [Sign Up](https://a-ads.com/user/sign_up)
 
@@ -83,7 +83,7 @@ Learn about
     [![Become an Influencer](/assets/icons/banner-campaign-07fbbb1061fbe1e9c3a81df210a751d3e254035ce6fa47cd73870e3e3b2ead9b.svg)
     
     Banner ad campaign  
-    Target your audience worldwide](https://a-ads.com/beta/campaigns/new/)
+    Target your audience worldwide](https://a-ads.com/campaigns/new/)
 * [![Become an Influencer](/assets/icons/publication-order-040058bd93f5491bfca1341442bf0033ec91eccd5cefa4f8ef52f05c0c8eab50.svg)
     
     Content Publication order  
@@ -304,7 +304,7 @@ You may access, correct, amend, or delete your User Materials by accessing your 
 
 You may access, correct, amend, or delete the Personal Information we have about you by logging into your account and navigating your account page. If you wish to cancel your account, you may do so through your account page. If you do, personally identifiable information associated with your account will be deleted as soon as is reasonably practical or as required by applicable law. Please note that we may retain information that is otherwise deleted in anonymized and aggregated form, in archived or backup copies as needed under records retention obligations, or otherwise as required by law.
 
-AADS crypto ad network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high-quality crypto ads to amplify your campaign's impact
+AADS Crypto Ad Network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high quality crypto ads to increase the impact of your campaign. If you're looking to buy crypto traffic or attract visitors interested in cryptocurrencies, our service is ideal for you. Join our crypto advertising platform and discover the exceptional service we offer!
 
 Advertising
 
