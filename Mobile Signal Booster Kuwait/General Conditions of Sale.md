@@ -144,4 +144,4 @@ All rights reserved.
 
 ### Your cart is empty.
 
-                                                                    [أعلي الصفحة](# "Go to top")
+                                                                   [أعلي الصفحة](# "Go to top")
