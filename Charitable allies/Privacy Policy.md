@@ -377,9 +377,9 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 [463-229-0229](tel:463-229-0229)
 
-[9100 Purdue Road, Suite 115
+[3500 DePauw Boulevard, Suite 3090
 
-Indianapolis, IN 46268](https://www.google.com/maps/place/9100%20Purdue%20Road,%20Suite%20115%20Indianapolis,%20IN%20%2046268)
+Indianapolis, IN 46268](https://www.google.com/maps/place/3500%20DePauw%20Boulevard,%20Suite%203090%20Indianapolis,%20IN%20%2046268)
 
 * [facebook](https://www.facebook.com/charitableallies/)
 * [instagram](https://www.instagram.com/charitableallies/)
