@@ -30,87 +30,122 @@ The legal stuff
 Privacy policy
 ==============
 
-**Last updated: 09 January 2024**
+###### Last updated: 10 July 2024
 
-This policy (together with [our terms and conditions](https://www.ecotricity.co.uk/the-legal-stuff/website-terms-and-conditions) for supply and any other document referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed, shared and used by us, and how you can exercise your privacy rights. Please read the following carefully to understand how we look after your personal data.
+This policy sets out the basis on which any personal data we collect from you or that you provide to us, will be processed, shared and used by us whether that be personal data you provide through your use of this website; when you enter into a contract for the supply of energy with us or take part in a competition and how you can exercise your privacy rights. Please read the following carefully to understand how we look after your personal data. This website is not intended for children and we do not knowingly collect data relating to children.
 
-This policy applies to personal information collected by Ecotricity Group Limited (registered no.03521776) and its subsidiary Ecotricity Limited, a company incorporated in England & Wales (registered no. 03043412) and whose registered office is at Lion House, Rowcroft, Stroud, Gloucestershire, GL5 3BY. In these terms and conditions “Ecotricity”, “we”, “our” or “us” means Ecotricity Limited, and “you” or “your” means you, our customer.
+#### **Controller**
+
+This policy applies to personal information collected by \[WP2\] Ecotricity Limited, a company incorporated in England & Wales (registered no. 03043412) and whose registered office is at Lion House House, Rowcroft, Stroud, Gloucestershire, GL5 3BY. In these terms and conditions “Ecotricity”, “we”, “our” or “us” means Ecotricity Limited, and “you” or “your” means you, our customer.
 
 Ecotricity Group Limited is registered with the ICO with registration number ZA021407 and Ecotricity Limited is registered with the ICO registration number Z5614614.
 
-### What does Ecotricity do?
+If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the DPO using the information set out in the ‘Legal basis for processing personal information’ section
 
-Ecotricity is a renewable energy company supplying electricity and gas to commercial and domestic customers (the **“Services”**)
+#### What does Ecotricity do?
 
-For more information about Ecotricity, please see the [Our story section of our website](https://www.ecotricity.co.uk/our-story).
+Ecotricity is a renewable energy company supplying electricity and gas to commercial and domestic customers (the **“Services”**).
 
-### How we collect your information and why
+For more information about Ecotricity, please see the “About Us” section of our Website at [https://www.ecotricity.co.uk/about-ecotricity](https://www.ecotricity.co.uk/about-ecotricity)
 
-Personal Data means any information about an individual from which that person can be identified. It does not include data which has been anonymised.  
-  
+#### How we collect your information and why
+
+Personal Data means any information about a living individual from which that person can be identified. It does not include data which has been anonymised.
+
 We may collect, use, store and transfer different kinds of personal data about you, as follows:
 
 | Type of data | Data required |
 | --- | --- |
 | Identity Data | First name |
-|     | Maiden name |
+|     | Any previous names |
 |     | Last name |
 |     | Username or similar identifier |
 |     | Marital status |
 |     | Title |
 |     | Date of birth |
 |     | Gender |
-| Contact data | Billing address |
+| Contact Data | Billing address |
 |     | Supply address |
 |     | Email address |
 |     | Telephone numbers |
-| Financial data | Bank account and payment card details |
+| Financial Data | Bank account and payment card details |
 |     | Data relating to your eligibility for credit |
-| Transaction data | Details about payments to and from you |
+| Transaction Data | Details about payments to and from you |
 |     | Other details of products and services you have purchased from us |
-| Technical data | Your internet protocol (IP) address |
+| Technical Data | Your internet protocol (IP) address |
 |     | Your login data, browser type and version |
 |     | Time zone setting and location |
 |     | Browser plug-in types and versions |
-|     | Operating system and platform |
-| Profile data | Your username and password |
+|     | Operating system and platform device ID |
+|     | Other technology on the device you use to access this website |
+| Profile Data | Your username and password |
 |     | Purchases or orders made by you |
 |     | Your interests, preferences, feedback and survey responses |
-|     | Usage data |
-|     | Information about how you use our website, products and services (including our energy) |
-| Marketing and communications data | Your preferences in receiving marketing from us and our third parties |
+| Usage Data | Information about how you use our website, products and services (including your consumption of energy supplied by us) |
+| Marketing and Communications Data | Your preferences in receiving marketing from us and our third parties |
 |     | Your communication preferences |
-|     | Market research |
-| Special category data | Details about your health (see below) |
+| Special Category Data | Details about your health including but not limited to mental health, disease or disabilities |
 
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
 #### Information that you provide directly
 
-* We collect your Identity, Contact, Financial and Transaction Data when you contact us to enquire about our Services, register with us to receive the Services, use the Services, use our website under the domain name www.ecotricity.co.uk (the **“Website”**) or request information or assistance from us.
+* We collect your Identity, Contact, Financial and Transaction Data when you:
+    
+    * contact us to enquire about our Services.
+        
+    * register with us to receive the Services.
+        
+    * use the Services.
+        
+    * use our website under the domain name www.ecotricity.co.uk (the **“Website”**).
+        
+    * request information or assistance from us by post, phone, email or otherwise.
+        
+    * request marketing to be sent to you.
+        
+    * give us feedback or contact us.
+        
+    * enter a competition, promotion or survey.
+        
     
 * You may be required to provide us with Usage Data directly, in the form of meter readings.
     
 
 #### Information that we obtain from third party sources
 
-* We may collect your personal information, particularly Financial Data, from third party sources, but only where we have checked that these third parties either have your consent, are otherwise legally permitted or required to disclose your personal information to us.
+* We may collect your personal information from third party sources, particularly Financial Data, Transaction Data and Contact Data, including but not limited to (as applicable) debt collection agencies, social/support workers, credit reference agencies Citizens Advice Bureau, Meter Operators, Distribution Network Operators and other providers of technical, payment and delivery services. But only where we have checked that these third parties either have your consent, are otherwise legally permitted or required to disclose your personal information to us.
     
-* We may also collect information about you, including Identity and Contact Data, that is publicly available, for example, from business directories.
+* We may also collect information about you, including Identity and Contact Data, that is publicly available, for example, from business directories, Companies House or data brokers or aggregators.
     
 
 #### Information that we collect automatically
 
-* When you use the "Services" we may collect Profile and Usage Data automatically, including data about the amount of electricity/gas you use, meter readings, peak demand and usage profile from your meter(s)
+* When you use the Services we may collect Profile and Usage Data automatically, including data about the amount of electricity/gas you use, meter readings, peak demand and usage profile from your meter(s).
     
-* When you use the Website, we collect Technical Data about your activity by using cookies and similar tracking technologies.
+    * When you use the Website, we collect Technical Data about your activity and your equipment, browsing actions and patterns by using cookies and similar tracking technologies. Technical Data is also collected from analytics providers \[such as Google based outside the UK
+        
     
 * Cookies are small amounts of information which we store on your computer. Cookies make it easier for you to log on to and use the Website during future visits. They also allow us to monitor Website traffic and to personalise the content of the Website for you. You may set up your computer to reject cookies by modifying the settings in your browser although, in that case, you may not be able to use certain features on our Website. Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
     
-* Our emails use tracking to show how they’ve been interacted with. We do this to help improve our emails and for analysing how successful they are. You can opt out of email tracking at any time by clicking a link in the footer of our marketing emails.
-    
 
-We use the following Cookies on our website, however, should you decline the collection of Cookies when you visit our page only essential cookies which enable the running and performance of the website can be used.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
+
+We use the following cookies:
+
+Strictly necessary cookies. These are cookies that are required for the operation of our website. These essential cookies are always enabled because our website won’t work properly without them. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services. You can switch off these cookies in your browser settings but you may then not be able to access all or parts of our website.
+
+Analytical or performance cookies. These allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. \[We may also share this information with third parties for this purpose so that they can serve you with relevant advertising on their websites.
+
+We use the following Cookies on our website, however, should you decline the collection of Cookies by choosing to "Reject All" cookies in the cookie banner. When you visit our page only essential cookies which enable the running and performance of the website can be used.
+
+However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our website.
+
+Except for essential cookies, all cookies will expire after \[EXPIRY PERIOD\]
 
 | Cookie | Placed by | Description |
 | --- | --- | --- |
@@ -133,41 +168,10 @@ We use the following Cookies on our website, however, should you decline the col
 | \_pk\_id.{variable id} or \_tq\_id.{variable id} (First party persistent) | TV Squared | Aids reporting of site visits and actions for analytical reporting to TV Squared. |
 | pk\_ses (First party session) | TV Squared | Used to confirm an individual user in relation to an individual session, i.e. how long the user is on the website. |
 | VISITOR\_INFO1\_LIVE | YouTube | This cookie is set by Youtube to keep track of user preferences for Youtube videos embedded in sites;it can also determine whether the website visitor is using the new or old version of the Youtube interface. |
-| \_clck | Microsoft Clarity | This cookie is installed by Microsoft Clarity to store information of how visitors use a website and help in creating an analytics report of how the website is doing. |
-| SOCS | YouTube | Used to store a user’s state regarding their cookies choices. In a nutshell, this cookie stores a user's options for cookie prefences on Google related products |
-| AEC | YouTube | Ensure that requests within a browsing session are made by the user, and not by other sites, preventing malicious sites from acting on behalf of a user without that user’s knowledge. |
-| \_hjIncludedInSessionSample | Hotjar |     |
-| \_hjSession\_{unique-ID} | Hotjar |     |
-| \_hjSessionUser\_{unique-ID} | Hotjar |     |
-| \_tq\_id.TV-8181634563-1.6e74 | Marketing |     |
-| \_uetsid | Bing | Bing Ads set this cookie and it’s used to store and track visits across websites for marketing/tracking purposes. |
-| amplitude\_id\_b6431da7e51d8b1a724c05b9572c2895ecotricity.co.uk | Amplitude |     |
-| \_y | Shopify |     |
-| \_shopify\_y | Shopify |     |
 
-### Use of your information
+#### Use of your information
 
-We will only use your Personal Data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
-
-* to supply information about our Services to you;
-    
-* to give you access to all parts of the Website;
-    
-* to register you as a new customer;
-    
-* to manage our contract and our relationship with you, including by verifying your identity, administering the Services, contacting you where necessary concerning your use of the Services and the Website, and handling any complaints or queries you may have;
-    
-* to invoice you, take card payments, administer your direct debit, manage any disputes over the money you owe us, assess whether you are eligible for credit, manage your credit account, recover any money that you may owe us and to identify and prevent fraud or money laundering activities;
-    
-* for our legitimate interests, including to administer, support, improve and develop our business and the Services;
-    
-* to contact you for your views on the Services;
-    
-* to notify you occasionally about important changes or developments to the Services or the Website;
-    
-* to administer competitions or prize draws that you may enter;
-    
-* to tell you about new products or services supplied by Ecotricity or third parties that we think may be of interest to you. If you would rather not receive marketing e-mails from us please let us know by emailing us at [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk).
+* To tell you about new products or services supplied by Ecotricity or third parties that we think may be of interest to you. If you would rather not receive marketing e-mails from us please let us know by emailing us at [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk).
     
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason, and that reason is compatible with the original purpose.
@@ -176,93 +180,123 @@ If we need to use your personal data for an unrelated purpose, we will notify yo
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with this policy, where this is required or permitted by law.
 
-### Disclosure of your information
+#### Disclosure of your information
 
 * Your Personal Data will be held on our systems and may be accessed by or transferred to any entity in our corporate group, including any entity that acquires us or that we may acquire. This may include staff working outside the UK and third parties, some of whom are located outside the European Economic Area. Such third parties process information, fulfil orders and provide support services on our behalf a list of third parties relevant to your account can be made available on request.
     
-* We may transfer your personal data as a part of a corporate reorganisation, business sale, or other merger activity, but in those circumstances any recipient will be obliged by law to comply with this policy.
+* We may transfer your personal data as a part of a corporate reorganisation, business sale, or other merger activity. . If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy
     
-* We may also transfer or disclose your personal information to our service providers, professional advisers and to such other parties as we consider reasonably necessary for the administration of the Services, the Website any related, ancillary matters (including competitions and prize draws) and related business.
+* We may also transfer or disclose your personal information to our service providers, professional advisers and to such other parties as we consider reasonably necessary for the administration of the Services, the Website, any related, ancillary matters (including competitions and prize draws) and related business.
     
 * PSR customer data will be shared in accordance with the data sharing project (PSR Project) where the transfer of Personal and Special Category Data is made to water companies for the purpose of safeguarding vulnerable individuals.
     
 * We require all third parties to respect the security of your Personal Data and to treat it in accordance with the law. We do not allow our third-party service providers to use your Personal Data for their own purposes, and only permit them to process your personal data for specified purposes and in accordance with our instructions.
     
-* Countries outside the UK and European Economic Area do not always have strong data protection laws which afford adequate protection to individuals’ personal data, and so we limit when we transfer data to them. When data is transferred internationally, we will always take steps to ensure it is afforded an adequate degree of protection by ensuring that at least one of the following safeguards is implemented;
+* Countries outside the UK and European Economic Area do not always have strong data protection laws which afford adequate protection to individuals’ personal data, and so we limit when we transfer data to them. When data is transferred internationally, we will always take steps to ensure it is afforded an adequate degree of protection by ensuring that at least one of the following safeguards is implemented.
     
-
-\- We will only transfer your Personal Data to countries that have been deemed to provide an adequate level or protection for personal data by European Commission or other national body.
-
-\- We may use specific contracts approved by the European Commission, which give Personal Data the same protection it has in the UK and Europe.
-
+    * We will only transfer your Personal Data to countries that have been deemed to provide an adequate level or protection for personal data by European Commission or other national body.
+        
+    * We may use specific standard contractual terms approved for use in the UK which give the transferred personal data the same protection as it has in the UK namely an International Data Transfer Agreements. To obtain a copy of these contractual safeguards, please contact us at [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk).
+        
+    
 * Sometimes we are required or compelled to disclose your information. We will respond to requests (in each case, limiting disclosure to the extent required) where:
     
+    * our compliance is required by law;
+        
+    * we receive a request from a public authority or law enforcement agency,
+        
+    * there is a threat to the safety of you or any other person; or
+        
+    * we suspect you of committing a criminal offence, including fraud.
+        
+    
+* We will only otherwise disclose any of the information you provide to us when permitted to do so by applicable law or with your consent.
+    
 
-\- our compliance is required by law;
+#### Legal basis for processing personal information
 
-\- we receive a request from a public authority or law enforcement agency;
-
-\- there is a threat to the safety of you or any other person; or
-
-\- we suspect you of committing a criminal offence, including fraud.
-
-\- We will only otherwise disclose any of the information you provide to us when permitted to do so by applicable law or with your consent.
-
-### Legal basis for processing personal information
-
+* The law requires us to have a legal basis for collecting and using your personal data. We rely on one or more of the following legal bases:
+    
+    * Performance of a contract with you: Where we need to perform the contract we are about to enter into or have entered into with you.
+        
+    * Legitimate interests: We may use your personal data where it is necessary to conduct our business and pursue our legitimate interests, for example to prevent fraud and enable us to give you the best and most secure customer experience. We make sure we consider and balance any potential impact on you and your rights (both positive and negative) before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+        
+    * Legal obligation: We may use your personal data where it is necessary for compliance with a legal obligation that we are subject to. We will identify the relevant legal obligation when we rely on this legal basis.
+        
+    * Consent: We rely on consent only where we have obtained your active agreement to use your personal data for a specified purpose, for example if you subscribe to an email newsletter.
+        
+    
 * Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
     
 * We will normally collect personal information from you only where we need the personal information to perform a contract with you, where we have your consent to do so, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms.
     
 * In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (for example, if we are asked to provide your telephone number or location data to the emergency services in an emergency situation).
     
-* If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information)
+* If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
     
 * Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
     
-* The legal bases on which we process your personal information are summarised below:
+* We have set out below, in a table format, a description of all the ways we plan to use the various categories of your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate:
     
 
-| Legal basis for processing | Purposes of processing |
-| --- | --- |
-| Contract | Providing you with electricity and/or gas |
-|     | Administering FIT payments |
-|     | Providing and running Customer helplines |
-|     | Complaints handling |
-|     | Setting up and otherwise administering your account(s) for Services and products which we provide to you, this may include linking different Services which you receive from us |
-|     | Contacting you in connection with the Services and your account (including through the use of electronic communication, e-mail, SMS or telephone) |
-|     | Tracing you, where we are unable to make contact with you using the details we hold |
-|     | Commencing legal or recovery proceedings against you to recover unpaid charges, where this is necessary |
-|     | Informing credit reference agencies about unpaid charges and debt, which information will be recorded and may impact your ability to obtain credit in the future |
-|     | Administering competitions and prize draws |
-| Legitimate interests | Verifying your identity when you make enquiries by phone, email or letter |
-|     | Marketing of our products and services to existing customers and customers who have left us in the preceding 18 months- You have the right to object. |
-|     | Contacting you in relation to a quotation in respect of the Services we provide |
-|     | Informing credit reference agencies about unpaid charges and debt, which information will be recorded and may impact your ability to obtain credit in the future |
-|     | Commencing legal or recovery proceedings against you to recover unpaid charges, where this is necessary |
-|     | Assisting with statistical analysis to assess and improve our Services and systems |
-|     | Recording calls made to our helpdesks and contact centres for staff training and improvements to our processes and services |
-|     | Administering competitions and prize draws, including providing the surname and county of winners to those who enquire, or in order to comply with the requirements of the CAP Code. |
-|     | Transfer of Personal and Special Category Data to water providers for the purpose of safeguarding vulnerable individuals. |
-| Legal obligation | Complying with energy supply and distribution laws |
-|     | Responding to requests by law enforcement authorities for access to your personal information |
-|     | Protecting our businesses and other customers from criminal or fraudulent activities |
-|     | Enforcing a judgment of a court of law |
-|     | The detection and prevention of theft, fraud, and money laundering offences |
-|     | Recording calls made to our helpdesks and contact centres for legal and regulatory requirements and security purposes. |
-|     | Our debt recovery agents may on occasion wear Body Worn Video cameras attached to their uniform. This is to establish the facts as an impartial witness in cases where there may be a dispute or altercation, which can impact on criminal or civil court proceedings. |
-| Vital interests | Protecting your vital interests or those of another person |
-|     | Maintaining the priority services register |
-|     | Preventing damage to your property, or to neighbouring properties |
-| Consent | Where we have no other basis to rely on, we shall ask you for your consent. This may include but is not limited to letters of authority. |
-|     | Marketing the services of our other Group Companies, you have the right to withdraw. |
-|     | Credit checking to confirm your eligibility to receive the Services from us, and assisting with the provision of reference information in relation to credit applications that may be made by you or other members of your household you are connected to financially |
-|     | Maintaining the priority services register, we need your consent to share this information with the relevant parties. |
-|     | Transfer of Personal and Special Category Data to water providers for the purpose of safeguarding vulnerable individuals |
+| Legal basis for processing | Type of data | Purposes of processing |
+| --- | --- | --- |
+| Contract | Name | Supplying you with electricity and/or gas |
+|     | Supply and correspondence address | Administering FIT payments |
+|     | Date of birth | Providing and running Customer helplines |
+|     | Contact details including phone number and email address | Complaints handling |
+|     |     | Setting up and otherwise administering your account(s) for Services and products which we provide to you, this may include linking different Services which you receive from us |
+|     |     | Contacting you in connection with the Services and your account (including through the use of electronic communication, e-mail, SMS or telephone) |
+|     |     | Tracing you, where we are unable to make contact with you using the details we hold |
+|     |     | Administering competitions and prize draws |
+|     |     | We will retain this data for 7 years post closure of your account and while your account is still active. |
+| Legitimate interests | Name | Verifying your identity when you make enquiries by phone, email or letter |
+|     | Contact details including phone number and email address | Marketing of our products and services to existing customers - You have the right to object. |
+|     | Information relating to any overdue balance | Contacting you in relation to a quotation in respect of the Services we provide |
+|     | Information about any health implications which would require us to adapt our service to you and enable other companies that we use to administer the services to do the same | Informing credit reference agencies about unpaid charges and debt, which information will be recorded and may impact your ability to obtain credit in the future |
+|     | Phone call recordings | Commencing legal or recovery proceedings against you to recover unpaid charges, where this is necessary |
+|     |     | Assisting with statistical analysis to assess and improve our Services and systems recording calls made to our helpdesk and contact centres for staff training and improvements to our processes and services |
+|     |     | Administering competitions and prize draws, including providing the surname and county of winners to those who enquire, or in order to comply with the requirements of the CAP Code. |
+|     |     | Transfer of Personal and Special Category Data to water providers for the purpose of safeguarding vulnerable individuals |
+|     |     | For internal staff training |
+|     |     | We will retain this data for 7 years post closure of your account and while your account is still active unless you object. This may not always be upheld if there is an overdue balance on the account. |
+| Legal obligation | Name | Complying with energy supply and distribution regulations and legislation |
+|     | Address | Responding to requests by law enforcement authorities for access to your personal information |
+|     | Contact details including phone number and email address | Protecting our businesses and other customers from criminal or fraudulent activities |
+|     | Interactions and correspondence on your account | Enforcing a judgment of a court of law |
+|     |     | The detection and prevention of theft, fraud, and money laundering offences |
+|     |     | Recording calls made to our helpdesks and contact centres for legal and regulatory requirements and security purposes |
+|     |     | We will retain this data for 7 years post closure of your account and while your account is active. |
+| Vital interests | Details relating to your health and wellbeing | Protecting your vital interests or those of another person |
+|     | Details relating to the safety and the supply | Maintaining the priority services register |
+|     |     | Preventing damage to your property, or to neighbouring properties |
+|     |     | We will retain this data for 7 years post closure of the account and while your account is still active. |
+| Consent | Name | Where we have no other basis to rely on, we shall ask you for your consent. This may include but is not limited to letters of authority |
+|     | Supply address | Marketing the services of our other Group Companies, you have the right to withdraw |
+|     | Date of birth (where required) | Credit checking to confirm your eligibility to receive the Services from us, and assisting with the provision of reference information in relation to credit applications that may be made by you or other members of your household you are connected to financially |
+|     | Email address and phone number | Maintaining the priority services register, we need your consent to share this information with the relevant parties |
+|     | Information about your health and wellbeing | Using your details in publicity where you are a competition or prize draw winner |
+|     |     | We will retain this data for 7 years post closure of your account and while it is still active unless you withdraw |
 
-If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact our Data Protection Officer at [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk).
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, or your wish to object please contact our Data Protection Officer at [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk).
 
-### Security
+#### **Direct Marketing**
+
+During the registration process on our website when your personal data is collected, you will receive marketing communications from us if you have requested information from us or about our partners or you have purchased Services from us have not opted out of receiving the marketing.
+
+We may also analyse your Identity, Contact, Technical, Usage and Profile Data to form a view which products, services and offers may be of interest to you so that we can then send you relevant marketing communications.
+
+#### **Third- Party Marketing**
+
+We will get your express consent before we share your personal data with any third party for their own direct marketing purposes.
+
+#### **Opting out of Marketing**
+
+You can ask us to stop sending you marketing communications at any time by following the opt-out links within any marketing communication sent to you, you will find an unsubscribe link at the bottom of the email or you can email [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk).
+
+If you opt out of receiving marketing communications, you will still receive service-related communications that are essential for administrative or customer service purposes \[for example relating appointment reminders, updates to our Terms and Conditions, checking that your contact details are correct.
+
+#### Security
 
 * We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. Protection of the registration details and any debit or credit card information you give to us is a major priority. We have implemented a security policy that guards against unauthorised access. Data on our secure pages is encrypted using SSL technology.
     
@@ -275,27 +309,57 @@ If you have questions about or need further information concerning the legal bas
 * Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers, affiliates and members of our corporate group. If you follow a link to any of these websites, please note that these websites have their own privacy policies/web site terms of use and we do not accept any responsibility or liability for these policies. Please check such policies before you submit any personal data to them.
     
 
-### Data Retention
+#### Data Retention
 
-* If you are a Customer, we will retain your information for as long as you continue to use the Services and for a period of 7 years (or as long as the law requires) after your account has closed. We may decide it is necessary to retain your information for longer for the purpose of resolving disputes or payment issues, or because it is still useful (in an anonymised form) to us to analyse your use of the Services.
+* If you are a Customer, we will retain your information for as long as you continue to use the Services and for a period of 7 years (or as long as the law requires) after your account has closed. We may decide it is necessary to retain your information for longer for the purpose of resolving disputes or payment issues, or because it is still useful (in an anonymised form) to us to analyse your use of the Services. We will only retain your personal data for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
+    
+* To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
+    
+* By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes.
+    
+* In some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
     
 * If you have requested information about the Services we provide, for example a quotation, we will retain your information for a period of up to 24 months from the provision of the information requested, after which your personal data will be deleted, providing that there is no ongoing legitimate reason for us to retain it.
     
 * When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until permanent deletion is possible.
     
 
-### Access to information
+#### Access to information
 
-* You are entitled to access, correct or update your personal information. You can do so at any time by contacting us using the contact details provided under the “Contact” heading below.
+You have the right to:
+
+* Request access to your personal data (commonly known as a "subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
     
-* In certain circumstances you can object to our processing of your personal information, request deletion of your personal information, ask us to restrict processing of your personal information or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the “Contact” heading below.
+* Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
     
-* You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “Contact” heading below.
+* Request erasure of your personal data in certain circumstances. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+    
+* Update your personal information. You can do so at any time by contacting us using the contact details provided under the “Contact” heading below.
+    
+* Object to our processing of your personal information where we are relying on a legitimate interest (or those of a third party) as the legal basis for that particular use of your data (including carrying out profiling based on our legitimate interests). In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your right to object.
+    
+* Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+    
+* Withdraw consent at any time where we are relying on consent to process your personal data (see the table above for details of when we rely on your consent as the legal basis for using your data). However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+    
+    * Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in one of the following scenarios:
+        
+        * If you want us to establish the data's accuracy;
+            
+        * Where our use of the data is unlawful but you do not want us to erase it;
+            
+        * Where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or
+            
+        * You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
+            
+        
+    
+* Opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you. To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “Contact” heading below.
     
 * If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on other lawful grounds.
     
 
-### Complaints
+#### Complaints
 
 * You have the right to complain about our collection and use of your personal information. In the first instance you should contact our Data Protection Officer by emailing [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk)
     
@@ -304,12 +368,23 @@ If you have questions about or need further information concerning the legal bas
 * We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
     
 
-### Changes to our privacy policy
+#### **TIME LIMIT TO RESPOND**
 
-* Any changes to our privacy policy in the future will be posted to the Website. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
-    
-* You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.
-    
+We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+#### WHAT WE MAY NEED FROM YOU
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+#### **NO FEE USUALLY REQUIRED**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
+
+#### Changes to our privacy policy
+
+Any changes to our privacy policy in the future will be posted to the Website. When we update our Privacy Notice, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Notice changes if and where this is required by applicable data protection laws.
+
+You can see when this Privacy Notice was last updated by checking the “last updated” date displayed at the top of this Privacy Notice.
 
 ### Contact
 
@@ -325,10 +400,10 @@ GL5 3BY
 ### Customer Services hotline
 
 Within the UK:  
-[0345 555 7100](tel:03455557100)
+[0333 800 5500](tel:0333 800 5500)
 
 Outside the UK:  
-[+44 3455 557 100](tel:+443455557100)
+[+44 3338 005 500](tel:+44 3338 005 500)
 
 Email:  
 [dataprotectionofficer@ecotricity.co.uk](mailto:dataprotectionofficer@ecotricity.co.uk)
