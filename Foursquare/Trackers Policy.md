@@ -19,7 +19,6 @@
     APIs
     
     * [Places API](https://location.foursquare.com/products/places-api/)
-    * [Personalization API](https://location.foursquare.com/products/personalization-api/) ![](https://foursquare-dev-wpvip.md-staging.com/wp-content/uploads/sites/2/2022/06/Group-19472.svg)
     
     SDKs
     
@@ -71,7 +70,7 @@
     Documentation
     
     * [Developer Docs](https://location.foursquare.com/docs/)
-    * [Personalization API](https://location.foursquare.com/developer/reference/personalized-places-apis-overview)
+    
     * [Places API](https://location.foursquare.com/developer/reference/places-api-overview)
     * [Places Data Feed](https://location.foursquare.com/places/docs)
     * [Movement SDK](https://location.foursquare.com/developer/docs/movement-sdk-overview)
@@ -505,7 +504,6 @@ Google has also developed a web browser plugin to allow you to opt-out of Google
 * [Studio](https://location.foursquare.com/products/studio/)
 * [Movement SDK](https://location.foursquare.com/products/movement-sdk/)
 * [Places API](https://location.foursquare.com/products/places-api/)
-* [Personalization API](https://location.foursquare.com/products/personalization-api/)
 * [Attribution](https://location.foursquare.com/products/attribution/)
 * [Audience](https://location.foursquare.com/products/audience/)
 * [Proximity](https://location.foursquare.com/products/proximity/)
