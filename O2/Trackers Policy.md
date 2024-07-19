@@ -190,23 +190,23 @@
 
 *   ![Apple](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-apple-1100.png)
 *   ![Samsung](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-samsung-1100.png)
-*   ![Xiaomi](//static-www.o2.co.uk/sites/default/files/2023-10/xiaomi-legacy-global-nav-170423_0.png)
+*   ![HONOR](//static-www.o2.co.uk/sites/default/files/2024-07/BAU-44171-ProjectHalo-NavChanges-Nav-Bar-Portal-Page--110724-110724.jpg)
 *   ![Google](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-google-1100.png)
-*   ![Sony](//static-www.o2.co.uk/sites/default/files/2022-09/quick-links-sony-1100.png)
+*   ![Virgin Media](//static-www.o2.co.uk/sites/default/files/2024-07/BAU-44171-ProjectHalo-NavChanges-Nav-Bar-Portal-Page--110724-VMlogo-110724.jpg)
 
-  [![Part of Earth's surface surrounded by the light of the sun](//static-www.o2.co.uk/sites/default/files/2020-02/5g-why-o2-thumbnail-dark-140220.jpg)
+  [![Why O2](https://origin-dapi.o2.co.uk/system/files/2024-07/5g-why-o2-thumbnail-dark-140220_1.jpg)
 
 Are you ready for 5G?
 
 Check coverage](https://www.o2.co.uk/5g)
 
-  [![Spotlights](//static-www.o2.co.uk/sites/default/files/2020-02/why-o2-thumbnail-dark-260220.jpg)
+  [![why O2](https://origin-dapi.o2.co.uk/system/files/2024-07/why-o2-thumbnail-dark-260220_0.jpg)
 
 See all the reasons to choose O2
 
 Why join O2?](https://www.o2.co.uk/why-o2)
 
-  [![Hands joined together in the air](//static-www.o2.co.uk/sites/default/files/2019-05/global-nav-community-image-070519.jpg)](https://community.o2.co.uk/)
+  [![Find help in the O2 Community](https://origin-dapi.o2.co.uk/system/files/2024-07/global-nav-community-image-070519.jpg)](https://community.o2.co.uk/)
 
   
 
@@ -711,11 +711,11 @@ Popular in shop
 
 [Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
 
-[Samsung Galaxy Z Flip5](https://www.o2.co.uk/shop/samsung/galaxy-z-flip5)
+[Samsung Galaxy Z Fold6](https://www.o2.co.uk/shop/samsung/galaxy-z-fold6-5g)
+
+[Samsung Galaxy Z Flip6](https://www.o2.co.uk/shop/samsung/galaxy-z-flip6-5g)
 
 [Google Pixel 8 Pro](https://www.o2.co.uk/shop/google/pixel-8-pro)
-
-[SIM Only](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
 
 [Virgin Media broadband deals](https://www.virginmedia.com/broadband)
 
@@ -777,11 +777,11 @@ Popular in shop
 
 [Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
 
-[Samsung Galaxy Z Flip5](https://www.o2.co.uk/shop/samsung/galaxy-z-flip5)
+[Samsung Galaxy Z Fold6](https://www.o2.co.uk/shop/samsung/galaxy-z-fold6-5g)
+
+[Samsung Galaxy Z Flip6](https://www.o2.co.uk/shop/samsung/galaxy-z-flip6-5g)
 
 [Google Pixel 8 Pro](https://www.o2.co.uk/shop/google/pixel-8-pro)
-
-[SIM Only](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
 
 [Virgin Media broadband deals](https://www.virginmedia.com/broadband)
 
