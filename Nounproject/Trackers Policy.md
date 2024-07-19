@@ -47,7 +47,6 @@ Cookies dropped by Company:
 | \_ga\_TEXVFE05D4 | * Google analytics<br>* GA4 | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 2 years |
 | \_gat | Google analytics | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 1 minute |
 | \_gid | Google analytics | Google analytics | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 1 day |
-| \_gcl\* | Google ads | Google ads | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 90 days |
 | IDE | Google DoubleClick | Google DoubleClick | * Type: Retargeting/Advertising<br>* Duration: persistent<br>* Expiration Period: 2 years |
 | \_hjSessionUser\_\* | Hotjar User ID | Hotjar | * Type: Performance/Analytical<br>* Duration: persistent<br>* Expiration Period: 12 months |
 | \_hjHasCachedUserAttributes | Hotjar User Attributes | Hotjar | * Type: Performance/Analytical<br>* Duration: session only |
