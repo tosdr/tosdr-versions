@@ -20,7 +20,7 @@
     
     [Investor Centre](https://www.media24.com/company/investor-centre/)
     
-    [BEE Scorecard](https://www.media24.com/wp-content/uploads/2023/06/ELC12011_Media24-Pty-Ltd-and-Subsidiaries-BEE-Condensed-Report_Final.pdf)
+    [BEE Scorecard](https://www.media24.com/wp-content/uploads/2024/07/ELC13038_Media-24_BEE-Certificate_Final.pdf)
     
 * [Brands](# "Brands")
     
@@ -264,9 +264,9 @@ Please click [here](https://privacyportal-de.onetrust.com/webform/37b4518e-0f3e
 
 If you are dissatisfied with our resolution of your complaint, you have the right to refer it to the Information Regulator, the supervisory authority for data protection issues in South Africa.
 
-**General Enquiries Email:** [enquiries@inforegulator.co.za](mailto:enquiries@inforegulator.co.za)
+**General Enquiries Email:** [enquiries@inforegulator.org.za](mailto:enquiries@inforegulator.org.za)
 
-**Complaints Email:** [PAIAComplaints@inforegulator.co.za](mailto:PAIAComplaints@inforegulator.co.za)
+**Complaints Email:** [PAIAComplaints@inforegulator.org.za](mailto:PAIAComplaints@inforegulator.org.za)
 
 To view Media24’s Promotion of Access to Information Act (PAIA) manuals, click **[here](https://www.media24.com/company/group-privacy-portal/paia-manuals/)**.
 
