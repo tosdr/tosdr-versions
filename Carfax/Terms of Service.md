@@ -87,7 +87,7 @@ Safe surfing through highest encryption standards.
 * [Press](https://www.carfax.com/press)
 * [CareersWe are hiring](https://www.carfax.com/careers)
 
-* [General terms and conditions](https://www.carfax.com/terms-and-conditions)
+* [Terms and conditions](https://www.carfax.com/terms-and-conditions)
 * [Legal information](https://www.carfax.com/legal-information)
 * [Privacy Notice](https://www.carfax.com/privacy-hub)
 
