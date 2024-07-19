@@ -237,6 +237,7 @@ Support
 * [Become an Ambassador](https://www.bensound.com/contact?become-an-ambassador)
 * [Claim on YouTube](https://www.bensound.com/youtube-copyright-notices)
 * Cookie setting
+* [Jobs](https://www.bensound.com/careers)
 
 Bensound’s [Royalty Free Music](https://www.bensound.com/royalty-free-music "Bensound’s Royalty Free Music") \- Copyright © 2012-2024
 
