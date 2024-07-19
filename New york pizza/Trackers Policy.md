@@ -1,5 +1,5 @@
-* [Stores](https://www.newyorkpizza.nl/en/vestigingen "Stores")
-* [Customer service](https://www.newyorkpizza.nl/en/klantenservice "Customer service")
+* [Stores](https://www.newyorkpizza.nl/Store?culture=en "Stores")
+* [Customer service](https://www.newyorkpizza.nl/General/Contact?culture=en "Customer service")
 
 * [Jobs at New York Pizza](https://newyorkpizzajobs.com/ "Jobs at New York Pizza")
 
@@ -46,30 +46,29 @@ Would you like to order by phone?[0900-0102](tel:0900-0102) _25ct per dial_
 * [Deals](https://www.newyorkpizza.nl/acties "Promotion")
 * [Pizza](https://www.newyorkpizza.nl/bestellen/pizza "Pizza")
     
-    * [All _(37)_](https://www.newyorkpizza.nl/bestellen/pizza "Alle")
-    * [Deal _(7)_](https://www.newyorkpizza.nl/bestellen/pizza/actie "ACTIE")
-    * [Meat _(18)_](https://www.newyorkpizza.nl/bestellen/pizza/vlees "Vlees")
-    * [Vegetarian _(8)_](https://www.newyorkpizza.nl/bestellen/pizza/vegetarisch "Vegetarisch")
+    * [All _(33)_](https://www.newyorkpizza.nl/bestellen/pizza "Alle")
+    * [Promo _(7)_](https://www.newyorkpizza.nl/bestellen/pizza/actie "ACTIE")
+    * [Meat _(15)_](https://www.newyorkpizza.nl/bestellen/pizza/vlees "Vlees")
+    * [Vegetarian _(7)_](https://www.newyorkpizza.nl/bestellen/pizza/vegetarisch "Vegetarisch")
     * [Fish _(1)_](https://www.newyorkpizza.nl/bestellen/pizza/vis "Vis")
     * [Vegan _(2)_](https://www.newyorkpizza.nl/bestellen/pizza/vegan "Vegan")
     * [New York basics _(1)_](https://www.newyorkpizza.nl/bestellen/pizza/new-york-basics "New York basics")
     
 * [Fingerfood](https://www.newyorkpizza.nl/bestellen/fingerfood "Fingerfood")
     
-    * [All _(30)_](https://www.newyorkpizza.nl/bestellen/fingerfood "Alle")
-    * [Deal _(6)_](https://www.newyorkpizza.nl/bestellen/fingerfood/actie "ACTIE")
+    * [All _(27)_](https://www.newyorkpizza.nl/bestellen/fingerfood "Alle")
+    * [Promo _(8)_](https://www.newyorkpizza.nl/bestellen/fingerfood/actie "ACTIE")
     * [Chicken nuggets _(4)_](https://www.newyorkpizza.nl/bestellen/fingerfood/chicken-nuggets "Chicken nuggets")
-    * [Buffalo wings _(7)_](https://www.newyorkpizza.nl/bestellen/fingerfood/buffalo-wings "Buffalo wings")
+    * [Buffalo wings _(5)_](https://www.newyorkpizza.nl/bestellen/fingerfood/buffalo-wings "Buffalo wings")
     * [Crispy wings _(1)_](https://www.newyorkpizza.nl/bestellen/fingerfood/crispy-wings "Crispy wings")
     * [Bread _(2)_](https://www.newyorkpizza.nl/bestellen/fingerfood/bread "Bread")
-    * [Pizzaroll _(3)_](https://www.newyorkpizza.nl/bestellen/fingerfood/pizzaroll "Pizzaroll")
     * [Other _(7)_](https://www.newyorkpizza.nl/bestellen/fingerfood/overig "Overig")
     
 * [Desserts](https://www.newyorkpizza.nl/bestellen/desserts "Desserts")
     
-    * [All _(24)_](https://www.newyorkpizza.nl/bestellen/desserts "Alle")
-    * [Deal _(2)_](https://www.newyorkpizza.nl/bestellen/desserts/actie "ACTIE")
-    * [Ice cream _(16)_](https://www.newyorkpizza.nl/bestellen/desserts/ice-cream "Ice cream")
+    * [All _(22)_](https://www.newyorkpizza.nl/bestellen/desserts "Alle")
+    * [Promo _(1)_](https://www.newyorkpizza.nl/bestellen/desserts/actie "ACTIE")
+    * [Ice cream _(15)_](https://www.newyorkpizza.nl/bestellen/desserts/ice-cream "Ice cream")
     * [Bread _(1)_](https://www.newyorkpizza.nl/bestellen/desserts/bread "Bread")
     * [Other _(5)_](https://www.newyorkpizza.nl/bestellen/desserts/overig "Overig")
     
@@ -98,8 +97,8 @@ Would you like to order by phone?[0900-0102](tel:0900-0102) _25ct per dial_
 * [Register](https://www.newyorkpizza.nl/registreren)
 
 * [New York PizzaPunten](https://www.newyorkpizza.nl/Loyalty)
-* [Stores](https://www.newyorkpizza.nl/en/vestigingen "Stores")
-* [Customer service](https://www.newyorkpizza.nl/en/klantenservice "Customer service")
+* [Stores](https://www.newyorkpizza.nl/Store?culture=en "Stores")
+* [Customer service](https://www.newyorkpizza.nl/General/Contact?culture=en "Customer service")
 
 * [Jobs at New York Pizza](https://newyorkpizzajobs.com/ "Jobs at New York Pizza")
 
@@ -117,7 +116,7 @@ Total
 
 Continue ordering
 
-[Checkout](https://www.newyorkpizza.nl/en/secure/checkout "Afrekenen")
+[Checkout](https://www.newyorkpizza.nl/Checkout?culture=en "Afrekenen")
 
 Cookie verklaring New York Pizza  
 
@@ -339,7 +338,7 @@ E-mail address
 
 Password 
 
-[Forgot password?](https://www.newyorkpizza.nl/en/wachtwoord-vergeten "Wachtwoord vergeten")
+[Forgot password?](https://www.newyorkpizza.nl/Account/ForgotPassword?culture=en "Wachtwoord vergeten")
 
 Remember me
 
@@ -353,7 +352,7 @@ Registreren
 
 Register now for free as a company, order on account, manage your users, view invoices and orders.
 
-[Register as company](https://www.newyorkpizza.nl/en/bedrijf-registreren "Registreren als bedrijf")
+[Register as company](https://www.newyorkpizza.nl/Company/RegisterCompany?culture=en "Registreren als bedrijf")
 
 Registeren
 
@@ -410,9 +409,9 @@ I accept the terms and conditions
 
 Register as a business, pay on account, manage your users, overview the invoices and orders.
 
-[Register as company](https://www.newyorkpizza.nl/en/bedrijf-registreren "Registreren als bedrijf")
+[Register as company](https://www.newyorkpizza.nl/Company/RegisterCompany?culture=en "Registreren als bedrijf")
 
-[Continue without registering](https://www.newyorkpizza.nl/en "Doorgaan zonder registreren")
+[Continue without registering](https://www.newyorkpizza.nl/?culture=en "Doorgaan zonder registreren")
 
 **Product information**
 
