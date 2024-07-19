@@ -1,5 +1,3 @@
-[![Default Share Image](//images.ctfassets.net/v3n26e09qg2r/11CfrjeTLEc8iYUoC0eM2U/92d6c74060317d5ab12cc6df7db56dc8/logo.svg)](https://www.headspace.com/)
-
 Headspace Privacy Policy
 ========================
 
@@ -313,6 +311,20 @@ We include this section for residents of other US states with privacy laws that 
 * Residents of Colorado, Connecticut, Virginia, and Utah have the right to opt out of targeted advertising and sales. If you are a resident of these states, you may opt out by [following this link](#) and, if you are an Apps user, by going to [the My Data page here](https://webviews.headspace.com/data) or within your mobile app settings.
 * For users in Colorado, Connecticut and Virginia, you may opt out of profiling in furtherance of decisions that produce legal or similarly significant effects. While you may still make this request, Headspace does not currently use profiling in this manner.
 * Nevada provides its residents a limited right to opt out of the sale of personal information. Please know that we do not trigger this requirement because we do not sell your personal information for payment.
+
+![](https://images.ctfassets.net/v3n26e09qg2r/3eJ46JoVs0ZjGp2063sfgo/e1d6d20d6946693a64f7276e9ff3e55f/Frame_231.svg?fm=&w=256&q=75)
+
+![](https://images.ctfassets.net/v3n26e09qg2r/3eJ46JoVs0ZjGp2063sfgo/e1d6d20d6946693a64f7276e9ff3e55f/Frame_231.svg?fm=&w=256&q=75)
+
+#### Stay in the loop
+
+Be the first to get updates on our latest content, special offers, and new features.
+
+By signing up, you’re agreeing to receive marketing emails from Headspace. You can unsubscribe at any time. For more details, check out our [Privacy Policy.](https://www.headspace.com/privacy-policy)
+
+Email address
+
+Subscribe
 
 #### Get some Headspace
 
