@@ -6,9 +6,9 @@
 
 
 
-Cookie Policy
+Cookies \& Similar Technologies Policy
 
-Updated January 2024
+Updated July 2024
 
 
 
@@ -180,7 +180,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 2
+Updated: July 2024 2
 
 
 
@@ -340,7 +340,99 @@ Cookie Policy
 
 
 
-Updated: January 2024 2
+Updated: July 2024 2
+
+
+
+Other Similar Technologies
+
+In addition to cookies, we may use other
+
+technologies, such as:
+
+
+
+Social widgets: Social widgets are buttons or
+
+icons provided by third-party social media
+
+providers (for example a social media
+
+website) that allow you to interact with
+
+those social media services when you view a
+
+web page. These social widgets may collect
+
+browsing data (data about what pages you
+
+are viewing, what links you are clicking on
+
+etc.), which may be received by the third
+
+party that provided the widget, and are
+
+controlled by the third parties.
+
+
+
+Web Beacons (Pixels): Web beacons are
+
+snippets of programming code or included in
+
+web pages, emails, and ads that notifies us or
+
+our trusted third-party service providers
+
+when those web pages, emails or ads have
+
+been viewed or interacted with.
+
+
+
+UTM Codes: UTM codes are strings that can
+
+appear in a URL (the Uniform Resource
+
+Locator, which is typically the http or https
+
+address entered to go to a web page) when a
+
+user moves from one web page or website to
+
+another, where the string can represent
+
+information about browsing, such as which
+
+advertisement, page, or publisher (a website
+
+that included an advert) sent the user to the
+
+receiving website (the website the advert
+
+was about). These codes may also be used in
+
+emails to track user engagement and
+
+campaign performance.
+
+
+
+Local Storage: Local storage objects are sets
+
+of data that can be stored on your browser
+
+by a site. They can be used to maintain
+
+preferences, a history of your usage, or even
+
+the state or settings of a site.
+
+Cookie Policy
+
+
+
+Updated: July 2024 3
 
 
 
@@ -440,7 +532,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 3
+Updated: July 2024 4
 
 
 
@@ -560,7 +652,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 4
+Updated: July 2024 5
 
 
 
@@ -680,7 +772,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 5
+Updated: July 2024 6
 
 
 
@@ -762,7 +854,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 6
+Updated: July 2024 7
 
 
 
@@ -856,7 +948,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 7
+Updated: July 2024 8
 
 
 
@@ -980,7 +1072,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 8
+Updated: July 2024 9
 
 
 
@@ -1044,11 +1136,9 @@ Party
 
 amazon-connect-
 
-session-c72e45c8-1946-
+3a93adc2-58bd-460f-
 
-4843-a2f0-
-
-2d56ca018107
+b281-a22b4885e40b
 
 
 
@@ -1108,7 +1198,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 9
+Updated: July 2024 10
 
 
 
@@ -1220,7 +1310,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 10
+Updated: July 2024 11
 
 
 
@@ -1234,17 +1324,15 @@ Cookie Name Category Purpose Lifespan
 
 
 
-123.ie Third-Party Secure-ENID Performance This cookie is set by Google and is used to remember your preferences and
+123.ie Third-Party Secure-ENID Performance This cookie is set by Google and is used to remember your preferences and other
 
-other information, such as your preferred language, how many results you
+information, such as your preferred language, how many results you prefer to
 
-prefer to have shown on a search results page (for example, 10 or 20), and
+have shown on a search results page (for example, 10 or 20), and whether you
 
-whether you want to have Google’s SafeSearch filter turned on. For more
+want to have Google’s SafeSearch filter turned on. For more information, please
 
-information, please visit
-
-https://policies.google.com/technologies/cookies?hl=en-US
+visit https://policies.google.com/technologies/cookies?hl=en-US
 
 
 
@@ -1258,13 +1346,13 @@ Persistent.
 
 times of high website traffic. Request Rate limiting is generally put in place as a
 
-defensive measure for services. This cookie is a preventative measure to
+defensive measure for services. This cookie is a preventative measure to ensure
 
-ensure that Google Analytics is always available to 123.ie for the purposes of
+that Google Analytics is always available to 123.ie for the purposes of web
 
-web analytics. The cookie contains no personal data. To opt out of being
+analytics. The cookie contains no personal data. To opt out of being tracked by
 
-tracked by Google Analytics across all websites please
+Google Analytics across all websites please
 
 visit: http://tools.google.com/dlpage/gaoptout.
 
@@ -1272,9 +1360,9 @@ We also will use this cookie for marketing purposes through Google Ads only
 
 when you also give us separate advertising cookie consent. Click here to get
 
-more information about Google analytics' advertising features. You may opt-
+more information about Google analytics' advertising features. You may opt-out
 
-out of Google Analytics Advertising Features through Google Ads Settings.
+of Google Analytics Advertising Features through Google Ads Settings.
 
 
 
@@ -1286,7 +1374,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 11
+Updated: July 2024 12
 
 
 
@@ -1324,9 +1412,9 @@ We also will use this cookie for marketing purposes through Google Ads only
 
 when you also give us separate advertising cookie consent. Click here to get
 
-more information about Google analytics' advertising features. You may opt-
+more information about Google analytics' advertising features. You may opt-out
 
-out of Google Analytics Advertising Features through Google Ads Settings.
+of Google Analytics Advertising Features through Google Ads Settings.
 
 For further information on the use of your data, please visit Google’s privacy
 
@@ -1374,7 +1462,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 12
+Updated: July 2024 13
 
 
 
@@ -1388,9 +1476,9 @@ Cookie Name Category Purpose Lifespan
 
 when you also give us separate advertising cookie consent. Click here to get
 
-more information about Google analytics' advertising features. You may opt-
+more information about Google analytics' advertising features. You may opt-out
 
-out of Google Analytics Advertising Features through Google Ads Settings.
+of Google Analytics Advertising Features through Google Ads Settings.
 
 For further information on the use of your data, please visit Google’s privacy
 
@@ -1404,11 +1492,11 @@ visitors arrive at and interact with the 123.ie website. We then use the
 
 information to help us improve the website. Specifically, this cookie registers a
 
-randomly generated and hashed unique ID, called a client identifier or ID, that
+randomly generated and hashed unique ID, called a client identifier or ID, that is
 
-is used to generate statistical data on how the visitor uses the website. To opt
+used to generate statistical data on how the visitor uses the website. To opt out
 
-out of being tracked by Google Analytics across all websites, please visit:
+of being tracked by Google Analytics across all websites, please visit:
 
 http://tools.google.com/dlpage/gaoptout
 
@@ -1416,13 +1504,13 @@ We also will use this cookie for marketing purposes through Google Ads only
 
 when you also give us separate advertising cookie consent. Click here to get
 
-more information about Google analytics’ advertising features. You may opt-
+more information about Google analytics’ advertising features. You may opt-out
 
-out of Google Analytics Advertising Features through Google Ads Settings. This
+of Google Analytics Advertising Features through Google Ads Settings. This data
 
-data is not shared with another third-party except for Google. For further
+is not shared with another third-party except for Google. For further information
 
-information on the use of your data, please visit Google’s privacy policy here:
+on the use of your data, please visit Google’s privacy policy here:
 
 https://policies.google.com/privacy?hl=en-US.
 
@@ -1436,7 +1524,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 13
+Updated: July 2024 14
 
 
 
@@ -1454,9 +1542,9 @@ visitors arrive at and interact with the 123.ie website. We then use this
 
 information to help us improve the website. Specifically, this cookie stores a
 
-twice-hashed version of a randomly generated client ID associated to you by
+twice-hashed version of a randomly generated client ID associated to you by an
 
-an FP_ID cookie. It is used to generate statistical data on how visitors use the
+FP_ID cookie. It is used to generate statistical data on how visitors use the
 
 website. This cookie stores no personal data and is deleted from your browser
 
@@ -1470,9 +1558,9 @@ We also will use this cookie for marketing purposes through Google Ads only
 
 when you also give us separate advertising cookie consent. Click here to get
 
-more information about Google analytics' advertising features. You may opt-
+more information about Google analytics' advertising features. You may opt-out
 
-out of Google Analytics Advertising Features through Google Ads Settings.
+of Google Analytics Advertising Features through Google Ads Settings.
 
 
 
@@ -1482,21 +1570,21 @@ Persistent.
 
 
 
-123.ie First-Party \_gat_UA- Performance This is a pattern type cookie set by Google Analytics, where the pattern
+123.ie First-Party \_gat_UA- Performance This is a pattern type cookie set by Google Analytics, where the pattern element
 
-element on the name contains the unique identity number of the account or
+on the name contains the unique identity number of the account or website it
 
-website it relates to. It is used to limit the amount of data recorded by Google
+relates to. It is used to limit the amount of data recorded by Google on 123.ie
 
-on 123.ie website.
+website.
 
 We also will use this cookie for marketing purposes through Google Ads only
 
 when you also give us separate advertising cookie consent. Click here to get
 
-more information about Google analytics' advertising features. You may opt-
+more information about Google analytics' advertising features. You may opt-out
 
-out of Google Analytics Advertising Features through Google Ads Settings.
+of Google Analytics Advertising Features through Google Ads Settings.
 
 You can read more about Google’s cookie policy here:
 
@@ -1504,9 +1592,9 @@ https://policies.google.com/technologies/types?hl=en-US. This data is not
 
 shared with another third party except for Google.
 
-To opt out of being tracked by Google Analytics across all websites, please
+To opt out of being tracked by Google Analytics across all websites, please visit:
 
-visit: http://tools.google.com/dlpage/gaoptout
+http://tools.google.com/dlpage/gaoptout
 
 For further information on the use of your data, please visit Google’s privacy
 
@@ -1522,7 +1610,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 14
+Updated: July 2024 15
 
 
 
@@ -1538,9 +1626,9 @@ Cookie Name Category Purpose Lifespan
 
 website. This cookie is set when a visitor lands on a page with the Hotjar script.
 
-The cookie is used to persist the random user ID which ensures that behaviour
+The cookie is used to persist the random user ID which ensures that behaviour in
 
-in subsequent visits to the same site will be attributed to the same user ID. This
+subsequent visits to the same site will be attributed to the same user ID. This
 
 cookie is stored by Hotjar on your browser. Hotjar does process some personal
 
@@ -1588,9 +1676,9 @@ Performance Hotjar is a software that allows us to visualize how users engage wi
 
 website. This cookie is set by Hotjar when a visitor lands on a page with the
 
-Hotjar script and interacts with a Survey. It is used to ensure that the same
+Hotjar script and interacts with a Survey. It is used to ensure that the same invite
 
-invite does not re-appear if it has already been shown.
+does not re-appear if it has already been shown.
 
 
 
@@ -1634,7 +1722,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 15
+Updated: July 2024 16
 
 
 
@@ -1650,9 +1738,9 @@ Cookie Name Category Purpose Lifespan
 
 website. This cookie is set when a visitor lands on a page with the Hotjar script.
 
-The cookie is used to persist the random user ID which ensures that behaviour
+The cookie is used to persist the random user ID which ensures that behaviour in
 
-in subsequent visits to the same site will be attributed to the same user ID.
+subsequent visits to the same site will be attributed to the same user ID.
 
 
 
@@ -1668,9 +1756,9 @@ mple
 
 Performance Hotjar is a software that allows us to visualize how users engage with our
 
-website. This cookie is set to let Hotjar know whether that user is included in
+website. This cookie is set to let Hotjar know whether that user is included in the
 
-the data sampling defined by this website's daily session limit.
+data sampling defined by this website's daily session limit.
 
 
 
@@ -1688,9 +1776,9 @@ Sample
 
 Performance Hotjar is a software that allows us to visualize how users engage with our
 
-website. This cookie is set to let Hotjar know whether that user is included in
+website. This cookie is set to let Hotjar know whether that user is included in the
 
-the data sampling defined by this website's pageview limit.
+data sampling defined by this website's pageview limit.
 
 
 
@@ -1756,7 +1844,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 16
+Updated: July 2024 17
 
 
 
@@ -1810,9 +1898,9 @@ Vimeo.
 
 com
 
-Third Party \_vuid Performance We embed videos from our official Vimeo channel onto our website. A cookie
+Third Party \_vuid Performance We embed videos from our official Vimeo channel onto our website. A cookie is
 
-is set to enable video to play and to collect analytics data such as how long a
+set to enable video to play and to collect analytics data such as how long a
 
 viewer has watched the video. These cookies don't track individuals. For more
 
@@ -1848,11 +1936,73 @@ Persistent.
 
 30 Minutes
 
+
+
+Micros
+
+oft
+
+Azure
+
+
+
+Third Party ai_user Performance Purpose: This cookie is from Azure, the cloud platform we use to monitor the
+
+overall health of our site. This cookie is set by Azure and used to uniquely
+
+identify a particular user by tracking the requests you make to our services via
+
+your browser. The telemetry is monitored for any errors or delays in providing
+
+the service you are requesting.
+
+
+
+Persistent. 365 Days.
+
 Cookie Policy
 
 
 
-Updated: January 2024 17
+Updated: July 2024 18
+
+
+
+Host 1st or 3rd
+
+Party
+
+Cookie Name Category Purpose Lifespan
+
+
+
+Micros
+
+oft
+
+Azure
+
+
+
+Third Party ai_session Performance Purpose: This cookie is from Azure, the cloud platform we use to monitor the
+
+overall health of our site. This cookie is set by Azure and used to uniquely
+
+identify a particular user’s session by tracking the requests you make to our
+
+services via your browser. The telemetry is monitored for any errors or delays in
+
+providing the service you are requesting.
+
+
+
+Session
+
+Cookie Policy
+
+
+
+Updated: July 2024 19
 
 
 
@@ -1914,7 +2064,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 18
+Updated: July 2024 20
 
 
 
@@ -1976,7 +2126,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 19
+Updated: July 2024 21
 
 
 
@@ -2076,7 +2226,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 20
+Updated: July 2024 22
 
 
 
@@ -2160,13 +2310,11 @@ Persistent.
 
 123.ie First-Party \_uetsid_exp Advertising Contains the expiry-date for the cookie with corresponding name. Persistent.
 
-1 Day.
-
 Cookie Policy
 
 
 
-Updated: January 2024 21
+Updated: July 2024 23
 
 
 
@@ -2218,13 +2366,11 @@ Persistent.
 
 123.ie First-Party \_uetvid_exp Advertising Contains the expiry-date for the cookie with corresponding name. Persistent.
 
-13 Months.
-
 Cookie Policy
 
 
 
-Updated: January 2024 22
+Updated: July 2024 24
 
 
 
@@ -2324,7 +2470,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 23
+Updated: July 2024 25
 
 
 
@@ -2448,7 +2594,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 24
+Updated: July 2024 26
 
 
 
@@ -2572,7 +2718,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 25
+Updated: July 2024 27
 
 
 
@@ -2676,7 +2822,7 @@ Cookie Policy
 
 
 
-Updated: January 2024 26
+Updated: July 2024 28
 
 
 
