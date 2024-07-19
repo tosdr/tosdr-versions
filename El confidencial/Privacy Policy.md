@@ -1,6 +1,12 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=7215267&cv=2.0&cj=1)
 
 * [Últimas noticias](https://www.elconfidencial.com/ultima-hora-en-vivo/ "Noticias de Últimas noticias")
+* [Opinión](https://blogs.elconfidencial.com/ "Noticias de Opinión")
+    * [Nacho Cardero](https://blogs.elconfidencial.com/espana/caza-mayor/ "Noticias de Nacho Cardero")
+    * [Antonio Casado](https://blogs.elconfidencial.com/espana/al-grano/ "Noticias de Antonio Casado")
+    * [Carlos Sánchez](https://blogs.elconfidencial.com/espana/mientras-tanto/ "Noticias de Carlos  Sánchez")
+    * [José Antonio Zarzalejos](https://blogs.elconfidencial.com/espana/notebook/ "Noticias de  José Antonio Zarzalejos ")
+    * [El Confidente](https://blogs.elconfidencial.com/espana/el-confidente/ "Noticias de El Confidente")
 * [España](https://www.elconfidencial.com/espana/ "Noticias de España")
     * [Madrid](https://www.elconfidencial.com/espana/madrid/ "Noticias de Madrid")
     * [Cataluña](https://www.elconfidencial.com/espana/cataluna/ "Noticias de Cataluña")
@@ -11,12 +17,7 @@
     * [País Vasco](https://www.elconfidencial.com/espana/pais-vasco/ "Noticias de País Vasco")
     * [Canarias](https://www.elconfidencial.com/espana/islas-canarias/ "Noticias de Canarias")
     * [Castilla y León](https://www.elconfidencial.com/espana/castilla-y-leon/ "Noticias de Castilla y León")
-* [Opinión](https://blogs.elconfidencial.com/ "Noticias de Opinión")
-    * [Nacho Cardero](https://blogs.elconfidencial.com/espana/caza-mayor/ "Noticias de Nacho Cardero")
-    * [Antonio Casado](https://blogs.elconfidencial.com/espana/al-grano/ "Noticias de Antonio Casado")
-    * [Carlos Sánchez](https://blogs.elconfidencial.com/espana/mientras-tanto/ "Noticias de Carlos  Sánchez")
-    * [José Antonio Zarzalejos](https://blogs.elconfidencial.com/espana/notebook/ "Noticias de  José Antonio Zarzalejos ")
-    * [El Confidente](https://blogs.elconfidencial.com/espana/el-confidente/ "Noticias de El Confidente")
+* [Inmobiliario](https://www.elconfidencial.com/inmobiliario/ "Noticias de Inmobiliario")
 * [Cotizalia](https://www.elconfidencial.com/mercados/ "Noticias de Cotizalia")
     * [Mercados](https://www.elconfidencial.com/mercados/ "Noticias de Mercados")
     * [Empresas](https://www.elconfidencial.com/empresas/ "Noticias de Empresas")
@@ -26,7 +27,6 @@
     * [Índices](https://www.elconfidencial.com/mercados/indice/ibex35 "Noticias de Índices")
     * [Fondos de Inversión](https://www.elconfidencial.com/mercados/fondos-de-inversion/fichas/ "Noticias de Fondos de Inversión")
     * [Blogs](https://blogs.elconfidencial.com/mercados/ "Noticias de Blogs")
-* [Inmobiliario](https://www.elconfidencial.com/inmobiliario/ "Noticias de Inmobiliario")
 * [Jurídico](https://www.elconfidencial.com/juridico/ "Noticias de Jurídico")
 * [Planeta A](https://www.elconfidencial.com/medioambiente/ "Noticias de Planeta A")
     * [Medioambiente](https://www.elconfidencial.com/medioambiente/ "Noticias de Medioambiente")
@@ -96,7 +96,6 @@
     * [Ofertas](https://www.elconfidencial.com/decompras/ofertas/ "Noticias de Ofertas")
 * [Interactivos](https://www.elconfidencial.com/tags/otros/interactivos-21298/ "Noticias de Interactivos")
 * [El tiempo](https://www.elconfidencial.com/el-tiempo/ "Noticias de El tiempo")
-* [Coronavirus](https://www.elconfidencial.com/espana/coronavirus/ "Noticias de Coronavirus")
 * [Multimedia](https://www.elconfidencial.com/multimedia/ "Noticias de Multimedia")
     * [Podcasts](https://www.elconfidencial.com/podcasts "Noticias de Podcasts")
     * [Vídeos](https://www.elconfidencial.com/multimedia/video/ "Noticias de Vídeos")
@@ -309,11 +308,12 @@ Políticas de privacidad
     * **Transferencias internacionales de datos:** No transferimos ni conservamos tus datos recogidos a través de nuestras cookies propias fuera del Espacio Económico Europeo. Puedes informarte de las transferencias a terceros países que, en su caso, realizan los terceros identificados en esta [Política De Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/) en sus correspondientes políticas de privacidad (ver los enlaces facilitados en el apartado . Algunos de nuestros socios pueden estar ubicados en Estados Unidos u otros países fuera del Espacio Económico Europeo cuya legislación no ofrece un nivel de protección de datos equivalente al europeo. Al consentir el uso de cookies y la compartición de datos, consientes la transferencia de sus datos personales.
     * **Período de conservación de tus datos:** Los datos obtenidos a través de las cookies tienen la duración establecida en la [Política De Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/). En todo caso tus datos serán conservados mientras no revoques tu consentimiento.
     
-*   Tratamiento datos canal denuncias
+*   Tratamiento de datos de Canal Interno de Información
     
     Si bien la información sobre el tratamiento de los datos recabados a través del canal de denuncias interno se informa directamente en el propio canal, se incluye aquí la información básica sobre este tratamiento.
     
     * **Finalidad del tratamiento:** Tratamos los datos, tanto los del denunciante, en caso de que no sea una denuncia anónima, como las de los denunciados o terceros intervinientes, para investigar y gestionar las denuncias del canal.
+    * **Datos:** Tratamos los datos facilitados por el denunciante y cualquier otro dato que se aporte en la denuncia. En ningún caso serán objeto de tratamiento los datos personales que no sean necesarios para el conocimiento e investigación de las acciones u omisiones a las que se refiere la Ley 2/2023, de 20 de febrero, procediéndose, en su caso, a su inmediata supresión.
     * **Base legal del tratamiento:** El tratamiento de tus datos se realiza en cumplimiento de una obligación legal (Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción).
     * **Destinatarios de tus datos:** No cederemos tus datos a ningún tercero salvo que sea indispensable para la gestión de la tramitación de los procedimientos sancionadores o penales que se deriven de la denuncia.
     * **Transferencias internacionales de datos:** No se transferirán datos fuera del Espacio Económico Europeo.
@@ -379,11 +379,11 @@ Volver Arriba
 * [Eventos](https://www.elconfidencial.com/eventos/)
 * [Servicios](https://www.elconfidencial.com/servicios/)
 
-* © TITANIA COMPAÑÍA EDITORIAL, S.L. 2023. España. Todos los derechos reservados
+* © TITANIA COMPAÑÍA EDITORIAL, S.L. 2024. España. Todos los derechos reservados
 * [Condiciones](https://www.elconfidencial.com/politicas-de-privacidad/condiciones/ "Condiciones")
 * [Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/ "Política de Privacidad")
 * [Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/ "Política de Cookies")
 * [Configuración de cookies](javascript:Didomi.preferences.show(); "Configuración de cookies")
-* [Eurocopa](https://www.elconfidencial.com/tags/temas/eurocopa-3180/ "Eurocopa")
 * Auditado por GFK
 * [Datos de mercado proporcionados por TradingView](https://es.tradingview.com/ "Datos de mercado proporcionados por TradingView")
+* [Argentina Colombia](https://www.elconfidencial.com/deportes/2024-07-15/argentina-colombia-copa-america-final-hoy-directo_3924258/ "Argentina Colombia")
