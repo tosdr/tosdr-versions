@@ -54,15 +54,15 @@ Privacy Notice Sections
 **THE DOW JONES PRIVACY NOTICE**
 ================================
 
-**Effective Date: December 20, 2023**
+**Effective Date: July 1, 2024**
 
 1\. INTRODUCTION
 
-This Privacy Notice explains how Dow Jones & Company, Inc. and its subsidiaries (collectively, "Dow Jones", “our”, “us”, or “we”) collect, use and disclose personal data about you when you use our websites, mobile sites, applications ("apps") or other online products and services that link to this Privacy Notice, subscribe to our print newspaper, attend our conferences or events, and/or receive our newsletters or emails (collectively, the "Dow Jones Services"). If there is a conflict between this Privacy Notice and a Dow Jones Services corporate subscription agreement, the Dow Jones Services corporate subscription agreement will take precedence.
+This Privacy Notice explains how Dow Jones & Company, Inc. and its subsidiaries (collectively, "Dow Jones", “our”, “us”, or “we”) collect, use and disclose personal data about you when you use our websites, mobile sites, applications ("apps") or other online products and services that link to this Privacy Notice, subscribe to our print newspaper, attend our conferences or events, and/or receive our newsletters or emails (collectively, the "Dow Jones Services"). If there is a conflict between this Privacy Notice and a Dow Jones Services corporate subscription agreement which governs your use of the Dow Jones Services, the Dow Jones Services corporate subscription agreement will take precedence.
 
 By using the Dow Jones Services, you acknowledge you have read and accept this Privacy Notice.
 
-The Dow Jones Services are intended for general audiences, and we do not knowingly collect personal data from minors under 16 years of age. 
+The Dow Jones Services are intended for general audiences, and we do not knowingly collect personal data from minors under 16 years of age.
 
 2\. DATA WE COLLECT
 
@@ -77,8 +77,9 @@ We collect personal data that you provide to us when you interact with the Dow J
 * Information you provide when you register for an event or conference, such as your occupation or interests;
 * User-generated content when you participate in a community forum or otherwise post content that others can read or view, such as your comments, username or profile picture;
 * Information you provide when you create a profile, participate in a sweepstakes, contest or game or take a survey, such as your education, investments, other financial information, interests or gender;
-* Information you provide when you use an interactive feature (such as text, chat, chat bot or article sharing options) or scan or use our QR codes, such as your mobile phone number; and
-* Customer service information, such as messages and other information you address to us through online forms, text, chat, by email, over the phone or by postal mail.
+* Information you provide when you use an interactive feature (such as text, chat, chat bot or article sharing options) or scan or use our QR codes, such as your mobile phone number;
+* Customer service information, such as messages and other information you address to us through online forms, text, chat, by email, over the phone or by postal mail; and
+* Personal data you provide to us about your friends and associates, such as names and email addresses (e.g., when you purchase a gift subscription for their benefit). This is only available in the U.S.  If you provide us with such information, you acknowledge and agree that those individuals reside in the United States and you have their consent to provide their contact information to us.
 
 2.2 Data We Receive from Other Sources
 
@@ -181,7 +182,7 @@ The above paragraph does _not_ apply to personal data collected through our WSJ 
 
 4.6 With Social Networking Services
 
-As discussed in Section 2.3 of our Privacy Notice and in our [Social Networking Services Notice](https://www.dowjones.com/social-networking-services-notice/), we may share your information when you log into or connect a social media service account with the Dow Jones Services. The Services may also offer you the ability to share information to a social networking site (e.g., Facebook, Twitter), by using integrated tools (e.g., Facebook “Like” button, or Twitter “Tweet” button). To control this sharing of information, please review and adjust your privacy settings for the relevant social network. The social networking service's use of the shared information will be governed by its privacy notice.
+As discussed in Section 2.3 of our Privacy Notice and in our [Social Networking Services Notice](https://www.dowjones.com/social-networking-services-notice/), we may share your information when you log into or connect a social media service account with the Dow Jones Services. The Dow Jone Services may also offer you the ability to share information to a social networking site (e.g., Facebook, Twitter), by using integrated tools (e.g., Facebook “Like” button, or Twitter “Tweet” button). To control this sharing of information, please review and adjust your privacy settings for the relevant social network. The social networking service's use of the shared information will be governed by its privacy notice.
 
 4.7 For Legal Requirements and Proceedings
 
@@ -191,9 +192,9 @@ We may disclose your personal data to law enforcement authorities or other gover
 
 We may disclose information we have about you in the event we sell or transfer all or part of our business or assets (including in the event of a merger, reorganization, dissolution or liquidation) to the third party or its advisors involved in such corporate transaction
 
-4.9 With Third Parties for the Protection of the Services and Our Users
+4.9 With Third Parties for the Protection of the Dow Jones Services and Our Users
 
-We may disclose your personal data to protect and defend the rights, interests and safety of the Services and our users, our subsidiaries and affiliates, and our and their employees, contractors and agents; and to protect the security of our Services, including when we believe necessary or appropriate to prevent physical harm or financial loss.
+We may disclose your personal data to protect and defend the rights, interests and safety of the Dow Jones Services and our users, our subsidiaries and affiliates, and our and their employees, contractors and agents; and to protect the security of our Services, including when we believe necessary or appropriate to prevent physical harm or financial loss.
 
 5\. YOUR CHOICES AND RIGHTS
 
@@ -217,7 +218,7 @@ If you are a WSJ U.S. edition or Barron’s print subscriber, you may also opt o
 
 You have choices about whether cookies or similar technologies are placed on your computer or mobile device. For more information, visit our [Cookie Notice](https://www.dowjones.com/cookies-policy/).
 
-You may also choose to opt out of our use of data that we or our third party service providers collect about your activities to provide you with tailored advertising about products or services of interest to you. To learn more about how to opt out of such interest-based advertising, please see the “How You Can Manage Cookies” section in our [Cookie Notice](https://www.dowjones.com/cookies-policy/) or visit the consumer opt-out pages at [DAA](https://optout.aboutads.info/?c=2&lang=EN) or [NAI](https://optout.networkadvertising.org/?c=1).      
+You may also choose to opt out of our use of data that we or our third party service providers collect about your activities to provide you with tailored advertising about products or services of interest to you. To learn more about how to opt out of such interest-based advertising, please see the “How You Can Manage Cookies” section in our [Cookie Notice](https://www.dowjones.com/cookies-policy/) or visit the consumer opt-out pages at [DAA](https://optout.aboutads.info/?c=2&lang=EN) or [NAI](https://optout.networkadvertising.org/?c=1).
 
 5.1.5 To Change Mobile App Privacy Settings
 
@@ -225,7 +226,7 @@ You may change the privacy settings for Dow Jones apps by accessing and updating
 
 5.2 Your Rights
 
-Subject to applicable law, you may have certain rights to access, review, update, correct inaccuracies in or delete your personal data in our custody and control by submitting a request [here](https://privacyportal.onetrust.com/webform/8930e991-baac-4a05-89f0-fc400879fa8a/3ad033f6-a159-4ef9-a0ad-aa2cf41fef65), or by contacting us as specified in the “[Contact Us](https://www.dowjones.com/privacy-notice/?mod=DJnotice#contactUs)” section below.
+Subject to applicable law, you may have certain rights to access, review, update, correct inaccuracies in or delete your personal data in our custody and control, which you may seek to exercise by submitting a request [here](https://privacyportal.onetrust.com/webform/8930e991-baac-4a05-89f0-fc400879fa8a/3ad033f6-a159-4ef9-a0ad-aa2cf41fef65), or by contacting us as specified in the “[Contact Us](https://www.dowjones.com/privacy-notice/?mod=DJnotice#contactUs)” section below.
 
 For security purposes, we will seek to verify your identity – in part by requesting certain information from you – as part of our process. For instance, you may need to provide your name and email address. For certain types of requests, we may also need to ask you for additional information to verify your identity. Once we have verified your identity, we will respond to your request as appropriate.
 
@@ -239,19 +240,15 @@ Where you have provided your consent for our use of your personal data, you have
 
 Under certain circumstances, you may have the right to request that we delete your data. If you wish to delete the personal data we hold about you, please let us know and we will take reasonable steps to respond to your request in accordance with applicable legal requirements. Certain data may be exempt from such requests under applicable law. We may also need to retain certain types of data so that we can provide the Dow Jones Services to you. If you ask us to delete your data, you may no longer be able to access or use our Services.
 
-5.3 For California Residents
+5.3 California Privacy Rights
 
 For additional information for residents of the State of California [click here](https://www.dowjones.com/the-dow-jones-privacy-notice-ca/).
 
-5.4 For Colorado, Connecticut, Virginia & Utah Residents
+5.4 Other U.S. States Privacy Rights
 
-For additional information for residents of the States of Colorado, Connecticut, the Commonwealth of Virginia, and Utah, [click here](https://www.dowjones.com/the-dow-jones-privacy-notice-co-ct-ut-va/).
+For additional information for residents of [other states](https://www.dowjones.com/privacy-notice-list-of-other-us-states-with-privacy-rights-july2024/) that provide their residents with certain rights with respect to personal data, [click here](https://www.dowjones.com/the-dow-jones-privacy-notice-other-states/).
 
-5.5 For Nevada Residents
-
-If you are in Nevada, you may have the right to request that we do not “sell” (as defined under Nevada law) your personal data by submitting a request [here](https://privacyportal.onetrust.com/webform/8930e991-baac-4a05-89f0-fc400879fa8a/3ad033f6-a159-4ef9-a0ad-aa2cf41fef65).
-
-5.6 For Residents of the European Economic Area and the United Kingdom
+5.5 For Residents of the European Economic Area and the United Kingdom
 
 For additional information for residents of the United Kingdom or a country that is a Member of the European Union or European Economic Area, [click here](https://www.dowjones.com/the-dow-jones-privacy-notice-eea-uk/).
 
