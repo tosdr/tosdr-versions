@@ -7,7 +7,7 @@ For Individuals For Businesses
 
 [Developers](https://bitpay.com/docs)
 
-[Help](https://bitpay.com/request-help)
+[Help](https://support.bitpay.com/)
 
 [Buy Crypto ![Arrow Right](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTVweCIgaGVpZ2h0PSIxNHB4IiB2aWV3Qm94PSIwIDAgMTUgMTQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8dGl0bGU+QlAtQXJyb3ctUmlnaHQ8L3RpdGxlPgogICAgPGcgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTUyLjAwMDAwMCwgLTUuMDAwMDAwKSIgc3Ryb2tlPSIjMDI1MEM1Ij4KICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTUzLjAwMDAwMCwgNi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDYgTDEzLDYiIHN0cm9rZS13aWR0aD0iMiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwb2x5bGluZSBzdHJva2Utd2lkdGg9IjIiIHBvaW50cz0iNyAwIDEzIDYgNyAxMiI+PC9wb2x5bGluZT4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==)](https://bitpay.com/buy-crypto/) 
 
@@ -142,7 +142,7 @@ Your Shoppers may be required to complete a verification process at the time of 
 
 **4.4.1 Prohibited Use**
 
-In connection with your use of the Acceptance Services, and your interactions with other users and third parties, you agree you will not engage in the following Prohibited Uses. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Acceptance Services involves a Prohibited Use or have questions about how these requirements apply to you, please contact us at bitpay.com/request-help/wizard.
+In connection with your use of the Acceptance Services, and your interactions with other users and third parties, you agree you will not engage in the following Prohibited Uses. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Acceptance Services involves a Prohibited Use or have questions about how these requirements apply to you, please contact us at https://support.bitpay.com.
 
 * **Unlawful Activity:** Actions which violate, or would assist in violation of, any law, statute, ordinance, or regulation, including applicable sanctions programs including but not limited to the U.S. Department of Treasury's Office of Foreign Assets Control ("OFAC") and the Dutch Sanctions Act, or which would involve proceeds of any unlawful activity; activity which would publish, distribute or disseminate any unlawful material or information.
 * **Abusive Activity:** Actions which impose an unreasonable or disproportionately large load on our infrastructure, or detrimentally interfere with, intercept, or expropriate any system, data, or information; transmit or upload any material to our computer systems, networks or sites that contain viruses, trojan horses, worms, or any other harmful or deleterious programs; attempt to gain unauthorized access to our computer systems, networks or sites or our other customers’ Accounts, computer systems or networks connected to us, through any other means; interfere with another individual's or entity's access to or use of the Acceptance Services; use information of another party to access or use our computer systems, networks or sites, except in the case of specific Merchants which are specifically authorized by a user to access such user's Account and information; transfer your Account access or rights to your Account to a third party, unless by operation of law or with the express written permission of BitPay; or harvest or otherwise collect information from our computer systems, networks or sites about others, including without limitation email addresses, without proper consent.
@@ -152,7 +152,7 @@ In connection with your use of the Acceptance Services, and your interactions wi
 
 **4.4.2 Prohibited Business**
 
-In addition to the Prohibited Uses, the following categories of businesses, business practices, and items for sale are prohibited from the Acceptance Services. Most Prohibited Business categories are imposed by the requirements of our banking providers or regulators. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into a Prohibited Business category. If you are uncertain as to whether or not your use of the Acceptance Services involves a Prohibited Business, or have questions about how these requirements apply to you, please contact us at bitpay.com/request-help/wizard.
+In addition to the Prohibited Uses, the following categories of businesses, business practices, and items for sale are prohibited from the Acceptance Services. Most Prohibited Business categories are imposed by the requirements of our banking providers or regulators. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into a Prohibited Business category. If you are uncertain as to whether or not your use of the Acceptance Services involves a Prohibited Business, or have questions about how these requirements apply to you, please contact us at https://support.bitpay.com.
 
 * Drugs and drug paraphernalia (e.g., narcotics, controlled substances, and any equipment designed for making or using drugs);
 * Marijuana/cannabis dispensaries and related products and businesses;
@@ -172,7 +172,7 @@ In addition to the Prohibited Uses, the following categories of businesses, busi
 
 **4.5 Restricted Business**
 
-If you engage in any of the following categories of businesses, business practices, and items for sale, you will only be allowed to transact as expressly authorized by us and may be required to agree to additional conditions, make supplemental representations and warranties, complete enhanced onboarding procedures, and operate subject to restrictions. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Acceptance Services involves a Restricted Business, or have questions about how these requirements apply to you, please contact us at bitpay.com/request-help/wizard.
+If you engage in any of the following categories of businesses, business practices, and items for sale, you will only be allowed to transact as expressly authorized by us and may be required to agree to additional conditions, make supplemental representations and warranties, complete enhanced onboarding procedures, and operate subject to restrictions. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Acceptance Services involves a Restricted Business, or have questions about how these requirements apply to you, please contact us at https://support.bitpay.com.
 
 * Charitable organizations;
 * Religious/spiritual organizations;
@@ -185,7 +185,7 @@ If you engage in any of the following categories of businesses, business practic
 
 **4.6 Guarding Your Password**
 
-You will choose a password when registering for your Account. You are responsible for maintaining the confidentiality of your password and Account access credentials. You are fully responsible for all activities that occur with the use of your password or Account. Please notify us immediately if you become aware of any unauthorized use of your password or Account or any other breach of your security which may compromise your password or Account. You may not allow third parties or unauthorized users to use your Account. We will not be liable for any loss that you may incur as a result of someone else using your password or Account, either with or without your knowledge. You may notify BitPay of a security breach regarding your password or Account by emailing [support@bitpay.com](mailto:support@bitpay.com) or using BitPay’s support wizard: bitpay.com/request-help/wizard.
+You will choose a password when registering for your Account. You are responsible for maintaining the confidentiality of your password and Account access credentials. You are fully responsible for all activities that occur with the use of your password or Account. Please notify us immediately if you become aware of any unauthorized use of your password or Account or any other breach of your security which may compromise your password or Account. You may not allow third parties or unauthorized users to use your Account. We will not be liable for any loss that you may incur as a result of someone else using your password or Account, either with or without your knowledge. You may notify BitPay of a security breach regarding your password or Account by emailing [support@bitpay.com](mailto:support@bitpay.com) or using BitPay’s support wizard: https://support.bitpay.com.
 
 **4.7 Records**
 
@@ -301,7 +301,7 @@ Overpayments occur when a Shopper sends funds in excess of the amount needed to 
 
 **10.4.3 Orphan Payments**
 
-“Orphan payments” occur when a transaction is received outside the time window referenced in Section 10.1, Invoice Generation and Competitive Exchange Rate Guarantee. Any payments sent to the expired Invoice will show up in BitPay’s system as an orphan payment. Orphan payments also occur when a user sends cryptocurrency to one of our wallet addresses without a connection to an Invoice. BitPay cannot automatically associate orphan payments with an Invoice, merchant, Shopper email or SMS capable phone number. For more information or to resolve orphaned payments, either you or the Shopper will need to reach out to our support team (bitpay.com/request-help/wizard) with required information. Orphan payments are failed payments, and cannot be applied to an Invoice. If an orphan payment occurs, the Shopper will need to generate a new Invoice and restart the checkout process.
+“Orphan payments” occur when a transaction is received outside the time window referenced in Section 10.1, Invoice Generation and Competitive Exchange Rate Guarantee. Any payments sent to the expired Invoice will show up in BitPay’s system as an orphan payment. Orphan payments also occur when a user sends cryptocurrency to one of our wallet addresses without a connection to an Invoice. BitPay cannot automatically associate orphan payments with an Invoice, merchant, Shopper email or SMS capable phone number. For more information or to resolve orphaned payments, either you or the Shopper will need to reach out to our support team (https://support.bitpay.com) with required information. Orphan payments are failed payments, and cannot be applied to an Invoice. If an orphan payment occurs, the Shopper will need to generate a new Invoice and restart the checkout process.
 
 **10.4.4 Unsupported Payments**
 
@@ -369,13 +369,13 @@ Merchants that wish to register complaints regarding our Acceptance Services sho
 
 For BitPay, Inc. merchants:
 
-* Website: bitpay.com/request-help/wizard
+* Website: https://support.bitpay.com
 * Phone: [1-404-907-2055](tel:14049072055)
 * Mail: 1201 W Peachtree St NW Ste 2625, PMB 91017, Atlanta, Georgia 30309-3499
 
 For BitPay B.V. merchants:
 
-* Website: bitpay.com/request-help/wizard
+* Website: https://support.bitpay.com
 * Mail: Stadsplateau 7 WTC office 7, 3521 AZ, Utrecht, Netherlands
 
 **12.3 SPECIAL NOTICE FOR NEW YORK RESIDENTS**
@@ -664,7 +664,7 @@ In the event any portion of these Terms is deemed invalid or void by a court or 
 
 #### 9\. Binding Agreement
 
-The terms and provisions of these Terms are binding upon Your heirs, successors, assigns, and other representatives. You assume any and all risks associated with the use of the Software. We reserve the right to modify these Terms from time to time. As to their subject matter, these Terms (including any other terms or notices incorporated herein by reference) comprise the entire agreement between you and BitPay. If you have any questions, complaints, or need customer support, you may contact BitPay via post at BitPay, Inc., 1201 W Peachtree St NW Ste 2625, PMB 91017, Atlanta, Georgia 30309-3499, USA, or BitPay B.V., Stadsplateau 7 WTC office 7, 3521 AZ, Utrecht, The Netherlands; via email at [support@bitpay.com,](mailto:support@bitpay.com) or using our online support wizard at bitpay.com/request-help/wizard.
+The terms and provisions of these Terms are binding upon Your heirs, successors, assigns, and other representatives. You assume any and all risks associated with the use of the Software. We reserve the right to modify these Terms from time to time. As to their subject matter, these Terms (including any other terms or notices incorporated herein by reference) comprise the entire agreement between you and BitPay. If you have any questions, complaints, or need customer support, you may contact BitPay via post at BitPay, Inc., 1201 W Peachtree St NW Ste 2625, PMB 91017, Atlanta, Georgia 30309-3499, USA, or BitPay B.V., Stadsplateau 7 WTC office 7, 3521 AZ, Utrecht, The Netherlands; via email at [support@bitpay.com,](mailto:support@bitpay.com) or using our online support wizard at https://support.bitpay.com.
 
 ### BitPay ID Terms of Use
 
@@ -725,7 +725,7 @@ Additional information on obtaining a BitPay ID is available in our FAQs, includ
 
 BitPay engages third parties to assist with providing the Services, including using service providers to securely collect your identity documentation and selfie and to verify the accuracy and authenticity of the submitted documentation, and to provide customer support. You acknowledge and agree that in connection with your use of other BitPay Services, we may need to share portions of your BitPay ID information with third parties, consistent with our Privacy Notice.
 
-If you need support completing the BitPay ID registration process, please contact BitPay Support via our help wizard: bitpay.com/request-help/wizard.
+If you need support completing the BitPay ID registration process, please contact BitPay Support via our help wizard: https://support.bitpay.com.
 
 **3.2 Privacy**
 
@@ -824,7 +824,7 @@ You agree to accept communications from us in an electronic format, and agree th
 
 #### 13\. Miscellaneous
 
-If any provision of these BitPay ID Terms is deemed invalid or unenforceable under applicable law, then that provision shall be conformed to law so as to achieve the original intent to the extent possible. If the provision cannot be conformed, it shall be struck from these BitPay ID Terms to the extent necessary, and all other provisions shall remain in full force and effect. Any failure to enforce any provision of these BitPay ID Terms on any occasion shall not act as a waiver on that or any other occasion of that or any other provision. As to their subject matter, these BitPay ID Terms comprise the entire agreement between you and BitPay. If you have any questions, complaints, or need customer support, you may contact BitPay via post at BitPay, Inc., 1201 W Peachtree St NW Ste 2625, PMB 91017, Atlanta, Georgia 30309-3499, USA, or BitPay B.V., Stadsplateau 7 WTC office 7, 3521 AZ, Utrecht, The Netherlands; via email at [support@bitpay.com,](mailto:support@bitpay.com) or using our online support wizard at bitpay.com/request-help/wizard.
+If any provision of these BitPay ID Terms is deemed invalid or unenforceable under applicable law, then that provision shall be conformed to law so as to achieve the original intent to the extent possible. If the provision cannot be conformed, it shall be struck from these BitPay ID Terms to the extent necessary, and all other provisions shall remain in full force and effect. Any failure to enforce any provision of these BitPay ID Terms on any occasion shall not act as a waiver on that or any other occasion of that or any other provision. As to their subject matter, these BitPay ID Terms comprise the entire agreement between you and BitPay. If you have any questions, complaints, or need customer support, you may contact BitPay via post at BitPay, Inc., 1201 W Peachtree St NW Ste 2625, PMB 91017, Atlanta, Georgia 30309-3499, USA, or BitPay B.V., Stadsplateau 7 WTC office 7, 3521 AZ, Utrecht, The Netherlands; via email at [support@bitpay.com,](mailto:support@bitpay.com) or using our online support wizard at https://support.bitpay.com.
 
 ### BitPay Send Terms of Use
 
@@ -878,7 +878,7 @@ The information you provide at the time of opening the Account must be accurate 
 
 **4.2.1 Prohibited Use**
 
-In connection with your use of the Services, and your interactions with other users and third parties, you agree you will not engage in the following Prohibited Uses. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Services involves a Prohibited Use or have questions about how these requirements apply to you, please contact us at bitpay.com/request-help/wizard.
+In connection with your use of the Services, and your interactions with other users and third parties, you agree you will not engage in the following Prohibited Uses. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Services involves a Prohibited Use or have questions about how these requirements apply to you, please contact us at https://support.bitpay.com.
 
 * **Unlawful Activity:** Actions which violate, or would assist in violation of, any law, statute, ordinance, or regulation, including applicable sanctions programs including but not limited to those maintained by the U.S. Department of Treasury's Office of Foreign Assets Control ("OFAC"), Dutch Sanctions Act, or which would involve proceeds of any unlawful activity; activity which would publish, distribute or disseminate any unlawful material or information.
 * **Abusive Activity:** Actions which impose an unreasonable or disproportionately large load on our infrastructure, or detrimentally interfere with, intercept, or expropriate any system, data, or information; transmit or upload any material to our computer systems, networks or sites that contain viruses, trojan horses, worms, or any other harmful or deleterious programs; attempt to gain unauthorized access to our computer systems, networks or sites or our other customers’ Accounts, computer systems or networks connected to us, through any other means; interfere with another individual's or entity's access to or use of the Services; use information of another party to access or use our computer systems, networks or sites, except in the case of specific Business Customers which are specifically authorized by a user to access such user's Account and information; transfer your Account access or rights to your Account to a third party, unless by operation of law or with the express written permission of BitPay; or harvest or otherwise collect information from our computer systems, networks or sites about others, including without limitation email addresses, without proper consent.
@@ -888,7 +888,7 @@ In connection with your use of the Services, and your interactions with other us
 
 **4.2.2 Prohibited Business**
 
-In addition to the Prohibited Uses, you may not use the Services in connection with any of the following categories of businesses, business practices, or items for sale. Most Prohibited Business categories are imposed by the requirements of our banking providers or regulators. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into a Prohibited Business category. If you are uncertain as to whether or not your use of the Services involves a Prohibited Business category, or have questions about how these requirements apply to you, please contact us at bitpay.com/request-help/wizard.
+In addition to the Prohibited Uses, you may not use the Services in connection with any of the following categories of businesses, business practices, or items for sale. Most Prohibited Business categories are imposed by the requirements of our banking providers or regulators. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into a Prohibited Business category. If you are uncertain as to whether or not your use of the Services involves a Prohibited Business category, or have questions about how these requirements apply to you, please contact us at https://support.bitpay.com.
 
 * Drugs and drug paraphernalia (e.g., narcotics, controlled substances, and any equipment designed for making or using drugs);
 * Marijuana/cannabis dispensaries and related products and businesses;
@@ -908,7 +908,7 @@ In addition to the Prohibited Uses, you may not use the Services in connection w
 
 **4.3 Restricted Business**
 
-If you engage in any of the following categories of businesses, business practices, and items for sale, you will only be allowed to transact as expressly authorized by us and may be required to agree to additional conditions, make supplemental representations and warranties, complete enhanced onboarding procedures, and operate subject to restrictions. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Services involves a Restricted Business, or have questions about how these requirements apply to you, please contact us at bitpay.com/request-help/wizard.
+If you engage in any of the following categories of businesses, business practices, and items for sale, you will only be allowed to transact as expressly authorized by us and may be required to agree to additional conditions, make supplemental representations and warranties, complete enhanced onboarding procedures, and operate subject to restrictions. This list is non-exhaustive and we reserve the right to modify it at any time. It is within our sole discretion to determine whether an activity falls into one of these categories. If you are uncertain as to whether or not your use of the Services involves a Restricted Business, or have questions about how these requirements apply to you, please contact us at https://support.bitpay.com.
 
 * Charitable organizations;
 * Religious/spiritual organizations;
@@ -921,7 +921,7 @@ If you engage in any of the following categories of businesses, business practic
 
 **4.4 Guarding Your Password**
 
-You will choose a password when registering for your Account. You are responsible for maintaining the confidentiality of your password and Account access credentials. You are fully responsible for all activities that occur with the use of your password or Account. Please notify us immediately if you become aware of any unauthorized use of your password or Account or any other breach of your security which may compromise your password or Account. You may not allow third parties or unauthorized users to use your Account. We will not be liable for any loss that you may incur as a result of someone else using your password or Account, either with or without your knowledge. You may notify BitPay of a security breach regarding your password or Account by emailing [support@bitpay.com](mailto:support@bitpay.com) or using BitPay’s support wizard: bitpay.com/request-help/wizard.
+You will choose a password when registering for your Account. You are responsible for maintaining the confidentiality of your password and Account access credentials. You are fully responsible for all activities that occur with the use of your password or Account. Please notify us immediately if you become aware of any unauthorized use of your password or Account or any other breach of your security which may compromise your password or Account. You may not allow third parties or unauthorized users to use your Account. We will not be liable for any loss that you may incur as a result of someone else using your password or Account, either with or without your knowledge. You may notify BitPay of a security breach regarding your password or Account by emailing [support@bitpay.com](mailto:support@bitpay.com) or using BitPay’s support wizard: https://support.bitpay.com.
 
 **4.5 Records**
 
@@ -1033,13 +1033,13 @@ If you wish to register complaints regarding our Services, you should contact us
 
 For BitPay, Inc. Business Customers:
 
-* Website: bitpay.com/request-help/wizard
+* Website: https://support.bitpay.com
 * Phone: [1-404-907-2055](tel:14049072055)
 * Mail: 1201 W Peachtree St NW Ste 2625, PMB 91017, Atlanta, Georgia 30309-3499
 
 For BitPay B.V. Business Customers:
 
-* Website: bitpay.com/request-help/wizard
+* Website: https://support.bitpay.com
 * Mail: Stadsplateau 7 WTC office 7, 3521 AZ, Utrecht, Netherlands
 
 **11.3 SPECIAL NOTICE FOR NEW YORK RESIDENTS**
@@ -1160,15 +1160,15 @@ For the purposes of the BitPay Send Terms, a business day shall be standard busi
 We're here to help
 ------------------
 
-[Support is just a few taps away. Get your questions answered by using our help library.](https://bitpay.com/request-help "Help Center")
+[Support is just a few taps away. Get your questions answered by using our help library.](https://support.bitpay.com/ "Help Center")
 
-[Get help](https://bitpay.com/request-help "Help Center")
+[Get help](https://support.bitpay.com/ "Help Center")
 
 ![BitPay Logo - White](/_nuxt/img/bitpay-logo-white.712bdcb.svg)
 
 [For Businesses](https://bitpay.com/business/)[Online Crypto Payments](https://bitpay.com/online-payments/)[Email Billing](https://bitpay.com/billing/)[Crypto Payouts](https://bitpay.com/send/)[In-store Payments](https://bitpay.com/retail/)[Crypto Donations](https://bitpay.com/nonprofits/)[NFTs](https://bitpay.com/nfts/)[Exchange Rates](https://bitpay.com/exchange-rates/)[Business FAQs](https://support.bitpay.com/hc/en-us "FAQ")[Pricing](https://bitpay.com/pricing/)[Resources](https://bitpay.com/resources/ "Resources")
 
-[For Individuals](https://bitpay.com/)[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://bitpay.com/request-help/wizard "Help")
+[For Individuals](https://bitpay.com/)[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://support.bitpay.com/ "Help")
 
 [Developers](https://bitpay.com/docs)[Integrations](https://bitpay.com/integrations "Integrations")[Bitcore](https://bitcore.io/ "Bitcore")[Insight](https://bitpay.com/insight/#/BTC/mainnet/home "Insight")[Open Source](https://github.com/bitpay "BitPay Github")[PGP Keys](https://bitpay.com/pgp-keys)[Status](https://status.bitpay.com/ "Status")
 
@@ -1182,7 +1182,7 @@ Do Not Sell My Personal Information under CCPA
 
 NMLS ID#1496848
 
-BiPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
+BitPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
 
 * * *
 
@@ -1198,7 +1198,7 @@ For Businesses ![add icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d
 
 For Individuals ![add icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48dGl0bGU+QWRkPC90aXRsZT48ZyBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjZmZmZmZmIj48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjEyIiB5MT0iNyIgeDI9IjEyIiB5Mj0iMTciLz4gPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHgxPSIxNyIgeTE9IjEyIiB4Mj0iNyIgeTI9IjEyIi8+PC9nPjwvc3ZnPgo=) 
 
-[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://bitpay.com/request-help/wizard "Help")
+[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://support.bitpay.com/ "Help")
 
 Developers ![add icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48dGl0bGU+QWRkPC90aXRsZT48ZyBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjZmZmZmZmIj48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjEyIiB5MT0iNyIgeDI9IjEyIiB5Mj0iMTciLz4gPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHgxPSIxNyIgeTE9IjEyIiB4Mj0iNyIgeTI9IjEyIi8+PC9nPjwvc3ZnPgo=) 
 
@@ -1216,7 +1216,7 @@ Do Not Sell My Personal Information under CCPA
 
 NMLS ID#1496848
 
-BiPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
+BitPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
 
 * * *
 
