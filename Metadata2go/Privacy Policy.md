@@ -6,6 +6,8 @@
         * [View Metadata](https://www.metadata2go.com/view-metadata "View Metadata")
     
 
+* [Pricing](https://www.metadata2go.com/pricing "Pricing")
+* [Help](https://www.metadata2go.com/help "Help")
 * [Knowledge Base](https://www.metadata2go.com/file-info "Help")
 * [Help](https://www.metadata2go.com/help "Help")
 
@@ -754,16 +756,26 @@ In order to keep the following privacy policy clear, we refer to information and
 
 No software installation needed.
 
+Solutions
+
+* [Education](https://www.metadata2go.com/solution/education "Education")
+
 Metadata2Go
 
 * [Help](https://www.metadata2go.com/help "Help")
 * [Knowledge Base](https://www.metadata2go.com/file-info "Knowledge Base")
+* [Press](https://www.metadata2go.com/press "Press Enquiries")
 
 Company
 
 * [About](https://www.qaamgo.com/en/about "About")
 * [Career](https://www.qaamgo.com/en/career "Career")
+* [Sustainability](https://www.metadata2go.com/sustainability "Sustainability")
 * [Security](https://www.metadata2go.com/security "Security")
+
+Product
+
+* [Pricing](https://www.metadata2go.com/pricing "Pricing")
 
 Made in Radolfzell (Germany) by [QaamGo Web GmbH](https://www.qaamgo.com/ "Visit QaamGo Web GmbH")
 
