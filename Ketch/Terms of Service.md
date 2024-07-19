@@ -1,6 +1,6 @@
-[**\[Free Guide\] How to choose the right privacy management solution for your organization**
+[**\[🔔 New\] No-code, full control: introducing Ketch Privacy Experiences**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://content.ketch.com/buyers-guide)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/privacy-experiences-product)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)](https://www.ketch.com/)
 
@@ -20,7 +20,7 @@ Programmatic Privacy
 
 Data and AI Governance
 
-[AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
+[AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for responsible AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
 
 [Book a Live Demo
 
@@ -36,9 +36,9 @@ By vertical
 
 [For retail & consumer goods](https://www.ketch.com/customers/retail-consumer-goods)[For travel & hospitality](https://www.ketch.com/customers/travel-and-hospitality)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)
 
-[TIME brings ease and automation to privacy requests with Ketch
+[No-code, full control: introducing Ketch Privacy Experiences
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/time-brings-ease-and-automation-to-privacy-requests-with-ketch)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/privacy-experiences-product)
 
 [Download our compliance guide for retail and eCommerce brands
 
@@ -90,7 +90,7 @@ Join us in adhering to these five principles, which we believe every business sh
 
 Download the Guide](https://content.ketch.com/privacy-trend-report-2024)
 
-[Log In](https://app.ketch.com/)[Request a Demo](https://content.ketch.com/request-demo)
+[Log In](https://app.ketch.com/)[Request a Demo](https://content.ketch.com/request-demo-nav)
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/655cd3cab38d87a85d29127e_search.svg)
 
@@ -114,7 +114,7 @@ Platform
 
 [Data and AI Governance](#)
 
-[AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
+[AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for responsible AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
 
 Customers
 
@@ -150,7 +150,7 @@ Company
 
 [![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c53046008112716cd312_ic_twitter.svg)](https://twitter.com/Ketch_Digital)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52f4fdb8f0f858091b9_ic_linkedin.svg)](https://www.linkedin.com/company/ketchdigital/)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52e8cdc7cf2f303b856_ic_youtube.svg)](https://www.youtube.com/channel/UCYMaETSDcyTS6pFE5jAQJcw)
 
-[Request a Demo](https://content.ketch.com/request-demo)[Sign Up](https://app.ketch.com/registration/register?planId=plan_ketch_free)
+[Request a Demo](https://content.ketch.com/request-demo-nav)[Sign Up](https://app.ketch.com/registration/register?planId=plan_ketch_free)
 
 Terms of Service
 ================
@@ -159,7 +159,7 @@ Terms of Service
 
 These Terms of Service (“**Terms**”) govern your access and use of our online services (the “**Services**”), which term includes any services or other products or features made available by us to you on an unpaid trial or free basis (the “**Free Services**”). These Terms and any Order Form together form a binding “**Contract**” between Customer and us. “Customer” is the organization that you represent in agreeing to the Contract; “we,” “our,” and “us” refer to Ketch Kloud, Inc. You may purchase a subscription via an order form entered into between Customer and us (“**Order Form**”); in so doing, you agree to the then-current Contract on behalf of Customer. Free Services may be made available without an Order Form. Customer represents and warrants that it has validly entered into the Contract and has the legal power to do so. Subscriptions commence when we make them available to Customer and continue for the term specified in the Order Form; fees are specified in the Order Form. The foregoing sentence does not apply to Free Services, which are described below.
 
-We will make available the Services, or may make available the Free Services, in accordance with these Terms, the [Documentation](https://docs.ketch.com/hc/en-us), and the [Data Processing Addendum](https://www.ketch.com/data-processing-addendum). All of our rights not expressly granted by these Terms are hereby retained.
+We will make available the Services, or may make available the Free Services, in accordance with these Terms, the [Documentation](https://docs.ketch.com/), and the [Data Processing Addendum](https://www.ketch.com/data-processing-addendum). All of our rights not expressly granted by these Terms are hereby retained.
 
 Customer may make data, including personal data, available to the Services (“**Customer Data**”). Customer grants us a worldwide, limited-term license to host, copy, use, transmit, and display Customer Data or any Third-Party Apps created by or for Customer. Subject to the limited licenses granted herein, we acquire no right, title, or interest from Customer in or to any Customer Data.
 
@@ -205,7 +205,7 @@ Programmatic Privacy
 
 Data and AI Governance
 
-[AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
+[AI model governance](https://www.ketch.com/platform/ai-model-governance)[Permissioning engine for responsible AI](https://www.ketch.com/platform/permissioning-engine-for-ai)[GenAI shield](https://www.ketch.com/platform/gen-ai-shield)
 
 [Pricing](https://www.ketch.com/pricing)
 
