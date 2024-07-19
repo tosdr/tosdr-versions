@@ -118,7 +118,7 @@ Menu Close
     
     Data protection
     
-    [Advanced Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Advanced Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [Advanced File Sync and Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/)
+    [Advanced Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Advanced Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [Advanced File Sync and Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/)
     
     MSP operations
     
@@ -130,8 +130,6 @@ Menu Close
     For businesses
     
     [Acronis Cyber Protect](https://www.acronis.com/en-us/products/cyber-protect/)
-    
-    \-20%
     
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
@@ -147,9 +145,6 @@ Menu Close
     
     * [Acronis DeviceLock DLP](https://www.acronis.com/en-us/products/devicelock/)
     * [Acronis Snap Deploy](https://www.acronis.com/en-us/products/snap-deploy/)
-        
-        \-20%
-        
     
     For everyone
     
@@ -157,9 +152,11 @@ Menu Close
     
     For home
     
-    [Acronis Cyber Protect Home Office](https://www.acronis.com/en-us/products/true-image/)
+    [Acronis True Image](https://www.acronis.com/en-us/products/true-image/)
     
-    Formerly Acronis True Image, it's the only personal cyber protection solution that delivers easy-to-use, integrated backup and anti-malware in one.
+    NEW
+    
+    Formerly Acronis Home Office, it's the only personal cyber protection solution that delivers easy-to-use, integrated backup and anti-malware in one.
     
     * [See plans](https://www.acronis.com/en-us/products/true-image/purchasing/)
     
@@ -437,7 +434,7 @@ Throughout this Privacy Statement, we use the following terms with the following
 
 * _**Acronis Services**_ means:
     * public portions of the websites owned and operated by or on behalf of Acronis, which include acronis.com ([https://www.acronis.com](https://www.acronis.com/)), developer.acronis.com ([https://developer.acronis.com](https://developer.acronis.com/)), acronis.events ([https://acronis.events](https://acronis.events/)), acronis.sport ([https://acronis.sport](https://acronis.sport/)) and Motorsport.tech ([https://motorsport.tech](https://motorsport.tech/)) (collectively, _**Sites**_)
-    * Acronis Cyber Protect Home Office ([https://www.acronis.com/products/true-image/](https://www.acronis.com/products/true-image/))
+    * Acronis True Image ([https://www.acronis.com/products/true-image/](https://www.acronis.com/products/true-image/))
     * Acronis Cyber Protect for Business ([https://www.acronis.com/products/cyber-protect/backup/](https://www.acronis.com/products/cyber-protect/backup/))
     * Acronis Cyber Cloud for Service Providers ([https://www.acronis.com/cloud/](https://www.acronis.com/cloud/))
     * Acronis’ mobile applications, including Acronis Cyber Files, Acronis Cyber Protect, Acronis Mobile and Acronis Advanced Automation (collectively, _**Mobile Apps**_)
