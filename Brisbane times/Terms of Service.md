@@ -60,6 +60,7 @@ Search Site
     * [Auctions](https://www.brisbanetimes.com.au/topic/auctions-1nq1)
     * [Financing](https://www.brisbanetimes.com.au/topic/financing-1nq2)
 * [Sport](https://www.brisbanetimes.com.au/sport)Show subsections
+    * [Paris 2024](https://www.brisbanetimes.com.au/sport/paris-olympics)
     * [NRL](https://www.brisbanetimes.com.au/sport/nrl)
     * [Rugby union](https://www.brisbanetimes.com.au/sport/rugby-union)
     * [AFL](https://www.brisbanetimes.com.au/sport/afl)
