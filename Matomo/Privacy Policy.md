@@ -232,6 +232,7 @@ Sales
 -----
 
 * [Contact Sales](https://matomo.org/contact-sales/)
+* [BigQuery & Data Warehouse Export Feature](https://matomo.org/access-matomo-bigquery-export-feature/)
 
 Product
 -------
