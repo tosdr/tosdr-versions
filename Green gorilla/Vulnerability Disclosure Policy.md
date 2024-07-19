@@ -10,7 +10,7 @@
 
 ![Traffic Roots Audience Pixel](https://service.trafficroots.com/audience/85b2d05e3b)
 
-**TAKE 15% OFF YOUR ORDER WITH CODE: THANKS15**
+**TAKE 20% OFF YOUR ORDER WITH CODE:SUMMER24** 
 
 [FREE SHIPPING ON ORDERS OVER $75](https://ilovegreengorilla.com/shipping-and-returns/)
 
