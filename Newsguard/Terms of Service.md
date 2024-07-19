@@ -1,7 +1,7 @@
 [![NewsGuard. Restoring trust and accountability](https://www.newsguardtech.com/wp-content/themes/newsguard/imgs/logos/NewsGuard_Logo.svg)](https://www.newsguardtech.com/) 
 
 * Solutions
-    * [News Reliability Ratings](https://www.newsguardtech.com/solutions/newsguard/)
+    * [News Reliability Ratings](https://www.newsguardtech.com/solutions/news-reliability-ratings/)
     * [Misinformation Fingerprints](https://www.newsguardtech.com/solutions/misinformation-fingerprints/)
     * [AI Safety Suite](https://www.newsguardtech.com/solutions/ai-safety-suite/)
     * [NewsGuard for Advertising](https://www.newsguardtech.com/solutions/newsguard-for-advertising/)
@@ -61,7 +61,7 @@
 [Sign-In](https://account.newsguardtech.com/signin)
 
 * Solutions
-    * [News Reliability Ratings](https://www.newsguardtech.com/solutions/newsguard/)
+    * [News Reliability Ratings](https://www.newsguardtech.com/solutions/news-reliability-ratings/)
     * [Misinformation Fingerprints](https://www.newsguardtech.com/solutions/misinformation-fingerprints/)
     * [AI Safety Suite](https://www.newsguardtech.com/solutions/ai-safety-suite/)
     * [NewsGuard for Advertising](https://www.newsguardtech.com/solutions/newsguard-for-advertising/)
