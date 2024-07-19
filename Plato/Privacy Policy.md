@@ -4,7 +4,7 @@ Privacy Policy
 Last updated: Mar 12, 2021  
 
 Plato Team Inc. (“we” or “us”) is committed to protecting your privacy. This Privacy Policy describes how we collect, store, use and distribute information through our software, website, documentation, and related services (together, the “Services”).  
-Capitalized terms not defined in this Privacy Policy have the meaning as set forth in the Terms of Service for the Services, which can be found at http://platoapp.com/terms.  
+Capitalized terms not defined in this Privacy Policy have the meaning as set forth in the Terms of Service for the Services, which can be found at [https://platoapp.com/terms](https://platoapp.com/terms).  
   
 If you are visiting us from the European Union or European Economic Area, please be sure to read to section entitled “Additional Information for European Union Users” for information on how we comply with privacy laws applicable to you.  
 
@@ -38,7 +38,7 @@ We use Google Analytics to obtain some of the Usage and Analytics Information.Go
   
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with GoogleAnalytics about visits activity.  
   
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: http://www.google.com/intl/en/policies/privacy/
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
 ### Geo-Location Information:
 
@@ -165,21 +165,24 @@ Please note that we may ask you to verify your identity before responding to suc
 \- Past Plato ID associated with the account  
 \- Verification of past purchases with Apple or Google  
   
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: legal@platoteam.com.  
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [legal@platoteam.com](mailto:legal@platoteam.com).  
 
 Service Providers
 -----------------
 
 We may employ third party companies and individuals to facilitate our Services ("Service Providers"), to provide the Services on our behalf, to perform Service-related services or to assist us in analyzing how our Services is used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.  
   
-A list of our current Service Providers can be found at the following URL: http://platoapp.com/serviceproviders (the “Service Provider List”). The Service Provider List will be updated from time-to-time, as Service Providers are added and removed. The Service Provider List contains instructions on how to find out when updates are made the Service Provider List.  
+A list of our current Service Providers can be found at the following URL: [https://platoapp.com/serviceproviders](https://platoapp.com/serviceproviders) (the “Service Provider List”). The Service Provider List will be updated from time-to-time, as Service Providers are added and removed. The Service Provider List contains instructions on how to find out when updates are made the Service Provider List.  
 
 Contact Us
 ----------
 
-We may employ third party companies and individuals to facilitate our Services ("Service Providers"), to provide the Services on our behalf, to perform Service-related services or to assist us in analyzing how our Services is used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.  
-  
-A list of our current Service Providers can be found at the following URL: http://platoapp.com/serviceproviders (the “Service Provider List”). The Service Provider List will be updated from time-to-time, as Service Providers are added and removed. The Service Provider List contains instructions on how to find out when updates are made the Service Provider List.  
+If you would like to access your information, if you have any questions, comments or suggestions, if you find any errors in our information about you, or if you have a complaint concerning our compliance with applicable privacy laws, please contact us at [legal@platoteam.com](mailto:legal@platoteam.com) or by mail at:
+
+Plato Team Inc.  
+1769 Hillsdale Ave. #24035,  
+San Jose, CA 95154  
+[legal@platoteam.com](mailto:legal@platoteam.com)
 
 Additional Information for European Users
 -----------------------------------------
@@ -234,7 +237,7 @@ European data protection laws give you certain rights regarding your personal in
   
 **Object** - Object to our reliance on our legitimate interests as the basis of our processing ofyour personal information that impacts your rights.  
   
-You can submit these requests by email to hello@platoteam.com. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described in Section 13 of our Privacy Policy or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here: http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm
+You can submit these requests by email to hello@platoteam.com. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described in Section 13 of our Privacy Policy or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here: [https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
 
 ### Cross-Border Data Transfer
 
