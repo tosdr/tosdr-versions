@@ -27,9 +27,31 @@ This Website uses so-called “technical” Cookies and other similar Trackers t
     
     Google Tag Manager is a tag management service provided by Google Ireland Limited.
     
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
+    
     Personal Data processed: Trackers and Usage Data.
     
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
+    
+* ### Spam and bots protection
+    
+    This type of service analyzes the traffic of this Website, potentially containing Users' Personal Data, with the purpose of filtering it from unwanted parts of traffic, messages and content that are recognized as spam or protecting it from malicious bots activities.
+    
+    #### Cloudflare Bot Management (Cloudflare, Inc.)
+    
+    Cloudflare Bot Management is a malicious bot protection and management service provided by Cloudflare, Inc.
+    
+    Personal Data processed: app information, Application opens, browser information, browsing history, city, clicks, country, county, custom events, device information, device logs, geography/region, interaction events, IP address, keypress events, language, latitude (of city), launches, longitude (of city), metro area, motion sensor events, mouse movements, number of sessions, operating systems, page events, page views, province, scroll position, scroll-to-page interactions, search history, session duration, session statistics, state, touch events, Trackers, Usage Data, video views and ZIP/Postal code.
+    
+    Place of processing: United States – [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+    
+    Storage duration:
+    
+    * \_\_cf\_bm: 3 seconds
+    * \_\_cfruid: duration of the session
+    * cf\_ob\_info: 3 seconds
+    * cf\_use\_ob: 3 seconds
+    * cfmrk\_cic: 3 months
     
 
 ### Other activities involving the use of Trackers
@@ -47,9 +69,11 @@ This Website uses Trackers to enable basic interactions and functionalities, all
     
     Google Tag Manager is a tag management service provided by Google Ireland Limited.
     
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
+    
     Personal Data processed: Trackers and Usage Data.
     
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
     #### Google Publisher Tag (Google Ireland Limited)
     
@@ -75,12 +99,12 @@ This Website uses Trackers to improve the quality of the user experience and ena
     
     Personal Data processed: Trackers and Usage Data.
     
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
 
 #### Measurement
 
-This Website uses Trackers to measure traffic and analyze User behavior to improve the Service.
+This Website uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
 * ### Analytics
     
@@ -88,10 +112,9 @@ This Website uses Trackers to measure traffic and analyze User behavior to impro
     
     #### Google Analytics (Universal Analytics) (Google Ireland Limited)
     
-    Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services.  
-    Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+    Google Analytics (Universal Analytics) is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
     
-    In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
     
     Personal Data processed: Trackers and Usage Data.
     
@@ -105,10 +128,25 @@ This Website uses Trackers to measure traffic and analyze User behavior to impro
     * \_gat: 1 minute
     * \_gid: 1 day
     
+    #### Google Analytics 4 (Google Ireland Limited)
+    
+    Google Analytics 4 is a web analysis service provided by Google Ireland Limited (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. In Google Analytics 4, IP addresses are used at collection time and then discarded before Data is logged in any data center or server. Users can learn more by consulting [Google’s official documentation](https://support.google.com/analytics/answer/12017362?hl=en&ref_topic=2919631).
+    
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
+    
+    Personal Data processed: number of Users, session statistics, Trackers and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en).
+    
+    Storage duration:
+    
+    * \_ga: 2 years
+    * \_ga\_\*: 2 years
+    
 
 #### Marketing
 
-This Website uses Trackers to deliver personalized marketing content based on User behavior and to operate, serve and track ads.
+This Website uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
 
 * ### Advertising
     
@@ -119,58 +157,27 @@ This Website uses Trackers to deliver personalized marketing content based on Us
     
     #### Google AdSense (Google Ireland Limited)
     
-    Google AdSense is an advertising service provided by Google Ireland Limited. This service uses the “DoubleClick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
-    Users may decide to disable all the DoubleClick Cookies by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
+    Google AdSense is an advertising service provided by Google Ireland Limited. This service uses the “DoubleClick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered. Users may decide to disable all the DoubleClick Cookies by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
     
-    In order to understand Google's use of data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites).
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
     
     Personal Data processed: Trackers and Usage Data.
     
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy) – [Opt Out](https://adssettings.google.com/authenticated#display_optout).
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt Out](https://adssettings.google.com/authenticated#display_optout).
     
-    Storage duration:
-    
-    * AID: 2 years
-    * ANID: 2 years
-    * Conversion: 3 months
-    * DSID: 14 days
-    * FCNEC: 1 year
-    * FLC: 10 seconds
-    * FPAU: 3 months
-    * FPGCLAW: 3 months
-    * FPGCLDC: 3 months
-    * FPGCLGB: 3 months
-    * IDE: 2 years
-    * NID: 6 months
-    * RUL: 1 year
-    * TAID: 14 days
-    * \_\_gads: 2 years
-    * \_\_gsas: 2 years
-    * \_gac\_: 3 months
-    * \_gac\_gb\_: 3 months
-    * \_gcl\_ag: 3 months
-    * \_gcl\_au: 3 months
-    * \_gcl\_aw: 3 months
-    * \_gcl\_dc: 3 months
-    * \_gcl\_gb: 3 months
-    * \_gcl\_gf: 3 months
-    * \_gcl\_gs: 3 months
-    * \_gcl\_ha: 3 months
-    * id: 2 years
-    * test\_cookie: 15 minutes
+    Storage duration: up to 3 months
     
     #### Google Ads conversion tracking (Google Ireland Limited)
     
     Google Ads conversion tracking is an analytics service provided by Google Ireland Limited that connects data from the Google Ads advertising network with actions performed on this Website.
     
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
+    
     Personal Data processed: Trackers and Usage Data.
     
-    Place of processing: Ireland – [Privacy Policy](https://policies.google.com/privacy).
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
-    Storage duration:
-    
-    * IDE: 2 years
-    * test\_cookie: 15 minutes
+    Storage duration: up to 3 months
     
     #### Network N Ltd
     
@@ -180,65 +187,220 @@ This Website uses Trackers to deliver personalized marketing content based on Us
       
     Place of processing: United Kingdom – [Privacy Policy](https://www.network-n.com/privacy-policy/) – [Opt out ("Manage Cookies") in Footer](https://discordbotlist.com/).
     
+    Storage duration: up to 3 months
+    
     #### Google Ad Manager (Google Ireland Limited)
     
-    Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with.  
-    In order to understand Google's use of Data, consult [Google's partner policy](https://policies.google.com/technologies/partner-sites).  
-    This service uses the “DoubleClick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
+    Google Ad Manager is an advertising service provided by Google Ireland Limited that allows the Owner to run advertising campaigns in conjunction with external advertising networks that the Owner, unless otherwise specified in this document, has no direct relationship with. This service uses the “DoubleClick” Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.  
     
     Users may decide to disable all the DoubleClick Cookies by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
+    
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
     
     Personal Data processed: Trackers and Usage Data.
     
     Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
     
+    Storage duration: up to 3 months
+    
+    #### Google DV360 (Google Ireland Limited)
+    
+    @{replacement missing: en.privacy\_policy\_page.interpolation.service\_name} is an advertising service provided by Google Ireland Limited that allows the Owner to manage and plan advertising campaigns. This includes designing the ads, displaying them to the right targeted audience, bidding through automated decision-making tools (called "automated bidding") and measuring the campaign's performance. Users may decide to disable the ad personalization Trackers by going to: [Google Ad Settings](https://adssettings.google.com/authenticated?hl=en).
+    
+    In order to understand Google's use of Data, consult their [partner policy](https://policies.google.com/technologies/partner-sites) and their [Business Data page](https://business.safety.google/privacy/).
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/).
+    
+    Storage duration: up to 3 months
+    
+    #### Google Conversion linker (Google Ireland Limited)
+    
+    Google Conversion linker is an analytics service provided by Google Ireland Limited that connects Data from the Google advertising services with actions performed on this Website. Depending on the setup of the service, such Data might also be used for retargeting purposes.
+    
+    In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/).
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: Ireland – [Privacy Policy](https://business.safety.google/privacy/) – [Opt out](https://policies.google.com/technologies/ads).
+    
+    Storage duration: up to 3 months
+    
+    #### PubMatic (PubMatic, Inc.)
+    
+    PubMatic is an advertising service provided by PubMatic, Inc.
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://pubmatic.com/legal/privacy/) – [Opt Out](https://pubmatic.com/legal/opt-out/).
+    
     Storage duration:
     
-    * AID: 2 years
-    * ANID: 2 years
-    * Conversion: 3 months
-    * DSID: 14 days
-    * FCNEC: 1 year
-    * FLC: 10 seconds
-    * FPAU: 3 months
-    * FPGCLAW: 3 months
-    * FPGCLDC: 3 months
-    * FPGCLGB: 3 months
-    * IDE: 2 years
-    * NID: 6 months
-    * RUL: 1 year
-    * TAID: 14 days
-    * \_\_gads: 2 years
-    * \_\_gsas: 2 years
-    * \_gac\_: 3 months
-    * \_gac\_gb\_: 3 months
-    * \_gcl\_ag: 3 months
-    * \_gcl\_au: 3 months
-    * \_gcl\_aw: 3 months
-    * \_gcl\_dc: 3 months
-    * \_gcl\_gb: 3 months
-    * \_gcl\_gf: 3 months
-    * \_gcl\_gs: 3 months
-    * \_gcl\_ha: 3 months
-    * id: 2 years
-    * test\_cookie: 15 minutes
+    * COKENBLD: 1 day
+    * DPFQ: 3 months
+    * DPPIX\_ON: 20 seconds
+    * DPSync2: 3 months
+    * DPSync3: 3 months
+    * FPtrust: duration of the session
+    * HPAUSRBK\_\_: duration of the session
+    * KADUSERCOOKIE: 3 months
+    * KCCH: 30 seconds
+    * KRTBCOOKIE\_\[DSPID\]: 3 months
+    * KTPCACOOKIE: 3 months
+    * PM-UL-Sync: 3 months
+    * PMDTSHR: 1 day
+    * PMFREQ\_ON: 2 seconds
+    * PUBMDCID: 3 months
+    * PUBRETARGET: 3 months
+    * PUBUIDSYNCUPFQ: 3 months
+    * PugT: 1 month
+    * R\_\[DSPID\]: 3 months
+    * SPugT: 1 month
+    * SSCS: 1 day
+    * SYNCUPPIX\_ON: 20 seconds
+    * SyncRTB2: 3 months
+    * SyncRTB3: 3 months
+    * TEMPHPAUSRBKCNT\_\_: 1 day
+    * UND: 1 hour
+    * USCC: 1 day
+    * \_curtime: 2 days
+    * aid\_key: indefinite
+    * camfreq\_: 4 days
+    * chk: 3 months
+    * chkChromeAb67: 3 months
+    * chkChromeAb67Sec: 3 months
+    * chkSecSet: 3 months
+    * dV: 3 minutes
+    * ipc: 3 seconds
+    * limited\_tracking\_ad\_key: indefinite
+    * optout: 5 years
+    * pi: 8 seconds
+    * pp: 3 months
+    * pubfreq\_: 4 days
+    * pubtime\_: 1 day
+    * repi: 2 seconds
+    * uids: 3 months
+    
+    #### Media.net (Media.net Advertising FZ-LLC)
+    
+    Media.net is an advertising service provided by Media.net Advertising FZ-LLC.
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: United Arab Emirates – [Privacy Policy](https://www.media.net/privacy-policy/).
+    
+    Storage duration:
+    
+    * \_mNExInsl: 7 days
+    * \_mNIDShownPrev: 7 days
+    * \_mNInsChk: duration of the session
+    * \_mNInsl: 7 days
+    * \_mNIntDock: 7 days
+    * \_mNOvl: 7 days
+    * \_mNOvlShown: 7 days
+    * addtl\_consent: 2 years
+    * atst: 7 days
+    * bids\_map\_v2: indefinite
+    * covkn: indefinite
+    * crtkn: indefinite
+    * data-\*: 1 year
+    * eclstest: indefinite
+    * euconsent-v2: 2 years
+    * gdpr\_oli: 2 years
+    * mnet\_ad\_pref\_close: 30 minutes
+    * mnet\_optout: 6 years
+    * mnet\_session\_depth: duration of the session
+    * mnsbucketExpiryTime: indefinite
+    * mnsbucketName: indefinite
+    * mnstestVersion: indefinite
+    * mnvid\_day\_cap: 1 day
+    * mnvid\_ses\_cap: duration of the session
+    * ra\_depth\_tracking: 15 minutes
+    * session\_depth: 30 minutes
+    * usp\_status: 7 months
+    * usprivacy: 2 years
+    * visitor-id: 1 year
+    * x-msedge-clientid: indefinite
+    
+    #### Amazon Advertising (Amazon Europe )
+    
+    Amazon Advertising is an advertising service provided by Amazon Europe .
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: European Union – [Privacy Policy](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010) – [Opt out](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909150).
+    
+    Storage duration:
+    
+    * \*sessionMarker/marker: indefinite
+    * ad-id: 10 months
+    * amzn-token: 7 days
+    * vendor-id: 1 month
+    
+    #### Permutive (Permutive Ltd.)
+    
+    Permutive is an advertising service provided by Permutive Ltd.
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: United Kingdom – [Privacy Policy](https://permutive.com/privacy/) – [Opt out](https://permutive.com/privacy).
+    
+    Storage duration:
+    
+    * \_\_permutiveConfigQueryParams: indefinite
+    * \_paols: indefinite
+    * \_papns: indefinite
+    * \_pclmc: indefinite
+    * \_pcrdbs: indefinite
+    * \_pcrprs: indefinite
+    * \_pdem-state: indefinite
+    * \_pdfps: indefinite
+    * \_pfwqp: indefinite
+    * \_pnativo: indefinite
+    * \_ppam: indefinite
+    * \_prps: indefinite
+    * \_prubicons: indefinite
+    * \_psegs: indefinite
+    * \_psmart: indefinite
+    * events\_\*: indefinite
+    * keys\_\*: indefinite
+    * permutive-consent: indefinite
+    * permutive-data-enrichers: indefinite
+    * permutive-data-misc: indefinite
+    * permutive-data-models: indefinite
+    * permutive-data-queries: indefinite
+    * permutive-data-tpd: indefinite
+    * permutive-events-cache: indefinite
+    * permutive-id: indefinite
+    * permutive-loaded: indefinite
+    * permutive-pvc: indefinite
+    * permutive-session: indefinite
+    
+    #### Prebid (Prebid.org, Inc.)
+    
+    Prebid is an advertising service provided by Prebid.org, Inc.
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://docs.prebid.org/privacy.html).
     
 
-### How to manage preferences and provide or withdraw consent
+### How to manage preferences on this Website
 
-There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:
+Users can set or update their preferences via the relevant privacy choices panel available on this Website.
 
-Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.
+With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
-Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.
+#### How to control or delete Cookies and similar technologies via your device settings
 
-It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User’s initial consent preferences.
+Users may use their own browser settings to:
 
-Other Trackers in the browser’s local memory may be cleared by deleting the browsing history.
+* See what Cookies or other similar technologies have been set on the device;
+* Block Cookies or similar technologies;
+* Clear Cookies or similar technologies from the browser.
 
-With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
-
-#### Locating Tracker Settings
+The browser settings, however, do not allow granular control of consent by category.
 
 Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:
 
@@ -328,10 +490,12 @@ Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons,
 
 #### Legal information
 
+This privacy statement has been prepared based on provisions of multiple legislations.
+
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: April 02, 2024
+Latest update: July 18, 2024
 
-[iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/cookie-solution). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
 [Show the complete Privacy Policy](https://www.iubenda.com/privacy-policy/68838066/legal?from_cookie_policy=true)
