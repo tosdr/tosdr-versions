@@ -53,82 +53,6 @@ Destination Dates Guests
 
 3 nights selected
 
-June 2024
-
-Mon
-
-Tue
-
-Wed
-
-Thu
-
-Fri
-
-Sat
-
-Sun
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-21
-
-22
-
-23
-
-24
-
-25
-
-26
-
-27
-
-28
-
-29
-
-30
-
 July 2024
 
 Mon
@@ -1973,6 +1897,84 @@ Sun
 
 30
 
+July 2026
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
 Guests
 
 General Terms of Use
@@ -2216,11 +2218,11 @@ English
 
 EUR
 
-**Accommodation**[Blog](https://www.hostelworld.com/blog/ "Blog") [Hostels](https://www.hostelworld.com/hostels "Hostels") [Hotels](https://www.hostelworld.com/hotels "Hotels") [Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts "Bed and Breakfast")
+**Accommodation**[Blog](https://www.hostelworld.com/blog/ "Blog") [Hostels](https://www.hostelworld.com/hostels/ "Hostels") [Hotels](https://www.hostelworld.com/hotels/ "Hotels") [Bed and Breakfast](https://www.hostelworld.com/bed-and-breakfasts/ "Bed and Breakfast")
 
 **Customer Support**[Talk to Us](https://hwhelp.hostelworldgroup.com/hc/en-us/requests/new?ticket_form_id=63361 "Talk to Us") [Help](https://hwhelp.hostelworldgroup.com/hc/en-us "Help")
 
-**Quick Links**[Blog](https://www.hostelworld.com/blog/ "Blog") [Booking Guarantee](https://www.hostelworld.com/guarantee "Booking Guarantee") [Hostel Awards](https://www.hostelworld.com/hoscars "Hostel Awards") [Tours and Experiences](https://www.hostelworld.com/experiences-hub "Tours and Experiences") [Solo Travel](https://www.hostelworld.com/blog/c/solo-travel/ "Solo Travel") [Student Discount](https://connect.studentbeans.com/v4/hostelworld/uk "Student Discount")
+**Quick Links**[Blog](https://www.hostelworld.com/blog/ "Blog") [Booking Guarantee](https://www.hostelworld.com/guarantee/ "Booking Guarantee") [Hostel Awards](https://www.hostelworld.com/hoscars "Hostel Awards") [Tours and Experiences](https://www.hostelworld.com/experiences-hub "Tours and Experiences") [Solo Travel](https://www.hostelworld.com/blog/c/solo-travel/ "Solo Travel") [Student Discount](https://connect.studentbeans.com/v4/hostelworld/uk "Student Discount")
 
 **About Us**[Hostelworld Group PLC](https://www.hostelworldgroup.com/ "Hostelworld Group PLC") [Press](https://www.hostelworldgroup.com/media/press-releases/ "Press") [Careers](https://people.hostelworld.com/ "Careers")
 
@@ -2232,4 +2234,4 @@ EUR
 
 © 1999-2024 Hostelworld.com Limited
 
-[Data Protection Notice](https://www.hostelworld.com/securityprivacy "Data Protection Notice") [Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions "Terms & Legal") [Coupons](https://www.hostelworld.com/coupons-terms-conditions "Coupons") [Vouchers](https://www.hostelworld.com/vouchertermsandconditions "Vouchers") [Website Testing](https://www.hostelworld.com/website-testing "Website Testing") [Site Map](https://www.hostelworld.com/sitemap "Site Map")
+[Data Protection Notice](https://www.hostelworld.com/securityprivacy/ "Data Protection Notice") [Terms & Legal](https://www.hostelworld.com/hosteltermsandconditions/ "Terms & Legal") [Coupons](https://www.hostelworld.com/coupons-terms-conditions/ "Coupons") [Vouchers](https://www.hostelworld.com/vouchertermsandconditions/ "Vouchers") [Website Testing](https://www.hostelworld.com/website-testing/ "Website Testing") [Site Map](https://www.hostelworld.com/sitemap/ "Site Map")
