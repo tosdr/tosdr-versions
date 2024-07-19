@@ -192,6 +192,7 @@ People
 * [Advisory Council](https://cdt.org/about/advisory-council/)
 * [CDT’s Non-Resident Fellows](https://cdt.org/about/fellows/)
 * [Collaborating Attorney Networks](https://cdt.org/about/collaborating-attorney-network/)
+* [CDT Alumni Network](https://cdt.org/about/cdt-alumni-network/)
 
 Organization
 ------------
