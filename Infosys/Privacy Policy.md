@@ -237,7 +237,7 @@ About Us
 * [ATP](https://www.infosys.com/atp.html "ATP")
 * [International Tennis Hall of Fame](https://www.infosys.com/ithf.html "International Tennis Hall of Fame")
 
-* [Formula E](https://www.infosys.com/formula-e.html "Formula E")
+* [Formula E](https://www.infosys.com/formulae.html "Formula E")
 * [Bloomberg Media](https://www.infosys.com/bloomberg.html "Bloomberg Media")
 * [Madison Square Garden](https://www.infosys.com/madison-square-garden.html "Madison Square Garden")
 * [The Economist Group](https://www.infosys.com/the-sustainability-project.html "The Economist Group")
@@ -258,7 +258,7 @@ About Us
 Privacy Statement
 =================
 
-_Last updated on September 28, 2023_
+_Last updated on July 17, 2024_
 
 Infosys Limited, its subsidiaries and branch operations hereinafter referred as ‘Infosys’, ‘we’, ‘us’ or ‘our’ is committed to respect your privacy and choices. The privacy statement (hereinafter “Privacy Statement” or “Statement”) highlights our privacy practices regarding Personal Information that we collect and process in compliance to applicable data privacy regulations.
 
@@ -321,6 +321,8 @@ We may use your Personal Information for the following purposes:
     * For Infosys.com and associated sub-domains, please refer to this [cookie policy](https://www.infosys.com/privacy-statement/cookie-policy.html "cookie policy").
     * For Infosysbpm.com and associated sub-domains, please refer to this [cookie policy](https://www.infosysbpm.com/privacy-statement/cookie-policy.html "cookie policy").
     * For Infosysequinox.com and associated sub-domains, please refer to this [cookie policy](https://www.infosysequinox.com/cookie-policy.html "cookie policy").
+
+_For some of the personal data processing we undertake, we might use AI, Machine learning and related technologies to enhance customer experience and data analytic capabilities, but whenever we do so, we use responsible AI practices._
 
 **1.4. Legal basis of the processing**
 
