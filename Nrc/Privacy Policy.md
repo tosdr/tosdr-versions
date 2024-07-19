@@ -17,7 +17,7 @@ Sluit menu
 * [Slim leven](https://www.nrc.nl/index/slim-leven/)
 * [In Beeld](https://www.nrc.nl/index/inbeeld/)
 * [Carrière](https://www.nrc.nl/index/carriere/)
-* [Klimaat](https://www.nrc.nl/index/klimaat/)
+* [Klimaat](https://www.nrc.nl/onderwerp/klimaatverandering/)
 * [Recht](https://www.nrc.nl/index/recht/)
 * [Podcast](https://www.nrc.nl/index/podcast/)
 * [Archief](https://www.nrc.nl/index/archief/)
@@ -48,7 +48,7 @@ Sluit menu
 
 Menu [NRC](https://www.nrc.nl/)
 
-[Abonneren](https://abonnementen.nrc.nl/nrc-nl/step/1/?utm_intern=menu-button) [Mijn nieuws](https://www.nrc.nl/mijn-nrc/nieuws/) [Podcasts](https://www.nrc.nl/index/podcast/) [Digitale krant](https://www.nrc.nl/de/) [Puzzels](https://www.nrc.nl/puzzels/)
+[Abonneren](https://abonnementen.nrc.nl/) [Mijn nieuws](https://www.nrc.nl/mijn-nrc/nieuws/) [Podcasts](https://www.nrc.nl/index/podcast/) [Digitale krant](https://www.nrc.nl/de/) [Puzzels](https://www.nrc.nl/puzzels/)
 
 Mijn NRC Terug
 
@@ -74,7 +74,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fprivacy%2F%3Ft%3D1718908451)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fprivacy%2F%3Ft%3D1721421621)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
@@ -83,17 +83,7 @@ Privacyverklaring van Mediahuis NRC
 
 Mediahuis NRC hecht veel waarde aan uw privacy. Deze privacyverklaring beschrijft hoe we omgaan met persoonsgegevens van abonnees en gebruikers. We leggen uit welke gegevens we verzamelen, waarom we dit doen, en hoe we uw informatie beschermen.
 
-Dit is de privacyverklaring van Mediahuis NRC B.V. (hierna: “NRC” of “wij”). De verantwoordelijke voor de gegevensverwerking is Mediahuis NRC B.V., Nes 76, 1012 KE Amsterdam. Als functionaris voor gegevensbescherming heeft NRC de heer Marc Cox aangewezen.
-
-Dit zijn de privacybeloftes van NRC:
-------------------------------------
-
-* Onze journalistiek is ons product. U bent dat niet. Daarom verkopen we uw gegevens niet. Nooit. Aan niemand.
-* We verzamelen geen gegevens om het verzamelen. We slaan gegevens alleen op met een concreet doel, zoals de uitvoering van uw abonnement.
-* We verzamelen gegevens om uw ervaring te verbeteren en op uw wensen af te stemmen. Wanneer we dat doen, zijn we hier duidelijk over.
-* Als u door middel van uw account via onze websites en/of apps artikelen leest, kunnen wij zien welke artikelen dit zijn, zodat we aan u interessante, soortgelijke artikelen kunnen tonen (zie ook onderdeel „Weet NRC wat ik lees?”). We gebruiken deze informatie niet voor andere doeleinden en delen deze informatie niet met derden. Deze optie kunt u via de instellingen pagina uitzetten.
-* Als u onze websites en/of apps bezoekt en niet bent ingelogd via een account weten wij niet wat u leest.
-* [Cookies](https://www.nrc.nl/cookies/) die via nrc.nl geplaatst worden zijn voor het optimaal functioneren van de site, voor analyses op geaggregeerd niveau, en voor marketing van NRC zelf.
+Dit is de privacyverklaring van Mediahuis NRC B.V. (hierna: “NRC” of “wij”). De verantwoordelijke voor de gegevensverwerking is Mediahuis NRC B.V., Nes 76, 1012 KE Amsterdam. Deze privacyverklaring geldt voor alle websites en apps van Mediahuis NRC.
 
 Algemene informatie over de verwerking van persoonsgegevens door NRC
 --------------------------------------------------------------------
@@ -102,23 +92,27 @@ Algemene informatie over de verwerking van persoonsgegevens door NRC
 
 In het kader van alle online en offline dienstverlening kan NRC gegevens verwerken van haar abonnees, haar klanten en andere bezoekers/gebruikers van haar (interactieve) producten en diensten, zoals apps, (mobiele) websites en webwinkels maar ook evenementen, acties, prijsvragen en enquêtes.
 
-Welke gegevens wij verzamelen hangt af van het afgenomen product en/of dienst en kunnen zowel persoonsgegevens omvatten alsook andere gegevens. U leest hierover meer in deze privacyverklaring onder de kop ‘specifieke informatie over persoonsgegevens in uw situatie’. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) om inzicht te krijgen in de over u bekende persoonsgegevens bij Mediahuis NRC.
+Welke gegevens wij verzamelen hangt af van het afgenomen product en/of dienst en kunnen zowel persoonsgegevens omvatten alsook andere gegevens. U leest hierover meer in deze privacyverklaring onder de kop ‘specifieke informatie over persoonsgegevens in uw situatie’. Via [dit formulier](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) kunt u uw rechten op grond van de AVG uitoefenen, waaronder het recht op inzage in de over u bekende persoonsgegevens bij Mediahuis NRC.
 
-### Voor welke doeleinden worden de gegevens verwerkt
+### Voor welke doeleinden worden de gegevens verwerkt?
 
 NRC verwerkt gegevens voor verschillende doeleinden.
 
-* Voor de totstandkoming en uitvoering van (abonnee-)overeenkomst, bijvoorbeeld om de door jou gekozen producten, diensten of informatie te leveren.
+* Voor de totstandkoming en uitvoering van (abonnee-)overeenkomst, bijvoorbeeld om de door u gekozen producten, diensten of informatie te leveren.
 * Voor het toezenden van nieuwsbrieven, serviceberichten of andere (al dan niet elektronische) boodschappen.
-* Voor het analyseren en verbeteren van onze (digitale) producten en diensten. Dit doet NRC bijvoorbeeld door met behulp van cookies en andere soortgelijke technieken het gebruik van de website te meten. U kunt hier meer over lezen in de [cookieverklaring](https://www.nrc.nl/cookies/) van NRC. Het voorkomen van fraude en strafbare feiten.
-* Voor marketingdoeleinden. Bijvoorbeeld om u – op basis van informatie verkregen van cookies en soortgelijke technieken – op platforms van derden advertenties van NRC te tonen.
-* Om te voldoen aan de op NRC van toepassing zijnde wet- en regelgeving. Om u te informeren over interessante aanbiedingen van andere producten en diensten van NRC. Hierbij tracht NRC rekening te houden met uw voorkeuren. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) indien u daar geen prijs op stelt. In iedere commerciële e-mail en nieuwsbrief wordt steeds de mogelijkheid opgenomen om u hiervoor uit te schrijven.
+* Voor het analyseren en verbeteren van onze (digitale) producten en diensten. Dit doet NRC bijvoorbeeld door met behulp van cookies en andere soortgelijke technieken het gebruik van de website te meten. U kunt hier meer over lezen in de [cookieverklaring](https://www.nrc.nl/cookies/) van NRC.
+* Voor het voorkomen van fraude en strafbare feiten.
+* Voor marketingdoeleinden. Bijvoorbeeld om u – op basis van informatie verkregen via cookies en soortgelijke technieken – op platforms van derden advertenties van NRC te tonen.
+* Om gepersonaliseerde content te tonen.
+* Om – op basis van het e-mail adres dat u verstrekt als u een account aanmaakt – single sign on mogelijk te maken. Met single sign on krijgt u met één unieke gebruikersaccount en wachtwoord toegang tot alle platformen van de andere ondernemingen binnen de Mediahuis-groep. Dit zorgt er bijvoorbeeld voor dat wanneer u als geregistreerde gebruiker op NRC een artikel leest, u vervolgens kan surfen naar bv. de Limburger (een merk van Mediahuis Limburg BV) en u daar met dezelfde account kan aanmelden.
+* Om te voldoen aan de op NRC van toepassing zijnde wet- en regelgeving.
+* Om u te informeren over interessante aanbiedingen van andere producten en diensten van NRC. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) indien u daar geen prijs op stelt. In iedere commerciële e-mail en nieuwsbrief wordt steeds de mogelijkheid opgenomen om u hiervoor uit te schrijven.
 
 ### Met wie worden de gegevens gedeeld?
 
 NRC verstrekt deze gegevens voor de hiervoor vermelden doeleinden alleen aan derden als dit op basis van privacywetgeving is toegestaan. Bijvoorbeeld omdat dit noodzakelijk is voor de uitvoering van de dienstverlening van NRC, zoals met bezorg- en betaaldiensten, incassobureaus, hostingdiensten en leveranciers van softwaresystemen. NRC verkoopt uw persoonsgegevens niet aan derden.
 
-NRC streeft ernaar om geen persoonsgegevens buiten de EU te verwerken. Als dit niet mogelijk is dan zal NRC ervoor zorgen dat uw persoonsgegevens voldoende beveiligd zijn. Dat kan door te kiezen voor landen buiten de EU met een passend beschermingsniveau of – indien dit niet mogelijk is – door gebruik te maken van de standaard contractsbepalingen die de Europese Commissie voor dit doel heeft opgesteld.
+Sommige partijen waaraan wij gegevens verstrekken zijn internationale bedrijven. In dat geval is het mogelijk dat je gegevens ook buiten de EU worden verwerkt. In beginsel zal dit uitsluitend gebeuren in landen met een passend beschermingsniveau. Indien dat niet het geval is, waarborgt Mediahuis de bescherming van je gegevens door gebruik te maken van de standaardbepalingen die de Europese Commissie voor dit doel heeft opgesteld. Een kopie van deze standaardbepalingen, alsmede informatie over een specifieke verwerking die plaatsvindt onder de toepassing van deze bepalingen, kan gratis worden opgevraagd via [privacy@nrc.nl](mailto:privacy@nrc.nl).
 
 Wilt u meer weten? Lees dan: [“Deelt NRC mijn gegevens met andere partijen?”.](#gegevens-delen)
 
@@ -129,11 +123,11 @@ NRC verwerkt uiteraard alleen persoonsgegevens indien dit wettelijk is toegestaa
 * Voor de uitvoering van een overeenkomst met de lezer/klant/gebruiker. Zo heeft NRC uw adresgegevens nodig voor de bezorging van de krant of van producten uit de webshop.
 * Bij een wettelijke verplichting. Zo moeten factuurgegevens voor fiscale doeleinden minimaal 7 jaar bewaard worden.
 * Bij een gerechtvaardigd belang. Dit kan zijn omwille van het verbeteren van onze dienstverlening of het voor doen van bepaalde marketingactiviteiten.
-* Op basis van toestemming. Indien geen van bovenstaande punten van toepassing zijn verwerken we persoonsgegevens alleen na toestemming. Een voorbeeld hiervan is het inschrijven op bepaalde (commerciële) nieuwsbrieven. U kunt uw toestemming te alle tijde intrekken.
+* Op basis van toestemming. Een voorbeeld hiervan is het inschrijven op bepaalde (commerciële) nieuwsbrieven. U kunt uw toestemming op elk moment intrekken.
 
 ### Hoe lang worden de gegevens bewaard?
 
-NRC bewaart de verzamelde gegevens niet langer dan noodzakelijk is voor de doeleinden waartoe de gegevens werden verzameld of nodig is om te voldoen aan wettelijke verplichtingen. Gegevens die wij verwerken in het kader van een klantrelatie verwerken wij in de regel niet langer dan zeven jaar nadat het laatste klantcontact heeft plaatsgehad. Daarnaast is NRC op grond van belastingwetgeving wettelijk verplicht om factuur- en betaalgegevens zeven jaar te bewaren.
+NRC bewaart de verzamelde gegevens niet langer dan noodzakelijk is voor de doeleinden waarvoor de gegevens werden verzameld of zo lang als nodig is om te voldoen aan wettelijke verplichtingen. Gegevens die wij verwerken in het kader van een klantrelatie verwerken wij in de regel niet langer dan zeven jaar nadat het laatste klantcontact heeft plaatsgehad. Daarnaast is NRC op grond van belastingwetgeving wettelijk verplicht om factuur- en betaalgegevens zeven jaar te bewaren.
 
 ### Hoe worden persoonsgegevens beveiligd?
 
@@ -141,7 +135,7 @@ Wij maken voor de beveiliging van door ons verwerkte gegevens gebruik van uitgeb
 
 ### Uw rechten ten aanzien van uw privacy bij NRC
 
-Hieronder leest u welke rechten u kunt uitoefenen met betrekking tot de persoonsgegevens die NRC van u verwerkt. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) om gebruik te maken van deze rechten.
+Hieronder leest u welke rechten u kunt uitoefenen met betrekking tot de persoonsgegevens die NRC van u verwerkt. Gebruik [dit formulier](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) om gebruik te maken van deze rechten.
 
 * _Recht op inzage, correctie of verwijdering van persoonsgegevens, recht van bezwaar en beperking_
 
@@ -170,7 +164,7 @@ Als u abonnee bent van NRC dan beschikken we over de gegevens die u met ons gede
 
 Als u uw abonnement opzegt, bewaren we deze gegevens. Zo hoeft u die niet opnieuw in te voeren als u weer abonnee wilt worden. Ook kennen we uw abonnementsgeschiedenis, wat bijvoorbeeld van pas kan komen voor loyaliteitsprogramma’s. In de regel bewaren wij uw gegevens niet langer dan zeven jaar. Voor de belastingdienst is die termijn bijvoorbeeld verplicht.
 
-Wij gebruiken gegevens van ex-abonnees ook om aanbiedingen te doen om opnieuw abonnee te worden. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) als u deze aanbiedingen niet op prijs stelt.
+Wij gebruiken gegevens van ex-abonnees ook om aanbiedingen te doen om opnieuw abonnee te worden. Gebruik [dit formulier](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) om ons te laten weten dat u deze aanbiedingen niet op prijs stelt.
 
 ### U heeft iets gekocht in onze webwinkels of een evenement bezocht
 
@@ -188,27 +182,13 @@ Als u inlogt op nrc.nl of in een van onze apps, dan slaan we informatie op. We r
 
 We gebruiken die informatie om te analyseren hoe intensief onze digitale diensten worden gebruikt (bijvoorbeeld om vast te stellen hoe groot het aandeel abonnees van de papieren krant is dat ook de digitale editie leest), om misbruik te voorkomen (zoals het delen van één abonnement door grote aantallen mensen), en om abonnees te wijzen op de mogelijkheden van onze digitale diensten (als u bijvoorbeeld een digitaal abonnement heeft, maar daar nooit gebruik van maakt, dan kunnen we eventueel contact met u opnemen om u te helpen met inloggen). Ook kunnen we aan u de artikelen tonen die passen bij de eerder door u gelezen artikelen en de door u gevolgde onderwerpen en kunt u eenvoudig uw leesgeschiedenis terugvinden.
 
-Als u NRC.nl bezoekt of onze apps gebruikt worden er zogenoemde ‘cookies’ opgeslagen op uw apparaat - kleine tekstbestandjes waarin informatie kan worden vastgelegd.
+Als u NRC.nl bezoekt of onze apps gebruikt worden er zogenoemde ‘cookies’ of vergelijkbare technieken opgeslagen op uw apparaat - kleine tekstbestandjes waarin informatie kan worden vastgelegd. Meer informatie hierover vindt u in [onze cookieverklaring](https://www.nrc.nl/cookies/).
 
-Er zijn verschillende soorten cookies. De eerste categorie zijn zogeheten ‘functionele cookies’. Die helpen om de site zo goed mogelijk te laten werken, ze zorgen er bijvoorbeeld voor dat u als abonnee niet bij elk bezoek opnieuw hoeft in te loggen.
+### U ontvangt e-mail van NRC, zoals een nieuwsbrief, enquête of aanbieding
 
-Er zijn ook ‘analytische cookies’, die houden bijvoorbeeld hoeveel mensen de site bezoeken, in welk land die zich bevinden en hoe vaak en hoe lang een artikel wordt gelezen. Zolang u niet bent ingelogd, zien we dit niet op individueel niveau: we kunnen de data niet herleiden tot specifieke personen. We maken voor zulke analyses gebruik van diensten van andere bedrijven, zoals Google Analytics en Chartbeat. Die samenwerkingspartners hebben geen toegang tot uw persoonlijke gegevens, en kunnen u op basis van de cookies die ze via NRC.nl verspreiden niet volgen op andere websites.
+We gebruiken uw mailadres om u (tot u zich afmeldt) de nieuwsbrief of nieuwsbrieven te sturen waarvoor u zich heeft aangemeld. We gebruiken uw inschrijving op redactionele nieuwsbrieven niet om u separaat van de nieuwsbrief, commerciële aanbiedingen te sturen, tenzij u een betaalrelatie heeft (gehad) met NRC of u zich daarvoor expliciet heeft aangemeld. Het kan ook voorkomen dat wij u mailen om u te vragen naar uw tevredenheid over onze product en dienstverlening. Uw e-mailadres wordt niet gedeeld met adverteerders.
 
-We meten hoeveel en hoelang verhalen op onze site en in onze apps worden gelezen.
-
-Dan zijn er cookies voor marketingdoeleinden van NRC zelf. Daarmee meten we hoe vaak u op nrc.nl of in onze apps geweest bent, en of u interesse in een abonnement of een product uit onze webwinkels getoond heeft. Zo kunnen we u op NRC.nl of elders een advertentie tonen met een aanbieding voor een abonnement of product. Of andersom: als u bijvoorbeeld een ingelogde abonnee bent, dan weten we aan de hand van deze cookies dat we u geen advertenties met een abonnementsaanbieding moeten tonen.
-
-Adverteerders op NRC.nl kunnen bovendien cookies gebruiken om bij te houden hoe vaak u een reclame heeft gezien, en of (en hoe vaak) u erop heeft geklikt. Dat doen ze om de effectiviteit van hun campagne te meten, en om te kunnen controleren of de advertentie het met NRC afgesproken aantal keren is vertoond. Deze informatie is niet herleidbaar tot u als persoon: de adverteerder noch NRC koppelt de meetgegevens aan uw persoonlijke gegevens.
-
-Cookies van adverteerders op NRC.nl worden niet gebruikt om klant- of interesseprofielen op te bouwen, of om u elders op internet te volgen of benaderen.
-
-Een lijst met alle cookies die geplaatst worden bij een bezoek op nrc.nl, met daarbij een uitleg over de functionaliteit en achterliggende reden, vindt u op [www.nrc.nl/cookies](https://www.nrc.nl/cookies).
-
-### U bent ingeschreven op een of meer van onze e-mailnieuwsbrieven
-
-We gebruiken uw mailadres uitsluitend om u (tot u zich afmeldt) de nieuwsbrief of nieuwsbrieven te sturen waarvoor u zich heeft aangemeld. We gebruiken uw inschrijving op redactionele nieuwsbrieven niet om u commerciële aanbiedingen te sturen, tenzij u zich daarvoor expliciet heeft aangemeld. Uw e-mailadres wordt niet gedeeld met adverteerders.
-
-We meten hoeveel op de links in nieuwsbrieven wordt geklikt. Aan de hand van die informatie analyseren we hoe we onze nieuwsbrieven verder kunnen verbeteren.
+NRC maakt gebruik van tracking pixels, een techniek vergelijkbaar met een cookie, om te meten hoe vaak onze nieuwsbrieven worden gelezen en hoeveel op de links in nieuwsbrieven wordt geklikt. Aan de hand van die informatie analyseren we hoe we onze nieuwsbrieven verder kunnen verbeteren.
 
 Als u een account heeft en gebruikmaakt van onze digitale nieuwsvoorzieningsdienst, waarbij u via onze websites en/of apps artikelen leest, houden wij bij op welke links door u in de nieuwsbrief wordt geklikt, zodat via een gepersonaliseerde overzichtspagina in uw accountomgeving snel en gemakkelijk onder meer voor u interessante nieuwsbrieven en onderwerpen kunnen worden getoond.
 
@@ -220,9 +200,9 @@ Als u uw persoonsgegevens heeft achtergelaten om teruggebeld te worden, zullen w
 
 ### U komt voor in een artikel van NRC
 
-Alle artikelen die door de redactie van NRC worden gepubliceerd, zijn online beschikbaar voor abonnees. Niet-abonnees kunnen maandelijks enkele artikelen lezen op nrc.nl. Dit geldt ook voor artikelen die in het archief zijn opgenomen. Regelmatig krijgt de redactie verzoeken binnen waarin wordt gevraagd om verwijdering of anonimisering van een artikel in het digitale archief. De redactie gaat daar uiterst terughoudend mee om. Lezers moeten erop kunnen rekenen dat dat archief altijd een volledig en betrouwbaar beeld geeft van de inhoud van onze publicaties op het moment van verschijnen. Dat is een belangrijk aspect van onze betrouwbaarheid als journalistiek medium: ingrepen achteraf kunnen leiden tot geschiedvervalsing. In beginsel plegen we zulke ingrepen dus niet. Slechts in heel uitzonderlijke situaties wijkt NRC van deze regel af, bijvoorbeeld als iemands veiligheid in het geding is, als NRC een evidente onjuistheid heeft gepubliceerd (die dan wordt hersteld middels een rectificatie) of op last van de rechter.
+Alle artikelen die door de redactie van NRC worden gepubliceerd, zijn online beschikbaar voor abonnees. Niet-abonnees kunnen maandelijks enkele artikelen lezen op nrc.nl. Dit geldt ook voor artikelen die in het archief zijn opgenomen. Soms krijgt de redactie verzoeken binnen waarin wordt gevraagd om verwijdering of anonimisering van een artikel in het digitale archief. De redactie gaat daar uiterst terughoudend mee om. Lezers moeten erop kunnen rekenen dat dat archief altijd een volledig en betrouwbaar beeld geeft van de inhoud van onze publicaties op het moment van verschijnen. Dat is een belangrijk aspect van onze betrouwbaarheid als journalistiek medium: ingrepen achteraf kunnen leiden tot geschiedvervalsing. In beginsel plegen we zulke ingrepen dus niet. Slechts in heel uitzonderlijke situaties wijkt NRC van deze regel af, bijvoorbeeld als iemands veiligheid in het geding is, als NRC een evidente onjuistheid heeft gepubliceerd (die dan wordt hersteld middels een rectificatie) of op last van de rechter.
 
-De Nederlandse rechter hecht sterk aan integriteit van het archief voor journalistieke producties, zo is terug te vinden in de jurisprudentie op dit gebied. Ook de nieuwe Europese privacyregels maken een uitzondering wanneer het gaat om het uitoefenen van het recht op meningsvrijheid en informatie. In Nederland is dat vastgelegd in artikel 43 (‘Uitzonderingen inzake journalistieke doeleinden of academische, artistieke of literaire uitdrukkingsvormen’) van de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://www.rijksoverheid.nl/documenten/kamerstukken/2017/12/13/wetsvoorstel-uitvoeringswet-algemene-verordening-gegevensbescherming)).
+De Nederlandse rechter hecht sterk aan integriteit van het archief voor journalistieke producties, zo is terug te vinden in de jurisprudentie op dit gebied. Ook de Europese privacyregels maken een uitzondering wanneer het gaat om het uitoefenen van het recht op meningsvrijheid en informatie. In Nederland is dat vastgelegd in artikel 43 (‘Uitzonderingen inzake journalistieke doeleinden of academische, artistieke of literaire uitdrukkingsvormen’) van de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://www.rijksoverheid.nl/documenten/kamerstukken/2017/12/13/wetsvoorstel-uitvoeringswet-algemene-verordening-gegevensbescherming)).
 
 Zoekmachines die in Europa actief zijn, zoals Google, zijn op last van Europese Hof van Justitie in Luxemburg verplicht om een procedure in te stellen waarmee Europese burgers verwijzingen naar bepaalde webpagina’s kunnen laten verwijderen uit zoekresultaten die verschijnen wanneer ze hun (echte) naam intikken. De webpagina’s zelf blijven online. Google biedt hier een [aanvraagformulier](https://support.google.com/legal/contact/lr_eudpa?product=websearch) voor aan.
 
@@ -233,7 +213,7 @@ Hieronder vindt u antwoorden op de belangrijkste algemene vragen over privacy bi
 
 ### Kan ik mijn gegevens inzien?
 
-Ja, dat is mogelijk. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) om inzicht te krijgen in de over u bekende persoonsgegevens. Wij zullen u vervolgens uw persoonsgegevens sturen uit onze systemen naar het e-mailadres dat in onze systemen bekend is, waarin de informatie waar wij op persoonsniveau over beschikken zichtbaar is.
+Ja, dat is mogelijk. Gebruik [dit formulier](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) om inzicht te krijgen in de over u bekende persoonsgegevens. Wij zullen u vervolgens uw persoonsgegevens sturen uit onze systemen naar het e-mailadres dat in onze systemen bekend is, waarin de informatie waar wij op persoonsniveau over beschikken zichtbaar is.
 
 ### Verkoopt NRC mijn data?
 
@@ -243,9 +223,7 @@ Nee.
 
 We werken met een aantal partijen samen, waar we persoonsgegevens mee delen. Zo worden uw adresgegevens bijvoorbeeld gedeeld met de partij die de distributie van de kranten verzorgt, in het geval u de papieren krant ontvangt. De webwinkel van NRC werkt samen met een aantal externe leveranciers, waar als u iets koopt uw gegevens naartoe gestuurd worden voor de verwerking en uitvoering van uw bestelling. Voor analyses van de abonneedatabase (bijvoorbeeld om de ontwikkeling van het aantal abonnees te voorspellen) werken we samen met bureaus die hierin gespecialiseerd zijn. Ook zijn er leveranciers van software die NRC gebruikt (bijvoorbeeld om e-mails te versturen of de abonnementsgegevens op te slaan).
 
-Ook delen we gegevens met online platformen waarop wij adverteren voor een abonnement en onze journalistiek verspreiden, zoals Facebook en Google. We delen zo min mogelijk data met hen, maar wel enige informatie, zoals het identificatienummer van uw device (telefoon, laptop of tablet). Doordat ze bijvoorbeeld informatie ontvangen over wie er wel of niet een abonnement neemt, kan (automatisch) bepaald worden welke boodschap goed past bij welke doelgroep. In de privacy statements van deze partijen staat dat zij deze data ook mogen gebruiken om profielen op te bouwen over iedereen die daarvoor toestemming heeft gegeven (bijvoorbeeld door een akkoord op een cookiemelding of de privacyvoorwaarden van het platform). Tot slot kunnen persoonsgegevens worden uitgewisseld met andere onderdelen van Mediahuis, bijvoorbeeld om overlap in abonnementen met andere Mediahuis-onderdelen te analyseren.
-
-Met alle partijen waarmee NRC data deelt hebben we een zogenaamde verwerkersovereenkomst afgesloten. Hierin is vastgelegd met welk doel de data gedeeld is, en dat beide partijen correct met de data omgaan.
+Ook delen we gegevens met online platformen waarop wij adverteren voor een abonnement en onze journalistiek verspreiden, zoals Facebook en Google. We delen zo min mogelijk data met hen, maar wel enige informatie, zoals de URL van de pagina’s waarop social media embeds voorkomen. Doordat ze bijvoorbeeld informatie ontvangen over wie er wel of niet een abonnement neemt, kan (automatisch) bepaald worden welke boodschap goed past bij welke doelgroep. In de privacy statements van deze partijen staat dat zij deze data ook mogen gebruiken om profielen op te bouwen over iedereen die daarvoor toestemming heeft gegeven (bijvoorbeeld door een akkoord op een cookiemelding of de privacyvoorwaarden van het platform). Tot slot kunnen persoonsgegevens worden uitgewisseld met andere onderdelen van Mediahuis, bijvoorbeeld om overlap in abonnementen met andere Mediahuis-onderdelen te analyseren.
 
 ### Weet NRC wat ik lees?
 
@@ -265,7 +243,7 @@ Wij kunnen uw persoonsgegevens uit onze database verwijderen, en u kunt ervoor k
 
 * _Zo min mogelijk gegevens delen_
 
-U kunt ervoor kiezen om alleen noodzakelijke gegevens met ons te delen. Uw telefoonnummer en geboortedatum kunnen bijvoorbeeld uit onze bestanden verwijderd worden. In dat geval kunnen we u niet meer informeren over bijvoorbeeld calamiteiten of wijzigingen in onze producten of services. Uw geboortedatum gebruiken we enkel voor analyse van de ontwikkeling van de leeftijdsopbouw van onze abonneedatabase. Volg [deze instructies](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) als u niet-noodzakelijke gegevens wil laten verwijderen.
+U kunt ervoor kiezen om alleen noodzakelijke gegevens met ons te delen. Uw telefoonnummer en geboortedatum kunnen bijvoorbeeld uit onze bestanden verwijderd worden. In dat geval kunnen we u niet meer informeren over bijvoorbeeld calamiteiten of wijzigingen in onze producten of services. Uw geboortedatum gebruiken we enkel voor analyse van de ontwikkeling van de leeftijdsopbouw van onze abonneedatabase. Gebruik [dit formulier](https://mediahuis-privacy.my.onetrust.com/webform/107f8d5a-d81d-4be4-8bd4-d0675cfeda1a/7515783f-0439-4b6a-ab96-dc4dbeb08553) als u niet-noodzakelijke gegevens wil laten verwijderen.
 
 * _Geen aanbiedingen ontvangen_
 
@@ -273,22 +251,18 @@ Als u ervoor wil kiezen om geen aanbiedingen van NRC te ontvangen, volgt u [deze
 
 * _Geen cookies accepteren_
 
-U kunt ervoor kiezen om geen cookies te accepteren bij een bezoek aan nrc.nl. De website zal dan niet (optimaal) werken: u kunt dan bijvoorbeeld niet inloggen als abonnee, waardoor u geen onbeperkte toegang heeft tot onze artikelen. U kunt hier meer over lezen in de [cookieverklaring](https://www.nrc.nl/cookies/) van NRC.
+U kunt ervoor kiezen om geen cookies te accepteren bij een bezoek aan nrc.nl. U kunt hier meer over lezen in de [cookieverklaring](https://www.nrc.nl/cookies/) van NRC.
 
 ### Hoe werkt privacy bij links naar andere websites?
 
 Op de website treft u een aantal links aan naar andere websites. Hoewel deze websites met zorg zijn geselecteerd, kunnen wij geen verantwoordelijkheid dragen met betrekking tot het gebruik van uw gegevens door die organisaties. Lees hiervoor de privacyverklaring, indien aanwezig, van de website die u bezoekt.
-
-### Hoe kan ik contact opnemen als ik andere vragen heb over mijn privacy?
-
-Als u vragen heeft over het gebruik van persoonsgegevens kunt u contact opnemen via [privacy@nrc.nl](mailto:privacy@nrc.nl).
 
 Wijzigingen
 -----------
 
 Wij behouden ons het recht voor om wijzigingen aan te brengen in de privacyverklaring. Check daarom regelmatig de privacyverklaring zodat u op de hoogte bent van de geldende inhoud van de privacyverklaring.
 
-Deze privacyverklaring is voor het laatst gewijzigd op 22-08-2023.
+Deze privacyverklaring is voor het laatst gewijzigd op 08-07-2024.
 
 Leeslijst
 
@@ -312,7 +286,7 @@ Toevoegen aan
 * [Adverteren](https://adverteren.nrc.nl/)
 
 * [Mijn NRC](https://www.nrc.nl/mijn-nrc/)
-* [Neem een abonnement](https://abonnementen.nrc.nl/?utm_intern=nrc-web-footer)
+* [Neem een abonnement](https://abonnementen.nrc.nl/)
 * [Inloggen](https://www.nrc.nl/login/)
 * [Account aanmaken](https://login.nrc.nl/create?service=https://www.nrc.nl/login/)
 * [Digitale krant](https://www.nrc.nl/de/)
@@ -320,6 +294,7 @@ Toevoegen aan
 * [Mijn abonnementen](https://login.nrc.nl/login?service=https://service.nrc.nl/index.php%3Fmodule%3Dabonnement)
 * [Service & bezorging](https://service.nrc.nl/)
 * [Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/)
+* [Privacyvoorkeuren](#modal=consent-preferences)
 
 * [Contact](https://www.nrc.nl/contact/ "Contact met de redactie")
 * [Redactie](https://www.nrc.nl/contact/ "Contact met de redactie")
