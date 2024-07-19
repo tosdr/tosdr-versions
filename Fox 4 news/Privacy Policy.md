@@ -94,16 +94,6 @@ Search site
 * [Houston News - FOX 26 Houston](https://www.fox26houston.com/)
 * [Austin News - FOX 7 Austin](https://www.fox7austin.com/)
 
-[River Flood Warning
-
-until SUN 1:00 PM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
-
-2
-
-[River Flood Warning
-
-until SUN 1:00 AM CDT, Anderson County](https://www.fox4news.com/weather-alerts)
-
 Privacy Policy
 ==============
 
@@ -415,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Robert-Isom.jpg?ve=1&tl=1)
+ [![RNC 2024: Trump formally accepts GOP nomination for president](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2161990481.jpg?ve=1&tl=1)
 
- ![American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Robert-Isom.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-ceo-aims-rebuild-trust-after-black-passengers-removed-from-flight)
+ ![RNC 2024: Trump formally accepts GOP nomination for president](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2161990481.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rnc-2024-trump-speech)
 
-### [American Airlines CEO aims to ‘rebuild trust’ after Black passengers removed from flight](https://www.fox4news.com/news/american-airlines-ceo-aims-rebuild-trust-after-black-passengers-removed-from-flight)
+### [RNC 2024: Trump formally accepts GOP nomination for president](https://www.fox4news.com/news/rnc-2024-trump-speech)
 
- [!['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Thomas-Guiry.jpg?ve=1&tl=1)
+ [![Masked burglars target Hispanic-owned North Texas businesses](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-PEYTON-GP-BUSINESS-BURGLARY-9P_00.00.54.04.jpg?ve=1&tl=1)
 
- !['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Thomas-Guiry.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/actor-thomas-guiry-sandlot-arrested)
+ ![Masked burglars target Hispanic-owned North Texas businesses](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-PEYTON-GP-BUSINESS-BURGLARY-9P_00.00.54.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lilis-restaurant-burglary-ceviche-loco-burglars-dallas-grand-prairie)
 
-### ['Sandlot' actor Thomas Guiry arrested for allegedly throwing 35-lb dumbbell at Jeep](https://www.fox4news.com/news/actor-thomas-guiry-sandlot-arrested)
+### [Masked burglars target Hispanic-owned North Texas businesses](https://www.fox4news.com/news/lilis-restaurant-burglary-ceviche-loco-burglars-dallas-grand-prairie)
 
- [![U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-SHAUN-GPPD_US-MARSHALS-VIOLENT-CRIME-5P_00.00.44.18.jpg?ve=1&tl=1)
+ [![East Texas woman 8 months pregnant loses baby in hit-and-run: 'They took something from me'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/casi-hughes-palestine-hit-and-run.png?ve=1&tl=1)
 
- ![U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-SHAUN-GPPD_US-MARSHALS-VIOLENT-CRIME-5P_00.00.44.18.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/u-s-marshals-deputy-director-meets-north-texas-law-enforcement-discuss-violent-crime-reduction)
+ ![East Texas woman 8 months pregnant loses baby in hit-and-run: 'They took something from me'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/casi-hughes-palestine-hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/palestine-casi-hughes-hit-and-run-investigation-victim-speaks)
 
-### [U.S. Marshals deputy director meets with North Texas law enforcement to discuss violent crime reduction](https://www.fox4news.com/news/u-s-marshals-deputy-director-meets-north-texas-law-enforcement-discuss-violent-crime-reduction)
+### [East Texas woman 8 months pregnant loses baby in hit-and-run: 'They took something from me'](https://www.fox4news.com/news/palestine-casi-hughes-hit-and-run-investigation-victim-speaks)
 
- [![Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/Hail-slush-still.jpg?ve=1&tl=1)
+ [![Motorcyclist flees from Arizona troopers for nearly 70 miles, then is arrested at a casino](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/07/32/18/vlcsnap-2024-07-18-18h40m46s940-copy.jpg?ve=1&tl=1)
 
- ![Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/Hail-slush-still.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-hail-flows-like-lava-during-severe-thunderstorm-nebraska)
+ ![Motorcyclist flees from Arizona troopers for nearly 70 miles, then is arrested at a casino](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/07/32/18/592/333/vlcsnap-2024-07-18-18h40m46s940-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-flees-from-arizona-troopers-nearly-70-miles-is-arrested-casino)
 
-### [Watch: Hail flows like lava during severe thunderstorm in Nebraska](https://www.fox4news.com/news/watch-hail-flows-like-lava-during-severe-thunderstorm-nebraska)
+### [Motorcyclist flees from Arizona troopers for nearly 70 miles, then is arrested at a casino](https://www.fox4news.com/news/motorcyclist-flees-from-arizona-troopers-nearly-70-miles-is-arrested-casino)
 
- [![Grieving mom wants to build new Dallas playground in honor of later daughter](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/P-ALEX-OLD-CITY-PARK-NEW-PLAYGROUND-530P_00.01.02.52.jpg?ve=1&tl=1)
+ [![List of top Democrats who have called on Biden to exit race](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2059261395.jpg?ve=1&tl=1)
 
- ![Grieving mom wants to build new Dallas playground in honor of later daughter](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/P-ALEX-OLD-CITY-PARK-NEW-PLAYGROUND-530P_00.01.02.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/old-city-park-avy-hill-new-playground-the-cedars)
+ ![List of top Democrats who have called on Biden to exit race](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2059261395.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/list-democrats-biden-exit-race-drop-out)
 
-### [Grieving mom wants to build new Dallas playground in honor of later daughter](https://www.fox4news.com/news/old-city-park-avy-hill-new-playground-the-cedars)
+### [List of Democrats calling on Biden to drop out](https://www.fox4news.com/news/list-democrats-biden-exit-race-drop-out)
 
 ###### [News](https://www.fox4news.com/news)
 
