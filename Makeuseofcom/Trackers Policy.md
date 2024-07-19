@@ -91,7 +91,3 @@ Copyright © 2024 Valnet Inc.
 [Terms of Use](https://www.valnetinc.com/en/terms-of-use) | [Privacy Policy](https://www.valnetinc.com/en/privacy-policy)
 
  Your browser does not support HTML5 video.
-
- Your browser does not support HTML5 video.
-
- Your browser does not support HTML5 video.
