@@ -63,7 +63,7 @@
     
 * [Store](https://store.barstoolsports.com/)
     
-    [![Banner 18 Hover](https://chumley.barstoolsports.com/union/2024/06/20/Celtics2024_896x694.e744a130.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_hover_state_image_bostonchamps)
+    [![SKLZ ](https://chumley.barstoolsports.com/union/2024/06/22/SKLZ_BarstoolGolf_240319_MegaMenu.629c2933.jpg?crop=896%3A672%2Csmart&format=pjpg&width=3840&auto=webp&quality=85%2C75)](https://www.golfgalaxy.com/f/shop-sklz-barstool)
     
     #### Barstool Brands
     
@@ -103,9 +103,7 @@
     
     * [New](https://store.barstoolsports.com/collections/new-arrivals?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_newarrivals)
     * [Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-    * [Boston Banner 18](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_bostonchamps)
     * [Shady Rays](https://store.barstoolsports.com/collections/shady-rays?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_shadyrays)
-    * [SKLZ](https://store.barstoolsports.com/collections/sklz-x-barstool-golf?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_sklz)
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
     * [Barstool Golf](https://store.barstoolsports.com/collections/golf)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
@@ -144,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Jake Marsh](https://www.barstoolsports.com/blog/3517344/i-am-moving-on-from-pardon-my-take)
-* [Boston's Banner 18](https://store.barstoolsports.com/collections/boston-basketball?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_bar_bostonchamps)
-* [Rundown](https://www.barstoolsports.com/video/3517459/the-florida-panthers-have-been-smoked-barstool-rundown-june-19th-2024)
-* [The Dozen Championship](https://www.barstoolsports.com/video/3517569/4-team-minihane-vs.-5-the-experts-and-1-ziti-vs.-9-smockin-t.c.-or-rd-2-matches-7-and-8-the-dozen-trivia-tournament-iv)
-* [NHL Coverage](https://www.barstoolsports.com/topics/nhl)
+* [Rundown](https://www.barstoolsports.com/video/3519867/tiger-woods-called-out-by-british-tv-barstool-rundown-july-18th-2024)
+* [Shanghai Marriage Market](https://www.barstoolsports.com/video/3519731/i-tried-to-find-nicky-smokes-and-ben-mintz-a-wife-at-the-shanghai-marriage-market)
+* [Dave & Zach Bryan](https://www.barstoolsports.com/blog/3519770/watch-dave-sings-revival-on-stage-with-zach-bryan-to-a-sold-out-crowd-at-gillette-stadium)
+* [Undercover Bombs](https://www.barstoolsports.com/blog/3519725/feitelberg-makes-his-stand-up-debut-with-terrible-jokes-written-by-the-barstool-office-or-undercover-bombs)
+* [Barstool Golf Time App](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
 
 Privacy Policy
 ==============
