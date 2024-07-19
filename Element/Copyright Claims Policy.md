@@ -7,7 +7,7 @@ Product
 * [The Matrix Standard](https://element.io/matrix-benefits)
 * [Features](https://element.io/features)
 * [Integrations](https://element.io/integrations)
-* [Hosting](https://element.io/solutions/self-hosted-or-cloud-collaboration)
+* [Hosting](https://element.io/self-hosted-or-cloud)
 
 Solutions
 
@@ -44,7 +44,7 @@ Product
 * [The Matrix Standard](https://element.io/matrix-benefits)
 * [Features](https://element.io/features)
 * [Integrations](https://element.io/integrations)
-* [Hosting](https://element.io/solutions/self-hosted-or-cloud-collaboration)
+* [Hosting](https://element.io/self-hosted-or-cloud)
 
 Solutions
 
@@ -141,7 +141,7 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
 
 #### Product
 
-[The Element App](https://element.io/app-for-productivity) [Element Server Suite](https://element.io/server-suite) [The Matrix Standard](https://element.io/matrix-benefits) [Features](https://element.io/features) [Integrations](https://element.io/integrations) [Hosting](https://element.io/solutions/self-hosted-or-cloud-collaboration) [Pricing](https://element.io/pricing)
+[The Element App](https://element.io/app-for-productivity) [Element Server Suite](https://element.io/server-suite) [The Matrix Standard](https://element.io/matrix-benefits) [Features](https://element.io/features) [Integrations](https://element.io/integrations) [Hosting](https://element.io/self-hosted-or-cloud) [Pricing](https://element.io/pricing)
 
 #### Solutions
 
@@ -157,7 +157,7 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
 
 ![](images/cyber-essentials-plus.webp)
 
-Copyright © 2024 Element • [Legal](https://element.io/legal) • [Privacy](https://element.io/privacy)
+Copyright © 2016–2024 Element • [Legal](https://element.io/legal) • [Privacy](https://element.io/privacy)
 
 All Rights Reserved. The Element name, logo and device are registered trade marks of New Vector Ltd
 
