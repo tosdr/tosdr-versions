@@ -1,12 +1,10 @@
-[![Disqus](https://downloads.intercomcdn.com/i/o/89882/04711297e4ac978e0ca1f4f2/c56345f6e580f2ddd358475bae6c43b8.png)](https://help.disqus.com/en/)
+[Skip to main content](#main-content)
 
-[Go to Disqus](https://disqus.com/)
+[![Disqus](https://downloads.intercomcdn.com/i/o/89882/04711297e4ac978e0ca1f4f2/c56345f6e580f2ddd358475bae6c43b8.png)](https://help.disqus.com/en/)
 
 English;
 
 English
-
-[Go to Disqus](https://disqus.com/)
 
 English;
 
