@@ -761,7 +761,7 @@ I agree to receive product related communications from BeyondTrust as detailed i
 
 middle name  favorite color  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-           
+            
 
 * [LinkedIn](https://www.linkedin.com/company/beyondtrust)
 * [X](https://twitter.com/beyondtrust)
@@ -779,6 +779,10 @@ middle name  favorite color  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///
 Copyright © 2003 — 2024 BeyondTrust Corporation. All rights reserved. Other trademarks identified on this page are owned by their respective owners. BeyondTrust Corporation is not a chartered bank or trust company, or depository institution. It is not authorized to accept deposits or trust accounts and is not licensed or regulated by any state or federal banking authority.
 
 ![](https://px.ads.linkedin.com/collect/?pid=885586&fmt=gif)
+
+Want to learn why over 20,000 customers chose BeyondTrust?
+
+Please accept Functional Cookies in order to proceed.
 
 Prefers reduced motion setting detected. Animations will now be reduced as a result.
 
