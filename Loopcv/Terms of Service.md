@@ -21,7 +21,7 @@
 * Features
     * [Auto apply](http://www.loopcv.pro/autoapply)
     * [One click apply](http://www.loopcv.pro/manual)
-    * [Organize your search](http://www.loopcv.pro/kanban)
+    * [Job Application Tracker](http://www.loopcv.pro/kanban)
     * [Dynamic Emails](http://www.loopcv.pro/templates)
     * [CV Improvements](http://www.loopcv.pro/stats)
     * [Exclude Companies](http://www.loopcv.pro/exclude)
@@ -56,7 +56,7 @@
 * [Features](#)
     * [Auto apply](http://www.loopcv.pro/autoapply)
     * [One click apply](http://www.loopcv.pro/manual)
-    * [Organize your search](http://www.loopcv.pro/kanban)
+    * [Job Application Tracker](http://www.loopcv.pro/kanban)
     * [Dynamic Emails](http://www.loopcv.pro/templates)
     * [CV Improvements](http://www.loopcv.pro/stats)
     * [Exclude Companies](http://www.loopcv.pro/exclude)
@@ -107,10 +107,10 @@ Use the materials for any commercial purpose, or for any public display (commerc
 [← Go back to the home page](http://www.loopcv.pro/)  
   
 
-LoopCV Helps You find a job faster
+Loopcv Helps You find a job faster
 ----------------------------------
 
-[Join the LoopCV community](https://app.loopcv.pro/signup)
+[Join the Loopcv community](https://app.loopcv.pro/signup)
 
   
 
@@ -135,7 +135,7 @@ Automate your job search today. Never miss an opportunity.
 
 * [Auto apply](http://www.loopcv.pro/autoapply)
 * [One click apply](http://www.loopcv.pro/manual)
-* [Organize Your Search](http://www.loopcv.pro/kanban)
+* [Job Application Tracker](http://www.loopcv.pro/kanban)
 * [Dynamic Emails](http://www.loopcv.pro/templates)
 * [CV Improvements](http://www.loopcv.pro/stats)
 * [Exclude Companies](http://www.loopcv.pro/exclude)
