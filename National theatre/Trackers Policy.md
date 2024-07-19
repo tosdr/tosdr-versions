@@ -76,7 +76,7 @@ Search the National Theatre  Search
     Learn and explore](https://www.nationaltheatre.org.uk/learn-explore/)
     * [Schools](https://www.nationaltheatre.org.uk/learn-explore/schools/)
     * [Young people](https://www.nationaltheatre.org.uk/learn-explore/young-people/)
-    * [Discover](https://www.nationaltheatre.org.uk/learn-explore/discover/)
+    * [Teaching resources](https://www.nationaltheatre.org.uk/learn-explore/schools/teacher-resources/)
     * [Training for business](https://www.nationaltheatre.org.uk/learn-explore/theatreworks-training-for-business/)
 * [![The National Theatre building exterior illuminated by candles at night](https://images.nationaltheatre.org.uk/uploads/2022/06/external-test-2-1-scaled.jpg?resize=16%2C10&gravity)
     
@@ -88,6 +88,8 @@ Search the National Theatre  Search
 * [![Homepage of the National Theatre online shop](https://images.nationaltheatre.org.uk/uploads/2022/11/Shop-nav-menu-image-v2.jpg?resize=16%2C10&gravity "Shop-nav-menu-image-v2")
     
     Shop](https://shop.nationaltheatre.org.uk/)
+
+**Please note**: you can purchase tickets and memberships online. However, phone booking and support are still unavailable
 
 Cookies
 =======
