@@ -1,4 +1,11 @@
-[](https://www.comedy.co.uk/)
+[![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
+==================================================================================================================
+
+* Search
+* ☰
+
+[![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
+==================================================================================================================
 
 * [Home](https://www.comedy.co.uk/)
 * [TV](https://www.comedy.co.uk/tv/)
@@ -12,15 +19,10 @@
 * [More](https://www.comedy.co.uk/overview/)
 
 * Search
-* [AccountAccount](https://www.comedy.co.uk/account/)
 
-[](https://www.comedy.co.uk/)
-=============================
+× Close menu
 
-* Search
-* [AccountAccount](https://www.comedy.co.uk/account/)
-
-Search Menu
+Please consider donating to help British Comedy Guide produce quality comedy coverage. Thank you. [Find out more](https://www.comedy.co.uk/donate/)
 
 * [BCG](https://www.comedy.co.uk/)
 * [Info](https://www.comedy.co.uk/info/)
@@ -178,29 +180,25 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
-[Bodger & Badger. Simon Bodger (Andy Cunningham)](https://www.comedy.co.uk/quiz/311/)Quiz
+[![Ed Gamble](https://cdn.comedy.co.uk/images/library/people/300x200/e/ed_gamble_hot_dog.jpg "Ed Gamble")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-47/) Live
 
-[British Comedy Quiz #311](https://www.comedy.co.uk/quiz/311/)
+[Ed Gamble, Glastonbury + Kaleidoscope festivals, Jazz Emu - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-47/)
 
-[Dabbers Bingo Comedy Caller Contest](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)Live
+[![A Private Function. Image shows left to right: Joyce Chilvers (Maggie Smith), Gilbert Chilvers (Michael Palin)](https://cdn.comedy.co.uk/images/library/comedies/300x200/p/private_function.jpg "A Private Function. Image shows left to right: Joyce Chilvers (Maggie Smith), Gilbert Chilvers (Michael Palin)")](https://www.comedy.co.uk/quiz/315/) Quiz
 
-[Finalists ready for Dabbers Bingo Comedy Caller Contest 2024](https://www.comedy.co.uk/live/features/dabbers-bingo-comedy-caller-2024-final-preview/)
+[British Comedy Quiz #315](https://www.comedy.co.uk/quiz/315/)
 
-[James Barr](https://www.comedy.co.uk/live/random8/james-barr/)Live
+[![Kaleidoscope 2024. Credit: Si Hawkins](https://cdn.comedy.co.uk/images/library/misc/300x200/k/kaleidoscope_2024.jpg "Kaleidoscope 2024. Credit: Si Hawkins")](https://www.comedy.co.uk/live/features/kaleidoscope-2024-report/) Live
 
-[Random 8: James Barr](https://www.comedy.co.uk/live/random8/james-barr/)
+[Kaleidoscope 2024: Brian Blessed, Simon Amstell and more - up a hill](https://www.comedy.co.uk/live/features/kaleidoscope-2024-report/)
 
-[On The Buses. Jack Harper (Bob Grant)](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)Features
+[![Dabbers Bingo Comedy Caller competition 2024. Dru Cripps. Credit: Justyna Radon](https://cdn.comedy.co.uk/images/library/people/300x200/d/dru_cripps_dabbers.jpg "Dabbers Bingo Comedy Caller competition 2024. Dru Cripps. Credit: Justyna Radon")](https://www.comedy.co.uk/live/features/dru-cripps-interview/) Live
 
-[Comedy Chronicles: The bus stop - The post-fame fate of Bob Grant](https://www.comedy.co.uk/features/comedy_chronicles/bob-grant/)
+[Dru Cripps talks about winning Dabbers Bingo Comedy Caller Contest](https://www.comedy.co.uk/live/features/dru-cripps-interview/)
 
-#### [Donate to British Comedy Guide](https://www.comedy.co.uk/donate/)
+#### Subscribe to our newsletters
 
-Join us in our mission to support and promote British comedy across the decades.
-
-#### [Subscribe to our newsletters](https://www.comedy.co.uk/newsletters/)
-
-Get all the latest news and information in your inbox, with our range of email newsletters to meet all interests.
+ Go
 
 Do not sell my info
 
@@ -216,11 +214,11 @@ Privacy settings
 * [Pro](https://www.comedy.co.uk/pro/)
 * [More](https://www.comedy.co.uk/overview/)
 
-[](https://www.comedy.co.uk/)
+[![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
 
 * [Facebook](https://www.facebook.com/BritishComedyGuide)
 * [Instagram](https://www.instagram.com/britishcomedyguide/)
-* [Twitter](https://twitter.com/BritishComedy)
+* [X](https://x.com/BritishComedy)
 * [YouTube](https://www.youtube.com/user/britishcomedyguide)
 
 * [Home](https://www.comedy.co.uk/)
@@ -235,8 +233,10 @@ Privacy settings
 
 * * *
 
-What, with these feet?[Fletch](https://www.comedy.co.uk/tv/porridge/)
+We live for comedy. [**Do you?**](https://www.comedy.co.uk/donate/)
 
 © British Comedy Guide
+
+×
 
   Search
