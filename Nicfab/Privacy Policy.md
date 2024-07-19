@@ -21,13 +21,13 @@ Privacy Policy
 
 Our Privacy Policy
 
-1 December 2020 · 7 min · NicFab | Translations:
+12 July 2024 · 7 min · NicFab | Translations:
 
 * [🇮🇹 IT](https://www.nicfab.eu/it/pages/privacy-policy/)
 
-![Privacy Policy](https://www.nicfab.eu/images/privacy-policy.jpg)
+![Image by Markus Winkler from Pixabay](https://www.nicfab.eu/images/privacy-policy.jpg)
 
-Privacy Policy
+Image by Markus Winkler from Pixabay
 
 Table of Contents
 
@@ -47,7 +47,9 @@ Table of Contents
     * [Data subjects’ rights](#data-subjects-rights)
     * [Right to lodge a complaint](#right-to-lodge-a-complaint)
 
-![Privacy](/images/privacy-policy.jpg)
+Credits: The cover page image is by [Markus Winkler](https://pixabay.com/users/viarami-13458823/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5243225) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5243225)  
+  
+**Privacy Policy**
 
   
 
