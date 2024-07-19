@@ -1,4 +1,4 @@
-[EBSCO](https://____________________/)
+[EBSCO](https://www.ebsco.com/)
 
 Terms of Use
 ============
@@ -186,7 +186,7 @@ or via telephone:
 
 978-356-6500
 
-[EBSCO](https://_______________________/)
+[EBSCO](https://www.ebsco.com/)
 
 * [Privacy Policy](https://www.ebsco.com/company/privacy-policy)
 * [Cookie Policy](https://www.ebsco.com/cookie-policy)
