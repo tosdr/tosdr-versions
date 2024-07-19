@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
+* [How to configure a new backup?](https://www.backup4all.com/how-to-configure-a-new-backup-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to backup your data to Connectria](https://www.backup4all.com/how-to-backup-your-data-to-connectria-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
     
-* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
+* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
     
-* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
+* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
     
 
 Choose language:
