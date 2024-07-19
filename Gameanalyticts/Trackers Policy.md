@@ -1,16 +1,6 @@
 Cookie Policy of gameanalytics.com
 ----------------------------------
 
-To find more information on California consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/31899756/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Virginia consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/31899756/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Colorado consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/31899756/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Connecticut consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/31899756/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
-To find more information on Utah consumers and their privacy rights, Users may [read the privacy policy](https://www.iubenda.com/privacy-policy/31899756/legal?from_cookie_policy=true&no_markup=false "Show the complete Privacy Policy").
-
 This document informs Users about the technologies that help this Application to achieve the purposes described below. Such technologies allow the Owner to access and store information (for example by using a Cookie) or use resources (for example by running a script) on a User’s device as they interact with this Application.
 
 For simplicity, all such technologies are defined as "Trackers" within this document – unless there is a reason to differentiate.  
@@ -109,28 +99,6 @@ This Application uses Trackers to enable basic interactions and functionalities,
     
     GameAnalytics cookies are used to identify and verify users, allowing them access without repeated log-in. These cookies store unique identifiers and tokens that authenticate a user’s session.
     
-* ### User database management
-    
-    This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
-    Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
-    
-    #### HubSpot CRM (HubSpot, Inc.)
-    
-    HubSpot CRM is a User database management service provided by HubSpot, Inc.
-    
-    Personal Data processed: Trackers, Usage Data and various types of Data as specified in the privacy policy of the service.
-    
-    Place of processing: Germany – [Privacy Policy](https://legal.hubspot.com/privacy-policy).
-    
-    Storage duration:
-    
-    * \_\_hs\_gpc\_banner\_dismiss: 6 months
-    * \_\_hssc: 30 minutes
-    * \_\_hssrc: duration of the session
-    * \_\_hstc: 2 months
-    * hubspotutk: 2 months
-    * messagesUtk: 2 months
-    
 
 #### Experience
 
@@ -180,7 +148,7 @@ This Application uses Trackers to improve the quality of the user experience and
 
 #### Measurement
 
-This Application uses Trackers to measure traffic and analyze User behavior to improve the Service.
+This Application uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
 * ### Analytics
     
@@ -218,7 +186,7 @@ This Application uses Trackers to measure traffic and analyze User behavior to i
 
 #### Marketing
 
-This Application uses Trackers to deliver personalized marketing content based on User behavior and to operate, serve and track ads.
+This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
 
 * ### Advertising
     
@@ -377,22 +345,44 @@ This Application uses Trackers to deliver personalized marketing content based o
     * lms\_ads: 1 month
     * lms\_analytics: 1 month
     
+* ### User database management
+    
+    This type of service allows the Owner to build user profiles by starting from an email address, a personal name, or other information that the User provides to this Application, as well as to track User activities through analytics features. This Personal Data may also be matched with publicly available information about the User (such as social networks' profiles) and used to build private profiles that the Owner can display and use for improving this Application.  
+    Some of these services may also enable the sending of timed messages to the User, such as emails based on specific actions performed on this Application.
+    
+    #### HubSpot CRM (HubSpot, Inc.)
+    
+    HubSpot CRM is a User database management service provided by HubSpot, Inc.
+    
+    Personal Data processed: Trackers, Usage Data and various types of Data as specified in the privacy policy of the service.
+    
+    Place of processing: Germany – [Privacy Policy](https://legal.hubspot.com/privacy-policy).
+    
+    Storage duration:
+    
+    * \_\_hs\_gpc\_banner\_dismiss: 6 months
+    * \_\_hssc: 30 minutes
+    * \_\_hssrc: duration of the session
+    * \_\_hstc: 2 months
+    * hubspotutk: 2 months
+    * messagesUtk: 2 months
+    
 
-### How to manage preferences
+### How to manage preferences on this Application
 
-There are various ways to manage Tracker related preferences:
+Users can set or update their preferences via the relevant privacy choices panel available on this Application.
 
-Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.
+With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
-Additionally Users can set their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.
+#### How to control or delete Cookies and similar technologies via your device settings
 
-It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User’s initial consent preferences.
+Users may use their own browser settings to:
 
-Other Trackers in the browser’s local memory may be cleared by deleting the browsing history.
+* See what Cookies or other similar technologies have been set on the device;
+* Block Cookies or similar technologies;
+* Clear Cookies or similar technologies from the browser.
 
-With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
-
-#### Locating Tracker Settings
+The browser settings, however, do not allow granular control of consent by category.
 
 Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:
 
@@ -484,6 +474,6 @@ This privacy policy relates solely to this Application, if not stated otherwise 
 
 Latest update: April 04, 2024
 
-[iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/cookie-solution). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
 [Show the complete Privacy Policy](https://www.iubenda.com/privacy-policy/31899756/legal?from_cookie_policy=true)
