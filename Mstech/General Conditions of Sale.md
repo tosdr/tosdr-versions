@@ -10,8 +10,8 @@
     * [MG Image Resize](https://mstechglobal.com/mg-image-resize/)
     * [MG Office Suite](https://mstechglobal.com/mg-office/)
     * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
-    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
     * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
+    * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
 * [Downloads](#)
     * [Download Products](https://mstechglobal.com/download-products/)
     * [Folder Icon](#)
@@ -25,8 +25,12 @@
     * [Office Templates](https://mstechglobal.com/office-templates/)
 * [Shop](https://mstechglobal.com/store/)
 * [Support](#)
-    * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
-    * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
+    * [FAQ](https://mstechglobal.com/faq/)
+    * [Tickets](#)
+        * [New Ticket](https://mstechglobal.com/my-account/create-new-ticket/)
+        * [My Tickets](https://mstechglobal.com/my-account/my-tickets/)
+    * [Video Tutorials](https://mstechglobal.com/video-tutorials/)
+* [Blog](https://mstechglobal.com/blog/)
 * [Register](#register)
 * [Log In](https://mstechglobal.com/wp-login.php)
 
@@ -121,13 +125,13 @@ Latest from Our Videos & Tutorials​
 
 [Click here to go to our tutorial center](https://mstechglobal.com/video-tutorials/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20430'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3C/svg%3E)
 
-![](https://mstechglobal.com/wp-content/uploads/2024/01/Image-Resize-poster_05_16x9Thumb-768x430.jpg)](https://mstechglobal.com/how-to-reduce-image-file-size-jpg-etc-without-losing-quality-in-windows-10-and-windows-11/)
+![](https://mstechglobal.com/wp-content/uploads/2024/06/20_QR_Code_WiFi-768x432.png.webp)](https://mstechglobal.com/how-to-create-a-wifi-qr-code-with-mg-qr-code-generator/)
 
-[![vCard QR Code](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20432'%3E%3C/svg%3E)
 
-![vCard QR Code](https://mstechglobal.com/wp-content/uploads/2024/01/My-vCard-copy02-768x432.jpg.webp)](https://mstechglobal.com/how-to-create-a-vcard-qr-code-with-mg-qr-code-generator/)
+![](https://mstechglobal.com/wp-content/uploads/2024/06/19_QR_Code_Skype-768x432.png.webp)](https://mstechglobal.com/how-to-create-a-skype-qr-code-with-mg-qr-code-generator/)
 
 Client Testimonials
 -------------------
@@ -167,15 +171,25 @@ MSTECH Blog!
 
 our latest posts, news, and updates ([read more…](https://mstechglobal.com/blog/))
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
+[![QR Code Generator Changelog](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
 
-![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_03.png)](https://mstechglobal.com/mg-folder-icon-lite-changelog/)
+![QR Code Generator Changelog](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_09.png)](https://mstechglobal.com/mq-qr-code-generator-changelog/)
 
-### [MG Folder Icon Lite Changelog](https://mstechglobal.com/mg-folder-icon-lite-changelog/)
+### [MG QR Code Generator Changelog](https://mstechglobal.com/mq-qr-code-generator-changelog/)
 
-May 28, 2024 No Comments
+July 14, 2024 No Comments
 
-[Read More »](https://mstechglobal.com/mg-folder-icon-lite-changelog/)
+[Read More »](https://mstechglobal.com/mq-qr-code-generator-changelog/)
+
+[![Customizing folder colors and icons - Enhanced Organization](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20427'%3E%3C/svg%3E)
+
+![Customizing folder colors and icons - Enhanced Organization](https://mstechglobal.com/wp-content/uploads/2024/07/pic01.jpg)](https://mstechglobal.com/customizing-folder-colors-and-icons/)
+
+### [Customizing Folder Colors and Icons: 5 Keys You Should be Aware to Boost Your Productivity](https://mstechglobal.com/customizing-folder-colors-and-icons/)
+
+July 13, 2024 No Comments
+
+[Read More »](https://mstechglobal.com/customizing-folder-colors-and-icons/)
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
 
@@ -183,19 +197,9 @@ May 28, 2024 No Comments
 
 ### [MG Folder Icon Pro Changelog 2024](https://mstechglobal.com/mg-folder-icon-pro-changelog/)
 
-May 28, 2024 No Comments
+June 21, 2024 No Comments
 
 [Read More »](https://mstechglobal.com/mg-folder-icon-pro-changelog/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20450'%3E%3C/svg%3E)
-
-![](https://mstechglobal.com/wp-content/uploads/2023/12/Changelog_Thumb_02.png)](https://mstechglobal.com/mg-folder-icon-basic-changelog/)
-
-### [MG Folder Icon Basic Changelog](https://mstechglobal.com/mg-folder-icon-basic-changelog/)
-
-May 27, 2024 No Comments
-
-[Read More »](https://mstechglobal.com/mg-folder-icon-basic-changelog/)
 
 Copyright © 2024 MSTECH GLOBAL | Powered by [Astra WordPress Theme](https://wpastra.com/)
 
@@ -351,14 +355,14 @@ SAVE & ACCEPT
 
 **MG Folder Icon Pro v7.0**  
 \+ 141 Icon Packs, Icon Merges and Folder Mockups  
-**~$1403.65~** now $19.9
+**~$1403.65~** now $24.9
 
 [Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=13303&coupon=fip80yahoo&quantity=1&ref=1&campaign=popup)
 
 Or get Folder Icon Pro v7.0 for  
-**~$55.00~** now $9.99
+**~$55.00~** now $16.5
 
-[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=fip82upgradeyahoo&quantity=1&ref=1&campaign=popup)
+[Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=im23ya51hoo&quantity=1&ref=1&campaign=popup)
 
 ×
 
@@ -372,7 +376,7 @@ Your cart is empty[Return to Shop](https://mstechglobal.com/shop/)
 
 [Continue Shopping](#)
 
-                                                                                        
+                                                                                           
 
 Insert/edit link
 ================
