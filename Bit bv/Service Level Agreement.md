@@ -188,7 +188,7 @@ De non-performance penalty is beperkt tot 100% van het maandbedrag van de betref
 
 ### [Blogs](https://www.bit.nl/blogs)
 
-#### [Waarom iedere website een security.txt nodig heeft](https://www.bit.nl/news/3560/293/Waarom-iedere-website-een-security.txt-nodig-heeft)
+#### [Vrijheid van meningsuiting versus censuur](https://www.bit.nl/news/3568/293/Vrijheid-van-meningsuiting-versus-censuur)
 
 [](https://www.bit.nl/blogs)
 
@@ -202,7 +202,7 @@ De non-performance penalty is beperkt tot 100% van het maandbedrag van de betref
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[28-06-24 Onderhoud dieselaggregaten BIT-2A](https://www.bit.nl/news/3554/92/Onderhoud-dieselaggregaten-BIT-2A) [02-07-24 Glasvezelonderhoud BIT-2 - Interxion Science Park (AMS9)](https://www.bit.nl/news/3552/92/Glasvezelonderhoud-BIT-2-Interxion-Science-Park-AMS9) [03-07-24 Onderhoud Microsoft SQL instances servers](https://www.bit.nl/news/3558/92/Onderhoud-Microsoft-SQL-instances-servers)
+[01-08-24 Periodiek onderhoud brandmeldinstallatie BIT-1](https://www.bit.nl/news/3566/92/Periodiek-onderhoud-brandmeldinstallatie-BIT-1)
 
 [](https://www.bit.nl/onderhoud)
 
