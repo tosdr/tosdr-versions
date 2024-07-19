@@ -11,7 +11,7 @@ Open menu
 * [WATCH](https://nerdist.com/watch/ "WATCH")
 * [PLAY](https://nerdist.com/play/ "PLAY")
 * [LISTEN](https://nerdist.com/listen/ "LISTEN")
-* [SHOP](https://shop.legendary.com/pages/nerdist-gift-guide?utm_source=nerdist.com&utm_medium=referral&utm_campaign=nerdist-gift-guide&utm_content=nerdist-gift-guide "SHOP")
+* [SHOP](https://shop.legendary.com/search?type=product&q=nerdist&options%5Bprefix%5D=last "SHOP")
 * [PITCH](https://nerdist.com/how-to-pitch/ "PITCH")
 * Open search
 
