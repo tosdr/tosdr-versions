@@ -1,89 +1,114 @@
-[![Moqups Logo](https://landing.moqups.com/img/logo.svg)
+[Skip to content](#main)
 
-![Moqups Logo](https://landing.moqups.com/img/logo.svg)](https://moqups.com/ "Go to Moqups Homepage")
+[Moqups Logo](https://moqups.com/)
 
-* [Tour](https://moqups.com/#tour)
-* [Product](https://moqups.com/#features)
+* Product
     
-    * [Wireframe Tool](https://moqups.com/wireframe-tool/ "Moqups Wireframe Tool")
-    * [Flowchart Maker](https://moqups.com/flowchart-maker/ "Moqups Flowchart Maker")
-    * [Graph Maker](https://moqups.com/graph-maker/ "Moqups Graph Maker")
-    * [Online Whiteboard](https://moqups.com/online-whiteboard/ "Moqups Online Whiteboard")
-    * [UML Diagram Tool](https://moqups.com/uml-diagram-tool/ "Moqups UML Diagram Tool")
+    * [Wireframe Tool](https://moqups.com/wireframe-tool/)
+    * [Flowchart Maker](https://moqups.com/flowchart-maker/)
+    * [Graph Maker](https://moqups.com/graph-maker/)
+    * [Online Whiteboard](https://moqups.com/online-whiteboard/)
+    * [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
     
-* [Templates](https://moqups.com/templates/)
+* Templates
     
-    * [Wireframes & Mockups](https://moqups.com/templates/wireframes-mockups/ "Online UX Wireframe & UI Mockup Tools – Free Templates | Moqups")
-    * [Admin Dashboard](https://moqups.com/templates/wireframes-mockups/admin-dashboard-wireframe/ "Free Admin Dashboard Wireframe Templates – Online with Moqups")
-    * [Ecommerce Website](https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/ "Free Ecommerce Website Wireframe Templates – Online with Moqups")
-    * [Landing Page](https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/ "Free Landing Page Wireframe Templates – Online with Moqups")
+    * [All Templates](https://moqups.com/templates/)
+    * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+    * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
+    * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
+    * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
     
-    * [Diagrams & Flows](https://moqups.com/templates/diagrams-flowcharts/ "Online Diagram and Flowchart Maker –  Free Templates | Moqups")
-    * [Mind Maps](https://moqups.com/templates/diagrams-flowcharts/mind-maps/ "Beautiful Mind Maps Online –  Free Templates | Moqups")
-    * [Site Maps](https://moqups.com/templates/diagrams-flowcharts/site-maps/ "Custom Visual Site Maps Online –  Free Templates | Moqups")
-    * [Process Maps](https://moqups.com/templates/diagrams-flowcharts/process-flows/ "Stunning Process Flowcharts Online –  Free Templates | Moqups")
+* Resources
     
-    * [Charts & Graphs](https://moqups.com/templates/charts-graphs/ "Online Chart & Graph Maker | Charts and Graphs Templates | Moqups")
-    * [Line Charts & Graphs](https://moqups.com/templates/charts-graphs/line-graph/ "Stunning Line Graph Templates | Edit Your Line Chart | Moqups")
-    * [Bar Charts & Graphs](https://moqups.com/templates/charts-graphs/bar-graph/ "Stunning Bar Graphs and Charts | Edit Bar Graph Templates | Moqups")
-    * [Pie & Donut Charts](https://moqups.com/templates/charts-graphs/pie-donut-chart/ "Stunning Pie Chart Templates | Edit Donut Chart Templates | Moqups")
+    * [Help Center](https://moqups.com/hc/)
+    * [Contact Support](https://moqups.com/support/)
+    * [FAQ](https://moqups.com/faq/)
     
-    * [Business Strategy](https://moqups.com/templates/business-strategy/ "Business Strategy Templates | Moqups")
-    * [Gantt Chart](https://moqups.com/templates/business-strategy/gantt-chart/ "Gantt Chart Template | Moqups")
-    * [Empathy Map](https://moqups.com/templates/business-strategy/empathy-map/ "Empathy Map Template | Moqups")
-    * [User Story Mapping](https://moqups.com/templates/business-strategy/user-story-mapping/ "User Story Mapping Template")
+    * [Get Started](https://moqups.com/blog/get-started-with-moqups/)
+    * [Blog](https://moqups.com/blog/)
+    * [What's New](https://moqups.com/blog/release-notes/)
     
-* [Benefits](https://moqups.com/#benefits)
-* [Testimonials](https://moqups.com/#testimonials)
 * [Pricing](https://moqups.com/pricing/)
+
+* en
+    
+    * [Español](https://moqups.com/es/terms/)
+    * [Italiano](https://moqups.com/it/terms/)
+    * [Deutsch](https://moqups.com/de/terms/)
+    * [Français](https://moqups.com/fr/terms/)
+    
 * [Log In](https://app.moqups.com/login/)
 
-[Log In](https://app.moqups.com/login/ "Moqups Log In") [Sign up for free](https://app.moqups.com/)
+[Sign up](https://app.moqups.com/sign-up/)
 
-[![Open navigation menu](https://landing.moqups.com/img/icons/navigation/hamburger-menu.png "Open navigation menu")
-
-![Open navigation menu](https://landing.moqups.com/img/icons/navigation/hamburger-menu.png)](#js-menu "Open navigation menu")
-
-* [Tour](https://moqups.com/#tour)
-* [Product](https://moqups.com/#features)
-* [Templates](https://moqups.com/templates/)
-* [Benefits](https://moqups.com/#benefits)
-* [Testimonials](https://moqups.com/#testimonials)
-* [Pricing](https://moqups.com/pricing/)
 * [Log In](https://app.moqups.com/login/)
+* [Sign up](https://app.moqups.com/sign-up/)
+* [Pricing](https://moqups.com/pricing/)
+
+Product
+
+* [Wireframe Tool](https://moqups.com/wireframe-tool/)
+* [Flowchart Maker](https://moqups.com/flowchart-maker/)
+* [Graph Maker](https://moqups.com/graph-maker/)
+* [Online Whiteboard](https://moqups.com/online-whiteboard/)
+* [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
+
+Templates
+
+* [All Templates](https://moqups.com/templates/)
+* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+* [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
+* [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
+* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+
+Resources
+
+* [Help Center](https://moqups.com/hc/)
+* [Contact Support](https://moqups.com/support/)
+* [FAQ](https://moqups.com/faq/)
+* [Get Started](https://moqups.com/blog/get-started-with-moqups/)
+* [Blog](https://moqups.com/blog/)
+* [What's New](https://moqups.com/blog/release-notes/)
+
+Language
+
+* [Español](https://moqups.com/es/terms/)
+* [Italiano](https://moqups.com/it/terms/)
+* [Deutsch](https://moqups.com/de/terms/)
+* [Français](https://moqups.com/fr/terms/)
 
 Terms of Service
 ================
 
-* [1\. Acceptance of Terms](#1-acceptance-of-terms)
-* [2\. Account Registration](#2-account-registration)
-* [3\. Use of the Services](#3-use-of-the-services)
-* [4\. Pricing and Payment Terms](#4-pricing-and-payment-terms)
-* [5\. Communications](#5-communications)
-* [6\. Content Ownership and Conduct](#6-content-ownership-and-conduct)
-* [7\. Intellectual Property](#7-intellectual-property)
-* [8\. Confidential Information](#8-confidential-information)
-* [9\. Termination](#9-termination)
-* [10\. Changes to the Services](#10-changes-to-the-services)
-* [11\. Sole Remedy](#11-sole-remedy)
-* [12\. Jurisdiction](#12-jurisdiction)
-* [13\. Entire Agreement / Translation / Interpretation](#13-entire-agreement-translation-interpretation)
-* [14\. No Waiver](#14-no-waiver)
-* [15\. Warranty Disclaimer](#15-warranty-disclaimer)
-* [16\. Limitation of Liability](#16-limitation-of-liability)
+1. [Acceptance of Terms](#acceptance-of-terms)
+2. [Account Registration](#account-registration)
+3. [Use of the Services](#use-of-the-services)
+4. [Pricing and Payment Terms](#pricing-and-payment-terms)
+5. [Communications](#communications)
+6. [Content Ownership and Conduct](#content-ownership-and-conduct)
+7. [Intellectual Property](#intellectual-property)
+8. [Confidential Information](#confidential-information)
+9. [Termination](#termination)
+10. [Changes to the Services](#changes-to-the-services)
+11. [Sole Remedy](#sole-remedy)
+12. [Jurisdiction](#jurisdiction)
+13. [Entire Agreement / Translation / Interpretation](#entire-agreement-translation-interpretation)
+14. [No Waiver](#no-waiver)
+15. [Warranty Disclaimer](#warranty-disclaimer)
+16. [Limitation of Liability](#limitation-of-liability)
 
 1\. Acceptance of Terms
 -----------------------
 
-S.C. Evercoder Software S.R.L. owns and provides various websites (the **“Websites”**), services, and software (such as moqups.com) that facilitate online mockups or other types of content creation and sharing, collectively, the **“Services”**.
+S.C. Evercoder Software S.R.L. owns and provides various websites (the **"Websites"**), services, and software (such as moqups.com) that facilitate online mockups or other types of content creation and sharing, collectively, the **"Services"**.
 
-BY ACCESSING AND USING THE SERVICES IN WHOLE OR IN PART YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS SET FORTH BELOW (THE **“TERMS OF SERVICE”**). IF YOU REPRESENT A COMPANY, YOU AGREE THAT YOU ARE AUTHORIZED TO ACCEPT THESE TERMS OF SERVICE ON BEHALF OF YOUR COMPANY, AND BY ACCESSING AND USING THE SERVICES IN WHOLE IN OR IN PART YOU AGREE ON BEHALF OF YOU AND YOUR COMPANY TO BE BOUND BY THESE TERMS OF SERVICE.
+BY ACCESSING AND USING THE SERVICES IN WHOLE OR IN PART YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS SET FORTH BELOW (THE **"TERMS OF SERVICE"**). IF YOU REPRESENT A COMPANY, YOU AGREE THAT YOU ARE AUTHORIZED TO ACCEPT THESE TERMS OF SERVICE ON BEHALF OF YOUR COMPANY, AND BY ACCESSING AND USING THE SERVICES IN WHOLE IN OR IN PART YOU AGREE ON BEHALF OF YOU AND YOUR COMPANY TO BE BOUND BY THESE TERMS OF SERVICE.
 
-In these Terms of Service, we may refer to S.C. Evercoder Software S.R.L. as **“Evercoder”**, **“us”**, or **“we”**, and “you” shall refer to you and, where applicable, to your company. Any and all use of the Services is subject to these Terms of Service. If you do not agree to be subject to these Terms of Service, do not use the Services. BY CONTINUING TO USE THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE.
+In these Terms of Service, we may refer to S.C. Evercoder Software S.R.L. as **"Evercoder"**, **"us"**, or **"we"**, and "you" shall refer to you and, where applicable, to your company. Any and all use of the Services is subject to these Terms of Service. If you do not agree to be subject to these Terms of Service, do not use the Services. BY CONTINUING TO USE THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE.
 
 EVERCODER RESERVES THE RIGHT, AT ITS SOLE DISCRETION, TO CHANGE, MODIFY, UPDATE, ADD, OR REMOVE PORTIONS OF THE TERMS OF SERVICE AT ANY TIME, WITH OR WITHOUT NOTICE TO YOU. PLEASE CHECK THESE TERMS OF SERVICE PERIODICALLY FOR CHANGES. YOUR CONTINUED USE OF THE SERVICES AFTER THE POSTING OF ANY CHANGES TO THE TERMS OF SERVICE WILL SIGNIFY YOUR ACCEPTANCE OF THOSE CHANGES. You can review the most current version of the Terms of Service at any time at [https://moqups.com/terms/](https://moqups.com/terms/)
 
-Any new features that augment or enhance the current Services, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Services after any such changes shall constitute your consent to such changes. These Terms of Service cover your use of the Services, and you agree that these Terms of Service apply to your use of the Services. **“Users”** or **Accounts** shall refer to any and all individuals or organizations using the Services.
+Any new features that augment or enhance the current Services, including the release of new tools and resources, shall be subject to the Terms of Service. Continued use of the Services after any such changes shall constitute your consent to such changes. These Terms of Service cover your use of the Services, and you agree that these Terms of Service apply to your use of the Services. **"Users"** or **Accounts** shall refer to any and all individuals or organizations using the Services.
 
 BY USING THE SERVICES, YOU ALSO CONSENT AND AGREE TO THE TERMS OF THE EVERCODER PRIVACY POLICY. You can review the most current version of the **Privacy Policy** at any time at [https://moqups.com/privacy/](https://moqups.com/privacy/)
 
@@ -98,7 +123,7 @@ You must register to access and use certain parts of the Services.
 
 One person or legal entity may not maintain more than one free account.
 
-When you enter or try to use a part of the Services that requires registration, you will be prompted to create an account (a “User Account”) or log into your existing User Account. You understand that if you are so prompted you will not be able to continue using that portion of the Services without having a User Account.
+When you enter or try to use a part of the Services that requires registration, you will be prompted to create an account (a "User Account") or log into your existing User Account. You understand that if you are so prompted you will not be able to continue using that portion of the Services without having a User Account.
 
 If you are registering on behalf of a company, by registering you agree that you have the requisite authority to register on behalf of such company. You agree that any information you provide when registering for the Services, and at any time thereafter is true, accurate and complete and that, where applicable, you will update all such information as necessary to maintain its truth, accuracy and completeness. FAILURE TO DO SO SHALL CONSTITUTE A BREACH OF THESE TERMS OF SERVICE. You further agree that any credit card information or PayPal Account Information you provide through the Services is valid and that you have authority to authorize payments from such credit card or PayPal Account. You further agree that you will use the Services only for the purposes advertised on the Evercoder websites and/or set forth herein.
 
@@ -116,28 +141,28 @@ Evercoder shall provide you with basic online support for the Services at no add
 4\. Pricing and Payment Terms
 -----------------------------
 
-1. **Subscription Fees:** You understand that certain services require monthly and/or annual payments (“Subscription Fee”) to continue to use such services. These fees are posted and updated periodically on the Evercoder’s Moqups web site (moqups.com).
+1. **Subscription Fees:** You understand that certain services require monthly and/or annual payments ("Subscription Fee") to continue to use such services. These fees are posted and updated periodically on the Evercoder's Moqups web site (moqups.com).
 2. **Payment:** Unless otherwise stated, all fees are in U.S. Dollars. A valid credit card or a PayPal payment validation is required for Subscription Fees and Transaction Fees. Free accounts are not required to provide a credit card number. An upgrade from the free plan to any paying plan will immediately be billed to you. For any upgrade or downgrade in plan level, your credit card that you provided will automatically be charged the new rate on your next billing cycle. Downgrading your plan will NOT cause any data/content loss but some features may become unavailable.
 3. **General:** You agree to pay all charges that are applicable to you as set forth on the Evercoder website and/or in these Terms of Service. You agree that the address and email address you provide in your account settings are valid addresses and that Evercoder may contact you at such addresses or through other electronic or facsimile communications. Evercoder reserves the right, at any time and at its discretion, to change any fees and any other pricing terms. Any changes shall be posted on the Evercoder website and will be effective after such posting. Evercoder reserves the right but has no obligation to notify you through the contact information you provide of any such changes.
-4. **Auto-Renewal:** We will automatically bill your credit card on each periodic renewal subscription term, from the date of your first purchase until you cancel, either by downgrading to a free plan, or by deleting your account. Your Paid Account will remain in effect until it’s cancelled or terminated under these Terms. If you don’t pay for your Paid Account on time, including through a declined credit card transaction, Evercoder reserves the right to suspend your account or reduce your storage to free space levels.
+4. **Auto-Renewal:** We will automatically bill your credit card on each periodic renewal subscription term, from the date of your first purchase until you cancel, either by downgrading to a free plan, or by deleting your account. Your Paid Account will remain in effect until it's cancelled or terminated under these Terms. If you don’t pay for your Paid Account on time, including through a declined credit card transaction, Evercoder reserves the right to suspend your account or reduce your storage to free space levels.
 5. **Refunds:** Any fees paid to Evercoder by you pursuant to these Terms of Service are nonrefundable. The Services are billed in advance on a monthly or yearly basis and are non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. Any exception to this policy is at the sole discretion of Evercoder.
 6. **Nonpayment:** If, for whatever reason, your payment method fails, and the payment does not go through, Evercoder reserves the right to suspend your access to the Services. If you fail to pay the applicable charge within five (5) days of the date of suspension, or to otherwise negotiate a payment plan for all amounts then due, Evercoder reserves the right to cancel your account. In the event Evercoder cancels your account for non-payment, all amounts due and unpaid from you to Evercoder for use of the Services shall become immediately due and payable. In the event of non-payment and the exhaustion of the procedures set forth in this section, Evercoder reserves the right to seek payment using any remedies allowed to it by law. Evercoder shall have the right to recoup all payments due to it under this agreement as set forth in this agreement.
 7. **Disputes:** If you wish to dispute any charge invoiced to you by Evercoder, you agree to submit the disputed charge to us no later than five (5) business days after the disputed charge is posted to your account. You are responsible for reviewing any charges made to your account. You may submit a disputed charge by contacting us through the Evercoder website, email, telephone, or mail.
-8. **Cancellation:** You may downgrade or cancel your paid subscription at any time. If you do, we’ll treat your information responsibly. You can find instructions in our [FAQ](https://moqups.com/faq/) on how to downgrade your account
+8. **Cancellation:** You may downgrade or cancel your paid subscription at any time. If you do, we'll treat your information responsibly. You can find instructions in our [FAQ](https://moqups.com/faq/) on how to downgrade your account
 
 5\. Communications
 ------------------
 
 Evercoder reserves the right to contact you from time to time for feedback about the Services. We may also contact you regarding service and support related issues. We reserve the right to contact you through e-mail, facsimiles, text or voice messages, notices posted on the Evercoder websites. Notices will be deemed effective at the time they are sent by Evercoder or as of the date they are posted, regardless of whether you actually read any such notices.
 
-You consent that any emails, surveys, other information or feedback regarding the Services or the Websites that you provide to Evercoder through the Services or via any other medium, except for Personally Identifiable Information, as defined in the Evercoder Privacy Policy, can be used by Evercoder in any manner, including but not limited to for reviews and ratings on Evercoder or third party websites. This does not apply to work you may submit, create, develop, collaborate on, or otherwise work on in connection with using the Services, and you will retain all rights in and to any work to the extent it is original work created by you, subject to Section 6 “Content Ownership and Conduct”, below.
+You consent that any emails, surveys, other information or feedback regarding the Services or the Websites that you provide to Evercoder through the Services or via any other medium, except for Personally Identifiable Information, as defined in the Evercoder Privacy Policy, can be used by Evercoder in any manner, including but not limited to for reviews and ratings on Evercoder or third party websites. This does not apply to work you may submit, create, develop, collaborate on, or otherwise work on in connection with using the Services, and you will retain all rights in and to any work to the extent it is original work created by you, subject to Section 6 "Content Ownership and Conduct", below.
 
 6\. Content Ownership and Conduct
 ---------------------------------
 
 We claim no intellectual property rights over the material you provide to the Services. Your profile and materials uploaded remain yours. However, by setting your pages to be viewed publicly, you agree to allow others to view your Content.
 
-You acknowledge that you are responsible for the information and content that you produce, import, store and access to the Services (“Content”), and that you will have full responsibility for the Content, including its legality, reliability, appropriateness, originality and copyright. You further agree that you will not upload, post or otherwise make available on the Services any material protected by copyright, trademark, or any other proprietary right without the express permission of the owner of such copyright, trademark or other proprietary right, and the burden of determining that any material is not protected by any such right is on you. YOU SHALL BE SOLELY LIABLE FOR ANY DAMAGE RESULTING FROM ANY INFRINGEMENT OF COPYRIGHTS, TRADEMARKS, PROPRIETARY RIGHTS, OR ANY OTHER HARM RESULTING FROM THE CONTENT.
+You acknowledge that you are responsible for the information and content that you produce, import, store and access to the Services ("Content"), and that you will have full responsibility for the Content, including its legality, reliability, appropriateness, originality and copyright. You further agree that you will not upload, post or otherwise make available on the Services any material protected by copyright, trademark, or any other proprietary right without the express permission of the owner of such copyright, trademark or other proprietary right, and the burden of determining that any material is not protected by any such right is on you. YOU SHALL BE SOLELY LIABLE FOR ANY DAMAGE RESULTING FROM ANY INFRINGEMENT OF COPYRIGHTS, TRADEMARKS, PROPRIETARY RIGHTS, OR ANY OTHER HARM RESULTING FROM THE CONTENT.
 
 YOU RETAIN OWNERSHIP OF ANY COPYRIGHTS OR OTHER INTELLECTUAL PROPERTY RIGHTS APPLICABLE TO ANY CONTENT YOU PRODUCE USING SERVICES. Evercoder will not license your Public Content to any third parties without your explicit permission.
 
@@ -145,7 +170,7 @@ Evercoder reserves the right, but not the obligation, to remove any Public Conte
 
 You may not use the Services to do any of the following:
 
-1. create, upload, post, transmit, or otherwise make available any items that are unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another’s privacy, hateful, or racially, ethnically or otherwise discriminatory;
+1. create, upload, post, transmit, or otherwise make available any items that are unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise discriminatory;
 2. harass another person or entity;
 3. harm minors;
 4. target any marketing efforts to minors 13 years of age or under;
@@ -159,17 +184,17 @@ You may not use the Services to do any of the following:
 12. disguise the origin of any content transmitted through any of the Websites;
 13. create, upload, post, cause a display or performance of, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to destroy, interrupt or otherwise limit the functionality of any computer software, computer hardware or other equipment;
 14. upload, post, engage in or facilitate any activities that change the visual character, general or specific, of the Websites;
-15. employ automated systems (including crawlers, spiders, robots, etc) that send more requests to Evercoder’s servers than possible to do by a human using a conventional web-browser in the same amount of time. However, Evercoder allows the operators of public search engines to use spiders to copy materials from the Websites for sole purpose of creating public accessibility, but does not grant these operators permission to store, cache, or archive such materials for any other purpose; or
+15. employ automated systems (including crawlers, spiders, robots, etc) that send more requests to Evercoder's servers than possible to do by a human using a conventional web-browser in the same amount of time. However, Evercoder allows the operators of public search engines to use spiders to copy materials from the Websites for sole purpose of creating public accessibility, but does not grant these operators permission to store, cache, or archive such materials for any other purpose; or
 16. interfere with or disrupt the Websites or servers or networks connected thereto, or disobey any applicable policies or regulations of networks connected to the Websites.
 
-You further agree that if you upload, post, transmit or otherwise display any mature material, you will a) do so only and completely in accordance with all applicable laws and with these Terms of Service, and b) mark or otherwise visibly designate all such material as “Mature Material” in a way that is easily evident to Users.
+You further agree that if you upload, post, transmit or otherwise display any mature material, you will a) do so only and completely in accordance with all applicable laws and with these Terms of Service, and b) mark or otherwise visibly designate all such material as "Mature Material" in a way that is easily evident to Users.
 
 7\. Intellectual Property
 -------------------------
 
 The look and feel of the Services is copyright ©2011,2012,2013 S.C. Evercoder Software S.R.L..
 
-Evercoder retains all rights in and to, including without limitation, the copyrights, patents, and trade secrets, trademarks or service marks contained in or relating to the Services (collectively the “Evercoder Intellectual Property”) that are the exclusive property of Evercoder and/or its licensors. We do not transfer any rights in or to the Evercoder Intellectual Property to you.
+Evercoder retains all rights in and to, including without limitation, the copyrights, patents, and trade secrets, trademarks or service marks contained in or relating to the Services (collectively the "Evercoder Intellectual Property") that are the exclusive property of Evercoder and/or its licensors. We do not transfer any rights in or to the Evercoder Intellectual Property to you.
 
 Content of the Services that incorporates or includes any of the Evercoder Intellectual Property may not be used, copied, reproduced, distributed, displayed, sold, licensed, or otherwise exploited for any other purposes whatsoever without the prior written consent of Evercoder or the rightful owner, as applicable.
 
@@ -213,7 +238,7 @@ A lack of enforcement will not result in waiver of any term. Also, no waiver by 
 15\. Warranty Disclaimer
 ------------------------
 
-The Services are provided “AS IS”, “WITH ALL FAULTS”, and “AS AVAILABLE”. YOU AGREE THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK. Evercoder does not GUARANTEE that users will be able to access the Services at all times or places, that Evercoder will have adequate capacity for all users, OR THAT THE SERVICES WILL BE OPERABLE with your equipment. TO THE FULLEST EXTENT PERMITTED BY LAW, EVERCODER, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, including implied warranties of merchantability, suitability, quality, accuracy, fitness for particular purposes and non-infringement. EVERCODER MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE CONTENT OF ANY WEB SITES LINKED TO THE SERVICES. EVERCODER DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICES PROVIDED, ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES OR ANY LINKED WEB SITE OR FEATURED IN ANY ADVERTISING, AND EVERCODER WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD PARTY.
+The Services are provided "AS IS", "WITH ALL FAULTS", and "AS AVAILABLE". YOU AGREE THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK. Evercoder does not GUARANTEE that users will be able to access the Services at all times or places, that Evercoder will have adequate capacity for all users, OR THAT THE SERVICES WILL BE OPERABLE with your equipment. TO THE FULLEST EXTENT PERMITTED BY LAW, EVERCODER, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, including implied warranties of merchantability, suitability, quality, accuracy, fitness for particular purposes and non-infringement. EVERCODER MAKES NO WARRANTIES OR REPRESENTATIONS ABOUT THE CONTENT OF ANY WEB SITES LINKED TO THE SERVICES. EVERCODER DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICES PROVIDED, ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES OR ANY LINKED WEB SITE OR FEATURED IN ANY ADVERTISING, AND EVERCODER WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD PARTY.
 
 You understand that Evercoder uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services.
 
@@ -233,44 +258,50 @@ IN NO EVENT SHALL EVERCODER, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE L
 
 **Questions about the Terms of Service should be sent to [support@moqups.com](mailto:support@moqups.com)**
 
-* MOQUPS
-* [Tour](https://moqups.com/#tour "Tour")
-* [Features](https://moqups.com/#features "Features")
-* [Benefits](https://moqups.com/#benefits "Benefits")
-* [Testimonials](https://moqups.com/#testimonials "Testimonials")
-* [Pricing](https://moqups.com/pricing/ "Pricing")
-* [Wireframe Tool](https://moqups.com/wireframe-tool/ "Wireframe Tool")
-* [Flowchart Maker](https://moqups.com/flowchart-maker/ "Flowchart Maker")
-* [Graph Maker](https://moqups.com/graph-maker/ "Graph Maker")
-* [Online Whiteboard](https://moqups.com/online-whiteboard/ "Online Whiteboard")
-* [Moqups for JIRA & Confluence](https://marketplace.atlassian.com/vendors/1212376/moqups/ "Moqups for JIRA & Confluence")
+Back to top
 
-* TEMPLATES
-* [Wireframes & Mockups](https://moqups.com/templates/wireframes-mockups/ "Wireframes & Mockups")
-* [Diagrams & Flowcharts](https://moqups.com/templates/diagrams-flowcharts/ "Diagrams & Flowcharts")
-* [Mind Maps](https://moqups.com/templates/diagrams-flowcharts/mind-maps/ "Mind Maps")
-* [Process Flowcharts](https://moqups.com/templates/diagrams-flowcharts/process-flows/ "Process Flowcharts")
-* [Site Maps](https://moqups.com/templates/diagrams-flowcharts/site-maps/ "Site Maps")
-* [Charts & Graphs](https://moqups.com/templates/charts-graphs/ "Charts & Graphs")
-* [Business Strategy](https://moqups.com/templates/business-strategy/ "Business Strategy")
+Product
 
-* RESOURCES
-* [What's New](https://moqups.com/blog/release-notes/ "What's New")
-* [Blog](https://moqups.com/blog/ "Blog")
-* [Sitemap](https://moqups.com/sitemap/ "Sitemap")
-* [Moqups Chrome Extension](https://chrome.google.com/webstore/detail/moqups-extension/fkfehdnondfhgkechihgejkcnkhdbfna?hl=en "Moqups Chrome Extension")
-* [Moqups Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/moqups-extension/ "Moqups Firefox Add-on")
+* [Wireframe Tool](https://moqups.com/wireframe-tool/)
+* [Flowchart Maker](https://moqups.com/flowchart-maker/)
+* [Graph Maker](https://moqups.com/graph-maker/)
+* [Online Whiteboard](https://moqups.com/online-whiteboard/)
+* [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
 
-* SUPPORT
-* [Help Center](https://support.moqups.com/hc/en-us "Help Center")
-* [Contact Us](https://moqups.com/support/ "Contact Us")
-* [FAQ](https://moqups.com/faq/ "FAQ")
-* [](https://www.facebook.com/moqups "Moqups on Facebook")[](https://twitter.com/moqups "Moqups on Twitter")
+Templates
 
-![Moqups Logo Light](https://landing.moqups.com/img/logo-light@2x.png)
+* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+* [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
+* [Mind Map Templates](https://moqups.com/templates/mapping-and-diagramming/mind-maps/)
+* [Flowchart Templates](https://moqups.com/templates/mapping-and-diagramming/flowcharts/)
+* [Sitemap Templates](https://moqups.com/templates/mapping-and-diagramming/site-maps/)
+* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+* [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
 
-© 2024 - S.C Evercoder Software S.R.L.
+Resources
 
-[Terms of Service](https://moqups.com/terms/ "Terms of Service") [Privacy Policy](https://moqups.com/privacy/ "Privacy Policy")
+* [Blog](https://moqups.com/blog/)
+* [Pricing](https://moqups.com/pricing/)
+* [Get Started](https://moqups.com/blog/get-started-with-moqups/)
+* [What's New](https://moqups.com/blog/release-notes/)
+* [Moqups Browser Add-ons](https://moqups.com/blog/our-new-google-chrome-extension/)
+* [Moqups for JIRA & Confluence](https://marketplace.atlassian.com/vendors/1212376/moqups/)
 
-English [Deutsch](https://moqups.com/de/terms/) [Italiano](https://moqups.com/it/terms/) [Español](https://moqups.com/es/terms/)
+Support
+
+* [Help Center](https://moqups.com/hc/)
+* [Contact Support](https://moqups.com/support/)
+* [FAQ](https://moqups.com/faq/)
+
+Moqups logo
+
+2024 © Moqups by Evercoder Software SRL
+
+* [Terms of Service](https://moqups.com/terms/)
+* [Privacy Policy](https://moqups.com/privacy/)
+
+* [Twitter logo](https://twitter.com/moqups "Moqups on X / Twitter")
+* [LinkedIn logo](https://www.linkedin.com/company/moqups "Moqups on Linkedin")
+* [Facebook logo](https://www.facebook.com/moqups "Moqups on Facebook")
+* [Instagram logo](https://www.instagram.com/moqups/ "Moqups on Instagram")
+* [Pinterest logo](https://www.pinterest.com/moqups/ "Moqups on Pinterest")
