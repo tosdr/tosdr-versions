@@ -1,8 +1,8 @@
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20687%20170'%3E%3C/svg%3E)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20915%20180'%3E%3C/svg%3E)
 
-![](https://foxeducation.com/wp-content/uploads/2023/11/FoxEducation-Logo-with-GS-claim-Blue-Simple.svg)](https://foxeducation.com/de/)
+![](https://foxeducation.com/wp-content/uploads/2024/07/foxeducation-Logo-Hor-1c.svg)](https://foxeducation.com/de/)
 
 Toggle Navigation
 
@@ -15,9 +15,6 @@ Toggle Navigation
     * [FoxPay](https://foxeducation.com/de/foxpay/)
     * [FoxPay Webinar](https://foxeducation.com/de/foxpay-webinar/)
 * [Unsere Lernunterstützung](https://foxeducation.com/de/learning-support/)
-    * [Unterlagen für Lehrkräfte](https://foxeducation.com/de/teaching-resources/)
-    * [Unterlagen für Schüler:innen](https://foxeducation.com/de/learning-materials/)
-    * [Maßgeschneiderte Nachhilfe](https://foxeducation.com/de/tutoring/)
     * [Digitales FoxPortfolio in KidsFox](https://foxeducation.com/de/kidsfox/digital-portfolio/)
     * [Digitales FoxPortfolio in SchoolFox](https://foxeducation.com/de/schoolfox/digital-portfolio/)
 * [Über uns](https://foxeducation.com/de/foxeducation/jobs/)
@@ -210,9 +207,9 @@ Falls Sie glauben, dass die Verarbeitung Ihrer Daten gegen datenschutzrechtliche
 
 FoxEducation hat keinen Einfluss auf die Einhaltung der Datenschutzbestimmungen durch die Betreiber externer Webseiten und Dienste Dritter und kann für die Einhaltung der Datenschutzbestimmungen durch die Betreiber verlinkter Seiten keine Haftung übernehmen. FoxEducation macht sich den Inhalt externer, von FoxEducation oder von Nutzern verlinkter Webseiten oder Dateien unter keinen Umständen zu Eigen.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20509%2028'%3E%3C/svg%3E "Logo Banner 2023")
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201281%20100'%3E%3C/svg%3E "Logo bar")
 
-![](https://foxeducation.com/wp-content/uploads/2023/12/Logo-Banner-2023.svg "Logo Banner 2023")
+![](https://foxeducation.com/wp-content/uploads/2024/07/Logo-bar.svg "Logo bar")
 
 [![Google Play Link](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20121%2036'%3E%3C/svg%3E)
 
@@ -283,5 +280,7 @@ FoxEducation hat keinen Einfluss auf die Einhaltung der Datenschutzbestimmungen 
 [![Facebook Link](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2049%2048'%3E%3C/svg%3E)
 
 ![Facebook Link](https://foxeducation.com/wp-content/uploads/2023/12/Facebook-Icon.svg)](https://www.facebook.com/FoxEducation.DACH)
+
+                                                                                            
 
 [Go to Top](#)
