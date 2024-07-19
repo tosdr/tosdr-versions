@@ -93,7 +93,7 @@ Tools & Services
 * [PrepWise](https://www.cna.com/web/guest/cna/risk-control/prepwise)
 * [Allied Vendors](https://www.cna.com/web/guest/cna/risk-control/allied-vendors)
 * [Lawyers Allied Vendor Program](https://www.cna.com/web/guest/cna/risk-control/lawyers-allied-vendor-program)
-* [Beyond HR](http://www.cnabeyondhr.com/)
+* [Beyond HR](https://cnabeyondhr.portal.zywave.com/Landing)
 * [e-Talks](https://www.cna.com/web/guest/cna/microsite/risk-control-e-talks/welcome)
 
 Education
@@ -219,7 +219,7 @@ Tools & Services
 * [PrepWise](https://www.cna.com/web/guest/cna/risk-control/prepwise)
 * [Allied Vendors](https://www.cna.com/web/guest/cna/risk-control/allied-vendors)
 * [Lawyers Allied Vendor Program](https://www.cna.com/web/guest/cna/risk-control/lawyers-allied-vendor-program)
-* [Beyond HR](http://www.cnabeyondhr.com/)
+* [Beyond HR](https://cnabeyondhr.portal.zywave.com/Landing)
 * [e-Talks](https://www.cna.com/web/guest/cna/microsite/risk-control-e-talks/welcome)
 
 Education
@@ -281,7 +281,7 @@ Need more information about managing your business risks?
 
 * * *
 
-Revised: 12/21/2023
+Revised: 6/28/2024
 
 CNA and its affiliates (“CNA”, “we”, “our,” or “us”) value your privacy. CNA’s Privacy Policy (“Policy”) applies to information CNA may have collected from or about you or you have provided to others on our behalf and referred to as “CNA Services” in this Policy.  This policy explains how and why CNA collects, uses, and shares your Personal Information for our business purposes, consistent with applicable laws.  Certain of our products and services are subject to additional privacy requirements set forth in other supplemental policies.  If there is a conflict between this Policy and a supplemental policy, the supplemental policy will apply. This Policy applies to CNA operations in the United States, with certain state-specific privacy requirements applicable to “consumers” as that term is defined under the relevant state law.  If you are looking for additional information related to CNA’s affiliates located outside of the United States, please refer to our jurisdiction section located on CNA Privacy Center’s welcome page. 
 
@@ -453,7 +453,7 @@ Consumers who reside in Colorado have certain additional rights regarding their 
 * The right to know what information of yours is collected and how it is processed;
 * The right to know who CNA shares your information with;
 * The right to access your Personal Information maintained by CNA;
-* To right to correct inaccuracies in your Personal Information;
+* The right to correct inaccuracies in your Personal Information;
 * The right to request deletion of your Personal Information; and
 * The right to opt-out of the sale of your Personal Information, the sharing of your Personal Information for targeted advertising, or the use of your Personal Information for profiling.
 
@@ -464,10 +464,31 @@ Consumers who reside in Connecticut have certain additional rights regarding the
 * The right to know what information of yours is collected and how it is processed;
 * The right to know who CNA shares your information with;
 * The right to access your Personal Information maintained by CNA;
-* To right to correct inaccuracies in your Personal Information;
+* The right to correct inaccuracies in your Personal Information;
 * The right to request deletion of your Personal Information;
 * The right to opt-out of the sale of your Personal Information, the sharing of your Personal Information for targeted advertising, or the use of your Personal Information for profiling; and
 * If you provide us with Personal Information that we use in automated decision-making, you have the right to obtain a copy of that Personal Information in a convenient and shareable format.
+
+Notice to Oregon Residents
+
+Consumers who reside in Oregon have certain additional rights regarding their Personal Information. These rights relate to the use and collection of Personal Information by CNA, and may include one or more of the following rights:
+
+* The right to know what information of yours is collected and how it is processed;
+* The right to know who CNA shares your information with;
+* The right to access your Personal Information maintained by CNA;
+* The right to correct inaccuracies in your Personal Information;
+* The right to request deletion of your Personal Information; and
+* The right to opt-out of the sale of your Personal Information, the sharing of your Personal Information for targeted advertising, or the use of your Personal Information for profiling.
+
+Notice to Texas Residents
+
+Consumers who reside in Texas have certain additional rights regarding their Personal Information. These rights relate to the use and collection of Personal Information by CNA, and may include one or more of the following rights:
+
+* The right to know what information of yours is collected and how it is processed;
+* The right to access your Personal Information maintained by CNA;
+* The right to correct inaccuracies in your Personal Information;
+* The right to request deletion of your Personal Information; and
+* The right to opt-out of the sale of your Personal Information, the sharing of your Personal Information for targeted advertising, or the use of your Personal Information for profiling.
 
 Notice to Utah Residents
 
@@ -476,7 +497,7 @@ Consumers who reside in Virginia have certain additional rights regarding their 
 * The right to know what information of yours is collected and how it is processed; 
 * The right to know who CNA shares your information with; 
 * The right to access your Personal Information maintained by CNA; 
-* To right to correct inaccuracies in your Personal Information; 
+* The right to correct inaccuracies in your Personal Information; 
 * The right to request deletion of your Personal Information; 
 * The right to opt-out of the sale of your Personal Information, the sharing of your Personal Information for targeted advertising, or the use of your Personal Information for profiling; and
 * If you provide us with Personal Information that we use in automated decision-making, you have the right to obtain a copy of that Personal Information in a convenient and shareable format. 
@@ -488,7 +509,7 @@ Consumers who reside in Virginia have certain additional rights regarding their 
 * The right to know what information of yours is processed and how it is processed;
 * The right to know who CNA shares your information with;
 * The right to access your Personal Information maintained by CNA;
-* To right to correct inaccuracies in your Personal Information;
+* The right to correct inaccuracies in your Personal Information;
 * The right to request deletion of your Personal Information;
 * The right to opt-out of the sale of your Personal Information, the sharing of your Personal Information for targeted advertising, or the use of your Personal Information for profiling; and 
 * If you provide us with Personal Information that we use in automated decision-making, you have the right to obtain a copy of that Personal Information in a convenient and shareable format.
