@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-Build vs Buy Webinar
+Okta Certification Exams are $50 until August 15
 
-Build vs Buy Webinar
+Okta Certification Exams are $50 until August 15
 
-[Register now](https://pages.okta.com/2024-06-WBN-BuildvsBuy_LP.html)
+[Learn more](https://regionalevents.okta.com/oktacertification24)
 
-[Register now](https://pages.okta.com/2024-06-WBN-BuildvsBuy_LP.html)
+[Learn more](https://regionalevents.okta.com/oktacertification24)
 
-[Build vs Buy Webinar](https://pages.okta.com/2024-06-WBN-BuildvsBuy_LP.html)
+[Okta Certification Exams are $50 until August 15](https://regionalevents.okta.com/oktacertification24)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
@@ -228,6 +228,8 @@ Footer Navtane22
 
 Footer utility Navtane22
 
+* [Legal](https://www.okta.com/agreements/)
+    
 * [Privacy Policy](https://www.okta.com/privacy-policy/)
     
 * [Site Terms](https://www.okta.com/terms-of-service/)
@@ -245,6 +247,8 @@ Copyright © 2024 Okta. All rights reserved.
 
 Footer utility Navtane22
 
+* [Legal](https://www.okta.com/agreements/)
+    
 * [Privacy Policy](https://www.okta.com/privacy-policy/)
     
 * [Site Terms](https://www.okta.com/terms-of-service/)
