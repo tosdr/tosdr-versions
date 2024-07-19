@@ -88,7 +88,6 @@ Get Started
 * [Get a FREE Quote](#quote-form)
 * [How it Works](https://www.endurancewarranty.com/coverage-plans/#how-it-works)
 * [Mechanical Breakdown Insurance California](https://www.endurancewarranty.com/mechanical-breakdown-insurance-ca/)
-* [Home Warranty](https://arwhomeoffers.com/?a=10&c=18&m=26&s1=)
 
 Resources
 ---------
@@ -116,7 +115,7 @@ Get Help
 * [Accessibility](https://www.endurancewarranty.com/terms-and-conditions/#accessibility)
 * [Contact Us](https://www.endurancewarranty.com/contact/)
 
-Copyright 2023 Endurance Warranty Services, LLC. All Rights Reserved. Disclosure: A Vehicle Service Contract (VSC) is often referred to as an “auto warranty” or an “extended car warranty,” but it is not a warranty. A VSC does, however, provide repair coverage for your vehicle after the manufacturer’s car warranty expires. A VSC is a contract between you and a VSC provider or administrator that states what is a covered repair and what is not. Not all vehicles qualify for coverage. In California Endurance sells Mechanical Breakdown Insurance (MBI) underwritten by Security National Insurance Company and administered through Endurance Warranty Insurance Services, CA License #6009544. MBI is not a manufacturer's warranty; it provides repair coverage after your manufacturer's warranty expires.
+Copyright 2024 Endurance Warranty Services, LLC. All Rights Reserved. Disclosure: A Vehicle Service Contract (VSC) is often referred to as an “auto warranty” or an “extended car warranty,” but it is not a warranty. A VSC does, however, provide repair coverage for your vehicle after the manufacturer’s car warranty expires. A VSC is a contract between you and a VSC provider or administrator that states what is a covered repair and what is not. Not all vehicles qualify for coverage. In California Endurance sells Mechanical Breakdown Insurance (MBI) underwritten by Security National Insurance Company and administered through Endurance Warranty Insurance Services, CA License #6009544. MBI is not a manufacturer's warranty; it provides repair coverage after your manufacturer's warranty expires.
 
 * [](https://www.facebook.com/EnduranceWarranty)
 * [](https://www.linkedin.com/company/endurance-vehicle-protection/)
@@ -279,17 +278,6 @@ If you are human, leave this field blank.
 Send Message
 
 Δ
-
-Get this deal! Call now.
-------------------------
-
-Speak with a vehicle protection plan specialist and get **$300 off** any new contract instantly.
-
-[Call 866-678-4172](tel:866-678-4172)
-
-No thanks, I'll continue unprotected
-
-![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
 
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
