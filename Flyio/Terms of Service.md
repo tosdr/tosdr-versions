@@ -16,20 +16,31 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Launch a Demo App](https://fly.io/docs/getting-started/launch-demo)
 * [Choose a language or framework](https://fly.io/docs/getting-started/get-started-by-framework/)
 * [Fly.io Essentials](https://fly.io/docs/getting-started/essentials/)
-* [Troubleshooting Deployments](https://fly.io/docs/getting-started/troubleshooting/)
+* [Troubleshoot Deployments](https://fly.io/docs/getting-started/troubleshooting/)
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
 * [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
+* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
+* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
+* [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
 * [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
 * [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
+* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
 * [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
 * [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
 * [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Run an ssh server](https://fly.io/docs/blueprints/opensshd/)
+* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
 * [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
+* [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
 * [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+
+[Apps on Fly.io](https://fly.io/docs/apps/) Toggle Apps on Fly.io section
+
+* [Fly Apps overview](https://fly.io/docs/apps/overview/)
+* [Fly Launch](https://fly.io/docs/launch/)
+* [Secrets](https://fly.io/docs/apps/secrets/)
+* [Production Apps](https://fly.io/docs/apps/going-to-production/)
 
 [Languages & Frameworks](https://fly.io/docs/languages-and-frameworks/) Toggle Languages & Frameworks section
 
@@ -54,45 +65,11 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Run User Code on Fly Machines](https://fly.io/docs/machines/guides-examples/functions-with-machines/)
 * [The Machine Runtime Environment](https://fly.io/docs/machines/runtime-environment/)
 
-[Fly Volumes](https://fly.io/docs/volumes/) Toggle Fly Volumes section
-
-* [Fly Volumes overview](https://fly.io/docs/volumes/overview/)
-* [Create and manage volumes](https://fly.io/docs/volumes/volume-manage/)
-* [Manage volume snapshots](https://fly.io/docs/volumes/snapshots/)
-* [Volume states](https://fly.io/docs/volumes/volume-states/)
-
-[Fly Launch](https://fly.io/docs/apps/) Toggle Fly Launch section
-
-* [Launch a New App](https://fly.io/docs/apps/launch/)
-* [Deploy a Fly App](https://fly.io/docs/apps/deploy/)
-* [Get App Info](https://fly.io/docs/apps/info/)
-* [Scale Machine CPU and RAM](https://fly.io/docs/apps/scale-machine/)
-* [Scale the Number of Machines](https://fly.io/docs/apps/scale-count/)
-* [Auto Stop and Start Machines](https://fly.io/docs/apps/autostart-stop/)
-* [Autoscale Based on Metrics](https://fly.io/docs/apps/autoscale-by-metric/)
-* [Add Volume Storage](https://fly.io/docs/apps/volume-storage/)
-* [Restart Apps and Machines](https://fly.io/docs/apps/restart/)
-* [Run Multiple Processes in an App](https://fly.io/docs/apps/processes/)
-* [Deploy with GitHub Actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/)
-* [Deploy Review Apps with GitHub Actions](https://fly.io/docs/app-guides/review-apps-guide/)
-* [Delete an App](https://fly.io/docs/apps/delete/)
-* [Troubleshoot When a Host is Down](https://fly.io/docs/apps/trouble-host-unavailable/)
-* [Fly Launch Config (fly.toml)](https://fly.io/docs/reference/configuration/)
-
 [Fly GPUs](https://fly.io/docs/gpus/) Toggle Fly GPUs section
 
 * [GPU Quickstart](https://fly.io/docs/gpus/gpu-quickstart/)
 * [Getting Started with GPU Machines](https://fly.io/docs/gpus/getting-started-gpus/)
 * [Python GPU Dev Machine](https://fly.io/docs/gpus/python-gpu-example/)
-
-[Fly Kubernetes](https://fly.io/docs/kubernetes/) Toggle Fly Kubernetes section
-
-* [Kubernetes Quickstart](https://fly.io/docs/kubernetes/fks-quickstart/)
-* [Create an FKS cluster](https://fly.io/docs/kubernetes/clusters/)
-* [Connect to an FKS cluster](https://fly.io/docs/kubernetes/connect-clusters/)
-* [Configure FKS Services](https://fly.io/docs/kubernetes/services/)
-* [Use volumes with FKS](https://fly.io/docs/kubernetes/using-volumes/)
-* [Use GPUs with FKS](https://fly.io/docs/kubernetes/using-gpus/)
 
 [Databases & Storage](https://fly.io/docs/database-storage-guides/) Toggle Databases & Storage section
 
@@ -104,6 +81,22 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Upstash Kafka](https://fly.io/docs/reference/kafka/)
 * [Upstash Vector](https://fly.io/docs/reference/vector/)
 * [More...](https://fly.io/docs/database-storage-guides/#other-storage-apps)
+
+[Fly Volumes](https://fly.io/docs/volumes/) Toggle Fly Volumes section
+
+* [Fly Volumes overview](https://fly.io/docs/volumes/overview/)
+* [Create and manage volumes](https://fly.io/docs/volumes/volume-manage/)
+* [Manage volume snapshots](https://fly.io/docs/volumes/snapshots/)
+* [Volume states](https://fly.io/docs/volumes/volume-states/)
+
+[Fly Kubernetes](https://fly.io/docs/kubernetes/) Toggle Fly Kubernetes section
+
+* [Kubernetes Quickstart](https://fly.io/docs/kubernetes/fks-quickstart/)
+* [Create an FKS cluster](https://fly.io/docs/kubernetes/clusters/)
+* [Connect to an FKS cluster](https://fly.io/docs/kubernetes/connect-clusters/)
+* [Configure FKS Services](https://fly.io/docs/kubernetes/services/)
+* [Use volumes with FKS](https://fly.io/docs/kubernetes/using-volumes/)
+* [Use GPUs with FKS](https://fly.io/docs/kubernetes/using-gpus/)
 
 [Networking](https://fly.io/docs/networking/) Toggle Networking section
 
@@ -117,37 +110,38 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Run UDP Services](https://fly.io/docs/networking/udp-and-tcp/)
 * [TLS Support](https://fly.io/docs/networking/tls/)
 
-[Metrics & Logs](https://fly.io/docs/metrics-and-logs/) Toggle Metrics & Logs section
+[Monitoring](https://fly.io/docs/monitoring/) Toggle Monitoring section
 
-* [Metrics](https://fly.io/docs/metrics-and-logs/metrics/)
-* [Logging overview](https://fly.io/docs/metrics-and-logs/logs/)
-* [Live tail logs](https://fly.io/docs/metrics-and-logs/live-tail-logs/)
-* [Search logs](https://fly.io/docs/metrics-and-logs/search-logs/)
-* [Export logs](https://fly.io/docs/metrics-and-logs/exporting-logs/)
+* [Metrics](https://fly.io/docs/monitoring/metrics/)
+* [Sentry Error Tracking](https://fly.io/docs/reference/sentry/)
+* [Logging overview](https://fly.io/docs/monitoring/logging-overview/)
+* [Live tail logs](https://fly.io/docs/monitoring/live-tail-logs/)
+* [Search logs](https://fly.io/docs/monitoring/search-logs/)
+* [Export logs](https://fly.io/docs/monitoring/exporting-logs/)
+* [Error Codes](https://fly.io/docs/monitoring/error-codes/)
+
+[Security](https://fly.io/docs/security/) Toggle Security section
+
+* [SSO for organizations](https://fly.io/docs/security/sso/)
+* [TLS termination](https://fly.io/docs/security/tls-termination/)
+* [Deploy Tokens](https://fly.io/docs/security/deploy-tokens/)
+* [Security practices and compliance](https://fly.io/docs/security/security-at-fly-io/)
+* [App Security by Arcjet](https://fly.io/docs/reference/arcjet/)
 
 [Reference](https://fly.io/docs/reference/) Toggle Reference section
 
 * [flyctl](https://fly.io/docs/flyctl/)
-* [Fly Launch Config (fly.toml)](https://fly.io/docs/reference/configuration/)
-* [Apps](https://fly.io/docs/reference/apps/)
+* [App Config Reference (fly.toml)](https://fly.io/docs/reference/configuration/)
 * [Architecture](https://fly.io/docs/reference/architecture/)
 * [Autoscaling](https://fly.io/docs/reference/autoscaling/)
-* [Availability and Resiliency](https://fly.io/docs/reference/app-availability/)
-* [Fine-tune and Benchmark](https://fly.io/docs/reference/fine-tune-apps/)
 * [Builders](https://fly.io/docs/reference/builders/)
-* [Concurrency Settings](https://fly.io/docs/reference/concurrency/)
-* [Deploy Tokens](https://fly.io/docs/reference/deploy-tokens/)
-* [Error Codes](https://fly.io/docs/reference/error-codes/)
-* [Sentry Error Tracking](https://fly.io/docs/reference/sentry/)
 * [Fly Launch](https://fly.io/docs/reference/fly-launch/)
 * [Load Balancing](https://fly.io/docs/reference/load-balancing/)
 * [Machine migration](https://fly.io/docs/reference/machine-migration/)
-* [Monorepo Apps](https://fly.io/docs/reference/monorepo/)
 * [Multiple Processes in Apps](https://fly.io/docs/app-guides/multiple-processes/)
 * [OpenID Connect](https://fly.io/docs/reference/openid-connect/)
+* [Fly Proxy](https://fly.io/docs/reference/fly-proxy/)
 * [Regions](https://fly.io/docs/reference/regions/)
-* [Build Secrets](https://fly.io/docs/reference/build-secrets/)
-* [Runtime Secrets](https://fly.io/docs/reference/secrets/)
 
 [About](https://fly.io/docs/about/) Toggle About section
 
@@ -156,7 +150,6 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Engineering Jobs](https://fly.io/docs/hiring/)
 * [Healthcare on Fly.io](https://fly.io/docs/about/healthcare/)
 * [Support](https://fly.io/docs/about/support/)
-* [Security](https://fly.io/docs/about/security/)
 * [Extensions Program](https://fly.io/docs/about/extensions/)
 * [Extensions API](https://fly.io/docs/reference/extensions_api/)
 * [Open Source](https://fly.io/docs/about/open-source/)
