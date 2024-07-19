@@ -495,39 +495,39 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Outdoor Event Sale](https://www.houzz.com/shop-houzz/outdoor-event)
+[Bed & Bath Sale Sale](https://www.houzz.com/shop-houzz/bed-and-bath-sale)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Outdoor Event](https://www.houzz.com/shop-houzz/outdoor-event)
+[Bed & Bath Sale](https://www.houzz.com/shop-houzz/bed-and-bath-sale)
 
-[![Outdoor Rugs](https://st.hzcdn.com/fimgs/7ba170c706720c6d_0317-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 75% OFF
-
-Outdoor Rugs](https://www.houzz.com/ideabooks/92270652) 
-
-[![Garden Essentials](https://st.hzcdn.com/fimgs/ec01a8b006720e7c_0844-w150-h150-b0-p0--home-design.jpg)
-
-BESTSELLERS
-
-Garden Essentials](https://www.houzz.com/ideabooks/107432326) 
-
-[![Ultimate Outdoor Sale](https://st.hzcdn.com/fimgs/d47159bc06720c75_0326-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 70% OFF
-
-Ultimate Outdoor Sale](https://www.houzz.com/ideabooks/111276527) 
-
-[![Alfresco Dining Sale](https://st.hzcdn.com/fimgs/b3b1f2eb06720c73_0324-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/a3518cdc069887f3_2308-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 65% OFF
 
-Alfresco Dining Sale](https://www.houzz.com/ideabooks/119609943) 
+The Ultimate Vanity Sale](https://www.houzz.com/ideabooks/108801176) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/d831aa2e0673d64d_7537-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/outdoor-event) 
+[![The Ultimate Bedroom Sale](https://st.hzcdn.com/fimgs/ba012634069887c5_2262-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 75% OFF
+
+The Ultimate Bedroom Sale](https://www.houzz.com/ideabooks/120778100) 
+
+[![Bestselling Bedroom Storage](https://st.hzcdn.com/fimgs/fee19f4c069887f2_2306-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 75% OFF
+
+Bestselling Bedroom Storage](https://www.houzz.com/ideabooks/171361306) 
+
+[![Bathroom Renovation Must-Haves](https://st.hzcdn.com/fimgs/54c11614069887f0_2305-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 70% OFF
+
+Bathroom Renovation Must-Haves](https://www.houzz.com/ideabooks/172837276) 
+
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/4891dbdf06990bd5_6132-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/shop-houzz/bed-and-bath-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -537,21 +537,17 @@ Your shopping cart is empty.
 
 [Join as a Pro](https://www.houzz.com/pro?source=header)
 
-[Interior Design Software](https://www.houzz.com/for-pros/software-interior-designer)[Project Management](https://www.houzz.com/for-pros/software-interior-designer-project-management)[Custom Website](https://www.houzz.com/for-pros/software-interior-designer-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-interior-designer-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-interior-designer-billing-invoicing)[Proposals](https://www.houzz.com/for-pros/feature-proposal)
+[Business Management Software](https://www.houzz.com/pro)[3D Floor Plan Software](https://www.houzz.com/for-pros/feature-3d-floor-plan)[Takeoff Software](https://www.houzz.com/for-pros/takeoff)[Estimate Software](https://www.houzz.com/for-pros/feature-estimates)[Mood Board Creator](https://www.houzz.com/for-pros/feature-mood-board)[Scheduling Software](https://www.houzz.com/for-pros/schedule)
+
+[Remodeler Software](https://www.houzz.com/for-pros/software-remodeler)[Project Management](https://www.houzz.com/for-pros/software-remodeler-project-management)[Custom Website](https://www.houzz.com/for-pros/feature-business-website)[Lead Generation](https://www.houzz.com/for-pros/software-remodeler-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-remodeler-billing-invoicing)[Estimating](https://www.houzz.com/for-pros/software-remodeler-estimating)
+
+[Construction Software](https://www.houzz.com/for-pros/software-construction)[Project Management](https://www.houzz.com/for-pros/software-construction-project-management)[Custom Website](https://www.houzz.com/for-pros/software-construction-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-construction-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-construction-billing-invoicing)[Estimating](https://www.houzz.com/for-pros/software-construction-estimating)
 
 [Landscape Contractor Software](https://www.houzz.com/for-pros/software-landscape-contractor)[Project Management](https://www.houzz.com/for-pros/software-landscape-contractor-project-management)[Custom Website](https://www.houzz.com/for-pros/software-landscape-contractor-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-landscape-contractor-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-landscape-contractor-billing-invoicing)[Estimating](https://www.houzz.com/for-pros/software-landscape-contractor-estimating)
 
-[General Contractor Software](https://www.houzz.com/for-pros/software-general-contractor)[Project Management](https://www.houzz.com/for-pros/software-general-contractor-project-management)[Custom Website](https://www.houzz.com/for-pros/software-construction-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-general-contractor-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-construction-billing-invoicing)[Estimating](https://www.houzz.com/for-pros/software-construction-estimating)
-
-[Remodeler Software](https://www.houzz.com/for-pros/software-remodeler)[Project Management](https://www.houzz.com/for-pros/software-remodeler-project-management)[Custom Website](https://www.houzz.com/for-pros/feature-business-website)[Lead Generation](https://www.houzz.com/for-pros/software-remodeler-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/feature-billing-invoices)[Estimating](https://www.houzz.com/for-pros/software-remodeler-estimating)
-
-[Builder Software](https://www.houzz.com/for-pros/software-builder)[Project Management](https://www.houzz.com/for-pros/software-construction-project-management)[Custom Website](https://www.houzz.com/for-pros/software-builder-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-builder-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-construction-billing-invoicing)[Estimating](https://www.houzz.com/for-pros/software-construction-estimating)
-
-[Roofer Software](https://www.houzz.com/for-pros/software-roofer)[Project Management](https://www.houzz.com/for-pros/software-roofer-project-management)[Custom Website](https://www.houzz.com/for-pros/software-roofer-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-roofer-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-roofer-billing-invoicing)[Estimating](https://www.houzz.com/for-pros/software-roofer-estimating)
+[Interior Design Software](https://www.houzz.com/for-pros/software-interior-designer)[Project Management](https://www.houzz.com/for-pros/software-interior-designer-project-management)[Custom Website](https://www.houzz.com/for-pros/software-interior-designer-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-interior-designer-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-interior-designer-billing-invoicing)[Proposals](https://www.houzz.com/for-pros/feature-proposal)
 
 [Architect Software](https://www.houzz.com/for-pros/software-architect)[Project Management](https://www.houzz.com/for-pros/software-architect-project-management)[Custom Website](https://www.houzz.com/for-pros/software-architect-custom-website)[Lead Generation](https://www.houzz.com/for-pros/software-architect-leads)[Invoicing & Billing](https://www.houzz.com/for-pros/software-architect-billing-invoicing)[CRM](https://www.houzz.com/for-pros/software-architect-crm)
-
-[Takeoff Software](https://www.houzz.com/for-pros/takeoffs-construction)[Lumber & Framing Takeoffs](https://www.houzz.com/for-pros/takeoffs-lumber-framing)[Steel Takeoffs](https://www.houzz.com/for-pros/takeoffs-steel)[Concrete Takeoffs](https://www.houzz.com/for-pros/takeoffs-concrete)[Drywall Takeoffs](https://www.houzz.com/for-pros/takeoffs-drywall)[Insulation Takeoffs](https://www.houzz.com/for-pros/takeoffs-insulation)
 
 Houzz Pro: One simple solution for contractors and design pros
 
@@ -559,7 +555,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28648473/pic/houzz_logo.svg?v=28648473)
+![Houzz Logo Print](//www.houzz.com/res/28688899/pic/houzz_logo.svg?v=28688899)
 
 **COOKIE POLICY**
 =================
