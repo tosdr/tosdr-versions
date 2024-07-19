@@ -1,10 +1,3 @@
-Be the spark of hope for survivors.
------------------------------------
-
-Your support of The Hotline ensures connections to critical resources are available for victims and survivors of domestic violence every single day. Give hope today!
-
-[Donate Now](https://www.thehotline.org/2024sp-b/)
-
 [![The Hotline](https://www.thehotline.org/wp-content/themes/hotline-main/assets/images/logo-ndvh.svg "The Hotline")](https://www.thehotline.org/)
 
 * [Skip to navigation \[n\]](#nav "Skip to navigation")
@@ -54,7 +47,6 @@ Your support of The Hotline ensures connections to critical resources are availa
     * [Domestic Violence Awareness Month](https://www.thehotline.org/stakeholders/domestic-violence-awareness-month/)
     * [Domestic Violence Statistics](https://www.thehotline.org/stakeholders/domestic-violence-statistics/)
     * [Download and Request Materials](https://www.thehotline.org/stakeholders/download-and-request-materials/)
-    * [Faith Based Communities](https://www.thehotline.org/faith-based-communities/)
     * [Impact and State Reports](https://www.thehotline.org/stakeholders/impact-and-state-reports/)
     * [Learn About Policies and Legislation](https://www.thehotline.org/stakeholders/policies/)
 * [Get Involved](https://www.thehotline.org/get-involved/)
