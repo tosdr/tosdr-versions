@@ -2,14 +2,24 @@
 
 Menu
 
-* [Git](https://git.harre.nz/)
+* [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/)
+    * [Playgrounds](https://tane.harre.nz/tags/playgrounds/)
+    * Village
+        * [Avon](https://tane.harre.nz/tags/avon/)
+        * [Barbizon](https://tane.harre.nz/tags/barbizon/)
+        * [Bourron Marlotte](https://tane.harre.nz/tags/bourron-marlotte/)
+        * [Fontainebleau](https://tane.harre.nz/tags/fontainebleau/)
+        * [Grez sur Loing](https://tane.harre.nz/tags/grez-sur-loing/)
+        * [Saint Pierre lès Nemours](https://tane.harre.nz/tags/saint-pierre-les-nemours/)
+        * [Thomery](https://tane.harre.nz/tags/thomery/)
+* [Git](https://git.bluefountain.eu/)
 * Travel
     * [Appenzell](https://tane.harre.nz/tags/appenzell/)
     * [Pyrenees](https://tane.harre.nz/tags/pyreneese/)
     * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/)
     * [Te Araroa](https://tane.harre.nz/tags/te-araroa/)
 
-Last Updated: May 14, 2024
+Last Updated: July 18, 2024
 
 Privacy Policy
 ==============
@@ -99,23 +109,23 @@ I am a New Zealander, living in France, who is interested in guitar, hiking, ope
 
 ### Related posts
 
-[![](https://tane.harre.nz/media/posts/684/responsive/freedom_of_thought-1-xs.jpg)](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
+[![](https://tane.harre.nz/media/posts/676/responsive/Privacy-Security-Freedom-1080x675-xs.png)](https://tane.harre.nz/privacy-is-a-limit-on-power/)
 
-#### [Data privacy allows for freedom of thought and speech](https://tane.harre.nz/data-privacy-allows-for-freedom-of-thought-and-speech/)
+#### [Privacy is a limit on power](https://tane.harre.nz/privacy-is-a-limit-on-power/)
 
-May 7, 2018
+April 16, 2018
 
-[![](https://tane.harre.nz/media/posts/686/responsive/The_Privacy_Shop_banner-1080x496-xs.jpg)](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
+[![](https://tane.harre.nz/media/posts/690/responsive/Eu-European-Union-Data-Regulation-Gdpr-3222692-xs.jpg)](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-#### [What is the cost of privacy online?](https://tane.harre.nz/what-is-the-cost-of-privacy-online/)
+#### [GDPR Privacy Policy Overview for New Zealand](https://tane.harre.nz/gdpr-privacy-policy-overview-for-new-zealand/)
 
-May 12, 2018
+May 24, 2018
 
-[![](https://tane.harre.nz/media/posts/687/responsive/Fake_News-xs.jpeg)](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+[![](https://tane.harre.nz/media/posts/688/responsive/Parliament_House_Wellington_New_Zealand_50-xs.jpg)](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
 
-#### [Does Trade Me deserve the Privacy Trust Mark?](https://tane.harre.nz/does-trade-me-deserve-the-privacy-trust-mark/)
+#### [Make a submission on the Privacy Bill](https://tane.harre.nz/make-a-submission-on-the-privacy-bill/)
 
-May 13, 2018
+May 16, 2016
 
 Comments
 --------
@@ -143,6 +153,9 @@ Comments
 
 * [Apache](https://tane.harre.nz/tags/apache/) (1)
 * [Appenzell](https://tane.harre.nz/tags/appenzell/) (6)
+* [Avon](https://tane.harre.nz/tags/avon/) (1)
+* [Barbizon](https://tane.harre.nz/tags/barbizon/) (2)
+* [Bourron Marlotte](https://tane.harre.nz/tags/bourron-marlotte/) (2)
 * [Coromandel](https://tane.harre.nz/tags/coromandel/) (6)
 * [COVID-19](https://tane.harre.nz/tags/covid-19/) (10)
 * [Debian](https://tane.harre.nz/tags/debian-11/) (5)
@@ -150,26 +163,32 @@ Comments
 * [Email](https://tane.harre.nz/tags/email/) (2)
 * [Facebook](https://tane.harre.nz/tags/facebook/) (1)
 * [File Sharing](https://tane.harre.nz/tags/file-sharing/) (3)
-* [Food](https://tane.harre.nz/tags/food/) (1)
+* [Fontainebleau](https://tane.harre.nz/tags/fontainebleau/) (7)
+* [Fontainebleau Info](https://tane.harre.nz/tags/fontainebleau-info/) (20)
+* [Food](https://tane.harre.nz/tags/food/) (2)
 * [France](https://tane.harre.nz/tags/france/) (40)
 * [Great Barrier Island](https://tane.harre.nz/tags/great-barrier-island/) (12)
+* [Grez Sur Loing](https://tane.harre.nz/tags/grez-sur-loing/) (2)
 * [Internet Party](https://tane.harre.nz/tags/internet-party/) (39)
 * [KDE](https://tane.harre.nz/tags/kde/) (1)
 * [Linux](https://tane.harre.nz/tags/linux/) (15)
-* [Linux Mint](https://tane.harre.nz/tags/linux-mint/) (3)
+* [Linux Mint](https://tane.harre.nz/tags/linux-mint/) (4)
 * [New Zealand](https://tane.harre.nz/tags/new-zealand/) (33)
 * [Nextcloud](https://tane.harre.nz/tags/nextcloud/) (1)
 * [OMV6](https://tane.harre.nz/tags/omv6/) (1)
+* [Playgrounds](https://tane.harre.nz/tags/playgrounds/) (5)
 * [Politics](https://tane.harre.nz/tags/politics/) (40)
 * [Printers](https://tane.harre.nz/tags/printers/) (1)
 * [Privacy](https://tane.harre.nz/tags/privacy/) (19)
 * [Pyrenees](https://tane.harre.nz/tags/pyreneese/) (16)
 * [Review](https://tane.harre.nz/tags/review/) (4)
 * [Robert Louis Stevenson Trail](https://tane.harre.nz/tags/robert-louis-stevenson-trail/) (13)
+* [Saint Pierre lès Nemours](https://tane.harre.nz/tags/saint-pierre-les-nemours/) (1)
 * [Switzerland](https://tane.harre.nz/tags/switzerland/) (6)
 * [Te Araroa](https://tane.harre.nz/tags/te-araroa/) (108)
 * [Te Henga](https://tane.harre.nz/tags/te-henga/) (1)
-* [Thoughts](https://tane.harre.nz/tags/thoughts/) (29)
+* [Thomery](https://tane.harre.nz/tags/thomery/) (1)
+* [Thoughts](https://tane.harre.nz/tags/thoughts/) (30)
 * [Travel](https://tane.harre.nz/tags/travel/) (2)
 * [Wallpapers](https://tane.harre.nz/tags/wallpapers/) (1)
 * [Yunohost](https://tane.harre.nz/tags/yunohost/) (2)
