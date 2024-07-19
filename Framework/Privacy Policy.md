@@ -198,6 +198,6 @@ Contact information
 
 Latest update: June 20, 2024
 
-[iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/privacy-and-cookie-policy-generator). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
 [Show the complete Privacy Policy](https://www.iubenda.com/privacy-policy/28927739/legal)
