@@ -8,15 +8,17 @@
     
 * Learn More
     
-    [How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/) [NIS-2-Guideline](https://cryptomator.org/nis-2-guideline/) [Protecting cloud data against AI](https://cryptomator.org/protecting-data-against-ai/)
+    [How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/) [NIS-2-Guideline](https://cryptomator.org/nis-2-guideline/) [Protecting Cloud Data Against AI](https://cryptomator.org/protecting-data-against-ai/)
     
+
+* [](https://github.com/cryptomator)
+
+* [Get Started](https://cryptomator.org/#get-started)
 
 * EN
     
     Deutsch
     
-* [](https://mastodon.online/@cryptomator)
-* [](https://github.com/cryptomator)
 
 [Downloads](https://cryptomator.org/downloads/) [Cryptomator Hub](https://cryptomator.org/hub/)
 
@@ -30,7 +32,7 @@ Support Us
 
 Learn More
 
-[How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/) [NIS-2-Guideline](https://cryptomator.org/nis-2-guideline/) [Protecting cloud data against AI](https://cryptomator.org/protecting-data-against-ai/)
+[How Open Source Strengthens Security](https://cryptomator.org/open-source/) [Encrypt Your Dropbox](https://cryptomator.org/encrypt-dropbox/) [Alternative to Boxcryptor](https://cryptomator.org/boxcryptor-alternative/) [Our Cooperation Partners](https://cryptomator.org/coop/) [Customizations for Your Enterprise](https://cryptomator.org/enterprise/) [GDPR Compliancy](https://cryptomator.org/gdpr/) [NIS-2-Guideline](https://cryptomator.org/nis-2-guideline/) [Protecting Cloud Data Against AI](https://cryptomator.org/protecting-data-against-ai/)
 
 * * *
 
@@ -40,7 +42,7 @@ Deutsch
 
 * * *
 
-[Cryptomator on Fediverse](https://mastodon.online/@cryptomator) [Cryptomator on GitHub](https://github.com/cryptomator)
+[Cryptomator on GitHub](https://github.com/cryptomator)
 
 Privacy Policy
 ==============
