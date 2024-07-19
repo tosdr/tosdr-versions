@@ -371,7 +371,8 @@ Legal
 * [Disclaimer](https://improvedigital.com/disclaimer/)
 * [Website Privacy Policy](https://improvedigital.com/privacy-policy/)
 * [Platform Privacy Policy](https://improvedigital.com/platform-privacy-policy/)
-* [Cookie Opt-out](https://improvedigital.com/opt-out/)
+* [Digital Services Act](https://improvedigital.com/digital-services-act/)
+* [My Ads (Cookie Opt-Out)](https://myads.360yield.com/)
 
 Supporting Members
 
