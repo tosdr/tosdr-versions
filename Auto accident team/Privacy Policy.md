@@ -5,9 +5,9 @@
 PRIVACY NOTICE
 ==============
 
-Revised Date: August 1st, 2023
+Revised Date: July 10th, 2024
 
-Auto Accident Team and its affiliated companies (“we” or “us”) respect the privacy of all individuals. This Privacy Policy (the “Privacy Policy”) governs our collection, use, and disclosure of your Personal Information (as defined below) in connection with your use of our website(s) on which this Privacy Policy is linked (collectively, “Sites”) and any transactions, interactions, or other engagements you might have with us (collectively, “Services”). For clarity, the term “Sites” does not include any sites owned or operated by third parties.
+Auto Accident Team and its affiliated companies (“we”, “our”, or “us”) respect the privacy of all individuals. This Privacy Policy (the “Privacy Policy”) governs our collection, use, and disclosure of your Personal Information (as defined below) in connection with your use of our website(s) on which this Privacy Policy is linked (collectively, “Sites”) and any transactions, interactions, or other engagements you might have with us (collectively, “Services”). For clarity, the term “Sites” does not include any sites owned or operated by third parties.
 
 Please read this Privacy Policy carefully. By using the Sites or Services, you consent to the collection and use of your information by us as set out in this Privacy Policy. This Privacy Policy forms a part of and is incorporated into our [Terms of Service](https://autoaccidentteam.com/terms-of-use), and any capitalized terms used but not otherwise defined in this Privacy Policy will have the meanings given to them in the Terms of Service. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, YOU ARE NOT PERMITTED TO USE OR ACCESS THE SITE.
 
@@ -28,13 +28,20 @@ When federal, state, or local laws and regulations require a higher level of pro
 We may collect information that personally identifies, relates to, describes, or is capable of being associated with you (“Personal Information”), including:
 
 * _Identifiers and Contact Information_ such as name, address, email address, phone number;
-* _Personal Identifiers_ such as education, employment status, financial information, and health insurance information;
 * _Protected Classification Characteristics_ such as age, marital status, gender, and veteran or military status;
 * _Health Information_ such as a medical condition or diagnosis related to your request;
-* _Commercial Information_ such as the products that you have used, considered, or purchased;
+* _Commercial Information_ such as the products that you have used, considered, or purchased, financial information, and health insurance information;
+* _Professional/employment Information_ such as employment status;
+* _Education Information_ such as education; and
 * _Internet and Network Information_ such as IP address, device ID, browsing/search history, browser type, device type and settings;
 
+Some of the Personal Information listed above may be considered sensitive under relevant privacy laws. This includes health information. We refer to this type of Personal Information as “Sensitive Personal Information” in this Policy. Each type of Sensitive Personal Information may overlap with a category of Personal Information listed above.
+
 The specific Personal Information we collect about you may vary based on how you use the Sites and/or Services and your relationship with us.
+
+**Business Information**
+
+We also collect information about businesses and their representatives that engage with us such as EIN, TIN, address, phone number, email address, bank account information (collectively, “Business Information”). This information is generally not considered Personal Information because it relates to a business. If such Business Information relates to a business contact person, we will treat it as Personal Information.
 
 **Usage Data and Sites Activity**
 
@@ -52,7 +59,7 @@ We may ask you to provide us with Personal Information when you communicate with
 
 **Cookies and Other Automated Tools**
 
-We and third parties use cookies (small text files placed on your computer to identify your computer and browser) and other automated tools such as pixels to track your interaction with our Sites and to improve the experience of our Sites and Services, such as saving your preferences from visit to visit to present you with a customized version of the Website. Many web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of our Sites may not work if you delete or disable cookies.
+We and third parties use cookies (small text files placed on your computer to identify your computer and browser) and other automated tools such as pixels and clear gifs (collectively, “cookies”) to track your interaction with our Sites and to improve the experience of our Sites and Services, such as saving your preferences from visit to visit to present you with a customized version of the Sites and tracking certain aspects about a user’s visit or engagement with an email or other communications. Many web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of our Sites may not work if you delete or disable cookies.
 
 We use the following types of cookies:
 
@@ -61,7 +68,7 @@ We use the following types of cookies:
 * _Advertising Cookies:_ These cookies allow us and third parties to learn more about you, including your use of our Sites and other websites, and to advertise products or services that might interest you as further indicated below.
 * _Analytics Cookies:_ These cookies help us and third parties understand how our Sites are working and who is visiting our Sites.
 
-We and third parties also use tools that enable us to track certain aspects of a user’s visit to our Sites. This technology helps us better manage content on our Sites by informing us what content is effective, how consumers engage with our Sites, and how consumers arrive at and/or depart from our Sites. The software typically uses two methods to track user activity: (1) “tracking pixels” and (2) “clear gifs.” Tracking pixels are pieces of executable code embedded in a web page that track usage activity including which pages are viewed, when they are viewed, and how long the pages are viewed. Clear gifs are tiny graphics with unique identifiers embedded in web pages and email messages that track whether a user views a web page or email message. User activity information may be associated with additional information about a user’s session and Personal Information, if provided by the user.
+User activity information collected by cookies may be associated with additional information about a user’s session and Personal Information, if provided by the user.
 
 You can opt-out of certain types of cookies and other tracking tools by clicking the cookie settings icon at the bottom of applicable Sites.
 
@@ -79,12 +86,21 @@ We contract with publishers and other third parties that operate websites that m
 
 We generally use Personal Information to connect you with advertisers that can provide you with information about the goods and services that you have expressed interest about. We may also use your Personal information for internal purposes, including
 
-* _Providing the Sites and Services;_
-* _Marketing and market research:_ such as to send communications and offers and place advertisements, perform analytics for market research, trend analysis, and financial analysis;
-* _Other company communications:_ such as to provide you with information that may be of interest;
-* _Business operations:_ such as to evaluate, develop, and improve business operations, products and services offered, and perform business administration and other normal business activities;
-* _Compliance:_ such as to comply with applicable legal requirements, government requests, industry standards, contractual obligations, our policies, and take actions that we deem necessary to preserve and enforce our rights or the rights of others; and
-* _Information security and fraud prevention:_ such as to operate information security and anti-fraud programs.
+| Processing Purpose | Personal Information Used |
+| --- | --- |
+| Connect you with advertisers that can provide you with information about the goods and services that you have expressed interest about | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Providing the Sites and Services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Marketing and market research: such as to send communications and offers and place advertisements, perform analytics for market research, trend analysis, and financial analysis | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Other company communications: such as to provide you with information that may be of interest | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Business operations: such as to evaluate, develop, and improve business operations, products and services offered, and perform business administration and other normal business activities | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Compliance: such as to comply with applicable legal requirements, government requests, industry standards, contractual obligations, our policies, and take actions that we deem necessary to preserve and enforce our rights or the rights of others | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Information security and fraud prevention: such as to operate information security and anti-fraud programs | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+
+We also use Sensitive Personal Information for the following purposes:
+
+* Health Information – to provide the Services and to connect you with advertisers that can provide you with information about the goods and services that you have expressed interest about.
+
+We may also use Personal Information and/or Sensitive Personal Information as described to you at the point of collection, with your consent, or as otherwise required or permitted by applicable laws.
 
 **Service Providers**
 
@@ -103,7 +119,27 @@ We may share any of the types of Personal Information collected with one or more
 
 **Third-Party Sharing/Selling**
 
-Our providing information to our advertisers, as described above, may constitute “selling” of Personal Information under certain laws, including the California Consumer Protection Act. We share or sell the following types of Personal Information with one or more advertisers: unique identifiers, personal identifiers; protected classification characteristics; health information; commercial information; Internet and Network Information.
+Our providing information to our advertisers, as described above, may constitute “selling” of Personal Information under certain laws, including the California Consumer Protection Act. In the past twelve months, we have sold or shared Personal Information with third parties who are not our Service Providers (“Third Parties”) as follows:
+
+| Category of Third Party | Sale or Sharing (for targeted or cross-context behavioral advertising) | Purpose of Sale or Sharing | Categories of Personal Information Sold of Shared |
+| --- | --- | --- | --- |
+| Advertisers (providers of consumer goods and services) | Sale | To enable our clients to market and provide their goods and services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Advertisers (providers of consumer goods and services) | Sharing | To enable our clients to market and provide their goods and services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Ad networks & ad technology providers | Sharing | To facilitate our advertising of goods and services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+
+**Other Third-Party Disclosures**
+
+We may occasionally disclose your Personal Information to Third Parties, for purposes such as:
+
+* To comply with the law;
+* To respond to legal requests (including court orders, investigative demands and subpoenas) if, in our discretion, we believe it is necessary or appropriate;
+* To prevent or stop any illegal, unethical, or legally actionable activity;
+* To protect the safety, property, or rights of ourselves, consumers, or any other third party;
+* If we are merged, acquired, or sold, or in the event of a divestiture, restructuring, reorganization, or transfer of some or all of our assets and the disclosure is necessary to complete the transaction;
+* To businesses controlling, controlled by, or under common control with us; and
+* For additional purposes with your consent where such consent is required by law.
+
+In the past twelve months, we have disclosed phone number, first name, last name, email address, city, state, zip, postal address, and all 1st party data provided on [Autoaccidentteam.com](https://autoaccidentteam.com/)
 
 **CHILDREN’S PRIVACY**
 
@@ -111,11 +147,13 @@ We do not knowingly collect or solicit Personal Information from anyone under th
 
 **ADDITIONAL STATE LAW CONSUMER RIGHTS**
 
-If you are a resident of California, Colorado, Connecticut, Utah, or Virginia, you have additional rights to access and control your Personal Information. Exemptions may apply.
+If you are a resident of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, or Virginia, you have additional rights to access and control your Personal Information. Exemptions may apply.
 
 **Right to Know**
 
 You have the right to request twice per 12-month period that we provide you (i) the categories or specific pieces of Personal Information we collected about you; (ii) the categories of sources from which we collected your Personal Information; (iii) the business or commercial purpose for which we collected your Personal Information; and (iv) the categories of third Parties with whom we shared or sold your Personal Information. We are not permitted to provide access to specific pieces of Personal Information if the Personal Information is sensitive or creates a high risk of potential harm from disclosure to an unauthorized person. To protect consumers’ Personal Information, you must provide required information and/or documentation to verify your identity. We will process verified requests within 45 days, subject to any applicable exceptions and extensions permitted by law.
+
+If you are an Oregon resident, you have the right to request once per 12-month period that we provide you with a list of specific third parties to whom we disclosed (a) your Personal Information or (b) any Personal Information. We have the discretion to determine which list to provide.
 
 **Right to Deletion**
 
