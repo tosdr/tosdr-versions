@@ -36,9 +36,9 @@ Il existe deux grandes catégories de cookies : les cookies de session et les co
 
 **Les cookies persistants** aident le Site à se souvenir de vos informations et de vos paramètres lorsque vous le consulterez dans le futur. Cela résulte en un accès plus rapide et plus pratique pour vous.
 
-L'ÉQUIPE
-
 Lors de votre première visite, le Site est présenté en mode par défaut. Au cours de votre visite, vous sélectionnez vos préférences, lesquelles sont gardées en mémoire pour votre prochaine consultation du Site grâce à l'utilisation des Cookies persistants.
+
+L'ÉQUIPE
 
 Les cookies persistants se divisent à leur tour en deux catégories :  
 \- Les cookies émis par notre Site : lequipe.fr  
@@ -140,173 +140,169 @@ L'ÉQUIPE
 
 filtrer : tous les sports
 
-[09:45
+[18:30
 
-Tennis,
+L'Equipe explore,
 
-ATP
+Série vidéo
 
-Djokovic déjà de retour à l'entraînement](https://www.lequipe.fr/Tennis/Actualites/Novak-djokovic-de-retour-a-l-entrainement-a-un-peu-plus-d-une-semaine-de-wimbledon/1476636 "Djokovic déjà de retour à l'entraînement")
+Affaire Festina : séisme sur le Tour 1998](https://www.lequipe.fr/explore/video/tourbillons-ep-4-la-bombe-festina/20193100 "Affaire Festina : séisme sur le Tour 1998")
 
-[09:35
-
-Euro 2024,
-
-Bleus
-
-Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»](https://www.lequipe.fr/Football/Article/Le-debrief-de-rudi-garcia-apres-le-match-nul-de-l-equipe-de-france-les-bleus-inspirent-la-crainte-meme-sans-mbappe/1476632 "Le débrief de Rudi Garcia : «Ils inspirent la crainte, même sans Mbappé»")
-
-[09:34
-
-Rugby,
-
-Top 14,
-
-La Rochelle
-
-Jégou : «C'est triste»](https://www.lequipe.fr/Rugby/Actualites/Oscar-jegou-apres-toulouse-la-rochelle-c-est-triste/1476634 "Jégou : «C'est triste»")
-
-[09:32
-
-Hockey,
-
-Coupe Continentale
-
-Grenoble face à Aalborg et Katowice](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Grenoble-face-a-aalborg-et-katowice-en-coupe-continentale/1476633 "Grenoble face à Aalborg et Katowice")
-
-[09:30
-
-Euro 2024,
-
-Turquie
-
-Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»](https://www.lequipe.fr/Football/Article/Orkun-kokcu-turquie-j-ai-reve-avec-la-generation-doree-de-l-euro-2008/1476624 "Orkun Kokcu : «J'ai rêvé avec la génération dorée de 2008»")
-
-[09:00
-
-Prix Richard Martin 2024
-
-Participez au grand concours international de photos de sport de L'Équipe](https://www.lequipe.fr/landing/prix-richard-martin/ "Participez au grand concours international de photos de sport de L'Équipe")
-
-[08:59
-
-Rugby,
-
-Top 14
-
-Stade Français, une saison pleine de secousses](https://www.lequipe.fr/Rugby/Article/Stade-francais-une-saison-pleine-de-secousses-avant-la-demi-finale-du-top-14-face-a-bordeaux-begles/1476494 "Stade Français, une saison pleine de secousses")
-
-[08:58
-
-Hockey,
-
-TQO (H)
-
-Les dates de la préparation des Bleus](https://www.lequipe.fr/Hockey-sur-glace/Actualites/Les-dates-de-la-preparation-de-l-equipe-de-france-avant-le-tqo-des-jeux-2026/1476629 "Les dates de la préparation des Bleus")
-
-[08:56
-
-Foot,
-
-Copa America
-
-Le Chili tenu en échec par le Pérou](https://www.lequipe.fr/Football/Actualites/Le-chili-tenu-en-echec-par-le-perou-a-la-copa-america/1476628 "Le Chili tenu en échec par le Pérou")
-
-[08:55
-
-Cyclisme,
-
-Championnat de France
-
-Laporte peut-il gagner tout seul ?](https://www.lequipe.fr/Cyclisme-sur-route/Article/Malgre-une-malchance-tenace-en-2024-christophe-laporte-reve-d-une-victoire-en-solitaire/1476532 "Laporte peut-il gagner tout seul ?")
-
-[08:54
-
-Euro 2024
-
-Les supporters des Bleus ont été à la hauteur](https://www.lequipe.fr/Football/Actualites/En-inferiorite-numerique-les-supporters-francais-ont-rivalise-avec-les-neerlandais/1476627 "Les supporters des Bleus ont été à la hauteur")
-
-[08:51
-
-Golf,
-
-PGA Championship (F)
-
-Schmelzel et Yang en tête, Boutier 12e](https://www.lequipe.fr/Golf/Actualites/Schmelzel-et-yang-en-tete-boutier-12e-du-kpmg-women-s-pga-championship/1476626 "Schmelzel et Yang en tête, Boutier 12e")
-
-[08:41
-
-JO 2024,
-
-Tennis
-
-Les doubles tricolores dans l'inconnu](https://www.lequipe.fr/Jo-2024-paris/Tennis/Article/Contraints-a-des-paires-inedites-les-doubles-tricolores-dans-l-inconnu-aux-jo-de-paris/1476561 "Les doubles tricolores dans l'inconnu")
-
-[08:40
-
-Natation,
-
-États-Unis,
-
-Trials
-
-Dressel impressionne sur 50m et défendra son titre aux JO](https://www.lequipe.fr/Jo-2024-paris/Natation/Actualites/Apres-son-echec-sur-100-m-caeleb-dressel-se-qualifie-sur-50-m-pour-les-jo-de-paris-et-defendra-son-titre/1476625 "Dressel impressionne sur 50m et défendra son titre aux JO")
-
-[08:30
-
-JO,
-
-Boxe
-
-Tout savoir sur Amina Zidani](https://www.lequipe.fr/Boxe/Fiche-guide/Athlete/Amina-zidani/58 "Tout savoir sur Amina Zidani")
-
-[08:27
-
-Euro 2024,
-
-Bleus,
-
-Tactique
-
-Deschamps obtient ce qu'il cherche](https://www.lequipe.fr/Football/Article/Le-debrief-tactique-de-pays-bas-france-deschamps-obtient-ce-qu-il-cherche/1476613 "Deschamps obtient ce qu'il cherche")
-
-[08:23
-
-Euro 2024
-
-Le onze des «papis»](https://www.lequipe.fr/Football/Actualites/Cristiano-ronaldo-giroud-modric-le-onze-des-papis-de-l-euro-2024/1476572 "Le onze des «papis»")
-
-[08:13
-
-JO 2024,
-
-Natation
-
-Quelles ambitions pour les Bleus ?](https://www.lequipe.fr/Jo-2024-paris/Natation/Article/Marchand-manaudou-grousset-quelles-ambitions-pour-les-nageurs-bleus-aux-jo-de-paris/1476549 "Quelles ambitions pour les Bleus ?")
-
-[08:12
-
-Euro 2024,
-
-Roumanie
-
-Stanciu, capitaine abandonné](https://www.lequipe.fr/Football/Actualites/Nicolae-stanciu-un-capitaine-fache-avec-les-supporters-mais-apprecie-par-ses-coequipiers/1476466 "Stanciu, capitaine abandonné")
-
-[08:12
+[18:24
 
 Athlé,
 
-Perche
+Championnats de France U23
 
-Collet, un record mais toujours plus d'ambitions](https://www.lequipe.fr/Athletisme/Actualites/Pour-thibaut-collet-un-nouveau-record-mais-toujours-plus-d-ambitions/1476530 "Collet, un record mais toujours plus d'ambitions")
+Erius en 9"98 sur 100 m](https://www.lequipe.fr/Athletisme/Actualites/Jeff-erius-reussit-un-temps-canon-de-9-98-sur-100-m-aux-championnats-de-france-u23/1483681 "Erius en 9"98 sur 100 m")
+
+[18:18
+
+Tour de France
+
+Démare hors délai sur la 19e étape](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Arnaud-demare-hors-delai-sur-la-19e-etape-du-tour-de-france/1483679 "Démare hors délai sur la 19e étape")
+
+[18:18
+
+Tour de France
+
+Pogacar : «Je me suis dit que Visma nous préparait quelque chose»](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Tadej-pogacar-apres-sa-victoire-sur-la-19e-etape-je-me-suis-dit-que-visma-nous-preparait-quelque-chose/1483678 "Pogacar : «Je me suis dit que Visma nous préparait quelque chose»")
+
+[18:15
+
+Moto,
+
+8 Heures de Suzuka
+
+Zarco rêve d'une victoire de prestige](https://www.lequipe.fr/Endurance/Article/-j-aime-le-challenge-au-coeur-d-une-saison-decevante-en-motogp-zarco-reve-de-victoire-aux-huit-heures-de-suzuka/1483676 "Zarco rêve d'une victoire de prestige")
+
+[18:05
+
+Foot,
+
+Italie
+
+Cesc Fabregas entraîneur de Côme](https://www.lequipe.fr/Football/Actualites/Mercato-cesc-fabregas-prend-les-renes-de-come/1483672 "Cesc Fabregas entraîneur de Côme")
+
+[18:05
+
+Rallye,
+
+WRC,
+
+Lettonie
+
+Rovanperä creuse l'écart, Sesks résiste à Ogier](https://www.lequipe.fr/Rallye/Actualites/Kalle-rovanpera-creuse-l-ecart-en-tete-du-rallye-de-lettonie-sesks-resiste-a-ogier/1483670 "Rovanperä creuse l'écart, Sesks résiste à Ogier")
+
+[18:00
+
+JO 2024,
+
+Podcast
+
+«Médaillables», votre rendez-vous quotidien pendant les Jeux](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/-medaillables-votre-podcast-quotidien-pendant-les-jo-de-paris-2024/1483370 "«Médaillables», votre rendez-vous quotidien pendant les Jeux")
+
+[17:52
+
+Tennis,
+
+ATP,
+
+Bastad
+
+Nadal en demi-finales après 4 heures de combat](https://www.lequipe.fr/Tennis/Actualites/Rafael-nadal-en-demi-finales-a-bastad-apres-un-combat-de-quatre-heures/1483664 "Nadal en demi-finales après 4 heures de combat")
+
+[17:40
+
+JO 2024
+
+Emmanuel Macron se baignera bien dans la Seine](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Emmanuel-macron-va-se-baigner-dans-la-seine-mais-pas-forcement-avant-les-jo-2024/1483660 "Emmanuel Macron se baignera bien dans la Seine")
+
+[17:34
+
+Foot,
+
+Espagne
+
+L'UEFA ouvre une enquête après le chant sur Gibraltar](https://www.lequipe.fr/Football/Actualites/L-uefa-ouvre-une-enquete-apres-le-chant-des-espagnols-assurant-que-gibraltar-est-espagnol/1483658 "L'UEFA ouvre une enquête après le chant sur Gibraltar")
+
+[17:20
+
+Foot,
+
+Transferts
+
+Stuttgart veut Kalimuendo (Rennes)](https://www.lequipe.fr/Football/Actualites/Mercato-stuttgart-veut-kalimuendo-rennes/1483656 "Stuttgart veut Kalimuendo (Rennes)")
+
+[17:11
+
+Tour de France
+
+Le classement de la 19e étape](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-classement-de-la-19e-etape-du-tour-de-france-remportee-par-tadej-pogacar/1483652 "Le classement de la 19e étape")
+
+[17:07
+
+Foot,
+
+Ligue des nations
+
+Le match Belgique-Israël se jouera en Hongrie](https://www.lequipe.fr/Football/Actualites/Ligue-des-nations-le-match-belgique-israel-se-tiendra-en-hongrie/1483650 "Le match Belgique-Israël se jouera en Hongrie")
+
+[17:00
+
+Rugby,
+
+Coupe du monde U20
+
+Australie - Argentine sur L'Équipe live 2](https://www.lequipe.fr/tv/videos/live/k5TgcOKBUTM2KnqwBWC "Australie - Argentine sur L'Équipe live 2")
+
+[17:00
+
+Athlétisme,
+
+spécial L'Équipe
+
+Typhaine Soldé : un modèle d'éducation](https://www.lequipe.fr/Tous-sports/Actualites/Typhaine-solde-un-modele-d-education/1482738 "Typhaine Soldé : un modèle d'éducation")
+
+[17:00
+
+Le Magazine,
+
+JO 2024
+
+Ils ont égaré leurs médailles olympiques](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Article/Ces-athletes-qui-ont-egare-leurs-medailles-olympiques/1483205 "Ils ont égaré leurs médailles olympiques")
+
+[16:49
+
+Foot,
+
+Transferts
+
+Accord OM-Nice pour Clauss](https://www.lequipe.fr/Football/Actualites/Mercato-accord-om-nice-pour-le-transfert-de-jonathan-clauss/1483644 "Accord OM-Nice pour Clauss")
+
+[16:40
+
+Tour de France
+
+Pogacar écrase la 19e étape à Isola 2000](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/En-demonstration-a-isola-2000-tadej-pogacar-remporte-la-19e-etape-et-se-rapproche-d-un-3e-tour-de-france/1483642 "Pogacar écrase la 19e étape à Isola 2000")
+
+[16:20
+
+Golf,
+
+British Open
+
+Pas de miracle pour Tiger Woods](https://www.lequipe.fr/Golf/Actualites/Pas-de-miracle-pour-tiger-woods-au-british-open/1483639 "Pas de miracle pour Tiger Woods")
 
 L'ÉQUIPE
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/691/covers/Preview-MEDIUM-33576.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/728/covers/Preview-MEDIUM-35430.jpg?v=4)
 
 lire l'édition
+
+L'ÉQUIPE
 
 L'ÉQUIPE
 
@@ -315,8 +311,7 @@ L'ÉQUIPE
 réglages accessibilité
 
 * [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
-* [Euro 2024](https://www.lequipe.fr/Football/Euro/)
-* [Copa America](https://www.lequipe.fr/Football/Copa-america/)
+* [Le Tour](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
 
 * [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
     
@@ -333,10 +328,9 @@ réglages accessibilité
 * [![écouter tous les podcasts](//www.lequipe.fr/img/icons/podcast.svg)
     
     écouter tous les podcasts](https://www.lequipe.fr/collection/podcasts/)
-* ![ma liste](//www.lequipe.fr/img/icons/bookmarks.svg)
+* [![ma liste](//www.lequipe.fr/img/icons/bookmarks.svg)
     
-    ma liste
-    
+    ma liste](https://www.lequipe.fr/espace-membre/bookmarks)
 * [lire les articles abonnés du jour](https://www.lequipe.fr/Payant/)
 
 * résultats et actualités
@@ -358,6 +352,7 @@ réglages accessibilité
     
 * [handball](https://www.lequipe.fr/Handball/)
     
+* [Jeux Olympiques](https://www.lequipe.fr/Jo/)
 * [golf](https://www.lequipe.fr/Golf/)
     
 * [combat](https://www.lequipe.fr/Sports-de-combat/)
@@ -369,8 +364,6 @@ réglages accessibilité
 * [médias](https://www.lequipe.fr/Medias/)
 * [dopage](https://www.lequipe.fr/Dopage/)
 * [coaching](https://www.lequipe.fr/Coaching/)
-* [Jeux olympiques](https://www.lequipe.fr/Jo/)
-* [Jeux paralympiques](https://www.lequipe.fr/Jeux-Paralympiques/)
 * [aviron](https://www.lequipe.fr/Aviron/)
 * [badminton](https://www.lequipe.fr/Badminton/)
 * [baseball](https://www.lequipe.fr/Baseball/)
@@ -488,15 +481,6 @@ sports nautique
 * [aviron](https://www.lequipe.fr/Aviron/)
 * [canoë-kayak](https://www.lequipe.fr/Canoe-kayak/)
 
-autres
-
-* [lutteur danemark 1932](https://www.lequipe.fr/Tous-sports/Actualites/Jo-1932-la-ville-de-naissance-du-lutteur-medaille-danemark/1111113)
-* [1932 en natation](https://www.lequipe.fr/Natation/Actualites/l-afrique-du-sud-a-obtenu-une-medaille-en-natation-aux-jeux-olympiques-de-1932-quelle-est-la-ville-de-naissance-de-l-athlete-qui-a-obtenu-cette-medaille/1111111)
-* [tennis de table](https://www.lequipe.fr/Tennis-de-table/)
-* [tir à l'arc](https://www.lequipe.fr/Tir-a-l-arc/)
-* [tir](https://www.lequipe.fr/Tir/)
-* [équitation](https://www.lequipe.fr/Equitation/)
-
 [la chaine L'Équipe](https://www.lequipe.fr/tv/)
 
 * [replay L'Equipe du Soir](https://www.lequipe.fr/tv/collection/replays-emissions/l-equipe-du-soir/)
@@ -511,9 +495,5 @@ autres
 * [Counter Strike](https://www.lequipe.fr/Esport/Counter-strike/)
 
 [Programme TV évènements sportifs](https://www.lequipe.fr/Labsense/)
-
-[Sorare](https://www.lequipe.fr/Sorare/)
-
-* [comment acheter des cartes NFT sur Sorare ?](https://www.lequipe.fr/Tous-sports/Actualites/Qu-est-ce-que-sorare-le-nouveau-jeu-de-fantasy-football-du-moment/1291932)
 
 © L’Équipe 24/24 - 2024 accessibilité revenir en haut
