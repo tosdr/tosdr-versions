@@ -16,7 +16,7 @@ Terms of Use
 
 ### 1.1 Acceptance of Terms
 
-MedBridge Inc. (“MedBridge”) is the owner and operator of the MedBridge Website located at the URL www.medbridgeeducation.com, the MedBridge mobile application, and other websites owned by MedBridge, including personalized white label websites (collectively, the “MedBridge Website”, as defined below). These Terms of Use (the “Agreement”) govern access to and use of the MedBridge Website. Access to and use of the MedBridge Website is subject to Your acceptance of this Agreement. You agree to abide by all terms and conditions of this Agreement by Your accessing the MedBridge Website and/or by Your continued use of the MedBridge Website. Please read the following, carefully bearing in mind that this Agreement must be read in conjunction with MedBridge’s Privacy Policy.
+MedBridge Inc. (“MedBridge”) is the owner and operator of the MedBridge Website located at the URL www.medbridge.com, the MedBridge mobile application, and other websites owned by MedBridge, including personalized white label websites (collectively, the “MedBridge Website”, as defined below). These Terms of Use (the “Agreement”) govern access to and use of the MedBridge Website. Access to and use of the MedBridge Website is subject to Your acceptance of this Agreement. You agree to abide by all terms and conditions of this Agreement by Your accessing the MedBridge Website and/or by Your continued use of the MedBridge Website. Please read the following, carefully bearing in mind that this Agreement must be read in conjunction with MedBridge’s Privacy Policy.
 
 ### 1.2 Right to Modify Terms
 
@@ -24,7 +24,7 @@ MedBridge reserves the right to modify the terms of this Agreement at any time a
 
 ### 1.3 Term Definitions
 
-1\. “MedBridge Website” means the MedBridge Website accessible through the URL www.medbridgeeducation.com, www.medbridgeed.com, the MedBridge mobile application, and other websites owned and operated by MedBridge, including personalized white label websites.
+1\. “MedBridge Website” means the MedBridge Website accessible through the URL www.medbridge.com, the MedBridge mobile application, and other websites owned and operated by MedBridge, including personalized white label websites.
 
 2\. “MedBridge” means MedBridge, Inc.
 
