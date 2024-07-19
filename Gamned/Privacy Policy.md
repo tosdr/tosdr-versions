@@ -15,6 +15,10 @@ Les experts du groupe Biggie se sont rassemblés pour vous donner les 6 insights
 
 [](#)
 
+![](https://cdn.prod.website-files.com/614baa187713d36197e03cf0/614baa187713d326e5e03d3c_gamned-logo-white.svg) évolue et rejoint ![](https://cdn.prod.website-files.com/66743021048a0d8fadfbe742/66743021048a0d8fadfbe772_biggie-logo-white.svg), une agence hybride d'activation et de stratégie média et marketing.
+
+[Je découvre](https://www.biggie.co/)
+
 [![gamned logo](https://cdn.prod.website-files.com/60c1dd41dc7dd910b6b1446b/60c1e62f2aac024a4cad713d_gamned-logo-red.svg)](https://www.gamned.com/)
 
 [Média](https://www.gamned.com/commerce-media-omnicanal)
