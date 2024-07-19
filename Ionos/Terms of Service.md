@@ -19,6 +19,7 @@
 * [Google Workspace](https://www.ionos.com/terms-gtc/google-workspace/)
 * [IONOS Partner Program](https://www.ionos.com/terms-gtc/partner-program/)
 * [Logo Generator](https://www.ionos.com/terms-gtc/logo-generator/)
+* [Abmahnschutz](https://www.ionos.com/terms-gtc/abmahnschutz/)
 
 General Terms and Conditions
 ============================
@@ -119,11 +120,11 @@ Subject to and conditioned upon IONOS’s retained rights and all other terms an
 
 **3.1.8** You are responsible for backing up Your Data on your own computer. IONOS does not warrant or otherwise guarantee that it will back up your data or that data which has been backed up can be retrieved, and will not be responsible for any archiving or backup of Your Data. If any of Your Data is damaged, deleted, lost or corrupted in any way, or becomes otherwise unavailable due to termination or suspension of your account pursuant to this Agreement, IONOS will have no obligation or liability to you.
 
-**3.1.9**  All web hosting packages are subject to a maximum limit of 262,144 individual files for Linux hosting and 500,000 files for Windows hosting.  
+**3.1.9**  Unlimited services are intended for a normal personal or commercial use in compliance with these GT&C, including but not limited to Section 8, and are subject to certain technical and operational limitations. All web hosting packages are subject to a maximum limit of 262,144 individual files for Linux hosting and 500,000 files for Windows hosting up to a maximum of 500 GB web space.  
 In a web hosting package with 50 gigabytes of web space, the customer can initially have over 20 gigabytes of web space. Once the web space reaches at least 75% use of the available web space, it will be automatically increased in increments of 10 gigabytes, free of charge, until the amount of used web space is once again below 75%.  
 In a web hosting package with 100 gigabytes of web space, the customer can initially have over 50 gigabytes of web space. Once the web space reaches at least 75% use of the available web space, it will automatically increase in increments of 20 gigabytes, free of charge, until the web space is once again below 75%.  
-In a web hosting package with 250,500 or unlimited gigabytes of web space, the customer can initially have over 100 gigabytes of web space. Once the web space reaches at least 75% use of the available web space, it will automatically increase in increments of 50 gigabytes or more until it is below 75% again.   
-IONOS reserves the right to move customers to servers which are more suited for that customer's usage, in IONOS’s sole discretion, and the customer agrees and understands that during any such move some or all of the IONOS Inc. Services may be unavailable or inaccessible. Packages with unlimited mail space are initially configured with 50 GB of available mail space per mailbox. In the event that the customer's usage approaches the limits of the available mail space, IONOS can increase the mail space configuration in increments of 5 gigabyte at no further cost to the customer, but no more than once per day; and not more than a maximum of 100 GB for a single mailbox. To get your mail space increased please contact the IONOS Technical Support.
+In a web hosting package with 250, 500 or unlimited gigabytes of web space, the customer can initially have over 100 gigabytes of web space. Once the web space reaches at least 75% use of the available web space, it will automatically increase in increments of 50 gigabytes or more until it is below 75% again.   
+IONOS reserves the right to move customers to servers which are more suited for that customer's usage, in IONOS’s sole discretion, and the customer agrees and understands that during any such move some or all of the IONOS Inc. Services may be unavailable or inaccessible. Packages with unlimited mail space are initially configured with 50 GB of available mail space per mailbox. In the event that the customer's usage approaches the limits of the available mail space, IONOS can increase the mail space configuration in increments of 5 gigabyte at no further cost to the customer, but no more than once per day; and not more than a maximum of 100 GB for a single mailbox. To get your mail space increased please contact the IONOS Technical Support.
 
 **3.2.**   **Domain Name Registration**
 
