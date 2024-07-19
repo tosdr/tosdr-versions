@@ -23,9 +23,8 @@ Primary Menu
     * [TV Stations](https://www.nexstar.tv/stations/)
     * [Networks](https://www.nexstar.tv/networks/)
     * [Digital Technology & Operations](https://www.nexstar.tv/nxst-digital/)
-    * [Nexstar Ad Sales](https://www.nexstar.tv/nexstar-ad-sales/)
     * [ATSC 3.0 Progress](https://www.nexstar.tv/atsc-3-0-progress/)
-* [Company News](https://www.nexstar.tv/news/)
+* [Newsroom](https://www.nexstar.tv/news/)
     * [Press Releases](https://www.nexstar.tv/press-releases/)
     * [Nexstar in the News](https://www.nexstar.tv/category/nexstar-in-the-news/)
     * [MEDIA CONTACT](https://www.nexstar.tv/press-releases/)
@@ -37,7 +36,7 @@ Primary Menu
     * [Stock Information](https://www.nexstar.tv/stock-information/)
     * [Events and Presentations](https://www.nexstar.tv/events-and-presentations/)
     * [Annual Reports / SEC Filings](https://www.nexstar.tv/investor-relations#reports)
-* [Corporate Social Responsibility](https://www.nexstar.tv/corporate-social-responsibility/)
+* [Social Responsibility](https://www.nexstar.tv/corporate-social-responsibility/)
     * [2023 ESG Report](https://www.nexstar.tv/wp-content/uploads/2024/04/2023_ESG-_Report_Final.pdf)
     * [Letter From Management](https://www.nexstar.tv/corporate-social-responsibility/)
     * [Board of Directors Leadership Structure](https://www.nexstar.tv/corporate-social-responsibility/board-leadership-structure/)
@@ -50,11 +49,12 @@ Primary Menu
     * [Community Involvement](https://www.nexstar.tv/corporate-social-responsibility/community-involvement/)
     * [HR Management; Workforce Diversity, Equity, and Inclusion](https://www.nexstar.tv/corporate-social-responsibility/human-resource-management/)
     * [Environmental Improvements](https://www.nexstar.tv/corporate-social-responsibility/environmental-improvements/)
+* [Advertising](https://www.nexstaradvertising.com/)
 
 Privacy Policy
 ==============
 
-[July 7, 2023](https://www.nexstar.tv/privacy-policy/)
+[June 27, 2024](https://www.nexstar.tv/privacy-policy/)
 
 1\. GENERAL
 -----------
@@ -257,15 +257,21 @@ Please note that if you choose to opt out of having your information used to del
 9\. STATE SPECIFIC PRIVACY RIGHTS
 ---------------------------------
 
-We do not sell your Identifiable Information without your consent. However, we do share certain Personal Information with some of our partners which may be considered a “sale” under the California Consumer Privacy Act (“CCPA”) and other similar privacy laws (collectively, “Privacy Laws”), therefore, when required by applicable Privacy Laws, we give residents the right to opt out of the sale of your Personal Information (“Opt-Out Right”). In addition to the Opt-Out Right, the Privacy Laws may also grant consumers with the right to: (i) know and access the specific Personal Information that we have collected; (ii) know and access the categories of Personal Information we collected, the categories of sources from which we collected Personal Information, the business and commercial purposes for which we collected the Personal Information and the third parties with whom we share the Personal information about you; (iii) to correct your Personal Information; and (iii) delete your Personal Information; (collectively, your “Privacy Rights”). If the Privacy Laws apply to you and you would like to exercise any of your Privacy Rights, please visit our [Privacy Center](#) to exercise your Privacy Rights. We may require verification of your identity to action your request and such verification required may vary depending on the information you are requesting. Your Privacy Rights are subject to restrictions and exceptions as set out in the Privacy Laws and if such exceptions or restrictions apply to your request, we will explain that to you. We will not discriminate against you for exercising your rights.
+We do not sell your Identifiable Information without your consent. However, we do share certain Personal Information with some of our partners which may be considered a “sale” under the California Consumer Privacy Act (“CCPA”) and other similar privacy laws (collectively, “Privacy Laws”), therefore, when required by applicable Privacy Laws, we give residents the right to opt out of the sale of your Personal Information (“Opt-Out Right”). In addition to the Opt-Out Right, the Privacy Laws may also grant consumers with the right to: (i) know and access the specific Personal Information that we have collected; (ii) know and access the categories of Personal Information we collected, the categories of sources from which we collected Personal Information, the business and commercial purposes for which we collected the Personal Information and the third parties with whom we share the Personal information about you; (iii) to correct your Personal Information; and (iii) delete your Personal Information; (collectively, your “Privacy Rights”). If the Privacy Laws apply to you and you would like to exercise any of your Privacy Rights, please visit our [Privacy Center](https://nexstar-privacy.my.onetrust.com/webform/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/fc55613b-d5b7-46f9-acd0-6e96c9741d12) to exercise your Privacy Rights (please see the special note below regarding Connected TV/OTT apps). We may require verification of your identity to action your request and such verification required may vary depending on the information you are requesting. Your Privacy Rights are subject to restrictions and exceptions as set out in the Privacy Laws and if such exceptions or restrictions apply to your request, we will explain that to you. We will not discriminate against you for exercising your rights.
 
-Certain exceptions may apply to your Privacy Rights. If these exceptions apply, we will tell you.
+Connected TV: Please take these steps in the specific application to make any changes to the privacy settings:  
+For DC News Now, please navigate to the Settings menu, select Privacy Consent, and select the button for Do Not Sell or Share My Personal Information.  
+For NewsNation, please navigate to the Settings menu, then Send Feedback, and review the steps to submit a privacy request.  
+For KTLA+, KRON-On, WGN+, and WPIX+, please submit your request via the [Privacy Center](https://nexstar-privacy.my.onetrust.com/webform/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/fc55613b-d5b7-46f9-acd0-6e96c9741d12).  
+In some cases, we may make available a QR code for you to use with your mobile phone to make the process of exercising your rights from a Connected TV device more convenient for you.
 
 Please note that when exercising your Privacy Rights, we may need additional information from you. For example, when you submit a request to delete your Personal Information relating to an OTT App (for example, the NewsNation App made available on your Roku smart TV) we will need your user ID and ask that you submit your request here: [privacyadministrator+ott@nexstar.tv](mailto:privacyadministrator+ott@nexstar.tv)
 
 If you are entitled to delete your data pursuant to Privacy Laws and you exercise this right, some data will not be deleted per the exceptions under Privacy Laws. Such exceptions may include Personal Information used to: (i) complete a transaction, provide a good or service, perform a contract, or that is otherwise tied to our business relationship with you; (ii) detect and prevent security incidents, deception, and fraud and to prosecute crimes; (iii) debug to identify and repair errors that impair functionality of products or services; (iv) exercise free speech or other legal rights; (v) respond to requests for information from law enforcement under or comply with other legal obligations; (vi) engage in certain public or peer-reviewed scientific, historical, or statistical research in the public interest; (vii) enable internal uses that are reasonably alighted with consumer expectations for the purpose for which the data was collected.
 
 You may designate an authorized agent to submit a request on your behalf. To do so, we will require either: (i) a valid power of attorney; or (ii) a signed written permission from you. If your authorized agent is relying on a signed written permission from you, we may also need to verify your identity and/or contact directly to confirm permission to proceed with the request.
+
+If you exercise any of your rights and are not satisfied with how we handled your request, you can ask for a review of your request and our response by emailing us at: [PrivacyAdministrator@nexstar.tv](mailto:privacyadministrator@nexstar.tv). Please put “Appeal” in the subject line of your email. If you are still unhappy with our response, contact us at [PrivacyAdministrator@nexstar.tv](mailto:privacyadministrator@nexstar.tv) and we can give you details on how to complain to your Data Protection Authority.
 
 The information we have collected, our sources and uses, who we shared your information with in the past 12 months:
 
@@ -284,21 +290,25 @@ Retention. We will retain your information only for as long as is reasonably nec
 
 CCPA Metrics. CCPA Regulations require us to disclose metrics for the previous calendar year regarding certain requests by California residents exercising their rights under the CCPA. The metrics for our Properties governed by this Privacy Policy are as follows:
 
-| Privacy Requests | Access | Delete | Do Not Sell |
-| --- | --- | --- | --- |
-| Received | 606 | 657 | 400,750 |
-| Complied With | 282 | 379 | 400,750 |
-| Unverified/Denied | 324 | 278 | 0   |
-| Average Days to Respond | 8   | 9   | 1   |
+| Privacy Requests | Access | Correct | Delete | Limit Use | Do Not Sell |
+| --- | --- | --- | --- | --- | --- |
+| Received | 12  | 5   | 100 | N/A | 2,012,678 |
+| Complied With | 12  | 5   | 100 | N/A | 2,012,678 |
+| Unverified/Denied | 0   | 0   | 0   | N/A | 0   |
+| Average Days to Respond | 6   | 6   | 6   | N/A | 1   |
 
-Shine the Light. Further, once a year and free of charge, to request information about certain types of Personal Information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of Personal Information, and (2) provide you with a cost-free means to exercise that right. If you desire to opt out, click on the [Privacy Center](#), notify Nexstar by e-mail at the following address: [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or by mail at the following address:
+\* Please note that where the values are N/A it may mean that the right is not made available as it isn’t applicable to our use or non-use of your Sensitive Personal Information. For example, you may have opted-in to allow our weather apps to collect precise geolocation information. In this case, we will not use your Sensitive Personal Information for any purpose other than to provide that app to you. Therefore, the right to limit the use and disclosure of Sensitive Personal Information is not applicable as we are already limiting our use and disclosure.
+
+Shine the Light. Further, once a year and free of charge, to request information about certain types of Personal Information (if any) that a business has disclosed to third parties for their direct marketing purposes in the prior calendar year. However, under the law, we are not required to provide this information as long as we: (1) notify you that you have the right to prevent disclosure of Personal Information, and (2) provide you with a cost-free means to exercise that right. If you desire to opt out, click on the [Privacy Center](https://nexstar-privacy.my.onetrust.com/webform/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/fc55613b-d5b7-46f9-acd0-6e96c9741d12), notify Nexstar by e-mail at the following address: [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or by mail at the following address:
 
 **Digital Privacy Administrator**  
 Nexstar Media Inc.  
 545 E. John Carpenter Freeway, Suite 700  
 Irving, TX 75062
 
-CA Eraser Law. Additionally, if you are a California resident under the age of 18, and a registered user of any Property where this Privacy Policy is posted, you may request and potentially obtain removal of content or Personal Information you have publicly posted. To make such a request, please send an e-mail to [caleraser@nexstar.tv](mailto:caleraser@nexstar.tv). All requests must provide: (a) a detailed description of the specific content or Personal Information you want removed; (b) information reasonably sufficient to permit us to locate the content or Personal Information, including but not limited to the name and URL (if applicable) of the Property where such information is located; and (c) your registered username and contact information reasonably sufficient to contact you if we have questions. We shall not accept requests via postal mail, telephone, or facsimile. We are not responsible for requests that are not properly sent and may not be able to respond or take appropriate action if you do not provide complete information. Please also note that requests for removal do not ensure removal of the content or Personal Information you have posted, and there may be circumstances in which the law does not require or allow for removal even if requested
+CA Eraser Law. Additionally, if you are a California resident under the age of 18, and a registered user of any Property where this Privacy Policy is posted, you may request and potentially obtain removal of content or Personal Information you have publicly posted. To make such a request, please send an e-mail to [caleraser@nexstar.tv](mailto:caleraser@nexstar.tv). All requests must provide: (a) a detailed description of the specific content or Personal Information you want removed; (b) information reasonably sufficient to permit us to locate the content or Personal Information, including but not limited to the name and URL (if applicable) of the Property where such information is located; and (c) your registered username and contact information reasonably sufficient to contact you if we have questions. We shall not accept requests via postal mail, telephone, or facsimile. We are not responsible for requests that are not properly sent and may not be able to respond or take appropriate action if you do not provide complete information. Please also note that requests for removal do not ensure removal of the content or Personal Information you have posted, and there may be circumstances in which the law does not require or allow for removal even if requested.
+
+Non-US visitors. Our Properties are intended for US audiences only. If you are visiting our Properties from outside the United States, our content may be blocked or it may be available for you to view, however, you will not get the same experience as our US users as a result of our restricted data processing.
 
 10\. SECURITY OF INFORMATION
 ----------------------------
@@ -320,14 +330,14 @@ We control and operate our Properties from the United States. The Properties are
 13\. CONTACT INFORMATION
 ------------------------
 
-If you have any questions or comments about our Privacy Policy, please send an e-mail to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or call us toll-free at 833-831-6416. To action your Privacy Rights that you may have under applicable law, please visit our [Privacy Center](#).
+If you have any questions or comments about our Privacy Policy, please send an e-mail to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or call us toll-free at 833-831-6416. To action your Privacy Rights that you may have under applicable law, please visit our [Privacy Center](https://nexstar-privacy.my.onetrust.com/webform/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/fc55613b-d5b7-46f9-acd0-6e96c9741d12).
 
 Post navigation
 ---------------
 
-[← Older](https://www.nexstar.tv/nexstar-media-group-inc-2023-second-quarter-results-webcast/)
+[← Older](https://www.nexstar.tv/nexstar-media-group-2024-second-quarter-financial-results-webcast/)
 
-[Newer →](https://www.nexstar.tv/wavy-tv-wavy-tv-donates-10000-to-link-of-hampton-roads/)
+[Newer →](https://www.nexstar.tv/kswb-tv-nexstar-supports-armed-services-ymca-morning-news/)
 
 ![](/wp-content/uploads/2016/08/nexstarMG_logo_white-300x130.png)
 
@@ -339,10 +349,10 @@ Post navigation
 
 ### News
 
-* [Nexstar Names Tim Ingram as Vice President and General Manager of its Broadcast and Digital Operations in Baton Rouge, Louisiana](https://www.nexstar.tv/nexstar-names-tim-ingram-as-vp-and-gm-in-baton-rouge-la/)
-* [Nexstar Media Charitable Foundation Donates $3,000 To Embassy Theatre Foundation In Ft. Wayne, IN](https://www.nexstar.tv/nexstar-charitable-foundation-donates-to-embassy-theatre-foundation-in-ft-wayne/)
-* [(WBOY-TV) Mountaineer Boys State receives largest single donation in its history](https://www.nexstar.tv/wboy-tv-mountaineer-boys-state-receives-largest-single-donation-in-its-history/)
-* [Nexstar Names Lisa Taylor as Senior Vice President of Digital Advertising Sales](https://www.nexstar.tv/nexstar-names-lisa-taylor-svp-digital-advertising-sales/)
+* [(CNBC.com) Cramer’s Stop Trading: Nexstar Media Group](https://www.nexstar.tv/cnbc-com-cramers-stop-trading-nexstar-media-group/)
+* [(KSWB-TV) Nexstar Supports Armed Services YMCA Morning News](https://www.nexstar.tv/kswb-tv-nexstar-supports-armed-services-ymca-morning-news/)
+* [Privacy Policy](https://www.nexstar.tv/privacy-policy/)
+* [Nexstar Media Group 2024 Second Quarter Financial Results Webcast](https://www.nexstar.tv/nexstar-media-group-2024-second-quarter-financial-results-webcast/)
 
 ### More
 
