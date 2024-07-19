@@ -6,7 +6,7 @@
         
     
 
-[](#siteMobilePanel "Site Menu")[](#accountSideMenu "Account Settings Menu")[](#accountMobilePanel "Account Menu")
+[](#siteMobilePanel "Site Menu")[](#accountMobilePanel "Account Menu")
 
 [![Planet Minecraft Logo](/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/ "Planet Minecraft Community | Creative fansite for everything Minecraft!")
 
@@ -26,7 +26,7 @@ Browse [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers") [
 
 Tools [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D") [Banners](https://www.planetminecraft.com/banners/ "Banners") [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
 
-[![PMC Interviews](https://www.planetminecraft.com/images/special/member-interviews.png)](https://www.planetminecraft.com/collection/39846/interviews/?morder=order_updated "PMC Interviews with Members")
+[![Bisect + PMC](https://www.planetminecraft.com/images/special/bisect/bisect-plus-pmc-300.png)](https://www.bisecthosting.com/PMC "Bisect Hosting + code PMC = 25% off first month!")
 
 Community
 
@@ -36,7 +36,9 @@ Entertainment [Jams](https://www.planetminecraft.com/jams/ "Jams") [CFT Cards](h
 
 Support [Tickets](https://www.planetminecraft.com/tickets/ "Tickets") [Help](https://www.planetminecraft.com/forums/help/ "Help")
 
-[![PMCSkin3D](https://www.planetminecraft.com/images/studio/pmcskin3d/promo/pmcskin3d_minecraft_skin_editor.png)](https://www.planetminecraft.com/pmcskin3d/ "PMCSkin3D : Advanced Minecraft Skin Editor")
+[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
+
+...
 
 [LOGIN](https://www.planetminecraft.com/account/sign_in/ "Sign In") [SIGN UP](https://www.planetminecraft.com/account/create/ "Create")
 
@@ -166,16 +168,13 @@ Website [Contact](https://www.planetminecraft.com/contact/ "Contact") [Report bu
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.  
 [Minecraft](https://www.minecraft.net/en-us/ "Minecraft : The Game") is copyright [Mojang Studios](https://www.mojang.com/ "Mojang Studios") and is not affiliated with this site. Get the game!
 
-[![Planet Minecraft](/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/ "Planet Minecraft Community | Creative fansite for everything Minecraft!")
+[](https://www.planetminecraft.com/ "Planet Minecraft Community | Creative fansite for everything Minecraft!")[![Planet Minecraft](/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/ "Planet Minecraft Community | Creative fansite for everything Minecraft!")
 
 Search
 
 Search Search Planet Minecraft 
 
-* Content
-* [Home](https://www.planetminecraft.com/ "Planet Minecraft Community | Creative fansite for everything Minecraft!")
-
-Search Planet Minecraft 
+Content
 
 * [Maps](https://www.planetminecraft.com/projects/ "Minecraft Maps")
 * [Player Skins](https://www.planetminecraft.com/skins/ "Minecraft Player Skins")
@@ -184,35 +183,46 @@ Search Planet Minecraft
 * [Mob Skins](https://www.planetminecraft.com/mob-skins/ "Minecraft Mob Skins")
 * [Mods](https://www.planetminecraft.com/mods/ "Minecraft Mods")
 * [Blogs](https://www.planetminecraft.com/blogs/ "Minecraft Blogs")
-* Browse
-* [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers")
-* [Bedrock Servers](https://www.planetminecraft.com/bedrock-servers/ "Minecraft Bedrock Servers")
-* [Collections](https://www.planetminecraft.com/collections/ "Public member collections")
-* [Time Machine](https://www.planetminecraft.com/timemachine/ "Browse archives of PMC content")
-* Tools
-* [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D")
-* [Banners](https://www.planetminecraft.com/banners/ "Banners")
-* [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
-* Socialize
+
+Socialize
+
 * [Forums](https://www.planetminecraft.com/forums/toc/ "Forums")
 * [Wall Posts](https://www.planetminecraft.com/posts/ "Wall Posts")
 * [Groups](https://www.planetminecraft.com/groups/ "Groups")
 * [Discord](https://discord.gg/QQSWwyg "Discord")
-* Entertainment
+
+Tools
+
+* [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D")
+* [Banners](https://www.planetminecraft.com/banners/ "Banners")
+* [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
+
+Discover
+
+* [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers")
+* [Bedrock Servers](https://www.planetminecraft.com/bedrock-servers/ "Minecraft Bedrock Servers")
+* [Collections](https://www.planetminecraft.com/collections/ "Public member collections")
+* [Time Machine](https://www.planetminecraft.com/timemachine/ "Browse archives of PMC content")
+
+Entertainment
+
 * [Jams](https://www.planetminecraft.com/jams/ "Jams")
 * [CFT Cards](https://www.planetminecraft.com/cfts/browse/ "CFT Cards")
-* Support
+
+Support
+
 * [Tickets](https://www.planetminecraft.com/tickets/ "Tickets")
 * [Help](https://www.planetminecraft.com/forums/help/ "Help")
-
-### Website
-
-* [Report mobile issue](https://www.planetminecraft.com/contact/?topic=support "Report issue")
 * [Terms of Use](https://www.planetminecraft.com/terms_of_use/ "Terms of Use")
-* [Privacy Policy](https://www.planetminecraft.com/privacy_policy/ "Privacy Policy")
+* [Privacy Policy](https://www.planetminecraft.com/privacy_policy "Privacy Policy")
+* [Contact Us](https://www.planetminecraft.com/contact/ "Contact Us")
 
-© 2010 - 2024  
+© 2010 - 2024 Cyprezz LLC  
 www.planetminecraft.com
+
+Planet Minecraft has a Progressive Web App!
+
+[_get\_app_ Install PMC APP](#confirm)
 
 Welcome
 -------
@@ -222,7 +232,7 @@ Welcome
 *  Dark mode
     
 
-//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=T9kVa\_mNK4oqqiO\_-HxUaBfhD1IRVxgYoh1A2x5t8Ij5BGJm,//www.planetminecraft.com/css/editor.css?v=JXg2qF5v-S8uAfYd4r9DPF80sC4h3eHDH-K6Fyux5F5ZWhVm
+//www.planetminecraft.com/css/fonts.css?v=iAIAFChsfiOXhFo1Q2xw8K3yBUtVao3WmHpU39GNnyc7p4lg,//www.planetminecraft.com/css/style.css?v=WIZca3d5rclSF9sJ-YFdxpo\_Isiu2MgErmJfZPD0IMKPg5pm,//www.planetminecraft.com/css/editor.css?v=voAwXHOwv9ksSGp3VJSMvfZZwng69B\_ZnIWLYDu5V5QGGZhm
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-abZiFQSKf0Mh-.gif)
 
@@ -236,11 +246,6 @@ Join us!
 [Sign in](https://www.planetminecraft.com/account/sign_in/ "Sign in with existing account") [Register](https://www.planetminecraft.com/account/create/ "Create new account")
 
   
-
-OR
-
-[Continue with Facebook](https://www.planetminecraft.com/account/sign_in/social/facebook/ "Continue with Facebook") [Continue with Google](https://www.planetminecraft.com/account/sign_in/social/google/ "Continue with Google") [Continue with Discord](https://www.planetminecraft.com/account/sign_in/social/discord/ "Continue with Discord")
-
   
 
 By signing in, you agree to Planet Minecraft's [Terms of Use](https://www.planetminecraft.com/terms_of_use "Terms of Use") and [Privacy Policy](https://www.planetminecraft.com/privacy_policy/ "Privacy Policy").
