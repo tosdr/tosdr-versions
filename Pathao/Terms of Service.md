@@ -43,8 +43,8 @@
     * [Pathao Safety Coverage NEW](https://pathao.com/insurance/ "Pathao Safety Coverage NEW")
     * [![](https://pathao.com/wp-content/uploads/2019/01/fb.png "Facebook")](https://www.facebook.com/pathaobd/)[![](https://pathao.com/wp-content/uploads/2019/01/twitter.png "Twitter")](https://twitter.com/pathaobd)[![](https://pathao.com/wp-content/uploads/2019/01/insta.png "Instagram")](https://www.instagram.com/pathaobd/?hl=en)[![](https://pathao.com/wp-content/uploads/2019/01/dribbble.png "Dribbble")](https://dribbble.com/Pathao)
 * [ENG](# "ENG")
-    * [English](https://pathao.com/?lang=en "English")
-    * [বাংলা](https://pathao.com/bn "বাংলা")
+    * [English](https://pathao.com/redirect?redirectTo=https%3A%2F%2Fpathao.com%2Fterms&lang=en "English")
+    * [বাংলা](https://pathao.com/redirect?redirectTo=https%3A%2F%2Fpathao.com%2Fbn%2Fterms "বাংলা")
 
 Terms and Policies
 ------------------
