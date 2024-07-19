@@ -29,23 +29,21 @@
     * [Contact preferences](http://about.att.com/privacy/privacy-notice/contact-preferences.html)
     * [Information that we collect and share (charts)](http://about.att.com/privacy/privacy-notice/state-disclosures.html)
     * [Recent privacy notice updates](#)
-* [State law approach](http://about.att.com/privacy/StateLawApproach.html)
-    * [California](http://about.att.com/privacy/StateLawApproach/california.html)
-        * [California metrics](http://about.att.com/privacy/StateLawApproach/california/ca-metrics.html)
-        * [Californians doing work for AT&T](http://about.att.com/privacy/StateLawApproach/california/ca-workers.html)
-        * [California business customers](http://about.att.com/privacy/StateLawApproach/california/ca-biz-customers.html)
-        * [Recent california updates](#)
-    * [Colorado](http://about.att.com/privacy/StateLawApproach/colorado.html)
-    * [Connecticut](http://about.att.com/privacy/StateLawApproach/connecticut.html)
-    * [Maine](http://about.att.com/privacy/StateLawApproach/Maine.html)
-    * [Nevada](http://about.att.com/privacy/StateLawApproach.html)
-    * [Utah](http://about.att.com/privacy/StateLawApproach/utah.html)
-    * [Virginia](http://about.att.com/privacy/StateLawApproach/virginia.html)
-    * [Washington Health Privacy Notice](http://about.att.com/privacy/StateLawApproach/washington-health-privacy-notice.html)
+* [State law approach](http://about.att.com/privacy/state-law-approach.html)
+    * [California](http://about.att.com/privacy/state-law-approach.html#california)
+        * [California metrics](http://about.att.com/privacy/state-law-approach/california/ca-metrics.html)
+        * [Californians doing work for AT&T](http://about.att.com/privacy/state-law-approach/california/ca-workers.html)
+        * [California business customers](http://about.att.com/privacy/state-law-approach/california/ca-biz-customers.html)
+    * [All other states](http://about.att.com/privacy/state-law-approach.html#colorado)
 * [Global approach](http://about.att.com/privacy/global_approach.html)
     * [AT&T website user privacy notice - most of world](http://about.att.com/privacy/global_approach/website-user-notice-mow.html)
     * [AT&T business customer privacy notice – most of world](http://about.att.com/privacy/global_approach/biz-notice-mow.html)
     * [AT&T Event Guest Privacy Notice](http://about.att.com/privacy/global_approach/event-guest-notice.html)
+* [Additional notices](http://about.att.com/privacy/additional-privacy-notices.html)
+    * [Biometric information privacy notice](http://about.att.com/privacy/privacy-notice/biometrics.html)
+    * [AT&T Event Guest Privacy Notice](http://about.att.com/privacy/global_approach/event-guest-notice.html)
+* [FAQs](http://about.att.com/privacy/state-law-approach/privacy-faq.html)
+    
 * [Transparency Report](http://about.att.com/privacy/transparencyreport.html)
     * [View on the web](https://about.att.com/csr/home/governance/transparency.html)
     * [Download the English PDF](http://about.att.com/ecms/dam/csr/privacy-redesign/Transparency-Report-EN.pdf)
@@ -151,11 +149,29 @@ Data helps us connect your world by creating dependable services and experiences
 #### HTML Editor Component  
 \*Contents may not have visible height
 
+Effective July 17th, we updated the contact information for questions regarding our privacy notices.
+
+**Previous Updates**
+
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
+* [June 2, 2023](#)
+* [January 1, 2023](#)
+* [June 6, 2022](#)
+* [April 8, 2022](#)
+* [November 1, 2021](#)
+* [October 1, 2021](#)
+* [August 26, 2021](#)
+* [June 16, 2021](#)
+
+×
+
 This updated [Privacy Notice](http://about.att.com/privacy/privacy-notice.html) is effective December 11, 2023. It is shorter, easier to understand, and includes updates to comply with new state privacy laws.
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -173,7 +189,8 @@ We are committed to providing you transparency by letting you know when we've ma
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -185,11 +202,21 @@ We are committed to providing you transparency by letting you know when we've ma
 
 ×
 
+Effective July 17th, we updated the contact information for questions regarding our privacy notices.
+
+* [July 17, 2024 \[current\]](#)
+* [April 19, 2024](#)
+* [January 12, 2024](#)
+* [October 10, 2023](#)
+
+×
+
 Effective April 19, 2024, we updated the notice to clarify that we collect and use location data for safety, security and fraud prevention services. We’ve also updated this notice to disclose that we share some electronic network information with our affiliates, and we will now use the recordings we already make of customer care calls to analyze employee engagement and for Workforce Analytics.
 
 **Previous Updates**
 
-* [April 19, 2024 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [April 19, 2024](#)
 * [January 12, 2024](#)
 * [October 10, 2023](#)
 
@@ -199,7 +226,8 @@ Effective January 12, 2024, we updated this notice to clarify that data from Com
 
 **Previous Updates**
 
-* [April 19, 2024 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [April 19, 2024](#)
 * [January 12, 2024](#)
 * [October 10, 2023](#)
 
@@ -207,7 +235,8 @@ Effective January 12, 2024, we updated this notice to clarify that data from Com
 
 Effective October 10, 2023, we updated this notice to clarify that biometrics may be used to identify individuals doing work for the company.
 
-* [April 19, 2024 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [April 19, 2024](#)
 * [January 12, 2024](#)
 * [October 10, 2023](#)
 
@@ -221,7 +250,8 @@ We are committed to transparency, so we want you to know we’re updating the AT
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -239,7 +269,8 @@ We are committed to providing you transparency by letting you know when we’ve 
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -257,7 +288,8 @@ We are committed to providing you transparency by letting you know when we’ve 
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -277,7 +309,8 @@ We value your business, and thank you for being a customer of AT&T.
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -297,7 +330,8 @@ We value your business, and thank you for being a customer of AT&T.
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -315,7 +349,8 @@ On October 1, 2021, the [Nevada Privacy law](https://legiscan.com/NV/text/SB260/
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -341,7 +376,8 @@ We value your business, and thank you for being a customer of AT&T.
 
 **Previous Updates**
 
-* [December 11, 2023 \[current\]](#)
+* [July 17, 2024 \[current\]](#)
+* [December 11, 2023](#)
 * [June 2, 2023](#)
 * [January 1, 2023](#)
 * [June 6, 2022](#)
@@ -385,24 +421,19 @@ We value your business, and thank you for being a customer of AT&T.
 
 **[Choices & controls](http://about.att.com/privacy/choices-and-controls.html)**
 
-[**State law approach**](http://about.att.com/privacy/StateLawApproach.html)
+[**State law approach**](http://about.att.com/privacy/state-law-approach.html)
 
-* [California](http://about.att.com/privacy/StateLawApproach/california.html)
-    * [California metrics](http://about.att.com/privacy/StateLawApproach/california/ca-metrics.html)
-    * [Californians doing work for AT&T](http://about.att.com/privacy/StateLawApproach/california/ca-workers.html)
-    * [California business customers](http://about.att.com/privacy/StateLawApproach/california/ca-biz-customers.html)
-    * [Recent California updates](#)
-* [Colorado](http://about.att.com/privacy/StateLawApproach/colorado.html)
-* [Connecticut](http://about.att.com/privacy/StateLawApproach/connecticut.html)
-* [Maine](http://about.att.com/privacy/StateLawApproach/Maine.html)
-* [Nevada](http://about.att.com/privacy/StateLawApproach.html)
-* [Utah](http://about.att.com/privacy/StateLawApproach/utah.html)
-* [Virginia](http://about.att.com/privacy/StateLawApproach/virginia.html)
+* [California](http://about.att.com/privacy/state-law-approach/california.html)
+    * [California metrics](http://about.att.com/privacy/state-law-approach/california/ca-metrics.html)
+    * [Californians doing work for AT&T](http://about.att.com/privacy/state-law-approach/california/ca-workers.html)
+    * [California business customers](http://about.att.com/privacy/state-law-approach/california/ca-biz-customers.html)
+* [All other states](http://about.att.com/privacy/state-law-approach.html#colorado)
 
 [**Global approach**](http://about.att.com/privacy/global_approach.html)
 
 * [Website user privacy notice](http://about.att.com/privacy/global_approach/website-user-notice-mow.html)
 * [Business customer privacy notice](http://about.att.com/privacy/global_approach/biz-notice-mow.html)
+* [AT&T Event Guest Privacy Notice](http://about.att.com/privacy/global_approach/event-guest-notice.html)
 
 **[Transparency Report](http://about.att.com/privacy/transparencyreport.html)**
 
