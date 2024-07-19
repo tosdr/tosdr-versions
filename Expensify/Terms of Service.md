@@ -1,4 +1,4 @@
-[![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2551/assets/img/expensify-wordmark.svg)](https://use.expensify.com/)
+[![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2674/assets/img/expensify-wordmark.svg)](https://use.expensify.com/)
 
 * [Product](https://use.expensify.com/product)
     * [Expense Management](https://use.expensify.com/expense-management)
@@ -18,10 +18,11 @@
     * [Track Expenses](https://use.expensify.com/track-expenses)
     * [Unlimited Virtual Cards](https://use.expensify.com/unlimited-virtual-cards)
     * [Expensify Chat](https://use.expensify.com/expensify-business-chat-app)
-    * [Split Expense](https://use.expensify.com/expensify-split-expense-app)
+    * [Split Expenses](https://use.expensify.com/expensify-split-expense-app)
     * [Group Chat](https://use.expensify.com/expensify-group-chat)
 * [Integrations](https://use.expensify.com/all-integrations)
 * [Industries](https://use.expensify.com/industries)
+    * [Accountants](https://use.expensify.com/expense-tracking-for-accountants)
     * [Churches](https://use.expensify.com/church-expenses)
     * [Construction](https://use.expensify.com/construction-expense-management)
     * [Legal Expense](https://use.expensify.com/legal-expense-tracking)
@@ -29,8 +30,8 @@
     * [Professional Services](https://use.expensify.com/professional-services-expense-tracking)
     * [Real Estate](https://use.expensify.com/tracking-real-estate-expenses)
     * [Schools & Universities](https://use.expensify.com/student-organization-expense-management)
-    * [Startups](https://use.expensify.com/startup-expense-management)
     * [Self-Employed](https://use.expensify.com/self-employed-expense-tracking)
+    * [Startups](https://use.expensify.com/startup-expense-management)
 * [Pricing](https://www.expensify.com/pricing)
 * [Blog](https://use.expensify.com/blog)
 * [Partners](https://use.expensify.com/partners)
@@ -562,4 +563,4 @@ The Expensify Visa® Commercial Card is issued by The Bancorp Bank, N.A. pursuan
 
 Money transmission is provided by Expensify Payments LLC (NMLS ID:2017010) pursuant to its [licenses](https://use.expensify.com/licenses).
 
-![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2553/assets/img/expensify-footer-logo--green.svg)
+![Expensify](https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2675/assets/img/expensify-footer-logo--green.svg)
