@@ -53,12 +53,12 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-IPt%E.'DE/AddrV@ZQgaYKf>Aes_$A07nxo#\\K\\i_s.com_I\__ Netwojf8C&rk UG _hw|_(ha~@3QiPrF~sX~fvP{"Ftu_cl}{"\_j_ng_{~R\*P_sbes_\-rA31zH}tv#_ch\*baw\*\[h&\_rä**"o5gD\*Q)**n~:6m\`#;X7By#~k_<wVN)\\7B0R,C_t**\_47'T**)  
-E_#%v2,sYp%-_rzbe =sXur**VK**ge~LS1{5\`Rf"~rstr. _|$\*K5Cn\\w(_14**i@1**A  
-D~&)TqTrh{v5mR~E ~@}~63/b96-71DZi-)F-292 Ki**%Kd0**r~hz+o^bu"\\F~c~7>Lk3WLBQ?,~h_\-90}Z@oc4OBi_hrw@j-ehnYm}e~KH}us\\APi$8\*~iv$88VFj'+987mbol_Dy9/U-?!_a~(V\*P~n_dbpi8}~#e{I_d_fXuV+(_en_XHZZ\\NS;R_  
+IoJ\_+?Ui78}P**{0J1\`i-%m**Ad0btzpv}ajsdress.P:o&4\`k>!jcom_&6(&g%WCIZ<_ Ne~|!2<7c4OqpV3~tw8)lot'g\*wyth!#Pr ;j;nk**\]So+9Dp** _dP_U_{m_G ~HF~(htgj\]aftuTKengs~{l,u~beschrzvO{?än~'oChd~k,V42d#bU2grt~ev>F~)  
+Erz~'dQ3Sz#easHJ~b_q\_\\B_em=y#jO1qr~~s\[FLxA#~g~}m<7\]~&pT~e~aU~~rs\_at_A\[bD\`_rx"o\`o\[ph~mn. 14A6uJJS$)  
+D_jw#ioc{ZO_E 6~|S~729_K\*9~yj&yO_2 ^+idBZ;Kir?F\\%c;.Ich_$\_)c_heiNHuiN^Wpm!ZlM2^,bo~{~\*Q@X~l**u3r-RD\\</**a%:<'q1iXJUWnRz.#4p|D9lU7d**!2(R=VNR**en_:E\\K\_y_  
   
-Telephone: +~rKjE@u1 M0~4963~42$R5**zid&Dvy${>HV**2750_qK\`y0|nV\]_1~\=s@?JA~5~c\]C'e0!&p\\s~15_OH_  
-Email: privZ|::D$L acyfQ\\q-c@1-9e:bN'ipaddressnetww\*\_ppE8'ork.com
+Telephone: +_@9"XXP{JJO_4963**caM&hKH&5YW?**5N@!db?xznY7#27zc5~M'B~:g.>>|2~0B\_15_\>shwE2rk)a_15\[,\`  
+Email: priv;X$0eUwsacy)-6 Y k@Bj:VrBQipaddressnetwo8Tx%OIRrk.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
@@ -252,6 +252,8 @@ My IP Address
 
 [What Is My IP](https://www.ipaddress.com/what-is-my-ip-address/)
 
+[Hide My IP Address](https://www.ipaddress.com/articles/ipaddress/hide-ip-address-software)
+
 [Lookup Tools](https://www.ipaddress.com/ip-tools)
 --------------------------------------------------
 
@@ -323,8 +325,6 @@ Learning Center
 
 [Blog Articles](https://www.ipaddress.com/articles/)
 
-[Hide Your IP Address](https://www.ipaddress.com/articles/hide-ip-address-software)
-
 Additional Help
 ---------------
 
@@ -346,7 +346,7 @@ Additional Help
 
 +4963527501515
 
-inDKqBCzNhfoVR<1T@6!4h5t<ipa:lS@ddress.com
+infT>+%o\=L!OW:o@qS0c8ipaddreF\_d(Ea49ss.com
 
 IP Tools
 --------
