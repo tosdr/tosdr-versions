@@ -2,7 +2,33 @@
 
 [Inspiration](https://dribbble.com/shots/popular)
 
-[Courses](https://dribbble.com/product-design)
+[Jobs](https://dribbble.com/jobs)
+
+[Go Pro](https://dribbble.com/pro)
+
+[](https://dribbble.com/)
+
+[Log in](https://dribbble.com/)
+
+[Jobs](https://dribbble.com/jobs)
+
+[Inspiration](https://dribbble.com/)
+
+[Designer search
+
+Quickly find your next designer](https://dribbble.com/designers)[Post your job
+
+The #1 job board for design talent](https://dribbble.com/jobs/new)
+
+[Go Pro](https://dribbble.com/pro)
+
+[Find designers](https://dribbble.com/hiring)
+
+[](https://dribbble.com/)
+
+[Find designers](http://dribbble.com/hiring)
+
+[Inspiration](https://dribbble.com/shots/popular)
 
 [Jobs](https://dribbble.com/jobs)
 
@@ -16,8 +42,6 @@
 
 [Inspiration](https://dribbble.com/)
 
-[Learn Design](https://dribbble.com/)
-
 [Designer search
 
 Quickly find your next designer](https://dribbble.com/designers)[Post your job
@@ -28,57 +52,11 @@ The #1 job board for design talent](https://dribbble.com/jobs/new)
 
 [Find designers](https://dribbble.com/hiring)
 
-[UX Diploma
-
-in partnership with UX Design Institute](https://dribbble.com/ux-diploma)[Live interactive workshops
-
-with design professionals](https://dribbble.com/workshops)
-
 [](https://dribbble.com/)
 
 [Find designers](http://dribbble.com/hiring)
 
 [Inspiration](https://dribbble.com/shots/popular)
-
-[Courses](https://dribbble.com/product-design)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Go Pro](https://dribbble.com/pro)
-
-[](https://dribbble.com/)
-
-[Log in](https://dribbble.com/)
-
-[Jobs](https://dribbble.com/jobs)
-
-[Inspiration](https://dribbble.com/)
-
-[Learn Design](https://dribbble.com/)
-
-[Designer search
-
-Quickly find your next designer](https://dribbble.com/designers)[Post your job
-
-The #1 job board for design talent](https://dribbble.com/jobs/new)
-
-[Go Pro](https://dribbble.com/pro)
-
-[Find designers](https://dribbble.com/hiring)
-
-[UX Diploma
-
-in partnership with UX Design Institute](https://dribbble.com/ux-diploma)[Live interactive workshops
-
-with design professionals](https://dribbble.com/workshops)
-
-[](https://dribbble.com/)
-
-[Find designers](http://dribbble.com/hiring)
-
-[Inspiration](https://dribbble.com/shots/popular)
-
-[Courses](https://dribbble.com/product-design)
 
 [Jobs](https://dribbble.com/jobs)
 
