@@ -1449,6 +1449,7 @@ Invoice Clients, Get Paid Fast!
 * [Technical Blog](https://invoiceninja.com/category/tech-blog/)
 * [Server Status](https://status.invoiceninja.com/)
 * [Branding Kit](https://invoiceninja.com/brand-kit/)
+* [EU eInvoicing](https://invoiceninja.com/e-invoicing/)
 
 * [Contact & Support](https://invoiceninja.com/contact-support/)
 * [Product Documentation](https://invoiceninja.github.io/)
@@ -1458,6 +1459,7 @@ Invoice Clients, Get Paid Fast!
 * [Technical Blog](https://invoiceninja.com/category/tech-blog/)
 * [Server Status](https://status.invoiceninja.com/)
 * [Branding Kit](https://invoiceninja.com/brand-kit/)
+* [EU eInvoicing](https://invoiceninja.com/e-invoicing/)
 
 ###### [Pricing](https://www.invoiceninja.com/pricing)
 
