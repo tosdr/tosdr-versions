@@ -38,9 +38,9 @@
 
 ###### Featured
 
-[Nielsen One](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
+[Nielsen ONE](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
 
-[![](/wp-content/uploads/sites/2/2022/12/nielsen-one-500.jpg)](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
+[![](https://www.nielsen.com/wp-content/uploads/sites/2/2024/07/solutions-dropdown-banner.jpg?w=1024)](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
 
 Media is more complex than ever. Discover the future of cross-media measurement with Nielsen ONE.
 
@@ -159,7 +159,7 @@ Solutions
 * [Media planning](https://www.nielsen.com/solutions/media-planning/)
 * [Marketing optimization](https://www.nielsen.com/solutions/marketing-optimization/)
 * [Content metadata](https://www.nielsen.com/solutions/content-metadata/)
-* [Nielsen One](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
+* [Nielsen ONE](https://www.nielsen.com/solutions/audience-measurement/nielsen-one/)
 
 Insights
 
@@ -238,28 +238,6 @@ en
 ##### Client Communications Privacy Notice
 
 [Learn more](https://www.nielsen.com/legal/communications-privacy-statement/)
-
-#### For Gracenote
-
-##### [Gracenote Privacy Notice](https://www.nielsen.com/legal/gracenote-privacy-statement/)
-
-[Learn more](https://www.nielsen.com/legal/gracenote-privacy-statement/)
-
-##### [Gracenote Services Privacy Notice](https://www.nielsen.com/legal/gracenote-services-privacy-statement/)
-
-[Learn more](https://www.nielsen.com/legal/gracenote-services-privacy-statement/)
-
-##### [Gracenote Sports Privacy Notice](https://www.nielsen.com/legal/gracenote-sports-privacy-statement/)
-
-[](https://www.nielsen.com/legal/privacy-principles/marketing-privacy-statement/)[Learn more](https://www.nielsen.com/legal/gracenote-sports-privacy-statement/)
-
-##### [Gracenote Terms of Use](https://www.nielsen.com/legal/gracenote-terms-of-use/)
-
-[Learn more](https://www.nielsen.com/legal/gracenote-terms-of-use/)
-
-##### [Gracenote Open Source Software](https://www.nielsen.com/legal/gracenote-open-source-notice/)
-
-[Learn more](https://www.nielsen.com/legal/gracenote-open-source-notice/)
 
 #### Need more help?
 
