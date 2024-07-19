@@ -7,11 +7,9 @@
 
 [* Tech Lover](https://www.pelando.com.br/tech-lover)[* Mundo Gamer](https://www.pelando.com.br/mundo-gamer)[* Tudo grátis](https://www.pelando.com.br/tudo-gratis)[* Para meu lar](https://www.pelando.com.br/para-meu-lar)[* Achadinhos importados](https://www.pelando.com.br/achadinhos-importados)[* Esporte e vida](https://www.pelando.com.br/esporte-e-vida)[* Para elas](https://www.pelando.com.br/para-elas)[* Para eles](https://www.pelando.com.br/para-eles)[* Cultura](https://www.pelando.com.br/cultura)[* Para minha família](https://www.pelando.com.br/para-minha-familia)[* É meme ou promo?](https://www.pelando.com.br/e-meme-ou-promo)
 
-[* Postar](https://www.pelando.com.br/postar "Postar")
-
 ![Imagem do usuário ](/assets/logoBannerLogin.webp)
 
-Login/Cadastro[Configurações](https://www.pelando.com.br/configuracoes)[Fale com o Pelando](https://www.pelando.com.br/atendimento)Temas[Deixe seu feedback!](https://pelando-site.ideas.userback.io/p/9RjeK84h82)[Lojas](https://www.pelando.com.br/cupons-de-descontos)
+Login/Cadastro[Configurações](https://www.pelando.com.br/configuracoes)[Fale com o Pelando](https://www.pelando.com.br/atendimento)[Blog](https://www.pelando.com.br/blog)Temas[Deixe seu feedback!](https://pelando-site.ideas.userback.io/p/9RjeK84h82)[Lojas](https://www.pelando.com.br/cupons-de-descontos)
 
 [Central de Ajuda](https://ajuda.pelando.com.br/hc/pt-br)[Termos de serviço](https://www.pelando.com.br/sobre/termos-de-uso)[Código de Conduta](https://www.pelando.com.br/sobre/codigo-de-conduta)[Privacidade](https://www.pelando.com.br/sobre/politica-de-privacidade)
 
@@ -271,7 +269,7 @@ Baixe o App
 
 [Google play](https://play.google.com/store/apps/details?id=com.tippingcanoe.pelando)[App store](https://apps.apple.com/br/app/pelando-promo%C3%A7%C3%B5es-e-cupons/id1045614200)
 
-Siga o Pelando[](https://www.instagram.com/pelandobr/ "Instagram Pelando")[](https://www.facebook.com/tapelando/ "Facebook Pelando")[](https://twitter.com/pelandobr "Twitter Pelando")[](https://www.tiktok.com/@pelandobr "Tiktok Pelando")
+Siga o Pelando[](https://www.instagram.com/pelandobr/ "Instagram Pelando")[](https://www.facebook.com/tapelando/ "Facebook Pelando")[](https://twitter.com/pelandobr)[](https://www.tiktok.com/@pelandobr "Tiktok Pelando")
 
 Acesse descontos  
 exclusivos no App
