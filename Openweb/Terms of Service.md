@@ -194,8 +194,6 @@ If you are a California resident, in accordance with Cal. Civ. Code § 1789.3, y
 
 * [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
 
-### [OpenWeb Help Center](https://support.openweb.com/hc/en-us)
-
 ### Resources:
 
 * [Case Studies](https://www.openweb.com/resources/#case-studies)
