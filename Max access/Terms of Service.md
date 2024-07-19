@@ -204,6 +204,7 @@ If you need to contact us, please use the website [https://maxaccess.io/contact
 
 [![](https://maxaccess.io/wp-content/uploads/2023/09/logo.png)](https://maxaccess.io/)
 
+Web Accessibility with Max Access  
 Copyright ©2024 Ability, Inc.
 
                                      
