@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
-        Pirates, police, parliament: Trung Luu's refugee story
+        MPs lead students on journey of service and sacrifice
         
-        Next](https://parliament.vic.gov.au/news/society/trung-luu)[Next
+        Next](https://parliament.vic.gov.au/news/general-news/kokoda24return)[Next
         
-        Students set for life-changing Kokoda trek with Victorian MPs
+        Youth facing financial and mental health challenges
         
-        Next](https://parliament.vic.gov.au/news/general-news/kokodatrek24)[Next
+        Next](https://parliament.vic.gov.au/news/society/young-victorians)[Next
         
-        State education inquiry’s powerful impact
+        Youth Parliament inspires a new generation
         
-        Next](https://parliament.vic.gov.au/news/society/eduhearingsend)
+        Next](https://parliament.vic.gov.au/news/general-news/yp24closing)
     
 * Visit Chevron-down
     
@@ -347,6 +347,7 @@ Footer Navigation
     * [Committees](https://parliament.vic.gov.au/committees)
     * [Our organisation](https://parliament.vic.gov.au/about/departments/)
     * [Careers](https://parliament.vic.gov.au/careers)
+    * [Publications and policies](https://parliament.vic.gov.au/about/publications/)
 * ### Visit Visit Minus Plus
     
     * [For schools](https://parliament.vic.gov.au/visit/schools/)
