@@ -16,19 +16,17 @@
 
 [Check Out NMA](https://drawabox.com/nma)    [About our Partnership](https://drawabox.com/announcement/NMA)    [Collapse this Ad](javascript:CloseAnnouncement('NMA'))
 
-The Summer Promptathon is Coming
-
-2024 • 06 • 24  -  2024 • 06 • 30
-
-The Summer Promptathon is Coming
-
-2024 • 06 • 24  -  2024 • 06 • 30
-
-[Click here for more info](https://drawabox.com/announcement/JFH3SDHK)
-
 [](javascript:ShowNextAnnouncement(false,'previous'))[](javascript:CloseAnnouncement())[](javascript:ShowNextAnnouncement(false,'next'))
 
 [](javascript:ShowNextAnnouncement(false,'next'))
+
+[](https://amzn.to/45JqVq9)
+
+[](https://amzn.to/3KUTasJ)
+
+[](https://amzn.to/4cDKBhz)
+
+[](https://amzn.to/2R8xkYn)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
@@ -93,7 +91,8 @@ By creating an account on, logging into or otherwise accessing and interacting o
 * Drawabox is sponsored by
 * [New Masters Academy](https://nma.art/learn)
 * You can get as much as 25% off your first
-* billing cycle using the code **DRAWABOX22**
+* billing cycle using the code **DRAWABOX**
+* applicable to Library and Library+ plans
 
 * Social Media
 * [Patreon](https://patreon.com/uncomfortable)
