@@ -116,6 +116,6 @@ If you have disabled one or more cookies, we may still use information collected
 
 [Cookie Policy](https://company.plugshare.com/cookies.html "Cookie Policy") [Privacy Policy](https://company.plugshare.com/privacy.html "Privacy Policy") [Terms of Use](https://company.plugshare.com/terms.html "Terms of Use")
 
-© 2024 PlugShare LLC. All rights reserved.
+Cookie Settings
 
-PlugShare.com uses [Cookies](https://company.plugshare.com/cookies.html) to help us understand how our features are used. We've recently updated our [Privacy Policy](https://company.plugshare.com/privacy.html). Accept
+© 2024 PlugShare LLC. All rights reserved.
