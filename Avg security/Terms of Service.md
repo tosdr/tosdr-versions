@@ -1,8 +1,8 @@
-[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003763/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
+[Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_menu) [Blog](https://www.avg.com/en/signal) [![](https://static2.avg.com/10003816/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();)
 
-![menu](https://static2.avg.com/10003763/web/i/components/menu-mobile.svg)
+![menu](https://static2.avg.com/10003816/web/i/components/menu-mobile.svg)
 
-[![AVG logo](https://static2.avg.com/10003763/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-us/homepage)
+[![AVG logo](https://static2.avg.com/10003816/web/i/other/avg-logo-v2.png)](https://www.avg.com/en-us/homepage)
 
 [Skip to content](#body-inner)
 
@@ -84,7 +84,7 @@
     * [Business Support & Contact](https://support.avg.com/business?l=en)
     * [Installation Files](https://www.avg.com/en-us/installation-files-business)
 
-[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003763/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[Log in to AVG MyAccount](https://myaccount.avg.com/my-account-login) [Blog](https://www.avg.com/en/signal) [English ![](https://static2.avg.com/10003816/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [< Back to AVG Policies](https://www.avg.com/en-us/policies)
 
@@ -496,7 +496,7 @@ The following special terms apply to certain Solutions. If these special terms c
 
 13.15.1. The limited warranty period established by Section [6.1](#limited-warranty-1) is extended for the Appliance to 1 year from the date of purchase (the “_Appliance Warranty Period_”).
 
-13.15.2. You must notify Vendor promptly if the Appliance is or becomes defective. If you notify Vendor of the defect during the Appliance Warranty Period and Vendor is unable to remedy the defect remotely, Vendor at its option and expense within 5business days will either: (a) replace the Appliance with a new or refurbished unit of the Appliance, in which case the warranty established by Section [6.1](https://www.avg.com/en-us/limited-warranty-1) will apply for the remainder of the Appliance Warranty Period applicable to the original unit of the Appliance; or (b) terminate your subscription and refund any unearned subscription fees you have previously paid. If the Appliance fails following the end of the Appliance Warranty Period, or if it fails because of misuse, tampering, interference, abuse, casualty, loss or theft, Vendor may charge you its standard price for the replacement unit of the Appliance. Vendor in its sole discretion may replace the Appliance with a new or different appliance that will also be subject to this Agreement (including Section [13.15](#special-terms-15)).
+13.15.2. You must notify Vendor promptly if the Appliance is or becomes defective. If you notify Vendor of the defect during the Appliance Warranty Period and Vendor is unable to remedy the defect remotely, Vendor at its option and expense within 5business days will either: (a) replace the Appliance with a new or refurbished unit of the Appliance, in which case the warranty established by Section [6.1](#limited-warranty-1) will apply for the remainder of the Appliance Warranty Period applicable to the original unit of the Appliance; or (b) terminate your subscription and refund any unearned subscription fees you have previously paid. If the Appliance fails following the end of the Appliance Warranty Period, or if it fails because of misuse, tampering, interference, abuse, casualty, loss or theft, Vendor may charge you its standard price for the replacement unit of the Appliance. Vendor in its sole discretion may replace the Appliance with a new or different appliance that will also be subject to this Agreement (including Section [13.15](#special-terms-15)).
 
 13.16. Mobile Threat Intelligence Platform
 
@@ -525,13 +525,6 @@ The following special terms apply to certain Solutions. If these special terms c
 13.16.7. For the avoidance of doubt, Sections [4](#ownership), [5.1.7](#restrictions-1.7), [5.1.11](#restrictions-1.11) and [5.3](#restrictions-3) (“_Pertinent Sections_”) shall be applicable to Your Content and your use of the MTIP (including uploading, publishing, displaying, distributing or making Your Content available on the MTIP). This Section [13.16](#special-terms-16) and the Pertinent Sections, to the greatest extent practicable, will be construed to be consistent with each other, but in the event of a conflict they will govern in the following order of precedence: (i) this Section [13.16](#special-terms-16); and (ii) the Pertinent Sections.
 
 [Please click here to view other EULAs (including archived versions)](https://www.avg.com/en-us/eula-all)
-
-![Chrome browser logo](https://static2.avg.com/10003763/web/i/other/ico-chrome-75.png)
-
-AVG recommends using  
-the **FREE** Chrome™ internet browser.
-
-[Download Chrome](https://www.google.com/chrome/browser/?brand=AVSF&installdataindex=googlehomepage&hl=en)
 
 #### About AVG
 
@@ -575,11 +568,11 @@ the **FREE** Chrome™ internet browser.
 * [LinkedIn](http://www.linkedin.com/company/avg)
 * [YouTube](https://www.youtube.com/user/officialAVG)
 
-[English ![](https://static2.avg.com/10003763/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
+[English ![](https://static2.avg.com/10003816/web/i/avg/img/components/languageselector/arrow-down.svg)](javascript:void();) 
 
 [Log in to AVG MyAccount](https://account.avg.com/?migration&utm_campaign=myaccount_web_footer)
 
-[Privacy](https://www.avg.com/en-us/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-us/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003763/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-us/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-us/subscription-details) |  
+[Privacy](https://www.avg.com/en-us/privacy) | [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) | [Contact security](https://www.avast.com/bug-bounty) | [License agreements](https://www.avg.com/en-us/eula)  | [Modern Slavery Statement](https://static2.avg.com/10003816/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Cookies](https://www.avg.com/en-us/cookies)  | [Accessibility Statement](https://www.avg.com/accessibility-policy) | [Do not sell or share my info](https://www.avg.com/do-not-sell) | [Subscription details](https://www.avg.com/en-us/subscription-details) |  
   [All third party trademarks are the property of their respective owners.](https://www.avg.com/en-us/trademarks) | © 2024 Gen Digital Inc. All rights reserved.
 
 [Skip to content](#body-inner) [Skip to menu](#navigation-links)
