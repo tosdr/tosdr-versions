@@ -33,14 +33,15 @@ Social
 * [X](https://x.com/OpenMediaVault)
 * [RSS](https://www.openmediavault.org/?feed=atom)
 
-Support
--------
+Resources
+---------
 
+* [Forum](https://forum.openmediavault.org/)
+* [Stores](https://www.openmediavault.org/?page_id=3749)
 * [Bugtracker](https://tracker.openmediavault.org/)
+* [Sourcecode](https://scm.openmediavault.org/)
 * [Documentation](https://docs.openmediavault.org/)
 * [API documentation](https://apidocs.openmediavault.org/)
-* [Forum](https://forum.openmediavault.org/)
-* [Sourcecode](https://scm.openmediavault.org/)
 
 Information
 -----------
