@@ -199,8 +199,6 @@ We do recommend the use of cookies for an optimal user experience of our Service
 
 * [OpenWeb for Advertisers](https://www.openweb.com/find-your-community/)
 
-### [OpenWeb Help Center](https://support.openweb.com/hc/en-us)
-
 ### Resources:
 
 * [Case Studies](https://www.openweb.com/resources/#case-studies)
