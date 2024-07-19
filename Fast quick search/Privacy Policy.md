@@ -1,8 +1,8 @@
-[![](/static/logos/fastquicksearch.com.svg)](https://www.fastquicksearch.com/?ueid=1FDEC16D-18C4-4082-88D7-EA20B40C99AD&ad=dirN "https://www.fastquicksearch.com/?ueid=1FDEC16D-18C4-4082-88D7-EA20B40C99AD&ad=dirN")
+[![](/static/logos/fastquicksearch.com.svg)](https://www.fastquicksearch.com/?ueid=75422B56-6AA5-4D3C-906B-D12A211E5837&ad=dirN "https://www.fastquicksearch.com/?ueid=75422B56-6AA5-4D3C-906B-D12A211E5837&ad=dirN")
 
 Ask Media Group Privacy Policy
 
-**Effective Date: January 1, 2023**
+**Effective Date: July 17, 2024**
 
 ### SECTIONS IN THIS PRIVACY POLICY
 
@@ -17,7 +17,7 @@ Ask Media Group Privacy Policy
         1. [How and Why We Collect, Use, and Disclose Your Personal Information](#IV)
         2. [Consumer Rights](#V)
     3. [VIRGINIA](#C)
-    4. [COLORADO AND CONNECTICUT](#D)
+    4. [COLORADO, CONNECTICUT, OREGON AND MONTANA](#D)
     5. [UTAH](#E)
     6. [NEVADA](#F)
 4. [HOW TO EXERCISE YOUR RIGHTS](#4)
@@ -187,9 +187,9 @@ To exercise the above listed rights, follow the steps indicated below in [HOW TO
 
 Right to Opt-Out of Targeted Advertising. You may request that we stop using or sharing your Personal Data for Targeted Advertising by managing your cookie preferences. You can access your cookie preferences by clicking the Do Not Sell or Share My Personal Information link on the footer of our Site.
 
-### D. COLORADO AND CONNECTICUT
+### D. COLORADO, CONNECTICUT, OREGON AND MONTANA
 
-This section applies to Colorado Consumers as defined by the Colorado Privacy Act (**“CPA”**) and Connecticut Consumers as defined by the Connecticut Data Privacy Act (**“CTDPA”**) that use our Sites. Capitalized terms defined in the CPA and CTDPA that are used in this section shall have the same meaning as in the CPA and CTDPA respectively. In the event of any conflict between this section and the other sections of this Privacy Policy, this section shall govern for Colorado and Connecticut residents.
+This section applies to Colorado Consumers as defined by the Colorado Privacy Act (**"CPA"**), Connecticut Consumers as defined by the Connecticut Data Privacy Act (**"CTDPA"**), Oregon Consumers as defined by the Oregon Consumer Privacy Act (**"OCPA"**) and Montana Consumers as defined by the Montana Consumer Data Privacy Act (**"MCDPA"**) that use our Sites. In the event of any conflict between this section and the other sections of this Privacy Policy, this section shall govern for Colorado, Connecticut, Oregon and Montana residents. Capitalized terms defined in the aforementioned state privacy laws that are used in this section shall have the same meaning as in such state privacy laws.
 
 You can learn more about the Personal Data we Process in [INFORMATION WE COLLECT, HOW WE COLLECT IT, HOW WE USE IT, AND WHY WE SHARE IT](#2). We Process your Personal Data for Targeted Advertising. You have the right to opt-out of the Processing of your Personal Data for Targeted Advertising, as described below.
 
@@ -211,7 +211,7 @@ You may also opt out of the Sale of your Personal Data or Targeted Advertising t
 
 Right to Opt-Out of Profiling. We do not engage in Profiling that results in decisions that produce legal or similarly significant effects, and as such this right is not applicable.
 
-### F. UTAH
+### E. UTAH
 
 This section applies starting December 31, 2023 to Utah Consumers as defined by the Utah Consumer Privacy Act (“UCPA”) that use our Sites. Capitalized terms defined in the UCPA that are used in this section shall have the same meaning as in the UCPA. In the event of any conflict between this section and the other sections of this Privacy Policy, this section shall govern for Utah residents.
 
@@ -302,9 +302,9 @@ Data Protection Officer
 1955 Broadway, Suite 350  
 Oakland, CA 94612
 
-* [Privacy Policy](https://www.fastquicksearch.com/privacy?ueid=1FDEC16D-18C4-4082-88D7-EA20B40C99AD&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.fastquicksearch.com/terms?ueid=1FDEC16D-18C4-4082-88D7-EA20B40C99AD&ad=dirN "Terms of Service")
-* [About us](https://www.fastquicksearch.com/about?ueid=1FDEC16D-18C4-4082-88D7-EA20B40C99AD&ad=dirN "About us")
+* [Privacy Policy](https://www.fastquicksearch.com/privacy?ueid=75422B56-6AA5-4D3C-906B-D12A211E5837&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.fastquicksearch.com/terms?ueid=75422B56-6AA5-4D3C-906B-D12A211E5837&ad=dirN "Terms of Service")
+* [About us](https://www.fastquicksearch.com/about?ueid=75422B56-6AA5-4D3C-906B-D12A211E5837&ad=dirN "About us")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
