@@ -1,10 +1,14 @@
 [Skip to main content](#main-content)
 
+**IT issues:** Trains are running normally but some customer systems have been affected by a global IT outage on Friday 19 July. Please allow more time for journeys to get your tickets and pass through ticket gates.
+
+[Check your journey](https://www.gwr.com/travel-information/travel-updates/check-your-journey)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-Travel updatesGood service
+(2) Travel updatesDisruption
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
@@ -34,7 +38,7 @@ Terms and conditions
 Key terms
 ---------
 
-1. Your use of the Site is governed by these Terms so please take a few minutes to read over the Terms below. These Terms form a legally binding agreement between you and us and set out our liability to you, and your liability to us, in the unlikely event that anything goes wrong. If you buy tickets via the Site, that purchase is additionally governed by the [National Rail Conditions of Travel](http://www.nationalrail.co.uk/times_fares/46427.aspx)\*.  
+1. Your use of the Site is governed by these Terms so please take a few minutes to read over the Terms below. These Terms form a legally binding agreement between you and us and set out our liability to you, and your liability to us, in the unlikely event that anything goes wrong. If you buy tickets via the Site, that purchase is additionally governed by the [National Rail Conditions of Travel](https://www.nationalrail.co.uk/travel-information/your-rights-and-obligations-as-a-passenger/)\*.  
       
     
 2. Any personal information you provide to us will be dealt with in accordance with our [Privacy and Cookies Policy](https://www.gwr.com/privacy-policy).  
