@@ -307,6 +307,6 @@ Download Our Free **NeuroStim TMS Therapy** Brochure
 
 [Find Nearest TMS Center](https://neurostimtms.com/find-nearest-tms-treatment-center/)
 
-[![New Locations Map](https://neurostimtms.com/wp-content/uploads/2024/05/New-Locations-Map.png "New Locations Map")](https://neurostimtms.com/find-nearest-tms-treatment-center/)
+[![TMS therapy washington](https://neurostimtms.com/wp-content/uploads/2024/05/New-Locations-Map.png "TMS therapy washington")](https://neurostimtms.com/find-nearest-tms-treatment-center/)
 
 © Copyright 2017-2024 | NeuroStim TMS
