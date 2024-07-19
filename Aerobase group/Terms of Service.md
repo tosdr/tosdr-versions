@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
-* [Congress wants to restore nukes on conventional B-52 bombers](https://www.defensenews.com/air/2024/06/18/congress-wants-to-restore-nukes-on-conventional-b-52-bombers/)  
-    06/18/24 03:34pm  
+* [How the Swedish Air Force is finding its flow as part of NATO](https://www.defensenews.com/global/europe/2024/07/17/how-the-swedish-air-force-is-finding-its-flow-as-part-of-nato/)  
+    07/17/24 12:37pm  
     
-    A B-52 Stratofortress assigned to the 2nd Bomb Wing at Barksdale Air Force Base, La., takes off in support of a Bomber Task Force mission from Navy Support Facility, Diego Garcia, March 26, 2024. Congress is moving to restore the ability to carry and release nuclear weapons from about 30 B-52s, which were converted to only carry conventional weapons as part of the New START treaty. (Master Sgt. Staci Kasischke/Air Force)
+    A Swedish Air Force Gripen jet prepares to take off from Orland Air Base during the The Arctic Fighter Meet exercises west of Trondheim, Norway, on Aug. 23, 2023. (Photo by Jonathan Nackstrand/AFP via Getty Images)
     
-* [How many F-35s to buy? Draft defense bills disagree](https://www.defensenews.com/air/2024/06/17/how-many-f-35s-to-buy-draft-defense-bills-disagree/)  
-    06/17/24 03:40pm  
+* [Embraer banks on Farnborough Airshow to boost C-390 cargo plane sales](https://www.defensenews.com/global/the-americas/2024/07/16/embraer-banks-on-farnborough-airshow-to-boost-c-390-cargo-plane-sales/)  
+    07/16/24 02:00am  
     
-    Two F-35s from Hill Air Force Base, Utah, return to base after participating in a competition at the Savannah Air National Guard base in Savannah, Ga., on Sept. 15, 2023. (Senior Airman Zachary Rufus/U.S. Air Force)
+    An Embraer C-390 Millennium military transport aircraft, used by Brazil's Air Force, is pictured at the Farnborough Airshow near London on July 19, 2022. (Photo by Justin Tallis/AFP via Getty Images)
     
-* [No 30-year-old drone wingmen: US Air Force eyes regular CCA overhauls](https://www.defensenews.com/air/2024/06/15/no-30-year-old-drone-wingmen-us-air-force-eyes-regular-cca-overhauls/)  
-    06/14/24 11:49pm  
+* [How Europe’s next-generation combat jet aims to catch the AI wave](https://www.defensenews.com/global/europe/2024/07/15/how-europes-next-generation-combat-jet-aims-to-catch-the-ai-wave/)  
+    07/15/24 03:19am  
     
-    A conceptual design of low-cost, attritable drones serving as wingmen for a crewed fighter jet. (U.S. Air Force)
+    This photograph taken on June 18, 2023, shows a mock-up of the European Next Generation Fighter (NGF) for the Future Combat Air System (FCAS), under development by Dassault Aviation, Airbus and Indra Sistemas, during the International Paris Air Show at the Paris Le Bourget Airport. (Photo by Julien de Rosa/AFP via Getty Images)
     
-* [Romania launches expansion of air base near Ukraine](https://www.defensenews.com/global/europe/2024/06/13/romania-launches-expansion-of-air-base-near-ukraine/)  
-    06/13/24 04:50pm  
+* [Italy Air Force eyes new tanker competition after dropping Boeing buy](https://www.defensenews.com/global/europe/2024/07/12/italian-air-force-eyes-airbus-tankers-after-dropping-boeing-planes/)  
+    07/12/24 01:36pm  
     
-    A Eurofighter Typhoon with the British Royal Air Force takes off at the Mihail Kogalniceanu Air Base in Romania. (Elisabeth Gosselin-Malo/Staff)
+    An Airbus A330 Multi Role Tanker Transport refuels an F-16D fighter from the Republic of Singapore Air Force. (Airbus)
     
 
 Recent parts by keyword  
 
-* [AP4500](https://aerobasegroup.com/search/?term=AP4500)
-* [l43418](https://aerobasegroup.com/search/?term=l43418)
-* [33c](https://aerobasegroup.com/search/?term=33c)
-* [nasm970](https://aerobasegroup.com/search/?term=nasm970)
-* [ms24667-32](https://aerobasegroup.com/search/?term=ms24667-32)
-* [pr-1664d](https://aerobasegroup.com/search/?term=pr-1664d)
-* [kw205s-dp](https://aerobasegroup.com/search/?term=kw205s-dp)
+* [342a-bf](https://aerobasegroup.com/search/?term=342a-bf)
+* [d947](https://aerobasegroup.com/search/?term=d947)
+* [mil-c-5544](https://aerobasegroup.com/search/?term=mil-c-5544)
+* [hc3213-4-10](https://aerobasegroup.com/search/?term=hc3213-4-10)
+* [nsn5-97-500-7722](https://aerobasegroup.com/search/?term=nsn+5975-00-772-2342)
+* [pg68-50-009-7507](https://aerobasegroup.com/search/?term=pg-6850-00-975-0712)
+* [nw000396](https://aerobasegroup.com/search/?term=nw000396)
 
 The AeroBase Group Family ..
 
