@@ -20,6 +20,7 @@
 * [Resources](#)
     * [Help Desk](https://help.optery.com/en/)
     * [Blog](https://www.optery.com/blog/)
+    * [For High-Risk Communities](https://www.optery.com/opterys-resources-for-high-risk-communities/)
     * [About Us](https://www.optery.com/about-us/)
     * [Opt Out Guides](https://www.optery.com/opt-out-guides/)
     * [Product Updates](https://www.optery.com/product-updates/)
@@ -46,6 +47,7 @@
 * [Resources](#)
     * [Help Desk](https://help.optery.com/en/)
     * [Blog](https://www.optery.com/blog/)
+    * [For High-Risk Communities](https://www.optery.com/opterys-resources-for-high-risk-communities/)
     * [About Us](https://www.optery.com/about-us/)
     * [Opt Out Guides](https://www.optery.com/opt-out-guides/)
     * [Product Updates](https://www.optery.com/product-updates/)
@@ -399,6 +401,8 @@ Product
 [Optery for Business](https://www.optery.com/business/)
 
 [API for Partners](https://www.optery.com/api/)
+
+[Global Privacy Control Extension](https://www.optery.com/the-optery-global-privacy-control-gpc-extension/)
 
 Support
 
