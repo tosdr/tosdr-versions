@@ -36,7 +36,7 @@ NBCU Privacy Center
 * [California Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act)
 * [Privacy FAQs](https://www.nbcuniversal.com/privacy/privacy-faqs)
 
-Last Updated: March 28, 2024
+Last Updated: July 1, 2024
 
 * English
 * Ceština
@@ -63,7 +63,7 @@ Last Updated: March 28, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/95 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?brandA=Peacock&intake=Peacock "Printer Friendly, PDF & Email")
 
 NBCUniversal Privacy Policy
 ===========================
@@ -147,7 +147,7 @@ WHEN WE SHARE YOUR INFORMATION
 
 We may disclose your information to:
 
-* **Related Companies:** NBCUniversal Affiliates, such as Sky, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you and to other existing and potential customers. We may share identification and demographics, device information and identifiers, and research and feedback for purposes such as improving and tailoring services.  In addition business information may be shared for business operational purposes. For Fandango Brands, including Fandango, Flixster, MovieTickets.com, Vudu, RottenTomatoes, and Activaterewards.com, they may also share data with Warner Bros., as outlined in [Fandango's Privacy Policy](https://www.fandango.com/policies/privacy-policy).
+* **Related Companies:** NBCUniversal Affiliates, such as Sky, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you and to other existing and potential customers. We may share identification and demographics, device information and identifiers, and research and feedback for purposes such as improving and tailoring services.  In addition business information may be shared for business operational purposes. For Fandango Brands, including Fandango, Fandango at Home, Flixster, MovieTickets.com, Vudu, RottenTomatoes, and Activaterewards.com, they may also share data with Warner Bros., as outlined in [Fandango's Privacy Policy](https://www.fandango.com/policies/privacy-policy).
 
 * **Advertisers, Advertising Networks, and Other Third Parties:** We may disclose information about how you use the NBCUniversal Services and interact with content or ads to better tailor services, products, marketing and advertising on our Services and on third-party platforms. To enable these purposes, we may share certain demographics and interest information, user-generated content, device information and identifiers, connection and usage data, geolocation data, public and commercial information, and social media information. These third parties may use their own tracking technologies to collect or request information about you, please see our [Cookie Notice](https://www.nbcuniversal.com/privacy/cookies) for details.
 
@@ -229,7 +229,7 @@ Some NBCUniversal Services can only be provided if we have your information, the
 
 We will take reasonable steps to verify your identity, including authenticating you through the email address. We may require further documentation such as a password and user ID before granting access to your information.
 
-California, Colorado, Connecticut, Utah, and Virginia residents with rights under local law may click [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32) and in California, Colorado, and Connecticut their authorized agents may click [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32) for access, correction or deletion requests. Alternatively, California and Colorado residents or their authorized agents may call 1-800-447-0663 to make these requests. California residents may view annual California consumer request metrics [here](https://nbcuniversal.com/privacy/ccpa-metric).
+California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia residents with rights under local law may click [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32) and in California, Colorado, Connecticut, Montana, Oregon and Texas their authorized agents may click [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32) for access, correction, or deletion requests. Alternatively, California and Colorado residents or their authorized agents may call 1-800-447-0663 to make these requests. California residents may view annual California consumer request metrics [here](https://nbcuniversal.com/privacy/ccpa-metric).
 
 U.S. residents who wish to learn more about access, correction or deletion requests may click [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/0d464fc0-b948-4f6a-9f31-9939ef36dfe2). If you are a California resident business contact and want to make a request, please click [here](https://www.nbcuniversal.com/privacy/app-form-b2b)
 
@@ -237,20 +237,20 @@ If you are based outside the U.S. and would like to exercise any individual righ
 
 Your rights and our responses will vary based on your state or country of residency. Please note that you may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request.  In such a case, your request may not be fulfilled. If you have any unresolved concerns, you may have the right to complain to your data protection authority.
 
-Colorado, Connecticut, and Virginia residents may appeal the denial of a request [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/3952d5cd-63c4-485a-85ee-86c42ccb6a2f). We will respond within the legally required time period, including a written explanation of the results of your appeal.
+Colorado, Connecticut, Montana, Oregon, Texas and Virginia residents may appeal the denial of a request [here](https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/3952d5cd-63c4-485a-85ee-86c42ccb6a2f). We will respond within the legally required time period, including a written explanation of the results of your appeal.
 
 Where NBCUniversal acts as a service provider for third-party organizations, such as sports leagues and clubs, please contact your organizations directly to exercise any applicable individual’s rights. 
 
-**“Privacy Choices”: Do Not Sell or Share or Process My Personal Information for Targeted Advertising (California, Colorado, Connecticut, Utah, and Virginia Residents only)**
+**“Privacy Choices”: Do Not Sell or Share or Process My Personal Information for Targeted Advertising (California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia Residents only)**
 
-* California, Colorado, Connecticut, Utah, and Virginia residents may opt out of the “sale” of their personal information.  Such residents may also opt out of the sharing or processing of their personal information for targeted advertising.
+* California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia residents may opt out of the “sale” of their personal information.  Such residents may also opt out of the sharing or processing of their personal information for targeted advertising.
     * We provide third parties such as advertisers and advertising networks (including social media networks) information including identification and demographics; device information and identifiers, such as IP address, and unique advertising identifiers and cookies; connection and usage information, such as browsing history or app usage; hashed identifiers \[contact information\], geolocation information, such as city; and inference data in order to enable marketing to you and delivery of targeted advertising on the NBCUniversal Services or other sites.  Advertising, including targeted advertising, enables NBCUniversal to provide you certain content for free and provide relevant offers to you.  The disclosure of such personal information listed above to these third parties to assist us in providing these services may be considered a “sale” of personal information under applicable law and is sharing of personal information and the processing of personal information for targeted advertising purposes.
 
 If you or (in certain states where required by law) your authorized agent would like to opt out of NBCUniversal’s use or disclosure of your information for such purposes (to the extent this is considered a sale, share, or targeted advertising), you may do so in the footer or settings menu of the brand with which you engage by selecting “Your Privacy Choices” link.
 
 You may still receive advertising, including personalized ads based on NBCUniversal data on the Services. On some of our websites and applications when you click the “Your Privacy Choices” link in the website footer or in the application settings menu, you will be shown a tool that allows you to opt out of the online “sales” and sharing/processing of personal information for targeted ads on the website and application.  Please note, if you use different browsers, devices, or services you will need to make your elections separately. In some cases, you may also be presented with form field to complete, in those cases we ask for your email address or other information so we may add it to an appropriate suppression list. In other cases, you will be directed to this page where we provide additional information and options for you to learn more about your choices and how to opt out from interest-based advertising more broadly.
 
-Please note, if we do not detect that you are in California, Colorado, Connecticut, Utah or Virginia, the opt out of sale or sharing/processing for targeted advertising data choices will not apply even if you take the actions described above.  
+Please note, if we do not detect that you are in California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia, the opt out of sale or sharing/processing for targeted advertising data choices will not apply even if you take the actions described above. 
 
 Please note that if you have a legally recognized browser-based opt out preference signal turned on via your device browser (such as Global Privacy Control), we recognize such preference in accordance and to the extent required by applicable law.  
  
