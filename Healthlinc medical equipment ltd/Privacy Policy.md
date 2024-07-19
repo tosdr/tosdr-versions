@@ -295,7 +295,7 @@ Copyright © 2024 HME Home Health Ltd.
 
 [![HME BBB Business Review](https://www.hmebc.com/wp-content/themes/UWD/images/footer/bbbseal.png)](https://www.bbb.org/ca/bc/richmond/profile/stair-lift/hme-0037-1289551/#sealclick)
 
-          
+        
 
 Name:
 
