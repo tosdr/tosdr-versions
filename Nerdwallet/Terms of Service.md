@@ -3,11 +3,11 @@ Credit cards
 * Credit cards
 * [View all credit cards](https://www.nerdwallet.com/h/category/credit-cards?trk=nw_gn_6.0)
 
-Best credit cards[Best credit cards](https://www.nerdwallet.com/the-best-credit-cards?trk=nw_gn_6.0)[Best bonus offer credit cards](https://www.nerdwallet.com/best/credit-cards/bonus-offers?trk=nw_gn_6.0)[Best balance transfer credit cards](https://www.nerdwallet.com/best/credit-cards/balance-transfer?trk=nw_gn_6.0)[Best travel credit cards](https://www.nerdwallet.com/best/credit-cards/travel?trk=nw_gn_6.0)[Best cash back credit cards](https://www.nerdwallet.com/best/credit-cards/cash-back?trk=nw_gn_6.0)[Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/low-interest?trk=nw_gn_6.0)[Best rewards credit cards](https://www.nerdwallet.com/best/credit-cards/rewards?trk=nw_gn_6.0)[Best airline credit cards](https://www.nerdwallet.com/best/credit-cards/airline?trk=nw_gn_6.0)[Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)[Best credit cards for groceries](https://www.nerdwallet.com/best/credit-cards/groceries?trk=nw_gn_6.0)
+Best credit cards[Best credit cards](https://www.nerdwallet.com/the-best-credit-cards?trk=nw_gn_6.0)[Best bonus offer credit cards](https://www.nerdwallet.com/best/credit-cards/bonus-offers?trk=nw_gn_6.0)[Best balance transfer credit cards](https://www.nerdwallet.com/best/credit-cards/balance-transfer?trk=nw_gn_6.0)[Best travel credit cards](https://www.nerdwallet.com/best/credit-cards/travel?trk=nw_gn_6.0)[Best cash back credit cards](https://www.nerdwallet.com/best/credit-cards/cash-back?trk=nw_gn_6.0)[Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/zero-percent?trk=nw_gn_6.0)[Best rewards credit cards](https://www.nerdwallet.com/best/credit-cards/rewards?trk=nw_gn_6.0)[Best airline credit cards](https://www.nerdwallet.com/best/credit-cards/airline?trk=nw_gn_6.0)[Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)[Best credit cards for groceries](https://www.nerdwallet.com/best/credit-cards/groceries?trk=nw_gn_6.0)
 
 [Compare credit cards](https://www.nerdwallet.com/compare/credit-cards?trk=nw_gn_6.0)
 
-Get a card recommendation[Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)[Travel rewards and perks](https://www.nerdwallet.com/recommend/primary-goal/travel?trk=nw_gn_6.0)[Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)[Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)[Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)
+Get a card recommendation[Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)[Travel rewards and perks](https://www.nerdwallet.com/recommend/primary-goal/travel?trk=nw_gn_6.0)[Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)[Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)[Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)[Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
 
 [Credit card reviews](https://www.nerdwallet.com/article/credit-cards/credit-card-reviews?trk=nw_gn_6.0)
 
@@ -28,6 +28,8 @@ Resources
 [Managing credit card debt](https://www.nerdwallet.com/h/category/managing-credit-card-debt?trk=nw_gn_6.0)
 
 [Credit card resources](https://www.nerdwallet.com/h/category/credit-card-resources?trk=nw_gn_6.0)
+
+[Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
 
 Banking
 
@@ -54,7 +56,7 @@ Home
 
 Mortgage rates[Today's mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates?trk=nw_gn_6.0)[30 year mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates/30-year-fixed?trk=nw_gn_6.0)[5-year ARM rates](https://www.nerdwallet.com/mortgages/mortgage-rates/5-1-arm?trk=nw_gn_6.0)[3-year ARM rates](https://www.nerdwallet.com/mortgages/mortgage-rates/3-1-arm?trk=nw_gn_6.0)[FHA mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates/fha?trk=nw_gn_6.0)[VA mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates/va?trk=nw_gn_6.0)[Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
 
-Best mortgage lenders[Mortgage guide](https://www.nerdwallet.com/h/category/mortgages?trk=nw_gn_6.0)[Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)[Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)[Best lenders for low- and no-down-payment](https://www.nerdwallet.com/best/mortgages/no-and-low-down-payment-lenders?trk=nw_gn_6.0)[Best VA mortgage lenders](https://www.nerdwallet.com/best/mortgages/va-mortgage-lenders?trk=nw_gn_6.0)
+Best mortgage lenders[Mortgage guide](https://www.nerdwallet.com/h/category/mortgages?trk=nw_gn_6.0)[Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)[Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/lenders-for-fha-loans?trk=nw_gn_6.0)[Best lenders for low- and no-down-payment](https://www.nerdwallet.com/best/mortgages/no-and-low-down-payment-lenders?trk=nw_gn_6.0)[Best VA mortgage lenders](https://www.nerdwallet.com/best/mortgages/va-mortgage-lenders?trk=nw_gn_6.0)
 
 Refinance and HELOC[Refinancing and equity guide](https://www.nerdwallet.com/h/category/refinancing-and-equity?trk=nw_gn_6.0)[Today's refinance rates](https://www.nerdwallet.com/mortgages/rates/refinance?trk=nw_gn_6.0)[Best refinance lenders](https://www.nerdwallet.com/best/mortgages/refinance-lenders?trk=nw_gn_6.0)[30-year fixed refinance rates](https://www.nerdwallet.com/mortgages/refinance-rates/30-year-fixed?trk=nw_gn_6.0)[15-year fixed refinance rates](https://www.nerdwallet.com/mortgages/refinance-rates/15-year-fixed?trk=nw_gn_6.0)[Best cash-out refinance lenders](https://www.nerdwallet.com/best/mortgages/cash-out-refinance-lenders?trk=nw_gn_6.0)[Best HELOC Lenders](https://www.nerdwallet.com/best/mortgages/heloc-lenders?trk=nw_gn_6.0)
 
@@ -73,15 +75,15 @@ Loans
 * Loans
 * [Loans guide](https://www.nerdwallet.com/h/category/loans?trk=nw_gn_6.0)
 
-Personal loans[Personal loans guide](https://www.nerdwallet.com/h/category/personal-loans?trk=nw_gn_6.0)[Getting a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/how-to-get-a-personal-loan?trk=nw_gn_6.0)[Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)[Managing a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/manage-personal-loan-payments?trk=nw_gn_6.0)[Personal loan reviews](https://www.nerdwallet.com/h/reviews/personal-loan-reviews?trk=nw_gn_6.0)[Compare top lenders](https://www.nerdwallet.com/personal-loans?trk=nw_gn_6.0)[Pre-qualify for a personal loan](https://www.nerdwallet.com/personal-loans/pre-qualify?trk=nw_gn_6.0)[Personal loan calculator](https://www.nerdwallet.com/calculator/personal-loan-calculator?trk=nw_gn_6.0)
+Personal loans[Personal loans guide](https://www.nerdwallet.com/h/category/personal-loans?trk=nw_gn_6.0)[Getting a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/how-to-get-a-personal-loan?trk=nw_gn_6.0)[Payday Loan Alternatives](https://www.nerdwallet.com/p/loans/personal-loans/alternatives-to-payday-loans?trk=nw_gn_6.0)[Managing a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/manage-personal-loan-payments?trk=nw_gn_6.0)[Personal loan reviews](https://www.nerdwallet.com/h/reviews/personal-loan-reviews?trk=nw_gn_6.0)[Compare top lenders](https://www.nerdwallet.com/personal-loans?trk=nw_gn_6.0)[Pre-qualify for a personal loan](https://www.nerdwallet.com/personal-loans/pre-qualify?trk=nw_gn_6.0)[Personal loan calculator](https://www.nerdwallet.com/calculator/personal-loan-calculator?trk=nw_gn_6.0)
 
 Types of personal loans
 
-[Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/consolidation-loans?trk=nw_gn_6.0)
+[Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans?trk=nw_gn_6.0)
 
 [Best personal loans](https://www.nerdwallet.com/best/loans/personal-loans/best-personal-loans?trk=nw_gn_6.0)
 
-[High interest loan alternatives](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
+[Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
 
 [Best quick cash loans](https://www.nerdwallet.com/best/loans/personal-loans/quick-personal-loans-fast-cash?trk=nw_gn_6.0)
 
@@ -197,7 +199,7 @@ Taxes
 
 [Tax strategy and planning](https://www.nerdwallet.com/h/category/tax-strategy-planning?trk=nw_gn_6.0)
 
-Tax preparation and filing[View all tax preparation and filing](https://www.nerdwallet.com/h/category/tax-preparation-filing?trk=nw_gn_6.0)[Tax credits and deductions](https://www.nerdwallet.com/h/category/tax-credits-deductions?trk=nw_gn_6.0)[Tax forms](https://www.nerdwallet.com/h/category/tax-forms?trk=nw_gn_6.0)[Tax software and products](https://www.nerdwallet.com/h/category/tax-software-products?trk=nw_gn_6.0)[Tax preparation basics](https://www.nerdwallet.com/h/category/tax-preparation-basics?trk=nw_gn_6.0)[NerdWallet tax filing](https://www.nerdwallet.com/p/file-taxes-online?trk=nw_gn_6.0)
+Tax preparation and filing[View all tax preparation and filing](https://www.nerdwallet.com/h/category/tax-preparation-filing?trk=nw_gn_6.0)[Tax credits and deductions](https://www.nerdwallet.com/h/category/tax-credits-deductions?trk=nw_gn_6.0)[Tax forms](https://www.nerdwallet.com/h/category/tax-forms?trk=nw_gn_6.0)[Tax software and products](https://www.nerdwallet.com/p/best/taxes/tax-software?trk=nw_gn_6.0)[Tax preparation basics](https://www.nerdwallet.com/h/category/tax-preparation-basics?trk=nw_gn_6.0)[NerdWallet tax filing](https://www.nerdwallet.com/p/file-taxes-online?trk=nw_gn_6.0)
 
 [Tax brackets and rates](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets?trk=nw_gn_6.0)
 
@@ -221,6 +223,8 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
         
     * Guides and resources
         
+    * [Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
+        
     * [View all credit cards](https://www.nerdwallet.com/h/category/credit-cards?trk=nw_gn_6.0)
         
     
@@ -229,7 +233,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Best balance transfer credit cards](https://www.nerdwallet.com/best/credit-cards/balance-transfer?trk=nw_gn_6.0)
     * [Best travel credit cards](https://www.nerdwallet.com/best/credit-cards/travel?trk=nw_gn_6.0)
     * [Best cash back credit cards](https://www.nerdwallet.com/best/credit-cards/cash-back?trk=nw_gn_6.0)
-    * [Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/low-interest?trk=nw_gn_6.0)
+    * [Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/zero-percent?trk=nw_gn_6.0)
     * [Best rewards credit cards](https://www.nerdwallet.com/best/credit-cards/rewards?trk=nw_gn_6.0)
     * [Best airline credit cards](https://www.nerdwallet.com/best/credit-cards/airline?trk=nw_gn_6.0)
     * [Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)
@@ -239,6 +243,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)
     * [Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)
     * [Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)
+    * [Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
     * [Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)
     
     * [Balance transfer savings calculator](https://www.nerdwallet.com/article/credit-cards/balance-transfer-calculator?trk=nw_gn_6.0)
@@ -337,7 +342,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
     
     * [Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
-    * [Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
+    * [Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/lenders-for-fha-loans?trk=nw_gn_6.0)
     * [Best lenders for low- and no-down-payment](https://www.nerdwallet.com/best/mortgages/no-and-low-down-payment-lenders?trk=nw_gn_6.0)
     * [Best VA mortgage lenders](https://www.nerdwallet.com/best/mortgages/va-mortgage-lenders?trk=nw_gn_6.0)
     * [Mortgage guide](https://www.nerdwallet.com/h/category/mortgages?trk=nw_gn_6.0)
@@ -387,7 +392,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
         
     
     * [Getting a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/how-to-get-a-personal-loan?trk=nw_gn_6.0)
-    * [Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
+    * [Payday Loan Alternatives](https://www.nerdwallet.com/p/loans/personal-loans/alternatives-to-payday-loans?trk=nw_gn_6.0)
     * [Managing a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/manage-personal-loan-payments?trk=nw_gn_6.0)
     * [Personal loan reviews](https://www.nerdwallet.com/h/reviews/personal-loan-reviews?trk=nw_gn_6.0)
     * [Compare top lenders](https://www.nerdwallet.com/personal-loans?trk=nw_gn_6.0)
@@ -411,9 +416,9 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     
     Types of personal loans
     
-    * [Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/consolidation-loans?trk=nw_gn_6.0)
+    * [Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans?trk=nw_gn_6.0)
     * [Best personal loans](https://www.nerdwallet.com/best/loans/personal-loans/best-personal-loans?trk=nw_gn_6.0)
-    * [High interest loan alternatives](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
+    * [Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
     * [Best quick cash loans](https://www.nerdwallet.com/best/loans/personal-loans/quick-personal-loans-fast-cash?trk=nw_gn_6.0)
     * [Best emergency loans](https://www.nerdwallet.com/best/loans/personal-loans/emergency-loans?trk=nw_gn_6.0)
     * [Best home improvement loans](https://www.nerdwallet.com/best/loans/personal-loans/personal-loans-home-improvement?trk=nw_gn_6.0)
@@ -632,7 +637,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     
     * [Tax credits and deductions](https://www.nerdwallet.com/h/category/tax-credits-deductions?trk=nw_gn_6.0)
     * [Tax forms](https://www.nerdwallet.com/h/category/tax-forms?trk=nw_gn_6.0)
-    * [Tax software and products](https://www.nerdwallet.com/h/category/tax-software-products?trk=nw_gn_6.0)
+    * [Tax software and products](https://www.nerdwallet.com/p/best/taxes/tax-software?trk=nw_gn_6.0)
     * [Tax preparation basics](https://www.nerdwallet.com/h/category/tax-preparation-basics?trk=nw_gn_6.0)
     * [NerdWallet tax filing](https://www.nerdwallet.com/p/file-taxes-online?trk=nw_gn_6.0)
     * [View all tax preparation and filing](https://www.nerdwallet.com/h/category/tax-preparation-filing?trk=nw_gn_6.0)
@@ -652,7 +657,7 @@ NerdWallet Terms of Use
 
 NerdWallet Terms of Use
 
-Last Updated March 7, 2024
+Last Updated June 25, 2024
 
 These Terms of Use (“Terms”) set forth the terms and conditions that apply to your access and use of all NerdWallet products and services (together, the “Services”), and that are made available through our websites including but not limited to www.nerdwallet.com and www.nerdwalletwire.com, as well as through certain downloadable mobile applications (such websites or mobile applications, the “Site”). In the Terms, “NerdWallet” or “we” means NerdWallet, Inc. and its affiliates and subsidiaries (and their predecessors in interest, successors and assigns), and “you” refers to the individual using the Services and, if such individual is using the Services on behalf of an entity or organization, then such entity or organization (and each of your successors and assigns). The Services are intended for U.S. residents only and may include, but are not limited to, free credit score; access to third-party rewards programs; platforms that enable users to locate and contact U.S. financial services, as well as professionals, such as third-party experts, advocates, and advisors, who can provide various services; financial planning services, discussion forums, community forums, bulletin boards, review services, and forums in which users may ask questions of third-party advisors; and platforms that enable users to apply to pre-qualify for certain credit card or loan offers.
 
@@ -690,7 +695,13 @@ d) Tax Preparation. NerdWallet offers members access to tax preparation software
 
 e) NerdUp by NerdWallet Credit Card. You may be eligible to apply for the NerdUp by NerdWallet Credit Card (the “NerdUp Card”), which is a charge card secured by a deposit account, both of which are issued by Evolve Bank & Trust, Member FDIC (“Bank”). You may apply for the NerdUp Card through the NerdWallet Mobile App or on the NerdWallet Website. During the application process and periodically thereafter, you will be presented with certain agreements, disclosures, notices, and other information (“Bank Documents”) governing your relationship with the Bank as it pertains to the card, account, and related services described in the Bank Documents (“Bank Services”). Bank is the financial institution that provides the Bank Services. NerdWallet facilitates the delivery of Bank Services by obtaining, processing, and sharing your information and transaction instructions with Bank, but NerdWallet does not hold or transfer your money or extend credit to you. NerdWallet may offer its own services, or the services of other third-parties, that are separate from the Bank Services described in the Bank Documents (“Non-Bank Services”). Bank is not responsible or liable for the Non-Bank Services, even if the Non-Bank Services are financial in nature and seem related to the Bank Services. Please refer to the terms and conditions governing the Non-Bank Services for more information. In the event of a conflict between the Bank Documents and these Terms or any other terms governing Non-Bank Services, the Bank Documents will control, but only as they relate to the Bank Services.
 
-f) NerdWallet Advisory LLC (aka NerdWallet Advisors). NerdWallet Advisory provides personalized financial planning (also referred to as “financial counseling” or “financial coaching”) services to individual investors (“Clients”) via a monthly or annual subscription plan. The financial planning services are designed to help Clients begin to assess their financial situation by looking at such things as budgeting, debt management, saving, retirement, insurance, and short- and long-term financial goals. Financial planning services are provided through consultations with NerdWallet Advisory investment adviser representatives that generally are also licensed as a Certified Financial Planner™. In order to enroll in financial planning services, Clients enter into a separate client agreement with NerdWallet Advisory that governs the advisory relationship (“Client Agreement”). In the event of a conflict between the Client Agreement and these Terms, the Client Agreement will control for the financial planning services provided by NerdWallet Advisory. For the avoidance of doubt, these Terms do not govern the financial planning services provided by NerdWallet Advisory, and nothing in these Terms is intended to waive or limit NerdWallet Advisory’s fiduciary duty or any rights Clients may have under federal or state securities laws.
+f) NerdWallet Advisory LLC (aka NerdWallet Advisors).
+
+i) NerdWallet Advisory provides personalized financial planning (also referred to as “financial counseling” or “financial coaching”) services to individual investors (“Clients”) via a subscription plan or one-time meeting fee. The financial planning services are designed to help Clients begin to assess their financial situation by looking at such things as budgeting, debt management, saving, retirement, insurance, and short- and long-term financial goals. Financial planning services are provided through consultations with NerdWallet Advisory investment adviser representatives that generally are also licensed as a Certified Financial Planner™. In order to enroll in financial planning services, Clients enter into a separate client agreement with NerdWallet Advisory that governs the advisory relationship (“Client Agreement”). In the event of a conflict between the Client Agreement and these Terms, the Client Agreement will control for the financial planning services provided by NerdWallet Advisory. For the avoidance of doubt, these Terms do not govern the financial planning services provided by NerdWallet Advisory, and nothing in these Terms is intended to waive or limit NerdWallet Advisory’s fiduciary duty or any rights Clients may have under federal or state securities laws.
+
+ii) NerdWallet Advisory also offers an automated financial plan service called “NerdWallet Coach powered by Uprise” through third-party provider Ontrail, Inc. (dba Uprise). In order to enroll in the NerdWallet Coach product powered by Uprise, Clients enter into a separate agreement with Uprise. These Terms govern your relationship with NerdWallet Advisory.
+
+iii) NerdWallet Advisory offers a product called NerdWallet Advisors Match that allows you to complete an online questionnaire about your financial needs and match with a third-party financial advisor that has elected to participate in our matching platform based on information gathered from users through the online questionnaire. NerdWallet Advisory receives compensation from advisers for our matching and referral services. NerdWallet Advisory does not review the ongoing performance of any adviser, participate in the management of any user’s account by the adviser, or provide advice regarding specific investments. The NerdWallet Advisory Match product helps users connect with relevant financial advisors. If you choose to engage the financial advisory, you will need to enter into a separate agreement with the advisor that governs your relationship with them. For the avoidance of doubt, these Terms govern your relationship with NerdWallet Advisory when you use NerdWallet Advisory Match.
 
 3. Third-Party Services.
 
