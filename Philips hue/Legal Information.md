@@ -7,7 +7,7 @@
     * [Philips-hue.com exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
     * [What's new?](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Last chance sale](https://www.philips-hue.com/en-us/products/promotions/last-chance-sale)
-    * [Create your own starter kit](https://www.philips-hue.com/en-us/products/promotions/create-your-own-starter-kit)
+    * [Summer Sale](https://www.philips-hue.com/en-us/products/promotions/us)
     * [Go to shop](https://www.philips-hue.com/en-us/products)
     
     Popular
