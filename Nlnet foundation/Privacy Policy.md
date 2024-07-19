@@ -129,11 +129,11 @@ NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/
 
 * [More news](https://nlnet.nl/news)
 
-[![bluehats logo, three blue hats](/image/ic_hat.svg)
+[![](/image/ic_hand.svg)
 
-##### Nominate FOSS projects
+##### Want to help?
 
-Nominate Free Software Projects for the four €10.000 BlueHats Prizes.](https://nlnet.nl/bluehatsprize/)
+Help us by protecting open source and its users with 5 minutes of your time.](https://nlnet.nl/help)
 
 [![icon of a flower](/image/ic_flower.svg)
 
