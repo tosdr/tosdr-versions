@@ -1,8 +1,12 @@
-\-->   End User Agreement | Our Terms & Agreements | August Home                                                                                 [Accessibility Statement](https://august.com/pages/accessibility)
+\-->   End User Agreement | Our Terms & Agreements | August Home                                                                                       [Accessibility Statement](https://august.com/pages/accessibility)
 
 [Skip To Main Content](#mainContentDivider)
 
  [![Yale](https://cdn.shopify.com/s/files/1/1354/7835/files/Secondary_Gray_-_2020_-_RGB_2x_79e15df4-8d99-4352-bdda-652bfcb57cf0.png?v=1615919455)](https://shopyalehome.com/?utm_source=august.com&utm_medium=referral&utm_campaign=cobrand_toggle)![August](https://cdn.shopify.com/s/files/1/1354/7835/files/August-Logo-white-110x36.png?v=1617137811)
+
+Sale Extended | Shop Our 30% Off Sale For A Limited-Time
+
+[Save Now](https://august.com/pages/sale)
 
 Shop new **Yale Approach™ Lock with Wi-Fi + Keypad Touch**
 
@@ -30,7 +34,9 @@ Starting at $129.99
 
 Smart Lock
 
-$199.99](https://august.com/products/august-smart-lock-connect)
+$199.99
+
+##### SALE](https://august.com/products/august-smart-lock-connect)
 
 Bundles
 
@@ -93,6 +99,8 @@ Yale Approach™ Lock with Wi-Fi
 Starting at $129.99
 
 \>](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
+
+##### SALE
 
 Smart Lock
 
@@ -482,7 +490,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/332/assets/icon-newsletter-submit.svg?v=83048686797684669771715102014) 
+Submit ![](//august.com/cdn/shop/t/338/assets/icon-newsletter-submit.svg?v=83048686797684669771721255266) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
