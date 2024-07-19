@@ -42,7 +42,7 @@
     * [Portal de escolarización](https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/infantil-a-bachillerato "Portal de escolarización")
     * [Distrito Único Andaluz](https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=grados "Distrito Único Andaluz")
     * [Formación Profesional](https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/fp "Formación Profesional")
-    * [PASEN](https://seneca.juntadeandalucia.es/seneca/jsp/portalpasen/ "PASEN")
+    * [Matriculación](https://www.juntadeandalucia.es/temas/estudiar/fp/matriculacion.html "Matriculación")
     * [Portal del Docente](https://www.juntadeandalucia.es/educacion/portaldocente/ "Portal del Docente")
     
 * [Trabajar](https://www.juntadeandalucia.es/temas/trabajar.html "Trabajar")
@@ -68,7 +68,7 @@
     * [Ofertas de empleo](https://ws054.juntadeandalucia.es/eureka2/eureka-demandantes/busquedaOfertas.do?seleccionado=/es/empleo/ofertasEmpleo/ "Ofertas de empleo")
     * [SIPRI](https://www.juntadeandalucia.es/educacion/sipri/inicio/ "SIPRI ")
     * [Cursos de formación estatal para el empleo](https://juntadeandalucia.es/organismos/sae/servicios/cursos-fpe-estatal.html "Cursos de formación estatal para el empleo")
-    * [Oposiciones](https://www.juntadeandalucia.es/institutodeadministracionpublica/publico/seleccionjunta.filter?cu=15 "Oposiciones")
+    * [Oposiciones](https://www.juntadeandalucia.es/organismos/iaap/areas/empleo-publico/procesos-selectivos.html "Oposiciones")
     
 * [Tu salud](https://www.juntadeandalucia.es/temas/salud.html "Tu salud")
     
@@ -198,10 +198,10 @@
     Directo a
     
     * [Grado de Discapacidad. Procedimiento para el reconocimiento, calificación y val…](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/69.html "Grado de Discapacidad. Procedimiento para el reconocimiento, calificación y val…")
+    * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html "Registro de Turismo de Andalucía (RTA): inscripción")
     * [Familia Numerosa: Expedición, Renovación y Modificación del Título](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/7.html "Familia Numerosa: Expedición, Renovación y Modificación del Título")
-    * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html " Registro de Turismo de Andalucía (RTA): inscripción")
-    * [Admisión y matriculación para ciclos formativos de Grado Medio y Superior y de …](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/8362.html "Admisión y matriculación para ciclos formativos de Grado Medio y Superior y de …")
     * [Licencia de pesca marítima de recreo en aguas interiores](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/114.html "Licencia de pesca marítima de recreo en aguas interiores")
+    * [Registro de Certificados Energéticos Andaluces](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/1807.html "Registro de Certificados Energéticos Andaluces")
     
 * [Noticias](https://www.juntadeandalucia.es/noticias.html "Noticias")
     
@@ -314,7 +314,13 @@ Responsable de la información publicada:
 
 [Junta de Andalucía](https://www.juntadeandalucia.es/)
 
-[Formulario online](https://www.juntadeandalucia.es/haciendayadministracionpublica/ceisgformweb/formulario012.faces "Formulario online")
+Información adicional
+
+Para solicitar más información llama a los teléfonos [012](tel:+012) o [955 012 012](tel:+34955012012).
+
+O escríbenos a través del [formulario de consultas del Servicio 012](https://www.juntadeandalucia.es/haciendayadministracionpublica/ceisgformweb/formulario012.faces).
+
+También tienes también a tu disposición otros [Canales de atención a la ciudadanía](https://www.juntadeandalucia.es/servicios/tramites/atencion-ciudadania/canales-ciudadania.html).
 
 Índice
 
