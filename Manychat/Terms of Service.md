@@ -1,12 +1,3 @@
-Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account! \*Valid for new accounts only
-
-Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account! \*Valid for new accounts only
-
-[Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account!  
-\*Valid for new accounts only
-
-Learn more](https://manychat.com/)
-
 [Get Started](https://manychat.com/signup)[Sign In](https://manychat.com/signin)
 
 Product
@@ -29,6 +20,14 @@ by Business Type
 
 [for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)[for Restaurants](https://restaurants.manychat.com/)
 
+[### Grow your followers
+
+Learn more](https://get.manychat.com/grow?utm_source=google&utm_medium=pmax&utm_id=20738073809&utm_campaign=pmax-global-instagram&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbwmanltghVojC7BN-iwiMt9k7X-gkx4cbwgJt72EIr4jTWuGJfpFeBoCdOoQAvD_BwE)
+
+[### Link in bio’ is soooo 2016. Use DMs instead
+
+Learn more](https://get.manychat.com/rip-link-in-bio?utm_source=google&utm_medium=search&utm_id=21316176890&utm_campaign=LIB&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb-JxDM2SKIeu1yceQR6p29jucrNz1d1C-0YEG24wRaJY1BiEgwZ_zRoCQZsQAvD_BwE)
+
 Agencies
 
 [![](https://mccdn.me/martech/next-lp//_next/static/media/find_agency.9a9db1ea.svg)
@@ -43,13 +42,17 @@ Resources
 
 Learn
 
-[Blog](https://manychat.com/blog/)[Help Center](https://support.manychat.com/support/home)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
+[Blog](https://manychat.com/blog/)[Help Center](https://help.manychat.com/)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
 
 Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
 
+[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
+
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
+
+[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
 
 EnEsPt
 
@@ -85,6 +88,14 @@ by Business Type
 
 [for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)[for Restaurants](https://restaurants.manychat.com/)
 
+[### Grow your followers
+
+Learn more](https://get.manychat.com/grow?utm_source=google&utm_medium=pmax&utm_id=20738073809&utm_campaign=pmax-global-instagram&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbwmanltghVojC7BN-iwiMt9k7X-gkx4cbwgJt72EIr4jTWuGJfpFeBoCdOoQAvD_BwE)
+
+[### Link in bio’ is soooo 2016. Use DMs instead
+
+Learn more](https://get.manychat.com/rip-link-in-bio?utm_source=google&utm_medium=search&utm_id=21316176890&utm_campaign=LIB&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb-JxDM2SKIeu1yceQR6p29jucrNz1d1C-0YEG24wRaJY1BiEgwZ_zRoCQZsQAvD_BwE)
+
 Agencies
 
 [![](https://mccdn.me/martech/next-lp//_next/static/media/find_agency.9a9db1ea.svg)
@@ -103,7 +114,7 @@ Resources
 
 Learn
 
-[Blog](https://manychat.com/blog/)[Help Center](https://support.manychat.com/support/home)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
+[Blog](https://manychat.com/blog/)[Help Center](https://help.manychat.com/)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
 
 Get Inspired
 
@@ -395,7 +406,7 @@ Subject to these Terms of Service, we grant you a non-exclusive, non-transferabl
 
 You hereby grant to us a perpetual, irrevocable, worldwide, sublicensable, non-exclusive, non-transferable, royalty-free license and right to use, copy, modify and distribute your Applications and Integration Products.  You shall retain ownership of your Applications and Integration Products.  By using the Manychat Dev Program you do not acquire ownership of any rights in the Manychat Dev Program, Manychat’s data or content or the Services.
 
-We reserve the right, with or without notice and for any reason, to (i) cease providing, alter, modify or disable the Manychat Dev Program or provide new tools and related services, (ii) charge fees for access or use of the Manychat Dev Program, (iii) provide or cease providing support for the Manychat Dev Program, (iv) deactivate or remove your access to the Manychat Dev Program, (v) accept, reject, suspend or remove your Integration Products and Applications from the Services for any reason, (vi) make your Applications and Integration Products publicly available or private in accordance with our Review Process outlined at support.Manychat.com/support/home, and (vii) independently develop products or services that may compete with your Applications and/or Integration Products or other products and services.  You agree that Manychat may monitor and audit your use of the Manychat Dev Program to ensure compliance with these Terms of Service.  You will assist us with such monitoring and/or auditing by providing us with information on your Applications and/or Integration Products and data and security practices.
+We reserve the right, with or without notice and for any reason, to (i) cease providing, alter, modify or disable the Manychat Dev Program or provide new tools and related services, (ii) charge fees for access or use of the Manychat Dev Program, (iii) provide or cease providing support for the Manychat Dev Program, (iv) deactivate or remove your access to the Manychat Dev Program, (v) accept, reject, suspend or remove your Integration Products and Applications from the Services for any reason, (vi) make your Applications and Integration Products publicly available or private in accordance with our Review Process outlined at help.Manychat.com/, and (vii) independently develop products or services that may compete with your Applications and/or Integration Products or other products and services.  You agree that Manychat may monitor and audit your use of the Manychat Dev Program to ensure compliance with these Terms of Service.  You will assist us with such monitoring and/or auditing by providing us with information on your Applications and/or Integration Products and data and security practices.
 
 You acknowledge and agree that we provide access to the Manychat Dev Program “as-is” and “as-available” without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of the Manychat Dev Program. You acknowledge and agree to comply with the documentation and resources published from time to time by Manychat regarding the use of the Manychat Dev Program.
 
@@ -501,6 +512,8 @@ Transform more conversations into sales, leads, and conversions today
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-white.93c1c234.svg)](https://manychat.com/)
 
+[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
+
 Manychat
 
 * [About](https://manychat.com/about)
@@ -525,7 +538,7 @@ Product
 Resources
 
 * [Status Page](https://status.manychat.com/)
-* [Help Center](https://support.manychat.com/support/home)
+* [Help Center](https://help.manychat.com/)
 * [Community](https://community.manychat.com/)
 * [Video Course](https://manychat.com/resources/video-course)
 * [How To](https://manychat.com/resources/how-to)
