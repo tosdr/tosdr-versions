@@ -147,8 +147,8 @@
 * [Company](https://www.arubacloud.com/company/about-aruba.aspx)
     * [About us](https://www.arubacloud.com/company/about-aruba.aspx)
     * [Certifications](https://www.aruba.it/en/certifications.aspx)
-    * [Aruba Cloud MotoE Team](https://www.arubacloud.com/aruba-cloud-motoe-racing-team.aspx)
     * [Data protection in Cloud services](https://www.arubacloud.com/data-protection-in-our-services.aspx)
+    * [Aruba Cloud MotoE Team](https://www.arubacloud.com/aruba-cloud-motoe-racing-team.aspx)
     * [Why Choose Aruba](https://www.arubacloud.com/why-choose-aruba.aspx)
         
         * [10 GOOD REASONS to choose Aruba Cloud](https://www.arubacloud.com/why-choose-aruba.aspx#totop)
@@ -270,8 +270,8 @@ Are you a new customer? Try our services with up to €100 of free credit
 
 * [About us](https://www.arubacloud.com/company/about-aruba.aspx)
 * [Certifications](https://www.aruba.it/en/certifications.aspx)
-* [Aruba Cloud MotoE Team](https://www.arubacloud.com/aruba-cloud-motoe-racing-team.aspx)
 * [Data protection in Cloud services](https://www.arubacloud.com/data-protection-in-our-services.aspx)
+* [Aruba Cloud MotoE Team](https://www.arubacloud.com/aruba-cloud-motoe-racing-team.aspx)
 * [Why Choose Aruba](https://www.arubacloud.com/why-choose-aruba.aspx)
 * [News](https://www.arubacloud.com/company/news.aspx)
 * [Partners](https://www.arubacloud.com/company/partners.aspx)
@@ -322,8 +322,8 @@ CLOUD WORLD
 
 * [About us](https://www.arubacloud.com/company/about-aruba.aspx)
 * [Certifications](https://www.aruba.it/en/certifications.aspx)
-* [Aruba Cloud MotoE Team](https://www.arubacloud.com/aruba-cloud-motoe-racing-team.aspx)
 * [Data protection in Cloud services](https://www.arubacloud.com/data-protection-in-our-services.aspx)
+* [Aruba Cloud MotoE Team](https://www.arubacloud.com/aruba-cloud-motoe-racing-team.aspx)
 * [Why Choose Aruba](https://www.arubacloud.com/why-choose-aruba.aspx)
 * [News](https://www.arubacloud.com/company/news.aspx)
 * [Partners](https://www.arubacloud.com/company/partners.aspx)
