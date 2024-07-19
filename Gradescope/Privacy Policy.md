@@ -1,6 +1,6 @@
 [![Gradescope](https://cdn.gradescope.com/assets/logo/logo_endorsed-ea37018bcd9aefba905d7cf51c16e0979ca8d5eb43fae7c26a66230fc01e285b.svg)](https://www.gradescope.com/)
 
-[Get Started](https://www.gradescope.com/get_started)[Help](https://help.gradescope.com/)[Terms](https://www.gradescope.com/tos)[Privacy](https://www.gradescope.com/privacy)
+[Get Started](https://www.gradescope.com/get_started)[Help](https://guides.gradescope.com/hc/en-us)[Terms](https://www.gradescope.com/tos)[Privacy](https://www.gradescope.com/privacy)
 
 Privacy Policy
 ==============
@@ -715,17 +715,17 @@ This privacy policy was last modified on March 7, 2023.
 
 Features
 
-[Grade Written Exams](https://help.gradescope.com/article/h7ztxl9164)
+[Grade Written Exams](https://guides.gradescope.com/hc/en-us/articles/22244660005901)
 
-[Grade Homework](https://help.gradescope.com/article/h7ztxl9164)
+[Grade Homework](https://guides.gradescope.com/hc/en-us/articles/23589161520141)
 
 [Run Code Autograders](https://gradescope-autograders.readthedocs.io/en/latest)
 
-[Grade Bubble Sheets](https://help.gradescope.com/article/gkwvq606fq)
+[Grade Bubble Sheets](https://guides.gradescope.com/hc/en-us/articles/22246010755853)
 
 Resources
 
-[Help Center](https://help.gradescope.com/)
+[Help Center](https://guides.gradescope.com/hc/en-us)
 
 [Video Tutorials](https://www.gradescope.com/get_started)
 
@@ -733,7 +733,7 @@ Resources
 
 [Pricing](https://www.gradescope.com/pricing)
 
-[FAQ](https://help.gradescope.com/category/czisb9ar5e)
+[FAQ](https://guides.gradescope.com/hc/en-us/categories/21540059263117)
 
 Company
 
