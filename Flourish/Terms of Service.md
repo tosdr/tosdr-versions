@@ -388,4 +388,4 @@ London N1 6NN
 
 [Privacy](https://flourish.studio/privacy)
 
-[8 ways to visualize financial market data Read our latest blog posts »](https://flourish.studio/blog)
+[How to create animated 3D point maps without coding Read our latest blog posts »](https://flourish.studio/blog)
