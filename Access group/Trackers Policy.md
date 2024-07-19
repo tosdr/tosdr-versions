@@ -69,8 +69,25 @@ United Kingdom Australia & New Zealand Singapore Malaysia United States Ireland
     * [Our Giving Back Culture](https://www.theaccessgroup.com/en-gb/not-for-profit/giving-back/)
     * [Our Global Operations Centres](https://www.theaccessgroup.com/en-gb/about/our-global-operations-centres/)
     * [Our Offices](https://www.theaccessgroup.com/en-gb/about/our-offices/)
+    * [Sustainability](https://www.theaccessgroup.com/en-gb/about/sustainability/)
     
     Latest  News
+    
+    ![](/media/11gaw1gh/group_.jpg?anchor=center&mode=crop&width=350&height=450&rnd=133650772356500000)
+    
+    Posted 10th July 2024
+    
+    The Access Group champions global causes, raising £1.3million
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-champions-global-causes-raising-1-3million/)
+    
+    ![](/media/bdqhzrcx/picture1_loughborough-university-students-design-sustainable-and-creative-office-wear.png?anchor=center&mode=crop&width=350&height=450&rnd=133638789198070000)
+    
+    Posted 26th June 2024
+    
+    Loughborough University students design sustainable and creative office wear as part of competition
+    
+    [Read more](https://www.theaccessgroup.com/en-gb/about/news/loughborough-university-students-design-sustainable-and-creative-office-wear-as-part-of-competition/)
     
     ![](/media/l4gf0ixu/couple-collaborating-evo-hi-res.jpg?center=0.40713451647890281,0.69400103211811637&mode=crop&width=350&height=450&rnd=133626558714530000)
     
