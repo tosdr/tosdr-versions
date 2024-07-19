@@ -2,7 +2,7 @@ Join CTO Moataz Soliman as he explores the potential impact poor performance can
 
 [UPDATES
 
-Instabug just got cooler! Check out In-App Surveys, features & experiments, web views monitoring and more in this Winter’s updates.](https://www.instabug.com/blog/winter-2024-product-updates)
+Perfect your app’s user experience with Instabug’s Flows, Feature Flags, AI visual insights and much more this Summer!](https://instabug.com/launch)
 
 [![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627d2a2524a45baccfc69ebf_LogoOnDark.svg)![Instabug Logo](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627d2a253b5874d74cc35bf1_LogoOnWhite.svg)](https://instabug.com/)
 
@@ -36,23 +36,33 @@ Improve Your App Stability
 
 Session Replay
 
-See exactly what your users are experiencing in real-time](https://instabug.com/product/session-replay)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ec120b777447224053c3_rm.svg)
+See exactly what your users are experiencing in real-time](https://instabug.com/product/session-replay)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66855a1f0d7c95d3a985b707_flows.svg)
 
-Release Management
+Flows
 
-Take full control of your mobile app's phased rollout](https://instabug.com/product/release-management)
+NEW
 
-Collect Actionable User Feedback
-
-[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ec0742dcb42e5a87d072_arr.svg)
+Optimize your critical user journeys and reduce drop-offs](https://instabug.com/product/flows)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ec0742dcb42e5a87d072_arr.svg)
 
 App Ratings and Reviews
 
-Debug and monitor app ratings and reviews](https://instabug.com/product/app-ratings-reviews)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65d213b010ea2d43f11a9c3f_In-App%20Surveys.svg)
+Debug and monitor app ratings and reviews](https://instabug.com/product/app-ratings-reviews)
 
-In-App Surveys
+Collect Actionable User Feedback
+
+[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/65b8ec120b777447224053c3_rm.svg)
+
+Release Management
+
+Take full control of your mobile app's phased rollout](https://instabug.com/product/release-management)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66855a37822e61ab73d1642d_flags.svg)
+
+Feature Flags
 
 NEW
+
+Track feature flag performance to find and mitigate issues](https://instabug.com/product/feature-flags)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/66855ab4add6b60f0bb77f9c_in-s.svg)
+
+In-App Surveys
 
 Receive reports from users with the context needed to fix issues](https://instabug.com/product/in-app-surveys)
 
@@ -132,7 +142,7 @@ Okta](https://instabug.com/integrations/okta)
 
 Resources
 
-[Blog](https://instabug.com/blog)[FAQs](https://instabug.com/faq)
+[Blog](https://instabug.com/blog)[Reviews](https://instabug.com/reviews)[FAQs](https://instabug.com/faq)
 
 Tools
 
@@ -509,7 +519,7 @@ United States
 
 [Overview](https://instabug.com/product)[Bug Reporting](https://instabug.com/product/bug-reporting)[Crash Reporting](https://instabug.com/product/crash-reporting)[App Performance](https://instabug.com/product/app-performance-monitoring)[Session Replay](https://instabug.com/product/session-replay)[Release  
 Management](https://instabug.com/product/release-management)[In-App Surveys](https://instabug.com/product/in-app-surveys)[App Ratings  
-and Reviews](https://instabug.com/product/app-ratings-reviews)
+and Reviews](https://instabug.com/product/app-ratings-reviews)[Flows](https://instabug.com/product/flows)[Feature Flags](https://instabug.com/product/feature-flags)
 
 ### WHY INSTABUG
 
@@ -533,7 +543,7 @@ and Reviews](https://instabug.com/product/app-ratings-reviews)
 
 ### RESOURCES
 
-[Customers](https://instabug.com/customers)[Blog](https://instabug.com/blog)[Docs](https://docs.instabug.com/)[Help Center](https://help.instabug.com/en/?utm_source=website-hc&utm_medium=hc&utm_campaign=footer-hc&utm_content=v1)[FAQs](https://instabug.com/faq)[Research Program](https://instabug.com/ux-research-program)[ROI Calculator](https://instabug.com/roi-calculator)[Sentiment Analysis](https://instabug.com/sentiment-analysis)[Benchmark Report](https://instabug.com/mobile-app-stability-outlook-2023)
+[Customers](https://instabug.com/customers)[Reviews](https://instabug.com/reviews)[Blog](https://instabug.com/blog)[Docs](https://docs.instabug.com/)[Help Center](https://help.instabug.com/en/?utm_source=website-hc&utm_medium=hc&utm_campaign=footer-hc&utm_content=v1)[FAQs](https://instabug.com/faq)[Research Program](https://instabug.com/ux-research-program)[ROI Calculator](https://instabug.com/roi-calculator)[Sentiment Analysis](https://instabug.com/sentiment-analysis)[Benchmark Report](https://instabug.com/mobile-app-stability-outlook-2023)
 
 ### COMPANY
 
