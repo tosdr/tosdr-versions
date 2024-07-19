@@ -36,9 +36,9 @@ Ever-evolving content filtering feature to protect children 24/7.](https://www.g
 
 [![](https://www.gtbooster.com/v1/TermsofUse/img/ico/submenu_ico_e.svg)
 
-GT Net
+GTNet
 
-A smart pathfinder for lowest latencies and best connections.](https://www.gtbooster.com/gt-net)
+A smart pathfinder for lowest latencies and best connections.](https://www.gtbooster.com/gtnet)
 
 [REQUEST DEMO](mailto:sales@gtbooster.com)
 
@@ -58,7 +58,7 @@ A smart pathfinder for lowest latencies and best connections.](https://www.gtboo
     
     #### Network Acceleration Service
     
-    ![](https://www.gtbooster.com/v1/TermsofUse/img/ico/submenu_ico_e.svg) [GT Net](https://www.gtbooster.com/gt-net)
+    ![](https://www.gtbooster.com/v1/TermsofUse/img/ico/submenu_ico_e.svg) [GTNet](https://www.gtbooster.com/gtnet)
     
 * [About](https://www.gtbooster.com/about)
 
@@ -71,7 +71,7 @@ GT Booster Terms of Use
   
 
   
-Last updated: 03 July 2023. These Terms replace and supersede all prior versions.  
+Last updated: 04 July 2024. These Terms replace and supersede all prior versions.  
   
 **IMPORTANT! PLEASE READ CAREFULLY.**  
   
@@ -85,6 +85,7 @@ In addition to the General Terms and Privacy Policy (as defined in our [Privacy 
 * [ARK Engine](https://www.gtbooster.com/legal/terms-ark-engine)
 * [AIFlow](https://www.gtbooster.com/legal/terms-aiflow)
 * [GameFirst](https://www.gtbooster.com/legal/terms-gamefirst)
+* [GTNet](https://www.gtbooster.com/legal/terms-gtnet)
 
 ### 1\. Your Agreement with GT Booster
 
@@ -230,7 +231,7 @@ Copyright © 2024 GT Booster Inc. All rights reserved.
 * [ARK Engine](https://www.gtbooster.com/ark-engine)
 * [ARK Parental Control](https://www.gtbooster.com/ark-parental-control)
 * [AIFlow](https://www.gtbooster.com/aiflow)
-* [GT Net](https://www.gtbooster.com/gt-net)
+* [GTNet](https://www.gtbooster.com/gtnet)
 * [ARK AI QoE](https://www.gtbooster.com/ark-ai-qoe)
 
 * [Terms of Use](https://www.gtbooster.com/legal/terms)
