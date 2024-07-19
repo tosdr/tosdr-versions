@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/ad-revenue-and-churn-a-balancing-act/)
+            [**Blog**](#)[](https://www.is.com/community/blog/beyond-50-an-untapped-audience/)
             
-            Ad revenue and churn: A balancing act
+            Beyond 50: An untapped audience
             
-            [Read more >](https://www.is.com/community/blog/ad-revenue-and-churn-a-balancing-act/)
+            [Read more >](https://www.is.com/community/blog/beyond-50-an-untapped-audience/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
