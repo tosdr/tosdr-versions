@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-go-3s-thumb-sized-action-cam-4k-sensor-dolby-vision-hdr/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mobile-pixels-tetra-keyboard-split-design-8-inch-touchscreen/)
     
-    [Insta360 Go 3S Beefs Up the Tiny Action Cam with 4K Sensor, Dolby Vision HDR, and More](https://www.coolthings.com/insta360-go-3s-thumb-sized-action-cam-4k-sensor-dolby-vision-hdr/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Mobile Pixels Tetra Keyboard Adds an 8-Inch Touchscreen to Classic Split Keyboards](https://www.coolthings.com/mobile-pixels-tetra-keyboard-split-design-8-inch-touchscreen/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/coros-dura-slar-bike-computer-120-hours-battery-life/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/xtool-m1-ultra-4-in-1-craft-machine-laser-engraver-die-cutter-printer-and-drawing-robot/)
     
-    [Coros Dura Bike Computer Offers a Whopping 120 Hours of Battery Life Between Charges](https://www.coolthings.com/coros-dura-slar-bike-computer-120-hours-battery-life/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [xTool M1 Ultra Combines Laser Engraver, Die-Cutter, Printer, and Drawing Robot in One Desktop Machine](https://www.coolthings.com/xtool-m1-ultra-4-in-1-craft-machine-laser-engraver-die-cutter-printer-and-drawing-robot/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/logitech-mx-ink-stylus-for-meta-quest-headsets/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/native-union-pocket-cable-usb-charging-cable-keychain-knife-form-factor/)
     
-    [Logitech MX Ink Stylus Brings Precision Pen Control to Meta Quest Headsets](https://www.coolthings.com/logitech-mx-ink-stylus-for-meta-quest-headsets/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Native Union Pocket Cable Hides a Charging Cable Inside a Keychain Knife Form Factor](https://www.coolthings.com/native-union-pocket-cable-usb-charging-cable-keychain-knife-form-factor/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,20 +43,20 @@
     
     [See All](https://www.coolthings.com/gear/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nemo-double-haul-100l-transform-duffel-backpack-or-a-140l-tote/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
     
-    [Nemo Double Haul 100L Can Transform Into a Duffel, a Backpack, or a 140L Tote](https://www.coolthings.com/nemo-double-haul-100l-transform-duffel-backpack-or-a-140l-tote/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Beach Totes for Hauling Your Summer Gear Around](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-shaker-bottles-for-preworkouts-protein-shakes-and-more/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-travel-cameras-to-preserve-all-your-memorable-adventures/)
     
-    [The Best Shaker Bottles for Preworkouts, Protein Shakes, and More](https://www.coolthings.com/the-best-shaker-bottles-for-preworkouts-protein-shakes-and-more/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Travel Cameras to Preserve All Your Memorable Adventures](https://www.coolthings.com/the-best-travel-cameras-to-preserve-all-your-memorable-adventures/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-standing-desk-mats-to-make-workdays-on-your-feet-more-comfortable/)
     
-    [Stoke Voltaics Nomad Cooking System Brings Electric Cooking to the Campsite](https://www.coolthings.com/stoke-voltaics-nomad-cooking-system-electric-stovetop-cookware-campsite/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Standing Desk Mats to Make Workdays on Your Feet More Comfortable](https://www.coolthings.com/the-best-standing-desk-mats-to-make-workdays-on-your-feet-more-comfortable/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -95,20 +95,20 @@
     
     [See All](https://www.coolthings.com/house/)
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-charcoal-grills-to-bring-smoky-flavor-to-your-backyard-cookouts/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-popcorn-makers-for-faster-easier-movie-night-snacks/)
     
-    [The Best Charcoal Grills to Bring Smoky Flavor to Your Backyard Cookouts](https://www.coolthings.com/the-best-charcoal-grills-to-bring-smoky-flavor-to-your-backyard-cookouts/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Popcorn Makers for Faster, Easier Movie Night Snacks](https://www.coolthings.com/the-best-popcorn-makers-for-faster-easier-movie-night-snacks/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-tv-stands-for-your-home-entertainment-setup/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-vacuum-sealers-to-keep-your-food-fresher-for-much-longer/)
     
-    [The Best TV Stands for Your Home Entertainment Setup](https://www.coolthings.com/the-best-tv-stands-for-your-home-entertainment-setup/)
-    ----------------------------------------------------------------------------------------------------------------------------------------
+    [The Best Vacuum Sealers to Keep Your Food Fresher for Much Longer](https://www.coolthings.com/the-best-vacuum-sealers-to-keep-your-food-fresher-for-much-longer/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/burnhard-fat-tony-pizza-oven-preheats-20-minutes-cooks-90-seconds/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/oilvent-portable-range-hood-and-oil-splatter-guard/)
     
-    [Burnhard Fat Tony Pizza Oven Preheats in 20 Minutes, Cooks in 90 Seconds](https://www.coolthings.com/burnhard-fat-tony-pizza-oven-preheats-20-minutes-cooks-90-seconds/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Oilvent Portable Range Hood Doubles as a Mesh Guard Against Oil Splatter](https://www.coolthings.com/oilvent-portable-range-hood-and-oil-splatter-guard/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
@@ -120,20 +120,20 @@
     
     [See All](https://www.coolthings.com/vehicles/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/solar-hyperion-electric-scooter-65-mph-top-speed-70-mile-range/)
+    
+    [Solar Hyperion Electric Scooter Offers 65 Mph Top Speed and 70-Mile Range](https://www.coolthings.com/solar-hyperion-electric-scooter-65-mph-top-speed-70-mile-range/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/land-rover-defender-octa-off-road-onroad-suv/)
+    
+    [Land Rover Defender Octa Pairs Legendary Off-Road Prowess with On-Road Sport SUV Chops](https://www.coolthings.com/land-rover-defender-octa-off-road-onroad-suv/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-recreational-kayaks-for-novice-paddlers/)
     
     [The Best Recreational Kayaks for Novice Paddlers](https://www.coolthings.com/the-best-recreational-kayaks-for-novice-paddlers/)
     --------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mercedes-benz-g-580-meet-the-all-electric-g-wagon/)
-    
-    [Mercedes-Benz G 580: Meet the All-Electric G-Wagon](https://www.coolthings.com/mercedes-benz-g-580-meet-the-all-electric-g-wagon/)
-    -----------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/flyer-via-cargo-ebike-radio-flyer-400-pound-payload/)
-    
-    [Flyer Via Puts the Classic Radio Flyer Aesthetic on a Cargo Ebike](https://www.coolthings.com/flyer-via-cargo-ebike-radio-flyer-400-pound-payload/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [CLAD](https://www.clad.com/ "Men’s Style and Gear Magazine")
 
