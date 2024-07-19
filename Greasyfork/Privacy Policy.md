@@ -1,4 +1,4 @@
-[![](/vite/assets/blacklogo96-sWE0jP07.png)](https://greasyfork.org/en)
+[![](/vite/assets/blacklogo96-CxYTSM_T.png)](https://greasyfork.org/en)
 
 [Greasy Fork](https://greasyfork.org/en)
 ========================================
