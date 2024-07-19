@@ -119,13 +119,15 @@ Further information on the VW Ombudsman process, and the further option to repor
 
 © 2023 Bentley Motors Limited. All rights reserved
 
- ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_light.png/_jcr_content/renditions/original./logo_3d_wings_light.png) ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_dark.png/_jcr_content/renditions/original./logo_3d_wings_dark.png)
+[Newsletter](https://www.bentleymotors.com/en/pages/newsletter.by_form.html)
 
-* [Newsletter](https://www.bentleymotors.com/en/pages/newsletter.by_form.html)
-* [Configurator](https://www.bentleymotors.com/en/misc/car-configurator.html)
-* ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_light.png/_jcr_content/renditions/original./logo_3d_wings_light.png) ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_dark.png/_jcr_content/renditions/original./logo_3d_wings_dark.png)
-* [LOCATE DEALER](https://www.bentleymotors.com/en/apps/dealer-locator.html)
-* [DOWNLOAD BROCHURE](https://www.bentleymotors.com/en/pages/brochure.by_form.html)
+[Configurator](https://www.bentleymotors.com/en/misc/car-configurator.html)
+
+![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_light.png/_jcr_content/renditions/original./logo_3d_wings_light.png) ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_dark.png/_jcr_content/renditions/original./logo_3d_wings_dark.png)
+
+[LOCATE DEALER](https://www.bentleymotors.com/en/apps/dealer-locator.html)
+
+[DOWNLOAD BROCHURE](https://www.bentleymotors.com/en/pages/brochure.by_form.html)
 
 *   [![Instagram Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Instagram_white.svg/_jcr_content/renditions/original./Instagram_white.svg) ![Instagram Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Instagram.svg/_jcr_content/renditions/original./Instagram.svg) Instagram Logo"](https://www.instagram.com/bentleymotors/)
 *   [![X Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Twitter_white.svg/_jcr_content/renditions/original./Twitter_white.svg) ![X Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Twitter.svg/_jcr_content/renditions/original./Twitter.svg) X Logo"](https://twitter.com/BentleyMotors)
