@@ -25,6 +25,7 @@
     * [Supplier Diversity](https://navient.com/social-responsibility/supplier-diversity/)
     * [Political Transparency](https://navient.com/social-responsibility/political-transparency/)
 * [Loan Servicing](https://navient.com/loan-servicing/)
+    * [Servicing Transition](https://navient.com/loan-servicing/mohela/)
     * [Federal Student Loans](https://navient.com/loan-servicing/federal-student-loans/)
     * [Private Student Loans](https://navient.com/loan-servicing/private-student-loans/)
     * [Help Center](https://navient.com/loan-servicing/help-center/)
@@ -103,6 +104,8 @@ California law provides California residents with additional rights regarding th
 [Political Transparency](https://navient.com/social-responsibility/political-transparency/)
 
 [**Loan Servicing**](https://navient.com/loan-servicing/)
+
+[Servicing Transition](https://navient.com/loan-servicing/mohela/)
 
 [Federal Student Loans](https://navient.com/loan-servicing/federal-student-loans/)
 
