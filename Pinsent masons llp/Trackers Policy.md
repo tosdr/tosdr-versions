@@ -123,7 +123,6 @@ Please enter a search term
     * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
         * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
         * [Construction advisory & disputes](https://www.pinsentmasons.com/what-we-do/your-assets/construction-advisory-disputes)
-        * [Intellectual property](https://www.pinsentmasons.com/what-we-do/your-assets/intellectual-property)
         * [Planning & environment](https://www.pinsentmasons.com/what-we-do/your-assets/planning-environment)
         * [Projects](https://www.pinsentmasons.com/what-we-do/your-assets/projects)
         * [Property](https://www.pinsentmasons.com/what-we-do/your-assets/property)
@@ -132,6 +131,7 @@ Please enter a search term
         * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
         * [Commercial](https://www.pinsentmasons.com/what-we-do/your-company/commercial)
         * [Corporate](https://www.pinsentmasons.com/what-we-do/your-company/corporate)
+        * [Intellectual property](https://www.pinsentmasons.com/what-we-do/your-company/intellectual-property)
         * [Pensions & long-term savings](https://www.pinsentmasons.com/what-we-do/your-company/pensions-long-term-savings)
         * [Public policy](https://www.pinsentmasons.com/what-we-do/your-company/public-policy)
         * [Restructuring](https://www.pinsentmasons.com/what-we-do/your-company/restructuring)
@@ -173,13 +173,13 @@ Please enter a search term
     * [Alteria - brand management and enforcement](https://www.pinsentmasons.com/solutions/alteria)
     * [AutoMATE - Documents automated, rapidly](https://www.pinsentmasons.com/solutions/automate)
     * [Biotech Express - biotech startup documentation](https://www.pinsentmasons.com/solutions/biotech-express)
-    * [Carry scheme automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
+    * [Carry Scheme Automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
     * [CLM Maturity Assessment - contract management maturity](https://www.pinsentmasons.com/solutions/clm-assessment)
     * [CSRD Self Check](https://www.pinsentmasons.com/solutions/csrd-self-check)
     * [Cyturion - cyber readiness](https://www.pinsentmasons.com/solutions/cyturion)
     * [Datalis](https://www.pinsentmasons.com/solutions/datalis)
     * [Dawn Raid and Critical Incident Tools](https://www.pinsentmasons.com/solutions/dawn-raids-critical-incidents)
-    * [D&I maturity assessment](https://www.pinsentmasons.com/solutions/d-i-maturity-assessment)
+    * [ED&I maturity assessment](https://www.pinsentmasons.com/solutions/d-i-maturity-assessment)
     * [Electrify - multi-site development](https://www.pinsentmasons.com/solutions/electrify)
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
     * [Human Cyber Index - security culture development](https://www.pinsentmasons.com/solutions/human-cyber-index)
@@ -188,7 +188,6 @@ Please enter a search term
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
     * [Vario](https://www.pinsentmasons.com/solutions/vario)
-    * [Vaultare – Compliance readiness](https://www.pinsentmasons.com/solutions/vaultare)
     * [All Solutions](https://www.pinsentmasons.com/solutions)
 * [Locations](https://www.pinsentmasons.com/locations)
     * [Locations](https://www.pinsentmasons.com/locations)
@@ -510,7 +509,7 @@ Other notices and information
 
 ### We have over 27 offices across 4 continents
 
-![carte du monde](/-/media/images/footer-map.png?h=308&w=597&hash=D732A3369301B9877AB4EBBACDECDCFE)
+![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=045c074fac11430daa17b706aa5d540d&hash=5FF54396C1D1C58C956BBE00BF48A792)
 
 [Find your nearest office](https://www.pinsentmasons.com/office-finder)
 
