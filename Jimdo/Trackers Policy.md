@@ -4,8 +4,6 @@ This app works best with JavaScript enabled.
 
 [](https://www.jimdo.com/)
 
-[](https://www.jimdo.com/)
-
 Website
 
 Our Website Builder
