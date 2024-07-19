@@ -45,9 +45,9 @@ Wyoming](#)
 
 By selecting to choose later, you are choosing not to view state specific content.
 
- ![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240617095302) Choose Later
+ ![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240716094344) Choose Later
 
- [![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240617095302) Close](#)
+ [![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240716094344) Close](#)
 
 Choose Your State of Service
 ----------------------------
@@ -60,13 +60,13 @@ Idaho North Carolina - Gas North Carolina - Electric Ohio South Carolina Utah Vi
 
 By selecting to choose later, you are choosing not to view state specific content.
 
- ![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240617095302) Choose Later
+ ![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240716094344) Choose Later
 
 [![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)](https://www.dominionenergy.com/)
 
 [Close](#)
 
-[![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240617095302)Close](#)
+[![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240716094344)Close](#)
 
 Menu
 
@@ -293,11 +293,11 @@ More Links
 
 ![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)
 
-![caret](https://CDN-Dominionenergy-PRD-001.azureedge.net/assets/content/images/up.svg?v=20240617095306)
+![caret](https://CDN-Dominionenergy-PRD-001.azureedge.net/assets/content/images/up.svg?v=20240716094346)
 
 Copyright © 2024 Dominion Energy
 
-![caret](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/up.svg?v=20240617095306)
+![caret](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/up.svg?v=20240716094346)
 
 More Links
 
