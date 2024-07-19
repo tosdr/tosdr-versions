@@ -58,6 +58,7 @@ Košík je prázdný
     * [Storage VPS server](https://www.mydreams.cz/cz/vps-servery/storage-vps-server.html)
     * [Speciální VPS servery](https://www.mydreams.cz/cz/vps-servery/specialni-vps-servery.html)
     * [Správa serverů a VPS](https://www.mydreams.cz/cz/vps-servery/sprava-serveru-a-vps.html)
+    * [Speciální služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
     
 * [Dedikované servery](https://www.mydreams.cz/cz/dedikovane-servery.html)
     
@@ -66,6 +67,7 @@ Košík je prázdný
     * [Správa serverů](https://www.mydreams.cz/cz/vps-servery/sprava-serveru-a-vps.html)
     * [Virtualizační platforma](https://www.mydreams.cz/cz/dedikovane-servery/virtualizacni-platforma.html)
     * [Monitoring serverů](https://www.mydreams.cz/cz/dedikovane-servery/monitoring-serveru.html)
+    * [Speciální Serverhostingové služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
     
 * [SaaS Servery](https://www.mydreams.cz/cz/saas-servery.html)
     
@@ -87,7 +89,7 @@ Košík je prázdný
     * [NightScout diabetes hosting](https://www.mydreams.cz/cz/saas-servery/nightscout-diabetes-hosting.html)
     * [Firebird VPS hosting](https://www.mydreams.cz/cz/firebird-vps-hosting.html)
     
-* [Další služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
+* [IT služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
     
     * [Tvorba webů a eshopů](https://www.mydreams.cz/cz/dalsi-sluzby/tvorba-webu-a-eshopu.html)
     * [SEO - Online marketing](https://www.mydreams.cz/cz/dalsi-sluzby/seo-online-marketing.html)
@@ -105,6 +107,7 @@ Košík je prázdný
     * [Ruční linkbuilding](https://www.mydreams.cz/cz/dalsi-sluzby/profesionalni-rucni-linkbuilding.html)
     * [SSL certifikáty](https://www.mydreams.cz/cz/dalsi-sluzby/ssl-certifikaty.html)
     * [Osobní správce domén](https://www.mydreams.cz/cz/dalsi-sluzby/osobni-spravce-domen.html)
+    * [Speciální Serverhostingové služby](https://www.mydreams.cz/cz/dalsi-sluzby.html)
     
 
 MyDreams Obchodní podmínky
@@ -354,6 +357,7 @@ XI. Závěrečná ustanovení
 * [Geek trička](https://geekworld.cz/)
 * [Sponzoring](https://www.mydreams.cz/cz/sponzoring.html)
 * [Kurz kryptoměny Bitcoin](https://www.mydreams.cz/cz/kurz-kryptomeny-bitcoin-btc.html)
+* [Volná pracovní místa](https://www.mydreams.cz/cz/vps-hosting/kariera-u-mydreams.html)
 * [Sitemap](https://www.mydreams.cz/cz/sitemap.html)
 * [Hledat na webu](https://www.mydreams.cz/cz/hledat-na-webu.html)
 
