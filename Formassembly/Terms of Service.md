@@ -1,6 +1,6 @@
-**Dynamic Forms, Deeper Insights: The Key to Stronger Salesforce Experience Pages** | Webinar, Tues, June 25th @ 11 AM ET.
+**Optimizing Form Conclusions : From Submission to Success** | Webinar, Tues, July 23th @ 11 AM ET.
 
-[REGISTER](https://www.formassembly.com/webinar/salesforce-experience-forms-authentication/)
+[REGISTER](https://www.formassembly.com/webinar/form-completion-experience/)
 
 [Skip to content](#primary)
 
@@ -433,6 +433,7 @@ At least once per year, FormAssembly shall conduct an audit of the information t
     * [Webinars](https://www.formassembly.com/webinars/)
     * [Support](https://www.formassembly.com/support/)
     * [Developers](https://www.formassembly.com/api/)
+    * [Glossary](https://www.formassembly.com/glossary/)
 * [COMPANY](https://www.formassembly.com/)
     * [About Us](https://www.formassembly.com/about-us/)
     * [Our Culture](https://www.formassembly.com/culture/)
