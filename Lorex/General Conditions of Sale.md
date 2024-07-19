@@ -113,7 +113,7 @@ triangle borderless
     
     * [Deals](https://www.lorex.com/pages/promotions)
     * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Big Deals on Security](https://www.lorex.com/pages/promotions)
+    * [MEGA Summer Savings Week](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -469,9 +469,9 @@ Your cart is empty
     
     Accessories](https://www.lorex.com/collections/accessories-smart-home)
     
-    * [Power Adapters](https://www.lorex.com/collections/power-adapters)
     * [MicroSD Cards](https://www.lorex.com/collections/microsd-cards)
     * [Solar Panels](https://www.lorex.com/collections/solar-panels)
+    * [Power Adapters](https://www.lorex.com/collections/power-adapters)
     * [Rechargeable Battery Packs](https://www.lorex.com/collections/rechargeable-battery-packs)
     * [Doorbell Accessories](https://www.lorex.com/collections/doorbell-accessories)
     
@@ -534,7 +534,7 @@ Your cart is empty
     
     [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
     
-    [Big Deals on Security](https://www.lorex.com/pages/promotions)
+    [MEGA Summer Savings Week](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
