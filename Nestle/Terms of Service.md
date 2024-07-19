@@ -140,7 +140,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Dad and daughter playing](/sites/default/files/styles/navigation_featured_image/public/2020-06/about-us-featured_1.jpg?h=ca7fa25a&itok=D1KUvdTA)
+    ![Dad and daughter playing](/sites/default/files/styles/navigation_featured_image/public/2020-06/about-us-featured_1.jpg.webp?itok=W6mcWNkn)
     
     Good food, good life – that is what we stand for. Everything you need to know about Nestlé is here: brands, key figures, milestones.
     
@@ -312,7 +312,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Girl giving high five](/sites/default/files/styles/navigation_featured_image/public/2020-06/our-stories-featured.jpg?h=ca7fa25a&itok=Kqsa8pFe)
+    ![Girl giving high five](/sites/default/files/styles/navigation_featured_image/public/2020-06/our-stories-featured.jpg.webp?itok=nAJDTTQG)
     
     [Go to **Our stories**](https://www.nestle.com/stories#/category/featured-stories/1)
     
@@ -320,7 +320,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Smiling girl](/sites/default/files/styles/navigation_featured_image/public/2020-06/brands-featured.jpg?h=ca7fa25a&itok=mRi35irv)
+    ![Smiling girl](/sites/default/files/styles/navigation_featured_image/public/2020-06/brands-featured.jpg.webp?itok=i0izAH5f)
     
     Learn about Nestlé’s brands and what we’re doing to make our products tastier and healthier.
     
@@ -731,7 +731,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Grandfather with a child looking at sunrise](/sites/default/files/styles/navigation_featured_image/public/2024-04/sustainability-featured-new.jpg?itok=fi8-BMVc)
+    ![Grandfather with a child looking at sunrise](/sites/default/files/styles/navigation_featured_image/public/2024-04/sustainability-featured-new.jpg.webp?itok=qAsJRxMD)
     
     We believe in the power of food to enhance quality of life. It is this belief that fuels our commitment to use our global scale, resources and expertise to contribute to a healthier future for people and the planet.
     
@@ -810,6 +810,12 @@ Main navigation
             [Back](# "Close Menu")
             
             [Go to **Tackling plastic pollution**](https://www.nestle.com/sustainability/waste-reduction/actions-plastic-pollution)
+            
+        * [Global Plastic Treaty](https://www.nestle.com/sustainability/waste-reduction/global-treaty-plastic-pollution)
+            
+            [Back](# "Close Menu")
+            
+            [Go to **Global Plastic Treaty**](https://www.nestle.com/sustainability/waste-reduction/global-treaty-plastic-pollution)
             
         * [Reducing food loss and waste](https://www.nestle.com/sustainability/waste-reduction/food-loss-waste)
             
@@ -1248,7 +1254,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Dish](/sites/default/files/styles/navigation_featured_image/public/2024-04/nutrition-featured-new.jpg?h=b70c5d4d&itok=8x3nTIVQ)
+    ![Dish](/sites/default/files/styles/navigation_featured_image/public/2024-04/nutrition-featured-new.jpg.webp?itok=olpi-oaU)
     
     Good nutrition is fundamental to everyone's health and well-being. A balanced diet should - affordably and sustainably - provide all the nutrients and hydration a person needs to remain healthy throughout all stages of life.
     
@@ -1295,7 +1301,7 @@ Main navigation
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Curious toddler](/sites/default/files/styles/navigation_featured_image/public/2020-06/ask-nestle-featured.jpg?h=ca7fa25a&itok=hIhQU5mj)
+    ![Curious toddler](/sites/default/files/styles/navigation_featured_image/public/2020-06/ask-nestle-featured.jpg.webp?itok=wxe2u9Ci)
     
     Find answers to some of our most frequently asked questions on the environment, human rights and more.
     
@@ -1365,7 +1371,7 @@ Secondary menu
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Nestlé employees](/sites/default/files/styles/navigation_featured_image/public/2021-07/careers-featured-sml.jpg?h=b70c5d4d&itok=Wty9obwP)
+    ![Nestlé employees](/sites/default/files/styles/navigation_featured_image/public/2021-07/careers-featured-sml.jpg.webp?itok=lEr586tM)
     
     Whether you have years of work experience or you just graduated, there’s a job opportunity for you at Nestlé. Search for jobs here.
     
@@ -1502,7 +1508,7 @@ Secondary menu
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Nestlé Headquarters](/sites/default/files/styles/navigation_featured_image/public/2020-06/investors-featured-2.jpg?itok=ZvUVm3xm)
+    ![Nestlé Headquarters](/sites/default/files/styles/navigation_featured_image/public/2020-06/investors-featured-2.jpg.webp?itok=5gGnMYWO)
     
     Learn about our strategy, sales and results or download our investor seminar presentations.
     
@@ -1810,7 +1816,7 @@ Secondary menu
     
      [![Close Menu Button](/themes/custom/da_vinci_code/images/icon-x.png)](# "Close Menu")[Back](# "Close Menu")
     
-    ![Smiling girl texting](/sites/default/files/styles/navigation_featured_image/public/2020-06/media-featured.jpg?h=ca7fa25a&itok=qVWMRmye)
+    ![Smiling girl texting](/sites/default/files/styles/navigation_featured_image/public/2020-06/media-featured.jpg.webp?itok=rRlfVhgD)
     
     Come here for news, press releases, statements and other multi-media content about Nestlé.
     
