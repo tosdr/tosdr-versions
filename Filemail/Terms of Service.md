@@ -92,7 +92,7 @@ By accessing this web site, you are agreeing to be bound by these web site Terms
 
 In no event shall Filemail or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Filemail's Internet site, even if Filemail or a Filemail authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
-5\. Revisions and Errata
+5\. Revisions and Errors
 ------------------------
 
 The materials appearing on Filemail's web site could include technical, typographical, or photographic errors. Filemail does not warrant that any of the materials on its web site are accurate, complete, or current. Filemail may make changes to the materials contained on its web site at any time without notice. Filemail does not, however, make any commitment to update the materials.
