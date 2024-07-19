@@ -353,13 +353,13 @@ Search for:
 
 ### MOST RATED
 
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CN-SCN1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cn-scn1-icon.png) EITC/CN/SCN1 Computer networking 1](https://eitca.org/certification/eitccnscn1-computer-networking-1/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AI2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-ai2-icon.png) EITC/CG/AI2 Design and development of visual identity (Adobe Illustrator)](https://eitca.org/certification/eitccgai2-design-and-development-of-visual-identity-adobe-illustrator/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-ARL-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-arl-icon.png) EITC/AI/ARL Advanced Reinforcement Learning](https://eitca.org/certification/eitc-ai-arl-advanced-reinforcement-learning/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2022/01/EITC-IS-CCTF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2022/01/eitc-is-cctf-icon.png) EITC/IS/CCTF Computational Complexity Theory Fundamentals](https://eitca.org/certification/eitc-is-cctf-computational-complexity-theory-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-ECIM-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-ecim-icon.png) EITC/BI/ECIM eCommerce and Internet marketing fundamentals](https://eitca.org/certification/eitcbiecim-ecommerce-and-internet-marketing-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/eitca-el-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitca-el-icon.png) EITCA/EL E-Learning Didactics Technologies Academy](https://eitca.org/certification/eitcael-e-learning-didactics-technologies-academy/) € 1,100.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-CL-GCP-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-cl-gcp-icon.png) EITC/CL/GCP Google Cloud Platform](https://eitca.org/certification/eitc-cl-gcp-google-cloud-platform/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-MIIT-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-miit-icon.png) EITC/BI/MIIT Management in information technologies](https://eitca.org/certification/eitcbimiit-management-in-information-technologies/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AD-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-ad-icon.png) EITC/CG/AD Web pages design fundamentals (Adobe Dreamweaver)](https://eitca.org/certification/eitccgad-web-pages-design-fundamentals-adobe-dreamweaver/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-ISCF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-iscf-icon.png) EITC/IS/ISCF Information security and cryptography fundamentals](https://eitca.org/certification/eitcisiscf-information-security-and-cryptography-fundamentals/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-icon.png) EITC/EL/LDASH LearnDash WordPress LMS](https://eitca.org/certification/eitc-el-ldash-learndash-wordpress-lms/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CN-SCN2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cn-scn2-icon.png) EITC/CN/SCN2 Computer networking 2](https://eitca.org/certification/eitccnscn2-computer-networking-2/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-CAG1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-cag-icon.png) EITC/CG/CAG Conceptual aspects of graphics](https://eitca.org/certification/eitccgcag-conceptual-aspects-of-graphics/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-ADL-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-adl-icon.png) EITC/AI/ADL Advanced Deep Learning](https://eitca.org/certification/eitc-ai-adl-advanced-deep-learning/) € 110.00
 
 ### What are you looking for?
 
