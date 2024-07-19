@@ -8,7 +8,6 @@ Legal Notice Data Privacy System Policies Dedicated Server Cloud and vServer Man
 
 [https://www.hetzner.com](https://hetzner.com/)
 
-* Service provider in terms of § 5 TMG (German Telemedia Act):
 * Hetzner Online GmbH
 * Industriestr. 25
 * 91710 Gunzenhausen
