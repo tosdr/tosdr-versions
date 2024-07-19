@@ -116,7 +116,7 @@ We're building an open financial system for the world.
 
 
 
-[Sign in](https://www.coinbase.com/login "Sign in")Sign up
+[Sign in](https://www.coinbase.com/login "Sign in")[Sign up](https://www.coinbase.com/create-account "Sign up")
 
 Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 mins to learn more](https://www.coinbase.com/uk-fca-info)
 
@@ -196,6 +196,12 @@ We may update this Cookie Policy from time to time to reflect, for example, chan
 
 [Blog](https://www.coinbase.com/blog)•[Twitter](https://twitter.com/coinbase)•[Facebook](https://www.facebook.com/Coinbase)
 
+
+
+United Kingdom
+
+English
+
 Company
 -------
 
@@ -223,7 +229,7 @@ Company
 
 * [Digital Asset Disclosures](https://www.coinbase.com/en-gb/legal/digital-asset-disclosures)
 
-* [UK Modern Slavery Statement](https://assets.ctfassets.net/c5bd0wqjc7v0/13RDaqcREjlyqOjGKCVXts/aad445833a4f0705387965bd422e32c3/CBPL_-_Modern_Slavery_Statement_2020_2021_2022.pdf)
+* [UK Modern Slavery Statement](https://assets.ctfassets.net/o10es7wu5gm1/4QPckXz5ru71e8MZqdB891/3efb0396b75c8e0f0280abd697c3b90c/CBPL_-_Modern_Slavery_Statement_2020_2021_2022_2023.pdf)
 
 Individuals
 -----------
