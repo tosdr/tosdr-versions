@@ -382,7 +382,7 @@ This policy was last reviewed and updated: November 2023. 
 | **7.11** | 2024-03-22 | * Clarified user interactions are collected in Section 2 |
 | **7.12** | 2024-03-22 | * Updated language from “permit” to “consent” in Section 2 |
 
-[](https://github.com/platformsh)[](https://twitter.com/platformsh)[](https://www.linkedin.com/company/platformsh)[](https://www.facebook.com/platform.sh/)[](https://www.youtube.com/channel/UCkFKfPy8Cqpuv4Iif6UNuow)
+[](https://github.com/platformsh)[](https://x.com/platformsh)[](https://www.linkedin.com/company/platformsh)[](https://www.facebook.com/platform.sh/)[](https://www.youtube.com/channel/UCkFKfPy8Cqpuv4Iif6UNuow)
 
 [![Leader Winter 2023](/static/b50094c0c8e00fa563f85bf071f8b10c/medal_2_727a7d9bd6.png)](https://www.g2.com/products/platform-sh/reviews?utm_source=rewards-badge)
 
