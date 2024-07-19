@@ -1,7 +1,7 @@
-![logo](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/goofy-sg/ad/pangle/homepage_overseas/assets/pangle_overseas.jpg "Pangle")
-------------------------------------------------------------------------------------------------------------------------
+![logo](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/ad-media-static-sg/ad/pangle/homepage_overseas/assets/pangle_overseas.jpg "Pangle")
+----------------------------------------------------------------------------------------------------------------------------------
 
-[![穿山甲-全球开发者成长平台](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/goofy-sg/ad/pangle/homepage_overseas/_next/static/assets/images/pangle-text.491fcc7f.svg)](https://www.pangleglobal.com/zh)
+[![穿山甲-全球开发者成长平台](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/ad-media-static-sg/ad/pangle/homepage_overseas/_next/static/assets/images/pangle-text.491fcc7f.svg)](https://www.pangleglobal.com/zh)
 
 * ···
     
@@ -17,6 +17,9 @@
     
 * [帮助中心](https://www.pangleglobal.com/zh/knowledge)
     
+* ···
+    
+* [品牌安全中心](https://www.pangleglobal.com/zh/brandsafety)
 * ···
     
 
