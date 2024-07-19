@@ -312,9 +312,9 @@
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
+    * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
     * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
     * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
-    * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
     * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
     * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
     
@@ -696,9 +696,9 @@
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
+        * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
         * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
         * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
-        * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
         * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
         * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
         
