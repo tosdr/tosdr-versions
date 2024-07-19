@@ -21,7 +21,7 @@ Answer [3 quick questions](https://www.glasswire.com/intro-survey/) and claim yo
 
 [Go to the Survey](https://www.glasswire.com/intro-survey/) \* Valid for new purchases only
 
-![GlassWire UI](/img/sale/ui.png?_=954499)
+![GlassWire UI](/img/sale/ui.png?_=955840)
 
 GlassWire Services Subscription Agreement
 =========================================
