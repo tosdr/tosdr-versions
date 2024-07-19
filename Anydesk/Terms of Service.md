@@ -416,7 +416,7 @@ Subscribe Now
 
 [Support](#card-accordion-footer-menu3)
 
-[AnyDesk Services](https://anydesk.com/en/services) [Customer Success](https://anydesk.com/en/services/customer-success) [Help Center![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://support.anydesk.com/knowledge) [my.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://my.anydesk.com/) [go.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://go.anydesk.com/) [Abuse Prevention](https://anydesk.com/en/abuse-prevention) [System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://status.anydesk.com/) [Changelog![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://download.anydesk.com/changelog.txt)
+[AnyDesk Services](https://anydesk.com/en/services) [Customer Success](https://anydesk.com/en/services/customer-success) [Help Center![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://support.anydesk.com/knowledge) [my.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://my.anydesk.com/) [go.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://go.anydesk.com/) [Abuse Prevention](https://anydesk.com/en/abuse-prevention) [System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://status.anydesk.com/) [Changelog](https://anydesk.com/en/changelog)
 
 [Company](#card-accordion-footer-menu4)
 
@@ -480,7 +480,7 @@ Support
 
 [System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://status.anydesk.com/)
 
-[Changelog![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://download.anydesk.com/changelog.txt)
+[Changelog](https://anydesk.com/en/changelog)
 
 Company
 
