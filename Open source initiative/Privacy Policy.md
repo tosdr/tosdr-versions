@@ -185,7 +185,8 @@ Open
 Source AI
 ----------------
 
-* [Open Source AI](https://opensource.org/deepdive)
+* [What is Open Source AI](https://opensource.org/what-is-open-source-ai)
+* [Deep Dive](https://opensource.org/deepdive)
 * [Bi-weekly Townhalls](https://opensource.org/deepdive#townhalls)
 * [Online forum](https://discuss.opensource.org/)
 * [OSAI Definition Roadshow](https://opensource.org/blog/open-source-ai-definition-on-the-road-looking-back-and-forward)
