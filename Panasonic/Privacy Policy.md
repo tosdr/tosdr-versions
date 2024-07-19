@@ -173,7 +173,21 @@
             
         
     
-* [Design](https://www.panasonic.com/global/corporate/design.html)
+* [Design](https://www.panasonic.com/global/corporate/design.html)![Sub category](/etc/designs/panasonic/holdings/images/holdings-icn-plus-gry.svg)![Sub category](/etc/designs/panasonic/holdings/images/holdings-icn-close-wht.svg)
+    
+    * [Philosophy](https://www.panasonic.com/global/corporate/design/philosophy.html)
+        
+    * [Organization](https://www.panasonic.com/global/corporate/design/organization.html)
+        
+    * [Awards](https://www.panasonic.com/global/corporate/design/awards.html)![Sub category](/etc/designs/panasonic/holdings/images/holdings-icn-plus-gry.svg)![Sub category](/etc/designs/panasonic/holdings/images/holdings-icn-close-wht.svg)
+        
+        * [2024](https://www.panasonic.com/global/corporate/design/awards/2024.html)
+            
+        * [2023](https://www.panasonic.com/global/corporate/design/awards/2023.html)
+            
+        * [Before 2022](https://panasonic.net/design/about-us/awards/)
+            
+        
     
 * [Sustainability](https://www.panasonic.com/global/corporate/sustainability.html)![Sub category](/etc/designs/panasonic/holdings/images/holdings-icn-plus-gry.svg)![Sub category](/etc/designs/panasonic/holdings/images/holdings-icn-close-wht.svg)
     
