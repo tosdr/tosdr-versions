@@ -1,6 +1,4 @@
-[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)
-
-[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator-mobile)
+[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
 
 Privacy Policy DeepL
 ====================
@@ -234,7 +232,7 @@ When using DeepL Pro, the recordings and the transcriptions will not be permanen
 
 In addition to the translation and improvement services on our website, we also offer apps for Windows and macOS operating systems (“desktop apps”), as well as apps for iOS and Android (“mobile apps”), through which you can also translate or improve texts.
 
-You can use the desktop apps in both the free version and the paid DeepL Pro version. The Android app is available in the free version. If you use the free version of DeepL in the apps, Section [3](#section_3) of this Privacy Policy applies; if you use the paid DeepL Pro version, Sections [4](#section_4) to [6](#section_6) apply. As the desktop apps use the same interfaces for creating translations or improvements as the web-based service, also sections [7](#section_7) and [8](#section_8) of this privacy policy apply to the use of these apps.
+You can use the desktop apps and the mobile apps in both the free version and the paid DeepL Pro version. If you use the free version of DeepL in the apps, Section [3](#section_3) of this Privacy Policy applies; if you use the paid DeepL Pro version, Sections [4](#section_4) to [6](#section_6) apply. As the desktop apps use the same interfaces for creating translations or improvements as the web-based service, also sections [7](#section_7) and [8](#section_8) of this privacy policy apply to the use of these apps.
 
 When translating or improving texts with our apps, for technical reasons - regardless of whether you use our paid or free service - your device will automatically transmit certain data. The following data which you can transmit to us, is stored:
 
@@ -472,7 +470,7 @@ We may transfer personal data to the overseas delegatees listed below in order t
 
 We reserve the right to amend this privacy policy. The current version of the privacy policy can be accessed at any time on our [website](https://www.deepl.com/privacy).
 
-Last update: April 2024
+Last update: July 2024
 
 LanguageEnglish
 
@@ -494,8 +492,9 @@ LanguageEnglish
 * [Русский](https://www.deepl.com/ru/privacy "Русский")
 * [简体中文](https://www.deepl.com/zh/privacy "简体中文")
 * [Українська](https://www.deepl.com/uk/privacy "Українська")
+* [العربية](https://www.deepl.com/ar/privacy "العربية")
 
-[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/translator-mobile)
+[![DeepL](https://static.deepl.com/img/_optimized/footer/deeplLogo.svg)](https://www.deepl.com/translator)
 
 * Resources
 * [Help Center](https://support.deepl.com/hc/en-us)
@@ -505,15 +504,15 @@ LanguageEnglish
 * [Data security](https://www.deepl.com/pro-data-security)
 * [Privacy policy](https://www.deepl.com/privacy)
 * [Terms & Conditions](https://www.deepl.com/pro-license)
-* [Cancel subscriptions here](https://support.deepl.com/hc/en-us/requests/new?ticket_form_id=13384459519132)
 
 * Product
-* [Free translator](https://www.deepl.com/translator-mobile)
+* [Free translator](https://www.deepl.com/translator)
 * [Features](https://www.deepl.com/features)
 * [DeepL Pro](https://www.deepl.com/pro?cta=footer-pro)
 * [Translation API](https://www.deepl.com/pro-api)
-* [DeepL Write](https://www.deepl.com/write-mobile)
+* [DeepL Write](https://www.deepl.com/write)
 * [Apps](https://www.deepl.com/app)
+* [Document Translation](https://www.deepl.com/en/features/document-translation)
 
 * Download
 * [DeepL for Android](https://www.deepl.com/android-app)
