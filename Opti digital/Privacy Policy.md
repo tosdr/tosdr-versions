@@ -14,6 +14,7 @@
     * [FAQ](https://knowledge-base.optidigital.com/knowledge)
 * [Recrutement](https://www.optidigital.com/recrutement/)
 * [Contact](https://www.optidigital.com/contact/)
+* [Obtenir une démo](https://www.optidigital.com/demander-demo/?utm_source=web&utm_medium=button&utm_campaign=menu_free_trial)
 
 ×
 
@@ -29,6 +30,7 @@
     * [FAQ](https://knowledge-base.optidigital.com/knowledge)
 * [Recrutement](https://www.optidigital.com/recrutement/)
 * [Contact](https://www.optidigital.com/contact/)
+* [Obtenir une démo](https://www.optidigital.com/demander-demo/?utm_source=web&utm_medium=button&utm_campaign=menu_free_trial)
 
 [![Français](data:image/svg+xml;utf8,%3Csvg width='21' height='15' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='a'%3E%3Cstop stop-color='%23FFF' offset='0%'/%3E%3Cstop stop-color='%23F0F0F0' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='b'%3E%3Cstop stop-color='%23F44653' offset='0%'/%3E%3Cstop stop-color='%23EE2A39' offset='100%'/%3E%3C/linearGradient%3E%3ClinearGradient x1='50%' y1='0%' x2='50%' y2='100%' id='c'%3E%3Cstop stop-color='%231035BB' offset='0%'/%3E%3Cstop stop-color='%23042396' offset='100%'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath fill='url(%23a)' d='M0 0h21v15H0z'/%3E%3Cpath fill='url(%23b)' d='M10 0h11v15H10z'/%3E%3Cpath fill='url(%23c)' d='M0 0h7v15H0z'/%3E%3Cpath fill='url(%23a)' d='M7 0h7v15H7z'/%3E%3C/g%3E%3C/svg%3E)](https://www.optidigital.com/privacy-policy/)
 
