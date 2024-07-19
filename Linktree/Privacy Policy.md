@@ -2,7 +2,7 @@
 
 [Log in](https://linktr.ee/login)
 
-[Sign up free](https://linktr.ee/register)
+[Sign up free](https://linktr.ee/register?freeTrial=true&freeTrialEntryPoint=PAID_MEDIA&tier=paid2&frequency=monthly)
 
 [](https://linktr.ee/)
 
@@ -22,7 +22,7 @@
 
 [Log in](https://linktr.ee/login)
 
-[Sign up free](https://linktr.ee/register)
+[Sign up free](https://linktr.ee/register?freeTrial=true&freeTrialEntryPoint=PAID_MEDIA&tier=paid2&frequency=monthly)
 
 [Templates](https://linktr.ee/s/templates/)
 
@@ -398,7 +398,7 @@ Cookie Preferences
 
 [Get started for free](https://linktr.ee/register)
 
-[](https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer)[](https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer)
+[](https://apps.apple.com/us/app/linktree-link-in-bio-creator/id1593515263?utm_medium=Linktree_Footer)[](https://play.google.com/store/apps/details?id=ee.linktr.admin&hl=en_US&utm_medium=Linktree_Footer)
 
 [](https://linktr.ee/linktr.ee)
 
