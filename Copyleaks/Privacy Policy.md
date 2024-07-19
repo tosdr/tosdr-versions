@@ -1,3 +1,9 @@
+X
+
+All-New & Improved! Take the next generation of the AI Detector Extension wherever you browse.
+
+[Get It Now](https://copyleaks.com/ai-content-detector/extension)
+
 [Skip to content](#content)
 
 [![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20128%20128'%3E%3C/svg%3E)
@@ -7,13 +13,13 @@
 * [Login](https://app.copyleaks.com/dashboard/v1)
 * [Get a Demo](https://copyleaks.com/book-a-demo)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+![menu](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
 
-![](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-menu.svg)
+![menu](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-menu.svg)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+![close](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
 
-![](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-close.svg)
+![close](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-close.svg)
 
 * [](https://copyleaks.com/)
 * Products
@@ -56,18 +62,19 @@
                 
     * * * [About usMeet the Copyleaks leadership team and learn about who we are, our mission and history.](https://copyleaks.com/about-us)
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
+        * * [AI Detector Testing MethodologiesLearn the different testing methodologies used to gauge the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E)
+        * * [![NewsletterQ2_FeaturedImage-v3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20732'%3E%3C/svg%3E)
                 
-                ![](https://copyleaks.com/wp-content/uploads/2024/06/Featured-Image-2.webp)](https://copyleaks.com/blog/establishing-ai-policies-in-education-a-copyleaks-guide)
+                ![NewsletterQ2_FeaturedImage-v3](https://copyleaks.com/wp-content/uploads/2024/07/NewsletterQ2_FeaturedImage-v3-4.jpg)](https://copyleaks.com/blog/whats-new-the-2024-quarter-two-copyleaks-newsletter)
                 
-                [Establishing AI Policies in Education: A Copyleaks Guide](https://copyleaks.com/blog/establishing-ai-policies-in-education-a-copyleaks-guide)
+                [What’s New? The 2024 Quarter Two Copyleaks Newsletter](https://copyleaks.com/blog/whats-new-the-2024-quarter-two-copyleaks-newsletter)
                 
-                [![Copyleaks AI Content Detector at the top of the Studies' Research](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20300'%3E%3C/svg%3E)
+                [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20743'%3E%3C/svg%3E)
                 
-                ![Copyleaks AI Content Detector at the top of the Studies' Research](https://copyleaks.com/wp-content/uploads/2024/05/Hero_Third_Party_Studies_Blog-qefwvda4ovg5nlirt4etv4xjf44iho5amm0edi97eg-1.png)](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
+                ![](https://copyleaks.com/wp-content/uploads/2024/07/Firefly-technology-aesthetic-with-magnifying-glass-44618-2.webp)](https://copyleaks.com/blog/how-does-ai-detection-work)
                 
-                [Third-Party Studies Continue to Confirm Copyleaks AI Detector as the Most Accurate](https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party)
+                [How Does AI Detection Work?](https://copyleaks.com/blog/how-does-ai-detection-work)
                 
     * * * #### Learn
                 
@@ -292,6 +299,8 @@ Resources
 [Success Stories](https://copyleaks.com/case-studies)
 
 [Plagiarism Resources](https://copyleaks.com/plagiarism-resources)
+
+[AI Detector Testing Methodology](https://copyleaks.com/ai-content-detector/testing-methodology)
 
 [Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [Rss](https://feeds.buzzsprout.com/2310947.rss)
 
