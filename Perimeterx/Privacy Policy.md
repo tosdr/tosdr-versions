@@ -1,5 +1,11 @@
 <img src="https://pixel62ce5556d21c1d3.advangelists.com/v1/audiences?account\_id=488&amp;segment\_key=62ce5556d21c1d3&amp;vars\[advid\]=2427" width="1" height="1">        
 
+X
+
+HUMAN’s Satori Threat Intelligence and Research team has disrupted a cunning mobile advertising fraud campaign dubbed Konfety.
+
+[Learn More](https://www.humansecurity.com/learn/blog/the-partys-over-humans-satori-threat-intelligence-and-research-team-cleans-up-konfety-mobile-ad-fraud-campaign)
+
 [](https://www.perimeterx.com/)
 
 * Platform
@@ -30,9 +36,9 @@
             
             [Stop fraudsters from exploiting your valuable online accounts on apps and websites.](https://www.humansecurity.com/platform/packages/accounts)
             
-    * * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+    * * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-platforms)
             
-            [](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+            [](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-platforms)
             
         * [Scraping](https://www.humansecurity.com/platform/solutions/scraping)
             
@@ -54,9 +60,9 @@
             
             [](https://www.humansecurity.com/platform/solutions/account-takeover)
             
-        * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising)
+        * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising-platforms)
             
-            [](https://www.humansecurity.com/platform/solutions/malvertising)
+            [](https://www.humansecurity.com/platform/solutions/malvertising-platforms)
             
         * [Transaction Abuse](https://www.humansecurity.com/platform/solutions/transaction-abuse)
             
@@ -66,9 +72,9 @@
             
             [](https://www.humansecurity.com/platform/solutions/fake-accounts)
             
-        * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality)
+        * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality-platforms)
             
-            [](https://www.humansecurity.com/platform/solutions/ad-quality)
+            [](https://www.humansecurity.com/platform/solutions/ad-quality-platforms)
             
         * [Client-Side](https://www.humansecurity.com/platform/solutions/client-side)
             
@@ -77,6 +83,39 @@
         * [Compromised Accounts](https://www.humansecurity.com/platform/solutions/compromised-accounts)
             
             [](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+            
+        
+    * * [Ad Platforms](https://www.humansecurity.com/platform/industry/ad-platforms)
+            
+            [](https://www.humansecurity.com/platform/industry/ad-platforms)
+            
+        * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
+            
+            [](https://www.humansecurity.com/platform/industry/financial-services)
+            
+        * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
+            
+            [](https://www.humansecurity.com/platform/industry/healthcare)
+            
+        * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
+            
+            [](https://www.humansecurity.com/platform/industry/publishers)
+            
+        * [Retail & E-Commerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
+            
+            [](https://www.humansecurity.com/platform/industry/retail-e-commerce)
+            
+        * [Saas Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
+            
+            [](https://www.humansecurity.com/platform/industry/saas-platforms)
+            
+        * [Streaming & Gaming](https://www.humansecurity.com/platform/industry/streaming-gaming)
+            
+            [](https://www.humansecurity.com/platform/industry/streaming-gaming)
+            
+        * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
+            
+            [](https://www.humansecurity.com/platform/industry/travel-hospitality)
             
     
 * Learn
@@ -311,9 +350,9 @@
             
             [Stop fraudsters from exploiting your valuable online accounts on apps and websites.](https://www.humansecurity.com/platform/packages/accounts)
             
-    * * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+    * * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-platforms)
             
-            [](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+            [](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-platforms)
             
         * [Scraping](https://www.humansecurity.com/platform/solutions/scraping)
             
@@ -335,9 +374,9 @@
             
             [](https://www.humansecurity.com/platform/solutions/account-takeover)
             
-        * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising)
+        * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising-platforms)
             
-            [](https://www.humansecurity.com/platform/solutions/malvertising)
+            [](https://www.humansecurity.com/platform/solutions/malvertising-platforms)
             
         * [Transaction Abuse](https://www.humansecurity.com/platform/solutions/transaction-abuse)
             
@@ -347,9 +386,9 @@
             
             [](https://www.humansecurity.com/platform/solutions/fake-accounts)
             
-        * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality)
+        * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality-platforms)
             
-            [](https://www.humansecurity.com/platform/solutions/ad-quality)
+            [](https://www.humansecurity.com/platform/solutions/ad-quality-platforms)
             
         * [Client-Side](https://www.humansecurity.com/platform/solutions/client-side)
             
@@ -358,6 +397,39 @@
         * [Compromised Accounts](https://www.humansecurity.com/platform/solutions/compromised-accounts)
             
             [](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+            
+        
+    * * [Ad Platforms](https://www.humansecurity.com/platform/industry/ad-platforms)
+            
+            [](https://www.humansecurity.com/platform/industry/ad-platforms)
+            
+        * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
+            
+            [](https://www.humansecurity.com/platform/industry/financial-services)
+            
+        * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
+            
+            [](https://www.humansecurity.com/platform/industry/healthcare)
+            
+        * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
+            
+            [](https://www.humansecurity.com/platform/industry/publishers)
+            
+        * [Retail & E-Commerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
+            
+            [](https://www.humansecurity.com/platform/industry/retail-e-commerce)
+            
+        * [Saas Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
+            
+            [](https://www.humansecurity.com/platform/industry/saas-platforms)
+            
+        * [Streaming & Gaming](https://www.humansecurity.com/platform/industry/streaming-gaming)
+            
+            [](https://www.humansecurity.com/platform/industry/streaming-gaming)
+            
+        * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
+            
+            [](https://www.humansecurity.com/platform/industry/travel-hospitality)
             
     
 * Learn
@@ -586,12 +658,16 @@ This is a subtitle
 
 Some content goes here..](https://www.linkedin.com/company/humansecurityinc/)
 
-Comprehensive protection for today's customer journey
-=====================================================
+ ![ForresterHeroBadge](https://www.humansecurity.com/hubfs/ForresterHeroBadge.jpg)
 
-Unmatched detection, decisioning, and protection to safeguard against automated threats and fraud.
+A Vision To Believe In
 
-[Explore the Platform](https://www.humansecurity.com/platform-old)
+HUMAN NAMED A LEADER
+====================
+
+in The Forrester Wave™: Bot Management Software, Q3 2024
+
+[Explore the Results](https://www.humansecurity.com/forrester-wave)
 
 [Connect With a Human](https://www.humansecurity.com/contact-sales)
 
@@ -608,13 +684,13 @@ Secure every touchpoint along your customer journey against advertising fraud, s
 
 Deliver quality digital ad experiences that drive genuine performance. Eliminate wasteful spending on fake bot impressions and prevent malicious ads from redirecting audience attention.
 
-[Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+[Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-old)
 
-[Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
+[Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud-old)
 
-[Malvertising Defense](https://www.humansecurity.com/platform/solutions/malvertising)
+[Malvertising Defense](https://www.humansecurity.com/platform/solutions/malvertising-old)
 
-[Ad Quality Defense](https://www.humansecurity.com/platform/solutions/ad-quality)
+[Ad Quality Defense](https://www.humansecurity.com/platform/solutions/ad-quality-old)
 
 [Explore Advertising Protection](https://www.humansecurity.com/platform/packages/advertising-platforms)
 
@@ -626,15 +702,15 @@ Deliver quality digital ad experiences that drive genuine performance. Eliminate
 
 Preserve privacy, compliance, and trust as users arrive at and navigate your digital experience. Prevent bots from stealing your content, ensure data integrity, and avoid compliance penalties.
 
-[Scraping Defense](https://www.humansecurity.com/platform/solutions/scraping)
+[Scraping Defense](https://www.humansecurity.com/platform/solutions/scraping-old)
 
-[Data Contamination Defense](https://www.humansecurity.com/platform/solutions/data-contamination)
+[Data Contamination Defense](https://www.humansecurity.com/platform/solutions/data-contamination-old)
 
-[Transaction Abuse Defense](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+[Transaction Abuse Defense](https://www.humansecurity.com/platform/solutions/transaction-abuse-old)
 
-[Client-Side Defense](https://www.humansecurity.com/platform/solutions/client-side)
+[Client-Side Defense](https://www.humansecurity.com/platform/solutions/client-side-old)
 
-[PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+[PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance-old)
 
 [Explore Application Protection](https://www.humansecurity.com/platform/packages/applications)
 
@@ -646,11 +722,11 @@ Preserve privacy, compliance, and trust as users arrive at and navigate your dig
 
 Decrease account fraud losses and prevent sensitive data exfiltration. Block unauthorized logins and synthetic new signups by automated bots and neutralize post-login fraud.
 
-[Account Takeover Defense](https://www.humansecurity.com/platform/solutions/account-takeover)
+[Account Takeover Defense](https://www.humansecurity.com/platform/solutions/account-takeover-old)
 
-[Fake Account Defense](https://www.humansecurity.com/platform/solutions/fake-accounts)
+[Fake Account Defense](https://www.humansecurity.com/platform/solutions/fake-accounts-old)
 
-[Compromised Account Defense](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+[Compromised Account Defense](https://www.humansecurity.com/platform/solutions/compromised-accounts-old)
 
 [Explore Account Protection](https://www.humansecurity.com/platform/packages/accounts)
 
@@ -728,19 +804,26 @@ HUMAN combines the power of great technology, people, and service and flips the 
 
 ![Human-About-Logo-Yeti](https://www.humansecurity.com/hs-fs/hubfs/Human-About-Logo-Yeti.png?width=360&height=100&name=Human-About-Logo-Yeti.png)
 
-HUMAN Named a Leader on G2 in Bot Mitigation and Detection by Real Customers
+HUMAN Named a Leader in The Forrester Wave™:  
+Bot Management Software, Q3 2024
 
-[Learn Why](https://www.g2.com/reports/grid-report-for-bot-detection-and-mitigation-spring-2024.embed?secure%5Bgated_consumer%5D=05a7a6dc-35e6-4e01-89c6-5c73e715f19c&secure%5Btoken%5D=e1ce7265d69f08f42ec56049a07e3efbf6dc41b6662bebc715a420469f5ab89c&tab=grid)
+[Learn more](https://www.humansecurity.com/forrester-wave)
 
-![](https://www.humansecurity.com/hubfs/G2%20Grid-Spring%202024%20(1).svg)
+![](https://www.humansecurity.com/hubfs/HUMAN_Forrester_Landing%20Page.png)
+
+Customers rank HUMAN #1 in G2’s Bot Detection and Mitigation category
+
+[Learn Why](https://www.humansecurity.com/g2-bot-mitigaton-detection-leader)
+
+![](https://www.humansecurity.com/hubfs/HMN_070324_G2Grid.png)
 
 \[With HUMAN\], we enjoyed a three-order of magnitude reduction in bad actor traffic, and that takes a lot of the heat off in fraud terms. Furthermore, I really love that HUMAN is evolving the product. There's a well-charted roadmap of features directly relevant to customers dealing with fraud.
 
 [Read Case Study](https://www.humansecurity.com/learn/case-studies/fanduel)
 
-Senior Director, Architecture
-
 FanDuel
+
+Senior Director, Architecture
 
 ![](https://www.humansecurity.com/hubfs/Human-About-Logo-Fanduel.png)
 
@@ -748,9 +831,9 @@ We use the data and insights from HUMAN in the management of our partnerships as
 
 [Read Case Study](https://www.humansecurity.com/learn/case-studies/triplelift)
 
-Senior Director, Business Development
-
 TripleLift
+
+Senior Director, Business Development
 
 ![](https://www.humansecurity.com/hubfs/Human%20Security-Members-Triple%20Lift.png)
 
@@ -761,7 +844,7 @@ Your business needs protection from fraud, bot attacks, and account abuse.
 
 [Get to know HUMAN](https://www.humansecurity.com/company/about)
 
-[Explore the Platform](https://www.humansecurity.com/platform-old)
+[Explore the Platform](https://www.humansecurity.com/platform)
 
 [Talk to a Human](https://www.humansecurity.com/contact-sales)
 
@@ -781,10 +864,10 @@ Packages
 
 * SOLUTIONS
     
-    * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor)
+    * [Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-platforms)
     * [Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
-    * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising)
-    * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality)
+    * [Malvertising](https://www.humansecurity.com/platform/solutions/malvertising-platforms)
+    * [Ad Quality](https://www.humansecurity.com/platform/solutions/ad-quality-platforms)
     * [Scraping](https://www.humansecurity.com/platform/solutions/scraping)
     * [Client-Side](https://www.humansecurity.com/platform/solutions/client-side)
     * [Data Contamination](https://www.humansecurity.com/platform/solutions/data-contamination)
@@ -796,22 +879,20 @@ Packages
     
 * INDUSTRIES
     
-    * [Digital Advertising](https://www.humansecurity.com/solutions/industry/digital-advertising)
-    * [Healthcare & Insurance](https://www.humansecurity.com/solutions/industry/healthcare-insurance)
+    * [Ad Platforms](https://www.humansecurity.com/platform/industry/ad-platforms)
+    * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
+    * [Streaming & Gaming](https://www.humansecurity.com/platform/industry/streaming-gaming)
+    * [Travel & Hospitality](https://www.humansecurity.com/platform/industry/travel-hospitality)
+    * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
+    * [Retail & Ecommerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
+    * [SaaS Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
+    * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
     * [Public Sector](https://www.humansecurity.com/solutions/industry/public-sector)
-    * [Streaming & Media](https://www.humansecurity.com/solutions/industry/streaming-media)
-    * [Travel & Entertainment](https://www.humansecurity.com/solutions/industry/travel-entertainment)
-    * [Finance](https://www.humansecurity.com/solutions/industry/finance)
-    * [Marketplaces](https://www.humansecurity.com/solutions/industry/marketplaces)
-    * [Retail & E-commerce](https://www.humansecurity.com/solutions/industry/retail-ecommerce)
-    * [Technology Platforms](https://www.humansecurity.com/solutions/industry/technology-platforms)
-    * [FinTech](https://www.humansecurity.com/solutions/industry/fintech)
     
 
 Products
 
 * [HUMAN Bot Defender](https://www.humansecurity.com/products/human-bot-defender)
-* [BotGaurd for Growth Marketing](https://www.humansecurity.com/products/botguard-growth-marketing)
 * [MediaGuard](https://www.humansecurity.com/products/mediaguard)
 * [cleanAD](https://www.humansecurity.com/products/cleanad)
 * [Account Defender](https://www.humansecurity.com/products/account-defender)
@@ -821,7 +902,7 @@ Products
 Company
 
 * [About](https://www.humansecurity.com/company/about)
-* [News](https://www.humansecurity.com/learn/blog)
+* [News](https://www.humansecurity.com/newsroom)
 * [Careers](https://www.humansecurity.com/company/careers)
 * [Leadership](https://www.humansecurity.com/company/leadership)
 * [Satori Threat Intelligence  Research Team](https://www.humansecurity.com/company/satori-threat-intelligence)
