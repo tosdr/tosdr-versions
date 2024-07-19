@@ -562,6 +562,7 @@ CUSTOMER SUPPORT
 * Baggage Fee Changes
 * Privacy policy
 * Cookies and tracking technologies policy
+* Modern Slavery Report Opens in a New Window
 
 SPECIAL OFFERS
 --------------
