@@ -145,7 +145,7 @@
         
         Create multichannel marketing campaigns.](https://www.twilio.com/en-us/use-cases/marketing-and-promotions)
         
-        [SMS Marketing](https://www.twilio.com/en-us/solutions/text-marketing)
+        [SMS marketing](https://www.twilio.com/en-us/solutions/text-marketing) [Customer surveys](https://www.twilio.com/en-us/use-cases/automated-customer-surveys)
         
     * [**Contact Center**
         
@@ -496,7 +496,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         Create multichannel marketing campaigns.](https://www.twilio.com/en-us/use-cases/marketing-and-promotions)
         
-        [SMS Marketing](https://www.twilio.com/en-us/solutions/text-marketing)
+        [SMS marketing](https://www.twilio.com/en-us/solutions/text-marketing) [Customer surveys](https://www.twilio.com/en-us/use-cases/automated-customer-surveys)
         
     * [**Contact Center**
         
