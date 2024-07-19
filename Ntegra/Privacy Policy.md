@@ -9,7 +9,7 @@ Our Privacy Policy
 
 Ntegra Limited ("We") is committed to protecting and respecting your privacy. This policy (together with our terms of use [www.ntegra.com/terms](http://www.ntegra.com/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [http://ntegra.com/](http://ntegra.com/) you are accepting and consenting to the practices described in this policy.
 
-The data controller is Ntegra Limited of Regus - Swindon Windmill Hill Business Park, Whitehill Way, Swindon, Wiltshire, United Kingdom, SN5 6QR.
+The data controller is Ntegra Limited of Suite 41-42, Rombourne Kingston House, Lydiard Fields Business Park, Great Western Way, Swindon, Wiltshire, United Kingdom, SN5 8UB.
 
 ‍
 
@@ -17,10 +17,13 @@ The data controller is Ntegra Limited of Regus - Swindon Windmill Hill Business 
 
 We will collect and process the following data about you:
 
-* **Information you give us.**
-* This is information about you that you give us by filling in forms on our site NTEGRA.COM (our site) or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you contact us, enter into a contract with us for the provision of services, register to use our site (if such functionality is made available on our site) and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
-* ‍
-* **Information we collect about you.**
+**Information you give us.**
+
+* This is information about you that you give us by filling in forms on our site NTEGRA.COM (our site) or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you contact us, enter into a contract with us for the provision of services, register to use our site (if such functionality is made available on our site) and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.  
+    ‍
+
+**Information we collect about you.**
+
 * **‍**With regard to each of your visits to our site, we will automatically collect the following information: technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, \[browser plug-in types and versions, operating system and platform;- information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page and any phone number used to call our customer service number. This information is aggregated and is not used to identify you.
 
 ‍
@@ -33,12 +36,15 @@ Our website uses cookies to distinguish you from other users of our website. Thi
 
 #### USES MADE OF THE INFORMATION
 
-We use information held about you in the following ways:
+We use information held about you in the following ways:**‍**
 
-* **Information you give to us.**
-* We will use this information:- to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;- to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;- investigate any complaints about the website;- to notify you about changes to our service;• to ensure that content from our site is presented in the most effective manner for you and for your computer.
-* ‍
-* **Information we collect about you.**
+**Information you give to us.**
+
+* We will use this information:- to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;- to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;- investigate any complaints about the website;- to notify you about changes to our service;• to ensure that content from our site is presented in the most effective manner for you and for your computer.  
+    ‍
+
+**Information we collect about you.**
+
 * We will use this information:- to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and providing customer services;- to improve our site to ensure that content is presented most effectively for you and for your computer;- to allow you to participate in interactive features of our service when you choose to do so;- as part of our efforts to keep our site safe and secure;- to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;- to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
 ‍
@@ -53,10 +59,10 @@ You agree that we have the right to share your personal information with:
 
 We will disclose your personal information to third parties:
 
-* In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
-* ‍
-* If Ntegra Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-* ‍
+* In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.  
+    ‍
+* If Ntegra Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
+    ‍
 * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.ntegra.com/terms/](https://www.ntegra.com/terms) or terms and conditions of supply of services and other agreements; or to protect the rights, property, or safety of Ntegra Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 ‍
@@ -73,7 +79,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 #### YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at Ntegra Limited, Regus - Swindon Windmill Hill Business Park, Whitehill Way, Swindon, Wiltshire, United Kingdom, SN5 6QR OR [hello@ntegra.co.uk](mailto:hello@ntegra.co.uk)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at Ntegra Limited of Suite 41-42, Rombourne Kingston House, Lydiard Fields Business Park, Great Western Way, Swindon, Wiltshire, United Kingdom, SN5 8UB. OR [hello@ntegra.co.uk](mailto:hello@ntegra.co.uk)
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -81,7 +87,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 #### ACCESS TO INFORMATION
 
-You are entitled to see the information held about you. If you wish to do this, please contact us at Ntegra Limited, Regus - Swindon Windmill Hill Business Park, Whitehill Way, Swindon, Wiltshire, United Kingdom, SN5 6QR. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+You are entitled to see the information held about you. If you wish to do this, please contact us at Ntegra Limited of Suite 41-42, Rombourne Kingston House, Lydiard Fields Business Park, Great Western Way, Swindon, Wiltshire, United Kingdom, SN5 8UB. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
 
 ‍
 
@@ -93,7 +99,7 @@ Any changes we make to our privacy policy in the future will be posted on this p
 
 #### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Regus - Swindon Windmill Hill Business Park, Whitehill Way, Swindon, Wiltshire, United Kingdom, SN5 6QR OR [hello@ntegra.co.uk](mailto:hello@ntegra.co.uk).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Ntegra Limited of Suite 41-42, Rombourne Kingston House, Lydiard Fields Business Park, Great Western Way, Swindon, Wiltshire, United Kingdom, SN5 8UB OR [hello@ntegra.co.uk](mailto:hello@ntegra.co.uk).
 
 ‍
 
