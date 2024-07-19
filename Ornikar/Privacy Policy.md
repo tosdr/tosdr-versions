@@ -1,18 +1,52 @@
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6695807f2ff7ffbc808b23e1_PROLONGATION.png)
+
+0
+
+3
+
+Jours
+
+1
+
+5
+
+Heures
+
+En ce moment votre pack permis complet dès 619,99€\* Code inclus ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
 [Code de la route](https://www.ornikar.com/code)
 
 Permis de conduire
 
-[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/inscription?redirect=%2Fcontacter-un-conseiller%3Forigin%3Dmenu)
+[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+
+Assurance
+
+[Assurance auto](https://www.ornikar.com/assurance-auto)[Assurance habitation
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/667d40c7c8455a6d4eedbffd_new-icon.svg)](https://www.ornikar.com/assurance-habitation)
+
+[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+
+Assurance
+
+[Assurance auto](https://www.ornikar.com/assurance-auto)[Assurance habitation
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/667d40c7c8455a6d4eedbffd_new-icon.svg)](https://www.ornikar.com/assurance-habitation)
 
 [Assurance auto](https://www.ornikar.com/assurance-auto)
+
+Trustpilot
 
 Connexion
 
 Inscription
 
 [Inscription](https://app.ornikar.com/inscription)
+
+Trustpilot
 
 Connexion
 
@@ -68,9 +102,9 @@ Jours
 
 Heures
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6644db6edb9625e5d2db1508_derniers-jours-badge.svg)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/668fa89be611649a2aeaca55_PROLONGATION%20logo.svg)
 
-Jusqu’à -70€ sur les packs permis\*\* Jusqu’au 23 mai inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Jusqu’à -100€ sur les packs permis\* Jusqu'au 15 juillet inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 Je gère mes contrats et conduis en toute tranquillité.
 
@@ -701,6 +735,10 @@ Aucun article pour le moment
 
 Envie d'en savoir plus
 
+[Les jours Ornikar](https://www.ornikar.com/a-propos/promo-juillet-2024)
+
+[Règlement jeu concours - Juin 2024](https://www.ornikar.com/a-propos/reglement-jeu-concours-juin-2024)
+
 [Promo juin 2024](https://www.ornikar.com/a-propos/promo-juin-2024)
 
 [Ornikar dans le FT120 2024](https://www.ornikar.com/a-propos/french-tech-120)
@@ -789,38 +827,46 @@ Envie d'en savoir plus
 
 [Avis Ornikar : qu'en pensent nos utilisateurs ?](https://www.ornikar.com/a-propos/avis)
 
-[](https://www.ornikar.com/)
+[Trustpilot](https://fr.trustpilot.com/review/ornikar.com)
 
-4.77/5 basé sur 3 988 avis
+[![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6656db558eab37b5c8878ac9_google-store-white.svg)](https://play.google.com/store/apps/details?id=com.ornikar.learning)[![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6656db55cd07a019c0cd8908_app-store-white.svg)](https://apps.apple.com/fr/app/ornikar-code-et-permis/id1612432450)
 
-[Actualités](https://www.ornikar.com/actualites)
+Aide & Contact
 
-[J'enseigne la conduite](https://pro.ornikar.com/)
+[Acheter par téléphone](https://app.ornikar.com/contacter-un-conseiller?origin=footer_lien)[Nous contacter](https://www.ornikar.com/a-propos/contact)[FAQ auto-école](https://aide.ornikar.com/hc/fr)[FAQ assurance](https://help.ornikar.com/s/)[Avis](https://fr.trustpilot.com/review/ornikar.com)[Dispositif Jeux Olympiques](https://aide.ornikar.com/hc/fr/articles/27336345177364-Conduire-pendant-les-Jeux-Olympiques-et-Paralympiques)
 
-[À propos](https://www.ornikar.com/a-propos)
+À propos
 
-[Contact](https://www.ornikar.com/a-propos/contact)
+[Qui sommes-nous ?](https://www.ornikar.com/a-propos)[Carrières](https://careers.ornikar.com/)[Revue de presse](https://www.ornikar.com/a-propos-revue-de-presse)
 
-[FAQ Auto-école](https://aide.ornikar.com/hc/fr)
+AUTO-ÉCOLE & ASSURANCE
 
-[FAQ Assurance](https://help.ornikar.com/s/)
+[Série de code offerte](https://app.ornikar.com/inscription)[Devis assurance auto gratuit](https://www.ornikar.com/assurance-auto/souscription)[Actualités et réformes](https://www.ornikar.com/actualites)
 
-[Carrières](https://careers.ornikar.com/)
+ENSEIGNANTS
 
-[Onroad.to](https://www.onroad.to/)
+[Avantages partenaires](https://faq-partenaires.ornikar.com/bons-plans-avec-nos-marques-partenaires)[Devenir partenaire](https://www.ornikar.com/pro-home)[FAQ partenaires](https://faq-partenaires.ornikar.com/)
 
-[CGU](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation)
+Auto-école agréée
 
-[CGV](https://www.ornikar.com/a-propos/conditions-generales-de-vente)
+n°E16 044 00090
+
+Agrément Orias  
+
+n° 20005380
+
+[](https://www.tiktok.com/@ornikar)[](https://www.youtube.com/channel/UCMBNOyJPLv5GmFr-TRL4DVw)[](https://www.facebook.com/ornikar)[](https://www.instagram.com/ornikar/)[](https://x.com/ornikar)
 
 [Mentions légales](https://www.ornikar.com/a-propos/mentions-legales)
 
-[Charte de confidentialité](https://www.ornikar.com/a-propos/charte-de-confidentialite)
+[CGV](https://www.ornikar.com/a-propos/conditions-generales-de-vente)
+
+[CGU](https://www.ornikar.com/a-propos/conditions-generales-d-utilisation)
+
+[Politique de confidentialité](https://www.ornikar.com/a-propos/charte-de-confidentialite)
 
 [Politique de cookies](https://www.ornikar.com/a-propos/cookies)
 
 [Gérer mes cookies](javascript:openAxeptioCookies())
 
-[](https://www.instagram.com/ornikar/)[](https://www.facebook.com/ornikar)[](https://www.youtube.com/channel/UCMBNOyJPLv5GmFr-TRL4DVw)[](https://twitter.com/ornikar)
-
-[**Formulaire de contact.**](https://aide.ornikar.com/hc/fr/requests/new) Ornikar est enregistré auprès de la SAS CNPM - MÉDIATION - CONSOMMATION. En cas de litige, le consommateur pourra déposer sa réclamation sur le site [**http://cnpm-mediation-consommation.eu**](http://cnpm-mediation-consommation.eu/) ou par voie postale en écrivant à "CNPM MÉDIATION-CONSOMMATION" - 27, avenue de la Libération – 42400 SAINT-CHAMOND. © 2023 .Marianne Formation (marque commerciale « Ornikar »), SAS au capital de 23 235,90 €, immatriculée au registre de commerce et des sociétés de Paris sous le numéro 799 351 887, dont le siège social est situé 170, boulevard de la Villette à Paris (75019), disposant d'un établissement situé 12, rue Charles Brunellière à Nantes (44100), autorisée à exploiter sous le numéro E16 044 0009 0, un établissement d'enseignement à titre onéreux, de la conduite des véhicules à moteur et de la sécurité routière - 0975186973,
+[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-juillet-2024)
