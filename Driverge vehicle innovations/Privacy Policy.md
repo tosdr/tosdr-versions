@@ -5,7 +5,7 @@
 * [Contact Us](https://www.driverge.com/contact/)
 * [(855) 337-9543](tel:8553379543)
 
-[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-250x67.png)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjE4OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUwIDY3IiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)
 
 * [Vehicles](https://www.driverge.com/vehicles/)Menu Toggle
     * Conversion TypeMenu Toggle
@@ -78,7 +78,7 @@ Search for:
 
 [Search](#)
 
-[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-250x67.png)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjgyOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUwIDY3IiB3aWR0aD0iMjUwIiBoZWlnaHQ9IjY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)
 
 Main Menu
 
@@ -368,7 +368,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](https://www.driverge.com/wp-content/uploads/2022/01/driverge-cannabis-laws-and-regulations.png)
+![](data:image/svg+xml;nitro-empty-id=NzU2OjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
