@@ -1,4 +1,4 @@
-[🚨   DNS for Developers pre-sale ending soon   🚨](https://www.nslookup.io/dns-course/)
+[DNS for Developers — Learn DNS once and for all](https://www.nslookup.io/dns-course/)
 
 [![NsLookup logo](/img/logo.cde98524.svg)](https://www.nslookup.io/)
 
