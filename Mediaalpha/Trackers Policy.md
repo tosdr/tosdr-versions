@@ -47,8 +47,8 @@ Table of Contents
 Privacy Policy
 ==============
 
-Effective: May 1, 2024  
-[](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240501.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240501.pdf) | Previous Versions
+Effective: July 1, 2024  
+[](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240701.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240701.pdf) | Previous Versions
 
 Who we are and about this Privacy Policy
 ----------------------------------------
@@ -400,7 +400,7 @@ When we use the term “personal information” (also known as personal data) in
 
 State Specific Disclosures.
 
-The following State Specific Disclosures supplement the information in this Policy by providing additional information about our personal information practices relating to individual residents of the States of California, Colorado, Connecticut, Nevada, Utah, and Virginia. Unless otherwise expressly stated, all terms defined and used in this Policy retain the same meaning in these disclosures.
+The following State Specific Disclosures supplement the information in this Policy by providing additional information about our personal information practices relating to individual residents of the States of California, Colorado, Connecticut, Nevada, Utah, Virginia, and other states extending similar privacy rights, and for individuals in the State of Washington please review our Consumer Health Data Privacy Policy for disclosures related to the Washington State My Health My Data Act ("MHMDA"). Unless otherwise expressly stated, all terms defined and used in this Policy retain the same meaning in these disclosures.
 
 Rights Regarding the Personal Information We May Have About You.
 
@@ -523,6 +523,9 @@ Attention: DPO
 Los Angeles, CA 90017  
 
 Previous Versions
+
+**May 1, 2024**  
+[](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240501.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20240501.pdf)
 
 **January 1, 2023**  
 [](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20230101.pdf)[Download PDF](https://dhe4oz50378wj.cloudfront.net/pdf/privacy-policy/privacy-policy-20230101.pdf)
