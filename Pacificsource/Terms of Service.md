@@ -618,6 +618,10 @@ If you contact PacificSource by email, once your email is received, we preserve 
 
 If you register for an online user account with PacificSource, you will be required to supply a valid email address and agree to the Website Portals Usage Agreement. By registering for an account, and voluntarily submitting your email address, you are agreeing that PacificSource may use your email address in the following ways: (1) as a piece of identifying information which may be used to authenticate your identity, (2) to correspond with you and provide you information about your account, and (3) to send you other health insurance messages, including messages related to your coverage, as PacificSource deems reasonable and/or necessary.
 
+### **Office closures**
+
+In case of an emergency office closure at PacificSource, we will update our operating hours on social media and post signs on public access doors. These signs and our social media updates will include phone numbers for assistance.
+
 [![logo](/themes/custom/pacificsource/logo-sans-lob.svg)](https://pacificsource.com/)
 
 * About
