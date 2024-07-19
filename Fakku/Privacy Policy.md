@@ -17,9 +17,9 @@ Privacy Policy
 
 Last Modified: May 24th, 2018
 
-This Privacy Policy governs each website (the “Sites”), mobile site, application and/or other service provided (collectively, the “Service(s)”) by FAKKU, LLC (“we,” “us” or “our”). This Privacy Policy sets forth our policy with respect to information that is collected from visitors to the Site and users of the Services (“you”). Under applicable law, FAKKU, LLC. is the “data controller” of personal data collected through the Services.
+This Privacy Policy governs each website (the "Sites"), mobile site, application and/or other service provided (collectively, the "Service(s)") by FAKKU, LLC ("we," "us" or "our"). This Privacy Policy sets forth our policy with respect to information that is collected from visitors to the Site and users of the Services ("you"). Under applicable law, FAKKU, LLC. is the “data controller” of personal data collected through the Services.
 
-What You’re Consenting To
+What You're Consenting To
 -------------------------
 
 By using, or interacting, with the Services, you are consenting to the following:
@@ -103,7 +103,7 @@ Additionally, if you are a European resident we note that we are processing your
 Do Not Track
 ------------
 
-Due to there being no accepted standard on how to respond, please note that we do not alter our Service’s data collection and use practices when we see a Do Not Track signal from your browser.
+Due to there being no accepted standard on how to respond, please note that we do not alter our Service's data collection and use practices when we see a Do Not Track signal from your browser.
 
 Data Retention
 --------------
