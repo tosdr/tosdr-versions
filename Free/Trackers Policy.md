@@ -148,7 +148,7 @@ Vous avez la possibilité de paramétrer la réception de cookies sur votre term
 * [Free Pro](https://pro.free.fr/)
 * [Free s'engage](https://www.free.fr/freebox/free-s-engage/)
 * [Le groupe Iliad](https://www.iliad.fr/)
-* [Free recrute !](https://free.softy.pro/offres/1)
+* [Free recrute !](https://etre-free.fr/)
 
 Offres & Services
 
@@ -189,7 +189,7 @@ Société
 * [Free Pro](https://pro.free.fr/)
 * [Free s'engage](https://www.free.fr/freebox/free-s-engage/)
 * [Le groupe Iliad](https://www.iliad.fr/)
-* [Free recrute !](https://free.softy.pro/offres/1)
+* [Free recrute !](https://etre-free.fr/)
 
 * [Cookies](https://www.free.fr/freebox/cookies/)
 * [Informations Légales](https://www.free.fr/freebox/informations/informations-legales/)
