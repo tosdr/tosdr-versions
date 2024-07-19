@@ -17,11 +17,11 @@ Terms of Service
 
 Last Modified: March 1st, 2024
 
-This website is operated by FAKKU, LLC. Throughout the site, the terms “we”, “us” and “our” refer to FAKKU, LLC. We offer this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+This website is operated by FAKKU, LLC. Throughout the site, the terms "we", "us" and "our" refer to FAKKU, LLC. We offer this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
 You affirm that you are at least 18 years of age or the age of majority in the jurisdiction you are accessing a Website from, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service. If you are under 18 or the applicable age of majority, please do not use any of the Websites. You also represent that the jurisdiction from which you access a Website does not prohibit the receiving or viewing of sexually explicit content.
 
-By visiting our site and/or purchasing something from us, you engage in our “Service(s)” and agree to be bound by the following Terms of Service (“Terms of Service”, “Terms”) and our [Privacy Policy](https://www.fakku.net/privacy), including those additional terms and conditions and policies referenced herein and/or available by hyperlink.
+By visiting our site and/or purchasing something from us, you engage in our "Service(s)" and agree to be bound by the following Terms of Service ("Terms of Service", "Terms") and our [Privacy Policy](https://www.fakku.net/privacy), including those additional terms and conditions and policies referenced herein and/or available by hyperlink.
 
 These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/or contributors of user-posted content.
 
@@ -46,7 +46,7 @@ The Services are also not available to you if you have been previously removed, 
 Your Account
 ------------
 
-You are responsible for safeguarding your account credentials and for any activity resulting from the use of your account credentials or other activity on your account (“Account”) on the Service.
+You are responsible for safeguarding your account credentials and for any activity resulting from the use of your account credentials or other activity on your account ("Account") on the Service.
 
 You represent and warrant that the information you provide us upon registration, at all other times will be true, accurate, current, and complete. We reserve the right to reject any information submitted to us without liability to you.
 
@@ -68,7 +68,7 @@ We do not warrant that the quality of any products, services, information, or ot
 Access to Content
 -----------------
 
-Users may access and/or purchase content (as defined below) through the Services in a few different ways including: (i) Users can pay a monthly membership fee to view certain content for the applicable period of time (“FAKKU Subscription”) or (ii) Users may purchase certain content, or products, from us (“Purchasable Good(s)”) which are then unlocked on their Account if digital (“Digital Good(s)”), and delivered to them if physical (“Physical Good(s)”).
+Users may access and/or purchase content (as defined below) through the Services in a few different ways including: (i) Users can pay a monthly membership fee to view certain content for the applicable period of time ("FAKKU Subscription") or (ii) Users may purchase certain content, or products, from us ("Purchasable Good(s)") which are then unlocked on their Account if digital ("Digital Good(s)"), and delivered to them if physical ("Physical Good(s)").
 
 Purchasable Goods
 -----------------
@@ -95,7 +95,7 @@ Returns will be refunded to the original payment method.
 * When processing returns, shipping costs are not refunded to the customer.
 * Digital items unlocked with the purchase of a physical item are dependent on the persisted ownership of the physical item. Returning or canceling a physical item purchase will revoke the digital item from your account.
 * Access to digital items will be removed from your account once a refund has been initiated.
-* At any time we may provide a refund, discount, or other form of compensation to some or all of our users (“reimbursements”). The amount and form of compensation are at our sole and absolute discretion. The provision of reimbursements in one instance does not entitle you to reimbursements in the future for similar instances, nor does it obligate us to provide reimbursements in the future, under any circumstances.
+* At any time we may provide a refund, discount, or other form of compensation to some or all of our users ("reimbursements"). The amount and form of compensation are at our sole and absolute discretion. The provision of reimbursements in one instance does not entitle you to reimbursements in the future for similar instances, nor does it obligate us to provide reimbursements in the future, under any circumstances.
 
 #### Pre-Orders
 
@@ -132,11 +132,11 @@ FAKKU Subscription
 
 #### Billing Cycle
 
-The payment for your FAKKU Subscription will be billed at the beginning of the paying portion of your subscription and each month thereafter until you choose to cancel your subscription. We will automatically bill your Payment Method each month on the corresponding calendar day to the start of your paying period. In some cases, your payment date may change, such as in the event that your Payment Method was not successfully settled, or if your starting date begins on a day not contained in a given month. Visit your “Subscription Settings” page on our service to view your next billing date.
+The payment for your FAKKU Subscription will be billed at the beginning of the paying portion of your subscription and each month thereafter until you choose to cancel your subscription. We will automatically bill your Payment Method each month on the corresponding calendar day to the start of your paying period. In some cases, your payment date may change, such as in the event that your Payment Method was not successfully settled, or if your starting date begins on a day not contained in a given month. Visit your "Subscription Settings" page on our service to view your next billing date.
 
 #### Payment Methods
 
-To use the FAKKU Subscription service you must provide one or more Payment Methods. You can update your Payment Methods by going to the “Payment Settings” page. You authorize us to charge any Payment Methods associated with your account in the event of your default payment method declining or no longer being available to us for your payment. You are responsible for any uncollected amounts. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, we will automatically cancel your FAKKU Subscription until you chose to renew it. For some payment methods, the issuer may charge you fees, such as foreign transaction fees or other fees relating to the processing of your payment. Check with your payment method service provider for more details regarding any possible fees.
+To use the FAKKU Subscription service you must provide one or more Payment Methods. You can update your Payment Methods by going to the "Payment Settings" page. You authorize us to charge any Payment Methods associated with your account in the event of your default payment method declining or no longer being available to us for your payment. You are responsible for any uncollected amounts. If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, we will automatically cancel your FAKKU Subscription until you chose to renew it. For some payment methods, the issuer may charge you fees, such as foreign transaction fees or other fees relating to the processing of your payment. Check with your payment method service provider for more details regarding any possible fees.
 
 #### Pricing Changes
 
@@ -144,16 +144,16 @@ We reserve the right to change our FAKKU Subscription pricing in any manner and 
 
 #### Cancellations
 
-You can cancel your FAKKU Subscription at any time and will continue to have access to the Services until the end of your current billing period. We do not provide refunds for any partial periods. To cancel, go to the “Subscription Settings” page on our Service and follow the instructions for cancellation. If you cancel your FAKKU Subscription, your account will lose access to content restricted to the FAKKU Subscription at the end of your current billing period. To see when your account will lose access, visit the “Subscription Settings” page.
+You can cancel your FAKKU Subscription at any time and will continue to have access to the Services until the end of your current billing period. We do not provide refunds for any partial periods. To cancel, go to the "Subscription Settings" page on our Service and follow the instructions for cancellation. If you cancel your FAKKU Subscription, your account will lose access to content restricted to the FAKKU Subscription at the end of your current billing period. To see when your account will lose access, visit the "Subscription Settings" page.
 
 #### Refunds
 
-Payments for a FAKKU Subscription are nonrefundable and there are no refunds for partially used periods. Following any cancellation, you will continue to have access to the Services until the end of your current billing period. At any time we may provide a refund, discount, or other forms of compensation to some or all of our users (“reimbursements”). The amount and form of compensation are at our sole and absolute discretion. The provision of reimbursements in one instance does not entitle you to reimbursements in the future for similar instances, nor does it obligate us to provide reimbursements in the future, under any circumstances.
+Payments for a FAKKU Subscription are nonrefundable and there are no refunds for partially used periods. Following any cancellation, you will continue to have access to the Services until the end of your current billing period. At any time we may provide a refund, discount, or other forms of compensation to some or all of our users ("reimbursements"). The amount and form of compensation are at our sole and absolute discretion. The provision of reimbursements in one instance does not entitle you to reimbursements in the future for similar instances, nor does it obligate us to provide reimbursements in the future, under any circumstances.
 
 Your Content
 ------------
 
-You agree that any data, text, graphics, photographs and their selection and arrangement, and any other materials uploaded to the Service by you are considered “Your Content”. You agree to ensure us that Your Content is original to you and that you exclusively own the rights to such content, including the right to grant all of the rights and licenses in these Terms without us incurring any third-party obligations or liability. Your Content is your sole responsibility and we are not responsible for any material that you upload, post, or otherwise make available.
+You agree that any data, text, graphics, photographs and their selection and arrangement, and any other materials uploaded to the Service by you are considered "Your Content". You agree to ensure us that Your Content is original to you and that you exclusively own the rights to such content, including the right to grant all of the rights and licenses in these Terms without us incurring any third-party obligations or liability. Your Content is your sole responsibility and we are not responsible for any material that you upload, post, or otherwise make available.
 
 By uploading, distributing, transmitting or otherwise using Your Content with the Service, you grant to us a perpetual, non-exclusive, transferable, royalty-free, sublicensable, and worldwide license to use, host, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display Your Content in connection with operating and providing the Service.
 
@@ -188,7 +188,7 @@ As an example, you agree to not use the Service to:
 * Infringe upon or violate our intellectual property rights or the intellectual property rights of others;
 * Spam, phish, pharm, pretext, spider, crawl, or scrape;
 * Circumventing any territorial restrictions applied by us or our licensors;
-* Copy, redistribute, reproduce, “ripping”, transferring, or making available to the public any part of the Service or the Content which is not expressly permitted under the Agreements or applicable law or which otherwise infringes the intellectual property rights in the Service or the Content or any part of it.
+* Copy, redistribute, reproduce, "ripping", transferring, or making available to the public any part of the Service or the Content which is not expressly permitted under the Agreements or applicable law or which otherwise infringes the intellectual property rights in the Service or the Content or any part of it.
 
 We reserve the right to determine what conduct we consider to be in violation of the Terms, guidelines or improper use of the Service and to take action including the termination of your Account and exclusion from further access to the Service.
 
@@ -238,7 +238,7 @@ You can review the most current version of the Terms of Service at any time on t
 Feedback
 --------
 
-We appreciate and encourage our users to provide feedback, comments and suggestions for improvements to the Services (“Feedback”). You may submit feedback by emailing us at [contact@fakku.net](mailto:contact@fakku.net) or through the [Contact Form section](https://www.fakku.net/contact) of the Service.
+We appreciate and encourage our users to provide feedback, comments and suggestions for improvements to the Services ("Feedback"). You may submit feedback by emailing us at [contact@fakku.net](mailto:contact@fakku.net) or through the [Contact Form section](https://www.fakku.net/contact) of the Service.
 
 You agree that all Feedback will be the sole and exclusive property of FAKKU, LLC and you hereby assign and agree to assign all rights, title and interest you have in such Feedback to FAKKU, LLC together with all intellectual property rights therein.
 
@@ -257,7 +257,7 @@ Copyright
 
 We respect the intellectual property of others and require our users to do the same. If you believe that your work has been copied in a way that constitutes infringement, or that your intellectual property rights have been other violated, please notify us of your infringement claim in accordance with the procedure below.
 
-We will process and take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. Claims should be emailed to us at [contact@fakku.net](mailto:contact@fakku.net) (Subject line: “DMCA Takedown Request”). You may also contact us via mail at:
+We will process and take appropriate actions under the Digital Millennium Copyright Act ("DMCA") and other applicable intellectual property laws with respect to any alleged or actual infringement. Claims should be emailed to us at [contact@fakku.net](mailto:contact@fakku.net) (Subject line: "DMCA Takedown Request"). You may also contact us via mail at:
 
 FAKKU, LLC.  
 \[Attn: DMCA Takedown Request\]  
