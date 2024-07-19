@@ -2,19 +2,19 @@
 
 ProductArrow Link
 
-[Global Icon
-
-Overview
-
-Your most complete, flexible and secure Travel Rule solution.
-
-Check Overview](https://www.21analytics.ch/products-overview/)[Tiers Icon
+[Tiers Icon
 
 Tiers
 
 Find out what is included and which plans work best for you.
 
-View Tiers](https://www.21analytics.ch/tiers/)
+View Tiers](https://www.21analytics.ch/tiers/)[Security Icon
+
+Data Security
+
+Remove data risks by leveraging an on-premises solution.
+
+Read More](https://www.21analytics.ch/data-security/)
 
 Use Cases
 
@@ -26,15 +26,7 @@ Verify proof of address ownership in 1-click with AOPP's 100% accuracy.](https:/
 
 Travel Rule Automation
 
-Set up business rules and free your team from manual work.](https://www.21analytics.ch/travel-rule-automation/)[Security Icon
-
-Data Security
-
-Remove data risks by leveraging an on-premises solution where you own and control your data.](https://www.21analytics.ch/data-security/)[Search File Icon
-
-Transaction Screening
-
-Identify transfer statuses and risks with all Travel Rule information in one place.](https://www.21analytics.ch/transaction-screening/)
+Set up business rules and free your team from manual work.](https://www.21analytics.ch/travel-rule-automation/)
 
 Product Family
 
@@ -70,7 +62,7 @@ Rust Software Engineering](https://www.21analytics.ch/rust-consulting/)[External
 
 Smart Contract Audits](https://audit.boutique/)
 
-[Travel Rule Regulations](https://www.21analytics.ch/travel-rule-regulations/)[AI](https://www.21analytics.ch/ai/)
+[Travel Rule Regulations](https://www.21analytics.ch/travel-rule-regulations/)
 
 [ResourcesArrow Link](https://www.21analytics.ch/resources/)
 
@@ -90,27 +82,27 @@ Overview](https://www.21analytics.ch/resources/#tools)
 
 What Is The FATF Travel Rule?](https://www.21analytics.ch/what-is-the-fatf-travel-rule/)[Travel Rule FAQ Icon
 
-Travel Rule FAQs](https://www.21analytics.ch/travel-rule-faqs/)[Workflow Icon
-
-TFR Workflow](https://www.21analytics.ch/tfr-workflow/)[Workflow Icon
-
-UK Travel Rule Workflow](https://www.21analytics.ch/uk-travel-rule-workflow/)[Article Icon
+Travel Rule FAQs](https://www.21analytics.ch/travel-rule-faqs/)[Article Icon
 
 EU Travel Rule Guide](https://www.21analytics.ch/european-union-travel-rule-guide/)[Article Icon
 
-EU Travel Rule - EY](https://www.21analytics.ch/eu-travel-rule-tfr-ey/)[Article Icon
+EU Travel Rule - EY](https://www.21analytics.ch/eu-travel-rule-tfr-ey/)[Workflow Icon
 
-Swiss Travel Rule Overview](https://www.21analytics.ch/switzerland-travel-rule-ey/)[Article Icon
+EU TFR Workflow](https://www.21analytics.ch/tfr-workflow/)[Travel Rule in the EU](https://www.21analytics.ch/eu-travel-rule-explained/)[Article Icon
 
-UK Travel Rule Overview](https://www.21analytics.ch/uk-travel-rule/)[Article Icon
+TFR and the German Travel Rule](https://www.21analytics.ch/german-travel-rule/)[Article Icon
 
-Liechtenstein’s Travel Rule Overview](https://www.21analytics.ch/liechtenstein-travel-rule-collab/)[Article Icon
+Swiss Travel Rule](https://www.21analytics.ch/switzerland-travel-rule-ey/)[Article Icon
 
-TRP Addresses the Travel Rule](https://www.21analytics.ch/trp-addresses-travel-rule-challenges/)[Article Icon
+UK Travel Rule](https://www.21analytics.ch/uk-travel-rule/)[Workflow Icon
 
-Dubai Travel Rule Overview](https://www.21analytics.ch/dubai-travel-rule/)[Article Icon
+UK Travel Rule Workflow](https://www.21analytics.ch/uk-travel-rule-workflow/)[Article Icon
 
-German Travel Rule - KPMG](https://www.21analytics.ch/german-travel-rule/)[Travel Rule in the European Union (EU)](https://www.21analytics.ch/eu-travel-rule-explained/)
+Liechtenstein Travel Rule](https://www.21analytics.ch/liechtenstein-travel-rule-collab/)[Article Icon
+
+Dubai Travel Rule](https://www.21analytics.ch/dubai-travel-rule/)[Article Icon
+
+TRP Addresses the Travel Rule](https://www.21analytics.ch/trp-addresses-travel-rule-challenges/)
 
 [Blog](https://www.21analytics.ch/blog/)
 
