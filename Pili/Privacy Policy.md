@@ -60,6 +60,31 @@ Hello, 你好!
 * [熱門角色](javascript:;)
 * [當家台柱](javascript:;)
 
+* [![如果先生](https://www.pili.com.tw/img/role/240x278/ruguoxiansheng_1.jpg?v=1720774513)
+    
+    雜學
+    
+    ###### 如果先生](https://www.pili.com.tw/role-view/ruguoxiansheng/)
+* [![無師自渡](https://www.pili.com.tw/img/role/240x278/wushizidu_1.jpg?v=1720519184)
+    
+    釋
+    
+    ###### 無師自渡](https://www.pili.com.tw/role-view/wushizidu/)
+* [![雨知儂](https://www.pili.com.tw/img/role/240x278/yuzhinong_1.jpg?v=1720518592)
+    
+    雜學
+    
+    ###### 雨知儂](https://www.pili.com.tw/role-view/yuzhinong/)
+* [![江一柳](https://www.pili.com.tw/img/role/240x278/jiangyiliu_1.jpg?v=1720518585)
+    
+    雜學
+    
+    ###### 江一柳](https://www.pili.com.tw/role-view/jiangyiliu/)
+* [![鴉魂](https://www.pili.com.tw/img/role/240x278/yahuan_1.jpg?v=1720508047)
+    
+    雜學
+    
+    ###### 鴉魂](https://www.pili.com.tw/role-view/yahuan/)
 * [![閃焰](https://www.pili.com.tw/img/role/240x278/shanyan_1.jpg?v=1717408663)
     
     雜學
@@ -85,31 +110,6 @@ Hello, 你好!
     雜學
     
     ###### 淥宇塵](https://www.pili.com.tw/role-view/luyuchen/)
-* [![赤煉兒](https://www.pili.com.tw/img/role/240x278/chilianer_1.jpg?v=1714471209)
-    
-    雜學
-    
-    ###### 赤煉兒](https://www.pili.com.tw/role-view/chilianer/)
-* [![吹刃小子](https://www.pili.com.tw/img/role/240x278/chuirenxiaozi_1.jpg?v=1714471205)
-    
-    雜學
-    
-    ###### 吹刃小子](https://www.pili.com.tw/role-view/chuirenxiaozi/)
-* [![秤價仙](https://www.pili.com.tw/img/role/240x278/chengjiaxian_1.jpg?v=1714471200)
-    
-    雜學
-    
-    ###### 秤價仙](https://www.pili.com.tw/role-view/chengjiaxian/)
-* [![千里不留行](https://www.pili.com.tw/img/role/240x278/qianlibuliuxing_1.jpg?v=1714125650)
-    
-    邪魔
-    
-    ###### 千里不留行](https://www.pili.com.tw/role-view/qianlibuliuxing/)
-* [![太一晉龍](https://www.pili.com.tw/img/role/240x278/taiyijinlong_1.jpg?v=1714125645)
-    
-    雜學
-    
-    ###### 太一晉龍](https://www.pili.com.tw/role-view/taiyijinlong/)
 
 *  [![素還真](/img/role/240x278/su_1.jpg)
     
@@ -182,6 +182,21 @@ Hello, 你好!
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
+* [![赤煉兒](/img/wallpaper/pw01952.jpg)
+    
+    ###### 赤煉兒](https://www.pili.com.tw/img/wallpaper/pw01952.jpg)
+* [![月不落](/img/wallpaper/pw01951.jpg)
+    
+    ###### 月不落](https://www.pili.com.tw/img/wallpaper/pw01951.jpg)
+* [![大腕開道紀](/img/wallpaper/pw01950.jpg)
+    
+    ###### 大腕開道紀](https://www.pili.com.tw/img/wallpaper/pw01950.jpg)
+* [![花初見](/img/wallpaper/pw01949.jpg)
+    
+    ###### 花初見](https://www.pili.com.tw/img/wallpaper/pw01949.jpg)
+* [![天禍妖狐](/img/wallpaper/pw01948.jpg)
+    
+    ###### 天禍妖狐](https://www.pili.com.tw/img/wallpaper/pw01948.jpg)
 * [![舍脂多](/img/wallpaper/pw01947.jpg)
     
     ###### 舍脂多](https://www.pili.com.tw/img/wallpaper/pw01947.jpg)
@@ -197,21 +212,6 @@ Hello, 你好!
 * [![妲眸姬](/img/wallpaper/pw01943.jpg)
     
     ###### 妲眸姬](https://www.pili.com.tw/img/wallpaper/pw01943.jpg)
-* [![別見黃花落](/img/wallpaper/pw01942.jpg)
-    
-    ###### 別見黃花落](https://www.pili.com.tw/img/wallpaper/pw01942.jpg)
-* [![花信風](/img/wallpaper/pw01941.jpg)
-    
-    ###### 花信風](https://www.pili.com.tw/img/wallpaper/pw01941.jpg)
-* [![夢不覺](/img/wallpaper/pw01940.jpg)
-    
-    ###### 夢不覺](https://www.pili.com.tw/img/wallpaper/pw01940.jpg)
-* [![齊天變](/img/wallpaper/pw01939.jpg)
-    
-    ###### 齊天變](https://www.pili.com.tw/img/wallpaper/pw01939.jpg)
-* [![妲眸姬](/img/wallpaper/pw01938.jpg)
-    
-    ###### 妲眸姬](https://www.pili.com.tw/img/wallpaper/pw01938.jpg)
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
@@ -265,20 +265,20 @@ Hello, 你好!
 
 #### 焦點新聞
 
-* [![《肥羊重生後：無慾·無敵》特務談無慾在漫畫裡與你相見！](/img/news/548x316/2024062014403425598.jpg)
+* [![台北直營店搬遷預告](/img/news/548x316/2024071910532923943.jpg)
     
     公告
     
-    2024.06.20
+    2024.07.19
     
-    ##### 《肥羊重生後：無慾·無敵》特務談無慾在漫畫裡與你相見！](https://www.pili.com.tw/news-view/2024062014403425598/)
-* [![2024【傳承與創新—霹靂布袋戲跨界IP展】跨海展出 日本亮麗登場！](/img/news/548x316/2024060509232020670.jpg)
+    ##### 台北直營店搬遷預告](https://www.pili.com.tw/news-view/2024071910532923943/)
+* [![霹靂史上第一次大型售票演唱會【霹靂盛典】10月19、20日盛大開唱！](/img/news/548x316/2024071612025623931.jpg)
     
     公告
     
-    2024.06.05
+    2024.07.16
     
-    ##### 2024【傳承與創新—霹靂布袋戲跨界IP展】跨海展出 日本亮麗登場！](https://www.pili.com.tw/news-view/2024060509232020670/)
+    ##### 霹靂史上第一次大型售票演唱會【霹靂盛典】10月19、20日盛大開唱！](https://www.pili.com.tw/news-view/2024071612025623931/)
 
 [探索全部](https://www.pili.com.tw/news-browse.php)
 
