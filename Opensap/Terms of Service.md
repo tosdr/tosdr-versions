@@ -180,7 +180,7 @@ Revised and posted as of November 23, 2023
 
 Quick Links
 
-* [Trust Center](https://www.sap.com/about/trust-center.html " ")
+* [SAP Trust Center](https://www.sap.com/about/trust-center.html " ")
 * [Find a Solution](https://www.sap.com/partners/find-partner-solutions.html " ")
 * [Industries](https://www.sap.com/industries.html " ")
 * [Find a Partner](https://www.sap.com/partners/find.html " ")
@@ -217,9 +217,9 @@ Site Information
 
 Trending
 
-* [Sapphire](https://www.sap.com/events.html " ")
-* [What is Grow?](https://www.sap.com/products/erp/grow.html " ")
-* [What is RISE?](https://www.sap.com/products/erp/rise.html " ")
+* [SAP Sapphire](https://www.sap.com/events.html " ")
+* [What is GROW with SAP?](https://www.sap.com/products/erp/grow.html " ")
+* [What is RISE with SAP?](https://www.sap.com/products/erp/rise.html " ")
 * [Artificial Intelligence](https://www.sap.com/products/artificial-intelligence.html " ")
 * [Sustainability](https://www.sap.com/products/sustainability.html " ")
 * [Partner Ecosystem](https://partneredge.sap.com/en.html " ")
@@ -229,5 +229,7 @@ Trending
 * [](https://www.linkedin.com/company/sap "LinkedIn")
 * [](https://www.instagram.com/sap/ "Instagram")
 * [](mailto:?body=I%20think%20this%20content%20I%20found%20on%20SAP.com%20may%20interest%20you:%20undefined%3Fsource%3Dsocial-atw-mailto "Email share")
+
+[](#page)
 
 **[Back to top](#page)**
