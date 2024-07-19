@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-NRF Nexus Jun 4-6 July 15-17
+Retail Advocates Summit July 24-25
 
-[](https://nexus.nrf.com/?utm_source=Website&utm_medium=nrf.com&utm_campaign=Nexus%202024)
+[](https://nrf.com/retail-advocates-summit-2024)
 
 Related Sites Menu
 ------------------
@@ -33,7 +33,7 @@ Main navigation
     * [Policy Spotlight](https://nrf.com/advocacy/hill)
     * [Action Center](https://nrf.com/takeaction)
     * [Policy Committees](https://nrf.com/advocacy/nrf-policy-council-and-committees)
-    * [Policy Issues](https://nrf.com/hill/policy-issues)
+    * [Policy Issues](https://nrf.com/advocacy/policy-issues)
     * [RetailPAC](https://nrf.com/advocacy/retailpac)
     * [Store Tours](https://nrf.com/advocacy/nrf-store-tours)
 * EVENTS
