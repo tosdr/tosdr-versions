@@ -134,7 +134,8 @@ Además de estos Términos y Condiciones, cada servicio del Ecosistema MELI tien
 
 Estos Términos y Condiciones se rigen por la ley argentina. Toda controversia derivada de su aplicación, interpretación, ejecución o validez será resuelta por los tribunales nacionales ordinarios competentes, con asiento en la Ciudad de Buenos Aires, salvo disposición específica de normas de orden público, como por ejemplo, legislación relativa al Consumidor. Para todos los efectos relacionados con estos Términos y Condiciones y con el uso del sitio, MercadoLibre S.R.L. con CUIT 30-70308853-4 establece como domicilio Caseros 3039, Piso 2 Ciudad Autónoma de Buenos Aires, Argentina.
 
-### ¿Te fue útil la información?
+¿Te fue útil la información?
+----------------------------
 
 SíNo
 
@@ -149,7 +150,7 @@ Copyright © 1999-2024 MercadoLibre S.R.L.
 * [Ayuda](https://www.mercadolibre.com.ar/ayuda)
 * [Defensa del Consumidor](https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014)
 * [Información sobre seguros](https://www.mercadolibre.com.ar/ayuda/23303)
-* [Hot Sale](https://www.mercadolibre.com.ar/hot-sale)
+* [Libro de quejas online](https://www.mercadolibre.com.ar/ayuda/4623)
 
 Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
 
