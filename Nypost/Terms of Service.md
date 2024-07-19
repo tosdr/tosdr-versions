@@ -11,6 +11,7 @@ Primary Menu Sections
 * [Sports](https://nypost.com/sports/)
     * [NFL](https://nypost.com/nfl/)
     * [MLB](https://nypost.com/mlb/)
+    * [Olympics](https://nypost.com/olympics/)
     * [NBA](https://nypost.com/nba/)
     * [NHL](https://nypost.com/nhl/)
     * [College Football](https://nypost.com/college-football/)
@@ -54,7 +55,7 @@ Primary Menu Sections
     * [Crosswords & Games](https://nypost.com/games/)
     * [Sports Odds](https://nypost.com/odds/)
     * [Podcasts](https://nypost.com/podcasts/)
-    * [Careers](https://nypost.com/careers/)
+    * [Careers](https://careers.nypost.com/)
 * * [Email Newsletters](https://email.nypost.com/)
     * [Official Store](https://shop.nypost.com/)
     * [Home Delivery](https://subscribe.nypost.com/)
@@ -72,7 +73,7 @@ Search
 
 #### Breaking News
 
-[Legendary actor Donald Sutherland dead at 88, son Kiefer pays tribute: 'A life well lived'](https://nypost.com/2024/06/20/entertainment/donald-sutherland-dead-at-88-kiefer-pays-tribute-a-life-well-lived/)
+[CrowdStrike CEO speaks out after failed tech update causes worldwide chaos at airports and banks](https://nypost.com/2024/07/19/us-news/crowdstrike-ceo-george-kurtz-speaks-out-after-failed-tech-update-causes-worldwide-chaos-at-airports-and-banks/)
 
 Terms Of Use
 ============
@@ -313,7 +314,7 @@ If a Dispute is a Covered Dispute, the Mandatory Dispute Resolution Provisions f
         * [Newsroom](https://nypost.com/contact/)
         * [Letters to the Editor](https://nypost.com/contact/)
         * [Licensing & Reprints](https://info.wrightsmedia.com/new-york-post-licensing)
-        * [Careers](https://nypost.com/careers/)
+        * [Careers](https://careers.nypost.com/)
         * [Vulnerability Disclosure Program](https://nypost.com/vulnerability-disclosure-program/)
 * [Apps](#)
     * [iPhone App](https://itunes.apple.com/us/app/new-york-post-iphone-edition/id410094240?mt=8)
@@ -322,7 +323,7 @@ If a Dispute is a Covered Dispute, the Mandatory Dispute Resolution Provisions f
     * [Android Tablet](https://play.google.com/store/apps/details?id=com.nypost.tablet&hl=en)
     * [Advertise](#)
         * [Media Kit](https://advertising.nypost.com/)
-        * [Contact](https://advertising.nypost.com/#contact)
+        * [Contact](https://advertising.nypost.com/contact-us/)
 
 © 2024 NYP Holdings, Inc. All Rights Reserved [Terms of Use](https://nypost.com/terms/) [Membership Terms](https://nypost.com/membership-terms/) [Privacy Notice](https://nypost.com/privacy/) [Sitemap](https://nypost.com/sitemap/)
 
