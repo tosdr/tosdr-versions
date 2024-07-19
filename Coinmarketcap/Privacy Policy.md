@@ -1,28 +1,28 @@
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [782](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [792](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.32T](https://coinmarketcap.com/charts/#market-cap)
+[$2.35T](https://coinmarketcap.com/charts/#market-cap)
 
-1.66%
+0.74%
 
 24h Vol: 
 
-[$67.76B](https://coinmarketcap.com/charts/#volume-24h)
+[$68.5B](https://coinmarketcap.com/charts/#volume-24h)
 
-1.13%
+10.14%
 
-Dominance: [BTC: 54.0% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 53.9% ETH: 17.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-8 Gwei
+6 Gwei
 
  Fear & Greed: 
 
-[52/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
+[57/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
 
 [](https://coinmarketcap.com/ "Go to homepage")
 
@@ -32,55 +32,55 @@ Dominance: [BTC: 54.0% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-d
 
 Cryptocurrencies
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCmcIcon.svg)Ranking](https://coinmarketcap.com/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCategoriesIcon.svg)Categories](https://coinmarketcap.com/cryptocurrency-category/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGlobalChartsIcon.svg)Global Charts](https://coinmarketcap.com/charts/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHistoryIcon.svg)Historical Snapshots](https://coinmarketcap.com/historical/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuBitcoinETFsIcon.svg)Bitcoin ETFs](https://coinmarketcap.com/bitcoin-etf/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTokenUnlocksIcon.svg)Token unlocks](https://coinmarketcap.com/token-unlocks/)
+[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Bitcoin ETFs](https://coinmarketcap.com/etf/bitcoin/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)
 
 Leaderboards
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTrendingIcon.svg)Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuRecentlyAddedIcon.svg)Recently Added](https://coinmarketcap.com/new/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGainersLosersIcon.svg)Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuMostVisited.svg)Most Visited](https://coinmarketcap.com/most-viewed-pages/)
+[Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[Upcoming](https://coinmarketcap.com/upcoming/)[Recently Added](https://coinmarketcap.com/new/)[Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[Most Visited](https://coinmarketcap.com/most-viewed-pages/)
 
 NFT
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuNFTOverviewV2.svg)Overall NFT Stats](https://coinmarketcap.com/nft/)[Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
+[Overall NFT Stats](https://coinmarketcap.com/nft/)[Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
 
 On Chain Data
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexscan.svg)DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuChainRanking.svg)Chain Ranking](https://coinmarketcap.com/chain-ranking/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHottestDexPairs.svg)Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
+[DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)[Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
 
 [Exchanges](https://coinmarketcap.com/rankings/exchanges/)
 
 Centralized Exchanges
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/derivatives/)
+[Spot](https://coinmarketcap.com/rankings/exchanges/)[Derivatives](https://coinmarketcap.com/rankings/exchanges/derivatives/)
 
 Decentralized Exchanges
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/dex/?type=spot)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/dex/?type=derivatives)
+[Spot](https://coinmarketcap.com/rankings/exchanges/dex/?type=spot)[Derivatives](https://coinmarketcap.com/rankings/exchanges/dex/?type=derivatives)
 
 [Community](https://coinmarketcap.com/community/)
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/feed.svg)Feeds](https://coinmarketcap.com/community/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/topics.svg)Topics](https://coinmarketcap.com/community/topics/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/lives.svg)Lives](https://coinmarketcap.com/community/lives/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/articles.svg)Articles](https://coinmarketcap.com/community/articles/)
+[Feeds](https://coinmarketcap.com/community/)[Topics](https://coinmarketcap.com/community/topics/)[Lives](https://coinmarketcap.com/community/lives/)[Articles](https://coinmarketcap.com/community/articles/)
 
 Products
 
 Products
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuConverterIcon.svg)Converter](https://coinmarketcap.com/converter/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuExplorerIcon.svg)CMC Labs](https://coinmarketcap.com/events/cmc-labs/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTelegramBotIcon.svg)Telegram Bot](https://coinmarketcap.com/chatbot/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuAdvertiseIcon.svg)Advertise](https://coinmarketcap.com/events/advertise/)
+[Converter](https://coinmarketcap.com/converter/)[Newsletter](https://coinmarketcap.com/newsletter/)[CMC Labs](https://coinmarketcap.com/events/cmc-labs/)[Telegram Bot](https://coinmarketcap.com/chatbot/)[Advertise](https://coinmarketcap.com/events/advertise/)
 
 * * *
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCryptoApiIcon.light.svg)Crypto API](https://coinmarketcap.com/api/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuWidgetsIcon.light.svg)Site Widgets](https://coinmarketcap.com/widget/ticker/)
+[Crypto API](https://coinmarketcap.com/api/)[Site Widgets](https://coinmarketcap.com/widget/ticker/)
 
 Campaigns
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuAirdropsIcon.svg)Airdrops](https://coinmarketcap.com/airdrop/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuRewardsIcon.svg)Diamond Rewards](https://coinmarketcap.com/account/rewards/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuEarnCryptoIcon.svg)Learn & Earn](https://coinmarketcap.com/earn/)
+[Airdrops](https://coinmarketcap.com/airdrop/)[Diamond Rewards](https://coinmarketcap.com/account/rewards/)[Learn & Earn](https://coinmarketcap.com/earn/)
 
 Calendars
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuICOIcon.svg)ICO Calendar](https://coinmarketcap.com/ico-calendar/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuEvents2Icon.svg)Events Calendar](https://coinmarketcap.com/events/)
+[ICO Calendar](https://coinmarketcap.com/ico-calendar/)[Events Calendar](https://coinmarketcap.com/events/)
 
 Learn
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuNewsIcon.svg)News](https://coinmarketcap.com/headlines/news/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuAlexandriaIcon.svg)Academy](https://coinmarketcap.com/academy/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCMCResearch.svg)Research](https://coinmarketcap.com/academy/categories/cmc-research/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuVideosIcon.svg)Videos](https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGlossaryIcon.svg)Glossary](https://coinmarketcap.com/academy/glossary/)
+[News](https://coinmarketcap.com/headlines/news/)[Academy](https://coinmarketcap.com/academy/)[Research](https://coinmarketcap.com/academy/categories/cmc-research/)[Videos](https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1)[Glossary](https://coinmarketcap.com/academy/glossary/)
 
 Privacy Policy
 ==============
