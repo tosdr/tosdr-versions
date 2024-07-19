@@ -26,6 +26,7 @@
             
             Software](https://www.cranepi.com/en/products/payment-technology/software)
         
+    
     * #### [Self-Service Solutions](https://www.cranepi.com/en/products/self-service-solutions)
         
         Customised solutions for vending, kiosks, payment automation, including world-leading enterprise software integration
@@ -63,6 +64,7 @@
             
             Custom Coffee](https://www.cranepi.com/en/coffee-reimagined)
         
+    
     * #### [Cash Processing](https://www.cranepi.com/en/products/cash-processing)
         
         Back office solutions to automate and process global currencies, including sorters, counters, ticket imaging and check scanning
@@ -100,7 +102,7 @@
         
         Back
         
-        * [Self-checkout Solutions
+        * [Self-Checkout Solutions
             
             Keep cash in the fast lane with flexible solutions for stores of any size](https://www.cranepi.com/en/self-checkout-solutions)
         * [Note and Coin Validation
@@ -123,9 +125,10 @@
             See all our retail solutions in one place](https://show.cranepi.com/)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         * [Self-Service Coin Redemption](https://www.cranepi.com/en/products/self-service-solutions/self-service-coin-redemption/coinmax)
         
+    
     * #### [Self-Service Kiosks](https://www.cranepi.com/en/self-service-kiosks)
         
         Back
@@ -142,13 +145,14 @@
         * [EV Charging Solutions
             
             Cashless payment made easy for EV kiosk OEMs](https://www.cranepi.com/en/cashless/alio/ev-charging)
-        * [Self-service Coffee Machines
+        * [Self-Service Coffee Machines
             
             Premium coffee solutions that keep your brand top of mind for customers and staff](https://www.cranepi.com/en/coffee-reimagined)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Gaming and Casino](https://www.cranepi.com/en/gaming-and-casino)
         
         Back
@@ -176,19 +180,20 @@
             See all our gaming and casino solutions in one place](https://show.cranepi.com/)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Vending](https://www.cranepi.com/en/vending)
         
         Back
         
         * [Food and Snack Machines
             
-            Best-in-class Options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/snack-and-food-vending-machines)
+            Best-in-class options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/snack-and-food-vending-machines)
         * [Cold Beverage Machines
             
-            Best-in-class Options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/cold-beverage-vending-machines)
-        * [Self-service Coffee Machines
+            Best-in-class options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/cold-beverage-vending-machines)
+        * [Self-Service Coffee Machines
             
             Premium coffee solutions that will delight customers and staff](https://www.cranepi.com/en/coffee-reimagined)
         * [Custom Vending Solutions
@@ -208,8 +213,9 @@
             Live monitoring for machines, inventory, devices and payments; including route planning for drivers and loyalty apps for consumers](https://www.cranepi.com/en/products/self-service-solutions/vending-software)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Financial Institutions](https://www.cranepi.com/en/financial-institutions)
         
         Back
@@ -217,13 +223,14 @@
         * [Cash Processing
             
             Complete cash automation solutions that save time and money](https://www.cranepi.com/en/products/cash-processing)
-        * [Self-service Coin Redemption
+        * [Self-Service Coin Redemption
             
             Additional services that attract and retain branch customers](https://www.cranepi.com/en/products/cash-processing/coin-processing/self-service-coin/coinmax)
-        * [Service and Maintencance
+        * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Transportation and Parking](https://www.cranepi.com/en/transportation-and-parking)
         
         Back
@@ -239,7 +246,7 @@
             Cashless payment made easy for EV kiosk OEMs](https://www.cranepi.com/en/cashless/alio/ev-charging)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
     
 * [Support](https://www.cranepi.com/en/support-0)
@@ -277,9 +284,10 @@
             
             MEI Parts](https://www.cranepi.com/en/support#/)
         
+    
     * #### [Cummins Allison](https://www.cranepi.com/en/cummins-allison-support)
         
-        Access technical information, contact a rep, find a service centre, and access the online store
+        Access technical information, contact a rep, find a service center, and access the online store
         
         Back
         
@@ -302,6 +310,7 @@
             
             Service & Maintenance](https://www.cranepi.com/service-and-maintenance)
         
+    
     * #### [Crane Merchandising Systems](https://www.cranepi.com/en/crane-merchandising-systems-support)
         
         Quick access to the technical tool kit, technical library and VendMax help support websites
@@ -407,6 +416,7 @@ Search
             
             Software](https://www.cranepi.com/en/products/payment-technology/software)
         
+    
     * #### [Self-Service Solutions](https://www.cranepi.com/en/products/self-service-solutions)
         
         Customised solutions for vending, kiosks, payment automation, including world-leading enterprise software integration
@@ -444,6 +454,7 @@ Search
             
             Custom Coffee](https://www.cranepi.com/en/coffee-reimagined)
         
+    
     * #### [Cash Processing](https://www.cranepi.com/en/products/cash-processing)
         
         Back office solutions to automate and process global currencies, including sorters, counters, ticket imaging and check scanning
@@ -481,7 +492,7 @@ Search
         
         Back
         
-        * [Self-checkout Solutions
+        * [Self-Checkout Solutions
             
             Keep cash in the fast lane with flexible solutions for stores of any size](https://www.cranepi.com/en/self-checkout-solutions)
         * [Note and Coin Validation
@@ -504,9 +515,10 @@ Search
             See all our retail solutions in one place](https://show.cranepi.com/)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         * [Self-Service Coin Redemption](https://www.cranepi.com/en/products/self-service-solutions/self-service-coin-redemption/coinmax)
         
+    
     * #### [Self-Service Kiosks](https://www.cranepi.com/en/self-service-kiosks)
         
         Back
@@ -523,13 +535,14 @@ Search
         * [EV Charging Solutions
             
             Cashless payment made easy for EV kiosk OEMs](https://www.cranepi.com/en/cashless/alio/ev-charging)
-        * [Self-service Coffee Machines
+        * [Self-Service Coffee Machines
             
             Premium coffee solutions that keep your brand top of mind for customers and staff](https://www.cranepi.com/en/coffee-reimagined)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Gaming and Casino](https://www.cranepi.com/en/gaming-and-casino)
         
         Back
@@ -557,19 +570,20 @@ Search
             See all our gaming and casino solutions in one place](https://show.cranepi.com/)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Vending](https://www.cranepi.com/en/vending)
         
         Back
         
         * [Food and Snack Machines
             
-            Best-in-class Options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/snack-and-food-vending-machines)
+            Best-in-class options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/snack-and-food-vending-machines)
         * [Cold Beverage Machines
             
-            Best-in-class Options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/cold-beverage-vending-machines)
-        * [Self-service Coffee Machines
+            Best-in-class options for Vending Operators](https://www.cranepi.com/en/products/self-service-solutions/cold-beverage-vending-machines)
+        * [Self-Service Coffee Machines
             
             Premium coffee solutions that will delight customers and staff](https://www.cranepi.com/en/coffee-reimagined)
         * [Custom Vending Solutions
@@ -589,8 +603,9 @@ Search
             Live monitoring for machines, inventory, devices and payments; including route planning for drivers and loyalty apps for consumers](https://www.cranepi.com/en/products/self-service-solutions/vending-software)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Financial Institutions](https://www.cranepi.com/en/financial-institutions)
         
         Back
@@ -598,13 +613,14 @@ Search
         * [Cash Processing
             
             Complete cash automation solutions that save time and money](https://www.cranepi.com/en/products/cash-processing)
-        * [Self-service Coin Redemption
+        * [Self-Service Coin Redemption
             
             Additional services that attract and retain branch customers](https://www.cranepi.com/en/products/cash-processing/coin-processing/self-service-coin/coinmax)
-        * [Service and Maintencance
+        * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
+    
     * #### [Transportation and Parking](https://www.cranepi.com/en/transportation-and-parking)
         
         Back
@@ -620,7 +636,7 @@ Search
             Cashless payment made easy for EV kiosk OEMs](https://www.cranepi.com/en/cashless/alio/ev-charging)
         * [Service and Maintenance
             
-            Protect your investment with maintenance packages](https://www.cranepi.com/service-and-maintenance)
+            Protect your investment with maintenance packages](https://service.cranepi.com/)
         
     
 * [Support](https://www.cranepi.com/en/support-0)
@@ -658,9 +674,10 @@ Search
             
             MEI Parts](https://www.cranepi.com/en/support#/)
         
+    
     * #### [Cummins Allison](https://www.cranepi.com/en/cummins-allison-support)
         
-        Access technical information, contact a rep, find a service centre, and access the online store
+        Access technical information, contact a rep, find a service center, and access the online store
         
         Back
         
@@ -683,6 +700,7 @@ Search
             
             Service & Maintenance](https://www.cranepi.com/service-and-maintenance)
         
+    
     * #### [Crane Merchandising Systems](https://www.cranepi.com/en/crane-merchandising-systems-support)
         
         Quick access to the technical tool kit, technical library and VendMax help support websites
@@ -951,6 +969,7 @@ Quick Links
 * [News](https://www.cranepi.com/en/news)
 * [Events](https://www.cranepi.com/en/resource-center?entity_type=events)
 * [Case Studies](https://www.cranepi.com/en/resource-center?entity_type=case_studies)
+* [Careers](https://www.cranepi.com/en/careers)
 * [Legal](https://www.cranepi.com/en/more/legal)
 * [Privacy Policy](https://www.cranepi.com/en/privacy-policy)
 * Cookie Preferences
