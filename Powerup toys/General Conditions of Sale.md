@@ -1,4 +1,4 @@
-FREE WORLDWIDE SHIPPING ON ORDERS $49+
+SUMMER SALE | 15% OFF BUNDLES
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-FREE WORLDWIDE SHIPPING ON ORDERS $49+
+SUMMER SALE | 15% OFF BUNDLES
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
@@ -446,6 +446,12 @@ TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/
 
 SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
+[![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+
+![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+
+SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
+
 * [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_50x.png?v=1710950017)
     
     ![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_2000x.png?v=1710950017)
@@ -470,55 +476,73 @@ SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
     
     SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
+* [![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+    
+    ![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+    
+    SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
+
 BUNDLES
 
-[![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1710949754)
+[![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1719818126)
 
-![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1710949754)
+![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1719818126)
 
 POWERUP 4.0 FLIGHT MANUAL BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-flight-manual-bundle)
 
-[![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_50x.png?v=1713202497)
+[![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_50x.png?v=1719818066)
 
-![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_2000x.png?v=1713202497)
+![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_2000x.png?v=1719818066)
 
 POWERUP 4.0 BEGINNER BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-beginner-bundle)
 
-[![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_50x.png?v=1710950379)
+[![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_50x.png?v=1719818179)
 
-![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_2000x.png?v=1710950379)
+![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_2000x.png?v=1719818179)
 
 POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ultimate-bundle)
 
-[![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_50x.jpg?v=1653513424)
+[![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_50x.jpg?v=1719818148)
 
-![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_2000x.jpg?v=1653513424)
+![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_2000x.jpg?v=1719818148)
 
 SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
-* [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1710949754)
+[![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+
+![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+
+SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
+
+* [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1719818126)
     
-    ![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1710949754)
+    ![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1719818126)
     
     POWERUP 4.0 FLIGHT MANUAL BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-flight-manual-bundle)
 
-* [![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_50x.png?v=1713202497)
+* [![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_50x.png?v=1719818066)
     
-    ![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_2000x.png?v=1713202497)
+    ![POWERUP 4.0 BEGINNER BUNDLE](//www.poweruptoys.com/cdn/shop/files/powerupmainimagesbundle4.0v1_2000x.png?v=1719818066)
     
     POWERUP 4.0 BEGINNER BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-beginner-bundle)
 
-* [![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_50x.png?v=1710950379)
+* [![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_50x.png?v=1719818179)
     
-    ![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_2000x.png?v=1710950379)
+    ![POWERUP 4.0 ULTIMATE BUNDLE](//www.poweruptoys.com/cdn/shop/files/6_2000x.png?v=1719818179)
     
     POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ultimate-bundle)
 
-* [![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_50x.jpg?v=1653513424)
+* [![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_50x.jpg?v=1719818148)
     
-    ![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_2000x.jpg?v=1653513424)
+    ![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_2000x.jpg?v=1719818148)
     
     SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
+
+* [![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+    
+    ![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+    
+    SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
 
 ACCESSORIES
 
@@ -546,6 +570,12 @@ ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.c
 
 SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
+[![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+
+![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+
+SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
+
 * [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_50x.png?v=1710951231)
     
     ![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_2000x.png?v=1710951231)
@@ -570,6 +600,12 @@ SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
     
     SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
+* [![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+    
+    ![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+    
+    SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
+
 EDUCATORS
 
 [![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_50x.jpg?v=1653514145)
@@ -590,11 +626,17 @@ POWERUP 2.0 AIRPLANE (24 COUNT)](https://www.poweruptoys.com/products/powerup-2-
 
 THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup-book-stem-pack-temp)
 
-[![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_50x.jpg?v=1670515325)
+[![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_50x.jpg?v=1719818057)
 
-![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_2000x.jpg?v=1670515325)
+![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_2000x.jpg?v=1719818057)
 
 SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
+
+[![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+
+![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+
+SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
 
 * [![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_50x.jpg?v=1653514145)
     
@@ -614,11 +656,17 @@ SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-edu
     
     THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup-book-stem-pack-temp)
 
-* [![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_50x.jpg?v=1670515325)
+* [![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_50x.jpg?v=1719818057)
     
-    ![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_2000x.jpg?v=1670515325)
+    ![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_2000x.jpg?v=1719818057)
     
     SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
+
+* [![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+    
+    ![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+    
+    SHOP SUMMER SALE](https://www.poweruptoys.com/collections/bundles)
 
 Warranty and Return Policies
 ============================
