@@ -95,25 +95,25 @@ Close
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    USD $3,900.00 – $4,400.00
+    USD $4,400.00 – $4,600.00
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    USD $3,900.00 – $5,500.00
+    USD $4,400.00 – $5,700.00
     
     BRIDGE
     
-     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+     [![Claas Jaguar (2012&newer)](https://www.agragps.com/wp-content/uploads/2022/04/xjaguar-thegem-product-justified-square-xxs.jpg.pagespeed.ic.YLYbHZfYuT.jpg)](https://www.agragps.com/product/class-jaguar-2012newer/)
     
-    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+    [Claas Jaguar (2012&newer)](https://www.agragps.com/product/class-jaguar-2012newer/)
     
     $3,380.00
     
-     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
-    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
     $3,380.00
     
@@ -125,15 +125,11 @@ Close
     
     Rated **5.00** out of 5
     
+    (1)
+    
     $620.00
     
     Accessories
-    
-     [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
-    
-    [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
-    
-    USD $80.00
     
      [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
     
@@ -141,11 +137,17 @@ Close
     
     $120.00
     
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
+     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
     
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
     
     $120.00
+    
+     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
+    
+    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
+    
+    $960.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -237,25 +239,25 @@ Menu
     
     [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    USD $3,900.00 – $4,400.00
+    USD $4,400.00 – $4,600.00
     
      [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    USD $3,900.00 – $5,500.00
+    USD $4,400.00 – $5,700.00
     
     BRIDGE
     
-     [![New Holland-JD Bridge](https://www.agragps.com/wp-content/uploads/2022/04/xdieAckerknipser-212-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fWUE9YZbg5.jpg)](https://www.agragps.com/product/new-holland-combine/)
+     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    [New Holland-JD Bridge](https://www.agragps.com/product/new-holland-combine/)
+    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
     
-    USD $3,380.00
+    $3,380.00
     
-     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
+     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
-    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
+    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
     $3,380.00
     
@@ -267,21 +269,23 @@ Menu
     
     Rated **5.00** out of 5
     
+    (1)
+    
     $620.00
     
     Accessories
     
-     [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
+     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
     
-    [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
+    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
     
-    USD $80.00
+    $90.00
     
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    $120.00
+    $140.00
     
      [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
     
@@ -507,6 +511,58 @@ This data is not shared with third parties.
 
 Store currency settings
 
+### WordPress
+
+Functional
+
+Consent to service wordpress 
+
+#### Usage
+
+We use WordPress for website development. [Read more](https://cookiedatabase.org/service/wordpress/)
+
+#### Sharing data
+
+This data is not shared with third parties.
+
+#### Functional
+
+##### Name
+
+[wordpress\_test\_cookie](https://cookiedatabase.org/cookie/wordpress/wordpress_test_cookie/)
+
+##### Expiration
+
+session
+
+##### Function
+
+Read if cookies can be placed
+
+##### Name
+
+[wordpress\_logged\_in\_\*](https://cookiedatabase.org/cookie/wordpress/wordpress_logged_in_/)
+
+##### Expiration
+
+persistent
+
+##### Function
+
+Store logged in users
+
+##### Name
+
+[wp\_lang](https://cookiedatabase.org/cookie/wordpress/wp_lang/)
+
+##### Expiration
+
+session
+
+##### Function
+
+Store language settings
+
 ### WPML
 
 Functional
@@ -537,7 +593,7 @@ Store language settings
 
 ### Facebook
 
-Functional
+Purpose pending investigation
 
 Consent to service facebook 
 
@@ -662,20 +718,6 @@ actppresence
 ##### Expiration
 
 ##### Function
-
-#### Functional
-
-##### Name
-
-[actppresence](https://cookiedatabase.org/cookie/facebook/actppresence/)
-
-##### Expiration
-
-session
-
-##### Function
-
-Store and track if the browser tab is active
 
 ### Complianz
 
@@ -804,16 +846,6 @@ We use PHP for website development. [Read more](https://cookiedatabase.org/servi
 This data is not shared with third parties.
 
 #### Functional
-
-##### Name
-
-[exp\*](https://cookiedatabase.org/cookie/php/exp10032188/)
-
-##### Expiration
-
-##### Function
-
-Provide functions across pages
 
 ##### Name
 
@@ -1767,12 +1799,68 @@ woocommerce\_geo\_hash
 
 ##### Function
 
+##### Name
+
+googlesitekit\_1.130.0\_cce16dff367c9afd23536cfe9f5e21f4\_modules::analytics-4::report::1e568bc91e1da54
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+googlesitekit\_1.130.0\_cce16dff367c9afd23536cfe9f5e21f4\_modules::analytics-4::report::d4a825fb21e3d24
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+googlesitekit\_1.130.0\_cce16dff367c9afd23536cfe9f5e21f4\_modules::search-console::searchanalytics::588
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+googlesitekit\_1.130.0\_cce16dff367c9afd23536cfe9f5e21f4\_modules::analytics-4::report::e254e6fbbb9d464
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+googlesitekit\_1.130.0\_cce16dff367c9afd23536cfe9f5e21f4\_modules::analytics-4::report::9a658498f135bec
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+googlesitekit\_1.130.0\_cce16dff367c9afd23536cfe9f5e21f4\_modules::analytics-4::report::771bf8c838a111e
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+rs6\_overview\_pagination
+
+##### Expiration
+
+##### Function
+
 8\. Enabling/disabling and deleting cookies
 -------------------------------------------
 
 You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser.
 
-Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our websites again.
+Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our website again.
 
 9\. Your rights with respect to personal data
 ---------------------------------------------
@@ -1796,10 +1884,10 @@ Stony Plain, AB
 Canada  
 Canada  
 Website: [https://www.agragps.com](https://www.agragps.com/)  
-Email: moc.spgarga@lepuehj  
+Email: jheupel@agragps.com  
 Phone number: +1 7809904052
 
-This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on June 17, 2024.
+This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on July 15, 2024.
 
 ![ARGO GPS](https://www.agragps.com/wp-content/uploads/2023/04/xlogo_white.png.pagespeed.ic.Zn8vpQ_ISw.png)
 
@@ -1866,6 +1954,6 @@ Save Preferences
 
 [Terms of Service & Privacy Policy](https://www.agragps.com/terms-of-use/) [Cookies Policy](https://www.agragps.com/terms-of-use/)
 
-                                                                       
+                                                                    
 
 [Captcha by Forge12 Interactive GmbH](https://www.forge12.com/ "WordPress Agentur")
