@@ -282,7 +282,7 @@ Comments on services should be relevant to helping people make choices about pla
 
 ### 10.4
 
-You should not use the comments facilities to make complaints about individual hospitals, GP practices or treatment centres if you wish the matter to be dealt with under the [NHS complaints procedures](https://www.nhs.uk/give-feedback-about-the-nhs-website/how-to-complain-to-the-nhs/).
+You should not use the comments facilities to make complaints about individual hospitals, GP practices or treatment centres if you wish the matter to be dealt with under the NHS complaints procedures. [Find out more about feedback and complaints on the NHS England website.](https://www.england.nhs.uk/contact-us/feedback-and-complaints/)
 
 ### 10.5
 
