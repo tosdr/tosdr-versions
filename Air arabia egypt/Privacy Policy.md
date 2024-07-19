@@ -43,6 +43,7 @@ Main menu
     * [Travel updates](https://www.airarabia.com/travel-updates)
     * [Sky Café](https://www.airarabia.com/sky-cafe)
     * [SkyTime](https://www.airarabia.com/sky-time)
+    * [Inflight Magazine](https://www.airarabia.com/en/inflight-magazine)
     
 * [Manage](https://www.airarabia.com/en/manage-bookings) [More](# )
     
@@ -499,6 +500,7 @@ Download the Air Arabia app for free and enjoy great deals wherever you are!
 * [Group booking](https://www.airarabia.com/group-travel-requests)
 * [Charter booking](https://www.airarabia.com/charter-flights-requests)
 * [Travelling from Dubai](https://flights.airarabia.com/en/travelling_from_dubai)
+* [Flights to Dubai](https://flights.airarabia.com/en/flights-to-dubai)
 
 #### Flying with us
 
@@ -512,7 +514,6 @@ Download the Air Arabia app for free and enjoy great deals wherever you are!
 #### About Us
 
 * [Media centre](https://press.airarabia.com/)
-* [Inflight magazine](https://www.airarabia.com/inflight-magazine)
 * [Investor relations](https://www.airarabia.com/en/investor-relations)
 * [Company Information](https://www.airarabia.com/company-information)
 * [Community](https://press.airarabia.com/air-arabia/csr/)
