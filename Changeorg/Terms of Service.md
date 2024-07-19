@@ -1,6 +1,6 @@
 Skip to main content
 
-[![](/corgi/assets/pride.3caf9673d39a07c02a79.svg)](https://www.change.org/)
+[![](/corgi/assets/default.47e5f5a36e3cf94025ee.svg)](https://www.change.org/)
 
 [Start a petition](https://www.change.org/start-a-petition?source_location=header)
 
@@ -369,7 +369,8 @@ Support
 * [Guides](https://guide.change.org/home-uk)
 * [Privacy](https://www.change.org/policies/privacy)
 * [Terms](https://www.change.org/policies/terms-of-service)
-* [Cookies](https://www.change.org/policies/cookies)
+* [Cookie Policy](https://www.change.org/policies/cookies)
+* [Manage Cookies](https://www.change.org/u/manage_cookies)
 
 Connect
 -------
