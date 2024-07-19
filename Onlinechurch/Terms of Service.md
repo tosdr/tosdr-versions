@@ -6,7 +6,7 @@
 
 from [YouVersion for Churches](https://youversion.church/)
 
-[Features](https://online.church/features)[How It Works](https://online.church/how-it-works)[Learn](https://online.church/learn)[Log In](https://online.church/login)
+[Features](https://online.church/features)[How It Works](https://online.church/how-it-works)[Learn](https://online.church/learn)[Careers](https://www.life.church/careers/team/?name=Digital%20Technology)[Log In](https://online.church/login)
 
 [Sign Up](https://online.church/signup)
 
