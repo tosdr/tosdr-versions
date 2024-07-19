@@ -20,9 +20,9 @@ Product
 
 [Sales team collaboration Work with chat, video calls, tasks, calendar, file storage, online documents](https://www.bitrix24.com/tools/crm/sales-team-collaboration.php)
 
-[Sales enablement Get quotes, invoices, payments, catalog, inventory, e-signature, CRM store](https://www.bitrix24.com/tools/crm/sales-enablement.php)
+[Sales enablement Get estimates, invoices, payments, catalog, inventory, e-signature, CRM store](https://www.bitrix24.com/tools/crm/sales-enablement.php)
 
-[Analytics & reports Analyze sales funnel, employee performance, Sales Intelligence, BI reports](https://www.bitrix24.com/tools/crm/analytics-and-reports.php)
+[Analytics & reports Analyze sales funnel, employee performance, Sales Intelligence, BI Builder dashboards](https://www.bitrix24.com/tools/crm/analytics-and-reports.php)
 
 [Mobile CRM Leads, deals, invoices, payments, telephony, emails, inventory, calendar at your fingertips](https://www.bitrix24.com/tools/crm/mobile-crm.php)
 
@@ -230,43 +230,43 @@ Integrations
 
 Import & Export
 
- [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1698055665138)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
+ [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1719827227370)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
 
- [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1698055665138)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
+ [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1719827227370)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
 
- [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1698055665138)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
+ [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1719827227370)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
 
- [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1698055665138)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
+ [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1719827227370)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
 
 Sales & CRM
 
- [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1698055665138)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
+ [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1719827227370)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1698055665138)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1719827227370)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
 
- [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1698055665138)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
+ [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1719827227370)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
- [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1698055665138)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
+ [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1719827227370)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1698055665138)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1719827227370)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1698055665138)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1719827227370)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
 
- [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1698055665138)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
+ [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1719827227370)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
- [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1698055665138)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
+ [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1719827227370)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
 
 Tasks & Projects
 
- [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1698055665138)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
+ [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1719827227370)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
 
- [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1698055665138)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
+ [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1719827227370)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
 
- [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1698055665138)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
+ [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1719827227370)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
 
- [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1698055665138)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
+ [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1719827227370)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
 [See 400+ apps & integrations](https://www.bitrix24.com/apps/)
 
@@ -511,10 +511,10 @@ Bitrix24 reserves the right to change, suspend or discontinue the Website, the S
 9.1. Additional functions  
 9.1.1. Bitrix24 offers different additional functions which might be activated and deactivated by user, having relevant access rights, and/or by Administrator ("Additional functions"). Additional functions might be provided by Bitrix24 or third parties, for an extra fee or free of charge. Usage of some Additional functions might require updating of the Website and the Services. By using any of the Additional functions you acknowledge and agree to comply with the applicable rules and requirements ("Rules") and any applicable law, regulation or generally accepted practices or guidelines within relevant jurisdictions.  
 Rules applicable to Additional functions are integral parts of these Terms of Service and can be found at the following links:  
-9.1.1. (a) [Rules for Bitrix24.Sites](https://www.bitrix24.com/terms/bitrix24sites-rules.php)  
+9.1.1. (a) [Rules for Bitrix24 Sites](https://www.bitrix24.com/terms/bitrix24sites-rules.php)  
 9.1.1. (b) [Rules for Bitrix24 Contact Center](https://www.bitrix24.com/terms/contact_center-rules.php)  
 9.1.1. (с) [Rules for Multiple branches](https://www.bitrix24.com/terms/multiplebranches-rules.php)  
-9.1.1. (d) [Rules for Bitrix24.Sign](https://www.bitrix24.com/terms/bitrix24sign-rules.php)  
+9.1.1. (d) [Rules for Bitrix24 Sign](https://www.bitrix24.com/terms/bitrix24sign-rules.php)  
 9.1.1. (e) [Bitrix24 CoPilot Additional Terms](https://www.bitrix24.com/terms/bitrix24copilot-rules.php)  
 9.1.1. (f) [Terms of Use of Video Calls and Conferences](https://www.bitrix24.com/terms/terms-of-use-videocalls.php)
 
@@ -639,7 +639,7 @@ f. will not use the Website, the Services, and the Products in connection with a
 g. will not illegally collect or attempt to collect personal, sensitive, or billing information from other users; and  
 h. will not perform any actions that may cause or threaten to cause damages or losses to third parties or infringe any third party rights, including by posting information and/or links to network resources.
 
-18.3. If you violate any provision of these Terms of Service or engage in any other behavior Bitrix24 deems abusive or inappropriate, Bitirx24 may take action against your Bitrix24 Customer Account or your Bitrix24.Sites. Bitrix24 reserves the right to remove any User Content and suspend your Bitrix24 Customer Account or your Bitrix24.Sites without any refund of any amounts paid for the Website, the Services, and the Products, without notice, at any time and for any reason. Bitrix24 reserves the right to enforce, or not enforce, these Terms of Service in its sole discretion.
+18.3. If you violate any provision of these Terms of Service or engage in any other behavior Bitrix24 deems abusive or inappropriate, Bitirx24 may take action against your Bitrix24 Customer Account or your Bitrix24 Sites. Bitrix24 reserves the right to remove any User Content and suspend your Bitrix24 Customer Account or your Bitrix24 Sites without any refund of any amounts paid for the Website, the Services, and the Products, without notice, at any time and for any reason. Bitrix24 reserves the right to enforce, or not enforce, these Terms of Service in its sole discretion.
 
 #### 19\. Indemnification.
 
@@ -763,7 +763,6 @@ Bitrix24
 * [Contact us](https://www.bitrix24.com/about/contacts.php)
 * [In the press](https://www.bitrix24.com/about/press.php)
 * [Sustainability](https://www.bitrix24.com/pr/sustainability.php)
-* [New Bitrix24 2024](https://www.bitrix24.com/promo/spring-2024-release/)
 
 Support
 
