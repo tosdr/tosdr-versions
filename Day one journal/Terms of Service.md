@@ -321,6 +321,7 @@ You will not distribute, publish, send, or facilitate the sending of unsolicited
     * [About Day One](https://dayoneapp.com/about/)
     * [Privacy Pledge](https://dayoneapp.com/privacy-pledge/)
     * [Blog](https://dayoneapp.com/blog/)
+    * [Release Notes](https://dayoneapp.com/guides/release-notes/)
     * [Press](https://dayoneapp.com/press/)
     * [Partner With Us](https://dayoneapp.com/partnerships/)
 * [Help](#)
@@ -345,25 +346,15 @@ You will not distribute, publish, send, or facilitate the sending of unsolicited
 
 Part of the [![Automattic Logo](https://dayoneapp.com/wp-content/themes/day-one-app/assets/img/automattic-logo.svg)](https://automattic.com/) family.
 
-Journal from here, there, everywhere.
--------------------------------------
+Capture life’s moments, anytime, anywhere.
+------------------------------------------
 
-Download the Day One journal app for free on iPhone, Android, iPad, Mac, and Apple Watch.
-
-##### IOS
-
-![Journal from here there and everywhere mobile devices image.](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2021/09/ios-and-android402x.png?resize=780%2C332&quality=80&ssl=1)
+Download the free Day One journal app for free on iPhone, Android, iPad, Mac, and Apple Watch. Or access your Day One Journal from any browser.
 
 [App Store](https://get.dayoneapp.com/nQ12/thz34og8)
 
-##### Android
-
-![Android screenshot](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2023/12/Android.png?resize=191%2C381&quality=80&ssl=1 "Android screenshot")
-
 [Android](https://get.dayoneapp.com/nQ12/x1iwo8k6)
 
-##### Mac
+[Mac](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web_lower_page_cta&mt=8)
 
-![Journal from here there and everywhere laptop image.](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2021/09/macbook402x.png?resize=780%2C479&quality=80&ssl=1)
-
-[Mac App Store](https://apps.apple.com/app/apple-store/id1055511498?pt=343955&ct=web_lower_page_cta&mt=8)
+[Login now](https://dayone.me/)
