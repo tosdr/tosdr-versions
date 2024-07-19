@@ -11,12 +11,12 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/e870de7b3d28)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -51,13 +51,13 @@
     * [Contact](https://www.987thebull.com/contact/)
     * [Wall Of Winners](https://www.987thebull.com/winners/)
 * [Concerts & Events](https://www.987thebull.com/events/)
-* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
 * [Win](https://www.987thebull.com/contests/)
 * [Watch](https://www.987thebull.com/videos/)
     
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
-* [We Need Influencers](https://music.musicdoodad.com/s3/c84aa2f30d04)
+* [Positively Portland Stories](http://www.positivelyportlandstories.com/)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/e870de7b3d28)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -210,36 +210,13 @@ Recently Played
 
 |     |
 | --- |
-| HurricaneLuke Combs<br><br>3:47am |
-| White HorseChris Stapleton<br><br>3:37am |
-| Called CrazyKassi Ashton<br><br>3:33am |
-| Thinkin 'Bout MeMorgan Wallen<br><br>3:31am |
-| Hey DriverZach Bryan Ft The War And Treaty<br><br>3:27am |
+| All Summer LongKid Rock<br><br>5:55pm |
+| ChevroletDustin Lynch Ft Jelly Roll<br><br>5:52pm |
+| What IfsKane Brown Ft Lauren Alaina<br><br>5:49pm |
+| 23Chayce Beckham<br><br>5:45pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>5:42pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
-
-* * *
-
-You Might Also Like
--------------------
-
-![Morgan Wallen  Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/wp-content/uploads/2023/09/Morgan-Wallen-2-Radio-Promo-Pic-640x400.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Morgan Wallen Foundation Makes Massive Donation to Hometown](https://www.987thebull.com/morgan-wallen-foundation-makes-massive-donation-to-hometown/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-13/Getty_ScottyMcCreeryTurqoiseTshirt.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Scotty McCreery's certain he doesn't want to be a judge on 'American Idol'](https://www.987thebull.com/scotty-mccreerys-certain-he-doesnt-want-to-be-a-judge-on-american-idol/)
-
-* * *
-
-![](https://s3.amazonaws.com/syndication.abcaudio.com/files/2024-06-11/M_JellyRollPerformanceAmericanIdol2024DisneyEricMcCandless.jpg)
-
-[Country News](https://www.987thebull.com/category/country/)[### Jelly Roll takes "Halfway to Hell" to #1](https://www.987thebull.com/jelly-roll-takes-halfway-to-hell-to-1/)
-
-* * *
 
 [![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/)
 
@@ -256,10 +233,10 @@ You Might Also Like
     If you have a disability preventing you from viewing this file, please contact [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
     
 * [FCC Applications](https://www.987thebull.com/fcc-applications)
-* [Cookie Preference](#cc-settings)
-* [CA Residents: Privacy Notice at Collection of Personal Information](https://www.987thebull.com/privacy-policy#caresidents)
-* [CA Residents: Privacy Notice of Financial Incentive](https://www.987thebull.com/privacy-policy#caincentive)
-* [CA/VA Residents: Do Not Sell Or Share My Personal Information](https://www.987thebull.com/notice-of-right-to-opt-out)
+* [Cookie Preferences](#cc-settings)
+* [![](https://www.987thebull.com/wp-content/themes/blacklab/assets/img/svg/privacyoptions.svg)Your Privacy Choices](https://www.987thebull.com/notice-of-right-to-opt-out)
+* [CA Residents: Notice at Collection](https://www.987thebull.com/privacy-policy/#section-2)
+* [CA Residents: Privacy Notice of Financial Incentive](https://www.987thebull.com/privacy-policy/#ca-financial-incentive)
 
 Discover Brands By...
 ---------------------
@@ -381,6 +358,14 @@ State
 Featured Brands
 ---------------
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -388,14 +373,6 @@ Spanish • Western
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
