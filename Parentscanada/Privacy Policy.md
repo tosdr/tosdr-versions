@@ -339,9 +339,9 @@ If you have any questions about this privacy statement, the practices of this si
 
 #### Made Possible With The Support Of Ontario Creates
 
-[![Ontario creates logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
+[![Ontario Creates Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
 
-![Ontario creates logo](https://www.parentscanada.com/wp-content/uploads/2019/04/Ontario_Creates_Logo.png)](https://www.ontariocreates.ca/)
+![Ontario Creates Logo](https://www.parentscanada.com/wp-content/uploads/2019/04/Ontario_Creates_Logo.png)](https://www.ontariocreates.ca/)
 
 ### Keep Reading
 
@@ -352,9 +352,8 @@ If you have any questions about this privacy statement, the practices of this si
 * [Family Life](https://www.parentscanada.com/category/family-life/)
 * [Food](https://www.parentscanada.com/category/food/)
 * [Health](https://www.parentscanada.com/category/health/)
-* [In The City With Kids](https://www.parentscanada.com/category/in-the-city/)
 * [Microsoft](https://www.parentscanada.com/category/microsoft/)
-* [Need It](https://www.parentscanada.com/category/need-it/)
+* [Need It Want It](https://www.parentscanada.com/category/need-it/)
 * [Opinion](https://www.parentscanada.com/category/opinion/)
 * [Podcast](https://www.parentscanada.com/category/podcast/)
 * [Preschool](https://www.parentscanada.com/category/preschool/)
@@ -362,6 +361,7 @@ If you have any questions about this privacy statement, the practices of this si
 * [School](https://www.parentscanada.com/category/school/)
 * [Sponsored](https://www.parentscanada.com/category/sponsored/)
 * [The Annual](https://www.parentscanada.com/category/the-annual/)
+* [Things To Do In Toronto](https://www.parentscanada.com/category/in-the-city/)
 * [Toddler](https://www.parentscanada.com/category/toddler/)
 
 ### Company
