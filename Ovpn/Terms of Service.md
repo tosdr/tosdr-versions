@@ -49,13 +49,6 @@ Your internet provider can monitor what you do online.
 VPN Terms of Service
 ====================
 
-The below terms are effective as of July 12, 2024. Previous terms may be found [here](https://www.ovpn.com/en/old-tos).
-
-* * *
-
-  
-  
-
 Last Updated: June 2024
 
 IMPORTANT: PLEASE READ THESE VPN TERMS OF SERVICE CAREFULLY BEFORE USING THE VPN SERVICES (AS DEFINED BELOW).
