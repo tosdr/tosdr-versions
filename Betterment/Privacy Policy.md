@@ -49,7 +49,7 @@ See solutions for
 Privacy Policy
 ==============
 
-Last updated February 2, 2024
+Last updated July 12, 2024
 
 Introduction
 ------------
@@ -199,7 +199,7 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between non-affiliated financial companies that together market financial products or services to you.
 
-* Our joint marketing partners include our banking partner, nbkc bank, our student loan management services partner, Spinwheel Solutions Inc., and other financial services companies.
+* Our joint marketing partners include our banking partner, nbkc bank, and other financial services companies.
 
 * * *
 
@@ -246,8 +246,6 @@ If you use a Betterment Visa® Debit Card, you acknowledge and agree that Better
 #### Betterment at Work employer and employee information
 
 We collect information from companies, including retirement plan sponsors and plan participants, that use the Betterment at Work platform. When a company creates an account with Betterment as a retirement plan sponsor, we will collect information on both the company and its employees as plan participants, including but not limited to, the company’s name, the company’s employer identification number, details about the company’s existing retirement plans, an email address of the company’s contact person and other relevant plan information. We will also collect certain personal and financial information about the plan participants, including, but not limited to, names, social security numbers, dates of birth, annual incomes, addresses, length of service with the company, gender, marital status, dates of hire, email addresses and other contact information, occupation, industry, personal interests, bank account balance, salary information, contribution rates and tax bracket.
-
-Betterment at Work employers may offer student loan management services through a joint offering between Betterment and Spinwheel Solutions Inc. (“Spinwheel”). We collect information about your student loans, including the amount of your student loan(s), the interest rate, the balance, the due date, and the loan servicer, as well as any repayment transactions associated with student loans linked to Betterment through Spinwheel. Spinwheel’s collection and use of your personal information is also subject to [Spinwheel’s End User Consent and Privacy Policy](https://legal.spinwheel.io/end-user-privacy-policy/). 
 
 Betterment at Work employers may also offer 529 education savings services through a joint offering between Betterment and Ascensus College Savings Recordkeeping Services, LLC (“Ascensus”). If you open or maintain an integrated 529 account through Betterment, Betterment will share certain personal information collected from you, including your full legal name, phone number, email address, mailing address, date of birth, social security number, and U.S. residency status with Ascensus and with your selected 529 plan for the purpose of opening your 529 account. The services provided by Ascensus and your 529 plan are subject to [Ascensus’s Privacy Policy](http://ascensus.com/privacy-management) as well as the privacy policy of your 529 plan.
 
@@ -387,7 +385,7 @@ We may modify this privacy policy over time without prior notice by posting a ne
 
 Our service is not directed towards anyone under the age of 18. If a parent or guardian becomes aware that their child under the age of 18 has created an account with Betterment and/or provided us with personally identifiable information, please contact us at support@betterment.com. Additionally, if we become aware at any point that a child under the age of 18 is using our service, we will terminate their account. 
 
-                                               
+                                                
 
 U.S. State Privacy Notice and California Notice at Collection
 -------------------------------------------------------------
