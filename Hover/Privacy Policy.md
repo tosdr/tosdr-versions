@@ -132,7 +132,7 @@ Your personal information is still known to people at our company with a need to
 Customer Service Information
 ----------------------------
 
-We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+We use a third party service, Freshworks, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Freshworks system. We also use Freshworks to log information when you call us for assistance. None of this information is accessible by any third party other than Freshworks.
 
 Electronic Newsletters and Unsubscribe Policy
 ---------------------------------------------
