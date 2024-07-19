@@ -930,7 +930,7 @@ For other European jurisdictions please refer to the [European Commission](http
 Things you should know
 ----------------------
 
-* Policy updated: 12 June 2024
+* Policy updated: 12 July 2024
     
     During our relationship with you, we may tell you more about how we collect and handle your information – for example, when you fill in an application form or receive product terms and conditions. You should always read these documents carefully.
     
