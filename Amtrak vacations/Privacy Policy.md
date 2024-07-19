@@ -46,9 +46,9 @@ Main navigation
     
     Save $600](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
     
-    For a limited time only, save $600 per couple on our most popular vacations inclusive of 15 nights or more!
+    Upgrade your rail journey! Save $600 per couple on our vacations inclusive of 15 nights or more!
     
-    [View Details](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
+    [View Trips](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
     
 * [Travel Styles](https://www.amtrakvacations.com/vacation-types?nav=)
     
@@ -141,7 +141,7 @@ Main navigation
     
     Save $500](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
-    For a limited time only, save $500 per couple on our most popular vacations inclusive of 10 nights or more!
+    Upgrade your rail journey! Save $500 per couple on our vacations inclusive of 10 nights or more!
     
     [View Trips](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
     
@@ -255,21 +255,10 @@ Close
 
 [×](#)
 
-### Save Now When You Travel in 2024!
+### All Aboard!
 
-Sign up and view our latest deals and save on our most popular destinations and trips!
-
-First Name 
-
-Last Name 
-
-Email 
-
- 
-
-[×](#)
-
-### Save Now When You Travel in 2024!
+Travel in 2024 & Save up to $600
+--------------------------------
 
 Sign up and view our latest deals and save on our most popular destinations and trips!
 
@@ -289,6 +278,14 @@ Breadcrumb
 
 1. [Home](https://www.amtrakvacations.com/)
 2. Privacy Policy
+
+### Customize Your Cookie Settings
+
+When you visit any website, it may store or retrieve information on your browser mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. This information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your privacy you can choose not to allow some types of cookies.
+
+Manage Privacy Preferences
+
+* * *
 
 _Updated December 26, 2023_
 
