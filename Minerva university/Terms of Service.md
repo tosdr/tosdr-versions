@@ -31,7 +31,7 @@ Academics
 
 [Student Life](https://www.minerva.edu/undergraduate/students-life)
 
-[Experiential Learning](https://www.minerva.edu/undergraduate/students-life#experimental)[Student Community](https://www.minerva.edu/undergraduate/students-life#community)[Residential Living](https://www.minerva.edu/undergraduate/students-life#residential)[Student Profiles](https://www.minerva.edu/undergraduate/students-life#profile)
+[Experiential Learning](https://www.minerva.edu/undergraduate/students-life#experimental)[Student Community](https://www.minerva.edu/undergraduate/students-life#community)[Residential Living](https://www.minerva.edu/undergraduate/students-life#residential)[Student Profiles](https://www.minerva.edu/undergraduate/students-life#profile)[Academic Calendar](https://www.minerva.edu/academic-calendar/)
 
 [Career Development](https://www.minerva.edu/undergraduate/career-development)
 
@@ -227,7 +227,7 @@ Resources
 
 [Non-Discrimination Policy](https://www.minerva.edu/resources/non-discrimination-policy)
 
-[Undergraduate Student Handbook](https://assets.website-files.com/64ca995f0fd30a33b2fd01cc/6613f403f7142db00649848c_Final__2023-24_Minerva_University_Student_Handbook_September_14.pdf)[Graduate Student Handbook](https://minervaschools-production-cms-uploads.s3.amazonaws.com/documents/Graduate_Student_Handbook_AY2023-24.pdf)[Annual Security Report](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/651e2e09749c60cb418a6f71_Annual%20Security%20Report%202022-2023.pdf)
+[Undergraduate Student Handbook](https://assets.website-files.com/64ca995f0fd30a33b2fd01cc/6613f403f7142db00649848c_Final__2023-24_Minerva_University_Student_Handbook_September_14.pdf)[Graduate Student Handbook](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/667edaea615caf0da87c1e94_Graduate%20Student%20Handbook_AY2024-25.pdf)[Annual Security Report](https://cdn.prod.website-files.com/64ca995f0fd30a33b2fd01cc/651e2e09749c60cb418a6f71_Annual%20Security%20Report%202022-2023.pdf)
 
 [Emergency Resources](https://www.minerva.edu/emergency-resources)
 
