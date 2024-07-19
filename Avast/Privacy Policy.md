@@ -322,37 +322,37 @@ For home
         
          ![Small Business](/content/dam/avast/icon/buisness-11.svg)
         
-        [Essential](https://www.avast.com/business/products/essential), [Premium](https://www.avast.com/en-us/business/products/premium), or [Ultimate](https://www.avast.com/en-us/business/products/ultimate) Business Security managed from integrated, cloud-based Business Hub platform.
+        [Essential](https://www.avast.com/business/products/essential), [Premium](https://www.avast.com/business/products/premium), or [Ultimate](https://www.avast.com/h/business/products/ultimate) Business Security managed from integrated, cloud-based Business Hub platform.
         
     * Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
         Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
         Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
         Specialised products
         
         * [Patch Management](https://www.avast.com/business/products/patch-management)
-        * [Cloud Backup](https://www.avast.com/business/products/cloud-backup)
-        * [Premium Remote Control](https://www.avast.com/business/products/premium-remote-control)
+        * [Cloud Backup](https://www.avast.com/business/business-hub/cloud-backup-for-small-business)
+        * [Premium Remote Control](https://www.avast.com/business/console/premium-remote-control)
         * [Antivirus for Linux](https://www.avast.com/business/products/linux-antivirus)
         * [CCleaner](https://www.avast.com/business/products/ccleaner)
         
@@ -503,13 +503,13 @@ Blogs
 
 Americas
 
- [![Argentina](/content/dam/avast/flag/es-ar.svg) Argentina](https://www.avast.com/es-ar/privacy-policy)[![Brasil](/content/dam/avast/flag/pt-br.svg) Brasil](https://www.avast.com/pt-br/privacy-policy)[![Canada (English)](/content/dam/avast/flag/en-ca.svg) Canada (English)](https://www.avast.com/en-ca/index)[![Canada (français)](/content/dam/avast/flag/en-ca.svg) Canada (français)](https://www.avast.com/fr-ca/privacy-policy)[![Chile](/content/dam/avast/flag/es-cl.svg) Chile](https://www.avast.com/es-cl/privacy-policy)[![Colombia](/content/dam/avast/flag/es-co.svg) Colombia](https://www.avast.com/es-co/privacy-policy)[![EE.UU. (español)](/content/dam/avast/flag/en-us.svg) EE.UU. (español)](https://www.avast.com/es-us/privacy-policy)[![México](/content/dam/avast/flag/es-mx.svg) México](https://www.avast.com/es-mx/index)[![USA (English)](/content/dam/avast/flag/en-us.svg) USA (English)](https://www.avast.com/en-us/privacy-policy)
+ [![Argentina](/content/dam/avast/flag/es-ar.svg) Argentina](https://www.avast.com/es-ar/privacy-policy)[![Brasil](/content/dam/avast/flag/pt-br.svg) Brasil](https://www.avast.com/pt-br/privacy-policy)[![Canada (English)](/content/dam/avast/flag/en-ca.svg) Canada (English)](https://www.avast.com/en-ca/privacy-policy)[![Canada (français)](/content/dam/avast/flag/en-ca.svg) Canada (français)](https://www.avast.com/fr-ca/privacy-policy)[![Chile](/content/dam/avast/flag/es-cl.svg) Chile](https://www.avast.com/es-cl/privacy-policy)[![Colombia](/content/dam/avast/flag/es-co.svg) Colombia](https://www.avast.com/es-co/privacy-policy)[![EE.UU. (español)](/content/dam/avast/flag/en-us.svg) EE.UU. (español)](https://www.avast.com/es-us/privacy-policy)[![México](/content/dam/avast/flag/es-mx.svg) México](https://www.avast.com/es-mx/privacy-policy)[![USA (English)](/content/dam/avast/flag/en-us.svg) USA (English)](https://www.avast.com/en-us/privacy-policy)
 
  [![América Latina (español)](/content/dam/avast/flag/es-latin.svg) América Latina (español)](https://www.avast.com/es-ww/privacy-policy)
 
 Europe, Middle East & Africa
 
- [![België (Nederlands)](/content/dam/avast/flag/nl-be.svg) België (Nederlands)](https://www.avast.com/nl-be/privacy-policy)[![Belgique (français)](/content/dam/avast/flag/nl-be.svg) Belgique (français)](https://www.avast.com/fr-be/privacy-policy)[![Česká republika](/content/dam/avast/flag/cs-cz.svg) Česká republika](https://www.avast.com/cs-cz/privacy-policy)[![Danmark](/content/dam/avast/flag/da-dk.svg) Danmark](https://www.avast.com/da-dk/index)[![Deutschland](/content/dam/avast/flag/de-de.svg) Deutschland](https://www.avast.com/de-de/privacy-policy)[![España](/content/dam/avast/flag/es-es.svg) España](https://www.avast.com/es-es/privacy-policy)[![France](/content/dam/avast/flag/fr-fr.svg) France](https://www.avast.com/fr-fr/privacy-policy)[![Italia](/content/dam/avast/flag/it-it.svg) Italia](https://www.avast.com/it-it/privacy-policy)[![Magyarország](/content/dam/avast/flag/hu-hu.svg) Magyarország](https://www.avast.com/hu-hu/privacy-policy)[![Nederland](/content/dam/avast/flag/nl-nl.svg) Nederland](https://www.avast.com/nl-nl/privacy-policy)[![Norge](/content/dam/avast/flag/no-no.svg) Norge](https://www.avast.com/no-no/privacy-policy)
+ [![België (Nederlands)](/content/dam/avast/flag/nl-be.svg) België (Nederlands)](https://www.avast.com/nl-be/privacy-policy)[![Belgique (français)](/content/dam/avast/flag/nl-be.svg) Belgique (français)](https://www.avast.com/fr-be/privacy-policy)[![Česká republika](/content/dam/avast/flag/cs-cz.svg) Česká republika](https://www.avast.com/cs-cz/privacy-policy)[![Danmark](/content/dam/avast/flag/da-dk.svg) Danmark](https://www.avast.com/da-dk/privacy-policy)[![Deutschland](/content/dam/avast/flag/de-de.svg) Deutschland](https://www.avast.com/de-de/privacy-policy)[![España](/content/dam/avast/flag/es-es.svg) España](https://www.avast.com/es-es/privacy-policy)[![France](/content/dam/avast/flag/fr-fr.svg) France](https://www.avast.com/fr-fr/privacy-policy)[![Italia](/content/dam/avast/flag/it-it.svg) Italia](https://www.avast.com/it-it/privacy-policy)[![Magyarország](/content/dam/avast/flag/hu-hu.svg) Magyarország](https://www.avast.com/hu-hu/privacy-policy)[![Nederland](/content/dam/avast/flag/nl-nl.svg) Nederland](https://www.avast.com/nl-nl/privacy-policy)[![Norge](/content/dam/avast/flag/no-no.svg) Norge](https://www.avast.com/no-no/privacy-policy)
 
  [![Polska](/content/dam/avast/flag/pl-pl.svg) Polska](https://www.avast.com/pl-pl/privacy-policy)[![Portugal](/content/dam/avast/flag/pt-pt.svg) Portugal](https://www.avast.com/pt-pt/privacy-policy)[![România](/content/dam/avast/flag/ro-ro.svg) România](https://www.avast.com/ro-ro/privacy-policy)[![Schweiz (Deutsch)](/content/dam/avast/flag/de-ch.svg) Schweiz (Deutsch)](https://www.avast.com/de-ch/privacy-policy)[![Slovensko (česky)](/content/dam/avast/flag/cs-sk.svg) Slovensko (česky)](https://www.avast.com/cs-sk/privacy-policy)[![South Africa](/content/dam/avast/flag/en-za.svg) South Africa](https://www.avast.com/en-za/privacy-policy)[![Suisse (français)](/content/dam/avast/flag/de-ch.svg) Suisse (français)](https://www.avast.com/fr-ch/privacy-policy)[![Suomi](/content/dam/avast/flag/fi-fi.svg) Suomi](https://www.avast.com/fi-fi/privacy-policy)[![Sverige](/content/dam/avast/flag/sv-se.svg) Sverige](https://www.avast.com/sv-se/privacy-policy)[![Türkiye](/content/dam/avast/flag/tr-tr.svg) Türkiye](https://www.avast.com/tr-tr/privacy-policy)[![United Arab Emirates](/content/dam/avast/flag/en-ae.svg) United Arab Emirates](https://www.avast.com/en-ae/privacy-policy)
 
@@ -523,7 +523,7 @@ Asia & Pacific
 
  [![Australia](/content/dam/avast/flag/en-au.svg) Australia](https://www.avast.com/en-au/privacy-policy)[![India](/content/dam/avast/flag/hi-in.svg) India](https://www.avast.com/en-in/privacy-policy)[![इंडिया (हिंदी)](/content/dam/avast/flag/hi-in.svg) इंडिया (हिंदी)](https://www.avast.com/hi-in/privacy-policy)[![Indonesia (English)](/content/dam/avast/flag/id-id.svg) Indonesia (English)](https://www.avast.com/en-id/privacy-policy)[![Indonesia (Bahasa Indonesia)](/content/dam/avast/flag/id-id.svg) Indonesia (Bahasa Indonesia)](https://www.avast.com/id-id/privacy-policy)[![Malaysia (English)](/content/dam/avast/flag/ms-my.svg) Malaysia (English)](https://www.avast.com/en-my/privacy-policy)[![Malaysia (Bahasa Melayu)](/content/dam/avast/flag/ms-my.svg) Malaysia (Bahasa Melayu)](https://www.avast.com/ms-my/privacy-policy)[![New Zealand](/content/dam/avast/flag/en-nz.svg) New Zealand](https://www.avast.com/en-nz/privacy-policy)[![Philippines (English)](/content/dam/avast/flag/tl-ph.svg) Philippines (English)](https://www.avast.com/en-ph/privacy-policy)[![Pilipinas (Filipino)](/content/dam/avast/flag/tl-ph.svg) Pilipinas (Filipino)](https://www.avast.com/tl-ph/privacy-policy)[![Singapore](/content/dam/avast/flag/en-sg.svg) Singapore](https://www.avast.com/en-sg/privacy-policy)
 
- [![Việt Nam](/content/dam/avast/flag/vi-vn.svg) Việt Nam](https://www.avast.com/vi-vn/privacy-policy)[![日本語](/content/dam/avast/flag/ja-jp.svg) 日本語](https://www.avast.co.jp/privacy-policy)[![대한민국](/content/dam/avast/flag/ko-kr.svg) 대한민국](https://www.avast.com/ko-kr/privacy-policy)[![简体中文](/content/dam/avast/flag/zh-cn.svg) 简体中文](https://www.avast.com/zh-cn/privacy-policy)[![繁體中文](/content/dam/avast/flag/zh-tw.svg) 繁體中文](https://www.avast.com/zh-tw/privacy-policy)[![ประเทศไทย](/content/dam/avast/flag/th-th.svg) ประเทศไทย](https://www.avast.com/th-th/index)
+ [![Việt Nam](/content/dam/avast/flag/vi-vn.svg) Việt Nam](https://www.avast.com/vi-vn/privacy-policy)[![日本語](/content/dam/avast/flag/ja-jp.svg) 日本語](https://www.avast.co.jp/privacy-policy)[![대한민국](/content/dam/avast/flag/ko-kr.svg) 대한민국](https://www.avast.com/ko-kr/privacy-policy)[![简体中文](/content/dam/avast/flag/zh-cn.svg) 简体中文](https://www.avast.com/zh-cn/privacy-policy)[![繁體中文](/content/dam/avast/flag/zh-tw.svg) 繁體中文](https://www.avast.com/zh-tw/privacy-policy)[![ประเทศไทย](/content/dam/avast/flag/th-th.svg) ประเทศไทย](https://www.avast.com/th-th/privacy-policy)
 
  [![América Latina (español)](/content/dam/avast/flag/es-latin.svg) América Latina (español)](https://www.avast.com/es-ww/privacy-policy)
 
@@ -832,7 +832,7 @@ The intra-group transfers within the Gen Digital Group are covered by the EU-U.S
 
 At the same time, when we transfer Personal Data originating from the EEA outside of the EEA or cooperate with a third-party vendor located outside the EEA, we always make sure to put in place appropriate safeguards, such as [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or [adequacy decisions](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) adopted by the European Commission, to ensure that your data remains safe and secure at all times and that your rights are protected.
 
-Situations where we transfer Personal Data outside of the EEA include: allowing access to Personal Data stored in the Google Cloud Platform to Google personnel located outside the EEA, the provisioning of our products and services and third-party services related to it, the processing of transactions and of your payment details, and the delivery of support services. Further, an outside-EEA transfer may also occur in case of a merger, acquisition or a restructuring, where the acquirer is located outside of the EEA (see the [Mergers, Acquisitions and Restructurings](https://www.avast.com/legal/privacy-policy) section).
+Situations where we transfer Personal Data outside of the EEA include: allowing access to Personal Data stored in the Google Cloud Platform to Google personnel located outside the EEA, the provisioning of our products and services and third-party services related to it, the processing of transactions and of your payment details, and the delivery of support services. Further, an outside-EEA transfer may also occur in case of a merger, acquisition or a restructuring, where the acquirer is located outside of the EEA (see the [Mergers, Acquisitions and Restructurings](#mergers) section).
 
 How We Protect Your Personal Data
 ---------------------------------
@@ -1062,7 +1062,7 @@ Company
 
 © 2024 Gen Digital Inc. All rights reserved.
 
-[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://static3.avast.com/10003177/web/o/legal/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details) Cookie Preferences
+[Privacy policy](https://www.avast.com/privacy-policy) [Products policy](https://www.avast.com/products-policy) [Legal](https://www.avast.com/legal) [Report vulnerability](https://www.avast.com/coordinated-vulnerability-disclosure) [Contact security](https://www.avast.com/bug-bounty) [Modern Slavery Statement](https://www.avast.com/content/dam/avast/pdfs/Avast-Modern-Slavery-Statement-2022.pdf) [Do not sell my info](https://press.avast.com/privacy-listing/en/do-not-sell) [Subscription details](https://www.avast.com/subscription-details) Cookie Preferences
 
  [![](/content/dam/avast/cb/gen-logo-footer.svg)](https://www.avast.com/)
 
