@@ -37,7 +37,7 @@ We also won't try to profit from your privacy. We have two fundamental principle
 
 To operate the Service, we may collect Personal Information.
 
-#### [](#information-you-provide)_Information You Provide_
+#### [](#information-we-collect-about-you)_Information We Collect About You_
 
 ##### [](#basic-account-data)Basic Account Data
 
@@ -52,7 +52,7 @@ may see your name, photo, and birth day and month. Note that users who have you 
 
 ##### [](#content-polo-messages-video-reactions-seconds--private-messages)Content: Polo Messages, Video Reactions, Seconds, & Private Messages
 
-Marco Polo is a cloud service. We may collect and store the content you create, including video, voice, photo, and note messages (collectively, "Polo Messages" or "Polos"), video reactions within a Polo ("Video Reactions"), short video clips you share with selected contacts ("Seconds"), and video responses to a Sharecast ("Private Messages"). We store this Personal Information on our servers so that you can access your data anytime from any of your devices that have the Marco Polo App without having to rely on third-party backups or use up your phone's memory. Our servers are located in the United States. Depending where you or people you are communicating with are located, data may travel through secure networks outside of the United States.
+Marco Polo is a cloud service. We may collect and store the content you create, including video, voice, photo, and note messages (collectively, "Polo Messages" or "Polos"), video reactions within a Polo ("Video Reactions"), short video clips you share with selected contacts ("Seconds"), and video responses to a Sharecast ("Private Messages"). We may also generate transcripts and closed captions of your Polos or receive summaries of your Polos (we’ll call transcripts, closed captions, and summaries, “Polo text features”) unless you opt out of those features. We store this Personal Information on our servers so that you can access your data anytime from any of your devices that have the Marco Polo App without having to rely on third-party backups or use up your phone's memory. Our servers are located in the United States. Depending where you or people you are communicating with are located, data may travel through secure networks outside of the United States.
 
 Polo Messages can be sent in one-on-one chats, groups, or Sharecasts.
 
@@ -181,7 +181,7 @@ You have the ability to manage your content on the App. For Polos you have sent,
 
 We may retain the Personal Information you provide as long as you have an Account as further described here. We may also delete your Account if it is inactive for two years.
 
-If you or we delete your Account, your last name, profile picture, email, birth day and birth month, and any Seconds or Sharecast Private Messages you recorded will be deleted, plus you will be removed from any Marco Polo Groups you were part of and any Sharecasts you were a participant in. Since we do not store your contacts on our servers, we do not retain your contacts' information upon account deletion. Polos, Polo thumbnails, Video Reactions, and Sharecasts, may remain accessible to other people you shared them with through Marco Polo as described in this Policy and the Terms of Service, and may remain on our servers. We retain your phone number and a hash of your email in order to respond to any data requests you might have after your Account has been deleted. Note that if [a customer has been reported and verified as deceased](https://support.marcopolo.me/article/130-preserving-polos-from-a-deceased-user), we will not treat their account as inactive.
+If you or we delete your Account, your last name, profile picture, email, birth day and birth month, and any Seconds or Sharecast Private Messages you recorded will be deleted, plus you will be removed from any Marco Polo Groups you were part of and any Sharecasts you were a participant in. Since we do not store your contacts on our servers, we do not retain your contacts' information upon account deletion. Polos, Polo thumbnails, Video Reactions, Sharecasts, and Polo text features may remain accessible to other people you shared them with through Marco Polo as described in this Policy and the Terms of Service, and may remain on our servers. We retain your phone number and a hash of your email in order to respond to any data requests you might have after your Account has been deleted. Note that if [a customer has been reported and verified as deceased](https://support.marcopolo.me/article/130-preserving-polos-from-a-deceased-user), we will not treat their account as inactive.
 
 In the App from the storyline or the chat archive, you may permanently delete Polos you sent that are still available to you in the App. These Polos are deleted from all accounts in the chat and our servers.
 
@@ -197,7 +197,7 @@ We welcome your comments or questions about this Policy. You may contact us at [
 
 We may modify this Policy from time to time. If we make any changes, we will change the effective date below. We also may provide additional notice, as applicable, depending on the type of change.
 
-Effective date: February 21, 2024.
+Effective date: July 1, 2024.
 
 [![](/images/home/marcopolo-footer-icon.svg)![](/images/home/marcopolo-footer-text.svg)](https://www.marcopolo.me/ "Home")
 
