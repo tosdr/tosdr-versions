@@ -206,7 +206,7 @@ _This Privacy Policy was last modified on July 11, 2023._
 
 © Copyright 2023 iNaturalist. All Rights Reserved.
 
-Revised on April 22, 2024 07:55 PM by [![loarie](https://static.inaturalist.org/attachments/users/icons/477/mini.png?1709012283 "loarie")](https://www.inaturalist.org/users/477) [loarie](https://www.inaturalist.org/people/loarie "loarie")
+Revised on July 8, 2024 05:48 PM by [![tiwane](https://static.inaturalist.org/attachments/users/icons/28/mini.jpg?1655830738 "tiwane")](https://www.inaturalist.org/users/28) [tiwane](https://www.inaturalist.org/people/tiwane "tiwane")
 
 [About](https://www.inaturalist.org/pages/about)
 
