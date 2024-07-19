@@ -15,7 +15,7 @@
         * [Sustainability overview](https://www.merck.com/company-overview/sustainability/)
         * [Philanthropy](https://www.merck.com/company-overview/sustainability/philanthropy/)
         * [Merck Medical Outreach Program](https://www.merck.com/company-overview/sustainability/merck-medical-outreach-program/)
-        * [Impact investing](https://www.merck.com/company-overview/sustainability/impact-investing/)
+        * [Impact Venture Fund](https://www.merck.com/company-overview/sustainability/impact-investing/)
         * [Transparency disclosures](https://www.merck.com/company-overview/sustainability/transparency-disclosures/)
         * [Sustainability resources](https://www.merck.com/company-overview/sustainability/sustainability-resources/)
     * [Leadership](https://www.merck.com/company-overview/leadership/)
