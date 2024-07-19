@@ -165,7 +165,7 @@ Pfadnavigation
 Datenschutzerklärung für bpb.de gemäß Art 13 und 14 DSGVO
 ---------------------------------------------------------
 
-16.10.2023 / 33 Minuten zu lesen
+04.07.2024 / 33 Minuten zu lesen
 
 * [](https://twitter.com/intent/tweet?text=Datenschutzerkl%C3%A4rung+f%C3%BCr+bpb.de&url=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F&via=bpb_de)[](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bpb.de%2Fdie-bpb%2Fueber-uns%2Fservice%2F269718%2Fdatenschutzerklaerung-fuer-bpb-de%2F)[](mailto:?subject=Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%20%20|%20bpb.de&body=%0AIhnen%20wird%20der%20folgende%20Inhalt%20empfohlen:%20https://www.bpb.de/die-bpb/ueber-uns/service/269718/datenschutzerklaerung-fuer-bpb-de/%0A%0ADatenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de%0A-------%0A%0AAuf%20dieser%20Seite%20finden%20Sie%20die%20Datenschutzerkl%C3%A4rung%20f%C3%BCr%20bpb.de.%0A)
 
@@ -180,7 +180,7 @@ Datenschutzerklärung für bpb.de gemäß Art 13 und 14 DSGVO
 * [E. Verarbeitung von personenbezogenen Daten für Angebote der bpb](#node-content-title-21)
 * [F. Rechte der betroffenen Person](#node-content-title-87)
 
-_Zuletzt aktualisiert am: 16.10.2023_
+_Zuletzt aktualisiert am: 04.07.2023_
 
 ### A. Kontaktdaten und Verantwortliche
 
@@ -216,7 +216,7 @@ Wir erheben und verwenden personenbezogene Daten unserer Nutzer grundsätzlich n
 
 #### II. Rechtsgrundlage für die Verarbeitung personenbezogener Daten
 
-Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung der betroffenen Person einholen, dient Art. 6 Abs. 1 lit. a EU-Datenschutzgrundverordnung (DSGVO) als Rechtsgrundlage. Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages, dessen Vertragspartei die betroffene Person ist (z.B. eine Bestellung im bpb-Shop), erforderlich ist, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind. Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist, der unsere Behörde unterliegt, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage. Ist die Verarbeitung für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, so dient Art. 6 Abs. 1 lit. e) DSGVO i. V. m. § 3 BDSG als Rechtsgrundlage für die Verarbeitung.
+Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung der betroffenen Person einholen, dient Art. 6 Abs. 1 lit. a EU-Datenschutzgrundverordnung (DSGVO) als Rechtsgrundlage. Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages, dessen Vertragspartei die betroffene Person ist (z.B. eine Bestellung im bpb-Shop), erforderlich ist, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind. Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist, der unsere Behörde unterliegt, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage. Ist die Verarbeitung für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, so dient Art. 6 Abs. 1 lit. e) DSGVO i.V.m. §2 Erlass über die BpB vom 24.01.2001 als Rechtsgrundlage für die Verarbeitung.
 
 #### III. Datenlöschung und Speicherdauer
 
@@ -259,11 +259,11 @@ Die Daten werden ebenfalls in den Logfiles unseres Systems gespeichert. Eine Spe
 
 ##### Rechtsgrundlage für die Datenverarbeitung
 
-Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art. 6 Abs. 1 lit. e) DSGVO i. V. m. § 3 BDSG.
+Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art. 6 Abs. 1 lit. e) DSGVO i.V.m. §2 Erlass über die BpB vom 24.01.2001.
 
 ##### Zweck der Datenverarbeitung
 
-Die vorübergehende Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Website an den Rechner des Nutzers zu ermöglichen. Hierfür muss die IP-Adresse des Nutzers für die Dauer der Sitzung gespeichert bleiben. Die Speicherung in Logfiles erfolgt, um die Funktionsfähigkeit der Website sicherzustellen. Zudem dienen uns die Daten zur Optimierung der Website und zur Sicherstellung der Sicherheit unserer informationstechnischen Systeme. Eine Auswertung der Daten zu Marketingzwecken findet in diesem Zusammenhang nicht statt.﻿ Zu diesem Zweck ist die Verarbeitung für die Wahrnehmung unserer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, notwendig (Art. 6 Abs. 1 lit. e) DSGVO i. V. m. § 3 BDSG).
+Die vorübergehende Speicherung der IP-Adresse durch das System ist notwendig, um eine Auslieferung der Website an den Rechner des Nutzers zu ermöglichen. Hierfür muss die IP-Adresse des Nutzers für die Dauer der Sitzung gespeichert bleiben. Die Speicherung in Logfiles erfolgt, um die Funktionsfähigkeit der Website sicherzustellen. Zudem dienen uns die Daten zur Optimierung der Website und zur Sicherstellung der Sicherheit unserer informationstechnischen Systeme. Eine Auswertung der Daten zu Marketingzwecken findet in diesem Zusammenhang nicht statt.﻿ Zu diesem Zweck ist die Verarbeitung für die Wahrnehmung unserer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, notwendig (Art. 6 Abs. 1 lit. e) DSGVO i.V.m. §2 Erlass über die BpB vom 24.01.2001).
 
 ##### Dauer der Speicherung
 
@@ -349,7 +349,7 @@ Auf der Internetseite der bpb werden auch E-Mail-Adressen von Dritten (z.B. von 
 
 ##### Rechtsgrundlage für die Datenverarbeitung
 
-Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer Übersendung einer E-Mail übermittelt werden, ist Art. 6 Abs. 1 lit. e) DSGVO i. V. m. § 3 BDSG. Zielt der E-Mail-Kontakt auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO.
+Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer Übersendung einer E-Mail übermittelt werden, ist Art. 6 Abs. 1 lit. e) DSGVO i.V.m. §2 Erlass über die BpB vom 24.01.2001. Zielt der E-Mail-Kontakt auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO.
 
 ##### Zweck der Datenverarbeitung
 
@@ -714,7 +714,7 @@ Dienste u.a. folgender Anbieter werden derzeit auf bpb.de eingebunden:
 
 ##### Rechtsgrundlage für die Datenverarbeitung
 
-Die Rechtsgrundlage für die Übermittlung der Daten ist Art. 6 Abs. 1 lit. e) DSGVO i. V. m. § 3 BDSG.
+Die Rechtsgrundlage für die Übermittlung der Daten ist Art. 6 Abs. 1 lit. e) DSGVO i.V.m. §2 Erlass über die BpB vom 24.01.2001.
 
 ##### Zweck der Verarbeitung
 
