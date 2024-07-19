@@ -386,6 +386,6 @@ Contents
 
 [©2024 OnlyFans](https://onlyfans.com/) [Contact](https://onlyfans.com/contact)
 
-[](https://twitter.com/onlyfans "Twitter")[](https://instagram.com/onlyfans "Instagram")
+[](https://x.com/onlyfans "X")[](https://instagram.com/onlyfans "Instagram")
 
 [Help](https://onlyfans.com/help) [About](https://onlyfans.com/about) [Blog](https://blog.onlyfans.com/) [Branding](https://onlyfans.com/brand) [Store](https://store.onlyfans.com/) [Terms of Service](https://onlyfans.com/terms) [Privacy](https://onlyfans.com/privacy) [Complaints Policy](https://onlyfans.com/terms#complaints-policy) [Cookie Notice](https://onlyfans.com/cookies) [DMCA](https://onlyfans.com/dmca) [USC 2257](https://onlyfans.com/usc2257) [Standard Contract between Fan and Creator](https://onlyfans.com/contract) [OnlyFans Safety & Transparency Center](https://onlyfans.com/transparency-center) [Anti-Slavery and Anti-Trafficking Statement](https://onlyfans.com/antitraffickingstatement) [Acceptable Use Policy](https://onlyfans.com/terms#acceptable-use-policy)
