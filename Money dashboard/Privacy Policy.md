@@ -53,7 +53,7 @@ It is important that you read this privacy policy together with any other privac
 
 If there is anything you don’t understand or you’re not happy about, please get in touch with us by:
 
-* Emailing us at [**support@moneydashboard.com**](mailto:support@moneydashboard.com)
+* Emailing us at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection)
 
 **If you have any concerns**
 
@@ -146,7 +146,7 @@ Under certain circumstances, you have the following rights under data protection
 * Right to withdraw consent
 * Right to review by an independent authority
 
-If you wish to exercise any of the rights set out above, please contact us at [**support@moneydashboard.com**](mailto:support@moneydashboard.com). You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+If you wish to exercise any of the rights set out above, please contact us at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection). You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
@@ -168,7 +168,7 @@ Please note, however, that we may not always be able to comply with your request
 
 **Objecting to processing**
 
-You have the right to stop us processing your personal data for direct marketing purposes. We will always inform you if we intend to use your personal data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can usually exercise your right to prevent such marketing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [**support@moneydashboard.com**](mailto:support@moneydashboard.com).
+You have the right to stop us processing your personal data for direct marketing purposes. We will always inform you if we intend to use your personal data for such purposes, or if we intend to disclose your information to any third party for such purposes. You can usually exercise your right to prevent such marketing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection).
 
 You may also object to us processing your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
 
@@ -197,7 +197,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-We will normally retain your information for a period of 30 days after your account is deactivated or 30 days after your information is no longer needed to provide you with our services. After this period, the data will be deleted from our systems and we will be unable to access it. In some circumstances you can ask us to delete your data sooner: see Deleting personal data above for further information. If you do wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [**support@moneydashboard.com**](mailto:support@moneydashboard.com).
+We will normally retain your information for a period of 30 days after your account is deactivated or 30 days after your information is no longer needed to provide you with our services. After this period, the data will be deleted from our systems and we will be unable to access it. In some circumstances you can ask us to delete your data sooner: see Deleting personal data above for further information. If you do wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection).
 
 As an FCA regulated firm, we have statutory obligations to retain records with respect to the financial services we have provided to you, or introduced to you. Such records will be retained for the shorter of either 12 months beyond the conclusion of the financial service provided, or 5 years. If you cancel your account with us, these statutory records will be archived, and all other information will be deleted.
 
