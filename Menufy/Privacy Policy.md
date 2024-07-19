@@ -4,6 +4,8 @@
 
 [How it works](https://restaurant.menufy.com/system)
 
+[POS](https://restaurant.menufy.com/hungerrush-360-pos)
+
 Marketing
 
 [HungerRush 360 Marketing + Customer Conversion Cards](https://restaurant.menufy.com/hungerrush-360-marketing)
@@ -32,6 +34,8 @@ Marketing
 [Pricing](https://restaurant.menufy.com/pricing)
 
 [How it works](https://restaurant.menufy.com/system)
+
+[POS](https://restaurant.menufy.com/hungerrush-360-pos)
 
 Marketing
 
@@ -239,7 +243,6 @@ Houston, TX 77007
 * [اللغة العربية](https://restaurant.menufy.com/arabic)
 * [中文版本](https://restaurant.menufy.com/chinese)
 * [हिन्दी](https://restaurant.menufy.com/hindi)
-* [한국어](https://restaurant.menufy.com/korean)
 * [Español](https://restaurant.menufy.com/spanish)
 * [ภาษาไทย](https://restaurant.menufy.com/thai)
 * [Tiếng Việt](https://restaurant.menufy.com/vietnamese)
