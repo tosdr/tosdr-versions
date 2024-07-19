@@ -163,16 +163,6 @@ These Terms and the Privacy Policy constitute the entire agreement between you a
 
 We’re trusted by over 12,000 local businesses to automatically bring in more customers and keep them coming back.
 
-See a Demo
-
-Next
-
-Next
-
-Next
-
-Finish
-
 Error
 
 * [![logo](https://www.fivestars.com/wp-content/uploads/2017/02/logo-nyt-1.svg)](https://www.nytimes.com/2016/09/25/business/victor-ho-of-fivestars-take-management-advice-from-interns.html?_r=2)
