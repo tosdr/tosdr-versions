@@ -172,7 +172,7 @@ Contact us: [HealthsToday.com@gmail.com](mailto:HealthsToday.com@gmail.com)
 * [Weight Loss34](https://healthstoday.com/category/diet/weightloss/)
 * [Spiritual Health29](https://healthstoday.com/category/spiritual-health/)
 * [Human Body28](https://healthstoday.com/category/human-body/)
-* [Tips for Healthy Living23](https://healthstoday.com/category/tips-for-healthy-living/)
+* [Tips for Healthy Living24](https://healthstoday.com/category/tips-for-healthy-living/)
 
 * [About us](https://healthstoday.com/about-us/)
 * [Cookie Policy](https://healthstoday.com/cookie-policy/)
