@@ -160,4 +160,39 @@ Change Location Close Ordering Dialog
 
 Enable JavaScript to ensure [website accessibility](https://userway.org/)
 
+HOW TO REDEEM OFFERS
+--------------------
+
+**Redeem Online:**
+
+1. Visit MountainMikesPizza.com and select a restaurant to begin your order.
+2. Sign in with your Mountain Rewards® email and password.
+3. Ensure you’ve selected eligible item(s).
+4. Select **MY OFFERS**, find the offer you’d like to use and select **REDEEM**.
+5. Tap **CHECKOUT** to review order details & submit payment details.
+
+**Redeem In-App:**
+
+1. Visit the REWARDS section, find the offer you’d like to use and select **REDEEM NOW VIA MOBILE ORDER**.
+2. Select a restaurant to begin your order.
+3. Ensure you’ve selected eligible item(s) and head to checkout by tapping on the shopping cart located in the top right corner to review your order details.
+4. Select **MY OFFERS**, find the offer you’d like to use and select **REDEEM**.
+5. Tap **CHECKOUT** to review order details & submit payment details.
+
+**Redeem In-Restaurant:**
+
+1. Before checkout, let the cashier know you will be redeeming an offer.
+2. Visit the **REWARDS** section.
+3. Find the offer you’d like to use and select **REDEEM IN-RESTAURANT**.
+4. Present the phone number listed to the cashier to redeem the specified offer.
+5. Done!
+
+**Have Questions? Visit our** [**FAQ page**](https://www.mountainmikespizza.com/mobile-app-faq/)**.**
+
+×
+
+×
+
+×
+
 ×
