@@ -90,7 +90,9 @@ The legal bits
     
     ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgOSAxNCI+CiAgICA8cGF0aCBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzBhOTkyOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIuNCIgZD0iTTIgMTJsNS01LTUtNSIvPgo8L3N2Zz4K)](https://www.ovoenergy.com.au/terms/refer-a-friend/)[* Family & Domestic Violence Policy
     
-    ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgOSAxNCI+CiAgICA8cGF0aCBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzBhOTkyOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIuNCIgZD0iTTIgMTJsNS01LTUtNSIvPgo8L3N2Zz4K)](https://www.ovoenergy.com.au/terms/family-and-domestic-violence-policy/)
+    ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgOSAxNCI+CiAgICA8cGF0aCBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzBhOTkyOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIuNCIgZD0iTTIgMTJsNS01LTUtNSIvPgo8L3N2Zz4K)](https://www.ovoenergy.com.au/terms/family-and-domestic-violence-policy/)[* Consumer Data Right Policy
+    
+    ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgOSAxNCI+CiAgICA8cGF0aCBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0iIzBhOTkyOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIuNCIgZD0iTTIgMTJsNS01LTUtNSIvPgo8L3N2Zz4K)](https://www.ovoenergy.com.au/terms/consumer-data-right-policy/)
 
 ##### Privacy Policy
 
