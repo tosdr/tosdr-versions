@@ -29,7 +29,7 @@ Added a paragraph describing the privacy implications of [Whitelabel Communities
 Updated policy for data transfers outside the European Economic Area.  
   
 
-Hackster Inc. (also referred to ‘Hackster, ‘we’, ‘us’ or ‘our’ in this Statement) is a member of a world-wide group of companies of which AVNET Inc. (based in the USA) is the parent company. Protecting the security and privacy of your personal data is important to us. Avnet Inc. 2211 South 47th Street Phoenix, AZ USA 85034 is the data controller. On this website Hackster.io 531 Howard Street, 2 FL San Francisco, CA 94105 USA, is a data processor.
+Hackster Inc. (also referred to ‘Hackster, ‘we’, ‘us’ or ‘our’ in this Statement) is a member of a world-wide group of companies of which AVNET Inc. (based in the USA) is the parent company. Protecting the security and privacy of your personal data is important to us. Avnet Inc., 2211 South 47th Street, Phoenix, AZ 85034, USA is the data controller. On this website Hackster.io C/O Avent Inc., 2550 N. First Street, Suite 350, San Jose, CA 95131, USA is a data processor.
 
 The following privacy policy shall apply in addition to all our [Terms of Service](https://www.hackster.io/terms). To ensure fair and transparent processing of your personal data and compliance with applicable laws on data protection, we provide you with the following information:
 
