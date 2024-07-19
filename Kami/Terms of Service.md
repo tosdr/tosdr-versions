@@ -7,7 +7,7 @@
 * [Product](#)
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
-    * [What’s New](https://www.kamiapp.com/whats-new/)
+    * [What’s New](https://www.kamiapp.com/new-world/)
 * [Intergrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
     * [Google Classroom](https://www.kamiapp.com/integrations/google-classroom/)
@@ -28,6 +28,10 @@
         * [Monitoring & Feedback](https://www.kamiapp.com/solutions/monitoring-and-feedback/)
         * [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
         * [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
+    * [By Subject](#)
+        * [ELL](https://www.kamiapp.com/solutions/english-language-learners/)
+        * [Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
+        * [STEM](https://www.kamiapp.com/solutions/stem/)
 * [Resources](#)
     * [Certification](https://www.kamiapp.com/certified/)
     * [Academy](https://www.kamiapp.com/kami-academy/)
@@ -48,7 +52,7 @@ Menu
 * [Product](#)
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
-    * [What’s New](https://www.kamiapp.com/whats-new/)
+    * [What’s New](https://www.kamiapp.com/new-world/)
 * [Intergrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
     * [Google Classroom](https://www.kamiapp.com/integrations/google-classroom/)
@@ -69,6 +73,10 @@ Menu
         * [Monitoring & Feedback](https://www.kamiapp.com/solutions/monitoring-and-feedback/)
         * [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
         * [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
+    * [By Subject](#)
+        * [ELL](https://www.kamiapp.com/solutions/english-language-learners/)
+        * [Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
+        * [STEM](https://www.kamiapp.com/solutions/stem/)
 * [Resources](#)
     * [Certification](https://www.kamiapp.com/certified/)
     * [Academy](https://www.kamiapp.com/kami-academy/)
@@ -87,7 +95,7 @@ Menu
 * [Product](#)
     * [Overview](https://www.kamiapp.com/product)
     * [Features](https://www.kamiapp.com/features/)
-    * [What’s New](https://www.kamiapp.com/whats-new/)
+    * [What’s New](https://www.kamiapp.com/new-world/)
 * [Intergrations](#)
     * [Overview](https://www.kamiapp.com/integrations/)
     * [Google Classroom](https://www.kamiapp.com/integrations/google-classroom/)
@@ -108,6 +116,10 @@ Menu
         * [Monitoring & Feedback](https://www.kamiapp.com/solutions/monitoring-and-feedback/)
         * [Collaboration](https://www.kamiapp.com/solutions/collaboration/)
         * [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
+    * [By Subject](#)
+        * [ELL](https://www.kamiapp.com/solutions/english-language-learners/)
+        * [Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
+        * [STEM](https://www.kamiapp.com/solutions/stem/)
 * [Resources](#)
     * [Certification](https://www.kamiapp.com/certified/)
     * [Academy](https://www.kamiapp.com/kami-academy/)
@@ -129,7 +141,7 @@ PRODUCT
 
 [Features](https://www.kamiapp.com/features/)
 
-[What’s new](https://www.kamiapp.com/whats-new/)
+[What’s new](https://www.kamiapp.com/new-world/)
 
 INTEGRATIONS
 
@@ -146,6 +158,12 @@ INTEGRATIONS
 [OneDrive](https://help.kamiapp.com/en/articles/6264007-how-files-and-annotations-get-stored-in-kami?_gl=1*155qae7*_ga*Mzg4OTQ2MTgwLjE3MDk3NzQ3NTY.*_ga_GHTMXLQYYE*MTcxMzgzNTM2Ny40Ni4xLjE3MTM4MzY4OTEuMC4wLjA.)
 
 [Google Drive](https://help.kamiapp.com/en/articles/6264007-how-files-and-annotations-get-stored-in-kami?_gl=1*155qae7*_ga*Mzg4OTQ2MTgwLjE3MDk3NzQ3NTY.*_ga_GHTMXLQYYE*MTcxMzgzNTM2Ny40Ni4xLjE3MTM4MzY4OTEuMC4wLjA.)
+
+[![](/wp-content/uploads/2024/04/MenuImage_NewEra.png)](https://www.kamiapp.com/new-world/)
+
+See the new world of Kami here!
+
+[Learn more](https://www.kamiapp.com/new-world/)
 
 BY ROLE
 
@@ -169,6 +187,14 @@ BY USE CASE
 
 [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
 
+BY SUBJECT
+
+[English language learners](https://www.kamiapp.com/solutions/english-language-learners/)
+
+[Reading & writing](https://www.kamiapp.com/solutions/reading-and-writing/)
+
+[STEM](https://www.kamiapp.com/solutions/stem/)
+
 LEARN
 
 [Certification](https://www.kamiapp.com/certified/)
@@ -182,6 +208,12 @@ LEARN
 [Leadership Hub](https://www.kamiapp.com/kami-leadership-hub/)
 
 [Help Center](https://help.kamiapp.com/en/)
+
+[![](/wp-content/uploads/2024/04/MenuImage_NewEra.png)](https://www.kamiapp.com/new-world/)
+
+See the new world of Kami here!
+
+[Learn more](https://www.kamiapp.com/new-world/)
 
 [Login](https://web.kamihq.com/web/viewer.html)
 
@@ -389,9 +421,9 @@ And **Kami Limited** in New Zealand
 
 [API Terms of Use](https://www.kamiapp.com/api-terms-of-use)
 
-![](/wp-content/uploads/2023/05/Kami-Logo.png)
+![](/wp-content/uploads/2024/07/KamiLogo.svg)
 
-Add a little Kami Magic to your classroom
+Bring learning to life
 
 [Try for free](https://web.kamihq.com/web/viewer.html)
 
@@ -401,7 +433,7 @@ PRODUCT
 
 [Features](https://www.kamiapp.com/features/)
 
-[What’s new](https://www.kamiapp.com/whats-new/)
+[What’s new](https://www.kamiapp.com/new-world/)
 
 INTEGRATIONS
 
@@ -424,6 +456,14 @@ BY ROLE
 [Academic leader](https://www.kamiapp.com/solutions/academic-leader/)
 
 [Technology leader](https://www.kamiapp.com/solutions/technology-leader/)
+
+BY SUBJECT
+
+[ELL](https://www.kamiapp.com/solutions/english-language-learners/)
+
+[Reading & writing](https://www.kamiapp.com/solutions/reading-and-writing/)
+
+[STEM](https://www.kamiapp.com/solutions/stem/)
 
 BY USE CASE
 
@@ -455,8 +495,6 @@ COMMUNITY
 
 [Kami Kudos](https://www.kamiapp.com/kami-kudos/)
 
-[Events](https://www.kamiapp.com/events/)
-
 [Run your own training](https://www.kamiapp.com/training-kami/)
 
 [Become a Kami Hero](https://www.kamiapp.com/heroes)
@@ -471,9 +509,9 @@ COMPANY
 
 [Careers](https://www.kamiapp.com/careers/)
 
-[![](/wp-content/uploads/2023/05/Kami-Logo.png)](https://www.kamiapp.com/)
+[![](/wp-content/uploads/2024/07/KamiLogo.svg)](https://www.kamiapp.com/)
 
-Add a little Kami Magic to your classroom
+Bring learning to life
 
 [Try for free](https://web.kamihq.com/web/viewer.html)
 
@@ -483,7 +521,7 @@ PRODUCT
 
 [Features](https://www.kamiapp.com/features/)
 
-[What’s new](https://www.kamiapp.com/whats-new/)
+[What’s new](https://www.kamiapp.com/new-world/)
 
 INTEGRATIONS
 
@@ -541,11 +579,17 @@ BY USE CASE
 
 [Accessibility](https://www.kamiapp.com/solutions/accessibility/)
 
+BY SUBJECT
+
+[ELL](https://www.kamiapp.com/solutions/english-language-learners/)
+
+[Reading & Writing](https://www.kamiapp.com/solutions/reading-and-writing/)
+
+[STEM](https://www.kamiapp.com/solutions/stem/)
+
 COMMUNITY
 
 [Kami Kudos](https://www.kamiapp.com/kami-kudos)
-
-[Events](https://www.kamiapp.com/events/)
 
 [Run your own training](https://www.kamiapp.com/training-kami/)
 
@@ -555,7 +599,7 @@ COMMUNITY
 
 Copyright © 2024 Kami | All Rights Reserved
 
-[Terms of service](https://www.kamiapp.com/terms-of-service/) | [Privacy Policy](https://www.kamiapp.com/privacy-policy/) | [Responsible Disclosure Policy](https://www.kamiapp.com/responsible-disclosure-policy/)
+[Terms of service](https://www.kamiapp.com/terms-of-service/) | [Privacy Policy](https://www.kamiapp.com/privacy-policy/)
 
 ![Facebook](/wp-content/uploads/elementor/thumbs/Facebook-qmx4odt5sss5zruhuxahfhcblt3piua9us3f4fdje0.png "Facebook")
 
@@ -566,20 +610,6 @@ Copyright © 2024 Kami | All Rights Reserved
 ![](/wp-content/uploads/2024/04/LinkedIn.png)
 
 ![](/wp-content/uploads/2024/04/Twitter.png)
-
-![Facebook](/wp-content/uploads/elementor/thumbs/Facebook-qmx4odt5sss5zruhuxahfhcblt3piua9us3f4fdje0.png "Facebook")
-
-![YouTube](/wp-content/uploads/elementor/thumbs/YouTube-qmx4ptia8oqxqbreh1myqmaoa00wa6zidvz4in8vvs.png "YouTube")
-
-![](/wp-content/uploads/2024/04/Instagram.png)
-
-![](/wp-content/uploads/2024/04/LinkedIn.png)
-
-![](/wp-content/uploads/2024/04/Twitter.png)
-
-Copyright © 2024 Kami | All Rights Reserved
-
-[Terms of service](https://www.kamiapp.com/terms-of-service/) | [Privacy Policy](https://www.kamiapp.com/privacy-policy/) | [Responsible Disclosure Policy](https://www.kamiapp.com/responsible-disclosure-policy/)
 
 Kami Quote Request
 ------------------
