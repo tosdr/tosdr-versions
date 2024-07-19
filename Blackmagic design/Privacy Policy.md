@@ -158,7 +158,7 @@ Also please note that by using our services, we assume that you are happy for us
     
     1. 1.1
         
-        References to we, us, our or Blackmagic in this Privacy Policy are to Blackmagic Design Pty Ltd, Australian Company Number 098 098 287 of 11 Gateway Court Port Melbourne 3207 Australia Tel: +613 96824770 and its affiliates in the Blackmagic group of companies
+        References to we, us, our or Blackmagic in this Privacy Policy are to Blackmagic Design Pty Ltd, Australian Company Number 098 098 287 of 180 Bank Street, South Melbourne, 3205, Victoria, Australia Tel: +613 96824770 and its affiliates in the Blackmagic group of companies
         
     2. 1.2
         
@@ -575,7 +575,7 @@ Also please note that by using our services, we assume that you are happy for us
         
         1. (a)
             
-            postal address: 11 Gateway Court, Port Melbourne, 3207, Victoria, Australia; or
+            postal address: 180 Bank Street, South Melbourne, 3205, Victoria, Australia; or
             
         2. (b)
             
