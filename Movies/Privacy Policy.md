@@ -1,4 +1,4 @@
-  [![](https://static.moviestvnetwork.com/images/logo_tagline_v2.png) ![](https://static.moviestvnetwork.com/images/logo_tagline_stacked_v2.png)](https://moviestvnetwork.com/)
+  [![Movies! logo](https://static.moviestvnetwork.com/images/logo_tagline_v2.png) ![Movies! logo](https://static.moviestvnetwork.com/images/logo_tagline_stacked_v2.png)](https://moviestvnetwork.com/)
 
 * [Schedule](https://moviestvnetwork.com/schedule/)
 * [Where to Watch](https://moviestvnetwork.com/wheretowatch/)
@@ -11,12 +11,6 @@
     * [Popcorn Movies](https://moviestvnetwork.com/popcorn)
     
 * [Games](http://games.moviestvnetwork.com/?arkpromo=site_topnav)
-* [Stories](https://moviestvnetwork.com/stories/)
-* [](https://www.facebook.com/moviestvnetwork)
-* [](https://twitter.com/MoviesTVNetwork)
-* [](https://www.youtube.com/channel/UCC82NkRLY_Q9hpERaYWaWQg)
-
-* [](https://www.facebook.com/moviestvnetwork)[](https://twitter.com/MoviesTVNetwork)[](https://www.youtube.com/channel/UCC82NkRLY_Q9hpERaYWaWQg)
 
 Privacy Policy
 ==============
