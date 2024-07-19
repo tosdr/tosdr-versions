@@ -291,6 +291,7 @@
 * [会社概要](https://www.makeleaps.jp/about-us/)
 * [プレスリリース](https://makeleaps.jp/press/)
 * [お問い合わせ](https://www.makeleaps.jp/contact/)
+* [採用情報](https://www.makeleaps.jp/careers/)
 * [English](https://www.makeleaps.com/en/)
 
 ##### 無料エクセルテンプレート
