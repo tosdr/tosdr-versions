@@ -66,7 +66,7 @@ accessible\_forward
         * [Hand Saws](https://www.dewalt.com/products/hand-tools/hand-saws)
         * [Knives & Blades](https://www.dewalt.com/products/hand-tools/knives-blades)
         * [Lasers & Instruments](https://www.dewalt.com/products/hand-tools/lasers-instruments)
-        * [Layout Tools](https://www.dewalt.com/products/hand-tools/layout-tools)
+        * [Measure and Layout Tools](https://www.dewalt.com/products/hand-tools/measure-and-layout-tools)
         * [Manual Fastening Tools](https://www.dewalt.com/products/hand-tools/manual-fastening-tools)
         * [Mixed Tool Sets](https://www.dewalt.com/products/hand-tools/mixed-tool-sets)
         * [Pliers & Snips](https://www.dewalt.com/products/hand-tools/pliers-snips)
@@ -419,6 +419,7 @@ Effective as of: March 13, 2017
     * [Warranty Information](https://www.dewalt.com/support/warranty)
 * About
     * [Why DEWALT](https://www.dewalt.com/why-dewalt "About Us")
+    * [Trade Stories](https://www.dewalt.com/about/trade-stories)
     * [Events](https://www.dewalt.com/why-dewalt/events)
     * [Awards](https://www.dewalt.com/why-dewalt/awards)
     * [Featured Articles](https://www.dewalt.com/why-dewalt/featured-articles)
@@ -476,6 +477,7 @@ Leave this field blank
     * [Warranty Information](https://www.dewalt.com/support/warranty)
 * About
     * [Why DEWALT](https://www.dewalt.com/why-dewalt "About Us")
+    * [Trade Stories](https://www.dewalt.com/about/trade-stories)
     * [Events](https://www.dewalt.com/why-dewalt/events)
     * [Awards](https://www.dewalt.com/why-dewalt/awards)
     * [Featured Articles](https://www.dewalt.com/why-dewalt/featured-articles)
@@ -500,18 +502,6 @@ The following are trademarks for one or more DEWALT power tools, accessories, an
 * [Travel Safety with Cordless Tools](https://www.phmsa.dot.gov/safe-travel/batteries)
 * [DEWALT Patent Information](https://www.dewalt.com/legal/dewalt-patent-information)
 * [Shop Safe](https://www.dewalt.com/support/shop-safe)
-
-![zendesk icon](https://bynder.sbdinc.com/m/2bd9230c9c0d515e/original/DW_Zendesk_Duplo_Icon_circular_LFL1.png)
-
-![](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
-
-DEWALT® Support
-
-Hi there 👋Welcome to DeWalt! Stanley Black & Decker and its vendors use your communications here to provide technical support services and improve customer support. This chat uses an automated bot to respond. By continuing, you consent to the collection, use and sharing of the communications in this chat for the purposes mentioned above and as provided in our Privacy Policy.
-
-!['s avatar](https://holastanley.zendesk.com/system/brands/360000099157/Live_Chat-_DW_thumb.jpg)
-
-I agree to the terms above and want to proceed Please, choose an option no yes
 
 ### Notice
 
