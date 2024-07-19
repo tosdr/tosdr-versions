@@ -79,6 +79,10 @@ Search
 * [Gifts for the Couple](https://www.gartnerstudios.com/collections/wedding-gifts)
 * [Gift Bags](https://www.gartnerstudios.com/collections/wedding-gift-bags)
 
+Desktop
+
+* [Desk Essentials](https://www.gartnerstudios.com/collections/desk-essentials)
+
 [Planning](https://www.gartnerstudios.com/collections/planning)
 
 * [Planners](https://www.gartnerstudios.com/collections/planners)
@@ -103,8 +107,6 @@ Search
 
 * [3 Ring Binders + Inserts](https://www.gartnerstudios.com/collections/3-ring-binders-inserts)
 * [Folders](https://www.gartnerstudios.com/collections/folders-padfolios)
-
-[Desktop Organization](https://www.gartnerstudios.com/collections/desktop-organization)
 
 [Wedding Shop](https://www.gartnerstudios.com/collections/wedding-1)
 
@@ -152,7 +154,7 @@ Spring + Summer
 [Graduation](https://www.gartnerstudios.com/collections/graduation)
 
 * [Address Labels + Seals](https://www.gartnerstudios.com/collections/graduation-address-labels-seals)
-* [Invites](https://www.gartnerstudios.com/collections/graduation-invites)
+* [Invitations + Announcements](https://www.gartnerstudios.com/collections/graduation-invites)
 
 [Christmas](https://www.gartnerstudios.com/collections/christmas)
 
