@@ -83,19 +83,19 @@ Footnote 1
 
 The Treasury Board of Canada Secretariat Policy on Privacy Protection defines administrative purpose as the use of personal information about an individual "in a decision making process that directly affects that individual". This includes all uses of personal information for confirming identity (i.e. authentication and verification purposes) and for determining eligibility of individuals for government programs.
 
-[Return to footnote1 Referrer](#fn1-0-rf)
+[Return to footnote1 referrer](#fn1-0-rf)
 
 Footnote 2
 
 The Policy on Privacy Protection defines non-administrative purpose as the use of personal information for a purpose that is not related to any decision-making process that directly affects the individual. This includes the use of personal information for research, statistical, audit and evaluation purposes.
 
-[Return to footnote2 Referrer](#fn2-0-rf)
+[Return to footnote2 referrer](#fn2-0-rf)
 
 Footnote 3
 
 The nature of the Internet is such that web servers automatically collect certain information about a visit to a website, including the visitor's Internet Protocol (IP) address. IP addresses are unique numbers assigned by Internet Service Providers (ISP) to all devices used to access the Internet. Web servers automatically log the IP addresses of visitors to their sites. The IP address, on its own, does not identify an individual. However, in certain circumstances, such as with the co-operation of an ISP for example, it could be used to identify an individual using the site. For this reason, the Government of Canada considers the IP address to be personal information, particularly when combined with other data automatically collected when a visitor requests a Web page such as the page or pages visited, date and time of the visit.
 
-[Return to footnote3 Referrer](#fn3-0-rf)
+[Return to footnote3 referrer](#fn3-0-rf)
 
 Page details
 ------------
