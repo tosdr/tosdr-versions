@@ -51,6 +51,12 @@ This website uses cookies to ensure you get the best experience on our website. 
     * [Ovo Energy](https://www.energyhelpline.com/suppliers/ovo-energy)
     
 * [Resources](https://www.energyhelpline.com/help)
+    
+    [Resources](https://www.energyhelpline.com/help)
+    
+    * [Home Energy Help](https://www.energyhelpline.com/help)
+    * [Business Energy Help](https://www.energyhelpline.com/business-energy-help)
+    
 * [About](https://www.energyhelpline.com/about-us)
 * [Switch Online Now!](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=EHL_NavButton)
 
@@ -84,15 +90,15 @@ You can stop cookies being used on your device by activating the setting on your
 
 * [Find us on Facebook](https://en-gb.facebook.com/energyhelpline/)
 
-* [Follow us on Twitter](https://twitter.com/energyhelpline)
+* [Follow us on Twitter/X](https://x.com/energyhelpline)
 
 * [Follow us on LinkedIn](https://www.linkedin.com/company/energyhelpline)
 
-* [Terms & Conditions](https://www.energyhelpline.com/terms-conditions)
-* [Privacy](https://www.energyhelpline.com/privacy-policy)
-* [Cookies](https://www.energyhelpline.com/cookie-policy)
-* [Anti-Slavery Policy](https://www.energyhelpline.com/anti-slavery-policy)
-* [ESG](https://www.energyhelpline.com/environmental-social-governance-statement)
+* [Terms & Conditions](https://www.energyhelpline.com/about-us/terms-conditions)
+* [Privacy](https://www.energyhelpline.com/about-us/privacy-policy)
+* [Cookies](https://www.energyhelpline.com/about-us/cookie-policy)
+* [Anti-Slavery Policy](https://www.energyhelpline.com/about-us/anti-slavery-policy)
+* [ESG](https://www.energyhelpline.com/about-us/environmental-social-governance-statement)
 
 Copyright © 2024, energyhelpline. All rights reserved
 
