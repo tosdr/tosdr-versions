@@ -889,7 +889,7 @@ You have the right to opt out of the sale of your personal data and the processi
 If you have an Empower dashboard account:
 
 * Log in to your account and go to Settings. Under the Privacy section, you will be able to request a report of the categories of information or specific information that we have collected about you or request that we delete your personal data.
-* To correct any inaccurate personal information, please log onto your Empower dashboard account to manually update the applicable field for your Profile under “Settings” or contactsupport@personalwealth.empower.com; additionally, if you are a Client, you can also contact your financial advisor.
+* To correct any inaccurate personal information, please log onto your Empower dashboard account to manually update the applicable field for your Profile under “Settings” or contact support@personalwealth.empower.com; additionally, if you are a Client, you can also contact your financial advisor.
 * To submit an appeal related to any of your rights granted under the VCDPA, please email us at [privacymatters@empower.com](mailto:privacymatters@empower.com) with your request for appeal and any additional information that may be relevant to the request.    
 * In most cases, we will be able to authenticate your request using your dashboard login. In certain circumstances, if we believe it is necessary to authenticate your request and protect the security of your information, we may require additional information.
 
