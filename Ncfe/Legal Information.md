@@ -1,6 +1,4 @@
-    Privacy notice | NCFE | NCFE                   
-
-![facebook pixel](https://www.facebook.com/tr?id=331393684021375&ev=PageView&noscript=1)
+    Privacy notice | NCFE | NCFE                     
 
 ![](https://px.ads.linkedin.com/collect/?pid=1730657&fmt=gif)
 
@@ -10,7 +8,11 @@
 
    
 
- [![NCFE](/_res/dist/img/logos/VerticalLogo_pride.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN_pride.svg?v=1141)](https://www.ncfe.org.uk/)
+**Essential information for centres, learners and parents of VTQ learners**
+
+[Read more on our results page](https://www.ncfe.org.uk/approach-to-awarding/results/#statement "Results").
+
+ [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1141) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1141)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
     
@@ -39,6 +41,7 @@
     ----------------------------------------------------------------------------
     
     * [Training](https://www.ncfe.org.uk/qualifications/delivery-support/training/)
+        * [Professional Development Week](https://www.ncfe.org.uk/qualifications/delivery-support/professional-development-support/)
         * [Request training and support visits](https://www.ncfe.org.uk/qualifications/delivery-support/training/request-support-visits/)
         * [Upcoming training events](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/iqa-training/)
     * [E-portfolio](https://www.ncfe.org.uk/qualifications/delivery-support/e-portfolio/)
@@ -639,6 +642,7 @@ Post: NCFE, Q6, Quorum Park, Benton Lane, Newcastle Upon Tyne, NE12 8BT
 * [![Microsoftteams Image](/media/okkmaa43/microsoftteams-image.png)](https://www.linkedin.com/company/ncfe/ "https://www.linkedin.com/company/ncfe/")
 * [![Microsoftteams Image (2)](/media/zylgih3u/microsoftteams-image-2.png)](https://twitter.com/NCFE "https://twitter.com/NCFE")
 * [![Microsoftteams Image (1)](/media/qiladukr/microsoftteams-image-1.png)](https://www.youtube.com/channel/UCb29ODsy7EI07gUtUcmqehA "https://www.youtube.com/channel/UCb29ODsy7EI07gUtUcmqehA")
+* [![Facebook Icon](/media/v22bfp2u/facebook-icon.png)](https://www.facebook.com/NCFE1 "https://www.facebook.com/NCFE1")
 
 [![NCFE](/_res/dist/img/logos/LogoN.svg)](https://www.ncfe.org.uk/)
 
