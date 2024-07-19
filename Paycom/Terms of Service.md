@@ -110,6 +110,7 @@
     * [Franchises](https://www.paycom.com/who-we-help/franchises/)
     * [Health Care](https://www.paycom.com/who-we-help/health-care/)
     * [Hospitality](https://www.paycom.com/who-we-help/hospitality/)
+    * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
     * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
     * [Professional Services](https://www.paycom.com/who-we-help/professional-services/)
     * [Retailers](https://www.paycom.com/who-we-help/retailers/)
@@ -160,6 +161,7 @@
     
 * [Resources](https://www.paycom.com/resources/)
     * [Overview](https://www.paycom.com/resources/)
+    * [Case Studies](https://www.paycom.com/resources/case-studies/)
     * [Blog](https://www.paycom.com/resources/blog/)
     * [Webinars](https://www.paycom.com/resources/webinars/)
     * [Podcasts](https://www.paycom.com/resources/podcasts/)
@@ -245,8 +247,9 @@
     * [Franchises](https://www.paycom.com/who-we-help/franchises/)
     * [Health Care](https://www.paycom.com/who-we-help/health-care/)
     * [Hospitality](https://www.paycom.com/who-we-help/hospitality/)
-    * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
+    * [Manufacturing](https://www.paycom.com/who-we-help/manufacturing/)
     
+    * [Nonprofits](https://www.paycom.com/who-we-help/nonprofits/)
     * [Professional Services](https://www.paycom.com/who-we-help/professional-services/)
     * [Retailers](https://www.paycom.com/who-we-help/retailers/)
     * [Supply Chain](https://www.paycom.com/who-we-help/supply-chain/)
@@ -299,11 +302,12 @@
     
 * [Resources](https://www.paycom.com/resources/)
     
+    * [Case Studies](https://www.paycom.com/resources/case-studies/)
     * [Blog](https://www.paycom.com/resources/blog/)
     * [Webinars](https://www.paycom.com/resources/webinars/)
     * [Podcasts](https://www.paycom.com/resources/podcasts/)
     * [HR & Payroll Glossary](https://www.paycom.com/resources/hr-payroll-glossary/)
-    * [Other Resources](https://www.paycom.com/resources/all/)
+    * [All Resources](https://www.paycom.com/resources/all/)
     
     Read how Paycom makes a difference
     
@@ -409,34 +413,25 @@ Carriers are not liable for delayed or undelivered messages. As always, message 
 
 [![Download on the app store](/images/mobile-app/logo-app-store.svg)](https://apps.apple.com/us/app/paycom/id1207929487?Is=1 "get the Paycom iOS app") [![Get it on Google Play](/images/mobile-app/logo-play-store.svg)](https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en "get the Paycom Android app") 
 
-[Our Solution](https://www.paycom.com/software/)
-
-* [Payroll](https://www.paycom.com/software/payroll/)
-* [Talent Acquisition](https://www.paycom.com/software/talent-acquisition/)
-* [Talent Management](https://www.paycom.com/software/talent-management/)
-* [HR Management](https://www.paycom.com/software/hr-management/)
-* [Time and Labor Management](https://www.paycom.com/software/time-and-labor-management/)
-
 [About Paycom](https://www.paycom.com/about/)
 
+* [Our HCM Solution](https://www.paycom.com/software/)
+* [Mobile App](https://www.paycom.com/payroll-hr-mobile-app/)
 * [Careers](https://www.paycom.com/careers/)
-* [Investors](https://investors.paycom.com/overview/default.aspx)
+* [Sponsorships](https://www.paycom.com/about/sponsorships/)
+* [Security](https://www.paycom.com/about/security/)
 * [Press Room](https://www.paycom.com/about/press-room/)
+* [Investors](https://investors.paycom.com/overview/default.aspx)
 * [Contact Us](https://www.paycom.com/contact-us/)
-* [Resources](https://www.paycom.com/resources/)
 
-[Careers](https://www.paycom.com/careers/) [Contact](https://www.paycom.com/contact-us/)
+[Resources](https://www.paycom.com/resources/)
 
-Follow Us
-
-* [](https://www.linkedin.com/company/paycom)
-* [](https://twitter.com/paycom)
-* [](https://www.facebook.com/Paycom)
-* [](https://www.instagram.com/paycomsoftware/)
-* [](https://www.youtube.com/user/paycompayrollservice?feature=watch)
-* [](https://www.tiktok.com/@paycom)
-
-[![Download on the app store](/images/mobile-app/logo-app-store.svg)](https://apps.apple.com/us/app/paycom/id1207929487?Is=1 "get the Paycom iOS app") [![Get it on Google Play](/images/mobile-app/logo-play-store.svg)](https://play.google.com/store/apps/details?id=com.paycom.mobile.ess&hl=en "get the Paycom Android app") 
+* [Case Studies](https://www.paycom.com/resources/case-studies/)
+* [Blog](https://www.paycom.com/resources/blog/)
+* [Webinars](https://www.paycom.com/resources/webinars/)
+* [Podcasts](https://www.paycom.com/resources/podcasts/)
+* [HR & Payroll Glossary](https://www.paycom.com/resources/hr-payroll-glossary/)
+* [Paycom Reviews](https://www.paycom.com/about/reviews/)
 
 Join our newsletter
 
@@ -447,6 +442,240 @@ Thank you for subscribing.
     
 
 Subscribe
+
+* * *
+
+Payroll
+
+* [Payroll Software](https://www.paycom.com/software/payroll/)
+* [Beti®](https://www.paycom.com/software/beti/)
+* [Vault](https://www.paycom.com/software/vault/)
+* [Everyday®](https://www.paycom.com/software/everyday/)
+* [Paycom Pay®](https://www.paycom.com/software/paycom-pay/)
+* [GL Concierge](https://www.paycom.com/software/gl-concierge/)
+* [Expense Management Software](https://www.paycom.com/software/garnishment-administration/)
+* [Payroll Tax Management](https://www.paycom.com/software/payroll-tax-management/)
+* [Client Action Center](https://www.paycom.com/software/client-action-center/)
+
+Talent Acquisition
+
+* [Talent Acquisition Software](https://www.paycom.com/software/talent-acquisition/)
+* [Applicant Tracking Software](https://www.paycom.com/software/applicant-tracking/)
+* [Onboarding](https://www.paycom.com/software/onboarding/)
+* [Tax Credits](https://www.paycom.com/software/tax-credits/)
+* [Enhanced Background Checks®](https://www.paycom.com/software/background-checks/)
+* [E-Verify®](https://www.paycom.com/software/e-verify/)
+
+Talent Management
+
+* [Talent Management Software](https://www.paycom.com/software/talent-management/)
+* [Performance Management Software](https://www.paycom.com/software/performance-management/)
+* [Compensation Budgeting](https://www.paycom.com/software/compensation-budgeting/)
+* [Position Management](https://www.paycom.com/software/position-management/)
+* [Employee Self-Service®](https://www.paycom.com/software/employee-self-service/)
+* [Paycom Learning (LMS)](https://www.paycom.com/software/paycom-learning/)
+
+Time and Labor Management
+
+* [Time and Labor Management Software](https://www.paycom.com/software/time-and-labor-management/)
+* [Time and Attendance Software](https://www.paycom.com/software/time-and-attendance/)
+* [Time-Off Requests](https://www.paycom.com/software/time-off-requests/)
+* [Scheduling Software](https://www.paycom.com/software/scheduling/)
+* [Time Clocks and Terminals](https://www.paycom.com/software/time-clocks-and-terminals/)
+* [Labor Allocation Software](https://www.paycom.com/software/labor-allocation/)
+
+HR Management
+
+* [HR Management Software](https://www.paycom.com/software/hr-management/)
+* [Direct Data Exchange®](https://www.paycom.com/software/direct-data-exchange/)
+* [Manager on-the-Go®](https://www.paycom.com/software/manager-on-the-go/)
+* [Documents and Checklists](https://www.paycom.com/software/documents-and-checklists/)
+* [Global HCM Software](https://global.paycom.com/)
+* [Benefits Administration](https://www.paycom.com/software/benefits-administration/)
+* [Enhanced ACA](https://www.paycom.com/software/enhanced-aca/)
+* [Ask Here](https://www.paycom.com/software/ask-here/)
+* [Report Center](https://www.paycom.com/software/report-center/)
+* [Personnel Action Forms](https://www.paycom.com/software/personnel-action-forms/)
+* [Government and Compliance](https://www.paycom.com/software/government-and-compliance/)
+* [Clue®](https://www.paycom.com/software/clue/)
+* [COBRA Administration](https://www.paycom.com/software/cobra-administration/)
+* [Paycom Surveys](https://www.paycom.com/software/paycom-surveys/)
+* [401(k) Reporting](https://www.paycom.com/software/401k-reporting/)
+
+[Who We Help](https://www.paycom.com/who-we-help/)
+
+* [Payroll Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/)
+* [Payroll Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/)
+* [Payroll Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/)
+* [Payroll Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/)
+* [HR Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
+* [HR Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/hr-software/)
+* [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
+* [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
+
+[About Paycom](https://www.paycom.com/about/)
+
+* [Our HCM Solution](https://www.paycom.com/software/)
+* [Mobile App](https://www.paycom.com/payroll-hr-mobile-app/)
+* [Careers](https://www.paycom.com/careers/)
+* [Sponsorships](https://www.paycom.com/about/sponsorships/)
+* [Security](https://www.paycom.com/about/security/)
+* [Press Room](https://www.paycom.com/about/press-room/)
+* [Investors](https://investors.paycom.com/overview/default.aspx)
+* [Contact Us](https://www.paycom.com/contact-us/)
+
+Payroll
+
+* [Payroll Software](https://www.paycom.com/software/payroll/)
+* [Beti®](https://www.paycom.com/software/beti/)
+* [Vault](https://www.paycom.com/software/vault/)
+* [Everyday®](https://www.paycom.com/software/everyday/)
+* [Paycom Pay®](https://www.paycom.com/software/paycom-pay/)
+* [GL Concierge](https://www.paycom.com/software/gl-concierge/)
+* [Expense Management Software](https://www.paycom.com/software/garnishment-administration/)
+* [Payroll Tax Management](https://www.paycom.com/software/payroll-tax-management/)
+* [Client Action Center](https://www.paycom.com/software/client-action-center/)
+
+Talent Acquisition
+
+* [Talent Acquisition Software](https://www.paycom.com/software/talent-acquisition/)
+* [Applicant Tracking Software](https://www.paycom.com/software/applicant-tracking/)
+* [Onboarding](https://www.paycom.com/software/onboarding/)
+* [Tax Credits](https://www.paycom.com/software/tax-credits/)
+* [Enhanced Background Checks®](https://www.paycom.com/software/background-checks/)
+* [E-Verify®](https://www.paycom.com/software/e-verify/)
+
+HR Management
+
+* [HR Management Software](https://www.paycom.com/software/hr-management/)
+* [Direct Data Exchange®](https://www.paycom.com/software/direct-data-exchange/)
+* [Manager on-the-Go®](https://www.paycom.com/software/manager-on-the-go/)
+* [Documents and Checklists](https://www.paycom.com/software/documents-and-checklists/)
+* [Global HCM Software](https://global.paycom.com/)
+* [Benefits Administration](https://www.paycom.com/software/benefits-administration/)
+* [Enhanced ACA](https://www.paycom.com/software/enhanced-aca/)
+* [Ask Here](https://www.paycom.com/software/ask-here/)
+* [Report Center](https://www.paycom.com/software/report-center/)
+* [Personnel Action Forms](https://www.paycom.com/software/personnel-action-forms/)
+* [Government and Compliance](https://www.paycom.com/software/government-and-compliance/)
+* [Clue®](https://www.paycom.com/software/clue/)
+* [COBRA Administration](https://www.paycom.com/software/cobra-administration/)
+* [Paycom Surveys](https://www.paycom.com/software/paycom-surveys/)
+* [401(k) Reporting](https://www.paycom.com/software/401k-reporting/)
+
+[Resources](https://www.paycom.com/resources/)
+
+* [Case Studies](https://www.paycom.com/resources/case-studies/)
+* [Blog](https://www.paycom.com/resources/blog/)
+* [Webinars](https://www.paycom.com/resources/webinars/)
+* [Podcasts](https://www.paycom.com/resources/podcasts/)
+* [HR & Payroll Glossary](https://www.paycom.com/resources/hr-payroll-glossary/)
+* [Paycom Reviews](https://www.paycom.com/about/reviews/)
+
+Talent Management
+
+* [Talent Management Software](https://www.paycom.com/software/talent-management/)
+* [Performance Management Software](https://www.paycom.com/software/performance-management/)
+* [Compensation Budgeting](https://www.paycom.com/software/compensation-budgeting/)
+* [Position Management](https://www.paycom.com/software/position-management/)
+* [Employee Self-Service®](https://www.paycom.com/software/employee-self-service/)
+* [Paycom Learning (LMS)](https://www.paycom.com/software/paycom-learning/)
+
+Time and Labor Management
+
+* [Time and Labor Management Software](https://www.paycom.com/software/time-and-labor-management/)
+* [Time and Attendance Software](https://www.paycom.com/software/time-and-attendance/)
+* [Time-Off Requests](https://www.paycom.com/software/time-off-requests/)
+* [Scheduling Software](https://www.paycom.com/software/scheduling/)
+* [Time Clocks and Terminals](https://www.paycom.com/software/time-clocks-and-terminals/)
+* [Labor Allocation Software](https://www.paycom.com/software/labor-allocation/)
+
+[Who We Help](https://www.paycom.com/who-we-help/)
+
+* [Payroll Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/)
+* [Payroll Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/)
+* [Payroll Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/)
+* [Payroll Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/)
+* [HR Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
+* [HR Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/hr-software/)
+* [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
+* [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
+
+* [About Paycom](https://www.paycom.com/about/)
+    * [Overview](https://www.paycom.com/about/)
+    * [Our HCM Solution](https://www.paycom.com/software/)
+    * [Mobile App](https://www.paycom.com/payroll-hr-mobile-app/)
+    * [Careers](https://www.paycom.com/careers/)
+    * [Sponsorships](https://www.paycom.com/about/sponsorships/)
+    * [Security](https://www.paycom.com/about/security/)
+    * [Press Room](https://www.paycom.com/about/press-room/)
+    * [Investors](https://investors.paycom.com/overview/default.aspx)
+    * [Contact Us](https://www.paycom.com/contact-us/)
+* [Resources](https://www.paycom.com/resources/)
+    * [Overview](https://www.paycom.com/resources/)
+    * [Case Studies](https://www.paycom.com/resources/case-studies/)
+    * [Blog](https://www.paycom.com/resources/blog/)
+    * [Webinars](https://www.paycom.com/resources/webinars/)
+    * [Podcasts](https://www.paycom.com/resources/podcasts/)
+    * [HR & Payroll Glossary](https://www.paycom.com/resources/hr-payroll-glossary/)
+    * [Paycom Reviews](https://www.paycom.com/about/reviews/)
+* [Payroll](https://www.paycom.com/)
+    * [Payroll Software](https://www.paycom.com/software/payroll/)
+    * [Beti®](https://www.paycom.com/software/beti/)
+    * [Vault](https://www.paycom.com/software/vault/)
+    * [Everyday®](https://www.paycom.com/software/everyday/)
+    * [Paycom Pay®](https://www.paycom.com/software/paycom-pay/)
+    * [GL Concierge](https://www.paycom.com/software/gl-concierge/)
+    * [Expense Management Software](https://www.paycom.com/software/garnishment-administration/)
+    * [Payroll Tax Management](https://www.paycom.com/software/payroll-tax-management/)
+    * [Client Action Center](https://www.paycom.com/software/client-action-center/)
+* [Talent Acquisition](https://www.paycom.com/)
+    * [Talent Acquisition Software](https://www.paycom.com/software/talent-acquisition/)
+    * [Applicant Tracking Software](https://www.paycom.com/software/applicant-tracking/)
+    * [Onboarding](https://www.paycom.com/software/onboarding/)
+    * [Tax Credits](https://www.paycom.com/software/tax-credits/)
+    * [Enhanced Background Checks®](https://www.paycom.com/software/background-checks/)
+    * [E-Verify®](https://www.paycom.com/software/e-verify/)
+* [Talent Management](https://www.paycom.com/)
+    * [Talent Management Software](https://www.paycom.com/software/talent-management/)
+    * [Performance Management Software](https://www.paycom.com/software/performance-management/)
+    * [Compensation Budgeting](https://www.paycom.com/software/compensation-budgeting/)
+    * [Position Management](https://www.paycom.com/software/position-management/)
+    * [Employee Self-Service®](https://www.paycom.com/software/employee-self-service/)
+    * [Paycom Learning (LMS)](https://www.paycom.com/software/paycom-learning/)
+* [Time and Labor Management](https://www.paycom.com/)
+    * [Time and Labor Management Software](https://www.paycom.com/software/time-and-labor-management/)
+    * [Time and Attendance Software](https://www.paycom.com/software/time-and-attendance/)
+    * [Time-Off Requests](https://www.paycom.com/software/time-off-requests/)
+    * [Scheduling Software](https://www.paycom.com/software/scheduling/)
+    * [Time Clocks and Terminals](https://www.paycom.com/software/time-clocks-and-terminals/)
+    * [Labor Allocation Software](https://www.paycom.com/software/labor-allocation/)
+* [HR Management](https://www.paycom.com/)
+    * [HR Management Software](https://www.paycom.com/software/hr-management/)
+    * [Direct Data Exchange®](https://www.paycom.com/software/direct-data-exchange/)
+    * [Manager on-the-Go®](https://www.paycom.com/software/manager-on-the-go/)
+    * [Documents and Checklists](https://www.paycom.com/software/documents-and-checklists/)
+    * [Global HCM Software](https://global.paycom.com/)
+    * [Benefits Administration](https://www.paycom.com/software/benefits-administration/)
+    * [Enhanced ACA](https://www.paycom.com/software/enhanced-aca/)
+    * [Ask Here](https://www.paycom.com/software/ask-here/)
+    * [Report Center](https://www.paycom.com/software/report-center/)
+    * [Personnel Action Forms](https://www.paycom.com/software/personnel-action-forms/)
+    * [Government and Compliance](https://www.paycom.com/software/government-and-compliance/)
+    * [Clue®](https://www.paycom.com/software/clue/)
+    * [COBRA Administration](https://www.paycom.com/software/cobra-administration/)
+    * [Paycom Surveys](https://www.paycom.com/software/paycom-surveys/)
+    * [401(k) Reporting](https://www.paycom.com/software/401k-reporting/)
+* [Who We Help](https://www.paycom.com/who-we-help/)
+    * [Overview](https://www.paycom.com/who-we-help/)
+    * [Payroll Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/)
+    * [Payroll Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/)
+    * [Payroll Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/)
+    * [Payroll Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/)
+    * [HR Software for Enterprise Businesses](https://www.paycom.com/who-we-help/enterprise-business/hr-software/)
+    * [HR Software for Large Businesses](https://www.paycom.com/who-we-help/large-business/hr-software/)
+    * [HR Software for Medium Businesses](https://www.paycom.com/who-we-help/medium-business/hr-software/)
+    * [HR Software for Small Businesses](https://www.paycom.com/who-we-help/small-business/hr-software/)
 
 [Terms of Use](https://www.paycom.com/terms-of-use/) [Privacy Policy](https://www.paycom.com/privacy/) [Do Not Share](https://www.paycom.com/privacy/dsar/) [Accessibility](https://www.paycom.com/about/accessibility-statement/) [Site Map](https://www.paycom.com/site-map/)
 
