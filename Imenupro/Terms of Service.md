@@ -13,7 +13,7 @@
 SoftCafe iMenuPro
 -----------------
 
-Last updated February 23, 2024
+Last updated July 10, 2024
 
 ### Terms of Service
 
@@ -51,7 +51,7 @@ You may not redistribute or post any graphic image from this site or service on 
 
 #### Subscription Service
 
-You will receive access to iMenuPro on a monthly or yearly subscription fee basis. The term will renew automatically and continuously until canceled. We reserve the right to raise or lower the price of our services from time to time. However, we will not raise the monthly or yearly fee for your existing subscription without permission from you first.
+You will receive access to iMenuPro on a monthly or yearly subscription fee basis. The term will renew automatically and continuously until canceled. We reserve the right to raise or lower the price of our services. However, we will not raise the monthly or yearly fee for your existing subscription without your permission first. We may also offer a 14-day free trial period for new subscribers at our discretion. Following the trial period, if you have not canceled the service, you will automatically be charged the normal monthly or yearly subscription fee and will receive access to iMenuPro on a monthly or yearly subscription basis.
 
 #### Sales Tax Collection
 
