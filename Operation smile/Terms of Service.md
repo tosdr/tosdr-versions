@@ -1,5 +1,13 @@
 [Skip to main content](#main-content)
 
+Content Components for Blocks Node
+
+Content Components
+
+Your feedback helps us improve. How can we do better?
+
+[Take a Quick Survey about Our Website](https://www.operationsmile.org/take-short-survey-about-our-website)
+
 [](https://www.operationsmile.org/)
 
 [Logo](https://www.operationsmile.org/)
