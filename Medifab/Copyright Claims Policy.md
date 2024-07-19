@@ -35,19 +35,39 @@ We use cookies to give you the best experience. By continuing to use our site, y
 
 Got It
 
-Medifab Global
+ [![Wheelchairs.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Wheelchairs_White.svg) Wheelchairs](https://www.medifab.co.nz/product?categories=wheelchairs)
 
-Group Copyright
+ [![Wheelchair seating.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Wheelchair-Seating_White.svg) Wheelchair Seating](https://www.medifab.co.nz/product?categories=wheelchair-seating)
 
-Policy
+ [![Vehicle seating.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Vehicle-Seating_White.svg) Car Seats & Harnesses](https://www.medifab.co.nz/product?categories=car-seats-harnesses)
+
+ [![Pushchairs.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Pushchairs_White.svg) Strollers & Pushchairs](https://www.medifab.co.nz/product?categories=strollers-pushchairs)
+
+ [![Indoor seating.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Indoor-Seating.svg) Indoor Seating](https://www.medifab.co.nz/product?categories=indoor-seating)
+
+ [![Therapy.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Therapy_White.svg) Therapy](https://www.medifab.co.nz/product?categories=therapy)
+
+ [![Standing aids.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Standing-Aid_White.svg) Standing Aids](https://www.medifab.co.nz/product?categories=standing-aids)
+
+ [![Walking aids.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Walking-Aid_White.svg) Walking Aids](https://www.medifab.co.nz/product?categories=walking-aids)
+
+ [![Bathroom](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Bathroom_White-test.svg) Bathroom Aids](https://www.medifab.co.nz/product?categories=bathroom-aids)
+
+ [![Sleep.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Sleep_White.svg) Sleep Systems](https://www.medifab.co.nz/product?categories=sleep-systems)
+
+ [![Sleep.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Sleep_White.svg) Beds](https://www.medifab.co.nz/product?categories=beds)
 
 This is the copyright policy for the Medifab Global Group, which includes the companies Medifab Limited and Spex Limited.
 
 In this policy all references to **we**, **our** or **us** are to members of the Medifab Global Group.
 
+[Read more Read less](#)
+
 ### Ownership of copyright
 
 We or our third-party licensors own all copyright in all product or user manuals, presentations, educational materials, promotional and marketing materials, website content, clinical materials, data, designs, drawings, audio content, video or photographic works, or other content that we provide or make available to you in any form and via any media (**Content**).
+
+[Read more Read less](#)
 
 ### Use of Content
 
@@ -62,9 +82,13 @@ If we permit you to reproduce, distribute, display, republish, transmit, sell or
 * you must obtain our sign-off to the final form of any material that incorporates the Content; and
 * we do not warrant or represent that any of the Content is accurate, reliable, up to date or error-free, or that your use of the Content will not infringe any third party’s rights. If we allow you to make use of the Content, then that use is entirely at your own risk.
 
+[Read more Read less](#)
+
 ### Infringement of copyright
 
 If you believe that we have infringed your copyright, please write to us at [\[email protected\]](https://www.medifab.co.nz/cdn-cgi/l/email-protection) with details of the alleged infringement, and we will investigate your complaint.
+
+[Read more Read less](#)
 
 Experience a
 
