@@ -40,7 +40,7 @@ This Privacy Policy  explains the following:
 **Privacy Policy**
 ------------------
 
-Last modified:  December 01 2023
+Last modified:  May 30 2024
 
 ### **1\. Who are we?**
 
@@ -67,7 +67,7 @@ Certain parts of our Services may ask you to provide personal data voluntarily. 
 * Profile information (such as profile photo and biography); and
 * Other data you choose to give us (such as data to identify a lost account).
 
-The personal data that you are asked to provide, and the reasons why you are asked to provide it, we will try to explain to you at the point we ask you to provide your personal data.
+The personal data that you are asked to provide, and the reasons why you are asked to provide the consent collection and processing your personal data by way of accepting this Privacy Policy.
 
 In addition to providing your personal data by creating a profile, you may also share such data that are public or intended to be public in nature, such as when you create a channel, publish or broadcast content, or subscribe to a channel. Considering the social nature of our services, personal data such as text, audio recording, photo, video and chat content can be collected, used, or disclosed by other users participating in live broadcasts, if published in channel. 
 
@@ -99,9 +99,15 @@ If messages or content cannot be delivered immediately. For example, if you are 
 
 You may also choose to provide us with information in connection with your interaction with our Services. For example, you may through our tagging functionality flag a phone number for authentication as spam, leave comments on another user's personal profile or share with us other profile information to be collected and verified within our search directory, for the purposes of optimising our Services and preventing potential fraud or unwanted spam for users active in the Getcontact community.
 
-In order to take advantage of our Services, you may be asked to some features on your phone. To use Getcontact and enable Our Services, you must aggree to share names, numbers and information contained in your contact list and we may access and collect information from. This helps us to detect spam calls, provide caller ID features, enhance the user experience and provide other functionality based on contact information. We may periodically synchronize this sharing. We may not be able to provide these features if you do not choose to enable these functions or allow us access those information.
+In order to take advantage of our Services, you may be asked to some features on your phone. To use Getcontact and enable Our Services, you must agree to share names, numbers and information contained in your contact list and we may access and collect information from. This helps us to detect spam calls, provide caller ID features, enhance the user experience and provide other functionality based on contact information. We may periodically synchronize this sharing. We may not be able to provide these features if you do not choose to enable these functions or allow us access those information.
 
-Upon initiating use of the Assistant Service in Telco Services, we will collect information about your calls answered by the Assistant and the devices you use. This information includes without limitation, app installation status, call duration, call status (ongoing, completed, etc.), call content, call log and call details. All calls answered by the Assistant will be recorded and transcribed for in-call display and retrieval from transcripts.
+Upon initiating use of the Assistant Service in Telco Services, we will collect information about your calls answered by the Assistant and the devices you use. This information includes without limitation, app installation status, call duration, call status (ongoing, completed, etc.), call content, call log and call details. Upon enabling this feature, unknown callers are prompted via an automated system to identify themselves and state the purpose of their call. All calls answered by the Assistant and therefore, the caller’s reponses will be recorded and transcribed for in-call display and retrieval from transcripts. Consequently, we may collect information from individuals who are not our users but who interact with the call screening feature. These recordings and transcripts are stored by Getcontact and are accessible to the specific Getcontact user.
+
+The use of call data in Telco Servicesis for the purpose of improving the quality of our services and providing you with the optimal experience (such as detection and blockage of spam caller by our algorithms). Getcontact can use its machine learning to better detect and block spam (i.e., by informing our algorithms), and to improve our machine learning to provide better service etc. 
+
+When you enable the SMS spam protection feature and grant us permission, we will collect de-identified SMS and MMS text messages from senders who are not in your contacts. For the avoidance of doubt, these messages are used to help us identify and filter spam and are not connected to your personal information when we collect and store them.
+
+We use de-identified SMS/MMS messages to improve our spam detection algorithms and enhance the effectiveness of our spam filtering service. These messages are collected anonymously and are not linked to your personal information. The data helps us identify new spam tactics and improve the overall service for all users.
 
 Where our Services are obtained from sources other than Google Play or Apple App Store, you may choose to share contact information with us, such as the contact information in your address book. 
 
@@ -280,6 +286,8 @@ In addition, if you want to use the channel and chat room features, we would lik
 Unless a longer retention period is required or permitted by law, we may retain your personal data only for as long as reasonably necessary for its purposes and  to fulfil the purposes outlined in this Privacy Policy  and for our legitimate business purposes, such as to comply with our legal obligations, regulatory obligations resolve disputes, and enforce our agreements or for the longer of three (3) years after we become aware that you have ceased using our Services for the information. We may retain other information that is not personally identifiable for backups, archiving, prevention of fraud and abuse, analytics, or where we otherwise reasonably believe that we have a legitimate reason to do so. For example, We may only retain certain data for up to 3 (three) months, after which they may be deleted and no longer accessible. 
 
 Unless stated otherwise in this Privacy Policy, the personal data that you provide us will only be stored for as long as it is necessary for us to fulfill our obligations in respect of the provision of the Services.
+
+Your consent to provide us with your personal data shall be valid within the period of fullfilment the purposes under this Privacy Policy and this clause.
 
 ### **11\. Do we host and/or transfer your personal data outside of the country you are resident?**
 
