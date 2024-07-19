@@ -34,7 +34,7 @@ Topics [Shows](https://freespeech.org/shows/)
 * [Democracy Now!](https://freespeech.org/shows/democracy-now/)
 * [The Bill Press Show](https://freespeech.org/?post_type=show&p=78)
 * [Rising Up With Sonali](https://freespeech.org/shows/rising-up-with-sonali/)
-* [The David Pakman Show](https://freespeech.org/shows/the-david-pakman-show/)
+* [The David Pakman Show](https://freespeech.org/?post_type=show&p=32)
 * [Gay USA](https://freespeech.org/shows/gay-usa/)
 * [The Laura Flanders Show](https://freespeech.org/?post_type=show&p=135226)
 * [Act Out!](https://freespeech.org/?post_type=show&p=135258)
@@ -152,3 +152,13 @@ These terms and conditions are governed by and construed in accordance with the 
 * [Terms](https://freespeech.org/terms/)
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20464'%3E%3C/svg%3E)
+
+![](https://freespeech.org/wp-content/uploads/2023/06/Dusty-Pink-and-Black-Monotone-Minimalist-Community-Protest-Crisis-Hub-Banner-1-scaled-e1721357736497-772x1024.jpg)](https://freespeech.org/donate-all/)[**_![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20166%20208'%3E%3C/svg%3E)
+
+![](https://images.givelively.org/nonprofits/d302c61a-0783-4a51-a547-44f486239a32/campaigns/donate/logos/donate_processed_60e8f81f756f0bba945827822ee27bb33cfeccf3f9693756cf8ede981024f22a_logo.png)
+
+_**](https://freespeech.org/donate-all/)
+
+×
