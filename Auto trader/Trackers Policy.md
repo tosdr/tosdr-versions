@@ -66,7 +66,7 @@ Cookies don't harm your computer. Like other online companies, we use cookies to
 
 We use cookies to personalise content and ads, provide social media features and analyse traffic. We also share information with social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services. By using our site, you consent to our use of cookies. See below for more information about the cookies we use.
 
-Can I opt out?
+### Can I opt out?
 
 We do have relationships with carefully-selected and monitored suppliers who may also set cookies during your visit to Auto Trader; they will show you different products and services based on what you appear to be interested in. If you'd like to opt out, please go to the [Network Advertising Initiative website](http://optout.networkadvertising.org/?c=1#!/) (opens in a new window - please note that we're not responsible for the content of external websites)
 
@@ -89,7 +89,7 @@ Cookies used on the website
 
 Here is a list of how we use cookies on the website
 
-Google analytics
+### Google analytics
 
 **Cookies:\_ga**
 
@@ -99,7 +99,7 @@ This information allows us to understand individual behaviours and needs more ac
 
 To opt out of being tracked via Google Analytics, you can also use Google's opt-out browser add-on: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
-Google DoubleClick
+### Google DoubleClick
 
 **In their own words:**
 
@@ -113,7 +113,7 @@ Privacy contact - [https://support.google.com/policies/troubleshooter/2990837?hl
 More info - [https://www.google.com/policies/technologies/cookies/](https://www.google.com/policies/technologies/cookies/)  
 Opt out - [https://adssettings.google.com](https://adssettings.google.com/)
 
-Google Ad Exchange
+### Google Ad Exchange
 
 **In their own words:**
 
@@ -127,7 +127,7 @@ Privacy contact - [https://support.google.com/policies/troubleshooter/2990837?hl
 More info - [https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/](https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/)  
 Opt out - [https://www.google.com/intl/en/policies/technologies/cookies/](https://www.google.com/intl/en/policies/technologies/cookies/)
 
-Sophus3
+### Sophus3
 
 **In their own words:**
 
@@ -141,7 +141,7 @@ Privacy contact - [http://www.sophus3.com/contact-us](http://www.sophus3.com/con
 More info - [http://www.sophus3.com/services-privacy-policy/](http://www.sophus3.com/services-privacy-policy/)  
 Opt out - [https://www.sophus3.com/privacy-cookie-policy/](https://www.sophus3.com/privacy-cookie-policy/)
 
-The Trade Desk
+### The Trade Desk
 
 **In their own words:**
 
@@ -151,7 +151,7 @@ The Trade Desk is the world's largest independent buy-side only Demand Side Plat
 
 The Trade Desk's platform offers a marketplace of inventory, data, targeting, measurement, and verification features aligned with our clients' marketing needs. Our business model alignment to the buy-side means that we have no conflicting interests with products we develop or where we direct working media. Unlike the vast majority of DSPs, we do not arbitrage any inventory and do not take undisclosed supply-side margins. We provide complete transparency into every dollar spent – from platform fees, data, and targeting features, to, of course, media itself. Our independence and objectivity are more valuable today than ever before. Marketers working with The Trade Desk can be sure they are maximizing their return on advertising investment without bias. Our position as the leading independent, objective, transparent demand-side platform continues to grow. An ever increasing number of marketers and advertisers are telling us that we deliver ROI and insights that nobody else can. In addition to our market leading strategy and technology, we are also considered the best service provider in the industry, offering our clients dedicated teams that are experienced in helping brands build out programmatic principles and capabilities
 
-Facebook / Instagram
+### Facebook / Instagram
 
 **In their own words:**
 
@@ -164,7 +164,7 @@ Seller of aggregated publisher ad inventory from many websites. Many ad networks
 Privacy contact - [https://www.facebook.com/full\_data\_use\_policy](https://www.facebook.com/full_data_use_policy)  
 Opt out - [https://en-gb.facebook.com/policies/cookies/](https://en-gb.facebook.com/policies/cookies/)
 
-Scorecardresearch.com
+### Scorecardresearch.com
 
 **In their own words:**
 
@@ -176,7 +176,7 @@ comScore collects aggregated consumer behaviour across the internet in order to 
 
 If you wish to find out more about the supplier's use of cookies, please refer to their privacy policy at [https://www.scorecardresearch.com/privacy.aspx](https://www.scorecardresearch.com/privacy.aspx)
 
-Integral Ad Science
+### Integral Ad Science
 
 **In their own words:**
 
@@ -189,7 +189,7 @@ Integral Ad Science (originally AdSafe Media) is a privately held technology com
 Privacy contact - [https://integralads.com/privacy-policy/](https://integralads.com/privacy-policy/)  
 Opt out - [https://integralads.com/cookie-policy/](https://integralads.com/cookie-policy/)
 
-Content Square
+### Content Square
 
 **In their own words:**
 
@@ -197,7 +197,7 @@ ContentSquare is a solution which aggregates usage and frequency data to improve
 
 Privacy contact - [https://www.contentsquare.com/privacy-policy/](https://www.contentsquare.com/privacy-policy/)
 
-GetFeedback (Usabilla)
+### GetFeedback (Usabilla)
 
 **In their own words:**
 
@@ -210,7 +210,7 @@ Allows you to gather and transform customer insights into meaningful action in d
 Privacy contact - [https://www.getfeedback.com/privacy](https://www.getfeedback.com/privacy)  
 Opt out - [https://www.getfeedback.com/privacy](https://www.getfeedback.com/privacy)
 
-Live Chat Service
+### Live Chat Service
 
 We use third party suppliers to provide the Live Chat Service. Cookies are used to manage your live chat session, to track your preferences and to personalise your experience. You may disable persistent cookies. However, if you disable the session cookie you will not be able to use the Live Chat Services. If you wish to find out more about the supplier's use of cookies, please refer to their privacy policy at:
 
@@ -219,7 +219,7 @@ We use third party suppliers to provide the Live Chat Service. Cookies are used 
 [https://visitor.chat/cookie-policy/](https://visitor.chat/cookie-policy/)  
 [https://gubagoo.com/privacy](https://gubagoo.com/privacy)
 
-Zendesk
+### Zendesk
 
 **In their own words:**
 
@@ -235,7 +235,7 @@ Cookie policy - [https://support.zendesk.com/hc/en-us/articles/4408824378650-Zen
 Third party cookies
 -------------------
 
-Twitter
+### Twitter
 
 Twitter is an online news and social networking service on which users post and interact with messages known as "tweets".
 
@@ -243,37 +243,37 @@ Twitter is an online news and social networking service on which users post and 
 
 Cookies are used to measure the performance of the ads that we pay for on Twitter. We also use cookies to deliver targeted advertising on Twitter.
 
-Facebook
+### Facebook
 
 **Connect.facebook.net**
 
 Facebook is an online social media and social networking service. Cookies are used to measure the performance of the ads that we pay for on Facebook. We also use cookies to deliver targeted advertising on Facebook.
 
-Instagram
+### Instagram
 
 **Connect.facebook.net**
 
 Instagram is a photo and video-sharing social networking service owned by Facebook. Cookies are used to measure the performance of the ads that we pay for on Instagram. We also use cookies to deliver targeted advertising on Instagram.
 
-The Trade Desk
+### The Trade Desk
 
 **The Trade Desk**
 
 The Trade Desk SaaS Solutions process pseudonymous data. Our Terms of Subscription Service prohibit the use of the SaaS Solutions to collect, process, and store certain types of data, such as sensitive data or data that directly identifies individuals. our Technology collects information generally known as pseudonymous or non-personally identifiable information (“Non-PII”) that may include, but is not limited to, your IP host address, the date and time of the ad request, specific location information of your device (which may be derived from, for example, your device's GPS, Bluetooth, or WiFi signals), pages viewed, browser type, the referring URL, Internet Service Provider, and your computer's operating system, as well as how you interact with a web page or ad. We may also collect Non-PII such as age, gender, income, education, interest, and usage activity from Clients or other third parties. We also may collect analogous Non-PII from mobile platforms, which may include information about your interactions with those applications (including your IP address and time-stamp information), and information about your mobile device (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, app-specific identifiers, and a list of the applications your device interacts with).
 
-DoubleClick Bid Manager
+### DoubleClick Bid Manager
 
 **Doubleclick.net**
 
 Doubleclick Bid Manager is a Google product. Doubleclick Bid Manager is a advertising platform that allows us to buy display and video advertising online. Cookies are used to measure the performance of the ads that we pay for on Doubleclick Bid Manager. We also use cookies to deliver targeted display and video advertising online.
 
-DoubleClick for Search
+### DoubleClick for Search
 
 **Doubleclick.net**
 
 Doubleclick for Search is a Google product. Doubleclick for Search is an advertising platform that allows us to buy adverts on Google Search. Cookies are used to measure the performance of the ads that we pay for on Doubleclick for Search. We also use cookies to deliver targeted advertising on Doubleclick for Search.
 
-DoubleClick Campaign Manager
+### DoubleClick Campaign Manager
 
 **Doubleclick.net**
 
@@ -281,7 +281,7 @@ Doubleclick Campaign Manager is a Google product. Doubleclick Campaign Manager i
 
 Cookies are used to measure the performance of the ads that we pay for on Doubleclick Bid Manager and Doubleclick for Search. We also use cookies to deliver targeted advertising on Doubleclick Bid Manager and Doubleclick Search
 
-Google Ad Words
+### Google Ad Words
 
 **Googleads.g.doubleclick.net or googleadservices.com**
 
@@ -289,7 +289,7 @@ Google Ad Words is an advertising platform that allows us to buy adverts on Goog
 
 Cookies are used to measure the performance of the ads that we pay for on Google Ad Words. We also use cookies to deliver targeted advertising on Google Ad Words.
 
-Bing
+### Bing
 
 **new UET or bat.bing.com**
 
@@ -298,37 +298,37 @@ Bing is an advertising platform that allows us to buy adverts on Bing Search. Co
 First Party Cookies
 -------------------
 
-Auto Trader first party cookies used on the website - Registration - Cookies: user, ursid, urss (session), userid, ursa, UpdateAccount, pageParameters
+### Auto Trader first party cookies used on the website - Registration - Cookies: user, ursid, urss (session), userid, ursa, UpdateAccount, pageParameters
 
 We use cookies on the Auto Trader web site whenever you login. This is done in order to remember who you are, both for your current visit and on return visits, saving you having to login again. We store the following personal details: first name, year of birth _(if supplied), gender, county, postcode._
 
 Whenever you are not logged in, we use a non-personally identifiable cookie to understand the number of unique visitors who look at the adverts on the site.
 
-Used and new vehicle search - Cookies: searches, SearchData, postcode, GeoLocation
+### Used and new vehicle search - Cookies: searches, SearchData, postcode, GeoLocation
 
 In order to provide some of the functionality within the new and used vehicle search sections of our site, we need to store some information in cookies related to the searches you have been performing. For example, whenever you compare different vehicles or adverts, we need to store the identifiers for those vehicles and adverts. We store the postcode you have entered for searches to enable us to show you the distance you are from the vehicles in the adverts, and the makes and models of vehicles you are currently searching. We also record related information about the postcode you supply, including the Acorn profiling code for that postcode, longitude and latitude of the postcode. Some of this information may also be used to bring you more relevant display adverts across our site.
 
-Internal tracking - Cookies: pages, PAGE\_REF (session)
+### Internal tracking - Cookies: pages, PAGE\_REF (session)
 
 There are certain product pages that we like to know that you have visited - such as the insurance, finance or car history pages. We record this in a cookie which allows us to provide you with adverts that are more relevant to you through our display advertising.
 
 In addition, we like to understand the response that we are getting to our used car advertisers on the site, and so we use a cookie to store some information about the search you have performed.
 
-Surveys
+### Surveys
 
 In order to gather feedback from our customers about the site's products & features you will be invited to provide your feedback on occasion by filling in a short survey. Providing feedback to us will enable the Auto Trader team to act on this feedback and improve services and features.
 
 Managing Cookies
 ----------------
 
-How to manage cookies.
+### How to manage cookies.
 
 Browsers are changing all the time, to get the most up to date information about managing your cookies in your browser visit [http://www.aboutcookies.org/](http://www.aboutcookies.org/) (this will open in a new window - please note that we can't be responsible for the content of external websites)
 
 Appendix
 --------
 
-Essential cookies
+### Essential cookies
 
 These cookies are essential for allowing you to move around the website and use our features properly. Without these cookies, we cannot provide you with the services you need, such as being able to search for and save your favourite cars.
 
@@ -370,8 +370,6 @@ IP\_CHECKEDPersistentYes/No flagUsed to remember if the user's IP address has be
 
 JSESSIONIDSessionUnique identifier for this browser's session.Used by the Servlet container to identify the user's session for the particular server that the user is connecting to; although we don't take advantage of this due to our load balancing policies.
 
-leasingOrderInformationPersistent - 1 day.autotrader.co.ukUsed to store information about a vehicle selected for a leasing order on the leasing product page and in the leasing checkout. This ensures the correct vehicle details are sent to and shown on the leasing checkout.
-
 marketingOfferDisplayedPersistent - 7 daysTrueIndicates that the user has seen a marketing opt-in prompt. Which ensures they are not prompted again while that cookie remains.
 
 pageParametersSessionThe path to the previous page when accessing the My Account section of the site.Used when the user navigates to the Full Page Ad of one of their saved vehicles in the MyAccount section. It stores the path that the 'Back to results' link on the FPA should follow, as we want the user to navigate back to their account, not the search results.
@@ -404,7 +402,7 @@ userPersistent - 1 yearUnique identifier for the user, unique hash code for user
 
 useridPersistent - 1 yearUnique identifier for the user's account in our old registration system or a unique alpha-numeric string which remains between browsing sessions.Used to identify the user's account across requests and browsing sessions or if the user is not logged in, it is used to identify the same unique user across browsing sessions. This applies to the old registration system only.
 
-Other cookies
+### Other cookies
 
 These cookies help us personalise your experience on our site and improve our products. They tell us which parts of our website people have visited and help us measure the performance of our advertising and marketing, so we can continue to make these better and more relevant to you.
 
@@ -475,10 +473,6 @@ ga\_cid\_cookie\_valSession.autotrader.co.ukGoogle Analytics - Used to extract u
 IDEPersistent - 1 year.doubleclick.netLinking of anonymous data collected in Google Analytics with data collected via the anonymous Google Doubleclick cookie, utilising a feature called 'advertising features'. Collects the value of the Doubleclick advertising cookie (if one exists) inside Google Analytics. This allows us to link information collected in Google Analytics with google's display network.
 
 latestSecurityAlertPersistent.autotrader.co.ukCookie to determine if the customer has seen the latest security message on the home page which is shown as a yellow strip at the top of the screen. This cookie stops the message being shown continuously.
-
-leasing\_has\_viewed\_product\_pagePersistent - 2 hours.autotrader.co.ukUsed to check whether a user has viewed a leasing product page.
-
-leasing\_multiple\_product\_page\_viewsPersistent - 2 hours.autotrader.co.ukUsed to check whether a user has viewed multiple leasing product pages in order to check whether to offer a survey based on their experience.
 
 LPCKEY-p-245Sessione.g. e69fecb0-a8e3-4eb3-9d97-a764ef45c43f4-52116%7Cnull%7CsessionStorage%7C120
 
@@ -551,7 +545,6 @@ Auto Trader Logo
     
 * ### addBuying advice
     
-    * [Owner reviews](https://www.autotrader.co.uk/owner-reviews)
     * [Buying & selling guides](https://www.autotrader.co.uk/content/advice)
     * [Retailer awards](https://www.autotrader.co.uk/retailer-awards)
     * [New car awards](https://www.autotrader.co.uk/cars/new/awards)
