@@ -40,7 +40,7 @@
     
     * [### Liberica Native Image Kit
         
-        A tool to turn your applications into private images. Based on GraalVM](https://bell-sw.com/liberica-native-image-kit/)
+        A tool to turn your applications into native images. Based on GraalVM](https://bell-sw.com/liberica-native-image-kit/)
     * [### Liberica Mission Control
         
         The convenient utility to manage and collect the data on your applications](https://bell-sw.com/liberica-mission-control/)
