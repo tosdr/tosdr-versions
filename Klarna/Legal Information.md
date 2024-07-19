@@ -131,7 +131,7 @@ Legal agreements for Klarna services
 
   
 
-[Revolving Credit – WebBank Klarna Credit Account Agreement](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/account-terms)
+[Revolving Credit – WebBank Klarna Credit Account Agreement](https://cdn.klarna.com/1.0/shared/content/legal/terms/en-US/Financing1.0)
 
   
 
