@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1)   
+
 [Skip to content](#primary)
 
 [SIGN UP](https://eslbrains.com/pricing/) [LOG IN](#)
@@ -57,10 +59,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Rule of three: third spaces](https://eslbrains.com/rule-of-three-third-spaces/ "Rule of three: third spaces")
-* [When crowds fund your project](https://eslbrains.com/when-crowds-fund-your-project/ "When crowds fund your project")
-* [I’ll do it better next time!](https://eslbrains.com/ill-do-it-better-next-time/ "I’ll do it better next time!")
-* [When exercise meets cosy…](https://eslbrains.com/when-exercise-meets-cosy/ "When exercise meets cosy…")
+* [Therapy speak](https://eslbrains.com/therapy-speak/ "Therapy speak")
+* [Sharing experiences (Present Perfect and Past Simple)](https://eslbrains.com/sharing-experiences-present-perfect-and-past-simple/ "Sharing experiences (Present Perfect and Past Simple)")
+* [Open-source software: use, study, share, improve](https://eslbrains.com/open-source-software-use-study-share-improve/ "Open-source software: use, study, share, improve")
+* [Is free speech hate speech?](https://eslbrains.com/is-free-speech-hate-speech/ "Is free speech hate speech?")
 
 © ESL Brains 2023
 
@@ -84,6 +86,6 @@ Password
 
 or continue with
 
-[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fprivacy-policy%2F)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fprivacy-policy%2F)
+[](https://eslbrains.com/?wc-api=auth&social-login-only&start=facebook&return=https%3A%2F%2Feslbrains.com%2Fmy-account)[](https://eslbrains.com/?wc-api=auth&social-login-only&start=google&return=https%3A%2F%2Feslbrains.com%2Fmy-account)
 
 Don't have an account? [SIGN UP](https://eslbrains.com/pricing "Not a member? Register")
