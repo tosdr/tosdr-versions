@@ -88,13 +88,13 @@ You may also like
 
 [NOMU Mini Black Pepper Grinder 35g
 
-1.870 OMR Sold Out](https://mls.om/products/nomu-mini-black-pepper-grinder-35g)
+1.870 OMR](https://mls.om/products/nomu-mini-black-pepper-grinder-35g)
 
 5.0 / 5.0
 
 3 reviews
 
-Sold out
+  Add to Cart
 
 [![](//mls.om/cdn/shop/files/Nomu-Atlantic-Sea-Salt-1_1024x1024.jpg?v=1702041461)](https://mls.om/products/nomu-mini-sea-salt-grinder-60g)[Left](#) [Right](#)
 
