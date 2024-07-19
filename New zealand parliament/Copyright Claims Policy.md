@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_01306_2024/1306-2024-tamatha-paul-to-the-associate-minister-of/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_01306_2024/1306-2024-tamatha-paul-to-the-associate-minister-of/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -100,7 +100,7 @@ Language [English](#) [Māori](https://www.parliament.nz/mi/)
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Tuesday, 25 June 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House next meets on Tuesday, 23 July 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
@@ -123,7 +123,7 @@ There is no current live audio feed.
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
-The House next meets on Tuesday, 25 June 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
+The House next meets on Tuesday, 23 July 2024](https://www.parliament.nz/en/pb/meetings-of-parliament/)
 
 * [Calendar](https://www.parliament.nz/en/calendar)
 * [Watch](https://videos.parliament.nz/)
