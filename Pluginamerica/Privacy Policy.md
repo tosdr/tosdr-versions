@@ -32,7 +32,7 @@ MENUMENU
     * [Our Team](https://pluginamerica.org/about/team/)
     * [Contact Us](https://pluginamerica.org/about/contact/)
     * [Drive Electric Awards](https://pluginamerica.org/about/drive-electric-awards/)
-* [Press](https://pluginamerica.org/press/)
+* [News](https://pluginamerica.org/press/)
     * [In the Driver’s Seat Blog](https://pluginamerica.org/press/in-the-drivers-seat/)
     * [Press Releases](https://pluginamerica.org/press/press-releases/)
 
