@@ -2,9 +2,7 @@
 
 Previous
 
-[25% off sitewide.\* Plus, pick a free gift on $85+ after checkout. No code needed.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
-
-[Last call. Enjoy up to 50% off on select products.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+[Last call. Enjoy up to 30% off on select products.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -224,6 +222,8 @@ Fragrance
 
 Trending
 
+ [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+
  [Online Exclusives](https://www.bobbibrowncosmetics.com/products/39349/evergreengifting/exclusive_online)
 
  [VITAMIN ENRICHED COLLECTION](https://www.bobbibrowncosmetics.com/vitamin-enriched-collection)
@@ -243,8 +243,6 @@ SPECIAL OFFERS
  [GIFT GUIDE](https://www.bobbibrowncosmetics.com/gift-guide)
 
  [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
-
- [LAST CHANCE](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 Explore Explore
 
@@ -277,9 +275,6 @@ HOW TO VIDEOS
 PERSONALIZED SERVICES
 
 [See All Personalized Services](https://www.bobbibrowncosmetics.com/digital-services "See All Personalized Services")
-
-[Book a Virtual Artistry  
-Consultation](https://www.bobbibrowncosmetics.com/virtual-services)
 
 [Chat with an Artist](https://www.bobbibrowncosmetics.com/beauty-chat)
 
@@ -410,15 +405,15 @@ Close
 United States Privacy Policy
 ============================
 
-**Last Update:**November 16, 2023
+**Last Update:**July 1, 2024
 
   
 
 The Estée Lauder Companies respects your privacy and values the relationship we have with you.
 
-The Estée Lauder Companies has a diverse portfolio of prestige brands. You can find a list of these brands on [ELCompanies.com](https://www.elcompanies.com/en/our-brands), each referred to in this Privacy Policy as a “Brand”.
+The Estée Lauder Companies has a diverse portfolio of prestige brands. You can find a list of these brands on ELCompanies.com, each referred to in this Privacy Policy as a “Brand”.
 
-This Privacy Policy describes how the Estée Lauder Companies brands in the US (“ELC”, “we”, “us”, “our”) collect, use, disclose and safeguard your personal information. Unless otherwise indicated, all Brands in the US follow this Privacy Policy.
+This Privacy Policy describes how the Estée Lauder Companies Brands in the US (“ELC”, “we”, “us”, “our”) collect, use, disclose and safeguard your personal information, including sensitive personal information. Unless otherwise indicated, all Brands in the US follow this Privacy Policy.
 
   
 
@@ -426,159 +421,161 @@ This Privacy Policy describes how the Estée Lauder Companies brands in the US (
 
   
 
-* [Information we process](#iwc)
-* [How we collect information](#hwi)
-* [How we use information](#hui)
-* [How we share information](#iws)
-* [How you control your information](#yrc)
+* [Personal information we process](#iwc)
+* [How we collect personal information](#hwi)
+* [How we use personal information](#hui)
+* [How we share personal information](#iws)
+* [How you control your personal information](#yrc)
 * [How we use cookies](#cws)
-* [How we use information to advertise](#its)
+* [How we use personal information to advertise](#its)
 * [International transfers](#cpp)
-* [How we protect information](#protectinfo)
-* [How long we retain information](#otherwb)
-* [How we treat children’s information](#updateci)
+* [How we protect personal information](#protectinfo)
+* [How long we retain personal information](#otherwb)
+* [How we treat children’s personal information](#updateci)
 * [Updates to our privacy policy](#updatepp)
 * [How to contact us](#contactus)
 * [State-specific disclosures](#ard)
 
   
 
-**INFORMATION WE PROCESS**
---------------------------
+**PERSONAL INFORMATION WE PROCESS**
+-----------------------------------
 
-We may collect or process the following types of information about you. The specific information we collect about you will vary depending on how you interact with us.
+We may collect or process the following types of personal information about you. The specific personal information we collect about you will vary depending on how you interact with us.
 
-* **Contact information and personal identifiers**, such as your name, address, email address, telephone number, and username or social media handle.
-* **Device identifiers**, such as information about your device like your MAC address, IP address, or other online identifiers.
+* **Contact information and personal identifiers**, , such as your name, address, email address, telephone number, and username or social media handle.
+* **Device identifiers**, such as information about your device like your MAC address, IP address, cookies, or other online identifiers
 * **Demographic information**, such as your age, sex, ethnicity, and gender.
 * **Physical characteristics**, such as your hair type and color, skin type, and eye color.
 * **Biometric information**, such as facial geometry if you use certain of our virtual try-on applications.
 * **Commercial information**, such as the products or services you have purchased, returned or considered, and your product preferences.
-* **Payment information**, such as your method of payment and payment card information (including payment card number, delivery address and billing address).
-* **Identity verification information**, such as photo identification for in-store pick-ups at one of our retail stores, loyalty member ID, and authentication information (like passwords).
+* **Payment information**, , such as your method of payment and payment card information (including payment card number, delivery address and billing address).
+* **Identity verification information**, , such as photo identification for in-store pick-ups at one of our retail stores, loyalty member ID, and authentication information (like passwords).
 * **Online or network activity information**, such as information regarding your interaction with our websites, mobile applications, digital properties, and advertisements, information about your browsing and search history on our websites or mobile applications, and log file information like your browser type and webpages you visit.
 * **Geolocation information**, such as information that can help identify your physical location (like your GPS coordinates or the approximate location of your device).
 * **Audio and visual information**, such as recordings of your voice when you call our customer service and images we record through video surveillance in our retail stores.
 * **Professional or employment-related information**, such as professional licenses or certifications in connection with our professional programs.
 * **Health and medical information**, such as skincare concerns, diagnoses, medical reports and history.
 * **User Content**, such as your communications with us and any other content you provide (including photographs and images, videos, reviews, articles, survey responses, and comments).
-* **Inferences** drawn from or created based on any of the information identified above.
+* **Inferences** drawn from or created based on any of the personal information identified above
 
   
 
-**HOW WE COLLECT INFORMATION**
-------------------------------
+**HOW WE COLLECT PERSONAL INFORMATION**
+---------------------------------------
 
 We may collect personal information about you from various sources. For example:
 
-* **Directly from you,** such as when you make a purchase on one of our websites or in one of our retail stores, contact us with a question or complaint, use one of our mobile applications or virtual try on experiences, chat with an automated virtual agent or live person on one of our websites, create an account on one of our websites, register for one of our brand loyalty programs or marketing lists, respond to a survey, participate in a contest or other promotion, make an appointment or sign-up to attend an event.
+* **Directly from you,** such as when you make a purchase on one of our websites or in one of our retail stores, contact us with a question or complaint, use one of our mobile applications or virtual try-on applications, chat with an automated virtual agent or live person on one of our websites, create an account on one of our websites, register for one of our Brand loyalty programs or marketing lists, respond to a survey, participate in a contest or other promotion, make an appointment or sign-up to attend an event.
   
 * **From your friends or family members,** such as when your friend or family member sends you a gift or makes a referral.
-* **When you interact with our websites or emails.** When you visit our websites, or when you open or click on emails we send you, we (and third parties we work with) may automatically collect information from your browser or device, such as device identifiers and online and other network activity information using technologies such as cookies, pixel tags, and similar technologies. Cookies are small text files that websites place on your Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Pixel tags are small images which are embedded into our websites or emails. We use pixel tags to collect information about your browser or device, how you interact with our websites, or whether you open or click on the emails we send you. Pixel tags also enable us (and third parties we work with) to place cookies on your browser.
+* **When you interact with our websites or emails.** When you visit our websites, or when you open or click on emails we send you, we (and third parties we work with) may automatically collect personal information from your browser or device, such as device identifiers and online and other network activity information using technologies such as cookies, pixel tags, and similar technologies. Cookies are small text files that websites place on your Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Pixel tags are small images which are embedded into our websites or emails. We use pixel tags to collect personal information about your browser or device, how you interact with our websites, or whether you open or click on the emails we send you. Pixel tags also enable us (and third parties we work with) to place cookies on your browser.
 * **Through in-store and other offline technologies,** such as video surveillance, traffic counting devices and WiFi technology in and around our retail stores, and call recording technology when you speak to customer service.
 * **From our business partners and service providers,** such as demographic companies, analytics providers, advertising companies and networks, third-party retailers or distributors, and other third parties that we choose to collaborate or work with.
-* **From social media platforms and networks,** such as Facebook, Instagram, Twitter, Pinterest, and Google. For example, we may obtain your information from a social media platform or network if you interact with us on social media or choose to log-in to our websites using your social media credentials.
+* **From social media platforms and networks,** such as Facebook, Instagram, Twitter, Pinterest, and Google. For example, we may obtain your personal information from a social media platform or network if you interact with us on social media or choose to log-in to our websites using your social media credentials.
 * **From other ELC Brands** that you have interacted with.
 
-We may combine the information we obtain from the above sources. For example, we may combine information we collect in our stores with information we collect online.
+We may combine the personal information we obtain from the above sources. For example, we may combine personal information we collect in our stores with personal information we collect online.
 
   
 
-**HOW WE USE INFORMATION**
---------------------------
+**HOW WE USE PERSONAL INFORMATION**
+-----------------------------------
 
-We may use the information we have about you:
+We may use the personal information we have about you:
 
 * To provide products and services to you, such as fulfilling orders and processing payments, creating, servicing and/or maintaining your account or loyalty program membership, identifying concerns and assisting with product recommendations, providing real time support via our automated virtual agent and live person chat feature on one of our websites and maintaining a transcript of the chat, and managing current or past purchases.
 * To communicate with you, including to respond to your inquiries or complaints, and to help you place an order.
-* To administer your participation in special events, contests, sweepstakes, surveys or promotions.
+* To administer your participation in special events, contests, sweepstakes, surveys promotions or product reviews.
 * For marketing and advertising, such as to send you postal mail, text messages, email, push notifications or other messages, show you advertisements for products and/or services tailored to your interests on social media and other websites.
-* To operate and understand your use of our websites and mobile applications, such as to remember your information so you do not have to re-enter it, understand your preferred method of purchasing with us; determine what browser and devices you use to visit our websites or mobile applications; and to evaluate and improve our services, advertisements, websites and mobile applications.   For example, we use Google Analytics on our websites. For specific details on how Google collects and uses your personal information when we use its services, please visit: [How Google Uses Information From Sites Or Apps That Use Our Services.](https://policies.google.com/technologies/partner-sites?hl=en-US)
+* To operate and understand your use of our websites and mobile applications, such as to remember your personal information so you do not have to re-enter it, understand your preferred method of purchasing with us; determine what browser and devices you use to visit our websites or mobile applications; and to evaluate and improve our services, advertisements, websites and mobile applications. For example, we use Google Analytics on our websites. For specific details on how Google collects and uses your personal information when we use its services, please visit: [How Google Uses Information From Sites Or Apps That Use Our Services.](https://policies.google.com/technologies/partner-sites?hl=en-US)
 * To operate and improve our business, including to conduct analytics, provide quality assurance and process adverse event or product related claims, conduct research and development, and perform accounting, auditing and other internal business functions.
-* For legal and security purposes, such as to detect, prevent, and prosecute harmful, fraudulent, or illegal activity, loss prevention, identify and repair bugs on our websites or mobile applications, and to comply with applicable legal requirements, relevant industry standards and our policies.
+* For legal and security purposes, such as to detect, prevent, and prosecute harmful, fraudulent, or illegal activity, loss prevention, and to comply with applicable legal requirements, relevant industry standards and our policies.
+* To audit our interactions with you to ensure compliance with applicable law and to measure the effectiveness of our products, services, and advertisements.
+* To identify and repair bugs on our websites or mobile applications. We also may use your personal information in other ways for which we provide specific notice at the time of collection.
 
 We also may use your information in other ways for which we provide specific notice at the time of collection.
 
   
 
-**HOW WE SHARE INFORMATION**
-----------------------------
+**HOW WE SHARE PERSONAL INFORMATION**
+-------------------------------------
 
 We may share your personal information with:
 
-* **Our Brands.** When you interact with a Brand, we may share your personal information with other Brands.  Those other Brands may use your personal information for marketing and advertising and other purposes identified in this Privacy Policy.
+* **Our Brands.** When you interact with a Brand, we may share your personal information with other Brands. Those other Brands may use your personal information for marketing and advertising and other purposes identified in this Privacy Policy.
 * **Our Subsidiaries and Affiliates.** We may transfer your personal information to our subsidiaries and affiliates on a need-to-know basis for the purposes identified in this Privacy Policy.
-* **Service Providers.** We may transfer personal information to service providers who perform services on our behalf based on our instructions. We do not authorize these service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, fulfill orders, and that provide website and application functionality, hosting, analytics, customer support including through automated virtual agent and live person chat, advertising and marketing services.
+* **Service Providers.** We may transfer personal information to service providers who perform services on our behalf based on our instructions. We do not authorize these service providers to use or disclose personal information except as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, fulfill orders, and that provide website and application functionality, hosting, analytics, customer support including through automated virtual agent and live person chat, advertising and marketing services.
 * **Parties to a corporate transaction.** We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution, or liquidation).
-* **Advertising Companies.** We work with third party advertising companies (such as advertising networks) to serve advertisements on our behalf. For additional information, see the [How We Use Information to Advertise](#its) section.
-* **Other third parties.** In addition, we may disclose personal information about you (i ) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity, (iv) when disclosure of your personal information is otherwise required or permitted by law, or (v) with your consent (such as third-party salons, spas and third-party retailers).
+* **Advertising Companies.** We work with third-party advertising companies (such as advertising networks) to serve advertisements on our behalf. For additional information, see the [How We Use Information to Advertise](#its) section.
+* **Other third parties.** In addition, we may disclose Personal Information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity, (iv) when disclosure of your personal information is otherwise required or permitted by law, or (v) with your consent (such as third-party salons, spas and third-party retailers).
+
+All the above categories exclude text messaging originator opt-in data and consent; this personal information will not be shared with any third parties, excluding aggregators and providers of the text message services.
 
   
 
-**HOW YOU CONTROL YOUR INFORMATION**
-------------------------------------
+**HOW YOU CONTROL YOUR PERSONAL INFORMATION**
+---------------------------------------------
 
-You have rights and choices in connection with the personal information we have about you.
+YYou have rights and choices in connection with the personal information we have about you.
 
-* **Data Subject Rights:** Depending on local laws, you may have rights with respect to your personal information. For example, you may be able to request access to the personal information we maintain about you, update and correct inaccuracies in your personal information, and have the personal information deleted or transmitted to a third-party.  You may request to access, change, or delete your personal information through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy). We may take reasonable steps to verify your identity when you make a request.  You may also have the right to lodge a complaint with a data protection authority.
-* **Marketing & Advertising Preferences:** Your online account may offer you the ability to edit your marketing preferences. You can also opt-out of receiving marketing communications (such as email, postal mail or text messages) by following the unsubscribe instructions sent within those communications or you can make a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy).  When you unsubscribe from our marketing communications, we will no longer use the related personal information (such as your email address or phone number) for targeted advertising purposes.
-* **Mobile Device & Browser Preferences:** Depending on your mobile device or web browser, we may request your location or request to send you push notifications.  You can edit your preferences using the settings on your device.
-* **Cookie Preferences:** You can choose how certain cookies are used in connection with our websites. You can edit your cookie preferences at any time by editing your browser settings or selecting the “Manage Cookies” or “Do Not Sell or Share My Personal Information / Target Ads” link available at the bottom of our Brand websites. For additional details see the [How We Use Cookies](#cws) section.
+* **Data Subject Rights:** Depending on applicable laws, you may have rights with respect to your personal information. For example, you may be able to request access to the personal information we maintain about you, update and correct inaccuracies in your personal information, and have the personal information deleted or transmitted to a third party. You may request to access, change, or delete your personal information through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy). We may take reasonable steps to verify your identity when you make a request. You may also have the right to lodge a complaint with a data protection authority.
+* **Marketing & Advertising Preferences:** Your online account may offer you the ability to edit your marketing preferences. You can also opt-out of receiving marketing communications (such as email, postal mail or text messages) by following the unsubscribe instructions sent within those communications or you can make a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy).  When you unsubscribe from our marketing communications, we will no longer use the related personal information (such as your email address or phone number) for advertising on third-party platforms, including social media platforms.
+* **Mobile Device & Browser Preferences:** Depending on your mobile device or web browser, we may request your location or request to send you push notifications. You can edit your preferences using the settings on your device.
+* **Cookie Preferences:** You can choose how certain cookies are used in connection with our websites. You can edit your cookie preferences at any time by editing your browser settings and selecting the “Manage Cookies” or “Do Not Sell or Share My personal information / Target Ads” link available at the bottom of our Brand websites. For additional details see the [How We Use Cookies](#cws) section.
 
   
 
 **HOW WE USE COOKIES**
 ----------------------
 
-Cookies are small text files that websites place on your Internet-connected device to uniquely identify your browser or to store information or settings in your browser which allows us to remember you when you come back to our websites and provide you with personalized experiences and advertisements. We use different types of cookies on our websites, which may include strictly necessary cookies, performance cookies, functional cookies and targeting cookies.
-
-You can edit your preferences by accessing the “Manage Cookies” or “Do Not Sell or Share My Personal Information / Target Ads” link at the bottom of each of our Brand websites or by editing your browser settings.  When editing your cookie preferences, please note that your settings only apply to the browser you use to submit your opt-out request, so if you use multiple browsers or devices, you must opt-out on each browser, on each device. Your opt-out is enabled using cookies so once you opt-out, if you delete your browser’s saved cookies on a device, you will need to opt-out again on that browser on that device.
+Cookies are small text files that websites place on your Internet-connected device to uniquely identify your browser or to store information or settings in your browser which allows us to remember you when you come back to our websites and provide you with personalized experiences and advertisements. We use different types of cookies on our websites, which may include strictly necessary cookies, performance cookies, functional cookies and targeting cookies. You can edit your preferences by accessing the “Manage Cookies” or “Do Not Sell or Share My personal information / Target Ads” link at the bottom of each of our Brand websites and by editing your browser settings. When editing your cookie preferences, please note that your settings only apply to the browser you use to submit your opt-out request, so if you use multiple browsers or devices, you must opt-out on each browser, on each device. Your opt-out is enabled using cookies so once you opt-out, if you delete your browser’s saved cookies on a device, you will need to opt-out again on that browser on that device.
 
 Our websites are not designed to respond to “do not track” signals from browsers.
 
   
 
-**HOW WE USE INFORMATION TO ADVERTISE**
----------------------------------------
+**HOW WE USE PERSONAL INFORMATION TO ADVERTISE**
+------------------------------------------------
 
-We may use, disclose or otherwise process your personal information to advertise our products and services in different ways, including targeted advertising.   We work with third party advertising companies (such as advertising networks) to serve advertisements on our behalf. These advertising companies may use cookies, pixel tags and similar technologies to collect device identifiers, online or network activity information, commercial information, or inferences, such as information about the websites you visit over time and the advertisements you click on to deliver advertisements that are targeted to you. You can opt-out of cookie-based advertising based on your visits to our sites by editing your cookie preferences as described in the [How We Use Cookies](#cws) section. Please note that even if you opt-out, you may still see ads from us, but the ads will not be targeted based on the websites you visit over time and the advertisements you click on and may therefore be less relevant to you and your interests.
+We may use, disclose or otherwise process your personal information to advertise our products and services in different ways, including targeted advertising. We work with third party advertising companies (such as advertising networks) to serve advertisements on our behalf. These advertising companies may use cookies, pixel tags and similar technologies to collect personal information such as device identifiers, online or network activity information, commercial information, or inferences, such as information about the websites you visit over time and the advertisements you click on to deliver advertisements that are targeted to you. You can opt-out of cookie-based advertising based on your visits to our sites by editing your cookie preferences as described in the [How We Use Cookies](#cws) section. Please note that even if you opt-out, you may still see ads from us, but the ads will not be targeted based on the websites you visit over time and the advertisements you click on and may therefore be less relevant to you and your interests.
 
-We also work with third-party platforms, including platforms operated by social networks, to show you advertisements or measure the effectiveness of our advertisements. We may convert your email address, telephone number, or other information into a unique value and have these third-party platforms match this unique value with a user on their platform or with other data they may have. This matching enables us to deliver advertisements to you and others on these platforms. You also can request that we refrain from using your personal information in this way by contacting us through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy).
+We also work with third-party platforms, including social media platforms, to show you advertisements or measure the effectiveness of our advertisements. We may convert your email address, telephone number, or other personal information into a unique value and have these third-party platforms match this unique value with a user on their platform or with other data they may have. This matching enables us to deliver advertisements to you and others on these platforms. You also can request that we refrain from using your personal information in this way by contacting us through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy).
 
   
 
 **INTERNATIONAL TRANSFERS**
 ---------------------------
 
-In offering and providing our products and services, your personal information may be transferred, stored or processed in countries other than the country in which the information was originally collected (such as the United States).  Those countries may not have the same data protection laws as your country of residence, and your personal information will be subject to applicable foreign laws. When we transfer your personal information to other countries, we will protect that information in the manner described in this Privacy Policy.  We will also comply with applicable legal requirements providing adequate protection for the transfer of personal information, such as the conclusion of data transfer agreements, E.U. Standard Contractual Clauses, or other applicable data transfer mechanisms. If you have questions about our data transfers or would like to receive a copy of any applicable data transfer agreements (where required by law), you can submit a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy).
+In offering and providing our products and services, your personal information may be transferred, stored or processed in countries other than the country in which the information was originally collected (such as the United States). Those countries may not have the same data protection laws as your country of residence, and your personal information will be subject to applicable foreign laws. When we transfer your personal information to other countries, we will protect that information in the manner described in this Privacy Policy. We will also comply with applicable legal requirements providing adequate protection for the transfer of personal information, such as the use of data transfer agreements, E.U. Standard Contractual Clauses, or other applicable data transfer mechanisms. If you have questions about our data transfers or would like to receive a copy of any applicable data transfer agreements (where required by law), you can submit a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy).
 
   
 
-**HOW WE PROTECT INFORMATION**
-------------------------------
+**HOW WE PROTECT PERSONAL INFORMATION**
+---------------------------------------
 
-We maintain administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure, or use.  We restrict access to personal information on a need-to-know basis to employees and authorized service providers who require access to fulfil their job requirements.
+We maintain administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure, or use. We restrict access to personal information on a need-to-know basis to employees and authorized service providers who require access to fulfil their job requirements.
 
   
 
-**HOW LONG WE RETAIN INFORMATION**
-----------------------------------
+**HOW LONG WE RETAIN PERSONAL INFORMATION**
+-------------------------------------------
 
-In general, we retain personal information as long as reasonably needed to achieve the purposes outlined in this Privacy Policy.  There are many factors that we use to determine how long personal information is retained, such as:
+In general, we retain personal information as long as reasonably needed to achieve the purposes outlined in this Privacy Policy. There are many factors that we use to determine how long personal information is retained, such as:
 
 * the purposes for which the personal information was collected, including to provide our products and services;
 * your marketing preferences and how you engage with our Brands;
 * any legal or regulatory requirements that apply to the personal information; and
-* whether the personal information may be relevant to us in protecting our own rights (e.g. applicable limitation periods).
+* whether the personal information may be relevant to us in protecting our own rights (e.g., applicable limitation periods).
 
-For additional information about data retention policies, please submit a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy).
+For additional information about data retention policies, please submit a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy).
 
   
 
-**HOW WE TREAT CHILDREN’S INFORMATION**
----------------------------------------
+**CHILDREN’S PERSONAL INFORMATION**
+-----------------------------------
 
-Our products and services are designed for a general audience and are not intended for or directed to children.
+Our products and services are designed for a general audience and are not intended for or directed to children under the age of 13. If you believe a child under the age of 13 has provided us with personal information, please contact us as indicated under [“How to Contact Us”](#contactus) below.
 
   
 
@@ -592,7 +589,7 @@ This Privacy Policy may be updated periodically and without prior notice to you 
 **HOW TO CONTACT US**
 ---------------------
 
-If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, you can contact us by submitting a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy) or by emailing us at [privacy@estee.com](mailto:privacy@estee.com).
+If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, you can contact us by submitting a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy) or by emailing us at [privacy@estee.com](mailto:privacy@estee.com).
 
 If we need, or are required, to contact you concerning any event that involves your personal information, we may do so by postal mail, telephone, email or through a notice on our websites.
 
@@ -602,34 +599,53 @@ If we need, or are required, to contact you concerning any event that involves y
 ------------------------------
 
   
-California Residents
+
+### **Your Privacy Rights**
+
+If you are a resident of the following states: California, Colorado, Connecticut, Montana, Oregon, Texas, Virginia, or Utah, depending on your state of residence, you may have the right under applicable laws to:
+
+* Request confirmation of our processing and access to the personal information we hold about you;
+* Request a copy of your personal information in a portable and readily usable format;
+* Request deletion of your personal information we have collected;
+* Request correction of your personal information if that personal information is inaccurate;
+* Opt-out of the use of your personal information for certain purposes, such as for the purposes of targeted advertising, the sale of your personal information or the sharing of your personal information for cross-context behavioral advertising purpose;
+* Request a list of specific third parties to which we have disclosed your personal information; and
+* Request to limit our use and disclosure of your sensitive personal information.
+
+You can exercise your rights by submitting a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy). Before processing your request, we will take reasonable steps to verify your identity, which will include verifying that the email address from which you submit the request matches the email address we maintain on file for you. To ensure you are the owner of the email address, you must respond to a confirmation email that we will send to such email address. In some cases, we may ask that you provide additional information to verify your identity. You may also designate an authorized agent to make a request on your behalf. Where permitted by applicable law, the authorized agent may submit the request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/05d15cc3-7652-4eac-ab87-993c7ca3edbb?source=policy) and will be required to provide proof that they have been authorized to act on your behalf. If the authorized agent does not provide such proof, you will be required to confirm your identity and the authenticity of the request.
+
+To opt-out of the sale or sharing of your personal information for cross-contextual behavioral/targeted advertising purposes, you must also edit your preferences using the “Do Not Sell or Share My personal information / Target Ads” link at the bottom of each our Brand websites. You may also use the Global Privacy Control signal. For more information about the Global Privacy Control, visit [https://globalprivacycontrol.org](https://globalprivacycontrol.org/).
+
+We will not discriminate against you on account of your exercise of your consumer privacy rights. Depending on your state of residence, you may appeal our decision with respect to your request to exercise your privacy rights by emailing us at [privacy@estee.com](mailto:privacy@estee.com).  
+  
+**California Residents**
 
 This section applies solely to California residents and supplements our Privacy Policy above.
 
-**Collection and Disclosure of Personal Information**  
+**Collection and Disclosure of personal information**  
 We may collect and disclose or may have collected and disclosed your personal information to certain categories of third parties, as described below.
 
 | Category | Disclose to Third Parties |
 | --- | --- |
-| Contact information and personal identifiers | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Device Identifiers | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Demographic information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Physical characteristics | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
+| Contact information and personal identifiers | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Device Identifiers | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Demographic information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Physical characteristics | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
 | Biometric information | We may disclose or may have disclosed this information to:  <br>• Service Providers |
-| Commercial information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Payment information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Identity verification information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Online or network activity information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Geolocation information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• fraud detection providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Audio and visual information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Professional or employment related information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Health and medical information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| User Content | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
-| Inferences | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• law enforcement authorities or other government officials where required or permitted by law |
+| Commercial information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Payment information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Identity verification information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Online or network activity information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Geolocation information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Fraud detection providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Audio and visual information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Professional or employment related information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Health and medical information | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| User Content | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
+| Inferences | We may disclose or may have disclosed this information to:  <br>• Our Brands  <br>• Our Subsidiaries and Affiliates  <br>• Service Providers  <br>• Law enforcement authorities or other government officials where required or permitted by law |
 
   
 
-In addition to the purposes set forth in the [How We Use Information](#hui) and [How We Share Information](#iws) sections set forth and above, we collect and may disclose this personal information for the following business or commercial purposes:  
+In addition to the purposes set forth in the [How We Use personal information](#hui) and [How We Share personal information](#iws) ssections set forth and above, we collect and may disclose this personal information for the following business or commercial purposes:  
   
 • To audit our interactions with you to ensure compliance with applicable law and to measure the effectiveness of our products, services, and advertisements;  
   
@@ -637,7 +653,7 @@ In addition to the purposes set forth in the [How We Use Information](#hui) and 
   
 • To identify and repair bugs on our websites or mobile applications;  
   
-• To provide services, such as customer service, order fulfillment, and payment processing, which we either conduct or engage service providers to conduct on our behalf;  
+• TTo provide services, such as customer service, order fulfillment, and payment processing, which we either conduct or engage service providers to conduct on our behalf;  
   
 • For research and development;  
   
@@ -645,86 +661,98 @@ In addition to the purposes set forth in the [How We Use Information](#hui) and 
   
 • For quality assurance.
 
-**Collection and Use of Sensitive Personal Information**
+**Collection and Use of Sensitive personal information**
 
-We may collect certain categories of personal information that may be used to infer characteristics about consumers.  Some of these categories used to infer characteristics about consumers may be considered “sensitive personal information” under California law, such as health and medical information like your skincare concerns, and demographic information like your ethnicity.  In addition to the purposes set forth above, we use this information to further our business goals, such as to advertise our products and services or provide personalized product recommendations.
+We may collect certain categories of personal information that may be used to infer characteristics about consumers. Some of these categories used to infer characteristics about consumers may be considered Sensitive personal information under applicable law such as health and medical information like your skincare concerns and demographic information. In addition to the purposes set forth above, we use this information to further our business goals, such as to advertise our products and services or provide personalized product recommendations.
 
-**Sale or Sharing of Personal Information**
+**Sale or Sharing of personal information**
 
-We do not sell or share your personal information for monetary consideration. Certain advertising practices, such as those described in the [How We Use Information](#its) to Advertise section, may be considered a “sale” under California law when the personal information is exchanged for non-monetary consideration. You have the right to opt out of these types of disclosures of your information. We may “sell” or “share” (or may have “sold” or “shared”) the following categories of personal information to the third parties listed below:
+We do not sell or share your personal information for monetary consideration. Certain advertising practices, such as those described in the [How We Use personal information to Advertise](#its) section, may be considered a “sale” or “sharing” (for cross-context behavioral advertising) under applicable laws when the personal information is exchanged for non-monetary consideration. You have the right to opt-out of these types of disclosures of your personal information. We may “sell” or “share” (or may have “sold” or “shared”) the following categories of personal information to the third parties listed below:
 
 | Category | Sold to or shared with Third Parties |
 | --- | --- |
-| • Contact Information and personal  <br>Identifiers  <br>• Device identifiers  <br>• Online or network activity  <br>information  <br>• Commercial information  <br>• Inferences | We may sell or share or may have sold or shared this information to:  <br>• Advertising companies  <br>• Our Brands |
+| • Contact Information and personal  <br>Identifiers  <br>• Device identifiers  <br>• Online or network activity  <br>information  <br>• Commercial information  <br>• Inferences | We may sell or share or may have sold or shared this personal information to:  <br>• Advertising companies  <br>• Our Brands |
 
   
 
-We do not have actual knowledge that we sell or share the personal information of minors under 16 years of age.  We do not sell or share sensitive personal information.
+We do not have actual knowledge that we sell or share the personal information of individuals under 16 years of age. We do not sell or share sensitive personal information.
 
 **Financial Incentives**
 
-We may offer you various financial incentives such as discounts and special offers when you provide us with contact information and identifiers such as your name, email address and/or mobile phone number. When you sign-up for one of our brand loyalty programs, marketing lists or other discounts and special offers, you opt-in to a financial incentive. You may withdraw from a financial incentive at any time by opting out from the brand marketing communications for which you initially signed-up for, or closing your brand loyalty member account. Generally, we do not assign monetary or other value to personal information, however, California law requires that we assign such value in the context of financial incentives. In such context, the value of the personal information is related to the estimated cost of providing the relevant financial incentive(s) for which the information was collected.
+We may offer you various financial incentives such as discounts and special offers when you provide us with personal information including contact information and identifiers such as your name, email address and/or mobile phone number. When you sign-up for one of our Brand loyalty programs, email lists or other discounts and special offers, you opt-in to a financial incentive. You may withdraw from a financial incentive at any time by opting-out from the Brand emails you initially signed-up for, or closing your Brand loyalty member account. Generally, we do not assign monetary or other value to personal information, however, California law requires that we assign such value in the context of financial incentives. In such context, the value of the personal information is related to the estimated cost of providing the relevant financial incentive(s) for which the personal information was collected.
 
-**Your Rights**
+**Colorado Residents**
 
-If you are a California resident, you have the right to:
+This section applies solely to Colorado residents and supplements our Privacy Policy above.
 
-* Request, twice in a 12 month period, access to the personal information we have collected, used, disclosed, and sold or shared about you,
-* Deletion of the personal information we have collected from you (subject to certain exceptions),
-* Correction of the personal information we maintain about you, if that information is inaccurate,
-* Limitation of our use and disclosure of sensitive personal information used for inferring characteristics about you,
-* Opt-out of the sale of your personal information or sharing of your personal information for cross-context behavioral advertising purposes.
+We may collect, use and share personal information for certain processing purposes, including those described in the chart below. For more information on the categories of personal information we may collect and how we may use such personal information, please see “Personal Information We Process” and “How We Use Personal Information” above.
 
-  
-
-You can exercise your rights by submitting a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy). Before processing your request, we will take reasonable steps to verify your identity, which will include verifying that the email address from which you submit the request matches the email address we maintain on file for you. To ensure you are the owner of the email address, you must respond to a confirmation email that we will send to such email address. In some cases, we may ask that you provide additional information to verify your identity. You may also designate an authorized agent to make a request on your behalf. The authorized agent may submit the request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy) and will be required to provide proof that they have been authorized to act on your behalf. If the authorized agent does not provide such proof, you will be required to confirm your identity and the authenticity of the request.
-
-To opt-out of the sale or sharing of your personal information for cross-contextual behavioral advertising purposes, you must also edit your preferences using the “Do Not Sell or Share My Personal Information / Target Ads” link at the bottom of each our Brand websites. You may also use the Global Privacy Control signal. For more information about the Global Privacy Control, visit [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/).
-
-We will not discriminate against you on account of your exercise of your California privacy rights.
-
-If you would like us to read this Privacy Policy to you, please contact us at 1.800.588.0070.
-
-**Colorado, Connecticut and Virginia Residents**  
-
-This section applies solely to Colorado, Connecticut, and Virginia residents and supplements our Privacy Policy above.
-
-If you are a Colorado, Connecticut, or Virginia resident, you have the right to:
-
-* request access to, or correction or deletion of, your personal information; or
-* opt out of the processing of your personal information for targeted advertising purposes or the sale of your personal information. Certain advertising practices, such as those described in the [How We Use Information to Advertise](#its) section, may be deemed targeted advertising or a “sale” under some state laws.
+| Category | Processing Purposes (see full list below) | Used for Targeting Advertising | Sold or Shared |
+| --- | --- | --- | --- |
+| Contact information and personal identifiers | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys, promotions or product reviews<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | Yes | Sold to:<br><br>* Advertising Companies<br>* Our Brands<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Device Identifiers | * To provide products and services to you<br>* To administer your participation in special events, contests, sweepstakes, surveys, promotions or product reviews<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development | Yes | Sold to:<br><br>* Advertising Companies<br>* Our Brands<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Demographic information | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys, promotions or product reviews<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* For research and development<br>* For quality assurance | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Physical characteristics | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys, promotions or product reviews<br>* For marketing and advertising<br>* To operate and improve our business<br>* For legal and security purposes<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Biometric information | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys, promotions or product reviews<br>* For marketing and advertising<br>* To operate and improve our business<br>* For legal and security purposes<br>* For research and development | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Service Providers\* |
+| Commercial information | * To provide products and services to you<br>* To communicate with you<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | Yes | Sold to:<br><br>* Advertising Companies<br>* Our Brands<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Payment information | * To provide products and services to you<br>* To communicate with you<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Identity verification information | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys or promotions<br>* To operate and improve our business<br>* For legal and security purposes | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Online or network activity information | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys, promotions or product reviews<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | Yes | Sold to:<br><br>* Advertising Companies<br>* Our Brands<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Geolocation information | * To provide products and services to you<br>* To communicate with you<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Audio and visual information | * To provide products and services to you<br>* To communicate with you<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Professional or employment related information | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys or promotions<br>* For marketing and advertising<br>* To operate and understand your use of our websites and mobile applications<br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Health and medical information | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys or promotions<br>* For legal and security purposes<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| User Content | * To provide products and services to you<br>* To communicate with you<br>* To administer your participation in special events, contests, sweepstakes, surveys or promotions<br>* For marketing and advertising<br><br>* To operate and improve our business<br>* For legal and security purposes<br>* To audit our interactions with you<br>* To identify and repair bugs on our websites or mobile applications<br>* For research and development<br>* For quality assurance | No  | Sold to:<br><br>* N/A<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Law enforcement authorities or other government officials where required or permitted by law |
+| Inferences | * To provide products and services to you<br>* To communicate with you<br>* For marketing and advertising<br><br>* To operate and improve our business<br>* For legal and security purposes<br>* For research and development<br>* For quality assurance | Yes | Sold to:<br><br>* Advertising Companies<br>* Our Brands<br><br>Shared with:<br><br>* Our Brands<br>* Our Subsidiaries and Affiliates<br>* Service Providers\*<br>* Fraud detection providers<br>* Law enforcement authorities or other government officials where required or permitted by law |
 
   
 
-You can exercise your rights by submitting a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy). Before processing your request, we will take reasonable steps to verify your identity, which will include verifying that the email address from which you submit the request matches the email address we maintain on file for you. To ensure you are the owner of the email address, you must respond to a confirmation email that we will send to the email address. In some cases, we may ask that you provide additional information to verify your identity. You may appeal our decision with respect to a request you have submitted by contacting us at [privacy@estee.com](mailto:privacy@estee.com).
+\*Service Providers include: operating system and platform providers, data analytics providers, and digital advertising providers.
 
-To opt-out of the processing of your personal information for targeting advertising purposes or the sale of your personal information, you must also edit your preferences using the “Do Not Sell or Share My Personal Information / Target Ads” link at the bottom of each our Brand websites.
+  
+
+### Processing Purposes:
+
+  
+
+* **To provide products and services to you,**such as fulfilling orders and processing payments, creating, servicing and/or maintaining your account or loyalty program membership, identifying concerns and assisting with product recommendations, providing real time support via our automated virtual agent and live person chat feature on one of our websites and maintaining a transcript of the chat, and managing current or past purchases.
+* **To communicate with you,**including to respond to your inquiries or complaints, and to help you place an order.
+* **To administer your participation in special events, contests, sweepstakes, surveys or promotions.**
+* **For marketing and advertising**, such as to send you postal mail, text messages, email, push notifications or other messages, show you advertisements for products and/or services tailored to your interests on social media and other websites.
+* **To operate and understand your use of our websites and mobile applications**, such as to remember your personal information so you do not have to re-enter it, understand your preferred method of purchasing with us; determine what browser and devices you use to visit our websites or mobile applications; and to evaluate and improve our services, advertisements, websites and mobile applications.
+* **To operate and improve our business**, including to conduct analytics, provide quality assurance and process adverse event or product related claims, conduct research and development, and perform accounting, auditing and other internal business functions.
+* **For legal and security purposes**, such as to detect, prevent, and prosecute harmful, fraudulent, or illegal activity, loss prevention, and to comply with applicable legal requirements, relevant industry standards and our policies.
+* To audit our interactions with you to ensure compliance with applicable law and to measure the effectiveness of our products, services, and advertisements.
+* **To identify and repair bugs on our websites or mobile applications.**
+
+  
+
+**Bona Fide Loyalty Program**
+
+We may offer you various financial incentives, such as discounts and special offers, when you provide us with your email address and create an account on one of our participating Brand websites to enroll in a Brand loyalty program. To enroll in our Brand loyalty programs, you are required to provide your email address and to create a password. You may also provide us with your name, mailing address, birth month/date and mobile phone number, but this information is optional. Once you enroll in the Brand loyalty program, we also will collect information about purchases you may make.
+
+In connection with our Brand loyalty programs, you can receive financial incentives (benefits) based on certain purchases and other activities. You can join (opt-in to) Brand loyalty programs and find program details, terms and conditions on our participating Brand websites. You may withdraw (opt-out) from receiving such financial incentives at any time by deactivating your loyalty program account(s). To deactivate your loyalty program account(s), visit the specific Brand website of the loyalty program you wish to deactivate and provide your identifying information as requested.
+
+If you exercise your right to request deletion of your personal information, it will be impossible for us to continue providing loyalty program benefits to you because we will no longer have the information required to provide you with certain benefits (such as information about qualifying purchases).
+
+The categories of personal information collected through our loyalty program that may be sold or processed for online targeted advertising through the use of cookies and similar technologies include identifiers (such as your email address), online activity information (such as IP address, browsing history and other information regarding your interactions with our Brand websites), and commercial information (such as details about your purchases).
+
+The categories of third parties that may receive the personal information collected through our loyalty program include, third party service providers; data analytics providers; digital advertising providers; operating system and platform providers. We do not provide the personal information collected through our loyalty program to Data Brokers, as defined by the Colorado Privacy Act.
+
+The Aveda Brand partners with select third-party Aveda salons to offer Aveda loyalty members the benefit of eligibility to (1 salons; and (2) redeem Aveda.com gift certificates and Aveda loyalty points for Aveda products at select third-party Aveda salons.
 
 **Illinois Residents**
 
 This section applies solely to Illinois residents and supplements our Privacy Policy above.
 
-As indicated in our Privacy Policy, we may collect biometric information such as facial geometry if you use certain of our virtual try-on applications. For Illinois residents who provide us with biometric information (such as during use of our virtual try-on apps), in accordance with Illinois state law, we will retain biometric information only until the occurrence of the first of the following:  
+As indicated in our Privacy Policy, we may collect sensitive personal information including biometric information such as facial geometry if you use certain of our virtual try-on applications. For Illinois residents who provide us with biometric information (such as during use of our virtual try-on applications), in accordance with Illinois state law, we will retain biometric information only until the occurrence of the first of the following:  
 
 * The initial purpose for collecting or obtaining such biometric information has been satisfied, or
 * Three years following your last interaction with us.
 
-**Utah Residents**
+**Washington and Nevada Residents**
 
-This section applies solely to Utah residents and supplements our Privacy Policy above.
-
-If you are a Utah resident, you have the right to:  
-
-* request access to your personal information;
-* request the deletion of personal information you have provided to us;
-* opt-out of the processing of your sensitive information; or
-* opt out of the processing of your personal information for targeted advertising purposes or the sale of your personal information. Certain advertising practices, such as those described in the [How We Use Information to Advertise](#its) section, may be deemed targeted advertising.
-
-You can exercise your rights by submitting a request through our [Privacy Request Portal](https://privacyportal.onetrust.com/webform/84bcbfa6-9d87-4573-b6f8-acfb1a7839a8/f3df6151-fb79-4fe9-946d-53365343cefa?source=policy). Before processing your request, we will take reasonable steps to verify your identity, which will include verifying that the email address from which you submit the request matches the email address we maintain on file for you. To ensure you are the owner of the email address, you must respond to a confirmation email that we will send to the email address. In some cases, we may ask that you provide additional information to verify your identity.
-
-To opt-out of the processing of your personal information for targeting advertising purposes or the sale of your personal information, you must also edit your preferences using the “Do Not Sell or Share My Personal Information / Target Ads” at the bottom of each our Brand websites.
-
-  
+For Washington and Nevada residents please see our “[Consumer Health Data Privacy Statement](https://www.bobbibrowncosmetics.com/consumer-health-data-privacy-statement)”.  
   
   
   
@@ -837,6 +865,8 @@ United States
 [Terms & Conditions](https://www.bobbibrowncosmetics.com/customer-service-corporate#corporate-terms)
 
 [Accessibility](https://www.bobbibrowncosmetics.com/customer-service-accessibility)
+
+[Consumer Health Data Privacy Statement](https://www.bobbibrowncosmetics.com/consumer-health-data-privacy-statement)
 
 Do Not Sell or Share My Personal Information / Targeted Ads
 
