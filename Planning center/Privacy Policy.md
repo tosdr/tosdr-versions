@@ -30,41 +30,25 @@ A Mobile App for Your Congregants](https://www.planningcenter.com/church-center)
 
 Use Cases
 
-[![use case icon](/images/icons/icon-use-case.svg)
+[Planning Center as a ChMS
 
-Planning Center as a ChMS
+Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[Planning Center for Children's Ministry
 
-Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[![use case children-s-ministry icon](/images/icons/icon-use-case-cm.svg)
-
-Planning Center for Children's Ministry
-
-Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[![use case church planters](/images/icons/icon-use-case-cp.svg)
-
-Planning Center for Church Planters
+Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[Planning Center for Church Planters
 
 Set the culture for a growing church](https://www.planningcenter.com/use-cases/church-planters)
 
 Learn
 
-[![support icon](/images/icons/icon-support.svg)
+[Support
 
-Support
+Helpful responses in ~1 hour](https://www.planningcenter.com/support)[Getting Started
 
-Helpful responses in ~1 hour](https://www.planningcenter.com/support)[![map icon](/images/icons/icon-map.svg)
+A roadmap to transition](https://www.planningcenter.com/getting-started)[Integrations
 
-Getting Started
+Tools that work with our products](https://www.planningcenter.com/integrations)[About Us
 
-A roadmap to transition](https://www.planningcenter.com/getting-started)[![cog icon](/images/icons/icon-integrations.svg)
-
-Integrations
-
-Tools that work with our products](https://www.planningcenter.com/integrations)[![about us icon](/images/icons/icon-about-us.svg)
-
-About Us
-
-Our story and our values](https://www.planningcenter.com/about)[![grad hat icon](/images/icons/icon-grad-hat.svg)
-
-Training
+Our story and our values](https://www.planningcenter.com/about)[Training
 
 Become a Planning Center scholar](https://www.planningcenter.com/training)
 
@@ -102,41 +86,25 @@ A Mobile App for Your Congregants](https://www.planningcenter.com/church-center)
 
 Learn
 
-[![support icon](/images/icons/icon-support.svg)
+[Support
 
-Support
+Helpful responses in ~1 hour](https://www.planningcenter.com/support)[Getting Started
 
-Helpful responses in ~1 hour](https://www.planningcenter.com/support)[![Map icon](/images/icons/icon-map.svg)
+A roadmap to transition](https://www.planningcenter.com/getting-started)[Integrations
 
-Getting Started
+Tools that work with our products](https://www.planningcenter.com/integrations)[About Us
 
-A roadmap to transition](https://www.planningcenter.com/getting-started)[![cog icon](/images/icons/icon-integrations.svg)
-
-Integrations
-
-Tools that work with our products](https://www.planningcenter.com/integrations)[![about us icon](/images/icons/icon-about-us.svg)
-
-About Us
-
-Our story and our values](https://www.planningcenter.com/about)[![grad hat icon](/images/icons/icon-grad-hat.svg)
-
-Training
+Our story and our values](https://www.planningcenter.com/about)[Training
 
 Become a Planning Center scholar](https://www.planningcenter.com/training)
 
 Use Cases
 
-[![use case icon](/images/icons/icon-use-case.svg)
+[Planning Center as a ChMS
 
-Planning Center as a ChMS
+Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[Planning Center for Children's Ministry
 
-Equip your team, connect your church](https://www.planningcenter.com/use-cases/chms)[![use case children-s-ministry icon](/images/icons/icon-use-case-cm.svg)
-
-Planning Center for Children's Ministry
-
-Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[![use case church planters icon](/images/icons/icon-use-case-cp.svg)
-
-Planning Center for Church Planters
+Care for families, support volunteers](https://www.planningcenter.com/use-cases/childrens-ministry)[Planning Center for Church Planters
 
 Set the culture for a growing church](https://www.planningcenter.com/use-cases/church-planters)
 
@@ -451,7 +419,7 @@ European citizens have the right to complain to a Data Protection Authority abou
 
 UK citizens have the right to complain to the Information Commissioners Office (ICO) about our collection and use of their personal information. For more information, please contact the ICO.
 
-[![planning center logo](/images/icons/icon-planning-center.svg)](https://www.planningcenter.com/)
+[](https://www.planningcenter.com/)
 
 Get updates delivered to your inbox!
 
@@ -501,13 +469,9 @@ Get updates delivered to your inbox!
 * [Community](https://www.planningcenter.com/community)
 * [Security](https://www.planningcenter.com/security)
 * [Status](https://status.planningcenter.com/)
-* [![giving badge](/images/giving/giving-badge.svg)Apply for a free  
+* [Apply for a free  
     Giving subscription](https://www.planningcenter.com/giving/free)
 
-![Soc icon](/_next/static/media/soc.83c91224.svg)
-
-![Gdpr icon](/_next/static/media/gdpr.df8aebde.svg)
-
-![Ccpa icon](/_next/static/media/ccpa.bf921d43.svg)
+![AICPA SOC](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsoc.9c0606b4.png&w=96&q=90)
 
 [Terms of Service](https://www.planningcenter.com/terms)[Privacy Policy](https://www.planningcenter.com/privacy)
