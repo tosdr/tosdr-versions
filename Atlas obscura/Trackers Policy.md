@@ -1,5 +1,3 @@
-   
-
 [](https://www.atlasobscura.com/)
 
 [Trips](https://www.atlasobscura.com/adventures/) [Experiences](https://www.atlasobscura.com/events) [Courses](https://www.atlasobscura.com/online-courses) [Places](https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map) [Foods](https://www.atlasobscura.com/gastro) [Stories](https://www.atlasobscura.com/articles) [Newsletters](https://www.atlasobscura.com/newsletters)
@@ -211,7 +209,6 @@ Get the app
 
 * [About](https://www.atlasobscura.com/about)
 * [FAQ](https://www.atlasobscura.com/faq)
-* [Invest In Us](https://invest.atlasobscura.com/)
 * [Advertise With Us](https://studio-obscura.atlasobscura.com/)
 * [Advertising Guidelines](https://www.atlasobscura.com/advertising-acceptability-guidelines)
 * [Privacy Policy](https://www.atlasobscura.com/privacy)
