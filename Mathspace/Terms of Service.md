@@ -5,16 +5,16 @@
 Mathspace Terms and Conditions
 ==============================
 
-Effective date: July 31, 2021
+Effective date: July 16, 2024
 
-Thank you for visiting our website. This website is owned and operated by Mathspace Inc. (EIN: 35 2505886). By accessing and/or using this website and our services, you agree to these terms and conditions, which include our Privacy Policy (available at https://mathspace.co/us/privacy-policy and attached) (Terms). You should review our Privacy Policy and these Terms carefully and immediately cease using our website or services if you do not agree to these Terms.
+Thank you for visiting our website. This website is owned and operated by Mathspace Inc. (EIN: 35 2505886). By accessing and/or using this website and our services, you agree to these terms and conditions, which include our Privacy Policy (available at [https://mathspace.co/us/privacy-policy](https://mathspace.co/us/privacy-policy) and attached) (Terms). You should review our Privacy Policy and these Terms carefully and immediately cease using our website or services if you do not agree to these Terms.
 
 In these Terms, 'us', 'we' and 'our' means Mathspace Inc.
 
 In these Terms, there are two categories of "subscriber":
 
-1. Personal Users (Learners and parents/guardians who directly subscribe via the Mathspace website with no link to a school); and
-2. School Users (Learners, educators and parents or guardians linked to a Mathspace for Schools account purchased by their school).
+* Personal Users (Learners and parents/guardians who directly subscribe via the Mathspace website with no link to a school); and
+* School Users (Learners, educators and parents or guardians linked to a Mathspace for Schools account purchased by their school).
 
 In the case of a Learner who is not at the time 18 years of age, permission must be sought by that Learner's school or by a parent, tutor, educator, guardian or carer of that Learner before signing up to this website or to use our services.
 
@@ -39,7 +39,7 @@ Each subscriber will take, and where applicable will ensure that the relevant us
 Special provisions / Copyright
 ------------------------------
 
-Each subscriber acknowledges that any website material is the property of Mathspace and is the copyright of Mathspace. Except as permitted by law or these Terms, the subscriber will not, and where applicable the subscriber will procure that the relevant user will not, allow any other person to use the website or reproduce or otherwise transmit any website material in any way whatsoever without first obtaining the written permission of Mathspace. Mathspace reserves its entitlements under Copyright Law of the United States (Title 17) and Related Laws Contained in Title 17 of the United States Code. \[For information about Copyright Law of the United States (Title 17) and Related Laws Contained in Title 17 of the United States Code visit http://www.copyright.gov/title17/\].
+Each subscriber acknowledges that any website material is the property of Mathspace and is the copyright of Mathspace. Except as permitted by law or these Terms, the subscriber will not, and where applicable the subscriber will procure that the relevant user will not, allow any other person to use the website or reproduce or otherwise transmit any website material in any way whatsoever without first obtaining the written permission of Mathspace. Mathspace reserves its entitlements under Copyright Law of the United States (Title 17) and Related Laws Contained in Title 17 of the United States Code. \\\[For information about Copyright Law of the United States (Title 17) and Related Laws Contained in Title 17 of the United States Code visit [http://www.copyright.gov/title17/](http://www.copyright.gov/title17/)\\\].
 
 An educator user may use website material for classroom instructional purposes such as projecting it onto a whiteboard, displaying it by means of other electronic media or printing it and distributing it to his or her students. However, the use of the website materials by an educator user, for any purpose other than the instruction of the students in their class at a time when their right to use the website materials is current, will constitute a breach of these Terms.
 
@@ -60,27 +60,18 @@ If at any time a subscriber or relevant user is referred through our website to 
 Payments
 --------
 
-There are three products on Mathspace: (1) Mathspace Digital Home Tutor Personal Accounts (2) Waypoints by Mathspace and; (3) Mathspace for Schools. The terms and conditions for each product vary. Please ensure you read the section that is relevant to you.
+There are two types of subscriptions for Mathspace: (1) Personal subscriptions and (2) School Subscriptions. The terms and conditions for each product vary. Please ensure you read the section that is relevant to you.
 
 Each subscriber (on its own behalf and on behalf of the relevant user) acknowledges that Mathspace will collect personal information about subscribers and users which is disclosed in an application for the purposes of the operation of the website and provision of its services, as outlined in our Privacy Policy and authorizes Mathspace to do so.
 
 Mathspace may terminate its arrangements with a subscriber or user immediately if at any time a subscriber or user is in breach of the subscriber's or user's obligations (including as a result of some act or omission by the subscriber or user).
 
-Personal Digital Home Tutor Subscriptions
------------------------------------------
+Personal Subscriptions
+----------------------
 
-A personal Digital Home Tutor subscription allows a student to access the eBook, the adaptive learning engine and we will track data on the student's progress. A subscription may be procured through the sign up or within the settings section of the Mathspace product. Subscriptions commence when we make them available to student for the duration of the calendar year. They incur an annual payment.
+A personal subscription allows a student, parent or teacher to access the Mathspace platform, including lessons, adaptive tasks within the workbook and check ins and we will track data on student progress. A subscription is procured through the Mathspace website. Subscriptions commence upon user sign up and remain active until the user requests deletion of their account, or after a period of one year since the last interaction.
 
-Credit/Debit card is the only accepted payment method for personal subscriptions. Where applicable, Mathspace will debit the credit card, particulars of which are given in an application, with a subscription fee as identified in the application. All payments are processed through [Stripe's secure payment gateway](https://stripe.com/docs/security/stripe). Mathspace does not directly collect or store any credit card information.
-
-Each subscriber (on its own behalf and on behalf of the relevant user) acknowledges that Mathspace will collect personal information about subscribers and users which is disclosed in an application for the purposes of the operation of the website and provision of its services as outlined in the Privacy Policy, and authorizes Mathspace to do so.
-
-Mathspace may terminate its arrangements with a subscriber or user immediately if at any time a subscriber or user is in breach of the subscriber's or user's obligations (including as a result of some act or omission by the subscriber or user).
-
-Waypoints by Mathspace Subscriptions
-------------------------------------
-
-Waypoints by Mathspace gives students access to the adaptive assessment engine and we will track data on the student's progress and growth. A Waypoints subscription may be procured through the sign up section of the Mathspace product.
+Personal subscriptions do not currently incur a fee but Mathspace reserves the right to withdraw free access or to change the subscription structure at any time. In the event that payment is required for personal subscriptions or specific features therein, Credit/Debit card is the only accepted payment method. Where applicable, Mathspace will debit the credit card, particulars of which are given in an application, with a subscription fee as identified in the application. All payments are processed through [Stripe's secure payment gateway.](https://stripe.com/docs/security/stripe)Mathspace does not directly collect or store any credit card information.
 
 Each subscriber (on its own behalf and on behalf of the relevant user) acknowledges that Mathspace will collect personal information about subscribers and users which is disclosed in an application for the purposes of the operation of the website and provision of its services as outlined in the Privacy Policy, and authorizes Mathspace to do so.
 
@@ -89,7 +80,14 @@ Mathspace may terminate its arrangements with a subscriber or user immediately i
 Mathspace for Schools Subscriptions
 -----------------------------------
 
-For our school customers we enter into separate / bespoke ordering arrangements._Please note that, in the United States, our services come with guarantees that cannot be excluded under United States consumer law. Nothing in these terms purports to modify or exclude the conditions, warranties and undertakings, and other legal rights, under the Bureau of Consumer Protection and overseen by the Federal Trade Commission (FTC). Any and all other warranties or conditions which are not guaranteed by the Bureau of Consumer Protection and overseen by the Federal Trade Commission (FTC) are expressly excluded where permitted, including liability for incidental or consequential damages caused by breach of any express or implied warranty or condition._
+For our school customers we enter into separate / bespoke ordering arrangements.Please note that, in the United States, our services come with guarantees that cannot be excluded under United States consumer law. Nothing in these terms purports to modify or exclude the conditions, warranties and undertakings, and other legal rights, under the Bureau of Consumer Protection and overseen by the Federal Trade Commission (FTC). Any and all other warranties or conditions which are not guaranteed by the Bureau of Consumer Protection and overseen by the Federal Trade Commission (FTC) are expressly excluded where permitted, including liability for incidental or consequential damages caused by breach of any express or implied warranty or condition.
+
+Marketing
+---------
+
+Each subscriber and/or user of a teacher or parent account acknowledges that by creating a Mathspace account they agree to be contacted by us with relevant marketing materials. Users creating accounts or requesting the creation of accounts on behalf of others acknowledge that they have sought the consent of those users to have an account created for them and that they have been made aware of these Terms.
+
+Users and/or subscribers can unsubscribe from marketing emails at any time. This will not affect communications that we are legally required to send such as notifications of these Terms being updated.
 
 Linked sites
 ------------
@@ -146,10 +144,8 @@ Enquiries
 
 All enquiries and comments regarding these Terms should be made to:
 
-Mathspace Inc.
-
-EIN: 35 2505886
-
+Mathspace Inc.  
+EIN: 35 2505886  
 [\[email protected\]](https://mathspace.co/cdn-cgi/l/email-protection)
 
 ©2024 MATHSPACE PTY LTD. ALL RIGHTS RESERVED.
