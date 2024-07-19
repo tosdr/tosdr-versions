@@ -24,10 +24,10 @@ SEARCH Search
 * [CompeteExpand](#)
     * [Committing to Rep](https://www.drvcvolleyball.ca/rep/)
     * [TryoutsExpand](#)
-        * [Spring ID Clinics](https://www.drvcvolleyball.ca/opengym/)
+        * [Open Gyms](https://www.drvcvolleyball.ca/opengym/)
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep TeamsExpand](https://www.drvcvolleyball.ca/rep/)
-        * [2023/2024 RostersExpand](#)
+        * [2024/2025 RostersExpand](#)
             * [Junior girls (11U-14U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
             * [Senior Girls (15U +)](https://www.drvcvolleyball.ca/senior-girls/)
     * [Tournaments](https://www.drvcvolleyball.ca/tournaments/)
@@ -143,11 +143,11 @@ All content protected by copyright & subject to permission to use.
     * [Committing to Rep](https://www.drvcvolleyball.ca/rep/)
     * [Tryouts](#)Toggle child menuExpand
         
-        * [Spring ID Clinics](https://www.drvcvolleyball.ca/opengym/)
+        * [Open Gyms](https://www.drvcvolleyball.ca/opengym/)
         * [September Tryouts](https://www.drvcvolleyball.ca/tryouts/)
     * [Rep Teams](https://www.drvcvolleyball.ca/rep/)Toggle child menuExpand
         
-        * [2023/2024 Rosters](#)Toggle child menuExpand
+        * [2024/2025 Rosters](#)Toggle child menuExpand
             
             * [Junior girls (11U-14U)](https://www.drvcvolleyball.ca/junior-girls-11g-14g/)
             * [Senior Girls (15U +)](https://www.drvcvolleyball.ca/senior-girls/)
