@@ -1,4 +1,4 @@
-               Privacyverklaring | Kronch diervoeders                                
+               Privacyverklaring | Kronch diervoeders                         
 
 top of page
 
@@ -35,6 +35,7 @@ top of page
     * [OVERSTAPPEN OP KRONCH](https://www.kronch.nl/overstappen)
     * [DE ZALM IN KRONCH PRODUCTEN](https://www.kronch.nl/de-zalm-in-kronch-producten)
     * [DUURZAAMHEID](https://www.kronch.nl/duurzaamheid)
+    * [KRONCH VOOR JACHT- EN WERKHONDEN](https://www.kronch.nl/over-kronch/kronch-voor-jacht-en-werkhonden)
     * [SIRIUS PATROL](https://www.kronch.nl/siriuspatrol)
 * [CONTACT](https://www.kronch.nl/contact)
     * [SAMPLES](https://www.kronch.nl/samples-proefverpakkingen)
