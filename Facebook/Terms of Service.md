@@ -11,7 +11,7 @@
 
 [Plain Text Terms of Service](https://www.facebook.com/legal/terms/plain_text_terms)
 
-[Facebook Ads Controls](https://www.facebook.com/settings/ads)[Privacy Center](https://www.facebook.com/privacy/center)[Cookies Policy](https://www.facebook.com/policies/cookies/)[Privacy Policy](https://www.facebook.com/privacy/policy)[Transparency Center](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2F&h=AT2ckHaYMMmVssoJqFQr90byO2LEfRClSTHXfjzBOIXXfw_srPcYS-lgBPlWeLN5PLO-LMa2wvOwo2Wc7tt54dAMpuLcdg6Nvbb70V2n8H9rSfCeiF8Hvko77sxpJoCNBBMaBXWdq-RYb9C1)
+[Facebook Ads Controls](https://www.facebook.com/settings/ads)[Privacy Center](https://www.facebook.com/privacy/center)[Cookies Policy](https://www.facebook.com/policies/cookies/)[Privacy Policy](https://www.facebook.com/privacy/policy)[Transparency Center](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2F&h=AT0iAOTluTJ1utJclWQgI8TIx2tV5RB5M6OiLnMYvGY5iFKo8kLVkognRojasnDQh_L1zUls6mnhO8seW7DPGLyTCjejOSy224oYbHocREbUEL9gP16CobxxzTv43q_9IhF6Aj93g0U27MF_)
 
 More Resources
 
@@ -144,7 +144,7 @@ We want people to use Meta Products to express themselves and to share content t
     
 5. You may not sell, license, or purchase any data obtained from us or our services, except as provided in the Platform Terms.
     
-6. You may not misuse any reporting, flagging, dispute, or appeals channel, such as by making fraudulent, duplicative, or groundless reports or appeals. Learn more about our policy on frequent submission of manifestly unfounded reports and complaints in our [Misuse Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fmisuse-policy&h=AT2GPxaVo_Fm_499Gpiha6w4DpqDickuq7Iv19m2Rd7mVON0GlHXbSicpJmsFWiPej2oWaNGQNYvQREM4iyi-O3H8CaQVyAKvUpwGHYeWnKMOmpwCiREpaqSRbBcSt_3ULb-TjXwbSs7Xs33).
+6. You may not misuse any reporting, flagging, dispute, or appeals channel, such as by making fraudulent, duplicative, or groundless reports or appeals. Learn more about our policy on frequent submission of manifestly unfounded reports and complaints in our [Misuse Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fmisuse-policy&h=AT0nnCOLXNI0xR0BpKSjEtFeqaMcvnFQtpaLhhE1trZoI09NruaKyQnuK-_u5p7RJYhffS4TNXe7h8dQ1p-3-DRZs5ubcPblqNufNMzfsVM-8EKlhi_ra_a-oBukIu23e1a1zN9j86dbvhsb).
     
 
 We can remove, block or restrict content that is in breach of these provisions. We can also suspend or disable your account for conduct that violates these provisions, as provided in Section 4.2.
@@ -155,7 +155,7 @@ To help support our community, we encourage you to [report content](https://www.
 
 We also can remove, block or restrict access to content, features, services or information if we determine that doing so is reasonably necessary to avoid or mitigate misuse of our services or adverse legal or regulatory impacts to Meta.
 
-Learn more about our Complaints Handling Process [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fcomplaints-handling-process&h=AT3OikaPFYZB8wdasA9puFhjb0oiBYgPbzqtTvWQNa-HrRWYPtlU-4XvdQDESn39oYU9ZwTNIg1LepPz_vFFpTaqEtgcNyEX9x5Tm514el7lp6qsOToJ0-t0jYk6VzUqFPWrJAMhUxN5ne64).
+Learn more about our Complaints Handling Process [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fcomplaints-handling-process&h=AT3NHAJTI7YOEYhCz7Uq2u2f-aqZaI6T_lSE5QP4zjJX33-RxM-F5Zjq1hg-vHwse_FYXdyo49YVKg9oV4XxvOeobzBSWKn_j9Rj_RB3Rhv_mjjL1Lh9pLaM3vdQMCuSH-3afTYiOisj07vXNJDXvuVjc29L5Q).
 
 3\. The permissions you give us
 
@@ -218,11 +218,11 @@ We hope that you will continue using our Products, but if you do not agree to ou
 
 [](#)We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas.
 
-If we determine that you have clearly, seriously or repeatedly breached our Terms or Policies, including in particular the [Community Standards](https://www.facebook.com/communitystandards), we may suspend or permanently disable your access to Meta Company Products, and we may permanently disable or delete your account. We may also disable or delete your account if you repeatedly infringe other people’s intellectual property rights or where we are required to do so for legal reasons. Learn more about how we deal with repeated violations of our content policies [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fenforcement%2Ftaking-action%2Frestricting-accounts&h=AT2tbddGsTqzTTLzkIYGng_kCV8pOlmegex3VsvxZ1VQhwhp0a7_svjYZAldWu4F987crLTIotbx3nhRZqraQ2z0X8KN2osgtLDSEjybJ9HhYDNViDHE-D1U9FRpehUK03G_I4IJNW7v4xg8); and our Misuse Policy on frequent provision of manifestly illegal content is set out [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fmisuse-policy&h=AT1leDyFfzwIueRK0-7tNGvvAjcpPV0ZKiS1oLz14m7ybmKxl6x3WftpyQGTl3n2999yok5I_qkGeES7NfoEQPknGAaRX7OggoVGLoF0G7c5KwaytGw7b7DYNJU9izHn1p-Rm1dRk4O4fs2W).
+If we determine that you have clearly, seriously or repeatedly breached our Terms or Policies, including in particular the [Community Standards](https://www.facebook.com/communitystandards), we may suspend or permanently disable your access to Meta Company Products, and we may permanently disable or delete your account. We may also disable or delete your account if you repeatedly infringe other people’s intellectual property rights or where we are required to do so for legal reasons. Learn more about how we deal with repeated violations of our content policies [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fenforcement%2Ftaking-action%2Frestricting-accounts&h=AT3Eo9ogMo5HorHKOK2Cwrm0EUcR1xX4HGBw06Yqt2BPukp_kUfXWIagyDDMr7D-yp3kpsPmWeGlUw7bvS3yM_ZuqgWfHxBZ-1N5U1VJ0SGSt2YbfkoPUA_DZtMO0jzQhepAXJytasEtJ6g1); and our Misuse Policy on frequent provision of manifestly illegal content is set out [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fmisuse-policy&h=AT1Hki-XYVhpWk4MXuUJgbS_eKO5LuzvhTVyoDyxZ8wnPFSZoBcWyVz2DHOowrdG-hkZstZ65nVpRpl6DTJw-8y1bcv2CKpZsNtI03P9ltnXUkwPBXdX5w43sR-MyTIvepGEex6UCg3zXANSyV0fZVSiFFEXpA).
 
 We may disable or delete your account if after registration your account is not confirmed, your account is unused and remains inactive for an extended period of time, or if we detect someone may have used it without your permission and we are unable to confirm your ownership of the account. [Learn more](https://www.facebook.com/help/3434203120011796) about how we disable and delete accounts.
 
-Where we take such action we’ll let you know and explain any options you have to request a review, unless doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons. Learn more about our Complaints Handling Process [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fcomplaints-handling-process&h=AT0iZ-FHBLtRn5keCUzsDgSvePRrdfU6hylDKfE381g4nkJKWITEzEJXkb_RQpbjd4Y-8YWp4zVink4mRhd47wkRO6qpUFhK1exEs2qOT8wnEsKp_1Apfi-Dj9eU_q9iwzFIOZJsUqSuFUM3).
+Where we take such action we’ll let you know and explain any options you have to request a review, unless doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons. Learn more about our Complaints Handling Process [here](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fenforcement%2Ftaking-action%2Fcomplaints-handling-process&h=AT1vX0DcRSwvw6-Zh7axPXIJf6_y3RUTR4IxJKA2MXhE5-vx2DRGws3cHXD0nXtXzp_MaO6VRaNR66Ho2GlbFKFbWaGnx5ESanXurxgyykQPvMLtSqE6zcuph49NushVxSRfATF_3TyshZn0).
 
 You can [learn more](https://www.facebook.com/help/103873106370583?ref=tos) about what you can do if your account has been disabled and how to contact us if you think we have disabled your account by mistake.
 
@@ -289,7 +289,7 @@ If a claim or dispute arises between us that relates to use of the Meta Products
     
 * [Meta Brand Resources](https://about.meta.com/brand/resources/): These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
     
-* Recommendations Guidelines: The [Facebook Recommendations Guidelines](https://www.facebook.com/help/1257205004624246/) and [Instagram Recommendations Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%2F&h=AT0akqzf6cXFpLJJicPKu8ESLQzOhlqkxl_C9HNFB9uQUxpAaaGz6pTbrIFy2yAA-5iFMocoDUmCVfVpS3uchZh5VvzeDe0tUo-lRyMTaDE0byhrr-MvYrqfN0KNIv22Z2g9i9vbJLDLLx8M) outline our standards for recommending and not recommending content.
+* Recommendations Guidelines: The [Facebook Recommendations Guidelines](https://www.facebook.com/help/1257205004624246/) and [Instagram Recommendations Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%2F&h=AT3DcM2G2k0AxiJrYHgrwacl7ZRkvp4kLAw_Ti4clZIPZfAcZhVhmzLjiGmLQUdGas8V7l9_7M4PWNzd6YupEmgdFmtX_0kAlsnGSqO9HkQ6Minpr2OZg-uC-4JE7PpNRInCcSKAjPOwdARW) outline our standards for recommending and not recommending content.
     
 * [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
     
@@ -322,7 +322,7 @@ Date of Last Revision: 25 April 2023
 * [Meta Store](https://www.meta.com/ "Check out Meta")
 * [Meta Quest](https://www.meta.com/quest/ "Learn more about Meta Quest")
 * [Meta AI](https://www.meta.ai/ "Meta AI")
-* [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT1YFyBfBKuyReWOrWg0aRPZ16uL9_Tnx6OQI_tLZV8C4UMPHbcCqOG1IGibClYYyxO2rEk1L4UxmailEunwz3ChwFKe6cj8JbH-yPpESVbK-ezwxTF6o5w8CWT7AGXom8pkNtOWGySm6dFI "Check out Instagram")
+* [Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT09VdBHUfOxx59Z2Algu-jl0Tpk4_o3_uNeQtR5XZth4Gwoh-gPlVOrPUwUbMyz7PsFYlPVJm3qvoH9UOMBomxhbayxafoG2jFqqdf6geWUGaK6n4-6QCq-iOCRb-XEEmo9AGdt7JDWqiLh "Check out Instagram")
 * [Threads](https://www.threads.net/ "Check out Threads")
 * [Fundraisers](https://www.facebook.com/fundraisers/ "Donate to worthy causes.")
 * [Services](https://www.facebook.com/biz/directory/ "Browse our Facebook Services directory.")
