@@ -42,6 +42,7 @@ Search
         * [Stop Harassment](https://www.acm.org/about-acm/policy-against-harassment "Stop Harassment")
         * [Report Unacceptable Behavior](https://www.acm.org/about-acm/reporting-unacceptable-behavior "Report Unacceptable Behavior")
         * [Policy on Complaint Process Disclosure](https://www.acm.org/about-acm/disclosure-policy "Policy on Complaint Process Disclosure")
+        * [ACM Statements](https://www.acm.org/about-acm/acm-statements "ACM Statements")
         * [ACM in the News](https://www.acm.org/media-center/acm-in-the-news "ACM in the News")
         * [Media Center](https://www.acm.org/media-center "Media Center")
         * [Contact Us](https://www.acm.org/about-acm/contact-us "Contact Us")
@@ -249,7 +250,7 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [Avi Wigderson Receives 2023 A.M. Turing Award](https://awards.acm.org/about/2023-turing)
+    * [Avi Wigderson Delivers Turing Lecture at STOC 2024](https://youtube.com/live/f2NiGO8zC1c)
         
         [![2023 ACM Prize recipient Amanda Randles](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-prize.jpg)](https://awards.acm.org/about/2023-acm-prize)
         
@@ -282,13 +283,13 @@ Search
         
         [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
         
-        [![chip-huyen-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/chip-huyen-techtalk.jpg)](https://events.zoom.us/ev/AuK2GHiGErlhKuJWYRGND-S4fQfnvCgfPO50QMGDk0trhQ2ykP5H~Ap6ZKkpo6vqQbiFjSSw9AR3_1BLffDPbOk8pIR_HvO6MdTbC0_WpovE81A)
+        [![jan-bosch.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/jan-bosch.jpg)](https://events.zoom.us/ev/AvFZryW6LNHfzOo1zGQTcQ1NnCNIfPvlCfGafIs2DUbS_mAb7elj~AhKqHi3MzXKfqFQLx2dh7p8O8giCascjAoWsaTCRRmaEVAinqYUuJSO3rA)
         
-        [Chip Huyen TechTalk](https://events.zoom.us/ev/AuK2GHiGErlhKuJWYRGND-S4fQfnvCgfPO50QMGDk0trhQ2ykP5H~Ap6ZKkpo6vqQbiFjSSw9AR3_1BLffDPbOk8pIR_HvO6MdTbC0_WpovE81A)
+        [Jan Bosch TechTalk](https://events.zoom.us/ev/AvFZryW6LNHfzOo1zGQTcQ1NnCNIfPvlCfGafIs2DUbS_mAb7elj~AhKqHi3MzXKfqFQLx2dh7p8O8giCascjAoWsaTCRRmaEVAinqYUuJSO3rA)
         
-        [![Image of Juan Gilbert](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/juan-e-gilbert-bytecast.jpg)](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+        [![Image of Ramón Cáceres](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/ramon-caceres-bytecast.jpg)](https://learning.acm.org/bytecast/ep56-ramon-caceres)
         
-        [ByteCast Ep55: Juan Gilbert](https://learning.acm.org/bytecast/ep55-juan-gilbert)
+        [ByteCast Ep56: Ramón Cáceres](https://learning.acm.org/bytecast/ep56-ramon-caceres)
         
     
 * [Learning Center](#)
@@ -338,9 +339,9 @@ Search
         
         [\[Learn More about ACM's Public Policy Work...\]](https://www.acm.org/public-policy/about)
         
-    * [![techbrief-iss10-automated-vehicles.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/public-policy/tech-briefs/techbrief-iss10-automated-vehicles.jpg)](https://dl.acm.org/doi/book/10.1145/3654812)
+    * [![techbrief-iss11-data-privacy-protection.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/public-policy/tech-briefs/techbrief-iss11-data-privacy-protection.jpg)](https://dl.acm.org/doi/book/10.1145/3679004)
         
-        [TechBrief on Automated Vehicles](https://dl.acm.org/doi/book/10.1145/3654812)
+        [TechBrief on Data Privacy Protection](https://dl.acm.org/doi/book/10.1145/3679004)
         
         [![tpc-remote-proctoring-software.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/public-policy/tpc-remote-proctoring-software.jpg)](https://www.acm.org/binaries/content/assets/public-policy/remote-proctoring-statement.pdf)
         
@@ -400,6 +401,7 @@ Search
 * [Stop Harassment](https://www.acm.org/about-acm/policy-against-harassment "Stop Harassment")
 * [Report Unacceptable Behavior](https://www.acm.org/about-acm/reporting-unacceptable-behavior "Report Unacceptable Behavior")
 * [Policy on Complaint Process Disclosure](https://www.acm.org/about-acm/disclosure-policy "Policy on Complaint Process Disclosure")
+* [ACM Statements](https://www.acm.org/about-acm/acm-statements "ACM Statements")
 * [ACM in the News](https://www.acm.org/media-center/acm-in-the-news "ACM in the News")
 * [Media Center](https://www.acm.org/media-center "Media Center")
 * [Contact Us](https://www.acm.org/about-acm/contact-us "Contact Us")
