@@ -1,4 +1,4 @@
-[![Paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/logo.svg)](https://www.paylib.fr/)
+[![Paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/logo_464bf414.svg)](https://www.paylib.fr/)
 
 * [Paylib entre amis](https://www.paylib.fr/paiement-entre-amis)
 * [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe)
@@ -93,7 +93,7 @@ Posez-nous votre question !
 
 [](https://www.facebook.com/paylib.fr/?fref=ts)[](https://twitter.com/Paylib)[](https://www.instagram.com/paylib/)[](https://www.linkedin.com/company/11066778/)[](https://www.youtube.com/channel/UCFtJX8jWVsUN0AqwTidqRdg)
 
-[Je découvre Paylib](https://www.paylib.fr/a-propos) | [Espace presse](https://www.paylib.fr/paiement-commercants/espace-presse) | [Glossaire](https://www.paylib.fr/glossaire) | [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies) | [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib [![Télécharger dans l'App Store](https://www.paylib.fr/wp-content/themes/paylib/dist/images/apple-store-fr.svg)](https://apps.apple.com/fr/app/paylib-le-paiement-mobile/id1478866769) [![Disponible sur Google Play](https://www.paylib.fr/wp-content/themes/paylib/dist/images/google-store-fr.svg)](https://play.google.com/store/apps/details?id=fr.paylib.paylib)
+[Je découvre Paylib](https://www.paylib.fr/a-propos) | [Espace presse](https://www.paylib.fr/paiement-commercants/espace-presse) | [Glossaire](https://www.paylib.fr/glossaire) | [Politique de confidentialité](https://www.paylib.fr/politique-de-protection-des-donnees-a-caractere-personnel) & [cookies](https://www.paylib.fr/politique-relative-aux-cookies) | [Mentions légales & CGU](https://www.paylib.fr/mention-legales) ©2024 Paylib [![Télécharger dans l'App Store](https://www.paylib.fr/wp-content/themes/paylib/dist/images/apple-store-fr_03fe40c9.svg)](https://apps.apple.com/fr/app/paylib-le-paiement-mobile/id1478866769) [![Disponible sur Google Play](https://www.paylib.fr/wp-content/themes/paylib/dist/images/google-store-fr_3ed47731.svg)](https://play.google.com/store/apps/details?id=fr.paylib.paylib)
 
 J'active Paylib J'active Paylib [Besoin d'aide ?](https://www.paylib.fr/faq)
 
@@ -101,7 +101,7 @@ J'active Paylib J'active Paylib [Besoin d'aide ?](https://www.paylib.fr/faq)
 
 Payer avec Paylib
 
-[Payer entre amis](https://www.paylib.fr/paiement-entre-amis) [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe) [Payer en magasin](https://www.paylib.fr/paiement-sans-contact) [Besoin d'aide ?](https://www.paylib.fr/faq) [Je découvre Paylib](https://www.paylib.fr/a-propos)
+[Payer entre amis](https://www.paylib.fr/paiement-entre-amis) [Dépenses de groupe](https://www.paylib.fr/depenses-de-groupe) [Payer en magasin](https://www.paylib.fr/paiement-sans-contact) [Besoin d'aide ?](https://www.paylib.fr/faq) [Je découvre Wero](https://wero-wallet.eu/fr/consumers)
 
 * * *
 
@@ -116,7 +116,7 @@ Payer avec Paylib
 
 J'active Paylib
 
-![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close.svg)
+![close](https://www.paylib.fr/wp-content/themes/paylib/dist/images/close_d27a789c.svg)
 
 Activez Paylib directement sur votre téléphone !
 ------------------------------------------------
@@ -183,4 +183,4 @@ Merci, un SMS vous a été envoyé pour activer Paylib dans l'application de vot
 
 Une erreur est survenue, veuillez réessayer
 
-![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup5.png)
+![application paylib](https://www.paylib.fr/wp-content/themes/paylib/dist/images/phones-mockup5_65e8356c.png)
