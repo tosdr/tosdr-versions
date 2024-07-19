@@ -1,311 +1,29 @@
-[Skip to main content](#main-content)
+[Personal](https://www.o2.co.uk/) | [Business](https://www.o2.co.uk/business)
 
- 
+[Sign in](https://www.o2.co.uk/signin) or [Register](https://www.o2.co.uk/register)
 
-![O2](//static-www.o2.co.uk/themes/o2_theme/img/global/icons.png) You have been successfully logged out
-
-[](https://www.o2.co.uk/shop/basket)
-
-* Personal
-* |
-* [Business](https://www.o2.co.uk/business)
-
-* Hi
-    
-    [Sign in](https://accounts.o2.co.uk/signin "Sign In")
-    
-    | [Sign out](https://identity.o2.co.uk/logout "Sign out of your account") 
-    
-    or [Register](https://accounts.o2.co.uk/register "register")
-    
-
-[O2 Logo Created with Sketch.](https://www.o2.co.uk/) ![O2](//static-www.o2.co.uk/themes/o2_theme/img/global/arrowbig.png)
+[![O2 Logo White](https://a.storyblok.com/f/253875/34x35/d12e2ecbea/o2-logo.svg)](https://www.o2.co.uk/)
 
 * [Shop](https://www.o2.co.uk/shop)
+    
 * [Why O2](https://www.o2.co.uk/why-o2)
+    
 * [Help](https://www.o2.co.uk/help)
+    
 
-* [My O2](https://mymobile.o2.co.uk/)
-* Search
-* [Your Basket Created with Sketch.](https://www.o2.co.uk/shop/basket)
+* [My O2](https://mymobile2.o2.co.uk/)
+* [Search](https://www.o2.co.uk/searchresult)
+* [Basket](https://www.o2.co.uk/shop/basket)
 
-* [Shop](javascript:void(0);)
-    * [Browse Shop](https://www.o2.co.uk/shop)
-    * Phones
-    * [Phones](https://www.o2.co.uk/shop/phones)
-    * [Upgrades](https://accounts.o2.co.uk/)
-    * [Apple iPhone](https://www.o2.co.uk/iphone)
-    * [iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15)
-    * [Android phones](https://www.o2.co.uk/android)
-    * [Samsung Galaxy phones](https://www.o2.co.uk/samsung-galaxy-phones)
-    * [Refurbished phones](https://www.o2.co.uk/shop/like-new)
-    * Tablets, laptops & dongles
-    * [Tablets](https://www.o2.co.uk/shop/tablets)
-    * [Apple iPad](https://www.o2.co.uk/ipad)
-    * [Android tablets](https://www.o2.co.uk/android-tablets)
-    * [Laptops](https://www.o2.co.uk/laptops)
-    * [Dongles and mobile wifi](https://www.o2.co.uk/shop/mobile-broadband)
-    * Sims and Tariffs
-    * [Pay Monthly sims](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-    * [Pay As You Go sims](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go?simtype=bigbundles)
-    * [Tariffs](https://www.o2.co.uk/shop/all-tariffs)
-    * [International](https://www.o2.co.uk/international)
-    * [Top-up](https://www.o2.co.uk/topup)
-    * Accessories and more
-    * [Tech and accessories](https://www.o2.co.uk/shop/accessories)
-    * [Apple Watch](https://www.o2.co.uk/apple-watch)
-    * [Smartwatches](https://www.o2.co.uk/smartwatches)
-    * [AirPods](https://www.o2.co.uk/airpods)
-    * [Summer Sale](https://www.o2.co.uk/summer-sale)
-    * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
-    * [Great deals](https://www.o2.co.uk/shop/great-deals)
-* [Why O2](javascript:void(0);)
-    * [Browse Why O2](https://www.o2.co.uk/why-o2)
-    * Flexibility
-    * [O2 Switch Up](https://www.o2.co.uk/o2-switch-up)
-    * [O2 custom plans](https://www.o2.co.uk/custom-plans)
-    * [Multisave](https://www.o2.co.uk/multisave)
-    * [O2 Recycle](https://www.o2recycle.co.uk/)
-    * [Click and collect](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
-    * Perks
-    * [O2 Extras](https://www.o2.co.uk/extras)
-    * [Volt](https://www.o2.co.uk/virgin-media-o2)
-    * [Priority tickets and offers](https://priority.o2.co.uk/)
-    * [Perks at O2 venues](https://www.o2.co.uk/sponsorship/our-venues)
-    * [Pay As You Go Rewards](https://payandgorewards.o2.co.uk/web/o2)
-    * Services
-    * [Manage your account](https://www.o2.co.uk/myo2)
-    * [Keeping kids safe online](https://www.o2.co.uk/help/online-safety)
-    * [Ideas and Inspiration](https://www.o2.co.uk/inspiration)
-    * Connected
-    * [Coverage checker](https://www.o2.co.uk/coveragechecker)
-    * [Network coverage](https://www.o2.co.uk/connectivity/network-coverage)
-    * [5G network](https://www.o2.co.uk/5g)
-    * [O2 WiFi](https://www.o2.co.uk/connectivity/free-wifi)
-    * [Using your phone abroad](https://www.o2.co.uk/international/using-your-phone-abroad)
-* [Help](javascript:void(0);)
-    * [Browse Help](https://www.o2.co.uk/help)
-    * Top queries
-    * [Track my order](https://www.o2.co.uk/help/pay-monthly/how-to-track-your-order)
-    * [Sim card](https://www.o2.co.uk/help/device-and-sim-support/activating-your-sim)
-    * [Top-up](https://www.o2.co.uk/help/pay-as-you-go/topping-up)
-    * [Personal Hotspot](https://www.o2.co.uk/help/digital-services/personal-hotspot)
-    * [Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
-    * Device help
-    * [How to use your device](https://www.o2.co.uk/help/phones-sims-and-devices)
-    * [Faulty device](https://diagnostics.o2.co.uk/fix-my-device)
-    * [Device health check](https://www.o2.co.uk/help/digital-services/phone-health-check)
-    * [Lost or stolen](https://www.o2.co.uk/help/device-and-sim-support/lost-or-stolen-device)
-    * [Check O2 Community](https://community.o2.co.uk/)
-    * Managing your account
-    * [My O2](https://accounts.o2.co.uk/)
-    * [Your bill](https://www.o2.co.uk/help/account-and-billing/understanding-your-bill)
-    * [Payments](https://www.o2.co.uk/help/account-and-billing/how-to-pay)
-    * [Premium charges](https://www.o2.co.uk/help/account-and-billing/premium-service-checker)
-    * [Your Data Hub](https://www.o2.co.uk/abouto2/your-data-hub)
-    * Other ways to get help
-    * [Help and support](https://www.o2.co.uk/help)
-    * [Store locator](https://stores.o2.co.uk/)
-    * [Network status](https://status.o2.co.uk/)
-    * [Contact us](https://www.o2.co.uk/contactus)
+* [Home](https://www.o2.co.uk/)
+* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
+* Website Terms of Use
+    
 
-* [Find a store](https://www.o2.co.uk/storelocator)
-* [Business](https://www.o2.co.uk/business)
-
-* Phones
-    * [Phones](https://www.o2.co.uk/shop/phones)
-    * [Upgrades](https://accounts.o2.co.uk/)
-    * [Apple iPhone](https://www.o2.co.uk/iphone)
-    * [iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15)
-    * [Android phones](https://www.o2.co.uk/android)
-    * [Samsung Galaxy phones](https://www.o2.co.uk/samsung-galaxy-phones)
-    * [Refurbished phones](https://www.o2.co.uk/shop/like-new)
-* Tablets, laptops & dongles
-    * [Tablets](https://www.o2.co.uk/shop/tablets)
-    * [Apple iPad](https://www.o2.co.uk/ipad)
-    * [Android tablets](https://www.o2.co.uk/android-tablets)
-    * [Laptops](https://www.o2.co.uk/laptops)
-    * [Dongles and mobile wifi](https://www.o2.co.uk/shop/mobile-broadband)
-* Sims and Tariffs
-    * [Pay Monthly sims](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-    * [Pay As You Go sims](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go?simtype=bigbundles)
-    * [Tariffs](https://www.o2.co.uk/shop/all-tariffs)
-    * [International](https://www.o2.co.uk/international)
-    * [Top-up](https://www.o2.co.uk/topup)
-* Accessories and more
-    * [Tech and accessories](https://www.o2.co.uk/shop/accessories)
-    * [Apple Watch](https://www.o2.co.uk/apple-watch)
-    * [Smartwatches](https://www.o2.co.uk/smartwatches)
-    * [AirPods](https://www.o2.co.uk/airpods)
-    * [Summer Sale](https://www.o2.co.uk/summer-sale)
-    * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
-    * [Great deals](https://www.o2.co.uk/shop/great-deals)
-
-* Flexibility
-    * [O2 Switch Up](https://www.o2.co.uk/o2-switch-up)
-    * [O2 custom plans](https://www.o2.co.uk/custom-plans)
-    * [Multisave](https://www.o2.co.uk/multisave)
-    * [O2 Recycle](https://www.o2recycle.co.uk/)
-    * [Click and collect](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
-* Perks
-    * [O2 Extras](https://www.o2.co.uk/extras)
-    * [Volt](https://www.o2.co.uk/virgin-media-o2)
-    * [Priority tickets and offers](https://priority.o2.co.uk/)
-    * [Perks at O2 venues](https://www.o2.co.uk/sponsorship/our-venues)
-    * [Pay As You Go Rewards](https://payandgorewards.o2.co.uk/web/o2)
-* Services
-    * [Manage your account](https://www.o2.co.uk/myo2)
-    * [Keeping kids safe online](https://www.o2.co.uk/help/online-safety)
-    * [Ideas and Inspiration](https://www.o2.co.uk/inspiration)
-* Connected
-    * [Coverage checker](https://www.o2.co.uk/coveragechecker)
-    * [Network coverage](https://www.o2.co.uk/connectivity/network-coverage)
-    * [5G network](https://www.o2.co.uk/5g)
-    * [O2 WiFi](https://www.o2.co.uk/connectivity/free-wifi)
-    * [Using your phone abroad](https://www.o2.co.uk/international/using-your-phone-abroad)
-
-* Top queries
-    * [Track my order](https://www.o2.co.uk/help/pay-monthly/how-to-track-your-order)
-    * [Sim card](https://www.o2.co.uk/help/device-and-sim-support/activating-your-sim)
-    * [Top-up](https://www.o2.co.uk/help/pay-as-you-go/topping-up)
-    * [Personal Hotspot](https://www.o2.co.uk/help/digital-services/personal-hotspot)
-    * [Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
-* Device help
-    * [How to use your device](https://www.o2.co.uk/help/phones-sims-and-devices)
-    * [Faulty device](https://diagnostics.o2.co.uk/fix-my-device)
-    * [Device health check](https://www.o2.co.uk/help/digital-services/phone-health-check)
-    * [Lost or stolen](https://www.o2.co.uk/help/device-and-sim-support/lost-or-stolen-device)
-    * [Check O2 Community](https://community.o2.co.uk/)
-* Managing your account
-    * [My O2](https://accounts.o2.co.uk/)
-    * [Your bill](https://www.o2.co.uk/help/account-and-billing/understanding-your-bill)
-    * [Payments](https://www.o2.co.uk/help/account-and-billing/how-to-pay)
-    * [Premium charges](https://www.o2.co.uk/help/account-and-billing/premium-service-checker)
-    * [Your Data Hub](https://www.o2.co.uk/abouto2/your-data-hub)
-* Other ways to get help
-    * [Help and support](https://www.o2.co.uk/help)
-    * [Store locator](https://stores.o2.co.uk/)
-    * [Network status](https://status.o2.co.uk/)
-    * [Contact us](https://www.o2.co.uk/contactus)
-
-*   ![Apple](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-apple-1100.png)
-*   ![Samsung](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-samsung-1100.png)
-*   ![Xiaomi](//static-www.o2.co.uk/sites/default/files/2023-10/xiaomi-legacy-global-nav-170423_0.png)
-*   ![Google](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-google-1100.png)
-*   ![Sony](//static-www.o2.co.uk/sites/default/files/2022-09/quick-links-sony-1100.png)
-
-  [![Part of Earth's surface surrounded by the light of the sun](//static-www.o2.co.uk/sites/default/files/2020-02/5g-why-o2-thumbnail-dark-140220.jpg)
-
-Are you ready for 5G?
-
-Check coverage](https://www.o2.co.uk/5g)
-
-  [![Spotlights](//static-www.o2.co.uk/sites/default/files/2020-02/why-o2-thumbnail-dark-260220.jpg)
-
-See all the reasons to choose O2
-
-Why join O2?](https://www.o2.co.uk/why-o2)
-
-  [![Hands joined together in the air](//static-www.o2.co.uk/sites/default/files/2019-05/global-nav-community-image-070519.jpg)](https://community.o2.co.uk/)
-
-  
-
-![ClosePopup](//static-www.o2.co.uk/sites/default/files/global/close_search.png)
-
-My O2
-
-Sign in to review your account
-
- 
-
-  
-
-Remember my user name
-
-Sign in
-
-[Forgotten your username and password?](https://accounts.o2.co.uk/resetpassword/selectusername)
-
-[Register](https://accounts.o2.co.uk/register)
-
-or
-
-### Use your Virgin Media O2 ID
-
-If you've linked your Virgin Media and O2 details to create a new Virgin Media O2 ID, sign in with it here. [Find out more](https://www.virginmedia.com/support/help/linked-virgin-media-o2-id)
-
-[Sign in with a Virgin Media O2 ID](https://accounts.o2.co.uk/openid/vmo2)
-
-![ClosePopup](//static-www.o2.co.uk/sites/default/files/global/close_search.png)
-
-My O2
-
-Enter your mobile number below and we'll send you a code
-
-![Loader](//static-www.o2.co.uk/themes/o2_theme/img/global/tariff/spinner-trans20.gif)
-
-Send code
-
-[Sign in with user name and password](javascript:void(0);)
-
-![ClosePopup](//static-www.o2.co.uk/sites/default/files/global/close_search.png)
-
-We've sent a code to mobile number  
-
-If this isn't your mobile number [please try another number](javascript:void(0);)
-
-Your six digit code
-
- 
-
-![Loader](//static-www.o2.co.uk/themes/o2_theme/img/global/tariff/spinner-trans20.gif)
-
-Continue
-
-[Cancel](javascript:void(0);)
-
-If you've not received a code after 10 minutes we can [send you another code](javascript:void(0);)
-
-![Loader](//static-www.o2.co.uk/themes/o2_theme/img/global/tariff/spinner-trans20.gif)
-
-![CloseSearch](//static-www.o2.co.uk/sites/default/files/global/close_search.png)
-
-Top searches
-
-* [iPhone](https://www.o2.co.uk/shop/phones?osr=ts_iphone#sort=content.sorting.featured&page=1&brand=apple "iPhone")
-* [iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15?osr=ts_iPhone15 "iPhone 15")
-* [Apple Watch](https://www.o2.co.uk/apple-watch?osr=ts_applewatch "Apple Watch")
-* [Samsung](https://www.o2.co.uk/shop/brand/samsung?osr=ts_samsung "Samsung")
-* [iPad](https://www.o2.co.uk/ipad?osr=ts_ipad "iPad")
-
-[](#)
-
-Ready to check out?
-
-You still have items in your basket. Order by midnight for free next working day delivery.
-
-[Check out now](https://www.o2.co.uk/shop/basket)
-
-* [termsandconditions](https://www.o2.co.uk/termsandconditions)
-* website terms of use
-
-Website Terms of Use | Terms and Conditions | O2
-================================================
+Website Terms of Use
+====================
 
 Terms & conditions
-
-* [Terms & conditions](https://www.o2.co.uk/termsandconditions)
-    * [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
-    * [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
-    * [Promotions & prize draws](https://www.o2.co.uk/termsandconditions/rewards)
-    * [Finance & insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
-    * [Online shop](https://www.o2.co.uk/termsandconditions/shop-purchasing-terms)
-    * [Other products & services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
-    * [Business](https://www.o2.co.uk/termsandconditions/business)
-    * [Archive](https://www.o2.co.uk/termsandconditions/archive)
-    * [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
-    * [Website terms of use](https://www.o2.co.uk/termsandconditions/website-terms-of-use)
-    * [Sales and Marketing obligations](https://www.o2.co.uk/termsandconditions/sales-and-marketing-obligations)
 
 #### PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SITE
 
@@ -319,7 +37,7 @@ These terms tell you the rules for using our website [www.o2.co.uk](http://www.o
 
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822). We are a private limited company.
 
-Please visit [](https://www.o2.co.uk/contactus)our [Contact us](https://www.o2.co.uk/contactus) page to find out the different ways you can get in touch.
+Please visit our [Contact us](https://www.o2.co.uk/contactus) page to find out the different ways you can get in touch.
 
 **By using our site you accept these terms**
 
@@ -334,7 +52,9 @@ We recommend that you print a copy of these terms for future reference.
 These terms of use refer to the following additional terms, which also apply to your use of our site:
 
 * Our Privacy Policy which you can access [here](http://www.o2.co.uk/termsandconditions/privacy-policy) which sets out how we use your personal data.
+    
 * Our Cookie Policy  which you can access [here](http://www.o2.co.uk/cookie-policy), which sets out information about the cookies on our site.
+    
 
 Any terms and conditions applicable to the purchase of goods or services from our site, referred to on our site, in our advertising or [here](http://www.o2.co.uk/termsandconditions).
 
@@ -409,27 +129,39 @@ If you wish to complain about content uploaded by other users, please [contact u
 **Whether you are a consumer or a business user:**
 
 * We do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.
+    
 * Different limitations and exclusions of liability will apply to liability arising as a result of the supply of any products and/or services to you, which will be set out in our terms and conditions available [here](http://www.o2.co.uk/termsandconditions). For consumer users these can be found at: [https://www.o2.co.uk/termsandconditions/mobile/our-latest-pay-monthly-tariff-terms](https://www.o2.co.uk/termsandconditions/mobile/our-latest-pay-monthly-tariff-terms). For business users, these can be found [here](https://www.o2.co.uk/termsandconditions/business).
+    
 
 **If you are a business user:**
 
 * We exclude all implied conditions, warranties, representations or other terms that may apply to our site or any content on it.
+    
 * We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
+    
     * use of, or inability to use, our site; or
+        
     * use of or reliance on any content displayed on our site.
-
+        
 * In particular, we will not be liable for:
     
     * loss of profits, sales, business, or revenue;
+        
     * business interruption;
+        
     * loss of anticipated savings;
+        
     * loss of business opportunity, goodwill or reputation; or
+        
     * any indirect or consequential loss or damage.
+        
 
 **If you are a consumer user:**
 
 * Please note that we only provide our site for domestic and private use. You agree not to use our site for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+    
 * If defective digital content that we have supplied, damages a device or digital content belonging to you and this is caused by our failure to use reasonable care and skill, we will either repair the damage or pay you compensation. However, we will not be liable for damage that you could have avoided by following our advice to apply an update offered to you free of charge or for damage that was caused by you failing to correctly follow installation instructions or to have in place the minimum system requirements advised by us.
+    
 
 **How we may use your personal information**
 
@@ -456,7 +188,9 @@ We do not store terrorist content.
 When you upload or post content to our site, you grant us the following rights to use that content:
 
 * a worldwide, non-exclusive, royalty-free, transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform that user-generated content in connection with the service provided by the website and across different media including to promote the site or the service forever;
+    
 * a worldwide, non-exclusive, royalty-free, transferable license for other users, partners or advertisers to use the content for their purposes forever.
+    
 
 We are not responsible for viruses and you must not introduce them
 
@@ -485,28 +219,43 @@ The website in which you are linking must comply in all respects with the conten
 You may use our site only for lawful purposes. You may not use our site:
 
 * In any way that breaches any applicable local, national or international law or regulation.
+    
 * In any way that is unlawful or fraudulent or has any unlawful or fraudulent purpose or effect.
+    
 * For the purpose of harming or attempting to harm minors in any way.
+    
 * To bully, insult, intimidate or humiliate any person.
+    
 * To send, knowingly receive, upload, download, use or re-use any material which does not comply with our privacy policy.
+    
 * To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam).
+    
 * To knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware.
+    
 
 You also agree:
 
 * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of these terms of use .
+    
 * Not to access without authority, interfere with, damage or disrupt:
+    
     * any part of our site;
+        
     * any equipment or network on which our site is stored;
+        
     * any software used in the provision of our site; or
+        
     * any equipment or network or software owned or used by any third party.
+        
 
 **Interactive services**
 
 We may from time to time provide interactive services on our site, including, without limitation:
 
 * Chat rooms.
+    
 * Bulletin boards.
+    
 
 (**interactive services.**)
 
@@ -529,30 +278,52 @@ O2 will determine, in its discretion, whether a Contribution breaches the Conten
 A Contribution must:
 
 * Be accurate (where it states facts).
+    
 * Be genuinely held (where it states opinions).
+    
 * Comply with the law applicable in England and Wales and in any country from which it is posted.
+    
 
 A Contribution must not:
 
 * Be defamatory of any person.
+    
 * Be obscene, offensive, hateful or inflammatory.
+    
 * Bully, insult, intimidate or humiliate.
+    
 * Promote sexually explicit material.
+    
 * Include child sexual abuse material.
+    
 * Promote violence.
+    
 * Promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
+    
 * Infringe any copyright, database right or trade mark of any other person.
+    
 * Be likely to deceive any person.
+    
 * Breach any legal duty owed to a third party, such as a contractual duty or a duty of confidence.
+    
 * Promote any illegal content or activity.
+    
 * Be in contempt of court.
+    
 * Be threatening, abuse or invade another's privacy, or cause annoyance, inconvenience or needless anxiety.
+    
 * Be likely to harass, upset, embarrass, alarm or annoy any other person.
+    
 * Impersonate any person or misrepresent your identity or affiliation with any person.
+    
 * Give the impression that the Contribution emanates from O2, if this is not the case.
+    
 * Advocate, promote, incite any party to commit, or assist any unlawful or criminal act such as (by way of example only) copyright infringement or computer misuse.
+    
 * Contain a statement which you know or believe, or have reasonable grounds for believing, that members of the public to whom the statement is, or is to be, published are likely to understand as a direct or indirect encouragement or other inducement to the commission, preparation or instigation of acts of terrorism.
+    
 * Contain any advertising or promote any services or web links to other sites.
+    
 
 **Breach of this policy**
 
@@ -561,11 +332,17 @@ When we consider that a breach of this Privacy Policy has occurred, we may take 
 Failure to comply with this Privacy Policy constitutes a material breach of the terms of use upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
 
 * Immediate, temporary or permanent withdrawal of your right to use our site.
+    
 * Immediate, temporary or permanent removal of any Contribution uploaded by you to our site.
+    
 * Issue of a warning to you.
+    
 * Legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach.
+    
 * Further legal action against you.
+    
 * Disclosure of such information to law enforcement authorities as we reasonably feel is necessary or as required by law.
+    
 
 We exclude our liability for all action we may take in response to breaches of this Privacy Policy. The actions we may take are not limited to those described above, and we may take any other action we reasonably deem appropriate.
 
@@ -579,150 +356,83 @@ If you are a business, these terms of use, their subject matter and their format
 
 Our site includes a range of registered and unregistered trade marks and other intellectual property rights owned or licenced by us. You are not permitted to use any of these trade marks or intellectual property rights without our priority written approval.
 
-Hidden
+Related links
+-------------
 
-![Find a store](//static-www.o2.co.uk/sites/default/files/menu_images/find-a-store%402x_0.png) [Find a store](https://stores.o2.co.uk/)
+* [Archive](https://www.o2.co.uk/termsandconditions/archive)
+* [Blackberry Data Bolt On](https://www.o2.co.uk/termsandconditions/blackberry-data-bolt-on-terms-and-conditions)
+* [Privacy Policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
+* [Ofcom Sales and Marketing Obligations](https://www.o2.co.uk/termsandconditions/sales-and-marketing-obligations)
+* Website Terms of Use
+    
+* [Online shop purchasing terms](https://www.o2.co.uk/termsandconditions/shop-purchasing-terms)
+* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
+* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
+* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
+* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
+* [Business](https://www.o2.co.uk/termsandconditions/business)
 
-![Check our network](//static-www.o2.co.uk/sites/default/files/menu_images/check-network%402x_0.png) [Check our network](https://www.o2.co.uk/coveragechecker)
+* * *
 
-![Sign in to My O2](//static-www.o2.co.uk/sites/default/files/menu_images/my-o2%402x_0.png) [Sign in to My O2](https://accounts.o2.co.uk/auth)
+* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
 
-![Track my order](//static-www.o2.co.uk/sites/default/files/menu_images/track-order%402x.png) [Track my order](https://www.o2.co.uk/help/pay-monthly/how-to-track-your-order)
-
-![Search](//static-www.o2.co.uk/sites/default/files/menu_images/search%402x_0.png) [Search](https://www.o2.co.uk/searchresult?view=html&q1=top&x1=page_type&q=)
-
-Popular in shop
-
-[iPhone 15 Pro Max](https://www.o2.co.uk/shop/apple/iphone-15-pro-max)
-
-[iPhone 15 Pro](https://www.o2.co.uk/shop/apple/iphone-15-pro)
-
-[iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15)
-
-[Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
-
-[Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
-
-[Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
-
-[Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
-
-[Samsung Galaxy Z Flip5](https://www.o2.co.uk/shop/samsung/galaxy-z-flip5)
-
-[Google Pixel 8 Pro](https://www.o2.co.uk/shop/google/pixel-8-pro)
-
-[SIM Only](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-
-[Virgin Media broadband deals](https://www.virginmedia.com/broadband)
-
-Help and support
-
-[Help home](https://www.o2.co.uk/help)
-
-[Contact us](https://www.o2.co.uk/contactus)
-
-[My O2](https://www.o2.co.uk/myo2)
-
-[Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
-
-Shop
-
-[Phones](https://www.o2.co.uk/shop/phones)
-
-[Tablets](https://www.o2.co.uk/shop/tablets)
-
-[Pay Monthly Sim](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-
-[Pay As You Go Sim](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go)
-
-[Virgin Media O2 Joint Venture](https://www.virginmediao2.co.uk/)
-
-![Find a store](//static-www.o2.co.uk/sites/default/files/menu_images/find-a-store%402x_0.png) [Find a store](https://stores.o2.co.uk/)
-
-![Check our network](//static-www.o2.co.uk/sites/default/files/menu_images/check-network%402x_0.png) [Check our network](https://www.o2.co.uk/coveragechecker)
-
-![Sign in to My O2](//static-www.o2.co.uk/sites/default/files/menu_images/my-o2%402x_0.png) [Sign in to My O2](https://accounts.o2.co.uk/auth)
-
-![Track my order](//static-www.o2.co.uk/sites/default/files/menu_images/track-order%402x.png) [Track my order](https://www.o2.co.uk/help/pay-monthly/how-to-track-your-order)
-
-![Search](//static-www.o2.co.uk/sites/default/files/menu_images/search%402x_0.png) [Search](https://www.o2.co.uk/searchresult?view=html&q1=top&x1=page_type&q=)
-
-Help and support
-
-[Help home](https://www.o2.co.uk/help)
-
-[Contact us](https://www.o2.co.uk/contactus)
-
-[My O2](https://www.o2.co.uk/myo2)
-
-[Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
+* [Find a store](https://stores.o2.co.uk/)
+* [Check our network](https://www.o2.co.uk/coveragechecker)
+* [Sign in to My O2](https://accounts.o2.co.uk/auth)
+* [Track my order](https://www.o2.co.uk/help/pay-monthly/how-to-track-your-order)
+* [Search](https://www.o2.co.uk/searchresult?view=html&q1=top&x1=page_type&q=)
 
 Popular in shop
+---------------
 
-[iPhone 15 Pro Max](https://www.o2.co.uk/shop/apple/iphone-15-pro-max)
+* [iPhone 15 Pro Max](https://www.o2.co.uk/shop/apple/iphone-15-pro-max)
+* [iPhone 15 Pro](https://www.o2.co.uk/shop/apple/iphone-15-pro)
+* [iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15)
+* [Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
+* [Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
+* [Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
+* [Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
+* [Samsung Galaxy Z Fold6](https://www.o2.co.uk/shop/samsung/galaxy-z-fold6-5g)
+* [Samsung Galaxy Z Flip6](https://www.o2.co.uk/shop/samsung/galaxy-z-flip6-5g)
+* [Google Pixel 8 Pro](https://www.o2.co.uk/shop/google/pixel-8-pro)
+* [SIM Only Deals](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
+* [Virgin Media broadband deals](https://www.virginmedia.com/broadband)
 
-[iPhone 15 Pro](https://www.o2.co.uk/shop/apple/iphone-15-pro)
+Help and Support
+----------------
 
-[iPhone 15](https://www.o2.co.uk/shop/apple/iphone-15)
-
-[Apple Watch Series 9](https://www.o2.co.uk/shop/apple/watch-series-9-sport-band-41mm)
-
-[Apple iPad Pro 13 inch M4](https://www.o2.co.uk/shop/apple/ipad-pro-13-inch-m4)
-
-[Samsung Galaxy S24 Ultra](https://www.o2.co.uk/shop/samsung/galaxy-s24-ultra-5g)
-
-[Samsung Galaxy S24](https://www.o2.co.uk/shop/samsung/galaxy-s24-5g)
-
-[Samsung Galaxy Z Flip5](https://www.o2.co.uk/shop/samsung/galaxy-z-flip5)
-
-[Google Pixel 8 Pro](https://www.o2.co.uk/shop/google/pixel-8-pro)
-
-[SIM Only](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-
-[Virgin Media broadband deals](https://www.virginmedia.com/broadband)
+* [Help home](https://www.o2.co.uk/help)
+* [Contact us](https://www.o2.co.uk/contactus)
+* [My O2](https://www.o2.co.uk/myo2)
+* [Collection and delivery](https://www.o2.co.uk/help/device-and-sim-support/collection-and-delivery)
 
 Shop
+----
 
-[Phones](https://www.o2.co.uk/shop/phones)
+* [Phones](https://www.o2.co.uk/shop/phones)
+* [Tablets](https://www.o2.co.uk/shop/tablets)
+* [Pay Monthly Sim](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
+* [Collection and delivery](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go)
+* [Virgin Media O2 Joint Venture](https://www.virginmediao2.co.uk/)
 
-[Tablets](https://www.o2.co.uk/shop/tablets)
+* [Facebook](https://www.facebook.com/o2uk)
+* [Youtube](https://www.youtube.com/user/o2ukofficial)
+* [Twitter](https://www.twitter.com/o2)
+* [Instagram](https://www.instagram.com/o2uk/)
 
-[Pay Monthly Sim](https://www.o2.co.uk/shop/sim-cards/sim-only-deals)
-
-[Pay As You Go Sim](https://www.o2.co.uk/shop/sim-cards/pay-as-you-go)
-
-[Virgin Media O2 Joint Venture](https://www.virginmediao2.co.uk/)
-
-Personal Social Footer Menu
----------------------------
-
-[![Facebook](//static-www.o2.co.uk/sites/default/files/menu_images/facebook%402x_0.png)](https://www.facebook.com/o2uk)
-
-[![YouTube](//static-www.o2.co.uk/sites/default/files/menu_images/youtube%402x_0.png)](https://www.youtube.com/user/o2ukofficial)
-
-[![Twitter](//static-www.o2.co.uk/sites/default/files/menu_images/twitter%402x_0.png)](https://www.twitter.com/o2)
-
-[![Instagram](//static-www.o2.co.uk/sites/default/files/menu_images/instagram%402x.png)](https://www.instagram.com/o2uk/)
-
-Personal AboutO2 Footer Menu
-----------------------------
-
-* [About O2](https://www.o2.co.uk/abouto2) |
-* [Better Connections Plan](https://www.o2.co.uk/better-connections-plan) |
-* [Careers](https://o2careers.co.uk/) |
-* [News & PR](https://news.virginmediao2.co.uk/) |
-* [Sponsorship](https://www.o2.co.uk/sponsorship) |
+* [About O2](https://www.o2.co.uk/abouto2)
+* [Better Connections Plan](https://www.o2.co.uk/better-connections-plan)
+* [Careers](https://jobs.virginmediao2.co.uk/en_US/careersmarketplace)
+* [News & PR](https://news.virginmediao2.co.uk/)
+* [Sponsorship](https://www.o2.co.uk/sponsorship)
 * [Virgin Media and O2](https://www.o2.co.uk/virgin-media-o2)
 
-Personal Legal Menu
--------------------
-
-* [Accessibility](https://www.o2.co.uk/access-for-all) |
-* [Terms & Conditions](https://www.o2.co.uk/termsandconditions) |
-* [Privacy policy](https://www.o2.co.uk/termsandconditions/privacy-policy) |
-* [Cookie policy](https://www.o2.co.uk/cookie-policy) |
+* [Accessibility](https://www.o2.co.uk/access-for-all)
+* [Terms & Conditions](https://www.o2.co.uk/termsandconditions)
+* [Privacy policy](https://www.o2.co.uk/termsandconditions/privacy-policy)
+* [Cookie policy](https://www.o2.co.uk/cookie-policy)
 * [Modern Slavery Statement](https://www.o2.co.uk/abouto2/corporate-statements)
 
-© 2024 Telefónica UK Limited
+©2024 Telefonica UK Limited
 
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
