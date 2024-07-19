@@ -1,28 +1,28 @@
 Cryptos: [2.4M+](https://coinmarketcap.com/)
 
-Exchanges: [782](https://coinmarketcap.com/rankings/exchanges/)
+Exchanges: [792](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.32T](https://coinmarketcap.com/charts/#market-cap)
+[$2.35T](https://coinmarketcap.com/charts/#market-cap)
 
-1.66%
+0.74%
 
 24h Vol: 
 
-[$67.76B](https://coinmarketcap.com/charts/#volume-24h)
+[$68.5B](https://coinmarketcap.com/charts/#volume-24h)
 
-1.13%
+10.14%
 
-Dominance: [BTC: 54.0% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 53.9% ETH: 17.5%](https://coinmarketcap.com/charts/#bitcoin-dominance)
 
  ETH Gas: 
 
-8 Gwei
+6 Gwei
 
  Fear & Greed: 
 
-[52/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
+[57/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
 
 [](https://coinmarketcap.com/ "Go to homepage")
 
@@ -32,55 +32,55 @@ Dominance: [BTC: 54.0% ETH: 18.3%](https://coinmarketcap.com/charts/#bitcoin-d
 
 Cryptocurrencies
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCmcIcon.svg)Ranking](https://coinmarketcap.com/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCategoriesIcon.svg)Categories](https://coinmarketcap.com/cryptocurrency-category/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGlobalChartsIcon.svg)Global Charts](https://coinmarketcap.com/charts/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHistoryIcon.svg)Historical Snapshots](https://coinmarketcap.com/historical/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuBitcoinETFsIcon.svg)Bitcoin ETFs](https://coinmarketcap.com/bitcoin-etf/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTokenUnlocksIcon.svg)Token unlocks](https://coinmarketcap.com/token-unlocks/)
+[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Bitcoin ETFs](https://coinmarketcap.com/etf/bitcoin/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)
 
 Leaderboards
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTrendingIcon.svg)Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuRecentlyAddedIcon.svg)Recently Added](https://coinmarketcap.com/new/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGainersLosersIcon.svg)Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuMostVisited.svg)Most Visited](https://coinmarketcap.com/most-viewed-pages/)
+[Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[Upcoming](https://coinmarketcap.com/upcoming/)[Recently Added](https://coinmarketcap.com/new/)[Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[Most Visited](https://coinmarketcap.com/most-viewed-pages/)
 
 NFT
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuNFTOverviewV2.svg)Overall NFT Stats](https://coinmarketcap.com/nft/)[Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
+[Overall NFT Stats](https://coinmarketcap.com/nft/)[Upcoming Sales](https://coinmarketcap.com/nft/upcoming/)
 
 On Chain Data
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexscan.svg)DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuChainRanking.svg)Chain Ranking](https://coinmarketcap.com/chain-ranking/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuHottestDexPairs.svg)Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
+[DEX Pairs](https://coinmarketcap.com/dexscan/trending/all/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)[Hot DEX Pairs](https://coinmarketcap.com/hot-dex-pairs/)
 
 [Exchanges](https://coinmarketcap.com/rankings/exchanges/)
 
 Centralized Exchanges
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/derivatives/)
+[Spot](https://coinmarketcap.com/rankings/exchanges/)[Derivatives](https://coinmarketcap.com/rankings/exchanges/derivatives/)
 
 Decentralized Exchanges
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexSpotIcon.svg)Spot](https://coinmarketcap.com/rankings/exchanges/dex/?type=spot)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuDexDerivativesIcon.svg)Derivatives](https://coinmarketcap.com/rankings/exchanges/dex/?type=derivatives)
+[Spot](https://coinmarketcap.com/rankings/exchanges/dex/?type=spot)[Derivatives](https://coinmarketcap.com/rankings/exchanges/dex/?type=derivatives)
 
 [Community](https://coinmarketcap.com/community/)
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/feed.svg)Feeds](https://coinmarketcap.com/community/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/topics.svg)Topics](https://coinmarketcap.com/community/topics/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/lives.svg)Lives](https://coinmarketcap.com/community/lives/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/articles.svg)Articles](https://coinmarketcap.com/community/articles/)
+[Feeds](https://coinmarketcap.com/community/)[Topics](https://coinmarketcap.com/community/topics/)[Lives](https://coinmarketcap.com/community/lives/)[Articles](https://coinmarketcap.com/community/articles/)
 
 Products
 
 Products
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuConverterIcon.svg)Converter](https://coinmarketcap.com/converter/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuExplorerIcon.svg)CMC Labs](https://coinmarketcap.com/events/cmc-labs/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuTelegramBotIcon.svg)Telegram Bot](https://coinmarketcap.com/chatbot/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuAdvertiseIcon.svg)Advertise](https://coinmarketcap.com/events/advertise/)
+[Converter](https://coinmarketcap.com/converter/)[Newsletter](https://coinmarketcap.com/newsletter/)[CMC Labs](https://coinmarketcap.com/events/cmc-labs/)[Telegram Bot](https://coinmarketcap.com/chatbot/)[Advertise](https://coinmarketcap.com/events/advertise/)
 
 * * *
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCryptoApiIcon.light.svg)Crypto API](https://coinmarketcap.com/api/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuWidgetsIcon.light.svg)Site Widgets](https://coinmarketcap.com/widget/ticker/)
+[Crypto API](https://coinmarketcap.com/api/)[Site Widgets](https://coinmarketcap.com/widget/ticker/)
 
 Campaigns
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuAirdropsIcon.svg)Airdrops](https://coinmarketcap.com/airdrop/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuRewardsIcon.svg)Diamond Rewards](https://coinmarketcap.com/account/rewards/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuEarnCryptoIcon.svg)Learn & Earn](https://coinmarketcap.com/earn/)
+[Airdrops](https://coinmarketcap.com/airdrop/)[Diamond Rewards](https://coinmarketcap.com/account/rewards/)[Learn & Earn](https://coinmarketcap.com/earn/)
 
 Calendars
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuICOIcon.svg)ICO Calendar](https://coinmarketcap.com/ico-calendar/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuEvents2Icon.svg)Events Calendar](https://coinmarketcap.com/events/)
+[ICO Calendar](https://coinmarketcap.com/ico-calendar/)[Events Calendar](https://coinmarketcap.com/events/)
 
 Learn
 
-[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuNewsIcon.svg)News](https://coinmarketcap.com/headlines/news/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuAlexandriaIcon.svg)Academy](https://coinmarketcap.com/academy/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuCMCResearch.svg)Research](https://coinmarketcap.com/academy/categories/cmc-research/)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuVideosIcon.svg)Videos](https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1)[![](https://s2.coinmarketcap.com/static/cloud/img/menu/MenuGlossaryIcon.svg)Glossary](https://coinmarketcap.com/academy/glossary/)
+[News](https://coinmarketcap.com/headlines/news/)[Academy](https://coinmarketcap.com/academy/)[Research](https://coinmarketcap.com/academy/categories/cmc-research/)[Videos](https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1)[Glossary](https://coinmarketcap.com/academy/glossary/)
 
 CoinMarketCap.com Terms of Use
 ==============================
@@ -362,6 +362,50 @@ By entering or participating in a campaign (the “Campaign”) organized by CMC
     
     The provisions in respect of dispute resolution procedures, governing law, binding arbitration and the forum and rules of such arbitration, class action waivers and related matters set out in the Terms of Use shall apply to these Terms and Conditions as if set out in full herein, provided that any references to “these Terms” in such provisions shall be read, for these purposes only, as references to these Terms and Conditions.
     
+
+DIAMOND REWARDS PROGRAMME TERMS AND CONDITIONS
+----------------------------------------------
+
+By signing up for an account with CMC, you will automatically be entitled to accumulating Diamond Rewards (the “**Diamonds**”) under our Diamond Rewards Programme.
+
+You may accumulate Diamonds from qualifying tasks and transactions which will be shown [here](https://coinmarketcap.com/account/my-diamonds/) or by such other methods which will be provided for by us from time to time. We may, at our sole and absolute discretion, increase or decrease the Diamonds to be awarded for each qualifying transaction or task as may be notified to you from time to time. You shall not be entitled to request from us any explanation pertaining to the calculation methods (for crediting the Diamonds) or other matters relating to the Diamonds or discounts for whatsoever purposes. The use of means that are improper, corrupted, false, lost, late, misdirected, deceptive or otherwise not in compliance with these terms and conditions to accumulate Diamonds, including the use of any application programming interfaces and scripts, are strictly prohibited. CMC reserves the right to refuse to grant any Diamonds or rewards to any users found to be utilizing such means to accumulate Diamonds at CMC’s sole and absolute discretion. CMC shall not be liable to any user for such refusal.
+
+Diamonds are non-transferable and shall be for personal use of the user of the account only.
+
+You may check your Diamonds balance and redemptions made in your account. Your Diamonds balance and redemptions as set out in your account shall serve as conclusive evidence of the same.
+
+Diamonds have no cash or monetary value and are not redeemable for fiat or cryptocurrency in any form. They cannot be purchased, resold or transferred, for value or otherwise, under any circumstances. Diamonds shall not be regarded, construed, or used as valuable or exchangeable instruments under any circumstances.
+
+As an account holder, you will gain access to e-vouchers, promotions, discounts, free gifts, promotion codes and other benefits offered by CMC and/or selected third-party merchants as shown on the rewards catalogue that is made available from time to time in the CMC website (“**Rewards**”). You may use your Diamonds to redeem the Rewards.
+
+If you comply with all these Terms of Use and have the required number of Diamonds, you may select and redeem applicable Rewards via our website. Your redemption of a Reward is subject to the additional terms and conditions of CMC or the third-party merchant (as the case may be) that offers the particular Reward that you wish to redeem. In the event you do not comply with any of the terms and conditions, CMC shall not be held liable for any losses you may incur.
+
+Upon redemption of the Rewards, reversal of the conversion of Rewards back to Diamonds is not possible. Diamonds that you have successfully redeemed for a Reward cannot be exchangeable for another Reward under any circumstances. No requests for exchange of Rewards will be entertained.
+
+You must use your Rewards redeemed during their applicable validity period indicated by CMC or the third party merchant. There shall be no extension of time for the validity period of any Reward redemption dates. You agree that you will have no claim whatsoever against the Company for any expired Rewards.
+
+The Company may at its sole and absolute discretion and without prior notice to you, reject your request to redeem Rewards for any reason whatsoever, including without limitation, where
+
+1. There are insufficient Diamonds to redeem for the particular Reward;
+2. The Reward is no longer made available or out-of-stock by the third party merchant;
+3. The Diamonds you wish to use for redemption of Rewards have been issued to you in error; or
+4. The Company reasonably believes that that redemption transaction may be suspicious, illegal, involves any criminal activity or involves points that have been obtained through dishonest or fraudulent means or abusive behaviour.
+
+Fraud, abuse of redemptions or any dishonest activities may result in the forfeiture of accumulated Diamonds or termination of your account.
+
+To the extent as permitted by applicable law, the Company reserves the right at any time to:
+
+1. vary, modify or amend the terms and conditions of the Diamond Rewards Programme;
+2. terminate or modify the Diamond Rewards Programme;
+3. revoke, adjust and/or recalculate any Diamonds awarded; change the number of Diamonds required for redemption of specific Rewards or substitute any Reward with another of a similar value;
+4. change the number of Diamonds required for redemption of specific Rewards or substitute any Reward with another of a similar value;
+5. change the number of Diamonds that can be earned on spendings on qualifying transportation services;
+6. modify the qualifications and eligibility for earning Diamonds;
+7. modify the activities that earn Diamonds;
+8. modify the methods used to calculate the number of Diamonds to be awarded; and/or
+9. withhold or cease the awarding of Diamonds to you.
+
+without prior notice to you and at its sole discretion.
 
 Products
 
