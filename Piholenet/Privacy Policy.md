@@ -29,7 +29,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 * [Home](https://discourse.pi-hole.net/)
 * [Categories](https://discourse.pi-hole.net/categories)
-* [FAQ/Guidelines](https://discourse.pi-hole.net/guidelines)
+* [Guidelines](https://discourse.pi-hole.net/guidelines)
 * [Terms of Service](https://discourse.pi-hole.net/tos)
 * [Privacy Policy](https://discourse.pi-hole.net/privacy)
 
