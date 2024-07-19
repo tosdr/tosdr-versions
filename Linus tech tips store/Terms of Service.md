@@ -6,6 +6,8 @@ Accept & Dismiss
 
 [Skip to content](#MainContent)
 
+[LIME Day: The Last Squeeze! Save up to 90% and get FREE SHIPPING on all orders over $100!](https://www.lttstore.com/pages/lime-day)
+
 New orders are expected to ship by
 
      
@@ -40,7 +42,7 @@ New orders are expected to ship by
     * [Jackets](https://www.lttstore.com/jackets)
     * [Bottoms](https://www.lttstore.com/bottoms)
     
-    * [Pants](https://www.lttstore.com/pants)
+    * [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=manual)
     * [Shorts](https://www.lttstore.com/shorts)
     * [Unisex](https://www.lttstore.com/unisex)
     
@@ -77,7 +79,7 @@ New orders are expected to ship by
     
     [Tops](https://www.lttstore.com/tops) [T-Shirts](https://www.lttstore.com/tshirts) [Sweaters](https://www.lttstore.com/sweaters) [Long Sleeves](https://www.lttstore.com/long-sleeves) [Jackets](https://www.lttstore.com/jackets)
     
-    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/pants) [Shorts](https://www.lttstore.com/shorts)
+    [Bottoms](https://www.lttstore.com/bottoms) [Pants](https://www.lttstore.com/collections/clothing?filter.p.m.filter.clothing_type=Pants&sort_by=manual) [Shorts](https://www.lttstore.com/shorts)
     
     [Unisex](https://www.lttstore.com/unisex) [Mens](https://www.lttstore.com/mens) [Womens](https://www.lttstore.com/womens) [Underwear](https://www.lttstore.com/underwear) [Headwear](https://www.lttstore.com/headwear)
     
@@ -223,7 +225,7 @@ We reserve the right, at our sole discretion, to update, change or replace any p
   
 **SECTION 20 - CONTACT INFORMATION**  
   
-Questions about the Terms of Service should be sent to us at support@lttstore.com
+Questions about the Terms of Service should be sent to us at [\[email protected\]](https://www.lttstore.com/cdn-cgi/l/email-protection)
 
       
 
@@ -250,7 +252,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/110/assets/ltt-logo.svg?v=133296236752336137041717631269)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/113/assets/ltt-logo.svg?v=133296236752336137041720456343)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
