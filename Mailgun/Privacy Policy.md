@@ -380,17 +380,17 @@ This app works best with JavaScript enabled.
         
         Getting started with Mailgun: An intro to the platform
         
-        Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
+        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
+        Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
         
-        Read more](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
     
     Resources
     
@@ -422,17 +422,17 @@ This app works best with JavaScript enabled.
         
         Getting started with Mailgun: An intro to the platform
         
-        Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
+        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
+        Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
         
-        Read more](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
     
 * Contact
     
@@ -453,7 +453,7 @@ This app works best with JavaScript enabled.
         Schedules](https://www.mailgun.com/contact/schedule-a-demo/)
     
 
-* [Get Started For Free](https://signup.mailgun.com/new/signup)
+* [Get Started for Free](https://signup.mailgun.com/new/signup)
 
 * [English](https://www.mailgun.com/legal/privacy-policy/)
 * [Français](https://www.mailgun.com/fr/legal/politique-confidentialite/)
@@ -789,17 +789,17 @@ Back to main menu
         
         Getting started with Mailgun: An intro to the platform
         
-        Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
+        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
+        Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
         
-        Read more](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
     
     Resources
     
@@ -831,17 +831,17 @@ Back to main menu
         
         Getting started with Mailgun: An intro to the platform
         
-        Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
+        Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
     * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
         
         Building a dynamic email ecosystem: SparkToro's story
         
-        Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
+        Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
     * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
         
         Email and the customer experience
         
-        Read more](https://www.mailgun.com/resources/research/email-customer-experience/)
+        Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
     
 * Contact
     
@@ -913,7 +913,7 @@ Back to main menu
     * [Español](https://www.mailgun.com/es/legal/politica-privacidad/)
     
 
-* [Get Started For Free](https://signup.mailgun.com/new/signup)
+* [Get Started for Free](https://signup.mailgun.com/new/signup)
 
 * [Send icon
     
@@ -1082,17 +1082,17 @@ Back to main menu
     
     Getting started with Mailgun: An intro to the platform
     
-    Read more](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
+    Read More](https://www.mailgun.com/resources/videos/getting-started-mailgun-intro-platform/)
 * [![SparkToro logo](https://images.ctfassets.net/y6oq7udscnj8/4duqZ1Sce7eYq5nlOVWlAz/e1d0d319f476a0cc55169b65acd573d5/MG-CS-SparkToro.png?w=1440&h=896&q=50&fm=png)
     
     Building a dynamic email ecosystem: SparkToro's story
     
-    Read more](https://www.mailgun.com/resources/case-studies/sparktoro/)
+    Read More](https://www.mailgun.com/resources/case-studies/sparktoro/)
 * [![Email and the customer experience title card](https://images.ctfassets.net/y6oq7udscnj8/79dpwRuQUtlb6msRBQz1Ft/b67cbe0915f20a060eb3b11d7b2c4267/MG-RR-Customer-Experience.png?w=1440&h=896&q=50&fm=png)
     
     Email and the customer experience
     
-    Read more](https://www.mailgun.com/resources/research/email-customer-experience/)
+    Read More](https://www.mailgun.com/resources/research/email-customer-experience/)
 
 * [Handshake icon
     
@@ -1306,27 +1306,27 @@ Company
 
 [About](https://www.mailgun.com/about/company/)[Careers](https://www.mailgun.com/about/jobs/)[Blog](https://www.mailgun.com/blog/)[Partners](https://www.mailgun.com/about/partners/)[Contact](https://www.mailgun.com/contact/)[Sitemap](https://www.mailgun.com/sitemap/)[Report Spam](https://www.mailgun.com/receiving-spam-from-mailgun/)
 
-Products
+### Products
 
 [Email API](https://www.mailgun.com/products/send/email-api/)[Inbound Email Routing](https://www.mailgun.com/products/send/inbound-routing/)[Send Time Optimization](https://www.mailgun.com/products/send/send-time-optimization/)[Email Analytics](https://www.mailgun.com/products/send/email-analytics/)[Email Logs](https://www.mailgun.com/products/send/email-analytics/logs/)[Email Validation](https://www.mailgun.com/products/optimize/email-verification/)
 
-Solutions
+### Solutions
 
 [Transactional Emails](https://www.mailgun.com/solutions/use-cases/transactional-email/)[Email Parsing](https://www.mailgun.com/solutions/use-cases/email-parsing/)[Email Sending](https://www.mailgun.com/solutions/use-cases/sending-email/)[White Labeling](https://www.mailgun.com/solutions/use-cases/white-label-email-service/)[Receiving Email](https://www.mailgun.com/products/send/inbound-routing/)[Burst Sending](https://www.mailgun.com/solutions/use-cases/rapid-fire-email/)
 
-Enterprise
+### Enterprise
 
 [Enterprise](https://www.mailgun.com/enterprise/)[Consulting](https://www.mailgun.com/enterprise/email-consulting-services/)[SAML Authentication](https://www.mailgun.com/enterprise/saml-authentication/)[Schedule a demo](https://www.mailgun.com/contact/schedule-a-demo/)
 
-Resources
+### Resources
 
 [Case studies](https://www.mailgun.com/resources/case-studies/)[Guides](https://www.mailgun.com/resources/guides/)[Podcasts](https://www.mailgun.com/resources/podcasts/)[Videos](https://www.mailgun.com/resources/videos/)[Glossary](https://www.mailgun.com/resources/learn/glossary/)
 
-Help
+### Help
 
 [Help Center](https://help.mailgun.com/hc/en-us)[Documentation](https://documentation.mailgun.com/)[Network status](https://status.mailgun.com/)[Send us your feedback](https://feedback.mailgun.com/)
 
-Company
+### Company
 
 [About](https://www.mailgun.com/about/company/)[Careers](https://www.mailgun.com/about/jobs/)[Blog](https://www.mailgun.com/blog/)[Partners](https://www.mailgun.com/about/partners/)[Contact](https://www.mailgun.com/contact/)[Sitemap](https://www.mailgun.com/sitemap/)[Report Spam](https://www.mailgun.com/receiving-spam-from-mailgun/)
 
