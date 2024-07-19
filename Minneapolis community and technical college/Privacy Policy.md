@@ -217,7 +217,7 @@ Footer
     * [Employees (Links)](https://minneapolis.edu/information/employee-quick-links "Go to the Employee Quick Links page")
 * Take Action
     * [Contact Us](https://minneapolis.edu/contact-admissions "Contact Us on Ask Us")
-    * [Apply for a Job](https://minneapolistech.peopleadmin.com/ "Apply for a Job at Minneapolis College")
+    * [Employment](https://minneapolis.edu/take-action/employment "Apply for a Job at Minneapolis College")
     * [Donate](https://minneapolis.edu/alumni-and-friends/donate-now "Donate Form to Minneapolis College")
     * [Request Information](https://minneapolis.edu/info "Request Information on Ask Us at Minneapolis College")
     * [Visit Campus](https://minneapolis.edu/admissions/visit-minneapolis-college "Visit Minneapolis Campus")
