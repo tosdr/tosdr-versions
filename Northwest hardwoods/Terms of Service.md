@@ -1,10 +1,8 @@
-![](https://www.facebook.com/tr?id=218091827577940&ev=PageView&noscript=1)          
+![](https://www.facebook.com/tr?id=218091827577940&ev=PageView&noscript=1)           
 
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2023'%3E%3C/svg%3E)
-
-![](https://nwh.com/wp-content/uploads/2022/07/TheAlderAuthorityTopBar-300x23.png)](https://www.nwh.com/alder-authority)
+[![](https://nwh.com/wp-content/uploads/2022/07/TheAlderAuthorityTopBar-300x23.png)](https://www.nwh.com/alder-authority)
 
 [![](https://nwh.com/wp-content/uploads/2022/07/logo-1.svg)](https://nwh.com/)
 
