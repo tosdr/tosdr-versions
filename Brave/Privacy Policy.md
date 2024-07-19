@@ -34,7 +34,7 @@ Unused Sync chains expire after 12 months and the associated server data is perm
 Location[](#location "Permalink to this headline")
 --------------------------------------------------
 
-If you use Brave to visit a website that wants to determine your location, you will be asked whether you want it to be allowed to know where you are. If you click yes to this message, then the website will be sent an approximation of where you are based on your IP address. Your IP address will not be stored by Brave, but it may be stored by the website you have visited. [See data processing detail](#table-location).
+If you use Brave to visit a website that wants to determine your location, you will be asked whether you want it to be allowed to know where you are. If you click yes to this message, then the website will be sent an approximation of where you are based on your IP address. Your IP address will not be stored by Brave, but it may be stored by the website you have visited. [See data processing details](#table-location).
 
 Brave Rewards[](#rewards "Permalink to this headline")
 ------------------------------------------------------
@@ -47,7 +47,7 @@ Note that we record the identifiers mentioned herein on servers located in the U
 
 ### Connecting a custodial account[](#connecting-a-custodial-account "Permalink to this headline")
 
-When you choose to connect a custodial account to Brave Rewards using one of our custodial partners such as [Uphold](https://uphold.com/), [Gemini](https://www.gemini.com/), [bitFlyer](https://bitflyer.com/) (Japan only), or [ZebPay](https://zebpay.com/) (India only), three things become associated with your Rewards Payment ID: a custodian ID, deposit address(es), and a country code. All three are assigned by the custodial partner. The deposit address allows us to make deposits to your custodial account, while the country code helps us prevent fraud and limit service to users in countries where Brave Rewards is supported. In addition, we also use IP addresses and Rewards Payment IDs associated with monthly BAT payments to safeguard against fraud. See [Brave Rewards data processing table](#rewards-detail)
+When you choose to connect a custodial account to Brave Rewards using one of our custodial partners such as [Uphold](https://uphold.com/), [Gemini](https://www.gemini.com/), [bitFlyer](https://bitflyer.com/) (Japan only), or [ZebPay](https://zebpay.com/) (India only), three things become associated with your Rewards Payment ID: a custodian ID, deposit address(es), and a country code. All three are assigned by the custodial partner. The deposit address allows us to make deposits to your custodial account, while the country code helps us prevent fraud and limit service to users in countries where Brave Rewards is supported. In addition, we also use IP addresses and Rewards Payment IDs associated with monthly BAT payments to safeguard against fraud. See the [Brave Rewards data processing table](#rewards-detail)
 
 When you make an on-demand contribution to Brave Creators using BAT from your linked custodial account(s), the custodian can see and record the details of your contribution transactions (such as, but not limited to, the amount and the recipient). This is subject to the privacy policies of [Uphold](https://uphold.com/legal/privacy-policy), [Gemini](https://www.gemini.com/legal/privacy-policy), [bitFlyer](https://bitflyer.com/), or [ZebPay](https://zebpay.com/legal-privacy#privacy-policy). However, when using the [Auto-Contribute](https://support.brave.com/hc/en-us/articles/360027276731-Brave-Rewards-FAQ) feature to support Brave creators with BAT from your custodial account, [neither Brave nor your custodian can tell which specific creators you’re contributing to](https://github.com/brave/brave-browser/wiki/Security-and-privacy-model-for-rewards-auto-contribute).
 
@@ -100,7 +100,7 @@ It’s your choice. You can add, follow, unfollow, or hide content sources any t
 Brave Talk[](#brave-talk-learn "Permalink to this headline")
 ------------------------------------------------------------
 
-Brave Talk is a private video and/or audio conference tool. What you say or type in the service is not logged or saved. Who you talk to, when, and how, is private to you. [See data processing detail](#brave-talk).
+Brave Talk is a private video and/or audio conference tool. What you say or type in the service is not logged or saved. Who you talk to, when, and how, is private to you. [See data processing details](#brave-talk).
 
 Please note that Brave uses the [8x8](https://www.8x8.com/) communications platform, and software (API) capabilities of 8x8 (based on the [Jitsi](https://jitsi.org/) Open Source video conferencing software) to help deliver Brave Talk. 8x8 provides a service on behalf of Brave, and we remain responsible for Brave Talk.
 
@@ -140,7 +140,7 @@ Brave removes IP addresses associated with requests submitted to the translation
 Brave Firewall + VPN[](#brave-firewall--vpn "Permalink to this headline")
 -------------------------------------------------------------------------
 
-You can subscribe to the Brave Firewall + VPN via the applicable iOS App Store and Google Play Store. The Firewall + VPN is powered by the [Guardian](https://guardianapp.com/) and who also provide technical support to Brave. [See data processing detail](#vpn).
+You can subscribe to Brave Firewall + VPN in two ways: via [account.brave.com](https://account.brave.com/), or via the applicable app store for your mobile device (iOS App Store or Google Play Store). Brave Firewall + VPN is powered by [Guardian](https://guardianapp.com/), and Guardian also provides technical support for Brave’s Firewall + VPN service. [To learn more about what information we use for subscriptions—and why—see our data processing details](#vpn).
 
 Brave Leo[](#brave-leo "Permalink to this headline")
 ----------------------------------------------------
@@ -189,7 +189,7 @@ The Browser sends us anonymous reports to alert us to product problems and neces
 
 ### Your feedback[](#your-feedback "Permalink to this headline")
 
-By submitting a web compatibility report, you have the option to include certain details to assist us in analyzing and addressing compatibility issues effectively. These details may include your contact information (which is optional), language settings, the address of the website experiencing compatibility concerns, your browser version number, Shields settings, and VPN status. It is important to note that providing this information is entirely voluntary. Submitted data will be deleted from Brave servers after 30 days.
+If you submit a Web compatibility report, you’ll have the option to include certain details to help us analyze and address compatibility issues. Providing this information is voluntary, and any data you submit will be deleted from Brave’s servers after 30 days. See our [Web compatibility reports wiki page](https://github.com/brave/brave-browser/wiki/Web-compatibility-reports) for more details on what data is collected.
 
 By submitting Brave AI feedback, you have the option to include additional details to assist us in improving this feature. These details may include the address of the website on which Leo was used. It is important to note that providing this information is entirely voluntary. Submitted data will be deleted from Brave servers after 1 year.
 
@@ -197,7 +197,7 @@ Any personally identifiable information (PII) you provide, such as your contact 
 
 We collect this data solely for the purpose of improving our services, enhancing your browsing experience, and resolving compatibility issues.
 
-If you write feedback for Brave, we will use this to improve the product. [See data processing detail](#feedback).
+If you write feedback for Brave, we will use this to improve the product. [See data processing details](#feedback).
 
 ### Nightly, Dev, and Beta browser versions[](#dev "Permalink to this headline")
 
