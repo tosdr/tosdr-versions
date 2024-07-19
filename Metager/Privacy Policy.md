@@ -13,6 +13,11 @@ Principles
 
 As a non-profit association, we are committed to free access to knowledge. Since we know that free research is not compatible with mass surveillance, we also take data protection very seriously. We have always only processed the data that is absolutely necessary for the operation of our services. Data protection is always our standard. We do not operate profiling – i.e. the automatic creation of user profiles.
 
+Anonymous statistics
+====================
+
+We are always working to improve our services. To be able to do this, we need to know which of our functions are being used. For this reason, we collect completely anonymous data on the frequency of page views and the use of individual functions on our websites. We also collect anonymized data on the distribution of browser types and versions. These statistics are not based on individual user profiles and are created without cookies or similar technologies. They do not contain any personal data.
+
 Incoming data by context
 ========================
 
@@ -270,4 +275,4 @@ Changes to this Statement
 
 Like our offers, this data protection declaration is also subject to constant change. You should therefore read them again regularly.
 
-This version of our privacy policy is dated: 2024-06-11
+This version of our privacy policy is dated: 2024-07-24
