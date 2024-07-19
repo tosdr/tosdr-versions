@@ -5,7 +5,7 @@ Legal
 Notices
 =======
 
-Apple, the Apple logo, iPhone, iPad, and iPod are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
 
 Our lessons and exercises use samples from the following virtual instruments:  
 
@@ -48,7 +48,7 @@ All text and still images used in the [lessons](https://www.musictheory.net/less
 
 In exchange, you must provide attribution to musictheory.net. If your derived work is available online, place a user-visible link to “https://www.musictheory.net” with the text “by musictheory.net”, “courtesy of musictheory.net”, or some derivation thereof. If your work is printed or otherwise offline, simply cite “musictheory.net” or “www.musictheory.net”.
 
-Note that the files used to render each lesson (the lesson SWF file, the lesson JSON file, and supporting HTML/CSS/SWF/MP3 files) are not covered under Creative Commons. You may not distribute or copy these files.
+Note that the files used to render each lesson (the lesson data file, the lesson JSON file, and supporting HTML/CSS/media files) are not covered under Creative Commons. You may not distribute or copy these files.
 
 * * *
 
@@ -98,7 +98,11 @@ musictheory.net, LLC retains full, unfettered, and sole discretion to revoke thi
 Unsolicited Idea Submission Policy
 ==================================
 
-musictheory.net, LLC or any of its employees do not accept or consider unsolicited ideas, including ideas for new advertising campaigns, new promotions, new products or technologies, processes, marketing plans, or new product names. Please do not submit any unsolicited ideas, original creative artwork, suggestions, or other works (“submissions”) in any form to musictheory.net, LLC or any of its employees. If, despite our request that you not send us your ideas, you still submit them, then regardless of what your letter says, the following terms shall apply:
+musictheory.net, LLC or any of its employees do not accept or consider unsolicited ideas, including ideas for new advertising campaigns, new promotions, new products or technologies, processes, marketing plans, or new product names.
+
+Please do not submit any unsolicited ideas, original creative artwork, suggestions, or other works (“submissions”) in any form to musictheory.net, LLC or any of its employees.
+
+If, despite our request that you not send us your ideas, you still submit them, then regardless of what your letter says, the following terms shall apply:
 
 * Your submissions and their contents will automatically become the property of musictheory.net, LLC, without any compensation to you.
 * musictheory.net, LLC may use or redistribute your submissions and their contents for any purpose and in any way.
@@ -109,6 +113,6 @@ The sole purpose of this policy is to avoid potential misunderstandings or dispu
 
 [FAQ](https://www.musictheory.net/faq) [Legal](https://www.musictheory.net/legal) [Privacy](https://www.musictheory.net/privacy)
 
-© 2000-2023 musictheory.net, LLC  
-Apple, the Apple logo, iPhone, iPad, and iPod are trademarks of Apple Inc.,  
+© 2000-2024 musictheory.net, LLC  
+Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc.,  
 registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
