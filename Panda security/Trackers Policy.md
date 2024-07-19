@@ -174,8 +174,6 @@ Only available for 72 hours!
 
 : :
 
-: :
-
 Email 
 
 Customer ID 
@@ -218,6 +216,8 @@ Only available for 48 hours!
 
 : :
 
+: :
+
 \*For home users only
 
 Email 
@@ -231,6 +231,8 @@ Special offer: Renew and get 50% off\*
 ![image](/rfilescms/Teaser/RET/pandasecurity_paid_sales_teaser_b.webp)
 
 Only available for 48 hours!
+
+: :
 
 : :
 
@@ -297,70 +299,26 @@ If you have any questions about our use of cookies or other technologies, please
 
 .
 
-![logo](/rfilescms/Logos/pandasecurity-logo-panda-watchguard-alternative.svg)
+[](https://www.facebook.com/PandaSecurity)[](https://www.youtube.com/user/PandaSecurity1)[](https://www.instagram.com/pandasecurity/)[](https://www.linkedin.com/company/panda-security)[](https://twitter.com/Panda_Security)
+
+![logo](/rfilescms/Logos/panda/pandasecurity-panda_watchguard@2x.png)
+
+Panda Security, a WatchGuard Technologies brand, offers the most advanced protection for your family and business. Its Panda Dome range provides maximum security against viruses, ransomware and computer espionage, and is compatible with [Windows](https://www.pandasecurity.com/en/platforms/windows), [Mac](https://www.pandasecurity.com/en/platforms/mac), [Android](https://www.pandasecurity.com/en/platforms/android) and [iOS](https://www.pandasecurity.com/en/platforms/ios).
 
 ##### About Panda
 
-[Company Info](https://www.pandasecurity.com/en/company-profile/)
-
-[Panda Security Technology](https://www.pandasecurity.com/en/technologies/)
-
-[Support for Innovation](https://www.pandasecurity.com/en/inno-support/)
-
-[Panda Worldwide](https://www.pandasecurity.com/en/office-locator/)
-
-[Support](https://www.pandasecurity.com/en/support/)
-
-[Blog](https://www.pandasecurity.com/en/mediacenter/)
-
-[Security Info](https://www.pandasecurity.com/en/security-info/)
+[Company Info](https://www.pandasecurity.com/en/company-profile/) [Reviews](https://www.pandasecurity.com/en/reviews/) [Awards and certifications](https://www.pandasecurity.com/en/awards/) [Panda Worldwide](https://www.pandasecurity.com/en/office-locator/) [Blog](https://www.pandasecurity.com/en/mediacenter/) [Security Info](https://www.pandasecurity.com/en/security-info/)
 
 ##### Home Users
 
-[Products](https://www.pandasecurity.com/en/homeusers/)
-
-[Downloads](https://www.pandasecurity.com/en/homeusers/downloads/)
-
-[Free Antivirus](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
-
-[Free VPN](https://www.pandasecurity.com/en/homeusers/vpn/)
-
-[Online Antivirus](https://www.pandasecurity.com/en/homeusers/online-antivirus/)
-
-[Reviews](https://www.pandasecurity.com/en/reviews/)
-
-[Already a Customer](https://www.pandasecurity.com/en/renewal/)
+[Panda Dome portfolio](https://www.pandasecurity.com/en/homeusers/) [Customer Login Page](https://www.pandasecurity.com/en/renewal/) [Online Antivirus](https://www.pandasecurity.com/en/homeusers/online-antivirus/) [Downloads](https://www.pandasecurity.com/en/homeusers/downloads/) [Free Antivirus](https://www.pandasecurity.com/en/homeusers/free-antivirus/) [Free VPN](https://www.pandasecurity.com/en/homeusers/vpn/) [Offers](https://www.pandasecurity.com/en/homeusers/offers/)
 
 ##### Business - WatchGuard Technologies
 
-[WatchGuard](https://www.watchguard.com/)
+[Watchguard](https://www.watchguard.com/) [Endpoint Security](https://www.watchguard.com/wgrd-products/endpoint-security/) [Network Security](https://www.watchguard.com/wgrd-products/network-security/) [Authpoint MFA](https://www.watchguard.com/wgrd-products/authpoint/) [Secure Wi-Fi](https://www.watchguard.com/wgrd-products/secure-wifi/) [Partners](https://www.watchguard.com/wgrd-partners/)
 
-[Endpoint Security](https://www.watchguard.com/wgrd-products/endpoint-security)
+![Visa](/rfilescms/Payments/visa.png "Visa") ![Master Card](/rfilescms/Payments/mastercard.png "Master Card") ![Maestro](/rfilescms/Payments/maestro.png "Maestro") ![Pay Pal](/rfilescms/Payments/paypal.png "Pay Pal") ![Apple Pay](/rfilescms/Payments/applepay.png "Apple Pay")
 
-[Network Security](https://www.watchguard.com/wgrd-products/network-security)
+![Bank Transfer](/rfilescms/Payments/banktransfer.png "Bank Transfer") ![iDeal](/rfilescms/Payments/ideal.png "iDeal") ![Klarna](/rfilescms/Payments/klarna.png "Klarna")
 
-[AuthPoint MFA](https://www.watchguard.com/wgrd-products/authpoint)
-
-[Secure Wi-Fi](https://www.watchguard.com/wgrd-products/secure-wifi)
-
-[Partners](https://www.watchguard.com/wgrd-partners)
-
-[Privacy Policy](https://www.pandasecurity.com/en/homeusers/media/legal-notice/#e10)
-
-[Legal Notice](https://www.pandasecurity.com/en/homeusers/media/legal-notice/)
-
-[Cookie Policy](https://www.pandasecurity.com/en/homeusers/media/cookies-policy/)
-
-[Return Policy](https://www.pandasecurity.com/en/homeusers/media/legal-notice/refund.htm)
-
-[](https://www.pandasecurity.com/en/office-locator/)
-
-[](https://www.linkedin.com/company/panda-security)
-
-[](https://www.youtube.com/user/PandaSecurity1)
-
-[](https://www.facebook.com/PandaSecurity)
-
-[](https://twitter.com/#!/Panda_Security)
-
-[](https://www.instagram.com/pandasecurity/)
+[Privacy Policy](https://www.pandasecurity.com/en/homeusers/media/legal-notice/#e10) [Legal Notice](https://www.pandasecurity.com/en/homeusers/media/legal-notice/) [Cookie Policy](https://www.pandasecurity.com/en/homeusers/media/cookies-policy/) [Return Policy](https://www.pandasecurity.com/en/homeusers/media/legal-notice/refund.htm)
