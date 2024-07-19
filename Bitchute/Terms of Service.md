@@ -153,7 +153,7 @@ The Terms, and your relationship with BitChute under the Terms, shall be governe
 
 #### Was this article helpful?
 
-[8509](#) [1796](#)
+[8535](#) [1834](#)
 
 #### Related Questions:
 
@@ -178,3 +178,7 @@ Our customer support team is here for you.
 [Contact Support](https://support.bitchute.com/contact-us?contact_query=Please%20enter%20your%20question)
 
 BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2023 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
+
+  
+
+[Knowledge Base Software powered by Helpjuice](https://helpjuice.com/?utm_campaign=customer_kb)
