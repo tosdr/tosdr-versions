@@ -413,7 +413,7 @@ Easy to understand. Simple to follow.
 
 **Our Terms of Services (ToS) are designed to be read and understood by the average person. Before using our service, please read them carefully and make sure you understand everything they say. Our Terms of Service are a legally binding contract between bunny.net and you.**
 
-Referred hereinafter as 'BUNNYNET', 'bunny.net', 'our', 'we' and 'us'; is a content delivery network service provider. All customers using our service are subject to the terms and conditions described in this document as well as the Acceptable Use Policy described here. We reserve the right to make alterations to these documents whenever required. It is the client's sole responsibility to check for updates on a regular basis.
+Referred hereinafter as 'BUNNYNET', 'bunny.net', 'our', 'we' and 'us'; is a content delivery network service provider. All customers using our service are subject to the terms and conditions described in this document as well as the Acceptable Use Policy described [here](https://bunny.net/acceptable-use/). We reserve the right to make alterations to these documents whenever required. It is the client's sole responsibility to check for updates on a regular basis.
 
 ![bunnynet Terms of Service](/images/bunnynet-terms-of-service.svg "bunnynet Terms of Service")
 
@@ -489,7 +489,7 @@ Email: support@bunnycdn.com_
 Start Your 14 Day Free Trial
 ----------------------------
 
-Join over 40.000+ satisfied customers already using bunny.net
+Join over 40,000+ satisfied customers already using bunny.net
 
 [Start FREE Trial](https://dash.bunny.net/auth/register?pk_buttonlocation=footer&pk_buttonurl=tos)
 
