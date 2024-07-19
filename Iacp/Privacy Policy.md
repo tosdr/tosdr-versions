@@ -337,8 +337,8 @@ If we make any material changes to this Notice or the way we use, share or colle
 
 Any changes we make to this Notice in the future will be posted on this page and, where appropriate, notification sent to you by e-mail. Please check back frequently to see any updates or changes to this Notice.
 
-Scroll to preview content. Please sign in to read and get access to more member only content.
----------------------------------------------------------------------------------------------
+Please sign in to read and get access to more member only content.
+------------------------------------------------------------------
 
 Log In  
 
