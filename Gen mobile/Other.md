@@ -8,8 +8,6 @@ Search
 
 [Cart (00)](https://www.genmobile.com/cart)
 
-[Easy Pay](https://www.genmobile.com/pages/easypay) [Activate](https://activate.genmobile.com/)
-
 * [![](//www.genmobile.com/cdn/shop/files/GenMobile-logo-red-v2_400x.png?v=1649179654)](https://www.genmobile.com/ "Gen Mobile")
     
 
@@ -29,6 +27,14 @@ Search
     * [Easy Pay](https://www.genmobile.com/pages/easypay)
 * [Cart (00)](https://www.genmobile.com/cart)
     
+
+[MyAccount
+
+![](//www.genmobile.com/cdn/shop/t/48/assets/gm-myaccount.svg?v=73238960155695954641719252988)](https://myaccount.genmobile.com/SignIn.php)[Activate
+
+![](//www.genmobile.com/cdn/shop/t/48/assets/gm-phone.svg?v=41062798527791431101719253003)](https://activate.genmobile.com/)[Find a Store
+
+![](//www.genmobile.com/cdn/shop/t/48/assets/gm-findstore.svg?v=88663615024655658451719253009)](https://www.genmobile.com/apps/store-locator)
 
 Limitations on 911 Emergency Services
 =====================================
@@ -95,7 +101,7 @@ As part of Gen Mobile’s WiFi Calling Service, an address will be collected fro
 
 **H. PSAP Limitations.** The PSAP designated to receive 911 calls for a particular Registered Location through the WiFi Calling Service may not have a system configured for all 911 services. The PSAP may not be able to capture, retain or otherwise determine the phone number, Registered Location, or physical location of the VoIP device placing the 911 call. Accordingly, you must be prepared to provide this information to the PSAP. Until and unless you do so, the emergency service call taker may be unable to call you back or to otherwise assist you in the event of an emergency.
 
-**I. Warning Labels and Certifications**. You must notify end users of the WiFi Calling Service about the 911 limitations of the WiFi Calling Service as outlined in this acknowledgement. Gen Mobile provides you with warning labels regarding the limitations or unavailability of 911 services. You will place labels on or near each VoIP device used to access the WiFi Calling Service. You will acknowledge and complete all advisory notices and certifications received from Gen Mobile regarding 911 service. Click [here](https://cdn.shopify.com/s/files/1/2954/7774/files/911_stickers_f5f8e3b3-eb9e-479a-8b54-a6e4b39bdee5.pdf?v=1679674164) to download a warning label.
+**I. Warning Labels and Certifications**. You must notify end users of the WiFi Calling Service about the 911 limitations of the WiFi Calling Service as outlined in this acknowledgement. Gen Mobile provides you with warning labels regarding the limitations or unavailability of 911 services. You will place labels on or near each VoIP device used to access the WiFi Calling Service. You will acknowledge and complete all advisory notices and certifications received from Gen Mobile regarding 911 service. Click here ([ENG](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:c063a8aa-6e48-3bb0-9802-b40ad3f81a89) / [SPN](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:7c4447ae-ed1a-3a6d-b165-75c7ad350b49)) to download a warning label.
 
 **J. Customer Choice**. You must carefully evaluate the individual circumstances in deciding whether to rely solely upon the WiFi Calling Service for 911 calling or to make necessary provisions for access to emergency calling services (e.g. maintaining a conventional landline phone as a backup means of completing emergency calls).
 
