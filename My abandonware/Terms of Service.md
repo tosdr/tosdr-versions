@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 29500 old games to download for free!
+More than 29700 old games to download for free!
 
  
 
@@ -53,9 +53,9 @@ MyAbandonware.com is hosted by OVH SAS - 2 rue Kellermann - 59100 Roubaix - Fran
 
 Follow Us!
 
-[8,700](https://www.facebook.com/myabandonware) [Like](https://www.facebook.com/myabandonware)
+[8,800](https://www.facebook.com/myabandonware) [Like](https://www.facebook.com/myabandonware)
 
-[8,900](https://x.com/myabandonware) [Follow](https://x.com/myabandonware)
+[9,300](https://x.com/myabandonware) [Follow](https://x.com/myabandonware)
 
 Monthly Newsletter
 
@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [3D Chess](https://www.myabandonware.com/game/3d-chess-qw5)
-* [Motor City Online](https://www.myabandonware.com/game/motor-city-online-r4o)
-* [Case of the Great Train Robbery](https://www.myabandonware.com/game/case-of-the-great-train-robbery-qw4)
-* [Mastery Arithmetic Games](https://www.myabandonware.com/game/mastery-arithmetic-games-qw3)
-* [Cosmic Combat](https://www.myabandonware.com/game/cosmic-combat-qw2)
+* [Peppa Pig: Puddles of Fun](https://www.myabandonware.com/game/peppa-pig-puddles-of-fun-r84)
+* [MaDD Bomber](https://www.myabandonware.com/game/madd-bomber-r83)
+* [Atlantis Rising](https://www.myabandonware.com/game/atlantis-rising-r82)
+* [Elimination 2](https://www.myabandonware.com/game/elimination-2-r81)
+* [Zap Zilden](https://www.myabandonware.com/game/zap-zilden-r80)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Schwarzschild N](https://www.myabandonware.com/game/schwarzschild-n-ds5)
-* [City Racer: Underground Speed](https://www.myabandonware.com/game/city-racer-underground-speed-i3b)
-* [Pacific Theatre](https://www.myabandonware.com/game/pacific-theatre-g32)
+* ["Sento Monogatari" Sono I](https://www.myabandonware.com/game/sento-monogatari-sono-i-otl)
+* [Dreadnaught](https://www.myabandonware.com/game/dreadnaught-n05)
+* [Battleship](https://www.myabandonware.com/game/battleship-pm6)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
