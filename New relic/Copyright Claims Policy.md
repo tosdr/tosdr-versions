@@ -128,11 +128,11 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
-    [![Banking icon](/sites/default/files/2024-04/finance.svg)
+    [![web value calculator icon](/sites/default/files/2024-07/web-value-calculator-icon.svg)
     
-    Finserv Insights
+    What’s observability worth to you?
     
-    Explore how observability revolutionizes finance and insurance industries.](https://newrelic.com/resources/report/state-of-observability-financial)
+    Measure the value of improved uptime, operations, and innovation.](https://newrelic.com/platform/value-calculator)
     
     [![Kubernetes icon](/sites/default/files/2024-04/kubernates.svg)
     
@@ -246,6 +246,7 @@ Submit
     * [New Relic for Students](https://newrelic.com/students)
     * [Newsroom](https://newrelic.com/about/newsroom)
     * [ESG](https://newrelic.com/about/environmental-social-governance)
+    * [Community Forum](https://forum.newrelic.com/s)
     
     * [Resource Library
         
@@ -253,9 +254,9 @@ Submit
     * [New Relic Blog
         
         Industry updates, tips, and best practices.](https://newrelic.com/blog)
-    * [Community Forum
+    * [Observability Value Calculator
         
-        Ask a question, share an answer.](https://forum.newrelic.com/s/)
+        Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     * [Events & Webinars
         
         Join us for an upcoming event or training.](https://newrelic.com/events)
