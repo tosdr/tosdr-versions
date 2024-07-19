@@ -1,6 +1,8 @@
 [skip to content](#main)
 
-Learn about Color's copilot tool in collaboration with OpenAI [here](https://www.color.com/blog/colors-copilot-and-partnership-with-openai).
+![](https://mk-block-color-genomics.pantheonsite.io/wp-content/uploads/2024/07/Visual@2x.svg)
+
+Color is designing new AI use cases to equip providers with specialized cancer knowledge that helps inform care plans and reduce time to treatment. [Read More](https://www.color.com/blog/colors-copilot-and-partnership-with-openai)
 
  [![](https://www.color.com/wp-content/uploads/2024/04/Color-Wordmark-Logo-Registered.svg)](https://www.color.com/) Toggle Main Navigation Expanded Collapsed
 
@@ -25,6 +27,7 @@ Learn about Color's copilot tool in collaboration with OpenAI [here](https://www
 * [Resources](#)
     * [Blog](https://www.color.com/blog)
     * [Library](https://www.color.com/library)
+    * [Patient Resources](https://www.color.com/patient-resources)
 
 * [Activate Kit](https://home.color.com/activate)
 * [Contact Us](https://www.color.com/contact-us)
