@@ -29,7 +29,7 @@ Séléctionnez **le pays** dans lequel vous souhaitez voyager et **la langue*
 
 OUIGO
 
-* [OUIGO](https://www.ouigo.com/en/)
+* [English](https://www.ouigo.com/en/)
 
 OUIGO FRANCE
 
