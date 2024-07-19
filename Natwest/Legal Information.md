@@ -170,7 +170,6 @@ NatWest Group
             2. [MoneySense](https://natwest.mymoneysense.com/home/)
             3. [CareerSense](https://personal.natwest.com/learning/learning-for-kids-teens-students/careersense.html)
             4. [Dream Bigger](https://personal.natwest.com/business/insights/business-management/business-strategy/dream-bigger-encouraging-the-next-generation-of-entrepreneurs.html)
-            5. [NatWest Pigby and friends](https://personal.natwest.com/savings/first-saver/pigby-fair.html)
         
     * [Investments](https://personal.natwest.com/investments.html)
         
@@ -206,6 +205,7 @@ NatWest Group
             5. [The NatWest Credit Card](https://personal.natwest.com/credit-cards/the-natwest-credit-card.html)
             6. [Reward credit card](https://personal.natwest.com/credit-cards/reward-credit-card.html)
             7. [Reward Black credit card](https://personal.natwest.com/credit-cards/reward-black-credit-card.html)
+            8. [Travel Reward credit card](https://personal.natwest.com/credit-cards/travel-reward-credit-card.html)
         * Already have a credit card with us?
             
             1. [Manage your credit card](https://personal.natwest.com/credit-cards/existing-customers.html)
@@ -241,6 +241,7 @@ NatWest Group
             5. [Premier Reward Black account](https://personal.natwest.com/premier-banking/products/current-accounts/reward-black-account.html)
             6. [Reward credit card](https://personal.natwest.com/credit-cards/reward-credit-card.html)
             7. [Reward Black credit card](https://personal.natwest.com/credit-cards/reward-black-credit-card.html)
+            8. [Travel Reward credit card](https://personal.natwest.com/credit-cards/travel-reward-credit-card.html)
         * Make the most of MyRewards
             
             1. [MyRewards](https://personal.natwest.com/myrewards.html)
@@ -263,7 +264,22 @@ NatWest Group
             2. [Overdraft eligibility calculator](https://personal.natwest.com/current-accounts/overdrafts/eligibility-checker.html)
             3. [Overdraft cost calculator](https://personal.natwest.com/current-accounts/overdrafts/olb/overdraft-calculator.html)
         
-    * [Buy Now Pay Later](https://personal.natwest.com/buy-now-pay-later.html)
+    * [Travel](https://personal.natwest.com/life-moments/travel.html)
+        
+        * [Travel products](javascript:void(0))
+            1. [Travelling with NatWest](https://personal.natwest.com/life-moments/travel.html)
+            2. [Travel account](https://personal.natwest.com/life-moments/travel/spending-abroad/travel-account.html)
+            3. [Travel Reward Credit Card](https://personal.natwest.com/credit-cards/travel-reward-credit-card.html)
+            4. [The NatWest Credit Card](https://personal.natwest.com/credit-cards/the-natwest-credit-card.html)
+            5. [Reward Black Credit Card](https://personal.natwest.com/credit-cards/reward-black-credit-card.html)
+            6. [Travel insurance](https://personal.natwest.com/insurance/travel-insurance.html)
+            7. [Travel money](https://personal.natwest.com/life-moments/travel/travel-money.html)
+            8. [Holiday loans](https://personal.natwest.com/loans/holiday-loans-loans-for-a-holiday-natwest.html)
+            9. [Send money abroad](https://personal.natwest.com/support-centre/banking-from-home/make-payments/what-payee-details-are-required-to-send-money-abroad.html)
+        * Help with our travel products
+            
+            1. [Using your debit card abroad](https://personal.natwest.com/life-moments/travel/spending-abroad.html)
+            2. [Using a travel credit card](https://personal.natwest.com/credit-cards/travel-credit-cards.html)
         
     
 * [Help and support](https://personal.natwest.com/support-centre.html)
@@ -391,7 +407,7 @@ NatWest Group
             
             1. [Bereavement](https://personal.natwest.com/life-moments/bereavement.html)
             2. [Planning for later life](https://personal.natwest.com/life-moments/planning-for-later-life.html)
-            3. [Retirement and pensions](https://personal.natwest.com/life-moments/retirement.html)
+            3. [Retirement and pensions](https://personal.natwest.com/investments/pensions.html)
             4. [Will writing and Executor service](https://personal.natwest.com/life-moments/bereavement/will-writing-service.html)
         
     * [Dealing with difficult times](https://personal.natwest.com/life-moments.html)
@@ -692,11 +708,11 @@ If you do not change your preference here, your current preference, (as indicate
 * [Accessibility](https://personal.natwest.com/accessibility.html)
 * [Careers](https://jobs.natwestgroup.com/)
 * [Site Map](https://personal.natwest.com/site-map.html)
-* [Modern Slavery Act](https://www.natwestgroup.com/sustainability/governance-and-responsible-business/human-rights-and-modern-slavery.html)
+* [Modern Slavery Act](https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/pdf/2023-Statement-of-Modern-Slavery-and-Human-Trafficking.pdf%20)
 
 * [Facebook](https://www.facebook.com/NatWest)
 * [twitter](https://twitter.com/NatWest_Help)
-* [RSS](https://www.natwestgroup.com/our-brands/natwest.html)
+* [RSS](https://www.natwestgroup.com/who-we-are/our-brands/natwest.html)
 * [LinkedIn](https://www.linkedin.com/company/natwest)
 
 [FCFS\_leaflet (PDF, 3.7 MB)](https://personal.natwest.com/content/dam/natwest/business/current-accounts/documents/FSCS_leaflet.pdf "fscs")
