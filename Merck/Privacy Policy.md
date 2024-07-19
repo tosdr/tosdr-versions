@@ -147,7 +147,7 @@ If you have questions about this policy or wish to contact the Company with any 
 
 [Privacy](https://www.msdprivacy.com/) [Terms of Use](https://www.merck.com/policy/terms-of-use/home.html) [Cookie Preferences](#)
 
-Copyright © 2022 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+Copyright © 2024 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
 
 You are now leaving this website.
 ---------------------------------
