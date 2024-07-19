@@ -1,5 +1,8 @@
 * [](https://www.facebook.com/mediabiasfactcheck)
 * [](https://twitter.com/MBFC_News)
+* [](https://www.instagram.com/mediabiasfactcheck/)
+* [](https://www.threads.net/@mediabiasfactcheck)
+* [](https://www.reddit.com/r/Media_Bias_Fact_Check/)
 *  
     
 
@@ -25,6 +28,7 @@
     * [Questionable Sources](https://mediabiasfactcheck.com/fake-news/)
     * [Pro-Science – Bias and Credibility](https://mediabiasfactcheck.com/pro-science/)
     * [Satire](https://mediabiasfactcheck.com/satire/)
+* [Genres (NEW)](https://mediabiasfactcheck.com/media-categories/)
 * [Transparency](https://mediabiasfactcheck.com/about/)
     * [About](https://mediabiasfactcheck.com/about/)
     * [Funding](https://mediabiasfactcheck.com/funding/)
@@ -32,15 +36,21 @@
     * [Corrections Policy – Bias and Credibility](https://mediabiasfactcheck.com/corrections-policy/)
     * [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/)
 * [News](https://mediabiasfactcheck.com/news/)
-    * [Election Center 2024](https://mediabiasfactcheck.com/election-center-2024/)
     * [Factual News](https://mediabiasfactcheck.com/factual-news/)
+    * [2024 Election](https://mediabiasfactcheck.com/election-center-2024/)
+        * [Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
+        * [Election Simluation Results](https://mediabiasfactcheck.com/electoral-college-simulation-data/)
+        * [Presidential Media Endorsements](https://mediabiasfactcheck.com/presidential-media-endorsements/)
+        * [Election Spending - PACS/SuperPACS](https://mediabiasfactcheck.com/election-spending-pacs-and-superpacs/)
+        * [Pollster Ratings](https://mediabiasfactcheck.com/pollsters-bias-and-credibility/)
+        * [Election News](https://mediabiasfactcheck.com/election-center-2024/)
 * [Search](https://mediabiasfactcheck.com/search/)
     * [All Search Options](https://mediabiasfactcheck.com/search/)
     * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Countries](https://mediabiasfactcheck.com/country-profiles/)
     * [Country Profiles](https://mediabiasfactcheck.com/country-profiles/)
     * [World Leaders – Facts and Bias](https://mediabiasfactcheck.com/world-leaders-facts-and-bias/)
-* [Politicians/Journalists](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
+* [Politician/Journalists](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
     * [Presidential Election 2024 Candidates Bias Ratings](https://mediabiasfactcheck.com/presidential-election-2024-candidates-bias-ratings/)
     * [United States Governors Bias Ratings](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
     * [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/)
@@ -51,13 +61,6 @@
     * [MBFC's 2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
     * [Interactive Political Orientation Map of the World](https://mediabiasfactcheck.com/interactive-political-orientation-map-of-the-world/)
     * [Interactive Country Freedom Map of the World](https://mediabiasfactcheck.com/interactive-country-freedom-map-of-the-world/)
-* [2024 Election](https://mediabiasfactcheck.com/election-center-2024/)
-    * [Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
-    * [Election Simluation Results](https://mediabiasfactcheck.com/electoral-college-simulation-data/)
-    * [Presidential Media Endorsements](https://mediabiasfactcheck.com/presidential-media-endorsements/)
-    * [Election Spending - PACS/SuperPACS](https://mediabiasfactcheck.com/election-spending-pacs-and-superpacs/)
-    * [Pollster Ratings](https://mediabiasfactcheck.com/pollsters-bias-and-credibility/)
-    * [Election News](https://mediabiasfactcheck.com/election-center-2024/)
 * [MORE](https://mediabiasfactcheck.com/re-evaluated-sources/)
     * [Extensions](https://mediabiasfactcheck.com/appsextensions/)
     * [Re-Evaluated Sources](https://mediabiasfactcheck.com/re-evaluated-sources/)
@@ -70,11 +73,11 @@
 
 MBFC News
 
-* [June 20, 2024 | MBFC’s Daily Vetted Fact Checks for 06/20/2024](https://mediabiasfactcheck.com/2024/06/20/mbfcs-daily-vetted-fact-checks-for-06-20-2024/ "MBFC’s Daily Vetted Fact Checks for 06/20/2024")
-* [June 19, 2024 | MBFC’s Daily Vetted Fact Checks for 06/19/2024](https://mediabiasfactcheck.com/2024/06/19/mbfcs-daily-vetted-fact-checks-for-06-19-2024/ "MBFC’s Daily Vetted Fact Checks for 06/19/2024")
-* [June 18, 2024 | (Media News) YouTube Introduces Community Notes to Enhance Video Context](https://mediabiasfactcheck.com/2024/06/18/media-news-youtube-introduces-community-notes-to-enhance-video-context/ "(Media News) YouTube Introduces Community Notes to Enhance Video Context")
-* [June 18, 2024 | MBFC’s Daily Vetted Fact Checks for 06/18/2024](https://mediabiasfactcheck.com/2024/06/18/mbfcs-daily-vetted-fact-checks-for-06-18-2024/ "MBFC’s Daily Vetted Fact Checks for 06/18/2024")
-* [June 17, 2024 | (Media News) X is the Most Inaccurate News Source Among Social Media Platforms](https://mediabiasfactcheck.com/2024/06/17/x-is-the-most-inaccurate-news-source-among-social-media-platforms/ "(Media News) X is the Most Inaccurate News Source Among Social Media Platforms")
+* [July 19, 2024 | (Media News) American Journalist Evan Gershkovich Jailed for Espionage in Russia](https://mediabiasfactcheck.com/2024/07/19/media-news-american-journalist-evan-gershkovich-jailed-for-espionage-in-russia/ "(Media News) American Journalist Evan Gershkovich Jailed for Espionage in Russia")
+* [July 19, 2024 | MBFC’s Daily Vetted Fact Checks for 07/19/2024](https://mediabiasfactcheck.com/2024/07/19/mbfcs-daily-vetted-fact-checks-for-07-19-2024/ "MBFC’s Daily Vetted Fact Checks for 07/19/2024")
+* [July 18, 2024 | MBFC’s Daily Vetted Fact Checks for 07/18/2024](https://mediabiasfactcheck.com/2024/07/18/mbfcs-daily-vetted-fact-checks-for-07-18-2024/ "MBFC’s Daily Vetted Fact Checks for 07/18/2024")
+* [July 18, 2024 | Source of the Day: Protect Democracy](https://mediabiasfactcheck.com/2024/07/18/source-of-the-day-protect-democracy/ "Source of the Day: Protect Democracy")
+* [July 17, 2024 | MBFC’s Daily Vetted Fact Checks for 07/17/2024](https://mediabiasfactcheck.com/2024/07/17/mbfcs-daily-vetted-fact-checks-for-07-17-2024/ "MBFC’s Daily Vetted Fact Checks for 07/17/2024")
 
 Search for:  
 
@@ -150,76 +153,76 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [National Republican Senatorial Committee (NRSC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-senatorial-committee-nrsc-bias-and-credibility/)
+* [Dewsbury Reporter – Bias and Credibility](https://mediabiasfactcheck.com/dewsbury-reporter-bias-and-credibility/)
     
-    June 20, 2024
+    July 19, 2024
     
-* [350 Turkiye – Bias and Credibility](https://mediabiasfactcheck.com/350-turkiye-bias-and-credibility/)
+* [Environment and Resources Journal – Bias and Credibility](https://mediabiasfactcheck.com/environment-and-resources-journal-bias/)
     
-    June 20, 2024
+    July 19, 2024
     
-* [National Organization for Women (NOW) – Bias and Credibility](https://mediabiasfactcheck.com/national-organization-for-women-now-bias-and-credibility/)
+* [KMUW – NPR – Wichita – Bias and Credibility](https://mediabiasfactcheck.com/kmuw-npr-wichita-bias/)
     
-    June 19, 2024
+    July 19, 2024
     
-* [BMC Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/bmc-chemistry-bias/)
+* [Elway Research – Bias and Credibility](https://mediabiasfactcheck.com/elway-research-bias-and-credibility/)
     
-    June 19, 2024
+    July 18, 2024
     
-* [KICW – NPR – Ottumwa – Bias and Credibility](https://mediabiasfactcheck.com/kicw-npr-ottumwa-bias/)
+* [BMC Artificial Intelligence – Bias and Credibility](https://mediabiasfactcheck.com/bmc-artificial-intelligence-bias/)
     
-    June 19, 2024
+    July 18, 2024
     
-* [Petersburg Progress-Index – Bias and Credibility](https://mediabiasfactcheck.com/petersburg-progress-index-bias/)
+* [Praying Medic – Bias and Credibility](https://mediabiasfactcheck.com/praying-medic-bias-and-credibility/)
     
-    June 19, 2024
+    July 18, 2024
     
-* [South OKC News – Bias and Credibility](https://mediabiasfactcheck.com/south-okc-news-bias/)
+* [Skagit Valley Herald – Bias and Credibility](https://mediabiasfactcheck.com/skagit-valley-herald-bias/)
     
-    June 18, 2024
+    July 18, 2024
     
-* [National Republican Congressional Committee (NRCC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-congressional-committee-nrcc-bias/)
+* [Mid Valley Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mid-valley-reporter-bias/)
     
-    June 18, 2024
+    July 17, 2024
     
 
 [See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - June 20, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - July 19, 2024
     
-* [National Republican Senatorial Committee (NRSC) – Bias and Credibility](https://mediabiasfactcheck.com/national-republican-senatorial-committee-nrsc-bias-and-credibility/ "View National Republican Senatorial Committee (NRSC) –  Bias and Credibility") - June 20, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - July 19, 2024
     
-* [Electoral College Map 2024 – Biden vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Biden vs. Trump") - June 20, 2024
+* [Dewsbury Reporter – Bias and Credibility](https://mediabiasfactcheck.com/dewsbury-reporter-bias-and-credibility/ "View Dewsbury Reporter – Bias and Credibility") - July 19, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - June 20, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - July 19, 2024
     
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - June 20, 2024
+* [Environment and Resources Journal – Bias and Credibility](https://mediabiasfactcheck.com/environment-and-resources-journal-bias/ "View Environment and Resources Journal – Bias and Credibility") - July 19, 2024
     
-* [350 Turkiye – Bias and Credibility](https://mediabiasfactcheck.com/350-turkiye-bias-and-credibility/ "View 350 Turkiye – Bias and Credibility") - June 20, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - July 19, 2024
     
-* [National Organization for Women (NOW) – Bias and Credibility](https://mediabiasfactcheck.com/national-organization-for-women-now-bias-and-credibility/ "View National Organization for Women (NOW) –  Bias and Credibility") - June 19, 2024
+* [KMUW – NPR – Wichita – Bias and Credibility](https://mediabiasfactcheck.com/kmuw-npr-wichita-bias/ "View KMUW – NPR – Wichita – Bias and Credibility") - July 19, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - June 19, 2024
+* [Elway Research – Bias and Credibility](https://mediabiasfactcheck.com/elway-research-bias-and-credibility/ "View Elway Research – Bias and Credibility") - July 18, 2024
     
-* [BMC Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/bmc-chemistry-bias/ "View BMC Chemistry – Bias and Credibility") - June 19, 2024
+* [BMC Artificial Intelligence – Bias and Credibility](https://mediabiasfactcheck.com/bmc-artificial-intelligence-bias/ "View BMC Artificial Intelligence – Bias and Credibility") - July 18, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - June 19, 2024
+* [Electoral College Map 2024 – Biden vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Biden vs. Trump") - July 18, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 06/19/2024](https://mediabiasfactcheck.com/2024/06/19/mbfcs-daily-vetted-fact-checks-for-06-19-2024/)
+* [MBFC's Daily Vetted Fact Checks for 07/18/2024](https://mediabiasfactcheck.com/2024/07/18/mbfcs-daily-vetted-fact-checks-for-07-18-2024/)
+* [MBFC's Daily Vetted Fact Checks for 07/19/2024](https://mediabiasfactcheck.com/2024/07/19/mbfcs-daily-vetted-fact-checks-for-07-19-2024/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [MBFC's Daily Vetted Fact Checks for 06/20/2024](https://mediabiasfactcheck.com/2024/06/20/mbfcs-daily-vetted-fact-checks-for-06-20-2024/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
-* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [Axios - Bias and Credibility](https://mediabiasfactcheck.com/axios/)
+* [Newsmax - Bias and Credibility](https://mediabiasfactcheck.com/newsmax-bias-credibilty-reliability/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Cook Political Report - Bias and Credibility](https://mediabiasfactcheck.com/cook-political-report/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [MSNBC - Bias and Credibility](https://mediabiasfactcheck.com/msnbc/)
 
 #### Subscribe via Email
 
