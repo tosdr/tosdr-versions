@@ -50,14 +50,14 @@
     
 
 * [](https://apps.disroot.org/)[](https://status.disroot.org/)[](https://user.disroot.org/)
-* English
+* EN
     
-    * [English](https://disroot.org/en/privacy_policy)
-    * [Español](https://disroot.org/es/privacy_policy)
-    * [Français](https://disroot.org/fr/privacy_policy)
-    * [Italiano](https://disroot.org/it/privacy_policy)
-    * [Deutsch](https://disroot.org/de/privacy_policy)
-    * [Русский](https://disroot.org/ru/privacy_policy)
+    * [EN](https://disroot.org/en/privacy_policy)
+    * [ES](https://disroot.org/es/privacy_policy)
+    * [FR](https://disroot.org/fr/privacy_policy)
+    * [IT](https://disroot.org/it/privacy_policy)
+    * [DE](https://disroot.org/de/privacy_policy)
+    * [РУ](https://disroot.org/ru/privacy_policy)
     
 
 Privacy Statement
