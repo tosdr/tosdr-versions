@@ -154,7 +154,7 @@ Company
 
 Recent Posts
 
-[The Future of Taiwanese Hokkien in a Mandarin-Dominant Taiwan](https://ai.glossika.com/blog/the-future-of-taiwanese-hokkien-in-a-mandarin-dominant-taiwan "blog") [An English/Chinese teacher’s insights into effective language learning](https://ai.glossika.com/blog/katie-blackburns-story "blog") [An Overview of the Middle East's Languages | Glossika Live #1](https://ai.glossika.com/blog/an-overview-of-the-middle-easts-languages-glossika-live-1 "blog") [Read More →](https://ai.glossika.com/blog "blog")
+[Opera Singer to Polyglot: "No character opens their mouth to speak unless they want something"](https://ai.glossika.com/blog/opera-singer-to-polyglot-no-character-opens-their-mouth-to-speak-unless-they-want-something "blog") [Language fossilization: What it is and how to overcome it](https://ai.glossika.com/blog/language-fossilization "blog") [The Future of Taiwanese Hokkien in a Mandarin-Dominant Taiwan](https://ai.glossika.com/blog/the-future-of-taiwanese-hokkien-in-a-mandarin-dominant-taiwan "blog") [Read More →](https://ai.glossika.com/blog "blog")
 
 Get the latest news and updates!
 
