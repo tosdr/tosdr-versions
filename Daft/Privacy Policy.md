@@ -1,4 +1,4 @@
-[![Daft.ie](https://c1.dmstatic.com/ad03aff49d544627f3dc1/frontend/images/logo@2x.png)](https://publish.daft.ie/)
+[![Daft.ie](https://c1.dmstatic.com/1052/frontend/images/logo@2x.png)](https://publish.daft.ie/)
 
 * [Login to MyDaft](https://publish.daft.ie/my-daft/?auth[login]=1)
 * [Register](https://publish.daft.ie/my-daft/?register[u]=1)
@@ -58,7 +58,7 @@ Advertise My Property
 
 * [Overseas](https://publish.daft.ie/overseas/)
 
-[Home](https://publish.daft.ie/) / information **50,409** properties online (613 in the last 24 hours)
+[Home](https://publish.daft.ie/) / information **50,418** properties online (666 in the last 24 hours)
 
 [](https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F&t=Information)[](https://twitter.com/share?via=daftmedia&url=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F&text=Information)[](https://plus.google.com/share?url=https%3A%2F%2Fwww.daft.ie%2Fprivacy%2F)
 
