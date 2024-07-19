@@ -9,10 +9,10 @@
     * [Toddler 13 to 24 months](https://kiddieacademy.com/academies/programs/toddler-daycare-curriculum/)
     * [Early Preschool 2-Year-Olds](https://kiddieacademy.com/academies/programs/early-preschool/)
     * [Preschool 3-Year-Olds](https://kiddieacademy.com/academies/programs/preschool/)
-    * [Pre-Kindergarten 4-Year-Olds](https://kiddieacademy.com/academies/programs/pre-kindergarten/)
+    * [Pre-Kindergarten 4-5 Years-Old](https://kiddieacademy.com/academies/programs/pre-kindergarten/)
     * [Kindergarten 5-Year-Olds](https://kiddieacademy.com/academies/programs/kindergarten/)
     * [School Age Ages 5 to 12](https://kiddieacademy.com/academies/programs/school-age-programs/)
-    * [Summer Camp Ages 5 to 12](https://kiddieacademy.com/academies/programs/summer-camp/)
+    * [Summer Camp 2-6 Years-Old](https://kiddieacademy.com/academies/programs/summer-camp/)
 * [Tuition & Enrollment](https://kiddieacademy.com/academies/enrollment-and-tuition)
 * [About Us](https://kiddieacademy.com/company/)
     
