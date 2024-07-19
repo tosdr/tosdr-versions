@@ -133,7 +133,7 @@ United Kingdom
         
         * [BTEC qualifications & short courses](https://www.pearson.com/en-gb/further-education/products-and-services/btec.html)
         * [Higher Nationals & Higher Technical qualifications](https://www.pearson.com/en-gb/further-education/products-and-services/btec/btec-higher-nationals.html)
-        * [Apprenticeships](https://qualifications.pearson.com/en/qualifications/apprenticeships.html)
+        * [Apprenticeships](https://www.pearson.com/en-gb/further-education/products-and-services/apprenticeships.html)
         * [T Levels](https://qualifications.pearson.com/en/qualifications/t-levels.html)
         * [Functional Skills](https://qualifications.pearson.com/en/qualifications/edexcel-functional-skills.html)
         * [GCSEs](https://qualifications.pearson.com/en/qualifications/edexcel-gcses.html)
@@ -815,10 +815,10 @@ This policy was last updated June 2023.
  [![Pearson Home](/content/dam/help/hedReimagined/logos/logo-hed--on-dark.svg)](https://www.pearson.com/en-gb.html)
 
 * [](https://www.facebook.com/pearsonplc.uk)
-* [](https://twitter.com/Pearson_UK)
+* [](https://twitter.com/pearson)
 * [](https://www.youtube.com/user/Pearsonplc)
-* [](https://uk.linkedin.com/showcase/pearson-higher-education)
-* [](https://www.instagram.com/pearsonhighereducation/)
+* [](https://www.linkedin.com/company/2137)
+* [](https://www.instagram.com/pearsonofficial/)
 
 United Kingdom
 
