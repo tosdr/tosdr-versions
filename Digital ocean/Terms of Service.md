@@ -237,7 +237,7 @@
 Terms of Service Agreement
 ==========================
 
-Last Updated on May 11, 2023
+Last Updated on July 16, 2024
 
 [Introduction](#introduction)[](#introduction)
 ----------------------------------------------
@@ -528,7 +528,6 @@ Copyright 2023 DigitalOcean, LLC. All rights reserved. No part of DigitalOceanâ€
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
@@ -604,7 +603,6 @@ Copyright 2023 DigitalOcean, LLC. All rights reserved. No part of DigitalOceanâ€
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
