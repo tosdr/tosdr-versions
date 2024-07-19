@@ -11,6 +11,8 @@
 * [Permissions Use](https://www.ets.org/content/ets-org/language-master/en/home/legal/permissions.html)
 * [Trademark Use](https://www.ets.org/content/ets-org/language-master/en/home/legal/trademarks.html)
 * [Privacy and Security](https://www.ets.org/content/ets-org/language-master/en/home/legal/privacy.html)
+* [Title VI Compliance Statement](https://www.ets.org/content/ets-org/language-master/en/home/legal/ets-civil-rights-title-vi-policy-statement.html)
+* [Additional Test Specific Information](https://www.ets.org/content/ets-org/language-master/en/home/legal/additional-test-specific-information.html)
 
 Terms Governing Use of and Access to the ETS Website
 ====================================================
