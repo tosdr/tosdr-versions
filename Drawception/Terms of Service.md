@@ -105,7 +105,7 @@ THE LICENSE GRANT BY YOU TO DRAWCEPTION, PURSUANT TO THIS SECTION 2.2, IS IN CON
 
 [Play Now](https://drawception.com/register/)
 
-27,773 games in progress
+27,816 games in progress
 
 * * *
 
