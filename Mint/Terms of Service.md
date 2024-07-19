@@ -1,11 +1,11 @@
 [Skip To Main Content](#mainContent)
 
-* [![Intuit](https://digitalasset.intuit.com/IMAGE/A4htXWHoV/intuit-logo-super-blue.svg)](https://www.intuit.com/)
-* [![TurboTax](https://digitalasset.intuit.com/IMAGE/A9yqxWvVJ/TT_Color.svg)](https://turbotax.intuit.com/)
-* [![Credit Karma](https://digitalasset.intuit.com/IMAGE/A36wvFGOA/CK_Color.svg)](https://www.creditkarma.com/?source=intuit)
-* [![Mint](https://digitalasset.intuit.com/IMAGE/A6ziKePDy/Mint-logo-header-2.svg)](https://mint.intuit.com/)
-* [![QuickBooks](https://digitalasset.intuit.com/IMAGE/A7SUbbM1a/quickbooks-logo.svg)](https://quickbooks.intuit.com/)
-* [![MailChimp](https://digitalasset.intuit.com/IMAGE/A4zrQzkXj/Group-1.svg)](https://mailchimp.com/?utm_source=intuit.com&utm_medium=referral)
+* [![Intuit](/mint-terms-static-resources/intuit-logo-super-blue.svg)](https://www.intuit.com/)
+* [![TurboTax](/mint-terms-static-resources/TT_Color.svg)](https://turbotax.intuit.com/)
+* [![Credit Karma](/mint-terms-static-resources/CK_Color.svg)](https://www.creditkarma.com/?source=intuit)
+* [![Mint](/mint-terms-static-resources/Mint-logo-header-2.svg)](https://mint.intuit.com/)
+* [![QuickBooks](/mint-terms-static-resources/quickbooks-logo.svg)](https://quickbooks.intuit.com/)
+* [![MailChimp](/mint-terms-static-resources/Group-1.svg)](https://mailchimp.com/?utm_source=intuit.com&utm_medium=referral)
 
 [expand navigation options](#nav-menu-c7oM41faZ)
 
@@ -20,12 +20,12 @@
     * [Net worth](https://mint.intuit.com/networth)
     * [Retirement](https://mint.intuit.com/retirement)
     * [Investing](https://mint.intuit.com/investing)
-* * [![Intuit](https://digitalasset.intuit.com/IMAGE/A4htXWHoV/intuit-logo-super-blue.svg)](https://www.intuit.com/)
-    * [![TurboTax](https://digitalasset.intuit.com/IMAGE/A9yqxWvVJ/TT_Color.svg)](https://turbotax.intuit.com/)
-    * [![Credit Karma](https://digitalasset.intuit.com/IMAGE/A36wvFGOA/CK_Color.svg)](https://www.creditkarma.com/?source=intuit)
-    * [![Mint](https://digitalasset.intuit.com/IMAGE/A6ziKePDy/Mint-logo-header-2.svg)](https://mint.intuit.com/)
-    * [![QuickBooks](https://digitalasset.intuit.com/IMAGE/A7SUbbM1a/quickbooks-logo.svg)](https://quickbooks.intuit.com/)
-    * [![MailChimp](https://digitalasset.intuit.com/IMAGE/A4zrQzkXj/Group-1.svg)](https://mailchimp.com/?utm_source=intuit.com&utm_medium=referral)
+* * [![Intuit](/mint-terms-static-resources/intuit-logo-super-blue.svg)](https://www.intuit.com/)
+    * [![TurboTax](/mint-terms-static-resources/TT_Color.svg)](https://turbotax.intuit.com/)
+    * [![Credit Karma](/mint-terms-static-resources/CK_Color.svg)](https://www.creditkarma.com/?source=intuit)
+    * [![Mint](/mint-terms-static-resources/Mint-logo-header-2.svg)](https://mint.intuit.com/)
+    * [![QuickBooks](/mint-terms-static-resources/quickbooks-logo.svg)](https://quickbooks.intuit.com/)
+    * [![MailChimp](/mint-terms-static-resources/Group-1.svg)](https://mailchimp.com/?utm_source=intuit.com&utm_medium=referral)
     
 
     [](https://mint.intuit.com/)
