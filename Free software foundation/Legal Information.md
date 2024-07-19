@@ -1,3 +1,24 @@
+  
+
+_​_
+
+We need your help!
+------------------
+
+Like many organizations, the FSF is suffering from inflation. Operational costs have risen and revenue has not kept up, because people all over the world are going through the same challenges as we are. The FSF has an important role to play for computer users globally for years to come, and we still have a lot of work to do.
+
+Can you support our efforts by joining the FSF as an associate member for only $12/month ($6 for students), introducing a friend to free software, or gifting a membership?
+
+By supporting us today, you help secure the future of software freedom!
+
+[Join](https://my.fsf.org/join?mtm_campaign=spring24&mtm_source=modal) | [Convince a friend](https://www.fsf.org/appeal?mtm_campaign=spring24&mtm_source=modal) | [Gift a membership](https://my.fsf.org/gift-a-membership?mtm_campaign=spring24&mtm_source=modal)
+
+ [Join](https://my.fsf.org/join?mtm_campaign=spring24&mtm_source=modal)
+
+ [Renew](https://my.fsf.org/renew?mtm_campaign=spring24&mtm_source=modal)
+
+ [Donate](https://my.fsf.org/donate?mtm_campaign=spring24&mtm_source=modal)
+
 [Skip to content](#content), [sitemap](https://www.fsf.org/sitemap#content) or [skip to search](https://www.fsf.org/search_form#content).
 
 [![](//static.fsf.org/common/img/logo-new.png)](https://www.fsf.org/)
@@ -125,11 +146,11 @@ Enter your email address to receive our monthly newsletter, the
 
 [News](https://www.fsf.org/news)
 
+ [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF adds three highly qualified board members Jun 26, 2024](https://www.fsf.org/news/fsf-adds-3-highly-qualified-board-members)
+
  [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF adds three provisional board members Jun 03, 2024](https://www.fsf.org/news/fsf-adds-three-provisional-board-members)
 
  [![News Item object code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Awards winners announced: Bruno Haible, code.gouv.fr, Nick Logozzo May 05, 2024](https://www.fsf.org/news/free-software-awards-winners-announced-bruno-haible-french-free-software-unit-nick-logozzo)
-
- [![News Item](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) FSF to be deposed in SFC v Vizio, updates relevant FAQ entry Apr 29, 2024](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
 
 [More news…](https://www.fsf.org/news)
 
@@ -137,13 +158,13 @@ Enter your email address to receive our monthly newsletter, the
 
 [Recent blogs](https://www.fsf.org/blogs/recent-blog-posts)
 
-[May GNU Spotlight with Amin Bandali: Eleven new GNU releases!](https://www.fsf.org/blogs/community/may-gnu-spotlight-with-amin-bandali-eleven-new-gnu-releases-1)
+[Make a pledge to share free software with a friend](https://www.fsf.org/blogs/community/make-a-pledge-to-share-free-software-with-a-friend)
 
-[We need your help to release the LibrePlanet 2024 videos](https://www.fsf.org/blogs/community/we-need-your-help-to-release-the-libreplanet-2024-videos)
+[Spring Bulletin Issue 44 now online! Read and share it with your community](https://www.fsf.org/blogs/community/spring-bulletin-issue-44-now-online-read-and-share-it-with-your-community)
 
-[Sharing day two of LibrePlanet 2024: Cultivating Community](https://www.fsf.org/blogs/community/sharing-day-two-of-libreplanet-2024-cultivating-community)
+[Share free software with your friends and colleagues](https://www.fsf.org/blogs/community/share-free-software-with-your-friends-and-colleagues)
 
-[Reporting back from day one of LibrePlanet: Cultivating Community](https://www.fsf.org/blogs/community/reporting-back-from-day-one-of-libreplanet-cultivating-community)
+[The Licensing & Compliance Team, running at full steam for your freedom](https://www.fsf.org/blogs/community/the-licensing-compliance-team-running-at-full-steam-for-your-freedom)
 
 [Recent blogs - More…](https://www.fsf.org/blogs/recent-blog-posts)
 
@@ -151,7 +172,7 @@ Enter your email address to receive our monthly newsletter, the
 
 [Upcoming Events](https://www.fsf.org/events)
 
- [![Event](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Workshop: Free software & legislation: How we win](https://www.fsf.org/events/workshop-free-software-legislation-how-we-win) Jul 01, 2024 12:00 PM - 01:30 PM — online
+ [![Event C source code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Directory meeting on IRC: Friday, July 19, starting at 12:00 EDT (16:00 UTC)](https://www.fsf.org/events/fsd-20240719-irc " Join the FSF and friends on Friday, July 19 from 12:00 to 15:00 EDT (16:00 to 19:00 UTC)  to help improve the Free Software Directory. ") Jul 19, 2024 12:00 PM - 03:00 PM — #fsf on libera.chat
 
 [Previous events…](https://www.fsf.org/events/aggregator/previous)
 
