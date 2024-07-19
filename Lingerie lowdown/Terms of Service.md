@@ -24,8 +24,9 @@
     * [Presenters S – Z](https://www.lingerielowdown.com/browse-by-presenters-s-z/)
     * [Presenter galleries](https://www.lingerielowdown.com/galleries/)
 * Browse by…
-    * [Product categories](https://www.lingerielowdown.com/browse-our-categories/)
+    * [Product categories](https://www.lingerielowdown.com/browse-categories/)
     * [High 5 reviews](https://www.lingerielowdown.com/high-5/)
+    * [Most popular reviews](https://www.lingerielowdown.com/our-most-popular-reviews/)
 * [Log In](https://www.lingerielowdown.com/login/)
 
 [](#)
@@ -99,6 +100,8 @@ To uphold the quality of our community interactions and ensure the safety and co
 * **Privacy and confidentiality**: Respect the privacy of others. Do not share personal information of other members or any confidential information pertaining to Lingerie Lowdown.
 
 Violations of these guidelines may result in the removal of content, suspension of commenting privileges, or in severe cases, termination of membership. We reserve the right to determine what constitutes a violation of these guidelines. We thank our members for their cooperation in maintaining a respectful and enjoyable community. Your participation is essential in making Lingerie Lowdown a welcoming and vibrant space for all.
+
+By joining our community, you confirm you are 18 years of age or above.
 
 ### Disclaimer
 
