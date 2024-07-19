@@ -1,4 +1,4 @@
-![Logo Alura](https://www.alura.com.br/assets/img/alura-logo.1712930780.svg)
+![Logo Alura](https://www.alura.com.br/assets/img/alura-logo.1720710817.svg)
 
 OLÁ, ALUNO! ESSE DOCUMENTO É PARA VOCÊ QUE CONTRATOU A PLATAFORMA ALURA PARA **USO PESSOAL**
 
