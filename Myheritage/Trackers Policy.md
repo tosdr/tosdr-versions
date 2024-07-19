@@ -38,7 +38,6 @@ Photos
 Research
 
 * [Search all records](https://www.myheritage.com/research)
-* [AI Record Finder™](https://www.myheritage.com/research/ai-record-finder)
 * [Collection Catalog](https://www.myheritage.com/research/catalog)
 * [Birth, Marriage & Death](https://www.myheritage.com/research/category-2000/birth-marriage-death)
 * [Census records](https://www.myheritage.com/research/category-1000/census-voter-lists)
@@ -187,7 +186,10 @@ Copyright © 2024 MyHeritage Ltd.
 * [Support](https://www.myheritage.com/help-center "MyHeritage support")
 * [Contact us](https://www.myheritage.com/contact-myheritage?originId=2 "Contact MyHeritage")
 * [Privacy policy](https://www.myheritage.com/privacy-policy "MyHeritage privacy policy")
-* [Terms and conditions](https://www.myheritage.com/terms-and-conditions "MyHeritage terms and conditions")
+* [Terms and conditions](https://www.myheritage.com/terms-and-conditions "MyHeritage terms and conditions") 
+    
+    Updated
+    
 * [Cookie info](# "Cookie info")
 * [Accessibility](https://www.myheritage.com/accessibility "Accessibility")
 * [US State Privacy Notice](https://www.myheritage.com/us-state-privacy-notice "US State Privacy Notice")
