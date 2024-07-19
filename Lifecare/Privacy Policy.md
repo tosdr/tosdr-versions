@@ -2,7 +2,7 @@
 
 Already have LifeCare services? [Sign In](https://lcc30.lifecare.com/index.html) or [Register](https://lcc30.lifecare.com/registration/register1.rtml?e=&textonly=&target_url=&banner=)
 
-[![Care.com + LifeCare](https://www.lifecare.com/wp-content/uploads/2021/03/26163132/CareLifeCare-lockup_Grey.png)
+[![Care.com + LifeCare](https://s46303.pcdn.co/wp-content/uploads/2021/03/26163132/CareLifeCare-lockup_Grey.png)
 
 ![Care.com + LifeCare](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20329%2058%22%3E%3C/svg%3E)](https://www.lifecare.com/)
 
