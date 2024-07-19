@@ -3,11 +3,11 @@ Credit cards
 * Credit cards
 * [View all credit cards](https://www.nerdwallet.com/h/category/credit-cards?trk=nw_gn_6.0)
 
-Best credit cards[Best credit cards](https://www.nerdwallet.com/the-best-credit-cards?trk=nw_gn_6.0)[Best bonus offer credit cards](https://www.nerdwallet.com/best/credit-cards/bonus-offers?trk=nw_gn_6.0)[Best balance transfer credit cards](https://www.nerdwallet.com/best/credit-cards/balance-transfer?trk=nw_gn_6.0)[Best travel credit cards](https://www.nerdwallet.com/best/credit-cards/travel?trk=nw_gn_6.0)[Best cash back credit cards](https://www.nerdwallet.com/best/credit-cards/cash-back?trk=nw_gn_6.0)[Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/low-interest?trk=nw_gn_6.0)[Best rewards credit cards](https://www.nerdwallet.com/best/credit-cards/rewards?trk=nw_gn_6.0)[Best airline credit cards](https://www.nerdwallet.com/best/credit-cards/airline?trk=nw_gn_6.0)[Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)[Best credit cards for groceries](https://www.nerdwallet.com/best/credit-cards/groceries?trk=nw_gn_6.0)
+Best credit cards[Best credit cards](https://www.nerdwallet.com/the-best-credit-cards?trk=nw_gn_6.0)[Best bonus offer credit cards](https://www.nerdwallet.com/best/credit-cards/bonus-offers?trk=nw_gn_6.0)[Best balance transfer credit cards](https://www.nerdwallet.com/best/credit-cards/balance-transfer?trk=nw_gn_6.0)[Best travel credit cards](https://www.nerdwallet.com/best/credit-cards/travel?trk=nw_gn_6.0)[Best cash back credit cards](https://www.nerdwallet.com/best/credit-cards/cash-back?trk=nw_gn_6.0)[Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/zero-percent?trk=nw_gn_6.0)[Best rewards credit cards](https://www.nerdwallet.com/best/credit-cards/rewards?trk=nw_gn_6.0)[Best airline credit cards](https://www.nerdwallet.com/best/credit-cards/airline?trk=nw_gn_6.0)[Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)[Best credit cards for groceries](https://www.nerdwallet.com/best/credit-cards/groceries?trk=nw_gn_6.0)
 
 [Compare credit cards](https://www.nerdwallet.com/compare/credit-cards?trk=nw_gn_6.0)
 
-Get a card recommendation[Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)[Travel rewards and perks](https://www.nerdwallet.com/recommend/primary-goal/travel?trk=nw_gn_6.0)[Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)[Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)[Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)
+Get a card recommendation[Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)[Travel rewards and perks](https://www.nerdwallet.com/recommend/primary-goal/travel?trk=nw_gn_6.0)[Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)[Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)[Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)[Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
 
 [Credit card reviews](https://www.nerdwallet.com/article/credit-cards/credit-card-reviews?trk=nw_gn_6.0)
 
@@ -28,6 +28,8 @@ Resources
 [Managing credit card debt](https://www.nerdwallet.com/h/category/managing-credit-card-debt?trk=nw_gn_6.0)
 
 [Credit card resources](https://www.nerdwallet.com/h/category/credit-card-resources?trk=nw_gn_6.0)
+
+[Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
 
 Banking
 
@@ -54,7 +56,7 @@ Home
 
 Mortgage rates[Today's mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates?trk=nw_gn_6.0)[30 year mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates/30-year-fixed?trk=nw_gn_6.0)[5-year ARM rates](https://www.nerdwallet.com/mortgages/mortgage-rates/5-1-arm?trk=nw_gn_6.0)[3-year ARM rates](https://www.nerdwallet.com/mortgages/mortgage-rates/3-1-arm?trk=nw_gn_6.0)[FHA mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates/fha?trk=nw_gn_6.0)[VA mortgage rates](https://www.nerdwallet.com/mortgages/mortgage-rates/va?trk=nw_gn_6.0)[Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
 
-Best mortgage lenders[Mortgage guide](https://www.nerdwallet.com/h/category/mortgages?trk=nw_gn_6.0)[Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)[Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)[Best lenders for low- and no-down-payment](https://www.nerdwallet.com/best/mortgages/no-and-low-down-payment-lenders?trk=nw_gn_6.0)[Best VA mortgage lenders](https://www.nerdwallet.com/best/mortgages/va-mortgage-lenders?trk=nw_gn_6.0)
+Best mortgage lenders[Mortgage guide](https://www.nerdwallet.com/h/category/mortgages?trk=nw_gn_6.0)[Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)[Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/lenders-for-fha-loans?trk=nw_gn_6.0)[Best lenders for low- and no-down-payment](https://www.nerdwallet.com/best/mortgages/no-and-low-down-payment-lenders?trk=nw_gn_6.0)[Best VA mortgage lenders](https://www.nerdwallet.com/best/mortgages/va-mortgage-lenders?trk=nw_gn_6.0)
 
 Refinance and HELOC[Refinancing and equity guide](https://www.nerdwallet.com/h/category/refinancing-and-equity?trk=nw_gn_6.0)[Today's refinance rates](https://www.nerdwallet.com/mortgages/rates/refinance?trk=nw_gn_6.0)[Best refinance lenders](https://www.nerdwallet.com/best/mortgages/refinance-lenders?trk=nw_gn_6.0)[30-year fixed refinance rates](https://www.nerdwallet.com/mortgages/refinance-rates/30-year-fixed?trk=nw_gn_6.0)[15-year fixed refinance rates](https://www.nerdwallet.com/mortgages/refinance-rates/15-year-fixed?trk=nw_gn_6.0)[Best cash-out refinance lenders](https://www.nerdwallet.com/best/mortgages/cash-out-refinance-lenders?trk=nw_gn_6.0)[Best HELOC Lenders](https://www.nerdwallet.com/best/mortgages/heloc-lenders?trk=nw_gn_6.0)
 
@@ -73,15 +75,15 @@ Loans
 * Loans
 * [Loans guide](https://www.nerdwallet.com/h/category/loans?trk=nw_gn_6.0)
 
-Personal loans[Personal loans guide](https://www.nerdwallet.com/h/category/personal-loans?trk=nw_gn_6.0)[Getting a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/how-to-get-a-personal-loan?trk=nw_gn_6.0)[Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)[Managing a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/manage-personal-loan-payments?trk=nw_gn_6.0)[Personal loan reviews](https://www.nerdwallet.com/h/reviews/personal-loan-reviews?trk=nw_gn_6.0)[Compare top lenders](https://www.nerdwallet.com/personal-loans?trk=nw_gn_6.0)[Pre-qualify for a personal loan](https://www.nerdwallet.com/personal-loans/pre-qualify?trk=nw_gn_6.0)[Personal loan calculator](https://www.nerdwallet.com/calculator/personal-loan-calculator?trk=nw_gn_6.0)
+Personal loans[Personal loans guide](https://www.nerdwallet.com/h/category/personal-loans?trk=nw_gn_6.0)[Getting a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/how-to-get-a-personal-loan?trk=nw_gn_6.0)[Payday Loan Alternatives](https://www.nerdwallet.com/p/loans/personal-loans/alternatives-to-payday-loans?trk=nw_gn_6.0)[Managing a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/manage-personal-loan-payments?trk=nw_gn_6.0)[Personal loan reviews](https://www.nerdwallet.com/h/reviews/personal-loan-reviews?trk=nw_gn_6.0)[Compare top lenders](https://www.nerdwallet.com/personal-loans?trk=nw_gn_6.0)[Pre-qualify for a personal loan](https://www.nerdwallet.com/personal-loans/pre-qualify?trk=nw_gn_6.0)[Personal loan calculator](https://www.nerdwallet.com/calculator/personal-loan-calculator?trk=nw_gn_6.0)
 
 Types of personal loans
 
-[Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/consolidation-loans?trk=nw_gn_6.0)
+[Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans?trk=nw_gn_6.0)
 
 [Best personal loans](https://www.nerdwallet.com/best/loans/personal-loans/best-personal-loans?trk=nw_gn_6.0)
 
-[High interest loan alternatives](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
+[Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
 
 [Best quick cash loans](https://www.nerdwallet.com/best/loans/personal-loans/quick-personal-loans-fast-cash?trk=nw_gn_6.0)
 
@@ -197,7 +199,7 @@ Taxes
 
 [Tax strategy and planning](https://www.nerdwallet.com/h/category/tax-strategy-planning?trk=nw_gn_6.0)
 
-Tax preparation and filing[View all tax preparation and filing](https://www.nerdwallet.com/h/category/tax-preparation-filing?trk=nw_gn_6.0)[Tax credits and deductions](https://www.nerdwallet.com/h/category/tax-credits-deductions?trk=nw_gn_6.0)[Tax forms](https://www.nerdwallet.com/h/category/tax-forms?trk=nw_gn_6.0)[Tax software and products](https://www.nerdwallet.com/h/category/tax-software-products?trk=nw_gn_6.0)[Tax preparation basics](https://www.nerdwallet.com/h/category/tax-preparation-basics?trk=nw_gn_6.0)[NerdWallet tax filing](https://www.nerdwallet.com/p/file-taxes-online?trk=nw_gn_6.0)
+Tax preparation and filing[View all tax preparation and filing](https://www.nerdwallet.com/h/category/tax-preparation-filing?trk=nw_gn_6.0)[Tax credits and deductions](https://www.nerdwallet.com/h/category/tax-credits-deductions?trk=nw_gn_6.0)[Tax forms](https://www.nerdwallet.com/h/category/tax-forms?trk=nw_gn_6.0)[Tax software and products](https://www.nerdwallet.com/p/best/taxes/tax-software?trk=nw_gn_6.0)[Tax preparation basics](https://www.nerdwallet.com/h/category/tax-preparation-basics?trk=nw_gn_6.0)[NerdWallet tax filing](https://www.nerdwallet.com/p/file-taxes-online?trk=nw_gn_6.0)
 
 [Tax brackets and rates](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets?trk=nw_gn_6.0)
 
@@ -221,6 +223,8 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
         
     * Guides and resources
         
+    * [Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
+        
     * [View all credit cards](https://www.nerdwallet.com/h/category/credit-cards?trk=nw_gn_6.0)
         
     
@@ -229,7 +233,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Best balance transfer credit cards](https://www.nerdwallet.com/best/credit-cards/balance-transfer?trk=nw_gn_6.0)
     * [Best travel credit cards](https://www.nerdwallet.com/best/credit-cards/travel?trk=nw_gn_6.0)
     * [Best cash back credit cards](https://www.nerdwallet.com/best/credit-cards/cash-back?trk=nw_gn_6.0)
-    * [Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/low-interest?trk=nw_gn_6.0)
+    * [Best 0% APR credit cards](https://www.nerdwallet.com/best/credit-cards/zero-percent?trk=nw_gn_6.0)
     * [Best rewards credit cards](https://www.nerdwallet.com/best/credit-cards/rewards?trk=nw_gn_6.0)
     * [Best airline credit cards](https://www.nerdwallet.com/best/credit-cards/airline?trk=nw_gn_6.0)
     * [Best college student credit cards](https://www.nerdwallet.com/best/credit-cards/college-student?trk=nw_gn_6.0)
@@ -239,6 +243,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Earn cash back](https://www.nerdwallet.com/recommend/primary-goal/cash-back?trk=nw_gn_6.0)
     * [Pay down debt](https://www.nerdwallet.com/recommend/primary-goal/debt?trk=nw_gn_6.0)
     * [Make a big purchase](https://www.nerdwallet.com/recommend/primary-goal/big-purchase?trk=nw_gn_6.0)
+    * [Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
     * [Card recommendation guide](https://www.nerdwallet.com/card-finder-jump?trk=nw_gn_6.0)
     
     * [Balance transfer savings calculator](https://www.nerdwallet.com/article/credit-cards/balance-transfer-calculator?trk=nw_gn_6.0)
@@ -337,7 +342,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * [Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
     
     * [Best mortgage lenders](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
-    * [Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/mortgage-lenders?trk=nw_gn_6.0)
+    * [Best lenders for FHA loans](https://www.nerdwallet.com/best/mortgages/lenders-for-fha-loans?trk=nw_gn_6.0)
     * [Best lenders for low- and no-down-payment](https://www.nerdwallet.com/best/mortgages/no-and-low-down-payment-lenders?trk=nw_gn_6.0)
     * [Best VA mortgage lenders](https://www.nerdwallet.com/best/mortgages/va-mortgage-lenders?trk=nw_gn_6.0)
     * [Mortgage guide](https://www.nerdwallet.com/h/category/mortgages?trk=nw_gn_6.0)
@@ -387,7 +392,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
         
     
     * [Getting a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/how-to-get-a-personal-loan?trk=nw_gn_6.0)
-    * [Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
+    * [Payday Loan Alternatives](https://www.nerdwallet.com/p/loans/personal-loans/alternatives-to-payday-loans?trk=nw_gn_6.0)
     * [Managing a personal loan](https://www.nerdwallet.com/article/loans/personal-loans/manage-personal-loan-payments?trk=nw_gn_6.0)
     * [Personal loan reviews](https://www.nerdwallet.com/h/reviews/personal-loan-reviews?trk=nw_gn_6.0)
     * [Compare top lenders](https://www.nerdwallet.com/personal-loans?trk=nw_gn_6.0)
@@ -411,9 +416,9 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     
     Types of personal loans
     
-    * [Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/consolidation-loans?trk=nw_gn_6.0)
+    * [Debt consolidation loans](https://www.nerdwallet.com/best/loans/personal-loans/debt-consolidation-loans?trk=nw_gn_6.0)
     * [Best personal loans](https://www.nerdwallet.com/best/loans/personal-loans/best-personal-loans?trk=nw_gn_6.0)
-    * [High interest loan alternatives](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
+    * [Loans for bad credit](https://www.nerdwallet.com/best/loans/personal-loans/best-bad-credit-loans?trk=nw_gn_6.0)
     * [Best quick cash loans](https://www.nerdwallet.com/best/loans/personal-loans/quick-personal-loans-fast-cash?trk=nw_gn_6.0)
     * [Best emergency loans](https://www.nerdwallet.com/best/loans/personal-loans/emergency-loans?trk=nw_gn_6.0)
     * [Best home improvement loans](https://www.nerdwallet.com/best/loans/personal-loans/personal-loans-home-improvement?trk=nw_gn_6.0)
@@ -632,7 +637,7 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     
     * [Tax credits and deductions](https://www.nerdwallet.com/h/category/tax-credits-deductions?trk=nw_gn_6.0)
     * [Tax forms](https://www.nerdwallet.com/h/category/tax-forms?trk=nw_gn_6.0)
-    * [Tax software and products](https://www.nerdwallet.com/h/category/tax-software-products?trk=nw_gn_6.0)
+    * [Tax software and products](https://www.nerdwallet.com/p/best/taxes/tax-software?trk=nw_gn_6.0)
     * [Tax preparation basics](https://www.nerdwallet.com/h/category/tax-preparation-basics?trk=nw_gn_6.0)
     * [NerdWallet tax filing](https://www.nerdwallet.com/p/file-taxes-online?trk=nw_gn_6.0)
     * [View all tax preparation and filing](https://www.nerdwallet.com/h/category/tax-preparation-filing?trk=nw_gn_6.0)
