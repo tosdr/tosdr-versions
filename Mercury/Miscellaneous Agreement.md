@@ -1,4 +1,4 @@
-[MERCURY](https://mercury.com/)
+[](https://mercury.com/)
 
 [Log In](https://app.mercury.com/login)[Open Account](https://app.mercury.com/signup)
 
@@ -140,4 +140,4 @@ Follow us
 
 [Twitter](https://twitter.com/mercury)[AngelList](https://angel.co/mercury)[LinkedIn](https://www.linkedin.com/company/mercuryhq)[YouTube](https://www.youtube.com/c/mercuryfi)
 
-\*Mercury is a fintech company, [not an FDIC-insured bank](https://mercury.com/how-mercury-works). Banking services provided by Choice Financial Group and Evolve Bank & Trust ®️; Members FDIC. Deposit insurance covers the failure of an insured bank.
+\*Mercury is a fintech company, [not an FDIC-insured bank](https://mercury.com/how-mercury-works). Banking services provided by Choice Financial Group and Evolve Bank & Trust®; Members FDIC. Deposit insurance covers the failure of an insured bank.
