@@ -107,55 +107,7 @@ Root account password: osboxes.org
 
   
 
-### Recent Posts
-
-[![Arch Linux](https://www.osboxes.org/wp-content/uploads/2014/09/arch-linux.jpg)](https://www.osboxes.org/arch-linux-20240601-cli-and-xfce-images-available-for-virtualbox-and-vmware/)
-
-##### [Arch Linux 20240601 CLI and XFCE Images Available for VirtualBox and VMware](https://www.osboxes.org/arch-linux-20240601-cli-and-xfce-images-available-for-virtualbox-and-vmware/)
-
-14-06-2024
-
-[![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/ubuntu-studio-and-xubuntu-24-04-vm-images-available/)
-
-##### [Ubuntu Studio and Xubuntu 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/ubuntu-studio-and-xubuntu-24-04-vm-images-available/)
-
-14-06-2024
-
-[![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/ubuntu-budgie-and-ubuntu-mate-24-04-vm-images-available/)
-
-##### [Ubuntu Budgie and Ubuntu Mate 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/ubuntu-budgie-and-ubuntu-mate-24-04-vm-images-available/)
-
-14-06-2024
-
-[![ubuntu flavors](https://www.osboxes.org/wp-content/uploads/2016/04/ubuntu-flavors-85x85.jpg)](https://www.osboxes.org/kubuntu-and-lubuntu-24-04-vm-images-for-virtualbox-and-vmware/)
-
-##### [Kubuntu and Lubuntu 24.04 VM Images for VirtualBox and VMware](https://www.osboxes.org/kubuntu-and-lubuntu-24-04-vm-images-for-virtualbox-and-vmware/)
-
-09-06-2024
-
-[![parrot os](https://www.osboxes.org/wp-content/uploads/2017/01/Parrot-security-os-desktop-85x85.jpg)](https://www.osboxes.org/parrot-security-os-6-1-images-released-for-virtualbox-and-vmware/)
-
-##### [Parrot Security OS 6.1 Images Released for VirtualBox and VMware](https://www.osboxes.org/parrot-security-os-6-1-images-released-for-virtualbox-and-vmware/)
-
-08-06-2024
-
-[![linux lite 4](https://www.osboxes.org/wp-content/uploads/2018/09/linux-lite-4-85x85.jpg)](https://www.osboxes.org/linux-lite-7-0-virtual-machine-images-available-for-virtualbox-and-vmware/)
-
-##### [Linux Lite 7.0 Virtual Machine Images Available for VirtualBox and VMware](https://www.osboxes.org/linux-lite-7-0-virtual-machine-images-available-for-virtualbox-and-vmware/)
-
-06-06-2024
-
 Get in Touch!
-
-### Follow us
-
-[Facebook](https://www.facebook.com/osboxes "Facebook") [Twitter](https://twitter.com/osboxes "Twitter") [RSS](http://feeds.feedburner.com/osboxes "RSS")
-
-### Links
-
-Tutorials for:  
-   [Ubuntu/Linux Mint](https://www.noobslab.com/)  
-   [IfCodeX - A Programming Project](https://www.ifcodex.com/)
 
 ### Acknowledgements
 
