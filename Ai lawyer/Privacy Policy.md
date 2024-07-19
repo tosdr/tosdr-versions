@@ -1,6 +1,4 @@
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
 [FAQ](https://ailawyer.pro/faq)
 
@@ -14,17 +12,11 @@
 
 [##### Try for Free](https://app.ailawyer.pro/login)
 
-[lawyer
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
-
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
 [FAQ](https://ailawyer.pro/faq)
 
@@ -141,9 +133,7 @@ Can’t find the answer you’re looking for?Please chat to our friendly team!
 
 [##### Get in touch](https://ailawyer.pro/contact)
 
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
 ##### Company
 
@@ -179,9 +169,7 @@ Can’t find the answer you’re looking for?Please chat to our friendly team!
 
 [](https://twitter.com/ailawyerapp)[](https://www.tiktok.com/@ailawyerapp)[](https://www.youtube.com/@ailawyerapp)[](https://www.instagram.com/ailawyerapp/)[](https://www.facebook.com/people/AI-Lawyer/100090736957924/?mibextid=LQQJ4d)[](https://medium.com/@ailawyerapp)[](https://www.pinterest.com/ailawyerapp/)
 
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
 ##### Company
 
@@ -217,9 +205,7 @@ Can’t find the answer you’re looking for?Please chat to our friendly team!
 
 [](https://twitter.com/ailawyerapp)[](https://www.tiktok.com/@ailawyerapp)[](https://www.youtube.com/@ailawyerapp)[](https://www.instagram.com/ailawyerapp/)[](https://www.facebook.com/people/AI-Lawyer/100090736957924/?mibextid=LQQJ4d)[](https://medium.com/@ailawyerapp)[](https://www.pinterest.com/ailawyerapp/)
 
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
 ##### Company
 
@@ -255,9 +241,7 @@ Can’t find the answer you’re looking for?Please chat to our friendly team!
 
 [](https://twitter.com/ailawyerapp)[](https://www.tiktok.com/@ailawyerapp)[](https://www.youtube.com/@ailawyerapp)[](https://www.instagram.com/ailawyerapp/)[](https://www.facebook.com/people/AI-Lawyer/100090736957924/?mibextid=LQQJ4d)[](https://medium.com/@ailawyerapp)[](https://www.pinterest.com/ailawyerapp/)
 
-[lawyer
-
-![AI Lawyer logo](https://framerusercontent.com/images/LvzWXeOKQdmc9M0ZkQoDU3Z76s.svg)](https://ailawyer.pro/)
+[![AI Lawyer logo](https://framerusercontent.com/images/9s7xCxVbyxU7bDKz9QYjAybc4f8.svg?scale-down-to=512)](https://ailawyer.pro/)
 
 ##### Company
 
