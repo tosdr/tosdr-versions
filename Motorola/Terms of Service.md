@@ -9,7 +9,6 @@
     * [* Motorola Razr](https://www.motorola.com/us/smartphones-razr-family "Motorola Razr")
     * [* Motorola Edge](https://www.motorola.com/us/smartphones-motorola-edge-family "Motorola Edge")
     * [* Moto G](https://www.motorola.com/us/smartphones-moto-g-family "Moto G")
-    * [* ThinkPhone](https://www.motorola.com/us/smartphones-thinkphone/p "ThinkPhone")
     * [* All Smartphones](https://www.motorola.com/us/smartphones "All Smartphones")
     * [* Compatibility](https://www.motorola.com/us/carrier-compatibility "Compatibility")
     * [* 5G](https://www.motorola.com/us/smartphones-5g "5G")
@@ -20,9 +19,10 @@
     
     Compare
     
-    * [* moto g stylus 5g - Free tablet](https://www.motorola.com/us/smartphones-moto-g-stylus-5g-gen-3/p?skuId=935 "moto g stylus 5g - Free tablet")
-    * [* razr 2023 - $250 of](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $250 of")
-    * [* STAR SPANGLED SALE](https://www.motorola.com/us/specials "STAR SPANGLED SALE")
+    * [* moto g stylus 5g - $170 off](https://www.motorola.com/us/smartphones-moto-g-stylus-5g-gen-3/p?skuId=935 "moto g stylus 5g - $170 off")
+    * [* razr 2023 - $300 of](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $300 of")
+    * [* moto edge 2023 - $300 off](https://www.motorola.com/us/smartphones-motorola-edge-gen-4/p?skuId=1001 "moto edge 2023 - $300 off")
+    * [* RAZR ANNIVERSARY SALE](https://www.motorola.com/us/specials "RAZR ANNIVERSARY SALE")
     * [* Compare phones](https://www.motorola.com/us/compare-smartphones "Compare phones")
     * [* Tablet](https://www.motorola.com/us/lenovo-tab-p11/p "Tablet")
     * [](#)
@@ -34,7 +34,6 @@
     Compare
     
     * [* Moto for Business](https://www.motorola.com/us/business "Moto for Business")
-    * [* $300 off ThinkPhone](https://www.motorola.com/us/smartphones-thinkphone/p "$300 off ThinkPhone")
     * [* ThinkShield](https://www.motorola.com/us/thinkshield/p "ThinkShield")
     
 * Accessories
@@ -48,7 +47,6 @@
     * [* Headphones](https://www.motorola.com/us/headphones "Headphones")
     * [* Wearables](https://www.motorola.com/us/wearables "Wearables")
     * [* Power & Charging](https://www.motorola.com/us/power-and-charger "Power & Charging")
-    * [* Satellite Link](https://www.motorola.com/us/motorola-defy-satellite-link/p "Satellite Link")
     * [](#)
     * [* Auto accessories](https://www.motorola.com/us/auto-accessories "Auto accessories")
     
