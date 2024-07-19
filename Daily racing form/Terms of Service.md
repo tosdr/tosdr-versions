@@ -52,6 +52,7 @@ DRF.com News Search
 * Horse Racing Events
     * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
     * [Del Mar](https://www.drf.com/horse-racing-tracks/del-mar)
+    * [Kings Plate](https://www.drf.com/kings-plate)
     * [More](https://www.drf.com/race-entries)
 * Horse Racing News
     * [Race of the Day](https://www.drf.com/race-of-the-day)
@@ -61,11 +62,10 @@ DRF.com News Search
     * [Breeding](https://www.drf.com/breeding)
     * [More](https://www.drf.com/news/all-news)
 * Tracks
-    * [Belmont at the Big A](https://www.drf.com/horse-racing-tracks/belmont-at-the-big-a)
-    * [Churchill Downs](https://www.drf.com/horse-racing-tracks/churchill-downs)
+    * [Del Mar](https://www.drf.com/horse-racing-tracks/del-mar)
     * [Gulfstream Park](https://www.drf.com/horse-racing-tracks/gulfstream-park)
-    * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
     * [Monmouth Park](https://www.drf.com/horse-racing-tracks/monmouth-park)
+    * [Saratoga](https://www.drf.com/horse-racing-tracks/saratoga)
     * [Woodbine](https://www.drf.com/horse-racing-tracks/woodbine)
 * Handicapping & PPs
     * [DRF Classic PPs](https://www.drf.com/classic-pp)
