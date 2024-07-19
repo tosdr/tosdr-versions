@@ -18,7 +18,7 @@
 
 [Log in](https://www.fitatu.com/app/login)
 
-![flag](/_nuxt/img/en.c5ad5c1.png) DeutschEnglishEspañolFrançaisItalianoNederlandsPolski
+![flag](/img/flags/en.png)DeutschEnglishEspañolFrançaisItalianoNederlandsPolski
 
 [](https://www.fitatu.com/app/order-and-payment)
 
@@ -91,7 +91,7 @@
     11. Lodge a complaint with the supervisory authority (i.e. the President of the Office for the Protection of Personal Data) referred to in Article 77 GDPR.
 14. If you wish to exercise your rights referred to in the preceding point, send a message by email to the email address or in writing to the postal address referred to in point 2 above.
 15. Each identified security breach shall be documented and, in the event of one of the situations set out in the provisions GDPR or the Act, the data subjects and, if applicable, the PUODO shall be informed of such security breach.
-16. The Cookies Policy is a separate document at: [here](https://www.fitatu.com/en/cookies-policy)
+16. The Cookies Policy is a separate document at: [here](https://www.fitatu.com/cookies-policy)
 17. Fitatu sp. z o.o. respects the rights of its users and respects the legislation on the protection of personal data, and has therefore implemented appropriate safeguards and technical and organisational measures to ensure the highest level of protection. Fitatu is committed to maintaining data security and confidentiality. All our employees have been properly trained in the processing of personal data. We have data protection procedures and policies in place in accordance with the GDPR to ensure the lawfulness and fairness of our data processing processes, as well as the enforceability of any rights you may have. Additionally, if necessary, we cooperate with the supervisory authority in the Republic of Poland, i.e. the President of the Office for Personal Data Protection.
 18. In matters not governed by this Privacy Policy, the relevant provisions of generally applicable law shall apply accordingly. In the event of any inconsistency between the provisions of this Privacy Policy and the said regulations, these regulations shall prevail.
 
@@ -115,6 +115,7 @@
 * [Privacy policy](https://www.fitatu.com/en/privacy-policy)
 * [Cookie policy](https://www.fitatu.com/en/cookies-policy)
 * [Contact](https://www.fitatu.com/en/contact)
+* Manage cookies
 
 [](https://www.facebook.com/FitatuUK)
 
@@ -128,8 +129,8 @@
 
 © Fitatu 2024. All rights reserved
 
-![](/_nuxt/img/en_GB.f827643.jpg)
+![](/img/footer/intelligent/en_GB.jpg)
 
 Donations for innovations
 
-![](/_nuxt/img/en_GB.cfd06ba.jpg)
+![](/img/footer/regional/en_GB.jpg)
