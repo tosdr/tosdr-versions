@@ -1,10 +1,8 @@
-![hidden overlay](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)
-
-[Skip to main content](#main-content)
-
-Call Us Today - It's Free!+18776674265
+![hidden overlay](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+) [Skip to main content](#main-content)
 
 [](https://www.forthepeople.com/)
+
+##### Main navigation
 
 * Locations
     * Alabama
@@ -42,11 +40,10 @@ Call Us Today - It's Free!+18776674265
         * [Ocala](https://www.forthepeople.com/office-locations/florida/ocala/)
         * [Orange Park](https://www.forthepeople.com/office-locations/florida/orange-park/)
         * [Orlando](https://www.forthepeople.com/office-locations/florida/orlando/)
-        * [Orlando: Pine Hills](https://www.forthepeople.com/office-locations/florida/orlando-pine-hills/)
-        * [Orlando: South Semoran](https://www.forthepeople.com/office-locations/florida/orlando-south-semoran/)
         * [Palm Harbor](https://www.forthepeople.com/office-locations/florida/palm-harbor/)
         * [Panama City](https://www.forthepeople.com/office-locations/florida/panama-city/)
         * [Pensacola](https://www.forthepeople.com/office-locations/florida/pensacola/)
+        * [Port St. Lucie](https://www.forthepeople.com/office-locations/florida/port-st-lucie/)
         * [Sarasota](https://www.forthepeople.com/office-locations/florida/sarasota/)
         * [Spring Hill](https://www.forthepeople.com/office-locations/florida/spring-hill/)
         * [St. Augustine](https://www.forthepeople.com/office-locations/florida/st-augustine/)
@@ -71,11 +68,11 @@ Call Us Today - It's Free!+18776674265
     * [Hawaii](https://www.forthepeople.com/office-locations/hawaii/honolulu/)
     * [Idaho](https://www.forthepeople.com/office-locations/idaho/boise/)
     * [Illinois](https://www.forthepeople.com/office-locations/illinois/chicago/)
+    * [Iowa](https://www.forthepeople.com/office-locations/iowa/des-moines/)
+    * [Kansas](https://www.forthepeople.com/office-locations/kansas/wichita/)
     * Indiana
         * [Indianapolis](https://www.forthepeople.com/office-locations/indiana/indianapolis/)
         * [New Albany](https://www.forthepeople.com/office-locations/indiana/new-albany/)
-    * [Iowa](https://www.forthepeople.com/office-locations/iowa/des-moines/)
-    * [Kansas](https://www.forthepeople.com/office-locations/kansas/wichita/)
     * Kentucky
         * [Bowling Green](https://www.forthepeople.com/office-locations/kentucky/bowling-green/)
         * [Covington](https://www.forthepeople.com/office-locations/kentucky/covington/)
@@ -146,20 +143,6 @@ Call Us Today - It's Free!+18776674265
     * [Wyoming](https://www.forthepeople.com/office-locations/wyoming/cheyenne/)
     * [View All Locations](https://www.forthepeople.com/office-locations/)
 * Practice Areas
-    * Car Accidents
-        * [Car Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/)
-        * [Motorcycle Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/motorcycle-accident-attorneys/)
-        * [Truck Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/trucking-accident-attorneys/)
-        * [Bike Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/bike-accidents/)
-        * [Train & Railroad Accidents](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/train-accident-attorneys/)
-        * [Plane Crashes](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/aviation-attorneys/)
-        * [Cruise Ship Injuries](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/maritime-admiralty-attorneys/cruise-ship/)
-        * [Helicopter Crashes](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/aviation-attorneys/helicopter-crash-attorney/)
-        * [Tesla Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/tesla/fires/)
-        * [Scooter Fires](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/scooter-accident-lawyers/)
-        * [Golf Cart Wrecks](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/golf-cart-accident-lawyers/)
-        * [Pedestrian Accidents](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/pedestrian-accidents/)
-        * [ATV Accidents](https://www.forthepeople.com/practice-areas/product-liability-attorneys/atv/)
     * Personal Injury
         * [Personal Injury](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/)
         * [Auto Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/)
@@ -172,6 +155,7 @@ Call Us Today - It's Free!+18776674265
         * [Bus Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/bus-accidents/)
         * [Cell Tower Accidents](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/cell-tower-accident-lawyers/)
         * [Child Sexual Abuse](https://www.forthepeople.com/practice-areas/child-sexual-abuse/)
+        * [Cruise Ship Injuries](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/maritime-admiralty-attorneys/cruise-ship/)
         * [Dog Bite](https://www.forthepeople.com/practice-areas/slip-and-fall-attorneys/dog-bite-lawyers/)
         * [Motorcycle Accident](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/motorcycle-accident-attorneys/)
         * [Sexual Assault](https://www.forthepeople.com/practice-areas/sexual-assault-lawyers/)
@@ -215,12 +199,6 @@ Call Us Today - It's Free!+18776674265
         * [Sick and Fired](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/sick-and-fired/)
         * [Teenager Summer Job Safety](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/teenager-summer-job-safety/)
         * [Pacesetter Personnel Services Lawsuit](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/pacesetter-personnel-services-lawsuit/)
-    * Business Litigation
-        * [Accounting Malpractice](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/accounting-malpractice/)
-        * [Breach of Contract](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/breach-of-contract/)
-        * [Construction Litigation](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/construction-litigation/)
-        * [Professional Malpractice](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/professional-malpractice/)
-        * [Unpaid Commissions](https://www.forthepeople.com/practice-areas/business-litigation-lawyers/unpaid-commissions/)
     * Civil Rights
         * [Civil Rights & Liberties](https://www.forthepeople.com/practice-areas/civil-rights-lawyers/)
         * [Jail Injury](https://www.forthepeople.com/practice-areas/civil-rights-lawyers/jail-injury-lawyers/)
@@ -234,24 +212,19 @@ Call Us Today - It's Free!+18776674265
         * [Insurance Company Data Breach Attorneys](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/insurance-company-data-breach-attorneys/)
     * Dangerous Drugs
         * [Dangerous Drugs](https://www.forthepeople.com/practice-areas/dangerous-drug-lawyers/)
-        * [Eye Drops](https://www.forthepeople.com/practice-areas/defective-product-lawyers/ezricare-eye-drops-recall/)
         * [Gardasil](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/gardasil-lawsuit/)
         * [Tepezza](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/tepezza-lawsuit/)
         * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
     * [Data Breach](https://www.forthepeople.com/practice-areas/data-privacy-attorneys/)
     * Defective Products
         * [Exploding Airbags](https://www.forthepeople.com/practice-areas/defective-product-lawyers/exploding-airbags/)
-        * [Faulty ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
-        * [Abbott Baby Formula Recall](https://www.forthepeople.com/practice-areas/defective-product-lawyers/abbott-baby-formula-recall/)
         * [ARC Airbags](https://www.forthepeople.com/practice-areas/product-liability-attorneys/faulty-arc-airbags/)
-        * [Exactech Knee and Ankle Replacement](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/exactech-knee-and-ankle-replacement-recall/)
         * [Hair Relaxer](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/hair-relaxer-lawsuit/)
         * [NEC Baby Formula](https://www.forthepeople.com/practice-areas/defective-product-lawyers/toxic-baby-formula/)
         * [One-Wheel Skateboard](https://www.forthepeople.com/practice-areas/defective-product-lawyers/one-wheel-skateboard/)
         * [Boppy Pillows](https://www.forthepeople.com/practice-areas/defective-product-lawyers/boppy-pillow/)
         * [Instant Pot](https://www.forthepeople.com/practice-areas/product-liability-attorneys/instant-pot-lawsuit/)
         * [Paraquat](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
-        * [Juul](https://www.forthepeople.com/practice-areas/defective-product-lawyers/juul-lawsuit/)
         * [Takata](https://www.forthepeople.com/practice-areas/defective-product-lawyers/takata-airbag-recall/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
         * [View All](https://www.forthepeople.com/practice-areas/defective-product-lawyers/)
@@ -268,7 +241,6 @@ Call Us Today - It's Free!+18776674265
         * [Hurricane & Storm Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/hurricane-insurance-claim-dispute-assistance/)
         * [Life Insurance Benefits](https://www.forthepeople.com/practice-areas/insurance-attorney/life-insurance-benefits/)
         * [Lightning Damage](https://www.forthepeople.com/practice-areas/insurance-attorney/lightning-damage-insurance/)
-        * [Long-Term Disability](https://www.forthepeople.com/practice-areas/insurance-attorney/long-term-disability-insurance/)
         * [Motor Vehicles](https://www.forthepeople.com/practice-areas/insurance-attorney/car-insurance-disputes/)
         * [PIP Claims](https://www.forthepeople.com/office-locations/florida/auto-accident-attorneys/florida-pip-insurance/)
         * [Sinkholes](https://www.forthepeople.com/practice-areas/insurance-attorney/sinkholes/)
@@ -277,21 +249,19 @@ Call Us Today - It's Free!+18776674265
     * Mass Arbitration
         * [Video Streaming](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/video-privacy-violation-claim/)
         * [Mass Arbitration](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/)
-        * [Weight Loss Drug](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/)
-        * [Arise Virtual Solutions Lawsuit](https://www.forthepeople.com/practice-areas/mass-arbitration-lawsuits/arise-virtual-solutions-lawsuit/employee-misclassification-lawsuit/)
+        * [Arise Virtual Solutions Lawsuit](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
     * Mass Tort
         * [Maui Wildfire](https://www.forthepeople.com/practice-areas/insurance-attorney/wildfire-lawyers/maui-wildfire-attorneys/)
-        * [Camp Lejeune](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/camp-lejeune-toxic-water-lawsuit/)
         * [Hair Relaxer](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/hair-relaxer-lawsuit/)
         * [Social Media Harm](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/social-media-harm/)
         * [Exactech Knee and Ankle Replacement](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/exactech-knee-and-ankle-replacement-recall/)
         * [Paraquat](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/paraquat-lawsuit/)
         * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
+        * [Talcum Powder](https://www.forthepeople.com/practice-areas/defective-product-lawyers/talcum-powder-ovarian-cancer/)
     * [Mesothelioma](https://www.forthepeople.com/practice-areas/mesothelioma-attorneys/)
     * [Sexual Abuse](https://www.forthepeople.com/practice-areas/child-sexual-abuse/)
     * [Social Security Disability](https://www.forthepeople.com/practice-areas/social-security-disability-attorney/)
     * Toxics and Environmental
-        * [Toxics and Environmental](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/)
         * [Benzene](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/benzene/)
         * [California Oil Spill](https://www.forthepeople.com/office-locations/california/toxic-tort-environmental-lawyer/california-oil-spill/)
         * [Citizen Suits](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/citizen-suits/)
@@ -304,13 +274,14 @@ Call Us Today - It's Free!+18776674265
         * [Lead Smelting](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/lead-smelting/)
         * [Medical Monitoring](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/medical-monitoring/)
         * [Ohio Railroad Disaster](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/east-palestine-train-lawsuit/)
-        * [PFAS Contamination and Exposure](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/pfas-contamination-exposure-lawsuits/)
+        * [PFAS Contamination and Exposure](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/personal-injury/)
         * [Personal Injury](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/personal-injury/)
         * [Petroleum](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/petroleum/)
         * [Property Damage](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/property-damage/)
         * [Soil Contamination](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/soil-contamination/)
         * [Solvent Exposure](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/solvent-exposure/)
         * [Toxic Emissions](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/toxic-emissions/)
+        * [Toxics and Environmental](https://www.forthepeople.com/practice-areas/toxic-tort-environmental-lawyer/)
         * [AFFF](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/afff-lawsuit/)
     * [Veteran Benefits Denied](https://www.forthepeople.com/practice-areas/veterans-benefits/)
     * [Whistleblower & Qui Tam](https://www.forthepeople.com/practice-areas/whistleblower-qui-tam-lawyers/)
@@ -325,7 +296,7 @@ Call Us Today - It's Free!+18776674265
     * [FAQ](https://www.forthepeople.com/faq/)
     * [In the Media](https://www.forthepeople.com/in-the-media/)
     * [Pound Law](https://www.forthepeople.com/pound-law/)
-    * [Referrals](https://www.forthepeople.com/attorney-referrals/)
+    * [Referrals](https://www.themorganconnection.com/about)
     * [TV Commercials](https://www.forthepeople.com/commercials/)
     * Careers
         * [Employment Opportunities](https://www.forthepeople.com/employment/)
@@ -336,19 +307,19 @@ Call Us Today - It's Free!+18776674265
 * [Our Results](https://www.forthepeople.com/verdicts-and-settlements/)
 * [Contact](https://www.forthepeople.com/free-case-evaluation/)
 
-+18776674265 Call Now - Open 24/7 877 667 4265
-
 Popular Topics
 
-* [Orlando Office](https://www.forthepeople.com/search-solr?query=Orlando%20Office)
-* [Car Accidents](https://www.forthepeople.com/search-solr?query=Car%20Accidents)
-* [Mesothelioma](https://www.forthepeople.com/search-solr?query=Mesothelioma)
-* [Bus Accidents](https://www.forthepeople.com/search-solr?query=Bus%20Accidents)
-* [Workplace](https://www.forthepeople.com/search-solr?query=Workplace)
-* [Matt Morgan](https://www.forthepeople.com/search-solr?query=Matt%20Morgan)
-* [Personal Injury](https://www.forthepeople.com/search-solr?query=Personal%20Injury)
-* [Social Security](https://www.forthepeople.com/search-solr?query=Social%20Security)
-* [Medical Malpractice](https://www.forthepeople.com/search-solr?query=Medical%20Malpractice)
+* [Orlando Office](https://www.forthepeople.com/search?query=Orlando%20Office)
+* [Car Accidents](https://www.forthepeople.com/search?query=Car%20Accidents)
+* [Mesothelioma](https://www.forthepeople.com/search?query=Mesothelioma)
+* [Bus Accidents](https://www.forthepeople.com/search?query=Bus%20Accidents)
+* [Workplace](https://www.forthepeople.com/search?query=Workplace)
+* [Matt Morgan](https://www.forthepeople.com/search?query=Matt%20Morgan)
+* [Personal Injury](https://www.forthepeople.com/search?query=Personal%20Injury)
+* [Social Security](https://www.forthepeople.com/search?query=Social%20Security)
+* [Medical Malpractice](https://www.forthepeople.com/search?query=Medical%20Malpractice)
+
+877-667-4265 Call Now - Open 24/7 877-667-4265
 
 MORGAN & MORGAN, P.A. PRIVACY POLICY
 ====================================
@@ -374,21 +345,22 @@ The types of personal information we collect will depend on the services you req
 | **J. Education Information** | **Education records**, such as transcripts or education history. |
 | **K. Inferences Drawn from Personal Information** | **Profiles** reflecting preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes. |
 
- 
-
 We may collect the categories of personal information described above from the following sources:
 
 * **Personal Information You Provide Us.** We collect the personal information that you provide to us while using our Platform, including contacting us, creating an account, applying for a position, or otherwise. Further, where expressly designated by MM, some portions of the Services may be used by active MM clients to communicate pursuant to an attorney/client relationship. You may choose whether or not to provide such information; however, the information may be required to respond to your request.
 * **Personal Information Collected Automatically.** We and our third party providers may use cookies and other technologies such as log files, cookies, tracking pixels, and analytic tools and services to collect personal information automatically about you. Such information includes your geolocation and the online identifiers, device information, and online activity information described above.
 * To facilitate the automatic collection described above, we may use the following technologies:
-    * **Cookies.** A cookie is a small piece of data stored by your web browser on your computer or mobile device. We use cookies to collect information from you regarding your usage of the Platform in order to remember user preferences and settings, personalize your experience with the Platform, facilitate online advertising, and for security purposes. You may opt-out of the automatic collection of some information by referring to your web browser or mobile device options or settings menu. However, doing so may disable many of the portions, features, or functionality of the Platform. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences or visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) for more information.
-    * **Pixels.** Pixels, which are also known as “web beacons,” or “clear GIFs,” are typically used to determine whether a webpage or email was accessed or opened, or that certain content was viewed or clicked. Data collected from pixels is often used to compile statistics about usage of websites and the success of email marketing campaigns.
-    * **SDKs**. Software development kits, or “SDKs,” are third-party computer codes used in connection with the App for a variety purposes, including to provide analytics regarding the use of the App, integrate with social media, add features or functionality to the App, or facilitate online advertising. SDKs may enable third parties to collect information directly via the App.
+
+* **Cookies.** A cookie is a small piece of data stored by your web browser on your computer or mobile device. We use cookies to collect information from you regarding your usage of the Platform in order to remember user preferences and settings, personalize your experience with the Platform, facilitate online advertising, and for security purposes. You may opt-out of the automatic collection of some information by referring to your web browser or mobile device options or settings menu. However, doing so may disable many of the portions, features, or functionality of the Platform. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences or visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) for more information.
+* **Pixels.** Pixels, which are also known as “web beacons,” or “clear GIFs,” are typically used to determine whether a webpage or email was accessed or opened, or that certain content was viewed or clicked. Data collected from pixels is often used to compile statistics about usage of websites and the success of email marketing campaigns.
+* **SDKs**. Software development kits, or “SDKs,” are third-party computer codes used in connection with the App for a variety purposes, including to provide analytics regarding the use of the App, integrate with social media, add features or functionality to the App, or facilitate online advertising. SDKs may enable third parties to collect information directly via the App.
+
 * **Personal Information Collected from Third Parties**. We may also collect or receive personal information from third parties, which may include:
-    * **Our business partners**, such as third-party data providers and advertising partners.
-    * **Public sources**, such as social media platforms and publicly-available records.
-    * **Individuals or entities involved in our clients’ legal matters**, such as doctors, other parties, and other individuals that you may direct to provide us with information.
-    * **Referral sources**, such as members of our referral network, website submissions, and other referral sources.
+
+* **Our business partners**, such as third-party data providers and advertising partners.
+* **Public sources**, such as social media platforms and publicly-available records.
+* **Individuals or entities involved in our clients’ legal matters**, such as doctors, other parties, and other individuals that you may direct to provide us with information.
+* **Referral sources**, such as members of our referral network, website submissions, and other referral sources.
 
 ONLINE ANALYTICS
 ----------------
@@ -401,25 +373,29 @@ USE OF PERSONAL INFORMATION
 We may use the personal information we collect for the following purposes and as otherwise described in this Privacy Policy or at the time of collection:
 
 * **To Provide Our Platform**. We use personal information to provide our services, including the Platform. For example, we use personal information:
-    * to facilitate your requests for a free case evaluation and determine your legal needs;
-    * to provide you with legal and other services, content, and features you request;
-    * to create, manage, and monitor your account;
-    * to respond to your inquiries and communicate with you, including placing calls or sending texts using any automated technology, including prerecorded messages;
-    * to operate, troubleshoot, and improve the Platform;
-    * to process your transactions, invoices, and settlement payments;
-    * to understand your interests, personalize your experience on the Platform, and deliver information about products and services relevant to your interests;
-    * respond to your inquiries and requests for customer support, including to investigate and address your concerns and monitor and improve our responses; and
-    * enable security features of the Platform, such as by sending you security codes via email or SMS, and remembering devices from which you have previously logged in.
+
+* to facilitate your requests for a free case evaluation and determine your legal needs;
+* to provide you with legal and other services, content, and features you request;
+* to create, manage, and monitor your account;
+* to respond to your inquiries and communicate with you, including placing calls or sending texts using any automated technology, including prerecorded messages;
+* to operate, troubleshoot, and improve the Platform;
+* to process your transactions, invoices, and settlement payments;
+* to understand your interests, personalize your experience on the Platform, and deliver information about products and services relevant to your interests;
+* respond to your inquiries and requests for customer support, including to investigate and address your concerns and monitor and improve our responses; and
+* enable security features of the Platform, such as by sending you security codes via email or SMS, and remembering devices from which you have previously logged in.
+
 * **For Direct Marketing**. We may use your personal information to send you newsletters, legal updates, event information, marketing communications, and other information that may interest you.
 * **For Research and Development**. We use personal information for research and development purposes and to understand how people are using the Platform, including by generating and analyzing statistics, preferences, and usage trends, to make our Platform and other offerings better, diagnose technical issues, and develop new features and functionality. As part of these activities, we may create aggregated, de-identified or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Platform and promote our business.
 * **For Hiring Purposes**. If you apply to one of our open positions, submit application information or inquire about a position, we will use your personal information as part of the evaluation, recruitment, and hiring of personnel, including conducting background checks and contacting references.
 * **For Compliance, Fraud Prevention and Safety**.
-    * to enforce our Terms of Use and other agreements we may have;
-    * to comply with applicable laws, regulations, and legal processes;
-    * to protect our, your, or others’ rights, privacy, safety, or property (including by making and defending legal claims);
-    * to maintain the security and integrity of our business, the Platform, users, our third party business partners and service providers our databases and other technology assets;
-    * audit our internal processes for compliance with legal and contractual requirements and internal policies; and
-    * prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
+
+* to enforce our Terms of Use and other agreements we may have;
+* to comply with applicable laws, regulations, and legal processes;
+* to protect our, your, or others’ rights, privacy, safety, or property (including by making and defending legal claims);
+* to maintain the security and integrity of our business, the Platform, users, our third party business partners and service providers our databases and other technology assets;
+* audit our internal processes for compliance with legal and contractual requirements and internal policies; and
+* prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
+
 * **For Interest-Based Advertising**. We, our business partners, and our third party advertising partners may collect and use your personal information for advertising purposes. We may contract with third-party advertising companies and social media companies to help us advertise our services, identify potential customers, and display ads on our Platform and other sites and services, including through the use of interest-based advertising. These companies may use cookies and similar technologies to collect information about you (including the device information and online activity information described above) over time across our Platform and other sites and services or your interaction with our emails, and use that information to serve ads that they think will interest you and/or use hashed customer lists that we share with them to deliver ads to you and to similar users on their sites and services. You can learn more about your choices for limiting interest-based advertising, in the “Advertising Choices” section below.
 
 SHARING OF PERSONAL INFORMATION
@@ -505,8 +481,6 @@ In the preceding twelve months, we have disclosed the following categories of pe
 | **J. Education Information** | Yes | No  |
 | **K. Inferences Drawn from Personal Information** | Yes | No  |
 
- 
-
 **Your Privacy Rights Under California Law**  
 Under California law, subject to certain exceptions, California residents have the following rights with respect to their personal information:
 
@@ -523,8 +497,9 @@ If you would like to exercise your rights listed above, please follow the direct
 
 * **Access and Erasure Rights**. Send (or have your authorized agent send) an email to [contact@forthepeople.com](mailto:contact@forthepeople.com) or call us toll-free at: [1-(844) 256-4550](tel:+18442564550).
 * **Right to Opt-Out of the Sale of Personal Information**. Under California law, some of the personal information that we share with our advertising partners may qualify as a “sale” as defined under California privacy law. To exercise your right to opt-out of such “sale”, please:
-    * Email us at [contact@forthepeople.com](mailto:contact@forthepeople.com), or
-    * Click here:Do Not Sell My Personal Information.
+
+* Email us at [contact@forthepeople.com](mailto:contact@forthepeople.com), or
+* Click here:Do Not Sell My Personal Information.
 
 While we take measures to ensure that those responsible for receiving and responding to your request are informed of your rights and how to help you exercise those rights, when contacting us to exercise your rights, we ask you to please adhere to the following guidelines:
 
@@ -574,9 +549,7 @@ Zip Code
 
 E-mail 
 
-\- Case Type -
-
-\- Case Type -Airbag InjuryAnimal AttackBirth InjuryBusiness DisputeCamp LejeuneCar AccidentChildhood Sex AbuseCivil RightsClass ActionDangerous DrugsData BreachDefective ProductsEmployment IssueEnvironmental IssuesGardasilHair RelaxerHurt at WorkInsurance DisputeMaui WildfireMedical InjuryMesotheliomaNursing HomeOtherOther InjuryProduct InjurySlip & FallSocial Media HarmSocial SecurityTepezzaTrip and FallUnpaid Wages/EarningsVeteran DisabilityWeight Loss DrugWorkplace Discrimination
+\- Case Type - \- Case Type -Airbag InjuryAnimal AttackBirth InjuryBusiness DisputeCamp LejeuneCar AccidentChildhood Sex AbuseCivil RightsClass ActionDangerous DrugsData BreachDefective ProductsEmployment IssueEnvironmental IssuesGardasilHair RelaxerHurt at WorkInsurance DisputeMaui WildfireMedical InjuryMesotheliomaNursing HomeOtherOther InjuryProduct InjurySlip & FallSocial Media HarmSocial SecurityTepezzaTrip and FallUnpaid Wages/EarningsVeteran DisabilityWeight Loss DrugWorkplace Discrimination
 
 Please describe what happened
 
@@ -588,51 +561,35 @@ By submitting this form, you agree to our [Terms](https://www.forthepeople.com/d
 
 Extra info 
 
-Results may vary depending on your particular facts and legal circumstances.
+Results may vary depending on your particular facts and legal circumstances. ©2024 Morgan and Morgan, P.A. All rights reserved.
 
-[![Logo Morgan&Morgan](/sites/default/files/theme-assets/ftp/images/logo-yellow.svg)](https://www.forthepeople.com/)
+[![Morgan & Morgan logo](/themes/custom/morgan/logo.svg)](https://www.forthepeople.com/ "Home")
 
 * ### About Us
     
-    [Our Results](https://www.forthepeople.com/verdicts-and-settlements/) [Who We Are](https://www.forthepeople.com/who-we-are/) [In the community](https://www.forthepeople.com/in-the-community/) [Pound law](https://www.forthepeople.com/pound-law/) [Referrals](https://www.forthepeople.com/attorney-referrals/) [Careers | Join our team](https://www.forthepeople.com/employment/) [Shop](https://shop.forthepeople.com/) [Testimonials](https://www.forthepeople.com/testimonials/)
+    [Our Results](https://www.forthepeople.com/verdicts-and-settlements/) [Who We Are](https://www.forthepeople.com/who-we-are/) [In The Community](https://www.forthepeople.com/in-the-community/) [Pound Law](https://www.forthepeople.com/pound-law/) [Referrals](https://www.themorganconnection.com/about) [Careers | Join Our Team](https://www.forthepeople.com/employment/) [Shop](https://shop.forthepeople.com/) [Testimonials](https://www.forthepeople.com/testimonials/)
 * ### Resources
     
-    [Blog](https://www.forthepeople.com/blog/) [Testimonials](https://www.forthepeople.com/testimonials/) [FAQ](https://www.forthepeople.com/faq/) [In the media](https://www.forthepeople.com/in-the-media/) [TV commercials](https://www.forthepeople.com/commercials/) [Accessibility](https://www.forthepeople.com/accessibility/) [Complaints](https://www.forthepeople.com/complaints/) [Opt Out](https://www.forthepeople.com/opt-out/) [Sitemap](https://www.forthepeople.com/sitemap/)
+    [Blog](https://www.forthepeople.com/blog/) [Testimonials](https://www.forthepeople.com/testimonials/) [FAQ](https://www.forthepeople.com/faq/) [In The Media](https://www.forthepeople.com/in-the-media/) [TV commercials](https://www.forthepeople.com/commercials/) [Accessibility](https://www.forthepeople.com/accessibility/) [Complaints](https://www.forthepeople.com/complaints/) [Opt Out](https://www.forthepeople.com/opt-out/) [Sitemap](https://www.forthepeople.com/sitemap/)
 * ### Quick Links
     
     [Car Accident Lawyer](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/) [Slip and Fall Lawyer](https://www.forthepeople.com/practice-areas/slip-and-fall-attorneys/) [Truck Accident Lawyer](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/trucking-accident-attorneys/) [Personal Injury Lawyer](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/) [Labor and Employment Lawyer](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/) [Medical Malpractice Lawyer](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/) [Birth Injury Lawyer](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/birth-injury-attorneys/) [Brain Injury Lawyer](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/brain-injury-attorneys/)
-* ### Social
-    
-    * [](https://twitter.com/forthepeople)
-    * [](https://www.facebook.com/MMForthePeople)
-    * [](https://www.youtube.com/user/mmforthepeople)
-    * [](https://www.instagram.com/forthepeople/)
-    * [](https://www.linkedin.com/company/morgan-&-morgan-llc)
-* [Privacy Policy](https://www.forthepeople.com/privacy-policy/) [Disclaimers and Terms of Use](https://www.forthepeople.com/disclaimer-and-terms-of-use/)
 
 ### Social
 
-* [](https://twitter.com/forthepeople)
+* [](https://x.com/forthepeople)
 * [](https://www.facebook.com/MMForthePeople)
 * [](https://www.youtube.com/user/mmforthepeople)
 * [](https://www.instagram.com/forthepeople/)
 * [](https://www.linkedin.com/company/morgan-&-morgan-llc)
 
- [![themorganconnection.com](/sites/default/files/test-pages-assets/Morgan%20%26amp%3B%20Morgan%20Lawyers%20%7C%20America%26%23039%3Bs%20Largest%20Personal%20Injury%20Law%20Firm%20_v2/morgan-connection-logo.svg)](https://www.themorganconnection.com/)[![business trial group](/sites/default/files/test-pages-assets/Morgan%20%26amp%3B%20Morgan%20Lawyers%20%7C%20America%26%23039%3Bs%20Largest%20Personal%20Injury%20Law%20Firm%20_v2/footer-img02.svg)](https://www.businesstrialgroup.com/)[![the whistkeblower](/sites/default/files/test-pages-assets/Morgan%20%26amp%3B%20Morgan%20Lawyers%20%7C%20America%26%23039%3Bs%20Largest%20Personal%20Injury%20Law%20Firm%20_v2/footer-img03.svg)](https://www.whistleblowerattorneys.com/)[![abogados.com](/sites/default/files/test-pages-assets/Morgan%20%26amp%3B%20Morgan%20Lawyers%20%7C%20America%26%23039%3Bs%20Largest%20Personal%20Injury%20Law%20Firm%20_v2/footer-img04.svg)](https://www.abogados.com/)[![class action com](/sites/default/files/test-pages-assets/Morgan%20%26amp%3B%20Morgan%20Lawyers%20%7C%20America%26%23039%3Bs%20Largest%20Personal%20Injury%20Law%20Firm%20_v2/footer-img05.svg)](https://www.classaction.com/)
+ [![themorganconnection.com](/themes/custom/morgan/images/logos/morganconnection.svg)](https://www.themorganconnection.com/)[![business trial group](/themes/custom/morgan/images/logos/businesstrialgroup.svg)](https://www.businesstrialgroup.com/)[![the whistleblower](/themes/custom/morgan/images/logos/whistleblower.svg)](https://www.whistleblowerattorneys.com/)[![abogados.com](/themes/custom/morgan/images/logos/abogados.svg)](https://www.abogados.com/)[![class action com](/themes/custom/morgan/images/logos/classaction.svg)](https://www.classaction.com/)
 
 [![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.jpg)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
 
 [![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
 
-Sign up to our newsletter below to stay up to date!
-
-       
-
-[![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.jpg)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
-
-[![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
-
-Sign up to our newsletter below to stay up to date!
+### Subscribe to our newsletter
 
        
 
@@ -641,10 +598,8 @@ For a full list of locations in your area please visit our [Office Locations](ht
 
 This site is designed to be accessible to and usable by people with and without disabilities. Please [contact us](https://www.forthepeople.com/complaints/) if you encounter an accessibility or usability issue on this site. Attorney advertising. Prior results do not guarantee a similar outcome.
 
-  
-
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
-
 ©2024 Morgan and Morgan, P.A. All rights reserved
 
 [Privacy Policy](https://www.forthepeople.com/privacy-policy/) [Disclaimers and Terms of Use](https://www.forthepeople.com/disclaimer-and-terms-of-use/)
+
+Call Us Today - It's Free!877-667-4265
